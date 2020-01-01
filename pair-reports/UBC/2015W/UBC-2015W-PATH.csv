@@ -1,0 +1,69 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,"10-19",20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2015,W,PATH,300, ,001,"BACKGRD MED LAB","Xenakis, Jennifer",22,77.1,7.74,92,65,21,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,3,6,2,4,1
+UBC,2015,W,PATH,300, ,OVERALL,"BACKGRD MED LAB"," ",22,77.1,7.74,92,65,21,0,1,0,0,0,0,0,0,0,0,0,0,0,3,2,3,6,2,4,1
+UBC,2015,W,PATH,301, ,001,"BIOCHEM MED LAB","",23,76.45,7.1,90,64,22,0,1,0,0,0,0,0,0,0,0,0,0,0,2,4,6,1,6,2,1
+UBC,2015,W,PATH,301, ,OVERALL,"BIOCHEM MED LAB"," ",24,76.45,7.1,90,64,22,0,2,0,0,0,0,0,0,0,0,0,0,0,2,4,6,1,6,2,1
+UBC,2015,W,PATH,303, ,001,"CYTOGENETICS","Li, Juliana",23,76.18,7.81,91,61,22,0,1,0,0,0,0,0,0,0,0,0,0,2,1,2,4,7,3,1,2
+UBC,2015,W,PATH,303, ,OVERALL,"CYTOGENETICS"," ",24,76.18,7.81,91,61,22,0,2,0,0,0,0,0,0,0,0,0,0,2,1,2,4,7,3,1,2
+UBC,2015,W,PATH,304, ,001,"HUM HISTOLOGY","Gilks, Cyril Blake;Haley, Lawrence;Lee, Lawrence;Luo, Honglin;Ng, Tony;Skinnider, Brian;Yip, Stephen",24,74.96,10.1,94,57,23,0,1,0,0,0,0,0,0,0,0,0,2,1,2,3,3,6,2,1,3
+UBC,2015,W,PATH,304, ,OVERALL,"HUM HISTOLOGY"," ",24,74.96,10.1,94,57,23,0,1,0,0,0,0,0,0,0,0,0,2,1,2,3,3,6,2,1,3
+UBC,2015,W,PATH,305, ,001,"MOD MICROSCOPY","Kizhakkedathu, Jayachandran;O'Kusky, John",23,75.14,9.54,94,53,22,0,1,0,0,0,0,0,0,0,0,1,1,1,0,3,3,8,2,2,1
+UBC,2015,W,PATH,305, ,OVERALL,"MOD MICROSCOPY"," ",23,75.14,9.54,94,53,22,0,1,0,0,0,0,0,0,0,0,1,1,1,0,3,3,8,2,2,1
+UBC,2015,W,PATH,306, ,001,"MED LAB SAFETY","",23,77.64,6.49,89,63,22,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,3,7,5,3,0
+UBC,2015,W,PATH,306, ,OVERALL,"MED LAB SAFETY"," ",23,77.64,6.49,89,63,22,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,3,7,5,3,0
+UBC,2015,W,PATH,327, ,001,"BAC,MYC,VIR&PARA","Bryce, Elizabeth;Hsiao, William;Imperial, Miguel;Jassem, Agata;Krajden, Mel;Morshed, Muhammad;Petric, Martin;Prystajecky, Natalie;Roscoe, Diane;Scott, Mark",23,78.36,6.89,91,66,22,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,4,5,5,4,1
+UBC,2015,W,PATH,327, ,OVERALL,"BAC,MYC,VIR&PARA"," ",23,78.36,6.89,91,66,22,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,4,5,5,4,1
+UBC,2015,W,PATH,375, ,001,"INTRO HUMAN PATH","Nimmo, Michael;Van den Elzen, Peter",75,81.53,10.39,96,56,74,0,1,0,0,0,0,0,0,0,0,0,2,4,2,3,12,4,9,20,18
+UBC,2015,W,PATH,375, ,OVERALL,"INTRO HUMAN PATH"," ",75,81.53,10.39,96,56,74,0,1,0,0,0,0,0,0,0,0,0,2,4,2,3,12,4,9,20,18
+UBC,2015,W,PATH,402, ,001,"HAEMATOLOGY","Au, Nicholas;Bruyere, Helene;Carter, Cedric John;Conway, Edward;McNagny, Kelly Marshall;Medvedev, Nadejda;Roland, Kristine;Schubert, Peter;Scott, Mark;Skinnider, Brian;Vercauteren, Suzanne",19,82.21,9.98,92,55,19,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,5,4,5
+UBC,2015,W,PATH,402, ,OVERALL,"HAEMATOLOGY"," ",19,82.21,9.98,92,55,19,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,1,5,4,5
+UBC,2015,W,PATH,404, ,001,"HISTOCHEMISTRY","Xenakis, Jennifer",19,79.95,5.78,88,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,6,5,0
+UBC,2015,W,PATH,404, ,OVERALL,"HISTOCHEMISTRY"," ",19,79.95,5.78,88,69,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,6,5,0
+UBC,2015,W,PATH,405, ,001,"SEM CURR TOPICS","Bradley, Amanda;Godolphin, William;Sutherland, Michael",20,85.75,9.24,100,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,10,0,5
+UBC,2015,W,PATH,405, ,OVERALL,"SEM CURR TOPICS"," ",20,85.75,9.24,100,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,10,0,5
+UBC,2015,W,PATH,406, ,001,"CLIN CHEM","Dooley, Kent;Frohlich, Jiri;Hauff, Kristin;Hill, John Stuart;Holmes, Daniel;Jung, Benjamin;Mattman, Andre;Monsalve, Maria Victoria;Palaty, Jan;Pudek, Morris;Schreiber, William;Tomalty, Cheryl;Tucker, Tracy;Vallance, Hilary",20,77.85,8.54,88,57,20,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,1,6,5,0
+UBC,2015,W,PATH,406, ,OVERALL,"CLIN CHEM"," ",20,77.85,8.54,88,57,20,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,4,1,6,5,0
+UBC,2015,W,PATH,407, ,001,"MED LAB TOXICLGY","Holmes, Daniel;Jung, Benjamin;Keown, Paul Anthony;Li, Dailin;Nislow, Corey;Pudek, Morris;Purssell, Roy;Xenakis, Jennifer",20,85.6,5.23,92,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,9,4
+UBC,2015,W,PATH,407, ,OVERALL,"MED LAB TOXICLGY"," ",20,85.6,5.23,92,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,9,4
+UBC,2015,W,PATH,408, ,001,"LAB ADMIN","Bradley, Amanda;Tai, Jenny",20,86.6,5.43,94,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5,8
+UBC,2015,W,PATH,408, ,OVERALL,"LAB ADMIN"," ",20,86.6,5.43,94,74,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,5,8
+UBC,2015,W,PATH,415, ,001,"IMMUNOPATHOLOGY","Bradley, Amanda;Huynh, Hanh;Junker, Anne Kristine;Magil, Alexander;Quandt, Jacqueline",29,80.79,9.16,93,51,29,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,4,1,6,13,1
+UBC,2015,W,PATH,415, ,OVERALL,"IMMUNOPATHOLOGY"," ",29,80.79,9.16,93,51,29,0,0,0,0,0,0,0,0,0,0,1,0,0,1,2,4,1,6,13,1
+UBC,2015,W,PATH,417,A,99C,"HMN BACT INFCTNS","Kelly, Niamh;Lowe, Christopher",21,79.38,8.48,91,62,21,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,3,8,2,3
+UBC,2015,W,PATH,417, ,OVERALL,"HMN BACT INFCTNS"," ",21,79.38,8.48,91,62,21,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,3,8,2,3
+UBC,2015,W,PATH,417, ,OVERALL,"HMN BACT INFCTNS"," ",21,79.38,8.48,91,62,21,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,3,8,2,3
+UBC,2015,W,PATH,427, ,99C,"INFECTION CONTRO","Bryce, Elizabeth;Roscoe, Diane",14,79.75,12.05,92,47,11,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,3,2,3,2
+UBC,2015,W,PATH,427, ,OVERALL,"INFECTION CONTRO"," ",14,79.75,12.05,92,47,11,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,1,3,2,3,2
+UBC,2015,W,PATH,438,E,005,"MED LAB - DST","Seow, Chun Yong",7,89.86,5.21,97,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4
+UBC,2015,W,PATH,438, ,OVERALL,"MED LAB - DST"," ",7,89.86,5.21,97,82,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4
+UBC,2015,W,PATH,467, ,99C,"MICR INFECTN CTL","Al Rawahi, Ghada;Roberts, Frederick;Stefanovic, Aleksandra",12,80.58,6.05,89,71,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,5,3,0
+UBC,2015,W,PATH,467, ,OVERALL,"MICR INFECTN CTL"," ",12,80.58,6.05,89,71,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,5,3,0
+UBC,2015,W,PATH,477, ,99C,"EPID INFECT CONT","Naus, Monika",11,80.55,8.15,90,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,4,1
+UBC,2015,W,PATH,477, ,OVERALL,"EPID INFECT CONT"," ",11,80.55,8.15,90,65,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,1,4,1
+UBC,2015,W,PATH,501, ,001,"FND HUMN HISTOPT","Lee, Anna;Myles, Nickolas;Quandt, Jacqueline;Walker, David;Yip, Stephen",21,85.76,7.22,95,68,17,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,4,5,6
+UBC,2015,W,PATH,501, ,OVERALL,"FND HUMN HISTOPT"," ",21,85.76,7.22,95,68,17,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,1,0,4,5,6
+UBC,2015,W,PATH,502, ,001,"TPCS PATH RSRCH","Bennewith, Kevin;Cote, Helene;Devlin, Angela;Granville, David;Lockwood, William;Shah, Sohrab;Steidl, Christian;Verchere, Bruce;Wellington, Cheryl Lea;Weng, Andrew",19,91.79,3.24,97,87,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,14
+UBC,2015,W,PATH,502, ,OVERALL,"TPCS PATH RSRCH"," ",19,91.79,3.24,97,87,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,14
+UBC,2015,W,PATH,535, ,001,"SEMINAR","Cote, Helene;Kalloger, Steve Ernest;Laule, Cornelia;Lockwood, William;Wellington, Cheryl Lea",27,89,4.97,96,79,10,0,1,0,16,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,7
+UBC,2015,W,PATH,535, ,002,"SEMINAR","Cote, Helene;Kalloger, Steve Ernest;Laule, Cornelia;Lockwood, William;Wellington, Cheryl Lea",7,89.33,2.58,93,86,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+UBC,2015,W,PATH,535, ,OVERALL,"SEMINAR"," ",35,88.88,4.12,96,79,17,0,1,0,17,0,0,0,0,0,0,0,0,0,0,0,0,1,1,5,10
+UBC,2015,W,PATH,547, ,001,"TECH MLC BIOL&EX","Ng, David",11,91.55,2.73,96,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+UBC,2015,W,PATH,547, ,OVERALL,"TECH MLC BIOL&EX"," ",11,91.55,2.73,96,87,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+UBC,2015,W,PATH,548,C,03B,"DIR STD MSC STNT","Devlin, Angela;Gibson, William;Hoffman, Bradford;Levings, Megan;Luciani, Dan;Lynn, Francis;Panagiotopoulos, Constadina;Priatel, John;Verchere, Bruce",5,88.2,3.03,93,85,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1
+UBC,2015,W,PATH,548, ,OVERALL,"DIR STD MSC STNT"," ",23,86.26,3.25,93,79,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,2
+UBC,2015,W,PATH,548, ,OVERALL,"DIR STD MSC STNT"," ",23,86.26,3.25,93,79,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,2
+UBC,2015,W,PATH,548,L,001,"DIR STD MSC STNT","Cote, Helene;Kalloger, Steve Ernest",8,83.88,3.91,90,79,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1
+UBC,2015,W,PATH,548, ,OVERALL,"DIR STD MSC STNT"," ",23,86.26,3.25,93,79,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,2
+UBC,2015,W,PATH,548, ,OVERALL,"DIR STD MSC STNT"," ",23,86.26,3.25,93,79,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,2
+UBC,2015,W,PATH,548, ,OVERALL,"DIR STD MSC STNT"," ",23,86.26,3.25,93,79,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,2
+UBC,2015,W,PATH,548,Q,017,"DIR STD MSC STNT","Allard, Michael;Flint, Julia;Gilks, Cyril Blake;Holmes, Daniel;Magil, Alexander;Nielsen, Torsten;Pudek, Morris;Skinnider, Brian",8,87,1.31,89,85,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+UBC,2015,W,PATH,548, ,OVERALL,"DIR STD MSC STNT"," ",23,86.26,3.25,93,79,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,17,2
+UBC,2015,W,PATH,549,A,001,"MSC THESIS","",9,,,,,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PATH,549, ,OVERALL,"MSC THESIS"," ",36,89,2.24,90,85,5,0,1,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2015,W,PATH,549,B,001,"MSC THESIS","",19,90,0,90,90,3,0,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+UBC,2015,W,PATH,549,B,002,"MSC THESIS","",6,87.5,3.54,90,85,2,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+UBC,2015,W,PATH,549, ,OVERALL,"MSC THESIS"," ",36,89,2.24,90,85,5,0,1,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+UBC,2015,W,PATH,635, ,001,"SEMINAR","Cote, Helene;Kalloger, Steve Ernest;Laule, Cornelia;Lockwood, William;Wellington, Cheryl Lea",43,89.13,2.59,94,87,8,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2
+UBC,2015,W,PATH,635, ,OVERALL,"SEMINAR"," ",48,89.4,2.37,94,87,10,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,4
+UBC,2015,W,PATH,649, ,001,"DOC DISSERTATION","",44,,,,,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2015,W,PATH,649, ,OVERALL,"DOC DISSERTATION"," ",48,,,,,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

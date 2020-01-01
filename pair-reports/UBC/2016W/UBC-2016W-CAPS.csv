@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,"10-19",20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2016,W,CAPS,200, ,001,"BIOM RSRCH SKILL","Bamji, Shernaz;Haas, Kurt;Osborne, Salma",18,83.82,5.2,93,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,5,2
+UBC,2016,W,CAPS,200, ,OVERALL,"BIOM RSRCH SKILL"," ",18,83.82,5.2,93,70,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,9,5,2
+UBC,2016,W,CAPS,301, ,01D,"HUMAN PHYSIOLOGY","Kwok, Yin Nam Kenny",337,67.5,14.87,98,0,302,28,7,0,0,1,0,0,7,20,28,35,39,35,36,33,21,18,31,29,25
+UBC,2016,W,CAPS,301, ,OVERALL,"HUMAN PHYSIOLOGY"," ",337,67.5,14.87,98,0,302,28,7,0,0,1,0,0,7,20,28,35,39,35,36,33,21,18,31,29,25
+UBC,2016,W,CAPS,303, ,001,"HNRS HUMAN PHYL","Accili, Eric;Clee, Susanne Michelle;Haas, Kurt;Horne, Andrew;Kehl, Steven;Kwok, Yin Nam Kenny;Mason, Barry;Moukhles, Hakima;Osborne, Salma;Tanentzapf, Guy",19,84.11,4.33,92,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10,7,1
+UBC,2016,W,CAPS,303, ,OVERALL,"HNRS HUMAN PHYL"," ",19,84.11,4.33,92,71,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,10,7,1
+UBC,2016,W,CAPS,390, ,001,"INTR MCR HUM ANT","Kopp, Janel;Loewen, Christopher;Moukhles, Hakima;O'Connor, Timothy;Roskelley, Calvin;Tanentzapf, Guy;Viau, Victor;Yule, Heather",407,74.61,14.85,100,17,393,9,4,0,0,0,1,0,4,4,9,33,22,32,32,38,40,28,46,44,78
+UBC,2016,W,CAPS,390, ,OVERALL,"INTR MCR HUM ANT"," ",407,74.61,14.85,100,17,393,9,4,0,0,0,1,0,4,4,9,33,22,32,32,38,40,28,46,44,78
+UBC,2016,W,CAPS,391, ,001,"INTR GRS HUM ANT","Alimohammadi, Majid",412,70.83,12.9,96,34,378,23,10,0,0,0,0,0,3,20,23,21,36,32,49,41,38,40,57,40,24
+UBC,2016,W,CAPS,391, ,OVERALL,"INTR GRS HUM ANT"," ",412,70.83,12.9,96,34,378,23,10,0,0,0,0,0,3,20,23,21,36,32,49,41,38,40,57,40,24
+UBC,2016,W,CAPS,399, ,001,"COOP WORK II","Osborne, Salma",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CAPS,399, ,OVERALL,"COOP WORK II"," ",7,,,,,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CAPS,421, ,001,"ADV CEL&MOL PHYS","Nabi, Ivan Robert;Underhill, Tully Michael",33,85.3,6.14,94,71,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,15,9
+UBC,2016,W,CAPS,421, ,OVERALL,"ADV CEL&MOL PHYS"," ",33,85.3,6.14,94,71,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,3,2,15,9
+UBC,2016,W,CAPS,422, ,001,"CARDIO&RESP PHYL","Accili, Eric;Kehl, Steven;Moore, Edwin D;Osborne, Salma",21,84.33,9.01,94,57,21,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,3,9,5
+UBC,2016,W,CAPS,422, ,OVERALL,"CARDIO&RESP PHYL"," ",21,84.33,9.01,94,57,21,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,3,9,5
+UBC,2016,W,CAPS,423, ,001,"RENL&GASTRO PHYL","Accili, Eric;Clee, Susanne Michelle;Kieffer, Tim;Kwok, Yin Nam Kenny;Lynn, Francis",21,85.43,5.59,95,73,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,10,4
+UBC,2016,W,CAPS,423, ,OVERALL,"RENL&GASTRO PHYL"," ",21,85.43,5.59,95,73,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,4,10,4
+UBC,2016,W,CAPS,424, ,001,"MAM ENDOCRINOLGY","Clee, Susanne Michelle;Hoffman, Bradford;Johnson, James;Kindler, Pawel;Luciani, Dan;Rideout, Elizabeth;Verchere, Bruce;Viau, Victor",29,86.48,6.4,96,72,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,5,13
+UBC,2016,W,CAPS,424, ,OVERALL,"MAM ENDOCRINOLGY"," ",29,86.48,6.4,96,72,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,8,5,13
+UBC,2016,W,CAPS,426, ,001,"ADV NEUROPHYL","Accili, Eric;Allan, Douglas;Bamji, Shernaz;Haas, Kurt;Loewen, Christopher;O'Connor, Timothy",25,84.17,7.9,98,68,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,6,6,7
+UBC,2016,W,CAPS,426, ,OVERALL,"ADV NEUROPHYL"," ",25,84.17,7.9,98,68,24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,6,6,7
+UBC,2016,W,CAPS,430, ,001,"ADV LAB PHYSIOL","Accili, Eric;Allan, Douglas;Baimbridge, Kenneth;Clee, Susanne Michelle;Haas, Kurt;Hammond, Geoffrey Lewis;Johnson, James;Kieffer, Tim;Loewen, Christopher;Luciani, Dan;Mason, Barry;Osborne, Salma;Tanentzapf, Guy",15,90.13,1.92,94,87,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8
+UBC,2016,W,CAPS,430, ,OVERALL,"ADV LAB PHYSIOL"," ",15,90.13,1.92,94,87,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,8
+UBC,2016,W,CAPS,448, ,OVERALL,"DIRECTED STUDIES"," ",6,90.33,7.06,96,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4
+UBC,2016,W,CAPS,448, ,OVERALL,"DIRECTED STUDIES"," ",6,90.33,7.06,96,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4
+UBC,2016,W,CAPS,448,C,003,"DIRECTED STUDIES","Roskelley, Calvin",5,91.8,6.8,96,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+UBC,2016,W,CAPS,448, ,OVERALL,"DIRECTED STUDIES"," ",6,90.33,7.06,96,80,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4
+UBC,2016,W,CAPS,449, ,001,"GRAD ESSAY","Kieffer, Tim",15,90.13,2.9,95,87,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7
+UBC,2016,W,CAPS,449, ,OVERALL,"GRAD ESSAY"," ",15,90.13,2.9,95,87,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,7
+UBC,2016,W,CAPS,498, ,002,"COOP WORK III","Osborne, Salma",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2016,W,CAPS,498, ,OVERALL,"COOP WORK III"," ",4,,,,,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,"10-19",20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2012,W,SCIE,1, ,001,"SCIENCE ONE","",69,76.18,12.82,91,15,65,3,1,0,0,0,1,0,0,2,3,0,1,4,5,7,7,4,22,6,9
+UBC,2012,W,SCIE,1, ,OVERALL,"SCIENCE ONE"," ",71,76.18,12.82,91,15,65,3,3,0,0,0,1,0,0,2,3,0,1,4,5,7,7,4,22,6,9
+UBC,2012,W,SCIE,113, ,101,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Waltham, Christopher",27,74.22,19.88,94,2,25,2,0,0,0,1,0,1,0,0,2,1,0,0,2,2,4,2,6,5,3
+UBC,2012,W,SCIE,113, ,102,"SCIE SEMINAR","Berger, James;Fox, Joanne Alison;Han, Andrea",26,76,3.79,82,70,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,7,7,7,0,0
+UBC,2012,W,SCIE,113, ,103,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Lim, Chinten James",20,75.5,4.98,85,67,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,7,2,1,0
+UBC,2012,W,SCIE,113, ,108,"SCIE SEMINAR","De Wreede, Robert;Fox, Joanne Alison;Han, Andrea",23,74.74,9.34,92,54,23,0,0,0,0,0,0,0,0,0,0,1,0,1,4,2,5,2,3,4,1
+UBC,2012,W,SCIE,113, ,109,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea",26,75.31,7.3,90,58,26,0,0,0,0,0,0,0,0,0,0,0,1,2,1,2,4,7,8,0,1
+UBC,2012,W,SCIE,113, ,110,"SCIE SEMINAR","Bole, Gregory Michael;Fox, Joanne Alison;Han, Andrea",25,77.63,7.65,90,59,24,0,1,0,0,0,0,0,0,0,0,0,1,1,0,2,5,4,7,3,1
+UBC,2012,W,SCIE,113, ,111,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Knorr, Edwin Max",27,74.04,6.93,88,57,27,0,0,0,0,0,0,0,0,0,0,0,1,1,1,5,10,4,2,3,0
+UBC,2012,W,SCIE,113, ,112,"SCIE SEMINAR","Cheung, Wai Lung;Fox, Joanne Alison;Han, Andrea",27,75.44,6.8,93,61,27,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,7,3,8,0,1
+UBC,2012,W,SCIE,113, ,201,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Harris, Sara",25,75.29,8.88,88,51,24,0,1,0,0,0,0,0,0,0,0,1,1,1,1,2,3,7,5,3,0
+UBC,2012,W,SCIE,113, ,202,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Pai, Dinesh",23,69.09,24.06,87,0,20,3,0,0,0,2,0,1,0,0,3,0,0,0,0,5,2,4,6,3,0
+UBC,2012,W,SCIE,113, ,203,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Steyn, Douw Gerbrand",21,70.85,22.82,91,8,18,2,1,0,0,1,1,0,0,0,2,1,0,1,0,2,2,2,6,2,2
+UBC,2012,W,SCIE,113, ,208,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Sherman, John",17,75.47,7.08,86,60,17,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,1,7,1,0
+UBC,2012,W,SCIE,113, ,209,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Oberg, Gunilla",25,71.76,10.1,88,52,25,0,0,0,0,0,0,0,0,0,0,1,3,2,2,3,2,7,3,2,0
+UBC,2012,W,SCIE,113, ,210,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea",25,74.21,6.86,85,63,24,0,1,0,0,0,0,0,0,0,0,0,0,1,3,6,3,4,5,2,0
+UBC,2012,W,SCIE,113, ,211,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Samuels, Anne Lacey",26,72.73,13.56,84,18,25,1,0,0,0,0,1,0,0,0,1,0,2,1,1,2,6,2,11,0,0
+UBC,2012,W,SCIE,113, ,212,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Vatsal, Vinayak",26,73.73,13.85,86,19,24,2,0,0,0,0,1,0,0,1,2,0,0,0,0,4,6,5,7,2,0
+UBC,2012,W,SCIE,113, ,A01,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea;Ng, David",23,70.35,14.13,91,16,22,1,0,0,0,0,1,0,0,0,1,0,2,1,2,4,5,4,3,0,1
+UBC,2012,W,SCIE,113, ,B01,"SCIE SEMINAR","De Wreede, Robert;Fox, Joanne Alison;Han, Andrea",26,70.24,16.73,91,23,21,4,1,0,0,0,0,1,0,3,4,0,1,0,3,4,2,3,3,4,1
+UBC,2012,W,SCIE,113, ,GP2,"SCIE SEMINAR","Fox, Joanne Alison;Han, Andrea",4,,,,,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2012,W,SCIE,113, ,OVERALL,"SCIE SEMINAR"," ",444,73.71,12.71,94,0,417,15,12,0,0,4,4,3,0,4,15,5,12,14,23,62,81,75,99,35,11
+UBC,2012,W,SCIE,120, ,1F2,"TPCS SUSTAIN SCI","Harrison, Paul Garth;Jandciu, Eric;Kindsvater,  Holly;Winget, Danielle",15,93.13,2.47,96,88,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,14
+UBC,2012,W,SCIE,120, ,1F3,"TPCS SUSTAIN SCI","Harrison, Paul Garth;Jandciu, Eric;Kindsvater,  Holly;Lotterhos, Katie",9,75.89,32.44,97,0,7,2,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,1,6
+UBC,2012,W,SCIE,120, ,2F2,"TPCS SUSTAIN SCI","Harrison, Paul Garth;Jandciu, Eric",16,85.43,4.83,93,75,14,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,4,4
+UBC,2012,W,SCIE,120, ,2F3,"TPCS SUSTAIN SCI","Jandciu, Eric;Kindsvater,  Holly",10,86.4,6.8,95,75,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,5
+UBC,2012,W,SCIE,120, ,OVERALL,"TPCS SUSTAIN SCI"," ",50,86.25,15.24,97,0,46,2,2,0,0,1,0,0,0,1,2,0,0,0,0,0,2,1,7,7,29
+UBC,2012,W,SCIE,300, ,109,"COMMUNICATE SCIE","Jandciu, Eric;Stewart, Jaclyn;Stoodley, Robin",16,76.44,6.73,90,61,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,3,5,0,1
+UBC,2012,W,SCIE,300, ,110,"COMMUNICATE SCIE","Graham, Sean;Jandciu, Eric;Stewart, Jaclyn",24,79.87,5.16,90,69,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,4,4,10,2,2
+UBC,2012,W,SCIE,300, ,111,"COMMUNICATE SCIE","Burkett, Craig;Jandciu, Eric;Stewart, Jaclyn",25,77.12,7.44,90,52,25,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,4,6,9,1,1
+UBC,2012,W,SCIE,300, ,201,"COMMUNICATE SCIE","Jandciu, Eric;Jetter, Reinhard;Stewart, Jaclyn",17,75,5.65,85,65,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,5,4,3,1,0
+UBC,2012,W,SCIE,300, ,210,"COMMUNICATE SCIE","Jandciu, Eric;Stewart, Jaclyn;Trites, Andrew",24,81.17,4.68,88,72,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,12,6,0
+UBC,2012,W,SCIE,300, ,211,"COMMUNICATE SCIE","Burkett, Craig;Jandciu, Eric;Stewart, Jaclyn",20,79.11,7.07,91,61,19,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,3,3,8,1,2
+UBC,2012,W,SCIE,300, ,212,"COMMUNICATE SCIE","Jandciu, Eric;Jetter, Reinhard;Stewart, Jaclyn",23,77.87,6.73,88,61,23,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,5,7,4,0
+UBC,2012,W,SCIE,300, ,OVERALL,"COMMUNICATE SCIE"," ",151,78.27,6.44,91,52,147,0,4,0,0,0,0,0,0,0,0,1,0,3,1,13,27,27,54,15,6

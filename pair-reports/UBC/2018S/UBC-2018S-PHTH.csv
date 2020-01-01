@@ -1,0 +1,35 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,Pass,Fail,Withdrew,Audit,Other,0-9,"10-19",20-29,30-39,40-49,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBC,2018,S,PHTH,301, ,921,"PHYS THER FNDTNS","Anthony, Joseph",42,75.05,11.62,92,42,39,1,2,0,0,0,0,0,0,1,1,1,2,2,2,7,5,4,5,7,4
+UBC,2018,S,PHTH,301, ,OVERALL,"PHYS THER FNDTNS"," ",42,75.05,11.62,92,42,39,1,2,0,0,0,0,0,0,1,1,1,2,2,2,7,5,4,5,7,4
+UBC,2018,S,PHTH,531, ,001,"PATH FOR PT 3","Gruenig, Simone",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,531, ,OVERALL,"PATH FOR PT 3"," ",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,534, ,001,"CLINCL PRAC III","",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,534, ,OVERALL,"CLINCL PRAC III"," ",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,538, ,001,"CASE INTEG II","Anthony, Joseph;Grant, Natalie;Rankin, Anne",78,86.27,4.16,96,74,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,23,35,17
+UBC,2018,S,PHTH,538, ,OVERALL,"CASE INTEG II"," ",78,86.27,4.16,96,74,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,23,35,17
+UBC,2018,S,PHTH,544, ,921,"CLIN PRAC IVA","Klassen, Tara",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,544, ,OVERALL,"CLIN PRAC IVA"," ",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,545, ,921,"CLIN PRAC IVB","",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,545, ,OVERALL,"CLIN PRAC IVB"," ",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,546, ,921,"CLIN MAKE III","Murphy, Susan;Rankin, Anne;Roots, Robin;Sauve, Karen",78,91.28,3.67,97,82,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,57
+UBC,2018,S,PHTH,546, ,OVERALL,"CLIN MAKE III"," ",78,91.28,3.67,97,82,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,17,57
+UBC,2018,S,PHTH,548, ,921,"CASE INTGR III","Eng, Janice;Klassen, Tara;Rankin, Anne;Sauve, Karen",79,87.24,5.55,100,73,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,17,25,30
+UBC,2018,S,PHTH,548, ,OVERALL,"CASE INTGR III"," ",79,87.24,5.55,100,73,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,17,25,30
+UBC,2018,S,PHTH,552, ,921,"REHAB RSRCH","Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Roots, Robin;Scott, Alexander;Virji-Babul, Naznin",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,552, ,922,"REHAB RSRCH","Boyd, Lara;Camp, Patricia;Campbell, Kristin;Eng, Janice;Greig, Alison;Guenette, Jordan;Hunt, Michael Anthony;Li, Linda;Liu, Teresa Yeong Lih;Murphy, Susan;Rankin, Anne;Roots, Robin;Scott, Alexander;Simpson, Lisa;Virji-Babul, Naznin",79,91.78,3.66,98,85,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,54
+UBC,2018,S,PHTH,552, ,OVERALL,"REHAB RSRCH"," ",157,91.78,3.66,98,85,79,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,54
+UBC,2018,S,PHTH,558, ,001,"CASE INTGR IV","Rankin, Anne",79,83.59,8.52,97,62,79,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,5,15,24,19
+UBC,2018,S,PHTH,558, ,OVERALL,"CASE INTGR IV"," ",79,83.59,8.52,97,62,79,0,0,0,0,0,0,0,0,0,0,0,0,1,4,5,6,5,15,24,19
+UBC,2018,S,PHTH,564, ,921,"CLIN PRAC VI A","Campbell, Kristin;Gruenig, Simone;Rankin, Anne;Reid, Andrea;Sauve, Karen",79,83.92,3.27,91,76,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,40,28,4
+UBC,2018,S,PHTH,564, ,OVERALL,"CLIN PRAC VI A"," ",79,83.92,3.27,91,76,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,40,28,4
+UBC,2018,S,PHTH,566, ,921,"CLIN MAKE IV","George, Timberly;Lowcock, Janet;Lundie, Janet;Paul, Susan",79,92.71,2.5,97,88,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,69
+UBC,2018,S,PHTH,566, ,OVERALL,"CLIN MAKE IV"," ",79,92.71,2.5,97,88,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,69
+UBC,2018,S,PHTH,574, ,001,"CLINCL PRAC VII","",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,574, ,OVERALL,"CLINCL PRAC VII"," ",78,,,,,0,0,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,576, ,921,"CLIN DEC MAKNG V","",80,,,,,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,576, ,922,"CLIN DEC MAKNG V","",77,,,,,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,576, ,OVERALL,"CLIN DEC MAKNG V"," ",157,,,,,0,0,0,0,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,580, ,921,"ORTH CLIN R & S","Scott, Alexander",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,580, ,OVERALL,"ORTH CLIN R & S"," ",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,581, ,921,"E & T MANIP THER","Scott, Alexander",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBC,2018,S,PHTH,581, ,OVERALL,"E & T MANIP THER"," ",6,,,,,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
