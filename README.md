@@ -20,7 +20,7 @@ The PAIR Reports contained these distinctions:
   
 The new Tableau dashboard has these distinctions:
   - Additional privacy for the data, resulting in null entries for any class sections or grade letters that had fewer than 6 entires.
-  - Higher precision of grade averages and standard deviations for some unknown decimal places.
+  - Higher precision of grade averages and standard deviations to nine decimal places.
   - The campus code `UBC` has been changed to `UBCV`.
  
 These differences are reflected in the data.
