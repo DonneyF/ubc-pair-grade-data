@@ -16,7 +16,7 @@ The PAIR Reports contained these distinctions:
   - Number of students that audited the course
   - Number of students that completed the course outside any of the above three categories
   - Precision of grade averages and standard deviations of two decimal places
-  - A grade category representing the number of fails as `<50'
+  - A grade category representing the number of fails as `<50`
   
 The new Tableau dashboard has these distinctions:
   - Additional privacy for the data, resulting in null entries for any class sections or grade letters that had fewer than 6 entires.
