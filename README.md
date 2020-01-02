@@ -19,6 +19,7 @@ The PAIR Reports contained these distinctions:
 The new Tableau dashboard has these distinctions:
   - Additional privacy for the data, resulting in null entries for any class sections or grade letters that had fewer than 6 entires.
     - For this reason if fewer than 6 people failed a course it is not possible to get the failure/passing rate for a section.
+    - Where possible, missing grade entries are filled. For example, if only one entry is missing among all the grade categories for one section, the missing value can be computed by subtracting the populated grade entries from the total enrolment. This is also applied across sections, if only one section and one grade entry is missing across mutiple sections. The missing grade entry is computed by subtracting the populated grade entry for a particular grade category from the grade entry of the `OVERALL` section.
   - Higher precision of grade averages and standard deviations to nine decimal places.
   - The campus code `UBC` has been changed to `UBCV`.
   - The course title fields are populated with its full title rather than an capitalized shorthand, as one might see on the SSC.
@@ -27,7 +28,7 @@ These differences are reflected in the data.
 
 ## PAIR Reports Data
 
-The data from PAIR Reports should only be relevant for grade data of around 2016W or earlier. This is because grade data from 2017W was found to be modified in the timeframe between June 2019 and Dec 2019.
+The data from PAIR Reports should only be relevant for grade data of around 2016W or earlier. This is because grade data from 2017W was found to be modified in the timeframe between June 2019 and Dec 2019. Only data for UBC Vancouver was taken.
 
 Other considerations for this data include: 
 
