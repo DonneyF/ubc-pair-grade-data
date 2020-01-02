@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,DSCI,511,,001,Programming for Data Science,Patrick Walls;Vincenzo Coia,42,90.04761904799999,3.3052241060000003,95.0,83.0,,,,,,,,,,15,25
+UBCV,2017,W,DSCI,512,,001,Algorithms and Data Structures,Patrice Belleville,42,84.619047619,5.432298983,95.0,72.0,,,,,,,,6,11,15,8
+UBCV,2017,W,DSCI,513,,001,Databases and Data Retrieval,Laks Lakshmanan,42,92.35714285700001,2.78341279,97.0,87.0,,,,,,,,,,6,36
+UBCV,2017,W,DSCI,521,,001,Computing Platforms for Data Science,Giulio Valentino Dalla Riva,42,93.85714285700001,2.192797841,97.0,87.0,,,,,,,,,,,39
+UBCV,2017,W,DSCI,522,,001,Data Science Workflows,Tiffany Timbers,42,90.214285714,6.5612897089999995,97.0,62.0,,,,,,,,,,10,27
+UBCV,2017,W,DSCI,523,,001,Data Wrangling,Jennifer Frazier Bryan,43,90.62790697700001,3.703429915,97.0,83.0,,,,,,,,,,16,25
+UBCV,2017,W,DSCI,524,,001,Collaborative Software Development,Meghan Allen,42,91.69047619,2.483978862,95.0,86.0,,,,,,,,,,9,33
+UBCV,2017,W,DSCI,525,,001,Web and Cloud Computing,Michael Feeley,44,92.204545455,3.527826562,96.0,79.0,,,,,,,,,,,39
+UBCV,2017,W,DSCI,531,,001,Data Visualization I,Tamara Munzner;Vincenzo Coia,43,90.93023255799999,3.8815519039999997,96.0,77.0,,,,,,,,,,15,27
+UBCV,2017,W,DSCI,532,,001,Data Visualization II,Tamara Munzner,43,87.186046512,8.516806393,96.0,60.0,,,,,,,,,5,5,26
+UBCV,2017,W,DSCI,541,,001,"Privacy, Ethics, and Security",Edwin Max Knorr,43,93.37209302299999,3.848458293,99.0,83.0,,,,,,,,,,,37
+UBCV,2017,W,DSCI,542,,001,Communication and Argumentation,,43,90.76744186,3.3794702969999997,95.0,83.0,,,,,,,,,,8,32
+UBCV,2017,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Vincenzo Coia;Zheng Sun,42,90.071428571,5.081736102,97.0,73.0,,,,,,,,,,8,28
+UBCV,2017,W,DSCI,552,,001,Statistical Inference and Computation I,Michael Marin,42,90.714285714,3.038659158,96.0,83.0,,,,,,,,,,13,28
+UBCV,2017,W,DSCI,553,,001,Statistical Inference and Computation II,Paul Gustafson,44,86.590909091,5.7801512079999995,96.0,72.0,,,,,,,,,7,16,15
+UBCV,2017,W,DSCI,554,,001,Experimentation and Causal Inference,Paul Gustafson,44,84.340909091,5.754444922,94.0,69.0,,,,,,,,,15,14,8
+UBCV,2017,W,DSCI,561,,001,Regression I,Gabriela Cohen Freue,42,91.023809524,3.173734395,95.0,78.0,,,,,,,,,,6,34
+UBCV,2017,W,DSCI,562,,001,Regression II,Lang Wu,43,82.395348837,8.739999823,93.0,47.0,,,,,,,,7,8,14,8
+UBCV,2017,W,DSCI,563,,001,Unsupervised Learning,Edwin Max Knorr;Giulio Valentino Dalla Riva;Michael Gelbart,44,84.886363636,7.17299817,94.0,65.0,,,,,,,,6,7,11,15
+UBCV,2017,W,DSCI,571,,001,Supervised Learning I,Hye Ju Jang;Patrice Belleville,44,88.386363636,6.932283456,97.0,64.0,,,,,,,,,5,10,23
+UBCV,2017,W,DSCI,572,,001,Supervised Learning II,Michael Gelbart,45,87.111111111,6.806488289,97.0,67.0,,,,,,,,,7,12,20
+UBCV,2017,W,DSCI,573,,001,Feature and Model Selection,Mark Schmidt,45,84.111111111,7.435242315,94.0,55.0,,,,,,,,,11,16,10
+UBCV,2017,W,DSCI,574,,001,Spatial and Temporal Models,Natalia Nolde,45,83.666666667,7.501514998999999,95.0,60.0,,,,,,,,7,9,14,10
+UBCV,2017,W,DSCI,575,,001,Advanced Machine Learning,Mark Schmidt,45,87.46666666700001,6.507338515,96.0,72.0,,,,,,,,,7,11,22
+UBCV,2017,W,DSCI,591,,001,Capstone Project,Giulio Valentino Dalla Riva;Michael Gelbart;Tiffany Timbers;Vincenzo Coia,44,90.181818182,4.437015167,95.0,80.0,,,,,,,,,,14,26

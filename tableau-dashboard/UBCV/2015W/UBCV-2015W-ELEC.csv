@@ -1,0 +1,73 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2015,W,ELEC,201,,101,Circuit Analysis I,Luis Linares;Mirza Sarwar;Mohammad Ghasemi Damavandi;Sina Mashayekhi,90,71.677777778,19.381925889,100.0,6.0,12,5,,7,,6,6,9,15,7,17
+UBCV,2015,W,ELEC,201,,102,Circuit Analysis I,Jesus Calvino-Fraga;Nafiseh Nikpour;Rana Dastgir,89,66.865168539,21.290304564,100.0,0.0,15,12,,6,11,5,6,,7,7,15
+UBCV,2015,W,ELEC,201,,201,Circuit Analysis I,Mirza Sarwar;Naga Raghavendra Koppisetti;Parinaz Hadadtehrani;Saloome Motavas;Seyed Ali Saberali,135,71.148148148,17.651484449,100.0,0.0,8,11,10,5,8,19,15,13,17,13,16
+UBCV,2015,W,ELEC,202,,101,Circuit Analysis II,Chinmaya Mahapatra;Luis Linares;Nazanin Hamzei,37,64.08108108100001,19.961599772,100.0,7.0,6,7,,,5,,,,,,6
+UBCV,2015,W,ELEC,202,,201,Circuit Analysis II,Amit Mishra;Luis Linares;Mohammad Ghasemi Damavandi,77,74.272727273,16.986555337000002,100.0,36.0,5,7,8,,,6,7,8,8,,19
+UBCV,2015,W,ELEC,202,,202,Circuit Analysis II,Chinmaya Mahapatra;Joseph Yan,71,64.38028169,18.469562759000002,100.0,6.0,10,6,7,13,5,9,,,,,8
+UBCV,2015,W,ELEC,203,,101,Basic Circuit Analysis,Emran Mohammad Abu Anas;Min Ai;Shankhanaad Mallick,53,75.018867925,14.404180170999998,96.0,26.0,,5,,,,,5,7,9,8,7
+UBCV,2015,W,ELEC,204,,101,Linear Circuits,Jun Zhu;Parinaz Hadadtehrani;Saloome Motavas;Seyed Ali Saberali,112,82.116071429,13.94115402,100.0,34.0,,,,5,,9,6,5,16,12,48
+UBCV,2015,W,ELEC,205,,L1A,Electronics Laboratory,Saloome Motavas;Yanan Sun,28,93.928571429,7.312741652000001,99.0,68.0,,,,,,,,,,,22
+UBCV,2015,W,ELEC,205,,L1B,Electronics Laboratory,Saloome Motavas;Yanan Sun,26,90.26923076899999,19.777881974,99.0,0.0,,,,,,,,,,,21
+UBCV,2015,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger;Jun Zhu;Parinaz Hadadtehrani;Vincent Wong,91,61.021978022,18.87324857,97.0,11.0,20,10,9,8,10,10,6,,,5,6
+UBCV,2015,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger;Emran Mohammad Abu Anas;Sayed Mohammad Hashem Jayhooni,89,63.865168538999995,19.745650275,96.0,0.0,15,7,7,11,7,9,6,,11,8,
+UBCV,2015,W,ELEC,221,,101,Signals and Systems,Abdelmalik Aljalai;Abdelmalik Nass Aljalai;Carlos Gerardo;Hamid Moradi Kashkouli;Keyi Tang;Lutz Lampe,144,61.680555556,18.123759771,99.0,20.0,33,19,13,14,9,9,10,10,8,10,9
+UBCV,2015,W,ELEC,221,,201,Signals and Systems,Abdelmalik Aljalai;Abdelmalik Nass Aljalai;Carlos Gerardo;Keyi Tang;Lutz Lampe;Naveen Mysore Balasubramanya;Pedram Mohammadi;Shekoofeh Azizi;Yanan Sun,219,64.22374429199999,13.753404337000001,99.0,11.0,23,28,27,32,27,21,12,12,18,11,8
+UBCV,2015,W,ELEC,271,,201,Selected Topics in Biomedical Engineering,Delaram Behnami;Robert Rohling,23,91.826086957,5.66209224,100.0,80.0,,,,,,,,,,,16
+UBCV,2015,W,ELEC,281,,201,Technical Communication,Annette Berndt,35,75.028571429,10.52863243,90.0,47.0,,,,,,,5,7,8,5,
+UBCV,2015,W,ELEC,281,,202,Technical Communication,Hongxing Estella Qi,30,72.56666666699999,9.054179196,87.0,47.0,,,,,,,6,6,,,
+UBCV,2015,W,ELEC,281,,203,Technical Communication,Annette Berndt,31,72.451612903,10.682817073999999,85.0,47.0,,,,,,,7,8,6,,
+UBCV,2015,W,ELEC,281,,204,Technical Communication,Hongxing Estella Qi,25,75.28,10.608644274,92.0,47.0,,,,,,,,7,6,,
+UBCV,2015,W,ELEC,281,,205,Technical Communication,Jan Lermitte,34,74.705882353,6.8114405179999995,86.0,56.0,,,,,,6,,10,6,,
+UBCV,2015,W,ELEC,291,,20C,Electrical and Computer Engineering Design Studio,Ali Rafie;Ali Ravandi Rafie;Farshid Agharebparast;Maryam Azimi Hashemi;Shahab Bahrami;Sidhant Guliani;Xueqin Zhang,112,86.8125,3.870729265,94.0,67.0,,,,,,,,,17,63,30
+UBCV,2015,W,ELEC,291,,20E,Electrical and Computer Engineering Design Studio,Francisco Paz;Jeanie Hakansson Malone;Jeanie Malone;Jesus Calvino-Fraga;Manyou Ma;Reuben Levi Paul;Reuben Paul;Robert David Evans;Robert Evans,110,85.345454545,6.586664821,97.0,63.0,,,,,,,6,11,26,25,39
+UBCV,2015,W,ELEC,292,,201,Biomedical Engineering Design Studio,Jesus Calvino-Fraga;Min Ai,19,89.684210526,2.2620696419999997,93.0,85.0,,,,,,,,,,6,13
+UBCV,2015,W,ELEC,301,,101,Electronic Circuits,Carlos Gerardo;Han Yun;Minglei Ma;Nicolas A Jaeger;Zhibang Liang,160,70.2125,18.368823567,99.0,3.0,25,,7,11,16,16,14,10,23,16,22
+UBCV,2015,W,ELEC,301,,201,Electronic Circuits,Carlos Gerardo;Carol Patricia Jaeger;Han Yun,63,70.095238095,21.059603805,95.0,3.0,10,,,5,,,8,5,7,8,11
+UBCV,2015,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Ahmed Ibrahim;Kenichi Takahata,38,80.34210526300001,9.344101524,97.0,64.0,,,,,,7,,7,6,,8
+UBCV,2015,W,ELEC,311,,101,Electromagnetic Fields and Waves,Amir Hossein Khoshaman;Matthew Yedlin;Shahab Bahrami,91,73.736263736,10.723634505,92.0,20.0,,,,,8,14,20,14,16,8,
+UBCV,2015,W,ELEC,311,,201,Electromagnetic Fields and Waves,Amir Hossein Khoshaman;Konrad Walus;Seyed Arash Sheikholeslam,81,75.716049383,12.926943343,96.0,0.0,,,,5,,13,17,9,14,10,8
+UBCV,2015,W,ELEC,315,,101,Electronic Materials and Devices,Ava Sheikhi Shoshtari;Peyman Servati;Zenan Jiang,92,67.75,16.2383517,95.0,11.0,7,11,10,5,,9,12,9,12,8,5
+UBCV,2015,W,ELEC,315,,201,Electronic Materials and Devices,Ali Mahmoudzadeh Ahmadi;Ava Sheikhi Shoshtari;Zenan Jiang,71,66.23943662,16.788146149,100.0,25.0,11,6,8,8,6,8,,,,5,7
+UBCV,2015,W,ELEC,321,,101,Stochastic Signals and Systems,Anup Aprem;Ruben Zamar;Sujay Bhatt Hodrali Ramesh;Vikram Krishnamurthy,80,64.275,16.837251497,100.0,26.0,11,9,7,6,9,11,9,5,6,,
+UBCV,2015,W,ELEC,331,,201,Computer Communications,Bambang Ali Basyah Sarif;Farshid Agharebparast;Sudha Lohani,104,73.451923077,14.620692749000002,98.0,10.0,6,9,,,12,11,8,8,16,17,13
+UBCV,2015,W,ELEC,341,,101,Systems and Control,Anahita Shojaei Hashemi;Leo Stocco;Mahdi Yousefi;Tian Zhang,116,65.931034483,16.158306055,99.0,14.0,13,16,9,9,7,12,12,12,12,8,6
+UBCV,2015,W,ELEC,341,,201,Systems and Control,Hamid Moradi Kashkouli;Tian Zhang;Zhen Wang,77,73.077922078,18.427501067999998,97.0,0.0,5,6,,,,7,12,8,14,9,10
+UBCV,2015,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Juri Jatskevich;Mohammad Ali Saket Tokaldani;Navid Amiri;Seyyedmilad Ebrahimi,84,66.19047619,13.495627307000001,93.0,29.0,10,,8,10,16,12,8,,8,,
+UBCV,2015,W,ELEC,342,,201,Electro-Mechanical Energy Conversion and Transmission,Luis Linares;Mohammad Ali Saket Tokaldani;Navid Shafiei;Seyyedmilad Ebrahimi,79,65.303797468,20.205580868,97.0,0.0,11,5,11,7,,10,6,,11,5,6
+UBCV,2015,W,ELEC,343,,201,Electromechanics,Nathan Ozog;Shuan Dong;Yingwei Huang,74,76.364864865,12.772588719000002,97.0,9.0,,,,,9,6,6,13,14,11,9
+UBCV,2015,W,ELEC,344,,101,Applied Electronics and Electromechanics,Anindya Lal Roy;Anindya Roy;Ilya Ganelin;Nilgoon Zarei;Reza Molavi;Sayed Mohammad Hashem Jayhooni,76,77.434210526,12.17903721,100.0,41.0,,,,,,7,5,7,18,16,9
+UBCV,2015,W,ELEC,344,,201,Applied Electronics and Electromechanics,Anindya Lal Roy;Anindya Roy;Hassan Shabbir;Muhammad Ahsen Khan;William Dunford;Xiaotong Wang,93,70.11827957,14.789721359000001,95.0,2.0,,,6,14,12,9,7,7,21,,6
+UBCV,2015,W,ELEC,352,,201,Electric Energy Systems,Abdullah Al-Digs;Saeed Rezaee;Sina Chiniforoosh,54,86.833333333,9.959824959,100.0,60.0,,,,,,,,,11,10,23
+UBCV,2015,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Chendi Wang;Leo Stocco,16,86.5625,5.88748673,98.0,74.0,,,,,,,,,,,7
+UBCV,2015,W,ELEC,391,,201,Electrical Engineering Design Studio,Harmandeep Cheema;Ignacio Galiano Zurbriggen;Jagroop Sarai;Leo Stocco;Mahdi Yousefi;Parham Pashaei;Pegah Kharazmi,122,83.163934426,10.438612884,97.0,33.0,,,,,8,6,9,9,21,23,44
+UBCV,2015,W,ELEC,401,,101,Analog CMOS Integrated Circuit Design,Reza Molavi,31,76.483870968,11.456791196,93.0,42.0,,,,,,,6,5,5,5,
+UBCV,2015,W,ELEC,402,,101,Introduction to VLSI Systems,Abdelrahman Ahmed;Delaram Behnami;Sudip Shekhar,43,72.395348837,21.559595737,93.0,0.0,,,5,,,,7,,10,,7
+UBCV,2015,W,ELEC,403,,201,Advanced Digital VLSI Systems,Reza Molavi;Soroush Dehghani,11,75.818181818,9.357544355,98.0,65.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,411,,101,Antennas and Propagation,David Michelson;Nueri Quasem,12,75.0,30.534630117,96.0,0.0,,,,,,,,,,,6
+UBCV,2015,W,ELEC,412,,101,Optical Waveguides and Photonics,Han Yun;Nicolas A Jaeger,15,78.06666666699999,17.15670076,99.0,38.0,,,,,,,,,,,5
+UBCV,2015,W,ELEC,413,,201,Semiconductor Lasers,Lukas Chrostowski;Minglei Ma,26,73.384615385,11.943456527999999,93.0,53.0,,,,,,,,6,,,
+UBCV,2015,W,ELEC,415,,201,"Semiconductor Devices: Physics, Design and Analysis",Alireza Nojeh;Amir Hossein Khoshaman,12,65.833333333,22.802844054,100.0,19.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,421,,101,Digital Signal and Image Processing,Hiba Shahid;Zhen Wang,35,78.685714286,9.376978783,97.0,55.0,,,,,,,,8,7,7,
+UBCV,2015,W,ELEC,422,,201,Biosignals and Systems,Anahita Shojaei Hashemi;Zhen Wang,19,72.368421053,13.796982465,92.0,42.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,431,,101,Communication Systems,Naveen Mysore Balasubramanya;Paul Lusina,42,78.404761905,18.295753904,100.0,12.0,,,,,,,,7,5,6,11
+UBCV,2015,W,ELEC,441,,201,Control Systems,Guy A Dumont;Jiayi Cheng;Nilgoon Zarei,54,75.314814815,14.667155033,100.0,37.0,,,,7,,,,5,11,8,8
+UBCV,2015,W,ELEC,451,,101,Power Electronics,Francisco Paz;Ignacio Galiano Zurbriggen;Marco Bianchi;Martin Ordonez,58,75.0,12.284635961,99.0,43.0,,5,,,,7,6,11,9,9,5
+UBCV,2015,W,ELEC,453,,101,Power System Analysis,Abdullah Al-Digs;Yingwei Huang;Yu Christine Chen,50,78.68,16.052770121,96.0,0.0,,,,,,,6,5,11,7,11
+UBCV,2015,W,ELEC,454,,201,Power System Analysis II,Arash Tavighi;Jose Marti,41,78.317073171,12.454796314000001,97.0,46.0,,,,,,,,5,8,7,8
+UBCV,2015,W,ELEC,455,,201,Power Systems Protection,Charles Francis Henville;Charles Henville;Mukesh Nagpal;Nafiseh Nikpour,42,74.380952381,14.411973987,94.0,32.0,,,,6,,,6,,8,7,6
+UBCV,2015,W,ELEC,456,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi;Zemeng Wang,26,73.615384615,9.423701706000001,92.0,53.0,,,,,,5,6,,,,
+UBCV,2015,W,ELEC,457,,101,Optimization of Power System Operation,Ebrahim Vaahedi;Nafiseh Nikpour,18,69.388888889,22.788384266999998,96.0,5.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,461,,101,Nanotechnology in Electronics,Jacob Tyler Retallick;Konrad Walus,19,69.105263158,16.845357873,96.0,33.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,462,,101,Sensors and Actuators in Microsystems,Boris Stoeber;Saeedeh Ebrahimi Takalloo,26,70.076923077,22.358753233,99.0,0.0,,,,,,,,,,,5
+UBCV,2015,W,ELEC,463,,201,Micro/Nanofabrication and Instrumentation Laboratory,Anas Bsoul;Lukas Chrostowski;Saeedeh Ebrahimi Takalloo,14,80.357142857,9.888665951,93.0,58.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,465,,101,Microsystems Design,Edmond Cretu;Mirza Sarwar,6,52.666666667,25.44536631,72.0,20.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,471,,101,Medical Imaging,Robert Rohling;Shekoofeh Azizi,19,81.526315789,8.681835578,93.0,63.0,,,,,,,,,,5,
+UBCV,2015,W,ELEC,473,,101,Biological Micro-Electro-Mechanical Systems,Josiah To;Karen Cheung;Sayyedsoroush Nasseri,28,73.107142857,12.338855478,94.0,50.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,474,,201,Biophotonics,Shuo Tang,6,79.5,3.33166625,85.0,76.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,481,,101,Economic Analysis of Engineering Projects,Sayed Mohammad Hashem Jayhooni;Sima Valizadeh;Steven Minns,61,77.786885246,10.124417273999999,95.0,29.0,,,,,,7,,15,12,12,6
+UBCV,2015,W,ELEC,481,,201,Economic Analysis of Engineering Projects,Kelleen Wiseman,86,77.546511628,16.319354785999998,99.0,0.0,,,,,6,,13,10,13,13,18
+UBCV,2015,W,ELEC,491,,001,Electrical Engineering Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,88,86.306818182,5.3225997330000006,96.0,63.0,,,,,,,,,30,33,21
+UBCV,2015,W,ELEC,492,,001,Electrical Energy Systems Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,28,87.321428571,5.249716546,95.0,76.0,,,,,,,,,8,10,9
+UBCV,2015,W,ELEC,493,,001,Nanotechnology and Microsystems Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,8,84.875,5.890367438999999,96.0,78.0,,,,,,,,,,,
+UBCV,2015,W,ELEC,494,,001,Biomedical Engineering Capstone Design Project,Amin Ghasemazar;Christoph Sielmann;Cristian Sorin Grecu;Hossein Omidian Savarbaghi;Jen Tsu Hsu;John Madden;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Pooneh Shooshtari;S Sidney Fels;Seyed Ali Arefifar;Seyed Arash Sheikholeslam;Shahin Bayat;Shuo Tang;Siamak Najarian;Solmaz Karamikamkar;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;Yuta Dobashi,13,89.53846153799999,4.8065126760000005,96.0,82.0,,,,,,,,,,,9

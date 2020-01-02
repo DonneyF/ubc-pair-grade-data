@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2018,W,COSC,101,,101,Digital Citizenship,Chad Kohalyk;Dhruv Virani;Parsa Rajabi;Shambhavi Singh,108,78.87962963,12.188333316,98.0,0.0,,,,,5,10,14,12,27,16,17
+UBCO,2018,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Cameron Chong;Dhruv Virani;Gunjan Soni;Heather Mehain;Jean-Philippe Abadir;Parsa Rajabi;Raghav Jhavar;Ren Lin;Shambhavi Singh,270,73.822222222,19.61255446,100.0,9.0,52,,6,7,15,14,18,29,25,27,73
+UBCO,2018,W,COSC,111,,101,Computer Programming I,Alexandar Salloum;Cameron Chong;James Koss;Jim Nastos;Parsa Rajabi,104,67.35576923100001,16.779505686,95.0,19.0,19,,8,,11,11,11,9,12,13,
+UBCO,2018,W,COSC,114,,101,Vector Graphics and Animations,Ali-Meysam Mohebbi;Anupreet Januhen;Jagdeep Brar;Nicholas Vosburgh,76,71.65789473699999,17.068140013,100.0,0.0,6,5,,5,,9,6,7,16,7,7
+UBCO,2018,W,COSC,121,,101,Computer Programming II,Abdallah Mohamed;Andrew Johnston;Dhruv Virani;Kathryn Ng;Kevin Feddema;Nenman Gomwalk;Raghav Jhavar;Shambhavi Singh;Shima Amirsadri,229,70.64628821,18.260343061,100.0,0.0,37,,9,13,17,31,17,19,22,24,36
+UBCO,2018,W,COSC,122,,001,Computer Fluency,Abdallah Mohamed;Aurey Harris;Kevin Feddema;Zil Huma,117,74.427350427,18.040813996,99.0,4.0,13,,,,8,12,9,14,11,20,22
+UBCO,2018,W,COSC,123,,101,Computer Creativity,Abdallah Mohamed;Akinloluwa Ogunlusi;Cameron Chong;Jaden Balogh,90,84.166666667,11.860850529,100.0,45.0,,,,,,5,,9,8,18,39
+UBCO,2018,W,COSC,150,,001,Physical Computing,Jeff Bulmer;Miles Thorogood,42,82.523809524,11.538351945999999,97.0,46.0,,,,,,,,,10,14,9
+UBCO,2018,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Karla Lugo Baez;Nicholas Vosburgh,101,73.405940594,15.307630919000001,100.0,27.0,7,,6,11,6,9,10,9,15,10,15
+UBCO,2018,W,COSC,221,,101,Introduction to Discrete Structures,Chaoping Guo;Karla Lugo Baez;Yong Gao,119,74.36974789899999,11.710393432,98.0,31.0,,,,17,5,18,10,18,23,9,11
+UBCO,2018,W,COSC,222,,001,Data Structures,Anupreet Januhen;Chaoping Guo;Kai Neubauer;Mayeesha Mariam;Yves Lucet,150,80.366666667,10.400965796,95.0,36.0,6,,,,5,6,9,19,43,40,19
+UBCO,2018,W,COSC,223,,001,"Principle of Computing: Logic, Discrete Structure, and Data Structure",Chaoping Guo;Deepak Kumar;Yves Lucet;Zhenyuan Ma,17,83.176470588,7.282129617000001,95.0,68.0,,,,,,,,,7,,
+UBCO,2018,W,COSC,247,,101,Networks and Social Media,Fatemeh Hendijani Fard;Shima Amirsadri,10,82.7,6.236986452000001,94.0,70.0,,,,,,,,,,,
+UBCO,2018,W,COSC,264,,101,Introduction to Web Development and Databases,Daniel Ling;Jeff Bulmer;Mayeesha Mariam,38,74.789473684,15.978292529,96.0,20.0,,,,,,,,5,9,,5
+UBCO,2018,W,COSC,301,,001,Introduction to Data Analytics,Irene Vrbik,48,78.541666667,11.3155106,99.0,53.0,,,,,,7,5,7,7,8,8
+UBCO,2018,W,COSC,301,,101,Introduction to Data Analytics,Irene Vrbik,76,80.513157895,12.930061532,100.0,39.0,,,,,,8,8,8,11,13,19
+UBCO,2018,W,COSC,303,,101,Numerical Analysis,Liam Welsh;Warren Hare,17,65.058823529,26.249929971999997,97.0,12.0,,,,,,,,,,,
+UBCO,2018,W,COSC,304,,001,Introduction to Databases,Ali-Meysam Mohebbi;Angelina Pinchbeck;Ramon Lawrence;Shobhit Agrawal,112,80.955357143,10.759775269,97.0,45.0,,,,,11,10,11,6,20,24,26
+UBCO,2018,W,COSC,305,,001,Project Management,Hamid Afshari;John Graham-Knight,50,75.82,8.920716545,95.0,60.0,,,,,8,,8,7,11,,6
+UBCO,2018,W,COSC,310,,001,Software Engineering,Angelina Pinchbeck;Anupreet Januhen;Apurva Narayan;Zil Huma,98,84.153061224,10.880183482,100.0,34.0,,,,,,,5,5,18,32,29
+UBCO,2018,W,COSC,320,,001,Analysis of Algorithms,Deepak Kumar;Jeff Bulmer;Shima Amirsadri;Yong Gao,66,68.409090909,13.094893042,94.0,36.0,,7,5,10,10,6,8,,,,6
+UBCO,2018,W,COSC,322,,101,Introduction to Artificial Intelligence,Gunjan Soni;Jeff Bulmer;Yong Gao,56,72.232142857,19.110198202,94.0,0.0,,,5,,5,,,,9,11,6
+UBCO,2018,W,COSC,328,,101,Introduction to Networks,Billy Spelchan;Hui Ma;Scott Fazackerley,76,69.921052632,13.751861117999999,94.0,10.0,5,,10,,10,9,10,8,12,,5
+UBCO,2018,W,COSC,335,,001,Introduction to Medical Imaging and Imaging Informatics,Rasika Rajapakshe;Thor Bjarnason;Yuhao Huang,26,85.846153846,7.046657691,94.0,65.0,,,,,,,,,7,7,9
+UBCO,2018,W,COSC,341,,001,Human Computer Interaction,Billy Spelchan;Mohammad (Khalad) Hasan;Mohammad Khalad Hasan;Shima Amirsadri,100,85.97,8.849419316,99.0,63.0,,,,,,8,,9,12,16,49
+UBCO,2018,W,COSC,360,,101,Web Programming,Alexandar Salloum;Scott Fazackerley,42,76.738095238,10.065782472,98.0,45.0,,,,,5,,5,,14,7,
+UBCO,2018,W,COSC,419,K,001,Topics in Computer Science,Deepak Kumar;Warren Hare,5,75.6,15.339491517,94.0,59.0,,,,,,,,,,,
+UBCO,2018,W,COSC,421,,101,Network Science,Paramjit Gill,9,73.111111111,8.313309276,87.0,64.0,,,,,,,,,,,
+UBCO,2018,W,COSC,445,,101,Computer Vision,Abdallah Mohamed;John Graham-Knight;Mayeesha Mariam,78,71.82051282100001,16.314079322999998,100.0,31.0,14,,,,5,8,9,8,8,10,11
+UBCO,2018,W,COSC,499,,001,Capstone Software Engineering Project,Abdallah Mohamed;Scott Fazackerley,43,84.813953488,9.454794233,98.0,63.0,,,,,,,,,7,7,17
+UBCO,2018,W,COSC,520,,001,Advanced Algorithms,Yong Gao,7,89.0,5.0,94.0,81.0,,,,,,,,,,,5
+UBCO,2018,W,COSC,522,,101,Advanced Topics in Artificial Intelligence,Yong Gao,8,77.625,31.753233806,94.0,0.0,,,,,,,,,,,

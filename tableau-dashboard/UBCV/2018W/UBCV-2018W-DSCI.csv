@@ -1,0 +1,26 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,DSCI,100,,002,Introduction to Data Science,Aaron Quinton;Harmeet Gill;Madison Friesen;Tae Yoon Lee;Tiffany Timbers,58,83.913793103,11.15958322,96.0,46.0,,,,,,,6,,,13,24
+UBCV,2018,W,DSCI,511,,001,Programming for Data Science,Ali Mirza;Patrick Walls;Qiuyan Liu;Vincenzo Coia,69,93.44927536200001,4.042190116,99.0,78.0,,,,,,,,,,8,58
+UBCV,2018,W,DSCI,512,,001,Algorithms and Data Structures,Patrice Belleville;Paul Gustafson,69,91.565217391,5.569027427999999,99.0,73.0,,,,,,,,,,15,48
+UBCV,2018,W,DSCI,513,,001,Databases and Data Retrieval,Aaron Berk;Bhavjinder Kaur Dhillon;Glenn Bevilacqua;Gursimran Singh;Laks Lakshmanan;Paul Gustafson;Pedro Odon;Rafiuzzaman Mohammad;Rodolfo Lourenzutti,69,92.31884058,4.110577295,99.0,79.0,,,,,,,,,,10,56
+UBCV,2018,W,DSCI,521,,001,Computing Platforms for Data Science,Giuseppe Carenini;Mohammad Amin Aghaee Rad;Rafiuzzaman Mohammad;Tiffany Timbers;Xuan Luo,69,95.304347826,2.49884884,100.0,87.0,,,,,,,,,,,67
+UBCV,2018,W,DSCI,522,,001,Data Science Workflows,Ali Mirza;Mark Schmidt;Nazli Kafaee;Pedro Odon;Tiffany Timbers,69,91.826086957,3.15276033,98.0,85.0,,,,,,,,,,15,54
+UBCV,2018,W,DSCI,523,,001,Data Wrangling,Jennifer Frazier Bryan;Mark Schmidt,69,94.797101449,5.228822019,99.0,72.0,,,,,,,,,,,64
+UBCV,2018,W,DSCI,524,,001,Collaborative Software Development,Hossameldin Ibrahim Said Mohammed;Jie Xiang;Laks Lakshmanan;Laura Guzman Uribe;Meghan Allen;Rainer Lempert,69,90.101449275,2.3586195340000002,94.0,83.0,,,,,,,,,,19,47
+UBCV,2018,W,DSCI,525,,001,Web and Cloud Computing,Aaron Berk;Hayley Guillou;Ho Yin Ho;Michael Feeley;Minzhe Liao;Minzhi Liao;Patrick Walls,68,92.235294118,4.281573316,98.0,81.0,,,,,,,,,5,12,51
+UBCV,2018,W,DSCI,531,,001,Data Visualization I,Ali Mirza;Christopher Nicholas Gubbels;Hayley Guillou;Patrice Belleville;Vincenzo Coia,69,90.115942029,4.584296187,96.0,74.0,,,,,,,,,,19,45
+UBCV,2018,W,DSCI,532,,001,Data Visualization II,Alejandra Virgen Urcelay;Cydney Nielsen;Joel Ostblom;Kateryna Tyshchenko;Lang Wu;Sahir Advani;Tamara Munzner,70,88.1,3.25331492,95.0,82.0,,,,,,,,,12,35,23
+UBCV,2018,W,DSCI,541,,001,"Privacy, Ethics, and Security",Edwin Max Knorr;Gunho Oh;Hossameldin Ibrahim Said Mohammed;Joel Ostblom;Lang Wu,68,86.897058824,5.4557643239999996,96.0,67.0,,,,,,,,,18,19,26
+UBCV,2018,W,DSCI,542,,001,Communication and Argumentation,David Kendall Laing;David Laing;Michael Gelbart;Tiffany Timbers;Zheng Sun,69,88.971014493,3.895589567,96.0,78.0,,,,,,,,,8,28,31
+UBCV,2018,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Mark Schmidt;Michael Gelbart;Zheng Sun,69,94.52173913,5.64803114,100.0,67.0,,,,,,,,,,7,58
+UBCV,2018,W,DSCI,552,,001,Statistical Inference and Computation I,Giuseppe Carenini;Ho Yin Ho;Kate Johnson;Michael Marin;Pedro Odon;Qiuyan Liu;Tiffany Timbers,69,88.942028986,6.496342994,97.0,65.0,,,,,,,,,7,14,43
+UBCV,2018,W,DSCI,553,,001,Statistical Inference and Computation II,Alexandre Bouchard-Cote;Arun Rajendran;Elijah Willie;Meghan Allen;Paul Gustafson;Qiuyan Liu,69,86.376811594,7.744260587,98.0,64.0,,,,,,,,7,15,10,32
+UBCV,2018,W,DSCI,554,,001,Experimentation and Causal Inference,Kate Johnson;Lang Wu;Laura Guzman Uribe;Paul Gustafson;Rainer Lempert,68,90.147058824,3.139848394,94.0,81.0,,,,,,,,,5,14,49
+UBCV,2018,W,DSCI,561,,001,Regression I,Alexandra Maslova;Gabriela Cohen Freue;Giuseppe Carenini;Ho Yin Ho;Qiuyan Liu,69,91.463768116,4.9928764260000005,99.0,67.0,,,,,,,,,,13,51
+UBCV,2018,W,DSCI,562,,001,Regression II,Ho Yin Ho;Kateryna Tyshchenko;Lang Wu;Michael Feeley;Vincenzo Coia;Yi-Chin Tseng,70,86.314285714,7.6698976,97.0,63.0,,,,,,,,7,7,21,29
+UBCV,2018,W,DSCI,563,,001,Unsupervised Learning,Aaron Berk;Elijah Willie;Laks Lakshmanan;Michael Gelbart;Qiuyan Liu;Rodolfo Lourenzutti,69,89.15942029,6.006425942000001,97.0,70.0,,,,,,,,,,21,39
+UBCV,2018,W,DSCI,571,,001,Supervised Learning I,Clement Fung;Giuseppe Carenini;Joseph Khoury;Michael Gelbart;Patrice Belleville;Xiaomeng Ju,69,91.826086957,5.271891394,100.0,78.0,,,,,,,,,,10,52
+UBCV,2018,W,DSCI,572,,001,Supervised Learning II,Greig Oldford;Grieg Oldford;Jie Xiang;Michael Feeley;Michael Gelbart;Sarah Habashi Elhammadi,69,87.652173913,7.342114792,99.0,67.0,,,,,,,,,11,18,31
+UBCV,2018,W,DSCI,573,,001,Feature and Model Selection,Gursimran Singh;Ho Yin Ho;Mark Schmidt;Minzhe Liao;Minzhi Liao;Yi-Chin Tseng,70,89.471428571,5.787846909,96.0,67.0,,,,,,,,,7,16,42
+UBCV,2018,W,DSCI,574,,001,Spatial and Temporal Models,Aaron Berk;Emily Mistick;Gunho Oh;Mark Schmidt;Minzhe Liao;Minzhi Liao;Natalia Nolde,69,88.826086957,5.310800653,97.0,76.0,,,,,,,,,14,23,29
+UBCV,2018,W,DSCI,575,,001,Advanced Machine Learning,Gursimran Singh;Jie Xiang;Mark Schmidt;Michael Gelbart;Qiuyan Liu;Varada Kolhatkar,68,92.42647058799999,4.361692731000001,99.0,80.0,,,,,,,,,,12,52

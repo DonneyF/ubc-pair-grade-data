@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2016,W,APSC,100,,101,Introduction to Engineering I,Alice Lam;Arian Amirkeyvan;Carol Patricia Jaeger;Hoda Ahmadi;Peter Ostafichuk;Susan Nesbit,208,80.0,7.442533462999999,95.0,52.0,,,,,9,14,11,39,60,50,18
+UBCV,2016,W,APSC,100,,102,Introduction to Engineering I,Alice Lam;Arian Amirkeyvan;Carol Patricia Jaeger;Goran Fernlund;Hoda Ahmadi;Naoko Ellis;Peter Ostafichuk,200,79.925,10.028570993999999,96.0,21.0,,,,,5,7,17,25,63,59,14
+UBCV,2016,W,APSC,100,,103,Introduction to Engineering I,Alice Lam;Arian Amirkeyvan;Carol Patricia Jaeger;Hoda Ahmadi;Jonathan Nakane;Naoko Ellis;Peter Ostafichuk,198,78.828282828,8.805905268,97.0,45.0,,,5,,,12,25,28,52,53,10
+UBCV,2016,W,APSC,100,,104,Introduction to Engineering I,Alice Lam;Arian Amirkeyvan;Carol Patricia Jaeger;Hoda Ahmadi;Peter Ostafichuk;Susan Nesbit;Vikramaditya Yadav,177,77.141242938,10.462451511,98.0,13.0,,,,,9,19,21,33,38,35,10
+UBCV,2016,W,APSC,101,,201,Introduction to Engineering II,Carol Patricia Jaeger;Naoko Ellis;Noboru Yonemitsu;Peter Ostafichuk,182,72.714285714,11.914785572000001,92.0,0.0,10,,6,6,15,23,32,41,26,16,
+UBCV,2016,W,APSC,101,,202,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Jonathan Nakane;Peter Ostafichuk;Vikramaditya Yadav,199,75.155778894,10.207486571,91.0,16.0,8,,,5,12,21,32,37,53,23,
+UBCV,2016,W,APSC,101,,203,Introduction to Engineering II,Carol Patricia Jaeger;Goran Fernlund;Peter Ostafichuk;Vikramaditya Yadav,187,74.43315508,9.664232481,92.0,39.0,5,,6,5,15,18,33,41,36,18,7
+UBCV,2016,W,APSC,101,,204,Introduction to Engineering II,Carol Patricia Jaeger;Naoko Ellis;Noboru Yonemitsu;Peter Ostafichuk,161,72.751552795,11.534205139,96.0,35.0,9,7,5,7,8,17,30,29,29,16,
+UBCV,2016,W,APSC,160,,101,Introduction to Computation in Engineering Design,Ariadna Maria Estrada Gaspar;Gokul Suresh Kumar;Jonatan Schroeder;Mohamed Ahmed;Naga Raghavendra Koppisetti;Paul Davies,304,77.69736842100001,15.950641470999999,99.0,0.0,24,,7,9,14,19,28,35,46,53,68
+UBCV,2016,W,APSC,160,,102,Introduction to Computation in Engineering Design,Ariadna Maria Estrada Gaspar;Edwin Max Knorr;Gokul Suresh Kumar;Mohamed Ahmed;Naga Raghavendra Koppisetti;Paul Davies,204,75.240196078,16.683851133,98.0,13.0,25,,,,8,20,17,22,39,27,36
+UBCV,2016,W,APSC,160,,203,Introduction to Computation in Engineering Design,Gregor Miller;Jonatan Schroeder,164,76.951219512,14.580348518,99.0,6.0,11,,9,5,8,14,14,12,24,36,30
+UBCV,2016,W,APSC,160,,204,Introduction to Computation in Engineering Design,Gregor Miller;Jonatan Schroeder,125,79.27199999999999,14.7568333,98.0,33.0,9,,,,7,6,6,10,17,29,33
+UBCV,2016,W,APSC,160,,VE1,Introduction to Computation in Engineering Design,Celina Berg;Celina Gay Berg;Gregor Miller,83,65.120481928,21.329812865,95.0,8.0,26,,,,6,7,9,6,9,10,7
+UBCV,2016,W,APSC,172,,VE2,Engineering Analysis I,Parisa Sarmadi;Shayan Hoshyari;Siamak Najarian,83,73.18072289199999,15.509355617,100.0,11.0,,,,5,6,13,9,12,10,6,11
+UBCV,2016,W,APSC,173,,VE2,Engineering Analysis II,Juan Abello Rubio;Kai Kin Gary Yan;Kai Kin Yan;Siamak Najarian,78,66.371794872,24.384426036,100.0,4.0,14,7,6,,,5,6,6,5,7,16
+UBCV,2016,W,APSC,178,,VE1,"Electricity, Magnetism, and Waves",Saloome Motavas,78,73.76923076899999,21.449380506,100.0,9.0,10,,,,,7,5,7,8,8,21
+UBCV,2016,W,APSC,182,,VE1,Matter and Energy I,Gabriel Potvin,83,76.0,14.357797236,100.0,30.0,,,6,,5,6,11,8,13,11,14
+UBCV,2016,W,APSC,183,,VE1,Matter and Energy II,Gabriel Potvin,80,77.9625,19.233043658,97.0,8.0,7,,,,,,5,5,18,13,22
+UBCV,2016,W,APSC,201,,101,Technical Communication,Hongxing Estella Qi,22,69.954545455,12.941175602000001,88.0,45.0,,,,,,,,,,,
+UBCV,2016,W,APSC,201,,102,Technical Communication,Hartaj Sanghara,33,77.0,4.886205071,85.0,62.0,,,,,,,,11,12,,
+UBCV,2016,W,APSC,201,,105,Technical Communication,Randall Kerr,32,79.1875,5.5383559920000005,91.0,66.0,,,,,,,7,7,12,,
+UBCV,2016,W,APSC,201,,109,Technical Communication,Hongxing Estella Qi,42,76.5,6.337076344,86.0,47.0,,,,,,,9,14,13,,
+UBCV,2016,W,APSC,201,,110,Technical Communication,Hartaj Sanghara,25,76.48,4.482558793,84.0,67.0,,,,,,,,7,10,,
+UBCV,2016,W,APSC,201,,111,Technical Communication,Randall Kerr,27,72.888888889,9.597008081,85.0,45.0,,,,,,,6,5,7,,
+UBCV,2016,W,APSC,201,,207,Technical Communication,Michael Schoen,46,72.586956522,11.571182763,88.0,15.0,,,,,,10,,16,5,,
+UBCV,2016,W,APSC,261,,101,Technology and Society I,Kelly E.B. Ollivier;Kelly Ollivier,22,76.909090909,9.023298367,92.0,59.0,,,,,,,5,5,,,
+UBCV,2016,W,APSC,261,,102,Technology and Society I,Kelly E.B. Ollivier;Kelly Ollivier;Paul Winkelman,17,76.764705882,13.18867607,94.0,36.0,,,,,,,,,,,
+UBCV,2016,W,APSC,261,,103,Technology and Society I,Anthony K Lau;Kelly E.B. Ollivier;Kelly Ollivier,17,77.88235294100001,15.535774655,91.0,43.0,,,,,,,,,,8,
+UBCV,2016,W,APSC,262,,201,Technology and Society II,Paul Winkelman,20,81.9,7.376349117999999,92.0,65.0,,,,,,,,,5,6,
+UBCV,2016,W,APSC,262,,203,Technology and Society II,K Ezra Kwok;Paul Winkelman,23,82.260869565,6.009215584,96.0,71.0,,,,,,,,8,5,6,
+UBCV,2016,W,APSC,278,,101,Engineering Materials,Anoshiravan Poursartip;Fariba Sheykhjaberi;Pan Fan;Yu Liu,198,69.868686869,13.651683271,100.0,0.0,8,20,18,16,20,17,25,27,27,10,10
+UBCV,2016,W,APSC,278,,201,Engineering Materials,Goran Fernlund,252,72.98015873,12.961005075,98.0,15.0,12,7,11,18,22,32,32,35,36,33,14
+UBCV,2016,W,APSC,279,,101,Engineering Materials Laboratory,Berend Wassink;Eiko Nishimura;Mojtaba Mansouri Arani;Shabnam Pournazari,13,66.615384615,22.555629236999998,87.0,0.0,,,,,,,,,,,
+UBCV,2016,W,APSC,279,,102,Engineering Materials Laboratory,Berend Wassink;Eiko Nishimura;Mojtaba Mansouri Arani;Shabnam Pournazari,12,79.166666667,11.83087896,94.0,58.0,,,,,,,,,,,
+UBCV,2016,W,APSC,279,,106,Engineering Materials Laboratory,Berend Wassink;Eiko Nishimura;Mojtaba Mansouri Arani;Shabnam Pournazari,20,87.85,6.830851067999999,98.0,75.0,,,,,,,,,,6,9
+UBCV,2016,W,APSC,279,,110,Engineering Materials Laboratory,Berend Wassink;Eiko Nishimura;Mojtaba Mansouri Arani;Shabnam Pournazari,13,82.307692308,7.099115149,94.0,71.0,,,,,,,,,,,
+UBCV,2016,W,APSC,279,,112,Engineering Materials Laboratory,Berend Wassink;Eiko Nishimura;Mojtaba Mansouri Arani;Shabnam Pournazari,19,75.736842105,14.305562652999999,89.0,28.0,,,,,,,,,5,,
+UBCV,2016,W,APSC,279,,114,Engineering Materials Laboratory,Berend Wassink;Eiko Nishimura;Mojtaba Mansouri Arani;Shabnam Pournazari,18,80.5,7.972378787,91.0,58.0,,,,,,,,,8,,
+UBCV,2016,W,APSC,279,,116,Engineering Materials Laboratory,Berend Wassink;Eiko Nishimura;Mojtaba Mansouri Arani;Shabnam Pournazari,13,74.538461538,18.109000454,90.0,30.0,,,,,,,,,,,
+UBCV,2016,W,APSC,279,,201,Engineering Materials Laboratory,Berend Wassink;Eiko Nishimura;Mojtaba Mansouri Arani;Shabnam Pournazari,20,80.35,18.508248517000002,96.0,15.0,,,,,,,,,5,,7
+UBCV,2016,W,APSC,279,,202,Engineering Materials Laboratory,Berend Wassink,15,79.133333333,8.708507061,90.0,57.0,,,,,,,,,5,,
+UBCV,2016,W,APSC,279,,203,Engineering Materials Laboratory,Berend Wassink,19,84.894736842,8.325961652,98.0,67.0,,,,,,,,,,7,
+UBCV,2016,W,APSC,279,,204,Engineering Materials Laboratory,Berend Wassink,16,73.875,16.190017501,88.0,29.0,,,,,,,,,,,
+UBCV,2016,W,APSC,279,,205,Engineering Materials Laboratory,Berend Wassink,21,82.380952381,11.456335324000001,97.0,50.0,,,,,,,,,,6,6
+UBCV,2016,W,APSC,279,,206,Engineering Materials Laboratory,Berend Wassink,19,77.526315789,15.854786942999999,94.0,39.0,,,,,,,,,,,6
+UBCV,2016,W,APSC,279,,207,Engineering Materials Laboratory,Berend Wassink,19,80.05263157899999,12.163121329,92.0,41.0,,,,,,,,,7,,
+UBCV,2016,W,APSC,279,,208,Engineering Materials Laboratory,Berend Wassink,21,82.619047619,10.106810527999999,94.0,57.0,,,,,,,,,,,6
+UBCV,2016,W,APSC,279,,209,Engineering Materials Laboratory,Berend Wassink,20,83.2,13.1172847,95.0,39.0,,,,,,,,,,,8
+UBCV,2016,W,APSC,279,,210,Engineering Materials Laboratory,Berend Wassink,16,88.125,9.548996457000001,100.0,65.0,,,,,,,,,,,9
+UBCV,2016,W,APSC,279,,211,Engineering Materials Laboratory,Berend Wassink,20,85.55,9.955030466,96.0,55.0,,,,,,,,,,6,7
+UBCV,2016,W,APSC,279,,212,Engineering Materials Laboratory,Berend Wassink,20,83.65,13.188012898,98.0,54.0,,,,,,,,,,,9
+UBCV,2016,W,APSC,279,,213,Engineering Materials Laboratory,Berend Wassink,15,83.4,12.385475364000001,97.0,60.0,,,,,,,,,,,6
+UBCV,2016,W,APSC,366,,201,The Art of the Possible: An Introduction to Engineering for Non-Engineers,Agnes D'Entremont;Cristian Sorin Grecu;Naoko Ellis;Patrick Kirchen;Sheldon Green,27,76.666666667,9.232051193,86.0,50.0,,,,,,,,,12,,
+UBCV,2016,W,APSC,377,,101,Nuclear Weapons and Arms Control,Allen Sens;Matthew Yedlin,50,79.9,7.028368174,87.0,59.0,,,,,,,,,23,13,
+UBCV,2016,W,APSC,440,,201,Management Fundamentals for Technology-Based Product Marketing and Development,Rui Jorge Basto Da Silva,39,77.794871795,7.2915938879999995,88.0,52.0,,,,,,6,7,5,11,8,
+UBCV,2016,W,APSC,450,,101,Professional Engineering Practice,Michael Stewart;Resha Sabti,361,89.70914127399999,4.697653029,99.0,74.0,,,,,,,,9,36,98,214
+UBCV,2016,W,APSC,450,,201,Professional Engineering Practice,Fariborz Taghipour;Michael Stewart;Resha Sabti,266,89.07894736799999,5.338836742,99.0,68.0,,,,,,,,13,29,72,147
+UBCV,2016,W,APSC,486,,001,New Venture Design,Antony Hodgson;David Miller;James Simonite;Jonas Altman;Julian Rhind;Paul Cubbon;Tamara Etmannski,16,83.5,4.760952286,88.0,70.0,,,,,,,,,,9,
+UBCV,2016,W,APSC,486,,002,New Venture Design,Antony Hodgson;James Simonite;Julian Rhind;Paul Cubbon;Tamara Etmannski,12,84.583333333,4.640892025,90.0,74.0,,,,,,,,,,6,
+UBCV,2016,W,APSC,496,D,001,Interdisciplinary Engineering Design Project,Antony Hodgson;David Miller;James Simonite;Jonas Altman;Julian Rhind;Paul Cubbon;Tamara Etmannski,6,82.833333333,1.329160136,85.0,82.0,,,,,,,,,5,,
+UBCV,2016,W,APSC,496,D,002,Interdisciplinary Engineering Design Project,Antony Hodgson;James Simonite;Julian Rhind;Paul Cubbon;Tamara Etmannski,7,84.571428571,1.3972762619999999,86.0,83.0,,,,,,,,,,,
+UBCV,2016,W,APSC,496,E,001,Interdisciplinary Engineering Design Project,David Miller;James Simonite;Philippe Kruchten;Tamara Etmannski,8,84.75,3.412163118,88.0,77.0,,,,,,,,,,5,
+UBCV,2016,W,APSC,496,E,002,Interdisciplinary Engineering Design Project,Antony Hodgson;Julian Rhind;Paul Cubbon,10,84.3,4.715223572,89.0,74.0,,,,,,,,,,6,
+UBCV,2016,W,APSC,541,,201,Technology Entrepreneurship for Engineers,David Miller;Gregory Fitzgerald;Paul Cubbon;Tamara Etmannski,12,83.833333333,4.969604582,91.0,74.0,,,,,,,,,6,,
+UBCV,2016,W,APSC,541,,202,Technology Entrepreneurship for Engineers,David Miller;Gregory Fitzgerald;Paul Cubbon;Tamara Etmannski,10,83.6,3.5023801430000003,89.0,80.0,,,,,,,,,7,,

@@ -1,0 +1,28 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2017,W,PHYS,111,,001,Introductory Physics for the Physical Sciences I,Araz Sholehkerdar;Ben Tippett;Cole Niclas Priestman;Cole Priestman;Emma Richardson;Ethan Tang;Garen Goh;John Hopkinson;Nicholas Kayban;Sean Colford;Stephanie Hamilton,183,70.25136612,16.955733764,99.0,0.0,24,5,13,24,19,10,14,17,15,11,31
+UBCO,2017,W,PHYS,111,,002,Introductory Physics for the Physical Sciences I,Araz Sholehkerdar;Emma Richardson;Garen Goh;Jake Bobowski;Mitchell Wiebe;Nicholas Kayban;Sean Colford;Stephanie Hamilton,119,75.428571429,14.051703213,100.0,24.0,5,,6,8,14,10,9,22,12,10,21
+UBCO,2017,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Allison Percy;Andrew Ogilvy;Araz Sholehkerdar;Ben Tippett;Ethan Tang;Ngoc Hieu Hoang,191,73.183246073,15.175913462,100.0,2.0,17,,6,12,11,22,28,23,31,19,20
+UBCO,2017,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Allison Percy;Andrew Ogilvy;Araz Sholehkerdar;David Mcfarlane Roberts;David Roberts;Jake Bobowski;John Hopkinson;Tobyn Neame,198,72.474747475,13.975572187000001,100.0,0.0,17,7,5,17,17,21,22,30,18,26,18
+UBCO,2017,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Araz Sholehkerdar;Ben Tippett;Mitchell Wiebe;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb,213,72.90140845100001,17.732941521,100.0,2.0,16,10,12,15,11,19,26,16,34,21,33
+UBCO,2017,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Allison Percy;Andrew Ogilvy;Araz Sholehkerdar;John Hopkinson;Kaden Kujanpaa;Kai Neubauer;Miranda Kirby;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb,210,75.342857143,11.438479984,100.0,46.0,,6,14,13,17,34,18,26,37,19,25
+UBCO,2017,W,PHYS,122,,102,Introductory Physics for the Life Sciences II,Andrew Ogilvy;Araz Sholehkerdar;John Hopkinson;Kaden Kujanpaa;Kai Neubauer;Miranda Kirby;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb,111,77.162162162,12.047286032,95.0,3.0,,,5,6,5,11,14,17,20,18,13
+UBCO,2017,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Stephen Collins,37,73.648648649,17.98643967,100.0,0.0,,,,,,,,,9,,6
+UBCO,2017,W,PHYS,215,,101,Thermodynamics,John Hopkinson;Stephen Collins,35,71.542857143,19.189983382,99.0,0.0,,,,,,,5,,5,,5
+UBCO,2017,W,PHYS,216,,101,Mechanics I,Jesse Tanguay;Nicholas Anthony Mantella;Nicholas Mantella,61,63.032786885,23.16604355,100.0,10.0,13,,,9,6,,6,,,,8
+UBCO,2017,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski;Sabrina Madsen;Sean Colford,39,68.102564103,19.261080026,99.0,10.0,,,,,5,,,6,,,5
+UBCO,2017,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Sabrina Madsen;Sean Colford,23,76.173913043,18.289719352,99.0,32.0,,,,,,,,,,,6
+UBCO,2017,W,PHYS,301,,001,Electricity and Magnetism,Jesse Tanguay,18,62.5,11.9914185,87.0,38.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,304,,001,Introduction to Quantum Mechanics,Murray Neuman,19,68.105263158,14.8320027,88.0,35.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston,18,73.888888889,14.612198324000001,95.0,38.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,9,71.333333333,13.738631664000001,87.0,45.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,320,,001,Environmental Physics,Murray Neuman,32,69.40625,21.483466073000002,98.0,0.0,,,,,,,6,,,,
+UBCO,2017,W,PHYS,328,,101,Advanced Mechanics,Murray Neuman,18,69.833333333,24.408894231999998,98.0,0.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,12,81.083333333,10.352499332,96.0,57.0,,,,,,,,,5,,
+UBCO,2017,W,PHYS,401,,101,Electromagnetic Theory,Daniel Vollick,7,59.428571428999994,19.363687173,91.0,41.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,402,,101,Advanced Quantum Mechanics,Murray Neuman,21,72.666666667,9.504384952999999,92.0,58.0,,,,,5,,,,5,,
+UBCO,2017,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,12,61.0,17.093326715,90.0,33.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,407,,001,Introduction to General Relativity,Daniel Vollick,15,60.266666666999996,29.637010324000002,88.0,2.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,12,77.75,10.208062767000001,91.0,55.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,425,,101,Low-Temperature Physics,Jake Bobowski,10,74.9,13.527338574000002,95.0,56.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,441,,101,Experimental Physics II,Jake Bobowski,7,86.85714285700001,6.175990377000001,97.0,80.0,,,,,,,,,,,
+UBCO,2017,W,PHYS,474,,101,Solid State Physics,John Hopkinson,11,71.454545455,11.387393348,84.0,50.0,,,,,,,,,,,

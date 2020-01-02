@@ -1,0 +1,81 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2014,W,MGMT,100,,001,Introduction to Canadian Business,Norine Webster,96,70.104166667,15.587767921,91.0,0.0,16,,,5,10,10,12,14,13,10,
+UBCO,2014,W,MGMT,100,,002,Introduction to Canadian Business,Norine Webster,88,73.375,15.002155018,90.0,0.0,9,,,,,7,11,14,19,12,5
+UBCO,2014,W,MGMT,100,,101,Introduction to Canadian Business,Eric Zvaniga;Xiao Ping Yue,81,73.87654321,10.776574962,96.0,44.0,,,5,,10,9,12,12,12,12,
+UBCO,2014,W,MGMT,100,,102,Introduction to Canadian Business,Dan Gravel;Mercedes Marleau,77,74.74025974,13.482349668,99.0,0.0,,,,,7,9,12,13,11,11,6
+UBCO,2014,W,MGMT,200,,001,Personal and Corporate Social Responsibility,John Burton,122,76.024590164,10.263038967,95.0,28.0,,,,,7,15,17,22,24,22,
+UBCO,2014,W,MGMT,200,,101,Personal and Corporate Social Responsibility,James Regan;John Burton,165,68.848484848,16.668433017999998,93.0,2.0,17,7,8,10,14,21,28,14,28,12,6
+UBCO,2014,W,MGMT,301,,001,Introduction to Financial Accounting,Tamara Ebl,65,76.338461538,10.283902656,95.0,33.0,,,,,6,8,11,8,13,10,
+UBCO,2014,W,MGMT,301,,002,Introduction to Financial Accounting,Tamara Ebl,70,78.528571429,11.127354242000001,96.0,32.0,,,,,,10,,15,13,9,11
+UBCO,2014,W,MGMT,301,,003,Introduction to Financial Accounting,Tamara Ebl,54,71.592592593,9.503759967999999,88.0,45.0,,,,,7,8,11,,10,,
+UBCO,2014,W,MGMT,302,,101,Introduction to Managerial Accounting,Aalisha Lakdawala;Brendan Ogloff;Krystle Halim;Margaret Mcconnell;Richelle Fontaine;Tamara Ebl;Yuan Tian,68,72.808823529,14.734726322,94.0,7.0,,6,5,,10,,7,8,7,10,7
+UBCO,2014,W,MGMT,302,,102,Introduction to Managerial Accounting,Aalisha Lakdawala;Brendan Ogloff;Krystle Halim;Margaret Mcconnell;Richelle Fontaine;Tamara Ebl;Yuan Tian,72,75.236111111,13.050814075999998,97.0,40.0,,,,5,9,9,6,5,12,8,11
+UBCO,2014,W,MGMT,302,,103,Introduction to Managerial Accounting,Aalisha Lakdawala;Brendan Ogloff;Krystle Halim;Margaret Mcconnell;Richelle Fontaine;Tamara Ebl;Yuan Tian,60,67.31666666699999,13.010415211,90.0,33.0,,6,6,6,8,7,5,7,5,5,
+UBCO,2014,W,MGMT,310,,101,Introduction to Finance,Jana Martin;Kathleen Lindsey;Rayel Jorgensen,69,73.550724638,12.08734904,92.0,27.0,,,,7,,9,7,14,9,8,
+UBCO,2014,W,MGMT,310,,102,Introduction to Finance,Jana Martin;Kathleen Lindsey;Rayel Jorgensen,72,77.041666667,12.253700217,95.0,45.0,,,5,7,,6,,7,12,11,14
+UBCO,2014,W,MGMT,310,,103,Introduction to Finance,Jana Martin;Kathleen Lindsey;Rayel Jorgensen,56,68.892857143,9.972103947999999,87.0,45.0,,,9,8,5,10,7,5,6,,
+UBCO,2014,W,MGMT,320,,001,Introduction to Marketing,Ping Li,65,82.72307692300001,4.158980089,90.0,67.0,,,,,,,,7,31,22,
+UBCO,2014,W,MGMT,320,,002,Introduction to Marketing,Ping Li,69,84.043478261,3.246875342,90.0,76.0,,,,,,,,5,34,28,
+UBCO,2014,W,MGMT,320,,003,Introduction to Marketing,Ping Li,53,79.962264151,4.751365246000001,95.0,72.0,,,,,,,12,11,23,6,
+UBCO,2014,W,MGMT,330,,001,Introduction to Organizational Behaviour,David Walker,66,81.393939394,5.320146868999999,91.0,66.0,,,,,,,,11,29,16,
+UBCO,2014,W,MGMT,330,,002,Introduction to Organizational Behaviour,David Walker,69,80.550724638,4.912577591,91.0,70.0,,,,,,,9,13,29,11,
+UBCO,2014,W,MGMT,330,,003,Introduction to Organizational Behaviour,David Walker,54,73.185185185,11.806736283,90.0,0.0,,,,,5,8,11,17,8,,
+UBCO,2014,W,MGMT,340,,004,Introduction to Management Communications,Swantje Lembke,66,76.106060606,4.648006315,88.0,63.0,,,,,,6,17,23,15,,
+UBCO,2014,W,MGMT,340,,005,Introduction to Management Communications,Swantje Lembke,69,74.710144928,5.928747137999999,83.0,50.0,,,,,,9,24,16,15,,
+UBCO,2014,W,MGMT,340,,006,Introduction to Management Communications,Swantje Lembke,53,72.320754717,5.437666301,86.0,56.0,,,,,6,17,16,9,,,
+UBCO,2014,W,MGMT,350,,001,Introduction to Information Technology Management,Barbara Marcolin,65,78.815384615,5.606615255,93.0,67.0,,,,,,,14,13,24,6,
+UBCO,2014,W,MGMT,350,,002,Introduction to Information Technology Management,Barbara Marcolin,69,79.347826087,5.508886102000001,91.0,70.0,,,,,,5,17,7,27,10,
+UBCO,2014,W,MGMT,350,,003,Introduction to Information Technology Management,Barbara Marcolin,54,75.092592593,12.023983138,90.0,0.0,,,,,,8,12,12,13,,
+UBCO,2014,W,MGMT,355,,101,Operations Management,Jacob Yunkyung Cho;Jiyue Yuan;Xiao Ping Yue,66,76.621212121,8.952464467999999,95.0,61.0,,,,5,9,6,12,9,9,11,5
+UBCO,2014,W,MGMT,355,,102,Operations Management,Jacob Yunkyung Cho;Jiyue Yuan;Xiao Ping Yue,71,78.563380282,9.004336089,96.0,59.0,,,,,5,5,8,10,18,14,6
+UBCO,2014,W,MGMT,355,,103,Operations Management,Jacob Yunkyung Cho;Jiyue Yuan;Xiao Ping Yue,51,74.31372549,8.028674102,91.0,56.0,,,,,,,17,8,10,,
+UBCO,2014,W,MGMT,360,,004,Business Conditions Analysis,Grace Fan;Haleh Barmaki,66,64.954545455,6.069930472999999,78.0,52.0,,,9,14,15,15,7,,,,
+UBCO,2014,W,MGMT,360,,005,Business Conditions Analysis,Grace Fan;Haleh Barmaki,70,69.0,8.11154125,87.0,52.0,,,6,6,18,11,11,6,8,,
+UBCO,2014,W,MGMT,360,,006,Business Conditions Analysis,Grace Fan;Haleh Barmaki,51,65.960784314,8.072077265,80.0,50.0,,5,5,11,8,6,9,6,,,
+UBCO,2014,W,MGMT,380,,101,Sustainability and Business,Arjun Bhardwaj;Camilo Moreno Pena;Camilo Pena,65,81.707692308,4.292883198,91.0,70.0,,,,,,,5,12,27,19,
+UBCO,2014,W,MGMT,380,,102,Sustainability and Business,Arjun Bhardwaj;Camilo Moreno Pena;Camilo Pena,70,82.142857143,4.758777441,89.0,69.0,,,,,,,,9,30,24,
+UBCO,2014,W,MGMT,380,,103,Sustainability and Business,Arjun Bhardwaj;Camilo Moreno Pena;Camilo Pena,51,78.823529412,4.8112613,86.0,64.0,,,,,,,7,16,19,6,
+UBCO,2014,W,MGMT,390,,101,Industry Analysis Project,Cally Zering;Norine Webster,65,75.90769230800001,6.107687464,89.0,63.0,,,,,7,9,9,21,16,,
+UBCO,2014,W,MGMT,390,,102,Industry Analysis Project,Cally Zering;Norine Webster,70,78.314285714,6.160987257,90.0,63.0,,,,,,10,14,17,10,17,
+UBCO,2014,W,MGMT,390,,103,Industry Analysis Project,Cally Zering;Norine Webster,51,70.784313725,8.481305856,83.0,49.0,,,,,9,11,12,5,8,,
+UBCO,2014,W,MGMT,400,,001,Intermediate Financial Accounting,Jana Martin,42,74.428571429,10.265126512,96.0,52.0,,,,,6,5,7,5,8,,
+UBCO,2014,W,MGMT,401,,001,Intermediate Managerial Accounting,Tamara Ebl,43,71.069767442,10.700234419,87.0,45.0,,,,,9,7,5,6,,6,
+UBCO,2014,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sarah Gumpinger,37,76.540540541,10.032155507999999,97.0,42.0,,,,,,5,7,,12,,
+UBCO,2014,W,MGMT,403,,001,Auditing and Assurance Services,Sarah Gumpinger;Zhi Qiao,37,74.567567568,6.19829968,92.0,62.0,,,,,,6,14,8,,,
+UBCO,2014,W,MGMT,404,,001,Advanced Financial Accounting,Sarah Gumpinger,5,81.4,2.302172887,84.0,79.0,,,,,,,,,,,
+UBCO,2014,W,MGMT,404,,101,Advanced Financial Accounting,Camilo Moreno Pena;Camilo Pena;Sarah Gumpinger,35,82.057142857,11.631455468,100.0,38.0,,,,,,,,8,,9,8
+UBCO,2014,W,MGMT,405,,001,Advanced Managerial Accounting,Tamara Ebl,6,80.166666667,6.735478206,87.0,72.0,,,,,,,,,,,
+UBCO,2014,W,MGMT,405,,101,Advanced Managerial Accounting,Tamara Ebl;Zhi Qiao,35,74.62857142899999,6.357421389,87.0,61.0,,,,,,7,10,5,7,,
+UBCO,2014,W,MGMT,410,,001,Leadership in Complex Environments,John Burton,70,84.6,7.423815965,95.0,62.0,,,,,,7,,,10,31,17
+UBCO,2014,W,MGMT,411,,101,Human Resources Management,Birgit Weischedel,33,80.181818182,6.37109952,94.0,70.0,,,,,,,,8,9,6,
+UBCO,2014,W,MGMT,412,,101,Negotiations,Sylvie Vidaillac;Xiao Ping Yue,61,76.06557377,9.133945574,90.0,40.0,,,,,,10,9,11,20,5,
+UBCO,2014,W,MGMT,419,N,001,Special Topics in Management,David Koslowsky,46,82.239130435,4.3368436169999995,87.0,64.0,,,,,,,,5,15,24,
+UBCO,2014,W,MGMT,419,O,101,Special Topics in Management,Jacob Yunkyung Cho,37,79.108108108,9.344587809,91.0,57.0,,,,,,,,,9,11,
+UBCO,2014,W,MGMT,421,,101,"Outsourcing, Offshoring, and Globalization",Swantje Lembke,33,74.424242424,7.433161772999999,88.0,58.0,,,,,,6,10,,6,,
+UBCO,2014,W,MGMT,422,,001,Project Management,Norine Webster,43,76.23255814,8.679031132,87.0,48.0,,,,,,6,9,8,9,7,
+UBCO,2014,W,MGMT,422,,101,Project Management,Golam Kabir;Norine Webster,22,79.5,6.442049363,91.0,68.0,,,,,,,,5,7,,
+UBCO,2014,W,MGMT,423,,101,E-Commerce,Birgit Weischedel;Xiao Ping Yue,44,83.022727273,6.89620265,97.0,68.0,,,,,,,,13,10,9,9
+UBCO,2014,W,MGMT,429,C,001,Special Topics in Information Technology Management,Barbara Marcolin,31,81.09677419399999,7.790399385,91.0,50.0,,,,,,,,,9,10,
+UBCO,2014,W,MGMT,435,,101,Risk Management,David Koslowsky,72,81.472222222,6.545554824,93.0,60.0,,,,,,,7,9,25,15,12
+UBCO,2014,W,MGMT,436,,101,Investments,David Koslowsky,69,81.086956522,9.241433442,95.0,55.0,,,,,,,10,5,10,20,15
+UBCO,2014,W,MGMT,436,,102,Investments,Christoph Himmelstein,25,73.32,9.063295942,85.0,53.0,,,,,,,8,,6,,
+UBCO,2014,W,MGMT,439,B,001,Special Topics in Finance,Connie Raddatz;Seyee Yoon,25,71.8,8.356634091,83.0,50.0,,,,,,,5,8,,,
+UBCO,2014,W,MGMT,439,D,001,Special Topics in Finance,Coreen Sol,37,77.756756757,7.7042751670000005,92.0,60.0,,,,,,5,11,,9,5,
+UBCO,2014,W,MGMT,439,E,001,Special Topics in Finance,David Koslowsky,70,80.042857143,7.445328687000001,95.0,61.0,,,,,,,11,5,22,15,8
+UBCO,2014,W,MGMT,439,E,101,Special Topics in Finance,Christoph Himmelstein,24,70.416666667,9.454314252,89.0,53.0,,,,,,6,,,,,
+UBCO,2014,W,MGMT,440,,001,"Brands, Culture, and Marketing",Annamma Joy,50,73.7,4.908343584,82.0,65.0,,,,,7,9,16,8,10,,
+UBCO,2014,W,MGMT,440,,002,"Brands, Culture, and Marketing",Annamma Joy,50,74.9,4.70887135,82.0,58.0,,,,,,,19,19,6,,
+UBCO,2014,W,MGMT,441,,001,Marketing Strategy,Camilo Moreno Pena;Camilo Pena;Ying Zhu,32,76.09375,6.683438245,86.0,60.0,,,,,,,6,7,10,,
+UBCO,2014,W,MGMT,441,,002,Marketing Strategy,Camilo Moreno Pena;Camilo Pena;Ying Zhu,27,76.407407407,7.401970939,86.0,60.0,,,,,,,6,5,7,5,
+UBCO,2014,W,MGMT,442,,001,Consumer Behaviour,Haleh Barmaki;Ying Zhu,37,74.513513514,8.840002582,88.0,55.0,,,,,,,6,6,7,6,
+UBCO,2014,W,MGMT,442,,002,Consumer Behaviour,Haleh Barmaki;Ying Zhu,31,75.419354839,9.036128202999999,89.0,58.0,,,,,,,7,,5,7,
+UBCO,2014,W,MGMT,443,,001,New Product and Service Development,Norine Webster,65,76.815384615,7.590891556,92.0,57.0,,,,,,11,11,14,13,7,
+UBCO,2014,W,MGMT,450,,101,Entrepreneurship and the Smaller Firm,Grace Fan;Haleh Barmaki,24,81.791666667,3.671028368,88.0,74.0,,,,,,,,,12,6,
+UBCO,2014,W,MGMT,461,,101,Service Marketing and Customer Management,Annamma Joy,51,76.431372549,3.7749431889999996,83.0,67.0,,,,,,,13,17,16,,
+UBCO,2014,W,MGMT,480,,001,Law and Business,Monic Pratch,70,78.314285714,11.791107995,100.0,24.0,,,,5,,5,9,9,14,14,8
+UBCO,2014,W,MGMT,480,,101,Law and Business,Monic Pratch;Xiao Ping Yue,51,77.901960784,11.866347209,100.0,53.0,,,,,,,8,6,11,5,8
+UBCO,2014,W,MGMT,482,,101,International Business,Arjun Bhardwaj;Camilo Moreno Pena;Camilo Pena,65,78.676923077,6.2427650429999995,87.0,61.0,,,,,,5,6,14,26,10,
+UBCO,2014,W,MGMT,490,,001,Capstone Service Learning and Consulting,David Jenkins;Greg Ruetz;Russel Fields,58,86.36206896600001,5.580977327,95.0,72.0,,,,,,,,7,6,20,22
+UBCO,2014,W,MGMT,490,,101,Capstone Service Learning and Consulting,David Jenkins;Greg Ruetz;Russel Fields,53,82.169811321,5.659355253999999,93.0,66.0,,,,,,,6,6,17,17,5
+UBCO,2014,W,MGMT,490,,102,Capstone Service Learning and Consulting,David Jenkins;Greg Ruetz;Russel Fields,51,83.411764706,5.433880641,94.0,71.0,,,,,,,,6,24,10,7
+UBCO,2014,W,MGMT,490,,103,Capstone Service Learning and Consulting,David Jenkins;Greg Ruetz;Russel Fields,50,82.76,4.618330823,92.0,71.0,,,,,,,,7,17,18,
