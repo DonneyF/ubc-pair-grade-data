@@ -11,8 +11,6 @@ There are two main sources for the data. The first (now deprecated) source was f
 
 ## Differences
 The PAIR Reports contained these distinctions:
-  - Number of students that passed the course
-  - Number of students that failed the course
   - Number of students that audited the course
   - Number of students that completed the course outside any of the above three categories
   - Precision of grade averages and standard deviations of two decimal places
