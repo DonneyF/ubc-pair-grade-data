@@ -21,6 +21,7 @@ The new Tableau dashboard has these distinctions:
     - For this reason if fewer than 6 people failed a course it is not possible to get the failure/passing rate for a section.
   - Higher precision of grade averages and standard deviations to nine decimal places.
   - The campus code `UBC` has been changed to `UBCV`.
+  - The course title fields are populated with its full title rather than an capitalized shorthand, as one might see on the SSC.
  
 These differences are reflected in the data.
 
