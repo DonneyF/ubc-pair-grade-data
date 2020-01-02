@@ -1,10 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,W,STAT,121,,001,Elementary Statistics,Jordan Gardener;Kim Nguyen;Lengyi Han;Stephanie Awotwi-Pratt,107,74.953271028,19.822506352,99.0,2.0,10,,,,,13,8,11,18,18,20
-UBCO,2017,W,STAT,121,,101,Elementary Statistics,Dongying Wang;Emelie Gustafsson;Megan Kurz;Stephanie Awotwi-Pratt,128,81.2265625,20.579102176,100.0,3.0,12,,,,6,,6,9,15,16,58
+UBCO,2017,W,STAT,121,,001,Elementary Statistics,Jordan Gardener;Kim Nguyen;Lengyi Han;Stephanie Awotwi-Pratt,107,74.953271028,19.822506352,99.0,2.0,10,,,,2,13,8,11,18,18,20
+UBCO,2017,W,STAT,121,,101,Elementary Statistics,Dongying Wang;Emelie Gustafsson;Megan Kurz;Stephanie Awotwi-Pratt,128,81.2265625,20.579102176,100.0,3.0,12,,,,6,1,6,9,15,16,58
+UBCO,2017,W,STAT,121,,OVERALL,Elementary Statistics,,235,78.37021276600001,20.436350165,100.0,2.0,22,,,6,8,14,14,20,33,34,78
 UBCO,2017,W,STAT,124,,001,Business Statistics,Emma Richardson;Megan Kurz;Micah Beatty;Paramjit Gill;Phillip Shreeves;Sarah Macqueen;Zachary Bingley,225,62.444444444,21.648320988000002,95.0,0.0,43,19,9,15,13,26,28,21,20,19,12
+UBCO,2017,W,STAT,124,,OVERALL,Business Statistics,,225,62.444444444,21.648320988000002,95.0,0.0,43,19,9,15,13,26,28,21,20,19,12
 UBCO,2017,W,STAT,230,,001,Introductory Statistics,Chelsey Hvingelby;Dongying Wang;Jason Loeppky;Megan Kurz;Paramjit Gill,128,71.1171875,14.561096423,98.0,17.0,6,7,6,13,10,18,10,18,14,10,16
-UBCO,2017,W,STAT,230,,101,Introductory Statistics,Chelsey Hvingelby;Paramjit Gill;Sarah Macqueen,85,67.470588235,17.52996634,96.0,11.0,9,8,5,10,,9,7,,16,7,6
+UBCO,2017,W,STAT,230,,101,Introductory Statistics,Chelsey Hvingelby;Paramjit Gill;Sarah Macqueen,85,67.470588235,17.52996634,96.0,11.0,9,8,5,10,4,9,7,4,16,7,6
+UBCO,2017,W,STAT,230,,OVERALL,Introductory Statistics,,213,69.661971831,15.873863347999999,98.0,11.0,15,15,11,23,14,27,17,22,30,17,22
 UBCO,2017,W,STAT,303,,001,Introduction to Probability,Jeffrey Andrews;Jordan Gardener,59,70.237288136,20.020970887,99.0,8.0,,5,6,8,,6,,,7,7,10
+UBCO,2017,W,STAT,303,,OVERALL,Introduction to Probability,,59,70.237288136,20.020970887,99.0,8.0,,5,6,8,,6,,,7,7,10
 UBCO,2017,W,STAT,309,,001,Introduction to Statistical Inference,Jeffrey Andrews,15,59.866666667,20.59079776,94.0,0.0,,,6,,,,,,,,
+UBCO,2017,W,STAT,309,,OVERALL,Introduction to Statistical Inference,,15,59.866666667,20.59079776,94.0,0.0,,,6,,,,,,,,
 UBCO,2017,W,STAT,400,,101,Statistical Communication and Consulting,Jason Loeppky;Yves Lucet,9,86.555555556,5.387743292000001,93.0,76.0,,,,,,,,,,,
+UBCO,2017,W,STAT,400,,OVERALL,Statistical Communication and Consulting,,9,86.555555556,5.387743292000001,93.0,76.0,,,,,,,,,,,
 UBCO,2017,W,STAT,406,,001,Environmetrics,Jason Loeppky;John Braun;Paramjit Gill,9,83.222222222,12.04966574,98.0,60.0,,,,,,,,,,,
+UBCO,2017,W,STAT,406,,OVERALL,Environmetrics,,9,83.222222222,12.04966574,98.0,60.0,,,,,,,,,,,

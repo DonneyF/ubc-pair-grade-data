@@ -1,56 +1,106 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,W,NURS,300,,001,Theoretical and Professional Foundations for Nursing Practice,Alice Slemon;Elsie Tan;Katherine O'Flynn-Magee,120,81.05,5.100420151000001,94.0,65.0,,,,,,,14,28,42,27,5
+UBCV,2017,W,NURS,300,,OVERALL,Theoretical and Professional Foundations for Nursing Practice,,120,81.05,5.100420151000001,94.0,65.0,,,,,,,14,28,42,27,5
 UBCV,2017,W,NURS,310,,001,Basic Principles of Pharmacology for Nursing Practice,Elsie Tan;Manpreet Kaur Gill Thandi;Manpreet Thandi;Marlene Burrows,120,81.416666667,5.750532797000001,96.0,66.0,,,,,,,17,22,40,28,9
+UBCV,2017,W,NURS,310,,OVERALL,Basic Principles of Pharmacology for Nursing Practice,,120,81.416666667,5.750532797000001,96.0,66.0,,,,,,,17,22,40,28,9
 UBCV,2017,W,NURS,330,,001,Theoretical Perspectives in Nursing: Adults/Older Adults and their Families,Elsie Tan;Jennifer Kryworuchko;Jillian Harding;Mariko Liette Sakamoto,121,78.041322314,4.572374828,90.0,60.0,,,,,,6,23,39,45,5,
-UBCV,2017,W,NURS,333,,405,Professional Nursing Practice with Childbearing Individuals and Families,Beverley Valkenier;Brianne Nicole Robb;Catherine Chappell;Cathryn Jackson;Cheryl Segaric;Jonathan Mislang;Tsigeroman Dejene,19,81.15789473699999,3.9758040119999998,89.0,76.0,,,,,,,,6,9,,
+UBCV,2017,W,NURS,330,,OVERALL,Theoretical Perspectives in Nursing: Adults/Older Adults and their Families,,121,78.041322314,4.572374828,90.0,60.0,,,,,,6,23,39,45,5,
+UBCV,2017,W,NURS,333,,405,Professional Nursing Practice with Childbearing Individuals and Families,Beverley Valkenier;Brianne Nicole Robb;Catherine Chappell;Cathryn Jackson;Cheryl Segaric;Jonathan Mislang;Tsigeroman Dejene,19,81.15789473699999,3.9758040119999998,89.0,76.0,,,,,,,,6,9,4,
 UBCV,2017,W,NURS,333,,406,Professional Nursing Practice with Childbearing Individuals and Families,Beverley Valkenier;Brianne Nicole Robb;Catherine Chappell;Cathryn Jackson;Cheryl Segaric;Jonathan Mislang;Natalie Lu,20,79.8,5.82734028,88.0,67.0,,,,,,,,7,5,5,
+UBCV,2017,W,NURS,333,,OVERALL,Professional Nursing Practice with Childbearing Individuals and Families,,39,80.461538462,4.993923433,89.0,67.0,,,,,,,,13,14,9,
 UBCV,2017,W,NURS,334,,405,"Professional Nursing Practice with Infants, Children, Youth, and their Families",Alexander Steer;Beverley Valkenier;Cathryn Jackson;Chandra Pham;Joanne Marie Ralko;Jonathan Mislang;Tatijana Dunat,19,77.315789474,4.042175316,87.0,72.0,,,,,,,8,5,5,,
-UBCV,2017,W,NURS,334,,406,"Professional Nursing Practice with Infants, Children, Youth, and their Families",Alexander Steer;Beverley Valkenier;Cathryn Jackson;Chandra Pham;Joanne Marie Ralko;Jonathan Mislang;Tatijana Dunat,20,81.3,5.252568294,90.0,70.0,,,,,,,,,10,,
-UBCV,2017,W,NURS,335,,401,Professional Nursing Practice with Adults Living with Mental Illness and their Families,Beverley Valkenier;Cathryn Jackson;Colleen Kataryna Olive Borralho;Elysia Hartley;Jonathan Mislang;Kelli Walsh;Nancy Mahy,20,87.15,1.8994459030000002,91.0,84.0,,,,,,,,,,17,
+UBCV,2017,W,NURS,334,,406,"Professional Nursing Practice with Infants, Children, Youth, and their Families",Alexander Steer;Beverley Valkenier;Cathryn Jackson;Chandra Pham;Joanne Marie Ralko;Jonathan Mislang;Tatijana Dunat,20,81.3,5.252568294,90.0,70.0,,,,,,,2,3,10,,
+UBCV,2017,W,NURS,334,,OVERALL,"Professional Nursing Practice with Infants, Children, Youth, and their Families",,39,79.358974359,5.060097666,90.0,70.0,,,,,,,10,8,15,,
+UBCV,2017,W,NURS,335,,401,Professional Nursing Practice with Adults Living with Mental Illness and their Families,Beverley Valkenier;Cathryn Jackson;Colleen Kataryna Olive Borralho;Elysia Hartley;Jonathan Mislang;Kelli Walsh;Nancy Mahy,20,87.15,1.8994459030000002,91.0,84.0,,,,,,,,,,17,1
 UBCV,2017,W,NURS,335,,402,Professional Nursing Practice with Adults Living with Mental Illness and their Families,Beverley Valkenier;Cathryn Jackson;Colleen Kataryna Olive Borralho;Elysia Hartley;Jonathan Mislang;Kelli Walsh;Nancy Mahy,20,90.5,1.9601288890000002,93.0,86.0,,,,,,,,,,5,15
-UBCV,2017,W,NURS,336,,401,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Joanne Ricci;Jonathan Mislang;Julene Elise Cranch;Ranjit Kaur Dhari;Sharon Williams;Sukhdev Grewal,20,80.5,4.03276058,87.0,72.0,,,,,,,,6,8,,
-UBCV,2017,W,NURS,336,,402,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Joanne Ricci;Jonathan Mislang;Julene Elise Cranch;Ranjit Kaur Dhari;Sharon Tobert;Sharon Williams;Sukhdev Grewal,20,83.6,3.42437086,89.0,78.0,,,,,,,,,8,10,
+UBCV,2017,W,NURS,335,,OVERALL,Professional Nursing Practice with Adults Living with Mental Illness and their Families,,40,88.825,2.5508922519999997,93.0,84.0,,,,,,,,,,22,16
+UBCV,2017,W,NURS,336,,401,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Joanne Ricci;Jonathan Mislang;Julene Elise Cranch;Ranjit Kaur Dhari;Sharon Williams;Sukhdev Grewal,20,80.5,4.03276058,87.0,72.0,,,,,,,,6,8,4,
+UBCV,2017,W,NURS,336,,402,Professional Nursing Practice with Communities and Populations,Beverley Valkenier;Cathryn Jackson;Joanne Ricci;Jonathan Mislang;Julene Elise Cranch;Ranjit Kaur Dhari;Sharon Tobert;Sharon Williams;Sukhdev Grewal,20,83.6,3.42437086,89.0,78.0,,,,,,,,2,8,10,
+UBCV,2017,W,NURS,336,,OVERALL,Professional Nursing Practice with Communities and Populations,,40,82.05,4.01248053,89.0,72.0,,,,,,,,8,16,14,
 UBCV,2017,W,NURS,337,,434,"Professional Nursing Practice with Adults, Older Adults, and their Families",Beverley Valkenier;Cathryn Jackson;Dalbir Mann;Gail Rea;Jonathan Mislang;Kimberly Sumpter;Lynne Esson;Naomi Kober;Parastoo Rahmanian;Sandra Hold;William Konn;William Richard Konn,40,75.225,5.0712234910000005,85.0,63.0,,,,,,6,13,10,8,,
+UBCV,2017,W,NURS,337,,OVERALL,"Professional Nursing Practice with Adults, Older Adults, and their Families",,40,75.225,5.0712234910000005,85.0,63.0,,,,,,6,13,10,8,,
 UBCV,2017,W,NURS,341,,001,Relational Nursing Practice as Praxis,Leanne Currie;Patricia Rodney;Taavita Hemraj,118,91.983050847,4.048811266,100.0,82.0,,,,,,,,,,30,85
+UBCV,2017,W,NURS,341,,OVERALL,Relational Nursing Practice as Praxis,,118,91.983050847,4.048811266,100.0,82.0,,,,,,,,,,30,85
 UBCV,2017,W,NURS,343,,001,"Leadership, Ethics, and Policy in Nursing Practice",Leanne Currie,118,87.58474576299999,3.1305668939999998,94.0,79.0,,,,,,,,,24,55,38
+UBCV,2017,W,NURS,343,,OVERALL,"Leadership, Ethics, and Policy in Nursing Practice",,118,87.58474576299999,3.1305668939999998,94.0,79.0,,,,,,,,,24,55,38
 UBCV,2017,W,NURS,345,,002,Theoretical Perspectives in Nursing: Childbearing Individuals and their Families,Cheryl Segaric;Nancy Mahy,124,80.09677419399999,5.7203379210000005,92.0,61.0,,,,,,7,13,28,45,24,
+UBCV,2017,W,NURS,345,,OVERALL,Theoretical Perspectives in Nursing: Childbearing Individuals and their Families,,124,80.09677419399999,5.7203379210000005,92.0,61.0,,,,,,7,13,28,45,24,
 UBCV,2017,W,NURS,346,,002,"Theoretical Perspectives in Nursing: Infants, Children, Youth and their Families",Elsie Tan;Erin Devlin;Manpreet Kaur Gill Thandi;Manpreet Thandi;Susan Dahinten,124,80.677419355,4.516543011,91.0,68.0,,,,,,,16,28,53,24,
+UBCV,2017,W,NURS,346,,OVERALL,"Theoretical Perspectives in Nursing: Infants, Children, Youth and their Families",,124,80.677419355,4.516543011,91.0,68.0,,,,,,,16,28,53,24,
 UBCV,2017,W,NURS,350,,002,Critical Inquiry and Research in Health Care Practice,Elsie Tan;Susan Dahinten;Taavita Hemraj,120,84.3,5.525494769,95.0,66.0,,,,,,,6,15,35,41,21
+UBCV,2017,W,NURS,350,,OVERALL,Critical Inquiry and Research in Health Care Practice,,120,84.3,5.525494769,95.0,66.0,,,,,,,6,15,35,41,21
 UBCV,2017,W,NURS,352,,001,Relational and Ethical Nursing Practice,Elizabeth Martha May Straus;Elsie Tan;Helen Jean Brown,120,88.258333333,4.712750153,97.0,76.0,,,,,,,,6,22,39,53
+UBCV,2017,W,NURS,352,,OVERALL,Relational and Ethical Nursing Practice,,120,88.258333333,4.712750153,97.0,76.0,,,,,,,,6,22,39,53
 UBCV,2017,W,NURS,420,,002,Clinical Nursing Focus: Adults Experiencing Acute or Chronic Health Conditions,Alana Yang;Beverley Valkenier;Cathryn Jackson;Dalbir Mann;Frances Affleck;Gail Rea;Jonathan Mislang;Kimberly Sumpter;Lynne Esson;Melissa Anne Furst;Naomi Kober;Parastoo Rahmanian;Paula Foster,51,82.980392157,5.453403327,94.0,68.0,,,,,,,,12,17,15,
+UBCV,2017,W,NURS,420,,OVERALL,Clinical Nursing Focus: Adults Experiencing Acute or Chronic Health Conditions,,51,82.980392157,5.453403327,94.0,68.0,,,,,,,,12,17,15,
 UBCV,2017,W,NURS,422,,002,Clincial Nursing Focus: Childbearing Families,Alessandra Fontana;Anna Pawlak;Beverley Valkenier;Cathryn Jackson;Jonathan Mislang;Taras Stefishen;Wendy Anne Hall,19,80.263157895,7.178997959,90.0,64.0,,,,,,,,,6,6,
+UBCV,2017,W,NURS,422,,OVERALL,Clincial Nursing Focus: Childbearing Families,,19,80.263157895,7.178997959,90.0,64.0,,,,,,,,,6,6,
 UBCV,2017,W,NURS,423,,002,Clincial Nursing Focus: Children and their Families,Audrey Barnwell;Baljit Khun-Khun;Beverley Valkenier;Cathryn Jackson;Chandra Pham;Joanne Marie Ralko;Jonathan Mislang,19,85.631578947,7.365162187,94.0,60.0,,,,,,,,,,9,5
+UBCV,2017,W,NURS,423,,OVERALL,Clincial Nursing Focus: Children and their Families,,19,85.631578947,7.365162187,94.0,60.0,,,,,,,,,,9,5
 UBCV,2017,W,NURS,424,,002,Clincial Nursing Focus: Individuals and Families with  Mental Health Concerns,Beverley Valkenier;Cathryn Jackson;Emily Ochi;Jonathan Mislang;Kathryn Browning;Michelle Danda,13,88.153846154,6.706292491,97.0,70.0,,,,,,,,,,6,5
+UBCV,2017,W,NURS,424,,OVERALL,Clincial Nursing Focus: Individuals and Families with  Mental Health Concerns,,13,88.153846154,6.706292491,97.0,70.0,,,,,,,,,,6,5
 UBCV,2017,W,NURS,425,,002,Clinical Nursing Focus: Community and Population Health,Beverley Valkenier;Cathryn Jackson;Jonathan Mislang;Sheila Mary Mcburney;Veena Mudaliar;Veronica Echon,12,85.25,4.614699833,90.0,76.0,,,,,,,,,,6,
-UBCV,2017,W,NURS,502,,99A,Ethics and Politics of Nursing,Colleen Varcoe,8,88.0,2.449489743,91.0,84.0,,,,,,,,,,5,
-UBCV,2017,W,NURS,502,,002,Ethics and Politics of Nursing,Helen Jean Brown;Sabrina Wong,12,83.666666667,10.27205683,95.0,67.0,,,,,,,,,,,5
+UBCV,2017,W,NURS,425,,OVERALL,Clinical Nursing Focus: Community and Population Health,,12,85.25,4.614699833,90.0,76.0,,,,,,,,,,6,
+UBCV,2017,W,NURS,502,,002,Ethics and Politics of Nursing,Helen Jean Brown;Sabrina Wong,12,83.666666667,10.27205683,95.0,67.0,,,,,,,,,,1,5
+UBCV,2017,W,NURS,502,,99A,Ethics and Politics of Nursing,Colleen Varcoe,8,88.0,2.449489743,91.0,84.0,,,,,,,,,,5,2
+UBCV,2017,W,NURS,502,,OVERALL,Ethics and Politics of Nursing,,20,85.4,8.248763862999999,95.0,67.0,,,,,,,,,,6,7
 UBCV,2017,W,NURS,504,,001,Research and Evidence-Based Practice,Amanda Howard,29,85.379310345,7.966061014,96.0,62.0,,,,,,,,,5,9,10
+UBCV,2017,W,NURS,504,,OVERALL,Research and Evidence-Based Practice,,29,85.379310345,7.966061014,96.0,62.0,,,,,,,,,5,9,10
 UBCV,2017,W,NURS,506,,001,Health Promotion in Practice,John Oliffe,19,89.05263157899999,6.467643261,96.0,66.0,,,,,,,,,,6,11
+UBCV,2017,W,NURS,506,,OVERALL,Health Promotion in Practice,,19,89.05263157899999,6.467643261,96.0,66.0,,,,,,,,,,6,11
 UBCV,2017,W,NURS,507,,002,Pharmacology and Therapeutics in Primary Care,Fairleth Mccuaig;Fairleth P Mccuaig,14,89.928571429,3.3389147410000004,95.0,85.0,,,,,,,,,,7,7
+UBCV,2017,W,NURS,507,,OVERALL,Pharmacology and Therapeutics in Primary Care,,14,89.928571429,3.3389147410000004,95.0,85.0,,,,,,,,,,7,7
 UBCV,2017,W,NURS,508,,99A,Pathophysiological Processes for Nurse Practitioners,Jillian Harding,15,88.73333333299999,6.850095585,99.0,73.0,,,,,,,,,,,8
+UBCV,2017,W,NURS,508,,OVERALL,Pathophysiological Processes for Nurse Practitioners,,15,88.73333333299999,6.850095585,99.0,73.0,,,,,,,,,,,8
 UBCV,2017,W,NURS,509,,002,Clinical Procedures in Primary Care Settings,Jennifer Krist,14,96.0,3.012793235,99.0,91.0,,,,,,,,,,,14
+UBCV,2017,W,NURS,509,,OVERALL,Clinical Procedures in Primary Care Settings,,14,96.0,3.012793235,99.0,91.0,,,,,,,,,,,14
 UBCV,2017,W,NURS,510,,001,Advanced Health Assessment Across the Life Span,Fairleth Mccuaig;Fairleth P Mccuaig;Jillian Harding;Marlene Burrows,15,91.866666667,3.461351236,96.0,83.0,,,,,,,,,,,13
+UBCV,2017,W,NURS,510,,OVERALL,Advanced Health Assessment Across the Life Span,,15,91.866666667,3.461351236,96.0,83.0,,,,,,,,,,,13
 UBCV,2017,W,NURS,511,,001,Theoretical Foundations of Nursing Practice,Wendy Anne Hall,29,79.620689655,4.507246492,87.0,72.0,,,,,,,6,8,9,6,
-UBCV,2017,W,NURS,511,,002,Theoretical Foundations of Nursing Practice,Angela Wolff;Helen Jean Brown;Sabrina Wong,6,83.833333333,2.9944392910000004,87.0,79.0,,,,,,,,,,,
+UBCV,2017,W,NURS,511,,002,Theoretical Foundations of Nursing Practice,Angela Wolff;Helen Jean Brown;Sabrina Wong,6,83.833333333,2.9944392910000004,87.0,79.0,,,,,,,0,1,3,2,
+UBCV,2017,W,NURS,511,,OVERALL,Theoretical Foundations of Nursing Practice,,35,80.342857143,4.54353359,87.0,72.0,,,,,,,6,9,12,8,
 UBCV,2017,W,NURS,512,,99C,Leadership in Nursing,Maura Macphee,12,97.25,3.048844789,100.0,89.0,,,,,,,,,,,11
+UBCV,2017,W,NURS,512,,OVERALL,Leadership in Nursing,,12,97.25,3.048844789,100.0,89.0,,,,,,,,,,,11
 UBCV,2017,W,NURS,520,,001,Administrative Leadership in Nursing,Victoria Bungay,15,85.4,4.484895285,92.0,76.0,,,,,,,,,,9,
+UBCV,2017,W,NURS,520,,OVERALL,Administrative Leadership in Nursing,,15,85.4,4.484895285,92.0,76.0,,,,,,,,,,9,
 UBCV,2017,W,NURS,530,,002,Advanced Practice in Nursing,Bernard Mark Garrett,10,88.0,1.4142135619999998,90.0,86.0,,,,,,,,,,8,
+UBCV,2017,W,NURS,530,,OVERALL,Advanced Practice in Nursing,,10,88.0,1.4142135619999998,90.0,86.0,,,,,,,,,,8,
 UBCV,2017,W,NURS,541,,002,Clinical Nursing Education,Katherine O'Flynn-Magee,6,86.333333333,2.581988897,90.0,83.0,,,,,,,,,,,
+UBCV,2017,W,NURS,541,,OVERALL,Clinical Nursing Education,,6,86.333333333,2.581988897,90.0,83.0,,,,,,,,,,,
 UBCV,2017,W,NURS,542,,002,Social Epidemiology: Special Populations,Alison Phinney;Jennifer Baumbusch,15,86.0,6.267831705,95.0,77.0,,,,,,,,,5,,6
+UBCV,2017,W,NURS,542,,OVERALL,Social Epidemiology: Special Populations,,15,86.0,6.267831705,95.0,77.0,,,,,,,,,5,,6
 UBCV,2017,W,NURS,548,,001,Qualitative Methods and Analysis,Mary Judith Lynam,12,85.666666667,3.446561747,90.0,78.0,,,,,,,,,,6,
+UBCV,2017,W,NURS,548,,OVERALL,Qualitative Methods and Analysis,,12,85.666666667,3.446561747,90.0,78.0,,,,,,,,,,6,
 UBCV,2017,W,NURS,549,,001,Quantitative Research Methods and Analytic Strategies in Nursing and Health Sciences,Susan Dahinten,14,83.571428571,9.001831316,97.0,68.0,,,,,,,,,,,6
+UBCV,2017,W,NURS,549,,OVERALL,Quantitative Research Methods and Analytic Strategies in Nursing and Health Sciences,,14,83.571428571,9.001831316,97.0,68.0,,,,,,,,,,,6
 UBCV,2017,W,NURS,552,,002,Methods in Nursing Science.,Ruimei Liang;Sabrina Wong,22,86.545454545,7.9565921920000005,96.0,71.0,,,,,,,,,,,11
+UBCV,2017,W,NURS,552,,OVERALL,Methods in Nursing Science.,,22,86.545454545,7.9565921920000005,96.0,71.0,,,,,,,,,,,11
 UBCV,2017,W,NURS,554,,002,Advanced Research Methods,Susan Dahinten,9,86.666666667,3.968626967,92.0,81.0,,,,,,,,,,,
+UBCV,2017,W,NURS,554,,OVERALL,Advanced Research Methods,,9,86.666666667,3.968626967,92.0,81.0,,,,,,,,,,,
 UBCV,2017,W,NURS,560,,001,The Politics of Health Policy,Jennifer Baumbusch;Mary Judith Lynam;Patricia Rodney,13,87.846153846,4.317525407,95.0,81.0,,,,,,,,,,,6
+UBCV,2017,W,NURS,560,,OVERALL,The Politics of Health Policy,,13,87.846153846,4.317525407,95.0,81.0,,,,,,,,,,,6
 UBCV,2017,W,NURS,570,,002,Primary Care I,Jennifer Krist;Jillian Harding;Marlene Burrows,14,88.5,2.594372608,93.0,85.0,,,,,,,,,,9,5
+UBCV,2017,W,NURS,570,,OVERALL,Primary Care I,,14,88.5,2.594372608,93.0,85.0,,,,,,,,,,9,5
 UBCV,2017,W,NURS,571,,001,Primary Care II,Jennifer Krist;Marlene Burrows,16,93.0,2.449489743,97.0,89.0,,,,,,,,,,,13
+UBCV,2017,W,NURS,571,,OVERALL,Primary Care II,,16,93.0,2.449489743,97.0,89.0,,,,,,,,,,,13
 UBCV,2017,W,NURS,572,,002,PRIMARY CARE III,Fairleth Mccuaig;Jillian Harding;Marlene Burrows,16,92.125,2.918332857,97.0,84.0,,,,,,,,,,,13
+UBCV,2017,W,NURS,572,,OVERALL,PRIMARY CARE III,,16,92.125,2.918332857,97.0,84.0,,,,,,,,,,,13
 UBCV,2017,W,NURS,576,,001,Topics in Social and Environmental Planning to Foster Health of Populations,Heather Mak;Jennifer Baumbusch;Mary Judith Lynam,10,91.5,6.0964470529999994,99.0,80.0,,,,,,,,,,,7
+UBCV,2017,W,NURS,576,,OVERALL,Topics in Social and Environmental Planning to Foster Health of Populations,,10,91.5,6.0964470529999994,99.0,80.0,,,,,,,,,,,7
 UBCV,2017,W,NURS,578,,002,Family Nurse Practitioner Consolidated Practicum,Fairleth Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,16,98.625,1.360147051,100.0,95.0,,,,,,,,,,,16
+UBCV,2017,W,NURS,578,,OVERALL,Family Nurse Practitioner Consolidated Practicum,,16,98.625,1.360147051,100.0,95.0,,,,,,,,,,,16
 UBCV,2017,W,NURS,580,,001,The Philosophy of Evidence,Alison Phinney;Colleen Varcoe,7,82.428571429,6.996597812999999,96.0,76.0,,,,,,,,,,,
+UBCV,2017,W,NURS,580,,OVERALL,The Philosophy of Evidence,,7,82.428571429,6.996597812999999,96.0,76.0,,,,,,,,,,,
 UBCV,2017,W,NURS,581,,002,Leadership in Knowledge Application and Translation,Geertje Boschma;Patricia Rodney,7,87.285714286,3.0394235039999997,92.0,84.0,,,,,,,,,,,
+UBCV,2017,W,NURS,581,,OVERALL,Leadership in Knowledge Application and Translation,,7,87.285714286,3.0394235039999997,92.0,84.0,,,,,,,,,,,
 UBCV,2017,W,NURS,585,S,002,Special Topics in Nursing,Jennifer Baumbusch,15,85.666666667,2.439750182,90.0,83.0,,,,,,,,,7,6,
+UBCV,2017,W,NURS,585,S,OVERALL,Special Topics in Nursing,,15,85.666666667,2.439750182,90.0,83.0,,,,,,,,,7,6,
+UBCV,2017,W,NURS,590,A,OVERALL,Directed Studies in Nursing,,5,80.8,11.798304963,90.0,66.0,,,,,,,,,,,
 UBCV,2017,W,NURS,591,,001,Ethical and Professional Issues in NP Practice,Marlene Burrows,15,92.933333333,5.573747991,99.0,78.0,,,,,,,,,,,12
+UBCV,2017,W,NURS,591,,OVERALL,Ethical and Professional Issues in NP Practice,,15,92.933333333,5.573747991,99.0,78.0,,,,,,,,,,,12
 UBCV,2017,W,NURS,595,,101,Scholarly Practice Advancement Research Project (SPAR),,6,77.5,8.961026727,92.0,64.0,,,,,,,,,,,
+UBCV,2017,W,NURS,595,,OVERALL,Scholarly Practice Advancement Research Project (SPAR),,9,78.111111111,7.423685817000001,92.0,64.0,,,,,,,,,,,
 UBCV,2017,W,NURS,596,,001,Culminating Project,Fairleth Mccuaig;Fairleth P Mccuaig;Jennifer Krist;Jillian Harding;Marlene Burrows,16,89.25,3.415650255,95.0,82.0,,,,,,,,,,7,8
+UBCV,2017,W,NURS,596,,OVERALL,Culminating Project,,16,89.25,3.415650255,95.0,82.0,,,,,,,,,,7,8
 UBCV,2017,W,NURS,599,,101,Master's Thesis,,7,85.428571429,5.855400437999999,92.0,75.0,,,,,,,,,,,
+UBCV,2017,W,NURS,599,,OVERALL,Master's Thesis,,11,83.818181818,7.573878555,93.0,71.0,,,,,,,,,,,

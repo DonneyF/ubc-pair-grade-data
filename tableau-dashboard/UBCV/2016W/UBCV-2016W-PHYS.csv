@@ -1,39 +1,49 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,PHYS,100,,101,Introductory Physics,Mayra Tovar;Stefan Reinsberg,224,68.017857143,15.849053751,98.0,4.0,26,,19,27,13,17,50,12,24,19,13
-UBCV,2016,W,PHYS,100,,102,Introductory Physics,Marcello M Pavan;Marcello Pavan;Stefan Reinsberg,264,69.731060606,17.442998454,100.0,2.0,29,,20,21,21,24,37,27,38,19,26
-UBCV,2016,W,PHYS,100,,103,Introductory Physics,Stefan Reinsberg,258,69.255813953,15.497096035,99.0,4.0,24,,19,15,29,32,54,18,30,14,20
+UBCV,2016,W,PHYS,100,,101,Introductory Physics,Mayra Tovar;Stefan Reinsberg,224,68.017857143,15.849053751,98.0,4.0,26,4.0,19,27,13,17,50,12,24,19,13
+UBCV,2016,W,PHYS,100,,102,Introductory Physics,Marcello M Pavan;Marcello Pavan;Stefan Reinsberg,264,69.731060606,17.442998454,100.0,2.0,29,2.0,20,21,21,24,37,27,38,19,26
+UBCV,2016,W,PHYS,100,,103,Introductory Physics,Stefan Reinsberg,258,69.255813953,15.497096035,99.0,4.0,24,3.0,19,15,29,32,54,18,30,14,20
+UBCV,2016,W,PHYS,100,,OVERALL,Introductory Physics,,750,68.962666667,16.329180294,100.0,2.0,81,9,59,63,64,73,141,57,92,52,59
 UBCV,2016,W,PHYS,101,,101,Energy and Waves,Alison Lister;Evert Koster;Javed Iqbal,235,79.48085106399999,13.2991009,97.0,33.0,15,,,9,11,12,19,29,37,35,65
-UBCV,2016,W,PHYS,101,,103,Energy and Waves,Alison Lister,266,73.838345865,14.331394337999999,96.0,9.0,30,,5,10,16,32,28,38,49,28,29
-UBCV,2016,W,PHYS,101,,104,Energy and Waves,Alison Lister;Jared Stang,138,78.268115942,12.456956462,98.0,37.0,9,,,,7,13,20,19,22,21,26
-UBCV,2016,W,PHYS,101,,201,Energy and Waves,Evert Koster;Hillgan Ma;Jenny Yu;Joerg Rottler;Jordan Fordyce;Matthew Rempel;Valery Milner,266,69.87593985,13.820535174000002,97.0,0.0,29,,16,14,26,44,44,14,41,24,10
-UBCV,2016,W,PHYS,101,,202,Energy and Waves,Joerg Rottler;Jordan Fordyce,279,72.59498207899999,10.268558033,98.0,46.0,14,,10,20,20,64,38,25,52,28,6
-UBCV,2016,W,PHYS,101,,203,Energy and Waves,Matthew Choptuik;Pascal Nigge;Valery Milner,229,74.406113537,13.153818644000001,96.0,8.0,15,5,,11,15,28,31,20,54,24,22
+UBCV,2016,W,PHYS,101,,103,Energy and Waves,Alison Lister,266,73.838345865,14.331394337999999,96.0,9.0,30,1.0,5,10,16,32,28,38,49,28,29
+UBCV,2016,W,PHYS,101,,104,Energy and Waves,Alison Lister;Jared Stang,138,78.268115942,12.456956462,98.0,37.0,9,,,0,7,13,20,19,22,21,26
+UBCV,2016,W,PHYS,101,,201,Energy and Waves,Evert Koster;Hillgan Ma;Jenny Yu;Joerg Rottler;Jordan Fordyce;Matthew Rempel;Valery Milner,266,69.87593985,13.820535174000002,97.0,0.0,29,4.0,16,14,26,44,44,14,41,24,10
+UBCV,2016,W,PHYS,101,,202,Energy and Waves,Joerg Rottler;Jordan Fordyce,279,72.59498207899999,10.268558033,98.0,46.0,14,2.0,10,20,20,64,38,25,52,28,6
+UBCV,2016,W,PHYS,101,,203,Energy and Waves,Matthew Choptuik;Pascal Nigge;Valery Milner,229,74.406113537,13.153818644000001,96.0,8.0,15,5,4.0,11,15,28,31,20,54,24,22
+UBCV,2016,W,PHYS,101,,OVERALL,Energy and Waves,,1413,74.309978769,13.333014820999999,98.0,0.0,112,13,38,64,95,193,180,145,255,160,158
 UBCV,2016,W,PHYS,107,,101,Enriched Physics 1,Ian Keith Affleck,99,79.060606061,11.733275707,98.0,0.0,,,,,,10,10,19,29,16,10
+UBCV,2016,W,PHYS,107,,OVERALL,Enriched Physics 1,,99,79.060606061,11.733275707,98.0,0.0,,,,,,10,10,19,29,16,10
 UBCV,2016,W,PHYS,108,,201,Enriched Physics II,Janis Mckenna,94,81.244680851,13.542197030999999,98.0,15.0,,,,,,6,5,,20,25,24
+UBCV,2016,W,PHYS,108,,OVERALL,Enriched Physics II,,94,81.244680851,13.542197030999999,98.0,15.0,,,,,,6,5,,20,25,24
 UBCV,2016,W,PHYS,109,,L0A,Enriched Experimental Physics,Anita Mahinpei;Carolin Janet Hofer;Jennifer Moroz;Joss Ives,19,83.0,3.1446603769999997,88.0,77.0,,,,,,,,,12,5,
 UBCV,2016,W,PHYS,109,,L0B,Enriched Experimental Physics,Deborah C Good;Deborah Good;Jennifer Moroz;Joss Ives,27,82.666666667,4.358898944,90.0,74.0,,,,,,,,5,10,8,
 UBCV,2016,W,PHYS,109,,L0C,Enriched Experimental Physics,Jack Hong;Jack Zhoujie Hong;Jeff Bale;Joss Ives,19,78.15789473699999,8.642679355,85.0,44.0,,,,,,,,,12,,
-UBCV,2016,W,PHYS,109,,L0D,Enriched Experimental Physics,Edward Thoeng;Hillgan Ma;Jeff Bale;Joss Ives;Mai Linh Phan,6,77.5,4.415880433,85.0,73.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,109,,L0D,Enriched Experimental Physics,Edward Thoeng;Hillgan Ma;Jeff Bale;Joss Ives;Mai Linh Phan,6,77.5,4.415880433,85.0,73.0,,,,,,,,,1,,
+UBCV,2016,W,PHYS,109,,OVERALL,Enriched Experimental Physics,,71,81.112676056,5.965494341,90.0,44.0,,,,,,,,13,35,15,
 UBCV,2016,W,PHYS,117,,101,Dynamics and Waves,Carl Michal;Lienong Xu;Mateus Fandino;Simon Bates,291,66.621993127,15.794195709,95.0,17.0,51,13,16,26,19,41,28,24,42,20,11
-UBCV,2016,W,PHYS,117,,V01,Dynamics and Waves,Joss Ives;Marta Zonno;Wesley Cheek,47,80.340425532,20.774437256,99.0,9.0,,,,,,,,,,,23
+UBCV,2016,W,PHYS,117,,OVERALL,Dynamics and Waves,,393,69.47073791300001,17.800618647,100.0,9.0,63,13,19,32,21,46,35,30,53,30,51
+UBCV,2016,W,PHYS,117,,V01,Dynamics and Waves,Joss Ives;Marta Zonno;Wesley Cheek,47,80.340425532,20.774437256,99.0,9.0,4,,,,,,2,,4,4,23
 UBCV,2016,W,PHYS,117,,V02,Dynamics and Waves,Georg Rieger;Joss Ives;Marta Zonno;Wesley Cheek,55,75.254545455,20.303455445999997,100.0,20.0,8,,,,,,5,,7,6,17
 UBCV,2016,W,PHYS,118,,201,"Electricity, Light and Radiation",Georg Rieger;Jonathan Massey Allard;Oleksandr Litvinov;Vesna Sossi,158,68.696202532,16.506979362,98.0,2.0,19,6,18,11,12,17,22,9,17,7,20
 UBCV,2016,W,PHYS,118,,202,"Electricity, Light and Radiation",Georg Rieger;Mateus Fandino,218,74.931192661,14.833634699000001,98.0,0.0,15,7,9,13,10,25,17,15,42,31,34
+UBCV,2016,W,PHYS,118,,OVERALL,"Electricity, Light and Radiation",,376,72.311170213,15.839915243,98.0,0.0,34,13,27,24,22,42,39,24,59,38,54
 UBCV,2016,W,PHYS,119,,L2A,Experimental Physics Lab,Levi Burns;Linda Strubbe;Lindsay Forestell,36,84.583333333,6.091563252,95.0,70.0,,,,,,,,,10,14,7
-UBCV,2016,W,PHYS,119,,L2B,Experimental Physics Lab,Firas Moosvi;Levi Burns;Linda Strubbe;Robert Kiefl,30,83.133333333,6.871898464,94.0,70.0,,,,,,,,,12,,8
+UBCV,2016,W,PHYS,119,,L2B,Experimental Physics Lab,Firas Moosvi;Levi Burns;Linda Strubbe;Robert Kiefl,30,83.133333333,6.871898464,94.0,70.0,,,,,,,,,12,4,8
 UBCV,2016,W,PHYS,119,,L2C,Experimental Physics Lab,Emily Elizabeth Altiere;Firas Moosvi;Linda Strubbe,47,82.936170213,4.966865232,97.0,74.0,,,,,,,,6,21,12,5
 UBCV,2016,W,PHYS,119,,L2D,Experimental Physics Lab,Derek Fujimoto;Emily Elizabeth Altiere;Linda Strubbe;Peter Gustainis,37,82.91891891899999,7.076480522000001,94.0,65.0,,,,,,,,5,9,7,10
 UBCV,2016,W,PHYS,119,,L2E,Experimental Physics Lab,Linda Strubbe;Lindsay Forestell;Nikolay Shenkov;Peter Gustainis,46,85.934782609,12.789582869,96.0,6.0,,,,,,,,,13,9,23
 UBCV,2016,W,PHYS,119,,L2G,Experimental Physics Lab,Linda Strubbe;Nikolay Shenkov;Robert Kiefl,40,89.3,6.649464987000001,98.0,63.0,,,,,,,,,5,7,26
+UBCV,2016,W,PHYS,119,,OVERALL,Experimental Physics Lab,,298,83.154362416,9.422178029,98.0,6.0,,,,,,14,26,19,87,65,80
 UBCV,2016,W,PHYS,119,,V2A,Experimental Physics Lab,Joss Ives;Lienong Xu;Marta Zonno;Wesley Cheek,29,78.068965517,6.600492592,90.0,66.0,,,,,,,7,,9,5,
 UBCV,2016,W,PHYS,119,,V2C,Experimental Physics Lab,Joss Ives;Lienong Xu;Marta Zonno;Wesley Cheek,33,75.333333333,13.396983490999999,87.0,11.0,,,,,,,8,,8,7,
-UBCV,2016,W,PHYS,157,,101,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Gene Polovy;Joshua Folk,242,74.566115702,11.181906352,96.0,30.0,8,,13,10,25,30,38,32,41,25,19
+UBCV,2016,W,PHYS,157,,101,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Gene Polovy;Joshua Folk,242,74.566115702,11.181906352,96.0,30.0,8,1.0,13,10,25,30,38,32,41,25,19
 UBCV,2016,W,PHYS,157,,102,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Joshua Folk;Thien Hoang Tran,238,72.592436975,13.729678714,99.0,0.0,11,6,16,18,22,24,32,25,42,30,12
 UBCV,2016,W,PHYS,157,,103,Introductory Physics for Engineers I,Andrzej Kotlicki;Donald Witt;Joshua Folk;Leonard Paul Ruocco,239,73.246861925,11.431644703,96.0,31.0,8,6,11,18,23,29,32,35,45,17,15
-UBCV,2016,W,PHYS,157,,201,Introductory Physics for Engineers I,Christos Aris Chatzichristos;Donald Witt,22,72.363636364,19.76660352,95.0,0.0,,,,,,,,,6,,
+UBCV,2016,W,PHYS,157,,201,Introductory Physics for Engineers I,Christos Aris Chatzichristos;Donald Witt,22,72.363636364,19.76660352,95.0,0.0,1,1.0,2,1,0,3,3,3,6,1,4
+UBCV,2016,W,PHYS,157,,OVERALL,Introductory Physics for Engineers I,,744,73.446236559,12.449404979,99.0,0.0,28,14,42,47,70,86,105,95,134,73,50
 UBCV,2016,W,PHYS,158,,201,Introductory Physics for Engineers II,Donald Witt;Jared Stang;Pranav Garg,262,68.66412213699999,16.421932203,98.0,0.0,35,9,27,24,11,29,29,26,24,26,22
 UBCV,2016,W,PHYS,158,,202,Introductory Physics for Engineers II,Donald Witt;Gene Polovy;Jared Stang;Michael Hasinoff,232,66.879310345,15.804353158,99.0,25.0,37,15,25,24,15,19,20,17,32,10,18
 UBCV,2016,W,PHYS,158,,203,Introductory Physics for Engineers II,Donald Witt;Michael Hasinoff;Saul Cuen Rochin,249,67.269076305,16.074294733,100.0,0.0,27,15,32,29,14,26,24,22,29,13,18
+UBCV,2016,W,PHYS,158,,OVERALL,Introductory Physics for Engineers II,,743,67.639300135,16.111443608,100.0,0.0,99,39,84,77,40,74,73,65,85,49,58
 UBCV,2016,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Carol Ng;Dominik Neuenfeld;Douglas Andrew Bonn;Sarah Burke,53,73.905660377,7.636612597,85.0,52.0,,,,,5,5,14,9,14,,
 UBCV,2016,W,PHYS,159,,L2B,Introductory Physics Laboratory for Engineers,Allan Fong;Sarah Burke;Tao Fang;Thomas Mattison,49,84.510204082,6.997387754,94.0,51.0,,,,,,,,,15,18,9
 UBCV,2016,W,PHYS,159,,L2C,Introductory Physics Laboratory for Engineers,Allison Fink;Sarah Burke;Tobias Helbig;William Mccutcheon,53,76.490566038,7.556511816,95.0,60.0,,,,,,8,8,12,13,,
@@ -49,63 +59,115 @@ UBCV,2016,W,PHYS,159,,L2U,Introductory Physics Laboratory for Engineers,Ian Janz
 UBCV,2016,W,PHYS,159,,L2V,Introductory Physics Laboratory for Engineers,Mohamed Shaaban;Sarah Burke;Timothy Small;William Mccutcheon,49,78.530612245,7.1124949939999995,87.0,52.0,,,,,,,7,10,17,9,
 UBCV,2016,W,PHYS,159,,L2X,Introductory Physics Laboratory for Engineers,Brian Tam;Sarah Burke;Thien Hoang Tran;Thomas Mattison,48,73.708333333,7.319337063,85.0,54.0,,,,,,7,13,12,7,,
 UBCV,2016,W,PHYS,159,,L2Z,Introductory Physics Laboratory for Engineers,Elizabeth Loggia;Justin Poon;Philipp Gagel;Sarah Burke,32,77.75,8.650936925,92.0,54.0,,,,,,,,7,8,,
-UBCV,2016,W,PHYS,170,,101,Mechanics I,Thomas Mattison,132,75.484848485,17.944990093,99.0,9.0,10,6,7,12,,8,9,10,15,15,36
+UBCV,2016,W,PHYS,159,,OVERALL,Introductory Physics Laboratory for Engineers,,726,79.289256198,8.19143844,97.0,0.0,,7,,14,22,49,97,138,205,146,42
+UBCV,2016,W,PHYS,170,,101,Mechanics I,Thomas Mattison,132,75.484848485,17.944990093,99.0,9.0,10,6,7,12,4.0,8,9,10,15,15,36
 UBCV,2016,W,PHYS,170,,201,Mechanics I,J Malcolm Mcmillan,227,81.616740088,16.148050704,100.0,4.0,7,8,11,9,10,7,14,14,29,27,91
 UBCV,2016,W,PHYS,170,,202,Mechanics I,J Malcolm Mcmillan,228,81.69298245600001,16.266842681,100.0,15.0,6,11,8,9,10,12,21,12,20,25,94
-UBCV,2016,W,PHYS,170,,203,Mechanics I,Arthur Charbonneau,259,83.752895753,15.337569182000001,100.0,0.0,10,,8,9,6,12,13,14,22,51,111
+UBCV,2016,W,PHYS,170,,203,Mechanics I,Arthur Charbonneau,259,83.752895753,15.337569182000001,100.0,0.0,10,3.0,8,9,6,12,13,14,22,51,111
+UBCV,2016,W,PHYS,170,,OVERALL,Mechanics I,,846,81.334515366,16.42462908,100.0,0.0,33,28,34,39,30,39,57,50,86,118,332
 UBCV,2016,W,PHYS,200,,101,Relativity and Quanta,Douglas Scott,150,71.733333333,15.424493146,97.0,0.0,6,12,9,10,13,16,16,18,21,16,13
+UBCV,2016,W,PHYS,200,,OVERALL,Relativity and Quanta,,150,71.733333333,15.424493146,97.0,0.0,6,12,9,10,13,16,16,18,21,16,13
 UBCV,2016,W,PHYS,203,,201,Thermal Physics I,Chengshu Li;David Stephen;James Carolan;Joanna Karczmarek,116,69.301724138,18.073867673,99.0,0.0,10,5,9,8,12,16,11,8,17,12,8
-UBCV,2016,W,PHYS,210,,101,Introduction to Computational Physics,Douglas Andrew Bonn;Ludovic Van Waerbeke,42,83.619047619,13.423591139000001,97.0,36.0,,,,,,,,,5,7,20
+UBCV,2016,W,PHYS,203,,OVERALL,Thermal Physics I,,116,69.301724138,18.073867673,99.0,0.0,10,5,9,8,12,16,11,8,17,12,8
+UBCV,2016,W,PHYS,210,,101,Introduction to Computational Physics,Douglas Andrew Bonn;Ludovic Van Waerbeke,42,83.619047619,13.423591139000001,97.0,36.0,,,,,1,,,3,5,7,20
 UBCV,2016,W,PHYS,210,,102,Introduction to Computational Physics,Ludovic Van Waerbeke,40,77.35,11.116054455999999,94.0,53.0,,,,,8,,,6,6,5,8
+UBCV,2016,W,PHYS,210,,OVERALL,Introduction to Computational Physics,,82,80.56097561,12.674556569000002,97.0,36.0,,,,,9,,,9,11,12,28
 UBCV,2016,W,PHYS,216,,201,Intermediate Mechanics,Paul Hickson,119,73.806722689,13.256451777999999,100.0,23.0,,,,8,8,18,14,14,24,12,9
+UBCV,2016,W,PHYS,216,,OVERALL,Intermediate Mechanics,,119,73.806722689,13.256451777999999,100.0,23.0,,,,8,8,18,14,14,24,12,9
 UBCV,2016,W,PHYS,219,,L1A,Intermediate Experimental Physics I,Alon Hershenhorn;Andrzej Kotlicki;Byron Wilson;Douglas Andrew Bonn;Robert Kiefl,38,77.5,11.665958794000002,97.0,52.0,,,,,,,5,6,5,6,7
-UBCV,2016,W,PHYS,219,,L1B,Intermediate Experimental Physics I,Andrzej Kotlicki;Matthew Gignac;Meiling Deng;Robert Kiefl,26,81.384615385,10.737138997,95.0,52.0,,,,,,,,,6,10,
-UBCV,2016,W,PHYS,219,,L1C,Intermediate Experimental Physics I,Alon Hershenhorn;Andrzej Kotlicki;Meiling Deng;Robert Kiefl,37,71.891891892,14.85257887,98.0,41.0,,,5,6,,,,7,7,,5
+UBCV,2016,W,PHYS,219,,L1B,Intermediate Experimental Physics I,Andrzej Kotlicki;Matthew Gignac;Meiling Deng;Robert Kiefl,26,81.384615385,10.737138997,95.0,52.0,,,,,,,,1,6,10,4
+UBCV,2016,W,PHYS,219,,L1C,Intermediate Experimental Physics I,Alon Hershenhorn;Andrzej Kotlicki;Meiling Deng;Robert Kiefl,37,71.891891892,14.85257887,98.0,41.0,,,5,6,,,,7,7,1,5
+UBCV,2016,W,PHYS,219,,OVERALL,Intermediate Experimental Physics I,,101,76.445544554,13.154068,98.0,41.0,,5,8,8,6,,7,14,18,17,16
 UBCV,2016,W,PHYS,229,,L2A,Intermediate Experimental Physics II,Andrew Finlay;Douglas Andrew Bonn;Rui Yang,30,84.133333333,9.149084497,97.0,45.0,,,,,,,,,9,14,
 UBCV,2016,W,PHYS,229,,L2B,Intermediate Experimental Physics II,Andrew Finlay;Berend Zwartsenberg;Douglas Andrew Bonn,33,85.363636364,4.794646636,97.0,74.0,,,,,,,,,14,12,6
 UBCV,2016,W,PHYS,229,,L2C,Intermediate Experimental Physics II,Douglas Andrew Bonn;Rui Yang;Vincent Wong,26,81.346153846,7.620720741,94.0,65.0,,,,,,,,,8,5,
+UBCV,2016,W,PHYS,229,,OVERALL,Intermediate Experimental Physics II,,89,83.775280899,7.428068402999999,97.0,45.0,,,,,,,5,,31,31,14
 UBCV,2016,W,PHYS,301,,101,Electricity and Magnetism,Douglas Bryman;Joerg Rottler,156,70.33974359,15.745351304000001,98.0,14.0,11,14,14,11,13,9,10,24,22,16,12
-UBCV,2016,W,PHYS,304,,101,Introduction to Quantum Mechanics,Chengshu Li;Marcel Franz;Peter Gustainis;Steffen Henkelmann,108,70.064814815,20.057521557,100.0,17.0,14,15,7,,,7,6,6,19,9,19
-UBCV,2016,W,PHYS,304,,201,Introduction to Quantum Mechanics,Ariel Zhitnitsky,76,73.184210526,18.879767319000003,100.0,0.0,6,5,,6,7,,7,7,12,,18
+UBCV,2016,W,PHYS,301,,OVERALL,Electricity and Magnetism,,156,70.33974359,15.745351304000001,98.0,14.0,11,14,14,11,13,9,10,24,22,16,12
+UBCV,2016,W,PHYS,304,,101,Introduction to Quantum Mechanics,Chengshu Li;Marcel Franz;Peter Gustainis;Steffen Henkelmann,108,70.064814815,20.057521557,100.0,17.0,14,15,7,3,3,7,6,6,19,9,19
+UBCV,2016,W,PHYS,304,,201,Introduction to Quantum Mechanics,Ariel Zhitnitsky,76,73.184210526,18.879767319000003,100.0,0.0,6,5,3,6,7,3,7,7,12,2,18
+UBCV,2016,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,184,71.35326087,19.587834694,100.0,0.0,20,20,10,9,10,10,13,13,31,11,37
 UBCV,2016,W,PHYS,305,,201,Introduction to Biophysics,Joerg Rottler;Miguel Angel Garcia Chavez,24,71.5,15.353798567,100.0,45.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,305,,OVERALL,Introduction to Biophysics,,24,71.5,15.353798567,100.0,45.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,306,,201,Mechanics,Philip C Stamp,48,71.291666667,19.762373806,99.0,0.0,6,5,,,,,,,9,,9
+UBCV,2016,W,PHYS,306,,OVERALL,Mechanics,,48,71.291666667,19.762373806,99.0,0.0,6,5,,,,,,,9,,9
 UBCV,2016,W,PHYS,309,,101,Electrical Laboratory,Joshua Folk,45,80.311111111,9.054938939,94.0,60.0,,,,,,,,9,9,7,10
+UBCV,2016,W,PHYS,309,,OVERALL,Electrical Laboratory,,45,80.311111111,9.054938939,94.0,60.0,,,,,,,,9,9,7,10
 UBCV,2016,W,PHYS,312,,101,Introduction to Mathematical Physics,Hideki Tanimura;Mona Berciu,53,71.905660377,13.901112505,99.0,24.0,,,,,6,6,9,6,5,,6
+UBCV,2016,W,PHYS,312,,OVERALL,Introduction to Mathematical Physics,,53,71.905660377,13.901112505,99.0,24.0,,,,,6,6,9,6,5,,6
 UBCV,2016,W,PHYS,319,,201,Electronics Laboratory,Carl Michal,36,72.861111111,20.438273309,93.0,0.0,,,,,,,,,11,,
+UBCV,2016,W,PHYS,319,,OVERALL,Electronics Laboratory,,36,72.861111111,20.438273309,93.0,0.0,,,,,,,,,11,,
 UBCV,2016,W,PHYS,333,,99A,Energy and Climate,Arthur Charbonneau;Krishan Saraswat,48,74.854166667,18.164718648,93.0,1.0,,,,,,,7,8,7,11,
+UBCV,2016,W,PHYS,333,,OVERALL,Energy and Climate,,48,74.854166667,18.164718648,93.0,1.0,,,,,,,7,8,7,11,
 UBCV,2016,W,PHYS,341,,201,Physics of Music,Christopher Waltham;Colby Delisle;Colby Lee Delisle,41,71.048780488,17.649293498,97.0,12.0,,,,,,,,,11,,
+UBCV,2016,W,PHYS,341,,OVERALL,Physics of Music,,41,71.048780488,17.649293498,97.0,12.0,,,,,,,,,11,,
 UBCV,2016,W,PHYS,348,,101,Frontiers in Physics and Astronomy,Janis Mckenna,32,81.25,5.447698537000001,92.0,66.0,,,,,,,,8,12,6,
+UBCV,2016,W,PHYS,348,,OVERALL,Frontiers in Physics and Astronomy,,32,81.25,5.447698537000001,92.0,66.0,,,,,,,,8,12,6,
 UBCV,2016,W,PHYS,350,,201,Applications of Classical Mechanics,Kris Sigurdson,63,80.349206349,9.710584066000001,99.0,51.0,,,,,,,,8,18,14,10
+UBCV,2016,W,PHYS,350,,OVERALL,Applications of Classical Mechanics,,63,80.349206349,9.710584066000001,99.0,51.0,,,,,,,,8,18,14,10
 UBCV,2016,W,PHYS,400,,201,Introduction to Elementary Particles,Alison Lister;Elham Khoda;Felix Cormier,29,72.379310345,19.551057321,100.0,31.0,,,,5,,,,,5,,6
+UBCV,2016,W,PHYS,400,,OVERALL,Introduction to Elementary Particles,,29,72.379310345,19.551057321,100.0,31.0,,,,5,,,,,5,,6
 UBCV,2016,W,PHYS,401,,201,Electromagnetic Theory,Kristin Schleich,31,74.838709677,13.687212461,96.0,43.0,,,,,,,,,6,5,
+UBCV,2016,W,PHYS,401,,OVERALL,Electromagnetic Theory,,31,74.838709677,13.687212461,96.0,43.0,,,,,,,,,6,5,
 UBCV,2016,W,PHYS,402,,201,Applications of Quantum Mechanics,Mark Van Raamsdonk,58,79.482758621,14.062818189000001,100.0,8.0,,,,,,7,6,,11,10,14
+UBCV,2016,W,PHYS,402,,OVERALL,Applications of Quantum Mechanics,,58,79.482758621,14.062818189000001,100.0,8.0,,,,,,7,6,,11,10,14
 UBCV,2016,W,PHYS,403,,201,Statistical Mechanics,Ali Izadi Rad;Robert Kiefl;Zhen Zhu,90,77.477777778,13.236167491,97.0,21.0,,,5,,5,8,8,7,20,16,14
+UBCV,2016,W,PHYS,403,,OVERALL,Statistical Mechanics,,90,77.477777778,13.236167491,97.0,21.0,,,5,,5,8,8,7,20,16,14
 UBCV,2016,W,PHYS,404,,101,Introduction to Medical Physics,Alanah Bergman;Alexander Mackay;Carlos Uribe Munoz;Cornelia Laule;Hillgan Ma;Lioudmila Tchvialeva;Piotr Kozlowski;Qing-San Xiang;Yogesh Thakur,42,72.452380952,13.460334465999999,94.0,35.0,,,,,,,6,5,8,5,
+UBCV,2016,W,PHYS,404,,OVERALL,Introduction to Medical Physics,,42,72.452380952,13.460334465999999,94.0,35.0,,,,,,,6,5,8,5,
 UBCV,2016,W,PHYS,405,,101,Radiation Biophysics,Andrew Minchinton;Byron Wilson;Stefan Reinsberg;Vitali Moiseenko,24,80.916666667,9.595817326,94.0,55.0,,,,,,,,,11,,5
+UBCV,2016,W,PHYS,405,,OVERALL,Radiation Biophysics,,24,80.916666667,9.595817326,94.0,55.0,,,,,,,,,11,,5
 UBCV,2016,W,PHYS,407,,101,Introduction to General Relativity,Bruno Arderucio Costa;Bruno Costa;Kristin Schleich,58,78.275862069,15.016707775,99.0,18.0,,,5,,,5,,,9,12,13
+UBCV,2016,W,PHYS,407,,OVERALL,Introduction to General Relativity,,58,78.275862069,15.016707775,99.0,18.0,,,5,,,5,,,9,12,13
 UBCV,2016,W,PHYS,408,,201,Optics,Jeff Young;Xiruo Yan,78,74.461538462,12.485516084,97.0,32.0,,,,6,6,6,11,12,14,5,10
+UBCV,2016,W,PHYS,408,,OVERALL,Optics,,78,74.461538462,12.485516084,97.0,32.0,,,,6,6,6,11,12,14,5,10
 UBCV,2016,W,PHYS,409,A,101,Experimental Physics,Kirk Madison;Nikita Bernier;Wojciech Fedorko;Wojciech Tadeus Fedorko;Yang Lan,19,84.526315789,8.934131936,94.0,69.0,,,,,,,,,,,8
+UBCV,2016,W,PHYS,409,A,OVERALL,Experimental Physics,,19,84.526315789,8.934131936,94.0,69.0,,,,,,,,,,,8
 UBCV,2016,W,PHYS,409,B,201,Experimental Physics,Kirk Madison;Nikita Bernier;Wojciech Fedorko;Wojciech Tadeus Fedorko;Yang Lan,19,83.263157895,8.516925014,96.0,63.0,,,,,,,,,5,5,
+UBCV,2016,W,PHYS,409,B,OVERALL,Experimental Physics,,19,83.263157895,8.516925014,96.0,63.0,,,,,,,,,5,5,
 UBCV,2016,W,PHYS,410,,101,Computational Physics,Moshe Rozali;Vincent Wong,61,77.426229508,17.573141454,97.0,5.0,,,,,,,,,10,19,9
+UBCV,2016,W,PHYS,410,,OVERALL,Computational Physics,,61,77.426229508,17.573141454,97.0,5.0,,,,,,,,,10,19,9
 UBCV,2016,W,PHYS,420,C,001,Physics Demonstrations,Andrzej Kotlicki;Janis Mckenna,12,79.166666667,10.016652801000001,94.0,56.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,420,C,OVERALL,Physics Demonstrations,,12,79.166666667,10.016652801000001,94.0,56.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,438,,202,Zoological Physics,Mirko Miorelli;Scott Oser,33,76.181818182,10.970000414000001,92.0,37.0,,,,,,,,,9,5,
+UBCV,2016,W,PHYS,438,,OVERALL,Zoological Physics,,33,76.181818182,10.970000414000001,92.0,37.0,,,,,,,,,9,5,
 UBCV,2016,W,PHYS,449,,001,Honours Thesis,Vesna Sossi,20,87.15,6.217758946,96.0,70.0,,,,,,,,,,10,6
+UBCV,2016,W,PHYS,449,,OVERALL,Honours Thesis,,20,87.15,6.217758946,96.0,70.0,,,,,,,,,,10,6
 UBCV,2016,W,PHYS,473,,201,Applied Nuclear Physics,Javed Iqbal;Krishan Saraswat;Reiner Kruecken,43,80.348837209,11.631000696,96.0,38.0,,,,,,,5,,8,11,8
+UBCV,2016,W,PHYS,473,,OVERALL,Applied Nuclear Physics,,43,80.348837209,11.631000696,96.0,38.0,,,,,,,5,,8,11,8
 UBCV,2016,W,PHYS,474,,201,Applied Solid State Physics,Ian Keith Affleck;Zheng Shi,33,77.181818182,13.72145798,98.0,43.0,,,,5,,,,5,5,,7
+UBCV,2016,W,PHYS,474,,OVERALL,Applied Solid State Physics,,33,77.181818182,13.72145798,98.0,43.0,,,,5,,,,5,5,,7
 UBCV,2016,W,PHYS,500,,101,Quantum Mechanics I,Ariel Zhitnitsky;Krishan Saraswat,28,82.571428571,13.24814053,99.0,51.0,,,,,,,,,,5,9
+UBCV,2016,W,PHYS,500,,OVERALL,Quantum Mechanics I,,28,82.571428571,13.24814053,99.0,51.0,,,,,,,,,,5,9
 UBCV,2016,W,PHYS,501,,201,Quantum Mechanics II,Fei Zhou;Krishan Saraswat,14,83.5,8.373492976,95.0,68.0,,,,,,,,,,,5
+UBCV,2016,W,PHYS,501,,OVERALL,Quantum Mechanics II,,14,83.5,8.373492976,95.0,68.0,,,,,,,,,,,5
 UBCV,2016,W,PHYS,502,,101,Condensed Matter Physics I,Chengshu Li;Mona Berciu,19,71.473684211,30.97735449,94.0,3.0,,,,,,,,,,5,
+UBCV,2016,W,PHYS,502,,OVERALL,Condensed Matter Physics I,,19,71.473684211,30.97735449,94.0,3.0,,,,,,,,,,5,
 UBCV,2016,W,PHYS,504,,101,Special Relativity and Classical Electromagnetism,Elham Khoda;Scott Oser,10,83.9,8.102811583,91.0,64.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,504,,OVERALL,Special Relativity and Classical Electromagnetism,,10,83.9,8.102811583,91.0,64.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,506,,201,Elementary Particle Physics,Alison Lister,9,76.666666667,20.58518885,91.0,25.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,506,,OVERALL,Elementary Particle Physics,,9,76.666666667,20.58518885,91.0,25.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,509,C,101,Theory of Measurements,Elham Khoda;Gary Hinshaw,19,89.10526315799999,7.7452116879999995,97.0,68.0,,,,,,,,,,5,11
+UBCV,2016,W,PHYS,509,C,OVERALL,Theory of Measurements,,19,89.10526315799999,7.7452116879999995,97.0,68.0,,,,,,,,,,5,11
 UBCV,2016,W,PHYS,516,,101,Statistical Mechanics,Chengshu Li;Fei Zhou,18,85.833333333,7.237565402,96.0,70.0,,,,,,,,,,,7
+UBCV,2016,W,PHYS,516,,OVERALL,Statistical Mechanics,,18,85.833333333,7.237565402,96.0,70.0,,,,,,,,,,,7
 UBCV,2016,W,PHYS,521,D,201,Group Theory Methods in Quantum Mechanics,Gordon Walter Semenoff,21,93.95238095200001,5.191109616,99.0,79.0,,,,,,,,,,,18
+UBCV,2016,W,PHYS,521,D,OVERALL,Group Theory Methods in Quantum Mechanics,,21,93.95238095200001,5.191109616,99.0,79.0,,,,,,,,,,,18
 UBCV,2016,W,PHYS,523,B,101,Quantum Electronics and Nonlinear Optics,Valery Milner,6,70.666666667,34.238380024,97.0,5.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,523,B,OVERALL,Quantum Electronics and Nonlinear Optics,,6,70.666666667,34.238380024,97.0,5.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,525,B,201,Advanced Condensed Matter Physics,Marcel Franz,16,89.5625,5.864796103,97.0,72.0,,,,,,,,,,6,9
+UBCV,2016,W,PHYS,525,B,OVERALL,Advanced Condensed Matter Physics,,16,89.5625,5.864796103,97.0,72.0,,,,,,,,,,6,9
 UBCV,2016,W,PHYS,526,,101,Quantum Field Theory I,Gordon Walter Semenoff;Ryan Day,11,84.636363636,9.069429169,97.0,68.0,,,,,,,,,,,5
+UBCV,2016,W,PHYS,526,,OVERALL,Quantum Field Theory I,,11,84.636363636,9.069429169,97.0,68.0,,,,,,,,,,,5
 UBCV,2016,W,PHYS,528,B,201,Elementary Particle Physics,David Morrissey,7,90.428571429,3.154739443,94.0,87.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,528,B,OVERALL,Elementary Particle Physics,,7,90.428571429,3.154739443,94.0,87.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,536,,101,Advanced Radiation Biophysics,Andrew Minchinton;Mladen Korbelik;Stefan Reinsberg;Vitali Moiseenko,7,84.0,8.679477711,95.0,74.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,536,,OVERALL,Advanced Radiation Biophysics,,7,84.0,8.679477711,95.0,74.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,539,,201,Radiation Dosimetry,Byron Wilson;Cheryl Duzenli;Ermias Gete;Martin Petric;Tony Popescu,5,80.4,7.569676347000001,87.0,68.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,539,,OVERALL,Radiation Dosimetry,,5,80.4,7.569676347000001,87.0,68.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,542,,102,Nuclear Magnetic Resonance Imaging,Alexander Mackay;Qing-San Xiang,10,81.8,6.6633325,94.0,71.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,542,,OVERALL,Nuclear Magnetic Resonance Imaging,,10,81.8,6.6633325,94.0,71.0,,,,,,,,,,,
 UBCV,2016,W,PHYS,545,,201,"Anatomy, Physiology and Statistics for Medical Physicists",Alexander Mackay;Cheryl Duzenli;Nancy Ford,13,84.307692308,5.879124302,93.0,75.0,,,,,,,,,6,,
+UBCV,2016,W,PHYS,545,,OVERALL,"Anatomy, Physiology and Statistics for Medical Physicists",,13,84.307692308,5.879124302,93.0,75.0,,,,,,,,,6,,
 UBCV,2016,W,PHYS,565,,101,Applications of Radioisotopes in Science and in Medicine,Jens Dilling;Maria Maldonado-Pareja;Paul Schaffer;Reiner Kruecken;Robert Kiefl;Urs Hafeli;Vesna Sossi;William Andrew Macfarlane,8,82.875,3.907410542,87.0,75.0,,,,,,,,,,,
+UBCV,2016,W,PHYS,565,,OVERALL,Applications of Radioisotopes in Science and in Medicine,,8,82.875,3.907410542,87.0,75.0,,,,,,,,,,,

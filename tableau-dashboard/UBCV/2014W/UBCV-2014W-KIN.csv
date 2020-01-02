@@ -5,33 +5,45 @@ UBCV,2014,W,KIN,103,,L1C,Active Health,Maria Gallo,42,77.642857143,7.618403355,8
 UBCV,2014,W,KIN,103,,L2A,Active Health,Maria Gallo,34,70.588235294,11.765686234,87.0,38.0,,,,,,6,6,6,5,,
 UBCV,2014,W,KIN,103,,L2B,Active Health,Maria Gallo,34,76.823529412,6.5849718170000004,86.0,60.0,,,,,,,6,9,11,,
 UBCV,2014,W,KIN,103,,L2C,Active Health,Maria Gallo,37,74.675675676,8.592807244,87.0,52.0,,,,,,,,11,8,,
+UBCV,2014,W,KIN,103,,OVERALL,Active Health,,229,75.152838428,8.889095097,90.0,37.0,,,,10,15,32,31,49,55,25,
 UBCV,2014,W,KIN,115,A,0A1,Performance Analysis of Selected Individual Sports and Activities,Janka Samuhel-Corewyn;Thelma Wright,15,82.133333333,3.88893424,88.0,76.0,,,,,,,,,8,,
 UBCV,2014,W,KIN,115,A,0A2,Performance Analysis of Selected Individual Sports and Activities,Janka Samuhel-Corewyn;Thelma Wright,15,84.666666667,4.482771252,91.0,75.0,,,,,,,,,5,6,
+UBCV,2014,W,KIN,115,A,OVERALL,Performance Analysis of Selected Individual Sports and Activities,,30,83.4,4.319961686,91.0,75.0,,,,,,,,,13,10,
 UBCV,2014,W,KIN,115,B,0B1,Performance Analysis of Selected Individual Sports and Activities,Jennifer Dober;Kay Barnes,16,81.0,8.318653737,91.0,66.0,,,,,,,,,5,,
 UBCV,2014,W,KIN,115,B,0B2,Performance Analysis of Selected Individual Sports and Activities,Jennifer Dober;Kay Barnes,18,80.166666667,8.212257696,90.0,63.0,,,,,,,,,6,,
+UBCV,2014,W,KIN,115,B,OVERALL,Performance Analysis of Selected Individual Sports and Activities,,34,80.558823529,8.147099042999999,91.0,63.0,,,,,,,,,11,6,5
 UBCV,2014,W,KIN,151,,001,Biomechanics I,Paul Kennedy,138,72.717391304,13.278592139,96.0,7.0,6,5,7,15,13,12,15,20,19,16,10
-UBCV,2014,W,KIN,151,,002,Biomechanics I,Paul Kennedy,85,72.658823529,12.351549875,95.0,37.0,,,7,7,5,11,12,9,12,11,5
+UBCV,2014,W,KIN,151,,002,Biomechanics I,Paul Kennedy,85,72.658823529,12.351549875,95.0,37.0,4,2,7,7,5,11,12,9,12,11,5
+UBCV,2014,W,KIN,151,,OVERALL,Biomechanics I,,223,72.695067265,12.904930367999999,96.0,7.0,10,7,14,22,18,23,27,29,31,27,15
 UBCV,2014,W,KIN,161,,001,Leisure and Sport in Society,Janna Taylor,120,85.291666667,5.747335272999999,94.0,64.0,,,,,,,,10,27,48,28
 UBCV,2014,W,KIN,161,,002,Leisure and Sport in Society,Janna Taylor,104,82.826923077,8.460579415,95.0,22.0,,,,,,,,14,33,35,13
+UBCV,2014,W,KIN,161,,OVERALL,Leisure and Sport in Society,,224,84.147321429,7.225434148,95.0,22.0,,,,,,6,6,24,60,83,41
 UBCV,2014,W,KIN,190,,901,Anatomy & Physiology I,Pei Wang,47,76.255319149,15.093142820999999,95.0,38.0,,,,,,,,6,9,8,9
 UBCV,2014,W,KIN,190,,L1A,Anatomy & Physiology I,Tania Lam,35,71.742857143,19.744459919,95.0,0.0,,,,,,,5,5,5,,
 UBCV,2014,W,KIN,190,,L1B,Anatomy & Physiology I,Tania Lam,33,70.484848485,11.710361897,94.0,42.0,,,,,,6,,7,,,
 UBCV,2014,W,KIN,190,,L1C,Anatomy & Physiology I,Tania Lam,31,70.967741935,9.506081811,90.0,51.0,,,,,,5,9,,,,
 UBCV,2014,W,KIN,190,,L1D,Anatomy & Physiology I,Tania Lam,34,68.529411765,14.344749423,92.0,41.0,,,,,,6,,,,5,
 UBCV,2014,W,KIN,190,,L1E,Anatomy & Physiology I,Tania Lam,32,71.53125,10.886465035,95.0,48.0,,,,,6,8,,,6,,
+UBCV,2014,W,KIN,190,,OVERALL,Anatomy & Physiology I,,212,71.886792453,14.221218214,95.0,0.0,14,11,6,15,20,31,22,23,30,22,18
 UBCV,2014,W,KIN,191,,901,Anatomy & Physiology II,Katharine Currie,57,76.631578947,12.322499136,95.0,43.0,,,,,,5,12,5,8,11,7
 UBCV,2014,W,KIN,191,,L1A,Anatomy & Physiology II,Paolo B Dominelli,34,74.735294118,12.771437886,96.0,41.0,,,,,,6,6,,,7,
 UBCV,2014,W,KIN,191,,L1B,Anatomy & Physiology II,Paolo B Dominelli,34,67.941176471,13.593539410999998,89.0,30.0,,,,,,,8,,,,
 UBCV,2014,W,KIN,191,,L1C,Anatomy & Physiology II,Paolo B Dominelli,35,69.742857143,13.671229682,91.0,40.0,,,,,,,5,6,,,
 UBCV,2014,W,KIN,191,,L1D,Anatomy & Physiology II,Paolo B Dominelli,35,68.285714286,13.360546459000002,93.0,37.0,,,,,,,6,,,,
-UBCV,2014,W,KIN,191,,L1E,Anatomy & Physiology II,Paolo B Dominelli,34,65.088235294,15.817841187,90.0,15.0,,,,,5,,,,,,
+UBCV,2014,W,KIN,191,,L1E,Anatomy & Physiology II,Paolo B Dominelli,34,65.088235294,15.817841187,90.0,15.0,,,,,5,,4,,,,
+UBCV,2014,W,KIN,191,,OVERALL,Anatomy & Physiology II,,229,71.01746724899999,14.012201783,96.0,15.0,16,16,13,14,20,22,41,18,22,34,13
 UBCV,2014,W,KIN,215,A,0A1,Performance Analysis of Selected Team Sports and Activities,Al Mawani;Richard Schick,31,79.967741935,7.245614172000001,90.0,61.0,,,,,,,,,12,6,
+UBCV,2014,W,KIN,215,A,OVERALL,Performance Analysis of Selected Team Sports and Activities,,31,79.967741935,7.245614172000001,90.0,61.0,,,,,,,,,12,6,
 UBCV,2014,W,KIN,215,B,0B1,Performance Analysis of Selected Team Sports and Activities,Gail Wilson;Jeff Gombar,23,79.304347826,5.286645118,90.0,71.0,,,,,,,6,,8,,
-UBCV,2014,W,KIN,230,,001,Human Motor Behaviour I,Beverley Christine Larssen,121,72.305785124,12.960094505,97.0,13.0,5,,5,7,12,21,15,15,18,14,5
-UBCV,2014,W,KIN,230,,002,Human Motor Behaviour I,Beverley Christine Larssen,76,74.565789474,10.601050923999999,97.0,52.0,,,7,6,,13,13,9,7,10,7
-UBCV,2014,W,KIN,231,,001,Sport and Exercise Psychology,Peter Crocker,150,76.246666667,10.826227578,94.0,50.0,,5,7,7,8,18,27,16,25,17,20
-UBCV,2014,W,KIN,231,,901,Sport and Exercise Psychology,Benjamin Sylvester,68,74.441176471,11.856583728,98.0,50.0,,,5,5,7,9,8,5,8,11,7
-UBCV,2014,W,KIN,261,,001,Health Policy and Society,Laura Clarke,197,78.507614213,7.958834962999999,95.0,29.0,,,,,9,27,23,30,58,38,7
+UBCV,2014,W,KIN,215,B,OVERALL,Performance Analysis of Selected Team Sports and Activities,,23,79.304347826,5.286645118,90.0,71.0,,,,,,,6,,8,,
+UBCV,2014,W,KIN,230,,001,Human Motor Behaviour I,Beverley Christine Larssen;Beverley Larssen,121,72.305785124,12.960094505,97.0,13.0,5,4.0,5,7,12,21,15,15,18,14,5
+UBCV,2014,W,KIN,230,,002,Human Motor Behaviour I,Beverley Christine Larssen;Beverley Larssen,76,74.565789474,10.601050923999999,97.0,52.0,0,1.0,7,6,3,13,13,9,7,10,7
+UBCV,2014,W,KIN,230,,OVERALL,Human Motor Behaviour I,,197,73.177664975,12.126623965999999,97.0,13.0,5,5,12,13,15,34,28,24,25,24,12
+UBCV,2014,W,KIN,231,,001,Sport and Exercise Psychology,Peter Crocker,150,76.246666667,10.826227578,94.0,50.0,0.0,5,7,7,8,18,27,16,25,17,20
+UBCV,2014,W,KIN,231,,901,Sport and Exercise Psychology,Benjamin Sylvester,68,74.441176471,11.856583728,98.0,50.0,0.0,3,5,5,7,9,8,5,8,11,7
+UBCV,2014,W,KIN,231,,OVERALL,Sport and Exercise Psychology,,218,75.68348623899999,11.16180959,98.0,50.0,0.0,8,12,12,15,27,35,21,33,28,27
+UBCV,2014,W,KIN,261,,001,Health Policy and Society,Laura Clarke;Laura Hurd,197,78.507614213,7.958834962999999,95.0,29.0,,,,,9,27,23,30,58,38,7
+UBCV,2014,W,KIN,261,,OVERALL,Health Policy and Society,,197,78.507614213,7.958834962999999,95.0,29.0,,,,,9,27,23,30,58,38,7
 UBCV,2014,W,KIN,275,,L1A,Exercise Physiology I,Yannick Molgat-Seon,26,81.615384615,4.9159082419999995,91.0,73.0,,,,,,,,7,8,5,
 UBCV,2014,W,KIN,275,,L1B,Exercise Physiology I,Yannick Molgat-Seon,26,81.076923077,9.545357309,93.0,55.0,,,,,,,,,6,9,
 UBCV,2014,W,KIN,275,,L1C,Exercise Physiology I,Yannick Molgat-Seon,9,82.888888889,9.623466688999999,96.0,70.0,,,,,,,,,,,
@@ -40,23 +52,30 @@ UBCV,2014,W,KIN,275,,L1E,Exercise Physiology I,Yannick Molgat-Seon,25,82.92,9.20
 UBCV,2014,W,KIN,275,,L2A,Exercise Physiology I,Maria Gallo,25,73.32,13.804347141,90.0,20.0,,,,,,,6,,,,
 UBCV,2014,W,KIN,275,,L2B,Exercise Physiology I,Maria Gallo,26,80.884615385,7.168413621,94.0,66.0,,,,,,,,,10,6,
 UBCV,2014,W,KIN,275,,L2C,Exercise Physiology I,Maria Gallo,25,75.4,8.406346809,90.0,59.0,,,,,,,6,,,,
+UBCV,2014,W,KIN,275,,OVERALL,Exercise Physiology I,,187,78.534759358,9.880610986,98.0,20.0,,,5,9,8,14,28,29,35,36,22
 UBCV,2014,W,KIN,284,,001,Physical Growth and Motor Development,Shannon Bredin,188,81.196808511,8.246768314,94.0,40.0,,,,,7,14,20,19,53,43,29
-UBCV,2014,W,KIN,303,,901,High Performance Conditioning in Physical Activity and Sport,G Barry Legh,52,82.73076923100001,6.100836922999999,93.0,67.0,,,,,,,,8,14,18,6
+UBCV,2014,W,KIN,284,,OVERALL,Physical Growth and Motor Development,,188,81.196808511,8.246768314,94.0,40.0,,,,,7,14,20,19,53,43,29
+UBCV,2014,W,KIN,303,,901,High Performance Conditioning in Physical Activity and Sport,G Barry Legh,52,82.73076923100001,6.100836922999999,93.0,67.0,,,,,,,2,8,14,18,6
 UBCV,2014,W,KIN,303,,L1A,High Performance Conditioning in Physical Activity and Sport,G Barry Legh,43,78.139534884,7.042663847000001,91.0,58.0,,,,,,,11,5,17,,
 UBCV,2014,W,KIN,303,,L1B,High Performance Conditioning in Physical Activity and Sport,G Barry Legh,49,79.979591837,6.296459971,91.0,61.0,,,,,,,7,5,20,11,
-UBCV,2014,W,KIN,303,,L1C,High Performance Conditioning in Physical Activity and Sport,G Barry Legh,24,75.625,7.817552714,90.0,60.0,,,,,,5,5,,6,,
+UBCV,2014,W,KIN,303,,L1C,High Performance Conditioning in Physical Activity and Sport,G Barry Legh,24,75.625,7.817552714,90.0,60.0,,,,,,5,5,2,6,,
+UBCV,2014,W,KIN,303,,OVERALL,High Performance Conditioning in Physical Activity and Sport,,168,79.738095238,7.039017092000001,93.0,58.0,,,,,5,12,25,20,57,33,12
 UBCV,2014,W,KIN,330,,L1A,Human Motor Behaviour II,Romeo Chua,26,62.115384615,15.500521082999999,98.0,42.0,6,,,,,,,,,,
 UBCV,2014,W,KIN,330,,L1B,Human Motor Behaviour II,Romeo Chua,25,63.24,19.545417195,94.0,0.0,,,5,,,,,,,,
 UBCV,2014,W,KIN,330,,L1C,Human Motor Behaviour II,Romeo Chua,24,71.458333333,13.154530272,94.0,42.0,,,,,,,6,,,,
 UBCV,2014,W,KIN,330,,L2A,Human Motor Behaviour II,Romeo Chua,18,63.333333333,20.744949775,94.0,32.0,,,,,,,,,,,
 UBCV,2014,W,KIN,330,,L2B,Human Motor Behaviour II,Romeo Chua,20,67.7,19.849698394,96.0,32.0,,,,,,,,,,,5
 UBCV,2014,W,KIN,330,,L2C,Human Motor Behaviour II,Romeo Chua,23,73.52173913,16.843853924,98.0,22.0,,,,,,5,,,,,5
+UBCV,2014,W,KIN,330,,OVERALL,Human Motor Behaviour II,,136,66.88235294100001,17.821775621,98.0,0.0,19,11,18,5,11,13,13,9,13,8,16
 UBCV,2014,W,KIN,343,,001,Biology of Human Athletic Performance,Maria Gallo;Michael Koehle;William Sheel,141,87.12765957399999,7.53359245,99.0,55.0,,,,,,,5,11,19,43,58
+UBCV,2014,W,KIN,343,,OVERALL,Biology of Human Athletic Performance,,141,87.12765957399999,7.53359245,99.0,55.0,,,,,,,5,11,19,43,58
 UBCV,2014,W,KIN,351,,L1B,Biomechanics II Mechanical Properties of Tissues,Jean-Sebastien Blouin,22,67.636363636,15.579429217000001,95.0,34.0,,,,,,5,,,,,
 UBCV,2014,W,KIN,351,,L1C,Biomechanics II Mechanical Properties of Tissues,Jean-Sebastien Blouin,26,74.307692308,13.578716378,99.0,52.0,,,,,,,,,,,
 UBCV,2014,W,KIN,351,,L1D,Biomechanics II Mechanical Properties of Tissues,Jean-Sebastien Blouin,24,76.041666667,12.334043262,96.0,50.0,,,,,,,6,,,,5
 UBCV,2014,W,KIN,351,,L1E,Biomechanics II Mechanical Properties of Tissues,Jean-Sebastien Blouin,25,72.92,12.058606885,98.0,50.0,,,,,,,5,,,,
+UBCV,2014,W,KIN,351,,OVERALL,Biomechanics II Mechanical Properties of Tissues,,97,72.865979381,13.537470272,99.0,34.0,2.0,6,6,8,12,11,13,7,12,10,10
 UBCV,2014,W,KIN,360,,001,"Sport, Peace, and Conflict",Brian Wilson,56,80.821428571,5.612023271,92.0,69.0,,,,,,,9,15,15,11,5
+UBCV,2014,W,KIN,360,,OVERALL,"Sport, Peace, and Conflict",,56,80.821428571,5.612023271,92.0,69.0,,,,,,,9,15,15,11,5
 UBCV,2014,W,KIN,361,,L1A,Introduction to Athletic Training,G Barry Legh,27,71.185185185,15.9181489,86.0,0.0,,,,,,,6,5,6,,
 UBCV,2014,W,KIN,361,,L1B,Introduction to Athletic Training,G Barry Legh,29,74.482758621,8.504707477,91.0,55.0,,,,,,5,5,,7,,
 UBCV,2014,W,KIN,361,,L1C,Introduction to Athletic Training,G Barry Legh,27,76.70370370399999,8.008720318,92.0,61.0,,,,,,,7,6,,,
@@ -64,65 +83,110 @@ UBCV,2014,W,KIN,361,,L1D,Introduction to Athletic Training,G Barry Legh,29,76.10
 UBCV,2014,W,KIN,361,,L2A,Introduction to Athletic Training,G Barry Legh,26,74.076923077,9.490724217,90.0,50.0,,,,,,,8,,5,,
 UBCV,2014,W,KIN,361,,L2B,Introduction to Athletic Training,G Barry Legh,29,76.0,9.750457865,92.0,52.0,,,,,,,7,,10,,
 UBCV,2014,W,KIN,361,,L2C,Introduction to Athletic Training,G Barry Legh,30,71.4,8.552474939,86.0,53.0,,,,,7,,6,5,,,
-UBCV,2014,W,KIN,361,,L2D,Introduction to Athletic Training,G Barry Legh,30,76.966666667,8.049344944,92.0,60.0,,,,,,6,,5,7,,
+UBCV,2014,W,KIN,361,,L2D,Introduction to Athletic Training,G Barry Legh,30,76.966666667,8.049344944,92.0,60.0,,,,,,6,4,5,7,,
+UBCV,2014,W,KIN,361,,OVERALL,Introduction to Athletic Training,,227,74.629955947,9.733828499,92.0,0.0,,,6,15,15,26,51,34,51,18,6
 UBCV,2014,W,KIN,362,,L1A,Inclusive Physical Activity for Individuals with Special Needs,Gail Wilson,31,79.483870968,8.880206333,94.0,60.0,,,,,,,,,9,,6
+UBCV,2014,W,KIN,362,,OVERALL,Inclusive Physical Activity for Individuals with Special Needs,,31,79.483870968,8.880206333,94.0,60.0,,,,,,,,,9,,6
 UBCV,2014,W,KIN,365,,001,Foundations of Coaching,G Barry Legh,154,80.25974026,9.011833321000001,97.0,53.0,,,,7,6,9,16,25,24,47,17
+UBCV,2014,W,KIN,365,,OVERALL,Foundations of Coaching,,154,80.25974026,9.011833321000001,97.0,53.0,,,,7,6,9,16,25,24,47,17
 UBCV,2014,W,KIN,366,,001,Movement Experiences for Young Children,Shannon Bredin,144,82.840277778,5.706900736000001,92.0,40.0,,,,,,,7,11,59,60,
+UBCV,2014,W,KIN,366,,OVERALL,Movement Experiences for Young Children,,144,82.840277778,5.706900736000001,92.0,40.0,,,,,,,7,11,59,60,
 UBCV,2014,W,KIN,367,,001,Leisure Services for Persons with a Disability,Janka Samuhel-Corewyn,128,88.2265625,7.381840715,99.0,63.0,,,,,,,,,20,27,69
-UBCV,2014,W,KIN,369,,L1A,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,27,77.888888889,10.696273015,91.0,55.0,,,,,,,,,,5,5
-UBCV,2014,W,KIN,369,,L1B,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,29,74.379310345,10.044237128999999,90.0,60.0,,,,7,,,,,,6,
-UBCV,2014,W,KIN,371,,001,Introduction to Statistics in Kinesiology,William Sheel,106,77.91509434,10.280001783,95.0,44.0,,,,6,5,11,10,19,18,18,14
-UBCV,2014,W,KIN,371,,002,Introduction to Statistics in Kinesiology,Nicole Ong,118,70.62711864399999,11.759554479,92.0,36.0,5,,12,13,11,22,12,12,10,12,6
-UBCV,2014,W,KIN,373,,001,Research Methods in Kinesiology,Carolyn Mcewen,116,83.577586207,7.723651831000001,99.0,59.0,,,,,,,7,15,30,30,27
+UBCV,2014,W,KIN,367,,OVERALL,Leisure Services for Persons with a Disability,,128,88.2265625,7.381840715,99.0,63.0,,,,,,,,,20,27,69
+UBCV,2014,W,KIN,369,,L1A,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,27,77.888888889,10.696273015,91.0,55.0,,,,2,,,,,,5,5
+UBCV,2014,W,KIN,369,,L1B,Instructional Analysis and Design in Sport and Physical Activity Programs,Gail Wilson,29,74.379310345,10.044237128999999,90.0,60.0,,,,7,,,,,,6,1
+UBCV,2014,W,KIN,369,,OVERALL,Instructional Analysis and Design in Sport and Physical Activity Programs,,56,76.071428571,10.420010719,91.0,55.0,,,,9,5,,8,5,7,11,6
+UBCV,2014,W,KIN,371,,001,Introduction to Statistics in Kinesiology,William Sheel,106,77.91509434,10.280001783,95.0,44.0,1,1.0,3,6,5,11,10,19,18,18,14
+UBCV,2014,W,KIN,371,,002,Introduction to Statistics in Kinesiology,Nicole Ong,118,70.62711864399999,11.759554479,92.0,36.0,5,3.0,12,13,11,22,12,12,10,12,6
+UBCV,2014,W,KIN,371,,OVERALL,Introduction to Statistics in Kinesiology,,224,74.075892857,11.645301564,95.0,36.0,6,4.0,15,19,16,33,22,31,28,30,20
+UBCV,2014,W,KIN,373,,001,Research Methods in Kinesiology,Carolyn Mcewen,116,83.577586207,7.723651831000001,99.0,59.0,,,,2,,,7,15,30,30,27
 UBCV,2014,W,KIN,373,,002,Research Methods in Kinesiology,Erica Bennett,84,78.345238095,17.071426171,99.0,0.0,,,,5,,,7,11,15,18,17
+UBCV,2014,W,KIN,373,,OVERALL,Research Methods in Kinesiology,,200,81.38,12.756537392,99.0,0.0,,,,7,,5,14,26,45,48,44
 UBCV,2014,W,KIN,375,,L1A,Exercise Physiology II,Darren Warburton,25,84.96,7.424508962000001,96.0,69.0,,,,,,,,,,6,10
 UBCV,2014,W,KIN,375,,L1B,Exercise Physiology II,Darren Warburton,25,84.24,7.172168431,97.0,72.0,,,,,,,,,8,,8
 UBCV,2014,W,KIN,375,,L1C,Exercise Physiology II,Darren Warburton,25,85.44,9.84073168,98.0,60.0,,,,,,,,,,,13
 UBCV,2014,W,KIN,375,,L1D,Exercise Physiology II,Darren Warburton,25,82.84,8.14289056,99.0,69.0,,,,,,,,6,5,5,6
 UBCV,2014,W,KIN,375,,L1E,Exercise Physiology II,Darren Warburton,27,90.185185185,5.540320992000001,100.0,80.0,,,,,,,,,,7,17
 UBCV,2014,W,KIN,375,,L1F,Exercise Physiology II,Darren Warburton,27,83.62962963,6.78883783,99.0,72.0,,,,,,,,,10,6,5
+UBCV,2014,W,KIN,375,,OVERALL,Exercise Physiology II,,154,85.25974026,7.826388406,100.0,60.0,,,,,,,10,15,33,32,59
 UBCV,2014,W,KIN,381,,001,"Leisure, Sport and Popular Culture",Gavin Weedon;Nicolien Simone Van Luijk,30,79.133333333,9.640909005,93.0,57.0,,,,,,,,5,7,7,
+UBCV,2014,W,KIN,381,,OVERALL,"Leisure, Sport and Popular Culture",,30,79.133333333,9.640909005,93.0,57.0,,,,,,,,5,7,7,
 UBCV,2014,W,KIN,382,,001,Meaning and Values in Sport,Janna Taylor,118,80.0,10.03242606,93.0,1.0,,,,,,6,16,17,37,32,5
+UBCV,2014,W,KIN,382,,OVERALL,Meaning and Values in Sport,,118,80.0,10.03242606,93.0,1.0,,,,,,6,16,17,37,32,5
 UBCV,2014,W,KIN,383,,001,"The Modern Olympics: Power, Politics, and Performance",Victoria Irene Felkar,57,81.263157895,5.249239114,93.0,68.0,,,,,,,7,13,20,12,
+UBCV,2014,W,KIN,383,,OVERALL,"The Modern Olympics: Power, Politics, and Performance",,57,81.263157895,5.249239114,93.0,68.0,,,,,,,7,13,20,12,
 UBCV,2014,W,KIN,389,,L1A,Neuromuscular Integration of Human Movement,J Timothy Inglis,36,75.222222222,15.220495789000001,91.0,6.0,,,,,,,5,7,7,6,
 UBCV,2014,W,KIN,389,,L1B,Neuromuscular Integration of Human Movement,J Timothy Inglis,35,71.228571429,16.592141503,90.0,8.0,,,,,5,5,,5,,8,
 UBCV,2014,W,KIN,389,,L1C,Neuromuscular Integration of Human Movement,J Timothy Inglis,32,67.34375,22.914440263000003,95.0,0.0,5,,,,,5,,,,,
 UBCV,2014,W,KIN,389,,L1D,Neuromuscular Integration of Human Movement,J Timothy Inglis,36,69.25,10.747424940999998,87.0,45.0,,,5,5,,,7,,8,,
+UBCV,2014,W,KIN,389,,OVERALL,Neuromuscular Integration of Human Movement,,139,70.856115108,16.803882035999997,95.0,0.0,9,6,7,8,12,17,19,18,19,17,7
 UBCV,2014,W,KIN,400,,901,"Planning Physical Education, Sport and Exercise Programs",Janka Samuhel-Corewyn,109,93.330275229,5.9520538720000005,99.0,65.0,,,,,,,,,5,15,86
+UBCV,2014,W,KIN,400,,OVERALL,"Planning Physical Education, Sport and Exercise Programs",,109,93.330275229,5.9520538720000005,99.0,65.0,,,,,,,,,5,15,86
 UBCV,2014,W,KIN,415,,L1A,Conceptual Approaches to Games Education,Gail Wilson,19,68.736842105,14.715230603,86.0,29.0,,,,,,,,,,,
 UBCV,2014,W,KIN,415,,L1B,Conceptual Approaches to Games Education,Gail Wilson,14,74.142857143,12.296698387000001,94.0,45.0,,,,,,,,,,,
+UBCV,2014,W,KIN,415,,OVERALL,Conceptual Approaches to Games Education,,33,71.03030303,13.805535232,94.0,29.0,,,,,,,5,,,,
 UBCV,2014,W,KIN,454,A,0A1,Field Experience,Shannon Bredin,19,82.736842105,7.217587357,93.0,65.0,,,,,,,,,,7,
+UBCV,2014,W,KIN,454,A,OVERALL,Field Experience,,19,82.736842105,7.217587357,93.0,65.0,,,,,,,,,,7,
 UBCV,2014,W,KIN,454,B,0B1,Field Experience,Janna Taylor,16,87.25,4.509249753,95.0,76.0,,,,,,,,,,6,7
+UBCV,2014,W,KIN,454,B,OVERALL,Field Experience,,16,87.25,4.509249753,95.0,76.0,,,,,,,,,,6,7
 UBCV,2014,W,KIN,454,C,0C2,Field Experience,Gail Wilson,7,79.857142857,11.051825964,90.0,62.0,,,,,,,,,,,
+UBCV,2014,W,KIN,454,C,OVERALL,Field Experience,,7,79.857142857,11.051825964,90.0,62.0,,,,,,,,,,,
 UBCV,2014,W,KIN,461,,001,Prevention of Sports Injuries I,,132,87.674242424,6.785138916,97.0,54.0,,,,,,,,9,22,29,67
+UBCV,2014,W,KIN,461,,OVERALL,Prevention of Sports Injuries I,,132,87.674242424,6.785138916,97.0,54.0,,,,,,,,9,22,29,67
 UBCV,2014,W,KIN,462,,001,Skeletal Muscle Physiology: From Generation to Regeneration,Maria Gallo,41,75.56097561,10.346614857999999,91.0,50.0,,,,5,,,,6,11,7,
+UBCV,2014,W,KIN,462,,OVERALL,Skeletal Muscle Physiology: From Generation to Regeneration,,41,75.56097561,10.346614857999999,91.0,50.0,,,,5,,,,6,11,7,
 UBCV,2014,W,KIN,464,,001,Health Promotion and Physical Activity,Loretta Bowie,138,80.275362319,9.88456595,94.0,11.0,,,,,,8,15,24,33,30,19
+UBCV,2014,W,KIN,464,,OVERALL,Health Promotion and Physical Activity,,138,80.275362319,9.88456595,94.0,11.0,,,,,,8,15,24,33,30,19
 UBCV,2014,W,KIN,465,,001,"Interculturalism, Health and Physical Activity",Kathryn Cureton,55,83.654545455,3.1044662080000003,91.0,76.0,,,,,,,,,29,20,
+UBCV,2014,W,KIN,465,,OVERALL,"Interculturalism, Health and Physical Activity",,55,83.654545455,3.1044662080000003,91.0,76.0,,,,,,,,,29,20,
 UBCV,2014,W,KIN,469,,001,"Chronic Health Issues, Physical Activity, and Community Practice",Paul Kennedy,97,87.484536082,5.3250849019999995,97.0,70.0,,,,,,,,,20,31,39
+UBCV,2014,W,KIN,469,,OVERALL,"Chronic Health Issues, Physical Activity, and Community Practice",,97,87.484536082,5.3250849019999995,97.0,70.0,,,,,,,,,20,31,39
 UBCV,2014,W,KIN,471,,001,Prevention of Sports Injuries II,Michael Koehle,112,89.946428571,7.543076637,100.0,60.0,,,,,,,,9,9,22,67
+UBCV,2014,W,KIN,471,,OVERALL,Prevention of Sports Injuries II,,112,89.946428571,7.543076637,100.0,60.0,,,,,,,,9,9,22,67
 UBCV,2014,W,KIN,473,,001,Neuroanatomy of Human Movement,Mark Carpenter,100,77.64,13.637085503,96.0,33.0,,5,5,6,5,,13,6,13,22,20
+UBCV,2014,W,KIN,473,,OVERALL,Neuroanatomy of Human Movement,,100,77.64,13.637085503,96.0,33.0,,5,5,6,5,,13,6,13,22,20
 UBCV,2014,W,KIN,475,,001,Pulmonary Physiology of Exercise,William Sheel,54,73.79629629600001,12.116384710999998,92.0,35.0,,,,5,5,6,7,6,8,8,
+UBCV,2014,W,KIN,475,,OVERALL,Pulmonary Physiology of Exercise,,54,73.79629629600001,12.116384710999998,92.0,35.0,,,,5,5,6,7,6,8,8,
 UBCV,2014,W,KIN,481,,901,Sport Marketing and Communication,Janna Taylor,93,83.430107527,5.217857818,93.0,61.0,,,,,,,,11,35,31,11
+UBCV,2014,W,KIN,481,,OVERALL,Sport Marketing and Communication,,93,83.430107527,5.217857818,93.0,61.0,,,,,,,,11,35,31,11
 UBCV,2014,W,KIN,489,A,001,Seminar,Niloofar Davallow Ghajar,25,81.2,4.752192476,89.0,68.0,,,,,,,,8,8,8,
+UBCV,2014,W,KIN,489,A,OVERALL,Seminar,,25,81.2,4.752192476,89.0,68.0,,,,,,,,8,8,8,
 UBCV,2014,W,KIN,489,B,001,Seminar,Darren Warburton,27,91.29629629600001,4.655970648,98.0,82.0,,,,,,,,,,,20
+UBCV,2014,W,KIN,489,B,OVERALL,Seminar,,27,91.29629629600001,4.655970648,98.0,82.0,,,,,,,,,,,20
 UBCV,2014,W,KIN,489,C,002,Seminar,Lyndsay Hayhurst,6,85.833333333,3.710345896,92.0,82.0,,,,,,,,,,,
+UBCV,2014,W,KIN,489,C,OVERALL,Seminar,,6,85.833333333,3.710345896,92.0,82.0,,,,,,,,,,,
 UBCV,2014,W,KIN,489,E,L1A,Seminar,J Timothy Inglis,11,78.636363636,10.80067338,92.0,61.0,,,,,,,,,,,
 UBCV,2014,W,KIN,489,E,L1B,Seminar,J Timothy Inglis,22,73.772727273,12.887542225,95.0,50.0,,,,,,,,,5,,
 UBCV,2014,W,KIN,489,E,L1C,Seminar,J Timothy Inglis,7,75.142857143,11.582005748,89.0,58.0,,,,,,,,,,,
+UBCV,2014,W,KIN,489,E,OVERALL,Seminar,,40,75.35,12.018255345,95.0,50.0,,,,,,5,5,,6,7,
 UBCV,2014,W,KIN,489,G,001,Seminar,Paul Kennedy,6,90.666666667,7.814516406,97.0,76.0,,,,,,,,,,,
+UBCV,2014,W,KIN,489,G,OVERALL,Seminar,,6,90.666666667,7.814516406,97.0,76.0,,,,,,,,,,,
 UBCV,2014,W,KIN,489,S,002,Seminar,G Barry Legh,14,90.214285714,3.400872545,93.0,82.0,,,,,,,,,,5,8
+UBCV,2014,W,KIN,489,S,OVERALL,Seminar,,14,90.214285714,3.400872545,93.0,82.0,,,,,,,,,,5,8
 UBCV,2014,W,KIN,489,X,001,Seminar,Tania Lam,10,91.9,1.91195072,95.0,89.0,,,,,,,,,,,9
-UBCV,2014,W,KIN,499,,001,Projects in Kinesiology,,5,92.0,5.14781507,97.0,84.0,,,,,,,,,,,
+UBCV,2014,W,KIN,489,X,OVERALL,Seminar,,10,91.9,1.91195072,95.0,89.0,,,,,,,,,,,9
+UBCV,2014,W,KIN,499,,001,Projects in Kinesiology,,5,92.0,5.14781507,97.0,84.0,,,,,,,,,,,4
 UBCV,2014,W,KIN,499,,002,Projects in Kinesiology,,16,89.5625,8.854142157,98.0,60.0,,,,,,,,,,,13
+UBCV,2014,W,KIN,499,,OVERALL,Projects in Kinesiology,,21,90.14285714299999,8.076420707,98.0,60.0,,,,,,,,,,,17
 UBCV,2014,W,KIN,500,,003,Special Topics in Kinesiology,J Timothy Inglis,9,89.444444444,5.222813205,98.0,80.0,,,,,,,,,,,5
+UBCV,2014,W,KIN,500,,OVERALL,Special Topics in Kinesiology,,13,91.153846154,5.030675134,98.0,80.0,,,,,,,,,,,9
 UBCV,2014,W,KIN,530,A,001,Directed Studies,,6,88.333333333,5.046450898,95.0,83.0,,,,,,,,,,,
 UBCV,2014,W,KIN,530,A,002,Directed Studies,,7,88.14285714299999,7.335497516,98.0,77.0,,,,,,,,,,,
+UBCV,2014,W,KIN,530,A,OVERALL,Directed Studies,,13,88.23076923100001,6.12581758,98.0,77.0,,,,,,,,,,,7
 UBCV,2014,W,KIN,562,,001,Bioenergetics of Physical Activity,Michael Koehle,16,91.875,3.9306488010000002,98.0,85.0,,,,,,,,,,,12
+UBCV,2014,W,KIN,562,,OVERALL,Bioenergetics of Physical Activity,,16,91.875,3.9306488010000002,98.0,85.0,,,,,,,,,,,12
 UBCV,2014,W,KIN,564,,001,Psycho-Social Aspects of Physical Activity,Peter Crocker,8,84.0,6.8033605139999995,92.0,75.0,,,,,,,,,,,
+UBCV,2014,W,KIN,564,,OVERALL,Psycho-Social Aspects of Physical Activity,,8,84.0,6.8033605139999995,92.0,75.0,,,,,,,,,,,
 UBCV,2014,W,KIN,565,,001,Physiological Aspects of Physical Activity,Donald Mckenzie,11,95.363636364,0.504524979,96.0,95.0,,,,,,,,,,,11
+UBCV,2014,W,KIN,565,,OVERALL,Physiological Aspects of Physical Activity,,11,95.363636364,0.504524979,96.0,95.0,,,,,,,,,,,11
 UBCV,2014,W,KIN,570,,001,Research Methods in Kinesiology,Nicola Hodges,22,85.681818182,4.8930111830000005,94.0,74.0,,,,,,,,,5,12,
+UBCV,2014,W,KIN,570,,OVERALL,Research Methods in Kinesiology,,22,85.681818182,4.8930111830000005,94.0,74.0,,,,,,,,,5,12,
 UBCV,2014,W,KIN,581,,001,"Sport, Leisure and Consumer Culture",Brian Wilson,7,84.428571429,6.654751256,91.0,72.0,,,,,,,,,,,
+UBCV,2014,W,KIN,581,,OVERALL,"Sport, Leisure and Consumer Culture",,7,84.428571429,6.654751256,91.0,72.0,,,,,,,,,,,
 UBCV,2014,W,KIN,585,,001,Coaching Science I,Maria Gallo,12,84.166666667,4.489043902,92.0,77.0,,,,,,,,,,,
+UBCV,2014,W,KIN,585,,OVERALL,Coaching Science I,,12,84.166666667,4.489043902,92.0,77.0,,,,,,,,,,,
 UBCV,2014,W,KIN,586,,001,Coaching Science II,Michael Mosher,11,84.818181818,3.572623177,91.0,79.0,,,,,,,,,,6,
+UBCV,2014,W,KIN,586,,OVERALL,Coaching Science II,,11,84.818181818,3.572623177,91.0,79.0,,,,,,,,,,6,
 UBCV,2014,W,KIN,598,,001,Directed Field Studies in Sport and Physical Activity Agencies,,6,89.166666667,5.492419018,96.0,83.0,,,,,,,,,,,
 UBCV,2014,W,KIN,598,,002,Directed Field Studies in Sport and Physical Activity Agencies,,5,88.6,5.07937004,95.0,82.0,,,,,,,,,,,
+UBCV,2014,W,KIN,598,,OVERALL,Directed Field Studies in Sport and Physical Activity Agencies,,11,88.909090909,5.048852255,96.0,82.0,,,,,,,,,,,5

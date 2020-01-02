@@ -1,70 +1,118 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2018,W,MGMT,100,,001,Introduction to Business,Brock Mckillop;Claire Wolff;Norine Webster;Parin Dani;Victoria Scotney;Ying Zhu,143,70.69930069899999,17.959671162,99.0,1.0,20,,5,,14,14,11,23,17,15,16
-UBCO,2018,W,MGMT,100,,002,Introduction to Business,Brock Mckillop;Claire Wolff;Norine Webster;Parin Dani;Victoria Scotney;Ying Zhu,143,69.181818182,15.379076862,93.0,31.0,22,,5,11,15,14,19,13,18,18,6
-UBCO,2018,W,MGMT,100,,003,Introduction to Business,Alexandra Roussel;Birgit Weischedel;Leif Undseth,71,73.478873239,17.390357883,96.0,4.0,9,,,,,6,8,15,15,9,
-UBCO,2018,W,MGMT,100,,101,Introduction to Business,Norine Webster;Pablo Doskoch;Tracy Ross;Ying Zhu,111,72.08108108100001,13.016866775,98.0,7.0,5,,6,7,8,20,14,16,16,10,5
-UBCO,2018,W,MGMT,110,,001,Introduction to Management Thought and Social Responsibility,Eric Zvaniga;Luan Jardine;Patience Okuku,90,72.766666667,11.04541188,90.0,13.0,,,,6,8,11,17,14,19,7,
+UBCO,2018,W,MGMT,100,,002,Introduction to Business,Brock Mckillop;Claire Wolff;Norine Webster;Parin Dani;Victoria Scotney;Ying Zhu,143,69.181818182,15.379076862,93.0,31.0,22,2.0,5,11,15,14,19,13,18,18,6
+UBCO,2018,W,MGMT,100,,003,Introduction to Business,Alexandra Roussel;Birgit Weischedel;Leif Undseth,71,73.478873239,17.390357883,96.0,4.0,9,,2,,2,6,8,15,15,9,4
+UBCO,2018,W,MGMT,100,,101,Introduction to Business,Norine Webster;Pablo Doskoch;Tracy Ross;Ying Zhu,111,72.216216216,12.680984622999999,98.0,7.0,5,4.0,6,7,8,20,14,16,16,10,5
+UBCO,2018,W,MGMT,100,,OVERALL,Introduction to Business,,468,71.017094017,15.985262434000001,99.0,1.0,56,10,18,23,39,54,52,67,66,52,31
+UBCO,2018,W,MGMT,110,,001,Introduction to Management Thought and Social Responsibility,Eric Zvaniga;Luan Jardine;Patience Okuku,90,72.766666667,11.04541188,90.0,13.0,,,,6,8,11,17,14,19,7,2
 UBCO,2018,W,MGMT,110,,102,Introduction to Management Thought and Social Responsibility,Eric Zvaniga;Jadyn Agnew;Liyan Liu;Sriya Pulikanti;Yaxin Li,62,73.370967742,14.285420598,94.0,19.0,,,,,5,8,8,12,8,5,8
 UBCO,2018,W,MGMT,110,,103,Introduction to Management Thought and Social Responsibility,Eric Zvaniga;Jadyn Agnew;Liyan Liu;Sriya Pulikanti;Yaxin Li,102,75.509803922,10.091409049,95.0,19.0,,,,,9,11,21,16,21,11,7
 UBCO,2018,W,MGMT,110,,104,Introduction to Management Thought and Social Responsibility,Eric Zvaniga;Jadyn Agnew;Liyan Liu;Sriya Pulikanti;Yaxin Li,110,73.5,14.376171671,97.0,8.0,5,,5,,12,13,14,11,22,17,7
+UBCO,2018,W,MGMT,110,,OVERALL,Introduction to Management Thought and Social Responsibility,,364,73.85989011,12.479609197,97.0,8.0,11,2.0,12,15,34,43,60,53,70,40,24
 UBCO,2018,W,MGMT,201,,001,Introduction to Financial Accounting,Sarah Gumpinger;Sheila Westwell,177,76.655367232,11.658487301,100.0,38.0,,,8,11,19,20,26,21,26,16,27
-UBCO,2018,W,MGMT,202,,101,Introduction to Managerial Accounting,Alicia Taylor;Chanakan Tribunyatkul;Daniel Thornton;Eli Ragual;Georgia Platt;Justin Bell;Karina Shumar;Phoebe Kotulska;Tamara Ebl;Tristian Tulak;Yaxin Wang;Yining Chen,175,70.331428571,10.630896509,94.0,43.0,,6,18,18,31,23,21,24,13,8,10
+UBCO,2018,W,MGMT,201,,OVERALL,Introduction to Financial Accounting,,177,76.655367232,11.658487301,100.0,38.0,,,8,11,19,20,26,21,26,16,27
+UBCO,2018,W,MGMT,202,,101,Introduction to Managerial Accounting,Alicia Taylor;Chanakan Tribunyatkul;Daniel Thornton;Eli Ragual;Georgia Platt;Justin Bell;Karina Shumar;Phoebe Kotulska;Tamara Ebl;Tristian Tulak;Yaxin Wang;Yining Chen,175,70.331428571,10.630896509,94.0,43.0,3.0,6,18,18,31,23,21,24,13,8,10
+UBCO,2018,W,MGMT,202,,OVERALL,Introduction to Managerial Accounting,,175,70.331428571,10.630896509,94.0,43.0,3.0,6,18,18,31,23,21,24,13,8,10
 UBCO,2018,W,MGMT,220,,101,Introduction to Marketing,Ajeet Chahal;Alexandra Roussel;Patience Okuku;Ping Li,191,73.628272251,5.0993329439999995,87.0,58.0,,,,6,13,43,62,45,17,,
-UBCO,2018,W,MGMT,230,,001,Introduction to Organizational Behaviour,David Walker;Erin St. Onge;Liming Huang;Melissa Wetmore;Tristian Tulak,68,77.970588235,7.030786432,88.0,39.0,,,,,,,11,21,21,8,
+UBCO,2018,W,MGMT,220,,OVERALL,Introduction to Marketing,,191,73.628272251,5.0993329439999995,87.0,58.0,,,,6,13,43,62,45,17,,
+UBCO,2018,W,MGMT,230,,001,Introduction to Organizational Behaviour,David Walker;Erin St. Onge;Liming Huang;Melissa Wetmore;Sophie Cowan;Tristian Tulak,68,77.970588235,7.030786432,88.0,39.0,,,,,2,4,11,21,21,8,
 UBCO,2018,W,MGMT,230,,002,Introduction to Organizational Behaviour,David Walker;Erin St. Onge;Liming Huang;Melissa Wetmore;Tristian Tulak,104,75.5,7.509217637000001,87.0,41.0,,,,,7,14,19,27,26,7,
+UBCO,2018,W,MGMT,230,,OVERALL,Introduction to Organizational Behaviour,,172,76.476744186,7.4027444639999995,88.0,39.0,,,,,9,18,30,48,47,15,
 UBCO,2018,W,MGMT,240,,001,Introduction to Management  Communications,Joanna Cockerline;Marcgraf Gregorio;Zhongyu Gao,75,76.44,8.937077338,91.0,31.0,,,,,5,13,13,12,18,9,
 UBCO,2018,W,MGMT,240,,002,Introduction to Management  Communications,Joanna Cockerline;Marcgraf Gregorio;Zhongyu Gao,106,75.783018868,8.713432124,94.0,50.0,,,,,8,17,11,12,31,15,
-UBCO,2018,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin;Eric Zvaniga;Farah Kanani;Kanchana Pintapakang;Kexin Cheng;Shiva Zargar Ershadi,122,76.368852459,7.906688057,88.0,22.0,,,,,,9,20,36,33,15,
+UBCO,2018,W,MGMT,240,,OVERALL,Introduction to Management  Communications,,181,76.055248619,8.7880751,94.0,31.0,,,5,,13,30,24,24,49,24,5
+UBCO,2018,W,MGMT,250,,101,Introduction to Information Technology Management,Barbara Marcolin;Eric Zvaniga;Farah Kanani;Kanchana Pintapakang;Kexin Cheng;Shiva Zargar Ershadi,122,76.368852459,7.906688057,88.0,22.0,,,,,3,9,20,36,33,15,
 UBCO,2018,W,MGMT,250,,102,Introduction to Information Technology Management,Barbara Marcolin;Eric Zvaniga;Farah Kanani;Kanchana Pintapakang;Kexin Cheng;Shiva Zargar Ershadi,81,75.49382716,8.984880991,92.0,37.0,,,,,7,10,15,13,18,11,
+UBCO,2018,W,MGMT,250,,OVERALL,Introduction to Information Technology Management,,203,76.019704433,8.342875416,92.0,22.0,,,,7,10,19,35,49,51,26,
 UBCO,2018,W,MGMT,290,,101,Industry Analysis Project,Jonathan Kramer;Krista Sale;Norine Webster,102,73.068627451,6.370196391,89.0,58.0,,,,5,13,24,24,19,11,5,
-UBCO,2018,W,MGMT,290,,102,Industry Analysis Project,Jonathan Kramer;Krista Sale;Norine Webster,79,75.278481013,6.232538086,87.0,51.0,,,,,,15,22,18,14,5,
-UBCO,2018,W,MGMT,301,,001,Introduction to Financial Accounting,Annette Fairweather;Sarah Gumpinger;Tamara Ebl,220,80.304545455,11.264077027999999,100.0,38.0,,,6,6,10,12,24,28,49,36,44
-UBCO,2018,W,MGMT,302,,101,Introduction to Managerial Accounting,Alicia Taylor;Chanakan Tribunyatkul;Daniel Thornton;Eli Ragual;Georgia Platt;Justin Bell;Karina Shumar;Phoebe Kotulska;Tamara Ebl;Tristian Tulak;Yaxin Wang;Yining Chen,211,73.336492891,10.585054378999999,96.0,47.0,,6,13,17,24,34,29,27,24,21,15
-UBCO,2018,W,MGMT,310,,101,Introduction to Finance,Jana Martin;Leif Undseth;Romi Jain;Stefaniia Mikhailova,109,78.669724771,8.923600674,94.0,44.0,,,,,5,13,13,19,25,18,11
-UBCO,2018,W,MGMT,310,,102,Introduction to Finance,Jana Martin;Leif Undseth;Romi Jain;Stefaniia Mikhailova,108,70.25925925899999,10.234968801,94.0,36.0,,,10,15,10,15,12,21,15,,
-UBCO,2018,W,MGMT,320,,001,Introduction to Marketing,Annamma Joy;Camilo Pena;Ping Li;Zachary Bingley,106,78.386792453,6.129663635,90.0,47.0,,,,,,6,13,30,42,8,
-UBCO,2018,W,MGMT,320,,002,Introduction to Marketing,Annamma Joy;Camilo Pena;Ping Li;Zachary Bingley,101,72.128712871,6.254060067,87.0,55.0,,,,8,13,14,30,24,8,,
-UBCO,2018,W,MGMT,330,,001,Introduction to Organizational Behaviour,David Walker;Erin St. Onge;Liming Huang;Melissa Wetmore;Tristian Tulak,114,81.94736842100001,5.947918659,93.0,47.0,,,,,,,,17,46,37,
+UBCO,2018,W,MGMT,290,,102,Industry Analysis Project,Jonathan Kramer;Krista Sale;Norine Webster,79,75.278481013,6.232538086,87.0,51.0,,,,2,2,15,22,18,14,5,
+UBCO,2018,W,MGMT,290,,OVERALL,Industry Analysis Project,,181,74.033149171,6.388270982000001,89.0,51.0,,,,7,15,39,46,37,25,10,
+UBCO,2018,W,MGMT,301,,001,Introduction to Financial Accounting,Annette Fairweather;Sarah Gumpinger;Tamara Ebl,221,80.067873303,11.776320984000002,100.0,28.0,5,1.0,6,6,10,12,24,28,49,36,44
+UBCO,2018,W,MGMT,301,,OVERALL,Introduction to Financial Accounting,,221,80.067873303,11.776320984000002,100.0,28.0,5,1.0,6,6,10,12,24,28,49,36,44
+UBCO,2018,W,MGMT,302,,101,Introduction to Managerial Accounting,Alicia Taylor;Chanakan Tribunyatkul;Daniel Thornton;Eli Ragual;Georgia Platt;Justin Bell;Karina Shumar;Phoebe Kotulska;Tamara Ebl;Tristian Tulak;Yaxin Wang;Yining Chen,211,73.336492891,10.585054378999999,96.0,47.0,1.0,6,13,17,24,34,29,27,24,21,15
+UBCO,2018,W,MGMT,302,,OVERALL,Introduction to Managerial Accounting,,211,73.336492891,10.585054378999999,96.0,47.0,1.0,6,13,17,24,34,29,27,24,21,15
+UBCO,2018,W,MGMT,310,,101,Introduction to Finance,Jana Martin;Leif Undseth;Romi Jain;Stefaniia Mikhailova,109,78.669724771,8.923600674,94.0,44.0,,,1,3,5,13,13,19,25,18,11
+UBCO,2018,W,MGMT,310,,102,Introduction to Finance,Jana Martin;Leif Undseth;Romi Jain;Stefaniia Mikhailova,109,70.055045872,10.40818309,94.0,36.0,,,10,15,10,15,12,21,15,4,1
+UBCO,2018,W,MGMT,310,,OVERALL,Introduction to Finance,,218,74.362385321,10.591791352000001,94.0,36.0,,,11,18,15,28,25,40,40,22,12
+UBCO,2018,W,MGMT,320,,001,Introduction to Marketing,Annamma Joy;Camilo Pena;Ping Li;Zachary Bingley,106,78.386792453,6.129663635,90.0,47.0,,,,3,1,6,13,30,42,8,
+UBCO,2018,W,MGMT,320,,002,Introduction to Marketing,Annamma Joy;Camilo Pena;Ping Li;Zachary Bingley,101,72.128712871,6.254060067,87.0,55.0,,,,8,13,14,30,24,8,1,
+UBCO,2018,W,MGMT,320,,OVERALL,Introduction to Marketing,,207,75.333333333,6.926100908,90.0,47.0,,,,11,14,20,43,54,50,9,
+UBCO,2018,W,MGMT,330,,001,Introduction to Organizational Behaviour,David Walker;Erin St. Onge;Liming Huang;Melissa Wetmore;Tristian Tulak,114,81.94736842100001,5.947918659,93.0,47.0,,,,0,2,3,4,17,46,37,
 UBCO,2018,W,MGMT,330,,002,Introduction to Organizational Behaviour,David Walker;Erin St. Onge;Liming Huang;Melissa Wetmore;Tristian Tulak,108,76.268518519,6.964001537000001,94.0,58.0,,,,5,5,14,17,22,34,7,
-UBCO,2018,W,MGMT,340,,001,Introduction to Management Communications,Georgia Platt;Joanna Cockerline;Marika Van Poelgeest;Mary Stewart Butterfield;Mary Stewart Varhola,108,81.481481481,7.407348562999999,95.0,60.0,,,,,,6,14,14,30,23,18
+UBCO,2018,W,MGMT,330,,OVERALL,Introduction to Organizational Behaviour,,222,79.184684685,7.047167503,94.0,47.0,,,,5,7,17,21,39,80,44,6
+UBCO,2018,W,MGMT,340,,001,Introduction to Management Communications,Georgia Platt;Joanna Cockerline;Marika Van Poelgeest;Mary Stewart Butterfield;Mary Stewart Varhola,108,81.481481481,7.407348562999999,95.0,60.0,,,,,1,6,14,14,30,23,18
 UBCO,2018,W,MGMT,340,,002,Introduction to Management Communications,Georgia Platt;Joanna Cockerline;Marika Van Poelgeest;Mary Stewart Butterfield;Mary Stewart Varhola,105,77.438095238,8.344647996,97.0,55.0,,,,,11,8,20,12,25,14,10
-UBCO,2018,W,MGMT,350,,001,Introduction to Information Technology Management,Barbara Marcolin;Eli Ragual;Eric Zvaniga;Farah Kanani;Kexin Cheng;Shiva Zargar Ershadi;Zhenyuan Ma,107,79.102803738,5.747738816,90.0,61.0,,,,,,5,14,23,43,14,
-UBCO,2018,W,MGMT,350,,002,Introduction to Information Technology Management,Barbara Marcolin;Eli Ragual;Eric Zvaniga;Farah Kanani;Kexin Cheng;Shiva Zargar Ershadi;Zhenyuan Ma,105,74.914285714,6.800896838,90.0,52.0,,,,,8,20,22,19,27,,
-UBCO,2018,W,MGMT,355,,101,Operations Management,Jennifer Colleen Faddegon;Marcgraf Gregorio;Marika Van Poelgeest,109,75.110091743,9.415648371,93.0,50.0,,,5,,7,14,20,14,24,15,
-UBCO,2018,W,MGMT,355,,102,Operations Management,Jennifer Colleen Faddegon;Marcgraf Gregorio;Marika Van Poelgeest,108,79.074074074,7.951610316,92.0,56.0,,,,,8,6,12,17,32,23,6
-UBCO,2018,W,MGMT,360,,001,Business Conditions Analysis,Olivia Latendresse;Swantje Lembke;Zachary Bingley,112,72.133928571,8.26639298,89.0,41.0,,,,,22,20,27,10,17,8,
+UBCO,2018,W,MGMT,340,,OVERALL,Introduction to Management Communications,,213,79.488262911,8.121489273,97.0,55.0,,,,6,12,14,34,26,55,37,28
+UBCO,2018,W,MGMT,350,,001,Introduction to Information Technology Management,Barbara Marcolin;Eli Ragual;Eric Zvaniga;Farah Kanani;Kexin Cheng;Shiva Zargar Ershadi;Zhenyuan Ma,107,79.102803738,5.747738816,90.0,61.0,,,,,4,5,14,23,43,14,
+UBCO,2018,W,MGMT,350,,002,Introduction to Information Technology Management,Barbara Marcolin;Eli Ragual;Eric Zvaniga;Farah Kanani;Kexin Cheng;Shiva Zargar Ershadi;Zhenyuan Ma,105,74.914285714,6.800896838,90.0,52.0,,,,,8,20,22,19,27,4,
+UBCO,2018,W,MGMT,350,,OVERALL,Introduction to Information Technology Management,,212,77.028301887,6.618167652,90.0,52.0,,,,,12,25,36,42,70,18,
+UBCO,2018,W,MGMT,355,,101,Operations Management,Jennifer Colleen Faddegon;Marcgraf Gregorio;Marika Van Poelgeest,109,75.110091743,9.415648371,93.0,50.0,,,5,,7,14,20,14,24,15,3
+UBCO,2018,W,MGMT,355,,102,Operations Management,Jennifer Colleen Faddegon;Marcgraf Gregorio;Marika Van Poelgeest,108,79.074074074,7.951610316,92.0,56.0,,,3,,8,6,12,17,32,23,6
+UBCO,2018,W,MGMT,355,,OVERALL,Operations Management,,217,77.082949309,8.921599599,93.0,50.0,,,8,,15,20,32,31,56,38,9
+UBCO,2018,W,MGMT,360,,001,Business Conditions Analysis,Olivia Latendresse;Swantje Lembke;Zachary Bingley,112,72.133928571,8.26639298,89.0,41.0,,,,3,22,20,27,10,17,8,
 UBCO,2018,W,MGMT,360,,002,Business Conditions Analysis,Olivia Latendresse;Swantje Lembke;Zachary Bingley,107,74.06542056100001,8.507788915,90.0,41.0,,,,6,10,16,12,26,23,6,
-UBCO,2018,W,MGMT,380,,101,Sustainability and Business,Arjun Bhardwaj;Melissa Wetmore;Zhongyu Gao,116,79.163793103,5.8709957170000004,90.0,61.0,,,,,,7,13,23,49,16,
+UBCO,2018,W,MGMT,360,,OVERALL,Business Conditions Analysis,,219,73.077625571,8.421706436000001,90.0,41.0,,,7,9,32,36,39,36,40,14,
+UBCO,2018,W,MGMT,380,,101,Sustainability and Business,Arjun Bhardwaj;Melissa Wetmore;Zhongyu Gao,116,79.163793103,5.8709957170000004,90.0,61.0,,,,,2,7,13,23,49,16,
 UBCO,2018,W,MGMT,380,,102,Sustainability and Business,Arjun Bhardwaj;Melissa Wetmore;Zhongyu Gao,108,76.685185185,6.627115282999999,88.0,54.0,,,,,9,12,21,21,30,13,
+UBCO,2018,W,MGMT,380,,OVERALL,Sustainability and Business,,224,77.96875,6.355246147000001,90.0,54.0,,,,,11,19,34,44,79,29,
 UBCO,2018,W,MGMT,390,,101,Industry Analysis Project,Jonathan Kramer;Karina Shumar;Norine Webster,113,76.690265487,6.893422908,91.0,61.0,,,,5,8,11,25,24,24,13,
-UBCO,2018,W,MGMT,390,,102,Industry Analysis Project,Jonathan Kramer;Karina Shumar;Norine Webster,106,69.547169811,7.900731822999999,83.0,44.0,,,,9,15,32,21,11,10,,
+UBCO,2018,W,MGMT,390,,102,Industry Analysis Project,Jonathan Kramer;Karina Shumar;Norine Webster,106,69.547169811,7.900731822999999,83.0,44.0,,,,9,15,32,21,11,10,0,
+UBCO,2018,W,MGMT,390,,OVERALL,Industry Analysis Project,,219,73.23287671199999,8.202461951,91.0,44.0,,,,14,23,43,46,35,34,13,
 UBCO,2018,W,MGMT,400,,001,Intermediate Financial Accounting,Sheila Westwell,34,75.647058824,12.321162757,96.0,45.0,,,,,,,7,,5,,6
+UBCO,2018,W,MGMT,400,,OVERALL,Intermediate Financial Accounting,,34,75.647058824,12.321162757,96.0,45.0,,,,,,,7,,5,,6
 UBCO,2018,W,MGMT,401,,001,Intermediate Managerial Accounting,Tamara Ebl,35,72.714285714,10.234231569,92.0,50.0,,,,,7,,7,5,,,
+UBCO,2018,W,MGMT,401,,OVERALL,Intermediate Managerial Accounting,,35,72.714285714,10.234231569,92.0,50.0,,,,,7,,7,5,,,
 UBCO,2018,W,MGMT,402,,001,Introduction to Income Taxes in Canada,Sheila Westwell,33,75.939393939,10.538439738,94.0,54.0,,,,,,,5,,5,6,
+UBCO,2018,W,MGMT,402,,OVERALL,Introduction to Income Taxes in Canada,,33,75.939393939,10.538439738,94.0,54.0,,,,,,,5,,5,6,
 UBCO,2018,W,MGMT,403,,001,Auditing and Assurance Services,Sheila Westwell,33,77.333333333,9.245494398,93.0,56.0,,,,,,5,5,5,5,7,
+UBCO,2018,W,MGMT,403,,OVERALL,Auditing and Assurance Services,,33,77.333333333,9.245494398,93.0,56.0,,,,,,5,5,5,5,7,
 UBCO,2018,W,MGMT,404,,101,Advanced Financial Accounting,Sarah Gumpinger;Sheila Westwell,30,77.233333333,11.321884007000001,96.0,51.0,,,,,,5,,,,5,
+UBCO,2018,W,MGMT,404,,OVERALL,Advanced Financial Accounting,,30,77.233333333,11.321884007000001,96.0,51.0,,,,,,5,,,,5,
 UBCO,2018,W,MGMT,405,,101,Advanced Managerial Accounting,Tamara Ebl,28,74.392857143,10.457459807000001,93.0,52.0,,,,,,,5,,,,
+UBCO,2018,W,MGMT,405,,OVERALL,Advanced Managerial Accounting,,28,74.392857143,10.457459807000001,93.0,52.0,,,,,,,5,,,,
 UBCO,2018,W,MGMT,410,,001,Leadership in Complex Environments,Arjun Bhardwaj;Camilo Pena;David Walker;Eli Ragual;John Whitehead,64,79.796875,11.385286645,91.0,0.0,,,,,,,,15,24,16,
+UBCO,2018,W,MGMT,410,,OVERALL,Leadership in Complex Environments,,64,79.796875,11.385286645,91.0,0.0,,,,,,,,15,24,16,
 UBCO,2018,W,MGMT,411,,101,Human Resources Management,Anber Rana;David Walker;Richard Roy;Tanja Halsall,55,84.909090909,6.681297077999999,99.0,69.0,,,,,,,,8,13,15,15
+UBCO,2018,W,MGMT,411,,OVERALL,Human Resources Management,,55,84.909090909,6.681297077999999,99.0,69.0,,,,,,,,8,13,15,15
 UBCO,2018,W,MGMT,412,,101,Negotiations,Eric Zvaniga;Shiva Zargar Ershadi,27,78.37037037,8.458714888,91.0,60.0,,,,,,,,5,6,6,
+UBCO,2018,W,MGMT,412,,OVERALL,Negotiations,,27,78.37037037,8.458714888,91.0,60.0,,,,,,,,5,6,6,
 UBCO,2018,W,MGMT,419,N,001,Special Topics in Management,Connie Raddatz;Jana Martin,27,77.888888889,10.492976894,94.0,53.0,,,,,,,,,6,,5
+UBCO,2018,W,MGMT,419,N,OVERALL,Special Topics in Management,,27,77.888888889,10.492976894,94.0,53.0,,,,,,,,,6,,5
 UBCO,2018,W,MGMT,421,,101,"Globalization, Offshoring and Outsourcing",Swantje Lembke,6,76.666666667,8.477420991,84.0,61.0,,,,,,,,,,,
+UBCO,2018,W,MGMT,421,,OVERALL,"Globalization, Offshoring and Outsourcing",,6,76.666666667,8.477420991,84.0,61.0,,,,,,,,,,,
 UBCO,2018,W,MGMT,422,,001,Project Management,Norine Webster;Tharindu Hewa Godella Waththage;Tharindu Prbatha Hewa Godella Waththage,27,81.148148148,5.446973074,90.0,67.0,,,,,,,,6,9,7,
+UBCO,2018,W,MGMT,422,,OVERALL,Project Management,,27,81.148148148,5.446973074,90.0,67.0,,,,,,,,6,9,7,
 UBCO,2018,W,MGMT,423,,001,E-Commerce,Alexandra Roussel;Birgit Weischedel;Camilo Pena,53,82.547169811,12.749911067000001,93.0,0.0,,,,,,,,,15,24,6
+UBCO,2018,W,MGMT,423,,OVERALL,E-Commerce,,53,82.547169811,12.749911067000001,93.0,0.0,,,,,,,,,15,24,6
 UBCO,2018,W,MGMT,424,,001,Enterprise Systems Management,Eric Zvaniga;Shiva Zargar Ershadi,28,73.785714286,11.100073883,87.0,50.0,,,,,,,7,,6,6,
+UBCO,2018,W,MGMT,424,,OVERALL,Enterprise Systems Management,,28,73.785714286,11.100073883,87.0,50.0,,,,,,,7,,6,6,
 UBCO,2018,W,MGMT,425,,101,Strategies in Entrepreneurial Technology,Barbara Marcolin,58,84.017241379,4.992947234,94.0,72.0,,,,,,,5,6,15,26,6
+UBCO,2018,W,MGMT,425,,OVERALL,Strategies in Entrepreneurial Technology,,58,84.017241379,4.992947234,94.0,72.0,,,,,,,5,6,15,26,6
 UBCO,2018,W,MGMT,435,,101,Risk Management,Graham Brown;John D Henderson;John Henderson;Mike Chiasson;Nathan Pelletier;Patricia Corner,25,81.52,5.568662317,94.0,72.0,,,,,,,,10,,7,
+UBCO,2018,W,MGMT,435,,OVERALL,Risk Management,,25,81.52,5.568662317,94.0,72.0,,,,,,,,10,,7,
 UBCO,2018,W,MGMT,436,,101,Investments,Craig Meadows;John D Henderson;John Henderson;John Whitehead;Romi Jain,62,78.983870968,6.722831018,91.0,62.0,,,,,,,12,12,17,10,
+UBCO,2018,W,MGMT,436,,OVERALL,Investments,,62,78.983870968,6.722831018,91.0,62.0,,,,,,,12,12,17,10,
 UBCO,2018,W,MGMT,437,,001,Intermediate Finance,Jana Martin;Romi Jain,65,81.553846154,9.645320707,97.0,52.0,,,,,,,6,6,18,13,13
+UBCO,2018,W,MGMT,437,,OVERALL,Intermediate Finance,,65,81.553846154,9.645320707,97.0,52.0,,,,,,,6,6,18,13,13
 UBCO,2018,W,MGMT,438,,101,Capital Asset Budgeting,Connie Raddatz;Jana Martin;Romi Jain,33,77.96969697,10.468658129,95.0,53.0,,,,,,,,,7,6,
-UBCO,2018,W,MGMT,440,,001,"Brands, Culture, and Marketing",Annamma Joy;Camilo Pena;Craig Meadows,60,79.266666667,6.566134654,89.0,42.0,,,,,,,6,17,29,6,
+UBCO,2018,W,MGMT,438,,OVERALL,Capital Asset Budgeting,,33,77.96969697,10.468658129,95.0,53.0,,,,,,,,,7,6,
+UBCO,2018,W,MGMT,440,,001,"Brands, Culture, and Marketing",Annamma Joy;Camilo Pena;Craig Meadows,61,79.245901639,6.513206424,89.0,42.0,,,,,,,6,18,29,6,
+UBCO,2018,W,MGMT,440,,OVERALL,"Brands, Culture, and Marketing",,61,79.245901639,6.513206424,89.0,42.0,,,,,,,6,18,29,6,
 UBCO,2018,W,MGMT,441,,001,Marketing Strategy,Alexandra Roussel;Annamma Joy;Birgit Weischedel;Camilo Pena;Ying Zhu,70,80.071428571,7.483937251,93.0,53.0,,,,,,,6,11,25,15,
+UBCO,2018,W,MGMT,441,,OVERALL,Marketing Strategy,,70,80.071428571,7.483937251,93.0,53.0,,,,,,,6,11,25,15,
 UBCO,2018,W,MGMT,442,,001,Consumer Behaviour,Birgit Weischedel;Victoria Scotney;Ying Zhu,63,81.26984127,8.697805339,92.0,50.0,,,,,,,,7,19,22,5
+UBCO,2018,W,MGMT,442,,OVERALL,Consumer Behaviour,,63,81.26984127,8.697805339,92.0,50.0,,,,,,,,7,19,22,5
 UBCO,2018,W,MGMT,443,,101,New Product and Service Development,Norine Webster,43,77.41860465100001,5.749668968,87.0,58.0,,,,,,5,7,11,16,,
+UBCO,2018,W,MGMT,443,,OVERALL,New Product and Service Development,,43,77.41860465100001,5.749668968,87.0,58.0,,,,,,5,7,11,16,,
 UBCO,2018,W,MGMT,450,,001,Entrepreneurship and the Smaller Firm,Anber Rana;Patricia Corner,70,84.942857143,5.605084944,95.0,54.0,,,,,,,,7,21,29,12
-UBCO,2018,W,MGMT,480,,001,Law and Business,Monic Pratch,35,75.514285714,9.656973793999999,95.0,51.0,,,,,,7,6,,8,,
-UBCO,2018,W,MGMT,480,,101,Law and Business,Monic Pratch,69,81.347826087,10.157330136,100.0,54.0,,,,,,5,,9,19,8,18
+UBCO,2018,W,MGMT,450,,OVERALL,Entrepreneurship and the Smaller Firm,,70,84.942857143,5.605084944,95.0,54.0,,,,,,,,7,21,29,12
+UBCO,2018,W,MGMT,480,,001,Law and Business,Monic Pratch,35,75.514285714,9.656973793999999,95.0,51.0,,,,,,7,6,3,8,2,3
+UBCO,2018,W,MGMT,480,,101,Law and Business,Monic Pratch,69,81.347826087,10.157330136,100.0,54.0,,,,,,5,3,9,19,8,18
+UBCO,2018,W,MGMT,480,,OVERALL,Law and Business,,104,79.384615385,10.323230183,100.0,51.0,,,,5,5,12,9,12,27,10,21
 UBCO,2018,W,MGMT,481,,001,Strategy and Change Management,Norine Webster,28,74.535714286,11.21666136,89.0,38.0,,,,,,5,,,5,6,
+UBCO,2018,W,MGMT,481,,OVERALL,Strategy and Change Management,,28,74.535714286,11.21666136,89.0,38.0,,,,,,5,,,5,6,
 UBCO,2018,W,MGMT,482,,101,International Business,Arjun Bhardwaj;Camilo Pena,45,79.577777778,5.6063636279999995,86.0,60.0,,,,,,,6,9,19,8,
+UBCO,2018,W,MGMT,482,,OVERALL,International Business,,45,79.577777778,5.6063636279999995,86.0,60.0,,,,,,,6,9,19,8,
 UBCO,2018,W,MGMT,490,,001,Capstone Service Learning and Consulting,David Jenkins;Greg Ruetz;Russel Fields,102,84.156862745,4.0289671380000005,92.0,74.0,,,,,,,5,7,39,46,5
-UBCO,2018,W,MGMT,490,,101,Capstone Service Learning and Consulting,David Jenkins;Greg Ruetz;Russel Fields,70,84.828571429,4.904808137,94.0,76.0,,,,,,,,13,19,22,16
+UBCO,2018,W,MGMT,490,,101,Capstone Service Learning and Consulting,David Jenkins;Greg Ruetz;Russel Fields,70,84.828571429,4.904808137,94.0,76.0,,,,,,,0,13,19,22,16
+UBCO,2018,W,MGMT,490,,OVERALL,Capstone Service Learning and Consulting,,172,84.430232558,4.405049462,94.0,74.0,,,,,,,5,20,58,68,21

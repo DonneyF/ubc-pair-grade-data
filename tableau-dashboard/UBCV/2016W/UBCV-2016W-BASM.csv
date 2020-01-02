@@ -1,11 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,BASM,501,,001,Business Strategy,Jennifer Brown;Kathryn Lipinski,45,83.15555555600001,6.255744834,94.0,62.0,,,,,,,5,,12,18,5
 UBCV,2016,W,BASM,501,,002,Business Strategy,Jennifer Brown;Kathryn Lipinski,43,83.465116279,5.270532806,91.0,68.0,,,,,,,,5,15,12,8
-UBCV,2016,W,BASM,501,,300,Business Strategy,Perdip Atwal,37,83.351351351,2.518996893,90.0,80.0,,,,,,,,,22,14,
+UBCV,2016,W,BASM,501,,300,Business Strategy,Perdip Atwal,37,83.351351351,2.518996893,90.0,80.0,,,,,,,,,22,14,1
+UBCV,2016,W,BASM,501,,OVERALL,Business Strategy,,125,83.32,5.01545997,94.0,62.0,,,,,,,7,8,49,44,14
 UBCV,2016,W,BASM,502,,001,Corporate Strategy,Jennifer Brown;Kathryn Lipinski,40,81.575,6.258891112000001,92.0,58.0,,,,,,,,6,15,14,
 UBCV,2016,W,BASM,502,,002,Corporate Strategy,Jennifer Brown;Kathryn Lipinski,29,81.310344828,6.803903545,91.0,70.0,,,,,,,5,,6,8,
 UBCV,2016,W,BASM,502,,300,Corporate Strategy,Jennifer Brown;Perdip Atwal,37,83.351351351,2.518996893,90.0,80.0,,,,,,,,,22,14,
+UBCV,2016,W,BASM,502,,OVERALL,Corporate Strategy,,106,82.12264150899999,5.468007088999999,92.0,58.0,,,,,,,7,9,43,36,6
 UBCV,2016,W,BASM,523,,001,Management Consulting and Corporate Decision Support,Philippe Arrata,43,79.348837209,4.800216865,91.0,72.0,,,,,,,15,5,14,8,
+UBCV,2016,W,BASM,523,,OVERALL,Management Consulting and Corporate Decision Support,,43,79.348837209,4.800216865,91.0,72.0,,,,,,,15,5,14,8,
 UBCV,2016,W,BASM,530,,301,International Trading Environment,Werner Antweiler,41,82.073170732,2.814162788,87.0,76.0,,,,,,,,6,26,9,
+UBCV,2016,W,BASM,530,,OVERALL,International Trading Environment,,41,82.073170732,2.814162788,87.0,76.0,,,,,,,,6,26,9,
 UBCV,2016,W,BASM,550,,MM1,Strategic Management,Navid Siami;Steven Minns,54,81.37037037,5.440228547999999,96.0,68.0,,,,,,,,12,21,11,
+UBCV,2016,W,BASM,550,,OVERALL,Strategic Management,,54,81.37037037,5.440228547999999,96.0,68.0,,,,,,,,12,21,11,
 UBCV,2016,W,BASM,580,B,001,Topics in Strategic Management,Philippe Arrata,46,84.847826087,4.237228608000001,91.0,70.0,,,,,,,,,15,22,7
+UBCV,2016,W,BASM,580,B,OVERALL,Topics in Strategic Management,,46,84.847826087,4.237228608000001,91.0,70.0,,,,,,,,,15,22,7

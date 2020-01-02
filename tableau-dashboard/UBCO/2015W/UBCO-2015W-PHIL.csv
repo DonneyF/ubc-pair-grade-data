@@ -1,24 +1,43 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2015,W,PHIL,111,,001,Introduction to Philosophy I,Antonio Fadda;Ruth Lowe-Walker,56,72.75,18.864348289000002,94.0,0.0,5,,,,,,14,10,12,5,
-UBCO,2015,W,PHIL,111,,002,Introduction to Philosophy I,Antonio Fadda;Ruth Lowe-Walker,54,70.462962963,19.233140584,87.0,0.0,,,,,,8,9,10,10,6,
-UBCO,2015,W,PHIL,111,,003,Introduction to Philosophy I,James Robinson,61,67.163934426,17.2975724,89.0,0.0,6,,7,5,,9,10,,10,6,
+UBCO,2015,W,PHIL,111,,001,Introduction to Philosophy I,Antonio Fadda;Ruth Lowe-Walker,56,72.75,18.864348289000002,94.0,0.0,5,,,,,2,14,10,12,5,
+UBCO,2015,W,PHIL,111,,002,Introduction to Philosophy I,Antonio Fadda;Ruth Lowe-Walker,54,70.462962963,19.233140584,87.0,0.0,4,,,,,8,9,10,10,6,
+UBCO,2015,W,PHIL,111,,003,Introduction to Philosophy I,James Robinson,61,67.163934426,17.2975724,89.0,0.0,6,,7,5,,9,10,4,10,6,
+UBCO,2015,W,PHIL,111,,OVERALL,Introduction to Philosophy I,,171,70.03508771899999,18.479844262,94.0,0.0,15,5,7,8,7,19,33,24,32,17,4.0
 UBCO,2015,W,PHIL,120,,001,Introduction to Logic and Critical Thinking,Giovanni Grandi;Jeevan Ahuja,117,69.794871795,16.782348312,99.0,12.0,10,11,13,9,8,8,11,8,13,12,14
 UBCO,2015,W,PHIL,120,,102,Introduction to Logic and Critical Thinking,Giovanni Grandi;Jeevan Ahuja,125,68.6,20.704526543,100.0,0.0,18,9,11,9,7,12,5,12,14,5,23
-UBCO,2015,W,PHIL,121,,001,Introduction to Philosophy II,Thomas Ryder,36,67.361111111,19.02352345,91.0,18.0,,5,,,,,,5,,,5
-UBCO,2015,W,PHIL,121,,002,Introduction to Philosophy II,Andrew Irvine,46,65.847826087,19.458180104,92.0,0.0,6,,,6,,7,6,6,5,,
+UBCO,2015,W,PHIL,120,,OVERALL,Introduction to Logic and Critical Thinking,,242,69.17768595,18.880862504,100.0,0.0,28,20,24,18,15,20,16,20,27,17,37
+UBCO,2015,W,PHIL,121,,001,Introduction to Philosophy II,Thomas Ryder,36,67.361111111,19.02352345,91.0,18.0,4,5,,1,,2,1,5,4,,5
+UBCO,2015,W,PHIL,121,,002,Introduction to Philosophy II,Andrew Irvine,46,65.847826087,19.458180104,92.0,0.0,6,0,,6,,7,6,6,5,,1
+UBCO,2015,W,PHIL,121,,OVERALL,Introduction to Philosophy II,,82,66.512195122,19.164810797,92.0,0.0,10,5,7,7,6,9,7,11,9,5,6
 UBCO,2015,W,PHIL,210,,001,Introduction to Social and Political Philosophy,Ruth Lowe-Walker,24,76.916666667,13.840446922,87.0,20.0,,,,,,,,,7,7,
+UBCO,2015,W,PHIL,210,,OVERALL,Introduction to Social and Political Philosophy,,24,76.916666667,13.840446922,87.0,20.0,,,,,,,,,7,7,
 UBCO,2015,W,PHIL,220,,001,Symbolic Logic I,Josef Zagrodney;Wolfgang Holger Andreas,26,71.26923076899999,19.77585941,98.0,24.0,,,,,,,,,,,6
+UBCO,2015,W,PHIL,220,,OVERALL,Symbolic Logic I,,26,71.26923076899999,19.77585941,98.0,24.0,,,,,,,,,,,6
 UBCO,2015,W,PHIL,230,,001,Ethics,James Robinson,56,68.232142857,12.816170285,90.0,22.0,,,,,8,12,6,9,,,
+UBCO,2015,W,PHIL,230,,OVERALL,Ethics,,56,68.232142857,12.816170285,90.0,22.0,,,,,8,12,6,9,,,
 UBCO,2015,W,PHIL,233,,001,Biomedical Ethics,Antonio Fadda;Ruth Lowe-Walker,120,81.458333333,4.348081453,90.0,70.0,,,,,,,7,28,50,31,
+UBCO,2015,W,PHIL,233,,OVERALL,Biomedical Ethics,,120,81.458333333,4.348081453,90.0,70.0,,,,,,,7,28,50,31,
 UBCO,2015,W,PHIL,245,,001,Introduction to Metaphysics,Wolfgang Holger Andreas,19,63.684210526,26.570770556,96.0,0.0,,,,,,,,,,,
+UBCO,2015,W,PHIL,245,,OVERALL,Introduction to Metaphysics,,19,63.684210526,26.570770556,96.0,0.0,,,,,,,,,,,
 UBCO,2015,W,PHIL,310,,001,The Philosophy of Plato,James Robinson,25,60.16,20.959643763,93.0,0.0,5,,,,,,,,,,
+UBCO,2015,W,PHIL,310,,OVERALL,The Philosophy of Plato,,25,60.16,20.959643763,93.0,0.0,5,,,,,,,,,,
 UBCO,2015,W,PHIL,314,,001,Philosophy in the 17th Century,Giovanni Grandi,40,65.475,16.568409081,92.0,0.0,,5,,5,,,,,,,
+UBCO,2015,W,PHIL,314,,OVERALL,Philosophy in the 17th Century,,40,65.475,16.568409081,92.0,0.0,,5,,5,,,,,,,
 UBCO,2015,W,PHIL,331,,001,Computer Ethics,Ruth Lowe-Walker,40,78.05,15.00418745,89.0,0.0,,,,,,,,5,17,10,
+UBCO,2015,W,PHIL,331,,OVERALL,Computer Ethics,,40,78.05,15.00418745,89.0,0.0,,,,,,,,5,17,10,
 UBCO,2015,W,PHIL,338,,001,Philosophy of Law,Andrew Irvine,36,77.0,8.535639569,92.0,55.0,,,,,,6,,,13,,
+UBCO,2015,W,PHIL,338,,OVERALL,Philosophy of Law,,36,77.0,8.535639569,92.0,55.0,,,,,,6,,,13,,
 UBCO,2015,W,PHIL,345,,001,Theory of Knowledge,Manuela Ungureanu,38,64.65789473699999,22.346505036,88.0,0.0,,,,,5,5,,5,6,,
+UBCO,2015,W,PHIL,345,,OVERALL,Theory of Knowledge,,38,64.65789473699999,22.346505036,88.0,0.0,,,,,5,5,,5,6,,
 UBCO,2015,W,PHIL,425,,001,Philosophy of Language,Manuela Ungureanu,20,63.4,11.726712646,76.0,33.0,,,,,,7,,,,,
+UBCO,2015,W,PHIL,425,,OVERALL,Philosophy of Language,,20,63.4,11.726712646,76.0,33.0,,,,,,7,,,,,
 UBCO,2015,W,PHIL,434,,001,Business Ethics,Giovanni Grandi,35,73.742857143,13.390828418,95.0,19.0,,,,,,6,,6,8,,
+UBCO,2015,W,PHIL,434,,OVERALL,Business Ethics,,35,73.742857143,13.390828418,95.0,19.0,,,,,,6,,6,8,,
 UBCO,2015,W,PHIL,435,,001,Environmental Ethics,James Robinson,35,70.142857143,14.276972115,92.0,44.0,,,,,,,,,6,,
+UBCO,2015,W,PHIL,435,,OVERALL,Environmental Ethics,,35,70.142857143,14.276972115,92.0,44.0,,,,,,,,,6,,
 UBCO,2015,W,PHIL,446,,001,Philosophy of Psychology,Thomas Ryder,38,72.55263157899999,15.860365983,95.0,7.0,,,,,5,,7,6,,,5
+UBCO,2015,W,PHIL,446,,OVERALL,Philosophy of Psychology,,38,72.55263157899999,15.860365983,95.0,7.0,,,,,5,,7,6,,,5
 UBCO,2015,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,28,76.035714286,18.464143716,100.0,28.0,,,,,,,,,,,9
+UBCO,2015,W,PHIL,460,,OVERALL,Philosophy of Science,,28,76.035714286,18.464143716,100.0,28.0,,,,,,,,,,,9
 UBCO,2015,W,PHIL,469,,001,Topics in Philosophy of Science,Wolfgang Holger Andreas,9,81.333333333,14.688430822,97.0,58.0,,,,,,,,,,,
+UBCO,2015,W,PHIL,469,,OVERALL,Topics in Philosophy of Science,,9,81.333333333,14.688430822,97.0,58.0,,,,,,,,,,,

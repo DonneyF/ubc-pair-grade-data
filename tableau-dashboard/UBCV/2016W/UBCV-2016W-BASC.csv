@@ -1,13 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,BASC,500,,001,Process Fundamentals,Harish Krishnan;Robert Macadams,36,81.888888889,3.830537283,88.0,74.0,,,,,,,,7,16,11,
-UBCV,2016,W,BASC,500,,002,Process Fundamentals,Harish Krishnan;Robert Macadams,24,81.0,3.007237646,87.0,76.0,,,,,,,,8,13,,
-UBCV,2016,W,BASC,500,,816,Process Fundamentals,Woonghee Tim Huh,33,85.151515152,2.463752373,90.0,80.0,,,,,,,,,10,22,
+UBCV,2016,W,BASC,500,,002,Process Fundamentals,Harish Krishnan;Robert Macadams,24,81.0,3.007237646,87.0,76.0,,,,,,,,8,13,3,
+UBCV,2016,W,BASC,500,,816,Process Fundamentals,Woonghee Tim Huh,33,85.151515152,2.463752373,90.0,80.0,,,,,,,,0,10,22,
+UBCV,2016,W,BASC,500,,OVERALL,Process Fundamentals,,93,82.817204301,3.620431864,90.0,74.0,,,,,,,,15,39,36,
 UBCV,2016,W,BASC,523,,001,Supply Chain Management,Harish Krishnan;Robert Macadams,40,81.3,2.7287641610000004,88.0,76.0,,,,,,,,12,21,7,
 UBCV,2016,W,BASC,523,,002,Supply Chain Management,Harish Krishnan;Robert Macadams,11,81.272727273,3.22772084,86.0,77.0,,,,,,,,5,,,
 UBCV,2016,W,BASC,523,,302,Supply Chain Management,Harish Krishnan;Robert Macadams,28,81.142857143,4.688159125,86.0,60.0,,,,,,,,,20,,
 UBCV,2016,W,BASC,523,,MM1,Supply Chain Management,Lifei Sheng;Mahesh Nagarajan,54,68.555555556,5.961089766000001,85.0,60.0,,,,14,,19,12,,,,
+UBCV,2016,W,BASC,523,,OVERALL,Supply Chain Management,,133,76.090225564,7.800989298999999,88.0,60.0,,,,15,,19,12,24,45,14,
 UBCV,2016,W,BASC,524,,001,Supply Chain Analytics,Gregory Werker;Yiming Wang,41,85.12195122,3.925526219,93.0,76.0,,,,,,,,,13,19,6
+UBCV,2016,W,BASC,524,,OVERALL,Supply Chain Analytics,,41,85.12195122,3.925526219,93.0,76.0,,,,,,,,,13,19,6
 UBCV,2016,W,BASC,550,,001,Operations and Logistics,Gregory Werker;Visweshwar Chandrasekar,49,83.571428571,6.487166819,95.0,66.0,,,,,,,,10,13,12,10
 UBCV,2016,W,BASC,550,,002,Operations and Logistics,Gregory Werker;Visweshwar Chandrasekar,50,82.22,6.932002096000001,96.0,66.0,,,,,,,,11,15,9,8
-UBCV,2016,W,BASC,550,,300,Operations and Logistics,Gregory Werker;Visweshwar Chandrasekar,37,83.540540541,7.946328973,95.0,67.0,,,,,,5,,,5,12,10
-UBCV,2016,W,BASC,550,,816,Operations and Logistics,Mahesh Nagarajan;Mona Imanpoor Yourdshahy,34,78.941176471,7.083660997000001,96.0,62.0,,,,,,,7,8,10,,
+UBCV,2016,W,BASC,550,,300,Operations and Logistics,Gregory Werker;Visweshwar Chandrasekar,37,83.540540541,7.946328973,95.0,67.0,,,,,,5,,3,5,12,10
+UBCV,2016,W,BASC,550,,816,Operations and Logistics,Mahesh Nagarajan;Mona Imanpoor Yourdshahy,34,78.941176471,7.083660997000001,96.0,62.0,,,,,,,7,8,10,2,3
+UBCV,2016,W,BASC,550,,OVERALL,Operations and Logistics,,170,82.241176471,7.225493888,96.0,62.0,,,,,,11,14,32,43,35,31

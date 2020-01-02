@@ -1,13 +1,24 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,PHRM,100,,SUP,,,5,66.0,8.888194417000001,73.0,54.0,,,,,,,,,,,
 UBCV,2016,W,PHRM,100,,001,Foundations of Pharmacy,Abby Collier;Adam Frankel;Brian Cairns;Brian Rodrigues;Colleen Brady;Harvey Wong;Jacob Gordon;James Mccormack;Janice Lynn Moshenko;Judy Wong;Katherine Seto;Larry Lynd;Louis Lin;Mark Harrison;Mary Ensom;Nelson Gorrin Morales;Nelson Varhola;Patricia Gerber;Roxane Carr;Shahrzad Salmasi;Shyh-Dar Li;Simon Albon;Siyue Yu;Tim Chen;Tony Seet;Urs Hafeli;Zheng Lin;Zheng Sonia Lin,226,80.898230088,6.176895766,93.0,54.0,5,,,,,7,23,45,84,54,8
+UBCV,2016,W,PHRM,100,,OVERALL,Foundations of Pharmacy,,5,66.0,8.888194417000001,73.0,54.0,5,,,,,7,23,45,84,54,8
+UBCV,2016,W,PHRM,100,,SUP,,,5,66.0,8.888194417000001,73.0,54.0,0,,,,,0,0,0,0,0,0
 UBCV,2016,W,PHRM,111,,001,Medication Management I,Adam Frankel;Ana Kopernikou;Arden Barry;Brian Cairns;Brian Rodrigues;Christine Khurana;Colleen Brady;David Grierson;Davide Massaro;Fawziah Lalji;Fong Chan;Fulong Wang;Hilary Watson;Ingrid Price;James Mccormack;Janice Lynn Moshenko;Judy Wong;Katherine Seto;Louis Lin;Nirma Vadlamudi;Patricia Gerber;Penelope Miller;Peter Shane Loewen;Peter Soja;Peter Zed;Roxane Carr;Shenglong Zou;Siyue Yu;Tara Klassen;Tim Chen;Tony Seet;Ujendra Kumar;Urs Hafeli;Vaughn Chauvin,226,80.225663717,6.321564907999999,92.0,27.0,,,,,,9,34,45,79,55,
+UBCV,2016,W,PHRM,111,,OVERALL,Medication Management I,,226,80.225663717,6.321564907999999,92.0,27.0,,,,,,9,34,45,79,55,
 UBCV,2016,W,PHRM,131,,001,Study Design and Interpretation I,Jennifer Brown;Marc Levine,224,86.57589285700001,6.687351632,96.0,27.0,,,,,,,,12,42,86,76
+UBCV,2016,W,PHRM,131,,OVERALL,Study Design and Interpretation I,,224,86.57589285700001,6.687351632,96.0,27.0,,,,,,,,12,42,86,76
 UBCV,2016,W,PHRM,141,,001,Seminar: Pharmacists in Practice I,Larry Leung;Mohamed Wehbe,221,95.615384615,3.241988512,99.0,78.0,,,,,,,,,,9,209
+UBCV,2016,W,PHRM,141,,OVERALL,Seminar: Pharmacists in Practice I,,221,95.615384615,3.241988512,99.0,78.0,,,,,,,,,,9,209
 UBCV,2016,W,PHRM,161,,001,Technology in Healthcare,Jason Min;Jialin Xu,220,89.790909091,6.110243595,98.0,30.0,,,,,,,,7,11,64,135
+UBCV,2016,W,PHRM,161,,OVERALL,Technology in Healthcare,,220,89.790909091,6.110243595,98.0,30.0,,,,,,,,7,11,64,135
 UBCV,2016,W,PHRM,211,,001,Medication Management II,Adam Frankel;Angela Kim-Sing;Arden Barry;Arun Verma;Brian Rodrigues;Charles Park;Colleen Brady;Davide Massaro;Fawziah Lalji;Fong Chan;Fulong Wang;Hilary Watson;Ingrid Price;James Mccormack;Janice Lynn Moshenko;Karen Dahri;Katherine Seto;Lynda Eccott;Marysol Garcia Patino;Michelle Fischer;Patricia Gerber;Peter Shane Loewen;Peter Zed;Roxane Carr;Shenglong Zou;Tamiz Jamal Kanji;Tara Klassen;Tim Chen;Yang Yang;Ying Gong,204,80.166666667,5.518590763,92.0,68.0,,,,,,14,29,55,58,43,5
+UBCV,2016,W,PHRM,211,,OVERALL,Medication Management II,,204,80.166666667,5.518590763,92.0,68.0,,,,,,14,29,55,58,43,5
 UBCV,2016,W,PHRM,212,,001,Medication Management III,Adam Frankel;Angela Kim-Sing;Arun Verma;Brian Rodrigues;Charles Park;Colleen Brady;Davide Massaro;Fong Chan;Jacob Gordon;James Mccormack;Jonathon Campbell;Katherine Seto;Kathleen Macleod;Marysol Garcia Patino;Nelson Gorrin Morales;Nelson Varhola;Patricia Gerber;Peter Shane Loewen;Peter Soja;Shahrzad Salmasi;Tamiz Jamal Kanji;Tara Klassen;Tessa Nicholl;Tim Chen;Tony Seet;Vaughn Chauvin;Ying Gong;Zheng Lin;Zheng Sonia Lin,204,78.156862745,5.5597871770000005,91.0,64.0,,,,,,25,36,58,55,23,
+UBCV,2016,W,PHRM,212,,OVERALL,Medication Management III,,204,78.156862745,5.5597871770000005,91.0,64.0,,,,,,25,36,58,55,23,
 UBCV,2016,W,PHRM,221,,001,Nutrition for Pharmacists,Hilary Watson;Jose Lopez De La Vega,205,82.268292683,6.647365652,97.0,60.0,,,,,,7,21,34,55,57,26
+UBCV,2016,W,PHRM,221,,OVERALL,Nutrition for Pharmacists,,205,82.268292683,6.647365652,97.0,60.0,,,,,,7,21,34,55,57,26
 UBCV,2016,W,PHRM,231,,001,Study Design and Interpretation II,Ana Kopernikou;James Mccormack;Mohamed Wehbe;Mohsen Sadatsafavi;Shenglong Zou,204,77.593137255,4.579473582,88.0,58.0,,,,,,18,37,72,63,9,
+UBCV,2016,W,PHRM,231,,OVERALL,Study Design and Interpretation II,,204,77.593137255,4.579473582,88.0,58.0,,,,,,18,37,72,63,9,
 UBCV,2016,W,PHRM,241,,001,Seminar: Pharmacists in Practice II,Harparkash Ragsdale;Judith Soon;Mohamed Wehbe;Nirma Khatri Vadlamudi;Nirma Vadlamudi,205,86.84878048799999,3.6664297130000003,94.0,74.0,,,,,,,,6,47,97,54
+UBCV,2016,W,PHRM,241,,OVERALL,Seminar: Pharmacists in Practice II,,205,86.84878048799999,3.6664297130000003,94.0,74.0,,,,,,,,6,47,97,54
 UBCV,2016,W,PHRM,251,,001,Institutional Practice Skills,Aileen Mira;Fong Chan,205,88.736585366,5.057403624,99.0,70.0,,,,,,,,9,24,67,101
+UBCV,2016,W,PHRM,251,,OVERALL,Institutional Practice Skills,,205,88.736585366,5.057403624,99.0,70.0,,,,,,,,9,24,67,101

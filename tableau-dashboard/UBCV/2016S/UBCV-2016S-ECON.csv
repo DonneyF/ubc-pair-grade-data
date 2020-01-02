@@ -1,20 +1,34 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,ECON,101,,921,Principles of Microeconomics,Karl Holaubeck;Robert G Gateman;Robert Gateman;Yue Yu,155,66.55483871,14.832021315999999,91.0,0.0,9,9,18,16,23,23,18,13,16,,6
-UBCV,2016,S,ECON,101,,922,Principles of Microeconomics,Mathieu Galliot;Ratna Shrestha;Tuong Bao Kim Nguyen,115,71.165217391,15.241868947999999,98.0,2.0,,11,12,10,5,11,16,11,17,5,14
-UBCV,2016,S,ECON,101,,923,Principles of Microeconomics,Cheryl Roberts;Zachary Glazier,92,74.086956522,15.173467425,97.0,36.0,7,,7,,,12,10,10,10,15,12
+UBCV,2016,S,ECON,101,,921,Principles of Microeconomics,Karl Holaubeck;Robert G Gateman;Robert Gateman;Yue Yu,155,66.55483871,14.832021315999999,91.0,0.0,9,9,18,16,23,23,18,13,16,4.0,6
+UBCV,2016,S,ECON,101,,922,Principles of Microeconomics,Mathieu Galliot;Ratna Shrestha;Tuong Bao Kim Nguyen,115,71.165217391,15.241868947999999,98.0,2.0,3.0,11,12,10,5,11,16,11,17,5,14
+UBCV,2016,S,ECON,101,,923,Principles of Microeconomics,Cheryl Roberts;Zachary Glazier,92,74.086956522,15.173467425,97.0,36.0,7,4,7,2,3,12,10,10,10,15,12
+UBCV,2016,S,ECON,101,,OVERALL,Principles of Microeconomics,,362,69.933701657,15.330559783,98.0,0.0,19,24,37,28,31,46,44,34,43,24,32
 UBCV,2016,S,ECON,102,,921,Principles of Macroeconomics,Iain Snoddy;Shubo Zhang;Wai-Ching Alfred Kong,168,68.738095238,17.885275815,100.0,0.0,17,20,12,13,15,16,10,13,17,17,18
-UBCV,2016,S,ECON,102,,922,Principles of Macroeconomics,Hector Rode Arreola;Rebecca Burgess;Robert G Gateman;Robert Gateman,74,66.783783784,17.117058919,90.0,0.0,10,,,8,8,13,9,,8,7,
-UBCV,2016,S,ECON,102,,923,Principles of Macroeconomics,Cheryl Roberts;Michal Staszewski,90,81.111111111,12.556787362,100.0,35.0,,,,,6,,8,14,12,14,27
+UBCV,2016,S,ECON,102,,922,Principles of Macroeconomics,Hector Rode Arreola;Rebecca Burgess;Robert G Gateman;Robert Gateman,74,66.783783784,17.117058919,90.0,0.0,10,,,8,8,13,9,4,8,7,2
+UBCV,2016,S,ECON,102,,923,Principles of Macroeconomics,Cheryl Roberts;Michal Staszewski,90,81.111111111,12.556787362,100.0,35.0,2,,,2,6,2,8,14,12,14,27
+UBCV,2016,S,ECON,102,,OVERALL,Principles of Macroeconomics,,332,71.65662650600001,17.387954248,100.0,0.0,29,24,16,23,29,31,27,31,37,38,47
 UBCV,2016,S,ECON,301,,921,Intermediate Microeconomic Analysis I,Michael Vaney;Xiaodi Ni,79,68.683544304,15.970761991,96.0,0.0,,8,7,6,9,5,11,9,9,7,
+UBCV,2016,S,ECON,301,,OVERALL,Intermediate Microeconomic Analysis I,,79,68.683544304,15.970761991,96.0,0.0,,8,7,6,9,5,11,9,9,7,
 UBCV,2016,S,ECON,302,,921,Intermediate Macroeconomic Analysis I,Mengying Wei;Wai-Ching Alfred Kong,97,70.659793814,14.414898685999999,99.0,0.0,7,,5,9,8,17,11,11,14,8,
+UBCV,2016,S,ECON,302,,OVERALL,Intermediate Macroeconomic Analysis I,,97,70.659793814,14.414898685999999,99.0,0.0,7,,5,9,8,17,11,11,14,8,
 UBCV,2016,S,ECON,325,,921,Introduction to Empirical Economics,Anujit Chakraborty;Diana Whistler,93,77.548387097,14.245911793,98.0,27.0,5,,,,,,8,11,23,12,20
-UBCV,2016,S,ECON,326,,921,Methods of Empirical Research in Economics,Diana Whistler;Jutong Pan,110,71.26363636399999,13.786496034,96.0,32.0,7,8,9,,9,12,13,8,19,12,9
+UBCV,2016,S,ECON,325,,OVERALL,Introduction to Empirical Economics,,93,77.548387097,14.245911793,98.0,27.0,5,,,,,,8,11,23,12,20
+UBCV,2016,S,ECON,326,,921,Methods of Empirical Research in Economics,Diana Whistler;Jutong Pan,110,71.26363636399999,13.786496034,96.0,32.0,7,8,9,4.0,9,12,13,8,19,12,9
+UBCV,2016,S,ECON,326,,OVERALL,Methods of Empirical Research in Economics,,110,71.26363636399999,13.786496034,96.0,32.0,7,8,9,4.0,9,12,13,8,19,12,9
 UBCV,2016,S,ECON,345,,921,Money and Banking,Geoffrey Newman;Tsengunn Enkhbaatar,93,71.40860215100001,12.752013105,96.0,23.0,,5,,10,9,17,8,10,10,10,7
+UBCV,2016,S,ECON,345,,OVERALL,Money and Banking,,93,71.40860215100001,12.752013105,96.0,23.0,,5,,10,9,17,8,10,10,10,7
 UBCV,2016,S,ECON,351,,921,Women in the Economy,Marina Adshade;Timea Laura Molnar;Timea Molnar,75,70.64,10.421702927,91.0,42.0,,,7,12,7,9,11,5,15,,
-UBCV,2016,S,ECON,355,,921,Introduction to International Trade,Alastair Fraser;Michael Vaney,91,70.43956044,13.359315344,99.0,50.0,,15,7,8,5,11,12,7,13,6,7
+UBCV,2016,S,ECON,351,,OVERALL,Women in the Economy,,75,70.64,10.421702927,91.0,42.0,,,7,12,7,9,11,5,15,,
+UBCV,2016,S,ECON,355,,921,Introduction to International Trade,Alastair Fraser;Michael Vaney,91,70.43956044,13.359315344,99.0,50.0,0.0,15,7,8,5,11,12,7,13,6,7
+UBCV,2016,S,ECON,355,,OVERALL,Introduction to International Trade,,91,70.43956044,13.359315344,99.0,50.0,0.0,15,7,8,5,11,12,7,13,6,7
 UBCV,2016,S,ECON,356,,951,Introduction to International Finance,Da Kang;Geoffrey Newman,97,72.845360825,13.400357742999999,98.0,36.0,,5,,11,6,14,6,12,19,6,11
+UBCV,2016,S,ECON,356,,OVERALL,Introduction to International Finance,,97,72.845360825,13.400357742999999,98.0,36.0,,5,,11,6,14,6,12,19,6,11
 UBCV,2016,S,ECON,456,,951,International Macroeconomics and Finance,Aruni Mitra;Gerald Mcintyre,66,77.363636364,12.144813852,97.0,33.0,,,,,5,,7,8,16,9,11
+UBCV,2016,S,ECON,456,,OVERALL,International Macroeconomics and Finance,,66,77.363636364,12.144813852,97.0,33.0,,,,,5,,7,8,16,9,11
 UBCV,2016,S,ECON,471,,921,Economics of Nonrenewable Resources,Nicolas Franz Pattillo;Ratna Shrestha,96,76.354166667,13.190889333,98.0,36.0,,,6,9,8,9,9,8,18,9,17
+UBCV,2016,S,ECON,471,,OVERALL,Economics of Nonrenewable Resources,,96,76.354166667,13.190889333,98.0,36.0,,,6,9,8,9,9,8,18,9,17
 UBCV,2016,S,ECON,492,A,941,Directed Reading,Catherine Douglas,9,85.333333333,1.224744871,87.0,83.0,,,,,,,,,,8,
+UBCV,2016,S,ECON,492,A,OVERALL,Directed Reading,,9,85.333333333,1.224744871,87.0,83.0,,,,,,,,,,8,
 UBCV,2016,S,ECON,594,,941,Applied Economics,W Erwin Diewert;Ya Wen Liang,24,88.875,7.194880426,100.0,75.0,,,,,,,,,5,6,11
-UBCV,2016,S,ECON,594,,942,Applied Economics,Michael Devereux;Nicolas Franz Pattillo,19,86.63157894700001,6.953899995,95.0,65.0,,,,,,,,,,7,7
+UBCV,2016,S,ECON,594,,942,Applied Economics,Michael Devereux;Nicolas Franz Pattillo,19,86.63157894700001,6.953899995,95.0,65.0,,,,,,,,,4,7,7
+UBCV,2016,S,ECON,594,,OVERALL,Applied Economics,,43,87.88372093,7.09530127,100.0,65.0,,,,,,,,,9,13,18

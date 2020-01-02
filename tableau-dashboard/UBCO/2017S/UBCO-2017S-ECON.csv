@@ -1,8 +1,14 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,S,ECON,101,,001,Principles of Microeconomics,Khan Islam;Tazul Islam,34,69.970588235,20.852273031,97.0,0.0,,,,,,,,,7,,
-UBCO,2017,S,ECON,101,,101,Principles of Microeconomics,Tazul Islam,27,65.185185185,15.830926493,90.0,33.0,5,,,,,,6,,,,
+UBCO,2017,S,ECON,101,,001,Principles of Microeconomics,Khan Islam;Tazul Islam,34,69.970588235,20.852273031,97.0,0.0,2,,,,,,3,,7,,
+UBCO,2017,S,ECON,101,,101,Principles of Microeconomics,Tazul Islam,27,65.185185185,15.830926493,90.0,33.0,5,,,,,,6,,3,,
+UBCO,2017,S,ECON,101,,OVERALL,Principles of Microeconomics,,61,67.852459016,18.801450357,97.0,0.0,7,,,5,5,7,9,,10,,5
 UBCO,2017,S,ECON,102,,001,Principles of Macroeconomics,Karl Pinno;Tazul Islam,33,71.181818182,18.045869585,95.0,0.0,,,,6,,,5,,,5,
+UBCO,2017,S,ECON,102,,OVERALL,Principles of Macroeconomics,,33,71.181818182,18.045869585,95.0,0.0,,,,6,,,5,,,5,
 UBCO,2017,S,ECON,331,,001,World Economy since 1800,Peter Wylie,18,91.555555556,3.203347922,97.0,85.0,,,,,,,,,,,15
+UBCO,2017,S,ECON,331,,OVERALL,World Economy since 1800,,18,91.555555556,3.203347922,97.0,85.0,,,,,,,,,,,15
 UBCO,2017,S,ECON,345,,001,Money and Banking,Khan Islam,32,73.4375,12.409511181,96.0,46.0,,,,,,5,,,,5,
+UBCO,2017,S,ECON,345,,OVERALL,Money and Banking,,32,73.4375,12.409511181,96.0,46.0,,,,,,5,,,,5,
 UBCO,2017,S,ECON,355,,001,International Trade,Karl Pinno;Tazul Islam,28,79.928571429,10.732189627,100.0,56.0,,,,,,,,7,,5,5
+UBCO,2017,S,ECON,355,,OVERALL,International Trade,,28,79.928571429,10.732189627,100.0,56.0,,,,,,,,7,,5,5
 UBCO,2017,S,ECON,358,,001,Competitiveness in the International Economy,Peter Wylie,18,91.833333333,3.129555503,96.0,86.0,,,,,,,,,,,14
+UBCO,2017,S,ECON,358,,OVERALL,Competitiveness in the International Economy,,18,91.833333333,3.129555503,96.0,86.0,,,,,,,,,,,14

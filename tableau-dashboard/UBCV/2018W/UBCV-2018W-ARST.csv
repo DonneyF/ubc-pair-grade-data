@@ -1,23 +1,44 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,ARST,500,,002,Information Technology and Archives,Haemin Kim,17,86.411764706,3.72590297,91.0,78.0,,,,,,,,,,10,
+UBCV,2018,W,ARST,500,,OVERALL,Information Technology and Archives,,17,86.411764706,3.72590297,91.0,78.0,,,,,,,,,,10,
 UBCV,2018,W,ARST,510,,001,Archival Diplomatics,Luciana Duranti,35,81.228571429,8.440399051,92.0,55.0,,,,,,,5,,9,7,8
+UBCV,2018,W,ARST,510,,OVERALL,Archival Diplomatics,,35,81.228571429,8.440399051,92.0,55.0,,,,,,,5,,9,7,8
 UBCV,2018,W,ARST,515,,001,Arrangement and Description of Archives,Jennifer Douglas,34,84.264705882,1.728702851,87.0,80.0,,,,,,,,,17,17,
+UBCV,2018,W,ARST,515,,OVERALL,Arrangement and Description of Archives,,34,84.264705882,1.728702851,87.0,80.0,,,,,,,,,17,17,
 UBCV,2018,W,ARST,516,,001,Management of Current Records,Victoria Lemieux,34,86.235294118,4.299815525,95.0,73.0,,,,,,,,,7,19,6
+UBCV,2018,W,ARST,516,,OVERALL,Management of Current Records,,34,86.235294118,4.299815525,95.0,73.0,,,,,,,,,7,19,6
 UBCV,2018,W,ARST,520,,002,Selection and Acquisition of Archival Documents,Luciana Duranti,29,84.517241379,5.011562983999999,92.0,73.0,,,,,,,,,9,10,6
+UBCV,2018,W,ARST,520,,OVERALL,Selection and Acquisition of Archival Documents,,29,84.517241379,5.011562983999999,92.0,73.0,,,,,,,,,9,10,6
 UBCV,2018,W,ARST,540,,002,Archival Public Services,Jessica Bushey;Lara Mancuso,17,81.0,2.783882181,85.0,72.0,,,,,,,,,13,,
+UBCV,2018,W,ARST,540,,OVERALL,Archival Public Services,,17,81.0,2.783882181,85.0,72.0,,,,,,,,,13,,
 UBCV,2018,W,ARST,545,,002,Advanced Arrangement and Description of Archival Documents,Jennifer Douglas,14,85.642857143,1.215739272,87.0,83.0,,,,,,,,,,11,
+UBCV,2018,W,ARST,545,,OVERALL,Advanced Arrangement and Description of Archival Documents,,14,85.642857143,1.215739272,87.0,83.0,,,,,,,,,,11,
 UBCV,2018,W,ARST,550,,001,Management of Audiovisual and Non-textual Archives,Jana Grazley;Jana Leigh Grazley;Kristy Waller,23,81.652173913,3.5111341819999997,87.0,74.0,,,,,,,,,13,,
+UBCV,2018,W,ARST,550,,OVERALL,Management of Audiovisual and Non-textual Archives,,23,81.652173913,3.5111341819999997,87.0,74.0,,,,,,,,,13,,
 UBCV,2018,W,ARST,554,,002,Database Design,Fereshteh Didegah,8,88.375,3.29230705,91.0,81.0,,,,,,,,,,,
-UBCV,2018,W,ARST,555,,001,The Preservation of Digital Records,Luciana Duranti,21,83.904761905,10.41107469,97.0,44.0,,,,,,,,,6,6,6
+UBCV,2018,W,ARST,554,,OVERALL,Database Design,,12,89.833333333,3.406766885,93.0,81.0,,,,,,,,,,,8
+UBCV,2018,W,ARST,555,,001,The Preservation of Digital Records,Luciana Duranti,21,86.0,5.0,97.0,78.0,,,,,,,,,6,7,6
+UBCV,2018,W,ARST,555,,OVERALL,The Preservation of Digital Records,,21,86.0,5.0,97.0,78.0,,,,,,,,,6,7,6
 UBCV,2018,W,ARST,556,E,001,Topics in Archival Automation,Sarah Patricia Romkey;Sarah Romkey,23,87.260869565,3.968253466,97.0,80.0,,,,,,,,,5,12,6
-UBCV,2018,W,ARST,556,H,002,Topics in Archival Automation,Corinne Rogers,8,72.125,25.295044686999997,88.0,11.0,,,,,,,,,,,
+UBCV,2018,W,ARST,556,E,OVERALL,Topics in Archival Automation,,23,87.260869565,3.968253466,97.0,80.0,,,,,,,,,5,12,6
+UBCV,2018,W,ARST,556,H,002,Topics in Archival Automation,Corinne Rogers,8,81.25,5.574175147,88.0,70.0,,,,,,,,,,,
+UBCV,2018,W,ARST,556,H,OVERALL,Topics in Archival Automation,,8,81.25,5.574175147,88.0,70.0,,,,,,,,,,,
 UBCV,2018,W,ARST,556,P,002,Topics in Archival Automation,Richard Arias Hernandez,7,92.285714286,1.603567451,94.0,90.0,,,,,,,,,,,7
-UBCV,2018,W,ARST,560,,002,Records and Information Governance,Pierluigi Feliciati;Richard Arias Hernandez;Victoria Lemieux,11,85.272727273,6.7095589879999995,91.0,66.0,,,,,,,,,,8,
+UBCV,2018,W,ARST,556,P,OVERALL,Topics in Archival Automation,,7,92.285714286,1.603567451,94.0,90.0,,,,,,,,,,,7
+UBCV,2018,W,ARST,560,,002,Records and Information Governance,Pierluigi Feliciati;Richard Arias Hernandez;Victoria Lemieux,12,84.833333333,6.57589722,91.0,66.0,,,,,,,,,,8,
+UBCV,2018,W,ARST,560,,OVERALL,Records and Information Governance,,12,84.833333333,6.57589722,91.0,66.0,,,,,,,,,,8,
 UBCV,2018,W,ARST,565,,002,Administering Records under Freedom of Information and Protection of Privacy Legislation,Greg Kozak;Robyn Biggar,10,83.0,4.422166387,89.0,75.0,,,,,,,,,,5,
+UBCV,2018,W,ARST,565,,OVERALL,Administering Records under Freedom of Information and Protection of Privacy Legislation,,10,83.0,4.422166387,89.0,75.0,,,,,,,,,,5,
 UBCV,2018,W,ARST,573,,001,Archival Systems and the Profession,Jennifer Douglas,33,85.363636364,3.150577148,89.0,73.0,,,,,,,,,8,24,
+UBCV,2018,W,ARST,573,,OVERALL,Archival Systems and the Profession,,33,85.363636364,3.150577148,89.0,73.0,,,,,,,,,8,24,
 UBCV,2018,W,ARST,575,H,001,Topics in the Management of Records,Victoria Lemieux,7,76.857142857,22.99585884,93.0,26.0,,,,,,,,,,,
+UBCV,2018,W,ARST,575,H,OVERALL,Topics in the Management of Records,,7,76.857142857,22.99585884,93.0,26.0,,,,,,,,,,,
 UBCV,2018,W,ARST,575,J,002,Topics in the Management of Records,Victoria Lemieux,12,82.666666667,4.618802154,92.0,76.0,,,,,,,,,5,,
+UBCV,2018,W,ARST,575,J,OVERALL,Topics in the Management of Records,,12,82.666666667,4.618802154,92.0,76.0,,,,,,,,,5,,
 UBCV,2018,W,ARST,575,K,002,Topics in the Management of Records,Jennifer Douglas,22,87.0,2.246690688,90.0,82.0,,,,,,,,,,16,
+UBCV,2018,W,ARST,575,K,OVERALL,Topics in the Management of Records,,22,87.0,2.246690688,90.0,82.0,,,,,,,,,,16,
 UBCV,2018,W,ARST,580,,001,"Records, Archives, and the Law",Darra Hofman,19,84.05263157899999,18.596516054000002,95.0,8.0,,,,,,,,,,15,
-UBCV,2018,W,ARST,587,,001,Preservation,Tara Fraser,5,86.6,2.073644135,89.0,84.0,,,,,,,,,,,
+UBCV,2018,W,ARST,580,,OVERALL,"Records, Archives, and the Law",,19,84.05263157899999,18.596516054000002,95.0,8.0,,,,,,,,,,15,
+UBCV,2018,W,ARST,587,,001,Preservation,Tara Fraser,5,86.6,2.073644135,89.0,84.0,,,,,,,,,1,4,
 UBCV,2018,W,ARST,587,,002,Preservation,Tara Fraser,25,84.24,2.184795948,88.0,81.0,,,,,,,,,15,10,
+UBCV,2018,W,ARST,587,,OVERALL,Preservation,,30,84.633333333,2.311639713,89.0,81.0,,,,,,,,,16,14,

@@ -1,7 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2016,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,34,70.705882353,23.622702757,98.0,4.0,5,,,,,,5,5,5,,7
-UBCO,2016,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki,32,65.125,21.388495551,98.0,12.0,6,,5,,,,,,,,
+UBCO,2016,W,JPST,100,,001,Beginning Japanese Language I,Mayu Takasaki,34,70.705882353,23.622702757,98.0,4.0,5,,2,,,,5,5,5,,7
+UBCO,2016,W,JPST,100,,002,Beginning Japanese Language I,Mayu Takasaki,32,65.125,21.388495551,98.0,12.0,6,,5,,,,4,4,4,,3
+UBCO,2016,W,JPST,100,,OVERALL,Beginning Japanese Language I,,66,68.0,22.569550624,98.0,4.0,11,,7,,,,9,9,9,,10
 UBCO,2016,W,JPST,101,,001,Beginning Japanese Language II,Mayu Takasaki,24,70.916666667,16.156615731,96.0,42.0,,,,,,,,,,,
 UBCO,2016,W,JPST,101,,002,Beginning Japanese Language II,Mayu Takasaki,23,68.652173913,19.359302898,98.0,24.0,,,,,,,,,,,
+UBCO,2016,W,JPST,101,,OVERALL,Beginning Japanese Language II,,47,69.808510638,17.637211524,98.0,24.0,6,,,,,5,6,,,5,6
 UBCO,2016,W,JPST,200,,001,Continuing Japanese Language I,Mayu Takasaki,17,75.11764705899999,14.308574147,90.0,40.0,,,,,,,,,5,,
+UBCO,2016,W,JPST,200,,OVERALL,Continuing Japanese Language I,,17,75.11764705899999,14.308574147,90.0,40.0,,,,,,,,,5,,
 UBCO,2016,W,JPST,201,,001,Continuing Japanese Language II,Mayu Takasaki,18,74.222222222,10.844112285,88.0,52.0,,,,,,,,,,5,
+UBCO,2016,W,JPST,201,,OVERALL,Continuing Japanese Language II,,18,74.222222222,10.844112285,88.0,52.0,,,,,,,,,,5,

@@ -1,16 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,EDUC,141,,177,Indigenous Studies,Johanna Sam;Marny Point,13,69.384615385,32.482144997,99.0,0.0,,,,,,,,,,,
+UBCV,2018,W,EDUC,141,,177,Indigenous Studies,Johanna Sam;Marny Point,15,69.6,30.229597606,99.0,0.0,,,,,,,,,3,,3
 UBCV,2018,W,EDUC,141,,623,Indigenous Studies,Jennifer Anaquod;Johanna Sam;Kimberly Baglot;Seraphine Munroe,45,75.311111111,27.707746063000002,98.0,0.0,,,,,,,,,5,,21
+UBCV,2018,W,EDUC,141,,OVERALL,Indigenous Studies,,60,73.883333333,28.206317159,99.0,0.0,6,,,,,6,,,8,,24
 UBCV,2018,W,EDUC,210,,001,"Global Citizenship, Part 1: Introduction",Reginald D'Silva;Ryan Deschambault;Zhuo Sun,18,80.388888889,2.2787738930000003,84.0,76.0,,,,,,,,7,11,,
 UBCV,2018,W,EDUC,210,,002,"Global Citizenship, Part 1: Introduction",Natalia Balyasnikova;Pramod Sah;Reginald D'Silva,19,73.631578947,6.193280645,81.0,59.0,,,,,,,,8,,,
 UBCV,2018,W,EDUC,210,,003,"Global Citizenship, Part 1: Introduction",Ai Mizuta;Reginald D'Silva;Zhuo Sun,19,75.578947368,6.431828749,85.0,57.0,,,,,,,5,5,,,
-UBCV,2018,W,EDUC,210,,004,"Global Citizenship, Part 1: Introduction",Pramod Sah;Reginald D'Silva,19,73.15789473699999,5.756765661,83.0,61.0,,,,,,,5,,,,
-UBCV,2018,W,EDUC,500,,61A,Research Methodology in Education,Isabelle A G Denizot;Isabelle Denizot;Kerry Renwick,15,86.53333333299999,3.758165713,91.0,76.0,,,,,,,,,,11,
-UBCV,2018,W,EDUC,500,,61B,Research Methodology in Education,Maria Pighini,17,86.647058824,4.030216751,94.0,78.0,,,,,,,,,,8,
-UBCV,2018,W,EDUC,500,,62A,Research Methodology in Education,David Anderson;Kerry Renwick;Mary Gale Smith;Mary Smith,16,86.6875,3.553753884,95.0,81.0,,,,,,,,,,10,
-UBCV,2018,W,EDUC,500,,62B,Research Methodology in Education,Hartley Banack;Joy Butler;Peter Gouzouasis,18,91.27777777799999,1.40610248,94.0,90.0,,,,,,,,,,,18
-UBCV,2018,W,EDUC,500,,001,Research Methodology in Education,Handel Wright;Oksana Bartosh,20,87.95,3.2032056310000003,94.0,82.0,,,,,,,,,,11,7
-UBCV,2018,W,EDUC,500,,002,Research Methodology in Education,Annette Henry;Ling Shi,18,93.27777777799999,5.7579158360000005,100.0,83.0,,,,,,,,,,,14
+UBCV,2018,W,EDUC,210,,004,"Global Citizenship, Part 1: Introduction",Pramod Sah;Reginald D'Silva,19,73.15789473699999,5.756765661,83.0,61.0,,,,,,,5,4,,,
+UBCV,2018,W,EDUC,210,,OVERALL,"Global Citizenship, Part 1: Introduction",,75,75.626666667,6.06222984,85.0,57.0,,,,,5,7,14,24,20,,
+UBCV,2018,W,EDUC,500,,001,Research Methodology in Education,Oksana Bartosh,20,87.95,3.2032056310000003,94.0,82.0,,,,,,,,,,11,7
+UBCV,2018,W,EDUC,500,,002,Research Methodology in Education,Annette Henry,18,93.27777777799999,5.7579158360000005,100.0,83.0,,,,,,,,,,,14
 UBCV,2018,W,EDUC,500,,003,Research Methodology in Education,Oksana Bartosh,16,90.4375,4.210601699,96.0,83.0,,,,,,,,,,5,9
 UBCV,2018,W,EDUC,500,,004,Research Methodology in Education,Jillianne Code;Kerry Renwick,21,89.285714286,6.993874871,99.0,73.0,,,,,,,,,,6,12
 UBCV,2018,W,EDUC,500,,005,Research Methodology in Education,James Douglas Adler;Sandra Scott,33,95.454545455,0.665719023,97.0,95.0,,,,,,,,,,,33
+UBCV,2018,W,EDUC,500,,61A,Research Methodology in Education,Isabelle Denizot,15,86.53333333299999,3.758165713,91.0,76.0,,,,,,,,,,11,
+UBCV,2018,W,EDUC,500,,61B,Research Methodology in Education,Maria Pighini,17,86.647058824,4.030216751,94.0,78.0,,,,,,,,,,8,
+UBCV,2018,W,EDUC,500,,62A,Research Methodology in Education,Mary Gale Smith;Mary Smith,16,86.6875,3.553753884,95.0,81.0,,,,,,,,,,10,
+UBCV,2018,W,EDUC,500,,62B,Research Methodology in Education,Peter Gouzouasis,18,91.27777777799999,1.40610248,94.0,90.0,,,,,,,,,,,18
+UBCV,2018,W,EDUC,500,,OVERALL,Research Methodology in Education,,174,90.293103448,5.118283968,100.0,73.0,,,,,,,,,17,52,101

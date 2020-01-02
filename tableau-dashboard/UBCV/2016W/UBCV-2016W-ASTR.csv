@@ -1,17 +1,31 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,ASTR,101,,101,Introduction to the Solar System,Aaron Boley;Edward Ashton;Edward James Ashton;Jacob Aaron White;Jacob White;Javiera Parada Torres;Linda Strubbe,97,74.54639175300001,14.22001276,96.0,8.0,7,,,,7,9,11,13,20,15,7
+UBCV,2016,W,ASTR,101,,OVERALL,Introduction to the Solar System,,97,74.54639175300001,14.22001276,96.0,8.0,7,,,,7,9,11,13,20,15,7
 UBCV,2016,W,ASTR,102,,201,Introduction to Stars and Galaxies,Edward Ashton;Edward James Ashton;Ingrid Stairs;Javiera Parada Torres,116,73.90517241399999,13.836925047000001,93.0,0.0,,,7,,,16,18,7,23,25,
+UBCV,2016,W,ASTR,102,,OVERALL,Introduction to Stars and Galaxies,,116,73.90517241399999,13.836925047000001,93.0,0.0,,,7,,,16,18,7,23,25,
 UBCV,2016,W,ASTR,200,,101,Frontiers of Astrophysics,Agueda Paula Granados Contreras;Brett Gladman;Dagoberto Contreras,88,69.25,17.355147635,96.0,0.0,7,,5,10,7,14,10,6,15,8,
+UBCV,2016,W,ASTR,200,,OVERALL,Frontiers of Astrophysics,,88,69.25,17.355147635,96.0,0.0,7,,5,10,7,14,10,6,15,8,
 UBCV,2016,W,ASTR,205,,201,Stars and Stellar Populations,Harvey Richer;Javiera Parada Torres,24,72.375,12.125476234,90.0,51.0,,,,,,,,,6,,
+UBCV,2016,W,ASTR,205,,OVERALL,Stars and Stellar Populations,,24,72.375,12.125476234,90.0,51.0,,,,,,,,,6,,
 UBCV,2016,W,ASTR,300,,101,Galaxies,Brett Gladman;Joschua Andrea Hellemeier;Joschua Hellemeier;Paul Hickson,28,84.285714286,9.902701251,96.0,58.0,,,,,,,,,6,5,11
+UBCV,2016,W,ASTR,300,,OVERALL,Galaxies,,28,84.285714286,9.902701251,96.0,58.0,,,,,,,,,6,5,11
 UBCV,2016,W,ASTR,310,,101,Exploring the Universe: The Solar System,Harvey Richer,110,70.19090909100001,12.177958322,92.0,35.0,,13,,11,15,20,8,9,13,9,7
-UBCV,2016,W,ASTR,311,,99A,Exploring the Universe: Stars and Galaxies,Jeremy Heyl,34,63.676470588,23.838751986,100.0,0.0,5,,,,7,,,,,,5
+UBCV,2016,W,ASTR,310,,OVERALL,Exploring the Universe: The Solar System,,110,70.19090909100001,12.177958322,92.0,35.0,,13,,11,15,20,8,9,13,9,7
+UBCV,2016,W,ASTR,311,,201,Exploring the Universe: Stars and Galaxies,Ilaria Caiazzo;Jeremy Heyl,68,72.220588235,18.28370581,96.0,0.0,4,5,,,,,10,12,12,9,5
+UBCV,2016,W,ASTR,311,,99A,Exploring the Universe: Stars and Galaxies,Jeremy Heyl,34,63.676470588,23.838751986,100.0,0.0,5,,,,7,,,,,1,5
 UBCV,2016,W,ASTR,311,,99C,Exploring the Universe: Stars and Galaxies,Ilaria Caiazzo;Jeremy Heyl,45,68.866666667,28.659918163,98.0,0.0,10,,,,,,,,,8,10
-UBCV,2016,W,ASTR,311,,201,Exploring the Universe: Stars and Galaxies,Ilaria Caiazzo;Jeremy Heyl,68,72.220588235,18.28370581,96.0,0.0,,5,,,,,10,12,12,9,5
+UBCV,2016,W,ASTR,311,,OVERALL,Exploring the Universe: Stars and Galaxies,,150,69.193333333,23.080744369,100.0,0.0,19,9,5,6,12,9,14,19,19,18,20
 UBCV,2016,W,ASTR,333,,201,Exoplanets and Astrobiology,Agueda Paula Granados Contreras;Jacob Aaron White;Jacob White;Jaymie Mark Matthews,128,79.375,12.237801254,98.0,0.0,,,,5,,14,14,12,20,28,26
+UBCV,2016,W,ASTR,333,,OVERALL,Exoplanets and Astrobiology,,128,79.375,12.237801254,98.0,0.0,,,,5,,14,14,12,20,28,26
 UBCV,2016,W,ASTR,403,,201,Cosmology,Douglas Scott;Ryley Brendan Hill;Ryley Hill,20,70.6,10.922694867,88.0,52.0,,,,,,,,,5,,
+UBCV,2016,W,ASTR,403,,OVERALL,Cosmology,,20,70.6,10.922694867,88.0,52.0,,,,,,,,,5,,
 UBCV,2016,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Ingrid Stairs,8,64.875,6.937218463,76.0,57.0,,,,,,,,,,,
+UBCV,2016,W,ASTR,404,,OVERALL,Astronomical and Astrophysical Measurements,,8,64.875,6.937218463,76.0,57.0,,,,,,,,,,,
 UBCV,2016,W,ASTR,405,,2LA,Astronomical Laboratory,Agueda Paula Granados Contreras;Jaymie Mark Matthews,6,76.666666667,31.941613400999998,96.0,12.0,,,,,,,,,,,
+UBCV,2016,W,ASTR,405,,OVERALL,Astronomical Laboratory,,6,76.666666667,31.941613400999998,96.0,12.0,,,,,,,,,,,
 UBCV,2016,W,ASTR,406,,101,High-Energy Astrophysics,Ludovic Van Waerbeke,7,76.857142857,3.97611919,82.0,71.0,,,,,,,,,,,
+UBCV,2016,W,ASTR,406,,OVERALL,High-Energy Astrophysics,,7,76.857142857,3.97611919,82.0,71.0,,,,,,,,,,,
 UBCV,2016,W,ASTR,407,,201,Planetary Science,Aaron Boley,6,81.833333333,4.915960401,88.0,75.0,,,,,,,,,,,
+UBCV,2016,W,ASTR,407,,OVERALL,Planetary Science,,6,81.833333333,4.915960401,88.0,75.0,,,,,,,,,,,
 UBCV,2016,W,ASTR,502,,201,Astronomical Dynamics,Brett Gladman,6,80.166666667,15.406708495999998,92.0,55.0,,,,,,,,,,,
+UBCV,2016,W,ASTR,502,,OVERALL,Astronomical Dynamics,,6,80.166666667,15.406708495999998,92.0,55.0,,,,,,,,,,,

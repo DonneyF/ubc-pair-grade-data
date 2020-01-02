@@ -1,29 +1,57 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2014,W,EESC,101,,001,Environmental Science,David Scott;Jon Bepple,145,67.075862069,16.585671007000002,99.0,0.0,14,13,12,15,10,17,17,19,10,9,9
+UBCO,2014,W,EESC,101,,OVERALL,Environmental Science,,145,67.075862069,16.585671007000002,99.0,0.0,14,13,12,15,10,17,17,19,10,9,9
 UBCO,2014,W,EESC,111,,001,Earth Science,Yuan Chen,197,66.223350254,14.708766750999999,99.0,13.0,12,30,25,13,21,21,21,21,11,11,11
-UBCO,2014,W,EESC,121,,001,Earth History,John Greenough,103,68.699029126,15.873788329000002,98.0,0.0,,9,8,15,15,9,11,5,11,6,10
+UBCO,2014,W,EESC,111,,OVERALL,Earth Science,,197,66.223350254,14.708766750999999,99.0,13.0,12,30,25,13,21,21,21,21,11,11,11
+UBCO,2014,W,EESC,121,,001,Earth History,John Greenough,103,68.699029126,15.873788329000002,98.0,0.0,4.0,9,8,15,15,9,11,5,11,6,10
+UBCO,2014,W,EESC,121,,OVERALL,Earth History,,103,68.699029126,15.873788329000002,98.0,0.0,4.0,9,8,15,15,9,11,5,11,6,10
 UBCO,2014,W,EESC,200,,001,Mineralogy,Yuan Chen,39,76.897435897,8.993549945,93.0,57.0,,,,,,,8,,7,7,
+UBCO,2014,W,EESC,200,,OVERALL,Mineralogy,,39,76.897435897,8.993549945,93.0,57.0,,,,,,,8,,7,7,
 UBCO,2014,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough,27,79.29629629600001,9.718399737,95.0,60.0,,,,,,,6,,7,,5
+UBCO,2014,W,EESC,201,,OVERALL,Optical Mineralogy and Petrology,,27,79.29629629600001,9.718399737,95.0,60.0,,,,,,,6,,7,,5
 UBCO,2014,W,EESC,205,,001,Introduction to Hydrology,Fes Alexander De Scally;Katlin O'Connell,38,79.0,8.424545862,93.0,60.0,,,,,,,,6,10,6,
+UBCO,2014,W,EESC,205,,OVERALL,Introduction to Hydrology,,38,79.0,8.424545862,93.0,60.0,,,,,,,,6,10,6,
 UBCO,2014,W,EESC,212,,001,Weather and Climate,Ian Saunders,25,72.04,10.671144893,92.0,51.0,,,,,5,5,,,,,
+UBCO,2014,W,EESC,212,,OVERALL,Weather and Climate,,25,72.04,10.671144893,92.0,51.0,,,,,5,5,,,,,
 UBCO,2014,W,EESC,213,,001,Introductory Forest Science and Management,Xiaohua Wei,40,71.475,11.881870482,95.0,45.0,,,,,11,,,,,5,
+UBCO,2014,W,EESC,213,,OVERALL,Introductory Forest Science and Management,,40,71.475,11.881870482,95.0,45.0,,,,,11,,,,,5,
 UBCO,2014,W,EESC,222,,001,Geomorphology,Bernard Bauer,43,74.09302325600001,12.303336662000001,92.0,36.0,,,,5,,6,,5,9,8,
+UBCO,2014,W,EESC,222,,OVERALL,Geomorphology,,43,74.09302325600001,12.303336662000001,92.0,36.0,,,,5,,6,,5,9,8,
 UBCO,2014,W,EESC,301,,001,Limnology,Paul Curtis,28,74.607142857,7.534313042000001,87.0,59.0,,,,,,,5,8,6,,
+UBCO,2014,W,EESC,301,,OVERALL,Limnology,,28,74.607142857,7.534313042000001,87.0,59.0,,,,,,,5,8,6,,
 UBCO,2014,W,EESC,309,,001,Global Biogeochemistry,Paul Curtis,73,76.150684932,8.73796193,91.0,51.0,,,,,,10,15,10,16,7,6
+UBCO,2014,W,EESC,309,,OVERALL,Global Biogeochemistry,,73,76.150684932,8.73796193,91.0,51.0,,,,,,10,15,10,16,7,6
 UBCO,2014,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,17,73.588235294,15.276856775999999,91.0,21.0,,,,,,,,,,,
+UBCO,2014,W,EESC,314,,OVERALL,"Environmental Impact Assessment: Process, Regulation and Administration",,17,73.588235294,15.276856775999999,91.0,21.0,,,,,,,,,,,
 UBCO,2014,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough,14,73.785714286,19.815217817,98.0,17.0,,,,,,,,,,,
+UBCO,2014,W,EESC,322,,OVERALL,Igneous and Metamorphic Petrology,,14,73.785714286,19.815217817,98.0,17.0,,,,,,,,,,,
 UBCO,2014,W,EESC,323,,001,Geochemistry,Yuan Chen,59,78.37288135600001,7.617806511,91.0,55.0,,,,,,5,14,11,7,15,
+UBCO,2014,W,EESC,323,,OVERALL,Geochemistry,,59,78.37288135600001,7.617806511,91.0,55.0,,,,,,5,14,11,7,15,
 UBCO,2014,W,EESC,325,,001,Structure and Tectonics,Kyle Larson,39,71.923076923,11.46478502,90.0,36.0,,,,,,8,,7,5,,
+UBCO,2014,W,EESC,325,,OVERALL,Structure and Tectonics,,39,71.923076923,11.46478502,90.0,36.0,,,,,,8,,7,5,,
 UBCO,2014,W,EESC,342,,001,Hydrogeology,Allan Woodbury,35,67.571428571,9.201296949,89.0,51.0,,,,5,7,7,,,,,
+UBCO,2014,W,EESC,342,,OVERALL,Hydrogeology,,35,67.571428571,9.201296949,89.0,51.0,,,,5,7,7,,,,,
 UBCO,2014,W,EESC,356,,001,Stratigraphy and Sedimentology,Robert Young,28,73.607142857,9.643033508,90.0,50.0,,,,,,,5,,6,,
+UBCO,2014,W,EESC,356,,OVERALL,Stratigraphy and Sedimentology,,28,73.607142857,9.643033508,90.0,50.0,,,,,,,5,,6,,
 UBCO,2014,W,EESC,367,,001,Energy Resources Management,Kevin Hanna,25,77.96,7.67289602,90.0,56.0,,,,,,,,5,10,,
+UBCO,2014,W,EESC,367,,OVERALL,Energy Resources Management,,25,77.96,7.67289602,90.0,56.0,,,,,,,,5,10,,
 UBCO,2014,W,EESC,402,,001,Freshwater Resource Issues and Management,Paul Curtis,17,77.0,11.91112925,89.0,40.0,,,,,,,,,5,,
+UBCO,2014,W,EESC,402,,OVERALL,Freshwater Resource Issues and Management,,17,77.0,11.91112925,89.0,40.0,,,,,,,,,5,,
 UBCO,2014,W,EESC,413,,001,Analytical Methods in Hydrology,Xiaohua Wei,19,78.578947368,11.20176469,96.0,52.0,,,,,,,,,6,,
+UBCO,2014,W,EESC,413,,OVERALL,Analytical Methods in Hydrology,,19,78.578947368,11.20176469,96.0,52.0,,,,,,,,,6,,
 UBCO,2014,W,EESC,418,F,001,Special Topics in Earth and Environmental Sciences,Lael Parrott,18,78.944444444,8.192336607,92.0,61.0,,,,,,,,5,,,
+UBCO,2014,W,EESC,418,F,OVERALL,Special Topics in Earth and Environmental Sciences,,18,78.944444444,8.192336607,92.0,61.0,,,,,,,,5,,,
 UBCO,2014,W,EESC,418,K,001,Special Topics in Earth and Environmental Sciences,Karen Perry,30,69.366666667,13.113518514,100.0,50.0,,,,6,,,,,,,
+UBCO,2014,W,EESC,418,K,OVERALL,Special Topics in Earth and Environmental Sciences,,30,69.366666667,13.113518514,100.0,50.0,,,,6,,,,,,,
 UBCO,2014,W,EESC,422,,001,Fluvial Geomorphology,Bernard Bauer,17,79.647058824,5.14710084,90.0,70.0,,,,,,,,,7,,
+UBCO,2014,W,EESC,422,,OVERALL,Fluvial Geomorphology,,17,79.647058824,5.14710084,90.0,70.0,,,,,,,,,7,,
 UBCO,2014,W,EESC,425,,001,Tectonics and Orogenesis,Kyle Larson,11,73.181818182,13.833424607000001,87.0,40.0,,,,,,,,,,,
+UBCO,2014,W,EESC,425,,OVERALL,Tectonics and Orogenesis,,11,73.181818182,13.833424607000001,87.0,40.0,,,,,,,,,,,
 UBCO,2014,W,EESC,431,,001,Quaternary Glacial Environments,Robert Young,13,76.153846154,11.466226885,93.0,58.0,,,,,,,,,,,
+UBCO,2014,W,EESC,431,,OVERALL,Quaternary Glacial Environments,,13,76.153846154,11.466226885,93.0,58.0,,,,,,,,,,,
 UBCO,2014,W,EESC,436,,001,Coastal Geomorphology,Bernard Bauer,10,79.9,7.140650452999999,92.0,68.0,,,,,,,,,,,
+UBCO,2014,W,EESC,436,,OVERALL,Coastal Geomorphology,,10,79.9,7.140650452999999,92.0,68.0,,,,,,,,,,,
 UBCO,2014,W,EESC,444,,001,Dynamic Modelling of Human-Environment Systems,Lael Parrott,9,75.555555556,16.815997674000002,98.0,53.0,,,,,,,,,,,
+UBCO,2014,W,EESC,444,,OVERALL,Dynamic Modelling of Human-Environment Systems,,9,75.555555556,16.815997674000002,98.0,53.0,,,,,,,,,,,
 UBCO,2014,W,EESC,456,,001,Soil Science,David Scott,32,76.625,7.559441864,93.0,54.0,,,,,,,9,5,7,,
+UBCO,2014,W,EESC,456,,OVERALL,Soil Science,,32,76.625,7.559441864,93.0,54.0,,,,,,,9,5,7,,

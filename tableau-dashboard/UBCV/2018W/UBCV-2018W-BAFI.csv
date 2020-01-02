@@ -1,19 +1,32 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,BAFI,500,,001,Introductory Finance,Murray Carlson,55,84.490909091,11.311863205,97.0,40.0,,,,,,,,,10,7,24
+UBCV,2018,W,BAFI,500,,300,Introductory Finance,Ronald Giammarino,50,80.64,8.248091925,94.0,55.0,,,,,,,8,7,9,13,7
+UBCV,2018,W,BAFI,500,,818,Introductory Finance,Ronald Giammarino,43,81.651162791,9.120577783,95.0,53.0,,,,,,5,5,,5,14,8
 UBCV,2018,W,BAFI,500,,MM1,Introductory Finance,R Glen Donaldson,45,82.95555555600001,6.731727981000001,93.0,68.0,,,,,,,,8,7,14,11
+UBCV,2018,W,BAFI,500,,OVERALL,Introductory Finance,,193,82.50259067399999,9.174877582999999,97.0,40.0,,,,,,13,19,23,31,48,50
 UBCV,2018,W,BAFI,502,,001,Corporate Finance,Hernan Ortiz Molina,32,80.96875,6.999927995,92.0,65.0,,,,,,,,7,8,7,
-UBCV,2018,W,BAFI,502,,301,Corporate Finance,Hernan Ortiz Molina,17,82.058823529,7.110472806000001,92.0,64.0,,,,,,,,,6,,
+UBCV,2018,W,BAFI,502,,301,Corporate Finance,Hernan Ortiz Molina,17,82.058823529,7.110472806000001,92.0,64.0,,,,,,,,4,6,3,
+UBCV,2018,W,BAFI,502,,OVERALL,Corporate Finance,,49,81.346938776,6.98376397,92.0,64.0,,,,,,,,11,14,10,6
 UBCV,2018,W,BAFI,507,,001,Mergers and Acquisitions,Jin Wang;Kai Li;Markus Baldauf,33,83.363636364,3.228952828,91.0,78.0,,,,,,,,,16,14,
-UBCV,2018,W,BAFI,507,,302,Mergers and Acquisitions,Elena Pikulina,17,82.588235294,2.895229342,90.0,80.0,,,,,,,,,12,,
-UBCV,2018,W,BAFI,511,,001,Investment Theory and Asset Pricing,Georgios Skoulakis;Markus Baldauf,26,83.615384615,10.237487673,99.0,61.0,,,,,,,,,,6,9
+UBCV,2018,W,BAFI,507,,302,Mergers and Acquisitions,Elena Pikulina,17,82.588235294,2.895229342,90.0,80.0,,,,,,,,,12,4,
+UBCV,2018,W,BAFI,507,,OVERALL,Mergers and Acquisitions,,50,83.1,3.11186013,91.0,78.0,,,,,,,,,28,18,
+UBCV,2018,W,BAFI,511,,001,Investment Theory and Asset Pricing,Georgios Skoulakis;Markus Baldauf,26,83.615384615,10.237487673,99.0,61.0,,,,,,,,,4,6,9
 UBCV,2018,W,BAFI,511,,301,Investment Theory and Asset Pricing,Ali Lazrak;Xuejing Guan,35,87.65714285700001,4.262992991,95.0,79.0,,,,,,,,,6,13,14
 UBCV,2018,W,BAFI,511,,DD1,Investment Theory and Asset Pricing,R Glen Donaldson,48,84.166666667,7.571877794,97.0,68.0,,,,,,,,,7,16,14
 UBCV,2018,W,BAFI,511,,MM1,Investment Theory and Asset Pricing,R Glen Donaldson,49,83.204081633,7.231238921,97.0,64.0,,,,,,,,5,15,12,11
+UBCV,2018,W,BAFI,511,,OVERALL,Investment Theory and Asset Pricing,,158,84.55063291100001,7.528753772000001,99.0,61.0,,,,,,6,11,11,32,47,48
 UBCV,2018,W,BAFI,513,,001,Risk Management,R Glen Donaldson,27,83.481481481,1.188741104,85.0,81.0,,,,,,,,,21,6,
+UBCV,2018,W,BAFI,513,,OVERALL,Risk Management,,27,83.481481481,1.188741104,85.0,81.0,,,,,,,,,21,6,
 UBCV,2018,W,BAFI,516,,001,Financial Engineering,Lorenzo Garlappi,18,83.277777778,9.814788095,99.0,64.0,,,,,,,,,,5,5
+UBCV,2018,W,BAFI,516,,OVERALL,Financial Engineering,,18,83.277777778,9.814788095,99.0,64.0,,,,,,,,,,5,5
 UBCV,2018,W,BAFI,519,,001,Topics in Investment Management,Adlai Fisher,17,87.647058824,2.548067318,92.0,85.0,,,,,,,,,,11,6
+UBCV,2018,W,BAFI,519,,OVERALL,Topics in Investment Management,,17,87.647058824,2.548067318,92.0,85.0,,,,,,,,,,11,6
 UBCV,2018,W,BAFI,520,,001,Empirical Finance,Carolin Pflueger;Jack Favilukis;Jan Bena,23,80.043478261,6.539935091,91.0,68.0,,,,,,,5,,,8,
-UBCV,2018,W,BAFI,520,,302,Empirical Finance,Jan Bena,14,83.642857143,7.830975407,97.0,68.0,,,,,,,,,,6,
+UBCV,2018,W,BAFI,520,,302,Empirical Finance,Jan Bena,14,83.642857143,7.830975407,97.0,68.0,,,,,,,0,,,6,
+UBCV,2018,W,BAFI,520,,OVERALL,Empirical Finance,,37,81.405405405,7.170384537,97.0,68.0,,,,,,,5,5,5,14,
 UBCV,2018,W,BAFI,532,,001,International Financial Management,R Glen Donaldson,21,84.333333333,3.1832897030000002,90.0,82.0,,,,,,,,,12,5,
+UBCV,2018,W,BAFI,532,,OVERALL,International Financial Management,,21,84.333333333,3.1832897030000002,90.0,82.0,,,,,,,,,12,5,
 UBCV,2018,W,BAFI,580,A,001,Special Topics in Finance,R Glen Donaldson,38,81.105263158,7.625666027,96.0,68.0,,,,,,,,8,9,7,7
+UBCV,2018,W,BAFI,580,A,OVERALL,Special Topics in Finance,,38,81.105263158,7.625666027,96.0,68.0,,,,,,,,8,9,7,7
 UBCV,2018,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall;Zhanbing Xiao,34,82.470588235,4.86319071,90.0,72.0,,,,,,,,,9,16,
+UBCV,2018,W,BAFI,580,B,OVERALL,Special Topics in Finance,,34,82.470588235,4.86319071,90.0,72.0,,,,,,,,,9,16,

@@ -1,4 +1,6 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,PERS,100,,001,Basic Persian I,Fahimeh Zolfi-Sistani,12,82.75,11.021672864000001,93.0,53.0,,,,,,,,,,5,
-UBCV,2014,W,PERS,100,,002,Basic Persian I,Fahimeh Zolfi-Sistani,5,87.2,4.207136794,93.0,83.0,,,,,,,,,,,
+UBCV,2014,W,PERS,100,,002,Basic Persian I,Fahimeh Zolfi-Sistani,5,87.2,4.207136794,93.0,83.0,,,,,,,,,,1,
+UBCV,2014,W,PERS,100,,OVERALL,Basic Persian I,,17,84.058823529,9.607748099,93.0,53.0,,,,,,,,,,6,5
 UBCV,2014,W,PERS,101,,002,Basic Persian II,Fahimeh Zolfi-Sistani,9,86.444444444,4.901813723,92.0,76.0,,,,,,,,,,,
+UBCV,2014,W,PERS,101,,OVERALL,Basic Persian II,,9,86.444444444,4.901813723,92.0,76.0,,,,,,,,,,,

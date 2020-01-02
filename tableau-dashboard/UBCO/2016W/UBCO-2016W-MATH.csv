@@ -2,36 +2,65 @@ Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,S
 UBCO,2016,W,MATH,100,,001,Differential Calculus with Applications to Physical Sciences and Engineering,Hui Ouyang;Javad Tavakoli;Jeewon Yoo;Maryam Sadeghi;Sedi Bartz;Wayne Broughton,185,63.005405405,22.743727587,98.0,0.0,41,15,19,14,10,9,15,12,14,16,20
 UBCO,2016,W,MATH,100,,002,Differential Calculus with Applications to Physical Sciences and Engineering,Hui Ouyang;Javad Tavakoli;Jeewon Yoo;Maryam Sadeghi;Sedi Bartz;Wayne Broughton,292,65.270547945,17.608732088,99.0,0.0,52,27,20,15,31,33,22,26,28,20,18
 UBCO,2016,W,MATH,100,,003,Differential Calculus with Applications to Physical Sciences and Engineering,Hui Ouyang;Javad Tavakoli;Jeewon Yoo;Maryam Sadeghi;Sedi Bartz;Wayne Broughton,166,68.662650602,20.55194578,100.0,0.0,23,16,9,10,12,11,13,13,18,17,24
-UBCO,2016,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Dongying Wang;Edward Butz;Kitty Deng;Maryam Sadeghi,123,55.756097561000004,25.496171831999998,97.0,0.0,48,10,,,11,5,7,12,6,5,12
-UBCO,2016,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Megan Tung;Navkiran Bahia;Tushar Dave,101,56.415841584,23.33120971,100.0,0.0,36,12,5,6,6,7,7,,7,,9
-UBCO,2016,W,MATH,101,,101,Integral Calculus with Applications to Physical Sciences and Engineering,Chayne C Planiden;Jia Xu;Nhut Bui;Tara Paterson,107,67.822429907,26.234002523,100.0,0.0,18,11,6,6,8,6,5,10,,5,29
+UBCO,2016,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Dongying Wang;Edward Butz;Kitty Deng;Maryam Sadeghi,123,55.756097561000004,25.496171831999998,97.0,0.0,48,10,4,3,11,5,7,12,6,5,12
+UBCO,2016,W,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,766,63.930809399,21.298603253,100.0,0.0,164,68,52,42,64,58,57,63,66,58,74
+UBCO,2016,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Megan Tung;Navkiran Bahia;Tushar Dave,101,56.415841584,23.33120971,100.0,0.0,36,12,5,6,6,7,7,4,7,2,9
+UBCO,2016,W,MATH,101,,101,Integral Calculus with Applications to Physical Sciences and Engineering,Chayne C Planiden;Jia Xu;Nhut Bui;Tara Paterson,107,67.822429907,26.234002523,100.0,0.0,18,11,6,6,8,6,5,10,3.0,5,29
 UBCO,2016,W,MATH,101,,102,Integral Calculus with Applications to Physical Sciences and Engineering,Ben Tippett;Chayne C Planiden;Nhut Bui;Tara Paterson,281,70.160142349,19.83033333,100.0,1.0,27,19,19,28,20,26,19,26,23,27,47
 UBCO,2016,W,MATH,101,,103,Integral Calculus with Applications to Physical Sciences and Engineering,Chayne C Planiden;Javad Tavakoli;Nhut Bui;Tara Paterson,121,72.611570248,17.32694044,100.0,30.0,10,12,5,8,7,13,12,11,10,8,25
+UBCO,2016,W,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,610,67.960655738,21.85791766,100.0,0.0,91,54,35,48,41,52,43,51,43,42,110
 UBCO,2016,W,MATH,111,,101,Finite Mathematics,Donovan Hare;Nicholas Taggart;Yang Yu,68,66.5,21.554858856,93.0,14.0,11,9,,,,5,5,7,7,12,5
+UBCO,2016,W,MATH,111,,OVERALL,Finite Mathematics,,68,66.5,21.554858856,93.0,14.0,11,9,,,,5,5,7,7,12,5
 UBCO,2016,W,MATH,116,,001,Calculus I for Management and Economics,Chayne C Planiden;Dongying Wang;Haniel Udubra,191,57.785340313999995,20.111557158,100.0,12.0,53,35,18,11,10,12,9,9,16,9,9
 UBCO,2016,W,MATH,116,,002,Calculus I for Management and Economics,Dongying Wang;Edward Butz;Haniel Udubra,119,58.596638655,21.880770649000002,95.0,0.0,34,15,6,7,10,8,13,5,10,5,6
+UBCO,2016,W,MATH,116,,OVERALL,Calculus I for Management and Economics,,310,58.096774194,20.777219973,100.0,0.0,87,50,24,18,20,20,22,14,26,14,15
 UBCO,2016,W,MATH,125,,001,Pre-Calculus,Bo Wen Liu;Hui Ouyang;Jia Xu;Weena Ekechukwu,92,67.619565217,18.602163641,98.0,13.0,13,7,14,5,8,5,7,7,6,5,15
+UBCO,2016,W,MATH,125,,OVERALL,Pre-Calculus,,92,67.619565217,18.602163641,98.0,13.0,13,7,14,5,8,5,7,7,6,5,15
 UBCO,2016,W,MATH,126,,101,Basic Mathematics: An Aboriginal Perspective,Jia Xu;Robin Mercer,43,75.395348837,24.295932968000002,100.0,0.0,5,,,,,,,,7,,16
+UBCO,2016,W,MATH,126,,OVERALL,Basic Mathematics: An Aboriginal Perspective,,43,75.395348837,24.295932968000002,100.0,0.0,5,,,,,,,,7,,16
 UBCO,2016,W,MATH,142,,001,Calculus II for Management and Economics,Edward Butz;Hui Ouyang,74,63.445945946,19.776935433,97.0,1.0,12,6,8,7,7,9,5,6,,,6
+UBCO,2016,W,MATH,142,,OVERALL,Calculus II for Management and Economics,,74,63.445945946,19.776935433,97.0,1.0,12,6,8,7,7,9,5,6,,,6
 UBCO,2016,W,MATH,200,,001,Calculus III,Brittany Miller;Jacqueline Dubreuil;Maria Guenter;Sarah Macqueen;Warren Hare,192,70.046875,20.520271949,98.0,12.0,25,13,5,16,16,10,12,22,17,26,30
+UBCO,2016,W,MATH,200,,OVERALL,Calculus III,,192,70.046875,20.520271949,98.0,12.0,25,13,5,16,16,10,12,22,17,26,30
 UBCO,2016,W,MATH,220,,001,Mathematical Proof,Heinz Bauschke;Walaa Mohamed Moursi;Walaa Moursi,55,83.854545455,11.558896176,100.0,54.0,,,,,,,6,7,,13,18
-UBCO,2016,W,MATH,221,,001,Matrix Algebra,Paul D Lee;Paul Lee;Wayne Broughton,66,65.196969697,20.201462016,93.0,0.0,12,5,5,,7,8,6,5,5,5,6
+UBCO,2016,W,MATH,220,,OVERALL,Mathematical Proof,,55,83.854545455,11.558896176,100.0,54.0,,,,,,,6,7,,13,18
+UBCO,2016,W,MATH,221,,001,Matrix Algebra,Paul D Lee;Paul Lee;Wayne Broughton,66,65.196969697,20.201462016,93.0,0.0,12,5,5,2.0,7,8,6,5,5,5,6
 UBCO,2016,W,MATH,221,,101,Matrix Algebra,Chad Davis;Chad T Davis;Jeewon Yoo;Sarah Macqueen;Wayne Broughton,130,70.73076923100001,17.324888429,99.0,0.0,12,5,11,13,10,12,9,12,18,12,16
+UBCO,2016,W,MATH,221,,OVERALL,Matrix Algebra,,196,68.867346939,18.47889316,99.0,0.0,24,10,16,15,17,20,15,17,23,17,22
 UBCO,2016,W,MATH,225,,001,Introduction to Differential Equations,May Anne Mata;Rebecca Tyson,81,67.061728395,23.417058780999998,99.0,3.0,20,,,5,6,8,9,6,,6,15
+UBCO,2016,W,MATH,225,,OVERALL,Introduction to Differential Equations,,81,67.061728395,23.417058780999998,99.0,3.0,20,,,5,6,8,9,6,,6,15
 UBCO,2016,W,MATH,303,,001,Numerical Analysis,Hui Ma;Shawn Wang,20,75.5,27.846383116,100.0,10.0,,,,,,,,,,,8
+UBCO,2016,W,MATH,303,,OVERALL,Numerical Analysis,,20,75.5,27.846383116,100.0,10.0,,,,,,,,,,,8
 UBCO,2016,W,MATH,307,,001,Applied Linear Algebra,Chad Davis;Chad T Davis;Hui Ouyang;Wayne Broughton,78,69.717948718,18.125749379000002,100.0,22.0,12,,,5,13,5,,6,6,9,11
+UBCO,2016,W,MATH,307,,OVERALL,Applied Linear Algebra,,78,69.717948718,18.125749379000002,100.0,22.0,12,,,5,13,5,,6,6,9,11
 UBCO,2016,W,MATH,311,,001,Abstract Algebra I,Qiduan Yang;Walaa Mohamed Moursi;Walaa Moursi,31,69.870967742,19.343805099,100.0,24.0,5,,,,,,,6,5,,
+UBCO,2016,W,MATH,311,,OVERALL,Abstract Algebra I,,31,69.870967742,19.343805099,100.0,24.0,5,,,,,,,6,5,,
 UBCO,2016,W,MATH,312,,001,Introduction to Number Theory,Blair Kenneth Spearman;Maryam Sadeghi,61,90.31147541,9.886929054,100.0,51.0,,,,,,,,,6,14,36
+UBCO,2016,W,MATH,312,,OVERALL,Introduction to Number Theory,,61,90.31147541,9.886929054,100.0,51.0,,,,,,,,,6,14,36
 UBCO,2016,W,MATH,317,,001,Calculus IV,Javad Tavakoli;Maryam Sadeghi,47,73.04255319100001,15.645470864000002,97.0,30.0,,,,,,5,,7,6,,8
+UBCO,2016,W,MATH,317,,OVERALL,Calculus IV,,47,73.04255319100001,15.645470864000002,97.0,30.0,,,,,,5,,7,6,,8
 UBCO,2016,W,MATH,319,,001,Introduction to Partial Differential Equations,Maria Martignoni Mseya;Rebecca Tyson,37,71.243243243,17.997539038,97.0,25.0,,,,,5,,,,,,8
+UBCO,2016,W,MATH,319,,OVERALL,Introduction to Partial Differential Equations,,37,71.243243243,17.997539038,97.0,25.0,,,,,5,,,,,,8
 UBCO,2016,W,MATH,323,,001,Applied Abstract Algebra,Blair Kenneth Spearman;Paul D Lee;Paul Lee,35,92.314285714,5.774036352,100.0,80.0,,,,,,,,,6,,26
+UBCO,2016,W,MATH,323,,OVERALL,Applied Abstract Algebra,,35,92.314285714,5.774036352,100.0,80.0,,,,,,,,,6,,26
 UBCO,2016,W,MATH,327,,001,Analysis I,Hui Ouyang;Hui Oyuang;Shawn Wang,41,84.048780488,12.955599599000001,100.0,28.0,,,,,,,,,7,8,16
+UBCO,2016,W,MATH,327,,OVERALL,Analysis I,,41,84.048780488,12.955599599000001,100.0,28.0,,,,,,,,,7,8,16
 UBCO,2016,W,MATH,328,,001,Analysis II,Nhut Bui;Nhut Minh Bui;Shawn Wang,12,87.166666667,6.833518105,99.0,76.0,,,,,,,,,,,5
+UBCO,2016,W,MATH,328,,OVERALL,Analysis II,,12,87.166666667,6.833518105,99.0,76.0,,,,,,,,,,,5
 UBCO,2016,W,MATH,330,,001,Abstract Algebra II,Blair Kenneth Spearman;Chad Davis;Chad T Davis,36,83.611111111,12.163828762,100.0,51.0,,,,,,,,,,7,15
+UBCO,2016,W,MATH,330,,OVERALL,Abstract Algebra II,,36,83.611111111,12.163828762,100.0,51.0,,,,,,,,,,7,15
 UBCO,2016,W,MATH,340,,001,Introduction to Linear Programming,Chad Davis;Chad T Davis;Donovan Hare,49,61.897959183999994,20.593531446,97.0,5.0,10,6,,5,,7,,,5,,
+UBCO,2016,W,MATH,340,,OVERALL,Introduction to Linear Programming,,49,61.897959183999994,20.593531446,97.0,5.0,10,6,,5,,7,,,5,,
 UBCO,2016,W,MATH,350,,001,Complex Variables and Applications,Chad Davis;Chad T Davis;Sylvie Desjardins,18,63.277777778,22.808165606,99.0,21.0,,,,,,,,,,,
+UBCO,2016,W,MATH,350,,OVERALL,Complex Variables and Applications,,18,63.277777778,22.808165606,99.0,21.0,,,,,,,,,,,
 UBCO,2016,W,MATH,409,,001,Mathematics of Financial Derivatives,Edward Butz,6,73.666666667,36.533090024,96.0,0.0,,,,,,,,,,,
+UBCO,2016,W,MATH,409,,OVERALL,Mathematics of Financial Derivatives,,6,73.666666667,36.533090024,96.0,0.0,,,,,,,,,,,
+UBCO,2016,W,MATH,448,A,OVERALL,Directed Studies in Mathematics,,7,100.0,0.0,100.0,100.0,,,,,,,,,,,7
 UBCO,2016,W,MATH,461,,001,Continuous Optimization,Chayne C Planiden;Chayne Planiden;Heinz Bauschke,15,77.733333333,26.271838988000003,100.0,0.0,,,,,,,,,,,6
+UBCO,2016,W,MATH,461,,OVERALL,Continuous Optimization,,15,77.733333333,26.271838988000003,100.0,0.0,,,,,,,,,,,6
 UBCO,2016,W,MATH,538,,001,Algebraic Number Theory,Blair Kenneth Spearman;Chad Davis;Chad T Davis,5,97.6,3.9115214430000003,100.0,91.0,,,,,,,,,,,5
+UBCO,2016,W,MATH,538,,OVERALL,Algebraic Number Theory,,5,97.6,3.9115214430000003,100.0,91.0,,,,,,,,,,,5
 UBCO,2016,W,MATH,563,,001,Convex Optimization and Non-smooth Analysis,Heinz Bauschke,6,93.5,5.128352562,100.0,86.0,,,,,,,,,,,5
+UBCO,2016,W,MATH,563,,OVERALL,Convex Optimization and Non-smooth Analysis,,6,93.5,5.128352562,100.0,86.0,,,,,,,,,,,5
 UBCO,2016,W,MATH,600,B,001,Topics in Algebra,Qiduan Yang,6,94.0,4.939635614,99.0,86.0,,,,,,,,,,,5
+UBCO,2016,W,MATH,600,B,OVERALL,Topics in Algebra,,6,94.0,4.939635614,99.0,86.0,,,,,,,,,,,5

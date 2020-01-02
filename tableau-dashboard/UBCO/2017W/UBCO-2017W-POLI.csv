@@ -1,21 +1,41 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,W,POLI,101,,001,The Government of Canada,Darielle Talarico;Helena Konanz;Laura Fylyshtan;Valerie Freeland,84,73.678571429,15.785581887000001,94.0,0.0,5,,,,7,5,6,21,13,14,5
+UBCO,2017,W,POLI,101,,001,The Government of Canada,Darielle Talarico;Helena Konanz;Laura Fylyshtan;Valerie Freeland,84,73.678571429,15.785581887000001,94.0,0.0,5,,,3,7,5,6,21,13,14,5
 UBCO,2017,W,POLI,101,,101,The Government of Canada,Carey Doberstein;Darielle Talarico,116,70.724137931,17.676605127000002,93.0,0.0,10,,,5,11,18,18,13,19,13,5
+UBCO,2017,W,POLI,101,,OVERALL,The Government of Canada,,200,71.965,16.930356163,94.0,0.0,15,5,4.0,8,18,23,24,34,32,27,10
 UBCO,2017,W,POLI,220,,101,Introduction to Comparative Politics,Carl Hodge;Darielle Talarico;Valerie Freeland,88,73.045454545,13.122682907,95.0,29.0,5,,,7,5,12,10,14,12,15,
+UBCO,2017,W,POLI,220,,OVERALL,Introduction to Comparative Politics,,88,73.045454545,13.122682907,95.0,29.0,5,,,7,5,12,10,14,12,15,
 UBCO,2017,W,POLI,221,,001,International Politics,James Rochlin,91,73.56043956,14.539760652,95.0,18.0,6,,,,,16,15,22,11,5,9
+UBCO,2017,W,POLI,221,,OVERALL,International Politics,,91,73.56043956,14.539760652,95.0,18.0,6,,,,,16,15,22,11,5,9
 UBCO,2017,W,POLI,222,,101,International Politics II,Adam Jones;Natalia Penuela Gallo,73,74.164383562,10.276745187000001,90.0,28.0,,,,,,11,12,16,16,6,
+UBCO,2017,W,POLI,222,,OVERALL,International Politics II,,73,74.164383562,10.276745187000001,90.0,28.0,,,,,,11,12,16,16,6,
 UBCO,2017,W,POLI,223,,001,"Introduction to Philosophy, Politics and Economics (PPE)",Carl Hodge,31,74.870967742,17.467573645,91.0,0.0,,,,,,,5,7,7,,
+UBCO,2017,W,POLI,223,,OVERALL,"Introduction to Philosophy, Politics and Economics (PPE)",,31,74.870967742,17.467573645,91.0,0.0,,,,,,,5,7,7,,
 UBCO,2017,W,POLI,240,,101,Currents of Political Thought,Helena Konanz;Valerie Freeland,68,76.647058824,11.074732173,96.0,35.0,,,,9,,,14,10,9,12,7
+UBCO,2017,W,POLI,240,,OVERALL,Currents of Political Thought,,68,76.647058824,11.074732173,96.0,35.0,,,,9,,,14,10,9,12,7
 UBCO,2017,W,POLI,303,,001,Federalism in Canada,Carey Doberstein,40,77.425,8.286187147,91.0,60.0,,,,,,7,5,8,6,6,
+UBCO,2017,W,POLI,303,,OVERALL,Federalism in Canada,,40,77.425,8.286187147,91.0,60.0,,,,,,7,5,8,6,6,
 UBCO,2017,W,POLI,319,,101,Issues in South American Politics,James Rochlin,35,76.657142857,16.076915963,95.0,20.0,,,,,5,,,,5,7,7
+UBCO,2017,W,POLI,319,,OVERALL,Issues in South American Politics,,35,76.657142857,16.076915963,95.0,20.0,,,,,5,,,,5,7,7
 UBCO,2017,W,POLI,334,,001,Government and Politics of the United States of America,Carl Hodge,38,75.868421053,9.569577507,91.0,35.0,,,,,,7,5,8,8,5,
+UBCO,2017,W,POLI,334,,OVERALL,Government and Politics of the United States of America,,38,75.868421053,9.569577507,91.0,35.0,,,,,,7,5,8,8,5,
 UBCO,2017,W,POLI,352,,101,Comparative Politics of Public Policy,Carey Doberstein,40,76.1,12.947230176,92.0,19.0,,,,,5,7,,,10,,5
+UBCO,2017,W,POLI,352,,OVERALL,Comparative Politics of Public Policy,,40,76.1,12.947230176,92.0,19.0,,,,,5,7,,,10,,5
 UBCO,2017,W,POLI,354,,001,History of Political Ideas I,Helena Konanz;Thomas Heilke,31,69.516129032,14.88594632,95.0,30.0,,,6,,,,,,5,,
+UBCO,2017,W,POLI,354,,OVERALL,History of Political Ideas I,,31,69.516129032,14.88594632,95.0,30.0,,,6,,,,,,5,,
 UBCO,2017,W,POLI,356,,101,History of Political Ideas II,Valerie Freeland,28,78.535714286,9.90877704,96.0,45.0,,,,,,,,7,7,6,
+UBCO,2017,W,POLI,356,,OVERALL,History of Political Ideas II,,28,78.535714286,9.90877704,96.0,45.0,,,,,,,,7,7,6,
 UBCO,2017,W,POLI,364,,001,International Organizations,Valerie Freeland,39,75.974358974,7.2854836910000005,92.0,61.0,,,,,,7,8,8,,5,
+UBCO,2017,W,POLI,364,,OVERALL,International Organizations,,39,75.974358974,7.2854836910000005,92.0,61.0,,,,,,7,8,8,,5,
 UBCO,2017,W,POLI,391,F,001,Special Topics in Political Science,Adam Jones,38,81.421052632,8.025740949,93.0,50.0,,,,,,,,,13,11,5
+UBCO,2017,W,POLI,391,F,OVERALL,Special Topics in Political Science,,38,81.421052632,8.025740949,93.0,50.0,,,,,,,,,13,11,5
 UBCO,2017,W,POLI,391,G,101,Special Topics in Political Science,Adam Jones,36,80.444444444,6.48269981,92.0,68.0,,,,,,,9,,10,8,
+UBCO,2017,W,POLI,391,G,OVERALL,Special Topics in Political Science,,36,80.444444444,6.48269981,92.0,68.0,,,,,,,9,,10,8,
 UBCO,2017,W,POLI,432,,101,Contemporary Issues in Law,Gillian Dougans,28,81.25,5.790317589,89.0,65.0,,,,,,,,,10,9,
+UBCO,2017,W,POLI,432,,OVERALL,Contemporary Issues in Law,,28,81.25,5.790317589,89.0,65.0,,,,,,,,,10,9,
 UBCO,2017,W,POLI,435,,001,International Politics on Film,Adam Jones,44,81.931818182,7.085516598,93.0,50.0,,,,,,,,10,15,10,6
+UBCO,2017,W,POLI,435,,OVERALL,International Politics on Film,,44,81.931818182,7.085516598,93.0,50.0,,,,,,,,10,15,10,6
 UBCO,2017,W,POLI,462,,101,International Relations Theory,James Rochlin,25,82.4,11.011357773,95.0,60.0,,,,,,,,,,,9
+UBCO,2017,W,POLI,462,,OVERALL,International Relations Theory,,25,82.4,11.011357773,95.0,60.0,,,,,,,,,,,9
 UBCO,2017,W,POLI,464,D,101,Problems in International Relations: Seminar,Adam Jones,25,84.32,4.7233462710000005,92.0,72.0,,,,,,,,,11,7,5
+UBCO,2017,W,POLI,464,D,OVERALL,Problems in International Relations: Seminar,,25,84.32,4.7233462710000005,92.0,72.0,,,,,,,,,11,7,5
+UBCO,2017,W,POLI,497,,OVERALL,Directed Studies for PPE Majors,,7,86.85714285700001,2.7945525239999998,90.0,83.0,,,,,,,,,,,

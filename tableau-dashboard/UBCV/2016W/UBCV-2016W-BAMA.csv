@@ -1,22 +1,32 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,BAMA,503,,001,New Product Development,Timothy Silk,24,83.541666667,2.4843714390000002,90.0,80.0,,,,,,,,,15,8,
 UBCV,2016,W,BAMA,503,,002,New Product Development,Timothy Silk,38,84.34210526300001,2.245431588,90.0,81.0,,,,,,,,,19,17,
+UBCV,2016,W,BAMA,503,,OVERALL,New Product Development,,62,84.032258065,2.3537047319999997,90.0,80.0,,,,,,,,,34,25,
 UBCV,2016,W,BAMA,504,,001,Integrated Marketing Communication,Ann Stone;Cole Christiansen,21,82.619047619,2.95763741,87.0,74.0,,,,,,,,,15,,
+UBCV,2016,W,BAMA,504,,OVERALL,Integrated Marketing Communication,,21,82.619047619,2.95763741,87.0,74.0,,,,,,,,,15,,
 UBCV,2016,W,BAMA,505,,MM1,Business Development,Ann Stone;David Miller,54,80.333333333,3.296653535,92.0,73.0,,,,,,,,15,31,,
+UBCV,2016,W,BAMA,505,,OVERALL,Business Development,,54,80.333333333,3.296653535,92.0,73.0,,,,,,,,15,31,,
 UBCV,2016,W,BAMA,506,,001,Consumer Behaviour,Katherine White;Yoonji Shim,40,83.275,3.2501479260000004,90.0,74.0,,,,,,,,,19,16,
+UBCV,2016,W,BAMA,506,,OVERALL,Consumer Behaviour,,40,83.275,3.2501479260000004,90.0,74.0,,,,,,,,,19,16,
 UBCV,2016,W,BAMA,508,,001,Marketing Research,Mona Imanpoor Yourdshahy;Yi Qian,23,84.391304348,4.979404222,92.0,76.0,,,,,,,,,7,7,6
 UBCV,2016,W,BAMA,508,,002,Marketing Research,Mona Imanpoor Yourdshahy;Yi Qian,24,85.125,4.089355217,92.0,76.0,,,,,,,,,6,12,5
-UBCV,2016,W,BAMA,508,,302,Marketing Research,Miremad Soleymanian;Yi Qian,22,86.818181818,2.281110081,92.0,83.0,,,,,,,,,,16,
+UBCV,2016,W,BAMA,508,,302,Marketing Research,Miremad Soleymanian;Yi Qian,22,86.818181818,2.281110081,92.0,83.0,,,,,,,,,2,16,
 UBCV,2016,W,BAMA,508,,MM1,Marketing Research,Ekin Ok;Jo Andrea Hoegg,55,79.945454545,4.652431391,91.0,68.0,,,,,,,5,16,19,11,
+UBCV,2016,W,BAMA,508,,OVERALL,Marketing Research,,124,82.991935484,5.09662086,92.0,68.0,,,,,,,5,20,34,46,16
 UBCV,2016,W,BAMA,514,,001,Brand Management,Timothy Silk,41,83.487804878,3.925060198,91.0,77.0,,,,,,,,,20,13,5
 UBCV,2016,W,BAMA,514,,302,Brand Management,Timothy Silk,29,85.034482759,2.94573249,90.0,78.0,,,,,,,,,11,15,
 UBCV,2016,W,BAMA,514,,816,Brand Management,Timothy Silk,31,83.935483871,2.5289719109999997,90.0,80.0,,,,,,,,,19,11,
+UBCV,2016,W,BAMA,514,,OVERALL,Brand Management,,101,84.069306931,3.3053212419999998,91.0,77.0,,,,,,,,,50,39,8
 UBCV,2016,W,BAMA,515,,001,Services Management,Kenton Low,41,84.707317073,4.874648205,95.0,77.0,,,,,,,,8,10,17,6
+UBCV,2016,W,BAMA,515,,OVERALL,Services Management,,41,84.707317073,4.874648205,95.0,77.0,,,,,,,,8,10,17,6
 UBCV,2016,W,BAMA,541,,001,Product Service Management,Gregory Werker;Julia Gartley;Timothy Silk,41,80.390243902,2.354549307,85.0,75.0,,,,,,,,9,29,,
 UBCV,2016,W,BAMA,541,,002,Product Service Management,Gregory Werker;Julia Gartley;Timothy Silk,41,80.0,2.439262184,85.0,74.0,,,,,,,,8,28,,
+UBCV,2016,W,BAMA,541,,OVERALL,Product Service Management,,82,80.195121951,2.390511203,85.0,74.0,,,,,,,5,17,57,,
 UBCV,2016,W,BAMA,550,,001,Marketing,Eli Bordman;Timothy Silk,49,77.571428571,6.31136541,88.0,66.0,,,,,,10,9,7,11,11,
 UBCV,2016,W,BAMA,550,,002,Marketing,Eli Bordman;Timothy Silk,50,78.84,4.941948719,86.0,67.0,,,,,,,10,8,21,7,
-UBCV,2016,W,BAMA,550,,201,Marketing,Phaedra Burke,7,80.428571429,3.154739443,85.0,76.0,,,,,,,,,,,
+UBCV,2016,W,BAMA,550,,201,Marketing,Phaedra Burke,7,80.428571429,3.154739443,85.0,76.0,,,,,,,,,4,1,
 UBCV,2016,W,BAMA,550,,301,Marketing,Timothy Silk,47,81.85106383,5.04750788,93.0,70.0,,,,,,,5,7,21,8,5
 UBCV,2016,W,BAMA,550,,MM1,Marketing,Jaqueline Paige Yan;Jaqueline Yan;Kirstin Appelt,55,82.6,6.436585246,94.0,61.0,,,,,,,,,24,14,7
+UBCV,2016,W,BAMA,550,,OVERALL,Marketing,,208,80.26923076899999,6.000371597999999,94.0,61.0,,,,,,15,27,28,81,41,12
 UBCV,2016,W,BAMA,580,D,001,Topics in Marketing,Ann Stone,38,80.263157895,5.898621967,88.0,50.0,,,,,,,,13,19,5,
+UBCV,2016,W,BAMA,580,D,OVERALL,Topics in Marketing,,38,80.263157895,5.898621967,88.0,50.0,,,,,,,,13,19,5,

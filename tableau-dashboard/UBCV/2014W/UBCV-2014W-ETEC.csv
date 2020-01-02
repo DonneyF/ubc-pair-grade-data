@@ -1,36 +1,50 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,ETEC,500,,65A,Research Methodology in Education,Sunah Cho,22,92.0,2.708012802,97.0,86.0,,,,,,,,,,,19
+UBCV,2014,W,ETEC,500,,65A,Research Methodology in Education,Sunah Cho,22,92.0,2.708012802,97.0,86.0,,,,,,,,,,3,19
 UBCV,2014,W,ETEC,500,,65B,Research Methodology in Education,Sunah Cho,23,90.956521739,2.033319294,95.0,88.0,,,,,,,,,,7,16
 UBCV,2014,W,ETEC,500,,65C,Research Methodology in Education,Janet Mccracken;Janet R Mccracken,19,83.94736842100001,15.446947502,93.0,23.0,,,,,,,,,,7,6
 UBCV,2014,W,ETEC,500,,65D,Research Methodology in Education,Oksana Bartosh,19,86.05263157899999,7.933569213999999,95.0,68.0,,,,,,,,,,7,7
+UBCV,2014,W,ETEC,500,,OVERALL,Research Methodology in Education,,83,88.506024096,8.963848115,97.0,23.0,,,,,,,,,6,24,48
 UBCV,2014,W,ETEC,510,,65A,Design of Technology- Supported Learning Environments,Diane Janes,18,93.0,1.4142135619999998,96.0,90.0,,,,,,,,,,,18
 UBCV,2014,W,ETEC,510,,65B,Design of Technology- Supported Learning Environments,Diane Janes,22,92.0,1.66189794,95.0,89.0,,,,,,,,,,,20
 UBCV,2014,W,ETEC,510,,65C,Design of Technology- Supported Learning Environments,Jeffrey D Miller;Jeffrey Miller,22,89.909090909,4.286291447,93.0,75.0,,,,,,,,,,,19
 UBCV,2014,W,ETEC,510,,65D,Design of Technology- Supported Learning Environments,Jeffrey D Miller;Jeffrey Miller,19,90.210526316,3.923985323,94.0,75.0,,,,,,,,,,,17
 UBCV,2014,W,ETEC,510,,65E,Design of Technology- Supported Learning Environments,Chelsey Hauge,21,91.428571429,4.489670685,97.0,79.0,,,,,,,,,,,16
+UBCV,2014,W,ETEC,510,,OVERALL,Design of Technology- Supported Learning Environments,,102,91.27450980399999,3.568722385,97.0,75.0,,,,,,,,,,7,90
 UBCV,2014,W,ETEC,511,,64A,Foundations of Educational Technology,Stephen Petrina,21,89.380952381,4.104585125,95.0,80.0,,,,,,,,,,6,12
 UBCV,2014,W,ETEC,511,,64B,Foundations of Educational Technology,Francis Feng,18,89.77777777799999,3.281957012,94.0,80.0,,,,,,,,,,5,12
-UBCV,2014,W,ETEC,511,,64C,Foundations of Educational Technology,Matiul Alam,18,85.611111111,9.312476696000001,93.0,50.0,,,,,,,,,,10,
-UBCV,2014,W,ETEC,511,,64D,Foundations of Educational Technology,Matiul Alam,18,90.77777777799999,4.386551044,95.0,78.0,,,,,,,,,,,13
+UBCV,2014,W,ETEC,511,,64C,Foundations of Educational Technology,Matiul Alam,18,85.611111111,9.312476696000001,93.0,50.0,,,,,,,,,,10,4
+UBCV,2014,W,ETEC,511,,64D,Foundations of Educational Technology,Matiul Alam,18,90.77777777799999,4.386551044,95.0,78.0,,,,,,,,,,4,13
 UBCV,2014,W,ETEC,511,,64E,Foundations of Educational Technology,Norman Friesen,15,87.4,4.436858606,96.0,81.0,,,,,,,,,,6,5
+UBCV,2014,W,ETEC,511,,OVERALL,Foundations of Educational Technology,,90,88.65555555600001,5.7105483139999995,96.0,50.0,,,,,,,,,11,31,46
 UBCV,2014,W,ETEC,512,,64A,Applications of Learning Theories to the Analysis of Instructional Settings,Jennifer Shapka,23,88.652173913,2.5868319630000003,94.0,82.0,,,,,,,,,,15,7
 UBCV,2014,W,ETEC,512,,64B,Applications of Learning Theories to the Analysis of Instructional Settings,Sunah Cho,21,90.904761905,4.5706100460000005,98.0,79.0,,,,,,,,,,,16
 UBCV,2014,W,ETEC,512,,64C,Applications of Learning Theories to the Analysis of Instructional Settings,Janet Mccracken;Janet R Mccracken,23,84.695652174,12.657857002,99.0,33.0,,,,,,,,,,7,7
 UBCV,2014,W,ETEC,512,,64D,Applications of Learning Theories to the Analysis of Instructional Settings,Sunah Cho,23,92.304347826,3.168521057,98.0,86.0,,,,,,,,,,,21
-UBCV,2014,W,ETEC,520,,65A,Planning and Managing Learning Technologies in Higher Education,Mark Bullen,16,86.4375,5.111669655,96.0,77.0,,,,,,,,,,8,
+UBCV,2014,W,ETEC,512,,OVERALL,Applications of Learning Theories to the Analysis of Instructional Settings,,90,89.1,7.544698265,99.0,33.0,,,,,,,,5,6,27,51
+UBCV,2014,W,ETEC,520,,65A,Planning and Managing Learning Technologies in Higher Education,Mark Bullen,16,86.4375,5.111669655,96.0,77.0,,,,,,,,,,8,3
 UBCV,2014,W,ETEC,520,,65B,Planning and Managing Learning Technologies in Higher Education,Tatiana Bourlova,15,89.933333333,4.742914515,98.0,82.0,,,,,,,,,,7,6
+UBCV,2014,W,ETEC,520,,OVERALL,Planning and Managing Learning Technologies in Higher Education,,31,88.129032258,5.168764749,98.0,77.0,,,,,,,,,6,15,9
 UBCV,2014,W,ETEC,521,,64A,"Indigeneity, Technology, and Education",Michael Marker,15,91.53333333299999,4.323799035,96.0,82.0,,,,,,,,,,,12
+UBCV,2014,W,ETEC,521,,OVERALL,"Indigeneity, Technology, and Education",,15,91.53333333299999,4.323799035,96.0,82.0,,,,,,,,,,,12
 UBCV,2014,W,ETEC,522,,64A,Ventures in Learning Technology,David Vogt,18,86.611111111,3.483387278,92.0,80.0,,,,,,,,,,13,
-UBCV,2014,W,ETEC,522,,64B,Ventures in Learning Technology,David Vogt,10,77.6,19.009938921,92.0,26.0,,,,,,,,,,,
+UBCV,2014,W,ETEC,522,,64B,Ventures in Learning Technology,David Vogt,10,77.6,19.009938921,92.0,26.0,,,,,,,,,,4,
+UBCV,2014,W,ETEC,522,,OVERALL,Ventures in Learning Technology,,28,83.392857143,12.142180187000001,92.0,26.0,,,,,,,,,,17,
 UBCV,2014,W,ETEC,530,,65A,Constructivism Strategies for E-Learning,Diane Janes,22,90.863636364,1.698611605,94.0,88.0,,,,,,,,,,5,17
 UBCV,2014,W,ETEC,530,,65B,Constructivism Strategies for E-Learning,Diane Janes,18,90.388888889,2.428722465,95.0,87.0,,,,,,,,,,8,10
+UBCV,2014,W,ETEC,530,,OVERALL,Constructivism Strategies for E-Learning,,40,90.65,2.045006426,95.0,87.0,,,,,,,,,,13,27
 UBCV,2014,W,ETEC,531,,64A,Curriculum Issues in Cultural and New Media Studies,Francis Feng,23,92.347826087,3.712493595,98.0,85.0,,,,,,,,,,,19
+UBCV,2014,W,ETEC,531,,OVERALL,Curriculum Issues in Cultural and New Media Studies,,23,92.347826087,3.712493595,98.0,85.0,,,,,,,,,,,19
 UBCV,2014,W,ETEC,532,,65A,Technology in the Arts and the Humanities Classroom,Alexander De Cosson,17,94.0,3.278719262,98.0,88.0,,,,,,,,,,,16
 UBCV,2014,W,ETEC,532,,65B,Technology in the Arts and the Humanities Classroom,Alexander De Cosson,14,92.214285714,4.475206423,98.0,81.0,,,,,,,,,,,10
+UBCV,2014,W,ETEC,532,,OVERALL,Technology in the Arts and the Humanities Classroom,,31,93.193548387,3.9023014989999996,98.0,81.0,,,,,,,,,,,26
 UBCV,2014,W,ETEC,533,,65A,Technology in the Mathematics and Science Classroom,Marina Milner-Bolotin,24,95.958333333,1.334465099,98.0,92.0,,,,,,,,,,,24
+UBCV,2014,W,ETEC,533,,OVERALL,Technology in the Mathematics and Science Classroom,,24,95.958333333,1.334465099,98.0,92.0,,,,,,,,,,,24
 UBCV,2014,W,ETEC,540,,64A,Text Technologies: The Changing Spaces of Reading and Writing,Anneke Van Enk,18,90.888888889,4.5229986,97.0,81.0,,,,,,,,,,,12
 UBCV,2014,W,ETEC,540,,64B,Text Technologies: The Changing Spaces of Reading and Writing,Anneke Van Enk,16,85.625,9.215023965,99.0,68.0,,,,,,,,,,,7
-UBCV,2014,W,ETEC,565,A,64A,Special Course in Subject Matter Field,Natasha Boskic,16,91.0625,5.926986306,98.0,77.0,,,,,,,,,,,10
+UBCV,2014,W,ETEC,540,,OVERALL,Text Technologies: The Changing Spaces of Reading and Writing,,34,88.411764706,7.499970291,99.0,68.0,,,,,,,,,6,6,19
+UBCV,2014,W,ETEC,565,A,64A,Special Course in Subject Matter Field,Natasha Boskic,16,91.0625,5.926986306,98.0,77.0,,,,,,,,,,-14,10
 UBCV,2014,W,ETEC,565,A,64B,Special Course in Subject Matter Field,Tatiana Bourlova,19,84.684210526,21.231665637,98.0,0.0,,,,,,,,,,5,9
+UBCV,2014,W,ETEC,565,A,OVERALL,Special Course in Subject Matter Field,,35,87.6,16.264721838,98.0,0.0,,,,,,,,,,9,19
 UBCV,2014,W,ETEC,565,M,65A,Special Course in Subject Matter Field,David Vogt,20,85.75,5.674272501,93.0,70.0,,,,,,,,,,10,5
 UBCV,2014,W,ETEC,565,M,65B,Special Course in Subject Matter Field,David Vogt,19,86.89473684200001,3.942570183,95.0,78.0,,,,,,,,,,10,5
+UBCV,2014,W,ETEC,565,M,OVERALL,Special Course in Subject Matter Field,,39,86.30769230799999,4.8782753969999995,95.0,70.0,,,,,,,,,6,20,10

@@ -1,25 +1,45 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2017,W,PHIL,111,,001,Introduction to Philosophy I,Nathan Malcomson;Ruth Lowe-Walker,61,72.754098361,11.061428084000001,92.0,38.0,,,,9,7,6,6,6,15,6,
-UBCO,2017,W,PHIL,111,,002,Introduction to Philosophy I,Andrew Irvine,41,70.463414634,11.441366965999999,91.0,43.0,,,,,,9,9,,6,,
-UBCO,2017,W,PHIL,111,,101,Introduction to Philosophy I,James Robinson,52,65.192307692,15.43873212,88.0,17.0,7,,,,10,,6,9,,,
-UBCO,2017,W,PHIL,120,,001,Introduction to Logic and Critical Thinking,Giovanni Grandi;Kristian Zulinick,124,67.85483871,16.748592247,99.0,11.0,15,6,14,16,7,14,9,14,10,,15
-UBCO,2017,W,PHIL,120,,101,Introduction to Logic and Critical Thinking,Giovanni Grandi;Kristian Zulinick,125,63.312,22.732815559000002,97.0,0.0,30,8,14,,10,,12,13,10,6,15
-UBCO,2017,W,PHIL,121,,101,Introduction to Philosophy II,Julian Carusone;Thomas Ryder,61,67.885245902,17.035353788,94.0,17.0,6,,5,8,7,,9,,11,8,
-UBCO,2017,W,PHIL,121,,102,Introduction to Philosophy II,Julian Carusone;Thomas Ryder,63,68.841269841,19.465607677,96.0,15.0,9,,,,,,8,11,6,8,5
+UBCO,2017,W,PHIL,111,,002,Introduction to Philosophy I,Andrew Irvine,41,70.463414634,11.441366965999999,91.0,43.0,,,,,1,9,9,4,6,,
+UBCO,2017,W,PHIL,111,,101,Introduction to Philosophy I,James Robinson,52,65.192307692,15.43873212,88.0,17.0,7,,,,10,4,6,9,2,,
+UBCO,2017,W,PHIL,111,,OVERALL,Introduction to Philosophy I,,154,69.590909091,13.131120365,92.0,17.0,13,5,7,14,18,19,21,19,23,12,3.0
+UBCO,2017,W,PHIL,120,,001,Introduction to Logic and Critical Thinking,Giovanni Grandi;Kristian Zulinick,124,67.85483871,16.748592247,99.0,11.0,15,6,14,16,7,14,9,14,10,4.0,15
+UBCO,2017,W,PHIL,120,,101,Introduction to Logic and Critical Thinking,Giovanni Grandi;Kristian Zulinick,125,63.312,22.732815559000002,97.0,0.0,30,8,14,3,10,4,12,13,10,6,15
+UBCO,2017,W,PHIL,120,,OVERALL,Introduction to Logic and Critical Thinking,,249,65.57429718899999,20.067313688,99.0,0.0,45,14,28,19,17,18,21,27,20,10,30
+UBCO,2017,W,PHIL,121,,101,Introduction to Philosophy II,Julian Carusone;Thomas Ryder,61,67.885245902,17.035353788,94.0,17.0,6,,5,8,7,,9,2,11,8,1
+UBCO,2017,W,PHIL,121,,102,Introduction to Philosophy II,Julian Carusone;Thomas Ryder,63,68.841269841,19.465607677,96.0,15.0,9,,3,3,4,,8,11,6,8,5
+UBCO,2017,W,PHIL,121,,OVERALL,Introduction to Philosophy II,,124,68.370967742,18.242480461,96.0,15.0,15,6,8,11,11,4.0,17,13,17,16,6
 UBCO,2017,W,PHIL,210,,101,Introduction to Social and Political Philosophy,Helena Konanz;Ruth Lowe-Walker,40,76.45,18.372150049000002,90.0,0.0,,,,,,,7,,8,16,
+UBCO,2017,W,PHIL,210,,OVERALL,Introduction to Social and Political Philosophy,,40,76.45,18.372150049000002,90.0,0.0,,,,,,,7,,8,16,
 UBCO,2017,W,PHIL,220,,101,Symbolic Logic I,Wolfgang Holger Andreas,31,78.677419355,19.722047049,100.0,19.0,,,,,,,,,,5,11
+UBCO,2017,W,PHIL,220,,OVERALL,Symbolic Logic I,,31,78.677419355,19.722047049,100.0,19.0,,,,,,,,,,5,11
 UBCO,2017,W,PHIL,230,,001,Ethics,James Robinson,53,69.698113208,14.796809565,91.0,10.0,,,,8,,6,6,6,8,5,
+UBCO,2017,W,PHIL,230,,OVERALL,Ethics,,53,69.698113208,14.796809565,91.0,10.0,,,,8,,6,6,6,8,5,
 UBCO,2017,W,PHIL,233,,001,Biomedical Ethics,Thomas Ryder,57,77.15789473699999,9.746408631,94.0,57.0,,,,6,,7,8,,15,7,7
+UBCO,2017,W,PHIL,233,,OVERALL,Biomedical Ethics,,57,77.15789473699999,9.746408631,94.0,57.0,,,,6,,7,8,,15,7,7
 UBCO,2017,W,PHIL,245,,001,Introduction to Metaphysics,Wolfgang Holger Andreas,22,77.681818182,16.582797638,98.0,29.0,,,,,,,,,,,6
+UBCO,2017,W,PHIL,245,,OVERALL,Introduction to Metaphysics,,22,77.681818182,16.582797638,98.0,29.0,,,,,,,,,,,6
 UBCO,2017,W,PHIL,310,,101,The Philosophy of Plato,James Robinson,27,68.74074074100001,12.921635383,92.0,43.0,,,,,5,5,,,,,
+UBCO,2017,W,PHIL,310,,OVERALL,The Philosophy of Plato,,27,68.74074074100001,12.921635383,92.0,43.0,,,,,5,5,,,,,
 UBCO,2017,W,PHIL,314,,001,Philosophy in the 17th Century,Giovanni Grandi,23,71.173913043,12.21642774,93.0,48.0,,,,,,,,,5,,
+UBCO,2017,W,PHIL,314,,OVERALL,Philosophy in the 17th Century,,23,71.173913043,12.21642774,93.0,48.0,,,,,,,,,5,,
 UBCO,2017,W,PHIL,331,,101,Computer Ethics,Helena Konanz;Nathan Malcomson;Ruth Lowe-Walker,75,78.706666667,8.467383101,94.0,57.0,,,,,,8,8,10,19,16,6
+UBCO,2017,W,PHIL,331,,OVERALL,Computer Ethics,,75,78.706666667,8.467383101,94.0,57.0,,,,,,8,8,10,19,16,6
 UBCO,2017,W,PHIL,338,,101,Philosophy of Law,Andrew Irvine,37,74.324324324,12.458941577000001,94.0,28.0,,,,6,,,7,,8,5,
+UBCO,2017,W,PHIL,338,,OVERALL,Philosophy of Law,,37,74.324324324,12.458941577000001,94.0,28.0,,,,6,,,7,,8,5,
 UBCO,2017,W,PHIL,345,,101,Theory of Knowledge,Manuela Ungureanu,30,69.06666666699999,20.759598251,92.0,0.0,,,,,,,,,,6,
+UBCO,2017,W,PHIL,345,,OVERALL,Theory of Knowledge,,30,69.06666666699999,20.759598251,92.0,0.0,,,,,,,,,,6,
 UBCO,2017,W,PHIL,391,B,101,Topics in Philosophy,Wolfgang Holger Andreas,5,68.8,39.644671773,99.0,0.0,,,,,,,,,,,
+UBCO,2017,W,PHIL,391,B,OVERALL,Topics in Philosophy,,5,68.8,39.644671773,99.0,0.0,,,,,,,,,,,
 UBCO,2017,W,PHIL,425,,101,Philosophy of Language,Manuela Ungureanu,10,78.3,10.46740974,90.0,58.0,,,,,,,,,,,
+UBCO,2017,W,PHIL,425,,OVERALL,Philosophy of Language,,10,78.3,10.46740974,90.0,58.0,,,,,,,,,,,
 UBCO,2017,W,PHIL,434,,101,Business Ethics,Giovanni Grandi;Nathan Malcomson;Ruth Lowe-Walker,32,76.03125,15.398961789000001,88.0,0.0,,,,,,,,7,9,7,
+UBCO,2017,W,PHIL,434,,OVERALL,Business Ethics,,32,76.03125,15.398961789000001,88.0,0.0,,,,,,,,7,9,7,
 UBCO,2017,W,PHIL,435,,001,Environmental Ethics,James Robinson,25,73.84,10.562038945,93.0,40.0,,,,,,,,5,,,
+UBCO,2017,W,PHIL,435,,OVERALL,Environmental Ethics,,25,73.84,10.562038945,93.0,40.0,,,,,,,,5,,,
 UBCO,2017,W,PHIL,437,,001,Philosophy and the Global Order,Nathan Malcomson;Ruth Lowe-Walker,36,79.722222222,9.019379488,90.0,53.0,,,,,,,,8,8,10,
+UBCO,2017,W,PHIL,437,,OVERALL,Philosophy and the Global Order,,36,79.722222222,9.019379488,90.0,53.0,,,,,,,,8,8,10,
 UBCO,2017,W,PHIL,446,,001,Philosophy of Psychology,Thomas Ryder,32,72.3125,18.150690914000002,93.0,8.0,,,,,6,,,,,6,
+UBCO,2017,W,PHIL,446,,OVERALL,Philosophy of Psychology,,32,72.3125,18.150690914000002,93.0,8.0,,,,,6,,,,,6,
 UBCO,2017,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,16,74.3125,14.022452234000001,100.0,55.0,,,,,,,,,,,
+UBCO,2017,W,PHIL,460,,OVERALL,Philosophy of Science,,16,74.3125,14.022452234000001,100.0,55.0,,,,,,,,,,,

@@ -1,13 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2014,W,STAT,121,,001,Elementary Statistics,Sylvia Esterby,99,64.545454545,19.225446959,92.0,0.0,15,13,7,6,,16,8,7,11,8,5
-UBCO,2014,W,STAT,121,,101,Elementary Statistics,Emelie Gustafsson,99,75.424242424,22.799521526,100.0,0.0,10,,,,6,,10,5,15,19,24
-UBCO,2014,W,STAT,124,,001,Business Statistics,Hsing-Ming Chang,97,62.371134021,22.941646804,99.0,0.0,27,8,7,7,7,5,6,,,7,15
-UBCO,2014,W,STAT,124,,101,Business Statistics,Emelie Gustafsson,119,81.983193277,18.607444835,100.0,0.0,9,,,,,,,6,17,28,47
+UBCO,2014,W,STAT,121,,001,Elementary Statistics,Sylvia Esterby,99,64.545454545,19.225446959,92.0,0.0,15,13,7,6,3.0,16,8,7,11,8,5
+UBCO,2014,W,STAT,121,,101,Elementary Statistics,Emelie Gustafsson,99,75.424242424,22.799521526,100.0,0.0,10,1,4,1,6,4,10,5,15,19,24
+UBCO,2014,W,STAT,121,,OVERALL,Elementary Statistics,,198,69.984848485,21.730111339,100.0,0.0,25,14,11,7,9,20,18,12,26,27,29
+UBCO,2014,W,STAT,124,,001,Business Statistics,Hsing-Ming Chang,97,62.371134021,22.941646804,99.0,0.0,27,8,7,7,7,5,6,4,4,7,15
+UBCO,2014,W,STAT,124,,101,Business Statistics,Emelie Gustafsson,119,81.983193277,18.607444835,100.0,0.0,9,4,1,0,1,3,3,6,17,28,47
+UBCO,2014,W,STAT,124,,OVERALL,Business Statistics,,216,73.175925926,22.817508049,100.0,0.0,36,12,8,7,8,8,9,10,21,35,62
 UBCO,2014,W,STAT,230,,001,Introductory Statistics,Paramjit Gill,170,70.094117647,13.602665532,96.0,5.0,5,7,14,21,15,19,25,11,31,10,12
+UBCO,2014,W,STAT,230,,OVERALL,Introductory Statistics,,170,70.094117647,13.602665532,96.0,5.0,5,7,14,21,15,19,25,11,31,10,12
 UBCO,2014,W,STAT,240,,001,Statistical Reasoning,Joel Therrien;Paramjit Gill,19,67.05263157899999,14.994345913,90.0,35.0,,,,,,,5,,,,
+UBCO,2014,W,STAT,240,,OVERALL,Statistical Reasoning,,19,67.05263157899999,14.994345913,90.0,35.0,,,,,,,5,,,,
 UBCO,2014,W,STAT,303,,001,Introduction to Probability,Jason Loeppky,64,64.59375,21.517596159,99.0,8.0,12,,,8,6,5,5,5,9,,6
+UBCO,2014,W,STAT,303,,OVERALL,Introduction to Probability,,64,64.59375,21.517596159,99.0,8.0,12,,,8,6,5,5,5,9,,6
 UBCO,2014,W,STAT,309,,001,Introduction to Statistical Inference,Paramjit Gill;Stefan Sremac,25,59.36,23.464299123000004,97.0,0.0,5,,,,,,,,,,
+UBCO,2014,W,STAT,309,,OVERALL,Introduction to Statistical Inference,,25,59.36,23.464299123000004,97.0,0.0,5,,,,,,,,,,
 UBCO,2014,W,STAT,310,,001,Regression Analysis,Sylvia Esterby,5,69.2,15.352524222000001,93.0,51.0,,,,,,,,,,,
+UBCO,2014,W,STAT,310,,OVERALL,Regression Analysis,,5,69.2,15.352524222000001,93.0,51.0,,,,,,,,,,,
 UBCO,2014,W,STAT,311,,001,Modern Statistical Methods,Jason Loeppky;Joel Therrien,25,75.6,19.824227602,99.0,34.0,,,,,,,,,,,8
+UBCO,2014,W,STAT,311,,OVERALL,Modern Statistical Methods,,25,75.6,19.824227602,99.0,34.0,,,,,,,,,,,8
 UBCO,2014,W,STAT,405,,001,Design and Analysis of Experiments,Paramjit Gill,8,74.625,12.500714265,94.0,60.0,,,,,,,,,,,
+UBCO,2014,W,STAT,405,,OVERALL,Design and Analysis of Experiments,,8,74.625,12.500714265,94.0,60.0,,,,,,,,,,,
 UBCO,2014,W,STAT,449,S,001,,John Braun,6,83.5,13.156747317999999,97.0,64.0,,,,,,,,,,,
+UBCO,2014,W,STAT,449,S,OVERALL,,,6,83.5,13.156747317999999,97.0,64.0,,,,,,,,,,,

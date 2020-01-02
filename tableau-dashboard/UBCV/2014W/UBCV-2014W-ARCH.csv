@@ -1,55 +1,93 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,ARCH,403,,001,Themes in Architecture and Design,Christopher Macdonald;Rory Fulber;Stephanie Matkaluk,30,81.866666667,1.978040363,84.0,77.0,,,,,,,,,26,,
+UBCV,2014,W,ARCH,403,,OVERALL,Themes in Architecture and Design,,30,81.866666667,1.978040363,84.0,77.0,,,,,,,,,26,,
 UBCV,2014,W,ARCH,404,,001,Architectural History I,Sherry Mckay,12,80.833333333,5.9518268139999995,88.0,67.0,,,,,,,,,6,,
+UBCV,2014,W,ARCH,404,,OVERALL,Architectural History I,,12,80.833333333,5.9518268139999995,88.0,67.0,,,,,,,,,6,,
 UBCV,2014,W,ARCH,405,,001,Architectural History II,Sherry Mckay,6,77.0,6.32455532,85.0,70.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,405,,OVERALL,Architectural History II,,6,77.0,6.32455532,85.0,70.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,411,,001,Materials and Methods of Construction,Bill Pechet,26,89.346153846,2.841722121,94.0,85.0,,,,,,,,,,12,14
-UBCV,2014,W,ARCH,437,,001,Geometric Modeling,Edward Sungho Kim,30,81.466666667,4.57680308,90.0,72.0,,,,,,,,10,8,9,
-UBCV,2014,W,ARCH,437,,002,Geometric Modeling,Blair Satterfield;David Flanders;Lorinc Vass;Robert Gaudin;Robert Machida;Robert Thomas Andrew Gaudin,32,84.03125,5.468292032000001,92.0,70.0,,,,,,,,,13,7,8
+UBCV,2014,W,ARCH,411,,OVERALL,Materials and Methods of Construction,,26,89.346153846,2.841722121,94.0,85.0,,,,,,,,,,12,14
+UBCV,2014,W,ARCH,437,,001,Geometric Modeling,Edward Sungho Kim,30,81.466666667,4.57680308,90.0,72.0,,,,,,,,10,8,9,2
+UBCV,2014,W,ARCH,437,,002,Geometric Modeling,Blair Satterfield;David Flanders;Lorinc Vass;Robert Gaudin;Robert Machida,32,84.03125,5.468292032000001,92.0,70.0,,,,,,,,2,13,7,8
+UBCV,2014,W,ARCH,437,,OVERALL,Geometric Modeling,,62,82.790322581,5.1792052580000005,92.0,70.0,,,,,,,,12,21,16,10
 UBCV,2014,W,ARCH,500,,001,Architectural Design Studio I: First Term Core,Inge Roecker;Joanne Gates;John Bass,35,81.028571429,4.126568966000001,88.0,68.0,,,,,,,,7,16,9,
+UBCV,2014,W,ARCH,500,,OVERALL,Architectural Design Studio I: First Term Core,,35,81.028571429,4.126568966000001,88.0,68.0,,,,,,,,7,16,9,
 UBCV,2014,W,ARCH,501,,003,Architectural Design Studio II: Vertical Studio,Annalisa Meyboom,5,84.8,6.978538529,90.0,73.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,501,,010,Architectural Design Studio II: Vertical Studio,Inge Roecker,7,82.428571429,3.823486317,88.0,78.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,501,,011,Architectural Design Studio II: Vertical Studio,Stephanie Robb,8,80.875,5.642631099,90.0,70.0,,,,,,,,,5,,
 UBCV,2014,W,ARCH,501,,012,Architectural Design Studio II: Vertical Studio,Joseph Dahmen,10,79.8,4.848825746,88.0,73.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,501,,013,Architectural Design Studio II: Vertical Studio,Brian Wakelin;John Wall,9,79.777777778,6.016181883,91.0,70.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,501,,OVERALL,Architectural Design Studio II: Vertical Studio,,51,81.019607843,6.944033975,91.0,50.0,,,,,,,,9,17,14,
 UBCV,2014,W,ARCH,504,,001,Architectural History 1A,Sherry Mckay,36,79.0,4.229150539,87.0,69.0,,,,,,,6,,24,,
+UBCV,2014,W,ARCH,504,,OVERALL,Architectural History 1A,,36,79.0,4.229150539,87.0,69.0,,,,,,,6,,24,,
 UBCV,2014,W,ARCH,505,,001,Architectural History 1B,Sherry Mckay,52,77.98076923100001,9.266194905,92.0,25.0,,,,,,,7,14,20,,
+UBCV,2014,W,ARCH,505,,OVERALL,Architectural History 1B,,52,77.98076923100001,9.266194905,92.0,25.0,,,,,,,7,14,20,,
 UBCV,2014,W,ARCH,511,,001,Architectural Technology I,Gregory Johnson;Jason Heinrich,32,79.09375,8.513213165,95.0,63.0,,,,,,5,5,,10,,5
+UBCV,2014,W,ARCH,511,,OVERALL,Architectural Technology I,,32,79.09375,8.513213165,95.0,63.0,,,,,,5,5,,10,,5
 UBCV,2014,W,ARCH,512,,001,Structures I,Annalisa Meyboom,42,85.619047619,8.781778199,100.0,66.0,,,,,,,,,9,12,12
+UBCV,2014,W,ARCH,512,,OVERALL,Structures I,,42,85.619047619,8.781778199,100.0,66.0,,,,,,,,,9,12,12
 UBCV,2014,W,ARCH,513,,001,Environmental Systems and Controls I,Raymond John Cole;Raymond John J Cole,45,81.088888889,6.055884524,90.0,53.0,,,,,,,,9,16,14,
+UBCV,2014,W,ARCH,513,,OVERALL,Environmental Systems and Controls I,,45,81.088888889,6.055884524,90.0,53.0,,,,,,,,9,16,14,
 UBCV,2014,W,ARCH,515,,001,Design Media I,John Bass,44,81.363636364,4.329943923,91.0,72.0,,,,,,,,11,19,10,
+UBCV,2014,W,ARCH,515,,OVERALL,Design Media I,,44,81.363636364,4.329943923,91.0,72.0,,,,,,,,11,19,10,
 UBCV,2014,W,ARCH,517,,001,Design Media II,Blair Satterfield;David Flanders;Lorinc Vass;Robert Gaudin;Robert Machida;Robert Thomas Andrew Gaudin,52,83.846153846,5.046391121,92.0,70.0,,,,,,,,,17,19,8
+UBCV,2014,W,ARCH,517,,OVERALL,Design Media II,,52,83.846153846,5.046391121,92.0,70.0,,,,,,,,,17,19,8
 UBCV,2014,W,ARCH,520,,002,Architectural Design Studio III: Vertical Studio,John Hemsworth,5,78.6,1.516575089,81.0,77.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,520,,003,Architectural Design Studio III: Vertical Studio,Annalisa Meyboom,8,85.25,3.240370349,90.0,80.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,520,,005,Architectural Design Studio III: Vertical Studio,Bill Pechet,6,82.666666667,3.011090611,86.0,78.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,520,,007,Architectural Design Studio III: Vertical Studio,,7,79.0,6.506407099,87.0,70.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,520,,008,Architectural Design Studio III: Vertical Studio,Matthew Soules,7,84.857142857,1.864454471,88.0,83.0,,,,,,,,,5,,
 UBCV,2014,W,ARCH,520,,010,Architectural Design Studio III: Vertical Studio,Inge Roecker,5,82.8,3.898717738,88.0,80.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,520,,OVERALL,Architectural Design Studio III: Vertical Studio,,48,81.895833333,4.677877239,90.0,70.0,,,,,,,,7,21,13,
 UBCV,2014,W,ARCH,521,,009,Architectural Design Studio IV:  Comprehensive Design Studio,Christopher Macdonald;Joanne Gates;Matthew Soules,45,82.71111111100001,5.150561409,90.0,70.0,,,,,,,,6,20,6,8
+UBCV,2014,W,ARCH,521,,OVERALL,Architectural Design Studio IV:  Comprehensive Design Studio,,45,82.71111111100001,5.150561409,90.0,70.0,,,,,,,,6,20,6,8
 UBCV,2014,W,ARCH,523,,001,Contemporary Theories in Architecture,Sherry Mckay,48,79.875,5.365869286000001,91.0,64.0,,,,,,,6,9,21,7,
+UBCV,2014,W,ARCH,523,,OVERALL,Contemporary Theories in Architecture,,48,79.875,5.365869286000001,91.0,64.0,,,,,,,6,9,21,7,
 UBCV,2014,W,ARCH,531,,001,Architectural Technology II,Gregory Johnson,36,84.944444444,6.667380914,95.0,67.0,,,,,,,,,10,10,10
+UBCV,2014,W,ARCH,531,,OVERALL,Architectural Technology II,,36,84.944444444,6.667380914,95.0,67.0,,,,,,,,,10,10,10
 UBCV,2014,W,ARCH,532,,001,Architectural Structures II,Annalisa Meyboom;Daniel Aspinall,33,83.96969697,7.703428005,98.0,69.0,,,,,,,,,11,5,9
+UBCV,2014,W,ARCH,532,,OVERALL,Architectural Structures II,,33,83.96969697,7.703428005,98.0,69.0,,,,,,,,,11,5,9
 UBCV,2014,W,ARCH,533,,001,Environmental Systems and Controls II,Joseph Dahmen,38,84.789473684,4.645008333,91.0,69.0,,,,,,,,,10,17,6
+UBCV,2014,W,ARCH,533,,OVERALL,Environmental Systems and Controls II,,38,84.789473684,4.645008333,91.0,69.0,,,,,,,,,10,17,6
 UBCV,2014,W,ARCH,540,,002,Architectural Design Studio V: Vertical Studio,John Hemsworth,8,79.875,3.2705394919999997,86.0,75.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,540,,005,Architectural Design Studio V: Vertical Studio,Bill Pechet,7,86.85714285700001,4.879500365,92.0,80.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,540,,007,Architectural Design Studio V: Vertical Studio,,6,82.666666667,4.131182236,89.0,77.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,540,,008,Architectural Design Studio V: Vertical Studio,Matthew Soules,5,82.4,6.188699379,92.0,75.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,540,,OVERALL,Architectural Design Studio V: Vertical Studio,,35,83.857142857,4.965426687,92.0,75.0,,,,,,,,,16,7,7
 UBCV,2014,W,ARCH,541,,001,Process and Practice of Architecture,Nicholas Paczkowski,44,82.795454545,8.048052041,94.0,60.0,,,,,,,,,12,9,11
-UBCV,2014,W,ARCH,541,,002,Process and Practice of Architecture,Cynthia Girling;Ignacio Mingo,14,80.785714286,7.062126194,93.0,70.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,541,,002,Process and Practice of Architecture,Cynthia Girling;Ignacio Mingo,14,80.785714286,7.062126194,93.0,70.0,,,,,,,,,3,3,2
+UBCV,2014,W,ARCH,541,,OVERALL,Process and Practice of Architecture,,58,82.310344828,7.8095912610000005,94.0,60.0,,,,,,,7,6,15,12,13
 UBCV,2014,W,ARCH,543,,001,Contemporary Practice,Inge Roecker,26,81.076923077,2.464517428,85.0,78.0,,,,,,,,6,15,5,
+UBCV,2014,W,ARCH,543,,OVERALL,Contemporary Practice,,26,81.076923077,2.464517428,85.0,78.0,,,,,,,,6,15,5,
 UBCV,2014,W,ARCH,544,N,001,Architectural Seminar,Gregory Johnson,13,84.846153846,4.862203784,92.0,77.0,,,,,,,,,,5,
+UBCV,2014,W,ARCH,544,N,OVERALL,Architectural Seminar,,13,84.846153846,4.862203784,92.0,77.0,,,,,,,,,,5,
 UBCV,2014,W,ARCH,544,P,001,Architectural Seminar,,9,82.222222222,8.318319809,93.0,69.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,544,P,OVERALL,Architectural Seminar,,9,82.222222222,8.318319809,93.0,69.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,544,Q,001,Architectural Seminar,Blair Satterfield,10,82.4,5.1467357510000005,90.0,76.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,544,Q,OVERALL,Architectural Seminar,,10,82.4,5.1467357510000005,90.0,76.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,544,R,001,Architectural Seminar,Christopher Macdonald,16,85.25,2.93257566,90.0,80.0,,,,,,,,,6,9,
+UBCV,2014,W,ARCH,544,R,OVERALL,Architectural Seminar,,16,85.25,2.93257566,90.0,80.0,,,,,,,,,6,9,
 UBCV,2014,W,ARCH,544,S,001,Architectural Seminar,Neal Lamontagne,16,89.0625,5.638779419,95.0,75.0,,,,,,,,,,,10
+UBCV,2014,W,ARCH,544,S,OVERALL,Architectural Seminar,,16,89.0625,5.638779419,95.0,75.0,,,,,,,,,,,10
 UBCV,2014,W,ARCH,545,A,001,Directed Study,,5,81.8,4.65832588,87.0,75.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,545,A,OVERALL,Directed Study,,5,81.8,4.65832588,87.0,75.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,545,B,002,Directed Study,,7,86.14285714299999,4.561745698,90.0,80.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,545,B,OVERALL,Directed Study,,7,86.14285714299999,4.561745698,90.0,80.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,548,,001,Graduation Project - Part I: Research,Inge Roecker,22,82.136363636,4.538674597,90.0,74.0,,,,,,,,,10,5,
 UBCV,2014,W,ARCH,548,,002,Graduation Project - Part I: Research,Inge Roecker,16,85.5625,3.010398645,90.0,80.0,,,,,,,,,5,8,
-UBCV,2014,W,ARCH,549,,001,Graduation Project - Part II: Design,Inge Roecker,9,88.0,3.8729833460000003,90.0,78.0,,,,,,,,,,,5
-UBCV,2014,W,ARCH,549,,003,Graduation Project - Part II: Design,Inge Roecker,37,82.216216216,4.679358545,91.0,70.0,,,,,,,,,16,11,
+UBCV,2014,W,ARCH,548,,OVERALL,Graduation Project - Part I: Research,,38,83.578947368,4.278365303999999,90.0,74.0,,,,,,,,,15,13,
+UBCV,2014,W,ARCH,549,,001,Graduation Project - Part II: Design,Inge Roecker,9,88.0,3.8729833460000003,90.0,78.0,,,,,,,,,0,3,5
+UBCV,2014,W,ARCH,549,,003,Graduation Project - Part II: Design,Inge Roecker,37,82.216216216,4.679358545,91.0,70.0,,,,,,,,,16,11,2
+UBCV,2014,W,ARCH,549,,OVERALL,Graduation Project - Part II: Design,,46,83.347826087,5.05620583,91.0,70.0,,,,,,,,5,16,14,7
 UBCV,2014,W,ARCH,561,C,001,Topics in Architectural History and Theory,Oliver Neumann,6,81.166666667,3.3115957889999996,86.0,77.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,561,C,OVERALL,Topics in Architectural History and Theory,,6,81.166666667,3.3115957889999996,86.0,77.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,561,G,001,Topics in Architectural History and Theory,Mari Fujita,7,85.0,5.744562647,92.0,78.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,561,G,OVERALL,Topics in Architectural History and Theory,,7,85.0,5.744562647,92.0,78.0,,,,,,,,,,,
 UBCV,2014,W,ARCH,568,,001,Research Methods: Concerns and Issues,Matthew Soules,20,81.5,3.546681177,87.0,75.0,,,,,,,,,10,,
+UBCV,2014,W,ARCH,568,,OVERALL,Research Methods: Concerns and Issues,,20,81.5,3.546681177,87.0,75.0,,,,,,,,,10,,
 UBCV,2014,W,ARCH,571,,002,Advanced Seminar on Building Technology,Gregory Johnson,15,82.93333333300001,4.712698145,91.0,73.0,,,,,,,,,7,,
+UBCV,2014,W,ARCH,571,,OVERALL,Advanced Seminar on Building Technology,,15,82.93333333300001,4.712698145,91.0,73.0,,,,,,,,,7,,
 UBCV,2014,W,ARCH,573,D,001,Advanced Topics in Environmental Studies,Raymond John Cole;Raymond John J Cole,15,79.93333333300001,7.535313688,87.0,62.0,,,,,,,,,,6,
+UBCV,2014,W,ARCH,573,D,OVERALL,Advanced Topics in Environmental Studies,,15,79.93333333300001,7.535313688,87.0,62.0,,,,,,,,,,6,
 UBCV,2014,W,ARCH,573,E,001,Advanced Topics in Environmental Studies,Michel Labrie,7,77.857142857,6.414269806,85.0,68.0,,,,,,,,,,,
+UBCV,2014,W,ARCH,573,E,OVERALL,Advanced Topics in Environmental Studies,,7,77.857142857,6.414269806,85.0,68.0,,,,,,,,,,,

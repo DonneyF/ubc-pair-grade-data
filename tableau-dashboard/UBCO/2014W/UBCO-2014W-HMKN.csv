@@ -1,41 +1,79 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2014,W,HMKN,100,,001,"Health, Fitness, and Lifestyle",Sally Stewart;Sally Willis,143,77.923076923,9.38239055,91.0,18.0,,,,,6,11,21,31,45,24,
+UBCO,2014,W,HMKN,100,,OVERALL,"Health, Fitness, and Lifestyle",,143,77.923076923,9.38239055,91.0,18.0,,,,,6,11,21,31,45,24,
 UBCO,2014,W,HMKN,101,,001,Biomechanics,Christopher Mcneil,150,69.853333333,13.474503224000001,94.0,22.0,8,9,18,10,20,12,20,12,19,14,8
+UBCO,2014,W,HMKN,101,,OVERALL,Biomechanics,,150,69.853333333,13.474503224000001,94.0,22.0,8,9,18,10,20,12,20,12,19,14,8
 UBCO,2014,W,HMKN,105,,001,Canadian Health Care System,Alan Davidson,169,72.970414201,10.441689584,97.0,13.0,,,7,10,22,18,37,26,25,15,
+UBCO,2014,W,HMKN,105,,OVERALL,Canadian Health Care System,,169,72.970414201,10.441689584,97.0,13.0,,,7,10,22,18,37,26,25,15,
 UBCO,2014,W,HMKN,190,,001,Functional Anatomy and Applied Physiology I,Zoe Soon,146,80.993150685,12.862399934,100.0,12.0,,,,6,,8,11,14,29,30,37
+UBCO,2014,W,HMKN,190,,OVERALL,Functional Anatomy and Applied Physiology I,,146,80.993150685,12.862399934,100.0,12.0,,,,6,,8,11,14,29,30,37
 UBCO,2014,W,HMKN,191,,001,Functional Anatomy and Applied Physiology II,Zoe Soon,142,75.866197183,10.855092522,99.0,45.0,,,9,6,8,19,19,22,26,18,11
+UBCO,2014,W,HMKN,191,,OVERALL,Functional Anatomy and Applied Physiology II,,142,75.866197183,10.855092522,99.0,45.0,,,9,6,8,19,19,22,26,18,11
 UBCO,2014,W,HMKN,200,,001,Exercise Physiology I,Gregory Dumanoir,135,73.511111111,11.377423748,94.0,35.0,6,,,13,16,9,19,18,20,24,6
+UBCO,2014,W,HMKN,200,,OVERALL,Exercise Physiology I,,135,73.511111111,11.377423748,94.0,35.0,6,,,13,16,9,19,18,20,24,6
 UBCO,2014,W,HMKN,201,,001,Exercise Psychology,Kaitlyn Bailey,135,70.17037037,10.941186558,90.0,27.0,,10,12,12,16,16,21,17,19,8,
+UBCO,2014,W,HMKN,201,,OVERALL,Exercise Psychology,,135,70.17037037,10.941186558,90.0,27.0,,10,12,12,16,16,21,17,19,8,
 UBCO,2014,W,HMKN,202,,001,Human Motor Behaviour I,Zoe Soon,30,72.133333333,15.812987533,99.0,17.0,,,,,,,,,5,,
+UBCO,2014,W,HMKN,202,,OVERALL,Human Motor Behaviour I,,30,72.133333333,15.812987533,99.0,17.0,,,,,,,,,5,,
 UBCO,2014,W,HMKN,203,,001,Lifespan Physical and Motor Development,Zoe Soon,125,80.368,9.249704442,100.0,58.0,,,,,7,14,14,14,27,26,19
+UBCO,2014,W,HMKN,203,,OVERALL,Lifespan Physical and Motor Development,,125,80.368,9.249704442,100.0,58.0,,,,,7,14,14,14,27,26,19
 UBCO,2014,W,HMKN,205,,001,Methods of Data Analysis,Glen Foster,174,71.0,16.083237244,99.0,21.0,16,11,13,15,16,13,15,15,21,16,23
+UBCO,2014,W,HMKN,205,,OVERALL,Methods of Data Analysis,,174,71.0,16.083237244,99.0,21.0,16,11,13,15,16,13,15,15,21,16,23
 UBCO,2014,W,HMKN,206,,001,Health Research Methods,Jonathan Little,163,76.63190184,8.621647357,93.0,46.0,,,,9,11,21,22,25,38,26,6
+UBCO,2014,W,HMKN,206,,OVERALL,Health Research Methods,,163,76.63190184,8.621647357,93.0,46.0,,,,9,11,21,22,25,38,26,6
 UBCO,2014,W,HMKN,303,,002,Health Program Evaluation,Sally Stewart;Sally Willis,63,78.158730159,8.430372028999999,89.0,36.0,,,,,,6,12,7,15,18,
-UBCO,2014,W,HMKN,310,,001,Exercise Physiology II,Gregory Dumanoir,146,71.383561644,11.45561767,92.0,38.0,8,,9,15,13,16,21,21,16,17,7
+UBCO,2014,W,HMKN,303,,OVERALL,Health Program Evaluation,,63,78.158730159,8.430372028999999,89.0,36.0,,,,,,6,12,7,15,18,
+UBCO,2014,W,HMKN,310,,001,Exercise Physiology II,Gregory Dumanoir,146,71.383561644,11.45561767,92.0,38.0,8,3.0,9,15,13,16,21,21,16,17,7
+UBCO,2014,W,HMKN,310,,OVERALL,Exercise Physiology II,,146,71.383561644,11.45561767,92.0,38.0,8,3.0,9,15,13,16,21,21,16,17,7
 UBCO,2014,W,HMKN,311,,101,Exercise Prescription,Gareth Jones,140,79.028571429,5.2859837160000005,91.0,65.0,,,,,,6,26,29,49,23,
+UBCO,2014,W,HMKN,311,,OVERALL,Exercise Prescription,,140,79.028571429,5.2859837160000005,91.0,65.0,,,,,,6,26,29,49,23,
 UBCO,2014,W,HMKN,312,,001,Laboratory Techniques in Exercise Science,Gregory Dumanoir,120,79.06666666699999,7.824474996,93.0,60.0,,,,,6,8,21,22,26,15,19
+UBCO,2014,W,HMKN,312,,OVERALL,Laboratory Techniques in Exercise Science,,120,79.06666666699999,7.824474996,93.0,60.0,,,,,6,8,21,22,26,15,19
 UBCO,2014,W,HMKN,313,,001,Exercise Metabolism,Jonathan Little,107,73.28971962600001,11.52602416,94.0,34.0,,,9,10,14,7,12,20,12,10,10
+UBCO,2014,W,HMKN,313,,OVERALL,Exercise Metabolism,,107,73.28971962600001,11.52602416,94.0,34.0,,,9,10,14,7,12,20,12,10,10
 UBCO,2014,W,HMKN,314,,001,Body Composition,Alison Mcmanus,121,84.16528925600001,8.932475494,99.0,47.0,,,,,,,8,8,22,39,35
+UBCO,2014,W,HMKN,314,,OVERALL,Body Composition,,121,84.16528925600001,8.932475494,99.0,47.0,,,,,,,8,8,22,39,35
 UBCO,2014,W,HMKN,315,,002,Laboratory Techniques in Sensorimotor Neuroscience,Christopher Mcneil,68,75.661764706,12.699289314000001,94.0,1.0,,,,,,9,7,18,13,7,5
+UBCO,2014,W,HMKN,315,,OVERALL,Laboratory Techniques in Sensorimotor Neuroscience,,68,75.661764706,12.699289314000001,94.0,1.0,,,,,,9,7,18,13,7,5
 UBCO,2014,W,HMKN,322,,001,Health Promotion I,Cristina Caperchione,43,75.627906977,12.326941565999999,93.0,15.0,,,,,,,9,8,10,7,
+UBCO,2014,W,HMKN,322,,OVERALL,Health Promotion I,,43,75.627906977,12.326941565999999,93.0,15.0,,,,,,,9,8,10,7,
 UBCO,2014,W,HMKN,323,,001,Introduction to Nutrition,Sally Stewart;Sally Willis,118,78.61864406800001,7.882599566000001,93.0,59.0,,,,,7,9,15,22,28,25,7
+UBCO,2014,W,HMKN,323,,OVERALL,Introduction to Nutrition,,118,78.61864406800001,7.882599566000001,93.0,59.0,,,,,7,9,15,22,28,25,7
 UBCO,2014,W,HMKN,331,,001,Physical Dimensions of Aging,Gareth Jones,116,77.120689655,7.240171956,93.0,60.0,,,,,8,12,27,17,25,17,6
-UBCO,2014,W,HMKN,335,,001,Pathophysiology,Zoe Soon,93,80.784946237,8.428535205,95.0,51.0,,,,,5,,12,16,22,17,15
+UBCO,2014,W,HMKN,331,,OVERALL,Physical Dimensions of Aging,,116,77.120689655,7.240171956,93.0,60.0,,,,,8,12,27,17,25,17,6
+UBCO,2014,W,HMKN,335,,001,Pathophysiology,Zoe Soon,93,80.784946237,8.428535205,95.0,51.0,,,,,5,3,12,16,22,17,15
 UBCO,2014,W,HMKN,335,,002,Pathophysiology,Zoe Soon,89,81.10112359600001,9.054186555,99.0,62.0,,,,,5,10,10,7,25,14,16
+UBCO,2014,W,HMKN,335,,OVERALL,Pathophysiology,,182,80.93956044,8.717270331,99.0,51.0,,,,,10,13,22,23,47,31,31
 UBCO,2014,W,HMKN,336,,001,Tissue Injury and Repair,Gregory Dumanoir,67,78.0,8.127767594,90.0,57.0,,,,,,8,8,11,12,19,
+UBCO,2014,W,HMKN,336,,OVERALL,Tissue Injury and Repair,,67,78.0,8.127767594,90.0,57.0,,,,,,8,8,11,12,19,
 UBCO,2014,W,HMKN,410,,001,Respiratory Disease: Pathology to Prescription,Neil Eves,40,76.95,7.221584456,92.0,59.0,,,,,,,10,8,9,5,
+UBCO,2014,W,HMKN,410,,OVERALL,Respiratory Disease: Pathology to Prescription,,40,76.95,7.221584456,92.0,59.0,,,,,,,10,8,9,5,
 UBCO,2014,W,HMKN,411,,001,Environmental Physiology,Paul Van Donkelaar;Philip Ainslie,38,81.736842105,5.360940874,94.0,71.0,,,,,,,,8,12,9,
+UBCO,2014,W,HMKN,411,,OVERALL,Environmental Physiology,,38,81.736842105,5.360940874,94.0,71.0,,,,,,,,8,12,9,
 UBCO,2014,W,HMKN,414,,001,Advanced Circulatory Physiology,Glen Foster,18,76.333333333,8.931108883,92.0,58.0,,,,,,,,5,5,,
+UBCO,2014,W,HMKN,414,,OVERALL,Advanced Circulatory Physiology,,18,76.333333333,8.931108883,92.0,58.0,,,,,,,,5,5,,
 UBCO,2014,W,HMKN,421,,001,Advanced Theories of Health Behaviour Change,Kaitlyn Bailey,30,78.0,8.308699222000001,91.0,52.0,,,,,,,6,5,7,6,
+UBCO,2014,W,HMKN,421,,OVERALL,Advanced Theories of Health Behaviour Change,,30,78.0,8.308699222000001,91.0,52.0,,,,,,,6,5,7,6,
 UBCO,2014,W,HMKN,422,,001,Health Promotion II: Applications,Cristina Caperchione,29,80.793103448,5.984380326,90.0,68.0,,,,,,,5,,9,8,
+UBCO,2014,W,HMKN,422,,OVERALL,Health Promotion II: Applications,,29,80.793103448,5.984380326,90.0,68.0,,,,,,,5,,9,8,
 UBCO,2014,W,HMKN,431,,001,Exercise Rehabilitation for Clinical Disorders of Aging,Gareth Jones,40,85.925,4.593124738999999,95.0,78.0,,,,,,,,,13,11,13
+UBCO,2014,W,HMKN,431,,OVERALL,Exercise Rehabilitation for Clinical Disorders of Aging,,40,85.925,4.593124738999999,95.0,78.0,,,,,,,,,13,11,13
 UBCO,2014,W,HMKN,495,A,001,Special Topics in Health and Exercise Sciences,Christopher Mcneil,29,76.86206896600001,7.254181739,88.0,55.0,,,,,,7,,6,8,,
+UBCO,2014,W,HMKN,495,A,OVERALL,Special Topics in Health and Exercise Sciences,,29,76.86206896600001,7.254181739,88.0,55.0,,,,,,7,,6,8,,
 UBCO,2014,W,HMKN,495,C,001,Special Topics in Health and Exercise Sciences,Jonathan Little,35,82.0,2.236067977,88.0,79.0,,,,,,,,5,26,,
+UBCO,2014,W,HMKN,495,C,OVERALL,Special Topics in Health and Exercise Sciences,,35,82.0,2.236067977,88.0,79.0,,,,,,,,5,26,,
 UBCO,2014,W,HMKN,495,D,001,Special Topics in Health and Exercise Sciences,Gregory Dumanoir,95,78.305263158,9.191894769,97.0,57.0,,,,,7,10,14,13,14,19,13
+UBCO,2014,W,HMKN,495,D,OVERALL,Special Topics in Health and Exercise Sciences,,95,78.305263158,9.191894769,97.0,57.0,,,,,7,10,14,13,14,19,13
 UBCO,2014,W,HMKN,495,G,001,Special Topics in Health and Exercise Sciences,Mary Jung,27,86.14814814799999,7.069455989,98.0,69.0,,,,,,,,,7,6,10
+UBCO,2014,W,HMKN,495,G,OVERALL,Special Topics in Health and Exercise Sciences,,27,86.14814814799999,7.069455989,98.0,69.0,,,,,,,,,7,6,10
 UBCO,2014,W,HMKN,495,I,001,Special Topics in Health and Exercise Sciences,Paul Van Donkelaar,56,80.107142857,9.11078995,96.0,51.0,,,,,,,5,7,18,15,
+UBCO,2014,W,HMKN,495,I,OVERALL,Special Topics in Health and Exercise Sciences,,56,80.107142857,9.11078995,96.0,51.0,,,,,,,5,7,18,15,
 UBCO,2014,W,HMKN,495,J,002,Special Topics in Health and Exercise Sciences,Cristina Caperchione,53,72.490566038,8.608186267999999,88.0,40.0,,,,,,14,10,7,8,,
+UBCO,2014,W,HMKN,495,J,OVERALL,Special Topics in Health and Exercise Sciences,,53,72.490566038,8.608186267999999,88.0,40.0,,,,,,14,10,7,8,,
 UBCO,2014,W,HMKN,499,A,101,Project in Human Kinetics,Christopher Mcneil;Cristina Caperchione;Gareth Jones;Glen Foster;Gordon James Binsted;Gregory Dumanoir;Jennifer Jakobi;Jonathan Little;Mary Jung;Neil Eves;Paul Van Donkelaar;Philip Ainslie;Robert Colin Reid;Sally Stewart;Sally Willis;Zoe Soon,22,87.77272727299999,4.545346319,93.0,77.0,,,,,,,,,,7,10
 UBCO,2014,W,HMKN,499,A,102,Project in Human Kinetics,Christopher Mcneil;Cristina Caperchione;Gareth Jones;Glen Foster;Gordon James Binsted;Gregory Dumanoir;Jennifer Jakobi;Jonathan Little;Mary Jung;Neil Eves;Paul Van Donkelaar;Philip Ainslie;Robert Colin Reid;Sally Stewart;Sally Willis;Zoe Soon,34,88.20588235299999,4.381638076000001,98.0,80.0,,,,,,,,,7,14,13
+UBCO,2014,W,HMKN,499,A,OVERALL,Project in Human Kinetics,,56,88.035714286,4.410583494,98.0,77.0,,,,,,,,,10,21,23
 UBCO,2014,W,HMKN,499,B,001,Project in Human Kinetics,Christopher Mcneil;Cristina Caperchione;Gareth Jones;Glen Foster;Gordon James Binsted;Gregory Dumanoir;Jennifer Jakobi;Jonathan Little;Mary Jung;Neil Eves;Paul Van Donkelaar;Philip Ainslie;Robert Colin Reid;Sally Stewart;Sally Willis;Zoe Soon,8,92.875,2.948970765,95.0,89.0,,,,,,,,,,,6
+UBCO,2014,W,HMKN,499,B,OVERALL,Project in Human Kinetics,,8,92.875,2.948970765,95.0,89.0,,,,,,,,,,,6
 UBCO,2014,W,HMKN,499,C,201,Project in Human Kinetics,Christopher Mcneil;Cristina Caperchione;Gareth Jones;Glen Foster;Gordon James Binsted;Gregory Dumanoir;Jennifer Jakobi;Jonathan Little;Mary Jung;Neil Eves;Paul Van Donkelaar;Philip Ainslie;Robert Colin Reid;Sally Stewart;Sally Willis;Zoe Soon,12,87.0,6.396021491,95.0,76.0,,,,,,,,,,,7
+UBCO,2014,W,HMKN,499,C,OVERALL,Project in Human Kinetics,,15,87.46666666700001,5.780097215,95.0,76.0,,,,,,,,,,,8

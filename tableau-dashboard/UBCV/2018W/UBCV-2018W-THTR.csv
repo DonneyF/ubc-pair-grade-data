@@ -1,65 +1,128 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,THTR,120,,001,Introduction to Theatre,Bradley Powers;Jenny Larson;Julia Henderson;Kimira Bhikum,38,77.473684211,10.425376634,88.0,33.0,,,,,,,,5,15,8,
-UBCV,2018,W,THTR,120,,002,Introduction to Theatre,Kimira Bhikum;Lauren Taylor;Michelle Thorne;Santiago Farias Calderon;Tom Scholte,45,79.04444444399999,10.065592959,97.0,41.0,,,,,,,,8,15,6,5
+UBCV,2018,W,THTR,120,,001,Introduction to Theatre,Bradley Powers;Jenny Larson;Julia Henderson;Kimira Bhikum,38,77.473684211,10.425376634,88.0,33.0,,,,,,,,5,15,8,0
+UBCV,2018,W,THTR,120,,002,Introduction to Theatre,Kimira Bhikum;Lauren Taylor;Michelle Thorne;Santiago Farias Calderon;Tom Scholte,45,79.666666667,8.385593707,97.0,61.0,,,,,,,,8,15,6,5
+UBCV,2018,W,THTR,120,,OVERALL,Introduction to Theatre,,83,78.662650602,9.37989171,97.0,33.0,,,,,,7,5,13,30,14,5
 UBCV,2018,W,THTR,130,,001,Introduction to Stage Acting,Gayle Murphy,40,83.975,4.859500344,95.0,73.0,,,,,,,,,16,14,5
 UBCV,2018,W,THTR,130,,002,Introduction to Stage Acting,Cathy Burnett;Gayle Murphy,42,83.19047619,5.773100342999999,91.0,60.0,,,,,,,,,17,14,5
 UBCV,2018,W,THTR,130,,003,Introduction to Stage Acting,Ryan Gladstone,40,83.775,8.014370107000001,94.0,61.0,,,,,,,,,12,7,13
+UBCV,2018,W,THTR,130,,OVERALL,Introduction to Stage Acting,,122,83.639344262,6.302387812,95.0,60.0,,,,,,,6,9,45,35,23
 UBCV,2018,W,THTR,150,A,001,Introduction to Technical Production,Corin Gutteridge,61,86.032786885,9.56202073,100.0,57.0,,,,,,,,5,5,18,24
+UBCV,2018,W,THTR,150,A,OVERALL,Introduction to Technical Production,,61,86.032786885,9.56202073,100.0,57.0,,,,,,,,5,5,18,24
 UBCV,2018,W,THTR,205,A,001,Graphics for Theatre and Film Design,Robert Gardiner,34,86.147058824,6.688444821,94.0,64.0,,,,,,,,,7,11,13
+UBCV,2018,W,THTR,205,A,OVERALL,Graphics for Theatre and Film Design,,34,86.147058824,6.688444821,94.0,64.0,,,,,,,,,7,11,13
 UBCV,2018,W,THTR,205,B,001,Graphics for Theatre and Film Design,Robert Gardiner,15,87.46666666700001,5.0407860310000006,94.0,78.0,,,,,,,,,,,7
+UBCV,2018,W,THTR,205,B,OVERALL,Graphics for Theatre and Film Design,,15,87.46666666700001,5.0407860310000006,94.0,78.0,,,,,,,,,,,7
 UBCV,2018,W,THTR,210,,001,Drama: Forms and Ideas I,Colleen Lanki;Hanyang Harry Jiang;Hanyang Jiang;Kelsey Blair;Kelsey Leanne Blair;Marios Kallos,103,73.485436893,9.904310882999999,95.0,33.0,,,6,8,8,12,19,18,15,12,
+UBCV,2018,W,THTR,210,,OVERALL,Drama: Forms and Ideas I,,103,73.485436893,9.904310882999999,95.0,33.0,,,6,8,8,12,19,18,15,12,
 UBCV,2018,W,THTR,211,,001,Drama: Forms and Ideas II,Jenny Larson;Kirsty Johnston;Mark Swetz;Matthew Tomkinson;Natalia Esling;Rui Zhang,70,76.685714286,11.420224695,94.0,34.0,,,,,5,,9,14,11,14,5
+UBCV,2018,W,THTR,211,,OVERALL,Drama: Forms and Ideas II,,70,76.685714286,11.420224695,94.0,34.0,,,,,5,,9,14,11,14,5
 UBCV,2018,W,THTR,230,,001,Performance Study I,Allen Morrison,28,83.642857143,7.5729258779999995,93.0,61.0,,,,,,,,6,5,7,8
+UBCV,2018,W,THTR,230,,OVERALL,Performance Study I,,28,83.642857143,7.5729258779999995,93.0,61.0,,,,,,,,6,5,7,8
 UBCV,2018,W,THTR,250,,001,Technical Production,Bradley Powers,24,81.541666667,7.678197063,96.0,65.0,,,,,,,5,,6,,
+UBCV,2018,W,THTR,250,,OVERALL,Technical Production,,24,81.541666667,7.678197063,96.0,65.0,,,,,,,5,,6,,
 UBCV,2018,W,THTR,271,,001,Beginning B.F.A. Acting I,Stephen Heatley;Stephen Malloy,16,80.0,5.501514942999999,86.0,67.0,,,,,,,,,9,,
+UBCV,2018,W,THTR,271,,OVERALL,Beginning B.F.A. Acting I,,16,80.0,5.501514942999999,86.0,67.0,,,,,,,,,9,,
 UBCV,2018,W,THTR,272,,001,Beginning B.F.A. Acting II,Stephen Malloy,14,83.571428571,3.6101200860000002,88.0,76.0,,,,,,,,,5,7,
+UBCV,2018,W,THTR,272,,OVERALL,Beginning B.F.A. Acting II,,14,83.571428571,3.6101200860000002,88.0,76.0,,,,,,,,,5,7,
 UBCV,2018,W,THTR,273,,001,Beginning Voice and Movement I,Cathy Burnett;Gayle Murphy,16,80.0,5.501514942999999,86.0,67.0,,,,,,,,,9,,
+UBCV,2018,W,THTR,273,,OVERALL,Beginning Voice and Movement I,,16,80.0,5.501514942999999,86.0,67.0,,,,,,,,,9,,
 UBCV,2018,W,THTR,274,,001,Beginning Voice and Movement II,Cathy Burnett;Gayle Murphy,14,83.571428571,3.6101200860000002,88.0,76.0,,,,,,,,,5,7,
+UBCV,2018,W,THTR,274,,OVERALL,Beginning Voice and Movement II,,14,83.571428571,3.6101200860000002,88.0,76.0,,,,,,,,,5,7,
 UBCV,2018,W,THTR,299,C,001,Production I,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,16,84.125,4.702836024,90.0,76.0,,,,,,,,,,8,
+UBCV,2018,W,THTR,299,C,OVERALL,Production I,,16,84.125,4.702836024,90.0,76.0,,,,,,,,,,8,
 UBCV,2018,W,THTR,299,L,001,Production I,Bradley Powers;Robert Gardiner,9,86.666666667,3.8078865530000003,92.0,81.0,,,,,,,,,,,
+UBCV,2018,W,THTR,299,L,OVERALL,Production I,,9,86.666666667,3.8078865530000003,92.0,81.0,,,,,,,,,,,
 UBCV,2018,W,THTR,301,B,001,Styles of Decor and Dress,Christine Reimer;Jacqueline Firkins,36,83.777777778,12.935247772,96.0,19.0,,,,,,,,,10,10,12
+UBCV,2018,W,THTR,301,B,OVERALL,Styles of Decor and Dress,,36,83.777777778,12.935247772,96.0,19.0,,,,,,,,,10,10,12
 UBCV,2018,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,16,73.6875,8.822084032000001,87.0,57.0,,,,,,,,,,,
+UBCV,2018,W,THTR,305,,OVERALL,Scenery Design I,,16,73.6875,8.822084032000001,87.0,57.0,,,,,,,,,,,
 UBCV,2018,W,THTR,306,,001,Costume Design I,Carmen Alatorre;Jacqueline Firkins,23,82.782608696,6.927917972,89.0,65.0,,,,,,,,,6,10,
+UBCV,2018,W,THTR,306,,OVERALL,Costume Design I,,23,82.782608696,6.927917972,89.0,65.0,,,,,,,,,6,10,
 UBCV,2018,W,THTR,307,,001,Lighting Design I,Robert Gardiner,28,88.714285714,3.895459302,96.0,82.0,,,,,,,,,,12,13
+UBCV,2018,W,THTR,307,,OVERALL,Lighting Design I,,28,88.714285714,3.895459302,96.0,82.0,,,,,,,,,,12,13
 UBCV,2018,W,THTR,308,,001,Sound Design,Patrick Pennefather,17,86.0,3.464101615,92.0,81.0,,,,,,,,,6,7,
+UBCV,2018,W,THTR,308,,OVERALL,Sound Design,,17,86.0,3.464101615,92.0,81.0,,,,,,,,,6,7,
 UBCV,2018,W,THTR,310,,001,Theory of Drama Performance,Kelsey Blair;Kelsey Leanne Blair,33,75.333333333,8.68427698,90.0,56.0,,,,,,9,6,,7,,
+UBCV,2018,W,THTR,310,,OVERALL,Theory of Drama Performance,,33,75.333333333,8.68427698,90.0,56.0,,,,,,9,6,,7,,
 UBCV,2018,W,THTR,320,,001,History of Theatre I,Patricia Everett-Kabut;Patricia Hews Everett-Kabut,40,83.9,10.736470317,100.0,51.0,,,,,,,,,8,8,14
+UBCV,2018,W,THTR,320,,OVERALL,History of Theatre I,,40,83.9,10.736470317,100.0,51.0,,,,,,,,,8,8,14
 UBCV,2018,W,THTR,323,,001,History and Theory of Directing,Kirsty Johnston,19,72.368421053,20.415708892999998,93.0,11.0,,,,,,,,,,,
+UBCV,2018,W,THTR,323,,OVERALL,History and Theory of Directing,,19,72.368421053,20.415708892999998,93.0,11.0,,,,,,,,,,,
 UBCV,2018,W,THTR,325,B,001,History of Canadian Theatre,Eury Chang,19,71.210526316,18.243960789000003,87.0,25.0,,,,,,,,,6,,
+UBCV,2018,W,THTR,325,B,OVERALL,History of Canadian Theatre,,19,71.210526316,18.243960789000003,87.0,25.0,,,,,,,,,6,,
 UBCV,2018,W,THTR,339,,001,Creating Theatre I,Tom Scholte,24,84.041666667,6.237886812,94.0,74.0,,,,,,,,,5,9,
+UBCV,2018,W,THTR,339,,OVERALL,Creating Theatre I,,24,84.041666667,6.237886812,94.0,74.0,,,,,,,,,5,9,
 UBCV,2018,W,THTR,352,,001,Scene Painting I,Ruth Skai Fowler,16,83.625,4.470272177,90.0,74.0,,,,,,,,,,8,
+UBCV,2018,W,THTR,352,,OVERALL,Scene Painting I,,16,83.625,4.470272177,90.0,74.0,,,,,,,,,,8,
 UBCV,2018,W,THTR,354,,001,Stage Management,Hallie Marshall;Marijka Asbeek Brusse;Stephen Malloy,33,81.939393939,8.947553415,96.0,64.0,,,,,,,,,6,9,7
+UBCV,2018,W,THTR,354,,OVERALL,Stage Management,,33,81.939393939,8.947553415,96.0,64.0,,,,,,,,,6,9,7
 UBCV,2018,W,THTR,356,,001,Costume Construction,Heather Young;Jacqueline Firkins,26,89.80769230799999,9.707808117999999,99.0,64.0,,,,,,,,,,,18
+UBCV,2018,W,THTR,356,,OVERALL,Costume Construction,,27,90.185185185,9.719279164,100.0,64.0,,,,,,,,,,,19
 UBCV,2018,W,THTR,371,,001,Intermediate B.F.A. Acting I,Stephen Heatley;Susan Bertoia,16,84.875,1.995828984,88.0,81.0,,,,,,,,,6,10,
+UBCV,2018,W,THTR,371,,OVERALL,Intermediate B.F.A. Acting I,,16,84.875,1.995828984,88.0,81.0,,,,,,,,,6,10,
 UBCV,2018,W,THTR,372,,001,Intermediate B.F.A. Acting II,Bart Anderson;Stephen Drover,16,83.625,2.362907813,87.0,80.0,,,,,,,,,7,9,
+UBCV,2018,W,THTR,372,,OVERALL,Intermediate B.F.A. Acting II,,16,83.625,2.362907813,87.0,80.0,,,,,,,,,7,9,
 UBCV,2018,W,THTR,373,,001,"Intermediate Voice, Speech, and Movement I",Cathy Burnett;Gayle Murphy,16,84.875,1.995828984,88.0,81.0,,,,,,,,,6,10,
+UBCV,2018,W,THTR,373,,OVERALL,"Intermediate Voice, Speech, and Movement I",,16,84.875,1.995828984,88.0,81.0,,,,,,,,,6,10,
 UBCV,2018,W,THTR,374,,001,"Intermediate Voice, Speech, and Movement II",Cathy Burnett;Gayle Murphy,16,83.625,2.362907813,87.0,80.0,,,,,,,,,7,9,
+UBCV,2018,W,THTR,374,,OVERALL,"Intermediate Voice, Speech, and Movement II",,16,83.625,2.362907813,87.0,80.0,,,,,,,,,7,9,
 UBCV,2018,W,THTR,391,A,001,Rehearsal and Performance,Lois Anderson;Susan Bertoia,16,84.875,1.995828984,88.0,81.0,,,,,,,,,6,10,
+UBCV,2018,W,THTR,391,A,OVERALL,Rehearsal and Performance,,16,84.875,1.995828984,88.0,81.0,,,,,,,,,6,10,
 UBCV,2018,W,THTR,391,B,001,Rehearsal and Performance,Bart Anderson;Cathy Burnett;Gayle Murphy;Sheila Langston,16,83.625,2.362907813,87.0,80.0,,,,,,,,,7,9,
+UBCV,2018,W,THTR,391,B,OVERALL,Rehearsal and Performance,,16,83.625,2.362907813,87.0,80.0,,,,,,,,,7,9,
 UBCV,2018,W,THTR,391,C,001,Rehearsal and Performance,Cathy Burnett;Gayle Murphy;Raphael Wagner;Stephen Drover;Stephen Malloy,16,84.875,1.962141687,88.0,81.0,,,,,,,,,5,11,
+UBCV,2018,W,THTR,391,C,OVERALL,Rehearsal and Performance,,16,84.875,1.962141687,88.0,81.0,,,,,,,,,5,11,
 UBCV,2018,W,THTR,399,B,001,Production II,Bradley Powers;Carmen Alatorre;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,19,87.526315789,5.571439282,96.0,74.0,,,,,,,,,,10,6
+UBCV,2018,W,THTR,399,B,OVERALL,Production II,,19,87.526315789,5.571439282,96.0,74.0,,,,,,,,,,10,6
 UBCV,2018,W,THTR,399,C,001,Production II,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,11,87.363636364,4.544727215,95.0,80.0,,,,,,,,,,,
+UBCV,2018,W,THTR,399,C,OVERALL,Production II,,11,87.363636364,4.544727215,95.0,80.0,,,,,,,,,,,
 UBCV,2018,W,THTR,399,L,001,Production II,Bradley Powers;Robert Gardiner,7,88.428571429,4.961758521,94.0,80.0,,,,,,,,,,,
+UBCV,2018,W,THTR,399,L,OVERALL,Production II,,7,88.428571429,4.961758521,94.0,80.0,,,,,,,,,,,
 UBCV,2018,W,THTR,405,,001,Scenery Design II,Amir Ofek;Patrick Rizzotti,7,72.285714286,11.470458952000001,85.0,56.0,,,,,,,,,,,
+UBCV,2018,W,THTR,405,,OVERALL,Scenery Design II,,7,72.285714286,11.470458952000001,85.0,56.0,,,,,,,,,,,
 UBCV,2018,W,THTR,406,,001,Costume Design II,Carmen Alatorre;Jacqueline Firkins,15,82.333333333,7.451430032,94.0,69.0,,,,,,,,,,,
+UBCV,2018,W,THTR,406,,OVERALL,Costume Design II,,15,82.333333333,7.451430032,94.0,69.0,,,,,,,,,,,
 UBCV,2018,W,THTR,408,B,001,Advanced Study in Design and Scenography,Robert Gardiner,11,88.0,5.692099787999999,96.0,78.0,,,,,,,,,,,
+UBCV,2018,W,THTR,408,B,OVERALL,Advanced Study in Design and Scenography,,11,88.0,5.692099787999999,96.0,78.0,,,,,,,,,,,
 UBCV,2018,W,THTR,410,,001,Dramaturgy,Lauren Taylor,20,81.6,5.164657221000001,91.0,70.0,,,,,,,,5,7,5,
+UBCV,2018,W,THTR,410,,OVERALL,Dramaturgy,,20,81.6,5.164657221000001,91.0,70.0,,,,,,,,5,7,5,
 UBCV,2018,W,THTR,440,A,001,Topics in Theatre,Kelsey Blair;Kelsey Leanne Blair;Kirsty Johnston,14,81.571428571,10.73251197,94.0,55.0,,,,,,,,,,,
+UBCV,2018,W,THTR,440,A,OVERALL,Topics in Theatre,,14,81.571428571,10.73251197,94.0,55.0,,,,,,,,,,,
 UBCV,2018,W,THTR,440,D,001,Topics in Theatre,Cathy Burnett,26,85.884615385,9.135981274,97.0,55.0,,,,,,,,,5,7,10
+UBCV,2018,W,THTR,440,D,OVERALL,Topics in Theatre,,26,85.884615385,9.135981274,97.0,55.0,,,,,,,,,5,7,10
 UBCV,2018,W,THTR,445,,001,Majors and Honours Seminar,Julia Henderson;Siyuan Liu,6,75.5,11.606032914000002,92.0,62.0,,,,,,,,,,,
+UBCV,2018,W,THTR,445,,OVERALL,Majors and Honours Seminar,,6,75.5,11.606032914000002,92.0,62.0,,,,,,,,,,,
 UBCV,2018,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Bradley Powers;Jacqueline Firkins;Patrick Rizzotti;Robert Gardiner,5,90.8,3.701351105,95.0,85.0,,,,,,,,,,,
+UBCV,2018,W,THTR,448,B,OVERALL,Directed Studies in Theatre Theory and Practice,,5,90.8,3.701351105,95.0,85.0,,,,,,,,,,,
 UBCV,2018,W,THTR,452,,001,Scene Painting II,Ruth Skai Fowler,5,88.8,0.8366600270000001,90.0,88.0,,,,,,,,,,,
+UBCV,2018,W,THTR,452,,OVERALL,Scene Painting II,,5,88.8,0.8366600270000001,90.0,88.0,,,,,,,,,,,
 UBCV,2018,W,THTR,454,,001,Production and Theatre Management,Corin Gutteridge,13,89.69230769200001,11.960940705999999,97.0,51.0,,,,,,,,,,,10
+UBCV,2018,W,THTR,454,,OVERALL,Production and Theatre Management,,13,89.69230769200001,11.960940705999999,97.0,51.0,,,,,,,,,,,10
 UBCV,2018,W,THTR,456,,001,Costume Construction II,Heather Young;Jacqueline Firkins,9,87.0,10.805091392000001,99.0,70.0,,,,,,,,,,,
+UBCV,2018,W,THTR,456,,OVERALL,Costume Construction II,,9,87.0,10.805091392000001,99.0,70.0,,,,,,,,,,,
 UBCV,2018,W,THTR,471,,001,Advanced B.F.A. Acting I,Courtenay Dobbie;Lois Anderson,13,86.153846154,1.863963244,89.0,82.0,,,,,,,,,,11,
+UBCV,2018,W,THTR,471,,OVERALL,Advanced B.F.A. Acting I,,13,86.153846154,1.863963244,89.0,82.0,,,,,,,,,,11,
 UBCV,2018,W,THTR,472,,001,Advanced B.F.A. Acting II,Kathleen Duborg,13,85.384615385,4.941970955,91.0,71.0,,,,,,,,,,9,
+UBCV,2018,W,THTR,472,,OVERALL,Advanced B.F.A. Acting II,,13,85.384615385,4.941970955,91.0,71.0,,,,,,,,,,9,
 UBCV,2018,W,THTR,473,,001,Advanced Speech and Movement I,Cathy Burnett;Gayle Murphy,13,86.153846154,1.863963244,89.0,82.0,,,,,,,,,,11,
+UBCV,2018,W,THTR,473,,OVERALL,Advanced Speech and Movement I,,13,86.153846154,1.863963244,89.0,82.0,,,,,,,,,,11,
 UBCV,2018,W,THTR,474,,001,Advanced Speech and Movement II,Adam Henderson,13,85.384615385,4.941970955,91.0,71.0,,,,,,,,,,9,
+UBCV,2018,W,THTR,474,,OVERALL,Advanced Speech and Movement II,,13,85.384615385,4.941970955,91.0,71.0,,,,,,,,,,9,
 UBCV,2018,W,THTR,491,A,001,Advanced Rehearsal and Performance,Lois Anderson;Susan Bertoia,14,86.714285714,2.757606862,94.0,82.0,,,,,,,,,,11,
+UBCV,2018,W,THTR,491,A,OVERALL,Advanced Rehearsal and Performance,,14,86.714285714,2.757606862,94.0,82.0,,,,,,,,,,11,
 UBCV,2018,W,THTR,491,B,001,Advanced Rehearsal and Performance,Bart Anderson;Cathy Burnett;Gayle Murphy;Sheila Langston,13,85.307692308,4.939376064,91.0,71.0,,,,,,,,,,9,
+UBCV,2018,W,THTR,491,B,OVERALL,Advanced Rehearsal and Performance,,13,85.307692308,4.939376064,91.0,71.0,,,,,,,,,,9,
 UBCV,2018,W,THTR,491,C,001,Advanced Rehearsal and Performance,Cathy Burnett;Gayle Murphy;Raphael Wagner;Stephen Drover;Stephen Malloy,13,86.30769230799999,3.4250210560000003,91.0,77.0,,,,,,,,,,9,
+UBCV,2018,W,THTR,491,C,OVERALL,Advanced Rehearsal and Performance,,13,86.30769230799999,3.4250210560000003,91.0,77.0,,,,,,,,,,9,
 UBCV,2018,W,THTR,499,B,001,Production III,Bradley Powers;Carmen Alatorre;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner,6,88.0,4.289522118,95.0,83.0,,,,,,,,,,,
+UBCV,2018,W,THTR,499,B,OVERALL,Production III,,6,88.0,4.289522118,95.0,83.0,,,,,,,,,,,
 UBCV,2018,W,THTR,499,C,001,Production III,Bradley Powers;Carmen Alatorre;Jillian Wyness;Lorraine West;Marijka Asbeek Brusse;Mishelle Cuttler;Patrick Pennefather;Patrick Rizzotti;Robert Gardiner;Victoria Klippenstein,9,88.22222222200001,5.309844107,95.0,79.0,,,,,,,,,,,
+UBCV,2018,W,THTR,499,C,OVERALL,Production III,,9,88.22222222200001,5.309844107,95.0,79.0,,,,,,,,,,,
 UBCV,2018,W,THTR,499,L,001,Production III,Bradley Powers;Robert Gardiner,5,92.6,7.1624018320000005,98.0,80.0,,,,,,,,,,,
+UBCV,2018,W,THTR,499,L,OVERALL,Production III,,5,92.6,7.1624018320000005,98.0,80.0,,,,,,,,,,,
 UBCV,2018,W,THTR,530,A,001,Seminar: Relationships Between Theatre and the Other Arts,Kirsty Johnston,6,80.5,24.427443583000002,93.0,31.0,,,,,,,,,,,
-UBCV,2018,W,THTR,562,,001,Studies in Dramatic Theory and Criticism,Kirsty Johnston,10,81.8,21.342706274,94.0,22.0,,,,,,,,,,,5
+UBCV,2018,W,THTR,530,A,OVERALL,Seminar: Relationships Between Theatre and the Other Arts,,6,80.5,24.427443583000002,93.0,31.0,,,,,,,,,,,
+UBCV,2018,W,THTR,547,B,002,Directed Studies in Theatre and Drama and Film/Television,Bradley Powers;Gayle Murphy;Jacqueline Firkins;Judy Segal;Kirsty Johnston;Patrick Rizzotti;Robert Gardiner;Siyuan Liu;Stephen Heatley;Stephen Malloy;Tom Scholte,5,89.4,4.827007354,97.0,84.0,,,,,,,,,,,
+UBCV,2018,W,THTR,547,B,OVERALL,Directed Studies in Theatre and Drama and Film/Television,,5,89.4,4.827007354,97.0,84.0,,,,,,,,,,,
+UBCV,2018,W,THTR,562,,001,Studies in Dramatic Theory and Criticism,Kirsty Johnston,11,82.272727273,20.308081687,94.0,22.0,,,,,,,,,,,5
+UBCV,2018,W,THTR,562,,OVERALL,Studies in Dramatic Theory and Criticism,,11,82.272727273,20.308081687,94.0,22.0,,,,,,,,,,,5

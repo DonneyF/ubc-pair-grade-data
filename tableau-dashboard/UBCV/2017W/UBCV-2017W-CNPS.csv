@@ -1,5 +1,4 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,CNPS,362,,61A,Basic Interviewing Skills,Deepak Mathew,14,81.642857143,20.473649642,92.0,11.0,,,,,,,,,,9,
 UBCV,2017,W,CNPS,362,,001,Basic Interviewing Skills,Natasha Wawrykow;Thomas Motl,15,87.933333333,3.863134676,94.0,82.0,,,,,,,,,,6,5
 UBCV,2017,W,CNPS,362,,002,Basic Interviewing Skills,Brenda Dyer;Wei-Chiao Hsu,15,88.26666666700001,6.08824003,96.0,76.0,,,,,,,,,,,8
 UBCV,2017,W,CNPS,362,,003,Basic Interviewing Skills,Deepak Mathew;Wei-Chiao Hsu,15,87.866666667,7.8546316329999994,96.0,66.0,,,,,,,,,,5,7
@@ -10,49 +9,74 @@ UBCV,2017,W,CNPS,362,,007,Basic Interviewing Skills,Rosalynn Lemon;Rosalynn Mich
 UBCV,2017,W,CNPS,362,,008,Basic Interviewing Skills,Megan Hughes-Jones;Megan I Hughes-Jones,11,86.0,5.813776741,94.0,74.0,,,,,,,,,,6,
 UBCV,2017,W,CNPS,362,,009,Basic Interviewing Skills,Brenda Dyer,13,86.76923076899999,5.246488447,92.0,75.0,,,,,,,,,,,6
 UBCV,2017,W,CNPS,362,,010,Basic Interviewing Skills,Deepak Mathew;Wei-Chiao Hsu,14,83.785714286,4.627319733,91.0,76.0,,,,,,,,,7,,
-UBCV,2017,W,CNPS,363,,63A,Career Counselling,Talino Bruno,55,89.745454545,8.501019943,96.0,41.0,,,,,,,,,,9,38
-UBCV,2017,W,CNPS,363,,63C,Career Counselling,Talino Bruno,57,87.35087719299999,4.09917774,93.0,75.0,,,,,,,,,7,30,16
+UBCV,2017,W,CNPS,362,,61A,Basic Interviewing Skills,Deepak Mathew,14,81.642857143,20.473649642,92.0,11.0,,,,,,,,,,9,
+UBCV,2017,W,CNPS,362,,OVERALL,Basic Interviewing Skills,,157,86.27388535,8.100024901,96.0,11.0,,,,,,,6,7,32,58,52
 UBCV,2017,W,CNPS,363,,002,Career Counselling,Kirby Huminuik;Kirby Leigh Huminuik,34,77.176470588,12.474144382,90.0,16.0,,,,,,,5,5,10,6,
-UBCV,2017,W,CNPS,363,,003,Career Counselling,Kirby Huminuik;Kirby Leigh Huminuik,33,73.939393939,14.34385625,90.0,18.0,,,,,,,,9,9,,
+UBCV,2017,W,CNPS,363,,003,Career Counselling,Kirby Huminuik;Kirby Leigh Huminuik,33,73.939393939,14.34385625,90.0,18.0,,,,,,,,9,9,3,
+UBCV,2017,W,CNPS,363,,63A,Career Counselling,Talino Bruno,55,89.745454545,8.501019943,96.0,41.0,,,,,,,,,4,9,38
+UBCV,2017,W,CNPS,363,,63C,Career Counselling,Talino Bruno,57,87.35087719299999,4.09917774,93.0,75.0,,,,,,,,,7,30,16
+UBCV,2017,W,CNPS,363,,OVERALL,Career Counselling,,179,83.68156424600001,11.593016389,96.0,16.0,,,,,,6,11,18,30,48,57
+UBCV,2017,W,CNPS,364,,001,Family Education and Consultation,Shekoofeh Skrenes,35,75.828571429,16.776183599,93.0,0.0,,,,,,,,7,8,3,5
 UBCV,2017,W,CNPS,364,,63A,Family Education and Consultation,Erika Horwitz,59,87.305084746,7.081433317999999,100.0,70.0,,,,,,,,8,7,15,26
-UBCV,2017,W,CNPS,364,,63C,Family Education and Consultation,Erika Horwitz,60,83.216666667,13.45436942,97.0,20.0,,,,,,,,,7,14,23
-UBCV,2017,W,CNPS,364,,001,Family Education and Consultation,Shekoofeh Skrenes,35,75.828571429,16.776183599,93.0,0.0,,,,,,,,7,8,,5
-UBCV,2017,W,CNPS,365,,63A,Introduction to Theories of Counselling,Mircea A Munteanu;Mircea Munteanu,57,75.070175439,12.912977482999999,94.0,36.0,,,,,6,7,,6,13,7,6
-UBCV,2017,W,CNPS,365,,63C,Introduction to Theories of Counselling,Mircea A Munteanu;Mircea Munteanu,56,74.196428571,12.076151769,95.0,35.0,,,5,,7,,7,9,8,8,
+UBCV,2017,W,CNPS,364,,63C,Family Education and Consultation,Erika Horwitz,60,83.216666667,13.45436942,97.0,20.0,,,,,,,,4,7,14,23
+UBCV,2017,W,CNPS,364,,OVERALL,Family Education and Consultation,,154,83.103896104,13.049012099,100.0,0.0,,,,,5,7,9,19,22,32,54
 UBCV,2017,W,CNPS,365,,001,Introduction to Theories of Counselling,Mircea A Munteanu;Mircea Munteanu,32,83.65625,5.834322113,94.0,70.0,,,,,,,,,9,11,6
-UBCV,2017,W,CNPS,365,,003,Introduction to Theories of Counselling,Deepak Mathew,32,80.3125,11.400162704000001,95.0,50.0,,,,,,5,,,,5,11
+UBCV,2017,W,CNPS,365,,003,Introduction to Theories of Counselling,Deepak Mathew,32,80.3125,11.400162704000001,95.0,50.0,,,,,,5,,,2,5,11
+UBCV,2017,W,CNPS,365,,63A,Introduction to Theories of Counselling,Mircea A Munteanu;Mircea Munteanu,57,75.070175439,12.912977482999999,94.0,36.0,,,,,6,7,,6,13,7,6
+UBCV,2017,W,CNPS,365,,63C,Introduction to Theories of Counselling,Mircea A Munteanu;Mircea Munteanu,56,74.196428571,12.076151769,95.0,35.0,,,5,,7,,7,9,8,8,4
+UBCV,2017,W,CNPS,365,,OVERALL,Introduction to Theories of Counselling,,177,77.29378531100001,11.88216845,95.0,35.0,3.0,5,8,5,14,18,13,21,32,31,27
 UBCV,2017,W,CNPS,426,,63A,The Role of the Teacher in Guidance,Vicky Thomson,42,81.142857143,15.75044936,98.0,21.0,,,,,,,,,6,,16
+UBCV,2017,W,CNPS,426,,OVERALL,The Role of the Teacher in Guidance,,42,81.142857143,15.75044936,98.0,21.0,,,,,,,,,6,,16
+UBCV,2017,W,CNPS,427,,001,Guidance: Planning and Decision-making,Mircea A Munteanu;Mircea Munteanu,19,82.368421053,5.983407858,93.0,70.0,,,,,,1,1,4,6,4,
 UBCV,2017,W,CNPS,427,,63A,Guidance: Planning and Decision-making,Mircea A Munteanu;Mircea Munteanu,58,76.431034483,13.42047672,93.0,0.0,,,,,,10,7,9,12,6,7
 UBCV,2017,W,CNPS,427,,63C,Guidance: Planning and Decision-making,Mircea A Munteanu;Mircea Munteanu,59,76.20338983100001,8.823518066,93.0,44.0,,,,,,8,9,13,11,10,
-UBCV,2017,W,CNPS,427,,001,Guidance: Planning and Decision-making,Mircea A Munteanu;Mircea Munteanu,19,82.368421053,5.983407858,93.0,70.0,,,,,,,,,6,,
+UBCV,2017,W,CNPS,427,,OVERALL,Guidance: Planning and Decision-making,,136,77.161764706,10.895612837,93.0,0.0,,,,,5,19,17,26,29,20,11
 UBCV,2017,W,CNPS,433,,63A,The Personal and Social Development of the Adult,Janet Vaughan Marshall,60,90.2,6.635293411,100.0,70.0,,,,,,,,,8,13,35
 UBCV,2017,W,CNPS,433,,63B,The Personal and Social Development of the Adult,Janet Vaughan Marshall,60,91.53333333299999,4.77446125,100.0,80.0,,,,,,,,,6,9,45
 UBCV,2017,W,CNPS,433,,63C,The Personal and Social Development of the Adult,Janet Vaughan Marshall,60,88.133333333,12.897860375,99.0,0.0,,,,,,,,,9,10,36
-UBCV,2017,W,CNPS,433,,63D,The Personal and Social Development of the Adult,Janet Vaughan Marshall,59,91.423728814,5.065785808,99.0,72.0,,,,,,,,,,13,42
+UBCV,2017,W,CNPS,433,,63D,The Personal and Social Development of the Adult,Janet Vaughan Marshall,59,91.423728814,5.065785808,99.0,72.0,,,,,,,,,2,13,42
+UBCV,2017,W,CNPS,433,,OVERALL,The Personal and Social Development of the Adult,,239,90.317991632,8.120373961,100.0,0.0,,,,,,,,7,25,45,158
 UBCV,2017,W,CNPS,514,,001,Counselling Adolescents,Rhea Owens;Shekoofeh Skrenes,9,93.666666667,1.8708286930000002,96.0,92.0,,,,,,,,,,,9
+UBCV,2017,W,CNPS,514,,OVERALL,Counselling Adolescents,,9,93.666666667,1.8708286930000002,96.0,92.0,,,,,,,,,,,9
 UBCV,2017,W,CNPS,524,,001,Counselling Adults,Fumio Ishu Ishiyama,15,92.26666666700001,1.6676187759999999,95.0,90.0,,,,,,,,,,,15
+UBCV,2017,W,CNPS,524,,OVERALL,Counselling Adults,,15,92.26666666700001,1.6676187759999999,95.0,90.0,,,,,,,,,,,15
 UBCV,2017,W,CNPS,532,A,61A,Psychological Assessment in Counselling,Janet Vaughan Marshall,17,86.88235294100001,5.699587188,98.0,75.0,,,,,,,,,,7,
-UBCV,2017,W,CNPS,532,B,62A,Psychological Assessment in Counselling,Izabela Schultz,17,91.764705882,2.332632948,98.0,88.0,,,,,,,,,,,15
+UBCV,2017,W,CNPS,532,A,OVERALL,Psychological Assessment in Counselling,,17,86.88235294100001,5.699587188,98.0,75.0,,,,,,,,,,7,
 UBCV,2017,W,CNPS,532,B,001,Psychological Assessment in Counselling,Robinder Bedi,16,90.3125,1.851800925,93.0,86.0,,,,,,,,,,5,11
+UBCV,2017,W,CNPS,532,B,62A,Psychological Assessment in Counselling,Izabela Schultz,17,91.764705882,2.332632948,98.0,88.0,,,,,,,,,,-12,15
+UBCV,2017,W,CNPS,532,B,OVERALL,Psychological Assessment in Counselling,,33,91.060606061,2.207082264,98.0,86.0,,,,,,,,,,7,26
 UBCV,2017,W,CNPS,534,,001,Gender and Sex Role Issues in Counselling,Christopher Shelley,12,90.833333333,1.749458791,94.0,88.0,,,,,,,,,,,10
+UBCV,2017,W,CNPS,534,,OVERALL,Gender and Sex Role Issues in Counselling,,12,90.833333333,1.749458791,94.0,88.0,,,,,,,,,,,10
 UBCV,2017,W,CNPS,545,,001,Family Counselling - Interventions and Research,Tatjana Elez,13,91.0,2.915475947,96.0,86.0,,,,,,,,,,,10
-UBCV,2017,W,CNPS,564,,001,Group Counselling,Robinder Bedi,9,88.555555556,3.3952581310000003,92.0,81.0,,,,,,,,,,,6
+UBCV,2017,W,CNPS,545,,OVERALL,Family Counselling - Interventions and Research,,13,91.0,2.915475947,96.0,86.0,,,,,,,,,,,10
+UBCV,2017,W,CNPS,564,,001,Group Counselling,Robinder Bedi,9,88.555555556,3.3952581310000003,92.0,81.0,,,,,,,,,1,2,6
 UBCV,2017,W,CNPS,564,,002,Group Counselling,Robinder Bedi,18,87.0,3.6782348710000003,94.0,81.0,,,,,,,,,5,8,5
+UBCV,2017,W,CNPS,564,,OVERALL,Group Counselling,,27,87.518518519,3.598828553,94.0,81.0,,,,,,,,,6,10,11
 UBCV,2017,W,CNPS,574,,001,Career Planning and Decision-Making Counselling,Norman Amundson,18,92.055555556,3.455127855,98.0,87.0,,,,,,,,,,6,12
+UBCV,2017,W,CNPS,574,,OVERALL,Career Planning and Decision-Making Counselling,,18,92.055555556,3.455127855,98.0,87.0,,,,,,,,,,6,12
 UBCV,2017,W,CNPS,578,C,001,Individual and Family Counselling Theories and Interventions,Brenda Dyer,11,88.72727272700001,1.793929156,92.0,86.0,,,,,,,,,,7,
 UBCV,2017,W,CNPS,578,C,002,Individual and Family Counselling Theories and Interventions,Brenda Dyer,12,88.416666667,1.676486224,93.0,86.0,,,,,,,,,,10,
 UBCV,2017,W,CNPS,578,C,003,Individual and Family Counselling Theories and Interventions,Sandra Wiens;Thomas Motl,12,89.25,2.7344602260000004,94.0,85.0,,,,,,,,,,5,7
+UBCV,2017,W,CNPS,578,C,OVERALL,Individual and Family Counselling Theories and Interventions,,35,88.8,2.097617696,94.0,85.0,,,,,,,,,,22,13
 UBCV,2017,W,CNPS,579,,001,Research in Counselling Psychology,Richard Young,12,90.416666667,3.2321772380000002,96.0,85.0,,,,,,,,,,5,7
+UBCV,2017,W,CNPS,579,,OVERALL,Research in Counselling Psychology,,12,90.416666667,3.2321772380000002,96.0,85.0,,,,,,,,,,5,7
 UBCV,2017,W,CNPS,584,,002,Program Development and Professional Practice in Counselling,Daniel Cox;Fumio Ishu Ishiyama;Shekoofeh Skrenes,12,92.583333333,1.9752253419999999,95.0,90.0,,,,,,,,,,,12
-UBCV,2017,W,CNPS,586,,001,Ethics in Counselling Psychology,Mircea A Munteanu;Mircea Munteanu,6,90.5,3.619392214,96.0,85.0,,,,,,,,,,,
+UBCV,2017,W,CNPS,584,,OVERALL,Program Development and Professional Practice in Counselling,,12,92.583333333,1.9752253419999999,95.0,90.0,,,,,,,,,,,12
+UBCV,2017,W,CNPS,586,,001,Ethics in Counselling Psychology,Mircea A Munteanu;Mircea Munteanu,6,90.5,3.619392214,96.0,85.0,,,,,,,,,,,4
 UBCV,2017,W,CNPS,586,,002,Ethics in Counselling Psychology,Mircea A Munteanu;Mircea Munteanu,18,94.055555556,2.013840996,98.0,90.0,,,,,,,,,,,18
-UBCV,2017,W,CNPS,588,C,67A,Supervised Training in Counselling,Faith Rostad;Fumio Ishu Ishiyama,5,85.6,1.516575089,88.0,84.0,,,,,,,,,,,
-UBCV,2017,W,CNPS,588,C,67B,Supervised Training in Counselling,Fumio Ishu Ishiyama;Thomas Motl,6,90.5,4.50555213,95.0,84.0,,,,,,,,,,,
+UBCV,2017,W,CNPS,586,,OVERALL,Ethics in Counselling Psychology,,24,93.166666667,2.884240035,98.0,85.0,,,,,,,,,,,22
 UBCV,2017,W,CNPS,588,C,001,Supervised Training in Counselling,Colleen Haney,5,93.0,1.224744871,95.0,92.0,,,,,,,,,,,5
 UBCV,2017,W,CNPS,588,C,005,Supervised Training in Counselling,Sandra Wiens;Thomas Motl,5,90.6,3.286335345,95.0,86.0,,,,,,,,,,,
 UBCV,2017,W,CNPS,588,C,007,Supervised Training in Counselling,Richard Harrison,6,89.166666667,2.316606714,93.0,87.0,,,,,,,,,,,
 UBCV,2017,W,CNPS,588,C,008,Supervised Training in Counselling,Michele Bowers,5,88.0,1.224744871,90.0,87.0,,,,,,,,,,,
+UBCV,2017,W,CNPS,588,C,67A,Supervised Training in Counselling,Faith Rostad;Fumio Ishu Ishiyama,5,85.6,1.516575089,88.0,84.0,,,,,,,,,,,
+UBCV,2017,W,CNPS,588,C,67B,Supervised Training in Counselling,Fumio Ishu Ishiyama;Thomas Motl,6,90.5,4.50555213,95.0,84.0,,,,,,,,,,,
+UBCV,2017,W,CNPS,588,C,OVERALL,Supervised Training in Counselling,,48,89.125,3.851636845,96.0,78.0,,,,,,,,,,21,22
 UBCV,2017,W,CNPS,595,,001,"Stress, Coping and Adaptation Related to Trauma and Addictions",Marla Buchanan,12,90.75,2.864357773,96.0,88.0,,,,,,,,,,5,7
+UBCV,2017,W,CNPS,595,,OVERALL,"Stress, Coping and Adaptation Related to Trauma and Addictions",,12,90.75,2.864357773,96.0,88.0,,,,,,,,,,5,7
 UBCV,2017,W,CNPS,632,,001,Advanced Assessment,Izabela Schultz,6,93.0,2.366431913,96.0,90.0,,,,,,,,,,,6
+UBCV,2017,W,CNPS,632,,OVERALL,Advanced Assessment,,6,93.0,2.366431913,96.0,90.0,,,,,,,,,,,6
 UBCV,2017,W,CNPS,669,A,001,Research Approaches in Counselling Psychology,Richard Young,6,91.5,2.34520788,95.0,88.0,,,,,,,,,,,5
+UBCV,2017,W,CNPS,669,A,OVERALL,Research Approaches in Counselling Psychology,,6,91.5,2.34520788,95.0,88.0,,,,,,,,,,,5
 UBCV,2017,W,CNPS,678,A,001,Theoretical Perspectives in Counselling Psychology,Marla Buchanan,5,94.0,1.58113883,96.0,92.0,,,,,,,,,,,5
+UBCV,2017,W,CNPS,678,A,OVERALL,Theoretical Perspectives in Counselling Psychology,,5,94.0,1.58113883,96.0,92.0,,,,,,,,,,,5

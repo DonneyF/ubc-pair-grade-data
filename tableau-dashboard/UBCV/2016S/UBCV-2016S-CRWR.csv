@@ -1,9 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,S,CRWR,200,,001,Introduction to Creative Writing,Curtis Leblanc;Gena Ellett;Leah Abramson;Mica Lemiski;Miriam Libicki;Sasha Singer-Wilson;Tariq Hussain;Walter Macdonald,146,82.835616438,8.428218118,96.0,39.0,,,,,,,7,16,46,51,18
 UBCV,2016,S,CRWR,200,,002,Introduction to Creative Writing,Curtis Leblanc;Gena Ellett;Leah Abramson;Mica Lemiski;Miriam Libicki;Sasha Singer-Wilson;Tariq Hussain;Walter Macdonald,66,81.212121212,11.973708572,94.0,10.0,,,,,,,5,5,19,20,10
+UBCV,2016,S,CRWR,200,,OVERALL,Introduction to Creative Writing,,212,82.330188679,9.67208491,96.0,10.0,,,,,,5,12,21,65,71,28
 UBCV,2016,S,CRWR,501,J,D01,Advanced Writing of Poetry I,Susan Musgrave,13,95.076923077,1.11516355,97.0,94.0,,,,,,,,,,,13
+UBCV,2016,S,CRWR,501,J,OVERALL,Advanced Writing of Poetry I,,13,95.076923077,1.11516355,97.0,94.0,,,,,,,,,,,13
+UBCV,2016,S,CRWR,505,J,OVERALL,Advanced Writing of Creative Non-Fiction I,,11,92.72727272700001,1.348399725,94.0,91.0,,,,,,,,,,,11
 UBCV,2016,S,CRWR,505,J,S01,Advanced Writing of Creative Non-Fiction I,Kevin Kim Wang Chong,11,92.72727272700001,1.348399725,94.0,91.0,,,,,,,,,,,11
+UBCV,2016,S,CRWR,506,J,OVERALL,Advanced Writing of Drama for Screen I,,11,92.454545455,1.634847783,95.0,90.0,,,,,,,,,,,11
 UBCV,2016,S,CRWR,506,J,S01,Advanced Writing of Drama for Screen I,Sara Graefe,11,92.454545455,1.634847783,95.0,90.0,,,,,,,,,,,11
+UBCV,2016,S,CRWR,509,J,OVERALL,Advanced Writing of Fiction I,,23,90.0,1.348399725,93.0,86.0,,,,,,,,,,,19
 UBCV,2016,S,CRWR,509,J,S01,Advanced Writing of Fiction I,Annabel Lyon,12,90.0,1.906925178,93.0,86.0,,,,,,,,,,,8
 UBCV,2016,S,CRWR,509,J,S02,Advanced Writing of Fiction I,,11,90.0,0.0,90.0,90.0,,,,,,,,,,,11
 UBCV,2016,S,CRWR,511,J,001,Advanced Writing for Lyric Forms I,Tariq Hussain,5,95.6,0.5477225579999999,96.0,95.0,,,,,,,,,,,5
+UBCV,2016,S,CRWR,511,J,OVERALL,Advanced Writing for Lyric Forms I,,5,95.6,0.5477225579999999,96.0,95.0,,,,,,,,,,,5
+UBCV,2016,S,CRWR,599,,OVERALL,Thesis,,8,93.5,1.4142135619999998,96.0,92.0,,,,,,,,,,,8

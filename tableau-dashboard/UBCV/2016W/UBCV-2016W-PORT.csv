@@ -1,8 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca,24,84.083333333,6.446547216,95.0,72.0,,,,,,,,8,,5,7
+UBCV,2016,W,PORT,101,,OVERALL,First-Year Portuguese I,,24,84.083333333,6.446547216,95.0,72.0,,,,,,,,8,,5,7
 UBCV,2016,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca,19,71.631578947,12.157350435,91.0,43.0,,,,,,,,,,,
+UBCV,2016,W,PORT,102,,OVERALL,First-Year Portuguese II,,19,71.631578947,12.157350435,91.0,43.0,,,,,,,,,,,
 UBCV,2016,W,PORT,110,,101,Elementary Portuguese for Romance Language Speakers,Pedro Dos Santos;Pedro Lazaro Dos Santos,11,89.27272727299999,3.9772077919999997,97.0,82.0,,,,,,,,,,,6
-UBCV,2016,W,PORT,210,,201,Intermediate Portuguese for Romance Language Speakers,Pedro Dos Santos,10,85.4,7.6332605529999995,97.0,72.0,,,,,,,,,,,
+UBCV,2016,W,PORT,110,,OVERALL,Elementary Portuguese for Romance Language Speakers,,11,89.27272727299999,3.9772077919999997,97.0,82.0,,,,,,,,,,,6
+UBCV,2016,W,PORT,210,,201,Intermediate Portuguese for Romance Language Speakers,Pedro Dos Santos;Pedro Lazaro Dos Santos,10,85.4,7.6332605529999995,97.0,72.0,,,,,,,,,,,
+UBCV,2016,W,PORT,210,,OVERALL,Intermediate Portuguese for Romance Language Speakers,,10,85.4,7.6332605529999995,97.0,72.0,,,,,,,,,,,
 UBCV,2016,W,PORT,222,,201,Introduction to the Analysis of Portuguese and Brazilian Cultures,Pedro Dos Santos;Pedro Lazaro Dos Santos,7,90.85714285700001,3.625307869,97.0,86.0,,,,,,,,,,,
-UBCV,2016,W,PORT,301,,101,Advanced Portuguese,Pedro Dos Santos,7,85.714285714,6.102302454,92.0,78.0,,,,,,,,,,,
+UBCV,2016,W,PORT,222,,OVERALL,Introduction to the Analysis of Portuguese and Brazilian Cultures,,7,90.85714285700001,3.625307869,97.0,86.0,,,,,,,,,,,
+UBCV,2016,W,PORT,301,,101,Advanced Portuguese,Pedro Dos Santos;Pedro Lazaro Dos Santos,7,85.714285714,6.102302454,92.0,78.0,,,,,,,,,,,
+UBCV,2016,W,PORT,301,,OVERALL,Advanced Portuguese,,7,85.714285714,6.102302454,92.0,78.0,,,,,,,,,,,
 UBCV,2016,W,PORT,392,,101,Studies in Portuguese and Brazilian Literature,Alessandra Santos,20,81.15,5.402484808,90.0,68.0,,,,,,,,,9,5,
+UBCV,2016,W,PORT,392,,OVERALL,Studies in Portuguese and Brazilian Literature,,20,81.15,5.402484808,90.0,68.0,,,,,,,,,9,5,

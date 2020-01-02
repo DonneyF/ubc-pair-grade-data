@@ -1,19 +1,29 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,EDUC,140,,177,Introduction to Indigenous Studies,Clinton Charlie,19,72.421052632,27.803508551,97.0,0.0,,,,,,,,,,,5
+UBCV,2015,W,EDUC,140,,OVERALL,Introduction to Indigenous Studies,,19,72.421052632,27.803508551,97.0,0.0,,,,,,,,,,,5
 UBCV,2015,W,EDUC,172,,D02,Language and the Curriculum,Kedrick James,52,56.519230768999996,17.033404763,90.0,0.0,7,15,5,7,5,6,,,,,
+UBCV,2015,W,EDUC,172,,OVERALL,Language and the Curriculum,,52,56.519230768999996,17.033404763,90.0,0.0,7,15,5,7,5,6,,,,,
 UBCV,2015,W,EDUC,210,,001,"Global Citizenship, Part 1: Introduction",Reginald D'Silva,10,81.7,12.65833059,88.0,46.0,,,,,,,,,,7,
+UBCV,2015,W,EDUC,210,,OVERALL,"Global Citizenship, Part 1: Introduction",,10,81.7,12.65833059,88.0,46.0,,,,,,,,,,7,
 UBCV,2015,W,EDUC,240,,177,Issues in Indigenous Education,Clinton Charlie,18,70.222222222,27.156530046999997,91.0,0.0,,,,,,,,,,,
+UBCV,2015,W,EDUC,240,,OVERALL,Issues in Indigenous Education,,18,70.222222222,27.156530046999997,91.0,0.0,,,,,,,,,,,
 UBCV,2015,W,EDUC,272,,D03,Teaching Chemistry,Christopher Campbell,30,65.333333333,15.957558653,85.0,0.0,,,,,6,7,,,6,,
+UBCV,2015,W,EDUC,272,,OVERALL,Teaching Chemistry,,30,65.333333333,15.957558653,85.0,0.0,,,,,6,7,,,6,,
 UBCV,2015,W,EDUC,275,,D03,Global Education,Bathseba Opini,101,75.01980198,9.821385033,93.0,52.0,,,5,5,7,13,15,11,25,12,
+UBCV,2015,W,EDUC,275,,OVERALL,Global Education,,101,75.01980198,9.821385033,93.0,52.0,,,5,5,7,13,15,11,25,12,
 UBCV,2015,W,EDUC,276,,D03,Teaching Mathematics II,Cynthia Nicol,13,69.692307692,9.27707403,83.0,47.0,,,,,,5,,,,,
+UBCV,2015,W,EDUC,276,,OVERALL,Teaching Mathematics II,,13,69.692307692,9.27707403,83.0,47.0,,,,,,5,,,,,
 UBCV,2015,W,EDUC,278,,D03,Teaching Biology,Elizabeth Jordan,30,69.966666667,10.420415417000001,93.0,54.0,,,,,6,5,,,,,
+UBCV,2015,W,EDUC,278,,OVERALL,Teaching Biology,,30,69.966666667,10.420415417000001,93.0,54.0,,,,,6,5,,,,,
 UBCV,2015,W,EDUC,490,W,D02,Special Studies in Education,Samson Nashon;Winston Massam,25,63.8,8.200609733,84.0,53.0,,,5,7,,,,,,,
-UBCV,2015,W,EDUC,500,,61A,Research Methodology in Education,Maria Pighini,15,88.46666666700001,5.705469389,96.0,76.0,,,,,,,,,,,9
-UBCV,2015,W,EDUC,500,,61B,Research Methodology in Education,Mary Gale Smith;Mary Smith,15,86.26666666700001,3.534860407,94.0,80.0,,,,,,,,,,10,
-UBCV,2015,W,EDUC,500,,62A,Research Methodology in Education,Lisa Mcintosh,12,87.416666667,2.64431924,92.0,83.0,,,,,,,,,,8,
+UBCV,2015,W,EDUC,490,W,OVERALL,Special Studies in Education,,25,63.8,8.200609733,84.0,53.0,,,5,7,,,,,,,
 UBCV,2015,W,EDUC,500,,001,Research Methodology in Education,Cash Ahenakew,19,93.473684211,1.645479365,96.0,90.0,,,,,,,,,,,19
 UBCV,2015,W,EDUC,500,,002,Research Methodology in Education,Oksana Bartosh,18,86.77777777799999,3.0010891269999997,92.0,80.0,,,,,,,,,,13,
 UBCV,2015,W,EDUC,500,,003,Research Methodology in Education,Tannis Morgan,14,97.5,1.160238702,99.0,95.0,,,,,,,,,,,14
 UBCV,2015,W,EDUC,500,,004,Research Methodology in Education,Kerry Renwick,19,91.57894736799999,5.37810158,100.0,81.0,,,,,,,,,,5,12
 UBCV,2015,W,EDUC,500,,005,Research Methodology in Education,James Douglas Adler,18,91.22222222200001,3.281957012,97.0,83.0,,,,,,,,,,,14
 UBCV,2015,W,EDUC,500,,006,Research Methodology in Education,Peter Cole,7,89.14285714299999,0.899735411,90.0,88.0,,,,,,,,,,,
+UBCV,2015,W,EDUC,500,,61A,Research Methodology in Education,Maria Pighini,15,88.46666666700001,5.705469389,96.0,76.0,,,,,,,,,,,9
+UBCV,2015,W,EDUC,500,,61B,Research Methodology in Education,Mary Gale Smith;Mary Smith,15,86.26666666700001,3.534860407,94.0,80.0,,,,,,,,,,10,
+UBCV,2015,W,EDUC,500,,62A,Research Methodology in Education,Lisa Mcintosh,12,87.416666667,2.64431924,92.0,83.0,,,,,,,,,,8,
+UBCV,2015,W,EDUC,500,,OVERALL,Research Methodology in Education,,137,90.357664234,4.869981922,100.0,76.0,,,,,,,,,12,46,78

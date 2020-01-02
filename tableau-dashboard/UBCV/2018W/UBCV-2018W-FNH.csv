@@ -1,50 +1,89 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,FNH,200,,99A,Exploring Our Food,Catherine Wong;Jennifer Mcqueen,46,74.02173913,14.788117047,95.0,22.0,,,,,6,5,,5,6,,8
-UBCV,2018,W,FNH,200,,99E,Exploring Our Food,Feng Yingying;Jennifer Mcqueen;Katie Irene Tsoupakis;Katie Tsoupakis;Yingying Feng,46,78.97826087,13.933953942,96.0,33.0,,,,,,,,,8,6,13
-UBCV,2018,W,FNH,200,,101,Exploring Our Food,Azita Madadi Noei;Katie Irene Tsoupakis;Katie Tsoupakis;Melanie Liu;Negar Karami;Nilanga Aki Bandara;Philip Pui-Li Yen;Philip Yen,192,77.552083333,13.234786617000001,99.0,25.0,,9,10,16,12,10,15,12,30,44,33
+UBCV,2018,W,FNH,200,,101,Exploring Our Food,Azita Madadi Noei;Katie Irene Tsoupakis;Katie Tsoupakis;Melanie Liu;Negar Karami;Nilanga Aki Bandara;Philip Pui-Li Yen;Philip Yen,192,77.6875,12.820804835999999,99.0,50.0,0.0,10,10,16,12,10,15,12,30,44,33
 UBCV,2018,W,FNH,200,,102,Exploring Our Food,Catherine Wong;John Dupuis;John Henry Dupuis;Siyun Wang,100,76.67,14.2382718,97.0,8.0,,,,,,9,19,10,16,9,21
-UBCV,2018,W,FNH,200,,103,Exploring Our Food,Azita Madadi Noei;Katie Irene Tsoupakis;Katie Tsoupakis;Melanie Liu;Negar Karami;Nilanga Aki Bandara;Philip Pui-Li Yen;Philip Yen,156,74.948717949,17.525942015,100.0,0.0,6,15,6,10,13,11,10,5,25,18,37
-UBCV,2018,W,FNH,250,,99A,Nutrition Concepts and Controversies,Elizabeth Marie Novak;Elizabeth Novak;Emma Clark;Emma Hermiene Clark,40,75.5,11.697030085,95.0,55.0,,,6,,,5,,,7,5,5
-UBCV,2018,W,FNH,250,,99C,Nutrition Concepts and Controversies,Abrar Mohammed J Turki;Abrar Turki;Elizabeth Marie Novak;Elizabeth Novak,45,73.866666667,9.099450532999999,91.0,52.0,,,,,,11,5,7,7,,
-UBCV,2018,W,FNH,250,,001,Nutrition Concepts and Controversies,Gail Hammond;Jordie Alexandra Janice Fischer;Jordie Fischer;Kelsey Cochrane;Maria Fernanda Mujica Coopman;Maria Mujica Coopman,96,78.447916667,8.929984725,94.0,31.0,,,,,8,,13,19,28,17,
-UBCV,2018,W,FNH,250,,003,Nutrition Concepts and Controversies,Gail Hammond;Iris Elena Lopez Ramirez;Iris Lopez Ramirez;Jordie Fischer;Maria Fernanda Mujica Coopman;Maria Mujica Coopman;Yu Huo,130,78.930769231,10.544250397999999,95.0,15.0,,,,8,,6,16,21,29,35,9
+UBCV,2018,W,FNH,200,,103,Exploring Our Food,Azita Madadi Noei;Katie Irene Tsoupakis;Katie Tsoupakis;Melanie Liu;Negar Karami;Nilanga Aki Bandara;Philip Pui-Li Yen;Philip Yen,156,75.33974359,17.143604768,100.0,0.0,4.0,16,6,10,13,11,10,5,25,19,37
+UBCV,2018,W,FNH,200,,99A,Exploring Our Food,Catherine Wong;Jennifer Mcqueen,46,74.02173913,14.788117047,95.0,22.0,,,,,6,5,,5,6,4,8
+UBCV,2018,W,FNH,200,,99E,Exploring Our Food,Feng Yingying;Jennifer Mcqueen;Katie Irene Tsoupakis;Katie Tsoupakis;Yingying Feng,46,78.97826087,13.933953942,96.0,33.0,,,,,,4,,4,8,6,13
+UBCV,2018,W,FNH,200,,OVERALL,Exploring Our Food,,540,76.61851851899999,14.710528760999999,100.0,0.0,9,32,24,36,36,39,49,36,85,82,112
+UBCV,2018,W,FNH,250,,001,Nutrition Concepts and Controversies,Gail Hammond;Jordie Alexandra Janice Fischer;Jordie Fischer;Kelsey Cochrane;Maria Fernanda Mujica Coopman;Maria Mujica Coopman,96,78.71875,7.798384617000001,94.0,57.0,,,,,8,3,13,19,28,17,
+UBCV,2018,W,FNH,250,,003,Nutrition Concepts and Controversies,Gail Hammond;Iris Elena Lopez Ramirez;Iris Lopez Ramirez;Jordie Alexandra Janice Fischer;Jordie Fischer;Maria Fernanda Mujica Coopman;Maria Mujica Coopman;Yu Huo,129,79.76744186,8.063722415,95.0,53.0,,,,8,,6,16,21,30,35,9
+UBCV,2018,W,FNH,250,,99A,Nutrition Concepts and Controversies,Elizabeth Marie Novak;Elizabeth Novak;Emma Clark;Emma Hermiene Clark,40,75.5,11.697030085,95.0,55.0,,,6,,,5,3,4,7,5,5
+UBCV,2018,W,FNH,250,,99C,Nutrition Concepts and Controversies,Abrar Mohammed J Turki;Abrar Turki;Elizabeth Marie Novak;Elizabeth Novak,46,74.282608696,9.429653095,93.0,52.0,,,,,,11,5,7,7,3,
+UBCV,2018,W,FNH,250,,OVERALL,Nutrition Concepts and Controversies,,311,78.083601286,8.939550823,95.0,52.0,,,9,16,17,25,37,51,72,60,22
 UBCV,2018,W,FNH,300,,001,Principles of Food Engineering,John Frostad;Minghuan Xu;Ronit Mandal,49,78.959183673,11.926789145,97.0,35.0,,,,,5,,,,11,16,
+UBCV,2018,W,FNH,300,,OVERALL,Principles of Food Engineering,,49,78.959183673,11.926789145,97.0,35.0,,,,,5,,,,11,16,
 UBCV,2018,W,FNH,301,,001,Food Chemistry I,Anika Singh;David Kitts;Kaiwen Mu,59,78.06779661,8.944010531,92.0,53.0,,,,,,5,11,6,15,12,
-UBCV,2018,W,FNH,302,,001,Food Analysis,Shenmiao Li;Xiaonan Lu,34,77.61764705899999,13.010519534,93.0,39.0,,,,,,6,,,6,8,5
+UBCV,2018,W,FNH,301,,OVERALL,Food Chemistry I,,59,78.06779661,8.944010531,92.0,53.0,,,,,,5,11,6,15,12,
+UBCV,2018,W,FNH,302,,001,Food Analysis,Shenmiao Li;Xiaonan Lu,34,78.735294118,11.081813722,93.0,50.0,,,,,,6,,5,6,8,5
+UBCV,2018,W,FNH,302,,OVERALL,Food Analysis,,34,78.735294118,11.081813722,93.0,50.0,,,,,,6,,5,6,8,5
 UBCV,2018,W,FNH,303,,001,Food Product Development,Christine Scaman;Elaine Cheng;Philip Pui-Li Yen;Philip Yen,50,77.76,9.888273822,93.0,50.0,,,,,,,8,,18,7,5
+UBCV,2018,W,FNH,303,,OVERALL,Food Product Development,,50,77.76,9.888273822,93.0,50.0,,,,,,,8,,18,7,5
 UBCV,2018,W,FNH,309,,001,Food Process Science,Anika Singh;Anubhav Pratap Singh;Ronit Mandal;Yuan Shi,52,88.576923077,7.680753011,97.0,55.0,,,,,,,,,,16,28
+UBCV,2018,W,FNH,309,,OVERALL,Food Process Science,,52,88.576923077,7.680753011,97.0,55.0,,,,,,,,,,16,28
 UBCV,2018,W,FNH,313,,001,Food Microbiology,Anestis Marios Tzanidis;Catherine Wong;Kaidi Wang;Ningrong Catherine Fu;Patricia Anne Hingston;Patricia Hingston;Qian Fan;Vivien Measday;Yvonne Ma,90,82.3,10.059876917999999,94.0,35.0,,,,,,,8,13,14,22,24
+UBCV,2018,W,FNH,313,,OVERALL,Food Microbiology,,90,82.3,10.059876917999999,94.0,35.0,,,,,,,8,13,14,22,24
 UBCV,2018,W,FNH,325,,001,Food Science Laboratory I,Angela Mercy Rutakomozibwa;David Burke James Mahoney;David Mahoney;Karol Traviss;Michelle Bex;Patricia Hingston,22,82.318181818,7.357447562000001,92.0,61.0,,,,,,,,,7,7,
+UBCV,2018,W,FNH,325,,OVERALL,Food Science Laboratory I,,22,82.318181818,7.357447562000001,92.0,61.0,,,,,,,,,7,7,
 UBCV,2018,W,FNH,326,,001,Food Science Laboratory II,Angela Mercy Rutakomozibwa;David Burke James Mahoney;David Mahoney;Ka Yan Lennie Cheung;Michelle Bex;Patricia Hingston,22,78.772727273,6.3165076110000005,87.0,60.0,,,,,,,,,10,,
-UBCV,2018,W,FNH,330,,001,Introduction to Wine Science 1,Camille Belanger;David Mcarthur;Ricky Tsang;Sandy Siu-Sang Yuen;Sandy Yuen;Sayena Tajdini;Serafina Liotti;Yevgen Kovalenko,179,74.77653631300001,12.570936128,99.0,40.0,,6,10,13,20,18,18,23,24,21,22
-UBCV,2018,W,FNH,330,,002,Introduction to Wine Science 1,Alysha Deslippe;David Mcarthur;Ricky Tsang;Sandy Yuen;Yevgen Kovalenko;Yuritzel Moreno Parra,159,72.974842767,11.642865847000001,100.0,37.0,,6,11,13,13,24,19,20,20,20,10
+UBCV,2018,W,FNH,326,,OVERALL,Food Science Laboratory II,,22,78.772727273,6.3165076110000005,87.0,60.0,,,,,,,,,10,,
+UBCV,2018,W,FNH,330,,001,Introduction to Wine Science 1,Camille Belanger;David Mcarthur;Ricky Tsang;Sandy Siu-Sang Yuen;Sandy Yuen;Sayena Tajdini;Serafina Liotti;Yevgen Kovalenko,179,74.77653631300001,12.570936128,99.0,40.0,4.0,6,10,13,20,18,18,23,24,21,22
+UBCV,2018,W,FNH,330,,002,Introduction to Wine Science 1,Alysha Deslippe;Alysha Lynn Deslippe;David Mcarthur;Ricky Tsang;Sandy Yuen;Yevgen Kovalenko;Yuritzel Moreno Parra,159,73.113207547,11.339402085,100.0,41.0,2.0,6,12,13,13,24,19,20,20,20,10
+UBCV,2018,W,FNH,330,,OVERALL,Introduction to Wine Science 1,,338,73.99408284,12.018530224000001,100.0,40.0,6,12,22,26,33,42,37,43,44,41,32
 UBCV,2018,W,FNH,335,,001,Introduction to Wine Science II,David Mcarthur;Yevgen Kovalenko,18,82.944444444,9.019405369,92.0,64.0,,,,,,,,,,6,5
+UBCV,2018,W,FNH,335,,OVERALL,Introduction to Wine Science II,,18,82.944444444,9.019405369,92.0,64.0,,,,,,,,,,6,5
 UBCV,2018,W,FNH,340,,001,Food Theory,Eunice Li-Chan;Gerry Kasten;Ilan David Wright;Ilan Wright,39,90.25641025600001,3.639823222,98.0,82.0,,,,,,,,,,16,20
-UBCV,2018,W,FNH,341,,001,Food Theory Applications,Gerry Kasten;Joel Barohn;Judy Mclean,20,92.5,3.31662479,97.0,80.0,,,,,,,,,,,19
+UBCV,2018,W,FNH,340,,OVERALL,Food Theory,,39,90.25641025600001,3.639823222,98.0,82.0,,,,,,,,,,16,20
+UBCV,2018,W,FNH,341,,001,Food Theory Applications,Gerry Kasten;Joel Barohn;Judy Mclean,20,92.5,3.31662479,97.0,80.0,,,,,,,,,,0,19
 UBCV,2018,W,FNH,341,,002,Food Theory Applications,Gerry Kasten;Hendrik Van Vuuren;Joel Barohn,19,90.473684211,3.0978204,97.0,85.0,,,,,,,,,,8,11
+UBCV,2018,W,FNH,341,,OVERALL,Food Theory Applications,,39,91.512820513,3.331443459,97.0,80.0,,,,,,,,,,8,30
 UBCV,2018,W,FNH,342,,001,Critical Perspectives on Consumer Food Practices,Celina Guadalupe Solis-Becerra;Celina Solis-Becerra;Gerry Kasten;Shannon Lea Steele;Shannon Steele,68,84.544117647,6.518478496,95.0,63.0,,,,,,,,8,21,19,15
+UBCV,2018,W,FNH,342,,OVERALL,Critical Perspectives on Consumer Food Practices,,68,84.544117647,6.518478496,95.0,63.0,,,,,,,,8,21,19,15
 UBCV,2018,W,FNH,350,,001,Fundamentals of Nutrition,Barbara Stefanska;Elham Zeininezhad Movassagh;Megan Beetch;Sadaf Harandi-Zadeh,137,80.883211679,8.429696887,96.0,56.0,,,,,6,13,12,16,33,33,20
+UBCV,2018,W,FNH,350,,OVERALL,Fundamentals of Nutrition,,137,80.883211679,8.429696887,96.0,56.0,,,,,6,13,12,16,33,33,20
 UBCV,2018,W,FNH,351,,001,"Vitamins, Minerals, and Health",Katja Yvonne Lamers;Kelsey Cochrane;Larisse Miranda De Melo;Larisse Rayanne Miranda De Melo;Rachelyn Ritchie,142,79.042253521,11.018278327,94.0,0.0,,,,,9,7,17,17,38,37,10
-UBCV,2018,W,FNH,355,,001,International Nutrition,Candice Rideout;Francine Emmonds;Francine Marion Emmonds;Kaitlyn Laurel Isabella Samson;Kaitlyn Samson;Katia Caballero De La Pena;Yi-Min Ng;Zachary Daly,199,81.442211055,8.741831808999999,99.0,29.0,,,,,5,8,25,32,44,51,29
-UBCV,2018,W,FNH,355,,002,International Nutrition,Candice Rideout;Francine Emmonds;Francine Marion Emmonds;Harniesh Takhar;Jordie Fischer;Katia Caballero De La Pena;Yi-Min Ng;Zachary Daly,185,78.751351351,8.69425165,96.0,57.0,,,,6,10,20,23,35,33,33,21
+UBCV,2018,W,FNH,351,,OVERALL,"Vitamins, Minerals, and Health",,142,79.042253521,11.018278327,94.0,0.0,,,,,9,7,17,17,38,37,10
+UBCV,2018,W,FNH,355,,001,International Nutrition,Candice Rideout;Francine Emmonds;Francine Marion Emmonds;Kaitlyn Laurel Isabella Samson;Kaitlyn Samson;Katia Caballero De La Pena;Yi-Min Ng;Zachary Daly;Zachary R Daly,199,81.442211055,8.741831808999999,99.0,29.0,,,,1,5,8,25,32,44,51,29
+UBCV,2018,W,FNH,355,,002,International Nutrition,Candice Rideout;Francine Emmonds;Francine Marion Emmonds;Harniesh Kaur Takhar;Harniesh Takhar;Jordie Alexandra Janice Fischer;Jordie Fischer;Katia Caballero De La Pena;Yi-Min Ng;Zachary Daly;Zachary R Daly,185,78.751351351,8.69425165,96.0,57.0,,,,6,10,20,23,35,33,33,21
+UBCV,2018,W,FNH,355,,OVERALL,International Nutrition,,384,80.145833333,8.811017512000001,99.0,29.0,,,5,7,15,28,48,67,77,84,50
 UBCV,2018,W,FNH,370,,001,Nutrition Assessment,Gail Hammond;Megan Clarke;Shannon Lea Steele;Shannon Steele;Tebogo Leepile,118,79.101694915,6.865483879,93.0,63.0,,,,,7,7,23,23,28,23,6
-UBCV,2018,W,FNH,371,,001,Human Nutrition Over The Life Span,Abrar Turki;Brock Williams;Candice Rideout;Iris Lopez Ramirez;Jennifer Black,158,80.310126582,6.503210279,94.0,57.0,,,,,,6,17,24,58,38,6
+UBCV,2018,W,FNH,370,,OVERALL,Nutrition Assessment,,118,79.101694915,6.865483879,93.0,63.0,,,,,7,7,23,23,28,23,6
+UBCV,2018,W,FNH,371,,001,Human Nutrition Over The Life Span,Abrar Turki;Brock Alexander Williams;Brock Williams;Candice Rideout;Iris Lopez Ramirez;Jennifer Black,158,79.810126582,9.116480421,94.0,0.0,,,,,,6,17,23,58,38,6
+UBCV,2018,W,FNH,371,,OVERALL,Human Nutrition Over The Life Span,,158,79.810126582,9.116480421,94.0,0.0,,,,,,6,17,23,58,38,6
 UBCV,2018,W,FNH,398,,001,Research Methods in Human Nutrition,Jennifer Black;Larisse Miranda De Melo;Larisse Rayanne Miranda De Melo;Mirjana Sales Valdes;Mirjana Valdes;Tebogo Leepile,146,76.534246575,11.738039772999999,96.0,34.0,,6,,,7,12,20,15,37,23,14
-UBCV,2018,W,FNH,402,,001,Functional Foods and Nutraceuticals,Anubhooti Joshi;Elaine Cheng;Jerzy Zawistowski;Kelsey Cochrane,86,78.011627907,10.357712882000001,91.0,24.0,,,,,,5,13,8,34,12,6
+UBCV,2018,W,FNH,398,,OVERALL,Research Methods in Human Nutrition,,146,76.534246575,11.738039772999999,96.0,34.0,,6,,,7,12,20,15,37,23,14
+UBCV,2018,W,FNH,402,,001,Functional Foods and Nutraceuticals,Anubhooti Joshi;Elaine Cheng;Jerzy Zawistowski;Kelsey Cochrane,86,77.953488372,10.360453064,91.0,24.0,,,,,,5,14,8,33,12,6
+UBCV,2018,W,FNH,402,,OVERALL,Functional Foods and Nutraceuticals,,86,77.953488372,10.360453064,91.0,24.0,,,,,,5,14,8,33,12,6
 UBCV,2018,W,FNH,403,,001,"Food Laws, Regulations and Quality Assurance",Nancy Ross;Ningrong Catherine Fu;Yvonne Ma,82,84.219512195,5.663450918,96.0,67.0,,,,,,,5,6,20,36,13
+UBCV,2018,W,FNH,403,,OVERALL,"Food Laws, Regulations and Quality Assurance",,82,84.219512195,5.663450918,96.0,67.0,,,,,,,5,6,20,36,13
 UBCV,2018,W,FNH,405,,001,Microbiology of Food and Beverage Fermentation,Francisca Navas Morales;Karen Fong;Vivien Measday;Yvonne Ma,38,73.105263158,11.661415875,95.0,50.0,,,,,8,,,5,6,,5
+UBCV,2018,W,FNH,405,,OVERALL,Microbiology of Food and Beverage Fermentation,,38,73.105263158,11.661415875,95.0,50.0,,,,,8,,,5,6,,5
 UBCV,2018,W,FNH,413,,001,Food Safety,Aashim Aggarwal;Karen Fong;Siyun Wang;Yvonne Ma,50,84.14,7.748627265,97.0,66.0,,,,,,,,8,7,14,15
+UBCV,2018,W,FNH,413,,OVERALL,Food Safety,,50,84.14,7.748627265,97.0,66.0,,,,,,,,8,7,14,15
 UBCV,2018,W,FNH,415,,001,"Business Concepts in Food, Nutrition, and Health",Aashim Aggarwal;Jessica Oman;Sarah Montgomery,83,79.481927711,6.29820231,91.0,38.0,,,,,,,10,33,25,12,
+UBCV,2018,W,FNH,415,,OVERALL,"Business Concepts in Food, Nutrition, and Health",,83,79.481927711,6.29820231,91.0,38.0,,,,,,,10,33,25,12,
 UBCV,2018,W,FNH,425,,001,Food Science Laboratory III,Anestis Marios Tzanidis;John Dupuis;John Henry Dupuis;Kaiwen Mu;Michelle Bex;Patricia Hingston;Philip Pui-Li Yen;Philip Yen;Yigong Guo;Yvonne Ma,15,85.866666667,4.103424818,91.0,77.0,,,,,,,,,5,5,
+UBCV,2018,W,FNH,425,,OVERALL,Food Science Laboratory III,,15,85.866666667,4.103424818,91.0,77.0,,,,,,,,,5,5,
 UBCV,2018,W,FNH,430,,001,Enology and Wine Biotechnology,Vivien Measday,7,82.0,6.027713772999999,92.0,75.0,,,,,,,,,,,
+UBCV,2018,W,FNH,430,,OVERALL,Enology and Wine Biotechnology,,7,82.0,6.027713772999999,92.0,75.0,,,,,,,,,,,
 UBCV,2018,W,FNH,440,,001,Food Service Systems Management,Gerry Kasten;Ilan David Wright;Ilan Wright;Marina Von Keyserlingk,35,95.85714285700001,1.0330667409999998,97.0,94.0,,,,,,,,,,,35
+UBCV,2018,W,FNH,440,,OVERALL,Food Service Systems Management,,35,95.85714285700001,1.0330667409999998,97.0,94.0,,,,,,,,,,,35
 UBCV,2018,W,FNH,451,,001,Nutrient Metabolism and Implications for Health,Karen Fong;Megan Beetch;Zhaoming Xu,46,80.195652174,7.561950263,93.0,50.0,,,,,,,,10,15,10,
-UBCV,2018,W,FNH,455,,001,Applied International Nutrition,Crystal Dawn Karakochuk;Francine Emmonds;Francine Marion Emmonds;Jordie Fischer;Kara Vogt;Shannon Steele,65,82.292307692,4.418438203,92.0,70.0,,,,,,,,14,27,18,
+UBCV,2018,W,FNH,451,,OVERALL,Nutrient Metabolism and Implications for Health,,46,80.195652174,7.561950263,93.0,50.0,,,,,,,,10,15,10,
+UBCV,2018,W,FNH,455,,001,Applied International Nutrition,Crystal Dawn Karakochuk;Francine Emmonds;Francine Marion Emmonds;Jordie Alexandra Janice Fischer;Jordie Fischer;Kara Vogt;Shannon Steele,65,82.292307692,4.418438203,92.0,70.0,,,,,,,,14,27,18,
+UBCV,2018,W,FNH,455,,OVERALL,Applied International Nutrition,,65,82.292307692,4.418438203,92.0,70.0,,,,,,,,14,27,18,
 UBCV,2018,W,FNH,470,,001,Foundations of Nutrition Care I,Crystal Dawn Karakochuk;Heather Woodward;Judy Mclean;Sarah Montgomery,35,84.571428571,3.012578672,89.0,77.0,,,,,,,,,15,19,
+UBCV,2018,W,FNH,470,,OVERALL,Foundations of Nutrition Care I,,35,84.571428571,3.012578672,89.0,77.0,,,,,,,,,15,19,
 UBCV,2018,W,FNH,472,,001,Maternal and Fetal Nutrition,Madeleine Anne Ennis;Madeleine Ennis;Rajavel Elango,48,83.979166667,6.169553187000001,95.0,69.0,,,,,,,,5,13,16,9
+UBCV,2018,W,FNH,472,,OVERALL,Maternal and Fetal Nutrition,,48,83.979166667,6.169553187000001,95.0,69.0,,,,,,,,5,13,16,9
 UBCV,2018,W,FNH,473,,001,Applied Public Health Nutrition,Francine Emmonds;Francine Marion Emmonds;Gail Hammond;Mirjana Valdes;Shannon Steele,70,83.657142857,7.2689247539999995,92.0,39.0,,,,,,,,9,18,33,6
+UBCV,2018,W,FNH,473,,OVERALL,Applied Public Health Nutrition,,70,83.657142857,7.2689247539999995,92.0,39.0,,,,,,,,9,18,33,6
 UBCV,2018,W,FNH,474,,002,Sport Nutrition,Emma Clark;Emma Mccrudden,73,77.945205479,8.470357481,91.0,43.0,,,,,,9,13,12,14,17,
+UBCV,2018,W,FNH,474,,OVERALL,Sport Nutrition,,73,77.945205479,8.470357481,91.0,43.0,,,,,,9,13,12,14,17,
 UBCV,2018,W,FNH,475,,001,Foundations of Nutrition Care II,Crystal Dawn Karakochuk;Heather Woodward;Sarah Montgomery,35,85.485714286,3.47572615,92.0,77.0,,,,,,,,,10,19,
+UBCV,2018,W,FNH,475,,OVERALL,Foundations of Nutrition Care II,,35,85.485714286,3.47572615,92.0,77.0,,,,,,,,,10,19,
 UBCV,2018,W,FNH,477,,001,Nutrition and Disease Prevention,Barbara Stefanska;Francine Emmonds;Francine Marion Emmonds;Megan Beetch;Sadaf Harandi-Zadeh;Sinead Feeney,68,79.544117647,5.580974674,90.0,67.0,,,,,,6,10,15,23,12,
+UBCV,2018,W,FNH,477,,OVERALL,Nutrition and Disease Prevention,,68,79.544117647,5.580974674,90.0,67.0,,,,,,6,10,15,23,12,
 UBCV,2018,W,FNH,490,,002,"Advanced Topics in Food, Nutrition, and Health",Rajavel Elango,9,87.888888889,14.084072959,98.0,56.0,,,,,,,,,,,6
+UBCV,2018,W,FNH,490,,OVERALL,"Advanced Topics in Food, Nutrition, and Health",,9,87.888888889,14.084072959,98.0,56.0,,,,,,,,,,,6
 UBCV,2018,W,FNH,499,,001,Undergraduate Thesis,Christine Scaman;Zhaoming Xu,6,93.333333333,8.500980336,100.0,77.0,,,,,,,,,,,5
+UBCV,2018,W,FNH,499,,OVERALL,Undergraduate Thesis,,7,93.571428571,7.785823503,100.0,77.0,,,,,,,,,,,6

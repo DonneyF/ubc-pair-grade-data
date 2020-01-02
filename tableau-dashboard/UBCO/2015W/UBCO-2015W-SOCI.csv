@@ -1,29 +1,54 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2015,W,SOCI,111,,001,Introduction to Sociology I,Danielle Heinzelmann;Heidi Bickis;Lynda Reil,192,73.911458333,8.86651882,93.0,41.0,,,11,13,17,21,34,38,39,12,
-UBCO,2015,W,SOCI,111,,002,Introduction to Sociology I,Danielle Heinzelmann;Heidi Bickis;Lynda Reil,182,75.43956044,10.820186567999999,94.0,0.0,,6,,10,11,23,26,27,46,19,9
-UBCO,2015,W,SOCI,111,,003,Introduction to Sociology I,Heidi Bickis;Lynda Reil,188,71.026595745,13.219833386,97.0,20.0,14,,16,11,15,28,23,27,24,15,11
-UBCO,2015,W,SOCI,121,,001,Introduction to Sociology II,Heidi Bickis;Jonathan Hopkins,147,71.897959184,12.800756984000001,93.0,0.0,6,,8,6,11,35,22,20,22,10,5
+UBCO,2015,W,SOCI,111,,001,Introduction to Sociology I,Danielle Heinzelmann;Heidi Bickis;Lynda Reil,192,73.911458333,8.86651882,93.0,41.0,2.0,1.0,11,13,17,21,34,38,39,12,4
+UBCO,2015,W,SOCI,111,,002,Introduction to Sociology I,Danielle Heinzelmann;Heidi Bickis;Lynda Reil,182,75.43956044,10.820186567999999,94.0,0.0,1.0,6,4,10,11,23,26,27,46,19,9
+UBCO,2015,W,SOCI,111,,003,Introduction to Sociology I,Heidi Bickis;Lynda Reil,188,71.026595745,13.219833386,97.0,20.0,14,4.0,16,11,15,28,23,27,24,15,11
+UBCO,2015,W,SOCI,111,,OVERALL,Introduction to Sociology I,,562,73.441281139,11.230255977999999,97.0,0.0,17,11,31,34,43,72,83,92,109,46,24
+UBCO,2015,W,SOCI,121,,001,Introduction to Sociology II,Heidi Bickis;Jonathan Hopkins,147,71.897959184,12.800756984000001,93.0,0.0,6,2.0,8,6,11,35,22,20,22,10,5
 UBCO,2015,W,SOCI,121,,002,Introduction to Sociology II,H V Bonar Buffam,117,69.358974359,14.304846983,95.0,0.0,7,7,15,10,13,10,13,11,12,13,6
+UBCO,2015,W,SOCI,121,,OVERALL,Introduction to Sociology II,,264,70.772727273,13.520912353,95.0,0.0,13,9,23,16,24,45,35,31,34,23,11
 UBCO,2015,W,SOCI,209,,002,Foundations of Sociological Thought,Patricia Tomic;Tina Marten,55,72.76363636399999,11.48100466,92.0,32.0,,,,,6,5,7,10,10,6,
+UBCO,2015,W,SOCI,209,,OVERALL,Foundations of Sociological Thought,,55,72.76363636399999,11.48100466,92.0,32.0,,,,,6,5,7,10,10,6,
 UBCO,2015,W,SOCI,211,,001,Canadian Society I,Kanchan Sarker;Roman Karki,15,83.866666667,9.249453008,99.0,72.0,,,,,,,,,,,5
+UBCO,2015,W,SOCI,211,,OVERALL,Canadian Society I,,15,83.866666667,9.249453008,99.0,72.0,,,,,,,,,,,5
 UBCO,2015,W,SOCI,212,,001,Sociology of Race and Ethnicity,Nurul Jais;Nurul Jannah Jais;Ricardo Trumper,47,71.319148936,13.550399293,91.0,0.0,,,,,,14,8,5,8,,
+UBCO,2015,W,SOCI,212,,OVERALL,Sociology of Race and Ethnicity,,47,71.319148936,13.550399293,91.0,0.0,,,,,,14,8,5,8,,
 UBCO,2015,W,SOCI,216,,001,Media and Society,Kanchan Sarker;Roman Karki,21,75.476190476,13.873064,100.0,50.0,,,,,,,,,,,
+UBCO,2015,W,SOCI,216,,OVERALL,Media and Society,,21,75.476190476,13.873064,100.0,50.0,,,,,,,,,,,
 UBCO,2015,W,SOCI,217,,001,Introduction to Sociology of Gender,Michelle Walks,45,75.0,14.836993079,94.0,0.0,,,,,8,,6,9,5,,6
+UBCO,2015,W,SOCI,217,,OVERALL,Introduction to Sociology of Gender,,45,75.0,14.836993079,94.0,0.0,,,,,8,,6,9,5,,6
 UBCO,2015,W,SOCI,231,,001,Sociology of Education,Charles Rasi,20,77.5,9.891516832999999,95.0,51.0,,,,,,,,,8,,
+UBCO,2015,W,SOCI,231,,OVERALL,Sociology of Education,,20,77.5,9.891516832999999,95.0,51.0,,,,,,,,,8,,
 UBCO,2015,W,SOCI,249,,001,Crime and Society,H V Bonar Buffam,70,73.342857143,11.764458529,95.0,35.0,,5,,,9,9,7,8,14,6,6
+UBCO,2015,W,SOCI,249,,OVERALL,Crime and Society,,70,73.342857143,11.764458529,95.0,35.0,,5,,,9,9,7,8,14,6,6
 UBCO,2015,W,SOCI,301,B,001,Sociology of Development,Alliance Babunga;Kanchan Sarker,63,79.746031746,9.35322655,96.0,56.0,,,,,,7,5,8,12,13,12
+UBCO,2015,W,SOCI,301,B,OVERALL,Sociology of Development,,63,79.746031746,9.35322655,96.0,56.0,,,,,,7,5,8,12,13,12
 UBCO,2015,W,SOCI,305,,001,Sociology of Families,Mary Ann Murphy;Nurul Jais;Nurul Jannah Jais,63,74.158730159,5.574152183,87.0,58.0,,,,,5,14,18,13,10,,
+UBCO,2015,W,SOCI,305,,OVERALL,Sociology of Families,,63,74.158730159,5.574152183,87.0,58.0,,,,,5,14,18,13,10,,
 UBCO,2015,W,SOCI,313,,001,Advanced Studies in Sociology of Gender,Michelle Walks,41,77.146341463,9.624346668,94.0,51.0,,,,,,,,8,11,6,
+UBCO,2015,W,SOCI,313,,OVERALL,Advanced Studies in Sociology of Gender,,41,77.146341463,9.624346668,94.0,51.0,,,,,,,,8,11,6,
 UBCO,2015,W,SOCI,362,B,001,Social Inequality,Charles Rasi;Wendy Rajotte,52,76.307692308,10.705575717,91.0,51.0,,,,,,6,6,,14,8,5
+UBCO,2015,W,SOCI,362,B,OVERALL,Social Inequality,,52,76.307692308,10.705575717,91.0,51.0,,,,,,6,6,,14,8,5
 UBCO,2015,W,SOCI,371,B,101,Deviance and Social Control,H V Bonar Buffam;Melissa Stathers,58,76.75862069,12.995694759000001,92.0,8.0,,,,5,,6,7,8,10,11,7
+UBCO,2015,W,SOCI,371,B,OVERALL,Deviance and Social Control,,58,76.75862069,12.995694759000001,92.0,8.0,,,,5,,6,7,8,10,11,7
 UBCO,2015,W,SOCI,376,,001,Classical Sociological Theory,Patricia Tomic;Tina Marten,35,74.342857143,7.715312722999999,93.0,57.0,,,,,,10,8,6,,5,
+UBCO,2015,W,SOCI,376,,OVERALL,Classical Sociological Theory,,35,74.342857143,7.715312722999999,93.0,57.0,,,,,,10,8,6,,5,
 UBCO,2015,W,SOCI,377,,001,Contemporary Sociological Theory,Patricia Tomic,32,77.15625,5.957426241,86.0,63.0,,,,,,,5,10,8,,
+UBCO,2015,W,SOCI,377,,OVERALL,Contemporary Sociological Theory,,32,77.15625,5.957426241,86.0,63.0,,,,,,,5,10,8,,
 UBCO,2015,W,SOCI,395,,001,Sociological Methods: Qualitative Research,Heidi Bickis,25,77.92,6.350328076,90.0,67.0,,,,,,,,5,6,,
+UBCO,2015,W,SOCI,395,,OVERALL,Sociological Methods: Qualitative Research,,25,77.92,6.350328076,90.0,67.0,,,,,,,,5,6,,
 UBCO,2015,W,SOCI,421,,001,Sociology of Fear,Ricardo Trumper,41,76.951219512,4.706119524,87.0,66.0,,,,,,,13,11,9,,
+UBCO,2015,W,SOCI,421,,OVERALL,Sociology of Fear,,41,76.951219512,4.706119524,87.0,66.0,,,,,,,13,11,9,,
 UBCO,2015,W,SOCI,432,,001,Sociology of Food,Patricia Tomic,32,75.34375,7.3071303,86.0,53.0,,,,,,,,13,7,,
+UBCO,2015,W,SOCI,432,,OVERALL,Sociology of Food,,32,75.34375,7.3071303,86.0,53.0,,,,,,,,13,7,,
 UBCO,2015,W,SOCI,440,B,001,Sociology of Latin America,Ricardo Trumper,35,73.142857143,11.558401215,87.0,20.0,,,,,,,13,8,,,
+UBCO,2015,W,SOCI,440,B,OVERALL,Sociology of Latin America,,35,73.142857143,11.558401215,87.0,20.0,,,,,,,13,8,,,
 UBCO,2015,W,SOCI,450,,001,Sociology of India,Kanchan Sarker,38,80.526315789,18.354963747,100.0,0.0,,,,,,,,7,,,16
+UBCO,2015,W,SOCI,450,,OVERALL,Sociology of India,,38,80.526315789,18.354963747,100.0,0.0,,,,,,,,7,,,16
 UBCO,2015,W,SOCI,463,A,001,Political Sociology,Kanchan Sarker,37,75.72972973,15.997653732,100.0,30.0,,,,,5,5,,,6,,9
+UBCO,2015,W,SOCI,463,A,OVERALL,Political Sociology,,37,75.72972973,15.997653732,100.0,30.0,,,,,5,5,,,6,,9
 UBCO,2015,W,SOCI,467,A,001,Social Movements,Kanchan Sarker,38,78.026315789,17.396002712999998,100.0,11.0,,,,,,,,7,,7,8
+UBCO,2015,W,SOCI,467,A,OVERALL,Social Movements,,38,78.026315789,17.396002712999998,100.0,11.0,,,,,,,,7,,7,8
 UBCO,2015,W,SOCI,480,,001,"Aging, Diversity, and Inequality: Global and Comparative Perspectives",Mary Ann Murphy,27,80.666666667,4.698608632,89.0,73.0,,,,,,,5,6,9,7,
+UBCO,2015,W,SOCI,480,,OVERALL,"Aging, Diversity, and Inequality: Global and Comparative Perspectives",,27,80.666666667,4.698608632,89.0,73.0,,,,,,,5,6,9,7,
 UBCO,2015,W,SOCI,496,J,001,Advanced Studies in Sociology,H V Bonar Buffam,22,79.181818182,7.254793907000001,91.0,62.0,,,,,,,,8,,,
+UBCO,2015,W,SOCI,496,J,OVERALL,Advanced Studies in Sociology,,22,79.181818182,7.254793907000001,91.0,62.0,,,,,,,,8,,,

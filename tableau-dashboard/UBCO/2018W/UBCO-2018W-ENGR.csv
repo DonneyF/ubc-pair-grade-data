@@ -1,112 +1,220 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2018,W,ENGR,303,,102,Engineering Project Management,Don Liyanage;Hirushie Karunathilake;Kasun Hewage,280,77.935483871,9.063889677,97.0,47.0,,,,7,16,39,39,38,66,38,30
-UBCO,2018,W,ENGR,305,,201,Engineering Economic Analysis,Gordon Lovegrove;Kerry Black;Kh Md Nahiduzzaman;Piyaruwan Kaluthantirige;Saeed Ahmadi,139,78.597122302,9.228751093,97.0,47.0,,,,,6,15,20,21,30,28,12
-UBCO,2018,W,ENGR,305,,202,Engineering Economic Analysis,John Alan Brereton;Piyaruwan Kaluthantirige;Saeed Ahmadi,172,74.88372093,11.602498828,94.0,0.0,,6,7,7,17,26,25,19,28,25,11
-UBCO,2018,W,ENGR,310,,101,Fluid Mechanics II,Joshua Brinkerhoff,123,75.861788618,11.664943419,97.0,37.0,,,,8,10,,15,22,28,16,10
-UBCO,2018,W,ENGR,315,,201,Systems and Control,Abtin Djavadifar;Brandon Robertson;Dean Richert;Homayoun Najjaran;Kashish Gupta;Mehrnoosh Afsharborji;Sepehr Zarif Mansour;Sorayya Kazemi Nojadeh,79,71.94936708899999,19.229983755,100.0,2.0,9,9,,,,5,,7,7,15,14
-UBCO,2018,W,ENGR,315,,202,Systems and Control,Abtin Djavadifar;Brandon Robertson;Homayoun Najjaran;Kashish Gupta;Mehrnoosh Afsharborji;Sepehr Zarif Mansour;Sorayya Kazemi Nojadeh,136,71.544117647,16.017059261,100.0,13.0,12,,12,10,8,14,22,8,21,9,18
+UBCO,2018,W,ENGR,303,,102,Engineering Project Management,Don Liyanage;Don Rukmal Dhanushka Liyanage;Hirushie Karunathilake;Kasun Hewage,280,77.935483871,9.063889677,97.0,47.0,,,,7,16,39,39,38,66,38,30
+UBCO,2018,W,ENGR,303,,OVERALL,Engineering Project Management,,280,77.935483871,9.063889677,97.0,47.0,,,,7,16,39,39,38,66,38,30
+UBCO,2018,W,ENGR,305,,201,Engineering Economic Analysis,Gordon Lovegrove;Kerry Black;Kh Md Nahiduzzaman;Piyaruwan Kaluthantirige;Saeed Ahmadi,139,78.597122302,9.228751093,97.0,47.0,1.0,3,1,2,6,15,20,21,30,28,12
+UBCO,2018,W,ENGR,305,,202,Engineering Economic Analysis,John Alan Brereton;Piyaruwan Kaluthantirige;Saeed Ahmadi,172,74.88372093,11.602498828,94.0,0.0,1.0,6,7,7,17,26,25,19,28,25,11
+UBCO,2018,W,ENGR,305,,OVERALL,Engineering Economic Analysis,,311,76.54340836,10.751318597000001,97.0,0.0,2.0,9,8,9,23,41,45,40,58,53,23
+UBCO,2018,W,ENGR,310,,101,Fluid Mechanics II,Joshua Brinkerhoff,124,75.532258065,12.183178782999999,97.0,35.0,5,,,8,10,,15,22,28,16,10
+UBCO,2018,W,ENGR,310,,OVERALL,Fluid Mechanics II,,124,75.532258065,12.183178782999999,97.0,35.0,5,,,8,10,,15,22,28,16,10
+UBCO,2018,W,ENGR,315,,201,Systems and Control,Abtin Djavadifar;Brandon Robertson;Dean Richert;Homayoun Najjaran;Kashish Gupta;Mehrnoosh Afsharborji;Sepehr Zarif Mansour;Sorayya Kazemi Nojadeh,79,71.94936708899999,19.229983755,100.0,2.0,9,9,4,2,4,5,3,7,7,15,14
+UBCO,2018,W,ENGR,315,,202,Systems and Control,Abtin Djavadifar;Brandon Robertson;Homayoun Najjaran;Kashish Gupta;Mehrnoosh Afsharborji;Sepehr Zarif Mansour;Sorayya Kazemi Nojadeh,136,71.544117647,16.017059261,100.0,13.0,12,2.0,12,10,8,14,22,8,21,9,18
+UBCO,2018,W,ENGR,315,,OVERALL,Systems and Control,,215,71.693023256,17.223888477,100.0,2.0,21,11,16,12,12,19,25,15,28,24,32
 UBCO,2018,W,ENGR,320,,201,Electromechanical Devices,Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu;Yun Lu;Yun Wang Lu,93,74.46236559100001,13.99732827,98.0,15.0,,,6,6,9,11,6,16,10,15,10
-UBCO,2018,W,ENGR,320,,202,Electromechanical Devices,Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu;Yun Lu;Yun Wang Lu,117,79.698275862,8.447505243,95.0,58.0,,,,,8,8,14,15,28,24,14
+UBCO,2018,W,ENGR,320,,202,Electromechanical Devices,Kevin Dueck;Peyman Amiri;Wilson Eberle;Yanqi Yu;Yun Lu;Yun Wang Lu,117,79.698275862,8.447505243,95.0,58.0,,,1,4,8,8,14,15,28,24,14
+UBCO,2018,W,ENGR,320,,OVERALL,Electromechanical Devices,,210,77.368421053,11.528941754000002,98.0,15.0,,,7,10,17,19,20,31,38,39,24
 UBCO,2018,W,ENGR,325,,101,Civil Engineering Materials,Anas Issa;Anas Salem Issa;Nicolas Maloski;Shahria Alam,71,73.57746478899999,9.681590737,93.0,52.0,,,,9,5,15,12,,13,6,5
+UBCO,2018,W,ENGR,325,,OVERALL,Civil Engineering Materials,,71,73.57746478899999,9.681590737,93.0,52.0,,,,9,5,15,12,,13,6,5
 UBCO,2018,W,ENGR,327,,101,Reinforced Concrete Design I,Solomon Tesfamariam,86,68.523255814,15.426277615,96.0,15.0,9,5,9,8,,7,12,10,14,,
+UBCO,2018,W,ENGR,327,,OVERALL,Reinforced Concrete Design I,,86,68.523255814,15.426277615,96.0,15.0,9,5,9,8,,7,12,10,14,,
 UBCO,2018,W,ENGR,330,,201,Optimization and Decision Analysis for Civil Engineering,Gholamreza Naser;Gregory Courtice,84,85.44047619,6.412245797000001,97.0,64.0,,,,,,,,10,18,28,23
+UBCO,2018,W,ENGR,330,,OVERALL,Optimization and Decision Analysis for Civil Engineering,,84,85.44047619,6.412245797000001,97.0,64.0,,,,,,,,10,18,28,23
 UBCO,2018,W,ENGR,331,,001,Infrastructure Management I,Solomon Tesfamariam;Yekenalem Abebe,82,81.975609756,10.200430407,100.0,50.0,,,,,,7,10,10,16,8,25
+UBCO,2018,W,ENGR,331,,OVERALL,Infrastructure Management I,,82,81.975609756,10.200430407,100.0,50.0,,,,,,7,10,10,16,8,25
 UBCO,2018,W,ENGR,332,,201,Surveying and GIS Analysis,Charles Rockson;John Alan Brereton;Mahmudur Fatmi;Muntahith Orvin;Saif Maad Al Dabagh,77,74.922077922,9.861896681000001,97.0,51.0,,,,,10,11,9,11,16,6,6
-UBCO,2018,W,ENGR,335,,201,Transportation Engineering,Abdul Masoud;Gordon Lovegrove,87,74.229885057,8.538151248,92.0,46.0,,,,,7,19,16,12,17,5,5
+UBCO,2018,W,ENGR,332,,OVERALL,Surveying and GIS Analysis,,77,74.922077922,9.861896681000001,97.0,51.0,,,,,10,11,9,11,16,6,6
+UBCO,2018,W,ENGR,335,,201,Transportation Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove,87,74.229885057,8.538151248,92.0,46.0,,,,,7,19,16,12,17,5,5
+UBCO,2018,W,ENGR,335,,OVERALL,Transportation Engineering,,87,74.229885057,8.538151248,92.0,46.0,,,,,7,19,16,12,17,5,5
 UBCO,2018,W,ENGR,340,,101,Soil Mechanics,Ahmed Elmouchi;Sohana Sabrin;Sumi Siddiqua,70,72.714285714,12.274803764000001,94.0,45.0,,,,11,9,6,7,,10,9,6
+UBCO,2018,W,ENGR,340,,OVERALL,Soil Mechanics,,70,72.714285714,12.274803764000001,94.0,45.0,,,,11,9,6,7,,10,9,6
 UBCO,2018,W,ENGR,341,,101,Engineering Hydrology,Caroline Cimon;Cigdem Eskicioglu;Gholamreza Naser,78,75.423076923,10.714135863,92.0,37.0,,,,,,9,17,10,16,10,5
+UBCO,2018,W,ENGR,341,,OVERALL,Engineering Hydrology,,78,75.423076923,10.714135863,92.0,37.0,,,,,,9,17,10,16,10,5
 UBCO,2018,W,ENGR,342,,201,Open Channel Flow,Gholamreza Naser;Gregory Courtice;Peyman Yousefi,89,84.727272727,4.711754128,93.0,70.0,,,,,,,,8,31,33,14
+UBCO,2018,W,ENGR,342,,OVERALL,Open Channel Flow,,89,84.727272727,4.711754128,93.0,70.0,,,,,,,,8,31,33,14
 UBCO,2018,W,ENGR,347,,101,Environmental Engineering,Cigdem Eskicioglu;Deborah Roberts;Haroon Mian;Sana Saleem,80,68.6,10.906507174000001,90.0,44.0,,5,,16,9,9,12,6,6,9,
+UBCO,2018,W,ENGR,347,,OVERALL,Environmental Engineering,,80,68.6,10.906507174000001,90.0,44.0,,5,,16,9,9,12,6,6,9,
 UBCO,2018,W,ENGR,350,,201,Linear Circuit Theory,Anne Crawford;Ashraf Ali Khan;Jonathan Holzman;Liwei Wang;Yuri Reis Rodrigues;Yuri Rodrigues,68,75.835820896,11.975476222000001,95.0,28.0,,,,,7,9,10,12,7,6,12
+UBCO,2018,W,ENGR,350,,OVERALL,Linear Circuit Theory,,68,75.835820896,11.975476222000001,95.0,28.0,,,,,7,9,10,12,7,6,12
 UBCO,2018,W,ENGR,351,,201,Microelectronics I,Stephen O'Leary;Yanqi Yu,75,80.186666667,11.06087985,100.0,37.0,,,,5,,6,9,10,14,11,17
+UBCO,2018,W,ENGR,351,,OVERALL,Microelectronics I,,75,80.186666667,11.06087985,100.0,37.0,,,,5,,6,9,10,14,11,17
 UBCO,2018,W,ENGR,353,,001,Semiconductor Devices,Saeed Moghaddam;Stephen O'Leary,79,75.94936708899999,13.283784924,100.0,33.0,,,,6,,10,9,8,13,8,13
+UBCO,2018,W,ENGR,353,,OVERALL,Semiconductor Devices,,79,75.94936708899999,13.283784924,100.0,33.0,,,,6,,10,9,8,13,8,13
 UBCO,2018,W,ENGR,359,,101,Microcomputer Engineering,Adrian Boivin;Ayman Elnaggar,74,74.91891891899999,13.778837015999999,100.0,50.0,,7,5,,,10,8,,10,7,15
+UBCO,2018,W,ENGR,359,,OVERALL,Microcomputer Engineering,,74,74.91891891899999,13.778837015999999,100.0,50.0,,7,5,,,10,8,,10,7,15
 UBCO,2018,W,ENGR,360,,101,Engineering Probability and Statistics.,Julian Cheng,77,69.402597403,14.224015774000001,100.0,24.0,,6,6,7,9,12,6,11,7,,5
+UBCO,2018,W,ENGR,360,,OVERALL,Engineering Probability and Statistics.,,77,69.402597403,14.224015774000001,100.0,24.0,,6,6,7,9,12,6,11,7,,5
 UBCO,2018,W,ENGR,361,,201,Signals and Communication Systems,Abrar Malik;Md Hossain;Mohammed Saif;Peyman Amiri,71,81.942028986,12.509859709,99.0,37.0,,,,,,9,,5,10,10,25
+UBCO,2018,W,ENGR,361,,OVERALL,Signals and Communication Systems,,71,81.942028986,12.509859709,99.0,37.0,,,,,,9,,5,10,10,25
 UBCO,2018,W,ENGR,362,,101,Digital Signal Processing I,Julian Cheng;Md Hossain,78,74.688311688,15.331649189,100.0,31.0,,,7,6,5,5,9,,12,8,15
+UBCO,2018,W,ENGR,362,,OVERALL,Digital Signal Processing I,,78,74.688311688,15.331649189,100.0,31.0,,,7,6,5,5,9,,12,8,15
 UBCO,2018,W,ENGR,365,,101,Engineering Electromagnetics,Kenneth Chau;Loic Markley,83,65.108433735,13.754832452999999,94.0,41.0,9,13,9,10,10,6,6,,5,8,
+UBCO,2018,W,ENGR,365,,OVERALL,Engineering Electromagnetics,,83,65.108433735,13.754832452999999,94.0,41.0,9,13,9,10,10,6,6,,5,8,
 UBCO,2018,W,ENGR,375,,201,Energy System Design,Arash Dalili Shoaei;Hamed Mirzaei;Mina Hoorfar,121,82.983471074,9.902006086,98.0,56.0,,,,,5,,8,12,24,26,36
+UBCO,2018,W,ENGR,375,,OVERALL,Energy System Design,,121,82.983471074,9.902006086,98.0,56.0,,,,,5,,8,12,24,26,36
 UBCO,2018,W,ENGR,376,,101,Materials Science II,Emre Kermen;Ray Taheri-Ardebili,126,65.841269841,13.574925531,94.0,20.0,8,19,9,7,16,16,17,19,10,,
+UBCO,2018,W,ENGR,376,,OVERALL,Materials Science II,,126,65.841269841,13.574925531,94.0,20.0,8,19,9,7,16,16,17,19,10,,
 UBCO,2018,W,ENGR,377,,101,Manufacturing Processes,Dimitry Sediako;Hirushie Karunathilake;Sina Kianfar;Tharindu Hewa Godella Waththage;Tharindu Prbatha Hewa Godella Waththage,110,76.490909091,9.889987017000001,94.0,47.0,,,,,5,10,15,25,17,16,11
+UBCO,2018,W,ENGR,377,,OVERALL,Manufacturing Processes,,110,76.490909091,9.889987017000001,94.0,47.0,,,,,5,10,15,25,17,16,11
 UBCO,2018,W,ENGR,380,,201,Design of Machine Elements,Seach Chyr Goh;Sepehr Zarif Mansour;Yang Cao,150,74.513333333,10.942029471,97.0,42.0,,,5,8,23,28,16,16,16,17,16
+UBCO,2018,W,ENGR,380,,OVERALL,Design of Machine Elements,,150,74.513333333,10.942029471,97.0,42.0,,,5,8,23,28,16,16,16,17,16
 UBCO,2018,W,ENGR,381,,101,Kinematics and Dynamics of Machinery,Rudolf Seethaler,130,73.753846154,10.895601515,93.0,30.0,7,,,,16,21,19,23,20,15,
+UBCO,2018,W,ENGR,381,,OVERALL,Kinematics and Dynamics of Machinery,,130,73.753846154,10.895601515,93.0,30.0,7,,,,16,21,19,23,20,15,
 UBCO,2018,W,ENGR,385,,101,Heat Transfer Applications,Ri Li,119,73.865546218,10.622908065,94.0,35.0,,,5,8,10,13,21,16,30,8,
+UBCO,2018,W,ENGR,385,,OVERALL,Heat Transfer Applications,,119,73.865546218,10.622908065,94.0,35.0,,,5,8,10,13,21,16,30,8,
 UBCO,2018,W,ENGR,387,,201,Vibration of Mechanical Systems,Dylan Goode;Hadi Mohammadi,109,74.330275229,10.867940489,92.0,45.0,,,5,7,5,12,16,14,26,15,
+UBCO,2018,W,ENGR,387,,OVERALL,Vibration of Mechanical Systems,,109,74.330275229,10.867940489,92.0,45.0,,,5,7,5,12,16,14,26,15,
 UBCO,2018,W,ENGR,401,,001,Bioinstrumentation,Bradley A Reinholz;Bradley Reinholz;Sabine Weyand,43,77.58139534899999,8.723893184,92.0,57.0,,,,,,9,10,,5,8,5
+UBCO,2018,W,ENGR,401,,OVERALL,Bioinstrumentation,,43,77.58139534899999,8.723893184,92.0,57.0,,,,,,9,10,,5,8,5
 UBCO,2018,W,ENGR,402,,101,Biotechnology: Fundamentals and Applications,Manjot Kaur;Sepideh Pakpour,27,79.814814815,9.735095263,95.0,50.0,,,,,,,,,8,,5
-UBCO,2018,W,ENGR,406,,001,Microelectromechanical Systems,Ian Foulds;Keekyoung Kim;Mahmoud Sakr,93,79.172043011,7.666448153999999,94.0,61.0,,,,,5,9,11,15,26,18,6
-UBCO,2018,W,ENGR,413,,201,Law and Ethics for Engineers,Haibo Feng;Nicholas Swart,257,83.618677043,5.546194624,93.0,62.0,,,,,,9,12,29,76,101,29
+UBCO,2018,W,ENGR,402,,OVERALL,Biotechnology: Fundamentals and Applications,,27,79.814814815,9.735095263,95.0,50.0,,,,,,,,,8,,5
+UBCO,2018,W,ENGR,406,,001,Microelectromechanical Systems,Ian Foulds;Keekyoung Kim;Mahmoud Ahmed Abdelaim Sakr;Mahmoud Sakr,93,79.172043011,7.666448153999999,94.0,61.0,,,,,5,9,11,15,26,18,6
+UBCO,2018,W,ENGR,406,,OVERALL,Microelectromechanical Systems,,93,79.172043011,7.666448153999999,94.0,61.0,,,,,5,9,11,15,26,18,6
+UBCO,2018,W,ENGR,413,,201,Law and Ethics for Engineers,Haibo Feng;Nicholas Swart,257,83.719844358,5.385102712999999,93.0,68.0,,,,,,9,12,29,76,102,29
+UBCO,2018,W,ENGR,413,,OVERALL,Law and Ethics for Engineers,,257,83.719844358,5.385102712999999,93.0,68.0,,,,,,9,12,29,76,102,29
 UBCO,2018,W,ENGR,416,,201,Advanced Manufacturing CAD/CAM/CAE,Armin Rashidi;Joshua Stroh;Kristian Mackowiak;Lukas Bichler;Rafael Mongui Torres;Sina Kianfar;Somi Doja,105,77.514285714,6.623260709,90.0,56.0,,,,,7,9,15,19,39,10,
+UBCO,2018,W,ENGR,416,,OVERALL,Advanced Manufacturing CAD/CAM/CAE,,105,77.514285714,6.623260709,90.0,56.0,,,,,7,9,15,19,39,10,
 UBCO,2018,W,ENGR,417,,201,Pipeline Integrity Management,Xiang Peng;Zheng Liu,87,82.88505747100001,6.586500088999999,97.0,64.0,,,,,,,6,14,24,25,15
+UBCO,2018,W,ENGR,417,,OVERALL,Pipeline Integrity Management,,87,82.88505747100001,6.586500088999999,97.0,64.0,,,,,,,6,14,24,25,15
 UBCO,2018,W,ENGR,425,,101,Design of Steel and Timber Structures,Maher Al-Hawarneh;Shahria Alam,34,77.176470588,8.266290026,93.0,60.0,,,,,,,,7,9,,
+UBCO,2018,W,ENGR,425,,OVERALL,Design of Steel and Timber Structures,,34,77.176470588,8.266290026,93.0,60.0,,,,,,,,7,9,,
 UBCO,2018,W,ENGR,427,,101,Reinforced Concrete Design II,Deanna Perrin;Sherif Osman,48,73.479166667,12.10238166,96.0,50.0,,5,,,5,5,7,8,,,6
+UBCO,2018,W,ENGR,427,,OVERALL,Reinforced Concrete Design II,,48,73.479166667,12.10238166,96.0,50.0,,5,,,5,5,7,8,,,6
 UBCO,2018,W,ENGR,429,,101,Rehabilitation of Concrete Structures,Deanna Perrin;Nicolas Maloski,35,79.285714286,10.302973382000001,98.0,56.0,,,,,,,6,,5,7,6
+UBCO,2018,W,ENGR,429,,OVERALL,Rehabilitation of Concrete Structures,,35,79.285714286,10.302973382000001,98.0,56.0,,,,,,,6,,5,7,6
 UBCO,2018,W,ENGR,433,,101,Construction Engineering and Management,John Alan Brereton;Kasun Hewage;Kh Md Nahiduzzaman;Piyaruwan Kaluthantirige,80,81.0125,5.9925982829999995,94.0,66.0,,,,,,,10,15,26,16,9
-UBCO,2018,W,ENGR,435,,001,Transportation Systems Engineering,Abdul Masoud;Gordon Lovegrove;Mahmudur Fatmi,15,79.8,13.299838882000001,91.0,37.0,,,,,,,,,5,,
+UBCO,2018,W,ENGR,433,,OVERALL,Construction Engineering and Management,,80,81.0125,5.9925982829999995,94.0,66.0,,,,,,,10,15,26,16,9
+UBCO,2018,W,ENGR,435,,001,Transportation Systems Engineering,Abdul Masoud;Abdul Rahman Masoud;Gordon Lovegrove;Mahmudur Fatmi,15,79.8,13.299838882000001,91.0,37.0,,,,,,,,,5,,
+UBCO,2018,W,ENGR,435,,OVERALL,Transportation Systems Engineering,,15,79.8,13.299838882000001,91.0,37.0,,,,,,,,,5,,
 UBCO,2018,W,ENGR,437,,101,Railway Systems Engineering,Gordon Lovegrove;Mohamed Hegazi,14,80.857142857,6.187545094,88.0,68.0,,,,,,,,,,5,
+UBCO,2018,W,ENGR,437,,OVERALL,Railway Systems Engineering,,14,80.857142857,6.187545094,88.0,68.0,,,,,,,,,,5,
 UBCO,2018,W,ENGR,438,,001,Rock Mechanics and Rock Engineering,Cong Xu;Dwayne Tannant;Wenbo Zheng,18,78.055555556,8.86149783,91.0,61.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,438,,OVERALL,Rock Mechanics and Rock Engineering,,18,78.055555556,8.86149783,91.0,61.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,440,,101,Foundation Engineering,Sumi Siddiqua,76,71.210526316,11.486009797000001,95.0,26.0,,,7,8,9,9,13,10,6,5,5
+UBCO,2018,W,ENGR,440,,OVERALL,Foundation Engineering,,76,71.210526316,11.486009797000001,95.0,26.0,,,7,8,9,9,13,10,6,5,5
 UBCO,2018,W,ENGR,442,,201,Water Quality Engineering,Nicolas Peleato;Shiva Khoei,15,78.333333333,11.049671402000001,92.0,52.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,442,,OVERALL,Water Quality Engineering,,15,78.333333333,11.049671402000001,92.0,52.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,443,,201,Environmental Engineering Laboratory,Deborah Roberts;Guangji Hu,19,76.368421053,15.323223212,91.0,21.0,,,,,,,,,6,,
+UBCO,2018,W,ENGR,443,,OVERALL,Environmental Engineering Laboratory,,19,76.368421053,15.323223212,91.0,21.0,,,,,,,,,6,,
 UBCO,2018,W,ENGR,444,,201,Solid Waste Engineering,John Alan Brereton;Kalie Smith,50,75.42,11.113679748,93.0,47.0,,,,5,,,7,,16,,
+UBCO,2018,W,ENGR,444,,OVERALL,Solid Waste Engineering,,50,75.42,11.113679748,93.0,47.0,,,,5,,,7,,16,,
 UBCO,2018,W,ENGR,445,,201,Design of Water and Wastewater Conveyance Systems,Gholamreza Naser;Gregory Courtice,32,79.40625,6.549362811,96.0,63.0,,,,,,,,14,5,5,
+UBCO,2018,W,ENGR,445,,OVERALL,Design of Water and Wastewater Conveyance Systems,,32,79.40625,6.549362811,96.0,63.0,,,,,,,,14,5,5,
 UBCO,2018,W,ENGR,446,,201,Biological Treatment Processes,Caroline Cimon;Cigdem Eskicioglu,25,76.12,8.079397667,90.0,62.0,,,,,,,,6,,5,
+UBCO,2018,W,ENGR,446,,OVERALL,Biological Treatment Processes,,25,76.12,8.079397667,90.0,62.0,,,,,,,,6,,5,
 UBCO,2018,W,ENGR,447,,101,Design of Processes for Water and Wastewater Treatment,Cigdem Eskicioglu,75,73.906666667,12.512883450999999,98.0,33.0,,,5,,12,8,10,12,6,8,8
+UBCO,2018,W,ENGR,447,,OVERALL,Design of Processes for Water and Wastewater Treatment,,75,73.906666667,12.512883450999999,98.0,33.0,,,5,,12,8,10,12,6,8,8
 UBCO,2018,W,ENGR,451,,101,Microelectronics II,Nibirh Jawad;Thomas Johnson,58,70.10344827600001,14.430340424,98.0,34.0,,5,,,6,11,5,6,6,,5
+UBCO,2018,W,ENGR,451,,OVERALL,Microelectronics II,,58,70.10344827600001,14.430340424,98.0,34.0,,5,,,6,11,5,6,6,,5
 UBCO,2018,W,ENGR,453,,101,Internet of Things,Chen Feng;Fangyu Gai,56,85.892857143,9.192246874,100.0,65.0,,,,,5,,,,9,11,25
+UBCO,2018,W,ENGR,453,,OVERALL,Internet of Things,,56,85.892857143,9.192246874,100.0,65.0,,,,,5,,,,9,11,25
 UBCO,2018,W,ENGR,454,,101,Motor Drive Systems,Alireza Eyvazizadeh Khosroshahi;Levi Bieber;Liwei Wang,67,77.80597014899999,8.169119247000001,98.0,51.0,,,,,5,6,9,15,18,7,6
+UBCO,2018,W,ENGR,454,,OVERALL,Motor Drive Systems,,67,77.80597014899999,8.169119247000001,98.0,51.0,,,,,5,6,9,15,18,7,6
 UBCO,2018,W,ENGR,455,,101,Power System Analysis and Design,Alireza Eyvazizadeh Khosroshahi;Malcolm Metcalfe,29,76.65517241399999,11.120366971,100.0,53.0,,,,,,,5,,5,,
+UBCO,2018,W,ENGR,455,,OVERALL,Power System Analysis and Design,,29,76.65517241399999,11.120366971,100.0,53.0,,,,,,,5,,5,,
 UBCO,2018,W,ENGR,456,,001,Electrochemical Energy Storage Systems,Jian Liu,22,80.227272727,5.172563316000001,91.0,72.0,,,,,,,,5,8,,
+UBCO,2018,W,ENGR,456,,OVERALL,Electrochemical Energy Storage Systems,,22,80.227272727,5.172563316000001,91.0,72.0,,,,,,,,5,8,,
 UBCO,2018,W,ENGR,458,,201,Power Electronics,Liwei Wang;Wilson Eberle;Yanqi Yu,69,74.550724638,10.063820219,94.0,54.0,,,,6,9,10,6,15,6,6,7
+UBCO,2018,W,ENGR,458,,OVERALL,Power Electronics,,69,74.550724638,10.063820219,94.0,54.0,,,,6,9,10,6,15,6,6,7
 UBCO,2018,W,ENGR,459,,201,Advanced Electromagnetics,Connor Badowich;Kenneth Chau,13,80.923076923,10.555105702999999,93.0,61.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,459,,OVERALL,Advanced Electromagnetics,,13,80.923076923,10.555105702999999,93.0,61.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,461,,101,Digital Communications,Julian Cheng;Zhenyu Zhang,11,77.545454545,9.750524461,98.0,60.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,461,,OVERALL,Digital Communications,,11,77.545454545,9.750524461,98.0,60.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,462,,201,Digital Signal Processing II,Md Hossain;Mohammed Saif,17,80.647058824,11.285727582,99.0,61.0,,,,,,,,,,,5
+UBCO,2018,W,ENGR,462,,OVERALL,Digital Signal Processing II,,17,80.647058824,11.285727582,99.0,61.0,,,,,,,,,,,5
 UBCO,2018,W,ENGR,463,,001,Communication Networks,Anas Chaaban;Chen Feng;Zhenyu Zhang,7,81.857142857,8.454359259,98.0,71.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,463,,OVERALL,Communication Networks,,7,81.857142857,8.454359259,98.0,71.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,466,,001,Introduction to VLSI Systems,Mohammad Hossein Zarifi;Sevda Mohammadi Gharalar,22,85.227272727,11.006196602000001,100.0,66.0,,,,,,,,,5,,8
+UBCO,2018,W,ENGR,466,,OVERALL,Introduction to VLSI Systems,,22,85.227272727,11.006196602000001,100.0,66.0,,,,,,,,,5,,8
 UBCO,2018,W,ENGR,467,,001,Real-Time and Embedded System Design,Adrian Boivin;Ayman Elnaggar,27,77.814814815,14.342076443,100.0,50.0,,,,,,,,,,,7
+UBCO,2018,W,ENGR,467,,OVERALL,Real-Time and Embedded System Design,,27,77.814814815,14.342076443,100.0,50.0,,,,,,,,,,,7
 UBCO,2018,W,ENGR,468,,201,Advanced Digital System Design,Ayman Elnaggar;Kevin Dueck,25,79.64,13.789730478,100.0,40.0,,,,,,,,,7,,6
+UBCO,2018,W,ENGR,468,,OVERALL,Advanced Digital System Design,,25,79.64,13.789730478,100.0,40.0,,,,,,,,,7,,6
 UBCO,2018,W,ENGR,469,,101,Polymer Engineering,Mohammad Arjmand,25,78.52,14.85518989,97.0,18.0,,,,,,,,5,6,,
+UBCO,2018,W,ENGR,469,,OVERALL,Polymer Engineering,,25,78.52,14.85518989,97.0,18.0,,,,,,,,5,6,,
 UBCO,2018,W,ENGR,470,,101,Microwave Engineering,Ali Maleki Gargari;Mohammad Hossein Zarifi,20,85.9,14.588748368,100.0,52.0,,,,,,,,,,,11
+UBCO,2018,W,ENGR,470,,OVERALL,Microwave Engineering,,20,85.9,14.588748368,100.0,52.0,,,,,,,,,,,11
 UBCO,2018,W,ENGR,472,,001,Fibre Optics and Photonics,Jonathan Holzman;Mark Bergen,31,75.709677419,9.026603453,96.0,56.0,,,,,,,7,5,6,,
+UBCO,2018,W,ENGR,472,,OVERALL,Fibre Optics and Photonics,,31,75.709677419,9.026603453,96.0,56.0,,,,,,,7,5,6,,
 UBCO,2018,W,ENGR,475,,201,Materials Selection and Design,Alexander Uhl;Bryn Crawford;Sina Kianfar;Stephen Kimanzi,25,75.76,9.644860462,95.0,56.0,,,,,5,,,,6,,
+UBCO,2018,W,ENGR,475,,OVERALL,Materials Selection and Design,,25,75.76,9.644860462,95.0,56.0,,,,,5,,,,6,,
 UBCO,2018,W,ENGR,476,,201,Mechanics of Materials II,Hitendra Kumar;Keekyoung Kim,146,79.116438356,8.809485698,99.0,46.0,,,,5,5,8,18,26,31,35,14
+UBCO,2018,W,ENGR,476,,OVERALL,Mechanics of Materials II,,146,79.116438356,8.809485698,99.0,46.0,,,,5,5,8,18,26,31,35,14
 UBCO,2018,W,ENGR,477,,101,Mechanical Engineering Laboratory,Aiqing Lan;Arash Dalili Shoaei;Yang Cao,10,89.9,1.728840331,92.0,87.0,,,,,,,,,,,7
+UBCO,2018,W,ENGR,477,,OVERALL,Mechanical Engineering Laboratory,,10,89.9,1.728840331,92.0,87.0,,,,,,,,,,,7
 UBCO,2018,W,ENGR,478,,001,Alternative Energy Systems,Erfan Taatizadeh;Joshua Brinkerhoff;Kevin Golovin;Umair Ismail,37,72.594594595,10.709444066,94.0,52.0,,,,5,,8,5,,7,,
+UBCO,2018,W,ENGR,478,,OVERALL,Alternative Energy Systems,,37,72.594594595,10.709444066,94.0,52.0,,,,5,,8,5,,7,,
 UBCO,2018,W,ENGR,479,,101,Measurement Principles in Thermal-Fluids,Ri Li;Sina Kheirkhah;Yakang Xia,13,87.076923077,13.456482567,100.0,52.0,,,,,,,,,,,6
+UBCO,2018,W,ENGR,479,,OVERALL,Measurement Principles in Thermal-Fluids,,13,87.076923077,13.456482567,100.0,52.0,,,,,,,,,,,6
 UBCO,2018,W,ENGR,480,,101,Modern Control,Dean Richert;Kashish Gupta,30,80.533333333,15.239995775999999,99.0,40.0,,,,,,,,,,,12
+UBCO,2018,W,ENGR,480,,OVERALL,Modern Control,,30,80.533333333,15.239995775999999,99.0,40.0,,,,,,,,,,,12
 UBCO,2018,W,ENGR,481,,201,Mechatronics,Dean Richert;Kyle Low,50,83.24,11.059320568,98.0,42.0,,,,,,,,7,10,7,17
+UBCO,2018,W,ENGR,481,,OVERALL,Mechatronics,,50,83.24,11.059320568,98.0,42.0,,,,,,,,7,10,7,17
 UBCO,2018,W,ENGR,482,,001,Biomedical Engineering I,Emre Kermen;Hadi Mohammadi,56,80.25,3.2375636180000003,88.0,70.0,,,,,,,6,13,32,,
+UBCO,2018,W,ENGR,482,,OVERALL,Biomedical Engineering I,,56,80.25,3.2375636180000003,88.0,70.0,,,,,,,6,13,32,,
 UBCO,2018,W,ENGR,484,,101,Heat and Mass Transfer,Aiqing Lan;Kevin Golovin;Ri Li,27,80.592592593,10.050867774,97.0,62.0,,,,,,5,,,5,,7
+UBCO,2018,W,ENGR,484,,OVERALL,Heat and Mass Transfer,,27,80.592592593,10.050867774,97.0,62.0,,,,,,5,,,5,,7
 UBCO,2018,W,ENGR,485,,201,"Heating, Ventilating, and Air Conditioning",Tharindu Hewa Godella Waththage;Tharindu Prbatha Hewa Godella Waththage;Yu Yan,66,73.924242424,12.304233925999998,97.0,47.0,,,,7,7,6,6,6,13,7,6
+UBCO,2018,W,ENGR,485,,OVERALL,"Heating, Ventilating, and Air Conditioning",,66,73.924242424,12.304233925999998,97.0,47.0,,,,7,7,6,6,6,13,7,6
 UBCO,2018,W,ENGR,489,,101,Multicriteria Optimization and Design of Experiments,Abbas Sadeghzadeh Milani;Armin Rashidi,48,80.833333333,7.76334358,94.0,60.0,,,,,,5,,8,11,11,7
+UBCO,2018,W,ENGR,489,,OVERALL,Multicriteria Optimization and Design of Experiments,,48,80.833333333,7.76334358,94.0,60.0,,,,,,5,,8,11,11,7
 UBCO,2018,W,ENGR,490,,101,Fluid Machinery,Fahmid Chowdhury;Yu Yan,29,73.13793103399999,14.00439762,96.0,46.0,,,,,,,,5,,,
+UBCO,2018,W,ENGR,490,,OVERALL,Fluid Machinery,,29,73.13793103399999,14.00439762,96.0,46.0,,,,,,,,5,,,
 UBCO,2018,W,ENGR,491,,101,Computational Fluid Dynamics,Joshua Brinkerhoff;Shahab Zeraati Dizjeh,69,77.971014493,9.815909976,92.0,23.0,,,,,,9,7,14,16,15,
+UBCO,2018,W,ENGR,491,,OVERALL,Computational Fluid Dynamics,,69,77.971014493,9.815909976,92.0,23.0,,,,,,9,7,14,16,15,
 UBCO,2018,W,ENGR,492,,101,Finite Element Methods,Abbas Sadeghzadeh Milani;Hadi Mohammadi;Ramsey Katul,90,83.21111111100001,8.484611906,95.0,56.0,,,,,,6,,5,17,36,18
+UBCO,2018,W,ENGR,492,,OVERALL,Finite Element Methods,,90,83.21111111100001,8.484611906,95.0,56.0,,,,,,6,,5,17,36,18
 UBCO,2018,W,ENGR,495,,201,Tissue Engineering,Kabilan Sakthivel;Keekyoung Kim,21,81.238095238,7.873403088,91.0,57.0,,,,,,,,,6,6,
+UBCO,2018,W,ENGR,495,,OVERALL,Tissue Engineering,,21,81.238095238,7.873403088,91.0,57.0,,,,,,,,,6,6,
 UBCO,2018,W,ENGR,497,,201,Combustion Processes,Sajjad Mohammadnejad Daryani;Sina Kheirkhah,40,82.925,11.977302252000001,96.0,40.0,,,,,,,5,,8,7,15
+UBCO,2018,W,ENGR,497,,OVERALL,Combustion Processes,,40,82.925,11.977302252000001,96.0,40.0,,,,,,,5,,8,7,15
 UBCO,2018,W,ENGR,499,,101,Engineering Capstone Design Project,Carolyn Labun;Dimitry Sediako;Rafael Mongui Torres;Sabine Weyand,234,89.27777777799999,4.618931208999999,99.0,75.0,,,,,,,,,34,76,121
-UBCO,2018,W,ENGR,504,,101,Microfabrication Technology,Ian Foulds,5,89.6,3.130495168,93.0,87.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,499,,OVERALL,Engineering Capstone Design Project,,234,89.27777777799999,4.618931208999999,99.0,75.0,,,,,,,,,34,76,121
+UBCO,2018,W,ENGR,504,,101,Microfabrication Technology,Ian Foulds,5,89.6,3.130495168,93.0,87.0,,,,,,,,,,,2
 UBCO,2018,W,ENGR,504,,102,Microfabrication Technology,Ian Foulds,6,93.333333333,2.875181154,96.0,88.0,,,,,,,,,,,5
+UBCO,2018,W,ENGR,504,,OVERALL,Microfabrication Technology,,11,91.636363636,3.4430430519999997,96.0,87.0,,,,,,,,,,,7
 UBCO,2018,W,ENGR,507,,101,Bio-Microelectromechanical Systems,Keekyoung Kim,8,90.75,0.88640526,92.0,90.0,,,,,,,,,,,8
+UBCO,2018,W,ENGR,507,,OVERALL,Bio-Microelectromechanical Systems,,8,90.75,0.88640526,92.0,90.0,,,,,,,,,,,8
 UBCO,2018,W,ENGR,508,,101,"Specialty Alloys: Fundamentals, Applications, and Development",Dimitry Sediako,16,83.125,5.678908346,90.0,72.0,,,,,,,,,,7,
+UBCO,2018,W,ENGR,508,,OVERALL,"Specialty Alloys: Fundamentals, Applications, and Development",,16,83.125,5.678908346,90.0,72.0,,,,,,,,,,7,
 UBCO,2018,W,ENGR,522,,101,Advanced Design of Steel Structures,Maher Al-Hawarneh;Shahria Alam,7,83.428571429,7.114706432,91.0,70.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,522,,OVERALL,Advanced Design of Steel Structures,,7,83.428571429,7.114706432,91.0,70.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,526,,101,Multi-Sensor Data Fusion: System Architecture and Applications,Zheng Liu,12,92.0,5.099019514,100.0,80.0,,,,,,,,,,,10
+UBCO,2018,W,ENGR,526,,OVERALL,Multi-Sensor Data Fusion: System Architecture and Applications,,12,92.0,5.099019514,100.0,80.0,,,,,,,,,,,10
 UBCO,2018,W,ENGR,528,,001,Earthquake Engineering,Solomon Tesfamariam,9,81.0,19.589538024,95.0,30.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,528,,OVERALL,Earthquake Engineering,,9,81.0,19.589538024,95.0,30.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,533,,101,Construction Engineering and Management,John Alan Brereton;Kasun Hewage;Kh Md Nahiduzzaman,23,79.695652174,6.152861733,91.0,66.0,,,,,,,,6,6,5,
+UBCO,2018,W,ENGR,533,,OVERALL,Construction Engineering and Management,,23,79.695652174,6.152861733,91.0,66.0,,,,,,,,6,6,5,
 UBCO,2018,W,ENGR,543,,001,Environmental Engineering Laboratory,Deborah Roberts;Guangji Hu,7,81.0,3.16227766,85.0,76.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,543,,OVERALL,Environmental Engineering Laboratory,,7,81.0,3.16227766,85.0,76.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,548,,001,Engineering Microbiology,Anupama Vijayakumari Nadaraja Pil;Deborah Roberts,11,84.909090909,5.224070165,91.0,76.0,,,,,,,,,,5,
+UBCO,2018,W,ENGR,548,,OVERALL,Engineering Microbiology,,11,84.909090909,5.224070165,91.0,76.0,,,,,,,,,,5,
 UBCO,2018,W,ENGR,551,,001,High Power Electronic Converters for Power System Applications,Liwei Wang,7,92.714285714,1.704336206,95.0,91.0,,,,,,,,,,,7
+UBCO,2018,W,ENGR,551,,OVERALL,High Power Electronic Converters for Power System Applications,,7,92.714285714,1.704336206,95.0,91.0,,,,,,,,,,,7
 UBCO,2018,W,ENGR,557,,001,Advanced Switching Power Supplies,Ashraf Ali Khan,7,94.14285714299999,2.478478796,97.0,90.0,,,,,,,,,,,7
+UBCO,2018,W,ENGR,557,,OVERALL,Advanced Switching Power Supplies,,7,94.14285714299999,2.478478796,97.0,90.0,,,,,,,,,,,7
 UBCO,2018,W,ENGR,566,,101,Advanced Communication Networks,Chen Feng,10,95.3,2.057506582,98.0,91.0,,,,,,,,,,,10
+UBCO,2018,W,ENGR,566,,OVERALL,Advanced Communication Networks,,10,95.3,2.057506582,98.0,91.0,,,,,,,,,,,10
 UBCO,2018,W,ENGR,580,,101,Modern Control,Homayoun Najjaran,7,90.0,6.137317547,100.0,84.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,580,,OVERALL,Modern Control,,7,90.0,6.137317547,100.0,84.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,582,,101,Finite Element Method,Abbas Sadeghzadeh Milani;Hadi Mohammadi,8,90.875,1.6420805619999999,93.0,88.0,,,,,,,,,,,6
+UBCO,2018,W,ENGR,582,,OVERALL,Finite Element Method,,8,90.875,1.6420805619999999,93.0,88.0,,,,,,,,,,,6
 UBCO,2018,W,ENGR,583,,101,Multiphase Flows,Ri Li,10,87.9,3.247221034,95.0,85.0,,,,,,,,,,8,
+UBCO,2018,W,ENGR,583,,OVERALL,Multiphase Flows,,10,87.9,3.247221034,95.0,85.0,,,,,,,,,,8,
 UBCO,2018,W,ENGR,584,,101,Heat and Mass Transfer,Kevin Golovin;Ri Li,13,84.153846154,10.245699536,96.0,71.0,,,,,,,,,,,6
+UBCO,2018,W,ENGR,584,,OVERALL,Heat and Mass Transfer,,13,84.153846154,10.245699536,96.0,71.0,,,,,,,,,,,6
 UBCO,2018,W,ENGR,585,,001,Turbulence,Joshua Brinkerhoff,9,83.111111111,6.54683978,94.0,73.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,585,,OVERALL,Turbulence,,9,83.111111111,6.54683978,94.0,73.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,589,,101,Multicriteria Optimization and Design of Experiments,Abbas Sadeghzadeh Milani;Armin Rashidi;Zheng Liu,23,87.869565217,4.7606755419999995,95.0,78.0,,,,,,,,,,8,11
+UBCO,2018,W,ENGR,589,,OVERALL,Multicriteria Optimization and Design of Experiments,,23,87.869565217,4.7606755419999995,95.0,78.0,,,,,,,,,,8,11
 UBCO,2018,W,ENGR,592,,001,Microfluidics,Mina Hoorfar,9,94.111111111,3.2188679860000002,98.0,90.0,,,,,,,,,,,9
-UBCO,2018,W,ENGR,597,,002,Engineering Project,Richard Klukas,5,91.8,1.923538406,95.0,90.0,,,,,,,,,,,5
+UBCO,2018,W,ENGR,592,,OVERALL,Microfluidics,,9,94.111111111,3.2188679860000002,98.0,90.0,,,,,,,,,,,9
+UBCO,2018,W,ENGR,597,,001,Engineering Project,Joshua Brinkerhoff;Richard Klukas;Rudolf Seethaler,6,90.833333333,2.9944392910000004,96.0,87.0,,,,,,,,,,,5
+UBCO,2018,W,ENGR,597,,002,Engineering Project,Richard Klukas;Rudolf Seethaler,6,91.833333333,1.722401424,95.0,90.0,,,,,,,,,,,6
+UBCO,2018,W,ENGR,597,,OVERALL,Engineering Project,,12,91.333333333,2.386832566,96.0,87.0,,,,,,,,,,,11
 UBCO,2018,W,ENGR,598,A,001,Topics in Engineering,Liwei Wang;Mina Hoorfar,6,95.666666667,2.338090389,98.0,93.0,,,,,,,,,,,6
+UBCO,2018,W,ENGR,598,A,OVERALL,Topics in Engineering,,6,95.666666667,2.338090389,98.0,93.0,,,,,,,,,,,6
 UBCO,2018,W,ENGR,598,C,001,Topics in Engineering,Nicolas Peleato,6,77.833333333,16.17920476,97.0,51.0,,,,,,,,,,,
+UBCO,2018,W,ENGR,598,C,OVERALL,Topics in Engineering,,6,77.833333333,16.17920476,97.0,51.0,,,,,,,,,,,
 UBCO,2018,W,ENGR,598,E,001,Topics in Engineering,Kevin Golovin,6,93.333333333,2.422120283,96.0,89.0,,,,,,,,,,,5
+UBCO,2018,W,ENGR,598,E,OVERALL,Topics in Engineering,,6,93.333333333,2.422120283,96.0,89.0,,,,,,,,,,,5
 UBCO,2018,W,ENGR,598,Z,001,Topics in Engineering,Homayoun Najjaran,9,93.77777777799999,6.8150161,100.0,85.0,,,,,,,,,,,6
+UBCO,2018,W,ENGR,598,Z,OVERALL,Topics in Engineering,,9,93.77777777799999,6.8150161,100.0,85.0,,,,,,,,,,,6

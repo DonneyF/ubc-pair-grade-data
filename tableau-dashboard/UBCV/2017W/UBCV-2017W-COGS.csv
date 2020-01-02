@@ -1,11 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Christopher Mole;Emily Stryker;Hudhaifah Bin Zahid;Laurel Fais;Molly Sun;Ryan Taylor,145,71.10344827600001,9.20652255,88.0,41.0,,6,10,13,19,17,27,20,25,7,
-UBCV,2017,W,COGS,200,,004,Introduction to Cognitive Systems,Christopher Mole;Daniel Frederiks;Lauren Moldwin;Rebecca Reh;Ryan Taylor,148,74.087837838,8.799295777000001,89.0,33.0,,,,11,12,25,22,23,36,13,
-UBCV,2017,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Aurelia Kong;Colleen Kennedy;Hayden Ostrom;Patrick Coleman;Thomas Jacob Bittner,77,72.688311688,10.485905001,95.0,35.0,,,7,,11,11,8,16,10,7,
-UBCV,2017,W,COGS,300,,002,Understanding and Designing Cognitive Systems,Colleen Kennedy;Kim De Rosa;Matthew Siu;Pamela Choi;Sina Fazelpour,72,81.152777778,8.796061414,96.0,48.0,,,,,,6,7,8,16,22,9
+UBCV,2017,W,COGS,200,,004,Introduction to Cognitive Systems,Christopher Mole;Daniel Frederiks;Lauren Moldwin;Rebecca Reh;Ryan Taylor,148,74.087837838,8.799295777000001,89.0,33.0,,2,2,11,12,25,22,23,36,13,
+UBCV,2017,W,COGS,200,,OVERALL,Introduction to Cognitive Systems,,293,72.610921502,9.11111865,89.0,33.0,,8,12,24,31,42,49,43,61,20,
+UBCV,2017,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Aurelia Kong;Colleen Kennedy;Hayden Ostrom;Patrick Coleman;Thomas Jacob Bittner,77,72.688311688,10.485905001,95.0,35.0,,,7,,11,11,8,16,10,7,2
+UBCV,2017,W,COGS,300,,002,Understanding and Designing Cognitive Systems,Colleen Kennedy;Kim De Rosa;Matthew Siu;Pamela Choi;Sina Fazelpour,72,81.152777778,8.796061414,96.0,48.0,,,1,,2,6,7,8,16,22,9
+UBCV,2017,W,COGS,300,,OVERALL,Understanding and Designing Cognitive Systems,,149,76.77852349,10.563735543,96.0,35.0,,,8,,13,17,15,24,26,29,11
 UBCV,2017,W,COGS,303,,001,Research Methods in Cognitive Systems,Adrian Palidis;Ronald Rensink;Vesta Sahatciu,51,73.11764705899999,7.016115902,87.0,53.0,,,,5,,10,11,9,10,,
 UBCV,2017,W,COGS,303,,002,Research Methods in Cognitive Systems,Maira Brondizio;Ronald Rensink,37,71.27027027,9.305460311000001,90.0,46.0,,,5,,5,7,6,6,5,,
-UBCV,2017,W,COGS,303,,003,Research Methods in Cognitive Systems,Charlotte Zimmermann;Madison Ann Elliott;Madison Elliott;Ronald Rensink,23,71.391304348,15.095872797,88.0,19.0,,,,,,,,10,,,
-UBCV,2017,W,COGS,401,,001,Seminar in Cognitive Systems,Lawrence Ward;Peter Crout,39,76.25641025600001,6.463329551,88.0,60.0,,,,,,6,13,,10,5,
-UBCV,2017,W,COGS,401,,002,Seminar in Cognitive Systems,Aurelia Kong;Lawrence Ward;Miriam Pai-Spering,42,74.976190476,10.277819108,93.0,46.0,,,,,,6,5,8,10,,
+UBCV,2017,W,COGS,303,,003,Research Methods in Cognitive Systems,Charlotte Zimmermann;Madison Ann Elliott;Madison Elliott;Ronald Rensink,23,71.391304348,15.095872797,88.0,19.0,,,,,,1,2,10,1,,
+UBCV,2017,W,COGS,303,,OVERALL,Research Methods in Cognitive Systems,,111,72.144144144,9.854253209,90.0,19.0,,,6,6,11,18,19,25,16,5,
+UBCV,2017,W,COGS,401,,001,Seminar in Cognitive Systems,Lawrence Ward;Peter Crout,39,76.25641025600001,6.463329551,88.0,60.0,,,,,,6,13,3,10,5,
+UBCV,2017,W,COGS,401,,002,Seminar in Cognitive Systems,Aurelia Kong;Lawrence Ward;Miriam Pai-Spering,42,74.976190476,10.277819108,93.0,46.0,,,,,,6,5,8,10,4,
+UBCV,2017,W,COGS,401,,OVERALL,Seminar in Cognitive Systems,,81,75.592592593,8.625221414,93.0,46.0,,,,,,12,18,11,20,9,
 UBCV,2017,W,COGS,402,,002,Research in Cognitive Systems,Lawrence Ward,35,85.285714286,5.633781661,94.0,72.0,,,,,,,,,14,7,11
+UBCV,2017,W,COGS,402,,OVERALL,Research in Cognitive Systems,,35,85.285714286,5.633781661,94.0,72.0,,,,,,,,,14,7,11

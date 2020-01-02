@@ -1,17 +1,26 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,LATN,101,,001,First-Year Latin I,Melissa Funke,26,78.346153846,15.775784754000002,96.0,30.0,,,,,,,,,6,5,6
-UBCV,2015,W,LATN,101,,002,First-Year Latin I,Alexander Mcauley,28,76.321428571,12.4931198,93.0,26.0,,,,,,,,9,8,,
+UBCV,2015,W,LATN,101,,002,First-Year Latin I,Alexander Mcauley,28,76.321428571,12.4931198,93.0,26.0,,,,,,,,9,8,,1
 UBCV,2015,W,LATN,101,,003,First-Year Latin I,Alexander Mcauley,34,82.61764705899999,13.289354832999999,99.0,47.0,,,,,,,,,,5,15
 UBCV,2015,W,LATN,101,,004,First-Year Latin I,Andrea Lyn Rae,27,69.666666667,21.620858874,99.0,15.0,5,,,,,,,,,,5
 UBCV,2015,W,LATN,101,,005,First-Year Latin I,Alexander Mcauley,28,84.285714286,9.868982997,96.0,61.0,,,,,,,,,,6,11
+UBCV,2015,W,LATN,101,,OVERALL,First-Year Latin I,,143,78.48951049,15.65511532,99.0,15.0,8,,5,7,,9,10,16,22,22,38
 UBCV,2015,W,LATN,102,,001,First-Year Latin II,Charmaine Gorrie,16,75.9375,13.102003664000001,95.0,53.0,,,,,,,,,,5,
-UBCV,2015,W,LATN,102,,002,First-Year Latin II,Andrea Lyn Rae,15,70.266666667,19.476970528,92.0,26.0,,,,,,,,,,,
+UBCV,2015,W,LATN,102,,002,First-Year Latin II,Andrea Lyn Rae,15,70.266666667,19.476970528,92.0,26.0,,,,,,,,,,3,
 UBCV,2015,W,LATN,102,,004,First-Year Latin II,Alexander Mcauley,32,80.375,21.535791664,98.0,0.0,,,,,,,,,,10,10
+UBCV,2015,W,LATN,102,,OVERALL,First-Year Latin II,,63,76.841269841,19.39588113,98.0,0.0,,,,,5,,,,6,18,13
 UBCV,2015,W,LATN,201,,001,Second-Year Latin I,Charmaine Gorrie,12,67.75,12.556237132,82.0,50.0,,,,,,,,,,,
 UBCV,2015,W,LATN,201,,002,Second-Year Latin I,Andrea Lyn Rae,13,78.76923076899999,9.382198091,94.0,67.0,,,,,,,,,,,
+UBCV,2015,W,LATN,201,,OVERALL,Second-Year Latin I,,25,73.48,12.159084395,94.0,50.0,,,,,,,,,8,,
 UBCV,2015,W,LATN,202,,002,Second-Year Latin II,Andrea Lyn Rae,23,71.304347826,16.856169042,96.0,25.0,,,,,,,,,,,
+UBCV,2015,W,LATN,202,,OVERALL,Second-Year Latin II,,23,71.304347826,16.856169042,96.0,25.0,,,,,,,,,,,
 UBCV,2015,W,LATN,350,,001,Latin Literature of the Classical Period (Prose),Andrea Lyn Rae,14,69.0,26.486571344,99.0,2.0,,,,,,,,,,,
+UBCV,2015,W,LATN,350,,OVERALL,Latin Literature of the Classical Period (Prose),,14,69.0,26.486571344,99.0,2.0,,,,,,,,,,,
 UBCV,2015,W,LATN,351,,001,Latin Literature of the Classical Period (Verse),Charmaine Gorrie,10,81.2,11.113555287,96.0,66.0,,,,,,,,,,,
+UBCV,2015,W,LATN,351,,OVERALL,Latin Literature of the Classical Period (Verse),,10,81.2,11.113555287,96.0,66.0,,,,,,,,,,,
 UBCV,2015,W,LATN,401,C,001,Latin Prose,Siobhan Mcelduff,6,89.333333333,6.055300708,96.0,79.0,,,,,,,,,,,
+UBCV,2015,W,LATN,401,C,OVERALL,Latin Prose,,6,89.333333333,6.055300708,96.0,79.0,,,,,,,,,,,
 UBCV,2015,W,LATN,402,B,001,Latin Verse,Susan Braund,6,77.666666667,11.809600614,91.0,58.0,,,,,,,,,,,
+UBCV,2015,W,LATN,402,B,OVERALL,Latin Verse,,6,77.666666667,11.809600614,91.0,58.0,,,,,,,,,,,
 UBCV,2015,W,LATN,501,A,001,Latin Prose,Susan Braund,5,85.0,7.64852927,91.0,73.0,,,,,,,,,,,
+UBCV,2015,W,LATN,501,A,OVERALL,Latin Prose,,5,85.0,7.64852927,91.0,73.0,,,,,,,,,,,

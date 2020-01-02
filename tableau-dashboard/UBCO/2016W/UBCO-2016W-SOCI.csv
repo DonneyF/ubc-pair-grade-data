@@ -1,28 +1,52 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2016,W,SOCI,111,,001,Introduction to Sociology I,Nurul Jais;Peter Urmetzer,192,70.223958333,11.058949560999999,90.0,8.0,7,12,7,11,24,31,36,25,28,10,
-UBCO,2016,W,SOCI,111,,002,Introduction to Sociology I,Nurul Jais;Peter Urmetzer,189,68.497354497,12.120241702000001,88.0,9.0,8,6,8,18,35,39,22,23,24,6,
+UBCO,2016,W,SOCI,111,,001,Introduction to Sociology I,Nurul Jais;Peter Urmetzer,192,70.223958333,11.058949560999999,90.0,8.0,7,12,7,11,24,31,36,25,28,10,1.0
+UBCO,2016,W,SOCI,111,,002,Introduction to Sociology I,Nurul Jais;Peter Urmetzer,189,68.497354497,12.120241702000001,88.0,9.0,8,6,8,18,35,39,22,23,24,6,0.0
 UBCO,2016,W,SOCI,111,,003,Introduction to Sociology I,Andrew Geistlinger;Craig Meadows;Jasmeet Bahia;Jasmeet K. Bahia;Lynda Reil;Megan Richards;Megan Truden,187,67.70053475899999,16.834301570999997,95.0,0.0,24,5,12,10,17,27,27,18,22,16,9
+UBCO,2016,W,SOCI,111,,OVERALL,Introduction to Sociology I,,568,68.818661972,13.564160825,95.0,0.0,39,23,27,39,76,97,85,66,74,32,10
 UBCO,2016,W,SOCI,121,,001,Introduction to Sociology II,Dilsora Komil-Burley;Luis Aguiar;Lynda Reil;Nurul Jais;Sierra Krog,85,68.811764706,12.169922054,87.0,21.0,,6,,12,10,9,14,11,12,,
-UBCO,2016,W,SOCI,121,,002,Introduction to Sociology II,Dilsora Komil-Burley;Luis Aguiar;Lynda Reil;Nurul Jais;Sierra Krog,62,67.822580645,10.540358337999999,90.0,35.0,,6,,12,9,11,8,,6,,
+UBCO,2016,W,SOCI,121,,002,Introduction to Sociology II,Dilsora Komil-Burley;Luis Aguiar;Lynda Reil;Nurul Jais;Sierra Krog,62,67.822580645,10.540358337999999,90.0,35.0,,6,,12,9,11,8,4,6,,
+UBCO,2016,W,SOCI,121,,OVERALL,Introduction to Sociology II,,147,68.394557823,11.4834949,90.0,21.0,6,12,,24,19,20,22,15,18,7,
 UBCO,2016,W,SOCI,209,,002,Foundations of Sociological Thought,Craig Meadows,36,71.694444444,18.047270382,98.0,11.0,,,,,,,7,5,9,,
+UBCO,2016,W,SOCI,209,,OVERALL,Foundations of Sociological Thought,,36,71.694444444,18.047270382,98.0,11.0,,,,,,,7,5,9,,
 UBCO,2016,W,SOCI,211,,001,Canadian Society I,Jasmine Somal;Kanchan Sarker,42,77.0,10.345259313,100.0,56.0,,,,,,8,8,7,5,,7
+UBCO,2016,W,SOCI,211,,OVERALL,Canadian Society I,,42,77.0,10.345259313,100.0,56.0,,,,,,8,8,7,5,,7
 UBCO,2016,W,SOCI,212,,001,Sociology of Race and Ethnicity,Luis Aguiar,47,66.531914894,16.125662863,90.0,18.0,5,6,,7,,,6,,9,,
+UBCO,2016,W,SOCI,212,,OVERALL,Sociology of Race and Ethnicity,,47,66.531914894,16.125662863,90.0,18.0,5,6,,7,,,6,,9,,
 UBCO,2016,W,SOCI,216,,001,Media and Society,Jasmine Somal;Kanchan Sarker,61,78.459016393,11.330745445,100.0,52.0,,,,,5,,10,14,5,7,11
+UBCO,2016,W,SOCI,216,,OVERALL,Media and Society,,61,78.459016393,11.330745445,100.0,52.0,,,,,5,,10,14,5,7,11
 UBCO,2016,W,SOCI,249,,001,Crime and Society,Andrew Geistlinger;H V Bonar Buffam,79,73.316455696,15.096734495,96.0,0.0,,,,,9,10,5,8,14,9,9
+UBCO,2016,W,SOCI,249,,OVERALL,Crime and Society,,79,73.316455696,15.096734495,96.0,0.0,,,,,9,10,5,8,14,9,9
 UBCO,2016,W,SOCI,295,G,001,Current Topics in Sociology,Matt Husain;Matt M Husain,16,86.375,5.057996968,95.0,78.0,,,,,,,,,,6,5
+UBCO,2016,W,SOCI,295,G,OVERALL,Current Topics in Sociology,,16,86.375,5.057996968,95.0,78.0,,,,,,,,,,6,5
 UBCO,2016,W,SOCI,301,B,001,Sociology of Development,Jasmeet Bahia;Jasmeet K. Bahia;Kanchan Sarker,65,70.492307692,15.709395156,100.0,30.0,5,,5,6,,10,,8,8,5,7
+UBCO,2016,W,SOCI,301,B,OVERALL,Sociology of Development,,65,70.492307692,15.709395156,100.0,30.0,5,,5,6,,10,,8,8,5,7
 UBCO,2016,W,SOCI,305,,001,Sociology of Families,Mary Ann Murphy;Nurul Jais,72,77.388888889,6.16111284,89.0,58.0,,,,,,8,13,16,23,7,
+UBCO,2016,W,SOCI,305,,OVERALL,Sociology of Families,,72,77.388888889,6.16111284,89.0,58.0,,,,,,8,13,16,23,7,
 UBCO,2016,W,SOCI,313,,001,Advanced Studies in Sociology of Gender,Michelle Walks,34,78.294117647,10.610256364,94.0,50.0,,,,,,,,5,12,,
+UBCO,2016,W,SOCI,313,,OVERALL,Advanced Studies in Sociology of Gender,,34,78.294117647,10.610256364,94.0,50.0,,,,,,,,5,12,,
 UBCO,2016,W,SOCI,362,B,001,Social Inequality,Charles Rasi,31,79.09677419399999,14.779162895999999,98.0,22.0,,,,,,,,,5,8,6
+UBCO,2016,W,SOCI,362,B,OVERALL,Social Inequality,,31,79.09677419399999,14.779162895999999,98.0,22.0,,,,,,,,,5,8,6
 UBCO,2016,W,SOCI,371,B,101,Deviance and Social Control,H V Bonar Buffam,80,75.5375,11.420549711,93.0,16.0,,,,,6,12,9,13,23,5,7
+UBCO,2016,W,SOCI,371,B,OVERALL,Deviance and Social Control,,80,75.5375,11.420549711,93.0,16.0,,,,,6,12,9,13,23,5,7
 UBCO,2016,W,SOCI,376,,001,Classical Sociological Theory,H V Bonar Buffam,48,75.958333333,13.785527924,94.0,23.0,,,,5,,,6,,9,,10
+UBCO,2016,W,SOCI,376,,OVERALL,Classical Sociological Theory,,48,75.958333333,13.785527924,94.0,23.0,,,,5,,,6,,9,,10
 UBCO,2016,W,SOCI,377,,001,Contemporary Sociological Theory,Craig Meadows,35,78.571428571,10.319272986,93.0,58.0,,,,,,,,,5,8,6
+UBCO,2016,W,SOCI,377,,OVERALL,Contemporary Sociological Theory,,35,78.571428571,10.319272986,93.0,58.0,,,,,,,,,5,8,6
 UBCO,2016,W,SOCI,390,,001,Sociological Methods: Social Survey Design and Analysis,Peter Urmetzer,22,76.090909091,7.418824775,90.0,61.0,,,,,,5,,,8,,
+UBCO,2016,W,SOCI,390,,OVERALL,Sociological Methods: Social Survey Design and Analysis,,22,76.090909091,7.418824775,90.0,61.0,,,,,,5,,,8,,
 UBCO,2016,W,SOCI,430,,001,Labour in a Global Economy,Luis Aguiar,19,69.789473684,21.451700133,90.0,10.0,,,,,,,,5,,,
+UBCO,2016,W,SOCI,430,,OVERALL,Labour in a Global Economy,,19,69.789473684,21.451700133,90.0,10.0,,,,,,,,5,,,
 UBCO,2016,W,SOCI,450,,001,Sociology of India,Kanchan Sarker,39,73.717948718,15.822949219000002,100.0,19.0,,,,,5,,,7,,,7
+UBCO,2016,W,SOCI,450,,OVERALL,Sociology of India,,39,73.717948718,15.822949219000002,100.0,19.0,,,,,5,,,7,,,7
 UBCO,2016,W,SOCI,463,A,001,Political Sociology,Kanchan Sarker,37,76.62162162199999,12.625704274,98.0,51.0,,,,,,,6,,5,,9
+UBCO,2016,W,SOCI,463,A,OVERALL,Political Sociology,,37,76.62162162199999,12.625704274,98.0,51.0,,,,,,,6,,5,,9
 UBCO,2016,W,SOCI,467,A,001,Social Movements,Kanchan Sarker,40,82.925,14.98099223,100.0,33.0,,,,,,,,,6,5,17
+UBCO,2016,W,SOCI,467,A,OVERALL,Social Movements,,40,82.925,14.98099223,100.0,33.0,,,,,,,,,6,5,17
 UBCO,2016,W,SOCI,480,,001,"Aging, Diversity, and Inequality: Global and Comparative Perspectives",Mary Ann Murphy,14,82.5,5.867118281000001,89.0,72.0,,,,,,,,,,7,
+UBCO,2016,W,SOCI,480,,OVERALL,"Aging, Diversity, and Inequality: Global and Comparative Perspectives",,14,82.5,5.867118281000001,89.0,72.0,,,,,,,,,,7,
 UBCO,2016,W,SOCI,485,A,001,Sociology of Health and Illness,Michelle Walks,41,84.146341463,6.186925632,95.0,70.0,,,,,,,,9,10,8,11
+UBCO,2016,W,SOCI,485,A,OVERALL,Sociology of Health and Illness,,41,84.146341463,6.186925632,95.0,70.0,,,,,,,,9,10,8,11
 UBCO,2016,W,SOCI,496,J,001,Advanced Studies in Sociology,H V Bonar Buffam,21,82.80952381,5.60909126,91.0,73.0,,,,,,,,5,5,5,5
+UBCO,2016,W,SOCI,496,J,OVERALL,Advanced Studies in Sociology,,21,82.80952381,5.60909126,91.0,73.0,,,,,,,,5,5,5,5
 UBCO,2016,W,SOCI,496,L,001,Advanced Studies in Sociology,Matt Husain;Matt M Husain,23,86.52173913,3.715686223,92.0,76.0,,,,,,,,,,14,
+UBCO,2016,W,SOCI,496,L,OVERALL,Advanced Studies in Sociology,,23,86.52173913,3.715686223,92.0,76.0,,,,,,,,,,14,

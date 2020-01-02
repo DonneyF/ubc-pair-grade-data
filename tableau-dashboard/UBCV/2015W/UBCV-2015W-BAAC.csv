@@ -1,13 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,BAAC,500,,001,Financial Reporting,Tran Khue Chung;Wantong Zou,7,86.0,13.747727085,98.0,58.0,,,,,,,,,,,
+UBCV,2015,W,BAAC,500,,001,Financial Reporting,Tran Khue Chung;Wantong Zou,7,86.0,13.747727085,98.0,58.0,,,,,,,,,,1,
 UBCV,2015,W,BAAC,500,,301,Financial Reporting,Steve Alisharan,31,75.322580645,13.123483015,96.0,44.0,,,,5,,5,,,,5,
 UBCV,2015,W,BAAC,500,,815,Financial Reporting,Steve Alisharan;Tasneem Mantri,29,75.482758621,11.827995512000001,91.0,49.0,,,,,,,,,9,6,
 UBCV,2015,W,BAAC,500,,MM1,Financial Reporting,Manyan Huang;Tran Khue Chung,46,85.260869565,5.384895677,97.0,70.0,,,,,,,,,11,21,10
-UBCV,2015,W,BAAC,501,,001,Financial Statement Analysis I,Joy Begley,12,83.333333333,2.902454552,89.0,80.0,,,,,,,,,8,,
-UBCV,2015,W,BAAC,501,,815,Financial Statement Analysis I,Russell Lundholm,19,81.94736842100001,7.989393553999999,94.0,69.0,,,,,,,,,,6,
-UBCV,2015,W,BAAC,505,,001,Fundamentals of Accounting,Steve Alisharan;Tasneem Mantri,50,78.66,5.08944486,92.0,68.0,,,,,,,8,14,20,,
+UBCV,2015,W,BAAC,500,,OVERALL,Financial Reporting,,113,80.07079646,11.306380005,98.0,44.0,6,,,7,,7,10,5,23,33,19
+UBCV,2015,W,BAAC,501,,001,Financial Statement Analysis I,Joy Begley,12,83.333333333,2.902454552,89.0,80.0,,,,,,,,,8,4,
+UBCV,2015,W,BAAC,501,,815,Financial Statement Analysis I,Russell Lundholm,19,81.94736842100001,7.989393553999999,94.0,69.0,,,,,,,,,3,6,
+UBCV,2015,W,BAAC,501,,OVERALL,Financial Statement Analysis I,,31,82.483870968,6.469780871,94.0,69.0,,,,,,,,,11,10,
+UBCV,2015,W,BAAC,505,,001,Fundamentals of Accounting,Steve Alisharan;Tasneem Mantri,50,78.66,5.08944486,92.0,68.0,,,,,,,8,14,20,2,
 UBCV,2015,W,BAAC,505,,002,Fundamentals of Accounting,Steve Alisharan;Tasneem Mantri,49,80.632653061,5.739823885,94.0,66.0,,,,,,,6,14,13,12,
-UBCV,2015,W,BAAC,505,,300,Fundamentals of Accounting,Jingyi Zhao;Steve Alisharan,48,78.520833333,9.41928665,96.0,60.0,,,,5,,5,,10,9,9,5
-UBCV,2015,W,BAAC,510,,001,Cost Analysis for Decision Making,Aklilu Mulat,18,84.222222222,8.292842808,93.0,68.0,,,,,,,,,,,8
+UBCV,2015,W,BAAC,505,,300,Fundamentals of Accounting,Jingyi Zhao;Steve Alisharan,48,78.520833333,9.41928665,96.0,60.0,,,,5,,5,3,10,9,9,5
+UBCV,2015,W,BAAC,505,,OVERALL,Fundamentals of Accounting,,147,79.272108844,7.001524122999999,96.0,60.0,,,,5,,10,17,38,42,23,9
+UBCV,2015,W,BAAC,510,,001,Cost Analysis for Decision Making,Aklilu Mulat,18,84.222222222,8.292842808,93.0,68.0,,,,,,,,,,3,8
 UBCV,2015,W,BAAC,510,,301,Cost Analysis for Decision Making,Rafael Lopes Rogo,27,86.814814815,6.839011608,95.0,71.0,,,,,,,,,,8,12
+UBCV,2015,W,BAAC,510,,OVERALL,Cost Analysis for Decision Making,,45,85.777777778,7.473860171,95.0,68.0,,,,,,,,,5,11,20
 UBCV,2015,W,BAAC,550,,MM1,Foundations in  Accounting,Jingyi Zhao;Steve Alisharan,46,79.456521739,6.3235240589999995,92.0,68.0,,,,,,,12,8,11,8,
+UBCV,2015,W,BAAC,550,,OVERALL,Foundations in  Accounting,,46,79.456521739,6.3235240589999995,92.0,68.0,,,,,,,12,8,11,8,

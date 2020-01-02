@@ -1,11 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,S,KIN,151,,921,Biomechanics I,Michael Lodewyks,41,80.073170732,10.685013439,95.0,50.0,,,,,,,,5,13,5,8
+UBCV,2017,S,KIN,151,,OVERALL,Biomechanics I,,41,80.073170732,10.685013439,95.0,50.0,,,,,,,,5,13,5,8
 UBCV,2017,S,KIN,161,,921,Leisure and Sport in Society,Janna Taylor,35,79.11428571399999,9.061136887,95.0,54.0,,,,,,,7,5,8,6,
+UBCV,2017,S,KIN,161,,OVERALL,Leisure and Sport in Society,,35,79.11428571399999,9.061136887,95.0,54.0,,,,,,,7,5,8,6,
 UBCV,2017,S,KIN,190,,921,Anatomy & Physiology I,Anne Lasinsky,41,73.707317073,14.795681638,94.0,44.0,,,5,,,,,6,7,5,6
+UBCV,2017,S,KIN,190,,OVERALL,Anatomy & Physiology I,,41,73.707317073,14.795681638,94.0,44.0,,,5,,,,,6,7,5,6
 UBCV,2017,S,KIN,191,,921,Anatomy & Physiology II,Pei Wang,30,75.0,11.11693334,91.0,40.0,,,,,,,,6,6,,
+UBCV,2017,S,KIN,191,,OVERALL,Anatomy & Physiology II,,30,75.0,11.11693334,91.0,40.0,,,,,,,,6,6,,
 UBCV,2017,S,KIN,275,,921,Exercise Physiology I,Yannick Molgat-Seon,34,83.264705882,8.069053579,93.0,60.0,,,,,,,,,7,13,7
+UBCV,2017,S,KIN,275,,OVERALL,Exercise Physiology I,,34,83.264705882,8.069053579,93.0,60.0,,,,,,,,,7,13,7
 UBCV,2017,S,KIN,375,,921,Exercise Physiology II,Robert Langill,50,72.72,14.056794421,97.0,41.0,,,,6,,6,6,,8,,7
+UBCV,2017,S,KIN,375,,OVERALL,Exercise Physiology II,,50,72.72,14.056794421,97.0,41.0,,,,6,,6,6,,8,,7
 UBCV,2017,S,KIN,500,T,941,Special Topics in Kinesiology,J Timothy Inglis,8,88.5,6.023762468999999,97.0,80.0,,,,,,,,,,,5
+UBCV,2017,S,KIN,500,T,OVERALL,Special Topics in Kinesiology,,8,88.5,6.023762468999999,97.0,80.0,,,,,,,,,,,5
+UBCV,2017,S,KIN,515,,OVERALL,Gap Analysis,,14,77.428571429,17.618671415,92.0,34.0,,,,,,,,,,,
 UBCV,2017,S,KIN,515,,WB3,Gap Analysis,Anthony Van Neutegem,14,77.428571429,17.618671415,92.0,34.0,,,,,,,,,,,
+UBCV,2017,S,KIN,530,A,OVERALL,Directed Studies,,15,86.4,6.219784102999999,95.0,75.0,,,,,,,,,,,6
 UBCV,2017,S,KIN,530,A,WB1,Directed Studies,David Hill,12,86.75,5.848465222000001,94.0,75.0,,,,,,,,,,,5
+UBCV,2017,S,KIN,598,,OVERALL,Directed Field Studies in Sport and Physical Activity Agencies,,15,89.2,2.93257566,95.0,84.0,,,,,,,,,,6,8
 UBCV,2017,S,KIN,598,,WB2,Directed Field Studies in Sport and Physical Activity Agencies,David Hill,15,89.2,2.93257566,95.0,84.0,,,,,,,,,,6,8

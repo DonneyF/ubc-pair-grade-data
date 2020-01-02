@@ -1,35 +1,62 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2018,W,EDST,501,,021,Research Traditions in Educational Administration,Joanne Robertson;Marilynne Waithman;Wendy Poole,8,89.125,6.243568119,95.0,80.0,,,,,,,,,,1,5
 UBCV,2018,W,EDST,501,,61A,Research Traditions in Educational Administration,Elaine Decker;Gerald Fallon,21,90.095238095,2.488066758,94.0,86.0,,,,,,,,,,7,14
-UBCV,2018,W,EDST,501,,021,Research Traditions in Educational Administration,Joanne Robertson;Marilynne Waithman;Wendy Poole,8,89.125,6.243568119,95.0,80.0,,,,,,,,,,,5
+UBCV,2018,W,EDST,501,,OVERALL,Research Traditions in Educational Administration,,29,89.82758620700001,3.789732044,95.0,80.0,,,,,,,,,,8,19
 UBCV,2018,W,EDST,503,,021,Foundations of Adult Learning and Education,Jennifer Chan;Judith Walker,16,84.75,2.144761059,87.0,80.0,,,,,,,,,,13,
+UBCV,2018,W,EDST,503,,OVERALL,Foundations of Adult Learning and Education,,16,84.75,2.144761059,87.0,80.0,,,,,,,,,,13,
 UBCV,2018,W,EDST,509,,081,Constructing Citizens: Canada and the Educational Past,Jason Ellis;Mona Gleason,18,85.777777778,4.008161608,91.0,77.0,,,,,,,,,5,9,
+UBCV,2018,W,EDST,509,,OVERALL,Constructing Citizens: Canada and the Educational Past,,18,85.777777778,4.008161608,91.0,77.0,,,,,,,,,5,9,
 UBCV,2018,W,EDST,518,,022,Theory and Research on Adult Learning,Pierre Walter,13,87.76923076899999,1.23516842,90.0,86.0,,,,,,,,,,11,
-UBCV,2018,W,EDST,521,,021,Foundations of Higher Education,Andre Mazawi;Lesley Coral Andres,7,90.14285714299999,1.069044968,92.0,89.0,,,,,,,,,,,5
+UBCV,2018,W,EDST,518,,OVERALL,Theory and Research on Adult Learning,,13,87.76923076899999,1.23516842,90.0,86.0,,,,,,,,,,11,
+UBCV,2018,W,EDST,521,,021,Foundations of Higher Education,Andre Mazawi;Lesley Coral Andres,9,90.77777777799999,1.56347192,93.0,89.0,,,,,,,,,,,7
+UBCV,2018,W,EDST,521,,OVERALL,Foundations of Higher Education,,9,90.77777777799999,1.56347192,93.0,89.0,,,,,,,,,,,7
 UBCV,2018,W,EDST,523,A,021,Comparative Education,Vanessa De Oliveira Andreotti,16,87.0625,3.336040567,92.0,84.0,,,,,,,,,8,5,
+UBCV,2018,W,EDST,523,A,OVERALL,Comparative Education,,16,87.0625,3.336040567,92.0,84.0,,,,,,,,,8,5,
 UBCV,2018,W,EDST,525,,022,Program Evaluation in Adult and Community Education,Thomas Joda Sork,23,86.739130435,3.922167667,92.0,77.0,,,,,,,,,,15,
+UBCV,2018,W,EDST,525,,OVERALL,Program Evaluation in Adult and Community Education,,23,86.739130435,3.922167667,92.0,77.0,,,,,,,,,,15,
 UBCV,2018,W,EDST,531,,022,The Politics of Educational Governance,Philip Webb,15,96.0,0.0,96.0,96.0,,,,,,,,,,,15
-UBCV,2018,W,EDST,532,,62A,Leadership in Educational Organizations,Monica Pamer,20,93.25,1.4095538669999998,96.0,91.0,,,,,,,,,,,20
-UBCV,2018,W,EDST,532,,022,Leadership in Educational Organizations,Fei Wang,12,89.333333333,1.435481125,92.0,87.0,,,,,,,,,,8,
+UBCV,2018,W,EDST,531,,OVERALL,The Politics of Educational Governance,,15,96.0,0.0,96.0,96.0,,,,,,,,,,,15
+UBCV,2018,W,EDST,532,,022,Leadership in Educational Organizations,Fei Wang,12,89.333333333,1.435481125,92.0,87.0,,,,,,,,,,8,4
+UBCV,2018,W,EDST,532,,62A,Leadership in Educational Organizations,Monica Pamer,20,93.25,1.4095538669999998,96.0,91.0,,,,,,,,,,0,20
+UBCV,2018,W,EDST,532,,OVERALL,Leadership in Educational Organizations,,32,91.78125,2.379134771,96.0,87.0,,,,,,,,,,8,24
 UBCV,2018,W,EDST,535,,022,Comparative and International Adult Education,Andre Mazawi;Judith Walker,6,89.833333333,3.5449494589999997,93.0,83.0,,,,,,,,,,,5
+UBCV,2018,W,EDST,535,,OVERALL,Comparative and International Adult Education,,6,89.833333333,3.5449494589999997,93.0,83.0,,,,,,,,,,,5
 UBCV,2018,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,18,86.555555556,2.006525303,89.0,80.0,,,,,,,,,,17,
-UBCV,2018,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,15,82.0,5.237229366,90.0,75.0,,,,,,,,,6,,
+UBCV,2018,W,EDST,540,A,OVERALL,Locating Oneself in Global Learning,,18,86.555555556,2.006525303,89.0,80.0,,,,,,,,,,17,
+UBCV,2018,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,16,81.625,5.2773099210000005,90.0,75.0,,,,,,,,,6,,
+UBCV,2018,W,EDST,540,B,OVERALL,Locating Oneself in Global Learning,,16,81.625,5.2773099210000005,90.0,75.0,,,,,,,,,6,,
 UBCV,2018,W,EDST,541,,021,Adult Learning: Contexts and Perspectives,,18,86.666666667,4.014678948,91.0,78.0,,,,,,,,,,12,
+UBCV,2018,W,EDST,541,,OVERALL,Adult Learning: Contexts and Perspectives,,18,86.666666667,4.014678948,91.0,78.0,,,,,,,,,,12,
 UBCV,2018,W,EDST,543,,022,Understanding Research,,15,80.533333333,5.92653436,92.0,68.0,,,,,,,,9,,,
+UBCV,2018,W,EDST,543,,OVERALL,Understanding Research,,15,80.533333333,5.92653436,92.0,68.0,,,,,,,,9,,,
 UBCV,2018,W,EDST,544,,021,Global/Local Learning,,19,87.05263157899999,4.600406796000001,92.0,76.0,,,,,,,,,,6,11
+UBCV,2018,W,EDST,544,,OVERALL,Global/Local Learning,,19,87.05263157899999,4.600406796000001,92.0,76.0,,,,,,,,,,6,11
 UBCV,2018,W,EDST,545,,021,Indigenous Inquiry and Research,Cash Ahenakew,15,92.46666666700001,2.850229732,96.0,84.0,,,,,,,,,,,14
+UBCV,2018,W,EDST,545,,OVERALL,Indigenous Inquiry and Research,,15,92.46666666700001,2.850229732,96.0,84.0,,,,,,,,,,,14
 UBCV,2018,W,EDST,546,,022,Indigenous Methodology and Epistemology,Michael Marker,11,89.909090909,2.34326889,94.0,87.0,,,,,,,,,,5,6
+UBCV,2018,W,EDST,546,,OVERALL,Indigenous Methodology and Epistemology,,11,89.909090909,2.34326889,94.0,87.0,,,,,,,,,,5,6
+UBCV,2018,W,EDST,553,A,022,Group Inquiry into Educational Practices,Joanne Robertson;Marilynne Waithman;Wendy Poole,8,86.25,5.41822322,93.0,78.0,,,,,,,,,,,2
 UBCV,2018,W,EDST,553,A,61A,Group Inquiry into Educational Practices,Cash Ahenakew,26,89.46153846200001,18.348255,97.0,0.0,,,,,,,,,,,25
 UBCV,2018,W,EDST,553,A,62A,Group Inquiry into Educational Practices,Elaine Decker;Gerald Fallon,21,90.04761904799999,3.057387618,93.0,84.0,,,,,,,,,,,16
-UBCV,2018,W,EDST,553,A,022,Group Inquiry into Educational Practices,Joanne Robertson;Marilynne Waithman;Wendy Poole,8,86.25,5.41822322,93.0,78.0,,,,,,,,,,,
+UBCV,2018,W,EDST,553,A,OVERALL,Group Inquiry into Educational Practices,,55,89.21818181799999,12.834690995,97.0,0.0,,,,,,,,,,6,43
 UBCV,2018,W,EDST,565,A,081,Special Course in Subject Matter Field,Andre Mazawi,9,90.444444444,3.9086798,94.0,84.0,,,,,,,,,,,6
+UBCV,2018,W,EDST,565,A,OVERALL,Special Course in Subject Matter Field,,9,90.444444444,3.9086798,94.0,84.0,,,,,,,,,,,6
 UBCV,2018,W,EDST,570,,082,Topics in Sociology of Education,Leslie Roman,12,95.416666667,2.539088359,98.0,90.0,,,,,,,,,,,12
+UBCV,2018,W,EDST,570,,OVERALL,Topics in Sociology of Education,,12,95.416666667,2.539088359,98.0,90.0,,,,,,,,,,,12
 UBCV,2018,W,EDST,571,,021,"Educational Research: Relating Questions, Theory, and Methodology",Pierre Walter,15,86.333333333,1.7593288759999999,89.0,82.0,,,,,,,,,,13,
+UBCV,2018,W,EDST,571,,OVERALL,"Educational Research: Relating Questions, Theory, and Methodology",,15,86.333333333,1.7593288759999999,89.0,82.0,,,,,,,,,,13,
 UBCV,2018,W,EDST,575,,021,Work and Learning,Michelle Stack,18,87.333333333,5.20180964,93.0,75.0,,,,,,,,,,5,9
 UBCV,2018,W,EDST,575,,082,Work and Learning,Alison Taylor,19,86.684210526,4.230217115,91.0,78.0,,,,,,,,,,11,5
-UBCV,2018,W,EDST,577,,081,"Social Contexts of Educational Policy, Politics and Practice",Leslie Roman,16,92.0,4.049691346,98.0,86.0,,,,,,,,,,,12
+UBCV,2018,W,EDST,575,,OVERALL,Work and Learning,,37,87.0,4.672615256,93.0,75.0,,,,,,,,,,16,14
+UBCV,2018,W,EDST,577,,081,"Social Contexts of Educational Policy, Politics and Practice",Leslie Roman,16,92.0,4.049691346,98.0,86.0,,,,,,,,,,4,12
 UBCV,2018,W,EDST,577,,082,"Social Contexts of Educational Policy, Politics and Practice",Hongxia Shan;Michelle Stack,13,88.0,6.0964470529999994,94.0,70.0,,,,,,,,,,6,6
+UBCV,2018,W,EDST,577,,OVERALL,"Social Contexts of Educational Policy, Politics and Practice",,29,90.206896552,5.3677563169999996,98.0,70.0,,,,,,,,,,10,18
+UBCV,2018,W,EDST,581,,022,"Leadership, Administration, and the Aims of Education",Fei Wang;Monica Pamer,19,87.36842105299999,1.640139774,90.0,83.0,,,,,,,,,,16,2
 UBCV,2018,W,EDST,581,,61A,"Leadership, Administration, and the Aims of Education",Bathseba Opini;Wendy Poole,20,88.3,2.079979757,92.0,84.0,,,,,,,,,,13,6
-UBCV,2018,W,EDST,581,,022,"Leadership, Administration, and the Aims of Education",Fei Wang;Monica Pamer,19,87.36842105299999,1.640139774,90.0,83.0,,,,,,,,,,16,
+UBCV,2018,W,EDST,581,,OVERALL,"Leadership, Administration, and the Aims of Education",,39,87.846153846,1.913091485,92.0,83.0,,,,,,,,,,29,8
 UBCV,2018,W,EDST,596,A,022,Philosophy and Educational Policy,Philip Webb,16,99.3125,1.9568256609999999,100.0,93.0,,,,,,,,,,,16
+UBCV,2018,W,EDST,596,A,OVERALL,Philosophy and Educational Policy,,16,99.3125,1.9568256609999999,100.0,93.0,,,,,,,,,,,16
 UBCV,2018,W,EDST,597,,021,"Educational Theories: Equality, Democracy, and Justice",Samuel Rocha Perkerwicz,19,88.473684211,4.834694303,97.0,81.0,,,,,,,,,5,,10
+UBCV,2018,W,EDST,597,,OVERALL,"Educational Theories: Equality, Democracy, and Justice",,19,88.473684211,4.834694303,97.0,81.0,,,,,,,,,5,,10
 UBCV,2018,W,EDST,599,C,081,Master's Thesis,,6,90.666666667,1.751190072,93.0,88.0,,,,,,,,,,,5
+UBCV,2018,W,EDST,599,C,OVERALL,Master's Thesis,,10,88.3,4.295992965,93.0,78.0,,,,,,,,,,,5

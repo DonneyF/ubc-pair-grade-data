@@ -1,8 +1,14 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,GERM,100,,921,Beginners' German I,Daniela Hempen,24,82.583333333,8.972986836,96.0,63.0,,,,,,,,,6,5,5
-UBCV,2016,S,GERM,100,,923,Beginners' German I,Florian Faller,27,79.814814815,12.149824427,99.0,48.0,,,,,,,,7,5,,6
+UBCV,2016,S,GERM,100,,921,Beginners' German I,Daniela Hempen,24,82.583333333,8.972986836,96.0,63.0,,,,,,,,3,6,5,5
+UBCV,2016,S,GERM,100,,923,Beginners' German I,Florian Faller,27,79.814814815,12.149824427,99.0,48.0,,,,,,,,7,5,4,6
+UBCV,2016,S,GERM,100,,OVERALL,Beginners' German I,,51,81.11764705899999,10.758526030999999,99.0,48.0,,,,,,,,10,11,9,11
 UBCV,2016,S,GERM,110,,921,Beginners' German II,Uma Kumar,16,74.3125,23.176766384,94.0,0.0,,,,,,,,,,,
+UBCV,2016,S,GERM,110,,OVERALL,Beginners' German II,,16,74.3125,23.176766384,94.0,0.0,,,,,,,,,,,
 UBCV,2016,S,GERM,112,,001,German for Singers,Gela Struch,12,82.5,10.518382178,94.0,62.0,,,,,,,,,,,6
+UBCV,2016,S,GERM,112,,OVERALL,German for Singers,,12,82.5,10.518382178,94.0,62.0,,,,,,,,,,,6
 UBCV,2016,S,GERM,200,,921,Intermediate German I,Sara Pashan,20,84.85,10.810691589000001,97.0,51.0,,,,,,,,,,5,8
+UBCV,2016,S,GERM,200,,OVERALL,Intermediate German I,,20,84.85,10.810691589000001,97.0,51.0,,,,,,,,,,5,8
 UBCV,2016,S,GERM,210,,921,Intermediate German II,Sara Pashan,14,78.642857143,11.049588525999999,92.0,60.0,,,,,,,,,,,
+UBCV,2016,S,GERM,210,,OVERALL,Intermediate German II,,14,78.642857143,11.049588525999999,92.0,60.0,,,,,,,,,,,
 UBCV,2016,S,GERM,433,,921,German for Reading Knowledge I,Adelheid O'Brien,52,79.73076923100001,9.581672425,97.0,55.0,,,,,,6,7,9,6,14,6
+UBCV,2016,S,GERM,433,,OVERALL,German for Reading Knowledge I,,52,79.73076923100001,9.581672425,97.0,55.0,,,,,,6,7,9,6,14,6

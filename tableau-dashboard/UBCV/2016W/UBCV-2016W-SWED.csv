@@ -1,7 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,SWED,100,,001,Elementary Swedish I,Lena Karlstrom,29,84.10344827600001,8.873495154,96.0,60.0,,,,,,,,,,7,11
-UBCV,2016,W,SWED,100,,002,Elementary Swedish I,Lena Karlstrom,28,84.285714286,9.050709581,97.0,61.0,,,,,,,,5,,,11
+UBCV,2016,W,SWED,100,,001,Elementary Swedish I,Lena Karlstrom,29,84.10344827600001,8.873495154,96.0,60.0,,,,,,,,3,,7,11
+UBCV,2016,W,SWED,100,,002,Elementary Swedish I,Lena Karlstrom,28,84.285714286,9.050709581,97.0,61.0,,,,,,,,5,,4,11
+UBCV,2016,W,SWED,100,,OVERALL,Elementary Swedish I,,57,84.19298245600001,8.881036371,97.0,60.0,,,,,,,,8,8,11,22
 UBCV,2016,W,SWED,110,,001,Elementary Swedish II,Lena Karlstrom,17,79.11764705899999,11.70407169,91.0,47.0,,,,,,,,,,5,
-UBCV,2016,W,SWED,110,,002,Elementary Swedish II,Lena Karlstrom,16,80.375,9.666954019,94.0,64.0,,,,,,,,,,,
+UBCV,2016,W,SWED,110,,002,Elementary Swedish II,Lena Karlstrom,16,80.375,9.666954019,94.0,64.0,,,,,,,,,,2,
+UBCV,2016,W,SWED,110,,OVERALL,Elementary Swedish II,,33,79.727272727,10.616239704,94.0,47.0,,,,,5,,,5,6,7,7
 UBCV,2016,W,SWED,200,,001,Intermediate Swedish I,Lena Karlstrom,16,84.8125,7.413669807000001,96.0,72.0,,,,,,,,,,,5
+UBCV,2016,W,SWED,200,,OVERALL,Intermediate Swedish I,,16,84.8125,7.413669807000001,96.0,72.0,,,,,,,,,,,5
 UBCV,2016,W,SWED,210,,001,Intermediate Swedish II,Lena Karlstrom,13,81.0,9.201449161000001,93.0,64.0,,,,,,,,,,,
+UBCV,2016,W,SWED,210,,OVERALL,Intermediate Swedish II,,13,81.0,9.201449161000001,93.0,64.0,,,,,,,,,,,

@@ -1,5 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,S,STAT,200,,921,Elementary Statistics for Applications,Abdullah Farouk;Adrian Jones;Boyi Hu;Gilberto Rodriguez-Arelis;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Melissa Lee;Shuai You;Xinyao Fan;Xixi Hu;Zhou Menglin,126,74.30952381,13.866485805,94.0,9.0,,,6,14,13,8,17,8,22,17,15
+UBCV,2018,S,STAT,200,,921,Elementary Statistics for Applications,Abdullah Farouk;Adrian Jones;Boyi Hu;Gilberto Alexi Rodriguez-Arelis;Gilberto Rodriguez-Arelis;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Melissa Lee;Shuai You;Xinyao Fan;Xixi Hu;Zhou Menglin,126,74.30952381,13.866485805,94.0,9.0,,,6,14,13,8,17,8,22,17,15
+UBCV,2018,S,STAT,200,,OVERALL,Elementary Statistics for Applications,,126,74.30952381,13.866485805,94.0,9.0,,,6,14,13,8,17,8,22,17,15
 UBCV,2018,S,STAT,241,,921,Introductory Probability and Statistics,Lasantha Wijendra Acharige,46,73.673913043,11.423279054000002,93.0,51.0,,,,,,,9,8,5,,5
-UBCV,2018,S,STAT,251,,921,Elementary Statistics,Gilberto Rodriguez-Arelis;Lasantha Wijendra Acharige;Ruowei Li;Sonja Surjanovic;Xiaomeng Ju;Xixi Hu;Yanchao Luo,192,72.671875,12.554035693,94.0,24.0,9,10,,11,19,23,32,20,33,23,8
-UBCV,2018,S,STAT,302,,921,Introduction to Probability,Adrian Jones;Cong Yuan;Hoi Yin Eugenia Yu;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Shahzoor Safdar;Xinyao Fan;Zhou Menglin,93,73.892473118,17.293792783,99.0,2.0,7,7,,7,6,6,9,6,12,11,18
+UBCV,2018,S,STAT,241,,OVERALL,Introductory Probability and Statistics,,46,73.673913043,11.423279054000002,93.0,51.0,,,,,,,9,8,5,,5
+UBCV,2018,S,STAT,251,,921,Elementary Statistics,Gilberto Alexi Rodriguez-Arelis;Gilberto Rodriguez-Arelis;Lasantha Wijendra Acharige;Ruowei Li;Sonja Surjanovic;Xiaomeng Ju;Xixi Hu;Yanchao Luo,192,72.671875,12.554035693,94.0,24.0,9,10,4.0,11,19,23,32,20,33,23,8
+UBCV,2018,S,STAT,251,,OVERALL,Elementary Statistics,,192,72.671875,12.554035693,94.0,24.0,9,10,4.0,11,19,23,32,20,33,23,8
+UBCV,2018,S,STAT,302,,921,Introduction to Probability,Adrian Jones;Cong Yuan;Hoi Yin Eugenia Yu;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Shahzoor Safdar;Xinyao Fan;Zhou Menglin,93,73.892473118,17.293792783,99.0,2.0,7,7,4.0,7,6,6,9,6,12,11,18
+UBCV,2018,S,STAT,302,,OVERALL,Introduction to Probability,,93,73.892473118,17.293792783,99.0,2.0,7,7,4.0,7,6,6,9,6,12,11,18

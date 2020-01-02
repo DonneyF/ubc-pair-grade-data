@@ -2,30 +2,44 @@ Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,S
 UBCV,2015,W,BAFI,500,,001,Introductory Finance,Murray Carlson,51,86.549019608,8.05807353,98.0,62.0,,,,,,,,,8,13,21
 UBCV,2015,W,BAFI,500,,002,Introductory Finance,Murray Carlson,49,87.346938776,8.954866042999999,99.0,65.0,,,,,,,,,7,10,23
 UBCV,2015,W,BAFI,500,,301,Introductory Finance,Ronald Giammarino;Tianyao Zhang,39,80.666666667,7.828199139,99.0,66.0,,,,,,,5,,11,6,7
-UBCV,2015,W,BAFI,500,,815,Introductory Finance,Ronald Giammarino;Tianyao Zhang,29,78.75862069,13.707805837999999,99.0,50.0,,,,,,,,6,,,10
+UBCV,2015,W,BAFI,500,,815,Introductory Finance,Ronald Giammarino;Tianyao Zhang,29,78.75862069,13.707805837999999,99.0,50.0,,,,,,,,6,,2,10
 UBCV,2015,W,BAFI,500,,MM1,Introductory Finance,Lulu Zeng,24,84.416666667,6.678431647999999,93.0,71.0,,,,,,,,,,7,8
+UBCV,2015,W,BAFI,500,,OVERALL,Introductory Finance,,192,84.114583333,9.660054081,99.0,50.0,,,,,9,6,17,18,30,38,69
 UBCV,2015,W,BAFI,502,,001,Advanced Corporate Finance,Hernan Ortiz Molina,32,82.28125,8.379061365,97.0,61.0,,,,,,,,9,5,6,8
-UBCV,2015,W,BAFI,502,,301,Advanced Corporate Finance,Hernan Ortiz Molina,13,81.384615385,5.8100267,92.0,73.0,,,,,,,,,5,,
+UBCV,2015,W,BAFI,502,,301,Advanced Corporate Finance,Hernan Ortiz Molina,13,81.384615385,5.8100267,92.0,73.0,,,,,,,,3,5,2,1
+UBCV,2015,W,BAFI,502,,OVERALL,Advanced Corporate Finance,,45,82.022222222,7.670749901000001,97.0,61.0,,,,,,,,12,10,8,9
 UBCV,2015,W,BAFI,503,,001,Topics in Corporate Finance,Lulu Zeng,11,83.0,12.767145335,96.0,53.0,,,,,,,,,,,5
-UBCV,2015,W,BAFI,503,,302,Topics in Corporate Finance,Lulu Zeng,6,86.5,7.687652438,93.0,72.0,,,,,,,,,,,
+UBCV,2015,W,BAFI,503,,302,Topics in Corporate Finance,Lulu Zeng,6,86.5,7.687652438,93.0,72.0,,,,,,,,,,,2
+UBCV,2015,W,BAFI,503,,OVERALL,Topics in Corporate Finance,,17,84.235294118,11.104781694000001,96.0,53.0,,,,,,,,,,,7
 UBCV,2015,W,BAFI,507,,001,Mergers and Acquisitions,Elena Pikulina,25,80.0,4.830458915,90.0,73.0,,,,,,,,9,6,6,
 UBCV,2015,W,BAFI,507,,002,Mergers and Acquisitions,Elena Pikulina,31,81.225806452,4.751909633,90.0,74.0,,,,,,,,9,10,8,
-UBCV,2015,W,BAFI,507,,302,Mergers and Acquisitions,Elena Pikulina,14,81.357142857,3.754118617,87.0,73.0,,,,,,,,,7,5,
-UBCV,2015,W,BAFI,511,,001,Investment Theory and Asset Pricing,Jan Bena,20,83.0,10.052493799,93.0,51.0,,,,,,,,,,10,
-UBCV,2015,W,BAFI,511,,301,Investment Theory and Asset Pricing,Jan Bena,26,79.153846154,10.705857491,92.0,60.0,,,,,,,,,5,,7
+UBCV,2015,W,BAFI,507,,302,Mergers and Acquisitions,Elena Pikulina,14,81.357142857,3.754118617,87.0,73.0,,,,,,,,1,7,5,
+UBCV,2015,W,BAFI,507,,OVERALL,Mergers and Acquisitions,,70,80.814285714,4.57875642,90.0,73.0,,,,,,,6,19,23,19,
+UBCV,2015,W,BAFI,511,,001,Investment Theory and Asset Pricing,Jan Bena,20,83.0,10.052493799,93.0,51.0,,,,,,,,,2,10,4
+UBCV,2015,W,BAFI,511,,301,Investment Theory and Asset Pricing,Jan Bena,26,79.153846154,10.705857491,92.0,60.0,,,,,,,,,5,4,7
 UBCV,2015,W,BAFI,511,,814,Investment Theory and Asset Pricing,Ali Lazrak;Bingxu Fang;Tianyao Zhang,29,81.413793103,8.550343524,94.0,56.0,,,,,,,5,,7,6,6
 UBCV,2015,W,BAFI,511,,MM1,Investment Theory and Asset Pricing,Lorenzo Garlappi;Ting Xu,24,85.0,6.76307108,94.0,68.0,,,,,,,,,5,9,7
+UBCV,2015,W,BAFI,511,,OVERALL,Investment Theory and Asset Pricing,,99,82.01010101,9.225624197,94.0,51.0,,,,,,7,8,6,19,29,24
 UBCV,2015,W,BAFI,513,,001,Risk Management,R Glen Donaldson,25,84.44,4.042276586,92.0,80.0,,,,,,,,,15,5,5
-UBCV,2015,W,BAFI,513,,302,Risk Management,R Glen Donaldson,9,83.111111111,7.2014659,92.0,70.0,,,,,,,,,,,
+UBCV,2015,W,BAFI,513,,302,Risk Management,R Glen Donaldson,9,83.111111111,7.2014659,92.0,70.0,,,,,,,,,2,2,2
+UBCV,2015,W,BAFI,513,,OVERALL,Risk Management,,34,84.088235294,4.980979866,92.0,70.0,,,,,,,,,17,7,7
 UBCV,2015,W,BAFI,516,,001,Financial Engineering,R Glen Donaldson,7,87.714285714,1.799470822,90.0,86.0,,,,,,,,,,5,
+UBCV,2015,W,BAFI,516,,OVERALL,Financial Engineering,,7,87.714285714,1.799470822,90.0,86.0,,,,,,,,,,5,
 UBCV,2015,W,BAFI,520,,001,Empirical Finance,Jan Bena,21,84.19047619,5.582284905,95.0,73.0,,,,,,,,,6,7,
-UBCV,2015,W,BAFI,520,,301,Empirical Finance,Jan Bena,14,80.642857143,6.523415137000001,88.0,64.0,,,,,,,,,,5,
+UBCV,2015,W,BAFI,520,,301,Empirical Finance,Jan Bena,14,80.642857143,6.523415137000001,88.0,64.0,,,,,,,,,4,5,
+UBCV,2015,W,BAFI,520,,OVERALL,Empirical Finance,,35,82.771428571,6.140922111,95.0,64.0,,,,,,,,6,10,12,
 UBCV,2015,W,BAFI,530,,001,International Financial Environment,R Glen Donaldson,27,84.37037037,4.985734636,91.0,76.0,,,,,,,,,9,7,7
-UBCV,2015,W,BAFI,530,,302,International Financial Environment,Ali Lazrak,14,83.642857143,4.413391211,90.0,75.0,,,,,,,,,5,5,
+UBCV,2015,W,BAFI,530,,302,International Financial Environment,Ali Lazrak,14,83.642857143,4.413391211,90.0,75.0,,,,,,,,,5,5,2
+UBCV,2015,W,BAFI,530,,OVERALL,International Financial Environment,,41,84.12195122,4.754971724,91.0,75.0,,,,,,,,5,14,12,9
 UBCV,2015,W,BAFI,532,,001,International Financial Management,R Glen Donaldson,15,83.4,5.025648501,90.0,77.0,,,,,,,,,,,
+UBCV,2015,W,BAFI,532,,OVERALL,International Financial Management,,15,83.4,5.025648501,90.0,77.0,,,,,,,,,,,
 UBCV,2015,W,BAFI,541,,001,Principles of Finance,Kairong Xiao;Lorenzo Garlappi,26,84.76923076899999,5.1482633369999995,94.0,76.0,,,,,,,,,6,11,5
 UBCV,2015,W,BAFI,541,,002,Principles of Finance,Kairong Xiao;Lorenzo Garlappi,29,84.724137931,6.458087685,100.0,71.0,,,,,,,,,12,7,7
-UBCV,2015,W,BAFI,541,,301,Principles of Finance,Kairong Xiao;Lorenzo Garlappi,41,83.195121951,6.3569627660000005,100.0,69.0,,,,,,,,5,7,20,
+UBCV,2015,W,BAFI,541,,301,Principles of Finance,Kairong Xiao;Lorenzo Garlappi,41,83.195121951,6.3569627660000005,100.0,69.0,,,,,,,,5,7,20,4
+UBCV,2015,W,BAFI,541,,OVERALL,Principles of Finance,,96,84.083333333,6.072659465,100.0,69.0,,,,,,,,11,25,38,16
 UBCV,2015,W,BAFI,580,A,MM1,Special Topics in Finance,R Glen Donaldson,22,86.136363636,8.637104092000001,97.0,65.0,,,,,,,,,5,5,10
+UBCV,2015,W,BAFI,580,A,OVERALL,Special Topics in Finance,,22,86.136363636,8.637104092000001,97.0,65.0,,,,,,,,,5,5,10
 UBCV,2015,W,BAFI,580,B,001,Special Topics in Finance,Will Gornall,26,84.307692308,4.9215382210000005,90.0,70.0,,,,,,,,,8,11,
+UBCV,2015,W,BAFI,580,B,OVERALL,Special Topics in Finance,,26,84.307692308,4.9215382210000005,90.0,70.0,,,,,,,,,8,11,
 UBCV,2015,W,BAFI,580,C,001,Special Topics in Finance,Adlai Fisher,13,79.923076923,1.7541160390000001,83.0,77.0,,,,,,,,,10,,
+UBCV,2015,W,BAFI,580,C,OVERALL,Special Topics in Finance,,13,79.923076923,1.7541160390000001,83.0,77.0,,,,,,,,,10,,

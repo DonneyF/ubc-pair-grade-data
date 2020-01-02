@@ -1,26 +1,49 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,W,SOCI,111,,001,Introduction to Sociology I,Jasmeet Bahia;Peter Urmetzer,120,73.741666667,8.162731288,90.0,40.0,,,,,14,21,29,16,20,11,
+UBCO,2017,W,SOCI,111,,001,Introduction to Sociology I,Jasmeet Bahia;Peter Urmetzer,120,73.741666667,8.162731288,90.0,40.0,,3,1,3,14,21,29,16,20,11,
 UBCO,2017,W,SOCI,111,,002,Introduction to Sociology I,Jasmeet Bahia;Peter Urmetzer,181,70.546961326,10.085427008,90.0,17.0,,5,8,15,24,37,29,25,25,7,
-UBCO,2017,W,SOCI,111,,003,Introduction to Sociology I,Billie Franck;Craig Meadows;Ruochen Sun,189,68.312169312,17.51178661,93.0,0.0,20,6,11,9,7,23,31,29,38,11,
+UBCO,2017,W,SOCI,111,,003,Introduction to Sociology I,Billie Franck;Craig Meadows;Ruochen Sun,189,68.312169312,17.51178661,93.0,0.0,20,6,11,9,7,23,31,29,38,11,4.0
+UBCO,2017,W,SOCI,111,,OVERALL,Introduction to Sociology I,,490,70.467346939,13.265880829,93.0,0.0,25,14,20,27,45,81,89,70,83,29,7
 UBCO,2017,W,SOCI,121,,001,Introduction to Sociology II,Dilsora Komil-Burley;Jasmeet Bahia;Jasmin Hristov;Luis Aguiar,170,64.805882353,13.747209317000001,90.0,0.0,16,17,16,24,19,22,17,11,22,,
+UBCO,2017,W,SOCI,121,,OVERALL,Introduction to Sociology II,,170,64.805882353,13.747209317000001,90.0,0.0,16,17,16,24,19,22,17,11,22,,
 UBCO,2017,W,SOCI,209,,002,Foundations of Sociological Thought,Brigitte Le Normand;Craig Meadows;H V Bonar Buffam,57,66.122807018,20.843010284,93.0,0.0,8,,5,,6,,8,5,5,5,5
+UBCO,2017,W,SOCI,209,,OVERALL,Foundations of Sociological Thought,,57,66.122807018,20.843010284,93.0,0.0,8,,5,,6,,8,5,5,5,5
 UBCO,2017,W,SOCI,212,,001,Sociology of Race and Ethnicity,Luis Aguiar,23,75.043478261,7.283095376,85.0,57.0,,,,,,,,9,,,
+UBCO,2017,W,SOCI,212,,OVERALL,Sociology of Race and Ethnicity,,23,75.043478261,7.283095376,85.0,57.0,,,,,,,,9,,,
 UBCO,2017,W,SOCI,216,,001,Media and Society,Kanchan Sarker;Ruochen Sun,53,72.509433962,16.693645315,100.0,5.0,,,,5,,9,8,,7,,8
+UBCO,2017,W,SOCI,216,,OVERALL,Media and Society,,53,72.509433962,16.693645315,100.0,5.0,,,,5,,9,8,,7,,8
 UBCO,2017,W,SOCI,226,,001,"Work, Technology, and Social Change",Kanchan Sarker,24,74.5,20.746922244,100.0,0.0,,,,,,,,,,,6
+UBCO,2017,W,SOCI,226,,OVERALL,"Work, Technology, and Social Change",,24,74.5,20.746922244,100.0,0.0,,,,,,,,,,,6
 UBCO,2017,W,SOCI,249,,001,Crime and Society,Craig Meadows;H V Bonar Buffam;Megan Richards,69,74.144927536,13.721253761,93.0,15.0,,,6,,,,8,16,13,7,6
+UBCO,2017,W,SOCI,249,,OVERALL,Crime and Society,,69,74.144927536,13.721253761,93.0,15.0,,,6,,,,8,16,13,7,6
 UBCO,2017,W,SOCI,295,H,001,Current Topics in Sociology,H V Bonar Buffam,46,72.956521739,13.074073618,94.0,42.0,,,,,,6,7,7,10,,
+UBCO,2017,W,SOCI,295,H,OVERALL,Current Topics in Sociology,,46,72.956521739,13.074073618,94.0,42.0,,,,,,6,7,7,10,,
 UBCO,2017,W,SOCI,301,B,001,Sociology of Development,Kanchan Sarker;Laura Mudde,62,84.09677419399999,20.059509562,100.0,0.0,,,,,,,,5,10,10,28
+UBCO,2017,W,SOCI,301,B,OVERALL,Sociology of Development,,62,84.09677419399999,20.059509562,100.0,0.0,,,,,,,,5,10,10,28
 UBCO,2017,W,SOCI,305,,001,Sociology of Families,Michelle Walks,67,75.119402985,16.223367348,93.0,3.0,,,,,,5,8,6,17,10,8
+UBCO,2017,W,SOCI,305,,OVERALL,Sociology of Families,,67,75.119402985,16.223367348,93.0,3.0,,,,,,5,8,6,17,10,8
 UBCO,2017,W,SOCI,311,,201,Canadian Society,Jasmeet Bahia;Peter Urmetzer,66,73.439393939,15.072265705,90.0,2.0,,,,,,5,13,14,21,,
+UBCO,2017,W,SOCI,311,,OVERALL,Canadian Society,,66,73.439393939,15.072265705,90.0,2.0,,,,,,5,13,14,21,,
 UBCO,2017,W,SOCI,313,,001,Advanced Studies in Sociology of Gender,Craig Meadows,44,75.681818182,15.040677755,94.0,0.0,,,,,,,6,8,7,8,
+UBCO,2017,W,SOCI,313,,OVERALL,Advanced Studies in Sociology of Gender,,44,75.681818182,15.040677755,94.0,0.0,,,,,,,6,8,7,8,
 UBCO,2017,W,SOCI,362,B,001,Social Inequality,Charles Rasi;Laura Mudde,60,81.133333333,12.696545195,94.0,11.0,,,,,,,5,6,13,14,15
+UBCO,2017,W,SOCI,362,B,OVERALL,Social Inequality,,60,81.133333333,12.696545195,94.0,11.0,,,,,,,5,6,13,14,15
 UBCO,2017,W,SOCI,376,,001,Classical Sociological Theory,Jasmin Hristov,18,75.555555556,9.249624617,88.0,55.0,,,,,,,,,,,
+UBCO,2017,W,SOCI,376,,OVERALL,Classical Sociological Theory,,18,75.555555556,9.249624617,88.0,55.0,,,,,,,,,,,
 UBCO,2017,W,SOCI,377,,001,Contemporary Sociological Theory,Craig Meadows,27,71.37037037,16.909597066,91.0,16.0,,,,,,,,,6,,
+UBCO,2017,W,SOCI,377,,OVERALL,Contemporary Sociological Theory,,27,71.37037037,16.909597066,91.0,16.0,,,,,,,,,6,,
 UBCO,2017,W,SOCI,395,,201,Sociological Methods: Qualitative Research,Luis Aguiar,25,76.32,13.737782451,85.0,26.0,,,,,,,,9,9,,
+UBCO,2017,W,SOCI,395,,OVERALL,Sociological Methods: Qualitative Research,,25,76.32,13.737782451,85.0,26.0,,,,,,,,9,9,,
 UBCO,2017,W,SOCI,450,,001,Sociology of India,Kanchan Sarker,15,78.6,16.255987907999998,100.0,41.0,,,,,,,,,5,,
+UBCO,2017,W,SOCI,450,,OVERALL,Sociology of India,,15,78.6,16.255987907999998,100.0,41.0,,,,,,,,,5,,
 UBCO,2017,W,SOCI,456,,101,Sociology of Elites,Luis Aguiar,24,73.708333333,14.047989695999998,86.0,16.0,,,,,,,,7,7,,
+UBCO,2017,W,SOCI,456,,OVERALL,Sociology of Elites,,24,73.708333333,14.047989695999998,86.0,16.0,,,,,,,,7,7,,
 UBCO,2017,W,SOCI,463,A,001,Political Sociology,Kanchan Sarker,31,73.516129032,15.220317491,100.0,45.0,,,,6,,,,,,,8
+UBCO,2017,W,SOCI,463,A,OVERALL,Political Sociology,,31,73.516129032,15.220317491,100.0,45.0,,,,6,,,,,,,8
 UBCO,2017,W,SOCI,467,A,001,Social Movements,Kanchan Sarker,27,77.407407407,24.637774717,100.0,0.0,,,,,,,,,,,11
+UBCO,2017,W,SOCI,467,A,OVERALL,Social Movements,,27,77.407407407,24.637774717,100.0,0.0,,,,,,,,,,,11
 UBCO,2017,W,SOCI,496,L,001,Advanced Studies in Sociology,Jasmin Hristov,21,78.0,5.366563146,87.0,66.0,,,,,,,5,5,7,,
+UBCO,2017,W,SOCI,496,L,OVERALL,Advanced Studies in Sociology,,21,78.0,5.366563146,87.0,66.0,,,,,,,5,5,7,,
 UBCO,2017,W,SOCI,496,N,001,Advanced Studies in Sociology,Matt Husain;Matt M Husain,40,89.275,4.076118692,96.0,75.0,,,,,,,,,,17,20
+UBCO,2017,W,SOCI,496,N,OVERALL,Advanced Studies in Sociology,,40,89.275,4.076118692,96.0,75.0,,,,,,,,,,17,20
 UBCO,2017,W,SOCI,496,R,001,Advanced Studies in Sociology,Craig Meadows,26,83.23076923100001,7.8552285379999995,94.0,67.0,,,,,,,,,6,6,7
+UBCO,2017,W,SOCI,496,R,OVERALL,Advanced Studies in Sociology,,26,83.23076923100001,7.8552285379999995,94.0,67.0,,,,,,,,,6,6,7

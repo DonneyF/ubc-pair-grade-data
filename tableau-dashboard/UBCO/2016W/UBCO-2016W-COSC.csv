@@ -1,25 +1,49 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2016,W,COSC,101,,001,Digital Citizenship,Ashley Segert;Bowen Hui;Shanika Rajapakshe,74,72.040540541,22.730366623000002,96.0,0.0,11,,,,,5,5,10,6,14,14
-UBCO,2016,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Aurey Harris;Cameron Chong;David Rowswell;Herraj Luhano;Nicholas Vosburgh;Sharon Hanna;Thomas Reid;Zach Dupont;Zackery Dupont,191,68.162303665,21.778788399,100.0,1.0,52,,5,8,9,13,19,12,15,18,37
-UBCO,2016,W,COSC,111,,101,Computer Programming I,Bowen Hui;Cameron Chong;Levi Miller,70,72.271428571,24.221754163000004,100.0,0.0,19,,,,,,6,5,7,6,22
+UBCO,2016,W,COSC,101,,OVERALL,Digital Citizenship,,74,72.040540541,22.730366623000002,96.0,0.0,11,,,,,5,5,10,6,14,14
+UBCO,2016,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Aurey Harris;Cameron Chong;David Rowswell;Herraj Luhano;Nicholas Vosburgh;Sharon Hanna;Thomas Reid;Zach Dupont;Zackery Dupont,191,68.162303665,21.778788399,100.0,1.0,52,3.0,5,8,9,13,19,12,15,18,37
+UBCO,2016,W,COSC,111,,101,Computer Programming I,Bowen Hui;Cameron Chong;Levi Miller,70,72.271428571,24.221754163000004,100.0,0.0,19,0.0,0,2,1,2,6,5,7,6,22
+UBCO,2016,W,COSC,111,,OVERALL,Computer Programming I,,261,69.264367816,22.486471028,100.0,0.0,71,3.0,5,10,10,15,25,17,22,24,59
 UBCO,2016,W,COSC,114,,001,Vector Graphics and Animations,David Rowswell;Jeff Bulmer;Miles Thorogood,48,65.375,24.703884611,98.0,0.0,10,,,5,,5,,,11,,
-UBCO,2016,W,COSC,121,,001,Computer Programming II,Abdallah Mohamed;Aurey Harris;Jeff Bulmer;Mahdi Aziz;Norbert Eke;Robert Hill;Thomas Reid,136,63.632352941,23.959165516,100.0,0.0,41,,9,9,7,12,7,7,6,8,26
+UBCO,2016,W,COSC,114,,OVERALL,Vector Graphics and Animations,,48,65.375,24.703884611,98.0,0.0,10,,,5,,5,,,11,,
+UBCO,2016,W,COSC,121,,001,Computer Programming II,Abdallah Mohamed;Aurey Harris;Jeff Bulmer;Mahdi Aziz;Norbert Eke;Robert Hill;Thomas Reid,136,63.632352941,23.959165516,100.0,0.0,41,4.0,9,9,7,12,7,7,6,8,26
+UBCO,2016,W,COSC,121,,OVERALL,Computer Programming II,,136,63.632352941,23.959165516,100.0,0.0,41,4.0,9,9,7,12,7,7,6,8,26
 UBCO,2016,W,COSC,122,,001,Computer Fluency,Abdallah Mohamed;Ashley Segert;David Rowswell;Herraj Luhano;Ryan Mcqueen,114,78.771929825,16.327963466,100.0,7.0,9,,,,,7,9,9,22,17,30
+UBCO,2016,W,COSC,122,,OVERALL,Computer Fluency,,114,78.771929825,16.327963466,100.0,7.0,9,,,,,7,9,9,22,17,30
 UBCO,2016,W,COSC,123,,001,Computer Creativity,Abdallah Mohamed;David Rowswell;Robert Hill;Zackery Dupont,53,76.320754717,21.614430351,100.0,0.0,6,,,,,,5,6,,6,18
+UBCO,2016,W,COSC,123,,OVERALL,Computer Creativity,,53,76.320754717,21.614430351,100.0,0.0,6,,,,,,5,6,,6,18
 UBCO,2016,W,COSC,150,,001,Physical Computing,Levi Miller;Miles Thorogood;Norbert Eke,26,74.923076923,15.717310398,93.0,33.0,,,,,,,,,,,5
+UBCO,2016,W,COSC,150,,OVERALL,Physical Computing,,26,74.923076923,15.717310398,93.0,33.0,,,,,,,,,,,5
 UBCO,2016,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Congsong Zhang;Levi Miller;Norbert Eke,66,66.818181818,18.41814247,99.0,5.0,8,,8,6,,6,7,8,5,5,6
+UBCO,2016,W,COSC,211,,OVERALL,Machine Architecture,,66,66.818181818,18.41814247,99.0,5.0,8,,8,6,,6,7,8,5,5,6
 UBCO,2016,W,COSC,221,,001,Introduction to Discrete Structures,Levi Miller;Norbert Eke;Yong Gao,86,72.465116279,15.856487019000001,99.0,0.0,,,9,9,9,14,7,,9,7,14
+UBCO,2016,W,COSC,221,,OVERALL,Introduction to Discrete Structures,,86,72.465116279,15.856487019000001,99.0,0.0,,,9,9,9,14,7,,9,7,14
 UBCO,2016,W,COSC,222,,001,Data Structures,Anthony Culos;Deepak Kumar;Hui Ma;Mahdi Aziz;Yves Lucet;Zifang Jiang,78,78.435897436,12.704012807,95.0,42.0,7,,,,,,10,,25,19,8
+UBCO,2016,W,COSC,222,,OVERALL,Data Structures,,78,78.435897436,12.704012807,95.0,42.0,7,,,,,,10,,25,19,8
 UBCO,2016,W,COSC,303,,001,Numerical Analysis,Hui Ma;Shawn Wang,15,83.4,6.641858603999999,95.0,68.0,,,,,,,,,7,,
+UBCO,2016,W,COSC,303,,OVERALL,Numerical Analysis,,15,83.4,6.641858603999999,95.0,68.0,,,,,,,,,7,,
 UBCO,2016,W,COSC,304,,001,Introduction to Databases,Anthony Culos;Heath Caswell;Ramon Lawrence,85,75.705882353,13.152786713,99.0,1.0,,,,,,9,21,11,12,8,10
+UBCO,2016,W,COSC,304,,OVERALL,Introduction to Databases,,85,75.705882353,13.152786713,99.0,1.0,,,,,,9,21,11,12,8,10
 UBCO,2016,W,COSC,305,,001,Project Management,Scott Fazackerley;Tasnuva Haque,44,77.727272727,9.560976004,94.0,54.0,,,,,,,9,6,12,7,
+UBCO,2016,W,COSC,305,,OVERALL,Project Management,,44,77.727272727,9.560976004,94.0,54.0,,,,,,,9,6,12,7,
 UBCO,2016,W,COSC,310,,001,Software Engineering,James Yu;Mahdi Aziz;Ryan Mcqueen,69,73.202898551,11.902273275,97.0,40.0,5,,,,5,7,14,11,10,9,
+UBCO,2016,W,COSC,310,,OVERALL,Software Engineering,,69,73.202898551,11.902273275,97.0,40.0,5,,,,5,7,14,11,10,9,
 UBCO,2016,W,COSC,320,,001,Analysis of Algorithms,Dewan Wahid;Yong Gao,50,65.76,16.28892199,92.0,0.0,5,5,7,5,,5,6,,6,,
+UBCO,2016,W,COSC,320,,OVERALL,Analysis of Algorithms,,50,65.76,16.28892199,92.0,0.0,5,5,7,5,,5,6,,6,,
 UBCO,2016,W,COSC,322,,001,Introduction to Artificial Intelligence,Congsong Zhang;Yong Gao,41,76.170731707,9.002506426,97.0,58.0,,,,,,11,5,,9,5,
+UBCO,2016,W,COSC,322,,OVERALL,Introduction to Artificial Intelligence,,41,76.170731707,9.002506426,97.0,58.0,,,,,,11,5,,9,5,
 UBCO,2016,W,COSC,335,,001,Introduction to Medical Imaging and Imaging Informatics,Rasika Rajapakshe;Shanika Rajapakshe;Thor Bjarnason,6,77.166666667,14.190372323,93.0,56.0,,,,,,,,,,,
+UBCO,2016,W,COSC,335,,OVERALL,Introduction to Medical Imaging and Imaging Informatics,,6,77.166666667,14.190372323,93.0,56.0,,,,,,,,,,,
 UBCO,2016,W,COSC,341,,001,Human Computer Interaction,Ashley Segert;Jeff Bulmer;Jocelyn Smith,71,79.929577465,7.876409522,95.0,58.0,,,,,,,14,10,14,16,8
+UBCO,2016,W,COSC,341,,OVERALL,Human Computer Interaction,,71,79.929577465,7.876409522,95.0,58.0,,,,,,,14,10,14,16,8
 UBCO,2016,W,COSC,360,,001,Web Programming,Heath Caswell;Scott Fazackerley,67,70.776119403,19.009424214000003,95.0,13.0,7,,,5,,6,10,,11,6,10
+UBCO,2016,W,COSC,360,,OVERALL,Web Programming,,67,70.776119403,19.009424214000003,95.0,13.0,7,,,5,,6,10,,11,6,10
 UBCO,2016,W,COSC,419,C,001,Topics in Computer Science,Bowen Hui,28,81.392857143,18.117597922999998,100.0,44.0,,,,,,,,,,,12
+UBCO,2016,W,COSC,419,C,OVERALL,Topics in Computer Science,,28,81.392857143,18.117597922999998,100.0,44.0,,,,,,,,,,,12
 UBCO,2016,W,COSC,419,I,001,Topics in Computer Science,Anthony Culos;Kendra Cooper,47,89.212765957,5.956130091,100.0,75.0,,,,,,,,,13,13,20
+UBCO,2016,W,COSC,419,I,OVERALL,Topics in Computer Science,,47,89.212765957,5.956130091,100.0,75.0,,,,,,,,,13,13,20
 UBCO,2016,W,COSC,445,,001,Computer Vision,Abdallah Mohamed;Dewan Wahid,27,75.592592593,14.420229538,92.0,27.0,,,,,,,,6,8,,
+UBCO,2016,W,COSC,445,,OVERALL,Computer Vision,,27,75.592592593,14.420229538,92.0,27.0,,,,,,,,6,8,,
+UBCO,2016,W,COSC,448,A,OVERALL,Directed Studies in Computer Science,,8,82.875,11.051018053,95.0,60.0,,,,,,,,,,,
 UBCO,2016,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;Dewan Wahid,33,84.393939394,6.6188150089999995,95.0,69.0,,,,,,,,,11,8,8
+UBCO,2016,W,COSC,499,,OVERALL,Capstone Software Engineering Project,,33,84.393939394,6.6188150089999995,95.0,69.0,,,,,,,,,11,8,8

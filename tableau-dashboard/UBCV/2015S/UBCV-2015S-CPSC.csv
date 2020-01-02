@@ -1,11 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,S,CPSC,110,,911,"Computation, Programs, and Programming",Albert Xing;Anasazi Valair;Clara Chu;Curtis Hermanson;Eric Patterson;Erika Thompson;Fiona Ho;Hantao Mai;Irene Fang;Joanne Chen;John Paul Kee;Justin Wong;Ka Ying Wong;Ksenia Pinski;Madeleine Chercover;Ryan Wing Yin Koon;Shao-Tzu Chen;Shuang Xu;Stephen Kan;Steven Wolfman;Tae Yoon Harry Lee;Tae Yoon Lee;Tracey Lui;Wun Ting Imelda Suen;Wun Ting Suen;Xinzhe Dong;Yana Pertels;Yiqi Lin;Zongyi Ha,215,70.981395349,18.009333715,98.0,14.0,32,5,11,10,18,16,17,18,30,33,25
+UBCV,2015,S,CPSC,110,,911,"Computation, Programs, and Programming",Albert Xing;Anasazi Valair;Clara Chu;Curtis Hermanson;Eric Patterson;Erika Thompson;Fiona Ho;Hantao Mai;Irene Fang;Joanne Chen;John Paul Kee;Justin Wong;Ka Ying Wong;Ksenia Pinski;Madeleine Chercover;Ryan Wing Yin Koon;Shao-Tzu Chen;Shuang Xu;Stephen Kan;Steven Wolfman;Tae Yoon Lee;Tracey Lui;Wun Ting Suen;Xinzhe Dong;Yana Pertels;Yiqi Lin;Zongyi Ha,215,70.981395349,18.009333715,98.0,14.0,32,5,11,10,18,16,17,18,30,33,25
+UBCV,2015,S,CPSC,110,,OVERALL,"Computation, Programs, and Programming",,217,71.07373271899999,17.972306407,98.0,14.0,32,5,11,10,18,16,18,18,30,33,26
 UBCV,2015,S,CPSC,121,,911,Models of Computation,Albert Rothman;Allen Tsai;Alykhan Thobani;Anya Mcgee;Brandon Dong;Chung Chia Wu;Hoi Ling Tiffany Lam;Jessica Que;Kendra Cooper;Kristina Bukharova;Mohamed Ahmed;Oliver Zhang;Po Chien Bryant Cheng;Shihui Liang;Vaastav Anand;Yi Yang,104,74.961538462,12.295648513,96.0,45.0,9,,,,10,7,20,10,23,9,12
-UBCV,2015,S,CPSC,210,,921,Software Construction,Issam Hadj Laradji;Ming An Wu;Paul Martin Carter;Samuel Edward Creed;Shu Yang,159,75.446540881,16.156139954,100.0,15.0,14,,8,8,9,9,15,17,22,16,39
+UBCV,2015,S,CPSC,121,,OVERALL,Models of Computation,,104,74.961538462,12.295648513,96.0,45.0,9,,,,10,7,20,10,23,9,12
+UBCV,2015,S,CPSC,210,,921,Software Construction,Issam Hadj Laradji;Ming An Wu;Paul Martin Carter;Samuel Edward Creed;Shu Yang,159,75.446540881,16.156139954,100.0,15.0,14,2.0,8,8,9,9,15,17,22,16,39
+UBCV,2015,S,CPSC,210,,OVERALL,Software Construction,,159,75.446540881,16.156139954,100.0,15.0,14,2.0,8,8,9,9,15,17,22,16,39
 UBCV,2015,S,CPSC,213,,921,Introduction to Computer Systems,Alan Wagner;Jonatan Schroeder,114,72.21929824600001,13.302976427,98.0,36.0,12,,,7,9,11,16,18,18,9,10
+UBCV,2015,S,CPSC,213,,OVERALL,Introduction to Computer Systems,,114,72.21929824600001,13.302976427,98.0,36.0,12,,,7,9,11,16,18,18,9,10
 UBCV,2015,S,CPSC,221,,911,Basic Algorithms and Data Structures,Angad Kalra;Devon Graham;Henry Li;Issam Hadj Laradji;Jing Hei Jason Chan;Kaitlyn Melton;Kamil Khan;Kurt Eiselt;Mushfiqur Rouf;Sedigheh Zolaktaf;Shu Yang;Wei Luo;Zeinab Zolaktaf Zadeh,155,85.870967742,7.689349758,99.0,55.0,,,,,,5,7,7,39,33,61
+UBCV,2015,S,CPSC,221,,OVERALL,Basic Algorithms and Data Structures,,155,85.870967742,7.689349758,99.0,55.0,,,,,,5,7,7,39,33,61
 UBCV,2015,S,CPSC,304,,911,Introduction to Relational Databases,Hassan Khosravi;Lauren Fung;Minwoo Kim;Nam Giang;Reza Babanezhad Harikande;Sampoorna Biswas;Shuoshi Sun,103,76.67961165,11.840619347,97.0,45.0,,,6,,6,6,11,13,21,22,9
+UBCV,2015,S,CPSC,304,,OVERALL,Introduction to Relational Databases,,103,76.67961165,11.840619347,97.0,45.0,,,6,,6,6,11,13,21,22,9
 UBCV,2015,S,CPSC,310,,921,Introduction to Software Engineering,Ben Zhu;Elisa Baniassad;Giovanni Viviani;Kieran Collery;Nowrin Anwar Joyita,110,82.6,10.72611492,99.0,9.0,,,,,5,,10,9,19,31,31
+UBCV,2015,S,CPSC,310,,OVERALL,Introduction to Software Engineering,,110,82.6,10.72611492,99.0,9.0,,,,,5,,10,9,19,31,31
 UBCV,2015,S,CPSC,313,,911,Computer Hardware and Operating Systems,Ahmad Mehri;Behrooz Sepehry;Luke Zhang;Michael Feeley,67,76.328358209,13.104923964000001,95.0,29.0,,,,,6,5,,9,16,13,5
+UBCV,2015,S,CPSC,313,,OVERALL,Computer Hardware and Operating Systems,,67,76.328358209,13.104923964000001,95.0,29.0,,,,,6,5,,9,16,13,5
 UBCV,2015,S,CPSC,320,,911,Intermediate Algorithm Design and Analysis,Alireza Shafaei;Michael Philip Wathen;Michael Wathen;Nicholas Harvey;Samuel Edward Creed;Shiwen He;Sikander Randhawa;Sikander Singh Randhawa,104,77.826923077,12.028640827,100.0,42.0,,,6,,7,10,16,10,17,12,20
+UBCV,2015,S,CPSC,320,,OVERALL,Intermediate Algorithm Design and Analysis,,104,77.826923077,12.028640827,100.0,42.0,,,6,,7,10,16,10,17,12,20
 UBCV,2015,S,CPSC,448,C,922,Directed Studies in Computer Science,,6,89.0,2.828427125,92.0,85.0,,,,,,,,,,,
+UBCV,2015,S,CPSC,448,C,OVERALL,Directed Studies in Computer Science,,6,89.0,2.828427125,92.0,85.0,,,,,,,,,,,

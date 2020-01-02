@@ -1,17 +1,28 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,S,PHIL,101,,001,Introduction to Philosophy,Bruno Guindon;Yu Shing Chan,49,73.387755102,13.651642645999999,85.0,12.0,,,,,,9,5,11,15,,
-UBCV,2017,S,PHIL,101,,002,Introduction to Philosophy,Jasper Heaton,20,77.05,17.7837152,97.0,15.0,,,,,,,,,5,,
+UBCV,2017,S,PHIL,101,,002,Introduction to Philosophy,Jasper Heaton,20,77.05,17.7837152,97.0,15.0,,,,,,2,2,2,5,,
+UBCV,2017,S,PHIL,101,,OVERALL,Introduction to Philosophy,,69,74.449275362,14.923861895999998,97.0,12.0,,,,,,11,7,13,20,5,
 UBCV,2017,S,PHIL,102,,001,Introduction to Philosophy II,Garson Leder;Garson Titeff Leder,46,82.043478261,7.910489581,92.0,58.0,,,,,,,,5,9,21,
-UBCV,2017,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev,46,69.586956522,17.398053642,92.0,0.0,,,,5,,9,,8,6,,
-UBCV,2017,S,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Kinley Gillette,57,78.175438596,16.686310479,98.0,0.0,,,,,,,10,6,5,12,12
-UBCV,2017,S,PHIL,220,,98A,Symbolic Logic,Leslie Burkholder;Sina Fazelpour,135,76.67407407399999,20.367822745999998,97.0,0.0,10,7,,9,,9,,13,12,21,44
+UBCV,2017,S,PHIL,102,,OVERALL,Introduction to Philosophy II,,46,82.043478261,7.910489581,92.0,58.0,,,,,,,,5,9,21,
+UBCV,2017,S,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Kinley Gillette,57,78.175438596,16.686310479,98.0,0.0,,,,1,,3,10,6,5,12,12
+UBCV,2017,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev,46,69.586956522,17.398053642,92.0,0.0,,,,5,,9,2,8,6,2,4
+UBCV,2017,S,PHIL,120,,OVERALL,Introduction to Critical Thinking,,103,74.339805825,17.458945344,98.0,0.0,5,,,6,5,12,12,14,11,14,16
 UBCV,2017,S,PHIL,220,,001,Symbolic Logic,Bruno Guindon;Serban Dragulin,67,75.343283582,16.323948051,100.0,13.0,,,,6,6,6,6,,10,9,12
 UBCV,2017,S,PHIL,220,,002,Symbolic Logic,Servaas Van Der Berg,61,81.278688525,11.948683535999999,99.0,38.0,,,,,,,6,5,13,14,15
+UBCV,2017,S,PHIL,220,,98A,Symbolic Logic,Leslie Burkholder;Sina Fazelpour,135,76.67407407399999,20.367822745999998,97.0,0.0,10,7,,9,,9,,13,12,21,44
+UBCV,2017,S,PHIL,220,,OVERALL,Symbolic Logic,,263,77.403041825,17.800342818,100.0,0.0,15,10,7,16,12,15,16,22,35,44,71
 UBCV,2017,S,PHIL,220,A,GIS,Symbolic Logic,Leslie Burkholder,8,67.625,29.437281998000003,98.0,0.0,,,,,,,,,,,
+UBCV,2017,S,PHIL,220,A,OVERALL,Symbolic Logic,,8,67.625,29.437281998000003,98.0,0.0,,,,,,,,,,,
 UBCV,2017,S,PHIL,230,,901,Introduction to Ethics,Doran Smolkin;Matthew Cleveland Smithdeal;Matthew Smithdeal,53,72.77358490600001,8.990682162999999,88.0,51.0,,,,,8,10,7,,11,6,
+UBCV,2017,S,PHIL,230,,OVERALL,Introduction to Ethics,,53,72.77358490600001,8.990682162999999,88.0,51.0,,,,,8,10,7,,11,6,
 UBCV,2017,S,PHIL,331,,98A,Business and Professional Ethics,Rana Ahmad,50,74.54,8.244255885,87.0,52.0,,,,5,,6,14,5,10,7,
-UBCV,2017,S,PHIL,333,,98A,Bio-Medical Ethics,Doran Smolkin,47,68.425531915,16.183384771,89.0,0.0,,,,7,7,5,7,7,5,,
-UBCV,2017,S,PHIL,333,,001,Bio-Medical Ethics,Doran Smolkin;Sophia Sideris,61,72.704918033,8.141138869,87.0,55.0,,,5,,8,11,8,11,10,5,
+UBCV,2017,S,PHIL,331,,OVERALL,Business and Professional Ethics,,50,74.54,8.244255885,87.0,52.0,,,,5,,6,14,5,10,7,
+UBCV,2017,S,PHIL,333,,001,Bio-Medical Ethics,Doran Smolkin;Sophia Sideris,61,72.704918033,8.141138869,87.0,55.0,,,5,3,8,11,8,11,10,5,
+UBCV,2017,S,PHIL,333,,98A,Bio-Medical Ethics,Doran Smolkin,47,68.425531915,16.183384771,89.0,0.0,,,1,7,7,5,7,7,5,4,
+UBCV,2017,S,PHIL,333,,OVERALL,Bio-Medical Ethics,,108,70.842592593,12.421839403,89.0,0.0,,,6,10,15,16,15,18,15,9,
 UBCV,2017,S,PHIL,338,,001,Philosophy of Law,Bianca Crewe;Thomas Jacob Bittner,63,74.095238095,8.811126188,85.0,33.0,,,,,,5,18,16,14,,
+UBCV,2017,S,PHIL,338,,OVERALL,Philosophy of Law,,63,74.095238095,8.811126188,85.0,33.0,,,,,,5,18,16,14,,
 UBCV,2017,S,PHIL,375,,001,Philosophy and Literature,Matthew Kinakin;Stefan Lukits,63,76.523809524,10.759627560999999,93.0,42.0,,,,,,6,8,10,11,16,
+UBCV,2017,S,PHIL,375,,OVERALL,Philosophy and Literature,,63,76.523809524,10.759627560999999,93.0,42.0,,,,,,6,8,10,11,16,
 UBCV,2017,S,PHIL,536,A,001,Ethical Issues in Public Policy,Sylvia Berryman,7,85.285714286,1.380131119,87.0,84.0,,,,,,,,,,,
+UBCV,2017,S,PHIL,536,A,OVERALL,Ethical Issues in Public Policy,,7,85.285714286,1.380131119,87.0,84.0,,,,,,,,,,,

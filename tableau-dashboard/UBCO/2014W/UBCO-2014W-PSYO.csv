@@ -3,50 +3,98 @@ UBCO,2014,W,PSYO,111,,001,Introduction to Psychology: Basic Processes,Mark Holde
 UBCO,2014,W,PSYO,111,,002,Introduction to Psychology: Basic Processes,Mark Holder,245,70.032653061,17.003584335,96.0,0.0,20,11,16,17,26,28,27,22,34,23,21
 UBCO,2014,W,PSYO,111,,004,Introduction to Psychology: Basic Processes,Maya Libben,274,72.886861314,14.804896317,98.0,0.0,15,12,18,24,19,30,33,21,33,39,30
 UBCO,2014,W,PSYO,111,,101,Introduction to Psychology: Basic Processes,Holli-Anne Passmore;Janice Snyder;Marina Le,191,66.623036649,17.64576267,99.0,0.0,23,6,21,16,21,21,10,18,30,17,8
-UBCO,2014,W,PSYO,111,,103,Introduction to Psychology: Basic Processes,Paul Gabias,93,66.075268817,18.91010574,98.0,0.0,15,,6,14,10,8,6,7,7,7,9
-UBCO,2014,W,PSYO,121,,001,Introduction to Psychology: Personal Functioning,Susan Holtzman,157,70.152866242,12.253814479,97.0,20.0,,13,14,12,21,22,22,17,18,,12
+UBCO,2014,W,PSYO,111,,103,Introduction to Psychology: Basic Processes,Paul Gabias,93,66.075268817,18.91010574,98.0,0.0,15,4.0,6,14,10,8,6,7,7,7,9
+UBCO,2014,W,PSYO,111,,OVERALL,Introduction to Psychology: Basic Processes,,1095,68.95890411,16.391272444000002,99.0,0.0,104,49,89,96,112,129,107,95,132,103,79
+UBCO,2014,W,PSYO,121,,001,Introduction to Psychology: Personal Functioning,Susan Holtzman,157,70.152866242,12.253814479,97.0,20.0,3.0,13,14,12,21,22,22,17,18,3,12
 UBCO,2014,W,PSYO,121,,101,Introduction to Psychology: Personal Functioning,Diana Lisi;Kara Kristen Turcotte;Kara Turcotte;Susan Holtzman;Tara Carpenter,240,71.69166666699999,13.860510012,97.0,15.0,10,11,25,24,29,26,17,24,17,32,25
-UBCO,2014,W,PSYO,121,,102,Introduction to Psychology: Personal Functioning,Carmela White;Drew Declerck;Lisa Crossley;Paul Davies,297,70.205387205,11.378095269000001,92.0,0.0,,15,29,30,36,45,37,39,35,21,6
-UBCO,2014,W,PSYO,121,,103,Introduction to Psychology: Personal Functioning,Damian Leitner;Linda Hatt,65,67.09230769199999,15.009083788,92.0,33.0,8,6,,9,8,7,,,8,6,
-UBCO,2014,W,PSYO,219,,001,Introduction to Cognition,Janice Snyder,161,72.130434783,13.187176742,98.0,17.0,,12,10,17,12,19,17,10,30,16,14
-UBCO,2014,W,PSYO,220,,101,Lifespan Development,Alysha Baker;Pamela Black;Tara Carpenter,199,74.71356783899999,11.955446197,97.0,18.0,,7,8,13,15,28,21,26,33,25,19
-UBCO,2014,W,PSYO,230,,101,Biopsychology of Behaviour,Crystal Lea Mundy;Crystal Mundy;Danica Patton;Jennifer Kluftinger;Jennifer Upshaw,181,77.895027624,13.682715277,97.0,0.0,5,,8,5,13,16,17,18,30,38,29
-UBCO,2014,W,PSYO,241,,001,Personality,Linda Hatt,225,66.142222222,12.33850117,93.0,0.0,18,20,25,33,20,20,34,23,23,7,
+UBCO,2014,W,PSYO,121,,102,Introduction to Psychology: Personal Functioning,Carmela White;Drew Declerck;Lisa Crossley;Paul Davies,297,70.205387205,11.378095269000001,92.0,0.0,4.0,15,29,30,36,45,37,39,35,21,6
+UBCO,2014,W,PSYO,121,,103,Introduction to Psychology: Personal Functioning,Damian Leitner;Linda Hatt,65,67.09230769199999,15.009083788,92.0,33.0,8,6,2,9,8,7,4,4,8,6,3
+UBCO,2014,W,PSYO,121,,OVERALL,Introduction to Psychology: Personal Functioning,,759,70.397891963,12.749351302,97.0,0.0,25,45,70,75,94,100,80,84,78,62,46
+UBCO,2014,W,PSYO,219,,001,Introduction to Cognition,Janice Snyder,161,72.130434783,13.187176742,98.0,17.0,4.0,12,10,17,12,19,17,10,30,16,14
+UBCO,2014,W,PSYO,219,,OVERALL,Introduction to Cognition,,161,72.130434783,13.187176742,98.0,17.0,4.0,12,10,17,12,19,17,10,30,16,14
+UBCO,2014,W,PSYO,220,,101,Lifespan Development,Alysha Baker;Pamela Black;Tara Carpenter,199,74.71356783899999,11.955446197,97.0,18.0,4.0,7,8,13,15,28,21,26,33,25,19
+UBCO,2014,W,PSYO,220,,OVERALL,Lifespan Development,,199,74.71356783899999,11.955446197,97.0,18.0,4.0,7,8,13,15,28,21,26,33,25,19
+UBCO,2014,W,PSYO,230,,101,Biopsychology of Behaviour,Crystal Lea Mundy;Crystal Mundy;Danica Patton;Jennifer Kluftinger;Jennifer Upshaw,181,77.895027624,13.682715277,97.0,0.0,5,2.0,8,5,13,16,17,18,30,38,29
+UBCO,2014,W,PSYO,230,,OVERALL,Biopsychology of Behaviour,,181,77.895027624,13.682715277,97.0,0.0,5,2.0,8,5,13,16,17,18,30,38,29
+UBCO,2014,W,PSYO,241,,001,Personality,Linda Hatt,225,66.142222222,12.33850117,93.0,0.0,18,20,25,33,20,20,34,23,23,7,2.0
+UBCO,2014,W,PSYO,241,,OVERALL,Personality,,225,66.142222222,12.33850117,93.0,0.0,18,20,25,33,20,20,34,23,23,7,2.0
 UBCO,2014,W,PSYO,252,,101,Introduction to Social Psychology,Alysha Baker;Marina Le;Paul Davies;Shirley Hutchinson,295,74.088135593,11.577556942000001,95.0,14.0,8,5,12,24,28,34,41,41,51,26,25
+UBCO,2014,W,PSYO,252,,OVERALL,Introduction to Social Psychology,,295,74.088135593,11.577556942000001,95.0,14.0,8,5,12,24,28,34,41,41,51,26,25
 UBCO,2014,W,PSYO,270,,001,Introduction to Research Methods and Design,Jan Cioe,213,73.126760563,14.614476130999998,97.0,1.0,11,16,11,9,13,24,24,17,41,23,24
+UBCO,2014,W,PSYO,270,,OVERALL,Introduction to Research Methods and Design,,213,73.126760563,14.614476130999998,97.0,1.0,11,16,11,9,13,24,24,17,41,23,24
 UBCO,2014,W,PSYO,271,,101,Introduction to Data Analysis,Alexa Rempel;Alison Tracy;Clara-Marie Burdett;Curt More;Dakota Broadfoot;Jan Cioe;Ran Wei,231,66.675324675,22.556465316999997,99.0,1.0,42,11,22,14,11,15,23,7,26,26,34
+UBCO,2014,W,PSYO,271,,OVERALL,Introduction to Data Analysis,,231,66.675324675,22.556465316999997,99.0,1.0,42,11,22,14,11,15,23,7,26,26,34
 UBCO,2014,W,PSYO,310,,001,Learning,Marvin Krank,121,77.09917355399999,10.322632867000001,99.0,41.0,,,5,6,8,13,18,15,24,18,12
+UBCO,2014,W,PSYO,310,,OVERALL,Learning,,121,77.09917355399999,10.322632867000001,99.0,41.0,,,5,6,8,13,18,15,24,18,12
 UBCO,2014,W,PSYO,314,,001,Non-Visual Perception,Paul Gabias,94,69.744680851,16.479988628,99.0,23.0,11,,9,10,6,11,5,,15,12,8
+UBCO,2014,W,PSYO,314,,OVERALL,Non-Visual Perception,,94,69.744680851,16.479988628,99.0,23.0,11,,9,10,6,11,5,,15,12,8
 UBCO,2014,W,PSYO,315,,001,Psychology of Touch I,Paul Gabias,99,70.626262626,14.065144252,97.0,35.0,8,7,7,10,9,7,11,13,7,9,11
+UBCO,2014,W,PSYO,315,,OVERALL,Psychology of Touch I,,99,70.626262626,14.065144252,97.0,35.0,8,7,7,10,9,7,11,13,7,9,11
 UBCO,2014,W,PSYO,316,,001,Psychology of Touch II,Paul Gabias,30,70.966666667,15.729356111,94.0,44.0,,,,,,,,,,,6
+UBCO,2014,W,PSYO,316,,OVERALL,Psychology of Touch II,,30,70.966666667,15.729356111,94.0,44.0,,,,,,,,,,,6
 UBCO,2014,W,PSYO,321,,001,Child Development,Linda Allan,119,72.352941176,14.764586717,99.0,20.0,6,10,5,10,12,9,10,10,18,13,16
+UBCO,2014,W,PSYO,321,,OVERALL,Child Development,,119,72.352941176,14.764586717,99.0,20.0,6,10,5,10,12,9,10,10,18,13,16
 UBCO,2014,W,PSYO,323,,101,Adult Development and Aging,Linda Allan,98,72.448979592,12.557597158,94.0,40.0,,5,,10,11,6,13,13,13,9,11
+UBCO,2014,W,PSYO,323,,OVERALL,Adult Development and Aging,,98,72.448979592,12.557597158,94.0,40.0,,5,,10,11,6,13,13,13,9,11
 UBCO,2014,W,PSYO,334,,101,Neuroscience of Cognition,Harry Miller;Jennifer Kluftinger;Jennifer Upshaw,99,66.929292929,12.40823667,98.0,37.0,,11,15,13,11,17,7,,8,5,5
-UBCO,2014,W,PSYO,335,,001,Drugs and Behaviour,Christopher Carroll;Crystal Lea Mundy;Crystal Mundy;Marvin Krank,228,74.38596491199999,11.878614235999999,99.0,0.0,,6,9,20,22,29,26,38,35,24,17
+UBCO,2014,W,PSYO,334,,OVERALL,Neuroscience of Cognition,,99,66.929292929,12.40823667,98.0,37.0,,11,15,13,11,17,7,,8,5,5
+UBCO,2014,W,PSYO,335,,001,Drugs and Behaviour,Christopher Carroll;Crystal Lea Mundy;Crystal Mundy;Marvin Krank,228,74.38596491199999,11.878614235999999,99.0,0.0,2.0,6,9,20,22,29,26,38,35,24,17
+UBCO,2014,W,PSYO,335,,OVERALL,Drugs and Behaviour,,228,74.38596491199999,11.878614235999999,99.0,0.0,2.0,6,9,20,22,29,26,38,35,24,17
 UBCO,2014,W,PSYO,343,,001,Psychopathology I,Carolyn Szostak,119,78.27731092399999,11.276136772000001,95.0,18.0,,,,5,,9,17,20,24,17,18
+UBCO,2014,W,PSYO,343,,OVERALL,Psychopathology I,,119,78.27731092399999,11.276136772000001,95.0,18.0,,,,5,,9,17,20,24,17,18
 UBCO,2014,W,PSYO,344,,001,Psychopathology II,Carmela White;Carolyn Szostak;Kimberley A Crosby;Kimberley Crosby,70,76.257142857,9.705348465,94.0,50.0,,,,,6,13,7,9,14,8,7
+UBCO,2014,W,PSYO,344,,OVERALL,Psychopathology II,,70,76.257142857,9.705348465,94.0,50.0,,,,,6,13,7,9,14,8,7
 UBCO,2014,W,PSYO,346,,001,Abnormal Child Psychology,Andrea Klassen;Drew Declerck;Megan Udala,116,72.275862069,10.724686035,93.0,40.0,,6,11,6,8,17,14,17,23,11,
+UBCO,2014,W,PSYO,346,,OVERALL,Abnormal Child Psychology,,116,72.275862069,10.724686035,93.0,40.0,,6,11,6,8,17,14,17,23,11,
 UBCO,2014,W,PSYO,348,,001,Health Psychology,Linda Hatt,118,73.525423729,10.762956306,90.0,17.0,,,,5,12,18,18,21,21,14,
+UBCO,2014,W,PSYO,348,,OVERALL,Health Psychology,,118,73.525423729,10.762956306,90.0,17.0,,,,5,12,18,18,21,21,14,
 UBCO,2014,W,PSYO,349,,001,Positive Psychology,Evanya Musolino;Holli-Anne Passmore;Mark Holder,98,78.530612245,5.9848676560000005,91.0,62.0,,,,,,8,15,24,31,12,
+UBCO,2014,W,PSYO,349,,OVERALL,Positive Psychology,,98,78.530612245,5.9848676560000005,91.0,62.0,,,,,,8,15,24,31,12,
 UBCO,2014,W,PSYO,353,,001,Psychological Aspects of Human Sexuality I,Jan Cioe,278,73.64028777,10.399255176,98.0,35.0,5,5,19,16,31,36,39,39,46,24,18
+UBCO,2014,W,PSYO,353,,OVERALL,Psychological Aspects of Human Sexuality I,,278,73.64028777,10.399255176,98.0,35.0,5,5,19,16,31,36,39,39,46,24,18
 UBCO,2014,W,PSYO,354,,101,Psychological Aspects of Human Sexuality II,Evanya Musolino;Jan Cioe;Megan Udala;Pamela Black,120,75.233333333,11.955613522,93.0,1.0,,,,8,11,13,15,20,21,14,11
-UBCO,2014,W,PSYO,355,,001,Forensic Psychology I,Stephen Porter,200,73.855,12.65443196,99.0,0.0,,8,8,13,13,39,17,20,40,21,17
+UBCO,2014,W,PSYO,354,,OVERALL,Psychological Aspects of Human Sexuality II,,120,75.233333333,11.955613522,93.0,1.0,,,,8,11,13,15,20,21,14,11
+UBCO,2014,W,PSYO,355,,001,Forensic Psychology I,Stephen Porter,200,73.855,12.65443196,99.0,0.0,4.0,8,8,13,13,39,17,20,40,21,17
+UBCO,2014,W,PSYO,355,,OVERALL,Forensic Psychology I,,200,73.855,12.65443196,99.0,0.0,4.0,8,8,13,13,39,17,20,40,21,17
 UBCO,2014,W,PSYO,356,,001,Forensic Psychology II,Christopher Carroll;Lisa Crossley;Michael Woodworth,130,75.584615385,10.255484156,95.0,41.0,,,,9,9,12,20,25,26,10,11
+UBCO,2014,W,PSYO,356,,OVERALL,Forensic Psychology II,,130,75.584615385,10.255484156,95.0,41.0,,,,9,9,12,20,25,26,10,11
 UBCO,2014,W,PSYO,372,,001,Research Methods and Statistics,Zachary Walsh,32,86.0625,4.669306089,97.0,78.0,,,,,,,,,11,12,7
+UBCO,2014,W,PSYO,372,,OVERALL,Research Methods and Statistics,,32,86.0625,4.669306089,97.0,78.0,,,,,,,,,11,12,7
 UBCO,2014,W,PSYO,373,,001,Advanced Research Methods and Statistics,Brian O'Connor,30,84.333333333,4.978113016,94.0,76.0,,,,,,,,6,9,9,6
-UBCO,2014,W,PSYO,380,J,001,Special Topics in Psychology,Danica Patton;Diana Lisi,88,73.465909091,14.742189722,99.0,28.0,5,,5,7,8,7,9,7,13,11,12
+UBCO,2014,W,PSYO,373,,OVERALL,Advanced Research Methods and Statistics,,30,84.333333333,4.978113016,94.0,76.0,,,,,,,,6,9,9,6
+UBCO,2014,W,PSYO,380,J,001,Special Topics in Psychology,Danica Patton;Diana Lisi,88,73.465909091,14.742189722,99.0,28.0,5,4.0,5,7,8,7,9,7,13,11,12
+UBCO,2014,W,PSYO,380,J,OVERALL,Special Topics in Psychology,,88,73.465909091,14.742189722,99.0,28.0,5,4.0,5,7,8,7,9,7,13,11,12
 UBCO,2014,W,PSYO,380,K,001,Special Topics in Psychology,Christopher Newitt,60,67.6,18.839374562,95.0,0.0,7,,,,7,12,5,8,7,,
+UBCO,2014,W,PSYO,380,K,OVERALL,Special Topics in Psychology,,60,67.6,18.839374562,95.0,0.0,7,,,,7,12,5,8,7,,
+UBCO,2014,W,PSYO,381,A,OVERALL,Directed Studies in Psychology,,10,90.4,3.204163958,95.0,85.0,,,,,,,,,,,7
+UBCO,2014,W,PSYO,381,B,OVERALL,Directed Studies in Psychology,,5,92.8,4.147288271,97.0,87.0,,,,,,,,,,,
 UBCO,2014,W,PSYO,442,,001,Interpersonal Behaviour and Psychopathology,Brian O'Connor,30,77.733333333,16.710379457000002,92.0,1.0,,,,,,,,,10,,5
+UBCO,2014,W,PSYO,442,,OVERALL,Interpersonal Behaviour and Psychopathology,,30,77.733333333,16.710379457000002,92.0,1.0,,,,,,,,,10,,5
 UBCO,2014,W,PSYO,443,,001,Psychometrics and Test Evaluation,Marvin Krank,6,81.166666667,11.839200423,95.0,65.0,,,,,,,,,,,
+UBCO,2014,W,PSYO,443,,OVERALL,Psychometrics and Test Evaluation,,6,81.166666667,11.839200423,95.0,65.0,,,,,,,,,,,
 UBCO,2014,W,PSYO,451,,001,Social Psychology of Intergroup Relations,Paul Davies,9,87.111111111,2.97676185,90.0,83.0,,,,,,,,,,,
+UBCO,2014,W,PSYO,451,,OVERALL,Social Psychology of Intergroup Relations,,9,87.111111111,2.97676185,90.0,83.0,,,,,,,,,,,
 UBCO,2014,W,PSYO,460,,001,History and Theories of Psychology,Linda Hatt,18,72.944444444,20.839646102,91.0,0.0,,,,,,,,,5,,
+UBCO,2014,W,PSYO,460,,OVERALL,History and Theories of Psychology,,18,72.944444444,20.839646102,91.0,0.0,,,,,,,,,5,,
 UBCO,2014,W,PSYO,462,,001,Evolutionary Psychology of Aggression and the Blind Movement,Paul Gabias,26,76.76923076899999,10.378083416,95.0,52.0,,,,,,,,,6,5,
+UBCO,2014,W,PSYO,462,,OVERALL,Evolutionary Psychology of Aggression and the Blind Movement,,26,76.76923076899999,10.378083416,95.0,52.0,,,,,,,,,6,5,
 UBCO,2014,W,PSYO,474,,001,Program Evaluation,Susan J Wells,7,80.0,7.118052167999999,91.0,69.0,,,,,,,,,,,
-UBCO,2014,W,PSYO,480,K,001,Advanced Special Topics in Psychology,Carolyn Szostak,14,83.071428571,5.030129005,90.0,70.0,,,,,,,,,7,,
-UBCO,2014,W,PSYO,480,K,002,Advanced Special Topics in Psychology,Carolyn Szostak,15,82.666666667,18.949808392,92.0,15.0,,,,,,,,,,7,5
+UBCO,2014,W,PSYO,474,,OVERALL,Program Evaluation,,7,80.0,7.118052167999999,91.0,69.0,,,,,,,,,,,
+UBCO,2014,W,PSYO,480,K,001,Advanced Special Topics in Psychology,Carolyn Szostak,14,83.071428571,5.030129005,90.0,70.0,,,,,,,,,7,3,2
+UBCO,2014,W,PSYO,480,K,002,Advanced Special Topics in Psychology,Carolyn Szostak,15,82.666666667,18.949808392,92.0,15.0,,,,,,,,,2,7,5
+UBCO,2014,W,PSYO,480,K,OVERALL,Advanced Special Topics in Psychology,,29,82.86206896600001,13.832477668,92.0,15.0,,,,,,,,,9,10,7
+UBCO,2014,W,PSYO,481,A,OVERALL,Directed Studies,,6,91.166666667,5.0760877319999995,100.0,86.0,,,,,,,,,,,
+UBCO,2014,W,PSYO,490,,OVERALL,Undergraduate Honours Thesis,,7,87.571428571,6.451282634,95.0,76.0,,,,,,,,,,,
+UBCO,2014,W,PSYO,490,B,OVERALL,Undergraduate Honours Thesis,,12,90.416666667,6.3597932120000005,100.0,80.0,,,,,,,,,,,8
 UBCO,2014,W,PSYO,507,,001,Advanced Statistics and Research Methods,Brian O'Connor;Ran Wei,9,86.111111111,7.078920194,93.0,75.0,,,,,,,,,,,5
+UBCO,2014,W,PSYO,507,,OVERALL,Advanced Statistics and Research Methods,,9,86.111111111,7.078920194,93.0,75.0,,,,,,,,,,,5
 UBCO,2014,W,PSYO,510,,001,Psychopathology I - Descriptive Psychopathology,Stephen Porter,7,90.285714286,1.704336206,93.0,88.0,,,,,,,,,,,5
+UBCO,2014,W,PSYO,510,,OVERALL,Psychopathology I - Descriptive Psychopathology,,7,90.285714286,1.704336206,93.0,88.0,,,,,,,,,,,5
 UBCO,2014,W,PSYO,511,,001,Psychopathology II - Theoretical Foundations,Zachary Walsh,9,87.22222222200001,2.7284509239999997,91.0,82.0,,,,,,,,,,7,
+UBCO,2014,W,PSYO,511,,OVERALL,Psychopathology II - Theoretical Foundations,,9,87.22222222200001,2.7284509239999997,91.0,82.0,,,,,,,,,,7,
 UBCO,2014,W,PSYO,515,,001,Psychological Assessment II - Advanced Topics,Christopher Wilson,10,88.3,1.766981104,91.0,85.0,,,,,,,,,,7,
+UBCO,2014,W,PSYO,515,,OVERALL,Psychological Assessment II - Advanced Topics,,10,88.3,1.766981104,91.0,85.0,,,,,,,,,,7,
 UBCO,2014,W,PSYO,517,,001,Psychological Intervention II - Affective Disorders,Maya Libben,8,92.5,2.0,96.0,90.0,,,,,,,,,,,8
+UBCO,2014,W,PSYO,517,,OVERALL,Psychological Intervention II - Affective Disorders,,8,92.5,2.0,96.0,90.0,,,,,,,,,,,8
 UBCO,2014,W,PSYO,523,,001,Cognitive Basis of Behaviour,Janice Snyder,8,83.875,5.026714349,90.0,75.0,,,,,,,,,,,
+UBCO,2014,W,PSYO,523,,OVERALL,Cognitive Basis of Behaviour,,8,83.875,5.026714349,90.0,75.0,,,,,,,,,,,

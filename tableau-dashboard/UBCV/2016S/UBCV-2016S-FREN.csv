@@ -1,9 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,S,FREN,101,,921,Beginners' French I,Chantal Phan,29,69.965517241,11.651127348,92.0,50.0,,,,,,,,,,,
+UBCV,2016,S,FREN,101,,OVERALL,Beginners' French I,,29,69.965517241,11.651127348,92.0,50.0,,,,,,,,,,,
 UBCV,2016,S,FREN,102,,921,Beginners' French II,Juliet O'Brien,30,77.333333333,10.923979739000002,93.0,50.0,,,,,,,,7,,7,
-UBCV,2016,S,FREN,111,,921,Intermediate French I,William Winder,27,72.555555556,15.76103602,94.0,10.0,,,,,,,,,7,,
+UBCV,2016,S,FREN,102,,OVERALL,Beginners' French II,,30,77.333333333,10.923979739000002,93.0,50.0,,,,,,,,7,,7,
+UBCV,2016,S,FREN,111,,921,Intermediate French I,William Winder,27,72.555555556,15.76103602,94.0,10.0,,,,,,3,,,7,,
 UBCV,2016,S,FREN,111,,922,Intermediate French I,Laurence Gauvreau,28,70.928571429,11.648966164,92.0,46.0,,,,,,5,,,5,,
-UBCV,2016,S,FREN,112,,921,Intermediate French II,Sylvia Bascou Vallarino,25,74.48,8.119523796000001,86.0,54.0,,,,,,,,7,5,,
-UBCV,2016,S,FREN,112,,922,Intermediate French II,Stephanie Palisse,34,70.735294118,16.498500985,91.0,0.0,,,,,,,8,,5,,
+UBCV,2016,S,FREN,111,,OVERALL,Intermediate French I,,55,71.727272727,13.715974122,94.0,10.0,,,,7,,8,6,5,12,,
+UBCV,2016,S,FREN,112,,921,Intermediate French II,Sylvia Bascou Vallarino,25,74.48,8.119523796000001,86.0,54.0,,,,,,,3,7,5,,
+UBCV,2016,S,FREN,112,,922,Intermediate French II,Stephanie Palisse,34,70.735294118,16.498500985,91.0,0.0,,,,,,,8,1,5,,
+UBCV,2016,S,FREN,112,,OVERALL,Intermediate French II,,59,72.322033898,13.62482607,91.0,0.0,,,,,,7,11,8,10,6,
 UBCV,2016,S,FREN,329,,930,Selected Works of European French Literature,Joel Castonguay-Belanger,10,87.3,6.532823109,94.0,74.0,,,,,,,,,,,5
+UBCV,2016,S,FREN,329,,OVERALL,Selected Works of European French Literature,,10,87.3,6.532823109,94.0,74.0,,,,,,,,,,,5
 UBCV,2016,S,FREN,420,D,921,Selected Topics in French Literature and Culture,Richard Hodgson,18,71.555555556,18.598615452,87.0,8.0,,,,,,,,,6,,
+UBCV,2016,S,FREN,420,D,OVERALL,Selected Topics in French Literature and Culture,,18,71.555555556,18.598615452,87.0,8.0,,,,,,,,,6,,

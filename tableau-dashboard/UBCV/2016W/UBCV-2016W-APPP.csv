@@ -1,9 +1,14 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,APPP,501,,101,Project Management and Leadership,Olivier Musafiri;Tracy Page,33,86.333333333,6.631679022999999,95.0,69.0,,,,,,,,,8,10,12
 UBCV,2016,W,APPP,501,,102,Project Management and Leadership,Olivier Musafiri;Tracy Page,34,88.235294118,6.310447439,97.0,64.0,,,,,,,,,7,12,14
+UBCV,2016,W,APPP,501,,OVERALL,Project Management and Leadership,,67,87.29850746299999,6.492454653999999,97.0,64.0,,,,,,,,,15,22,26
 UBCV,2016,W,APPP,502,,001,Sustainability and Leadership,Tamara Etmannski,66,82.878787879,10.927052036,93.0,0.0,,,,,,,,5,28,25,6
-UBCV,2016,W,APPP,503,,101,Organizational Leadership,Olivia Krieger;Robert Prowse,35,79.085714286,6.491494111000001,91.0,68.0,,,,,,,8,8,6,6,
+UBCV,2016,W,APPP,502,,OVERALL,Sustainability and Leadership,,66,82.878787879,10.927052036,93.0,0.0,,,,,,,,5,28,25,6
+UBCV,2016,W,APPP,503,,101,Organizational Leadership,Olivia Krieger;Robert Prowse,35,79.085714286,6.491494111000001,91.0,68.0,,,,,,4,8,8,6,6,
 UBCV,2016,W,APPP,503,,102,Organizational Leadership,Olivia Krieger;Robert Prowse,34,78.88235294100001,6.039088361,88.0,68.0,,,,,,5,7,6,9,7,
+UBCV,2016,W,APPP,503,,OVERALL,Organizational Leadership,,69,78.985507246,6.227294647999999,91.0,68.0,,,,,,9,15,14,15,13,
 UBCV,2016,W,APPP,505,,201,Analytics and Interpretation for Applied Sciences,Iain Begg,46,78.608695652,13.179914450999998,90.0,0.0,,,,,,,11,7,11,13,
-UBCV,2016,W,APPP,506,,001,Capstone Project,Vladan Prodanovic;Vladan Zoran Prodanovic,19,87.315789474,19.145793363,97.0,9.0,,,,,,,,,,,15
-UBCV,2016,W,APPP,506,,102,Capstone Project,Philippe Kruchten,6,83.0,2.449489743,84.0,78.0,,,,,,,,,5,,
+UBCV,2016,W,APPP,505,,OVERALL,Analytics and Interpretation for Applied Sciences,,46,78.608695652,13.179914450999998,90.0,0.0,,,,,,,11,7,11,13,
+UBCV,2016,W,APPP,506,,001,Capstone Project,Vladan Prodanovic;Vladan Zoran Prodanovic,19,87.315789474,19.145793363,97.0,9.0,,,,,,,,,0,,15
+UBCV,2016,W,APPP,506,,102,Capstone Project,Philippe Kruchten,6,83.0,2.449489743,84.0,78.0,,,,,,,,,5,,0
+UBCV,2016,W,APPP,506,,OVERALL,Capstone Project,,25,86.28,16.724532877999998,97.0,9.0,,,,,,,,,5,,15

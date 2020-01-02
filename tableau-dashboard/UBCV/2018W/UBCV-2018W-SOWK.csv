@@ -1,42 +1,73 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,SOWK,200,,001,Introduction to Social Welfare,Daniel Ji;Shelley Rivkin,71,83.887323944,13.801189696,97.0,0.0,,,,,,,,5,13,16,29
+UBCV,2018,W,SOWK,200,,OVERALL,Introduction to Social Welfare,,71,83.887323944,13.801189696,97.0,0.0,,,,,,,,5,13,16,29
 UBCV,2018,W,SOWK,201,,001,Introduction to Social Work Practice,Antoine Coulombe;Michelle O'Kane,53,84.301886792,11.146894885999998,95.0,20.0,,,,,,,,,11,16,16
+UBCV,2018,W,SOWK,201,,OVERALL,Introduction to Social Work Practice,,53,84.301886792,11.146894885999998,95.0,20.0,,,,,,,,,11,16,16
 UBCV,2018,W,SOWK,305,,001,Social Work Practice I,Christiana Bratiotis;Kelly Allison;Rae Morris;Sara Fudjack,51,89.196078431,4.108623165,96.0,76.0,,,,,,,,,6,18,26
-UBCV,2018,W,SOWK,310,A,001,Interviewing Skills,Grant Charles;Kelly Allison,18,85.555555556,0.855585264,87.0,84.0,,,,,,,,,,17,
+UBCV,2018,W,SOWK,305,,OVERALL,Social Work Practice I,,51,89.196078431,4.108623165,96.0,76.0,,,,,,,,,6,18,26
+UBCV,2018,W,SOWK,310,A,001,Interviewing Skills,Grant Charles,18,85.555555556,0.855585264,87.0,84.0,,,,,,,,,,17,
 UBCV,2018,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,17,85.941176471,2.9679662280000003,91.0,78.0,,,,,,,,,,13,
 UBCV,2018,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,16,84.875,3.403429643,92.0,78.0,,,,,,,,,7,6,
+UBCV,2018,W,SOWK,310,A,OVERALL,Interviewing Skills,,51,85.470588235,2.595017851,92.0,78.0,,,,,,,,,9,36,
 UBCV,2018,W,SOWK,316,,001,"Integrative Seminar in Social Work Theory, Policy and Practice",Erika Ono;Moises Escueta;Wayne Nickel,17,94.411764706,2.693947464,99.0,89.0,,,,,,,,,,,16
 UBCV,2018,W,SOWK,316,,002,"Integrative Seminar in Social Work Theory, Policy and Practice",Pascale De Kerckhove;Wayne Nickel,17,90.470588235,2.60090482,94.0,85.0,,,,,,,,,,5,12
 UBCV,2018,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Moises Escueta;Rhea Del Vecchio,15,94.0,3.139608711,100.0,88.0,,,,,,,,,,,14
+UBCV,2018,W,SOWK,316,,OVERALL,"Integrative Seminar in Social Work Theory, Policy and Practice",,49,92.91836734700001,3.2903693730000003,100.0,85.0,,,,,,,,,,7,42
 UBCV,2018,W,SOWK,320,,001,Introduction to Social Work Research,Rae Morris;Simon Davis,51,86.745098039,7.15497907,98.0,68.0,,,,,,,,,5,21,18
+UBCV,2018,W,SOWK,320,,OVERALL,Introduction to Social Work Research,,51,86.745098039,7.15497907,98.0,68.0,,,,,,,,,5,21,18
 UBCV,2018,W,SOWK,335,,001,Social Analysis for Social Work Practice,Antoine Coulombe;Daniel Ji;Grant Charles;Nasim Naraghi,51,88.058823529,2.436487346,94.0,82.0,,,,,,,,,,30,17
+UBCV,2018,W,SOWK,335,,OVERALL,Social Analysis for Social Work Practice,,51,88.058823529,2.436487346,94.0,82.0,,,,,,,,,,30,17
 UBCV,2018,W,SOWK,337,,002,Culture and Race in Social Work Practice,Miu Chung Yan;Sara Fudjack,51,79.411764706,5.359762945,92.0,68.0,,,,,,,9,13,19,5,
+UBCV,2018,W,SOWK,337,,OVERALL,Culture and Race in Social Work Practice,,51,79.411764706,5.359762945,92.0,68.0,,,,,,,9,13,19,5,
 UBCV,2018,W,SOWK,400,,001,Canadian Social Policy,Meenakshi Mannoe;Timothy Stainton,55,90.52727272700001,3.52165021,96.0,82.0,,,,,,,,,,18,35
+UBCV,2018,W,SOWK,400,,OVERALL,Canadian Social Policy,,55,90.52727272700001,3.52165021,96.0,82.0,,,,,,,,,,18,35
 UBCV,2018,W,SOWK,405,,001,Social Work Practice II,Joshua Apland;Moises Escueta;Parminder Nizher,52,91.134615385,4.29787383,97.0,79.0,,,,,,,,,,13,35
+UBCV,2018,W,SOWK,405,,OVERALL,Social Work Practice II,,52,91.134615385,4.29787383,97.0,79.0,,,,,,,,,,13,35
 UBCV,2018,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Andrea Johnson;Ashley Quinn,18,85.666666667,5.291502622,94.0,75.0,,,,,,,,,,8,
 UBCV,2018,W,SOWK,416,,002,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Andrea Johnson;Eleanor Lipov,17,83.529411765,7.68210296,94.0,70.0,,,,,,,,,,5,
 UBCV,2018,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Andrea Johnson;Ashley Quinn;Eleanor Lipov;Eleanor R Lipov,17,83.294117647,3.852997305,90.0,74.0,,,,,,,,,9,6,
+UBCV,2018,W,SOWK,416,,OVERALL,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",,52,84.192307692,5.804117746,94.0,70.0,,,,,,,,,16,19,9
 UBCV,2018,W,SOWK,425,,001,First Nations Social Issues,Marie Nightbird,26,91.846153846,2.476970855,95.0,86.0,,,,,,,,,,,22
 UBCV,2018,W,SOWK,425,,002,First Nations Social Issues,Jennifer-Lee Koble;Jenny Morgan,25,91.12,2.682039025,94.0,80.0,,,,,,,,,,,22
+UBCV,2018,W,SOWK,425,,OVERALL,First Nations Social Issues,,51,91.490196078,2.579709666,95.0,80.0,,,,,,,,,,6,44
 UBCV,2018,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim;Sarah Durante,18,90.111111111,4.638570887,95.0,76.0,,,,,,,,,,,13
+UBCV,2018,W,SOWK,440,B,OVERALL,Integrative Seminars in Social Work,,18,90.111111111,4.638570887,95.0,76.0,,,,,,,,,,,13
 UBCV,2018,W,SOWK,440,C,001,Integrative Seminars in Social Work,Pilar Riano-Alcala,9,85.111111111,1.452966315,87.0,83.0,,,,,,,,,,5,
+UBCV,2018,W,SOWK,440,C,OVERALL,Integrative Seminars in Social Work,,9,85.111111111,1.452966315,87.0,83.0,,,,,,,,,,5,
 UBCV,2018,W,SOWK,440,K,001,Integrative Seminars in Social Work,Kim Fleming;Moises Escueta,14,87.785714286,5.086612465,94.0,79.0,,,,,,,,,,5,6
+UBCV,2018,W,SOWK,440,K,OVERALL,Integrative Seminars in Social Work,,14,87.785714286,5.086612465,94.0,79.0,,,,,,,,,,5,6
 UBCV,2018,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Erin Henthorne,24,87.0,6.593804734,95.0,66.0,,,,,,,,,,12,8
+UBCV,2018,W,SOWK,440,Q,OVERALL,Integrative Seminars in Social Work,,24,87.0,6.593804734,95.0,66.0,,,,,,,,,,12,8
 UBCV,2018,W,SOWK,442,,001,Policy and Practice in Child Welfare,Ashley Quinn,25,86.96,3.7691732069999997,94.0,80.0,,,,,,,,,6,15,
+UBCV,2018,W,SOWK,442,,OVERALL,Policy and Practice in Child Welfare,,25,86.96,3.7691732069999997,94.0,80.0,,,,,,,,,6,15,
 UBCV,2018,W,SOWK,450,,99C,Social Work Practice in Community Mental Health,Simon Davis,32,85.65625,8.604610073,95.0,58.0,,,,,,,,,8,8,13
-UBCV,2018,W,SOWK,453,,001,Disability and Justice,Timothy Stainton,24,85.25,2.6251293959999997,88.0,76.0,,,,,,,,,6,17,
+UBCV,2018,W,SOWK,450,,OVERALL,Social Work Practice in Community Mental Health,,32,85.65625,8.604610073,95.0,58.0,,,,,,,,,8,8,13
+UBCV,2018,W,SOWK,453,,001,Disability and Justice,Timothy Stainton,25,85.12,2.650786047,88.0,76.0,,,,,,,,,7,17,
+UBCV,2018,W,SOWK,453,,OVERALL,Disability and Justice,,25,85.12,2.650786047,88.0,76.0,,,,,,,,,7,17,
 UBCV,2018,W,SOWK,522,,99C,Family Mediation and Conflict Resolution,Edward Andrew Kruk,9,84.111111111,3.62092683,91.0,81.0,,,,,,,,,5,,
+UBCV,2018,W,SOWK,522,,OVERALL,Family Mediation and Conflict Resolution,,9,84.111111111,3.62092683,91.0,81.0,,,,,,,,,5,,
 UBCV,2018,W,SOWK,524,A,001,Social Services Management,Elizabeth Jones;Grant Charles,13,86.53846153799999,1.71344607,90.0,83.0,,,,,,,,,,11,
+UBCV,2018,W,SOWK,524,A,OVERALL,Social Services Management,,13,86.53846153799999,1.71344607,90.0,83.0,,,,,,,,,,11,
 UBCV,2018,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Ayesha Sackey;Moises Escueta,17,94.235294118,1.30045241,96.0,92.0,,,,,,,,,,,17
+UBCV,2018,W,SOWK,525,,OVERALL,Advanced Social Work Practice: Mental Health,,17,94.235294118,1.30045241,96.0,92.0,,,,,,,,,,,17
 UBCV,2018,W,SOWK,529,A,001,"Communities and Social Development: Debates, Approaches and Fields of Practice",Pilar Riano-Alcala,5,84.8,0.8366600270000001,86.0,84.0,,,,,,,,,,,
+UBCV,2018,W,SOWK,529,A,OVERALL,"Communities and Social Development: Debates, Approaches and Fields of Practice",,5,84.8,0.8366600270000001,86.0,84.0,,,,,,,,,,,
 UBCV,2018,W,SOWK,531,,001,Social Work Practice in the Field of Aging,Deborah O'Connor,8,85.75,4.621378891,90.0,78.0,,,,,,,,,,,
+UBCV,2018,W,SOWK,531,,OVERALL,Social Work Practice in the Field of Aging,,8,85.75,4.621378891,90.0,78.0,,,,,,,,,,,
 UBCV,2018,W,SOWK,532,A,001,Social Work Practice with the Family,Christiana Bratiotis,23,93.434782609,5.1595109610000005,99.0,80.0,,,,,,,,,,5,17
+UBCV,2018,W,SOWK,532,A,OVERALL,Social Work Practice with the Family,,23,93.434782609,5.1595109610000005,99.0,80.0,,,,,,,,,,5,17
 UBCV,2018,W,SOWK,550,,001,Social Work and Social Justice,Lutze Segu;Timothy Stainton,40,90.675,3.116436986,95.0,84.0,,,,,,,,,,14,25
+UBCV,2018,W,SOWK,550,,OVERALL,Social Work and Social Justice,,40,90.675,3.116436986,95.0,84.0,,,,,,,,,,14,25
 UBCV,2018,W,SOWK,551,,001,Health and Social Care Praxis,Harvey Bosma;Teresa Robitaille,17,87.058823529,6.189412212000001,94.0,72.0,,,,,,,,,,6,8
-UBCV,2018,W,SOWK,551,,002,Health and Social Care Praxis,Kelly Allison,11,88.909090909,3.727050991,95.0,83.0,,,,,,,,,,5,
-UBCV,2018,W,SOWK,554,C,001,Qualitative Methods in Social Work Research,Janet Vaughan Marshall;Pilar Riano-Alcala,14,91.071428571,5.298247689,98.0,77.0,,,,,,,,,,,10
-UBCV,2018,W,SOWK,554,C,003,Qualitative Methods in Social Work Research,Barbara Lee;Simon Davis,18,83.444444444,2.7487370839999996,87.0,79.0,,,,,,,,,7,8,
+UBCV,2018,W,SOWK,551,,002,Health and Social Care Praxis,Kelly Allison,11,88.909090909,3.727050991,95.0,83.0,,,,,,,,,,5,4
+UBCV,2018,W,SOWK,551,,OVERALL,Health and Social Care Praxis,,28,87.785714286,5.356596092,95.0,72.0,,,,,,,,,,11,12
+UBCV,2018,W,SOWK,554,C,001,Qualitative Methods in Social Work Research,Janet Vaughan Marshall;Pilar Riano-Alcala,15,91.0,5.1130086189999995,98.0,77.0,,,,,,,,,0,3,11
+UBCV,2018,W,SOWK,554,C,003,Qualitative Methods in Social Work Research,Barbara Lee;Simon Davis,18,83.444444444,2.7487370839999996,87.0,79.0,,,,,,,,,7,8,0
+UBCV,2018,W,SOWK,554,C,OVERALL,Qualitative Methods in Social Work Research,,33,86.878787879,5.481546176,98.0,77.0,,,,,,,,,7,11,11
 UBCV,2018,W,SOWK,559,,001,Advanced Integrative Seminar,Grant Charles;Marie Nightbird,12,94.416666667,2.429303429,97.0,88.0,,,,,,,,,,,11
 UBCV,2018,W,SOWK,559,,002,Advanced Integrative Seminar,Alyson Quinn;Christiana Bratiotis,14,87.285714286,3.8913824210000003,93.0,81.0,,,,,,,,,,5,5
 UBCV,2018,W,SOWK,559,,003,Advanced Integrative Seminar,Alyson Quinn;Mohamed Ibrahim,11,95.0,1.0,97.0,94.0,,,,,,,,,,,11
+UBCV,2018,W,SOWK,559,,OVERALL,Advanced Integrative Seminar,,37,91.891891892,4.569122112,97.0,81.0,,,,,,,,,,6,27
+UBCV,2018,W,SOWK,570,,OVERALL,Directed Studies in Social Work,,7,90.0,6.164414002999999,100.0,83.0,,,,,,,,,,0,
 UBCV,2018,W,SOWK,570,K,001,Directed Studies in Social Work,Pilar Riano-Alcala,7,88.714285714,1.889822365,92.0,87.0,,,,,,,,,,5,
+UBCV,2018,W,SOWK,570,K,OVERALL,Directed Studies in Social Work,,7,88.714285714,1.889822365,92.0,87.0,,,,,,,,,,5,

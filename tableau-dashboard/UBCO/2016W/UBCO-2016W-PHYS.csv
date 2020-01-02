@@ -1,31 +1,58 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2016,W,PHYS,102,,001,"Electricity, Light, and Radiation",Jeffrey Krupa;John Hopkinson;Siu Lung Tang,227,70.26431718100001,15.125162322000001,98.0,0.0,20,5,14,10,30,35,21,30,31,21,10
-UBCO,2016,W,PHYS,111,,001,Calculus-Based Physics I,Ben Tippett;Charles Jolin-Landry;Morgan Alford;Robert Lalonde;Sebastian Cardoch,190,73.078947368,14.829866866,100.0,0.0,18,7,,9,18,23,22,18,33,16,23
-UBCO,2016,W,PHYS,111,,002,Calculus-Based Physics I,Ben Tippett;Charles Jolin-Landry;Morgan Alford;Sean Blackmore;Sebastian Cardoch,117,72.48717948699999,15.746162852000001,98.0,0.0,13,,6,,11,14,12,14,15,15,11
-UBCO,2016,W,PHYS,112,,001,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Emily Wilson;Eric Nelson;John Hopkinson;Marie Pierre Milette;Robert Lalonde;Sean Blackmore,174,66.58045977,16.885944075,100.0,0.0,38,,11,13,16,22,15,18,15,10,13
-UBCO,2016,W,PHYS,112,,002,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Celine Edwards;Celine M Edwards;Eric Nelson;John Hopkinson;Marie Pierre Milette;Sean Blackmore,112,68.205357143,15.117043894000002,95.0,18.0,19,,5,9,13,10,16,11,13,6,7
-UBCO,2016,W,PHYS,112,,003,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Eric Nelson;John Hopkinson;Marie Pierre Milette;Sean Blackmore,36,60.055555556,20.682559174,94.0,0.0,11,,,,,5,,,,,
+UBCO,2016,W,PHYS,102,,OVERALL,"Electricity, Light, and Radiation",,227,70.26431718100001,15.125162322000001,98.0,0.0,20,5,14,10,30,35,21,30,31,21,10
+UBCO,2016,W,PHYS,111,,001,Calculus-Based Physics I,Ben Tippett;Charles Jolin-Landry;Morgan Alford;Robert Lalonde;Sebastian Cardoch,190,73.078947368,14.829866866,100.0,0.0,18,7,3.0,9,18,23,22,18,33,16,23
+UBCO,2016,W,PHYS,111,,002,Calculus-Based Physics I,Ben Tippett;Charles Jolin-Landry;Morgan Alford;Sean Blackmore;Sebastian Cardoch,117,72.48717948699999,15.746162852000001,98.0,0.0,13,3,6,3,11,14,12,14,15,15,11
+UBCO,2016,W,PHYS,111,,OVERALL,Calculus-Based Physics I,,307,72.853420195,15.162777340999998,100.0,0.0,31,10,9,12,29,37,34,32,48,31,34
+UBCO,2016,W,PHYS,112,,001,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Emily Wilson;Eric Nelson;John Hopkinson;Marie Pierre Milette;Robert Lalonde;Sean Blackmore,174,66.58045977,16.885944075,100.0,0.0,38,3.0,11,13,16,22,15,18,15,10,13
+UBCO,2016,W,PHYS,112,,002,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Celine Edwards;Celine M Edwards;Eric Nelson;John Hopkinson;Marie Pierre Milette;Sean Blackmore,112,68.205357143,15.117043894000002,95.0,18.0,19,3.0,5,9,13,10,16,11,13,6,7
+UBCO,2016,W,PHYS,112,,003,Introductory Physics I,Allison Percy;Andrew Ogilvy;Ben Tippett;Boyi Chen;Eric Nelson;John Hopkinson;Marie Pierre Milette;Sean Blackmore,36,60.055555556,20.682559174,94.0,0.0,11,1.0,3,2,3,5,3,2,3,1,2
+UBCO,2016,W,PHYS,112,,OVERALL,Introductory Physics I,,322,66.416149068,16.882057059,100.0,0.0,68,7,19,24,32,37,34,31,31,17,22
 UBCO,2016,W,PHYS,122,,001,Introductory Physics II,Alexander Bunka;Andrew Ogilvy;Ben Tippett;Boyi Chen;John Hopkinson;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb;Sean Colford,153,72.869281046,13.490587757,98.0,12.0,7,7,11,9,20,10,16,16,27,19,11
-UBCO,2016,W,PHYS,122,,002,Introductory Physics II,Alexander Bunka;Andrew Ogilvy;Boyi Chen;John Hopkinson;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb;Sean Blackmore;Sean Colford,109,74.018348624,12.894860914,99.0,15.0,,5,,,12,12,14,17,20,10,8
+UBCO,2016,W,PHYS,122,,002,Introductory Physics II,Alexander Bunka;Andrew Ogilvy;Boyi Chen;John Hopkinson;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb;Sean Blackmore;Sean Colford,109,74.018348624,12.894860914,99.0,15.0,3,5,4,4,12,12,14,17,20,10,8
+UBCO,2016,W,PHYS,122,,OVERALL,Introductory Physics II,,262,73.347328244,13.233157173,99.0,12.0,10,12,15,13,32,22,30,33,47,29,19
 UBCO,2016,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Matthew Basso,28,71.535714286,10.086595956,94.0,49.0,,,,5,,6,,,,,
+UBCO,2016,W,PHYS,200,,OVERALL,Relativity and Quanta,,28,71.535714286,10.086595956,94.0,49.0,,,,5,,6,,,,,
 UBCO,2016,W,PHYS,215,,001,Thermodynamics,John Hopkinson,23,63.652173913,17.839202733,90.0,19.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,215,,OVERALL,Thermodynamics,,23,63.652173913,17.839202733,90.0,19.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,216,,001,Mechanics I,Jesse Tanguay;Robert Lalonde,66,66.636363636,18.539468388,100.0,0.0,9,8,,,8,8,5,6,5,5,6
+UBCO,2016,W,PHYS,216,,OVERALL,Mechanics I,,66,66.636363636,18.539468388,100.0,0.0,9,8,,,8,8,5,6,5,5,6
 UBCO,2016,W,PHYS,225,,001,Intermediate Electricity and Magnetism,Andrew Jirasek;Robert Lalonde,8,74.25,9.098665522000001,90.0,63.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,225,,OVERALL,Intermediate Electricity and Magnetism,,8,74.25,9.098665522000001,90.0,63.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski;Jeffrey Krupa;Matthew Basso,31,64.80645161300001,19.343249218,94.0,9.0,6,,,,,7,,,,,
+UBCO,2016,W,PHYS,231,,OVERALL,Introduction to Electronics,,31,64.80645161300001,19.343249218,94.0,9.0,6,,,,,7,,,,,
 UBCO,2016,W,PHYS,232,,001,Modern Physics Laboratory,Matthew Basso;Sebastian Cardoch;Yasfatemeh Yamin,19,67.315789474,19.073112639,93.0,16.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,232,,OVERALL,Modern Physics Laboratory,,19,67.315789474,19.073112639,93.0,16.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,301,,001,Electricity and Magnetism,Jesse Tanguay,18,66.777777778,14.268663961,95.0,44.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,301,,OVERALL,Electricity and Magnetism,,18,66.777777778,14.268663961,95.0,44.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,303,,001,Thermal Physics II,John Hopkinson,22,65.636363636,14.453687795999999,91.0,47.0,7,,,,,,,,,,
+UBCO,2016,W,PHYS,303,,OVERALL,Thermal Physics II,,22,65.636363636,14.453687795999999,91.0,47.0,7,,,,,,,,,,
 UBCO,2016,W,PHYS,304,,001,Introduction to Quantum Mechanics,Murray Neuman,19,72.421052632,12.698712925,95.0,50.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,19,72.421052632,12.698712925,95.0,50.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,305,,001,Introduction to Biophysics,Christina Haston,28,69.642857143,12.175306782,88.0,43.0,,,,,,,5,,,,
+UBCO,2016,W,PHYS,305,,OVERALL,Introduction to Biophysics,,28,69.642857143,12.175306782,88.0,43.0,,,,,,,5,,,,
 UBCO,2016,W,PHYS,308,,001,Optics,Murray Neuman,20,71.95,12.538257245,95.0,50.0,,,,,,,,,5,,
+UBCO,2016,W,PHYS,308,,OVERALL,Optics,,20,71.95,12.538257245,95.0,50.0,,,,,,,,,5,,
 UBCO,2016,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,17,64.058823529,13.418599909000001,89.0,45.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,310,,OVERALL,Introduction to Medical Physics,,17,64.058823529,13.418599909000001,89.0,45.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,314,,001,Fluids,Murray Neuman,24,72.0,11.470188202000001,95.0,50.0,,,,5,,,,,,,
+UBCO,2016,W,PHYS,314,,OVERALL,Fluids,,24,72.0,11.470188202000001,95.0,50.0,,,,5,,,,,,,
 UBCO,2016,W,PHYS,328,,001,Advanced Mechanics,Murray Neuman,29,70.86206896600001,11.633462014000001,95.0,50.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,328,,OVERALL,Advanced Mechanics,,29,70.86206896600001,11.633462014000001,95.0,50.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,19,73.736842105,11.70395045,96.0,57.0,,,,,,,,,5,,
+UBCO,2016,W,PHYS,331,,OVERALL,Experimental Physics I,,19,73.736842105,11.70395045,96.0,57.0,,,,,,,,,5,,
 UBCO,2016,W,PHYS,332,,001,Experimental Physics II,Yasfatemeh Yamin,18,84.777777778,10.172370627000001,100.0,67.0,,,,,,,,,5,,8
+UBCO,2016,W,PHYS,332,,OVERALL,Experimental Physics II,,18,84.777777778,10.172370627000001,100.0,67.0,,,,,,,,,5,,8
 UBCO,2016,W,PHYS,336,,001,Introduction to Medical Imaging and Imaging Informatics,Rasika Rajapakshe;Thor Bjarnason,7,83.571428571,7.828519291,92.0,68.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,336,,OVERALL,Introduction to Medical Imaging and Imaging Informatics,,7,83.571428571,7.828519291,92.0,68.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,400,,001,Introduction to Elementary Particles,Daniel Vollick,17,66.294117647,25.285284025,100.0,22.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,400,,OVERALL,Introduction to Elementary Particles,,17,66.294117647,25.285284025,100.0,22.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,401,,001,Electromagnetic Theory,Ben Tippett,16,66.875,12.690547664,89.0,41.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,401,,OVERALL,Electromagnetic Theory,,16,66.875,12.690547664,89.0,41.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,402,,001,Advanced Quantum Mechanics,Daniel Vollick,15,60.6,25.446863405,99.0,18.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,402,,OVERALL,Advanced Quantum Mechanics,,15,60.6,25.446863405,99.0,18.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,418,,001,Methods of Theoretical Physics,Daniel Vollick,13,61.461538462,19.568747978,99.0,30.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,418,,OVERALL,Methods of Theoretical Physics,,13,61.461538462,19.568747978,99.0,30.0,,,,,,,,,,,
 UBCO,2016,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,10,76.5,11.335784049,91.0,51.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,420,,OVERALL,Data and Image Processing,,10,76.5,11.335784049,91.0,51.0,,,,,,,,,,,
+UBCO,2016,W,PHYS,449,,OVERALL,Honours Thesis,,8,90.75,5.8002463,97.0,80.0,,,,,,,,,,,6

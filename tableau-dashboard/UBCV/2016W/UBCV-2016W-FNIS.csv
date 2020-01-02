@@ -1,16 +1,30 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,FNIS,100,,001,Indigenous Foundations,Daniel Justice,50,81.86,7.1285857429999995,91.0,60.0,,,,,,,,5,12,18,6
-UBCV,2016,W,FNIS,100,,002,Indigenous Foundations,David Gaertner,46,69.760869565,23.351597407,91.0,0.0,6,,,,,,,5,12,8,
+UBCV,2016,W,FNIS,100,,001,Indigenous Foundations,Daniel Justice,50,81.86,7.1285857429999995,91.0,60.0,0,,,,,,,5,12,18,6
+UBCV,2016,W,FNIS,100,,002,Indigenous Foundations,David Gaertner,46,69.760869565,23.351597407,91.0,0.0,6,,,,,,,5,12,8,2
+UBCV,2016,W,FNIS,100,,OVERALL,Indigenous Foundations,,96,76.0625,17.928402929,91.0,0.0,6,,,,,,8,10,24,26,8
 UBCV,2016,W,FNIS,210,,001,Indigenous Politics and Self-Determination,David Gaertner,43,77.720930233,10.275550226,90.0,27.0,,,,,,,,8,17,7,
+UBCV,2016,W,FNIS,210,,OVERALL,Indigenous Politics and Self-Determination,,43,77.720930233,10.275550226,90.0,27.0,,,,,,,,8,17,7,
 UBCV,2016,W,FNIS,220,,001,Representation and Indigenous Cultural Politics,David Gaertner,38,74.65789473699999,17.696046765,86.0,0.0,,,,,,,,7,15,6,
+UBCV,2016,W,FNIS,220,,OVERALL,Representation and Indigenous Cultural Politics,,38,74.65789473699999,17.696046765,86.0,0.0,,,,,,,,7,15,6,
 UBCV,2016,W,FNIS,310,,001,Theory Seminar,Dorothy Nason,19,78.578947368,8.281946828999999,94.0,62.0,,,,,,,,5,,,
+UBCV,2016,W,FNIS,310,,OVERALL,Theory Seminar,,19,78.578947368,8.281946828999999,94.0,62.0,,,,,,,,5,,,
 UBCV,2016,W,FNIS,320,,001,Methods Seminar,Sarah Hunt,11,80.0,7.169379332,92.0,70.0,,,,,,,,,,,
+UBCV,2016,W,FNIS,320,,OVERALL,Methods Seminar,,11,80.0,7.169379332,92.0,70.0,,,,,,,,,,,
 UBCV,2016,W,FNIS,400,,001,Practicum/Advanced Research Seminar,Sheryl Lightfoot,14,74.142857143,10.014275525,88.0,54.0,,,,,,,,,,,
+UBCV,2016,W,FNIS,400,,OVERALL,Practicum/Advanced Research Seminar,,14,74.142857143,10.014275525,88.0,54.0,,,,,,,,,,,
 UBCV,2016,W,FNIS,401,F,101,Special Topics,David Gaertner,20,81.8,5.011565571,90.0,70.0,,,,,,,,,11,,
+UBCV,2016,W,FNIS,401,F,OVERALL,Special Topics,,20,81.8,5.011565571,90.0,70.0,,,,,,,,,11,,
 UBCV,2016,W,FNIS,401,Q,101,Special Topics,Daniel Justice,20,78.1,14.846229364000001,92.0,26.0,,,,,,,,,,5,
+UBCV,2016,W,FNIS,401,Q,OVERALL,Special Topics,,20,78.1,14.846229364000001,92.0,26.0,,,,,,,,,,5,
 UBCV,2016,W,FNIS,401,S,101,Special Topics,Sarah Hunt,17,81.705882353,5.083855647,90.0,74.0,,,,,,,,5,7,,
+UBCV,2016,W,FNIS,401,S,OVERALL,Special Topics,,17,81.705882353,5.083855647,90.0,74.0,,,,,,,,5,7,,
 UBCV,2016,W,FNIS,401,T,101,Special Topics,Dorothy Nason,16,81.125,7.191430085,90.0,62.0,,,,,,,,,5,6,
+UBCV,2016,W,FNIS,401,T,OVERALL,Special Topics,,16,81.125,7.191430085,90.0,62.0,,,,,,,,,5,6,
 UBCV,2016,W,FNIS,401,U,101,Special Topics,Daniel Justice,8,87.125,5.6678920239999995,96.0,80.0,,,,,,,,,,,
+UBCV,2016,W,FNIS,401,U,OVERALL,Special Topics,,8,87.125,5.6678920239999995,96.0,80.0,,,,,,,,,,,
 UBCV,2016,W,FNIS,451,,101,Indigenous Feminisms,Dorothy Nason,15,82.4,8.364892622000001,90.0,55.0,,,,,,,,,7,5,
+UBCV,2016,W,FNIS,451,,OVERALL,Indigenous Feminisms,,15,82.4,8.364892622000001,90.0,55.0,,,,,,,,,7,5,
 UBCV,2016,W,FNIS,453,,101,Indigenous Legal Traditions,Johnny Mack,9,63.11111111100001,31.561227971999998,86.0,0.0,,,,,,,,,,,
+UBCV,2016,W,FNIS,453,,OVERALL,Indigenous Legal Traditions,,9,63.11111111100001,31.561227971999998,86.0,0.0,,,,,,,,,,,
 UBCV,2016,W,FNIS,501,A,101,Special Topics,Dorothy Nason,15,88.066666667,2.463060427,92.0,85.0,,,,,,,,,,10,5
+UBCV,2016,W,FNIS,501,A,OVERALL,Special Topics,,15,88.066666667,2.463060427,92.0,85.0,,,,,,,,,,10,5

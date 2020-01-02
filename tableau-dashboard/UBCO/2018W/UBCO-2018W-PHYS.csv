@@ -1,27 +1,51 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2018,W,PHYS,111,,001,Introductory Physics for the Physical Sciences I,Ava Cornell;Ben Tippett;Elizabeth Houghton;Kitamori Satori;Mir Faizal;Neil Devries;Sabrina Madsen;Satori Kitamori,169,75.887573964,20.125626862,100.0,0.0,8,21,7,8,10,5,11,13,21,12,53
-UBCO,2018,W,PHYS,111,,002,Introductory Physics for the Physical Sciences I,Elizabeth Houghton;Jake Bobowski;Mir Faizal;Mitchell Wiebe;Zhexuan Jiang,115,81.060869565,16.431829914,100.0,50.0,,14,,6,6,,11,6,8,13,47
+UBCO,2018,W,PHYS,111,,002,Introductory Physics for the Physical Sciences I,Elizabeth Houghton;Jake Bobowski;Mir Faizal;Mitchell Wiebe;Zhexuan Jiang,115,81.060869565,16.431829914,100.0,50.0,0,14,2,6,6,2,11,6,8,13,47
+UBCO,2018,W,PHYS,111,,OVERALL,Introductory Physics for the Physical Sciences I,,284,77.98239436600001,18.859618271,100.0,0.0,8,35,9,14,16,7,22,19,29,25,100
 UBCO,2018,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Jordan Krywonos;Kendra Leanne Scarrott;Kendra Scarrott;Lukas Ewing;Yasfatemeh Yamin,279,73.505376344,12.166373923,97.0,17.0,15,6,10,12,29,41,40,31,42,32,21
-UBCO,2018,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Jordan Krywonos;Kendra Leanne Scarrott;Kendra Scarrott;Megan Greenwood;Ria Meston,180,71.511111111,15.412209079,99.0,0.0,12,,10,14,19,23,25,21,19,19,14
+UBCO,2018,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Jordan Krywonos;Kendra Leanne Scarrott;Kendra Scarrott;Megan Greenwood;Ria Meston,181,71.287292818,15.661534758,99.0,0.0,13,4.0,10,14,19,23,25,21,19,19,14
+UBCO,2018,W,PHYS,112,,OVERALL,Introductory Physics for the Life Sciences I,,460,72.632608696,13.675424491,99.0,0.0,28,10,20,26,48,64,65,52,61,51,35
 UBCO,2018,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Andrew Ogilvy;Ben Tippett;Elizabeth Houghton;John Hopkinson;Mitchell Wiebe;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb;Satori Kitamori;Xinchen Deng,221,72.615384615,14.817113523,99.0,4.0,14,5,7,19,21,25,30,26,36,19,19
+UBCO,2018,W,PHYS,121,,OVERALL,Introductory Physics for the Physical Sciences II,,221,72.615384615,14.817113523,99.0,4.0,14,5,7,19,21,25,30,26,36,19,19
 UBCO,2018,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Andrew Ogilvy;Ben Tippett;Erica Tolles;John Hopkinson;Kendra Scarrott;Lukas Ewing;Megan Greenwood;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb;Ria Meston,350,74.502857143,11.708921627999999,98.0,6.0,8,5,17,29,32,44,41,54,51,35,34
+UBCO,2018,W,PHYS,122,,OVERALL,Introductory Physics for the Life Sciences II,,350,74.502857143,11.708921627999999,98.0,6.0,8,5,17,29,32,44,41,54,51,35,34
 UBCO,2018,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Sean Colford,41,72.585365854,10.288283651,94.0,56.0,,,6,,8,,9,,,,
+UBCO,2018,W,PHYS,200,,OVERALL,Relativity and Quanta,,41,72.585365854,10.288283651,94.0,56.0,,,6,,8,,9,,,,
 UBCO,2018,W,PHYS,215,,101,Thermodynamics,Guhnveer Bahia;Yasfatemeh Yamin,38,70.394736842,15.447451419,94.0,30.0,,,,5,,7,,,6,,6
+UBCO,2018,W,PHYS,215,,OVERALL,Thermodynamics,,38,70.394736842,15.447451419,94.0,30.0,,,,5,,7,,,6,,6
 UBCO,2018,W,PHYS,216,,101,Mechanics I,Jake Bobowski;Nicholas Anthony Mantella;Nicholas Mantella;Sean Colford,61,64.93442623,19.83840455,100.0,26.0,12,5,6,5,9,,,,6,,10
+UBCO,2018,W,PHYS,216,,OVERALL,Mechanics I,,61,64.93442623,19.83840455,100.0,26.0,12,5,6,5,9,,,,6,,10
 UBCO,2018,W,PHYS,231,,001,Introduction to Electronics,Jake Bobowski;Nicholas Kayban;Sabrina Madsen;Sean Colford,33,71.666666667,13.887194340999999,97.0,44.0,,,,,,5,7,,,,5
+UBCO,2018,W,PHYS,231,,OVERALL,Introduction to Electronics,,33,71.666666667,13.887194340999999,97.0,44.0,,,,,,5,7,,,,5
 UBCO,2018,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Joseph Wandinger;Nicholas Kayban;Sabrina Madsen,32,72.46875,12.526061542,96.0,49.0,,,,5,,,5,,5,,
+UBCO,2018,W,PHYS,232,,OVERALL,Modern Physics Laboratory,,32,72.46875,12.526061542,96.0,49.0,,,,5,,,5,,5,,
 UBCO,2018,W,PHYS,301,,001,Electricity and Magnetism,Daniel Vollick,21,57.047619048,24.048858996999996,99.0,16.0,9,,,,,,,,,,
+UBCO,2018,W,PHYS,301,,OVERALL,Electricity and Magnetism,,21,57.047619048,24.048858996999996,99.0,16.0,9,,,,,,,,,,
 UBCO,2018,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Guhnveer Bahia,27,67.888888889,17.296805693,98.0,31.0,,,,,5,,,,,,
+UBCO,2018,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,27,67.888888889,17.296805693,98.0,31.0,,,,,5,,,,,,
 UBCO,2018,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston,17,73.823529412,11.891358701,98.0,56.0,,,,,,,,,,,
+UBCO,2018,W,PHYS,305,,OVERALL,Introduction to Biophysics,,17,73.823529412,11.891358701,98.0,56.0,,,,,,,,,,,
 UBCO,2018,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,23,73.173913043,15.584526632000001,97.0,36.0,,,,,,,,,5,,
+UBCO,2018,W,PHYS,310,,OVERALL,Introduction to Medical Physics,,23,73.173913043,15.584526632000001,97.0,36.0,,,,,,,,,5,,
 UBCO,2018,W,PHYS,328,,101,Advanced Mechanics,Jake Bobowski,24,78.166666667,13.547554460999999,97.0,56.0,,,,,,,,,,,7
+UBCO,2018,W,PHYS,328,,OVERALL,Advanced Mechanics,,24,78.166666667,13.547554460999999,97.0,56.0,,,,,,,,,,,7
 UBCO,2018,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,22,80.227272727,8.546410097,93.0,58.0,,,,,,,,5,,7,
+UBCO,2018,W,PHYS,331,,OVERALL,Experimental Physics I,,22,80.227272727,8.546410097,93.0,58.0,,,,,,,,5,,7,
 UBCO,2018,W,PHYS,336,,001,Introduction to Medical Imaging and Radiation Safety,Rasika Rajapakshe;Thor Bjarnason,12,83.916666667,6.8152013689999995,94.0,70.0,,,,,,,,,,5,
+UBCO,2018,W,PHYS,336,,OVERALL,Introduction to Medical Imaging and Radiation Safety,,12,83.916666667,6.8152013689999995,94.0,70.0,,,,,,,,,,5,
 UBCO,2018,W,PHYS,400,,001,Introduction to Elementary Particles,John Hopkinson,23,73.347826087,11.76902211,96.0,50.0,,,,,,,,,,,
+UBCO,2018,W,PHYS,400,,OVERALL,Introduction to Elementary Particles,,23,73.347826087,11.76902211,96.0,50.0,,,,,,,,,,,
 UBCO,2018,W,PHYS,401,,101,Electromagnetic Theory,Daniel Vollick;John Hopkinson,13,71.153846154,19.334106969,97.0,31.0,,,,,,,,,,,
+UBCO,2018,W,PHYS,401,,OVERALL,Electromagnetic Theory,,13,71.153846154,19.334106969,97.0,31.0,,,,,,,,,,,
 UBCO,2018,W,PHYS,402,,101,Advanced Quantum Mechanics,Daniel Vollick,9,64.444444444,22.147861698000003,95.0,30.0,,,,,,,,,,,
+UBCO,2018,W,PHYS,402,,OVERALL,Advanced Quantum Mechanics,,9,64.444444444,22.147861698000003,95.0,30.0,,,,,,,,,,,
 UBCO,2018,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,17,69.235294118,15.295135712999999,96.0,44.0,,,,,,,,,,,
+UBCO,2018,W,PHYS,403,,OVERALL,Statistical Mechanics,,17,69.235294118,15.295135712999999,96.0,44.0,,,,,,,,,,,
 UBCO,2018,W,PHYS,408,,001,Optics,Murray Neuman,22,73.454545455,9.011776807,99.0,50.0,,,,,,5,8,,,,
+UBCO,2018,W,PHYS,408,,OVERALL,Optics,,22,73.454545455,9.011776807,99.0,50.0,,,,,,5,8,,,,
 UBCO,2018,W,PHYS,418,,001,Methods of Theoretical Physics,Daniel Vollick,6,57.666666667,31.232461745,96.0,20.0,,,,,,,,,,,
+UBCO,2018,W,PHYS,418,,OVERALL,Methods of Theoretical Physics,,6,57.666666667,31.232461745,96.0,20.0,,,,,,,,,,,
 UBCO,2018,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,10,74.4,13.906033862000001,99.0,59.0,,,,,,,,,,,
+UBCO,2018,W,PHYS,420,,OVERALL,Data and Image Processing,,10,74.4,13.906033862000001,99.0,59.0,,,,,,,,,,,
 UBCO,2018,W,PHYS,441,,101,Experimental Physics II,Jake Bobowski;Yasfatemeh Yamin,13,86.615384615,7.018291121,97.0,75.0,,,,,,,,,,,5
+UBCO,2018,W,PHYS,441,,OVERALL,Experimental Physics II,,13,86.615384615,7.018291121,97.0,75.0,,,,,,,,,,,5

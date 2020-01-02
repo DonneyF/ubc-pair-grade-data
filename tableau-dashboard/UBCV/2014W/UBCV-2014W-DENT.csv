@@ -1,17 +1,32 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,DENT,410,,001,Dentistry I,,49,87.551020408,3.2407639560000003,93.0,79.0,,,,,,,,,6,29,13
+UBCV,2014,W,DENT,410,,OVERALL,Dentistry I,,49,87.551020408,3.2407639560000003,93.0,79.0,,,,,,,,,6,29,13
 UBCV,2014,W,DENT,420,,001,Dentistry II,,48,81.875,2.825604812,88.0,75.0,,,,,,,,8,35,,
-UBCV,2014,W,DENT,430,,SUP,,,5,79.4,2.408318916,82.0,76.0,,,,,,,,,,,
+UBCV,2014,W,DENT,420,,OVERALL,Dentistry II,,48,81.875,2.825604812,88.0,75.0,,,,,,,,8,35,,
 UBCV,2014,W,DENT,430,,001,Dentistry III,,59,77.389830508,17.071873369000002,88.0,0.0,6,,,,,,,6,34,13,
+UBCV,2014,W,DENT,430,,OVERALL,Dentistry III,,5,79.4,2.408318916,82.0,76.0,6,,,,,,,6,34,13,
+UBCV,2014,W,DENT,430,,SUP,,,5,79.4,2.408318916,82.0,76.0,0,,,,,,,0,0,0,
 UBCV,2014,W,DENT,440,,001,Dentistry IV,,55,80.527272727,2.530221374,86.0,75.0,,,,,,,,19,31,,
+UBCV,2014,W,DENT,440,,OVERALL,Dentistry IV,,55,80.527272727,2.530221374,86.0,75.0,,,,,,,,19,31,,
 UBCV,2014,W,DENT,524,,001,Craniofacial Growth and Development,,9,81.111111111,2.204792759,85.0,80.0,,,,,,,,,7,,
+UBCV,2014,W,DENT,524,,OVERALL,Craniofacial Growth and Development,,9,81.111111111,2.204792759,85.0,80.0,,,,,,,,,7,,
 UBCV,2014,W,DENT,539,,001,Statistical Methods,Hsingchi Von Bergmann,28,91.821428571,4.554635988999999,100.0,83.0,,,,,,,,,,9,18
+UBCV,2014,W,DENT,539,,OVERALL,Statistical Methods,,28,91.821428571,4.554635988999999,100.0,83.0,,,,,,,,,,9,18
 UBCV,2014,W,DENT,540,,001,Research Methods,,27,82.777777778,6.122677477000001,95.0,70.0,,,,,,,,,10,9,
+UBCV,2014,W,DENT,540,,OVERALL,Research Methods,,27,82.777777778,6.122677477000001,95.0,70.0,,,,,,,,,10,9,
 UBCV,2014,W,DENT,542,,001,Oral Cell Biology and Biochemistry,,12,86.583333333,5.31649805,95.0,77.0,,,,,,,,,,5,
+UBCV,2014,W,DENT,542,,OVERALL,Oral Cell Biology and Biochemistry,,12,86.583333333,5.31649805,95.0,77.0,,,,,,,,,,5,
 UBCV,2014,W,DENT,543,,001,Advanced Occlusion and Articulation,,16,81.0625,3.213902094,87.0,75.0,,,,,,,,,8,,
+UBCV,2014,W,DENT,543,,OVERALL,Advanced Occlusion and Articulation,,16,81.0625,3.213902094,87.0,75.0,,,,,,,,,8,,
 UBCV,2014,W,DENT,561,C,003,Directed Studies in Dental Sciences,,5,89.2,7.949842766000001,100.0,80.0,,,,,,,,,,,
+UBCV,2014,W,DENT,561,C,OVERALL,Directed Studies in Dental Sciences,,5,89.2,7.949842766000001,100.0,80.0,,,,,,,,,,,
 UBCV,2014,W,DENT,561,D,102,Directed Studies in Dental Sciences,,5,84.8,11.211601135,96.0,68.0,,,,,,,,,,,
+UBCV,2014,W,DENT,561,D,OVERALL,Directed Studies in Dental Sciences,,5,84.8,11.211601135,96.0,68.0,,,,,,,,,,,
 UBCV,2014,W,DENT,565,,001,Biomechanics of Craniofacial Orthopedics and Orthodontics I,,6,83.666666667,3.204163958,89.0,79.0,,,,,,,,,,,
+UBCV,2014,W,DENT,565,,OVERALL,Biomechanics of Craniofacial Orthopedics and Orthodontics I,,6,83.666666667,3.204163958,89.0,79.0,,,,,,,,,,,
 UBCV,2014,W,DENT,567,,001,Orthodontic and Craniofacial Orthopedic Patient Care I,,5,83.4,2.302172887,85.0,80.0,,,,,,,,,,,
+UBCV,2014,W,DENT,567,,OVERALL,Orthodontic and Craniofacial Orthopedic Patient Care I,,5,83.4,2.302172887,85.0,80.0,,,,,,,,,,,
 UBCV,2014,W,DENT,574,,001,Periodontic Treatment Planning Seminars,,7,82.285714286,3.450327797,87.0,79.0,,,,,,,,,,,
+UBCV,2014,W,DENT,574,,OVERALL,Periodontic Treatment Planning Seminars,,7,82.285714286,3.450327797,87.0,79.0,,,,,,,,,,,
 UBCV,2014,W,DENT,575,,001,Implant Therapy,,12,79.666666667,7.088189066,90.0,68.0,,,,,,,,,,,
+UBCV,2014,W,DENT,575,,OVERALL,Implant Therapy,,12,79.666666667,7.088189066,90.0,68.0,,,,,,,,,,,

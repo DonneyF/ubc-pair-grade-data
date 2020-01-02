@@ -1,21 +1,35 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,ARCH,403,,001,Themes in Architecture and Design,Christopher Macdonald;Sarah Sako,30,83.233333333,1.54659433,85.0,78.0,,,,,,,,,22,7,
+UBCV,2015,W,ARCH,403,,OVERALL,Themes in Architecture and Design,,30,83.233333333,1.54659433,85.0,78.0,,,,,,,,,22,7,
 UBCV,2015,W,ARCH,404,,001,Architectural History I,Sara Stevens,14,77.642857143,5.930457796000001,86.0,67.0,,,,,,,,,,,
+UBCV,2015,W,ARCH,404,,OVERALL,Architectural History I,,14,77.642857143,5.930457796000001,86.0,67.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,405,,001,Architectural History II,Sherry Mckay;Umbreen Ashraf,20,78.25,7.376170737000001,85.0,59.0,,,,,,,,,9,,
+UBCV,2015,W,ARCH,405,,OVERALL,Architectural History II,,20,78.25,7.376170737000001,85.0,59.0,,,,,,,,,9,,
 UBCV,2015,W,ARCH,411,,001,Materials and Methods of Construction,Benjamin Fisher;Bill Pechet,28,85.035714286,3.967293535,91.0,69.0,,,,,,,,,7,18,
-UBCV,2015,W,ARCH,437,,002,Geometric Modeling,Blair Satterfield;David Flanders;Kara Verbeek;Michael Barton;Robert Gaudin;Robert Thomas Andrew Gaudin;Yajiao Fan,32,80.25,4.676640647,87.0,66.0,,,,,,,,8,15,5,
+UBCV,2015,W,ARCH,411,,OVERALL,Materials and Methods of Construction,,28,85.035714286,3.967293535,91.0,69.0,,,,,,,,,7,18,
+UBCV,2015,W,ARCH,437,,002,Geometric Modeling,Blair Satterfield;David Flanders;Kara Verbeek;Michael Barton;Robert Gaudin;Yajiao Fan,32,80.25,4.676640647,87.0,66.0,,,,,,,,8,15,5,
+UBCV,2015,W,ARCH,437,,OVERALL,Geometric Modeling,,32,80.25,4.676640647,87.0,66.0,,,,,,,,8,15,5,
 UBCV,2015,W,ARCH,500,,001,Architectural Design Studio I,Blair Satterfield;Inge Roecker;Joanne Gates,32,80.96875,6.13022325,88.0,60.0,,,,,,,,,15,10,
+UBCV,2015,W,ARCH,500,,OVERALL,Architectural Design Studio I,,32,80.96875,6.13022325,88.0,60.0,,,,,,,,,15,10,
 UBCV,2015,W,ARCH,501,,010,Architectural Design Studio II,Inge Roecker,9,81.222222222,4.2360883419999995,88.0,76.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,501,,011,Architectural Design Studio II,Darryl Condon,5,76.2,12.9305839,88.0,55.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,501,,012,Architectural Design Studio II,George Stuart Wagner,8,80.875,6.812540957,88.0,72.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,501,,013,Architectural Design Studio II,Joseph Dahmen,9,75.0,4.153311931,82.0,70.0,,,,,,,,,,,
+UBCV,2015,W,ARCH,501,,OVERALL,Architectural Design Studio II,,37,79.08108108100001,7.421359483,92.0,55.0,,,,,,,8,7,8,9,
 UBCV,2015,W,ARCH,504,,001,Architectural History 1A,Sara Stevens,35,79.657142857,6.111430261000001,91.0,66.0,,,,,,,5,7,14,5,
+UBCV,2015,W,ARCH,504,,OVERALL,Architectural History 1A,,35,79.657142857,6.111430261000001,91.0,66.0,,,,,,,5,7,14,5,
 UBCV,2015,W,ARCH,505,,001,Architectural History 1B,Sherry Mckay;Umbreen Ashraf,30,79.9,5.671161166,91.0,60.0,,,,,,,,5,16,,
+UBCV,2015,W,ARCH,505,,OVERALL,Architectural History 1B,,30,79.9,5.671161166,91.0,60.0,,,,,,,,5,16,,
 UBCV,2015,W,ARCH,511,,001,Architectural Technology I,Gregory Johnson;Sally Miller,35,81.228571429,8.01867568,92.0,66.0,,,,,,,5,,5,8,8
+UBCV,2015,W,ARCH,511,,OVERALL,Architectural Technology I,,35,81.228571429,8.01867568,92.0,66.0,,,,,,,5,,5,8,8
 UBCV,2015,W,ARCH,512,,001,Structures I,Annalisa Meyboom;Joshua James Potvin;Joshua Potvin,33,81.393939394,7.373683755,97.0,69.0,,,,,,,5,,10,5,6
+UBCV,2015,W,ARCH,512,,OVERALL,Structures I,,33,81.393939394,7.373683755,97.0,69.0,,,,,,,5,,10,5,6
 UBCV,2015,W,ARCH,513,,001,Environmental Systems and Controls I,Raymond John Cole;Raymond John J Cole;Sally Miller,45,79.777777778,5.20003885,90.0,66.0,,,,,,,5,8,19,8,
+UBCV,2015,W,ARCH,513,,OVERALL,Environmental Systems and Controls I,,45,79.777777778,5.20003885,90.0,66.0,,,,,,,5,8,19,8,
 UBCV,2015,W,ARCH,515,,001,Design Media I,Blair Satterfield;David Flanders;Jessica Hunter;Kara Verbeek;Lorraine Roche;Michael Barton,47,80.29787234,3.977736376,88.0,73.0,,,,,,,5,10,24,8,
+UBCV,2015,W,ARCH,515,,OVERALL,Design Media I,,47,80.29787234,3.977736376,88.0,73.0,,,,,,,5,10,24,8,
 UBCV,2015,W,ARCH,517,,001,Design Media II,Blair Satterfield;David Flanders;Kara Verbeek;Michael Barton;Robert Gaudin;Robert Thomas Andrew Gaudin;Yajiao Fan,59,80.186440678,4.376562091,87.0,68.0,,,,,,,8,9,31,9,
+UBCV,2015,W,ARCH,517,,OVERALL,Design Media II,,59,80.186440678,4.376562091,87.0,68.0,,,,,,,8,9,31,9,
 UBCV,2015,W,ARCH,520,,002,Architectural Design Studio III,Mari Fujita,10,79.6,4.971027169,87.0,73.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,520,,003,Architectural Design Studio III,Christopher Macdonald,6,87.0,0.0,87.0,87.0,,,,,,,,,,6,
 UBCV,2015,W,ARCH,520,,004,Architectural Design Studio III,Fernanda Hannah-Suarez,6,79.0,3.741657387,82.0,72.0,,,,,,,,,,,
@@ -23,28 +37,53 @@ UBCV,2015,W,ARCH,520,,005,Architectural Design Studio III,Bill Pechet,6,85.66666
 UBCV,2015,W,ARCH,520,,006,Architectural Design Studio III,Jacqueline Ho;John Lacy,9,79.666666667,5.024937811,90.0,75.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,520,,007,Architectural Design Studio III,D'Arcy Jones,10,75.9,8.399074022999999,85.0,64.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,520,,011,Architectural Design Studio III,Darryl Condon,7,82.857142857,9.719886341,92.0,64.0,,,,,,,,,,,
+UBCV,2015,W,ARCH,520,,OVERALL,Architectural Design Studio III,,55,80.727272727,6.684571915,92.0,64.0,,,,,,,7,9,16,16,
 UBCV,2015,W,ARCH,521,,009,Architectural Design Studio IV,Christopher Macdonald;Joanne Gates;Peeroj Thakre,52,84.23076923100001,5.436317181000001,92.0,75.0,,,,,,,5,5,14,12,16
+UBCV,2015,W,ARCH,521,,OVERALL,Architectural Design Studio IV,,52,84.23076923100001,5.436317181000001,92.0,75.0,,,,,,,5,5,14,12,16
 UBCV,2015,W,ARCH,523,,001,Contemporary Theories in Architecture,Sherry Mckay,57,80.50877193,4.114967484,93.0,71.0,,,,,,,,13,33,,
+UBCV,2015,W,ARCH,523,,OVERALL,Contemporary Theories in Architecture,,57,80.50877193,4.114967484,93.0,71.0,,,,,,,,13,33,,
 UBCV,2015,W,ARCH,531,,001,Architectural Technology II,Gregory Johnson;Sally Miller,47,81.29787234,7.575460651,94.0,60.0,,,,,,,10,5,9,13,7
+UBCV,2015,W,ARCH,531,,OVERALL,Architectural Technology II,,47,81.29787234,7.575460651,94.0,60.0,,,,,,,10,5,9,13,7
 UBCV,2015,W,ARCH,532,,001,Architectural Structures II,Annalisa Meyboom;Joshua James Potvin;Joshua Potvin,43,84.209302326,7.236014883999999,98.0,65.0,,,,,,,,7,10,8,13
+UBCV,2015,W,ARCH,532,,OVERALL,Architectural Structures II,,43,84.209302326,7.236014883999999,98.0,65.0,,,,,,,,7,10,8,13
 UBCV,2015,W,ARCH,533,,001,Environmental Systems and Controls II,Joseph Dahmen,44,83.022727273,5.691644779,93.0,70.0,,,,,,,,7,11,17,
+UBCV,2015,W,ARCH,533,,OVERALL,Environmental Systems and Controls II,,44,83.022727273,5.691644779,93.0,70.0,,,,,,,,7,11,17,
 UBCV,2015,W,ARCH,538,A,001,Study of Architecture Abroad,John Bass,15,85.133333333,2.850229732,89.0,80.0,,,,,,,,,6,9,
+UBCV,2015,W,ARCH,538,A,OVERALL,Study of Architecture Abroad,,15,85.133333333,2.850229732,89.0,80.0,,,,,,,,,6,9,
 UBCV,2015,W,ARCH,538,B,001,Study of Architecture Abroad,John Bass,13,85.307692308,3.146019055,90.0,81.0,,,,,,,,,5,7,
+UBCV,2015,W,ARCH,538,B,OVERALL,Study of Architecture Abroad,,13,85.307692308,3.146019055,90.0,81.0,,,,,,,,,5,7,
 UBCV,2015,W,ARCH,539,,001,Architectural Design Abroad,John Bass,16,86.25,2.6956755489999997,90.0,82.0,,,,,,,,,,10,
+UBCV,2015,W,ARCH,539,,OVERALL,Architectural Design Abroad,,16,86.25,2.6956755489999997,90.0,82.0,,,,,,,,,,10,
 UBCV,2015,W,ARCH,540,,005,Architectural Design Studio V,Bill Pechet,5,83.2,3.033150178,85.0,78.0,,,,,,,,,,,
+UBCV,2015,W,ARCH,540,,OVERALL,Architectural Design Studio V,,31,83.548387097,5.8071146570000005,92.0,68.0,,,,,,,,,6,16,
 UBCV,2015,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Dinara Yusufzyanova;Nicholas Paczkowski;Nicole Sylvia,30,83.2,6.676773947,95.0,69.0,,,,,,,,8,7,7,5
+UBCV,2015,W,ARCH,541,,OVERALL,Professional Practice,,30,83.2,6.676773947,95.0,69.0,,,,,,,,8,7,7,5
 UBCV,2015,W,ARCH,543,,001,Seminar: Contemporary Practice,Darren Huebert;Darren Timothy Huebert;Inge Roecker,33,81.090909091,3.195344625,88.0,76.0,,,,,,,,10,15,8,
+UBCV,2015,W,ARCH,543,,OVERALL,Seminar: Contemporary Practice,,33,81.090909091,3.195344625,88.0,76.0,,,,,,,,10,15,8,
 UBCV,2015,W,ARCH,544,S,001,Seminar in Architecture,Neal Lamontagne,18,84.5,4.949747468,90.0,70.0,,,,,,,,,,10,
+UBCV,2015,W,ARCH,544,S,OVERALL,Seminar in Architecture,,18,84.5,4.949747468,90.0,70.0,,,,,,,,,,10,
 UBCV,2015,W,ARCH,544,U,001,Seminar in Architecture,Annalisa Meyboom,6,84.166666667,3.600925807,89.0,81.0,,,,,,,,,,,
+UBCV,2015,W,ARCH,544,U,OVERALL,Seminar in Architecture,,6,84.166666667,3.600925807,89.0,81.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,544,X,001,Seminar in Architecture,Gregory Johnson;Lys Hermanski;Lys Marianna Claire Hermanski,13,85.0,0.0,85.0,85.0,,,,,,,,,,13,
+UBCV,2015,W,ARCH,544,X,OVERALL,Seminar in Architecture,,13,85.0,0.0,85.0,85.0,,,,,,,,,,13,
+UBCV,2015,W,ARCH,545,A,OVERALL,Directed Studies in Architecture,,5,86.2,7.085195833999999,95.0,78.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,548,,001,Graduate Project Part I,Christopher Macdonald,20,83.55,3.440853627,90.0,80.0,,,,,,,,,12,6,
 UBCV,2015,W,ARCH,548,,002,Graduate Project Part I,Christopher Macdonald,24,84.208333333,4.043020467,92.0,76.0,,,,,,,,,14,5,
-UBCV,2015,W,ARCH,549,,001,Graduate Project Part II,Christopher Macdonald,13,85.153846154,5.595327721,91.0,70.0,,,,,,,,,,8,
+UBCV,2015,W,ARCH,548,,OVERALL,Graduate Project Part I,,44,83.909090909,3.75294106,92.0,76.0,,,,,,,,,26,11,6
+UBCV,2015,W,ARCH,549,,001,Graduate Project Part II,Christopher Macdonald,13,85.153846154,5.595327721,91.0,70.0,,,,,,,,,4,8,
 UBCV,2015,W,ARCH,549,,003,Graduate Project Part II,Christopher Macdonald,23,83.565217391,3.3142404439999997,90.0,78.0,,,,,,,,,13,6,
+UBCV,2015,W,ARCH,549,,OVERALL,Graduate Project Part II,,40,83.625,4.555568585,91.0,70.0,,,,,,,,,17,14,
 UBCV,2015,W,ARCH,561,,001,Seminar: History and Theory,George Stuart Wagner,15,82.666666667,6.399404734,94.0,70.0,,,,,,,,,,5,
+UBCV,2015,W,ARCH,561,,OVERALL,Seminar: History and Theory,,15,82.666666667,6.399404734,94.0,70.0,,,,,,,,,,5,
 UBCV,2015,W,ARCH,561,H,001,Seminar: History and Theory,Sara Stevens,10,81.8,5.050852513,88.0,75.0,,,,,,,,,,,
+UBCV,2015,W,ARCH,561,H,OVERALL,Seminar: History and Theory,,10,81.8,5.050852513,88.0,75.0,,,,,,,,,,,
 UBCV,2015,W,ARCH,568,,001,Research Methods,Jared Drew Evan Skoreyko-Suits;Jared Skoreyko-Suits;Patrick Michael Condon;Sara Costa Maia;Umbreen Ashraf,56,80.571428571,5.818019477999999,90.0,65.0,,,,,,,,11,21,13,
+UBCV,2015,W,ARCH,568,,OVERALL,Research Methods,,56,80.571428571,5.818019477999999,90.0,65.0,,,,,,,,11,21,13,
 UBCV,2015,W,ARCH,571,A,001,Seminar: Technology and Analysis,Gregory Johnson,16,88.1875,2.344319375,94.0,85.0,,,,,,,,,,12,
+UBCV,2015,W,ARCH,571,A,OVERALL,Seminar: Technology and Analysis,,16,88.1875,2.344319375,94.0,85.0,,,,,,,,,,12,
 UBCV,2015,W,ARCH,571,B,001,Seminar: Technology and Analysis,Gregory Johnson,17,85.470588235,4.913217467,92.0,75.0,,,,,,,,,7,,6
+UBCV,2015,W,ARCH,571,B,OVERALL,Seminar: Technology and Analysis,,17,85.470588235,4.913217467,92.0,75.0,,,,,,,,,7,,6
 UBCV,2015,W,ARCH,573,D,001,Seminar: Environmental Studies,Raymond John Cole;Raymond John J Cole,14,81.714285714,5.915150969,90.0,69.0,,,,,,,,5,,5,
+UBCV,2015,W,ARCH,573,D,OVERALL,Seminar: Environmental Studies,,14,81.714285714,5.915150969,90.0,69.0,,,,,,,,5,,5,
 UBCV,2015,W,ARCH,573,E,001,Seminar: Environmental Studies,Michel Labrie,14,79.071428571,2.9733246280000003,85.0,74.0,,,,,,,,6,6,,
+UBCV,2015,W,ARCH,573,E,OVERALL,Seminar: Environmental Studies,,14,79.071428571,2.9733246280000003,85.0,74.0,,,,,,,,6,6,,

@@ -1,25 +1,43 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2015,W,FREN,102,,001,Beginner's French I,Stephanie Tolman,71,77.943661972,13.558220831,99.0,42.0,,,,,,8,5,5,10,11,17
 UBCO,2015,W,FREN,102,,002,Beginner's French I,Milka Beck,71,76.61971831,13.273352679,96.0,15.0,,,,5,,,9,15,12,11,8
-UBCO,2015,W,FREN,102,,003,Beginner's French I,Stephanie Tolman,29,68.931034483,21.900637686,96.0,0.0,,,,,,,,,6,,5
-UBCO,2015,W,FREN,103,,001,Beginner's French II,Christopher Gordon,38,63.973684211000005,21.805636318,91.0,1.0,,7,,,,,8,,,,
+UBCO,2015,W,FREN,102,,003,Beginner's French I,Stephanie Tolman,29,68.931034483,21.900637686,96.0,0.0,,,,,,,0,1,6,3,5
+UBCO,2015,W,FREN,102,,OVERALL,Beginner's French I,,171,75.865497076,15.410444593,99.0,0.0,8,6,8,11,8,12,14,21,28,25,30
+UBCO,2015,W,FREN,103,,001,Beginner's French II,Christopher Gordon,38,63.973684211000005,21.805636318,91.0,1.0,4,7,,,3,1,8,3,3,1,
 UBCO,2015,W,FREN,103,,101,Beginner's French II,Stephanie Tolman,74,70.891891892,15.897417355,99.0,25.0,8,,5,,5,6,11,6,12,5,8
-UBCO,2015,W,FREN,103,,102,Beginner's French II,Milka Beck,56,69.303571429,17.915883905,94.0,1.0,7,,,,8,5,,9,7,8,
+UBCO,2015,W,FREN,103,,102,Beginner's French II,Milka Beck,56,69.303571429,17.915883905,94.0,1.0,7,,,,8,5,3,9,7,8,
+UBCO,2015,W,FREN,103,,OVERALL,Beginner's French II,,168,68.797619048,18.134414804000002,99.0,1.0,19,14,8,9,16,12,22,18,22,14,14
 UBCO,2015,W,FREN,104,,001,Beginner's French III,Jelena Jovicic,22,76.181818182,20.845546204,99.0,24.0,,,,,,,,,,,7
 UBCO,2015,W,FREN,104,,101,Beginner's French III,Jean-Jacques Defert,57,72.894736842,13.333208019,95.0,38.0,,,,5,,8,8,6,7,5,7
-UBCO,2015,W,FREN,104,,102,Beginner's French III,Christopher Gordon,20,66.45,15.645665282000001,95.0,45.0,,,,,,,,,,,
+UBCO,2015,W,FREN,104,,102,Beginner's French III,Christopher Gordon,20,66.45,15.645665282000001,95.0,45.0,,,,,,,,,,,2
+UBCO,2015,W,FREN,104,,OVERALL,Beginner's French III,,99,72.323232323,15.897521487,99.0,24.0,8,5,9,5,7,9,11,7,14,8,16
 UBCO,2015,W,FREN,115,,001,First-Year Oral French Practice I,Milka Beck,21,76.619047619,8.108490553,92.0,64.0,,,,,,6,,,,,
+UBCO,2015,W,FREN,115,,OVERALL,First-Year Oral French Practice I,,21,76.619047619,8.108490553,92.0,64.0,,,,,,6,,,,,
 UBCO,2015,W,FREN,122,,001,Contemporary French Language and Literature I,Milka Beck,34,77.970588235,10.346966454,92.0,53.0,,,,,,6,,,8,7,
+UBCO,2015,W,FREN,122,,OVERALL,Contemporary French Language and Literature I,,34,77.970588235,10.346966454,92.0,53.0,,,,,,6,,,8,7,
 UBCO,2015,W,FREN,123,,001,Contemporary French Language and Literature II,Christopher Gordon,22,72.409090909,17.535431047,93.0,29.0,,,,,,,,,,,
+UBCO,2015,W,FREN,123,,OVERALL,Contemporary French Language and Literature II,,22,72.409090909,17.535431047,93.0,29.0,,,,,,,,,,,
 UBCO,2015,W,FREN,215,,001,Second-Year Oral French Practice I,Milka Beck,29,74.86206896600001,15.708787662999999,86.0,0.0,,,,,,,5,6,10,,
+UBCO,2015,W,FREN,215,,OVERALL,Second-Year Oral French Practice I,,29,74.86206896600001,15.708787662999999,86.0,0.0,,,,,,,5,6,10,,
 UBCO,2015,W,FREN,221,,001,French Literature and Textual Analysis II,Ramine Adl,16,73.8125,8.930985388,97.0,60.0,,,,,,,6,,,,
+UBCO,2015,W,FREN,221,,OVERALL,French Literature and Textual Analysis II,,16,73.8125,8.930985388,97.0,60.0,,,,,,,6,,,,
 UBCO,2015,W,FREN,222,,001,Studies in French Language and Style I,Christopher Gordon,24,67.208333333,17.34052596,89.0,10.0,,,,,,,,,,,
+UBCO,2015,W,FREN,222,,OVERALL,Studies in French Language and Style I,,24,67.208333333,17.34052596,89.0,10.0,,,,,,,,,,,
 UBCO,2015,W,FREN,223,,001,Studies in French Language and Style II,Milka Beck,15,75.93333333300001,5.229950378,86.0,68.0,,,,,,,6,,5,,
+UBCO,2015,W,FREN,223,,OVERALL,Studies in French Language and Style II,,15,75.93333333300001,5.229950378,86.0,68.0,,,,,,,6,,5,,
 UBCO,2015,W,FREN,345,,001,Techniques of Oral Expression in French II,Edmond Rivere,10,82.7,7.409453421,97.0,73.0,,,,,,,,,,,
+UBCO,2015,W,FREN,345,,OVERALL,Techniques of Oral Expression in French II,,10,82.7,7.409453421,97.0,73.0,,,,,,,,,,,
 UBCO,2015,W,FREN,353,,001,French Grammar,Edmond Rivere,8,83.0,7.0305456,92.0,70.0,,,,,,,,,,,
+UBCO,2015,W,FREN,353,,OVERALL,French Grammar,,8,83.0,7.0305456,92.0,70.0,,,,,,,,,,,
 UBCO,2015,W,FREN,355,,001,Advanced Composition,Ramine Adl,8,83.5,7.050835817,92.0,72.0,,,,,,,,,,,
+UBCO,2015,W,FREN,355,,OVERALL,Advanced Composition,,8,83.5,7.050835817,92.0,72.0,,,,,,,,,,,
 UBCO,2015,W,FREN,362,,001,Selected Topics in French Literature II,Jelena Jovicic,7,79.285714286,15.818915742,98.0,55.0,,,,,,,,,,,
+UBCO,2015,W,FREN,362,,OVERALL,Selected Topics in French Literature II,,7,79.285714286,15.818915742,98.0,55.0,,,,,,,,,,,
 UBCO,2015,W,FREN,420,E,001,Selected Topics in French Literature and Culture,Jelena Jovicic,8,72.25,31.226133744000002,99.0,0.0,,,,,,,,,,,
+UBCO,2015,W,FREN,420,E,OVERALL,Selected Topics in French Literature and Culture,,8,72.25,31.226133744000002,99.0,0.0,,,,,,,,,,,
 UBCO,2015,W,FREN,421,,001,For Adults Only: Fairy Tales in 17th & 18th Century France,Marianne Legault,7,74.714285714,10.719363876000001,88.0,61.0,,,,,,,,,,,
+UBCO,2015,W,FREN,421,,OVERALL,For Adults Only: Fairy Tales in 17th & 18th Century France,,7,74.714285714,10.719363876000001,88.0,61.0,,,,,,,,,,,
 UBCO,2015,W,FREN,435,,001,Critical Approaches to French Studies,Jelena Jovicic,11,77.181818182,27.047433083,97.0,0.0,,,,,,,,,,,
+UBCO,2015,W,FREN,435,,OVERALL,Critical Approaches to French Studies,,11,77.181818182,27.047433083,97.0,0.0,,,,,,,,,,,
 UBCO,2015,W,FREN,461,,001,17th- and 18th-Century French Comedy,Marianne Legault;Stephanie M Tolman;Stephanie Tolman,9,76.111111111,9.701088141,90.0,63.0,,,,,,,,,,,
+UBCO,2015,W,FREN,461,,OVERALL,17th- and 18th-Century French Comedy,,9,76.111111111,9.701088141,90.0,63.0,,,,,,,,,,,

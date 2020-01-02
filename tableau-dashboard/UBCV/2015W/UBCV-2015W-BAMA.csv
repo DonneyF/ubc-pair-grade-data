@@ -1,21 +1,31 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,BAMA,503,,001,New Product Development,Darren Negraeff;Timothy Silk,45,80.177777778,2.8942646180000002,90.0,76.0,,,,,,,,14,27,,
-UBCV,2015,W,BAMA,503,,002,New Product Development,Darren Negraeff;Timothy Silk,14,81.142857143,2.1788191180000003,85.0,77.0,,,,,,,,,10,,
+UBCV,2015,W,BAMA,503,,002,New Product Development,Darren Negraeff;Timothy Silk,14,81.142857143,2.1788191180000003,85.0,77.0,,,,,,,,2,10,,
 UBCV,2015,W,BAMA,503,,302,New Product Development,Timothy Silk,35,80.685714286,2.3486094580000003,88.0,77.0,,,,,,,,6,26,,
-UBCV,2015,W,BAMA,504,,001,Integrated Marketing Communication,Ann Stone,27,82.25925925899999,2.246237754,87.0,77.0,,,,,,,,,20,5,
-UBCV,2015,W,BAMA,504,,815,Integrated Marketing Communication,Ann Stone,26,81.346153846,2.726790167,86.0,76.0,,,,,,,,7,15,,
+UBCV,2015,W,BAMA,503,,OVERALL,New Product Development,,94,80.510638298,2.60167308,90.0,76.0,,,,,,,,22,63,8,
+UBCV,2015,W,BAMA,504,,001,Integrated Marketing Communication,Ann Stone,27,82.25925925899999,2.246237754,87.0,77.0,,,,,,,,2,20,5,
+UBCV,2015,W,BAMA,504,,815,Integrated Marketing Communication,Ann Stone,26,81.346153846,2.726790167,86.0,76.0,,,,,,,,7,15,4,
+UBCV,2015,W,BAMA,504,,OVERALL,Integrated Marketing Communication,,53,81.811320755,2.511945337,87.0,76.0,,,,,,,,9,35,9,
 UBCV,2015,W,BAMA,506,,001,Consumer Behaviour,Katherine White,16,83.0,3.011090611,87.0,78.0,,,,,,,,,6,7,
-UBCV,2015,W,BAMA,508,,001,Marketing Research,Kathleen Lane;Yi Qian,21,85.238095238,5.769789961,91.0,72.0,,,,,,,,,,5,10
+UBCV,2015,W,BAMA,506,,OVERALL,Consumer Behaviour,,16,83.0,3.011090611,87.0,78.0,,,,,,,,,6,7,
+UBCV,2015,W,BAMA,508,,001,Marketing Research,Kathleen Lane;Yi Qian,21,85.238095238,5.769789961,91.0,72.0,,,,,,,,,3,5,10
 UBCV,2015,W,BAMA,508,,002,Marketing Research,Kathleen Lane;Yi Qian,32,86.25,3.680813374,90.0,80.0,,,,,,,,,8,10,14
-UBCV,2015,W,BAMA,508,,302,Marketing Research,Kathleen Lane;Yi Qian,16,84.4375,5.240467536000001,94.0,77.0,,,,,,,,,7,,
+UBCV,2015,W,BAMA,508,,302,Marketing Research,Kathleen Lane;Yi Qian,16,84.4375,5.240467536000001,94.0,77.0,,,,,,,,,7,3,4
 UBCV,2015,W,BAMA,508,,MM1,Marketing Research,Kathleen Lane;Yi Qian,46,85.239130435,5.67326981,92.0,72.0,,,,,,,,,7,14,20
+UBCV,2015,W,BAMA,508,,OVERALL,Marketing Research,,115,85.40869565199999,5.117729164,94.0,72.0,,,,,,,5,5,25,32,48
 UBCV,2015,W,BAMA,513,,001,Internet Marketing,Julio Viskovich,35,80.685714286,1.4505866680000001,84.0,78.0,,,,,,,,7,28,,
+UBCV,2015,W,BAMA,513,,OVERALL,Internet Marketing,,35,80.685714286,1.4505866680000001,84.0,78.0,,,,,,,,7,28,,
 UBCV,2015,W,BAMA,514,,002,Brand Management,Timothy Silk,27,83.666666667,4.69041576,90.0,74.0,,,,,,,,,11,6,6
-UBCV,2015,W,BAMA,514,,302,Brand Management,Timothy Silk,5,86.6,2.073644135,90.0,85.0,,,,,,,,,,,
+UBCV,2015,W,BAMA,514,,302,Brand Management,Timothy Silk,5,86.6,2.073644135,90.0,85.0,,,,,,,,,0,4,1
+UBCV,2015,W,BAMA,514,,OVERALL,Brand Management,,32,84.125,4.491928245,90.0,74.0,,,,,,,,,11,10,7
 UBCV,2015,W,BAMA,515,,001,Services Management,Perdip Atwal,48,83.0,3.433254148,91.0,68.0,,,,,,,,,30,14,
+UBCV,2015,W,BAMA,515,,OVERALL,Services Management,,48,83.0,3.433254148,91.0,68.0,,,,,,,,,30,14,
 UBCV,2015,W,BAMA,541,,001,Product Service Management,Felipe Gomez Gutierrez;Gregory Werker;Timothy Silk,38,80.473684211,2.446584405,88.0,76.0,,,,,,,,11,25,,
 UBCV,2015,W,BAMA,541,,002,Product Service Management,Clea Frances Stone;Gregory Werker;Timothy Silk,45,80.355555556,2.035542764,84.0,74.0,,,,,,,,7,37,,
+UBCV,2015,W,BAMA,541,,OVERALL,Product Service Management,,83,80.409638554,2.219844779,88.0,74.0,,,,,,,,18,62,,
 UBCV,2015,W,BAMA,550,,001,Marketing,Darren Negraeff;Timothy Silk,50,79.62,5.283358548,92.0,65.0,,,,,,,6,11,21,7,
 UBCV,2015,W,BAMA,550,,002,Marketing,Darren Negraeff;Timothy Silk,49,80.714285714,5.733672471,92.0,66.0,,,,,,,,10,20,7,5
 UBCV,2015,W,BAMA,550,,MM1,Marketing,Ann Stone;Patrick Frechette,46,81.130434783,2.9485114560000003,87.0,73.0,,,,,,,,8,31,5,
+UBCV,2015,W,BAMA,550,,OVERALL,Marketing,,145,80.468965517,4.8563463239999995,92.0,65.0,,,,,,6,11,29,72,19,6
 UBCV,2015,W,BAMA,580,D,001,Topics in Marketing,Elaine Williamson,47,78.510638298,11.00962492,93.0,20.0,,,,,,7,,7,16,9,
+UBCV,2015,W,BAMA,580,D,OVERALL,Topics in Marketing,,47,78.510638298,11.00962492,93.0,20.0,,,,,,7,,7,16,9,

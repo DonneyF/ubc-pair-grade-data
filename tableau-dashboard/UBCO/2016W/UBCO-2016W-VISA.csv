@@ -1,42 +1,77 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2016,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,21,75.428571429,11.668639289000001,89.0,43.0,,,,,,,,,8,,
 UBCO,2016,W,VISA,102,,002,Drawing and Two-Dimensional Art Practices I,Katherine Pickering,22,73.681818182,13.826773075,90.0,35.0,,,,,,,,,7,,
-UBCO,2016,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Aleksandra Dulic;Nina Fazio;Nina Vincenza Fazio,19,79.473684211,9.051509518,95.0,55.0,,,,,,,,6,,,
+UBCO,2016,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Aleksandra Dulic;Nina Fazio;Nina Vincenza Fazio,19,79.473684211,9.051509518,95.0,55.0,,,,,,,,6,4,,
+UBCO,2016,W,VISA,102,,OVERALL,Drawing and Two-Dimensional Art Practices I,,66,75.575757576,14.238691174000001,95.0,11.0,,,,,,,8,14,19,7,5
 UBCO,2016,W,VISA,103,,001,Drawing and Two-Dimensional Art Practices II,Patrick Lundeen,20,76.0,21.346761125,91.0,0.0,,,,,,,,,6,7,
 UBCO,2016,W,VISA,103,,002,Drawing and Two-Dimensional Art Practices II,Patrick Lundeen,19,82.684210526,5.8504760639999995,93.0,70.0,,,,,,,,,8,5,
-UBCO,2016,W,VISA,104,,001,Three-Dimensional Art Practices I,Renay Egami,23,76.52173913,11.167605607999999,84.0,31.0,,,,,,,,9,11,,
-UBCO,2016,W,VISA,104,,002,Three-Dimensional Art Practices I,Samuel Roy-Bois,21,81.095238095,7.347821187,91.0,65.0,,,,,,,,,5,5,
-UBCO,2016,W,VISA,105,,001,Three-Dimensional Art Practices II,Renay Egami,14,75.857142857,16.152433219000002,86.0,33.0,,,,,,,,,9,,
-UBCO,2016,W,VISA,105,,002,Three-Dimensional Art Practices II,Samuel Roy-Bois,18,78.444444444,18.940222442,94.0,13.0,,,,,,,,,,,6
-UBCO,2016,W,VISA,106,,001,Introduction to Digital Media I,Megumi Yamamoto;Myron Campbell,53,81.58490566,15.732663184000002,98.0,18.0,,,,,,,,,12,14,14
-UBCO,2016,W,VISA,106,,002,Introduction to Digital Media I,Miles Thorogood,29,70.620689655,20.853937266,93.0,0.0,,,,,,,,5,,,
+UBCO,2016,W,VISA,103,,OVERALL,Drawing and Two-Dimensional Art Practices II,,39,79.25641025600001,15.984726177999999,93.0,0.0,,,,,,,,,14,12,
+UBCO,2016,W,VISA,104,,001,Three-Dimensional Art Practices I,Renay Egami,23,76.52173913,11.167605607999999,84.0,31.0,,,,,,,,9,11,0,
+UBCO,2016,W,VISA,104,,002,Three-Dimensional Art Practices I,Samuel Roy-Bois,21,81.095238095,7.347821187,91.0,65.0,,,,,,,,3,5,5,
+UBCO,2016,W,VISA,104,,OVERALL,Three-Dimensional Art Practices I,,44,78.704545455,9.70873389,91.0,31.0,,,,,,,5,12,16,5,
+UBCO,2016,W,VISA,105,,001,Three-Dimensional Art Practices II,Renay Egami,14,75.857142857,16.152433219000002,86.0,33.0,,,,,,,,,9,,0
+UBCO,2016,W,VISA,105,,002,Three-Dimensional Art Practices II,Samuel Roy-Bois,18,78.444444444,18.940222442,94.0,13.0,,,,,,,,,3,,6
+UBCO,2016,W,VISA,105,,OVERALL,Three-Dimensional Art Practices II,,32,77.3125,17.545218077999998,94.0,13.0,,,,,,,,,12,,6
+UBCO,2016,W,VISA,106,,001,Introduction to Digital Media I,Megumi Yamamoto;Myron Campbell,53,81.58490566,15.732663184000002,98.0,18.0,,,,,,,,3,12,14,14
+UBCO,2016,W,VISA,106,,002,Introduction to Digital Media I,Miles Thorogood,29,70.620689655,20.853937266,93.0,0.0,,,,,,,,5,4,4,3
+UBCO,2016,W,VISA,106,,OVERALL,Introduction to Digital Media I,,82,77.707317073,18.358896525,98.0,0.0,8,,,,,,5,8,16,18,17
 UBCO,2016,W,VISA,108,,001,Introduction to Digital Media II,Miles Thorogood,30,69.633333333,24.263614498000003,94.0,0.0,,,,,,,,,,,8
+UBCO,2016,W,VISA,108,,OVERALL,Introduction to Digital Media II,,30,69.633333333,24.263614498000003,94.0,0.0,,,,,,,,,,,8
 UBCO,2016,W,VISA,110,,001,Studies in Photography,Andreas Rutkauskas;Mariel Belanger;Mariel Jeanne Belanger,48,74.041666667,16.769981202,91.0,2.0,,,,,,,8,14,7,,
+UBCO,2016,W,VISA,110,,OVERALL,Studies in Photography,,48,74.041666667,16.769981202,91.0,2.0,,,,,,,8,14,7,,
 UBCO,2016,W,VISA,215,,001,Painting I,Gary Pearson,17,82.176470588,8.187149183999999,92.0,60.0,,,,,,,,,,6,
+UBCO,2016,W,VISA,215,,OVERALL,Painting I,,17,82.176470588,8.187149183999999,92.0,60.0,,,,,,,,,,6,
 UBCO,2016,W,VISA,225,,001,Painting II,Katherine Pickering,13,81.846153846,11.00640839,91.0,50.0,,,,,,,,,5,,
+UBCO,2016,W,VISA,225,,OVERALL,Painting II,,13,81.846153846,11.00640839,91.0,50.0,,,,,,,,,5,,
 UBCO,2016,W,VISA,233,,001,Printmaking: Screenprinting I,W Briar Craig;W Craig,14,78.214285714,5.753641943,86.0,66.0,,,,,,,,,5,,
+UBCO,2016,W,VISA,233,,OVERALL,Printmaking: Screenprinting I,,14,78.214285714,5.753641943,86.0,66.0,,,,,,,,,5,,
 UBCO,2016,W,VISA,235,,001,Sculpture I,Samuel Roy-Bois,7,68.428571429,31.138706581999998,89.0,0.0,,,,,,,,,,,
+UBCO,2016,W,VISA,235,,OVERALL,Sculpture I,,7,68.428571429,31.138706581999998,89.0,0.0,,,,,,,,,,,
 UBCO,2016,W,VISA,244,,001,Photography I,Andreas Rutkauskas,16,77.0625,8.185098248,90.0,61.0,,,,,,,,,,,
+UBCO,2016,W,VISA,244,,OVERALL,Photography I,,16,77.0625,8.185098248,90.0,61.0,,,,,,,,,,,
 UBCO,2016,W,VISA,245,,001,Sculpture II,Samuel Roy-Bois,5,71.2,40.033735774,94.0,0.0,,,,,,,,,,,
+UBCO,2016,W,VISA,245,,OVERALL,Sculpture II,,5,71.2,40.033735774,94.0,0.0,,,,,,,,,,,
 UBCO,2016,W,VISA,253,,001,Printmaking: Screenprinting II,W Briar Craig;W Craig,10,69.9,25.106218796,83.0,0.0,,,,,,,,,5,,
+UBCO,2016,W,VISA,253,,OVERALL,Printmaking: Screenprinting II,,10,69.9,25.106218796,83.0,0.0,,,,,,,,,5,,
 UBCO,2016,W,VISA,256,,001,Photography II,Andreas Rutkauskas,10,78.6,7.381658952,89.0,65.0,,,,,,,,,,,
+UBCO,2016,W,VISA,256,,OVERALL,Photography II,,10,78.6,7.381658952,89.0,65.0,,,,,,,,,,,
 UBCO,2016,W,VISA,261,,001,Video I,Myron Campbell,13,82.076923077,9.151152372,93.0,58.0,,,,,,,,,,5,
+UBCO,2016,W,VISA,261,,OVERALL,Video I,,13,82.076923077,9.151152372,93.0,58.0,,,,,,,,,,5,
 UBCO,2016,W,VISA,266,,001,2D Animation,Aleksandra Dulic,9,79.0,7.842193571,90.0,70.0,,,,,,,,,,,
+UBCO,2016,W,VISA,266,,OVERALL,2D Animation,,9,79.0,7.842193571,90.0,70.0,,,,,,,,,,,
 UBCO,2016,W,VISA,268,,001,Strategies in Digital Art: Visual Communication,Myron Campbell,8,85.625,8.667467912000001,97.0,72.0,,,,,,,,,,,
+UBCO,2016,W,VISA,268,,OVERALL,Strategies in Digital Art: Visual Communication,,8,85.625,8.667467912000001,97.0,72.0,,,,,,,,,,,
 UBCO,2016,W,VISA,271,,001,Video II,Myron Campbell,8,82.0,8.017837257,95.0,70.0,,,,,,,,,,,
+UBCO,2016,W,VISA,271,,OVERALL,Video II,,8,82.0,8.017837257,95.0,70.0,,,,,,,,,,,
 UBCO,2016,W,VISA,282,,001,Drawing III,Katherine Pickering,17,78.176470588,8.202402804,86.0,52.0,,,,,,,5,,,5,
+UBCO,2016,W,VISA,282,,OVERALL,Drawing III,,17,78.176470588,8.202402804,86.0,52.0,,,,,,,5,,,5,
 UBCO,2016,W,VISA,283,,001,Drawing IV,Katherine Pickering,14,76.642857143,19.129546791,88.0,18.0,,,,,,,,,7,5,
+UBCO,2016,W,VISA,283,,OVERALL,Drawing IV,,14,76.642857143,19.129546791,88.0,18.0,,,,,,,,,7,5,
 UBCO,2016,W,VISA,300,G,001,Advanced Practice in Drawing,Aleksandra Dulic,15,80.733333333,5.775152029,90.0,70.0,,,,,,,,,,6,
+UBCO,2016,W,VISA,300,G,OVERALL,Advanced Practice in Drawing,,15,80.733333333,5.775152029,90.0,70.0,,,,,,,,,,6,
 UBCO,2016,W,VISA,300,H,001,Advanced Practice in Drawing,Aleksandra Dulic,15,82.93333333300001,4.366539438,90.0,76.0,,,,,,,,,,5,
+UBCO,2016,W,VISA,300,H,OVERALL,Advanced Practice in Drawing,,15,82.93333333300001,4.366539438,90.0,76.0,,,,,,,,,,5,
 UBCO,2016,W,VISA,312,G,001,Advanced Practice in Painting,Gary Pearson,16,86.6875,4.045058714,93.0,80.0,,,,,,,,,,7,5
+UBCO,2016,W,VISA,312,G,OVERALL,Advanced Practice in Painting,,16,86.6875,4.045058714,93.0,80.0,,,,,,,,,,7,5
 UBCO,2016,W,VISA,312,H,001,Advanced Practice in Painting,Katherine Pickering,15,83.93333333300001,4.182730937,90.0,75.0,,,,,,,,,,8,
+UBCO,2016,W,VISA,312,H,OVERALL,Advanced Practice in Painting,,15,83.93333333300001,4.182730937,90.0,75.0,,,,,,,,,,8,
 UBCO,2016,W,VISA,322,G,001,Advanced Practice in Sculpture,Renay Egami,6,82.666666667,1.032795559,84.0,81.0,,,,,,,,,6,,
+UBCO,2016,W,VISA,322,G,OVERALL,Advanced Practice in Sculpture,,6,82.666666667,1.032795559,84.0,81.0,,,,,,,,,6,,
 UBCO,2016,W,VISA,322,H,001,Advanced Practice in Sculpture,Renay Egami,8,83.5,2.0701966780000003,86.0,79.0,,,,,,,,,5,,
+UBCO,2016,W,VISA,322,H,OVERALL,Advanced Practice in Sculpture,,8,83.5,2.0701966780000003,86.0,79.0,,,,,,,,,5,,
 UBCO,2016,W,VISA,336,G,001,Advanced Practice in Printmaking,W Craig,11,73.454545455,17.113524689000002,85.0,25.0,,,,,,,,,,,
+UBCO,2016,W,VISA,336,G,OVERALL,Advanced Practice in Printmaking,,11,73.454545455,17.113524689000002,85.0,25.0,,,,,,,,,,,
 UBCO,2016,W,VISA,336,H,001,Advanced Practice in Printmaking,W Craig,11,71.818181818,24.814585154,90.0,0.0,,,,,,,,,,,
+UBCO,2016,W,VISA,336,H,OVERALL,Advanced Practice in Printmaking,,11,71.818181818,24.814585154,90.0,0.0,,,,,,,,,,,
 UBCO,2016,W,VISA,362,G,001,Advanced Practice in Photography,Andreas Rutkauskas,11,77.727272727,6.75412332,85.0,64.0,,,,,,,,,5,,
+UBCO,2016,W,VISA,362,G,OVERALL,Advanced Practice in Photography,,11,77.727272727,6.75412332,85.0,64.0,,,,,,,,,5,,
 UBCO,2016,W,VISA,362,H,001,Advanced Practice in Photography,Andreas Rutkauskas,9,80.777777778,5.118050844,87.0,71.0,,,,,,,,,,,
+UBCO,2016,W,VISA,362,H,OVERALL,Advanced Practice in Photography,,9,80.777777778,5.118050844,87.0,71.0,,,,,,,,,,,
 UBCO,2016,W,VISA,382,G,001,Advanced Practice in Media Arts,Miles Thorogood,10,84.8,8.310635756,96.0,71.0,,,,,,,,,,,
+UBCO,2016,W,VISA,382,G,OVERALL,Advanced Practice in Media Arts,,10,84.8,8.310635756,96.0,71.0,,,,,,,,,,,
 UBCO,2016,W,VISA,382,H,001,Advanced Practice in Media Arts,Aleksandra Dulic,10,85.2,6.268084946,90.0,76.0,,,,,,,,,,,6
+UBCO,2016,W,VISA,382,H,OVERALL,Advanced Practice in Media Arts,,10,85.2,6.268084946,90.0,76.0,,,,,,,,,,,6
 UBCO,2016,W,VISA,482,,001,Advanced Art Practices I,Crystal Kay Przybille;Crystal Przybille;Myron Campbell,19,77.94736842100001,8.796929289,93.0,60.0,,,,,,,,,6,,
+UBCO,2016,W,VISA,482,,OVERALL,Advanced Art Practices I,,19,77.94736842100001,8.796929289,93.0,60.0,,,,,,,,,6,,
 UBCO,2016,W,VISA,483,,001,Advanced Art Practices II,Crystal Kay Przybille;Crystal Przybille;Myron Campbell,19,85.0,5.656854248999999,97.0,76.0,,,,,,,,,5,9,
+UBCO,2016,W,VISA,483,,OVERALL,Advanced Art Practices II,,19,85.0,5.656854248999999,97.0,76.0,,,,,,,,,5,9,

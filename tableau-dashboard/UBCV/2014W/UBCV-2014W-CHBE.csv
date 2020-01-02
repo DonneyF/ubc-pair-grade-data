@@ -1,50 +1,100 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,CHBE,230,,201,Computational Methods,Mark Martinez,107,77.53271028,18.768861083,100.0,0.0,6,8,,,5,5,,10,22,6,34
+UBCV,2014,W,CHBE,230,,OVERALL,Computational Methods,,107,77.53271028,18.768861083,100.0,0.0,6,8,,,5,5,,10,22,6,34
 UBCV,2014,W,CHBE,241,,101,Material and Energy Balances,Elod Lajos Gyenge,180,70.505555556,17.370268448,100.0,0.0,19,12,19,14,14,13,16,17,10,19,27
+UBCV,2014,W,CHBE,241,,OVERALL,Material and Energy Balances,,180,70.505555556,17.370268448,100.0,0.0,19,12,19,14,14,13,16,17,10,19,27
 UBCV,2014,W,CHBE,243,,101,Introduction to Chemical and Biological Engineering Process and Technology,Peter Englezos,109,81.880733945,9.214244981,96.0,0.0,,,,,,,5,16,48,32,5
+UBCV,2014,W,CHBE,243,,OVERALL,Introduction to Chemical and Biological Engineering Process and Technology,,109,81.880733945,9.214244981,96.0,0.0,,,,,,,5,16,48,32,5
 UBCV,2014,W,CHBE,244,,201,Chemical and Biological Engineering Thermodynamics I,Pak Sui Lam,188,67.37234042600001,14.981260339,100.0,6.0,18,18,20,12,19,22,18,21,17,11,12
+UBCV,2014,W,CHBE,244,,OVERALL,Chemical and Biological Engineering Thermodynamics I,,188,67.37234042600001,14.981260339,100.0,6.0,18,18,20,12,19,22,18,21,17,11,12
 UBCV,2014,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,122,70.770491803,14.042313202999999,95.0,18.0,7,8,8,12,12,15,8,14,19,10,9
+UBCV,2014,W,CHBE,251,,OVERALL,Transport Phenomena I,,122,70.770491803,14.042313202999999,95.0,18.0,7,8,8,12,12,15,8,14,19,10,9
 UBCV,2014,W,CHBE,262,,001,Chemical Engineering and Applied Chemistry Laboratory,Curtis Berlinguette;Dhaneshwarie Kannangara,105,73.219047619,9.267375523,90.0,12.0,,,,,6,30,21,19,20,,
+UBCV,2014,W,CHBE,262,,OVERALL,Chemical Engineering and Applied Chemistry Laboratory,,105,73.219047619,9.267375523,90.0,12.0,,,,,6,30,21,19,20,,
 UBCV,2014,W,CHBE,344,,101,Unit Operations I,Naoko Ellis,107,68.644859813,9.788568936,92.0,46.0,,10,10,12,15,15,18,12,7,6,
+UBCV,2014,W,CHBE,344,,OVERALL,Unit Operations I,,107,68.644859813,9.788568936,92.0,46.0,,10,10,12,15,15,18,12,7,6,
 UBCV,2014,W,CHBE,345,,201,Unit Operations II,Xiaotao Bi,103,73.009708738,12.549896605999999,95.0,32.0,,,6,10,6,11,9,18,16,14,7
+UBCV,2014,W,CHBE,345,,OVERALL,Unit Operations II,,103,73.009708738,12.549896605999999,95.0,32.0,,,6,10,6,11,9,18,16,14,7
 UBCV,2014,W,CHBE,346,,101,Chemical and Biological Engineering Thermodynamics,Ehsan Behzadfar,70,75.771428571,11.431169477000001,96.0,46.0,,,5,,7,6,7,11,11,12,6
+UBCV,2014,W,CHBE,346,,OVERALL,Chemical and Biological Engineering Thermodynamics,,70,75.771428571,11.431169477000001,96.0,46.0,,,5,,7,6,7,11,11,12,6
 UBCV,2014,W,CHBE,351,,101,Transport Phenomena II,Heather Trajano,97,75.98969072199999,13.827429598,100.0,41.0,,,7,9,6,6,8,14,14,9,18
+UBCV,2014,W,CHBE,351,,OVERALL,Transport Phenomena II,,97,75.98969072199999,13.827429598,100.0,41.0,,,7,9,6,6,8,14,14,9,18
 UBCV,2014,W,CHBE,356,,201,Process Dynamics and Control,Bhushan Gopaluni,117,73.965811966,14.311155297,100.0,28.0,6,6,5,9,11,10,10,14,15,17,14
+UBCV,2014,W,CHBE,356,,OVERALL,Process Dynamics and Control,,117,73.965811966,14.311155297,100.0,28.0,6,6,5,9,11,10,10,14,15,17,14
 UBCV,2014,W,CHBE,357,,201,Interfacial Phenomena,Elod Lajos Gyenge,42,74.904761905,12.030063,95.0,50.0,,,,,,6,5,,6,8,
+UBCV,2014,W,CHBE,357,,OVERALL,Interfacial Phenomena,,42,74.904761905,12.030063,95.0,50.0,,,,,,6,5,,6,8,
 UBCV,2014,W,CHBE,362,,101,Chemical Engineering Laboratory,Aimee Louise Creagh;Dhaneshwarie Kannangara,67,77.223880597,8.959201966,91.0,50.0,,,,,,8,5,12,20,10,
+UBCV,2014,W,CHBE,362,,OVERALL,Chemical Engineering Laboratory,,67,77.223880597,8.959201966,91.0,50.0,,,,,,8,5,12,20,10,
 UBCV,2014,W,CHBE,364,,101,Environmental Engineering Laboratory,Dhaneshwarie Kannangara,21,77.952380952,5.219925196,88.0,68.0,,,,,,,,5,8,,
+UBCV,2014,W,CHBE,364,,OVERALL,Environmental Engineering Laboratory,,21,77.952380952,5.219925196,88.0,68.0,,,,,,,,5,8,,
 UBCV,2014,W,CHBE,365,,201,Biotechnology Laboratory,Aimee Louise Creagh,23,81.52173913,7.494662132,90.0,62.0,,,,,,,,,10,7,
+UBCV,2014,W,CHBE,365,,OVERALL,Biotechnology Laboratory,,23,81.52173913,7.494662132,90.0,62.0,,,,,,,,,10,7,
 UBCV,2014,W,CHBE,366,,201,Process and Environmental Engineering Laboratory,Heather Trajano,63,81.619047619,17.413777055,95.0,0.0,,,,,,,5,,13,22,16
+UBCV,2014,W,CHBE,366,,OVERALL,Process and Environmental Engineering Laboratory,,63,81.619047619,17.413777055,95.0,0.0,,,,,,,5,,13,22,16
 UBCV,2014,W,CHBE,373,,101,Water Pollution Control,Madjid Mohseni,67,74.149253731,11.103171442999999,97.0,50.0,,,5,8,,9,7,11,9,6,7
+UBCV,2014,W,CHBE,373,,OVERALL,Water Pollution Control,,67,74.149253731,11.103171442999999,97.0,50.0,,,5,8,,9,7,11,9,6,7
 UBCV,2014,W,CHBE,376,,201,Computer Flowsheeting and Fluid Properties Estimation,Dusko Posarac,89,79.573033708,13.473785694000002,96.0,23.0,,,,5,5,9,7,11,6,19,24
+UBCV,2014,W,CHBE,376,,OVERALL,Computer Flowsheeting and Fluid Properties Estimation,,89,79.573033708,13.473785694000002,96.0,23.0,,,,5,5,9,7,11,6,19,24
 UBCV,2014,W,CHBE,381,,201,Bioprocess Engineering I,James Piret,40,74.525,13.458364095,95.0,29.0,,,,,,5,6,,10,,5
+UBCV,2014,W,CHBE,381,,OVERALL,Bioprocess Engineering I,,40,74.525,13.458364095,95.0,29.0,,,,,,5,6,,10,,5
 UBCV,2014,W,CHBE,402,,201,Chemical Pulping Technology,Nuwan Sella Kapu;Nuwan Umantha Sella Kapu,14,79.5,8.933515115,95.0,60.0,,,,,,,,5,,,
+UBCV,2014,W,CHBE,402,,OVERALL,Chemical Pulping Technology,,14,79.5,8.933515115,95.0,60.0,,,,,,,,5,,,
 UBCV,2014,W,CHBE,419,,201,Industrial Biotechnology Laboratory,Aimee Louise Creagh,18,78.833333333,4.540665927,84.0,69.0,,,,,,,,5,8,,
+UBCV,2014,W,CHBE,419,,OVERALL,Industrial Biotechnology Laboratory,,18,78.833333333,4.540665927,84.0,69.0,,,,,,,,5,8,,
 UBCV,2014,W,CHBE,453,,001,Biological Process and Product Design,Dusko Posarac;Kevin Smith;Susan Baldwin,27,84.481481481,1.847459178,87.0,80.0,,,,,,,,,10,17,
+UBCV,2014,W,CHBE,453,,OVERALL,Biological Process and Product Design,,27,84.481481481,1.847459178,87.0,80.0,,,,,,,,,10,17,
 UBCV,2014,W,CHBE,454,,001,Chemical Process and Product Design,Dusko Posarac;Kevin Smith;Susan Baldwin,59,84.576271186,3.6160723110000004,91.0,76.0,,,,,,,,8,13,35,
+UBCV,2014,W,CHBE,454,,OVERALL,Chemical Process and Product Design,,59,84.576271186,3.6160723110000004,91.0,76.0,,,,,,,,8,13,35,
 UBCV,2014,W,CHBE,455,,101,Kinetics and Reactor Design,Vikramaditya Yadav,95,81.305263158,11.428848981,97.0,50.0,,5,,,,,,6,20,26,21
+UBCV,2014,W,CHBE,455,,OVERALL,Kinetics and Reactor Design,,95,81.305263158,11.428848981,97.0,50.0,,5,,,,,,6,20,26,21
 UBCV,2014,W,CHBE,456,,201,Heterogenous Catalysis and Advanced Reactor Design,Kevin Smith,91,73.494505495,13.485278909000002,99.0,23.0,,8,,11,6,10,11,5,14,11,11
+UBCV,2014,W,CHBE,456,,OVERALL,Heterogenous Catalysis and Advanced Reactor Design,,91,73.494505495,13.485278909000002,99.0,23.0,,8,,11,6,10,11,5,14,11,11
 UBCV,2014,W,CHBE,457,,101,Process Synthesis,Dusko Posarac,83,75.722891566,12.286531644,97.0,51.0,,,7,9,,6,8,10,14,11,12
+UBCV,2014,W,CHBE,457,,OVERALL,Process Synthesis,,83,75.722891566,12.286531644,97.0,51.0,,,7,9,,6,8,10,14,11,12
 UBCV,2014,W,CHBE,459,,201,Chemical and Biological Engineering Economics,Tamara Etmannski,124,81.55645161300001,10.962094645,98.0,53.0,,,,,9,8,6,7,20,27,38
+UBCV,2014,W,CHBE,459,,OVERALL,Chemical and Biological Engineering Economics,,124,81.55645161300001,10.962094645,98.0,53.0,,,,,9,8,6,7,20,27,38
 UBCV,2014,W,CHBE,464,,001,Chemical and Biological Engineering Laboratory,Choon Jim Lim,89,87.02247191,2.5315173680000003,93.0,81.0,,,,,,,,,17,60,12
+UBCV,2014,W,CHBE,464,,OVERALL,Chemical and Biological Engineering Laboratory,,89,87.02247191,2.5315173680000003,93.0,81.0,,,,,,,,,17,60,12
 UBCV,2014,W,CHBE,474,,101,Process Control Engineering,K Ezra Kwok,62,79.14516129,14.727966899,99.0,50.0,,,6,,5,,5,6,5,6,20
+UBCV,2014,W,CHBE,474,,OVERALL,Process Control Engineering,,62,79.14516129,14.727966899,99.0,50.0,,,6,,5,,5,6,5,6,20
 UBCV,2014,W,CHBE,476,,101,Modelling and Optimization in Chemical Engineering,Dusko Posarac,64,88.546875,7.727357477000001,98.0,63.0,,,,,,,,,5,14,36
+UBCV,2014,W,CHBE,476,,OVERALL,Modelling and Optimization in Chemical Engineering,,64,88.546875,7.727357477000001,98.0,63.0,,,,,,,,,5,14,36
 UBCV,2014,W,CHBE,477,,201,Fuel Cell and Electrochemical Engineering,Elod Lajos Gyenge,20,71.15,12.587692402,97.0,50.0,,,,,,5,,,,,
+UBCV,2014,W,CHBE,477,,OVERALL,Fuel Cell and Electrochemical Engineering,,20,71.15,12.587692402,97.0,50.0,,,,,,5,,,,,
 UBCV,2014,W,CHBE,481,,101,Bioprocess Engineering II,Charles Haynes,30,73.7,9.602980859,93.0,55.0,,,,,6,,,7,,,
+UBCV,2014,W,CHBE,481,,OVERALL,Bioprocess Engineering II,,30,73.7,9.602980859,93.0,55.0,,,,,6,,,7,,,
 UBCV,2014,W,CHBE,483,,101,Energy Engineering,David Wilkinson,41,80.829268293,7.625294876,94.0,61.0,,,,,,,5,6,13,9,
+UBCV,2014,W,CHBE,483,,OVERALL,Energy Engineering,,41,80.829268293,7.625294876,94.0,61.0,,,,,,,5,6,13,9,
 UBCV,2014,W,CHBE,484,,201,Green Engineering Principles and Applications for Process Industries,Xiaotao Bi,71,80.028169014,7.6288397,93.0,63.0,,,,,6,,7,12,17,17,9
+UBCV,2014,W,CHBE,484,,OVERALL,Green Engineering Principles and Applications for Process Industries,,71,80.028169014,7.6288397,93.0,63.0,,,,,6,,7,12,17,17,9
 UBCV,2014,W,CHBE,485,,101,Air Pollution Prevention and Control,Anthony K Lau,109,80.990825688,8.625431189,98.0,64.0,,,,,8,8,19,5,22,27,20
+UBCV,2014,W,CHBE,485,,OVERALL,Air Pollution Prevention and Control,,109,80.990825688,8.625431189,98.0,64.0,,,,,8,8,19,5,22,27,20
 UBCV,2014,W,CHBE,486,,201,Waste Management for Resource Recovery,Anthony K Lau,22,87.27272727299999,5.708655235,98.0,76.0,,,,,,,,,7,5,9
+UBCV,2014,W,CHBE,486,,OVERALL,Waste Management for Resource Recovery,,22,87.27272727299999,5.708655235,98.0,76.0,,,,,,,,,7,5,9
 UBCV,2014,W,CHBE,491,,101,Thesis Proposal,Madjid Mohseni,9,85.888888889,5.109903238999999,90.0,75.0,,,,,,,,,,,
+UBCV,2014,W,CHBE,491,,OVERALL,Thesis Proposal,,9,85.888888889,5.109903238999999,90.0,75.0,,,,,,,,,,,
 UBCV,2014,W,CHBE,492,,201,Thesis,James Jingtao Feng,8,87.875,3.796144661,92.0,81.0,,,,,,,,,,,
+UBCV,2014,W,CHBE,492,,OVERALL,Thesis,,9,88.22222222200001,3.700600552,92.0,81.0,,,,,,,,,,,
 UBCV,2014,W,CHBE,550,,101,Advanced Reactor Design,Susan Baldwin,20,83.95,6.443887352000001,95.0,74.0,,,,,,,,,7,5,
+UBCV,2014,W,CHBE,550,,OVERALL,Advanced Reactor Design,,20,83.95,6.443887352000001,95.0,74.0,,,,,,,,,7,5,
 UBCV,2014,W,CHBE,551,,201,Chemical Engineering Thermodynamics,Peter Englezos,9,88.333333333,5.431390246,97.0,80.0,,,,,,,,,,,
+UBCV,2014,W,CHBE,551,,OVERALL,Chemical Engineering Thermodynamics,,9,88.333333333,5.431390246,97.0,80.0,,,,,,,,,,,
 UBCV,2014,W,CHBE,552,,201,Optimization Methods,Bhushan Gopaluni,19,95.63157894700001,4.935253301,100.0,83.0,,,,,,,,,,,17
+UBCV,2014,W,CHBE,552,,OVERALL,Optimization Methods,,19,95.63157894700001,4.935253301,100.0,83.0,,,,,,,,,,,17
 UBCV,2014,W,CHBE,553,,101,Mathematical Operations in Chemical Engineering,James Jingtao Feng,21,91.380952381,2.9406834319999997,95.0,83.0,,,,,,,,,,,16
+UBCV,2014,W,CHBE,553,,OVERALL,Mathematical Operations in Chemical Engineering,,21,91.380952381,2.9406834319999997,95.0,83.0,,,,,,,,,,,16
 UBCV,2014,W,CHBE,554,,101,"Momentum, Heat and Mass Transfer",Fariborz Taghipour,10,83.5,9.276613367000001,94.0,70.0,,,,,,,,,,,
+UBCV,2014,W,CHBE,554,,OVERALL,"Momentum, Heat and Mass Transfer",,10,83.5,9.276613367000001,94.0,70.0,,,,,,,,,,,
 UBCV,2014,W,CHBE,563,,201,Applied Heterogeneous Catalysis,David Wilkinson,20,86.85,5.650104796,94.0,73.0,,,,,,,,,7,,9
+UBCV,2014,W,CHBE,563,,OVERALL,Applied Heterogeneous Catalysis,,20,86.85,5.650104796,94.0,73.0,,,,,,,,,7,,9
 UBCV,2014,W,CHBE,573,,201,Environmental Engineering and Sustainability,Naoko Ellis,16,82.8125,6.410603196,92.0,71.0,,,,,,,,,5,,
+UBCV,2014,W,CHBE,573,,OVERALL,Environmental Engineering and Sustainability,,16,82.8125,6.410603196,92.0,71.0,,,,,,,,,5,,
 UBCV,2014,W,CHBE,575,,101,Air Pollution Control,Anthony K Lau,15,87.2,4.708654646,95.0,80.0,,,,,,,,,,6,5
+UBCV,2014,W,CHBE,575,,OVERALL,Air Pollution Control,,15,87.2,4.708654646,95.0,80.0,,,,,,,,,,6,5
 UBCV,2014,W,CHBE,577,,201,"Electrochemical Science, Engineering and Technology",Elod Lajos Gyenge,12,75.5,10.067950952,92.0,62.0,,,,,,,,,,,
+UBCV,2014,W,CHBE,577,,OVERALL,"Electrochemical Science, Engineering and Technology",,12,75.5,10.067950952,92.0,62.0,,,,,,,,,,,
 UBCV,2014,W,CHBE,583,,101,Energy Engineering,David Wilkinson,20,84.4,5.452184497,94.0,74.0,,,,,,,,,7,8,
+UBCV,2014,W,CHBE,583,,OVERALL,Energy Engineering,,20,84.4,5.452184497,94.0,74.0,,,,,,,,,7,8,
 UBCV,2014,W,CHBE,597,,001,M.A.Sc. Thesis Proposal Development,David Wilkinson,16,89.875,4.688638751,98.0,83.0,,,,,,,,,,5,9
+UBCV,2014,W,CHBE,597,,OVERALL,M.A.Sc. Thesis Proposal Development,,16,89.875,4.688638751,98.0,83.0,,,,,,,,,,5,9
+UBCV,2014,W,CHBE,599,,OVERALL,Thesis,,5,87.4,4.669047012,92.0,81.0,,,,,,,,,,,

@@ -1,87 +1,162 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,W,ASIA,100,,001,Introduction to Traditional Asia,Francesca Harlow,55,67.163636364,16.267171709,90.0,0.0,,,,9,5,7,7,7,6,5,
-UBCV,2017,W,ASIA,100,,002,Introduction to Traditional Asia,Francesca Harlow,47,65.510638298,17.70516056,88.0,0.0,,,,7,,10,,5,,5,
+UBCV,2017,W,ASIA,100,,002,Introduction to Traditional Asia,Francesca Harlow,47,65.510638298,17.70516056,88.0,0.0,,,,7,4,10,4,5,4,5,
+UBCV,2017,W,ASIA,100,,OVERALL,Introduction to Traditional Asia,,102,66.401960784,16.880042586,90.0,0.0,6,,7,16,9,17,11,12,10,10,
 UBCV,2017,W,ASIA,101,,001,Introduction to Modern Asia,Donald Leslie Baker,36,67.444444444,15.02843865,92.0,21.0,,,,,10,5,5,,,,
-UBCV,2017,W,ASIA,101,,002,Introduction to Modern Asia,Donald Leslie Baker,14,71.857142857,19.825613359000002,88.0,10.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,101,,002,Introduction to Modern Asia,Donald Leslie Baker,14,71.857142857,19.825613359000002,88.0,10.0,,,,,0,2,2,,,,
+UBCV,2017,W,ASIA,101,,OVERALL,Introduction to Modern Asia,,50,68.68,16.4197989,92.0,10.0,,,,,10,7,7,,5,5,
 UBCV,2017,W,ASIA,208,,001,Cultural Foundations of South Asia,Allison Busch,46,74.695652174,13.237773504000002,100.0,41.0,,,,,7,6,,,6,8,5
+UBCV,2017,W,ASIA,208,,OVERALL,Cultural Foundations of South Asia,,46,74.695652174,13.237773504000002,100.0,41.0,,,,,7,6,,,6,8,5
 UBCV,2017,W,ASIA,250,,001,Introduction to Buddhism,Hea Won Choi,57,70.543859649,14.552945425,91.0,22.0,,,,6,5,7,7,5,12,6,
 UBCV,2017,W,ASIA,250,,002,Introduction to Buddhism,Douglas Fairchi Ober;Douglas Ober,51,70.54901960800001,13.654762869,96.0,38.0,,,5,7,6,,,,6,6,
-UBCV,2017,W,ASIA,250,,003,Introduction to Buddhism,Douglas Fairchi Ober;Douglas Ober,25,79.28,10.933587395,96.0,59.0,,,,,,,,,,,5
+UBCV,2017,W,ASIA,250,,003,Introduction to Buddhism,Douglas Fairchi Ober;Douglas Ober,25,79.28,10.933587395,96.0,59.0,,,,1,3,,,,3,4,5
+UBCV,2017,W,ASIA,250,,OVERALL,Introduction to Buddhism,,133,72.187969925,13.92629428,96.0,22.0,6,5,9,14,14,11,14,13,21,16,10
 UBCV,2017,W,ASIA,254,,001,"Sex, Gender, and Sexuality in Japanese Literature and Film",Ayaka Yoshimizu;Daniel Pieper;Jee-Yeon Song;Stefania Burk,63,71.253968254,9.967638368,95.0,36.0,,,,6,7,13,9,10,6,,
+UBCV,2017,W,ASIA,254,,OVERALL,"Sex, Gender, and Sexuality in Japanese Literature and Film",,63,71.253968254,9.967638368,95.0,36.0,,,,6,7,13,9,10,6,,
 UBCV,2017,W,ASIA,258,,001,Religion in South Asia,Peder Gedda;Peder Karl Ove Gedda,45,69.177777778,23.122488944,96.0,0.0,8,6,,,,,,,,9,11
+UBCV,2017,W,ASIA,258,,OVERALL,Religion in South Asia,,45,69.177777778,23.122488944,96.0,0.0,8,6,,,,,,,,9,11
 UBCV,2017,W,ASIA,300,,001,Writing and Culture in East Asia,Bruce Rusk,51,73.37254902,13.067456959000001,88.0,14.0,,,,,,7,7,11,10,7,
+UBCV,2017,W,ASIA,300,,OVERALL,Writing and Culture in East Asia,,51,73.37254902,13.067456959000001,88.0,14.0,,,,,,7,7,11,10,7,
 UBCV,2017,W,ASIA,301,,001,Buddhism in the Modern Era,Kaiqi Hua,34,77.176470588,10.160740215,98.0,60.0,,,,,,,7,,7,,5
+UBCV,2017,W,ASIA,301,,OVERALL,Buddhism in the Modern Era,,34,77.176470588,10.160740215,98.0,60.0,,,,,,,7,,7,,5
 UBCV,2017,W,ASIA,302,,001,Theravada Buddhism,Jessica Main,10,80.9,7.92254168,86.0,60.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,302,,OVERALL,Theravada Buddhism,,10,80.9,7.92254168,86.0,60.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,303,,001,Mahayana Buddhism,Hea Won Choi,26,66.923076923,13.508288054000001,85.0,21.0,,,7,,,,,,5,,
+UBCV,2017,W,ASIA,303,,OVERALL,Mahayana Buddhism,,26,66.923076923,13.508288054000001,85.0,21.0,,,7,,,,,,5,,
 UBCV,2017,W,ASIA,307,,001,Korean Language and Writing in Culture and Society,Kaiqi Hua;Stefania Burk;William Scott Wells;William Wells,30,78.4,14.306015132,95.0,10.0,,,,,,,,7,10,5,
+UBCV,2017,W,ASIA,307,,OVERALL,Korean Language and Writing in Culture and Society,,30,78.4,14.306015132,95.0,10.0,,,,,,,,7,10,5,
 UBCV,2017,W,ASIA,308,,001,"Myth, Ritual and Epic in Ancient India",Adheesh Sathaye;Kathryn Geddes,57,81.684210526,8.813864676,98.0,63.0,,,,,6,,5,5,11,15,12
+UBCV,2017,W,ASIA,308,,OVERALL,"Myth, Ritual and Epic in Ancient India",,57,81.684210526,8.813864676,98.0,63.0,,,,,6,,5,5,11,15,12
 UBCV,2017,W,ASIA,311,,002,Tibetan Buddhism,Chulthim Gurung;Chutlhim Gurung;Tsering Shakya,66,86.924242424,3.771596708,95.0,75.0,,,,,,,,,9,37,17
+UBCV,2017,W,ASIA,311,,OVERALL,Tibetan Buddhism,,66,86.924242424,3.771596708,95.0,75.0,,,,,,,,,9,37,17
 UBCV,2017,W,ASIA,313,,001,Tibetan and Himalayan Culture and Society,Chulthim Gurung;Chutlhim Gurung;Tsering Shakya,66,86.454545455,7.534907111,97.0,54.0,,,,,,,,,12,25,23
+UBCV,2017,W,ASIA,313,,OVERALL,Tibetan and Himalayan Culture and Society,,66,86.454545455,7.534907111,97.0,54.0,,,,,,,,,12,25,23
 UBCV,2017,W,ASIA,314,,001,Premodern Japan,Joshua Allan Linkous;Joshua Linkous;Peter Nosco,60,78.466666667,9.245185035,98.0,63.0,,,,,5,12,9,6,6,12,9
+UBCV,2017,W,ASIA,314,,OVERALL,Premodern Japan,,60,78.466666667,9.245185035,98.0,63.0,,,,,5,12,9,6,6,12,9
 UBCV,2017,W,ASIA,315,,002,Japan from Feudal to Modern State,Charlotte Ciavarella;Peter Nosco,55,76.872727273,10.435080694,96.0,45.0,,,,,5,6,6,15,7,5,7
+UBCV,2017,W,ASIA,315,,OVERALL,Japan from Feudal to Modern State,,55,76.872727273,10.435080694,96.0,45.0,,,,,5,6,6,15,7,5,7
 UBCV,2017,W,ASIA,316,,002,Race and Ethnicity in Japanese Literature and Film,Christina Yi;Joshua Allan Linkous;Joshua Linkous,59,71.169491525,10.85190678,91.0,31.0,,,,,,13,18,7,5,,
+UBCV,2017,W,ASIA,316,,OVERALL,Race and Ethnicity in Japanese Literature and Film,,59,71.169491525,10.85190678,91.0,31.0,,,,,,13,18,7,5,,
 UBCV,2017,W,ASIA,317,,001,The Rise of Korean Civilization,Cedar-Bough Saeji;Daniel Pieper;William Scott Wells;William Wells,39,77.641025641,6.826755334,92.0,61.0,,,,,,,10,11,7,,
-UBCV,2017,W,ASIA,320,,001,History of Early China,Leo Shin,42,70.19047619,17.993546398,90.0,1.0,,,,5,,9,,,,10,
-UBCV,2017,W,ASIA,320,,002,History of Early China,Clayton Ashton;Jingfei Ma,59,74.20338983100001,8.780424271000001,90.0,37.0,,,,,,11,15,7,11,7,
+UBCV,2017,W,ASIA,317,,OVERALL,The Rise of Korean Civilization,,39,77.641025641,6.826755334,92.0,61.0,,,,,,,10,11,7,,
+UBCV,2017,W,ASIA,320,,001,History of Early China,Leo Shin,42,70.19047619,17.993546398,90.0,1.0,,,,5,,9,2,3,3,10,
+UBCV,2017,W,ASIA,320,,002,History of Early China,Clayton Ashton;Jingfei Ma,59,74.20338983100001,8.780424271000001,90.0,37.0,,,,1,,11,15,7,11,7,
+UBCV,2017,W,ASIA,320,,OVERALL,History of Early China,,101,72.534653465,13.468900739,90.0,1.0,5,,,6,7,20,17,10,14,17,
 UBCV,2017,W,ASIA,324,,001,Literature of Hong Kong,Laifong Leung,54,73.388888889,9.247981252,86.0,21.0,,,,,5,5,15,16,8,,
-UBCV,2017,W,ASIA,325,,001,Hong Kong Cinema,C. D. Alison Bailey;Cedar-Bough Saeji;Jing Xian Yang;Victoria Chung,93,69.268817204,13.788101190999999,90.0,0.0,5,5,5,5,7,12,19,15,11,7,
-UBCV,2017,W,ASIA,325,,002,Hong Kong Cinema,C. D. Alison Bailey;Jing Xian Yang;Tae Yeon Eom;Victoria Chung,100,71.56,8.407932762,90.0,51.0,,,5,,19,22,14,17,7,9,
-UBCV,2017,W,ASIA,326,,001,Critical Approaches to Manga and Anime,Joelle Lee;Katarina Klafka;Sharalyn Orbaugh;Zilin (Alice) Zhou;Zilin Alice Zhou;Zilin Zhou,128,76.2734375,8.457131216,96.0,33.0,,,,,11,19,21,27,23,20,
+UBCV,2017,W,ASIA,324,,OVERALL,Literature of Hong Kong,,54,73.388888889,9.247981252,86.0,21.0,,,,,5,5,15,16,8,,
+UBCV,2017,W,ASIA,325,,001,Hong Kong Cinema,C. D. Alison Bailey;Cedar-Bough Saeji;Jing Xian Yang;Victoria Chung,93,69.268817204,13.788101190999999,90.0,0.0,5,5,5,5,7,12,19,15,11,7,2.0
+UBCV,2017,W,ASIA,325,,002,Hong Kong Cinema,C. D. Alison Bailey;Jing Xian Yang;Tae Yeon Eom;Victoria Chung,100,71.56,8.407932762,90.0,51.0,0,1,5,3,19,22,14,17,7,9,3.0
+UBCV,2017,W,ASIA,325,,OVERALL,Hong Kong Cinema,,193,70.455958549,11.351825213,90.0,0.0,5,6,10,8,26,34,33,32,18,16,5
+UBCV,2017,W,ASIA,326,,001,Critical Approaches to Manga and Anime,Joelle Lee;Katarina Klafka;Sharalyn Orbaugh;Zilin (Alice) Zhou;Zilin Alice Zhou;Zilin Zhou,128,76.2734375,8.457131216,96.0,33.0,,,,,11,19,21,27,23,20,3
 UBCV,2017,W,ASIA,326,,002,Critical Approaches to Manga and Anime,Joelle Lee;Katarina Klafka;Sharalyn Orbaugh;Zilin (Alice) Zhou;Zilin Alice Zhou;Zilin Zhou,130,75.207692308,9.072230527,93.0,35.0,,,,,10,20,21,30,16,19,5
-UBCV,2017,W,ASIA,327,,001,Korean Popular Music in Context,Ali Khalaf;Cedar-Bough Saeji;Guy Shababo;Karen Angel Nanat,118,78.483050847,10.765355204,96.0,19.0,,,,,8,15,8,25,21,16,18
+UBCV,2017,W,ASIA,326,,OVERALL,Critical Approaches to Manga and Anime,,258,75.736434109,8.771655252999999,96.0,33.0,,,5,,21,39,42,57,39,39,8
+UBCV,2017,W,ASIA,327,,001,Korean Popular Music in Context,Ali Khalaf;Cedar-Bough Saeji;Guy Shababo;Karen Angel Nanat,118,78.483050847,10.765355204,96.0,19.0,,,,4,8,15,8,25,21,16,18
 UBCV,2017,W,ASIA,327,,002,Korean Popular Music in Context,Ali Khalaf;Cedar-Bough Saeji;Guy Shababo;Jee-Yeon Song,110,76.572727273,10.62234022,94.0,33.0,,,,8,9,13,16,12,15,23,9
+UBCV,2017,W,ASIA,327,,OVERALL,Korean Popular Music in Context,,228,77.561403509,10.715820646000001,96.0,19.0,,,6,12,17,28,24,37,36,39,27
 UBCV,2017,W,ASIA,332,,001,Confucianism in China and Beyond: Reinventions of Tradition,Cedar-Bough Saeji;Clayton Ashton;Stefania Burk,34,71.794117647,13.25228262,88.0,16.0,,,,,,7,5,,7,,
+UBCV,2017,W,ASIA,332,,OVERALL,Confucianism in China and Beyond: Reinventions of Tradition,,34,71.794117647,13.25228262,88.0,16.0,,,,,,7,5,,7,,
 UBCV,2017,W,ASIA,333,,001,Contemporary South Asian Gender and Sexuality Studies,Sunera Thobani,27,77.666666667,5.083911274,92.0,69.0,,,,,,,7,7,9,,
+UBCV,2017,W,ASIA,333,,OVERALL,Contemporary South Asian Gender and Sexuality Studies,,27,77.666666667,5.083911274,92.0,69.0,,,,,,,7,7,9,,
 UBCV,2017,W,ASIA,337,,001,The Korean People in Modern Times (1600 to the present),Donald Leslie Baker,50,72.02,13.239535722000001,90.0,24.0,,,,,7,8,6,,8,8,
+UBCV,2017,W,ASIA,337,,OVERALL,The Korean People in Modern Times (1600 to the present),,50,72.02,13.239535722000001,90.0,24.0,,,,,7,8,6,,8,8,
 UBCV,2017,W,ASIA,341,,001,Classical Chinese Literature in Translation,C. D. Alison Bailey;Fiona Bewley;Oleg Benesch,64,67.15625,17.316125845,90.0,2.0,,5,,6,8,8,7,6,6,7,
+UBCV,2017,W,ASIA,341,,OVERALL,Classical Chinese Literature in Translation,,64,67.15625,17.316125845,90.0,2.0,,5,,6,8,8,7,6,6,7,
 UBCV,2017,W,ASIA,342,,001,Chinese Literature in Translation: The Vernacular Tradition,Catherine Swatek,41,71.317073171,10.962296804000001,90.0,44.0,,,,,8,5,,5,7,,
+UBCV,2017,W,ASIA,342,,OVERALL,Chinese Literature in Translation: The Vernacular Tradition,,41,71.317073171,10.962296804000001,90.0,44.0,,,,,8,5,,5,7,,
 UBCV,2017,W,ASIA,346,A,001,Topics in Japanese Cultural History II: The Early Modern Age,Minami Orihara,37,75.864864865,8.229898616,90.0,54.0,,,,,,7,,8,9,,
+UBCV,2017,W,ASIA,346,A,OVERALL,Topics in Japanese Cultural History II: The Early Modern Age,,37,75.864864865,8.229898616,90.0,54.0,,,,,,7,,8,9,,
 UBCV,2017,W,ASIA,347,,001,Traditional Korean Literature in Translation,Bruce Fulton,36,70.166666667,13.030732902999999,89.0,17.0,,,,,5,7,5,6,5,,
-UBCV,2017,W,ASIA,351,,001,Modern Chinese Fiction in Translation,Christopher Rea;Jiaqi Yao;Nicole Lin,66,69.378787879,10.920362281,88.0,41.0,,,5,5,5,13,9,13,,5,
+UBCV,2017,W,ASIA,347,,OVERALL,Traditional Korean Literature in Translation,,36,70.166666667,13.030732902999999,89.0,17.0,,,,,5,7,5,6,5,,
+UBCV,2017,W,ASIA,351,,001,Modern Chinese Fiction in Translation,Christopher Rea;Jiaqi Yao;Nicole Courteney Lin;Nicole Lin,66,69.378787879,10.920362281,88.0,41.0,,,5,5,5,13,9,13,,5,
+UBCV,2017,W,ASIA,351,,OVERALL,Modern Chinese Fiction in Translation,,66,69.378787879,10.920362281,88.0,41.0,,,5,5,5,13,9,13,,5,
 UBCV,2017,W,ASIA,354,,001,Introduction to Japanese Cinema,Ayaka Yoshimizu;Kaiqi Hua;Robyn Citizen;Saeko Suzuki;Shota Iwasaki,78,76.833333333,10.84652876,95.0,41.0,,,,,,5,11,13,17,11,8
-UBCV,2017,W,ASIA,355,,002,History of Chinese Cinema,C. D. Alison Bailey;Haoyue Li;Jialiu Zhu;Zoudan Ma,113,69.318584071,11.772596423,90.0,0.0,,5,,8,18,17,28,10,9,9,
+UBCV,2017,W,ASIA,354,,OVERALL,Introduction to Japanese Cinema,,78,76.833333333,10.84652876,95.0,41.0,,,,,,5,11,13,17,11,8
+UBCV,2017,W,ASIA,355,,002,History of Chinese Cinema,C. D. Alison Bailey;Haoyue Li;Jialiu Zhu;Zoudan Ma,113,69.318584071,11.772596423,90.0,0.0,3,5,,8,18,17,28,10,9,9,
 UBCV,2017,W,ASIA,355,,003,History of Chinese Cinema,C. D. Alison Bailey;Haoyue Li;Jialiu Zhu;Victoria Chung;Zoudan Ma,91,67.76923076899999,14.62347954,86.0,0.0,5,5,,12,12,13,8,10,11,11,
+UBCV,2017,W,ASIA,355,,OVERALL,History of Chinese Cinema,,204,68.62745098,13.109934238,90.0,0.0,8,10,8,20,30,30,36,20,20,20,2.0
 UBCV,2017,W,ASIA,356,,001,Korean Cinema,Donald Leslie Baker;Robyn Citizen;Scott Lee;Tae Yeon Eom,54,79.537037037,7.527842566,92.0,53.0,,,,,,6,10,11,10,11,5
+UBCV,2017,W,ASIA,356,,OVERALL,Korean Cinema,,54,79.537037037,7.527842566,92.0,53.0,,,,,,6,10,11,10,11,5
 UBCV,2017,W,ASIA,357,,001,Modern Korean Literature in Translation,Bruce Fulton,29,79.13793103399999,11.685534825,99.0,57.0,,,,,,,,,7,,7
+UBCV,2017,W,ASIA,357,,OVERALL,Modern Korean Literature in Translation,,29,79.13793103399999,11.685534825,99.0,57.0,,,,,,,,,7,,7
 UBCV,2017,W,ASIA,364,D,001,Modern Japanese Literature in Translation,Christina Yi,54,72.722222222,10.811274105999999,88.0,28.0,,,,,,7,12,14,7,,
-UBCV,2017,W,ASIA,365,,001,Punjabi Cinema,Ranbir Johal;Stefania Burk,37,76.405405405,14.252601047999999,97.0,31.0,,,,,,,,5,8,,7
-UBCV,2017,W,ASIA,367,,001,Contemporary Korean Culture,Jiyoung Suh,33,72.242424242,12.915664673,92.0,30.0,,,,,,6,,,,,
-UBCV,2017,W,ASIA,367,,002,Contemporary Korean Culture,Cedar-Bough Saeji,54,86.055555556,9.705895245,98.0,46.0,,,,,,,,,5,18,21
+UBCV,2017,W,ASIA,364,D,OVERALL,Modern Japanese Literature in Translation,,54,72.722222222,10.811274105999999,88.0,28.0,,,,,,7,12,14,7,,
+UBCV,2017,W,ASIA,365,,001,Punjabi Cinema,Ranbir Johal;Stefania Burk,37,77.243243243,12.28460058,97.0,53.0,,,,,,,,5,8,,7
+UBCV,2017,W,ASIA,365,,OVERALL,Punjabi Cinema,,37,77.243243243,12.28460058,97.0,53.0,,,,,,,,5,8,,7
+UBCV,2017,W,ASIA,367,,001,Contemporary Korean Culture,Jiyoung Suh,33,72.242424242,12.915664673,92.0,30.0,,,,,,6,,,3,4,3
+UBCV,2017,W,ASIA,367,,002,Contemporary Korean Culture,Cedar-Bough Saeji,54,86.055555556,9.705895245,98.0,46.0,,,,,,1,,,5,18,21
+UBCV,2017,W,ASIA,367,,OVERALL,Contemporary Korean Culture,,87,80.816091954,12.867417601,98.0,30.0,,,,5,,7,7,6,8,22,24
 UBCV,2017,W,ASIA,371,,001,Foundations of Chinese Thought,Edward Slingerland;Jiaqi Yao,29,81.413793103,6.383669127,93.0,66.0,,,,,,,,,14,6,
 UBCV,2017,W,ASIA,371,,002,Foundations of Chinese Thought,Edward Slingerland;Jiaqi Yao,18,77.388888889,9.325101412,94.0,60.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,371,,003,Foundations of Chinese Thought,Edward Slingerland;Jiaqi Yao,22,71.0,10.765907389,88.0,55.0,,,5,,,,,,,,
 UBCV,2017,W,ASIA,371,,004,Foundations of Chinese Thought,Clayton Ashton,51,73.666666667,12.481452907000001,85.0,0.0,,,,,,5,20,8,9,5,
+UBCV,2017,W,ASIA,371,,OVERALL,Foundations of Chinese Thought,,120,75.608333333,11.052431067,94.0,0.0,,,5,,,14,30,12,28,18,
 UBCV,2017,W,ASIA,372,,001,Development of Traditional Chinese Thought,Clayton Ashton;Jinhua Chen,52,74.615384615,9.604234863,90.0,32.0,,,,,,,17,13,5,6,
+UBCV,2017,W,ASIA,372,,OVERALL,Development of Traditional Chinese Thought,,52,74.615384615,9.604234863,90.0,32.0,,,,,,,17,13,5,6,
 UBCV,2017,W,ASIA,377,,002,History of Korean Thought,Donald Leslie Baker,8,78.25,9.558093055,90.0,66.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,377,,OVERALL,History of Korean Thought,,8,78.25,9.558093055,90.0,66.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,381,,001,Daoist (Taoist) Religion and Its Philosophical Background,Clayton Ashton,43,77.046511628,5.756790972999999,86.0,67.0,,,,,,6,9,6,14,5,
-UBCV,2017,W,ASIA,382,,001,Buddhism in China,Kaiqi Hua,53,67.77358490600001,9.343120689,92.0,50.0,,,6,13,10,,9,,,,
-UBCV,2017,W,ASIA,382,,002,Buddhism in China,Clayton Ashton,54,73.592592593,8.286197932,87.0,33.0,,,,,,9,19,13,6,,
+UBCV,2017,W,ASIA,381,,OVERALL,Daoist (Taoist) Religion and Its Philosophical Background,,43,77.046511628,5.756790972999999,86.0,67.0,,,,,,6,9,6,14,5,
+UBCV,2017,W,ASIA,382,,001,Buddhism in China,Kaiqi Hua,53,67.77358490600001,9.343120689,92.0,50.0,,,6,13,10,4,9,3,4,,
+UBCV,2017,W,ASIA,382,,002,Buddhism in China,Clayton Ashton,54,73.592592593,8.286197932,87.0,33.0,,,1,0,1,9,19,13,6,,
+UBCV,2017,W,ASIA,382,,OVERALL,Buddhism in China,,107,70.71028037399999,9.257337065,92.0,33.0,,,7,13,11,13,28,16,10,5,
 UBCV,2017,W,ASIA,386,,001,Chinese Grammar and Usage I,Duanduan Li;Liam Doherty;Shuang Li;Yinzong Wei,149,76.791946309,10.703166472000001,94.0,3.0,,,,,7,15,25,31,40,19,5
+UBCV,2017,W,ASIA,386,,OVERALL,Chinese Grammar and Usage I,,149,76.791946309,10.703166472000001,94.0,3.0,,,,,7,15,25,31,40,19,5
 UBCV,2017,W,ASIA,387,,001,Japanese Religions,Peter Nosco,52,73.173076923,15.547171931,96.0,20.0,,,,,,8,,6,9,5,6
+UBCV,2017,W,ASIA,387,,OVERALL,Japanese Religions,,52,73.173076923,15.547171931,96.0,20.0,,,,,,8,,6,9,5,6
 UBCV,2017,W,ASIA,390,,001,History of the Indian Ocean World,Oleg Benesch;Thomas Hunter;Thomas Marshall Hunter Jr;Zaid Soofi Salman;Zaid Soofi Soofi Salman,67,83.641791045,13.974762417,99.0,0.0,,,,,,8,,,9,16,25
+UBCV,2017,W,ASIA,390,,OVERALL,History of the Indian Ocean World,,67,83.641791045,13.974762417,99.0,0.0,,,,,,8,,,9,16,25
 UBCV,2017,W,ASIA,392,,002,Classical Persian Literature in English Translation,Nasrin Askari,47,86.617021277,5.198466293,94.0,74.0,,,,,,,,,9,16,17
+UBCV,2017,W,ASIA,392,,OVERALL,Classical Persian Literature in English Translation,,47,86.617021277,5.198466293,94.0,74.0,,,,,,,,,9,16,17
 UBCV,2017,W,ASIA,393,,001,History of Iran from the Sasanians to the Safavids,Nasrin Askari,36,82.972222222,8.63377458,95.0,60.0,,,,,,,,,9,10,9
+UBCV,2017,W,ASIA,393,,OVERALL,History of Iran from the Sasanians to the Safavids,,36,82.972222222,8.63377458,95.0,60.0,,,,,,,,,9,10,9
 UBCV,2017,W,ASIA,394,,001,Post-Revolutionary Iranian Cinema,Christina Yi;Jee-Yeon Song;Nasrin Askari,46,87.369565217,5.161217323,95.0,75.0,,,,,,,,,7,19,16
+UBCV,2017,W,ASIA,394,,OVERALL,Post-Revolutionary Iranian Cinema,,46,87.369565217,5.161217323,95.0,75.0,,,,,,,,,7,19,16
 UBCV,2017,W,ASIA,396,,001,Chinese Grammar and Usage II,Duanduan Li;Yinzong Wei,108,70.722222222,9.643973792999999,92.0,41.0,,,,16,13,20,18,10,14,,
+UBCV,2017,W,ASIA,396,,OVERALL,Chinese Grammar and Usage II,,108,70.722222222,9.643973792999999,92.0,41.0,,,,16,13,20,18,10,14,,
 UBCV,2017,W,ASIA,398,,002,Narrative Literature in Premodern India,Adheesh Sathaye,32,85.15625,12.331730316,95.0,25.0,,,,,,,,,5,12,12
+UBCV,2017,W,ASIA,398,,OVERALL,Narrative Literature in Premodern India,,32,85.15625,12.331730316,95.0,25.0,,,,,,,,,5,12,12
 UBCV,2017,W,ASIA,410,,001,International Relations in Premodern East Asia,Nam-Lin Hur;Tae Yeon Eom,63,65.888888889,13.024927851,90.0,21.0,,,8,12,12,5,6,,,5,
+UBCV,2017,W,ASIA,410,,OVERALL,International Relations in Premodern East Asia,,63,65.888888889,13.024927851,90.0,21.0,,,8,12,12,5,6,,,5,
 UBCV,2017,W,ASIA,411,,001,Chinese Political Thought and Institutions,Cole Dickson;Josephine Chiu-Duke,59,69.35593220300001,14.600144912000001,92.0,22.0,,6,,10,5,,5,5,7,6,5
+UBCV,2017,W,ASIA,411,,OVERALL,Chinese Political Thought and Institutions,,59,69.35593220300001,14.600144912000001,92.0,22.0,,6,,10,5,,5,5,7,6,5
 UBCV,2017,W,ASIA,427,,001,Topics in Korean Popular Culture (Hallyu),Bruce Fulton,17,77.411764706,9.083355819,87.0,57.0,,,,,,,,,,6,
+UBCV,2017,W,ASIA,427,,OVERALL,Topics in Korean Popular Culture (Hallyu),,17,77.411764706,9.083355819,87.0,57.0,,,,,,,,,,6,
 UBCV,2017,W,ASIA,433,,001,The Cinematic Lives of Muslims in South Asia,Sunera Thobani,12,80.5,4.833594559,92.0,74.0,,,,,,,,5,,,
+UBCV,2017,W,ASIA,433,,OVERALL,The Cinematic Lives of Muslims in South Asia,,12,80.5,4.833594559,92.0,74.0,,,,,,,,5,,,
 UBCV,2017,W,ASIA,440,,001,Cultural History of Imperial China,Leo Shin,25,76.56,11.317685275999999,89.0,38.0,,,,,,,,,14,,
+UBCV,2017,W,ASIA,440,,OVERALL,Cultural History of Imperial China,,25,76.56,11.317685275999999,89.0,38.0,,,,,,,,,14,,
 UBCV,2017,W,ASIA,444,,001,Topics in Modern Japanese Fiction and Cultural History,Christina Yi;Huiyong Cyrus Qiu,62,70.080645161,13.770124929000001,86.0,10.0,,,,5,,10,15,9,9,,
+UBCV,2017,W,ASIA,444,,OVERALL,Topics in Modern Japanese Fiction and Cultural History,,62,70.080645161,13.770124929000001,86.0,10.0,,,,5,,10,15,9,9,,
 UBCV,2017,W,ASIA,451,,002,Modern Chinese Authors in Translation,C. D. Alison Bailey,20,78.6,6.327883158,90.0,68.0,,,,,,,,8,,,
+UBCV,2017,W,ASIA,451,,OVERALL,Modern Chinese Authors in Translation,,20,78.6,6.327883158,90.0,68.0,,,,,,,,8,,,
 UBCV,2017,W,ASIA,453,,001,Japanese Travel Literature,Christina Laffin,22,75.681818182,7.942569835,85.0,50.0,,,,,,,,,10,,
+UBCV,2017,W,ASIA,453,,OVERALL,Japanese Travel Literature,,22,75.681818182,7.942569835,85.0,50.0,,,,,,,,,10,,
 UBCV,2017,W,ASIA,456,,001,History and Culture of Taiwan,Cole Dickson;Josephine Chiu-Duke,64,74.59375,10.932286172000001,94.0,46.0,,,,5,,6,9,8,16,6,
+UBCV,2017,W,ASIA,456,,OVERALL,History and Culture of Taiwan,,64,74.59375,10.932286172000001,94.0,46.0,,,,5,,6,9,8,16,6,
 UBCV,2017,W,ASIA,475,,001,Documenting Punjabi Canada,Ajay Bhardwaj;Anne Murphy;Navneet Aujla,28,83.5,4.281744193,91.0,73.0,,,,,,,,,11,11,
+UBCV,2017,W,ASIA,475,,OVERALL,Documenting Punjabi Canada,,28,83.5,4.281744193,91.0,73.0,,,,,,,,,11,11,
 UBCV,2017,W,ASIA,488,,001,"Religion, Society and State in Modern India",Harjot Singh Oberoi,46,76.913043478,16.271073292,93.0,0.0,,,,,,,,,22,7,
+UBCV,2017,W,ASIA,488,,OVERALL,"Religion, Society and State in Modern India",,46,76.913043478,16.271073292,93.0,0.0,,,,,,,,,22,7,
 UBCV,2017,W,ASIA,495,,001,Folk Cultures in the Asian Diaspora,Adheesh Sathaye,17,87.88235294100001,4.755028298,96.0,80.0,,,,,,,,,,8,6
+UBCV,2017,W,ASIA,495,,OVERALL,Folk Cultures in the Asian Diaspora,,17,87.88235294100001,4.755028298,96.0,80.0,,,,,,,,,,8,6
 UBCV,2017,W,ASIA,511,B,012,Readings in Chinese Religious Texts,Jinhua Chen,5,88.2,2.863564213,92.0,85.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,511,B,OVERALL,Readings in Chinese Religious Texts,,5,88.2,2.863564213,92.0,85.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,515,A,015,Topics in Early Vernacular Modern Chinese Literature,Catherine Swatek,6,80.166666667,14.838014243,92.0,51.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,515,A,OVERALL,Topics in Early Vernacular Modern Chinese Literature,,6,80.166666667,14.838014243,92.0,51.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,528,A,019,Problems of Japanese Intellectual History,Peter Nosco,6,91.166666667,3.488074923,96.0,87.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,528,A,OVERALL,Problems of Japanese Intellectual History,,6,91.166666667,3.488074923,96.0,87.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,533,A,006,Topics in Modern Japanese Literature,Christina Yi,7,87.428571429,2.699206233,92.0,84.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,533,A,OVERALL,Topics in Modern Japanese Literature,,7,87.428571429,2.699206233,92.0,84.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,533,B,011,Topics in Modern Japanese Literature,Sharalyn Orbaugh,6,89.833333333,1.602081979,92.0,88.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,533,B,OVERALL,Topics in Modern Japanese Literature,,6,89.833333333,1.602081979,92.0,88.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,541,A,023,Research Methods and Source Materials in South Asian Studies,Adheesh Sathaye,5,89.6,4.929503018,95.0,86.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,541,A,OVERALL,Research Methods and Source Materials in South Asian Studies,,6,89.166666667,4.535048695,95.0,86.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,562,,016,"Buddhism, Modernity, and the Nation-State in Asia",Jessica Main,7,86.0,0.0,86.0,86.0,,,,,,,,,,7,
+UBCV,2017,W,ASIA,562,,OVERALL,"Buddhism, Modernity, and the Nation-State in Asia",,10,86.0,0.0,86.0,86.0,,,,,,,,,,10,
 UBCV,2017,W,ASIA,570,A,011,Approaches to Asian Literature,Sharalyn Orbaugh,7,84.285714286,19.584979667,94.0,40.0,,,,,,,,,,,6
+UBCV,2017,W,ASIA,570,A,OVERALL,Approaches to Asian Literature,,7,84.285714286,19.584979667,94.0,40.0,,,,,,,,,,,6
+UBCV,2017,W,ASIA,580,A,OVERALL,Directed Readings,,7,85.857142857,4.140393356000001,92.0,79.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,580,B,OVERALL,Directed Readings,,7,91.0,4.618802154,95.0,84.0,,,,,,,,,,,5
+UBCV,2017,W,ASIA,587,A,OVERALL,The Choson Dynasty,,5,88.4,2.607680962,92.0,86.0,,,,,,,,,,,
 UBCV,2017,W,ASIA,591,,001,Critical Issues in Asian Studies,Harjot Singh Oberoi,5,90.6,1.949358869,93.0,88.0,,,,,,,,,,,
+UBCV,2017,W,ASIA,591,,OVERALL,Critical Issues in Asian Studies,,5,90.6,1.949358869,93.0,88.0,,,,,,,,,,,

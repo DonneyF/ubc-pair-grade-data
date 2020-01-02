@@ -1,41 +1,71 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,S,BUSI,100,,921,Micro Foundations of Real Estate Economics,,61,67.754098361,25.846763651999996,92.0,0.0,11,,,,,,5,11,12,10,
+UBCV,2016,S,BUSI,100,,OVERALL,Micro Foundations of Real Estate Economics,,61,67.754098361,25.846763651999996,92.0,0.0,11,,,,,,5,11,12,10,
 UBCV,2016,S,BUSI,101,,921,Capital Markets and Real Estate,,44,70.522727273,19.556107279000003,93.0,2.0,6,,,,,6,,10,9,,
+UBCV,2016,S,BUSI,101,,OVERALL,Capital Markets and Real Estate,,44,70.522727273,19.556107279000003,93.0,2.0,6,,,,,6,,10,9,,
 UBCV,2016,S,BUSI,111,,921,British Columbia Real Estate Law and Real Estate Ethics,,28,66.321428571,24.346348987,90.0,0.0,6,,,,,,6,5,5,,
+UBCV,2016,S,BUSI,111,,OVERALL,British Columbia Real Estate Law and Real Estate Ethics,,28,66.321428571,24.346348987,90.0,0.0,6,,,,,,6,5,5,,
 UBCV,2016,S,BUSI,112,,921,Canadian Real Property Law and Real Estate Ethics,,71,70.915492958,24.187214142,93.0,2.0,10,,,,,,7,9,20,14,
+UBCV,2016,S,BUSI,112,,OVERALL,Canadian Real Property Law and Real Estate Ethics,,71,70.915492958,24.187214142,93.0,2.0,10,,,,,,7,9,20,14,
 UBCV,2016,S,BUSI,121,,921,Foundations of Real Estate Mathematics,,95,60.273684211,29.273996196,93.0,0.0,26,,,11,,8,5,12,15,9,6
-UBCV,2016,S,BUSI,293,,922,Introductory Financial Accounting,Aziz Rajwani,94,68.414893617,21.32513766,97.0,1.0,11,9,,6,7,7,9,9,11,6,15
-UBCV,2016,S,BUSI,294,,921,Introductory Management Accounting,Aziz Rajwani,38,71.15789473699999,16.43911998,95.0,26.0,,,,,,5,,,,,8
-UBCV,2016,S,BUSI,294,,971,Introductory Management Accounting,David Chan,50,74.36,13.229157654000002,96.0,27.0,,,5,,,,6,8,9,,7
+UBCV,2016,S,BUSI,121,,OVERALL,Foundations of Real Estate Mathematics,,95,60.273684211,29.273996196,93.0,0.0,26,,,11,,8,5,12,15,9,6
+UBCV,2016,S,BUSI,293,,922,Introductory Financial Accounting,Aziz Rajwani,94,68.414893617,21.32513766,97.0,1.0,11,9,4.0,6,7,7,9,9,11,6,15
+UBCV,2016,S,BUSI,293,,OVERALL,Introductory Financial Accounting,,94,68.414893617,21.32513766,97.0,1.0,11,9,4.0,6,7,7,9,9,11,6,15
+UBCV,2016,S,BUSI,294,,921,Introductory Management Accounting,Aziz Rajwani,38,71.15789473699999,16.43911998,95.0,26.0,,,3,,,5,3,2,1,,8
+UBCV,2016,S,BUSI,294,,971,Introductory Management Accounting,David Chan,50,74.36,13.229157654000002,96.0,27.0,,,5,,,3,6,8,9,,7
+UBCV,2016,S,BUSI,294,,OVERALL,Introductory Management Accounting,,88,72.977272727,14.69848477,96.0,26.0,,,8,8,,8,9,10,10,8,15
 UBCV,2016,S,BUSI,300,,921,Urban and Real Estate Economics,,77,58.454545455,28.194132207,94.0,0.0,20,,,9,10,,10,7,6,8,
+UBCV,2016,S,BUSI,300,,OVERALL,Urban and Real Estate Economics,,77,58.454545455,28.194132207,94.0,0.0,20,,,9,10,,10,7,6,8,
 UBCV,2016,S,BUSI,330,,921,Foundations of Real Estate Appraisal,,240,59.35,27.846455871,91.0,0.0,67,,,14,16,24,31,32,34,20,
+UBCV,2016,S,BUSI,330,,OVERALL,Foundations of Real Estate Appraisal,,240,59.35,27.846455871,91.0,0.0,67,,,14,16,24,31,32,34,20,
 UBCV,2016,S,BUSI,331,,921,Real Estate Investment Analysis and Advanced Income Appraisal,,62,57.161290323,30.014856184,91.0,0.0,18,,,5,,9,11,,10,,
-UBCV,2016,S,BUSI,335,,921,Information Systems,Muhammad Usman Aleem,36,76.0,16.775832958,97.0,25.0,,,,,,,,,8,,9
+UBCV,2016,S,BUSI,331,,OVERALL,Real Estate Investment Analysis and Advanced Income Appraisal,,62,57.161290323,30.014856184,91.0,0.0,18,,,5,,9,11,,10,,
+UBCV,2016,S,BUSI,335,,921,Information Systems,Muhammad Usman Aleem,36,76.0,16.775832958,97.0,25.0,,,,,1,,,,8,2,9
 UBCV,2016,S,BUSI,335,,971,Information Systems,Muhammad Usman Aleem,49,78.387755102,12.26583386,92.0,32.0,,,,,6,,,,12,10,9
+UBCV,2016,S,BUSI,335,,OVERALL,Information Systems,,85,77.376470588,14.305324076,97.0,25.0,,,,5,7,6,,6,20,12,18
 UBCV,2016,S,BUSI,344,,921,Statistical and Computer Applications in Valuation,,31,74.516129032,18.658100952999998,93.0,3.0,,,,,,,6,,9,,
+UBCV,2016,S,BUSI,344,,OVERALL,Statistical and Computer Applications in Valuation,,31,74.516129032,18.658100952999998,93.0,3.0,,,,,,,6,,9,,
 UBCV,2016,S,BUSI,353,,921,Intermediate Financial Accounting I,Robert Brian Bruce,65,76.384615385,9.660959301,93.0,43.0,,,,,9,5,7,8,19,10,
-UBCV,2016,S,BUSI,353,,971,Intermediate Financial Accounting I,David Chan,49,70.632653061,8.676342061,88.0,45.0,,,,,7,12,12,,6,,
-UBCV,2016,S,BUSI,354,,921,Cost Accounting,Aklilu Mulat,35,73.8,9.304647795,92.0,57.0,,,,,5,,,5,9,,
-UBCV,2016,S,BUSI,354,,971,Cost Accounting,Peter Norwood,29,72.34482758600001,12.254083465,97.0,45.0,,,,,,,5,,6,,
-UBCV,2016,S,BUSI,355,,921,Introduction to Income Tax,Tran Khue Chung,38,69.184210526,19.147867376,92.0,2.0,,5,,,,,,,6,7,
-UBCV,2016,S,BUSI,355,,971,Introduction to Income Tax,Grant Lee,21,71.428571429,12.5362332,90.0,43.0,,,,,,,5,,,,
-UBCV,2016,S,BUSI,370,,921,Business Finance,Barbara Wyntjes,31,83.483870968,9.200981715,96.0,57.0,,,,,,,,,7,7,9
-UBCV,2016,S,BUSI,370,,971,Business Finance,Aziz Rajwani,29,70.448275862,18.399507383,95.0,3.0,,,,,,,9,,5,,
-UBCV,2016,S,BUSI,393,,921,Introduction to Business Law,Barbara Cox,41,71.268292683,15.272564274,98.0,28.0,,,,,,6,,5,,6,
-UBCV,2016,S,BUSI,393,,971,Introduction to Business Law,Ellen Jane Mcintosh,20,72.6,19.935158045999998,93.0,15.0,,,,,,,6,,,,
+UBCV,2016,S,BUSI,353,,971,Intermediate Financial Accounting I,David Chan,49,70.632653061,8.676342061,88.0,45.0,,,,,7,12,12,3,6,2,
+UBCV,2016,S,BUSI,353,,OVERALL,Intermediate Financial Accounting I,,114,73.912280702,9.644624715,93.0,43.0,,,,5,16,17,19,11,25,12,
+UBCV,2016,S,BUSI,354,,921,Cost Accounting,Aklilu Mulat,35,73.8,9.304647795,92.0,57.0,,,,,5,,4,5,9,,
+UBCV,2016,S,BUSI,354,,971,Cost Accounting,Peter Norwood,29,72.34482758600001,12.254083465,97.0,45.0,,,,,3,,5,4,6,,
+UBCV,2016,S,BUSI,354,,OVERALL,Cost Accounting,,64,73.140625,10.676880805,97.0,45.0,,,,5,8,5,9,9,15,,
+UBCV,2016,S,BUSI,355,,921,Introduction to Income Tax,Tran Khue Chung,38,69.184210526,19.147867376,92.0,2.0,,5,,,,,4,,6,7,
+UBCV,2016,S,BUSI,355,,971,Introduction to Income Tax,Grant Lee,21,71.428571429,12.5362332,90.0,43.0,,0,,,,,5,,2,3,
+UBCV,2016,S,BUSI,355,,OVERALL,Introduction to Income Tax,,59,69.983050847,17.007596199,92.0,2.0,6,5,,,7,,9,,8,10,
+UBCV,2016,S,BUSI,370,,921,Business Finance,Barbara Wyntjes,31,83.483870968,9.200981715,96.0,57.0,,,,,,,3,,7,7,9
+UBCV,2016,S,BUSI,370,,971,Business Finance,Aziz Rajwani,29,70.448275862,18.399507383,95.0,3.0,,,,,,,9,,5,2,2
+UBCV,2016,S,BUSI,370,,OVERALL,Business Finance,,60,77.18333333300001,15.711910269,96.0,3.0,,,,,,5,12,,12,9,11
+UBCV,2016,S,BUSI,393,,921,Introduction to Business Law,Barbara Cox,41,71.268292683,15.272564274,98.0,28.0,,,,,,6,3,5,,6,
+UBCV,2016,S,BUSI,393,,971,Introduction to Business Law,Ellen Jane Mcintosh;Ellen Mcintosh,20,72.6,19.935158045999998,93.0,15.0,,,,,,3,6,1,,4,
+UBCV,2016,S,BUSI,393,,OVERALL,Introduction to Business Law,,61,71.704918033,16.785255695,98.0,15.0,6,,,,,9,9,6,6,10,6
 UBCV,2016,S,BUSI,398,,921,Residental Property Guided Case Study,,27,43.074074073999995,31.854145879,88.0,0.0,15,,,,,,,,,,
+UBCV,2016,S,BUSI,398,,OVERALL,Residental Property Guided Case Study,,27,43.074074073999995,31.854145879,88.0,0.0,15,,,,,,,,,,
 UBCV,2016,S,BUSI,400,,921,Residential Property Analysis,,68,75.955882353,21.871697669,96.0,0.0,6,,,,,,,10,18,16,9
+UBCV,2016,S,BUSI,400,,OVERALL,Residential Property Analysis,,68,75.955882353,21.871697669,96.0,0.0,6,,,,,,,10,18,16,9
 UBCV,2016,S,BUSI,401,,921,Commercial Property Analysis,,79,67.278481013,23.595923545,91.0,0.0,9,,,,5,14,11,18,12,6,
+UBCV,2016,S,BUSI,401,,OVERALL,Commercial Property Analysis,,79,67.278481013,23.595923545,91.0,0.0,9,,,,5,14,11,18,12,6,
 UBCV,2016,S,BUSI,433,,921,Real Estate Business,,28,66.464285714,22.920930339,90.0,0.0,,,,,,,5,,5,,
+UBCV,2016,S,BUSI,433,,OVERALL,Real Estate Business,,28,66.464285714,22.920930339,90.0,0.0,,,,,,,5,,5,,
 UBCV,2016,S,BUSI,442,,921,Case Studies in Appraisal I,,46,72.630434783,21.58019534,93.0,0.0,5,,,,,,,11,7,10,
+UBCV,2016,S,BUSI,442,,OVERALL,Case Studies in Appraisal I,,46,72.630434783,21.58019534,93.0,0.0,5,,,,,,,11,7,10,
 UBCV,2016,S,BUSI,443,,921,Assessment Administration,,40,67.525,19.949921277,85.0,0.0,,,,6,,,7,8,7,,
-UBCV,2016,S,BUSI,450,,921,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,61,67.278688525,15.024570040999999,95.0,37.0,7,,6,9,,6,11,,5,,5
-UBCV,2016,S,BUSI,450,,971,Intermediate Financial Accounting II,Chuck Campbell,58,74.931034483,11.378437701,93.0,50.0,,,,,,7,10,5,8,6,9
+UBCV,2016,S,BUSI,443,,OVERALL,Assessment Administration,,40,67.525,19.949921277,85.0,0.0,,,,6,,,7,8,7,,
+UBCV,2016,S,BUSI,450,,921,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,61,67.278688525,15.024570040999999,95.0,37.0,7,,6,9,,6,11,2,5,4,5
+UBCV,2016,S,BUSI,450,,971,Intermediate Financial Accounting II,Chuck Campbell,58,74.931034483,11.378437701,93.0,50.0,0,,3,3,,7,10,5,8,6,9
+UBCV,2016,S,BUSI,450,,OVERALL,Intermediate Financial Accounting II,,119,71.008403361,13.859155817000001,95.0,37.0,7,5,9,12,8,13,21,7,13,10,14
 UBCV,2016,S,BUSI,452,,921,Case Studies in Appraisal II,,36,76.555555556,13.476846694,94.0,12.0,,,,,,,6,7,9,6,
+UBCV,2016,S,BUSI,452,,OVERALL,Case Studies in Appraisal II,,36,76.555555556,13.476846694,94.0,12.0,,,,,,,6,7,9,6,
 UBCV,2016,S,BUSI,453,,921,Advanced Financial Accounting,Barbara Wyntjes,67,72.76119403,16.93578742,97.0,20.0,,6,,9,5,,,6,10,7,12
-UBCV,2016,S,BUSI,453,,971,Advanced Financial Accounting,Chuck Campbell,38,72.131578947,19.097433042000002,96.0,16.0,,,,,,,,,9,7,
-UBCV,2016,S,BUSI,455,,921,Principles of Auditing,Mary Chong,45,73.755555556,12.188212554000001,88.0,14.0,,,,,6,,5,12,7,8,
-UBCV,2016,S,BUSI,455,,971,Principles of Auditing,Ryan Calder,63,79.984126984,8.936139138,98.0,62.0,,,,,7,8,,6,13,16,8
+UBCV,2016,S,BUSI,453,,971,Advanced Financial Accounting,Chuck Campbell,38,72.131578947,19.097433042000002,96.0,16.0,,2,,1,1,,,3,9,7,4
+UBCV,2016,S,BUSI,453,,OVERALL,Advanced Financial Accounting,,105,72.533333333,17.659747073,97.0,16.0,7,8,5,10,6,3.0,8,9,19,14,16
+UBCV,2016,S,BUSI,455,,921,Principles of Auditing,Mary Chong,45,73.755555556,12.188212554000001,88.0,14.0,,,,,6,4,5,12,7,8,0
+UBCV,2016,S,BUSI,455,,971,Principles of Auditing,Ryan Calder,63,79.984126984,8.936139138,98.0,62.0,,,,,7,8,4,6,13,16,8
+UBCV,2016,S,BUSI,455,,OVERALL,Principles of Auditing,,108,77.388888889,10.810892165,98.0,14.0,,,,,13,12,9,18,20,24,8
 UBCV,2016,S,BUSI,470,,971,Financial Management,Robin Diehl,32,80.9375,9.708451589,95.0,53.0,,,,,,,,,9,10,
+UBCV,2016,S,BUSI,470,,OVERALL,Financial Management,,32,80.9375,9.708451589,95.0,53.0,,,,,,,,,9,10,
 UBCV,2016,S,BUSI,493,,921,Strategic Management in Business,Kevin James,39,82.48717948699999,7.58763466,95.0,58.0,,,,,,,8,5,8,10,7
+UBCV,2016,S,BUSI,493,,OVERALL,Strategic Management in Business,,39,82.48717948699999,7.58763466,95.0,58.0,,,,,,,8,5,8,10,7
 UBCV,2016,S,BUSI,499,,921,Income Property Guided Case Study,,34,54.264705882,35.61095237,93.0,0.0,12,,,,,,,6,,,
+UBCV,2016,S,BUSI,499,,OVERALL,Income Property Guided Case Study,,34,54.264705882,35.61095237,93.0,0.0,12,,,,,,,6,,,

@@ -1,10 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,S,CPSC,110,,911,"Computation, Programs, and Programming",Meghan Allen,162,75.462962963,17.337403965,99.0,12.0,17,,6,9,6,9,13,18,21,23,37
+UBCV,2014,S,CPSC,110,,911,"Computation, Programs, and Programming",Meghan Allen,162,75.462962963,17.337403965,99.0,12.0,17,3.0,6,9,6,9,13,18,21,23,37
+UBCV,2014,S,CPSC,110,,OVERALL,"Computation, Programs, and Programming",,162,75.462962963,17.337403965,99.0,12.0,17,3.0,6,9,6,9,13,18,21,23,37
 UBCV,2014,S,CPSC,121,,922,Models of Computation,Kurt Eiselt,107,84.56074766399999,10.088455545,98.0,44.0,,,,,,,12,,12,30,39
+UBCV,2014,S,CPSC,121,,OVERALL,Models of Computation,,107,84.56074766399999,10.088455545,98.0,44.0,,,,,,,12,,12,30,39
 UBCV,2014,S,CPSC,210,,921,Software Construction,Paul Martin Carter,109,78.596330275,15.448312425,100.0,34.0,8,,,5,11,,7,11,11,11,38
+UBCV,2014,S,CPSC,210,,OVERALL,Software Construction,,109,78.596330275,15.448312425,100.0,34.0,8,,,5,11,,7,11,11,11,38
 UBCV,2014,S,CPSC,213,,921,Introduction to Computer Systems,Georgios Tsiknis,117,79.982905983,9.912533781,100.0,54.0,,,,,8,9,16,8,30,16,24
+UBCV,2014,S,CPSC,213,,OVERALL,Introduction to Computer Systems,,117,79.982905983,9.912533781,100.0,54.0,,,,,8,9,16,8,30,16,24
 UBCV,2014,S,CPSC,221,,911,Basic Algorithms and Data Structures,Nicholas Harvey,120,85.158333333,11.455427566,99.0,1.0,,,,,,6,7,6,24,28,45
+UBCV,2014,S,CPSC,221,,OVERALL,Basic Algorithms and Data Structures,,120,85.158333333,11.455427566,99.0,1.0,,,,,,6,7,6,24,28,45
 UBCV,2014,S,CPSC,304,,911,Introduction to Relational Databases,Hassan Khosravi,104,76.432692308,10.08773592,97.0,51.0,,,,8,5,16,13,13,18,16,11
+UBCV,2014,S,CPSC,304,,OVERALL,Introduction to Relational Databases,,104,76.432692308,10.08773592,97.0,51.0,,,,8,5,16,13,13,18,16,11
 UBCV,2014,S,CPSC,310,,921,Introduction to Software Engineering,Elisa Baniassad,76,79.118421053,10.440903033,100.0,38.0,,,,,,9,9,12,13,12,14
+UBCV,2014,S,CPSC,310,,OVERALL,Introduction to Software Engineering,,76,79.118421053,10.440903033,100.0,38.0,,,,,,9,9,12,13,12,14
 UBCV,2014,S,CPSC,320,,921,Intermediate Algorithm Design and Analysis,Jonatan Schroeder,81,71.01234567899999,16.535185080999998,99.0,0.0,,,5,9,8,9,12,8,10,5,8
+UBCV,2014,S,CPSC,320,,OVERALL,Intermediate Algorithm Design and Analysis,,81,71.01234567899999,16.535185080999998,99.0,0.0,,,5,9,8,9,12,8,10,5,8
 UBCV,2014,S,CPSC,322,,911,Introduction to Artificial Intelligence,Cristina Conati,64,71.765625,15.692220484000002,100.0,33.0,,7,,7,,,,9,8,10,6
+UBCV,2014,S,CPSC,322,,OVERALL,Introduction to Artificial Intelligence,,64,71.765625,15.692220484000002,100.0,33.0,,7,,7,,,,9,8,10,6

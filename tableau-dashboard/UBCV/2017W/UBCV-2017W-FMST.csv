@@ -1,17 +1,22 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,FMST,210,,001,Family Context of Human Development,Maria Weatherby,77,63.402597403,18.645769762,93.0,0.0,13,8,11,8,5,,,9,,7,
-UBCV,2017,W,FMST,210,,002,Family Context of Human Development,Maria Weatherby,95,71.526315789,14.89098121,96.0,21.0,7,,7,10,11,10,7,9,8,15,8
-UBCV,2017,W,FMST,210,,003,Family Context of Human Development,Maria Weatherby,91,74.142857143,13.0831286,97.0,44.0,,9,,,6,11,10,15,10,10,11
-UBCV,2017,W,FMST,210,,004,Family Context of Human Development,Maria Weatherby,99,67.696969697,16.005391020999998,97.0,0.0,11,5,11,10,10,14,10,,9,6,9
-UBCV,2017,W,FMST,210,,005,Family Context of Human Development,Maria Weatherby,78,70.5,16.349867945,96.0,4.0,5,6,8,,5,,12,10,8,8,8
-UBCV,2017,W,FMST,210,,008,Family Context of Human Development,Maria Weatherby,100,68.43,15.713505097,96.0,5.0,13,,13,7,7,11,6,10,12,11,6
-UBCV,2017,W,FMST,210,,009,Family Context of Human Development,Maria Weatherby,109,71.495412844,14.957732952,96.0,13.0,8,5,7,6,13,13,10,11,13,10,13
-UBCV,2017,W,FMST,238,,002,Family Resource Management,Phyllis Johnson;Sara Chitsaz,75,75.626666667,8.409732671,94.0,58.0,,,,,6,13,14,6,18,9,
-UBCV,2017,W,FMST,312,,002,Parent-child Relationships,Maria Weatherby,59,74.79661016899999,13.863596165999999,97.0,39.0,,,6,,7,,6,9,,,13
-UBCV,2017,W,FMST,312,,100,Parent-child Relationships,Alice Kim;Rafael Wainer,61,72.901639344,8.348063483999999,90.0,53.0,,,,,11,7,10,12,9,,
-UBCV,2017,W,FMST,312,,202,Parent-child Relationships,Maria Weatherby,56,68.339285714,15.671951536,93.0,26.0,7,,,5,,6,5,,8,5,
-UBCV,2017,W,FMST,314,,001,Relationship Development,Rafael Wainer;Zahra Lakhdhir,65,75.384615385,6.043313215,87.0,61.0,,,,,7,9,13,16,14,5,
-UBCV,2017,W,FMST,314,,100,Relationship Development,Adriana Brodyn;Adriana Larissa Brodyn;Silvia Bartolic,89,79.10112359600001,7.605388257,91.0,55.0,,,,,,,10,19,23,20,7
-UBCV,2017,W,FMST,314,,201,Relationship Development,Alexa Atherly;Evan Taylor,82,75.0,10.612129096,90.0,26.0,,,,,,7,17,23,11,9,
-UBCV,2017,W,FMST,316,,002,Human Sexuality,Brandy Wiebe;Kate Dalrymple,74,71.135135135,9.790020533,93.0,47.0,,,5,5,10,13,13,8,8,5,
-UBCV,2017,W,FMST,316,,003,Human Sexuality,Brandy Wiebe;Kate Dalrymple,75,69.373333333,15.153068847,89.0,0.0,,,6,7,7,11,13,8,10,7,
+UBCV,2017,W,FMST,210,,001,Family Context of Human Development,Maria Weatherby,77,63.402597403,18.645769762,93.0,0.0,13,8,11,8,5,4.0,4,9.0,4,7,4
+UBCV,2017,W,FMST,210,,002,Family Context of Human Development,Maria Weatherby,95,71.526315789,14.89098121,96.0,21.0,7,3.0,7,10,11,10.0,7,9.0,8,15,8
+UBCV,2017,W,FMST,210,,003,Family Context of Human Development,Maria Weatherby,91,74.142857143,13.0831286,97.0,44.0,2,9,3,4.0,6,11.0,10,15.0,10,10,11
+UBCV,2017,W,FMST,210,,004,Family Context of Human Development,Maria Weatherby,99,67.696969697,16.005391020999998,97.0,0.0,11,5,11,10,10,14.0,10,4.0,9,6,9
+UBCV,2017,W,FMST,210,,005,Family Context of Human Development,Maria Weatherby,78,70.5,16.349867945,96.0,4.0,5,6,8,4.0,5,4.0,12,10.0,8,8,8
+UBCV,2017,W,FMST,210,,008,Family Context of Human Development,Maria Weatherby,100,68.43,15.713505097,96.0,5.0,13,4.0,13,7,7,11.0,6,10.0,12,11,6
+UBCV,2017,W,FMST,210,,009,Family Context of Human Development,Maria Weatherby,109,71.495412844,14.957732952,96.0,13.0,8,5,7,6,13,13.0,10,11.0,13,10,13
+UBCV,2017,W,FMST,210,,OVERALL,Family Context of Human Development,,649,69.739599384,15.864637295,97.0,0.0,59,40,60,49,57,67.0,59,68.0,64,67,59
+UBCV,2017,W,FMST,238,,002,Family Resource Management,Phyllis Johnson;Sara Chitsaz,75,75.626666667,8.409732671,94.0,58.0,,,,,6,13.0,14,6.0,18,9,
+UBCV,2017,W,FMST,238,,OVERALL,Family Resource Management,,75,75.626666667,8.409732671,94.0,58.0,,,,,6,13.0,14,6.0,18,9,
+UBCV,2017,W,FMST,312,,002,Parent-child Relationships,Maria Weatherby,59,74.79661016899999,13.863596165999999,97.0,39.0,,,6,,7,4.0,6,9.0,4,,13
+UBCV,2017,W,FMST,312,,100,Parent-child Relationships,Alice Kim;Rafael Wainer,61,72.901639344,8.348063483999999,90.0,53.0,,,,,11,7.0,10,12.0,9,,
+UBCV,2017,W,FMST,312,,202,Parent-child Relationships,Maria Weatherby,56,68.339285714,15.671951536,93.0,26.0,7,,,5,4,6.0,5,4.0,8,5,
+UBCV,2017,W,FMST,312,,OVERALL,Parent-child Relationships,,176,72.085227273,13.114380676,97.0,26.0,8,9,12,10,22,17.0,21,25.0,21,13,18
+UBCV,2017,W,FMST,314,,001,Relationship Development,Rafael Wainer;Zahra Lakhdhir,65,75.384615385,6.043313215,87.0,61.0,,,,,7,9.0,13,16.0,14,5,
+UBCV,2017,W,FMST,314,,100,Relationship Development,Adriana Brodyn;Adriana Larissa Brodyn;Silvia Bartolic,89,79.10112359600001,7.605388257,91.0,55.0,,,,,,2.0,10,19.0,23,20,7
+UBCV,2017,W,FMST,314,,201,Relationship Development,Alexa Atherly;Evan Taylor,82,75.0,10.612129096,90.0,26.0,,,,,,7.0,17,23.0,11,9,
+UBCV,2017,W,FMST,314,,OVERALL,Relationship Development,,236,76.652542373,8.60764343,91.0,26.0,,,,8,14,18.0,40,58.0,48,34,10
+UBCV,2017,W,FMST,316,,002,Human Sexuality,Brandy Wiebe;Kate Dalrymple,74,71.135135135,9.790020533,93.0,47.0,,,5,5,10,13.0,13,8.0,8,5,
+UBCV,2017,W,FMST,316,,003,Human Sexuality,Brandy Wiebe;Kate Dalrymple,75,69.373333333,15.153068847,89.0,0.0,,,6,7,7,11.0,13,8.0,10,7,
+UBCV,2017,W,FMST,316,,OVERALL,Human Sexuality,,149,70.248322148,12.76180219,93.0,0.0,,8,11,12,17,24.0,26,16.0,18,12,

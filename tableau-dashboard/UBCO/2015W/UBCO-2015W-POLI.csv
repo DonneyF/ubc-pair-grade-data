@@ -1,21 +1,41 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2015,W,POLI,101,,001,The Government of Canada,Yijiang Ding,94,65.244680851,12.862955203,91.0,24.0,7,13,12,9,12,11,9,5,11,,
-UBCO,2015,W,POLI,101,,002,The Government of Canada,Carey Doberstein;Ruchi Virdi,113,69.725663717,11.835364520999999,92.0,0.0,5,,,10,16,21,26,18,12,,
+UBCO,2015,W,POLI,101,,002,The Government of Canada,Carey Doberstein;Ruchi Virdi,113,69.725663717,11.835364520999999,92.0,0.0,5,1,2,10,16,21,26,18,12,,
+UBCO,2015,W,POLI,101,,OVERALL,The Government of Canada,,207,67.690821256,12.484206053,92.0,0.0,12,14,14,19,28,32,35,23,23,,
 UBCO,2015,W,POLI,220,,101,Introduction to Comparative Politics,Carl Hodge;Erik Kundu,100,67.95,13.024743352,86.0,12.0,7,,5,8,13,26,15,9,8,7,
+UBCO,2015,W,POLI,220,,OVERALL,Introduction to Comparative Politics,,100,67.95,13.024743352,86.0,12.0,7,,5,8,13,26,15,9,8,7,
 UBCO,2015,W,POLI,221,,001,International Politics,Andrew Geistlinger;James Rochlin,64,77.828125,8.486318939,96.0,55.0,,,,,,11,13,11,10,8,7
+UBCO,2015,W,POLI,221,,OVERALL,International Politics,,64,77.828125,8.486318939,96.0,55.0,,,,,,11,13,11,10,8,7
 UBCO,2015,W,POLI,222,,001,International Politics II,Adam Jones;Andrew Geistlinger,53,65.924528302,17.258051696,90.0,0.0,,,,8,7,,8,,7,,
+UBCO,2015,W,POLI,222,,OVERALL,International Politics II,,53,65.924528302,17.258051696,90.0,0.0,,,,8,7,,8,,7,,
 UBCO,2015,W,POLI,240,,001,Currents of Political Thought,Yijiang Ding,54,63.462962963,16.678664445,88.0,16.0,9,6,,6,,8,7,5,5,,
+UBCO,2015,W,POLI,240,,OVERALL,Currents of Political Thought,,54,63.462962963,16.678664445,88.0,16.0,9,6,,6,,8,7,5,5,,
 UBCO,2015,W,POLI,303,,001,Federalism in Canada,Carey Doberstein,41,76.024390244,11.084872135,95.0,40.0,,,,,,,6,,12,,
+UBCO,2015,W,POLI,303,,OVERALL,Federalism in Canada,,41,76.024390244,11.084872135,95.0,40.0,,,,,,,6,,12,,
 UBCO,2015,W,POLI,315,,001,Topics in Comparative Politics: Northeast Asia,Yijiang Ding,41,70.414634146,12.194210942,91.0,28.0,,,,,6,5,8,,,,
+UBCO,2015,W,POLI,315,,OVERALL,Topics in Comparative Politics: Northeast Asia,,41,70.414634146,12.194210942,91.0,28.0,,,,,6,5,8,,,,
 UBCO,2015,W,POLI,319,,001,Issues in South American Politics,James Rochlin,37,71.567567568,24.749344032,95.0,0.0,,,,,,5,,,5,8,5
+UBCO,2015,W,POLI,319,,OVERALL,Issues in South American Politics,,37,71.567567568,24.749344032,95.0,0.0,,,,,,5,,,5,8,5
 UBCO,2015,W,POLI,352,,001,Comparative Politics of Public Policy,Carey Doberstein,34,74.5,13.032011868,93.0,40.0,,,,,,,,5,,7,
+UBCO,2015,W,POLI,352,,OVERALL,Comparative Politics of Public Policy,,34,74.5,13.032011868,93.0,40.0,,,,,,,,5,,7,
 UBCO,2015,W,POLI,358,,001,Politics and Religion,Thomas Heilke,37,75.567567568,9.41494244,93.0,50.0,,,,,,,9,8,8,,
+UBCO,2015,W,POLI,358,,OVERALL,Politics and Religion,,37,75.567567568,9.41494244,93.0,50.0,,,,,,,9,8,8,,
 UBCO,2015,W,POLI,364,,001,International Organizations,Yijiang Ding,43,76.372093023,11.820126612000001,89.0,11.0,,,,,,,10,9,13,5,
+UBCO,2015,W,POLI,364,,OVERALL,International Organizations,,43,76.372093023,11.820126612000001,89.0,11.0,,,,,,,10,9,13,5,
 UBCO,2015,W,POLI,371,,001,The Politics of NAFTA,Carey Doberstein,40,76.0,8.277247158,92.0,60.0,,,,,,,8,8,6,,
+UBCO,2015,W,POLI,371,,OVERALL,The Politics of NAFTA,,40,76.0,8.277247158,92.0,60.0,,,,,,,8,8,6,,
 UBCO,2015,W,POLI,372,,001,Gender and International Relations,Adam Jones,46,73.956521739,21.53235965,93.0,0.0,,,,,,,,5,5,12,7
+UBCO,2015,W,POLI,372,,OVERALL,Gender and International Relations,,46,73.956521739,21.53235965,93.0,0.0,,,,,,,,5,5,12,7
 UBCO,2015,W,POLI,382,,001,Genocide: An Interdisciplinary Perspective,Adam Jones,47,77.87234042600001,8.445778522000001,95.0,60.0,,,,,,,6,8,12,7,
+UBCO,2015,W,POLI,382,,OVERALL,Genocide: An Interdisciplinary Perspective,,47,77.87234042600001,8.445778522000001,95.0,60.0,,,,,,,6,8,12,7,
 UBCO,2015,W,POLI,432,,001,Contemporary Issues in Law,Cathie Heinrichs;Gillian Dougans,29,72.34482758600001,14.68302193,85.0,6.0,,,,,,,,8,6,,
+UBCO,2015,W,POLI,432,,OVERALL,Contemporary Issues in Law,,29,72.34482758600001,14.68302193,85.0,6.0,,,,,,,,8,6,,
 UBCO,2015,W,POLI,435,,001,International Politics on Film,Adam Jones,29,73.965517241,23.039535520999998,93.0,7.0,,,,,,,,,7,6,6
+UBCO,2015,W,POLI,435,,OVERALL,International Politics on Film,,29,73.965517241,23.039535520999998,93.0,7.0,,,,,,,,,7,6,6
 UBCO,2015,W,POLI,462,,001,International Relations Theory,James Rochlin,23,76.869565217,22.198084168,97.0,0.0,,,,,,,,,,5,7
+UBCO,2015,W,POLI,462,,OVERALL,International Relations Theory,,23,76.869565217,22.198084168,97.0,0.0,,,,,,,,,,5,7
 UBCO,2015,W,POLI,464,E,001,Problems in International Relations: Seminar,Rosalind Warner,29,74.448275862,9.175223652,90.0,45.0,,,,,,,5,,9,,
+UBCO,2015,W,POLI,464,E,OVERALL,Problems in International Relations: Seminar,,29,74.448275862,9.175223652,90.0,45.0,,,,,,,5,,9,,
 UBCO,2015,W,POLI,476,,001,Statecraft and International Affairs: Seminar,Carl Hodge,30,76.56666666699999,10.407833036,92.0,54.0,,,,,,,6,,7,,
+UBCO,2015,W,POLI,476,,OVERALL,Statecraft and International Affairs: Seminar,,30,76.56666666699999,10.407833036,92.0,54.0,,,,,,,6,,7,,
+UBCO,2015,W,POLI,497,,OVERALL,Directed Studies for PPE Majors,,7,83.428571429,5.883795341,93.0,78.0,,,,,,,,,,,

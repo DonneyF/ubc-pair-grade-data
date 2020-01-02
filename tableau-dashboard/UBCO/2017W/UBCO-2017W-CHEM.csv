@@ -1,40 +1,70 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2017,W,CHEM,111,,001,Principles of Chemistry I,Tamara Kunz,40,61.725,15.830816264000001,98.0,12.0,9,,6,6,,7,,,,,
-UBCO,2017,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,32,66.0625,12.528515860999999,90.0,42.0,5,,,5,8,,,,,,
-UBCO,2017,W,CHEM,111,,003,Principles of Chemistry I,Edward Neeland;Tamara Kunz;W. Stephen Mcneil,32,67.78125,12.098345327999999,86.0,41.0,5,,,,,5,,,,,
+UBCO,2017,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,32,66.0625,12.528515860999999,90.0,42.0,5,,,5,8,3,,,,,
+UBCO,2017,W,CHEM,111,,003,Principles of Chemistry I,Edward Neeland;Tamara Kunz;W. Stephen Mcneil,32,67.78125,12.098345327999999,86.0,41.0,5,,,3,,5,,,,,
+UBCO,2017,W,CHEM,111,,OVERALL,Principles of Chemistry I,,104,64.923076923,13.896072161,98.0,12.0,19,,9,14,15,15,7,6,11,,
 UBCO,2017,W,CHEM,113,,001,Principles of Chemistry II,Tamara Kunz,29,61.655172414,11.914204794000002,84.0,36.0,8,,,5,7,,,,,,
 UBCO,2017,W,CHEM,113,,002,Principles of Chemistry II,Tamara Kunz,26,65.807692308,12.874841298,91.0,47.0,,,,6,,,,,,,
 UBCO,2017,W,CHEM,113,,003,Principles of Chemistry II,Tamara Kunz;W. Stephen Mcneil,22,69.227272727,13.305680198,94.0,47.0,,,,6,,,,,,,
-UBCO,2017,W,CHEM,113,,004,Principles of Chemistry II,Jeffrey Adam Therrien;Jeffrey Therrien;Tamara Kunz,10,65.7,9.068259664,85.0,51.0,,,,,,,,,,,
-UBCO,2017,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Kunz,243,68.226337449,15.440441618,100.0,0.0,32,,23,20,27,32,24,28,16,22,17
-UBCO,2017,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Kunz,251,71.996015936,12.347468731,100.0,33.0,19,,13,25,30,22,33,40,26,24,19
-UBCO,2017,W,CHEM,121,,003,Atomic and Molecular Chemistry,Edward Neeland;Tamara Kunz;W. Stephen Mcneil,136,67.683823529,14.914920298,99.0,12.0,25,,,8,13,26,15,21,14,5,5
-UBCO,2017,W,CHEM,123,,001,Physical and Organic Chemistry,Tamara Kunz,226,69.65486725699999,14.834955662999999,97.0,5.0,23,,22,26,24,29,21,21,20,22,18
-UBCO,2017,W,CHEM,123,,002,Physical and Organic Chemistry,Sandra Mecklenburg;Tamara Kunz,173,71.895953757,12.598017371,98.0,12.0,10,,11,20,17,24,23,18,24,12,13
-UBCO,2017,W,CHEM,123,,003,Physical and Organic Chemistry,Tamara Kunz;W. Stephen Mcneil,98,72.306122449,13.613522812000001,100.0,43.0,9,,7,10,7,10,17,7,10,5,15
-UBCO,2017,W,CHEM,123,,004,Physical and Organic Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Tamara Kunz,64,64.890625,11.490668660999999,90.0,31.0,,7,7,8,9,15,7,,,,
-UBCO,2017,W,CHEM,201,,001,Introduction to Physical Chemistry,David Jack,138,69.050724638,16.42915446,99.0,31.0,27,5,,9,13,5,11,16,24,17,7
+UBCO,2017,W,CHEM,113,,004,Principles of Chemistry II,Jeffrey Adam Therrien;Jeffrey Therrien;Tamara Kunz,10,65.7,9.068259664,85.0,51.0,,,,2,,,,,,,
+UBCO,2017,W,CHEM,113,,OVERALL,Principles of Chemistry II,,87,65.275862069,12.440266257000001,94.0,36.0,14,,7,19,14,7,6,6,7,,
+UBCO,2017,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Kunz,243,68.226337449,15.440441618,100.0,0.0,32,2.0,23,20,27,32,24,28,16,22,17
+UBCO,2017,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Kunz,251,71.996015936,12.347468731,100.0,33.0,19,0.0,13,25,30,22,33,40,26,24,19
+UBCO,2017,W,CHEM,121,,003,Atomic and Molecular Chemistry,Edward Neeland;Tamara Kunz;W. Stephen Mcneil,136,67.683823529,14.914920298,99.0,12.0,25,0.0,4,8,13,26,15,21,14,5,5
+UBCO,2017,W,CHEM,121,,OVERALL,Atomic and Molecular Chemistry,,630,69.611111111,14.278610985,100.0,0.0,76,2.0,40,53,70,80,72,89,56,51,41
+UBCO,2017,W,CHEM,123,,001,Physical and Organic Chemistry,Tamara Kunz,226,69.65486725699999,14.834955662999999,97.0,5.0,23,0.0,22,26,24,29,21,21,20,22,18
+UBCO,2017,W,CHEM,123,,002,Physical and Organic Chemistry,Sandra Mecklenburg;Tamara Kunz,173,71.895953757,12.598017371,98.0,12.0,10,1.0,11,20,17,24,23,18,24,12,13
+UBCO,2017,W,CHEM,123,,003,Physical and Organic Chemistry,Tamara Kunz;W. Stephen Mcneil,98,72.306122449,13.613522812000001,100.0,43.0,9,1.0,7,10,7,10,17,7,10,5,15
+UBCO,2017,W,CHEM,123,,004,Physical and Organic Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Tamara Kunz,64,64.890625,11.490668660999999,90.0,31.0,3,7,7,8,9,15,7,1,4,1,2
+UBCO,2017,W,CHEM,123,,OVERALL,Physical and Organic Chemistry,,561,70.265597148,13.752365122999999,100.0,5.0,45,9,47,64,57,78,68,47,58,40,48
+UBCO,2017,W,CHEM,201,,001,Introduction to Physical Chemistry,David Jack,138,69.050724638,16.42915446,99.0,31.0,27,5,4.0,9,13,5,11,16,24,17,7
+UBCO,2017,W,CHEM,201,,OVERALL,Introduction to Physical Chemistry,,138,69.050724638,16.42915446,99.0,31.0,27,5,4.0,9,13,5,11,16,24,17,7
 UBCO,2017,W,CHEM,203,,001,Introduction to Organic Chemistry,Alicia L. Mercer;Alicia Mercer;Edward Neeland;Yousif Murad;Zhenlin Tian,141,65.588652482,14.051980502000001,91.0,28.0,29,,12,13,22,8,18,10,18,7,
+UBCO,2017,W,CHEM,203,,OVERALL,Introduction to Organic Chemistry,,141,65.588652482,14.051980502000001,91.0,28.0,29,,12,13,22,8,18,10,18,7,
 UBCO,2017,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,112,68.696428571,14.229672895999999,90.0,29.0,20,,5,6,8,14,12,16,17,7,
+UBCO,2017,W,CHEM,204,,OVERALL,Organic Chemistry,,112,68.696428571,14.229672895999999,90.0,29.0,20,,5,6,8,14,12,16,17,7,
 UBCO,2017,W,CHEM,211,,001,Analytical Chemistry,Susan Murch,57,79.929824561,13.865243865999998,100.0,34.0,,,,,,,,9,9,6,17
+UBCO,2017,W,CHEM,211,,OVERALL,Analytical Chemistry,,57,79.929824561,13.865243865999998,100.0,34.0,,,,,,,,9,9,6,17
 UBCO,2017,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Jacky Deng;Paul Shipley;Sandra Mecklenburg,182,68.098901099,14.659339749,96.0,27.0,26,6,15,13,25,20,20,16,17,10,14
+UBCO,2017,W,CHEM,213,,OVERALL,Organic Chemistry for Biological Sciences I,,182,68.098901099,14.659339749,96.0,27.0,26,6,15,13,25,20,20,16,17,10,14
 UBCO,2017,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Jacky Deng;Paul Shipley,165,68.684848485,17.302476229,100.0,34.0,31,9,13,14,14,14,10,12,14,5,29
+UBCO,2017,W,CHEM,214,,OVERALL,Organic Chemistry for Biological Sciences II,,165,68.684848485,17.302476229,100.0,34.0,31,9,13,14,14,14,10,12,14,5,29
 UBCO,2017,W,CHEM,220,,001,Atomic Structure and Molecular Bonding,Riley Petillion;W. Stephen Mcneil,38,70.368421053,21.461997908,94.0,15.0,7,,,,,,,,,6,8
+UBCO,2017,W,CHEM,220,,OVERALL,Atomic Structure and Molecular Bonding,,38,70.368421053,21.461997908,94.0,15.0,7,,,,,,,,,6,8
 UBCO,2017,W,CHEM,301,,001,Aqueous Environmental Chemistry,Karen Perry,22,69.181818182,22.259586193,95.0,5.0,,,,,,,,,5,,
+UBCO,2017,W,CHEM,301,,OVERALL,Aqueous Environmental Chemistry,,22,69.181818182,22.259586193,95.0,5.0,,,,,,,,,5,,
 UBCO,2017,W,CHEM,302,,001,Atmospheric Environmental Chemistry,Karen Perry,21,76.142857143,11.314971119,96.0,55.0,,,,,,,,,5,,
+UBCO,2017,W,CHEM,302,,OVERALL,Atmospheric Environmental Chemistry,,21,76.142857143,11.314971119,96.0,55.0,,,,,,,,,5,,
 UBCO,2017,W,CHEM,304,,001,Advanced Physical Chemistry,David Jack,24,73.166666667,18.428868342999998,95.0,25.0,,,,,,,,,,,
+UBCO,2017,W,CHEM,304,,OVERALL,Advanced Physical Chemistry,,24,73.166666667,18.428868342999998,95.0,25.0,,,,,,,,,,,
 UBCO,2017,W,CHEM,305,,001,Biophysical Chemistry,David Jack,31,82.129032258,15.2200349,99.0,28.0,,,,,,,,5,,5,12
+UBCO,2017,W,CHEM,305,,OVERALL,Biophysical Chemistry,,31,82.129032258,15.2200349,99.0,28.0,,,,,,,,5,,5,12
 UBCO,2017,W,CHEM,311,,001,Instrumental Analytical Chemistry,Sara Vicaretti;Wesley Zandberg,31,70.838709677,21.51603553,94.0,6.0,,,,,,,,,10,,
+UBCO,2017,W,CHEM,311,,OVERALL,Instrumental Analytical Chemistry,,31,70.838709677,21.51603553,94.0,6.0,,,,,,,,,10,,
 UBCO,2017,W,CHEM,312,,001,Introduction to Quantum Mechanics and Spectroscopy,David Jack,16,75.625,9.507014954,90.0,55.0,,,,,,,,,,,
+UBCO,2017,W,CHEM,312,,OVERALL,Introduction to Quantum Mechanics and Spectroscopy,,16,75.625,9.507014954,90.0,55.0,,,,,,,,,,,
 UBCO,2017,W,CHEM,317,,001,Environmental Physical Organic Chemistry,Robert Mclaren,24,71.666666667,16.708931917,96.0,22.0,,,,,,,,5,,5,
+UBCO,2017,W,CHEM,317,,OVERALL,Environmental Physical Organic Chemistry,,24,71.666666667,16.708931917,96.0,22.0,,,,,,,,5,,5,
 UBCO,2017,W,CHEM,330,,001,Advanced Organic Chemistry,Frederic Menard,34,77.735294118,11.474104767,98.0,46.0,,,,,,7,,,5,9,
+UBCO,2017,W,CHEM,330,,OVERALL,Advanced Organic Chemistry,,34,77.735294118,11.474104767,98.0,46.0,,,,,,7,,,5,9,
 UBCO,2017,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Paul Shipley,70,71.242857143,14.181469553,99.0,35.0,5,,,10,6,6,9,7,10,6,6
+UBCO,2017,W,CHEM,333,,OVERALL,Spectroscopic Techniques in Organic Chemistry,,70,71.242857143,14.181469553,99.0,35.0,5,,,10,6,6,9,7,10,6,6
 UBCO,2017,W,CHEM,335,,001,Bioinorganic Chemistry,W. Stephen Mcneil,27,68.444444444,14.895361522,96.0,30.0,,,,,,6,,,,,
+UBCO,2017,W,CHEM,335,,OVERALL,Bioinorganic Chemistry,,27,68.444444444,14.895361522,96.0,30.0,,,,,,6,,,,,
 UBCO,2017,W,CHEM,337,,101,Coordination Chemistry,Kevin Michael Smith,20,73.15,10.998923392,90.0,43.0,,,,,,,7,,,,
-UBCO,2017,W,CHEM,338,,001,Organometallic Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Kevin Michael Smith,23,74.043478261,7.934265508999999,85.0,56.0,,,,,,,6,,,,
+UBCO,2017,W,CHEM,337,,OVERALL,Coordination Chemistry,,20,73.15,10.998923392,90.0,43.0,,,,,,,7,,,,
+UBCO,2017,W,CHEM,338,,001,Organometallic Chemistry,Jeffrey Therrien,23,74.043478261,7.934265508999999,85.0,56.0,,,,,,,6,,,,
+UBCO,2017,W,CHEM,338,,OVERALL,Organometallic Chemistry,,23,74.043478261,7.934265508999999,85.0,56.0,,,,,,,6,,,,
 UBCO,2017,W,CHEM,412,,001,Methods in Bioanalytical Chemistry,Wesley Zandberg,9,77.222222222,14.131328474000002,90.0,42.0,,,,,,,,,,,
+UBCO,2017,W,CHEM,412,,OVERALL,Methods in Bioanalytical Chemistry,,9,77.222222222,14.131328474000002,90.0,42.0,,,,,,,,,,,
 UBCO,2017,W,CHEM,422,V,101,Special Topics in Chemistry,Frederic Menard,5,89.8,3.898717738,93.0,83.0,,,,,,,,,,,
+UBCO,2017,W,CHEM,422,V,OVERALL,Special Topics in Chemistry,,5,89.8,3.898717738,93.0,83.0,,,,,,,,,,,
 UBCO,2017,W,CHEM,422,Z,101,Special Topics in Chemistry,Alberto Otero De La Roza;Gino Dilabio,5,54.4,31.484917024,88.0,12.0,,,,,,,,,,,
+UBCO,2017,W,CHEM,422,Z,OVERALL,Special Topics in Chemistry,,5,54.4,31.484917024,88.0,12.0,,,,,,,,,,,
+UBCO,2017,W,CHEM,449,,OVERALL,Honours Thesis in Chemistry,,5,84.6,9.235799911,93.0,70.0,,,,,,,,,,,
 UBCO,2017,W,CHEM,461,,001,Advanced Analytical Chemistry Laboratory,Karen Perry;Sandra Mecklenburg;Wesley Zandberg,10,85.7,5.61842208,91.0,71.0,,,,,,,,,,6,
+UBCO,2017,W,CHEM,461,,OVERALL,Advanced Analytical Chemistry Laboratory,,10,85.7,5.61842208,91.0,71.0,,,,,,,,,,6,
 UBCO,2017,W,CHEM,462,,001,Advanced Inorganic Chemistry Laboratory,James Bailey,13,85.23076923100001,4.728527716,93.0,78.0,,,,,,,,,,5,
+UBCO,2017,W,CHEM,462,,OVERALL,Advanced Inorganic Chemistry Laboratory,,13,85.23076923100001,4.728527716,93.0,78.0,,,,,,,,,,5,
 UBCO,2017,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland,7,84.142857143,5.2734736,91.0,76.0,,,,,,,,,,,
+UBCO,2017,W,CHEM,463,,OVERALL,Advanced Organic Chemistry Laboratory,,7,84.142857143,5.2734736,91.0,76.0,,,,,,,,,,,

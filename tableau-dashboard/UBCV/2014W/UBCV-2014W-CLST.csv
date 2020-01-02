@@ -1,29 +1,51 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,CLST,105,,001,Greek and Roman Mythology,Michael Griffin,258,76.984496124,15.018268769,97.0,5.0,9,6,8,6,14,15,30,37,54,38,41
-UBCV,2014,W,CLST,105,,002,Greek and Roman Mythology,Courtney Innes;Courtney Jean Innes;Susan Braund,117,66.23931623899999,15.546176807,95.0,20.0,17,6,9,9,13,14,16,7,11,12,
+UBCV,2014,W,CLST,105,,002,Greek and Roman Mythology,Courtney Innes;Courtney Jean Innes;Susan Braund,117,66.23931623899999,15.546176807,95.0,20.0,17,6,9,9,13,14,16,7,11,12,3.0
+UBCV,2014,W,CLST,105,,OVERALL,Greek and Roman Mythology,,375,73.632,15.962457291,97.0,5.0,26,12,17,15,27,29,46,44,65,50,44
 UBCV,2014,W,CLST,110,,001,Golden Age of Athens,Nigel Kennell,48,65.979166667,14.886077435999999,95.0,5.0,,5,,7,10,6,,,,,
+UBCV,2014,W,CLST,110,,OVERALL,Golden Age of Athens,,48,65.979166667,14.886077435999999,95.0,5.0,,5,,7,10,6,,,,,
 UBCV,2014,W,CLST,204,,001,Introduction to Classical Archaeology,Kevin Fisher,34,66.823529412,18.773725334,96.0,18.0,7,,,,,5,,5,6,,
+UBCV,2014,W,CLST,204,,OVERALL,Introduction to Classical Archaeology,,34,66.823529412,18.773725334,96.0,18.0,7,,,,,5,,5,6,,
 UBCV,2014,W,CLST,211,,001,Greek Philosophy I,Michael Griffin,37,79.351351351,6.0425170260000005,93.0,70.0,,,,,,7,,,18,,
+UBCV,2014,W,CLST,211,,OVERALL,Greek Philosophy I,,37,79.351351351,6.0425170260000005,93.0,70.0,,,,,,7,,,18,,
 UBCV,2014,W,CLST,212,,001,Greek Philosophy II,Michael Griffin,35,70.571428571,21.148335652,90.0,0.0,5,,,,,,8,,9,,
-UBCV,2014,W,CLST,231,,001,Ancient Greece,Gwynaeth Mcintyre,34,68.558823529,16.346978548,90.0,0.0,,,,,,,5,7,5,,
-UBCV,2014,W,CLST,231,,002,Ancient Greece,Franco De Angelis,30,71.666666667,11.58576217,93.0,42.0,,,,,5,,8,,6,,
-UBCV,2014,W,CLST,232,,001,Ancient Rome,Gwynaeth Mcintyre;Haley Bertram,28,67.5,15.421245566,93.0,26.0,,,,,,,,,,,
+UBCV,2014,W,CLST,212,,OVERALL,Greek Philosophy II,,35,70.571428571,21.148335652,90.0,0.0,5,,,,,,8,,9,,
+UBCV,2014,W,CLST,231,,001,Ancient Greece,Gwynaeth Mcintyre,34,68.558823529,16.346978548,90.0,0.0,,,,,1,,5,7,5,,
+UBCV,2014,W,CLST,231,,002,Ancient Greece,Franco De Angelis,30,71.666666667,11.58576217,93.0,42.0,,,,,5,,8,4,6,,
+UBCV,2014,W,CLST,231,,OVERALL,Ancient Greece,,64,70.015625,14.29007002,93.0,0.0,,,,6,6,,13,11,11,,
+UBCV,2014,W,CLST,232,,001,Ancient Rome,Gwynaeth Mcintyre;Haley Bertram,28,67.5,15.421245566,93.0,26.0,,4,,4,4,,,,,2,
 UBCV,2014,W,CLST,232,,002,Ancient Rome,Brian Burnstein;Leanne Bablitz,42,66.928571429,14.564227570999998,90.0,33.0,,7,,7,6,,,,,5,
+UBCV,2014,W,CLST,232,,OVERALL,Ancient Rome,,70,67.157142857,14.804656254000001,93.0,26.0,,11,,11,10,5,5,,8,7,
 UBCV,2014,W,CLST,260,,001,"Gladiators, Games, and Spectacle in the Greek and Roman World",Bethany Brothers;Maude Cote-Landry;Siobhan Mcelduff,112,71.0625,16.292529239,95.0,16.0,8,7,7,10,9,6,13,11,20,11,10
-UBCV,2014,W,CLST,301,,99A,The Technical Terms of Medicine and Biological Science,Shelley Reid,48,75.25,14.029603959000001,96.0,29.0,5,,,,,6,5,6,9,7,6
-UBCV,2014,W,CLST,301,,99C,The Technical Terms of Medicine and Biological Science,Shelley Reid,43,67.88372093,17.892814869000002,94.0,22.0,10,,,,,,5,,5,7,
+UBCV,2014,W,CLST,260,,OVERALL,"Gladiators, Games, and Spectacle in the Greek and Roman World",,112,71.0625,16.292529239,95.0,16.0,8,7,7,10,9,6,13,11,20,11,10
 UBCV,2014,W,CLST,301,,001,The Technical Terms of Medicine and Biological Science,Shelley Reid,176,71.545454545,19.154057588,98.0,6.0,22,9,10,5,7,9,19,21,23,30,21
 UBCV,2014,W,CLST,301,,051,The Technical Terms of Medicine and Biological Science,Shelley Reid,148,74.601351351,19.804740677,97.0,2.0,17,,8,,,13,14,13,20,23,33
+UBCV,2014,W,CLST,301,,99A,The Technical Terms of Medicine and Biological Science,Shelley Reid,48,75.25,14.029603959000001,96.0,29.0,5,,,,,6,5,6,9,7,6
+UBCV,2014,W,CLST,301,,99C,The Technical Terms of Medicine and Biological Science,Shelley Reid,43,67.88372093,17.892814869000002,94.0,22.0,10,,,,,3,5,2,5,7,2
+UBCV,2014,W,CLST,301,,OVERALL,The Technical Terms of Medicine and Biological Science,,415,72.68433734899999,18.820127998,98.0,2.0,54,12,21,15,11,31,43,42,57,67,62
 UBCV,2014,W,CLST,308,,001,Roman Law,Leanne Bablitz,32,70.65625,11.521674875,95.0,50.0,,,,,,,6,5,,,
+UBCV,2014,W,CLST,308,,OVERALL,Roman Law,,32,70.65625,11.521674875,95.0,50.0,,,,,,,6,5,,,
 UBCV,2014,W,CLST,313,,001,Greek Epic,Nigel Kennell,59,75.813559322,12.597857749000001,93.0,29.0,,,,5,,6,6,12,7,12,5
+UBCV,2014,W,CLST,313,,OVERALL,Greek Epic,,59,75.813559322,12.597857749000001,93.0,29.0,,,,5,,6,6,12,7,12,5
 UBCV,2014,W,CLST,314,,001,Latin Epic,Emma Hilliard;Susan Braund,29,74.448275862,19.514804283,93.0,15.0,,,,,,,,,6,7,
+UBCV,2014,W,CLST,314,,OVERALL,Latin Epic,,29,74.448275862,19.514804283,93.0,15.0,,,,,,,,,6,7,
 UBCV,2014,W,CLST,319,,001,The Roman Army,Leanne Bablitz,56,70.0,12.74219904,91.0,40.0,,5,,5,5,5,6,9,8,,
+UBCV,2014,W,CLST,319,,OVERALL,The Roman Army,,56,70.0,12.74219904,91.0,40.0,,5,,5,5,5,6,9,8,,
 UBCV,2014,W,CLST,331,,001,Greek Art and Architecture,Nigel Kennell,31,68.225806452,12.981293405999999,90.0,39.0,,,,6,,,6,,5,,
+UBCV,2014,W,CLST,331,,OVERALL,Greek Art and Architecture,,31,68.225806452,12.981293405999999,90.0,39.0,,,,6,,,6,,5,,
 UBCV,2014,W,CLST,332,,001,Roman Art and Architecture,Caroline Williams;Chelsea Gardner,15,70.0,9.856107606,87.0,52.0,,,,,,,,,,,
+UBCV,2014,W,CLST,332,,OVERALL,Roman Art and Architecture,,15,70.0,9.856107606,87.0,52.0,,,,,,,,,,,
 UBCV,2014,W,CLST,333,,001,Greek Religion,Gwynaeth Mcintyre,52,73.846153846,8.0205242,87.0,50.0,,,,,,12,11,9,8,,
+UBCV,2014,W,CLST,333,,OVERALL,Greek Religion,,52,73.846153846,8.0205242,87.0,50.0,,,,,,12,11,9,8,,
 UBCV,2014,W,CLST,334,,001,Roman Religion,Shelley Reid,51,72.176470588,14.39542411,93.0,1.0,,,5,5,5,6,,8,9,,
+UBCV,2014,W,CLST,334,,OVERALL,Roman Religion,,51,72.176470588,14.39542411,93.0,1.0,,,5,5,5,6,,8,9,,
 UBCV,2014,W,CLST,352,,002,The Roman Republic,Gwynaeth Mcintyre,13,77.384615385,15.66598471,94.0,34.0,,,,,,,,,,,
+UBCV,2014,W,CLST,352,,OVERALL,The Roman Republic,,13,77.384615385,15.66598471,94.0,34.0,,,,,,,,,,,
 UBCV,2014,W,CLST,356,,001,Alexander the Great and his Empire,Ana Golland;Franco De Angelis,25,81.44,6.64630223,94.0,70.0,,,,,,,,7,,7,
+UBCV,2014,W,CLST,356,,OVERALL,Alexander the Great and his Empire,,25,81.44,6.64630223,94.0,70.0,,,,,,,,7,,7,
 UBCV,2014,W,CLST,401,A,002,Seminar in Classical History,Leanne Bablitz,15,69.666666667,10.293317296,87.0,51.0,,,,,,,,,,,
+UBCV,2014,W,CLST,401,A,OVERALL,Seminar in Classical History,,15,69.666666667,10.293317296,87.0,51.0,,,,,,,,,,,
 UBCV,2014,W,CLST,404,A,001,Seminar in the Reception of the Classical World,Susan Braund,12,72.333333333,13.144880326,90.0,57.0,,,,5,,,,,,,
+UBCV,2014,W,CLST,404,A,OVERALL,Seminar in the Reception of the Classical World,,12,72.333333333,13.144880326,90.0,57.0,,,,5,,,,,,,
 UBCV,2014,W,CLST,518,A,001,Topics in Greek Archaeology,Franco De Angelis,6,86.333333333,2.943920289,91.0,83.0,,,,,,,,,,,
+UBCV,2014,W,CLST,518,A,OVERALL,Topics in Greek Archaeology,,6,86.333333333,2.943920289,91.0,83.0,,,,,,,,,,,

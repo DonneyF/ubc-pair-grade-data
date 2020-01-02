@@ -1,6 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,S,BAMA,503,,301,New Product Development,Timothy Silk,44,83.318181818,2.576934606,90.0,78.0,,,,,,,,,25,16,
-UBCV,2017,S,BAMA,508,,816,Marketing Research,Yanwen Wang;Yi Qian,30,85.3,3.59261695,92.0,73.0,,,,,,,,,12,14,
+UBCV,2017,S,BAMA,503,,OVERALL,New Product Development,,44,83.318181818,2.576934606,90.0,78.0,,,,,,,,,25,16,
+UBCV,2017,S,BAMA,508,,816,Marketing Research,Yanwen Wang;Yi Qian,30,85.3,3.59261695,92.0,73.0,,,,,,0,,0,12,14,
 UBCV,2017,S,BAMA,508,,DD1,Marketing Research,Cluny Serenella South;Cluny South;Hyo Eun Ahn,52,80.0,5.523568042999999,89.0,63.0,,,,,,5,,15,16,11,
-UBCV,2017,S,BAMA,550,,300,Marketing,Timothy Silk,34,81.647058824,4.498365716,88.0,69.0,,,,,,,,,15,11,
+UBCV,2017,S,BAMA,508,,OVERALL,Marketing Research,,82,81.93902439,5.516188434,92.0,63.0,,,,,,5,5,15,28,25,
+UBCV,2017,S,BAMA,550,,300,Marketing,Timothy Silk,34,81.647058824,4.498365716,88.0,69.0,,,,,,,3,4,15,11,
 UBCV,2017,S,BAMA,550,,817,Marketing,Timothy Silk,26,80.192307692,4.552091658,88.0,72.0,,,,,,,6,6,9,5,
+UBCV,2017,S,BAMA,550,,OVERALL,Marketing,,60,81.016666667,4.541677681,88.0,69.0,,,,,,,9,10,24,16,

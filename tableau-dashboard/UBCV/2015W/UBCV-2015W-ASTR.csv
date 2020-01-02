@@ -1,16 +1,30 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,ASTR,101,,101,Introduction to the Solar System,Aaron Boley;Alex May;Edward Ashton;Edward James Ashton;Ilaria Caiazzo;Jacob Aaron White;Jacob White;Jaymie Mark Matthews;Yi Liu,114,76.596491228,17.576492395,99.0,0.0,5,,,8,6,5,12,13,17,14,29
+UBCV,2015,W,ASTR,101,,OVERALL,Introduction to the Solar System,,114,76.596491228,17.576492395,99.0,0.0,5,,,8,6,5,12,13,17,14,29
 UBCV,2015,W,ASTR,102,,201,Introduction to Stars and Galaxies,Ingrid Stairs;Ludovic Van Waerbeke,131,69.129770992,18.652035132,98.0,0.0,21,,,6,11,9,16,11,28,16,5
+UBCV,2015,W,ASTR,102,,OVERALL,Introduction to Stars and Galaxies,,131,69.129770992,18.652035132,98.0,0.0,21,,,6,11,9,16,11,28,16,5
 UBCV,2015,W,ASTR,200,,101,Frontiers of Astrophysics,Agueda Paula Granados Contreras;Paul Hickson;Todd Mackenzie,127,74.795275591,14.02115102,94.0,0.0,,,5,,7,11,20,19,33,14,8
+UBCV,2015,W,ASTR,200,,OVERALL,Frontiers of Astrophysics,,127,74.795275591,14.02115102,94.0,0.0,,,5,,7,11,20,19,33,14,8
 UBCV,2015,W,ASTR,205,,201,Stars and Stellar Populations,Harvey Richer;Javiera Parada Torres,27,71.555555556,11.904534795999998,97.0,50.0,,,,,,5,,,,,
+UBCV,2015,W,ASTR,205,,OVERALL,Stars and Stellar Populations,,27,71.555555556,11.904534795999998,97.0,50.0,,,,,,5,,,,,
 UBCV,2015,W,ASTR,300,,101,Galaxies,Jeremy Heyl,12,82.666666667,6.610368348,94.0,72.0,,,,,,,,,,,
-UBCV,2015,W,ASTR,310,,101,Exploring the Universe I: The Solar System,Ali Narimani;Anna Gwen Hughes;Anna Hughes;Carolin Janet Hofer;Harvey Richer;Todd Mackenzie,142,70.42253521100001,12.264417737999999,95.0,21.0,,12,11,15,16,15,14,13,28,10,5
-UBCV,2015,W,ASTR,311,,99C,Exploring the Universe II: Stars and Galaxies,Anna Gwen Hughes;Anna Hughes;Ilaria Caiazzo;Jeremy Heyl,30,63.733333333000004,26.413075828,91.0,0.0,5,,5,,,,,,6,,
-UBCV,2015,W,ASTR,311,,201,Exploring the Universe II: Stars and Galaxies,Anna Gwen Hughes;Anna Hughes;Ilaria Caiazzo;Jeremy Heyl,61,68.672131148,15.755127537,95.0,26.0,6,,,7,,10,,5,7,8,
+UBCV,2015,W,ASTR,300,,OVERALL,Galaxies,,12,82.666666667,6.610368348,94.0,72.0,,,,,,,,,,,
+UBCV,2015,W,ASTR,310,,101,Exploring the Universe I: The Solar System,Ali Narimani;Anna Gwen Hughes;Anna Hughes;Carolin Janet Hofer;Harvey Richer;Todd Mackenzie,142,70.42253521100001,12.264417737999999,95.0,21.0,3.0,12,11,15,16,15,14,13,28,10,5
+UBCV,2015,W,ASTR,310,,OVERALL,Exploring the Universe I: The Solar System,,142,70.42253521100001,12.264417737999999,95.0,21.0,3.0,12,11,15,16,15,14,13,28,10,5
+UBCV,2015,W,ASTR,311,,201,Exploring the Universe II: Stars and Galaxies,Anna Gwen Hughes;Anna Hughes;Ilaria Caiazzo;Jeremy Heyl,61,68.672131148,15.755127537,95.0,26.0,6,,3,7,,10,,5,7,8,
+UBCV,2015,W,ASTR,311,,99C,Exploring the Universe II: Stars and Galaxies,Anna Gwen Hughes;Anna Hughes;Ilaria Caiazzo;Jeremy Heyl,30,63.733333333000004,26.413075828,91.0,0.0,5,,5,0,,3,,4,6,2,
+UBCV,2015,W,ASTR,311,,OVERALL,Exploring the Universe II: Stars and Galaxies,,91,67.043956044,19.892998259000002,95.0,0.0,11,5,8,7,4.0,13,6,9,13,10,5
 UBCV,2015,W,ASTR,333,,201,Exoplanets and Astrobiology,Anna Gwen Hughes;Anna Hughes;Jacob Aaron White;Jacob White;Jaymie Mark Matthews,97,80.845360825,11.165740204,99.0,39.0,,,,,,9,6,16,14,19,26
+UBCV,2015,W,ASTR,333,,OVERALL,Exoplanets and Astrobiology,,97,80.845360825,11.165740204,99.0,39.0,,,,,,9,6,16,14,19,26
 UBCV,2015,W,ASTR,403,,201,Cosmology,Dagoberto Contreras;Mark Halpern,22,71.727272727,15.836010254000001,98.0,30.0,,,,,,,5,,,,
+UBCV,2015,W,ASTR,403,,OVERALL,Cosmology,,22,71.727272727,15.836010254000001,98.0,30.0,,,,,,,5,,,,
 UBCV,2015,W,ASTR,404,,101,Astronomical and Astrophysical Measurements,Gary Hinshaw,11,76.636363636,26.112344695,94.0,0.0,,,,,,,,,,,
+UBCV,2015,W,ASTR,404,,OVERALL,Astronomical and Astrophysical Measurements,,11,76.636363636,26.112344695,94.0,0.0,,,,,,,,,,,
 UBCV,2015,W,ASTR,405,,2LA,Astronomical Laboratory,Aaron Boley;Emmanuel Fonseca;Paul Hickson,9,88.22222222200001,5.262551135,96.0,82.0,,,,,,,,,,,
+UBCV,2015,W,ASTR,405,,OVERALL,Astronomical Laboratory,,9,88.22222222200001,5.262551135,96.0,82.0,,,,,,,,,,,
 UBCV,2015,W,ASTR,406,,101,High-Energy Astrophysics,Ludovic Van Waerbeke,11,71.909090909,17.716966701,89.0,26.0,,,,,,,,,,,
+UBCV,2015,W,ASTR,406,,OVERALL,High-Energy Astrophysics,,11,71.909090909,17.716966701,89.0,26.0,,,,,,,,,,,
 UBCV,2015,W,ASTR,407,,201,Planetary Science,Aaron Boley,8,80.875,6.034129124,93.0,75.0,,,,,,,,,,,
+UBCV,2015,W,ASTR,407,,OVERALL,Planetary Science,,8,80.875,6.034129124,93.0,75.0,,,,,,,,,,,
 UBCV,2015,W,ASTR,505,B,201,Galactic Astronomy,Paul Hickson,6,91.666666667,2.8047578619999998,95.0,88.0,,,,,,,,,,,5
+UBCV,2015,W,ASTR,505,B,OVERALL,Galactic Astronomy,,6,91.666666667,2.8047578619999998,95.0,88.0,,,,,,,,,,,5

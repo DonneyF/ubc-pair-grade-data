@@ -1,94 +1,137 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,BUSI,100,,001,Micro Foundations of Real Estate Economics,,69,77.246376812,23.309557366,98.0,0.0,7,,,,,,,,11,19,18
-UBCV,2018,W,BUSI,100,,002,Micro Foundations of Real Estate Economics,,49,75.816326531,19.860632616,94.0,0.0,,,,,,6,5,,9,9,9
-UBCV,2018,W,BUSI,101,,001,Capital Markets and Real Estate,,50,74.06,17.596857326,95.0,14.0,,,,,,,13,8,8,,7
-UBCV,2018,W,BUSI,101,,002,Capital Markets and Real Estate,,57,76.421052632,15.015405623,94.0,3.0,,,,,,6,8,9,12,6,9
-UBCV,2018,W,BUSI,111,,001,British Columbia Real Estate Law and Real Estate Ethics,,39,73.871794872,23.926619713,95.0,0.0,5,,,,,,,5,,11,6
-UBCV,2018,W,BUSI,111,,002,British Columbia Real Estate Law and Real Estate Ethics,,23,76.826086957,10.030191578,90.0,45.0,,,,,,,,,7,,
-UBCV,2018,W,BUSI,112,,001,Canadian Real Property Law and Real Estate Ethics,,46,76.826086957,16.915875972000002,95.0,5.0,,,,,,,8,5,8,12,6
-UBCV,2018,W,BUSI,112,,002,Canadian Real Property Law and Real Estate Ethics,,37,72.81081081100001,25.615574514000002,95.0,0.0,,,,,,,,5,12,6,
-UBCV,2018,W,BUSI,121,,001,Foundations of Real Estate Mathematics,,78,68.384615385,23.08776635,93.0,0.0,11,,,,5,8,15,15,11,6,5
-UBCV,2018,W,BUSI,121,,002,Foundations of Real Estate Mathematics,,42,72.619047619,13.425407985,91.0,19.0,,,,,6,,8,7,6,,
-UBCV,2018,W,BUSI,221,,001,Real Estate Finance in a Canadian Context,,13,76.23076923100001,10.417564064,94.0,58.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,100,,001,Micro Foundations of Real Estate Economics,,69,77.246376812,23.309557366,98.0,0.0,7,,,,,1,3,4,11,19,18
+UBCV,2018,W,BUSI,100,,002,Micro Foundations of Real Estate Economics,,56,75.767857143,19.013861997,94.0,0.0,4,,,,,6,6,6,11,10,9
+UBCV,2018,W,BUSI,100,,OVERALL,Micro Foundations of Real Estate Economics,,125,76.584,21.420966515,98.0,0.0,11,,,5,5,7,9,10,22,29,27
+UBCV,2018,W,BUSI,101,,001,Capital Markets and Real Estate,,50,74.06,17.596857326,95.0,14.0,,,,,,4,13,8,8,4,7
+UBCV,2018,W,BUSI,101,,002,Capital Markets and Real Estate,,60,76.4,14.660219435999998,94.0,3.0,,,,,,7,8,11,12,6,9
+UBCV,2018,W,BUSI,101,,OVERALL,Capital Markets and Real Estate,,110,75.336363636,16.028230412,95.0,3.0,8,,,,,11,21,19,20,10,16
+UBCV,2018,W,BUSI,111,,001,British Columbia Real Estate Law and Real Estate Ethics,,40,73.925,23.620273235,95.0,0.0,5,,,,,,,6,4,11,6
+UBCV,2018,W,BUSI,111,,002,British Columbia Real Estate Law and Real Estate Ethics,,23,76.826086957,10.030191578,90.0,45.0,1,,,,,,,3,7,4,1
+UBCV,2018,W,BUSI,111,,OVERALL,British Columbia Real Estate Law and Real Estate Ethics,,63,74.984126984,19.713669781,95.0,0.0,6,,,,,6,6,9,11,15,7
+UBCV,2018,W,BUSI,112,,001,Canadian Real Property Law and Real Estate Ethics,,47,76.468085106,16.910057547,95.0,5.0,,,,,,,8,5,8,12,6
+UBCV,2018,W,BUSI,112,,002,Canadian Real Property Law and Real Estate Ethics,,40,72.85,24.70705287,95.0,0.0,,,,,,,3,5,13,6,4
+UBCV,2018,W,BUSI,112,,OVERALL,Canadian Real Property Law and Real Estate Ethics,,87,74.804597701,20.810238469,95.0,0.0,8,,,,,6,11,10,21,18,10
+UBCV,2018,W,BUSI,121,,001,Foundations of Real Estate Mathematics,,79,69.29113924100001,22.067002805,93.0,0.0,8,,,5,5,9,15,15,11,6,5
+UBCV,2018,W,BUSI,121,,002,Foundations of Real Estate Mathematics,,49,71.693877551,13.982435532,91.0,20.0,5,,,3,7,4,9,7,8,4,2
+UBCV,2018,W,BUSI,121,,OVERALL,Foundations of Real Estate Mathematics,,128,70.2109375,19.347893472,93.0,0.0,13,,,8,12,13,24,22,19,10,7
+UBCV,2018,W,BUSI,221,,001,Real Estate Finance in a Canadian Context,,12,75.833333333,10.777361232999999,94.0,58.0,,,,,,,,,,,
 UBCV,2018,W,BUSI,221,,002,Real Estate Finance in a Canadian Context,,8,72.125,9.876921151,90.0,60.0,,,,,,,,,,,
-UBCV,2018,W,BUSI,291,,101,Application of Statistics in Business,Martha Essak,38,74.526315789,13.625764233,98.0,35.0,,,,,5,,5,,,10,
-UBCV,2018,W,BUSI,291,,201,Application of Statistics in Business,Martha Essak,33,73.0,17.621010187,96.0,2.0,,,,,,5,,,5,6,
+UBCV,2018,W,BUSI,221,,OVERALL,Real Estate Finance in a Canadian Context,,20,74.35,10.327658317000001,94.0,58.0,,,,,,,5,,,,
+UBCV,2018,W,BUSI,291,,101,Application of Statistics in Business,Martha Essak,38,74.526315789,13.625764233,98.0,35.0,,,,,5,2,5,,3,10,
+UBCV,2018,W,BUSI,291,,201,Application of Statistics in Business,Martha Essak,33,73.0,17.621010187,96.0,2.0,,,,,3,5,3,,5,6,
+UBCV,2018,W,BUSI,291,,OVERALL,Application of Statistics in Business,,71,73.816901408,15.513413421,98.0,2.0,,,7,,8,7,8,,8,16,6
 UBCV,2018,W,BUSI,293,,101,Introductory Financial Accounting,Scott Sinclair,26,59.461538462,27.630752099000002,96.0,6.0,9,,,,,,,,,,
-UBCV,2018,W,BUSI,293,,102,Introductory Financial Accounting,Scott Sinclair,64,68.828125,20.274743603,98.0,2.0,10,,,,9,,,7,8,7,7
-UBCV,2018,W,BUSI,293,,105,Introductory Financial Accounting,Alina Margaret Mcguinness;Alina Mcguinness;Peter Norwood;Scott Sinclair,24,76.791666667,10.038963946,91.0,50.0,,,,,,,,,10,,
-UBCV,2018,W,BUSI,293,,201,Introductory Financial Accounting,Scott Sinclair,50,58.66,24.77458375,98.0,0.0,18,,,,,5,8,,,,
-UBCV,2018,W,BUSI,293,,202,Introductory Financial Accounting,Aziz Rajwani,47,68.553191489,21.085548842999998,96.0,4.0,8,,,5,,,,,11,5,6
-UBCV,2018,W,BUSI,294,,102,Introductory Management Accounting,Alina Margaret Mcguinness;Alina Mcguinness;David Chan;Peter Norwood,46,76.913043478,12.012634251,97.0,41.0,,,,,,9,9,,,9,8
+UBCV,2018,W,BUSI,293,,102,Introductory Financial Accounting,Scott Sinclair,65,68.2,20.743372435999998,98.0,2.0,11,,,,9,,,7,8,7,7
+UBCV,2018,W,BUSI,293,,105,Introductory Financial Accounting,Alina Margaret Mcguinness;Alina Mcguinness;Peter Norwood;Scott Sinclair,24,76.791666667,10.038963946,91.0,50.0,0,,,,,,,,10,,
+UBCV,2018,W,BUSI,293,,201,Introductory Financial Accounting,Scott Sinclair,49,59.612244898,24.089084946999996,98.0,0.0,17,,,,,5,8,,,,
+UBCV,2018,W,BUSI,293,,202,Introductory Financial Accounting,Aziz Rajwani,49,66.530612245,22.940232163,96.0,4.0,10,,,5,,,,,11,5,6
+UBCV,2018,W,BUSI,293,,OVERALL,Introductory Financial Accounting,,213,65.741784038,22.599548973,98.0,0.0,47,6,7,14,16,17,19,13,36,17,21
+UBCV,2018,W,BUSI,294,,102,Introductory Management Accounting,Alina Margaret Mcguinness;Alina Mcguinness;David Chan;Peter Norwood,46,76.913043478,12.012634251,97.0,41.0,,,,,,9,9,,3,9,8
 UBCV,2018,W,BUSI,294,,103,Introductory Management Accounting,Peter Norwood,34,77.794117647,17.168998509,98.0,35.0,,,,,,,,,7,5,9
 UBCV,2018,W,BUSI,294,,201,Introductory Management Accounting,Peter Norwood,31,76.161290323,16.444040002999998,97.0,41.0,,,,,,,,,5,6,6
-UBCV,2018,W,BUSI,294,,202,Introductory Management Accounting,Aklilu Mulat;David Chan;Erin Egeland,32,80.09375,11.596326935,95.0,35.0,,,,,,,,,6,6,7
-UBCV,2018,W,BUSI,295,,101,Managerial Economics,Alym Amlani,23,74.695652174,11.918033634,90.0,39.0,,,,,,,,,6,,
+UBCV,2018,W,BUSI,294,,202,Introductory Management Accounting,Aklilu Mulat;David Chan;Erin Egeland,32,80.28125,11.6818977,95.0,35.0,,,,,,,,,7,5,8
+UBCV,2018,W,BUSI,294,,OVERALL,Introductory Management Accounting,,143,77.713286713,14.260959402000001,98.0,35.0,9,,,,8,16,17,7,22,25,31
+UBCV,2018,W,BUSI,295,,101,Managerial Economics,Alym Amlani,23,74.695652174,11.918033634,90.0,39.0,,,,,,,,4,6,,
 UBCV,2018,W,BUSI,295,,201,Managerial Economics,Alym Amlani,28,77.678571429,11.356360826,97.0,50.0,,,,,,,,6,6,,
-UBCV,2018,W,BUSI,300,,001,Urban and Real Estate Economics,,62,69.338709677,20.003232156,91.0,1.0,7,,,,11,,6,17,9,5,
-UBCV,2018,W,BUSI,300,,002,Urban and Real Estate Economics,,41,72.804878049,21.800481086999998,95.0,0.0,,,,,,,10,7,6,7,
-UBCV,2018,W,BUSI,330,,001,Foundations of Real Estate Appraisal,,159,65.566037736,22.789495776,92.0,0.0,25,,,8,19,17,25,28,28,7,
-UBCV,2018,W,BUSI,330,,002,Foundations of Real Estate Appraisal,,106,72.462264151,13.907979572,90.0,12.0,11,,,,9,11,19,19,22,10,
-UBCV,2018,W,BUSI,331,,001,Real Estate Investment Analysis and Advanced Income Appraisal,,38,65.105263158,23.854048864,89.0,0.0,7,,,,,,8,9,,,
-UBCV,2018,W,BUSI,331,,002,Real Estate Investment Analysis and Advanced Income Appraisal,,52,72.692307692,18.836279618,95.0,0.0,5,,,,5,6,6,7,9,,8
-UBCV,2018,W,BUSI,335,,101,Information Systems,Alym Amlani;Robert Helsley,99,73.272727273,15.345555883,95.0,15.0,7,,7,,7,9,8,17,15,13,12
-UBCV,2018,W,BUSI,335,,201,Information Systems,Alym Amlani;Ellen Jane Mcintosh,78,71.217948718,17.991807252,100.0,2.0,9,,5,5,,8,8,9,6,8,14
+UBCV,2018,W,BUSI,295,,OVERALL,Managerial Economics,,51,76.333333333,11.592526328,97.0,39.0,,,,,,,,10,12,8,5
+UBCV,2018,W,BUSI,300,,001,Urban and Real Estate Economics,,64,69.265625,19.687432288,91.0,1.0,7,,,,13,,6,17,9,5,
+UBCV,2018,W,BUSI,300,,002,Urban and Real Estate Economics,,48,73.229166667,20.214003555,95.0,0.0,4,,,,2,,11,9,8,7,
+UBCV,2018,W,BUSI,300,,OVERALL,Urban and Real Estate Economics,,112,70.964285714,19.921887357,95.0,0.0,11,,,,15,7,17,26,17,12,5
+UBCV,2018,W,BUSI,329,,OVERALL,Principles of Organizational Behaviour,,5,71.2,12.029131307,84.0,59.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,330,,001,Foundations of Real Estate Appraisal,,163,66.11656441699999,22.492630518000002,92.0,0.0,23,,,10,19,17,26,29,29,8,
+UBCV,2018,W,BUSI,330,,002,Foundations of Real Estate Appraisal,,122,71.967213115,13.961537737,90.0,12.0,13,,,3,13,13,22,21,24,11,
+UBCV,2018,W,BUSI,330,,OVERALL,Foundations of Real Estate Appraisal,,285,68.621052632,19.494769404,92.0,0.0,36,,,13,32,30,48,50,53,19,
+UBCV,2018,W,BUSI,331,,001,Real Estate Investment Analysis and Advanced Income Appraisal,,40,65.575,23.438832013000003,89.0,0.0,6,,,5,3,1,8,9,4,,0
+UBCV,2018,W,BUSI,331,,002,Real Estate Investment Analysis and Advanced Income Appraisal,,58,72.172413793,18.689651824000002,95.0,0.0,5,,,5,6,7,6,7,10,,8
+UBCV,2018,W,BUSI,331,,OVERALL,Real Estate Investment Analysis and Advanced Income Appraisal,,98,69.479591837,20.898986111,95.0,0.0,11,,,10,9,8,14,16,14,8,8
+UBCV,2018,W,BUSI,335,,101,Information Systems,Alym Amlani;Robert Helsley,100,73.05,15.429458248,95.0,15.0,7,1.0,7,4,7,9,8,17,15,13,12
+UBCV,2018,W,BUSI,335,,201,Information Systems,Alym Amlani;Ellen Jane Mcintosh,78,71.217948718,17.991807252,100.0,2.0,9,4.0,5,5,2,8,8,9,6,8,14
+UBCV,2018,W,BUSI,335,,OVERALL,Information Systems,,178,72.247191011,16.577352258,100.0,2.0,16,5,12,9,9,17,16,26,21,21,26
 UBCV,2018,W,BUSI,344,,001,Statistical and Computer Applications in Valuation,,30,71.366666667,27.604951247,93.0,0.0,,,,,,,,,5,9,
-UBCV,2018,W,BUSI,344,,002,Statistical and Computer Applications in Valuation,,21,78.285714286,6.63432632,88.0,67.0,,,,,,,,,8,,
-UBCV,2018,W,BUSI,352,,001,Case Studies in Residential Valuation,,23,70.0,14.678369986,83.0,24.0,,,,,,,,7,,,
-UBCV,2018,W,BUSI,352,,002,Case Studies in Residential Valuation,,18,72.0,9.387100035,86.0,43.0,,,,,,6,,,,,
-UBCV,2018,W,BUSI,353,,102,Intermediate Financial Accounting I,Doug Yee;Yau Man Cheung,33,71.363636364,16.007455649,94.0,19.0,,,,,,,,,5,,
+UBCV,2018,W,BUSI,344,,002,Statistical and Computer Applications in Valuation,,22,78.636363636,6.6800731,88.0,67.0,,,,,,,,,8,5,
+UBCV,2018,W,BUSI,344,,OVERALL,Statistical and Computer Applications in Valuation,,52,74.442307692,21.560142476,93.0,0.0,,,,,,,,7,13,14,
+UBCV,2018,W,BUSI,352,,001,Case Studies in Residential Valuation,,24,67.916666667,17.614017804,83.0,20.0,,,,,,1,,7,,,
+UBCV,2018,W,BUSI,352,,002,Case Studies in Residential Valuation,,23,70.043478261,10.806051591,86.0,41.0,,,,,,7,,3,,,
+UBCV,2018,W,BUSI,352,,OVERALL,Case Studies in Residential Valuation,,47,68.95744680899999,14.564634724000001,86.0,20.0,5,,,,5,8,7,10,7,,
+UBCV,2018,W,BUSI,353,,102,Intermediate Financial Accounting I,Doug Yee;Douglas Yee;Yau Man Cheung,33,71.363636364,16.007455649,94.0,19.0,,,,,,3,,,5,,
 UBCV,2018,W,BUSI,353,,103,Intermediate Financial Accounting I,Robert Brian Bruce,30,72.5,17.067310961,93.0,5.0,,,,,,5,,,6,,
-UBCV,2018,W,BUSI,353,,201,Intermediate Financial Accounting I,John Ries;Robert Brian Bruce,43,80.046511628,7.979000677999999,94.0,64.0,,,,,,6,5,,14,8,6
-UBCV,2018,W,BUSI,353,,202,Intermediate Financial Accounting I,Chuck Campbell;Doug Yee,40,69.7,21.670256113,98.0,2.0,,,,,,5,,,6,,6
-UBCV,2018,W,BUSI,354,,101,Cost Accounting,Aklilu Mulat,34,70.676470588,12.566720332000001,91.0,32.0,,,,,,5,8,,,,
-UBCV,2018,W,BUSI,354,,102,Cost Accounting,Alina Margaret Mcguinness;Alina Mcguinness;David Chan,46,71.217391304,9.955262246,92.0,55.0,,,,9,7,,8,,8,,
-UBCV,2018,W,BUSI,354,,201,Cost Accounting,Alina Margaret Mcguinness;Alina Mcguinness,76,75.368421053,11.21171067,98.0,52.0,,,,10,14,6,8,7,10,7,12
-UBCV,2018,W,BUSI,354,,203,Cost Accounting,Peter Norwood,27,72.814814815,12.282060204,91.0,50.0,,,,5,,5,,,5,,
+UBCV,2018,W,BUSI,353,,201,Intermediate Financial Accounting I,John Ries;Robert Brian Bruce,44,79.886363636,7.9569069279999995,94.0,64.0,,,,,,6,6,,14,8,6
+UBCV,2018,W,BUSI,353,,202,Intermediate Financial Accounting I,Chuck Campbell;Doug Yee;Douglas Yee,41,69.902439024,21.436889791,98.0,2.0,,,,,,5,,5,6,,6
+UBCV,2018,W,BUSI,353,,OVERALL,Intermediate Financial Accounting I,,148,73.722972973,16.547117202,98.0,2.0,8,,,10,9,19,16,13,31,15,20
+UBCV,2018,W,BUSI,354,,101,Cost Accounting,Aklilu Mulat,34,70.676470588,12.566720332000001,91.0,32.0,,,,2,,5,8,,2,,
+UBCV,2018,W,BUSI,354,,102,Cost Accounting,Alina Margaret Mcguinness;Alina Mcguinness;David Chan,46,71.217391304,9.955262246,92.0,55.0,,,,9,7,4,8,,8,,
+UBCV,2018,W,BUSI,354,,201,Cost Accounting,Alina Margaret Mcguinness;Alina Mcguinness,77,75.103896104,11.377013316,98.0,52.0,,,,10,14,6,8,7,10,7,12
+UBCV,2018,W,BUSI,354,,203,Cost Accounting,Peter Norwood,27,72.814814815,12.282060204,91.0,50.0,,,,5,,5,1,,5,,
+UBCV,2018,W,BUSI,354,,OVERALL,Cost Accounting,,184,72.97826087,11.476255612000001,98.0,32.0,2.0,5,8,26,23,20,25,17,25,14,19
 UBCV,2018,W,BUSI,355,,101,Introduction to Income Tax,Grant Lee,58,66.051724138,15.346777950999998,96.0,22.0,5,5,8,,7,,9,,9,,
-UBCV,2018,W,BUSI,355,,102,Introduction to Income Tax,Mary Chong;Tran Khue Chung,38,70.078947368,17.934387291,95.0,25.0,6,,,,,,,,7,6,
-UBCV,2018,W,BUSI,355,,202,Introduction to Income Tax,Mary Chong;Shiraz Charania,45,70.377777778,17.114970705,99.0,1.0,,,,,8,6,6,,,,5
+UBCV,2018,W,BUSI,355,,102,Introduction to Income Tax,Mary Chong;Tran Khue Chung,38,70.078947368,17.934387291,95.0,25.0,6,,,,3,,4,,7,6,
+UBCV,2018,W,BUSI,355,,202,Introduction to Income Tax,Mary Chong;Shiraz Charania,45,70.377777778,17.114970705,99.0,1.0,,,,,8,6,6,,3,,5
 UBCV,2018,W,BUSI,355,,203,Introduction to Income Tax,Grant Lee;Ronald Timothy Cenfetelli,51,70.37254902,13.098031584000001,99.0,41.0,,,,6,10,7,5,,7,5,
-UBCV,2018,W,BUSI,370,,101,Business Finance,Aziz Rajwani,27,68.592592593,18.038973319,88.0,22.0,,,,,,,,,9,,
+UBCV,2018,W,BUSI,355,,OVERALL,Introduction to Income Tax,,192,69.010416667,15.773591019000001,99.0,1.0,17,8,15,16,28,19,24,6,26,18,15
+UBCV,2018,W,BUSI,370,,101,Business Finance,Aziz Rajwani,27,68.592592593,18.038973319,88.0,22.0,,,,,,4,2,,9,,
 UBCV,2018,W,BUSI,370,,102,Business Finance,Aziz Rajwani,60,68.56666666699999,17.899310342,97.0,1.0,9,,,5,9,5,8,5,10,,
-UBCV,2018,W,BUSI,370,,201,Business Finance,Aziz Rajwani,69,70.173913043,16.065085014,99.0,11.0,5,,,9,7,5,12,5,10,,7
-UBCV,2018,W,BUSI,370,,202,Business Finance,John Graham Mcintosh,44,74.181818182,12.194685704000001,92.0,23.0,,,,,,9,,,12,6,
-UBCV,2018,W,BUSI,393,,102,Introduction to Business Law,Barbara Cox;Ellen Jane Mcintosh,80,67.825,13.481140130999998,95.0,25.0,6,,5,9,15,8,11,12,6,5,
-UBCV,2018,W,BUSI,393,,201,Introduction to Business Law,Devin Kanhai;Devin Matthew Kanhai,105,74.20952381,13.804051270999999,96.0,24.0,5,,5,7,7,8,9,23,13,14,11
-UBCV,2018,W,BUSI,398,,001,Residental Property Guided Case Study,,8,71.375,29.198520021,88.0,0.0,,,,,,,,,,,
-UBCV,2018,W,BUSI,400,,001,Residential Property Analysis,,57,80.929824561,5.522226677000001,90.0,63.0,,,,,,,,9,24,14,
-UBCV,2018,W,BUSI,400,,002,Residential Property Analysis,,58,77.275862069,15.195559258,94.0,0.0,,,,,,6,,9,24,8,
-UBCV,2018,W,BUSI,401,,001,Commercial Property Analysis,,70,74.1,11.253534065999999,92.0,0.0,,,,,,16,13,14,15,,
-UBCV,2018,W,BUSI,401,,002,Commercial Property Analysis,,59,70.694915254,18.667004115999998,87.0,0.0,6,,,,,9,9,15,15,,
-UBCV,2018,W,BUSI,433,,001,Real Estate Business,,24,71.083333333,17.584372179000002,85.0,9.0,,,,,,,,6,6,,
-UBCV,2018,W,BUSI,433,,002,Real Estate Business,,27,68.555555556,23.656733199,87.0,0.0,5,,,,,,,,9,,
-UBCV,2018,W,BUSI,441,,002,Real Estate Management I,,10,73.4,11.226951699,91.0,48.0,,,,,,,,,,,
-UBCV,2018,W,BUSI,442,,001,Case Studies in Appraisal I,,40,76.5,14.29541795,89.0,3.0,,,,,,,6,,14,9,
-UBCV,2018,W,BUSI,442,,002,Case Studies in Appraisal I,,34,78.529411765,7.131812189,94.0,65.0,,,,,,,,10,8,,
-UBCV,2018,W,BUSI,443,,001,Assessment Administration,,29,71.827586207,16.388299322,86.0,0.0,,,,,,,8,7,6,,
-UBCV,2018,W,BUSI,443,,002,Assessment Administration,,35,76.342857143,11.8469228,89.0,23.0,,,,,,,5,9,13,,
-UBCV,2018,W,BUSI,444,,001,Computer Aided Mass Property Assessment,,9,68.333333333,23.806511714000003,84.0,6.0,,,,,,,,,,,
-UBCV,2018,W,BUSI,444,,002,Computer Aided Mass Property Assessment,,9,69.777777778,16.307803177,83.0,31.0,,,,,,,,,,,
-UBCV,2018,W,BUSI,445,,001,Real Estate Development I,,28,73.607142857,18.663371308,91.0,5.0,,,,,,5,6,,,6,
-UBCV,2018,W,BUSI,445,,002,Real Estate Development I,,15,74.133333333,7.029190836000001,87.0,65.0,,,,,,,,,,,
-UBCV,2018,W,BUSI,446,,001,Real Estate Development II,,9,79.333333333,3.674234614,84.0,74.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,370,,201,Business Finance,Aziz Rajwani,68,71.044117647,14.453666398,99.0,25.0,,,,9,7,5,12,5,10,,7
+UBCV,2018,W,BUSI,370,,202,Business Finance,John Graham Mcintosh,46,73.673913043,12.361327415,92.0,23.0,,,,,,9,5,,12,6,
+UBCV,2018,W,BUSI,370,,OVERALL,Business Finance,,201,70.577114428,15.659031695,99.0,1.0,18,6,5,16,22,23,27,17,41,14,12
+UBCV,2018,W,BUSI,393,,102,Introduction to Business Law,Barbara Cox;Ellen Jane Mcintosh;Ellen Mcintosh,80,67.825,13.481140130999998,95.0,25.0,6,2.0,5,9,15,8,11,12,6,5,1
+UBCV,2018,W,BUSI,393,,201,Introduction to Business Law,Devin Kanhai;Devin Matthew Kanhai,105,74.20952381,13.804051270999999,96.0,24.0,5,3.0,5,7,7,8,9,23,13,14,11
+UBCV,2018,W,BUSI,393,,OVERALL,Introduction to Business Law,,185,71.44864864899999,13.992576090999998,96.0,24.0,11,5,10,16,22,16,20,35,19,19,12
+UBCV,2018,W,BUSI,398,,001,Residental Property Guided Case Study,,14,67.071428571,26.400653505,88.0,0.0,,,,,,,,,5,,
+UBCV,2018,W,BUSI,398,,002,Residental Property Guided Case Study,,11,74.818181818,16.642224502,84.0,26.0,,,,,,,,,6,,
+UBCV,2018,W,BUSI,398,,OVERALL,Residental Property Guided Case Study,,25,70.48,22.546470529,88.0,0.0,,,,,,,,,11,,
+UBCV,2018,W,BUSI,400,,001,Residential Property Analysis,,57,80.929824561,5.522226677000001,90.0,63.0,,,,,,4,,9,24,14,
+UBCV,2018,W,BUSI,400,,002,Residential Property Analysis,,65,78.138461538,14.126523062999999,94.0,0.0,,,,,,6,,11,26,10,
+UBCV,2018,W,BUSI,400,,OVERALL,Residential Property Analysis,,122,79.442622951,11.028175170999999,94.0,0.0,,,,,,10,8,20,50,24,5
+UBCV,2018,W,BUSI,401,,001,Commercial Property Analysis,,71,74.084507042,11.173625168,92.0,0.0,1,,,,,16,14,14,15,,
+UBCV,2018,W,BUSI,401,,002,Commercial Property Analysis,,63,71.126984127,18.152127809,87.0,0.0,6,,,,,9,10,17,16,,
+UBCV,2018,W,BUSI,401,,OVERALL,Commercial Property Analysis,,134,72.69402985100001,14.883117353,92.0,0.0,7,,,,6,25,24,31,31,,
+UBCV,2018,W,BUSI,433,,001,Real Estate Business,,24,71.083333333,17.584372179000002,85.0,9.0,2,,,,,,,6,6,,
+UBCV,2018,W,BUSI,433,,002,Real Estate Business,,33,68.090909091,21.483080023000003,87.0,0.0,5,,,,,,,5,9,,
+UBCV,2018,W,BUSI,433,,OVERALL,Real Estate Business,,57,69.350877193,19.822868492999998,87.0,0.0,7,,,,5,6,6,11,15,,
+UBCV,2018,W,BUSI,441,,002,Real Estate Management I,,10,74.6,8.527081042999999,91.0,60.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,441,,OVERALL,Real Estate Management I,,13,74.76923076899999,7.75837017,91.0,60.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,442,,001,Case Studies in Appraisal I,,40,76.5,14.29541795,89.0,3.0,,,,,,,6,4,14,9,
+UBCV,2018,W,BUSI,442,,002,Case Studies in Appraisal I,,39,78.871794872,6.996914685,94.0,65.0,,,,,,,4,11,10,4,
+UBCV,2018,W,BUSI,442,,OVERALL,Case Studies in Appraisal I,,79,77.670886076,11.289570315999999,94.0,3.0,,,,,,8,10,15,24,13,
+UBCV,2018,W,BUSI,443,,001,Assessment Administration,,30,71.7,16.118419534,86.0,0.0,,,,,,,8,7,6,,
+UBCV,2018,W,BUSI,443,,002,Assessment Administration,,37,76.432432432,11.541087327,89.0,23.0,,,,,,,6,9,14,,
+UBCV,2018,W,BUSI,443,,OVERALL,Assessment Administration,,67,74.313432836,13.871934775,89.0,0.0,,,,,,6,14,16,20,,
+UBCV,2018,W,BUSI,444,,001,Computer Aided Mass Property Assessment,,10,67.8,22.508270085,84.0,6.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,444,,002,Computer Aided Mass Property Assessment,,10,69.4,15.421485732999999,83.0,31.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,444,,OVERALL,Computer Aided Mass Property Assessment,,20,68.6,18.796416232000002,84.0,6.0,,,,,,,,,6,,
+UBCV,2018,W,BUSI,445,,001,Real Estate Development I,,30,71.93333333300001,19.112973268,91.0,5.0,,,,,,5,6,,,6,
+UBCV,2018,W,BUSI,445,,002,Real Estate Development I,,17,73.470588235,6.856727052999999,87.0,65.0,,,,,,5,1,,,1,
+UBCV,2018,W,BUSI,445,,OVERALL,Real Estate Development I,,47,72.489361702,15.722971758,91.0,5.0,,,,,,10,7,8,6,7,
+UBCV,2018,W,BUSI,446,,001,Real Estate Development II,,9,79.333333333,3.674234614,84.0,74.0,,,,,,,,,4,,
 UBCV,2018,W,BUSI,446,,002,Real Estate Development II,,12,81.666666667,6.124961347999999,91.0,69.0,,,,,,,,,5,,
-UBCV,2018,W,BUSI,450,,101,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,45,71.977777778,15.936648571,100.0,38.0,,,,,5,,,,6,,8
-UBCV,2018,W,BUSI,450,,102,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,38,67.55263157899999,15.740629762000001,97.0,33.0,5,,,,,8,,,,,6
-UBCV,2018,W,BUSI,450,,201,Intermediate Financial Accounting II,Megan Amanda Maclean;Megan Maclean,36,74.0,12.384321885999999,92.0,40.0,,,,,6,5,,,5,5,
-UBCV,2018,W,BUSI,450,,203,Intermediate Financial Accounting II,Robert Brian Bruce,41,75.756097561,7.879658901,90.0,54.0,,,,,,8,,,16,,
-UBCV,2018,W,BUSI,452,,001,Case Studies in Appraisal II,,37,79.81081081100001,11.541802857999999,97.0,34.0,,,,,,,,9,8,10,
-UBCV,2018,W,BUSI,452,,002,Case Studies in Appraisal II,,42,78.976190476,11.468914710999998,94.0,34.0,,,,,,5,,5,10,13,
+UBCV,2018,W,BUSI,446,,OVERALL,Real Estate Development II,,21,80.666666667,5.237683967,91.0,69.0,,,,,,,,5,9,,
+UBCV,2018,W,BUSI,450,,101,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,45,71.977777778,15.936648571,100.0,38.0,,,,,5,4,,,6,,8
+UBCV,2018,W,BUSI,450,,102,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,38,67.55263157899999,15.740629762000001,97.0,33.0,5,,,,,8,,,3,,6
+UBCV,2018,W,BUSI,450,,201,Intermediate Financial Accounting II,Megan Amanda Maclean;Megan Maclean,38,73.55263157899999,12.202563684000001,92.0,40.0,,,,,8,5,,,5,5,
+UBCV,2018,W,BUSI,450,,203,Intermediate Financial Accounting II,Robert Brian Bruce,42,75.761904762,7.7830633,90.0,54.0,,,,,,8,,5,16,,
+UBCV,2018,W,BUSI,450,,OVERALL,Intermediate Financial Accounting II,,163,72.28834355800001,13.553608205,100.0,33.0,10,8,7,7,20,25,14,12,30,11,19
+UBCV,2018,W,BUSI,451,,OVERALL,Real Estate Management II,,5,80.8,8.288546314,93.0,72.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,452,,001,Case Studies in Appraisal II,,38,79.710526316,11.40153592,97.0,34.0,,,,,,1,,10,8,10,
+UBCV,2018,W,BUSI,452,,002,Case Studies in Appraisal II,,45,79.422222222,10.041932286,94.0,41.0,,,,,,5,,5,10,15,
+UBCV,2018,W,BUSI,452,,OVERALL,Case Studies in Appraisal II,,83,79.554216867,10.620106347,97.0,34.0,,,,,,6,6,15,18,25,6
 UBCV,2018,W,BUSI,453,,101,Advanced Financial Accounting,Chuck Campbell,48,71.645833333,15.794544685999998,98.0,20.0,,,,5,,,7,8,6,,6
-UBCV,2018,W,BUSI,453,,102,Advanced Financial Accounting,Chuck Campbell,13,70.692307692,23.977018912,93.0,0.0,,,,,,,,,,,
-UBCV,2018,W,BUSI,453,,201,Advanced Financial Accounting,Barbara Wyntjes,70,76.7,13.237353823,100.0,50.0,,5,,,9,,8,11,8,7,15
+UBCV,2018,W,BUSI,453,,102,Advanced Financial Accounting,Chuck Campbell,13,70.692307692,23.977018912,93.0,0.0,,,,,,,1,,3,,
+UBCV,2018,W,BUSI,453,,201,Advanced Financial Accounting,Barbara Wyntjes,73,75.438356164,15.155661118,100.0,28.0,,5,,,9,,8,11,9,7,15
 UBCV,2018,W,BUSI,453,,202,Advanced Financial Accounting,Chuck Campbell,31,69.35483871,18.293074076,95.0,16.0,,,,,,,6,,6,,
+UBCV,2018,W,BUSI,453,,OVERALL,Advanced Financial Accounting,,165,72.818181818,16.783874639,100.0,0.0,9,9,7,10,14,11,22,20,24,12,27
 UBCV,2018,W,BUSI,455,,101,Principles of Auditing,Mary Chong,56,75.035714286,11.395316878,98.0,41.0,,,,7,,5,9,9,7,6,7
-UBCV,2018,W,BUSI,455,,102,Principles of Auditing,Doug Yee,39,76.666666667,10.08994636,92.0,51.0,,,,5,,5,,,12,6,
-UBCV,2018,W,BUSI,455,,201,Principles of Auditing,Doug Yee;Paul Jeyakumar,41,76.243902439,11.394692817000001,97.0,46.0,,,,,,5,,10,9,,6
-UBCV,2018,W,BUSI,455,,202,Principles of Auditing,Mary Chong,39,76.25641025600001,10.78429157,97.0,52.0,,,,5,,,5,,11,,5
-UBCV,2018,W,BUSI,460,,001,Critical Analysis and Forecasting in Real Estate,,16,63.125,29.461556872,89.0,0.0,,,,,,,,,,,
-UBCV,2018,W,BUSI,460,,002,Critical Analysis and Forecasting in Real Estate,,8,74.875,7.2984832079999995,86.0,61.0,,,,,,,,,,,
+UBCV,2018,W,BUSI,455,,102,Principles of Auditing,Doug Yee;Douglas Yee,39,76.666666667,10.08994636,92.0,51.0,,,,5,,5,,,12,6,4
+UBCV,2018,W,BUSI,455,,201,Principles of Auditing,Doug Yee;Douglas Yee;Paul Jeyakumar,42,76.452380952,11.33568159,97.0,46.0,,,,4,,5,,10,9,,6
+UBCV,2018,W,BUSI,455,,202,Principles of Auditing,Mary Chong,39,76.25641025600001,10.78429157,97.0,52.0,,,,5,,3,5,,11,,5
+UBCV,2018,W,BUSI,455,,OVERALL,Principles of Auditing,,176,76.005681818,10.896655927000001,98.0,41.0,,,,21,9,18,17,25,39,19,22
+UBCV,2018,W,BUSI,460,,001,Critical Analysis and Forecasting in Real Estate,,20,64.35,26.533543815,89.0,0.0,,,,,,,,,5,,
+UBCV,2018,W,BUSI,460,,002,Critical Analysis and Forecasting in Real Estate,,10,77.9,9.255028663,94.0,61.0,,,,,,,,,0,,
+UBCV,2018,W,BUSI,460,,OVERALL,Critical Analysis and Forecasting in Real Estate,,30,68.866666667,23.022827253000003,94.0,0.0,,,,,,,,6,5,,
 UBCV,2018,W,BUSI,470,,101,Financial Management,Robin Diehl,65,73.015384615,10.107998546000001,90.0,35.0,,,,7,7,6,12,10,11,7,
-UBCV,2018,W,BUSI,493,,101,Strategic Management in Business,Kevin James,43,79.720930233,5.929448627,92.0,65.0,,,,,,,8,8,17,,
+UBCV,2018,W,BUSI,470,,OVERALL,Financial Management,,65,73.015384615,10.107998546000001,90.0,35.0,,,,7,7,6,12,10,11,7,
+UBCV,2018,W,BUSI,493,,101,Strategic Management in Business,Kevin James,43,79.720930233,5.929448627,92.0,65.0,,,,,,,8,8,17,3,
 UBCV,2018,W,BUSI,493,,201,Strategic Management in Business,Kevin James,41,80.146341463,5.461506091,94.0,70.0,,,,,,,8,8,14,7,
-UBCV,2018,W,BUSI,499,,001,Income Property Guided Case Study,,12,78.333333333,20.249953236,88.0,15.0,,,,,,,,,,6,
+UBCV,2018,W,BUSI,493,,OVERALL,Strategic Management in Business,,84,79.928571429,5.675535566000001,94.0,65.0,,,,,,,16,16,31,10,7
+UBCV,2018,W,BUSI,499,,001,Income Property Guided Case Study,,19,71.736842105,25.843206942,88.0,0.0,,,,,,,,,6,7,
+UBCV,2018,W,BUSI,499,,002,Income Property Guided Case Study,,10,83.7,1.946506843,86.0,79.0,,,,,,,,,5,4,
+UBCV,2018,W,BUSI,499,,OVERALL,Income Property Guided Case Study,,29,75.86206896600001,21.541859811,88.0,0.0,,,,,,,,,11,11,

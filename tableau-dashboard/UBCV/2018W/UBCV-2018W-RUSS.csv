@@ -2,18 +2,30 @@ Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,S
 UBCV,2018,W,RUSS,101,,001,Basic Russian I,Veta Chitnev,27,83.444444444,10.25195416,95.0,46.0,,,,,,,,,5,9,6
 UBCV,2018,W,RUSS,101,,002,Basic Russian I,Dariya Prykhodko,30,84.333333333,11.204473655,98.0,50.0,,,,,,,,,7,,12
 UBCV,2018,W,RUSS,101,,003,Basic Russian I,Liudmila Rodova,13,87.0,12.02081528,99.0,64.0,,,,,,,,,,,7
-UBCV,2018,W,RUSS,101,,004,Basic Russian I,Dariya Prykhodko;Veta Chitnev,27,86.22222222200001,12.182374825999998,99.0,53.0,,,,,,,,,,,15
+UBCV,2018,W,RUSS,101,,004,Basic Russian I,Dariya Prykhodko;Veta Chitnev,26,87.5,10.416333328,99.0,64.0,,,,,,,,,,,15
 UBCV,2018,W,RUSS,101,,005,Basic Russian I,Veta Chitnev,26,81.461538462,9.892343582,97.0,65.0,,,,,,,,,,,8
+UBCV,2018,W,RUSS,101,,OVERALL,Basic Russian I,,122,84.483606557,10.699682243,99.0,46.0,,,,,5,10,6,10,20,20,48
 UBCV,2018,W,RUSS,102,,001,Basic Russian II,Veta Chitnev,22,81.954545455,10.111178504,95.0,60.0,,,,,,,,,,6,5
 UBCV,2018,W,RUSS,102,,002,Basic Russian II,Dariya Prykhodko,18,75.0,16.435256221,90.0,24.0,,,,,,,,,,5,
-UBCV,2018,W,RUSS,102,,003,Basic Russian II,Liudmila Rodova,13,73.384615385,26.887228881,97.0,0.0,,,,,,,,,,,
+UBCV,2018,W,RUSS,102,,003,Basic Russian II,Liudmila Rodova,13,73.384615385,26.887228881,97.0,0.0,,,,,,,,,,3,
+UBCV,2018,W,RUSS,102,,OVERALL,Basic Russian II,,53,77.490566038,17.641322384000002,97.0,0.0,,,,,,,6,5,7,14,9
 UBCV,2018,W,RUSS,201,,001,Second-Year Russian I,Veta Chitnev,27,83.0,13.983506768,98.0,51.0,,,,,,,,,5,5,11
+UBCV,2018,W,RUSS,201,,OVERALL,Second-Year Russian I,,27,83.0,13.983506768,98.0,51.0,,,,,,,,,5,5,11
 UBCV,2018,W,RUSS,202,,001,Second-Year Russian II,Veta Chitnev,30,81.833333333,15.083865171,99.0,33.0,,,,,,,,,,5,11
+UBCV,2018,W,RUSS,202,,OVERALL,Second-Year Russian II,,30,81.833333333,15.083865171,99.0,33.0,,,,,,,,,,5,11
 UBCV,2018,W,RUSS,206,,001,Nineteenth-Century Russian Writers in Translation,Dariya Prykhodko,47,79.87234042600001,9.981759497,95.0,42.0,,,,,,,10,8,11,6,8
+UBCV,2018,W,RUSS,206,,OVERALL,Nineteenth-Century Russian Writers in Translation,,47,79.87234042600001,9.981759497,95.0,42.0,,,,,,,10,8,11,6,8
 UBCV,2018,W,RUSS,207,,001,Twentieth-Century Russian Writers in Translation,Dariya Prykhodko,43,76.372093023,15.547198884,96.0,8.0,,,,,,6,5,,10,7,6
+UBCV,2018,W,RUSS,207,,OVERALL,Twentieth-Century Russian Writers in Translation,,43,76.372093023,15.547198884,96.0,8.0,,,,,,6,5,,10,7,6
 UBCV,2018,W,RUSS,300,,001,Third-Year Russian,Dariya Prykhodko,9,81.555555556,4.693375947,87.0,74.0,,,,,,,,,,,
+UBCV,2018,W,RUSS,300,,OVERALL,Third-Year Russian,,9,81.555555556,4.693375947,87.0,74.0,,,,,,,,,,,
 UBCV,2018,W,RUSS,306,A,001,Russian Literature in Translation,Katherine Bowers,33,79.242424242,13.355781293,92.0,36.0,,,,,,,,,11,7,6
+UBCV,2018,W,RUSS,306,A,OVERALL,Russian Literature in Translation,,33,79.242424242,13.355781293,92.0,36.0,,,,,,,,,11,7,6
 UBCV,2018,W,RUSS,316,,001,Russian through Film (in Russian),Veta Chitnev,14,81.571428571,7.511163852,91.0,65.0,,,,,,,,,6,,
+UBCV,2018,W,RUSS,316,,OVERALL,Russian through Film (in Russian),,14,81.571428571,7.511163852,91.0,65.0,,,,,,,,,6,,
 UBCV,2018,W,RUSS,323,A,001,Fantastic Worlds in Russian Fiction (in English),Katherine Bowers;Laura Isakov,21,84.952380952,7.6057622270000005,96.0,66.0,,,,,,,,,,7,5
+UBCV,2018,W,RUSS,323,A,OVERALL,Fantastic Worlds in Russian Fiction (in English),,21,84.952380952,7.6057622270000005,96.0,66.0,,,,,,,,,,7,5
 UBCV,2018,W,RUSS,400,B,001,Fourth-Year Russian,Veta Chitnev,13,85.23076923100001,9.496963077,96.0,64.0,,,,,,,,,,,7
-UBCV,2018,W,RUSS,412,,001,Dostoevsky in Translation,Katherine Bowers,17,82.705882353,10.751538878,95.0,48.0,,,,,,,,,5,,
+UBCV,2018,W,RUSS,400,B,OVERALL,Fourth-Year Russian,,13,85.23076923100001,9.496963077,96.0,64.0,,,,,,,,,,,7
+UBCV,2018,W,RUSS,412,,001,Dostoevsky in Translation,Katherine Bowers,17,85.0,5.989574275,95.0,75.0,,,,,,,,,5,,
+UBCV,2018,W,RUSS,412,,OVERALL,Dostoevsky in Translation,,17,85.0,5.989574275,95.0,75.0,,,,,,,,,5,,

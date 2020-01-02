@@ -2,35 +2,64 @@ Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,S
 UBCV,2015,W,STAT,200,,101,Elementary Statistics for Applications,Andy Chun Yin Leung;Bo Chang;Camila Casquilho Resende;Derek Sin Tat Chiu;Elena Shchurenkova;Fan Xu;Gal Av Gay;Grace Hsu;Ho Yin Ho;Hoi Yin Eugenia Yu;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Qiong Zhang;Shenyi Pan;Yijun Xie;Yitian Liang;Yiwei Hou,157,71.554140127,16.421684735,99.0,9.0,14,7,7,11,12,16,18,16,21,14,21
 UBCV,2015,W,STAT,200,,103,Elementary Statistics for Applications,Andy Chun Yin Leung;Bo Chang;Derek Sin Tat Chiu;Elena Shchurenkova;Fan Xu;Gal Av Gay;Grace Hsu;Ho Yin Ho;Hoi Yin Eugenia Yu;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Qiong Zhang;Shenyi Pan;Yijun Xie;Yiwei Hou,342,70.131578947,12.934878505999999,99.0,1.0,15,19,19,32,45,57,38,34,49,11,23
 UBCV,2015,W,STAT,200,,202,Elementary Statistics for Applications,Gal Av Gay;Grace Hsu;Ho Yin Ho;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Lang Wu;Melissa Lee;Qiong Zhang;Shenyi Pan;Yijun Xie;Yitian Liang;Yiwei Hou;Yong Dong Ouyang;Zhouqin He,317,67.400630915,16.63001327,99.0,0.0,21,24,31,44,43,29,35,18,27,18,27
+UBCV,2015,W,STAT,200,,OVERALL,Elementary Statistics for Applications,,816,69.344362745,15.215839102999999,99.0,0.0,50,50,57,87,100,102,91,68,97,43,71
 UBCV,2015,W,STAT,203,,103,Statistical Methods,Adrian Jones;Bruce Dunham;Jeffrey Bone,116,73.25,13.928310238,94.0,0.0,,7,,10,7,8,16,14,28,15,
-UBCV,2015,W,STAT,241,,101,Introductory Probability and Statistics,Derek Cho;Elena Shchurenkova;Gilberto Alexi Rodriguez-Arelis;Gilberto Rodriguez-Arelis;Melissa Lee;Ming Wan;Rashedul Hoque;Tingting Yu,44,74.659090909,14.238733909,96.0,24.0,,,,,,7,7,5,,8,6
-UBCV,2015,W,STAT,241,,201,Introductory Probability and Statistics,Melissa Lee;Tingting Yu,112,71.410714286,14.849123232,97.0,24.0,6,,15,11,9,9,10,9,16,14,11
+UBCV,2015,W,STAT,203,,OVERALL,Statistical Methods,,116,73.25,13.928310238,94.0,0.0,,7,,10,7,8,16,14,28,15,
+UBCV,2015,W,STAT,241,,101,Introductory Probability and Statistics,Derek Cho;Elena Shchurenkova;Gilberto Alexi Rodriguez-Arelis;Gilberto Rodriguez-Arelis;Melissa Lee;Ming Wan;Rashedul Hoque;Tingting Yu,44,74.659090909,14.238733909,96.0,24.0,1,2.0,2,2,2,7,7,5,2,8,6
+UBCV,2015,W,STAT,241,,201,Introductory Probability and Statistics,Melissa Lee;Tingting Yu,112,71.410714286,14.849123232,97.0,24.0,6,2.0,15,11,9,9,10,9,16,14,11
+UBCV,2015,W,STAT,241,,OVERALL,Introductory Probability and Statistics,,156,72.326923077,14.707103161,97.0,24.0,7,4.0,17,13,11,16,17,14,18,22,17
 UBCV,2015,W,STAT,251,,101,Elementary Statistics,Derek Cho;Elena Shchurenkova;Gilberto Alexi Rodriguez-Arelis;Gilberto Rodriguez-Arelis;Melissa Lee;Ming Wan;Rashedul Hoque;Tingting Yu,147,71.755102041,14.664556019,97.0,26.0,7,10,6,16,11,14,17,13,25,12,16
 UBCV,2015,W,STAT,251,,201,Elementary Statistics,Derek Cho;Elena Shchurenkova;Jeffrey Bone;Melissa Lee;Ming Wan;Rashedul Hoque;Tingting Yu;Xuan Li,216,72.50925925899999,13.869488259,97.0,0.0,7,14,5,17,26,26,28,19,31,19,24
-UBCV,2015,W,STAT,300,,101,Intermediate Statistics for Applications,Lang Wu;Seong Hwan Jun;Yichen Zhao;Zhouqin He,136,73.801470588,15.869756867000001,98.0,0.0,,5,11,6,11,12,17,14,20,21,15
-UBCV,2015,W,STAT,302,,101,Introduction to Probability,Alexandre Bouchard-Cote;Jie Cui;Tingting Zhao,94,73.138297872,15.877624117,100.0,0.0,,5,9,7,,6,12,6,19,16,7
-UBCV,2015,W,STAT,302,,201,Introduction to Probability,Adrian Jones;Derek Sin Tat Chiu;Fan Xu;Hoi Yin Eugenia Yu;Richard Hsia;Tingting Zhao;Xiaomeng Ju,99,70.383838384,14.970520059000002,99.0,38.0,7,16,,,10,11,8,15,11,9,9
-UBCV,2015,W,STAT,302,,202,Introduction to Probability,Adrian Jones;Derek Sin Tat Chiu;Fan Xu;Natalia Nolde;Richard Hsia;Tingting Zhao;Xiaomeng Ju,93,65.860215054,17.61520551,99.0,11.0,14,17,6,5,10,6,6,6,,10,9
+UBCV,2015,W,STAT,251,,OVERALL,Elementary Statistics,,363,72.203856749,14.18162715,97.0,0.0,14,24,11,33,37,40,45,32,56,31,40
+UBCV,2015,W,STAT,300,,101,Intermediate Statistics for Applications,Lang Wu;Seong Hwan Jun;Yichen Zhao;Zhouqin He,136,73.801470588,15.869756867000001,98.0,0.0,4.0,5,11,6,11,12,17,14,20,21,15
+UBCV,2015,W,STAT,300,,OVERALL,Intermediate Statistics for Applications,,136,73.801470588,15.869756867000001,98.0,0.0,4.0,5,11,6,11,12,17,14,20,21,15
+UBCV,2015,W,STAT,302,,101,Introduction to Probability,Alexandre Bouchard-Cote;Jie Cui;Tingting Zhao,94,73.138297872,15.877624117,100.0,0.0,3,5,9,7,4,6,12,6,19,16,7
+UBCV,2015,W,STAT,302,,201,Introduction to Probability,Adrian Jones;Derek Sin Tat Chiu;Fan Xu;Hoi Yin Eugenia Yu;Richard Hsia;Tingting Zhao;Xiaomeng Ju,99,70.383838384,14.970520059000002,99.0,38.0,7,16,1,2,10,11,8,15,11,9,9
+UBCV,2015,W,STAT,302,,202,Introduction to Probability,Adrian Jones;Derek Sin Tat Chiu;Fan Xu;Natalia Nolde;Richard Hsia;Tingting Zhao;Xiaomeng Ju,93,65.860215054,17.61520551,99.0,11.0,14,17,6,5,10,6,6,6,4.0,10,9
+UBCV,2015,W,STAT,302,,OVERALL,Introduction to Probability,,286,69.818181818,16.381477072,100.0,0.0,24,38,16,14,24,23,26,27,34,35,25
 UBCV,2015,W,STAT,305,,201,Introduction to Statistical Inference,Camila Casquilho Resende;Gilberto Alexi Rodriguez-Arelis;Gilberto Rodriguez-Arelis;William Welch;Xiaoting Ding,140,72.242857143,15.524346823,99.0,27.0,10,6,13,12,7,17,11,10,19,18,17
-UBCV,2015,W,STAT,306,,201,Finding Relationships in Data,Harry Sue Wah Joe,125,72.752,14.087088575,96.0,9.0,5,5,,9,8,20,18,18,21,7,12
+UBCV,2015,W,STAT,305,,OVERALL,Introduction to Statistical Inference,,140,72.242857143,15.524346823,99.0,27.0,10,6,13,12,7,17,11,10,19,18,17
+UBCV,2015,W,STAT,306,,201,Finding Relationships in Data,Harry Sue Wah Joe,125,72.752,14.087088575,96.0,9.0,5,5,2.0,9,8,20,18,18,21,7,12
+UBCV,2015,W,STAT,306,,OVERALL,Finding Relationships in Data,,125,72.752,14.087088575,96.0,9.0,5,5,2.0,9,8,20,18,18,21,7,12
 UBCV,2015,W,STAT,344,,101,Sample Surveys,Paul Gustafson;Xiaomeng Ju;Xuan Li,84,72.547619048,14.055316502,97.0,32.0,5,,9,,7,7,11,10,8,12,10
+UBCV,2015,W,STAT,344,,OVERALL,Sample Surveys,,84,72.547619048,14.055316502,97.0,32.0,5,,9,,7,7,11,10,8,12,10
 UBCV,2015,W,STAT,357,,201,Stochastic Signals and Systems,Ruben Zamar;Vikram Krishnamurthy,63,60.603174603,20.948893021,100.0,16.0,12,11,,8,8,,,,,,7
+UBCV,2015,W,STAT,357,,OVERALL,Stochastic Signals and Systems,,63,60.603174603,20.948893021,100.0,16.0,12,11,,8,8,,,,,,7
 UBCV,2015,W,STAT,404,,101,Design and Analysis of Experiments,Gilberto Alexi Rodriguez-Arelis;Gilberto Rodriguez-Arelis;Harlan Campbell;William Welch,63,74.825396825,12.125073571,96.0,38.0,,,,,6,6,9,8,8,7,8
+UBCV,2015,W,STAT,404,,OVERALL,Design and Analysis of Experiments,,63,74.825396825,12.125073571,96.0,38.0,,,,,6,6,9,8,8,7,8
 UBCV,2015,W,STAT,406,,101,Methods for Statistical Learning,David Kepplinger;Matias Salibian-Barrera;Shing Fu,50,78.88,14.476779437000001,96.0,33.0,,,,,,,,6,11,6,12
+UBCV,2015,W,STAT,406,,OVERALL,Methods for Statistical Learning,,50,78.88,14.476779437000001,96.0,33.0,,,,,,,,6,11,6,12
 UBCV,2015,W,STAT,443,,201,Time Series and Forecasting,Bruce Dunham;Hao Chen;Yi Huang,92,68.076086957,10.398894379,86.0,27.0,,6,18,,8,15,14,12,11,,
+UBCV,2015,W,STAT,443,,OVERALL,Time Series and Forecasting,,92,68.076086957,10.398894379,86.0,27.0,,6,18,,8,15,14,12,11,,
 UBCV,2015,W,STAT,450,,201,Case Studies in Statistics,Gabriela Cohen Freue;Jeffrey Bone,8,89.25,6.318905872999999,97.0,79.0,,,,,,,,,,,
+UBCV,2015,W,STAT,450,,OVERALL,Case Studies in Statistics,,8,89.25,6.318905872999999,97.0,79.0,,,,,,,,,,,
 UBCV,2015,W,STAT,460,,101,Statistical Inference I,Ruben Zamar;Yi Huang,11,88.090909091,8.700052246,97.0,70.0,,,,,,,,,,,6
+UBCV,2015,W,STAT,460,,OVERALL,Statistical Inference I,,11,88.090909091,8.700052246,97.0,70.0,,,,,,,,,,,6
 UBCV,2015,W,STAT,461,,201,Statistical Inference II,Elena Shchurenkova;Jiahua Chen,8,85.25,13.209844814,98.0,55.0,,,,,,,,,,,
+UBCV,2015,W,STAT,461,,OVERALL,Statistical Inference II,,8,85.25,13.209844814,98.0,55.0,,,,,,,,,,,
 UBCV,2015,W,STAT,536,A,201,Statistical Theory for the Design and Analysis of Clinical Studies,Lang Wu,11,88.0,2.93257566,92.0,85.0,,,,,,,,,,7,
+UBCV,2015,W,STAT,536,A,OVERALL,Statistical Theory for the Design and Analysis of Clinical Studies,,11,88.0,2.93257566,92.0,85.0,,,,,,,,,,7,
 UBCV,2015,W,STAT,536,B,201,Statistical Theory for the Design and Analysis of Clinical Studies,Lang Wu,10,87.9,3.0713732,92.0,83.0,,,,,,,,,,5,
+UBCV,2015,W,STAT,536,B,OVERALL,Statistical Theory for the Design and Analysis of Clinical Studies,,10,87.9,3.0713732,92.0,83.0,,,,,,,,,,5,
 UBCV,2015,W,STAT,538,A,101,Generalized Linear Models,Rollin Frederick Brant,12,89.833333333,5.356955264,98.0,83.0,,,,,,,,,,,6
+UBCV,2015,W,STAT,538,A,OVERALL,Generalized Linear Models,,12,89.833333333,5.356955264,98.0,83.0,,,,,,,,,,,6
 UBCV,2015,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Sara Mostafavi,21,86.95238095200001,6.280733958,93.0,70.0,,,,,,,,,,8,8
+UBCV,2015,W,STAT,540,,OVERALL,Statistical Methods for High Dimensional Biology,,21,86.95238095200001,6.280733958,93.0,70.0,,,,,,,,,,8,8
 UBCV,2015,W,STAT,545,A,101,Exploratory Data Analysis,Jennifer Frazier Bryan,58,89.948275862,4.305942095,98.0,72.0,,,,,,,,,,22,32
+UBCV,2015,W,STAT,545,A,OVERALL,Exploratory Data Analysis,,58,89.948275862,4.305942095,98.0,72.0,,,,,,,,,,22,32
 UBCV,2015,W,STAT,547,C,101,Topics in Statistics,Alexandre Bouchard-Cote,19,89.89473684200001,2.865401598,94.0,83.0,,,,,,,,,,7,11
+UBCV,2015,W,STAT,547,C,OVERALL,Topics in Statistics,,19,89.89473684200001,2.865401598,94.0,83.0,,,,,,,,,,7,11
 UBCV,2015,W,STAT,547,H,201,Topics in Statistics,Jiahua Chen,9,89.444444444,3.539460097,95.0,85.0,,,,,,,,,,5,
+UBCV,2015,W,STAT,547,H,OVERALL,Topics in Statistics,,9,89.444444444,3.539460097,95.0,85.0,,,,,,,,,,5,
 UBCV,2015,W,STAT,547,M,101,Topics in Statistics,Jennifer Frazier Bryan,42,87.928571429,5.172124426,98.0,68.0,,,,,,,,,8,20,13
+UBCV,2015,W,STAT,547,M,OVERALL,Topics in Statistics,,42,87.928571429,5.172124426,98.0,68.0,,,,,,,,,8,20,13
 UBCV,2015,W,STAT,547,P,101,Topics in Statistics,Ruben Zamar,7,85.714285714,2.984084768,90.0,82.0,,,,,,,,,,,
+UBCV,2015,W,STAT,547,P,OVERALL,Topics in Statistics,,7,85.714285714,2.984084768,90.0,82.0,,,,,,,,,,,
 UBCV,2015,W,STAT,547,Q,201,Topics in Statistics,Matias Salibian-Barrera,9,84.555555556,8.412952976,97.0,72.0,,,,,,,,,,,
+UBCV,2015,W,STAT,547,Q,OVERALL,Topics in Statistics,,9,84.555555556,8.412952976,97.0,72.0,,,,,,,,,,,
 UBCV,2015,W,STAT,550,,201,Techniques of Statistical Consulting,Gabriela Cohen Freue,13,89.23076923100001,4.166410249,95.0,84.0,,,,,,,,,,7,5
+UBCV,2015,W,STAT,550,,OVERALL,Techniques of Statistical Consulting,,13,89.23076923100001,4.166410249,95.0,84.0,,,,,,,,,,7,5
 UBCV,2015,W,STAT,560,,101,Statistical Theory I,Ruben Zamar;Yi Huang,10,87.0,7.731609002999999,96.0,71.0,,,,,,,,,,,
+UBCV,2015,W,STAT,560,,OVERALL,Statistical Theory I,,10,87.0,7.731609002999999,96.0,71.0,,,,,,,,,,,
 UBCV,2015,W,STAT,561,,201,Statistical Theory II,Elena Shchurenkova;Jiahua Chen,14,82.857142857,10.54555789,98.0,60.0,,,,,,,,,,,5
+UBCV,2015,W,STAT,561,,OVERALL,Statistical Theory II,,14,82.857142857,10.54555789,98.0,60.0,,,,,,,,,,,5

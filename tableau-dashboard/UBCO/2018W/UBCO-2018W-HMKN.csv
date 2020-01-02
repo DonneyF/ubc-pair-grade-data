@@ -1,45 +1,88 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2018,W,HMKN,100,,001,"Health, Fitness, and Lifestyle",Alexandre Santos;Gina Whitaker;Gregory Dumanoir;Kaela Cranston;Kelsey Wuerstl;Kendra Todd;Tanya Forneris,239,78.887029289,11.230576095999998,96.0,0.0,5,,,10,8,11,30,38,46,67,20
-UBCO,2018,W,HMKN,101,,001,Biomechanics,Christopher Mcneil;Hogun Kang;Jonathan Smirl;Justine Magnuson;Tanya Forneris,240,71.85,14.030540508,99.0,0.0,10,11,24,17,22,25,28,30,29,21,23
+UBCO,2018,W,HMKN,100,,001,"Health, Fitness, and Lifestyle",Alexandre M Santos;Alexandre Santos;Gina Whitaker;Gregory Dumanoir;Kaela Cranston;Kelsey R Wuerstl;Kelsey Wuerstl;Kendra R Todd;Kendra Todd;Tanya Forneris,239,78.887029289,11.230576095999998,96.0,0.0,5,,,10,8,11,30,38,46,67,20
+UBCO,2018,W,HMKN,100,,OVERALL,"Health, Fitness, and Lifestyle",,239,78.887029289,11.230576095999998,96.0,0.0,5,,,10,8,11,30,38,46,67,20
+UBCO,2018,W,HMKN,101,,001,Biomechanics,Christopher Mcneil;Hogun Joseph Kang;Hogun Kang;Jonathan Smirl;Justine Magnuson;Tanya Forneris,240,71.85,14.030540508,99.0,0.0,10,11,24,17,22,25,28,30,29,21,23
+UBCO,2018,W,HMKN,101,,OVERALL,Biomechanics,,240,71.85,14.030540508,99.0,0.0,10,11,24,17,22,25,28,30,29,21,23
 UBCO,2018,W,HMKN,105,,001,Canadian Health Care System,Andrew Hughes;Sarah Lawrason;Tanya Forneris,259,85.540540541,6.987343021,99.0,30.0,,,,,,,9,26,71,68,80
+UBCO,2018,W,HMKN,105,,OVERALL,Canadian Health Care System,,259,85.540540541,6.987343021,99.0,30.0,,,,,,,9,26,71,68,80
 UBCO,2018,W,HMKN,190,,001,Functional Anatomy and Applied Physiology I,Brooke Shafer;Helena Neudorf;Jinelle Gelinas;Liam Tapsell;Tanya Forneris;Tyler Vermeulen;Zoe Soon,240,78.070833333,11.248764847999999,100.0,43.0,,,8,16,16,25,30,28,37,41,36
-UBCO,2018,W,HMKN,191,,001,Functional Anatomy and Applied Physiology II,Alyssa Koziol;Brooke Shafer;Mathew Debenham;Nicole Hargreaves;Tanya Forneris;Tyler Vermeulen;Zoe Soon,225,77.986666667,11.483870675999999,100.0,52.0,,5,11,11,16,22,35,21,35,29,40
-UBCO,2018,W,HMKN,200,,001,Exercise Physiology I,Gregory Dumanoir;Hannah Caldwell;Hannah G Caldwell;Jinelle Gelinas;John Sasso;Jordan Carr;Mathew Rieger;Tanya Forneris,171,74.555555556,11.460988105999999,98.0,41.0,7,,8,9,19,17,26,26,22,17,18
+UBCO,2018,W,HMKN,190,,OVERALL,Functional Anatomy and Applied Physiology I,,240,78.070833333,11.248764847999999,100.0,43.0,,,8,16,16,25,30,28,37,41,36
+UBCO,2018,W,HMKN,191,,001,Functional Anatomy and Applied Physiology II,Alyssa Koziol;Brooke Shafer;Mathew Debenham;Nicole Hargreaves;Tanya Forneris;Tyler Vermeulen;Zoe Soon,225,77.986666667,11.483870675999999,100.0,52.0,0.0,5,11,11,16,22,35,21,35,29,40
+UBCO,2018,W,HMKN,191,,OVERALL,Functional Anatomy and Applied Physiology II,,225,77.986666667,11.483870675999999,100.0,52.0,0.0,5,11,11,16,22,35,21,35,29,40
+UBCO,2018,W,HMKN,200,,001,Exercise Physiology I,Gregory Dumanoir;Hannah Caldwell;Hannah G Caldwell;Jinelle Gelinas;John Sasso;Jordan Carr;Mathew G Rieger;Mathew Rieger;Tanya Forneris,171,74.631578947,11.332874998,98.0,41.0,6,2.0,8,10,19,17,26,26,22,17,18
+UBCO,2018,W,HMKN,200,,OVERALL,Exercise Physiology I,,171,74.631578947,11.332874998,98.0,41.0,6,2.0,8,10,19,17,26,26,22,17,18
 UBCO,2018,W,HMKN,201,,001,Exercise Psychology,Matthew Stork;Tanya Forneris;Tineke Dineen,200,78.71,10.84175346,100.0,0.0,,,6,5,,20,27,32,52,29,22
+UBCO,2018,W,HMKN,201,,OVERALL,Exercise Psychology,,200,78.71,10.84175346,100.0,0.0,,,6,5,,20,27,32,52,29,22
 UBCO,2018,W,HMKN,202,,001,Human Motor Behaviour I,Brian Dalton;Liam Tapsell;Megan Trotman;Tanya Forneris,165,78.006060606,11.777664355999999,100.0,31.0,,,7,8,13,13,12,22,30,27,28
-UBCO,2018,W,HMKN,203,,001,Lifespan Physical and Motor Development,Garett Jackson;Sally Stewart;Sally Willis;Zoe Soon,162,78.62962963,9.00026838,100.0,55.0,,,,,7,24,27,25,30,23,20
-UBCO,2018,W,HMKN,205,,001,Methods of Data Analysis,Alexandre Santos;Robert Colin Reid;Tanya Forneris,203,78.53201970399999,9.897629947,99.0,45.0,,,,8,7,29,22,31,39,33,27
+UBCO,2018,W,HMKN,202,,OVERALL,Human Motor Behaviour I,,165,78.006060606,11.777664355999999,100.0,31.0,,,7,8,13,13,12,22,30,27,28
+UBCO,2018,W,HMKN,203,,001,Lifespan Physical and Motor Development,Garett Jackson;Garett S Jackson;Sally Stewart;Sally Willis;Zoe Soon,162,78.62962963,9.00026838,100.0,55.0,,,,,7,24,27,25,30,23,20
+UBCO,2018,W,HMKN,203,,OVERALL,Lifespan Physical and Motor Development,,162,78.62962963,9.00026838,100.0,55.0,,,,,7,24,27,25,30,23,20
+UBCO,2018,W,HMKN,205,,001,Methods of Data Analysis,Alexandre M Santos;Alexandre Santos;Robert Colin Reid;Tanya Forneris,203,78.53201970399999,9.897629947,99.0,45.0,,,,8,7,29,22,31,39,33,27
+UBCO,2018,W,HMKN,205,,OVERALL,Methods of Data Analysis,,203,78.53201970399999,9.897629947,99.0,45.0,,,,8,7,29,22,31,39,33,27
 UBCO,2018,W,HMKN,206,,001,Health Research Methods,Courtney Brown;Nicole Hargreaves;Tanya Forneris,235,79.65106383,10.535935096000001,97.0,0.0,,,,5,6,13,27,30,61,54,31
+UBCO,2018,W,HMKN,206,,OVERALL,Health Research Methods,,235,79.65106383,10.535935096000001,97.0,0.0,,,,5,6,13,27,30,61,54,31
 UBCO,2018,W,HMKN,303,,001,Health Program Evaluation,Nicole Hargreaves;Tanya Forneris,71,83.57746478899999,5.473734614,92.0,60.0,,,,,,,,,21,35,7
-UBCO,2018,W,HMKN,310,,001,Exercise Physiology II,Adam Watson;Garett Jackson;Gregory Dumanoir;Hannah Caldwell;John Sasso;Jonathan Smirl;Kevin Wildfong;Lindsey Boulet;Tanya Forneris,163,75.398773006,10.628717143,95.0,33.0,,,10,6,13,18,22,29,24,25,11
-UBCO,2018,W,HMKN,311,,101,Exercise Prescription,Christina Bruce;Cody Durrer;Gareth Jones;Gregory Dumanoir;Jordan Carr;Rowan Smart;Tanya Forneris,163,79.72392638,7.090498201,97.0,61.0,,,,,,11,14,44,35,36,15
+UBCO,2018,W,HMKN,303,,OVERALL,Health Program Evaluation,,71,83.57746478899999,5.473734614,92.0,60.0,,,,,,,,,21,35,7
+UBCO,2018,W,HMKN,310,,001,Exercise Physiology II,Adam Watson;Garett Jackson;Garett S Jackson;Gregory Dumanoir;Hannah Caldwell;Hannah G Caldwell;John Sasso;Jonathan Smirl;Kevin Wildfong;Lindsey Boulet;Tanya Forneris,163,75.398773006,10.628717143,95.0,33.0,,,10,6,13,18,22,29,24,25,11
+UBCO,2018,W,HMKN,310,,OVERALL,Exercise Physiology II,,163,75.398773006,10.628717143,95.0,33.0,,,10,6,13,18,22,29,24,25,11
+UBCO,2018,W,HMKN,311,,101,Exercise Prescription,Christina Bruce;Christina D Bruce;Cody Durrer;Gareth Jones;Gregory Dumanoir;Jordan Carr;Rowan Smart;Tanya Forneris,163,79.72392638,7.090498201,97.0,61.0,,,,,,11,14,44,35,36,15
+UBCO,2018,W,HMKN,311,,OVERALL,Exercise Prescription,,163,79.72392638,7.090498201,97.0,61.0,,,,,,11,14,44,35,36,15
 UBCO,2018,W,HMKN,312,,001,Laboratory Techniques in Exercise Science,Cody Durrer;Connor A Howe;Connor Howe;Geoff Coombs;Lindsey Boulet;Michael Tymko;Tanya Forneris,58,78.017241379,9.071821379,91.0,49.0,,,,,,5,,7,21,13,
+UBCO,2018,W,HMKN,312,,OVERALL,Laboratory Techniques in Exercise Science,,58,78.017241379,9.071821379,91.0,49.0,,,,,,5,,7,21,13,
 UBCO,2018,W,HMKN,313,,001,Exercise Metabolism,Helena Neudorf;Jonathan Little;Tanya Forneris,99,77.363636364,9.967758786000001,95.0,46.0,,,6,5,,8,14,15,22,16,9
-UBCO,2018,W,HMKN,314,,001,Body Composition,Alison Mcmanus;Alyssa Koziol;Mathew Rieger;Tanya Forneris,93,83.731182796,11.069091107,98.0,28.0,,,,,,6,8,6,16,18,33
-UBCO,2018,W,HMKN,315,,001,Laboratory Techniques in Sensorimotor Neuroscience,Alexandra Yacyshyn;Christina Bruce;Christopher Mcneil;Connor A Howe;Connor Howe;Kelsey Wuerstl;Tanya Forneris,96,77.84375,7.981990419,90.0,49.0,,,,,5,10,12,16,29,18,
+UBCO,2018,W,HMKN,313,,OVERALL,Exercise Metabolism,,99,77.363636364,9.967758786000001,95.0,46.0,,,6,5,,8,14,15,22,16,9
+UBCO,2018,W,HMKN,314,,001,Body Composition,Alison Mcmanus;Alyssa Koziol;Mathew G Rieger;Mathew Rieger;Tanya Forneris,93,83.731182796,11.069091107,98.0,28.0,,,,,,6,8,6,16,18,33
+UBCO,2018,W,HMKN,314,,OVERALL,Body Composition,,93,83.731182796,11.069091107,98.0,28.0,,,,,,6,8,6,16,18,33
+UBCO,2018,W,HMKN,315,,001,Laboratory Techniques in Sensorimotor Neuroscience,Alexandra Yacyshyn;Christina Bruce;Christina D Bruce;Christopher Mcneil;Connor A Howe;Connor Howe;Kelsey R Wuerstl;Kelsey Wuerstl;Tanya Forneris,96,77.84375,7.981990419,90.0,49.0,,,,,5,10,12,16,29,18,
+UBCO,2018,W,HMKN,315,,OVERALL,Laboratory Techniques in Sensorimotor Neuroscience,,96,77.84375,7.981990419,90.0,49.0,,,,,5,10,12,16,29,18,
 UBCO,2018,W,HMKN,316,,001,Laboratory Techniques in Exercise Psychology,Kaela Cranston;Mary Jung;Tanya Forneris,13,80.923076923,18.490815461,95.0,25.0,,,,,,,,,,,6
+UBCO,2018,W,HMKN,316,,OVERALL,Laboratory Techniques in Exercise Psychology,,13,80.923076923,18.490815461,95.0,25.0,,,,,,,,,,,6
 UBCO,2018,W,HMKN,322,,001,Physical Activity and Health Promotion,Cristina Caperchione;Gina Whitaker;Sally Stewart;Tanya Forneris;Tineke Dineen,73,84.328767123,9.46346013,98.0,40.0,,,,,,,5,5,12,22,23
-UBCO,2018,W,HMKN,323,,001,Introduction to Nutrition,Garett Jackson;Sally Stewart;Sally Willis;Tanya Forneris,114,78.912280702,7.182280807000001,91.0,49.0,,,,,,7,15,23,37,20,
+UBCO,2018,W,HMKN,322,,OVERALL,Physical Activity and Health Promotion,,73,84.328767123,9.46346013,98.0,40.0,,,,,,,5,5,12,22,23
+UBCO,2018,W,HMKN,323,,001,Introduction to Nutrition,Garett Jackson;Garett S Jackson;Sally Stewart;Sally Willis;Tanya Forneris,114,78.912280702,7.182280807000001,91.0,49.0,,,,,,7,15,23,37,20,
+UBCO,2018,W,HMKN,323,,OVERALL,Introduction to Nutrition,,114,78.912280702,7.182280807000001,91.0,49.0,,,,,,7,15,23,37,20,
 UBCO,2018,W,HMKN,331,,001,Physical Dimensions of Aging,Gareth Jones;Gina Whitaker;Tanya Forneris;Tineke Dineen,85,81.98823529399999,7.812526751,96.0,59.0,,,,,,,10,14,17,22,14
-UBCO,2018,W,HMKN,335,,001,Pathophysiology,Blake Nicol;Gina Whitaker;Rhyann Mckay;Tanya Forneris;Zoe Soon,119,82.31092437,7.598782127000001,99.0,65.0,,,,,,6,13,16,36,25,19
+UBCO,2018,W,HMKN,331,,OVERALL,Physical Dimensions of Aging,,85,81.98823529399999,7.812526751,96.0,59.0,,,,,,,10,14,17,22,14
+UBCO,2018,W,HMKN,335,,001,Pathophysiology,Blake Nicol;Gina Whitaker;Rhyann C Mckay;Rhyann Mckay;Tanya Forneris;Zoe Soon,119,82.31092437,7.598782127000001,99.0,65.0,,,,,,6,13,16,36,25,19
 UBCO,2018,W,HMKN,335,,002,Pathophysiology,Zoe Soon,58,79.568965517,8.15660763,96.0,59.0,,,,,,5,9,13,8,12,7
+UBCO,2018,W,HMKN,335,,OVERALL,Pathophysiology,,177,81.412429379,7.869277378,99.0,59.0,,,,,7,11,22,29,44,37,26
 UBCO,2018,W,HMKN,336,,001,Tissue Injury and Repair,Gregory Dumanoir;Tanya Forneris,74,76.486486486,7.8970139029999995,90.0,55.0,,,,,7,6,12,14,17,14,
+UBCO,2018,W,HMKN,336,,OVERALL,Tissue Injury and Repair,,74,76.486486486,7.8970139029999995,90.0,55.0,,,,,7,6,12,14,17,14,
 UBCO,2018,W,HMKN,391,,001,Advanced Functional Anatomy,Alexandra Yacyshyn;Gregory Dumanoir;Jordan Carr;Luca Ruggiero;Mathew Debenham;Tanya Forneris,119,79.554621849,11.993428624000002,98.0,43.0,5,,,5,,5,15,14,19,25,24
+UBCO,2018,W,HMKN,391,,OVERALL,Advanced Functional Anatomy,,119,79.554621849,11.993428624000002,98.0,43.0,5,,,5,,5,15,14,19,25,24
 UBCO,2018,W,HMKN,400,,001,Ethics for Health Practitioners,Leslie Bryant;Tanya Forneris,40,94.2,1.6671794080000002,97.0,90.0,,,,,,,,,,,40
+UBCO,2018,W,HMKN,400,,OVERALL,Ethics for Health Practitioners,,40,94.2,1.6671794080000002,97.0,90.0,,,,,,,,,,,40
 UBCO,2018,W,HMKN,408,,001,Knowledge Translation in Health and Exercise Sciences,Heather Gainforth;Leslie Bryant;Mary Jung;Tanya Forneris,46,93.652173913,2.557927905,97.0,88.0,,,,,,,,,,6,40
-UBCO,2018,W,HMKN,410,,001,Respiratory Disease: Pathology to Prescription,Neil Eves;Tanya Forneris,31,76.612903226,13.360831859000001,93.0,28.0,,,,,,,,,,8,
+UBCO,2018,W,HMKN,408,,OVERALL,Knowledge Translation in Health and Exercise Sciences,,46,93.652173913,2.557927905,97.0,88.0,,,,,,,,,,6,40
+UBCO,2018,W,HMKN,410,,001,Respiratory Disease: Pathology to Prescription,Neil Eves;Tanya Forneris,30,78.233333333,10.023019482,93.0,60.0,,,,,,,,,,8,
+UBCO,2018,W,HMKN,410,,OVERALL,Respiratory Disease: Pathology to Prescription,,30,78.233333333,10.023019482,93.0,60.0,,,,,,,,,,8,
 UBCO,2018,W,HMKN,411,,001,Environmental Physiology,Alex Patrician;Philip Ainslie;Tanya Forneris,35,74.62857142899999,9.643912174,90.0,56.0,,,,,,5,6,,8,,
+UBCO,2018,W,HMKN,411,,OVERALL,Environmental Physiology,,35,74.62857142899999,9.643912174,90.0,56.0,,,,,,5,6,,8,,
 UBCO,2018,W,HMKN,412,,001,Neuromuscular Physiology,Jennifer Jakobi;Tanya Forneris,10,86.6,4.1686661869999995,91.0,79.0,,,,,,,,,,5,
+UBCO,2018,W,HMKN,412,,OVERALL,Neuromuscular Physiology,,10,86.6,4.1686661869999995,91.0,79.0,,,,,,,,,,5,
 UBCO,2018,W,HMKN,413,,001,Cortical Control of Movement,Brian Dalton;Tanya Forneris,33,86.545454545,6.149648918,96.0,73.0,,,,,,,,,9,6,14
+UBCO,2018,W,HMKN,413,,OVERALL,Cortical Control of Movement,,33,86.545454545,6.149648918,96.0,73.0,,,,,,,,,9,6,14
 UBCO,2018,W,HMKN,414,,001,Advanced Circulatory Physiology,Glen Foster;Tanya Forneris,19,76.578947368,12.992800526,96.0,53.0,,,,,,,,,,,
+UBCO,2018,W,HMKN,414,,OVERALL,Advanced Circulatory Physiology,,19,76.578947368,12.992800526,96.0,53.0,,,,,,,,,,,
 UBCO,2018,W,HMKN,415,,001,Muscle Fatigue,Christopher Mcneil;Jordan Carr;Tanya Forneris,25,76.0,10.962055767999999,94.0,50.0,,,,,,,,5,8,,
+UBCO,2018,W,HMKN,415,,OVERALL,Muscle Fatigue,,25,76.0,10.962055767999999,94.0,50.0,,,,,,,,5,8,,
 UBCO,2018,W,HMKN,421,,001,Advanced Theories of Health Behaviour Change,Brodie Sakakibara;Heather Gainforth;Neil Eves,28,85.821428571,11.715939037,95.0,39.0,,,,,,,,,6,7,13
+UBCO,2018,W,HMKN,421,,OVERALL,Advanced Theories of Health Behaviour Change,,28,85.821428571,11.715939037,95.0,39.0,,,,,,,,,6,7,13
 UBCO,2018,W,HMKN,449,,001,Undergraduate Honours Thesis,Kathleen Martin Ginis;Tanya Forneris,7,89.428571429,7.367883976,96.0,77.0,,,,,,,,,,,5
+UBCO,2018,W,HMKN,449,,OVERALL,Undergraduate Honours Thesis,,7,89.428571429,7.367883976,96.0,77.0,,,,,,,,,,,5
 UBCO,2018,W,HMKN,495,F,001,Special Topics in Health and Exercise Sciences,Braden Te Hiwi;Tanya Forneris,33,80.272727273,4.215097323999999,87.0,71.0,,,,,,,,6,17,6,
-UBCO,2018,W,HMKN,495,N,101,Special Topics in Health and Exercise Sciences,Heather Gainforth;Rhyann Mckay;Tanya Forneris,69,86.31884058,5.804391729,96.0,71.0,,,,,,,,,18,22,23
+UBCO,2018,W,HMKN,495,F,OVERALL,Special Topics in Health and Exercise Sciences,,33,80.272727273,4.215097323999999,87.0,71.0,,,,,,,,6,17,6,
+UBCO,2018,W,HMKN,495,N,101,Special Topics in Health and Exercise Sciences,Heather Gainforth;Rhyann C Mckay;Rhyann Mckay;Tanya Forneris,69,86.31884058,5.804391729,96.0,71.0,,,,,,,,,18,22,23
+UBCO,2018,W,HMKN,495,N,OVERALL,Special Topics in Health and Exercise Sciences,,69,86.31884058,5.804391729,96.0,71.0,,,,,,,,,18,22,23
 UBCO,2018,W,HMKN,499,A,101,Project in Human Kinetics,Alison Mcmanus;Brian Dalton;Christopher Mcneil;Cristina Caperchione;Gareth Jones;Glen Foster;Heather Gainforth;Jennifer Jakobi;Jonathan Little;Mary Jung;Neil Eves;Philip Ainslie;Sally Stewart;Tanya Forneris,28,89.35714285700001,4.676293923999999,96.0,78.0,,,,,,,,,,8,15
 UBCO,2018,W,HMKN,499,A,102,Project in Human Kinetics,Brian Dalton;Christopher Mcneil;Jennifer Jakobi;Jonathan Little;Mary Jung;Neil Eves;Philip Ainslie;Sally Stewart;Tanya Forneris,27,89.814814815,4.723403573,96.0,74.0,,,,,,,,,,9,16
+UBCO,2018,W,HMKN,499,A,OVERALL,Project in Human Kinetics,,55,89.581818182,4.661468967,96.0,74.0,,,,,,,,,5,17,31
 UBCO,2018,W,HMKN,499,B,001,Project in Human Kinetics,Brian Dalton;Glen Foster;Heather Gainforth;Jennifer Jakobi;Jonathan Little;Philip Ainslie;Tanya Forneris,7,92.571428571,6.373307432000001,98.0,80.0,,,,,,,,,,,6
+UBCO,2018,W,HMKN,499,B,OVERALL,Project in Human Kinetics,,7,92.571428571,6.373307432000001,98.0,80.0,,,,,,,,,,,6
+UBCO,2018,W,HMKN,499,C,OVERALL,Project in Human Kinetics,,6,94.166666667,2.136976057,96.0,90.0,,,,,,,,,,,6
 UBCO,2018,W,HMKN,505,,101,Quantitative Analyses: Decision Making Using Data in Health & Exercise Science,Tanya Forneris,9,88.444444444,4.5307590730000005,93.0,80.0,,,,,,,,,,,6
+UBCO,2018,W,HMKN,505,,OVERALL,Quantitative Analyses: Decision Making Using Data in Health & Exercise Science,,9,88.444444444,4.5307590730000005,93.0,80.0,,,,,,,,,,,6
 UBCO,2018,W,HMKN,506,,001,Research Methods in Health and Exercise Sciences,Brian Dalton,11,85.454545455,6.68376595,95.0,73.0,,,,,,,,,,,
+UBCO,2018,W,HMKN,506,,OVERALL,Research Methods in Health and Exercise Sciences,,11,85.454545455,6.68376595,95.0,73.0,,,,,,,,,,,
 UBCO,2018,W,HMKN,545,C,001,Special Topics in Health and Exercise Sciences,Mary Jung,9,92.444444444,3.844187532,97.0,84.0,,,,,,,,,,,8
+UBCO,2018,W,HMKN,545,C,OVERALL,Special Topics in Health and Exercise Sciences,,9,92.444444444,3.844187532,97.0,84.0,,,,,,,,,,,8

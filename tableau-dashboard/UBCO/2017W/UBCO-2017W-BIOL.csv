@@ -1,54 +1,104 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,W,BIOL,116,,001,Biology for Science Majors I,Brendan D'Souza;Scott Reid,289,69.429065744,11.678386352999999,96.0,42.0,29,,21,31,40,29,46,28,31,20,10
-UBCO,2017,W,BIOL,116,,002,Biology for Science Majors I,Ellen Nilson,240,70.829166667,12.283266815,97.0,39.0,19,,22,23,24,30,30,22,32,22,12
+UBCO,2017,W,BIOL,116,,001,Biology for Science Majors I,Brendan D'Souza;Scott Reid,289,69.429065744,11.678386352999999,96.0,42.0,29,4.0,21,31,40,29,46,28,31,20,10
+UBCO,2017,W,BIOL,116,,002,Biology for Science Majors I,Ellen Nilson,240,70.829166667,12.283266815,97.0,39.0,19,4.0,22,23,24,30,30,22,32,22,12
+UBCO,2017,W,BIOL,116,,OVERALL,Biology for Science Majors I,,529,70.06427221199999,11.965529305999999,97.0,39.0,48,8,43,54,64,59,76,50,63,42,22
 UBCO,2017,W,BIOL,117,,101,Evolution and Ecology,John Klironomos,93,68.720430108,13.798523544000002,95.0,0.0,5,,8,8,18,10,11,5,13,8,
+UBCO,2017,W,BIOL,117,,OVERALL,Evolution and Ecology,,93,68.720430108,13.798523544000002,95.0,0.0,5,,8,8,18,10,11,5,13,8,
 UBCO,2017,W,BIOL,122,,001,Physiology of Multicellular Organisms,Ellen Nilson,43,69.046511628,17.280533348,98.0,14.0,6,,,6,5,,5,,,,6
+UBCO,2017,W,BIOL,122,,OVERALL,Physiology of Multicellular Organisms,,43,69.046511628,17.280533348,98.0,14.0,6,,,6,5,,5,,,,6
 UBCO,2017,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,218,69.74311926600001,12.189293232,100.0,4.0,14,6,14,30,31,29,28,22,21,12,11
 UBCO,2017,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,220,68.840909091,11.873656005,99.0,34.0,18,5,24,25,32,26,28,18,18,19,7
-UBCO,2017,W,BIOL,131,,001,Human Anatomy and Physiology I,Janet Kluftinger,227,75.136563877,12.472760855999999,96.0,24.0,14,,8,12,18,31,29,26,25,37,27
+UBCO,2017,W,BIOL,125,,OVERALL,Biology for Science Majors II,,438,69.289954338,12.026493998,100.0,4.0,32,11,38,55,63,55,56,40,39,31,18
+UBCO,2017,W,BIOL,131,,001,Human Anatomy and Physiology I,Janet Kluftinger,227,75.136563877,12.472760855999999,96.0,24.0,14,0.0,8,12,18,31,29,26,25,37,27
+UBCO,2017,W,BIOL,131,,OVERALL,Human Anatomy and Physiology I,,227,75.136563877,12.472760855999999,96.0,24.0,14,0.0,8,12,18,31,29,26,25,37,27
 UBCO,2017,W,BIOL,133,,001,Human Anatomy and Physiology II,Janet Kluftinger;W Mathieson,191,77.010471204,10.408493257,98.0,41.0,,,,18,11,25,30,17,33,24,29
+UBCO,2017,W,BIOL,133,,OVERALL,Human Anatomy and Physiology II,,191,77.010471204,10.408493257,98.0,41.0,,,,18,11,25,30,17,33,24,29
 UBCO,2017,W,BIOL,200,,001,Cell Biology,Matthew Nelson;Muhammad Khalid,150,68.093333333,15.038361089,96.0,20.0,16,17,15,15,7,12,11,16,17,14,10
-UBCO,2017,W,BIOL,200,,101,Cell Biology,John W. Winkler;John Winkler;Richard Plunkett;Thomas Christopher Lange;Thomas Lange,134,74.902985075,11.066354483,93.0,38.0,,,7,13,16,13,17,14,19,19,14
+UBCO,2017,W,BIOL,200,,101,Cell Biology,John W. Winkler;John Winkler;Richard Plunkett;Thomas Christopher Lange;Thomas Lange,134,74.902985075,11.066354483,93.0,38.0,2,0,7,13,16,13,17,14,19,19,14
+UBCO,2017,W,BIOL,200,,OVERALL,Cell Biology,,284,71.306338028,13.719340839000001,96.0,20.0,18,17,22,28,23,25,28,30,36,33,24
 UBCO,2017,W,BIOL,201,,001,Introduction to Evolution and Ecology,Antreas Pogiatzis;Christopher Johnston;Laura Hooker;Megan Buers;Robert Lalonde;Vasileios Kokkoris,237,68.19409282699999,14.897541562999999,95.0,23.0,23,18,28,21,26,22,17,24,18,18,22
-UBCO,2017,W,BIOL,202,,001,Introduction to Biostatistics,Christopher Johnston;Corrina Nicole Thomsen;Corrina Thomsen;Jason Pither;Luke Crevier;Luke Phillip Crevier;Sarah Mcgregor,232,70.939655172,12.447840120999999,95.0,49.0,33,,10,16,26,24,25,30,40,15,12
-UBCO,2017,W,BIOL,204,,001,Vertebrate Structure and Function,Scott Reid,127,67.692913386,12.74195159,93.0,20.0,13,,10,19,24,10,15,7,10,7,8
+UBCO,2017,W,BIOL,201,,OVERALL,Introduction to Evolution and Ecology,,237,68.19409282699999,14.897541562999999,95.0,23.0,23,18,28,21,26,22,17,24,18,18,22
+UBCO,2017,W,BIOL,202,,001,Introduction to Biostatistics,Christopher Johnston;Corrina Nicole Thomsen;Corrina Thomsen;Jason Pither;Luke Crevier;Luke Phillip Crevier;Sarah Mcgregor,232,70.939655172,12.447840120999999,95.0,49.0,33,1.0,10,16,26,24,25,30,40,15,12
+UBCO,2017,W,BIOL,202,,OVERALL,Introduction to Biostatistics,,232,70.939655172,12.447840120999999,95.0,49.0,33,1.0,10,16,26,24,25,30,40,15,12
+UBCO,2017,W,BIOL,204,,001,Vertebrate Structure and Function,Scott Reid,127,67.692913386,12.74195159,93.0,20.0,13,4.0,10,19,24,10,15,7,10,7,8
+UBCO,2017,W,BIOL,204,,OVERALL,Vertebrate Structure and Function,,127,67.692913386,12.74195159,93.0,20.0,13,4.0,10,19,24,10,15,7,10,7,8
 UBCO,2017,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,89,72.95505618,9.952055649,94.0,45.0,,,,6,11,15,12,13,17,,
+UBCO,2017,W,BIOL,205,,OVERALL,Comparative Invertebrate Zoology,,89,72.95505618,9.952055649,94.0,45.0,,,,6,11,15,12,13,17,,
 UBCO,2017,W,BIOL,210,,001,Vascular Plants,Antreas Pogiatzis;Miranda Hart,35,80.11428571399999,11.184998958,97.0,36.0,,,,,,,,,,14,
+UBCO,2017,W,BIOL,210,,OVERALL,Vascular Plants,,35,80.11428571399999,11.184998958,97.0,36.0,,,,,,,,,,14,
 UBCO,2017,W,BIOL,228,,001,Introductory Microbiology,Daniel Durall;Janet Kluftinger,248,70.459677419,13.854009895,98.0,41.0,28,7,25,22,27,17,24,25,29,24,20
+UBCO,2017,W,BIOL,228,,OVERALL,Introductory Microbiology,,248,70.459677419,13.854009895,98.0,41.0,28,7,25,22,27,17,24,25,29,24,20
 UBCO,2017,W,BIOL,232,,001,Human Infectious Disease,Brittany Wall;Connor Langton;Connor R. Langton;Janet Kluftinger;Michaella Watson,134,77.76865671600001,9.75713672,98.0,60.0,,,,12,10,15,19,12,29,17,20
+UBCO,2017,W,BIOL,232,,OVERALL,Human Infectious Disease,,134,77.76865671600001,9.75713672,98.0,60.0,,,,12,10,15,19,12,29,17,20
 UBCO,2017,W,BIOL,265,,001,Principles of Genetics,Brendan D'Souza;Priya Purewal;Rebecca S Wells;Rebecca Wells;Samah Shah;Victoria Parsons,119,71.15126050399999,14.242832664000002,98.0,34.0,5,8,14,10,8,15,10,11,13,10,15
 UBCO,2017,W,BIOL,265,,101,Principles of Genetics,Brendan D'Souza;Priya Purewal;Rebecca S Wells;Rebecca Wells;Samah Shah,164,74.951219512,14.754766258,99.0,35.0,7,7,11,13,13,12,15,10,26,16,34
+UBCO,2017,W,BIOL,265,,OVERALL,Principles of Genetics,,283,73.35335689,14.637301072,99.0,34.0,12,15,25,23,21,27,25,21,39,26,49
 UBCO,2017,W,BIOL,301,,001,Evolutionary Principles and Methods,Brett Ford;Michael Russello,37,74.94594594600001,11.335651591,92.0,37.0,,,,,6,7,,6,6,5,
+UBCO,2017,W,BIOL,301,,OVERALL,Evolutionary Principles and Methods,,37,74.94594594600001,11.335651591,92.0,37.0,,,,,6,7,,6,6,5,
 UBCO,2017,W,BIOL,306,,001,Ecology of Animals,Adam Ford,29,84.034482759,6.293322757,95.0,64.0,,,,,,,,5,8,10,5
+UBCO,2017,W,BIOL,306,,OVERALL,Ecology of Animals,,29,84.034482759,6.293322757,95.0,64.0,,,,,,,,5,8,10,5
 UBCO,2017,W,BIOL,307,,001,Limnology,Ian Walker;Megan Ludwig;Yi Wang,14,78.285714286,11.899764519000001,93.0,49.0,,,,,,,,,,,
+UBCO,2017,W,BIOL,307,,OVERALL,Limnology,,14,78.285714286,11.899764519000001,93.0,49.0,,,,,,,,,,,
 UBCO,2017,W,BIOL,308,,001,Population Biology,Danielle Gauthier;Robert Lalonde,56,75.196428571,16.942061314,97.0,9.0,,,5,,5,,8,6,6,7,11
+UBCO,2017,W,BIOL,308,,OVERALL,Population Biology,,56,75.196428571,16.942061314,97.0,9.0,,,5,,5,,8,6,6,7,11
 UBCO,2017,W,BIOL,311,,001,Biochemistry I,Madison Arnold;Madison D. Arnold;Richard Plunkett;Sanjoy Ghosh,117,80.23931623899999,9.929622672999999,98.0,49.0,6,,,,,5,12,21,25,26,20
+UBCO,2017,W,BIOL,311,,OVERALL,Biochemistry I,,117,80.23931623899999,9.929622672999999,98.0,49.0,6,,,,,5,12,21,25,26,20
 UBCO,2017,W,BIOL,314,,001,Medical Microbiology,Ahmad Alshrbini;Rebecca S Wells;Rebecca Wells,103,77.27184466,10.454564792000001,99.0,44.0,,,,,5,16,19,11,17,13,13
-UBCO,2017,W,BIOL,318,,001,Immunology,Brittany Wall;Deanna Gibson;Janet Kluftinger;Michaella Watson;Nazli Hassanpour Farshour,140,72.778571429,14.695503084,95.0,33.0,8,13,,9,15,12,10,14,20,13,23
+UBCO,2017,W,BIOL,314,,OVERALL,Medical Microbiology,,103,77.27184466,10.454564792000001,99.0,44.0,,,,,5,16,19,11,17,13,13
+UBCO,2017,W,BIOL,318,,001,Immunology,Brittany Wall;Deanna Gibson;Janet Kluftinger;Michaella Watson;Nazli Hassanpour Farshour,140,72.778571429,14.695503084,95.0,33.0,8,13,3.0,9,15,12,10,14,20,13,23
+UBCO,2017,W,BIOL,318,,OVERALL,Immunology,,140,72.778571429,14.695503084,95.0,33.0,8,13,3.0,9,15,12,10,14,20,13,23
 UBCO,2017,W,BIOL,319,,001,Biochemistry II,Hogun Joseph Kang;Hogun Kang;Karren Concina;Karren M. Concina;Richard Plunkett,70,77.028571429,13.271929,97.0,14.0,,,,,,6,9,9,14,10,10
+UBCO,2017,W,BIOL,319,,OVERALL,Biochemistry II,,70,77.028571429,13.271929,97.0,14.0,,,,,,6,9,9,14,10,10
 UBCO,2017,W,BIOL,341,,001,Neurobiology,Allyson Dyck;Austin A. Hunchak;Austin Hunchak;Julien Gibon;W Mathieson,144,76.701388889,10.046799484,96.0,39.0,,,,8,10,19,23,19,25,20,15
+UBCO,2017,W,BIOL,341,,OVERALL,Neurobiology,,144,76.701388889,10.046799484,96.0,39.0,,,,8,10,19,23,19,25,20,15
 UBCO,2017,W,BIOL,350,,001,Clinical Neuroscience,Ahmad Alshrbini;Nicole Ferreira;Sarah Mcgregor;W Mathieson,146,85.821917808,16.429865545,100.0,12.0,5,,,,,5,10,7,11,23,76
+UBCO,2017,W,BIOL,350,,OVERALL,Clinical Neuroscience,,146,85.821917808,16.429865545,100.0,12.0,5,,,,,5,10,7,11,23,76
 UBCO,2017,W,BIOL,354,,001,Cell Physiology,Jessica Lowry;Jessica R. Lowry;Mark Rheault;Nicholas Phillipow,91,79.406593407,9.738786168999999,95.0,43.0,,,,,,8,12,12,19,20,12
+UBCO,2017,W,BIOL,354,,OVERALL,Cell Physiology,,91,79.406593407,9.738786168999999,95.0,43.0,,,,,,8,12,12,19,20,12
 UBCO,2017,W,BIOL,356,,001,Comparative Animal Physiology,Faye Manning;Faye Sarah Manning;Scott Reid,29,78.068965517,7.463870282999999,90.0,62.0,,,,,,,,6,8,6,
+UBCO,2017,W,BIOL,356,,OVERALL,Comparative Animal Physiology,,29,78.068965517,7.463870282999999,90.0,62.0,,,,,,,,6,8,6,
 UBCO,2017,W,BIOL,357,,001,Introduction to Entomology,Eric Vukicevich;Robert Lalonde,20,80.9,8.996490544,99.0,63.0,,,,,,,,,7,,
+UBCO,2017,W,BIOL,357,,OVERALL,Introduction to Entomology,,20,80.9,8.996490544,99.0,63.0,,,,,,,,,7,,
 UBCO,2017,W,BIOL,358,,101,Plant Ecophysiology,Melanie Jones,15,69.733333333,9.728211307,86.0,54.0,,,,,,,,,,,
+UBCO,2017,W,BIOL,358,,OVERALL,Plant Ecophysiology,,15,69.733333333,9.728211307,86.0,54.0,,,,,,,,,,,
 UBCO,2017,W,BIOL,363,,001,Developmental Biology,Brendan D'Souza;Ellen Nilson;Michael Deyholos,79,75.64556962,11.051207121,97.0,49.0,,,,,,11,15,10,5,17,8
+UBCO,2017,W,BIOL,363,,OVERALL,Developmental Biology,,79,75.64556962,11.051207121,97.0,49.0,,,,,,11,15,10,5,17,8
 UBCO,2017,W,BIOL,366,,001,Molecular Genetics,Brendan D'Souza;Hogun Joseph Kang;Hogun Kang;Rebecca S Wells;Rebecca Wells;Yara Hamed;Yara Z. Hamed,136,69.227941176,17.497075697,98.0,23.0,16,10,11,13,8,10,11,8,11,17,21
+UBCO,2017,W,BIOL,366,,OVERALL,Molecular Genetics,,136,69.227941176,17.497075697,98.0,23.0,16,10,11,13,8,10,11,8,11,17,21
 UBCO,2017,W,BIOL,375,,001,Flora and Fauna of Inland Waters,Faye Manning;Laura Hooker,31,73.19354838699999,9.260739189,94.0,50.0,,,,,,9,5,,5,,
+UBCO,2017,W,BIOL,375,,OVERALL,Flora and Fauna of Inland Waters,,31,73.19354838699999,9.260739189,94.0,50.0,,,,,,9,5,,5,,
 UBCO,2017,W,BIOL,380,,001,Food and Industrial Microbiology,Andis Klegeris;Louise Nelson;Melissa Larrabee,74,82.067567568,8.840025849,95.0,56.0,,,,,,,8,5,19,14,19
-UBCO,2017,W,BIOL,381,,001,Environmental Microbiology,Ayden Ledding;Laura Hooker,80,70.0875,15.283973363,100.0,28.0,7,5,7,6,7,8,5,,18,8,5
+UBCO,2017,W,BIOL,380,,OVERALL,Food and Industrial Microbiology,,74,82.067567568,8.840025849,95.0,56.0,,,,,,,8,5,19,14,19
+UBCO,2017,W,BIOL,381,,001,Environmental Microbiology,Ayden Ledding;Laura Hooker,80,70.0875,15.283973363,100.0,28.0,7,5,7,6,7,8,5,4.0,18,8,5
+UBCO,2017,W,BIOL,381,,OVERALL,Environmental Microbiology,,80,70.0875,15.283973363,100.0,28.0,7,5,7,6,7,8,5,4.0,18,8,5
 UBCO,2017,W,BIOL,382,,001,Prokaryotic Physiology,Austin A. Hunchak;Austin Hunchak;Richard Plunkett,50,83.86,7.647888864,99.0,62.0,,,,,,,,5,15,8,15
+UBCO,2017,W,BIOL,382,,OVERALL,Prokaryotic Physiology,,50,83.86,7.647888864,99.0,62.0,,,,,,,,5,15,8,15
 UBCO,2017,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Genevieve Mylocopos;Jessica Lowry;Jessica R. Lowry;Jiayu Ye;Magdalena Banka;Osei Boakye Fordwour;Osei Fordwour;Priya Purewal;Richard Plunkett,40,82.925,8.156757463,93.0,51.0,,,,,,,,,11,13,7
+UBCO,2017,W,BIOL,393,,OVERALL,Biochemistry Laboratory,,40,82.925,8.156757463,93.0,51.0,,,,,,,,,11,13,7
 UBCO,2017,W,BIOL,401,,001,Spatial Ecology,Karen Hodges,17,71.941176471,19.52392951,96.0,13.0,,,,,,,,,,,
+UBCO,2017,W,BIOL,401,,OVERALL,Spatial Ecology,,17,71.941176471,19.52392951,96.0,13.0,,,,,,,,,,,
 UBCO,2017,W,BIOL,410,,001,Plant-Microbe Interactions,Miranda Hart,21,80.095238095,7.516014648,91.0,61.0,,,,,,,,,8,,
+UBCO,2017,W,BIOL,410,,OVERALL,Plant-Microbe Interactions,,21,80.095238095,7.516014648,91.0,61.0,,,,,,,,,8,,
 UBCO,2017,W,BIOL,420,A,001,Special Topics in Biology,Brendan D'Souza,25,82.32,11.466327514000001,96.0,55.0,,,,,,,,,,7,8
+UBCO,2017,W,BIOL,420,A,OVERALL,Special Topics in Biology,,25,82.32,11.466327514000001,96.0,55.0,,,,,,,,,,7,8
 UBCO,2017,W,BIOL,420,B,001,Special Topics in Biology,Andis Klegeris;Michael Deyholos;Rebecca S Wells;Rebecca Wells,38,86.657894737,8.650187674,97.0,59.0,,,,,,,,,6,7,19
+UBCO,2017,W,BIOL,420,B,OVERALL,Special Topics in Biology,,38,86.657894737,8.650187674,97.0,59.0,,,,,,,,,6,7,19
 UBCO,2017,W,BIOL,420,C,001,Special Topics in Biology,Nathan Pelletier,34,75.38235294100001,14.907827324000001,93.0,1.0,,,,,,,8,5,11,,
+UBCO,2017,W,BIOL,420,C,OVERALL,Special Topics in Biology,,34,75.38235294100001,14.907827324000001,93.0,1.0,,,,,,,8,5,11,,
 UBCO,2017,W,BIOL,420,P,001,Special Topics in Biology,Jason Pither,8,73.375,30.57514163,95.0,0.0,,,,,,,,,,,
+UBCO,2017,W,BIOL,420,P,OVERALL,Special Topics in Biology,,8,73.375,30.57514163,95.0,0.0,,,,,,,,,,,
 UBCO,2017,W,BIOL,420,Q,101,Special Topics in Biology,Mark Rheault,25,83.4,5.838093296,94.0,71.0,,,,,,,,,9,5,
+UBCO,2017,W,BIOL,420,Q,OVERALL,Special Topics in Biology,,25,83.4,5.838093296,94.0,71.0,,,,,,,,,9,5,
 UBCO,2017,W,BIOL,420,T,001,Special Topics in Biology,Karen Hodges,8,77.625,10.636023693,88.0,53.0,,,,,,,,,,,
+UBCO,2017,W,BIOL,420,T,OVERALL,Special Topics in Biology,,8,77.625,10.636023693,88.0,53.0,,,,,,,,,,,
 UBCO,2017,W,BIOL,420,Y,001,Special Topics in Biology,Michael Deyholos,21,86.476190476,7.166722037,98.0,67.0,,,,,,,,,7,,9
+UBCO,2017,W,BIOL,420,Y,OVERALL,Special Topics in Biology,,21,86.476190476,7.166722037,98.0,67.0,,,,,,,,,7,,9
 UBCO,2017,W,BIOL,422,,001,Conservation Biology,John Klironomos;Karen Hodges,30,86.6,3.069314199,92.0,81.0,,,,,,,,,7,16,7
+UBCO,2017,W,BIOL,422,,OVERALL,Conservation Biology,,30,86.6,3.069314199,92.0,81.0,,,,,,,,,7,16,7
+UBCO,2017,W,BIOL,440,,OVERALL,Honours Thesis,,19,91.63157894700001,3.530982336,95.0,82.0,,,,,,,,,,,16
 UBCO,2017,W,BIOL,444,,001,Dynamic Modelling of Human-Environment Systems,Lael Parrott,10,71.8,23.208236086,92.0,12.0,,,,,,,,,,,
+UBCO,2017,W,BIOL,444,,OVERALL,Dynamic Modelling of Human-Environment Systems,,10,71.8,23.208236086,92.0,12.0,,,,,,,,,,,
 UBCO,2017,W,BIOL,480,,101,Mycology,Daniel Durall,20,74.25,20.349253187000002,94.0,1.0,,,,,,,,,,5,
+UBCO,2017,W,BIOL,480,,OVERALL,Mycology,,20,74.25,20.349253187000002,94.0,1.0,,,,,,,,,,5,
 UBCO,2017,W,BIOL,501,,001,Biology Seminar,Michael Deyholos,11,95.909090909,1.640399065,98.0,93.0,,,,,,,,,,,11
+UBCO,2017,W,BIOL,501,,OVERALL,Biology Seminar,,11,95.909090909,1.640399065,98.0,93.0,,,,,,,,,,,11

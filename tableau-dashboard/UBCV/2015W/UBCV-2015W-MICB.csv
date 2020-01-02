@@ -1,35 +1,65 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,MICB,201,,101,Introductory Environmental Microbiology,Wade Bingle,198,74.378787879,11.98742804,93.0,16.0,6,,11,12,8,24,26,26,46,21,14
-UBCV,2015,W,MICB,201,,201,Introductory Environmental Microbiology,Wade Bingle,180,75.355555556,11.157892826,97.0,36.0,,,12,7,13,19,24,18,37,27,15
+UBCV,2015,W,MICB,201,,101,Introductory Environmental Microbiology,Wade Bingle,198,74.378787879,11.98742804,93.0,16.0,6,4.0,11,12,8,24,26,26,46,21,14
+UBCV,2015,W,MICB,201,,201,Introductory Environmental Microbiology,Wade Bingle,180,75.355555556,11.157892826,97.0,36.0,4,4.0,12,7,13,19,24,18,37,27,15
+UBCV,2015,W,MICB,201,,OVERALL,Introductory Environmental Microbiology,,378,74.843915344,11.594816253,97.0,16.0,10,8,23,19,21,43,50,44,83,48,29
 UBCV,2015,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Danielle Krebs;Theodore Steiner;Tracy Kion,277,76.913357401,12.999988932,99.0,34.0,14,5,10,11,16,23,33,29,49,42,45
 UBCV,2015,W,MICB,202,,201,Introductory Medical Microbiology and Immunology,Charles Thompson;Jennifer Sibley;Tracy Kion,240,75.43333333300001,13.03662901,97.0,28.0,7,9,13,13,14,26,32,21,32,48,25
 UBCV,2015,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,B Brett Finlay;Jennifer Sibley;Ninan Abraham,179,74.38547486,13.439084839000001,99.0,27.0,7,6,12,16,10,19,20,20,22,21,26
+UBCV,2015,W,MICB,202,,OVERALL,Introductory Medical Microbiology and Immunology,,696,75.75287356300001,13.147940410999999,99.0,27.0,28,20,35,40,40,68,85,70,103,111,96
 UBCV,2015,W,MICB,203,,201,Basic Microbiology Laboratory,Carlos Diaz Salazar Albelda;Karen Smith,18,76.388888889,9.780766774,90.0,50.0,,,,,,,,,8,,
+UBCV,2015,W,MICB,203,,OVERALL,Basic Microbiology Laboratory,,18,76.388888889,9.780766774,90.0,50.0,,,,,,,,,8,,
 UBCV,2015,W,MICB,301,,101,Microbial Ecophysiology,Roland Wilhelm;William Mohn,118,77.177966102,9.626913268,94.0,37.0,,,,,7,12,10,21,34,17,7
+UBCV,2015,W,MICB,301,,OVERALL,Microbial Ecophysiology,,118,77.177966102,9.626913268,94.0,37.0,,,,,7,12,10,21,34,17,7
 UBCV,2015,W,MICB,302,,101,Immunology,Abdalla Sheikh;Arif Arif;Pauline Johnson;Tracy Kion,197,75.401015228,12.76101361,96.0,18.0,7,8,6,12,10,14,30,25,32,36,17
-UBCV,2015,W,MICB,306,,101,Molecular Virology,Anastasia Hyrina;Christina Farr;Danielle Krebs;Francois Jean,232,81.150862069,12.895134795999999,99.0,1.0,,5,7,6,6,16,15,17,33,49,75
+UBCV,2015,W,MICB,302,,OVERALL,Immunology,,197,75.401015228,12.76101361,96.0,18.0,7,8,6,12,10,14,30,25,32,36,17
+UBCV,2015,W,MICB,306,,101,Molecular Virology,Anastasia Hyrina;Christina Farr;Danielle Krebs;Francois Jean,232,81.150862069,12.895134795999999,99.0,1.0,3.0,5,7,6,6,16,15,17,33,49,75
+UBCV,2015,W,MICB,306,,OVERALL,Molecular Virology,,232,81.150862069,12.895134795999999,99.0,1.0,3.0,5,7,6,6,16,15,17,33,49,75
 UBCV,2015,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Erin Gaynor;Gyles Ifill;Rachel Fernandez;Shengjuan Xu,109,70.385321101,12.687780835999998,93.0,33.0,,15,6,7,8,8,17,10,24,7,
+UBCV,2015,W,MICB,308,,OVERALL,Paradigms in Bacterial Pathogenesis,,109,70.385321101,12.687780835999998,93.0,33.0,,15,6,7,8,8,17,10,24,7,
 UBCV,2015,W,MICB,322,,101,Molecular Microbiology Laboratory,Christina Wiesmann;John Fiore Nomellini;John Nomellini;Jun Wen Li;Shannon Ruth Coleman;Tracy Kion,84,82.5,4.508359037,93.0,71.0,,,,,,,,18,36,20,6
+UBCV,2015,W,MICB,322,,OVERALL,Molecular Microbiology Laboratory,,84,82.5,4.508359037,93.0,71.0,,,,,,,,18,36,20,6
 UBCV,2015,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Ana Citlali Marquez Hernandez;Ana Citlali Varhola;Anna Kreynes;Ehleen Hinze;Israel Matos,76,79.013157895,4.900322224,89.0,68.0,,,,,,5,18,14,27,12,
+UBCV,2015,W,MICB,323,,OVERALL,Molecular Immunology and Virology Laboratory,,76,79.013157895,4.900322224,89.0,68.0,,,,,,5,18,14,27,12,
 UBCV,2015,W,MICB,325,,201,Analysis of Microbial Genes and Genomes,John Beatty;Katharine Jean Thompson,109,73.036697248,11.311192920999998,95.0,41.0,,,8,8,9,13,18,13,16,10,8
+UBCV,2015,W,MICB,325,,OVERALL,Analysis of Microbial Genes and Genomes,,109,73.036697248,11.311192920999998,95.0,41.0,,,8,8,9,13,18,13,16,10,8
 UBCV,2015,W,MICB,353,,101,Food Microbiology Laboratory,Karen Smith,29,80.482758621,5.539602162,90.0,67.0,,,,,,,,6,12,6,
+UBCV,2015,W,MICB,353,,OVERALL,Food Microbiology Laboratory,,29,80.482758621,5.539602162,90.0,67.0,,,,,,,,6,12,6,
 UBCV,2015,W,MICB,401,,101,Environmental Microbiology Laboratory,Beverlie Baquir;Wade Bingle,38,83.34210526300001,4.8058315689999995,92.0,70.0,,,,,,,,,17,11,5
-UBCV,2015,W,MICB,401,,201,Environmental Microbiology Laboratory,Martha Liu;Wade Bingle,35,81.257142857,4.629463551000001,88.0,68.0,,,,,,,,,18,9,
+UBCV,2015,W,MICB,401,,201,Environmental Microbiology Laboratory,Martha Liu;Wade Bingle,35,81.257142857,4.629463551000001,88.0,68.0,,,,,,,,,18,9,0
+UBCV,2015,W,MICB,401,,OVERALL,Environmental Microbiology Laboratory,,73,82.342465753,4.805145327,92.0,68.0,,,,,,,,7,35,20,5
 UBCV,2015,W,MICB,402,,101,Advanced Immunology,Georgia Perona Wright;Graham Heieis;Kenneth Harder,77,76.220779221,9.59251816,97.0,52.0,,,,,7,6,11,11,18,10,5
+UBCV,2015,W,MICB,402,,OVERALL,Advanced Immunology,,77,76.220779221,9.59251816,97.0,52.0,,,,,7,6,11,11,18,10,5
 UBCV,2015,W,MICB,404,,201,Topics in Molecular Bacterial Pathogenesis,Robert E Hancock,16,86.1875,4.020261186,93.0,76.0,,,,,,,,,,10,
+UBCV,2015,W,MICB,404,,OVERALL,Topics in Molecular Bacterial Pathogenesis,,16,86.1875,4.020261186,93.0,76.0,,,,,,,,,,10,
 UBCV,2015,W,MICB,405,,101,Bioinformatics,Jennifer Gardy;Martin Hirst;Steven Hallam;William Durno,58,75.34482758600001,12.615156192,94.0,23.0,,,,,,5,6,15,13,6,
+UBCV,2015,W,MICB,405,,OVERALL,Bioinformatics,,58,75.34482758600001,12.615156192,94.0,23.0,,,,,,5,6,15,13,6,
 UBCV,2015,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz,20,89.4,4.109040098,96.0,82.0,,,,,,,,,,8,10
+UBCV,2015,W,MICB,406,,OVERALL,Topics in Molecular Virology,,20,89.4,4.109040098,96.0,82.0,,,,,,,,,,8,10
 UBCV,2015,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Soren Gantt,28,90.39285714299999,4.263013068999999,97.0,80.0,,,,,,,,,,7,18
+UBCV,2015,W,MICB,407,,OVERALL,Viral Infections in Humans.,,28,90.39285714299999,4.263013068999999,97.0,80.0,,,,,,,,,,7,18
 UBCV,2015,W,MICB,408,,101,Advanced Bacterial Pathogenesis,Charles Thompson;Erin Gaynor,33,77.96969697,8.11050572,89.0,53.0,,,,,,,,8,9,7,
+UBCV,2015,W,MICB,408,,OVERALL,Advanced Bacterial Pathogenesis,,33,77.96969697,8.11050572,89.0,53.0,,,,,,,,8,9,7,
 UBCV,2015,W,MICB,412,,201,Topics in Immunological Research,Kenneth Harder;Pauline Johnson,23,88.60869565200001,4.303689014,97.0,78.0,,,,,,,,,,12,9
+UBCV,2015,W,MICB,412,,OVERALL,Topics in Immunological Research,,23,88.60869565200001,4.303689014,97.0,78.0,,,,,,,,,,12,9
 UBCV,2015,W,MICB,418,,201,Industrial Microbiology and Biotechnology,John Kenneth Smit;Sally S M Lee,47,78.61702127699999,16.401952683,97.0,18.0,,,,,,,,,14,9,11
+UBCV,2015,W,MICB,418,,OVERALL,Industrial Microbiology and Biotechnology,,47,78.61702127699999,16.401952683,97.0,18.0,,,,,,,,,14,9,11
 UBCV,2015,W,MICB,421,,201,Experimental Microbiology,Andrew Santos;Celine Michiels;Danielle Krebs;David Ng;David Oliver,56,91.785714286,3.6267405139999997,99.0,85.0,,,,,,,,,,15,41
+UBCV,2015,W,MICB,421,,OVERALL,Experimental Microbiology,,56,91.785714286,3.6267405139999997,99.0,85.0,,,,,,,,,,15,41
 UBCV,2015,W,MICB,424,,101,Cellular Dynamics of Pathogenic and Environmental Bacteria,Lindsay Eltis,5,80.2,5.89067059,87.0,73.0,,,,,,,,,,,
+UBCV,2015,W,MICB,424,,OVERALL,Cellular Dynamics of Pathogenic and Environmental Bacteria,,5,80.2,5.89067059,87.0,73.0,,,,,,,,,,,
 UBCV,2015,W,MICB,425,,201,Microbial Ecological Genomics,Sean Crowe;Steven Hallam,20,88.35,7.110222441,100.0,71.0,,,,,,,,,,,14
+UBCV,2015,W,MICB,425,,OVERALL,Microbial Ecological Genomics,,20,88.35,7.110222441,100.0,71.0,,,,,,,,,,,14
 UBCV,2015,W,MICB,430,A,101,Seminar in Microbiological Literature,James Kronstad;Pauline Johnson;Steven Hallam;Wilfred Arthur Jefferies,12,92.25,5.101247619,99.0,81.0,,,,,,,,,,,9
+UBCV,2015,W,MICB,430,A,OVERALL,Seminar in Microbiological Literature,,12,92.25,5.101247619,99.0,81.0,,,,,,,,,,,9
 UBCV,2015,W,MICB,447,,101,Experimental Molecular Biology,Christoph Deeg;David Oliver,33,86.78787878799999,6.173317462000001,95.0,69.0,,,,,,,,,5,11,13
+UBCV,2015,W,MICB,447,,OVERALL,Experimental Molecular Biology,,33,86.78787878799999,6.173317462000001,95.0,69.0,,,,,,,,,5,11,13
 UBCV,2015,W,MICB,448,C,001,Directed Research,Tracy Kion,8,89.5,5.371884478999999,97.0,81.0,,,,,,,,,,,
+UBCV,2015,W,MICB,448,C,OVERALL,Directed Research,,8,89.5,5.371884478999999,97.0,81.0,,,,,,,,,,,
 UBCV,2015,W,MICB,449,,001,Research Problem,Tracy Kion,6,94.166666667,3.710345896,98.0,89.0,,,,,,,,,,,5
+UBCV,2015,W,MICB,449,,OVERALL,Research Problem,,6,94.166666667,3.710345896,98.0,89.0,,,,,,,,,,,5
 UBCV,2015,W,MICB,502,,201,Advanced Immunogenetics,Georgia Perona Wright;Laura Sly;Michael Gold,11,90.545454545,3.142089635,95.0,84.0,,,,,,,,,,,8
+UBCV,2015,W,MICB,502,,OVERALL,Advanced Immunogenetics,,11,90.545454545,3.142089635,95.0,84.0,,,,,,,,,,,8
 UBCV,2015,W,MICB,506,C,001,Microbiological and Immunological Research,Michael Gold;Michael Murphy;Ninan Abraham,18,89.388888889,5.489443226000001,97.0,71.0,,,,,,,,,,9,8
+UBCV,2015,W,MICB,506,C,OVERALL,Microbiological and Immunological Research,,18,89.388888889,5.489443226000001,97.0,71.0,,,,,,,,,,9,8
 UBCV,2015,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Charles Thompson;William Mohn;Yossef Av-Gay,11,89.181818182,2.7502066039999997,93.0,85.0,,,,,,,,,,6,5
+UBCV,2015,W,MICB,507,,OVERALL,Topics in Molecular Pathogenesis and Immunology,,11,89.181818182,2.7502066039999997,93.0,85.0,,,,,,,,,,6,5

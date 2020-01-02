@@ -1,7 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,S,EDUC,172,,D01,Language and the Curriculum,Kedrick James,58,69.0,11.904591477,100.0,47.0,,9,,6,,6,6,13,,,
+UBCV,2014,S,EDUC,172,,OVERALL,Language and the Curriculum,,58,69.0,11.904591477,100.0,47.0,,9,,6,,6,6,13,,,
 UBCV,2014,S,EDUC,490,A,951,Special Studies in Education,Lori Macintosh,9,89.0,3.840572874,95.0,82.0,,,,,,,,,,,5
+UBCV,2014,S,EDUC,490,A,OVERALL,Special Studies in Education,,9,89.0,3.840572874,95.0,82.0,,,,,,,,,,,5
 UBCV,2014,S,EDUC,490,B,96A,Special Studies in Education,Barbara Weber,6,91.666666667,1.8618986730000002,95.0,90.0,,,,,,,,,,,6
+UBCV,2014,S,EDUC,490,B,OVERALL,Special Studies in Education,,6,91.666666667,1.8618986730000002,95.0,90.0,,,,,,,,,,,6
+UBCV,2014,S,EDUC,500,,951,Research Methodology in Education,Francis Feng;Stephen Petrina,33,89.21212121200001,3.862945571,97.0,80.0,,,,,,,,,,14,15
 UBCV,2014,S,EDUC,500,,96A,Research Methodology in Education,Patricia O'Riley;Peter Cole,16,88.4375,1.5478479680000001,92.0,87.0,,,,,,,,,,11,5
 UBCV,2014,S,EDUC,500,,97A,Research Methodology in Education,Janet Vaughan Marshall,23,86.826086957,5.279911965,96.0,75.0,,,,,,,,,,10,7
-UBCV,2014,S,EDUC,500,,951,Research Methodology in Education,Francis Feng;Stephen Petrina,33,89.21212121200001,3.862945571,97.0,80.0,,,,,,,,,,14,15
+UBCV,2014,S,EDUC,500,,OVERALL,Research Methodology in Education,,72,88.27777777799999,4.118738431000001,97.0,75.0,,,,,,,,,8,35,27

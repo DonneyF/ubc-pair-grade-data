@@ -1,29 +1,53 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Rogers (Brown);Warren Williams,71,70.056338028,14.196465681,100.0,37.0,,,6,9,8,10,6,5,5,8,6
-UBCV,2018,W,BIOC,202,,002,Introductory Medical Biochemistry,Lindsay Rogers (Brown);Warren Williams,165,69.896969697,13.701354857,97.0,0.0,9,6,21,20,14,15,26,10,20,14,10
-UBCV,2018,W,BIOC,203,,001,Fundamentals of Biochemistry,Robert Maurus;Warren Williams,108,73.925925926,11.723212618,97.0,29.0,,,5,10,5,27,8,10,18,16,5
-UBCV,2018,W,BIOC,301,,001,Biochemistry Laboratory,Jason Read,151,82.06622516600001,6.708868632000001,95.0,61.0,,,,,,5,16,19,42,48,16
-UBCV,2018,W,BIOC,302,,102,General Biochemistry,Alice Mui;Michael Krisinger;Robert Maurus,54,74.75925925899999,11.698952034000001,95.0,48.0,,,6,5,5,6,,10,5,8,6
+UBCV,2018,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Rogers (Brown);Warren Williams,71,70.056338028,14.196465681,100.0,37.0,4,4,6,9,8,10,6,5,5,8,6
+UBCV,2018,W,BIOC,202,,002,Introductory Medical Biochemistry,Lindsay Rogers (Brown);Warren Williams,165,70.03030303,13.494544626,97.0,0.0,8,6,21,21,14,15,26,10,20,14,10
+UBCV,2018,W,BIOC,202,,OVERALL,Introductory Medical Biochemistry,,236,70.038135593,13.679096769000001,100.0,0.0,12,10,27,30,22,25,32,15,25,22,16
+UBCV,2018,W,BIOC,203,,001,Fundamentals of Biochemistry,Robert Maurus;Warren Williams,107,74.345794393,10.932125760999998,97.0,39.0,,,5,10,5,27,8,10,18,16,5
+UBCV,2018,W,BIOC,203,,OVERALL,Fundamentals of Biochemistry,,107,74.345794393,10.932125760999998,97.0,39.0,,,5,10,5,27,8,10,18,16,5
+UBCV,2018,W,BIOC,301,,001,Biochemistry Laboratory,Jason Read,152,81.986842105,6.75786208,95.0,61.0,,,,,,6,16,19,42,48,16
+UBCV,2018,W,BIOC,301,,OVERALL,Biochemistry Laboratory,,152,81.986842105,6.75786208,95.0,61.0,,,,,,6,16,19,42,48,16
+UBCV,2018,W,BIOC,302,,102,General Biochemistry,Alice Mui;Michael Krisinger;Robert Maurus,54,74.75925925899999,11.698952034000001,95.0,48.0,1,0,6,5,5,6,2,10,5,8,6
 UBCV,2018,W,BIOC,302,,201,General Biochemistry,Michael Krisinger;Robert Maurus,127,69.244094488,15.565895023,94.0,11.0,12,6,12,10,13,11,11,17,14,16,5
-UBCV,2018,W,BIOC,302,,202,General Biochemistry,Michael Krisinger;Robert Maurus,82,70.817073171,14.301107657000001,93.0,35.0,9,6,,,9,6,9,9,17,7,
-UBCV,2018,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Masayuki Numata;Michael Krisinger;Nobuhiko Tokuriki;Thibault Mayor,129,73.49612403100001,9.724424815,94.0,43.0,,,7,11,11,16,21,22,24,9,
+UBCV,2018,W,BIOC,302,,202,General Biochemistry,Michael Krisinger;Robert Maurus,82,70.817073171,14.301107657000001,93.0,35.0,9,6,2,4,9,6,9,9,17,7,4
+UBCV,2018,W,BIOC,302,,OVERALL,General Biochemistry,,263,70.86692015199999,14.554758699,95.0,11.0,22,12,20,19,27,23,22,36,36,31,15
+UBCV,2018,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Masayuki Numata;Michael Krisinger;Nobuhiko Tokuriki;Thibault Mayor,130,73.392307692,9.758713978,94.0,43.0,,,7,12,11,16,21,22,24,9,
+UBCV,2018,W,BIOC,303,,OVERALL,Molecular Biochemistry,,130,73.392307692,9.758713978,94.0,43.0,,,7,12,11,16,21,22,24,9,
 UBCV,2018,W,BIOC,304,,001,Contemporary Biochemical Research,Calvin Yip;Harry Brumer;Hugh Kim;Joerg Gsponer;Leonard Foster,110,77.58181818199999,11.239169562,97.0,41.0,,,7,5,6,11,11,9,22,24,13
+UBCV,2018,W,BIOC,304,,OVERALL,Contemporary Biochemical Research,,110,77.58181818199999,11.239169562,97.0,41.0,,,7,5,6,11,11,9,22,24,13
 UBCV,2018,W,BIOC,402,,101,Proteins: Structure and Function,Calvin Yip;Joerg Gsponer,130,74.992307692,12.413730928,98.0,37.0,,8,,9,11,13,17,11,20,18,17
+UBCV,2018,W,BIOC,402,,OVERALL,Proteins: Structure and Function,,130,74.992307692,12.413730928,98.0,37.0,,8,,9,11,13,17,11,20,18,17
 UBCV,2018,W,BIOC,403,,201,Enzymology,Christian Kastrup;Natalie Strynadka;Stephen Withers,77,75.285714286,12.951180745999999,100.0,50.0,,,7,5,7,9,,9,14,8,11
+UBCV,2018,W,BIOC,403,,OVERALL,Enzymology,,77,75.285714286,12.951180745999999,100.0,50.0,,,7,5,7,9,,9,14,8,11
 UBCV,2018,W,BIOC,404,,001,Biochemical Methods,Filip Van Petegem;Franck Duong Van Hoa;Lawrence Mcintosh;Scott Covey;Thibault Mayor,13,90.46153846200001,4.557327152,96.0,81.0,,,,,,,,,,,10
-UBCV,2018,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Eric Jan;Ivan Sadowski;Leann Howe,103,72.281553398,12.468326519000001,95.0,44.0,,8,10,7,8,10,12,13,12,12,8
+UBCV,2018,W,BIOC,404,,OVERALL,Biochemical Methods,,13,90.46153846200001,4.557327152,96.0,81.0,,,,,,,,,,,10
+UBCV,2018,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Eric Jan;Ivan Sadowski;Leann Howe,103,72.281553398,12.468326519000001,95.0,44.0,3.0,8,10,7,8,10,12,13,12,12,8
+UBCV,2018,W,BIOC,410,,OVERALL,Nucleic Acids-Structure and Function,,103,72.281553398,12.468326519000001,95.0,44.0,3.0,8,10,7,8,10,12,13,12,12,8
 UBCV,2018,W,BIOC,420,,101,Advanced Biochemical Techniques,Scott Covey,12,88.416666667,3.449857265,92.0,81.0,,,,,,,,,,,6
+UBCV,2018,W,BIOC,420,,OVERALL,Advanced Biochemical Techniques,,12,88.416666667,3.449857265,92.0,81.0,,,,,,,,,,,6
 UBCV,2018,W,BIOC,421,,201,Recombinant DNA Techniques,Scott Covey,12,82.583333333,5.071459057,92.0,74.0,,,,,,,,,7,,
 UBCV,2018,W,BIOC,421,,202,Recombinant DNA Techniques,Scott Covey,12,82.0,6.208498574,94.0,74.0,,,,,,,,,5,,
 UBCV,2018,W,BIOC,421,,204,Recombinant DNA Techniques,Scott Covey,12,79.583333333,8.328028615,86.0,55.0,,,,,,,,,6,,
-UBCV,2018,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,18,79.111111111,7.745122858999999,93.0,65.0,,,,,,,,,,6,
+UBCV,2018,W,BIOC,421,,OVERALL,Recombinant DNA Techniques,,36,81.388888889,6.6128782489999995,94.0,55.0,,,,,,,,5,18,5,
+UBCV,2018,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,18,79.111111111,7.745122858999999,93.0,65.0,,,,,,,,,3,6,
 UBCV,2018,W,BIOC,440,,002,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,17,82.058823529,7.092871317999999,92.0,67.0,,,,,,,,,6,6,
+UBCV,2018,W,BIOC,440,,OVERALL,Concepts in Molecular Biology,,35,80.542857143,7.476798848,93.0,65.0,,,,,,,5,,9,12,
 UBCV,2018,W,BIOC,448,B,001,Directed Studies in Biochemistry,Scott Covey,10,87.9,2.424412873,91.0,83.0,,,,,,,,,,5,
+UBCV,2018,W,BIOC,448,B,OVERALL,Directed Studies in Biochemistry,,10,87.9,2.424412873,91.0,83.0,,,,,,,,,,5,
 UBCV,2018,W,BIOC,449,C,001,Honours Thesis,Scott Covey,12,89.666666667,3.961940143,95.0,82.0,,,,,,,,,,,7
+UBCV,2018,W,BIOC,449,C,OVERALL,Honours Thesis,,12,89.666666667,3.961940143,95.0,82.0,,,,,,,,,,,7
 UBCV,2018,W,BIOC,450,,001,Membrane Biochemistry,Corey Nislow;Elizabeth Conibear;Filip Van Petegem;Franck Duong Van Hoa;Masayuki Numata;Natalie Strynadka;Robert Molday,40,80.875,8.305659177,94.0,57.0,,,,,,,,7,13,9,
+UBCV,2018,W,BIOC,450,,OVERALL,Membrane Biochemistry,,40,80.875,8.305659177,94.0,57.0,,,,,,,,7,13,9,
 UBCV,2018,W,BIOC,460,,001,Advanced Techniques in Biochemistry,Alice Mui;Christopher Mark Overall;Leonard Foster;Michael Kobor;Michel Roberge;Nobuhiko Tokuriki,18,84.5,3.1854448389999996,89.0,77.0,,,,,,,,,8,9,
+UBCV,2018,W,BIOC,460,,OVERALL,Advanced Techniques in Biochemistry,,18,84.5,3.1854448389999996,89.0,77.0,,,,,,,,,8,9,
 UBCV,2018,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,12,86.833333333,4.302923601,94.0,80.0,,,,,,,,,,,
+UBCV,2018,W,BIOC,530,,OVERALL,Seminar in Biochemistry,,14,87.35714285700001,4.217311263,94.0,80.0,,,,,,,,,,5,5
+UBCV,2018,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,B Brett Finlay;Calvin Yip;Christian Kastrup;Dieter Bromme;Jason Read;Lawrence Mcintosh;Leann Howe;Natalie Strynadka;Nobuhiko Tokuriki;Philip Hieter;Scott Covey;Sheila Teves;Thibault Mayor;Vivien Measday,17,85.235294118,3.961208966,90.0,75.0,,,,,,,,,5,9,
+UBCV,2018,W,BIOC,551,,OVERALL,Advanced Topics in Biochemistry and Molecular Biology,,17,85.235294118,3.961208966,90.0,75.0,,,,,,,,,5,9,
 UBCV,2018,W,BIOC,556,,001,Biochemical Aspects of Cellular Regulation,,11,85.181818182,8.134103292,96.0,69.0,,,,,,,,,,,
+UBCV,2018,W,BIOC,556,,OVERALL,Biochemical Aspects of Cellular Regulation,,11,85.181818182,8.134103292,96.0,69.0,,,,,,,,,,,
 UBCV,2018,W,BIOC,557,,001,Advanced Topics in Biochemistry,,13,87.46153846200001,4.195540979,94.0,80.0,,,,,,,,,,5,5
+UBCV,2018,W,BIOC,557,,OVERALL,Advanced Topics in Biochemistry,,13,87.46153846200001,4.195540979,94.0,80.0,,,,,,,,,,5,5
 UBCV,2018,W,BIOC,558,,001,Advanced Topics in Protein Chemistry I,Lawrence Mcintosh,14,88.5,6.936525399,98.0,73.0,,,,,,,,,,,7
+UBCV,2018,W,BIOC,558,,OVERALL,Advanced Topics in Protein Chemistry I,,14,88.5,6.936525399,98.0,73.0,,,,,,,,,,,7
 UBCV,2018,W,BIOC,559,,001,Advanced Topics in Protein Chemistry II,,16,88.875,8.891006692000001,100.0,69.0,,,,,,,,,,,9
+UBCV,2018,W,BIOC,559,,OVERALL,Advanced Topics in Protein Chemistry II,,16,88.875,8.891006692000001,100.0,69.0,,,,,,,,,,,9

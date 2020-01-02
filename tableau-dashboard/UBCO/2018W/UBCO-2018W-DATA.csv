@@ -1,33 +1,66 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2018,W,DATA,101,,101,Making Predictions with Data,Dongying Wang;Irene Vrbik;Liam Welsh;Maria Guenter;Parker Gregoire-Jenkins,27,61.703703704,29.888015110999998,100.0,0.0,5,,,,,,,,,,5
-UBCO,2018,W,DATA,301,,001,Introduction to Data Analytics,Irene Vrbik;Thomas Reid;Zachary Bentsen,30,77.266666667,14.146848884,100.0,36.0,,,,,5,,,,,7,6
-UBCO,2018,W,DATA,301,,101,Introduction to Data Analytics,Irene Vrbik;Jordan Gardener;Thomas Reid;Zachary Bentsen,63,77.46031746,16.267745047000002,98.0,17.0,,,,5,,,8,6,8,9,15
+UBCO,2018,W,DATA,101,,OVERALL,Making Predictions with Data,,27,61.703703704,29.888015110999998,100.0,0.0,5,,,,,,,,,,5
+UBCO,2018,W,DATA,301,,001,Introduction to Data Analytics,Irene Vrbik;Thomas Reid;Zachary Bentsen,30,77.266666667,14.146848884,100.0,36.0,,,,2,5,,4,1,2,7,6
+UBCO,2018,W,DATA,301,,101,Introduction to Data Analytics,Irene Vrbik;Jordan Gardener;Thomas Reid;Zachary Bentsen,62,78.435483871,14.425183998,98.0,22.0,,,,5,3,,8,6,8,9,15
+UBCO,2018,W,DATA,301,,OVERALL,Introduction to Data Analytics,,92,78.054347826,14.267741322000001,100.0,22.0,,,,7,8,5,12,7,10,16,21
 UBCO,2018,W,DATA,311,,101,Machine Learning,Jeffrey Andrews;Jordan Gardener;Matthias Lee;Matthias Ming Zhao Lee;Phillip Shreeves,63,68.555555556,17.873008825,95.0,11.0,7,6,,7,5,,8,8,7,5,6
+UBCO,2018,W,DATA,311,,OVERALL,Machine Learning,,63,68.555555556,17.873008825,95.0,11.0,7,6,,7,5,,8,8,7,5,6
 UBCO,2018,W,DATA,407,,101,Sampling and Design,Paramjit Gill,18,61.944444444,13.635905122,85.0,35.0,,,,,,,,,,,
+UBCO,2018,W,DATA,407,,OVERALL,Sampling and Design,,18,61.944444444,13.635905122,85.0,35.0,,,,,,,,,,,
 UBCO,2018,W,DATA,410,,101,Regression and Generalized Linear Models,Lengyi Han;Matthias Lee;Matthias Ming Zhao Lee,6,71.166666667,15.967675681,86.0,43.0,,,,,,,,,,,
+UBCO,2018,W,DATA,410,,OVERALL,Regression and Generalized Linear Models,,6,71.166666667,15.967675681,86.0,43.0,,,,,,,,,,,
 UBCO,2018,W,DATA,421,,101,Network Science,Paramjit Gill,5,79.8,7.661592524,85.0,68.0,,,,,,,,,,,
+UBCO,2018,W,DATA,421,,OVERALL,Network Science,,5,79.8,7.661592524,85.0,68.0,,,,,,,,,,,
 UBCO,2018,W,DATA,501,,001,Data Analytics,Irene Vrbik,10,90.5,5.06074215,99.0,84.0,,,,,,,,,,,5
+UBCO,2018,W,DATA,501,,OVERALL,Data Analytics,,14,88.285714286,6.544857893,99.0,75.0,,,,,,,,,,,6
 UBCO,2018,W,DATA,530,,001,Computing Platforms for Data Science,Matthew Fritter;Matthew S Fritter;Ramon Lawrence,28,94.25,6.507118609,100.0,71.0,,,,,,,,,,,23
+UBCO,2018,W,DATA,530,,OVERALL,Computing Platforms for Data Science,,28,94.25,6.507118609,100.0,71.0,,,,,,,,,,,23
 UBCO,2018,W,DATA,531,,001,Programming for Data Science,Matthew Fritter;Matthew S Fritter;Ramon Lawrence,28,93.178571429,6.939172602,100.0,73.0,,,,,,,,,,,21
+UBCO,2018,W,DATA,531,,OVERALL,Programming for Data Science,,28,93.178571429,6.939172602,100.0,73.0,,,,,,,,,,,21
 UBCO,2018,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Matthew Fritter;Matthew S Fritter,28,94.535714286,4.2381175319999995,99.0,78.0,,,,,,,,,,,27
+UBCO,2018,W,DATA,532,,OVERALL,Algorithms and Data Structure,,28,94.535714286,4.2381175319999995,99.0,78.0,,,,,,,,,,,27
 UBCO,2018,W,DATA,533,,101,Collaborative Software Development,Matthew Fritter;Matthew S Fritter;Mohammad (Khalad) Hasan;Mohammad Khalad Hasan,28,93.321428571,4.06478619,100.0,86.0,,,,,,,,,,8,20
+UBCO,2018,W,DATA,533,,OVERALL,Collaborative Software Development,,28,93.321428571,4.06478619,100.0,86.0,,,,,,,,,,8,20
 UBCO,2018,W,DATA,534,,101,Web and Cloud Computing,Apurva Narayan;Matthew Fritter;Matthew S Fritter,28,93.285714286,2.678544973,98.0,86.0,,,,,,,,,,,27
+UBCO,2018,W,DATA,534,,OVERALL,Web and Cloud Computing,,28,93.285714286,2.678544973,98.0,86.0,,,,,,,,,,,27
 UBCO,2018,W,DATA,540,,001,Databases and Data Retrieval,Matthew Fritter;Matthew S Fritter;Ramon Lawrence,28,89.39285714299999,6.255896689,100.0,76.0,,,,,,,,,,7,16
+UBCO,2018,W,DATA,540,,OVERALL,Databases and Data Retrieval,,28,89.39285714299999,6.255896689,100.0,76.0,,,,,,,,,,7,16
 UBCO,2018,W,DATA,541,,001,Scripting and Reporting,Matthew Fritter;Matthew S Fritter;Mohammad (Khalad) Hasan;Mohammad Khalad Hasan,28,90.321428571,5.597972989,98.0,74.0,,,,,,,,,,7,17
+UBCO,2018,W,DATA,541,,OVERALL,Scripting and Reporting,,28,90.321428571,5.597972989,98.0,74.0,,,,,,,,,,7,17
 UBCO,2018,W,DATA,542,,101,Data Wrangling,Fatemeh Hendijani Fard;Matthew Fritter;Matthew S Fritter,28,89.35714285700001,6.476248833,100.0,79.0,,,,,,,,,6,,17
+UBCO,2018,W,DATA,542,,OVERALL,Data Wrangling,,28,89.35714285700001,6.476248833,100.0,79.0,,,,,,,,,6,,17
 UBCO,2018,W,DATA,543,,001,Data Collection,Dongying Wang;Irene Vrbik;Matthew Fritter;Matthew S Fritter,28,87.464285714,8.039173271000001,99.0,71.0,,,,,,,,,,7,13
+UBCO,2018,W,DATA,543,,OVERALL,Data Collection,,28,87.464285714,8.039173271000001,99.0,71.0,,,,,,,,,,7,13
 UBCO,2018,W,DATA,550,,001,Dataviz I,Dongying Wang;Irene Vrbik;John Braun;Joyce Epp,28,91.678571429,3.981936728,98.0,84.0,,,,,,,,,,7,20
+UBCO,2018,W,DATA,550,,OVERALL,Dataviz I,,28,91.678571429,3.981936728,98.0,84.0,,,,,,,,,,7,20
 UBCO,2018,W,DATA,551,,101,Dataviz II,Fatemeh Hendijani Fard;Matthew Fritter;Matthew S Fritter,28,94.285714286,4.302085135,100.0,85.0,,,,,,,,,,5,23
+UBCO,2018,W,DATA,551,,OVERALL,Dataviz II,,28,94.285714286,4.302085135,100.0,85.0,,,,,,,,,,5,23
 UBCO,2018,W,DATA,552,,001,Communication and Argumentation,Jessica Lowry;Spela Grasic,28,83.392857143,8.341503931,100.0,69.0,,,,,,,,6,6,5,7
+UBCO,2018,W,DATA,552,,OVERALL,Communication and Argumentation,,28,83.392857143,8.341503931,100.0,69.0,,,,,,,,6,6,5,7
 UBCO,2018,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;Joyce Epp,28,86.10714285700001,5.6328355189999995,94.0,73.0,,,,,,,,,7,6,11
+UBCO,2018,W,DATA,553,,OVERALL,"Privacy, Security and Professional Ethics",,28,86.10714285700001,5.6328355189999995,94.0,73.0,,,,,,,,,7,6,11
 UBCO,2018,W,DATA,570,,001,Predictive Modelling,Irene Vrbik;Joyce Epp,28,93.35714285700001,2.3915636559999998,99.0,88.0,,,,,,,,,,,27
+UBCO,2018,W,DATA,570,,OVERALL,Predictive Modelling,,28,93.35714285700001,2.3915636559999998,99.0,88.0,,,,,,,,,,,27
 UBCO,2018,W,DATA,571,,101,Resampling and Regularization,Jeffrey Andrews;Joyce Epp,28,92.464285714,4.533677625,99.0,80.0,,,,,,,,,,,23
+UBCO,2018,W,DATA,571,,OVERALL,Resampling and Regularization,,28,92.464285714,4.533677625,99.0,80.0,,,,,,,,,,,23
 UBCO,2018,W,DATA,572,,001,Supervised Learning,Jeffrey Andrews;Joyce Epp,28,83.892857143,8.90833686,97.0,60.0,,,,,,,,,8,5,8
+UBCO,2018,W,DATA,572,,OVERALL,Supervised Learning,,28,83.892857143,8.90833686,97.0,60.0,,,,,,,,,8,5,8
 UBCO,2018,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Jeffrey Andrews;Joyce Epp,28,88.428571429,7.4457473389999995,100.0,75.0,,,,,,,,,,,16
+UBCO,2018,W,DATA,573,,OVERALL,Unsupervised and Semi-supervised Learning,,28,88.428571429,7.4457473389999995,100.0,75.0,,,,,,,,,,,16
 UBCO,2018,W,DATA,580,,001,Modelling and Simulation I,John Braun;Joyce Epp,28,95.535714286,3.5431952819999997,99.0,84.0,,,,,,,,,,,26
+UBCO,2018,W,DATA,580,,OVERALL,Modelling and Simulation I,,28,95.535714286,3.5431952819999997,99.0,84.0,,,,,,,,,,,26
 UBCO,2018,W,DATA,581,,101,Modelling and Simulation II,John Braun;Joyce Epp,28,96.678571429,1.9255316040000001,99.0,91.0,,,,,,,,,,,28
+UBCO,2018,W,DATA,581,,OVERALL,Modelling and Simulation II,,28,96.678571429,1.9255316040000001,99.0,91.0,,,,,,,,,,,28
 UBCO,2018,W,DATA,582,,101,Bayesian Inference,Dongying Wang;Irene Vrbik;Joyce Epp,28,84.857142857,7.682178924,97.0,70.0,,,,,,,,,6,6,10
-UBCO,2018,W,DATA,583,,101,Advanced Predictive Modelling,Dongying Wang;John Braun;Joyce Epp,28,86.785714286,9.515512259,100.0,66.0,,,,,,,,5,5,5,11
+UBCO,2018,W,DATA,582,,OVERALL,Bayesian Inference,,28,84.857142857,7.682178924,97.0,70.0,,,,,,,,,6,6,10
+UBCO,2018,W,DATA,583,,101,Advanced Predictive Modelling,Dongying Wang;John Braun;Joyce Epp,28,87.464285714,8.613005423999999,100.0,70.0,,,,,,,,5,5,6,11
+UBCO,2018,W,DATA,583,,OVERALL,Advanced Predictive Modelling,,28,87.464285714,8.613005423999999,100.0,70.0,,,,,,,,5,5,6,11
 UBCO,2018,W,DATA,585,,101,Optimization,Dongying Wang;Heinz Bauschke,28,98.321428571,1.7649587430000002,100.0,94.0,,,,,,,,,,,28
+UBCO,2018,W,DATA,585,,OVERALL,Optimization,,28,98.321428571,1.7649587430000002,100.0,94.0,,,,,,,,,,,28
 UBCO,2018,W,DATA,586,,101,Advanced Machine Learning,Apurva Narayan;Joyce Epp,28,92.428571429,3.726070032,99.0,83.0,,,,,,,,,,5,22
+UBCO,2018,W,DATA,586,,OVERALL,Advanced Machine Learning,,28,92.428571429,3.726070032,99.0,83.0,,,,,,,,,,5,22
 UBCO,2018,W,DATA,589,,101,Special Topic,Jason Loeppky;Matthew Fritter;Matthew S Fritter;Mohammad (Khalad) Hasan;Mohammad Khalad Hasan,28,88.571428571,6.268253767000001,98.0,76.0,,,,,,,,,7,5,14
+UBCO,2018,W,DATA,589,,OVERALL,Special Topic,,28,88.571428571,6.268253767000001,98.0,76.0,,,,,,,,,7,5,14
+UBCO,2018,W,DATA,599,,101,Capstone,Scott Fazackerley,28,91.928571429,5.881096971,98.0,80.0,,,,,,,,,,6,18
+UBCO,2018,W,DATA,599,,OVERALL,Capstone,,28,91.928571429,5.881096971,98.0,80.0,,,,,,,,,,6,18

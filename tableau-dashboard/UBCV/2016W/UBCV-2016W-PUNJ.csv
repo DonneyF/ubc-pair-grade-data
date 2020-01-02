@@ -1,6 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,PUNJ,102,,001,Introductory Punjabi,Gurinderpal Mann;Sukhwant Hundal,30,84.43333333300001,11.699346676,99.0,60.0,,,,,,,,,,,15
+UBCV,2016,W,PUNJ,102,,001,Introductory Punjabi,Gurinderpal Mann;Sukhwant Hundal,30,84.43333333300001,11.699346676,99.0,60.0,,,,,,,,,,3,15
 UBCV,2016,W,PUNJ,102,,002,Introductory Punjabi,Gurinderpal Mann;Sukhwant Hundal,23,80.826086957,13.193153093,97.0,50.0,,,,,,,,,,6,7
+UBCV,2016,W,PUNJ,102,,OVERALL,Introductory Punjabi,,53,82.867924528,12.378700279,99.0,50.0,,,,,,,6,,,9,22
 UBCV,2016,W,PUNJ,200,,001,Intermediate Punjabi,Gurinderpal Mann;Sukhwant Hundal,25,80.8,9.331845119,98.0,60.0,,,,,,,,,5,5,5
+UBCV,2016,W,PUNJ,200,,OVERALL,Intermediate Punjabi,,25,80.8,9.331845119,98.0,60.0,,,,,,,,,5,5,5
 UBCV,2016,W,PUNJ,402,,001,Medieval and Early Modern Punjabi Literature,Anne Murphy,5,85.2,2.48997992,89.0,82.0,,,,,,,,,,,
+UBCV,2016,W,PUNJ,402,,OVERALL,Medieval and Early Modern Punjabi Literature,,5,85.2,2.48997992,89.0,82.0,,,,,,,,,,,
 UBCV,2016,W,PUNJ,457,,001,Punjabi Theatre,Anne Murphy,6,88.166666667,2.562550813,93.0,86.0,,,,,,,,,,5,
+UBCV,2016,W,PUNJ,457,,OVERALL,Punjabi Theatre,,6,88.166666667,2.562550813,93.0,86.0,,,,,,,,,,5,

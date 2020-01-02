@@ -1,40 +1,72 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2014,W,EDST,501,,021,Research Traditions in Educational Administration,Wendy Poole,10,85.7,6.447221624,95.0,74.0,,,,,,,,,,,
 UBCV,2014,W,EDST,501,,61A,Research Traditions in Educational Administration,Elaine Decker,17,81.235294118,1.95350364,85.0,80.0,,,,,,,,,14,,
 UBCV,2014,W,EDST,501,,61B,Research Traditions in Educational Administration,Andre Mazawi,21,94.0,0.0,94.0,94.0,,,,,,,,,,,21
-UBCV,2014,W,EDST,501,,021,Research Traditions in Educational Administration,Wendy Poole,10,85.7,6.447221624,95.0,74.0,,,,,,,,,,,
+UBCV,2014,W,EDST,501,,OVERALL,Research Traditions in Educational Administration,,48,87.75,6.554193071,95.0,74.0,,,,,,,,,17,6,23
 UBCV,2014,W,EDST,503,,021,Foundations of Adult Learning and Education,Shauna Butterwick,15,87.666666667,3.086066999,93.0,84.0,,,,,,,,,,9,
+UBCV,2014,W,EDST,503,,OVERALL,Foundations of Adult Learning and Education,,15,87.666666667,3.086066999,93.0,84.0,,,,,,,,,,9,
 UBCV,2014,W,EDST,504,A,022,History of Educational Policy,Jason Ellis,9,89.333333333,3.968626967,94.0,81.0,,,,,,,,,,,5
+UBCV,2014,W,EDST,504,A,OVERALL,History of Educational Policy,,9,89.333333333,3.968626967,94.0,81.0,,,,,,,,,,,5
 UBCV,2014,W,EDST,505,,021,First Nations and Educational Change,Michael Marker,10,93.4,4.948624949,97.0,81.0,,,,,,,,,,,8
+UBCV,2014,W,EDST,505,,OVERALL,First Nations and Educational Change,,10,93.4,4.948624949,97.0,81.0,,,,,,,,,,,8
 UBCV,2014,W,EDST,508,A,081,Review of Research in Educational Studies,Cash Ahenakew,10,90.9,4.254409477,96.0,85.0,,,,,,,,,,,6
 UBCV,2014,W,EDST,508,A,082,Review of Research in Educational Studies,Andre Mazawi,12,93.166666667,2.167249339,95.0,88.0,,,,,,,,,,,11
+UBCV,2014,W,EDST,508,A,OVERALL,Review of Research in Educational Studies,,22,92.136363636,3.3988156839999997,96.0,85.0,,,,,,,,,,5,17
 UBCV,2014,W,EDST,509,,081,Constructing Citizens: Canada and the Educational Past,Jason Ellis,17,88.411764706,2.42535625,92.0,83.0,,,,,,,,,,10,5
+UBCV,2014,W,EDST,509,,OVERALL,Constructing Citizens: Canada and the Educational Past,,17,88.411764706,2.42535625,92.0,83.0,,,,,,,,,,10,5
 UBCV,2014,W,EDST,511,,021,Organization and Administration of Higher Education,Amy Metcalfe,16,93.4375,3.0977142110000004,96.0,85.0,,,,,,,,,,,14
+UBCV,2014,W,EDST,511,,OVERALL,Organization and Administration of Higher Education,,16,93.4375,3.0977142110000004,96.0,85.0,,,,,,,,,,,14
 UBCV,2014,W,EDST,514,,021,Adult Education Program Planning Theory,Carolina Palacios,10,93.4,3.025814858,99.0,90.0,,,,,,,,,,,10
+UBCV,2014,W,EDST,514,,OVERALL,Adult Education Program Planning Theory,,10,93.4,3.025814858,99.0,90.0,,,,,,,,,,,10
 UBCV,2014,W,EDST,515,,022,Survey Research Methods,Lesley Coral Andres,12,85.5,2.50454133,90.0,82.0,,,,,,,,,5,6,
+UBCV,2014,W,EDST,515,,OVERALL,Survey Research Methods,,12,85.5,2.50454133,90.0,82.0,,,,,,,,,5,6,
 UBCV,2014,W,EDST,516,,021,Adult Education and Community,Jennifer Chan,10,84.8,1.032795559,86.0,83.0,,,,,,,,,,6,
+UBCV,2014,W,EDST,516,,OVERALL,Adult Education and Community,,10,84.8,1.032795559,86.0,83.0,,,,,,,,,,6,
 UBCV,2014,W,EDST,518,,022,Theory and Research on Adult Learning,Hongxia Shan,13,89.153846154,1.863963244,92.0,84.0,,,,,,,,,,7,5
+UBCV,2014,W,EDST,518,,OVERALL,Theory and Research on Adult Learning,,13,89.153846154,1.863963244,92.0,84.0,,,,,,,,,,7,5
 UBCV,2014,W,EDST,520,,021,Perspectives on Adult Education Practice,Shauna Butterwick,13,87.53846153799999,4.313068989,94.0,79.0,,,,,,,,,,6,5
+UBCV,2014,W,EDST,520,,OVERALL,Perspectives on Adult Education Practice,,13,87.53846153799999,4.313068989,94.0,79.0,,,,,,,,,,6,5
 UBCV,2014,W,EDST,521,,021,Foundations of Higher Education,Lesley Coral Andres,7,85.428571429,4.928053803,90.0,76.0,,,,,,,,,,,
-UBCV,2014,W,EDST,532,,62A,Leadership in Educational Organizations,Hartej Gill,16,91.8125,1.327591805,94.0,90.0,,,,,,,,,,,16
-UBCV,2014,W,EDST,532,,021,Leadership in Educational Organizations,Wendy Poole,20,86.25,3.9719410610000003,94.0,79.0,,,,,,,,,,11,
+UBCV,2014,W,EDST,521,,OVERALL,Foundations of Higher Education,,7,85.428571429,4.928053803,90.0,76.0,,,,,,,,,,,
+UBCV,2014,W,EDST,532,,021,Leadership in Educational Organizations,Wendy Poole,20,86.25,3.9719410610000003,94.0,79.0,,,,,,,,,,11,4
+UBCV,2014,W,EDST,532,,62A,Leadership in Educational Organizations,Hartej Gill,16,91.8125,1.327591805,94.0,90.0,,,,,,,,,,0,16
+UBCV,2014,W,EDST,532,,OVERALL,Leadership in Educational Organizations,,36,88.72222222200001,4.144608278,94.0,79.0,,,,,,,,,,11,20
 UBCV,2014,W,EDST,535,,021,Comparative and International Adult Education,Judith Walker,9,87.666666667,4.153311931,94.0,82.0,,,,,,,,,,,
+UBCV,2014,W,EDST,535,,OVERALL,Comparative and International Adult Education,,9,87.666666667,4.153311931,94.0,82.0,,,,,,,,,,,
 UBCV,2014,W,EDST,540,A,021,Locating Oneself in Global Learning,Garnet Grosjean,16,86.25,4.203173404,95.0,80.0,,,,,,,,,6,6,
+UBCV,2014,W,EDST,540,A,OVERALL,Locating Oneself in Global Learning,,16,86.25,4.203173404,95.0,80.0,,,,,,,,,6,6,
 UBCV,2014,W,EDST,540,B,022,Locating Oneself in Global Learning,Garnet Grosjean,21,81.904761905,8.825558122999999,92.0,62.0,,,,,,,,,5,5,5
+UBCV,2014,W,EDST,540,B,OVERALL,Locating Oneself in Global Learning,,21,81.904761905,8.825558122999999,92.0,62.0,,,,,,,,,5,5,5
 UBCV,2014,W,EDST,541,,021,Adult Learning: Contexts and Perspectives,,15,84.2,7.282071919,90.0,62.0,,,,,,,,,,7,5
+UBCV,2014,W,EDST,541,,OVERALL,Adult Learning: Contexts and Perspectives,,15,84.2,7.282071919,90.0,62.0,,,,,,,,,,7,5
 UBCV,2014,W,EDST,543,,022,Understanding Research,,21,82.666666667,4.453463072,90.0,76.0,,,,,,,,6,,14,
+UBCV,2014,W,EDST,543,,OVERALL,Understanding Research,,21,82.666666667,4.453463072,90.0,76.0,,,,,,,,6,,14,
 UBCV,2014,W,EDST,544,,021,Global/Local Learning,,21,88.619047619,3.3981787839999997,90.0,76.0,,,,,,,,,,,17
-UBCV,2014,W,EDST,553,A,62A,Group Inquiry into Educational Practices,Andre Mazawi,21,94.0,0.0,94.0,94.0,,,,,,,,,,,21
-UBCV,2014,W,EDST,553,A,62B,Group Inquiry into Educational Practices,Elaine Decker,17,87.058823529,6.056717224,90.0,71.0,,,,,,,,,,12,
+UBCV,2014,W,EDST,544,,OVERALL,Global/Local Learning,,21,88.619047619,3.3981787839999997,90.0,76.0,,,,,,,,,,,17
 UBCV,2014,W,EDST,553,A,022,Group Inquiry into Educational Practices,Wendy Poole,7,90.571428571,1.812653934,92.0,88.0,,,,,,,,,,,5
+UBCV,2014,W,EDST,553,A,62A,Group Inquiry into Educational Practices,Andre Mazawi,21,94.0,0.0,94.0,94.0,,,,,,,,,,,21
+UBCV,2014,W,EDST,553,A,62B,Group Inquiry into Educational Practices,Elaine Decker,17,87.058823529,6.056717224,90.0,71.0,,,,,,,,,,12,3
+UBCV,2014,W,EDST,553,A,OVERALL,Group Inquiry into Educational Practices,,45,90.84444444399999,4.908043285,94.0,71.0,,,,,,,,,,14,29
 UBCV,2014,W,EDST,565,A,082,Special Course in Subject Matter Field,Elaine Decker,19,94.842105263,2.455451031,99.0,90.0,,,,,,,,,,,19
+UBCV,2014,W,EDST,565,A,OVERALL,Special Course in Subject Matter Field,,19,94.842105263,2.455451031,99.0,90.0,,,,,,,,,,,19
 UBCV,2014,W,EDST,565,D,081,Special Course in Subject Matter Field,,6,88.5,4.847679857,93.0,82.0,,,,,,,,,,,
+UBCV,2014,W,EDST,565,D,OVERALL,Special Course in Subject Matter Field,,6,88.5,4.847679857,93.0,82.0,,,,,,,,,,,
 UBCV,2014,W,EDST,571,,021,"Educational Research: Relating Questions, Theory, and Methodology",Claudia Ruitenberg;Hongxia Shan,13,88.30769230799999,3.301126459,93.0,84.0,,,,,,,,,,5,5
+UBCV,2014,W,EDST,571,,OVERALL,"Educational Research: Relating Questions, Theory, and Methodology",,13,88.30769230799999,3.301126459,93.0,84.0,,,,,,,,,,5,5
 UBCV,2014,W,EDST,575,,082,Work and Learning,Judith Walker,13,87.53846153799999,4.332347028,96.0,83.0,,,,,,,,,,9,
-UBCV,2014,W,EDST,577,,081,"Social Contexts of Educational Policy, Politics and Practice",Deirdre Kelly,18,86.5,2.4070973490000003,90.0,79.0,,,,,,,,,,15,
-UBCV,2014,W,EDST,577,,082,"Social Contexts of Educational Policy, Politics and Practice",Fei Wang;Vanessa De Oliveira Andreotti,11,89.454545455,3.531674854,92.0,85.0,,,,,,,,,,,7
+UBCV,2014,W,EDST,575,,OVERALL,Work and Learning,,13,87.53846153799999,4.332347028,96.0,83.0,,,,,,,,,,9,
+UBCV,2014,W,EDST,577,,081,"Social Contexts of Educational Policy, Politics and Practice",Deirdre Kelly,18,86.5,2.4070973490000003,90.0,79.0,,,,,,,,,,15,2
+UBCV,2014,W,EDST,577,,082,"Social Contexts of Educational Policy, Politics and Practice",Fei Wang;Vanessa De Oliveira Andreotti,11,89.454545455,3.531674854,92.0,85.0,,,,,,,,,,4,7
+UBCV,2014,W,EDST,577,,OVERALL,"Social Contexts of Educational Policy, Politics and Practice",,29,87.620689655,3.178204717,92.0,79.0,,,,,,,,,,19,9
 UBCV,2014,W,EDST,578,,081,Multiculturalism and its Critical Alternatives: Diversity in Education and Society,Handel Wright,12,88.833333333,1.4668044009999999,91.0,87.0,,,,,,,,,,7,5
+UBCV,2014,W,EDST,578,,OVERALL,Multiculturalism and its Critical Alternatives: Diversity in Education and Society,,12,88.833333333,1.4668044009999999,91.0,87.0,,,,,,,,,,7,5
 UBCV,2014,W,EDST,580,B,082,Directed Study,,8,90.625,2.55999442,95.0,86.0,,,,,,,,,,,7
+UBCV,2014,W,EDST,580,B,OVERALL,Directed Study,,8,90.625,2.55999442,95.0,86.0,,,,,,,,,,,7
 UBCV,2014,W,EDST,581,,022,"Leadership, Administration, and the Aims of Education",Elaine Decker,25,85.92,2.706781607,93.0,80.0,,,,,,,,,6,17,
-UBCV,2014,W,EDST,582,,61A,The Study of Educational Organizations,Fei Wang,17,86.470588235,2.153997651,90.0,82.0,,,,,,,,,,12,
-UBCV,2014,W,EDST,582,,021,The Study of Educational Organizations,Wendy Poole,20,89.75,2.268201235,92.0,83.0,,,,,,,,,,,15
+UBCV,2014,W,EDST,581,,OVERALL,"Leadership, Administration, and the Aims of Education",,25,85.92,2.706781607,93.0,80.0,,,,,,,,,6,17,
+UBCV,2014,W,EDST,582,,021,The Study of Educational Organizations,Wendy Poole,20,89.75,2.268201235,92.0,83.0,,,,,,,,,,4,15
+UBCV,2014,W,EDST,582,,61A,The Study of Educational Organizations,Fei Wang,17,86.470588235,2.153997651,90.0,82.0,,,,,,,,,,12,2
+UBCV,2014,W,EDST,582,,OVERALL,The Study of Educational Organizations,,37,88.243243243,2.742721736,92.0,82.0,,,,,,,,,,16,17
 UBCV,2014,W,EDST,597,,021,"Educational Theories: Equality, Democracy, and Justice",Samuel Rocha Perkerwicz,14,89.071428571,3.149219335,96.0,83.0,,,,,,,,,,8,5
+UBCV,2014,W,EDST,597,,OVERALL,"Educational Theories: Equality, Democracy, and Justice",,14,89.071428571,3.149219335,96.0,83.0,,,,,,,,,,8,5
+UBCV,2014,W,EDST,599,C,OVERALL,Master's Thesis,,5,90.0,7.842193571,98.0,78.0,,,,,,,,,,,

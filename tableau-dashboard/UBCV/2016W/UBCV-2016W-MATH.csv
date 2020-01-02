@@ -1,209 +1,297 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,MATH,100,,1CH,Differential Calculus with Applications to Physical Sciences and Engineering,,8,89.625,6.300510182999999,99.0,80.0,,,,,,,,,,,
 UBCV,2016,W,MATH,100,,102,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Elyse Yeager,163,65.055214724,15.511147538,95.0,7.0,15,21,16,15,20,13,21,10,20,7,5
 UBCV,2016,W,MATH,100,,103,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Young-Heon Kim,194,70.721649485,13.173408817,95.0,5.0,10,10,14,13,14,29,26,23,36,10,9
 UBCV,2016,W,MATH,100,,104,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Elyse Yeager,128,61.0703125,15.947346233,88.0,0.0,21,11,19,11,13,19,14,11,7,,
 UBCV,2016,W,MATH,100,,105,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer,350,65.517142857,14.631617562999999,96.0,1.0,37,41,25,37,40,40,40,26,39,16,9
 UBCV,2016,W,MATH,100,,107,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Siamak Taati,107,69.242990654,13.816752971,93.0,18.0,6,6,9,8,12,15,9,17,17,,
 UBCV,2016,W,MATH,100,,109,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Patrick Walls,115,70.52173913,12.649351849,94.0,40.0,,12,12,8,,11,21,11,16,11,5
-UBCV,2016,W,MATH,100,,V01,Differential Calculus with Applications to Physical Sciences and Engineering,Fok-Shuen Leung,102,64.411764706,18.388197324,95.0,14.0,17,5,6,9,10,13,13,7,11,9,
+UBCV,2016,W,MATH,100,,1CH,Differential Calculus with Applications to Physical Sciences and Engineering,,8,89.625,6.300510182999999,99.0,80.0,,0,0,0,,0,0,0,1,,
+UBCV,2016,W,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,1167,66.733504713,15.149968439,99.0,0.0,110,106,101,101,113,140,144,105,147,62,38
+UBCV,2016,W,MATH,100,,V01,Differential Calculus with Applications to Physical Sciences and Engineering,Fok-Shuen Leung,102,64.411764706,18.388197324,95.0,14.0,17,5,6,9,10,13,13,7,11,9,2.0
 UBCV,2016,W,MATH,101,,201,Integral Calculus with Applications to Physical Sciences and Engineering,Fok-Shuen Leung;Gregory Martin,107,61.046728972,19.271341112,95.0,0.0,23,13,7,11,12,8,7,8,7,6,5
-UBCV,2016,W,MATH,101,,202,Integral Calculus with Applications to Physical Sciences and Engineering,Balin Fleming;Gregory Martin,116,67.39655172399999,14.347173217,91.0,27.0,10,7,17,10,12,12,11,7,15,13,
-UBCV,2016,W,MATH,101,,203,Integral Calculus with Applications to Physical Sciences and Engineering,Balin Fleming;Gregory Martin,102,65.441176471,16.885504668,91.0,0.0,14,11,9,7,13,5,11,8,11,9,
-UBCV,2016,W,MATH,101,,205,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Lee Troupe,115,68.89565217399999,16.824363033,93.0,6.0,10,9,9,7,8,14,10,11,19,15,
+UBCV,2016,W,MATH,101,,202,Integral Calculus with Applications to Physical Sciences and Engineering,Balin Fleming;Gregory Martin,116,67.39655172399999,14.347173217,91.0,27.0,10,7,17,10,12,12,11,7,15,13,2.0
+UBCV,2016,W,MATH,101,,203,Integral Calculus with Applications to Physical Sciences and Engineering,Balin Fleming;Gregory Martin,102,65.441176471,16.885504668,91.0,0.0,14,11,9,7,13,5,11,8,11,9,4.0
+UBCV,2016,W,MATH,101,,205,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Lee Troupe,115,68.89565217399999,16.824363033,93.0,6.0,10,9,9,7,8,14,10,11,19,15,3.0
 UBCV,2016,W,MATH,101,,206,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Lior Silberman,189,73.333333333,12.68480411,97.0,37.0,6,12,11,15,9,16,25,21,36,27,11
-UBCV,2016,W,MATH,101,,207,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Roberto Pirisi,53,65.698113208,15.969423796,94.0,16.0,7,,,8,6,,5,,9,,
-UBCV,2016,W,MATH,101,,209,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Joel Feldman,194,68.128865979,14.671140885,92.0,15.0,19,8,26,13,16,21,23,17,29,18,
-UBCV,2016,W,MATH,101,,210,Integral Calculus with Applications to Physical Sciences and Engineering,Avner Segal;Gregory Martin,75,60.266666666999996,17.102499685999998,84.0,15.0,13,11,8,7,5,12,,,12,,
-UBCV,2016,W,MATH,101,,211,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin,283,55.992932861999996,19.853361888,89.0,0.0,83,37,29,19,25,17,25,14,25,9,
+UBCV,2016,W,MATH,101,,207,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Roberto Pirisi,53,65.698113208,15.969423796,94.0,16.0,7,4,4,8,6,3,5,,9,,
+UBCV,2016,W,MATH,101,,209,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Joel Feldman,194,68.128865979,14.671140885,92.0,15.0,19,8,26,13,16,21,23,17,29,18,4.0
+UBCV,2016,W,MATH,101,,210,Integral Calculus with Applications to Physical Sciences and Engineering,Avner Segal;Gregory Martin,75,60.266666666999996,17.102499685999998,84.0,15.0,13,11,8,7,5,12,4,,12,,
+UBCV,2016,W,MATH,101,,211,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin,283,55.992932861999996,19.853361888,89.0,0.0,83,37,29,19,25,17,25,14,25,9,0.0
 UBCV,2016,W,MATH,101,,213,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Zichun Ye,69,63.652173913,14.695763782,88.0,25.0,11,8,8,5,5,6,11,,8,,
+UBCV,2016,W,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,1387,64.684931507,17.351250211,97.0,0.0,203,131,139,111,117,126,143,96,182,105,34
 UBCV,2016,W,MATH,101,,V01,Integral Calculus with Applications to Physical Sciences and Engineering,Fok-Shuen Leung;Pamela Sargent;Vanessa Radzimski,84,64.916666667,14.250942335,97.0,5.0,7,11,11,9,6,12,11,,11,,
-UBCV,2016,W,MATH,102,,101,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,149,72.66442953,14.542394101,93.0,17.0,12,,7,11,8,14,16,19,36,18,6
-UBCV,2016,W,MATH,102,,102,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Marc Stephan;Rebeca Cardim Falcao,69,71.289855072,13.121716899,94.0,29.0,,,5,,5,8,12,9,12,,5
-UBCV,2016,W,MATH,102,,103,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao;Tai-Peng Tsai,96,60.447916667,17.566636914,93.0,7.0,19,15,11,8,7,10,5,,10,6,
+UBCV,2016,W,MATH,102,,101,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,149,72.66442953,14.542394101,93.0,17.0,12,2.0,7,11,8,14,16,19,36,18,6
+UBCV,2016,W,MATH,102,,102,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Marc Stephan;Rebeca Cardim Falcao,69,71.289855072,13.121716899,94.0,29.0,,,5,,5,8,12,9,12,2.0,5
+UBCV,2016,W,MATH,102,,103,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao;Tai-Peng Tsai,96,60.447916667,17.566636914,93.0,7.0,19,15,11,8,7,10,5,3,10,6,2.0
 UBCV,2016,W,MATH,102,,104,Differential Calculus with Applications to Life Sciences,Ali Roustaei;Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,94,74.914893617,13.344613165,96.0,27.0,,5,,6,6,12,6,9,20,15,9
-UBCV,2016,W,MATH,102,,105,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Pooya Ronagh;Rebeca Cardim Falcao,74,75.459459459,15.578514524000001,94.0,20.0,6,,,,,5,,13,19,10,9
+UBCV,2016,W,MATH,102,,105,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Pooya Ronagh;Rebeca Cardim Falcao,74,75.459459459,15.578514524000001,94.0,20.0,6,,,,2,5,3,13,19,10,9
 UBCV,2016,W,MATH,102,,106,Differential Calculus with Applications to Life Sciences,Cole Zmurchok;Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,128,69.8046875,15.197937383,97.0,22.0,10,11,10,12,6,12,14,14,19,11,9
-UBCV,2016,W,MATH,102,,107,Differential Calculus with Applications to Life Sciences,Adam Gyenge;Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,75,64.76,13.690438565,97.0,33.0,9,10,9,6,5,7,12,6,7,,
-UBCV,2016,W,MATH,102,,110,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Nathaniel Bade;Rebeca Cardim Falcao,154,73.11038961,13.274163655999999,97.0,19.0,8,,11,10,11,19,19,16,29,15,12
+UBCV,2016,W,MATH,102,,107,Differential Calculus with Applications to Life Sciences,Adam Gyenge;Edward Alexander Belk;Eric Cytrynbaum;Rebeca Cardim Falcao,75,64.76,13.690438565,97.0,33.0,9,10,9,6,5,7,12,6,7,3.0,1.0
+UBCV,2016,W,MATH,102,,110,Differential Calculus with Applications to Life Sciences,Edward Alexander Belk;Eric Cytrynbaum;Nathaniel Bade;Rebeca Cardim Falcao,154,73.11038961,13.274163655999999,97.0,19.0,8,4.0,11,10,11,19,19,16,29,15,12
+UBCV,2016,W,MATH,102,,OVERALL,Differential Calculus with Applications to Life Sciences,,839,70.591179976,15.232203307,97.0,7.0,71,52,59,59,50,87,87,89,152,80,53
 UBCV,2016,W,MATH,103,,201,Integral Calculus with Applications to Life Sciences,Christoph Hauert,214,66.73364486,15.362874853,98.0,7.0,22,23,19,26,17,15,27,18,21,11,15
-UBCV,2016,W,MATH,103,,202,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Saikat Mazumdar,74,70.77027027,12.826072865,94.0,35.0,,8,8,7,,6,11,6,11,9,
+UBCV,2016,W,MATH,103,,202,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Saikat Mazumdar,74,70.77027027,12.826072865,94.0,35.0,1.0,8,8,7,4.0,6,11,6,11,9,3.0
 UBCV,2016,W,MATH,103,,203,Integral Calculus with Applications to Life Sciences,Christoph Hauert,130,70.26923076899999,14.282199285999999,98.0,25.0,12,5,9,10,18,20,7,11,16,13,9
-UBCV,2016,W,MATH,103,,206,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Dijana Kreso,76,67.289473684,15.319543760999998,98.0,23.0,6,8,10,10,,8,6,,10,5,6
+UBCV,2016,W,MATH,103,,206,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Dijana Kreso,76,67.289473684,15.319543760999998,98.0,23.0,6,8,10,10,4.0,8,6,3,10,5,6
 UBCV,2016,W,MATH,103,,207,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Martin Lohmann,121,65.38016528899999,15.367854002,97.0,23.0,18,10,18,13,8,13,8,5,11,10,7
-UBCV,2016,W,MATH,103,,208,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Samantha Dahlberg,77,65.74025974,14.971378480999999,97.0,18.0,9,8,9,6,10,5,10,5,7,,5
-UBCV,2016,W,MATH,103,,209,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Samantha Dahlberg,117,65.606837607,16.835388254,93.0,0.0,17,12,12,9,8,12,10,9,10,14,
-UBCV,2016,W,MATH,103,,212,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Nathaniel Bade,147,72.353741497,14.174935780999999,98.0,35.0,,10,15,16,16,12,12,13,11,19,19
+UBCV,2016,W,MATH,103,,208,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Samantha Dahlberg,77,65.74025974,14.971378480999999,97.0,18.0,9,8,9,6,10,5,10,5,7,3.0,5
+UBCV,2016,W,MATH,103,,209,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Samantha Dahlberg,117,65.606837607,16.835388254,93.0,0.0,17,12,12,9,8,12,10,9,10,14,4.0
+UBCV,2016,W,MATH,103,,212,Integral Calculus with Applications to Life Sciences,Christoph Hauert;Nathaniel Bade,147,72.353741497,14.174935780999999,98.0,35.0,4.0,10,15,16,16,12,12,13,11,19,19
+UBCV,2016,W,MATH,103,,OVERALL,Integral Calculus with Applications to Life Sciences,,956,68.046025105,15.180656433,98.0,0.0,89,84,100,97,85,91,91,70,97,84,68
 UBCV,2016,W,MATH,104,,101,Differential Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Shawn Desaulniers,168,68.857142857,14.404875137000001,98.0,27.0,14,14,12,10,13,23,28,15,17,11,11
 UBCV,2016,W,MATH,104,,102,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers,190,69.831578947,16.193703546,97.0,8.0,17,13,13,7,21,22,26,10,23,20,18
-UBCV,2016,W,MATH,104,,103,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers,125,65.48,18.642476646,97.0,20.0,21,13,8,11,8,15,15,,10,8,14
-UBCV,2016,W,MATH,104,,104,Differential Calculus with Applications to Commerce and Social Sciences,Amir Maleki Zamenjani;Shawn Desaulniers,88,67.443181818,14.921139794,98.0,25.0,10,8,,11,6,14,12,,11,,6
-UBCV,2016,W,MATH,104,,105,Differential Calculus with Applications to Commerce and Social Sciences,Laura Cladek;Shawn Desaulniers,77,67.441558442,13.499993670999999,99.0,37.0,7,8,7,7,5,11,10,7,9,,
+UBCV,2016,W,MATH,104,,103,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers,125,65.48,18.642476646,97.0,20.0,21,13,8,11,8,15,15,2.0,10,8,14
+UBCV,2016,W,MATH,104,,104,Differential Calculus with Applications to Commerce and Social Sciences,Amir Maleki Zamenjani;Shawn Desaulniers,88,67.443181818,14.921139794,98.0,25.0,10,8,3,11,6,14,12,3.0,11,4.0,6
+UBCV,2016,W,MATH,104,,105,Differential Calculus with Applications to Commerce and Social Sciences,Laura Cladek;Shawn Desaulniers,77,67.441558442,13.499993670999999,99.0,37.0,7,8,7,7,5,11,10,7,9,2.0,4
 UBCV,2016,W,MATH,104,,106,Differential Calculus with Applications to Commerce and Social Sciences,Shawn Desaulniers;Tobias Huxol,113,64.592920354,17.561950128,97.0,0.0,17,12,11,10,7,14,11,8,9,6,8
-UBCV,2016,W,MATH,104,,108,Differential Calculus with Applications to Commerce and Social Sciences,Avner Segal;Shawn Desaulniers,79,66.696202532,18.130831108,99.0,4.0,9,8,8,,6,12,6,6,10,5,6
+UBCV,2016,W,MATH,104,,108,Differential Calculus with Applications to Commerce and Social Sciences,Avner Segal;Shawn Desaulniers,79,66.696202532,18.130831108,99.0,4.0,9,8,8,3.0,6,12,6,6,10,5,6
 UBCV,2016,W,MATH,104,,109,Differential Calculus with Applications to Commerce and Social Sciences,Roberto Pirisi;Shawn Desaulniers,94,69.11702127699999,13.380981835999998,98.0,31.0,6,10,7,9,8,9,10,13,9,8,5
-UBCV,2016,W,MATH,105,,201,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Marc Stephan,105,62.99047619,17.762587757000002,92.0,9.0,18,10,14,7,8,7,16,7,8,6,
+UBCV,2016,W,MATH,104,,OVERALL,Differential Calculus with Applications to Commerce and Social Sciences,,934,67.680942184,16.053264795,99.0,0.0,101,86,69,68,74,120,118,64,98,64,72
+UBCV,2016,W,MATH,105,,201,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Marc Stephan,105,62.99047619,17.762587757000002,92.0,9.0,18,10,14,7,8,7,16,7,8,6,4.0
 UBCV,2016,W,MATH,105,,202,Integral Calculus with Applications to Commerce and Social Sciences,Adam Gyenge;Keqin Liu,75,66.813333333,18.597219593,91.0,0.0,10,7,,5,6,10,6,6,11,,7
 UBCV,2016,W,MATH,105,,203,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu,217,64.834101382,16.439849346,94.0,0.0,30,17,20,26,18,20,23,27,18,11,7
-UBCV,2016,W,MATH,105,,204,Integral Calculus with Applications to Commerce and Social Sciences,Elyse Yeager;Keqin Liu,120,67.341666667,14.264309244000001,97.0,0.0,9,11,7,12,20,9,18,14,9,7,
+UBCV,2016,W,MATH,105,,204,Integral Calculus with Applications to Commerce and Social Sciences,Elyse Yeager;Keqin Liu,120,67.341666667,14.264309244000001,97.0,0.0,9,11,7,12,20,9,18,14,9,7,4.0
 UBCV,2016,W,MATH,105,,205,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu,118,69.220338983,15.945492407,95.0,5.0,8,8,10,10,12,8,15,15,16,6,10
-UBCV,2016,W,MATH,105,,207,Integral Calculus with Applications to Commerce and Social Sciences,Daniel Rakotonirina;Keqin Liu,69,63.898550725,17.586880912,93.0,14.0,13,6,,7,,11,7,5,7,,
+UBCV,2016,W,MATH,105,,207,Integral Calculus with Applications to Commerce and Social Sciences,Daniel Rakotonirina;Keqin Liu,69,63.898550725,17.586880912,93.0,14.0,13,6,,7,4,11,7,5,7,,
 UBCV,2016,W,MATH,105,,208,Integral Calculus with Applications to Commerce and Social Sciences,Elyse Yeager;Keqin Liu,209,68.196172249,15.286204964000001,99.0,8.0,20,11,18,14,14,36,30,24,20,12,10
-UBCV,2016,W,MATH,105,,209,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Tobias Huxol,77,67.480519481,15.736824387999999,96.0,5.0,9,,6,7,8,9,14,8,10,,
-UBCV,2016,W,MATH,105,,211,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Man Shun Ma,77,61.662337662,17.526378907999998,90.0,7.0,14,9,8,7,9,8,,6,6,,
-UBCV,2016,W,MATH,110,,001,Differential Calculus,Costanza Piccolo;Mallory Flynn;Niki Mavraki,94,54.255319148999995,21.281490857999998,90.0,6.0,29,13,10,5,7,10,5,,6,,
-UBCV,2016,W,MATH,110,,003,Differential Calculus,Costanza Piccolo;Richard Wade,89,64.0,16.484152169,96.0,0.0,12,9,7,14,9,10,9,5,,5,5
+UBCV,2016,W,MATH,105,,209,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Tobias Huxol,77,67.480519481,15.736824387999999,96.0,5.0,9,1,6,7,8,9,14,8,10,,
+UBCV,2016,W,MATH,105,,211,Integral Calculus with Applications to Commerce and Social Sciences,Keqin Liu;Man Shun Ma,77,61.662337662,17.526378907999998,90.0,7.0,14,9,8,7,9,8,4,6,6,,
+UBCV,2016,W,MATH,105,,OVERALL,Integral Calculus with Applications to Commerce and Social Sciences,,1067,66.119025305,16.442459901,99.0,0.0,131,80,90,95,99,118,133,112,105,52,52
+UBCV,2016,W,MATH,110,,001,Differential Calculus,Costanza Piccolo;Mallory Flynn;Niki Mavraki,94,54.255319148999995,21.281490857999998,90.0,6.0,29,13,10,5,7,10,5,3,6,,
+UBCV,2016,W,MATH,110,,003,Differential Calculus,Costanza Piccolo;Richard Wade,89,64.0,16.484152169,96.0,0.0,12,9,7,14,9,10,9,5,4.0,5,5
 UBCV,2016,W,MATH,110,,004,Differential Calculus,Costanza Piccolo,92,62.402173913,16.015143783,98.0,9.0,14,7,12,13,11,11,5,8,6,,
+UBCV,2016,W,MATH,110,,OVERALL,Differential Calculus,,275,60.134545455,18.563760888,98.0,0.0,55,29,29,32,27,31,19,16,16,11,10
 UBCV,2016,W,MATH,120,,101,Honours Differential Calculus,Joshua Zahl,29,73.034482759,19.841303886,100.0,0.0,,,,,,,,,,,5
+UBCV,2016,W,MATH,120,,OVERALL,Honours Differential Calculus,,29,73.034482759,19.841303886,100.0,0.0,,,,,,,,,,,5
 UBCV,2016,W,MATH,121,,201,Honours Integral Calculus,Young-Heon Kim,26,80.923076923,19.282993703,98.0,0.0,,,,,,,,,7,5,7
+UBCV,2016,W,MATH,121,,OVERALL,Honours Integral Calculus,,26,80.923076923,19.282993703,98.0,0.0,,,,,,,,,7,5,7
 UBCV,2016,W,MATH,152,,201,Linear Systems,Brian Thomas Wetton;Brian Wetton;Yue-Xian Li,173,68.21965317899999,15.249790920999999,100.0,0.0,16,16,12,19,15,16,20,15,26,8,10
 UBCV,2016,W,MATH,152,,202,Linear Systems,Brian Thomas Wetton;Brian Wetton;Jozsef Solymosi,150,66.966666667,14.037541548,97.0,19.0,14,9,11,20,25,19,9,16,11,10,6
-UBCV,2016,W,MATH,152,,205,Linear Systems,Brian Thomas Wetton;Brian Wetton;Elyse Yeager,126,65.111111111,12.401433609000001,93.0,34.0,10,14,17,14,12,13,20,10,10,5,
-UBCV,2016,W,MATH,152,,206,Linear Systems,Brian Thomas Wetton;Brian Wetton,188,65.196808511,14.290290275999999,90.0,0.0,18,18,22,18,25,22,20,14,18,12,
-UBCV,2016,W,MATH,152,,208,Linear Systems,Brian Thomas Wetton;Brian Wetton;Sarafa Adewale Iyaniwura,90,67.988888889,14.579109608,94.0,13.0,6,8,5,10,11,10,16,,12,6,
+UBCV,2016,W,MATH,152,,205,Linear Systems,Brian Thomas Wetton;Brian Wetton;Elyse Yeager,126,65.111111111,12.401433609000001,93.0,34.0,10,14,17,14,12,13,20,10,10,5,1.0
+UBCV,2016,W,MATH,152,,206,Linear Systems,Brian Thomas Wetton;Brian Wetton,188,65.196808511,14.290290275999999,90.0,0.0,18,18,22,18,25,22,20,14,18,12,1.0
+UBCV,2016,W,MATH,152,,208,Linear Systems,Brian Thomas Wetton;Brian Wetton;Sarafa Adewale Iyaniwura,90,67.988888889,14.579109608,94.0,13.0,6,8,5,10,11,10,16,2,12,6,4.0
+UBCV,2016,W,MATH,152,,OVERALL,Linear Systems,,727,66.612104539,14.228875574000002,100.0,0.0,64,65,67,81,88,80,85,57,77,41,22
 UBCV,2016,W,MATH,180,,101,Differential Calculus with Physical Applications,Andrew Rechnitzer;Patrick Walls,213,59.215962441,13.270065925,94.0,8.0,40,26,34,28,28,24,16,5,8,,
-UBCV,2016,W,MATH,180,,102,Differential Calculus with Physical Applications,Andrew Rechnitzer;Nguyen Hoang Lam,89,59.02247191,16.949777102,92.0,2.0,19,11,11,11,10,9,7,,5,,
+UBCV,2016,W,MATH,180,,102,Differential Calculus with Physical Applications,Andrew Rechnitzer;Nguyen Hoang Lam,89,59.02247191,16.949777102,92.0,2.0,19,11,11,11,10,9,7,2,5,,
 UBCV,2016,W,MATH,180,,103,Differential Calculus with Physical Applications,Alain Prat;Andrew Rechnitzer,92,59.434782608999996,13.971166814000002,89.0,9.0,14,17,19,8,7,7,7,6,5,,
-UBCV,2016,W,MATH,184,,101,Differential Calculus for Social Science and Commerce,Keqin Liu;Shawn Desaulniers,99,62.60606060600001,13.9882007,91.0,0.0,12,13,14,13,,17,8,6,7,,
+UBCV,2016,W,MATH,180,,OVERALL,Differential Calculus with Physical Applications,,394,59.223350253999996,14.301759280999999,94.0,2.0,73,54,64,47,45,40,30,13,18,4.0,6
+UBCV,2016,W,MATH,184,,101,Differential Calculus for Social Science and Commerce,Keqin Liu;Shawn Desaulniers,99,62.60606060600001,13.9882007,91.0,0.0,12,13,14,13,4,17,8,6,7,,
 UBCV,2016,W,MATH,184,,102,Differential Calculus for Social Science and Commerce,Keqin Liu;Shawn Desaulniers,120,62.241666667,13.066729727,93.0,25.0,18,15,15,16,10,20,,10,7,,
 UBCV,2016,W,MATH,184,,103,Differential Calculus for Social Science and Commerce,Mohar Dey;Shawn Desaulniers,102,58.931372548999995,16.09148339,96.0,14.0,23,19,11,8,7,12,,5,10,,
 UBCV,2016,W,MATH,184,,104,Differential Calculus for Social Science and Commerce,Shawn Desaulniers;Uriya First,117,62.15384615399999,15.325556402,91.0,7.0,15,11,18,13,13,17,10,8,6,,
-UBCV,2016,W,MATH,184,,105,Differential Calculus for Social Science and Commerce,James Jingtao Feng;Shawn Desaulniers,207,62.285024155,15.038814437000001,98.0,0.0,42,17,18,22,19,35,17,14,14,,7
-UBCV,2016,W,MATH,184,,106,Differential Calculus for Social Science and Commerce,Lee Troupe;Shawn Desaulniers,119,61.378151261000006,14.905914875,93.0,8.0,21,15,14,11,12,19,11,,8,,
-UBCV,2016,W,MATH,190,,101,Calculus Survey,Andrew Rechnitzer;Matthew Coles;Matthew Preston Coles,95,66.957894737,17.160640139,95.0,17.0,13,8,6,11,13,5,7,9,,10,9
-UBCV,2016,W,MATH,200,,101,Calculus III,Albert Chau,136,65.433823529,16.210514286,97.0,19.0,18,16,14,9,13,14,9,11,20,8,
+UBCV,2016,W,MATH,184,,105,Differential Calculus for Social Science and Commerce,James Jingtao Feng;Shawn Desaulniers,207,62.285024155,15.038814437000001,98.0,0.0,42,17,18,22,19,35,17,14,14,2.0,7
+UBCV,2016,W,MATH,184,,106,Differential Calculus for Social Science and Commerce,Lee Troupe;Shawn Desaulniers,119,61.378151261000006,14.905914875,93.0,8.0,21,15,14,11,12,19,11,1,8,,
+UBCV,2016,W,MATH,184,,OVERALL,Differential Calculus for Social Science and Commerce,,764,61.710732983999996,14.781283195,98.0,0.0,131,90,90,83,65,120,54,44,52,17,18
+UBCV,2016,W,MATH,190,,101,Calculus Survey,Andrew Rechnitzer;Matthew Coles;Matthew Preston Coles,95,66.957894737,17.160640139,95.0,17.0,13,8,6,11,13,5,7,9,4.0,10,9
+UBCV,2016,W,MATH,190,,OVERALL,Calculus Survey,,95,66.957894737,17.160640139,95.0,17.0,13,8,6,11,13,5,7,9,4.0,10,9
+UBCV,2016,W,MATH,200,,101,Calculus III,Albert Chau,136,65.433823529,16.210514286,97.0,19.0,18,16,14,9,13,14,9,11,20,8,4.0
 UBCV,2016,W,MATH,200,,102,Calculus III,Albert Chau,139,64.316546763,15.731458362,98.0,17.0,18,23,9,13,10,18,12,10,15,5,6
 UBCV,2016,W,MATH,200,,103,Calculus III,Albert Chau;Dang Khoa Nguyen,103,69.310679612,16.0373517,95.0,28.0,12,6,6,8,8,12,12,6,14,8,11
 UBCV,2016,W,MATH,200,,104,Calculus III,Albert Chau;Dang Khoa Nguyen,131,67.79389313,14.223878924000001,96.0,35.0,9,19,15,15,10,7,13,7,17,10,9
-UBCV,2016,W,MATH,200,,105,Calculus III,Alastair Jamieson-Lane;Albert Chau,127,66.236220472,14.758616903,95.0,26.0,12,14,15,,20,17,12,9,12,8,5
+UBCV,2016,W,MATH,200,,105,Calculus III,Alastair Jamieson-Lane;Albert Chau,127,66.236220472,14.758616903,95.0,26.0,12,14,15,3.0,20,17,12,9,12,8,5
 UBCV,2016,W,MATH,200,,106,Calculus III,Albert Chau;Warren Code,142,64.23239436600001,15.836785212,97.0,0.0,13,19,14,23,9,18,14,10,10,5,7
-UBCV,2016,W,MATH,200,,107,Calculus III,Albert Chau;Liangming Shen,127,63.692913386,17.567336127,100.0,15.0,19,12,23,15,6,11,8,,16,6,10
-UBCV,2016,W,MATH,200,,201,Calculus III,Liangming Shen;Ozgur Yilmaz,113,63.539823008999996,17.547402839,99.0,5.0,16,16,9,8,14,9,13,8,11,,5
+UBCV,2016,W,MATH,200,,107,Calculus III,Albert Chau;Liangming Shen,127,63.692913386,17.567336127,100.0,15.0,19,12,23,15,6,11,8,1.0,16,6,10
+UBCV,2016,W,MATH,200,,201,Calculus III,Liangming Shen;Ozgur Yilmaz,113,63.539823008999996,17.547402839,99.0,5.0,16,16,9,8,14,9,13,8,11,4.0,5
 UBCV,2016,W,MATH,200,,202,Calculus III,Ozgur Yilmaz,121,68.11570247899999,17.322523913,96.0,0.0,10,9,10,9,11,13,19,11,12,7,10
 UBCV,2016,W,MATH,200,,203,Calculus III,Mathav Murugan;Ozgur Yilmaz,129,66.17054263600001,16.495323216,95.0,0.0,9,18,16,9,16,8,15,9,12,10,7
+UBCV,2016,W,MATH,200,,OVERALL,Calculus III,,1268,65.80362776,16.223432616,100.0,0.0,136,152,131,112,117,127,127,82,139,71,74
 UBCV,2016,W,MATH,210,,201,Introduction to Mathematical Computing,Patrick Walls,107,76.831775701,17.572752268,98.0,0.0,6,,,5,9,,10,8,11,26,22
-UBCV,2016,W,MATH,215,,101,Elementary Differential Equations I,Mona Rahmani;Richard Gerd Froese,28,65.428571429,19.042697777,90.0,29.0,6,5,,,,,,,,,
-UBCV,2016,W,MATH,215,,102,Elementary Differential Equations I,Richard Gerd Froese,50,68.1,19.033000343,99.0,0.0,6,,5,6,,6,6,,,5,5
-UBCV,2016,W,MATH,215,,103,Elementary Differential Equations I,Jun Yang;Richard Gerd Froese,25,68.68,22.402975993000002,100.0,21.0,,8,,,,,,,,,7
+UBCV,2016,W,MATH,210,,OVERALL,Introduction to Mathematical Computing,,107,76.831775701,17.572752268,98.0,0.0,6,,,5,9,,10,8,11,26,22
+UBCV,2016,W,MATH,215,,101,Elementary Differential Equations I,Mona Rahmani;Richard Gerd Froese,28,65.428571429,19.042697777,90.0,29.0,6,5,,,,,,,,,2
+UBCV,2016,W,MATH,215,,102,Elementary Differential Equations I,Richard Gerd Froese,50,68.1,19.033000343,99.0,0.0,6,1,5,6,,6,6,,,5,5
+UBCV,2016,W,MATH,215,,103,Elementary Differential Equations I,Jun Yang;Richard Gerd Froese,25,68.68,22.402975993000002,100.0,21.0,2,8,,,,,,,,,7
 UBCV,2016,W,MATH,215,,104,Elementary Differential Equations I,Emmanouil Daskalakis;Richard Gerd Froese,61,68.131147541,19.538402707,100.0,2.0,7,6,,,,9,,7,7,,7
-UBCV,2016,W,MATH,215,,201,Elementary Differential Equations I,Daniel Coombs;Dimitrios Roxanas,112,66.9375,20.274370831,99.0,8.0,16,12,12,9,7,5,7,,14,14,14
-UBCV,2016,W,MATH,215,,202,Elementary Differential Equations I,Daniel Coombs,118,65.745762712,18.450296568,99.0,1.0,19,12,,6,13,12,10,15,13,8,6
+UBCV,2016,W,MATH,215,,201,Elementary Differential Equations I,Daniel Coombs;Dimitrios Roxanas,112,66.9375,20.274370831,99.0,8.0,16,12,12,9,7,5,7,2.0,14,14,14
+UBCV,2016,W,MATH,215,,202,Elementary Differential Equations I,Daniel Coombs,118,65.745762712,18.450296568,99.0,1.0,19,12,4.0,6,13,12,10,15,13,8,6
+UBCV,2016,W,MATH,215,,OVERALL,Elementary Differential Equations I,,394,66.916243655,19.432681219000003,100.0,0.0,56,44,26,27,30,34,31,27,43,35,41
 UBCV,2016,W,MATH,217,,101,Multivariable and Vector Calculus,Ailana Fraser,92,74.989130435,12.179513122000001,98.0,31.0,,,,,11,15,10,16,14,7,11
+UBCV,2016,W,MATH,217,,OVERALL,Multivariable and Vector Calculus,,92,74.989130435,12.179513122000001,98.0,31.0,,,,,11,15,10,16,14,7,11
 UBCV,2016,W,MATH,220,,101,Mathematical Proof,Elyse Yeager;Jingyi Chen,67,63.014925373000004,16.876999354000002,100.0,19.0,10,9,10,5,,9,6,,5,,5
 UBCV,2016,W,MATH,220,,102,Mathematical Proof,Jingyi Chen;Samantha Dahlberg,69,66.52173913,13.717323414,98.0,32.0,5,6,9,6,10,6,12,6,,,
-UBCV,2016,W,MATH,220,,103,Mathematical Proof,Jingyi Chen,68,66.470588235,13.666027809000001,99.0,40.0,5,12,6,7,6,5,8,5,7,5,
+UBCV,2016,W,MATH,220,,103,Mathematical Proof,Jingyi Chen,68,66.470588235,13.666027809000001,99.0,40.0,5,12,6,7,6,5,8,5,7,5,2.0
 UBCV,2016,W,MATH,220,,104,Mathematical Proof,Jingyi Chen;Samantha Dahlberg,63,59.873015873,14.371221314000001,88.0,16.0,9,9,8,12,8,6,,,,,
-UBCV,2016,W,MATH,220,,105,Mathematical Proof,Brian Chan;Jingyi Chen;Julia Yulia Gordon,41,66.268292683,14.163375992999999,93.0,32.0,,,6,6,,,,,7,,
-UBCV,2016,W,MATH,220,,106,Mathematical Proof,Jingyi Chen;Seckin Demirbas,65,72.107692308,13.204074983,99.0,34.0,,5,,5,7,8,8,,11,8,5
+UBCV,2016,W,MATH,220,,105,Mathematical Proof,Brian Chan;Jingyi Chen;Julia Yulia Gordon,41,66.268292683,14.163375992999999,93.0,32.0,,3,6,6,,4,,,7,,
+UBCV,2016,W,MATH,220,,106,Mathematical Proof,Jingyi Chen;Seckin Demirbas,65,72.107692308,13.204074983,99.0,34.0,,5,4,5,7,8,8,,11,8,5
 UBCV,2016,W,MATH,220,,201,Mathematical Proof,Mahta Khosravi;Nathaniel Bade,64,67.21875,16.022274920999998,99.0,34.0,7,7,6,,10,9,,,5,,7
 UBCV,2016,W,MATH,220,,202,Mathematical Proof,Brett Kolesnik;Mahta Khosravi,63,69.777777778,16.550455060999997,100.0,40.0,5,7,9,5,,5,5,,10,8,7
 UBCV,2016,W,MATH,220,,203,Mathematical Proof,Mahta Khosravi,56,67.214285714,17.215969633,99.0,0.0,,6,9,,,5,5,,8,,5
+UBCV,2016,W,MATH,220,,OVERALL,Mathematical Proof,,556,66.492805755,15.417140994,100.0,0.0,50,64,67,53,52,57,53,29,60,36,35
 UBCV,2016,W,MATH,221,,101,Matrix Algebra,Justin Tzou;Vinayak Vatsal,134,62.156716418,17.953094473,97.0,15.0,33,12,10,11,13,11,10,9,5,10,10
 UBCV,2016,W,MATH,221,,102,Matrix Algebra,Vinayak Vatsal,145,64.496551724,18.502674032999998,98.0,22.0,35,10,15,5,9,11,12,8,22,6,12
 UBCV,2016,W,MATH,221,,103,Matrix Algebra,Vinayak Vatsal,187,63.983957219,16.548552201,100.0,23.0,35,18,20,12,19,21,17,9,14,14,8
-UBCV,2016,W,MATH,221,,104,Matrix Algebra,Timm Treskatis;Vinayak Vatsal,136,56.448529412,17.473713529,98.0,2.0,35,22,23,11,7,11,10,7,,,5
-UBCV,2016,W,MATH,221,,201,Matrix Algebra,Kai Behrend;Nguyen Hoang Lam,134,77.567164179,16.659097522,100.0,20.0,,9,12,5,,8,19,6,17,15,36
-UBCV,2016,W,MATH,221,,202,Matrix Algebra,Kai Behrend,108,69.148148148,20.170680496,100.0,12.0,16,9,10,,7,7,14,6,7,8,20
+UBCV,2016,W,MATH,221,,104,Matrix Algebra,Timm Treskatis;Vinayak Vatsal,136,56.448529412,17.473713529,98.0,2.0,35,22,23,11,7,11,10,7,4,1.0,5
+UBCV,2016,W,MATH,221,,201,Matrix Algebra,Kai Behrend;Nguyen Hoang Lam,134,77.567164179,16.659097522,100.0,20.0,4,9,12,5,3,8,19,6,17,15,36
+UBCV,2016,W,MATH,221,,202,Matrix Algebra,Kai Behrend,108,69.148148148,20.170680496,100.0,12.0,16,9,10,4.0,7,7,14,6,7,8,20
 UBCV,2016,W,MATH,221,,203,Matrix Algebra,Amir Esteghamatian;Kai Behrend,96,67.229166667,18.733858549,100.0,5.0,11,7,10,11,9,10,6,9,5,6,12
-UBCV,2016,W,MATH,221,,204,Matrix Algebra,Daniel Collins;Kai Behrend,121,67.05785124,15.403082765,97.0,0.0,7,15,9,12,12,16,12,18,10,,6
-UBCV,2016,W,MATH,221,,205,Matrix Algebra,Kai Behrend;Kam Fai Tam,109,68.834862385,17.015523284,97.0,22.0,12,10,8,6,12,10,10,,16,7,14
+UBCV,2016,W,MATH,221,,204,Matrix Algebra,Daniel Collins;Kai Behrend,121,67.05785124,15.403082765,97.0,0.0,7,15,9,12,12,16,12,18,10,4.0,6
+UBCV,2016,W,MATH,221,,205,Matrix Algebra,Kai Behrend;Kam Fai Tam,109,68.834862385,17.015523284,97.0,22.0,12,10,8,6,12,10,10,4.0,16,7,14
+UBCV,2016,W,MATH,221,,OVERALL,Matrix Algebra,,1170,66.03076923100001,18.346463481,100.0,0.0,188,112,117,77,91,105,110,76,100,71,123
 UBCV,2016,W,MATH,223,,101,Linear Algebra,Richard Anstee,54,76.518518519,14.704306570999998,100.0,12.0,,,,,,5,5,6,11,7,10
-UBCV,2016,W,MATH,223,,201,Linear Algebra,Yaniv Plan,22,77.727272727,17.574824575999997,99.0,14.0,,,,,,,,,,,5
+UBCV,2016,W,MATH,223,,201,Linear Algebra,Yaniv Plan,22,77.727272727,17.574824575999997,99.0,14.0,,,,,,4,2,2,4,3,5
+UBCV,2016,W,MATH,223,,OVERALL,Linear Algebra,,76,76.868421053,15.478451348,100.0,12.0,,,,,,9,7,8,15,10,15
 UBCV,2016,W,MATH,226,,101,Advanced Calculus I,Izabella Laba,59,78.338983051,15.80769146,97.0,11.0,,,,,,5,6,5,10,14,11
+UBCV,2016,W,MATH,226,,OVERALL,Advanced Calculus I,,59,78.338983051,15.80769146,97.0,11.0,,,,,,5,6,5,10,14,11
 UBCV,2016,W,MATH,227,,201,Advanced Calculus II,Brian Harry Marcus,29,77.310344828,18.445098939,100.0,14.0,,,,,,,,,,7,7
+UBCV,2016,W,MATH,227,,OVERALL,Advanced Calculus II,,29,77.310344828,18.445098939,100.0,14.0,,,,,,,,,,7,7
 UBCV,2016,W,MATH,253,,101,Multivariable Calculus,Colin Macdonald,205,72.0,13.117493185,99.0,28.0,5,15,12,18,28,22,18,27,18,21,21
-UBCV,2016,W,MATH,253,,102,Multivariable Calculus,Colin Macdonald;Nathaniel Bade,170,74.364705882,11.762287604,97.0,2.0,5,,7,8,15,21,33,25,25,16,13
-UBCV,2016,W,MATH,253,,103,Multivariable Calculus,Colin Macdonald;Mathav Murugan,156,76.00641025600001,12.062470080999999,98.0,36.0,,6,9,9,9,16,19,22,19,27,18
-UBCV,2016,W,MATH,253,,105,Multivariable Calculus,Colin Macdonald;Richard Balka,154,72.948051948,12.933107037000001,99.0,0.0,7,,8,8,15,23,27,19,22,10,13
-UBCV,2016,W,MATH,253,,201,Multivariable Calculus,Patrick Walls,107,73.68224299100001,13.949773874000002,99.0,0.0,,,6,6,5,19,13,14,22,8,9
+UBCV,2016,W,MATH,253,,102,Multivariable Calculus,Colin Macdonald;Nathaniel Bade,170,74.364705882,11.762287604,97.0,2.0,5,2.0,7,8,15,21,33,25,25,16,13
+UBCV,2016,W,MATH,253,,103,Multivariable Calculus,Colin Macdonald;Mathav Murugan,156,76.00641025600001,12.062470080999999,98.0,36.0,2.0,6,9,9,9,16,19,22,19,27,18
+UBCV,2016,W,MATH,253,,105,Multivariable Calculus,Colin Macdonald;Richard Balka,154,72.948051948,12.933107037000001,99.0,0.0,7,2.0,8,8,15,23,27,19,22,10,13
+UBCV,2016,W,MATH,253,,201,Multivariable Calculus,Patrick Walls,107,73.68224299100001,13.949773874000002,99.0,0.0,4.0,1.0,6,6,5,19,13,14,22,8,9
+UBCV,2016,W,MATH,253,,OVERALL,Multivariable Calculus,,792,73.708333333,12.762521429000001,99.0,0.0,23,26,42,49,72,101,110,107,106,82,74
 UBCV,2016,W,MATH,255,,101,Ordinary Differential Equations,Mona Rahmani;Richard Gerd Froese,63,65.380952381,19.909009609,99.0,8.0,9,9,9,5,,,,,,11,7
 UBCV,2016,W,MATH,255,,102,Ordinary Differential Equations,Richard Gerd Froese,66,63.39393939399999,18.703252525,96.0,4.0,10,5,9,8,,8,11,,,,
 UBCV,2016,W,MATH,255,,103,Ordinary Differential Equations,Jun Yang;Richard Gerd Froese,58,69.34482758600001,22.354835204,100.0,19.0,12,,,,5,,7,,6,5,11
 UBCV,2016,W,MATH,255,,104,Ordinary Differential Equations,Emmanouil Daskalakis;Richard Gerd Froese,42,83.0,13.62565729,100.0,20.0,,,,,,,,,10,8,13
 UBCV,2016,W,MATH,255,,106,Ordinary Differential Equations,Patrick Walls,107,74.028037383,10.137226319,98.0,45.0,,,,5,11,15,22,21,17,,8
 UBCV,2016,W,MATH,255,,201,Ordinary Differential Equations,Daniel Coombs;Mona Rahmani,94,66.61702127699999,14.3227816,98.0,8.0,6,9,8,10,13,8,15,12,7,,
+UBCV,2016,W,MATH,255,,OVERALL,Ordinary Differential Equations,,430,69.75348837199999,17.240508335,100.0,4.0,42,25,31,29,35,39,62,43,45,32,47
 UBCV,2016,W,MATH,256,,103,Differential equations,Neil Balmforth,194,67.88659793800001,14.131415990999999,99.0,23.0,11,17,21,22,24,26,16,20,15,6,16
 UBCV,2016,W,MATH,256,,201,Differential equations,Eric Cytrynbaum,134,72.014925373,15.935011377,99.0,6.0,6,7,10,12,10,15,13,14,20,12,15
-UBCV,2016,W,MATH,256,,202,Differential equations,Eric Cytrynbaum;Thomas Eaves,118,75.525423729,12.476789983,98.0,23.0,,6,,,12,9,14,19,19,15,14
-UBCV,2016,W,MATH,257,,101,Partial Differential Equations,Ian Frigaard,39,56.256410256,15.024047301,88.0,28.0,8,13,,,,,,,,,
+UBCV,2016,W,MATH,256,,202,Differential equations,Eric Cytrynbaum;Thomas Eaves,118,75.525423729,12.476789983,98.0,23.0,2,6,4,4,12,9,14,19,19,15,14
+UBCV,2016,W,MATH,256,,OVERALL,Differential equations,,446,71.147982063,14.607388709,99.0,6.0,19,30,35,38,46,50,43,53,54,33,45
+UBCV,2016,W,MATH,257,,101,Partial Differential Equations,Ian Frigaard,39,56.256410256,15.024047301,88.0,28.0,8,13,,,,,,,,,0.0
 UBCV,2016,W,MATH,257,,102,Partial Differential Equations,Ian Frigaard,78,75.98717948699999,17.67931772,98.0,17.0,8,,,,,6,9,10,7,13,17
-UBCV,2016,W,MATH,257,,201,Partial Differential Equations,Anthony Peirce;Seckin Demirbas,108,67.305555556,15.000597080999999,98.0,0.0,8,9,9,8,16,11,12,12,13,8,
+UBCV,2016,W,MATH,257,,201,Partial Differential Equations,Anthony Peirce;Seckin Demirbas,108,67.305555556,15.000597080999999,98.0,0.0,8,9,9,8,16,11,12,12,13,8,2.0
 UBCV,2016,W,MATH,257,,202,Partial Differential Equations,Anthony Peirce;Seckin Demirbas,26,66.384615385,26.984553985999998,93.0,0.0,6,,,,,,,,,,5
-UBCV,2016,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Philip Loewen,103,64.339805825,13.901300120999998,99.0,31.0,11,11,25,13,,10,7,,10,,5
-UBCV,2016,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Philip Loewen,92,62.923913043,17.621935440999998,95.0,11.0,19,9,13,6,6,8,7,,8,10,
-UBCV,2016,W,MATH,300,,101,Introduction to Complex Variables,Dong Li,105,63.0,17.269916039,92.0,8.0,10,24,9,8,9,8,8,,10,8,7
-UBCV,2016,W,MATH,300,,201,Introduction to Complex Variables,Zinovy Reichstein,62,68.774193548,14.112451605999999,99.0,35.0,,7,8,6,,10,,7,6,,6
-UBCV,2016,W,MATH,300,,202,Introduction to Complex Variables,Siamak Taati;Zinovy Reichstein,76,69.315789474,15.08925492,95.0,0.0,,6,6,5,8,9,11,8,8,8,
+UBCV,2016,W,MATH,257,,OVERALL,Partial Differential Equations,,251,68.19123506,18.481430758,98.0,0.0,30,26,13,13,22,23,22,27,25,26,24
+UBCV,2016,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Philip Loewen,103,64.339805825,13.901300120999998,99.0,31.0,11,11,25,13,3,10,7,4.0,10,4,5
+UBCV,2016,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Philip Loewen,92,62.923913043,17.621935440999998,95.0,11.0,19,9,13,6,6,8,7,3.0,8,10,3
+UBCV,2016,W,MATH,264,,OVERALL,Vector Calculus for Electrical Engineering,,195,63.671794872,15.740648487,99.0,11.0,30,20,38,19,9,18,14,7,18,14,8
+UBCV,2016,W,MATH,300,,101,Introduction to Complex Variables,Dong Li,105,63.0,17.269916039,92.0,8.0,10,24,9,8,9,8,8,4.0,10,8,7
+UBCV,2016,W,MATH,300,,201,Introduction to Complex Variables,Zinovy Reichstein,62,68.774193548,14.112451605999999,99.0,35.0,3.0,7,8,6,2,10,4,7,6,3,6
+UBCV,2016,W,MATH,300,,202,Introduction to Complex Variables,Siamak Taati;Zinovy Reichstein,76,69.315789474,15.08925492,95.0,0.0,4.0,6,6,5,8,9,11,8,8,8,3
+UBCV,2016,W,MATH,300,,OVERALL,Introduction to Complex Variables,,243,66.448559671,16.064450125,99.0,0.0,17,37,23,19,19,27,23,19,24,19,16
 UBCV,2016,W,MATH,301,,201,Applied Analysis,Richard Gerd Froese,44,64.318181818,24.95183521,100.0,0.0,10,5,,,,,,,,,8
-UBCV,2016,W,MATH,302,,101,Introduction to Probability,Omer Angel,112,73.714285714,16.696781031,100.0,0.0,,6,,6,12,10,21,9,12,7,21
-UBCV,2016,W,MATH,302,,201,Introduction to Probability,Omer Angel;Richard Balka,102,77.803921569,11.458957511,98.0,43.0,,,8,5,6,10,8,14,18,15,17
+UBCV,2016,W,MATH,301,,OVERALL,Applied Analysis,,44,64.318181818,24.95183521,100.0,0.0,10,5,,,,,,,,,8
+UBCV,2016,W,MATH,302,,101,Introduction to Probability,Omer Angel,112,73.714285714,16.696781031,100.0,0.0,4.0,6,4,6,12,10,21,9,12,7,21
+UBCV,2016,W,MATH,302,,201,Introduction to Probability,Omer Angel;Richard Balka,102,77.803921569,11.458957511,98.0,43.0,1.0,0,8,5,6,10,8,14,18,15,17
+UBCV,2016,W,MATH,302,,OVERALL,Introduction to Probability,,214,75.663551402,14.5511524,100.0,0.0,5,6,12,11,18,20,29,23,30,22,38
 UBCV,2016,W,MATH,303,,201,Introduction to Stochastic Processes,Gordon Slade,110,68.281818182,18.859272082,96.0,10.0,11,14,8,7,9,9,6,7,12,11,16
+UBCV,2016,W,MATH,303,,OVERALL,Introduction to Stochastic Processes,,110,68.281818182,18.859272082,96.0,10.0,11,14,8,7,9,9,6,7,12,11,16
 UBCV,2016,W,MATH,305,,201,Applied Complex Analysis,Juncheng Wei,82,69.926829268,21.245060712,98.0,0.0,8,8,6,,6,6,,12,7,11,12
-UBCV,2016,W,MATH,307,,101,Applied Linear Algebra,Ozgur Yilmaz,88,69.772727273,19.002557162000002,97.0,1.0,9,,15,8,,6,6,5,7,9,16
-UBCV,2016,W,MATH,307,,201,Applied Linear Algebra,Ozgur Yilmaz,96,65.583333333,13.618614712000001,95.0,17.0,,18,14,7,9,10,8,10,9,,
-UBCV,2016,W,MATH,307,,202,Applied Linear Algebra,Justin Tzou;Ozgur Yilmaz,83,62.289156627,19.649694419,99.0,17.0,14,9,12,6,5,7,9,,6,6,6
-UBCV,2016,W,MATH,309,,201,Topics in Geometry,Jozsef Solymosi,70,67.1,17.404105796,100.0,17.0,6,7,6,11,5,11,5,,5,6,7
+UBCV,2016,W,MATH,305,,OVERALL,Applied Complex Analysis,,82,69.926829268,21.245060712,98.0,0.0,8,8,6,,6,6,,12,7,11,12
+UBCV,2016,W,MATH,307,,101,Applied Linear Algebra,Ozgur Yilmaz,88,69.772727273,19.002557162000002,97.0,1.0,9,3,15,8,4,6,6,5,7,9,16
+UBCV,2016,W,MATH,307,,201,Applied Linear Algebra,Ozgur Yilmaz,96,65.583333333,13.618614712000001,95.0,17.0,4,18,14,7,9,10,8,10,9,4,3
+UBCV,2016,W,MATH,307,,202,Applied Linear Algebra,Justin Tzou;Ozgur Yilmaz,83,62.289156627,19.649694419,99.0,17.0,14,9,12,6,5,7,9,3.0,6,6,6
+UBCV,2016,W,MATH,307,,OVERALL,Applied Linear Algebra,,267,65.940074906,17.675759834,99.0,1.0,27,30,41,21,18,23,23,18,22,19,25
+UBCV,2016,W,MATH,309,,201,Topics in Geometry,Jozsef Solymosi,70,67.1,17.404105796,100.0,17.0,6,7,6,11,5,11,5,1.0,5,6,7
+UBCV,2016,W,MATH,309,,OVERALL,Topics in Geometry,,70,67.1,17.404105796,100.0,17.0,6,7,6,11,5,11,5,1.0,5,6,7
 UBCV,2016,W,MATH,312,,101,Introduction to Number Theory,Gregory Martin;Nuno Barroso De Freitas,69,67.028985507,17.446532619,99.0,26.0,9,7,7,6,,10,,7,5,,11
+UBCV,2016,W,MATH,312,,OVERALL,Introduction to Number Theory,,69,67.028985507,17.446532619,99.0,26.0,9,7,7,6,,10,,7,5,,11
 UBCV,2016,W,MATH,316,,101,Elementary Differential Equations II,Ian Frigaard,63,63.095238095,20.109951224,96.0,5.0,12,6,8,5,,6,5,,6,,5
 UBCV,2016,W,MATH,316,,102,Elementary Differential Equations II,Ian Frigaard,57,71.140350877,16.919387227999998,96.0,27.0,5,,5,6,7,,,,9,5,8
-UBCV,2016,W,MATH,316,,201,Elementary Differential Equations II,Anthony Peirce;Seckin Demirbas,17,60.176470588,16.168005807,87.0,27.0,,,,,,,,,,,
+UBCV,2016,W,MATH,316,,201,Elementary Differential Equations II,Anthony Peirce;Seckin Demirbas,17,60.176470588,16.168005807,87.0,27.0,4,,,,,,,,2,,0
 UBCV,2016,W,MATH,316,,202,Elementary Differential Equations II,Anthony Peirce;Seckin Demirbas,83,67.963855422,17.6810811,94.0,13.0,14,8,,,,8,15,7,12,7,6
-UBCV,2016,W,MATH,317,,101,Calculus IV,Tai-Peng Tsai,105,71.504761905,13.960193277,99.0,34.0,,8,12,6,8,17,10,6,14,7,14
-UBCV,2016,W,MATH,317,,201,Calculus IV,Clemens Koppensteiner;Jim Bryan,73,66.178082192,16.504496412,99.0,22.0,10,,7,11,9,6,10,,7,,5
+UBCV,2016,W,MATH,316,,OVERALL,Elementary Differential Equations II,,220,66.790909091,18.347032883,96.0,5.0,35,17,18,16,12,18,25,15,29,16,19
+UBCV,2016,W,MATH,317,,101,Calculus IV,Tai-Peng Tsai,105,71.504761905,13.960193277,99.0,34.0,3.0,8,12,6,8,17,10,6,14,7,14
+UBCV,2016,W,MATH,317,,201,Calculus IV,Clemens Koppensteiner;Jim Bryan,73,66.178082192,16.504496412,99.0,22.0,10,2,7,11,9,6,10,2,7,4,5
 UBCV,2016,W,MATH,317,,202,Calculus IV,Jim Bryan,106,69.613207547,16.372201036,100.0,21.0,9,8,8,7,14,13,8,6,10,12,11
+UBCV,2016,W,MATH,317,,OVERALL,Calculus IV,,284,69.429577465,15.643284106,100.0,21.0,22,18,27,24,31,36,28,14,31,23,30
 UBCV,2016,W,MATH,318,,201,Probability with Physical Applications,Gordon Slade,109,71.37614678899999,15.118537180999999,98.0,30.0,5,13,8,7,7,9,10,14,11,12,13
-UBCV,2016,W,MATH,320,,101,Real Variables I,Edwin Perkins,45,71.244444444,17.109481098,100.0,30.0,,,,,5,,,,,,8
-UBCV,2016,W,MATH,320,,102,Real Variables I,Edwin Perkins;Izabella Laba,40,67.35,19.8372222,100.0,7.0,5,5,,,,6,,,8,,
+UBCV,2016,W,MATH,318,,OVERALL,Probability with Physical Applications,,109,71.37614678899999,15.118537180999999,98.0,30.0,5,13,8,7,7,9,10,14,11,12,13
+UBCV,2016,W,MATH,320,,101,Real Variables I,Edwin Perkins,45,71.244444444,17.109481098,100.0,30.0,4,4,,,5,4,,,4,,8
+UBCV,2016,W,MATH,320,,102,Real Variables I,Edwin Perkins;Izabella Laba,40,67.35,19.8372222,100.0,7.0,5,5,,,2,6,,,8,,2
+UBCV,2016,W,MATH,320,,OVERALL,Real Variables I,,85,69.411764706,18.435404678,100.0,7.0,9,9,7,,7,10,7,,12,8,10
 UBCV,2016,W,MATH,321,,201,Real Variables II,Dong Li;Joel Feldman,44,66.863636364,22.155466446,100.0,0.0,6,,,,,6,5,,,,7
+UBCV,2016,W,MATH,321,,OVERALL,Real Variables II,,44,66.863636364,22.155466446,100.0,0.0,6,,,,,6,5,,,,7
 UBCV,2016,W,MATH,322,,101,Introduction to Group Theory,Zinovy Reichstein,65,70.261538462,19.751010198,100.0,10.0,7,6,6,,,8,,,10,,13
+UBCV,2016,W,MATH,322,,OVERALL,Introduction to Group Theory,,65,70.261538462,19.751010198,100.0,10.0,7,6,6,,,8,,,10,,13
 UBCV,2016,W,MATH,323,,201,Introduction to Rings and Modules,Julia Yulia Gordon,32,77.9375,15.975661933,100.0,42.0,,,,,,,5,,,,11
-UBCV,2016,W,MATH,335,,101,Introduction to Mathematics,John Macdonald,45,77.533333333,10.259363794,96.0,55.0,,,,,,,6,5,11,8,
-UBCV,2016,W,MATH,335,,201,Introduction to Mathematics,Shawn Desaulniers,43,80.88372093,10.980956031,98.0,40.0,,,,,,6,,5,10,7,10
+UBCV,2016,W,MATH,323,,OVERALL,Introduction to Rings and Modules,,32,77.9375,15.975661933,100.0,42.0,,,,,,,5,,,,11
+UBCV,2016,W,MATH,335,,101,Introduction to Mathematics,John Macdonald,45,77.533333333,10.259363794,96.0,55.0,,,,,,4,6,5,11,8,4
+UBCV,2016,W,MATH,335,,201,Introduction to Mathematics,Shawn Desaulniers,43,80.88372093,10.980956031,98.0,40.0,,,,,,6,3,5,10,7,10
+UBCV,2016,W,MATH,335,,OVERALL,Introduction to Mathematics,,88,79.170454545,10.690227131,98.0,40.0,,,,5,,10,9,10,21,15,14
 UBCV,2016,W,MATH,340,,101,Introduction to Linear Programming,Omar Antolin Camarena;Richard Anstee,101,65.58415841600001,17.946736376,96.0,4.0,12,10,10,9,12,10,7,7,6,13,5
 UBCV,2016,W,MATH,340,,201,Introduction to Linear Programming,Ricardo Gomez Aiza;Richard Anstee,105,69.571428571,16.619530415,100.0,6.0,8,7,8,7,10,14,8,9,13,10,11
-UBCV,2016,W,MATH,340,,202,Introduction to Linear Programming,Ricardo Gomez Aiza;Richard Anstee,118,71.35593220300001,16.289856014,100.0,23.0,9,7,,18,10,6,14,9,11,7,23
+UBCV,2016,W,MATH,340,,202,Introduction to Linear Programming,Ricardo Gomez Aiza;Richard Anstee,118,71.35593220300001,16.289856014,100.0,23.0,9,7,4.0,18,10,6,14,9,11,7,23
+UBCV,2016,W,MATH,340,,OVERALL,Introduction to Linear Programming,,324,68.978395062,17.045636138,100.0,4.0,29,24,22,34,32,30,29,25,30,30,39
 UBCV,2016,W,MATH,361,,101,Introduction to Mathematical Biology,Yue-Xian Li,41,74.463414634,14.692000477999999,94.0,21.0,,,,,,7,5,,12,,5
-UBCV,2016,W,MATH,400,,101,Applied Partial Differential Equations,Juncheng Wei,37,65.94594594600001,23.560732334,99.0,1.0,5,,6,,,,,,5,,
-UBCV,2016,W,MATH,400,,201,Applied Partial Differential Equations,Neil Balmforth,67,68.611940299,18.441517081,94.0,12.0,8,5,,,5,10,9,5,11,,6
+UBCV,2016,W,MATH,361,,OVERALL,Introduction to Mathematical Biology,,41,74.463414634,14.692000477999999,94.0,21.0,,,,,,7,5,,12,,5
+UBCV,2016,W,MATH,400,,101,Applied Partial Differential Equations,Juncheng Wei,37,65.94594594600001,23.560732334,99.0,1.0,5,1,6,,2,3,4,3,5,,3
+UBCV,2016,W,MATH,400,,201,Applied Partial Differential Equations,Neil Balmforth,67,68.611940299,18.441517081,94.0,12.0,8,5,2,,5,10,9,5,11,,6
+UBCV,2016,W,MATH,400,,OVERALL,Applied Partial Differential Equations,,104,67.663461538,20.336781245,99.0,1.0,13,6,8,4.0,7,13,13,8,16,7,9
 UBCV,2016,W,MATH,401,,201,Green's Functions and Variational Methods,Anthony Wachs,32,69.84375,19.50204187,100.0,31.0,,,,,,,,,6,,5
+UBCV,2016,W,MATH,401,,OVERALL,Green's Functions and Variational Methods,,32,69.84375,19.50204187,100.0,31.0,,,,,,,,,6,,5
 UBCV,2016,W,MATH,402,,201,Calculus of Variations,Mahta Khosravi,17,82.11764705899999,9.499225975,96.0,68.0,,,,,,,,,,,6
+UBCV,2016,W,MATH,402,,OVERALL,Calculus of Variations,,17,82.11764705899999,9.499225975,96.0,68.0,,,,,,,,,,,6
 UBCV,2016,W,MATH,405,,101,Numerical Methods for Differential Equations,Colin Macdonald,31,74.419354839,18.743486324000003,97.0,10.0,,,,,,,6,5,6,,
+UBCV,2016,W,MATH,405,,OVERALL,Numerical Methods for Differential Equations,,31,74.419354839,18.743486324000003,97.0,10.0,,,,,,,6,5,6,,
 UBCV,2016,W,MATH,406,,101,Variational and Approximate Methods in Applied Mathematics,Brian Thomas Wetton;Brian Wetton,9,79.222222222,9.640769909,95.0,61.0,,,,,,,,,,,
+UBCV,2016,W,MATH,406,,OVERALL,Variational and Approximate Methods in Applied Mathematics,,9,79.222222222,9.640769909,95.0,61.0,,,,,,,,,,,
 UBCV,2016,W,MATH,412,,101,Advanced Linear Algebra,Lior Silberman,11,68.090909091,27.391438609,94.0,0.0,,,,,,,,,,,
+UBCV,2016,W,MATH,412,,OVERALL,Advanced Linear Algebra,,11,68.090909091,27.391438609,94.0,0.0,,,,,,,,,,,
 UBCV,2016,W,MATH,414,,101,Mathematical Demonstrations,John Macdonald,29,79.068965517,7.284675865,97.0,66.0,,,,,,,8,5,5,6,
+UBCV,2016,W,MATH,414,,OVERALL,Mathematical Demonstrations,,29,79.068965517,7.284675865,97.0,66.0,,,,,,,8,5,5,6,
 UBCV,2016,W,MATH,418,,101,Probability,Edwin Perkins,18,80.388888889,13.61287837,100.0,50.0,,,,,,,,,,,6
+UBCV,2016,W,MATH,418,,OVERALL,Probability,,18,80.388888889,13.61287837,100.0,50.0,,,,,,,,,,,6
 UBCV,2016,W,MATH,419,,201,Stochastic Processes,Edwin Perkins,11,80.909090909,11.255705624,92.0,55.0,,,,,,,,,,,
+UBCV,2016,W,MATH,419,,OVERALL,Stochastic Processes,,11,80.909090909,11.255705624,92.0,55.0,,,,,,,,,,,
 UBCV,2016,W,MATH,420,,101,Real Analysis I,Malabika Pramanik,19,75.05263157899999,22.177249815,100.0,0.0,,,,,,,,,7,,
+UBCV,2016,W,MATH,420,,OVERALL,Real Analysis I,,19,75.05263157899999,22.177249815,100.0,0.0,,,,,,,,,7,,
 UBCV,2016,W,MATH,421,,201,Real Analysis II,Izabella Laba,8,82.25,12.244532307,98.0,61.0,,,,,,,,,,,
+UBCV,2016,W,MATH,421,,OVERALL,Real Analysis II,,8,82.25,12.244532307,98.0,61.0,,,,,,,,,,,
 UBCV,2016,W,MATH,422,,101,Fields and Galois Theory,Daniel Collins;Vinayak Vatsal,5,80.8,7.661592524,88.0,70.0,,,,,,,,,,,
+UBCV,2016,W,MATH,422,,OVERALL,Fields and Galois Theory,,5,80.8,7.661592524,88.0,70.0,,,,,,,,,,,
 UBCV,2016,W,MATH,424,,201,Classical Differential Geometry,Jingyi Chen,27,80.962962963,17.357067905,100.0,21.0,,,,,,,,,,5,10
+UBCV,2016,W,MATH,424,,OVERALL,Classical Differential Geometry,,27,80.962962963,17.357067905,100.0,21.0,,,,,,,,,,5,10
 UBCV,2016,W,MATH,425,,101,Introduction to Modern Differential Geometry,Ailana Fraser,6,85.833333333,8.328665359,96.0,73.0,,,,,,,,,,,
+UBCV,2016,W,MATH,425,,OVERALL,Introduction to Modern Differential Geometry,,6,85.833333333,8.328665359,96.0,73.0,,,,,,,,,,,
 UBCV,2016,W,MATH,426,,101,Introduction to Topology,Thomas Williams,6,76.333333333,13.808210118,92.0,57.0,,,,,,,,,,,
+UBCV,2016,W,MATH,426,,OVERALL,Introduction to Topology,,6,76.333333333,13.808210118,92.0,57.0,,,,,,,,,,,
 UBCV,2016,W,MATH,437,,101,Number Theory,Gregory Martin,14,79.714285714,14.073589949,97.0,50.0,,,,,,,,,,,
+UBCV,2016,W,MATH,437,,OVERALL,Number Theory,,14,79.714285714,14.073589949,97.0,50.0,,,,,,,,,,,
 UBCV,2016,W,MATH,440,,101,Complex Analysis,Malabika Pramanik,7,86.0,9.831920803,94.0,66.0,,,,,,,,,,,
+UBCV,2016,W,MATH,440,,OVERALL,Complex Analysis,,7,86.0,9.831920803,94.0,66.0,,,,,,,,,,,
 UBCV,2016,W,MATH,441,,101,Mathematical Modeling: Discrete Optimization Problems,Richard Anstee,30,74.7,7.80870425,90.0,57.0,,,,,,8,,6,5,,
+UBCV,2016,W,MATH,441,,OVERALL,Mathematical Modeling: Discrete Optimization Problems,,30,74.7,7.80870425,90.0,57.0,,,,,,8,,6,5,,
 UBCV,2016,W,MATH,442,,201,Optimization in Graphs and Networks,Stephanie Van Willigenburg,43,69.790697674,19.323755599000002,97.0,0.0,5,,,5,,,,,,,8
+UBCV,2016,W,MATH,442,,OVERALL,Optimization in Graphs and Networks,,43,69.790697674,19.323755599000002,97.0,0.0,5,,,5,,,,,,,8
 UBCV,2016,W,MATH,444,,201,Mathematical Research and Writing,Stephanie Van Willigenburg,15,85.4,4.896062558,93.0,77.0,,,,,,,,,5,5,
+UBCV,2016,W,MATH,444,,OVERALL,Mathematical Research and Writing,,15,85.4,4.896062558,93.0,77.0,,,,,,,,,5,5,
 UBCV,2016,W,MATH,450,,101,Asymptotic and Perturbation Methods,Neil Balmforth,5,87.8,5.93295879,96.0,80.0,,,,,,,,,,,
+UBCV,2016,W,MATH,450,,OVERALL,Asymptotic and Perturbation Methods,,5,87.8,5.93295879,96.0,80.0,,,,,,,,,,,
 UBCV,2016,W,MATH,503,,101,Discrete Mathematics,Jozsef Solymosi,6,79.166666667,18.203479521,99.0,51.0,,,,,,,,,,,
+UBCV,2016,W,MATH,503,,OVERALL,Discrete Mathematics,,6,79.166666667,18.203479521,99.0,51.0,,,,,,,,,,,
 UBCV,2016,W,MATH,507,,101,Measure Theory and Integration,Malabika Pramanik,5,87.8,6.3007936010000005,94.0,79.0,,,,,,,,,,,
+UBCV,2016,W,MATH,507,,OVERALL,Measure Theory and Integration,,5,87.8,6.3007936010000005,94.0,79.0,,,,,,,,,,,
 UBCV,2016,W,MATH,508,,101,Complex Analysis,Malabika Pramanik,5,93.2,9.121403401,99.0,77.0,,,,,,,,,,,
+UBCV,2016,W,MATH,508,,OVERALL,Complex Analysis,,5,93.2,9.121403401,99.0,77.0,,,,,,,,,,,
 UBCV,2016,W,MATH,516,,101,Partial Differential Equations I,Juncheng Wei,7,94.14285714299999,3.078342164,96.0,88.0,,,,,,,,,,,6
+UBCV,2016,W,MATH,516,,OVERALL,Partial Differential Equations I,,7,94.14285714299999,3.078342164,96.0,88.0,,,,,,,,,,,6
 UBCV,2016,W,MATH,521,,201,Numerical Analysis of Partial Differential Equations,Anthony Wachs;Timm Treskatis,8,89.75,5.5484875670000005,96.0,80.0,,,,,,,,,,,5
+UBCV,2016,W,MATH,521,,OVERALL,Numerical Analysis of Partial Differential Equations,,8,89.75,5.5484875670000005,96.0,80.0,,,,,,,,,,,5
 UBCV,2016,W,MATH,526,,201,Differential Geometry II,Jingyi Chen,8,94.25,2.604940361,98.0,89.0,,,,,,,,,,,7
+UBCV,2016,W,MATH,526,,OVERALL,Differential Geometry II,,8,94.25,2.604940361,98.0,89.0,,,,,,,,,,,7
 UBCV,2016,W,MATH,532,,101,Algebraic Geometry I,Jim Bryan,6,90.166666667,10.087946602999999,97.0,70.0,,,,,,,,,,,5
+UBCV,2016,W,MATH,532,,OVERALL,Algebraic Geometry I,,6,90.166666667,10.087946602999999,97.0,70.0,,,,,,,,,,,5
 UBCV,2016,W,MATH,533,,201,Algebraic Geometry II,Kai Behrend,13,92.846153846,4.394051923999999,99.0,86.0,,,,,,,,,,,10
+UBCV,2016,W,MATH,533,,OVERALL,Algebraic Geometry II,,13,92.846153846,4.394051923999999,99.0,86.0,,,,,,,,,,,10
 UBCV,2016,W,MATH,544,,101,Probability I,Edwin Perkins,6,88.5,7.687652438,98.0,78.0,,,,,,,,,,,
+UBCV,2016,W,MATH,544,,OVERALL,Probability I,,6,88.5,7.687652438,98.0,78.0,,,,,,,,,,,
 UBCV,2016,W,MATH,548,,101,Discrete Random Processes,Omer Angel,8,93.875,5.514591035,100.0,86.0,,,,,,,,,,,6
+UBCV,2016,W,MATH,548,,OVERALL,Discrete Random Processes,,8,93.875,5.514591035,100.0,86.0,,,,,,,,,,,6
 UBCV,2016,W,MATH,550,,101,Methods of Asymptotic Analysis,Neil Balmforth,8,89.375,7.890998487999999,100.0,74.0,,,,,,,,,,,
+UBCV,2016,W,MATH,550,,OVERALL,Methods of Asymptotic Analysis,,8,89.375,7.890998487999999,100.0,74.0,,,,,,,,,,,
 UBCV,2016,W,MATH,552,,101,Introduction to Dynamical Systems,K Wayne Nagata,10,87.1,4.998888765,96.0,80.0,,,,,,,,,,,
+UBCV,2016,W,MATH,552,,OVERALL,Introduction to Dynamical Systems,,10,87.1,4.998888765,96.0,80.0,,,,,,,,,,,
 UBCV,2016,W,MATH,563,,101,Modeling of Cell-Scale Biology,Daniel Coombs,10,89.3,2.496664441,93.0,85.0,,,,,,,,,,,7
+UBCV,2016,W,MATH,563,,OVERALL,Modeling of Cell-Scale Biology,,10,89.3,2.496664441,93.0,85.0,,,,,,,,,,,7
 UBCV,2016,W,MATH,564,,101,Evolutionary Dynamics,Christoph Hauert,6,88.833333333,5.0760877319999995,95.0,80.0,,,,,,,,,,,
+UBCV,2016,W,MATH,564,,OVERALL,Evolutionary Dynamics,,6,88.833333333,5.0760877319999995,95.0,80.0,,,,,,,,,,,
 UBCV,2016,W,MATH,566,,201,Theory of Optimal Transportation,Young-Heon Kim,9,93.77777777799999,4.116363012,99.0,88.0,,,,,,,,,,,8
+UBCV,2016,W,MATH,566,,OVERALL,Theory of Optimal Transportation,,9,93.77777777799999,4.116363012,99.0,88.0,,,,,,,,,,,8
 UBCV,2016,W,MATH,567,,201,Nonlinear Wave Equations,Stephen James Gustafson,6,89.5,5.2820450580000005,97.0,85.0,,,,,,,,,,,
+UBCV,2016,W,MATH,567,,OVERALL,Nonlinear Wave Equations,,6,89.5,5.2820450580000005,97.0,85.0,,,,,,,,,,,
 UBCV,2016,W,MATH,592,B,201,Topics in Automorphic Forms,Julia Yulia Gordon;Lior Silberman,5,93.4,0.8944271909999999,95.0,93.0,,,,,,,,,,,5
+UBCV,2016,W,MATH,592,B,OVERALL,Topics in Automorphic Forms,,5,93.4,0.8944271909999999,95.0,93.0,,,,,,,,,,,5
 UBCV,2016,W,MATH,600,D,101,Topics in Algebra,Zinovy Reichstein,6,92.333333333,4.546060566,95.0,84.0,,,,,,,,,,,5
+UBCV,2016,W,MATH,600,D,OVERALL,Topics in Algebra,,6,92.333333333,4.546060566,95.0,84.0,,,,,,,,,,,5
 UBCV,2016,W,MATH,602,D,201,Topics in Geometry,Albert Chau,5,92.0,2.828427125,96.0,90.0,,,,,,,,,,,5
+UBCV,2016,W,MATH,602,D,OVERALL,Topics in Geometry,,5,92.0,2.828427125,96.0,90.0,,,,,,,,,,,5
 UBCV,2016,W,MATH,603,D,201,Topics in Topology,Thomas Williams,6,90.0,0.0,90.0,90.0,,,,,,,,,,,6
+UBCV,2016,W,MATH,603,D,OVERALL,Topics in Topology,,6,90.0,0.0,90.0,90.0,,,,,,,,,,,6
 UBCV,2016,W,MATH,607,E,101,Topics in Numerical Analysis,Colin Macdonald,6,89.5,6.41092817,97.0,80.0,,,,,,,,,,,
+UBCV,2016,W,MATH,607,E,OVERALL,Topics in Numerical Analysis,,6,89.5,6.41092817,97.0,80.0,,,,,,,,,,,
 UBCV,2016,W,MATH,615,A,101,Topics in Algebraic Geometry,Jim Bryan,6,95.0,0.0,95.0,95.0,,,,,,,,,,,6
+UBCV,2016,W,MATH,615,A,OVERALL,Topics in Algebraic Geometry,,6,95.0,0.0,95.0,95.0,,,,,,,,,,,6

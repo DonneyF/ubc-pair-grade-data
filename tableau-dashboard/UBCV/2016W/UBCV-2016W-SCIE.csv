@@ -1,7 +1,6 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,SCIE,1,,001,Science One,Arthur Charbonneau;Bryan Wong;Celeste Leander;Christopher Addison;Costanza Piccolo;E Elliott Burnell;Emily Tyhurst;James Berger;Jasmyne Kassam;Justin Jubinville-Mah;Kathryn Crowter;Kathryn Zeiler;Robert Raussendorf;Stephen James Gustafson,67,82.28358209,8.267874979,97.0,58.0,,,,,,,9,,15,19,13
-UBCV,2016,W,SCIE,113,,11A,First-Year Seminar in Science,Wai Lung Cheung,27,77.74074074100001,6.920385675,91.0,59.0,,,,,,,,8,11,,
-UBCV,2016,W,SCIE,113,,22A,First-Year Seminar in Science,Gunilla Oberg;Marcia Graves,25,78.68,7.803418055,91.0,55.0,,,,,,,,6,7,,
+UBCV,2016,W,SCIE,1,,OVERALL,Science One,,67,82.28358209,8.267874979,97.0,58.0,,,,,,,9,,15,19,13
 UBCV,2016,W,SCIE,113,,108,First-Year Seminar in Science,James Berger,26,75.192307692,11.943263309,88.0,23.0,,,,,,5,5,,9,,
 UBCV,2016,W,SCIE,113,,109,First-Year Seminar in Science,Kellogg Booth,26,77.26923076899999,14.200162512999999,90.0,20.0,,,,,,,,,7,5,
 UBCV,2016,W,SCIE,113,,110,First-Year Seminar in Science,Linda Matsuuchi,27,84.592592593,8.025245068,94.0,63.0,,,,,,,,,,6,10
@@ -9,6 +8,7 @@ UBCV,2016,W,SCIE,113,,111,First-Year Seminar in Science,John Sherman,26,73.30769
 UBCV,2016,W,SCIE,113,,112,First-Year Seminar in Science,Sara Harris,27,78.481481481,7.572065922999999,85.0,45.0,,,,,,,,7,14,,
 UBCV,2016,W,SCIE,113,,113,First-Year Seminar in Science,James Carolan,24,79.416666667,5.747715362,88.0,60.0,,,,,,,,7,9,,
 UBCV,2016,W,SCIE,113,,114,First-Year Seminar in Science,Ashley Welsh,27,77.851851852,11.168994527,94.0,37.0,,,,,,,5,,8,,
+UBCV,2016,W,SCIE,113,,11A,First-Year Seminar in Science,Wai Lung Cheung,27,77.74074074100001,6.920385675,91.0,59.0,,,,,,,,8,11,,
 UBCV,2016,W,SCIE,113,,209,First-Year Seminar in Science,Gunilla Oberg;Robert De Wreede,25,78.32,18.994999342,94.0,0.0,,,,,,,,,,,9
 UBCV,2016,W,SCIE,113,,210,First-Year Seminar in Science,Gunilla Oberg;Martin Adamson,24,72.125,16.788485961,89.0,0.0,,,,,,5,,5,7,,
 UBCV,2016,W,SCIE,113,,211,First-Year Seminar in Science,Gunilla Oberg;Jaymie Mark Matthews,24,78.75,4.838702665,85.0,64.0,,,,,,,,7,12,,
@@ -16,13 +16,16 @@ UBCV,2016,W,SCIE,113,,212,First-Year Seminar in Science,Gunilla Oberg;William We
 UBCV,2016,W,SCIE,113,,213,First-Year Seminar in Science,Gunilla Oberg;John Macdonald,25,76.24,5.117616633,85.0,65.0,,,,,,,7,5,8,,
 UBCV,2016,W,SCIE,113,,214,First-Year Seminar in Science,Gunilla Oberg;John Sherman,21,78.19047619,10.225551563,92.0,50.0,,,,,,,,,6,,
 UBCV,2016,W,SCIE,113,,215,First-Year Seminar in Science,Gunilla Oberg,24,76.541666667,9.806737554,90.0,52.0,,,,,,,,6,5,,
-UBCV,2016,W,SCIE,113,,V01,First-Year Seminar in Science,Celina Berg;Celina Gay Berg,22,75.318181818,7.699018884,88.0,59.0,,,,,,,,,6,,
+UBCV,2016,W,SCIE,113,,22A,First-Year Seminar in Science,Gunilla Oberg;Marcia Graves,25,78.68,7.803418055,91.0,55.0,,,,,,,,6,7,,
+UBCV,2016,W,SCIE,113,,OVERALL,First-Year Seminar in Science,,494,76.815789474,11.806093662,94.0,0.0,9,8,7,13,19,38,77,90,137,57,39
+UBCV,2016,W,SCIE,113,,V01,First-Year Seminar in Science,Celina Berg,22,75.318181818,7.699018884,88.0,59.0,,,,,,,,,6,,
 UBCV,2016,W,SCIE,113,,V02,First-Year Seminar in Science,Brett Gilley,23,83.217391304,5.169460335,90.0,74.0,,,,,,,,,5,8,
 UBCV,2016,W,SCIE,113,,V03,First-Year Seminar in Science,Kayli Johnson,24,67.333333333,19.774086395,90.0,5.0,,,,,,,8,,,,
 UBCV,2016,W,SCIE,113,,V04,First-Year Seminar in Science,Ashley Welsh,23,70.217391304,16.585745582,84.0,0.0,,,,,,,6,,6,,
 UBCV,2016,W,SCIE,300,,109,Communicating Science,Reinhard Jetter;Sarah Burke,17,78.764705882,3.8165660569999997,85.0,73.0,,,,,,,,5,8,,
 UBCV,2016,W,SCIE,300,,111,Communicating Science,Bruce Dunham;Reinhard Jetter,22,78.227272727,4.2754205380000005,89.0,71.0,,,,,,,,10,5,,
-UBCV,2016,W,SCIE,300,,112,Communicating Science,Edward Kroc;Reinhard Jetter,18,80.611111111,6.66985218,92.0,66.0,,,,,,,,,,5,
+UBCV,2016,W,SCIE,300,,112,Communicating Science,Edward Kroc;Reinhard Jetter,18,80.611111111,6.66985218,92.0,66.0,,,,,,,,,4,5,
 UBCV,2016,W,SCIE,300,,211,Communicating Science,Bruce Dunham;Edward Kroc;Reinhard Jetter;Robin Stoodley,19,76.84210526300001,4.9583056910000005,83.0,63.0,,,,,,,,5,8,,
 UBCV,2016,W,SCIE,300,,212,Communicating Science,Andrew Trites;Edward Kroc;Jaclyn Stewart;Reinhard Jetter,22,80.954545455,3.848033174,87.0,72.0,,,,,,,,,13,,
 UBCV,2016,W,SCIE,300,,213,Communicating Science,Andrew Trites;Jaclyn Stewart;Reinhard Jetter,19,81.210526316,4.928138564,87.0,70.0,,,,,,,,,7,7,
+UBCV,2016,W,SCIE,300,,OVERALL,Communicating Science,,117,79.444444444,4.9713739939999995,92.0,63.0,,,,,,,18,27,45,19,

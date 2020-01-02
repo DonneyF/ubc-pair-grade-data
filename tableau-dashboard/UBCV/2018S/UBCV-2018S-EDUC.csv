@@ -1,9 +1,13 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,S,EDUC,141,,177,Indigenous Studies,Marny Point,10,88.4,5.1467357510000005,94.0,76.0,,,,,,,,,,,6
+UBCV,2018,S,EDUC,141,,OVERALL,Indigenous Studies,,10,88.4,5.1467357510000005,94.0,76.0,,,,,,,,,,,6
 UBCV,2018,S,EDUC,490,T,96A,Special Studies in Education,Gina Nancy Wong,13,89.0,6.390096504,98.0,77.0,,,,,,,,,,,7
 UBCV,2018,S,EDUC,490,T,96B,Special Studies in Education,Laurie Cassie,12,91.666666667,4.599077641,98.0,84.0,,,,,,,,,,,8
+UBCV,2018,S,EDUC,490,T,OVERALL,Special Studies in Education,,25,90.28,5.65331761,98.0,77.0,,,,,,,,,,7,15
 UBCV,2018,S,EDUC,490,V,96A,Special Studies in Education,Kyle Stooshnov,25,97.04,1.619670748,100.0,94.0,,,,,,,,,,,25
+UBCV,2018,S,EDUC,490,V,OVERALL,Special Studies in Education,,25,97.04,1.619670748,100.0,94.0,,,,,,,,,,,25
+UBCV,2018,S,EDUC,500,,921,Research Methodology in Education,Leslie Roman,20,91.7,4.5317592730000005,97.0,84.0,,,,,,,,,,4,14
+UBCV,2018,S,EDUC,500,,951,Research Methodology in Education,David Anderson,15,88.2,2.7825989910000004,93.0,82.0,,,,,,,,,,7,6
 UBCV,2018,S,EDUC,500,,96B,Research Methodology in Education,Janet Vaughan Marshall,18,89.166666667,5.843548479,98.0,80.0,,,,,,,,,,7,8
 UBCV,2018,S,EDUC,500,,97A,Research Methodology in Education,Janet Vaughan Marshall,19,88.210526316,4.302182229,97.0,81.0,,,,,,,,,5,7,7
-UBCV,2018,S,EDUC,500,,921,Research Methodology in Education,Leslie Roman;Oksana Bartosh,20,91.7,4.5317592730000005,97.0,84.0,,,,,,,,,,,14
-UBCV,2018,S,EDUC,500,,951,Research Methodology in Education,David Anderson,15,88.2,2.7825989910000004,93.0,82.0,,,,,,,,,,7,6
+UBCV,2018,S,EDUC,500,,OVERALL,Research Methodology in Education,,72,89.416666667,4.698666278,98.0,80.0,,,,,,,,,12,25,35

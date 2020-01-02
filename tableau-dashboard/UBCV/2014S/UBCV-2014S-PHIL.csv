@@ -1,14 +1,24 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,S,PHIL,101,,921,Introduction to Philosophy,Christopher Stephens,71,70.464788732,17.157947751,90.0,2.0,7,,,,6,11,9,11,10,11,
-UBCV,2014,S,PHIL,101,,922,Introduction to Philosophy,Andrew Inkpen,30,76.56666666699999,11.769871922,98.0,48.0,,,,,,5,,,,6,
+UBCV,2014,S,PHIL,101,,922,Introduction to Philosophy,Andrew Inkpen,30,76.56666666699999,11.769871922,98.0,48.0,1,,,,2,5,3,3,3,6,
+UBCV,2014,S,PHIL,101,,OVERALL,Introduction to Philosophy,,101,72.277227723,15.940588955,98.0,2.0,8,,,7,8,16,12,14,13,17,5
 UBCV,2014,S,PHIL,102,,922,Introduction to Philosophy II,Jie Tian,38,71.526315789,9.457549086,90.0,54.0,,,,,5,,8,,5,,
-UBCV,2014,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev,37,68.594594595,19.737808416,93.0,0.0,,,6,,,,,,,7,
-UBCV,2014,S,PHIL,120,,921,Introduction to Critical Thinking,Leslie Burkholder,55,67.218181818,16.08736669,95.0,1.0,,6,,5,7,6,8,,,,
+UBCV,2014,S,PHIL,102,,OVERALL,Introduction to Philosophy II,,38,71.526315789,9.457549086,90.0,54.0,,,,,5,,8,,5,,
+UBCV,2014,S,PHIL,120,,921,Introduction to Critical Thinking,Leslie Burkholder,55,67.218181818,16.08736669,95.0,1.0,,6,4,5,7,6,8,,,3,
+UBCV,2014,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev,37,68.594594595,19.737808416,93.0,0.0,,2,6,2,3,3,2,,,7,
+UBCV,2014,S,PHIL,120,,OVERALL,Introduction to Critical Thinking,,94,68.159574468,17.580110457,95.0,0.0,7,8,10,7,10,9,10,6,9,10,8
 UBCV,2014,S,PHIL,220,A,98A,Symbolic Logic I,Leslie Burkholder,90,78.0,20.888145124,99.0,0.0,9,,,,,5,,,6,15,36
+UBCV,2014,S,PHIL,220,A,OVERALL,Symbolic Logic I,,91,78.076923077,20.784733056,99.0,0.0,9,,,,,5,,,6,16,36
 UBCV,2014,S,PHIL,230,A,921,Introduction to Moral Theory,Doran Smolkin,43,73.23255814,10.535285856,88.0,30.0,,,,,,10,6,6,10,,
+UBCV,2014,S,PHIL,230,A,OVERALL,Introduction to Moral Theory,,43,73.23255814,10.535285856,88.0,30.0,,,,,,10,6,6,10,,
 UBCV,2014,S,PHIL,235,A,921,Contemporary Moral Issues,Jie Tian,13,70.923076923,8.128771314,87.0,56.0,,,,,,,,,,,
+UBCV,2014,S,PHIL,235,A,OVERALL,Contemporary Moral Issues,,13,70.923076923,8.128771314,87.0,56.0,,,,,,,,,,,
 UBCV,2014,S,PHIL,335,A,921,Power and Oppression,Sylvia Berryman,63,68.111111111,15.367656768,89.0,0.0,,,,9,7,9,14,7,8,,
-UBCV,2014,S,PHIL,433,A,98A,Bio-Medical Ethics,Doran Smolkin,36,68.416666667,16.834276258,86.0,0.0,,,,,5,6,6,12,,,
+UBCV,2014,S,PHIL,335,A,OVERALL,Power and Oppression,,63,68.111111111,15.367656768,89.0,0.0,,,,9,7,9,14,7,8,,
 UBCV,2014,S,PHIL,433,A,921,Bio-Medical Ethics,Doran Smolkin,72,73.972222222,6.759390385,87.0,44.0,,,,,6,13,17,18,14,,
+UBCV,2014,S,PHIL,433,A,98A,Bio-Medical Ethics,Doran Smolkin,36,68.416666667,16.834276258,86.0,0.0,,,,,5,6,6,12,0,,
+UBCV,2014,S,PHIL,433,A,OVERALL,Bio-Medical Ethics,,108,72.12037037,11.399063408,87.0,0.0,,,,,11,19,23,30,14,,
 UBCV,2014,S,PHIL,434,A,98A,Business and Professional Ethics,Rana Ahmad,35,67.0,15.013719215999998,85.0,7.0,,,,,7,,7,5,,,
+UBCV,2014,S,PHIL,434,A,OVERALL,Business and Professional Ethics,,36,67.194444444,14.843602652000001,85.0,7.0,,,,,7,,8,5,,,
 UBCV,2014,S,PHIL,435,A,921,Environmental Ethics,Patrick Findler,87,77.218390805,10.546051048999999,91.0,20.0,,,,,,6,15,21,27,12,
+UBCV,2014,S,PHIL,435,A,OVERALL,Environmental Ethics,,88,77.193181818,10.487932808,91.0,20.0,,,,,,6,16,21,27,12,

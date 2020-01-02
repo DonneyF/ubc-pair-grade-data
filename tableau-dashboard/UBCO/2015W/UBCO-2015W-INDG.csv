@@ -1,17 +1,30 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2015,W,INDG,100,,001,Introduction to Indigenous Studies,Colleen Larson;Corinna Netherton;Jeannette Armstrong,148,79.0,16.528268919000002,99.0,7.0,9,,,,6,11,8,10,30,32,36
-UBCO,2015,W,INDG,100,,002,Introduction to Indigenous Studies,Corinna Netherton;Marlowe Sam;Menno Salverda,119,76.31092437,12.631510169,94.0,19.0,,,9,9,8,7,8,16,20,24,14
+UBCO,2015,W,INDG,100,,001,Introduction to Indigenous Studies,Colleen E. Larson;Colleen Larson;Corinna Netherton;Jeannette Armstrong,148,79.0,16.528268919000002,99.0,7.0,9,1.0,3,2,6,11,8,10,30,32,36
+UBCO,2015,W,INDG,100,,002,Introduction to Indigenous Studies,Corinna Netherton;Marlowe Sam;Menno Salverda,119,76.31092437,12.631510169,94.0,19.0,2,2.0,9,9,8,7,8,16,20,24,14
+UBCO,2015,W,INDG,100,,OVERALL,Introduction to Indigenous Studies,,267,77.801498127,14.951359659000001,99.0,7.0,11,3.0,12,11,14,18,16,26,50,56,50
 UBCO,2015,W,INDG,203,,101,Indigenous Peoples' Historical Perspectives,Marlowe Sam,6,74.5,8.526429498999999,87.0,65.0,,,,,,,,,,,
+UBCO,2015,W,INDG,203,,OVERALL,Indigenous Peoples' Historical Perspectives,,6,74.5,8.526429498999999,87.0,65.0,,,,,,,,,,,
 UBCO,2015,W,INDG,210,,001,Indigenous Peoples of the Americas,Tirso Gonzales,10,89.3,10.242070103,100.0,71.0,,,,,,,,,,,7
+UBCO,2015,W,INDG,210,,OVERALL,Indigenous Peoples of the Americas,,10,89.3,10.242070103,100.0,71.0,,,,,,,,,,,7
 UBCO,2015,W,INDG,301,,001,Examining an Indigenous Methodology: En'owkinwixw,Marlowe Sam,11,76.090909091,25.700017687,93.0,0.0,,,,,,,,,6,,
+UBCO,2015,W,INDG,301,,OVERALL,Examining an Indigenous Methodology: En'owkinwixw,,11,76.090909091,25.700017687,93.0,0.0,,,,,,,,,6,,
 UBCO,2015,W,INDG,303,,001,Indigenous Studies Theory and Methodology,Tirso Gonzales,18,91.333333333,5.940885258,98.0,80.0,,,,,,,,,,,12
+UBCO,2015,W,INDG,303,,OVERALL,Indigenous Studies Theory and Methodology,,18,91.333333333,5.940885258,98.0,80.0,,,,,,,,,,,12
 UBCO,2015,W,INDG,304,,001,Indigenous Studies Field Methods,Margo Tamez,15,75.266666667,21.601807684,94.0,10.0,,,,,,,,,,,
+UBCO,2015,W,INDG,304,,OVERALL,Indigenous Studies Field Methods,,15,75.266666667,21.601807684,94.0,10.0,,,,,,,,,,,
 UBCO,2015,W,INDG,306,,001,Indigenous Land Rights,Marlowe Sam,12,80.75,4.47467622,89.0,75.0,,,,,,,,5,,,
+UBCO,2015,W,INDG,306,,OVERALL,Indigenous Land Rights,,12,80.75,4.47467622,89.0,75.0,,,,,,,,5,,,
 UBCO,2015,W,INDG,307,,001,Traditional Ecological Knowledge,Tirso Gonzales,30,78.7,23.974339731,96.0,0.0,,,,,,,,,6,7,11
+UBCO,2015,W,INDG,307,,OVERALL,Traditional Ecological Knowledge,,30,78.7,23.974339731,96.0,0.0,,,,,,,,,6,7,11
 UBCO,2015,W,INDG,309,,001,Indigenous Perspectives on Health,Jennifer Leason,34,83.205882353,4.577808208,91.0,69.0,,,,,,,,,17,11,
+UBCO,2015,W,INDG,309,,OVERALL,Indigenous Perspectives on Health,,34,83.205882353,4.577808208,91.0,69.0,,,,,,,,,17,11,
 UBCO,2015,W,INDG,401,,001,Research Applications,Jeannette Armstrong,9,86.555555556,5.637178175,94.0,77.0,,,,,,,,,,,
+UBCO,2015,W,INDG,401,,OVERALL,Research Applications,,9,86.555555556,5.637178175,94.0,77.0,,,,,,,,,,,
 UBCO,2015,W,INDG,405,,001,Indigenous Education: History and Revitalization,Bill Cohen,29,85.517241379,1.882640426,88.0,81.0,,,,,,,,,9,20,
 UBCO,2015,W,INDG,405,,002,Indigenous Education: History and Revitalization,Bill Cohen,16,85.75,1.290994449,88.0,83.0,,,,,,,,,,13,
-UBCO,2015,W,INDG,405,,004,Indigenous Education: History and Revitalization,Bill Cohen,7,86.428571429,3.5523298860000003,90.0,80.0,,,,,,,,,,,
+UBCO,2015,W,INDG,405,,004,Indigenous Education: History and Revitalization,Bill Cohen,7,86.428571429,3.5523298860000003,90.0,80.0,,,,,,,,,,3,
+UBCO,2015,W,INDG,405,,OVERALL,Indigenous Education: History and Revitalization,,54,85.75925925899999,2.064389765,90.0,80.0,,,,,,,,,15,36,
 UBCO,2015,W,INDG,420,,001,"Indigenous Perspectives on Food, Place, Identity, and Biodiversity",Tirso Gonzales,17,84.529411765,17.482554329000003,95.0,23.0,,,,,,,,,,,10
+UBCO,2015,W,INDG,420,,OVERALL,"Indigenous Perspectives on Food, Place, Identity, and Biodiversity",,17,84.529411765,17.482554329000003,95.0,23.0,,,,,,,,,,,10
 UBCO,2015,W,INDG,440,,001,Residential Schools and Reconciliation,Marlowe Sam,19,78.789473684,8.403563711,88.0,54.0,,,,,,,,,,7,
+UBCO,2015,W,INDG,440,,OVERALL,Residential Schools and Reconciliation,,19,78.789473684,8.403563711,88.0,54.0,,,,,,,,,,7,

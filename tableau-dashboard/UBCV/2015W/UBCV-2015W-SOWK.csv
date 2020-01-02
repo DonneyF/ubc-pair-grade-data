@@ -1,53 +1,91 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,SOWK,200,,001,Introduction to Social Welfare,Shelley Rivkin,68,80.308823529,7.680674242,95.0,55.0,,,,,,6,7,8,20,16,7
+UBCV,2015,W,SOWK,200,,OVERALL,Introduction to Social Welfare,,68,80.308823529,7.680674242,95.0,55.0,,,,,,6,7,8,20,16,7
 UBCV,2015,W,SOWK,201,,001,Introduction to Social Work Practice,Andrea Johnson;Kristin Kendrick,53,73.358490566,12.519360913,91.0,29.0,,,,,,6,,13,10,7,
+UBCV,2015,W,SOWK,201,,OVERALL,Introduction to Social Work Practice,,53,73.358490566,12.519360913,91.0,29.0,,,,,,6,,13,10,7,
 UBCV,2015,W,SOWK,305,,001,Social Work Practice I,Ally Jamieson;Elizabeth Jones;Natalie Clark;Neringa Kubiliene,48,85.895833333,5.2196012860000005,95.0,73.0,,,,,,,,6,8,19,14
+UBCV,2015,W,SOWK,305,,OVERALL,Social Work Practice I,,48,85.895833333,5.2196012860000005,95.0,73.0,,,,,,,,6,8,19,14
 UBCV,2015,W,SOWK,310,,001,Interviewing Skills,Kelly Allison,24,83.875,4.628010184,90.0,68.0,,,,,,,,,10,11,
 UBCV,2015,W,SOWK,310,,002,Interviewing Skills,Melissa Medjuck,25,83.68,4.120275072,90.0,72.0,,,,,,,,,7,13,
-UBCV,2015,W,SOWK,316,,001,"Integrative Seminar in Social Work Theory, Policy and Practice",Wayne B Nickel;Wayne Nickel,14,88.285714286,9.268877381,95.0,58.0,,,,,,,,,,,10
+UBCV,2015,W,SOWK,310,,OVERALL,Interviewing Skills,,49,83.775510204,4.3314032860000005,90.0,68.0,,,,,,,,,17,24,
+UBCV,2015,W,SOWK,316,,001,"Integrative Seminar in Social Work Theory, Policy and Practice",Wayne B Nickel;Wayne Nickel,14,88.285714286,9.268877381,95.0,58.0,,,,,,,,,,2,10
 UBCV,2015,W,SOWK,316,,002,"Integrative Seminar in Social Work Theory, Policy and Practice",Carolyn Oliver,15,84.2,6.061588665,92.0,68.0,,,,,,,,,,6,
 UBCV,2015,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Miu Chung Yan,14,86.214285714,4.854475674,93.0,77.0,,,,,,,,,,8,
+UBCV,2015,W,SOWK,316,,OVERALL,"Integrative Seminar in Social Work Theory, Policy and Practice",,43,86.186046512,7.0008700610000005,95.0,58.0,,,,,,,,,6,16,15
 UBCV,2015,W,SOWK,320,,99A,Introduction to Social Work Research,Janet Vaughan Marshall,32,84.53125,6.946729911,95.0,69.0,,,,,,,,,7,10,9
-UBCV,2015,W,SOWK,320,,99B,Introduction to Social Work Research,Janet Vaughan Marshall,31,81.612903226,7.055387631,94.0,68.0,,,,,,,,,10,12,
+UBCV,2015,W,SOWK,320,,99B,Introduction to Social Work Research,Janet Vaughan Marshall,31,81.612903226,7.055387631,94.0,68.0,,,,,,,,,10,12,1
+UBCV,2015,W,SOWK,320,,OVERALL,Introduction to Social Work Research,,63,83.095238095,7.097737681,95.0,68.0,,,,,,7,,,17,22,10
 UBCV,2015,W,SOWK,335,,001,Social Analysis for Social Work Practice,Pilar Riano-Alcala;Stephanie Bryson;Tamara Miskovic,50,85.62,4.070250456,94.0,74.0,,,,,,,,,18,23,7
+UBCV,2015,W,SOWK,335,,OVERALL,Social Analysis for Social Work Practice,,50,85.62,4.070250456,94.0,74.0,,,,,,,,,18,23,7
 UBCV,2015,W,SOWK,337,,002,Culture and Race in Social Work Practice,Miu Chung Yan,49,79.87755102,4.998469153,89.0,68.0,,,,,,,,14,20,8,
+UBCV,2015,W,SOWK,337,,OVERALL,Culture and Race in Social Work Practice,,49,79.87755102,4.998469153,89.0,68.0,,,,,,,,14,20,8,
 UBCV,2015,W,SOWK,400,,001,Canadian Social Policy,Patricia Johnston,65,90.4,5.3787777420000005,100.0,74.0,,,,,,,,,7,15,41
+UBCV,2015,W,SOWK,400,,OVERALL,Canadian Social Policy,,65,90.4,5.3787777420000005,100.0,74.0,,,,,,,,,7,15,41
 UBCV,2015,W,SOWK,405,,001,Social Work Practice II,Elizabeth Jones,62,84.322580645,4.562046541,94.0,73.0,,,,,,,,8,24,18,10
+UBCV,2015,W,SOWK,405,,OVERALL,Social Work Practice II,,62,84.322580645,4.562046541,94.0,73.0,,,,,,,,8,24,18,10
 UBCV,2015,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Rhea Del Vecchio,13,88.615384615,5.008966319,96.0,79.0,,,,,,,,,,,7
 UBCV,2015,W,SOWK,416,,002,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Brian O'Neill,16,89.0,1.8618986730000002,92.0,86.0,,,,,,,,,,7,9
 UBCV,2015,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,16,83.3125,4.028543988,91.0,75.0,,,,,,,,,9,,
 UBCV,2015,W,SOWK,416,,004,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Edward Andrew Kruk,14,83.785714286,3.1176562060000004,90.0,78.0,,,,,,,,,7,,
-UBCV,2015,W,SOWK,425,,001,First Nations Social Issues,Shelly Johnson,26,89.26923076899999,3.504941567,99.0,81.0,,,,,,,,,,10,15
-UBCV,2015,W,SOWK,425,,002,First Nations Social Issues,Shelly Johnson,24,83.041666667,3.653219743,93.0,74.0,,,,,,,,,14,7,
+UBCV,2015,W,SOWK,416,,OVERALL,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",,59,86.13559322,4.431305665,96.0,75.0,,,,,,,,,18,18,19
+UBCV,2015,W,SOWK,425,,001,First Nations Social Issues,Shelly Johnson,26,89.26923076899999,3.504941567,99.0,81.0,,,,,,,,,1,10,15
+UBCV,2015,W,SOWK,425,,002,First Nations Social Issues,Shelly Johnson,24,83.041666667,3.653219743,93.0,74.0,,,,,,,,,14,7,2
+UBCV,2015,W,SOWK,425,,OVERALL,First Nations Social Issues,,50,86.28,4.733898596,99.0,74.0,,,,,,,,,15,17,17
 UBCV,2015,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mark Haden,16,82.5625,3.723237838,90.0,77.0,,,,,,,,,8,,
+UBCV,2015,W,SOWK,440,B,OVERALL,Integrative Seminars in Social Work,,16,82.5625,3.723237838,90.0,77.0,,,,,,,,,8,,
 UBCV,2015,W,SOWK,440,C,001,Integrative Seminars in Social Work,Pilar Riano-Alcala,7,83.142857143,2.9680841989999998,88.0,80.0,,,,,,,,,5,,
+UBCV,2015,W,SOWK,440,C,OVERALL,Integrative Seminars in Social Work,,7,83.142857143,2.9680841989999998,88.0,80.0,,,,,,,,,5,,
 UBCV,2015,W,SOWK,440,G,007,Integrative Seminars in Social Work,T Richard Sullivan,18,76.388888889,6.652190165,85.0,66.0,,,,,,,,,7,,
+UBCV,2015,W,SOWK,440,G,OVERALL,Integrative Seminars in Social Work,,18,76.388888889,6.652190165,85.0,66.0,,,,,,,,,7,,
 UBCV,2015,W,SOWK,440,I,001,Integrative Seminars in Social Work,Sheila Marshall,18,87.944444444,5.994823475,97.0,75.0,,,,,,,,,,6,7
+UBCV,2015,W,SOWK,440,I,OVERALL,Integrative Seminars in Social Work,,18,87.944444444,5.994823475,97.0,75.0,,,,,,,,,,6,7
 UBCV,2015,W,SOWK,440,P,001,Integrative Seminars in Social Work,Kelly Allison,23,80.956521739,7.363782754,92.0,65.0,,,,,,,5,,6,8,
 UBCV,2015,W,SOWK,440,P,002,Integrative Seminars in Social Work,Melissa Medjuck,25,81.8,6.31136541,91.0,68.0,,,,,,,,,8,6,
+UBCV,2015,W,SOWK,440,P,OVERALL,Integrative Seminars in Social Work,,48,81.395833333,6.775235202999999,92.0,65.0,,,,,,,6,5,14,14,5
 UBCV,2015,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Erin Henthorne,21,91.714285714,3.809761897,100.0,86.0,,,,,,,,,,6,15
+UBCV,2015,W,SOWK,440,Q,OVERALL,Integrative Seminars in Social Work,,21,91.714285714,3.809761897,100.0,86.0,,,,,,,,,,6,15
 UBCV,2015,W,SOWK,450,,99C,Social Work Practice in Community Mental Health,Simon Davis,27,85.185185185,9.017235791000001,93.0,53.0,,,,,,,,,6,10,8
+UBCV,2015,W,SOWK,450,,OVERALL,Social Work Practice in Community Mental Health,,27,85.185185185,9.017235791000001,93.0,53.0,,,,,,,,,6,10,8
 UBCV,2015,W,SOWK,451,,001,Health Care Team Development,Barbara Casson;Marcia Choi,56,90.089285714,1.771253133,94.0,87.0,,,,,,,,,,25,31
+UBCV,2015,W,SOWK,451,,OVERALL,Health Care Team Development,,56,90.089285714,1.771253133,94.0,87.0,,,,,,,,,,25,31
 UBCV,2015,W,SOWK,453,,001,Disability and Justice,Timothy Stainton,18,84.277777778,3.2322921310000003,90.0,79.0,,,,,,,,,10,6,
+UBCV,2015,W,SOWK,453,,OVERALL,Disability and Justice,,18,84.277777778,3.2322921310000003,90.0,79.0,,,,,,,,,10,6,
 UBCV,2015,W,SOWK,501,,001,Advanced Canadian Social Policy,Frank Tester,17,85.058823529,5.994482757,94.0,73.0,,,,,,,,,,9,
+UBCV,2015,W,SOWK,501,,OVERALL,Advanced Canadian Social Policy,,17,85.058823529,5.994482757,94.0,73.0,,,,,,,,,,9,
 UBCV,2015,W,SOWK,502,,001,Social Work Practice,Kelly Allison;Natalie Clark;Ricardo Chaparro-Pacheco,18,86.5,5.649049894,96.0,73.0,,,,,,,,,,9,5
+UBCV,2015,W,SOWK,502,,OVERALL,Social Work Practice,,18,86.5,5.649049894,96.0,73.0,,,,,,,,,,9,5
 UBCV,2015,W,SOWK,503,,001,Communication Skills in Social Work Practice,Alyson Quinn,16,84.3125,2.386594505,88.0,80.0,,,,,,,,,7,9,
+UBCV,2015,W,SOWK,503,,OVERALL,Communication Skills in Social Work Practice,,16,84.3125,2.386594505,88.0,80.0,,,,,,,,,7,9,
 UBCV,2015,W,SOWK,505,,001,Social Analysis for Social Work Practice,William Craig Norris,18,88.555555556,7.740057928,95.0,60.0,,,,,,,,,,8,9
+UBCV,2015,W,SOWK,505,,OVERALL,Social Analysis for Social Work Practice,,18,88.555555556,7.740057928,95.0,60.0,,,,,,,,,,8,9
 UBCV,2015,W,SOWK,510,,001,First Nations Social Issues,Shelly Johnson,22,86.409090909,4.031531564,94.0,78.0,,,,,,,,,5,9,7
+UBCV,2015,W,SOWK,510,,OVERALL,First Nations Social Issues,,22,86.409090909,4.031531564,94.0,78.0,,,,,,,,,5,9,7
 UBCV,2015,W,SOWK,516,,001,Foundation MSW Integrative Seminar,Elizabeth Jones,16,85.1875,3.410156399,90.0,77.0,,,,,,,,,6,8,
+UBCV,2015,W,SOWK,516,,OVERALL,Foundation MSW Integrative Seminar,,16,85.1875,3.410156399,90.0,77.0,,,,,,,,,6,8,
 UBCV,2015,W,SOWK,521,,001,Social Work Practice in Addictions,Edward Andrew Kruk,20,82.4,4.031455268,90.0,72.0,,,,,,,,,10,5,
+UBCV,2015,W,SOWK,521,,OVERALL,Social Work Practice in Addictions,,20,82.4,4.031455268,90.0,72.0,,,,,,,,,10,5,
 UBCV,2015,W,SOWK,522,,99C,Family Mediation and Conflict Resolution,Edward Andrew Kruk,25,80.88,3.844043011,89.0,71.0,,,,,,,,9,10,5,
+UBCV,2015,W,SOWK,522,,OVERALL,Family Mediation and Conflict Resolution,,25,80.88,3.844043011,89.0,71.0,,,,,,,,9,10,5,
 UBCV,2015,W,SOWK,523,A,001,Advanced Analysis of Culture and Race in Social Work Practice,Parminder Nizher,18,90.055555556,7.091604168,97.0,71.0,,,,,,,,,,,12
+UBCV,2015,W,SOWK,523,A,OVERALL,Advanced Analysis of Culture and Race in Social Work Practice,,18,90.055555556,7.091604168,97.0,71.0,,,,,,,,,,,12
 UBCV,2015,W,SOWK,524,A,001,Social Services Management,Elizabeth Jones,12,91.166666667,4.608950449,96.0,83.0,,,,,,,,,,,8
+UBCV,2015,W,SOWK,524,A,OVERALL,Social Services Management,,12,91.166666667,4.608950449,96.0,83.0,,,,,,,,,,,8
 UBCV,2015,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Simon Davis,24,88.333333333,3.447326206,98.0,82.0,,,,,,,,,,16,6
+UBCV,2015,W,SOWK,525,,OVERALL,Advanced Social Work Practice: Mental Health,,24,88.333333333,3.447326206,98.0,82.0,,,,,,,,,,16,6
 UBCV,2015,W,SOWK,532,A,001,Social Work Practice with the Family,D Joe Blom,9,87.77777777799999,0.833333333,89.0,87.0,,,,,,,,,,9,
+UBCV,2015,W,SOWK,532,A,OVERALL,Social Work Practice with the Family,,9,87.77777777799999,0.833333333,89.0,87.0,,,,,,,,,,9,
 UBCV,2015,W,SOWK,550,,001,Social Work and Social Justice,Emma Gauvin,17,92.88235294100001,2.39484741,96.0,88.0,,,,,,,,,,,16
 UBCV,2015,W,SOWK,550,,002,Social Work and Social Justice,Deborah O'Connor,10,79.7,6.783149056,90.0,70.0,,,,,,,,,,,
 UBCV,2015,W,SOWK,550,,003,Social Work and Social Justice,Edward Andrew Kruk,10,84.7,2.311805451,87.0,81.0,,,,,,,,,,6,
+UBCV,2015,W,SOWK,550,,OVERALL,Social Work and Social Justice,,37,87.108108108,6.927336284,96.0,70.0,,,,,,,,,8,7,18
 UBCV,2015,W,SOWK,551,,001,Health and Social Care Praxis,Stephanie Anne Bryson;Stephanie Bryson;Teresa Robitaille,16,84.5,7.5277265270000004,91.0,60.0,,,,,,,,,,7,
-UBCV,2015,W,SOWK,554,C,001,Qualitative Methods in Social Work Research,Miu Chung Yan,9,83.333333333,2.34520788,86.0,79.0,,,,,,,,,5,,
+UBCV,2015,W,SOWK,551,,OVERALL,Health and Social Care Praxis,,16,84.5,7.5277265270000004,91.0,60.0,,,,,,,,,,7,
+UBCV,2015,W,SOWK,554,C,001,Qualitative Methods in Social Work Research,Miu Chung Yan,9,83.333333333,2.34520788,86.0,79.0,,,,,,,,,5,3,
 UBCV,2015,W,SOWK,554,C,002,Qualitative Methods in Social Work Research,Pilar Riano-Alcala,13,86.23076923100001,3.218536058,92.0,81.0,,,,,,,,,,7,
 UBCV,2015,W,SOWK,554,C,003,Qualitative Methods in Social Work Research,Stephanie Anne Bryson;Stephanie Bryson,11,84.727272727,9.424339861,94.0,60.0,,,,,,,,,,5,
-UBCV,2015,W,SOWK,559,,001,Advanced Integrative Seminar,Stephanie Anne Bryson;Stephanie Bryson,16,86.0625,6.049449011,93.0,70.0,,,,,,,,,,7,
-UBCV,2015,W,SOWK,559,,002,Advanced Integrative Seminar,Deborah O'Connor,13,86.076923077,6.29101924,94.0,76.0,,,,,,,,,,,6
+UBCV,2015,W,SOWK,554,C,OVERALL,Qualitative Methods in Social Work Research,,33,84.939393939,5.86802455,94.0,60.0,,,,,,,,,11,15,5
+UBCV,2015,W,SOWK,559,,001,Advanced Integrative Seminar,Stephanie Anne Bryson;Stephanie Bryson,16,86.0625,6.049449011,93.0,70.0,,,,,,,,,,7,4
+UBCV,2015,W,SOWK,559,,002,Advanced Integrative Seminar,Deborah O'Connor,13,86.076923077,6.29101924,94.0,76.0,,,,,,,,,,2,6
+UBCV,2015,W,SOWK,559,,OVERALL,Advanced Integrative Seminar,,29,86.06896551700001,6.047024265,94.0,70.0,,,,,,,,,5,9,10
 UBCV,2015,W,SOWK,570,,002,Directed Studies in Social Work,,5,86.2,3.834057903,90.0,81.0,,,,,,,,,,,
+UBCV,2015,W,SOWK,570,,OVERALL,Directed Studies in Social Work,,10,90.1,5.065131346,95.0,81.0,,,,,,,,,,,7

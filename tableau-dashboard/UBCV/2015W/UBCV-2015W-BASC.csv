@@ -1,13 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,BASC,500,,001,Process Fundamentals,Harish Krishnan;Robert Macadams,32,80.96875,3.053125052,87.0,74.0,,,,,,,,9,18,,
-UBCV,2015,W,BASC,500,,002,Process Fundamentals,Harish Krishnan;Robert Macadams,24,81.875,4.142174392,89.0,73.0,,,,,,,,,13,6,
+UBCV,2015,W,BASC,500,,002,Process Fundamentals,Harish Krishnan;Robert Macadams,24,81.875,4.142174392,89.0,73.0,,,,,,,,2,13,6,
 UBCV,2015,W,BASC,500,,301,Process Fundamentals,Harish Krishnan,25,81.52,3.59536739,89.0,76.0,,,,,,,,7,14,,
+UBCV,2015,W,BASC,500,,OVERALL,Process Fundamentals,,81,81.407407407,3.545341231,89.0,73.0,,,,,,,,18,45,14,
 UBCV,2015,W,BASC,523,,001,Supply Chain Management,Harish Krishnan;Robert Macadams,35,81.085714286,3.147094165,86.0,76.0,,,,,,,,11,18,6,
 UBCV,2015,W,BASC,523,,002,Supply Chain Management,Harish Krishnan,18,82.055555556,2.838231061,86.0,78.0,,,,,,,,5,9,,
-UBCV,2015,W,BASC,523,,302,Supply Chain Management,Harish Krishnan,10,80.5,2.990726407,86.0,75.0,,,,,,,,,6,,
-UBCV,2015,W,BASC,523,,815,Supply Chain Management,S Thomas Mccormick,29,75.068965517,4.139798429,82.0,58.0,,,,,,,14,10,,,
+UBCV,2015,W,BASC,523,,302,Supply Chain Management,Harish Krishnan,10,80.5,2.990726407,86.0,75.0,,,,,,,,2,6,,
+UBCV,2015,W,BASC,523,,815,Supply Chain Management,S Thomas Mccormick,29,75.068965517,4.139798429,82.0,58.0,,,,,,,14,10,3,,
 UBCV,2015,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan;Sanjith Gopalakrishnan,46,77.891304348,5.237591732,93.0,68.0,,,,,,,13,15,9,5,
+UBCV,2015,W,BASC,523,,OVERALL,Supply Chain Management,,138,78.84057971,4.766437371,93.0,58.0,,,,,,,28,43,45,16,
 UBCV,2015,W,BASC,524,,001,Supply Chain Analytics,Gregory Werker,24,86.041666667,3.700518961,90.0,74.0,,,,,,,,,5,16,
+UBCV,2015,W,BASC,524,,OVERALL,Supply Chain Analytics,,24,86.041666667,3.700518961,90.0,74.0,,,,,,,,,5,16,
 UBCV,2015,W,BASC,550,,001,Operations and Logistics,Gregory Werker,50,84.1,5.72944418,94.0,63.0,,,,,,,,,18,16,9
 UBCV,2015,W,BASC,550,,002,Operations and Logistics,Gregory Werker,49,84.673469388,6.801922997,97.0,68.0,,,,,,,,,16,10,15
 UBCV,2015,W,BASC,550,,300,Operations and Logistics,Gregory Werker,48,84.895833333,6.656430528,94.0,53.0,,,,,,,,,16,20,9
+UBCV,2015,W,BASC,550,,OVERALL,Operations and Logistics,,147,84.551020408,6.372225341,97.0,53.0,,,,,,,,8,50,46,33

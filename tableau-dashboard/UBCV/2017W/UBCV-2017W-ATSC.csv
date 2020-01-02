@@ -1,9 +1,14 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2017,W,ATSC,113,,101,Applied Meteorology,Anthony Di Stefano;Mark Lemessurier;Mekdes Ayalew Tessema;Mekdes Tessema;Roland Stull,146,82.068493151,11.709505443,97.0,37.0,,,,,,,8,13,23,35,49
+UBCV,2017,W,ATSC,113,,201,Applied Meteorology,Andrew Berrington;Mekdes Ayalew Tessema;Mekdes Tessema;Roland Stull,269,79.765799257,15.284887346,98.0,0.0,19,2.0,5,7,5,6,11,20,61,57,76
 UBCV,2017,W,ATSC,113,,99A,Applied Meteorology,Andrew Berrington;Roland Stull,21,70.857142857,25.644269758000004,90.0,0.0,,,,,,,,,5,,
 UBCV,2017,W,ATSC,113,,99C,Applied Meteorology,Mark Lemessurier;Roland Stull,21,69.476190476,22.639830051999997,97.0,0.0,,,,,,,,,6,,
-UBCV,2017,W,ATSC,113,,101,Applied Meteorology,Anthony Di Stefano;Mark Lemessurier;Mekdes Ayalew Tessema;Mekdes Tessema;Roland Stull,146,82.068493151,11.709505443,97.0,37.0,,,,,,,8,13,23,35,49
-UBCV,2017,W,ATSC,113,,201,Applied Meteorology,Andrew Berrington;Mekdes Ayalew Tessema;Mekdes Tessema;Roland Stull,269,79.765799257,15.284887346,98.0,0.0,19,,5,7,5,6,11,20,61,57,76
+UBCV,2017,W,ATSC,113,,OVERALL,Applied Meteorology,,457,79.619256018,15.570422263,98.0,0.0,28,7,9,10,10,12,21,36,95,99,130
 UBCV,2017,W,ATSC,201,,101,Meteorology of Storms,Roland Stull;Tatjana Zenker,113,85.02654867300001,8.641118662,99.0,57.0,,,,,,,8,12,13,28,45
+UBCV,2017,W,ATSC,201,,OVERALL,Meteorology of Storms,,113,85.02654867300001,8.641118662,99.0,57.0,,,,,,,8,12,13,28,45
 UBCV,2017,W,ATSC,404,,201,Dynamic Meteorology,Pedro Odon,11,84.0,7.615773106000001,92.0,66.0,,,,,,,,,,,
+UBCV,2017,W,ATSC,404,,OVERALL,Dynamic Meteorology,,11,84.0,7.615773106000001,92.0,66.0,,,,,,,,,,,
 UBCV,2017,W,ATSC,405,,201,Cloud Physics and Chemistry,Philip Austin,8,78.25,9.823441352,91.0,63.0,,,,,,,,,,,
+UBCV,2017,W,ATSC,405,,OVERALL,Cloud Physics and Chemistry,,8,78.25,9.823441352,91.0,63.0,,,,,,,,,,,
 UBCV,2017,W,ATSC,409,,101,"Numerical Techniques for Ocean, Atmosphere and Earth Scientists",Mekdes Ayalew Tessema;Mekdes Tessema;Philip Austin;Susan Elizabeth Allen,7,83.285714286,5.936168397,90.0,74.0,,,,,,,,,,,
+UBCV,2017,W,ATSC,409,,OVERALL,"Numerical Techniques for Ocean, Atmosphere and Earth Scientists",,7,83.285714286,5.936168397,90.0,74.0,,,,,,,,,,,

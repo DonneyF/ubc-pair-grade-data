@@ -1,9 +1,13 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,S,FMST,210,,921,Family Context of Human Development,Maria Weatherby,74,67.756756757,15.243063377,97.0,30.0,6,9,8,6,7,7,10,,5,6,6
-UBCV,2017,S,FMST,210,,941,Family Context of Human Development,Maria Weatherby,85,73.717647059,13.697072823,99.0,47.0,5,,5,7,7,9,8,8,11,10,11
-UBCV,2017,S,FMST,210,,951,Family Context of Human Development,Maria Weatherby,98,73.071428571,14.251966765999999,97.0,10.0,,,6,7,8,14,8,10,15,14,8
-UBCV,2017,S,FMST,312,,001,Parent-child Relationships,Maria Weatherby,53,72.943396226,15.426519492,98.0,36.0,,,,5,,8,5,,,9,8
-UBCV,2017,S,FMST,312,,002,Parent-child Relationships,Maria Weatherby,49,70.204081633,21.443704974,100.0,13.0,7,,,6,,,,6,8,,9
-UBCV,2017,S,FMST,314,,001,Relationship Development,Andrea Nicole Polonijo;Andrea Polonijo;Todd Martin,86,74.476744186,7.747070405,92.0,52.0,,,,,11,10,12,25,16,5,
-UBCV,2017,S,FMST,314,,922,Relationship Development,Silvia Bartolic,44,73.477272727,8.091018955,86.0,50.0,,,,,,9,6,10,10,,
-UBCV,2017,S,FMST,316,,001,Human Sexuality,Brandy Wiebe;Kate Dalrymple,55,69.963636364,11.661846045999999,90.0,15.0,,,,,7,11,7,8,9,,
+UBCV,2017,S,FMST,210,,921,Family Context of Human Development,Maria Weatherby,74,67.756756757,15.243063377,97.0,30.0,6,9,8,6,7,7,10,4.0,5,6,6
+UBCV,2017,S,FMST,210,,941,Family Context of Human Development,Maria Weatherby,85,73.717647059,13.697072823,99.0,47.0,5,4.0,5,7,7,9,8,8.0,11,10,11
+UBCV,2017,S,FMST,210,,951,Family Context of Human Development,Maria Weatherby,98,73.071428571,14.251966765999999,97.0,10.0,4,4.0,6,7,8,14,8,10.0,15,14,8
+UBCV,2017,S,FMST,210,,OVERALL,Family Context of Human Development,,257,71.754863813,14.537606999000001,99.0,10.0,15,17,19,20,22,30,26,22.0,31,30,25
+UBCV,2017,S,FMST,312,,001,Parent-child Relationships,Maria Weatherby,53,72.943396226,15.426519492,98.0,36.0,3,,,5,,8,5,3.0,3,9,8
+UBCV,2017,S,FMST,312,,002,Parent-child Relationships,Maria Weatherby,49,70.204081633,21.443704974,100.0,13.0,7,,,6,,3,0,6.0,8,4,9
+UBCV,2017,S,FMST,312,,OVERALL,Parent-child Relationships,,102,71.62745098,18.518880688,100.0,13.0,10,5,7,11,3.0,11,5,9.0,11,13,17
+UBCV,2017,S,FMST,314,,001,Relationship Development,Andrea Nicole Polonijo;Andrea Polonijo;Todd Martin,86,74.476744186,7.747070405,92.0,52.0,,,,,11,10,12,25.0,16,5,
+UBCV,2017,S,FMST,314,,922,Relationship Development,Silvia Bartolic,44,73.477272727,8.091018955,86.0,50.0,,,,,2,9,6,10.0,10,3,
+UBCV,2017,S,FMST,314,,OVERALL,Relationship Development,,130,74.138461538,7.848126075,92.0,50.0,,,,5,13,19,18,35.0,26,8,
+UBCV,2017,S,FMST,316,,001,Human Sexuality,Brandy Wiebe;Kate Dalrymple,55,69.963636364,11.661846045999999,90.0,15.0,,,,,7,11,7,8.0,9,,
+UBCV,2017,S,FMST,316,,OVERALL,Human Sexuality,,55,69.963636364,11.661846045999999,90.0,15.0,,,,,7,11,7,8.0,9,,

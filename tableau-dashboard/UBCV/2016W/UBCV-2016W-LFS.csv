@@ -1,15 +1,24 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,LFS,100,,001,"Introduction to Land, Food and Community",Akshit Puri;Carrie Elise James;Carrie James;Murray Isman;Rickey Yada,285,73.638596491,10.324621099,90.0,0.0,5,6,6,11,26,35,48,59,64,24,
-UBCV,2016,W,LFS,100,,002,"Introduction to Land, Food and Community",Akshit Puri;Murray Isman,51,71.333333333,13.923601067,91.0,15.0,,,,,,11,7,8,10,,
-UBCV,2016,W,LFS,150,,003,Scholarly Writing and Argumentation in Land and Food Systems,Kiran Padda;Kiran Preet Padda;Murray Isman,28,73.0,6.705442786,85.0,50.0,,,,,,5,10,,,,
+UBCV,2016,W,LFS,100,,001,"Introduction to Land, Food and Community",Akshit Puri;Carrie Elise James;Carrie James;Murray Isman;Rickey Yada,285,73.638596491,10.324621099,90.0,0.0,5,6,6,11,26,35,48,59,64,24,1.0
+UBCV,2016,W,LFS,100,,002,"Introduction to Land, Food and Community",Akshit Puri;Murray Isman,51,71.333333333,13.923601067,91.0,15.0,4,1,1,1,3,11,7,8,10,4,1.0
+UBCV,2016,W,LFS,100,,OVERALL,"Introduction to Land, Food and Community",,336,73.288690476,10.954041989,91.0,0.0,9,7,7,12,29,46,55,67,74,28,2.0
+UBCV,2016,W,LFS,150,,003,Scholarly Writing and Argumentation in Land and Food Systems,Kiran Padda;Kiran Preet Padda;Murray Isman,28,73.0,6.705442786,85.0,50.0,,,,,,5,10,,4,,
 UBCV,2016,W,LFS,150,,005,Scholarly Writing and Argumentation in Land and Food Systems,Kristen Walker;Nicolas Talloni-Alvarez,28,75.0,9.148972822000001,90.0,51.0,,,,,,,7,,7,,
 UBCV,2016,W,LFS,150,,006,Scholarly Writing and Argumentation in Land and Food Systems,Christine Sumner;Daniel Weary,28,74.25,7.676925503,88.0,56.0,,,,,,,6,7,5,,
-UBCV,2016,W,LFS,250,,001,"Land, Food and Community I",Alexis Sutherland;Allison Witter;Dan Clegg;Dan John Clegg;Daniel Klein;Evan Bowness;Hiral Sejpal;Huamani Orrego;Sean Kearney;Siddhartho Paul;Siddhartho Shekhar Paul;Theodore Eyster;William Valley;Wilson Mendes;Wilson Pereira Mendes,271,77.413284133,8.238058062999999,97.0,42.0,,,,,13,20,41,64,76,34,9
-UBCV,2016,W,LFS,250,,199,"Land, Food and Community I",Kelsey Dosanjh;Marie-Claude Fortin,32,71.4375,19.722162905999998,97.0,22.0,,,,,,,,,6,,5
-UBCV,2016,W,LFS,250,,298,"Land, Food and Community I",Kelsey Dosanjh;Marie-Claude Fortin,31,79.677419355,13.234770107000001,98.0,30.0,,,,,,,,,,7,7
+UBCV,2016,W,LFS,150,,OVERALL,Scholarly Writing and Argumentation in Land and Food Systems,,84,74.083333333,7.855944466,90.0,50.0,,,,,10,9,23,12,16,7,
+UBCV,2016,W,LFS,250,,001,"Land, Food and Community I",Alexis Sutherland;Allison Witter;Dan Clegg;Dan John Clegg;Daniel Klein;Evan Bowness;Evan William Bowness;Hiral Sejpal;Huamani Orrego;Sean Kearney;Siddhartho Paul;Siddhartho Shekhar Paul;Theodore Eyster;William Valley;Wilson Mendes;Wilson Pereira Mendes,271,77.413284133,8.238058062999999,97.0,42.0,,,,,13,20,41,64,76,34,9
+UBCV,2016,W,LFS,250,,199,"Land, Food and Community I",Kelsey Dosanjh;Marie-Claude Fortin,32,71.4375,19.722162905999998,97.0,22.0,,,,,,,,,6,3,5
+UBCV,2016,W,LFS,250,,298,"Land, Food and Community I",Kelsey Dosanjh;Marie-Claude Fortin,31,79.677419355,13.234770107000001,98.0,30.0,,,,,,,,,4,7,7
+UBCV,2016,W,LFS,250,,OVERALL,"Land, Food and Community I",,334,77.05089820399999,10.52583476,98.0,22.0,7,5,4.0,9,14,24,49,71,86,44,21
 UBCV,2016,W,LFS,252,,002,"Land, Food, and Community: Quantitative Data Analysis",Jingyu Bao;Lucia Amendola Saavedra;Michael Johnson;Michael Roger Johnson;Pacific Vuningoma;Sarah Jane Riddell;Sarah Riddell;Teresa Hao;Xiaohun Li;Ya Gao,181,76.90055248600001,9.393913498,95.0,50.0,,5,6,,16,19,23,27,36,37,8
-UBCV,2016,W,LFS,350,,001,"Land, Food, and Community II",Carrie James;Colin Charles Dring;Colin Dring;Francisco Gomez Lopez;Francisco Javier Gomez Lopez;Latika Raisinghani;William Valley,141,78.936170213,7.573650531,93.0,57.0,,,,,7,10,15,24,47,25,7
+UBCV,2016,W,LFS,252,,OVERALL,"Land, Food, and Community: Quantitative Data Analysis",,181,76.90055248600001,9.393913498,95.0,50.0,,5,6,,16,19,23,27,36,37,8
+UBCV,2016,W,LFS,302,A,OVERALL,International Field Studies,,5,90.0,7.348469228,98.0,78.0,,,,,,,,,,,
+UBCV,2016,W,LFS,350,,001,"Land, Food, and Community II",Carrie James;Colin Charles Dring;Colin Dring;Francisco Gomez Lopez;Francisco Javier Gomez Lopez;Latika Raisinghani;William Valley,141,78.936170213,7.573650531,93.0,57.0,,,2,,7,10,15,24,47,25,7
 UBCV,2016,W,LFS,350,,002,"Land, Food, and Community II",Carrie James;Colin Charles Dring;Colin Dring;Francisco Gomez Lopez;Francisco Javier Gomez Lopez;Latika Raisinghani;William Valley,140,76.757142857,9.291344645,92.0,50.0,,,6,,8,9,20,18,47,17,7
+UBCV,2016,W,LFS,350,,OVERALL,"Land, Food, and Community II",,281,77.85053380800001,8.528046674,93.0,50.0,,,8,8,15,19,35,42,94,42,14
 UBCV,2016,W,LFS,400,,001,Audio Storytelling,Duncan M Mchugh;Duncan Mchugh;William Valley,20,82.0,9.043753296,92.0,64.0,,,,,,,,,5,7,
+UBCV,2016,W,LFS,400,,OVERALL,Audio Storytelling,,20,82.0,9.043753296,92.0,64.0,,,,,,,,,5,7,
 UBCV,2016,W,LFS,450,,001,"Land, Food, and Community III: Food System Sustainability",Marie-Claude Fortin;Sarah Riddell,34,82.735294118,7.191361921,94.0,64.0,,,,,,,,,9,10,7
+UBCV,2016,W,LFS,450,,OVERALL,"Land, Food, and Community III: Food System Sustainability",,34,82.735294118,7.191361921,94.0,64.0,,,,,,,,,9,10,7
 UBCV,2016,W,LFS,496,A,001,Career Development Internship,Hannah Wittman,7,77.714285714,8.901578244,86.0,60.0,,,,,,,,,,,
+UBCV,2016,W,LFS,496,A,OVERALL,Career Development Internship,,9,78.666666667,7.937253932999999,86.0,60.0,,,,,,,,,6,,

@@ -1,20 +1,38 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2014,W,POLI,101,,001,The Government of Canada,Yijiang Ding,81,68.135802469,13.850769912,94.0,11.0,6,,7,12,10,16,5,8,7,7,
-UBCO,2014,W,POLI,101,,002,The Government of Canada,Carey Doberstein;Claudia Donoso,108,68.018518519,16.985965335,92.0,0.0,8,6,8,11,11,11,9,16,20,7,
+UBCO,2014,W,POLI,101,,001,The Government of Canada,Yijiang Ding,81,68.135802469,13.850769912,94.0,11.0,6,1,7,12,10,16,5,8,7,7,2.0
+UBCO,2014,W,POLI,101,,002,The Government of Canada,Carey Doberstein;Claudia Donoso,108,68.018518519,16.985965335,92.0,0.0,8,6,8,11,11,11,9,16,20,7,1.0
+UBCO,2014,W,POLI,101,,OVERALL,The Government of Canada,,189,68.06878306899999,15.67965646,94.0,0.0,14,7,15,23,21,27,14,24,27,14,3.0
 UBCO,2014,W,POLI,220,,101,Introduction to Comparative Politics,Carl Hodge,84,64.964285714,16.739281,87.0,0.0,10,,5,7,9,17,18,6,8,,
+UBCO,2014,W,POLI,220,,OVERALL,Introduction to Comparative Politics,,84,64.964285714,16.739281,87.0,0.0,10,,5,7,9,17,18,6,8,,
 UBCO,2014,W,POLI,221,,001,International Politics,Wolfgang Depner,94,71.37234042600001,15.689859777999999,94.0,8.0,5,6,5,9,8,7,11,10,15,11,7
+UBCO,2014,W,POLI,221,,OVERALL,International Politics,,94,71.37234042600001,15.689859777999999,94.0,8.0,5,6,5,9,8,7,11,10,15,11,7
 UBCO,2014,W,POLI,222,,001,International Politics II,Adam Jones;Amy Mccroy,89,66.97752809,18.560085182999998,92.0,0.0,7,,,6,8,18,17,14,6,5,
+UBCO,2014,W,POLI,222,,OVERALL,International Politics II,,89,66.97752809,18.560085182999998,92.0,0.0,7,,,6,8,18,17,14,6,5,
 UBCO,2014,W,POLI,240,,002,Currents of Political Thought,Elise Kirsten Hahn;Wolfgang Depner,75,68.253333333,18.252058998,95.0,0.0,13,,6,,,7,7,5,13,11,
+UBCO,2014,W,POLI,240,,OVERALL,Currents of Political Thought,,75,68.253333333,18.252058998,95.0,0.0,13,,6,,,7,7,5,13,11,
 UBCO,2014,W,POLI,303,,001,Federalism in Canada,Carey Doberstein,44,74.318181818,11.703254819000001,93.0,20.0,,,,,6,,8,8,7,7,
+UBCO,2014,W,POLI,303,,OVERALL,Federalism in Canada,,44,74.318181818,11.703254819000001,93.0,20.0,,,,,6,,8,8,7,7,
 UBCO,2014,W,POLI,314,,001,Topics in Comparative Politics: China,Yijiang Ding,44,73.045454545,11.23316217,90.0,20.0,,,,,7,5,5,9,9,,
+UBCO,2014,W,POLI,314,,OVERALL,Topics in Comparative Politics: China,,44,73.045454545,11.23316217,90.0,20.0,,,,,7,5,5,9,9,,
 UBCO,2014,W,POLI,336,,001,Government and Politics of the United States of America II,Carl Hodge,36,69.416666667,15.132509942,90.0,0.0,,,,,,,9,5,,,
+UBCO,2014,W,POLI,336,,OVERALL,Government and Politics of the United States of America II,,36,69.416666667,15.132509942,90.0,0.0,,,,,,,9,5,,,
 UBCO,2014,W,POLI,354,,001,History of Political Ideas I,Wolfgang Depner,39,78.74358974399999,12.569214580999999,97.0,15.0,,,,,,,7,7,10,7,
+UBCO,2014,W,POLI,354,,OVERALL,History of Political Ideas I,,39,78.74358974399999,12.569214580999999,97.0,15.0,,,,,,,7,7,10,7,
 UBCO,2014,W,POLI,356,,001,History of Political Ideas II,Wolfgang Depner,36,76.694444444,10.862305581,97.0,53.0,,,,,,,5,5,9,,
+UBCO,2014,W,POLI,356,,OVERALL,History of Political Ideas II,,36,76.694444444,10.862305581,97.0,53.0,,,,,,,5,5,9,,
 UBCO,2014,W,POLI,364,,001,International Organizations,Yijiang Ding,45,73.84444444399999,10.602220083999999,89.0,37.0,,,,,,8,,11,9,5,
+UBCO,2014,W,POLI,364,,OVERALL,International Organizations,,45,73.84444444399999,10.602220083999999,89.0,37.0,,,,,,8,,11,9,5,
 UBCO,2014,W,POLI,371,,001,The Politics of NAFTA,Carey Doberstein,40,76.175,15.333702615,92.0,0.0,,,,,,,6,6,9,7,
+UBCO,2014,W,POLI,371,,OVERALL,The Politics of NAFTA,,40,76.175,15.333702615,92.0,0.0,,,,,,,6,6,9,7,
 UBCO,2014,W,POLI,378,,001,"The Age of Imperialism, 1800-1914",Carl Hodge,33,71.424242424,17.786986646,90.0,0.0,,,,,,,7,6,,5,
+UBCO,2014,W,POLI,378,,OVERALL,"The Age of Imperialism, 1800-1914",,33,71.424242424,17.786986646,90.0,0.0,,,,,,,7,6,,5,
 UBCO,2014,W,POLI,391,D,001,Special Topics in Political Science,Adam Jones,40,80.925,6.027235196,90.0,65.0,,,,,,,,8,14,9,
+UBCO,2014,W,POLI,391,D,OVERALL,Special Topics in Political Science,,40,80.925,6.027235196,90.0,65.0,,,,,,,,8,14,9,
 UBCO,2014,W,POLI,391,E,001,Special Topics in Political Science,Thomas Heilke,38,76.84210526300001,10.543414278,95.0,56.0,,,,,,,6,6,6,5,5
+UBCO,2014,W,POLI,391,E,OVERALL,Special Topics in Political Science,,38,76.84210526300001,10.543414278,95.0,56.0,,,,,,,6,6,6,5,5
 UBCO,2014,W,POLI,432,,001,Contemporary Issues in Law,Cathie Heinrichs,32,76.03125,10.914578517,93.0,30.0,,,,,,,9,11,5,,
+UBCO,2014,W,POLI,432,,OVERALL,Contemporary Issues in Law,,32,76.03125,10.914578517,93.0,30.0,,,,,,,9,11,5,,
 UBCO,2014,W,POLI,464,C,001,Problems in International Relations: Seminar,Yijiang Ding,31,77.032258065,15.136014162999999,87.0,0.0,,,,,,,6,7,11,5,
+UBCO,2014,W,POLI,464,C,OVERALL,Problems in International Relations: Seminar,,31,77.032258065,15.136014162999999,87.0,0.0,,,,,,,6,7,11,5,
 UBCO,2014,W,POLI,472,,001,War and the Modern State,Carl Hodge,30,74.533333333,18.974998675,91.0,0.0,,,,,,,,,9,8,
+UBCO,2014,W,POLI,472,,OVERALL,War and the Modern State,,30,74.533333333,18.974998675,91.0,0.0,,,,,,,,,9,8,

@@ -1,46 +1,87 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,MTRL,201,,201,Technical Communication,Christopher Caufield;Pamela Rogalski;Robert Shilton,47,77.489361702,8.556391815,92.0,57.0,,,,,6,,6,6,17,,
+UBCV,2018,W,MTRL,201,,201,Technical Communication,Christopher Caufield;Pamela Rogalski;Robert Gregory Shilton;Robert Shilton,47,77.489361702,8.556391815,92.0,57.0,,,,,6,,6,6,17,,
+UBCV,2018,W,MTRL,201,,OVERALL,Technical Communication,,47,77.489361702,8.556391815,92.0,57.0,,,,,6,,6,6,17,,
 UBCV,2018,W,MTRL,250,,101,Principles and Calculations in Materials Engineering,Edouard Asselin;Tianbi Zhang,50,74.04,13.887242714000001,100.0,33.0,,,,,,6,9,6,6,,6
+UBCV,2018,W,MTRL,250,,OVERALL,Principles and Calculations in Materials Engineering,,50,74.04,13.887242714000001,100.0,33.0,,,,,,6,9,6,6,,6
 UBCV,2018,W,MTRL,252,,201,Thermodynamics of Materials I,Leili Tafaghodikhajavi;Sahand Sarbishei,49,73.795918367,16.360495601,100.0,18.0,,,,,8,,8,5,,7,8
+UBCV,2018,W,MTRL,252,,OVERALL,Thermodynamics of Materials I,,49,73.795918367,16.360495601,100.0,18.0,,,,,8,,8,5,,7,8
 UBCV,2018,W,MTRL,263,,201,Transport Phenomena I - Fluid Mechanics,David Dixon;Eunseo Shin;N Dorin Ruse,49,71.081632653,10.637662523,99.0,45.0,,,,7,6,8,7,7,5,,
+UBCV,2018,W,MTRL,263,,OVERALL,Transport Phenomena I - Fluid Mechanics,,49,71.081632653,10.637662523,99.0,45.0,,,,7,6,8,7,7,5,,
 UBCV,2018,W,MTRL,264,,201,Transport Phenomena II - Heat Transport,Seyed Mohamadjavad Mirazimi;Wenying Liu,52,66.134615385,12.431820092999999,90.0,25.0,,5,,8,6,12,6,,,,
+UBCV,2018,W,MTRL,264,,OVERALL,Transport Phenomena II - Heat Transport,,52,66.134615385,12.431820092999999,90.0,25.0,,5,,8,6,12,6,,,,
 UBCV,2018,W,MTRL,280,,201,Materials in Design,Ali Khajezade;Chadwick Sinclair;Shauna Litke;William Sparling,107,68.981308411,10.822741002,93.0,36.0,,5,13,13,12,14,18,12,8,7,
+UBCV,2018,W,MTRL,280,,OVERALL,Materials in Design,,107,68.981308411,10.822741002,93.0,36.0,,5,13,13,12,14,18,12,8,7,
 UBCV,2018,W,MTRL,340,,201,Manufacturing in Materials Engineering,Chunying Wei;Jixiang Xu;Meet Upadhyay;Steven Cockcroft,96,69.572916667,11.866578269000001,91.0,14.0,5,,8,8,13,16,14,8,17,,
+UBCV,2018,W,MTRL,340,,OVERALL,Manufacturing in Materials Engineering,,96,69.572916667,11.866578269000001,91.0,14.0,5,,8,8,13,16,14,8,17,,
 UBCV,2018,W,MTRL,350,,101,Thermodynamics of Materials II,Fei Wang;Wenying Liu,69,76.0,8.682301132000001,93.0,54.0,,,,,7,11,10,11,13,9,
+UBCV,2018,W,MTRL,350,,OVERALL,Thermodynamics of Materials II,,69,76.0,8.682301132000001,93.0,54.0,,,,,7,11,10,11,13,9,
 UBCV,2018,W,MTRL,358,,101,Hydrometallurgy I,Berend Wassink;Maryam Mohammadi,68,77.588235294,14.539945281,99.0,23.0,,,,,6,5,,10,12,13,10
-UBCV,2018,W,MTRL,359,,L1A,Hydrometallurgy I Laboratory,Berend Wassink;Brighty Dutta;Fei Wang;Hiroki Fukuda;Mohsen Hashemzadeh;Seyed Mohamadjavad Mirazimi,23,81.086956522,13.58445985,92.0,30.0,,,,,,,,,,7,6
+UBCV,2018,W,MTRL,358,,OVERALL,Hydrometallurgy I,,68,77.588235294,14.539945281,99.0,23.0,,,,,6,5,,10,12,13,10
+UBCV,2018,W,MTRL,359,,L1A,Hydrometallurgy I Laboratory,Berend Wassink;Brighty Dutta;Fei Wang;Hiroki Fukuda;Mohsen Hashemzadeh;Seyed Mohamadjavad Mirazimi,23,81.086956522,13.58445985,92.0,30.0,,,,,,,,2,,7,6
 UBCV,2018,W,MTRL,359,,L1B,Hydrometallurgy I Laboratory,Berend Wassink;Brighty Dutta;Fei Wang;Hiroki Fukuda;Mohsen Hashemzadeh;Seyed Mohamadjavad Mirazimi,22,83.954545455,7.637484457,94.0,69.0,,,,,,,,5,,,8
-UBCV,2018,W,MTRL,359,,L1C,Hydrometallurgy I Laboratory,Berend Wassink;Brighty Dutta;David Dixon;Fei Wang;Hiroki Fukuda;Mohsen Hashemzadeh;Seyed Mohamadjavad Mirazimi,18,80.722222222,5.602578771,88.0,65.0,,,,,,,,5,7,,
+UBCV,2018,W,MTRL,359,,L1C,Hydrometallurgy I Laboratory,Berend Wassink;Brighty Dutta;David Dixon;Fei Wang;Hiroki Fukuda;Mohsen Hashemzadeh;Seyed Mohamadjavad Mirazimi,18,80.722222222,5.602578771,88.0,65.0,,,,,,,,5,7,,0
+UBCV,2018,W,MTRL,359,,OVERALL,Hydrometallurgy I Laboratory,,63,81.984126984,9.797122789,94.0,30.0,,,,,,,,12,12,15,14
 UBCV,2018,W,MTRL,361,,101,Modelling of Materials Processes,Ali Khajezade;Leili Tafaghodikhajavi;Seyed Mostafa Samadzadeh,66,81.393939394,14.492309672000001,100.0,36.0,,,,,,,,10,14,11,19
+UBCV,2018,W,MTRL,361,,OVERALL,Modelling of Materials Processes,,66,81.393939394,14.492309672000001,100.0,36.0,,,,,,,,10,14,11,19
 UBCV,2018,W,MTRL,363,,101,Transport Phenomena III - Mass Transport,David Dixon;Guangrui Xia,68,80.61764705899999,8.77926562,96.0,62.0,,,,,,5,6,12,13,13,13
-UBCV,2018,W,MTRL,365,,201,Mechanical Behaviour of Materials,Ayush Suhane;Chadwick Sinclair,66,68.272727273,15.657434169,98.0,13.0,,5,9,10,6,5,5,9,5,5,5
+UBCV,2018,W,MTRL,363,,OVERALL,Transport Phenomena III - Mass Transport,,68,80.61764705899999,8.77926562,96.0,62.0,,,,,,5,6,12,13,13,13
+UBCV,2018,W,MTRL,365,,201,Mechanical Behaviour of Materials,Ayush Suhane;Chadwick Sinclair,66,68.272727273,15.657434169,98.0,13.0,2.0,5,9,10,6,5,5,9,5,5,5
+UBCV,2018,W,MTRL,365,,OVERALL,Mechanical Behaviour of Materials,,66,68.272727273,15.657434169,98.0,13.0,2.0,5,9,10,6,5,5,9,5,5,5
 UBCV,2018,W,MTRL,378,,201,Phase Transformations,Matthias Militzer;Nicolas Romualdi,66,65.878787879,14.247823209000002,88.0,13.0,5,,15,5,5,5,13,,6,6,
+UBCV,2018,W,MTRL,378,,OVERALL,Phase Transformations,,66,65.878787879,14.247823209000002,88.0,13.0,5,,15,5,5,5,13,,6,6,
 UBCV,2018,W,MTRL,381,,201,Structure and Properties Laboratory,Jonathan Nakane;Mariana Mendes Rodrigues;Mojtaba Mansouri Arani,19,81.789473684,6.294432702000001,94.0,71.0,,,,,,,,,8,,
 UBCV,2018,W,MTRL,381,,202,Structure and Properties Laboratory,Jonathan Nakane;Mariana Mendes Rodrigues;Mojtaba Mansouri Arani,20,83.2,5.1971652189999995,91.0,70.0,,,,,,,,,9,5,
 UBCV,2018,W,MTRL,381,,203,Structure and Properties Laboratory,Jonathan Nakane;Mariana Mendes Rodrigues;Mojtaba Mansouri Arani,12,81.916666667,3.502163833,87.0,76.0,,,,,,,,,6,,
 UBCV,2018,W,MTRL,381,,204,Structure and Properties Laboratory,Jonathan Nakane;Madhumanti Mandal;Mariana Mendes Rodrigues;Mojtaba Mansouri Arani,11,78.545454545,5.716006234,86.0,71.0,,,,,,,,,5,,
+UBCV,2018,W,MTRL,381,,OVERALL,Structure and Properties Laboratory,,62,81.69354838699999,5.496910337999999,94.0,70.0,,,,,,,,8,28,12,6
 UBCV,2018,W,MTRL,382,,201,Ceramics,Brighty Dutta;Maryam Yaghtin;Shubham Jain;Tom Troczynski,57,72.298245614,6.7611413670000005,87.0,58.0,,,,,5,17,9,9,9,,
+UBCV,2018,W,MTRL,382,,OVERALL,Ceramics,,57,72.298245614,6.7611413670000005,87.0,58.0,,,,,5,17,9,9,9,,
 UBCV,2018,W,MTRL,392,,201,Engineering Technical Communication,Christopher Caufield;Pamela Rogalski,52,82.903846154,7.517977449,94.0,66.0,,,,,,,6,6,9,14,13
+UBCV,2018,W,MTRL,392,,OVERALL,Engineering Technical Communication,,52,82.903846154,7.517977449,94.0,66.0,,,,,,,6,6,9,14,13
 UBCV,2018,W,MTRL,394,,201,Polymer and Polymer Matrix Composites,Anoshiravan Poursartip;Caitlin Duffner;Christophe Mobuchon,66,70.46969697,11.112321224,93.0,23.0,,,,6,13,17,7,5,5,,7
-UBCV,2018,W,MTRL,398,,101,Engineering Written Communication,Christopher Caufield;Pamela Rogalski,67,81.835820896,10.37858666,98.0,60.0,,,,5,,5,7,5,9,16,17
+UBCV,2018,W,MTRL,394,,OVERALL,Polymer and Polymer Matrix Composites,,66,70.46969697,11.112321224,93.0,23.0,,,,6,13,17,7,5,5,,7
+UBCV,2018,W,MTRL,398,,101,Engineering Written Communication,Christopher Caufield;Pamela Rogalski,68,80.63235294100001,14.303641548,98.0,0.0,,,,5,,5,7,5,9,16,17
+UBCV,2018,W,MTRL,398,,OVERALL,Engineering Written Communication,,68,80.63235294100001,14.303641548,98.0,0.0,,,,5,,5,7,5,9,16,17
 UBCV,2018,W,MTRL,442,,101,Coatings and Surface Modification,Andrew Zang;Hamed Karimi Sharif;Tom Troczynski,54,77.055555556,8.68834975,90.0,50.0,,,,,,8,10,6,7,15,
+UBCV,2018,W,MTRL,442,,OVERALL,Coatings and Surface Modification,,54,77.055555556,8.68834975,90.0,50.0,,,,,,8,10,6,7,15,
 UBCV,2018,W,MTRL,451,,101,Microstructural Analysis Laboratory,Ayse Ince Arkaz;Chen En Tsai;Rizhi Wang,40,78.1,8.541902748,94.0,55.0,,,,,,5,,9,7,10,
+UBCV,2018,W,MTRL,451,,OVERALL,Microstructural Analysis Laboratory,,40,78.1,8.541902748,94.0,55.0,,,,,,5,,9,7,10,
 UBCV,2018,W,MTRL,455,,101,Economic Aspects of Materials Engineering,David Dreisinger;Zi Zheng Zhou,75,77.186666667,9.814073366,93.0,50.0,,,,5,,6,11,10,15,17,
+UBCV,2018,W,MTRL,455,,OVERALL,Economic Aspects of Materials Engineering,,75,77.186666667,9.814073366,93.0,50.0,,,,5,,6,11,10,15,17,
 UBCV,2018,W,MTRL,456,,201,Environmental Degradation of Materials,Hossein Zargarnezhad;Rebecca Schaller,67,82.014925373,8.863429353999999,95.0,40.0,,,,,,,,9,24,19,8
+UBCV,2018,W,MTRL,456,,OVERALL,Environmental Degradation of Materials,,67,82.014925373,8.863429353999999,95.0,40.0,,,,,,,,9,24,19,8
 UBCV,2018,W,MTRL,458,,201,Hydrometallurgy II,David Dixon;Edouard Asselin;Mohsen Hashemzadeh,19,76.736842105,9.421264985,92.0,59.0,,,,,,,,,,,
+UBCV,2018,W,MTRL,458,,OVERALL,Hydrometallurgy II,,19,76.736842105,9.421264985,92.0,59.0,,,,,,,,,,,
 UBCV,2018,W,MTRL,460,,101,Monitoring and Optimization of Materials Processing,Hamed Karimi Sharif;Maryam Yaghtin;Tom Troczynski,73,80.082191781,6.460893953999999,92.0,63.0,,,,,,,10,14,22,15,6
+UBCV,2018,W,MTRL,460,,OVERALL,Monitoring and Optimization of Materials Processing,,73,80.082191781,6.460893953999999,92.0,63.0,,,,,,,10,14,22,15,6
 UBCV,2018,W,MTRL,466,,101,Engineering Project I,Anoshiravan Poursartip;Chadwick Sinclair;David Dixon;Edouard Asselin;Rizhi Wang,71,82.676056338,5.421582921000001,91.0,55.0,,,,,,,,10,33,21,
+UBCV,2018,W,MTRL,466,,OVERALL,Engineering Project I,,71,82.676056338,5.421582921000001,91.0,55.0,,,,,,,,10,33,21,
 UBCV,2018,W,MTRL,467,,201,Engineering Project II,Berend Wassink;Goran Fernlund;Jonathan Nakane;Matthias Militzer;Rebecca Schaller;Steven Cockcroft;Tom Troczynski;Wenying Liu,68,82.897058824,6.828692115,94.0,55.0,,,,,,,5,8,27,9,16
+UBCV,2018,W,MTRL,467,,OVERALL,Engineering Project II,,68,82.897058824,6.828692115,94.0,55.0,,,,,,,5,8,27,9,16
 UBCV,2018,W,MTRL,471,,201,Nanofibre Technology,Ardeshir Bahi;Katherine Le;Sahand Sarbishei,46,76.413043478,10.884394715,86.0,16.0,,,,,,6,,11,18,,
+UBCV,2018,W,MTRL,471,,OVERALL,Nanofibre Technology,,46,76.413043478,10.884394715,86.0,16.0,,,,,,6,,11,18,,
 UBCV,2018,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi;Seyyed Mohammad Mohseni,37,87.756756757,9.514332479,100.0,66.0,,,,,,,,5,7,,19
+UBCV,2018,W,MTRL,472,,OVERALL,Welding and Joining of Materials,,37,87.756756757,9.514332479,100.0,66.0,,,,,,,,5,7,,19
 UBCV,2018,W,MTRL,475,,201,Microstructure Engineering,Matthias Militzer;Sabyasachi Roy,33,72.848484848,15.091639267,90.0,5.0,,,,,5,5,,,7,,
+UBCV,2018,W,MTRL,475,,OVERALL,Microstructure Engineering,,33,72.848484848,15.091639267,90.0,5.0,,,,,5,5,,,7,,
 UBCV,2018,W,MTRL,485,,101,Failure of Materials,Duncan Pawson;Goran Fernlund;Navid Zobeiry,47,78.85106383,7.342487209,92.0,65.0,,,,,,6,5,10,9,8,6
+UBCV,2018,W,MTRL,485,,OVERALL,Failure of Materials,,47,78.85106383,7.342487209,92.0,65.0,,,,,,6,5,10,9,8,6
 UBCV,2018,W,MTRL,486,,101,Nondestructive Evaluation,Ainul Akhtar;Zi Zheng Zhou,23,74.913043478,15.79675756,93.0,28.0,,,,,,,,,6,,
+UBCV,2018,W,MTRL,486,,OVERALL,Nondestructive Evaluation,,23,74.913043478,15.79675756,93.0,28.0,,,,,,,,,6,,
 UBCV,2018,W,MTRL,489,,101,Seminar III,Berend Wassink,35,84.514285714,5.746464021,94.0,74.0,,,,,,,,6,7,13,7
-UBCV,2018,W,MTRL,489,,102,Seminar III,Berend Wassink,32,87.0,5.2486557419999995,98.0,76.0,,,,,,,,,7,11,11
+UBCV,2018,W,MTRL,489,,102,Seminar III,Berend Wassink,32,87.0,5.2486557419999995,98.0,76.0,,,,,,,,3,7,11,11
+UBCV,2018,W,MTRL,489,,OVERALL,Seminar III,,67,85.701492537,5.613876005,98.0,74.0,,,,,,,,9,14,24,18
 UBCV,2018,W,MTRL,494,,201,Composite Materials,Anoshiravan Poursartip;Casey James Keulen;Casey Keulen;Navid Zobeiry;Seyyed Mohammad Mohseni,63,78.015873016,14.894783741,100.0,0.0,,,,,,,10,9,10,14,10
+UBCV,2018,W,MTRL,494,,OVERALL,Composite Materials,,63,78.015873016,14.894783741,100.0,0.0,,,,,,,10,9,10,14,10
 UBCV,2018,W,MTRL,495,,201,Biomaterials,Ayse Ince Arkaz;Rizhi Wang,41,77.463414634,6.352548941,91.0,64.0,,,,,,,6,9,11,7,
+UBCV,2018,W,MTRL,495,,OVERALL,Biomaterials,,41,77.463414634,6.352548941,91.0,64.0,,,,,,,6,9,11,7,
 UBCV,2018,W,MTRL,515,,201,Advanced Simulation and Modelling Tools for Materials Manufacturing,Farzaneh Farhang Mehr;Steven Cockcroft,19,88.315789474,4.899576303,93.0,78.0,,,,,,,,,,,13
+UBCV,2018,W,MTRL,515,,OVERALL,Advanced Simulation and Modelling Tools for Materials Manufacturing,,19,88.315789474,4.899576303,93.0,78.0,,,,,,,,,,,13
 UBCV,2018,W,MTRL,571,,201,Advanced Nanofibre Technology,Ardeshir Bahi;Katherine Le;Sahand Sarbishei,5,81.2,7.726577509,90.0,69.0,,,,,,,,,,,
+UBCV,2018,W,MTRL,571,,OVERALL,Advanced Nanofibre Technology,,5,81.2,7.726577509,90.0,69.0,,,,,,,,,,,
 UBCV,2018,W,MTRL,578,,201,Microstructural Evolution of Deformed Materials,Matthias Militzer;Sabyasachi Roy,5,83.0,6.284902545,90.0,75.0,,,,,,,,,,,
+UBCV,2018,W,MTRL,578,,OVERALL,Microstructural Evolution of Deformed Materials,,5,83.0,6.284902545,90.0,75.0,,,,,,,,,,,
 UBCV,2018,W,MTRL,594,,101,Advanced Composite Materials,Anoshiravan Poursartip,9,84.0,3.16227766,87.0,78.0,,,,,,,,,,5,
+UBCV,2018,W,MTRL,594,,OVERALL,Advanced Composite Materials,,9,84.0,3.16227766,87.0,78.0,,,,,,,,,,5,
+UBCV,2018,W,MTRL,595,,201,Advanced Biomaterials,Rizhi Wang,10,84.1,5.02106673,94.0,78.0,,,,,,,,,,,
+UBCV,2018,W,MTRL,595,,OVERALL,Advanced Biomaterials,,10,84.1,5.02106673,94.0,78.0,,,,,,,,,,,

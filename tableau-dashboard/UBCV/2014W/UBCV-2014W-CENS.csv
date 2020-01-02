@@ -1,11 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Florian Gassner,42,74.30952381,16.467985342000002,94.0,9.0,,,,,,,10,6,9,6,
+UBCV,2014,W,CENS,201,,OVERALL,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",,42,74.30952381,16.467985342000002,94.0,9.0,,,,,,,10,6,9,6,
 UBCV,2014,W,CENS,202,,002,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Ilinca Iurascu,42,80.238095238,7.9228275429999995,92.0,54.0,,,,,,,6,8,10,13,
-UBCV,2014,W,CENS,202,,003,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Markus Hallensleben;Rowan Melling,31,68.225806452,19.073034503,92.0,0.0,,,,6,,,6,,,,
+UBCV,2014,W,CENS,202,,003,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Markus Hallensleben;Rowan Melling,31,68.225806452,19.073034503,92.0,0.0,,,,6,,,6,4,3,1,
 UBCV,2014,W,CENS,202,,004,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Jason Lieblang,38,78.026315789,10.212570003,88.0,40.0,,,,,,,6,5,9,12,
 UBCV,2014,W,CENS,202,,005,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Steven Taubeneck,79,79.03797468399999,5.20217666,88.0,68.0,,,,,,6,13,18,26,16,
+UBCV,2014,W,CENS,202,,OVERALL,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",,190,77.336842105,10.942476360999999,92.0,0.0,,,,6,5,8,31,35,48,42,6
 UBCV,2014,W,CENS,303,A,101,Representations of the Holocaust (in English),Bozena Karwowska,69,78.15942029,10.444000795,96.0,20.0,,,,,5,,9,20,14,12,
 UBCV,2014,W,CENS,303,A,201,Representations of the Holocaust (in English),Bozena Karwowska;Laura Isakov,60,80.016666667,9.676971907999999,93.0,40.0,,,,,,,5,13,13,15,7
-UBCV,2014,W,CENS,303,B,101,Representations of the Holocaust (in English),Roberta Kremer,38,74.65789473699999,8.896632572,87.0,45.0,,,,,,6,,8,13,,
+UBCV,2014,W,CENS,303,A,OVERALL,Representations of the Holocaust (in English),,129,79.023255814,10.098317555,96.0,20.0,,,,,7,5,14,33,27,27,11
+UBCV,2014,W,CENS,303,B,101,Representations of the Holocaust (in English),Roberta Kremer,38,74.65789473699999,8.896632572,87.0,45.0,,,,,,6,,8,13,-25,
 UBCV,2014,W,CENS,303,B,201,Representations of the Holocaust (in English),Uma Kumar,54,82.111111111,5.493277767,92.0,65.0,,,,,,,,6,25,12,5
+UBCV,2014,W,CENS,303,B,OVERALL,Representations of the Holocaust (in English),,92,79.032608696,7.96068787,92.0,45.0,,,,,,7,8,14,38,13,5
 UBCV,2014,W,CENS,307,,001,Witches: Myth and Reality,Kyle Frackman,65,87.261538462,10.764927025,99.0,30.0,,,,,,,,,10,16,31
+UBCV,2014,W,CENS,307,,OVERALL,Witches: Myth and Reality,,65,87.261538462,10.764927025,99.0,30.0,,,,,,,,,10,16,31

@@ -1,68 +1,115 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,PHAR,303,,SUP,,,7,60.0,0.0,60.0,60.0,,,,7,,,,,,,
 UBCV,2015,W,PHAR,303,,L01,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,37,72.837837838,5.595203866,83.0,61.0,,,,,,11,7,8,6,,
 UBCV,2015,W,PHAR,303,,L02,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,37,71.486486486,6.938706337999999,85.0,55.0,,,,,,11,9,,6,,
 UBCV,2015,W,PHAR,303,,L03,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,38,76.0,5.830951895,84.0,57.0,,,,,,,5,17,10,,
 UBCV,2015,W,PHAR,303,,L04,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,38,77.789473684,5.614449961,91.0,65.0,,,,,,,9,12,10,,
 UBCV,2015,W,PHAR,303,,L05,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,33,63.909090909,14.142939130999999,80.0,0.0,7,,,5,7,7,,,,,
 UBCV,2015,W,PHAR,303,,L06,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,36,77.111111111,7.186406922000001,90.0,58.0,,,,,,,6,7,9,6,
+UBCV,2015,W,PHAR,303,,OVERALL,Pharmacy Skills II,,7,60.0,0.0,60.0,60.0,11,,,7,17,38,38,50,43,9,
+UBCV,2015,W,PHAR,303,,SUP,,,7,60.0,0.0,60.0,60.0,,,,7,,,,,,,
 UBCV,2015,W,PHAR,315,,001,Pharmacokinetics,Abby Collier;Harvey Wong;Jacob Gordon;Mary Ensom,218,83.536697248,8.719438113999999,98.0,44.0,,,,,,7,20,32,38,55,58
+UBCV,2015,W,PHAR,315,,OVERALL,Pharmacokinetics,,218,83.536697248,8.719438113999999,98.0,44.0,,,,,,7,20,32,38,55,58
 UBCV,2015,W,PHAR,321,,001,Biophysical Pharmacy I,Jacob Gordon;Shyh-Dar Li,220,84.245454545,6.157278595,97.0,68.0,,,,,,6,15,29,57,64,49
+UBCV,2015,W,PHAR,321,,OVERALL,Biophysical Pharmacy I,,220,84.245454545,6.157278595,97.0,68.0,,,,,,6,15,29,57,64,49
 UBCV,2015,W,PHAR,323,,001,Biophysical Pharmacy II,Shyh-Dar Li;Urs Hafeli;Yang Yang,219,81.324200913,8.490680735,97.0,26.0,,,,,8,14,23,30,57,55,29
+UBCV,2015,W,PHAR,323,,OVERALL,Biophysical Pharmacy II,,219,81.324200913,8.490680735,97.0,26.0,,,,,8,14,23,30,57,55,29
 UBCV,2015,W,PHAR,330,,001,Pharmacogenomics: Genetics and Drug Action,Corey Nislow;Maryam Zamiri;Michael Coughtrie,218,78.83944954100001,6.768516414,92.0,23.0,,,,,,21,32,52,68,36,
-UBCV,2015,W,PHAR,341,,SUP,,,5,63.4,6.14817046,73.0,58.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,330,,OVERALL,Pharmacogenomics: Genetics and Drug Action,,218,78.83944954100001,6.768516414,92.0,23.0,,,,,,21,32,52,68,36,
 UBCV,2015,W,PHAR,341,,001,Pharmacology I,Brian Cairns;Connor Thompson,220,78.859090909,10.749244810999999,95.0,20.0,8,,,11,9,15,31,26,51,36,33
+UBCV,2015,W,PHAR,341,,OVERALL,Pharmacology I,,5,63.4,6.14817046,73.0,58.0,9,,,11,9,15,31,26,51,36,33
+UBCV,2015,W,PHAR,341,,SUP,,,5,63.4,6.14817046,73.0,58.0,1,,,0,0,0,0,0,0,0,0
 UBCV,2015,W,PHAR,342,,001,Pharmacology II,Haeun Chung;Judy Wong;Ujendra Kumar,219,75.726027397,9.387567819,95.0,24.0,6,,,18,19,20,36,41,42,25,12
+UBCV,2015,W,PHAR,342,,OVERALL,Pharmacology II,,219,75.726027397,9.387567819,95.0,24.0,6,,,18,19,20,36,41,42,25,12
 UBCV,2015,W,PHAR,351,,001,Therapeutics I,Connor Thompson;Judith Soon,220,81.73636363600001,7.2252440170000005,96.0,62.0,,,,,6,14,18,37,68,42,33
+UBCV,2015,W,PHAR,351,,OVERALL,Therapeutics I,,220,81.73636363600001,7.2252440170000005,96.0,62.0,,,,,6,14,18,37,68,42,33
 UBCV,2015,W,PHAR,352,,001,Therapeutics II,Devinder Sharma;Fawziah Lalji,219,75.59360730600001,8.054524926000001,93.0,24.0,5,,,9,17,27,34,58,48,17,
+UBCV,2015,W,PHAR,352,,OVERALL,Therapeutics II,,219,75.59360730600001,8.054524926000001,93.0,24.0,5,,,9,17,27,34,58,48,17,
 UBCV,2015,W,PHAR,361,,001,Non-Prescription Products and Self-Care of the Patient I,Ana Kopernikou;Hilary Watson,220,85.827272727,8.64876172,98.0,0.0,,,,,,,11,16,47,67,74
+UBCV,2015,W,PHAR,361,,OVERALL,Non-Prescription Products and Self-Care of the Patient I,,221,85.529411765,9.69888907,98.0,0.0,,,,,,,11,16,47,67,74
 UBCV,2015,W,PHAR,362,,001,Non-Prescription Drugs and Self-Care of the Patient II,Ana Kopernikou;Hilary Watson,219,84.689497717,8.872410036,98.0,1.0,,,,,,6,20,11,52,69,58
+UBCV,2015,W,PHAR,362,,OVERALL,Non-Prescription Drugs and Self-Care of the Patient II,,219,84.689497717,8.872410036,98.0,1.0,,,,,,6,20,11,52,69,58
 UBCV,2015,W,PHAR,371,,001,Pathophysiology I,Tara Klassen,220,83.322727273,8.184540044,100.0,61.0,,,,,7,9,19,26,48,53,54
+UBCV,2015,W,PHAR,371,,OVERALL,Pathophysiology I,,220,83.322727273,8.184540044,100.0,61.0,,,,,7,9,19,26,48,53,54
 UBCV,2015,W,PHAR,399,,001,Cases in Pharmaceutical Sciences II,Ingrid Price;Nelson Gorrin Morales;Nelson Varhola;Wei-Lun Tang,219,80.589041096,5.218621253999999,91.0,53.0,,,,,5,5,18,48,95,43,
+UBCV,2015,W,PHAR,399,,OVERALL,Cases in Pharmaceutical Sciences II,,219,80.589041096,5.218621253999999,91.0,53.0,,,,,5,5,18,48,95,43,
 UBCV,2015,W,PHAR,400,,001,Pharmacy Management,Alan Low;Dahai Zhang,126,90.62698412700001,4.750973167,99.0,73.0,,,,,,,,,9,26,87
 UBCV,2015,W,PHAR,400,,002,Pharmacy Management,Alan Low;Dahai Zhang,94,90.829787234,4.675808936,100.0,77.0,,,,,,,,,8,23,62
+UBCV,2015,W,PHAR,400,,OVERALL,Pharmacy Management,,220,90.713636364,4.709341291,100.0,73.0,,,,,,,,,17,49,149
 UBCV,2015,W,PHAR,401,,L01,Pharmacy Skills III,Arnab Ray;Fong Chan;Katherine Seto;Tamiz Jamal Kanji;Vaughn Chauvin,30,72.4,6.392883975,87.0,56.0,,,,,,5,7,10,,,
 UBCV,2015,W,PHAR,401,,L02,Pharmacy Skills III,Arnab Ray;Fong Chan;Katherine Seto;Tamiz Jamal Kanji;Vaughn Chauvin,36,73.25,4.795086771,85.0,66.0,,,,,,10,11,8,,,
-UBCV,2015,W,PHAR,401,,L03,Pharmacy Skills III,Arnab Ray;Fong Chan;Katherine Seto;Tamiz Jamal Kanji;Vaughn Chauvin,37,79.432432432,4.22650723,85.0,65.0,,,,,,,,13,18,,
+UBCV,2015,W,PHAR,401,,L03,Pharmacy Skills III,Arnab Ray;Fong Chan;Katherine Seto;Tamiz Jamal Kanji;Vaughn Chauvin,37,79.432432432,4.22650723,85.0,65.0,,,,,,,2,13,18,,
 UBCV,2015,W,PHAR,401,,L04,Pharmacy Skills III,Arnab Ray;Fong Chan;Katherine Seto;Tamiz Jamal Kanji;Vaughn Chauvin,35,74.542857143,5.68456557,87.0,64.0,,,,,,6,11,8,5,,
 UBCV,2015,W,PHAR,401,,L05,Pharmacy Skills III,Arnab Ray;Fong Chan;Katherine Seto;Tamiz Jamal Kanji;Vaughn Chauvin,37,72.05405405399999,5.043950975,83.0,62.0,,,,,5,11,11,5,,,
 UBCV,2015,W,PHAR,401,,L06,Pharmacy Skills III,Arnab Ray;Fong Chan;Katherine Seto;Tamiz Jamal Kanji;Vaughn Chauvin,36,78.777777778,4.727494722,89.0,68.0,,,,,,,5,12,14,,
+UBCV,2015,W,PHAR,401,,OVERALL,Pharmacy Skills III,,211,75.16113744100001,5.898555645,89.0,56.0,,,,,16,34,47,56,45,10,
 UBCV,2015,W,PHAR,403,,001,Clinical Skills: Administration of Injections,Jialin Xu;Katherine Seto,126,92.849206349,3.97002259,98.0,71.0,,,,,,,,,,11,111
 UBCV,2015,W,PHAR,403,,002,Clinical Skills: Administration of Injections,Arnab Ray;Davide Massaro;Katherine Seto,94,91.946808511,2.628900671,96.0,78.0,,,,,,,,,,12,81
+UBCV,2015,W,PHAR,403,,OVERALL,Clinical Skills: Administration of Injections,,220,92.463636364,3.482971682,98.0,71.0,,,,,,,,,,23,192
 UBCV,2015,W,PHAR,404,,001,Peer Teaching in Pharmacy Skills II,Colleen Brady,27,87.85185185200001,1.854385731,90.0,85.0,,,,,,,,,,19,8
+UBCV,2015,W,PHAR,404,,OVERALL,Peer Teaching in Pharmacy Skills II,,27,87.85185185200001,1.854385731,90.0,85.0,,,,,,,,,,19,8
 UBCV,2015,W,PHAR,405,B,004,Problems in Clinical Pharmacy,Marion Pearson,8,90.875,5.462534732999999,99.0,80.0,,,,,,,,,,,7
 UBCV,2015,W,PHAR,405,B,006,Problems in Clinical Pharmacy,Marion Pearson,22,89.045454545,5.727770885,98.0,76.0,,,,,,,,,,,13
+UBCV,2015,W,PHAR,405,B,OVERALL,Problems in Clinical Pharmacy,,32,89.25,5.57644817,99.0,76.0,,,,,,,,,6,5,20
 UBCV,2015,W,PHAR,406,,001,Drug Safety,Debra Ann Kent,51,90.235294118,4.2689026,97.0,69.0,,,,,,,,,,17,32
+UBCV,2015,W,PHAR,406,,OVERALL,Drug Safety,,51,90.235294118,4.2689026,97.0,69.0,,,,,,,,,,17,32
 UBCV,2015,W,PHAR,408,,001,Clinical Pharmacokinetics,Mary Ensom,62,89.48387096799999,9.352376634,100.0,64.0,,,,,,,,5,9,7,37
+UBCV,2015,W,PHAR,408,,OVERALL,Clinical Pharmacokinetics,,62,89.48387096799999,9.352376634,100.0,64.0,,,,,,,,5,9,7,37
 UBCV,2015,W,PHAR,409,,001,Renal Pharmacotherapeutics,Arun Verma;Nathaniel Lal,15,78.466666667,3.563037762,85.0,73.0,,,,,,,,8,,,
+UBCV,2015,W,PHAR,409,,OVERALL,Renal Pharmacotherapeutics,,15,78.466666667,3.563037762,85.0,73.0,,,,,,,,8,,,
 UBCV,2015,W,PHAR,430,,001,Biomolecular Pharmaceutical Chemistry I,Adam Frankel;Md Vhuiyan;Stelvio Bandiera;Tim Chen,213,80.549295775,11.405214877,96.0,0.0,,,,,6,10,36,24,53,37,40
-UBCV,2015,W,PHAR,435,,SUP,,,5,71.6,13.957077058,95.0,60.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,430,,OVERALL,Biomolecular Pharmaceutical Chemistry I,,213,80.549295775,11.405214877,96.0,0.0,,,,,6,10,36,24,53,37,40
 UBCV,2015,W,PHAR,435,,001,Biomolecular Pharmaceutical Chemistry II,David Grierson;Maryam Zamiri;Ronald Reid;Stelvio Bandiera,212,74.429245283,8.436531564,92.0,50.0,5,,,16,23,34,43,22,40,24,5
+UBCV,2015,W,PHAR,435,,OVERALL,Biomolecular Pharmaceutical Chemistry II,,5,71.6,13.957077058,95.0,60.0,5,,,16,23,34,43,22,40,24,5
+UBCV,2015,W,PHAR,435,,SUP,,,5,71.6,13.957077058,95.0,60.0,0,,,0,0,0,0,0,0,0,0
 UBCV,2015,W,PHAR,441,,001,Pharmacology III,Brian Rodrigues;Kathleen Macleod;Vongai Nyamandi,213,78.056338028,11.593614855,97.0,0.0,,,,10,16,18,31,32,45,37,21
+UBCV,2015,W,PHAR,441,,OVERALL,Pharmacology III,,213,78.056338028,11.593614855,97.0,0.0,,,,10,16,18,31,32,45,37,21
 UBCV,2015,W,PHAR,442,,001,Pharmacology IV,Peter Soja;Yang Yang,212,83.688679245,6.884095562000001,98.0,63.0,,,,,,11,11,28,57,55,47
+UBCV,2015,W,PHAR,442,,OVERALL,Pharmacology IV,,212,83.688679245,6.884095562000001,98.0,63.0,,,,,,11,11,28,57,55,47
 UBCV,2015,W,PHAR,450,B,009,Selected Topics,Ajit Johal,21,82.285714286,6.497252166,97.0,69.0,,,,,,,,8,,5,
 UBCV,2015,W,PHAR,450,B,010,Selected Topics,Ajit Johal,23,83.956521739,8.15463204,95.0,69.0,,,,,,,,,,8,5
 UBCV,2015,W,PHAR,450,B,221,Selected Topics,David Grierson,19,87.63157894700001,1.498537299,90.0,86.0,,,,,,,,,,15,
-UBCV,2015,W,PHAR,451,,SUP,,,5,61.8,9.418067742,77.0,51.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,450,B,OVERALL,Selected Topics,,65,84.646153846,6.496226715,97.0,69.0,,,,,,,,10,7,29,13
 UBCV,2015,W,PHAR,451,,001,Therapeutics III,Devinder Sharma;James Mccormack,213,72.201877934,6.442898405,87.0,53.0,5,,,13,30,56,40,36,31,,
+UBCV,2015,W,PHAR,451,,OVERALL,Therapeutics III,,5,61.8,9.418067742,77.0,51.0,5,,,13,30,56,40,36,31,,
+UBCV,2015,W,PHAR,451,,SUP,,,5,61.8,9.418067742,77.0,51.0,0,,,0,0,0,0,0,0,,
 UBCV,2015,W,PHAR,452,,001,Therapeutics IV,Christine Troskie;Marc Levine,212,73.863207547,6.925819889,90.0,60.0,,,,20,17,40,48,38,34,14,
+UBCV,2015,W,PHAR,452,,OVERALL,Therapeutics IV,,212,73.863207547,6.925819889,90.0,60.0,,,,20,17,40,48,38,34,14,
 UBCV,2015,W,PHAR,453,B,102,Directed Studies in Pharmacy Practice,Lynda Eccott,12,92.166666667,6.506407099,97.0,77.0,,,,,,,,,,,10
+UBCV,2015,W,PHAR,453,B,OVERALL,Directed Studies in Pharmacy Practice,,14,91.928571429,7.076116772000001,100.0,77.0,,,,,,,,,,,11
 UBCV,2015,W,PHAR,454,,001,Pediatric and Geriatric Drug Therapy,Catherine Hu;Patricia Gerber;Penelope Miller;Roxane Carr,212,78.995283019,6.021680924,94.0,55.0,,,,,8,15,27,64,61,29,7
+UBCV,2015,W,PHAR,454,,OVERALL,Pediatric and Geriatric Drug Therapy,,212,78.995283019,6.021680924,94.0,55.0,,,,,8,15,27,64,61,29,7
 UBCV,2015,W,PHAR,457,,001,Pharmaceutical Care in Aboriginal Health,Jason Min;Larry Leung,20,90.7,4.092354875,99.0,80.0,,,,,,,,,,,15
+UBCV,2015,W,PHAR,457,,OVERALL,Pharmaceutical Care in Aboriginal Health,,20,90.7,4.092354875,99.0,80.0,,,,,,,,,,,15
 UBCV,2015,W,PHAR,458,,001,Pharmacotherapy in Oncology,Haeun Chung;Judy Wong,18,83.055555556,5.296749527,90.0,72.0,,,,,,,,,7,6,
+UBCV,2015,W,PHAR,458,,OVERALL,Pharmacotherapy in Oncology,,18,83.055555556,5.296749527,90.0,72.0,,,,,,,,,7,6,
 UBCV,2015,W,PHAR,460,,001,Natural Health Products in Pharmacy Practice,Luke Spooner;Lynda Eccott,213,84.892018779,7.146220941,99.0,63.0,,,,,5,,12,25,49,59,59
+UBCV,2015,W,PHAR,460,,OVERALL,Natural Health Products in Pharmacy Practice,,213,84.892018779,7.146220941,99.0,63.0,,,,,5,,12,25,49,59,59
 UBCV,2015,W,PHAR,461,,001,Non-Prescription Drugs and Self-Care of the Patient III,Hilary Watson;Shenglong Zou,213,86.215962441,5.347396531,97.0,63.0,,,,,,,,16,54,72,65
+UBCV,2015,W,PHAR,461,,OVERALL,Non-Prescription Drugs and Self-Care of the Patient III,,213,86.215962441,5.347396531,97.0,63.0,,,,,,,,16,54,72,65
 UBCV,2015,W,PHAR,462,,001,Non-Prescription Drugs and Self-Care of the Patient IV,Ana Kopernikou;Hilary Watson,212,85.825471698,5.102987905,95.0,64.0,,,,,,,,21,45,92,49
+UBCV,2015,W,PHAR,462,,OVERALL,Non-Prescription Drugs and Self-Care of the Patient IV,,212,85.825471698,5.102987905,95.0,64.0,,,,,,,,21,45,92,49
 UBCV,2015,W,PHAR,471,,001,Pathophysiology II,Christine Troskie;Tara Klassen,213,87.093896714,8.72323996,100.0,60.0,,,,,,6,10,20,35,41,95
+UBCV,2015,W,PHAR,471,,OVERALL,Pathophysiology II,,213,87.093896714,8.72323996,100.0,60.0,,,,,,6,10,20,35,41,95
 UBCV,2015,W,PHAR,472,,001,Pathophysiology III,Devinder Sharma;Tara Klassen,212,80.108490566,8.169561097,100.0,51.0,,,,,10,12,38,37,33,58,19
+UBCV,2015,W,PHAR,472,,OVERALL,Pathophysiology III,,212,80.108490566,8.169561097,100.0,51.0,,,,,10,12,38,37,33,58,19
 UBCV,2015,W,PHAR,498,,001,Cases in Pharmaceutical Sciences III,Arun Verma;Charles Park;Jason Asnis;Jason Philip Asnis;Luke Spooner;Michelle Fischer;Nathaniel Lal,213,71.051643192,8.794410726,86.0,0.0,,,,13,31,57,54,38,15,,
+UBCV,2015,W,PHAR,498,,OVERALL,Cases in Pharmaceutical Sciences III,,213,71.051643192,8.794410726,86.0,0.0,,,,13,31,57,54,38,15,,
 UBCV,2015,W,PHAR,499,,001,Cases in Pharmaceutical Sciences IV,Fulong Wang;Mohamed Ben-Eltriki;Tessa Nicholl,126,85.365079365,5.046350245,97.0,65.0,,,,,,,,14,26,59,23
 UBCV,2015,W,PHAR,499,,002,Cases in Pharmaceutical Sciences IV,Fulong Wang;Mohamed Ben-Eltriki;Tessa Nicholl,94,87.255319149,5.266931061,96.0,65.0,,,,,,,,5,21,29,38
+UBCV,2015,W,PHAR,499,,OVERALL,Cases in Pharmaceutical Sciences IV,,220,86.17272727299999,5.214764937,97.0,65.0,,,,,,,,19,47,88,61
 UBCV,2015,W,PHAR,501,,001,Advanced Pharmacotherapeutics,Patricia Gerber,8,85.0,2.507132682,88.0,81.0,,,,,,,,,,5,
+UBCV,2015,W,PHAR,501,,OVERALL,Advanced Pharmacotherapeutics,,8,85.0,2.507132682,88.0,81.0,,,,,,,,,,5,
 UBCV,2015,W,PHAR,502,,001,Advanced Concepts in Pharmacokinetics,Abby Collier;Harvey Wong;Mary Ensom,8,90.625,3.662064211,95.0,85.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,502,,OVERALL,Advanced Concepts in Pharmacokinetics,,8,90.625,3.662064211,95.0,85.0,,,,,,,,,,,
 UBCV,2015,W,PHAR,506,,001,Critical Appraisal of Pharmacotherapy Literature,Larry Lynd;Mark Harrison;Mary De Vera,8,82.125,4.611708701,88.0,73.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,506,,OVERALL,Critical Appraisal of Pharmacotherapy Literature,,8,82.125,4.611708701,88.0,73.0,,,,,,,,,,,
 UBCV,2015,W,PHAR,508,,001,Advanced Applications in Clinical Pharmacokinetics,Mary Ensom,8,88.875,3.482097069,93.0,82.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,508,,OVERALL,Advanced Applications in Clinical Pharmacokinetics,,8,88.875,3.482097069,93.0,82.0,,,,,,,,,,,
 UBCV,2015,W,PHAR,515,,001,Nanomedicines,Shyh-Dar Li,6,84.666666667,3.5023801430000003,91.0,81.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,515,,OVERALL,Nanomedicines,,6,84.666666667,3.5023801430000003,91.0,81.0,,,,,,,,,,,
 UBCV,2015,W,PHAR,525,,002,Pharmaceutical Research Techniques I,,6,84.166666667,5.776388722,91.0,75.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,525,,OVERALL,Pharmaceutical Research Techniques I,,6,84.166666667,5.776388722,91.0,75.0,,,,,,,,,,,
 UBCV,2015,W,PHAR,554,,001,Advanced Hospital Pharmacy Management,,8,88.5,2.618614683,93.0,86.0,,,,,,,,,,6,
+UBCV,2015,W,PHAR,554,,OVERALL,Advanced Hospital Pharmacy Management,,8,88.5,2.618614683,93.0,86.0,,,,,,,,,,6,
 UBCV,2015,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Marc Levine,8,83.375,5.423164601,91.0,73.0,,,,,,,,,,,
+UBCV,2015,W,PHAR,590,,OVERALL,Research in the Pharmaceutical Sciences: Principles and Methods,,8,83.375,5.423164601,91.0,73.0,,,,,,,,,,,

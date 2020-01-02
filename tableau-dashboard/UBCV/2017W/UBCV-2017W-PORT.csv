@@ -1,10 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,W,PORT,101,,101,First-Year Portuguese I,Andrea Roca,30,74.766666667,13.865569696,96.0,45.0,,,,,,,8,,5,,5
+UBCV,2017,W,PORT,101,,OVERALL,First-Year Portuguese I,,30,74.766666667,13.865569696,96.0,45.0,,,,,,,8,,5,,5
 UBCV,2017,W,PORT,102,,201,First-Year Portuguese II,Andrea Roca,16,77.9375,10.902407990999999,96.0,57.0,,,,,,,,,,,
+UBCV,2017,W,PORT,102,,OVERALL,First-Year Portuguese II,,16,77.9375,10.902407990999999,96.0,57.0,,,,,,,,,,,
 UBCV,2017,W,PORT,110,,101,Elementary Portuguese for Romance Language Speakers,Pedro Dos Santos;Pedro Lazaro Dos Santos,16,92.0,4.03319559,97.0,82.0,,,,,,,,,,,12
+UBCV,2017,W,PORT,110,,OVERALL,Elementary Portuguese for Romance Language Speakers,,16,92.0,4.03319559,97.0,82.0,,,,,,,,,,,12
 UBCV,2017,W,PORT,201,,101,Second-Year Portuguese I,Andrea Roca,10,77.7,7.31892524,90.0,66.0,,,,,,,,,,,
-UBCV,2017,W,PORT,202,,201,Second-Year Portuguese II,Pedro Dos Santos,9,86.444444444,5.294126725,94.0,76.0,,,,,,,,,,5,
-UBCV,2017,W,PORT,210,,201,Intermediate Portuguese for Romance Language Speakers,Pedro Dos Santos,9,84.888888889,6.603870918999999,92.0,72.0,,,,,,,,,,,
-UBCV,2017,W,PORT,301,,101,Advanced Portuguese,Pedro Dos Santos,8,91.125,4.580626907,97.0,84.0,,,,,,,,,,,5
+UBCV,2017,W,PORT,201,,OVERALL,Second-Year Portuguese I,,10,77.7,7.31892524,90.0,66.0,,,,,,,,,,,
+UBCV,2017,W,PORT,202,,201,Second-Year Portuguese II,Pedro Dos Santos;Pedro Lazaro Dos Santos,9,86.444444444,5.294126725,94.0,76.0,,,,,,,,,,5,
+UBCV,2017,W,PORT,202,,OVERALL,Second-Year Portuguese II,,9,86.444444444,5.294126725,94.0,76.0,,,,,,,,,,5,
+UBCV,2017,W,PORT,210,,201,Intermediate Portuguese for Romance Language Speakers,Pedro Dos Santos;Pedro Lazaro Dos Santos,9,84.888888889,6.603870918999999,92.0,72.0,,,,,,,,,,,
+UBCV,2017,W,PORT,210,,OVERALL,Intermediate Portuguese for Romance Language Speakers,,9,84.888888889,6.603870918999999,92.0,72.0,,,,,,,,,,,
+UBCV,2017,W,PORT,301,,101,Advanced Portuguese,Pedro Dos Santos;Pedro Lazaro Dos Santos,8,91.125,4.580626907,97.0,84.0,,,,,,,,,,,5
+UBCV,2017,W,PORT,301,,OVERALL,Advanced Portuguese,,8,91.125,4.580626907,97.0,84.0,,,,,,,,,,,5
 UBCV,2017,W,PORT,392,,201,Studies in Portuguese and Brazilian Literature,Alessandra Santos,30,83.133333333,3.401149231,88.0,74.0,,,,,,,,,11,16,
+UBCV,2017,W,PORT,392,,OVERALL,Studies in Portuguese and Brazilian Literature,,30,83.133333333,3.401149231,88.0,74.0,,,,,,,,,11,16,
 UBCV,2017,W,PORT,405,,101,Studies in Portuguese and Brazilian Culture,Alessandra Santos,38,83.55263157899999,3.997954669,90.0,72.0,,,,,,,,,8,23,
+UBCV,2017,W,PORT,405,,OVERALL,Studies in Portuguese and Brazilian Culture,,38,83.55263157899999,3.997954669,90.0,72.0,,,,,,,,,8,23,

@@ -1,16 +1,32 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2018,W,BIOC,304,,001,Molecular Biochemistry I,Kristi Yearwood;Larissa Traas;Richard Plunkett,119,82.941176471,8.98802793,96.0,31.0,,,,,,,11,17,26,30,28
+UBCO,2018,W,BIOC,304,,OVERALL,Molecular Biochemistry I,,119,82.941176471,8.98802793,96.0,31.0,,,,,,,11,17,26,30,28
 UBCO,2018,W,BIOC,305,,101,Molecular Biochemistry II,Kristi Yearwood;Larissa Traas;Richard Plunkett,96,78.822916667,13.723583075999999,99.0,5.0,,,5,,,9,6,14,15,18,20
+UBCO,2018,W,BIOC,305,,OVERALL,Molecular Biochemistry II,,96,78.822916667,13.723583075999999,99.0,5.0,,,5,,,9,6,14,15,18,20
 UBCO,2018,W,BIOC,307,,001,Enology I,Daniel Durall,29,80.206896552,11.427971043,95.0,50.0,,,,,,5,,,,5,8
+UBCO,2018,W,BIOC,307,,OVERALL,Enology I,,29,80.206896552,11.427971043,95.0,50.0,,,,,,5,,,,5,8
 UBCO,2018,W,BIOC,308,,001,Pharmacology I,Andis Klegeris;Jessica Harrison,81,70.01234567899999,11.20546053,90.0,41.0,,6,7,9,5,9,14,15,6,7,
-UBCO,2018,W,BIOC,309,,101,Pharmacology II,Jessica Harrison;Sanjoy Ghosh,68,71.514705882,13.958887017999999,94.0,39.0,,6,5,8,5,7,6,,8,6,10
+UBCO,2018,W,BIOC,308,,OVERALL,Pharmacology I,,81,70.01234567899999,11.20546053,90.0,41.0,,6,7,9,5,9,14,15,6,7,
+UBCO,2018,W,BIOC,309,,101,Pharmacology II,Jessica Harrison;Sanjoy Ghosh,68,71.588235294,13.82970553,94.0,39.0,,7,5,8,5,7,6,,8,6,10
+UBCO,2018,W,BIOC,309,,OVERALL,Pharmacology II,,68,71.588235294,13.82970553,94.0,39.0,,7,5,8,5,7,6,,8,6,10
 UBCO,2018,W,BIOC,310,,001,Plant Chemistry,Jillian Forsyth;Susan Murch,33,83.636363636,13.605647223,100.0,54.0,,,,,,5,,,6,,14
-UBCO,2018,W,BIOC,393,,101,Biochemistry Laboratory,April L. Mahovlic;April Mahovlic;Brendan D'Souza;Drake Poirier;Gabriel Zavala;Jacqueline Barnett;Jiayu Ye;John Winkler;Mackenzie Moore;Osei Boakye Fordwour;Osei Fordwour;Richard Plunkett,86,87.09302325600001,9.264261384,100.0,55.0,,,,,,,,5,14,16,43
+UBCO,2018,W,BIOC,310,,OVERALL,Plant Chemistry,,33,83.636363636,13.605647223,100.0,54.0,,,,,,5,,,6,,14
+UBCO,2018,W,BIOC,393,,101,Biochemistry Laboratory,April L. Mahovlic;April Mahovlic;Brendan D'Souza;Drake Poirier;Gabriel Zavala;Jacqueline Alexandra Barnett;Jacqueline Barnett;Jiayu Ye;John Winkler;Mackenzie Moore;Osei Boakye Fordwour;Osei Fordwour;Richard Plunkett,86,87.09302325600001,9.264261384,100.0,55.0,,,,,,,,5,14,16,43
+UBCO,2018,W,BIOC,393,,OVERALL,Biochemistry Laboratory,,86,87.09302325600001,9.264261384,100.0,55.0,,,,,,,,5,14,16,43
 UBCO,2018,W,BIOC,402,,001,Proteins: Structure and Function,Thu Thuy Dang,61,75.278688525,12.70450202,94.0,37.0,,,,,7,6,5,10,8,9,8
+UBCO,2018,W,BIOC,402,,OVERALL,Proteins: Structure and Function,,61,75.278688525,12.70450202,94.0,37.0,,,,,7,6,5,10,8,9,8
 UBCO,2018,W,BIOC,403,,101,Enzymology,Kirsten Wolthers,23,77.869565217,17.360625114,97.0,34.0,,,,,,,,,,6,5
+UBCO,2018,W,BIOC,403,,OVERALL,Enzymology,,23,77.869565217,17.360625114,97.0,34.0,,,,,,,,,,6,5
 UBCO,2018,W,BIOC,407,,101,The Biochemical Basis of Disease,Andis Klegeris;Sarah Green;Sarah J. Green,46,74.326086957,11.662007351,95.0,51.0,,,,,,5,7,5,5,8,
+UBCO,2018,W,BIOC,407,,OVERALL,The Biochemical Basis of Disease,,46,74.326086957,11.662007351,95.0,51.0,,,,,,5,7,5,5,8,
 UBCO,2018,W,BIOC,410,,001,Nucleic Acids - Structure and Function,Isaac Li,37,79.675675676,12.436626137000001,100.0,46.0,,,,,,,,5,10,,9
+UBCO,2018,W,BIOC,410,,OVERALL,Nucleic Acids - Structure and Function,,37,79.675675676,12.436626137000001,100.0,46.0,,,,,,,,5,10,,9
 UBCO,2018,W,BIOC,425,,001,Biocatalysis,Kirsten Wolthers,25,86.96,7.208097298999999,97.0,67.0,,,,,,,,,6,6,10
+UBCO,2018,W,BIOC,425,,OVERALL,Biocatalysis,,25,86.96,7.208097298999999,97.0,67.0,,,,,,,,,6,6,10
+UBCO,2018,W,BIOC,449,,OVERALL,Honours Thesis,,9,92.333333333,3.674234614,97.0,88.0,,,,,,,,,,,6
 UBCO,2018,W,BIOC,494,,001,Biotechnology Laboratory I: DNA Manipulation,Ayelign Adal;Garrett Mccarthy;Mary Forrest,51,86.411764706,5.990580842000001,94.0,67.0,,,,,,,,,13,18,15
+UBCO,2018,W,BIOC,494,,OVERALL,Biotechnology Laboratory I: DNA Manipulation,,51,86.411764706,5.990580842000001,94.0,67.0,,,,,,,,,13,18,15
 UBCO,2018,W,BIOC,495,,101,Biotechnology Laboratory II: Gene Expression,Ayelign Adal;Elaheh Najafianashrafi;Soheil Mahmoud,32,88.1875,4.511186812,95.0,77.0,,,,,,,,,5,11,15
+UBCO,2018,W,BIOC,495,,OVERALL,Biotechnology Laboratory II: Gene Expression,,32,88.1875,4.511186812,95.0,77.0,,,,,,,,,5,11,15
 UBCO,2018,W,BIOC,530,,001,Biochemistry Seminar,Michael Deyholos,5,93.2,2.28035085,96.0,90.0,,,,,,,,,,,5
+UBCO,2018,W,BIOC,530,,OVERALL,Biochemistry Seminar,,5,93.2,2.28035085,96.0,90.0,,,,,,,,,,,5

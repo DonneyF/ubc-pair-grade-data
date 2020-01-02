@@ -1,11 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Anna Westpfahl;Florian Gassner,57,73.561403509,17.732151533,96.0,5.0,,,,,,,7,6,13,8,6
+UBCV,2018,W,CENS,201,,OVERALL,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",,57,73.561403509,17.732151533,96.0,5.0,,,,,,,7,6,13,8,6
 UBCV,2018,W,CENS,202,,001,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Ilinca Iurascu,44,80.840909091,13.466484118,90.0,0.0,,,,,,,5,8,10,16,
 UBCV,2018,W,CENS,202,,003,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Thomas Salumets,39,79.435897436,5.91961446,88.0,61.0,,,,,,,,10,12,10,
-UBCV,2018,W,CENS,202,,004,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Markus Hallensleben,32,74.71875,16.508520527,93.0,6.0,,,,,,,5,,,6,
+UBCV,2018,W,CENS,202,,004,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Markus Hallensleben,31,76.935483871,10.914624695999999,93.0,51.0,,,,,,,5,,4,6,
 UBCV,2018,W,CENS,202,,005,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Ervin Malakaj,32,79.59375,12.082670542,95.0,25.0,,,,,,,,,9,11,
-UBCV,2018,W,CENS,303,A,99A,Representations of the Holocaust (in English),Anja Nowak,42,78.571428571,11.275146113,92.0,39.0,,,,,,,5,,11,6,7
-UBCV,2018,W,CENS,303,A,99C,Representations of the Holocaust (in English),Bozena Karwowska,41,80.87804878,8.059761541,93.0,53.0,,,,,,,,5,9,15,
-UBCV,2018,W,CENS,303,B,99B,Representations of the Holocaust (in English),Anna Carolina Franzen;Bozena Karwowska,42,75.023809524,8.951054156,90.0,51.0,,,,,,5,7,7,8,6,
-UBCV,2018,W,CENS,303,B,001,Representations of the Holocaust (in English),Anna Maria Switzer,43,78.511627907,4.949132165,86.0,58.0,,,,,,,6,15,17,,
-UBCV,2018,W,CENS,307,,001,Witches: Myth and Reality,Kyle Frackman;Steve Commichau,63,82.365079365,9.755563487,94.0,43.0,,,,,,7,,,12,26,10
+UBCV,2018,W,CENS,202,,OVERALL,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",,146,79.36301369899999,10.988947511,95.0,0.0,,,,,,7,17,25,35,43,9
+UBCV,2018,W,CENS,303,A,99A,Representations of the Holocaust (in English),Anja Nowak,42,78.571428571,11.275146113,92.0,39.0,,,,,,,5,-14,11,6,7
+UBCV,2018,W,CENS,303,A,99C,Representations of the Holocaust (in English),Bozena Karwowska,41,80.87804878,8.059761541,93.0,53.0,,,,,,,-14,5,9,15,
+UBCV,2018,W,CENS,303,A,OVERALL,Representations of the Holocaust (in English),,83,79.710843373,9.828443194,93.0,39.0,,,,,5,,9,9,20,21,10
+UBCV,2018,W,CENS,303,B,001,Representations of the Holocaust (in English),Anna Maria Switzer;Anna Switzer,43,78.511627907,4.949132165,86.0,58.0,,,,,,,6,15,17,-15,
+UBCV,2018,W,CENS,303,B,99B,Representations of the Holocaust (in English),Anna Carolina Franzen;Anna Franzen;Bozena Karwowska,42,75.023809524,8.951054156,90.0,51.0,,,,,,5,7,7,8,6,
+UBCV,2018,W,CENS,303,B,OVERALL,Representations of the Holocaust (in English),,85,76.788235294,7.377724061,90.0,51.0,,,,,,6,13,22,25,9,
+UBCV,2018,W,CENS,307,,001,Witches: Myth and Reality,Kyle Frackman;Steve Commichau,63,82.888888889,8.399522089,94.0,59.0,,,,,,7,,,12,26,10
+UBCV,2018,W,CENS,307,,OVERALL,Witches: Myth and Reality,,63,82.888888889,8.399522089,94.0,59.0,,,,,,7,,,12,26,10

@@ -1,17 +1,36 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,RHSC,420,,002,Elements of Neuroanatomy and Neurophysiology,Claudia Krebs;Courtney Evanchu Hilderman;Courtney Pollock;Dennis Louie;Karen Sauve;Shannon Lim,78,85.74358974399999,5.974917045,96.0,69.0,,,,,,,,8,16,30,20
+UBCV,2018,W,RHSC,420,,OVERALL,Elements of Neuroanatomy and Neurophysiology,,78,85.74358974399999,5.974917045,96.0,69.0,,,,,,,,8,16,30,20
 UBCV,2018,W,RHSC,500,,001,Advanced Concepts for Rehabilitation Research,Janice Eng;Kristin Campbell;Laura Nimmon;Susan Forwell,14,91.14285714299999,2.656114654,95.0,85.0,,,,,,,,,,,12
+UBCV,2018,W,RHSC,500,,OVERALL,Advanced Concepts for Rehabilitation Research,,14,91.14285714299999,2.656114654,95.0,85.0,,,,,,,,,,,12
 UBCV,2018,W,RHSC,501,,001,Evidence for Practice,Alexander Scott;Katherine Davidson;Patricia Mortenson;William Mortenson,17,81.11764705899999,5.743282521,90.0,73.0,,,,,,,5,,5,5,
-UBCV,2018,W,RHSC,501,,006,Evidence for Practice,Patricia Mortenson;Roslyn Gillan,9,85.333333333,5.0497524689999995,93.0,78.0,,,,,,,,,,,
+UBCV,2018,W,RHSC,501,,006,Evidence for Practice,Patricia Mortenson;Roslyn Gillan,9,85.333333333,5.0497524689999995,93.0,78.0,,,,,,,0,,3,3,
+UBCV,2018,W,RHSC,501,,OVERALL,Evidence for Practice,,26,82.576923077,5.783929992000001,93.0,73.0,,,,,,,5,,8,8,
 UBCV,2018,W,RHSC,502,,001,Rehabilitation Theory,Liisa Holsti;Naznin Virji-Babul;Susan Forwell,18,93.333333333,5.064292528999999,99.0,79.0,,,,,,,,,,,15
-UBCV,2018,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner;Eleanor Wray,9,81.555555556,8.457409638,93.0,66.0,,,,,,,,,,,
+UBCV,2018,W,RHSC,502,,OVERALL,Rehabilitation Theory,,18,93.333333333,5.064292528999999,99.0,79.0,,,,,,,,,,,15
+UBCV,2018,W,RHSC,503,,006,Reasoning and Decision-Making,Clare Faulkner;Eleanor Wray,9,81.555555556,8.457409638,93.0,66.0,,,,,,,,,,2,2
 UBCV,2018,W,RHSC,503,,007,Reasoning and Decision-Making,Clare Faulkner;Wilma Jelley,11,88.454545455,3.830499611,94.0,81.0,,,,,,,,,,5,5
-UBCV,2018,W,RHSC,505,,006,"Measurement for Assessment, Planning, and Evaluation",Leslie Duran;Skye Barbic,11,91.72727272700001,2.7961011819999997,97.0,88.0,,,,,,,,,,,8
-UBCV,2018,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner;Eric Delisle;Tracey Dyks,10,85.3,3.1640339930000003,90.0,80.0,,,,,,,,,5,,
-UBCV,2018,W,RHSC,509,,002,Facilitating Learning in Rehabilitation Contexts,Eric Delisle;Wilma Jelley,11,85.545454545,5.733474276,92.0,74.0,,,,,,,,,,5,
+UBCV,2018,W,RHSC,503,,OVERALL,Reasoning and Decision-Making,,20,85.35,7.087980931000001,94.0,66.0,,,,,,,,,,7,7
+UBCV,2018,W,RHSC,505,,006,"Measurement for Assessment, Planning, and Evaluation",Leslie Duran;Skye Barbic,14,91.214285714,3.423416454,97.0,84.0,,,,,,,,,,,9
+UBCV,2018,W,RHSC,505,,OVERALL,"Measurement for Assessment, Planning, and Evaluation",,14,91.214285714,3.423416454,97.0,84.0,,,,,,,,,,,9
+UBCV,2018,W,RHSC,507,,011,Developing Effective Rehabilitation Programs,Patricia Erlendson,11,85.090909091,5.957424702999999,93.0,73.0,,,,,,,,,,5,
+UBCV,2018,W,RHSC,507,,012,Developing Effective Rehabilitation Programs,Karen Hurtubise;Susan Stanton,8,82.125,5.792544469,94.0,76.0,,,,,,,,,,1,
+UBCV,2018,W,RHSC,507,,OVERALL,Developing Effective Rehabilitation Programs,,19,83.84210526300001,5.918550477999999,94.0,73.0,,,,,,,,,,6,
+UBCV,2018,W,RHSC,509,,001,Facilitating Learning in Rehabilitation Contexts,Clare Faulkner;Eric Delisle;Tracey Dyks,10,85.3,3.1640339930000003,90.0,80.0,,,,,,,,,5,4,
+UBCV,2018,W,RHSC,509,,002,Facilitating Learning in Rehabilitation Contexts,Eric Delisle;Wilma Jelley,11,85.545454545,5.733474276,92.0,74.0,,,,,,,,,1,5,
+UBCV,2018,W,RHSC,509,,OVERALL,Facilitating Learning in Rehabilitation Contexts,,21,85.428571429,4.577897209,92.0,74.0,,,,,,,,,6,9,
 UBCV,2018,W,RHSC,515,,002,Physical Activity in Health and Chronic Conditions,Kristin Campbell,9,90.555555556,2.068278941,93.0,88.0,,,,,,,,,,,6
+UBCV,2018,W,RHSC,515,,OVERALL,Physical Activity in Health and Chronic Conditions,,9,90.555555556,2.068278941,93.0,88.0,,,,,,,,,,,6
 UBCV,2018,W,RHSC,530,,002,Research Proposal,Suzanne Huot,16,90.6875,2.651257563,96.0,86.0,,,,,,,,,,8,8
+UBCV,2018,W,RHSC,530,,OVERALL,Research Proposal,,16,90.6875,2.651257563,96.0,86.0,,,,,,,,,,8,8
+UBCV,2018,W,RHSC,581,A,011,Writing to Enhance Practice,Antoinette Megens;Claudia Von Zweck,8,85.0,4.810702354,90.0,78.0,,,,,,,,,,,
+UBCV,2018,W,RHSC,581,A,OVERALL,Writing to Enhance Practice,,8,85.0,4.810702354,90.0,78.0,,,,,,,,,,,
 UBCV,2018,W,RHSC,583,A,018,Applying Research to Practice,Karen Hurtubise,7,86.0,4.760952286,93.0,80.0,,,,,,,,,,,
+UBCV,2018,W,RHSC,583,A,OVERALL,Applying Research to Practice,,12,85.166666667,5.765624357999999,93.0,76.0,,,,,,,,,5,,
 UBCV,2018,W,RHSC,583,B,019,Applying Research to Practice,Tamie Aubin,5,83.2,7.694153625,94.0,74.0,,,,,,,,,,,
+UBCV,2018,W,RHSC,583,B,OVERALL,Applying Research to Practice,,10,86.2,6.124631507999999,94.0,74.0,,,,,,,,,,,
 UBCV,2018,W,RHSC,583,C,018,Applying Research to Practice,Karen Hurtubise,5,84.4,5.54977477,90.0,76.0,,,,,,,,,,,
+UBCV,2018,W,RHSC,583,C,OVERALL,Applying Research to Practice,,15,85.8,3.913347124,91.0,76.0,,,,,,,,,,8,
+UBCV,2018,W,RHSC,583,D,OVERALL,Applying Research to Practice,,11,85.272727273,6.133366271,96.0,71.0,,,,,,,,,,6,
 UBCV,2018,W,RHSC,587,,006,"Major Project, Part I",Leslie Duran,9,89.0,4.74341649,95.0,79.0,,,,,,,,,,,5
+UBCV,2018,W,RHSC,587,,OVERALL,"Major Project, Part I",,12,89.416666667,4.209477042,95.0,79.0,,,,,,,,,,,7

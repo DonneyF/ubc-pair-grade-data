@@ -1,20 +1,27 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,FMST,210,,001,Family Context of Human Development,Maria Weatherby,78,70.871794872,11.56501551,95.0,45.0,5,,7,,9,8,15,,16,,
-UBCV,2014,W,FMST,210,,002,Family Context of Human Development,Maria Weatherby,94,70.106382979,13.787533784,93.0,28.0,8,,6,9,16,6,12,9,10,10,6
+UBCV,2014,W,FMST,210,,001,Family Context of Human Development,Maria Weatherby,78,70.871794872,11.56501551,95.0,45.0,5,,7,4,9,8,15,,16,4,
+UBCV,2014,W,FMST,210,,002,Family Context of Human Development,Maria Weatherby,94,70.106382979,13.787533784,93.0,28.0,8,2.0,6,9,16,6,12,9,10,10,6
 UBCV,2014,W,FMST,210,,003,Family Context of Human Development,Maria Weatherby,89,70.202247191,14.355217435,93.0,35.0,10,,,11,7,12,10,,9,14,6
-UBCV,2014,W,FMST,210,,004,Family Context of Human Development,Maria Weatherby,94,74.70212766,12.121100226,93.0,32.0,,5,,6,,10,13,13,15,17,5
+UBCV,2014,W,FMST,210,,004,Family Context of Human Development,Maria Weatherby,94,74.70212766,12.121100226,93.0,32.0,,5,,6,3,10,13,13,15,17,5
 UBCV,2014,W,FMST,210,,005,Family Context of Human Development,Maria Weatherby,78,72.307692308,11.521079148,95.0,50.0,,,11,8,8,7,6,10,14,7,
-UBCV,2014,W,FMST,210,,006,Family Context of Human Development,Maria Weatherby,76,72.05263157899999,14.324705686,97.0,30.0,,7,6,6,7,8,8,6,8,7,10
-UBCV,2014,W,FMST,210,,007,Family Context of Human Development,Maria Weatherby,70,72.38571428600001,15.925817939000002,94.0,25.0,7,,,6,6,,7,7,10,9,9
+UBCV,2014,W,FMST,210,,006,Family Context of Human Development,Maria Weatherby,76,72.05263157899999,14.324705686,97.0,30.0,3.0,7,6,6,7,8,8,6,8,7,10
+UBCV,2014,W,FMST,210,,007,Family Context of Human Development,Maria Weatherby,70,72.38571428600001,15.925817939000002,94.0,25.0,7,,,6,6,4,7,7,10,9,9
+UBCV,2014,W,FMST,210,,OVERALL,Family Context of Human Development,,579,71.797927461,13.432604907,97.0,25.0,36,28,38,50,56,55,71,52,82,68,43
 UBCV,2014,W,FMST,238,,002,Family Resource Management,Daniel Wong;Emily Truong;Sherrie Dilley,87,73.942528736,11.621307938,93.0,0.0,,,,5,9,,14,25,17,,
-UBCV,2014,W,FMST,312,,001,Parent-child Relationships,James Joseph Ponzetti,32,71.0,13.481169663,90.0,30.0,,,,,5,,,5,,5,
-UBCV,2014,W,FMST,312,,002,Parent-child Relationships,Maria Weatherby,103,66.0,14.262249637,93.0,17.0,9,13,11,10,10,9,15,8,9,5,
-UBCV,2014,W,FMST,312,,003,Parent-child Relationships,Catherine Zangger;Rafael Wainer,38,68.894736842,14.145555072,84.0,0.0,,,,,,8,9,,6,,
+UBCV,2014,W,FMST,238,,OVERALL,Family Resource Management,,87,73.942528736,11.621307938,93.0,0.0,,,,5,9,,14,25,17,,
+UBCV,2014,W,FMST,312,,001,Parent-child Relationships,James Joseph Ponzetti,32,71.0,13.481169663,90.0,30.0,,,,,5,3,2,5,3,5,
+UBCV,2014,W,FMST,312,,002,Parent-child Relationships,Maria Weatherby,103,66.0,14.262249637,93.0,17.0,9,13,11,10,10,9,15,8,9,5,4.0
+UBCV,2014,W,FMST,312,,003,Parent-child Relationships,Catherine Zangger;Rafael Wainer,38,68.894736842,14.145555072,84.0,0.0,,,,,2,8,9,4,6,0,
 UBCV,2014,W,FMST,312,,202,Parent-child Relationships,Maria Weatherby,93,68.90322580600001,15.382135683,95.0,11.0,5,10,9,10,7,6,13,8,8,11,6
+UBCV,2014,W,FMST,312,,OVERALL,Parent-child Relationships,,266,68.030075188,14.583495375,95.0,0.0,16,27,25,26,24,26,39,25,26,21,11
 UBCV,2014,W,FMST,314,,001,Relationship development,Nicole Hindle;Todd Martin,85,74.564705882,6.599868431,90.0,54.0,,,,,7,17,17,21,13,5,
 UBCV,2014,W,FMST,314,,002,Relationship development,Daniel Wong;Silvia Bartolic,85,76.282352941,6.77813671,88.0,55.0,,,,,6,6,24,12,23,12,
 UBCV,2014,W,FMST,314,,201,Relationship development,Jeeae Kim;Pei Fang Goh;Silvia Bartolic,101,76.594059406,6.642557065,91.0,61.0,,,,,7,12,21,16,29,14,
+UBCV,2014,W,FMST,314,,OVERALL,Relationship development,,271,75.859778598,6.706180562,91.0,54.0,,,,5,20,35,62,49,65,31,
 UBCV,2014,W,FMST,316,,002,Human Sexuality,Andrea Nicole Polonijo;Andrea Polonijo;Brandy Wiebe,77,72.12987013,12.533482157,91.0,8.0,,,6,,6,6,13,18,14,5,
-UBCV,2014,W,FMST,316,,003,Human Sexuality,Brandy Wiebe;Helene Frohard Dourlent,65,72.015384615,7.546713498,85.0,56.0,,,5,,9,12,13,9,11,,
+UBCV,2014,W,FMST,316,,003,Human Sexuality,Brandy Wiebe;Helene Frohard Dourlent,65,72.015384615,7.546713498,85.0,56.0,,,5,,9,12,13,9,11,2,
+UBCV,2014,W,FMST,316,,OVERALL,Human Sexuality,,142,72.07746478899999,10.513128533,91.0,8.0,,,11,8,15,18,26,27,25,7,
 UBCV,2014,W,FMST,440,,001,Family Economic Issues,Todd Martin,22,78.409090909,4.338741214,87.0,69.0,,,,,,,5,5,9,,
+UBCV,2014,W,FMST,440,,OVERALL,Family Economic Issues,,22,78.409090909,4.338741214,87.0,69.0,,,,,,,5,5,9,,
 UBCV,2014,W,FMST,442,,001,Families and Work,Sylvia Fuller,7,80.571428571,1.988059595,83.0,77.0,,,,,,,,,5,,
+UBCV,2014,W,FMST,442,,OVERALL,Families and Work,,7,80.571428571,1.988059595,83.0,77.0,,,,,,,,,5,,

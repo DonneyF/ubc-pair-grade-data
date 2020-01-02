@@ -1,12 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,FNEL,101,,001,Introduction to a Salish Language I,Fiona Campbell;Larry Grant;Patricia Shaw,25,83.68,10.036267567000001,96.0,61.0,,,,,,,,,5,,10
-UBCV,2018,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant;Patricia Shaw,18,87.666666667,7.31637969,98.0,74.0,,,,,,,,,,,10
+UBCV,2018,W,FNEL,101,,OVERALL,Introduction to a Salish Language I,,25,83.68,10.036267567000001,96.0,61.0,,,,,,,,,5,,10
+UBCV,2018,W,FNEL,102,,001,Introduction to a Salish Language II,Fiona Campbell;Larry Grant;Patricia Shaw,20,81.65,21.689859381999998,98.0,0.0,,,,,,,,,,,10
+UBCV,2018,W,FNEL,102,,OVERALL,Introduction to a Salish Language II,,20,81.65,21.689859381999998,98.0,0.0,,,,,,,,,,,10
 UBCV,2018,W,FNEL,141,,001,Introduction to a Wakashan Language I,Daisy Rosenblum,7,84.714285714,11.368293418,93.0,62.0,,,,,,,,,,,
+UBCV,2018,W,FNEL,141,,OVERALL,Introduction to a Wakashan Language I,,7,84.714285714,11.368293418,93.0,62.0,,,,,,,,,,,
 UBCV,2018,W,FNEL,142,,001,Introduction to a Wakashan Language II,Daisy Rosenblum,5,69.4,39.614391324,93.0,0.0,,,,,,,,,,,
+UBCV,2018,W,FNEL,142,,OVERALL,Introduction to a Wakashan Language II,,5,69.4,39.614391324,93.0,0.0,,,,,,,,,,,
 UBCV,2018,W,FNEL,180,,001,Introduction to Endangered Language Documentation and Revitalization,Candace Galla;Mark Turin,16,87.625,7.923593461,98.0,67.0,,,,,,,,,,,10
+UBCV,2018,W,FNEL,180,,OVERALL,Introduction to Endangered Language Documentation and Revitalization,,16,87.625,7.923593461,98.0,67.0,,,,,,,,,,,10
 UBCV,2018,W,FNEL,201,,001,Intermediate Salish Language I,Marny Point;Patricia Shaw,6,80.0,15.773395322999999,95.0,50.0,,,,,,,,,,,
+UBCV,2018,W,FNEL,201,,OVERALL,Intermediate Salish Language I,,6,80.0,15.773395322999999,95.0,50.0,,,,,,,,,,,
 UBCV,2018,W,FNEL,202,,001,Intermediate Salish Language II,Marny Point;Patricia Shaw,5,90.2,4.207136794,95.0,85.0,,,,,,,,,,,
+UBCV,2018,W,FNEL,202,,OVERALL,Intermediate Salish Language II,,5,90.2,4.207136794,95.0,85.0,,,,,,,,,,,
 UBCV,2018,W,FNEL,242,,001,Intermediate Wakashan Language II,Daisy Rosenblum,6,69.166666667,15.955145460999999,90.0,55.0,,,,,,,,,,,
+UBCV,2018,W,FNEL,242,,OVERALL,Intermediate Wakashan Language II,,6,69.166666667,15.955145460999999,90.0,55.0,,,,,,,,,,,
 UBCV,2018,W,FNEL,282,,001,Structures of Endangered Languages: Conservation and Revitalization,Daisy Rosenblum,12,68.0,26.720778432,91.0,0.0,,,,,,,,,,,
-UBCV,2018,W,FNEL,301,,001,Advanced Salish Language I,Patricia Shaw,12,83.416666667,5.976595767999999,90.0,70.0,,,,,,,,,,5,
+UBCV,2018,W,FNEL,282,,OVERALL,Structures of Endangered Languages: Conservation and Revitalization,,12,68.0,26.720778432,91.0,0.0,,,,,,,,,,,
+UBCV,2018,W,FNEL,301,,001,Advanced Salish Language I,Patricia Shaw,14,79.285714286,11.854428393,90.0,54.0,,,,,,,,,,5,
+UBCV,2018,W,FNEL,301,,OVERALL,Advanced Salish Language I,,14,79.285714286,11.854428393,90.0,54.0,,,,,,,,,,5,
 UBCV,2018,W,FNEL,380,,001,Technologies for Endangered Language Documentation and Revitalization,Candace Galla;Mark Turin,15,84.466666667,13.36234938,99.0,48.0,,,,,,,,,,,7
+UBCV,2018,W,FNEL,380,,OVERALL,Technologies for Endangered Language Documentation and Revitalization,,15,84.466666667,13.36234938,99.0,48.0,,,,,,,,,,,7

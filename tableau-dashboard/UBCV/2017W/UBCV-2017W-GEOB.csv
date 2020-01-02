@@ -1,27 +1,50 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,W,GEOB,102,,101,Our Changing Environment: Climate and Ecosystems,Andras Janos Szeitz;Andras Szeitz;Emily West;Nina Hewitt;Rosemary Beagley;Sophie Duncan;Sophie Schneider Duncan,248,70.169354839,12.850256712,97.0,18.0,8,22,12,22,38,17,33,36,34,16,10
 UBCV,2017,W,GEOB,102,,201,Our Changing Environment: Climate and Ecosystems,James Kevin Pierce;James Pierce;Jens Johnson;Madison Ferrara;Nina Hewitt;Sophie Duncan;Sophie Schneider Duncan,247,69.344129555,14.678083460999998,95.0,0.0,7,24,16,17,42,18,28,35,27,18,15
+UBCV,2017,W,GEOB,102,,OVERALL,Our Changing Environment: Climate and Ecosystems,,495,69.757575758,13.78484977,97.0,0.0,15,46,28,39,80,35,61,71,61,34,25
 UBCV,2017,W,GEOB,103,,101,Our Changing Environment: Water and Landscapes,Anna Dufficy;Anna Leigh Dufficy;Conor Mcdowell;Maria Alejandra Elgueta;Maria Elgueta;Matteo Saletti;Shawn Chartrand;William Booker;William Henry Booker,207,73.22705314,13.100864957,99.0,30.0,8,12,7,13,22,20,24,28,30,20,23
 UBCV,2017,W,GEOB,103,,201,Our Changing Environment: Water and Landscapes,Anna Dufficy;Anna Leigh Dufficy;Anya Leenman;Conor Mcdowell;Matteo Saletti;Shawn Chartrand;William Booker;William Henry Booker,202,70.945544554,17.052509042,96.0,0.0,16,7,11,12,20,18,24,22,35,19,18
+UBCV,2017,W,GEOB,103,,OVERALL,Our Changing Environment: Water and Landscapes,,409,72.100244499,15.205849782,99.0,0.0,24,19,18,25,42,38,48,50,65,39,41
 UBCV,2017,W,GEOB,200,,101,Atmospheric Environments,Carrington Pomeroy;Ian Mckendry;Madison Ferrara,92,75.184782609,11.132498064000002,94.0,44.0,,,,7,7,8,6,12,20,20,
+UBCV,2017,W,GEOB,200,,OVERALL,Atmospheric Environments,,92,75.184782609,11.132498064000002,94.0,44.0,,,,7,7,8,6,12,20,20,
 UBCV,2017,W,GEOB,204,,101,Introduction to Biometeorology,Jilmarie Juarez Stephens;Jilmarie Stephens;Madison Ferrara;Thomas Andrew Black,31,68.419354839,14.896921815,88.0,22.0,,,,,,5,,,5,,
+UBCV,2017,W,GEOB,204,,OVERALL,Introduction to Biometeorology,,31,68.419354839,14.896921815,88.0,22.0,,,,,,5,,,5,,
 UBCV,2017,W,GEOB,206,,201,Geomorphic Processes and Hazards,Brett Eaton;Stefan Gronsdahl,49,77.571428571,9.458241556,94.0,55.0,,,,,,,5,10,12,6,5
+UBCV,2017,W,GEOB,206,,OVERALL,Geomorphic Processes and Hazards,,49,77.571428571,9.458241556,94.0,55.0,,,,,,,5,10,12,6,5
 UBCV,2017,W,GEOB,207,,101,Introduction to Biogeography,Jennifer Williams;Jens Johnson,39,70.615384615,13.466557769000001,91.0,21.0,,,6,,,,6,5,7,,
-UBCV,2017,W,GEOB,270,,101,Geographic Information Science,Grace Newton;Peter Joseph Whitman;Peter Whitman;Samuel Walker,99,72.404040404,12.023717370999998,88.0,2.0,,,,,12,13,14,23,21,5,
+UBCV,2017,W,GEOB,207,,OVERALL,Introduction to Biogeography,,39,70.615384615,13.466557769000001,91.0,21.0,,,6,,,,6,5,7,,
+UBCV,2017,W,GEOB,270,,101,Geographic Information Science,Grace Newton;Peter Joseph Whitman;Peter Whitman;Samuel Walker,99,72.404040404,12.023717370999998,88.0,2.0,,,3,4,12,13,14,23,21,5,
 UBCV,2017,W,GEOB,270,,201,Geographic Information Science,Alexandra Winter-Billington;Grace Newton;Peter Joseph Whitman;Peter Whitman;Sally Hermansen,98,71.93877551,9.895137123,90.0,30.0,,,9,8,7,20,13,9,24,5,
+UBCV,2017,W,GEOB,270,,OVERALL,Geographic Information Science,,197,72.172588832,10.990750280999999,90.0,2.0,5,,12,12,19,33,27,32,45,10,
 UBCV,2017,W,GEOB,300,,101,Microscale Weather and Climate,Ian Mckendry;Sung-Ching Lee,64,73.125,9.607371508,94.0,50.0,,,,,,10,14,7,11,7,
-UBCV,2017,W,GEOB,305,,201,Introduction to Hydrology,Johannes Exler;Robert Daniel Moore,52,68.884615385,14.95044605,90.0,23.0,6,,,7,5,5,6,11,5,,
+UBCV,2017,W,GEOB,300,,OVERALL,Microscale Weather and Climate,,64,73.125,9.607371508,94.0,50.0,,,,,,10,14,7,11,7,
+UBCV,2017,W,GEOB,305,,201,Introduction to Hydrology,Johannes Exler;Johannes Leander Exler;Robert Daniel Moore,52,68.884615385,14.95044605,90.0,23.0,6,,,7,5,5,6,11,5,,
+UBCV,2017,W,GEOB,305,,OVERALL,Introduction to Hydrology,,52,68.884615385,14.95044605,90.0,23.0,6,,,7,5,5,6,11,5,,
 UBCV,2017,W,GEOB,307,,201,Biogeography and Global Change,Gregory H Henry;Olivia Tabares-Mendoza,50,73.5,10.829381802,92.0,50.0,,5,,,,6,11,5,10,5,
+UBCV,2017,W,GEOB,307,,OVERALL,Biogeography and Global Change,,50,73.5,10.829381802,92.0,50.0,,5,,,,6,11,5,10,5,
 UBCV,2017,W,GEOB,309,,201,Geographical Sciences Field Course,Andras Janos Szeitz;Andras Szeitz;Nina Hewitt;Robert Daniel Moore,20,78.8,3.254147152,85.0,74.0,,,,,,,,8,7,,
+UBCV,2017,W,GEOB,309,,OVERALL,Geographical Sciences Field Course,,20,78.8,3.254147152,85.0,74.0,,,,,,,,8,7,,
 UBCV,2017,W,GEOB,370,,101,Advanced Geographic Information Science,Alexander Jonathan Mitchell;Alexander Mitchell;Brian Klinkenberg,68,75.63235294100001,8.316328861,90.0,35.0,,,,,,,20,10,22,5,
+UBCV,2017,W,GEOB,370,,OVERALL,Advanced Geographic Information Science,,68,75.63235294100001,8.316328861,90.0,35.0,,,,,,,20,10,22,5,
 UBCV,2017,W,GEOB,372,,101,Cartography,Caitlin Tatham;Dawn Mooney,60,72.93333333300001,11.416412014,90.0,20.0,,,,,8,8,5,11,11,8,
-UBCV,2017,W,GEOB,372,,201,Cartography,Caitlin Tatham;Dawn Mooney,59,69.254237288,16.638751218,94.0,3.0,,,,,8,8,8,8,13,,
+UBCV,2017,W,GEOB,372,,201,Cartography,Caitlin Tatham;Dawn Mooney,59,69.254237288,16.638751218,94.0,3.0,,,,,8,8,8,8,13,1,
+UBCV,2017,W,GEOB,372,,OVERALL,Cartography,,119,71.109243697,14.305853914000002,94.0,3.0,,,5,7,16,16,13,19,24,9,
 UBCV,2017,W,GEOB,373,,201,Introductory Remote Sensing,Alexander Jonathan Mitchell;Alexander Mitchell;Brian Klinkenberg,62,74.048387097,13.864008622,92.0,15.0,,,,,,8,5,9,14,11,
+UBCV,2017,W,GEOB,373,,OVERALL,Introductory Remote Sensing,,62,74.048387097,13.864008622,92.0,15.0,,,,,,8,5,9,14,11,
 UBCV,2017,W,GEOB,400,,201,Global Change Science,Simon Donner,19,78.0,7.571877794,88.0,62.0,,,,,,,,,7,,
+UBCV,2017,W,GEOB,400,,OVERALL,Global Change Science,,19,78.0,7.571877794,88.0,62.0,,,,,,,,,7,,
 UBCV,2017,W,GEOB,402,,201,Air Pollution Meteorology,Ian Mckendry;Stefan Gronsdahl,39,78.564102564,6.252556832000001,90.0,68.0,,,,,,,8,9,10,5,
+UBCV,2017,W,GEOB,402,,OVERALL,Air Pollution Meteorology,,39,78.564102564,6.252556832000001,90.0,68.0,,,,,,,8,9,10,5,
 UBCV,2017,W,GEOB,406,,101,Watershed Geomorphology,Brett Eaton;Matthias Jakob,35,77.828571429,14.763798559000001,94.0,23.0,,,,,,,,6,5,9,5
+UBCV,2017,W,GEOB,406,,OVERALL,Watershed Geomorphology,,35,77.828571429,14.763798559000001,94.0,23.0,,,,,,,,6,5,9,5
 UBCV,2017,W,GEOB,407,,201,"Vegetation Dynamics: Disturbance, Climate and Human Impacts",Emily West;Jennifer Williams;Rachel Nora Wilson;Rachel Wilson,20,77.25,20.547441895,93.0,0.0,,,,,,,,,,,5
+UBCV,2017,W,GEOB,407,,OVERALL,"Vegetation Dynamics: Disturbance, Climate and Human Impacts",,20,77.25,20.547441895,93.0,0.0,,,,,,,,,,,5
 UBCV,2017,W,GEOB,472,,101,Research in Cartography,Sally Hermansen,24,76.75,13.204906861,94.0,31.0,,,,,,,,6,5,,
+UBCV,2017,W,GEOB,472,,OVERALL,Research in Cartography,,24,76.75,13.204906861,94.0,31.0,,,,,,,,6,5,,
 UBCV,2017,W,GEOB,479,,201,Research in Geographic Information Science,Brian Klinkenberg,18,83.5,5.204635943,93.0,73.0,,,,,,,,,7,6,
+UBCV,2017,W,GEOB,479,,OVERALL,Research in Geographic Information Science,,18,83.5,5.204635943,93.0,73.0,,,,,,,,,7,6,
 UBCV,2017,W,GEOB,500,,001,Contemporary Research Trends in Physical Geography,Brett Eaton;Jennifer Williams,13,86.69230769200001,2.323238235,91.0,83.0,,,,,,,,,,10,
+UBCV,2017,W,GEOB,500,,OVERALL,Contemporary Research Trends in Physical Geography,,13,86.69230769200001,2.323238235,91.0,83.0,,,,,,,,,,10,
 UBCV,2017,W,GEOB,503,A,201,Topics in Geomorphology and Hydrology,Robert Daniel Moore,11,85.818181818,1.60113596,88.0,82.0,,,,,,,,,,10,
+UBCV,2017,W,GEOB,503,A,OVERALL,Topics in Geomorphology and Hydrology,,11,85.818181818,1.60113596,88.0,82.0,,,,,,,,,,10,
+UBCV,2017,W,GEOB,507,A,OVERALL,Directed Studies in Physical Geography,,5,84.2,4.969909456,91.0,78.0,,,,,,,,,,,

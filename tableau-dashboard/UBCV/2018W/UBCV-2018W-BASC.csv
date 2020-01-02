@@ -1,16 +1,20 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,BASC,500,,001,Process Fundamentals,Arash Abbassi;Harish Krishnan,42,82.833333333,3.6151218089999997,88.0,68.0,,,,,,,,,27,10,
+UBCV,2018,W,BASC,500,,001,Process Fundamentals,Arash Abbassi;Harish Krishnan,42,82.833333333,3.6151218089999997,88.0,68.0,,,,,,,,4,27,10,
 UBCV,2018,W,BASC,500,,302,Process Fundamentals,Arash Abbassi;Harish Krishnan,20,82.0,3.6992175560000002,89.0,76.0,,,,,,,,5,9,6,
 UBCV,2018,W,BASC,500,,BA1,Process Fundamentals,Arash Abbassi;Harish Krishnan,50,82.28,3.090736653,90.0,76.0,,,,,,,,9,30,10,
+UBCV,2018,W,BASC,500,,OVERALL,Process Fundamentals,,112,82.4375,3.389919476,90.0,68.0,,,,,,,,18,66,26,
 UBCV,2018,W,BASC,523,,001,Supply Chain Management,Harish Krishnan;Vibhuti Dhingra,44,82.272727273,2.326426908,87.0,76.0,,,,,,,,,33,8,
 UBCV,2018,W,BASC,523,,302,Supply Chain Management,Harish Krishnan;Vibhuti Dhingra,12,82.333333333,2.309401077,87.0,80.0,,,,,,,,,11,,
 UBCV,2018,W,BASC,523,,BA1,Supply Chain Management,Harish Krishnan;Vibhuti Dhingra,50,81.98,2.254157157,90.0,77.0,,,,,,,,5,40,,
 UBCV,2018,W,BASC,523,,DD1,Supply Chain Management,S Thomas Mccormick;Sanjith Gopalakrishnan,50,79.46,2.3317681830000003,84.0,75.0,,,,,,,,24,23,,
 UBCV,2018,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,48,75.229166667,8.387527679,94.0,60.0,,,,,,11,9,,12,,
+UBCV,2018,W,BASC,523,,OVERALL,Supply Chain Management,,204,79.857843137,5.301211615,94.0,60.0,,,,,,11,12,35,119,16,
 UBCV,2018,W,BASC,524,,001,Supply Chain Analytics,Gregory Werker;Harish Krishnan;Sahil Jain,9,86.22222222200001,1.56347192,89.0,84.0,,,,,,,,,,8,
+UBCV,2018,W,BASC,524,,OVERALL,Supply Chain Analytics,,9,86.22222222200001,1.56347192,89.0,84.0,,,,,,,,,,8,
 UBCV,2018,W,BASC,550,,001,Operations,Gregory Werker;Sagar Ghulam Muhamad Memon;Sagar Memon,46,83.52173913,6.159866991,94.0,69.0,,,,,,,6,5,14,12,8
 UBCV,2018,W,BASC,550,,002,Operations,Gregory Werker,47,81.531914894,6.9621681529999995,94.0,65.0,,,,,,,5,5,14,13,5
 UBCV,2018,W,BASC,550,,201,Operations,Srinivas Krishnamoorthy,31,83.967741935,3.8077453610000003,92.0,80.0,,,,,,,,,13,15,
-UBCV,2018,W,BASC,550,,818,Operations,Mahesh Nagarajan,43,76.11627907,7.038023608,88.0,60.0,,,,,,,10,6,15,,
+UBCV,2018,W,BASC,550,,818,Operations,Mahesh Nagarajan,43,76.162790698,6.955402945,88.0,60.0,,,,,,,10,6,15,3,
 UBCV,2018,W,BASC,550,,DD1,Operations,Meichun Lin;Woonghee Tim Huh,49,84.469387755,3.9744079269999997,90.0,76.0,,,,,,,,,12,25,8
 UBCV,2018,W,BASC,550,,MM1,Operations,Anadi Pandharkar;Sha Liao,50,78.94,8.036676133,90.0,53.0,,,,,,7,,8,14,10,
+UBCV,2018,W,BASC,550,,OVERALL,Operations,,266,81.345864662,6.917895975,94.0,53.0,,,,,6,15,25,28,82,78,27

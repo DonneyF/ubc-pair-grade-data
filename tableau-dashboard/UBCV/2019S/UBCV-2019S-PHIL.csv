@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,S,PHIL,101,,001,Introduction to Philosophy,Matthew Smithdeal;Serban Dragulin,27,79.037037037,17.705890983,95.0,0.0,,,,,,,,,8,5,5
+UBCV,2019,S,PHIL,101,,OVERALL,Introduction to Philosophy,,27,79.037037037,17.705890983,95.0,0.0,,,,,,,,,8,5,5
+UBCV,2019,S,PHIL,102,,001,Introduction to Philosophy II,Aleksey Balotskiy;Ian Heckman;Ian Tomas Heckman,21,78.142857143,9.629567562,86.0,41.0,,,,,,,,,11,,
+UBCV,2019,S,PHIL,102,,OVERALL,Introduction to Philosophy II,,21,78.142857143,9.629567562,86.0,41.0,,,,,,,,,11,,
+UBCV,2019,S,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Kousaku Yui;Servaas Van Der Berg,99,79.232323232,11.294597122,95.0,18.0,1,,,,5,,11,17,27,15,15
+UBCV,2019,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev;Jade Hadley,48,70.979166667,21.903550264,94.0,9.0,6,,,,3,,3,2,4,7,11
+UBCV,2019,S,PHIL,120,,OVERALL,Introduction to Critical Thinking,,147,76.537414966,15.973553532,95.0,9.0,7,5,6,3.0,8,6,14,19,31,22,26
+UBCV,2019,S,PHIL,220,,001,Symbolic Logic,Bruno Guindon;Ewan Townshend,65,72.938461538,19.831222954,100.0,0.0,5,,,,,,10,9,7,3,14
+UBCV,2019,S,PHIL,220,,002,Symbolic Logic,Matthew Smithdeal,36,89.333333333,7.437357442000001,100.0,72.0,,,,,,,3,0,3,12,18
+UBCV,2019,S,PHIL,220,,98A,Symbolic Logic,Leslie Burkholder;Serban Dragulin,163,87.325153374,8.558356997999999,98.0,50.0,,,,,,,5,7,24,36,82
+UBCV,2019,S,PHIL,220,,OVERALL,Symbolic Logic,,264,84.056818182,13.753692588,100.0,0.0,5,6,,8,5,,18,16,34,51,114
+UBCV,2019,S,PHIL,230,,901,Introduction to Ethics,Chieh-Ling Cheng;Doran Smolkin,35,69.342857143,14.804496251,88.0,0.0,,,,,5,5,8,,6,,
+UBCV,2019,S,PHIL,230,,OVERALL,Introduction to Ethics,,35,69.342857143,14.804496251,88.0,0.0,,,,,5,5,8,,6,,
+UBCV,2019,S,PHIL,240,,001,Introduction to Epistemology,Anders Kraal;Jade Hadley,36,71.305555556,17.893046446,99.0,0.0,,,,,,,,6,6,,
+UBCV,2019,S,PHIL,240,,OVERALL,Introduction to Epistemology,,36,71.305555556,17.893046446,99.0,0.0,,,,,,,,6,6,,
+UBCV,2019,S,PHIL,250,,001,Minds and Machines,Jasper Heaton;Jelena Markovic;Kousaku Yui,24,80.375,7.155493481000001,96.0,63.0,,,,,,,,6,7,6,
+UBCV,2019,S,PHIL,250,,OVERALL,Minds and Machines,,24,80.375,7.155493481000001,96.0,63.0,,,,,,,,6,7,6,
+UBCV,2019,S,PHIL,331,,98A,Business and Professional Ethics,Jordan Wadden;Rana Ahmad,58,67.5,15.189158183,88.0,5.0,5,,,,5,15,10,6,6,,
+UBCV,2019,S,PHIL,331,,OVERALL,Business and Professional Ethics,,58,67.5,15.189158183,88.0,5.0,5,,,,5,15,10,6,6,,
+UBCV,2019,S,PHIL,333,,001,Bio-Medical Ethics,Aleksey Balotskiy;Bruno Guindon;Doran Smolkin,63,71.904761905,13.760291497999999,85.0,0.0,,,,,,12,16,12,14,,
+UBCV,2019,S,PHIL,333,,002,Bio-Medical Ethics,Doran Smolkin;Kinley Gillette,57,69.473684211,13.685374444,87.0,0.0,,,,,10,8,11,9,5,,
+UBCV,2019,S,PHIL,333,,98A,Bio-Medical Ethics,Doran Smolkin;Yu Shing Chan,51,64.039215686,16.278772416,81.0,20.0,6,,,5,,9,11,6,4,,
+UBCV,2019,S,PHIL,333,,OVERALL,Bio-Medical Ethics,,171,68.748538012,14.805838899000001,87.0,0.0,10,7,7,9,16,29,38,27,23,5,0.0
+UBCV,2019,S,PHIL,347,,001,Philosophy of Religion,Anders Kraal;Richard Andrew Sandlin;Richard Sandlin,81,74.654320988,13.576782106,90.0,0.0,,,,,6,7,9,31,15,7,
+UBCV,2019,S,PHIL,347,,OVERALL,Philosophy of Religion,,81,74.654320988,13.576782106,90.0,0.0,,,,,6,7,9,31,15,7,
+UBCV,2019,S,PHIL,375,,001,Philosophy and Literature,Bianca Crewe;Stefan Lukits,67,73.223880597,10.880648509,90.0,34.0,,,,,7,10,11,10,12,7,
+UBCV,2019,S,PHIL,375,,OVERALL,Philosophy and Literature,,67,73.223880597,10.880648509,90.0,34.0,,,,,7,10,11,10,12,7,
+UBCV,2019,S,PHIL,385,,001,Existentialism,Alexandra Duree Jewell;Alexandra Jewell;Eric Anderson;Steven Taubeneck;Willow Verkerk,81,70.62962963,15.272069641,90.0,8.0,5,,,,6,11,19,14,10,7,
+UBCV,2019,S,PHIL,385,,OVERALL,Existentialism,,81,70.62962963,15.272069641,90.0,8.0,5,,,,6,11,19,14,10,7,

@@ -1,26 +1,51 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,DSCI,511,,001,Programming for Data Science,Michael Gelbart;Tiffany Timbers,22,88.409090909,8.81372896,99.0,63.0,,,,,,,,,,,15
+UBCV,2016,W,DSCI,511,,OVERALL,Programming for Data Science,,22,88.409090909,8.81372896,99.0,63.0,,,,,,,,,,,15
 UBCV,2016,W,DSCI,512,,001,Algorithms and Data Structures,Patrice Belleville,22,84.954545455,7.174540123,95.0,65.0,,,,,,,,,,8,6
+UBCV,2016,W,DSCI,512,,OVERALL,Algorithms and Data Structures,,22,84.954545455,7.174540123,95.0,65.0,,,,,,,,,,8,6
 UBCV,2016,W,DSCI,513,,001,Databases and Data Retrieval,Laks Lakshmanan,22,89.0,4.208834246,94.0,78.0,,,,,,,,,,5,14
+UBCV,2016,W,DSCI,513,,OVERALL,Databases and Data Retrieval,,22,89.0,4.208834246,94.0,78.0,,,,,,,,,,5,14
 UBCV,2016,W,DSCI,521,,001,Computing Platforms for Data Science,Michael Gelbart;Tiffany Timbers,22,90.5,5.378528742,97.0,78.0,,,,,,,,,,,15
+UBCV,2016,W,DSCI,521,,OVERALL,Computing Platforms for Data Science,,22,90.5,5.378528742,97.0,78.0,,,,,,,,,,,15
 UBCV,2016,W,DSCI,522,,001,Data Science Workflows,Tiffany Timbers,22,94.181818182,4.283260481,99.0,80.0,,,,,,,,,,,20
+UBCV,2016,W,DSCI,522,,OVERALL,Data Science Workflows,,22,94.181818182,4.283260481,99.0,80.0,,,,,,,,,,,20
 UBCV,2016,W,DSCI,523,,001,Data Wrangling,Jennifer Frazier Bryan,22,86.318181818,9.558772403999999,97.0,62.0,,,,,,,,,,,11
+UBCV,2016,W,DSCI,523,,OVERALL,Data Wrangling,,22,86.318181818,9.558772403999999,97.0,62.0,,,,,,,,,,,11
 UBCV,2016,W,DSCI,524,,001,Collaborative Software Development,Meghan Allen,22,81.136363636,6.166695917,94.0,71.0,,,,,,,5,,9,,
+UBCV,2016,W,DSCI,524,,OVERALL,Collaborative Software Development,,22,81.136363636,6.166695917,94.0,71.0,,,,,,,5,,9,,
 UBCV,2016,W,DSCI,525,,001,Web and Cloud Computing,Michael Feeley,20,87.95,7.178000015,99.0,76.0,,,,,,,,,6,,8
+UBCV,2016,W,DSCI,525,,OVERALL,Web and Cloud Computing,,20,87.95,7.178000015,99.0,76.0,,,,,,,,,6,,8
 UBCV,2016,W,DSCI,531,,001,Data Visualization I,Tamara Munzner,22,83.818181818,8.627952158,96.0,60.0,,,,,,,,5,5,,8
+UBCV,2016,W,DSCI,531,,OVERALL,Data Visualization I,,22,83.818181818,8.627952158,96.0,60.0,,,,,,,,5,5,,8
 UBCV,2016,W,DSCI,532,,001,Data Visualization II,Tamara Munzner,21,88.95238095200001,6.168275208,97.0,75.0,,,,,,,,,5,5,10
+UBCV,2016,W,DSCI,532,,OVERALL,Data Visualization II,,21,88.95238095200001,6.168275208,97.0,75.0,,,,,,,,,5,5,10
 UBCV,2016,W,DSCI,541,,001,"Privacy, Ethics, and Security",Edwin Max Knorr,21,89.904761905,4.592436847,97.0,82.0,,,,,,,,,,9,10
+UBCV,2016,W,DSCI,541,,OVERALL,"Privacy, Ethics, and Security",,21,89.904761905,4.592436847,97.0,82.0,,,,,,,,,,9,10
 UBCV,2016,W,DSCI,542,,001,Communication and Argumentation,Edward Kroc,21,83.0,8.648699323999999,94.0,62.0,,,,,,,,,7,,5
+UBCV,2016,W,DSCI,542,,OVERALL,Communication and Argumentation,,21,83.0,8.648699323999999,94.0,62.0,,,,,,,,,7,,5
 UBCV,2016,W,DSCI,551,,001,Exploratory Data Analysis for Data Science,Jennifer Frazier Bryan,22,87.090909091,8.164435598999999,97.0,68.0,,,,,,,,,,,11
+UBCV,2016,W,DSCI,551,,OVERALL,Exploratory Data Analysis for Data Science,,22,87.090909091,8.164435598999999,97.0,68.0,,,,,,,,,,,11
 UBCV,2016,W,DSCI,552,,001,Statistical Inference and Computation I,Michael Marin,22,87.5,5.316192694,96.0,75.0,,,,,,,,,,9,7
+UBCV,2016,W,DSCI,552,,OVERALL,Statistical Inference and Computation I,,22,87.5,5.316192694,96.0,75.0,,,,,,,,,,9,7
 UBCV,2016,W,DSCI,553,,001,Statistical Inference and Computation II,Paul Gustafson,20,76.75,8.783207662,90.0,60.0,,,,,,,,,,,
+UBCV,2016,W,DSCI,553,,OVERALL,Statistical Inference and Computation II,,20,76.75,8.783207662,90.0,60.0,,,,,,,,,,,
 UBCV,2016,W,DSCI,554,,001,Experimentation and Causal Inference,Paul Gustafson,20,93.3,5.629807887,100.0,82.0,,,,,,,,,,6,13
+UBCV,2016,W,DSCI,554,,OVERALL,Experimentation and Causal Inference,,20,93.3,5.629807887,100.0,82.0,,,,,,,,,,6,13
 UBCV,2016,W,DSCI,561,,001,Regression I,Gabriela Cohen Freue,22,88.863636364,6.096802086,97.0,72.0,,,,,,,,,,7,11
+UBCV,2016,W,DSCI,561,,OVERALL,Regression I,,22,88.863636364,6.096802086,97.0,72.0,,,,,,,,,,7,11
 UBCV,2016,W,DSCI,562,,001,Regression II,Lang Wu,21,85.666666667,5.747463209,93.0,72.0,,,,,,,,,5,6,7
+UBCV,2016,W,DSCI,562,,OVERALL,Regression II,,21,85.666666667,5.747463209,93.0,72.0,,,,,,,,,5,6,7
 UBCV,2016,W,DSCI,563,,001,Unsupervised Learning,Matias Salibian-Barrera,20,80.7,7.248230274,91.0,65.0,,,,,,,,,7,6,
+UBCV,2016,W,DSCI,563,,OVERALL,Unsupervised Learning,,20,80.7,7.248230274,91.0,65.0,,,,,,,,,7,6,
 UBCV,2016,W,DSCI,571,,001,Supervised Learning I,Giuseppe Carenini,20,87.65,5.142956348,96.0,77.0,,,,,,,,,,10,6
+UBCV,2016,W,DSCI,571,,OVERALL,Supervised Learning I,,20,87.65,5.142956348,96.0,77.0,,,,,,,,,,10,6
 UBCV,2016,W,DSCI,572,,001,Supervised Learning II,Michael Gelbart,19,88.57894736799999,6.4058635420000005,98.0,72.0,,,,,,,,,,,11
+UBCV,2016,W,DSCI,572,,OVERALL,Supervised Learning II,,19,88.57894736799999,6.4058635420000005,98.0,72.0,,,,,,,,,,,11
 UBCV,2016,W,DSCI,573,,001,Feature and Model Selection,Mark Schmidt,19,87.736842105,7.132415091,95.0,64.0,,,,,,,,,,,10
+UBCV,2016,W,DSCI,573,,OVERALL,Feature and Model Selection,,19,87.736842105,7.132415091,95.0,64.0,,,,,,,,,,,10
 UBCV,2016,W,DSCI,574,,001,Spatial and Temporal Models,Natalia Nolde,19,84.84210526300001,5.449395052000001,92.0,75.0,,,,,,,,,6,,7
+UBCV,2016,W,DSCI,574,,OVERALL,Spatial and Temporal Models,,19,84.84210526300001,5.449395052000001,92.0,75.0,,,,,,,,,6,,7
 UBCV,2016,W,DSCI,575,,001,Advanced Machine Learning,Mark Schmidt,19,82.0,9.207484877999999,94.0,60.0,,,,,,,,,,5,
+UBCV,2016,W,DSCI,575,,OVERALL,Advanced Machine Learning,,19,82.0,9.207484877999999,94.0,60.0,,,,,,,,,,5,
 UBCV,2016,W,DSCI,591,,001,Capstone Project,Giulio Valentino Dalla Riva;Michael Gelbart;Tiffany Timbers;Vincenzo Coia,19,90.10526315799999,3.26419527,94.0,85.0,,,,,,,,,,7,12
+UBCV,2016,W,DSCI,591,,OVERALL,Capstone Project,,19,90.10526315799999,3.26419527,94.0,85.0,,,,,,,,,,7,12

@@ -1,24 +1,43 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2018,W,PHIL,111,,001,Introduction to Philosophy I,Emma Mcnamar;Ruth Lowe-Walker,62,71.467741935,14.30088584,90.0,5.0,,,,6,,8,12,9,10,6,
-UBCO,2018,W,PHIL,111,,002,Introduction to Philosophy I,Emma Mcnamar;Ruth Lowe-Walker,63,69.174603175,15.343948773,93.0,7.0,5,,,,11,9,11,7,9,5,
-UBCO,2018,W,PHIL,111,,101,Introduction to Philosophy I,James Robinson,65,63.015384615,19.088193592,92.0,0.0,11,9,,6,6,5,8,,8,5,
+UBCO,2018,W,PHIL,111,,001,Introduction to Philosophy I,Emma Mcnamar;Ruth Lowe-Walker,62,71.467741935,14.30088584,90.0,5.0,4,,,6,4,8,12,9,10,6,
+UBCO,2018,W,PHIL,111,,002,Introduction to Philosophy I,Emma Mcnamar;Ruth Lowe-Walker,63,69.174603175,15.343948773,93.0,7.0,5,,,4,11,9,11,7,9,5,
+UBCO,2018,W,PHIL,111,,101,Introduction to Philosophy I,James Robinson,65,63.015384615,19.088193592,92.0,0.0,11,9,,6,6,5,8,2,8,5,
+UBCO,2018,W,PHIL,111,,OVERALL,Introduction to Philosophy I,,190,67.815789474,16.719369471,93.0,0.0,20,9,6,16,21,22,31,18,27,16,4.0
 UBCO,2018,W,PHIL,120,,001,Introduction to Logic and Critical Thinking,Giovanni Grandi;Kristian Zulinick,108,66.314814815,20.876426874,99.0,0.0,18,6,10,9,6,14,6,6,12,9,12
-UBCO,2018,W,PHIL,120,,101,Introduction to Logic and Critical Thinking,Giovanni Grandi;Kristian Zulinick,126,70.142857143,18.889876350999998,100.0,0.0,14,6,10,,15,14,12,8,14,9,20
-UBCO,2018,W,PHIL,121,,101,Introduction to Philosophy II,Jeremy Wiens;Thomas Ryder,54,71.666666667,16.39604186,93.0,0.0,,,,,10,,7,6,9,7,
-UBCO,2018,W,PHIL,121,,102,Introduction to Philosophy II,Jeremy Wiens;Thomas Ryder,61,63.180327868999996,22.819953401,96.0,0.0,13,5,,,5,6,,5,10,,
+UBCO,2018,W,PHIL,120,,101,Introduction to Logic and Critical Thinking,Giovanni Grandi;Kristian Zulinick,126,70.142857143,18.889876350999998,100.0,0.0,14,6,10,4.0,15,14,12,8,14,9,20
+UBCO,2018,W,PHIL,120,,OVERALL,Introduction to Logic and Critical Thinking,,234,68.376068376,19.880426458,100.0,0.0,32,12,20,13,21,28,18,14,26,18,32
+UBCO,2018,W,PHIL,121,,101,Introduction to Philosophy II,Jeremy Wiens;Thomas Ryder,54,71.666666667,16.39604186,93.0,0.0,2,4,,,10,3,7,6,9,7,
+UBCO,2018,W,PHIL,121,,102,Introduction to Philosophy II,Jeremy Wiens;Thomas Ryder,61,63.180327868999996,22.819953401,96.0,0.0,13,5,,,5,6,4,5,10,3,
+UBCO,2018,W,PHIL,121,,OVERALL,Introduction to Philosophy II,,115,67.165217391,20.424413683,96.0,0.0,15,9,5,4.0,15,9,11,11,19,10,7
 UBCO,2018,W,PHIL,210,,101,Introduction to Social and Political Philosophy,Emma Mcnamar;Ruth Lowe-Walker,25,75.96,17.973313551,91.0,0.0,,,,,,,,5,7,6,
+UBCO,2018,W,PHIL,210,,OVERALL,Introduction to Social and Political Philosophy,,25,75.96,17.973313551,91.0,0.0,,,,,,,,5,7,6,
 UBCO,2018,W,PHIL,220,,001,Symbolic Logic I,Stefaniia Mikhailova;Wolfgang Holger Andreas,24,76.375,15.955951595,99.0,43.0,,,,,,,,,,5,5
+UBCO,2018,W,PHIL,220,,OVERALL,Symbolic Logic I,,24,76.375,15.955951595,99.0,43.0,,,,,,,,,,5,5
 UBCO,2018,W,PHIL,230,,001,Ethics,James Robinson,49,72.0,11.78805893,89.0,41.0,,,,,6,,7,9,10,,
+UBCO,2018,W,PHIL,230,,OVERALL,Ethics,,49,72.0,11.78805893,89.0,41.0,,,,,6,,7,9,10,,
 UBCO,2018,W,PHIL,233,,001,Biomedical Ethics,Thomas Ryder,57,75.28070175399999,12.922508582999999,96.0,23.0,,,,,,,8,10,12,7,5
+UBCO,2018,W,PHIL,233,,OVERALL,Biomedical Ethics,,57,75.28070175399999,12.922508582999999,96.0,23.0,,,,,,,8,10,12,7,5
 UBCO,2018,W,PHIL,245,,101,Introduction to Metaphysics,Wolfgang Holger Andreas,22,69.5,21.362517241,98.0,0.0,,,,,,,,,,,
+UBCO,2018,W,PHIL,245,,OVERALL,Introduction to Metaphysics,,22,69.5,21.362517241,98.0,0.0,,,,,,,,,,,
 UBCO,2018,W,PHIL,309,,101,Ancient Philosophy,James Robinson,31,70.0,14.087819798,88.0,24.0,,,,,,6,6,,,6,
+UBCO,2018,W,PHIL,309,,OVERALL,Ancient Philosophy,,31,70.0,14.087819798,88.0,24.0,,,,,,6,6,,,6,
 UBCO,2018,W,PHIL,315,,001,Philosophy in the 18th Century,Giovanni Grandi,32,70.6875,16.424681467,93.0,35.0,5,,,,,,,,6,,
+UBCO,2018,W,PHIL,315,,OVERALL,Philosophy in the 18th Century,,32,70.6875,16.424681467,93.0,35.0,5,,,,,,,,6,,
 UBCO,2018,W,PHIL,331,,101,Computer Ethics,Lauren Rossiter;Ruth Lowe-Walker;Samantha Leathem,121,74.330578512,9.922523562,92.0,39.0,,6,5,,11,15,17,18,30,11,
+UBCO,2018,W,PHIL,331,,OVERALL,Computer Ethics,,121,74.330578512,9.922523562,92.0,39.0,,6,5,,11,15,17,18,30,11,
 UBCO,2018,W,PHIL,345,,101,Theory of Knowledge,Manuela Ungureanu,31,64.225806452,24.086939306999998,91.0,0.0,5,,,,,,7,,,,
+UBCO,2018,W,PHIL,345,,OVERALL,Theory of Knowledge,,31,64.225806452,24.086939306999998,91.0,0.0,5,,,,,,7,,,,
 UBCO,2018,W,PHIL,391,A,101,Topics in Philosophy,Giovanni Grandi,12,77.75,14.985599148,93.0,44.0,,,,,,,,,,,
+UBCO,2018,W,PHIL,391,A,OVERALL,Topics in Philosophy,,12,77.75,14.985599148,93.0,44.0,,,,,,,,,,,
 UBCO,2018,W,PHIL,425,,101,Philosophy of Language,Manuela Ungureanu,12,70.083333333,23.46160629,88.0,0.0,,,,,,,,,,,
+UBCO,2018,W,PHIL,425,,OVERALL,Philosophy of Language,,12,70.083333333,23.46160629,88.0,0.0,,,,,,,,,,,
 UBCO,2018,W,PHIL,434,,001,Business Ethics,Ruth Lowe-Walker,34,79.235294118,12.210424815,92.0,20.0,,,,,,,5,,11,11,
+UBCO,2018,W,PHIL,434,,OVERALL,Business Ethics,,34,79.235294118,12.210424815,92.0,20.0,,,,,,,5,,11,11,
 UBCO,2018,W,PHIL,435,,001,Environmental Ethics,James Robinson,35,71.085714286,10.342293033999999,89.0,40.0,,,,6,,,6,5,6,,
+UBCO,2018,W,PHIL,435,,OVERALL,Environmental Ethics,,35,71.085714286,10.342293033999999,89.0,40.0,,,,6,,,6,5,6,,
 UBCO,2018,W,PHIL,437,,101,Philosophy and the Global Order,Ruth Lowe-Walker,35,78.514285714,15.094547960999998,88.0,0.0,,,,,,,,5,6,16,
+UBCO,2018,W,PHIL,437,,OVERALL,Philosophy and the Global Order,,35,78.514285714,15.094547960999998,88.0,0.0,,,,,,,,5,6,16,
 UBCO,2018,W,PHIL,451,A,001,Philosophy of Mind,Thomas Ryder,22,74.454545455,13.623254882000001,91.0,44.0,,,,,,,,,,5,
+UBCO,2018,W,PHIL,451,A,OVERALL,Philosophy of Mind,,22,74.454545455,13.623254882000001,91.0,44.0,,,,,,,,,,5,
 UBCO,2018,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,29,80.482758621,16.597376492000002,98.0,39.0,,,,,,,,,,8,10
+UBCO,2018,W,PHIL,460,,OVERALL,Philosophy of Science,,29,80.482758621,16.597376492000002,98.0,39.0,,,,,,,,,,8,10

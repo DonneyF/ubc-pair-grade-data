@@ -1,110 +1,177 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,CRWR,200,,001,Introduction to Creative Writing,Corey Keh Liu;Corey Liu;Kate Black;Napatsi Folger;Paul Whittle;Taylor Brown-Evans;Yilin Wang,243,76.646090535,10.028794038,93.0,30.0,,7,7,,12,20,32,42,69,42,5
-UBCV,2018,W,CRWR,200,,002,Introduction to Creative Writing,Amy Higgins;Dechen Khangkar;Emma Cleary;Emma Louise Ruth Cleary;Kirsty Johnston;Napatsi Folger;Olga Holin;Rose Paine;Tariq Hussain;Theodora Armstrong,247,76.178137652,10.488895007,87.0,0.0,6,,6,6,10,19,30,61,86,22,
+UBCV,2018,W,CRWR,200,,002,Introduction to Creative Writing,Amy Higgins;Dechen Khangkar;Emma Cleary;Emma Louise Ruth Cleary;Kirsty Johnston;Napatsi Folger;Olga Holin;Rose Paine;Tariq Hussain;Theodora Armstrong,246,76.365853659,10.085971905,87.0,0.0,5,,6,6,10,19,30,61,86,22,
 UBCV,2018,W,CRWR,200,,003,Introduction to Creative Writing,Amy Higgins;Emily Pate;Kiri Sawyer;Lauren Maguire;Tania De Rozario;Tania Marie De Rozario;Tariq Hussain;Theodora Armstrong,247,77.388663968,7.356952428,93.0,13.0,,,,,10,23,44,61,78,22,
-UBCV,2018,W,CRWR,200,,005,Introduction to Creative Writing,Ahmad Ramadan;Dechen Khangkar;Kevin Sun;Nathan Smith;Richard A Van Camp;Rose Paine;Tariq Hussain,111,75.828828829,13.181166919,94.0,0.0,5,,,,6,12,13,25,26,15,5
-UBCV,2018,W,CRWR,200,,006,Introduction to Creative Writing,Claire Arnett;Jazmin Jessie Peggi Papadopoulos;Jazmin Papadopoulos;Jocelyne Gregory;Marla Morden;Nicole Baute;Nicole Elizabeth Baute;Taylor Brown-Evans,273,76.32600732600001,12.434532287,93.0,0.0,7,,5,11,12,16,28,75,58,49,9
-UBCV,2018,W,CRWR,200,,008,Introduction to Creative Writing,Corey Keh Liu;Corey Liu;Kiri Sawyer;Taylor Brown-Evans;Yilin Wang,191,74.743455497,13.611610624,91.0,0.0,7,,6,,13,18,28,34,49,25,6
-UBCV,2018,W,CRWR,201,,001,Introduction to Writing Poetry,Ian Williams;Molly Cross-Blanchard;Olga Holin;Shazia Hafiz Ramji;Shazia Ramji,166,83.93373494,7.136874405,95.0,56.0,,,,,5,,7,13,38,66,31
-UBCV,2018,W,CRWR,201,,002,Introduction to Writing Poetry,Clea Linnea Roberts;Clea Roberts;Elizabeth Bachinsky-Smith;Erin Kirsh;Keith Maillard;Sheryda Warrener;Tania De Rozario,165,72.345454545,18.546794656,95.0,0.0,14,7,,8,12,11,24,18,28,22,17
+UBCV,2018,W,CRWR,200,,005,Introduction to Creative Writing,Ahmad Ramadan;Dechen Khangkar;Kevin Sun;Nathan Smith;Richard A Van Camp;Rose Paine;Tariq Hussain,110,76.518181818,11.050120858,94.0,25.0,,,,,6,12,13,25,26,15,5
+UBCV,2018,W,CRWR,200,,006,Introduction to Creative Writing,Claire Arnett;Jazmin Jessie Peggi Papadopoulos;Jazmin Papadopoulos;Jocelyne Gregory;Marla Morden;Nicole Baute;Nicole Elizabeth Baute;Taylor Brown-Evans,273,76.333333333,12.435519968,93.0,0.0,7,3.0,5,11,12,16,28,75,58,49,9
+UBCV,2018,W,CRWR,200,,008,Introduction to Creative Writing,Corey Keh Liu;Corey Liu;Kiri Sawyer;Taylor Brown-Evans;Yilin Wang,190,75.042105263,13.005017989,91.0,0.0,6,,6,,13,18,28,34,49,25,6
+UBCV,2018,W,CRWR,200,,OVERALL,Introduction to Creative Writing,,1309,76.424751719,10.727506089,94.0,0.0,27,16,27,26,63,108,175,298,366,175,28
+UBCV,2018,W,CRWR,201,,001,Introduction to Writing Poetry,Ian Williams;Molly Cross-Blanchard;Olga Holin;Shazia Hafiz Ramji;Shazia Ramji,166,83.93373494,7.136874405,95.0,56.0,0,0,2.0,2,5,2,7,13,38,66,31
+UBCV,2018,W,CRWR,201,,002,Introduction to Writing Poetry,Clea Linnea Roberts;Clea Roberts;Elizabeth Bachinsky-Smith;Erin Kirsh;Keith Maillard;Sheryda Warrener;Tania De Rozario,164,72.725609756,17.947204858,95.0,0.0,13,7,4.0,8,12,11,24,18,28,22,17
+UBCV,2018,W,CRWR,201,,OVERALL,Introduction to Writing Poetry,,330,78.363636364,14.718262299000001,95.0,0.0,13,7,6,10,17,13,31,31,66,88,48
 UBCV,2018,W,CRWR,203,,001,Introduction to Writing for Children and Young Adults,Alison Acheson;Elizabeth Bachinsky-Smith;Kavelina Eirenea Torres;Kavelina Torres;Laura Harris;Lauren Maguire,171,78.561403509,8.099420917,95.0,52.0,,,6,,9,9,21,20,64,30,8
-UBCV,2018,W,CRWR,203,,002,Introduction to Writing for Children and Young Adults,Alison Acheson;Kavelina Eirenea Torres;Kavelina Torres;Meagan Black;Shyamala Parthasarathy,74,76.18918918899999,10.608442846,93.0,10.0,,,,,,7,12,17,20,8,
+UBCV,2018,W,CRWR,203,,002,Introduction to Writing for Children and Young Adults,Alison Acheson;Kavelina Eirenea Torres;Kavelina Torres;Meagan Black;Shyamala Parthasarathy,74,76.18918918899999,10.608442846,93.0,10.0,,,1,,2,7,12,17,20,8,2
+UBCV,2018,W,CRWR,203,,OVERALL,Introduction to Writing for Children and Young Adults,,245,77.844897959,8.97585699,95.0,10.0,,,7,7,11,16,33,37,84,38,10
 UBCV,2018,W,CRWR,205,,001,Introduction to Writing Creative Nonfiction,Arjan Jan Johannes Dasselaar;Jessica Johns;Keith Maillard;Kevin Kim Wang Chong,111,73.990990991,16.734012992,97.0,0.0,7,,,5,9,9,17,15,20,18,8
-UBCV,2018,W,CRWR,205,,002,Introduction to Writing Creative Nonfiction,Amy Higgins;Kevin Kim Wang Chong;Kiri Sawyer;Liesl Lafferty;Yilin Wang,92,74.565217391,13.509707009000001,93.0,9.0,,,,,7,11,13,13,22,13,
+UBCV,2018,W,CRWR,205,,002,Introduction to Writing Creative Nonfiction,Amy Higgins;Kevin Kim Wang Chong;Kiri Sawyer;Liesl Lafferty;Yilin Wang,92,74.565217391,13.509707009000001,93.0,9.0,4,,,4,7,11,13,13,22,13,3
+UBCV,2018,W,CRWR,205,,OVERALL,Introduction to Writing Creative Nonfiction,,203,74.251231527,15.322956825999999,97.0,0.0,11,,,9,16,20,30,28,42,31,11
 UBCV,2018,W,CRWR,206,,001,Introduction to Writing for the Screen,Andrey Summers;James Canepa;Kirsty Johnston;Martin Kinch;Samarra Goldglas;Sara Graefe,107,76.29906542100001,13.268074147,91.0,2.0,5,,,,5,9,12,20,25,23,
-UBCV,2018,W,CRWR,206,,002,Introduction to Writing for the Screen,Arjan Jan Johannes Dasselaar;Nathan Smith;Paul Whittle;Sara Graefe,105,77.828571429,8.809366893,91.0,39.0,,,,,6,6,9,23,33,18,
-UBCV,2018,W,CRWR,208,,001,Introduction to Writing for Graphic Forms,Elizabeth Leung;Linda Svendsen;Sarah Leavitt,68,75.544117647,13.716134767,91.0,13.0,,,,,,5,8,15,18,10,
-UBCV,2018,W,CRWR,208,,002,Introduction to Writing for Graphic Forms,Raymond Clark;Raymond Dang Clark;Sarah Leavitt;Shyamala Parthasarathy;Taylor Brown-Evans,129,74.449612403,13.196212312,92.0,23.0,6,,,,11,13,17,19,31,19,5
-UBCV,2018,W,CRWR,209,,001,Introduction to Writing Fiction,Annabel Lyon;Caroline Nelissen;Jasmine Sealy;John Vigna;Loghan Paylor;Ping-Ping Boardman;Sarah Needles,218,74.366972477,10.919614575999999,92.0,11.0,8,,9,9,13,21,24,56,62,14,
-UBCV,2018,W,CRWR,209,,002,Introduction to Writing Fiction,Ahmad Ramadan;Annabel Lyon;Jeffrey Miller;John Vigna;Keith Maillard;Nathan Smith;Olga Holin,211,75.421800948,9.154613647,94.0,0.0,,,,7,10,21,44,56,53,12,
+UBCV,2018,W,CRWR,206,,002,Introduction to Writing for the Screen,Arjan Jan Johannes Dasselaar;Nathan Smith;Paul Whittle;Sara Graefe,105,77.828571429,8.809366893,91.0,39.0,1,,,,6,6,9,23,33,18,
+UBCV,2018,W,CRWR,206,,OVERALL,Introduction to Writing for the Screen,,212,77.056603774,11.281684345999999,91.0,2.0,6,,5,,11,15,21,43,58,41,6
+UBCV,2018,W,CRWR,208,,001,Introduction to Writing for Graphic Forms,Elizabeth Leung;Linda Svendsen;Sarah Leavitt,68,75.544117647,13.716134767,91.0,13.0,4,,,,2,5,8,15,18,10,3
+UBCV,2018,W,CRWR,208,,002,Introduction to Writing for Graphic Forms,Raymond Clark;Raymond Dang Clark;Sarah Leavitt;Shyamala Parthasarathy;Taylor Brown-Evans,128,74.8359375,12.494267879,92.0,23.0,5,,,,11,13,17,19,31,19,5
+UBCV,2018,W,CRWR,208,,OVERALL,Introduction to Writing for Graphic Forms,,196,75.081632653,12.900545382999999,92.0,13.0,9,,,,13,18,25,34,49,29,8
+UBCV,2018,W,CRWR,209,,001,Introduction to Writing Fiction,Annabel Lyon;Caroline Nelissen;Jasmine Sealy;John Vigna;Loghan Paylor;Loghan Sarah Paylor;Ping-Ping Boardman;Sarah Needles,218,74.55963302800001,10.550673154,92.0,11.0,7,,9,9,13,21,25,56,62,14,
+UBCV,2018,W,CRWR,209,,002,Introduction to Writing Fiction,Ahmad Ramadan;Annabel Lyon;Jeffrey Miller;John Vigna;Keith Maillard;Nathan Smith;Olga Holin,211,75.421800948,9.154613647,94.0,0.0,3,,1,7,10,21,44,56,53,12,
+UBCV,2018,W,CRWR,209,,OVERALL,Introduction to Writing Fiction,,429,74.983682984,9.886610149,94.0,0.0,10,,10,16,23,42,69,112,115,26,
 UBCV,2018,W,CRWR,213,,001,Introduction to Writing for the New Media,Adrian Southin;Adrian Victor Kerr Southin;Jennifer Moss;Raymond Clark;Raymond Dang Clark;Shristi Uprety;Stacy Anne-Marie Penner;Stacy Penner,217,77.506912442,11.852925805,97.0,0.0,6,,,,14,20,28,34,53,39,17
-UBCV,2018,W,CRWR,213,,002,Introduction to Writing for the New Media,Adrian Southin;Adrian Victor Kerr Southin;Andrey Summers;Jennifer Moss;Meghan Bell;Ryan Kim;Shristi Uprety,208,76.64423076899999,16.016849986,95.0,0.0,14,,,,7,12,15,26,68,50,9
-UBCV,2018,W,CRWR,213,,CAP,Introduction to Writing for the New Media,Jennifer Moss;Liesl Lafferty;Liesl Melanie Lafferty;Meghan Bell,94,79.212765957,8.060086635,93.0,45.0,,,,,,5,8,18,40,10,7
+UBCV,2018,W,CRWR,213,,002,Introduction to Writing for the New Media,Adrian Southin;Adrian Victor Kerr Southin;Andrey Summers;Jennifer Moss;Meghan Bell;Ryan Kim;Shristi Uprety,207,77.014492754,15.137068967000001,95.0,0.0,13,,,,7,12,15,26,68,50,9
+UBCV,2018,W,CRWR,213,,CAP,Introduction to Writing for the New Media,Jennifer Moss;Liesl Lafferty;Liesl Melanie Lafferty;Meghan Bell,94,79.212765957,8.060086635,93.0,45.0,1,,,,2,5,8,18,40,10,7
+UBCV,2018,W,CRWR,213,,OVERALL,Introduction to Writing for the New Media,,518,77.61969112,12.739472397,97.0,0.0,20,5,5,6,23,37,51,78,161,99,33
 UBCV,2018,W,CRWR,220,,002,Introduction to Creative Writing with an Indigenous Focus,Joanne Arnott,16,90.6875,24.311091433,100.0,0.0,,,,,,,,,,,15
+UBCV,2018,W,CRWR,220,,OVERALL,Introduction to Creative Writing with an Indigenous Focus,,16,90.6875,24.311091433,100.0,0.0,,,,,,,,,,,15
 UBCV,2018,W,CRWR,230,,001,Introduction to Writing for Comedic Forms,Allan Hopkins;Allan Wayne Hopkins;Dina Del Bucchia;Laura Harris;Thomas Partl,138,75.847826087,13.052338311,97.0,7.0,5,,,5,6,20,16,23,30,19,10
-UBCV,2018,W,CRWR,230,,002,Introduction to Writing for Comedic Forms,Allan Hopkins;Allan Wayne Hopkins;Dina Del Bucchia;Kate Black;Thomas Partl,180,75.35,11.716614284,98.0,10.0,7,,,,,20,34,45,36,19,7
+UBCV,2018,W,CRWR,230,,002,Introduction to Writing for Comedic Forms,Allan Hopkins;Allan Wayne Hopkins;Dina Del Bucchia;Kate Black;Thomas Partl,180,75.35,11.716614284,98.0,10.0,7,,,2,4,20,34,45,36,19,7
+UBCV,2018,W,CRWR,230,,OVERALL,Introduction to Writing for Comedic Forms,,318,75.566037736,12.296560675,98.0,7.0,12,5,5,7,10,40,50,68,66,38,17
 UBCV,2018,W,CRWR,301,,002,Intermediate Writing Poetry,Ian Williams;Olga Holin;Shazia Hafiz Ramji;Shazia Ramji;Sheryda Warrener,53,83.849056604,7.185445295,91.0,51.0,,,,,,,,,7,35,
+UBCV,2018,W,CRWR,301,,OVERALL,Intermediate Writing Poetry,,53,83.849056604,7.185445295,91.0,51.0,,,,,,,,,7,35,
 UBCV,2018,W,CRWR,302,,001,Writing for Podcast,Jennifer Moss;Ryan Kim,68,85.735294118,5.655845337000001,98.0,66.0,,,,,,,,7,19,22,19
 UBCV,2018,W,CRWR,302,,002,Writing for Podcast,Jennifer Moss;Ryan Kim;Stacy Anne-Marie Penner;Stacy Penner;Tania Marie De Rozario,94,86.053191489,7.068584171,97.0,40.0,,,,,,,,6,17,38,30
+UBCV,2018,W,CRWR,302,,OVERALL,Writing for Podcast,,162,85.919753086,6.496036436,98.0,40.0,,,,,,,,13,36,60,49
 UBCV,2018,W,CRWR,303,,002,Intermediate Writing for Children and Young Adults,Alison Acheson;Emily Pate;Meagan Black,57,79.61403508800001,7.110742341,91.0,57.0,,,,,,,,18,14,14,
+UBCV,2018,W,CRWR,303,,OVERALL,Intermediate Writing for Children and Young Adults,,57,79.61403508800001,7.110742341,91.0,57.0,,,,,,,,18,14,14,
 UBCV,2018,W,CRWR,305,,002,Intermediate Writing of Creative Nonfiction,Arjan Jan Johannes Dasselaar;Jessica Johns;Kevin Kim Wang Chong,30,85.8,10.607089366,97.0,47.0,,,,,,,,,,12,10
+UBCV,2018,W,CRWR,305,,OVERALL,Intermediate Writing of Creative Nonfiction,,30,85.8,10.607089366,97.0,47.0,,,,,,,,,,12,10
 UBCV,2018,W,CRWR,306,,002,Intermediate Writing for the Screen,James Canepa;Martin Kinch;Nathan Smith;Samarra Goldglas,77,81.87012987,7.140231917,94.0,64.0,,,,,7,,5,6,24,30,
+UBCV,2018,W,CRWR,306,,OVERALL,Intermediate Writing for the Screen,,77,81.87012987,7.140231917,94.0,64.0,,,,,7,,5,6,24,30,
 UBCV,2018,W,CRWR,307,,001,Intermediate Writing for the Stage and Radio,Bryan Wade;Elizabeth Bachinsky-Smith;Laura Harris;Theodora Armstrong,39,81.692307692,11.870249955999999,93.0,17.0,,,,,,,,10,9,12,5
-UBCV,2018,W,CRWR,308,,001,Intermediate Writing for Graphic Forms,Taylor Brown-Evans,26,79.26923076899999,5.227295226,88.0,70.0,,,,,,,,5,11,,
-UBCV,2018,W,CRWR,308,,002,Intermediate Writing for Graphic Forms,Elizabeth Leung;Rhea Tregebov;Sarah Leavitt;Sharon Mcgowan,34,79.058823529,14.895476589000001,90.0,1.0,,,,,,,,,12,10,
-UBCV,2018,W,CRWR,309,,002,Intermediate Writing Fiction,Annabel Lyon;Caroline Nelissen;Jasmine Sealy;John Vigna;Loghan Paylor,91,77.879120879,12.698062114,89.0,5.0,,,,,,,9,15,29,26,
-UBCV,2018,W,CRWR,310,,001,Video Game Writing and Narrative,Andreas Peter Schroeder;Bryan Wade;Jennifer Van Tassel;Peter Boychuk,56,77.196428571,15.842887297999999,95.0,0.0,,,,,,,10,,10,19,
-UBCV,2018,W,CRWR,310,,002,Video Game Writing and Narrative,Jennifer Van Tassel;Kevin Sun;Peter Boychuk,110,76.554545455,11.796116888,91.0,15.0,,,,6,7,7,11,16,37,15,6
-UBCV,2018,W,CRWR,311,,001,Intermediate Writing for Lyric Forms,Elizabeth Bachinsky-Smith;Isabel Patterson;Tariq Hussain,45,77.577777778,8.550621692,94.0,58.0,,,,,5,,,10,11,8,
-UBCV,2018,W,CRWR,311,,002,Intermediate Writing for Lyric Forms,Isabel Patterson;Richard A Van Camp;Tariq Hussain,35,75.0,9.664976187999999,93.0,55.0,,,,5,,,,5,8,,
+UBCV,2018,W,CRWR,307,,OVERALL,Intermediate Writing for the Stage and Radio,,39,81.692307692,11.870249955999999,93.0,17.0,,,,,,,,10,9,12,5
+UBCV,2018,W,CRWR,308,,001,Intermediate Writing for Graphic Forms,Taylor Brown-Evans,26,79.26923076899999,5.227295226,88.0,70.0,,,,,,,,5,11,4,
+UBCV,2018,W,CRWR,308,,002,Intermediate Writing for Graphic Forms,Elizabeth Leung;Rhea Tregebov;Sarah Leavitt;Sharon Mcgowan,34,79.058823529,14.895476589000001,90.0,1.0,,,,,,,,4,12,10,
+UBCV,2018,W,CRWR,308,,OVERALL,Intermediate Writing for Graphic Forms,,60,79.15,11.648561416,90.0,1.0,,,,,,5,7,9,23,14,
+UBCV,2018,W,CRWR,309,,002,Intermediate Writing Fiction,Annabel Lyon;Caroline Nelissen;Jasmine Sealy;John Vigna;Loghan Paylor;Loghan Sarah Paylor,91,77.879120879,12.698062114,89.0,5.0,,,,,,,9,15,29,26,
+UBCV,2018,W,CRWR,309,,OVERALL,Intermediate Writing Fiction,,91,77.879120879,12.698062114,89.0,5.0,,,,,,,9,15,29,26,
+UBCV,2018,W,CRWR,310,,001,Video Game Writing and Narrative,Andreas Peter Schroeder;Bryan Wade;Jennifer Van Tassel;Peter Boychuk,56,77.196428571,15.842887297999999,95.0,0.0,,,,1,3,3,10,3,10,19,4
+UBCV,2018,W,CRWR,310,,002,Video Game Writing and Narrative,Jennifer Van Tassel;Kevin Sun;Peter Boychuk,110,76.927272727,10.823614254,91.0,15.0,,,,6,7,8,11,16,37,15,6
+UBCV,2018,W,CRWR,310,,OVERALL,Video Game Writing and Narrative,,166,77.018072289,12.691430128,95.0,0.0,6,,,7,10,11,21,19,47,34,10
+UBCV,2018,W,CRWR,311,,001,Intermediate Writing for Lyric Forms,Elizabeth Bachinsky-Smith;Isabel Patterson;Tariq Hussain,45,77.577777778,8.550621692,94.0,58.0,,,,2,5,,,10,11,8,
+UBCV,2018,W,CRWR,311,,002,Intermediate Writing for Lyric Forms,Isabel Patterson;Richard A Van Camp;Tariq Hussain,35,75.0,9.664976187999999,93.0,55.0,,,,5,3,,,5,8,4,
+UBCV,2018,W,CRWR,311,,OVERALL,Intermediate Writing for Lyric Forms,,80,76.45,9.087339921,94.0,55.0,,,,7,8,7,7,15,19,12,
 UBCV,2018,W,CRWR,351,P,001,Intermediate Poetry Workshop,Sheryda Warrener,30,86.03333333299999,4.8599938510000005,90.0,65.0,,,,,,,,,,22,
+UBCV,2018,W,CRWR,351,P,OVERALL,Intermediate Poetry Workshop,,30,86.03333333299999,4.8599938510000005,90.0,65.0,,,,,,,,,,22,
 UBCV,2018,W,CRWR,353,P,001,Intermediate Children and Young Adult Writing Workshop,Emily Pohl-Weary,12,83.833333333,3.904154741,88.0,75.0,,,,,,,,,5,5,
+UBCV,2018,W,CRWR,353,P,OVERALL,Intermediate Children and Young Adult Writing Workshop,,12,83.833333333,3.904154741,88.0,75.0,,,,,,,,,5,5,
 UBCV,2018,W,CRWR,356,P,001,Intermediate Screenplay Workshop,Martin Kinch,20,75.1,19.281570148,86.0,18.0,,,,,,,,5,7,6,
+UBCV,2018,W,CRWR,356,P,OVERALL,Intermediate Screenplay Workshop,,20,75.1,19.281570148,86.0,18.0,,,,,,,,5,7,6,
 UBCV,2018,W,CRWR,359,P,001,Intermediate Fiction Workshop,Timothy Taylor,28,80.714285714,16.435862196,90.0,0.0,,,,,,,,,12,8,
+UBCV,2018,W,CRWR,359,P,OVERALL,Intermediate Fiction Workshop,,28,80.714285714,16.435862196,90.0,0.0,,,,,,,,,12,8,
 UBCV,2018,W,CRWR,359,Q,002,Intermediate Fiction Workshop,Timothy Taylor,22,85.363636364,3.9466134310000003,90.0,80.0,,,,,,,,,6,9,7
+UBCV,2018,W,CRWR,359,Q,OVERALL,Intermediate Fiction Workshop,,22,85.363636364,3.9466134310000003,90.0,80.0,,,,,,,,,6,9,7
 UBCV,2018,W,CRWR,401,P,001,Writing Poetry I,Amber Dawn Catherine Upfold;Amber Upfold;Andreas Peter Schroeder,14,86.64285714299999,12.150385514000002,95.0,56.0,,,,,,,,,,,8
 UBCV,2018,W,CRWR,401,P,003,Writing Poetry I,Jen Currin;Sheryda Warrener,14,81.357142857,23.571844818000002,90.0,0.0,,,,,,,,,,7,5
+UBCV,2018,W,CRWR,401,P,OVERALL,Writing Poetry I,,28,84.0,18.597092564,95.0,0.0,,,,,,,,,,11,13
 UBCV,2018,W,CRWR,401,Q,002,Writing Poetry I,Amber Dawn Catherine Upfold;Amber Upfold;Sheryda Warrener,12,91.833333333,5.474458601,96.0,76.0,,,,,,,,,,,11
+UBCV,2018,W,CRWR,401,Q,OVERALL,Writing Poetry I,,12,91.833333333,5.474458601,96.0,76.0,,,,,,,,,,,11
 UBCV,2018,W,CRWR,402,Q,002,Writing for New Media I,Bryan Wade,5,87.6,2.302172887,90.0,84.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,402,Q,OVERALL,Writing for New Media I,,5,87.6,2.302172887,90.0,84.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,403,P,001,Writing for Children and Young Adults I,Emily Pohl-Weary;Rachel Hartman,11,86.181818182,3.341202832,90.0,82.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,403,P,OVERALL,Writing for Children and Young Adults I,,11,86.181818182,3.341202832,90.0,82.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,403,Q,002,Writing for Children and Young Adults I,Margaret De Vries,11,84.636363636,4.945153734,92.0,76.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,403,Q,004,Writing for Children and Young Adults I,Alison Acheson,10,90.7,0.48304589200000003,91.0,90.0,,,,,,,,,,,10
+UBCV,2018,W,CRWR,403,Q,OVERALL,Writing for Children and Young Adults I,,21,87.523809524,4.686353034,92.0,76.0,,,,,,,,,,,12
 UBCV,2018,W,CRWR,405,P,001,Writing Creative Nonfiction I,Kevin Kim Wang Chong,14,87.714285714,3.6040270519999997,92.0,82.0,,,,,,,,,,,7
+UBCV,2018,W,CRWR,405,P,OVERALL,Writing Creative Nonfiction I,,14,87.714285714,3.6040270519999997,92.0,82.0,,,,,,,,,,,7
 UBCV,2018,W,CRWR,405,Q,002,Writing Creative Nonfiction I,Kevin Kim Wang Chong,13,87.23076923100001,3.1399003739999998,92.0,82.0,,,,,,,,,,7,
-UBCV,2018,W,CRWR,406,P,001,Writing for the Screen I,Maureen Medved,10,85.2,9.566144004,93.0,60.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,405,Q,OVERALL,Writing Creative Nonfiction I,,13,87.23076923100001,3.1399003739999998,92.0,82.0,,,,,,,,,,7,
+UBCV,2018,W,CRWR,406,P,001,Writing for the Screen I,Maureen Medved,10,85.8,9.670114328,93.0,60.0,,,,,,,,,,-8,-6
 UBCV,2018,W,CRWR,406,P,003,Writing for the Screen I,Maureen Medved,13,88.76923076899999,5.293924917,94.0,74.0,,,,,,,,,,5,7
+UBCV,2018,W,CRWR,406,P,OVERALL,Writing for the Screen I,,23,87.47826087,7.4703630510000005,94.0,60.0,,,,,,,,,,9,11
 UBCV,2018,W,CRWR,406,Q,002,Writing for the Screen I,Maureen Medved,11,89.72727272700001,1.793929156,92.0,87.0,,,,,,,,,,6,5
+UBCV,2018,W,CRWR,406,Q,OVERALL,Writing for the Screen I,,11,89.72727272700001,1.793929156,92.0,87.0,,,,,,,,,,6,5
 UBCV,2018,W,CRWR,407,R,001,Writing of Drama for the Stage I,Martin Kinch;Sara Graefe,8,84.5,13.277263057,93.0,53.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,407,R,OVERALL,Writing of Drama for the Stage I,,8,84.5,13.277263057,93.0,53.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,408,P,001,Writing for Graphic Forms I,Sarah Leavitt,13,84.846153846,0.800640769,86.0,84.0,,,,,,,,,5,8,
+UBCV,2018,W,CRWR,408,P,OVERALL,Writing for Graphic Forms I,,13,84.846153846,0.800640769,86.0,84.0,,,,,,,,,5,8,
 UBCV,2018,W,CRWR,408,Q,002,Writing for Graphic Forms I,Sarah Leavitt,13,88.846153846,3.184497706,92.0,81.0,,,,,,,,,,,8
+UBCV,2018,W,CRWR,408,Q,OVERALL,Writing for Graphic Forms I,,13,88.846153846,3.184497706,92.0,81.0,,,,,,,,,,,8
 UBCV,2018,W,CRWR,409,P,001,Writing Fiction I,Andreas Peter Schroeder;Keith Maillard,14,88.714285714,1.8156825980000002,90.0,85.0,,,,,,,,,,6,8
 UBCV,2018,W,CRWR,409,P,003,Writing Fiction I,Amber Dawn Catherine Upfold;Amber Upfold;Anosh Irani;Keith Maillard,14,89.0,4.94586074,97.0,81.0,,,,,,,,,,5,7
 UBCV,2018,W,CRWR,409,P,005,Writing Fiction I,Anosh Irani,6,81.166666667,4.262237283999999,85.0,76.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,409,P,OVERALL,Writing Fiction I,,34,87.5,4.749800634,97.0,76.0,,,,,,,,,,13,15
 UBCV,2018,W,CRWR,409,Q,002,Writing Fiction I,Andreas Peter Schroeder;Theodora Armstrong,11,86.818181818,3.124681802,92.0,82.0,,,,,,,,,,5,
 UBCV,2018,W,CRWR,409,Q,004,Writing Fiction I,Keith Maillard;Mallory Tater,11,90.181818182,2.040499048,94.0,87.0,,,,,,,,,,,7
+UBCV,2018,W,CRWR,409,Q,OVERALL,Writing Fiction I,,22,88.5,3.097618133,94.0,82.0,,,,,,,,,,9,10
 UBCV,2018,W,CRWR,411,P,001,Writing for Lyric Forms I,Tariq Hussain,7,84.571428571,2.760262237,90.0,82.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,411,P,OVERALL,Writing for Lyric Forms I,,7,84.571428571,2.760262237,90.0,82.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,411,Q,002,Writing for Lyric Forms I,Tariq Hussain,8,72.0,24.70396151,88.0,15.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,411,Q,OVERALL,Writing for Lyric Forms I,,8,72.0,24.70396151,88.0,15.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,416,P,001,Writing for Television I,Andreas Peter Schroeder;Martin Kinch,15,88.8,2.8585710719999997,94.0,85.0,,,,,,,,,,8,7
+UBCV,2018,W,CRWR,416,P,OVERALL,Writing for Television I,,15,88.8,2.8585710719999997,94.0,85.0,,,,,,,,,,8,7
 UBCV,2018,W,CRWR,416,Q,002,Writing for Television I,Linda Svendsen;Martin Kinch,14,88.14285714299999,3.416186422,92.0,80.0,,,,,,,,,,8,5
+UBCV,2018,W,CRWR,416,Q,OVERALL,Writing for Television I,,14,88.14285714299999,3.416186422,92.0,80.0,,,,,,,,,,8,5
 UBCV,2018,W,CRWR,430,,001,Preparation for a Career in Writing,Kevin Kim Wang Chong;Theodora Armstrong,12,86.833333333,8.871131252,93.0,60.0,,,,,,,,,,5,6
+UBCV,2018,W,CRWR,430,,OVERALL,Preparation for a Career in Writing,,12,86.833333333,8.871131252,93.0,60.0,,,,,,,,,,5,6
 UBCV,2018,W,CRWR,440,Q,002,Interdisciplinary Projects,Emily Pohl-Weary,13,83.76923076899999,2.773500981,90.0,80.0,,,,,,,,,9,,
-UBCV,2018,W,CRWR,440,Q,004,Interdisciplinary Projects,Sheryda Warrener,6,90.166666667,3.125166662,94.0,87.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,440,Q,004,Interdisciplinary Projects,Sheryda Warrener,6,90.166666667,3.125166662,94.0,87.0,,,,,,,,,0,,
+UBCV,2018,W,CRWR,440,Q,OVERALL,Interdisciplinary Projects,,19,85.789473684,4.144326073,94.0,80.0,,,,,,,,,9,6,
 UBCV,2018,W,CRWR,457,R,001,Writing of Drama for the Stage II,Bryan Wade,6,90.0,1.4142135619999998,92.0,88.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,457,R,OVERALL,Writing of Drama for the Stage II,,6,90.0,1.4142135619999998,92.0,88.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,501,P,001,Advanced Writing of Poetry I,Sheryda Warrener,12,90.416666667,2.429303429,93.0,85.0,,,,,,,,,,,8
 UBCV,2018,W,CRWR,501,P,D01,Advanced Writing of Poetry I,Sarah Tsiang,9,89.888888889,1.8333333330000001,93.0,88.0,,,,,,,,,,,5
+UBCV,2018,W,CRWR,501,P,OVERALL,Advanced Writing of Poetry I,,21,90.19047619,2.159144451,93.0,85.0,,,,,,,,,,8,13
 UBCV,2018,W,CRWR,501,Q,002,Advanced Writing of Poetry I,Amber Dawn Catherine Upfold;Amber Upfold;Andreas Peter Schroeder,12,91.25,3.5451631580000003,95.0,83.0,,,,,,,,,,,9
 UBCV,2018,W,CRWR,501,Q,D02,Advanced Writing of Poetry I,Sarah Tsiang,8,89.625,3.5831949030000003,92.0,81.0,,,,,,,,,,,7
+UBCV,2018,W,CRWR,501,Q,OVERALL,Advanced Writing of Poetry I,,20,90.6,3.560011827,95.0,81.0,,,,,,,,,,,16
 UBCV,2018,W,CRWR,501,R,D01,Advanced Writing of Poetry I,Susan Musgrave,12,87.0,1.4142135619999998,89.0,84.0,,,,,,,,,,11,
+UBCV,2018,W,CRWR,501,R,OVERALL,Advanced Writing of Poetry I,,12,87.0,1.4142135619999998,89.0,84.0,,,,,,,,,,11,
 UBCV,2018,W,CRWR,503,P,001,Advanced Writing for Children I,Alison Acheson,8,90.25,1.0350983390000001,91.0,89.0,,,,,,,,,,,5
 UBCV,2018,W,CRWR,503,P,D01,Advanced Writing for Children I,Margaret De Vries,8,90.0,2.0,92.0,87.0,,,,,,,,,,,5
+UBCV,2018,W,CRWR,503,P,OVERALL,Advanced Writing for Children I,,16,90.125,1.543804824,92.0,87.0,,,,,,,,,,6,10
 UBCV,2018,W,CRWR,503,Q,002,Advanced Writing for Children I,Emily Pohl-Weary,10,90.1,0.567646212,91.0,89.0,,,,,,,,,,,9
 UBCV,2018,W,CRWR,503,Q,D02,Advanced Writing for Children I,Margaret De Vries,12,85.666666667,15.749939875,93.0,36.0,,,,,,,,,,,8
+UBCV,2018,W,CRWR,503,Q,OVERALL,Advanced Writing for Children I,,22,87.681818182,11.626678532,93.0,36.0,,,,,,,,,,,17
 UBCV,2018,W,CRWR,505,P,001,Advanced Writing of Creative Non-Fiction I,Kevin Kim Wang Chong,12,90.0,2.891995222,93.0,84.0,,,,,,,,,,,7
 UBCV,2018,W,CRWR,505,P,D01,Advanced Writing of Creative Non-Fiction I,Albert Wayne Grady,11,90.27272727299999,1.848832555,93.0,87.0,,,,,,,,,,,8
 UBCV,2018,W,CRWR,505,P,D03,Advanced Writing of Creative Non-Fiction I,Albert Wayne Grady;Charlotte Gill,12,89.5,2.645751311,93.0,85.0,,,,,,,,,,5,7
-UBCV,2018,W,CRWR,505,Q,002,Advanced Writing of Creative Non-Fiction I,Timothy Taylor,12,86.666666667,11.420343358,93.0,51.0,,,,,,,,,,7,
+UBCV,2018,W,CRWR,505,P,OVERALL,Advanced Writing of Creative Non-Fiction I,,35,89.914285714,2.465901918,93.0,84.0,,,,,,,,,,12,22
+UBCV,2018,W,CRWR,505,Q,002,Advanced Writing of Creative Non-Fiction I,Timothy Taylor,12,86.666666667,11.420343358,93.0,51.0,,,,,,,,,,7,-30
 UBCV,2018,W,CRWR,505,Q,D02,Advanced Writing of Creative Non-Fiction I,Charlotte Gill;Jenny Ferguson,12,89.583333333,2.274696117,92.0,86.0,,,,,,,,,,6,6
 UBCV,2018,W,CRWR,505,Q,D04,Advanced Writing of Creative Non-Fiction I,Charlotte Gill;Jenny Ferguson;Jenny Lee Ferguson,12,89.666666667,6.31496539,97.0,80.0,,,,,,,,,,,7
+UBCV,2018,W,CRWR,505,Q,OVERALL,Advanced Writing of Creative Non-Fiction I,,36,88.638888889,7.559866884,97.0,51.0,,,,,,,,,,16,17
 UBCV,2018,W,CRWR,506,R,001,Advanced Writing of Drama for Screen I,Sharon Mcgowan,11,90.454545455,0.6875516509999999,92.0,90.0,,,,,,,,,,,11
 UBCV,2018,W,CRWR,506,R,D01,Advanced Writing of Drama for Screen I,Sara Graefe,9,90.444444444,1.740051085,93.0,88.0,,,,,,,,,,,7
+UBCV,2018,W,CRWR,506,R,OVERALL,Advanced Writing of Drama for Screen I,,20,90.45,1.234376041,93.0,88.0,,,,,,,,,,,18
 UBCV,2018,W,CRWR,507,P,D01,Advanced Writing of Drama for the Stage I,Stephen Hunt,5,89.6,4.335896678,94.0,85.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,507,P,OVERALL,Advanced Writing of Drama for the Stage I,,5,89.6,4.335896678,94.0,85.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,507,Q,D02,Advanced Writing of Drama for the Stage I,Stephen Hunt,9,92.444444444,2.65099562,95.0,87.0,,,,,,,,,,,8
+UBCV,2018,W,CRWR,507,Q,OVERALL,Advanced Writing of Drama for the Stage I,,9,92.444444444,2.65099562,95.0,87.0,,,,,,,,,,,8
 UBCV,2018,W,CRWR,507,R,001,Advanced Writing of Drama for the Stage I,Bryan Wade,5,90.0,1.58113883,92.0,88.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,507,R,OVERALL,Advanced Writing of Drama for the Stage I,,5,90.0,1.58113883,92.0,88.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,508,P,D01,Advanced Writing for Graphic Forms I,Sarah Leavitt,10,89.2,2.616188916,93.0,85.0,,,,,,,,,,6,
+UBCV,2018,W,CRWR,508,P,OVERALL,Advanced Writing for Graphic Forms I,,10,89.2,2.616188916,93.0,85.0,,,,,,,,,,6,
 UBCV,2018,W,CRWR,508,Q,002,Advanced Writing for Graphic Forms I,Sarah Leavitt,12,88.833333333,2.208797836,94.0,85.0,,,,,,,,,,7,5
+UBCV,2018,W,CRWR,508,Q,OVERALL,Advanced Writing for Graphic Forms I,,12,88.833333333,2.208797836,94.0,85.0,,,,,,,,,,7,5
 UBCV,2018,W,CRWR,509,P,001,Advanced Writing of Fiction I,Alix Ohlin,12,92.0,0.0,92.0,92.0,,,,,,,,,,,12
 UBCV,2018,W,CRWR,509,P,003,Advanced Writing of Fiction I,Timothy Taylor,7,90.285714286,0.48795003600000003,91.0,90.0,,,,,,,,,,,7
 UBCV,2018,W,CRWR,509,P,D01,Advanced Writing of Fiction I,Annabel Lyon,11,89.818181818,1.328019715,92.0,88.0,,,,,,,,,,,8
 UBCV,2018,W,CRWR,509,P,D03,Advanced Writing of Fiction I,Anosh Irani,11,89.363636364,4.105428778,94.0,84.0,,,,,,,,,,,7
 UBCV,2018,W,CRWR,509,P,D05,Advanced Writing of Fiction I,Jenny Ferguson;Jenny Lee Ferguson,10,89.0,5.715476066,97.0,80.0,,,,,,,,,,,5
+UBCV,2018,W,CRWR,509,P,OVERALL,Advanced Writing of Fiction I,,51,90.13725490200001,3.298603388,97.0,80.0,,,,,,,,,6,6,39
 UBCV,2018,W,CRWR,509,Q,002,Advanced Writing of Fiction I,Keith Maillard,10,89.4,2.270584849,93.0,85.0,,,,,,,,,,,8
-UBCV,2018,W,CRWR,509,Q,004,Advanced Writing of Fiction I,John Vigna,12,88.666666667,1.435481125,92.0,87.0,,,,,,,,,,10,
+UBCV,2018,W,CRWR,509,Q,004,Advanced Writing of Fiction I,John Vigna,12,88.666666667,1.435481125,92.0,87.0,,,,,,,,,,10,-44
 UBCV,2018,W,CRWR,509,Q,D02,Advanced Writing of Fiction I,Maureen Medved,12,89.75,2.632834629,93.0,87.0,,,,,,,,,,6,6
 UBCV,2018,W,CRWR,509,Q,D04,Advanced Writing of Fiction I,Charlotte Gill;Timothy Taylor,12,89.583333333,1.311372171,92.0,87.0,,,,,,,,,,5,7
+UBCV,2018,W,CRWR,509,Q,OVERALL,Advanced Writing of Fiction I,,46,89.347826087,1.9575198740000002,93.0,85.0,,,,,,,,,,23,23
 UBCV,2018,W,CRWR,514,P,001,Advanced Writing for Television I,Andreas Peter Schroeder;Martin Kinch,6,89.833333333,1.940790217,93.0,88.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,514,P,OVERALL,Advanced Writing for Television I,,6,89.833333333,1.940790217,93.0,88.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,514,Q,002,Advanced Writing for Television I,Linda Svendsen;Martin Kinch,6,90.0,1.673320053,93.0,88.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,514,Q,OVERALL,Advanced Writing for Television I,,6,90.0,1.673320053,93.0,88.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,514,R,D01,Advanced Writing for Television I,Sioux Browning,12,86.5,14.681466362,92.0,40.0,,,,,,,,,,,9
+UBCV,2018,W,CRWR,514,R,OVERALL,Advanced Writing for Television I,,12,86.5,14.681466362,92.0,40.0,,,,,,,,,,,9
 UBCV,2018,W,CRWR,530,,001,Preparation for a Career in Writing,Kevin Kim Wang Chong,6,90.333333333,2.943920289,93.0,87.0,,,,,,,,,,,
+UBCV,2018,W,CRWR,530,,OVERALL,Preparation for a Career in Writing,,6,90.333333333,2.943920289,93.0,87.0,,,,,,,,,,,
 UBCV,2018,W,CRWR,570,P,001,Advanced Special Projects in Creative Writing,Keith Maillard;Sharon Mcgowan,10,90.4,0.843274043,92.0,90.0,,,,,,,,,,,10
+UBCV,2018,W,CRWR,570,P,OVERALL,Advanced Special Projects in Creative Writing,,11,89.909090909,1.814086296,92.0,85.0,,,,,,,,,,,10
 UBCV,2018,W,CRWR,599,,100,Thesis,,16,90.75,2.323790008,94.0,85.0,,,,,,,,,,,12
 UBCV,2018,W,CRWR,599,,D20,Thesis,,8,91.25,2.96407056,95.0,85.0,,,,,,,,,,,7
+UBCV,2018,W,CRWR,599,,OVERALL,Thesis,,31,91.387096774,2.654272271,95.0,85.0,,,,,,,,,,6,25

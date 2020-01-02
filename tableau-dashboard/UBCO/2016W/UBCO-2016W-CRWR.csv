@@ -1,19 +1,35 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2016,W,CRWR,150,,001,Introduction to Writing Poetry and Non-Fiction,Erin Heather Banks;Erin Heather Scott;Erin Scott;Matthew Lee Rader,47,78.12765957399999,10.133064735,93.0,37.0,,,,,,,6,12,14,5,
-UBCO,2016,W,CRWR,150,,002,Introduction to Writing Poetry and Non-Fiction,Cara Fionn Agnes Johnston;Cara Fionn Johnston;Laisha Rosnau,44,75.136363636,10.801789062000001,88.0,20.0,,,,,,,11,16,8,,
-UBCO,2016,W,CRWR,160,,001,Introduction to Writing Fiction and Drama,Michael Smith;Miriam Huxley;Miriam Kathryn Huxley,45,75.111111111,14.686453595,90.0,13.0,,,,,,,5,8,18,,
-UBCO,2016,W,CRWR,160,,101,Introduction to Writing Fiction and Drama,Dania Tomlinson;Nazanin Sahebnassagh,42,81.333333333,11.585665379000002,94.0,36.0,,,,,,,,7,9,10,9
+UBCO,2016,W,CRWR,150,,002,Introduction to Writing Poetry and Non-Fiction,Cara Fionn Agnes Johnston;Cara Fionn Johnston;Laisha Rosnau,44,75.136363636,10.801789062000001,88.0,20.0,,,,,,,11,16,8,4,
+UBCO,2016,W,CRWR,150,,OVERALL,Introduction to Writing Poetry and Non-Fiction,,91,76.68131868100001,10.511241729,93.0,20.0,,,,,,,17,28,22,9,
+UBCO,2016,W,CRWR,160,,001,Introduction to Writing Fiction and Drama,Michael Smith;Miriam Huxley;Miriam Kathryn Huxley,45,75.111111111,14.686453595,90.0,13.0,,,,,,,5,8,18,4,1
+UBCO,2016,W,CRWR,160,,101,Introduction to Writing Fiction and Drama,Dania Tomlinson;Nazanin Sahebnassagh,42,81.333333333,11.585665379000002,94.0,36.0,,,,,,,2,7,9,10,9
+UBCO,2016,W,CRWR,160,,OVERALL,Introduction to Writing Fiction and Drama,,87,78.11494252899999,13.569309837999999,94.0,13.0,,,,,,5,7,15,27,14,10
 UBCO,2016,W,CRWR,205,,001,Writing Popular Fiction,Anne Fleming;Cole Mash,50,75.98,17.690640902000002,91.0,0.0,,,,,,,8,7,15,11,
+UBCO,2016,W,CRWR,205,,OVERALL,Writing Popular Fiction,,50,75.98,17.690640902000002,91.0,0.0,,,,,,,8,7,15,11,
 UBCO,2016,W,CRWR,216,,002,Intermediate Workshop in Creative Writing: Poetry,Michael Smith,20,82.7,6.182317739,93.0,67.0,,,,,,,,,7,6,
+UBCO,2016,W,CRWR,216,,OVERALL,Intermediate Workshop in Creative Writing: Poetry,,20,82.7,6.182317739,93.0,67.0,,,,,,,,,7,6,
 UBCO,2016,W,CRWR,217,,001,Intermediate Workshop in Creative Writing: Fiction,Anne Fleming,22,78.090909091,8.634973686,90.0,56.0,,,,,,,5,,6,,
+UBCO,2016,W,CRWR,217,,OVERALL,Intermediate Workshop in Creative Writing: Fiction,,22,78.090909091,8.634973686,90.0,56.0,,,,,,,5,,6,,
 UBCO,2016,W,CRWR,218,,001,Intermediate Workshop in Creative Writing: Playwriting,Anne Fleming,8,69.5,28.45547901,85.0,0.0,,,,,,,,,,,
+UBCO,2016,W,CRWR,218,,OVERALL,Intermediate Workshop in Creative Writing: Playwriting,,8,69.5,28.45547901,85.0,0.0,,,,,,,,,,,
 UBCO,2016,W,CRWR,250,,001,Workshop in Creative Writing: Screenwriting,Michael Smith,13,73.23076923100001,12.755089482,91.0,50.0,,,,,,,,5,,,
+UBCO,2016,W,CRWR,250,,OVERALL,Workshop in Creative Writing: Screenwriting,,13,73.23076923100001,12.755089482,91.0,50.0,,,,,,,,5,,,
 UBCO,2016,W,CRWR,260,,001,Theory and Practice of Creative Writing,Matthew Lee Rader,21,85.95238095200001,8.12081394,97.0,65.0,,,,,,,,,,9,5
+UBCO,2016,W,CRWR,260,,OVERALL,Theory and Practice of Creative Writing,,21,85.95238095200001,8.12081394,97.0,65.0,,,,,,,,,,9,5
 UBCO,2016,W,CRWR,310,,001,The Power of Metaphor,Cara Fionn Agnes Johnston;Cara Fionn Johnston;Nancy Holmes,12,70.0,20.674973892,86.0,8.0,,,,,,,,,,,
+UBCO,2016,W,CRWR,310,,OVERALL,The Power of Metaphor,,12,70.0,20.674973892,86.0,8.0,,,,,,,,,,,
 UBCO,2016,W,CRWR,380,,001,Writing of the Short Story,Matthew Lee Rader,12,82.833333333,7.296740659,92.0,68.0,,,,,,,,,,,
+UBCO,2016,W,CRWR,380,,OVERALL,Writing of the Short Story,,12,82.833333333,7.296740659,92.0,68.0,,,,,,,,,,,
 UBCO,2016,W,CRWR,381,,001,Writing of Poetry,Anne Fleming,12,78.0,11.353813937,89.0,55.0,,,,,,,,,,,
+UBCO,2016,W,CRWR,381,,OVERALL,Writing of Poetry,,12,78.0,11.353813937,89.0,55.0,,,,,,,,,,,
 UBCO,2016,W,CRWR,382,O,001,Topics in Creative Writing,Denise Kenney,15,83.06666666699999,3.8999389489999996,87.0,74.0,,,,,,,,,,8,
+UBCO,2016,W,CRWR,382,O,OVERALL,Topics in Creative Writing,,15,83.06666666699999,3.8999389489999996,87.0,74.0,,,,,,,,,,8,
 UBCO,2016,W,CRWR,470,B,001,Portfolio,Anne Fleming,5,76.6,5.504543578,85.0,71.0,,,,,,,,,,,
+UBCO,2016,W,CRWR,470,B,OVERALL,Portfolio,,5,76.6,5.504543578,85.0,71.0,,,,,,,,,,,
 UBCO,2016,W,CRWR,471,,001,Writing of the Novel,Adam Schroeder,15,85.466666667,7.189940062000001,96.0,71.0,,,,,,,,,,5,5
+UBCO,2016,W,CRWR,471,,OVERALL,Writing of the Novel,,15,85.466666667,7.189940062000001,96.0,71.0,,,,,,,,,,5,5
 UBCO,2016,W,CRWR,473,,001,Writing and Community Learning,Matthew Lee Rader,8,70.125,31.461711424,98.0,0.0,,,,,,,,,,,
+UBCO,2016,W,CRWR,473,,OVERALL,Writing and Community Learning,,8,70.125,31.461711424,98.0,0.0,,,,,,,,,,,
 UBCO,2016,W,CRWR,474,,001,Writing with Media,Michael Smith,14,73.214285714,20.249135106,88.0,11.0,,,,,,,,,,,
+UBCO,2016,W,CRWR,474,,OVERALL,Writing with Media,,14,73.214285714,20.249135106,88.0,11.0,,,,,,,,,,,

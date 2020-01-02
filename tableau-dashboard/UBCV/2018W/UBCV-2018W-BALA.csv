@@ -1,4 +1,6 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,BALA,503,,DD1,Commercial Law,Ellen Jane Mcintosh,49,83.040816327,4.010191099,90.0,72.0,,,,,,,,,22,18,
-UBCV,2018,W,BALA,503,,MM1,Commercial Law,Barbara Cox,49,80.428571429,6.570134447999999,93.0,64.0,,,,,,,7,10,15,9,5
-UBCV,2018,W,BALA,580,A,001,Topics in Law,Ellen Jane Mcintosh,26,83.653846154,4.774451237,93.0,76.0,,,,,,,,5,8,9,
+UBCV,2018,W,BALA,503,,DD1,Commercial Law,Ellen Jane Mcintosh;Ellen Mcintosh,49,83.040816327,4.010191099,90.0,72.0,,,,,,,3,4,22,18,2
+UBCV,2018,W,BALA,503,,MM1,Commercial Law,Barbara Cox,49,80.632653061,6.457211335,93.0,64.0,,,,,,,6,10,16,9,5
+UBCV,2018,W,BALA,503,,OVERALL,Commercial Law,,98,81.836734694,5.482293668,93.0,64.0,,,,,,,9,14,38,27,7
+UBCV,2018,W,BALA,580,A,001,Topics in Law,Ellen Jane Mcintosh;Ellen Mcintosh,26,83.653846154,4.774451237,93.0,76.0,,,,,,,,5,8,9,
+UBCV,2018,W,BALA,580,A,OVERALL,Topics in Law,,26,83.653846154,4.774451237,93.0,76.0,,,,,,,,5,8,9,

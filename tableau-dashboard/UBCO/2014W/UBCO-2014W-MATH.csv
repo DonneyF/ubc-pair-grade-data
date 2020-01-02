@@ -1,39 +1,69 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2014,W,MATH,100,,001,Differential Calculus with Applications to Physical Sciences and Engineering,Shawn Wang,175,68.634285714,22.1941012,100.0,0.0,23,13,13,10,7,19,11,17,16,24,22
 UBCO,2014,W,MATH,100,,002,Differential Calculus with Applications to Physical Sciences and Engineering,Heinz Bauschke,234,67.867521368,20.110306665,100.0,0.0,29,23,19,20,12,19,15,23,18,24,32
-UBCO,2014,W,MATH,100,,003,Differential Calculus with Applications to Physical Sciences and Engineering,Ben Tippett,116,72.370689655,18.885250823,100.0,8.0,13,,5,7,8,10,14,14,10,11,20
-UBCO,2014,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Jia Xu,99,56.050505051,25.853343737,100.0,0.0,29,15,5,8,9,,5,5,,7,9
-UBCO,2014,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz,100,58.66,22.096308938000004,98.0,0.0,29,7,11,8,9,7,,,9,5,7
-UBCO,2014,W,MATH,101,,101,Integral Calculus with Applications to Physical Sciences and Engineering,Anuj Bajaj;Chayne C Planiden;Javad Tavakoli,95,67.536842105,22.943877191,100.0,0.0,16,7,,6,9,10,10,6,,,20
+UBCO,2014,W,MATH,100,,003,Differential Calculus with Applications to Physical Sciences and Engineering,Ben Tippett,116,72.370689655,18.885250823,100.0,8.0,13,4.0,5,7,8,10,14,14,10,11,20
+UBCO,2014,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Jia Xu,99,56.050505051,25.853343737,100.0,0.0,29,15,5,8,9,3,5,5,4,7,9
+UBCO,2014,W,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,624,67.044871795,22.028536271,100.0,0.0,94,55,42,45,36,51,45,59,48,66,83
+UBCO,2014,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz,100,58.66,22.096308938000004,98.0,0.0,29,7,11,8,9,7,4,4,9,5,7
+UBCO,2014,W,MATH,101,,101,Integral Calculus with Applications to Physical Sciences and Engineering,Anuj Bajaj;Chayne C Planiden;Javad Tavakoli,95,67.536842105,22.943877191,100.0,0.0,16,7,3.0,6,9,10,10,6,4,4,20
 UBCO,2014,W,MATH,101,,102,Integral Calculus with Applications to Physical Sciences and Engineering,Anuj Bajaj;Blair Kenneth Spearman;Chayne C Planiden,255,75.796078431,21.178784891,100.0,0.0,22,11,10,12,23,12,15,20,24,28,78
-UBCO,2014,W,MATH,101,,103,Integral Calculus with Applications to Physical Sciences and Engineering,Anuj Bajaj;Ben Tippett;Chayne C Planiden,110,73.26363636399999,19.45905005,100.0,6.0,10,,,10,12,6,12,11,10,10,22
+UBCO,2014,W,MATH,101,,103,Integral Calculus with Applications to Physical Sciences and Engineering,Anuj Bajaj;Ben Tippett;Chayne C Planiden,110,73.26363636399999,19.45905005,100.0,6.0,10,4,3.0,10,12,6,12,11,10,10,22
+UBCO,2014,W,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,560,70.8375,22.212351819000002,100.0,0.0,77,29,27,36,53,35,41,41,47,47,127
 UBCO,2014,W,MATH,111,,101,Finite Mathematics,Edward Butz,43,68.23255814,19.308075302,95.0,15.0,5,,,,,8,,,,5,5
+UBCO,2014,W,MATH,111,,OVERALL,Finite Mathematics,,43,68.23255814,19.308075302,95.0,15.0,5,,,,,8,,,,5,5
 UBCO,2014,W,MATH,116,,001,Calculus I for Management and Economics,Qiduan Yang,149,61.832214765,23.526121964,95.0,0.0,32,16,12,8,7,16,9,11,8,13,17
-UBCO,2014,W,MATH,116,,002,Calculus I for Management and Economics,Edward Butz;Yue Hu,86,63.255813953,20.633032366,97.0,0.0,17,9,5,7,,9,10,8,9,,5
+UBCO,2014,W,MATH,116,,002,Calculus I for Management and Economics,Edward Butz;Yue Hu,86,63.255813953,20.633032366,97.0,0.0,17,9,5,7,3,9,10,8,9,4,5
+UBCO,2014,W,MATH,116,,OVERALL,Calculus I for Management and Economics,,235,62.353191489,22.476168300999998,97.0,0.0,49,25,17,15,10,25,19,19,17,17,22
 UBCO,2014,W,MATH,125,,001,Pre-Calculus,Javad Tavakoli,79,70.70886075899999,22.841792499,100.0,0.0,11,,7,7,,,7,,7,8,17
+UBCO,2014,W,MATH,125,,OVERALL,Pre-Calculus,,79,70.70886075899999,22.841792499,100.0,0.0,11,,7,7,,,7,,7,8,17
 UBCO,2014,W,MATH,126,,101,Basic Mathematics: An Aboriginal Perspective,Ben Tippett,28,74.142857143,23.5493403,100.0,11.0,5,,,,,,,,,5,9
+UBCO,2014,W,MATH,126,,OVERALL,Basic Mathematics: An Aboriginal Perspective,,28,74.142857143,23.5493403,100.0,11.0,5,,,,,,,,,5,9
 UBCO,2014,W,MATH,142,,001,Calculus II for Management and Economics,Anuj Bajaj;May Anne Mata;Qiduan Yang,94,67.010638298,23.601300621,99.0,1.0,19,,6,6,9,8,,9,,6,21
+UBCO,2014,W,MATH,142,,OVERALL,Calculus II for Management and Economics,,94,67.010638298,23.601300621,99.0,1.0,19,,6,6,9,8,,9,,6,21
 UBCO,2014,W,MATH,160,,001,Mathematics for Elementary Teachers,Wayne Broughton;Yue Hu,63,75.523809524,13.046884615,98.0,41.0,,,6,,5,,5,8,9,13,7
+UBCO,2014,W,MATH,160,,OVERALL,Mathematics for Elementary Teachers,,63,75.523809524,13.046884615,98.0,41.0,,,6,,5,,5,8,9,13,7
 UBCO,2014,W,MATH,200,,001,Calculus III,Warren Hare,213,71.718309859,16.629012297,99.0,10.0,14,18,17,15,15,19,16,22,23,26,28
+UBCO,2014,W,MATH,200,,OVERALL,Calculus III,,213,71.718309859,16.629012297,99.0,10.0,14,18,17,15,15,19,16,22,23,26,28
 UBCO,2014,W,MATH,220,,001,Mathematical Proof,Heinz Bauschke,76,76.815789474,15.765540926,98.0,22.0,,,,,,,6,11,14,15,11
+UBCO,2014,W,MATH,220,,OVERALL,Mathematical Proof,,76,76.815789474,15.765540926,98.0,22.0,,,,,,,6,11,14,15,11
 UBCO,2014,W,MATH,221,,001,Matrix Algebra,Wayne Broughton,80,67.3375,18.99629794,100.0,7.0,10,6,6,5,6,12,8,6,9,5,7
 UBCO,2014,W,MATH,221,,101,Matrix Algebra,Jeewon Yoo;Wayne Broughton,146,72.657534247,19.056879781,100.0,0.0,12,5,6,9,17,8,12,21,14,15,27
+UBCO,2014,W,MATH,221,,OVERALL,Matrix Algebra,,226,70.774336283,19.16356394,100.0,0.0,22,11,12,14,23,20,20,27,23,20,34
 UBCO,2014,W,MATH,225,,001,Introduction to Differential Equations,May Anne Mata;Rebecca Tyson,99,63.484848485,22.479180225,100.0,0.0,28,,,,7,12,9,7,7,9,9
+UBCO,2014,W,MATH,225,,OVERALL,Introduction to Differential Equations,,99,63.484848485,22.479180225,100.0,0.0,28,,,,7,12,9,7,7,9,9
 UBCO,2014,W,MATH,307,,001,Applied Linear Algebra,Chayne C Planiden;Chayne Planiden;Jeewon Yoo;Wayne Broughton,63,70.031746032,17.858736232000002,93.0,0.0,7,5,,6,,,8,6,9,10,
+UBCO,2014,W,MATH,307,,OVERALL,Applied Linear Algebra,,63,70.031746032,17.858736232000002,93.0,0.0,7,5,,6,,,8,6,9,10,
 UBCO,2014,W,MATH,311,,001,Abstract Algebra I,Qiduan Yang;Walaa Mohamed Moursi;Walaa Moursi,57,67.05263157899999,18.406541007999998,99.0,27.0,9,6,5,,,8,,,6,8,5
+UBCO,2014,W,MATH,311,,OVERALL,Abstract Algebra I,,57,67.05263157899999,18.406541007999998,99.0,27.0,9,6,5,,,8,,,6,8,5
 UBCO,2014,W,MATH,312,,001,Introduction to Number Theory,Blair Kenneth Spearman,79,81.341772152,10.541597792000001,98.0,53.0,,,,,7,6,,,23,9,22
+UBCO,2014,W,MATH,312,,OVERALL,Introduction to Number Theory,,79,81.341772152,10.541597792000001,98.0,53.0,,,,,7,6,,,23,9,22
 UBCO,2014,W,MATH,317,,001,Calculus IV,Chad Davis;Chad T Davis;May Anne Mata;Nahid Jetha,87,66.701149425,18.129453706,100.0,10.0,12,13,10,,,11,7,5,9,6,9
+UBCO,2014,W,MATH,317,,OVERALL,Calculus IV,,87,66.701149425,18.129453706,100.0,10.0,12,13,10,,,11,7,5,9,6,9
 UBCO,2014,W,MATH,319,,001,Introduction to Partial Differential Equations,Rebecca Tyson,49,71.102040816,16.060101829,96.0,16.0,5,,,,7,7,6,,8,,6
+UBCO,2014,W,MATH,319,,OVERALL,Introduction to Partial Differential Equations,,49,71.102040816,16.060101829,96.0,16.0,5,,,,7,7,6,,8,,6
 UBCO,2014,W,MATH,327,,001,Analysis I,Shawn Wang,47,82.978723404,10.128499097999999,100.0,43.0,,,,,,,,,13,13,10
+UBCO,2014,W,MATH,327,,OVERALL,Analysis I,,47,82.978723404,10.128499097999999,100.0,43.0,,,,,,,,,13,13,10
 UBCO,2014,W,MATH,328,,001,Analysis II,Shawn Wang;Walaa Mohamed Moursi;Walaa Moursi,18,80.722222222,14.421412004,100.0,50.0,,,,,,,,,,,6
+UBCO,2014,W,MATH,328,,OVERALL,Analysis II,,18,80.722222222,14.421412004,100.0,50.0,,,,,,,,,,,6
 UBCO,2014,W,MATH,340,,001,Introduction to Linear Programming,Donovan Hare,54,72.12962963,13.913542061,93.0,36.0,,5,,,,5,8,6,9,6,
+UBCO,2014,W,MATH,340,,OVERALL,Introduction to Linear Programming,,54,72.12962963,13.913542061,93.0,36.0,,5,,,,5,8,6,9,6,
 UBCO,2014,W,MATH,410,,001,Introduction to General Topology,Javad Tavakoli,6,75.666666667,14.151560574000001,98.0,60.0,,,,,,,,,,,
+UBCO,2014,W,MATH,410,,OVERALL,Introduction to General Topology,,6,75.666666667,14.151560574000001,98.0,60.0,,,,,,,,,,,
 UBCO,2014,W,MATH,432,D,001,Special Topics in Algebra and Number Theory,Blair Kenneth Spearman;Chad Davis;Chad T Davis,25,86.6,7.681145748,96.0,68.0,,,,,,,,,6,,13
+UBCO,2014,W,MATH,432,D,OVERALL,Special Topics in Algebra and Number Theory,,25,86.6,7.681145748,96.0,68.0,,,,,,,,,6,,13
 UBCO,2014,W,MATH,441,,001,Modelling of Discrete Optimization Problems,Donovan Hare,5,84.0,9.772410143,92.0,71.0,,,,,,,,,,,
+UBCO,2014,W,MATH,441,,OVERALL,Modelling of Discrete Optimization Problems,,5,84.0,9.772410143,92.0,71.0,,,,,,,,,,,
 UBCO,2014,W,MATH,459,,001,Mathematical Biology,Rebecca Tyson,6,77.0,9.444575162000001,87.0,61.0,,,,,,,,,,,
+UBCO,2014,W,MATH,459,,OVERALL,Mathematical Biology,,6,77.0,9.444575162000001,87.0,61.0,,,,,,,,,,,
 UBCO,2014,W,MATH,460,A,001,Special Topics in Mathematics,Walaa Mohamed Moursi;Wayne Broughton,12,75.166666667,18.344349307,90.0,22.0,,,,,,,,,,,
+UBCO,2014,W,MATH,460,A,OVERALL,Special Topics in Mathematics,,12,75.166666667,18.344349307,90.0,22.0,,,,,,,,,,,
 UBCO,2014,W,MATH,460,C,001,Special Topics in Mathematics,Walaa Mohamed Moursi;Warren Hare,6,90.166666667,7.2778201860000005,99.0,80.0,,,,,,,,,,,
+UBCO,2014,W,MATH,460,C,OVERALL,Special Topics in Mathematics,,6,90.166666667,7.2778201860000005,99.0,80.0,,,,,,,,,,,
 UBCO,2014,W,MATH,461,,001,Continuous Optimization,Warren Hare,9,85.444444444,12.011568497999999,99.0,66.0,,,,,,,,,,,
+UBCO,2014,W,MATH,461,,OVERALL,Continuous Optimization,,9,85.444444444,12.011568497999999,99.0,66.0,,,,,,,,,,,
 UBCO,2014,W,MATH,563,,001,Convex Optimization and Non-smooth Analysis,Warren Hare,10,90.2,8.547904227,97.0,68.0,,,,,,,,,,,6
+UBCO,2014,W,MATH,563,,OVERALL,Convex Optimization and Non-smooth Analysis,,10,90.2,8.547904227,97.0,68.0,,,,,,,,,,,6
 UBCO,2014,W,MATH,604,A,001,Topics in Optimization,Warren Hare,7,91.14285714299999,5.756983337,99.0,84.0,,,,,,,,,,,
+UBCO,2014,W,MATH,604,A,OVERALL,Topics in Optimization,,7,91.14285714299999,5.756983337,99.0,84.0,,,,,,,,,,,
 UBCO,2014,W,MATH,605,G,001,Topics in Applied Mathematics,John Braun,5,86.2,6.648308055,92.0,78.0,,,,,,,,,,,
+UBCO,2014,W,MATH,605,G,OVERALL,Topics in Applied Mathematics,,5,86.2,6.648308055,92.0,78.0,,,,,,,,,,,

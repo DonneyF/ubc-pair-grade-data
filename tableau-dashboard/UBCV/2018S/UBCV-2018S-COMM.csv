@@ -1,42 +1,67 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,S,COMM,203,,921,Managing the Employment Relationship,Brian Bemmels;Mahesh Nandwani,52,79.25,7.372112262999999,91.0,49.0,,,,,,5,7,10,17,8,
+UBCV,2018,S,COMM,203,,921,Managing the Employment Relationship,Brian Bemmels;Mahesh Nandwani,52,79.25,7.372112262999999,91.0,49.0,,,,,1,5,7,10,17,8,
 UBCV,2018,S,COMM,203,,922,Managing the Employment Relationship,Alexander Payandeh;Perdip Atwal;Yi Liu,91,75.527472527,6.483038827000001,88.0,60.0,,,,,5,20,18,18,18,10,
-UBCV,2018,S,COMM,204,,921,Logistics and Operations Management,Jean-Matthieu Jamet;Sha Liao;Vibhuti Dhingra,60,75.033333333,9.870288692,97.0,38.0,,,,,,5,15,11,11,5,
+UBCV,2018,S,COMM,203,,OVERALL,Managing the Employment Relationship,,143,76.881118881,7.027601027999999,91.0,49.0,,,,,6,25,25,28,35,18,
+UBCV,2018,S,COMM,204,,921,Logistics and Operations Management,Jean-Matthieu Jamet;Sha Liao;Vibhuti Dhingra,60,75.033333333,9.870288692,97.0,38.0,,,,,,5,15,11,11,5,3
 UBCV,2018,S,COMM,204,,922,Logistics and Operations Management,Elson Eng Vern Lim;Elson Lim;Gereltuya Mendee;Sha Liao;Weihua Zhang,56,75.642857143,12.335357269000001,98.0,50.0,,,,7,,6,6,7,9,6,8
 UBCV,2018,S,COMM,204,,971,Logistics and Operations Management,Jean-Matthieu Jamet;John Metzger;Rachael Thain;Sanjith Gopalakrishnan;Yichuan Ding,51,77.254901961,9.915327805,98.0,55.0,,,,5,,6,5,11,5,9,6
-UBCV,2018,S,COMM,204,,972,Logistics and Operations Management,John Metzger;Kun Wang;Rachael Thain;Yichuan Ding,50,78.58,9.568421703,94.0,60.0,,,,,6,,6,,9,13,5
-UBCV,2018,S,COMM,205,,921,Introduction to Management Information Systems,Adam Saunders;Jiya Dassan;Muhammad Usman Aleem,70,76.37142857100001,9.560139816,96.0,52.0,,,,,10,7,10,8,17,6,7
+UBCV,2018,S,COMM,204,,972,Logistics and Operations Management,John Metzger;Kun Wang;Rachael Thain;Yichuan Ding,50,78.58,9.568421703,94.0,60.0,,,,,6,3,6,4,9,13,5
+UBCV,2018,S,COMM,204,,OVERALL,Logistics and Operations Management,,217,76.529953917,10.526433943999999,98.0,38.0,,,6,18,15,20,32,33,34,33,22
+UBCV,2018,S,COMM,205,,921,Introduction to Management Information Systems,Adam Saunders;Jiya Dassan;Muhammad Usman Aleem,70,76.4,9.568062818,96.0,52.0,,,,,10,7,10,7,18,6,7
+UBCV,2018,S,COMM,205,,OVERALL,Introduction to Management Information Systems,,70,76.4,9.568062818,96.0,52.0,,,,,10,7,10,7,18,6,7
 UBCV,2018,S,COMM,280,,921,Entrepreneurship,David Miller;Jonas Altman;Shehan Wijeyagoonewardane,27,72.222222222,17.951501615999998,87.0,2.0,,,,,,,,,9,,
+UBCV,2018,S,COMM,280,,OVERALL,Entrepreneurship,,27,72.222222222,17.951501615999998,87.0,2.0,,,,,,,,,9,,
 UBCV,2018,S,COMM,290,,921,Introduction to Quantitative Decision Making,Albina Gibadullina;Bosung Kim;Brian Graham;Rachael Thain;Sharon Shamuyarira;Woonghee Tim Huh,21,81.904761905,14.693211909,98.0,50.0,,,,,,,,,,,9
-UBCV,2018,S,COMM,293,,921,Financial Accounting,Jessica Louie;Michelle Nicole Wong;Michelle Wong;Ronak Davani;Sadhya Sawhney;Scott Sinclair;Zhi Yun Xu,118,77.406779661,9.961667804,96.0,47.0,,,,,9,13,17,21,20,19,12
-UBCV,2018,S,COMM,293,,922,Financial Accounting,Jessica Louie;Michelle Nicole Wong;Michelle Wong;Ronak Davani;Sadhya Sawhney;Zhi Yun Xu,111,72.756756757,10.216044615,95.0,44.0,,,7,6,12,11,20,20,19,8,
-UBCV,2018,S,COMM,294,,921,Managerial Accounting,Aklilu Mulat;Peter Norwood,8,66.75,5.496752288,78.0,59.0,,,,,5,,,,,,
+UBCV,2018,S,COMM,290,,OVERALL,Introduction to Quantitative Decision Making,,21,81.904761905,14.693211909,98.0,50.0,,,,,,,,,,,9
+UBCV,2018,S,COMM,293,,921,Financial Accounting,Jessica Louie;Michelle Nicole Wong;Michelle Wong;Ronak Davani;Sadhya Sawhney;Scott Sinclair;Zhi Yun Xu,118,77.406779661,9.961667804,96.0,47.0,,,0,3,9,13,17,21,20,19,12
+UBCV,2018,S,COMM,293,,922,Financial Accounting,Jessica Louie;Michelle Nicole Wong;Michelle Wong;Ronak Davani;Sadhya Sawhney;Zhi Yun Xu,111,72.756756757,10.216044615,95.0,44.0,,,7,6,12,11,20,20,19,8,2
+UBCV,2018,S,COMM,293,,OVERALL,Financial Accounting,,229,75.152838428,10.329579961,96.0,44.0,8,2.0,7,9,21,24,37,41,39,27,14
+UBCV,2018,S,COMM,294,,921,Managerial Accounting,Aklilu Mulat;Peter Norwood,8,66.75,5.496752288,78.0,59.0,,,,0,5,1,0,,0,,
 UBCV,2018,S,COMM,294,,971,Managerial Accounting,Ken Lin;William Dorfmann,53,71.471698113,12.055327219,95.0,44.0,,,,5,7,6,5,,9,,
-UBCV,2018,S,COMM,295,,921,Managerial Economics,Ratna Shrestha,114,70.701754386,11.074110623,91.0,52.0,,6,18,9,8,23,15,6,10,13,6
+UBCV,2018,S,COMM,294,,OVERALL,Managerial Accounting,,61,70.852459016,11.491788468,95.0,44.0,,,5,5,12,7,5,5,9,,
+UBCV,2018,S,COMM,295,,921,Managerial Economics,Ratna Shrestha,114,70.701754386,11.074110623,91.0,52.0,0.0,6,18,9,8,23,15,6,10,13,6
+UBCV,2018,S,COMM,295,,OVERALL,Managerial Economics,,114,70.701754386,11.074110623,91.0,52.0,0.0,6,18,9,8,23,15,6,10,13,6
 UBCV,2018,S,COMM,329,,921,Principles of Organizational Behaviour,Cobie Damsel;Wayne Rawcliffe,35,78.742857143,3.744351488,87.0,72.0,,,,,,,8,10,15,,
+UBCV,2018,S,COMM,329,,OVERALL,Principles of Organizational Behaviour,,35,78.742857143,3.744351488,87.0,72.0,,,,,,,8,10,15,,
 UBCV,2018,S,COMM,335,,921,Information Systems Technology and Development,Arash Saghafi;Ludzi Bokete,102,80.156862745,4.517830676,92.0,65.0,,,,,,,15,18,44,20,
+UBCV,2018,S,COMM,335,,OVERALL,Information Systems Technology and Development,,102,80.156862745,4.517830676,92.0,65.0,,,,,,,15,18,44,20,
 UBCV,2018,S,COMM,382,,921,Economics of Entrepreneurship and Innovation,Navid Siami;Steven Minns,24,78.041666667,7.20796158,87.0,62.0,,,,,,,,5,5,7,
-UBCV,2018,S,COMM,390,,921,Business Writing,Cameron Morrell,17,79.11764705899999,5.498662939,85.0,69.0,,,,,,,,,,,
+UBCV,2018,S,COMM,382,,OVERALL,Economics of Entrepreneurship and Innovation,,24,78.041666667,7.20796158,87.0,62.0,,,,,,,,5,5,7,
+UBCV,2018,S,COMM,390,,921,Business Writing,Cameron Morrell,17,79.11764705899999,5.498662939,85.0,69.0,,,,,,,,,,4,
 UBCV,2018,S,COMM,390,,922,Business Writing,Chad Brealey;Timothy Cuffe,20,84.05,4.706937769,91.0,74.0,,,,,,,,,7,7,
 UBCV,2018,S,COMM,390,,971,Business Writing,Cameron Morrell,19,74.15789473699999,12.116394577000001,89.0,45.0,,,,,,,6,,,6,
-UBCV,2018,S,COMM,393,,921,Commercial Law,Barbara Cox,56,68.392857143,11.799350631,93.0,38.0,,5,7,6,,8,11,7,,,
+UBCV,2018,S,COMM,390,,OVERALL,Business Writing,,56,79.196428571,9.046183812,91.0,45.0,,,,,,,10,7,12,17,
+UBCV,2018,S,COMM,393,,921,Commercial Law,Barbara Cox,56,68.392857143,11.799350631,93.0,38.0,,5,7,6,,8,11,7,2,,
 UBCV,2018,S,COMM,393,,922,Commercial Law,Barbara Cox,55,70.56363636399999,10.864082236,87.0,40.0,,,5,6,,6,8,11,9,,
-UBCV,2018,S,COMM,393,,971,Commercial Law,Ellen Jane Mcintosh,57,80.263157895,5.416661847,91.0,67.0,,,,,,,9,9,24,8,
-UBCV,2018,S,COMM,393,,972,Commercial Law,Ellen Jane Mcintosh,60,78.95,7.052887376,91.0,60.0,,,,,,,9,10,22,8,
-UBCV,2018,S,COMM,394,,921,Government and Business,Steven Minns;Xiao Yue Wang,45,80.355555556,6.260102946,93.0,65.0,,,,,,,5,8,14,12,
+UBCV,2018,S,COMM,393,,971,Commercial Law,Ellen Jane Mcintosh;Ellen Mcintosh,57,80.263157895,5.416661847,91.0,67.0,,,,,,,9,9,24,8,
+UBCV,2018,S,COMM,393,,972,Commercial Law,Ellen Jane Mcintosh;Ellen Mcintosh,60,78.95,7.052887376,91.0,60.0,,,,,,,9,10,22,8,
+UBCV,2018,S,COMM,393,,OVERALL,Commercial Law,,228,74.662280702,10.415380785,93.0,38.0,5,6,12,15,9,18,37,37,57,21,11
+UBCV,2018,S,COMM,394,,921,Government and Business,Steven Minns;Xiao Yue Wang,45,80.355555556,6.260102946,93.0,65.0,,,,,,3,5,8,14,12,
 UBCV,2018,S,COMM,394,,922,Government and Business,Steven Minns;Xiao Yue Wang,46,77.304347826,6.362632457,90.0,60.0,,,,,,6,9,9,14,5,
+UBCV,2018,S,COMM,394,,OVERALL,Government and Business,,91,78.813186813,6.461702712999999,93.0,60.0,,,,,,9,14,17,28,17,
 UBCV,2018,S,COMM,395,,921,Business Communications,Alexandra Skarsgard;Cameron Morrell,38,76.5,7.210165496,87.0,40.0,,,,,,,7,19,8,,
 UBCV,2018,S,COMM,395,,971,Business Communications,Cameron Morrell;Katherine Skarsgard,39,76.41025641,6.495820311,85.0,50.0,,,,,,,6,17,10,,
+UBCV,2018,S,COMM,395,,OVERALL,Business Communications,,77,76.454545455,6.812421809,87.0,40.0,,,,,,,13,36,18,,
 UBCV,2018,S,COMM,398,,921,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,49,80.367346939,8.847537034,93.0,57.0,,,,,,,6,7,12,8,10
+UBCV,2018,S,COMM,398,,OVERALL,Introduction to Business Processes and Operations,,49,80.367346939,8.847537034,93.0,57.0,,,,,,,6,7,12,8,10
 UBCV,2018,S,COMM,450,,921,Financial Accounting - Intermediate II,Bryan K Parker;Bryan Parker,9,74.333333333,23.558437979,100.0,30.0,,,,,,,,,,,
+UBCV,2018,S,COMM,450,,OVERALL,Financial Accounting - Intermediate II,,13,73.615384615,20.552933535999998,100.0,30.0,,,,,,,,,,,5
 UBCV,2018,S,COMM,453,,971,Financial Accounting-Advanced,Chuck Campbell;Erin Rao,5,52.8,27.471803726999998,85.0,21.0,,,,,,,,,,,
+UBCV,2018,S,COMM,453,,OVERALL,Financial Accounting-Advanced,,8,65.25,27.180612839000002,93.0,21.0,,,,,,,,,,,
 UBCV,2018,S,COMM,455,,921,Principles of Auditing,Mary Chong,8,67.875,15.56036632,91.0,42.0,,,,,,,,,,,
 UBCV,2018,S,COMM,455,,971,Principles of Auditing,Alina Margaret Mcguinness;Alina Mcguinness,7,81.0,8.346656017,90.0,66.0,,,,,,,,,,,
+UBCV,2018,S,COMM,455,,OVERALL,Principles of Auditing,,15,74.0,14.03057885,91.0,42.0,,,,,,,,,,,
 UBCV,2018,S,COMM,457,,921,Fundamentals of Financial Accounting,Nandhini Leela Krishnan;Scott Sinclair,46,69.0,13.567936059,88.0,27.0,6,,,6,,10,6,,7,,
+UBCV,2018,S,COMM,457,,OVERALL,Fundamentals of Financial Accounting,,46,69.0,13.567936059,88.0,27.0,6,,,6,,10,6,,7,,
 UBCV,2018,S,COMM,465,,971,Marketing Management,Elise Chu Jun Yu;Elise Yu;Rui Jorge Basto Da Silva,50,78.16,8.289063363,92.0,59.0,,,,,,7,5,9,9,11,
+UBCV,2018,S,COMM,465,,OVERALL,Marketing Management,,50,78.16,8.289063363,92.0,59.0,,,,,,7,5,9,9,11,
 UBCV,2018,S,COMM,473,,921,Business Finance,Caren Lombard,44,75.75,15.164409066,94.0,24.0,,,,,,6,5,,10,,9
-UBCV,2018,S,COMM,491,,921,Strategic Management,Matthew Evan Gwin;Matthew Gwin;Momcilo Deretic,33,78.0,3.491060011,90.0,72.0,,,,,,,,15,12,,
+UBCV,2018,S,COMM,473,,OVERALL,Business Finance,,44,75.75,15.164409066,94.0,24.0,,,,,,6,5,,10,,9
+UBCV,2018,S,COMM,491,,921,Strategic Management,Matthew Evan Gwin;Matthew Gwin;Momcilo Deretic,33,78.0,3.491060011,90.0,72.0,,,,,,,4,15,12,,
 UBCV,2018,S,COMM,491,,922,Strategic Management,Matthew Evan Gwin;Matthew Gwin;Momcilo Deretic,38,78.473684211,3.134264361,85.0,72.0,,,,,,,5,14,16,,
 UBCV,2018,S,COMM,491,,971,Strategic Management,Adam Pankratz;Larry Wosk,40,77.45,2.6885321510000004,83.0,72.0,,,,,,,8,21,11,,
+UBCV,2018,S,COMM,491,,OVERALL,Strategic Management,,111,77.963963964,3.098175205,90.0,72.0,,,,,,,17,50,39,,
 UBCV,2018,S,COMM,493,,971,Strategic Management in Business,Adam Pankratz,32,76.9375,3.9752256989999997,85.0,64.0,,,,,,,6,17,5,,
+UBCV,2018,S,COMM,493,,OVERALL,Strategic Management in Business,,32,76.9375,3.9752256989999997,85.0,64.0,,,,,,,6,17,5,,
 UBCV,2018,S,COMM,498,,921,International Business Management,Ilan Boris Vertinsky,37,78.486486486,6.793058637000001,91.0,56.0,,,,,,,7,9,9,7,
+UBCV,2018,S,COMM,498,,OVERALL,International Business Management,,37,78.486486486,6.793058637000001,91.0,56.0,,,,,,,7,9,9,7,

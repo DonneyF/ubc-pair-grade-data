@@ -1,34 +1,65 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2018,W,GEOG,108,,001,"Earth Systems: Weather, Climate, and Life",Azamalsadat Hosseini Alhashemi;Deidre Nelson Smith;Ethan Clark;Ethan James Clark;Isabelle Therriault;Jennifer Hanna Rice;Jennifer Rice;Mackenzie Repovs;Michael Pidwirny;Nicholas Tochor;Renee Larsen;Richard Topp;Sierra Collins;Theresa Loewen;Wanyi Liu,216,69.935185185,12.569267169000002,94.0,11.0,15,7,20,18,18,27,31,30,30,14,6
-UBCO,2018,W,GEOG,109,,101,Earth Systems: Landscape Dynamics,Azamalsadat Hosseini Alhashemi;Fes Alexander De Scally;Nicholas Tochor;Renee Larsen;Richard Topp;Shane Donald Pedersen;Shane Pedersen;Sierra Collins;Theresa Loewen,160,67.03125,16.084455512,97.0,3.0,31,,15,19,11,17,17,13,11,15,11
+UBCO,2018,W,GEOG,108,,001,"Earth Systems: Weather, Climate, and Life",Azamalsadat Hosseini Alhashemi;Deidre Nelson Smith;Ethan Clark;Ethan James Clark;Isabelle Therriault;Jennifer Hanna Rice;Jennifer Rice;Mackenzie James Repovs;Mackenzie Repovs;Michael Pidwirny;Nicholas Kristoff Tochor;Nicholas Tochor;Renee Larsen;Richard Topp;Richard William Topp;Sierra Collins;Theresa Loewen;Wanyi Liu,216,69.935185185,12.569267169000002,94.0,11.0,15,7,20,18,18,27,31,30,30,14,6
+UBCO,2018,W,GEOG,108,,OVERALL,"Earth Systems: Weather, Climate, and Life",,216,69.935185185,12.569267169000002,94.0,11.0,15,7,20,18,18,27,31,30,30,14,6
+UBCO,2018,W,GEOG,109,,101,Earth Systems: Landscape Dynamics,Azamalsadat Hosseini Alhashemi;Fes Alexander De Scally;Nicholas Kristoff Tochor;Nicholas Tochor;Renee Larsen;Richard Topp;Richard William Topp;Shane Donald Pedersen;Shane Pedersen;Sierra Collins;Theresa Loewen,160,67.33125,15.767461868,97.0,3.0,30,0.0,15,19,11,17,18,13,11,15,11
+UBCO,2018,W,GEOG,109,,OVERALL,Earth Systems: Landscape Dynamics,,160,67.33125,15.767461868,97.0,3.0,30,0.0,15,19,11,17,18,13,11,15,11
 UBCO,2018,W,GEOG,128,,001,"Human Geography: Space, Place, and Community",Darcen Esau;Jose Teixeira,98,78.5,13.093045293,95.0,0.0,,,,,,5,9,16,24,25,11
-UBCO,2018,W,GEOG,128,,101,"Human Geography: Space, Place, and Community",Darcen Esau;Kaylah Vrabic;Lawrence Berg,100,92.48,4.695753508,99.0,75.0,,,,,,,,,6,13,79
-UBCO,2018,W,GEOG,129,,001,"Human Geography: Resources, Development, and Society",Eva-Lena Lang;Jon Corbett,78,79.782051282,12.008273594,97.0,0.0,,,,,,,12,13,21,16,9
+UBCO,2018,W,GEOG,128,,101,"Human Geography: Space, Place, and Community",Darcen Esau;Kaylah Vrabic;Lawrence Berg,100,92.48,4.695753508,99.0,75.0,,,,,,0,1,1,6,13,79
+UBCO,2018,W,GEOG,128,,OVERALL,"Human Geography: Space, Place, and Community",,198,85.560606061,12.024672759000001,99.0,0.0,,,,,,5,10,17,30,38,90
+UBCO,2018,W,GEOG,129,,001,"Human Geography: Resources, Development, and Society",Eva-Lena Lang;Jon Corbett,78,79.782051282,12.008273594,97.0,0.0,,,,0,,3,12,13,21,16,9
 UBCO,2018,W,GEOG,129,,101,"Human Geography: Resources, Development, and Society",Chea Elton;Donna Senese,99,77.757575758,12.779200982,97.0,13.0,,,,6,,10,13,16,14,16,16
+UBCO,2018,W,GEOG,129,,OVERALL,"Human Geography: Resources, Development, and Society",,177,78.649717514,12.451333099000001,97.0,0.0,,,,6,5,13,25,29,35,32,25
 UBCO,2018,W,GEOG,200,,101,Atmospheric Environments,Ian Saunders,9,69.888888889,9.171210995,80.0,55.0,,,,,,,,,,,
-UBCO,2018,W,GEOG,205,,001,Introduction to Hydrology,Alexander Macduff;David Scott;Fes Alexander De Scally;Marianni De Aragao Nogare;Wanyi Liu,14,65.357142857,11.803566233,81.0,49.0,,,,,,,5,,,,
+UBCO,2018,W,GEOG,200,,OVERALL,Atmospheric Environments,,9,69.888888889,9.171210995,80.0,55.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,205,,001,Introduction to Hydrology,Alexander Macduff;Alexander Marcel Macduff;David Scott;Fes Alexander De Scally;Marianni De Aragao Nogare;Wanyi Liu,14,65.357142857,11.803566233,81.0,49.0,,,,,,,5,,,,
+UBCO,2018,W,GEOG,205,,OVERALL,Introduction to Hydrology,,14,65.357142857,11.803566233,81.0,49.0,,,,,,,5,,,,
 UBCO,2018,W,GEOG,221,,001,Food Systems I: System Thinking,Mary Stockdale,36,83.166666667,4.626013402,92.0,73.0,,,,,,,,,11,16,
-UBCO,2018,W,GEOG,222,,001,Geomorphology,Alexander Macduff;Bernard Bauer;Marianni De Aragao Nogare,6,74.166666667,16.191561588,86.0,51.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,221,,OVERALL,Food Systems I: System Thinking,,36,83.166666667,4.626013402,92.0,73.0,,,,,,,,,11,16,
+UBCO,2018,W,GEOG,222,,001,Geomorphology,Alexander Macduff;Alexander Marcel Macduff;Bernard Bauer;Marianni De Aragao Nogare,6,74.166666667,16.191561588,86.0,51.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,222,,OVERALL,Geomorphology,,6,74.166666667,16.191561588,86.0,51.0,,,,,,,,,,,
 UBCO,2018,W,GEOG,271,,001,Geographic Data Analysis,Isabelle Therriault;Michael Pidwirny,36,80.194444444,9.896087089,93.0,61.0,,,,,,,,,7,6,8
+UBCO,2018,W,GEOG,271,,OVERALL,Geographic Data Analysis,,36,80.194444444,9.896087089,93.0,61.0,,,,,,,,,7,6,8
 UBCO,2018,W,GEOG,272,,001,Cartography and Remote Sensing,Ian Saunders,28,66.892857143,10.969112479000001,86.0,45.0,,,,,,5,,,,,
+UBCO,2018,W,GEOG,272,,OVERALL,Cartography and Remote Sensing,,28,66.892857143,10.969112479000001,86.0,45.0,,,,,,5,,,,,
 UBCO,2018,W,GEOG,301,,101,Mechanisms of Global Change,Ian Saunders,17,72.88235294100001,11.510225633,88.0,50.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,301,,OVERALL,Mechanisms of Global Change,,17,72.88235294100001,11.510225633,88.0,50.0,,,,,,,,,,,
 UBCO,2018,W,GEOG,304,,101,Anthropogenic Climate Change,Michael Pidwirny,24,72.5,12.279357015,88.0,46.0,,,,,,,,6,,,
+UBCO,2018,W,GEOG,304,,OVERALL,Anthropogenic Climate Change,,24,72.5,12.279357015,88.0,46.0,,,,,,,,6,,,
 UBCO,2018,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Nicole Peletz-Bohbot,10,70.8,8.778762251,85.0,60.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,314,,OVERALL,"Environmental Impact Assessment: Process, Regulation and Administration",,10,70.8,8.778762251,85.0,60.0,,,,,,,,,,,
 UBCO,2018,W,GEOG,316,,001,Geography of Natural Hazards,Fes Alexander De Scally,43,79.069767442,11.525118218,98.0,53.0,,,,,,,6,,6,6,10
+UBCO,2018,W,GEOG,316,,OVERALL,Geography of Natural Hazards,,43,79.069767442,11.525118218,98.0,53.0,,,,,,,6,,6,6,10
 UBCO,2018,W,GEOG,351,,001,Urban Social Geography,Jose Teixeira,31,84.064516129,5.56138762,94.0,70.0,,,,,,,,5,7,10,8
+UBCO,2018,W,GEOG,351,,OVERALL,Urban Social Geography,,31,84.064516129,5.56138762,94.0,70.0,,,,,,,,5,7,10,8
 UBCO,2018,W,GEOG,356,,001,Stratigraphy and Sedimentology,Bernard Bauer;Craig Nichol;Edward Hornibrook;Ian Saunders;John Greenough;Leif Burge;Lutfi Ersay;Michelle Lamberson;Riccardo Graziani;Robert Young,5,73.4,10.212737145,89.0,64.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,356,,OVERALL,Stratigraphy and Sedimentology,,5,73.4,10.212737145,89.0,64.0,,,,,,,,,,,
 UBCO,2018,W,GEOG,359,,101,"Culture, Space, and Politics",Kaylah Vrabic;Lawrence Berg,29,85.689655172,5.099744029,92.0,68.0,,,,,,,,,9,12,6
+UBCO,2018,W,GEOG,359,,OVERALL,"Culture, Space, and Politics",,29,85.689655172,5.099744029,92.0,68.0,,,,,,,,,9,12,6
 UBCO,2018,W,GEOG,367,,001,Energy Resources Management,Kevin Hanna;Nicole Peletz-Bohbot,14,73.214285714,12.367317795,92.0,42.0,,,,,,,,,,,
-UBCO,2018,W,GEOG,380,,001,Fundamentals of Geographic Information Science I,Ethan Clark;Iva Lihter;Mathieu Bourbonnais,25,71.6,15.588457267999999,88.0,27.0,,,,,,,,6,5,,
-UBCO,2018,W,GEOG,381,,101,Fundamentals of Geographic Information Science II,Ethan Clark;Iva Lihter;Mathieu Bourbonnais,9,72.222222222,14.498084165,87.0,44.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,367,,OVERALL,Energy Resources Management,,14,73.214285714,12.367317795,92.0,42.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,380,,001,Fundamentals of Geographic Information Science I,Ethan Clark;Ethan James Clark;Iva Lihter;Mathieu Bourbonnais,24,71.333333333,15.865375663,88.0,27.0,,,,,,,,5,5,,
+UBCO,2018,W,GEOG,380,,OVERALL,Fundamentals of Geographic Information Science I,,24,71.333333333,15.865375663,88.0,27.0,,,,,,,,5,5,,
+UBCO,2018,W,GEOG,381,,101,Fundamentals of Geographic Information Science II,Ethan Clark;Ethan James Clark;Iva Lihter;Mathieu Bourbonnais,8,72.75,15.406399412,87.0,44.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,381,,OVERALL,Fundamentals of Geographic Information Science II,,8,72.75,15.406399412,87.0,44.0,,,,,,,,,,,
 UBCO,2018,W,GEOG,414,,101,Applied Climatology,Ian Saunders,6,71.666666667,16.020819788,85.0,41.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,414,,OVERALL,Applied Climatology,,6,71.666666667,16.020819788,85.0,41.0,,,,,,,,,,,
 UBCO,2018,W,GEOG,421,,101,Geography of Food Systems,Mary Stockdale,27,81.666666667,10.03455568,92.0,54.0,,,,,,,,,7,9,5
+UBCO,2018,W,GEOG,421,,OVERALL,Geography of Food Systems,,27,81.666666667,10.03455568,92.0,54.0,,,,,,,,,7,9,5
 UBCO,2018,W,GEOG,427,,101,NeoGeography,Jon Corbett,12,81.5,5.502065728,89.0,71.0,,,,,,,,,5,,
+UBCO,2018,W,GEOG,427,,OVERALL,NeoGeography,,12,81.5,5.502065728,89.0,71.0,,,,,,,,,5,,
 UBCO,2018,W,GEOG,431,,001,Resource Management Policy and Practice,Kevin Hanna,11,82.818181818,4.874796033,95.0,75.0,,,,,,,,,8,,
+UBCO,2018,W,GEOG,431,,OVERALL,Resource Management Policy and Practice,,11,82.818181818,4.874796033,95.0,75.0,,,,,,,,,8,,
 UBCO,2018,W,GEOG,435,,001,Wine Geographies,Donna Senese,11,82.545454545,7.0903263160000005,95.0,70.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,435,,OVERALL,Wine Geographies,,11,82.545454545,7.0903263160000005,95.0,70.0,,,,,,,,,,,
 UBCO,2018,W,GEOG,451,,101,Urban Planning,Ed Grifone,25,78.96,5.755287424,88.0,68.0,,,,,,5,,9,5,5,
+UBCO,2018,W,GEOG,451,,OVERALL,Urban Planning,,25,78.96,5.755287424,88.0,68.0,,,,,,5,,9,5,5,
 UBCO,2018,W,GEOG,458,,101,Population Geography,Jose Teixeira,25,84.0,7.9477460120000005,93.0,56.0,,,,,,,,,7,6,8
+UBCO,2018,W,GEOG,458,,OVERALL,Population Geography,,25,84.0,7.9477460120000005,93.0,56.0,,,,,,,,,7,6,8
 UBCO,2018,W,GEOG,466,,001,Soil Science,Azamalsadat Hosseini Alhashemi;David Scott,6,49.5,12.045746137,64.0,35.0,,,,,,,,,,,
-UBCO,2018,W,GEOG,474,,001,Qualitative Research in Human Geography,Kaylah Vrabic;Lawrence Berg,15,88.0,5.593363414,93.0,76.0,,,,,,,,,,,8
+UBCO,2018,W,GEOG,466,,OVERALL,Soil Science,,6,49.5,12.045746137,64.0,35.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,474,,001,Qualitative Research in Human Geography,Kaylah Vrabic;Lawrence Berg,16,87.25,6.180614856,93.0,76.0,,,,,,,,,,,8
+UBCO,2018,W,GEOG,474,,OVERALL,Qualitative Research in Human Geography,,16,87.25,6.180614856,93.0,76.0,,,,,,,,,,,8
 UBCO,2018,W,GEOG,480,,101,Advanced Seminar in Critical Geography,Catherine Kyle;Lawrence Berg,8,82.5,8.124038405,91.0,65.0,,,,,,,,,,,
+UBCO,2018,W,GEOG,480,,OVERALL,Advanced Seminar in Critical Geography,,8,82.5,8.124038405,91.0,65.0,,,,,,,,,,,
 UBCO,2018,W,GEOG,491,D,001,Selected Topics in Geography,Anna Sears;Mary Stockdale,10,84.7,9.775820511000001,94.0,68.0,,,,,,,,,,,5
+UBCO,2018,W,GEOG,491,D,OVERALL,Selected Topics in Geography,,10,84.7,9.775820511000001,94.0,68.0,,,,,,,,,,,5

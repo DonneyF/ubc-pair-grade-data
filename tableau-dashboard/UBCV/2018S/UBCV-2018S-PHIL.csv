@@ -1,19 +1,33 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,S,PHIL,101,,001,Introduction to Philosophy,Bruno Guindon;Matthew Cleveland Smithdeal;Matthew Smithdeal;Serban Dragulin,33,72.515151515,13.937631641,93.0,30.0,,,,,,5,,,9,,
+UBCV,2018,S,PHIL,101,,OVERALL,Introduction to Philosophy,,33,72.515151515,13.937631641,93.0,30.0,,,,,,5,,,9,,
 UBCV,2018,S,PHIL,102,,001,Introduction to Philosophy II,Aleksey Balotskiy;Garson Leder,36,77.083333333,8.405355436,90.0,56.0,,,,,,,6,,7,9,
+UBCV,2018,S,PHIL,102,,OVERALL,Introduction to Philosophy II,,36,77.083333333,8.405355436,90.0,56.0,,,,,,,6,,7,9,
+UBCV,2018,S,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Jade Hadley,66,80.303030303,11.032775920999999,95.0,44.0,,,,,,,3,9,13,15,14
 UBCV,2018,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev;Jade Hadley,47,73.063829787,19.742256881,93.0,0.0,,,,,,,9,6,6,6,7
-UBCV,2018,S,PHIL,120,,001,Introduction to Critical Thinking,Alexandre Korolev;Jade Hadley,66,80.303030303,11.032775920999999,95.0,44.0,,,,,,,,9,13,15,14
-UBCV,2018,S,PHIL,220,,98A,Symbolic Logic,Emma Esmaili;Leslie Burkholder;Richard Sandlin,164,86.62804878,13.166305520999998,99.0,1.0,,,,,,,,6,11,32,95
-UBCV,2018,S,PHIL,220,,001,Symbolic Logic,Matthew Smithdeal;Servaas Van Der Berg,52,76.51923076899999,15.397339195,100.0,33.0,,,,,5,7,5,,9,8,9
-UBCV,2018,S,PHIL,220,,002,Symbolic Logic,Emma Esmaili;Leslie Burkholder;Richard Sandlin,85,81.329411765,18.548769845,99.0,14.0,5,,,,5,,,6,10,15,35
+UBCV,2018,S,PHIL,120,,OVERALL,Introduction to Critical Thinking,,113,77.292035398,15.606592824000002,95.0,0.0,5,,,5,,6,12,15,19,21,21
+UBCV,2018,S,PHIL,220,,001,Symbolic Logic,Matthew Smithdeal;Servaas Van Der Berg,52,76.51923076899999,15.397339195,100.0,33.0,,,,,5,7,5,3,9,8,9
+UBCV,2018,S,PHIL,220,,002,Symbolic Logic,Emma Esmaili;Leslie Burkholder;Richard Andrew Sandlin;Richard Sandlin,85,81.329411765,18.548769845,99.0,14.0,5,,,,5,,,6,10,15,35
+UBCV,2018,S,PHIL,220,,98A,Symbolic Logic,Emma Esmaili;Leslie Burkholder;Richard Andrew Sandlin;Richard Sandlin,164,86.62804878,13.166305520999998,99.0,1.0,,,,,4,,,6,11,32,95
+UBCV,2018,S,PHIL,220,,OVERALL,Symbolic Logic,,301,83.38538206,15.682611993,100.0,1.0,12,6,,,14,11,12,15,30,55,139
 UBCV,2018,S,PHIL,230,,901,Introduction to Ethics,Doran Smolkin;Jordan Wadden,48,64.625,19.482261435,90.0,0.0,5,,,7,7,10,7,5,,,
+UBCV,2018,S,PHIL,230,,OVERALL,Introduction to Ethics,,48,64.625,19.482261435,90.0,0.0,5,,,7,7,10,7,5,,,
 UBCV,2018,S,PHIL,240,,001,Introduction to Epistemology,Anders Kraal;Matthew Kinakin;Richard Andrew Sandlin;Richard Sandlin,60,69.216666667,19.382931218,98.0,8.0,5,7,,,7,5,5,7,8,6,6
+UBCV,2018,S,PHIL,240,,OVERALL,Introduction to Epistemology,,60,69.216666667,19.382931218,98.0,8.0,5,7,,,7,5,5,7,8,6,6
 UBCV,2018,S,PHIL,250,,001,Minds and Machines,Kousaku Yui,24,75.708333333,8.238188734,89.0,54.0,,,,,,,,,7,,
+UBCV,2018,S,PHIL,250,,OVERALL,Minds and Machines,,24,75.708333333,8.238188734,89.0,54.0,,,,,,,,,7,,
 UBCV,2018,S,PHIL,331,,98A,Business and Professional Ethics,Rana Ahmad;Richard Andrew Sandlin;Richard Sandlin,55,69.6,19.508402747999998,91.0,0.0,5,,,,,9,8,12,11,,
-UBCV,2018,S,PHIL,333,,98A,Bio-Medical Ethics,Doran Smolkin;Kinley Gillette,56,65.75,16.576270005,88.0,1.0,,,5,7,9,9,6,8,,,
-UBCV,2018,S,PHIL,333,,001,Bio-Medical Ethics,Doran Smolkin;Kinley Gillette,64,71.953125,8.678434662,89.0,44.0,,,,7,,6,22,10,7,,
+UBCV,2018,S,PHIL,331,,OVERALL,Business and Professional Ethics,,55,69.6,19.508402747999998,91.0,0.0,5,,,,,9,8,12,11,,
+UBCV,2018,S,PHIL,333,,001,Bio-Medical Ethics,Doran Smolkin;Kinley Gillette,64,71.953125,8.678434662,89.0,44.0,,,1,7,4,6,22,10,7,,
+UBCV,2018,S,PHIL,333,,98A,Bio-Medical Ethics,Doran Smolkin;Kinley Gillette,56,66.517857143,15.821723927999999,88.0,1.0,,,5,7,9,9,7,8,4,,
+UBCV,2018,S,PHIL,333,,OVERALL,Bio-Medical Ethics,,120,69.416666667,12.766541969,89.0,1.0,,,6,14,13,15,29,18,11,7,
 UBCV,2018,S,PHIL,335,,001,Power and Oppression,Sylvia Berryman,17,79.352941176,4.729444688,88.0,72.0,,,,,,,,,6,,
+UBCV,2018,S,PHIL,335,,OVERALL,Power and Oppression,,17,79.352941176,4.729444688,88.0,72.0,,,,,,,,,6,,
 UBCV,2018,S,PHIL,347,,001,Philosophy of Religion,Anders Kraal;Matthew Kinakin,74,74.91891891899999,13.261084024,99.0,33.0,,8,,,,7,7,10,15,9,8
+UBCV,2018,S,PHIL,347,,OVERALL,Philosophy of Religion,,74,74.91891891899999,13.261084024,99.0,33.0,,8,,,,7,7,10,15,9,8
 UBCV,2018,S,PHIL,375,,001,Philosophy and Literature,Bianca Crewe;Stefan Lukits,70,74.442857143,10.564687851,88.0,48.0,,,,,5,6,8,9,15,16,
+UBCV,2018,S,PHIL,375,,OVERALL,Philosophy and Literature,,70,74.442857143,10.564687851,88.0,48.0,,,,,5,6,8,9,15,16,
 UBCV,2018,S,PHIL,385,,001,Existentialism,Matthew Cleveland Smithdeal;Matthew Smithdeal;Steven Taubeneck,89,78.078651685,10.95053415,95.0,0.0,,,,,,5,18,24,16,21,
+UBCV,2018,S,PHIL,385,,OVERALL,Existentialism,,89,78.078651685,10.95053415,95.0,0.0,,,,,,5,18,24,16,21,
 UBCV,2018,S,PHIL,530,A,001,Moral Philosophy,Matthew Bedke,9,82.444444444,4.876246279,92.0,76.0,,,,,,,,,,,
+UBCV,2018,S,PHIL,530,A,OVERALL,Moral Philosophy,,9,82.444444444,4.876246279,92.0,76.0,,,,,,,,,,,

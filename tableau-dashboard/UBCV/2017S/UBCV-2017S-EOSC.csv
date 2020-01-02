@@ -1,10 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,S,EOSC,114,,98A,The Catastrophic Earth: Natural Disasters,Anna Angelika Hippmann;Anna Hippmann;Leah May Ver;Nari Sim,194,70.969072165,20.880589994,97.0,0.0,22,,6,10,12,14,15,30,28,31,22
-UBCV,2017,S,EOSC,114,,971,The Catastrophic Earth: Natural Disasters,Manuel Colombo;Sarah Sherman;Saurav Sahu;Yuliya Kuzmenko,195,77.174358974,11.120722691,95.0,30.0,,5,7,10,11,16,32,17,34,32,30
+UBCV,2017,S,EOSC,114,,971,The Catastrophic Earth: Natural Disasters,Manuel Colombo;Sarah Sherman;Saurav Sahu;Yuliya Kuzmenko,195,77.174358974,11.120722691,95.0,30.0,1.0,5,7,10,11,16,32,17,34,32,30
+UBCV,2017,S,EOSC,114,,98A,The Catastrophic Earth: Natural Disasters,Anna Angelika Hippmann;Anna Hippmann;Leah May Ver;Nari Sim,194,70.969072165,20.880589994,97.0,0.0,22,4.0,6,10,12,14,15,30,28,31,22
+UBCV,2017,S,EOSC,114,,OVERALL,The Catastrophic Earth: Natural Disasters,,391,74.130434783,16.970740115,97.0,0.0,23,9,13,20,23,30,48,47,62,63,53
 UBCV,2017,S,EOSC,116,,98A,Mesozoic Earth: Time of the Dinosaurs.,Anna Grau Galofre;Evelyn Da Motta Freres;Louise Longridge,72,71.791666667,20.718051937000002,98.0,0.0,9,,,,5,8,11,5,8,10,11
-UBCV,2017,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,David Turner;Emily Don Scribner;Emily Scribner;Erica Tso;Megan Russell,123,68.577235772,20.676670995,100.0,0.0,20,7,8,5,10,12,13,5,12,17,14
+UBCV,2017,S,EOSC,116,,OVERALL,Mesozoic Earth: Time of the Dinosaurs.,,72,71.791666667,20.718051937000002,98.0,0.0,9,,,,5,8,11,5,8,10,11
+UBCV,2017,S,EOSC,118,,98A,Earth's Treasures: Gold and Gems,David Turner;Emily Don Scribner;Emily Scribner;Erica Tso;Megan B. Russell;Megan Russell,123,68.577235772,20.676670995,100.0,0.0,20,7,8,5,10,12,13,5,12,17,14
+UBCV,2017,S,EOSC,118,,OVERALL,Earth's Treasures: Gold and Gems,,126,68.055555556,20.727684118,100.0,0.0,21,9,8,5,10,12,13,5,12,17,14
 UBCV,2017,S,EOSC,310,,98A,The Earth and the Solar System,Anna Mittelholz;Kirsten Hodge;Louise Longridge;Michael Mitchell,118,67.838983051,22.167185396,93.0,0.0,17,,,6,7,16,12,15,21,14,6
+UBCV,2017,S,EOSC,310,,OVERALL,The Earth and the Solar System,,120,67.908333333,21.987007559000002,93.0,0.0,17,,,6,7,17,13,15,21,14,6
 UBCV,2017,S,EOSC,315,,98A,The Ocean Ecosystem,Jacquie-Lee Thibault;Michael Lipsen;Natalie Dalton Mahara;Natalie Mahara,95,75.210526316,12.097032110999999,96.0,38.0,,,,,10,10,17,8,16,8,15
+UBCV,2017,S,EOSC,315,,OVERALL,The Ocean Ecosystem,,96,75.15625,12.044940519,96.0,38.0,,,,,10,11,17,8,16,8,15
 UBCV,2017,S,EOSC,326,,98A,Earth and Life Through Time,Lian Kwong;Louise Longridge,64,76.9375,12.524103745,98.0,40.0,,,,,,9,,10,11,7,12
+UBCV,2017,S,EOSC,326,,OVERALL,Earth and Life Through Time,,65,77.061538462,12.46605005,98.0,40.0,,,,,,9,,10,11,8,12
 UBCV,2017,S,EOSC,546,,941,Advanced Field Methods in Earth Science,Craig Hart,7,84.0,4.546060566,90.0,79.0,,,,,,,,,,,
+UBCV,2017,S,EOSC,546,,OVERALL,Advanced Field Methods in Earth Science,,7,84.0,4.546060566,90.0,79.0,,,,,,,,,,,
+UBCV,2017,S,EOSC,595,B,OVERALL,Directed Studies,,6,84.0,5.215361924,88.0,74.0,,,,,,,,,,,
 UBCV,2017,S,EOSC,598,,941,M.Eng. Graduating Paper,,7,80.857142857,5.92814112,85.0,70.0,,,,,,,,,,,
+UBCV,2017,S,EOSC,598,,OVERALL,M.Eng. Graduating Paper,,7,80.857142857,5.92814112,85.0,70.0,,,,,,,,,,,

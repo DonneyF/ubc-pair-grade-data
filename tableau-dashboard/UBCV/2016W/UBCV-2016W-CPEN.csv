@@ -1,26 +1,47 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,CPEN,211,,101,Introduction to Microcomputers,Ahmed Eltantawy;Amin Ghasemazar;Amrit Kooner;Amrit Singh Kooner;Andrew Simpson;Ayub Gubran;Jagjot Jhajj;Jagjot Singh Jhajj;Jennifer Ongko;Jianzhe Lin;Jui Feng Chung;Kahlan Gibson;Lazar Atanackovic;Peter Deutsch;Peter William Deutsch;Ramy Essam Attia Hussein;Ramy Hussein;Scott Peverelle;Shadi Assadikhomami;Spencer Spenst;Te Zhao;Tor Aamodt;Zihao Xie;Ziyu Wang,321,72.510903427,11.720203155,97.0,28.0,11,10,23,27,31,43,44,32,49,33,18
-UBCV,2016,W,CPEN,221,,101,Principles of Software Construction,Bader Alahmad;Bader Naim Alahmad;Bo Fang;Cinnie Hsiung;Hootan Rashtian;Jennifer Ashley Lam;Jennifer Lam;Junwei Clarence Su;Nabil Al-Rousan;Nabil Mashhour Al-Rousan;Radu Ripeanu;Sathish Gopalakrishnan;Scott Sallinen;Si Yan Zhu;Siyuan He;Tal Schwartz;Yuqing Du,185,73.972972973,10.047405263,98.0,40.0,,5,11,9,22,36,24,22,36,12,6
-UBCV,2016,W,CPEN,281,,101,Technical Communication,Annette Berndt,37,75.297297297,5.152479796000001,85.0,65.0,,,,,,6,12,7,9,,
-UBCV,2016,W,CPEN,281,,102,Technical Communication,Annette Berndt,36,74.222222222,9.615793886,88.0,47.0,,,,,,,13,,,7,
+UBCV,2016,W,CPEN,211,,OVERALL,Introduction to Microcomputers,,321,72.510903427,11.720203155,97.0,28.0,11,10,23,27,31,43,44,32,49,33,18
+UBCV,2016,W,CPEN,221,,101,Principles of Software Construction,Bader Alahmad;Bader Naim Alahmad;Bo Fang;Cinnie Hsiung;Hootan Rashtian;Jennifer Ashley Lam;Jennifer Lam;Junwei Clarence Su;Nabil Al-Rousan;Nabil Mashhour Al-Rousan;Radu Ripeanu;Sathish Gopalakrishnan;Scott Sallinen;Si Yan Zhu;Siyuan He;Tal Schwartz;Yuqing Du,185,73.972972973,10.047405263,98.0,40.0,2.0,5,11,9,22,36,24,22,36,12,6
+UBCV,2016,W,CPEN,221,,OVERALL,Principles of Software Construction,,185,73.972972973,10.047405263,98.0,40.0,2.0,5,11,9,22,36,24,22,36,12,6
+UBCV,2016,W,CPEN,281,,101,Technical Communication,Annette Berndt,37,75.297297297,5.152479796000001,85.0,65.0,,,,,,6,12,7,9,2,
+UBCV,2016,W,CPEN,281,,102,Technical Communication,Annette Berndt,36,74.222222222,9.615793886,88.0,47.0,,,,,,4,13,,4,7,
 UBCV,2016,W,CPEN,281,,103,Technical Communication,Deborah Altow,35,78.37142857100001,9.097788077,93.0,47.0,,,,,,5,5,,6,11,
+UBCV,2016,W,CPEN,281,,OVERALL,Technical Communication,,108,75.935185185,8.279321328,93.0,47.0,,,,,,15,30,15,19,20,
 UBCV,2016,W,CPEN,291,,201,Computer Engineering Design Studio I,Al-Shahna Jamal;Al-Shahna Salim Jamal;Dawood Al Masslawi;Farshid Agharebparast;Shahab Bahrami;Tanuj Aasawat;Tanuj Kr Aasawat,105,84.752380952,5.11179058,98.0,56.0,,,,,,,,9,37,39,18
-UBCV,2016,W,CPEN,311,,101,Digital Systems Design,Al-Shahna Jamal;Al-Shahna Salim Jamal;Andy Ruan;Fatemeh Eslami;Jose Pablo Pinilla Gomez;Jose Pinilla Gomez;Lotus Fenn;Lotus Herrick Fenn;Motahareh Mashayekhi;Pavan Kumar Bussa;Reuben Levi Paul;Reuben Paul;Steven Wilton,154,74.097402597,10.462362972000001,95.0,36.0,,,8,14,11,19,24,21,28,14,10
-UBCV,2016,W,CPEN,311,,201,Digital Systems Design,Amin Ghasemazar;Holguer Becerra Daza;Jose Pablo Pinilla Gomez;Jose Pinilla Gomez;Pavan Kumar Bussa;Yair Linn,63,78.714285714,12.814342482999999,100.0,42.0,,,,5,,6,7,11,10,5,14
+UBCV,2016,W,CPEN,291,,OVERALL,Computer Engineering Design Studio I,,105,84.752380952,5.11179058,98.0,56.0,,,,,,,,9,37,39,18
+UBCV,2016,W,CPEN,311,,101,Digital Systems Design,Al-Shahna Jamal;Andy Ruan;Fatemeh Eslami;Jose Pinilla Gomez;Lotus Fenn;Motahareh Mashayekhi;Pavan Kumar Bussa;Reuben Paul;Steven Wilton,154,74.097402597,10.462362972000001,95.0,36.0,,,8,14,11,19,24,21,28,14,10
+UBCV,2016,W,CPEN,311,,201,Digital Systems Design,Amin Ghasemazar;Holguer Becerra Daza;Jose Pinilla Gomez;Pavan Kumar Bussa;Yair Linn,63,78.714285714,12.814342482999999,100.0,42.0,,,2,5,1,6,7,11,10,5,14
+UBCV,2016,W,CPEN,311,,OVERALL,Digital Systems Design,,217,75.437788018,11.361364464000001,100.0,36.0,,,10,19,12,25,31,32,38,19,24
 UBCV,2016,W,CPEN,312,,201,Digital Systems and Microcomputers,Amin Abed;Jesus Calvino-Fraga;Mohammad Arafat Hussain;Seyed Mehran Pesteie;Shahed Khan Khan Mohammed;Shahed Khan Mohammed,167,74.886227545,15.694530995,100.0,11.0,17,,,9,10,20,23,15,17,20,33
+UBCV,2016,W,CPEN,312,,OVERALL,Digital Systems and Microcomputers,,167,74.886227545,15.694530995,100.0,11.0,17,,,9,10,20,23,15,17,20,33
 UBCV,2016,W,CPEN,321,,101,Software Engineering,Bader Alahmad;Bader Naim Alahmad;Farshid Agharebparast;John Deppe;John Henry Deppe;Nicholas Mulvenna;Sathish Gopalakrishnan;Theresa Louise Mammarella;Theresa Mammarella,105,82.62857142899999,6.606024556,93.0,51.0,,,,,,,,10,51,22,13
+UBCV,2016,W,CPEN,321,,OVERALL,Software Engineering,,105,82.62857142899999,6.606024556,93.0,51.0,,,,,,,,10,51,22,13
 UBCV,2016,W,CPEN,331,,201,Operating Systems,Alexander Charles;Alexandra Fedorova;Ashaya Sharma;Derek Chan;Justin Funston;Justin Wang;Svetozar Miucin,121,78.090909091,12.728576773,94.0,26.0,5,,,,,10,8,13,28,30,14
-UBCV,2016,W,CPEN,333,,101,System Software Engineering,Barbara Monserrat Ramos Macias;Barbara Ramos Macias;Hossein Bashashati Saghezchi;Mahdi Ghodsi;Paul Davies,60,85.15,9.304318298,97.0,49.0,,,,,,,,,15,16,22
+UBCV,2016,W,CPEN,331,,OVERALL,Operating Systems,,121,78.090909091,12.728576773,94.0,26.0,5,,,,,10,8,13,28,30,14
+UBCV,2016,W,CPEN,333,,101,System Software Engineering,Barbara Ramos Macias;Hossein Bashashati Saghezchi;Mahdi Ghodsi;Paul Davies,60,85.15,9.304318298,97.0,49.0,,,,,,,,,15,16,22
+UBCV,2016,W,CPEN,333,,OVERALL,System Software Engineering,,60,85.15,9.304318298,97.0,49.0,,,,,,,,,15,16,22
 UBCV,2016,W,CPEN,391,,201,Computer Engineering Design Studio II,Farid Molazem Tabrizi;Fatemeh Eslami;Hossein Omidian Savarbaghi;Ilya Ganelin;Paul Davies;Stylianos Ploumis,114,82.271929825,9.708389846000001,94.0,0.0,,,,,,,,14,47,35,11
+UBCV,2016,W,CPEN,391,,OVERALL,Computer Engineering Design Studio II,,114,82.271929825,9.708389846000001,94.0,0.0,,,,,,,,14,47,35,11
 UBCV,2016,W,CPEN,400,A,101,Topics in Computer Engineering,Abraham Chan;Karthik Pattabiraman;Xueqin Zhang,63,78.746031746,10.812132155,98.0,50.0,,,,,,6,5,6,12,12,13
+UBCV,2016,W,CPEN,400,A,OVERALL,Topics in Computer Engineering,,63,78.746031746,10.812132155,98.0,50.0,,,,,,6,5,6,12,12,13
 UBCV,2016,W,CPEN,411,,101,Computer Architecture,Mieszko Lis;Mohammad Abdelfattah Ewais;Mohammad Ewais;Xiaowei Ren,62,69.370967742,16.076899088,99.0,22.0,7,5,,5,7,5,9,,9,,7
+UBCV,2016,W,CPEN,411,,OVERALL,Computer Architecture,,62,69.370967742,16.076899088,99.0,22.0,7,5,,5,7,5,9,,9,,7
 UBCV,2016,W,CPEN,412,,201,Microcomputer Systems Design,Ankita Rathi;Mohammad Abdelfattah Ewais;Mohammad Ewais;Paul Davies,44,82.977272727,18.562889505999998,99.0,7.0,,,,,,,,,,8,21
+UBCV,2016,W,CPEN,412,,OVERALL,Microcomputer Systems Design,,44,82.977272727,18.562889505999998,99.0,7.0,,,,,,,,,,8,21
 UBCV,2016,W,CPEN,421,,201,Software Project Management,Carlos Antonio Sanchez;Hootan Rashtian;Patrick Conroy,82,75.829268293,12.71608768,93.0,12.0,,,,,6,7,10,16,19,14,
+UBCV,2016,W,CPEN,421,,OVERALL,Software Project Management,,82,75.829268293,12.71608768,93.0,12.0,,,,,6,7,10,16,19,14,
 UBCV,2016,W,CPEN,422,,101,Software Testing and Analysis,Ali Mesbah;Gokul Suresh Kumar;Golnaz Jahesh;Saba Alimadadi-Jani,79,80.240506329,7.5434046420000005,95.0,50.0,,,,,,,11,14,27,17,5
+UBCV,2016,W,CPEN,422,,OVERALL,Software Testing and Analysis,,79,80.240506329,7.5434046420000005,95.0,50.0,,,,,,,11,14,27,17,5
 UBCV,2016,W,CPEN,431,,201,Design of Distributed Software Applications,Hassan Halawa;Hassan Hesham Mohamed Halawa;Hazem Abdelhafez;Hazem Abdelmegeed Elsayed Abdelhafez;Radu Ripeanu,30,80.866666667,18.777707497,99.0,17.0,,,,,,,,5,6,6,8
+UBCV,2016,W,CPEN,431,,OVERALL,Design of Distributed Software Applications,,30,80.866666667,18.777707497,99.0,17.0,,,,,,,,5,6,6,8
 UBCV,2016,W,CPEN,441,,201,Human Computer Interfaces in Engineering Design,Dawood Al Masslawi;S Sidney Fels,25,72.6,15.908593066,86.0,19.0,,,,,,,,5,10,,
+UBCV,2016,W,CPEN,441,,OVERALL,Human Computer Interfaces in Engineering Design,,25,72.6,15.908593066,86.0,19.0,,,,,,,,5,10,,
 UBCV,2016,W,CPEN,442,,101,Introduction to Computer Security,Ildar Muslukhov;Konstantin Beznosov;Lina Qiu,43,82.23255814,11.023432205,100.0,38.0,,,,,,,,7,9,8,11
-UBCV,2016,W,CPEN,481,,101,Economic Analysis of Engineering Projects,Steven Minns,41,75.609756098,6.007820107000001,88.0,64.0,,,,,,13,8,,13,,
-UBCV,2016,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Blair Baillargeon;Kelleen Wiseman;Xiaozhu Li,55,73.654545455,13.920698925999998,93.0,18.0,,,,,,,12,,14,7,5
+UBCV,2016,W,CPEN,442,,OVERALL,Introduction to Computer Security,,43,82.23255814,11.023432205,100.0,38.0,,,,,,,,7,9,8,11
+UBCV,2016,W,CPEN,481,,101,Economic Analysis of Engineering Projects,Steven Minns,41,75.609756098,6.007820107000001,88.0,64.0,,,,,,13,8,,13,3,0
+UBCV,2016,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Blair Baillargeon;Kelleen Wiseman;Xiaozhu Li,55,73.654545455,13.920698925999998,93.0,18.0,,,,,,2,12,,14,7,5
+UBCV,2016,W,CPEN,481,,OVERALL,Economic Analysis of Engineering Projects,,96,74.489583333,11.238088236,93.0,18.0,,,,,5,15,20,5,27,10,5
 UBCV,2016,W,CPEN,491,,001,Computer Engineering Capstone Design Project,Abraham Chan;Amir Abdi;Amir Hossein Abdi;Brett Christopher Hannigan;Brett Hannigan;Cesar Eduardo Lopez;Cristian Sorin Grecu;Jen Tsu Hsu;Joel Ezequiel Hernandez-Balades;Joel Hernandez-Balades;John Madden;Joseph Yan;Jui Feng Chung;Katharine Maginley;Katharine Suzanne Maginley;Lyudmila Rodina;Maayan E Kreitzman;Maayan Kreitzman;Mehdi Mohammadi;Mollie Chapman;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;Samuel James Lightbody;Samuel Lightbody;Seyed Arash Sheikholeslam;Shuo Tang;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;William Rubel,51,83.901960784,7.302752637,94.0,55.0,,,,,,,,6,8,22,10
+UBCV,2016,W,CPEN,491,,OVERALL,Computer Engineering Capstone Design Project,,51,83.901960784,7.302752637,94.0,55.0,,,,,,,,6,8,22,10
 UBCV,2016,W,CPEN,492,,001,Software Engineering Capstone Design Project,Amir Abdi;Amir Hossein Abdi;Brett Christopher Hannigan;Brett Hannigan;Cesar Eduardo Lopez;Cristian Sorin Grecu;Jen Tsu Hsu;Joel Ezequiel Hernandez-Balades;Joel Hernandez-Balades;John Madden;Joseph Yan;Jui Feng Chung;Katharine Maginley;Katharine Suzanne Maginley;Lyudmila Rodina;Maayan E Kreitzman;Maayan Kreitzman;Mehdi Mohammadi;Mollie Chapman;Navid Shafiei;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;Samuel James Lightbody;Samuel Lightbody;Seyed Arash Sheikholeslam;Shuo Tang;Tahmid Chowdhury;Tahmid Zubayer Chowdhury;Terry Lee;William Rubel,36,84.944444444,5.064974655,95.0,75.0,,,,,,,,5,10,12,8
+UBCV,2016,W,CPEN,492,,OVERALL,Software Engineering Capstone Design Project,,36,84.944444444,5.064974655,95.0,75.0,,,,,,,,5,10,12,8

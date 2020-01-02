@@ -1,94 +1,150 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,PHIL,100,,001,Introduction to Philosophy,Ori Simchen;Rebecca Livernois;Serban Dragulin,92,68.445652174,14.843775570999998,91.0,16.0,8,6,6,7,9,11,13,10,11,8,
-UBCV,2017,W,PHIL,101,,001,Introduction to Philosophy,Andrew Jones;Eric Margolis;Matthew Cleveland Smithdeal;Matthew Smithdeal,109,71.825688073,12.160077391,89.0,0.0,,,,,12,28,19,16,20,5,
-UBCV,2017,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal;Matthew Kinakin,103,61.961165048999995,14.418073034,88.0,22.0,7,30,12,6,6,11,10,7,9,5,
-UBCV,2017,W,PHIL,101,,003,Introduction to Philosophy,Eric Margolis;Garson Leder;Kousaku Yui,103,67.941747573,16.936921754,89.0,0.0,9,,,,14,28,17,23,7,,
+UBCV,2017,W,PHIL,100,,001,Introduction to Philosophy,Ori Simchen;Rebecca Livernois;Serban Dragulin,92,68.445652174,14.843775570999998,91.0,16.0,8,6,6,7,9,11,13,10,11,8,3.0
+UBCV,2017,W,PHIL,100,,OVERALL,Introduction to Philosophy,,92,68.445652174,14.843775570999998,91.0,16.0,8,6,6,7,9,11,13,10,11,8,3.0
+UBCV,2017,W,PHIL,101,,001,Introduction to Philosophy,Andrew Jones;Eric Margolis;Matthew Cleveland Smithdeal;Matthew Smithdeal,109,71.825688073,12.160077391,89.0,0.0,4,,,,12,28,19,16,20,5,
+UBCV,2017,W,PHIL,101,,002,Introduction to Philosophy,Anders Kraal;Matthew Kinakin,103,61.961165048999995,14.418073034,88.0,22.0,7,30,12,6,6,11,10,7,9,5,0.0
+UBCV,2017,W,PHIL,101,,003,Introduction to Philosophy,Eric Margolis;Garson Leder;Kousaku Yui,103,67.941747573,16.936921754,89.0,0.0,9,,,,14,28,17,23,7,3,
+UBCV,2017,W,PHIL,101,,OVERALL,Introduction to Philosophy,,315,67.33015873,15.105116134000001,89.0,0.0,20,31,14,10,32,67,46,46,36,13,0.0
 UBCV,2017,W,PHIL,102,,001,Introduction to Philosophy II,Graham Moore;Graham Seth Moore;Kelin Anne Emmett;Kelin Emmett,113,69.920353982,14.147274847,97.0,14.0,8,,7,7,8,21,14,18,17,6,
 UBCV,2017,W,PHIL,102,,002,Introduction to Philosophy II,Aleksey Balotskiy;Bruno Guindon,79,70.759493671,10.989756524,89.0,5.0,,,,5,8,16,18,16,7,,
-UBCV,2017,W,PHIL,102,,003,Introduction to Philosophy II,Christina Hendricks;Jade Hadley;Jeremy Dawson;Phyllis Pearson,112,65.821428571,17.378776684,90.0,0.0,8,10,7,10,17,12,19,9,12,7,
-UBCV,2017,W,PHIL,102,,004,Introduction to Philosophy II,Yu Shing Chan,38,72.684210526,10.115829883,84.0,40.0,,,,,,,6,10,10,,
-UBCV,2017,W,PHIL,120,,99A,Introduction to Critical Thinking,Alexandre Korolev;Servaas Van Der Berg,91,72.197802198,17.749002964000002,96.0,3.0,9,5,6,,,7,6,16,13,16,8
-UBCV,2017,W,PHIL,120,,99C,Introduction to Critical Thinking,Alexandre Korolev;Servaas Van Der Berg,99,74.898989899,16.958830672,95.0,0.0,5,,7,,,8,7,9,19,16,16
+UBCV,2017,W,PHIL,102,,003,Introduction to Philosophy II,Christina Hendricks;Jade Hadley;Jeremy Dawson;Phyllis Pearson,112,65.821428571,17.378776684,90.0,0.0,8,10,7,10,17,12,19,9,12,7,1.0
+UBCV,2017,W,PHIL,102,,004,Introduction to Philosophy II,Yu Shing Chan,38,72.684210526,10.115829883,84.0,40.0,,,,3,3,2,6,10,10,,
+UBCV,2017,W,PHIL,102,,OVERALL,Introduction to Philosophy II,,342,69.078947368,14.44301863,97.0,0.0,19,17,17,25,36,51,57,53,46,16,5
 UBCV,2017,W,PHIL,120,,001,Introduction to Critical Thinking,Emma Esmaili;Leslie Burkholder,269,80.802973978,17.739255485,100.0,0.0,18,6,7,7,11,12,12,19,24,48,105
 UBCV,2017,W,PHIL,120,,002,Introduction to Critical Thinking,Alexandre Korolev;Servaas Van Der Berg,97,76.29896907199999,18.036516749,100.0,0.0,,,,7,5,6,10,9,16,12,21
-UBCV,2017,W,PHIL,120,,003,Introduction to Critical Thinking,Mojtaba Soltani,32,81.5,10.251671776,100.0,45.0,,,,,,,5,7,,6,8
-UBCV,2017,W,PHIL,125,,001,Introduction to Scientific Reasoning,Alan Walter Richardson;Mojtaba Soltani,23,66.0,15.090635266,86.0,15.0,,,,,,5,,,5,,
+UBCV,2017,W,PHIL,120,,003,Introduction to Critical Thinking,Mojtaba Soltani,32,81.5,10.251671776,100.0,45.0,,,,,,1,5,7,4,6,8
+UBCV,2017,W,PHIL,120,,99A,Introduction to Critical Thinking,Alexandre Korolev;Servaas Van Der Berg,91,72.197802198,17.749002964000002,96.0,3.0,9,5,6,,,7,6,16,13,16,8
+UBCV,2017,W,PHIL,120,,99C,Introduction to Critical Thinking,Alexandre Korolev;Servaas Van Der Berg,99,74.898989899,16.958830672,95.0,0.0,5,,7,,,8,7,9,19,16,16
+UBCV,2017,W,PHIL,120,,OVERALL,Introduction to Critical Thinking,,589,77.758913413,17.602554976,100.0,0.0,36,19,24,22,22,34,40,60,76,98,158
+UBCV,2017,W,PHIL,125,,001,Introduction to Scientific Reasoning,Alan Walter Richardson;Mojtaba Soltani,23,66.0,15.090635266,86.0,15.0,,,,,,5,1,,5,,
 UBCV,2017,W,PHIL,125,,002,Introduction to Scientific Reasoning,Alan Walter Richardson;Mojtaba Soltani,43,67.651162791,13.419750407,87.0,18.0,,,,6,,9,5,,6,,
-UBCV,2017,W,PHIL,125,,003,Introduction to Scientific Reasoning,Jasper Heaton;Leslie Burkholder,148,90.405405405,8.462673415,99.0,56.0,,,,,,,7,7,6,23,100
+UBCV,2017,W,PHIL,125,,003,Introduction to Scientific Reasoning,Jasper Heaton;Leslie Burkholder,148,90.405405405,8.462673415,99.0,56.0,,,,,,2,7,7,6,23,100
+UBCV,2017,W,PHIL,125,,OVERALL,Introduction to Scientific Reasoning,,214,83.21028037399999,15.009470779,99.0,15.0,,,7,10,7,16,13,10,17,27,100
 UBCV,2017,W,PHIL,211,,001,Greek Philosophy I,Benjamin Winnick;Marcelo Emilio Bravo Chapa;Michael Griffin,55,83.727272727,8.300947169,93.0,55.0,,,,,,,,,9,22,12
+UBCV,2017,W,PHIL,211,,OVERALL,Greek Philosophy I,,55,83.727272727,8.300947169,93.0,55.0,,,,,,,,,9,22,12
 UBCV,2017,W,PHIL,212,,001,Greek Philosophy II,Sylvia Berryman,12,72.416666667,6.986458764,85.0,64.0,,,,,,5,,,,,
-UBCV,2017,W,PHIL,220,,99A,Symbolic Logic,Emma Esmaili;Leslie Burkholder;Sina Fazelpour,296,86.074324324,15.090053393,99.0,0.0,11,,,,,9,,10,29,55,170
-UBCV,2017,W,PHIL,220,,99C,Symbolic Logic,Leslie Burkholder;Sina Fazelpour,273,90.340659341,10.16505669,100.0,9.0,,,,,,,6,11,18,39,192
+UBCV,2017,W,PHIL,212,,OVERALL,Greek Philosophy II,,12,72.416666667,6.986458764,85.0,64.0,,,,,,5,,,,,
 UBCV,2017,W,PHIL,220,,001,Symbolic Logic,Jordan Roy Dodd;Kousaku Yui,91,79.51648351600001,14.389319060999998,98.0,31.0,,,,,6,,,9,13,20,24
 UBCV,2017,W,PHIL,220,,002,Symbolic Logic,Jonathan Ichikawa;Sina Fazelpour,107,79.401869159,16.661932555,100.0,13.0,7,,,,,,10,6,20,15,33
 UBCV,2017,W,PHIL,220,,003,Symbolic Logic,Alexandre Korolev;Servaas Van Der Berg,88,73.181818182,15.645164105,95.0,14.0,5,5,,7,,9,11,8,15,10,11
 UBCV,2017,W,PHIL,220,,004,Symbolic Logic,Bruno Guindon;Chieh-Ling Cheng;Kristy Lesperance,104,75.48076923100001,18.542515183,99.0,6.0,9,,,,7,5,8,15,13,17,21
-UBCV,2017,W,PHIL,220,,005,Symbolic Logic,Bruno Guindon;Chieh-Ling Cheng;Kristy Lesperance,112,74.169642857,18.134079405999998,100.0,12.0,10,,6,9,6,9,12,9,9,14,24
+UBCV,2017,W,PHIL,220,,005,Symbolic Logic,Bruno Guindon;Chieh-Ling Cheng;Kristy Lesperance,112,74.169642857,18.134079405999998,100.0,12.0,10,4.0,6,9,6,9,12,9,9,14,24
+UBCV,2017,W,PHIL,220,,99A,Symbolic Logic,Emma Esmaili;Leslie Burkholder;Sina Fazelpour,295,86.342372881,14.392508012,99.0,0.0,10,,,,,9,,10,29,55,170
+UBCV,2017,W,PHIL,220,,99C,Symbolic Logic,Leslie Burkholder;Sina Fazelpour,273,90.340659341,10.16505669,100.0,9.0,,,,,,,6,11,18,39,192
+UBCV,2017,W,PHIL,220,,OVERALL,Symbolic Logic,,1071,82.672268908,15.995676004000002,100.0,0.0,48,18,20,30,31,41,52,69,117,170,475
 UBCV,2017,W,PHIL,230,,001,Introduction to Ethics,Jade Hadley;Matthew Bedke;Phyllis Pearson,76,71.828947368,10.99865223,87.0,20.0,,,,,10,16,14,12,14,,
 UBCV,2017,W,PHIL,230,,002,Introduction to Ethics,Jade Hadley;Matthew Bedke;Phyllis Pearson,74,69.55405405399999,12.41976098,83.0,4.0,,,,,11,17,19,10,9,,
 UBCV,2017,W,PHIL,230,,003,Introduction to Ethics,Bruno Guindon;Matthew Kinakin,79,77.734177215,15.966076907,98.0,0.0,,,,,5,5,9,7,19,13,14
+UBCV,2017,W,PHIL,230,,OVERALL,Introduction to Ethics,,229,73.131004367,13.727624515999999,98.0,0.0,10,5,1.0,6,26,38,42,29,42,16,14
 UBCV,2017,W,PHIL,235,,001,Contemporary Moral Issues,Bruno Guindon;Kinley Gillette,67,72.552238806,14.74868621,89.0,4.0,,,,,8,7,10,17,15,,
-UBCV,2017,W,PHIL,240,,001,Introduction to Epistemology,Christopher Stephens;Kyle Da Silva;Nathan Cockram,88,72.761363636,14.677368863,93.0,15.0,5,,,6,8,12,11,8,26,8,
+UBCV,2017,W,PHIL,235,,OVERALL,Contemporary Moral Issues,,67,72.552238806,14.74868621,89.0,4.0,,,,,8,7,10,17,15,,
+UBCV,2017,W,PHIL,240,,001,Introduction to Epistemology,Christopher Stephens;Kyle Da Silva;Nathan Cockram,88,72.761363636,14.677368863,93.0,15.0,5,,2,6,8,12,11,8,26,8,
 UBCV,2017,W,PHIL,240,,002,Introduction to Epistemology,Jonathan Ichikawa;Nathan Cockram;Yu Shing Chan,110,69.790909091,14.672632862999999,92.0,2.0,8,,6,7,12,13,23,15,9,10,
-UBCV,2017,W,PHIL,250,,001,Minds and Machines,Garson Leder,39,81.666666667,9.056353784,93.0,55.0,,,,,,,,9,6,13,6
+UBCV,2017,W,PHIL,240,,OVERALL,Introduction to Epistemology,,198,71.111111111,14.712050994,93.0,2.0,13,4.0,8,13,20,25,34,23,35,18,5
+UBCV,2017,W,PHIL,250,,001,Minds and Machines,Garson Leder,39,81.666666667,9.056353784,93.0,55.0,,,,,1,0,,9,6,13,6
 UBCV,2017,W,PHIL,250,,002,Minds and Machines,Andrew Jones;Logan Fletcher,61,76.983606557,16.448395872,96.0,0.0,,,,,6,5,,10,16,7,11
+UBCV,2017,W,PHIL,250,,OVERALL,Minds and Machines,,100,78.81,14.167607812,96.0,0.0,,,,,7,5,,19,22,20,17
 UBCV,2017,W,PHIL,260,,001,Science and Society in the Contemporary World,Robert Brain,26,73.615384615,17.8708185,90.0,0.0,,,,,,,7,,7,,
+UBCV,2017,W,PHIL,260,,OVERALL,Science and Society in the Contemporary World,,26,73.615384615,17.8708185,90.0,0.0,,,,,,,7,,7,,
 UBCV,2017,W,PHIL,310,,001,The Philosophy of Plato,Jordan Wadden;Michael Griffin,99,78.313131313,12.25631571,94.0,20.0,,,,,,,6,21,28,21,8
-UBCV,2017,W,PHIL,311,,001,The Philosophy of Aristotle,Aleksey Balotskiy;Sylvia Berryman,32,65.21875,17.405476289,91.0,0.0,,,,,,5,,6,5,,
+UBCV,2017,W,PHIL,310,,OVERALL,The Philosophy of Plato,,99,78.313131313,12.25631571,94.0,20.0,,,,,,,6,21,28,21,8
+UBCV,2017,W,PHIL,311,,001,The Philosophy of Aristotle,Aleksey Balotskiy;Sylvia Berryman,31,67.322580645,12.910943928,91.0,35.0,,,,,,5,,6,5,,
+UBCV,2017,W,PHIL,311,,OVERALL,The Philosophy of Aristotle,,31,67.322580645,12.910943928,91.0,35.0,,,,,,5,,6,5,,
 UBCV,2017,W,PHIL,314,,001,Philosophy in the 17th Century,Anders Kraal;Jiwon Byun,79,71.430379747,13.971292494000002,95.0,16.0,,8,5,,6,12,9,8,14,7,
-UBCV,2017,W,PHIL,315,,001,Philosophy in the 18th Century,Jasper Heaton;Margaret Schabas,27,69.185185185,20.382943543,81.0,0.0,,,,,,,9,5,6,,
+UBCV,2017,W,PHIL,314,,OVERALL,Philosophy in the 17th Century,,79,71.430379747,13.971292494000002,95.0,16.0,,8,5,,6,12,9,8,14,7,
+UBCV,2017,W,PHIL,315,,001,Philosophy in the 18th Century,Jasper Heaton;Margaret Schabas,26,71.846153846,15.272700633,81.0,0.0,,,,,,,9,5,6,,
+UBCV,2017,W,PHIL,315,,OVERALL,Philosophy in the 18th Century,,26,71.846153846,15.272700633,81.0,0.0,,,,,,,9,5,6,,
 UBCV,2017,W,PHIL,316,,001,Philosophy After 1800,Anders Kraal;Jordan Wadden,76,70.684210526,15.693064733,94.0,3.0,,12,6,,5,,12,6,12,10,
+UBCV,2017,W,PHIL,316,,OVERALL,Philosophy After 1800,,76,70.684210526,15.693064733,94.0,3.0,,12,6,,5,,12,6,12,10,
 UBCV,2017,W,PHIL,320,,001,Logic: Metatheory and Computability,Alexandre Korolev,41,78.780487805,17.82906643,99.0,23.0,,,,,,,,,,,17
+UBCV,2017,W,PHIL,320,,OVERALL,Logic: Metatheory and Computability,,41,78.780487805,17.82906643,99.0,23.0,,,,,,,,,,,17
 UBCV,2017,W,PHIL,321,,001,"Induction, Decision and Game Theory",Christopher Stephens;Kyle Da Silva,58,73.689655172,15.729296497,92.0,17.0,,,,,,5,6,8,,15,
+UBCV,2017,W,PHIL,321,,OVERALL,"Induction, Decision and Game Theory",,58,73.689655172,15.729296497,92.0,17.0,,,,,,5,6,8,,15,
 UBCV,2017,W,PHIL,326,,001,Philosophy of Language I,Graham Moore;Graham Seth Moore;Ori Simchen,25,80.32,12.327881677999999,98.0,55.0,,,,,,,,,,,7
-UBCV,2017,W,PHIL,330,,001,Social and Political Philosophy,Chieh-Ling Cheng;Kelin Anne Emmett;Kelin Emmett;Scott Allen Anderson,65,73.846153846,8.252330673,85.0,21.0,,,,,,15,14,18,10,,
+UBCV,2017,W,PHIL,326,,OVERALL,Philosophy of Language I,,25,80.32,12.327881677999999,98.0,55.0,,,,,,,,,,,7
+UBCV,2017,W,PHIL,330,,001,Social and Political Philosophy,Chieh-Ling Cheng;Kelin Anne Emmett;Kelin Emmett;Scott Allen Anderson,65,73.846153846,8.252330673,85.0,21.0,,,0,0,4,15,14,18,10,,
 UBCV,2017,W,PHIL,330,,002,Social and Political Philosophy,Aleksey Balotskiy;Scott Allen Anderson,70,68.728571429,15.663047465,90.0,0.0,,,10,6,6,7,9,11,12,,
+UBCV,2017,W,PHIL,330,,OVERALL,Social and Political Philosophy,,135,71.192592593,12.862357608,90.0,0.0,,,10,6,10,22,23,29,22,6,
 UBCV,2017,W,PHIL,331,,99A,Business and Professional Ethics,Jasper Heaton;Rana Ahmad,66,73.363636364,8.232461757000001,89.0,51.0,,,,,9,12,9,8,19,,
 UBCV,2017,W,PHIL,331,,99C,Business and Professional Ethics,Jose Rodrigo Valencia Pacheco;Rana Ahmad,66,74.681818182,7.491860385,90.0,55.0,,,,,7,11,10,8,20,,
-UBCV,2017,W,PHIL,332,,001,Environmental Ethics,David Friedell;Richard Andrew Sandlin;Richard Sandlin,77,76.558441558,11.695133385999998,89.0,0.0,,,,,,5,13,21,20,12,
+UBCV,2017,W,PHIL,331,,OVERALL,Business and Professional Ethics,,132,74.022727273,7.868640929,90.0,51.0,,,7,,16,23,19,16,39,6,
+UBCV,2017,W,PHIL,332,,001,Environmental Ethics,David Friedell;David J Friedell;Richard Andrew Sandlin;Richard Sandlin,77,76.558441558,11.695133385999998,89.0,0.0,,,,,,5,13,21,20,12,
 UBCV,2017,W,PHIL,332,,002,Environmental Ethics,Jose Rodrigo Valencia Pacheco;Rana Ahmad,60,74.8,8.054475542999999,86.0,50.0,,,,,,7,10,14,16,5,
-UBCV,2017,W,PHIL,333,,99A,Bio-Medical Ethics,Bianca Crewe;Doran Smolkin,46,66.847826087,14.47905367,86.0,0.0,,,,6,8,,11,,5,,
-UBCV,2017,W,PHIL,333,,99B,Bio-Medical Ethics,Bianca Crewe;Doran Smolkin,44,63.772727273,9.024163007,86.0,39.0,,7,,9,7,7,5,,,,
-UBCV,2017,W,PHIL,333,,99C,Bio-Medical Ethics,Doran Smolkin,49,68.428571429,14.371557559000001,87.0,0.0,,,,6,6,7,8,,7,,
+UBCV,2017,W,PHIL,332,,OVERALL,Environmental Ethics,,137,75.788321168,10.263750215,89.0,0.0,,,,,,12,23,35,36,17,
 UBCV,2017,W,PHIL,333,,001,Bio-Medical Ethics,Aleksey Balotskiy;Bruno Guindon,89,74.95505618,6.386972025,88.0,51.0,,,,,5,14,26,17,19,,
 UBCV,2017,W,PHIL,333,,002,Bio-Medical Ethics,Caitlin Courchesne;Leslie Burkholder;Richard Andrew Sandlin;Richard Sandlin,102,90.450980392,11.654793304000002,100.0,0.0,,,,,,,,,6,17,73
 UBCV,2017,W,PHIL,333,,901,Bio-Medical Ethics,Leslie Burkholder;Richard Andrew Sandlin;Richard Sandlin,68,88.661764706,9.338749787000001,100.0,54.0,,,,,,,,,6,10,42
+UBCV,2017,W,PHIL,333,,99A,Bio-Medical Ethics,Bianca Crewe;Doran Smolkin,46,66.847826087,14.47905367,86.0,0.0,,,,6,8,,11,,5,,
+UBCV,2017,W,PHIL,333,,99B,Bio-Medical Ethics,Bianca Crewe;Doran Smolkin,44,63.772727273,9.024163007,86.0,39.0,,7,,9,7,7,5,,1,,
+UBCV,2017,W,PHIL,333,,99C,Bio-Medical Ethics,Doran Smolkin,49,68.428571429,14.371557559000001,87.0,0.0,,,,6,6,7,8,,7,,
+UBCV,2017,W,PHIL,333,,OVERALL,Bio-Medical Ethics,,398,78.29145728600001,15.010675542000001,100.0,0.0,7,14,10,26,28,34,53,30,44,37,115
 UBCV,2017,W,PHIL,334,,001,"Sex, Gender and Philosophy",Jiwon Byun;Scott Allen Anderson,56,71.589285714,16.600960307,89.0,0.0,,,,,7,,7,11,8,10,
+UBCV,2017,W,PHIL,334,,OVERALL,"Sex, Gender and Philosophy",,56,71.589285714,16.600960307,89.0,0.0,,,,,7,,7,11,8,10,
 UBCV,2017,W,PHIL,335,,001,Power and Oppression,Kelin Anne Emmett;Kelin Emmett;Kinley Gillette,72,71.944444444,12.3469662,90.0,0.0,,,,5,,10,22,11,12,,
+UBCV,2017,W,PHIL,335,,OVERALL,Power and Oppression,,72,71.944444444,12.3469662,90.0,0.0,,,,5,,10,22,11,12,,
 UBCV,2017,W,PHIL,338,,001,Philosophy of Law,Jeremy Dawson;Thomas Jacob Bittner,93,71.80645161300001,6.948972499,88.0,43.0,,,,8,15,16,22,18,10,,
-UBCV,2017,W,PHIL,338,,002,Philosophy of Law,Matthew Bedke;Matthew Kinakin,82,71.609756098,13.724589177,87.0,0.0,,,,,,12,27,17,12,,
-UBCV,2017,W,PHIL,339,,001,Philosophy of Art,David Friedell;Kyle Da Silva,44,72.727272727,15.312806065,91.0,0.0,,,,5,,5,6,,12,,
-UBCV,2017,W,PHIL,340,,001,Introduction to Metaphysics,Jasper Heaton;Roberta Ballarin,56,72.428571429,8.374978192999999,92.0,45.0,,,,5,,11,15,8,7,,
+UBCV,2017,W,PHIL,338,,002,Philosophy of Law,Matthew Bedke;Matthew Kinakin,82,71.609756098,13.724589177,87.0,0.0,,,,3,3,12,27,17,12,,
+UBCV,2017,W,PHIL,338,,OVERALL,Philosophy of Law,,175,71.714285714,10.640876046,88.0,0.0,5,,,11,18,28,49,35,22,,
+UBCV,2017,W,PHIL,339,,001,Philosophy of Art,David Friedell;David J Friedell;Kyle Da Silva,44,72.727272727,15.312806065,91.0,0.0,,,,5,,5,6,,12,,
+UBCV,2017,W,PHIL,339,,OVERALL,Philosophy of Art,,44,72.727272727,15.312806065,91.0,0.0,,,,5,,5,6,,12,,
+UBCV,2017,W,PHIL,340,,001,Introduction to Metaphysics,Jasper Heaton;Roberta Ballarin,56,72.428571429,8.374978192999999,92.0,45.0,,,,5,4,11,15,8,7,,
 UBCV,2017,W,PHIL,340,,002,Introduction to Metaphysics,Jasper Heaton;Roberta Ballarin,65,68.938461538,11.917525072,96.0,16.0,,,,9,12,6,12,7,8,,
-UBCV,2017,W,PHIL,347,,001,Philosophy of Religion,Anders Kraal;Jakub Stach,68,71.88235294100001,12.436740721,89.0,32.0,,7,,7,,9,7,8,14,9,
-UBCV,2017,W,PHIL,347,,002,Philosophy of Religion,Jonathan Ichikawa;Richard Andrew Sandlin;Richard Sandlin,95,77.6,12.209518435,94.0,17.0,,,,,6,7,10,10,24,15,13
+UBCV,2017,W,PHIL,340,,OVERALL,Introduction to Metaphysics,,121,70.553719008,10.53324136,96.0,16.0,,,5,14,16,17,27,15,15,,
+UBCV,2017,W,PHIL,347,,001,Philosophy of Religion,Anders Kraal;Jakub Stach,68,71.88235294100001,12.436740721,89.0,32.0,,7,,7,3,9,7,8,14,9,0
+UBCV,2017,W,PHIL,347,,002,Philosophy of Religion,Jonathan Ichikawa;Richard Andrew Sandlin;Richard Sandlin,95,77.6,12.209518435,94.0,17.0,,3,,2,6,7,10,10,24,15,13
+UBCV,2017,W,PHIL,347,,OVERALL,Philosophy of Religion,,163,75.214723926,12.588326128,94.0,17.0,3.0,10,6,9,9,16,17,18,38,24,13
 UBCV,2017,W,PHIL,360,,001,Introduction to History and Philosophy of Science,Alan Walter Richardson;Bianca Crewe,22,69.454545455,13.084804974,85.0,35.0,,,,,,,,,6,,
+UBCV,2017,W,PHIL,360,,OVERALL,Introduction to History and Philosophy of Science,,22,69.454545455,13.084804974,85.0,35.0,,,,,,,,,6,,
 UBCV,2017,W,PHIL,362,,001,History and Philosophy of Economics from Aristotle to Adam Smith,Margaret Schabas;Oliver Ma;Thomas Cornwall,28,66.892857143,16.355629421,85.0,0.0,,,,,,8,,6,,,
-UBCV,2017,W,PHIL,363,,001,History and Philosophy of Economics from Ricardo to Keynes,Margaret Schabas;Thomas Cornwall;Zachary Auerbach Brode,24,69.041666667,19.42763421,85.0,0.0,,,,,,,,6,6,,
+UBCV,2017,W,PHIL,362,,OVERALL,History and Philosophy of Economics from Aristotle to Adam Smith,,28,66.892857143,16.355629421,85.0,0.0,,,,,,8,,6,,,
+UBCV,2017,W,PHIL,363,,001,History and Philosophy of Economics from Ricardo to Keynes,Margaret Schabas;Thomas Cornwall;Zachary Auerbach Brode,23,72.043478261,12.980678862000001,85.0,28.0,,,,,,,,6,6,,
+UBCV,2017,W,PHIL,363,,OVERALL,History and Philosophy of Economics from Ricardo to Keynes,,23,72.043478261,12.980678862000001,85.0,28.0,,,,,,,,6,6,,
 UBCV,2017,W,PHIL,364,,001,"Darwin, Evolution, and Modern History",Christopher Stephens;Matthew Kinakin,34,76.647058824,14.893322386,89.0,0.0,,,,,,,7,5,9,8,
+UBCV,2017,W,PHIL,364,,OVERALL,"Darwin, Evolution, and Modern History",,34,76.647058824,14.893322386,89.0,0.0,,,,,,,7,5,9,8,
 UBCV,2017,W,PHIL,369,,001,Philosophy of Science,Paul Bartha,26,73.307692308,11.526557962,95.0,39.0,,,,,,,,8,,,
+UBCV,2017,W,PHIL,369,,OVERALL,Philosophy of Science,,26,73.307692308,11.526557962,95.0,39.0,,,,,,,,8,,,
 UBCV,2017,W,PHIL,375,,001,Philosophy and Literature,Emma Esmaili;Ian Heckman;Ian Tomas Heckman;Peter Schouls,80,73.7,15.576190854000002,90.0,0.0,,,,,5,8,9,16,16,14,
-UBCV,2017,W,PHIL,375,,901,Philosophy and Literature,Stefan Lukits,64,78.0625,11.247398288,91.0,23.0,,,,,6,,7,,20,16,
-UBCV,2017,W,PHIL,385,,002,Existentialism,Anders Kraal;Shang Chun Tsui;Steven Taubeneck,118,77.389830508,8.114600009,92.0,16.0,,,,,,11,16,38,30,15,
+UBCV,2017,W,PHIL,375,,901,Philosophy and Literature,Stefan Lukits,64,78.0625,11.247398288,91.0,23.0,,,,,6,4,7,4,20,16,
+UBCV,2017,W,PHIL,375,,OVERALL,Philosophy and Literature,,144,75.638888889,13.946256039000001,91.0,0.0,5,,,,11,12,16,20,36,30,5
+UBCV,2017,W,PHIL,385,,002,Existentialism,Anders Kraal;Shang Chun Tsui;Steven Taubeneck,118,77.389830508,8.114600009,92.0,16.0,,0,,1,4,11,16,38,30,15,
 UBCV,2017,W,PHIL,385,,003,Existentialism,Anders Kraal;Jose Rodrigo Valencia Pacheco,101,70.564356436,14.063723434000002,94.0,11.0,,11,,10,8,10,14,15,13,10,
+UBCV,2017,W,PHIL,385,,OVERALL,Existentialism,,219,74.24200913199999,11.734480970999998,94.0,11.0,3.0,11,5,11,12,21,30,53,43,25,5
 UBCV,2017,W,PHIL,388,,001,"Buddhist, Brahmanical and Jain Philosophers in Interaction.",Evan Thompson;Jelena Markovic,41,77.609756098,9.404461837000001,95.0,50.0,,,,,,,,11,15,5,
+UBCV,2017,W,PHIL,388,,OVERALL,"Buddhist, Brahmanical and Jain Philosophers in Interaction.",,41,77.609756098,9.404461837000001,95.0,50.0,,,,,,,,11,15,5,
 UBCV,2017,W,PHIL,390,,001,Honours Tutorial,Scott Allen Anderson,11,77.636363636,17.200422828,89.0,28.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,390,,OVERALL,Honours Tutorial,,11,77.636363636,17.200422828,89.0,28.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,415,,001,The Philosophy of Immanuel Kant,Anders Kraal,23,78.52173913,10.735961511000001,92.0,50.0,,,,,,,,,7,6,
+UBCV,2017,W,PHIL,415,,OVERALL,The Philosophy of Immanuel Kant,,23,78.52173913,10.735961511000001,92.0,50.0,,,,,,,,,7,6,
 UBCV,2017,W,PHIL,418,,001,Topics in Twentieth-Century Philosophy,Roberta Ballarin,9,74.888888889,15.775332360999998,88.0,35.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,418,,OVERALL,Topics in Twentieth-Century Philosophy,,9,74.888888889,15.775332360999998,88.0,35.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,432,,001,Topics in Ethical Theory,Matthew Bedke,12,80.083333333,17.829792907999998,96.0,29.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,432,,OVERALL,Topics in Ethical Theory,,12,80.083333333,17.829792907999998,96.0,29.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,441,,001,Philosophy of Perception,Matthew Cleveland Smithdeal;Matthew Smithdeal;Thomas Jacob Bittner,64,68.125,13.625955624000001,92.0,11.0,,,5,11,8,8,,12,7,,
+UBCV,2017,W,PHIL,441,,OVERALL,Philosophy of Perception,,64,68.125,13.625955624000001,92.0,11.0,,,5,11,8,8,,12,7,,
 UBCV,2017,W,PHIL,448,,001,Topics in Continental Philosophy,Garson Leder;Steven Taubeneck,29,79.24137931,21.566599791999998,94.0,4.0,,,,,,,,,,13,6
-UBCV,2017,W,PHIL,451,,001,Philosophy of Mind,Evan Thompson;Jelena Markovic,68,75.338235294,6.9724624529999994,87.0,50.0,,,,,,5,21,21,15,,
-UBCV,2017,W,PHIL,451,,002,Philosophy of Mind,Matthew Smithdeal;Murat Aydede,47,72.574468085,13.488714576,93.0,0.0,,,,5,,9,11,,10,,
+UBCV,2017,W,PHIL,448,,OVERALL,Topics in Continental Philosophy,,29,79.24137931,21.566599791999998,94.0,4.0,,,,,,,,,,13,6
+UBCV,2017,W,PHIL,451,,001,Philosophy of Mind,Evan Thompson;Jelena Markovic,68,75.338235294,6.9724624529999994,87.0,50.0,,,,1,,5,21,21,15,,
+UBCV,2017,W,PHIL,451,,002,Philosophy of Mind,Matthew Smithdeal;Murat Aydede,47,72.574468085,13.488714576,93.0,0.0,,,,5,,9,11,2,10,,
+UBCV,2017,W,PHIL,451,,OVERALL,Philosophy of Mind,,115,74.208695652,10.190721315,93.0,0.0,,,,6,,14,32,23,25,,
 UBCV,2017,W,PHIL,461,,001,Philosophy of Social Science,Margaret Wylie,12,68.333333333,29.481375734,90.0,0.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,461,,OVERALL,Philosophy of Social Science,,12,68.333333333,29.481375734,90.0,0.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,489,,001,Directed Reading,Barbara Weber;Steven Taubeneck,7,88.428571429,3.77964473,93.0,82.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,489,,OVERALL,Directed Reading,,7,88.428571429,3.77964473,93.0,82.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,490,,001,Honours Tutorial,Roberta Ballarin,7,82.857142857,4.4131837119999995,88.0,76.0,,,,,,,,,,,
-UBCV,2017,W,PHIL,491,,002,Seminar for Majors in Philosophy,Kelin Anne Emmett;Kelin Emmett;Margaret Schabas,23,74.173913043,16.16857832,90.0,9.0,,,,,,,,,8,,
+UBCV,2017,W,PHIL,490,,OVERALL,Honours Tutorial,,7,82.857142857,4.4131837119999995,88.0,76.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,491,,002,Seminar for Majors in Philosophy,Kelin Anne Emmett;Kelin Emmett;Margaret Schabas,22,77.136363636,7.899942462,90.0,58.0,,,,,,,,,8,,
 UBCV,2017,W,PHIL,491,,003,Seminar for Majors in Philosophy,Eric Margolis;Sylvia Berryman,18,70.888888889,14.700495745,87.0,19.0,,,,,,,5,,,,
 UBCV,2017,W,PHIL,491,,004,Seminar for Majors in Philosophy,Eric Margolis;Sylvia Berryman,9,77.333333333,11.779218989,88.0,50.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,491,,OVERALL,Seminar for Majors in Philosophy,,49,74.87755102,11.679099304000001,90.0,19.0,,,,,,5,10,8,10,7,
 UBCV,2017,W,PHIL,518,A,001,Twentieth-Century Philosophy,Alan Walter Richardson,5,85.0,2.915475947,87.0,80.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,518,A,OVERALL,Twentieth-Century Philosophy,,6,84.5,2.8809720580000002,87.0,80.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,525,A,001,Philosophy of Language,Ori Simchen,5,88.0,3.8078865530000003,92.0,83.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,525,A,OVERALL,Philosophy of Language,,5,88.0,3.8078865530000003,92.0,83.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,530,A,001,Moral Philosophy,Matthew Bedke;Scott Allen Anderson,5,81.6,3.435112807,85.0,77.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,530,A,OVERALL,Moral Philosophy,,5,81.6,3.435112807,85.0,77.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,540,A,001,Epistemology,Jonathan Ichikawa,8,86.75,2.604940361,91.0,84.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,540,A,OVERALL,Epistemology,,8,86.75,2.604940361,91.0,84.0,,,,,,,,,,,
 UBCV,2017,W,PHIL,551,A,001,Philosophy of Mind,Eric Margolis;Evan Thompson,5,86.8,1.923538406,89.0,84.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,551,A,OVERALL,Philosophy of Mind,,8,86.5,1.772810521,89.0,84.0,,,,,,,,,,7,
 UBCV,2017,W,PHIL,560,A,001,Philosophy of Science,Alison Wylie;Christopher Stephens;Margaret Wylie,8,83.375,19.784102565,94.0,35.0,,,,,,,,,,,
+UBCV,2017,W,PHIL,560,A,OVERALL,Philosophy of Science,,8,83.375,19.784102565,94.0,35.0,,,,,,,,,,,

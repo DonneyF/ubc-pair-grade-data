@@ -1,60 +1,89 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2016,W,NRSG,101,,001,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Corinne Crockett;Helen Hamel;Lisa Moralejo;Manuela Reekie;Michelle Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,21,82.380952381,3.7613320839999997,90.0,76.0,,,,,,,,6,9,5,
-UBCO,2016,W,NRSG,101,,002,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Lisa Moralejo;Manuela Reekie;Michelle Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,21,79.666666667,5.876506899,94.0,67.0,,,,,,,,5,10,,
-UBCO,2016,W,NRSG,101,,003,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,22,82.681818182,3.6824728189999996,90.0,77.0,,,,,,,,5,11,5,
-UBCO,2016,W,NRSG,101,,004,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,22,83.136363636,5.007570027,91.0,74.0,,,,,,,,,9,6,
-UBCO,2016,W,NRSG,101,,005,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,19,80.368421053,6.66008447,89.0,61.0,,,,,,,,,7,5,
-UBCO,2016,W,NRSG,101,,006,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,20,83.05,5.286278165,94.0,69.0,,,,,,,,,8,7,
+UBCO,2016,W,NRSG,101,,001,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Corinne Crockett;Helen Hamel;Lisa Moralejo;Manuela Reekie;Michelle Earl;Michelle Marie Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,21,82.380952381,3.7613320839999997,90.0,76.0,,,,,,,,6,9,5,
+UBCO,2016,W,NRSG,101,,002,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Lisa Moralejo;Manuela Reekie;Michelle Earl;Michelle Marie Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,21,79.666666667,5.876506899,94.0,67.0,,,,,,,,5,10,1,
+UBCO,2016,W,NRSG,101,,003,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Michelle Marie Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,22,82.681818182,3.6824728189999996,90.0,77.0,,,,,,,,5,11,5,
+UBCO,2016,W,NRSG,101,,004,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Michelle Marie Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,22,83.136363636,5.007570027,91.0,74.0,,,,,,,,,9,6,
+UBCO,2016,W,NRSG,101,,005,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Michelle Marie Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,19,80.368421053,6.66008447,89.0,61.0,,,,,,,,,7,5,
+UBCO,2016,W,NRSG,101,,006,Nursing Lab Practice I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Michelle Marie Earl;Morgan Straza;Sarah Kvist;Sheldon Ambler,20,83.05,5.286278165,94.0,69.0,,,,,,,,,8,7,
+UBCO,2016,W,NRSG,101,,OVERALL,Nursing Lab Practice I,,125,81.91199999999999,5.1915191389999995,94.0,61.0,,,,,,,8,23,54,29,7
 UBCO,2016,W,NRSG,111,,001,Foundations of Health,Elizabeth Andersen;Manuela Reekie;Matthew Ferrier,125,79.50399999999999,6.176991647,92.0,62.0,,,,,,11,18,25,41,22,
-UBCO,2016,W,NRSG,112,,001,Introduction to the Profession of Nursing I,Elizabeth Green;Lindsay Kennedy;Manuela Reekie;Solstice Lara Sarin Toews;Solstice Toews,65,83.846153846,4.381176958,95.0,71.0,,,,,,,,6,28,24,5
+UBCO,2016,W,NRSG,111,,OVERALL,Foundations of Health,,125,79.50399999999999,6.176991647,92.0,62.0,,,,,,11,18,25,41,22,
+UBCO,2016,W,NRSG,112,,001,Introduction to the Profession of Nursing I,Elizabeth Green;Lindsay Kennedy;Manuela Reekie;Solstice Lara Sarin Toews;Solstice Toews,65,83.846153846,4.381176958,95.0,71.0,,,,,,,1,6,28,24,5
 UBCO,2016,W,NRSG,112,,002,Introduction to the Profession of Nursing I,Elizabeth Green;Lindsay Kennedy;Manuela Reekie;Solstice Lara Sarin Toews;Solstice Toews,56,83.232142857,5.7996585210000005,95.0,70.0,,,,,,,5,8,18,16,8
+UBCO,2016,W,NRSG,112,,OVERALL,Introduction to the Profession of Nursing I,,121,83.561983471,5.074269343,95.0,70.0,,,,,,,6,14,46,40,13
 UBCO,2016,W,NRSG,120,,001,Introduction to Nursing Research,Claudia Caxaj;Kimberly A Mckinley;Kimberly Mckinley;Manuela Reekie,55,82.472727273,6.274151988,93.0,67.0,,,,,,,,8,18,15,7
 UBCO,2016,W,NRSG,120,,002,Introduction to Nursing Research,Claudia Caxaj;Kimberly A Mckinley;Kimberly Mckinley;Manuela Reekie,78,82.935897436,5.094789147,93.0,69.0,,,,,,,,13,31,20,9
+UBCO,2016,W,NRSG,120,,OVERALL,Introduction to Nursing Research,,133,82.744360902,5.594442772000001,93.0,67.0,,,,,,5,6,21,49,35,16
 UBCO,2016,W,NRSG,122,,001,Introduction to the Profession of Nursing II,Darlene Taylor;Lisa Moralejo;Manuela Reekie;Nicole De Bosch Kemper;Rebecca Albo,58,88.36206896600001,3.3282326369999997,95.0,79.0,,,,,,,,,6,29,22
 UBCO,2016,W,NRSG,122,,002,Introduction to the Profession of Nursing II,Darlene Taylor;Lisa Moralejo;Manuela Reekie;Nicole De Bosch Kemper;Rebecca Albo,63,85.793650794,4.687521975,93.0,69.0,,,,,,,,,18,26,15
+UBCO,2016,W,NRSG,122,,OVERALL,Introduction to the Profession of Nursing II,,121,87.02479338799999,4.274854403,95.0,69.0,,,,,,,,,24,55,37
 UBCO,2016,W,NRSG,126,,001,Health & Healing I,Bonny Taylor;Cheryl Tress;Claudia Caxaj;Corinne Crockett;Darlene Taylor;Helen Hamel;Jacqueline Denison;Lisa Moralejo;Manuela Reekie;Michelle Earl;Michelle Marie Earl;Morgan Hatch;Morgan Straza;Sarah Kvist;Sarah Marie Hope Kvist;Sheldon Ambler,125,78.032,7.05729547,97.0,60.0,,,,5,,14,17,32,32,19,
+UBCO,2016,W,NRSG,126,,OVERALL,Health & Healing I,,125,78.032,7.05729547,97.0,60.0,,,,5,,14,17,32,32,19,
 UBCO,2016,W,NRSG,140,,001,L.P.N. Access to B.S.N.,Lindsay Kennedy;Manuela Reekie,6,84.5,6.123724357,91.0,76.0,,,,,,,,,,,
+UBCO,2016,W,NRSG,140,,OVERALL,L.P.N. Access to B.S.N.,,6,84.5,6.123724357,91.0,76.0,,,,,,,,,,,
 UBCO,2016,W,NRSG,201,,001,Nursing Lab Practice II,Brenda Huber;Charlene Strumpel;Colleen Dumanoir;Laura Mercer;Leah Dawe;Linda Drew;Megan Lentz;Sheldon Ambler;Zoe Soon,28,83.607142857,4.175229297,91.0,75.0,,,,,,,,,11,12,
 UBCO,2016,W,NRSG,201,,002,Nursing Lab Practice II,Brenda Huber;Charlene Strumpel;Colleen Dumanoir;Jessica Calvert;Laura Mercer;Leah Dawe;Megan Lentz,31,83.419354839,6.810649472000001,93.0,64.0,,,,,,,,,7,12,6
 UBCO,2016,W,NRSG,201,,003,Nursing Lab Practice II,Brenda Huber;Charlene Strumpel;Colleen Dumanoir;Laura Mercer;Leah Dawe;Megan Lentz,27,81.333333333,5.574667979,92.0,70.0,,,,,,,,6,9,5,
-UBCO,2016,W,NRSG,201,,004,Nursing Lab Practice II,Brenda Huber;Charlene Strumpel;Colleen Dumanoir;Laura Mercer;Leah Dawe;Megan Lentz,28,79.607142857,4.201757002,87.0,70.0,,,,,,,5,8,11,,
+UBCO,2016,W,NRSG,201,,004,Nursing Lab Practice II,Brenda Huber;Charlene Strumpel;Colleen Dumanoir;Laura Mercer;Leah Dawe;Megan Lentz,28,79.607142857,4.201757002,87.0,70.0,,,,,,,5,8,11,3,
+UBCO,2016,W,NRSG,201,,OVERALL,Nursing Lab Practice II,,114,82.03508771899999,5.528573924,93.0,64.0,,,,,,,12,19,38,32,9
 UBCO,2016,W,NRSG,202,,001,Nursing Lab Practice III,Brenda Huber;Charlene Strumpel;Laura Mercer;Leah Dawe;Sarah Yeske;Taryn Sweeney,29,84.827586207,4.226354098,92.0,75.0,,,,,,,,,9,13,
 UBCO,2016,W,NRSG,202,,002,Nursing Lab Practice III,Artemis Mcdonagh;Brenda Huber;Charlene Strumpel;Kelsi Taron;Leah Dawe,29,86.034482759,6.361057631,93.0,65.0,,,,,,,,,6,8,12
 UBCO,2016,W,NRSG,202,,003,Nursing Lab Practice III,Brenda Huber;Charlene Strumpel;Leah Dawe;Menbere Muluneh;Tikicia Joyce,30,84.633333333,6.54682515,94.0,68.0,,,,,,,,,6,12,7
 UBCO,2016,W,NRSG,202,,004,Nursing Lab Practice III,Brenda Huber;Charlene Strumpel;Hilary Lane;Kaleigh Barton;Leah Dawe,28,83.5,4.132078663,90.0,75.0,,,,,,,,,10,11,
+UBCO,2016,W,NRSG,202,,OVERALL,Nursing Lab Practice III,,116,84.75862069,5.4607225029999995,94.0,65.0,,,,,,,,11,31,44,24
 UBCO,2016,W,NRSG,210,,001,Pharmacology for Nursing I,Allison Kelley;Charlene Strumpel;Jenna Hunter;Linda Drew;Norma Hilsmann;Sheldon Ambler;Zoe Soon,56,82.75,5.834848288,94.0,63.0,,,,,,,,6,19,21,
 UBCO,2016,W,NRSG,210,,002,Pharmacology for Nursing I,Allison Kelley;Charlene Strumpel;Jenna Hunter;Norma Hilsmann;Sheldon Ambler,61,83.540983607,6.724516762,94.0,66.0,,,,,,,,9,15,18,13
 UBCO,2016,W,NRSG,210,,003,Pharmacology for Nursing I,Charlene Strumpel;Jenna Hunter;Norma Hilsmann,64,82.359375,4.88069468,92.0,71.0,,,,,,,,15,18,24,
+UBCO,2016,W,NRSG,210,,OVERALL,Pharmacology for Nursing I,,181,82.878453039,5.836344921,94.0,63.0,,,,,,5,8,30,52,63,20
 UBCO,2016,W,NRSG,220,,001,Pharmacology for Nursing II,Charlene Strumpel;Jenna Hunter;Norma Hilsmann,59,78.86440678,6.182449094,92.0,63.0,,,,,,5,10,16,17,7,
 UBCO,2016,W,NRSG,220,,002,Pharmacology for Nursing II,Charlene Strumpel;Jenna Hunter;Norma Hilsmann,57,80.210526316,7.710699527999999,96.0,60.0,,,,,,6,9,10,10,13,7
 UBCO,2016,W,NRSG,220,,003,Pharmacology for Nursing II,Charlene Strumpel;Jenna Hunter;Norma Hilsmann,62,76.419354839,7.159879995,90.0,56.0,,,,,,6,14,13,14,7,
+UBCO,2016,W,NRSG,220,,OVERALL,Pharmacology for Nursing II,,178,78.443820225,7.176522537,96.0,56.0,,,,5,5,17,33,39,41,27,10
 UBCO,2016,W,NRSG,226,,001,Health & Healing II,Allison Kelley;Charlene Strumpel;Colleen Dumanoir;Laura Mercer;Linda Drew;Sheldon Ambler;Zoe Soon,114,78.50877193,7.196662961,96.0,60.0,,,,,,13,18,25,26,18,7
+UBCO,2016,W,NRSG,226,,OVERALL,Health & Healing II,,114,78.50877193,7.196662961,96.0,60.0,,,,,,13,18,25,26,18,7
 UBCO,2016,W,NRSG,227,,001,Health & Healing III,Charlene Strumpel;Sheila Epp,116,79.310344828,6.8947538889999995,95.0,60.0,,,,,,9,21,23,31,21,6
+UBCO,2016,W,NRSG,227,,OVERALL,Health & Healing III,,116,79.310344828,6.8947538889999995,95.0,60.0,,,,,,9,21,23,31,21,6
 UBCO,2016,W,NRSG,228,,001,Community Health,Colleen Dumanoir;Kim Keats;Sandra Christine Balfour,58,83.810344828,4.370783769,91.0,73.0,,,,,,,,10,20,22,5
 UBCO,2016,W,NRSG,228,,002,Community Health,Colleen Dumanoir;Kim Keats;Sandra Christine Balfour,58,85.724137931,4.958753038999999,96.0,72.0,,,,,,,,6,12,25,14
+UBCO,2016,W,NRSG,228,,OVERALL,Community Health,,116,84.767241379,4.751855946,96.0,72.0,,,,,,,,16,32,47,19
 UBCO,2016,W,NRSG,229,,001,Mental Health,Ashley Mcken;Ashley Nicole Mcken;Bonny Taylor;Colleen Dumanoir;Dennis Jasper;Janelle Zerr;Lauren Airth;Maggie Bannerman;Sandra Christine Balfour;Sarah Stevens,58,85.5,4.653804329,93.0,72.0,,,,,,,,,17,23,13
-UBCO,2016,W,NRSG,229,,002,Mental Health,Ashley Mcken;Ashley Nicole Mcken;Bonny Taylor;Colleen Dumanoir;Dennis Jasper;Janelle Zerr;Maggie Bannerman;Sandra Christine Balfour;Sarah Stevens,59,82.915254237,5.9052522960000005,91.0,64.0,,,,,,,,,24,23,
+UBCO,2016,W,NRSG,229,,002,Mental Health,Ashley Mcken;Ashley Nicole Mcken;Bonny Taylor;Colleen Dumanoir;Dennis Jasper;Janelle Zerr;Maggie Bannerman;Sandra Christine Balfour;Sarah Stevens,59,82.915254237,5.9052522960000005,91.0,64.0,,,,,,,,,24,23,2
+UBCO,2016,W,NRSG,229,,OVERALL,Mental Health,,117,84.196581197,5.455524432000001,93.0,64.0,,,,,,,6,6,41,46,15
 UBCO,2016,W,NRSG,313,,001,Relational Practice III: Connecting Across Difference,Janelle Zerr;Nicole De Bosch Kemper,34,88.11764705899999,2.6487813769999997,92.0,82.0,,,,,,,,,,14,16
 UBCO,2016,W,NRSG,313,,002,Relational Practice III: Connecting Across Difference,Janelle Zerr;Nicole De Bosch Kemper,34,87.970588235,2.679725157,93.0,83.0,,,,,,,,,,20,10
 UBCO,2016,W,NRSG,313,,101,Relational Practice III: Connecting Across Difference,Janelle Zerr;Nicole De Bosch Kemper,40,89.95,2.3960437480000003,96.0,85.0,,,,,,,,,,18,22
 UBCO,2016,W,NRSG,313,,102,Relational Practice III: Connecting Across Difference,Janelle Zerr;Nicole De Bosch Kemper,37,90.108108108,2.3426455109999997,94.0,83.0,,,,,,,,,,11,25
+UBCO,2016,W,NRSG,313,,OVERALL,Relational Practice III: Connecting Across Difference,,145,89.096551724,2.677903766,96.0,82.0,,,,,,,,,9,63,73
 UBCO,2016,W,NRSG,317,,001,Health and Healing V: Complex Health Challenges/Healing Initiatives,Dennis Jasper;Natalie Matthews;Natalie Murdoch;Nicole De Bosch Kemper,72,82.944444444,4.4115370160000005,93.0,73.0,,,,,,,7,7,32,21,5
-UBCO,2016,W,NRSG,317,,101,Health and Healing V: Complex Health Challenges/Healing Initiatives,Cathrine Robinson;Dennis Jasper;Natalie Matthews;Natalie Murdoch;Nicole De Bosch Kemper,73,84.273972603,3.2670929739999996,90.0,75.0,,,,,,,,7,29,34,
+UBCO,2016,W,NRSG,317,,101,Health and Healing V: Complex Health Challenges/Healing Initiatives,Cathrine Robinson;Dennis Jasper;Natalie Matthews;Natalie Murdoch;Nicole De Bosch Kemper,73,84.273972603,3.2670929739999996,90.0,75.0,,,,,,,1,7,29,34,2
+UBCO,2016,W,NRSG,317,,OVERALL,Health and Healing V: Complex Health Challenges/Healing Initiatives,,145,83.613793103,3.9214265530000003,93.0,73.0,,,,,,,8,14,61,55,7
 UBCO,2016,W,NRSG,321,,001,Health and Healing VII: Promoting Community and Societal Health,Erin Bryant;Janis Wegerhoff;Wendy Andrews,73,79.561643836,5.739691971,94.0,68.0,,,,,,7,12,15,26,11,
-UBCO,2016,W,NRSG,321,,101,Health and Healing VII: Promoting Community and Societal Health,Erin Bryant;Janis Wegerhoff;Ravneet Marahar;Wendy Andrews,75,80.16,5.455074503,89.0,67.0,,,,,,,8,16,27,18,
-UBCO,2016,W,NRSG,325,,001,Introduction to Statistics for Nursing,Kimberly A Mckinley;Kimberly Mckinley;Lise Olsen;Wendy Andrews,67,80.776119403,8.824588402,94.0,54.0,,,,,,,,9,18,19,8
+UBCO,2016,W,NRSG,321,,101,Health and Healing VII: Promoting Community and Societal Health,Erin Bryant;Janis Wegerhoff;Ravneet Marahar;Wendy Andrews,75,80.16,5.455074503,89.0,67.0,,,,,,4,8,16,27,18,
+UBCO,2016,W,NRSG,321,,OVERALL,Health and Healing VII: Promoting Community and Societal Health,,148,79.864864865,5.586242392000001,94.0,67.0,,,,,,11,20,31,53,29,
+UBCO,2016,W,NRSG,325,,001,Introduction to Statistics for Nursing,Kimberly A Mckinley;Kimberly Mckinley;Lise Olsen;Wendy Andrews,67,80.776119403,8.824588402,94.0,54.0,,,,,,1,4,9,18,19,8
 UBCO,2016,W,NRSG,325,,002,Introduction to Statistics for Nursing,Kimberly A Mckinley;Kimberly Mckinley;Lise Olsen;Wendy Andrews,67,81.313432836,9.119092451,94.0,57.0,,,,,,5,6,7,11,18,14
-UBCO,2016,W,NRSG,335,,001,Professional Practice IV: Nursing Research,Elizabeth Andersen;Matthew Ferrier;Wendy Andrews,79,77.379746835,6.697308678,92.0,57.0,,,,,,7,11,19,27,7,
+UBCO,2016,W,NRSG,325,,OVERALL,Introduction to Statistics for Nursing,,134,81.04477611899999,8.943318312,94.0,54.0,,,,,7,6,10,16,29,37,22
+UBCO,2016,W,NRSG,335,,001,Professional Practice IV: Nursing Research,Elizabeth Andersen;Matthew Ferrier;Wendy Andrews,79,77.379746835,6.697308678,92.0,57.0,,,,,,7,11,19,27,7,1
 UBCO,2016,W,NRSG,335,,002,Professional Practice IV: Nursing Research,Elizabeth Andersen;Matthew Ferrier;Wendy Andrews,70,79.457142857,8.010293585,93.0,56.0,,,,,,7,5,13,17,17,5
+UBCO,2016,W,NRSG,335,,OVERALL,Professional Practice IV: Nursing Research,,149,78.355704698,7.391625855,93.0,56.0,,,,,7,14,16,32,44,24,6
 UBCO,2016,W,NRSG,420,,001,Health and Healing VI: Global Health Issues,Brittany Marie Swanson;Brittany Swanson;Lisa Moralejo;Muriel Kranabetter,58,84.120689655,4.25122309,93.0,71.0,,,,,,,,,26,20,7
 UBCO,2016,W,NRSG,420,,002,Health and Healing VI: Global Health Issues,Jessica Barker;Lisa Moralejo;Madeleine Greig,71,88.59154929600001,3.37883101,97.0,80.0,,,,,,,,,8,35,28
+UBCO,2016,W,NRSG,420,,OVERALL,Health and Healing VI: Global Health Issues,,129,86.58139534899999,4.39050409,97.0,71.0,,,,,,,,,34,55,35
 UBCO,2016,W,NRSG,421,,001,Health and Healing VIII: Complex Health Challenges/Healing Initiatives,Bonny Taylor;Lisa Moralejo,59,91.20338983100001,3.5708574310000003,94.0,82.0,,,,,,,,,5,10,44
-UBCO,2016,W,NRSG,421,,002,Health and Healing VIII: Complex Health Challenges/Healing Initiatives,Bonny Taylor;Lisa Moralejo,66,92.30303030299999,3.2056186110000002,94.0,81.0,,,,,,,,,,6,56
+UBCO,2016,W,NRSG,421,,002,Health and Healing VIII: Complex Health Challenges/Healing Initiatives,Bonny Taylor;Lisa Moralejo,66,92.30303030299999,3.2056186110000002,94.0,81.0,,,,,,,,,4,6,56
+UBCO,2016,W,NRSG,421,,OVERALL,Health and Healing VIII: Complex Health Challenges/Healing Initiatives,,125,91.78399999999999,3.4138805839999997,94.0,81.0,,,,,,,,,9,16,100
 UBCO,2016,W,NRSG,422,,001,Professional Practice V: Leadership in Nursing,Lisa Moralejo;Sheila Epp,67,81.358208955,4.598094113,94.0,72.0,,,,,,,6,19,28,9,5
-UBCO,2016,W,NRSG,422,,002,Professional Practice V: Leadership in Nursing,Kathy Rush;Lisa Moralejo,60,78.533333333,4.9522009030000005,89.0,67.0,,,,,,,10,21,17,7,
+UBCO,2016,W,NRSG,422,,002,Professional Practice V: Leadership in Nursing,Kathy Rush;Lisa Moralejo,60,78.533333333,4.9522009030000005,89.0,67.0,,,,,,,10,21,17,7,0
+UBCO,2016,W,NRSG,422,,OVERALL,Professional Practice V: Leadership in Nursing,,127,80.023622047,4.956100245,94.0,67.0,,,,,,,16,40,45,16,5
 UBCO,2016,W,NRSG,506,,001,Qualitative Research,Claudia Caxaj;Kimberly A Mckinley;Kimberly Mckinley,11,88.27272727299999,4.027180381,94.0,82.0,,,,,,,,,,5,
+UBCO,2016,W,NRSG,506,,OVERALL,Qualitative Research,,11,88.27272727299999,4.027180381,94.0,82.0,,,,,,,,,,5,
 UBCO,2016,W,NRSG,507,,001,Quantitative Research,Kimberly A Mckinley;Kimberly Mckinley;Lise Olsen,8,81.625,9.560895057,91.0,63.0,,,,,,,,,,,
+UBCO,2016,W,NRSG,507,,OVERALL,Quantitative Research,,8,81.625,9.560895057,91.0,63.0,,,,,,,,,,,
 UBCO,2016,W,NRSG,522,,001,Introduction to Nursing Education,Cathrine Robinson;Maggie Bannerman,14,86.285714286,15.538679141,96.0,34.0,,,,,,,,,,6,7
+UBCO,2016,W,NRSG,522,,OVERALL,Introduction to Nursing Education,,14,86.285714286,15.538679141,96.0,34.0,,,,,,,,,,6,7
 UBCO,2016,W,NRSG,523,,001,Teaching and Learning in Nursing Practice,Adam Fulton;Adam R Fulton;Elizabeth Andersen,10,85.7,7.484057129,92.0,66.0,,,,,,,,,,6,
+UBCO,2016,W,NRSG,523,,OVERALL,Teaching and Learning in Nursing Practice,,10,85.7,7.484057129,92.0,66.0,,,,,,,,,,6,
 UBCO,2016,W,NRSG,542,,001,Introduction to Nursing Leadership and Management,Adam Fulton;Adam R Fulton;Kathy Rush,15,84.466666667,4.373077809,93.0,74.0,,,,,,,,,7,6,
+UBCO,2016,W,NRSG,542,,OVERALL,Introduction to Nursing Leadership and Management,,15,84.466666667,4.373077809,93.0,74.0,,,,,,,,,7,6,
 UBCO,2016,W,NRSG,543,,001,Nursing Leadership and Management in Practice,Carol Laberge,7,87.85714285700001,2.672612419,92.0,85.0,,,,,,,,,,5,
+UBCO,2016,W,NRSG,543,,OVERALL,Nursing Leadership and Management in Practice,,7,87.85714285700001,2.672612419,92.0,85.0,,,,,,,,,,5,

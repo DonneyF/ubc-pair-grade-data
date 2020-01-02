@@ -1,6 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2018,S,APSC,178,,001,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Timothy Westgate;Xian Jin,28,58.285714286,18.194132434,86.0,1.0,5,5,,,,,,,,,
+UBCO,2018,S,APSC,178,,OVERALL,"Electricity, Magnetism, and Waves",,28,58.285714286,18.194132434,86.0,1.0,5,5,,,,,,,,,
 UBCO,2018,S,APSC,180,,001,Statics,Hamid Maghzian;Mohammad Haji Mohammadi;Yu Yan,25,81.2,11.146748405,99.0,48.0,,,,,,,6,,,6,
+UBCO,2018,S,APSC,180,,OVERALL,Statics,,25,81.2,11.146748405,99.0,48.0,,,,,,,6,,,6,
 UBCO,2018,S,APSC,181,,001,Dynamics,John Alan Brereton;Matthew Barriault;Mohammad Hossein Zarifi;Seach Chyr Goh;Sepehr Zarif Mansour,30,73.266666667,12.348204765,100.0,37.0,,,,,5,,,5,,5,
-UBCO,2018,S,APSC,201,,001,Technical Communication,Joanna Cockerline;Laura Patterson,33,68.484848485,8.562714275,80.0,47.0,,,,,5,5,12,,,,
+UBCO,2018,S,APSC,181,,OVERALL,Dynamics,,30,73.266666667,12.348204765,100.0,37.0,,,,,5,,,5,,5,
+UBCO,2018,S,APSC,201,,001,Technical Communication,Joanna Cockerline;Laura Patterson,33,69.060606061,7.66460776,80.0,47.0,,,,,6,5,12,,,,
+UBCO,2018,S,APSC,201,,OVERALL,Technical Communication,,33,69.060606061,7.66460776,80.0,47.0,,,,,6,5,12,,,,
 UBCO,2018,S,APSC,252,,001,Thermodynamics and Heat Transfer,Tharindu Hewa Godella Waththage;Tharindu Prbatha Hewa Godella Waththage;Yu Yan,29,68.620689655,18.317465890999998,96.0,11.0,,,,,,,,6,,,
+UBCO,2018,S,APSC,252,,OVERALL,Thermodynamics and Heat Transfer,,29,68.620689655,18.317465890999998,96.0,11.0,,,,,,,,6,,,

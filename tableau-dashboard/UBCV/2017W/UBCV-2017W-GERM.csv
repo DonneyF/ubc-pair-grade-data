@@ -21,6 +21,7 @@ UBCV,2017,W,GERM,100,,019,Beginners' German I,Daniela Hempen,30,77.2,13.05531996
 UBCV,2017,W,GERM,100,,020,Beginners' German I,Dorothee Leesing;Gela Struch,25,79.92,10.973149047,97.0,53.0,,,,,,,5,,,,6
 UBCV,2017,W,GERM,100,,901,Beginners' German I,Gela Struch;Ingrid Petro,22,83.409090909,7.481145131,95.0,63.0,,,,,,,,,7,7,
 UBCV,2017,W,GERM,100,,902,Beginners' German I,Daniela Hempen,25,77.96,10.678951259,94.0,54.0,,,,,,,6,,,6,
+UBCV,2017,W,GERM,100,,OVERALL,Beginners' German I,,578,78.756055363,13.133536510999999,99.0,0.0,11,12,21,21,29,42,63,58,86,115,120
 UBCV,2017,W,GERM,110,,001,Beginners' German II,Anna Westpfahl;Gela Struch,10,82.4,10.319345371,95.0,64.0,,,,,,,,,,,
 UBCV,2017,W,GERM,110,,003,Beginners' German II,Jason Lieblang,30,79.1,11.567940239,95.0,48.0,,,,,,,,5,5,,6
 UBCV,2017,W,GERM,110,,004,Beginners' German II,Florian Faller,24,77.416666667,11.412870944000002,90.0,51.0,,,,,,,,5,,5,
@@ -29,42 +30,66 @@ UBCV,2017,W,GERM,110,,007,Beginners' German II,Adelheid O'Brien,21,67.380952381,
 UBCV,2017,W,GERM,110,,008,Beginners' German II,Sara Pashan,29,69.89655172399999,13.901040114,94.0,26.0,,,,,,,8,,,,
 UBCV,2017,W,GERM,110,,009,Beginners' German II,Gela Struch,29,74.24137931,13.208912500999999,95.0,38.0,,,,,,,,,,5,
 UBCV,2017,W,GERM,110,,010,Beginners' German II,Ihar Maslenikau,22,75.136363636,8.102295116,89.0,58.0,,,,,,,,5,,,
+UBCV,2017,W,GERM,110,,OVERALL,Beginners' German II,,189,74.735449735,13.014062052,97.0,26.0,8,4.0,7,15,17,16,20,28,26,27,21
 UBCV,2017,W,GERM,200,,001,Intermediate German I,Gela Struch,29,76.482758621,11.651550141,94.0,50.0,,,,,,,6,,6,5,
 UBCV,2017,W,GERM,200,,002,Intermediate German I,Jason Lieblang,22,78.272727273,10.393137929,95.0,60.0,,,,,,,,,,,
 UBCV,2017,W,GERM,200,,003,Intermediate German I,Florian Gassner,22,81.181818182,10.064725595,95.0,61.0,,,,,,,,,,,7
 UBCV,2017,W,GERM,200,,004,Intermediate German I,Sara Pashan,20,71.55,19.310414425,90.0,0.0,,,,,,,5,,5,,
 UBCV,2017,W,GERM,200,,005,Intermediate German I,Florian Faller,12,78.166666667,10.572978709,95.0,60.0,,,,,,,,,5,,
+UBCV,2017,W,GERM,200,,OVERALL,Intermediate German I,,105,77.095238095,12.990028579,95.0,0.0,,,,6,6,10,18,7,21,14,17
 UBCV,2017,W,GERM,210,,001,Intermediate German II,Gela Struch,28,76.178571429,13.027189717999999,97.0,47.0,,,,,,7,,,,5,5
 UBCV,2017,W,GERM,210,,002,Intermediate German II,Sara Pashan,15,77.533333333,9.195236862,94.0,61.0,,,,,,,5,,,,
 UBCV,2017,W,GERM,210,,003,Intermediate German II,Jason Lieblang,18,79.111111111,18.898767121,93.0,10.0,,,,,,,,,,,6
 UBCV,2017,W,GERM,210,,004,Intermediate German II,Florian Faller,15,77.133333333,11.67333143,94.0,57.0,,,,,,,,,,6,
-UBCV,2017,W,GERM,300,,001,Intermediate German III,Caroline Rieger,10,81.3,8.602971063,94.0,68.0,,,,,,,,,,,
+UBCV,2017,W,GERM,210,,OVERALL,Intermediate German II,,76,77.328947368,13.58468565,97.0,10.0,,,,,,12,10,9,5,14,15
+UBCV,2017,W,GERM,300,,001,Intermediate German III,Caroline Rieger,10,81.3,8.602971063,94.0,68.0,,,,,,,0,,,,
 UBCV,2017,W,GERM,300,,002,Intermediate German III,Uma Kumar,23,72.565217391,18.874769323,92.0,0.0,,,,,,,7,,,,
-UBCV,2017,W,GERM,301,,001,German Literature 1900 - 1945 (in English),Thomas Salumets,38,79.710526316,6.017577382000001,87.0,58.0,,,,,,,6,8,12,11,
-UBCV,2017,W,GERM,301,,002,German Literature 1900 - 1945 (in English),Markus Hallensleben;Sabine Zimmermann,47,77.510638298,10.56423898,98.0,56.0,,,,5,,5,,,11,8,6
-UBCV,2017,W,GERM,302,,002,German Literature after 1945 (in English),Daniela Hempen,39,78.948717949,11.080919395,91.0,46.0,,,,,,,,5,7,13,
-UBCV,2017,W,GERM,302,,003,German Literature after 1945 (in English),Laura Isakov;Thomas Salumets,32,77.59375,5.296738953999999,87.0,68.0,,,,,,,5,8,12,,
+UBCV,2017,W,GERM,300,,OVERALL,Intermediate German III,,33,75.212121212,16.803566541,94.0,0.0,,,,,,,7,,5,5,
+UBCV,2017,W,GERM,301,,001,German Literature 1900 - 1945 (in English),Thomas Salumets,38,79.710526316,6.017577382000001,87.0,58.0,,,,0,,0,6,8,12,11,0
+UBCV,2017,W,GERM,301,,002,German Literature 1900 - 1945 (in English),Markus Hallensleben;Sabine Zimmermann,47,77.510638298,10.56423898,98.0,56.0,,,,5,,5,4,3,11,8,6
+UBCV,2017,W,GERM,301,,OVERALL,German Literature 1900 - 1945 (in English),,85,78.494117647,8.847414916,98.0,56.0,,,,5,,5,10,11,23,19,6
+UBCV,2017,W,GERM,302,,002,German Literature after 1945 (in English),Daniela Hempen,39,79.461538462,10.927623505,91.0,46.0,,,,,,,2,5,7,14,
+UBCV,2017,W,GERM,302,,003,German Literature after 1945 (in English),Laura Isakov;Thomas Salumets,32,77.59375,5.296738953999999,87.0,68.0,,,,,,,5,8,12,3,
+UBCV,2017,W,GERM,302,,OVERALL,German Literature after 1945 (in English),,71,78.61971831,8.838820537,91.0,46.0,,,,,,6,7,13,19,17,
 UBCV,2017,W,GERM,303,,001,German Literature Before 1900 (in English),Daniela Hempen,41,77.682926829,12.512871422,91.0,15.0,,,,,,,5,6,13,11,
-UBCV,2017,W,GERM,303,,002,German Literature Before 1900 (in English),Ilinca Iurascu,29,80.0,6.82955761,90.0,57.0,,,,,,,,5,10,7,
+UBCV,2017,W,GERM,303,,002,German Literature Before 1900 (in English),Ilinca Iurascu,29,80.0,6.82955761,90.0,57.0,,,,,,,3,5,10,7,
+UBCV,2017,W,GERM,303,,OVERALL,German Literature Before 1900 (in English),,70,78.642857143,10.536390651,91.0,15.0,,,,,,,8,11,23,18,
 UBCV,2017,W,GERM,304,,002,German Cinema (in English),Dorothee Leesing;Florian Gassner,71,77.38028169,11.027713397000001,99.0,50.0,,,,5,7,7,7,7,15,7,12
+UBCV,2017,W,GERM,304,,OVERALL,German Cinema (in English),,71,77.38028169,11.027713397000001,99.0,50.0,,,,5,7,7,7,7,15,7,12
 UBCV,2017,W,GERM,310,,001,Intermediate German IV,Uma Kumar,6,69.833333333,12.006942436,82.0,48.0,,,,,,,,,,,
 UBCV,2017,W,GERM,310,,002,Intermediate German IV,Caroline Rieger,10,72.1,14.850738852000001,91.0,47.0,,,,,,,,,,,
+UBCV,2017,W,GERM,310,,OVERALL,Intermediate German IV,,16,71.25,13.478377746,91.0,47.0,,,,,,,,,,,
 UBCV,2017,W,GERM,313,,001,Conversational German II,Florian Gassner,28,79.535714286,8.913087102,96.0,50.0,,,,,,,,5,8,,
+UBCV,2017,W,GERM,313,,OVERALL,Conversational German II,,28,79.535714286,8.913087102,96.0,50.0,,,,,,,,5,8,,
 UBCV,2017,W,GERM,314,,001,Business German,Uma Kumar,16,81.625,8.593602271,93.0,66.0,,,,,,,,,,,
+UBCV,2017,W,GERM,314,,OVERALL,Business German,,16,81.625,8.593602271,93.0,66.0,,,,,,,,,,,
 UBCV,2017,W,GERM,325,,001,German Translation,Caroline Rieger,7,79.428571429,4.613644361,87.0,73.0,,,,,,,,,,,
+UBCV,2017,W,GERM,325,,OVERALL,German Translation,,7,79.428571429,4.613644361,87.0,73.0,,,,,,,,,,,
 UBCV,2017,W,GERM,360,,001,Heaven and Earth: Studies in German Culture and Literature before 1700.,Florian Gassner,14,72.428571429,21.830515994000002,89.0,5.0,,,,,,,,,5,,
+UBCV,2017,W,GERM,360,,OVERALL,Heaven and Earth: Studies in German Culture and Literature before 1700.,,14,72.428571429,21.830515994000002,89.0,5.0,,,,,,,,,5,,
 UBCV,2017,W,GERM,380,,001,Tradition and Change: Studies in the 19th Century.,Gaby Pailer,12,83.083333333,6.111960455,90.0,72.0,,,,,,,,,,6,
+UBCV,2017,W,GERM,380,,OVERALL,Tradition and Change: Studies in the 19th Century.,,12,83.083333333,6.111960455,90.0,72.0,,,,,,,,,,6,
 UBCV,2017,W,GERM,400,,001,Advanced German I,Caroline Rieger,23,73.52173913,11.393257835999998,87.0,53.0,,,,,,,,,5,,
+UBCV,2017,W,GERM,400,,OVERALL,Advanced German I,,23,73.52173913,11.393257835999998,87.0,53.0,,,,,,,,,5,,
 UBCV,2017,W,GERM,402,,001,Words and Music in German Literature (in English),Florian Gassner;Irmgard Scheitler-Schmidt,10,84.7,9.753062197,100.0,70.0,,,,,,,,,,,
+UBCV,2017,W,GERM,402,,OVERALL,Words and Music in German Literature (in English),,10,84.7,9.753062197,100.0,70.0,,,,,,,,,,,
 UBCV,2017,W,GERM,406,A,001,Selected Topics in German Literature,Markus Hallensleben,12,86.25,6.032111043,94.0,71.0,,,,,,,,,,6,
+UBCV,2017,W,GERM,406,A,OVERALL,Selected Topics in German Literature,,12,86.25,6.032111043,94.0,71.0,,,,,,,,,,6,
 UBCV,2017,W,GERM,410,,001,Advanced German II,Caroline Rieger,13,73.23076923100001,13.248609022,86.0,46.0,,,,,,,,,5,,
+UBCV,2017,W,GERM,410,,OVERALL,Advanced German II,,13,73.23076923100001,13.248609022,86.0,46.0,,,,,,,,,5,,
 UBCV,2017,W,GERM,411,,001,Major Controversies in German Culture (in English),Daniela Hempen,19,79.421052632,8.636587479,88.0,53.0,,,,,,,,,10,5,
+UBCV,2017,W,GERM,411,,OVERALL,Major Controversies in German Culture (in English),,19,79.421052632,8.636587479,88.0,53.0,,,,,,,,,10,5,
 UBCV,2017,W,GERM,412,,001,German Media Studies (in English),Ilinca Iurascu;Leonidas Anagnostopoulos,43,81.186046512,4.310871163,87.0,65.0,,,,,,,,13,15,13,
+UBCV,2017,W,GERM,412,,OVERALL,German Media Studies (in English),,43,81.186046512,4.310871163,87.0,65.0,,,,,,,,13,15,13,
 UBCV,2017,W,GERM,426,,001,German Representations of the Holocaust (in English),Uma Kumar,26,74.576923077,13.458597480999998,87.0,17.0,,,,,,6,,,6,5,
-UBCV,2017,W,GERM,433,,901,German for Reading Knowledge I,Adelheid O'Brien,43,77.813953488,8.44380814,92.0,55.0,,,,,,5,5,,16,,
-UBCV,2017,W,GERM,433,,902,German for Reading Knowledge I,Ihar Maslenikau,44,82.545454545,10.15794922,95.0,53.0,,,,,,,5,,,13,12
+UBCV,2017,W,GERM,426,,OVERALL,German Representations of the Holocaust (in English),,26,74.576923077,13.458597480999998,87.0,17.0,,,,,,6,,,6,5,
+UBCV,2017,W,GERM,433,,901,German for Reading Knowledge I,Adelheid O'Brien,43,77.813953488,8.44380814,92.0,55.0,,,,,,5,5,,16,4,
+UBCV,2017,W,GERM,433,,902,German for Reading Knowledge I,Ihar Maslenikau,44,82.545454545,10.15794922,95.0,53.0,,,,,,,5,,4,13,12
 UBCV,2017,W,GERM,433,,903,German for Reading Knowledge I,Adelheid O'Brien,43,77.790697674,9.903241748,97.0,59.0,,,,,7,,5,,8,8,5
 UBCV,2017,W,GERM,433,,904,German for Reading Knowledge I,Ihar Maslenikau,43,79.697674419,7.7690928679999995,94.0,67.0,,,,,,7,6,10,6,7,6
 UBCV,2017,W,GERM,433,,905,German for Reading Knowledge I,Ihar Maslenikau,44,76.545454545,8.213586434,93.0,61.0,,,,,,7,5,9,8,5,
+UBCV,2017,W,GERM,433,,OVERALL,German for Reading Knowledge I,,217,78.884792627,9.11503637,97.0,53.0,,,,7,17,24,26,30,42,37,30
 UBCV,2017,W,GERM,434,,902,German for Reading Knowledge II (Languages for special purposes),Adelheid O'Brien,28,82.357142857,7.616815149,96.0,71.0,,,,,,,,,5,6,7
+UBCV,2017,W,GERM,434,,OVERALL,German for Reading Knowledge II (Languages for special purposes),,28,82.357142857,7.616815149,96.0,71.0,,,,,,,,,5,6,7
 UBCV,2017,W,GERM,501,A,001,Literary Theories,Geoffrey Winthrop-Young,6,83.833333333,6.853223086,88.0,70.0,,,,,,,,,,5,
+UBCV,2017,W,GERM,501,A,OVERALL,Literary Theories,,6,83.833333333,6.853223086,88.0,70.0,,,,,,,,,,5,

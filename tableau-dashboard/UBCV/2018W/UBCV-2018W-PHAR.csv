@@ -1,17 +1,34 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,PHAR,405,B,001,Directed Studies in Clinical Pharmacy,Lynda Eccott,16,87.875,23.647057604,98.0,0.0,,,,,,,,,,,13
 UBCV,2018,W,PHAR,405,B,002,Directed Studies in Clinical Pharmacy,Lynda Eccott,11,88.636363636,9.510759457,98.0,68.0,,,,,,,,,,,7
+UBCV,2018,W,PHAR,405,B,OVERALL,Directed Studies in Clinical Pharmacy,,31,88.709677419,17.703471502,98.0,0.0,,,,,,,,,,5,23
 UBCV,2018,W,PHAR,408,,001,Clinical Pharmacokinetics,Harvey Wong;Louis Lin,44,85.340909091,10.295501799,96.0,44.0,,,,,,,,,,17,16
+UBCV,2018,W,PHAR,408,,OVERALL,Clinical Pharmacokinetics,,44,85.340909091,10.295501799,96.0,44.0,,,,,,,,,,17,16
+UBCV,2018,W,PHAR,420,B,OVERALL,Directed Studies in Pharmacy Education,,19,88.57894736799999,7.596167085,99.0,70.0,,,,,,,,,,5,10
 UBCV,2018,W,PHAR,448,,001,Pharmaceutical Toxicology,Colin Ross;Judy Wong;Siyue Yu,14,93.214285714,2.547353723,98.0,88.0,,,,,,,,,,,13
+UBCV,2018,W,PHAR,448,,OVERALL,Pharmaceutical Toxicology,,14,93.214285714,2.547353723,98.0,88.0,,,,,,,,,,,13
 UBCV,2018,W,PHAR,450,F,001,Selected Topics,Ingrid Price;Sachiben Patel;Ujendra Kumar,37,78.297297297,6.10038644,91.0,60.0,,,,,,,6,8,16,,
+UBCV,2018,W,PHAR,450,F,OVERALL,Selected Topics,,37,78.297297297,6.10038644,91.0,60.0,,,,,,,6,8,16,,
 UBCV,2018,W,PHAR,450,H,001,Selected Topics,Ajit Johal;Siyue Yu,47,83.574468085,7.649224686,96.0,63.0,,,,,,,,,14,11,11
+UBCV,2018,W,PHAR,450,H,OVERALL,Selected Topics,,47,83.574468085,7.649224686,96.0,63.0,,,,,,,,,14,11,11
 UBCV,2018,W,PHAR,450,J,001,Selected Topics,Alan Low;Amrinder Sihota;Jillian Reardon;Khalid Saad El Din;Tamiz Jamal Kanji,18,85.444444444,3.6173149319999998,91.0,78.0,,,,,,,,,7,7,
+UBCV,2018,W,PHAR,450,J,OVERALL,Selected Topics,,18,85.444444444,3.6173149319999998,91.0,78.0,,,,,,,,,7,7,
 UBCV,2018,W,PHAR,450,K,001,Selected Topics,Khalid Saad El Din;Patricia Gerber;Yao Chen,16,90.375,2.680174124,94.0,85.0,,,,,,,,,,5,11
+UBCV,2018,W,PHAR,450,K,OVERALL,Selected Topics,,16,90.375,2.680174124,94.0,85.0,,,,,,,,,,5,11
 UBCV,2018,W,PHAR,450,L,001,Selected Topics,Gregory Egan;Yao Chen,39,86.0,4.513138714,92.0,69.0,,,,,,,,,11,16,10
+UBCV,2018,W,PHAR,450,L,OVERALL,Selected Topics,,39,86.0,4.513138714,92.0,69.0,,,,,,,,,11,16,10
 UBCV,2018,W,PHAR,450,N,001,Selected Topics,Karen Dahri;Louis Lin,38,88.39473684200001,4.9129694530000005,97.0,73.0,,,,,,,,,5,15,16
+UBCV,2018,W,PHAR,450,N,OVERALL,Selected Topics,,38,88.39473684200001,4.9129694530000005,97.0,73.0,,,,,,,,,5,15,16
 UBCV,2018,W,PHAR,450,P,001,Selected Topics,Annalijn Conklin;Brian Rodrigues;Maryam Ranjbar Ekbatan,13,92.53846153799999,5.621615791,100.0,83.0,,,,,,,,,,,8
+UBCV,2018,W,PHAR,450,P,OVERALL,Selected Topics,,13,92.53846153799999,5.621615791,100.0,83.0,,,,,,,,,,,8
+UBCV,2018,W,PHAR,453,B,OVERALL,Directed Studies in Pharmacy Practice,,14,91.285714286,4.614835132,99.0,79.0,,,,,,,,,,,11
 UBCV,2018,W,PHAR,456,,001,Applied Pharmacoeconomics,Jialin Xu;Mark Harrison;Mary De Vera,11,82.090909091,6.8184242379999995,94.0,72.0,,,,,,,,,5,,
+UBCV,2018,W,PHAR,456,,OVERALL,Applied Pharmacoeconomics,,11,82.090909091,6.8184242379999995,94.0,72.0,,,,,,,,,5,,
 UBCV,2018,W,PHAR,457,,001,Pharmaceutical Care in Aboriginal Health,Jason Min;Larry Leung;Sachiben Patel,21,92.76190476200001,3.8328157,98.0,85.0,,,,,,,,,,,17
+UBCV,2018,W,PHAR,457,,OVERALL,Pharmaceutical Care in Aboriginal Health,,21,92.76190476200001,3.8328157,98.0,85.0,,,,,,,,,,,17
 UBCV,2018,W,PHAR,458,,001,Pharmacotherapy in Oncology,Judy Wong;Yang Yang,10,82.2,4.779586221000001,89.0,75.0,,,,,,,,,,,
+UBCV,2018,W,PHAR,458,,OVERALL,Pharmacotherapy in Oncology,,10,82.2,4.779586221000001,89.0,75.0,,,,,,,,,,,
 UBCV,2018,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Abby Collier;Marc Levine,12,85.833333333,3.010084062,91.0,82.0,,,,,,,,,5,5,
+UBCV,2018,W,PHAR,590,,OVERALL,Research in the Pharmaceutical Sciences: Principles and Methods,,12,85.833333333,3.010084062,91.0,82.0,,,,,,,,,5,5,
 UBCV,2018,W,PHAR,591,,001,Scholarly Integrity and Research Ethics,Annalijn Conklin,13,87.153846154,6.491611945,96.0,72.0,,,,,,,,,,6,
+UBCV,2018,W,PHAR,591,,OVERALL,Scholarly Integrity and Research Ethics,,13,87.153846154,6.491611945,96.0,72.0,,,,,,,,,,6,

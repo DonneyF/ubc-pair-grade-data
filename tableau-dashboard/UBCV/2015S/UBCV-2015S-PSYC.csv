@@ -1,23 +1,42 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,S,PSYC,101,,921,Introduction to Biological and Cognitive Psychology,Juliette Tobias-Webb;Michael Souza,232,70.375,16.270757638,100.0,2.0,20,14,22,13,24,24,22,20,27,19,27
-UBCV,2015,S,PSYC,102,,921,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Paul Hewitt;Xiaolei Deng,184,66.77173913,14.303962735999999,96.0,4.0,16,17,26,16,23,15,16,18,16,17,
+UBCV,2015,S,PSYC,101,,OVERALL,Introduction to Biological and Cognitive Psychology,,232,70.375,16.270757638,100.0,2.0,20,14,22,13,24,24,22,20,27,19,27
+UBCV,2015,S,PSYC,102,,921,"Introduction to Developmental, Social, Personality, and Clinical Psychology",Paul Hewitt;Xiaolei Deng,184,66.77173913,14.303962735999999,96.0,4.0,16,17,26,16,23,15,16,18,16,17,4.0
+UBCV,2015,S,PSYC,102,,OVERALL,"Introduction to Developmental, Social, Personality, and Clinical Psychology",,184,66.77173913,14.303962735999999,96.0,4.0,16,17,26,16,23,15,16,18,16,17,4.0
 UBCV,2015,S,PSYC,217,,921,Research Methods,Alyssa Croft;Ana Luisa Santana Calisto Pesq;Eleni Nasiopoulos;Kaitlin Laidlaw;Stephanie Chu,89,69.629213483,10.69449946,94.0,49.0,,8,6,12,9,13,8,15,8,7,
+UBCV,2015,S,PSYC,217,,OVERALL,Research Methods,,89,69.629213483,10.69449946,94.0,49.0,,8,6,12,9,13,8,15,8,7,
 UBCV,2015,S,PSYC,218,,951,Analysis of Behavioural Data,Dwayne Hamson;Grace Ai Truong;Grace Truong,66,65.545454545,15.518903429000002,94.0,25.0,6,10,5,8,13,,,5,,5,5
-UBCV,2015,S,PSYC,300,A,98A,Behaviour Disorders,Laura Hanson;Morag Yule,86,67.686046512,20.184596123,96.0,0.0,7,12,,6,,10,14,,18,7,6
-UBCV,2015,S,PSYC,300,A,951,Behaviour Disorders,Chang Chen;Paul Hewitt,82,67.548780488,12.18089218,94.0,42.0,5,8,7,12,14,6,9,6,6,7,
-UBCV,2015,S,PSYC,301,,921,Brain Dysfunction and Recovery,Jennifer Ferris;Michael Souza,91,71.142857143,17.408536494,100.0,0.0,6,8,9,5,8,10,,9,11,11,12
-UBCV,2015,S,PSYC,302,,98A,Infancy,Jiwon Jennifer Na;Jiwon Na;Natasha Pestonji;Vivian Li,83,66.69879518100001,15.716803917,94.0,17.0,13,5,5,5,10,10,9,6,12,7,
+UBCV,2015,S,PSYC,218,,OVERALL,Analysis of Behavioural Data,,66,65.545454545,15.518903429000002,94.0,25.0,6,10,5,8,13,,,5,,5,5
+UBCV,2015,S,PSYC,300,A,951,Behaviour Disorders,Chang Chen;Paul Hewitt,82,67.548780488,12.18089218,94.0,42.0,5,8,7,12,14,6,9,6,6,7,2.0
+UBCV,2015,S,PSYC,300,A,98A,Behaviour Disorders,Laura Hanson;Morag Yule,86,67.686046512,20.184596123,96.0,0.0,7,12,1,6,4,10,14,1,18,7,6
+UBCV,2015,S,PSYC,300,A,OVERALL,Behaviour Disorders,,171,67.30994152,17.336220685,96.0,0.0,13,20,8,18,18,17,23,7,25,14,8
+UBCV,2015,S,PSYC,301,,921,Brain Dysfunction and Recovery,Jennifer Ferris;Michael Souza,91,71.142857143,17.408536494,100.0,0.0,6,8,9,5,8,10,2.0,9,11,11,12
+UBCV,2015,S,PSYC,301,,OVERALL,Brain Dysfunction and Recovery,,91,71.142857143,17.408536494,100.0,0.0,6,8,9,5,8,10,2.0,9,11,11,12
+UBCV,2015,S,PSYC,302,,98A,Infancy,Jiwon Jennifer Na;Jiwon Na;Natasha Pestonji;Vivian Li,83,66.69879518100001,15.716803917,94.0,17.0,13,5,5,5,10,10,9,6,12,7,1.0
+UBCV,2015,S,PSYC,302,,OVERALL,Infancy,,84,66.547619048,15.683161688,94.0,17.0,13,6,5,5,10,10,9,6,12,7,1.0
 UBCV,2015,S,PSYC,304,,921,Brain and Behaviour,Cameron Parro;Michael Barrus;Steven Barnes,58,68.431034483,18.299757518,98.0,15.0,7,,9,,6,,,5,6,6,8
+UBCV,2015,S,PSYC,304,,OVERALL,Brain and Behaviour,,62,68.580645161,17.763979383,98.0,15.0,7,,9,5,6,,,6,6,6,8
 UBCV,2015,S,PSYC,305,A,921,Personality Psychology,David Brian King;David King;Sophie Lanthier,195,71.948717949,12.677499993,92.0,0.0,7,7,11,15,18,28,26,25,30,23,5
+UBCV,2015,S,PSYC,305,A,OVERALL,Personality Psychology,,195,71.948717949,12.677499993,92.0,0.0,7,7,11,15,18,28,26,25,30,23,5
 UBCV,2015,S,PSYC,307,,951,Cultural Psychology,Daniel Sude;Sayyed Mohsen Fatemi,98,70.469387755,11.893170597000001,91.0,50.0,,10,15,6,9,12,7,9,16,10,
+UBCV,2015,S,PSYC,307,,OVERALL,Cultural Psychology,,100,70.14,12.005907637,91.0,50.0,,11,16,6,9,12,7,9,16,10,
 UBCV,2015,S,PSYC,309,A,921,Cognitive Processes,Melanie Tremblay;Michael Souza;Stefan Bourrier;Stefan Christian Bourrier,127,71.472440945,17.479614781,100.0,0.0,11,6,8,10,11,14,13,11,15,9,19
-UBCV,2015,S,PSYC,314,,98A,Health Psychology,Anita De Longis;Ellen Stephenson,92,69.543478261,14.0269858,93.0,1.0,,7,5,13,10,11,7,18,7,9,
+UBCV,2015,S,PSYC,309,A,OVERALL,Cognitive Processes,,127,71.472440945,17.479614781,100.0,0.0,11,6,8,10,11,14,13,11,15,9,19
 UBCV,2015,S,PSYC,314,,951,Health Psychology,Anita Hibbert;David Brian King;David King;Mark Lam,198,70.050505051,11.556854592,95.0,35.0,5,16,17,20,23,26,18,27,25,16,5
+UBCV,2015,S,PSYC,314,,98A,Health Psychology,Anita De Longis;Ellen Stephenson,92,69.543478261,14.0269858,93.0,1.0,4,7,5,13,10,11,7,18,7,9,2
+UBCV,2015,S,PSYC,314,,OVERALL,Health Psychology,,292,69.64726027399999,12.859893675,95.0,1.0,9,23,22,34,33,37,25,45,32,25,7
 UBCV,2015,S,PSYC,321,,921,Environmental Psychology,Kevin Hamilton;Lisa Chiyun Zhang;Lisa Zhang,123,68.195121951,9.007882282999999,93.0,50.0,,11,9,16,19,22,22,7,15,,
+UBCV,2015,S,PSYC,321,,OVERALL,Environmental Psychology,,123,68.195121951,9.007882282999999,93.0,50.0,,11,9,16,19,22,22,7,15,,
 UBCV,2015,S,PSYC,325,,951,Socialization: Media Content and Effects,Klint Fung;Klint Wing Hei Fung;Sayyed Mohsen Fatemi,147,68.578231293,10.471046297000001,87.0,0.0,,9,7,21,27,18,31,14,14,,
-UBCV,2015,S,PSYC,350,A,921,Psychological Aspects of Human Sexuality,Cara Dunkley;Ryan Watson,118,69.966101695,10.548165639,94.0,45.0,,6,11,12,16,19,17,8,15,8,
-UBCV,2015,S,PSYC,350,A,951,Psychological Aspects of Human Sexuality,Terri-Lynn Mackay;Xijuan Cathy Zhang;Xijuan Zhang,115,69.77391304300001,12.773369275,93.0,38.0,7,7,10,11,14,14,16,5,10,18,
+UBCV,2015,S,PSYC,325,,OVERALL,Socialization: Media Content and Effects,,147,68.578231293,10.471046297000001,87.0,0.0,,9,7,21,27,18,31,14,14,,
+UBCV,2015,S,PSYC,350,A,921,Psychological Aspects of Human Sexuality,Cara Dunkley;Ryan Watson,118,69.966101695,10.548165639,94.0,45.0,3,6,11,12,16,19,17,8,15,8,3.0
+UBCV,2015,S,PSYC,350,A,951,Psychological Aspects of Human Sexuality,Terri-Lynn Mackay;Xijuan Cathy Zhang;Xijuan Zhang,115,69.77391304300001,12.773369275,93.0,38.0,7,7,10,11,14,14,16,5,10,18,3.0
+UBCV,2015,S,PSYC,350,A,OVERALL,Psychological Aspects of Human Sexuality,,233,69.871244635,11.674489086,94.0,38.0,10,13,21,23,30,33,33,13,25,26,6
 UBCV,2015,S,PSYC,417,A,921,Special Topics in Psychology,Benjamin Cheung;Sunaina Assanand,9,86.888888889,3.179797338,91.0,82.0,,,,,,,,,,,
+UBCV,2015,S,PSYC,417,A,OVERALL,Special Topics in Psychology,,9,86.888888889,3.179797338,91.0,82.0,,,,,,,,,,,
 UBCV,2015,S,PSYC,549,,941,Master's Thesis,,24,90.666666667,4.8514154519999995,97.0,75.0,,,,,,,,,,6,16
+UBCV,2015,S,PSYC,549,,OVERALL,Master's Thesis,,24,90.666666667,4.8514154519999995,97.0,75.0,,,,,,,,,,6,16
 UBCV,2015,S,PSYC,567,,921,Personality Dimensions and Structure,Delroy Paulhus,7,92.14285714299999,2.911389784,98.0,90.0,,,,,,,,,,,7
+UBCV,2015,S,PSYC,567,,OVERALL,Personality Dimensions and Structure,,7,92.14285714299999,2.911389784,98.0,90.0,,,,,,,,,,,7
 UBCV,2015,S,PSYC,588,A,921,Special Topics in Social and Personality Development,Andrew Baron,11,92.818181818,4.166969686,100.0,83.0,,,,,,,,,,,10
+UBCV,2015,S,PSYC,588,A,OVERALL,Special Topics in Social and Personality Development,,11,92.818181818,4.166969686,100.0,83.0,,,,,,,,,,,10

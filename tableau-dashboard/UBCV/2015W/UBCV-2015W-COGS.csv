@@ -1,10 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,COGS,200,,001,Introduction to Cognitive Systems,David Marino;Jude Crasta;Padmapriya Arasanipalai Kandhad;Thomas Jacob Bittner;Ulysses Bernardet;Viorica Hrincu;Viorica Marie Hrincu,146,70.801369863,10.729025963,93.0,33.0,6,,16,13,17,17,21,21,24,8,
-UBCV,2015,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Hanxing Zhang;Katya Celine Feffer;Katya Feffer;Laurel Fais;Thomas Jacob Bittner,126,66.73015873,9.066344532,86.0,43.0,,11,8,19,22,25,17,7,11,,
+UBCV,2015,W,COGS,200,,001,Introduction to Cognitive Systems,David Marino;Jude Crasta;Padmapriya Arasanipalai Kandhad;Thomas Jacob Bittner;Ulysses Bernardet;Viorica Hrincu;Viorica Marie Hrincu,146,70.801369863,10.729025963,93.0,33.0,6,1,16,13,17,17,21,21,24,8,2.0
+UBCV,2015,W,COGS,200,,002,Introduction to Cognitive Systems,Alan Mackworth;Hanxing Zhang;Katya Celine Feffer;Katya Feffer;Laurel Fais;Thomas Jacob Bittner,126,66.73015873,9.066344532,86.0,43.0,3,11,8,19,22,25,17,7,11,3,0.0
+UBCV,2015,W,COGS,200,,OVERALL,Introduction to Cognitive Systems,,272,68.915441176,10.180484757999999,93.0,33.0,9,12,24,32,39,42,38,28,35,11,2.0
 UBCV,2015,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Hanxing Zhang;Sean Clarke;Ulysses Bernardet,35,75.8,9.423999401,90.0,51.0,,,,,,6,,6,6,5,
-UBCV,2015,W,COGS,300,,002,Understanding and Designing Cognitive Systems,Adrien Fried;Jude Crasta;Peter Danielson,45,80.377777778,7.915143393999999,96.0,60.0,,,,,,,,8,11,13,
-UBCV,2015,W,COGS,303,,001,Research Methods in Cognitive Systems,Ronald Rensink;Tess Forest,35,73.314285714,8.943520259,91.0,54.0,,,,,,5,9,5,6,,
-UBCV,2015,W,COGS,303,,002,Research Methods in Cognitive Systems,Ronald Rensink;Tess Forest,32,71.6875,8.671188853,85.0,50.0,,,,5,,,10,,5,,
-UBCV,2015,W,COGS,401,,001,Seminar in Cognitive Systems,Lawrence Ward;Mary Forbes,24,78.041666667,7.398467331,90.0,55.0,,,,,,,,,8,,
+UBCV,2015,W,COGS,300,,002,Understanding and Designing Cognitive Systems,Adrien Fried;Jude Crasta;Peter Danielson,45,80.377777778,7.915143393999999,96.0,60.0,,,,,,3,,8,11,13,
+UBCV,2015,W,COGS,300,,OVERALL,Understanding and Designing Cognitive Systems,,80,78.375,8.850909987,96.0,51.0,,,,,5,9,7,14,17,18,5
+UBCV,2015,W,COGS,303,,001,Research Methods in Cognitive Systems,Ronald Rensink;Tess Forest,35,73.314285714,8.943520259,91.0,54.0,,,,2,,5,9,5,6,,
+UBCV,2015,W,COGS,303,,002,Research Methods in Cognitive Systems,Ronald Rensink;Tess Forest,32,71.6875,8.671188853,85.0,50.0,,,,5,,4,10,4,5,,
+UBCV,2015,W,COGS,303,,OVERALL,Research Methods in Cognitive Systems,,67,72.53731343300001,8.785884613,91.0,50.0,,,,7,,9,19,9,11,,
+UBCV,2015,W,COGS,401,,001,Seminar in Cognitive Systems,Lawrence Ward;Mary Forbes,24,78.041666667,7.398467331,90.0,55.0,,,,,,3,4,4,8,,
 UBCV,2015,W,COGS,401,,002,Seminar in Cognitive Systems,Edward Grover;Lawrence Ward,35,75.314285714,5.443676464,86.0,61.0,,,,,,6,8,6,11,,
+UBCV,2015,W,COGS,401,,OVERALL,Seminar in Cognitive Systems,,59,76.423728814,6.395589509,90.0,55.0,,,,,,9,12,10,19,,
 UBCV,2015,W,COGS,402,,002,Research in Cognitive Systems,Eric Vatikiotis-Bateson,29,86.482758621,5.448595426,95.0,74.0,,,,,,,,,,11,10
+UBCV,2015,W,COGS,402,,OVERALL,Research in Cognitive Systems,,29,86.482758621,5.448595426,95.0,74.0,,,,,,,,,,11,10

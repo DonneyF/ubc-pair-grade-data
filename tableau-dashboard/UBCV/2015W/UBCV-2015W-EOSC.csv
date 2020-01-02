@@ -1,107 +1,183 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,EOSC,110,,101,The Solid Earth: A Dynamic Planet,Bart De Baere;Evelyn Da Motta Freres;Georgia Peterson;Luca Malaguti;Lucy Porritt,184,73.152173913,12.53404961,97.0,2.0,,,12,15,18,22,18,26,30,25,12
-UBCV,2015,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Ashley Davidson;Fred Conn;Georgia Peterson;Lian Kwong;Lucy Porritt;Stuart Sutherland,212,74.754716981,12.345201742999999,95.0,5.0,5,,9,19,22,26,22,21,34,27,24
-UBCV,2015,W,EOSC,110,,V01,The Solid Earth: A Dynamic Planet,Brett Gilley;Georgia Peterson,18,76.277777778,12.777763569000001,90.0,34.0,,,,,,,,,5,,
+UBCV,2015,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Ashley Davidson;Fred Conn;Georgia Peterson;Lian Kwong;Lucy Porritt;Stuart Sutherland,212,74.754716981,12.345201742999999,95.0,5.0,5,3.0,9,19,22,26,22,21,34,27,24
+UBCV,2015,W,EOSC,110,,OVERALL,The Solid Earth: A Dynamic Planet,,414,74.108695652,12.450785315,97.0,2.0,9,6,21,34,42,49,41,51,69,54,38
+UBCV,2015,W,EOSC,110,,V01,The Solid Earth: A Dynamic Planet,Brett Gilley;Georgia Peterson,18,76.277777778,12.777763569000001,90.0,34.0,,,0,0,2,1,1,4,5,2,2
 UBCV,2015,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Alexander Wilson;Jordan Zak;Mollie Mcdowell;Natalie Cook;Pedro Odon;Roger Beckie;Shane Rich,23,82.782608696,9.867101084,92.0,51.0,,,,,,,,,,13,
 UBCV,2015,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Alexander Wilson;Jordan Zak;Mollie Mcdowell;Natalie Cook;Pedro Odon;Roger Beckie;Shane Rich,22,83.727272727,8.321983612999999,93.0,62.0,,,,,,,,,,9,5
 UBCV,2015,W,EOSC,111,,L1C,Laboratory Exploration of Planet Earth,Alexander Wilson;Jordan Zak;Mollie Mcdowell;Natalie Cook;Pedro Odon;Roger Beckie;Shane Rich,22,85.227272727,6.210067235,94.0,70.0,,,,,,,,,,9,6
 UBCV,2015,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Alexander Wilson;Jordan Zak;Mollie Mcdowell;Natalie Cook;Pedro Odon;Roger Beckie;Shane Rich,18,79.611111111,11.617121689000001,95.0,50.0,,,,,,,,,,7,
 UBCV,2015,W,EOSC,111,,L1F,Laboratory Exploration of Planet Earth,Alexander Wilson;Jordan Zak;Mollie Mcdowell;Natalie Cook;Pedro Odon;Roger Beckie;Shane Rich,24,81.375,12.805611880999999,94.0,30.0,,,,,,,,,5,9,
-UBCV,2015,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Jordan Zak;Matthew Gaudet;Roger Beckie,12,79.25,15.82934559,94.0,38.0,,,,,,,,,,,5
+UBCV,2015,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Jordan Zak;Matthew Gaudet;Roger Beckie,12,79.25,15.82934559,94.0,38.0,,,,,,,,,,0,5
 UBCV,2015,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Jordan Zak;Luca Malaguti;Roger Beckie,20,82.55,10.359206432,94.0,57.0,,,,,,,,,,6,6
 UBCV,2015,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Jordan Zak;Pedro Odon;Roger Beckie,29,84.724137931,7.00457275,96.0,60.0,,,,,,,,5,7,10,6
 UBCV,2015,W,EOSC,111,,L2F,Laboratory Exploration of Planet Earth,Jordan Zak;Roger Beckie;Yulia Egorova,23,84.260869565,10.601103679,98.0,57.0,,,,,,,,,,6,8
 UBCV,2015,W,EOSC,111,,L2H,Laboratory Exploration of Planet Earth,Mollie Mcdowell;Roger Beckie,27,85.074074074,8.783401855,93.0,54.0,,,,,,,,,6,6,11
+UBCV,2015,W,EOSC,111,,OVERALL,Laboratory Exploration of Planet Earth,,220,83.18636363600001,10.003506027,98.0,30.0,,,,,5,7,9,19,37,75,56
 UBCV,2015,W,EOSC,112,,101,The Fluid Earth: Atmosphere and Ocean,Alysia Elizabeth Herr;Alysia Herr;Aram Goodwin;Camilio Rada Giacaman;Sara Harris;Stephanie Block;Yulia Egorova,312,77.11217948699999,13.574265622999999,98.0,14.0,11,7,14,16,19,28,29,23,62,52,51
 UBCV,2015,W,EOSC,112,,201,The Fluid Earth: Atmosphere and Ocean,Aram Goodwin;Kohen Bauer;Roger Francois;Yulia Egorova,275,74.192727273,17.363522618,100.0,14.0,22,23,12,14,14,19,31,8,45,31,56
-UBCV,2015,W,EOSC,114,,99A,The Catastrophic Earth: Natural Disasters,Anna Angelika Hippmann;Anna Hippmann;Anna Posacka;Leah May Ver;Luke Hilchie,309,73.870550162,13.849002730999999,97.0,0.0,12,,9,22,23,31,46,42,51,44,26
-UBCV,2015,W,EOSC,114,,99C,The Catastrophic Earth: Natural Disasters,Anna Angelika Hippmann;Anna Hippmann;Leah May Ver;Michael Lipsen,203,71.428571429,14.014086669000001,100.0,0.0,9,5,9,12,22,24,39,27,25,20,11
-UBCV,2015,W,EOSC,114,,99D,The Catastrophic Earth: Natural Disasters,Anna Grau Galofre;Leah May Ver;Luke Hilchie;Michael Lipsen,272,76.988970588,11.176703319000001,96.0,0.0,5,5,7,5,13,20,35,48,61,45,28
+UBCV,2015,W,EOSC,112,,OVERALL,The Fluid Earth: Atmosphere and Ocean,,587,75.744463373,15.5205286,100.0,14.0,33,30,26,30,33,47,60,31,107,83,107
 UBCV,2015,W,EOSC,114,,101,The Catastrophic Earth: Natural Disasters,Andrew Matthew Snauffer;Aram Goodwin;Brett Gilley;Jacquie-Lee Thibault;Leah May Ver;Lucy Porritt;Mekdes Ayalew Tessema;Mekdes Tessema;Michael Lipsen;Roland Stull,339,74.32743362800001,11.01970463,97.0,39.0,8,5,15,25,30,34,38,50,63,48,23
-UBCV,2015,W,EOSC,114,,102,The Catastrophic Earth: Natural Disasters,Arran John Charles Whiteford;Arran Whiteford;Brett Gilley;Leah May Ver;Lucy Porritt;Manuel Colombo;Marina Martindale;Michael Lipsen;Roland Stull,311,73.106109325,11.576881634000001,97.0,0.0,,7,17,24,33,30,43,50,49,42,12
+UBCV,2015,W,EOSC,114,,102,The Catastrophic Earth: Natural Disasters,Arran John Charles Whiteford;Arran Whiteford;Brett Gilley;Leah May Ver;Lucy Porritt;Manuel Colombo;Marina Martindale;Michael Lipsen;Roland Stull,311,73.106109325,11.576881634000001,97.0,0.0,4.0,7,17,24,33,30,43,50,49,42,12
 UBCV,2015,W,EOSC,114,,201,The Catastrophic Earth: Natural Disasters,Arran John Charles Whiteford;Arran Whiteford;Brett Gilley;James Kelly Russell;Jingxuan Li;Lucy Porritt;Maria Maldonado-Pareja;Mekdes Ayalew Tessema;Mekdes Tessema;Natalie Dalton Mahara;Natalie Mahara;Nicolas Poves;Roland Stull;Stuart Sutherland,337,71.139465875,13.203134222000001,99.0,0.0,16,11,26,26,47,37,42,31,48,35,18
 UBCV,2015,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Brett Gilley;Camilio Rada Giacaman;James Kelly Russell;Lucy Porritt;Maria Maldonado-Pareja;Roland Stull;Stuart Sutherland;Yuliya Kuzmenko,332,71.457831325,13.405640879000002,95.0,0.0,14,9,23,27,35,41,41,40,52,33,17
-UBCV,2015,W,EOSC,116,,99A,Mesozoic Earth: Time of the Dinosaurs.,Genevieve Mary Patton;Genevieve Patton;Louise Longridge,70,74.742857143,11.570434229000002,98.0,41.0,,,6,,5,8,9,8,18,,7
-UBCV,2015,W,EOSC,116,,99C,Mesozoic Earth: Time of the Dinosaurs.,Genevieve Mary Patton;Genevieve Patton;Louise Longridge;Mollie Mcdowell,118,72.62711864399999,14.809212085,96.0,0.0,7,,,10,14,18,9,12,17,9,16
-UBCV,2015,W,EOSC,116,,201,Mesozoic Earth: Time of the Dinosaurs.,Jacquie-Lee Thibault;James Mortensen;Natasha Urbancic;Stuart Sutherland;Timothy Hayward,235,72.685106383,13.138756181,99.0,0.0,,8,19,21,27,32,27,19,38,16,24
+UBCV,2015,W,EOSC,114,,99A,The Catastrophic Earth: Natural Disasters,Anna Angelika Hippmann;Anna Hippmann;Anna Posacka;Leah May Ver;Luke Hilchie,309,73.870550162,13.849002730999999,97.0,0.0,12,3.0,9,22,23,31,46,42,51,44,26
+UBCV,2015,W,EOSC,114,,99C,The Catastrophic Earth: Natural Disasters,Anna Angelika Hippmann;Anna Hippmann;Leah May Ver;Michael Lipsen,203,71.428571429,14.014086669000001,100.0,0.0,9,5,9,12,22,24,39,27,25,20,11
+UBCV,2015,W,EOSC,114,,99D,The Catastrophic Earth: Natural Disasters,Anna Grau Galofre;Leah May Ver;Luke Hilchie;Michael Lipsen,272,76.988970588,11.176703319000001,96.0,0.0,5,5,7,5,13,20,35,48,61,45,28
+UBCV,2015,W,EOSC,114,,OVERALL,The Catastrophic Earth: Natural Disasters,,2105,73.16627078399999,12.735272662,100.0,0.0,68,45,107,142,203,217,284,288,349,267,135
+UBCV,2015,W,EOSC,116,,201,Mesozoic Earth: Time of the Dinosaurs.,Jacquie-Lee Thibault;James Mortensen;Natasha Urbancic;Stuart Sutherland;Timothy Hayward,235,72.685106383,13.138756181,99.0,0.0,4.0,8,19,21,27,32,27,19,38,16,24
+UBCV,2015,W,EOSC,116,,99A,Mesozoic Earth: Time of the Dinosaurs.,Genevieve Mary Patton;Genevieve Patton;Louise Longridge,70,74.742857143,11.570434229000002,98.0,41.0,3.0,0.0,6,2,5,8,9,8,18,4,7
+UBCV,2015,W,EOSC,116,,99C,Mesozoic Earth: Time of the Dinosaurs.,Genevieve Mary Patton;Genevieve Patton;Louise Longridge;Mollie Mcdowell,118,72.62711864399999,14.809212085,96.0,0.0,7,2.0,4,10,14,18,9,12,17,9,16
+UBCV,2015,W,EOSC,116,,OVERALL,Mesozoic Earth: Time of the Dinosaurs.,,425,72.910588235,13.459811105,99.0,0.0,14,11,29,33,47,58,45,39,73,29,47
 UBCV,2015,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Cody Steven;Dana Caudle;David Turner;Marie Turnbull,257,75.610894942,15.211155638,100.0,0.0,15,5,8,12,20,15,28,36,39,46,33
-UBCV,2015,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Dana Caudle;David Turner;Donald Lake;Erika Schmidt,299,76.260869565,15.697181829000002,100.0,0.0,15,9,,15,16,40,27,23,57,41,54
+UBCV,2015,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Dana Caudle;David Turner;Donald Lake;Erika Schmidt,299,76.260869565,15.697181829000002,100.0,0.0,15,9,2.0,15,16,40,27,23,57,41,54
+UBCV,2015,W,EOSC,118,,OVERALL,Earth's Treasures: Gold and Gems,,556,75.960431655,15.463944085,100.0,0.0,30,14,10,27,36,55,55,59,96,87,87
 UBCV,2015,W,EOSC,210,,101,Earth Science for Engineers,Erik Eberhardt;Susan Hollingshead,246,72.341463415,11.311781302,96.0,40.0,7,8,17,27,27,25,26,35,36,27,11
+UBCV,2015,W,EOSC,210,,OVERALL,Earth Science for Engineers,,246,72.341463415,11.311781302,96.0,40.0,7,8,17,27,27,25,26,35,36,27,11
 UBCV,2015,W,EOSC,211,,101,"Computer Methods in Earth, Ocean and Atmospheric Sciences",Benjamin Moore Malley;Camilio Rada Giacaman;Catherine Johnson;Natasha Urbancic;Richard Pawlowicz,78,77.5,11.386652017000001,90.0,21.0,,,,,,6,11,10,27,15,
+UBCV,2015,W,EOSC,211,,OVERALL,"Computer Methods in Earth, Ocean and Atmospheric Sciences",,78,77.5,11.386652017000001,90.0,21.0,,,,,,6,11,10,27,15,
 UBCV,2015,W,EOSC,212,,101,Topics in the Earth and Planetary Sciences.,Andrew Jellinek;Johanand Gilchrist,55,75.018181818,6.237553263,88.0,55.0,,,,,,6,16,13,13,,
+UBCV,2015,W,EOSC,212,,OVERALL,Topics in the Earth and Planetary Sciences.,,55,75.018181818,6.237553263,88.0,55.0,,,,,,6,16,13,13,,
 UBCV,2015,W,EOSC,220,,101,Introductory Mineralogy,Anais Fourny;Catherine Armstrong;Catherine Jean Armstrong;Lauren Harrison;Mary Lou Bevier;Matthijs Smit;Nicole Williamson;Tom Ver Hoeve,111,73.972972973,7.845623516,91.0,44.0,,,,9,6,19,20,22,25,,
+UBCV,2015,W,EOSC,220,,OVERALL,Introductory Mineralogy,,111,73.972972973,7.845623516,91.0,44.0,,,,9,6,19,20,22,25,,
 UBCV,2015,W,EOSC,221,,201,Introductory Petrology,Constanza Nicolau Del Roure Eylerts;Erica Tso;Idalia A. Machuca;Idalia Machuca;Marina Martindale;Maya Kopylova;Paula Brunetti;Robert Bernard Emo;Robert Emo;Stuart Sutherland;Vedran Pobric,88,69.818181818,11.31324669,90.0,13.0,,,,8,20,13,17,10,10,,
+UBCV,2015,W,EOSC,221,,OVERALL,Introductory Petrology,,88,69.818181818,11.31324669,90.0,13.0,,,,8,20,13,17,10,10,,
 UBCV,2015,W,EOSC,222,,201,Geological Time and Stratigraphy,Idalia A. Machuca;Idalia Machuca;Paul Laurence Smith;Rhylan Mcmillan,69,75.68115942,8.772438043,93.0,38.0,,,,,6,6,15,12,11,13,
+UBCV,2015,W,EOSC,222,,OVERALL,Geological Time and Stratigraphy,,69,75.68115942,8.772438043,93.0,38.0,,,,,6,6,15,12,11,13,
 UBCV,2015,W,EOSC,223,,201,Field Techniques,Dana Caudle;Donald Lake;James Mortensen;Jamie Alistair Cutts;Jamie Cutts;Kirsten Anne Simpson;Kirsten Simpson;Mary Lou Bevier;Paul Laurence Smith;Robert Marc Bustin;Stephen Barlett,65,72.461538462,10.298781668,85.0,8.0,,,,,6,19,14,7,13,,
+UBCV,2015,W,EOSC,223,,OVERALL,Field Techniques,,65,72.461538462,10.298781668,85.0,8.0,,,,,6,19,14,7,13,,
 UBCV,2015,W,EOSC,240,,201,Site Investigation,Gunho Oh;Luca Malaguti;Susan Hollingshead,49,80.816326531,10.923356988,95.0,21.0,,,,,,5,,8,13,14,5
+UBCV,2015,W,EOSC,240,,OVERALL,Site Investigation,,49,80.816326531,10.923356988,95.0,21.0,,,,,,5,,8,13,14,5
 UBCV,2015,W,EOSC,250,,201,Fields and Fluxes,Arran John Charles Whiteford;Arran Whiteford;Christian Schoof,25,71.32,20.519746587,88.0,6.0,,,,,,,,,6,,
+UBCV,2015,W,EOSC,250,,OVERALL,Fields and Fluxes,,25,71.32,20.519746587,88.0,6.0,,,,,,,,,6,,
 UBCV,2015,W,EOSC,270,,201,Marine Ecosystems,Alysia Elizabeth Herr;Alysia Herr;Maria Maldonado-Pareja,50,85.38,8.218669638,96.0,58.0,,,,,,,,,5,23,15
-UBCV,2015,W,EOSC,310,,99A,The Earth and the Solar System,Alexandre Plourde;Anna Mittelholz;Kirsten Hodge,152,76.519736842,12.661131215,95.0,20.0,9,,,,8,12,16,25,35,31,12
+UBCV,2015,W,EOSC,270,,OVERALL,Marine Ecosystems,,50,85.38,8.218669638,96.0,58.0,,,,,,,,,5,23,15
+UBCV,2015,W,EOSC,310,,99A,The Earth and the Solar System,Alexandre Plourde;Anna Mittelholz;Kirsten Hodge,152,76.519736842,12.661131215,95.0,20.0,9,0,,,8,12,16,25,35,31,12
 UBCV,2015,W,EOSC,310,,99C,The Earth and the Solar System,Anna Mittelholz;Louise Longridge,103,73.242718447,15.959179557,96.0,0.0,7,10,,,8,5,12,6,24,17,10
+UBCV,2015,W,EOSC,310,,OVERALL,The Earth and the Solar System,,257,75.245136187,14.107228369000001,96.0,0.0,16,10,2.0,6,16,17,28,32,59,49,22
 UBCV,2015,W,EOSC,311,,99C,The Earth and its Resources,Michelle Lamberson;Tse Chao;Tse Hua Chao,64,72.671875,14.477190255999998,96.0,22.0,5,,,5,5,,8,9,8,14,
-UBCV,2015,W,EOSC,314,,99A,The Ocean Environment,Leah May Ver;Nari Sim,61,69.163934426,18.867238208,90.0,0.0,8,,,,,8,,7,6,14,
-UBCV,2015,W,EOSC,314,,99C,The Ocean Environment,Anna Posacka;Leah May Ver,54,69.481481481,13.065496460999999,94.0,29.0,,,,7,6,6,7,5,7,,
-UBCV,2015,W,EOSC,315,,99A,The Ocean Ecosystem,Jingxuan Li;Michael Lipsen,66,73.984848485,17.529309455,97.0,0.0,,,,,,,10,11,12,12,5
-UBCV,2015,W,EOSC,315,,99C,The Ocean Ecosystem,Michael Lipsen;Nari Sim,66,74.636363636,10.795492455,96.0,51.0,,,8,,6,7,5,12,11,10,5
+UBCV,2015,W,EOSC,311,,OVERALL,The Earth and its Resources,,64,72.671875,14.477190255999998,96.0,22.0,5,,,5,5,,8,9,8,14,
+UBCV,2015,W,EOSC,314,,99A,The Ocean Environment,Leah May Ver;Nari Sim,61,69.163934426,18.867238208,90.0,0.0,8,,,4,4,8,4,7,6,14,
+UBCV,2015,W,EOSC,314,,99C,The Ocean Environment,Anna Posacka;Leah May Ver,54,69.481481481,13.065496460999999,94.0,29.0,3,,,7,6,6,7,5,7,4,
+UBCV,2015,W,EOSC,314,,OVERALL,The Ocean Environment,,115,69.313043478,16.332276309,94.0,0.0,11,5,5,11,10,14,11,12,13,18,5
 UBCV,2015,W,EOSC,315,,201,The Ocean Ecosystem,Kristin Orians;Manuel Colombo;Michael Lipsen,101,77.811881188,11.768358315,96.0,42.0,,,,,7,10,10,5,16,28,15
+UBCV,2015,W,EOSC,315,,99A,The Ocean Ecosystem,Jingxuan Li;Michael Lipsen,66,73.984848485,17.529309455,97.0,0.0,,,,,2,4,10,11,12,12,5
+UBCV,2015,W,EOSC,315,,99C,The Ocean Ecosystem,Michael Lipsen;Nari Sim,66,74.636363636,10.795492455,96.0,51.0,,,8,,6,7,5,12,11,10,5
+UBCV,2015,W,EOSC,315,,OVERALL,The Ocean Ecosystem,,233,75.82832618,13.473014704,97.0,0.0,6,5,12,7,15,21,25,28,39,50,25
 UBCV,2015,W,EOSC,320,,201,Sedimentology,Pablo Lacerda Silva;Robert Marc Bustin;Tessa Wilson,44,69.386363636,11.312096652000001,90.0,50.0,,6,,,7,,5,,8,,
+UBCV,2015,W,EOSC,320,,OVERALL,Sedimentology,,44,69.386363636,11.312096652000001,90.0,50.0,,6,,,7,,5,,8,,
 UBCV,2015,W,EOSC,321,,101,Igneous Petrology,Cody Steven;Erica Tso;Maya Kopylova;Vedran Pobric,38,71.710526316,9.764546722,89.0,48.0,,,,,,8,7,9,,,
+UBCV,2015,W,EOSC,321,,OVERALL,Igneous Petrology,,38,71.710526316,9.764546722,89.0,48.0,,,,,,8,7,9,,,
 UBCV,2015,W,EOSC,322,,201,Metamorphic Petrology,Alexander Wilson;Christopher Herron;Gregory Dipple;Tom Ver Hoeve,33,73.303030303,14.244483249000002,90.0,12.0,,,,,,6,,8,,,
+UBCV,2015,W,EOSC,322,,OVERALL,Metamorphic Petrology,,33,73.303030303,14.244483249000002,90.0,12.0,,,,,,6,,8,,,
 UBCV,2015,W,EOSC,323,,101,Structural Geology I,Barry Jay Penner;Barry Penner;Lori Kennedy;Robert Bernard Emo;Robert Emo,66,77.818181818,7.018457185,92.0,57.0,,,,,5,7,11,12,18,10,
-UBCV,2015,W,EOSC,326,,99A,Earth and Life Through Time,Louise Longridge;Noel Fitzpatrick,66,76.333333333,13.614848605999999,99.0,25.0,,,,,6,,7,5,20,6,10
+UBCV,2015,W,EOSC,323,,OVERALL,Structural Geology I,,66,77.818181818,7.018457185,92.0,57.0,,,,,5,7,11,12,18,10,
+UBCV,2015,W,EOSC,326,,101,Earth and Life Through Time,Lindsay Fenwick;Lucy Porritt,98,72.602040816,10.969253934000001,95.0,31.0,,,,8,,16,19,12,22,7,3
+UBCV,2015,W,EOSC,326,,99A,Earth and Life Through Time,Louise Longridge;Noel Fitzpatrick,66,76.333333333,13.614848605999999,99.0,25.0,,,,,6,4,7,5,20,6,10
 UBCV,2015,W,EOSC,326,,99C,Earth and Life Through Time,Louise Longridge;Noel Fitzpatrick,65,76.492307692,14.456965316,94.0,0.0,,,,,,10,9,6,10,13,9
-UBCV,2015,W,EOSC,326,,101,Earth and Life Through Time,Lindsay Fenwick;Lucy Porritt,98,72.602040816,10.969253934000001,95.0,31.0,,,,8,,16,19,12,22,7,
+UBCV,2015,W,EOSC,326,,OVERALL,Earth and Life Through Time,,230,74.769565217,12.867953315,99.0,0.0,9,5,4.0,12,11,30,36,23,52,26,22
 UBCV,2015,W,EOSC,328,,201,Field Geology,Brett Gilley;James Kelly Russell;Lori Kennedy;Lucy Porritt;Matthijs Smit;Sarah Sherman,35,76.657142857,7.992433396,93.0,50.0,,,,,,,11,12,,,
-UBCV,2015,W,EOSC,329,,101,Groundwater Hydrology,Constanza Nicolau Del Roure Eylerts;Laura Laurenzi;Michael Zima;Roger Beckie;Tse Chao;Tse Hua Chao,126,71.111111111,12.266521738,95.0,24.0,5,8,9,12,11,13,18,14,23,10,
+UBCV,2015,W,EOSC,328,,OVERALL,Field Geology,,35,76.657142857,7.992433396,93.0,50.0,,,,,,,11,12,,,
+UBCV,2015,W,EOSC,329,,101,Groundwater Hydrology,Constanza Nicolau Del Roure Eylerts;Laura Laurenzi;Michael Zima;Roger Beckie;Tse Chao;Tse Hua Chao,126,71.111111111,12.266521738,95.0,24.0,5,8,9,12,11,13,18,14,23,10,3.0
+UBCV,2015,W,EOSC,329,,OVERALL,Groundwater Hydrology,,126,71.111111111,12.266521738,95.0,24.0,5,8,9,12,11,13,18,14,23,10,3.0
 UBCV,2015,W,EOSC,330,,101,Principles of Geomorphology,Cody Steven;Laurier Collette;Matthew Gaudet;Scott Mcdougall,71,79.183098592,7.47435589,93.0,55.0,,,,,,10,10,,29,12,
+UBCV,2015,W,EOSC,330,,OVERALL,Principles of Geomorphology,,71,79.183098592,7.47435589,93.0,55.0,,,,,,10,10,,29,12,
 UBCV,2015,W,EOSC,331,,101,Introduction to Mineral Deposits,Luke Hilchie;Matthew Bodnar;Murray Allan;Murray Masson Allan,40,76.1,6.720805812,88.0,58.0,,,,,,,11,5,14,,
+UBCV,2015,W,EOSC,331,,OVERALL,Introduction to Mineral Deposits,,40,76.1,6.720805812,88.0,58.0,,,,,,,11,5,14,,
 UBCV,2015,W,EOSC,332,,201,Tectonic Evolution of North America,Alexandre Plourde;James Mortensen,50,81.9,7.112076536,96.0,61.0,,,,,,,7,,16,14,5
+UBCV,2015,W,EOSC,332,,OVERALL,Tectonic Evolution of North America,,50,81.9,7.112076536,96.0,61.0,,,,,,,7,,16,14,5
 UBCV,2015,W,EOSC,333,,201,Elemental and Isotopic Geochemistry,Anais Fourny;Catherine Armstrong;Catherine Jean Armstrong;Corey Wall;Lauren Harrison;Nicole Williamson,38,78.421052632,9.66081967,93.0,56.0,,,,,,,,6,10,6,
+UBCV,2015,W,EOSC,333,,OVERALL,Elemental and Isotopic Geochemistry,,38,78.421052632,9.66081967,93.0,56.0,,,,,,,,6,10,6,
 UBCV,2015,W,EOSC,340,,101,Global Climate Change,Bart De Baere;Gunho Oh;Philip Austin;Tara Ivanochko,131,74.24427480899999,12.852471539000001,98.0,27.0,,,7,9,17,15,11,17,15,17,16
 UBCV,2015,W,EOSC,340,,201,Global Climate Change,Evelyn Da Motta Freres;Philip Austin;Sara Harris,127,75.897637795,11.950848177000001,97.0,38.0,,,10,5,6,13,13,17,25,20,12
+UBCV,2015,W,EOSC,340,,OVERALL,Global Climate Change,,258,75.058139535,12.420349799,98.0,27.0,8,5,17,14,23,28,24,34,40,37,28
 UBCV,2015,W,EOSC,350,,101,"Environmental, Geotechnical, and Exploration Geophysics I",Douglas Oldenburg;Lindsey Heagy;Michael Mitchell;Sarah Devriese;Seogi Kang;Thibaut Astic,60,77.016666667,9.263545587000001,90.0,34.0,,,,,,,13,12,13,10,
+UBCV,2015,W,EOSC,350,,OVERALL,"Environmental, Geotechnical, and Exploration Geophysics I",,60,77.016666667,9.263545587000001,90.0,34.0,,,,,,,13,12,13,10,
 UBCV,2015,W,EOSC,352,,101,Geophysical Continuum Dynamics,Arran John Charles Whiteford;Arran Whiteford;Christian Schoof,19,75.263157895,12.661587163,98.0,51.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,352,,OVERALL,Geophysical Continuum Dynamics,,19,75.263157895,12.661587163,98.0,51.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,353,,201,Seismology,Alexandre Plourde;Michael Bostock,11,69.454545455,16.585316617,89.0,26.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,353,,OVERALL,Seismology,,11,69.454545455,16.585316617,89.0,26.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,354,,101,Analysis of Time Series and Inverse Theory for Earth Scientists,Michael Bostock;Timothy Hayward,14,74.642857143,12.935384642,94.0,42.0,,,,,,,,,,,
-UBCV,2015,W,EOSC,372,,101,Introductory Oceanography: Circulation and Plankton,Anna Posacka;Kristin Orians;Maria Maldonado-Pareja;Nari Sim;Richard Pawlowicz;Yulia Egorova,181,73.64640884,12.247305864000001,96.0,13.0,,6,9,17,19,18,21,16,37,19,15
+UBCV,2015,W,EOSC,354,,OVERALL,Analysis of Time Series and Inverse Theory for Earth Scientists,,14,74.642857143,12.935384642,94.0,42.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,372,,101,Introductory Oceanography: Circulation and Plankton,Anna Posacka;Kristin Orians;Maria Maldonado-Pareja;Nari Sim;Richard Pawlowicz;Yulia Egorova,181,73.64640884,12.247305864000001,96.0,13.0,4.0,6,9,17,19,18,21,16,37,19,15
+UBCV,2015,W,EOSC,372,,OVERALL,Introductory Oceanography: Circulation and Plankton,,181,73.64640884,12.247305864000001,96.0,13.0,4.0,6,9,17,19,18,21,16,37,19,15
 UBCV,2015,W,EOSC,373,,201,Introductory Oceanography: Climate and Ecosystems,Benjamin Moore Malley;Maria Maldonado-Pareja;Richard Pawlowicz;Roger Francois,74,71.959459459,10.908635750999998,96.0,47.0,,5,6,,9,,15,12,11,,5
+UBCV,2015,W,EOSC,373,,OVERALL,Introductory Oceanography: Climate and Ecosystems,,74,71.959459459,10.908635750999998,96.0,47.0,,5,6,,9,,15,12,11,,5
 UBCV,2015,W,EOSC,420,,101,Volcanology,Alexander Wilson;James Kelly Russell;Marie Turnbull,18,79.055555556,7.657923403,93.0,63.0,,,,,,,,,7,,
+UBCV,2015,W,EOSC,420,,OVERALL,Volcanology,,18,79.055555556,7.657923403,93.0,63.0,,,,,,,,,7,,
 UBCV,2015,W,EOSC,422,,201,Structural Geology II,Barry Jay Penner;Barry Penner;Lori Kennedy,10,80.5,6.186903731,91.0,68.0,,,,,,,,,5,,
+UBCV,2015,W,EOSC,422,,OVERALL,Structural Geology II,,10,80.5,6.186903731,91.0,68.0,,,,,,,,,5,,
 UBCV,2015,W,EOSC,424,,201,Advanced Mineral Deposits,Barry Jay Penner;Barry Penner;Lucy Porritt;Nichole Moerhuis,22,80.409090909,7.449251103,90.0,61.0,,,,,,,,,7,6,
+UBCV,2015,W,EOSC,424,,OVERALL,Advanced Mineral Deposits,,22,80.409090909,7.449251103,90.0,61.0,,,,,,,,,7,6,
 UBCV,2015,W,EOSC,425,,101,Paleontology,Martyn Golding;Paul Laurence Smith;Rhylan Mcmillan,10,78.4,3.627058802,86.0,74.0,,,,,,,,5,,,
+UBCV,2015,W,EOSC,425,,OVERALL,Paleontology,,10,78.4,3.627058802,86.0,74.0,,,,,,,,5,,,
 UBCV,2015,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Roger Beckie;Shane O'Neill,45,78.555555556,3.974667256,87.0,70.0,,,,,,,9,18,14,,
+UBCV,2015,W,EOSC,428,,OVERALL,Field Techniques in Groundwater Hydrology,,45,78.555555556,3.974667256,87.0,70.0,,,,,,,9,18,14,,
 UBCV,2015,W,EOSC,429,,101,Groundwater Contamination,Daniele Pedretti;James Leslie Smith;Jarod Devries;Jordan Zak;Keelin Scully,98,66.285714286,9.891160272999999,92.0,50.0,,11,17,15,9,12,19,,5,5,
+UBCV,2015,W,EOSC,429,,OVERALL,Groundwater Contamination,,98,66.285714286,9.891160272999999,92.0,50.0,,11,17,15,9,12,19,,5,5,
 UBCV,2015,W,EOSC,430,,101,Aqueous Geochemistry,Elliott Karl Skierszkan;Elliott Skierszkan;Gregory Dipple,23,82.782608696,6.331426105,96.0,70.0,,,,,,,,5,7,,5
+UBCV,2015,W,EOSC,430,,OVERALL,Aqueous Geochemistry,,23,82.782608696,6.331426105,96.0,70.0,,,,,,,,5,7,,5
 UBCV,2015,W,EOSC,432,,201,Fossil Fuels,Pablo Lacerda Silva;Robert Marc Bustin;Tessa Wilson,31,74.677419355,17.096563195999998,92.0,2.0,,,,,,,6,5,5,6,
+UBCV,2015,W,EOSC,432,,OVERALL,Fossil Fuels,,31,74.677419355,17.096563195999998,92.0,2.0,,,,,,,6,5,5,6,
 UBCV,2015,W,EOSC,433,,101,Geotechnical Engineering Practice,Erik Eberhardt;Erika Schmidt;Nicolas Poves,56,77.428571429,9.743729252,94.0,52.0,,,,,,6,9,10,8,8,8
+UBCV,2015,W,EOSC,433,,OVERALL,Geotechnical Engineering Practice,,56,77.428571429,9.743729252,94.0,52.0,,,,,,6,9,10,8,8,8
 UBCV,2015,W,EOSC,434,,201,Geological Engineering Soils and Weak Rocks,Laurier Collette;Oldrich Hungr,50,83.4,4.633507069,92.0,69.0,,,,,,,,5,20,18,5
+UBCV,2015,W,EOSC,434,,OVERALL,Geological Engineering Soils and Weak Rocks,,50,83.4,4.633507069,92.0,69.0,,,,,,,,5,20,18,5
 UBCV,2015,W,EOSC,442,,101,Climate Measurement and Analysis,Ana Ramos Musalem;Artem Zaloga;Manuel Colombo;Michael Lipsen,35,86.828571429,6.555131417,95.0,68.0,,,,,,,,,5,10,16
-UBCV,2015,W,EOSC,442,,201,Climate Measurement and Analysis,Lindsay Fenwick;Manuel Colombo;Michael Lipsen;Thomas Aubry;Thomas Jacques Aubry,15,76.466666667,9.00687568,95.0,59.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,442,,201,Climate Measurement and Analysis,Lindsay Fenwick;Manuel Colombo;Michael Lipsen;Thomas Aubry;Thomas Jacques Aubry,15,76.466666667,9.00687568,95.0,59.0,,,,,,,,,3,1,1
+UBCV,2015,W,EOSC,442,,OVERALL,Climate Measurement and Analysis,,50,83.72,8.717891526,95.0,59.0,,,,,,,,5,8,11,17
 UBCV,2015,W,EOSC,445,,001,Engineering Design Project,Jordan Aaron;Susan Hollingshead,48,84.5625,6.982977022,94.0,61.0,,,,,,,,5,6,23,10
+UBCV,2015,W,EOSC,445,,OVERALL,Engineering Design Project,,48,84.5625,6.982977022,94.0,61.0,,,,,,,,5,6,23,10
 UBCV,2015,W,EOSC,448,A,101,Directed Studies,,5,75.2,21.787611159,90.0,37.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,448,A,201,Directed Studies,,9,83.0,6.946221995,93.0,70.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,448,A,OVERALL,Directed Studies,,14,80.214285714,13.812917985999999,93.0,37.0,,,,,,,,,5,,
 UBCV,2015,W,EOSC,448,B,201,Directed Studies,Sean Crowe,12,89.0,10.761885607,96.0,66.0,,,,,,,,,,,9
+UBCV,2015,W,EOSC,448,B,OVERALL,Directed Studies,,12,89.0,10.761885607,96.0,66.0,,,,,,,,,,,9
 UBCV,2015,W,EOSC,449,,001,Thesis,Mary Lou Bevier,6,85.333333333,3.1411250639999997,88.0,80.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,449,,OVERALL,Thesis,,6,85.333333333,3.1411250639999997,88.0,80.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,450,,101,Potential Fields in Earth and Planetary Sciences,Catherine Johnson;Thomas Aubry,12,79.833333333,9.599558071,97.0,66.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,450,,OVERALL,Potential Fields in Earth and Planetary Sciences,,12,79.833333333,9.599558071,97.0,66.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,453,,101,Physics of the Earth and Other Planets,Andrew Jellinek;Anna Grau Galofre,15,86.066666667,5.933761354,95.0,75.0,,,,,,,,,,6,5
+UBCV,2015,W,EOSC,453,,OVERALL,Physics of the Earth and Other Planets,,15,86.066666667,5.933761354,95.0,75.0,,,,,,,,,,6,5
 UBCV,2015,W,EOSC,454,,201,Applied Geophysics,Eldad Haber;Patrick Belliveau,10,85.0,4.521553322,93.0,78.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,454,,OVERALL,Applied Geophysics,,10,85.0,4.521553322,93.0,78.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,470,,101,Biological Oceanography,Michael Lipsen;Yuliya Kuzmenko,24,80.583333333,8.692408815,90.0,46.0,,,,,,,,,10,7,
+UBCV,2015,W,EOSC,470,,OVERALL,Biological Oceanography,,24,80.583333333,8.692408815,90.0,46.0,,,,,,,,,10,7,
 UBCV,2015,W,EOSC,472,,201,Chemical Oceanography and Marine Geochemistry,Kristin Orians;Nari Sim,14,83.642857143,7.642061168,93.0,67.0,,,,,,,,,5,,
+UBCV,2015,W,EOSC,472,,OVERALL,Chemical Oceanography and Marine Geochemistry,,14,83.642857143,7.642061168,93.0,67.0,,,,,,,,,5,,
 UBCV,2015,W,EOSC,473,,201,Methods in Oceanography,Jan Felix Finke;Stephanie Block;Yevhenii Pakhomov,12,85.583333333,5.534328133,94.0,77.0,,,,,,,,,,,5
+UBCV,2015,W,EOSC,473,,OVERALL,Methods in Oceanography,,12,85.583333333,5.534328133,94.0,77.0,,,,,,,,,,,5
 UBCV,2015,W,EOSC,474,,101,Marine Pollution,Lian Kwong;Yevhenii Pakhomov,118,77.983050847,8.632064109,96.0,50.0,,,,,5,14,22,16,28,18,10
+UBCV,2015,W,EOSC,474,,OVERALL,Marine Pollution,,118,77.983050847,8.632064109,96.0,50.0,,,,,5,14,22,16,28,18,10
 UBCV,2015,W,EOSC,475,,201,Marine Microbiology,Curtis Suttle;Jan Felix Finke,39,75.717948718,14.887205240999998,97.0,35.0,,,,,,,5,5,6,,9
+UBCV,2015,W,EOSC,475,,OVERALL,Marine Microbiology,,39,75.717948718,14.887205240999998,97.0,35.0,,,,,,,5,5,6,,9
 UBCV,2015,W,EOSC,478,,101,Introduction to Fisheries Science,Tony Pitcher;Yevhenii Pakhomov;Yuliya Kuzmenko,48,81.520833333,10.392283519,97.0,54.0,,,,,,,,10,10,11,10
+UBCV,2015,W,EOSC,478,,OVERALL,Introduction to Fisheries Science,,48,81.520833333,10.392283519,97.0,54.0,,,,,,,,10,10,11,10
 UBCV,2015,W,EOSC,510,,101,"Data Analysis in Atmospheric, Earth and Ocean Sciences",Valentina Radic,11,87.090909091,2.8444523360000002,92.0,83.0,,,,,,,,,,5,
+UBCV,2015,W,EOSC,510,,OVERALL,"Data Analysis in Atmospheric, Earth and Ocean Sciences",,11,87.090909091,2.8444523360000002,92.0,83.0,,,,,,,,,,5,
 UBCV,2015,W,EOSC,511,,101,"Numerical Techniques for Ocean, Atmosphere and Earth Scientists",Philip Austin;Susan Elizabeth Allen,11,84.545454545,3.67052139,89.0,78.0,,,,,,,,,,6,
+UBCV,2015,W,EOSC,511,,OVERALL,"Numerical Techniques for Ocean, Atmosphere and Earth Scientists",,11,84.545454545,3.67052139,89.0,78.0,,,,,,,,,,6,
 UBCV,2015,W,EOSC,512,,101,Advanced Geophysical Fluid Dynamics,Richard Pawlowicz,10,83.0,9.854496999,100.0,68.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,512,,OVERALL,Advanced Geophysical Fluid Dynamics,,10,83.0,9.854496999,100.0,68.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,529,,201,Advanced Geotechnics,Oldrich Hungr,14,87.85714285700001,5.654911315,97.0,80.0,,,,,,,,,,,6
+UBCV,2015,W,EOSC,529,,OVERALL,Advanced Geotechnics,,14,87.85714285700001,5.654911315,97.0,80.0,,,,,,,,,,,6
 UBCV,2015,W,EOSC,531,,201,Exploration Methodology,Craig Hart;James Mortensen,9,90.77777777799999,3.032234233,95.0,87.0,,,,,,,,,,,6
+UBCV,2015,W,EOSC,531,,OVERALL,Exploration Methodology,,9,90.77777777799999,3.032234233,95.0,87.0,,,,,,,,,,,6
 UBCV,2015,W,EOSC,532,,201,Field Laboratory in Groundwater Hydrology,Roger Beckie;Shane O'Neill,8,84.125,6.174544517999999,90.0,72.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,532,,OVERALL,Field Laboratory in Groundwater Hydrology,,8,84.125,6.174544517999999,90.0,72.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,533,,101,Advanced Groundwater Hydrology,Wojciech Zawadzki,11,80.545454545,7.4345630179999995,92.0,66.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,533,,OVERALL,Advanced Groundwater Hydrology,,11,80.545454545,7.4345630179999995,92.0,66.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,535,,201,Transport Processes in Porous Media,James Leslie Smith,6,84.0,3.898717738,87.0,77.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,535,,OVERALL,Transport Processes in Porous Media,,6,84.0,3.898717738,87.0,77.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,536,,101,Advanced Rock Engineering,Erik Eberhardt,12,83.583333333,8.846759379,94.0,68.0,,,,,,,,,,,5
+UBCV,2015,W,EOSC,536,,OVERALL,Advanced Rock Engineering,,12,83.583333333,8.846759379,94.0,68.0,,,,,,,,,,,5
 UBCV,2015,W,EOSC,540,,101,Advanced Groundwater Geochemistry,Elliott Karl Skierszkan;Elliott Skierszkan;Gregory Dipple,13,84.538461538,4.1355246469999996,89.0,77.0,,,,,,,,,,8,
+UBCV,2015,W,EOSC,540,,OVERALL,Advanced Groundwater Geochemistry,,13,84.538461538,4.1355246469999996,89.0,77.0,,,,,,,,,,8,
 UBCV,2015,W,EOSC,547,,201,Tunneling and Underground Engineering,Erik Eberhardt,16,85.0,6.0,94.0,75.0,,,,,,,,,,,5
+UBCV,2015,W,EOSC,547,,OVERALL,Tunneling and Underground Engineering,,16,85.0,6.0,94.0,75.0,,,,,,,,,,,5
 UBCV,2015,W,EOSC,562,,201,Mechanics of Earthquakes and Faulting,Michael Bostock,8,90.75,2.121320344,93.0,86.0,,,,,,,,,,,7
+UBCV,2015,W,EOSC,562,,OVERALL,Mechanics of Earthquakes and Faulting,,8,90.75,2.121320344,93.0,86.0,,,,,,,,,,,7
 UBCV,2015,W,EOSC,571,C,001,Seminar in Physical Oceanography and Atmospheric Science,Susan Elizabeth Allen,6,86.166666667,3.371448749,90.0,80.0,,,,,,,,,,,
+UBCV,2015,W,EOSC,571,C,OVERALL,Seminar in Physical Oceanography and Atmospheric Science,,6,86.166666667,3.371448749,90.0,80.0,,,,,,,,,,,
 UBCV,2015,W,EOSC,595,B,102,Directed Studies,,9,88.77777777799999,6.534098595,98.0,75.0,,,,,,,,,,,6
+UBCV,2015,W,EOSC,595,B,OVERALL,Directed Studies,,13,88.923076923,5.765725431,98.0,75.0,,,,,,,,,,,8

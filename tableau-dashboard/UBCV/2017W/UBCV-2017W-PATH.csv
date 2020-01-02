@@ -1,30 +1,57 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,W,PATH,300,,001,Background to Medical Laboratory Science,Amanda Bradley;Charles Li;Elisabeth Maurer;Jennifer Xenakis;Mark Scott;Nicholas Au;Paul Anthony Keown;Suzanne Vercauteren,12,78.583333333,5.8846230020000005,85.0,66.0,,,,,,,,,6,,
+UBCV,2017,W,PATH,300,,OVERALL,Background to Medical Laboratory Science,,12,78.583333333,5.8846230020000005,85.0,66.0,,,,,,,,,6,,
 UBCV,2017,W,PATH,301,,001,Basic and Physical Biochemistry for Medical Laboratory Scientists,Bojana Rakic;Chun Yong Seow;Jayachandran Kizhakkedathu;Philipp Lange;Ramesh Saeedi;Sean Young,12,76.166666667,10.486643742,90.0,54.0,,,,,,,,,,,
+UBCV,2017,W,PATH,301,,OVERALL,Basic and Physical Biochemistry for Medical Laboratory Scientists,,12,76.166666667,10.486643742,90.0,54.0,,,,,,,,,,,
 UBCV,2017,W,PATH,303,,001,"Cytogenetics, Molecular Genetics, Tissue Culture & Cytology",Brenda Smith;Ian Bosdet;Jenny Tai;Juliana Li;Kamilla Schlade-Bartusiak;Tracy Tucker,12,75.083333333,12.398374770999999,92.0,51.0,,,,,,,,,,,
+UBCV,2017,W,PATH,303,,OVERALL,"Cytogenetics, Molecular Genetics, Tissue Culture & Cytology",,12,75.083333333,12.398374770999999,92.0,51.0,,,,,,,,,,,
 UBCV,2017,W,PATH,304,,001,Normal Human Histology,Brian Skinnider;Cyril Blake Gilks;Honglin Luo;Lawrence Lee;Stephen Yip;Tony Ng,14,80.357142857,6.020569138,93.0,68.0,,,,,,,,,5,,
+UBCV,2017,W,PATH,304,,OVERALL,Normal Human Histology,,14,80.357142857,6.020569138,93.0,68.0,,,,,,,,,5,,
 UBCV,2017,W,PATH,305,,001,Modern Microscopy,Jayachandran Kizhakkedathu;John O'Kusky,14,73.5,8.281118467999999,90.0,57.0,,,,,,,,,,,
+UBCV,2017,W,PATH,305,,OVERALL,Modern Microscopy,,14,73.5,8.281118467999999,90.0,57.0,,,,,,,,,,,
 UBCV,2017,W,PATH,306,,001,Laboratory Safety for Medical Laboratory Scientists,Jennifer Xenakis;Michael Allen Noble,12,85.25,5.172040216,94.0,73.0,,,,,,,,,,6,
+UBCV,2017,W,PATH,306,,OVERALL,Laboratory Safety for Medical Laboratory Scientists,,12,85.25,5.172040216,94.0,73.0,,,,,,,,,,6,
 UBCV,2017,W,PATH,327,,001,"Bacteriology, Mycology, Virology and Parasitology",Agata Jassem;Mark Scott;Marthe Kenny Charles;Martin Petric;Mel Krajden;Miguel Imperial;Muhammad Morshed;William Hsiao,16,79.5625,8.213555868,98.0,68.0,,,,,,,,,5,,
+UBCV,2017,W,PATH,327,,OVERALL,"Bacteriology, Mycology, Virology and Parasitology",,16,79.5625,8.213555868,98.0,68.0,,,,,,,,,5,,
 UBCV,2017,W,PATH,375,,001,Introduction to Human Pathology,Michael Nimmo,70,77.942857143,11.677906446,98.0,49.0,,,,,6,6,8,7,11,11,13
+UBCV,2017,W,PATH,375,,OVERALL,Introduction to Human Pathology,,70,77.942857143,11.677906446,98.0,49.0,,,,,6,6,8,7,11,11,13
 UBCV,2017,W,PATH,402,,001,Medical Laboratory Science: Haematology,Brian Skinnider;Cedric John Carter;Edward Conway;Helene Bruyere;Kelly Marshall Mcnagny;Kristine Roland;Majid Moteabbed;Mark Scott;Nadejda Medvedev;Nicholas Au;Peter Schubert;Suzanne Vercauteren,19,79.631578947,12.383728240999998,97.0,56.0,,,,,,,,,,,5
+UBCV,2017,W,PATH,402,,OVERALL,Medical Laboratory Science: Haematology,,19,79.631578947,12.383728240999998,97.0,56.0,,,,,,,,,,,5
 UBCV,2017,W,PATH,404,,001,Diagnostic Histochemistry,Jennifer Xenakis;John O'Kusky,13,71.153846154,12.435474484,88.0,46.0,,,,,,,,,,,
+UBCV,2017,W,PATH,404,,OVERALL,Diagnostic Histochemistry,,13,71.153846154,12.435474484,88.0,46.0,,,,,,,,,,,
 UBCV,2017,W,PATH,405,,001,Seminars in Current Topics,Amanda Bradley;Kenneth Liu;Michael Sutherland;William Godolphin,14,79.928571429,12.778974834000001,100.0,45.0,,,,,,,,,10,,
+UBCV,2017,W,PATH,405,,OVERALL,Seminars in Current Topics,,14,79.928571429,12.778974834000001,100.0,45.0,,,,,,,,,10,,
 UBCV,2017,W,PATH,406,,001,Clinical Chemistry,Andre Mattman;Angela Fung;Benjamin Jung;Cheryl Tomalty;Daniel Holmes;Hans Frykman;Hilary Vallance;Janet Simons;John Stuart Hill;Kent Dooley;Kristin Hauff;Morris Pudek;Sophia Wong;Tracy Tucker;William Schreiber,13,75.076923077,16.908880992,87.0,31.0,,,,,,,,,,5,
+UBCV,2017,W,PATH,406,,OVERALL,Clinical Chemistry,,13,75.076923077,16.908880992,87.0,31.0,,,,,,,,,,5,
 UBCV,2017,W,PATH,407,,001,"Medical Laboratory Toxicology: Analytical, Clinical",Benjamin Jung;Corey Nislow;Dailin Li;Daniel Holmes;Jennifer Xenakis;Morris Pudek;Paul Anthony Keown;Roy Purssell,13,83.692307692,14.412868182,96.0,41.0,,,,,,,,,,,5
+UBCV,2017,W,PATH,407,,OVERALL,"Medical Laboratory Toxicology: Analytical, Clinical",,13,83.692307692,14.412868182,96.0,41.0,,,,,,,,,,,5
 UBCV,2017,W,PATH,408,,001,Laboratory Administration,Amanda Bradley;Cornelia Laule;Jenny Tai,14,85.142857143,9.346798241,95.0,59.0,,,,,,,,,,7,
+UBCV,2017,W,PATH,408,,OVERALL,Laboratory Administration,,14,85.142857143,9.346798241,95.0,59.0,,,,,,,,,,7,
 UBCV,2017,W,PATH,415,,001,Immunopathology,Alexander Magil;Amanda Bradley;Anne Kristine Junker;Hanh Huynh;Jacqueline Quandt;John Priatel;Mark Scott;Michael Sutherland,16,78.375,9.666954019,92.0,61.0,,,,,,,,,,5,
-UBCV,2017,W,PATH,417,A,99A,Human Bacterial Infections,Niamh Kelly,16,84.5625,5.761582537000001,92.0,68.0,,,,,,,,,,10,
+UBCV,2017,W,PATH,415,,OVERALL,Immunopathology,,16,78.375,9.666954019,92.0,61.0,,,,,,,,,,5,
+UBCV,2017,W,PATH,417,A,99A,Human Bacterial Infections,Niamh Kelly,16,84.5625,5.761582537000001,92.0,68.0,,,,,,,,,2,10,
 UBCV,2017,W,PATH,417,A,99C,Human Bacterial Infections,Colin Wallace;Heather Denroche;Karuna Karunakaran;Niamh Kelly,28,81.0,6.5659052010000005,90.0,62.0,,,,,,,,,7,10,
+UBCV,2017,W,PATH,417,A,OVERALL,Human Bacterial Infections,,44,82.295454545,6.454057838,92.0,62.0,,,,,,,,6,9,20,
 UBCV,2017,W,PATH,427,,99C,Basic Principles of Infection Prevention and Control,Diane Roscoe;Elizabeth Bryce,10,81.7,7.087547766,92.0,70.0,,,,,,,,,,,
+UBCV,2017,W,PATH,427,,OVERALL,Basic Principles of Infection Prevention and Control,,10,81.7,7.087547766,92.0,70.0,,,,,,,,,,,
 UBCV,2017,W,PATH,438,E,005,Medical Laboratory Science: Directed Studies,Chun Yong Seow,5,96.0,2.236067977,99.0,93.0,,,,,,,,,,,5
+UBCV,2017,W,PATH,438,E,OVERALL,Medical Laboratory Science: Directed Studies,,5,96.0,2.236067977,99.0,93.0,,,,,,,,,,,5
 UBCV,2017,W,PATH,467,,99C,Basic Microbiology for Infection Control,Aleksandra Stefanovic;Frederick Roberts;Ghada Al Rawahi;Marthe Kenny Charles,6,84.666666667,4.676180778,90.0,78.0,,,,,,,,,,,
+UBCV,2017,W,PATH,467,,OVERALL,Basic Microbiology for Infection Control,,6,84.666666667,4.676180778,90.0,78.0,,,,,,,,,,,
 UBCV,2017,W,PATH,477,,99A,Basic Epidemiology for Infection Control,Monika Naus,8,84.875,5.356904757,96.0,79.0,,,,,,,,,,,
+UBCV,2017,W,PATH,477,,OVERALL,Basic Epidemiology for Infection Control,,8,84.875,5.356904757,96.0,79.0,,,,,,,,,,,
 UBCV,2017,W,PATH,501,,001,Foundations of Human Histopathology,Anna Lee;David C Walker;David Walker;Jacqueline Quandt;Michael Seidman;Nickolas Myles;Stephen Yip,14,87.285714286,7.151423435,98.0,70.0,,,,,,,,,,6,5
+UBCV,2017,W,PATH,501,,OVERALL,Foundations of Human Histopathology,,14,87.285714286,7.151423435,98.0,70.0,,,,,,,,,,6,5
 UBCV,2017,W,PATH,502,,001,Current Topics in Pathology Research,Angela Devlin;Bruce Verchere;Cheryl Lea Wellington;Christian Steidl;David Granville;Edward Pryzdial;Helene Cote;John Priatel;Kevin Bennewith;Sohrab Shah;Stephen Yip;William Lockwood,15,90.4,4.548155042,97.0,84.0,,,,,,,,,,,9
+UBCV,2017,W,PATH,502,,OVERALL,Current Topics in Pathology Research,,15,90.4,4.548155042,97.0,84.0,,,,,,,,,,,9
 UBCV,2017,W,PATH,535,,001,Seminar,Cheryl Lea Wellington;Cornelia Laule;Helene Cote;Steve Ernest Kalloger;William Lockwood,6,88.5,1.7606816859999999,91.0,86.0,,,,,,,,,,5,
-UBCV,2017,W,PATH,535,,002,Seminar,Cheryl Lea Wellington;Cornelia Laule;Helene Cote;Steve Ernest Kalloger;William Lockwood,6,89.166666667,4.708148963999999,95.0,82.0,,,,,,,,,,,
+UBCV,2017,W,PATH,535,,002,Seminar,Cheryl Lea Wellington;Cornelia Laule;Helene Cote;Steve Ernest Kalloger;William Lockwood,6,89.166666667,4.708148963999999,95.0,82.0,,,,,,,,,,2,
+UBCV,2017,W,PATH,535,,OVERALL,Seminar,,12,88.833333333,3.406766885,95.0,82.0,,,,,,,,,,7,
 UBCV,2017,W,PATH,547,,001,Techniques in Molecular Biology and Experimental Pathology,David Ng,11,90.636363636,2.335496832,94.0,87.0,,,,,,,,,,,7
+UBCV,2017,W,PATH,547,,OVERALL,Techniques in Molecular Biology and Experimental Pathology,,11,90.636363636,2.335496832,94.0,87.0,,,,,,,,,,,7
 UBCV,2017,W,PATH,548,C,03B,Directed Studies,Angela Devlin;Bradford Hoffman;Bruce Verchere;Dan Luciani;Francis Lynn;John Priatel;William Gibson,5,85.8,2.774887385,90.0,83.0,,,,,,,,,,,
+UBCV,2017,W,PATH,548,C,OVERALL,Directed Studies,,5,85.8,2.774887385,90.0,83.0,,,,,,,,,,,
 UBCV,2017,W,PATH,548,L,001,Directed Studies,Helene Cote;Steve Ernest Kalloger,8,86.875,3.181980515,93.0,83.0,,,,,,,,,,5,
+UBCV,2017,W,PATH,548,L,OVERALL,Directed Studies,,8,86.875,3.181980515,93.0,83.0,,,,,,,,,,5,
 UBCV,2017,W,PATH,635,,001,Seminar,Cheryl Lea Wellington;Cornelia Laule;Helene Cote;Steve Ernest Kalloger;William Lockwood,5,89.8,2.9495762410000004,94.0,87.0,,,,,,,,,,,
+UBCV,2017,W,PATH,635,,OVERALL,Seminar,,8,89.25,3.9910614410000003,94.0,82.0,,,,,,,,,,,

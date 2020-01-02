@@ -1,20 +1,36 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,FIST,100,,001,Introduction to Film Studies,Amanda Greer;Christine Evans;Marios Kallos;Morgan Harper;Morgan Orry Harper;Zoe Laks,141,68.517730496,14.663659082,92.0,18.0,13,8,6,8,12,24,19,18,28,,
-UBCV,2016,W,FIST,100,,003,Introduction to Film Studies,Christine Evans;Frederick Blichert;Morgan Harper;Morgan Orry Harper;Zoe Laks,97,69.63917525800001,16.450801377999998,90.0,0.0,8,,8,,8,15,6,11,22,10,
-UBCV,2016,W,FIST,100,,004,Introduction to Film Studies,Matthew Gartner;Olga Ozkaya;Rebecca Gold;Robyn Citizen,97,79.587628866,9.351640428,93.0,55.0,,,,,5,6,10,16,16,25,12
+UBCV,2016,W,FIST,100,,001,Introduction to Film Studies,Amanda Greer;Christine Evans;Marios Kallos;Morgan Harper;Morgan Orry Harper;Zoe Laks,141,68.517730496,14.663659082,92.0,18.0,13,8,6,8,12,24,19,18,28,3,2.0
+UBCV,2016,W,FIST,100,,003,Introduction to Film Studies,Christine Evans;Frederick Blichert;Morgan Harper;Morgan Orry Harper;Zoe Laks,97,69.63917525800001,16.450801377999998,90.0,0.0,8,,8,,8,15,6,11,22,10,1.0
+UBCV,2016,W,FIST,100,,004,Introduction to Film Studies,Matthew Gartner;Olga Ozkaya;Rebecca Gold;Robyn Citizen,97,79.587628866,9.351640428,93.0,55.0,0,,3,,5,6,10,16,16,25,12
+UBCV,2016,W,FIST,100,,OVERALL,Introduction to Film Studies,,335,72.047761194,14.714166442,93.0,0.0,21,12,17,16,25,45,35,45,66,38,15
 UBCV,2016,W,FIST,200,,002,Introduction to Canadian Cinema,Christine Evans,40,76.3,14.73387863,92.0,10.0,,,,,,,,7,9,9,
+UBCV,2016,W,FIST,200,,OVERALL,Introduction to Canadian Cinema,,40,76.3,14.73387863,92.0,10.0,,,,,,,,7,9,9,
 UBCV,2016,W,FIST,210,,001,Early Cinema,Kimberley Dawn Monteyne;Kimberley Monteyne,35,73.314285714,14.981893834000001,90.0,8.0,,,,,,,5,,8,6,
-UBCV,2016,W,FIST,220,,001,Hollywood Cinema 1930-1960,Lisa Coulthard,37,73.027027027,8.535828042,91.0,55.0,,,,,,5,8,6,6,,
-UBCV,2016,W,FIST,220,,002,Hollywood Cinema 1930-1960,Amanda Greer;Kimberley Dawn Monteyne;Kimberley Monteyne;Matthew Gartner,66,67.560606061,18.079422036,93.0,10.0,10,5,,,6,7,5,,8,9,
+UBCV,2016,W,FIST,210,,OVERALL,Early Cinema,,35,73.314285714,14.981893834000001,90.0,8.0,,,,,,,5,,8,6,
+UBCV,2016,W,FIST,220,,001,Hollywood Cinema 1930-1960,Lisa Coulthard,37,73.027027027,8.535828042,91.0,55.0,0,0,,,4,5,8,6,6,1,
+UBCV,2016,W,FIST,220,,002,Hollywood Cinema 1930-1960,Amanda Greer;Kimberley Dawn Monteyne;Kimberley Monteyne;Matthew Gartner,66,67.560606061,18.079422036,93.0,10.0,10,5,,,6,7,5,4,8,9,
+UBCV,2016,W,FIST,220,,OVERALL,Hollywood Cinema 1930-1960,,103,69.524271845,15.522813483,93.0,10.0,10,5,6,7,10,12,13,10,14,10,6
 UBCV,2016,W,FIST,240,,001,Media Industries,Ernest Mathijs,37,87.72972973,5.294906613,98.0,75.0,,,,,,,,,,15,16
+UBCV,2016,W,FIST,240,,OVERALL,Media Industries,,37,87.72972973,5.294906613,98.0,75.0,,,,,,,,,,15,16
 UBCV,2016,W,FIST,300,,001,Cult Cinema,Amanda Greer;Ernest Mathijs;Frederick Blichert,102,85.215686275,7.585326443,99.0,61.0,,,,,,,,6,19,35,33
+UBCV,2016,W,FIST,300,,OVERALL,Cult Cinema,,102,85.215686275,7.585326443,99.0,61.0,,,,,,,,6,19,35,33
 UBCV,2016,W,FIST,331,,002,Studies in Film Theory,Christine Evans,23,75.565217391,21.603505791,90.0,7.0,,,,,,,,,9,5,
+UBCV,2016,W,FIST,331,,OVERALL,Studies in Film Theory,,23,75.565217391,21.603505791,90.0,7.0,,,,,,,,,9,5,
 UBCV,2016,W,FIST,332,,99A,Studies in Genre or Period,Brian Mcilroy,35,74.742857143,10.738448944000002,90.0,38.0,,,,,,,5,5,6,7,
+UBCV,2016,W,FIST,332,,OVERALL,Studies in Genre or Period,,35,74.742857143,10.738448944000002,90.0,38.0,,,,,,,5,5,6,7,
 UBCV,2016,W,FIST,334,,001,Seminar in Documentary,Brian Mcilroy,25,78.56,7.900843837,90.0,62.0,,,,,,,,,6,5,
+UBCV,2016,W,FIST,334,,OVERALL,Seminar in Documentary,,25,78.56,7.900843837,90.0,62.0,,,,,,,,,6,5,
 UBCV,2016,W,FIST,336,,001,Seminar in European Cinema,Christine Evans,20,82.2,4.311551192,89.0,72.0,,,,,,,,5,9,5,
+UBCV,2016,W,FIST,336,,OVERALL,Seminar in European Cinema,,20,82.2,4.311551192,89.0,72.0,,,,,,,,5,9,5,
 UBCV,2016,W,FIST,338,,001,Asian and Australasian Cinema,Robyn Citizen,24,78.375,14.475804401,94.0,26.0,,,,,,,,,8,6,
+UBCV,2016,W,FIST,338,,OVERALL,Asian and Australasian Cinema,,24,78.375,14.475804401,94.0,26.0,,,,,,,,,8,6,
 UBCV,2016,W,FIST,340,,001,Media Audiences,Ernest Mathijs;Matthew Gartner,40,88.675,3.892053047,94.0,74.0,,,,,,,,,,19,18
+UBCV,2016,W,FIST,340,,OVERALL,Media Audiences,,40,88.675,3.892053047,94.0,74.0,,,,,,,,,,19,18
 UBCV,2016,W,FIST,434,E,001,Studies in Film,Kimberley Dawn Monteyne;Kimberley Monteyne,19,79.578947368,6.185249384,88.0,64.0,,,,,,,,,7,5,
+UBCV,2016,W,FIST,434,E,OVERALL,Studies in Film,,19,79.578947368,6.185249384,88.0,64.0,,,,,,,,,7,5,
 UBCV,2016,W,FIST,434,F,001,Studies in Film,Sarah Shamash,7,81.857142857,10.237652261000001,93.0,68.0,,,,,,,,,,,
+UBCV,2016,W,FIST,434,F,OVERALL,Studies in Film,,7,81.857142857,10.237652261000001,93.0,68.0,,,,,,,,,,,
 UBCV,2016,W,FIST,445,,001,Majors and Honours Seminar,Lisa Coulthard,14,83.642857143,5.31481446,90.0,75.0,,,,,,,,,,,
+UBCV,2016,W,FIST,445,,OVERALL,Majors and Honours Seminar,,14,83.642857143,5.31481446,90.0,75.0,,,,,,,,,,,
 UBCV,2016,W,FIST,534,B,002,Seminar in Film Studies,Christine Evans,5,90.4,0.5477225579999999,91.0,90.0,,,,,,,,,,,5
+UBCV,2016,W,FIST,534,B,OVERALL,Seminar in Film Studies,,5,90.4,0.5477225579999999,91.0,90.0,,,,,,,,,,,5

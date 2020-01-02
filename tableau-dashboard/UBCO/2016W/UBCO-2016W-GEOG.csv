@@ -1,32 +1,61 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2016,W,GEOG,108,,001,Introduction to Physical Geography I,Ashley D. Kerik;Ashley Kerik;Jennifer Little;Joseph Kornelsen;Joseph Peter Kornelsen;Kalim Bahbahani;Michael Pidwirny;Natasha Neumann;Tin-Yung Niu,205,69.141463415,13.210753485,95.0,1.0,12,8,16,21,25,26,34,18,30,10,5
+UBCO,2016,W,GEOG,108,,OVERALL,Introduction to Physical Geography I,,205,69.141463415,13.210753485,95.0,1.0,12,8,16,21,25,26,34,18,30,10,5
 UBCO,2016,W,GEOG,109,,001,Introduction to Physical Geography II,Natasha Neumann,167,67.395209581,16.548926396,97.0,0.0,20,18,17,14,7,18,14,12,20,14,13
+UBCO,2016,W,GEOG,109,,OVERALL,Introduction to Physical Geography II,,167,67.395209581,16.548926396,97.0,0.0,20,18,17,14,7,18,14,12,20,14,13
 UBCO,2016,W,GEOG,128,,001,"Human Geography: Space, Place, and Community",Jose Teixeira;Nasibeh Ahadi Maragheh,86,76.627906977,16.222023165,96.0,0.0,,,,,6,6,8,18,12,15,15
-UBCO,2016,W,GEOG,128,,101,"Human Geography: Space, Place, and Community",Delacey Tedesco;Stephanie Margarette Nagy;Stephanie Nagy,69,73.797101449,10.818801322999999,94.0,32.0,,,,,,7,14,14,19,,
-UBCO,2016,W,GEOG,129,,001,"Human Geography: Resources, Development, and Society",Lauren Arnold;Lauren Marie Arnold;Megan Salhus,74,73.22972973,14.127159597,93.0,0.0,,,,6,,13,9,10,13,11,
-UBCO,2016,W,GEOG,129,,101,"Human Geography: Resources, Development, and Society",Donna Senese;Lauren Arnold;Lauren Marie Arnold,79,69.886075949,18.040543614,100.0,0.0,8,,6,6,9,6,5,11,8,8,8
+UBCO,2016,W,GEOG,128,,101,"Human Geography: Space, Place, and Community",Delacey Tedesco;Stephanie Margarette Nagy;Stephanie Nagy,69,73.797101449,10.818801322999999,94.0,32.0,,,,,2,7,14,14,19,1,2
+UBCO,2016,W,GEOG,128,,OVERALL,"Human Geography: Space, Place, and Community",,155,75.367741935,14.103982745,96.0,0.0,5,,,5,8,13,22,32,31,16,17
+UBCO,2016,W,GEOG,129,,001,"Human Geography: Resources, Development, and Society",Lauren Arnold;Lauren Marie Arnold;Megan Salhus,74,73.22972973,14.127159597,93.0,0.0,3,0.0,3,6,4,13,9,10,13,11,2
+UBCO,2016,W,GEOG,129,,101,"Human Geography: Resources, Development, and Society",Donna Senese;Lauren Arnold;Lauren Marie Arnold,79,69.886075949,18.040543614,100.0,0.0,8,4.0,6,6,9,6,5,11,8,8,8
+UBCO,2016,W,GEOG,129,,OVERALL,"Human Geography: Resources, Development, and Society",,153,71.503267974,16.299468905999998,100.0,0.0,11,4.0,9,12,13,19,14,21,21,19,10
 UBCO,2016,W,GEOG,205,,001,Introduction to Hydrology,Fes Alexander De Scally,19,67.368421053,16.456037481,92.0,31.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,205,,OVERALL,Introduction to Hydrology,,19,67.368421053,16.456037481,92.0,31.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,222,,001,Geomorphology,Bernard Bauer,14,68.285714286,15.394447408,88.0,28.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,222,,OVERALL,Geomorphology,,14,68.285714286,15.394447408,88.0,28.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,271,,001,Geographic Data Analysis,Michael Pidwirny,34,76.323529412,16.759837614000002,97.0,19.0,,,,,,,,,,5,8
+UBCO,2016,W,GEOG,271,,OVERALL,Geographic Data Analysis,,34,76.323529412,16.759837614000002,97.0,19.0,,,,,,,,,,5,8
 UBCO,2016,W,GEOG,272,,001,Cartography and Remote Sensing,Ian Saunders,34,65.441176471,13.669677074,91.0,32.0,,,,,,7,,,,,
+UBCO,2016,W,GEOG,272,,OVERALL,Cartography and Remote Sensing,,34,65.441176471,13.669677074,91.0,32.0,,,,,,7,,,,,
 UBCO,2016,W,GEOG,310,,001,Environment and Resources,Michael Pidwirny,33,77.333333333,11.788942559,94.0,33.0,,,,,,7,6,,6,5,
+UBCO,2016,W,GEOG,310,,OVERALL,Environment and Resources,,33,77.333333333,11.788942559,94.0,33.0,,,,,,7,6,,6,5,
 UBCO,2016,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,14,78.571428571,5.169649381,86.0,70.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,314,,OVERALL,"Environmental Impact Assessment: Process, Regulation and Administration",,14,78.571428571,5.169649381,86.0,70.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,316,,001,Geography of Natural Hazards,Fes Alexander De Scally,34,76.852941176,11.157637289,95.0,50.0,,,,5,,,,,10,5,
+UBCO,2016,W,GEOG,316,,OVERALL,Geography of Natural Hazards,,34,76.852941176,11.157637289,95.0,50.0,,,,5,,,,,10,5,
 UBCO,2016,W,GEOG,317,,001,The Physical Environment of British Columbia,Ian Saunders,12,67.583333333,15.293839124000002,88.0,29.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,317,,OVERALL,The Physical Environment of British Columbia,,12,67.583333333,15.293839124000002,88.0,29.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,341,,001,"Quaternary Paleontology, Paleoecology, and Environmental Change",Ian Walker,5,64.0,16.507574019,81.0,44.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,341,,OVERALL,"Quaternary Paleontology, Paleoecology, and Environmental Change",,5,64.0,16.507574019,81.0,44.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,351,,001,Urban Social Geography,Jose Teixeira,33,77.272727273,21.20034305,92.0,0.0,,,,,,,5,,7,7,8
+UBCO,2016,W,GEOG,351,,OVERALL,Urban Social Geography,,33,77.272727273,21.20034305,92.0,0.0,,,,,,,5,,7,7,8
 UBCO,2016,W,GEOG,354,,001,"Urban Canada: Growth, Form, and Structure",Delacey Tedesco,13,81.23076923100001,5.988236331,90.0,71.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,354,,OVERALL,"Urban Canada: Growth, Form, and Structure",,13,81.23076923100001,5.988236331,90.0,71.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,356,,001,Stratigraphy and Sedimentology,Robert Young,5,68.8,19.690099035,85.0,35.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,356,,OVERALL,Stratigraphy and Sedimentology,,5,68.8,19.690099035,85.0,35.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,365,,001,Parks and Outdoor Recreation,Donna Senese,21,79.476190476,9.89757065,92.0,55.0,,,,,,,,5,6,,
+UBCO,2016,W,GEOG,365,,OVERALL,Parks and Outdoor Recreation,,21,79.476190476,9.89757065,92.0,55.0,,,,,,,,5,6,,
 UBCO,2016,W,GEOG,367,,001,Energy Resources Management,Kevin Hanna;Lisa Hettrich,15,59.0,22.226110771,80.0,5.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,367,,OVERALL,Energy Resources Management,,15,59.0,22.226110771,80.0,5.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,370,,001,Introduction to Geographic Information Systems,Catherine Kyle,44,83.431818182,9.841529772000001,97.0,60.0,,,,,,,,,8,11,13
+UBCO,2016,W,GEOG,370,,OVERALL,Introduction to Geographic Information Systems,,44,83.431818182,9.841529772000001,97.0,60.0,,,,,,,,,8,11,13
 UBCO,2016,W,GEOG,371,,001,Research Strategies in Human Geography,Donna Senese,17,70.470588235,23.100642976,94.0,18.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,371,,OVERALL,Research Strategies in Human Geography,,17,70.470588235,23.100642976,94.0,18.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,421,,001,Geography of Food Systems,Mary Stockdale,23,84.391304348,7.234633436,92.0,65.0,,,,,,,,,,8,8
+UBCO,2016,W,GEOG,421,,OVERALL,Geography of Food Systems,,23,84.391304348,7.234633436,92.0,65.0,,,,,,,,,,8,8
 UBCO,2016,W,GEOG,427,,001,NeoGeography,Catherine Kyle,8,84.75,7.343607521,93.0,76.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,427,,OVERALL,NeoGeography,,8,84.75,7.343607521,93.0,76.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,431,,001,Resource Management Policy and Practice,Kevin Hanna,14,80.428571429,6.465461917000001,88.0,67.0,,,,,,,,,7,,
+UBCO,2016,W,GEOG,431,,OVERALL,Resource Management Policy and Practice,,14,80.428571429,6.465461917000001,88.0,67.0,,,,,,,,,7,,
 UBCO,2016,W,GEOG,435,,001,Wine Geographies,Donna Senese,23,75.52173913,10.361070343,84.0,51.0,,,,,,,,,13,,
+UBCO,2016,W,GEOG,435,,OVERALL,Wine Geographies,,23,75.52173913,10.361070343,84.0,51.0,,,,,,,,,13,,
 UBCO,2016,W,GEOG,451,,001,Urban Planning,Bernard Momer,22,79.0,9.807674352000001,94.0,54.0,,,,,,,,,6,5,
+UBCO,2016,W,GEOG,451,,OVERALL,Urban Planning,,22,79.0,9.807674352000001,94.0,54.0,,,,,,,,,6,5,
 UBCO,2016,W,GEOG,458,,001,Population Geography,Jose Teixeira,26,75.576923077,23.649394203000004,94.0,0.0,,,,,,,,,,6,6
+UBCO,2016,W,GEOG,458,,OVERALL,Population Geography,,26,75.576923077,23.649394203000004,94.0,0.0,,,,,,,,,,6,6
 UBCO,2016,W,GEOG,466,,001,Soil Science,David Scott,8,59.25,13.843513179,76.0,43.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,466,,OVERALL,Soil Science,,8,59.25,13.843513179,76.0,43.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,491,A,001,Selected Topics in Geography,Lael Parrott,11,79.727272727,4.713616639,87.0,74.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,491,A,OVERALL,Selected Topics in Geography,,11,79.727272727,4.713616639,87.0,74.0,,,,,,,,,,,
 UBCO,2016,W,GEOG,491,F,001,Selected Topics in Geography,Daniel Austin;Iva Lihter;Lael Parrott,9,82.333333333,13.076696831,93.0,49.0,,,,,,,,,,,
+UBCO,2016,W,GEOG,491,F,OVERALL,Selected Topics in Geography,,9,82.333333333,13.076696831,93.0,49.0,,,,,,,,,,,

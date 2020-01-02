@@ -1,16 +1,30 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,ARCL,103,,002,Introduction to Archaeology,Camilla Speller;Thomas Brown,51,69.0,13.455110552999999,88.0,16.0,,,5,5,6,5,,8,12,,
-UBCV,2018,W,ARCL,103,,100,Introduction to Archaeology,Alejandra Diaz;Alejandra Lydia Diaz;David Pokotylo;Eric Simons,63,70.873015873,11.358515441,89.0,50.0,,7,6,,7,5,6,8,14,6,
-UBCV,2018,W,ARCL,140,,001,Bones: The Origins of Humanity,Darlene Weston;Mengyang Wu;Raini Bevilacqua,138,69.137681159,13.053618806,90.0,0.0,7,6,9,13,19,24,14,18,18,9,
-UBCV,2018,W,ARCL,203,,002,Archaeological Methods,Andrew Martindale;Leigh Elizabeth Doyle;Thomas Brown,54,70.907407407,13.682751182999999,91.0,20.0,,,,,5,6,8,5,11,6,
+UBCV,2018,W,ARCL,103,,002,Introduction to Archaeology,Camilla Speller;Thomas Brown,51,69.666666667,12.602645225,88.0,16.0,,3,5,5,6,6,3,8,12,2,
+UBCV,2018,W,ARCL,103,,100,Introduction to Archaeology,Alejandra Diaz;Alejandra Lydia Diaz;David Pokotylo;Eric Simons,63,70.873015873,11.358515441,89.0,50.0,,7,6,4,7,5,6,8,14,6,
+UBCV,2018,W,ARCL,103,,OVERALL,Introduction to Archaeology,,114,70.333333333,11.892339072,89.0,16.0,,10,11,9,13,11,9,16,26,8,
+UBCV,2018,W,ARCL,140,,001,Bones: The Origins of Humanity,Darlene Weston;Mengyang Wu;Raini Bevilacqua,138,69.137681159,13.053618806,90.0,0.0,7,6,9,13,19,24,14,18,18,9,1.0
+UBCV,2018,W,ARCL,140,,OVERALL,Bones: The Origins of Humanity,,138,69.137681159,13.053618806,90.0,0.0,7,6,9,13,19,24,14,18,18,9,1.0
+UBCV,2018,W,ARCL,203,,002,Archaeological Methods,Andrew Martindale;Leigh Elizabeth Doyle;Thomas Brown,54,71.407407407,13.394618067,91.0,20.0,,,,,5,6,8,6,11,6,
+UBCV,2018,W,ARCL,203,,OVERALL,Archaeological Methods,,54,71.407407407,13.394618067,91.0,20.0,,,,,5,6,8,6,11,6,
 UBCV,2018,W,ARCL,204,,002,Great Archaeological Discoveries,Zhichun Jing,28,72.428571429,17.160308578,90.0,14.0,,,,,,,5,5,7,,
-UBCV,2018,W,ARCL,228,,001,Forensic Anthropology,Darlene Weston;Jasmine Sacharuk;Steffan Gordon;Steffan Taylor Gordon,145,73.848275862,14.266964090999998,96.0,19.0,8,6,5,11,8,8,21,21,23,21,13
+UBCV,2018,W,ARCL,204,,OVERALL,Great Archaeological Discoveries,,28,72.428571429,17.160308578,90.0,14.0,,,,,,,5,5,7,,
+UBCV,2018,W,ARCL,228,,001,Forensic Anthropology,Darlene Weston;Jasmine Sacharuk;Steffan Gordon;Steffan Taylor Gordon,145,73.951724138,14.183485620999999,96.0,19.0,8,6,4.0,11,8,9,21,21,23,21,13
+UBCV,2018,W,ARCL,228,,OVERALL,Forensic Anthropology,,145,73.951724138,14.183485620999999,96.0,19.0,8,6,4.0,11,8,9,21,21,23,21,13
 UBCV,2018,W,ARCL,305,,002,Archaeological Interpretation,Jennifer Kramer;Zhichun Jing,19,79.894736842,13.763456997999999,89.0,26.0,,,,,,,,,8,7,
+UBCV,2018,W,ARCL,305,,OVERALL,Archaeological Interpretation,,19,79.894736842,13.763456997999999,89.0,26.0,,,,,,,,,8,7,
 UBCV,2018,W,ARCL,309,,001,The Archaeology of Collapse and Sustainability,Zhichun Jing,27,78.037037037,16.03717192,92.0,25.0,,,,,,,,,5,12,
+UBCV,2018,W,ARCL,309,,OVERALL,The Archaeology of Collapse and Sustainability,,27,78.037037037,16.03717192,92.0,25.0,,,,,,,,,5,12,
 UBCV,2018,W,ARCL,318,,001,Archaeology of Hunter-Gatherer-Forager-Societies,David Pokotylo;Jordan Handley,17,78.470588235,7.4340235329999995,89.0,56.0,,,,,,,,5,5,,
+UBCV,2018,W,ARCL,318,,OVERALL,Archaeology of Hunter-Gatherer-Forager-Societies,,17,78.470588235,7.4340235329999995,89.0,56.0,,,,,,,,5,5,,
 UBCV,2018,W,ARCL,322,,001,Archaeological Foundations of East and Southeast Asia,Zhichun Jing,15,84.333333333,2.663688814,87.0,78.0,,,,,,,,,,10,
+UBCV,2018,W,ARCL,322,,OVERALL,Archaeological Foundations of East and Southeast Asia,,15,84.333333333,2.663688814,87.0,78.0,,,,,,,,,,10,
 UBCV,2018,W,ARCL,325,,002,Paleoanthropology,Darlene Weston,20,73.2,14.449913495,94.0,34.0,,,,,,,6,,6,,
+UBCV,2018,W,ARCL,325,,OVERALL,Paleoanthropology,,20,73.2,14.449913495,94.0,34.0,,,,,,,6,,6,,
 UBCV,2018,W,ARCL,326,,001,Primatology,Darlene Weston;Heather Robertson,16,79.375,7.948794457999999,91.0,61.0,,,,,,,,8,,,
+UBCV,2018,W,ARCL,326,,OVERALL,Primatology,,16,79.375,7.948794457999999,91.0,61.0,,,,,,,,8,,,
 UBCV,2018,W,ARCL,405,,001,Archaeological and Anthropological Mapping,Chris Springer;Jonathan Duelks,18,81.166666667,18.221674230999998,99.0,22.0,,,,,,,,,,,8
+UBCV,2018,W,ARCL,405,,OVERALL,Archaeological and Anthropological Mapping,,18,81.166666667,18.221674230999998,99.0,22.0,,,,,,,,,,,8
 UBCV,2018,W,ARCL,419,,001,The Archaeology of Death,Darlene Weston,25,60.88,23.885700046,80.0,0.0,,,,,7,,,,,,
+UBCV,2018,W,ARCL,419,,OVERALL,The Archaeology of Death,,25,60.88,23.885700046,80.0,0.0,,,,,7,,,,,,
 UBCV,2018,W,ARCL,425,,002,Paleodiet,Camilla Speller,16,72.0,19.738287665999998,83.0,0.0,,,,,,,,,6,,
+UBCV,2018,W,ARCL,425,,OVERALL,Paleodiet,,16,72.0,19.738287665999998,83.0,0.0,,,,,,,,,6,,

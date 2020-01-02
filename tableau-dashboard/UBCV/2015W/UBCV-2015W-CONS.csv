@@ -1,16 +1,30 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,CONS,101,,102,Introduction to Conservation,Allan Carroll,231,79.865800866,12.906829979000001,100.0,18.0,8,,,6,9,14,17,34,40,54,42
+UBCV,2015,W,CONS,101,,OVERALL,Introduction to Conservation,,231,79.865800866,12.906829979000001,100.0,18.0,8,,,6,9,14,17,34,40,54,42
 UBCV,2015,W,CONS,127,,201,Observing the Earth from Space,Nicholas Charles Coops,38,84.65789473699999,13.467230129,100.0,50.0,,,,,,,,,,9,16
+UBCV,2015,W,CONS,127,,OVERALL,Observing the Earth from Space,,38,84.65789473699999,13.467230129,100.0,50.0,,,,,,,,,,9,16
 UBCV,2015,W,CONS,200,,001,Foundations of Conservation,Shannon Marie Hagerman,161,69.826086957,15.545724982000001,94.0,2.0,10,13,13,11,16,18,19,18,16,15,12
-UBCV,2015,W,CONS,200,,002,Foundations of Conservation,Janette Bulkan,143,72.797202797,13.823107537,93.0,17.0,10,,7,9,6,15,19,26,26,20,
+UBCV,2015,W,CONS,200,,002,Foundations of Conservation,Janette Bulkan,143,72.797202797,13.823107537,93.0,17.0,10,2,7,9,6,15,19,26,26,20,3
+UBCV,2015,W,CONS,200,,OVERALL,Foundations of Conservation,,304,71.223684211,14.811108742,94.0,2.0,20,15,20,20,22,33,38,44,42,35,15
 UBCV,2015,W,CONS,210,,101,Visualizing Climate Change,Stephen Sheppard,114,76.833333333,6.888385334,93.0,51.0,,,,,,14,16,35,27,11,
+UBCV,2015,W,CONS,210,,OVERALL,Visualizing Climate Change,,114,76.833333333,6.888385334,93.0,51.0,,,,,,14,16,35,27,11,
 UBCV,2015,W,CONS,302,,101,Issues in Genomics and the Environment,Kermit Ritland,14,81.285714286,3.383866051,88.0,76.0,,,,,,,,,8,,
+UBCV,2015,W,CONS,302,,OVERALL,Issues in Genomics and the Environment,,14,81.285714286,3.383866051,88.0,76.0,,,,,,,,,8,,
 UBCV,2015,W,CONS,330,,201,Conservation Science and Sustainability,Susanne Lavallee,99,75.202020202,8.654336884,91.0,50.0,,,5,5,,14,13,13,34,8,
+UBCV,2015,W,CONS,330,,OVERALL,Conservation Science and Sustainability,,99,75.202020202,8.654336884,91.0,50.0,,,5,5,,14,13,13,34,8,
 UBCV,2015,W,CONS,340,,101,Introduction to Geographic Information Systems for Forestry and Conservation,Michael Meitner,114,73.71929824600001,11.423085438,93.0,29.0,5,,,5,11,7,21,25,22,10,
+UBCV,2015,W,CONS,340,,OVERALL,Introduction to Geographic Information Systems for Forestry and Conservation,,114,73.71929824600001,11.423085438,93.0,29.0,5,,,5,11,7,21,25,22,10,
 UBCV,2015,W,CONS,370,,201,Aboriginal Forestry,Andrea Lyall,57,81.175438596,8.183438866,93.0,56.0,,,,,,,,9,14,17,7
+UBCV,2015,W,CONS,370,,OVERALL,Aboriginal Forestry,,57,81.175438596,8.183438866,93.0,56.0,,,,,,,,9,14,17,7
 UBCV,2015,W,CONS,425,,201,Sustainable Energy: Policy and Governance,George Hoberg,111,73.216216216,11.486280675,90.0,0.0,,,7,6,8,13,19,16,27,10,
+UBCV,2015,W,CONS,425,,OVERALL,Sustainable Energy: Policy and Governance,,111,73.216216216,11.486280675,90.0,0.0,,,7,6,8,13,19,16,27,10,
 UBCV,2015,W,CONS,451,,101,Integrated Field School,Sally Aitken;Scott Hinch;Susanne Lavallee,36,81.916666667,5.022094042,88.0,68.0,,,,,,,,,13,14,
+UBCV,2015,W,CONS,451,,OVERALL,Integrated Field School,,36,81.916666667,5.022094042,88.0,68.0,,,,,,,,,13,14,
 UBCV,2015,W,CONS,452,,201,Global Perspectives Capstone,Jeanine Rhemtulla;Sarah Gergel,26,76.923076923,9.599679482,87.0,55.0,,,,,,,,,11,,
+UBCV,2015,W,CONS,452,,OVERALL,Global Perspectives Capstone,,26,76.923076923,9.599679482,87.0,55.0,,,,,,,,,11,,
 UBCV,2015,W,CONS,481,,201,Conservation Planning and Wildland Recreation,Michael Meitner,67,77.134328358,7.804224812,93.0,53.0,,,,,,9,7,18,15,11,
+UBCV,2015,W,CONS,481,,OVERALL,Conservation Planning and Wildland Recreation,,67,77.134328358,7.804224812,93.0,53.0,,,,,,9,7,18,15,11,
 UBCV,2015,W,CONS,486,,201,Fish Conservation and Management,Scott Hinch,43,77.76744186,10.941048110999999,98.0,56.0,,,,,,,,7,7,11,
+UBCV,2015,W,CONS,486,,OVERALL,Fish Conservation and Management,,43,77.76744186,10.941048110999999,98.0,56.0,,,,,,,,7,7,11,
 UBCV,2015,W,CONS,495,,201,Principles of Managing Problem Wildlife in Forests and Agricultural Environments,Thomas Priestlay Sullivan,7,71.857142857,8.008923595,84.0,61.0,,,,,,,,,,,
+UBCV,2015,W,CONS,495,,OVERALL,Principles of Managing Problem Wildlife in Forests and Agricultural Environments,,7,71.857142857,8.008923595,84.0,61.0,,,,,,,,,,,

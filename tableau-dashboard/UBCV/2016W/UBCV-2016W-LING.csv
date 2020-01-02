@@ -1,40 +1,71 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,LING,100,,001,Introduction to Language and Linguistics,Alexandra Bosurgi;Hotze Rullmann;Samuel Akinbo;Samuel K Akinbo;Wai Man Lam,171,76.502923977,7.965642597,94.0,48.0,,,,7,14,19,26,38,36,25,
 UBCV,2016,W,LING,100,,002,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Oksana Tkachman;Suzanne Gessner;Thomas Heins,171,72.877192982,9.138934502,94.0,50.0,,,10,12,31,14,24,35,23,15,
-UBCV,2016,W,LING,100,,003,Introduction to Language and Linguistics,Oksana Tkachman;Raiane Oliveira Salles;Samuel Akinbo;Samuel K Akinbo;Strang Burton,164,84.006097561,12.711280412,98.0,2.0,,,,,,5,12,15,22,39,63
-UBCV,2016,W,LING,100,,004,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Johannes Heim;Suzanne Gessner;Thomas Heins,151,74.033112583,13.428535397000001,93.0,11.0,7,,8,13,10,5,21,21,27,28,7
+UBCV,2016,W,LING,100,,003,Introduction to Language and Linguistics,Oksana Tkachman;Raiane Oliveira Salles;Samuel Akinbo;Samuel K Akinbo;Strang Burton,164,84.006097561,12.711280412,98.0,2.0,,,,1,1,5,12,15,22,39,63
+UBCV,2016,W,LING,100,,004,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Johannes Heim;Suzanne Gessner;Thomas Heins,151,74.033112583,13.428535397000001,93.0,11.0,7,4.0,8,13,10,5,21,21,27,28,7
+UBCV,2016,W,LING,100,,OVERALL,Introduction to Language and Linguistics,,657,76.864535769,11.757648243,98.0,2.0,11,10,21,33,56,43,83,109,108,107,76
 UBCV,2016,W,LING,101,,002,Languages of the World,Alexandra Bosurgi;Strang Burton,177,77.576271186,12.708537829,97.0,5.0,,5,,10,13,21,21,13,25,30,33
 UBCV,2016,W,LING,101,,003,Languages of the World,Strang Burton,179,78.195530726,10.211844969,98.0,50.0,,,,14,19,10,23,17,41,26,26
 UBCV,2016,W,LING,101,,004,Languages of the World,Strang Burton,177,78.101694915,9.68368165,97.0,50.0,,,,6,13,26,21,19,38,26,24
 UBCV,2016,W,LING,101,,005,Languages of the World,Hermann Keupdjio;Strang Burton,188,76.053191489,11.354159662,97.0,25.0,,,7,11,15,20,25,26,33,27,18
+UBCV,2016,W,LING,101,,OVERALL,Languages of the World,,721,77.46185853,11.06440747,98.0,5.0,4.0,12,15,41,60,77,90,75,137,109,101
 UBCV,2016,W,LING,140,,002,Challenging Language Myths,Laurel Brinton;Laurel Fais,23,73.347826087,9.874709182,85.0,47.0,,,,,,,,,8,,
+UBCV,2016,W,LING,140,,OVERALL,Challenging Language Myths,,23,73.347826087,9.874709182,85.0,47.0,,,,,,,,,8,,
 UBCV,2016,W,LING,200,,001,Linguistic Theory and Analysis I,Andrei Anghelescu;Brianne Senior;Joash Gambarage Johannes;Joash Johannes;Kathleen Hall,134,74.320895522,13.425707999,93.0,14.0,9,,7,,9,11,18,23,28,18,7
+UBCV,2016,W,LING,200,,OVERALL,Linguistic Theory and Analysis I,,134,74.320895522,13.425707999,93.0,14.0,9,,7,,9,11,18,23,28,18,7
 UBCV,2016,W,LING,201,,001,Linguistic Theory and Analysis II,Avery Ozburn;Erin Guntly;Erin Varhola;Johannes Heim;Michael Rochemont,114,68.745614035,15.236083976,97.0,22.0,10,7,10,10,8,17,9,13,15,6,9
+UBCV,2016,W,LING,201,,OVERALL,Linguistic Theory and Analysis II,,114,68.745614035,15.236083976,97.0,22.0,10,7,10,10,8,17,9,13,15,6,9
 UBCV,2016,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Alexis Black;Joseph Stemberger,124,71.822580645,13.400672467,94.0,0.0,,,,12,10,21,18,21,18,10,
+UBCV,2016,W,LING,209,,OVERALL,"Clinical Topics in Speech, Language, and Hearing Sciences",,124,71.822580645,13.400672467,94.0,0.0,,,,12,10,21,18,21,18,10,
 UBCV,2016,W,LING,222,,002,Language Acquisition,Alexis Black;Carla Hudson Kam;Cassie Tam,101,74.722772277,12.426680017,95.0,42.0,,,7,8,7,10,5,15,17,13,12
-UBCV,2016,W,LING,300,,001,Studies in Grammar,Martina Wiltschko,49,84.816326531,13.619338991,96.0,0.0,,,,,,,,,15,11,19
+UBCV,2016,W,LING,222,,OVERALL,Language Acquisition,,101,74.722772277,12.426680017,95.0,42.0,,,7,8,7,10,5,15,17,13,12
+UBCV,2016,W,LING,300,,001,Studies in Grammar,Martina Wiltschko,49,84.816326531,13.619338991,96.0,0.0,,,,,,0,1,1,15,11,19
 UBCV,2016,W,LING,300,,002,Studies in Grammar,Martina Wiltschko;Sih Wei Chen,58,79.310344828,12.175913664000001,96.0,44.0,,,,,,5,6,6,8,10,14
-UBCV,2016,W,LING,311,,001,Studies in Phonology,Avery Ozburn;Douglas Pulleyblank,55,73.181818182,11.958401524000001,91.0,44.0,,,5,,,7,7,,9,8,
-UBCV,2016,W,LING,311,,002,Studies in Phonology,Andrei Anghelescu;Avery Ozburn;Douglas Pulleyblank,50,75.5,11.198123020999999,95.0,26.0,,,,,5,,,16,13,,
+UBCV,2016,W,LING,300,,OVERALL,Studies in Grammar,,107,81.831775701,13.08858496,96.0,0.0,,,,,,5,7,7,23,21,33
+UBCV,2016,W,LING,311,,001,Studies in Phonology,Avery Ozburn;Douglas Pulleyblank,55,73.181818182,11.958401524000001,91.0,44.0,,,5,,3,7,7,4,9,8,
+UBCV,2016,W,LING,311,,002,Studies in Phonology,Andrei Anghelescu;Avery Ozburn;Douglas Pulleyblank,50,75.5,11.198123020999999,95.0,26.0,,,1,,5,3,4,16,13,3,
+UBCV,2016,W,LING,311,,OVERALL,Studies in Phonology,,105,74.285714286,11.605464798,95.0,26.0,,,6,5,8,10,11,20,22,11,6
 UBCV,2016,W,LING,313,,001,Introduction to Linguistic Phonetics and Speech Science,Elise Mcclay;Megan Keough;Molly Babel,100,75.77,14.077602384,98.0,39.0,,6,8,,7,6,7,13,14,13,18
+UBCV,2016,W,LING,313,,OVERALL,Introduction to Linguistic Phonetics and Speech Science,,100,75.77,14.077602384,98.0,39.0,,6,8,,7,6,7,13,14,13,18
 UBCV,2016,W,LING,314,,001,Instrumental Phonetics,Megan Keough;Murray Henry Schellenberg;Murray Schellenberg,79,80.278481013,11.629909174000002,96.0,46.0,,,,5,,,7,6,17,16,18
+UBCV,2016,W,LING,314,,OVERALL,Instrumental Phonetics,,79,80.278481013,11.629909174000002,96.0,46.0,,,,5,,,7,6,17,16,18
 UBCV,2016,W,LING,319,,001,Comparative and Historical Linguistics,Rose-Marie Dechaine,13,75.0,9.255628918,90.0,58.0,,,,,,,,,,,
+UBCV,2016,W,LING,319,,OVERALL,Comparative and Historical Linguistics,,13,75.0,9.255628918,90.0,58.0,,,,,,,,,,,
 UBCV,2016,W,LING,327,,001,Introduction to Semantics,Lisa Matthewson;Sih Wei Chen,49,79.551020408,8.900049682999999,96.0,57.0,,,,,,7,9,5,10,6,9
+UBCV,2016,W,LING,327,,OVERALL,Introduction to Semantics,,49,79.551020408,8.900049682999999,96.0,57.0,,,,,,7,9,5,10,6,9
 UBCV,2016,W,LING,333,,001,Research Methods for Linguistics,Joseph Stemberger,70,80.428571429,4.4382116410000005,90.0,65.0,,,,,,,5,14,36,11,
+UBCV,2016,W,LING,333,,OVERALL,Research Methods for Linguistics,,70,80.428571429,4.4382116410000005,90.0,65.0,,,,,,,5,14,36,11,
 UBCV,2016,W,LING,345,,002,Pragmatics,Hotze Rullmann;Natalie Ann Weber;Natalie Weber,45,76.06666666699999,11.782884351,93.0,41.0,,,,,,5,9,6,6,5,7
+UBCV,2016,W,LING,345,,OVERALL,Pragmatics,,45,76.06666666699999,11.782884351,93.0,41.0,,,,,,5,9,6,6,5,7
 UBCV,2016,W,LING,405,,002,Morphology,Gunnar Hansson,15,76.866666667,10.432549796,91.0,56.0,,,,,,,,,,,
+UBCV,2016,W,LING,405,,OVERALL,Morphology,,15,76.866666667,10.432549796,91.0,56.0,,,,,,,,,,,
 UBCV,2016,W,LING,431,,001,Field Methods I,Henry Thomas Davis,6,80.5,3.4496376619999998,86.0,76.0,,,,,,,,,,,
+UBCV,2016,W,LING,431,,OVERALL,Field Methods I,,6,80.5,3.4496376619999998,86.0,76.0,,,,,,,,,,,
 UBCV,2016,W,LING,433,,001,Native Languages of the Americas,Suzanne Gessner,12,77.75,7.460502055,91.0,60.0,,,,,,,,6,,,
+UBCV,2016,W,LING,433,,OVERALL,Native Languages of the Americas,,12,77.75,7.460502055,91.0,60.0,,,,,,,,6,,,
 UBCV,2016,W,LING,445,,002,Sociolinguistics,Suzanne Gessner,39,74.82051282100001,7.986408833,90.0,57.0,,,,,,8,7,5,11,,
+UBCV,2016,W,LING,445,,OVERALL,Sociolinguistics,,39,74.82051282100001,7.986408833,90.0,57.0,,,,,,8,7,5,11,,
 UBCV,2016,W,LING,447,G,001,Topics in Linguistics,Lisa Matthewson,7,85.857142857,3.760699023,90.0,79.0,,,,,,,,,,,
+UBCV,2016,W,LING,447,G,OVERALL,Topics in Linguistics,,7,85.857142857,3.760699023,90.0,79.0,,,,,,,,,,,
 UBCV,2016,W,LING,447,H,001,Topics in Linguistics,James Mackie,16,75.8125,17.588703760999998,99.0,28.0,,,,,,,,,,,
+UBCV,2016,W,LING,447,H,OVERALL,Topics in Linguistics,,16,75.8125,17.588703760999998,99.0,28.0,,,,,,,,,,,
 UBCV,2016,W,LING,447,I,001,Topics in Linguistics,Michael Rochemont,8,86.25,4.131758533,91.0,79.0,,,,,,,,,,,
+UBCV,2016,W,LING,447,I,OVERALL,Topics in Linguistics,,8,86.25,4.131758533,91.0,79.0,,,,,,,,,,,
 UBCV,2016,W,LING,447,J,001,Topics in Linguistics,Molly Babel,32,79.0,6.2217101679999995,89.0,67.0,,,,,,,6,5,10,7,
+UBCV,2016,W,LING,447,J,OVERALL,Topics in Linguistics,,32,79.0,6.2217101679999995,89.0,67.0,,,,,,,6,5,10,7,
 UBCV,2016,W,LING,451,,001,Acquisition of Phonology,Joseph Stemberger;Michael Fry,23,77.260869565,8.475726793,89.0,60.0,,,,,,,,,,8,
+UBCV,2016,W,LING,451,,OVERALL,Acquisition of Phonology,,23,77.260869565,8.475726793,89.0,60.0,,,,,,,,,,8,
 UBCV,2016,W,LING,452,,001,Acquisition of Syntax,Carla Hudson Kam,24,85.125,11.136748804000002,99.0,54.0,,,,,,,,,,,10
+UBCV,2016,W,LING,452,,OVERALL,Acquisition of Syntax,,24,85.125,11.136748804000002,99.0,54.0,,,,,,,,,,,10
 UBCV,2016,W,LING,508,,001,Phonetic Theory & Analysis,Bryan Gick,6,86.833333333,3.656045222,91.0,82.0,,,,,,,,,,,
+UBCV,2016,W,LING,508,,OVERALL,Phonetic Theory & Analysis,,6,86.833333333,3.656045222,91.0,82.0,,,,,,,,,,,
 UBCV,2016,W,LING,510,,001,Phonological Theory and Analysis,Gunnar Hansson,5,87.4,2.607680962,91.0,85.0,,,,,,,,,,,
+UBCV,2016,W,LING,510,,OVERALL,Phonological Theory and Analysis,,5,87.4,2.607680962,91.0,85.0,,,,,,,,,,,
 UBCV,2016,W,LING,518,,002,Advanced Research Seminar,Molly Babel,5,87.0,1.4142135619999998,88.0,85.0,,,,,,,,,,5,
+UBCV,2016,W,LING,518,,OVERALL,Advanced Research Seminar,,5,87.0,1.4142135619999998,88.0,85.0,,,,,,,,,,5,
+UBCV,2016,W,LING,530,A,OVERALL,Linguistic Problems in a Special Area,,6,90.5,1.378404875,92.0,88.0,,,,,,,,,,0,5
 UBCV,2016,W,LING,530,B,001,Linguistic Problems in a Special Area,Douglas Pulleyblank;Gunnar Hansson,7,88.571428571,1.5118578919999999,92.0,88.0,,,,,,,,,,6,
 UBCV,2016,W,LING,530,B,002,Linguistic Problems in a Special Area,Douglas Pulleyblank;Gunnar Hansson,7,86.714285714,2.360387377,89.0,82.0,,,,,,,,,,6,
+UBCV,2016,W,LING,530,B,OVERALL,Linguistic Problems in a Special Area,,14,87.64285714299999,2.134231725,92.0,82.0,,,,,,,,,,12,
 UBCV,2016,W,LING,531,,001,Field Methods in Linguistics I,Henry Thomas Davis,6,90.0,1.673320053,92.0,88.0,,,,,,,,,,,
+UBCV,2016,W,LING,531,,OVERALL,Field Methods in Linguistics I,,6,90.0,1.673320053,92.0,88.0,,,,,,,,,,,

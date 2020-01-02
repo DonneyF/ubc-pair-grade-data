@@ -2,13 +2,17 @@ Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,S
 UBCV,2017,W,BAAC,501,,001,Financial Statement Analysis I,Joy Begley;Yang Yue,30,84.133333333,4.703141528,92.0,72.0,,,,,,,,,9,15,
 UBCV,2017,W,BAAC,501,,301,Financial Statement Analysis I,Russell Lundholm,30,84.233333333,8.143892712000001,99.0,63.0,,,,,,,,,5,10,6
 UBCV,2017,W,BAAC,501,,302,Financial Statement Analysis I,Hsiang-Chieh Yang;Joy Begley;Yang Yue,28,83.25,3.637510341,90.0,78.0,,,,,,,,,15,8,
-UBCV,2017,W,BAAC,511,,001,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,Jeff Kroeker,11,78.363636364,10.782140115,94.0,60.0,,,,,,,,,,,
+UBCV,2017,W,BAAC,501,,OVERALL,Financial Statement Analysis I,,88,83.886363636,5.81206003,99.0,63.0,,,,,,,5,9,29,33,10
+UBCV,2017,W,BAAC,511,,001,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,Jeff Kroeker,11,78.363636364,10.782140115,94.0,60.0,,,,,,,,,,2,
 UBCV,2017,W,BAAC,511,,302,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,Ling Du;Robert Jackes;Sandra Chamberlain,15,84.533333333,4.5492019180000005,91.0,76.0,,,,,,,,,,7,
-UBCV,2017,W,BAAC,550,,001,Foundations in  Accounting,Mary Chong;Ying Zou,48,83.4375,9.178852313,96.0,60.0,,,,,,,,,7,9,19
+UBCV,2017,W,BAAC,511,,OVERALL,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,,26,81.923076923,8.23127245,94.0,60.0,,,,,,,,,,9,
+UBCV,2017,W,BAAC,550,,001,Foundations in  Accounting,Mary Chong;Ying Zou,48,83.4375,9.178852313,96.0,60.0,,,,,,,4,,7,9,19
 UBCV,2017,W,BAAC,550,,002,Foundations in  Accounting,Mary Chong;Ying Zou,48,80.895833333,8.9519749,97.0,61.0,,,,,,,6,6,10,7,12
-UBCV,2017,W,BAAC,550,,300,Foundations in  Accounting,Jessica Louie;Sadhya Sawhney,40,80.275,5.887786141,94.0,66.0,,,,,,,5,10,12,8,
+UBCV,2017,W,BAAC,550,,300,Foundations in  Accounting,Jessica Louie;Sadhya Sawhney,40,80.275,5.887786141,94.0,66.0,,,,,,,5,10,12,8,2
 UBCV,2017,W,BAAC,550,,MM1,Foundations in  Accounting,Robert Jackes;Yu Lin Huang,38,80.921052632,7.806378468999999,94.0,62.0,,,,,,,5,,14,6,6
+UBCV,2017,W,BAAC,550,,OVERALL,Foundations in  Accounting,,174,81.459770115,8.189665838,97.0,60.0,,,,5,,12,20,22,43,30,39
 UBCV,2017,W,BAAC,551,,001,Foundations in Accounting II,Mary Chong;Ying Zou,47,84.212765957,7.219948724,95.0,69.0,,,,,,,,,9,14,14
 UBCV,2017,W,BAAC,551,,002,Foundations in Accounting II,Mary Chong;Ying Zou,50,80.96,7.7273962670000005,97.0,64.0,,,,,,,,6,18,9,8
-UBCV,2017,W,BAAC,551,,817,Foundations in Accounting II,Robert Jackes;Yu Lin Huang,25,81.88,8.804922865,94.0,68.0,,,,,,5,,,6,,6
-UBCV,2017,W,BAAC,551,,MM1,Foundations in Accounting II,Robert Jackes;Yu Lin Huang,39,80.871794872,5.400679718999999,88.0,68.0,,,,,,,,,16,12,
+UBCV,2017,W,BAAC,551,,817,Foundations in Accounting II,Robert Jackes;Yu Lin Huang,25,81.88,8.804922865,94.0,68.0,,,,,,5,,,6,4,6
+UBCV,2017,W,BAAC,551,,MM1,Foundations in Accounting II,Robert Jackes;Yu Lin Huang,39,80.871794872,5.400679718999999,88.0,68.0,,,,,,,,,16,12,0
+UBCV,2017,W,BAAC,551,,OVERALL,Foundations in Accounting II,,161,82.031055901,7.342872701,97.0,64.0,,,,,,14,14,14,49,39,28

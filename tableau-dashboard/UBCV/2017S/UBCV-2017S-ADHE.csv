@@ -1,17 +1,22 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,S,ADHE,327,,93Q,Teaching Adults,Dave Smulders,36,81.694444444,9.597081236000001,96.0,52.0,,,,,,,,5,10,7,8
 UBCV,2017,S,ADHE,327,,93S,Teaching Adults,Carolina Palacios,31,77.290322581,8.182067988,90.0,44.0,,,,,,,8,,10,5,
-UBCV,2017,S,ADHE,327,,93T,Teaching Adults,Hongxia Shan;Kapil Regmi,25,84.08,7.262460556000001,93.0,70.0,,,,,,,,,,8,7
+UBCV,2017,S,ADHE,327,,93T,Teaching Adults,Hongxia Shan;Kapil Regmi,25,84.08,7.262460556000001,93.0,70.0,,,,,,,,,4,8,7
 UBCV,2017,S,ADHE,327,,93V,Teaching Adults,Dave Smulders,27,82.0,5.870395086,91.0,68.0,,,,,,,,7,6,7,
-UBCV,2017,S,ADHE,328,,93Q,Institutions of Adult Education,Kapil Regmi;Omer Kamal Aijazi,30,87.933333333,5.258381378,93.0,72.0,,,,,,,,,,9,16
+UBCV,2017,S,ADHE,327,,OVERALL,Teaching Adults,,119,81.11764705899999,8.285352064,96.0,44.0,,,,,,,16,17,30,27,20
+UBCV,2017,S,ADHE,328,,93Q,Institutions of Adult Education,Kapil Regmi;Omer Kamal Aijazi,30,87.933333333,5.258381378,93.0,72.0,,,,,,,,,2,9,16
 UBCV,2017,S,ADHE,328,,93S,Institutions of Adult Education,Kapil Regmi,34,86.11764705899999,7.413193422999999,94.0,56.0,,,,,,,,,9,6,16
-UBCV,2017,S,ADHE,328,,93T,Institutions of Adult Education,Maren Elfert,29,80.379310345,8.208940218,89.0,59.0,,,,,,,,,6,13,
-UBCV,2017,S,ADHE,329,,93Q,"Developing Short Courses, Workshops and Seminars",Deonarine Bishundayal;Kapil Regmi,35,88.257142857,14.876635564,98.0,22.0,,,,,,,,,,,27
+UBCV,2017,S,ADHE,328,,93T,Institutions of Adult Education,Maren Elfert,29,80.379310345,8.208940218,89.0,59.0,,,,,,,,,6,13,0
+UBCV,2017,S,ADHE,328,,OVERALL,Institutions of Adult Education,,93,84.913978495,7.676412084,94.0,56.0,,,,,,,,7,17,28,32
+UBCV,2017,S,ADHE,329,,93Q,"Developing Short Courses, Workshops and Seminars",Deonarine Bishundayal;Kapil Regmi,35,88.257142857,14.876635564,98.0,22.0,,,,,,,,,,2,27
 UBCV,2017,S,ADHE,329,,93S,"Developing Short Courses, Workshops and Seminars",Dave Smulders;Deonarine Bishundayal;Kapil Regmi,34,84.029411765,15.888790205,96.0,9.0,,,,,,,,,,8,16
 UBCV,2017,S,ADHE,329,,93T,"Developing Short Courses, Workshops and Seminars",Carolina Palacios;Kapil Regmi,35,84.914285714,9.948016144,97.0,53.0,,,,,,,,,7,8,13
 UBCV,2017,S,ADHE,329,,93V,"Developing Short Courses, Workshops and Seminars",Deonarine Bishundayal,30,86.666666667,5.713464637,96.0,71.0,,,,,,,,,5,11,11
-UBCV,2017,S,ADHE,330,,93Q,The Community Practice of Adult Education,Deonarine Bishundayal,26,89.96153846200001,9.425415722,99.0,51.0,,,,,,,,,,,20
+UBCV,2017,S,ADHE,329,,OVERALL,"Developing Short Courses, Workshops and Seminars",,134,85.95522388100001,12.424730173,98.0,9.0,,,,,,,,6,18,29,67
+UBCV,2017,S,ADHE,330,,93Q,The Community Practice of Adult Education,Deonarine Bishundayal,26,89.96153846200001,9.425415722,99.0,51.0,,,,,,,,,,3,20
 UBCV,2017,S,ADHE,330,,93S,The Community Practice of Adult Education,Deonarine Bishundayal,28,84.107142857,10.887775290999999,98.0,57.0,,,,,,,,,,7,11
 UBCV,2017,S,ADHE,330,,951,The Community Practice of Adult Education,Deonarine Bishundayal,21,85.714285714,9.623631628,99.0,50.0,,,,,,,,,6,8,6
+UBCV,2017,S,ADHE,330,,OVERALL,The Community Practice of Adult Education,,75,86.586666667,10.239158186000001,99.0,50.0,,,,,,,,,10,18,37
 UBCV,2017,S,ADHE,412,,93Q,An Overview of Adult Education,Carolina Palacios,29,77.10344827600001,8.308106315,88.0,50.0,,,,,,,,6,9,6,
-UBCV,2017,S,ADHE,412,,93S,An Overview of Adult Education,Carolina Palacios,25,78.92,8.88781938,92.0,58.0,,,,,,,,,5,7,
+UBCV,2017,S,ADHE,412,,93S,An Overview of Adult Education,Carolina Palacios,25,78.92,8.88781938,92.0,58.0,,,,,,,,3,5,7,
+UBCV,2017,S,ADHE,412,,OVERALL,An Overview of Adult Education,,54,77.944444444,8.548235318,92.0,50.0,,,,,,,7,9,14,13,

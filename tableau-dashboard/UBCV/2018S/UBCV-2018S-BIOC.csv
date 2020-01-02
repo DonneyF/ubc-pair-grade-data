@@ -1,3 +1,5 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,S,BIOC,202,,951,Introductory Medical Biochemistry,Michael Krisinger,55,64.109090909,16.231739287,99.0,18.0,10,6,8,,,6,5,,,,
-UBCV,2018,S,BIOC,302,,951,General Biochemistry,Justin Barry Lee;Robert Maurus,98,74.5,16.523803511,99.0,29.0,5,8,7,10,,6,9,5,9,13,22
+UBCV,2018,S,BIOC,202,,OVERALL,Introductory Medical Biochemistry,,55,64.109090909,16.231739287,99.0,18.0,10,6,8,,,6,5,,,,
+UBCV,2018,S,BIOC,302,,951,General Biochemistry,Justin Barry Lee;Robert Maurus,98,74.5,16.523803511,99.0,29.0,5,8,7,10,4.0,6,9,5,9,13,22
+UBCV,2018,S,BIOC,302,,OVERALL,General Biochemistry,,98,74.5,16.523803511,99.0,29.0,5,8,7,10,4.0,6,9,5,9,13,22

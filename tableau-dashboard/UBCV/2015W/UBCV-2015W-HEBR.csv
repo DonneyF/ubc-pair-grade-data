@@ -1,5 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,HEBR,101,,001,Elementary Biblical Hebrew Part I,Kurtis Peters,24,81.666666667,12.599746949000002,99.0,54.0,,,,,,,,,,,8
-UBCV,2015,W,HEBR,102,,001,Elementary Biblical Hebrew Part II,Kurtis Peters;Ryan Schroeder,12,65.583333333,26.342010460999997,93.0,17.0,,,,,,,,,,,
+UBCV,2015,W,HEBR,101,,OVERALL,Elementary Biblical Hebrew Part I,,24,81.666666667,12.599746949000002,99.0,54.0,,,,,,,,,,,8
+UBCV,2015,W,HEBR,102,,001,Elementary Biblical Hebrew Part II,Kurtis Peters;Ryan Daniel Schroeder;Ryan Schroeder,12,65.583333333,26.342010460999997,93.0,17.0,,,,,,,,,,,
+UBCV,2015,W,HEBR,102,,OVERALL,Elementary Biblical Hebrew Part II,,12,65.583333333,26.342010460999997,93.0,17.0,,,,,,,,,,,
 UBCV,2015,W,HEBR,201,,001,Intermediate Biblical Hebrew I,Sara Milstein,7,74.428571429,15.767658279,95.0,48.0,,,,,,,,,,,
+UBCV,2015,W,HEBR,201,,OVERALL,Intermediate Biblical Hebrew I,,7,74.428571429,15.767658279,95.0,48.0,,,,,,,,,,,
 UBCV,2015,W,HEBR,202,,001,Intermediate Biblical Hebrew II,Kurtis Peters,6,79.5,8.666025617,90.0,68.0,,,,,,,,,,,
+UBCV,2015,W,HEBR,202,,OVERALL,Intermediate Biblical Hebrew II,,6,79.5,8.666025617,90.0,68.0,,,,,,,,,,,

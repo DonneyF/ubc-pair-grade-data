@@ -1,37 +1,67 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,S,EPSE,303,,951,Teaching Highly Able Learners,Chih Shen Lo;David Nicks,20,92.6,3.43970623,99.0,85.0,,,,,,,,,,,18
+UBCV,2018,S,EPSE,303,,OVERALL,Teaching Highly Able Learners,,20,92.6,3.43970623,99.0,85.0,,,,,,,,,,,18
 UBCV,2018,S,EPSE,312,,951,Introduction to the Study of Exceptional Children,Jenny Kim;Mary Heikkila,31,93.258064516,3.326336743,98.0,86.0,,,,,,,,,,,27
+UBCV,2018,S,EPSE,312,,OVERALL,Introduction to the Study of Exceptional Children,,31,93.258064516,3.326336743,98.0,86.0,,,,,,,,,,,27
 UBCV,2018,S,EPSE,316,,951,Learning Disabilities,Brandy-Jean Grund,22,92.0,3.9036002919999997,98.0,82.0,,,,,,,,,,5,16
+UBCV,2018,S,EPSE,316,,OVERALL,Learning Disabilities,,22,92.0,3.9036002919999997,98.0,82.0,,,,,,,,,,5,16
+UBCV,2018,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,92.21212121200001,7.0122998,100.0,71.0,,,,,,,,,,,26
 UBCV,2018,S,EPSE,320,,93Q,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,91.151515152,9.307662207,100.0,57.0,,,,,,,,,,,26
 UBCV,2018,S,EPSE,320,,93S,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,32,94.625,4.171717369,100.0,84.0,,,,,,,,,,,29
-UBCV,2018,S,EPSE,320,,921,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,33,92.21212121200001,7.0122998,100.0,71.0,,,,,,,,,,,26
 UBCV,2018,S,EPSE,320,,951,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,36,92.22222222200001,16.447511511,100.0,0.0,,,,,,,,,,,32
+UBCV,2018,S,EPSE,320,,OVERALL,Classroom Inclusion of Students who are Blind and Visually Impaired,,134,92.52985074600001,10.464181871000001,100.0,0.0,,,,,,,,,,9,113
 UBCV,2018,S,EPSE,348,,93Q,Family-Centred Practice for Children with Special Needs,Elizabeth Cox,23,82.391304348,9.962379829,92.0,54.0,,,,,,,,,5,7,5
+UBCV,2018,S,EPSE,348,,OVERALL,Family-Centred Practice for Children with Special Needs,,23,82.391304348,9.962379829,92.0,54.0,,,,,,,,,5,7,5
 UBCV,2018,S,EPSE,401,,951,Instructional Design,Vincent W.H. Chan,10,86.2,5.7503623070000005,93.0,76.0,,,,,,,,,,,
+UBCV,2018,S,EPSE,401,,OVERALL,Instructional Design,,10,86.2,5.7503623070000005,93.0,76.0,,,,,,,,,,,
 UBCV,2018,S,EPSE,403,,93Q,Education of Students with Developmental Disabilities in Inclusive Settings,Jane Kelty,32,85.96875,7.257851699,96.0,63.0,,,,,,,,,8,6,14
-UBCV,2018,S,EPSE,403,,93S,Education of Students with Developmental Disabilities in Inclusive Settings,Lara El Khatib,34,91.852941176,6.38242071,100.0,76.0,,,,,,,,,,6,23
+UBCV,2018,S,EPSE,403,,93S,Education of Students with Developmental Disabilities in Inclusive Settings,Lara El Khatib,34,91.852941176,6.38242071,100.0,76.0,,,,,,,,,3,6,23
+UBCV,2018,S,EPSE,403,,OVERALL,Education of Students with Developmental Disabilities in Inclusive Settings,,66,89.0,7.388140184,100.0,63.0,,,,,,,,,11,12,37
 UBCV,2018,S,EPSE,406,,93Q,Typical and Atypical Development in Infants and Children,Lara El Khatib,31,90.709677419,6.283277002999999,99.0,66.0,,,,,,,,,,7,21
+UBCV,2018,S,EPSE,406,,OVERALL,Typical and Atypical Development in Infants and Children,,31,90.709677419,6.283277002999999,99.0,66.0,,,,,,,,,,7,21
 UBCV,2018,S,EPSE,421,,951,Assessment of Learning Difficulties,Dorna Rahimi;Laurie Ford;Melanie T Nelson,18,94.944444444,2.1549456719999998,98.0,91.0,,,,,,,,,,,18
-UBCV,2018,S,EPSE,432,,951,Classroom Management,Sunita Braich,11,85.363636364,7.406385451,95.0,74.0,,,,,,,,,,,
+UBCV,2018,S,EPSE,421,,OVERALL,Assessment of Learning Difficulties,,18,94.944444444,2.1549456719999998,98.0,91.0,,,,,,,,,,,18
+UBCV,2018,S,EPSE,432,,951,Classroom Management,Sunita Braich,11,85.363636364,7.406385451,95.0,74.0,,,,,,,,,,,4
 UBCV,2018,S,EPSE,432,,952,Classroom Management,Erin Yorke;Katie Campbell,19,88.42105263200001,15.97329643,99.0,26.0,,,,,,,,,,,14
-UBCV,2018,S,EPSE,433,,96A,Assessment and Positive Behavioural Support in School and Community Settings,Michelle Pozin,7,89.714285714,4.029652,94.0,84.0,,,,,,,,,,,
+UBCV,2018,S,EPSE,432,,OVERALL,Classroom Management,,30,87.3,13.398790475999999,99.0,26.0,,,,,,,,,,,18
 UBCV,2018,S,EPSE,433,,951,Assessment and Positive Behavioural Support in School and Community Settings,Stephen Chinn;Stephen E Chinn,25,91.8,3.027650354,96.0,86.0,,,,,,,,,,5,20
+UBCV,2018,S,EPSE,433,,96A,Assessment and Positive Behavioural Support in School and Community Settings,Michelle Pozin,7,89.714285714,4.029652,94.0,84.0,,,,,,,,,,2,4
+UBCV,2018,S,EPSE,433,,OVERALL,Assessment and Positive Behavioural Support in School and Community Settings,,32,91.34375,3.31768842,96.0,84.0,,,,,,,,,,7,24
 UBCV,2018,S,EPSE,436,,951,Survey of Behaviour Disorders in Children and Adolescents,Kathleen Champion,23,95.47826087,2.9056303530000003,99.0,89.0,,,,,,,,,,,22
+UBCV,2018,S,EPSE,436,,OVERALL,Survey of Behaviour Disorders in Children and Adolescents,,23,95.47826087,2.9056303530000003,99.0,89.0,,,,,,,,,,,22
 UBCV,2018,S,EPSE,437,,951,Interventions for Children and Adolescents with Behaviour Disorders,Amina Madeleine Turton;Erin Hibbs,29,95.89655172399999,3.8576901639999996,100.0,86.0,,,,,,,,,,,27
+UBCV,2018,S,EPSE,437,,OVERALL,Interventions for Children and Adolescents with Behaviour Disorders,,29,95.89655172399999,3.8576901639999996,100.0,86.0,,,,,,,,,,,27
 UBCV,2018,S,EPSE,449,,93Q,Education of Students with Autism,Lara El Khatib,36,89.0,11.791037759000002,99.0,33.0,,,,,,,,,,6,24
-UBCV,2018,S,EPSE,449,,951,Education of Students with Autism,Alexia Stack;Brenda Fossett,20,80.4,9.483503683,91.0,52.0,,,,,,,,,,7,
+UBCV,2018,S,EPSE,449,,951,Education of Students with Autism,Alexia Stack;Brenda Fossett,20,80.4,9.483503683,91.0,52.0,,,,,,,,,,7,2
+UBCV,2018,S,EPSE,449,,OVERALL,Education of Students with Autism,,56,85.928571429,11.697485577,99.0,33.0,,,,,,,,5,6,13,26
 UBCV,2018,S,EPSE,456,,951,Advanced Orientation and Mobility Techniques,Kim Zebehazy,6,89.5,1.048808848,91.0,88.0,,,,,,,,,,,
+UBCV,2018,S,EPSE,456,,OVERALL,Advanced Orientation and Mobility Techniques,,6,89.5,1.048808848,91.0,88.0,,,,,,,,,,,
 UBCV,2018,S,EPSE,482,,921,Introduction to Statistics for Research in Education,Shayna Rusticus,15,80.666666667,10.033277962,91.0,61.0,,,,,,,,,,,
+UBCV,2018,S,EPSE,482,,OVERALL,Introduction to Statistics for Research in Education,,15,80.666666667,10.033277962,91.0,61.0,,,,,,,,,,,
 UBCV,2018,S,EPSE,483,,953,Reading and Interpreting Research in Education,Jacob Stone,21,89.523809524,13.891072844000002,98.0,31.0,,,,,,,,,,5,15
+UBCV,2018,S,EPSE,483,,OVERALL,Reading and Interpreting Research in Education,,21,89.523809524,13.891072844000002,98.0,31.0,,,,,,,,,,5,15
 UBCV,2018,S,EPSE,503,,96A,"Cultural Perspectives on Learning, Development and Media",Jennifer Vadeboncoeur,20,95.0,1.0760551740000002,96.0,92.0,,,,,,,,,,,20
+UBCV,2018,S,EPSE,503,,OVERALL,"Cultural Perspectives on Learning, Development and Media",,20,95.0,1.0760551740000002,96.0,92.0,,,,,,,,,,,20
 UBCV,2018,S,EPSE,509,,951,Organization of Special Education Services,Douglas Louis Matear;Douglas Matear;Selma Hageleit,11,94.909090909,1.921173884,97.0,92.0,,,,,,,,,,,11
+UBCV,2018,S,EPSE,509,,OVERALL,Organization of Special Education Services,,11,94.909090909,1.921173884,97.0,92.0,,,,,,,,,,,11
 UBCV,2018,S,EPSE,511,,941,"Special Topics in Human Development, Learning, and Culture",Jennifer Vadeboncoeur;Shawna Faber,12,91.666666667,3.3120532860000003,95.0,86.0,,,,,,,,,,,8
+UBCV,2018,S,EPSE,511,,OVERALL,"Special Topics in Human Development, Learning, and Culture",,12,91.666666667,3.3120532860000003,95.0,86.0,,,,,,,,,,,8
 UBCV,2018,S,EPSE,512,,941,Critical Issues in Special Education,Brenda Fossett,21,78.619047619,6.545809274,88.0,66.0,,,,,,,6,,6,5,
+UBCV,2018,S,EPSE,512,,OVERALL,Critical Issues in Special Education,,21,78.619047619,6.545809274,88.0,66.0,,,,,,,6,,6,5,
 UBCV,2018,S,EPSE,513,,951,Foundations of Orientation and Mobility for Teachers of Students with Visual Impairments,Kim Zebehazy,13,89.846153846,3.9125046080000003,95.0,82.0,,,,,,,,,,,8
+UBCV,2018,S,EPSE,513,,OVERALL,Foundations of Orientation and Mobility for Teachers of Students with Visual Impairments,,13,89.846153846,3.9125046080000003,95.0,82.0,,,,,,,,,,,8
 UBCV,2018,S,EPSE,518,,951,Speech Development of Deaf and Hard of Hearing Students,Arlene Brown,8,97.5,2.725540575,100.0,92.0,,,,,,,,,,,8
+UBCV,2018,S,EPSE,518,,OVERALL,Speech Development of Deaf and Hard of Hearing Students,,8,97.5,2.725540575,100.0,92.0,,,,,,,,,,,8
 UBCV,2018,S,EPSE,528,,951,Basic Principles of Measurement,Anita Hubley,11,89.090909091,5.2622152269999996,99.0,81.0,,,,,,,,,,,6
+UBCV,2018,S,EPSE,528,,OVERALL,Basic Principles of Measurement,,11,89.090909091,5.2622152269999996,99.0,81.0,,,,,,,,,,,6
 UBCV,2018,S,EPSE,530,,951,Seminar in Education of the Deaf and Hard of Hearing,Cheri-Leigh Sewell;Janet Ruth Jamieson,10,91.8,3.119829055,95.0,85.0,,,,,,,,,,,9
+UBCV,2018,S,EPSE,530,,OVERALL,Seminar in Education of the Deaf and Hard of Hearing,,10,91.8,3.119829055,95.0,85.0,,,,,,,,,,,9
 UBCV,2018,S,EPSE,561,C,090,Laboratory Practicum,Laurie Ford,6,87.166666667,3.763863264,92.0,82.0,,,,,,,,,,,
+UBCV,2018,S,EPSE,561,C,OVERALL,Laboratory Practicum,,6,87.166666667,3.763863264,92.0,82.0,,,,,,,,,,,
 UBCV,2018,S,EPSE,578,,951,Ethics for Behaviour Analysts,Richard Stock,17,90.529411765,3.970479301,96.0,82.0,,,,,,,,,,6,10
+UBCV,2018,S,EPSE,578,,OVERALL,Ethics for Behaviour Analysts,,17,90.529411765,3.970479301,96.0,82.0,,,,,,,,,,6,10
+UBCV,2018,S,EPSE,580,A,OVERALL,Investigation and Report of a Problem in Education,,5,93.2,4.266145802,97.0,86.0,,,,,,,,,,,
 UBCV,2018,S,EPSE,586,,921,Analyzing Discourse and Talk: An Overview of Methods,Meghan Corella Morales,6,96.666666667,3.204163958,100.0,92.0,,,,,,,,,,,6
+UBCV,2018,S,EPSE,586,,OVERALL,Analyzing Discourse and Talk: An Overview of Methods,,6,96.666666667,3.204163958,100.0,92.0,,,,,,,,,,,6
 UBCV,2018,S,EPSE,681,A,941,"Advanced Topics in Measurement, Evaluation, and Research",Anita Hubley,8,88.875,6.599512969,95.0,74.0,,,,,,,,,,,5
+UBCV,2018,S,EPSE,681,A,OVERALL,"Advanced Topics in Measurement, Evaluation, and Research",,8,88.875,6.599512969,95.0,74.0,,,,,,,,,,,5
