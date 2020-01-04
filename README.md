@@ -10,11 +10,12 @@ Tableau Dashboard | Dec 2019
 There are two main sources for the data. The first (now deprecated) source was from the old PAIR Reports dashboard located [here](https://webprd01.pair.ubc.ca/reports/welcome.action). This tool was removed in the summer of 2019 in favor of a Tabluea dashboard found [here](http://pair.ubc.ca/student-performance/grades-distribution/) (the UBC VPN is needed to access), serving as the second source.
 
 ## Differences
-The PAIR Reports contained these distinctions:
+The PAIR Reports represent RAW data taken from the dashboard contained these distinctions:
   - Number of students that audited the course
   - Number of students that completed the course outside any of the above three categories
   - Precision of grade averages and standard deviations of two decimal places
   - A grade category representing the number of fails as `<50`
+  - `OVERALL` sections for courses with a populated `DETAIL` field do not have that field populated.
   
 The new Tableau dashboard has these distinctions:
   - Additional privacy for the data, resulting in null entries for any class sections or grade letters that had fewer than 6 entires.
