@@ -24,6 +24,7 @@ The new Tableau dashboard has these distinctions:
   - Higher precision of grade averages and standard deviations to nine decimal places.
   - The campus code `UBC` has been changed to `UBCV`.
   - The course title fields are populated with its full title rather than an capitalized shorthand, as one might see on the SSC.
+  - The `Professor` field includes names of Teaching Assistants where available.
  
 These differences are reflected in the data.
 
