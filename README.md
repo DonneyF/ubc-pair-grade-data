@@ -25,6 +25,7 @@ The new Tableau dashboard has these distinctions:
   - The campus code `UBC` has been changed to `UBCV`.
   - The course title fields are populated with its full title rather than an capitalized shorthand, as one might see on the SSC.
   - The `Professor` field includes names of Teaching Assistants where available.
+  - The `Enrolled` field excludes students that withdrew or audited the course.
  
 These differences are reflected in the data.
 
