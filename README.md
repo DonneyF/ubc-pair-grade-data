@@ -20,6 +20,7 @@ The PAIR Reports represent RAW data taken from the dashboard contained these dis
 The new Tableau dashboard has these distinctions:
   - Additional privacy for the data, resulting in null entries for any class sections or grade letters that had fewer than 6 entires.
     - For this reason if fewer than 6 people failed a course it is not possible to get the failure/passing rate for a section.
+    - Additionally, for some sections only `OVERALL` sections are available where there is no data given for each grade category.
     - Where possible, missing grade entries are filled. For example, if only one entry is missing among all the grade categories for one section, the missing value can be computed by subtracting the populated grade entries from the total enrolment. This is also applied across sections, if only one section and one grade entry is missing across mutiple sections. The missing grade entry is computed by subtracting the populated grade entry for a particular grade category from the grade entry of the `OVERALL` section. This assumes that the `Enrolled` field is the sum of the students that received a grade in each grade category.
   - Higher precision of grade averages and standard deviations to nine decimal places.
   - The campus code `UBC` has been changed to `UBCV`.
