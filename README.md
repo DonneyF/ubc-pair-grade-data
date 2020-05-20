@@ -36,6 +36,6 @@ The data from PAIR Reports should only be relevant for grade data of around 2016
 
 Other considerations for this data include: 
 
-  - Certain rows are duplicated by everything except for the `Professor` column. Most of the time there one field will be empty and the other will be populated. In a few cases, all Professor columns will be non-empty and contain different entries. My solution to this was manually looking up the section info from PAIR and adjusting the section as necessary.
+  - Certain rows are duplicated by everything except for the `Professor` column. Most of the time there one field will be empty and the other will be populated. In a few cases, all Professor columns will be non-empty and contain different entries. My solution to this was manually looking up the section info from PAIR and adjusting the section as necessary. See the `extras` folder.
     - An exeption to this is `UBC-2007W-DENT-420-PSI` whose row is simply duplicated with no changes.
   - `OVERALL` sections are generated on the basis of the course code for the year. As such there will be numerous `OVERALL` rows if a course has a populated detail field.
