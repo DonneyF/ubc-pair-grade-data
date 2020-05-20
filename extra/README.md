@@ -8,4 +8,4 @@ A map for `pair-reports` data that fixes an issue where certain rows are duplica
 
 ## Subjects
 
-These files contains a list of subjects with their titles and associated faculty, taken from the SSC.
+These files contains a list of subjects with their titles and associated faculty, taken from the SSC. Older subjects no longer offered were taken from the calendar archives.
