@@ -5,7 +5,7 @@ This repo contains CSV data of grade distrubution data from UBC PAIR for each ca
 Data Source | Last Updated
 --- | ---
 PAIR Reports | June 2019
-Tableau Dashboard | Dec 2019
+Tableau Dashboard | Sept 2020 
 
 There are two main sources for the data. The first (now deprecated) source was from the old PAIR Reports dashboard located [here](https://webprd01.pair.ubc.ca/reports/welcome.action). This tool was removed in the summer of 2019 in favor of a Tabluea dashboard found [here](http://pair.ubc.ca/student-performance/grades-distribution/) (the UBC VPN is needed to access), serving as the second source.
 
@@ -16,7 +16,7 @@ The PAIR Reports represent RAW data taken from the dashboard contained these dis
   - Precision of grade averages and standard deviations of two decimal places
   - A grade category representing the number of fails as `<50`
   - `OVERALL` sections for courses with a populated `DETAIL` field do not have that field populated.
-  
+
 The new Tableau dashboard has these distinctions:
   - Additional privacy for the data, resulting in null entries for any class sections or grade letters that had fewer than 6 entires.
     - For this reason if fewer than 6 people failed a course it is not possible to get the failure/passing rate for a section.
@@ -27,7 +27,7 @@ The new Tableau dashboard has these distinctions:
   - The course title fields are populated with its full title rather than an capitalized shorthand, as one might see on the SSC.
   - The `Professor` field includes names of Teaching Assistants where available.
   - The `Enrolled` field excludes students that withdrew or audited the course.
- 
+
 These differences are reflected in the data.
 
 ## PAIR Reports Data
