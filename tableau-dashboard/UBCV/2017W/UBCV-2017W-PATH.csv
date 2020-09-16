@@ -5,11 +5,11 @@ UBCV,2017,W,PATH,301,,001,Basic and Physical Biochemistry for Medical Laboratory
 UBCV,2017,W,PATH,301,,OVERALL,Basic and Physical Biochemistry for Medical Laboratory Scientists,,12,76.166666667,10.486643742,90.0,54.0,,,,,,,,,,,
 UBCV,2017,W,PATH,303,,001,"Cytogenetics, Molecular Genetics, Tissue Culture & Cytology",Brenda Smith;Ian Bosdet;Jenny Tai;Juliana Li;Kamilla Schlade-Bartusiak;Tracy Tucker,12,75.083333333,12.398374770999999,92.0,51.0,,,,,,,,,,,
 UBCV,2017,W,PATH,303,,OVERALL,"Cytogenetics, Molecular Genetics, Tissue Culture & Cytology",,12,75.083333333,12.398374770999999,92.0,51.0,,,,,,,,,,,
-UBCV,2017,W,PATH,304,,001,Normal Human Histology,Brian Skinnider;Cyril Blake Gilks;Honglin Luo;Lawrence Lee;Stephen Yip;Tony Ng,14,80.357142857,6.020569138,93.0,68.0,,,,,,,,,5,,
+UBCV,2017,W,PATH,304,,001,Normal Human Histology,Brian Skinnider;Cyril Blake Gilks;Cyril Gilks;Honglin Luo;Lawrence Lee;Stephen Yip;Tony Ng,14,80.357142857,6.020569138,93.0,68.0,,,,,,,,,5,,
 UBCV,2017,W,PATH,304,,OVERALL,Normal Human Histology,,14,80.357142857,6.020569138,93.0,68.0,,,,,,,,,5,,
 UBCV,2017,W,PATH,305,,001,Modern Microscopy,Jayachandran Kizhakkedathu;John O'Kusky,14,73.5,8.281118467999999,90.0,57.0,,,,,,,,,,,
 UBCV,2017,W,PATH,305,,OVERALL,Modern Microscopy,,14,73.5,8.281118467999999,90.0,57.0,,,,,,,,,,,
-UBCV,2017,W,PATH,306,,001,Laboratory Safety for Medical Laboratory Scientists,Jennifer Xenakis;Michael Allen Noble,12,85.25,5.172040216,94.0,73.0,,,,,,,,,,6,
+UBCV,2017,W,PATH,306,,001,Laboratory Safety for Medical Laboratory Scientists,Jennifer Xenakis;Michael Allen Noble;Michael Noble,12,85.25,5.172040216,94.0,73.0,,,,,,,,,,6,
 UBCV,2017,W,PATH,306,,OVERALL,Laboratory Safety for Medical Laboratory Scientists,,12,85.25,5.172040216,94.0,73.0,,,,,,,,,,6,
 UBCV,2017,W,PATH,327,,001,"Bacteriology, Mycology, Virology and Parasitology",Agata Jassem;Mark Scott;Marthe Kenny Charles;Martin Petric;Mel Krajden;Miguel Imperial;Muhammad Morshed;William Hsiao,16,79.5625,8.213555868,98.0,68.0,,,,,,,,,5,,
 UBCV,2017,W,PATH,327,,OVERALL,"Bacteriology, Mycology, Virology and Parasitology",,16,79.5625,8.213555868,98.0,68.0,,,,,,,,,5,,
@@ -44,14 +44,14 @@ UBCV,2017,W,PATH,501,,001,Foundations of Human Histopathology,Anna Lee;David C W
 UBCV,2017,W,PATH,501,,OVERALL,Foundations of Human Histopathology,,14,87.285714286,7.151423435,98.0,70.0,,,,,,,,,,6,5
 UBCV,2017,W,PATH,502,,001,Current Topics in Pathology Research,Angela Devlin;Bruce Verchere;Cheryl Lea Wellington;Christian Steidl;David Granville;Edward Pryzdial;Helene Cote;John Priatel;Kevin Bennewith;Sohrab Shah;Stephen Yip;William Lockwood,15,90.4,4.548155042,97.0,84.0,,,,,,,,,,,9
 UBCV,2017,W,PATH,502,,OVERALL,Current Topics in Pathology Research,,15,90.4,4.548155042,97.0,84.0,,,,,,,,,,,9
-UBCV,2017,W,PATH,535,,001,Seminar,Cheryl Lea Wellington;Cornelia Laule;Helene Cote;Steve Ernest Kalloger;William Lockwood,6,88.5,1.7606816859999999,91.0,86.0,,,,,,,,,,5,
+UBCV,2017,W,PATH,535,,001,Seminar,Cheryl Lea Wellington;Cornelia Laule;Helene Cote;Steve Ernest Kalloger;William Lockwood,7,88.285714286,1.704336206,91.0,86.0,,,,,,,,,,6,
 UBCV,2017,W,PATH,535,,002,Seminar,Cheryl Lea Wellington;Cornelia Laule;Helene Cote;Steve Ernest Kalloger;William Lockwood,6,89.166666667,4.708148963999999,95.0,82.0,,,,,,,,,,2,
-UBCV,2017,W,PATH,535,,OVERALL,Seminar,,12,88.833333333,3.406766885,95.0,82.0,,,,,,,,,,7,
+UBCV,2017,W,PATH,535,,OVERALL,Seminar,,13,88.69230769200001,3.301126459,95.0,82.0,,,,,,,,,,8,
 UBCV,2017,W,PATH,547,,001,Techniques in Molecular Biology and Experimental Pathology,David Ng,11,90.636363636,2.335496832,94.0,87.0,,,,,,,,,,,7
 UBCV,2017,W,PATH,547,,OVERALL,Techniques in Molecular Biology and Experimental Pathology,,11,90.636363636,2.335496832,94.0,87.0,,,,,,,,,,,7
 UBCV,2017,W,PATH,548,C,03B,Directed Studies,Angela Devlin;Bradford Hoffman;Bruce Verchere;Dan Luciani;Francis Lynn;John Priatel;William Gibson,5,85.8,2.774887385,90.0,83.0,,,,,,,,,,,
 UBCV,2017,W,PATH,548,C,OVERALL,Directed Studies,,5,85.8,2.774887385,90.0,83.0,,,,,,,,,,,
-UBCV,2017,W,PATH,548,L,001,Directed Studies,Helene Cote;Steve Ernest Kalloger,8,86.875,3.181980515,93.0,83.0,,,,,,,,,,5,
-UBCV,2017,W,PATH,548,L,OVERALL,Directed Studies,,8,86.875,3.181980515,93.0,83.0,,,,,,,,,,5,
+UBCV,2017,W,PATH,548,L,001,Directed Studies,Helene Cote;Steve Ernest Kalloger,9,87.22222222200001,3.153481321,93.0,83.0,,,,,,,,,,5,
+UBCV,2017,W,PATH,548,L,OVERALL,Directed Studies,,9,87.22222222200001,3.153481321,93.0,83.0,,,,,,,,,,5,
 UBCV,2017,W,PATH,635,,001,Seminar,Cheryl Lea Wellington;Cornelia Laule;Helene Cote;Steve Ernest Kalloger;William Lockwood,5,89.8,2.9495762410000004,94.0,87.0,,,,,,,,,,,
 UBCV,2017,W,PATH,635,,OVERALL,Seminar,,8,89.25,3.9910614410000003,94.0,82.0,,,,,,,,,,,

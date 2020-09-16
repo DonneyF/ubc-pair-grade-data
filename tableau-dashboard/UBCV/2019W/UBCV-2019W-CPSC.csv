@@ -1,0 +1,200 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,CPSC,100,,101,Computational Thinking,Aksh Aggarwal;Arden Phoebe Allen;Carmen Jiawen Xu;Ivan Beschastnikh;Karin Kermani;Martin Felipe Pastor;Mohammad Khamseh;Mohammad Saei Khamseh;Paul Alexander Hendrik Bucci;Rachel Pottinger;Ripudaman Nigam;Ryan Nicolas Lam;Zhi Ting Yang,165,80.43636363600001,10.901046554,95.0,0.0,,,,,6,8,16,20,40,37,29
+UBCV,2019,W,CPSC,100,,102,Computational Thinking,Oluwakemi Ola,123,79.666666667,12.260603752,96.0,0.0,,,,,,7,16,18,27,33,14
+UBCV,2019,W,CPSC,100,,201,Computational Thinking,Aksh Aggarwal;Arden Phoebe Allen;Carmen Jiawen Xu;Jessica Hei-Man Wong;Jessica Wong;Karin Kermani,85,84.85882352899999,11.954430282,96.0,38.0,,,,,,1,2,3,12,21,37
+UBCV,2019,W,CPSC,100,,OVERALL,Computational Thinking,,373,81.190348525,11.749569342000001,96.0,0.0,8,0.0,6,6,12,16,34,41,79,91,80
+UBCV,2019,W,CPSC,103,,101,Introduction to Systematic Program Design,Akshat Thakur;Angela Chang;Angela Hung;Ashish Chopra;Benjamin Kai-Nan Chang;Chantelle Twynstra;Chris-Andra Akelia Mcintosh;Courtney Taylor Hermary;Emili Gubskaya;Hala Hawatmeh;Li Yi Goh;Mariana Paspuel Paredes;Mariana Yanaina Paspuel Paredes;Matthew Dietrich;Mehrdad Oveisi-Fordoei;Milan Tiwana;Pearl Ayem;Sherwyn D'Souza;Steven Wolfman;Sungwon Kim;Tiffany Tzu-Jung Huang;Xiao Dong Su,236,82.43220339,17.729638037,99.0,0.0,26,,,,7,6,8,8,26,39,113
+UBCV,2019,W,CPSC,103,,102,Introduction to Systematic Program Design,Steven Wolfman,220,82.009090909,15.623127367999999,99.0,20.0,18,,,,6,8,14,20,23,41,87
+UBCV,2019,W,CPSC,103,,201,Introduction to Systematic Program Design,Aidan Mathewson;Akshat Thakur;Angela Hung;Basima Spindari;Benjamin Kai-Nan Chang;Chantelle Twynstra;Chris-Andra Akelia Mcintosh;Emili Gubskaya;Herman Muller;Ivan Beschastnikh;Jessica Prinz;Kristine Gonzales;Mariana Paspuel Paredes;Mariana Yanaina Paspuel Paredes;Matthew Dietrich;Milan Tiwana;Pearl Ayem;Steven Wolfman;Suzanne Joanna Maria Geerts;Tiffany Tzu-Jung Huang,269,89.91449814100001,13.600514895999998,100.0,0.0,6,,,,,6,7,5,24,19,196
+UBCV,2019,W,CPSC,103,,202,Introduction to Systematic Program Design,Karina Mochetti De Magalhaes;Mohammad Mostafa Darwish;Steven Wolfman,180,90.238888889,11.229134039000002,99.0,28.0,2,,,,,2,2,8,16,15,128
+UBCV,2019,W,CPSC,103,,OVERALL,Introduction to Systematic Program Design,,905,86.106077348,15.361492792,100.0,0.0,52,,,6,19,22,31,41,89,114,524
+UBCV,2019,W,CPSC,107,,201,Systematic Program Design,Chloe Curry;Das Ayan;Juliette Link;Katherine Liang;Lara Marie Lampe;Meghan Allen;Michael De Marco;Phuong Dao Minh Nguyen;Phuong Nguyen;Ryan Mehri;Saffrin Granby;Sherwyn D'Souza;Zhe Li,151,77.298013245,14.486220902000001,98.0,20.0,4.0,5,9,6,10,10,13,13,25,20,36
+UBCV,2019,W,CPSC,107,,OVERALL,Systematic Program Design,,151,77.298013245,14.486220902000001,98.0,20.0,4.0,5,9,6,10,10,13,13,25,20,36
+UBCV,2019,W,CPSC,110,,101,"Computation, Programs, and Programming",Abid Salahi Esfahani;Allison Earle;Anna Wu;Anton Grier;Brooke Dai;Ceylin Ozdemir;Chia Sheng Pan;Collin Lucas Eng;Das Ayan;Do Hoon Lee;Emily Fuchs;Gregor Kiczales;Guramrit Kaur Bamrah;Hafsa Binte Zahid;Harlan Cielanga Colclough;Harlan Colclough;Hyesun An;Jack James Pitcher;Jeffrey Chew;Jia Rui Mao;Jiayi Fan;Jingze Dong;Jung Hoon Chrysen Chrysen Park;Jung Hoon Chrysen Park;Lara Marie Lampe;Laura Schmid;Lesley Miller;Maggie Yang;Maria Stephenson;Maya Vasdani;Mea Srisan;Meredith Clark;Millenia Kitikul;Mingxin Gong;Patrick Yung Kang Lee;Rodrigue De Schaetzen;Rodrigue Gregory De Schaetzen;Sassan Shokoohi;Shahbano Bhatti;Shannon Lawrence;Sophie Greenwood;Spencer Yao;Tashi Jain;Tugce Ozaydin;Vanessa Yau;Will Alvarez;Yanbo Zhao;Yang Qin;Yexiu Zhou;Yiyi Liu;Zhe Li,252,75.591269841,18.130876659000002,97.0,7.0,38,,,,8,11,25,24,47,39,53
+UBCV,2019,W,CPSC,110,,103,"Computation, Programs, and Programming",Ian Mitchell,252,75.400793651,17.171332526,96.0,12.0,29,4.0,5,6,13,20,16,31,39,38,51
+UBCV,2019,W,CPSC,110,,104,"Computation, Programs, and Programming",Gregor Kiczales,265,76.890566038,15.851085712,98.0,0.0,25,,,,14,18,21,27,51,51,48
+UBCV,2019,W,CPSC,110,,1CH,"Computation, Programs, and Programming",,24,87.625,7.545874197000001,97.0,72.0,,,,,0,0,2,,1,8,10
+UBCV,2019,W,CPSC,110,,201,"Computation, Programs, and Programming",Abid Salahi Esfahani;Alexander Steele;Allison Earle;Amanda Tupper;Anna Wu;Anton Grier;Ceylin Ozdemir;Chia Sheng Pan;Collin Lucas Eng;Duy Nguyen;Emily Fuchs;Eric Kuo;Evangeline Tay;Flora Chen;Frances Sin;Harlan Cielanga Colclough;Harlan Colclough;Hyesun An;Ian Del Rio-Wheatley;Jack James Pitcher;Jeffrey Chew;Jenny Shinhui Tammy Gechen;Jessica I-Wen Liang;Jiayi Fan;Jiayu Zhang;Jingze Dong;Jude Shamsi;Julie Bernelot Moens;Kee Ryun Park;Laura Schmid;Matthew Yep;Maya Vasdani;Mea Srisan;Mengxin Zhao;Miles Williams;Millenia Kitikul;Mingxin Gong;Norman Hutchinson;Patrick Yung Kang Lee;Paul Martin Carter;Piye Liu;Rodrigue De Schaetzen;Rodrigue Gregory De Schaetzen;Ryan Nicolas Lam;Sassan Shokoohi;Shannon Lawrence;Spencer Yao;Tashi Jain;Will Alvarez;Xinpei Li;Yang Qin;Yannan Zhu;Yexiu Zhou,188,75.563829787,13.725388093,99.0,0.0,4.0,7,14,11,10,17,20,22,26,31,26
+UBCV,2019,W,CPSC,110,,202,"Computation, Programs, and Programming",Oluwakemi Ola,191,78.167539267,13.299908734,98.0,0.0,,5,,10,8,18,18,26,32,28,38
+UBCV,2019,W,CPSC,110,,203,"Computation, Programs, and Programming",Gregor Kiczales;Norman Hutchinson,193,76.549222798,14.421082365,99.0,0.0,4.0,10,5,9,11,17,27,17,28,40,25
+UBCV,2019,W,CPSC,110,,OVERALL,"Computation, Programs, and Programming",,1424,76.488061798,15.669455386,99.0,0.0,106,31,38,43,70,107,135,153,237,244,260
+UBCV,2019,W,CPSC,110,,V01,"Computation, Programs, and Programming",Oluwakemi Ola,59,75.93220339,14.518554605,96.0,17.0,,,,,6,6,6,,13,9,9
+UBCV,2019,W,CPSC,121,,101,Models of Computation,Alara Celik;Andrew Jian-Feng Ouyang;Andrew Ouyang;Annika Vossen;Anton Iakovlevich Afanassiev;Arash Haj Shirmohammadi;Chanbin Lee;Charles Campbell Rossini Lake;David George Ewert;Dingchen Wei;Elizabeth Jiahui Xiao;Elizabeth Xiao;Harshit Chhajed;Hongkaiyue Zhou;Jack Rong;Jade (Yuwen) Zhong;Jade Zhong;Jasmine Kwong;Jonathan Budiardjo;Kevin Yang;Kim Nguyen Hoang Dinh;Li Zhen Hao;Lia Pennefather;Lila Mackenzie;Mai Linh Phan;Maja Evans;Mohi Reza;Pardis Roshanzamir;Patrice Belleville;Piye Liu;Preet Jayesh Nakrani;Sara (Xiyu) Zhang;Sara Zhang;Shukan Yang;Skye Methven;Tarang Mahapatra;Tian Xiao Rong;Titus Pak-Shing Wong;Wenyi Liu;Yang Kevin;Yannan Zhu;Yu-Hsin Tu;Zhen Hao Li,150,76.046666667,13.405566642,98.0,22.0,9,,,6,7,17,18,16,28,19,22
+UBCV,2019,W,CPSC,121,,102,Models of Computation,Geoffrey Tien;Hendrik Van Der Loos,151,76.264900662,14.725805914,96.0,33.0,16,,,6,8,13,15,13,26,32,21
+UBCV,2019,W,CPSC,121,,103,Models of Computation,David Kirkpatrick;Patrice Belleville,149,72.375838926,18.549596233,98.0,2.0,24,,,7,11,14,10,11,18,23,24
+UBCV,2019,W,CPSC,121,,201,Models of Computation,Alara Celik;Albert Chang;Annika Vossen;Arash Haj Shirmohammadi;Chanbin Lee;Charles Campbell Rossini Lake;Christopher Ren;Dingchen Wei;Geoffrey Tien;Harshit Chhajed;Hongkaiyue Zhou;Jack Rong;Jade Zhong;Jasmine Kwong;Jason Lee;Jerry Yin;Jiayi Ni;Jonathan Budiardjo;Kaiyuan Yang;Kevin Yang;Kim Nguyen Hoang Dinh;Li Zhen Hao;Lila Mackenzie;Pardis Roshanzamir;Patrice Belleville;Paul Alexander Hendrik Bucci;Philip Mak;Preet Jayesh Nakrani;Richard Hou;Rui Ge;Ryan Gang Liu;Siddharth Kunche;Simran Sanghera;Skye Methven;Tarang Mahapatra;Tian Xiao Rong;Titus Pak-Shing Wong;Xinpei Li;Zhen Hao Li;Zoe Fox,173,80.040462428,11.782110198,100.0,43.0,7,,,,6,13,19,14,36,37,34
+UBCV,2019,W,CPSC,121,,202,Models of Computation,Juliette Link;Mehrdad Oveisi-Fordoei;Patrice Belleville,177,79.88135593199999,14.325459788,97.0,3.0,8,,,,7,7,12,23,24,41,44
+UBCV,2019,W,CPSC,121,,203,Models of Computation,Alla Sheffer;Patrice Belleville,118,76.593220339,12.825746867000001,97.0,3.0,,,,,7,8,20,15,31,12,13
+UBCV,2019,W,CPSC,121,,204,Models of Computation,Geoffrey Tien,98,76.397959184,14.260275583,96.0,4.0,,,5,6,4,10,11,9,19,16,14
+UBCV,2019,W,CPSC,121,,OVERALL,Models of Computation,,1016,76.986220472,14.578606604,100.0,2.0,71,13,24,36,50,82,105,101,182,180,172
+UBCV,2019,W,CPSC,203,,101,"Programming, Problem Solving, and Algorithms",Cinda Heeren;Eylul Aygun;Simran Sanghera,27,90.074074074,8.071440277,100.0,75.0,,,,,,,,,5,,18
+UBCV,2019,W,CPSC,203,,OVERALL,"Programming, Problem Solving, and Algorithms",,27,90.074074074,8.071440277,100.0,75.0,,,,,,,,,5,,18
+UBCV,2019,W,CPSC,210,,101,Software Construction,Abbi Adhisakti Yuniarto;Abbi Yuniarto;Ahmed Abdelmoneim;Andrew Zulaybar;Andrey Krasnoperov;Benny Wong;Bhavesh Singhal;Bing Shu Lin;Bo Wen Xu;Derek Chen;Elisa Baniassad;Emilia Celeste Leatherman Hidalgo;Emilia Hidalgo;Eric Newton;Esteban Margaron;Hooman Hashemi;Jeremy Gill;Jeremy Gurdev Gill;John Turkson;Kenneth Mccorkell;Lester Lin;Lijie Hu Zhao;Lin Bing Shu;Lin Han Xiao;Lin Lester;Man Nok Ho;Mengxin Zhao;Min-Ji Han;Samuel Riddle;Sarah Ng;Shehzad Noor Taus Priyo;Victor Wang;Yi Fu Chen,171,79.304093567,15.914881518,98.0,13.0,10,,,,12,11,9,16,23,31,53
+UBCV,2019,W,CPSC,210,,102,Software Construction,Norman Hutchinson,163,70.570552147,17.450801858,97.0,18.0,22,4.0,9,12,9,11,21,12,21,16,26
+UBCV,2019,W,CPSC,210,,103,Software Construction,Paul Carter;Paul Martin Carter,171,72.561403509,17.307955543,97.0,11.0,21,2.0,8,8,10,13,17,22,24,17,29
+UBCV,2019,W,CPSC,210,,104,Software Construction,Jessica Hei-Man Wong;Jessica Wong,94,72.20212766,19.850830695,97.0,0.0,11,,,,8,10,8,11,16,14,11
+UBCV,2019,W,CPSC,210,,201,Software Construction,Alexander Caceres-Wright;Andrea Park;Beriwan Salamat Ravandi;Bhavesh Singhal;Brandon Jia Xin Tong;Derek Chen;Eric Newton;Giovanni Viviani;Jacques Chen;Min-Ji Han;Nicholas Peterson;Qi Fan Yan;Reginald Mcdonald;Samuel Riddle;Sarah Ng;Shaunak Tulshibagwale;Shiyu Chen;Shizuko Akamoto;Shukan Yang;Yanbo Zhao;Zhen Peng Zhu,140,82.821428571,14.651475167000001,100.0,0.0,,,,,,9,10,10,17,20,59
+UBCV,2019,W,CPSC,210,,202,Software Construction,Elisa Baniassad;Felix Grund,113,82.185840708,15.125987967999999,98.0,2.0,,,,6,5,4,,9,14,12,52
+UBCV,2019,W,CPSC,210,,203,Software Construction,Paul Carter;Paul Martin Carter,160,85.59375,11.827532570999999,100.0,45.0,,,,,,8,,7,21,19,88
+UBCV,2019,W,CPSC,210,,OVERALL,Software Construction,,1012,77.901185771,16.925627698,100.0,0.0,73,17,28,35,50,66,73,87,136,129,318
+UBCV,2019,W,CPSC,213,,101,Introduction to Computer Systems,Adel Akbar;Alireza Iranpour;Christopher Hui;Chuntong Gao;Dahoon Oh;Fengze Yu;Gorisha Agarwal;Gregory Gzik;Jae Han Kim;Laura Wong;Leif Pedersen;Mingxi Lei;Mukund Sundararajan;Oluwakemi Ola;Sabri Ege Okten;Soumya Singhal;Steven Wolfman;Tarik Eshaq;Wen Huang;Wenshi Wang,150,74.946666667,14.331074167999999,97.0,18.0,7,1.0,9,7,16,15,18,11,26,18,22
+UBCV,2019,W,CPSC,213,,102,Introduction to Computer Systems,Michael Feeley;Mohammad Mostafa Darwish,81,67.29629629600001,19.402605781,94.0,4.0,15,1.0,7,5,5,10,8,6,7,10,7
+UBCV,2019,W,CPSC,213,,203,Introduction to Computer Systems,Adel Akbar;Ailin Johannes Saggau Lyons;Ailin Saggau Lyons;Alan Milligan;Alireza Iranpour;Andrew Huy Quang Tran;Andrew Tran;Aviral Saxena;Bo Robert Xiao;Brent Hanover;Brent Robert Hanover;Burcu Gorgulicten;Chuntong Gao;Gorisha Agarwal;Gregory Gzik;Harkunwar Kochar;Harkunwar Singh Kochar;Himanshu Goyal;Ivan Beschastnikh;Jae Han Kim;Laura Wong;Lorenzo De Bernardini;Mingxi Lei;Mohamed Abouzaid;Muhan Li;Raghav Aggarwal;Reza Akhavan;Roark Zhang;Soumya Singhal;Tarik Eshaq;Wonhu Choi;Xiao Dong Su,171,79.812865497,11.92871269,100.0,50.0,0.0,5,10,5,9,12,20,11,25,35,39
+UBCV,2019,W,CPSC,213,,204,Introduction to Computer Systems,Michael Feeley;Steven Wolfman,141,79.0,10.299791954,100.0,52.0,,,,8,11,13,12,17,26,26,24
+UBCV,2019,W,CPSC,213,,205,Introduction to Computer Systems,Michael Feeley,90,76.488888889,10.602357639,100.0,48.0,,,,8,4,7,12,16,18,9,10
+UBCV,2019,W,CPSC,213,,OVERALL,Introduction to Computer Systems,,633,76.404423381,13.764547403,100.0,4.0,23,12,30,33,45,57,70,61,102,98,102
+UBCV,2019,W,CPSC,221,,101,Basic Algorithms and Data Structures,Anne Guo;Anne Jiahui Guo;Chen Xinyi;Cyrielle Jessica Meyrueix;Cyrielle Meyrueix;Hai Lin Zhang;Himanshu Chotwani;Ian (Shu-Hei) Wong;Ian Del Rio-Wheatley;Ian Mateo Del Rio-Wheatley;Ian Shu-Hei Wong;Ian Wong;Juliette Link;Kevin Choi;Kiara Grant;Maximilian Hnatiuk;Tanzila Rahman;Uriel Sade;William Evans;William Gu;Xinyi Chen;Yi Xuan Qi;Yifei Chen;Yuchi Zhang;Yutian Lin;Zijia Zhang,100,75.6,12.063803444000001,99.0,18.0,,,,,9,10,15,15,18,14,8
+UBCV,2019,W,CPSC,221,,102,Basic Algorithms and Data Structures,Cinda Heeren;Ivan Beschastnikh,98,75.489795918,13.679124661,96.0,7.0,,,,,6,12,14,14,24,9,10
+UBCV,2019,W,CPSC,221,,103,Basic Algorithms and Data Structures,William Evans,104,75.923076923,11.008110255999998,95.0,22.0,,,,7,8,13,13,12,22,15,8
+UBCV,2019,W,CPSC,221,,201,Basic Algorithms and Data Structures,Andrew Roth;Anne Guo;Anne Jiahui Guo;Aviral Saxena;Benjamin Paul-Dubois-Taine;Beriwan Salamat Ravandi;Chi Zhang;Cinda Heeren;Cristian Brazales Molina;Cyrus Thiabaud Engelbrecht;David George Ewert;Doru Kesriyeli;Dylan Lu;Emily Fuchs;Emily Mecke;Eric Wang;Eylul Aygun;Francis Nguyen;Gokce Dilek;Hafsa Binte Zahid;Hao Wang;Hyunsung Shin;Ian Shu-Hei Wong;Ian Wong;Ji Won Song;Junsung Yoo;Kevin Choi;Kevin Wong;Kevin Yang;Lara Marie Lampe;Lisa O'Brien;Maja Evans;Maximilian Was Damji;Maxine Yee;Mehrdad Oveisi-Fordoei;Nuket Baydogan;Rahim Mammadli;Tyler Lum;Uriel Sade;Will Alvarez;Xinyi Chen;Yi Fan Liu;Yi Xuan Qi;Yuefeng Zhao;Yutian Lin;Zhi Cheng Shen,172,79.83139534899999,8.954763006,98.0,57.0,,,,6,15,14,9,32,35,36,23
+UBCV,2019,W,CPSC,221,,202,Basic Algorithms and Data Structures,Cinda Heeren;Juliette Link,175,81.948571429,9.614565442,98.0,49.0,,,,,5,10,21,16,35,38,42
+UBCV,2019,W,CPSC,221,,203,Basic Algorithms and Data Structures,Geoffrey Tien;Jerry Jim,169,79.721893491,10.58186032,97.0,44.0,,,5,,13,13,14,25,26,36,30
+UBCV,2019,W,CPSC,221,,OVERALL,Basic Algorithms and Data Structures,,818,78.727383863,10.989268527,99.0,7.0,11,7,17,26,56,72,86,114,160,148,121
+UBCV,2019,W,CPSC,259,,101,Data Structures and Algorithms for Electrical Engineers,Ashley-Gail Wright;Gaurav Vasudev;Geoffrey Tien;Jed Yeo;Jerry Jim;Ruolan Ye;Ryan Kento Homsani;Sathya Jayakumar;Shenghang Luo;Shuyong Xie,202,76.881188119,11.627542468,97.0,25.0,9,,,,17,18,28,42,28,35,20
+UBCV,2019,W,CPSC,259,,OVERALL,Data Structures and Algorithms for Electrical Engineers,,202,76.881188119,11.627542468,97.0,25.0,9,,,,17,18,28,42,28,35,20
+UBCV,2019,W,CPSC,261,,201,Basics of Computer Systems,Frank Tai;Hosung Hwang;Jonatan Schroeder;Kaien Huang;Nicholas De Godoy Xavier;Xueqi Zeng;Zhaolong Han;Zi Yu Xue;Zixiao Zhou,115,77.504347826,11.24556358,94.0,39.0,,,,,8,10,10,18,20,23,14
+UBCV,2019,W,CPSC,261,,OVERALL,Basics of Computer Systems,,115,77.504347826,11.24556358,94.0,39.0,,,,,8,10,10,18,20,23,14
+UBCV,2019,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Hendrik Blok;Laura Greenstreet;Ramya Rao Basava;Tetsuya Matsumoto;Yuxi Feng,98,77.306122449,16.071623301,100.0,0.0,,,,5,7,12,6,15,15,7,25
+UBCV,2019,W,CPSC,302,,OVERALL,Numerical Computation for Algebraic Problems,,98,77.306122449,16.071623301,100.0,0.0,,,,5,7,12,6,15,15,7,25
+UBCV,2019,W,CPSC,303,,201,Numerical Approximation and Discretization,Gunho Oh;Joel Friedman;Jonathan Chan;Ramya Rao Basava,76,87.17105263200001,14.833644782999999,100.0,5.0,,,,,,,,,8,7,46
+UBCV,2019,W,CPSC,303,,OVERALL,Numerical Approximation and Discretization,,76,87.17105263200001,14.833644782999999,100.0,5.0,,,,,,,,,8,7,46
+UBCV,2019,W,CPSC,304,,101,Introduction to Relational Databases,Anita Mahinpei;Ansel Hartanto;Arya Rashtchian;Daniel Anatolie;Jennifer Chen;Jessica Wong;Manan Mehta;Mona Fadaviardakani;Raymond Tak-Yan Ng;Siyan Luo;Viniel Kumar;Xindi Wei;Xueqi Zeng;Zhenpeng Wu,167,76.62275449100001,8.680831096,94.0,45.0,,,,7,12,12,26,27,47,23,7
+UBCV,2019,W,CPSC,304,,102,Introduction to Relational Databases,Jessica Wong,165,77.36969697,8.672372901000001,95.0,37.0,,,,,10,17,25,34,40,21,11
+UBCV,2019,W,CPSC,304,,201,Introduction to Relational Databases,Aditya Chinchure;Alexander Luong;Ansel Hartanto;Arya Rashtchian;Benjamin Hwang;Farnoosh Javadifishani;Haoyu Yang;Jason Shau-Yin Chau;Jessica Wong;Michelle Wong;Siyan Luo;Tianyi Terry Zhang;Tianyi Zhang;Yijia Wen,164,89.280487805,6.4442381939999995,100.0,67.0,,,,,,5,2,3,22,38,93
+UBCV,2019,W,CPSC,304,,202,Introduction to Relational Databases,Hazra Imran,147,87.088435374,8.005926888,100.0,60.0,,,,,,4,7,8,19,40,65
+UBCV,2019,W,CPSC,304,,OVERALL,Introduction to Relational Databases,,643,82.435458787,9.80448047,100.0,37.0,,,5,12,25,38,60,72,128,122,176
+UBCV,2019,W,CPSC,310,,101,Introduction to Software Engineering,Ada Yu Ying Li;Arash Haj Shirmohammadi;Bang Chi Duong;Braxton Hall;Braxton Justice Hall;Chi Zhang;Eishan Lawrence;Harman Gakhal;Ivan Zhang;Junsung Yoo;Junze Wu;Kenny Kwan;Lucas Zamprogno;Noa Heyl;Oscar Tu;Reid Holmes;Ruoyu Wang;Syed Ishtiaque Ahmad;Tim Straubinger;Yilan Yan;Yvonne Li,179,82.446927374,8.842010871,97.0,43.0,,,,,,13,11,20,39,56,32
+UBCV,2019,W,CPSC,310,,102,Introduction to Software Engineering,Reid Holmes,153,78.14379085,10.32333732,94.0,37.0,,,6,7,7,10,13,17,53,24,13
+UBCV,2019,W,CPSC,310,,201,Introduction to Software Engineering,Bang Chi Duong;Braxton Hall;Braxton Justice Hall;Brian Neumann;Chi Zhang;Cyrielle Meyrueix;Elisa Baniassad;Emily Mecke;Hannah Lin;Ivan Zhang;Junsung Yoo;Junze Wu;Kenny Kwan;Lucas Zamprogno;Noa Heyl;Oscar Tu;Syed Ishtiaque Ahmad;Tommy Tho;Yilan Yan;Zhenpeng Wu,144,86.09027777799999,10.912822505,100.0,50.0,,,,,,5,7,8,15,19,80
+UBCV,2019,W,CPSC,310,,202,Introduction to Software Engineering,Elisa Baniassad,139,86.13669064700001,14.50846901,100.0,0.0,,,,,,1,5,6,19,26,74
+UBCV,2019,W,CPSC,310,,OVERALL,Introduction to Software Engineering,,615,83.063414634,11.598363275,100.0,0.0,7,5,11,12,14,29,36,51,126,125,199
+UBCV,2019,W,CPSC,311,,101,Definition of Programming Languages,Amy Zhu;Cyrus Thiabaud Engelbrecht;Felipe Andres Banados Schwerter;Joseph Eremondi;Junfeng Xu;Lily Anna Bryant,119,81.487394958,12.239049444,98.0,45.0,5,,,5,,8,9,11,15,26,36
+UBCV,2019,W,CPSC,311,,OVERALL,Definition of Programming Languages,,119,81.487394958,12.239049444,98.0,45.0,5,,,5,,8,9,11,15,26,36
+UBCV,2019,W,CPSC,312,,101,Functional and Logic Programming,Alyssa Zhao;David Poole;Farzad Abdolhosseini;Ivan Beschastnikh;Jason Shau-Yin Chau;Rui Ge;Thitaree Tanprasert,124,78.217741935,10.401344882,99.0,50.0,,,,10,8,10,15,11,27,23,16
+UBCV,2019,W,CPSC,312,,OVERALL,Functional and Logic Programming,,124,78.217741935,10.401344882,99.0,50.0,,,,10,8,10,15,11,27,23,16
+UBCV,2019,W,CPSC,313,,101,Computer Hardware and Operating Systems,Jonatan Schroeder;Kalli Leung;Ningfeng Yang;Patrick Wesley Ferguson;Rui Yin;Saeid Naderiparizi;Sameer Ahmed;William James Walcher;William Walcher;Yu Feng Guo;Zehui Gong,156,75.314102564,11.702111465,94.0,33.0,5,3.0,9,9,10,15,13,29,24,28,11
+UBCV,2019,W,CPSC,313,,102,Computer Hardware and Operating Systems,Jonatan Schroeder,84,68.904761905,12.557932306,91.0,39.0,7,4.0,10,5,6,10,13,10,12,5,2
+UBCV,2019,W,CPSC,313,,203,Computer Hardware and Operating Systems,Donald Acton;Kalli Leung;Leif Pedersen;Patrick Wesley Ferguson;Ricky Li;Sameer Ahmed;Vaastav Anand;Wenyi Liu;William James Walcher;William Walcher;Yi-Cheng Tsai;Yu Feng Guo,127,79.56692913399999,9.444567222,97.0,50.0,,,,6,5,8,14,16,34,24,16
+UBCV,2019,W,CPSC,313,,204,Computer Hardware and Operating Systems,Margo Seltzer,145,80.951724138,8.390082632999999,98.0,53.0,,,,5,6,8,13,18,37,38,19
+UBCV,2019,W,CPSC,313,,OVERALL,Computer Hardware and Operating Systems,,512,76.9140625,11.255459102,98.0,33.0,12,10,21,25,27,41,53,73,107,95,48
+UBCV,2019,W,CPSC,314,,101,Computer Graphics,Jonathan Caleb Griffin;Megha Shastry;Michiel Van De Panne;Tianxin Tao,75,78.8,12.677922925999999,97.0,29.0,,,,,6,6,5,6,17,17,12
+UBCV,2019,W,CPSC,314,,201,Computer Graphics,Dinesh Pai;Lei Shu;Luciano Burla;Megha Shastry;Seung Heon Sheen;Yue Wang;Ziheng Liang,102,80.960784314,10.651008941,99.0,26.0,,,,,4,5,5,14,27,26,15
+UBCV,2019,W,CPSC,314,,OVERALL,Computer Graphics,,177,80.04519774,11.56838325,99.0,26.0,,,6,,10,11,10,20,44,43,27
+UBCV,2019,W,CPSC,317,,101,Internet Computing,Arda Ege Unlu;Cathy Jiao;Cathy Lu Jiao;Daniyal Mokhammad;David Kirkpatrick;Donald Acton;Gerald Lee;Wumian Wang;Yi Fan Liu,166,71.397590361,14.040581667,96.0,10.0,13,5,5,9,20,22,22,18,30,14,8
+UBCV,2019,W,CPSC,317,,201,Internet Computing,Alan Wagner;Arda Ege Unlu;Bingyao Wang;Michelle Lee;Michelle Mun Hee Lee;Viniel Kumar;Yi Fan Liu,156,76.67948717899999,10.924365887999999,99.0,50.0,0,6,8,4,9,21,16,12,32,29,19
+UBCV,2019,W,CPSC,317,,OVERALL,Internet Computing,,322,73.956521739,12.88209065,99.0,10.0,13,11,13,13,29,43,38,30,62,43,27
+UBCV,2019,W,CPSC,319,,101,Software Engineering Project,Asem Ghaleb;Jerry Jim;Jerry Yick Jim;Michael Kim,32,85.875,4.434105358,94.0,74.0,,,,,,,,,11,11,9
+UBCV,2019,W,CPSC,319,,201,Software Engineering Project,Arthur De Sousa Marques;Asem Ghaleb;David Eric Pagurek Van Mossel;Francis Nguyen;Jerry Jim;Jerry Yick Jim;Junfeng Xu;Michael Englo;Vladislav Magay,82,89.5,7.137537702,98.0,61.0,,,,,,,,,3,24,47
+UBCV,2019,W,CPSC,319,,OVERALL,Software Engineering Project,,114,88.48245614,6.677438511,98.0,61.0,,,,,,,,,14,35,56
+UBCV,2019,W,CPSC,320,,101,Intermediate Algorithm Design and Analysis,Anne Condon;Elena Podina;Emmanuel Sales;Frank Tai;Harpaul Gill;Kyle Clarkson;Mourud Ahmed;Setareh Cohan;Seyed Ali Tabatabaee;Wan Shing Martin Wang;Yi Chen Cao;Zhaoming Xie;Zoe Fox,156,73.705128205,13.735857454000001,100.0,5.0,14,,,,10,23,28,30,17,11,17
+UBCV,2019,W,CPSC,320,,102,Intermediate Algorithm Design and Analysis,Alan Hu,129,70.372093023,15.026575295999999,100.0,33.0,17,5,8,5,18,10,14,14,15,10,13
+UBCV,2019,W,CPSC,320,,201,Intermediate Algorithm Design and Analysis,Ali Mohammad Mehr;Baitao Hu;Emmanuel Sales;Galen Hugh Wang;Galen Wang;Hanbo Yang;Jingwen Bai;Kyle Clarkson;Mourud Ahmed;Nicholas Harvey;Ningfeng Yang;Rebecca Zhi Ying Xie;Seyed Ali Tabatabaee;Wan Shing Martin Wang,173,85.086705202,11.865941935999999,100.0,5.0,,,,,,,10,10,36,43,62
+UBCV,2019,W,CPSC,320,,202,Intermediate Algorithm Design and Analysis,Georgios Tsiknis;Nicholas Harvey,165,86.115151515,9.760801434,100.0,57.0,,,,,,,8,8,33,37,65
+UBCV,2019,W,CPSC,320,,OVERALL,Intermediate Algorithm Design and Analysis,,623,79.462279294,14.266349202,100.0,5.0,33,8,16,11,34,40,60,62,101,101,157
+UBCV,2019,W,CPSC,322,,101,Introduction to Artificial Intelligence,Beriwan Salamat Ravandi;Federico Arribas Svendsen;Ganesh Jawahar;Hazra Imran;Joanna Tu;Kyle Clarkson;Raymond Li;Rui Ge;Siddhesh Khandelwal;Tzu-Yun Shann,127,78.0,10.114424714,95.0,37.0,5,,,,,12,18,26,27,23,10
+UBCV,2019,W,CPSC,322,,102,Introduction to Artificial Intelligence,Varada Kolhatkar,59,74.220338983,12.216534579000001,90.0,45.0,,,,,,6,6,8,14,10,2
+UBCV,2019,W,CPSC,322,,201,Introduction to Artificial Intelligence,Egor Peshkov;Elena Podina;Jordon Johnson;Linzi Xing;Matthew Wilson;Raymond Li;Yu-Hsin Tu,170,81.929411765,10.997351197999999,100.0,50.0,,,,5,10,11,16,20,27,22,54
+UBCV,2019,W,CPSC,322,,OVERALL,Introduction to Artificial Intelligence,,356,79.25,11.245875612999999,100.0,37.0,9,3.0,7,8,17,29,40,54,68,55,66
+UBCV,2019,W,CPSC,330,,201,Applied Machine Learning,Dylan Green;Jonathan Caleb Griffin;Michael Gelbart;Nam Hee Kim;Yuxi Feng,112,88.375,8.11863056,98.0,53.0,,,,,,,,,14,22,67
+UBCV,2019,W,CPSC,330,,OVERALL,Applied Machine Learning,,112,88.375,8.11863056,98.0,53.0,,,,,,,,,14,22,67
+UBCV,2019,W,CPSC,340,,101,Machine Learning and Data Mining,Benjamin Paul-Dubois-Taine;Betty Shea;Dylan Green;Frederik Dieter Kuenstner;Karl Slakov;Ke Ma;Mark Schmidt;Michael Przystupa;Nam Hee Kim;Sarah Habashi Elhammadi;Shahriar Shayesteh,87,77.16091954,19.175974287,97.0,3.0,8,,,,3,,12,,13,19,21
+UBCV,2019,W,CPSC,340,,103,Machine Learning and Data Mining,Mark Schmidt,85,79.635294118,9.48915052,94.0,46.0,,,,,5,,10,,37,15,9
+UBCV,2019,W,CPSC,340,,201,Machine Learning and Data Mining,Betty Shea;Chih-Hau Hou;Frank Donald Wood;Grigorii Anatolievich Guz;Grigorii Guz;Ke Ma;Olga Solodova;Setareh Cohan,160,85.90625,14.065791893,100.0,0.0,,,,,5,,15,13,19,30,70
+UBCV,2019,W,CPSC,340,,OVERALL,Machine Learning and Data Mining,,332,82.009036145,15.112765746,100.0,0.0,13,,5,,13,8,37,20,69,64,100
+UBCV,2019,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Alla Sheffer;Dongwook Yoon;Frances Sin;Francis Nguyen;Janet Chen;Karon Maclean;Kevin Chow;Laura Rodgers;Suzanne Joanna Maria Geerts,119,81.87394958,7.30167687,93.0,36.0,,,,,,,9,19,33,44,7
+UBCV,2019,W,CPSC,344,,OVERALL,Introduction to Human Computer Interaction Methods,,119,81.87394958,7.30167687,93.0,36.0,,,,,,,9,19,33,44,7
+UBCV,2019,W,CPSC,404,,101,Advanced Relational Databases,Chenliang Zhou;Dujian Ding;Laks Lakshmanan;Rui Zhang;Shivam Thukral,101,75.267326733,10.785074028,97.0,45.0,,2,,6,9,12,15,13,18,10,10
+UBCV,2019,W,CPSC,404,,201,Advanced Relational Databases,Dujian Ding;Laks Lakshmanan;Rui Zhang;Shivam Thukral;Xavier Dela Cruz,133,76.796992481,12.016881685,99.0,52.0,,11,,7,7,8,18,16,27,15,20
+UBCV,2019,W,CPSC,404,,OVERALL,Advanced Relational Databases,,234,76.136752137,11.502495330999999,99.0,45.0,2.0,13,8,13,16,20,33,29,45,25,30
+UBCV,2019,W,CPSC,406,,201,Computational Optimization,Babhru Joshi;Huang Fang;Michael Friedlander;Zhenan Fan,73,80.904109589,12.658072065999999,98.0,32.0,,,,,7,,5,6,7,18,20
+UBCV,2019,W,CPSC,406,,OVERALL,Computational Optimization,,73,80.904109589,12.658072065999999,98.0,32.0,,,,,7,,5,6,7,18,20
+UBCV,2019,W,CPSC,410,,101,Advanced Software Engineering,Anna Scholtz;Arthur De Sousa Marques;Elisa Baniassad;Nico Ritschel;Oksana Hlushko,147,85.142857143,5.336614288,97.0,70.0,,,,,,,8,6,34,61,37
+UBCV,2019,W,CPSC,410,,OVERALL,Advanced Software Engineering,,147,85.142857143,5.336614288,97.0,70.0,,,,,,,8,6,34,61,37
+UBCV,2019,W,CPSC,411,,201,Introduction to Compiler Construction,Lily Anna Bryant;Nico Ritschel;Ronald Garcia,46,84.47826087,9.246594882,99.0,59.0,,,,,,,,,13,9,15
+UBCV,2019,W,CPSC,411,,OVERALL,Introduction to Compiler Construction,,46,84.47826087,9.246594882,99.0,59.0,,,,,,,,,13,9,15
+UBCV,2019,W,CPSC,415,,101,Advanced Operating Systems,Ali Mohammad Mehr;Bingyao Wang;Donald Acton;Zixuan Yin,59,74.44067796600001,14.850137799,97.0,20.0,,,,,5,,11,13,7,5,7
+UBCV,2019,W,CPSC,415,,OVERALL,Advanced Operating Systems,,59,74.44067796600001,14.850137799,97.0,20.0,,,,,5,,11,13,7,5,7
+UBCV,2019,W,CPSC,416,,201,Distributed Systems,Donald Acton;Jonathan Budiardjo;Matheus Ulhoa Avelar Stolet;Swati Goswami;Zixuan Yin,112,76.080357143,14.142223784,98.0,0.0,,,,6,,13,17,17,23,13,12
+UBCV,2019,W,CPSC,416,,OVERALL,Distributed Systems,,112,76.080357143,14.142223784,98.0,0.0,,,,6,,13,17,17,23,13,12
+UBCV,2019,W,CPSC,420,,101,Advanced Algorithms Design and Analysis,Abner Turkieltaub Melo;Hu Fu;Iliad Ramezani;Mehrdad Oveisi-Fordoei;Vanderpoel A. Liam;Vanderpoel Liam,55,76.781818182,12.567876318,100.0,45.0,,2,,2,,5,10,4,9,9,7
+UBCV,2019,W,CPSC,420,,201,Advanced Algorithms Design and Analysis,Alan Hu;Ray He Qing Zhang;Ray Zhang;Uri Michael Ascher;Yihan Zhou;Zhaoming Xie,82,69.963414634,16.062720525,100.0,40.0,,18,,17,,8,1,9,9,12,6
+UBCV,2019,W,CPSC,420,,OVERALL,Advanced Algorithms Design and Analysis,,137,72.700729927,15.087667814000001,100.0,40.0,,20,,19,,13,11,13,18,21,13
+UBCV,2019,W,CPSC,421,,101,Introduction to Theory of Computing,Adam Jozefiak;Joel Friedman;Swati Goswami;Yuchong Pan,73,80.643835616,10.411491865,100.0,58.0,,,,,,9,9,,13,14,17
+UBCV,2019,W,CPSC,421,,OVERALL,Introduction to Theory of Computing,,73,80.643835616,10.411491865,100.0,58.0,,,,,,9,9,,13,14,17
+UBCV,2019,W,CPSC,422,,101,Intelligent Systems,Daniel Araujo Almeida;Daniele Reda;Giuseppe Carenini;Grigorii Anatolievich Guz;Grigorii Guz;Juliette Link;Matthew Wilson,94,84.989361702,13.661416259000001,100.0,18.0,,,,,,,7,7,15,8,46
+UBCV,2019,W,CPSC,422,,OVERALL,Intelligent Systems,,94,84.989361702,13.661416259000001,100.0,18.0,,,,,,,7,7,15,8,46
+UBCV,2019,W,CPSC,424,,101,Geometric Modelling,Alla Sheffer;Enrique Alberto Rosales Ruiz;Enrique Ruiz;Jerry Yin;Jinfan Yang;Willis Peng,46,82.673913043,11.508555943,100.0,60.0,,,,,,,,,9,6,16
+UBCV,2019,W,CPSC,424,,OVERALL,Geometric Modelling,,46,82.673913043,11.508555943,100.0,60.0,,,,,,,,,9,6,16
+UBCV,2019,W,CPSC,425,,101,Computer Vision,Farnoosh Javadifishani;Ivan Beschastnikh;James Joseph Little;James Little;Mir Rayat Imtiaz Hossain;Zicong Fan,69,76.869565217,11.102348776,94.0,41.0,,,,3,5,6,6,8,15,14,6
+UBCV,2019,W,CPSC,425,,201,Computer Vision,Hafsa Binte Zahid;Jerry Jim;Leonid Sigal;Mohammed Suhail;Mona Fadaviardakani;Tianxin Tao;Tzu-Yun Shann,157,77.43949044600001,11.641183293,98.0,0.0,,,,7,4,20,19,31,22,30,16
+UBCV,2019,W,CPSC,425,,OVERALL,Computer Vision,,226,77.265486726,11.457762201,98.0,0.0,,,7,10,9,26,25,39,37,44,22
+UBCV,2019,W,CPSC,427,,101,Video Game Programming,Alla Sheffer;David Eric Pagurek Van Mossel;Luciano Burla,74,87.08108108100001,10.207111081,100.0,45.0,,,,,,,,7,11,14,34
+UBCV,2019,W,CPSC,427,,OVERALL,Video Game Programming,,74,87.08108108100001,10.207111081,100.0,45.0,,,,,,,,7,11,14,34
+UBCV,2019,W,CPSC,430,,101,Computers and Society,Baraa Orabi;David Johnson;Jerry Jim;Kevin Leyton-Brown;Sang-Wha Sien,117,83.29059829100001,6.8595011239999995,94.0,42.0,,,,,,,8,8,50,30,17
+UBCV,2019,W,CPSC,430,,OVERALL,Computers and Society,,117,83.29059829100001,6.8595011239999995,94.0,42.0,,,,,,,8,8,50,30,17
+UBCV,2019,W,CPSC,436,V,201,Topics in Computer Science,Michael Oppermann;Tamara Munzner;Zipeng Liu,69,86.23188405799999,7.851835542999999,99.0,63.0,,,,,,,,8,12,18,25
+UBCV,2019,W,CPSC,436,V,OVERALL,Topics in Computer Science,,69,86.23188405799999,7.851835542999999,99.0,63.0,,,,,,,,8,12,18,25
+UBCV,2019,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Jerry Jim;Joanna Mcgrenere;Kevin Chow;Sang-Wha Sien,30,82.166666667,7.547931132,90.0,66.0,,,,,,,,,,16,
+UBCV,2019,W,CPSC,444,,OVERALL,Advanced Methods for Human Computer Interaction,,30,82.166666667,7.547931132,90.0,66.0,,,,,,,,,,16,
+UBCV,2019,W,CPSC,445,,201,Algorithms in Bioinformatics,Eric Lee;Faraz Hach,18,79.833333333,19.497360304,100.0,16.0,,,,,,,,,,,6
+UBCV,2019,W,CPSC,445,,OVERALL,Algorithms in Bioinformatics,,18,79.833333333,19.497360304,100.0,16.0,,,,,,,,,,,6
+UBCV,2019,W,CPSC,448,A,101,Directed Studies in Computer Science,,8,94.75,5.338539126000001,100.0,85.0,,,,,,,,,,,6
+UBCV,2019,W,CPSC,448,A,OVERALL,Directed Studies in Computer Science,,8,94.75,5.338539126000001,100.0,85.0,,,,,,,,,,,6
+UBCV,2019,W,CPSC,448,B,202,Directed Studies in Computer Science,,16,94.4375,4.912144813,100.0,85.0,,,,,,,,,,,13
+UBCV,2019,W,CPSC,448,B,OVERALL,Directed Studies in Computer Science,,17,94.470588235,4.758119995,100.0,85.0,,,,,,,,,,,14
+UBCV,2019,W,CPSC,448,C,001,Directed Studies in Computer Science,Paul Carter;Paul Martin Carter,5,90.0,7.38241153,98.0,80.0,,,,,,,,,,,-16
+UBCV,2019,W,CPSC,448,C,OVERALL,Directed Studies in Computer Science,,7,90.285714286,6.074928963,98.0,80.0,,,,,,,,,,,5
+UBCV,2019,W,CPSC,449,,001,Honours Thesis,,16,88.1875,9.81304404,99.0,60.0,,,,,,,,,,,13
+UBCV,2019,W,CPSC,449,,OVERALL,Honours Thesis,,16,88.1875,9.81304404,99.0,60.0,,,,,,,,,,,13
+UBCV,2019,W,CPSC,490,,201,Student Directed Seminars,,12,93.833333333,4.687184333,100.0,86.0,,,,,,,,,,,10
+UBCV,2019,W,CPSC,490,,202,Student Directed Seminars,,10,80.8,16.287691330999998,100.0,64.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,490,,203,Student Directed Seminars,Cinda Heeren,15,93.6,9.789206885,100.0,67.0,,,,,,,,,,,12
+UBCV,2019,W,CPSC,490,,204,Student Directed Seminars,,8,73.75,32.318725222,98.0,0.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,490,,OVERALL,Student Directed Seminars,,45,87.28888888899999,18.0159301,100.0,0.0,,,,,6,,,,,5,29
+UBCV,2019,W,CPSC,491,,201,Interactive Digital Media Practicum,,7,90.85714285700001,1.573591585,93.0,88.0,,,,,,,,,,,6
+UBCV,2019,W,CPSC,491,,OVERALL,Interactive Digital Media Practicum,,7,90.85714285700001,1.573591585,93.0,88.0,,,,,,,,,,,6
+UBCV,2019,W,CPSC,500,,201,Fundamentals of Algorithm Design and Analysis,Alan Hu;Uri Michael Ascher,13,75.153846154,14.943483272,93.0,40.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,500,,OVERALL,Fundamentals of Algorithm Design and Analysis,,13,75.153846154,14.943483272,93.0,40.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,501,,101,"Theory of Automata, Formal Languages and Computability",Joel Friedman;Raymond Tak-Yan Ng,8,91.625,7.0698050079999994,100.0,80.0,,,,,,,,,,,5
+UBCV,2019,W,CPSC,501,,OVERALL,"Theory of Automata, Formal Languages and Computability",,8,91.625,7.0698050079999994,100.0,80.0,,,,,,,,,,,5
+UBCV,2019,W,CPSC,503,,201,Computational Linguistics I,Dhavide Aruliah;Giuseppe Carenini;Linzi Xing,14,89.785714286,2.636389472,94.0,86.0,,,,,,,,,,8,6
+UBCV,2019,W,CPSC,503,,OVERALL,Computational Linguistics I,,14,89.785714286,2.636389472,94.0,86.0,,,,,,,,,,8,6
+UBCV,2019,W,CPSC,508,,101,Operating Systems,Margo Seltzer,12,83.75,5.207075606,92.0,72.0,,,,,,,,,6,,
+UBCV,2019,W,CPSC,508,,OVERALL,Operating Systems,,12,83.75,5.207075606,92.0,72.0,,,,,,,,,6,,
+UBCV,2019,W,CPSC,509,,101,Programming Language Principles,Ronald Garcia,19,82.894736842,8.177847698999999,94.0,68.0,,,,,,,,,,7,
+UBCV,2019,W,CPSC,509,,OVERALL,Programming Language Principles,,19,82.894736842,8.177847698999999,94.0,68.0,,,,,,,,,,7,
+UBCV,2019,W,CPSC,521,,101,Parallel Algorithms and Architectures,Alan Wagner,14,86.14285714299999,4.769408008,93.0,80.0,,,,,,,,,5,5,
+UBCV,2019,W,CPSC,521,,OVERALL,Parallel Algorithms and Architectures,,14,86.14285714299999,4.769408008,93.0,80.0,,,,,,,,,5,5,
+UBCV,2019,W,CPSC,522,,201,Artificial Intelligence II,David Poole;Georgios Tsiknis,6,86.5,2.258317958,89.0,84.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,522,,OVERALL,Artificial Intelligence II,,6,86.5,2.258317958,89.0,84.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,531,F,101,Topics in Theory of Computation,Hu Fu,10,91.3,4.98998998,100.0,80.0,,,,,,,,,,,8
+UBCV,2019,W,CPSC,531,F,OVERALL,Topics in Theory of Computation,,10,91.3,4.98998998,100.0,80.0,,,,,,,,,,,8
+UBCV,2019,W,CPSC,532,C,101,Topics in Artificial Intelligence,Cristina Conati,5,89.0,2.645751311,92.0,85.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,532,C,OVERALL,Topics in Artificial Intelligence,,5,89.0,2.645751311,92.0,85.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,532,M,101,Topics in Artificial Intelligence,Mark Schmidt,92,84.467391304,7.728143355,95.0,37.0,,,,,,,,6,14,47,18
+UBCV,2019,W,CPSC,532,M,OVERALL,Topics in Artificial Intelligence,,92,84.467391304,7.728143355,95.0,37.0,,,,,,,,6,14,47,18
+UBCV,2019,W,CPSC,532,P,101,Topics in Artificial Intelligence,Muhammad Abdul-Mageed,7,83.571428571,1.7182493859999999,85.0,80.0,,,,,,,,,5,,
+UBCV,2019,W,CPSC,532,P,OVERALL,Topics in Artificial Intelligence,,7,83.571428571,1.7182493859999999,85.0,80.0,,,,,,,,,5,,
+UBCV,2019,W,CPSC,532,R,201,Topics in Artificial Intelligence,Helge Rhodin;Yuchi Zhang,12,93.583333333,5.38446137,99.0,81.0,,,,,,,,,,,10
+UBCV,2019,W,CPSC,532,R,OVERALL,Topics in Artificial Intelligence,,12,93.583333333,5.38446137,99.0,81.0,,,,,,,,,,,10
+UBCV,2019,W,CPSC,533,R,201,Topics in Computer Graphics,Helge Rhodin;Yuchi Zhang,11,93.090909091,7.582275984,100.0,76.0,,,,,,,,,,,8
+UBCV,2019,W,CPSC,533,R,OVERALL,Topics in Computer Graphics,,11,93.090909091,7.582275984,100.0,76.0,,,,,,,,,,,8
+UBCV,2019,W,CPSC,533,V,201,Topics in Computer Graphics,Michiel Van De Panne,15,91.2,5.29420168,97.0,75.0,,,,,,,,,,,11
+UBCV,2019,W,CPSC,533,V,OVERALL,Topics in Computer Graphics,,15,91.2,5.29420168,97.0,75.0,,,,,,,,,,,11
+UBCV,2019,W,CPSC,535,P,101,Topics in Simulation and Optimization,Dinesh Pai,13,88.76923076899999,3.004270465,94.0,85.0,,,,,,,,,,7,6
+UBCV,2019,W,CPSC,535,P,OVERALL,Topics in Simulation and Optimization,,13,88.76923076899999,3.004270465,94.0,85.0,,,,,,,,,,7,6
+UBCV,2019,W,CPSC,536,S,201,Topics in Algorithms and Complexity,Frederick Shepherd,11,93.0,5.234500931,100.0,80.0,,,,,,,,,,,10
+UBCV,2019,W,CPSC,536,S,OVERALL,Topics in Algorithms and Complexity,,11,93.0,5.234500931,100.0,80.0,,,,,,,,,,,10
+UBCV,2019,W,CPSC,539,B,201,Topics in Programming Languages,William Bowman,12,93.666666667,9.393743888,99.0,65.0,,,,,,,,,,,11
+UBCV,2019,W,CPSC,539,B,OVERALL,Topics in Programming Languages,,12,93.666666667,9.393743888,99.0,65.0,,,,,,,,,,,11
+UBCV,2019,W,CPSC,540,,201,Machine Learning,Alla Sheffer;Frederik Dieter Kuenstner;Mark Schmidt;Si Yi Meng;Xiaomeng Ju,49,92.530612245,4.435190905,99.0,81.0,,,,,,,,,,6,41
+UBCV,2019,W,CPSC,540,,OVERALL,Machine Learning,,49,92.530612245,4.435190905,99.0,81.0,,,,,,,,,,6,41
+UBCV,2019,W,CPSC,544,,101,Human Computer Interaction,Joanna Mcgrenere,14,87.0,4.803844614,95.0,78.0,,,,,,,,,,6,
+UBCV,2019,W,CPSC,544,,OVERALL,Human Computer Interaction,,14,87.0,4.803844614,95.0,78.0,,,,,,,,,,6,
+UBCV,2019,W,CPSC,547,,101,Information Visualization,Tamara Munzner,31,90.51612903200001,7.72817774,97.0,60.0,,,,,,,,,,,24
+UBCV,2019,W,CPSC,547,,OVERALL,Information Visualization,,31,90.51612903200001,7.72817774,97.0,60.0,,,,,,,,,,,24
+UBCV,2019,W,CPSC,548,,OVERALL,Directed Study,,5,91.2,5.019960159,100.0,88.0,,,,,,,,,,,
+UBCV,2019,W,CPSC,554,K,201,Topics in Human-Computer Interaction,Dongwook Yoon;Leanne Currie;Paul Alexander Hendrik Bucci;Paul Bucci,16,90.75,4.683303677,96.0,84.0,,,,,,,,,,6,8
+UBCV,2019,W,CPSC,554,K,OVERALL,Topics in Human-Computer Interaction,,16,90.75,4.683303677,96.0,84.0,,,,,,,,,,6,8
+UBCV,2019,W,CPSC,554,X,101,Topics in Human-Computer Interaction,Bo Robert Xiao,19,89.263157895,6.6067482779999995,99.0,74.0,,,,,,,,,,,11
+UBCV,2019,W,CPSC,554,X,OVERALL,Topics in Human-Computer Interaction,,19,89.263157895,6.6067482779999995,99.0,74.0,,,,,,,,,,,11

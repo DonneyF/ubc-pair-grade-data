@@ -1,7 +1,7 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2016,W,ARCH,403,,001,Themes in Architecture and Design,Emily Nadene Scoular;Emily Scoular;Leslie Van Duzer,31,85.80645161300001,5.647532527999999,97.0,73.0,,,,,,,,,7,13,7
 UBCV,2016,W,ARCH,403,,OVERALL,Themes in Architecture and Design,,31,85.80645161300001,5.647532527999999,97.0,73.0,,,,,,,,,7,13,7
-UBCV,2016,W,ARCH,404,,001,Architectural History I,Allison Earl;Sara Stevens,10,80.2,9.49619807,88.0,55.0,,,,,,,,,,,
+UBCV,2016,W,ARCH,404,,001,Architectural History I,Allison Bernice Earl;Allison Earl;Sara Stevens,10,80.2,9.49619807,88.0,55.0,,,,,,,,,,,
 UBCV,2016,W,ARCH,404,,OVERALL,Architectural History I,,10,80.2,9.49619807,88.0,55.0,,,,,,,,,,,
 UBCV,2016,W,ARCH,405,,001,Architectural History II,Sherry Mckay;Umbreen Ashraf,20,79.15,7.741038962,90.0,58.0,,,,,,,,,6,5,
 UBCV,2016,W,ARCH,405,,OVERALL,Architectural History II,,20,79.15,7.741038962,90.0,58.0,,,,,,,,,6,5,
@@ -17,7 +17,7 @@ UBCV,2016,W,ARCH,501,,011,Architectural Design Studio II,Blair Satterfield,7,83.
 UBCV,2016,W,ARCH,501,,012,Architectural Design Studio II,Darryl Condon,9,77.555555556,7.601169501,90.0,68.0,,,,,,,,,,,
 UBCV,2016,W,ARCH,501,,013,Architectural Design Studio II,James Huemoeller;Katharine Huemoeller,6,80.666666667,1.505545305,83.0,79.0,,,,,,,,,,,
 UBCV,2016,W,ARCH,501,,OVERALL,Architectural Design Studio II,,45,81.755555556,5.568399295,92.0,68.0,,,,,,,,5,22,7,5
-UBCV,2016,W,ARCH,504,,001,Architectural History I,Allison Earl;Sara Stevens,44,79.227272727,9.96473698,92.0,33.0,,,,,,5,,8,12,14,
+UBCV,2016,W,ARCH,504,,001,Architectural History I,Allison Bernice Earl;Allison Earl;Sara Stevens,44,79.227272727,9.96473698,92.0,33.0,,,,,,5,,8,12,14,
 UBCV,2016,W,ARCH,504,,OVERALL,Architectural History I,,44,79.227272727,9.96473698,92.0,33.0,,,,,,5,,8,12,14,
 UBCV,2016,W,ARCH,505,,001,Architectural History II,Sherry Mckay,33,79.818181818,4.706740814,92.0,72.0,,,,,,,5,10,11,6,
 UBCV,2016,W,ARCH,505,,OVERALL,Architectural History II,,33,79.818181818,4.706740814,92.0,72.0,,,,,,,5,10,11,6,
@@ -25,7 +25,7 @@ UBCV,2016,W,ARCH,511,,001,Architectural Technology I,Gregory Johnson;Lance Patri
 UBCV,2016,W,ARCH,511,,OVERALL,Architectural Technology I,,28,81.821428571,4.243108325,92.0,74.0,,,,,,,,8,12,5,
 UBCV,2016,W,ARCH,512,,001,Structures I,Jean Dieres-Monplaisir;Joshua James Potvin;Joshua Potvin,28,85.678571429,7.542735389,98.0,61.0,,,,,,,,,6,9,9
 UBCV,2016,W,ARCH,512,,OVERALL,Structures I,,28,85.678571429,7.542735389,98.0,61.0,,,,,,,,,6,9,9
-UBCV,2016,W,ARCH,513,,001,Environmental Systems and Controls I,Julia Casol;Julia Kristine Casol;Raymond John Cole;Raymond John J Cole,52,80.076923077,5.052066763,93.0,68.0,,,,,,,5,12,23,7,
+UBCV,2016,W,ARCH,513,,001,Environmental Systems and Controls I,Julia Casol;Julia Kristine Casol;Raymond Cole;Raymond John Cole;Raymond John J Cole,52,80.076923077,5.052066763,93.0,68.0,,,,,,,5,12,23,7,
 UBCV,2016,W,ARCH,513,,OVERALL,Environmental Systems and Controls I,,52,80.076923077,5.052066763,93.0,68.0,,,,,,,5,12,23,7,
 UBCV,2016,W,ARCH,515,,001,Design Media I,Dina Dudokh;Gabriel Lacombe;John Bass;Kara Verbeek,39,81.307692308,5.890017631,92.0,66.0,,,,,,,,10,10,9,5
 UBCV,2016,W,ARCH,515,,OVERALL,Design Media I,,39,81.307692308,5.890017631,92.0,66.0,,,,,,,,10,10,9,5
@@ -77,9 +77,9 @@ UBCV,2016,W,ARCH,561,J,001,Seminar: History and Theory,Sara Stevens,7,82.2857142
 UBCV,2016,W,ARCH,561,J,OVERALL,Seminar: History and Theory,,7,82.285714286,5.089672082,89.0,75.0,,,,,,,,,,,
 UBCV,2016,W,ARCH,568,,001,Research Methods,Jared Skoreyko-Suits;Matthew Soules;Umbreen Ashraf,43,80.790697674,3.894795915,89.0,71.0,,,,,,,,9,23,7,
 UBCV,2016,W,ARCH,568,,OVERALL,Research Methods,,43,80.790697674,3.894795915,89.0,71.0,,,,,,,,9,23,7,
-UBCV,2016,W,ARCH,573,D,001,Seminar: Environmental Studies,Raymond John Cole;Raymond John J Cole,15,82.666666667,4.937707199,88.0,70.0,,,,,,,,,5,7,
+UBCV,2016,W,ARCH,573,D,001,Seminar: Environmental Studies,Raymond Cole;Raymond John Cole;Raymond John J Cole,15,82.666666667,4.937707199,88.0,70.0,,,,,,,,,5,7,
 UBCV,2016,W,ARCH,573,D,OVERALL,Seminar: Environmental Studies,,15,82.666666667,4.937707199,88.0,70.0,,,,,,,,,5,7,
-UBCV,2016,W,ARCH,573,G,001,Seminar: Environmental Studies,Raymond John Cole;Raymond John J Cole,8,84.625,1.685018016,86.0,82.0,,,,,,,,,,5,
+UBCV,2016,W,ARCH,573,G,001,Seminar: Environmental Studies,Raymond Cole;Raymond John Cole;Raymond John J Cole,8,84.625,1.685018016,86.0,82.0,,,,,,,,,,5,
 UBCV,2016,W,ARCH,573,G,OVERALL,Seminar: Environmental Studies,,8,84.625,1.685018016,86.0,82.0,,,,,,,,,,5,
 UBCV,2016,W,ARCH,577,A,001,Seminar: Design Media,Blair Satterfield,23,84.260869565,3.3196028139999996,90.0,78.0,,,,,,,,,12,8,
 UBCV,2016,W,ARCH,577,A,OVERALL,Seminar: Design Media,,23,84.260869565,3.3196028139999996,90.0,78.0,,,,,,,,,12,8,

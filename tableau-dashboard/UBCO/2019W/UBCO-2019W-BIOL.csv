@@ -1,0 +1,108 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2019,W,BIOL,116,,001,Biology for Science Majors I,Robin Young,274,72.33211678800001,13.109957261,96.0,0.0,19,7,13,16,22,32,40,32,61,15,17
+UBCO,2019,W,BIOL,116,,002,Biology for Science Majors I,Ellen Nilson,245,73.008163265,13.662498582000001,98.0,8.0,15,4.0,10,13,30,33,38,22,32,25,23
+UBCO,2019,W,BIOL,116,,OVERALL,Biology for Science Majors I,,519,72.651252408,13.36493111,98.0,0.0,34,11,23,29,52,65,78,54,93,40,40
+UBCO,2019,W,BIOL,117,,101,Evolution and Ecology,John Klironomos;Krin Mann,111,77.513513514,8.144004895,98.0,55.0,,,,,6,13,24,19,23,13,8
+UBCO,2019,W,BIOL,117,,OVERALL,Evolution and Ecology,,111,77.513513514,8.144004895,98.0,55.0,,,,,6,13,24,19,23,13,8
+UBCO,2019,W,BIOL,122,,001,Physiology of Multicellular Organisms,Ellen Nilson,58,64.60344827600001,16.994260801,95.0,0.0,9,5,8,6,,5,7,,6,,
+UBCO,2019,W,BIOL,122,,OVERALL,Physiology of Multicellular Organisms,,58,64.60344827600001,16.994260801,95.0,0.0,9,5,8,6,,5,7,,6,,
+UBCO,2019,W,BIOL,125,,001,Biology for Science Majors II,Matthew Nelson,193,72.663212435,10.437589523,93.0,32.0,6,2.0,9,18,16,38,25,26,33,11,9
+UBCO,2019,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,246,74.512195122,11.242315001,96.0,0.0,11,0.0,6,10,24,40,38,31,47,23,16
+UBCO,2019,W,BIOL,125,,OVERALL,Biology for Science Majors II,,439,73.699316629,10.922339994000001,96.0,0.0,17,2.0,15,28,40,78,63,57,80,34,25
+UBCO,2019,W,BIOL,131,,001,Human Anatomy and Physiology I,Brendan D'Souza,203,77.083743842,12.096881267999999,98.0,31.0,7,0.0,7,16,12,13,29,20,38,24,37
+UBCO,2019,W,BIOL,131,,OVERALL,Human Anatomy and Physiology I,,203,77.083743842,12.096881267999999,98.0,31.0,7,0.0,7,16,12,13,29,20,38,24,37
+UBCO,2019,W,BIOL,133,,001,Human Anatomy and Physiology II,Brendan D'Souza;W Mathieson,160,81.33125,9.11748743,100.0,49.0,,,,,8,8,15,28,34,29,33
+UBCO,2019,W,BIOL,133,,OVERALL,Human Anatomy and Physiology II,,160,81.33125,9.11748743,100.0,49.0,,,,,8,8,15,28,34,29,33
+UBCO,2019,W,BIOL,200,,001,Cell Biology,Matthew Nelson;Robin Young,35,70.942857143,10.946239905,91.0,46.0,1,2,3.0,2,2,6,8,3,3,4,1
+UBCO,2019,W,BIOL,200,,002,Cell Biology,Candice Quin;Matthew Nelson;Paige Barbara Dafoe;Paige Dafoe,132,69.545454545,14.184371378,95.0,22.0,9,14,17,7,6,13,16,11,19,11,9
+UBCO,2019,W,BIOL,200,,101,Cell Biology,Alyssa Dasilva Curiel;Matthew Nelson;Richard Plunkett,116,72.706896552,12.725884093,95.0,45.0,5,7,4.0,8,19,17,9,6,14,15,12
+UBCO,2019,W,BIOL,200,,OVERALL,Cell Biology,,283,71.01413427600001,13.271836477,95.0,22.0,15,23,24,17,27,36,33,20,36,30,22
+UBCO,2019,W,BIOL,201,,001,Introduction to Evolution and Ecology,Corynne M. O'Farrell;Corynne O'Farrell;Emma Read;Laura Hooker;Leah Rensel;Mateen Hessami;Robert Lalonde;Yinzhao Wang,238,74.86974789899999,10.667384374,95.0,48.0,4.0,5,11,16,26,27,28,30,38,35,18
+UBCO,2019,W,BIOL,201,,OVERALL,Introduction to Evolution and Ecology,,238,74.86974789899999,10.667384374,95.0,48.0,4.0,5,11,16,26,27,28,30,38,35,18
+UBCO,2019,W,BIOL,202,,001,Introduction to Biostatistics,Jason Pither,254,74.669291339,11.919396699000002,94.0,28.0,18,1.0,6,15,20,27,26,41,46,35,19
+UBCO,2019,W,BIOL,202,,OVERALL,Introduction to Biostatistics,,254,74.669291339,11.919396699000002,94.0,28.0,18,1.0,6,15,20,27,26,41,46,35,19
+UBCO,2019,W,BIOL,204,,001,Vertebrate Structure and Function,Brock Burgess;Brock Ty Burgess;Ellen Gates;Freya Sturm;Ken Savage;Sakshi Khanna;Scott Reid,119,74.865546218,9.676920271,92.0,47.0,,,,7,12,17,12,18,21,21,5
+UBCO,2019,W,BIOL,204,,002,Vertebrate Structure and Function,Brock Burgess;Brock Ty Burgess;Ellen Gates;Freya Sturm;Ken Savage;Sakshi Khanna,28,72.857142857,8.826367423999999,90.0,58.0,,,,3,4,4,5,4,3,2,2
+UBCO,2019,W,BIOL,204,,OVERALL,Vertebrate Structure and Function,,147,74.482993197,9.524556396,92.0,47.0,,,,10,16,21,17,22,24,23,7
+UBCO,2019,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,117,74.51282051300001,11.255355342,95.0,36.0,6,0.0,5,6,15,8,16,18,20,16,7
+UBCO,2019,W,BIOL,205,,OVERALL,Comparative Invertebrate Zoology,,117,74.51282051300001,11.255355342,95.0,36.0,6,0.0,5,6,15,8,16,18,20,16,7
+UBCO,2019,W,BIOL,210,,001,Vascular Plants,Antreas Pogiatzis;Miranda Hart,37,83.351351351,6.281437451,96.0,70.0,,,,,,,,8,10,8,8
+UBCO,2019,W,BIOL,210,,OVERALL,Vascular Plants,,37,83.351351351,6.281437451,96.0,70.0,,,,,,,,8,10,8,8
+UBCO,2019,W,BIOL,228,,001,Introductory Microbiology,Janet Kluftinger;Richard Plunkett,229,74.419213974,10.021414671,96.0,38.0,,,15,12,26,33,25,32,42,29,11
+UBCO,2019,W,BIOL,228,,OVERALL,Introductory Microbiology,,229,74.419213974,10.021414671,96.0,38.0,,,15,12,26,33,25,32,42,29,11
+UBCO,2019,W,BIOL,232,,001,Human Infectious Disease,Alex Halonen;Alex T. Halonen;Janet Kluftinger;Kirk Bergstrom;Laura Starck,112,76.589285714,8.61546229,95.0,60.0,,,,9,8,18,19,13,21,17,7
+UBCO,2019,W,BIOL,232,,OVERALL,Human Infectious Disease,,112,76.589285714,8.61546229,95.0,60.0,,,,9,8,18,19,13,21,17,7
+UBCO,2019,W,BIOL,265,,001,Principles of Genetics,Brendan D'Souza;Judy Situ;Kaede Hirabayashi;Katelyn A. Spiess;Katelyn Spiess,129,68.201550388,14.599539721,98.0,16.0,11,9,13,13,13,14,15,10,9,10,12
+UBCO,2019,W,BIOL,265,,101,Principles of Genetics,Brendan D'Souza;Judy Situ;Kaede Hirabayashi;Katelyn Spiess;Kui Leng Emily Sim,177,80.96045197699999,12.668124629000001,99.0,35.0,2,5,2,9,12,9,17,11,29,24,57
+UBCO,2019,W,BIOL,265,,OVERALL,Principles of Genetics,,306,75.58169934600001,14.89575333,99.0,16.0,13,14,15,22,25,23,32,21,38,34,69
+UBCO,2019,W,BIOL,301,,001,Evolutionary Principles and Methods,Michael Russello;Rebecca S Wells;Rebecca Wells,57,74.15789473699999,12.126990960999999,95.0,25.0,,,6,,5,6,8,8,11,5,5
+UBCO,2019,W,BIOL,301,,OVERALL,Evolutionary Principles and Methods,,57,74.15789473699999,12.126990960999999,95.0,25.0,,,6,,5,6,8,8,11,5,5
+UBCO,2019,W,BIOL,306,,001,Ecology of Animals,Adam Ford;Shiva Zargar Ershadi,103,84.834951456,5.957524632999999,94.0,66.0,,,,,,,,11,26,35,24
+UBCO,2019,W,BIOL,306,,OVERALL,Ecology of Animals,,103,84.834951456,5.957524632999999,94.0,66.0,,,,,,,,11,26,35,24
+UBCO,2019,W,BIOL,307,,001,Limnology,Jerry Vandenberg;Shane Pedersen,18,76.666666667,8.124038405,92.0,63.0,,,,,,,,,,,
+UBCO,2019,W,BIOL,307,,OVERALL,Limnology,,18,76.666666667,8.124038405,92.0,63.0,,,,,,,,,,,
+UBCO,2019,W,BIOL,308,,001,Population Biology,Angelina Jeanette Kelly;Angelina Kelly;Robert Lalonde,77,77.415584416,13.204216481,99.0,33.0,,,6,,,10,8,8,13,11,14
+UBCO,2019,W,BIOL,308,,OVERALL,Population Biology,,77,77.415584416,13.204216481,99.0,33.0,,,6,,,10,8,8,13,11,14
+UBCO,2019,W,BIOL,311,,001,Biochemistry I,Nicholas Marshall;Nicholas William Marshall;Renee Berger;Renee Marie Berger;Richard Plunkett,143,78.678321678,8.895006827000001,95.0,49.0,,,,,8,9,24,18,39,26,12
+UBCO,2019,W,BIOL,311,,OVERALL,Biochemistry I,,143,78.678321678,8.895006827000001,95.0,49.0,,,,,8,9,24,18,39,26,12
+UBCO,2019,W,BIOL,312,,101,Virology,Erica Packard;Krin Mann;Mikhail Zebroff,114,77.903508772,11.906694256,97.0,50.0,,,5,8,8,11,8,13,16,18,23
+UBCO,2019,W,BIOL,312,,OVERALL,Virology,,114,77.903508772,11.906694256,97.0,50.0,,,5,8,8,11,8,13,16,18,23
+UBCO,2019,W,BIOL,314,,001,Medical Microbiology,Andrea Verdugo Meza;Deanna Gibson,97,77.17525773199999,9.71361835,96.0,53.0,,,,5,7,9,14,13,21,13,10
+UBCO,2019,W,BIOL,314,,OVERALL,Medical Microbiology,,97,77.17525773199999,9.71361835,96.0,53.0,,,,5,7,9,14,13,21,13,10
+UBCO,2019,W,BIOL,318,,001,Immunology,Andrea Verdugo Meza;Deanna Gibson;Janet Kluftinger,137,79.350364964,10.238042696,96.0,9.0,,,,,5,11,18,20,34,28,15
+UBCO,2019,W,BIOL,318,,OVERALL,Immunology,,137,79.350364964,10.238042696,96.0,9.0,,,,,5,11,18,20,34,28,15
+UBCO,2019,W,BIOL,319,,101,Biochemistry II,Renee Berger;Robin Young;Sarah Orr,71,82.309859155,6.879766502000001,98.0,64.0,,,,,,,,11,24,17,11
+UBCO,2019,W,BIOL,319,,OVERALL,Biochemistry II,,71,82.309859155,6.879766502000001,98.0,64.0,,,,,,,,11,24,17,11
+UBCO,2019,W,BIOL,341,,001,Neurobiology,Sarah A. Orr;Sarah Orr;W Mathieson,148,77.493243243,12.371514693,98.0,9.0,,,,6,15,17,15,12,26,18,30
+UBCO,2019,W,BIOL,341,,OVERALL,Neurobiology,,148,77.493243243,12.371514693,98.0,9.0,,,,6,15,17,15,12,26,18,30
+UBCO,2019,W,BIOL,350,,001,Clinical Neuroscience,Julien Gibon;Nicholas Marshall;Nicholas William Marshall;W Mathieson,88,79.102272727,12.546043725999999,98.0,43.0,,,7,5,3,5,9,9,10,15,23
+UBCO,2019,W,BIOL,350,,101,Clinical Neuroscience,Julien Gibon;Mikhail Zebroff,91,81.285714286,11.394234131,99.0,55.0,,,3,3,8,8,7,7,10,18,27
+UBCO,2019,W,BIOL,350,,OVERALL,Clinical Neuroscience,,179,80.212290503,11.990617343,99.0,43.0,,,10,8,11,13,16,16,20,33,50
+UBCO,2019,W,BIOL,354,,001,Cell Physiology,Emma Elizabeth Read;Emma Read;Ken Savage;Mark Rheault;Nazli Hassanpour Farshour,118,77.64406779699999,10.669491151,97.0,37.0,,,,,11,10,8,23,22,22,12
+UBCO,2019,W,BIOL,354,,002,Cell Physiology,Emma Elizabeth Read;Emma Read;Ken Savage;Mark Rheault;Nazli Hassanpour Farshour,21,67.952380952,7.697247497999999,82.0,53.0,,,,,6,2,4,0,3,0,0
+UBCO,2019,W,BIOL,354,,OVERALL,Cell Physiology,,139,76.179856115,10.827535884000001,97.0,37.0,,,6,5,17,12,12,23,25,22,12
+UBCO,2019,W,BIOL,356,,001,Comparative Animal Physiology,Ken Savage;Logan Volkmann;Scott Reid,40,73.925,10.735485132,94.0,49.0,,,,,7,5,,,9,,
+UBCO,2019,W,BIOL,356,,OVERALL,Comparative Animal Physiology,,40,73.925,10.735485132,94.0,49.0,,,,,7,5,,,9,,
+UBCO,2019,W,BIOL,357,,001,Introduction to Entomology,Briana All;Robert Lalonde,38,70.894736842,14.416187360999999,91.0,13.0,,,,6,,5,,,5,,
+UBCO,2019,W,BIOL,357,,OVERALL,Introduction to Entomology,,38,70.894736842,14.416187360999999,91.0,13.0,,,,6,,5,,,5,,
+UBCO,2019,W,BIOL,358,,101,Plant Ecophysiology,Mackenzie Alexander Campbell;Mackenzie Campbell;Melanie Jones,24,72.833333333,13.262128712,97.0,50.0,,,,,,,,,,5,
+UBCO,2019,W,BIOL,358,,OVERALL,Plant Ecophysiology,,24,72.833333333,13.262128712,97.0,50.0,,,,,,,,,,5,
+UBCO,2019,W,BIOL,363,,001,Developmental Biology,Brendan D'Souza;Jennifer Meineke;Michael Deyholos;Nazli Hassanpour Farshour;Robin Young,60,76.166666667,9.679905215,94.0,55.0,,,,,5,8,10,9,8,7,7
+UBCO,2019,W,BIOL,363,,OVERALL,Developmental Biology,,60,76.166666667,9.679905215,94.0,55.0,,,,,5,8,10,9,8,7,7
+UBCO,2019,W,BIOL,366,,001,Molecular Genetics,Rebecca Wells;Soheil Mahmoud,179,71.899441341,11.333105018,100.0,33.0,3.0,9,10,15,21,28,23,24,23,12,11
+UBCO,2019,W,BIOL,366,,OVERALL,Molecular Genetics,,179,71.899441341,11.333105018,100.0,33.0,3.0,9,10,15,21,28,23,24,23,12,11
+UBCO,2019,W,BIOL,375,,001,Flora and Fauna of Inland Waters,Jennifer Kristine Meineke;Jennifer Meineke;Laura Hooker,28,74.285714286,11.018022754,96.0,48.0,,,,,,5,,,5,,
+UBCO,2019,W,BIOL,375,,OVERALL,Flora and Fauna of Inland Waters,,28,74.285714286,11.018022754,96.0,48.0,,,,,,5,,,5,,
+UBCO,2019,W,BIOL,380,,001,Food and Industrial Microbiology,Ashley Stasuk;Kirk Bergstrom;Kirk Seth Benjamin Bergstrom;Louise Nelson,110,77.590909091,11.660562762,96.0,43.0,,,8,,8,14,10,7,15,24,18
+UBCO,2019,W,BIOL,380,,OVERALL,Food and Industrial Microbiology,,110,77.590909091,11.660562762,96.0,43.0,,,8,,8,14,10,7,15,24,18
+UBCO,2019,W,BIOL,381,,001,Environmental Microbiology,Ashley Stasuk;Laura Hooker,44,70.295454545,12.948160587,92.0,35.0,,,5,6,5,,,6,5,5,
+UBCO,2019,W,BIOL,381,,OVERALL,Environmental Microbiology,,44,70.295454545,12.948160587,92.0,35.0,,,5,6,5,,,6,5,5,
+UBCO,2019,W,BIOL,382,,001,Prokaryotic Physiology,Andrea Marie Marie Tan;Andrea Marie Tan;Richard Plunkett,72,75.319444444,12.08983555,97.0,36.0,,,,,,11,10,11,8,8,11
+UBCO,2019,W,BIOL,382,,OVERALL,Prokaryotic Physiology,,72,75.319444444,12.08983555,97.0,36.0,,,,,,11,10,11,8,8,11
+UBCO,2019,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Diana Changirwa;Evan Kwong;Harjinder Janda;Jacqueline Alexandra Barnett;Jacqueline Barnett;Julien Gibon;Katherine-Faye Jansen;Katherine-Faye Karen Jansen;Matthew Lavery;Richard Plunkett;Robert Mothersole;Tyler Wenzel,57,87.28070175399999,7.873450836,97.0,58.0,,,,,,,,,7,14,28
+UBCO,2019,W,BIOL,393,,OVERALL,Biochemistry Laboratory,,57,87.28070175399999,7.873450836,97.0,58.0,,,,,,,,,7,14,28
+UBCO,2019,W,BIOL,401,,001,Spatial Ecology,Karen Hodges,38,73.026315789,12.542871007,97.0,45.0,,,,,,5,,7,5,5,
+UBCO,2019,W,BIOL,401,,OVERALL,Spatial Ecology,,38,73.026315789,12.542871007,97.0,45.0,,,,,,5,,7,5,5,
+UBCO,2019,W,BIOL,420,H,101,Special Topics in Biology,Daniel Durall;John Klironomos,20,86.55,4.058454463,94.0,80.0,,,,,,,,,5,9,6
+UBCO,2019,W,BIOL,420,H,OVERALL,Special Topics in Biology,,20,86.55,4.058454463,94.0,80.0,,,,,,,,,5,9,6
+UBCO,2019,W,BIOL,420,Q,001,Special Topics in Biology,Mark Rheault,29,87.793103448,3.716558607,96.0,81.0,,,,,,,,,5,13,11
+UBCO,2019,W,BIOL,420,Q,OVERALL,Special Topics in Biology,,29,87.793103448,3.716558607,96.0,81.0,,,,,,,,,5,13,11
+UBCO,2019,W,BIOL,422,,101,Conservation Biology,Karen Hodges,38,76.210526316,8.980934445,94.0,60.0,,,,,5,,6,5,7,6,
+UBCO,2019,W,BIOL,422,,OVERALL,Conservation Biology,,38,76.210526316,8.980934445,94.0,60.0,,,,,5,,6,5,7,6,
+UBCO,2019,W,BIOL,424,,101,"Global Food Systems: Society, Ecology, Sustainability",Nathan Pelletier,21,77.904761905,14.134725897000001,92.0,23.0,,,,,,,,,6,5,
+UBCO,2019,W,BIOL,424,,OVERALL,"Global Food Systems: Society, Ecology, Sustainability",,21,77.904761905,14.134725897000001,92.0,23.0,,,,,,,,,6,5,
+UBCO,2019,W,BIOL,426,,101,Cancer Biology,Andis Klegeris;Ken Savage;Rebecca Wells;Ryan Ard,40,80.375,8.030989657000001,92.0,58.0,,,,,,,,7,12,9,
+UBCO,2019,W,BIOL,426,,OVERALL,Cancer Biology,,40,80.375,8.030989657000001,92.0,58.0,,,,,,,,7,12,9,
+UBCO,2019,W,BIOL,440,,OVERALL,Honours Thesis,,17,91.235294118,2.77329704,95.0,86.0,,,,,,,,,,,13
+UBCO,2019,W,BIOL,468,,101,Molecular Approaches in Ecology and Evolution,Farida E Samad-Zada;Farida Samad-Zada;Matthew Waterhouse,20,78.8,9.76890879,90.0,53.0,,,,,,,,,,6,
+UBCO,2019,W,BIOL,468,,OVERALL,Molecular Approaches in Ecology and Evolution,,20,78.8,9.76890879,90.0,53.0,,,,,,,,,,6,
+UBCO,2019,W,BIOL,477,,001,Bioinformatics,Michael Deyholos,12,83.5,10.282376803,96.0,60.0,,,,,,,,,,,
+UBCO,2019,W,BIOL,477,,OVERALL,Bioinformatics,,12,83.5,10.282376803,96.0,60.0,,,,,,,,,,,
+UBCO,2019,W,BIOL,480,,101,Mycology,Daniel Durall;Mackenzie Alexander Campbell;Mackenzie Campbell,28,84.357142857,7.5827010029999995,97.0,67.0,,,,,,,,,9,7,6
+UBCO,2019,W,BIOL,480,,OVERALL,Mycology,,28,84.357142857,7.5827010029999995,97.0,67.0,,,,,,,,,9,7,6
+UBCO,2019,W,BIOL,501,,001,Biology Seminar,Ken Savage;Michael Deyholos,19,93.789473684,1.988269694,96.0,90.0,,,,,,,,,,,19
+UBCO,2019,W,BIOL,501,,OVERALL,Biology Seminar,,19,93.789473684,1.988269694,96.0,90.0,,,,,,,,,,,19
+UBCO,2019,W,BIOL,520,C,001,Special Topics in Biology,Bruno Carturan;Bruno Sylvain Carturan,20,94.75,1.5174424469999999,97.0,92.0,,,,,,,,,,,20
+UBCO,2019,W,BIOL,520,C,OVERALL,Special Topics in Biology,,20,94.75,1.5174424469999999,97.0,92.0,,,,,,,,,,,20
+UBCO,2019,W,BIOL,552,T,101,Directed Studies in Biology,Michael Russello,6,93.5,1.6431676730000002,95.0,92.0,,,,,,,,,,,6
+UBCO,2019,W,BIOL,552,T,OVERALL,Directed Studies in Biology,,6,93.5,1.6431676730000002,95.0,92.0,,,,,,,,,,,6

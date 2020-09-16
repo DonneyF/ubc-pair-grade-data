@@ -1,10 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,ASTR,101,,101,Introduction to the Solar System,Aaron Boley;Deborah C Good;Deborah Good;Demet Kirmizibayrak;Gary Ka Wai Tom;Gary Tom;Michelle Kunimoto;Raelyn Sullivan,84,76.261904762,15.078205006,96.0,3.0,,,,,,8,5,20,11,11,14
 UBCV,2018,W,ASTR,101,,OVERALL,Introduction to the Solar System,,84,76.261904762,15.078205006,96.0,3.0,,,,,,8,5,20,11,11,14
-UBCV,2018,W,ASTR,102,,201,Introduction to Stars and Galaxies,Ingrid Stairs;Javiera Parada Torres,112,72.464285714,15.845497596,95.0,0.0,5,2.0,5,14,9,17,10,6,17,18,9
-UBCV,2018,W,ASTR,102,,OVERALL,Introduction to Stars and Galaxies,,112,72.464285714,15.845497596,95.0,0.0,5,2.0,5,14,9,17,10,6,17,18,9
-UBCV,2018,W,ASTR,200,,101,Frontiers of Astrophysics,Brett Gladman;Edward Ashton;Edward James Ashton,47,71.12765957399999,19.597711735999997,95.0,3.0,5,,,,,6,,5,7,7,5
-UBCV,2018,W,ASTR,200,,OVERALL,Frontiers of Astrophysics,,47,71.12765957399999,19.597711735999997,95.0,3.0,5,,,,,6,,5,7,7,5
+UBCV,2018,W,ASTR,102,,201,Introduction to Stars and Galaxies,Ingrid Stairs;Javiera Parada Torres,113,72.734513274,15.679272999,95.0,0.0,5,1.0,5,14,9,18,10,6,17,19,9
+UBCV,2018,W,ASTR,102,,OVERALL,Introduction to Stars and Galaxies,,113,72.734513274,15.679272999,95.0,0.0,5,1.0,5,14,9,18,10,6,17,19,9
+UBCV,2018,W,ASTR,200,,101,Frontiers of Astrophysics,Brett Gladman;Edward Ashton;Edward James Ashton,47,71.446808511,19.16383427,95.0,3.0,,,,,,6,,5,7,7,5
+UBCV,2018,W,ASTR,200,,OVERALL,Frontiers of Astrophysics,,47,71.446808511,19.16383427,95.0,3.0,,,,,,6,,5,7,7,5
 UBCV,2018,W,ASTR,205,,201,Stars and Stellar Populations,Harvey Richer,12,74.916666667,13.276488674000001,94.0,50.0,,,,,,,,,,,
 UBCV,2018,W,ASTR,205,,OVERALL,Stars and Stellar Populations,,12,74.916666667,13.276488674000001,94.0,50.0,,,,,,,,,,,
 UBCV,2018,W,ASTR,300,,101,Galaxies,Anna Gwen Hughes;Anna Hughes;Jeremy Heyl;Paul Hickson,31,83.0,9.615958957,97.0,52.0,,,,,,,,6,6,6,9
@@ -12,9 +12,9 @@ UBCV,2018,W,ASTR,300,,OVERALL,Galaxies,,31,83.0,9.615958957,97.0,52.0,,,,,,,,6,6
 UBCV,2018,W,ASTR,310,,101,Exploring the Universe: The Solar System,Anna Gwen Hughes;Anna Hughes;Brett Gladman;Christa Van Laerhoven;Jaymie Mark Matthews;Michelle Kunimoto;Sofia Fatigoni,65,71.476923077,13.117387902,96.0,10.0,,,6,5,,12,11,7,8,5,
 UBCV,2018,W,ASTR,310,,OVERALL,Exploring the Universe: The Solar System,,65,71.476923077,13.117387902,96.0,10.0,,,6,5,,12,11,7,8,5,
 UBCV,2018,W,ASTR,311,,201,Exploring the Universe: Stars and Galaxies,Carolin Janet Hofer;Ilaria Caiazzo;Jeremy Heyl;Puranjay Gulati;Swantje Dorothee Moehle;Swantje Moehle,41,70.024390244,18.21055711,98.0,4.0,4,,,,,,5,6,5,,
-UBCV,2018,W,ASTR,311,,99A,Exploring the Universe: Stars and Galaxies,Ilaria Caiazzo;Javiera Parada Torres;Jeremy Heyl,44,61.409090909,31.065810252,98.0,0.0,12,,,,,,,,10,,7
+UBCV,2018,W,ASTR,311,,99A,Exploring the Universe: Stars and Galaxies,Ilaria Caiazzo;Javiera Parada Torres;Jeremy Heyl,44,62.0,30.895924319000002,98.0,0.0,11,,,,,,,,10,,7
 UBCV,2018,W,ASTR,311,,99C,Exploring the Universe: Stars and Galaxies,Anna Hughes;Ilaria Caiazzo;Jeremy Heyl,37,67.756756757,19.269154115,92.0,4.0,5,,,,,,,,4,5,
-UBCV,2018,W,ASTR,311,,OVERALL,Exploring the Universe: Stars and Galaxies,,122,66.229508197,24.02298723,98.0,0.0,21,3.0,9,7,8,10,10,11,19,11,13
+UBCV,2018,W,ASTR,311,,OVERALL,Exploring the Universe: Stars and Galaxies,,122,66.442622951,23.90340381,98.0,0.0,20,3.0,9,7,9,10,10,11,19,11,13
 UBCV,2018,W,ASTR,333,,201,Exoplanets and Astrobiology,Christa Van Laerhoven;Deborah C Good;Deborah Good;Jaymie Mark Matthews;Michelle Kunimoto,150,79.3,10.856445832,94.0,28.0,,,,8,6,10,15,14,33,42,16
 UBCV,2018,W,ASTR,333,,OVERALL,Exoplanets and Astrobiology,,150,79.3,10.856445832,94.0,28.0,,,,8,6,10,15,14,33,42,16
 UBCV,2018,W,ASTR,403,,201,Cosmology,Douglas Scott;Ryley Brendan Hill;Ryley Hill,28,75.5,10.401210756000001,90.0,42.0,,,,,,,5,5,,5,
@@ -31,5 +31,5 @@ UBCV,2018,W,ASTR,449,,001,Honours Thesis in Astronomy,Robert Kiefl,6,87.66666666
 UBCV,2018,W,ASTR,449,,OVERALL,Honours Thesis in Astronomy,,6,87.666666667,2.250925735,90.0,85.0,,,,,,,,,,,
 UBCV,2018,W,ASTR,505,B,201,Galactic Astronomy,Paul Hickson,5,91.6,3.209361307,95.0,88.0,,,,,,,,,,,
 UBCV,2018,W,ASTR,505,B,OVERALL,Galactic Astronomy,,5,91.6,3.209361307,95.0,88.0,,,,,,,,,,,
-UBCV,2018,W,ASTR,508,,101,Stellar Astronomy,Jeremy Heyl,5,93.6,4.50555213,97.0,86.0,,,,,,,,,,,
-UBCV,2018,W,ASTR,508,,OVERALL,Stellar Astronomy,,5,93.6,4.50555213,97.0,86.0,,,,,,,,,,,
+UBCV,2018,W,ASTR,508,,101,Stellar Astronomy,Jeremy Heyl,6,94.333333333,4.412104562,98.0,86.0,,,,,,,,,,,5
+UBCV,2018,W,ASTR,508,,OVERALL,Stellar Astronomy,,6,94.333333333,4.412104562,98.0,86.0,,,,,,,,,,,5

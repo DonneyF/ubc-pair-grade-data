@@ -7,7 +7,7 @@ UBCV,2018,W,MINE,292,,201,Introduction to Mineral Processing,Ayse Tugba Cebeci;B
 UBCV,2018,W,MINE,292,,OVERALL,Introduction to Mineral Processing,,36,65.666666667,15.773395322999999,89.0,27.0,,5,,,,5,,,6,,
 UBCV,2018,W,MINE,302,,201,Underground Mining and Design,Ali Fahrettin Kuyuk;Ali Kuyuk;Shervin Teymouri,45,74.266666667,9.499760763,90.0,50.0,,,,,10,8,5,5,,8,
 UBCV,2018,W,MINE,302,,OVERALL,Underground Mining and Design,,45,74.266666667,9.499760763,90.0,50.0,,,,,10,8,5,5,,8,
-UBCV,2018,W,MINE,303,,201,Rock Mechanics Fundamentals,Cristian Guajardo Moreno;Davide Elmo;Matthew King;Muhamad Siddiq Bin Mahyildin,89,71.786516854,14.449340902000001,96.0,4.0,1.0,10,6,5,10,7,11,14,7,12,6
+UBCV,2018,W,MINE,303,,201,Rock Mechanics Fundamentals,Cristian Guajardo Moreno;Davide Elmo;Matthew King;Matthew Noel King;Muhamad Siddiq Bin Mahyildin,89,71.786516854,14.449340902000001,96.0,4.0,1.0,10,6,5,10,7,11,14,7,12,6
 UBCV,2018,W,MINE,303,,OVERALL,Rock Mechanics Fundamentals,,89,71.786516854,14.449340902000001,96.0,4.0,1.0,10,6,5,10,7,11,14,7,12,6
 UBCV,2018,W,MINE,304,,201,Rock Fragmentation,Andrea Arduini;Jillian Newell;Shervin Teymouri,43,72.627906977,8.912332962999999,89.0,57.0,,,,5,7,7,,6,7,5,
 UBCV,2018,W,MINE,304,,OVERALL,Rock Fragmentation,,43,72.627906977,8.912332962999999,89.0,57.0,,,,5,7,7,,6,7,5,
@@ -19,13 +19,13 @@ UBCV,2018,W,MINE,333,,201,Flotation,Marek Pawlik;Naeimeh Ghaffari Touran;Vinoth 
 UBCV,2018,W,MINE,333,,OVERALL,Flotation,,43,64.11627907,13.338468004000001,91.0,32.0,,5,5,6,6,5,,5,,,
 UBCV,2018,W,MINE,350,,101,Modelling and Simulation,Marco Rodrigues De Brito;W Scott Dunbar,41,70.902439024,17.230503298,92.0,9.0,,,,,,,,10,,5,
 UBCV,2018,W,MINE,350,,OVERALL,Modelling and Simulation,,41,70.902439024,17.230503298,92.0,9.0,,,,,,,,10,,5,
-UBCV,2018,W,MINE,393,,201,Seminar,Hongxing Estella Qi;Michael Schoen,41,66.243902439,15.836319787,82.0,0.0,5,,,,,,15,,5,,
-UBCV,2018,W,MINE,393,,OVERALL,Seminar,,41,66.243902439,15.836319787,82.0,0.0,5,,,,,,15,,5,,
+UBCV,2018,W,MINE,393,,201,Seminar,Hongxing Estella Qi;Michael Schoen,40,67.9,11.911640504000001,82.0,33.0,,,,,,,15,,5,,
+UBCV,2018,W,MINE,393,,OVERALL,Seminar,,40,67.9,11.911640504000001,82.0,33.0,,,,,,,15,,5,,
 UBCV,2018,W,MINE,396,,101,Engineering Economics,Ayse Tugba Cebeci;Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,76,76.0,8.272041264,93.0,60.0,,,,,8,15,10,11,13,13,
 UBCV,2018,W,MINE,396,,OVERALL,Engineering Economics,,76,76.0,8.272041264,93.0,60.0,,,,,8,15,10,11,13,13,
 UBCV,2018,W,MINE,402,,101,Mine Ventilation and Occupational Health and Safety,Ali Fahrettin Kuyuk;Ali Kuyuk;Mohammad Shanb Ghazani;Seyed Ghoreishi-Madiseh;Zahra Torabigoodarzi,54,76.814814815,6.622073078,91.0,62.0,,,,,5,,11,11,14,6,
 UBCV,2018,W,MINE,402,,OVERALL,Mine Ventilation and Occupational Health and Safety,,54,76.814814815,6.622073078,91.0,62.0,,,,,5,,11,11,14,6,
-UBCV,2018,W,MINE,403,,101,Rock Mechanics Design,Davide Elmo;Matthew King,48,75.895833333,7.357843067999999,88.0,55.0,,,,,5,5,8,10,11,7,
+UBCV,2018,W,MINE,403,,101,Rock Mechanics Design,Davide Elmo;Matthew King;Matthew Noel King,48,75.895833333,7.357843067999999,88.0,55.0,,,,,5,5,8,10,11,7,
 UBCV,2018,W,MINE,403,,OVERALL,Rock Mechanics Design,,48,75.895833333,7.357843067999999,88.0,55.0,,,,,5,5,8,10,11,7,
 UBCV,2018,W,MINE,404,,201,Mine Management,Knud Sinding;W Scott Dunbar,79,82.35443038,14.114039177999999,95.0,0.0,,,,,,,,7,33,20,16
 UBCV,2018,W,MINE,404,,OVERALL,Mine Management,,79,82.35443038,14.114039177999999,95.0,0.0,,,,,,,,7,33,20,16
@@ -39,8 +39,8 @@ UBCV,2018,W,MINE,434,,201,Processing Precious Metal Ores,Bern Klein;Santiago Sei
 UBCV,2018,W,MINE,434,,OVERALL,Processing Precious Metal Ores,,28,71.75,13.025971209000001,99.0,54.0,,,,,,,,,,,5
 UBCV,2018,W,MINE,438,,201,Advanced Process Mineralogy,Amit Kumar;Maria Holuszko;Robert Greene,14,82.857142857,4.203609124,91.0,78.0,,,,,,,,,8,,
 UBCV,2018,W,MINE,438,,OVERALL,Advanced Process Mineralogy,,14,82.857142857,4.203609124,91.0,78.0,,,,,,,,,8,,
-UBCV,2018,W,MINE,455,,201,Mine Water Management,Gabriel Alfredo Castillo Devoto;Gabriel Castillo Devoto;Nadja Kunz,56,76.857142857,14.005750210999999,93.0,0.0,,,,,,6,11,11,9,12,
-UBCV,2018,W,MINE,455,,OVERALL,Mine Water Management,,56,76.857142857,14.005750210999999,93.0,0.0,,,,,,6,11,11,9,12,
+UBCV,2018,W,MINE,455,,201,Mine Water Management,Gabriel Alfredo Castillo Devoto;Gabriel Castillo Devoto;Nadja Kunz,56,77.428571429,12.919129077000001,93.0,0.0,,,,,,7,11,11,9,12,
+UBCV,2018,W,MINE,455,,OVERALL,Mine Water Management,,56,77.428571429,12.919129077000001,93.0,0.0,,,,,,7,11,11,9,12,
 UBCV,2018,W,MINE,462,,101,Coal Preparation Technology,Amit Kumar;Marek Pawlik,33,78.757575758,11.575918708,98.0,44.0,,,,,,,8,,7,,5
 UBCV,2018,W,MINE,462,,OVERALL,Coal Preparation Technology,,33,78.757575758,11.575918708,98.0,44.0,,,,,,,8,,7,,5
 UBCV,2018,W,MINE,465,,201,Materials Handling,Ali Fahrettin Kuyuk;Ali Kuyuk;Marco Rodrigues De Brito;Seyed Ghoreishi-Madiseh;Zahra Torabigoodarzi,81,72.469135802,12.659074235,90.0,0.0,,,,8,8,9,16,9,22,,
@@ -62,7 +62,8 @@ UBCV,2018,W,MINE,497,P,OVERALL,Directed Studies,,7,90.0,0.0,90.0,90.0,,,,,,,,,,,
 UBCV,2018,W,MINE,497,S,101,Directed Studies,Davide Elmo,5,88.4,0.8944271909999999,90.0,88.0,,,,,,,,,,,
 UBCV,2018,W,MINE,497,S,OVERALL,Directed Studies,,5,88.4,0.8944271909999999,90.0,88.0,,,,,,,,,,,
 UBCV,2018,W,MINE,501,A,101,Topics for Engineers in the Mining Industry,,14,83.928571429,8.052369797,94.0,71.0,,,,,,,,,,5,
-UBCV,2018,W,MINE,501,A,OVERALL,Topics for Engineers in the Mining Industry,,14,83.928571429,8.052369797,94.0,71.0,,,,,,,,,,5,
+UBCV,2018,W,MINE,501,A,201,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,8,87.25,3.4537764010000003,91.0,83.0,,,,,,,,,,-12,
+UBCV,2018,W,MINE,501,A,OVERALL,Topics for Engineers in the Mining Industry,,22,85.136363636,6.840324794,94.0,71.0,,,,,,,,,,7,7
 UBCV,2018,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,11,85.636363636,2.110579412,88.0,82.0,,,,,,,,,,8,
 UBCV,2018,W,MINE,501,B,OVERALL,Topics for Engineers in the Mining Industry,,11,85.636363636,2.110579412,88.0,82.0,,,,,,,,,,8,
 UBCV,2018,W,MINE,504,,201,Rock Fragmentation,Andrea Arduini;Jillian Newell;Malcolm Scoble;Shervin Teymouri,7,82.857142857,4.84522347,88.0,75.0,,,,,,,,,,,
@@ -71,13 +72,15 @@ UBCV,2018,W,MINE,506,,201,Mining Methods,Andrea Arduini;Malcolm Scoble;W Scott D
 UBCV,2018,W,MINE,506,,OVERALL,Mining Methods,,15,79.4,7.744122195,96.0,69.0,,,,,,,,,,,
 UBCV,2018,W,MINE,508,,201,Integrated Mining and Processing Systems,Bern Klein;Santiago Leonel Seiler Collazo;Santiago Seiler Collazo,9,92.0,2.828427125,98.0,90.0,,,,,,,,,,,9
 UBCV,2018,W,MINE,508,,OVERALL,Integrated Mining and Processing Systems,,9,92.0,2.828427125,98.0,90.0,,,,,,,,,,,9
-UBCV,2018,W,MINE,524,,201,Processing of Precious Metal Ores,Bern Klein;Santiago Seiler Collazo,6,86.0,5.727128425,96.0,80.0,,,,,,,,,,,
-UBCV,2018,W,MINE,524,,OVERALL,Processing of Precious Metal Ores,,6,86.0,5.727128425,96.0,80.0,,,,,,,,,,,
+UBCV,2018,W,MINE,520,,101,Advanced Coal Preparation,Maria Holuszko,5,90.2,10.568822072,97.0,72.0,,,,,,,,,,,
+UBCV,2018,W,MINE,520,,OVERALL,Advanced Coal Preparation,,5,90.2,10.568822072,97.0,72.0,,,,,,,,,,,
+UBCV,2018,W,MINE,524,,201,Processing of Precious Metal Ores,Bern Klein;Santiago Seiler Collazo,7,86.571428571,5.442338433,96.0,80.0,,,,,,,,,,,
+UBCV,2018,W,MINE,524,,OVERALL,Processing of Precious Metal Ores,,7,86.571428571,5.442338433,96.0,80.0,,,,,,,,,,,
 UBCV,2018,W,MINE,541,,101,Environmental Risk Assessments in Relation to Mining,Bruce Gavin Marshall;Bruce Marshall,18,80.055555556,4.658606485,88.0,73.0,,,,,,,,5,6,,
 UBCV,2018,W,MINE,541,,OVERALL,Environmental Risk Assessments in Relation to Mining,,18,80.055555556,4.658606485,88.0,73.0,,,,,,,,5,6,,
-UBCV,2018,W,MINE,553,,101,Modelling of Industrial Systems,W Scott Dunbar,12,88.416666667,7.038315053,100.0,80.0,,,,,,,,,,,4
+UBCV,2018,W,MINE,553,,101,Modelling of Industrial Systems,W Scott Dunbar,13,89.153846154,7.2439187579999995,100.0,80.0,,,,,,,,,,,5
 UBCV,2018,W,MINE,553,,201,Modelling of Industrial Systems,W Scott Dunbar,10,87.4,7.260241808,94.0,72.0,,,,,,,,,,,6
-UBCV,2018,W,MINE,553,,OVERALL,Modelling of Industrial Systems,,22,87.954545455,6.9862264,100.0,72.0,,,,,,,,,5,5,10
+UBCV,2018,W,MINE,553,,OVERALL,Modelling of Industrial Systems,,23,88.39130434799999,7.139767824,100.0,72.0,,,,,,,,,5,5,11
 UBCV,2018,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,13,84.384615385,6.331646199,91.0,71.0,,,,,,,,,,5,
 UBCV,2018,W,MINE,554,,OVERALL,Mine Economics and Finance,,13,84.384615385,6.331646199,91.0,71.0,,,,,,,,,,5,
 UBCV,2018,W,MINE,555,,201,Mining and Society,Marcello Veiga,22,92.090909091,2.5803117369999997,96.0,90.0,,,,,,,,,,,22
@@ -86,13 +89,13 @@ UBCV,2018,W,MINE,559,,101,Mineral Resource Development and Canadian Aboriginal P
 UBCV,2018,W,MINE,559,,OVERALL,Mineral Resource Development and Canadian Aboriginal People,,17,87.29411764700001,7.165583592999999,97.0,75.0,,,,,,,,,,,7
 UBCV,2018,W,MINE,590,C,101,Special Advanced Topics,Andrea Arduini;Naveen Kumar Neeluri;Pavan Chandra Somagani,10,80.9,4.954235001,89.0,72.0,,,,,,,,,,,
 UBCV,2018,W,MINE,590,C,OVERALL,Special Advanced Topics,,10,80.9,4.954235001,89.0,72.0,,,,,,,,,,,
-UBCV,2018,W,MINE,590,Q,201,Special Advanced Topics,Dirk Van Zyl;Yuan Li,6,93.166666667,4.44597196,100.0,87.0,,,,,,,,,,,5
-UBCV,2018,W,MINE,590,Q,OVERALL,Special Advanced Topics,,6,93.166666667,4.44597196,100.0,87.0,,,,,,,,,,,5
+UBCV,2018,W,MINE,590,Q,201,Special Advanced Topics,Dirk Van Zyl;Yuan Li,8,93.5,4.035556255,100.0,87.0,,,,,,,,,,,7
+UBCV,2018,W,MINE,590,Q,OVERALL,Special Advanced Topics,,8,93.5,4.035556255,100.0,87.0,,,,,,,,,,,7
 UBCV,2018,W,MINE,590,R,101,Special Advanced Topics,Sanja Miskovic,8,90.375,8.683934263,95.0,70.0,,,,,,,,,,,6
 UBCV,2018,W,MINE,590,R,OVERALL,Special Advanced Topics,,8,90.375,8.683934263,95.0,70.0,,,,,,,,,,,6
 UBCV,2018,W,MINE,597,,101,Engineering Project,,5,86.4,4.098780306,90.0,80.0,,,,,,,,,,,
 UBCV,2018,W,MINE,597,,201,Engineering Project,,5,87.0,4.527692569,95.0,84.0,,,,,,,,,,,
 UBCV,2018,W,MINE,597,,OVERALL,Engineering Project,,12,87.083333333,4.010403139,95.0,80.0,,,,,,,,,,6,
 UBCV,2018,W,MINE,598,,101,Seminar,Malcolm Scoble;Marek Pawlik,7,87.428571429,4.237025012,96.0,82.0,,,,,,,,,,5,
-UBCV,2018,W,MINE,598,,OVERALL,Seminar,,12,87.5,3.5290998080000002,96.0,82.0,,,,,,,,,,9,
+UBCV,2018,W,MINE,598,,OVERALL,Seminar,,13,87.30769230799999,3.4492659939999997,96.0,82.0,,,,,,,,,,10,
 UBCV,2018,W,MINE,599,C,OVERALL,M.A.Sc. Thesis,,7,89.714285714,3.14718317,94.0,84.0,,,,,,,,,,,5

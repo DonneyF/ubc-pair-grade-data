@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,MICB,201,,101,Introductory Environmental Microbiology,Wade Bingle,194,74.76804123699999,11.909538533,97.0,9.0,2,2.0,13,20,6,23,28,21,28,33,18
-UBCV,2018,W,MICB,201,,201,Introductory Environmental Microbiology,Wade Bingle;William Mohn,169,72.99408284,14.654552779000001,96.0,2.0,11,4.0,7,12,21,8,15,25,28,21,17
-UBCV,2018,W,MICB,201,,OVERALL,Introductory Environmental Microbiology,,363,73.94214876,13.269183457,97.0,2.0,13,6,20,32,27,31,43,46,56,54,35
-UBCV,2018,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jenifer Siovahn Spence;Jenifer Spence;Kelly Brown;Lisa Osborne;Tracy Kion,224,80.799107143,11.432774817,98.0,40.0,,,6,10,7,21,20,18,36,38,63
-UBCV,2018,W,MICB,202,,201,Introductory Medical Microbiology and Immunology,Jenifer Spence;Jennifer Sibley;Kelly Brown;Tracy Kion,136,80.029411765,13.14868881,99.0,41.0,,,5,2,7,14,7,10,22,21,41
-UBCV,2018,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jenifer Spence;Jennifer Sibley;Kelly Brown;Lisa Osborne;Tracy Kion,216,81.532407407,12.191833550999998,100.0,39.0,6,3.0,3,7,10,12,16,23,27,43,66
+UBCV,2018,W,MICB,201,,101,Introductory Environmental Microbiology,Wade Bingle,193,75.248704663,10.442816055,97.0,50.0,0,3.0,13,20,6,23,28,21,28,33,18
+UBCV,2018,W,MICB,201,,201,Introductory Environmental Microbiology,Wade Bingle;William Mohn,169,73.52662721899999,14.073812683,96.0,2.0,8,4.0,7,12,21,9,17,25,28,21,17
+UBCV,2018,W,MICB,201,,OVERALL,Introductory Environmental Microbiology,,362,74.444751381,12.284868407000001,97.0,2.0,8,7,20,32,27,32,45,46,56,54,35
+UBCV,2018,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jenifer Spence;Lisa Osborne;Tracy Kion,224,80.799107143,11.432774817,98.0,40.0,,,6,10,7,21,20,18,36,38,63
+UBCV,2018,W,MICB,202,,201,Introductory Medical Microbiology and Immunology,Jenifer Spence;Tracy Kion,136,80.029411765,13.14868881,99.0,41.0,,,5,2,7,14,7,10,22,21,41
+UBCV,2018,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Jenifer Spence;Kelly Brown;Tracy Kion,216,81.532407407,12.191833550999998,100.0,39.0,6,3.0,3,7,10,12,16,23,27,43,66
 UBCV,2018,W,MICB,202,,OVERALL,Introductory Medical Microbiology and Immunology,,576,80.892361111,12.132409086,100.0,39.0,12,9,14,19,24,47,43,51,85,102,170
 UBCV,2018,W,MICB,203,,201,Basic Microbiology Laboratory,Karen Smith,17,81.058823529,4.892220716000001,93.0,75.0,,,,,,,,,8,,
 UBCV,2018,W,MICB,203,,OVERALL,Basic Microbiology Laboratory,,17,81.058823529,4.892220716000001,93.0,75.0,,,,,,,,,8,,
-UBCV,2018,W,MICB,301,,101,Microbial Ecophysiology,Kimberly Anne Dill-Mcfarland;Lindsay Eltis;Steven Hallam;William Mohn;Zhe Xian Liu,110,76.727272727,10.644298203,96.0,43.0,,5,,,,11,15,18,26,18,7
-UBCV,2018,W,MICB,301,,OVERALL,Microbial Ecophysiology,,110,76.727272727,10.644298203,96.0,43.0,,5,,,,11,15,18,26,18,7
+UBCV,2018,W,MICB,301,,101,Microbial Ecophysiology,Kimberly Anne Dill-Mcfarland;Lindsay Eltis;Steven Hallam;William Mohn;Zhe Xian Liu,112,76.883928571,10.136674594,96.0,47.0,,5,,,,11,16,19,26,18,7
+UBCV,2018,W,MICB,301,,OVERALL,Microbial Ecophysiology,,112,76.883928571,10.136674594,96.0,47.0,,5,,,,11,16,19,26,18,7
 UBCV,2018,W,MICB,302,,101,Immunology,Ana Citlali Marquez Hernandez;Miguel Mejias Cordero;Pablo De Lucia Finkel;Tracy Kion,209,79.062200957,13.196406742,100.0,35.0,,10,10,,12,10,15,23,40,37,44
 UBCV,2018,W,MICB,302,,OVERALL,Immunology,,209,79.062200957,13.196406742,100.0,35.0,,10,10,,12,10,15,23,40,37,44
 UBCV,2018,W,MICB,306,,101,Molecular Virology,Catherine Byrne;Francois Jean;Marcia Graves;Virginie Jean Baptiste;Zachary Morse,201,78.696517413,11.167920031,97.0,30.0,,,7,11,7,7,21,26,33,57,27
@@ -20,8 +20,8 @@ UBCV,2018,W,MICB,322,,101,Molecular Microbiology Laboratory,Chelsea Cutler;Jenni
 UBCV,2018,W,MICB,322,,OVERALL,Molecular Microbiology Laboratory,,84,79.619047619,6.7358146560000005,95.0,63.0,,,,,,8,12,14,27,14,6
 UBCV,2018,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Iwona Niemietz;Marcia Graves;Miguel Mejias Cordero;Virginie Jean Baptiste,71,84.070422535,5.069020598,95.0,65.0,,,,,,,,9,29,21,10
 UBCV,2018,W,MICB,323,,OVERALL,Molecular Immunology and Virology Laboratory,,71,84.070422535,5.069020598,95.0,65.0,,,,,,,,9,29,21,10
-UBCV,2018,W,MICB,325,,201,Analysis of Microbial Genes and Genomes,Cara Haney;Katharine Jean Thompson;Lindsay Eltis;Michael Murphy;Sean Crowe,104,79.192307692,11.02871532,95.0,16.0,,,,,,9,9,19,21,25,12
-UBCV,2018,W,MICB,325,,OVERALL,Analysis of Microbial Genes and Genomes,,104,79.192307692,11.02871532,95.0,16.0,,,,,,9,9,19,21,25,12
+UBCV,2018,W,MICB,325,,201,Analysis of Microbial Genes and Genomes,Cara Haney;Katharine Jean Thompson;Lindsay Eltis;Michael Murphy;Sean Crowe,104,79.51923076899999,9.540898951,95.0,49.0,,,,,,9,9,19,21,25,12
+UBCV,2018,W,MICB,325,,OVERALL,Analysis of Microbial Genes and Genomes,,104,79.51923076899999,9.540898951,95.0,49.0,,,,,,9,9,19,21,25,12
 UBCV,2018,W,MICB,353,,101,Food Microbiology Laboratory,John Fiore Nomellini;John Nomellini;Karen Smith;Katharine Sedivy Haley,25,84.24,3.515205068,90.0,75.0,,,,,,,,,14,8,
 UBCV,2018,W,MICB,353,,OVERALL,Food Microbiology Laboratory,,25,84.24,3.515205068,90.0,75.0,,,,,,,,,14,8,
 UBCV,2018,W,MICB,401,,101,Environmental Microbiology Laboratory,Jewel Joy Ocampo;Wade Bingle,35,85.457142857,4.711330879,93.0,75.0,,,,,,,,,10,11,10

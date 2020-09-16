@@ -1,10 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,W,CPSC,100,,101,Computational Thinking,Rachel Pottinger,162,83.814814815,10.034240895,100.0,17.0,1,,,,,6,8,15,28,44,52
-UBCV,2017,W,CPSC,100,,201,Computational Thinking,Jessica Wong,116,80.974137931,15.160280602,100.0,7.0,7,,,,,4,8,10,20,22,38
+UBCV,2017,W,CPSC,100,,201,Computational Thinking,Jessica Hei-Man Wong;Jessica Wong,116,80.974137931,15.160280602,100.0,7.0,7,,,,,4,8,10,20,22,38
 UBCV,2017,W,CPSC,100,,OVERALL,Computational Thinking,,278,82.629496403,12.486359074000001,100.0,7.0,8,,,6,7,10,16,25,48,66,90
 UBCV,2017,W,CPSC,103,,101,Introduction to Systematic Program Design,Meghan Allen,129,77.480620155,19.603133031,100.0,6.0,18,,,,,11,9,6,19,17,41
-UBCV,2017,W,CPSC,103,,102,Introduction to Systematic Program Design,Jessica Wong,97,74.51546391800001,19.753224105,98.0,0.0,15,,,,,5,6,5,17,17,21
-UBCV,2017,W,CPSC,103,,201,Introduction to Systematic Program Design,Jessica Wong,119,80.26050420199999,17.843226026,100.0,16.0,13,,,,6,,7,6,20,16,45
+UBCV,2017,W,CPSC,103,,102,Introduction to Systematic Program Design,Jessica Hei-Man Wong;Jessica Wong,97,74.51546391800001,19.753224105,98.0,0.0,15,,,,,5,6,5,17,17,21
+UBCV,2017,W,CPSC,103,,201,Introduction to Systematic Program Design,Jessica Hei-Man Wong;Jessica Wong,119,80.26050420199999,17.843226026,100.0,16.0,13,,,,6,,7,6,20,16,45
 UBCV,2017,W,CPSC,103,,202,Introduction to Systematic Program Design,Steven Wolfman,127,80.0,21.335565359,100.0,1.0,17,,,,,,7,11,13,20,52
 UBCV,2017,W,CPSC,103,,OVERALL,Introduction to Systematic Program Design,,472,78.25,19.758118007,100.0,0.0,63,5,6,9,13,21,29,28,69,70,159
 UBCV,2017,W,CPSC,110,,101,"Computation, Programs, and Programming",Gregor Kiczales,311,75.890675241,19.79070187,100.0,17.0,66,,,5,5,6,21,31,39,38,96
@@ -25,10 +25,10 @@ UBCV,2017,W,CPSC,121,,203,Models of Computation,Frederick Shepherd,153,71.947712
 UBCV,2017,W,CPSC,121,,OVERALL,Models of Computation,,853,75.18053927300001,13.604844007,99.0,3.0,73,2.0,13,44,53,88,96,116,150,110,108
 UBCV,2017,W,CPSC,210,,101,Software Construction,Ryan Vogt,160,71.8875,16.365321327,98.0,3.0,17,,,9,19,21,19,18,21,16,17
 UBCV,2017,W,CPSC,210,,102,Software Construction,Michael Feeley,160,70.875,16.21232934,97.0,0.0,19,1.0,8,6,19,17,21,14,25,20,10
-UBCV,2017,W,CPSC,210,,103,Software Construction,Paul Martin Carter,171,72.409356725,16.150641042,98.0,14.0,21,,,17,14,13,24,14,18,18,27
+UBCV,2017,W,CPSC,210,,103,Software Construction,Paul Carter;Paul Martin Carter,171,72.409356725,16.150641042,98.0,14.0,21,,,17,14,13,24,14,18,18,27
 UBCV,2017,W,CPSC,210,,201,Software Construction,Ali Madooei,144,71.840277778,23.10924593,97.0,0.0,24,,,4,7,7,10,13,27,21,27
 UBCV,2017,W,CPSC,210,,202,Software Construction,Elisa Baniassad,155,79.083870968,16.585455543,100.0,0.0,9,,,11,6,8,11,8,23,25,50
-UBCV,2017,W,CPSC,210,,203,Software Construction,Paul Martin Carter,122,74.147540984,15.465596119,99.0,29.0,15,,,7,7,8,10,9,27,16,17
+UBCV,2017,W,CPSC,210,,203,Software Construction,Paul Carter;Paul Martin Carter,122,74.147540984,15.465596119,99.0,29.0,15,,,7,7,8,10,9,27,16,17
 UBCV,2017,W,CPSC,210,,OVERALL,Software Construction,,912,73.325657895,17.636538997,100.0,0.0,105,10,21,54,72,74,95,76,141,116,148
 UBCV,2017,W,CPSC,213,,101,Introduction to Computer Systems,Anthony Estey,92,74.119565217,17.061519193,98.0,13.0,9,,,,7,6,5,14,10,12,17
 UBCV,2017,W,CPSC,213,,102,Introduction to Computer Systems,Jonatan Schroeder,105,75.361904762,15.998271427,98.0,18.0,8,,,5,8,7,11,8,19,16,18
@@ -86,7 +86,7 @@ UBCV,2017,W,CPSC,322,,OVERALL,Introduction to Artificial Intelligence,,296,76.81
 UBCV,2017,W,CPSC,340,,101,Machine Learning and Data Mining,Mark Schmidt,215,83.293023256,13.394890143,99.0,1.0,5,1.0,4,6,7,9,10,17,37,38,81
 UBCV,2017,W,CPSC,340,,201,Machine Learning and Data Mining,Michael Gelbart,141,81.76595744699999,11.187134382,99.0,43.0,3,1.0,5,1,4,10,7,21,17,35,37
 UBCV,2017,W,CPSC,340,,OVERALL,Machine Learning and Data Mining,,356,82.68820224699999,12.572761800999999,99.0,1.0,8,2.0,9,7,11,19,17,38,54,73,118
-UBCV,2017,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Juliette Link;Paul Alexander Hendrik Bucci;Paul Bucci,126,82.658730159,5.510953019,95.0,68.0,,,,,,6,7,20,48,32,13
+UBCV,2017,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Juliette Link;Juliette Varhola;Paul Alexander Hendrik Bucci;Paul Bucci,126,82.658730159,5.510953019,95.0,68.0,,,,,,6,7,20,48,32,13
 UBCV,2017,W,CPSC,344,,OVERALL,Introduction to Human Computer Interaction Methods,,126,82.658730159,5.510953019,95.0,68.0,,,,,,6,7,20,48,32,13
 UBCV,2017,W,CPSC,404,,101,Advanced Relational Databases,Edwin Max Knorr,116,75.85344827600001,11.715656051,95.0,45.0,2.0,6,4,6,7,10,15,17,17,22,10
 UBCV,2017,W,CPSC,404,,201,Advanced Relational Databases,Georgios Tsiknis,135,81.407407407,10.867105161,98.0,50.0,0.0,1,5,4,5,12,10,10,26,22,40
@@ -144,7 +144,7 @@ UBCV,2017,W,CPSC,527,,101,Computer Communication Protocols,David Poole;Ivan Besc
 UBCV,2017,W,CPSC,527,,OVERALL,Computer Communication Protocols,,21,95.04761904799999,4.862881764,100.0,83.0,,,,,,,,,,,17
 UBCV,2017,W,CPSC,530,P,201,Topics in Information Processing,Dinesh Pai,8,87.375,5.208166664,95.0,80.0,,,,,,,,,,,
 UBCV,2017,W,CPSC,530,P,OVERALL,Topics in Information Processing,,8,87.375,5.208166664,95.0,80.0,,,,,,,,,,,
-UBCV,2017,W,CPSC,532,L,201,Topics in Artificial Intelligence,Ahmad Mehri;Kevin Leyton-Brown;Leonid Sigal;Mohammad Amin Aghaee Rad,37,93.81081081100001,5.9899816260000005,100.0,70.0,,,,,,,,,,,31
+UBCV,2017,W,CPSC,532,L,201,Topics in Artificial Intelligence,Ahmad Mehri;Leonid Sigal;Mohammad Amin Aghaee Rad,37,93.81081081100001,5.9899816260000005,100.0,70.0,,,,,,,,,,,31
 UBCV,2017,W,CPSC,532,L,OVERALL,Topics in Artificial Intelligence,,37,93.81081081100001,5.9899816260000005,100.0,70.0,,,,,,,,,,,31
 UBCV,2017,W,CPSC,532,R,201,Topics in Artificial Intelligence,Mohammad Amin Aghaee Rad;Mohsen Ravanbakhsh,18,90.333333333,4.665265896,96.0,81.0,,,,,,,,,,,13
 UBCV,2017,W,CPSC,532,R,OVERALL,Topics in Artificial Intelligence,,18,90.333333333,4.665265896,96.0,81.0,,,,,,,,,,,13

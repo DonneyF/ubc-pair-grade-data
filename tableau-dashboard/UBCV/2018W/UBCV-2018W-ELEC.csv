@@ -11,12 +11,12 @@ UBCV,2018,W,ELEC,203,,101,Basic Circuit Analysis,Hamed Ahmadi;Matthieu Amyotte;M
 UBCV,2018,W,ELEC,203,,OVERALL,Basic Circuit Analysis,,35,72.0,15.708746159,100.0,50.0,,5,6,,,,,,5,,6
 UBCV,2018,W,ELEC,204,,101,Linear Circuits,Amirahmad Tarkeshdouz;Mengye Cai;Ruochen Wen;Shahriar Mirabbasi,119,84.57983193300001,8.404494155,100.0,62.0,,,,,,8,6,10,24,26,42
 UBCV,2018,W,ELEC,204,,OVERALL,Linear Circuits,,119,84.57983193300001,8.404494155,100.0,62.0,,,,,,8,6,10,24,26,42
-UBCV,2018,W,ELEC,205,,L1A,Electronics Laboratory,Matthieu Amyotte;Matthieu William Amyotte;Ronish Balvantbhai Patel;Ronish Patel;Saloome Motavas,17,99.29411764700001,1.358524286,100.0,96.0,,,,,,,,,,,17
-UBCV,2018,W,ELEC,205,,L1B,Electronics Laboratory,Matthieu Amyotte;Matthieu William Amyotte;Ronish Balvantbhai Patel;Ronish Patel;Saloome Motavas,22,97.863636364,1.726418107,100.0,94.0,,,,,,,,,,,22
-UBCV,2018,W,ELEC,205,,L1C,Electronics Laboratory,Matthieu Amyotte;Matthieu William Amyotte;Reza Molavi;Ronish Balvantbhai Patel;Ronish Patel;Saloome Motavas,15,98.2,4.585692034,100.0,82.0,,,,,,,,,,,14
+UBCV,2018,W,ELEC,205,,L1A,Electronics Laboratory,Matthieu Amyotte;Ronish Patel;Saloome Motavas,17,99.29411764700001,1.358524286,100.0,96.0,,,,,,,,,,,17
+UBCV,2018,W,ELEC,205,,L1B,Electronics Laboratory,Matthieu Amyotte;Ronish Patel;Saloome Motavas,22,97.863636364,1.726418107,100.0,94.0,,,,,,,,,,,22
+UBCV,2018,W,ELEC,205,,L1C,Electronics Laboratory,Matthieu Amyotte;Ronish Patel;Saloome Motavas,15,98.2,4.585692034,100.0,82.0,,,,,,,,,,,14
 UBCV,2018,W,ELEC,205,,OVERALL,Electronics Laboratory,,54,98.40740740700001,2.771271206,100.0,82.0,,,,,,,,,,,53
-UBCV,2018,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Mohammad Arafat Hussain;Sayed Mohammad Hashem Jayhooni;Terry Lee;Yan Qi Gu;Yonghan Zhou,106,69.179245283,13.026564192999999,99.0,21.0,6,6,5,12,18,15,16,9,3.0,9,7
-UBCV,2018,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Mohammad Arafat Hussain;Sayed Mohammad Hashem Jayhooni;Yan Qi Gu;Yonghan Zhou;Yu Christine Chen,96,63.135416667,16.353090673,93.0,1.0,14,10,3,12,17,9,13,7,4.0,4,3
+UBCV,2018,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Hany Abolmagd Ahmed Abdelraheem;Mohammad Arafat Hussain;Sayed Mohammad Hashem Jayhooni;Terry Lee;Yan Qi Gu;Yonghan Zhou,106,69.179245283,13.026564192999999,99.0,21.0,6,6,5,12,18,15,16,9,3.0,9,7
+UBCV,2018,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Hany Abolmagd Ahmed Abdelraheem;Mohammad Arafat Hussain;Sayed Mohammad Hashem Jayhooni;Yan Qi Gu;Yonghan Zhou;Yu Christine Chen,96,63.135416667,16.353090673,93.0,1.0,14,10,3,12,17,9,13,7,4.0,4,3
 UBCV,2018,W,ELEC,211,,OVERALL,Engineering Electromagnetics,,202,66.306930693,14.973105292,99.0,1.0,20,16,8,24,35,24,29,16,7,13,10
 UBCV,2018,W,ELEC,221,,101,Signals and Systems,Abdelmalik Aljalai;Abdelmalik Nass Aljalai;Anahita Shojaei Hashemi;Jashanjot Kaur;Joel Ezequiel Hernandez-Balades;Joel Hernandez-Balades;Joseph Yan;Mohammad Arafat Hussain;Paul Lusina,158,71.35443038,15.228650483,96.0,6.0,14,6,8,13,15,22,12,9,25,13,21
 UBCV,2018,W,ELEC,221,,201,Signals and Systems,Abdelmalik Aljalai;Alireza Asoodeh;Anahita Shojaei Hashemi;Joel Ezequiel Hernandez-Balades;Joel Hernandez-Balades;Joseph Yan;Lazar Atanackovic;Mostafa Darabi,217,64.142857143,19.314474929,100.0,0.0,34,25,21,20,16,21,22,18,11,10,19
@@ -52,7 +52,7 @@ UBCV,2018,W,ELEC,331,,OVERALL,Computer Communications,,131,71.366412214,15.96303
 UBCV,2018,W,ELEC,341,,101,Systems and Control,Mohammad Najjarzadegan;Siamak Najarian;Su Wang,65,85.0,9.490126448,99.0,53.0,0,1,0,2,2,2,1,3,14,18,22
 UBCV,2018,W,ELEC,341,,201,Systems and Control,Edmond Cretu;Kevin Jin-Huen Voon;Kevin Voon;Mohammad Najjarzadegan;Sapna Srinivasan;Su Wang,107,68.588785047,16.030015049,99.0,0.0,12,6,8,11,10,7,14,13,8,9,9
 UBCV,2018,W,ELEC,341,,OVERALL,Systems and Control,,172,74.790697674,16.021269692,99.0,0.0,12,7,8,13,12,9,15,16,22,27,31
-UBCV,2018,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Juri Jatskevich;Navid Amiri;Seyyedmilad Ebrahimi;William Dunford;Zhi Qu,81,63.135802469,13.698314755999998,96.0,26.0,16,3.0,7,14,12,7,9,6,3,1,3
+UBCV,2018,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Juri Jatskevich;Navid Amiri;Seyyedmilad Ebrahimi;Zhi Qu,81,63.135802469,13.698314755999998,96.0,26.0,16,3.0,7,14,12,7,9,6,3,1,3
 UBCV,2018,W,ELEC,342,,201,Electro-Mechanical Energy Conversion and Transmission,Luis Linares;Mohammad Ali Saket Tokaldani;Navid Amiri;Seyyedmilad Ebrahimi,53,77.339622642,16.437461198,100.0,35.0,4,3.0,2,2,1,4,3,3,5,10,16
 UBCV,2018,W,ELEC,342,,OVERALL,Electro-Mechanical Energy Conversion and Transmission,,134,68.753731343,16.343326139000002,100.0,26.0,20,6,9,16,13,11,12,9,8,11,19
 UBCV,2018,W,ELEC,343,,201,Electromechanics,Hanqing Lin;Juri Jatskevich;Mohammad Mahdavyfakhr,39,79.205128205,11.863654107999999,93.0,25.0,,,,,,,,6,10,8,5
@@ -72,7 +72,7 @@ UBCV,2018,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi;Septimiu Salc
 UBCV,2018,W,ELEC,402,,OVERALL,Introduction to VLSI Systems,,44,73.477272727,14.602466559000002,94.0,30.0,,,,,,,,,9,7,
 UBCV,2018,W,ELEC,403,,201,Advanced Digital VLSI Systems,Chen Yuan;Sudip Shekhar,15,73.2,24.098606954,93.0,9.0,,,,,,,,,,,5
 UBCV,2018,W,ELEC,403,,OVERALL,Advanced Digital VLSI Systems,,15,73.2,24.098606954,93.0,9.0,,,,,,,,,,,5
-UBCV,2018,W,ELEC,411,,201,Antennas and Propagation,David Michelson;Parham Pashaei;Parham Zarei,27,87.0,7.1897362739999995,100.0,69.0,,,,,,,,,5,5,12
+UBCV,2018,W,ELEC,411,,201,Antennas and Propagation,David Michelson;Parham Zarei,27,87.0,7.1897362739999995,100.0,69.0,,,,,,,,,5,5,12
 UBCV,2018,W,ELEC,411,,OVERALL,Antennas and Propagation,,27,87.0,7.1897362739999995,100.0,69.0,,,,,,,,,5,5,12
 UBCV,2018,W,ELEC,412,,101,Optical Waveguides and Photonics,Mustafa Hammood;Nicolas A Jaeger,6,83.5,12.708265027000001,98.0,68.0,,,,,,,,,,,
 UBCV,2018,W,ELEC,412,,OVERALL,Optical Waveguides and Photonics,,6,83.5,12.708265027000001,98.0,68.0,,,,,,,,,,,
@@ -94,7 +94,7 @@ UBCV,2018,W,ELEC,441,,201,Control Systems,Guy A Dumont;Hamed Shakouri Ganjavi;Mo
 UBCV,2018,W,ELEC,441,,OVERALL,Control Systems,,62,74.016129032,18.908313667999998,100.0,0.0,5,,,5,,5,5,6,8,6,13
 UBCV,2018,W,ELEC,442,,101,Introduction to Robotics,Ankita Rathi;Joseph Yan;Sugun Machipeddy,50,73.66,14.615633229,99.0,27.0,,,,,5,5,7,7,6,,7
 UBCV,2018,W,ELEC,442,,OVERALL,Introduction to Robotics,,50,73.66,14.615633229,99.0,27.0,,,,,5,5,7,7,6,,7
-UBCV,2018,W,ELEC,451,,101,Power Electronics,Ettore Frederico Scabeni Glitz;Ettore Scabeni Glitz;Francisco Paz;Franco Degioanni;Martin Ordonez;Sayed Abbas Arshadi;Sayed Arshadi,71,78.09859154899999,7.950121166000001,97.0,50.0,,,,,,7,12,15,18,9,5
+UBCV,2018,W,ELEC,451,,101,Power Electronics,Ettore Scabeni Glitz;Francisco Paz;Franco Degioanni;Martin Ordonez;Sayed Arshadi,71,78.09859154899999,7.950121166000001,97.0,50.0,,,,,,7,12,15,18,9,5
 UBCV,2018,W,ELEC,451,,OVERALL,Power Electronics,,71,78.09859154899999,7.950121166000001,97.0,50.0,,,,,,7,12,15,18,9,5
 UBCV,2018,W,ELEC,453,,101,Power System Analysis,Abdullah Al-Digs;Jose Marti;Konstantin Beznosov;Yu Christine Chen,29,83.206896552,7.9793452579999995,95.0,65.0,,,,,,,,,7,8,6
 UBCV,2018,W,ELEC,453,,OVERALL,Power System Analysis,,29,83.206896552,7.9793452579999995,95.0,65.0,,,,,,,,,7,8,6

@@ -1,5 +1,5 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,APBI,200,,001,Introduction to Soil Science,Akshit Puri;Alexander James Kramer;Alexander Kramer;Chantel Chizen;Dixi Umesh Modi;Elaine Cheng;Kiran Padda;Kiran Preet Padda;Lewis Fausak;Lewis Karl Fausak;Maja Krzic;Maria Porter;Maria Teresa Porter;Sandra Brown;Yuchen Li,235,70.625531915,14.812077367,96.0,0.0,12,8,16,17,37,21,28,28,34,20,14
+UBCV,2018,W,APBI,200,,001,Introduction to Soil Science,Akshit Puri;Alexander Kramer;Chantel Chizen;Dixi Umesh Modi;Kiran Padda;Kiran Preet Padda;Lewis Fausak;Maria Porter;Sandra Brown;Yuchen Li,235,70.625531915,14.812077367,96.0,0.0,12,8,16,17,37,21,28,28,34,20,14
 UBCV,2018,W,APBI,200,,OVERALL,Introduction to Soil Science,,235,70.625531915,14.812077367,96.0,0.0,12,8,16,17,37,21,28,28,34,20,14
 UBCV,2018,W,APBI,210,,001,Vascular Plants,Christopher Lee;Sean Graham;Shona Margaret Ellis;William Iles,16,60.25,25.193914609,85.0,1.0,,,,,,,,,,,
 UBCV,2018,W,APBI,210,,OVERALL,Vascular Plants,,16,60.25,25.193914609,85.0,1.0,,,,,,,,,,,
@@ -7,7 +7,7 @@ UBCV,2018,W,APBI,222,,001,Introduction to Horticulture,David Mcarthur;Wei Yan Ye
 UBCV,2018,W,APBI,222,,OVERALL,Introduction to Horticulture,,5,80.2,7.694153625,87.0,70.0,,,,,,,,,,,
 UBCV,2018,W,APBI,244,,001,Introduction to Biometeorology,Hughie Jones;Oscar Zimmerman;Thomas Andrew Black,38,71.15789473699999,18.677239098,91.0,18.0,,,,,,,,,7,10,
 UBCV,2018,W,APBI,244,,OVERALL,Introduction to Biometeorology,,38,71.15789473699999,18.677239098,91.0,18.0,,,,,,,,,7,10,
-UBCV,2018,W,APBI,260,,001,Agroecology I: Introduction to principles and techniques,Alexander James Kramer;Alexander Kramer;Amy Ellen Norgaard;Chantel Chizen;Corine Singfield;Lewis Fausak;Lewis Karl Fausak;Lyndsey Dowell;Lyndsey Marie Dowell;Sean Smukler;Siddhartho Paul;Siddhartho Shekhar Paul,39,81.051282051,11.909635016,98.0,48.0,,,,,,,,,10,10,8
+UBCV,2018,W,APBI,260,,001,Agroecology I: Introduction to principles and techniques,Alexander Kramer;Chantel Chizen;Corine Singfield;Lewis Fausak;Lyndsey Dowell;Sean Smukler,39,81.051282051,11.909635016,98.0,48.0,,,,,,,,,10,10,8
 UBCV,2018,W,APBI,260,,OVERALL,Agroecology I: Introduction to principles and techniques,,39,81.051282051,11.909635016,98.0,48.0,,,,,,,,,10,10,8
 UBCV,2018,W,APBI,265,,001,Sustainable Agriculture and Food Systems,Delisa Lewis,27,81.148148148,16.183333553,94.0,10.0,,,,,,,,,7,11,
 UBCV,2018,W,APBI,265,,OVERALL,Sustainable Agriculture and Food Systems,,27,81.148148148,16.183333553,94.0,10.0,,,,,,,,,7,11,
@@ -22,7 +22,7 @@ UBCV,2018,W,APBI,314,,003,Animals and Society,Elisabeth Helen Ormandy;Elisabeth 
 UBCV,2018,W,APBI,314,,OVERALL,Animals and Society,,217,81.147465438,10.069499488,95.0,18.0,,,,,8,13,23,21,44,58,40
 UBCV,2018,W,APBI,315,,001,Animal Welfare and the Ethics of Animal Use,Bailey Eagan;Bailey Hope Eagan;Daniel Weary;David Fraser,57,84.122807018,7.149101281,98.0,65.0,,,,,,,,6,15,14,17
 UBCV,2018,W,APBI,315,,OVERALL,Animal Welfare and the Ethics of Animal Use,,57,84.122807018,7.149101281,98.0,65.0,,,,,,,,6,15,14,17
-UBCV,2018,W,APBI,316,,001,"Equine Biology, Health and Welfare",Amelia M. Macrae;Amelia Macrae;Catherine Schuppli;Katelyn Mills;Katie Elizabeth Koralesky;Katie Koralesky,46,82.97826087,7.00948288,96.0,62.0,,,,,,,,6,15,14,6
+UBCV,2018,W,APBI,316,,001,"Equine Biology, Health and Welfare",Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Catherine Schuppli;Katelyn Elizabeth Mills;Katelyn Mills;Katie Elizabeth Koralesky;Katie Koralesky,46,82.97826087,7.00948288,96.0,62.0,,,,,,,,6,15,14,6
 UBCV,2018,W,APBI,316,,OVERALL,"Equine Biology, Health and Welfare",,46,82.97826087,7.00948288,96.0,62.0,,,,,,,,6,15,14,6
 UBCV,2018,W,APBI,318,,001,Applied Plant Breeding,Andrew Riseman,17,85.176470588,14.107778414,100.0,47.0,,,,,,,,,,,8
 UBCV,2018,W,APBI,318,,OVERALL,Applied Plant Breeding,,17,85.176470588,14.107778414,100.0,47.0,,,,,,,,,,,8
@@ -77,12 +77,13 @@ UBCV,2018,W,APBI,460,,001,Agroecology III: Synthesis and evaluation,Andrew Risem
 UBCV,2018,W,APBI,460,,OVERALL,Agroecology III: Synthesis and evaluation,,9,92.888888889,2.97676185,98.0,89.0,,,,,,,,,,,8
 UBCV,2018,W,APBI,490,,201,Advanced Topics in Applied Biology,Anna Ratuski;Anna Selene Ratuski;Catherine Schuppli,42,85.595238095,9.286915852,99.0,56.0,,,,,,,,,8,9,17
 UBCV,2018,W,APBI,490,,OVERALL,Advanced Topics in Applied Biology,,42,85.595238095,9.286915852,99.0,56.0,,,,,,,,,8,9,17
-UBCV,2018,W,APBI,495,,001,Principles of Wildlife Management in Forests and Agricultural Environments,Katelyn Elizabeth Mills;Katelyn Mills;Kristen Walker;Sumeet Gulati,14,82.428571429,11.029431157000001,96.0,70.0,,,,,,,,,,,6
+UBCV,2018,W,APBI,495,,001,Principles of Wildlife Management in Forests and Agricultural Environments,Katelyn Elizabeth Mills;Katelyn Mills;Kristen Walker,14,82.428571429,11.029431157000001,96.0,70.0,,,,,,,,,,,6
 UBCV,2018,W,APBI,495,,OVERALL,Principles of Wildlife Management in Forests and Agricultural Environments,,14,82.428571429,11.029431157000001,96.0,70.0,,,,,,,,,,,6
 UBCV,2018,W,APBI,496,A,001,Applied Animal Biology Practicum,Sara Dubois,7,87.285714286,4.535573676,94.0,81.0,,,,,,,,,,,
 UBCV,2018,W,APBI,496,A,OVERALL,Applied Animal Biology Practicum,,8,87.625,4.307385684,94.0,81.0,,,,,,,,,,,
 UBCV,2018,W,APBI,497,B,001,Directed Studies,,16,88.9375,3.567795771,95.0,84.0,,,,,,,,,,5,8
-UBCV,2018,W,APBI,497,B,002,Directed Studies,,10,88.5,4.527692569,95.0,80.0,,,,,,,,,,3,5
-UBCV,2018,W,APBI,497,B,OVERALL,Directed Studies,,26,88.76923076899999,3.881316192,95.0,80.0,,,,,,,,,5,8,13
+UBCV,2018,W,APBI,497,B,002,Directed Studies,,13,89.30769230799999,4.441933051,96.0,80.0,,,,,,,,,,,8
+UBCV,2018,W,APBI,497,B,OVERALL,Directed Studies,,29,89.10344827600001,3.912843573,96.0,80.0,,,,,,,,,5,8,16
+UBCV,2018,W,APBI,497,E,OVERALL,Directed Studies,,5,88.6,2.19089023,92.0,86.0,,,,,,,,,,,0
 UBCV,2018,W,APBI,499,,001,Undergraduate Thesis,Daniel Weary;Marina Von Keyserlingk,5,92.0,1.4142135619999998,94.0,91.0,,,,,,,,,,,5
 UBCV,2018,W,APBI,499,,OVERALL,Undergraduate Thesis,,6,91.666666667,1.505545305,94.0,90.0,,,,,,,,,,,6

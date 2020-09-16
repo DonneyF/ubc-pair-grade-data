@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,ANTH,100,A,002,Introduction to Cultural Anthropology,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Emma Feltes;Emma Rose Feltes;Steffan Gordon;Steffan Taylor Gordon,85,75.517647059,7.386622021,90.0,43.0,,,,2,2,12,20,24,16,4,
 UBCV,2018,W,ANTH,100,A,003,Introduction to Cultural Anthropology,Emily Amburgey;Evan Koike;Evan Teruo Koike;Nancy Kimberley Phillips;Nancy Phillips;Rosaleen Mcafee;Rosaleen Patricia Mcafee;Wade Davis;Yujie Ji,302,80.155629139,10.784769227,98.0,35.0,4.0,7,6,5,9,19,39,32,58,67,56
-UBCV,2018,W,ANTH,100,A,004,Introduction to Cultural Anthropology,Amanda Sorensen;Charles Menzies;David Ryniker;Kendra Jewell;Kendra Leigh Jewell,103,69.155339806,15.334030642,90.0,0.0,5,,,14,9,14,14,13,18,6,
+UBCV,2018,W,ANTH,100,A,004,Introduction to Cultural Anthropology,Amanda Sorensen;Charles Menzies;David C Ryniker;David Ryniker;Kendra Jewell;Kendra Leigh Jewell,103,69.155339806,15.334030642,90.0,0.0,5,,,14,9,14,14,13,18,6,
 UBCV,2018,W,ANTH,100,A,005,Introduction to Cultural Anthropology,Caris Windhausen;David Ryniker;Rafael Wainer,111,71.297297297,9.822603427,90.0,22.0,,,,8,13,28,18,12,14,9,
 UBCV,2018,W,ANTH,100,A,OVERALL,Introduction to Cultural Anthropology,,601,75.97836938399999,12.021142402999999,98.0,0.0,12,15,14,29,33,73,91,81,106,86,61
-UBCV,2018,W,ANTH,203,,001,Anthropology of Drugs,Michelle Hepburn;Shaylih Muehlmann,122,73.959016393,12.016103204,96.0,8.0,5,,6,,8,23,10,23,28,10,5
-UBCV,2018,W,ANTH,203,,OVERALL,Anthropology of Drugs,,122,73.959016393,12.016103204,96.0,8.0,5,,6,,8,23,10,23,28,10,5
+UBCV,2018,W,ANTH,203,,001,Anthropology of Drugs,Michelle Hepburn;Shaylih Muehlmann,122,74.524590164,11.150520215,96.0,8.0,,,6,5,9,23,11,23,28,10,5
+UBCV,2018,W,ANTH,203,,OVERALL,Anthropology of Drugs,,122,74.524590164,11.150520215,96.0,8.0,,,6,5,9,23,11,23,28,10,5
 UBCV,2018,W,ANTH,205,,001,The Anthropology of Insurrections and Revolution,Gaston Gordillo;Hilal Esranur Kina;Hilal Kina,65,76.107692308,12.599755797,94.0,5.0,,,,,,,13,11,24,7,
 UBCV,2018,W,ANTH,205,,OVERALL,The Anthropology of Insurrections and Revolution,,65,76.107692308,12.599755797,94.0,5.0,,,,,,,13,11,24,7,
 UBCV,2018,W,ANTH,206,,001,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",Francesca Pegorer;Sabina Magliocco,118,79.008474576,8.499870047,95.0,49.0,,,,,6,12,21,19,24,17,15
@@ -13,8 +13,8 @@ UBCV,2018,W,ANTH,206,,OVERALL,"Witches, Vampires, and Zombies: Anthropology of t
 UBCV,2018,W,ANTH,210,,001,Eating Culture,Amanda Sorensen;Jad Brake;Sarah Fessenden,132,69.787878788,12.782998193,92.0,1.0,2.0,6,12,15,17,15,23,16,14,7,5
 UBCV,2018,W,ANTH,210,,002,Eating Culture,Caitlin Gordon-Walker;Emily Leischner,67,73.28358209,12.651273705,89.0,8.0,2.0,1,3,4,3,2,16,17,12,7,0
 UBCV,2018,W,ANTH,210,,OVERALL,Eating Culture,,199,70.964824121,12.814282154,92.0,1.0,4.0,7,15,19,20,17,39,33,26,14,5
-UBCV,2018,W,ANTH,213,,001,"Sex, Gender, and Culture",Carole Blackburn;Hilal Esranur Kina;Hilal Kina,101,76.821782178,12.316976934000001,96.0,24.0,,,,6,5,8,13,7,29,19,8
-UBCV,2018,W,ANTH,213,,OVERALL,"Sex, Gender, and Culture",,101,76.821782178,12.316976934000001,96.0,24.0,,,,6,5,8,13,7,29,19,8
+UBCV,2018,W,ANTH,213,,001,"Sex, Gender, and Culture",Carole Blackburn;Hilal Esranur Kina;Hilal Kina,100,77.35,11.170284353,96.0,35.0,,,,6,5,8,13,7,29,19,8
+UBCV,2018,W,ANTH,213,,OVERALL,"Sex, Gender, and Culture",,100,77.35,11.170284353,96.0,35.0,,,,6,5,8,13,7,29,19,8
 UBCV,2018,W,ANTH,215,,002,Japanese Popular Culture,Basant Ahmed Sayed;Millie Creighton,42,71.523809524,12.351040433,94.0,23.0,,,,,8,6,10,7,,,
 UBCV,2018,W,ANTH,215,,OVERALL,Japanese Popular Culture,,42,71.523809524,12.351040433,94.0,23.0,,,,,8,6,10,7,,,
 UBCV,2018,W,ANTH,217,,001,Culture and Communication,Amirpouyan Shiva;Kendra Jewell;Kendra Leigh Jewell,53,73.981132075,8.499978656,90.0,53.0,,,,,,10,8,10,8,6,
@@ -41,21 +41,21 @@ UBCV,2018,W,ANTH,312,,001,Anthropology of Gender,Amirpouyan Shiva;Kamal Arora,45
 UBCV,2018,W,ANTH,312,,OVERALL,Anthropology of Gender,,45,76.511111111,12.876374105,95.0,16.0,,,,,,,7,15,,9,
 UBCV,2018,W,ANTH,315,,002,Japanese Culture and Society,Evan Koike;Millie Creighton,45,72.555555556,12.655497468,90.0,2.0,,,,,5,8,10,7,8,,
 UBCV,2018,W,ANTH,315,,OVERALL,Japanese Culture and Society,,45,72.555555556,12.655497468,90.0,2.0,,,,,5,8,10,7,8,,
-UBCV,2018,W,ANTH,317,A,200,Linguistic Anthropology,Heather Burge;Heather Dawn Burge;Patrick Moore,59,73.525423729,16.005770438,94.0,0.0,,,,,,6,14,6,11,7,5
-UBCV,2018,W,ANTH,317,A,OVERALL,Linguistic Anthropology,,59,73.525423729,16.005770438,94.0,0.0,,,,,,6,14,6,11,7,5
+UBCV,2018,W,ANTH,317,A,200,Linguistic Anthropology,Heather Burge;Heather Dawn Burge;Patrick Moore,58,74.120689655,15.472757708,94.0,0.0,,,,,,6,14,6,11,7,5
+UBCV,2018,W,ANTH,317,A,OVERALL,Linguistic Anthropology,,58,74.120689655,15.472757708,94.0,0.0,,,,,,6,14,6,11,7,5
 UBCV,2018,W,ANTH,329,A,100,Contemporary First Nations Issues,Charles Menzies,49,83.632653061,7.573786695,97.0,55.0,,,,,,,,,19,13,10
 UBCV,2018,W,ANTH,329,A,OVERALL,Contemporary First Nations Issues,,49,83.632653061,7.573786695,97.0,55.0,,,,,,,,,19,13,10
 UBCV,2018,W,ANTH,331,A,002,"Art, Aesthetics and Anthropology",Nicola Levell,44,77.045454545,6.201854732,91.0,68.0,,,,,,8,16,5,6,7,
 UBCV,2018,W,ANTH,331,A,OVERALL,"Art, Aesthetics and Anthropology",,44,77.045454545,6.201854732,91.0,68.0,,,,,,8,16,5,6,7,
 UBCV,2018,W,ANTH,332,,101,Oral Tradition,Sabina Magliocco,46,82.782608696,12.00354215,95.0,46.0,,,,,,5,,,8,9,17
 UBCV,2018,W,ANTH,332,,OVERALL,Oral Tradition,,46,82.782608696,12.00354215,95.0,46.0,,,,,,5,,,8,9,17
-UBCV,2018,W,ANTH,341,A,002,"Museums, Heritage and Memory",Nicola Levell,39,78.948717949,17.061728051,95.0,0.0,,,,,,,,,9,7,9
-UBCV,2018,W,ANTH,341,A,OVERALL,"Museums, Heritage and Memory",,39,78.948717949,17.061728051,95.0,0.0,,,,,,,,,9,7,9
-UBCV,2018,W,ANTH,378,,002,Anthropology of Media,Christopher Smith;David Ryniker;Sabina Magliocco,41,74.682926829,9.487989841000001,88.0,55.0,,,,,8,,,5,13,5,
+UBCV,2018,W,ANTH,341,A,002,"Museums, Heritage and Memory",Nicola Levell,38,81.026315789,11.228551547,95.0,33.0,,,,,,,,,9,7,9
+UBCV,2018,W,ANTH,341,A,OVERALL,"Museums, Heritage and Memory",,38,81.026315789,11.228551547,95.0,33.0,,,,,,,,,9,7,9
+UBCV,2018,W,ANTH,378,,002,Anthropology of Media,Christopher Smith;David C Ryniker;David Ryniker;Sabina Magliocco,41,74.682926829,9.487989841000001,88.0,55.0,,,,,8,,,5,13,5,
 UBCV,2018,W,ANTH,378,,OVERALL,Anthropology of Media,,41,74.682926829,9.487989841000001,88.0,55.0,,,,,8,,,5,13,5,
-UBCV,2018,W,ANTH,400,A,002,History of Anthropology,Vinay Ramnath Kamat,38,67.55263157899999,27.527575725,92.0,0.0,6,,,,,0,4,6,2,7,7
+UBCV,2018,W,ANTH,400,A,002,History of Anthropology,Vinay Ramnath Kamat,37,69.37837837800001,25.468227866,92.0,0.0,5,,,,,0,4,6,2,7,7
 UBCV,2018,W,ANTH,400,A,005,History of Anthropology,Bruce Miller;Carole Blackburn,33,72.787878788,17.136871024,93.0,12.0,2,,,,,5,7,4,5,1,5
-UBCV,2018,W,ANTH,400,A,OVERALL,History of Anthropology,,71,69.98591549300001,23.274445188,93.0,0.0,8,,,,,5,11,10,7,8,12
+UBCV,2018,W,ANTH,400,A,OVERALL,History of Anthropology,,70,70.985714286,21.852929268,93.0,0.0,7,,,,,5,11,10,7,8,12
 UBCV,2018,W,ANTH,404,,002,Ethnography in Circumpolar North: Comparative Perspectives.,Patrick Moore,25,81.52,17.270205558,92.0,9.0,,,,,,,,,,16,
 UBCV,2018,W,ANTH,404,,OVERALL,Ethnography in Circumpolar North: Comparative Perspectives.,,25,81.52,17.270205558,92.0,9.0,,,,,,,,,,16,
 UBCV,2018,W,ANTH,407,,001,Principles of Field Work,Sabina Magliocco,33,80.090909091,12.540842367,95.0,30.0,,,,,,,6,,7,6,8
@@ -74,15 +74,15 @@ UBCV,2018,W,ANTH,428,,001,"Medicine, Technology, Culture, and Society",William M
 UBCV,2018,W,ANTH,428,,OVERALL,"Medicine, Technology, Culture, and Society",,30,74.533333333,14.52876655,85.0,12.0,,,,,,,,9,13,,
 UBCV,2018,W,ANTH,435,,001,"The Japanese Tea Ceremony: Ethnography of Performance, Practice, and Ritual",Millie Creighton,22,76.090909091,18.157797986,90.0,0.0,,,,,,,,5,5,,
 UBCV,2018,W,ANTH,435,,OVERALL,"The Japanese Tea Ceremony: Ethnography of Performance, Practice, and Ritual",,22,76.090909091,18.157797986,90.0,0.0,,,,,,,,5,5,,
-UBCV,2018,W,ANTH,449,A,001,Honours Tutorial,,8,88.0,6.676183683,95.0,73.0,,,,,,,,,,,5
-UBCV,2018,W,ANTH,449,A,OVERALL,Honours Tutorial,,8,88.0,6.676183683,95.0,73.0,,,,,,,,,,,5
+UBCV,2018,W,ANTH,449,A,001,Honours Tutorial,,9,89.111111111,7.078920194,98.0,73.0,,,,,,,,,,,6
+UBCV,2018,W,ANTH,449,A,OVERALL,Honours Tutorial,,9,89.111111111,7.078920194,98.0,73.0,,,,,,,,,,,6
 UBCV,2018,W,ANTH,452,,002,Conservation of Inorganic Materials,Heidi Swierenga,15,74.93333333300001,7.304271418,85.0,58.0,,,,,,,,,,,
 UBCV,2018,W,ANTH,452,,OVERALL,Conservation of Inorganic Materials,,15,74.93333333300001,7.304271418,85.0,58.0,,,,,,,,,,,
 UBCV,2018,W,ANTH,461,,002,Anthropological Study of Local Ecological Knowledge,Charles Menzies,16,86.4375,7.173736823,94.0,70.0,,,,,,,,,,5,6
 UBCV,2018,W,ANTH,461,,OVERALL,Anthropological Study of Local Ecological Knowledge,,16,86.4375,7.173736823,94.0,70.0,,,,,,,,,,5,6
 UBCV,2018,W,ANTH,471,,002,Anthropology of Law,Carole Blackburn,32,74.28125,19.597949819,90.0,0.0,,,,,,,6,,7,7,
 UBCV,2018,W,ANTH,471,,OVERALL,Anthropology of Law,,32,74.28125,19.597949819,90.0,0.0,,,,,,,6,,7,7,
-UBCV,2018,W,ANTH,495,B,001,Advanced Studies in Anthropology,Margaret Wylie,7,80.285714286,27.041414445999997,97.0,21.0,,,,,,,,,,,
+UBCV,2018,W,ANTH,495,B,001,Advanced Studies in Anthropology,Alison Wylie;Margaret Wylie,7,80.285714286,27.041414445999997,97.0,21.0,,,,,,,,,,,
 UBCV,2018,W,ANTH,495,B,OVERALL,Advanced Studies in Anthropology,,7,80.285714286,27.041414445999997,97.0,21.0,,,,,,,,,,,
 UBCV,2018,W,ANTH,495,C,200,Advanced Studies in Anthropology,Nicola Levell;Shaylih Muehlmann,16,83.6875,3.8421998910000004,90.0,78.0,,,,,,,,,9,5,
 UBCV,2018,W,ANTH,495,C,OVERALL,Advanced Studies in Anthropology,,16,83.6875,3.8421998910000004,90.0,78.0,,,,,,,,,9,5,
@@ -95,5 +95,5 @@ UBCV,2018,W,ANTH,540,A,OVERALL,Advanced Seminar,,16,87.9375,5.893145736,96.0,78.
 UBCV,2018,W,ANTH,540,C,002,Advanced Seminar,Carole Blackburn;Nicola Levell,6,90.5,0.8366600270000001,92.0,90.0,,,,,,,,,,,6
 UBCV,2018,W,ANTH,540,C,200,Advanced Seminar,Gaston Gordillo;Hilal Esranur Kina;Hilal Kina,7,90.285714286,2.138089935,94.0,88.0,,,,,,,,,,,5
 UBCV,2018,W,ANTH,540,C,OVERALL,Advanced Seminar,,13,90.384615385,1.609268029,94.0,88.0,,,,,,,,,,,11
-UBCV,2018,W,ANTH,545,A,001,Graduate Research Seminar,Camilla Speller,7,91.285714286,5.313952883,97.0,83.0,,,,,,,,,,,
-UBCV,2018,W,ANTH,545,A,OVERALL,Graduate Research Seminar,,8,91.625,5.012484413999999,97.0,83.0,,,,,,,,,,,5
+UBCV,2018,W,ANTH,545,A,001,Graduate Research Seminar,Camilla Speller,9,88.333333333,8.455767263,97.0,70.0,,,,,,,,,,,
+UBCV,2018,W,ANTH,545,A,OVERALL,Graduate Research Seminar,,10,88.9,8.171087239,97.0,70.0,,,,,,,,,,,5

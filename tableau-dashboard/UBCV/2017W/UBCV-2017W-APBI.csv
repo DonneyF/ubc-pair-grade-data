@@ -1,6 +1,6 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,APBI,200,,001,Introduction to Soil Science,Akshit Puri;Dixi Umesh Modi;Dustin Bright;Kiran Padda;Kiran Preet Padda;Lewis Fausak;Lewis Karl Fausak;Maja Krzic;Pariya Torkaman;Siddhartho Paul;Siddhartho Shekhar Paul,130,68.384615385,16.368046303,96.0,2.0,8,11,8,8,17,18,17,9,14,13,7
-UBCV,2017,W,APBI,200,,002,Introduction to Soil Science,Akshit Puri;Dixi Umesh Modi;Dustin Bright;Kimberly Cheng;Kiran Padda;Kiran Preet Padda;Lewis Fausak;Lewis Karl Fausak;Pariya Torkaman;Sandra Brown;Siddhartho Paul;Siddhartho Shekhar Paul,120,70.258333333,18.284169500999997,95.0,0.0,11,2.0,6,8,5,21,11,19,17,9,11
+UBCV,2017,W,APBI,200,,001,Introduction to Soil Science,Akshit Puri;Dixi Umesh Modi;Dustin Bright;Kiran Padda;Kiran Preet Padda;Lewis Fausak;Maja Krzic;Pariya Torkaman;Siddhartho Paul,130,68.384615385,16.368046303,96.0,2.0,8,11,8,8,17,18,17,9,14,13,7
+UBCV,2017,W,APBI,200,,002,Introduction to Soil Science,Akshit Puri;Dixi Umesh Modi;Dustin Bright;Kiran Padda;Kiran Preet Padda;Lewis Fausak;Pariya Torkaman;Sandra Brown;Siddhartho Paul,120,70.258333333,18.284169500999997,95.0,0.0,11,2.0,6,8,5,21,11,19,17,9,11
 UBCV,2017,W,APBI,200,,OVERALL,Introduction to Soil Science,,250,69.28399999999999,17.304598827,96.0,0.0,19,13,14,16,22,39,28,28,31,22,18
 UBCV,2017,W,APBI,210,,001,Vascular Plants,Christopher Lee;Sean Graham;Shona Margaret Ellis,19,65.05263157899999,13.574787430999999,88.0,40.0,,,,,5,,,,,,
 UBCV,2017,W,APBI,210,,OVERALL,Vascular Plants,,19,65.05263157899999,13.574787430999999,88.0,40.0,,,,,5,,,,,,
@@ -10,7 +10,7 @@ UBCV,2017,W,APBI,244,,001,Introduction to Biometeorology,Jilmarie Stephens;Patri
 UBCV,2017,W,APBI,244,,OVERALL,Introduction to Biometeorology,,54,71.5,14.722271666,90.0,0.0,,,,,6,8,6,11,9,6,
 UBCV,2017,W,APBI,260,,001,Agroecology I,Jeffrey Evans;Lewis Fausak;Lewis Karl Fausak;Lyndsey Dowell;Lyndsey Marie Dowell;Sean Smukler;Victoria Ostenso;Victoria Rae Ostenso;Yuchen Li,32,80.46875,4.944755286,88.0,71.0,,,,,,,6,5,12,8,
 UBCV,2017,W,APBI,260,,OVERALL,Agroecology I,,32,80.46875,4.944755286,88.0,71.0,,,,,,,6,5,12,8,
-UBCV,2017,W,APBI,265,,001,Sustainable Agriculture and Food Systems,Delisa Ann Lewis;Delisa Lewis,22,88.954545455,7.38387737,97.0,60.0,,,,,,,,,,9,11
+UBCV,2017,W,APBI,265,,001,Sustainable Agriculture and Food Systems,Delisa Lewis,22,88.954545455,7.38387737,97.0,60.0,,,,,,,,,,9,11
 UBCV,2017,W,APBI,265,,OVERALL,Sustainable Agriculture and Food Systems,,22,88.954545455,7.38387737,97.0,60.0,,,,,,,,,,9,11
 UBCV,2017,W,APBI,290,,001,Introductory Topics in Applied Biology,Varda Khurshid;Yasmin Akhtar,29,82.034482759,2.243765308,87.0,80.0,,,,,,,,,24,5,
 UBCV,2017,W,APBI,290,,OVERALL,Introductory Topics in Applied Biology,,29,82.034482759,2.243765308,87.0,80.0,,,,,,,,,24,5,
@@ -74,7 +74,7 @@ UBCV,2017,W,APBI,460,,001,Advanced Agroecology,Andrew Riseman,8,91.375,2.8753881
 UBCV,2017,W,APBI,460,,OVERALL,Advanced Agroecology,,8,91.375,2.875388173,97.0,89.0,,,,,,,,,,,5
 UBCV,2017,W,APBI,490,,101,Advanced Topics in Applied Biology,Adam Shriver;Susan Grayston,22,89.77272727299999,14.071016540999999,99.0,30.0,,,,,,,,,,,17
 UBCV,2017,W,APBI,490,,OVERALL,Advanced Topics in Applied Biology,,22,89.77272727299999,14.071016540999999,99.0,30.0,,,,,,,,,,,17
-UBCV,2017,W,APBI,495,,001,Principles of Wildlife Management in Forests and Agricultural Environments,Alejandra Echeverri Ochoa;Kristen Walker;Yihai Zhao,13,80.846153846,7.765802747,95.0,67.0,,,,,,,,6,,,
+UBCV,2017,W,APBI,495,,001,Principles of Wildlife Management in Forests and Agricultural Environments,Alejandra Echeverri Ochoa;Kristen Walker,13,80.846153846,7.765802747,95.0,67.0,,,,,,,,6,,,
 UBCV,2017,W,APBI,495,,OVERALL,Principles of Wildlife Management in Forests and Agricultural Environments,,13,80.846153846,7.765802747,95.0,67.0,,,,,,,,6,,,
 UBCV,2017,W,APBI,496,A,001,Applied Animal Biology Practicum,Sara Dubois,5,84.8,5.93295879,91.0,77.0,,,,,,,,,,,
 UBCV,2017,W,APBI,496,A,OVERALL,Applied Animal Biology Practicum,,8,87.875,6.642665127999999,97.0,77.0,,,,,,,,,,,

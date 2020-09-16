@@ -5,7 +5,7 @@ UBCV,2015,W,PHAR,303,,L03,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Coll
 UBCV,2015,W,PHAR,303,,L04,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,38,77.789473684,5.614449961,91.0,65.0,,,,,,,9,12,10,,
 UBCV,2015,W,PHAR,303,,L05,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,33,63.909090909,14.142939130999999,80.0,0.0,7,,,5,7,7,,,,,
 UBCV,2015,W,PHAR,303,,L06,Pharmacy Skills II,Ali Reza Ladak;Ali Reza Meghji;Colleen Brady;Davide Massaro;Fong Chan;Jonathon Campbell;Katherine Seto,36,77.111111111,7.186406922000001,90.0,58.0,,,,,,,6,7,9,6,
-UBCV,2015,W,PHAR,303,,OVERALL,Pharmacy Skills II,,7,60.0,0.0,60.0,60.0,11,,,7,17,38,38,50,43,9,
+UBCV,2015,W,PHAR,303,,OVERALL,,,219,73.374429224,9.111263521,91.0,0.0,11,,,10,17,38,38,50,43,9,
 UBCV,2015,W,PHAR,303,,SUP,,,7,60.0,0.0,60.0,60.0,,,,7,,,,,,,
 UBCV,2015,W,PHAR,315,,001,Pharmacokinetics,Abby Collier;Harvey Wong;Jacob Gordon;Mary Ensom,218,83.536697248,8.719438113999999,98.0,44.0,,,,,,7,20,32,38,55,58
 UBCV,2015,W,PHAR,315,,OVERALL,Pharmacokinetics,,218,83.536697248,8.719438113999999,98.0,44.0,,,,,,7,20,32,38,55,58
@@ -16,7 +16,7 @@ UBCV,2015,W,PHAR,323,,OVERALL,Biophysical Pharmacy II,,219,81.324200913,8.490680
 UBCV,2015,W,PHAR,330,,001,Pharmacogenomics: Genetics and Drug Action,Corey Nislow;Maryam Zamiri;Michael Coughtrie,218,78.83944954100001,6.768516414,92.0,23.0,,,,,,21,32,52,68,36,
 UBCV,2015,W,PHAR,330,,OVERALL,Pharmacogenomics: Genetics and Drug Action,,218,78.83944954100001,6.768516414,92.0,23.0,,,,,,21,32,52,68,36,
 UBCV,2015,W,PHAR,341,,001,Pharmacology I,Brian Cairns;Connor Thompson,220,78.859090909,10.749244810999999,95.0,20.0,8,,,11,9,15,31,26,51,36,33
-UBCV,2015,W,PHAR,341,,OVERALL,Pharmacology I,,5,63.4,6.14817046,73.0,58.0,9,,,11,9,15,31,26,51,36,33
+UBCV,2015,W,PHAR,341,,OVERALL,,,221,78.502262443,11.964958091,95.0,0.0,9,,,11,9,15,31,26,51,36,33
 UBCV,2015,W,PHAR,341,,SUP,,,5,63.4,6.14817046,73.0,58.0,1,,,0,0,0,0,0,0,0,0
 UBCV,2015,W,PHAR,342,,001,Pharmacology II,Haeun Chung;Judy Wong;Ujendra Kumar,219,75.726027397,9.387567819,95.0,24.0,6,,,18,19,20,36,41,42,25,12
 UBCV,2015,W,PHAR,342,,OVERALL,Pharmacology II,,219,75.726027397,9.387567819,95.0,24.0,6,,,18,19,20,36,41,42,25,12
@@ -59,7 +59,7 @@ UBCV,2015,W,PHAR,409,,OVERALL,Renal Pharmacotherapeutics,,15,78.466666667,3.5630
 UBCV,2015,W,PHAR,430,,001,Biomolecular Pharmaceutical Chemistry I,Adam Frankel;Md Vhuiyan;Stelvio Bandiera;Tim Chen,213,80.549295775,11.405214877,96.0,0.0,,,,,6,10,36,24,53,37,40
 UBCV,2015,W,PHAR,430,,OVERALL,Biomolecular Pharmaceutical Chemistry I,,213,80.549295775,11.405214877,96.0,0.0,,,,,6,10,36,24,53,37,40
 UBCV,2015,W,PHAR,435,,001,Biomolecular Pharmaceutical Chemistry II,David Grierson;Maryam Zamiri;Ronald Reid;Stelvio Bandiera,212,74.429245283,8.436531564,92.0,50.0,5,,,16,23,34,43,22,40,24,5
-UBCV,2015,W,PHAR,435,,OVERALL,Biomolecular Pharmaceutical Chemistry II,,5,71.6,13.957077058,95.0,60.0,5,,,16,23,34,43,22,40,24,5
+UBCV,2015,W,PHAR,435,,OVERALL,,,212,74.429245283,8.436531564,92.0,50.0,5,,,16,23,34,43,22,40,24,5
 UBCV,2015,W,PHAR,435,,SUP,,,5,71.6,13.957077058,95.0,60.0,0,,,0,0,0,0,0,0,0,0
 UBCV,2015,W,PHAR,441,,001,Pharmacology III,Brian Rodrigues;Kathleen Macleod;Vongai Nyamandi,213,78.056338028,11.593614855,97.0,0.0,,,,10,16,18,31,32,45,37,21
 UBCV,2015,W,PHAR,441,,OVERALL,Pharmacology III,,213,78.056338028,11.593614855,97.0,0.0,,,,10,16,18,31,32,45,37,21
@@ -70,7 +70,7 @@ UBCV,2015,W,PHAR,450,B,010,Selected Topics,Ajit Johal,23,83.956521739,8.15463204
 UBCV,2015,W,PHAR,450,B,221,Selected Topics,David Grierson,19,87.63157894700001,1.498537299,90.0,86.0,,,,,,,,,,15,
 UBCV,2015,W,PHAR,450,B,OVERALL,Selected Topics,,65,84.646153846,6.496226715,97.0,69.0,,,,,,,,10,7,29,13
 UBCV,2015,W,PHAR,451,,001,Therapeutics III,Devinder Sharma;James Mccormack,213,72.201877934,6.442898405,87.0,53.0,5,,,13,30,56,40,36,31,,
-UBCV,2015,W,PHAR,451,,OVERALL,Therapeutics III,,5,61.8,9.418067742,77.0,51.0,5,,,13,30,56,40,36,31,,
+UBCV,2015,W,PHAR,451,,OVERALL,,,213,72.201877934,6.442898405,87.0,53.0,5,,,13,30,56,40,36,31,,
 UBCV,2015,W,PHAR,451,,SUP,,,5,61.8,9.418067742,77.0,51.0,0,,,0,0,0,0,0,0,,
 UBCV,2015,W,PHAR,452,,001,Therapeutics IV,Christine Troskie;Marc Levine,212,73.863207547,6.925819889,90.0,60.0,,,,20,17,40,48,38,34,14,
 UBCV,2015,W,PHAR,452,,OVERALL,Therapeutics IV,,212,73.863207547,6.925819889,90.0,60.0,,,,20,17,40,48,38,34,14,
@@ -92,7 +92,7 @@ UBCV,2015,W,PHAR,471,,001,Pathophysiology II,Christine Troskie;Tara Klassen,213,
 UBCV,2015,W,PHAR,471,,OVERALL,Pathophysiology II,,213,87.093896714,8.72323996,100.0,60.0,,,,,,6,10,20,35,41,95
 UBCV,2015,W,PHAR,472,,001,Pathophysiology III,Devinder Sharma;Tara Klassen,212,80.108490566,8.169561097,100.0,51.0,,,,,10,12,38,37,33,58,19
 UBCV,2015,W,PHAR,472,,OVERALL,Pathophysiology III,,212,80.108490566,8.169561097,100.0,51.0,,,,,10,12,38,37,33,58,19
-UBCV,2015,W,PHAR,498,,001,Cases in Pharmaceutical Sciences III,Arun Verma;Charles Park;Jason Asnis;Jason Philip Asnis;Luke Spooner;Michelle Fischer;Nathaniel Lal,213,71.051643192,8.794410726,86.0,0.0,,,,13,31,57,54,38,15,,
+UBCV,2015,W,PHAR,498,,001,Cases in Pharmaceutical Sciences III,Arun Verma;Charles Park;Jason Asnis;Luke Spooner;Michelle Fischer;Nathaniel Lal,213,71.051643192,8.794410726,86.0,0.0,,,,13,31,57,54,38,15,,
 UBCV,2015,W,PHAR,498,,OVERALL,Cases in Pharmaceutical Sciences III,,213,71.051643192,8.794410726,86.0,0.0,,,,13,31,57,54,38,15,,
 UBCV,2015,W,PHAR,499,,001,Cases in Pharmaceutical Sciences IV,Fulong Wang;Mohamed Ben-Eltriki;Tessa Nicholl,126,85.365079365,5.046350245,97.0,65.0,,,,,,,,14,26,59,23
 UBCV,2015,W,PHAR,499,,002,Cases in Pharmaceutical Sciences IV,Fulong Wang;Mohamed Ben-Eltriki;Tessa Nicholl,94,87.255319149,5.266931061,96.0,65.0,,,,,,,,5,21,29,38

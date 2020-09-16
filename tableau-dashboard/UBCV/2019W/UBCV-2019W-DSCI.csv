@@ -1,0 +1,57 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2019,W,DSCI,100,,001,Introduction to Data Science,Daniel Alimohd;Grandon Seto;Jordan Bourak;Petal Vitis;Tiffany Timbers;Trevor Campbell;Wei Jie Chow,69,77.391304348,9.925038734,93.0,47.0,,,,4,5,4,9,11,18,9,6
+UBCV,2019,W,DSCI,100,,002,Introduction to Data Science,Connor Mcdonald;Daniel Alimohd;Grandon Seto;Hayden Mctavish;Jennifer Frazier Bryan;Jordan Bourak;Kevin Le;Melissa Lee;Michela Minerva;Paul Gustafson;Trevor Campbell;Wei Jie Chow;Yuru Liu,168,80.392857143,10.744186962,94.0,20.0,,,,5,10,7,10,24,37,45,25
+UBCV,2019,W,DSCI,100,,OVERALL,Introduction to Data Science,,237,79.518987342,10.580034875,94.0,20.0,,,,9,15,11,19,35,55,54,31
+UBCV,2019,W,DSCI,511,,001,Programming for Data Science,Elijah Willie;Kayode Adekunle Aina;Michael Gelbart;Patrick Walls;Shamsuddin Ahmed Bhuiyan;Stefanie Lumnitz;Tiffany Timbers;Vaden Masrani;Vincenzo Coia,122,89.655737705,6.333396321,98.0,61.0,,,,,,,,,11,26,79
+UBCV,2019,W,DSCI,511,,OVERALL,Programming for Data Science,,122,89.655737705,6.333396321,98.0,61.0,,,,,,,,,11,26,79
+UBCV,2019,W,DSCI,512,,001,Algorithms and Data Structures,Giuseppe Carenini;Jie Xiang;Michael Gelbart;Prateek Yadav;Shamsuddin Ahmed Bhuiyan;Xiaomeng Ju,95,88.663157895,7.176513891,98.0,56.0,,,,,,,,,9,28,51
+UBCV,2019,W,DSCI,512,,002,Algorithms and Data Structures,Julian Brooke;Yu-Hsiang Lo,27,86.925925926,5.1584577739999995,96.0,77.0,,,,,,,,,8,7,10
+UBCV,2019,W,DSCI,512,,OVERALL,Algorithms and Data Structures,,122,88.278688525,6.800902098,98.0,56.0,,,,,,,,,17,35,61
+UBCV,2019,W,DSCI,513,,001,Databases and Data Retrieval,Elijah Willie;Giulio Valentino Dalla Riva;Gunho Oh;Javier Castillo Arnemann;Rodolfo Lourenzutti;Vaden Masrani;Xiaomeng Ju,122,90.295081967,4.654489567,98.0,72.0,,,,,,,,,10,30,79
+UBCV,2019,W,DSCI,513,,OVERALL,Databases and Data Retrieval,,122,90.295081967,4.654489567,98.0,72.0,,,,,,,,,10,30,79
+UBCV,2019,W,DSCI,521,,001,Computing Platforms for Data Science,Freddy Abelanjo Francis;Freddy Francis;Giulio Valentino Dalla Riva;Gunho Oh;Javier Castillo Arnemann;Jie Xiang;Nazli Kafaee;Rodolfo Lourenzutti;Tiffany Timbers,122,89.147540984,5.630014211000001,99.0,70.0,,,,,,,,,11,35,68
+UBCV,2019,W,DSCI,521,,OVERALL,Computing Platforms for Data Science,,122,89.147540984,5.630014211000001,99.0,70.0,,,,,,,,,11,35,68
+UBCV,2019,W,DSCI,522,,001,Data Science Workflows,Javier Castillo Arnemann;Katharine Sedivy Haley;Nazli Kafaee;Paul Gustafson;Peiyuan Zhu;Tiffany Timbers,94,90.478723404,4.134119046,95.0,77.0,,,,,,,,,5,26,59
+UBCV,2019,W,DSCI,522,,OVERALL,Data Science Workflows,,94,90.478723404,4.134119046,95.0,77.0,,,,,,,,,5,26,59
+UBCV,2019,W,DSCI,523,,001,Data Wrangling,Javier Castillo Arnemann;Joel Ostblom;Kateryna Tyshchenko;Katharine Sedivy Haley;Tiffany Timbers;Tomas Beuzen;Yi-Chin Tseng,122,88.836065574,6.348502336,97.0,57.0,,,,,,,,,9,34,71
+UBCV,2019,W,DSCI,523,,OVERALL,Data Wrangling,,122,88.836065574,6.348502336,97.0,57.0,,,,,,,,,9,34,71
+UBCV,2019,W,DSCI,524,,001,Collaborative Software Development,Javier Castillo Arnemann;Jie Xiang;Man Yeung Tai;Michael Feeley;Siddhesh Khandelwal;Siddhesh Shyam Khandelwal;Tiffany Timbers,94,90.053191489,4.375805969,95.0,63.0,,,,,,,,,,30,61
+UBCV,2019,W,DSCI,524,,OVERALL,Collaborative Software Development,,94,90.053191489,4.375805969,95.0,63.0,,,,,,,,,,30,61
+UBCV,2019,W,DSCI,525,,001,Web and Cloud Computing,Javier Castillo Arnemann;Jie Xiang;Michael Feeley;Peiyuan Zhu;Prashant Pandey,94,93.063829787,3.4040093710000003,98.0,81.0,,,,,,,,,,11,80
+UBCV,2019,W,DSCI,525,,OVERALL,Web and Cloud Computing,,94,93.063829787,3.4040093710000003,98.0,81.0,,,,,,,,,,11,80
+UBCV,2019,W,DSCI,531,,001,Data Visualization I,Alejandra Virgen Urcelay;Firas Mansour;Firas Moosvi;Freddy Abelanjo Francis;Freddy Francis;Greig Oldford;Michael Feeley;Stefanie Lumnitz;Vaden Masrani;Varada Kolhatkar;Vincenzo Coia,122,87.86065573799999,5.195859085,97.0,68.0,,,,,,,,7,14,47,51
+UBCV,2019,W,DSCI,531,,OVERALL,Data Visualization I,,122,87.86065573799999,5.195859085,97.0,68.0,,,,,,,,7,14,47,51
+UBCV,2019,W,DSCI,532,,001,Data Visualization II,Alejandra Virgen Urcelay;Ellen Koch;Firas Moosvi;Hossameldin Ibrahim Said Mohammed;Katharine Sedivy Haley;Michael Feeley;Stefanie Lumnitz;Varada Kolhatkar,95,91.16842105299999,5.490131633,97.0,64.0,,,,,,,,,6,15,71
+UBCV,2019,W,DSCI,532,,OVERALL,Data Visualization II,,95,91.16842105299999,5.490131633,97.0,64.0,,,,,,,,,6,15,71
+UBCV,2019,W,DSCI,541,,001,"Privacy, Ethics, and Security",Aarti Kashyap;Bruce Moghtader;Bruce Morteza Seyed Moghtader;Edwin Max Knorr;Giulio Valentino Dalla Riva;Joel Ostblom;Man Yeung Tai;Nazli Kafaee;Prithu Banerjee,119,91.226890756,4.205398014,97.0,73.0,,,,,,,,,5,16,96
+UBCV,2019,W,DSCI,541,,OVERALL,"Privacy, Ethics, and Security",,119,91.226890756,4.205398014,97.0,73.0,,,,,,,,,5,16,96
+UBCV,2019,W,DSCI,542,,001,Communication and Argumentation,Christopher Nicholas Gubbels;David Kendall Laing;David Laing;Ellen Koch;Katharine Sedivy Haley;Timothy Cashion,95,84.652631579,5.337081083,93.0,68.0,,,,,,,,10,32,27,23
+UBCV,2019,W,DSCI,542,,OVERALL,Communication and Argumentation,,95,84.652631579,5.337081083,93.0,68.0,,,,,,,,10,32,27,23
+UBCV,2019,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Aaron Berk;Alejandra Herrera Reyes;Michael Feeley;Michael Gelbart;Prateek Yadav;Reza Sadoughianzadeh;Vincenzo Coia;Yi-Chin Tseng,122,92.04918032799999,5.672687149,100.0,70.0,,,,,,,,,9,18,92
+UBCV,2019,W,DSCI,551,,OVERALL,Descriptive Statistics and Probability for Data Science,,122,92.04918032799999,5.672687149,100.0,70.0,,,,,,,,,9,18,92
+UBCV,2019,W,DSCI,552,,001,Statistical Inference and Computation I,Aaron Berk;Christopher Nicholas Gubbels;Giulio Valentino Dalla Riva;Gunho Oh;Hossameldin Ibrahim Said Mohammed;Javier Castillo Arnemann;Reza Sadoughianzadeh;Tiffany Timbers,122,88.0,6.329780067000001,99.0,67.0,,,,,,,,5,11,42,57
+UBCV,2019,W,DSCI,552,,OVERALL,Statistical Inference and Computation I,,122,88.0,6.329780067000001,99.0,67.0,,,,,,,,5,11,42,57
+UBCV,2019,W,DSCI,553,,001,Statistical Inference and Computation II,Aarti Kashyap;Alireza Naderi;Elijah Willie;Giuseppe Carenini;Michael Gelbart;Trevor Campbell;Yinjia Huo,94,87.04255319100001,6.9249663539999995,98.0,56.0,,,,,,,,5,15,26,42
+UBCV,2019,W,DSCI,553,,OVERALL,Statistical Inference and Computation II,,94,87.04255319100001,6.9249663539999995,98.0,56.0,,,,,,,,5,15,26,42
+UBCV,2019,W,DSCI,554,,001,Experimentation and Causal Inference,Arjun Baghela;Arjun Singh Baghela;Benjamin Bloem-Reddy;Elijah Willie;Giuseppe Carenini;Hossameldin Ibrahim Said Mohammed;Tiffany Timbers;Timothy Cashion,94,92.978723404,4.83263708,99.0,74.0,,,,,,,,,,,84
+UBCV,2019,W,DSCI,554,,OVERALL,Experimentation and Causal Inference,,94,92.978723404,4.83263708,99.0,74.0,,,,,,,,,,,84
+UBCV,2019,W,DSCI,561,,001,Regression I,Arjun Baghela;Arjun Singh Baghela;Freddy Abelanjo Francis;Freddy Francis;Gabriela Cohen Freue;Giuseppe Carenini;Shamsuddin Ahmed Bhuiyan;Timothy Cashion;Yi-Chin Tseng,122,89.13934426200001,5.55262662,98.0,63.0,,,,,,,,,9,40,66
+UBCV,2019,W,DSCI,561,,OVERALL,Regression I,,122,89.13934426200001,5.55262662,98.0,63.0,,,,,,,,,9,40,66
+UBCV,2019,W,DSCI,562,,001,Regression II,Alireza Naderi;Arjun Baghela;Arjun Singh Baghela;Divya Bafna;Elijah Willie;Rodolfo Lourenzutti;Tiffany Timbers;Vincenzo Coia,94,88.968085106,4.780003436,98.0,75.0,,,,,,,,,13,27,49
+UBCV,2019,W,DSCI,562,,OVERALL,Regression II,,94,88.968085106,4.780003436,98.0,75.0,,,,,,,,,13,27,49
+UBCV,2019,W,DSCI,563,,001,Unsupervised Learning,Daniele Reda;Giulio Valentino Dalla Riva;Kayode Adekunle Aina;Mark Schmidt;Prashant Pandey;Rodolfo Lourenzutti;Vaden Masrani,94,94.063829787,4.198843954,99.0,78.0,,,,,,,,,3,9,80
+UBCV,2019,W,DSCI,563,,002,Unsupervised Learning,Ifeoluwanimi Adebara;Ifeoluwanimi Esther Adebara;Julian Brooke,26,87.73076923100001,5.219637476,98.0,77.0,,,,,,,,,7,9,9
+UBCV,2019,W,DSCI,563,,OVERALL,Unsupervised Learning,,120,92.691666667,5.134814167,99.0,77.0,,,,,,,,,10,18,89
+UBCV,2019,W,DSCI,571,,001,Supervised Learning I,Aaron Berk;Firas Moosvi;Jie Xiang;Kayode Adekunle Aina;Michael Feeley;Michael Gelbart;Prateek Yadav;Reza Sadoughianzadeh;Rodolfo Lourenzutti;Tiffany Timbers;Tomas Beuzen;Varada Kolhatkar,122,89.93442623,7.142860627,99.0,40.0,,,,,,,,5,10,24,80
+UBCV,2019,W,DSCI,571,,OVERALL,Supervised Learning I,,122,89.93442623,7.142860627,99.0,40.0,,,,,,,,5,10,24,80
+UBCV,2019,W,DSCI,572,,001,Supervised Learning II,Aaron Berk;Daniele Reda;Michael Gelbart;Tiffany Timbers;Vaden Masrani;Yinjia Huo,94,87.031914894,6.243193503,99.0,65.0,,,,,,,,8,21,24,38
+UBCV,2019,W,DSCI,572,,002,Supervised Learning II,Muhammad Abdul-Mageed;Peter Sullivan,26,91.69230769200001,3.717732973,96.0,85.0,,,,,,,,0,0,9,17
+UBCV,2019,W,DSCI,572,,OVERALL,Supervised Learning II,,120,88.041666667,6.089522388,99.0,65.0,,,,,,,,8,21,33,55
+UBCV,2019,W,DSCI,573,,001,Feature and Model Selection,Giulio Valentino Dalla Riva;Hossameldin Ibrahim Said Mohammed;Kayode Adekunle Aina;Prateek Yadav;Siddhesh Khandelwal;Siddhesh Shyam Khandelwal;Timothy Cashion;Varada Kolhatkar,120,90.625,5.780381919,99.0,69.0,,,,,,,,,7,22,84
+UBCV,2019,W,DSCI,573,,OVERALL,Feature and Model Selection,,120,90.625,5.780381919,99.0,69.0,,,,,,,,,7,22,84
+UBCV,2019,W,DSCI,574,,001,Spatial and Temporal Models,Aaron Berk;Arjun Baghela;Arjun Singh Baghela;Giulio Valentino Dalla Riva;Hossameldin Ibrahim Said Mohammed;Natalia Nolde;Peiyuan Zhu;Vincenzo Coia,94,90.755319149,4.625051398,98.0,73.0,,,,,,,,,,23,64
+UBCV,2019,W,DSCI,574,,OVERALL,Spatial and Temporal Models,,94,90.755319149,4.625051398,98.0,73.0,,,,,,,,,,23,64
+UBCV,2019,W,DSCI,575,,001,Advanced Machine Learning,Aaron Berk;Daniele Reda;Shu Yang;Tiffany Timbers;Vaden Masrani;Varada Kolhatkar,94,89.478723404,5.319327153,98.0,72.0,,,,,,,,,5,26,56
+UBCV,2019,W,DSCI,575,,OVERALL,Advanced Machine Learning,,94,89.478723404,5.319327153,98.0,72.0,,,,,,,,,5,26,56
+UBCV,2019,W,DSCI,591,,001,Capstone Project,Firas Moosvi;Michael Gelbart;Rodolfo Lourenzutti;Simon Goring;Tiffany Timbers;Tomas Beuzen;Varada Kolhatkar;Vincenzo Coia,93,90.07526881700001,3.2745280410000004,96.0,75.0,,,,,,,,,,31,58
+UBCV,2019,W,DSCI,591,,OVERALL,Capstone Project,,93,90.07526881700001,3.2745280410000004,96.0,75.0,,,,,,,,,,31,58

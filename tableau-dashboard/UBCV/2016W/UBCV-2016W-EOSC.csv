@@ -3,15 +3,15 @@ UBCV,2016,W,EOSC,110,,101,The Solid Earth: A Dynamic Planet,Brett Gilley;Camilio
 UBCV,2016,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Aram Goodwin;Frank Hung;Lucy Porritt;Michelle I-Yin Liu;Stuart Sutherland,175,71.971428571,15.929596748,96.0,9.0,12,6,13,4.0,15,22,15,23,25,23,17
 UBCV,2016,W,EOSC,110,,OVERALL,The Solid Earth: A Dynamic Planet,,410,73.997560976,14.253983063,98.0,1.0,17,12,21,17,26,51,45,56,67,56,42
 UBCV,2016,W,EOSC,110,,V01,The Solid Earth: A Dynamic Planet,Andrew Matthew Snauffer;Brett Gilley,31,80.483870968,6.888981385,93.0,64.0,0,0,0,0.0,1,3,2,7,11,3,4
-UBCV,2016,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Ashley Davidson;Jacquie-Lee Thibault;Luca Malaguti;Lucy Porritt;Pedro Odon;Tom Ver Hoeve,24,86.875,5.870430692999999,96.0,68.0,,,,,,,,,,10,10
-UBCV,2016,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Ashley Davidson;Jacquie-Lee Thibault;Luca Malaguti;Lucy Porritt;Pedro Odon;Tom Ver Hoeve,20,90.15,6.745563843999999,99.0,76.0,,,,,,,,,,,14
-UBCV,2016,W,EOSC,111,,L1C,Laboratory Exploration of Planet Earth,Ashley Davidson;Jacquie-Lee Thibault;Luca Malaguti;Lucy Porritt;Pedro Odon;Tom Ver Hoeve,25,80.08,12.120643547,92.0,32.0,,,,,,,,,6,8,4
-UBCV,2016,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Ashley Davidson;Jacquie-Lee Thibault;Luca Malaguti;Lucy Porritt;Pedro Odon;Tom Ver Hoeve,23,88.304347826,5.972929711,99.0,73.0,,,,,,,,,,5,14
-UBCV,2016,W,EOSC,111,,L1F,Laboratory Exploration of Planet Earth,Ashley Davidson;Jacquie-Lee Thibault;Luca Malaguti;Lucy Porritt;Pedro Odon;Tom Ver Hoeve,26,89.615384615,9.226383574,99.0,64.0,,,,,,,,,,,18
+UBCV,2016,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Jacquie-Lee Thibault;Lucy Porritt,24,86.875,5.870430692999999,96.0,68.0,,,,,,,,,,10,10
+UBCV,2016,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Ashley Davidson;Lucy Porritt,20,90.15,6.745563843999999,99.0,76.0,,,,,,,,,,,14
+UBCV,2016,W,EOSC,111,,L1C,Laboratory Exploration of Planet Earth,Luca Malaguti;Lucy Porritt,25,80.08,12.120643547,92.0,32.0,,,,,,,,,6,8,4
+UBCV,2016,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Lucy Porritt;Pedro Odon,23,88.304347826,5.972929711,99.0,73.0,,,,,,,,,,5,14
+UBCV,2016,W,EOSC,111,,L1F,Laboratory Exploration of Planet Earth,Lucy Porritt;Tom Ver Hoeve,26,89.615384615,9.226383574,99.0,64.0,,,,,,,,,,,18
 UBCV,2016,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Ashley Davidson;Lucy Porritt,25,87.28,13.405595847,100.0,45.0,,,,,,,,,,,18
 UBCV,2016,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Lucy Porritt;Qihao Sun,21,87.80952381,8.280211637999999,97.0,68.0,,,,,,,,,,,13
 UBCV,2016,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Jacquie-Lee Thibault;Lucy Porritt,25,84.0,16.869597901,98.0,38.0,,,,,,,,,,,15
-UBCV,2016,W,EOSC,111,,L2F,Laboratory Exploration of Planet Earth,Birgit Caroline Rogalla;Birgit Rogalla;Lucy Porritt,29,89.034482759,7.678740404,97.0,58.0,,,,,,,,,,7,19
+UBCV,2016,W,EOSC,111,,L2F,Laboratory Exploration of Planet Earth,Birgit Rogalla;Lucy Porritt,29,89.034482759,7.678740404,97.0,58.0,,,,,,,,,,7,19
 UBCV,2016,W,EOSC,111,,L2H,Laboratory Exploration of Planet Earth,Lucy Porritt;Mollie Mcdowell,23,94.652173913,4.498572457,99.0,83.0,,,,,,,,,,,20
 UBCV,2016,W,EOSC,111,,OVERALL,Laboratory Exploration of Planet Earth,,241,87.70124481299999,10.389997118,100.0,32.0,,,,,,6,8,8,24,40,145
 UBCV,2016,W,EOSC,112,,101,The Fluid Earth: Atmosphere and Ocean,Aram Goodwin;Arran Whiteford;Kohen Bauer;Roger Francois,232,72.331896552,17.613631572,100.0,7.0,23,9,15,18,22,21,19,11,29,16,49
@@ -109,7 +109,7 @@ UBCV,2016,W,EOSC,420,,101,Volcanology,Alexander Wilson;Amy Ryan;James Kelly Russ
 UBCV,2016,W,EOSC,420,,OVERALL,Volcanology,,20,77.0,7.078507127999999,93.0,65.0,,,,,,,5,5,,,
 UBCV,2016,W,EOSC,422,,201,Structural Geology II,Barry Jay Penner;Barry Penner;Lori Kennedy,29,83.827586207,8.031495882,95.0,63.0,,,,,,,,,6,7,9
 UBCV,2016,W,EOSC,422,,OVERALL,Structural Geology II,,29,83.827586207,8.031495882,95.0,63.0,,,,,,,,,6,7,9
-UBCV,2016,W,EOSC,425,,101,Paleontology,Paul Laurence Smith;Rhylan Mcmillan;Scott Hazell,29,81.448275862,4.946760895,92.0,72.0,,,,,,,,9,8,9,
+UBCV,2016,W,EOSC,425,,101,Paleontology,Paul Laurence Smith;Paul Smith;Rhylan Mcmillan;Scott Hazell,29,81.448275862,4.946760895,92.0,72.0,,,,,,,,9,8,9,
 UBCV,2016,W,EOSC,425,,OVERALL,Paleontology,,29,81.448275862,4.946760895,92.0,72.0,,,,,,,,9,8,9,
 UBCV,2016,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Roger Beckie;Shane O'Neill;Ulrich Mayer,37,81.216216216,6.377630765,94.0,71.0,,,,,,,6,8,9,9,
 UBCV,2016,W,EOSC,428,,OVERALL,Field Techniques in Groundwater Hydrology,,37,81.216216216,6.377630765,94.0,71.0,,,,,,,6,8,9,9,

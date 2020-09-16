@@ -1,12 +1,12 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,PHAR,400,,001,Pharmacy Management,Alan Low;Marion Pearson;Mohammad Atiquzzaman;Nirma Khatri Vadlamudi;Nirma Vadlamudi,125,89.24799999999999,4.11263984,98.0,76.0,,,,,,,,,12,44,67
-UBCV,2017,W,PHAR,400,,002,Pharmacy Management,Alan Low;Angela Kim-Sing;Mohammad Atiquzzaman;Nirma Khatri Vadlamudi;Nirma Vadlamudi,95,91.157894737,4.611077756,100.0,74.0,,,,,,,,,4,15,72
+UBCV,2017,W,PHAR,400,,001,Pharmacy Management,Alan Low;Mohammad Atiquzzaman;Nirma Khatri Vadlamudi;Nirma Vadlamudi,125,89.24799999999999,4.11263984,98.0,76.0,,,,,,,,,12,44,67
+UBCV,2017,W,PHAR,400,,002,Pharmacy Management,Alan Low;Mohammad Atiquzzaman;Nirma Khatri Vadlamudi;Nirma Vadlamudi,95,91.157894737,4.611077756,100.0,74.0,,,,,,,,,4,15,72
 UBCV,2017,W,PHAR,400,,OVERALL,Pharmacy Management,,220,90.072727273,4.427413752,100.0,74.0,,,,,,,,5,16,59,139
-UBCV,2017,W,PHAR,403,,001,Clinical Skills: Administration of Injections,Ali Reza Ladak;Ali Reza Meghji;Katherine Seto;Ninadh Malrina D'Costa;Nirma Khatri Vadlamudi;Nirma Vadlamudi;Tony Seet,106,92.36792452799999,3.6757259639999997,98.0,74.0,,,,,,,,,,8,95
-UBCV,2017,W,PHAR,403,,002,Clinical Skills: Administration of Injections,Ali Reza Ladak;Ali Reza Meghji;Katherine Seto;Ninadh Malrina D'Costa;Nirma Khatri Vadlamudi;Nirma Vadlamudi;Tony Seet,72,92.861111111,4.355037735,97.0,77.0,,,,,,,,,,3,64
+UBCV,2017,W,PHAR,403,,001,Clinical Skills: Administration of Injections,Ali Reza Ladak;Ninadh Malrina D'Costa;Nirma Khatri Vadlamudi;Nirma Vadlamudi;Tony Seet,106,92.36792452799999,3.6757259639999997,98.0,74.0,,,,,,,,,,8,95
+UBCV,2017,W,PHAR,403,,002,Clinical Skills: Administration of Injections,Ali Reza Ladak;Ninadh Malrina D'Costa;Nirma Khatri Vadlamudi;Nirma Vadlamudi;Tony Seet,72,92.861111111,4.355037735,97.0,77.0,,,,,,,,,,3,64
 UBCV,2017,W,PHAR,403,,OVERALL,Clinical Skills: Administration of Injections,,178,92.56741573,3.960034106,98.0,74.0,,,,,,,,,,11,159
-UBCV,2017,W,PHAR,405,B,001,Directed Studies in Clinical Pharmacy,Lynda Eccott;Marion Pearson,20,85.4,10.965976089000002,96.0,52.0,,,,,,,,,,8,7
-UBCV,2017,W,PHAR,405,B,002,Directed Studies in Clinical Pharmacy,Lynda Eccott;Marion Pearson,8,91.875,2.100170061,95.0,90.0,,,,,,,,,,,8
+UBCV,2017,W,PHAR,405,B,001,Directed Studies in Clinical Pharmacy,Lynda Eccott,20,85.4,10.965976089000002,96.0,52.0,,,,,,,,,,8,7
+UBCV,2017,W,PHAR,405,B,002,Directed Studies in Clinical Pharmacy,Lynda Eccott,8,91.875,2.100170061,95.0,90.0,,,,,,,,,,,8
 UBCV,2017,W,PHAR,405,B,OVERALL,Directed Studies in Clinical Pharmacy,,29,87.206896552,9.555773537,96.0,52.0,,,,,,,,,,9,15
 UBCV,2017,W,PHAR,405,D,OVERALL,Directed Studies in Clinical Pharmacy,,5,90.8,6.90651866,98.0,80.0,,,,,,,,,,,0
 UBCV,2017,W,PHAR,406,,001,Drug Safety,Debra Ann Kent,52,90.134615385,3.4586002280000003,98.0,83.0,,,,,,,,,,18,32
@@ -47,8 +47,8 @@ UBCV,2017,W,PHAR,457,,001,Pharmaceutical Care in Aboriginal Health,Jason Min;Lar
 UBCV,2017,W,PHAR,457,,OVERALL,Pharmaceutical Care in Aboriginal Health,,31,88.90322580600001,4.085379123,96.0,79.0,,,,,,,,,6,8,16
 UBCV,2017,W,PHAR,458,,001,Pharmacotherapy in Oncology,Judy Wong;Ninadh Malrina D'Costa,12,80.0,4.0,86.0,71.0,,,,,,,,5,5,,
 UBCV,2017,W,PHAR,458,,OVERALL,Pharmacotherapy in Oncology,,12,80.0,4.0,86.0,71.0,,,,,,,,5,5,,
-UBCV,2017,W,PHAR,499,,001,Cases in Pharmaceutical Sciences IV,Jason Asnis;Jason Philip Asnis;Louis Lin;Michelle Fischer;Tessa Nicholl,125,83.56,5.471922467000001,98.0,72.0,,,,,,,7,23,39,38,18
-UBCV,2017,W,PHAR,499,,002,Cases in Pharmaceutical Sciences IV,Jason Asnis;Jason Philip Asnis;Louis Lin;Michelle Fischer;Tessa Nicholl,95,84.67368421100001,4.137123333,92.0,73.0,,,,,,,2,9,31,40,13
+UBCV,2017,W,PHAR,499,,001,Cases in Pharmaceutical Sciences IV,Jason Asnis;Louis Lin;Michelle Fischer;Tessa Nicholl,125,83.56,5.471922467000001,98.0,72.0,,,,,,,7,23,39,38,18
+UBCV,2017,W,PHAR,499,,002,Cases in Pharmaceutical Sciences IV,Jason Asnis;Louis Lin;Michelle Fischer;Tessa Nicholl,95,84.67368421100001,4.137123333,92.0,73.0,,,,,,,2,9,31,40,13
 UBCV,2017,W,PHAR,499,,OVERALL,Cases in Pharmaceutical Sciences IV,,220,84.040909091,4.960405703,98.0,72.0,,,,,,,9,32,70,78,31
 UBCV,2017,W,PHAR,502,,001,Advanced Concepts in Pharmacokinetics,Abby Collier;Harvey Wong;Mary Ensom,5,85.2,6.4575537160000005,92.0,75.0,,,,,,,,,,,
 UBCV,2017,W,PHAR,502,,OVERALL,Advanced Concepts in Pharmacokinetics,,5,85.2,6.4575537160000005,92.0,75.0,,,,,,,,,,,

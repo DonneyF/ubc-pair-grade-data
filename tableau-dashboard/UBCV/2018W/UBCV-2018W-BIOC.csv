@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2018,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Rogers (Brown);Warren Williams,71,70.056338028,14.196465681,100.0,37.0,4,4,6,9,8,10,6,5,5,8,6
-UBCV,2018,W,BIOC,202,,002,Introductory Medical Biochemistry,Lindsay Rogers (Brown);Warren Williams,165,70.03030303,13.494544626,97.0,0.0,8,6,21,21,14,15,26,10,20,14,10
-UBCV,2018,W,BIOC,202,,OVERALL,Introductory Medical Biochemistry,,236,70.038135593,13.679096769000001,100.0,0.0,12,10,27,30,22,25,32,15,25,22,16
+UBCV,2018,W,BIOC,202,,002,Introductory Medical Biochemistry,Lindsay Rogers (Brown);Warren Williams,164,70.146341463,13.453051242999999,97.0,0.0,8,5,21,21,14,15,26,10,20,14,10
+UBCV,2018,W,BIOC,202,,OVERALL,Introductory Medical Biochemistry,,235,70.119148936,13.651439896,100.0,0.0,12,9,27,30,22,25,32,15,25,22,16
 UBCV,2018,W,BIOC,203,,001,Fundamentals of Biochemistry,Robert Maurus;Warren Williams,107,74.345794393,10.932125760999998,97.0,39.0,,,5,10,5,27,8,10,18,16,5
 UBCV,2018,W,BIOC,203,,OVERALL,Fundamentals of Biochemistry,,107,74.345794393,10.932125760999998,97.0,39.0,,,5,10,5,27,8,10,18,16,5
 UBCV,2018,W,BIOC,301,,001,Biochemistry Laboratory,Jason Read,152,81.986842105,6.75786208,95.0,61.0,,,,,,6,16,19,42,48,16
 UBCV,2018,W,BIOC,301,,OVERALL,Biochemistry Laboratory,,152,81.986842105,6.75786208,95.0,61.0,,,,,,6,16,19,42,48,16
 UBCV,2018,W,BIOC,302,,102,General Biochemistry,Alice Mui;Michael Krisinger;Robert Maurus,54,74.75925925899999,11.698952034000001,95.0,48.0,1,0,6,5,5,6,2,10,5,8,6
-UBCV,2018,W,BIOC,302,,201,General Biochemistry,Michael Krisinger;Robert Maurus,127,69.244094488,15.565895023,94.0,11.0,12,6,12,10,13,11,11,17,14,16,5
-UBCV,2018,W,BIOC,302,,202,General Biochemistry,Michael Krisinger;Robert Maurus,82,70.817073171,14.301107657000001,93.0,35.0,9,6,2,4,9,6,9,9,17,7,4
-UBCV,2018,W,BIOC,302,,OVERALL,General Biochemistry,,263,70.86692015199999,14.554758699,95.0,11.0,22,12,20,19,27,23,22,36,36,31,15
+UBCV,2018,W,BIOC,302,,201,General Biochemistry,Michael Krisinger;Robert Maurus,128,69.34375,14.904122719,94.0,18.0,12,7,12,10,13,11,11,17,14,16,5
+UBCV,2018,W,BIOC,302,,202,General Biochemistry,Michael Krisinger;Robert Maurus,83,71.060240964,14.385247692,93.0,35.0,9,6,2,4,9,6,9,9,17,7,5
+UBCV,2018,W,BIOC,302,,OVERALL,General Biochemistry,,265,70.98490566,14.241948765,95.0,18.0,22,13,20,19,27,23,22,36,36,31,16
 UBCV,2018,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Masayuki Numata;Michael Krisinger;Nobuhiko Tokuriki;Thibault Mayor,130,73.392307692,9.758713978,94.0,43.0,,,7,12,11,16,21,22,24,9,
 UBCV,2018,W,BIOC,303,,OVERALL,Molecular Biochemistry,,130,73.392307692,9.758713978,94.0,43.0,,,7,12,11,16,21,22,24,9,
 UBCV,2018,W,BIOC,304,,001,Contemporary Biochemical Research,Calvin Yip;Harry Brumer;Hugh Kim;Joerg Gsponer;Leonard Foster,110,77.58181818199999,11.239169562,97.0,41.0,,,7,5,6,11,11,9,22,24,13
@@ -26,8 +26,8 @@ UBCV,2018,W,BIOC,420,,101,Advanced Biochemical Techniques,Scott Covey,12,88.4166
 UBCV,2018,W,BIOC,420,,OVERALL,Advanced Biochemical Techniques,,12,88.416666667,3.449857265,92.0,81.0,,,,,,,,,,,6
 UBCV,2018,W,BIOC,421,,201,Recombinant DNA Techniques,Scott Covey,12,82.583333333,5.071459057,92.0,74.0,,,,,,,,,7,,
 UBCV,2018,W,BIOC,421,,202,Recombinant DNA Techniques,Scott Covey,12,82.0,6.208498574,94.0,74.0,,,,,,,,,5,,
-UBCV,2018,W,BIOC,421,,204,Recombinant DNA Techniques,Scott Covey,12,79.583333333,8.328028615,86.0,55.0,,,,,,,,,6,,
-UBCV,2018,W,BIOC,421,,OVERALL,Recombinant DNA Techniques,,36,81.388888889,6.6128782489999995,94.0,55.0,,,,,,,,5,18,5,
+UBCV,2018,W,BIOC,421,,204,Recombinant DNA Techniques,Scott Covey,12,75.0,23.817487846,86.0,0.0,,,,,,,,,6,,
+UBCV,2018,W,BIOC,421,,OVERALL,Recombinant DNA Techniques,,36,79.861111111,14.51531758,94.0,0.0,,,,,,,,5,18,5,
 UBCV,2018,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,18,79.111111111,7.745122858999999,93.0,65.0,,,,,,,,,3,6,
 UBCV,2018,W,BIOC,440,,002,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,17,82.058823529,7.092871317999999,92.0,67.0,,,,,,,,,6,6,
 UBCV,2018,W,BIOC,440,,OVERALL,Concepts in Molecular Biology,,35,80.542857143,7.476798848,93.0,65.0,,,,,,,5,,9,12,

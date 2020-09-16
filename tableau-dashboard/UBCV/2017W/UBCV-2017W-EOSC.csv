@@ -1,16 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2017,W,EOSC,110,,101,The Solid Earth: A Dynamic Planet,Brett Gilley;Lucy Porritt;Michelle I-Yin Liu;Ryan Shaw;Stuart Sutherland,190,73.084210526,11.246787344000001,96.0,29.0,,,11,15,17,20,36,22,25,22,14
-UBCV,2017,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Lucy Porritt;Michelle I-Yin Liu;Stuart Sutherland;Vanessa Fladmark,152,69.493421053,14.827929933,95.0,15.0,10,9,14,10,13,22,11,18,21,13,11
+UBCV,2017,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Lucy Porritt;Michelle I-Yin Liu;Stuart Sutherland;Vanessa Fladmark;Vanessa Rose Fladmark,152,69.493421053,14.827929933,95.0,15.0,10,9,14,10,13,22,11,18,21,13,11
 UBCV,2017,W,EOSC,110,,OVERALL,The Solid Earth: A Dynamic Planet,,386,72.152849741,12.728124281,96.0,15.0,14,13,26,28,30,46,55,49,57,39,29
 UBCV,2017,W,EOSC,110,,V01,The Solid Earth: A Dynamic Planet,Arran John Charles Whiteford;Arran Whiteford;Brett Gilley;Yuliya Kuzmenko,44,77.318181818,8.143402886,95.0,56.0,,,1,3,0,4,8,9,11,4,4
-UBCV,2017,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Ashley Davidson;Cheng Kuang;David Sasse;Marina Karaevangelou;Reid Merrill;Roger Beckie;Yulia Egorova,23,88.043478261,8.562488279,99.0,59.0,,,,,,,,,,5,12
-UBCV,2017,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Ashley Davidson;Cheng Kuang;Reid Merrill,26,87.423076923,7.669018591,95.0,63.0,,,,,,,,,,6,14
+UBCV,2017,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Roger Beckie,23,88.043478261,8.562488279,99.0,59.0,,,,,,,,,,5,12
+UBCV,2017,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Ashley Davidson;Reid Merrill,26,87.423076923,7.669018591,95.0,63.0,,,,,,,,,,6,14
 UBCV,2017,W,EOSC,111,,L1C,Laboratory Exploration of Planet Earth,Ashley Davidson;David Sasse,23,87.826086957,20.281321845999997,99.0,0.0,,,,,,,,,,,17
 UBCV,2017,W,EOSC,111,,L1D,Laboratory Exploration of Planet Earth,Ashley Davidson;Marina Karaevangelou,15,89.46666666700001,7.6332605529999995,97.0,66.0,,,,,,,,,,,9
-UBCV,2017,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Ashley Davidson;Cheng Kuang;Reid Merrill,9,90.22222222200001,7.579211334,98.0,74.0,,,,,,,,,,,5
-UBCV,2017,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Birgit Rogalla;Evelyn Da Motta Freres;Roger Beckie;Yulia Egorova,24,89.875,5.03304299,98.0,77.0,,,,,,,,,,7,15
+UBCV,2017,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Ashley Davidson;Cheng Kuang,9,90.22222222200001,7.579211334,98.0,74.0,,,,,,,,,,,5
+UBCV,2017,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Evelyn Da Motta Freres;Roger Beckie,24,89.875,5.03304299,98.0,77.0,,,,,,,,,,7,15
 UBCV,2017,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Ashley Davidson,24,87.708333333,9.773429671,100.0,54.0,,,,,,,,,,7,11
-UBCV,2017,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Birgit Caroline Rogalla;Birgit Rogalla,26,89.615384615,5.028533966,96.0,73.0,,,,,,,,,,10,13
+UBCV,2017,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Birgit Rogalla,26,89.615384615,5.028533966,96.0,73.0,,,,,,,,,,10,13
 UBCV,2017,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Yulia Egorova,30,92.4,4.896163171,99.0,73.0,,,,,,,,,,,25
 UBCV,2017,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Jacquie-Lee Thibault,26,91.53846153799999,6.087566142000001,99.0,76.0,,,,,,,,,,,19
 UBCV,2017,W,EOSC,111,,OVERALL,Laboratory Exploration of Planet Earth,,226,89.45132743399999,9.21640195,100.0,0.0,,,,,,,6,9,14,52,140
@@ -72,8 +72,8 @@ UBCV,2017,W,EOSC,323,,101,Structural Geology I,Andrew Paul Steiner;Andrew Steine
 UBCV,2017,W,EOSC,323,,OVERALL,Structural Geology I,,66,73.878787879,8.965772782,95.0,52.0,,,,5,7,7,12,6,18,5,
 UBCV,2017,W,EOSC,326,,101,Earth and Life Through Time,Hsien-Han Sung;Stuart Sutherland,89,78.10112359600001,9.447275875,97.0,53.0,,,,8,5,6,10,10,24,16,8
 UBCV,2017,W,EOSC,326,,99A,Earth and Life Through Time,Anna Grau Galofre;Louise Longridge;Nari Sim,77,77.25974026,11.893610179000001,94.0,30.0,,,,,,5,11,10,22,12,8
-UBCV,2017,W,EOSC,326,,99C,Earth and Life Through Time,Lian Kwong;Louise Longridge,77,76.324675325,14.885034482,97.0,31.0,,6,,,,5,7,6,17,10,15
-UBCV,2017,W,EOSC,326,,OVERALL,Earth and Life Through Time,,245,77.23265306100001,12.084358332,97.0,30.0,7,7,5,12,11,16,29,26,63,38,31
+UBCV,2017,W,EOSC,326,,99C,Earth and Life Through Time,Lian Kwong;Louise Longridge,78,76.26923076899999,14.796167525,97.0,31.0,,6,,,,5,8,6,17,10,15
+UBCV,2017,W,EOSC,326,,OVERALL,Earth and Life Through Time,,246,77.211382114,12.064284975,97.0,30.0,7,7,5,12,11,16,30,26,63,38,31
 UBCV,2017,W,EOSC,328,,201,Field Geology,Brett Gilley;James Stewart Scoates;Kenneth Hickey;Matthijs Smit;Tyler Ambrose,40,73.1,8.183159693,91.0,50.0,,,,,,6,12,8,,,
 UBCV,2017,W,EOSC,328,,OVERALL,Field Geology,,40,73.1,8.183159693,91.0,50.0,,,,,,6,12,8,,,
 UBCV,2017,W,EOSC,329,,101,Groundwater Hydrology,Hannah Gatz-Miller;Hannah Sarah Gatz-Miller;Julia Soares;Julia Valentina Soares;Katherine Raymond;Noelani Forde;Ulrich Mayer,121,72.94214876,13.149333013,95.0,20.0,,,6,5,13,12,14,21,20,16,6
@@ -113,7 +113,7 @@ UBCV,2017,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Aaron Cahill
 UBCV,2017,W,EOSC,428,,OVERALL,Field Techniques in Groundwater Hydrology,,30,79.633333333,6.784786904,90.0,66.0,,,,,,,,,14,5,
 UBCV,2017,W,EOSC,429,,101,Groundwater Contamination,Aaron Cahill;Aaron G Cahill;Constanza Nicolau Del Roure Eylerts;Roger Beckie;Tse Chao,44,71.409090909,9.555999411,91.0,52.0,,,,5,,8,9,,6,,
 UBCV,2017,W,EOSC,429,,OVERALL,Groundwater Contamination,,44,71.409090909,9.555999411,91.0,52.0,,,,5,,8,9,,6,,
-UBCV,2017,W,EOSC,430,,101,Aqueous Geochemistry,Elliott Karl Skierszkan;Elliott Skierszkan;Ulrich Mayer,13,73.307692308,12.605452625999998,86.0,39.0,,,,,,,,,,,
+UBCV,2017,W,EOSC,430,,101,Aqueous Geochemistry,Elliott Skierszkan;Ulrich Mayer,13,73.307692308,12.605452625999998,86.0,39.0,,,,,,,,,,,
 UBCV,2017,W,EOSC,430,,OVERALL,Aqueous Geochemistry,,13,73.307692308,12.605452625999998,86.0,39.0,,,,,,,,,,,
 UBCV,2017,W,EOSC,433,,101,Geological Engineering Practice I - Rock Engineering,Afshin Amini;Erik Eberhardt,29,77.0,10.166471505,93.0,55.0,,,,,,,,,5,9,
 UBCV,2017,W,EOSC,433,,OVERALL,Geological Engineering Practice I - Rock Engineering,,29,77.0,10.166471505,93.0,55.0,,,,,,,,,5,9,
