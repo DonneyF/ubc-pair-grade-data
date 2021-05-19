@@ -135,6 +135,11 @@
         "faculty_school": "Faculty of Science"
     },
     {
+        "code": "ASL",
+        "title": "American Sign Language",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "ASLA",
         "title": "Asian Languages",
         "faculty_school": "Faculty of Arts"
@@ -622,6 +627,11 @@
     {
         "code": "ENPP",
         "title": "Engineering and Public Policy",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "ENVE",
+        "title": "Environmental Engineering",
         "faculty_school": "Faculty of Applied Science"
     },
     {
@@ -1230,6 +1240,11 @@
         "faculty_school": "Faculty of Medicine"
     },
     {
+        "code": "MES",
+        "title": "Middle East Studies",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "MGMT",
         "title": "Management",
         "faculty_school": "Vantage College"
@@ -1465,6 +1480,11 @@
         "faculty_school": "Faculty of Applied Science"
     },
     {
+        "code": "PPGA",
+        "title": "Public Policy and Global Affairs",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "PRIN",
         "title": "Principles of Human Biology",
         "faculty_school": "Faculty of Medicine"
@@ -1512,6 +1532,11 @@
     {
         "code": "RGLT",
         "title": "Religion and Literature",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
+        "code": "RGST",
+        "title": "Study of Religion",
         "faculty_school": "Faculty of Arts"
     },
     {
@@ -1653,6 +1678,11 @@
         "code": "TEST",
         "title": "Test",
         "faculty_school": "Regi"
+    },
+    {
+        "code": "THFL",
+        "title": "Theatre and Film",
+        "faculty_school": "Faculty of Arts"
     },
     {
         "code": "THTR",
