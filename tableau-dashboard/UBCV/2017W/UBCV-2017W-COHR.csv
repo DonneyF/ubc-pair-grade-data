@@ -1,25 +1,25 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,COHR,301,,201,Business and Management Values,Albina Gibadullina;Karl Aquino,19,78.684210526,5.302542698,89.0,63.0,,,,,,,,6,8,,
-UBCV,2017,W,COHR,301,,OVERALL,Business and Management Values,,19,78.684210526,5.302542698,89.0,63.0,,,,,,,,6,8,,
-UBCV,2017,W,COHR,303,,101,Strategic Staffing,Wayne Rawcliffe,32,79.1875,2.775904386,83.0,70.0,,,,,,,,9,19,,
-UBCV,2017,W,COHR,303,,OVERALL,Strategic Staffing,,32,79.1875,2.775904386,83.0,70.0,,,,,,,,9,19,,
-UBCV,2017,W,COHR,304,,101,"Training, Development, and Performance Management",Thomas Knight,29,80.310344828,7.969152349,94.0,50.0,,,,,,,,,13,5,
-UBCV,2017,W,COHR,304,,OVERALL,"Training, Development, and Performance Management",,29,80.310344828,7.969152349,94.0,50.0,,,,,,,,,13,5,
-UBCV,2017,W,COHR,305,,201,Strategic Compensation,Amir Haghighat Kashani;Amir Kashani;Wayne Rawcliffe,41,76.780487805,3.474997807,85.0,69.0,,,,,,,12,18,7,,
-UBCV,2017,W,COHR,305,,OVERALL,Strategic Compensation,,41,76.780487805,3.474997807,85.0,69.0,,,,,,,12,18,7,,
-UBCV,2017,W,COHR,401,,101,Organizational Change,Robert Prowse;Wayne Rawcliffe,30,79.833333333,4.267627406,86.0,71.0,,,,,,,,7,14,,
-UBCV,2017,W,COHR,401,,OVERALL,Organizational Change,,30,79.833333333,4.267627406,86.0,71.0,,,,,,,,7,14,,
-UBCV,2017,W,COHR,402,,101,Leadership,Heidi Marie Upham;Heidi Upham;Tracey Gurton,19,81.210526316,9.295034202,93.0,55.0,,,,,,,,,5,8,
-UBCV,2017,W,COHR,402,,OVERALL,Leadership,,19,81.210526316,9.295034202,93.0,55.0,,,,,,,,,5,8,
-UBCV,2017,W,COHR,404,,201,Power and Politics,Albina Gibadullina;Karl Aquino,13,84.0,5.2281290469999995,92.0,74.0,,,,,,,,,,6,
-UBCV,2017,W,COHR,404,,OVERALL,Power and Politics,,13,84.0,5.2281290469999995,92.0,74.0,,,,,,,,,,6,
-UBCV,2017,W,COHR,408,,101,Organizational Design,Wayne Rawcliffe,24,78.375,13.786611338,90.0,30.0,,,,,,,,6,7,7,
-UBCV,2017,W,COHR,408,,OVERALL,Organizational Design,,24,78.375,13.786611338,90.0,30.0,,,,,,,,6,7,7,
-UBCV,2017,W,COHR,411,,101,Managing and Building Teams,Heidi Marie Upham;Heidi Upham;Tracey Gurton,17,83.352941176,2.7825612410000002,89.0,79.0,,,,,,,,,8,7,
-UBCV,2017,W,COHR,411,,OVERALL,Managing and Building Teams,,17,83.352941176,2.7825612410000002,89.0,79.0,,,,,,,,,8,7,
-UBCV,2017,W,COHR,433,,201,Employment Law,Ellen Jane Mcintosh;Ellen Mcintosh,37,83.94594594600001,6.8635346660000005,92.0,52.0,,,,,,,,,13,14,6
-UBCV,2017,W,COHR,433,,OVERALL,Employment Law,,37,83.94594594600001,6.8635346660000005,92.0,52.0,,,,,,,,,13,14,6
-UBCV,2017,W,COHR,486,B,101,Special Topics in Organizational Behaviour and Human Resources,Andrew Chen;Yao Chu Chen,27,78.29629629600001,7.145815422999999,90.0,64.0,,,,,,,,,8,,
-UBCV,2017,W,COHR,486,B,OVERALL,Special Topics in Organizational Behaviour and Human Resources,,27,78.29629629600001,7.145815422999999,90.0,64.0,,,,,,,,,8,,
-UBCV,2017,W,COHR,486,D,101,Special Topics in Organizational Behaviour and Human Resources,Perdip Atwal,25,80.2,3.403429643,85.0,70.0,,,,,,,,8,12,,
-UBCV,2017,W,COHR,486,D,OVERALL,Special Topics in Organizational Behaviour and Human Resources,,25,80.2,3.403429643,85.0,70.0,,,,,,,,8,12,,
+UBCV,2017,W,COHR,301,,201,Business and Management Values,Albina Gibadullina;Karl Aquino,19,78.68421053,5.302542698,89.0,63.0,0,0,0,1,0,0,2.0,6,8,2,0
+UBCV,2017,W,COHR,301,,OVERALL,Business and Management Values,,19,78.68421053,5.302542698,89.0,63.0,0,0,0,1,0,0,2.0,6,8,2,0
+UBCV,2017,W,COHR,303,,101,Strategic Staffing,Wayne Rawcliffe,32,79.1875,2.775904386,83.0,70.0,0,0,0,0,0,1,3.0,9,19,0,0
+UBCV,2017,W,COHR,303,,OVERALL,Strategic Staffing,,32,79.1875,2.775904386,83.0,70.0,0,0,0,0,0,1,3.0,9,19,0,0
+UBCV,2017,W,COHR,304,,101,"Training, Development, and Performance Management",Thomas Knight,29,80.31034483,7.969152349,94.0,50.0,0,1,0,0,0,1,4.0,3,13,5,2
+UBCV,2017,W,COHR,304,,OVERALL,"Training, Development, and Performance Management",,29,80.31034483,7.969152349,94.0,50.0,0,1,0,0,0,1,4.0,3,13,5,2
+UBCV,2017,W,COHR,305,,201,Strategic Compensation,Amir Haghighat Kashani;Amir Kashani;Wayne Rawcliffe,41,76.78048781,3.474997807,85.0,69.0,0,0,0,0,0,3,12.0,18,7,1,0
+UBCV,2017,W,COHR,305,,OVERALL,Strategic Compensation,,41,76.78048781,3.474997807,85.0,69.0,0,0,0,0,0,3,12.0,18,7,1,0
+UBCV,2017,W,COHR,401,,101,Organizational Change,Robert Prowse;Wayne Rawcliffe,30,79.83333333,4.267627406,86.0,71.0,0,0,0,0,0,1,4.0,7,14,4,0
+UBCV,2017,W,COHR,401,,OVERALL,Organizational Change,,30,79.83333333,4.267627406,86.0,71.0,0,0,0,0,0,1,4.0,7,14,4,0
+UBCV,2017,W,COHR,402,,101,Leadership,Heidi Marie Upham;Heidi Upham;Tracey Gurton,19,81.21052632,9.295034202,93.0,55.0,0,0,1,1,0,0,0.0,3,5,8,1
+UBCV,2017,W,COHR,402,,OVERALL,Leadership,,19,81.21052632,9.295034202,93.0,55.0,0,0,1,1,0,0,0.0,3,5,8,1
+UBCV,2017,W,COHR,404,,201,Power and Politics,Albina Gibadullina;Karl Aquino,13,84.0,5.228129047,92.0,74.0,0,0,0,0,0,0,1.0,1,3,6,2
+UBCV,2017,W,COHR,404,,OVERALL,Power and Politics,,13,84.0,5.228129047,92.0,74.0,0,0,0,0,0,0,1.0,1,3,6,2
+UBCV,2017,W,COHR,408,,101,Organizational Design,Wayne Rawcliffe,24,78.375,13.78661134,90.0,30.0,1,1,1,0,0,0,0.0,6,7,7,1
+UBCV,2017,W,COHR,408,,OVERALL,Organizational Design,,24,78.375,13.78661134,90.0,30.0,1,1,1,0,0,0,0.0,6,7,7,1
+UBCV,2017,W,COHR,411,,101,Managing and Building Teams,Heidi Marie Upham;Heidi Upham;Tracey Gurton,17,83.35294118,2.782561241,89.0,79.0,0,0,0,0,0,0,0.0,2,8,7,0
+UBCV,2017,W,COHR,411,,OVERALL,Managing and Building Teams,,17,83.35294118,2.782561241,89.0,79.0,0,0,0,0,0,0,0.0,2,8,7,0
+UBCV,2017,W,COHR,433,,201,Employment Law,Ellen Jane Mcintosh;Ellen Mcintosh,37,83.94594595,6.863534666,92.0,52.0,0,1,0,0,0,1,0.0,2,13,14,6
+UBCV,2017,W,COHR,433,,OVERALL,Employment Law,,37,83.94594595,6.863534666,92.0,52.0,0,1,0,0,0,1,0.0,2,13,14,6
+UBCV,2017,W,COHR,486,B,101,Special Topics in Organizational Behaviour and Human Resources,Andrew Chen;Yao Chu Chen,27,78.2962963,7.145815423,90.0,64.0,0,0,0,0,2,4,3.0,4,8,4,2
+UBCV,2017,W,COHR,486,B,OVERALL,Special Topics in Organizational Behaviour and Human Resources,,27,78.2962963,7.145815423,90.0,64.0,0,0,0,0,2,4,3.0,4,8,4,2
+UBCV,2017,W,COHR,486,D,101,Special Topics in Organizational Behaviour and Human Resources,Perdip Atwal,25,80.2,3.403429643,85.0,70.0,0,0,0,0,0,1,0.0,8,12,4,0
+UBCV,2017,W,COHR,486,D,OVERALL,Special Topics in Organizational Behaviour and Human Resources,,25,80.2,3.403429643,85.0,70.0,0,0,0,0,0,1,0.0,8,12,4,0

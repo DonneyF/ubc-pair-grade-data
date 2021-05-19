@@ -6,8 +6,8 @@ UBCV,2014,W,CLST,110,,001,Golden Age of Athens,Nigel Kennell,48,65.97916667,14.8
 UBCV,2014,W,CLST,110,,OVERALL,Golden Age of Athens,,48,65.97916667,14.88607744,95.0,5.0,,5,,7,10,6,,,,,
 UBCV,2014,W,CLST,204,,001,Introduction to Classical Archaeology,Kevin Fisher,34,66.82352941,18.77372533,96.0,18.0,7,,,,,5,,5,6,,
 UBCV,2014,W,CLST,204,,OVERALL,Introduction to Classical Archaeology,,34,66.82352941,18.77372533,96.0,18.0,7,,,,,5,,5,6,,
-UBCV,2014,W,CLST,211,,001,Greek Philosophy I,Michael Griffin,37,79.35135135,6.0425170260000005,93.0,70.0,,,,,,7,,,18,,
-UBCV,2014,W,CLST,211,,OVERALL,Greek Philosophy I,,37,79.35135135,6.0425170260000005,93.0,70.0,,,,,,7,,,18,,
+UBCV,2014,W,CLST,211,,001,Greek Philosophy I,Michael Griffin,37,79.35135135,6.042517026,93.0,70.0,0,0,0,0,0,7,,,18,,
+UBCV,2014,W,CLST,211,,OVERALL,Greek Philosophy I,,37,79.35135135,6.042517026,93.0,70.0,0,0,0,0,0,7,,,18,,
 UBCV,2014,W,CLST,212,,001,Greek Philosophy II,Michael Griffin,35,70.57142857,21.14833565,90.0,0.0,5,,,,,,8,,9,,
 UBCV,2014,W,CLST,212,,OVERALL,Greek Philosophy II,,35,70.57142857,21.14833565,90.0,0.0,5,,,,,,8,,9,,
 UBCV,2014,W,CLST,231,,001,Ancient Greece,Gwynaeth Mcintyre,34,68.55882353,16.34697855,90.0,0.0,,,,,1,,5,7,5,,
@@ -23,8 +23,8 @@ UBCV,2014,W,CLST,301,,051,The Technical Terms of Medicine and Biological Science
 UBCV,2014,W,CLST,301,,99A,The Technical Terms of Medicine and Biological Science,Shelley Reid,48,75.25,14.02960396,96.0,29.0,5,,,,,6,5,6,9,7,6
 UBCV,2014,W,CLST,301,,99C,The Technical Terms of Medicine and Biological Science,Shelley Reid,43,67.88372093,17.89281487,94.0,22.0,10,,,,,3,5,2,5,7,2
 UBCV,2014,W,CLST,301,,OVERALL,The Technical Terms of Medicine and Biological Science,,415,72.68433735,18.820128,98.0,2.0,54,12,21,15,11,31,43,42,57,67,62
-UBCV,2014,W,CLST,308,,001,Roman Law,Leanne Bablitz,32,70.65625,11.52167488,95.0,50.0,,,,,,,6,5,,,
-UBCV,2014,W,CLST,308,,OVERALL,Roman Law,,32,70.65625,11.52167488,95.0,50.0,,,,,,,6,5,,,
+UBCV,2014,W,CLST,308,,001,Roman Law,Leanne Bablitz,32,70.65625,11.52167488,95.0,50.0,0,,,,,,6,5,,,
+UBCV,2014,W,CLST,308,,OVERALL,Roman Law,,32,70.65625,11.52167488,95.0,50.0,0,,,,,,6,5,,,
 UBCV,2014,W,CLST,313,,001,Greek Epic,Nigel Kennell,59,75.81355932,12.59785775,93.0,29.0,,,,5,,6,6,12,7,12,5
 UBCV,2014,W,CLST,313,,OVERALL,Greek Epic,,59,75.81355932,12.59785775,93.0,29.0,,,,5,,6,6,12,7,12,5
 UBCV,2014,W,CLST,314,,001,Latin Epic,Emma Hilliard;Susan Braund,29,74.44827586,19.51480428,93.0,15.0,,,,,,,,,6,7,
@@ -33,19 +33,19 @@ UBCV,2014,W,CLST,319,,001,The Roman Army,Leanne Bablitz,56,70.0,12.74219904,91.0
 UBCV,2014,W,CLST,319,,OVERALL,The Roman Army,,56,70.0,12.74219904,91.0,40.0,,5,,5,5,5,6,9,8,,
 UBCV,2014,W,CLST,331,,001,Greek Art and Architecture,Nigel Kennell,31,68.22580645,12.98129341,90.0,39.0,,,,6,,,6,,5,,
 UBCV,2014,W,CLST,331,,OVERALL,Greek Art and Architecture,,31,68.22580645,12.98129341,90.0,39.0,,,,6,,,6,,5,,
-UBCV,2014,W,CLST,332,,001,Roman Art and Architecture,Caroline Williams;Chelsea Gardner,15,70.0,9.856107606,87.0,52.0,,,,,,,,,,,
-UBCV,2014,W,CLST,332,,OVERALL,Roman Art and Architecture,,15,70.0,9.856107606,87.0,52.0,,,,,,,,,,,
-UBCV,2014,W,CLST,333,,001,Greek Religion,Gwynaeth Mcintyre,52,73.84615385,8.0205242,87.0,50.0,,,,,,12,11,9,8,,
-UBCV,2014,W,CLST,333,,OVERALL,Greek Religion,,52,73.84615385,8.0205242,87.0,50.0,,,,,,12,11,9,8,,
+UBCV,2014,W,CLST,332,,001,Roman Art and Architecture,Caroline Williams;Chelsea Gardner,15,70.0,9.856107606,87.0,52.0,0,,,,,,,,,,0
+UBCV,2014,W,CLST,332,,OVERALL,Roman Art and Architecture,,15,70.0,9.856107606,87.0,52.0,0,,,,,,,,,,0
+UBCV,2014,W,CLST,333,,001,Greek Religion,Gwynaeth Mcintyre,52,73.84615385,8.0205242,87.0,50.0,0,,,,,12,11,9,8,,0
+UBCV,2014,W,CLST,333,,OVERALL,Greek Religion,,52,73.84615385,8.0205242,87.0,50.0,0,,,,,12,11,9,8,,0
 UBCV,2014,W,CLST,334,,001,Roman Religion,Shelley Reid,51,72.17647059,14.39542411,93.0,1.0,,,5,5,5,6,,8,9,,
 UBCV,2014,W,CLST,334,,OVERALL,Roman Religion,,51,72.17647059,14.39542411,93.0,1.0,,,5,5,5,6,,8,9,,
 UBCV,2014,W,CLST,352,,002,The Roman Republic,Gwynaeth Mcintyre,13,77.38461539,15.66598471,94.0,34.0,,,,,,,,,,,
 UBCV,2014,W,CLST,352,,OVERALL,The Roman Republic,,13,77.38461539,15.66598471,94.0,34.0,,,,,,,,,,,
-UBCV,2014,W,CLST,356,,001,Alexander the Great and his Empire,Ana Golland;Franco De Angelis,25,81.44,6.64630223,94.0,70.0,,,,,,,,7,,7,
-UBCV,2014,W,CLST,356,,OVERALL,Alexander the Great and his Empire,,25,81.44,6.64630223,94.0,70.0,,,,,,,,7,,7,
-UBCV,2014,W,CLST,401,A,002,Seminar in Classical History,Leanne Bablitz,15,69.66666667,10.293317300000002,87.0,51.0,,,,,,,,,,,
-UBCV,2014,W,CLST,401,A,OVERALL,Seminar in Classical History,,15,69.66666667,10.293317300000002,87.0,51.0,,,,,,,,,,,
-UBCV,2014,W,CLST,404,A,001,Seminar in the Reception of the Classical World,Susan Braund,12,72.33333333,13.14488033,90.0,57.0,,,,5,,,,,,,
-UBCV,2014,W,CLST,404,A,OVERALL,Seminar in the Reception of the Classical World,,12,72.33333333,13.14488033,90.0,57.0,,,,5,,,,,,,
-UBCV,2014,W,CLST,518,A,001,Topics in Greek Archaeology,Franco De Angelis,6,86.33333333,2.943920289,91.0,83.0,,,,,,,,,,,
-UBCV,2014,W,CLST,518,A,OVERALL,Topics in Greek Archaeology,,6,86.33333333,2.943920289,91.0,83.0,,,,,,,,,,,
+UBCV,2014,W,CLST,356,,001,Alexander the Great and his Empire,Ana Golland;Franco De Angelis,25,81.44,6.64630223,94.0,70.0,0,0,0,0,0,,,7,,7,
+UBCV,2014,W,CLST,356,,OVERALL,Alexander the Great and his Empire,,25,81.44,6.64630223,94.0,70.0,0,0,0,0,0,,,7,,7,
+UBCV,2014,W,CLST,401,A,002,Seminar in Classical History,Leanne Bablitz,15,69.66666667,10.2933173,87.0,51.0,0,,,,,,,,,,0
+UBCV,2014,W,CLST,401,A,OVERALL,Seminar in Classical History,,15,69.66666667,10.2933173,87.0,51.0,0,,,,,,,,,,0
+UBCV,2014,W,CLST,404,A,001,Seminar in the Reception of the Classical World,Susan Braund,12,72.33333333,13.14488033,90.0,57.0,0,0,,5,,,,,,,
+UBCV,2014,W,CLST,404,A,OVERALL,Seminar in the Reception of the Classical World,,12,72.33333333,13.14488033,90.0,57.0,0,0,,5,,,,,,,
+UBCV,2014,W,CLST,518,A,001,Topics in Greek Archaeology,Franco De Angelis,6,86.33333333,2.943920289,91.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,CLST,518,A,OVERALL,Topics in Greek Archaeology,,6,86.33333333,2.943920289,91.0,83.0,0,0,0,0,0,0,0,0,,,

@@ -1,98 +1,98 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,LIBR,500,,002,Foundations of Information Technology,Mary Stephenson,9,83.22222222,2.862594006,89.0,80.0,,,,,,,,,6,3,
-UBCV,2014,W,LIBR,500,,99A,Foundations of Information Technology,Mary Stephenson,44,84.47727273,3.1289245969999997,90.0,77.0,,,,,,,,,23,17,
-UBCV,2014,W,LIBR,500,,99C,Foundations of Information Technology,Mary Stephenson,29,83.86206897,3.1250615760000002,90.0,78.0,,,,,,,,,15,10,
-UBCV,2014,W,LIBR,500,,OVERALL,Foundations of Information Technology,,82,84.12195122,3.092764331,90.0,77.0,,,,,,,,,44,30,
-UBCV,2014,W,LIBR,501,,001,Foundations of the Information Society and Information Organizations,Lisa Nathan,44,84.77272727,1.7099386140000001,90.0,82.0,,,,,,,,,22,21,
-UBCV,2014,W,LIBR,501,,002,Foundations of the Information Society and Information Organizations,Kelly Burke;Lisa Nathan,37,83.13513514,1.158594986,85.0,81.0,,,,,,,,,31,6,
-UBCV,2014,W,LIBR,501,,OVERALL,Foundations of the Information Society and Information Organizations,,81,84.02469136,1.688011468,90.0,81.0,,,,,,,,,53,27,
-UBCV,2014,W,LIBR,502,,001,Foundations of Resource Description and Access,Aaron James Loehrlein;Aaron Loehrlein,45,83.15555556,1.536755075,86.0,79.0,,,,,,,,,36,8,
-UBCV,2014,W,LIBR,502,,002,Foundations of Resource Description and Access,Aaron James Loehrlein;Aaron Loehrlein;Sarah Gilbert,36,84.02777778,2.286433419,88.0,78.0,,,,,,,,,19,16,
-UBCV,2014,W,LIBR,502,,OVERALL,Foundations of Resource Description and Access,,81,83.54320988,1.9432536040000001,88.0,78.0,,,,,,,,,55,24,
-UBCV,2014,W,LIBR,503,,001,Foundations of Information Sources and Services,Luanne Freund,44,83.75,2.283662908,87.0,76.0,,,,,,,,2,24,18,
-UBCV,2014,W,LIBR,503,,002,Foundations of Information Sources and Services,Colleen Addison;Luanne Freund,38,81.94736842,2.940374755,87.0,75.0,,,,,,,,8,20,9,
-UBCV,2014,W,LIBR,503,,OVERALL,Foundations of Information Sources and Services,,82,82.91463415,2.745147096,87.0,75.0,,,,,,,,10,44,27,
-UBCV,2014,W,LIBR,504,,001,Management of Information Organizations,Louise Broadley,21,86.66666667,6.085501897,97.0,71.0,,,,,,,,,5,9,5
+UBCV,2014,W,LIBR,500,,002,Foundations of Information Technology,Mary Stephenson,9,83.22222222,2.862594006,89.0,80.0,0,0,0,0,0,0,0,0,6,3.0,0
+UBCV,2014,W,LIBR,500,,99A,Foundations of Information Technology,Mary Stephenson,44,84.47727273,3.128924597,90.0,77.0,0,0,0,0,0,0,0,,23,17,
+UBCV,2014,W,LIBR,500,,99C,Foundations of Information Technology,Mary Stephenson,29,83.86206897,3.125061576,90.0,78.0,0,0,0,0,0,0,0,,15,10,
+UBCV,2014,W,LIBR,500,,OVERALL,Foundations of Information Technology,,82,84.12195122,3.092764331,90.0,77.0,0,0,0,0,0,0,0,,44,30,
+UBCV,2014,W,LIBR,501,,001,Foundations of the Information Society and Information Organizations,Lisa Nathan,44,84.77272727,1.709938614,90.0,82.0,0,0,0,0,0,0,0,0,22,21,1.0
+UBCV,2014,W,LIBR,501,,002,Foundations of the Information Society and Information Organizations,Kelly Burke;Lisa Nathan,37,83.13513514,1.158594986,85.0,81.0,0,0,0,0,0,0,0,0,31,6,0
+UBCV,2014,W,LIBR,501,,OVERALL,Foundations of the Information Society and Information Organizations,,81,84.02469136,1.688011468,90.0,81.0,0,0,0,0,0,0,0,0,53,27,1.0
+UBCV,2014,W,LIBR,502,,001,Foundations of Resource Description and Access,Aaron James Loehrlein;Aaron Loehrlein,45,83.15555556,1.536755075,86.0,79.0,0,0,0,0,0,0,0,1.0,36,8,0
+UBCV,2014,W,LIBR,502,,002,Foundations of Resource Description and Access,Aaron James Loehrlein;Aaron Loehrlein;Sarah Gilbert,36,84.02777778,2.286433419,88.0,78.0,0,0,0,0,0,0,0,1.0,19,16,0
+UBCV,2014,W,LIBR,502,,OVERALL,Foundations of Resource Description and Access,,81,83.54320988,1.943253604,88.0,78.0,0,0,0,0,0,0,0,2.0,55,24,0
+UBCV,2014,W,LIBR,503,,001,Foundations of Information Sources and Services,Luanne Freund,44,83.75,2.283662908,87.0,76.0,0,0,0,0,0,0,0,2.0,24,18,0
+UBCV,2014,W,LIBR,503,,002,Foundations of Information Sources and Services,Colleen Addison;Luanne Freund,38,81.94736842,2.940374755,87.0,75.0,0,0,0,0,0,0,1.0,8,20,9,0
+UBCV,2014,W,LIBR,503,,OVERALL,Foundations of Information Sources and Services,,82,82.91463415,2.745147096,87.0,75.0,0,0,0,0,0,0,1.0,10,44,27,0
+UBCV,2014,W,LIBR,504,,001,Management of Information Organizations,Louise Broadley,21,86.66666667,6.085501897,97.0,71.0,0,0,0,0,0,,,,5,9,5
 UBCV,2014,W,LIBR,504,,002,Management of Information Organizations,Anne Olsen;Louise Broadley,31,85.48387097,9.902427203,96.0,36.0,,,,,,,,,5,19,5
-UBCV,2014,W,LIBR,504,,OVERALL,Management of Information Organizations,,52,85.96153846,8.517482686000001,97.0,36.0,,,,,,,,,10,28,10
-UBCV,2014,W,LIBR,505,,001,Research Methods in Information Organizations,Richard Kopak,34,82.76470588,3.095048083,88.0,77.0,,,,,,,,,20,10,
-UBCV,2014,W,LIBR,505,,002,Research Methods in Information Organizations,Richard Kopak;Weimei Pan,35,81.54285714,10.14698697,89.0,25.0,,,,,,,,,22,9,
-UBCV,2014,W,LIBR,505,,OVERALL,Research Methods in Information Organizations,,69,82.14492754,7.5171869000000004,89.0,25.0,,,,,,,,7,42,19,
-UBCV,2014,W,LIBR,511,,001,Cataloguing and Classification,Florian Ehrensperger,10,85.3,5.100108931,92.0,73.0,,,,,,,,,1,7,
-UBCV,2014,W,LIBR,511,,002,Cataloguing and Classification,Aaron James Loehrlein;Aaron Loehrlein,29,83.24137931,1.7249259280000002,86.0,79.0,,,,,,,,,18,9,
-UBCV,2014,W,LIBR,511,,OVERALL,Cataloguing and Classification,,39,83.76923077,3.0302122430000002,92.0,73.0,,,,,,,,,19,16,
-UBCV,2014,W,LIBR,512,,002,Indexing,Mary Stephenson,18,84.88888889,1.131832917,88.0,83.0,,,,,,,,,5,13,
-UBCV,2014,W,LIBR,512,,OVERALL,Indexing,,18,84.88888889,1.131832917,88.0,83.0,,,,,,,,,5,13,
-UBCV,2014,W,LIBR,514,E,001,Topics in the Bibliographic Control of Information,Aaron James Loehrlein;Aaron Loehrlein,12,84.5,1.5666989040000001,87.0,82.0,,,,,,,,,5,7,
-UBCV,2014,W,LIBR,514,E,OVERALL,Topics in the Bibliographic Control of Information,,12,84.5,1.5666989040000001,87.0,82.0,,,,,,,,,5,7,
-UBCV,2014,W,LIBR,514,F,001,Topics in the Bibliographic Control of Information,Richard Arias Hernandez,15,83.2,3.72635402,90.0,76.0,,,,,,,,,7,5,
-UBCV,2014,W,LIBR,514,F,OVERALL,Topics in the Bibliographic Control of Information,,15,83.2,3.72635402,90.0,76.0,,,,,,,,,7,5,
-UBCV,2014,W,LIBR,516,,001,Information Asset Management,Alexandra Bradley,15,86.53333333,2.416215065,90.0,82.0,,,,,,,,,,10,
-UBCV,2014,W,LIBR,516,,OVERALL,Information Asset Management,,15,86.53333333,2.416215065,90.0,82.0,,,,,,,,,,10,
-UBCV,2014,W,LIBR,520,,002,Survey of Literature and Other Materials for Children,Judith Saltman,10,82.2,3.614784456,89.0,76.0,,,,,,,,,5,,
-UBCV,2014,W,LIBR,520,,OVERALL,Survey of Literature and Other Materials for Children,,10,82.2,3.614784456,89.0,76.0,,,,,,,,,5,,
-UBCV,2014,W,LIBR,521,,001,Contemporary Literature and Other Materials for Children,Judith Saltman,9,81.55555556,2.87711275,86.0,79.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,521,,OVERALL,Contemporary Literature and Other Materials for Children,,9,81.55555556,2.87711275,86.0,79.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,523,,002,Canadian Literature and other Materials for Children,Judith Saltman,11,83.81818182,2.891995222,88.0,80.0,,,,,,,,,7,,
-UBCV,2014,W,LIBR,523,,OVERALL,Canadian Literature and other Materials for Children,,11,83.81818182,2.891995222,88.0,80.0,,,,,,,,,7,,
-UBCV,2014,W,LIBR,527,,001,Services for Children,Judith Saltman,16,82.375,2.5,88.0,79.0,,,,,,,,,11,,
-UBCV,2014,W,LIBR,527,,OVERALL,Services for Children,,16,82.375,2.5,88.0,79.0,,,,,,,,,11,,
-UBCV,2014,W,LIBR,528,,002,Services for Young Adults,Eric Meyers,17,85.17647059,3.924845445,92.0,76.0,,,,,,,,,7,7,
-UBCV,2014,W,LIBR,528,,OVERALL,Services for Young Adults,,17,85.17647059,3.924845445,92.0,76.0,,,,,,,,,7,7,
-UBCV,2014,W,LIBR,529,,99C,Services for Families and Early Literacy in the Preschool Years,Allison Ruth Taylor Mcbryde,18,78.33333333,4.665265896,86.0,70.0,,,,,,,,7,5,,
-UBCV,2014,W,LIBR,529,,OVERALL,Services for Families and Early Literacy in the Preschool Years,,18,78.33333333,4.665265896,86.0,70.0,,,,,,,,7,5,,
-UBCV,2014,W,LIBR,534,,001,Health Information Sources and Services,Dean Giustini,15,86.2,1.5212776590000001,88.0,83.0,,,,,,,,,,14,
-UBCV,2014,W,LIBR,534,,OVERALL,Health Information Sources and Services,,15,86.2,1.5212776590000001,88.0,83.0,,,,,,,,,,14,
-UBCV,2014,W,LIBR,535,,002,Instructional Role of the Librarian,Eric Meyers;Millicent Mabi,33,85.0,3.596873642,90.0,76.0,,,,,,,,,11,18,
-UBCV,2014,W,LIBR,535,,OVERALL,Instructional Role of the Librarian,,33,85.0,3.596873642,90.0,76.0,,,,,,,,,11,18,
-UBCV,2014,W,LIBR,539,J,002,Specialized Materials,Luanne Freund,5,83.4,3.9115214430000003,88.0,78.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,539,J,OVERALL,Specialized Materials,,5,83.4,3.9115214430000003,88.0,78.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,539,L,001,Specialized Materials,Suzan Lee,6,79.0,7.348469228,88.0,68.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,539,L,OVERALL,Specialized Materials,,6,79.0,7.348469228,88.0,68.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,553,,002,Understanding Information Users in Diverse Environments,Heather O'Brien,24,83.91666667,3.888854382,88.0,68.0,,,,,,,,,11,12,
-UBCV,2014,W,LIBR,553,,OVERALL,Understanding Information Users in Diverse Environments,,24,83.91666667,3.888854382,88.0,68.0,,,,,,,,,11,12,
-UBCV,2014,W,LIBR,554,,002,Database Design,Richard Arias Hernandez,16,88.75,6.865372046,99.0,73.0,,,,,,,,,,,8
-UBCV,2014,W,LIBR,554,,OVERALL,Database Design,,16,88.75,6.865372046,99.0,73.0,,,,,,,,,,,8
-UBCV,2014,W,LIBR,555,,001,Information Design I - Systems,Richard Kopak,15,80.4,10.4867263,89.0,45.0,,,,,,,,,6,5,
-UBCV,2014,W,LIBR,555,,OVERALL,Information Design I - Systems,,15,80.4,10.4867263,89.0,45.0,,,,,,,,,6,5,
-UBCV,2014,W,LIBR,556,,002,Information Design II - Documents,Richard Kopak,19,80.2631579,17.18475457,89.0,10.0,,,,,,,,,10,8,
-UBCV,2014,W,LIBR,556,,OVERALL,Information Design II - Documents,,19,80.2631579,17.18475457,89.0,10.0,,,,,,,,,10,8,
-UBCV,2014,W,LIBR,557,,001,Information Retrieval Systems: Concepts and Practice,Mary Stephenson,21,86.71428571,1.146423008,89.0,85.0,,,,,,,,,,21,
-UBCV,2014,W,LIBR,557,,OVERALL,Information Retrieval Systems: Concepts and Practice,,21,86.71428571,1.146423008,89.0,85.0,,,,,,,,,,21,
-UBCV,2014,W,LIBR,559,B,001,Topics in Computer-Based Information Systems,Eric Meyers,8,87.0,2.9277002189999997,90.0,81.0,,,,,,,,,,5,
-UBCV,2014,W,LIBR,559,B,OVERALL,Topics in Computer-Based Information Systems,,8,87.0,2.9277002189999997,90.0,81.0,,,,,,,,,,5,
-UBCV,2014,W,LIBR,559,M,99A,Topics in Computer-Based Information Systems,Dean Giustini,17,82.35294118,2.667891875,85.0,75.0,,,,,,,,,11,,
-UBCV,2014,W,LIBR,559,M,OVERALL,Topics in Computer-Based Information Systems,,17,82.35294118,2.667891875,85.0,75.0,,,,,,,,,11,,
-UBCV,2014,W,LIBR,559,P,001,Topics in Computer-Based Information Systems,Colleen Bell,7,81.14285714,5.2734736,87.0,71.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,559,P,OVERALL,Topics in Computer-Based Information Systems,,7,81.14285714,5.2734736,87.0,71.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,559,Q,001,Topics in Computer-Based Information Systems,Kevin Stranack,13,86.76923077,3.11324713,92.0,80.0,,,,,,,,,,8,
-UBCV,2014,W,LIBR,559,Q,OVERALL,Topics in Computer-Based Information Systems,,13,86.76923077,3.11324713,92.0,80.0,,,,,,,,,,8,
-UBCV,2014,W,LIBR,559,R,002,Topics in Computer-Based Information Systems,Jessica Starr,5,91.8,1.7888543819999998,93.0,89.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,559,R,OVERALL,Topics in Computer-Based Information Systems,,5,91.8,1.7888543819999998,93.0,89.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,559,S,002,Topics in Computer-Based Information Systems,Eugene Barsky,16,83.9375,3.6962819160000002,90.0,78.0,,,,,,,,,9,5,
-UBCV,2014,W,LIBR,559,S,OVERALL,Topics in Computer-Based Information Systems,,16,83.9375,3.6962819160000002,90.0,78.0,,,,,,,,,9,5,
-UBCV,2014,W,LIBR,561,,002,Information Policy,Lisa Nathan,15,84.8,2.569046516,88.0,80.0,,,,,,,,,7,8,
-UBCV,2014,W,LIBR,561,,OVERALL,Information Policy,,15,84.8,2.569046516,88.0,80.0,,,,,,,,,7,8,
-UBCV,2014,W,LIBR,569,A,001,Current Issues and Trends in Library Services and Information Science,Lisa Nathan,10,84.5,2.798809271,88.0,79.0,,,,,,,,,,8,
-UBCV,2014,W,LIBR,569,A,OVERALL,Current Issues and Trends in Library Services and Information Science,,10,84.5,2.798809271,88.0,79.0,,,,,,,,,,8,
-UBCV,2014,W,LIBR,569,R,002,Current Issues and Trends in Library Services and Information Science,Heather O'Brien,9,89.88888889,0.927960727,91.0,89.0,,,,,,,,,,,5
-UBCV,2014,W,LIBR,569,R,OVERALL,Current Issues and Trends in Library Services and Information Science,,9,89.88888889,0.927960727,91.0,89.0,,,,,,,,,,,5
-UBCV,2014,W,LIBR,571,,002,Human Resources Management,Christine Middlemass;Marion Dawn Ibey,8,83.5,6.458659746,91.0,72.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,571,,OVERALL,Human Resources Management,,8,83.5,6.458659746,91.0,72.0,,,,,,,,,,,
-UBCV,2014,W,LIBR,576,,001,Public Libraries,Anne Olsen;Baharak Yousefi,21,83.47619048,3.5583570310000003,91.0,77.0,,,,,,,,,13,,
-UBCV,2014,W,LIBR,576,,OVERALL,Public Libraries,,21,83.47619048,3.5583570310000003,91.0,77.0,,,,,,,,,13,,
-UBCV,2014,W,LIBR,578,,001,Planning and Design of Libraries,Heather O'Brien,19,84.36842105,1.9209524930000001,88.0,82.0,,,,,,,,,14,5,
-UBCV,2014,W,LIBR,578,,OVERALL,Planning and Design of Libraries,,19,84.36842105,1.9209524930000001,88.0,82.0,,,,,,,,,14,5,
-UBCV,2014,W,LIBR,579,J,002,Topics in the Management of Libraries and Archives,Annette Defaveri;Bethan Davies,23,81.65217391,4.206150212,90.0,74.0,,,,,,,,,9,7,
-UBCV,2014,W,LIBR,579,J,OVERALL,Topics in the Management of Libraries and Archives,,23,81.65217391,4.206150212,90.0,74.0,,,,,,,,,9,7,
-UBCV,2014,W,LIBR,580,,001,Collection Management,Heather O'Brien,24,85.5,1.3187609470000001,87.0,83.0,,,,,,,,,5,19,
-UBCV,2014,W,LIBR,580,,OVERALL,Collection Management,,24,85.5,1.3187609470000001,87.0,83.0,,,,,,,,,5,19,
-UBCV,2014,W,LIBR,581,,001,Digital Libraries,Richard Arias Hernandez,22,84.04545455,5.367248765,94.0,73.0,,,,,,,,,9,6,
-UBCV,2014,W,LIBR,581,,OVERALL,Digital Libraries,,22,84.04545455,5.367248765,94.0,73.0,,,,,,,,,9,6,
-UBCV,2014,W,LIBR,582,,002,Digital Image and Text Collections,Richard Arias Hernandez,25,91.6,4.725815626,98.0,79.0,,,,,,,,,,7,16
-UBCV,2014,W,LIBR,582,,OVERALL,Digital Image and Text Collections,,25,91.6,4.725815626,98.0,79.0,,,,,,,,,,7,16
-UBCV,2014,W,LIBR,587,,002,Preservation,Sabina Sutherland,14,79.57142857,4.5015259930000004,86.0,70.0,,,,,,,,,6,,
-UBCV,2014,W,LIBR,587,,OVERALL,Preservation,,14,79.57142857,4.5015259930000004,86.0,70.0,,,,,,,,,6,,
-UBCV,2014,W,LIBR,593,D,001,Seminar,,6,87.0,0.0,87.0,87.0,,,,,,,,,,6,
-UBCV,2014,W,LIBR,593,D,OVERALL,Seminar,,9,87.0,0.0,87.0,87.0,,,,,,,,,,9,
-UBCV,2014,W,LIBR,594,,OVERALL,Directed Study,,7,85.0,7.6594168620000005,100.0,75.0,,,,,,,,,,,
+UBCV,2014,W,LIBR,504,,OVERALL,Management of Information Organizations,,52,85.96153846,8.517482686,97.0,36.0,,,,,,,,,10,28,10
+UBCV,2014,W,LIBR,505,,001,Research Methods in Information Organizations,Richard Kopak,34,82.76470588,3.095048083,88.0,77.0,0,0,0,0,0,0,0,4.0,20,10,0
+UBCV,2014,W,LIBR,505,,002,Research Methods in Information Organizations,Richard Kopak;Weimei Pan,35,81.54285714,10.14698697,89.0,25.0,,,,,,,,3.0,22,9,0
+UBCV,2014,W,LIBR,505,,OVERALL,Research Methods in Information Organizations,,69,82.14492754,7.5171869,89.0,25.0,,,,,,,,7,42,19,0
+UBCV,2014,W,LIBR,511,,001,Cataloguing and Classification,Florian Ehrensperger,10,85.3,5.100108931,92.0,73.0,0,0,0,0,0,0,,,1,7,
+UBCV,2014,W,LIBR,511,,002,Cataloguing and Classification,Aaron James Loehrlein;Aaron Loehrlein,29,83.24137931,1.724925928,86.0,79.0,0,0,0,0,0,0,0,2.0,18,9,0
+UBCV,2014,W,LIBR,511,,OVERALL,Cataloguing and Classification,,39,83.76923077,3.030212243,92.0,73.0,0,0,0,0,0,0,,,19,16,
+UBCV,2014,W,LIBR,512,,002,Indexing,Mary Stephenson,18,84.88888889,1.131832917,88.0,83.0,0,0,0,0,0,0,0,0,5,13,0
+UBCV,2014,W,LIBR,512,,OVERALL,Indexing,,18,84.88888889,1.131832917,88.0,83.0,0,0,0,0,0,0,0,0,5,13,0
+UBCV,2014,W,LIBR,514,E,001,Topics in the Bibliographic Control of Information,Aaron James Loehrlein;Aaron Loehrlein,12,84.5,1.566698904,87.0,82.0,0,0,0,0,0,0,0,0,5,7,0
+UBCV,2014,W,LIBR,514,E,OVERALL,Topics in the Bibliographic Control of Information,,12,84.5,1.566698904,87.0,82.0,0,0,0,0,0,0,0,0,5,7,0
+UBCV,2014,W,LIBR,514,F,001,Topics in the Bibliographic Control of Information,Richard Arias Hernandez,15,83.2,3.72635402,90.0,76.0,0,0,0,0,0,0,0,,7,5,
+UBCV,2014,W,LIBR,514,F,OVERALL,Topics in the Bibliographic Control of Information,,15,83.2,3.72635402,90.0,76.0,0,0,0,0,0,0,0,,7,5,
+UBCV,2014,W,LIBR,516,,001,Information Asset Management,Alexandra Bradley,15,86.53333333,2.416215065,90.0,82.0,0,0,0,0,0,0,0,0,,10,
+UBCV,2014,W,LIBR,516,,OVERALL,Information Asset Management,,15,86.53333333,2.416215065,90.0,82.0,0,0,0,0,0,0,0,0,,10,
+UBCV,2014,W,LIBR,520,,002,Survey of Literature and Other Materials for Children,Judith Saltman,10,82.2,3.614784456,89.0,76.0,0,0,0,0,0,0,0,,5,,0
+UBCV,2014,W,LIBR,520,,OVERALL,Survey of Literature and Other Materials for Children,,10,82.2,3.614784456,89.0,76.0,0,0,0,0,0,0,0,,5,,0
+UBCV,2014,W,LIBR,521,,001,Contemporary Literature and Other Materials for Children,Judith Saltman,9,81.55555556,2.87711275,86.0,79.0,0,0,0,0,0,0,0,,,,0
+UBCV,2014,W,LIBR,521,,OVERALL,Contemporary Literature and Other Materials for Children,,9,81.55555556,2.87711275,86.0,79.0,0,0,0,0,0,0,0,,,,0
+UBCV,2014,W,LIBR,523,,002,Canadian Literature and other Materials for Children,Judith Saltman,11,83.81818182,2.891995222,88.0,80.0,0,0,0,0,0,0,0,0,7,4.0,0
+UBCV,2014,W,LIBR,523,,OVERALL,Canadian Literature and other Materials for Children,,11,83.81818182,2.891995222,88.0,80.0,0,0,0,0,0,0,0,0,7,4.0,0
+UBCV,2014,W,LIBR,527,,001,Services for Children,Judith Saltman,16,82.375,2.5,88.0,79.0,0,0,0,0,0,0,0,,11,,0
+UBCV,2014,W,LIBR,527,,OVERALL,Services for Children,,16,82.375,2.5,88.0,79.0,0,0,0,0,0,0,0,,11,,0
+UBCV,2014,W,LIBR,528,,002,Services for Young Adults,Eric Meyers,17,85.17647059,3.924845445,92.0,76.0,0,0,0,0,0,0,0,,7,7,
+UBCV,2014,W,LIBR,528,,OVERALL,Services for Young Adults,,17,85.17647059,3.924845445,92.0,76.0,0,0,0,0,0,0,0,,7,7,
+UBCV,2014,W,LIBR,529,,99C,Services for Families and Early Literacy in the Preschool Years,Allison Ruth Taylor Mcbryde,18,78.33333333,4.665265896,86.0,70.0,0,0,0,0,0,,,7,5,,0
+UBCV,2014,W,LIBR,529,,OVERALL,Services for Families and Early Literacy in the Preschool Years,,18,78.33333333,4.665265896,86.0,70.0,0,0,0,0,0,,,7,5,,0
+UBCV,2014,W,LIBR,534,,001,Health Information Sources and Services,Dean Giustini,15,86.2,1.521277659,88.0,83.0,0,0,0,0,0,0,0,0,1.0,14,0
+UBCV,2014,W,LIBR,534,,OVERALL,Health Information Sources and Services,,15,86.2,1.521277659,88.0,83.0,0,0,0,0,0,0,0,0,1.0,14,0
+UBCV,2014,W,LIBR,535,,002,Instructional Role of the Librarian,Eric Meyers;Millicent Mabi,33,85.0,3.596873642,90.0,76.0,0,0,0,0,0,0,0,,11,18,
+UBCV,2014,W,LIBR,535,,OVERALL,Instructional Role of the Librarian,,33,85.0,3.596873642,90.0,76.0,0,0,0,0,0,0,0,,11,18,
+UBCV,2014,W,LIBR,539,J,002,Specialized Materials,Luanne Freund,5,83.4,3.911521443,88.0,78.0,0,0,0,0,0,0,0,,,,0
+UBCV,2014,W,LIBR,539,J,OVERALL,Specialized Materials,,5,83.4,3.911521443,88.0,78.0,0,0,0,0,0,0,0,,,,0
+UBCV,2014,W,LIBR,539,L,001,Specialized Materials,Suzan Lee,6,79.0,7.348469228,88.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,LIBR,539,L,OVERALL,Specialized Materials,,6,79.0,7.348469228,88.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,LIBR,553,,002,Understanding Information Users in Diverse Environments,Heather O'Brien,24,83.91666667,3.888854382,88.0,68.0,0,0,0,0,0,,,,11,12,0
+UBCV,2014,W,LIBR,553,,OVERALL,Understanding Information Users in Diverse Environments,,24,83.91666667,3.888854382,88.0,68.0,0,0,0,0,0,,,,11,12,0
+UBCV,2014,W,LIBR,554,,002,Database Design,Richard Arias Hernandez,16,88.75,6.865372046,99.0,73.0,0,0,0,0,0,0,,,,,8
+UBCV,2014,W,LIBR,554,,OVERALL,Database Design,,16,88.75,6.865372046,99.0,73.0,0,0,0,0,0,0,,,,,8
+UBCV,2014,W,LIBR,555,,001,Information Design I - Systems,Richard Kopak,15,80.4,10.4867263,89.0,45.0,,,,,,,,,6,5,0
+UBCV,2014,W,LIBR,555,,OVERALL,Information Design I - Systems,,15,80.4,10.4867263,89.0,45.0,,,,,,,,,6,5,0
+UBCV,2014,W,LIBR,556,,002,Information Design II - Documents,Richard Kopak,19,80.2631579,17.18475457,89.0,10.0,,,,,,,,,10,8,0
+UBCV,2014,W,LIBR,556,,OVERALL,Information Design II - Documents,,19,80.2631579,17.18475457,89.0,10.0,,,,,,,,,10,8,0
+UBCV,2014,W,LIBR,557,,001,Information Retrieval Systems: Concepts and Practice,Mary Stephenson,21,86.71428571,1.146423008,89.0,85.0,0,0,0,0,0,0,0,0,0,21,0
+UBCV,2014,W,LIBR,557,,OVERALL,Information Retrieval Systems: Concepts and Practice,,21,86.71428571,1.146423008,89.0,85.0,0,0,0,0,0,0,0,0,0,21,0
+UBCV,2014,W,LIBR,559,B,001,Topics in Computer-Based Information Systems,Eric Meyers,8,87.0,2.927700219,90.0,81.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2014,W,LIBR,559,B,OVERALL,Topics in Computer-Based Information Systems,,8,87.0,2.927700219,90.0,81.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2014,W,LIBR,559,M,99A,Topics in Computer-Based Information Systems,Dean Giustini,17,82.35294118,2.667891875,85.0,75.0,0,0,0,0,0,0,,,11,,0
+UBCV,2014,W,LIBR,559,M,OVERALL,Topics in Computer-Based Information Systems,,17,82.35294118,2.667891875,85.0,75.0,0,0,0,0,0,0,,,11,,0
+UBCV,2014,W,LIBR,559,P,001,Topics in Computer-Based Information Systems,Colleen Bell,7,81.14285714,5.2734736,87.0,71.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,LIBR,559,P,OVERALL,Topics in Computer-Based Information Systems,,7,81.14285714,5.2734736,87.0,71.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,LIBR,559,Q,001,Topics in Computer-Based Information Systems,Kevin Stranack,13,86.76923077,3.11324713,92.0,80.0,0,0,0,0,0,0,0,0,,8,
+UBCV,2014,W,LIBR,559,Q,OVERALL,Topics in Computer-Based Information Systems,,13,86.76923077,3.11324713,92.0,80.0,0,0,0,0,0,0,0,0,,8,
+UBCV,2014,W,LIBR,559,R,002,Topics in Computer-Based Information Systems,Jessica Starr,5,91.8,1.788854382,93.0,89.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2014,W,LIBR,559,R,OVERALL,Topics in Computer-Based Information Systems,,5,91.8,1.788854382,93.0,89.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2014,W,LIBR,559,S,002,Topics in Computer-Based Information Systems,Eugene Barsky,16,83.9375,3.696281916,90.0,78.0,0,0,0,0,0,0,0,,9,5,
+UBCV,2014,W,LIBR,559,S,OVERALL,Topics in Computer-Based Information Systems,,16,83.9375,3.696281916,90.0,78.0,0,0,0,0,0,0,0,,9,5,
+UBCV,2014,W,LIBR,561,,002,Information Policy,Lisa Nathan,15,84.8,2.569046516,88.0,80.0,0,0,0,0,0,0,0,0,7,8,0
+UBCV,2014,W,LIBR,561,,OVERALL,Information Policy,,15,84.8,2.569046516,88.0,80.0,0,0,0,0,0,0,0,0,7,8,0
+UBCV,2014,W,LIBR,569,A,001,Current Issues and Trends in Library Services and Information Science,Lisa Nathan,10,84.5,2.798809271,88.0,79.0,0,0,0,0,0,0,0,,,8,0
+UBCV,2014,W,LIBR,569,A,OVERALL,Current Issues and Trends in Library Services and Information Science,,10,84.5,2.798809271,88.0,79.0,0,0,0,0,0,0,0,,,8,0
+UBCV,2014,W,LIBR,569,R,002,Current Issues and Trends in Library Services and Information Science,Heather O'Brien,9,89.88888889,0.927960727,91.0,89.0,0,0,0,0,0,0,0,0,0,4.0,5
+UBCV,2014,W,LIBR,569,R,OVERALL,Current Issues and Trends in Library Services and Information Science,,9,89.88888889,0.927960727,91.0,89.0,0,0,0,0,0,0,0,0,0,4.0,5
+UBCV,2014,W,LIBR,571,,002,Human Resources Management,Christine Middlemass;Marion Dawn Ibey,8,83.5,6.458659746,91.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2014,W,LIBR,571,,OVERALL,Human Resources Management,,8,83.5,6.458659746,91.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2014,W,LIBR,576,,001,Public Libraries,Anne Olsen;Baharak Yousefi,21,83.47619048,3.558357031,91.0,77.0,0,0,0,0,0,0,0,,13,,
+UBCV,2014,W,LIBR,576,,OVERALL,Public Libraries,,21,83.47619048,3.558357031,91.0,77.0,0,0,0,0,0,0,0,,13,,
+UBCV,2014,W,LIBR,578,,001,Planning and Design of Libraries,Heather O'Brien,19,84.36842105,1.920952493,88.0,82.0,0,0,0,0,0,0,0,0,14,5,0
+UBCV,2014,W,LIBR,578,,OVERALL,Planning and Design of Libraries,,19,84.36842105,1.920952493,88.0,82.0,0,0,0,0,0,0,0,0,14,5,0
+UBCV,2014,W,LIBR,579,J,002,Topics in the Management of Libraries and Archives,Annette Defaveri;Bethan Davies,23,81.65217391,4.206150212,90.0,74.0,0,0,0,0,0,0,,,9,7,
+UBCV,2014,W,LIBR,579,J,OVERALL,Topics in the Management of Libraries and Archives,,23,81.65217391,4.206150212,90.0,74.0,0,0,0,0,0,0,,,9,7,
+UBCV,2014,W,LIBR,580,,001,Collection Management,Heather O'Brien,24,85.5,1.318760947,87.0,83.0,0,0,0,0,0,0,0,0,5,19,0
+UBCV,2014,W,LIBR,580,,OVERALL,Collection Management,,24,85.5,1.318760947,87.0,83.0,0,0,0,0,0,0,0,0,5,19,0
+UBCV,2014,W,LIBR,581,,001,Digital Libraries,Richard Arias Hernandez,22,84.04545455,5.367248765,94.0,73.0,0,0,0,0,0,0,,,9,6,
+UBCV,2014,W,LIBR,581,,OVERALL,Digital Libraries,,22,84.04545455,5.367248765,94.0,73.0,0,0,0,0,0,0,,,9,6,
+UBCV,2014,W,LIBR,582,,002,Digital Image and Text Collections,Richard Arias Hernandez,25,91.6,4.725815626,98.0,79.0,0,0,0,0,0,0,0,,,7,16
+UBCV,2014,W,LIBR,582,,OVERALL,Digital Image and Text Collections,,25,91.6,4.725815626,98.0,79.0,0,0,0,0,0,0,0,,,7,16
+UBCV,2014,W,LIBR,587,,002,Preservation,Sabina Sutherland,14,79.57142857,4.501525993,86.0,70.0,0,0,0,0,0,,,,6,,0
+UBCV,2014,W,LIBR,587,,OVERALL,Preservation,,14,79.57142857,4.501525993,86.0,70.0,0,0,0,0,0,,,,6,,0
+UBCV,2014,W,LIBR,593,D,001,Seminar,,6,87.0,0.0,87.0,87.0,0,0,0,0,0,0,0,0,0,6,0
+UBCV,2014,W,LIBR,593,D,OVERALL,Seminar,,9,87.0,0.0,87.0,87.0,0,0,0,0,0,0,0,0,0,9,0
+UBCV,2014,W,LIBR,594,,OVERALL,Directed Study,,7,85.0,7.659416862,100.0,75.0,0,0,0,0,0,0,,,,,

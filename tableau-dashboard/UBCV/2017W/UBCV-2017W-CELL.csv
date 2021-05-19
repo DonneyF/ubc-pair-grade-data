@@ -1,15 +1,13 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,CELL,501,,001,Cell and Developmental Biology Research Literature,Christopher Loewen;Douglas Allan;Shernaz Bamji,17,89.70588235299999,2.888873177,93.0,83.0,,,,,,,,,,7,9
-UBCV,2017,W,CELL,501,,OVERALL,Cell and Developmental Biology Research Literature,,17,89.70588235299999,2.888873177,93.0,83.0,,,,,,,,,,7,9
-UBCV,2017,W,CELL,503,,001,Current Topics in Cellular Communication,Calvin Roskelley,6,85.166666667,4.44597196,90.0,77.0,,,,,,,,,,,
-UBCV,2017,W,CELL,503,,OVERALL,Current Topics in Cellular Communication,,6,85.166666667,4.44597196,90.0,77.0,,,,,,,,,,,
-UBCV,2017,W,CELL,504,,001,Current Topics in Cytoskeleton and Cell Motility,Hakima Moukhles,7,90.714285714,3.638419332,95.0,85.0,,,,,,,,,,,5
-UBCV,2017,W,CELL,504,,OVERALL,Current Topics in Cytoskeleton and Cell Motility,,7,90.714285714,3.638419332,95.0,85.0,,,,,,,,,,,5
-UBCV,2017,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi,6,89.833333333,2.4013884869999997,92.0,86.0,,,,,,,,,,,
-UBCV,2017,W,CELL,505,,OVERALL,Current Topics in Intracellular Trafficking,,6,89.833333333,2.4013884869999997,92.0,86.0,,,,,,,,,,,
-UBCV,2017,W,CELL,506,,001,Fluorescence Microscopy,Kurt Haas,10,92.9,1.663329993,95.0,90.0,,,,,,,,,,,10
-UBCV,2017,W,CELL,506,,OVERALL,Fluorescence Microscopy,,10,92.9,1.663329993,95.0,90.0,,,,,,,,,,,10
-UBCV,2017,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,9,89.0,2.692582404,92.0,84.0,,,,,,,,,,,5
-UBCV,2017,W,CELL,507,,OVERALL,Special Techniques and Protocols in Cell and Developmental Biology,,9,89.0,2.692582404,92.0,84.0,,,,,,,,,,,5
-UBCV,2017,W,CELL,509,,001,Cell Systems Biology,Guy Tanentzapf,5,89.4,1.673320053,92.0,88.0,,,,,,,,,,,
-UBCV,2017,W,CELL,509,,OVERALL,Cell Systems Biology,,5,89.4,1.673320053,92.0,88.0,,,,,,,,,,,
+UBCV,2017,W,CELL,501,,001,Cell and Developmental Biology Research Literature,Christopher Loewen;Douglas Allan;Shernaz Bamji,17,89.70588235,2.888873177,93.0,83.0,0,0,0,0,0,0,0,0,1,7,9
+UBCV,2017,W,CELL,501,,OVERALL,Cell and Developmental Biology Research Literature,,17,89.70588235,2.888873177,93.0,83.0,0,0,0,0,0,0,0,0,1,7,9
+UBCV,2017,W,CELL,503,,001,Current Topics in Cellular Communication,Calvin Roskelley,6,85.16666667,4.44597196,90.0,77.0,0,0,0,0,0,0,0,1,1,3,1
+UBCV,2017,W,CELL,503,,OVERALL,Current Topics in Cellular Communication,,6,85.16666667,4.44597196,90.0,77.0,0,0,0,0,0,0,0,1,1,3,1
+UBCV,2017,W,CELL,504,,001,Current Topics in Cytoskeleton and Cell Motility,Hakima Moukhles,7,90.71428571,3.638419332,95.0,85.0,0,0,0,0,0,0,0,0,0,2,5
+UBCV,2017,W,CELL,504,,OVERALL,Current Topics in Cytoskeleton and Cell Motility,,7,90.71428571,3.638419332,95.0,85.0,0,0,0,0,0,0,0,0,0,2,5
+UBCV,2017,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi,6,89.83333333,2.401388487,92.0,86.0,0,0,0,0,0,0,0,0,0,2,4
+UBCV,2017,W,CELL,505,,OVERALL,Current Topics in Intracellular Trafficking,,6,89.83333333,2.401388487,92.0,86.0,0,0,0,0,0,0,0,0,0,2,4
+UBCV,2017,W,CELL,506,,001,Fluorescence Microscopy,Kurt Haas,10,92.9,1.663329993,95.0,90.0,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2017,W,CELL,506,,OVERALL,Fluorescence Microscopy,,10,92.9,1.663329993,95.0,90.0,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2017,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,9,89.0,2.692582404,92.0,84.0,0,0,0,0,0,0,0,0,1,3,5
+UBCV,2017,W,CELL,507,,OVERALL,Special Techniques and Protocols in Cell and Developmental Biology,,9,89.0,2.692582404,92.0,84.0,0,0,0,0,0,0,0,0,1,3,5

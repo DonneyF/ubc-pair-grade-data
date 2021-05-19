@@ -1,31 +1,31 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,RMES,500,A,101,Resource and Environmental Workshop,Mark Johnson,9,85.0,1.732050808,87.0,81.0,,,,,,,,,,7,
-UBCV,2014,W,RMES,500,A,OVERALL,Resource and Environmental Workshop,,9,85.0,1.732050808,87.0,81.0,,,,,,,,,,7,
-UBCV,2014,W,RMES,500,B,OVERALL,Resource and Environmental Workshop,,5,87.2,3.898717738,94.0,85.0,,,,,,,,,,,
-UBCV,2014,W,RMES,500,N,201,Resource and Environmental Workshop,Jiaying Zhao,11,90.63636364,5.045249791,96.0,81.0,,,,,,,,,,,8
-UBCV,2014,W,RMES,500,N,OVERALL,Resource and Environmental Workshop,,11,90.63636364,5.045249791,96.0,81.0,,,,,,,,,,,8
-UBCV,2014,W,RMES,500,T,201,Resource and Environmental Workshop,Navin Ramankutty,11,85.72727273,3.289100457,91.0,81.0,,,,,,,,,,6,
-UBCV,2014,W,RMES,500,T,OVERALL,Resource and Environmental Workshop,,11,85.72727273,3.289100457,91.0,81.0,,,,,,,,,,6,
+UBCV,2014,W,RMES,500,A,101,Resource and Environmental Workshop,Mark Johnson,9,85.0,1.732050808,87.0,81.0,0,0,0,0,0,0,0,0,2.0,7,0
+UBCV,2014,W,RMES,500,A,OVERALL,Resource and Environmental Workshop,,9,85.0,1.732050808,87.0,81.0,0,0,0,0,0,0,0,0,2.0,7,0
+UBCV,2014,W,RMES,500,B,OVERALL,Resource and Environmental Workshop,,5,87.2,3.898717738,94.0,85.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2014,W,RMES,500,N,201,Resource and Environmental Workshop,Jiaying Zhao,11,90.63636364,5.045249791,96.0,81.0,0,0,0,0,0,0,0,0,,,8
+UBCV,2014,W,RMES,500,N,OVERALL,Resource and Environmental Workshop,,11,90.63636364,5.045249791,96.0,81.0,0,0,0,0,0,0,0,0,,,8
+UBCV,2014,W,RMES,500,T,201,Resource and Environmental Workshop,Navin Ramankutty,11,85.72727273,3.289100457,91.0,81.0,0,0,0,0,0,0,0,0,,6,
+UBCV,2014,W,RMES,500,T,OVERALL,Resource and Environmental Workshop,,11,85.72727273,3.289100457,91.0,81.0,0,0,0,0,0,0,0,0,,6,
 UBCV,2014,W,RMES,500,X,201,Resource and Environmental Workshop,Leila Harris,10,78.9,27.89046034,93.0,0.0,,,,,,,,,,5,
 UBCV,2014,W,RMES,500,X,OVERALL,Resource and Environmental Workshop,,10,78.9,27.89046034,93.0,0.0,,,,,,,,,,5,
-UBCV,2014,W,RMES,501,,101,Development of Environmental Thought,John Robinson,22,83.86363636,2.642067274,90.0,80.0,,,,,,,,,11,10,
-UBCV,2014,W,RMES,501,,OVERALL,Development of Environmental Thought,,22,83.86363636,2.642067274,90.0,80.0,,,,,,,,,11,10,
-UBCV,2014,W,RMES,502,,201,Seminar on Resources and Environment,Gunilla Oberg,9,87.33333333,2.236067977,90.0,83.0,,,,,,,,,,6,
-UBCV,2014,W,RMES,502,,202,Seminar on Resources and Environment,Hadi Dowlatabadi,9,87.44444444,2.00693243,90.0,85.0,,,,,,,,,,7,
-UBCV,2014,W,RMES,502,,OVERALL,Seminar on Resources and Environment,,18,87.38888889,2.061949075,90.0,83.0,,,,,,,,,,13,
-UBCV,2014,W,RMES,505,,101,Qualitative Methods in Interdisciplinary Contexts,Hannah Wittman,10,86.5,5.275730597,96.0,80.0,,,,,,,,,5,,
-UBCV,2014,W,RMES,505,,OVERALL,Qualitative Methods in Interdisciplinary Contexts,,10,86.5,5.275730597,96.0,80.0,,,,,,,,,5,,
-UBCV,2014,W,RMES,507,,101,Human Technological Systems,Stephanie Chang,6,87.66666667,5.3913510979999995,93.0,78.0,,,,,,,,,,,
-UBCV,2014,W,RMES,507,,OVERALL,Human Technological Systems,,6,87.66666667,5.3913510979999995,93.0,78.0,,,,,,,,,,,
-UBCV,2014,W,RMES,508,,101,Ecosystem Services,Kai Chan,11,83.90909091,6.625021441,91.0,68.0,,,,,,,,,,,
-UBCV,2014,W,RMES,508,,OVERALL,Ecosystem Services,,11,83.90909091,6.625021441,91.0,68.0,,,,,,,,,,,
-UBCV,2014,W,RMES,510,,101,Social Ecological Systems,Kai Chan,14,87.07142857,4.44564239,92.0,78.0,,,,,,,,,,6,5
-UBCV,2014,W,RMES,510,,OVERALL,Social Ecological Systems,,14,87.07142857,4.44564239,92.0,78.0,,,,,,,,,,6,5
-UBCV,2014,W,RMES,515,,201,Integrated Watershed Management,Hanspeter Schreier;Sandra Brown,13,76.38461539,6.61486283,88.0,68.0,,,,,,,,,,,
-UBCV,2014,W,RMES,515,,OVERALL,Integrated Watershed Management,,13,76.38461539,6.61486283,88.0,68.0,,,,,,,,,,,
-UBCV,2014,W,RMES,518,,201,Water in International Development,Hanspeter Schreier,8,78.625,5.012484413999999,86.0,71.0,,,,,,,,,,,
-UBCV,2014,W,RMES,518,,OVERALL,Water in International Development,,8,78.625,5.012484413999999,86.0,71.0,,,,,,,,,,,
-UBCV,2014,W,RMES,520,,201,"Climate Change: Science, Technology and Sustainable Development",Hisham Zerriffi,10,89.2,1.032795559,90.0,88.0,,,,,,,,,,,6
-UBCV,2014,W,RMES,520,,OVERALL,"Climate Change: Science, Technology and Sustainable Development",,10,89.2,1.032795559,90.0,88.0,,,,,,,,,,,6
-UBCV,2014,W,RMES,550,,101,Environmental Policy Analysis,Hadi Dowlatabadi,17,88.47058824,2.9605245960000004,92.0,82.0,,,,,,,,,,9,6
-UBCV,2014,W,RMES,550,,OVERALL,Environmental Policy Analysis,,17,88.47058824,2.9605245960000004,92.0,82.0,,,,,,,,,,9,6
+UBCV,2014,W,RMES,501,,101,Development of Environmental Thought,John Robinson,22,83.86363636,2.642067274,90.0,80.0,0,0,0,0,0,0,0,0,11,10,1.0
+UBCV,2014,W,RMES,501,,OVERALL,Development of Environmental Thought,,22,83.86363636,2.642067274,90.0,80.0,0,0,0,0,0,0,0,0,11,10,1.0
+UBCV,2014,W,RMES,502,,201,Seminar on Resources and Environment,Gunilla Oberg,9,87.33333333,2.236067977,90.0,83.0,0,0,0,0,0,0,0,0,,6,
+UBCV,2014,W,RMES,502,,202,Seminar on Resources and Environment,Hadi Dowlatabadi,9,87.44444444,2.00693243,90.0,85.0,0,0,0,0,0,0,0,0,0,7,2.0
+UBCV,2014,W,RMES,502,,OVERALL,Seminar on Resources and Environment,,18,87.38888889,2.061949075,90.0,83.0,0,0,0,0,0,0,0,0,,13,
+UBCV,2014,W,RMES,505,,101,Qualitative Methods in Interdisciplinary Contexts,Hannah Wittman,10,86.5,5.275730597,96.0,80.0,0,0,0,0,0,0,0,0,5,,
+UBCV,2014,W,RMES,505,,OVERALL,Qualitative Methods in Interdisciplinary Contexts,,10,86.5,5.275730597,96.0,80.0,0,0,0,0,0,0,0,0,5,,
+UBCV,2014,W,RMES,507,,101,Human Technological Systems,Stephanie Chang,6,87.66666667,5.391351098,93.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,RMES,507,,OVERALL,Human Technological Systems,,6,87.66666667,5.391351098,93.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,RMES,508,,101,Ecosystem Services,Kai Chan,11,83.90909091,6.625021441,91.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2014,W,RMES,508,,OVERALL,Ecosystem Services,,11,83.90909091,6.625021441,91.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2014,W,RMES,510,,101,Social Ecological Systems,Kai Chan,14,87.07142857,4.44564239,92.0,78.0,0,0,0,0,0,0,0,,,6,5
+UBCV,2014,W,RMES,510,,OVERALL,Social Ecological Systems,,14,87.07142857,4.44564239,92.0,78.0,0,0,0,0,0,0,0,,,6,5
+UBCV,2014,W,RMES,515,,201,Integrated Watershed Management,Hanspeter Schreier;Sandra Brown,13,76.38461539,6.61486283,88.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,RMES,515,,OVERALL,Integrated Watershed Management,,13,76.38461539,6.61486283,88.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,RMES,518,,201,Water in International Development,Hanspeter Schreier,8,78.625,5.012484414,86.0,71.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,RMES,518,,OVERALL,Water in International Development,,8,78.625,5.012484414,86.0,71.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,RMES,520,,201,"Climate Change: Science, Technology and Sustainable Development",Hisham Zerriffi,10,89.2,1.032795559,90.0,88.0,0,0,0,0,0,0,0,0,0,4.0,6
+UBCV,2014,W,RMES,520,,OVERALL,"Climate Change: Science, Technology and Sustainable Development",,10,89.2,1.032795559,90.0,88.0,0,0,0,0,0,0,0,0,0,4.0,6
+UBCV,2014,W,RMES,550,,101,Environmental Policy Analysis,Hadi Dowlatabadi,17,88.47058824,2.960524596,92.0,82.0,0,0,0,0,0,0,0,0,2.0,9,6
+UBCV,2014,W,RMES,550,,OVERALL,Environmental Policy Analysis,,17,88.47058824,2.960524596,92.0,82.0,0,0,0,0,0,0,0,0,2.0,9,6

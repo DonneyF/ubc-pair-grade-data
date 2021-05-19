@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite;James Simonite,46,83.586956522,2.490658877,91.0,79.0,,,,,,,,,33,10,
-UBCV,2015,W,BAEN,502,,OVERALL,Growing and Exiting a Venture,,46,83.586956522,2.490658877,91.0,79.0,,,,,,,,,33,10,
-UBCV,2015,W,BAEN,505,,001,Entrepreneurial Finance,Ricardo Caparas;Ricardo Jose Caparas;Richard Mackellar,29,78.965517241,6.9973605160000005,90.0,57.0,,,,,,,,6,12,,
-UBCV,2015,W,BAEN,505,,OVERALL,Entrepreneurial Finance,,29,78.965517241,6.9973605160000005,90.0,57.0,,,,,,,,6,12,,
-UBCV,2015,W,BAEN,506,,001,Technology Entrepreneurship,David Miller;Paul Cubbon;Tamara Etmannski,57,82.631578947,3.265794472,88.0,76.0,,,,,,,,11,27,19,
-UBCV,2015,W,BAEN,506,,OVERALL,Technology Entrepreneurship,,57,82.631578947,3.265794472,88.0,76.0,,,,,,,,11,27,19,
-UBCV,2015,W,BAEN,510,,001,Intrapreneurship,James Blair Simonite,18,85.5,3.666221007,94.0,80.0,,,,,,,,,6,9,
-UBCV,2015,W,BAEN,510,,OVERALL,Intrapreneurship,,18,85.5,3.666221007,94.0,80.0,,,,,,,,,6,9,
+UBCV,2015,W,BAEN,502,,001,Growing and Exiting a Venture,James Blair Simonite;James Simonite,46,83.586956522,2.490658877,91.0,79.0,0,0,0,0,0,0,0,,33,10,
+UBCV,2015,W,BAEN,502,,OVERALL,Growing and Exiting a Venture,,46,83.586956522,2.490658877,91.0,79.0,0,0,0,0,0,0,0,,33,10,
+UBCV,2015,W,BAEN,505,,001,Entrepreneurial Finance,Ricardo Caparas;Ricardo Jose Caparas;Richard Mackellar,29,78.965517241,6.997360516,90.0,57.0,0,0,,,,,,6,12,,
+UBCV,2015,W,BAEN,505,,OVERALL,Entrepreneurial Finance,,29,78.965517241,6.997360516,90.0,57.0,0,0,,,,,,6,12,,
+UBCV,2015,W,BAEN,506,,001,Technology Entrepreneurship,David Miller;Paul Cubbon;Tamara Etmannski,57,82.631578947,3.265794472,88.0,76.0,0,0,0,0,0,0,0,11,27,19,0
+UBCV,2015,W,BAEN,506,,OVERALL,Technology Entrepreneurship,,57,82.631578947,3.265794472,88.0,76.0,0,0,0,0,0,0,0,11,27,19,0
+UBCV,2015,W,BAEN,510,,001,Intrapreneurship,James Blair Simonite,18,85.5,3.666221007,94.0,80.0,0,0,0,0,0,0,0,0,6,9,3.0
+UBCV,2015,W,BAEN,510,,OVERALL,Intrapreneurship,,18,85.5,3.666221007,94.0,80.0,0,0,0,0,0,0,0,0,6,9,3.0
 UBCV,2015,W,BAEN,541,,001,Innovation and Entrepreneurship,Paul Cubbon,28,80.75,9.244117248,91.0,37.0,,,,,,,,2,20,2,
-UBCV,2015,W,BAEN,541,,002,Innovation and Entrepreneurship,Paul Cubbon,35,81.8,4.739074122,95.0,74.0,,,,,,,,9,15,7,
+UBCV,2015,W,BAEN,541,,002,Innovation and Entrepreneurship,Paul Cubbon,35,81.8,4.739074122,95.0,74.0,0,0,0,0,0,0,,9,15,7,
 UBCV,2015,W,BAEN,541,,OVERALL,Innovation and Entrepreneurship,,63,81.333333333,7.057368604,95.0,37.0,,,,,,,,11,35,9,
-UBCV,2015,W,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Devyani Singh;Tamara Etmannski,46,82.47826087,2.238443213,86.0,78.0,,,,,,,,6,30,10,
-UBCV,2015,W,BAEN,550,,OVERALL,Fundamentals in Entrepreneurship,,46,82.47826087,2.238443213,86.0,78.0,,,,,,,,6,30,10,
-UBCV,2015,W,BAEN,580,A,001,Topics in Entrepreneurship,Tamar Milne,26,82.153846154,4.115262399,91.0,67.0,,,,,,,,,20,,
-UBCV,2015,W,BAEN,580,A,OVERALL,Topics in Entrepreneurship,,26,82.153846154,4.115262399,91.0,67.0,,,,,,,,,20,,
-UBCV,2015,W,BAEN,580,C,001,Topics in Entrepreneurship,Tamara Etmannski,20,83.3,4.635106312,92.0,73.0,,,,,,,,,8,,
-UBCV,2015,W,BAEN,580,C,OVERALL,Topics in Entrepreneurship,,20,83.3,4.635106312,92.0,73.0,,,,,,,,,8,,
+UBCV,2015,W,BAEN,550,,MM1,Fundamentals in Entrepreneurship,Devyani Singh;Tamara Etmannski,46,82.47826087,2.238443213,86.0,78.0,0,0,0,0,0,0,0,6,30,10,0
+UBCV,2015,W,BAEN,550,,OVERALL,Fundamentals in Entrepreneurship,,46,82.47826087,2.238443213,86.0,78.0,0,0,0,0,0,0,0,6,30,10,0
+UBCV,2015,W,BAEN,580,A,001,Topics in Entrepreneurship,Tamar Milne,26,82.153846154,4.115262399,91.0,67.0,0,0,0,0,,,,,20,,
+UBCV,2015,W,BAEN,580,A,OVERALL,Topics in Entrepreneurship,,26,82.153846154,4.115262399,91.0,67.0,0,0,0,0,,,,,20,,
+UBCV,2015,W,BAEN,580,C,001,Topics in Entrepreneurship,Tamara Etmannski,20,83.3,4.635106312,92.0,73.0,0,0,0,0,0,0,,,8,,
+UBCV,2015,W,BAEN,580,C,OVERALL,Topics in Entrepreneurship,,20,83.3,4.635106312,92.0,73.0,0,0,0,0,0,0,,,8,,

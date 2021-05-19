@@ -1,15 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,29,83.310344828,8.775385414,96.0,62.0,,,,,,,,,7,5,8
-UBCV,2016,S,FRST,231,,OVERALL,Introduction to Biometrics,,30,82.966666667,8.825837201,96.0,62.0,,,,,,,5,,7,5,8
-UBCV,2016,S,FRST,308,,GIS,Forest Entomology,Rolando C Descalzo;Rolando Descalzo,6,78.833333333,12.967909109,93.0,56.0,,,,,,,,,,,
-UBCV,2016,S,FRST,308,,OVERALL,Forest Entomology,,6,78.833333333,12.967909109,93.0,56.0,,,,,,,,,,,
-UBCV,2016,S,FRST,309,,GIS,Forest Pathology,Michelle Cleary;Rolando C Descalzo;Rolando Descalzo,5,84.4,5.272570531,93.0,79.0,,,,,,,,,,,
-UBCV,2016,S,FRST,309,,OVERALL,Forest Pathology,,5,84.4,5.272570531,93.0,79.0,,,,,,,,,,,
-UBCV,2016,S,FRST,319,,GIS,Principles of Forestry Economics,Christopher Gaston,5,90.0,6.745368782000001,97.0,81.0,,,,,,,,,,,
-UBCV,2016,S,FRST,319,,OVERALL,Principles of Forestry Economics,,5,90.0,6.745368782000001,97.0,81.0,,,,,,,,,,,
-UBCV,2016,S,FRST,504,,921,Landscape Ecology,Sarah Gergel,5,88.2,1.923538406,90.0,85.0,,,,,,,,,,,
-UBCV,2016,S,FRST,504,,OVERALL,Landscape Ecology,,5,88.2,1.923538406,90.0,85.0,,,,,,,,,,,
-UBCV,2016,S,FRST,526,C,922,Directed Studies in Forests and Society,Joleen Timko,8,100.0,0.0,100.0,100.0,,,,,,,,,,,8
-UBCV,2016,S,FRST,526,C,OVERALL,Directed Studies in Forests and Society,,11,98.181818182,4.045199175,100.0,90.0,,,,,,,,,,,11
-UBCV,2016,S,FRST,555,,101,Fundamentals of Sustainable Forest Land Management,Deborah De Long;Stephen Jarvis Mitchell,20,92.3,2.577228213,96.0,89.0,,,,,,,,,,,17
-UBCV,2016,S,FRST,555,,OVERALL,Fundamentals of Sustainable Forest Land Management,,20,92.3,2.577228213,96.0,89.0,,,,,,,,,,,17
+UBCV,2016,S,FRST,231,,98A,Introduction to Biometrics,Suborna Ahmed;Suborna Shekhor Ahmed,29,83.31034483,8.775385414,96.0,62.0,0,0,0,1,0.0,2,4,2,7,5,8
+UBCV,2016,S,FRST,231,,OVERALL,Introduction to Biometrics,,30,82.96666667,8.825837201,96.0,62.0,0,0,0,1,0.0,2,5,2,7,5,8
+UBCV,2016,S,FRST,308,,GIS,Forest Entomology,Rolando C Descalzo;Rolando Descalzo,6,78.83333333,12.96790911,93.0,56.0,0,0,1,0,0.0,0,1,0,2,1,1
+UBCV,2016,S,FRST,308,,OVERALL,Forest Entomology,,6,78.83333333,12.96790911,93.0,56.0,0,0,1,0,0.0,0,1,0,2,1,1
+UBCV,2016,S,FRST,526,C,922,Directed Studies in Forests and Society,Joleen Timko,8,100.0,0.0,100.0,100.0,0,0,0,0,0.0,0,0,0,0,0,8
+UBCV,2016,S,FRST,526,C,OVERALL,Directed Studies in Forests and Society,,11,98.18181818,4.045199175,100.0,90.0,0,0,0,0,0.0,0,0,0,0,0,11
+UBCV,2016,S,FRST,555,,101,Fundamentals of Sustainable Forest Land Management,Deborah De Long;Stephen Jarvis Mitchell,20,92.3,2.577228213,96.0,89.0,0,0,0,0,0.0,0,0,0,0,3,17
+UBCV,2016,S,FRST,555,,OVERALL,Fundamentals of Sustainable Forest Land Management,,20,92.3,2.577228213,96.0,89.0,0,0,0,0,0.0,0,0,0,0,3,17

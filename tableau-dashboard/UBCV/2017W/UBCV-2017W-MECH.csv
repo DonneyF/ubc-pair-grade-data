@@ -1,178 +1,174 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,MECH,220,,101,Technical Skills Practicum,Agnes D'Entremont;Ali Pourzahedi;Alondra Perla Renteria Ruiz;Alondra Renteria Ruiz;Carly Ellen Jones;Carly Jones;Cristopher Jesus Cortes Sanchez;George Rawlings;Hamideh Torabigoudarzi;Iftikhar Azam;Juan Abello Rubio;Leia Shum;Markus Fengler;Somesh Bhatia;Yi Jui Lee,128,81.09375,5.740363372999999,91.0,59.0,,,,,,,12,26,44,36,
-UBCV,2017,W,MECH,220,,OVERALL,Technical Skills Practicum,,128,81.09375,5.740363372999999,91.0,59.0,,,,,,,12,26,44,36,
-UBCV,2017,W,MECH,221,,101,Engineering Science I,Agnes D'Entremont;Ali Cherom Kheirabadi;Anis Umi Saadah Binti Othman;Arash Nikzad;Baharan Pourahmadi-Meibodi;Carly Ellen Jones;Carly Jones;Gary Schajer;Graham Hendra;Hatef Rahmani;Kelsey Mcgivern;Kirsten Galea;Madhumanti Mandal;Mahsa Keyvani;Masoud Haghi Kashani;Mohammad Shanb Ghazani;Mojtaba Mansouri Arani;Patrick Walls;Ratul Das;Robin Turner;Sayed Mohammad Hashem Jayhooni;Somesh Bhatia;Sonia Taylor;Su Wang;Vahid Nasir;Warren Poole,133,73.721804511,10.120002233,98.0,41.0,5,,,8,10,22,33,19,20,,14
-UBCV,2017,W,MECH,221,,OVERALL,Engineering Science I,,133,73.721804511,10.120002233,98.0,41.0,5,,,8,10,22,33,19,20,,14
-UBCV,2017,W,MECH,222,,201,Engineering Science II,Agnes D'Entremont;Ali Pourzahedi;Alireza Sarraf Shirazi;Alondra Perla Renteria Ruiz;Alondra Renteria Ruiz;Amir Farzad Forughi;Arash Nikzad;Carly Ellen Jones;Carly Jones;Christopher Brian Mckesson;Christopher Mckesson;Hamideh Torabigoudarzi;Hatef Rahmani;Masoud Haghi Kashani;Mohammad Shanb Ghazani;Nima Atabaki;Patrick Walls;Sayed Mohammad Hashem Jayhooni;Somesh Bhatia;Sonia Taylor,129,77.139534884,9.720905457,99.0,46.0,,,,7,12,12,14,19,35,11,15
-UBCV,2017,W,MECH,222,,OVERALL,Engineering Science II,,129,77.139534884,9.720905457,99.0,46.0,,,,7,12,12,14,19,35,11,15
-UBCV,2017,W,MECH,223,,201,Introduction to the Mechanical Design Process,Agnes D'Entremont;Graham Hendra;Graham Ronald Rupert Hendra;Kelsey Brianna Mcgivern;Kelsey Mcgivern;M'Beth Schoenfeld;Mahsa Khalili;Markus Fengler;Oliver Jason Terry;Oliver Terry;Peter Ostafichuk;Sonia Ruth Taylor;Sonia Taylor;Una Trivanovic;Yi Jui Lee,129,74.635658915,11.208909670999999,96.0,39.0,5,8,,,,10,14,33,36,8,7
-UBCV,2017,W,MECH,223,,OVERALL,Introduction to the Mechanical Design Process,,129,74.635658915,11.208909670999999,96.0,39.0,5,8,,,,10,14,33,36,8,7
-UBCV,2017,W,MECH,224,,1AB,Integration of Engineering Concepts I,Agnes D'Entremont;Carly Ellen Jones;Carly Jones;Hatef Rahmani;Mohammad Shanb Ghazani;Nikoo Rahimzadeh Hanachi,66,74.348484848,12.05818257,98.0,38.0,,,,,,10,14,12,9,,10
-UBCV,2017,W,MECH,224,,1CD,Integration of Engineering Concepts I,Agnes D'Entremont;Carly Ellen Jones;Carly Jones;Hatef Rahmani;Mohammad Shanb Ghazani;Nikoo Rahimzadeh Hanachi,67,68.358208955,13.819947696,94.0,37.0,12,,,,5,9,18,6,9,,
-UBCV,2017,W,MECH,224,,1RM,Integration of Engineering Concepts I,Agnes D'Entremont;Carly Ellen Jones;Carly Jones;Hatef Rahmani;Mohammad Shanb Ghazani;Nikoo Rahimzadeh Hanachi,5,62.2,2.48997992,64.0,58.0,,,,,,0,0,0,0,,
-UBCV,2017,W,MECH,224,,OVERALL,Integration of Engineering Concepts I,,139,70.920863309,13.131478247999999,98.0,37.0,16,,,8,10,19,32,18,18,,14
-UBCV,2017,W,MECH,225,,2AB,Integration of Engineering Concepts II,Agnes D'Entremont,64,77.515625,10.232212111,99.0,46.0,,,,,5,7,9,11,16,3,10
-UBCV,2017,W,MECH,225,,2CD,Integration of Engineering Concepts II,Agnes D'Entremont,65,75.523076923,11.954480975,97.0,39.0,,,,,7,4,5,8,19,8,5
-UBCV,2017,W,MECH,225,,OVERALL,Integration of Engineering Concepts II,,133,75.969924812,11.406364417999999,99.0,39.0,6,,,6,12,11,14,19,35,11,15
-UBCV,2017,W,MECH,226,,001,Technical Communication for Mechanical Engineers,Adrianna Eyking;Agnes D'Entremont;Khashina Tonks-Turcotte;Kui Pan;Md Amin Mahmud;Somesh Bhatia;Tatiana Teslenko;Vanessa Aragona,115,81.052173913,4.637458995,94.0,68.0,,,,,,,9,26,51,22,
-UBCV,2017,W,MECH,226,,OVERALL,Technical Communication for Mechanical Engineers,,115,81.052173913,4.637458995,94.0,68.0,,,,,,,9,26,51,22,
-UBCV,2017,W,MECH,260,,101,Introduction to Mechanics of Materials,Kui Pan;Masoud Hejazi;Srikantha Anasavarapu,112,59.464285714,15.564413425,95.0,0.0,16,11,18,17,16,15,12,3,0,,
-UBCV,2017,W,MECH,260,,102,Introduction to Mechanics of Materials,Clarence Wilfred De Silva;Swapna Premasiri;Zhuo Chen,124,60.10483871,14.080961343,93.0,19.0,22,24,7,21,11,10,10,8,9,,
-UBCV,2017,W,MECH,260,,OVERALL,Introduction to Mechanics of Materials,,236,59.800847458,14.775142989,95.0,0.0,38,35,25,38,27,25,22,11,9,,
-UBCV,2017,W,MECH,280,,201,Introduction to Fluid Mechanics,Emad Chaparian;Ian Frigaard;Parisa Sarmadi,67,76.656716418,14.087983530999999,96.0,27.0,,,,,,7,10,12,8,10,10
-UBCV,2017,W,MECH,280,,OVERALL,Introduction to Fluid Mechanics,,67,76.656716418,14.087983530999999,96.0,27.0,,,,,,7,10,12,8,10,10
-UBCV,2017,W,MECH,305,,201,Data Analysis and Mechanical Engineering Laboratories,Alireza Sarraf Shirazi;Allan Walsh;Amirsalar Heydari Haratameh;Arash Nikzad;Charles Karassowitsch;Cristopher Jesus Cortes Sanchez;Gary Schajer;Hamideh Torabigoudarzi;Harsh Pokharna;Hatef Rahmani;Hooman Esfandiari;Jeremy Rochussen;Mohammad Shanb Ghazani;Ratul Das;Sina Nezafatkhah;Steven Rogak;Vahid Nasir,102,78.931372549,10.291070631,99.0,35.0,,,,,,8,9,18,30,25,6
-UBCV,2017,W,MECH,305,,OVERALL,Data Analysis and Mechanical Engineering Laboratories,,102,78.931372549,10.291070631,99.0,35.0,,,,,,8,9,18,30,25,6
-UBCV,2017,W,MECH,306,,201,Data Analysis and Mechatronics Laboratories,Alireza Sarraf Shirazi;Allan Walsh;Amirsalar Heydari Haratameh;Arash Nikzad;Charles Karassowitsch;Cristopher Jesus Cortes Sanchez;Gary Schajer;Hamideh Torabigoudarzi;Harsh Pokharna;Hatef Rahmani;Hooman Esfandiari;Jeremy Rochussen;Mohammad Shanb Ghazani;Ratul Das;Sina Nezafatkhah;Steven Rogak;Vahid Nasir,30,82.633333333,8.100588882,97.0,61.0,,,,,,,,5,7,5,8
-UBCV,2017,W,MECH,306,,OVERALL,Data Analysis and Mechatronics Laboratories,,30,82.633333333,8.100588882,97.0,61.0,,,,,,,,5,7,5,8
-UBCV,2017,W,MECH,325,,101,Mechanical Design I,. Manav;Abbas Hosseini;Ali Etrati;Cristopher Jesus Cortes Sanchez;Ehsan Zaman;Hamideh Torabigoudarzi;Hatef Rahmani;Jon Mikkelsen;Karry Ocean;Mahsa Khalili;Masoud Haghi Kashani;Qiang Zou,116,76.34482758600001,8.113438609,93.0,44.0,,,,,3,13,26,26,26,12,4
-UBCV,2017,W,MECH,325,,102,Mechanical Design I,. Manav;Abbas Hosseini;Ali Etrati;Cristopher Jesus Cortes Sanchez;Ehsan Zaman;Hamideh Torabigoudarzi;Hatef Rahmani;Jon Mikkelsen;Karry Ocean;Mahsa Khalili;Masoud Haghi Kashani;Qiang Zou,101,76.712871287,7.871895113,98.0,42.0,,,,,8,15,16,22,21,10,7
-UBCV,2017,W,MECH,325,,OVERALL,Mechanical Design I,,217,76.516129032,7.985575407000001,98.0,42.0,,,,,11,28,42,48,47,22,11
-UBCV,2017,W,MECH,326,,101,Mechanical Design II,Ehsan Zaman;Kirsten Galea;Mahsa Khalili;Mohammad Reza Talebi Bidhendi;Peter Ostafichuk;Ratul Das;Vahid Nasir,113,75.761061947,11.292597399000002,99.0,41.0,,5,,,9,11,19,12,24,18,11
-UBCV,2017,W,MECH,326,,OVERALL,Mechanical Design II,,113,75.761061947,11.292597399000002,99.0,41.0,,5,,,9,11,19,12,24,18,11
-UBCV,2017,W,MECH,327,,101,Thermodynamics II,Donghyun Son;Patrick Kirchen;Roozbeh Yousefnejad,101,76.94059405899999,12.052237786,96.0,6.0,,,6,7,,10,14,16,15,24,7
-UBCV,2017,W,MECH,327,,OVERALL,Thermodynamics II,,101,76.94059405899999,12.052237786,96.0,6.0,,,6,7,,10,14,16,15,24,7
-UBCV,2017,W,MECH,328,,101,Mechanical Engineering Design Project,Ehsan Zaman;George Rawlings;Hooman Esfandiari;Jeremy Rochussen;Jihoon Lim;M'Beth Schoenfeld;Markus Fengler;Mehran Mehrandezh;Oliver Terry;Paul Winkelman;Rene Zepeda Gutierrez,144,79.770833333,6.782039991,92.0,52.0,,,,,,6,16,33,52,24,6
-UBCV,2017,W,MECH,328,,OVERALL,Mechanical Engineering Design Project,,144,79.770833333,6.782039991,92.0,52.0,,,,,,6,16,33,52,24,6
-UBCV,2017,W,MECH,329,,101,Materials for Mechanical Design,Mattia Bacca;Nicolas Romualdi;Vahid Nasir,63,78.507936508,12.374366085,94.0,34.0,,,,,6,5,,6,7,17,11
-UBCV,2017,W,MECH,329,,OVERALL,Materials for Mechanical Design,,63,78.507936508,12.374366085,94.0,34.0,,,,,6,5,,6,7,17,11
-UBCV,2017,W,MECH,358,,201,Engineering Analysis,Babak Nasouri;Gwynn Elfring;Maryam Mohtajeb;Masoud Hejazi,118,77.677966102,14.215605579000002,100.0,14.0,5,,,10,9,5,13,10,17,21,24
-UBCV,2017,W,MECH,358,,OVERALL,Engineering Analysis,,118,77.677966102,14.215605579000002,100.0,14.0,5,,,10,9,5,13,10,17,21,24
-UBCV,2017,W,MECH,360,,101,Mechanics of Materials,Claire Gregoire;Claire Marie Gregoire;Kui Pan;Mauricio Ponga De La Torre;Mohammad Mohsen Seraj;Mohammad Seraj,157,72.955414013,16.541456835,98.0,0.0,13,5,9,7,8,18,14,20,23,20,20
-UBCV,2017,W,MECH,360,,201,Mechanics of Materials,Claire Gregoire;Claire Marie Gregoire;Kui Pan;Srikantha Anasavarapu;Xiao Liang Jin,100,73.04,15.268585297000001,98.0,32.0,6,9,7,7,4.0,5,12,12,12,10,16
-UBCV,2017,W,MECH,360,,OVERALL,Mechanics of Materials,,257,72.988326848,16.027925457000002,98.0,0.0,19,14,16,14,12,23,26,32,35,30,36
-UBCV,2017,W,MECH,366,,101,Modelling of Mechatronic Systems,Derry Lappin;Ryozo Nagamune;Sina Nezafatkhah,31,86.419354839,7.482308884,100.0,74.0,,,,,,,,,7,7,11
-UBCV,2017,W,MECH,366,,OVERALL,Modelling of Mechatronic Systems,,31,86.419354839,7.482308884,100.0,74.0,,,,,,,,,7,7,11
-UBCV,2017,W,MECH,368,,101,Engineering Measurements and Instrumentation,Ali Shademani;Mu Chiao;Sayed Mohammad Hashem Jayhooni;Sina Nezafatkhah,103,78.058252427,10.170917057,98.0,51.0,,,,6,7,10,18,9,20,12,18
-UBCV,2017,W,MECH,368,,OVERALL,Engineering Measurements and Instrumentation,,103,78.058252427,10.170917057,98.0,51.0,,,,6,7,10,18,9,20,12,18
-UBCV,2017,W,MECH,375,,101,Heat Transfer,Amir Maleki Zamenjani;Nima Atabaki;Sara Hosseinirad;Seyedabdolrasoul Asaee,90,70.45555555600001,12.401668165,95.0,21.0,5,2.0,9,8,4,14,15,10,13,6,4
-UBCV,2017,W,MECH,375,,201,Heat Transfer,Amir Maleki Zamenjani;Nima Atabaki;Roozbeh Yousefnejad,126,73.873015873,15.663452558,100.0,27.0,10,1.0,9,11,7,13,12,8,16,16,23
-UBCV,2017,W,MECH,375,,OVERALL,Heat Transfer,,216,72.449074074,14.462371354,100.0,21.0,15,3.0,18,19,11,27,27,18,29,22,27
-UBCV,2017,W,MECH,380,,201,Fluid Dynamics,Ali Cherom Kheirabadi;Carl Ollivier-Gooch;Gwynn Elfring;Parisa Sarmadi,128,79.9921875,10.563267281,96.0,41.0,,,,,,9,19,12,21,38,17
-UBCV,2017,W,MECH,380,,OVERALL,Fluid Dynamics,,128,79.9921875,10.563267281,96.0,41.0,,,,,,9,19,12,21,38,17
-UBCV,2017,W,MECH,386,,101,Industrial Fluid Mechanics,Arash Nikzad;Dana Grecov;Mohammadjavad Shariatzadeh,15,80.133333333,8.061076379,90.0,61.0,,,,,,,,,6,,
-UBCV,2017,W,MECH,386,,OVERALL,Industrial Fluid Mechanics,,15,80.133333333,8.061076379,90.0,61.0,,,,,,,,,6,,
-UBCV,2017,W,MECH,392,,101,Manufacturing Processes,Farrokh Sassani;Hamideh Torabigoudarzi;Hsi-Yung Feng,132,87.704545455,11.431000194000001,100.0,53.0,,,,5,,,7,8,11,21,72
-UBCV,2017,W,MECH,392,,OVERALL,Manufacturing Processes,,132,87.704545455,11.431000194000001,100.0,53.0,,,,5,,,7,8,11,21,72
-UBCV,2017,W,MECH,410,R,201,Special Topics in Mechanical Engineering,Gwynn Elfring,10,80.8,7.743097284,95.0,72.0,,,,,,,,,,,
-UBCV,2017,W,MECH,410,R,OVERALL,Special Topics in Mechanical Engineering,,10,80.8,7.743097284,95.0,72.0,,,,,,,,,,,
-UBCV,2017,W,MECH,420,,101,Sensors and Actuators,Amir Farzad Forughi;Boris Stoeber;Masoud Haghi Kashani;Sandra Fleming,35,76.2,11.370239793,95.0,46.0,,,,,,5,,5,6,5,
-UBCV,2017,W,MECH,420,,OVERALL,Sensors and Actuators,,35,76.2,11.370239793,95.0,46.0,,,,,,5,,5,6,5,
-UBCV,2017,W,MECH,421,,201,Mechatronics System Instrumentation,Alexander Joseph Yuen;Derry Lappin;Jian Gao,36,80.638888889,9.98614119,96.0,52.0,,,,,,,6,,7,8,6
-UBCV,2017,W,MECH,421,,OVERALL,Mechatronics System Instrumentation,,36,80.638888889,9.98614119,96.0,52.0,,,,,,,6,,7,8,6
-UBCV,2017,W,MECH,423,,101,Mechatronic Product Design,Hongshen Ma;Iftikhar Azam,34,82.647058824,8.293415983,92.0,62.0,,,,,,,,,8,9,8
-UBCV,2017,W,MECH,423,,OVERALL,Mechatronic Product Design,,34,82.647058824,8.293415983,92.0,62.0,,,,,,,,,8,9,8
-UBCV,2017,W,MECH,431,,201,Engineering Economics,Masoud Haghi Kashani;Naomi Zimmerman;Sara Azizkhani,75,75.093333333,12.87063842,94.0,28.0,,,5,6,7,5,6,10,12,13,7
-UBCV,2017,W,MECH,431,,OVERALL,Engineering Economics,,75,75.093333333,12.87063842,94.0,28.0,,,5,6,7,5,6,10,12,13,7
-UBCV,2017,W,MECH,433,,201,Biofluids,Dana Grecov,20,83.0,10.382170952000001,94.0,59.0,,,,,,,,,,,8
-UBCV,2017,W,MECH,433,,OVERALL,Biofluids,,20,83.0,10.382170952000001,94.0,59.0,,,,,,,,,,,8
-UBCV,2017,W,MECH,435,,201,Orthopaedic Biomechanics,Carly Ellen Jones;Carly Jones;Masoud Malakoutian;Thomas Oxland,36,79.888888889,7.880456034,95.0,58.0,,,,,,,,12,9,7,
-UBCV,2017,W,MECH,435,,OVERALL,Orthopaedic Biomechanics,,36,79.888888889,7.880456034,95.0,58.0,,,,,,,,12,9,7,
-UBCV,2017,W,MECH,436,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont;M'Beth Schoenfeld,17,80.352941176,8.425713445,97.0,60.0,,,,,,,,,6,,
-UBCV,2017,W,MECH,436,,OVERALL,Fundamentals of Injury Biomechanics,,17,80.352941176,8.425713445,97.0,60.0,,,,,,,,,6,,
-UBCV,2017,W,MECH,439,,201,Biomechanics Research,Antony Hodgson,15,88.53333333299999,5.449333729,95.0,80.0,,,,,,,,,,,7
-UBCV,2017,W,MECH,439,,OVERALL,Biomechanics Research,,15,88.53333333299999,5.449333729,95.0,80.0,,,,,,,,,,,7
-UBCV,2017,W,MECH,454,,001,Thermofluids Capstone Design Project,Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Dana Grecov;Farrokh Sassani;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki,20,87.05,3.619755735,92.0,80.0,,,,,,,,,,8,8
-UBCV,2017,W,MECH,454,,OVERALL,Thermofluids Capstone Design Project,,20,87.05,3.619755735,92.0,80.0,,,,,,,,,,8,8
-UBCV,2017,W,MECH,457,,001,Mechanical Engineering Design Project,Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Dana Grecov;Farrokh Sassani;Hendrik Van Der Loos;Lukas Schreiber;Markus Fengler;Nima Atabaki,60,85.933333333,5.53836134,94.0,71.0,,,,,,,,,12,19,22
-UBCV,2017,W,MECH,457,,OVERALL,Mechanical Engineering Design Project,,60,85.933333333,5.53836134,94.0,71.0,,,,,,,,,12,19,22
-UBCV,2017,W,MECH,458,,001,Mechatronics Design Project,Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Dana Grecov;Farrokh Sassani;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki,26,85.384615385,6.138904939,94.0,76.0,,,,,,,,,10,,10
-UBCV,2017,W,MECH,458,,OVERALL,Mechatronics Design Project,,26,85.384615385,6.138904939,94.0,76.0,,,,,,,,,10,,10
-UBCV,2017,W,MECH,459,,001,Biomedical Design Project,Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Dana Grecov;Farrokh Sassani;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki,13,86.846153846,5.4443572289999995,93.0,76.0,,,,,,,,,,,6
-UBCV,2017,W,MECH,459,,OVERALL,Biomedical Design Project,,13,86.846153846,5.4443572289999995,93.0,76.0,,,,,,,,,,,6
-UBCV,2017,W,MECH,462,,201,Finite Element Analysis,Masoud Malakoutian;Mohamed Gadala;Mohamed S Gadala,16,70.0625,12.024800761,92.0,50.0,,,,,,,,,,,
-UBCV,2017,W,MECH,462,,OVERALL,Finite Element Analysis,,16,70.0625,12.024800761,92.0,50.0,,,,,,,,,,,
-UBCV,2017,W,MECH,463,,101,Mechanical Vibrations,Abbas Hosseini;Abdul Vali Syed Syed Hussain;Karry Ocean;Maryam Mohtajeb;Mohammadreza Mallakzadeh;Mohammadreza Rostam;Reza Zangeneh,140,80.035714286,10.667917824,99.0,46.0,,,,,6,10,20,15,25,25,29
-UBCV,2017,W,MECH,463,,OVERALL,Mechanical Vibrations,,140,80.035714286,10.667917824,99.0,46.0,,,,,6,10,20,15,25,25,29
-UBCV,2017,W,MECH,464,,101,Industrial Robotics,Septimiu Salcudean,6,83.0,8.318653737,95.0,75.0,,,,,,,,,,,
-UBCV,2017,W,MECH,464,,OVERALL,Industrial Robotics,,6,83.0,8.318653737,95.0,75.0,,,,,,,,,,,
-UBCV,2017,W,MECH,466,,201,Automatic Control,Derry Lappin;Mohammadreza Rostam;Ryozo Nagamune;Sara Hosseinirad;Sina Nezafatkhah;Varun Jacob-John,122,77.368852459,12.031776673,100.0,16.0,,,,8,8,13,7,24,27,13,17
-UBCV,2017,W,MECH,466,,OVERALL,Automatic Control,,122,77.368852459,12.031776673,100.0,16.0,,,,8,8,13,7,24,27,13,17
-UBCV,2017,W,MECH,467,,101,Computer Control of Mechatronics Systems,Alexander Joseph Yuen;Deniz Aslan;Yusuf Altintas,32,80.34375,16.097704455,100.0,32.0,,,,,,,,,5,5,10
-UBCV,2017,W,MECH,467,,OVERALL,Computer Control of Mechatronics Systems,,32,80.34375,16.097704455,100.0,32.0,,,,,,,,,5,5,10
-UBCV,2017,W,MECH,468,,201,Modern Control Engineering,Mohammadreza Rostam;Ryozo Nagamune,37,77.91891891899999,16.125167318,100.0,19.0,,,,5,,,,,5,6,10
-UBCV,2017,W,MECH,468,,OVERALL,Modern Control Engineering,,37,77.91891891899999,16.125167318,100.0,19.0,,,,5,,,,,5,6,10
-UBCV,2017,W,MECH,469,,101,Dynamic System Modelling,Clarence Wilfred De Silva;Mohammadreza Rostam,19,88.315789474,6.464025505,99.0,77.0,,,,,,,,,,5,8
-UBCV,2017,W,MECH,469,,OVERALL,Dynamic System Modelling,,19,88.315789474,6.464025505,99.0,77.0,,,,,,,,,,5,8
-UBCV,2017,W,MECH,470,,201,Energy Conversion Systems,William Kendal Bushe,25,80.0,9.087537252999999,94.0,65.0,,,,,,,5,,,5,
-UBCV,2017,W,MECH,470,,OVERALL,Energy Conversion Systems,,25,80.0,9.087537252999999,94.0,65.0,,,,,,,5,,,5,
-UBCV,2017,W,MECH,473,,201,"Heating, Ventilating and Air Conditioning",Nima Atabaki;Steven Nicholas Rogak,28,82.071428571,12.316590953,97.0,50.0,,,,,,,,,5,,11
-UBCV,2017,W,MECH,473,,OVERALL,"Heating, Ventilating and Air Conditioning",,28,82.071428571,12.316590953,97.0,50.0,,,,,,,,,5,,11
-UBCV,2017,W,MECH,478,,201,Internal Combustion Engines,Jeremy Rochussen;Patrick Kirchen,21,76.857142857,14.718307355999999,96.0,41.0,,,,,,,,,,6,
-UBCV,2017,W,MECH,478,,OVERALL,Internal Combustion Engines,,21,76.857142857,14.718307355999999,96.0,41.0,,,,,,,,,,6,
-UBCV,2017,W,MECH,479,,101,Computational Fluid Dynamics,Arash Nikzad;William Kendal Bushe,32,82.75,11.001466178,96.0,58.0,,,,,,,,6,,,13
-UBCV,2017,W,MECH,479,,OVERALL,Computational Fluid Dynamics,,32,82.75,11.001466178,96.0,58.0,,,,,,,,6,,,13
-UBCV,2017,W,MECH,481,,201,Aerodynamics of Aircraft I,Ali Vakil;Arash Nikzad,17,78.352941176,19.143997677,97.0,25.0,,,,,,,,,,,7
-UBCV,2017,W,MECH,481,,OVERALL,Aerodynamics of Aircraft I,,17,78.352941176,19.143997677,97.0,25.0,,,,,,,,,,,7
-UBCV,2017,W,MECH,484,,101,Aircraft Design: Aerodynamics,Ehsan Zaman;Katherina Tarnai-Lokhorst;Mahdiar Khosravi,37,81.540540541,5.047521915,89.0,70.0,,,,,,,,6,14,12,
-UBCV,2017,W,MECH,484,,OVERALL,Aircraft Design: Aerodynamics,,37,81.540540541,5.047521915,89.0,70.0,,,,,,,,6,14,12,
-UBCV,2017,W,MECH,485,,101,Aircraft Design: Structures,Mahdi Takaffoli,21,84.095238095,8.630786534,98.0,73.0,,,,,,,6,,6,,6
-UBCV,2017,W,MECH,485,,OVERALL,Aircraft Design: Structures,,21,84.095238095,8.630786534,98.0,73.0,,,,,,,6,,6,,6
-UBCV,2017,W,MECH,488,,101,Introduction to Ship Hydrodynamics,Christopher Brian Mckesson;Christopher Mckesson;Madeleine Melcer;Madeleine Sarah Melcer,41,83.292682927,15.443840038,98.0,0.0,,,,,,,6,,6,11,14
-UBCV,2017,W,MECH,488,,102,Introduction to Ship Hydrodynamics,Christopher Brian Mckesson;Christopher Mckesson;Madeleine Melcer;Madeleine Sarah Melcer,11,77.818181818,5.7413967260000005,88.0,66.0,,,,,,,3,,2,1,0
-UBCV,2017,W,MECH,488,,OVERALL,Introduction to Ship Hydrodynamics,,52,82.134615385,14.093565276,98.0,0.0,,,,,,,9,6,8,12,14
-UBCV,2017,W,MECH,489,,101,Experimental Thermofluids,Claire Gregoire;Claire Marie Gregoire;Nima Atabaki,28,83.178571429,6.037252082,95.0,70.0,,,,,,,,,11,7,5
-UBCV,2017,W,MECH,489,,OVERALL,Experimental Thermofluids,,28,83.178571429,6.037252082,95.0,70.0,,,,,,,,,11,7,5
-UBCV,2017,W,MECH,491,,201,Computer-Aided Manufacturing,Mehran Mehrandezh;Oliver Terry,30,75.866666667,10.529869938,85.0,31.0,,,,,,5,,9,7,,
-UBCV,2017,W,MECH,491,,OVERALL,Computer-Aided Manufacturing,,30,75.866666667,10.529869938,85.0,31.0,,,,,,5,,9,7,,
-UBCV,2017,W,MECH,495,,101,Industrial Engineering,Farrokh Sassani;Sara Azizkhani,50,85.48,10.732822061,100.0,51.0,,,,,,,,5,7,13,18
-UBCV,2017,W,MECH,495,,OVERALL,Industrial Engineering,,50,85.48,10.732822061,100.0,51.0,,,,,,,,5,7,13,18
-UBCV,2017,W,MECH,496,,201,Engineering Management,Baher Amouzgar;Sara Azizkhani,40,80.725,6.763353362999999,93.0,63.0,,,,,,,6,6,12,11,
-UBCV,2017,W,MECH,496,,OVERALL,Engineering Management,,40,80.725,6.763353362999999,93.0,63.0,,,,,,,6,6,12,11,
-UBCV,2017,W,MECH,502,,101,Fluid Mechanics,Dana Grecov;Gwynn Elfring,17,83.823529412,9.882024679,98.0,68.0,,,,,,,,,,6,5
-UBCV,2017,W,MECH,502,,OVERALL,Fluid Mechanics,,17,83.823529412,9.882024679,98.0,68.0,,,,,,,,,,6,5
-UBCV,2017,W,MECH,505,,201,Industrial and Environmental Acoustics and Vibration,Hugh William Davies,11,90.454545455,1.809068067,93.0,87.0,,,,,,,,,,,8
-UBCV,2017,W,MECH,505,,OVERALL,Industrial and Environmental Acoustics and Vibration,,11,90.454545455,1.809068067,93.0,87.0,,,,,,,,,,,8
-UBCV,2017,W,MECH,507,,101,Analytical Dynamics,Srikantha Anasavarapu,6,90.166666667,2.562550813,94.0,87.0,,,,,,,,,,,
-UBCV,2017,W,MECH,507,,OVERALL,Analytical Dynamics,,6,90.166666667,2.562550813,94.0,87.0,,,,,,,,,,,
-UBCV,2017,W,MECH,510,,101,Computational Methods in Transport Phenomena I,Kai Kin Gary Yan,13,88.923076923,7.170094589,96.0,76.0,,,,,,,,,,,8
-UBCV,2017,W,MECH,510,,OVERALL,Computational Methods in Transport Phenomena I,,13,88.923076923,7.170094589,96.0,76.0,,,,,,,,,,,8
-UBCV,2017,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Masoud Malakoutian;Mohamed Gadala;Mohamed S Gadala,12,84.5,7.192167457,94.0,65.0,,,,,,,,,,5,
-UBCV,2017,W,MECH,514,,OVERALL,Linear FEA in Solids and Heat Transfer,,12,84.5,7.192167457,94.0,65.0,,,,,,,,,,5,
-UBCV,2017,W,MECH,520,,201,Control Sensors and Actuators,Clarence Wilfred De Silva,24,85.666666667,5.001449065,96.0,76.0,,,,,,,,,7,8,7
-UBCV,2017,W,MECH,520,,OVERALL,Control Sensors and Actuators,,24,85.666666667,5.001449065,96.0,76.0,,,,,,,,,7,8,7
-UBCV,2017,W,MECH,522,,201,Foundations in Control Engineering,Mohammadreza Rostam;Ryozo Nagamune,37,82.405405405,10.571080728,100.0,62.0,,,,,,,6,9,,,14
-UBCV,2017,W,MECH,522,,OVERALL,Foundations in Control Engineering,,37,82.405405405,10.571080728,100.0,62.0,,,,,,,6,9,,,14
-UBCV,2017,W,MECH,529,,101,Modelling of Dynamic Systems,Clarence Wilfred De Silva;Mohammadreza Rostam,18,89.833333333,8.016527046,99.0,70.0,,,,,,,,,,,11
-UBCV,2017,W,MECH,529,,OVERALL,Modelling of Dynamic Systems,,18,89.833333333,8.016527046,99.0,70.0,,,,,,,,,,,11
-UBCV,2017,W,MECH,535,,201,Orthopaedic Biomechanics,Agnes D'Entremont;M'Beth Schoenfeld;Thomas Oxland,13,81.384615385,9.014233759,96.0,69.0,,,,,,,,,,,
-UBCV,2017,W,MECH,535,,OVERALL,Orthopaedic Biomechanics,,13,81.384615385,9.014233759,96.0,69.0,,,,,,,,,,,
-UBCV,2017,W,MECH,536,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont;M'Beth Schoenfeld;Peter Cripton,10,80.6,14.408330923,93.0,43.0,,,,,,,,,,5,
-UBCV,2017,W,MECH,536,,OVERALL,Fundamentals of Injury Biomechanics,,10,80.6,14.408330923,93.0,43.0,,,,,,,,,,5,
-UBCV,2017,W,MECH,550,C,101,Special Advanced Courses,Neset Arda Erol;Shayan Hoshyari,23,76.913043478,15.394547569,93.0,34.0,,,,,,,,,,6,
-UBCV,2017,W,MECH,550,C,OVERALL,Special Advanced Courses,,23,76.913043478,15.394547569,93.0,34.0,,,,,,,,,,6,
-UBCV,2017,W,MECH,550,E,101,Special Advanced Courses,Christoph Sielmann;Soheil Kianzad;Varun Jacob-John,15,78.133333333,10.953581715,97.0,50.0,,,,,,,,,,,
-UBCV,2017,W,MECH,550,E,OVERALL,Special Advanced Courses,,15,78.133333333,10.953581715,97.0,50.0,,,,,,,,,,,
-UBCV,2017,W,MECH,550,H,101,Special Advanced Courses,Ian Frigaard,10,88.8,2.898275349,92.0,82.0,,,,,,,,,,,6
-UBCV,2017,W,MECH,550,H,OVERALL,Special Advanced Courses,,10,88.8,2.898275349,92.0,82.0,,,,,,,,,,,6
-UBCV,2017,W,MECH,550,J,101,Special Advanced Courses,Steven Rogak,5,85.4,7.2318738929999995,95.0,75.0,,,,,,,,,,,
-UBCV,2017,W,MECH,550,J,OVERALL,Special Advanced Courses,,5,85.4,7.2318738929999995,95.0,75.0,,,,,,,,,,,
-UBCV,2017,W,MECH,550,L,201,Special Advanced Courses,Gwynn Elfring,6,85.0,8.148619515,93.0,72.0,,,,,,,,,,,
-UBCV,2017,W,MECH,550,L,OVERALL,Special Advanced Courses,,6,85.0,8.148619515,93.0,72.0,,,,,,,,,,,
-UBCV,2017,W,MECH,550,N,201,Special Advanced Courses,Christopher Mckesson,20,89.55,5.031218331,96.0,80.0,,,,,,,,,,6,11
-UBCV,2017,W,MECH,550,N,OVERALL,Special Advanced Courses,,20,89.55,5.031218331,96.0,80.0,,,,,,,,,,6,11
-UBCV,2017,W,MECH,561,,101,Linear Elasticity,Mauricio Ponga De La Torre,8,90.625,4.172614802,95.0,85.0,,,,,,,,,,,6
-UBCV,2017,W,MECH,561,,OVERALL,Linear Elasticity,,8,90.625,4.172614802,95.0,85.0,,,,,,,,,,,6
-UBCV,2017,W,MECH,563,,101,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean,13,90.923076923,4.271251543,99.0,85.0,,,,,,,,,,,9
-UBCV,2017,W,MECH,563,,OVERALL,"Robotics: Kinematics, Dynamics and Control",,13,90.923076923,4.271251543,99.0,85.0,,,,,,,,,,,9
-UBCV,2017,W,MECH,572,,101,Convection Heat Transfer,Nima Atabaki,8,85.75,6.273527146,95.0,76.0,,,,,,,,,,,
-UBCV,2017,W,MECH,572,,OVERALL,Convection Heat Transfer,,8,85.75,6.273527146,95.0,76.0,,,,,,,,,,,
-UBCV,2017,W,MECH,575,A,101,Directed Studies in Mechanical Engineering,Neset Arda Erol;Shayan Hoshyari,23,76.913043478,15.394547569,93.0,34.0,,,,,,,,,,6,
-UBCV,2017,W,MECH,575,A,OVERALL,Directed Studies in Mechanical Engineering,,23,76.913043478,15.394547569,93.0,34.0,,,,,,,,,,6,
-UBCV,2017,W,MECH,575,B,101,Directed Studies in Mechanical Engineering,Christoph Sielmann;Soheil Kianzad;Varun Jacob-John,15,86.066666667,4.283967898,91.0,75.0,,,,,,,,,,8,
-UBCV,2017,W,MECH,575,B,OVERALL,Directed Studies in Mechanical Engineering,,15,86.066666667,4.283967898,91.0,75.0,,,,,,,,,,8,
-UBCV,2017,W,MECH,578,,201,Internal Combustion Engines,Jeremy Rochussen;Patrick Kirchen,6,87.333333333,6.683312552,96.0,80.0,,,,,,,,,,,
-UBCV,2017,W,MECH,578,,OVERALL,Internal Combustion Engines,,6,87.333333333,6.683312552,96.0,80.0,,,,,,,,,,,
-UBCV,2017,W,MECH,582,,101,Experimental Fluid Mechanics,Claire Gregoire;Claire Marie Gregoire;Nima Atabaki;Patrick Kirchen,8,84.75,4.9208013280000005,90.0,75.0,,,,,,,,,,,
-UBCV,2017,W,MECH,582,,OVERALL,Experimental Fluid Mechanics,,8,84.75,4.9208013280000005,90.0,75.0,,,,,,,,,,,
-UBCV,2017,W,MECH,589,,101,Computer Control of Multi-Axis Machines,Alexander Joseph Yuen;Deniz Aslan;Yusuf Altintas,17,76.705882353,20.095909739,100.0,12.0,,,,,,,,,,,
-UBCV,2017,W,MECH,589,,OVERALL,Computer Control of Multi-Axis Machines,,17,76.705882353,20.095909739,100.0,12.0,,,,,,,,,,,
-UBCV,2017,W,MECH,592,,101,Machine Tool Structures and Vibrations,Yusuf Altintas,7,87.571428571,1.3972762619999999,90.0,86.0,,,,,,,,,,6,
-UBCV,2017,W,MECH,592,,OVERALL,Machine Tool Structures and Vibrations,,7,87.571428571,1.3972762619999999,90.0,86.0,,,,,,,,,,6,
-UBCV,2017,W,MECH,596,,201,CAD/CAM Principles and Practice,Mehran Mehrandezh;Oliver Terry,7,84.0,3.2145502539999997,88.0,78.0,,,,,,,,,,,
-UBCV,2017,W,MECH,596,,OVERALL,CAD/CAM Principles and Practice,,7,84.0,3.2145502539999997,88.0,78.0,,,,,,,,,,,
-UBCV,2017,W,MECH,598,,BM0,Research Seminar,Antony Hodgson,5,89.2,1.6431676730000002,91.0,87.0,,,,,,,,,,,7
-UBCV,2017,W,MECH,598,,MM0,Research Seminar,Clarence Wilfred De Silva,11,89.363636364,2.500908926,93.0,84.0,,,,,,,,,,,7
-UBCV,2017,W,MECH,598,,OVERALL,Research Seminar,,25,89.04,2.54099718,93.0,84.0,,,,,,,,,,9,14
-UBCV,2017,W,MECH,599,B,OVERALL,Thesis,,15,86.333333333,8.094677852,95.0,70.0,,,,,,,,,,,8
-UBCV,2017,W,MECH,698,,OVERALL,Seminar,,7,89.14285714299999,5.580578567000001,95.0,78.0,,,,,,,,,,,
+UBCV,2017,W,MECH,220,,101,Technical Skills Practicum,Agnes D'Entremont;Ali Pourzahedi;Alondra Perla Renteria Ruiz;Alondra Renteria Ruiz;Carly Ellen Jones;Carly Jones;Cristopher Jesus Cortes Sanchez;George Rawlings;Hamideh Torabigoudarzi;Iftikhar Azam;Juan Abello Rubio;Leia Shum;Markus Fengler;Somesh Bhatia;Yi Jui Lee,128,81.09375,5.740363373,91.0,59.0,0,0,1,0.0,2.0,4,12,26,44,36,3
+UBCV,2017,W,MECH,220,,OVERALL,Technical Skills Practicum,,128,81.09375,5.740363373,91.0,59.0,0,0,1,0.0,2.0,4,12,26,44,36,3
+UBCV,2017,W,MECH,221,,101,Engineering Science I,Agnes D'Entremont;Ali Cherom Kheirabadi;Anis Umi Saadah Binti Othman;Arash Nikzad;Baharan Pourahmadi-Meibodi;Carly Ellen Jones;Carly Jones;Gary Schajer;Graham Hendra;Hatef Rahmani;Kelsey Mcgivern;Kirsten Galea;Madhumanti Mandal;Mahsa Keyvani;Masoud Haghi Kashani;Mohammad Shanb Ghazani;Mojtaba Mansouri Arani;Patrick Walls;Ratul Das;Robin Turner;Sayed Mohammad Hashem Jayhooni;Somesh Bhatia;Sonia Taylor;Su Wang;Vahid Nasir;Warren Poole,133,73.72180451,10.12000223,98.0,41.0,5,0,2,8,10.0,22,33,19,20,0,14
+UBCV,2017,W,MECH,221,,OVERALL,Engineering Science I,,133,73.72180451,10.12000223,98.0,41.0,5,0,2,8,10.0,22,33,19,20,0,14
+UBCV,2017,W,MECH,222,,201,Engineering Science II,Agnes D'Entremont;Ali Pourzahedi;Alireza Sarraf Shirazi;Alondra Perla Renteria Ruiz;Alondra Renteria Ruiz;Amir Farzad Forughi;Arash Nikzad;Carly Ellen Jones;Carly Jones;Christopher Brian Mckesson;Christopher Mckesson;Hamideh Torabigoudarzi;Hatef Rahmani;Masoud Haghi Kashani;Mohammad Shanb Ghazani;Nima Atabaki;Patrick Walls;Sayed Mohammad Hashem Jayhooni;Somesh Bhatia;Sonia Taylor,129,77.13953488,9.720905457,99.0,46.0,1,1,2,7,12.0,12,14,19,35,11,15
+UBCV,2017,W,MECH,222,,OVERALL,Engineering Science II,,129,77.13953488,9.720905457,99.0,46.0,1,1,2,7,12.0,12,14,19,35,11,15
+UBCV,2017,W,MECH,223,,201,Introduction to the Mechanical Design Process,Agnes D'Entremont;Graham Hendra;Graham Ronald Rupert Hendra;Kelsey Brianna Mcgivern;Kelsey Mcgivern;M'Beth Schoenfeld;Mahsa Khalili;Markus Fengler;Oliver Jason Terry;Oliver Terry;Peter Ostafichuk;Sonia Ruth Taylor;Sonia Taylor;Una Trivanovic;Yi Jui Lee,129,74.63565892,11.20890967,96.0,39.0,5,8,3,2,3.0,10,14,33,36,8,7
+UBCV,2017,W,MECH,223,,OVERALL,Introduction to the Mechanical Design Process,,129,74.63565892,11.20890967,96.0,39.0,5,8,3,2,3.0,10,14,33,36,8,7
+UBCV,2017,W,MECH,224,,1AB,Integration of Engineering Concepts I,Agnes D'Entremont;Carly Ellen Jones;Carly Jones;Hatef Rahmani;Mohammad Shanb Ghazani;Nikoo Rahimzadeh Hanachi,66,74.34848485,12.05818257,98.0,38.0,4,1,0,3,3.0,10,14,12,9,0,10
+UBCV,2017,W,MECH,224,,1CD,Integration of Engineering Concepts I,Agnes D'Entremont;Carly Ellen Jones;Carly Jones;Hatef Rahmani;Mohammad Shanb Ghazani;Nikoo Rahimzadeh Hanachi,67,68.35820896,13.8199477,94.0,37.0,12,1,1,2,5.0,9,18,6,9,0.0,4
+UBCV,2017,W,MECH,224,,OVERALL,Integration of Engineering Concepts I,,139,70.92086331,13.13147825,98.0,37.0,16,2,2,8,10.0,19,32,18,18,0.0,14
+UBCV,2017,W,MECH,225,,2AB,Integration of Engineering Concepts II,Agnes D'Entremont,64,77.515625,10.23221211,99.0,46.0,2,0,0,2,4.0,7,9,11,16,3,10
+UBCV,2017,W,MECH,225,,2CD,Integration of Engineering Concepts II,Agnes D'Entremont,65,75.52307692,11.95448098,97.0,39.0,4,0.0,1,4,7.0,4,5,8,19,8,5
+UBCV,2017,W,MECH,225,,OVERALL,Integration of Engineering Concepts II,,133,75.96992481,11.40636442,99.0,39.0,6,0.0,4,6,12.0,11,14,19,35,11,15
+UBCV,2017,W,MECH,226,,001,Technical Communication for Mechanical Engineers,Adrianna Eyking;Agnes D'Entremont;Khashina Tonks-Turcotte;Kui Pan;Md Amin Mahmud;Somesh Bhatia;Tatiana Teslenko;Vanessa Aragona,115,81.05217391,4.637458995,94.0,68.0,0,0,0,0,0.0,4,9,26,51,22,3
+UBCV,2017,W,MECH,226,,OVERALL,Technical Communication for Mechanical Engineers,,115,81.05217391,4.637458995,94.0,68.0,0,0,0,0,0.0,4,9,26,51,22,3
+UBCV,2017,W,MECH,260,,101,Introduction to Mechanics of Materials,Kui Pan;Masoud Hejazi;Srikantha Anasavarapu,112,59.46428571,15.56441343,95.0,0.0,16,11,18,17,16.0,15,12,3,0.0,1,3
+UBCV,2017,W,MECH,260,,102,Introduction to Mechanics of Materials,Clarence Wilfred De Silva;Swapna Premasiri;Zhuo Chen,124,60.10483871,14.08096134,93.0,19.0,22,24,7,21,11.0,10,10,8,9,1,1
+UBCV,2017,W,MECH,260,,OVERALL,Introduction to Mechanics of Materials,,236,59.80084746,14.77514299,95.0,0.0,38,35,25,38,27.0,25,22,11,9,2,4
+UBCV,2017,W,MECH,280,,201,Introduction to Fluid Mechanics,Emad Chaparian;Ian Frigaard;Parisa Sarmadi,67,76.65671642,14.08798353,96.0,27.0,4,0.0,1,4,1.0,7,10,12,8,10,10
+UBCV,2017,W,MECH,280,,OVERALL,Introduction to Fluid Mechanics,,67,76.65671642,14.08798353,96.0,27.0,4,0.0,1,4,1.0,7,10,12,8,10,10
+UBCV,2017,W,MECH,305,,201,Data Analysis and Mechanical Engineering Laboratories,Alireza Sarraf Shirazi;Allan Walsh;Amirsalar Heydari Haratameh;Arash Nikzad;Charles Karassowitsch;Cristopher Jesus Cortes Sanchez;Gary Schajer;Hamideh Torabigoudarzi;Harsh Pokharna;Hatef Rahmani;Hooman Esfandiari;Jeremy Rochussen;Mohammad Shanb Ghazani;Ratul Das;Sina Nezafatkhah;Steven Rogak;Vahid Nasir,102,78.93137255,10.29107063,99.0,35.0,4,0,0,1,1.0,8,9,18,30,25,6
+UBCV,2017,W,MECH,305,,OVERALL,Data Analysis and Mechanical Engineering Laboratories,,102,78.93137255,10.29107063,99.0,35.0,4,0,0,1,1.0,8,9,18,30,25,6
+UBCV,2017,W,MECH,306,,201,Data Analysis and Mechatronics Laboratories,Alireza Sarraf Shirazi;Allan Walsh;Amirsalar Heydari Haratameh;Arash Nikzad;Charles Karassowitsch;Cristopher Jesus Cortes Sanchez;Gary Schajer;Hamideh Torabigoudarzi;Harsh Pokharna;Hatef Rahmani;Hooman Esfandiari;Jeremy Rochussen;Mohammad Shanb Ghazani;Ratul Das;Sina Nezafatkhah;Steven Rogak;Vahid Nasir,30,82.63333333,8.100588882,97.0,61.0,0,0,0,1,0.0,1,3,5,7,5,8
+UBCV,2017,W,MECH,306,,OVERALL,Data Analysis and Mechatronics Laboratories,,30,82.63333333,8.100588882,97.0,61.0,0,0,0,1,0.0,1,3,5,7,5,8
+UBCV,2017,W,MECH,325,,101,Mechanical Design I,. Manav;Abbas Hosseini;Ali Etrati;Cristopher Jesus Cortes Sanchez;Ehsan Zaman;Hamideh Torabigoudarzi;Hatef Rahmani;Jon Mikkelsen;Karry Ocean;Mahsa Khalili;Masoud Haghi Kashani;Qiang Zou,116,76.34482759,8.113438609,93.0,44.0,3,0.0,1,2,3.0,13,26,26,26,12,4
+UBCV,2017,W,MECH,325,,102,Mechanical Design I,. Manav;Abbas Hosseini;Ali Etrati;Cristopher Jesus Cortes Sanchez;Ehsan Zaman;Hamideh Torabigoudarzi;Hatef Rahmani;Jon Mikkelsen;Karry Ocean;Mahsa Khalili;Masoud Haghi Kashani;Qiang Zou,101,76.71287129,7.871895113,98.0,42.0,1,0,0,1,8.0,15,16,22,21,10,7
+UBCV,2017,W,MECH,325,,OVERALL,Mechanical Design I,,217,76.51612903,7.985575407,98.0,42.0,4,0.0,1,3,11.0,28,42,48,47,22,11
+UBCV,2017,W,MECH,326,,101,Mechanical Design II,Ehsan Zaman;Kirsten Galea;Mahsa Khalili;Mohammad Reza Talebi Bidhendi;Peter Ostafichuk;Ratul Das;Vahid Nasir,113,75.76106195,11.2925974,99.0,41.0,4,5,0,0,9.0,11,19,12,24,18,11
+UBCV,2017,W,MECH,326,,OVERALL,Mechanical Design II,,113,75.76106195,11.2925974,99.0,41.0,4,5,0,0,9.0,11,19,12,24,18,11
+UBCV,2017,W,MECH,327,,101,Thermodynamics II,Donghyun Son;Patrick Kirchen;Roozbeh Yousefnejad,101,76.94059406,12.05223779,96.0,6.0,1,0.0,6,7,1.0,10,14,16,15,24,7
+UBCV,2017,W,MECH,327,,OVERALL,Thermodynamics II,,101,76.94059406,12.05223779,96.0,6.0,1,0.0,6,7,1.0,10,14,16,15,24,7
+UBCV,2017,W,MECH,328,,101,Mechanical Engineering Design Project,Ehsan Zaman;George Rawlings;Hooman Esfandiari;Jeremy Rochussen;Jihoon Lim;M'Beth Schoenfeld;Markus Fengler;Mehran Mehrandezh;Oliver Terry;Paul Winkelman;Rene Zepeda Gutierrez,144,79.77083333,6.782039991,92.0,52.0,0,1,2,1,3.0,6,16,33,52,24,6
+UBCV,2017,W,MECH,328,,OVERALL,Mechanical Engineering Design Project,,144,79.77083333,6.782039991,92.0,52.0,0,1,2,1,3.0,6,16,33,52,24,6
+UBCV,2017,W,MECH,329,,101,Materials for Mechanical Design,Mattia Bacca;Nicolas Romualdi;Vahid Nasir,63,78.50793651,12.37436609,94.0,34.0,1,1,2,3,6.0,5,4,6,7,17,11
+UBCV,2017,W,MECH,329,,OVERALL,Materials for Mechanical Design,,63,78.50793651,12.37436609,94.0,34.0,1,1,2,3,6.0,5,4,6,7,17,11
+UBCV,2017,W,MECH,358,,201,Engineering Analysis,Babak Nasouri;Gwynn Elfring;Maryam Mohtajeb;Masoud Hejazi,118,77.6779661,14.21560558,100.0,14.0,5,0.0,4,10,9.0,5,13,10,17,21,24
+UBCV,2017,W,MECH,358,,OVERALL,Engineering Analysis,,118,77.6779661,14.21560558,100.0,14.0,5,0.0,4,10,9.0,5,13,10,17,21,24
+UBCV,2017,W,MECH,360,,101,Mechanics of Materials,Claire Gregoire;Claire Marie Gregoire;Kui Pan;Mauricio Ponga De La Torre;Mohammad Mohsen Seraj;Mohammad Seraj,157,72.95541401,16.54145684,98.0,0.0,13,5,9,7,8.0,18,14,20,23,20,20
+UBCV,2017,W,MECH,360,,201,Mechanics of Materials,Claire Gregoire;Claire Marie Gregoire;Kui Pan;Srikantha Anasavarapu;Xiao Liang Jin,100,73.04,15.2685853,98.0,32.0,6,9,7,7,4.0,5,12,12,12,10,16
+UBCV,2017,W,MECH,360,,OVERALL,Mechanics of Materials,,257,72.98832685,16.02792546,98.0,0.0,19,14,16,14,12.0,23,26,32,35,30,36
+UBCV,2017,W,MECH,366,,101,Modelling of Mechatronic Systems,Derry Lappin;Ryozo Nagamune;Sina Nezafatkhah,31,86.41935484,7.482308884,100.0,74.0,0,0,0,0,0.0,0,2,4,7,7,11
+UBCV,2017,W,MECH,366,,OVERALL,Modelling of Mechatronic Systems,,31,86.41935484,7.482308884,100.0,74.0,0,0,0,0,0.0,0,2,4,7,7,11
+UBCV,2017,W,MECH,368,,101,Engineering Measurements and Instrumentation,Ali Shademani;Mu Chiao;Sayed Mohammad Hashem Jayhooni;Sina Nezafatkhah,103,78.05825243,10.17091706,98.0,51.0,0,3,0.0,6,7.0,10,18,9,20,12,18
+UBCV,2017,W,MECH,368,,OVERALL,Engineering Measurements and Instrumentation,,103,78.05825243,10.17091706,98.0,51.0,0,3,0.0,6,7.0,10,18,9,20,12,18
+UBCV,2017,W,MECH,375,,101,Heat Transfer,Amir Maleki Zamenjani;Nima Atabaki;Sara Hosseinirad;Seyedabdolrasoul Asaee,90,70.45555556,12.40166817,95.0,21.0,5,2,9,8,4.0,14,15,10,13,6,4
+UBCV,2017,W,MECH,375,,201,Heat Transfer,Amir Maleki Zamenjani;Nima Atabaki;Roozbeh Yousefnejad,126,73.87301587,15.66345256,100.0,27.0,10,1,9,11,7.0,13,12,8,16,16,23
+UBCV,2017,W,MECH,375,,OVERALL,Heat Transfer,,216,72.44907407,14.46237135,100.0,21.0,15,3,18,19,11.0,27,27,18,29,22,27
+UBCV,2017,W,MECH,380,,201,Fluid Dynamics,Ali Cherom Kheirabadi;Carl Ollivier-Gooch;Gwynn Elfring;Parisa Sarmadi,128,79.9921875,10.56326728,96.0,41.0,3,1,2,3,3.0,9,19,12,21,38,17
+UBCV,2017,W,MECH,380,,OVERALL,Fluid Dynamics,,128,79.9921875,10.56326728,96.0,41.0,3,1,2,3,3.0,9,19,12,21,38,17
+UBCV,2017,W,MECH,386,,101,Industrial Fluid Mechanics,Arash Nikzad;Dana Grecov;Mohammadjavad Shariatzadeh,15,80.13333333,8.061076379,90.0,61.0,0,0,0,1,1.0,0.0,1,2,6,3,1
+UBCV,2017,W,MECH,386,,OVERALL,Industrial Fluid Mechanics,,15,80.13333333,8.061076379,90.0,61.0,0,0,0,1,1.0,0.0,1,2,6,3,1
+UBCV,2017,W,MECH,392,,101,Manufacturing Processes,Farrokh Sassani;Hamideh Torabigoudarzi;Hsi-Yung Feng,132,87.70454546,11.43100019,100.0,53.0,0,1,3,5,2.0,2,7,8,11,21,72
+UBCV,2017,W,MECH,392,,OVERALL,Manufacturing Processes,,132,87.70454546,11.43100019,100.0,53.0,0,1,3,5,2.0,2,7,8,11,21,72
+UBCV,2017,W,MECH,410,R,201,Special Topics in Mechanical Engineering,Gwynn Elfring,10,80.8,7.743097284,95.0,72.0,0,0,0,0,0.0,0,3,1,2,3,1
+UBCV,2017,W,MECH,410,R,OVERALL,Special Topics in Mechanical Engineering,,10,80.8,7.743097284,95.0,72.0,0,0,0,0,0.0,0,3,1,2,3,1
+UBCV,2017,W,MECH,420,,101,Sensors and Actuators,Amir Farzad Forughi;Boris Stoeber;Masoud Haghi Kashani;Sandra Fleming,35,76.2,11.37023979,95.0,46.0,1,1,0,4,0.0,5,4,5,6,5,4
+UBCV,2017,W,MECH,420,,OVERALL,Sensors and Actuators,,35,76.2,11.37023979,95.0,46.0,1,1,0,4,0.0,5,4,5,6,5,4
+UBCV,2017,W,MECH,421,,201,Mechatronics System Instrumentation,Alexander Joseph Yuen;Derry Lappin;Jian Gao,36,80.63888889,9.98614119,96.0,52.0,0,1,0,0,4.0,0,6,4,7,8,6
+UBCV,2017,W,MECH,421,,OVERALL,Mechatronics System Instrumentation,,36,80.63888889,9.98614119,96.0,52.0,0,1,0,0,4.0,0,6,4,7,8,6
+UBCV,2017,W,MECH,423,,101,Mechatronic Product Design,Hongshen Ma;Iftikhar Azam,34,82.64705882,8.293415983,92.0,62.0,0,0,0,1,2.0,1,3,2,8,9,8
+UBCV,2017,W,MECH,423,,OVERALL,Mechatronic Product Design,,34,82.64705882,8.293415983,92.0,62.0,0,0,0,1,2.0,1,3,2,8,9,8
+UBCV,2017,W,MECH,431,,201,Engineering Economics,Masoud Haghi Kashani;Naomi Zimmerman;Sara Azizkhani,75,75.09333333,12.87063842,94.0,28.0,2,2,5,6,7.0,5,6,10,12,13,7
+UBCV,2017,W,MECH,431,,OVERALL,Engineering Economics,,75,75.09333333,12.87063842,94.0,28.0,2,2,5,6,7.0,5,6,10,12,13,7
+UBCV,2017,W,MECH,433,,201,Biofluids,Dana Grecov,20,83.0,10.38217095,94.0,59.0,0,0,1,1,0.0,2,0,1,4,3,8
+UBCV,2017,W,MECH,433,,OVERALL,Biofluids,,20,83.0,10.38217095,94.0,59.0,0,0,1,1,0.0,2,0,1,4,3,8
+UBCV,2017,W,MECH,435,,201,Orthopaedic Biomechanics,Carly Ellen Jones;Carly Jones;Masoud Malakoutian;Thomas Oxland,36,79.88888889,7.880456034,95.0,58.0,0,0,2,0,0.0,2,2,12,9,7,2
+UBCV,2017,W,MECH,435,,OVERALL,Orthopaedic Biomechanics,,36,79.88888889,7.880456034,95.0,58.0,0,0,2,0,0.0,2,2,12,9,7,2
+UBCV,2017,W,MECH,436,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont;M'Beth Schoenfeld,17,80.35294118,8.425713445,97.0,60.0,0,0,0,1,0.0,0,3,3,6,2,2
+UBCV,2017,W,MECH,436,,OVERALL,Fundamentals of Injury Biomechanics,,17,80.35294118,8.425713445,97.0,60.0,0,0,0,1,0.0,0,3,3,6,2,2
+UBCV,2017,W,MECH,439,,201,Biomechanics Research,Antony Hodgson,15,88.53333333,5.449333729,95.0,80.0,0,0,0,0,0.0,0,0,0,4,4,7
+UBCV,2017,W,MECH,439,,OVERALL,Biomechanics Research,,15,88.53333333,5.449333729,95.0,80.0,0,0,0,0,0.0,0,0,0,4,4,7
+UBCV,2017,W,MECH,454,,001,Thermofluids Capstone Design Project,Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Dana Grecov;Farrokh Sassani;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki,20,87.05,3.619755735,92.0,80.0,0,0,0,0,0.0,0,0,0,4,8,8
+UBCV,2017,W,MECH,454,,OVERALL,Thermofluids Capstone Design Project,,20,87.05,3.619755735,92.0,80.0,0,0,0,0,0.0,0,0,0,4,8,8
+UBCV,2017,W,MECH,457,,001,Mechanical Engineering Design Project,Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Dana Grecov;Farrokh Sassani;Hendrik Van Der Loos;Lukas Schreiber;Markus Fengler;Nima Atabaki,60,85.93333333,5.53836134,94.0,71.0,0,0,0,0,0.0,1,3,3,12,19,22
+UBCV,2017,W,MECH,457,,OVERALL,Mechanical Engineering Design Project,,60,85.93333333,5.53836134,94.0,71.0,0,0,0,0,0.0,1,3,3,12,19,22
+UBCV,2017,W,MECH,458,,001,Mechatronics Design Project,Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Dana Grecov;Farrokh Sassani;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki,26,85.38461539,6.138904939,94.0,76.0,0,0,0,0,0.0,0,0,3,10,3,10
+UBCV,2017,W,MECH,458,,OVERALL,Mechatronics Design Project,,26,85.38461539,6.138904939,94.0,76.0,0,0,0,0,0.0,0,0,3,10,3,10
+UBCV,2017,W,MECH,459,,001,Biomedical Design Project,Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Dana Grecov;Farrokh Sassani;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki,13,86.84615385,5.444357229,93.0,76.0,0,0,0,0,0.0,0,0,1,4,2,6
+UBCV,2017,W,MECH,459,,OVERALL,Biomedical Design Project,,13,86.84615385,5.444357229,93.0,76.0,0,0,0,0,0.0,0,0,1,4,2,6
+UBCV,2017,W,MECH,462,,201,Finite Element Analysis,Masoud Malakoutian;Mohamed Gadala,16,70.0625,12.02480076,92.0,50.0,0,2,0,3,3.0,1,2,2,0,2,1
+UBCV,2017,W,MECH,462,,OVERALL,Finite Element Analysis,,16,70.0625,12.02480076,92.0,50.0,0,2,0,3,3.0,1,2,2,0,2,1
+UBCV,2017,W,MECH,463,,101,Mechanical Vibrations,Abbas Hosseini;Abdul Vali Syed Syed Hussain;Karry Ocean;Maryam Mohtajeb;Mohammadreza Mallakzadeh;Mohammadreza Rostam;Reza Zangeneh,140,80.03571429,10.66791782,99.0,46.0,1,2,3,4,6.0,10,20,15,25,25,29
+UBCV,2017,W,MECH,463,,OVERALL,Mechanical Vibrations,,140,80.03571429,10.66791782,99.0,46.0,1,2,3,4,6.0,10,20,15,25,25,29
+UBCV,2017,W,MECH,464,,101,Industrial Robotics,Septimiu Salcudean,6,83.0,8.318653737,95.0,75.0,0,0,0,0,0.0,0,1,3,0,0,2
+UBCV,2017,W,MECH,464,,OVERALL,Industrial Robotics,,6,83.0,8.318653737,95.0,75.0,0,0,0,0,0.0,0,1,3,0,0,2
+UBCV,2017,W,MECH,466,,201,Automatic Control,Derry Lappin;Mohammadreza Rostam;Ryozo Nagamune;Sara Hosseinirad;Sina Nezafatkhah;Varun Jacob-John,122,77.36885246,12.03177667,100.0,16.0,2,2,1,8,8.0,13,7,24,27,13,17
+UBCV,2017,W,MECH,466,,OVERALL,Automatic Control,,122,77.36885246,12.03177667,100.0,16.0,2,2,1,8,8.0,13,7,24,27,13,17
+UBCV,2017,W,MECH,467,,101,Computer Control of Mechatronics Systems,Alexander Joseph Yuen;Deniz Aslan;Yusuf Altintas,32,80.34375,16.09770446,100.0,32.0,2,0,2,0,0.0,2,3,3,5,5,10
+UBCV,2017,W,MECH,467,,OVERALL,Computer Control of Mechatronics Systems,,32,80.34375,16.09770446,100.0,32.0,2,0,2,0,0.0,2,3,3,5,5,10
+UBCV,2017,W,MECH,468,,201,Modern Control Engineering,Mohammadreza Rostam;Ryozo Nagamune,37,77.91891892,16.12516732,100.0,19.0,1,1,0,5,2.0,4,0,3,5,6,10
+UBCV,2017,W,MECH,468,,OVERALL,Modern Control Engineering,,37,77.91891892,16.12516732,100.0,19.0,1,1,0,5,2.0,4,0,3,5,6,10
+UBCV,2017,W,MECH,469,,101,Dynamic System Modelling,Clarence Wilfred De Silva;Mohammadreza Rostam,19,88.31578947,6.464025505,99.0,77.0,0,0,0,0,0.0,0,0,3,3,5,8
+UBCV,2017,W,MECH,469,,OVERALL,Dynamic System Modelling,,19,88.31578947,6.464025505,99.0,77.0,0,0,0,0,0.0,0,0,3,3,5,8
+UBCV,2017,W,MECH,470,,201,Energy Conversion Systems,William Kendal Bushe,25,80.0,9.087537253,94.0,65.0,0,0,0,0,2.0,3,5,2,4,5,4
+UBCV,2017,W,MECH,470,,OVERALL,Energy Conversion Systems,,25,80.0,9.087537253,94.0,65.0,0,0,0,0,2.0,3,5,2,4,5,4
+UBCV,2017,W,MECH,473,,201,"Heating, Ventilating and Air Conditioning",Nima Atabaki;Steven Nicholas Rogak,28,82.07142857,12.31659095,97.0,50.0,0,2,0,1,0.0,2,2,1,5,4,11
+UBCV,2017,W,MECH,473,,OVERALL,"Heating, Ventilating and Air Conditioning",,28,82.07142857,12.31659095,97.0,50.0,0,2,0,1,0.0,2,2,1,5,4,11
+UBCV,2017,W,MECH,478,,201,Internal Combustion Engines,Jeremy Rochussen;Patrick Kirchen,21,76.85714286,14.71830736,96.0,41.0,2,0,1,0,2.0,0,1,4,3,6,2
+UBCV,2017,W,MECH,478,,OVERALL,Internal Combustion Engines,,21,76.85714286,14.71830736,96.0,41.0,2,0,1,0,2.0,0,1,4,3,6,2
+UBCV,2017,W,MECH,479,,101,Computational Fluid Dynamics,Arash Nikzad;William Kendal Bushe,32,82.75,11.00146618,96.0,58.0,0,0,1,3,0.0,1,1,6,3,4,13
+UBCV,2017,W,MECH,479,,OVERALL,Computational Fluid Dynamics,,32,82.75,11.00146618,96.0,58.0,0,0,1,3,0.0,1,1,6,3,4,13
+UBCV,2017,W,MECH,481,,201,Aerodynamics of Aircraft I,Ali Vakil;Arash Nikzad,17,78.35294118,19.14399768,97.0,25.0,1,0,0,3,0.0,1,3,0,1,1,7
+UBCV,2017,W,MECH,481,,OVERALL,Aerodynamics of Aircraft I,,17,78.35294118,19.14399768,97.0,25.0,1,0,0,3,0.0,1,3,0,1,1,7
+UBCV,2017,W,MECH,484,,101,Aircraft Design: Aerodynamics,Ehsan Zaman;Katherina Tarnai-Lokhorst;Mahdiar Khosravi,37,81.54054054,5.047521915,89.0,70.0,0,0,0,0,0.0,3,2,6,14,12,0
+UBCV,2017,W,MECH,484,,OVERALL,Aircraft Design: Aerodynamics,,37,81.54054054,5.047521915,89.0,70.0,0,0,0,0,0.0,3,2,6,14,12,0
+UBCV,2017,W,MECH,485,,101,Aircraft Design: Structures,Mahdi Takaffoli,21,84.0952381,8.630786534,98.0,73.0,0,0,0,0,0.0,0,6,0.0,6,3,6
+UBCV,2017,W,MECH,485,,OVERALL,Aircraft Design: Structures,,21,84.0952381,8.630786534,98.0,73.0,0,0,0,0,0.0,0,6,0.0,6,3,6
+UBCV,2017,W,MECH,488,,101,Introduction to Ship Hydrodynamics,Christopher Brian Mckesson;Christopher Mckesson;Madeleine Melcer;Madeleine Sarah Melcer,41,83.29268293,15.44384004,98.0,0.0,1,0,0,0,1.0,0,6,2,6,11,14
+UBCV,2017,W,MECH,488,,102,Introduction to Ship Hydrodynamics,Christopher Brian Mckesson;Christopher Mckesson;Madeleine Melcer;Madeleine Sarah Melcer,11,77.81818182,5.741396726,88.0,66.0,0,0,0,0,1.0,0.0,3,4,2,1,0
+UBCV,2017,W,MECH,488,,OVERALL,Introduction to Ship Hydrodynamics,,52,82.13461539,14.09356528,98.0,0.0,1,0,0,0,2.0,0,9,6,8,12,14
+UBCV,2017,W,MECH,489,,101,Experimental Thermofluids,Claire Gregoire;Claire Marie Gregoire;Nima Atabaki,28,83.17857143,6.037252082,95.0,70.0,0,0,0,0,0.0,1,2,2,11,7,5
+UBCV,2017,W,MECH,489,,OVERALL,Experimental Thermofluids,,28,83.17857143,6.037252082,95.0,70.0,0,0,0,0,0.0,1,2,2,11,7,5
+UBCV,2017,W,MECH,491,,201,Computer-Aided Manufacturing,Mehran Mehrandezh;Oliver Terry,30,75.86666667,10.52986994,85.0,31.0,1,0,1,0,0.0,5,3,9,7,4,0
+UBCV,2017,W,MECH,491,,OVERALL,Computer-Aided Manufacturing,,30,75.86666667,10.52986994,85.0,31.0,1,0,1,0,0.0,5,3,9,7,4,0
+UBCV,2017,W,MECH,495,,101,Industrial Engineering,Farrokh Sassani;Sara Azizkhani,50,85.48,10.73282206,100.0,51.0,0,2,0,0,0.0,2,3,5,7,13,18
+UBCV,2017,W,MECH,495,,OVERALL,Industrial Engineering,,50,85.48,10.73282206,100.0,51.0,0,2,0,0,0.0,2,3,5,7,13,18
+UBCV,2017,W,MECH,496,,201,Engineering Management,Baher Amouzgar;Sara Azizkhani,40,80.725,6.763353363,93.0,63.0,0,0,0,1,1.0,1,6,6,12,11,2
+UBCV,2017,W,MECH,496,,OVERALL,Engineering Management,,40,80.725,6.763353363,93.0,63.0,0,0,0,1,1.0,1,6,6,12,11,2
+UBCV,2017,W,MECH,502,,101,Fluid Mechanics,Dana Grecov;Gwynn Elfring,17,83.82352941,9.882024679,98.0,68.0,0,0,0,0,0.0,4,0,0,2,6,5
+UBCV,2017,W,MECH,502,,OVERALL,Fluid Mechanics,,17,83.82352941,9.882024679,98.0,68.0,0,0,0,0,0.0,4,0,0,2,6,5
+UBCV,2017,W,MECH,505,,201,Industrial and Environmental Acoustics and Vibration,Hugh William Davies,11,90.45454546,1.809068067,93.0,87.0,0,0,0,0,0.0,0,0,0,0,3,8
+UBCV,2017,W,MECH,505,,OVERALL,Industrial and Environmental Acoustics and Vibration,,11,90.45454546,1.809068067,93.0,87.0,0,0,0,0,0.0,0,0,0,0,3,8
+UBCV,2017,W,MECH,507,,101,Analytical Dynamics,Srikantha Anasavarapu,6,90.16666667,2.562550813,94.0,87.0,0,0,0,0,0.0,0,0,0,0,2,4
+UBCV,2017,W,MECH,507,,OVERALL,Analytical Dynamics,,6,90.16666667,2.562550813,94.0,87.0,0,0,0,0,0.0,0,0,0,0,2,4
+UBCV,2017,W,MECH,510,,101,Computational Methods in Transport Phenomena I,Kai Kin Gary Yan,13,88.92307692,7.170094589,96.0,76.0,0,0,0,0,0.0,0,0,2,1,2,8
+UBCV,2017,W,MECH,510,,OVERALL,Computational Methods in Transport Phenomena I,,13,88.92307692,7.170094589,96.0,76.0,0,0,0,0,0.0,0,0,2,1,2,8
+UBCV,2017,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Masoud Malakoutian;Mohamed Gadala;Mohamed S Gadala,12,84.5,7.192167457,94.0,65.0,0,0,0,0,1.0,0,0,0,4,5,2
+UBCV,2017,W,MECH,514,,OVERALL,Linear FEA in Solids and Heat Transfer,,12,84.5,7.192167457,94.0,65.0,0,0,0,0,1.0,0,0,0,4,5,2
+UBCV,2017,W,MECH,520,,201,Control Sensors and Actuators,Clarence Wilfred De Silva,24,85.66666667,5.001449065,96.0,76.0,0,0,0,0,0.0,0,0,2,7,8,7
+UBCV,2017,W,MECH,520,,OVERALL,Control Sensors and Actuators,,24,85.66666667,5.001449065,96.0,76.0,0,0,0,0,0.0,0,0,2,7,8,7
+UBCV,2017,W,MECH,522,,201,Foundations in Control Engineering,Mohammadreza Rostam;Ryozo Nagamune,37,82.40540541,10.57108073,100.0,62.0,0,0,0,1,0.0,3,6,9,2,2,14
+UBCV,2017,W,MECH,522,,OVERALL,Foundations in Control Engineering,,37,82.40540541,10.57108073,100.0,62.0,0,0,0,1,0.0,3,6,9,2,2,14
+UBCV,2017,W,MECH,529,,101,Modelling of Dynamic Systems,Clarence Wilfred De Silva;Mohammadreza Rostam,18,89.83333333,8.016527046,99.0,70.0,0,0,0,0,0.0,1,0.0,2,1,3,11
+UBCV,2017,W,MECH,529,,OVERALL,Modelling of Dynamic Systems,,18,89.83333333,8.016527046,99.0,70.0,0,0,0,0,0.0,1,0.0,2,1,3,11
+UBCV,2017,W,MECH,535,,201,Orthopaedic Biomechanics,Agnes D'Entremont;M'Beth Schoenfeld;Thomas Oxland,13,81.38461539,9.014233759,96.0,69.0,0,0,0,0,0.0,3,1,2,2,2,3
+UBCV,2017,W,MECH,535,,OVERALL,Orthopaedic Biomechanics,,13,81.38461539,9.014233759,96.0,69.0,0,0,0,0,0.0,3,1,2,2,2,3
+UBCV,2017,W,MECH,536,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont;M'Beth Schoenfeld;Peter Cripton,10,80.6,14.40833092,93.0,43.0,1,0,0,0,0.0,0,1,1,0,5,2
+UBCV,2017,W,MECH,536,,OVERALL,Fundamentals of Injury Biomechanics,,10,80.6,14.40833092,93.0,43.0,1,0,0,0,0.0,0,1,1,0,5,2
+UBCV,2017,W,MECH,550,C,101,Special Advanced Courses,Neset Arda Erol;Shayan Hoshyari,23,76.91304348,15.39454757,93.0,34.0,2,0,0,0,2.0,1,4,1,4,6,3
+UBCV,2017,W,MECH,550,C,OVERALL,Special Advanced Courses,,23,76.91304348,15.39454757,93.0,34.0,2,0,0,0,2.0,1,4,1,4,6,3
+UBCV,2017,W,MECH,550,E,101,Special Advanced Courses,Christoph Sielmann;Soheil Kianzad;Varun Jacob-John,15,78.13333333,10.95358172,97.0,50.0,0,,,,1.0,1,2,4,1,4,1
+UBCV,2017,W,MECH,550,E,OVERALL,Special Advanced Courses,,15,78.13333333,10.95358172,97.0,50.0,0,,,,1.0,1,2,4,1,4,1
+UBCV,2017,W,MECH,550,H,101,Special Advanced Courses,Ian Frigaard,10,88.8,2.898275349,92.0,82.0,0,0,0,0,0.0,0,0,0,1,3,6
+UBCV,2017,W,MECH,550,H,OVERALL,Special Advanced Courses,,10,88.8,2.898275349,92.0,82.0,0,0,0,0,0.0,0,0,0,1,3,6
+UBCV,2017,W,MECH,550,L,201,Special Advanced Courses,Gwynn Elfring,6,85.0,8.148619515,93.0,72.0,0,0,0,0,0.0,0,1,1,0.0,2,2
+UBCV,2017,W,MECH,550,L,OVERALL,Special Advanced Courses,,6,85.0,8.148619515,93.0,72.0,0,0,0,0,0.0,0,1,1,0.0,2,2
+UBCV,2017,W,MECH,550,N,201,Special Advanced Courses,Christopher Mckesson,20,89.55,5.031218331,96.0,80.0,0,0,0,0,0.0,0,0,0,3,6,11
+UBCV,2017,W,MECH,550,N,OVERALL,Special Advanced Courses,,20,89.55,5.031218331,96.0,80.0,0,0,0,0,0.0,0,0,0,3,6,11
+UBCV,2017,W,MECH,561,,101,Linear Elasticity,Mauricio Ponga De La Torre,8,90.625,4.172614802,95.0,85.0,0,0,0,0,0.0,0,0,0,0,2,6
+UBCV,2017,W,MECH,561,,OVERALL,Linear Elasticity,,8,90.625,4.172614802,95.0,85.0,0,0,0,0,0.0,0,0,0,0,2,6
+UBCV,2017,W,MECH,563,,101,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean,13,90.92307692,4.271251543,99.0,85.0,0,0,0,0,0.0,0,0,0,0,4,9
+UBCV,2017,W,MECH,563,,OVERALL,"Robotics: Kinematics, Dynamics and Control",,13,90.92307692,4.271251543,99.0,85.0,0,0,0,0,0.0,0,0,0,0,4,9
+UBCV,2017,W,MECH,572,,101,Convection Heat Transfer,Nima Atabaki,8,85.75,6.273527146,95.0,76.0,0,0,0,0,0.0,0,0,1,2,2,3
+UBCV,2017,W,MECH,572,,OVERALL,Convection Heat Transfer,,8,85.75,6.273527146,95.0,76.0,0,0,0,0,0.0,0,0,1,2,2,3
+UBCV,2017,W,MECH,575,A,101,Directed Studies in Mechanical Engineering,Neset Arda Erol;Shayan Hoshyari,23,76.91304348,15.39454757,93.0,34.0,2,0,0,0,2.0,1,4,1,4,6,3
+UBCV,2017,W,MECH,575,A,OVERALL,Directed Studies in Mechanical Engineering,,23,76.91304348,15.39454757,93.0,34.0,2,0,0,0,2.0,1,4,1,4,6,3
+UBCV,2017,W,MECH,575,B,101,Directed Studies in Mechanical Engineering,Christoph Sielmann;Soheil Kianzad;Varun Jacob-John,15,86.06666667,4.283967898,91.0,75.0,0,0,0,0,0.0,0,1,0.0,3,8,3
+UBCV,2017,W,MECH,575,B,OVERALL,Directed Studies in Mechanical Engineering,,15,86.06666667,4.283967898,91.0,75.0,0,0,0,0,0.0,0,1,0.0,3,8,3
+UBCV,2017,W,MECH,578,,201,Internal Combustion Engines,Jeremy Rochussen;Patrick Kirchen,6,87.33333333,6.683312552,96.0,80.0,0,0,0,0,0.0,0,0,0,2,2,2
+UBCV,2017,W,MECH,578,,OVERALL,Internal Combustion Engines,,6,87.33333333,6.683312552,96.0,80.0,0,0,0,0,0.0,0,0,0,2,2,2
+UBCV,2017,W,MECH,582,,101,Experimental Fluid Mechanics,Claire Gregoire;Claire Marie Gregoire;Nima Atabaki;Patrick Kirchen,8,84.75,4.920801328,90.0,75.0,0,0,0,0,0.0,0,1,0.0,1,4,2
+UBCV,2017,W,MECH,582,,OVERALL,Experimental Fluid Mechanics,,8,84.75,4.920801328,90.0,75.0,0,0,0,0,0.0,0,1,0.0,1,4,2
+UBCV,2017,W,MECH,589,,101,Computer Control of Multi-Axis Machines,Alexander Joseph Yuen;Deniz Aslan;Yusuf Altintas,17,76.70588235,20.09590974,100.0,12.0,1,0,0,1,1.0,3,1,1,1,4,4
+UBCV,2017,W,MECH,589,,OVERALL,Computer Control of Multi-Axis Machines,,17,76.70588235,20.09590974,100.0,12.0,1,0,0,1,1.0,3,1,1,1,4,4
+UBCV,2017,W,MECH,592,,101,Machine Tool Structures and Vibrations,Yusuf Altintas,7,87.57142857,1.397276262,90.0,86.0,0,0,0,0,0.0,0,0,0,0,6,1
+UBCV,2017,W,MECH,592,,OVERALL,Machine Tool Structures and Vibrations,,7,87.57142857,1.397276262,90.0,86.0,0,0,0,0,0.0,0,0,0,0,6,1
+UBCV,2017,W,MECH,596,,201,CAD/CAM Principles and Practice,Mehran Mehrandezh;Oliver Terry,7,84.0,3.214550254,88.0,78.0,0,0,0,0,0.0,0,0,1,2,4,0
+UBCV,2017,W,MECH,596,,OVERALL,CAD/CAM Principles and Practice,,7,84.0,3.214550254,88.0,78.0,0,0,0,0,0.0,0,0,1,2,4,0
+UBCV,2017,W,MECH,598,,MM0,Research Seminar,Clarence Wilfred De Silva,11,89.36363636,2.500908926,93.0,84.0,0,0,0,0,0.0,0,0,0,1,3,7
+UBCV,2017,W,MECH,598,,OVERALL,Research Seminar,,25,89.04,2.54099718,93.0,84.0,0,0,0,0,0.0,0,0,0,2,9,14
+UBCV,2017,W,MECH,599,B,OVERALL,Thesis,,15,86.33333333,8.094677852,95.0,70.0,0,0,0,0,0.0,,,,,,
+UBCV,2017,W,MECH,698,,OVERALL,Seminar,,7,89.14285714,5.580578567,95.0,78.0,0,0,0,0,0.0,0,0,,,,

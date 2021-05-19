@@ -1,14 +1,14 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,APPP,501,,101,Project Management and Leadership,Stephanie Arbuckle;Tracy Page;Vatsala Gupta;Vatsala Yash Gupta,25,80.48,5.43997549,90.0,72.0,,,,,,,6,7,5,6,
-UBCV,2019,W,APPP,501,,OVERALL,Project Management and Leadership,,25,80.48,5.43997549,90.0,72.0,,,,,,,6,7,5,6,
-UBCV,2019,W,APPP,502,,101,Sustainability and Leadership,Justin Bull;Sophie Nitoslawski;Tamara Etmannski,43,81.511627907,4.255931956,93.0,72.0,,,,,,,,9,25,4,
-UBCV,2019,W,APPP,502,,102,Sustainability and Leadership,Justin Bull;Sophie Nitoslawski,44,82.681818182,3.435605138,92.0,77.0,,,,,,,,9,21,11,
-UBCV,2019,W,APPP,502,,OVERALL,Sustainability and Leadership,,87,82.10344827600001,3.885077243,93.0,72.0,,,,,,,,18,46,15,6
-UBCV,2019,W,APPP,503,,101,Organizational Leadership,Alex Trisoglio;Hannah Borland;Hannah Louise Borland,49,78.06122449,4.2397334980000005,87.0,69.0,,,,,,5,8,15,20,1,
-UBCV,2019,W,APPP,503,,102,Organizational Leadership,Alex Trisoglio;Rebecca Foley,56,78.428571429,5.4900145479999996,89.0,49.0,,,,,,1,6,27,16,5,
-UBCV,2019,W,APPP,503,,OVERALL,Organizational Leadership,,105,78.257142857,4.926436869,89.0,49.0,,,,,,6,14,42,36,6,
-UBCV,2019,W,APPP,505,,101,Analytics and Interpretation for Applied Sciences,Donabel Santos;Neha Goel;Parmeet Brahm,71,86.056338028,9.400436652,99.0,37.0,,,,,,,,,9,20,32
-UBCV,2019,W,APPP,505,,OVERALL,Analytics and Interpretation for Applied Sciences,,71,86.056338028,9.400436652,99.0,37.0,,,,,,,,,9,20,32
-UBCV,2019,W,APPP,506,C,101,Capstone Project,Philippe Kruchten,9,83.0,1.58113883,85.0,81.0,,,,,,,,,7,,0
-UBCV,2019,W,APPP,506,C,103,Capstone Project,Philippe Kruchten;Seyyed Alireza Bagherzadeh Hosseini,20,90.55,4.11000064,95.0,83.0,,,,,,,,,3,,13
-UBCV,2019,W,APPP,506,C,OVERALL,Capstone Project,,29,88.206896552,4.981245615,95.0,81.0,,,,,,,,,10,6,13
+UBCV,2019,W,APPP,501,,101,Project Management and Leadership,Stephanie Arbuckle;Tracy Page;Vatsala Gupta;Vatsala Yash Gupta,25,80.48,5.43997549,90.0,72.0,0,0,0,0,0,0,6,7,5,6,1
+UBCV,2019,W,APPP,501,,OVERALL,Project Management and Leadership,,25,80.48,5.43997549,90.0,72.0,0,0,0,0,0,0,6,7,5,6,1
+UBCV,2019,W,APPP,502,,101,Sustainability and Leadership,Justin Bull;Sophie Nitoslawski;Tamara Etmannski,43,81.51162791,4.255931956,93.0,72.0,0,0,0,0,0,0,2,9,25,4,3
+UBCV,2019,W,APPP,502,,102,Sustainability and Leadership,Justin Bull;Sophie Nitoslawski,44,82.68181818,3.435605138,92.0,77.0,0,0,0,0,0,0,0,9,21,11,3
+UBCV,2019,W,APPP,502,,OVERALL,Sustainability and Leadership,,87,82.10344828,3.885077243,93.0,72.0,0,0,0,0,0,0,2,18,46,15,6
+UBCV,2019,W,APPP,503,,101,Organizational Leadership,Alex Trisoglio;Hannah Borland;Hannah Louise Borland,49,78.06122449,4.239733498,87.0,69.0,0,0,0,0,0,5,8,15,20,1,0
+UBCV,2019,W,APPP,503,,102,Organizational Leadership,Alex Trisoglio;Rebecca Foley,56,78.42857143,5.490014548,89.0,49.0,1,0,0,0,0,1,6,27,16,5,0
+UBCV,2019,W,APPP,503,,OVERALL,Organizational Leadership,,105,78.25714286,4.926436869,89.0,49.0,1,0,0,0,0,6,14,42,36,6,0
+UBCV,2019,W,APPP,505,,101,Analytics and Interpretation for Applied Sciences,Donabel Santos;Neha Goel;Parmeet Brahm,71,86.05633803,9.400436652,99.0,37.0,2,0,0,0,0,4,1,3,9,20,32
+UBCV,2019,W,APPP,505,,OVERALL,Analytics and Interpretation for Applied Sciences,,71,86.05633803,9.400436652,99.0,37.0,2,0,0,0,0,4,1,3,9,20,32
+UBCV,2019,W,APPP,506,C,101,Capstone Project,Philippe Kruchten,9,83.0,1.58113883,85.0,81.0,0,0,0,0,0,0,0,0,7,2,0
+UBCV,2019,W,APPP,506,C,103,Capstone Project,Philippe Kruchten;Seyyed Alireza Bagherzadeh Hosseini,20,90.55,4.11000064,95.0,83.0,0,0,0,0,0,0,0,0,3,4,13
+UBCV,2019,W,APPP,506,C,OVERALL,Capstone Project,,29,88.20689655,4.981245615,95.0,81.0,0,0,0,0,0,0,0,0,10,6,13

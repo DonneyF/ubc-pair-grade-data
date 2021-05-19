@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2014,S,HIST,110,,001,Survey of the Ancient World,Jan Mctavish,32,70.375,9.671207684,92.0,43.0,,,,8,,,5,,7,,
 UBCO,2014,S,HIST,110,,OVERALL,Survey of the Ancient World,,32,70.375,9.671207684,92.0,43.0,,,,8,,,5,,7,,
-UBCO,2014,S,HIST,383,A,001,Special Topics in Social and Cultural History,David Borys,26,76.73076923,10.86115166,95.0,51.0,,,,,,,,8,,,
-UBCO,2014,S,HIST,383,A,OVERALL,Special Topics in Social and Cultural History,,26,76.73076923,10.86115166,95.0,51.0,,,,,,,,8,,,
+UBCO,2014,S,HIST,383,A,001,Special Topics in Social and Cultural History,David Borys,26,76.73076923,10.86115166,95.0,51.0,0,,,,,,,8,,,
+UBCO,2014,S,HIST,383,A,OVERALL,Special Topics in Social and Cultural History,,26,76.73076923,10.86115166,95.0,51.0,0,,,,,,,8,,,
 UBCO,2014,S,HIST,412,A,001,Topics in the History of International Relations,Todd Christopher Campbell,18,70.61111111,17.55039429,92.0,16.0,,,,,,,,,,,
 UBCO,2014,S,HIST,412,A,OVERALL,Topics in the History of International Relations,,18,70.61111111,17.55039429,92.0,16.0,,,,,,,,,,,
-UBCO,2014,S,HIST,468,,001,International Relations of the Great Powers of the 20th Century to 1939,Christopher Craig,34,74.38235294,8.249939232000001,85.0,37.0,,,,,,5,11,8,6,,
-UBCO,2014,S,HIST,468,,OVERALL,International Relations of the Great Powers of the 20th Century to 1939,,34,74.38235294,8.249939232000001,85.0,37.0,,,,,,5,11,8,6,,
-UBCO,2014,S,HIST,473,,001,War and Society from the 18th to 20th Centuries,Christopher Craig,24,72.04166667,7.737425516,83.0,47.0,,,,,,,7,5,,,
-UBCO,2014,S,HIST,473,,OVERALL,War and Society from the 18th to 20th Centuries,,24,72.04166667,7.737425516,83.0,47.0,,,,,,,7,5,,,
+UBCO,2014,S,HIST,468,,001,International Relations of the Great Powers of the 20th Century to 1939,Christopher Craig,34,74.38235294,8.249939232,85.0,37.0,,,,,,5,11,8,6,,0
+UBCO,2014,S,HIST,468,,OVERALL,International Relations of the Great Powers of the 20th Century to 1939,,34,74.38235294,8.249939232,85.0,37.0,,,,,,5,11,8,6,,0
+UBCO,2014,S,HIST,473,,001,War and Society from the 18th to 20th Centuries,Christopher Craig,24,72.04166667,7.737425516,83.0,47.0,,,,,,,7,5,,0,0
+UBCO,2014,S,HIST,473,,OVERALL,War and Society from the 18th to 20th Centuries,,24,72.04166667,7.737425516,83.0,47.0,,,,,,,7,5,,0,0

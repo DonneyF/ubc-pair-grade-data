@@ -1,13 +1,13 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,S,ARCH,538,G,001,Study of Architecture Abroad,Christopher Macdonald,14,83.92857143,3.124697788,88.0,78.0,,,,,,,,,7,6,
-UBCV,2014,S,ARCH,538,G,OVERALL,Study of Architecture Abroad,,14,83.92857143,3.124697788,88.0,78.0,,,,,,,,,7,6,
-UBCV,2014,S,ARCH,544,G,001,Architectural Seminar,Trevor Boddy,6,82.66666667,7.339391437000001,91.0,72.0,,,,,,,,,,,
-UBCV,2014,S,ARCH,544,G,OVERALL,Architectural Seminar,,6,82.66666667,7.339391437000001,91.0,72.0,,,,,,,,,,,
-UBCV,2014,S,ARCH,544,O,001,Architectural Seminar,Annalisa Meyboom,10,84.3,3.4976182369999997,90.0,78.0,,,,,,,,,,5,
-UBCV,2014,S,ARCH,544,O,OVERALL,Architectural Seminar,,10,84.3,3.4976182369999997,90.0,78.0,,,,,,,,,,5,
-UBCV,2014,S,ARCH,544,P,001,Architectural Seminar,Leslie Van Duzer,13,83.0,4.932882862,89.0,75.0,,,,,,,,,,7,
-UBCV,2014,S,ARCH,544,P,OVERALL,Architectural Seminar,,13,83.0,4.932882862,89.0,75.0,,,,,,,,,,7,
-UBCV,2014,S,ARCH,545,A,941,Directed Studies,,6,83.33333333,5.354126135,88.0,73.0,,,,,,,,,,,
-UBCV,2014,S,ARCH,545,A,OVERALL,Directed Studies,,6,83.33333333,5.354126135,88.0,73.0,,,,,,,,,,,
+UBCV,2014,S,ARCH,538,G,001,Study of Architecture Abroad,Christopher Macdonald,14,83.92857143,3.124697788,88.0,78.0,0,0,0,0,0,0,0,1.0,7,6,0
+UBCV,2014,S,ARCH,538,G,OVERALL,Study of Architecture Abroad,,14,83.92857143,3.124697788,88.0,78.0,0,0,0,0,0,0,0,1.0,7,6,0
+UBCV,2014,S,ARCH,544,G,001,Architectural Seminar,Trevor Boddy,6,82.66666667,7.339391437,91.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2014,S,ARCH,544,G,OVERALL,Architectural Seminar,,6,82.66666667,7.339391437,91.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2014,S,ARCH,544,O,001,Architectural Seminar,Annalisa Meyboom,10,84.3,3.497618237,90.0,78.0,0,0,0,0,0,0,0,,,5,
+UBCV,2014,S,ARCH,544,O,OVERALL,Architectural Seminar,,10,84.3,3.497618237,90.0,78.0,0,0,0,0,0,0,0,,,5,
+UBCV,2014,S,ARCH,544,P,001,Architectural Seminar,Leslie Van Duzer,13,83.0,4.932882862,89.0,75.0,0,0,0,0,0,0,,,,7,0
+UBCV,2014,S,ARCH,544,P,OVERALL,Architectural Seminar,,13,83.0,4.932882862,89.0,75.0,0,0,0,0,0,0,,,,7,0
+UBCV,2014,S,ARCH,545,A,941,Directed Studies,,6,83.33333333,5.354126135,88.0,73.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,S,ARCH,545,A,OVERALL,Directed Studies,,6,83.33333333,5.354126135,88.0,73.0,0,0,0,0,0,0,,,,,0
 UBCV,2014,S,ARCH,577,,001,Seminar in Advanced Computer Applications,Blair Satterfield,39,84.76923077,14.45221079,100.0,30.0,,,,,,,,,14,,17
 UBCV,2014,S,ARCH,577,,OVERALL,Seminar in Advanced Computer Applications,,39,84.76923077,14.45221079,100.0,30.0,,,,,,,,,14,,17

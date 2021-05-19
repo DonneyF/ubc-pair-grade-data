@@ -1,12 +1,12 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,ENPH,259,,101,Experimental Techniques,David Jones,64,78.890625,7.436753831,97.0,61.0,,,,,5,7,5,13,19,10,
-UBCV,2014,W,ENPH,259,,OVERALL,Experimental Techniques,,64,78.890625,7.436753831,97.0,61.0,,,,,5,7,5,13,19,10,
-UBCV,2014,W,ENPH,352,,L1A,Laboratory Techniques in Physics,Christopher Waltham,8,77.625,7.424621202000001,87.0,68.0,,,,,,,,,,,
-UBCV,2014,W,ENPH,352,,L1B,Laboratory Techniques in Physics,Christopher Waltham,16,74.4375,10.2824689,90.0,55.0,,,,,,,,,,,
-UBCV,2014,W,ENPH,352,,L1D,Laboratory Techniques in Physics,Christopher Waltham,17,74.88235294,7.29625206,90.0,63.0,,,,,,,,,5,,
+UBCV,2014,W,ENPH,259,,101,Experimental Techniques,David Jones,64,78.890625,7.436753831,97.0,61.0,0,0,0,,5,7,5,13,19,10,
+UBCV,2014,W,ENPH,259,,OVERALL,Experimental Techniques,,64,78.890625,7.436753831,97.0,61.0,0,0,0,,5,7,5,13,19,10,
+UBCV,2014,W,ENPH,352,,L1A,Laboratory Techniques in Physics,Christopher Waltham,8,77.625,7.424621202,87.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,ENPH,352,,L1B,Laboratory Techniques in Physics,Christopher Waltham,16,74.4375,10.2824689,90.0,55.0,0,0,,,,,,,,,
+UBCV,2014,W,ENPH,352,,L1D,Laboratory Techniques in Physics,Christopher Waltham,17,74.88235294,7.29625206,90.0,63.0,0,0,0,,,,,,5,,
 UBCV,2014,W,ENPH,352,,L2C,Laboratory Techniques in Physics,Carl Michal;Christopher Waltham,15,74.66666667,19.80500177,92.0,9.0,,,,,,,,,6,,
 UBCV,2014,W,ENPH,352,,OVERALL,Laboratory Techniques in Physics,,56,75.08928571,12.34102808,92.0,9.0,,,,,5,9,6,6,15,7,
-UBCV,2014,W,ENPH,459,,001,Engineering Physics Project I,Carl Hansen;Jeff Young;Jonathan Nakane,57,84.63157895,5.829823505,91.0,61.0,,,,,,,,,25,18,11
-UBCV,2014,W,ENPH,459,,OVERALL,Engineering Physics Project I,,57,84.63157895,5.829823505,91.0,61.0,,,,,,,,,25,18,11
-UBCV,2014,W,ENPH,479,,101,Engineering Physics Project II,David Jones;Jonathan Nakane,51,83.7254902,7.992692741,93.0,53.0,,,,,,,,,19,13,13
-UBCV,2014,W,ENPH,479,,OVERALL,Engineering Physics Project II,,51,83.7254902,7.992692741,93.0,53.0,,,,,,,,,19,13,13
+UBCV,2014,W,ENPH,459,,001,Engineering Physics Project I,Carl Hansen;Jeff Young;Jonathan Nakane,57,84.63157895,5.829823505,91.0,61.0,0,0,0,,,,,,25,18,11
+UBCV,2014,W,ENPH,459,,OVERALL,Engineering Physics Project I,,57,84.63157895,5.829823505,91.0,61.0,0,0,0,,,,,,25,18,11
+UBCV,2014,W,ENPH,479,,101,Engineering Physics Project II,David Jones;Jonathan Nakane,51,83.7254902,7.992692741,93.0,53.0,0,,,,,,,,19,13,13
+UBCV,2014,W,ENPH,479,,OVERALL,Engineering Physics Project II,,51,83.7254902,7.992692741,93.0,53.0,0,,,,,,,,19,13,13

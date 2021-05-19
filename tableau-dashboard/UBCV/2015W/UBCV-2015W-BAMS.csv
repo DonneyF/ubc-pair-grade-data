@@ -1,28 +1,28 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,BAMS,500,,OR1,Management Science - Best Practices,Derek Atkins,13,90.23076923100001,5.35652011,97.0,82.0,,,,,,,,,,,7
-UBCV,2015,W,BAMS,500,,OVERALL,Management Science - Best Practices,,13,90.23076923100001,5.35652011,97.0,82.0,,,,,,,,,,,7
-UBCV,2015,W,BAMS,501,,OR1,Probabilistic Models for Management,Zhe Zhang,18,81.0,11.837130018,97.0,61.0,,,,,,,,,,,5
-UBCV,2015,W,BAMS,501,,OVERALL,Probabilistic Models for Management,,18,81.0,11.837130018,97.0,61.0,,,,,,,,,,,5
-UBCV,2015,W,BAMS,502,,OR1,Stochastic Processes,Zhe Zhang,15,80.4,5.382511363,91.0,71.0,,,,,,,,5,,,
-UBCV,2015,W,BAMS,502,,OVERALL,Stochastic Processes,,15,80.4,5.382511363,91.0,71.0,,,,,,,,5,,,
-UBCV,2015,W,BAMS,503,,OR1,Simulation for Decision Making,Candice Chan;Mohammad Reza Skandari;Steven Shechter,16,82.25,8.970321436,96.0,68.0,,,,,,,,,5,,5
-UBCV,2015,W,BAMS,503,,OVERALL,Simulation for Decision Making,,16,82.25,8.970321436,96.0,68.0,,,,,,,,,5,,5
-UBCV,2015,W,BAMS,504,,OR1,Advanced Simulation for Decision Making,Mohammad Reza Skandari;Steven Shechter,15,82.733333333,4.479583314,88.0,70.0,,,,,,,,,7,6,
-UBCV,2015,W,BAMS,504,,OVERALL,Advanced Simulation for Decision Making,,15,82.733333333,4.479583314,88.0,70.0,,,,,,,,,7,6,
-UBCV,2015,W,BAMS,506,,OR1,Optimization Model,Antoine Michele Saure Valenzuela,16,80.4375,7.805713719,91.0,64.0,,,,,,,,,5,5,
-UBCV,2015,W,BAMS,506,,OVERALL,Optimization Model,,16,80.4375,7.805713719,91.0,64.0,,,,,,,,,5,5,
-UBCV,2015,W,BAMS,508,,OR1,Applications of Discrete Optimization,Antoine Michele Saure Valenzuela,14,81.5,7.449832213,95.0,66.0,,,,,,,,,5,,
-UBCV,2015,W,BAMS,508,,OVERALL,Applications of Discrete Optimization,,14,81.5,7.449832213,95.0,66.0,,,,,,,,,5,,
-UBCV,2015,W,BAMS,517,,OR1,Decision Analysis,Mona Imanpoor Yourdshahy;Steven Shechter,13,80.0,7.129749878999999,90.0,68.0,,,,,,,,,,,
-UBCV,2015,W,BAMS,517,,OVERALL,Decision Analysis,,13,80.0,7.129749878999999,90.0,68.0,,,,,,,,,,,
-UBCV,2015,W,BAMS,521,,OR1,Consulting Practices I,William Stuart Donald,13,82.0,5.115336418,90.0,76.0,,,,,,,,6,,,
-UBCV,2015,W,BAMS,521,,OVERALL,Consulting Practices I,,13,82.0,5.115336418,90.0,76.0,,,,,,,,6,,,
-UBCV,2015,W,BAMS,522,,OR1,Consulting Practices II,William Stuart Donald,13,83.0,6.6206746889999994,94.0,76.0,,,,,,,,6,,,
-UBCV,2015,W,BAMS,522,,OVERALL,Consulting Practices II,,13,83.0,6.6206746889999994,94.0,76.0,,,,,,,,6,,,
-UBCV,2015,W,BAMS,523,,002,Managerial Decisions Modeling and Analytics,Steven Shechter,33,80.060606061,6.20453158,97.0,68.0,,,,,,3,4,6,13,6,1
-UBCV,2015,W,BAMS,523,,301,Managerial Decisions Modeling and Analytics,Mohammad Reza Skandari;Mona Imanpoor Yourdshahy;Steven Shechter,29,80.379310345,8.427903455,98.0,68.0,,,,,,5,5,2,8,4,5
-UBCV,2015,W,BAMS,523,,OVERALL,Managerial Decisions Modeling and Analytics,,62,80.209677419,7.268023604,98.0,68.0,,,,,,8,9,8,21,10,6
-UBCV,2015,W,BAMS,550,,MM1,Operations and Logistics,Jodie Lam;Woonghee Tim Huh,46,84.173913043,5.0433866389999995,94.0,76.0,,,,,,,,7,16,15,8
-UBCV,2015,W,BAMS,550,,OVERALL,Operations and Logistics,,46,84.173913043,5.0433866389999995,94.0,76.0,,,,,,,,7,16,15,8
-UBCV,2015,W,BAMS,580,D,OR1,Topics in Applied Management Science,Rachel Lewis;Rene Lagos,14,79.714285714,10.708936394,93.0,65.0,,,,,,,,,,,
-UBCV,2015,W,BAMS,580,D,OVERALL,Topics in Applied Management Science,,14,79.714285714,10.708936394,93.0,65.0,,,,,,,,,,,
+UBCV,2015,W,BAMS,500,,OR1,Management Science - Best Practices,Derek Atkins,13,90.230769231,5.35652011,97.0,82.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2015,W,BAMS,500,,OVERALL,Management Science - Best Practices,,13,90.230769231,5.35652011,97.0,82.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2015,W,BAMS,501,,OR1,Probabilistic Models for Management,Zhe Zhang,18,81.0,11.837130018,97.0,61.0,0,0,0,,,,,,,,5
+UBCV,2015,W,BAMS,501,,OVERALL,Probabilistic Models for Management,,18,81.0,11.837130018,97.0,61.0,0,0,0,,,,,,,,5
+UBCV,2015,W,BAMS,502,,OR1,Stochastic Processes,Zhe Zhang,15,80.4,5.382511363,91.0,71.0,0,0,0,0,0,,,5,,,
+UBCV,2015,W,BAMS,502,,OVERALL,Stochastic Processes,,15,80.4,5.382511363,91.0,71.0,0,0,0,0,0,,,5,,,
+UBCV,2015,W,BAMS,503,,OR1,Simulation for Decision Making,Candice Chan;Mohammad Reza Skandari;Steven Shechter,16,82.25,8.970321436,96.0,68.0,0,0,0,0,0,,,,5,,5
+UBCV,2015,W,BAMS,503,,OVERALL,Simulation for Decision Making,,16,82.25,8.970321436,96.0,68.0,0,0,0,0,0,,,,5,,5
+UBCV,2015,W,BAMS,504,,OR1,Advanced Simulation for Decision Making,Mohammad Reza Skandari;Steven Shechter,15,82.733333333,4.479583314,88.0,70.0,0,0,0,0,0,,,,7,6,0
+UBCV,2015,W,BAMS,504,,OVERALL,Advanced Simulation for Decision Making,,15,82.733333333,4.479583314,88.0,70.0,0,0,0,0,0,,,,7,6,0
+UBCV,2015,W,BAMS,506,,OR1,Optimization Model,Antoine Michele Saure Valenzuela,16,80.4375,7.805713719,91.0,64.0,0,0,0,0,,,,,5,5,
+UBCV,2015,W,BAMS,506,,OVERALL,Optimization Model,,16,80.4375,7.805713719,91.0,64.0,0,0,0,0,,,,,5,5,
+UBCV,2015,W,BAMS,508,,OR1,Applications of Discrete Optimization,Antoine Michele Saure Valenzuela,14,81.5,7.449832213,95.0,66.0,0,0,0,0,,,,,5,,
+UBCV,2015,W,BAMS,508,,OVERALL,Applications of Discrete Optimization,,14,81.5,7.449832213,95.0,66.0,0,0,0,0,,,,,5,,
+UBCV,2015,W,BAMS,517,,OR1,Decision Analysis,Mona Imanpoor Yourdshahy;Steven Shechter,13,80.0,7.129749879,90.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,BAMS,517,,OVERALL,Decision Analysis,,13,80.0,7.129749879,90.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,BAMS,521,,OR1,Consulting Practices I,William Stuart Donald,13,82.0,5.115336418,90.0,76.0,0,0,0,0,0,0,0,6,,,
+UBCV,2015,W,BAMS,521,,OVERALL,Consulting Practices I,,13,82.0,5.115336418,90.0,76.0,0,0,0,0,0,0,0,6,,,
+UBCV,2015,W,BAMS,522,,OR1,Consulting Practices II,William Stuart Donald,13,83.0,6.620674689,94.0,76.0,0,0,0,0,0,0,0,6,,,
+UBCV,2015,W,BAMS,522,,OVERALL,Consulting Practices II,,13,83.0,6.620674689,94.0,76.0,0,0,0,0,0,0,0,6,,,
+UBCV,2015,W,BAMS,523,,002,Managerial Decisions Modeling and Analytics,Steven Shechter,33,80.060606061,6.20453158,97.0,68.0,0,0,0,0,0,3,4,6,13,6,1
+UBCV,2015,W,BAMS,523,,301,Managerial Decisions Modeling and Analytics,Mohammad Reza Skandari;Mona Imanpoor Yourdshahy;Steven Shechter,29,80.379310345,8.427903455,98.0,68.0,0,0,0,0,0,5,5,2,8,4,5
+UBCV,2015,W,BAMS,523,,OVERALL,Managerial Decisions Modeling and Analytics,,62,80.209677419,7.268023604,98.0,68.0,0,0,0,0,0,8,9,8,21,10,6
+UBCV,2015,W,BAMS,550,,MM1,Operations and Logistics,Jodie Lam;Woonghee Tim Huh,46,84.173913043,5.043386639,94.0,76.0,0,0,0,0,0,0,0,7,16,15,8
+UBCV,2015,W,BAMS,550,,OVERALL,Operations and Logistics,,46,84.173913043,5.043386639,94.0,76.0,0,0,0,0,0,0,0,7,16,15,8
+UBCV,2015,W,BAMS,580,D,OR1,Topics in Applied Management Science,Rachel Lewis;Rene Lagos,14,79.714285714,10.708936394,93.0,65.0,0,0,0,0,,,,,,,
+UBCV,2015,W,BAMS,580,D,OVERALL,Topics in Applied Management Science,,14,79.714285714,10.708936394,93.0,65.0,0,0,0,0,,,,,,,

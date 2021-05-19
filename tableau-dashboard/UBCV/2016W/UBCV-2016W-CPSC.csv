@@ -1,164 +1,164 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,CPSC,100,,101,Computational Thinking,Gudbrand Tandberg;Kailang Jiang;Omar Alomeir;Rachel Pottinger,85,81.6,9.643897651,99.0,55.0,0,,,,3,4,10,7,16,20,21
-UBCV,2016,W,CPSC,100,,201,Computational Thinking,Anne Condon;Enrique Alberto Rosales Ruiz;Enrique Ruiz;Gudbrand Tandberg,121,76.851239669,14.363530877999999,98.0,0.0,7,,,,7,11,18,10,26,24,14
-UBCV,2016,W,CPSC,100,,OVERALL,Computational Thinking,,206,78.810679612,12.820641989,99.0,0.0,7,,,,10,15,28,17,42,44,35
-UBCV,2016,W,CPSC,103,,101,Introduction to Systematic Program Design,Meghan Allen;Steven Wolfman,98,72.93877551,19.846221343,99.0,0.0,13,,1,6,,10,8,7,15,10,22
-UBCV,2016,W,CPSC,103,,201,Introduction to Systematic Program Design,Meghan Allen,102,76.647058824,20.066052836,99.0,0.0,10,,6,3,,3,7,11,14,11,34
-UBCV,2016,W,CPSC,103,,OVERALL,Introduction to Systematic Program Design,,200,74.83,19.995001888,99.0,0.0,23,3.0,7,9,6,13,15,18,29,21,56
-UBCV,2016,W,CPSC,110,,101,"Computation, Programs, and Programming",Celina Berg,273,75.380952381,19.779332365,100.0,3.0,54,,,6,9,6,18,25,37,34,81
-UBCV,2016,W,CPSC,110,,102,"Computation, Programs, and Programming",Gregor Kiczales,193,79.85492228,16.001291911,100.0,29.0,20,,,,7,6,13,19,27,33,64
-UBCV,2016,W,CPSC,110,,103,"Computation, Programs, and Programming",James Joseph Little;James Little,148,71.405405405,19.391364176,97.0,30.0,42,,,,5,6,14,5,23,25,27
-UBCV,2016,W,CPSC,110,,104,"Computation, Programs, and Programming",Anthony Estey,150,72.04,19.590396223,100.0,0.0,37,,,,7,9,9,8,23,25,27
-UBCV,2016,W,CPSC,110,,1CH,"Computation, Programs, and Programming",,7,83.142857143,8.764104279,96.0,72.0,,,,,,,,,,,2
-UBCV,2016,W,CPSC,110,,201,"Computation, Programs, and Programming",Anthony Estey,150,76.886666667,19.395750128,100.0,3.0,20,,,,7,10,12,16,21,12,47
-UBCV,2016,W,CPSC,110,,202,"Computation, Programs, and Programming",Paul Carter;Paul Martin Carter,169,75.26627218899999,20.37023648,100.0,18.0,31,,,,14,8,11,16,11,21,51
-UBCV,2016,W,CPSC,110,,203,"Computation, Programs, and Programming",William Aiello,166,64.06626506,21.292233765,100.0,3.0,52,,,8,8,15,20,20,14,12,12
-UBCV,2016,W,CPSC,110,,BCS,"Computation, Programs, and Programming",Gregor Kiczales,59,88.406779661,12.409838483,100.0,36.0,,,,,,,,,,12,36
-UBCV,2016,W,CPSC,110,,OVERALL,"Computation, Programs, and Programming",,1378,74.46298984,19.940408907000002,100.0,0.0,273,9,7,28,60,65,105,116,173,178,364
-UBCV,2016,W,CPSC,110,,V01,"Computation, Programs, and Programming",Celina Berg,60,71.93333333300001,22.541010960999998,100.0,4.0,14,,,,,5,6,,8,,17
-UBCV,2016,W,CPSC,121,,101,Models of Computation,Xi Gao,152,78.243421053,14.210804914,100.0,39.0,13,,,6,7,11,6,20,26,28,33
-UBCV,2016,W,CPSC,121,,102,Models of Computation,Patrice Belleville,149,74.181208054,14.528189602000001,98.0,21.0,14,0.0,6,7,8,19,18,16,22,19,20
-UBCV,2016,W,CPSC,121,,103,Models of Computation,Patrice Belleville,150,71.93333333300001,15.977192917,99.0,26.0,22,,6,,14,15,21,15,20,21,14
-UBCV,2016,W,CPSC,121,,202,Models of Computation,Xi Gao,184,76.608695652,11.185428188,100.0,40.0,8,,,,16,23,21,25,39,28,17
-UBCV,2016,W,CPSC,121,,203,Models of Computation,Adnan Reza;Steven Wolfman,161,73.732919255,14.187035350999999,99.0,12.0,13,,,,12,27,19,30,22,14,17
-UBCV,2016,W,CPSC,121,,204,Models of Computation,Ryan Vogt,74,69.31081081100001,14.242446375999998,93.0,26.0,11,,,,12,6,11,6,12,7,2
-UBCV,2016,W,CPSC,121,,BCS,Models of Computation,Steven Wolfman,26,82.307692308,10.074797192,97.0,45.0,1,,,,0,1,1,4,8,5,6
-UBCV,2016,W,CPSC,121,,OVERALL,Models of Computation,,896,74.745535714,14.172992735,100.0,12.0,82,5,22,23,69,102,97,116,149,122,109
-UBCV,2016,W,CPSC,210,,101,Software Construction,Clement Fung;Norman Hutchinson,156,77.653846154,15.468033153,100.0,18.0,11,,,,15,13,16,12,28,23,33
-UBCV,2016,W,CPSC,210,,102,Software Construction,Jonatan Schroeder,113,76.32743362800001,14.994905372,100.0,30.0,9,,,8,10,11,5,14,15,17,22
-UBCV,2016,W,CPSC,210,,103,Software Construction,Clement Fung;Ryan Vogt,134,69.119402985,17.256597202000002,98.0,5.0,15,2.0,9,17,12,12,13,20,13,11,10
-UBCV,2016,W,CPSC,210,,201,Software Construction,Clement Fung;Norman Hutchinson,147,73.653061224,17.518934204,100.0,4.0,14,3.0,8,8,14,11,13,14,20,17,25
-UBCV,2016,W,CPSC,210,,202,Software Construction,Paul Carter;Paul Martin Carter,110,69.472727273,19.528247755,100.0,11.0,23,,,,7,9,10,7,20,13,12
-UBCV,2016,W,CPSC,210,,203,Software Construction,Mehrdad Oveisi-Fordoei,108,68.157407407,16.241266258,97.0,32.0,20,3.0,8,5,13,15,8,9,10,5,12
-UBCV,2016,W,CPSC,210,,BCS,Software Construction,Paul Carter;Paul Martin Carter,41,85.170731707,8.70029436,100.0,63.0,0,,,,1,0,5,4,6,11,13
-UBCV,2016,W,CPSC,210,,OVERALL,Software Construction,,809,73.328800989,17.093964938,100.0,4.0,92,12,30,46,72,71,70,80,112,97,127
-UBCV,2016,W,CPSC,213,,101,Introduction to Computer Systems,Ahmed Awad,182,78.956043956,13.518893747,99.0,28.0,12,,,4,7,11,18,22,31,42,32
-UBCV,2016,W,CPSC,213,,201,Introduction to Computer Systems,Michael Feeley,117,70.47008547,18.705325007,99.0,13.0,17,3.0,5,11,8,6,12,10,17,13,15
-UBCV,2016,W,CPSC,213,,203,Introduction to Computer Systems,Alan Wagner,89,72.292134831,19.211858463,96.0,0.0,8,,,6,7,5,9,17,9,12,11
-UBCV,2016,W,CPSC,213,,204,Introduction to Computer Systems,Michael Feeley,136,72.272058824,16.517764584000002,98.0,2.0,11,2.0,5,8,16,14,19,11,21,16,13
-UBCV,2016,W,CPSC,213,,OVERALL,Introduction to Computer Systems,,524,74.194656489,16.910185930999997,99.0,0.0,48,6,17,29,38,36,58,60,78,83,71
-UBCV,2016,W,CPSC,221,,101,Basic Algorithms and Data Structures,Jan Manuch;William Evans;Xing Zeng;Zheng Dong,194,74.840206186,14.095169935,97.0,11.0,13,3.0,9,10,11,19,21,29,30,19,30
-UBCV,2016,W,CPSC,221,,102,Basic Algorithms and Data Structures,Jan Manuch;William Evans;Xing Zeng;Zheng Dong,158,75.981012658,12.083821642,100.0,36.0,5,4.0,5,10,13,10,25,16,31,18,21
-UBCV,2016,W,CPSC,221,,201,Basic Algorithms and Data Structures,Edwin Max Knorr;Itrat Akhter;Zheng Dong,159,77.610062893,16.134683119,97.0,4.0,14,5,1.0,1,8,5,19,14,34,20,38
-UBCV,2016,W,CPSC,221,,202,Basic Algorithms and Data Structures,Anthony Estey;Jan Manuch;Sedigheh Zolaktaf;Xing Zeng,144,80.090277778,12.044157214,99.0,37.0,4,1.0,1.0,8,8,8,17,15,16,34,32
-UBCV,2016,W,CPSC,221,,203,Basic Algorithms and Data Structures,Mehrdad Oveisi-Fordoei,88,71.159090909,14.185054758,98.0,35.0,10,1.0,6,6,9,4,12,16,7,12,5
-UBCV,2016,W,CPSC,221,,OVERALL,Basic Algorithms and Data Structures,,743,76.257065949,14.015100655,100.0,4.0,46,14,22,35,49,46,94,90,118,103,126
-UBCV,2016,W,CPSC,259,,101,Data Structures and Algorithms for Electrical Engineers,Ahmed Awad,214,77.67289719600001,12.553566502999999,98.0,10.0,,,8,15,7,19,25,33,34,36,32
-UBCV,2016,W,CPSC,259,,OVERALL,Data Structures and Algorithms for Electrical Engineers,,214,77.67289719600001,12.553566502999999,98.0,10.0,,,8,15,7,19,25,33,34,36,32
-UBCV,2016,W,CPSC,261,,201,Basics of Computer Systems,Farid Molazem Tabrizi;Jonatan Schroeder,126,68.23015873,14.258842982,97.0,0.0,10,7,9,15,18,14,19,7,9,10,8
-UBCV,2016,W,CPSC,261,,OVERALL,Basics of Computer Systems,,126,68.23015873,14.258842982,97.0,0.0,10,7,9,15,18,14,19,7,9,10,8
-UBCV,2016,W,CPSC,301,,201,Computing in the Life Sciences,David Johnson;Jessica Dawson,162,83.024691358,11.552177401,99.0,45.0,7,,,,,10,10,18,28,29,56
-UBCV,2016,W,CPSC,301,,OVERALL,Computing in the Life Sciences,,162,83.024691358,11.552177401,99.0,45.0,7,,,,,10,10,18,28,29,56
-UBCV,2016,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Itrat Akhter;Michael Friedlander;Michael Philip Wathen;Michael Wathen,75,83.133333333,15.672607653,100.0,19.0,,,,,,,6,6,13,14,30
-UBCV,2016,W,CPSC,302,,OVERALL,Numerical Computation for Algebraic Problems,,75,83.133333333,15.672607653,100.0,19.0,,,,,,,6,6,13,14,30
-UBCV,2016,W,CPSC,303,,201,Numerical Approximation and Discretization,Jessica Bosch;Michael Philip Wathen;Michael Wathen,67,75.701492537,18.30798379,100.0,19.0,,,5,,8,7,,5,,5,22
-UBCV,2016,W,CPSC,303,,OVERALL,Numerical Approximation and Discretization,,67,75.701492537,18.30798379,100.0,19.0,,,5,,8,7,,5,,5,22
-UBCV,2016,W,CPSC,304,,101,Introduction to Relational Databases,Adnan Reza;Hazra Imran;Mir Rayat Imtiaz Hossain,158,77.379746835,9.243767117,93.0,39.0,,,,8,8,16,22,26,37,26,10
-UBCV,2016,W,CPSC,304,,201,Introduction to Relational Databases,Laks Lakshmanan;Wenqiang Dong,138,78.152173913,8.773635169,100.0,59.0,,,,5,12,12,26,22,28,17,15
-UBCV,2016,W,CPSC,304,,202,Introduction to Relational Databases,Hazra Imran,74,75.22972973,11.144809342,96.0,45.0,,,,9,4,7,11,8,15,9,6
-UBCV,2016,W,CPSC,304,,OVERALL,Introduction to Relational Databases,,370,77.237837838,9.52034909,100.0,39.0,,,5,22,24,35,59,56,80,52,31
-UBCV,2016,W,CPSC,310,,101,Introduction to Software Engineering,Arthur De Sousa Marques;Giovanni Viviani;Nam Giang;Nicholas Bradley;Reid Holmes;Rodrigo Araujo;Stewart Grant;Wenqiang Dong,141,81.716312057,11.679240583,98.0,9.0,,,,,,6,11,16,32,40,28
-UBCV,2016,W,CPSC,310,,201,Introduction to Software Engineering,Elisa Baniassad;Gail Murphy;Giovanni Viviani;Nicholas Bradley;Reid Holmes;Rodrigo Araujo,146,81.739726027,11.924506666,97.0,16.0,,,,,9,11,5,15,21,37,43
-UBCV,2016,W,CPSC,310,,202,Introduction to Software Engineering,Elisa Baniassad;Gail Murphy;Giovanni Viviani;Reid Holmes,132,79.984848485,11.169058165,95.0,23.0,,,,,,12,11,16,32,23,28
-UBCV,2016,W,CPSC,310,,OVERALL,Introduction to Software Engineering,,419,81.178997613,11.60881277,98.0,9.0,8,,,,15,29,27,47,85,100,99
-UBCV,2016,W,CPSC,311,,101,Definition of Programming Languages,Joseph Eremondi;Joshua Dunfield,119,88.344537815,11.68182492,100.0,31.0,,,,,,,7,,14,20,68
-UBCV,2016,W,CPSC,311,,OVERALL,Definition of Programming Languages,,119,88.344537815,11.68182492,100.0,31.0,,,,,,,7,,14,20,68
-UBCV,2016,W,CPSC,312,,101,Functional and Logic Programming,David Poole;Julin Song;Rui Ge,117,76.68376068399999,13.201129505,100.0,13.0,,,5,,8,20,15,10,22,9,21
-UBCV,2016,W,CPSC,312,,OVERALL,Functional and Logic Programming,,117,76.68376068399999,13.201129505,100.0,13.0,,,5,,8,20,15,10,22,9,21
-UBCV,2016,W,CPSC,313,,101,Computer Hardware and Operating Systems,Michael Feeley;Tianri Gu;Yeu Yang Tai,161,77.248447205,11.715924556,98.0,44.0,6,0.0,6,6,15,11,19,22,27,27,22
-UBCV,2016,W,CPSC,313,,202,Computer Hardware and Operating Systems,Donald Acton;Tianri Gu,150,71.686666667,13.776809942,98.0,0.0,7,9,8,12,12,24,14,16,21,18,9
-UBCV,2016,W,CPSC,313,,OVERALL,Computer Hardware and Operating Systems,,311,74.565916399,13.031524892,98.0,0.0,13,9,14,18,27,35,33,38,48,45,31
-UBCV,2016,W,CPSC,314,,101,Computer Graphics,Alla Sheffer;Amon Ge;Enrique Alberto Rosales Ruiz;Enrique Ruiz;Xinyi Zhang,114,82.456140351,14.467014877999999,100.0,8.0,,,,,3,7,7,7,21,20,41
-UBCV,2016,W,CPSC,314,,201,Computer Graphics,Jacob Benjamin Chen;Jacob Chen;Michiel Van De Panne;Xinyi Zhang,65,76.984615385,12.29264555,99.0,44.0,,,,,7,4,6,11,10,13,7
-UBCV,2016,W,CPSC,314,,OVERALL,Computer Graphics,,179,80.469273743,13.93415112,100.0,8.0,6,,,,10,11,13,18,31,33,48
-UBCV,2016,W,CPSC,317,,101,Internet Computing,Donald Acton;Mohammad Amin Aghaee Rad;Nodir Kodirov;Patrick Colp,120,71.5,14.276972115,97.0,19.0,10,5,8,12,9,9,13,19,13,11,11
-UBCV,2016,W,CPSC,317,,201,Internet Computing,Donald Acton;Fabian Nikolaus Trutz Ruffy Varga;Mohammad Amin Aghaee Rad,145,73.213793103,15.166294045999999,94.0,10.0,6,8,9,8,10,15,17,10,25,25,12
-UBCV,2016,W,CPSC,317,,OVERALL,Internet Computing,,265,72.43773584899999,14.767288615,97.0,10.0,16,13,17,20,19,24,30,29,38,36,23
-UBCV,2016,W,CPSC,319,,201,Software Engineering Project,Alexandra Kim;Bader Alahmad;Bader Naim Alahmad;Jerry Jim;Jerry Yick Jim;Julin Song,78,84.653846154,6.201857541,93.0,65.0,,,,,,,6,9,7,39,15
-UBCV,2016,W,CPSC,319,,OVERALL,Software Engineering Project,,78,84.653846154,6.201857541,93.0,65.0,,,,,,,6,9,7,39,15
-UBCV,2016,W,CPSC,320,,102,Intermediate Algorithm Design and Analysis,Steven Wolfman,172,76.436046512,13.137219238,99.0,30.0,11,,,,9,19,21,22,32,22,29
-UBCV,2016,W,CPSC,320,,201,Intermediate Algorithm Design and Analysis,Steven Wolfman;Susanne Bradley;Susanne Michelle Bradley,157,73.229299363,10.350816027999999,97.0,45.0,,,,15,18,25,21,24,26,7,11
-UBCV,2016,W,CPSC,320,,202,Intermediate Algorithm Design and Analysis,Jan Manuch,74,72.337837838,11.236287870999998,98.0,45.0,,,,,8,13,18,7,7,6,5
-UBCV,2016,W,CPSC,320,,203,Intermediate Algorithm Design and Analysis,Susanne Bradley;Susanne Michelle Bradley,63,66.174603175,12.691805437000001,90.0,45.0,12,,,7,7,10,9,8,3,3,2
-UBCV,2016,W,CPSC,320,,OVERALL,Intermediate Algorithm Design and Analysis,,466,73.317596567,12.303421650999999,99.0,30.0,31,5,8,30,42,67,69,61,68,38,47
-UBCV,2016,W,CPSC,322,,101,Introduction to Artificial Intelligence,Mehrdad Oveisi-Fordoei,132,83.53030303,12.648168798,100.0,0.0,1,,,1,1,8,5,9,34,25,43
-UBCV,2016,W,CPSC,322,,201,Introduction to Artificial Intelligence,Cristina Conati;Jordon Johnson;Md Abed Rahman;Rui Ge,121,76.925619835,15.022297477,99.0,0.0,5,,,5,10,7,15,16,29,10,21
-UBCV,2016,W,CPSC,322,,OVERALL,Introduction to Artificial Intelligence,,253,80.371541502,14.196897030999999,100.0,0.0,6,,,6,11,15,20,25,63,35,64
-UBCV,2016,W,CPSC,340,,101,Machine Learning and Data Mining,Alireza Shafaei;Issam Hadj Laradji;Jianhui Chen;Mark Schmidt;Moumita Roy Tora;Reza Babanezhad Harikande;Robert Adam Rolin;Sedigheh Zolaktaf;Zeinab Zolaktaf Zadeh,175,82.81142857100001,11.066875381,100.0,46.0,,,5,5,5,4,13,18,31,31,59
-UBCV,2016,W,CPSC,340,,201,Machine Learning and Data Mining,Bita Nejat;Issam Hadj Laradji;Michael Gelbart;Ritika Jain;Tian Qi Chen;Wenyi Wang,114,75.096491228,11.255652895,99.0,38.0,,,8,4,4,17,20,14,17,12,13
-UBCV,2016,W,CPSC,340,,OVERALL,Machine Learning and Data Mining,,289,79.76816609,11.746079004,100.0,38.0,3.0,6,13,9,9,21,33,32,48,43,72
-UBCV,2016,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Arvind Vasudevan;Izabelle Foster Janzen;Izabelle Janzen;Jung Ho Chun;Karon Maclean;Paul Alexander Hendrik Bucci;Paul Bucci,102,79.04901960800001,5.22252822,92.0,63.0,,,,,,,15,32,34,11,
-UBCV,2016,W,CPSC,344,,OVERALL,Introduction to Human Computer Interaction Methods,,102,79.04901960800001,5.22252822,92.0,63.0,,,,,,,15,32,34,11,
-UBCV,2016,W,CPSC,404,,101,Advanced Relational Databases,Edwin Max Knorr;Sijia Tian,107,76.906542056,12.230901715999998,98.0,46.0,1.0,5,5,5,6,13,10,11,16,17,18
-UBCV,2016,W,CPSC,404,,201,Advanced Relational Databases,Edwin Max Knorr;Sijia Tian,114,74.61403508800001,15.82174418,100.0,12.0,7,2.0,5,5,14,9,18,13,8,11,22
-UBCV,2016,W,CPSC,404,,OVERALL,Advanced Relational Databases,,221,75.7239819,14.21173697,100.0,12.0,8,7,10,10,20,22,28,24,24,28,40
-UBCV,2016,W,CPSC,406,,101,Computational Optimization,Jianhui Chen;Uri Michael Ascher;Yasha Robert Pushak;Yu Ju Chen,55,83.981818182,14.188533332,98.0,11.0,,,,,,,,5,6,13,23
-UBCV,2016,W,CPSC,406,,OVERALL,Computational Optimization,,55,83.981818182,14.188533332,98.0,11.0,,,,,,,,5,6,13,23
-UBCV,2016,W,CPSC,410,,201,Advanced Software Engineering,Arthur De Sousa Marques;Daniel Araujo Almeida;Felix Grund;Thomas Fritz,56,76.0,12.167019505,94.0,41.0,,,,,,8,8,10,9,5,8
-UBCV,2016,W,CPSC,410,,OVERALL,Advanced Software Engineering,,56,76.0,12.167019505,94.0,41.0,,,,,,8,8,10,9,5,8
-UBCV,2016,W,CPSC,411,,201,Introduction to Compiler Construction,Kent Andrew Williams-King;Ronald Garcia,59,78.677966102,10.606505287000001,99.0,45.0,,,,,,6,9,7,10,7,13
-UBCV,2016,W,CPSC,411,,OVERALL,Introduction to Compiler Construction,,59,78.677966102,10.606505287000001,99.0,45.0,,,,,,6,9,7,10,7,13
-UBCV,2016,W,CPSC,415,,101,Advanced Operating Systems,Donald Acton;Jean-Sebastien Legare;Jodi Spacek,102,73.12745098,14.415112785,96.0,18.0,7,,6,,,15,10,14,18,14,7
-UBCV,2016,W,CPSC,415,,OVERALL,Advanced Operating Systems,,102,73.12745098,14.415112785,96.0,18.0,7,,6,,,15,10,14,18,14,7
-UBCV,2016,W,CPSC,416,,201,Distributed Systems,Amanda Carbonari;Ivan Beschastnikh;Jodi Spacek;Stewart Grant,105,72.285714286,13.582167527000001,94.0,33.0,,8,,6,13,13,12,9,15,13,8
-UBCV,2016,W,CPSC,416,,OVERALL,Distributed Systems,,105,72.285714286,13.582167527000001,94.0,33.0,,8,,6,13,13,12,9,15,13,8
-UBCV,2016,W,CPSC,418,,201,Parallel Computation,Chenxi Liu;Devon Graham;Ian Mitchell;Mark Greenstreet,67,76.940298507,12.989366977000001,97.0,14.0,,,,,,9,6,12,14,9,8
-UBCV,2016,W,CPSC,418,,OVERALL,Parallel Computation,,67,76.940298507,12.989366977000001,97.0,14.0,,,,,,9,6,12,14,9,8
-UBCV,2016,W,CPSC,420,,201,Advanced Algorithms Design and Analysis,William Evans,89,75.730337079,14.651841371,100.0,13.0,,,,6,8,11,9,12,12,12,13
-UBCV,2016,W,CPSC,420,,OVERALL,Advanced Algorithms Design and Analysis,,89,75.730337079,14.651841371,100.0,13.0,,,,6,8,11,9,12,12,12,13
-UBCV,2016,W,CPSC,421,,101,Introduction to Theory of Computing,Bader Alahmad;Christopher Liaw;Devon Graham;Giorgio Gori;Nicholas Harvey,84,76.916666667,17.468186803,100.0,4.0,,7,,9,5,6,6,7,9,,26
-UBCV,2016,W,CPSC,421,,OVERALL,Introduction to Theory of Computing,,84,76.916666667,17.468186803,100.0,4.0,,7,,9,5,6,6,7,9,,26
-UBCV,2016,W,CPSC,422,,101,Intelligent Systems,Giuseppe Carenini;Jordon Johnson;Md. Enamul Hoque Prince,63,72.603174603,15.985416420999998,100.0,0.0,,5,,5,,6,9,7,12,6,7
-UBCV,2016,W,CPSC,422,,OVERALL,Intelligent Systems,,63,72.603174603,15.985416420999998,100.0,0.0,,5,,5,,6,9,7,12,6,7
-UBCV,2016,W,CPSC,425,,201,Computer Vision,James Joseph Little;James Little,104,71.596153846,10.815773477999999,96.0,39.0,,7,6,10,11,11,13,21,15,5,
-UBCV,2016,W,CPSC,425,,OVERALL,Computer Vision,,104,71.596153846,10.815773477999999,96.0,39.0,,7,6,10,11,11,13,21,15,5,
-UBCV,2016,W,CPSC,426,,201,Computer Animation,Glenn Bevilacqua;Glenn Steven Bevilacqua;Michiel Van De Panne;Xue Bin Peng,68,82.838235294,8.317595616,98.0,61.0,,,,,,,5,11,15,12,18
-UBCV,2016,W,CPSC,426,,OVERALL,Computer Animation,,68,82.838235294,8.317595616,98.0,61.0,,,,,,,5,11,15,12,18
-UBCV,2016,W,CPSC,430,,101,Computers and Society,David Johnson;Jessica Dawson,118,78.313559322,7.91806239,92.0,50.0,,,,,,10,9,25,42,20,
-UBCV,2016,W,CPSC,430,,OVERALL,Computers and Society,,118,78.313559322,7.91806239,92.0,50.0,,,,,,10,9,25,42,20,
-UBCV,2016,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Francesco Vitale;Joanna Mcgrenere;Jung Ho Chun,49,77.653061224,6.79016145,94.0,65.0,,,,,,,9,11,15,,
-UBCV,2016,W,CPSC,444,,OVERALL,Advanced Methods for Human Computer Interaction,,49,77.653061224,6.79016145,94.0,65.0,,,,,,,9,11,15,,
-UBCV,2016,W,CPSC,445,,201,Algorithms in Bioinformatics,Jan Manuch;Massih Khorvash,31,77.35483871,16.226620899,100.0,37.0,,,,,,,,,5,,8
-UBCV,2016,W,CPSC,445,,OVERALL,Algorithms in Bioinformatics,,31,77.35483871,16.226620899,100.0,37.0,,,,,,,,,5,,8
-UBCV,2016,W,CPSC,448,A,101,Directed Studies in Computer Science,,14,90.14285714299999,6.036518901,98.0,78.0,,,,,,,,,,,9
-UBCV,2016,W,CPSC,448,A,201,Directed Studies in Computer Science,,6,86.166666667,8.035338616,95.0,74.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,448,A,OVERALL,Directed Studies in Computer Science,,20,88.95,6.739319035,98.0,74.0,,,,,,,,,,5,11
-UBCV,2016,W,CPSC,448,B,202,Directed Studies in Computer Science,,12,93.583333333,4.756972554,100.0,82.0,,,,,,,,,,,11
-UBCV,2016,W,CPSC,448,B,OVERALL,Directed Studies in Computer Science,,12,93.583333333,4.756972554,100.0,82.0,,,,,,,,,,,11
-UBCV,2016,W,CPSC,448,C,002,Directed Studies in Computer Science,,8,87.75,6.1586176560000006,95.0,74.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,448,C,OVERALL,Directed Studies in Computer Science,,10,88.1,5.7242175589999995,95.0,74.0,,,,,,,,,,,5
-UBCV,2016,W,CPSC,449,,001,Honours Thesis,Georgios Tsiknis,9,92.111111111,5.861835132,100.0,86.0,,,,,,,,,,5,
-UBCV,2016,W,CPSC,449,,OVERALL,Honours Thesis,,10,92.6,5.738757124,100.0,86.0,,,,,,,,,,5,5
-UBCV,2016,W,CPSC,490,,201,Student Directed Seminars,,13,83.615384615,26.402457151,100.0,1.0,,,,,,,,,,,7
-UBCV,2016,W,CPSC,490,,202,Student Directed Seminars,,13,85.923076923,14.625671144000002,100.0,55.0,,,,,,,,,,,6
-UBCV,2016,W,CPSC,490,,OVERALL,Student Directed Seminars,,26,84.76923076899999,20.944321793,100.0,1.0,,,,,,,,,6,,13
-UBCV,2016,W,CPSC,500,,201,Fundamentals of Algorithm Design and Analysis,William Evans,14,77.285714286,20.793595802000002,94.0,13.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,500,,OVERALL,Fundamentals of Algorithm Design and Analysis,,14,77.285714286,20.793595802000002,94.0,13.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,505,,201,Image Understanding I: Image Analysis,James Joseph Little;James Little,15,74.2,12.451047001,86.0,36.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,505,,OVERALL,Image Understanding I: Image Analysis,,15,74.2,12.451047001,86.0,36.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,507,,201,Software Engineering,Reid Holmes,13,86.30769230799999,7.899204763999999,97.0,72.0,,,,,,,,,,,7
-UBCV,2016,W,CPSC,507,,OVERALL,Software Engineering,,13,86.30769230799999,7.899204763999999,97.0,72.0,,,,,,,,,,,7
-UBCV,2016,W,CPSC,509,,101,Programming Language Principles,Ronald Garcia,7,84.142857143,11.096975135,97.0,68.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,509,,OVERALL,Programming Language Principles,,7,84.142857143,11.096975135,97.0,68.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,524,,101,Computer Graphics: Modeling,Alla Sheffer,11,92.545454545,8.733425861,100.0,74.0,,,,,,,,,,,8
-UBCV,2016,W,CPSC,524,,OVERALL,Computer Graphics: Modeling,,11,92.545454545,8.733425861,100.0,74.0,,,,,,,,,,,8
-UBCV,2016,W,CPSC,530,P,201,Topics in Information Processing,Dinesh Pai,12,88.416666667,4.100073909,94.0,80.0,,,,,,,,,,,7
-UBCV,2016,W,CPSC,530,P,OVERALL,Topics in Information Processing,,12,88.416666667,4.100073909,94.0,80.0,,,,,,,,,,,7
-UBCV,2016,W,CPSC,536,F,101,Topics in Algorithms and Complexity,Hu Fu,13,72.692307692,24.119095531,100.0,5.0,,,,,,,,,,5,
-UBCV,2016,W,CPSC,536,F,OVERALL,Topics in Algorithms and Complexity,,13,72.692307692,24.119095531,100.0,5.0,,,,,,,,,,5,
-UBCV,2016,W,CPSC,536,N,201,Topics in Algorithms and Complexity,Nicholas Harvey,19,89.05263157899999,7.792258867,100.0,75.0,,,,,,,,,,,12
-UBCV,2016,W,CPSC,536,N,OVERALL,Topics in Algorithms and Complexity,,19,89.05263157899999,7.792258867,100.0,75.0,,,,,,,,,,,12
-UBCV,2016,W,CPSC,538,B,101,Topics in Computer Systems,Ivan Beschastnikh,16,92.5,5.489383693,99.0,81.0,,,,,,,,,,,12
-UBCV,2016,W,CPSC,538,B,OVERALL,Topics in Computer Systems,,16,92.5,5.489383693,99.0,81.0,,,,,,,,,,,12
-UBCV,2016,W,CPSC,538,G,101,Topics in Computer Systems,Mark Greenstreet,7,87.14285714299999,3.97611919,91.0,80.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,538,G,OVERALL,Topics in Computer Systems,,7,87.14285714299999,3.97611919,91.0,80.0,,,,,,,,,,,
-UBCV,2016,W,CPSC,538,W,201,Topics in Computer Systems,Andrew Warfield,10,86.1,8.761658899,92.0,62.0,,,,,,,,,,6,
-UBCV,2016,W,CPSC,538,W,OVERALL,Topics in Computer Systems,,10,86.1,8.761658899,92.0,62.0,,,,,,,,,,6,
-UBCV,2016,W,CPSC,540,,201,Machine Learning,Jason Siyanda Hartford;Mark Schmidt;Robert Adam Rolin;Sharan Rajesh Vaswani;Sharan Vaswani,39,87.384615385,7.607528766000001,97.0,68.0,,,,,,,,,5,9,19
-UBCV,2016,W,CPSC,540,,OVERALL,Machine Learning,,39,87.384615385,7.607528766000001,97.0,68.0,,,,,,,,,5,9,19
-UBCV,2016,W,CPSC,542,F,201,Topics in Numerical Computation,Michael Friedlander,21,90.0,0.0,90.0,90.0,,,,,,,,,,,21
-UBCV,2016,W,CPSC,542,F,OVERALL,Topics in Numerical Computation,,21,90.0,0.0,90.0,90.0,,,,,,,,,,,21
-UBCV,2016,W,CPSC,547,,201,Information Visualization,Tamara Munzner,18,88.666666667,7.219255297999999,97.0,70.0,,,,,,,,,,,10
-UBCV,2016,W,CPSC,547,,OVERALL,Information Visualization,,18,88.666666667,7.219255297999999,97.0,70.0,,,,,,,,,,,10
-UBCV,2016,W,CPSC,554,M,201,Topics in Human-Computer Interaction,Joanna Mcgrenere,8,86.0,5.529143566,93.0,74.0,,,,,,,,,,5,
-UBCV,2016,W,CPSC,554,M,OVERALL,Topics in Human-Computer Interaction,,8,86.0,5.529143566,93.0,74.0,,,,,,,,,,5,
+UBCV,2016,W,CPSC,100,,101,Computational Thinking,Gudbrand Tandberg;Kailang Jiang;Omar Alomeir;Rachel Pottinger,85,81.6,9.643897651,99.0,55.0,0,0.0,3.0,1.0,3.0,4.0,10.0,7.0,16.0,20.0,21
+UBCV,2016,W,CPSC,100,,201,Computational Thinking,Anne Condon;Enrique Alberto Rosales Ruiz;Enrique Ruiz;Gudbrand Tandberg,121,76.85123967,14.36353088,98.0,0.0,7,1.0,1.0,2.0,7.0,11.0,18.0,10.0,26.0,24.0,14
+UBCV,2016,W,CPSC,100,,OVERALL,Computational Thinking,,206,78.81067961,12.82064199,99.0,0.0,7,1.0,4.0,3.0,10.0,15.0,28.0,17.0,42.0,44.0,35
+UBCV,2016,W,CPSC,103,,101,Introduction to Systematic Program Design,Meghan Allen;Steven Wolfman,98,72.93877551,19.84622134,99.0,0.0,13,2.0,1.0,6.0,4.0,10.0,8.0,7.0,15.0,10.0,22
+UBCV,2016,W,CPSC,103,,201,Introduction to Systematic Program Design,Meghan Allen,102,76.64705882,20.06605284,99.0,0.0,10,1.0,6.0,3.0,2.0,3.0,7.0,11.0,14.0,11.0,34
+UBCV,2016,W,CPSC,103,,OVERALL,Introduction to Systematic Program Design,,200,74.83,19.99500189,99.0,0.0,23,3.0,7.0,9.0,6.0,13.0,15.0,18.0,29.0,21.0,56
+UBCV,2016,W,CPSC,110,,101,"Computation, Programs, and Programming",Celina Berg,273,75.38095238,19.77933237,100.0,3.0,54,2.0,1.0,6.0,9.0,6.0,18.0,25.0,37.0,34.0,81
+UBCV,2016,W,CPSC,110,,102,"Computation, Programs, and Programming",Gregor Kiczales,193,79.85492228,16.00129191,100.0,29.0,20,1.0,1.0,2.0,7.0,6.0,13.0,19.0,27.0,33.0,64
+UBCV,2016,W,CPSC,110,,103,"Computation, Programs, and Programming",James Joseph Little;James Little,148,71.40540541,19.39136418,97.0,30.0,42,1.0,0.0,0.0,5.0,6.0,14.0,5.0,23.0,25.0,27
+UBCV,2016,W,CPSC,110,,104,"Computation, Programs, and Programming",Anthony Estey,150,72.04,19.59039622,100.0,0.0,37,1.0,0.0,4.0,7.0,9.0,9.0,8.0,23.0,25.0,27
+UBCV,2016,W,CPSC,110,,1CH,"Computation, Programs, and Programming",,7,83.14285714,8.764104279,96.0,72.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,1.0,2
+UBCV,2016,W,CPSC,110,,201,"Computation, Programs, and Programming",Anthony Estey,150,76.88666667,19.39575013,100.0,3.0,20,1.0,1.0,3.0,7.0,10.0,12.0,16.0,21.0,12.0,47
+UBCV,2016,W,CPSC,110,,202,"Computation, Programs, and Programming",Paul Carter;Paul Martin Carter,169,75.26627219,20.37023648,100.0,18.0,31,0.0,2.0,4.0,14.0,8.0,11.0,16.0,11.0,21.0,51
+UBCV,2016,W,CPSC,110,,203,"Computation, Programs, and Programming",William Aiello,166,64.06626506,21.29223377,100.0,3.0,52,3.0,2.0,8.0,8.0,15.0,20.0,20.0,14.0,12.0,12
+UBCV,2016,W,CPSC,110,,BCS,"Computation, Programs, and Programming",Gregor Kiczales,59,88.40677966,12.40983848,100.0,36.0,3,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,12.0,36
+UBCV,2016,W,CPSC,110,,OVERALL,"Computation, Programs, and Programming",,1378,74.46298984,19.94040891,100.0,0.0,273,9.0,7.0,28.0,60.0,65.0,105.0,116.0,173.0,178.0,364
+UBCV,2016,W,CPSC,110,,V01,"Computation, Programs, and Programming",Celina Berg,60,71.93333333,22.54101096,100.0,4.0,14,0.0,0.0,1.0,3.0,5.0,6.0,3.0,8.0,3.0,17
+UBCV,2016,W,CPSC,121,,101,Models of Computation,Xi Gao,152,78.24342105,14.21080491,100.0,39.0,13,2.0,0.0,6.0,7.0,11.0,6.0,20.0,26.0,28.0,33
+UBCV,2016,W,CPSC,121,,102,Models of Computation,Patrice Belleville,149,74.18120805,14.5281896,98.0,21.0,14,0.0,6.0,7.0,8.0,19.0,18.0,16.0,22.0,19.0,20
+UBCV,2016,W,CPSC,121,,103,Models of Computation,Patrice Belleville,150,71.93333333,15.97719292,99.0,26.0,22,2.0,6.0,0.0,14.0,15.0,21.0,15.0,20.0,21.0,14
+UBCV,2016,W,CPSC,121,,202,Models of Computation,Xi Gao,184,76.60869565,11.18542819,100.0,40.0,8,0.0,3.0,4.0,16.0,23.0,21.0,25.0,39.0,28.0,17
+UBCV,2016,W,CPSC,121,,203,Models of Computation,Adnan Reza;Steven Wolfman,161,73.73291926,14.18703535,99.0,12.0,13,0.0,4.0,3.0,12.0,27.0,19.0,30.0,22.0,14.0,17
+UBCV,2016,W,CPSC,121,,204,Models of Computation,Ryan Vogt,74,69.31081081,14.24244638,93.0,26.0,11,1.0,3.0,3.0,12.0,6.0,11.0,6.0,12.0,7.0,2
+UBCV,2016,W,CPSC,121,,BCS,Models of Computation,Steven Wolfman,26,82.30769231,10.07479719,97.0,45.0,1,0.0,0.0,0.0,0.0,1.0,1.0,4.0,8.0,5.0,6
+UBCV,2016,W,CPSC,121,,OVERALL,Models of Computation,,896,74.74553571,14.17299274,100.0,12.0,82,5.0,22.0,23.0,69.0,102.0,97.0,116.0,149.0,122.0,109
+UBCV,2016,W,CPSC,210,,101,Software Construction,Clement Fung;Norman Hutchinson,156,77.65384615,15.46803315,100.0,18.0,11,1.0,0.0,4.0,15.0,13.0,16.0,12.0,28.0,23.0,33
+UBCV,2016,W,CPSC,210,,102,Software Construction,Jonatan Schroeder,113,76.32743363,14.99490537,100.0,30.0,9,0.0,2.0,8.0,10.0,11.0,5.0,14.0,15.0,17.0,22
+UBCV,2016,W,CPSC,210,,103,Software Construction,Clement Fung;Ryan Vogt,134,69.11940299,17.2565972,98.0,5.0,15,2.0,9.0,17.0,12.0,12.0,13.0,20.0,13.0,11.0,10
+UBCV,2016,W,CPSC,210,,201,Software Construction,Clement Fung;Norman Hutchinson,147,73.65306122,17.5189342,100.0,4.0,14,3.0,8.0,8.0,14.0,11.0,13.0,14.0,20.0,17.0,25
+UBCV,2016,W,CPSC,210,,202,Software Construction,Paul Carter;Paul Martin Carter,110,69.47272727,19.52824776,100.0,11.0,23,3.0,3.0,3.0,7.0,9.0,10.0,7.0,20.0,13.0,12
+UBCV,2016,W,CPSC,210,,203,Software Construction,Mehrdad Oveisi-Fordoei,108,68.15740741,16.24126626,97.0,32.0,20,3.0,8.0,5.0,13.0,15.0,8.0,9.0,10.0,5.0,12
+UBCV,2016,W,CPSC,210,,BCS,Software Construction,Paul Carter;Paul Martin Carter,41,85.17073171,8.70029436,100.0,63.0,0,0.0,0.0,1.0,1.0,0.0,5.0,4.0,6.0,11.0,13
+UBCV,2016,W,CPSC,210,,OVERALL,Software Construction,,809,73.32880099,17.09396494,100.0,4.0,92,12.0,30.0,46.0,72.0,71.0,70.0,80.0,112.0,97.0,127
+UBCV,2016,W,CPSC,213,,101,Introduction to Computer Systems,Ahmed Awad,182,78.95604396,13.51889375,99.0,28.0,12,0.0,3.0,4.0,7.0,11.0,18.0,22.0,31.0,42.0,32
+UBCV,2016,W,CPSC,213,,201,Introduction to Computer Systems,Michael Feeley,117,70.47008547,18.70532501,99.0,13.0,17,3.0,5.0,11.0,8.0,6.0,12.0,10.0,17.0,13.0,15
+UBCV,2016,W,CPSC,213,,203,Introduction to Computer Systems,Alan Wagner,89,72.29213483,19.21185846,96.0,0.0,8,1.0,4.0,6.0,7.0,5.0,9.0,17.0,9.0,12.0,11
+UBCV,2016,W,CPSC,213,,204,Introduction to Computer Systems,Michael Feeley,136,72.27205882,16.51776458,98.0,2.0,11,2.0,5.0,8.0,16.0,14.0,19.0,11.0,21.0,16.0,13
+UBCV,2016,W,CPSC,213,,OVERALL,Introduction to Computer Systems,,524,74.19465649,16.91018593,99.0,0.0,48,6.0,17.0,29.0,38.0,36.0,58.0,60.0,78.0,83.0,71
+UBCV,2016,W,CPSC,221,,101,Basic Algorithms and Data Structures,Jan Manuch;William Evans;Xing Zeng;Zheng Dong,194,74.84020619,14.09516994,97.0,11.0,13,3.0,9.0,10.0,11.0,19.0,21.0,29.0,30.0,19.0,30
+UBCV,2016,W,CPSC,221,,102,Basic Algorithms and Data Structures,Jan Manuch;William Evans;Xing Zeng;Zheng Dong,158,75.98101266,12.08382164,100.0,36.0,5,4.0,5.0,10.0,13.0,10.0,25.0,16.0,31.0,18.0,21
+UBCV,2016,W,CPSC,221,,201,Basic Algorithms and Data Structures,Edwin Max Knorr;Itrat Akhter;Zheng Dong,159,77.61006289,16.13468312,97.0,4.0,14,5.0,1.0,1.0,8.0,5.0,19.0,14.0,34.0,20.0,38
+UBCV,2016,W,CPSC,221,,202,Basic Algorithms and Data Structures,Anthony Estey;Jan Manuch;Sedigheh Zolaktaf;Xing Zeng,144,80.09027778,12.04415721,99.0,37.0,4,1.0,1.0,8.0,8.0,8.0,17.0,15.0,16.0,34.0,32
+UBCV,2016,W,CPSC,221,,203,Basic Algorithms and Data Structures,Mehrdad Oveisi-Fordoei,88,71.15909091,14.18505476,98.0,35.0,10,1.0,6.0,6.0,9.0,4.0,12.0,16.0,7.0,12.0,5
+UBCV,2016,W,CPSC,221,,OVERALL,Basic Algorithms and Data Structures,,743,76.25706595,14.01510066,100.0,4.0,46,14.0,22.0,35.0,49.0,46.0,94.0,90.0,118.0,103.0,126
+UBCV,2016,W,CPSC,259,,101,Data Structures and Algorithms for Electrical Engineers,Ahmed Awad,214,77.6728972,12.5535665,98.0,10.0,3,2.0,8.0,15.0,7.0,19.0,25.0,33.0,34.0,36.0,32
+UBCV,2016,W,CPSC,259,,OVERALL,Data Structures and Algorithms for Electrical Engineers,,214,77.6728972,12.5535665,98.0,10.0,3,2.0,8.0,15.0,7.0,19.0,25.0,33.0,34.0,36.0,32
+UBCV,2016,W,CPSC,261,,201,Basics of Computer Systems,Farid Molazem Tabrizi;Jonatan Schroeder,126,68.23015873,14.25884298,97.0,0.0,10,7.0,9.0,15.0,18.0,14.0,19.0,7.0,9.0,10.0,8
+UBCV,2016,W,CPSC,261,,OVERALL,Basics of Computer Systems,,126,68.23015873,14.25884298,97.0,0.0,10,7.0,9.0,15.0,18.0,14.0,19.0,7.0,9.0,10.0,8
+UBCV,2016,W,CPSC,301,,201,Computing in the Life Sciences,David Johnson;Jessica Dawson,162,83.02469136,11.5521774,99.0,45.0,7,0.0,0.0,0.0,4.0,10.0,10.0,18.0,28.0,29.0,56
+UBCV,2016,W,CPSC,301,,OVERALL,Computing in the Life Sciences,,162,83.02469136,11.5521774,99.0,45.0,7,0.0,0.0,0.0,4.0,10.0,10.0,18.0,28.0,29.0,56
+UBCV,2016,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Itrat Akhter;Michael Friedlander;Michael Philip Wathen;Michael Wathen,75,83.13333333,15.67260765,100.0,19.0,4,0.0,0.0,2.0,0.0,0.0,6.0,6.0,13.0,14.0,30
+UBCV,2016,W,CPSC,302,,OVERALL,Numerical Computation for Algebraic Problems,,75,83.13333333,15.67260765,100.0,19.0,4,0.0,0.0,2.0,0.0,0.0,6.0,6.0,13.0,14.0,30
+UBCV,2016,W,CPSC,303,,201,Numerical Approximation and Discretization,Jessica Bosch;Michael Philip Wathen;Michael Wathen,67,75.70149254,18.30798379,100.0,19.0,4,4.0,5.0,2.0,8.0,7.0,3.0,5.0,2.0,5.0,22
+UBCV,2016,W,CPSC,303,,OVERALL,Numerical Approximation and Discretization,,67,75.70149254,18.30798379,100.0,19.0,4,4.0,5.0,2.0,8.0,7.0,3.0,5.0,2.0,5.0,22
+UBCV,2016,W,CPSC,304,,101,Introduction to Relational Databases,Adnan Reza;Hazra Imran;Mir Rayat Imtiaz Hossain,158,77.37974684,9.243767117,93.0,39.0,2,1.0,2.0,8.0,8.0,16.0,22.0,26.0,37.0,26.0,10
+UBCV,2016,W,CPSC,304,,201,Introduction to Relational Databases,Laks Lakshmanan;Wenqiang Dong,138,78.15217391,8.773635169,100.0,59.0,0,0.0,1.0,5.0,12.0,12.0,26.0,22.0,28.0,17.0,15
+UBCV,2016,W,CPSC,304,,202,Introduction to Relational Databases,Hazra Imran,74,75.22972973,11.14480934,96.0,45.0,2,1.0,2.0,9.0,4.0,7.0,11.0,8.0,15.0,9.0,6
+UBCV,2016,W,CPSC,304,,OVERALL,Introduction to Relational Databases,,370,77.23783784,9.52034909,100.0,39.0,4,2.0,5.0,22.0,24.0,35.0,59.0,56.0,80.0,52.0,31
+UBCV,2016,W,CPSC,310,,101,Introduction to Software Engineering,Arthur De Sousa Marques;Giovanni Viviani;Nam Giang;Nicholas Bradley;Reid Holmes;Rodrigo Araujo;Stewart Grant;Wenqiang Dong,141,81.71631206,11.67924058,98.0,9.0,2,2.0,2.0,0.0,2.0,6.0,11.0,16.0,32.0,40.0,28
+UBCV,2016,W,CPSC,310,,201,Introduction to Software Engineering,Elisa Baniassad;Gail Murphy;Giovanni Viviani;Nicholas Bradley;Reid Holmes;Rodrigo Araujo,146,81.73972603,11.92450667,97.0,16.0,3,1.0,0.0,1.0,9.0,11.0,5.0,15.0,21.0,37.0,43
+UBCV,2016,W,CPSC,310,,202,Introduction to Software Engineering,Elisa Baniassad;Gail Murphy;Giovanni Viviani;Reid Holmes,132,79.98484849,11.16905817,95.0,23.0,3,0.0,1.0,2.0,4.0,12.0,11.0,16.0,32.0,23.0,28
+UBCV,2016,W,CPSC,310,,OVERALL,Introduction to Software Engineering,,419,81.17899761,11.60881277,98.0,9.0,8,3.0,3.0,3.0,15.0,29.0,27.0,47.0,85.0,100.0,99
+UBCV,2016,W,CPSC,311,,101,Definition of Programming Languages,Joseph Eremondi;Joshua Dunfield,119,88.34453782,11.68182492,100.0,31.0,3,0.0,0.0,0.0,2.0,2.0,7.0,3.0,14.0,20.0,68
+UBCV,2016,W,CPSC,311,,OVERALL,Definition of Programming Languages,,119,88.34453782,11.68182492,100.0,31.0,3,0.0,0.0,0.0,2.0,2.0,7.0,3.0,14.0,20.0,68
+UBCV,2016,W,CPSC,312,,101,Functional and Logic Programming,David Poole;Julin Song;Rui Ge,117,76.68376068,13.20112951,100.0,13.0,2,1.0,5.0,4.0,8.0,20.0,15.0,10.0,22.0,9.0,21
+UBCV,2016,W,CPSC,312,,OVERALL,Functional and Logic Programming,,117,76.68376068,13.20112951,100.0,13.0,2,1.0,5.0,4.0,8.0,20.0,15.0,10.0,22.0,9.0,21
+UBCV,2016,W,CPSC,313,,101,Computer Hardware and Operating Systems,Michael Feeley;Tianri Gu;Yeu Yang Tai,161,77.24844721,11.71592456,98.0,44.0,6,0.0,6.0,6.0,15.0,11.0,19.0,22.0,27.0,27.0,22
+UBCV,2016,W,CPSC,313,,202,Computer Hardware and Operating Systems,Donald Acton;Tianri Gu,150,71.68666667,13.77680994,98.0,0.0,7,9.0,8.0,12.0,12.0,24.0,14.0,16.0,21.0,18.0,9
+UBCV,2016,W,CPSC,313,,OVERALL,Computer Hardware and Operating Systems,,311,74.5659164,13.03152489,98.0,0.0,13,9.0,14.0,18.0,27.0,35.0,33.0,38.0,48.0,45.0,31
+UBCV,2016,W,CPSC,314,,101,Computer Graphics,Alla Sheffer;Amon Ge;Enrique Alberto Rosales Ruiz;Enrique Ruiz;Xinyi Zhang,114,82.45614035,14.46701488,100.0,8.0,3,2.0,2.0,1.0,3.0,7.0,7.0,7.0,21.0,20.0,41
+UBCV,2016,W,CPSC,314,,201,Computer Graphics,Jacob Benjamin Chen;Jacob Chen;Michiel Van De Panne;Xinyi Zhang,65,76.98461539,12.29264555,99.0,44.0,3,2.0,1.0,1.0,7.0,4.0,6.0,11.0,10.0,13.0,7
+UBCV,2016,W,CPSC,314,,OVERALL,Computer Graphics,,179,80.46927374,13.93415112,100.0,8.0,6,4.0,3.0,2.0,10.0,11.0,13.0,18.0,31.0,33.0,48
+UBCV,2016,W,CPSC,317,,101,Internet Computing,Donald Acton;Mohammad Amin Aghaee Rad;Nodir Kodirov;Patrick Colp,120,71.5,14.27697212,97.0,19.0,10,5.0,8.0,12.0,9.0,9.0,13.0,19.0,13.0,11.0,11
+UBCV,2016,W,CPSC,317,,201,Internet Computing,Donald Acton;Fabian Nikolaus Trutz Ruffy Varga;Mohammad Amin Aghaee Rad,145,73.2137931,15.16629405,94.0,10.0,6,8.0,9.0,8.0,10.0,15.0,17.0,10.0,25.0,25.0,12
+UBCV,2016,W,CPSC,317,,OVERALL,Internet Computing,,265,72.43773585,14.76728862,97.0,10.0,16,13.0,17.0,20.0,19.0,24.0,30.0,29.0,38.0,36.0,23
+UBCV,2016,W,CPSC,319,,201,Software Engineering Project,Alexandra Kim;Bader Alahmad;Bader Naim Alahmad;Jerry Jim;Jerry Yick Jim;Julin Song,78,84.65384615,6.201857541,93.0,65.0,0,0.0,0.0,0.0,2.0,0.0,6.0,9.0,7.0,39.0,15
+UBCV,2016,W,CPSC,319,,OVERALL,Software Engineering Project,,78,84.65384615,6.201857541,93.0,65.0,0,0.0,0.0,0.0,2.0,0.0,6.0,9.0,7.0,39.0,15
+UBCV,2016,W,CPSC,320,,102,Intermediate Algorithm Design and Analysis,Steven Wolfman,172,76.43604651,13.13721924,99.0,30.0,11,1.0,2.0,4.0,9.0,19.0,21.0,22.0,32.0,22.0,29
+UBCV,2016,W,CPSC,320,,201,Intermediate Algorithm Design and Analysis,Steven Wolfman;Susanne Bradley;Susanne Michelle Bradley,157,73.22929936,10.35081603,97.0,45.0,4,2.0,4.0,15.0,18.0,25.0,21.0,24.0,26.0,7.0,11
+UBCV,2016,W,CPSC,320,,202,Intermediate Algorithm Design and Analysis,Jan Manuch,74,72.33783784,11.23628787,98.0,45.0,4,2.0,0.0,4.0,8.0,13.0,18.0,7.0,7.0,6.0,5
+UBCV,2016,W,CPSC,320,,203,Intermediate Algorithm Design and Analysis,Susanne Bradley;Susanne Michelle Bradley,63,66.17460318,12.69180544,90.0,45.0,12,0.0,2.0,7.0,7.0,10.0,9.0,8.0,3.0,3.0,2
+UBCV,2016,W,CPSC,320,,OVERALL,Intermediate Algorithm Design and Analysis,,466,73.31759657,12.30342165,99.0,30.0,31,5.0,8.0,30.0,42.0,67.0,69.0,61.0,68.0,38.0,47
+UBCV,2016,W,CPSC,322,,101,Introduction to Artificial Intelligence,Mehrdad Oveisi-Fordoei,132,83.53030303,12.6481688,100.0,0.0,1,3.0,2.0,1.0,1.0,8.0,5.0,9.0,34.0,25.0,43
+UBCV,2016,W,CPSC,322,,201,Introduction to Artificial Intelligence,Cristina Conati;Jordon Johnson;Md Abed Rahman;Rui Ge,121,76.92561984,15.02229748,99.0,0.0,5,1.0,2.0,5.0,10.0,7.0,15.0,16.0,29.0,10.0,21
+UBCV,2016,W,CPSC,322,,OVERALL,Introduction to Artificial Intelligence,,253,80.3715415,14.19689703,100.0,0.0,6,4.0,4.0,6.0,11.0,15.0,20.0,25.0,63.0,35.0,64
+UBCV,2016,W,CPSC,340,,101,Machine Learning and Data Mining,Alireza Shafaei;Issam Hadj Laradji;Jianhui Chen;Mark Schmidt;Moumita Roy Tora;Reza Babanezhad Harikande;Robert Adam Rolin;Sedigheh Zolaktaf;Zeinab Zolaktaf Zadeh,175,82.81142857,11.06687538,100.0,46.0,2,2.0,5.0,5.0,5.0,4.0,13.0,18.0,31.0,31.0,59
+UBCV,2016,W,CPSC,340,,201,Machine Learning and Data Mining,Bita Nejat;Issam Hadj Laradji;Michael Gelbart;Ritika Jain;Tian Qi Chen;Wenyi Wang,114,75.09649123,11.2556529,99.0,38.0,1,4.0,8.0,4.0,4.0,17.0,20.0,14.0,17.0,12.0,13
+UBCV,2016,W,CPSC,340,,OVERALL,Machine Learning and Data Mining,,289,79.76816609,11.746079,100.0,38.0,3,6.0,13.0,9.0,9.0,21.0,33.0,32.0,48.0,43.0,72
+UBCV,2016,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Arvind Vasudevan;Izabelle Foster Janzen;Izabelle Janzen;Jung Ho Chun;Karon Maclean;Paul Alexander Hendrik Bucci;Paul Bucci,102,79.04901961,5.22252822,92.0,63.0,0,0.0,0.0,1.0,2.0,4.0,15.0,32.0,34.0,11.0,3
+UBCV,2016,W,CPSC,344,,OVERALL,Introduction to Human Computer Interaction Methods,,102,79.04901961,5.22252822,92.0,63.0,0,0.0,0.0,1.0,2.0,4.0,15.0,32.0,34.0,11.0,3
+UBCV,2016,W,CPSC,404,,101,Advanced Relational Databases,Edwin Max Knorr;Sijia Tian,107,76.90654206,12.23090172,98.0,46.0,1,5.0,5.0,5.0,6.0,13.0,10.0,11.0,16.0,17.0,18
+UBCV,2016,W,CPSC,404,,201,Advanced Relational Databases,Edwin Max Knorr;Sijia Tian,114,74.61403509,15.82174418,100.0,12.0,7,2.0,5.0,5.0,14.0,9.0,18.0,13.0,8.0,11.0,22
+UBCV,2016,W,CPSC,404,,OVERALL,Advanced Relational Databases,,221,75.7239819,14.21173697,100.0,12.0,8,7.0,10.0,10.0,20.0,22.0,28.0,24.0,24.0,28.0,40
+UBCV,2016,W,CPSC,406,,101,Computational Optimization,Jianhui Chen;Uri Michael Ascher;Yasha Robert Pushak;Yu Ju Chen,55,83.98181818,14.18853333,98.0,11.0,1,1.0,0.0,1.0,3.0,2.0,0.0,5.0,6.0,13.0,23
+UBCV,2016,W,CPSC,406,,OVERALL,Computational Optimization,,55,83.98181818,14.18853333,98.0,11.0,1,1.0,0.0,1.0,3.0,2.0,0.0,5.0,6.0,13.0,23
+UBCV,2016,W,CPSC,410,,201,Advanced Software Engineering,Arthur De Sousa Marques;Daniel Araujo Almeida;Felix Grund;Thomas Fritz,56,76.0,12.16701951,94.0,41.0,4,0.0,0.0,1.0,3.0,8.0,8.0,10.0,9.0,5.0,8
+UBCV,2016,W,CPSC,410,,OVERALL,Advanced Software Engineering,,56,76.0,12.16701951,94.0,41.0,4,0.0,0.0,1.0,3.0,8.0,8.0,10.0,9.0,5.0,8
+UBCV,2016,W,CPSC,411,,201,Introduction to Compiler Construction,Kent Andrew Williams-King;Ronald Garcia,59,78.6779661,10.60650529,99.0,45.0,1,0.0,1.0,2.0,3.0,6.0,9.0,7.0,10.0,7.0,13
+UBCV,2016,W,CPSC,411,,OVERALL,Introduction to Compiler Construction,,59,78.6779661,10.60650529,99.0,45.0,1,0.0,1.0,2.0,3.0,6.0,9.0,7.0,10.0,7.0,13
+UBCV,2016,W,CPSC,415,,101,Advanced Operating Systems,Donald Acton;Jean-Sebastien Legare;Jodi Spacek,102,73.12745098,14.41511279,96.0,18.0,7,4.0,6.0,3.0,4.0,15.0,10.0,14.0,18.0,14.0,7
+UBCV,2016,W,CPSC,415,,OVERALL,Advanced Operating Systems,,102,73.12745098,14.41511279,96.0,18.0,7,4.0,6.0,3.0,4.0,15.0,10.0,14.0,18.0,14.0,7
+UBCV,2016,W,CPSC,416,,201,Distributed Systems,Amanda Carbonari;Ivan Beschastnikh;Jodi Spacek;Stewart Grant,105,72.28571429,13.58216753,94.0,33.0,4,8.0,4.0,6.0,13.0,13.0,12.0,9.0,15.0,13.0,8
+UBCV,2016,W,CPSC,416,,OVERALL,Distributed Systems,,105,72.28571429,13.58216753,94.0,33.0,4,8.0,4.0,6.0,13.0,13.0,12.0,9.0,15.0,13.0,8
+UBCV,2016,W,CPSC,418,,201,Parallel Computation,Chenxi Liu;Devon Graham;Ian Mitchell;Mark Greenstreet,67,76.94029851,12.98936698,97.0,14.0,2,0.0,4.0,1.0,2.0,9.0,6.0,12.0,14.0,9.0,8
+UBCV,2016,W,CPSC,418,,OVERALL,Parallel Computation,,67,76.94029851,12.98936698,97.0,14.0,2,0.0,4.0,1.0,2.0,9.0,6.0,12.0,14.0,9.0,8
+UBCV,2016,W,CPSC,420,,201,Advanced Algorithms Design and Analysis,William Evans,89,75.73033708,14.65184137,100.0,13.0,2,3.0,1.0,6.0,8.0,11.0,9.0,12.0,12.0,12.0,13
+UBCV,2016,W,CPSC,420,,OVERALL,Advanced Algorithms Design and Analysis,,89,75.73033708,14.65184137,100.0,13.0,2,3.0,1.0,6.0,8.0,11.0,9.0,12.0,12.0,12.0,13
+UBCV,2016,W,CPSC,421,,101,Introduction to Theory of Computing,Bader Alahmad;Christopher Liaw;Devon Graham;Giorgio Gori;Nicholas Harvey,84,76.91666667,17.4681868,100.0,4.0,1,7.0,4.0,9.0,5.0,6.0,6.0,7.0,9.0,4.0,26
+UBCV,2016,W,CPSC,421,,OVERALL,Introduction to Theory of Computing,,84,76.91666667,17.4681868,100.0,4.0,1,7.0,4.0,9.0,5.0,6.0,6.0,7.0,9.0,4.0,26
+UBCV,2016,W,CPSC,422,,101,Intelligent Systems,Giuseppe Carenini;Jordon Johnson;Md. Enamul Hoque Prince,63,72.6031746,15.98541642,100.0,0.0,3,5.0,3.0,5.0,0.0,6.0,9.0,7.0,12.0,6.0,7
+UBCV,2016,W,CPSC,422,,OVERALL,Intelligent Systems,,63,72.6031746,15.98541642,100.0,0.0,3,5.0,3.0,5.0,0.0,6.0,9.0,7.0,12.0,6.0,7
+UBCV,2016,W,CPSC,425,,201,Computer Vision,James Joseph Little;James Little,104,71.59615385,10.81577348,96.0,39.0,1,7.0,6.0,10.0,11.0,11.0,13.0,21.0,15.0,5.0,4
+UBCV,2016,W,CPSC,425,,OVERALL,Computer Vision,,104,71.59615385,10.81577348,96.0,39.0,1,7.0,6.0,10.0,11.0,11.0,13.0,21.0,15.0,5.0,4
+UBCV,2016,W,CPSC,426,,201,Computer Animation,Glenn Bevilacqua;Glenn Steven Bevilacqua;Michiel Van De Panne;Xue Bin Peng,68,82.83823529,8.317595616,98.0,61.0,0,0.0,0.0,1.0,3.0,3.0,5.0,11.0,15.0,12.0,18
+UBCV,2016,W,CPSC,426,,OVERALL,Computer Animation,,68,82.83823529,8.317595616,98.0,61.0,0,0.0,0.0,1.0,3.0,3.0,5.0,11.0,15.0,12.0,18
+UBCV,2016,W,CPSC,430,,101,Computers and Society,David Johnson;Jessica Dawson,118,78.31355932,7.91806239,92.0,50.0,0,3.0,0.0,4.0,3.0,10.0,9.0,25.0,42.0,20.0,2
+UBCV,2016,W,CPSC,430,,OVERALL,Computers and Society,,118,78.31355932,7.91806239,92.0,50.0,0,3.0,0.0,4.0,3.0,10.0,9.0,25.0,42.0,20.0,2
+UBCV,2016,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Francesco Vitale;Joanna Mcgrenere;Jung Ho Chun,49,77.65306122,6.79016145,94.0,65.0,0,0.0,0.0,0.0,4.0,4.0,9.0,11.0,15.0,4.0,2
+UBCV,2016,W,CPSC,444,,OVERALL,Advanced Methods for Human Computer Interaction,,49,77.65306122,6.79016145,94.0,65.0,0,0.0,0.0,0.0,4.0,4.0,9.0,11.0,15.0,4.0,2
+UBCV,2016,W,CPSC,445,,201,Algorithms in Bioinformatics,Jan Manuch;Massih Khorvash,31,77.35483871,16.2266209,100.0,37.0,2,0.0,3.0,1.0,1.0,2.0,3.0,3.0,5.0,3.0,8
+UBCV,2016,W,CPSC,445,,OVERALL,Algorithms in Bioinformatics,,31,77.35483871,16.2266209,100.0,37.0,2,0.0,3.0,1.0,1.0,2.0,3.0,3.0,5.0,3.0,8
+UBCV,2016,W,CPSC,448,A,101,Directed Studies in Computer Science,,14,90.14285714,6.036518901,98.0,78.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,9
+UBCV,2016,W,CPSC,448,A,201,Directed Studies in Computer Science,,6,86.16666667,8.035338616,95.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,2
+UBCV,2016,W,CPSC,448,A,OVERALL,Directed Studies in Computer Science,,20,88.95,6.739319035,98.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.0,5.0,11
+UBCV,2016,W,CPSC,448,B,202,Directed Studies in Computer Science,,12,93.58333333,4.756972554,100.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,11
+UBCV,2016,W,CPSC,448,B,OVERALL,Directed Studies in Computer Science,,12,93.58333333,4.756972554,100.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,11
+UBCV,2016,W,CPSC,448,C,002,Directed Studies in Computer Science,,8,87.75,6.158617656,95.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,4
+UBCV,2016,W,CPSC,448,C,OVERALL,Directed Studies in Computer Science,,10,88.1,5.724217559,95.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,5
+UBCV,2016,W,CPSC,449,,001,Honours Thesis,Georgios Tsiknis,9,92.11111111,5.861835132,100.0,86.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4
+UBCV,2016,W,CPSC,449,,OVERALL,Honours Thesis,,10,92.6,5.738757124,100.0,86.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5
+UBCV,2016,W,CPSC,490,,201,Student Directed Seminars,,13,83.61538462,26.40245715,100.0,1.0,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,1.0,7
+UBCV,2016,W,CPSC,490,,202,Student Directed Seminars,,13,85.92307692,14.62567114,100.0,55.0,0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,3.0,1.0,6
+UBCV,2016,W,CPSC,490,,OVERALL,Student Directed Seminars,,26,84.76923077,20.94432179,100.0,1.0,1,0.0,1.0,1.0,0.0,1.0,0.0,1.0,6.0,2.0,13
+UBCV,2016,W,CPSC,500,,201,Fundamentals of Algorithm Design and Analysis,William Evans,14,77.28571429,20.7935958,94.0,13.0,1,0.0,0.0,1.0,0.0,0.0,2.0,1.0,4.0,1.0,4
+UBCV,2016,W,CPSC,500,,OVERALL,Fundamentals of Algorithm Design and Analysis,,14,77.28571429,20.7935958,94.0,13.0,1,0.0,0.0,1.0,0.0,0.0,2.0,1.0,4.0,1.0,4
+UBCV,2016,W,CPSC,505,,201,Image Understanding I: Image Analysis,James Joseph Little;James Little,15,74.2,12.451047,86.0,36.0,1,0.0,0.0,0.0,0.0,4.0,2.0,2.0,3.0,3.0,0
+UBCV,2016,W,CPSC,505,,OVERALL,Image Understanding I: Image Analysis,,15,74.2,12.451047,86.0,36.0,1,0.0,0.0,0.0,0.0,4.0,2.0,2.0,3.0,3.0,0
+UBCV,2016,W,CPSC,507,,201,Software Engineering,Reid Holmes,13,86.30769231,7.899204764,97.0,72.0,0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,7
+UBCV,2016,W,CPSC,507,,OVERALL,Software Engineering,,13,86.30769231,7.899204764,97.0,72.0,0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,1.0,2.0,7
+UBCV,2016,W,CPSC,509,,101,Programming Language Principles,Ronald Garcia,7,84.14285714,11.09697514,97.0,68.0,0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,3
+UBCV,2016,W,CPSC,509,,OVERALL,Programming Language Principles,,7,84.14285714,11.09697514,97.0,68.0,0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,3
+UBCV,2016,W,CPSC,524,,101,Computer Graphics: Modeling,Alla Sheffer,11,92.54545455,8.733425861,100.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,8
+UBCV,2016,W,CPSC,524,,OVERALL,Computer Graphics: Modeling,,11,92.54545455,8.733425861,100.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,8
+UBCV,2016,W,CPSC,530,P,201,Topics in Information Processing,Dinesh Pai,12,88.41666667,4.100073909,94.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,7
+UBCV,2016,W,CPSC,530,P,OVERALL,Topics in Information Processing,,12,88.41666667,4.100073909,94.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,7
+UBCV,2016,W,CPSC,536,F,101,Topics in Algorithms and Complexity,Hu Fu,13,72.69230769,24.11909553,100.0,5.0,1,0.0,0.0,3.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+UBCV,2016,W,CPSC,536,F,OVERALL,Topics in Algorithms and Complexity,,13,72.69230769,24.11909553,100.0,5.0,1,0.0,0.0,3.0,1.0,1.0,1.0,0.0,0.0,5.0,1
+UBCV,2016,W,CPSC,536,N,201,Topics in Algorithms and Complexity,Nicholas Harvey,19,89.05263158,7.792258867,100.0,75.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,2.0,12
+UBCV,2016,W,CPSC,536,N,OVERALL,Topics in Algorithms and Complexity,,19,89.05263158,7.792258867,100.0,75.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.0,2.0,12
+UBCV,2016,W,CPSC,538,B,101,Topics in Computer Systems,Ivan Beschastnikh,16,92.5,5.489383693,99.0,81.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,12
+UBCV,2016,W,CPSC,538,B,OVERALL,Topics in Computer Systems,,16,92.5,5.489383693,99.0,81.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,12
+UBCV,2016,W,CPSC,538,G,101,Topics in Computer Systems,Mark Greenstreet,7,87.14285714,3.97611919,91.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,3
+UBCV,2016,W,CPSC,538,G,OVERALL,Topics in Computer Systems,,7,87.14285714,3.97611919,91.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,3
+UBCV,2016,W,CPSC,538,W,201,Topics in Computer Systems,Andrew Warfield,10,86.1,8.761658899,92.0,62.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,3
+UBCV,2016,W,CPSC,538,W,OVERALL,Topics in Computer Systems,,10,86.1,8.761658899,92.0,62.0,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,3
+UBCV,2016,W,CPSC,540,,201,Machine Learning,Jason Siyanda Hartford;Mark Schmidt;Robert Adam Rolin;Sharan Vaswani,39,87.38461539,7.607528766,97.0,68.0,0,0.0,0.0,0.0,0.0,2.0,1.0,3.0,5.0,9.0,19
+UBCV,2016,W,CPSC,540,,OVERALL,Machine Learning,,39,87.38461539,7.607528766,97.0,68.0,0,0.0,0.0,0.0,0.0,2.0,1.0,3.0,5.0,9.0,19
+UBCV,2016,W,CPSC,542,F,201,Topics in Numerical Computation,Michael Friedlander,21,90.0,0.0,90.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+UBCV,2016,W,CPSC,542,F,OVERALL,Topics in Numerical Computation,,21,90.0,0.0,90.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+UBCV,2016,W,CPSC,547,,201,Information Visualization,Tamara Munzner,18,88.66666667,7.219255298,97.0,70.0,0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,4.0,10
+UBCV,2016,W,CPSC,547,,OVERALL,Information Visualization,,18,88.66666667,7.219255298,97.0,70.0,0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,2.0,4.0,10
+UBCV,2016,W,CPSC,554,M,201,Topics in Human-Computer Interaction,Joanna Mcgrenere,8,86.0,5.529143566,93.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,2
+UBCV,2016,W,CPSC,554,M,OVERALL,Topics in Human-Computer Interaction,,8,86.0,5.529143566,93.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5.0,2

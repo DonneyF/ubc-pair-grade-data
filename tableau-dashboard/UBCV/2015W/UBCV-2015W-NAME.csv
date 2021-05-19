@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,NAME,501,,201,Advanced Ship Structures,Rodrigo Carneiro Da Costa;Terje Haukaas,12,85.25,6.877169079,94.0,74.0,,,,,,,,,,,5
-UBCV,2015,W,NAME,501,,OVERALL,Advanced Ship Structures,,12,85.25,6.877169079,94.0,74.0,,,,,,,,,,,5
-UBCV,2015,W,NAME,502,,201,Advanced Ship Hydrodynamics,Jon Mikkelsen;Michael D Isaacson,13,83.23076923100001,5.81884648,90.0,69.0,,,,,,,,,,6,
-UBCV,2015,W,NAME,502,,OVERALL,Advanced Ship Hydrodynamics,,13,83.23076923100001,5.81884648,90.0,69.0,,,,,,,,,,6,
-UBCV,2015,W,NAME,522,,201,Ship Production and Industrial Engineering,Philip Koenig;Warren Poole,14,85.714285714,4.4795015419999995,95.0,75.0,,,,,,,,,,8,
-UBCV,2015,W,NAME,522,,OVERALL,Ship Production and Industrial Engineering,,14,85.714285714,4.4795015419999995,95.0,75.0,,,,,,,,,,8,
-UBCV,2015,W,NAME,524,,101,Shipbuilding Project Management,Vitorio Stana,12,90.75,1.815338686,94.0,88.0,,,,,,,,,,,9
-UBCV,2015,W,NAME,524,,OVERALL,Shipbuilding Project Management,,12,90.75,1.815338686,94.0,88.0,,,,,,,,,,,9
-UBCV,2015,W,NAME,566,,201,Ship Dynamics and Control,Christopher Brian Mckesson;Christopher Mckesson;Peter Ostafichuk,16,81.375,7.410578025,96.0,69.0,,,,,,,,6,,,
-UBCV,2015,W,NAME,566,,OVERALL,Ship Dynamics and Control,,16,81.375,7.410578025,96.0,69.0,,,,,,,,6,,,
-UBCV,2015,W,NAME,578,,101,Marine Engineering,Christopher Brian Mckesson;Christopher Mckesson;Jon Mikkelsen,12,87.833333333,9.656211692000001,100.0,68.0,,,,,,,,,,,7
-UBCV,2015,W,NAME,578,,OVERALL,Marine Engineering,,12,87.833333333,9.656211692000001,100.0,68.0,,,,,,,,,,,7
-UBCV,2015,W,NAME,591,,001,Computer-Aided Ship Design Project,Christopher Brian Mckesson;Christopher Mckesson;Jon Mikkelsen;Philip Koenig;Terje Haukaas,11,88.27272727299999,1.678744119,90.0,85.0,,,,,,,,,,7,
-UBCV,2015,W,NAME,591,,OVERALL,Computer-Aided Ship Design Project,,11,88.27272727299999,1.678744119,90.0,85.0,,,,,,,,,,7,
+UBCV,2015,W,NAME,501,,201,Advanced Ship Structures,Rodrigo Carneiro Da Costa;Terje Haukaas,12,85.25,6.877169079,94.0,74.0,0,0,0,0,0,0,,,,,5
+UBCV,2015,W,NAME,501,,OVERALL,Advanced Ship Structures,,12,85.25,6.877169079,94.0,74.0,0,0,0,0,0,0,,,,,5
+UBCV,2015,W,NAME,502,,201,Advanced Ship Hydrodynamics,Jon Mikkelsen;Michael D Isaacson,13,83.230769231,5.81884648,90.0,69.0,0,0,0,0,0,,,,,6,
+UBCV,2015,W,NAME,502,,OVERALL,Advanced Ship Hydrodynamics,,13,83.230769231,5.81884648,90.0,69.0,0,0,0,0,0,,,,,6,
+UBCV,2015,W,NAME,522,,201,Ship Production and Industrial Engineering,Philip Koenig;Warren Poole,14,85.714285714,4.479501542,95.0,75.0,0,0,0,0,0,0,,,,8,
+UBCV,2015,W,NAME,522,,OVERALL,Ship Production and Industrial Engineering,,14,85.714285714,4.479501542,95.0,75.0,0,0,0,0,0,0,,,,8,
+UBCV,2015,W,NAME,524,,101,Shipbuilding Project Management,Vitorio Stana,12,90.75,1.815338686,94.0,88.0,0,0,0,0,0,0,0,0,0,3.0,9
+UBCV,2015,W,NAME,524,,OVERALL,Shipbuilding Project Management,,12,90.75,1.815338686,94.0,88.0,0,0,0,0,0,0,0,0,0,3.0,9
+UBCV,2015,W,NAME,566,,201,Ship Dynamics and Control,Christopher Brian Mckesson;Christopher Mckesson;Peter Ostafichuk,16,81.375,7.410578025,96.0,69.0,0,0,0,0,0,,,6,,,
+UBCV,2015,W,NAME,566,,OVERALL,Ship Dynamics and Control,,16,81.375,7.410578025,96.0,69.0,0,0,0,0,0,,,6,,,
+UBCV,2015,W,NAME,578,,101,Marine Engineering,Christopher Brian Mckesson;Christopher Mckesson;Jon Mikkelsen,12,87.833333333,9.656211692,100.0,68.0,0,0,0,0,0,,,,,,7
+UBCV,2015,W,NAME,578,,OVERALL,Marine Engineering,,12,87.833333333,9.656211692,100.0,68.0,0,0,0,0,0,,,,,,7
+UBCV,2015,W,NAME,591,,001,Computer-Aided Ship Design Project,Christopher Brian Mckesson;Christopher Mckesson;Jon Mikkelsen;Philip Koenig;Terje Haukaas,11,88.272727273,1.678744119,90.0,85.0,0,0,0,0,0,0,0,0,0,7,4.0
+UBCV,2015,W,NAME,591,,OVERALL,Computer-Aided Ship Design Project,,11,88.272727273,1.678744119,90.0,85.0,0,0,0,0,0,0,0,0,0,7,4.0

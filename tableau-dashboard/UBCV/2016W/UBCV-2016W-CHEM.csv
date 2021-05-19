@@ -1,200 +1,188 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,CHEM,111,,112,"Structure, Bonding, and Equilibrium in Chemistry",Derek Gates;Jaclyn Stewart;Valerie Chiykowski,246,62.182926828999996,15.70529201,99.0,0.0,55,11,32,27,24,27,23,14,17,8,8
-UBCV,2016,W,CHEM,111,,OVERALL,"Structure, Bonding, and Equilibrium in Chemistry",,246,62.182926828999996,15.70529201,99.0,0.0,55,11,32,27,24,27,23,14,17,8,8
-UBCV,2016,W,CHEM,121,,101,Structure and Bonding in Chemistry,Aagam Patel;Bryce Laver;Debbie Le;Joyce Gordon;Lawrence Mcintosh;Priya Lekhi;Roman Krems;Sarah Spreckelmeyer;Thomas Malig;Truman Hirkala-Schaefer;Valerie Chiykowski;William Thompson,161,74.683229814,12.443081592,95.0,38.0,9,2.0,8,8,10,18,22,20,29,14,21
-UBCV,2016,W,CHEM,121,,102,Structure and Bonding in Chemistry,Christopher E Orvig;Lawrence Mcintosh,224,68.625,13.256101057,96.0,25.0,22,7,18,31,21,25,24,20,34,13,9
-UBCV,2016,W,CHEM,121,,103,Structure and Bonding in Chemistry,Christopher E Orvig;Lawrence Mcintosh,224,64.160714286,15.612202639000001,96.0,0.0,38,6,25,26,29,27,19,17,21,7,9
-UBCV,2016,W,CHEM,121,,110,Structure and Bonding in Chemistry,Erin Lindenberg;Lawrence Mcintosh,228,72.859649123,13.693226205999999,98.0,20.0,18,1.0,11,15,18,28,36,22,36,18,25
-UBCV,2016,W,CHEM,121,,111,Structure and Bonding in Chemistry,Derek Gates;Kayli Johnson;Lawrence Mcintosh,227,70.519823789,14.321631141,96.0,23.0,23,3.0,20,17,25,30,19,11,41,21,17
-UBCV,2016,W,CHEM,121,,122,Structure and Bonding in Chemistry,Lawrence Mcintosh;Zachary Hudson,232,70.900862069,15.726383356,98.0,22.0,27,7,18,18,16,22,22,21,34,24,23
-UBCV,2016,W,CHEM,121,,133,Structure and Bonding in Chemistry,Andrea Terpstra;Lawrence Mcintosh,213,67.521126761,15.102035807,97.0,24.0,29,9,19,24,23,21,18,14,27,15,14
-UBCV,2016,W,CHEM,121,,188,Structure and Bonding in Chemistry,Lawrence Mcintosh;Peter Legzdins,220,61.972727273000004,15.520179288,98.0,24.0,55,8,30,27,26,14,13,12,15,9,11
-UBCV,2016,W,CHEM,121,,199,Structure and Bonding in Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Lawrence Mcintosh,211,68.132701422,14.880201669000002,97.0,25.0,31,6,16,17,20,26,25,15,29,13,13
-UBCV,2016,W,CHEM,121,,OVERALL,Structure and Bonding in Chemistry,,2043,68.600097895,15.179279268,98.0,0.0,268,51,173,190,196,221,210,161,287,140,146
-UBCV,2016,W,CHEM,121,,V02,Structure and Bonding in Chemistry,Guillaume Beaulieu-Houle;Kayli Johnson;Lawrence Mcintosh;Priya Lekhi;Scott Ryken,103,67.194174757,17.656892368,94.0,15.0,16,2.0,8,7,8,10,12,9,21,6,4
-UBCV,2016,W,CHEM,123,,201,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Joyce Gordon;Kayli Johnson,147,79.353741497,11.518182601,97.0,18.0,1,1.0,6,7,5,16,12,14,26,26,33
-UBCV,2016,W,CHEM,123,,202,"Thermodynamics, Kinetics and Organic Chemistry",Aagam Patel;Erin Lindenberg;Harvey Mackenzie;Kevin Kovalchik;Rebecka Forward;Rupsa Gupta;Sarah Spreckelmeyer;Truman Hirkala-Schaefer,217,70.47926267300001,13.76155351,95.0,15.0,20,3.0,20,20,18,26,23,17,37,18,15
-UBCV,2016,W,CHEM,123,,203,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Jason Hein;Keng Chang Chou,222,67.963963964,12.392471754,96.0,20.0,22,7,15,25,27,40,27,17,27,6,9
-UBCV,2016,W,CHEM,123,,210,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Jason Hein;Keng Chang Chou,221,71.91402714899999,12.315800368,95.0,35.0,11,8,13,18,21,31,26,18,39,24,12
-UBCV,2016,W,CHEM,123,,211,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Glenn Sammis,232,75.482758621,12.494835475999999,96.0,28.0,9,2.0,15,13,9,31,23,28,41,28,33
-UBCV,2016,W,CHEM,123,,222,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Hongbin Li;Katherine Ryan,209,66.645933014,13.519536975,95.0,13.0,21,14,18,23,20,41,15,12,30,11,4.0
-UBCV,2016,W,CHEM,123,,266,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg,204,70.18627451,12.608723536,96.0,27.0,14,1.0,21,23,21,29,26,15,26,14,14
-UBCV,2016,W,CHEM,123,,299,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Hongbin Li;Katherine Ryan,196,68.010204082,13.28426476,97.0,40.0,19,7,27,26,17,17,18,20,19,14,12
-UBCV,2016,W,CHEM,123,,OVERALL,"Thermodynamics, Kinetics and Organic Chemistry",,1648,71.012742718,13.301663947,97.0,13.0,117,43,135,155,138,231,170,141,245,141,132
-UBCV,2016,W,CHEM,154,,133,Chemistry for Engineering,Jane Maxwell;Jose Rodriguez Nunez,326,72.819018405,12.118431237000001,95.0,14.0,15,4.0,14,24,35,33,44,44,59,40,14
-UBCV,2016,W,CHEM,154,,177,Chemistry for Engineering,Erin Evoy;Jane Maxwell;Jose Rodriguez Nunez;Kevan Dettelbach,331,72.66465256800001,11.170547915,95.0,28.0,14,5,13,23,35,46,52,40,57,31,15
-UBCV,2016,W,CHEM,154,,OVERALL,Chemistry for Engineering,,657,72.741248097,11.641887955,95.0,14.0,29,9,27,47,70,79,96,84,116,71,29
-UBCV,2016,W,CHEM,203,,101,Introduction to Organic Chemistry,Marco Ciufolini,240,66.404166667,14.845056914,98.0,29.0,29,21,22,23,25,19,34,20,25,5,17
-UBCV,2016,W,CHEM,203,,OVERALL,Introduction to Organic Chemistry,,240,66.404166667,14.845056914,98.0,29.0,29,21,22,23,25,19,34,20,25,5,17
-UBCV,2016,W,CHEM,205,,203,Physical Chemistry,Grenfell Patey;Yan Wang,178,72.056179775,16.543972942,98.0,0.0,15,14,10,12,12,18,11,13,25,24,24
-UBCV,2016,W,CHEM,205,,208,Physical Chemistry,David Chen;Yan Wang,128,68.1875,16.370104305,98.0,24.0,17,8,13,8,7,13,15,6,19,15,7
-UBCV,2016,W,CHEM,205,,210,Physical Chemistry,Guillaume Bussiere;Yan Wang,194,75.788659794,14.668060372000001,97.0,21.0,9,8,7,13,14,10,17,20,29,31,36
-UBCV,2016,W,CHEM,205,,222,Physical Chemistry,Jianxiong Yang;Joseph Lee;Luca Egoriti;Miguel Angel Garcia Chavez;Tirthaprasad Chattaraj;Yan Wang;Yiming Wang,122,69.204918033,16.995837373,97.0,6.0,13,12,9,4.0,13,7,13,13,16,10,12
-UBCV,2016,W,CHEM,205,,299,Physical Chemistry,Yan Wang,176,75.028409091,14.738648505,98.0,26.0,8,8,11,12,13,14,15,12,27,25,31
-UBCV,2016,W,CHEM,205,,OVERALL,Physical Chemistry,,798,72.562656642,15.996014527,98.0,0.0,62,50,50,49,59,62,71,64,116,105,110
-UBCV,2016,W,CHEM,208,,112,Coordination Chemistry,Chantal Mustoe;Douglas Beattie;Elizabeth Gillis;Jennifer Ann Love;Parisa Mehrkhodavandi;Pierre Kennepohl;Weiying He,134,70.26865671600001,12.370936215,98.0,31.0,5,9,10,13,17,11,16,22,15,8,8
-UBCV,2016,W,CHEM,208,,OVERALL,Coordination Chemistry,,134,70.26865671600001,12.370936215,98.0,31.0,5,9,10,13,17,11,16,22,15,8,8
-UBCV,2016,W,CHEM,211,,188,Introduction to Chemical Analysis,Michael Blades;Rispah Janet Ochola,177,75.28248587600001,12.353660597000001,97.0,40.0,8,2.0,12,6,13,17,25,20,37,11,26
-UBCV,2016,W,CHEM,211,,288,Introduction to Chemical Analysis,Jane Maxwell;Nirmalendu Kuanr;Walter Algar,159,75.893081761,11.67090464,95.0,38.0,8,0.0,3,10,10,15,17,17,35,30,14
-UBCV,2016,W,CHEM,211,,OVERALL,Introduction to Chemical Analysis,,336,75.571428571,12.021409473,97.0,38.0,16,2.0,15,16,23,32,42,37,72,41,40
-UBCV,2016,W,CHEM,213,,201,Organic Chemistry,David Perrin;Kristof Altus;Walid Abdelmagid,219,68.547945205,14.346985518,100.0,7.0,23,11,20,20,25,20,27,24,19,19,11
-UBCV,2016,W,CHEM,213,,OVERALL,Organic Chemistry,,219,68.547945205,14.346985518,100.0,7.0,23,11,20,20,25,20,27,24,19,19,11
-UBCV,2016,W,CHEM,218,,212,Fundamentals of Reactivity in Inorganic Chemistry,Douglas Beattie;Douglas Dawson Beattie;Jane Maxwell;Jennifer Ann Love;Parisa Mehrkhodavandi,93,69.935483871,12.667835383,93.0,31.0,6,3.0,7,14,7,14,7,10,10,10,5
-UBCV,2016,W,CHEM,218,,OVERALL,Fundamentals of Reactivity in Inorganic Chemistry,,93,69.935483871,12.667835383,93.0,31.0,6,3.0,7,14,7,14,7,10,10,10,5
-UBCV,2016,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Martin Tanner,213,60.361502347,14.694557509000001,97.0,14.0,50,25,25,26,19,16,15,15,11,8,3.0
-UBCV,2016,W,CHEM,233,,108,Organic Chemistry for the Biological Sciences,Douglas Beattie;Jaclyn Stewart;Jane Maxwell;Jefferey Jang;Maxim Epifanov;Nirmalendu Kuanr;Peixi Wang;Xueqing Wang,215,65.590697674,15.226940801,96.0,18.0,33,15,21,24,20,27,15,11,23,19,7
-UBCV,2016,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Jaclyn Stewart,225,75.217777778,16.056308408,99.0,26.0,22,3.0,13,16,13,13,11,15,39,40,40
-UBCV,2016,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Stephen Withers,200,57.495,17.003989334,94.0,0.0,68,20,24,15,12,13,17,10,10,8,3.0
-UBCV,2016,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Marco Ciufolini,230,66.891304348,16.171607365,94.0,9.0,36,15,18,20,17,22,23,18,28,20,13
-UBCV,2016,W,CHEM,233,,OVERALL,Organic Chemistry for the Biological Sciences,,1083,65.343490305,16.945007869,99.0,0.0,209,78,101,101,81,91,81,69,111,95,66
-UBCV,2016,W,CHEM,235,,L12,Organic Chemistry Laboratory,Dana Zendrowski,85,76.058823529,8.436531872,93.0,56.0,,,,,7,12,8,17,20,10,
-UBCV,2016,W,CHEM,235,,L13,Organic Chemistry Laboratory,Dana Zendrowski,77,73.532467532,6.640355919,89.0,55.0,,,,,8,8,28,15,7,5,
-UBCV,2016,W,CHEM,235,,L14,Organic Chemistry Laboratory,Dana Zendrowski,70,71.2,9.200819119,85.0,51.0,,,7,5,8,10,6,15,13,,
-UBCV,2016,W,CHEM,235,,L15,Organic Chemistry Laboratory,Dana Zendrowski,77,75.194805195,7.098997262,92.0,56.0,,,,,5,16,9,26,9,7,
-UBCV,2016,W,CHEM,235,,L16,Organic Chemistry Laboratory,Dana Zendrowski,84,72.130952381,10.503906057,88.0,1.0,,,,,8,15,28,13,10,,
-UBCV,2016,W,CHEM,235,,L17,Organic Chemistry Laboratory,Dana Zendrowski,82,77.06097561,7.455791619,90.0,54.0,,,,,5,7,15,18,18,14,
-UBCV,2016,W,CHEM,235,,L18,Organic Chemistry Laboratory,Dana Zendrowski,70,70.285714286,6.6357460989999995,84.0,50.0,,,,9,12,15,16,11,5,,
-UBCV,2016,W,CHEM,235,,L22,Organic Chemistry Laboratory,Dana Zendrowski,62,68.758064516,8.223687267,85.0,52.0,,,9,9,11,11,8,5,6,,
-UBCV,2016,W,CHEM,235,,L23,Organic Chemistry Laboratory,Dana Zendrowski,72,69.305555556,8.386170522,88.0,51.0,,,7,,15,12,13,9,7,,
-UBCV,2016,W,CHEM,235,,L24,Organic Chemistry Laboratory,Dana Zendrowski,71,71.915492958,8.593596417999999,86.0,34.0,,,,5,10,14,15,11,11,,
-UBCV,2016,W,CHEM,235,,L25,Organic Chemistry Laboratory,Dana Zendrowski,80,73.975,7.46633796,93.0,56.0,,,,,13,15,9,21,13,,
-UBCV,2016,W,CHEM,235,,L26,Organic Chemistry Laboratory,Dana Zendrowski,64,71.75,8.477795461,87.0,50.0,,,,8,7,9,12,11,10,,
-UBCV,2016,W,CHEM,235,,L27,Organic Chemistry Laboratory,Dana Zendrowski,74,74.243243243,6.343610335,90.0,59.0,,,,,9,10,27,13,8,,
-UBCV,2016,W,CHEM,235,,OVERALL,Organic Chemistry Laboratory,,973,72.926002055,8.359014266,93.0,1.0,2.0,17,41,57,118,154,195,185,140,54,10
-UBCV,2016,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Diana Yu;Jason Wickenden,55,75.127272727,6.218415141,87.0,57.0,,,,,5,6,12,14,14,,
-UBCV,2016,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,56,74.803571429,5.068331778,86.0,62.0,,,,,,10,18,11,11,,
-UBCV,2016,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,43,73.674418605,7.324846593999999,86.0,54.0,,,,,5,2,11,8,12,,
-UBCV,2016,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,58,73.36206896600001,5.035656287,83.0,58.0,,,,,,18,13,13,8,,
-UBCV,2016,W,CHEM,245,,OVERALL,Intermediate Synthetic Chemistry Laboratory,,212,74.264150943,5.889667854,87.0,54.0,,,,5,17,36,54,46,45,5,
-UBCV,2016,W,CHEM,250,,210,Inorganic Chemistry,Peixi Wang;Vishakha Monga,124,66.951612903,13.853974122999999,93.0,12.0,9,14,10,14,20,12,8,12,12,6,7
-UBCV,2016,W,CHEM,250,,OVERALL,Inorganic Chemistry,,124,66.951612903,13.853974122999999,93.0,12.0,9,14,10,14,20,12,8,12,12,6,7
-UBCV,2016,W,CHEM,251,,188,Physical Chemistry for Engineers,Erin Lindenberg;Kaitlin Lovering,123,70.902439024,11.653758019000001,99.0,38.0,2.0,5,14,11,17,19,9,18,11,9,8
-UBCV,2016,W,CHEM,251,,OVERALL,Physical Chemistry for Engineers,,123,70.902439024,11.653758019000001,99.0,38.0,2.0,5,14,11,17,19,9,18,11,9,8
-UBCV,2016,W,CHEM,260,,109,Organic Chemistry for Engineers,John Sherman;Walid Abdelmagid,123,65.569105691,17.683038692,100.0,0.0,13,20,14,9,9,12,10,7,12,3.0,14
-UBCV,2016,W,CHEM,260,,OVERALL,Organic Chemistry for Engineers,,123,65.569105691,17.683038692,100.0,0.0,13,20,14,9,9,12,10,7,12,3.0,14
-UBCV,2016,W,CHEM,300,,109,Communicating Chemistry,Edward Grant;Elizabeth Gillis;Jaclyn Stewart;Robin Stoodley,22,79.545454545,5.877538136,87.0,66.0,,,,,,,,,9,5,
-UBCV,2016,W,CHEM,300,,110,Communicating Chemistry,Edward Grant;Elizabeth Gillis;Jaclyn Stewart;John Sous;Lauren Deborah Nykolaychuk;Lauren Nykolaychuk;Robin Stoodley,23,77.739130435,7.454208032,86.0,55.0,,,,,,,5,,9,4,
-UBCV,2016,W,CHEM,300,,209,Communicating Chemistry,Edward Grant;Elizabeth Gillis;Jaclyn Stewart,17,83.588235294,5.512018952999999,91.0,70.0,,,,,,,,,5,6,
-UBCV,2016,W,CHEM,300,,211,Communicating Chemistry,Elizabeth Gillis;Jaclyn Stewart;Lauren Deborah Nykolaychuk;Lauren Nykolaychuk;Rispah Janet Ochola;Robin Stoodley,16,84.875,2.7537852739999997,90.0,81.0,,,,,,,,,8,7,
-UBCV,2016,W,CHEM,300,,OVERALL,Communicating Chemistry,,78,80.98717948699999,6.439515973,91.0,55.0,,,,,,,9,6,31,22,
-UBCV,2016,W,CHEM,301,,117,Aqueous Environmental Chemistry,Dagny Ullmann;Priya Lekhi,109,75.302752294,11.398102983,96.0,45.0,,,6,10,12,7,17,,18,20,11
-UBCV,2016,W,CHEM,301,,OVERALL,Aqueous Environmental Chemistry,,109,75.302752294,11.398102983,96.0,45.0,,,6,10,12,7,17,,18,20,11
-UBCV,2016,W,CHEM,302,,209,Atmospheric Environmental Chemistry,Eric Miller;Takamasa Momose,147,80.258503401,10.712359035,99.0,51.0,,,5,6,5,12,17,6,28,34,33
-UBCV,2016,W,CHEM,302,,OVERALL,Atmospheric Environmental Chemistry,,147,80.258503401,10.712359035,99.0,51.0,,,5,6,5,12,17,6,28,34,33
-UBCV,2016,W,CHEM,304,,111,Fundamentals of Thermodynamics and Statistical Mechanics,Mark Thachuk,165,70.272727273,14.867448334,100.0,5.0,10,9,16,16,15,20,18,9,23,9,20
-UBCV,2016,W,CHEM,304,,OVERALL,Fundamentals of Thermodynamics and Statistical Mechanics,,165,70.272727273,14.867448334,100.0,5.0,10,9,16,16,15,20,18,9,23,9,20
-UBCV,2016,W,CHEM,305,,211,Biophysical Chemistry,Prashant Kumar;Suzana Straus,47,82.638297872,11.018611788,97.0,52.0,,,,,,,7,,9,8,16
-UBCV,2016,W,CHEM,305,,OVERALL,Biophysical Chemistry,,47,82.638297872,11.018611788,97.0,52.0,,,,,,,7,,9,8,16
-UBCV,2016,W,CHEM,310,,210,d- and f-Block Elements: Chemistry and Applications,Peter Legzdins,11,71.272727273,7.226214903,83.0,61.0,,,,,,5,,,,,
-UBCV,2016,W,CHEM,310,,OVERALL,d- and f-Block Elements: Chemistry and Applications,,11,71.272727273,7.226214903,83.0,61.0,,,,,,5,,,,,
-UBCV,2016,W,CHEM,311,,299,Instrumental Analytical Chemistry,Dan Bizzotto;Victoria Karner,71,65.676056338,14.559998672999999,91.0,13.0,12,,,7,12,6,11,7,8,,
-UBCV,2016,W,CHEM,311,,OVERALL,Instrumental Analytical Chemistry,,71,65.676056338,14.559998672999999,91.0,13.0,12,,,7,12,6,11,7,8,,
-UBCV,2016,W,CHEM,312,,166,Introduction to Quantum Mechanics and Spectroscopy,Rodrigo Vargas Hernandez;Roman Krems,90,75.111111111,12.336521503,96.0,33.0,,,5,8,6,10,8,15,13,10,11
-UBCV,2016,W,CHEM,312,,OVERALL,Introduction to Quantum Mechanics and Spectroscopy,,90,75.111111111,12.336521503,96.0,33.0,,,5,8,6,10,8,15,13,10,11
-UBCV,2016,W,CHEM,313,,208,Advanced Organic Chemistry for the Life Sciences,Antoine Blanc;John Sherman,117,67.794871795,19.769594584,100.0,10.0,15,15,17,8,,10,6,7,11,,22
-UBCV,2016,W,CHEM,313,,OVERALL,Advanced Organic Chemistry for the Life Sciences,,117,67.794871795,19.769594584,100.0,10.0,15,15,17,8,,10,6,7,11,,22
-UBCV,2016,W,CHEM,315,,L15,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,5,75.2,6.418722614,85.0,69.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,315,,L1B,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,27,75.37037037,4.985734636,85.0,66.0,,,,,,5,5,10,,,
-UBCV,2016,W,CHEM,315,,L1C,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,14,75.142857143,3.840215195,81.0,71.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,315,,L21,Chemistry Integrated Laboratory I,Adrian Maclean;Akram Khodabandehloo;Alberto Ruiz Orduna;Alla Pryyma;Andy Tran;Aoxue Huang;Brendan Moore;Brian Sahli;Caitlyn Grypma;Chanel La;Chu Liu;Chuantian Zhan;Elise Caron;Elizabeth Gillis;Erika Siren;Gregory Dake;Guillaume Bussiere;Han Hao;Han Wang;Hsin-Yun Tsai;Isaac Martens;Jianhui Cheng;Jose Rodriguez Nunez;Kaylyn Leung;Lei Niu;Leixing Chen;Linglan Fu;Lingyu Wang;Lucy Garland;Manish Vashishta;Maxim Epifanov;Robin Stoodley;Ryan Mcfadden;Sophia Nussbaum;Tianyu Duan;Trevor Cross;Vishakha Monga;Weiying He;Yingqian Chen;Zhen Xu,14,66.928571429,8.588581738,80.0,50.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,315,,L23,Chemistry Integrated Laboratory I,Gregory Dake;Guillaume Bussiere;Vishakha Monga,12,71.083333333,6.653206107999999,80.0,60.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,315,,L25,Chemistry Integrated Laboratory I,Gregory Dake;Guillaume Bussiere;Vishakha Monga,7,63.0,17.165857585999998,82.0,27.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,315,,L3B,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,26,73.23076923100001,11.72111835,82.0,23.0,,,,,,,6,5,8,,
-UBCV,2016,W,CHEM,315,,L3C,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,5,76.4,6.693280212,82.0,66.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,315,,L5B,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,23,73.304347826,9.309988686,84.0,40.0,,,,,,,6,5,5,,
-UBCV,2016,W,CHEM,315,,LB3,Chemistry Integrated Laboratory I,Gregory Dake;Guillaume Bussiere;Vishakha Monga,5,73.8,4.969909456,80.0,67.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,315,,LM7,Chemistry Integrated Laboratory I,Guillaume Bussiere,13,72.538461538,7.33275056,86.0,63.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,315,,OVERALL,Chemistry Integrated Laboratory I,,168,72.345238095,9.375077226,86.0,23.0,5,,,5,20,28,38,33,30,,
-UBCV,2016,W,CHEM,318,,109,Principles of Catalysis,Love-Ese Chile;Parisa Mehrkhodavandi,54,65.981481481,15.276681874000001,91.0,27.0,8,,,6,,8,,,8,,
-UBCV,2016,W,CHEM,318,,OVERALL,Principles of Catalysis,,54,65.981481481,15.276681874000001,91.0,27.0,8,,,6,,8,,,8,,
-UBCV,2016,W,CHEM,325,,113,Integrated Chemistry Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,19,68.368421053,8.234146561000001,79.0,50.0,,,,,,6,5,,,,
-UBCV,2016,W,CHEM,325,,115,Integrated Chemistry Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,24,75.791666667,11.680452518,90.0,44.0,,,,,,,,,11,,
-UBCV,2016,W,CHEM,325,,135,Integrated Chemistry Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,18,70.055555556,8.794866297999999,85.0,45.0,,,,,,5,,,,,
-UBCV,2016,W,CHEM,325,,215,Integrated Chemistry Laboratory I,Gregory Dake;Guillaume Bussiere;Vishakha Monga,5,76.4,6.426507605,86.0,70.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,325,,OVERALL,Integrated Chemistry Laboratory I,,72,72.0,10.099504937999999,90.0,44.0,,,,,6,20,11,10,11,,
-UBCV,2016,W,CHEM,327,,212,Introduction to Materials Chemistry,Jane Maxwell;Jose Rodriguez Nunez;Michael Scott,78,71.076923077,11.595755192,95.0,28.0,,,8,7,7,14,13,6,9,8,
-UBCV,2016,W,CHEM,327,,OVERALL,Introduction to Materials Chemistry,,78,71.076923077,11.595755192,95.0,28.0,,,8,7,7,14,13,6,9,8,
-UBCV,2016,W,CHEM,330,,108,Advanced Organic Chemistry,Christopher Voth;Gregory Dake;Gregory Richard Dake,44,73.113636364,13.401172995,100.0,40.0,,,,,6,6,,,8,,6
-UBCV,2016,W,CHEM,330,,OVERALL,Advanced Organic Chemistry,,44,73.113636364,13.401172995,100.0,40.0,,,,,6,6,,,8,,6
-UBCV,2016,W,CHEM,335,,L1B,Chemistry Integrated Laboratory II,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,6,77.0,2.966479395,80.0,72.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,335,,L3B,Chemistry Integrated Laboratory II,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,5,72.4,7.924645102,80.0,62.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,335,,L5B,Chemistry Integrated Laboratory II,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,5,75.4,7.197221686000001,84.0,64.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,335,,LB1,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,18,75.611111111,6.399805961,87.0,65.0,,,,,,,,,5,,
-UBCV,2016,W,CHEM,335,,LB3,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,22,77.818181818,9.22024875,92.0,50.0,,,,,,,5,5,,,
-UBCV,2016,W,CHEM,335,,LB5,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,22,78.045454545,7.70576329,92.0,63.0,,,,,,,,7,5,,
-UBCV,2016,W,CHEM,335,,LC1,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,7,78.428571429,4.117326918,85.0,73.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,335,,LC3,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,9,75.111111111,6.990072325,87.0,62.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,335,,OVERALL,Chemistry Integrated Laboratory II,,96,76.458333333,7.726804564,92.0,50.0,,,,,6,6,18,28,20,8,5
-UBCV,2016,W,CHEM,341,,211,Global Challenges: A Chemical Perspective,Christopher Voth;Gregory Dake,104,69.26923076899999,12.604692276,92.0,32.0,8,7,8,8,9,14,10,8,24,5,3.0
-UBCV,2016,W,CHEM,341,,OVERALL,Global Challenges: A Chemical Perspective,,104,69.26923076899999,12.604692276,92.0,32.0,8,7,8,8,9,14,10,8,24,5,3.0
-UBCV,2016,W,CHEM,345,,115,Integrated Chemistry Laboratory II,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,6,77.333333333,6.7131711329999995,90.0,71.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,345,,213,Integrated Chemistry Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,14,71.571428571,6.880454879,83.0,59.0,,,,,,,5,,,,
-UBCV,2016,W,CHEM,345,,215,Integrated Chemistry Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,20,75.55,8.525349197999999,92.0,53.0,,,,,,5,7,,,,
-UBCV,2016,W,CHEM,345,,235,Integrated Chemistry Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,12,70.916666667,11.106577358,80.0,39.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,345,,OVERALL,Integrated Chemistry Laboratory II,,53,73.471698113,8.703676883,92.0,39.0,,,,,,12,15,9,5,,
-UBCV,2016,W,CHEM,402,,210,Diffraction Methods,Brian Patrick,11,86.909090909,5.769827475,93.0,77.0,,,,,,,,,,,5
-UBCV,2016,W,CHEM,402,,OVERALL,Diffraction Methods,,11,86.909090909,5.769827475,93.0,77.0,,,,,,,,,,,5
-UBCV,2016,W,CHEM,403,,201,Surface Chemistry and Surface Analysis,Dan Bizzotto,9,76.222222222,14.437605218,92.0,44.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,403,,OVERALL,Surface Chemistry and Surface Analysis,,9,76.222222222,14.437605218,92.0,44.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,405,,110,Biophysical Chemistry,Suzana Straus,10,86.4,10.905656025,98.0,60.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,405,,OVERALL,Biophysical Chemistry,,10,86.4,10.905656025,98.0,60.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,406,,109,Polymer Chemistry,Derek Gates,34,73.588235294,12.735342489,95.0,39.0,,,,,,,5,,8,,
-UBCV,2016,W,CHEM,406,,OVERALL,Polymer Chemistry,,34,73.588235294,12.735342489,95.0,39.0,,,,,,,5,,8,,
-UBCV,2016,W,CHEM,407,,299,Statistical Mechanics in Chemistry,Grenfell Patey,7,83.285714286,14.453538041,98.0,63.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,407,,OVERALL,Statistical Mechanics in Chemistry,,7,83.285714286,14.453538041,98.0,63.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,410,,211,Properties of Materials,Keng Chang Chou,10,80.9,6.773313647999999,92.0,70.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,410,,OVERALL,Properties of Materials,,10,80.9,6.773313647999999,92.0,70.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,411,,201,Synthesis and Chemistry of Natural Products,Glenn Sammis,5,85.4,5.856620186000001,93.0,77.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,411,,OVERALL,Synthesis and Chemistry of Natural Products,,5,85.4,5.856620186000001,93.0,77.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,412,,266,Electronic Structure of Atoms and Molecules,Rodrigo Vargas Hernandez;Takamasa Momose,12,90.916666667,4.8328108389999995,97.0,80.0,,,,,,,,,,,9
-UBCV,2016,W,CHEM,412,,OVERALL,Electronic Structure of Atoms and Molecules,,12,90.916666667,4.8328108389999995,97.0,80.0,,,,,,,,,,,9
-UBCV,2016,W,CHEM,413,,166,Bioorganic Chemistry,Martin Tanner,13,74.384615385,15.819494627000001,98.0,40.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,413,,OVERALL,Bioorganic Chemistry,,13,74.384615385,15.819494627000001,98.0,40.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,417,,201,Nuclear Chemistry and Radiochemistry,William Andrew Macfarlane,10,73.6,10.762073324000001,90.0,55.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,417,,OVERALL,Nuclear Chemistry and Radiochemistry,,10,73.6,10.762073324000001,90.0,55.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,418,,209,Organometallic Chemistry,Laurel Schafer,15,81.466666667,9.410227465,98.0,66.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,418,,OVERALL,Organometallic Chemistry,,15,81.466666667,9.410227465,98.0,66.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,434,,266,Principles of Chemical Separation,David Chen,5,80.8,3.033150178,86.0,78.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,434,,OVERALL,Principles of Chemical Separation,,5,80.8,3.033150178,86.0,78.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,435,,111,Bio-Inorganic Chemistry,Pierre Kennepohl,14,84.285714286,6.6728908670000004,94.0,68.0,,,,,,,,,,7,
-UBCV,2016,W,CHEM,435,,OVERALL,Bio-Inorganic Chemistry,,14,84.285714286,6.6728908670000004,94.0,68.0,,,,,,,,,,7,
-UBCV,2016,W,CHEM,445,A,135,Projects in Experimental Chemistry,Guillaume Bussiere;Jose Rodriguez Nunez;Katherine Cochrane;Leanne Racicot;Linglan Fu;Manish Vashishta;Marco Paladino;Prashant Kumar;Robin Stoodley;Vishakha Monga,10,73.0,5.96284794,84.0,66.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,445,A,OVERALL,Projects in Experimental Chemistry,,13,74.307692308,6.421119001,85.0,66.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,445,B,235,Projects in Experimental Chemistry,Adrian Maclean;Alla Pryyma;Aoxue Huang;Erika Siren;Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Isaac Martens;Jefferey Jang;Jiqing Huang;Jose Rodriguez Nunez;Linglan Fu;Manish Vashishta;Savita Srinivasa;Sophia Nussbaum;Vishakha Monga;Weiying He,16,69.3125,6.740116221,80.0,50.0,,,,,,6,5,,,,
-UBCV,2016,W,CHEM,445,B,OVERALL,Projects in Experimental Chemistry,,20,72.95,9.605234319,90.0,50.0,,,,,,6,5,,,,
-UBCV,2016,W,CHEM,445,C,OVERALL,Projects in Experimental Chemistry,,13,83.692307692,5.543534002,91.0,72.0,,,,,,,,,,5,
-UBCV,2016,W,CHEM,445,C,RLE,Projects in Experimental Chemistry,Vishakha Monga,13,83.692307692,5.543534002,91.0,72.0,,,,,,,,,,5,
-UBCV,2016,W,CHEM,449,,002,Seminar and Thesis,Parisa Mehrkhodavandi,19,88.0,6.548960901,95.0,70.0,,,,,,,,,,,11
-UBCV,2016,W,CHEM,449,,OVERALL,Seminar and Thesis,,19,88.0,6.548960901,95.0,70.0,,,,,,,,,,,11
-UBCV,2016,W,CHEM,460,,199,Organic Synthesis: A Mechanistic Approach,Christopher Voth;Glenn Sammis;Gregory Dake;Gregory Richard Dake;Martin Tanner,8,77.75,14.694508205999998,95.0,51.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,460,,OVERALL,Organic Synthesis: A Mechanistic Approach,,8,77.75,14.694508205999998,95.0,51.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,473,,188,Structure Determination and Reaction Analysis,Harry Brumer,7,74.0,16.370705544,95.0,50.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,473,,OVERALL,Structure Determination and Reaction Analysis,,7,74.0,16.370705544,95.0,50.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,502,,211,Advanced Physical Chemistry of the Solid State,Keng Chang Chou,5,88.8,5.118593557,95.0,83.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,502,,OVERALL,Advanced Physical Chemistry of the Solid State,,5,88.8,5.118593557,95.0,83.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,514,,210,Crystal Structures,Brian Patrick,17,89.11764705899999,4.884700003,96.0,75.0,,,,,,,,,,6,10
-UBCV,2016,W,CHEM,514,,OVERALL,Crystal Structures,,17,89.11764705899999,4.884700003,96.0,75.0,,,,,,,,,,6,10
-UBCV,2016,W,CHEM,516,A,110,Topics in Biophysical Chemistry,Suzana Straus,6,93.0,2.828427125,98.0,90.0,,,,,,,,,,,6
-UBCV,2016,W,CHEM,516,A,OVERALL,Topics in Biophysical Chemistry,,6,93.0,2.828427125,98.0,90.0,,,,,,,,,,,6
-UBCV,2016,W,CHEM,517,,111,Electrochemistry,Dan Bizzotto,14,81.214285714,8.386606276,94.0,65.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,517,,OVERALL,Electrochemistry,,14,81.214285714,8.386606276,94.0,65.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,521,B,299,Topics in Inorganic Chemistry,Michael Wolf,18,86.444444444,3.072117917,91.0,81.0,,,,,,,,,6,7,5
-UBCV,2016,W,CHEM,521,B,OVERALL,Topics in Inorganic Chemistry,,18,86.444444444,3.072117917,91.0,81.0,,,,,,,,,6,7,5
-UBCV,2016,W,CHEM,524,,209,Advanced Applications in Organometallic Chemistry,Laurel Schafer,9,84.0,8.062257748,97.0,76.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,524,,OVERALL,Advanced Applications in Organometallic Chemistry,,9,84.0,8.062257748,97.0,76.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,526,,111,Bioinorganic Chemistry,Pierre Kennepohl,6,80.166666667,10.759491933,91.0,60.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,526,,OVERALL,Bioinorganic Chemistry,,6,80.166666667,10.759491933,91.0,60.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,527,,117,Nanomaterials,Mark Maclachlan,18,88.888888889,2.720053825,95.0,85.0,,,,,,,,,,9,9
-UBCV,2016,W,CHEM,527,,OVERALL,Nanomaterials,,18,88.888888889,2.720053825,95.0,85.0,,,,,,,,,,9,9
-UBCV,2016,W,CHEM,533,,109,Bioanalytical Chemistry,Michael Blades;Robin Turner,11,88.090909091,5.974186897999999,98.0,80.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,533,,OVERALL,Bioanalytical Chemistry,,11,88.090909091,5.974186897999999,98.0,80.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,534,,266,Principles of Chemical Separation,David Chen;Lingyu Wang,11,84.545454545,13.025848428,97.0,50.0,,,,,,,,,,,5
-UBCV,2016,W,CHEM,534,,OVERALL,Principles of Chemical Separation,,11,84.545454545,13.025848428,97.0,50.0,,,,,,,,,,,5
-UBCV,2016,W,CHEM,560,,199,Organic Chemistry: Building Molecules and Understanding Reactivity,Glenn Sammis;Gregory Dake;Gregory Richard Dake,13,80.076923077,9.096350353,98.0,63.0,,,,,,,5,,,,
-UBCV,2016,W,CHEM,560,,OVERALL,Organic Chemistry: Building Molecules and Understanding Reactivity,,13,80.076923077,9.096350353,98.0,63.0,,,,,,,5,,,,
-UBCV,2016,W,CHEM,566,,201,Advanced Organic Synthesis,Glenn Sammis,8,83.0,6.740072064,91.0,72.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,566,,OVERALL,Advanced Organic Synthesis,,8,83.0,6.740072064,91.0,72.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,569,,166,Advanced Bioorganic Chemistry,Martin Tanner,10,77.5,12.039287539000002,92.0,60.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,569,,OVERALL,Advanced Bioorganic Chemistry,,10,77.5,12.039287539000002,92.0,60.0,,,,,,,,,,,
-UBCV,2016,W,CHEM,573,,299,Application of Spectroscopy to Organic Structural Determinations,Raymond Andersen,10,87.9,9.677580046000001,98.0,70.0,,,,,,,,,,,6
-UBCV,2016,W,CHEM,573,,OVERALL,Application of Spectroscopy to Organic Structural Determinations,,10,87.9,9.677580046000001,98.0,70.0,,,,,,,,,,,6
+UBCV,2016,W,CHEM,111,,112,"Structure, Bonding, and Equilibrium in Chemistry",Derek Gates;Jaclyn Stewart;Valerie Chiykowski,246,62.18292683,15.70529201,99.0,0.0,55,11,32,27,24,27,23,14,17.0,8,8
+UBCV,2016,W,CHEM,111,,OVERALL,"Structure, Bonding, and Equilibrium in Chemistry",,246,62.18292683,15.70529201,99.0,0.0,55,11,32,27,24,27,23,14,17.0,8,8
+UBCV,2016,W,CHEM,121,,101,Structure and Bonding in Chemistry,Aagam Patel;Bryce Laver;Debbie Le;Joyce Gordon;Lawrence Mcintosh;Priya Lekhi;Roman Krems;Sarah Spreckelmeyer;Thomas Malig;Truman Hirkala-Schaefer;Valerie Chiykowski;William Thompson,161,74.68322981,12.44308159,95.0,38.0,9,2,8,8,10,18,22,20,29.0,14,21
+UBCV,2016,W,CHEM,121,,102,Structure and Bonding in Chemistry,Christopher E Orvig;Lawrence Mcintosh,224,68.625,13.25610106,96.0,25.0,22,7,18,31,21,25,24,20,34.0,13,9
+UBCV,2016,W,CHEM,121,,103,Structure and Bonding in Chemistry,Christopher E Orvig;Lawrence Mcintosh,224,64.16071429,15.61220264,96.0,0.0,38,6,25,26,29,27,19,17,21.0,7,9
+UBCV,2016,W,CHEM,121,,110,Structure and Bonding in Chemistry,Erin Lindenberg;Lawrence Mcintosh,228,72.85964912,13.69322621,98.0,20.0,18,1,11,15,18,28,36,22,36.0,18,25
+UBCV,2016,W,CHEM,121,,111,Structure and Bonding in Chemistry,Derek Gates;Kayli Johnson;Lawrence Mcintosh,227,70.51982379,14.32163114,96.0,23.0,23,3,20,17,25,30,19,11,41.0,21,17
+UBCV,2016,W,CHEM,121,,122,Structure and Bonding in Chemistry,Lawrence Mcintosh;Zachary Hudson,232,70.90086207,15.72638336,98.0,22.0,27,7,18,18,16,22,22,21,34.0,24,23
+UBCV,2016,W,CHEM,121,,133,Structure and Bonding in Chemistry,Andrea Terpstra;Lawrence Mcintosh,213,67.52112676,15.10203581,97.0,24.0,29,9,19,24,23,21,18,14,27.0,15,14
+UBCV,2016,W,CHEM,121,,188,Structure and Bonding in Chemistry,Lawrence Mcintosh;Peter Legzdins,220,61.97272727,15.52017929,98.0,24.0,55,8,30,27,26,14,13,12,15.0,9,11
+UBCV,2016,W,CHEM,121,,199,Structure and Bonding in Chemistry,Jeffrey Adam Therrien;Jeffrey Therrien;Lawrence Mcintosh,211,68.13270142,14.88020167,97.0,25.0,31,6,16,17,20,26,25,15,29.0,13,13
+UBCV,2016,W,CHEM,121,,OVERALL,Structure and Bonding in Chemistry,,2043,68.6000979,15.17927927,98.0,0.0,268,51,173,190,196,221,210,161,287.0,140,146
+UBCV,2016,W,CHEM,121,,V02,Structure and Bonding in Chemistry,Guillaume Beaulieu-Houle;Kayli Johnson;Lawrence Mcintosh;Priya Lekhi;Scott Ryken,103,67.19417476,17.65689237,94.0,15.0,16,2,8,7,8,10,12,9,21.0,6,4
+UBCV,2016,W,CHEM,123,,201,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Joyce Gordon;Kayli Johnson,147,79.3537415,11.5181826,97.0,18.0,1,1,6,7,5,16,12,14,26.0,26,33
+UBCV,2016,W,CHEM,123,,202,"Thermodynamics, Kinetics and Organic Chemistry",Aagam Patel;Erin Lindenberg;Harvey Mackenzie;Kevin Kovalchik;Rebecka Forward;Rupsa Gupta;Sarah Spreckelmeyer;Truman Hirkala-Schaefer,217,70.47926267,13.76155351,95.0,15.0,20,3,20,20,18,26,23,17,37.0,18,15
+UBCV,2016,W,CHEM,123,,203,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Jason Hein;Keng Chang Chou,222,67.96396396,12.39247175,96.0,20.0,22,7,15,25,27,40,27,17,27.0,6,9
+UBCV,2016,W,CHEM,123,,210,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Jason Hein;Keng Chang Chou,221,71.91402715,12.31580037,95.0,35.0,11,8,13,18,21,31,26,18,39.0,24,12
+UBCV,2016,W,CHEM,123,,211,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Glenn Sammis,232,75.48275862,12.49483548,96.0,28.0,9,2,15,13,9,31,23,28,41.0,28,33
+UBCV,2016,W,CHEM,123,,222,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Hongbin Li;Katherine Ryan,209,66.64593301,13.51953698,95.0,13.0,21,14,18,23,20,41,15,12,30.0,11,4
+UBCV,2016,W,CHEM,123,,266,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg,204,70.18627451,12.60872354,96.0,27.0,14,1,21,23,21,29,26,15,26.0,14,14
+UBCV,2016,W,CHEM,123,,299,"Thermodynamics, Kinetics and Organic Chemistry",Erin Lindenberg;Hongbin Li;Katherine Ryan,196,68.01020408,13.28426476,97.0,40.0,19,7,27,26,17,17,18,20,19.0,14,12
+UBCV,2016,W,CHEM,123,,OVERALL,"Thermodynamics, Kinetics and Organic Chemistry",,1648,71.01274272,13.30166395,97.0,13.0,117,43,135,155,138,231,170,141,245.0,141,132
+UBCV,2016,W,CHEM,154,,133,Chemistry for Engineering,Jane Maxwell;Jose Rodriguez Nunez,326,72.81901841,12.11843124,95.0,14.0,15,4,14,24,35,33,44,44,59.0,40,14
+UBCV,2016,W,CHEM,154,,177,Chemistry for Engineering,Erin Evoy;Jane Maxwell;Jose Rodriguez Nunez;Kevan Dettelbach,331,72.66465257,11.17054792,95.0,28.0,14,5,13,23,35,46,52,40,57.0,31,15
+UBCV,2016,W,CHEM,154,,OVERALL,Chemistry for Engineering,,657,72.7412481,11.64188796,95.0,14.0,29,9,27,47,70,79,96,84,116.0,71,29
+UBCV,2016,W,CHEM,203,,101,Introduction to Organic Chemistry,Marco Ciufolini,240,66.40416667,14.84505691,98.0,29.0,29,21,22,23,25,19,34,20,25.0,5,17
+UBCV,2016,W,CHEM,203,,OVERALL,Introduction to Organic Chemistry,,240,66.40416667,14.84505691,98.0,29.0,29,21,22,23,25,19,34,20,25.0,5,17
+UBCV,2016,W,CHEM,205,,203,Physical Chemistry,Grenfell Patey;Yan Wang,178,72.05617978,16.54397294,98.0,0.0,15,14,10,12,12,18,11,13,25.0,24,24
+UBCV,2016,W,CHEM,205,,208,Physical Chemistry,David Chen;Yan Wang,128,68.1875,16.37010431,98.0,24.0,17,8,13,8,7,13,15,6,19.0,15,7
+UBCV,2016,W,CHEM,205,,210,Physical Chemistry,Guillaume Bussiere;Yan Wang,194,75.78865979,14.66806037,97.0,21.0,9,8,7,13,14,10,17,20,29.0,31,36
+UBCV,2016,W,CHEM,205,,222,Physical Chemistry,Jianxiong Yang;Joseph Lee;Luca Egoriti;Miguel Angel Garcia Chavez;Tirthaprasad Chattaraj;Yan Wang;Yiming Wang,122,69.20491803,16.99583737,97.0,6.0,13,12,9,4,13,7,13,13,16.0,10,12
+UBCV,2016,W,CHEM,205,,299,Physical Chemistry,Yan Wang,176,75.02840909,14.73864851,98.0,26.0,8,8,11,12,13,14,15,12,27.0,25,31
+UBCV,2016,W,CHEM,205,,OVERALL,Physical Chemistry,,798,72.56265664,15.99601453,98.0,0.0,62,50,50,49,59,62,71,64,116.0,105,110
+UBCV,2016,W,CHEM,208,,112,Coordination Chemistry,Chantal Mustoe;Douglas Beattie;Elizabeth Gillis;Jennifer Ann Love;Parisa Mehrkhodavandi;Pierre Kennepohl;Weiying He,134,70.26865672,12.37093622,98.0,31.0,5,9,10,13,17,11,16,22,15.0,8,8
+UBCV,2016,W,CHEM,208,,OVERALL,Coordination Chemistry,,134,70.26865672,12.37093622,98.0,31.0,5,9,10,13,17,11,16,22,15.0,8,8
+UBCV,2016,W,CHEM,211,,188,Introduction to Chemical Analysis,Michael Blades;Rispah Janet Ochola,177,75.28248588,12.3536606,97.0,40.0,8,2,12,6,13,17,25,20,37.0,11,26
+UBCV,2016,W,CHEM,211,,288,Introduction to Chemical Analysis,Jane Maxwell;Nirmalendu Kuanr;Walter Algar,159,75.89308176,11.67090464,95.0,38.0,8,0.0,3,10,10,15,17,17,35.0,30,14
+UBCV,2016,W,CHEM,211,,OVERALL,Introduction to Chemical Analysis,,336,75.57142857,12.02140947,97.0,38.0,16,2,15,16,23,32,42,37,72.0,41,40
+UBCV,2016,W,CHEM,213,,201,Organic Chemistry,David Perrin;Kristof Altus;Walid Abdelmagid,219,68.54794521,14.34698552,100.0,7.0,23,11,20,20,25,20,27,24,19.0,19,11
+UBCV,2016,W,CHEM,213,,OVERALL,Organic Chemistry,,219,68.54794521,14.34698552,100.0,7.0,23,11,20,20,25,20,27,24,19.0,19,11
+UBCV,2016,W,CHEM,218,,212,Fundamentals of Reactivity in Inorganic Chemistry,Douglas Beattie;Douglas Dawson Beattie;Jane Maxwell;Jennifer Ann Love;Parisa Mehrkhodavandi,93,69.93548387,12.66783538,93.0,31.0,6,3,7,14,7,14,7,10,10.0,10,5
+UBCV,2016,W,CHEM,218,,OVERALL,Fundamentals of Reactivity in Inorganic Chemistry,,93,69.93548387,12.66783538,93.0,31.0,6,3,7,14,7,14,7,10,10.0,10,5
+UBCV,2016,W,CHEM,233,,103,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Martin Tanner,213,60.36150235,14.69455751,97.0,14.0,50,25,25,26,19,16,15,15,11.0,8,3
+UBCV,2016,W,CHEM,233,,108,Organic Chemistry for the Biological Sciences,Douglas Beattie;Jaclyn Stewart;Jane Maxwell;Jefferey Jang;Maxim Epifanov;Nirmalendu Kuanr;Peixi Wang;Xueqing Wang,215,65.59069767,15.2269408,96.0,18.0,33,15,21,24,20,27,15,11,23.0,19,7
+UBCV,2016,W,CHEM,233,,110,Organic Chemistry for the Biological Sciences,Jaclyn Stewart,225,75.21777778,16.05630841,99.0,26.0,22,3,13,16,13,13,11,15,39.0,40,40
+UBCV,2016,W,CHEM,233,,122,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Stephen Withers,200,57.495,17.00398933,94.0,0.0,68,20,24,15,12,13,17,10,10.0,8,3
+UBCV,2016,W,CHEM,233,,199,Organic Chemistry for the Biological Sciences,Jaclyn Stewart;Marco Ciufolini,230,66.89130435,16.17160737,94.0,9.0,36,15,18,20,17,22,23,18,28.0,20,13
+UBCV,2016,W,CHEM,233,,OVERALL,Organic Chemistry for the Biological Sciences,,1083,65.34349031,16.94500787,99.0,0.0,209,78,101,101,81,91,81,69,111.0,95,66
+UBCV,2016,W,CHEM,235,,L12,Organic Chemistry Laboratory,Dana Zendrowski,85,76.05882353,8.436531872,93.0,56.0,0,0,4,4,7,12,8,17,20.0,10,3
+UBCV,2016,W,CHEM,235,,L13,Organic Chemistry Laboratory,Dana Zendrowski,77,73.53246753,6.640355919,89.0,55.0,0,0,3,3,8,8,28,15,7.0,5,0
+UBCV,2016,W,CHEM,235,,L14,Organic Chemistry Laboratory,Dana Zendrowski,70,71.2,9.200819119,85.0,51.0,0,4,7,5,8,10,6,15,13.0,2,0
+UBCV,2016,W,CHEM,235,,L15,Organic Chemistry Laboratory,Dana Zendrowski,77,75.1948052,7.098997262,92.0,56.0,0,0,1,3,5,16,9,26,9.0,7,1
+UBCV,2016,W,CHEM,235,,L16,Organic Chemistry Laboratory,Dana Zendrowski,84,72.13095238,10.50390606,88.0,1.0,1,1,4,1,8,15,28,13,10.0,3,0
+UBCV,2016,W,CHEM,235,,L17,Organic Chemistry Laboratory,Dana Zendrowski,82,77.06097561,7.455791619,90.0,54.0,0,1,0.0,3,5,7,15,18,18.0,14,1
+UBCV,2016,W,CHEM,235,,L18,Organic Chemistry Laboratory,Dana Zendrowski,70,70.28571429,6.635746099,84.0,50.0,0,1,1,9,12,15,16,11,5.0,0,0
+UBCV,2016,W,CHEM,235,,L22,Organic Chemistry Laboratory,Dana Zendrowski,62,68.75806452,8.223687267,85.0,52.0,0,1,9,9,11,11,8,4,6.0,3,0
+UBCV,2016,W,CHEM,235,,L23,Organic Chemistry Laboratory,Dana Zendrowski,72,69.30555556,8.386170522,88.0,51.0,0,4,7,4,15,12,13,9,7.0,1,0
+UBCV,2016,W,CHEM,235,,L24,Organic Chemistry Laboratory,Dana Zendrowski,71,71.91549296,8.593596418,86.0,34.0,1,2,0.0,5,10,14,15,11,11.0,2,0
+UBCV,2016,W,CHEM,235,,L25,Organic Chemistry Laboratory,Dana Zendrowski,80,73.975,7.46633796,93.0,56.0,0,0,2,2,13,15,9,21,13.0,2,3
+UBCV,2016,W,CHEM,235,,L26,Organic Chemistry Laboratory,Dana Zendrowski,64,71.75,8.477795461,87.0,50.0,0,3,2,8,7,9,12,11,10.0,2,0
+UBCV,2016,W,CHEM,235,,L27,Organic Chemistry Laboratory,Dana Zendrowski,74,74.24324324,6.343610335,90.0,59.0,0,0,1,1,9,10,27,13,8.0,3,2
+UBCV,2016,W,CHEM,235,,OVERALL,Organic Chemistry Laboratory,,973,72.92600206,8.359014266,93.0,1.0,2,17,41,57,118,154,195,185,140.0,54,10
+UBCV,2016,W,CHEM,245,,L06,Intermediate Synthetic Chemistry Laboratory,Diana Yu;Jason Wickenden,55,75.12727273,6.218415141,87.0,57.0,0,0,1,1,5,6,12,14,14.0,2,0
+UBCV,2016,W,CHEM,245,,L07,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,56,74.80357143,5.068331778,86.0,62.0,0,0,0,1,3,10,18,11,11.0,2,0
+UBCV,2016,W,CHEM,245,,L08,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,43,73.67441861,7.324846594,86.0,54.0,0,1,1,2,5,2,11,8,12.0,1,0
+UBCV,2016,W,CHEM,245,,L09,Intermediate Synthetic Chemistry Laboratory,Jason Wickenden,58,73.36206897,5.035656287,83.0,58.0,0,0,1,1,4,18,13,13,8.0,0,0
+UBCV,2016,W,CHEM,245,,OVERALL,Intermediate Synthetic Chemistry Laboratory,,212,74.26415094,5.889667854,87.0,54.0,0,1,3,5,17,36,54,46,45.0,5,0
+UBCV,2016,W,CHEM,250,,210,Inorganic Chemistry,Peixi Wang;Vishakha Monga,124,66.9516129,13.85397412,93.0,12.0,9,14,10,14,20,12,8,12,12.0,6,7
+UBCV,2016,W,CHEM,250,,OVERALL,Inorganic Chemistry,,124,66.9516129,13.85397412,93.0,12.0,9,14,10,14,20,12,8,12,12.0,6,7
+UBCV,2016,W,CHEM,251,,188,Physical Chemistry for Engineers,Erin Lindenberg;Kaitlin Lovering,123,70.90243902,11.65375802,99.0,38.0,2,5,14,11,17,19,9,18,11.0,9,8
+UBCV,2016,W,CHEM,251,,OVERALL,Physical Chemistry for Engineers,,123,70.90243902,11.65375802,99.0,38.0,2,5,14,11,17,19,9,18,11.0,9,8
+UBCV,2016,W,CHEM,260,,109,Organic Chemistry for Engineers,John Sherman;Walid Abdelmagid,123,65.56910569,17.68303869,100.0,0.0,13,20,14,9,9,12,10,7,12.0,3,14
+UBCV,2016,W,CHEM,260,,OVERALL,Organic Chemistry for Engineers,,123,65.56910569,17.68303869,100.0,0.0,13,20,14,9,9,12,10,7,12.0,3,14
+UBCV,2016,W,CHEM,300,,109,Communicating Chemistry,Edward Grant;Elizabeth Gillis;Jaclyn Stewart;Robin Stoodley,22,79.54545455,5.877538136,87.0,66.0,0,0,0,0,2,0.0,4,2,9.0,5,0
+UBCV,2016,W,CHEM,300,,110,Communicating Chemistry,Edward Grant;Elizabeth Gillis;Jaclyn Stewart;John Sous;Lauren Deborah Nykolaychuk;Lauren Nykolaychuk;Robin Stoodley,23,77.73913044,7.454208032,86.0,55.0,0,0,1,0,0,3,5,1,9.0,4,0
+UBCV,2016,W,CHEM,300,,209,Communicating Chemistry,Edward Grant;Elizabeth Gillis;Jaclyn Stewart,17,83.58823529,5.512018953,91.0,70.0,0,0,0,0,0,1,0.0,3,5.0,6,2
+UBCV,2016,W,CHEM,300,,211,Communicating Chemistry,Elizabeth Gillis;Jaclyn Stewart;Lauren Deborah Nykolaychuk;Lauren Nykolaychuk;Rispah Janet Ochola;Robin Stoodley,16,84.875,2.753785274,90.0,81.0,0,0,0,0,0,0,0,0,8.0,7,1
+UBCV,2016,W,CHEM,300,,OVERALL,Communicating Chemistry,,78,80.98717949,6.439515973,91.0,55.0,0,0,1,0.0,2,4,9,6,31.0,22,3
+UBCV,2016,W,CHEM,301,,117,Aqueous Environmental Chemistry,Dagny Ullmann;Priya Lekhi,109,75.30275229,11.39810298,96.0,45.0,1,3,6,10,12,7,17,4,18.0,20,11
+UBCV,2016,W,CHEM,301,,OVERALL,Aqueous Environmental Chemistry,,109,75.30275229,11.39810298,96.0,45.0,1,3,6,10,12,7,17,4,18.0,20,11
+UBCV,2016,W,CHEM,302,,209,Atmospheric Environmental Chemistry,Eric Miller;Takamasa Momose,147,80.2585034,10.71235904,99.0,51.0,0,1,5,6,5,12,17,6,28.0,34,33
+UBCV,2016,W,CHEM,302,,OVERALL,Atmospheric Environmental Chemistry,,147,80.2585034,10.71235904,99.0,51.0,0,1,5,6,5,12,17,6,28.0,34,33
+UBCV,2016,W,CHEM,304,,111,Fundamentals of Thermodynamics and Statistical Mechanics,Mark Thachuk,165,70.27272727,14.86744833,100.0,5.0,10,9,16,16,15,20,18,9,23.0,9,20
+UBCV,2016,W,CHEM,304,,OVERALL,Fundamentals of Thermodynamics and Statistical Mechanics,,165,70.27272727,14.86744833,100.0,5.0,10,9,16,16,15,20,18,9,23.0,9,20
+UBCV,2016,W,CHEM,305,,211,Biophysical Chemistry,Prashant Kumar;Suzana Straus,47,82.63829787,11.01861179,97.0,52.0,0,1,3,0,0,0,7,3,9.0,8,16
+UBCV,2016,W,CHEM,305,,OVERALL,Biophysical Chemistry,,47,82.63829787,11.01861179,97.0,52.0,0,1,3,0,0,0,7,3,9.0,8,16
+UBCV,2016,W,CHEM,310,,210,d- and f-Block Elements: Chemistry and Applications,Peter Legzdins,11,71.27272727,7.226214903,83.0,61.0,0,0,0,2,0.0,5,1,1,2.0,0,0
+UBCV,2016,W,CHEM,310,,OVERALL,d- and f-Block Elements: Chemistry and Applications,,11,71.27272727,7.226214903,83.0,61.0,0,0,0,2,0.0,5,1,1,2.0,0,0
+UBCV,2016,W,CHEM,311,,299,Instrumental Analytical Chemistry,Dan Bizzotto;Victoria Karner,71,65.67605634,14.55999867,91.0,13.0,12,2,3,7,12,6,11,7,8.0,2,1
+UBCV,2016,W,CHEM,311,,OVERALL,Instrumental Analytical Chemistry,,71,65.67605634,14.55999867,91.0,13.0,12,2,3,7,12,6,11,7,8.0,2,1
+UBCV,2016,W,CHEM,312,,166,Introduction to Quantum Mechanics and Spectroscopy,Rodrigo Vargas Hernandez;Roman Krems,90,75.11111111,12.3365215,96.0,33.0,2,2,5,8,6,10,8,15,13.0,10,11
+UBCV,2016,W,CHEM,312,,OVERALL,Introduction to Quantum Mechanics and Spectroscopy,,90,75.11111111,12.3365215,96.0,33.0,2,2,5,8,6,10,8,15,13.0,10,11
+UBCV,2016,W,CHEM,313,,208,Advanced Organic Chemistry for the Life Sciences,Antoine Blanc;John Sherman,117,67.7948718,19.76959458,100.0,10.0,15,15,17,8,3,10,6,7,11.0,3,22
+UBCV,2016,W,CHEM,313,,OVERALL,Advanced Organic Chemistry for the Life Sciences,,117,67.7948718,19.76959458,100.0,10.0,15,15,17,8,3,10,6,7,11.0,3,22
+UBCV,2016,W,CHEM,315,,L1B,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,27,75.37037037,4.985734636,85.0,66.0,0,0,0,0,2,5,5,10,4.0,1,0
+UBCV,2016,W,CHEM,315,,L1C,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,14,75.14285714,3.840215195,81.0,71.0,0,0,0,0,0,4,4,4,2.0,0,0
+UBCV,2016,W,CHEM,315,,L21,Chemistry Integrated Laboratory I,Adrian Maclean;Akram Khodabandehloo;Alberto Ruiz Orduna;Alla Pryyma;Andy Tran;Aoxue Huang;Brendan Moore;Brian Sahli;Caitlyn Dejong;Caitlyn Grypma;Chanel La;Chu Liu;Chuantian Zhan;Elise Caron;Elizabeth Gillis;Erika Siren;Gregory Dake;Guillaume Bussiere;Han Hao;Han Wang;Hsin-Yun Tsai;Isaac Martens;Jianhui Cheng;Jose Rodriguez Nunez;Kaylyn Leung;Lei Niu;Leixing Chen;Linglan Fu;Lingyu Wang;Lucy Garland;Manish Vashishta;Maxim Epifanov;Robin Stoodley;Ryan Mcfadden;Sophia Nussbaum;Tianyu Duan;Trevor Cross;Vishakha Monga;Weiying He;Yingqian Chen;Zhen Xu,14,66.92857143,8.588581738,80.0,50.0,0,2,1,0,3,3,4,0,1.0,0,0
+UBCV,2016,W,CHEM,315,,L23,Chemistry Integrated Laboratory I,Gregory Dake;Guillaume Bussiere;Vishakha Monga,12,71.08333333,6.653206108,80.0,60.0,0,0,0,1,4,1,3,0.0,3.0,0,0
+UBCV,2016,W,CHEM,315,,L25,Chemistry Integrated Laboratory I,Gregory Dake;Guillaume Bussiere;Vishakha Monga,7,63.0,17.16585759,82.0,27.0,1,0,0,1,2,2,0,0,1.0,0,0
+UBCV,2016,W,CHEM,315,,L3B,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,26,73.23076923,11.72111835,82.0,23.0,1,0,0,1,2,3,6,5,8.0,0,0
+UBCV,2016,W,CHEM,315,,L5B,Chemistry Integrated Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,23,73.30434783,9.309988686,84.0,40.0,1,0,1,0,1,4,6,5,5.0,0,0
+UBCV,2016,W,CHEM,315,,LM7,Chemistry Integrated Laboratory I,Guillaume Bussiere,13,72.53846154,7.33275056,86.0,63.0,0,0,0,1,3,1,3,3,1.0,1,0
+UBCV,2016,W,CHEM,315,,OVERALL,Chemistry Integrated Laboratory I,,168,72.3452381,9.375077226,86.0,23.0,5,2,3,5,20,28,38,33,30.0,4,0
+UBCV,2016,W,CHEM,318,,109,Principles of Catalysis,Love-Ese Chile;Parisa Mehrkhodavandi,54,65.98148148,15.27668187,91.0,27.0,8,3,4,6,4,8,4,4,8.0,3,2
+UBCV,2016,W,CHEM,318,,OVERALL,Principles of Catalysis,,54,65.98148148,15.27668187,91.0,27.0,8,3,4,6,4,8,4,4,8.0,3,2
+UBCV,2016,W,CHEM,325,,113,Integrated Chemistry Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,19,68.36842105,8.234146561,79.0,50.0,0,2,1,0.0,2,6,5,3,0.0,0,0
+UBCV,2016,W,CHEM,325,,115,Integrated Chemistry Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,24,75.79166667,11.68045252,90.0,44.0,2,0,0,1,0,3,4,1,11.0,0,2
+UBCV,2016,W,CHEM,325,,135,Integrated Chemistry Laboratory I,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,18,70.05555556,8.794866298,85.0,45.0,1,0,0,1,4,5,2,4,0.0,1,0
+UBCV,2016,W,CHEM,325,,OVERALL,Integrated Chemistry Laboratory I,,72,72.0,10.09950494,90.0,44.0,3,2,2,2,6,20,11,10,11.0,2,3
+UBCV,2016,W,CHEM,327,,212,Introduction to Materials Chemistry,Jane Maxwell;Jose Rodriguez Nunez;Michael Scott,78,71.07692308,11.59575519,95.0,28.0,2,1,8,7,7,14,13,6,9.0,8,3
+UBCV,2016,W,CHEM,327,,OVERALL,Introduction to Materials Chemistry,,78,71.07692308,11.59575519,95.0,28.0,2,1,8,7,7,14,13,6,9.0,8,3
+UBCV,2016,W,CHEM,330,,108,Advanced Organic Chemistry,Christopher Voth;Gregory Dake;Gregory Richard Dake,44,73.11363636,13.401173,100.0,40.0,2,1,3,3,6,6,4,3,8.0,2,6
+UBCV,2016,W,CHEM,330,,OVERALL,Advanced Organic Chemistry,,44,73.11363636,13.401173,100.0,40.0,2,1,3,3,6,6,4,3,8.0,2,6
+UBCV,2016,W,CHEM,335,,L1B,Chemistry Integrated Laboratory II,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,6,77.0,2.966479395,80.0,72.0,0,0,0,0,0,0,1,3,2.0,0,0
+UBCV,2016,W,CHEM,335,,LB1,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,18,75.61111111,6.399805961,87.0,65.0,0,0,0,0,2,3,4,3,5.0,1,0
+UBCV,2016,W,CHEM,335,,LB3,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,22,77.81818182,9.22024875,92.0,50.0,0,1,0,0,1,1,5,5,3.0,4,2
+UBCV,2016,W,CHEM,335,,LB5,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,22,78.04545455,7.70576329,92.0,63.0,0,0,0,1,1,1,3,7,5.0,1,3
+UBCV,2016,W,CHEM,335,,LC1,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,7,78.42857143,4.117326918,85.0,73.0,0,0,0,0,0,0,1,3,2.0,1,0
+UBCV,2016,W,CHEM,335,,LC3,Chemistry Integrated Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,9,75.11111111,6.990072325,87.0,62.0,0,0,0,1,0.0,1,3,2,1.0,1,0
+UBCV,2016,W,CHEM,335,,OVERALL,Chemistry Integrated Laboratory II,,96,76.45833333,7.726804564,92.0,50.0,0,2,0.0,3,6,6,18,28,20.0,8,5
+UBCV,2016,W,CHEM,341,,211,Global Challenges: A Chemical Perspective,Christopher Voth;Gregory Dake,104,69.26923077,12.60469228,92.0,32.0,8,7,8,8,9,14,10,8,24.0,5,3
+UBCV,2016,W,CHEM,341,,OVERALL,Global Challenges: A Chemical Perspective,,104,69.26923077,12.60469228,92.0,32.0,8,7,8,8,9,14,10,8,24.0,5,3
+UBCV,2016,W,CHEM,345,,115,Integrated Chemistry Laboratory II,Guillaume Bussiere;Leanne Racicot;Robin Stoodley;Vishakha Monga,6,77.33333333,6.713171133,90.0,71.0,0,0,0,0,0,1,2,2,0.0,0,1
+UBCV,2016,W,CHEM,345,,213,Integrated Chemistry Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,14,71.57142857,6.880454879,83.0,59.0,0,0,1,2,0.0,2,5,3,1.0,0,0
+UBCV,2016,W,CHEM,345,,215,Integrated Chemistry Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,20,75.55,8.525349198,92.0,53.0,0,1,0,0,0,5,7,1,2.0,3,1
+UBCV,2016,W,CHEM,345,,235,Integrated Chemistry Laboratory II,Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Vishakha Monga,12,70.91666667,11.10657736,80.0,39.0,1,0,0,0,1,4,1,3,2.0,0,0
+UBCV,2016,W,CHEM,345,,OVERALL,Integrated Chemistry Laboratory II,,53,73.47169811,8.703676883,92.0,39.0,1,1,1,2,2,12,15,9,5.0,3,2
+UBCV,2016,W,CHEM,402,,210,Diffraction Methods,Brian Patrick,11,86.90909091,5.769827475,93.0,77.0,0,0,0,0,0,0,0,2,1.0,3,5
+UBCV,2016,W,CHEM,402,,OVERALL,Diffraction Methods,,11,86.90909091,5.769827475,93.0,77.0,0,0,0,0,0,0,0,2,1.0,3,5
+UBCV,2016,W,CHEM,403,,201,Surface Chemistry and Surface Analysis,Dan Bizzotto,9,76.22222222,14.43760522,92.0,44.0,1,0,0,0,0,2,1,0,2.0,2,1
+UBCV,2016,W,CHEM,403,,OVERALL,Surface Chemistry and Surface Analysis,,9,76.22222222,14.43760522,92.0,44.0,1,0,0,0,0,2,1,0,2.0,2,1
+UBCV,2016,W,CHEM,405,,110,Biophysical Chemistry,Suzana Straus,10,86.4,10.90565603,98.0,60.0,0,0,0,1,0,0,0,0,2.0,3,4
+UBCV,2016,W,CHEM,405,,OVERALL,Biophysical Chemistry,,10,86.4,10.90565603,98.0,60.0,0,0,0,1,0,0,0,0,2.0,3,4
+UBCV,2016,W,CHEM,406,,109,Polymer Chemistry,Derek Gates,34,73.58823529,12.73534249,95.0,39.0,2,0.0,2,3,2,4,5,3,8.0,2,3
+UBCV,2016,W,CHEM,406,,OVERALL,Polymer Chemistry,,34,73.58823529,12.73534249,95.0,39.0,2,0.0,2,3,2,4,5,3,8.0,2,3
+UBCV,2016,W,CHEM,407,,299,Statistical Mechanics in Chemistry,Grenfell Patey,7,83.28571429,14.45353804,98.0,63.0,0,0,0,1,0,1,0,1,0.0,1,3
+UBCV,2016,W,CHEM,407,,OVERALL,Statistical Mechanics in Chemistry,,7,83.28571429,14.45353804,98.0,63.0,0,0,0,1,0,1,0,1,0.0,1,3
+UBCV,2016,W,CHEM,410,,211,Properties of Materials,Keng Chang Chou,10,80.9,6.773313648,92.0,70.0,0,0,0,0,0,1,1,2,3.0,1,2
+UBCV,2016,W,CHEM,410,,OVERALL,Properties of Materials,,10,80.9,6.773313648,92.0,70.0,0,0,0,0,0,1,1,2,3.0,1,2
+UBCV,2016,W,CHEM,412,,266,Electronic Structure of Atoms and Molecules,Rodrigo Vargas Hernandez;Takamasa Momose,12,90.91666667,4.832810839,97.0,80.0,0,0,0,0,0,0,0,0,1.0,2,9
+UBCV,2016,W,CHEM,412,,OVERALL,Electronic Structure of Atoms and Molecules,,12,90.91666667,4.832810839,97.0,80.0,0,0,0,0,0,0,0,0,1.0,2,9
+UBCV,2016,W,CHEM,413,,166,Bioorganic Chemistry,Martin Tanner,13,74.38461539,15.81949463,98.0,40.0,1,0,1,1,0,1,2,2,3.0,0,2
+UBCV,2016,W,CHEM,413,,OVERALL,Bioorganic Chemistry,,13,74.38461539,15.81949463,98.0,40.0,1,0,1,1,0,1,2,2,3.0,0,2
+UBCV,2016,W,CHEM,417,,201,Nuclear Chemistry and Radiochemistry,William Andrew Macfarlane,10,73.6,10.76207332,90.0,55.0,0,0,1,0,1,3,1,0,3.0,0,1
+UBCV,2016,W,CHEM,417,,OVERALL,Nuclear Chemistry and Radiochemistry,,10,73.6,10.76207332,90.0,55.0,0,0,1,0,1,3,1,0,3.0,0,1
+UBCV,2016,W,CHEM,418,,209,Organometallic Chemistry,Laurel Schafer,15,81.46666667,9.410227465,98.0,66.0,0,0,0,0,1,1,2,2,3.0,3,3
+UBCV,2016,W,CHEM,418,,OVERALL,Organometallic Chemistry,,15,81.46666667,9.410227465,98.0,66.0,0,0,0,0,1,1,2,2,3.0,3,3
+UBCV,2016,W,CHEM,435,,111,Bio-Inorganic Chemistry,Pierre Kennepohl,14,84.28571429,6.672890867,94.0,68.0,0,0,0,0,0,1,0.0,2,1.0,7,3
+UBCV,2016,W,CHEM,435,,OVERALL,Bio-Inorganic Chemistry,,14,84.28571429,6.672890867,94.0,68.0,0,0,0,0,0,1,0.0,2,1.0,7,3
+UBCV,2016,W,CHEM,445,A,135,Projects in Experimental Chemistry,Guillaume Bussiere;Jose Rodriguez Nunez;Katherine Cochrane;Leanne Racicot;Linglan Fu;Manish Vashishta;Marco Paladino;Prashant Kumar;Robin Stoodley;Vishakha Monga,10,73.0,5.96284794,84.0,66.0,0,0,0,0,2,2,4,0.0,2.0,0,0
+UBCV,2016,W,CHEM,445,A,OVERALL,Projects in Experimental Chemistry,,13,74.30769231,6.421119001,85.0,66.0,0,0,0,0,2,3,4,,3.0,,0
+UBCV,2016,W,CHEM,445,B,235,Projects in Experimental Chemistry,Adrian Maclean;Alla Pryyma;Aoxue Huang;Erika Siren;Gregory Dake;Gregory Richard Dake;Guillaume Bussiere;Isaac Martens;Jefferey Jang;Jiqing Huang;Jose Rodriguez Nunez;Linglan Fu;Manish Vashishta;Savita Srinivasa;Sophia Nussbaum;Vishakha Monga;Weiying He,16,69.3125,6.740116221,80.0,50.0,0,1,0,1,2,6,5,0,1.0,0,0
+UBCV,2016,W,CHEM,445,B,OVERALL,Projects in Experimental Chemistry,,20,72.95,9.605234319,90.0,50.0,0,1,0,1,2,6,5,,1.0,,0
+UBCV,2016,W,CHEM,445,C,OVERALL,Projects in Experimental Chemistry,,13,83.69230769,5.543534002,91.0,72.0,0,0,0,0,0,0,1,1,4.0,5,2
+UBCV,2016,W,CHEM,445,C,RLE,Projects in Experimental Chemistry,Vishakha Monga,13,83.69230769,5.543534002,91.0,72.0,0,0,0,0,0,0,1,1,4.0,5,2
+UBCV,2016,W,CHEM,449,,002,Seminar and Thesis,Parisa Mehrkhodavandi,19,88.0,6.548960901,95.0,70.0,0,0,0,0,0,1,0.0,1,2.0,4,11
+UBCV,2016,W,CHEM,449,,OVERALL,Seminar and Thesis,,19,88.0,6.548960901,95.0,70.0,0,0,0,0,0,1,0.0,1,2.0,4,11
+UBCV,2016,W,CHEM,460,,199,Organic Synthesis: A Mechanistic Approach,Christopher Voth;Glenn Sammis;Gregory Dake;Gregory Richard Dake;Martin Tanner,8,77.75,14.69450821,95.0,51.0,0,1,0,0,0,2,0,0,2.0,1,2
+UBCV,2016,W,CHEM,460,,OVERALL,Organic Synthesis: A Mechanistic Approach,,8,77.75,14.69450821,95.0,51.0,0,1,0,0,0,2,0,0,2.0,1,2
+UBCV,2016,W,CHEM,473,,188,Structure Determination and Reaction Analysis,Harry Brumer,7,74.0,16.37070554,95.0,50.0,0,1,0,1,0,2,0,1,0.0,0,2
+UBCV,2016,W,CHEM,473,,OVERALL,Structure Determination and Reaction Analysis,,7,74.0,16.37070554,95.0,50.0,0,1,0,1,0,2,0,1,0.0,0,2
+UBCV,2016,W,CHEM,514,,210,Crystal Structures,Brian Patrick,17,89.11764706,4.884700003,96.0,75.0,0,0,0,0,0,0,1,0,0.0,6,10
+UBCV,2016,W,CHEM,514,,OVERALL,Crystal Structures,,17,89.11764706,4.884700003,96.0,75.0,0,0,0,0,0,0,1,0,0.0,6,10
+UBCV,2016,W,CHEM,516,A,110,Topics in Biophysical Chemistry,Suzana Straus,6,93.0,2.828427125,98.0,90.0,0,0,0,0,0,0,0,0,0.0,0,6
+UBCV,2016,W,CHEM,516,A,OVERALL,Topics in Biophysical Chemistry,,6,93.0,2.828427125,98.0,90.0,0,0,0,0,0,0,0,0,0.0,0,6
+UBCV,2016,W,CHEM,517,,111,Electrochemistry,Dan Bizzotto,14,81.21428571,8.386606276,94.0,65.0,0,0,0,0,1,0.0,2,4,2.0,3,2
+UBCV,2016,W,CHEM,517,,OVERALL,Electrochemistry,,14,81.21428571,8.386606276,94.0,65.0,0,0,0,0,1,0.0,2,4,2.0,3,2
+UBCV,2016,W,CHEM,521,B,299,Topics in Inorganic Chemistry,Michael Wolf,18,86.44444444,3.072117917,91.0,81.0,0,0,0,0,0,0,0,0,6.0,7,5
+UBCV,2016,W,CHEM,521,B,OVERALL,Topics in Inorganic Chemistry,,18,86.44444444,3.072117917,91.0,81.0,0,0,0,0,0,0,0,0,6.0,7,5
+UBCV,2016,W,CHEM,524,,209,Advanced Applications in Organometallic Chemistry,Laurel Schafer,9,84.0,8.062257748,97.0,76.0,0,0,0,0,0,0,0,4,0.0,3,2
+UBCV,2016,W,CHEM,524,,OVERALL,Advanced Applications in Organometallic Chemistry,,9,84.0,8.062257748,97.0,76.0,0,0,0,0,0,0,0,4,0.0,3,2
+UBCV,2016,W,CHEM,526,,111,Bioinorganic Chemistry,Pierre Kennepohl,6,80.16666667,10.75949193,91.0,60.0,0,0,0,1,0,0,0,1,1.0,2,1
+UBCV,2016,W,CHEM,526,,OVERALL,Bioinorganic Chemistry,,6,80.16666667,10.75949193,91.0,60.0,0,0,0,1,0,0,0,1,1.0,2,1
+UBCV,2016,W,CHEM,527,,117,Nanomaterials,Mark Maclachlan,18,88.88888889,2.720053825,95.0,85.0,0,0,0,0,0,0,0,0,0.0,9,9
+UBCV,2016,W,CHEM,527,,OVERALL,Nanomaterials,,18,88.88888889,2.720053825,95.0,85.0,0,0,0,0,0,0,0,0,0.0,9,9
+UBCV,2016,W,CHEM,533,,109,Bioanalytical Chemistry,Michael Blades;Robin Turner,11,88.09090909,5.974186898,98.0,80.0,0,0,0,0,0,0,0,0,3.0,4,4
+UBCV,2016,W,CHEM,533,,OVERALL,Bioanalytical Chemistry,,11,88.09090909,5.974186898,98.0,80.0,0,0,0,0,0,0,0,0,3.0,4,4
+UBCV,2016,W,CHEM,534,,266,Principles of Chemical Separation,David Chen;Lingyu Wang,11,84.54545455,13.02584843,97.0,50.0,0,,,,,,,1,2.0,2,5
+UBCV,2016,W,CHEM,534,,OVERALL,Principles of Chemical Separation,,11,84.54545455,13.02584843,97.0,50.0,0,,,,,,,1,2.0,2,5
+UBCV,2016,W,CHEM,560,,199,Organic Chemistry: Building Molecules and Understanding Reactivity,Glenn Sammis;Gregory Dake;Gregory Richard Dake,13,80.07692308,9.096350353,98.0,63.0,0,0,0,1,0,0,5,1,2.0,2,2
+UBCV,2016,W,CHEM,560,,OVERALL,Organic Chemistry: Building Molecules and Understanding Reactivity,,13,80.07692308,9.096350353,98.0,63.0,0,0,0,1,0,0,5,1,2.0,2,2
+UBCV,2016,W,CHEM,566,,201,Advanced Organic Synthesis,Glenn Sammis,8,83.0,6.740072064,91.0,72.0,0,0,0,0,0,0,1,1,2.0,2,2
+UBCV,2016,W,CHEM,566,,OVERALL,Advanced Organic Synthesis,,8,83.0,6.740072064,91.0,72.0,0,0,0,0,0,0,1,1,2.0,2,2
+UBCV,2016,W,CHEM,569,,166,Advanced Bioorganic Chemistry,Martin Tanner,10,77.5,12.03928754,92.0,60.0,0,0,0,1,,2,,1,1.0,1,3
+UBCV,2016,W,CHEM,569,,OVERALL,Advanced Bioorganic Chemistry,,10,77.5,12.03928754,92.0,60.0,0,0,0,1,,2,,1,1.0,1,3
+UBCV,2016,W,CHEM,573,,299,Application of Spectroscopy to Organic Structural Determinations,Raymond Andersen,10,87.9,9.677580046,98.0,70.0,0,0,0,0,0,1,0,1,2.0,0,6
+UBCV,2016,W,CHEM,573,,OVERALL,Application of Spectroscopy to Organic Structural Determinations,,10,87.9,9.677580046,98.0,70.0,0,0,0,0,0,1,0,1,2.0,0,6

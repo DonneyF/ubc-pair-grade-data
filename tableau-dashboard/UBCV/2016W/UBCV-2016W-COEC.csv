@@ -1,20 +1,20 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,COEC,293,,001,Financial Accounting,David Yu;Tran Khue Chung,115,74.686956522,12.697813887,100.0,0.0,,,,,8,14,24,11,22,14,10
-UBCV,2016,W,COEC,293,,OVERALL,Financial Accounting,,115,74.686956522,12.697813887,100.0,0.0,,,,,8,14,24,11,22,14,10
-UBCV,2016,W,COEC,365,,001,Market Research,Jo Andrea Hoegg;Man Ho Michael So,41,80.317073171,3.731213103,87.0,69.0,,,,,,,,12,21,5,
-UBCV,2016,W,COEC,365,,OVERALL,Market Research,,41,80.317073171,3.731213103,87.0,69.0,,,,,,,,12,21,5,
-UBCV,2016,W,COEC,370,,001,Corporate Finance,Eleni Simintzi;Wenjie Chen,45,76.377777778,10.223166402999999,94.0,55.0,,,,7,,,6,5,11,6,
-UBCV,2016,W,COEC,370,,OVERALL,Corporate Finance,,45,76.377777778,10.223166402999999,94.0,55.0,,,,7,,,6,5,11,6,
-UBCV,2016,W,COEC,371,,001,Investment Theory,Georgios Skoulakis;Wenjie Chen,29,73.34482758600001,8.828832078,92.0,58.0,,,,,,,7,,4,2,1
-UBCV,2016,W,COEC,371,,002,Investment Theory,Georgios Skoulakis;Wenjie Chen,43,81.790697674,8.854802677,95.0,58.0,,,,,,,4,,11,11,7
-UBCV,2016,W,COEC,371,,OVERALL,Investment Theory,,72,78.388888889,9.722278113,95.0,58.0,,,,5,5,6,11,7,15,13,8
-UBCV,2016,W,COEC,377,,001,International Financial Markets and Institutions,Ali Lazrak,43,78.534883721,6.001384115,91.0,64.0,,,,,,,9,13,8,7,2
-UBCV,2016,W,COEC,377,,002,International Financial Markets and Institutions,Ali Lazrak,33,79.484848485,8.422889988,98.0,66.0,,,,,,,7,7,3,6,5
-UBCV,2016,W,COEC,377,,OVERALL,International Financial Markets and Institutions,,76,78.94736842100001,7.117854989,98.0,64.0,,,,,,6,16,20,11,13,7
-UBCV,2016,W,COEC,491,,001,Strategic Management,Alvaro Parra Perez,39,80.282051282,5.062497397,90.0,70.0,,,,,,,5,7,16,7,
-UBCV,2016,W,COEC,491,,002,Strategic Management,Alvaro Parra Perez,42,81.476190476,5.79418588,93.0,66.0,,,,,,,4,10,9,15,
-UBCV,2016,W,COEC,491,,OVERALL,Strategic Management,,81,80.901234568,5.453450601,93.0,66.0,,,,,,,9,17,25,22,5
-UBCV,2016,W,COEC,497,,001,New Enterprise Development,Momcilo Deretic;Yvonne Dixon,40,78.5,4.144814493,87.0,72.0,,,,,,,10,14,9,7,
-UBCV,2016,W,COEC,497,,OVERALL,New Enterprise Development,,40,78.5,4.144814493,87.0,72.0,,,,,,,10,14,9,7,
-UBCV,2016,W,COEC,498,,001,International Business Management,Vanessa Alviarez,51,78.392156863,7.96512004,93.0,55.0,,,,,,,6,12,10,12,
-UBCV,2016,W,COEC,498,,OVERALL,International Business Management,,51,78.392156863,7.96512004,93.0,55.0,,,,,,,6,12,10,12,
+UBCV,2016,W,COEC,293,,001,Financial Accounting,David Yu;Tran Khue Chung,115,74.68695652,12.69781389,100.0,0.0,3,2,3,4,8,14.0,24,11,22,14,10
+UBCV,2016,W,COEC,293,,OVERALL,Financial Accounting,,115,74.68695652,12.69781389,100.0,0.0,3,2,3,4,8,14.0,24,11,22,14,10
+UBCV,2016,W,COEC,365,,001,Market Research,Jo Andrea Hoegg;Man Ho Michael So,41,80.31707317,3.731213103,87.0,69.0,0,0,0,0,0,1.0,2,12,21,5,0
+UBCV,2016,W,COEC,365,,OVERALL,Market Research,,41,80.31707317,3.731213103,87.0,69.0,0,0,0,0,0,1.0,2,12,21,5,0
+UBCV,2016,W,COEC,370,,001,Corporate Finance,Eleni Simintzi;Wenjie Chen,45,76.37777778,10.2231664,94.0,55.0,0,0,2,7,2,2.0,6,5,11,6,4
+UBCV,2016,W,COEC,370,,OVERALL,Corporate Finance,,45,76.37777778,10.2231664,94.0,55.0,0,0,2,7,2,2.0,6,5,11,6,4
+UBCV,2016,W,COEC,371,,001,Investment Theory,Georgios Skoulakis;Wenjie Chen,29,73.34482759,8.828832078,92.0,58.0,0,0,1,4,3,4.0,7,3,4,2,1
+UBCV,2016,W,COEC,371,,002,Investment Theory,Georgios Skoulakis;Wenjie Chen,43,81.79069767,8.854802677,95.0,58.0,0,0,1,1,2,2.0,4,4,11,11,7
+UBCV,2016,W,COEC,371,,OVERALL,Investment Theory,,72,78.38888889,9.722278113,95.0,58.0,0,0,2,5,5,6.0,11,7,15,13,8
+UBCV,2016,W,COEC,377,,001,International Financial Markets and Institutions,Ali Lazrak,43,78.53488372,6.001384115,91.0,64.0,0,0,0,0,1,3.0,9,13,8,7,2
+UBCV,2016,W,COEC,377,,002,International Financial Markets and Institutions,Ali Lazrak,33,79.48484849,8.422889988,98.0,66.0,0,0,0,0,2,3.0,7,7,3,6,5
+UBCV,2016,W,COEC,377,,OVERALL,International Financial Markets and Institutions,,76,78.94736842,7.117854989,98.0,64.0,0,0,0,0,3,6.0,16,20,11,13,7
+UBCV,2016,W,COEC,491,,001,Strategic Management,Alvaro Parra Perez,39,80.28205128,5.062497397,90.0,70.0,0,0,0,0,0,2.0,5,7,16,7,2
+UBCV,2016,W,COEC,491,,002,Strategic Management,Alvaro Parra Perez,42,81.47619048,5.79418588,93.0,66.0,0,0,0,0,1,0.0,4,10,9,15,3
+UBCV,2016,W,COEC,491,,OVERALL,Strategic Management,,81,80.90123457,5.453450601,93.0,66.0,0,0,0,0,1,2.0,9,17,25,22,5
+UBCV,2016,W,COEC,497,,001,New Enterprise Development,Momcilo Deretic;Yvonne Dixon,40,78.5,4.144814493,87.0,72.0,0,0,0,0,0,0.0,10,14,9,7,0
+UBCV,2016,W,COEC,497,,OVERALL,New Enterprise Development,,40,78.5,4.144814493,87.0,72.0,0,0,0,0,0,0.0,10,14,9,7,0
+UBCV,2016,W,COEC,498,,001,International Business Management,Vanessa Alviarez,51,78.39215686,7.96512004,93.0,55.0,0,0,1,1,3,3.0,6,12,10,12,3
+UBCV,2016,W,COEC,498,,OVERALL,International Business Management,,51,78.39215686,7.96512004,93.0,55.0,0,0,1,1,3,3.0,6,12,10,12,3

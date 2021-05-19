@@ -1,8 +1,8 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2014,W,HIST,110,,001,Survey of the Ancient World,Ben Nilson,69,67.49275362,10.87715251,92.0,37.0,,,,12,10,10,11,6,7,,
 UBCO,2014,W,HIST,110,,OVERALL,Survey of the Ancient World,,69,67.49275362,10.87715251,92.0,37.0,,,,12,10,10,11,6,7,,
-UBCO,2014,W,HIST,112,,001,Canada to 1867,Peter Russell,37,67.81081081,14.04721767,78.0,0.0,,,,,6,6,11,8,,,
-UBCO,2014,W,HIST,112,,OVERALL,Canada to 1867,,37,67.81081081,14.04721767,78.0,0.0,,,,,6,6,11,8,,,
+UBCO,2014,W,HIST,112,,001,Canada to 1867,Peter Russell,37,67.81081081,14.04721767,78.0,0.0,,,,,6,6,11,8,0,0,0
+UBCO,2014,W,HIST,112,,OVERALL,Canada to 1867,,37,67.81081081,14.04721767,78.0,0.0,,,,,6,6,11,8,0,0,0
 UBCO,2014,W,HIST,115,,001,World History from First to Second World War,Brigitte Le Normand,75,62.58666667,17.75135574,90.0,11.0,13,11,6,11,,6,5,,6,9,
 UBCO,2014,W,HIST,115,,OVERALL,World History from First to Second World War,,75,62.58666667,17.75135574,90.0,11.0,13,11,6,11,,6,5,,6,9,
 UBCO,2014,W,HIST,116,,001,"History of Western Civilization,1450-1789",Ruth Frost,48,75.4375,10.86063799,92.0,44.0,,,,,,6,9,,12,9,
@@ -11,53 +11,53 @@ UBCO,2014,W,HIST,119,,001,Medieval Europe,Ben Nilson,66,64.37878788,20.9113625,9
 UBCO,2014,W,HIST,119,,OVERALL,Medieval Europe,,66,64.37878788,20.9113625,91.0,0.0,13,,,8,6,9,8,5,11,,
 UBCO,2014,W,HIST,122,,001,Canada Since 1867,James Hull,68,68.76470588,15.14617103,91.0,13.0,,8,,,6,8,11,10,15,,
 UBCO,2014,W,HIST,122,,OVERALL,Canada Since 1867,,68,68.76470588,15.14617103,91.0,13.0,,8,,,6,8,11,10,15,,
-UBCO,2014,W,HIST,126,,001,"History of Western Civilization, 1789 to Present",Todd Christopher Campbell,31,67.19354839,17.30591297,89.0,0.0,,,,,6,,,,,,
-UBCO,2014,W,HIST,126,,OVERALL,"History of Western Civilization, 1789 to Present",,31,67.19354839,17.30591297,89.0,0.0,,,,,6,,,,,,
+UBCO,2014,W,HIST,126,,001,"History of Western Civilization, 1789 to Present",Todd Christopher Campbell,31,67.19354839,17.30591297,89.0,0.0,,,,,6,,,,,,0
+UBCO,2014,W,HIST,126,,OVERALL,"History of Western Civilization, 1789 to Present",,31,67.19354839,17.30591297,89.0,0.0,,,,,6,,,,,,0
 UBCO,2014,W,HIST,145,,001,Contemporary World History,Jessica Stites,78,70.42307692,16.10317322,97.0,8.0,5,,5,,7,12,15,7,14,7,
 UBCO,2014,W,HIST,145,,OVERALL,Contemporary World History,,78,70.42307692,16.10317322,97.0,8.0,5,,5,,7,12,15,7,14,7,
-UBCO,2014,W,HIST,211,,001,The United States to 1865,Julien Vernet,38,69.13157895,15.84071226,89.0,10.0,,,,,,,7,6,6,,
-UBCO,2014,W,HIST,211,,OVERALL,The United States to 1865,,38,69.13157895,15.84071226,89.0,10.0,,,,,,,7,6,6,,
-UBCO,2014,W,HIST,218,,001,History of Science,James Hull,26,65.92307692,17.54063414,86.0,18.0,,,,,,,,5,,,
-UBCO,2014,W,HIST,218,,OVERALL,History of Science,,26,65.92307692,17.54063414,86.0,18.0,,,,,,,,5,,,
-UBCO,2014,W,HIST,224,,001,"Introduction to the History of Modern Japan and Korea, 1800 to Present",Christopher Craig,23,67.91304348,16.846669600000002,91.0,26.0,,,,,,,5,,,,
-UBCO,2014,W,HIST,224,,OVERALL,"Introduction to the History of Modern Japan and Korea, 1800 to Present",,23,67.91304348,16.846669600000002,91.0,26.0,,,,,,,5,,,,
-UBCO,2014,W,HIST,240,,001,Pre-Contact and Colonial Latin American History,Jessica Stites,46,70.0,18.46919357,89.0,0.0,5,,,,6,7,5,5,8,8,
-UBCO,2014,W,HIST,240,,OVERALL,Pre-Contact and Colonial Latin American History,,46,70.0,18.46919357,89.0,0.0,5,,,,6,7,5,5,8,8,
-UBCO,2014,W,HIST,307,,001,French North America to 1803,Julien Vernet,23,62.43478261,17.35675422,88.0,16.0,,,,,,,,,,,
-UBCO,2014,W,HIST,307,,OVERALL,French North America to 1803,,23,62.43478261,17.35675422,88.0,16.0,,,,,,,,,,,
+UBCO,2014,W,HIST,211,,001,The United States to 1865,Julien Vernet,38,69.13157895,15.84071226,89.0,10.0,,,,,,,7,6,6,,0
+UBCO,2014,W,HIST,211,,OVERALL,The United States to 1865,,38,69.13157895,15.84071226,89.0,10.0,,,,,,,7,6,6,,0
+UBCO,2014,W,HIST,218,,001,History of Science,James Hull,26,65.92307692,17.54063414,86.0,18.0,,,,,,,,5,,,0
+UBCO,2014,W,HIST,218,,OVERALL,History of Science,,26,65.92307692,17.54063414,86.0,18.0,,,,,,,,5,,,0
+UBCO,2014,W,HIST,224,,001,"Introduction to the History of Modern Japan and Korea, 1800 to Present",Christopher Craig,23,67.91304348,16.8466696,91.0,26.0,,,,,,,5,,,,
+UBCO,2014,W,HIST,224,,OVERALL,"Introduction to the History of Modern Japan and Korea, 1800 to Present",,23,67.91304348,16.8466696,91.0,26.0,,,,,,,5,,,,
+UBCO,2014,W,HIST,240,,001,Pre-Contact and Colonial Latin American History,Jessica Stites,46,70.0,18.46919357,89.0,0.0,5,,,,6,7,5,5,8,8,0
+UBCO,2014,W,HIST,240,,OVERALL,Pre-Contact and Colonial Latin American History,,46,70.0,18.46919357,89.0,0.0,5,,,,6,7,5,5,8,8,0
+UBCO,2014,W,HIST,307,,001,French North America to 1803,Julien Vernet,23,62.43478261,17.35675422,88.0,16.0,,,,,,,,,,,0
+UBCO,2014,W,HIST,307,,OVERALL,French North America to 1803,,23,62.43478261,17.35675422,88.0,16.0,,,,,,,,,,,0
 UBCO,2014,W,HIST,317,,001,History of Southern Africa,Todd Christopher Campbell,33,78.39393939,10.3650235,95.0,35.0,,,,,,,5,8,7,5,
 UBCO,2014,W,HIST,317,,OVERALL,History of Southern Africa,,33,78.39393939,10.3650235,95.0,35.0,,,,,,,5,8,7,5,
-UBCO,2014,W,HIST,325,,001,Europe in 1215,Ben Nilson,28,66.89285714,18.0664192,88.0,4.0,,,,,,5,,,5,,
-UBCO,2014,W,HIST,325,,OVERALL,Europe in 1215,,28,66.89285714,18.0664192,88.0,4.0,,,,,,5,,,5,,
-UBCO,2014,W,HIST,326,,001,"The British North American Colonies, 1749-1873",Peter Russell,26,57.73076923,16.26175315,80.0,25.0,7,,5,,,5,,,,,
-UBCO,2014,W,HIST,326,,OVERALL,"The British North American Colonies, 1749-1873",,26,57.73076923,16.26175315,80.0,25.0,7,,5,,,5,,,,,
-UBCO,2014,W,HIST,331,,001,"The United States, 1865-1896",James Hull,27,69.33333333,19.26535352,85.0,2.0,,,,,,5,,,8,,
-UBCO,2014,W,HIST,331,,OVERALL,"The United States, 1865-1896",,27,69.33333333,19.26535352,85.0,2.0,,,,,,5,,,8,,
+UBCO,2014,W,HIST,325,,001,Europe in 1215,Ben Nilson,28,66.89285714,18.0664192,88.0,4.0,,,,,,5,,,5,,0
+UBCO,2014,W,HIST,325,,OVERALL,Europe in 1215,,28,66.89285714,18.0664192,88.0,4.0,,,,,,5,,,5,,0
+UBCO,2014,W,HIST,326,,001,"The British North American Colonies, 1749-1873",Peter Russell,26,57.73076923,16.26175315,80.0,25.0,7,,5,,,5,,,,0,0
+UBCO,2014,W,HIST,326,,OVERALL,"The British North American Colonies, 1749-1873",,26,57.73076923,16.26175315,80.0,25.0,7,,5,,,5,,,,0,0
+UBCO,2014,W,HIST,331,,001,"The United States, 1865-1896",James Hull,27,69.33333333,19.26535352,85.0,2.0,,,,,,5,,,8,,0
+UBCO,2014,W,HIST,331,,OVERALL,"The United States, 1865-1896",,27,69.33333333,19.26535352,85.0,2.0,,,,,,5,,,8,,0
 UBCO,2014,W,HIST,381,A,001,Special Topics in Economic History,Todd Christopher Campbell,17,71.94117647,11.50255726,90.0,46.0,,,,,,5,,,,,
 UBCO,2014,W,HIST,381,A,OVERALL,Special Topics in Economic History,,17,71.94117647,11.50255726,90.0,46.0,,,,,,5,,,,,
-UBCO,2014,W,HIST,396,,001,"History of India, 1800-1914",Todd Christopher Campbell,32,77.65625,7.933633488,95.0,53.0,,,,,,5,6,,10,5,
-UBCO,2014,W,HIST,396,,OVERALL,"History of India, 1800-1914",,32,77.65625,7.933633488,95.0,53.0,,,,,,5,6,,10,5,
-UBCO,2014,W,HIST,397,,001,History of India Since 1914,Todd Christopher Campbell,29,72.48275862,14.951399100000001,93.0,16.0,,,,,,8,,,5,,
-UBCO,2014,W,HIST,397,,OVERALL,History of India Since 1914,,29,72.48275862,14.951399100000001,93.0,16.0,,,,,,8,,,5,,
-UBCO,2014,W,HIST,414,,001,Medieval England,Ben Nilson,26,66.23076923,18.95322177,88.0,8.0,,,,,5,5,,,,,
-UBCO,2014,W,HIST,414,,OVERALL,Medieval England,,26,66.23076923,18.95322177,88.0,8.0,,,,,5,5,,,,,
-UBCO,2014,W,HIST,420,,001,Women in Early Modern Europe,Ruth Frost,30,76.36666667,9.072441535,89.0,50.0,,,,,,,,10,,7,
-UBCO,2014,W,HIST,420,,OVERALL,Women in Early Modern Europe,,30,76.36666667,9.072441535,89.0,50.0,,,,,,,,10,,7,
+UBCO,2014,W,HIST,396,,001,"History of India, 1800-1914",Todd Christopher Campbell,32,77.65625,7.933633488,95.0,53.0,0,,,,,5,6,,10,5,
+UBCO,2014,W,HIST,396,,OVERALL,"History of India, 1800-1914",,32,77.65625,7.933633488,95.0,53.0,0,,,,,5,6,,10,5,
+UBCO,2014,W,HIST,397,,001,History of India Since 1914,Todd Christopher Campbell,29,72.48275862,14.9513991,93.0,16.0,,,,,,8,,,5,,
+UBCO,2014,W,HIST,397,,OVERALL,History of India Since 1914,,29,72.48275862,14.9513991,93.0,16.0,,,,,,8,,,5,,
+UBCO,2014,W,HIST,414,,001,Medieval England,Ben Nilson,26,66.23076923,18.95322177,88.0,8.0,,,,,5,5,,,,,0
+UBCO,2014,W,HIST,414,,OVERALL,Medieval England,,26,66.23076923,18.95322177,88.0,8.0,,,,,5,5,,,,,0
+UBCO,2014,W,HIST,420,,001,Women in Early Modern Europe,Ruth Frost,30,76.36666667,9.072441535,89.0,50.0,0,,,,,,,10,,7,0
+UBCO,2014,W,HIST,420,,OVERALL,Women in Early Modern Europe,,30,76.36666667,9.072441535,89.0,50.0,0,,,,,,,10,,7,0
 UBCO,2014,W,HIST,424,,001,Women in the Middle Ages,Ruth Frost,32,74.15625,10.40505267,90.0,39.0,,,,,,5,,5,9,,
 UBCO,2014,W,HIST,424,,OVERALL,Women in the Middle Ages,,32,74.15625,10.40505267,90.0,39.0,,,,,,5,,5,9,,
-UBCO,2014,W,HIST,452,,001,History of Mexico Since 1810,Jessica Stites,31,83.16129032,9.096141212000001,93.0,55.0,,,,,,,,5,5,7,9
-UBCO,2014,W,HIST,452,,OVERALL,History of Mexico Since 1810,,31,83.16129032,9.096141212000001,93.0,55.0,,,,,,,,5,5,7,9
-UBCO,2014,W,HIST,453,,001,History of Brazil Since 1822,Jessica Stites,30,79.66666667,8.293467863,93.0,56.0,,,,,,,,10,9,,
-UBCO,2014,W,HIST,453,,OVERALL,History of Brazil Since 1822,,30,79.66666667,8.293467863,93.0,56.0,,,,,,,,10,9,,
+UBCO,2014,W,HIST,452,,001,History of Mexico Since 1810,Jessica Stites,31,83.16129032,9.096141212,93.0,55.0,0,0,,,,,,5,5,7,9
+UBCO,2014,W,HIST,452,,OVERALL,History of Mexico Since 1810,,31,83.16129032,9.096141212,93.0,55.0,0,0,,,,,,5,5,7,9
+UBCO,2014,W,HIST,453,,001,History of Brazil Since 1822,Jessica Stites,30,79.66666667,8.293467863,93.0,56.0,0,0,,,,,,10,9,,
+UBCO,2014,W,HIST,453,,OVERALL,History of Brazil Since 1822,,30,79.66666667,8.293467863,93.0,56.0,0,0,,,,,,10,9,,
 UBCO,2014,W,HIST,460,F,001,Topics in Technology and Society in History,James Hull,14,64.71428571,27.86900283,90.0,1.0,,,,,,,,,,,
 UBCO,2014,W,HIST,460,F,OVERALL,Topics in Technology and Society in History,,14,64.71428571,27.86900283,90.0,1.0,,,,,,,,,,,
-UBCO,2014,W,HIST,466,,001,"Canada, 1896 to World War II",Peter Russell,6,76.0,4.857983121,80.0,67.0,,,,,,,,,,,
-UBCO,2014,W,HIST,466,,OVERALL,"Canada, 1896 to World War II",,6,76.0,4.857983121,80.0,67.0,,,,,,,,,,,
-UBCO,2014,W,HIST,473,,001,War and Society from the 18th to 20th Centuries,Julien Vernet,23,73.82608696,14.59655057,89.0,36.0,,,,,,,,,6,,
-UBCO,2014,W,HIST,473,,OVERALL,War and Society from the 18th to 20th Centuries,,23,73.82608696,14.59655057,89.0,36.0,,,,,,,,,6,,
+UBCO,2014,W,HIST,466,,001,"Canada, 1896 to World War II",Peter Russell,6,76.0,4.857983121,80.0,67.0,0,0,0,0,,,,,,0,0
+UBCO,2014,W,HIST,466,,OVERALL,"Canada, 1896 to World War II",,6,76.0,4.857983121,80.0,67.0,0,0,0,0,,,,,,0,0
+UBCO,2014,W,HIST,473,,001,War and Society from the 18th to 20th Centuries,Julien Vernet,23,73.82608696,14.59655057,89.0,36.0,,,,,,,,,6,,0
+UBCO,2014,W,HIST,473,,OVERALL,War and Society from the 18th to 20th Centuries,,23,73.82608696,14.59655057,89.0,36.0,,,,,,,,,6,,0
 UBCO,2014,W,HIST,492,,001,"History, Theory, and Method",Ruth Frost,9,70.66666667,13.93735987,90.0,48.0,,,,,,,,,,,
 UBCO,2014,W,HIST,492,,OVERALL,"History, Theory, and Method",,9,70.66666667,13.93735987,90.0,48.0,,,,,,,,,,,
-UBCO,2014,W,HIST,494,,001,Decolonization and Africa,Todd Christopher Campbell,22,77.90909091,7.393105481,90.0,66.0,,,,,,,5,,,5,
-UBCO,2014,W,HIST,494,,OVERALL,Decolonization and Africa,,22,77.90909091,7.393105481,90.0,66.0,,,,,,,5,,,5,
-UBCO,2014,W,HIST,495,T,001,Special Topics in History,Francisco Pena Fernandez,14,66.07142857,14.07924979,81.0,30.0,,,,,,,,,,,
-UBCO,2014,W,HIST,495,T,OVERALL,Special Topics in History,,14,66.07142857,14.07924979,81.0,30.0,,,,,,,,,,,
+UBCO,2014,W,HIST,494,,001,Decolonization and Africa,Todd Christopher Campbell,22,77.90909091,7.393105481,90.0,66.0,0,0,0,0,,,5,,,5,
+UBCO,2014,W,HIST,494,,OVERALL,Decolonization and Africa,,22,77.90909091,7.393105481,90.0,66.0,0,0,0,0,,,5,,,5,
+UBCO,2014,W,HIST,495,T,001,Special Topics in History,Francisco Pena Fernandez,14,66.07142857,14.07924979,81.0,30.0,,,,,,,,,,0,0
+UBCO,2014,W,HIST,495,T,OVERALL,Special Topics in History,,14,66.07142857,14.07924979,81.0,30.0,,,,,,,,,,0,0

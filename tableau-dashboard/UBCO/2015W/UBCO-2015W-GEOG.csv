@@ -1,61 +1,61 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2015,W,GEOG,108,,001,Introduction to Physical Geography I,Michael Pidwirny,187,69.989304813,13.670857988,97.0,3.0,8,7,19,17,24,23,20,22,23,18,6
 UBCO,2015,W,GEOG,108,,OVERALL,Introduction to Physical Geography I,,187,69.989304813,13.670857988,97.0,3.0,8,7,19,17,24,23,20,22,23,18,6
-UBCO,2015,W,GEOG,109,,001,Introduction to Physical Geography II,Hugh Hamilton;Natasha Neumann,126,69.944444444,15.658508514000001,97.0,4.0,10,5,10,11,15,10,17,11,14,15,8
-UBCO,2015,W,GEOG,109,,OVERALL,Introduction to Physical Geography II,,126,69.944444444,15.658508514000001,97.0,4.0,10,5,10,11,15,10,17,11,14,15,8
+UBCO,2015,W,GEOG,109,,001,Introduction to Physical Geography II,Hugh Hamilton;Natasha Neumann,126,69.944444444,15.658508514,97.0,4.0,10,5,10,11,15,10,17,11,14,15,8
+UBCO,2015,W,GEOG,109,,OVERALL,Introduction to Physical Geography II,,126,69.944444444,15.658508514,97.0,4.0,10,5,10,11,15,10,17,11,14,15,8
 UBCO,2015,W,GEOG,128,,001,"Human Geography: Space, Place, and Community",Bernard Momer;Travis Nagy,75,64.506666667,19.158212785,90.0,0.0,10,4.0,8,6,9,7,6,12,6,6,1
 UBCO,2015,W,GEOG,128,,101,"Human Geography: Space, Place, and Community",Jose Teixeira;Nasibeh Ahadi Maragheh,72,75.375,19.637874803,94.0,0.0,5,0.0,0,1,1,2,10,10,18,19,6
 UBCO,2015,W,GEOG,128,,OVERALL,"Human Geography: Space, Place, and Community",,147,69.829931973,20.082151194,94.0,0.0,15,4.0,8,7,10,9,16,22,24,25,7
 UBCO,2015,W,GEOG,129,,001,"Human Geography: Resources, Development, and Society",Jon Corbett;Menno Salverda,84,73.630952381,10.924472099,92.0,28.0,,,,7,6,13,11,14,17,8,3
 UBCO,2015,W,GEOG,129,,101,"Human Geography: Resources, Development, and Society",Catherine Kyle,71,77.464788732,10.10209453,94.0,46.0,,,,4,4,6,13,8,11,14,8
 UBCO,2015,W,GEOG,129,,OVERALL,"Human Geography: Resources, Development, and Society",,155,75.387096774,10.694935746,94.0,28.0,,,,11,10,19,24,22,28,22,11
-UBCO,2015,W,GEOG,200,,001,Atmospheric Environments,Ian Saunders,6,62.166666667,14.048724735,74.0,38.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,200,,OVERALL,Atmospheric Environments,,6,62.166666667,14.048724735,74.0,38.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,205,,001,Introduction to Hydrology,Emily Nicholson;Fes Alexander De Scally,12,67.0,14.090615833,82.0,29.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,205,,OVERALL,Introduction to Hydrology,,12,67.0,14.090615833,82.0,29.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,207,,001,Introduction to Biogeography,Trudy Kavanagh,13,76.76923076899999,9.047594949,90.0,64.0,,,,,,5,,,,,
-UBCO,2015,W,GEOG,207,,OVERALL,Introduction to Biogeography,,13,76.76923076899999,9.047594949,90.0,64.0,,,,,,5,,,,,
-UBCO,2015,W,GEOG,222,,001,Geomorphology,Bernard Bauer,10,60.4,19.563003632,84.0,20.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,222,,OVERALL,Geomorphology,,10,60.4,19.563003632,84.0,20.0,,,,,,,,,,,
+UBCO,2015,W,GEOG,200,,001,Atmospheric Environments,Ian Saunders,6,62.166666667,14.048724735,74.0,38.0,,,,,,,,0,0,0,0
+UBCO,2015,W,GEOG,200,,OVERALL,Atmospheric Environments,,6,62.166666667,14.048724735,74.0,38.0,,,,,,,,0,0,0,0
+UBCO,2015,W,GEOG,205,,001,Introduction to Hydrology,Emily Nicholson;Fes Alexander De Scally,12,67.0,14.090615833,82.0,29.0,,,,,,,,,,0,0
+UBCO,2015,W,GEOG,205,,OVERALL,Introduction to Hydrology,,12,67.0,14.090615833,82.0,29.0,,,,,,,,,,0,0
+UBCO,2015,W,GEOG,207,,001,Introduction to Biogeography,Trudy Kavanagh,13,76.769230769,9.047594949,90.0,64.0,0,0,0,0,,5,,,,,
+UBCO,2015,W,GEOG,207,,OVERALL,Introduction to Biogeography,,13,76.769230769,9.047594949,90.0,64.0,0,0,0,0,,5,,,,,
+UBCO,2015,W,GEOG,222,,001,Geomorphology,Bernard Bauer,10,60.4,19.563003632,84.0,20.0,,,,,,,,,,0,0
+UBCO,2015,W,GEOG,222,,OVERALL,Geomorphology,,10,60.4,19.563003632,84.0,20.0,,,,,,,,,,0,0
 UBCO,2015,W,GEOG,250,,001,Introduction to Urban Geography,Bernard Momer,24,72.375,12.107534485,90.0,47.0,,,,,,,,,5,,
 UBCO,2015,W,GEOG,250,,OVERALL,Introduction to Urban Geography,,24,72.375,12.107534485,90.0,47.0,,,,,,,,,5,,
 UBCO,2015,W,GEOG,271,,001,Geographic Data Analysis,Michael Pidwirny,23,71.043478261,15.247885877,92.0,34.0,,,,,,,,,8,,
 UBCO,2015,W,GEOG,271,,OVERALL,Geographic Data Analysis,,23,71.043478261,15.247885877,92.0,34.0,,,,,,,,,8,,
-UBCO,2015,W,GEOG,272,,001,Cartography and Remote Sensing,Ian Saunders,24,74.916666667,6.762535327999999,86.0,64.0,,,,,,,,6,,,
-UBCO,2015,W,GEOG,272,,OVERALL,Cartography and Remote Sensing,,24,74.916666667,6.762535327999999,86.0,64.0,,,,,,,,6,,,
-UBCO,2015,W,GEOG,290,,001,Introduction to the Geography of Canada,Megan Salhus,15,79.533333333,5.054936296,89.0,71.0,,,,,,,,5,,,
-UBCO,2015,W,GEOG,290,,OVERALL,Introduction to the Geography of Canada,,15,79.533333333,5.054936296,89.0,71.0,,,,,,,,5,,,
-UBCO,2015,W,GEOG,307,,001,Advanced Biogeography,Trudy Kavanagh,11,75.636363636,7.593059031,85.0,63.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,307,,OVERALL,Advanced Biogeography,,11,75.636363636,7.593059031,85.0,63.0,,,,,,,,,,,
+UBCO,2015,W,GEOG,272,,001,Cartography and Remote Sensing,Ian Saunders,24,74.916666667,6.762535328,86.0,64.0,0,0,0,0,,,,6,,,0
+UBCO,2015,W,GEOG,272,,OVERALL,Cartography and Remote Sensing,,24,74.916666667,6.762535328,86.0,64.0,0,0,0,0,,,,6,,,0
+UBCO,2015,W,GEOG,290,,001,Introduction to the Geography of Canada,Megan Salhus,15,79.533333333,5.054936296,89.0,71.0,0,0,0,0,0,,,5,,,0
+UBCO,2015,W,GEOG,290,,OVERALL,Introduction to the Geography of Canada,,15,79.533333333,5.054936296,89.0,71.0,0,0,0,0,0,,,5,,,0
+UBCO,2015,W,GEOG,307,,001,Advanced Biogeography,Trudy Kavanagh,11,75.636363636,7.593059031,85.0,63.0,0,0,0,,,,,,,,0
+UBCO,2015,W,GEOG,307,,OVERALL,Advanced Biogeography,,11,75.636363636,7.593059031,85.0,63.0,0,0,0,,,,,,,,0
 UBCO,2015,W,GEOG,310,,001,Environment and Resources,Michael Pidwirny,45,71.577777778,14.529732665,95.0,0.0,,,,5,6,8,8,,6,,
 UBCO,2015,W,GEOG,310,,OVERALL,Environment and Resources,,45,71.577777778,14.529732665,95.0,0.0,,,,5,6,8,8,,6,,
-UBCO,2015,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,12,67.25,17.451881899,85.0,17.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,314,,OVERALL,"Environmental Impact Assessment: Process, Regulation and Administration",,12,67.25,17.451881899,85.0,17.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,317,,001,The Physical Environment of British Columbia,Ian Saunders,19,68.84210526300001,12.446611131,93.0,51.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,317,,OVERALL,The Physical Environment of British Columbia,,19,68.84210526300001,12.446611131,93.0,51.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,341,,001,"Quaternary Paleontology, Paleoecology, and Environmental Change",Ian Walker,7,71.285714286,13.924969009000002,89.0,50.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,341,,OVERALL,"Quaternary Paleontology, Paleoecology, and Environmental Change",,7,71.285714286,13.924969009000002,89.0,50.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,353,,001,Geographies of Migration and Settlement,Jose Teixeira,31,78.032258065,17.184263869000002,93.0,0.0,,,,,,,,5,7,5,7
-UBCO,2015,W,GEOG,353,,OVERALL,Geographies of Migration and Settlement,,31,78.032258065,17.184263869000002,93.0,0.0,,,,,,,,5,7,5,7
-UBCO,2015,W,GEOG,354,,001,"Urban Canada: Growth, Form, and Structure",Delacey Tedesco,29,72.34482758600001,12.286100922000001,88.0,27.0,,,,,,,,,9,,
-UBCO,2015,W,GEOG,354,,OVERALL,"Urban Canada: Growth, Form, and Structure",,29,72.34482758600001,12.286100922000001,88.0,27.0,,,,,,,,,9,,
-UBCO,2015,W,GEOG,356,,001,Stratigraphy and Sedimentology,Robert Young,13,66.923076923,8.169675007999999,80.0,55.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,356,,OVERALL,Stratigraphy and Sedimentology,,13,66.923076923,8.169675007999999,80.0,55.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,359,,001,"Culture, Space, and Politics",Lawrence Berg;Menno Salverda,29,86.82758620700001,4.0714069660000005,92.0,72.0,,,,,,,,,,18,6
-UBCO,2015,W,GEOG,359,,OVERALL,"Culture, Space, and Politics",,29,86.82758620700001,4.0714069660000005,92.0,72.0,,,,,,,,,,18,6
+UBCO,2015,W,GEOG,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna,12,67.25,17.451881899,85.0,17.0,,,,,,,,,,,0
+UBCO,2015,W,GEOG,314,,OVERALL,"Environmental Impact Assessment: Process, Regulation and Administration",,12,67.25,17.451881899,85.0,17.0,,,,,,,,,,,0
+UBCO,2015,W,GEOG,317,,001,The Physical Environment of British Columbia,Ian Saunders,19,68.842105263,12.446611131,93.0,51.0,0,,,,,,,,,,
+UBCO,2015,W,GEOG,317,,OVERALL,The Physical Environment of British Columbia,,19,68.842105263,12.446611131,93.0,51.0,0,,,,,,,,,,
+UBCO,2015,W,GEOG,341,,001,"Quaternary Paleontology, Paleoecology, and Environmental Change",Ian Walker,7,71.285714286,13.924969009,89.0,50.0,0,,,,,,,,,,0
+UBCO,2015,W,GEOG,341,,OVERALL,"Quaternary Paleontology, Paleoecology, and Environmental Change",,7,71.285714286,13.924969009,89.0,50.0,0,,,,,,,,,,0
+UBCO,2015,W,GEOG,353,,001,Geographies of Migration and Settlement,Jose Teixeira,31,78.032258065,17.184263869,93.0,0.0,,,,,,,,5,7,5,7
+UBCO,2015,W,GEOG,353,,OVERALL,Geographies of Migration and Settlement,,31,78.032258065,17.184263869,93.0,0.0,,,,,,,,5,7,5,7
+UBCO,2015,W,GEOG,354,,001,"Urban Canada: Growth, Form, and Structure",Delacey Tedesco,29,72.344827586,12.286100922,88.0,27.0,,,,,,,,,9,,0
+UBCO,2015,W,GEOG,354,,OVERALL,"Urban Canada: Growth, Form, and Structure",,29,72.344827586,12.286100922,88.0,27.0,,,,,,,,,9,,0
+UBCO,2015,W,GEOG,356,,001,Stratigraphy and Sedimentology,Robert Young,13,66.923076923,8.169675008,80.0,55.0,0,0,,,,,,,,0,0
+UBCO,2015,W,GEOG,356,,OVERALL,Stratigraphy and Sedimentology,,13,66.923076923,8.169675008,80.0,55.0,0,0,,,,,,,,0,0
+UBCO,2015,W,GEOG,359,,001,"Culture, Space, and Politics",Lawrence Berg;Menno Salverda,29,86.827586207,4.071406966,92.0,72.0,0,0,0,0,0,0,,,,18,6
+UBCO,2015,W,GEOG,359,,OVERALL,"Culture, Space, and Politics",,29,86.827586207,4.071406966,92.0,72.0,0,0,0,0,0,0,,,,18,6
 UBCO,2015,W,GEOG,367,,001,Energy Resources Management,Kelson Willms;Kevin Hanna,18,69.555555556,11.98146717,90.0,43.0,,,,,,,,,,,
 UBCO,2015,W,GEOG,367,,OVERALL,Energy Resources Management,,18,69.555555556,11.98146717,90.0,43.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,370,,001,Introduction to Geographic Information Systems,Brandon Gregg;Brandon S Gregg;Corrie Allen;Jason Pither,58,79.224137931,8.958076045,94.0,53.0,,,,,,,7,11,17,8,6
-UBCO,2015,W,GEOG,370,,OVERALL,Introduction to Geographic Information Systems,,58,79.224137931,8.958076045,94.0,53.0,,,,,,,7,11,17,8,6
-UBCO,2015,W,GEOG,416,,001,Applied Management of Mountain Hazards,Fes Alexander De Scally,31,87.129032258,3.584614675,94.0,80.0,,,,,,,,,8,15,8
-UBCO,2015,W,GEOG,416,,OVERALL,Applied Management of Mountain Hazards,,31,87.129032258,3.584614675,94.0,80.0,,,,,,,,,8,15,8
-UBCO,2015,W,GEOG,421,,001,Geography of Food Systems,Mary Stockdale,39,86.41025641,4.827105206000001,93.0,75.0,,,,,,,,5,,20,9
-UBCO,2015,W,GEOG,421,,OVERALL,Geography of Food Systems,,39,86.41025641,4.827105206000001,93.0,75.0,,,,,,,,5,,20,9
-UBCO,2015,W,GEOG,429,,001,Sexuality and Space,Jillian Deri,6,65.333333333,33.643226163,88.0,0.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,429,,OVERALL,Sexuality and Space,,6,65.333333333,33.643226163,88.0,0.0,,,,,,,,,,,
-UBCO,2015,W,GEOG,451,,001,Urban Planning,Bernard Momer;Travis Nagy,24,79.208333333,7.8628414310000005,91.0,59.0,,,,,,,,5,7,5,
-UBCO,2015,W,GEOG,451,,OVERALL,Urban Planning,,24,79.208333333,7.8628414310000005,91.0,59.0,,,,,,,,5,7,5,
-UBCO,2015,W,GEOG,474,,001,Qualitative Research in Human Geography,Lawrence Berg,25,88.76,3.585619426,92.0,75.0,,,,,,,,,,8,16
-UBCO,2015,W,GEOG,474,,OVERALL,Qualitative Research in Human Geography,,25,88.76,3.585619426,92.0,75.0,,,,,,,,,,8,16
-UBCO,2015,W,GEOG,480,,001,Advanced Seminar in Critical Geography,Lawrence Berg,15,82.733333333,8.819351017999999,90.0,66.0,,,,,,,,,,5,
-UBCO,2015,W,GEOG,480,,OVERALL,Advanced Seminar in Critical Geography,,15,82.733333333,8.819351017999999,90.0,66.0,,,,,,,,,,5,
+UBCO,2015,W,GEOG,370,,001,Introduction to Geographic Information Systems,Brandon Gregg;Brandon S Gregg;Corrie Allen;Jason Pither,58,79.224137931,8.958076045,94.0,53.0,0,,,,,,7,11,17,8,6
+UBCO,2015,W,GEOG,370,,OVERALL,Introduction to Geographic Information Systems,,58,79.224137931,8.958076045,94.0,53.0,0,,,,,,7,11,17,8,6
+UBCO,2015,W,GEOG,416,,001,Applied Management of Mountain Hazards,Fes Alexander De Scally,31,87.129032258,3.584614675,94.0,80.0,0,0,0,0,0,0,0,0,8,15,8
+UBCO,2015,W,GEOG,416,,OVERALL,Applied Management of Mountain Hazards,,31,87.129032258,3.584614675,94.0,80.0,0,0,0,0,0,0,0,0,8,15,8
+UBCO,2015,W,GEOG,421,,001,Geography of Food Systems,Mary Stockdale,39,86.41025641,4.827105206,93.0,75.0,0,0,0,0,0,0,,5,,20,9
+UBCO,2015,W,GEOG,421,,OVERALL,Geography of Food Systems,,39,86.41025641,4.827105206,93.0,75.0,0,0,0,0,0,0,,5,,20,9
+UBCO,2015,W,GEOG,429,,001,Sexuality and Space,Jillian Deri,6,65.333333333,33.643226163,88.0,0.0,,,,,,,,,,,0
+UBCO,2015,W,GEOG,429,,OVERALL,Sexuality and Space,,6,65.333333333,33.643226163,88.0,0.0,,,,,,,,,,,0
+UBCO,2015,W,GEOG,451,,001,Urban Planning,Bernard Momer;Travis Nagy,24,79.208333333,7.862841431,91.0,59.0,0,0,,,,,,5,7,5,
+UBCO,2015,W,GEOG,451,,OVERALL,Urban Planning,,24,79.208333333,7.862841431,91.0,59.0,0,0,,,,,,5,7,5,
+UBCO,2015,W,GEOG,474,,001,Qualitative Research in Human Geography,Lawrence Berg,25,88.76,3.585619426,92.0,75.0,0,0,0,0,0,0,,,,8,16
+UBCO,2015,W,GEOG,474,,OVERALL,Qualitative Research in Human Geography,,25,88.76,3.585619426,92.0,75.0,0,0,0,0,0,0,,,,8,16
+UBCO,2015,W,GEOG,480,,001,Advanced Seminar in Critical Geography,Lawrence Berg,15,82.733333333,8.819351018,90.0,66.0,0,0,0,0,,,,,,5,
+UBCO,2015,W,GEOG,480,,OVERALL,Advanced Seminar in Critical Geography,,15,82.733333333,8.819351018,90.0,66.0,0,0,0,0,,,,,,5,

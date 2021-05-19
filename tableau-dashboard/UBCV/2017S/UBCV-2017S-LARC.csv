@@ -1,11 +1,7 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,S,LARC,570,A,001,Co-op Work Placement,,5,87.8,2.28035085,90.0,85.0,,,,,,,,,,,
-UBCV,2017,S,LARC,570,A,OVERALL,Co-op Work Placement,,5,87.8,2.28035085,90.0,85.0,,,,,,,,,,,
-UBCV,2017,S,LARC,580,B,001,"Directed Studies in Design Analysis, Programming and Theory",,8,87.125,2.167124494,90.0,84.0,,,,,,,,,,5,
-UBCV,2017,S,LARC,580,B,OVERALL,"Directed Studies in Design Analysis, Programming and Theory",,8,87.125,2.167124494,90.0,84.0,,,,,,,,,,5,
-UBCV,2017,S,LARC,581,B,001,Directed Studies in Landscape Planning and Sustainability,,5,90.0,3.0822070010000004,95.0,87.0,,,,,,,,,,,
-UBCV,2017,S,LARC,581,B,OVERALL,Directed Studies in Landscape Planning and Sustainability,,5,90.0,3.0822070010000004,95.0,87.0,,,,,,,,,,,
-UBCV,2017,S,LARC,582,D,001,Seminar: Special Topics,Ayishah Chung Yee Chui;Martin Lewis;Olivia Daigneault,26,83.0,6.406246951,90.0,72.0,,,,,,,5,,9,6,5
-UBCV,2017,S,LARC,582,D,OVERALL,Seminar: Special Topics,,26,83.0,6.406246951,90.0,72.0,,,,,,,5,,9,6,5
-UBCV,2017,S,LARC,582,T,001,Seminar: Special Topics,Cynthia Girling,22,87.77272727299999,2.7590857389999996,92.0,79.0,,,,,,,,,,14,6
-UBCV,2017,S,LARC,582,T,OVERALL,Seminar: Special Topics,,22,87.77272727299999,2.7590857389999996,92.0,79.0,,,,,,,,,,14,6
+UBCV,2017,S,LARC,580,B,001,"Directed Studies in Design Analysis, Programming and Theory",,8,87.125,2.167124494,90.0,84.0,0,0,0,0,0,0,0,0,2,5,1
+UBCV,2017,S,LARC,580,B,OVERALL,"Directed Studies in Design Analysis, Programming and Theory",,8,87.125,2.167124494,90.0,84.0,0,0,0,0,0,0,0,0,2,5,1
+UBCV,2017,S,LARC,582,D,001,Seminar: Special Topics,Ayishah Chung Yee Chui;Martin Lewis;Olivia Daigneault,26,83.0,6.406246951,90.0,72.0,0,0,0,0,0,0,5,1,9,6,5
+UBCV,2017,S,LARC,582,D,OVERALL,Seminar: Special Topics,,26,83.0,6.406246951,90.0,72.0,0,0,0,0,0,0,5,1,9,6,5
+UBCV,2017,S,LARC,582,T,001,Seminar: Special Topics,Cynthia Girling,22,87.77272727,2.759085739,92.0,79.0,0,0,0,0,0,0,0,1,1,14,6
+UBCV,2017,S,LARC,582,T,OVERALL,Seminar: Special Topics,,22,87.77272727,2.759085739,92.0,79.0,0,0,0,0,0,0,0,1,1,14,6

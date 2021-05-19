@@ -1,13 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,S,PHYS,100,,98A,Introductory Physics,Elham Abouei;Firas Moosvi;Georg Rieger;Pranav Garg,109,66.357798165,19.142024224,93.0,10.0,19,3.0,7,6,13,11,10,6,20,9,5
-UBCV,2017,S,PHYS,100,,OVERALL,Introductory Physics,,109,66.357798165,19.142024224,93.0,10.0,19,3.0,7,6,13,11,10,6,20,9,5
-UBCV,2017,S,PHYS,101,,921,Energy and Waves,Arthur Charbonneau;Evert Koster,184,77.706521739,8.007562059,96.0,45.0,,,,,11,18,32,39,44,19,14
-UBCV,2017,S,PHYS,101,,OVERALL,Energy and Waves,,184,77.706521739,8.007562059,96.0,45.0,,,,,11,18,32,39,44,19,14
-UBCV,2017,S,PHYS,118,,952,"Electricity, Light and Radiation",Marina Litinskaya;Mayra Tovar,126,76.261904762,14.32490339,100.0,29.0,7,7,5,,,12,13,13,29,12,22
-UBCV,2017,S,PHYS,118,,OVERALL,"Electricity, Light and Radiation",,185,77.297297297,13.253106414000001,100.0,29.0,7,7,7,7,6,16,19,19,43,20,34
-UBCV,2017,S,PHYS,118,,V01,"Electricity, Light and Radiation",Georg Rieger;Jonathan Massey Allard;Jordan Wilson-Gerow;Joss Ives;Kathryn Crowter;Peter Gustainis;Wesley Cheek,36,77.111111111,10.457472456,95.0,58.0,,,,5,,,5,,9,,5
-UBCV,2017,S,PHYS,118,,V02,"Electricity, Light and Radiation",Georg Rieger;Jonathan Massey Allard;Jordan Wilson-Gerow;Joss Ives;Kathryn Crowter;Peter Gustainis;Wesley Cheek,23,83.260869565,9.259969522999999,98.0,56.0,,,,,,,1,,5,,7
-UBCV,2017,S,PHYS,250,,941,Introduction to Modern Physics,Oliver Stelzer-Chilton,65,81.984615385,6.893140402999999,95.0,64.0,,,,,,,5,5,20,20,9
-UBCV,2017,S,PHYS,250,,OVERALL,Introduction to Modern Physics,,65,81.984615385,6.893140402999999,95.0,64.0,,,,,,,5,5,20,20,9
-UBCV,2017,S,PHYS,572,,942,Experimental Methods in Quantum Materials,Andrea Damascelli;Douglas Andrew Bonn;Jeff Young;Joshua Folk;Sarah Burke,5,88.2,4.868264578,95.0,83.0,,,,,,,,,,,
-UBCV,2017,S,PHYS,572,,OVERALL,Experimental Methods in Quantum Materials,,5,88.2,4.868264578,95.0,83.0,,,,,,,,,,,
+UBCV,2017,S,PHYS,100,,98A,Introductory Physics,Elham Abouei;Firas Moosvi;Georg Rieger;Pranav Garg,109,66.35779817,19.14202422,93.0,10.0,19,3.0,7,6,13,11,10,6,20,9,5
+UBCV,2017,S,PHYS,100,,OVERALL,Introductory Physics,,109,66.35779817,19.14202422,93.0,10.0,19,3.0,7,6,13,11,10,6,20,9,5
+UBCV,2017,S,PHYS,101,,921,Energy and Waves,Arthur Charbonneau;Evert Koster,184,77.70652174,8.007562059,96.0,45.0,1,0.0,2,4,11,18,32,39,44,19,14
+UBCV,2017,S,PHYS,101,,OVERALL,Energy and Waves,,184,77.70652174,8.007562059,96.0,45.0,1,0.0,2,4,11,18,32,39,44,19,14
+UBCV,2017,S,PHYS,118,,952,"Electricity, Light and Radiation",Marina Litinskaya,126,76.26190476,14.32490339,100.0,29.0,7,7.0,5,2,4,12,13,13,29,12,22
+UBCV,2017,S,PHYS,118,,OVERALL,"Electricity, Light and Radiation",,185,77.2972973,13.25310641,100.0,29.0,7,7.0,7,7,6,16,19,19,43,20,34
+UBCV,2017,S,PHYS,118,,V01,"Electricity, Light and Radiation",Georg Rieger;Jonathan Massey Allard;Jordan Wilson-Gerow;Joss Ives;Kathryn Crowter;Peter Gustainis;Wesley Cheek,36,77.11111111,10.45747246,95.0,58.0,0,0.0,1,5,2,3,5,2,9,4,5
+UBCV,2017,S,PHYS,118,,V02,"Electricity, Light and Radiation",Georg Rieger;Jonathan Massey Allard;Jordan Wilson-Gerow;Joss Ives;Kathryn Crowter;Peter Gustainis;Wesley Cheek,23,83.26086957,9.259969523,98.0,56.0,0,0.0,1,0,0,1,1,4,5,4,7
+UBCV,2017,S,PHYS,250,,941,Introduction to Modern Physics,Oliver Stelzer-Chilton,65,81.98461539,6.893140403,95.0,64.0,0,0.0,0,0,3,3,5,5,20,20,9
+UBCV,2017,S,PHYS,250,,OVERALL,Introduction to Modern Physics,,65,81.98461539,6.893140403,95.0,64.0,0,0.0,0,0,3,3,5,5,20,20,9

@@ -1,9 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,W,HINT,110,,001,Applied Research in Health,Lise Olsen;Robert Colin Reid,117,80.051282051,10.33060915,98.0,43.0,,,,6,,6,12,14,24,31,16
-UBCO,2017,W,HINT,110,,OVERALL,Applied Research in Health,,117,80.051282051,10.33060915,98.0,43.0,,,,6,,6,12,14,24,31,16
-UBCO,2017,W,HINT,231,,001,Pathophysiology for Health Sciences,Lisa Moralejo;Somer Hoogenraad;Somer Mary Hoogenraad;Zoe Soon,139,78.726618705,8.388921053999999,98.0,56.0,,,,,10,11,15,25,38,20,14
-UBCO,2017,W,HINT,231,,OVERALL,Pathophysiology for Health Sciences,,139,78.726618705,8.388921053999999,98.0,56.0,,,,,10,11,15,25,38,20,14
-UBCO,2017,W,HINT,331,,001,Nutrition for Health Sciences,Paul Sharp;Sally Stewart;Sally Willis,141,79.290780142,5.050514835,90.0,68.0,,,,,,13,17,41,47,22,
-UBCO,2017,W,HINT,331,,OVERALL,Nutrition for Health Sciences,,141,79.290780142,5.050514835,90.0,68.0,,,,,,13,17,41,47,22,
-UBCO,2017,W,HINT,525,,001,Disabilities Studies and Interprofessional Health Care,Rachelle Hole,29,87.310344828,4.243511419,93.0,72.0,,,,,,,,,6,12,10
-UBCO,2017,W,HINT,525,,OVERALL,Disabilities Studies and Interprofessional Health Care,,29,87.310344828,4.243511419,93.0,72.0,,,,,,,,,6,12,10
+UBCO,2017,W,HINT,110,,001,Applied Research in Health,Lise Olsen;Robert Colin Reid,117,80.05128205,10.33060915,98.0,43.0,1,2,2,6,3,6,12,14.0,24,31,16
+UBCO,2017,W,HINT,110,,OVERALL,Applied Research in Health,,117,80.05128205,10.33060915,98.0,43.0,1,2,2,6,3,6,12,14.0,24,31,16
+UBCO,2017,W,HINT,231,,001,Pathophysiology for Health Sciences,Lisa Moralejo;Somer Hoogenraad,139,78.72661871,8.388921054,98.0,56.0,0,0,4,2,10,11,15,25.0,38,20,14
+UBCO,2017,W,HINT,231,,OVERALL,Pathophysiology for Health Sciences,,139,78.72661871,8.388921054,98.0,56.0,0,0,4,2,10,11,15,25.0,38,20,14
+UBCO,2017,W,HINT,331,,001,Nutrition for Health Sciences,Paul Sharp;Sally Stewart;Sally Willis,141,79.29078014,5.050514835,90.0,68.0,0,0,0,0,0,13,17,41.0,47,22,1
+UBCO,2017,W,HINT,331,,OVERALL,Nutrition for Health Sciences,,141,79.29078014,5.050514835,90.0,68.0,0,0,0,0,0,13,17,41.0,47,22,1
+UBCO,2017,W,HINT,525,,001,Disabilities Studies and Interprofessional Health Care,Rachelle Hole,29,87.31034483,4.243511419,93.0,72.0,0,0,0,0,0,0,1,0.0,6,12,10
+UBCO,2017,W,HINT,525,,OVERALL,Disabilities Studies and Interprofessional Health Care,,29,87.31034483,4.243511419,93.0,72.0,0,0,0,0,0,0,1,0.0,6,12,10

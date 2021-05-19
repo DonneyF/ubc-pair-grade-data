@@ -1,16 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,S,CRWR,200,,001,Introduction to Creative Writing,Claire Matthews;Melissa Janae;Sarah Higgins;Tariq Hussain,120,77.94166667,13.79276137,100.0,0.0,,,,,6,9,15,17,33,21,12
-UBCV,2015,S,CRWR,200,,OVERALL,Introduction to Creative Writing,,120,77.94166666699999,13.792761365999999,100.0,0.0,,,,,6,9,15,17,33,21,12
-UBCV,2015,S,CRWR,209,,OVERALL,Introduction to Writing Fiction,,155,75.25161290300001,11.213161068,93.0,0.0,,,,5,12,23,21,31,30,24,
-UBCV,2015,S,CRWR,209,,S01,Introduction to Writing Fiction,Clara Kumagai;Curtis Leblanc;John Vigna;Kathryn Haxby;Robin Evans,155,75.25161290000001,11.21316107,93.0,0.0,,,,5,12,23,21,31,30,24,
-UBCV,2015,S,CRWR,501,K,001,Advanced Writing of Poetry I,Susan Musgrave,9,90.55555556,1.589898669,93.0,88.0,,,,,,,,,,,7
-UBCV,2015,S,CRWR,501,K,OVERALL,Advanced Writing of Poetry I,,15,91.066666667,1.624221425,94.0,88.0,,,,,,,,,,,13
-UBCV,2015,S,CRWR,501,K,S02,Advanced Writing of Poetry I,George Murray,6,91.83333333,1.471960144,94.0,90.0,,,,,,,,,,,6
-UBCV,2015,S,CRWR,505,K,OVERALL,Advanced Writing of Creative Non-Fiction I,,7,94.285714286,1.253566341,96.0,92.0,,,,,,,,,,,7
-UBCV,2015,S,CRWR,505,K,S01,Advanced Writing of Creative Non-Fiction I,Albert Wayne Grady,7,94.28571429,1.253566341,96.0,92.0,,,,,,,,,,,7
-UBCV,2015,S,CRWR,506,K,OVERALL,Advanced Writing of Drama for Screen I,,10,92.6,2.270584849,95.0,88.0,,,,,,,,,,,9
-UBCV,2015,S,CRWR,506,K,S01,Advanced Writing of Drama for Screen I,Sara Graefe,10,92.6,2.270584849,95.0,88.0,,,,,,,,,,,9
-UBCV,2015,S,CRWR,509,K,OVERALL,Advanced Writing of Fiction I,,16,90.25,1.770122406,94.0,88.0,,,,,,,,,,6,10
-UBCV,2015,S,CRWR,509,K,S02,Advanced Writing of Fiction I,Michael Crummey,8,90.375,1.685018016,93.0,88.0,,,,,,,,,,,5
-UBCV,2015,S,CRWR,509,K,S03,Advanced Writing of Fiction I,Elisabeth De Mariaffi,8,90.125,1.9594095319999998,94.0,88.0,,,,,,,,,,,5
-UBCV,2015,S,CRWR,599,,OVERALL,Thesis,,13,93.0,2.708012802,97.0,90.0,,,,,,,,,,,13
+UBCV,2015,S,CRWR,200,,001,Introduction to Creative Writing,Claire Matthews;Melissa Janae;Sarah Higgins;Tariq Hussain,120,77.94166667,13.79276137,100.0,0.0,,,,,6,9,15,17,33,21.0,12
+UBCV,2015,S,CRWR,200,,OVERALL,Introduction to Creative Writing,,120,77.941666667,13.792761366,100.0,0.0,,,,,6,9,15,17,33,21.0,12
+UBCV,2015,S,CRWR,209,,OVERALL,Introduction to Writing Fiction,,155,75.251612903,11.213161068,93.0,0.0,,,,5,12,23,21,31,30,24.0,
+UBCV,2015,S,CRWR,209,,S01,Introduction to Writing Fiction,Clara Kumagai;Curtis Leblanc;John Vigna;Kathryn Haxby;Robin Evans,155,75.2516129,11.21316107,93.0,0.0,,,,5,12,23,21,31,30,24.0,
+UBCV,2015,S,CRWR,501,K,001,Advanced Writing of Poetry I,Susan Musgrave,9,90.55555556,1.589898669,93.0,88.0,0,0,0,0,0,0,0,0,0,2.0,7
+UBCV,2015,S,CRWR,501,K,OVERALL,Advanced Writing of Poetry I,,15,91.066666667,1.624221425,94.0,88.0,0,0,0,0,0,0,0,0,0,2.0,13
+UBCV,2015,S,CRWR,501,K,S02,Advanced Writing of Poetry I,George Murray,6,91.83333333,1.471960144,94.0,90.0,0,0,0,0,0,0,0,0,0,0.0,6
+UBCV,2015,S,CRWR,505,K,OVERALL,Advanced Writing of Creative Non-Fiction I,,7,94.285714286,1.253566341,96.0,92.0,0,0,0,0,0,0,0,0,0,0.0,7
+UBCV,2015,S,CRWR,505,K,S01,Advanced Writing of Creative Non-Fiction I,Albert Wayne Grady,7,94.28571429,1.253566341,96.0,92.0,0,0,0,0,0,0,0,0,0,0.0,7
+UBCV,2015,S,CRWR,506,K,OVERALL,Advanced Writing of Drama for Screen I,,10,92.6,2.270584849,95.0,88.0,0,0,0,0,0,0,0,0,0,1.0,9
+UBCV,2015,S,CRWR,506,K,S01,Advanced Writing of Drama for Screen I,Sara Graefe,10,92.6,2.270584849,95.0,88.0,0,0,0,0,0,0,0,0,0,1.0,9
+UBCV,2015,S,CRWR,509,K,OVERALL,Advanced Writing of Fiction I,,16,90.25,1.770122406,94.0,88.0,0,0,0,0,0,0,0,0,0,6.0,10
+UBCV,2015,S,CRWR,509,K,S02,Advanced Writing of Fiction I,Michael Crummey,8,90.375,1.685018016,93.0,88.0,0,0,0,0,0,0,0,0,0,3.0,5
+UBCV,2015,S,CRWR,509,K,S03,Advanced Writing of Fiction I,Elisabeth De Mariaffi,8,90.125,1.959409532,94.0,88.0,0,0,0,0,0,0,0,0,0,3.0,5
+UBCV,2015,S,CRWR,599,,OVERALL,Thesis,,13,93.0,2.708012802,97.0,90.0,0,0,0,0,0,0,0,0,0,0.0,13

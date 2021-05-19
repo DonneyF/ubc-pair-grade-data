@@ -1,63 +1,61 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,CLST,105,,001,Greek and Roman Mythology,Benjamin Winnick;Matthew Naylor;Robert Cousland;Sarah Mark,132,74.015151515,17.275488901,97.0,0.0,9,,,6,5,8,20,23,21,15,17
-UBCV,2019,W,CLST,105,,002,Greek and Roman Mythology,Anna Reynolds;Benjamin Winnick;Florence Yoon;Matthew Hoskin;Ryan Daniel Schroeder;Ryan Schroeder,99,72.898989899,15.988193954000002,98.0,2.0,,,7,10,5,9,9,12,16,13,10
-UBCV,2019,W,CLST,105,,003,Greek and Roman Mythology,Allison Marlyn;Graham Butler;Graham William Butler;Michael Griffin;Ryan Johnson;Tara Mulder,133,76.969924812,13.501930193,94.0,5.0,,,5,,5,8,20,16,33,27,11
-UBCV,2019,W,CLST,105,,004,Greek and Roman Mythology,Franco De Angelis;Lindsay Fraughton;Rivkah Gillian Glass;Rivkah Glass;Ryan Johnson,112,76.6875,10.832908862,96.0,19.0,,,,,10,15,18,15,18,17,11
-UBCV,2019,W,CLST,105,,OVERALL,Greek and Roman Mythology,,476,75.237394958,14.697667153,98.0,0.0,18,11,18,22,25,40,67,66,88,72,49
-UBCV,2019,W,CLST,110,,001,Golden Age of Athens,Arden Lorraine Williams;Arden Williams;Franco De Angelis,18,74.388888889,20.399362415,90.0,0.0,,,,,,,,,5,,
-UBCV,2019,W,CLST,110,,OVERALL,Golden Age of Athens,,18,74.388888889,20.399362415,90.0,0.0,,,,,,,,,5,,
-UBCV,2019,W,CLST,111,,001,Late Republican and Early Imperial Rome,Siobhan Mcelduff;Tara Mulder,22,89.0,16.495309579,98.0,27.0,,,,,,,,,,,17
-UBCV,2019,W,CLST,111,,OVERALL,Late Republican and Early Imperial Rome,,22,89.0,16.495309579,98.0,27.0,,,,,,,,,,,17
-UBCV,2019,W,CLST,211,,001,Greek Philosophy I,Michael Griffin,58,79.689655172,12.540750274,94.0,32.0,,,,,,,,6,19,18,
-UBCV,2019,W,CLST,211,,OVERALL,Greek Philosophy I,,58,79.689655172,12.540750274,94.0,32.0,,,,,,,,6,19,18,
-UBCV,2019,W,CLST,212,,001,Greek Philosophy II,Brooks Sommerville;Graham Butler;Graham William Butler;Lara-Sophie Boleslawsky;Michael Griffin,37,80.91891891899999,14.459480509,95.0,26.0,,,,,,,,,11,7,9
-UBCV,2019,W,CLST,212,,OVERALL,Greek Philosophy II,,37,80.91891891899999,14.459480509,95.0,26.0,,,,,,,,,11,7,9
-UBCV,2019,W,CLST,231,,001,Ancient Greece,Carl Johnson;Franco De Angelis,43,72.860465116,18.258176766,91.0,0.0,,,,,5,,,8,14,,
-UBCV,2019,W,CLST,231,,OVERALL,Ancient Greece,,43,72.860465116,18.258176766,91.0,0.0,,,,,5,,,8,14,,
-UBCV,2019,W,CLST,232,,001,Ancient Rome,Andrew Devanbu;Katharine Huemoeller,65,76.338461538,14.572316351,93.0,0.0,,,,,,,12,7,8,9,12
-UBCV,2019,W,CLST,232,,OVERALL,Ancient Rome,,65,76.338461538,14.572316351,93.0,0.0,,,,,,,12,7,8,9,12
-UBCV,2019,W,CLST,260,,001,"Gladiators, Games, and Spectacle in the Greek and Roman World",Charmaine Gorrie,35,76.514285714,13.229582334000002,91.0,36.0,,,,,,,,,9,6,
-UBCV,2019,W,CLST,260,,OVERALL,"Gladiators, Games, and Spectacle in the Greek and Roman World",,35,76.514285714,13.229582334000002,91.0,36.0,,,,,,,,,9,6,
-UBCV,2019,W,CLST,301,,001,The Technical Terms of Medicine and Biological Science,Alyssa Yong;Jayden Lloyd;Joseph Burkhart;Shelley Reid,237,75.89029535899999,17.439623169,98.0,7.0,21,8,8,12,8,15,13,25,39,26,62
-UBCV,2019,W,CLST,301,,002,The Technical Terms of Medicine and Biological Science,Alyssa Yong;Jayden Lloyd;Joseph Burkhart;Shelley Reid,148,83.040540541,11.343060079,99.0,51.0,,,6,,5,5,10,7,23,38,48
-UBCV,2019,W,CLST,301,,99A,The Technical Terms of Medicine and Biological Science,Alyssa Yong;Jayden Lloyd;Joseph Burkhart;Shelley Reid,62,80.483870968,12.790547144000001,97.0,37.0,,,,,,,6,6,7,17,15
-UBCV,2019,W,CLST,301,,99C,The Technical Terms of Medicine and Biological Science,Alyssa Yong;Jayden Lloyd;Joseph Burkhart;Shelley Reid,62,84.629032258,9.576668833,96.0,46.0,,,,,,,1,5,9,16,23
-UBCV,2019,W,CLST,301,,OVERALL,The Technical Terms of Medicine and Biological Science,,509,79.593320236,14.907511270999999,99.0,7.0,26,10,14,19,18,26,30,43,78,97,148
-UBCV,2019,W,CLST,306,,001,Ancient Technology: Greece and Rome,Mark Locicero;Matthew Mccarty,54,77.814814815,9.711059779,98.0,60.0,,,,5,5,8,,10,6,12,6
-UBCV,2019,W,CLST,306,,OVERALL,Ancient Technology: Greece and Rome,,54,77.814814815,9.711059779,98.0,60.0,,,,5,5,8,,10,6,12,6
-UBCV,2019,W,CLST,307,,001,Greek Law,Christopher Warren Marshall;Jelena Todorovic,28,77.75,14.808968754,95.0,24.0,,,,,,,,,8,9,
-UBCV,2019,W,CLST,307,,OVERALL,Greek Law,,28,77.75,14.808968754,95.0,24.0,,,,,,,,,8,9,
-UBCV,2019,W,CLST,312,,001,Women in the Roman World of Republican and Imperial Times,Charmaine Gorrie,40,77.35,10.731095482999999,91.0,33.0,,,,,,,,8,12,8,
-UBCV,2019,W,CLST,312,,OVERALL,Women in the Roman World of Republican and Imperial Times,,40,77.35,10.731095482999999,91.0,33.0,,,,,,,,8,12,8,
-UBCV,2019,W,CLST,313,,001,Greek Epic,Carl Johnson,43,77.441860465,13.951109062999999,91.0,0.0,,,,,,,8,5,12,10,
-UBCV,2019,W,CLST,313,,OVERALL,Greek Epic,,43,77.441860465,13.951109062999999,91.0,0.0,,,,,,,8,5,12,10,
-UBCV,2019,W,CLST,317,,001,Classical Tragedy,Christopher Warren Marshall;Jelena Todorovic,28,75.678571429,7.013497946,86.0,61.0,,,,,,7,6,,,7,
-UBCV,2019,W,CLST,317,,OVERALL,Classical Tragedy,,28,75.678571429,7.013497946,86.0,61.0,,,,,,7,6,,,7,
-UBCV,2019,W,CLST,318,,001,Classical Comedy,Christopher Warren Marshall,20,64.7,20.596627215,90.0,0.0,,5,,,,,,,,,
-UBCV,2019,W,CLST,318,,OVERALL,Classical Comedy,,20,64.7,20.596627215,90.0,0.0,,5,,,,,,,,,
-UBCV,2019,W,CLST,320,,001,Slavery in the Ancient Greek and Roman World,Katharine Huemoeller,37,78.972972973,8.820703192,93.0,58.0,,,,,,,7,,7,10,
-UBCV,2019,W,CLST,320,,OVERALL,Slavery in the Ancient Greek and Roman World,,37,78.972972973,8.820703192,93.0,58.0,,,,,,,7,,7,10,
-UBCV,2019,W,CLST,329,,001,Ancient Greek Warfare,Anastasiya Bezryadina;Carl Johnson,52,76.75,7.838754903,90.0,60.0,,,,,,5,8,5,19,6,
-UBCV,2019,W,CLST,329,,OVERALL,Ancient Greek Warfare,,52,76.75,7.838754903,90.0,60.0,,,,,,5,8,5,19,6,
-UBCV,2019,W,CLST,331,,001,Greek Art and Architecture,Allison Marlyn;Kevin Fisher,37,72.648648649,8.02501719,87.0,57.0,,,,,5,,12,,6,,
-UBCV,2019,W,CLST,331,,OVERALL,Greek Art and Architecture,,37,72.648648649,8.02501719,87.0,57.0,,,,,5,,12,,6,,
-UBCV,2019,W,CLST,332,,001,Roman Art and Architecture,Amber Leenders;Katherine Ann Crawford;Katherine Crawford,42,69.0,10.324018881,87.0,47.0,,,,5,5,8,,,6,,
-UBCV,2019,W,CLST,332,,OVERALL,Roman Art and Architecture,,42,69.0,10.324018881,87.0,47.0,,,,5,5,8,,,6,,
-UBCV,2019,W,CLST,333,,001,Greek Religion,Robert Cousland,41,79.048780488,7.66143335,92.0,60.0,,,,,,,7,10,10,6,
-UBCV,2019,W,CLST,333,,OVERALL,Greek Religion,,41,79.048780488,7.66143335,92.0,60.0,,,,,,,7,10,10,6,
-UBCV,2019,W,CLST,353,,001,The Early Roman Empire,Katharine Huemoeller,35,74.285714286,11.137037912,94.0,52.0,,,,,,,,,7,6,
-UBCV,2019,W,CLST,353,,OVERALL,The Early Roman Empire,,35,74.285714286,11.137037912,94.0,52.0,,,,,,,,,7,6,
-UBCV,2019,W,CLST,355,,001,The Athenians and their Empire,Carl Johnson,6,84.333333333,5.573747991,91.0,77.0,,,,,,,,,,,
-UBCV,2019,W,CLST,355,,OVERALL,The Athenians and their Empire,,6,84.333333333,5.573747991,91.0,77.0,,,,,,,,,,,
-UBCV,2019,W,CLST,356,,001,Alexander the Great and his Empire,Carl Johnson;Franco De Angelis,14,85.785714286,5.686401748,96.0,77.0,,,,,,,,,,5,
-UBCV,2019,W,CLST,356,,OVERALL,Alexander the Great and his Empire,,14,85.785714286,5.686401748,96.0,77.0,,,,,,,,,,5,
-UBCV,2019,W,CLST,360,A,001,Life and Society in Classical Antiquity,Siobhan Mcelduff,41,81.097560976,4.684041407,90.0,67.0,,,,,,,,9,19,9,
-UBCV,2019,W,CLST,360,A,OVERALL,Life and Society in Classical Antiquity,,41,81.097560976,4.684041407,90.0,67.0,,,,,,,,9,19,9,
-UBCV,2019,W,CLST,402,C,001,Seminar in Classical Literature,Christopher Warren Marshall,11,75.454545455,14.320360585,99.0,50.0,,,,,,,,,,,
-UBCV,2019,W,CLST,402,C,OVERALL,Seminar in Classical Literature,,11,75.454545455,14.320360585,99.0,50.0,,,,,,,,,,,
-UBCV,2019,W,CLST,403,A,001,Seminar in Classical Art and Archaeology,Kevin Fisher,6,82.666666667,6.055300708,92.0,77.0,,,,,,,,,,,
-UBCV,2019,W,CLST,403,A,OVERALL,Seminar in Classical Art and Archaeology,,6,82.666666667,6.055300708,92.0,77.0,,,,,,,,,,,
-UBCV,2019,W,CLST,403,D,001,Seminar in Classical Art and Archaeology,Charmaine Gorrie;George Anthony Keddie;Gregg Gardner,7,85.285714286,4.680252333,88.0,75.0,,,,,,,,,,6,
-UBCV,2019,W,CLST,403,D,OVERALL,Seminar in Classical Art and Archaeology,,7,85.285714286,4.680252333,88.0,75.0,,,,,,,,,,6,
-UBCV,2019,W,CLST,518,B,001,Topics in Greek Art and Archaeology,Franco De Angelis,5,84.8,4.207136794,90.0,80.0,,,,,,,,,,,
-UBCV,2019,W,CLST,518,B,OVERALL,Topics in Greek Art and Archaeology,,5,84.8,4.207136794,90.0,80.0,,,,,,,,,,,
+UBCV,2019,W,CLST,105,,001,Greek and Roman Mythology,Benjamin Winnick;Matthew Naylor;Robert Cousland;Sarah Mark,132,74.01515152,17.2754889,97.0,0.0,9,4.0,4.0,6,5,8,20,23,21,15,17
+UBCV,2019,W,CLST,105,,002,Greek and Roman Mythology,Anna Reynolds;Benjamin Winnick;Florence Yoon;Matthew Hoskin;Ryan Daniel Schroeder;Ryan Schroeder,99,72.8989899,15.98819395,98.0,2.0,4,4.0,7.0,10,5,9,9,12,16,13,10
+UBCV,2019,W,CLST,105,,003,Greek and Roman Mythology,Allison Marlyn;Graham Butler;Graham William Butler;Michael Griffin;Ryan Johnson;Tara Mulder,133,76.96992481,13.50193019,94.0,5.0,4,2.0,5.0,2,5,8,20,16,33,27,11
+UBCV,2019,W,CLST,105,,004,Greek and Roman Mythology,Franco De Angelis;Lindsay Fraughton;Rivkah Gillian Glass;Rivkah Glass;Ryan Johnson,112,76.6875,10.83290886,96.0,19.0,1,1.0,2.0,4,10,15,18,15,18,17,11
+UBCV,2019,W,CLST,105,,OVERALL,Greek and Roman Mythology,,476,75.23739496,14.69766715,98.0,0.0,18,11.0,18.0,22,25,40,67,66,88,72,49
+UBCV,2019,W,CLST,110,,001,Golden Age of Athens,Arden Lorraine Williams;Arden Williams;Franco De Angelis,18,74.38888889,20.39936242,90.0,0.0,1,0.0,1.0,0,0,2,3,1,5,3,2
+UBCV,2019,W,CLST,110,,OVERALL,Golden Age of Athens,,18,74.38888889,20.39936242,90.0,0.0,1,0.0,1.0,0,0,2,3,1,5,3,2
+UBCV,2019,W,CLST,111,,001,Late Republican and Early Imperial Rome,Siobhan Mcelduff;Tara Mulder,22,89.0,16.49530958,98.0,27.0,1,0.0,1.0,0,0,0,0,0,0,3,17
+UBCV,2019,W,CLST,111,,OVERALL,Late Republican and Early Imperial Rome,,22,89.0,16.49530958,98.0,27.0,1,0.0,1.0,0,0,0,0,0,0,3,17
+UBCV,2019,W,CLST,211,,001,Greek Philosophy I,Michael Griffin,58,79.68965517,12.54075027,94.0,32.0,3,0.0,0.0,3,0,2,3,6,19,18,4
+UBCV,2019,W,CLST,211,,OVERALL,Greek Philosophy I,,58,79.68965517,12.54075027,94.0,32.0,3,0.0,0.0,3,0,2,3,6,19,18,4
+UBCV,2019,W,CLST,212,,001,Greek Philosophy II,Brooks Sommerville;Graham Butler;Graham William Butler;Lara-Sophie Boleslawsky;Michael Griffin,37,80.91891892,14.45948051,95.0,26.0,2,0.0,0.0,0,0,3,2,3,11,7,9
+UBCV,2019,W,CLST,212,,OVERALL,Greek Philosophy II,,37,80.91891892,14.45948051,95.0,26.0,2,0.0,0.0,0,0,3,2,3,11,7,9
+UBCV,2019,W,CLST,231,,001,Ancient Greece,Carl Johnson;Franco De Angelis,43,72.86046512,18.25817677,91.0,0.0,2,1.0,1.0,1,5,3,3,8,14,3,2
+UBCV,2019,W,CLST,231,,OVERALL,Ancient Greece,,43,72.86046512,18.25817677,91.0,0.0,2,1.0,1.0,1,5,3,3,8,14,3,2
+UBCV,2019,W,CLST,232,,001,Ancient Rome,Andrew Devanbu;Katharine Huemoeller,65,76.33846154,14.57231635,93.0,0.0,1,3.0,1.0,4,4,4,12,7,8,9,12
+UBCV,2019,W,CLST,232,,OVERALL,Ancient Rome,,65,76.33846154,14.57231635,93.0,0.0,1,3.0,1.0,4,4,4,12,7,8,9,12
+UBCV,2019,W,CLST,260,,001,"Gladiators, Games, and Spectacle in the Greek and Roman World",Charmaine Gorrie,35,76.51428571,13.22958233,91.0,36.0,2,0.0,1.0,1,2,4,2,4,9,6,4
+UBCV,2019,W,CLST,260,,OVERALL,"Gladiators, Games, and Spectacle in the Greek and Roman World",,35,76.51428571,13.22958233,91.0,36.0,2,0.0,1.0,1,2,4,2,4,9,6,4
+UBCV,2019,W,CLST,301,,001,The Technical Terms of Medicine and Biological Science,Alyssa Yong;Jayden Lloyd;Joseph Burkhart;Shelley Reid,237,75.89029536,17.43962317,98.0,7.0,21,8.0,8.0,12,8,15,13,25,39,26,62
+UBCV,2019,W,CLST,301,,002,The Technical Terms of Medicine and Biological Science,Alyssa Yong;Jayden Lloyd;Joseph Burkhart;Shelley Reid,149,83.0,11.31550001,99.0,51.0,0,2.0,6.0,4,5,5,10,8,23,38,48
+UBCV,2019,W,CLST,301,,99A,The Technical Terms of Medicine and Biological Science,Alyssa Yong;Jayden Lloyd;Joseph Burkhart;Shelley Reid,62,80.48387097,12.79054714,97.0,37.0,4,0.0,0.0,2,3,2,6,6,7,17,15
+UBCV,2019,W,CLST,301,,99C,The Technical Terms of Medicine and Biological Science,Alyssa Yong;Jayden Lloyd;Joseph Burkhart;Shelley Reid,62,84.62903226,9.576668833,96.0,46.0,1,0.0,0.0,1,2,4,1,5,9,16,23
+UBCV,2019,W,CLST,301,,OVERALL,The Technical Terms of Medicine and Biological Science,,510,79.58823529,14.89330287,99.0,7.0,26,10.0,14.0,19,18,26,30,44,78,97,148
+UBCV,2019,W,CLST,306,,001,Ancient Technology: Greece and Rome,Mark Locicero;Matthew Mccarty,54,77.81481482,9.711059779,98.0,60.0,0,0.0,0.0,5,5,8,2,10,6,12,6
+UBCV,2019,W,CLST,306,,OVERALL,Ancient Technology: Greece and Rome,,54,77.81481482,9.711059779,98.0,60.0,0,0.0,0.0,5,5,8,2,10,6,12,6
+UBCV,2019,W,CLST,307,,001,Greek Law,Christopher Warren Marshall;Jelena Todorovic,28,77.75,14.80896875,95.0,24.0,1,2.0,0.0,1,0,1,3,1,8,9,2
+UBCV,2019,W,CLST,307,,OVERALL,Greek Law,,28,77.75,14.80896875,95.0,24.0,1,2.0,0.0,1,0,1,3,1,8,9,2
+UBCV,2019,W,CLST,312,,001,Women in the Roman World of Republican and Imperial Times,Charmaine Gorrie,40,77.35,10.73109548,91.0,33.0,1,1.0,0.0,1,2,3,3,8,12,8,1
+UBCV,2019,W,CLST,312,,OVERALL,Women in the Roman World of Republican and Imperial Times,,40,77.35,10.73109548,91.0,33.0,1,1.0,0.0,1,2,3,3,8,12,8,1
+UBCV,2019,W,CLST,313,,001,Greek Epic,Carl Johnson,43,77.44186047,13.95110906,91.0,0.0,1,0.0,1.0,0,1,3,8,5,12,10,2
+UBCV,2019,W,CLST,313,,OVERALL,Greek Epic,,43,77.44186047,13.95110906,91.0,0.0,1,0.0,1.0,0,1,3,8,5,12,10,2
+UBCV,2019,W,CLST,317,,001,Classical Tragedy,Christopher Warren Marshall;Jelena Todorovic,28,75.67857143,7.013497946,86.0,61.0,0,0.0,0.0,1,1,7,6,4,2,7,0
+UBCV,2019,W,CLST,317,,OVERALL,Classical Tragedy,,28,75.67857143,7.013497946,86.0,61.0,0,0.0,0.0,1,1,7,6,4,2,7,0
+UBCV,2019,W,CLST,318,,001,Classical Comedy,Christopher Warren Marshall,20,64.7,20.59662722,90.0,0.0,1,5.0,2.0,1,2,0,0,3,3,2,1
+UBCV,2019,W,CLST,318,,OVERALL,Classical Comedy,,20,64.7,20.59662722,90.0,0.0,1,5.0,2.0,1,2,0,0,3,3,2,1
+UBCV,2019,W,CLST,320,,001,Slavery in the Ancient Greek and Roman World,Katharine Huemoeller,37,78.97297297,8.820703192,93.0,58.0,0,0.0,1.0,2,1,2,7,4,7,10,3
+UBCV,2019,W,CLST,320,,OVERALL,Slavery in the Ancient Greek and Roman World,,37,78.97297297,8.820703192,93.0,58.0,0,0.0,1.0,2,1,2,7,4,7,10,3
+UBCV,2019,W,CLST,329,,001,Ancient Greek Warfare,Anastasiya Bezryadina;Carl Johnson,52,76.75,7.838754903,90.0,60.0,0,0.0,0.0,4,4,5,8,5,19,6,1
+UBCV,2019,W,CLST,329,,OVERALL,Ancient Greek Warfare,,52,76.75,7.838754903,90.0,60.0,0,0.0,0.0,4,4,5,8,5,19,6,1
+UBCV,2019,W,CLST,331,,001,Greek Art and Architecture,Allison Marlyn;Kevin Fisher,37,72.64864865,8.02501719,87.0,57.0,0,0.0,2.0,4,5,3,12,2,6,3,0
+UBCV,2019,W,CLST,331,,OVERALL,Greek Art and Architecture,,37,72.64864865,8.02501719,87.0,57.0,0,0.0,2.0,4,5,3,12,2,6,3,0
+UBCV,2019,W,CLST,332,,001,Roman Art and Architecture,Amber Leenders;Katherine Ann Crawford;Katherine Crawford,42,69.0,10.32401888,87.0,47.0,1,3.0,4.0,5,5,8,4,4,6,2,0
+UBCV,2019,W,CLST,332,,OVERALL,Roman Art and Architecture,,42,69.0,10.32401888,87.0,47.0,1,3.0,4.0,5,5,8,4,4,6,2,0
+UBCV,2019,W,CLST,333,,001,Greek Religion,Robert Cousland,41,79.04878049,7.66143335,92.0,60.0,0,0.0,0.0,2,2,1,7,10,10,6,3
+UBCV,2019,W,CLST,333,,OVERALL,Greek Religion,,41,79.04878049,7.66143335,92.0,60.0,0,0.0,0.0,2,2,1,7,10,10,6,3
+UBCV,2019,W,CLST,353,,001,The Early Roman Empire,Katharine Huemoeller,35,74.28571429,11.13703791,94.0,52.0,0,1.0,4.0,2,3,4,2,4,7,6,2
+UBCV,2019,W,CLST,353,,OVERALL,The Early Roman Empire,,35,74.28571429,11.13703791,94.0,52.0,0,1.0,4.0,2,3,4,2,4,7,6,2
+UBCV,2019,W,CLST,355,,001,The Athenians and their Empire,Carl Johnson,6,84.33333333,5.573747991,91.0,77.0,0,0.0,0.0,0,0,0,0,1,2,1,2
+UBCV,2019,W,CLST,355,,OVERALL,The Athenians and their Empire,,6,84.33333333,5.573747991,91.0,77.0,0,0.0,0.0,0,0,0,0,1,2,1,2
+UBCV,2019,W,CLST,356,,001,Alexander the Great and his Empire,Carl Johnson;Franco De Angelis,14,85.78571429,5.686401748,96.0,77.0,0,0.0,0.0,0,0,0,0,2,4,5,3
+UBCV,2019,W,CLST,356,,OVERALL,Alexander the Great and his Empire,,14,85.78571429,5.686401748,96.0,77.0,0,0.0,0.0,0,0,0,0,2,4,5,3
+UBCV,2019,W,CLST,360,A,001,Life and Society in Classical Antiquity,Siobhan Mcelduff,41,81.09756098,4.684041407,90.0,67.0,0,0.0,0.0,0,1,1,1,9,19,9,1
+UBCV,2019,W,CLST,360,A,OVERALL,Life and Society in Classical Antiquity,,41,81.09756098,4.684041407,90.0,67.0,0,0.0,0.0,0,1,1,1,9,19,9,1
+UBCV,2019,W,CLST,402,C,001,Seminar in Classical Literature,Christopher Warren Marshall,11,75.45454546,14.32036059,99.0,50.0,0,1.0,0.0,2,0,1,2,1,0,2,2
+UBCV,2019,W,CLST,402,C,OVERALL,Seminar in Classical Literature,,11,75.45454546,14.32036059,99.0,50.0,0,1.0,0.0,2,0,1,2,1,0,2,2
+UBCV,2019,W,CLST,403,A,001,Seminar in Classical Art and Archaeology,Kevin Fisher,6,82.66666667,6.055300708,92.0,77.0,0,0.0,0.0,0,0,0,0,3,1,1,1
+UBCV,2019,W,CLST,403,A,OVERALL,Seminar in Classical Art and Archaeology,,6,82.66666667,6.055300708,92.0,77.0,0,0.0,0.0,0,0,0,0,3,1,1,1
+UBCV,2019,W,CLST,403,D,001,Seminar in Classical Art and Archaeology,Charmaine Gorrie;George Anthony Keddie;Gregg Gardner,7,85.28571429,4.680252333,88.0,75.0,0,0.0,0.0,0,0,0,1,0,0,6,0
+UBCV,2019,W,CLST,403,D,OVERALL,Seminar in Classical Art and Archaeology,,7,85.28571429,4.680252333,88.0,75.0,0,0.0,0.0,0,0,0,1,0,0,6,0

@@ -1,23 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2016,W,THTR,101,,001,Acting I: Improvisation - The Body in Performance,Neil Cadger,21,76.523809524,19.37683939,92.0,0.0,,,,,,,,,4,3,
-UBCO,2016,W,THTR,101,,002,Acting I: Improvisation - The Body in Performance,Denise Kenney,22,78.590909091,8.116174861000001,88.0,56.0,,,,,,,,,9,5,
-UBCO,2016,W,THTR,101,,OVERALL,Acting I: Improvisation - The Body in Performance,,43,77.58139534899999,14.588372014,92.0,0.0,,,,,,,6,,13,8,
-UBCO,2016,W,THTR,102,,001,The Actor's Process I,Corrine Derickson;Virginie Magnat,20,85.45,8.970565903999999,90.0,60.0,,,,,,,,,,10,7
-UBCO,2016,W,THTR,102,,OVERALL,The Actor's Process I,,20,85.45,8.970565903999999,90.0,60.0,,,,,,,,,,10,7
-UBCO,2016,W,THTR,103,,001,Acting for Stage and Screen,Robert Ornellas,21,92.714285714,5.001428367,99.0,83.0,,,,,,,,,3,,15
-UBCO,2016,W,THTR,103,,101,Acting for Stage and Screen,Denise Kenney,24,77.5,7.824154351000001,87.0,53.0,,,,,,,,,8,,0
-UBCO,2016,W,THTR,103,,OVERALL,Acting for Stage and Screen,,45,84.6,10.11389683,99.0,53.0,,,,,,,,,11,7,15
-UBCO,2016,W,THTR,111,,001,Introduction to Theatre and World Performance Traditions,Virginie Magnat,15,86.666666667,13.398649541,98.0,52.0,,,,,,,,,,,10
-UBCO,2016,W,THTR,111,,OVERALL,Introduction to Theatre and World Performance Traditions,,15,86.666666667,13.398649541,98.0,52.0,,,,,,,,,,,10
-UBCO,2016,W,THTR,202,,001,The Actor's Process II,Virginie Magnat,7,90.0,9.055385138,98.0,73.0,,,,,,,,,,,
-UBCO,2016,W,THTR,202,,OVERALL,The Actor's Process II,,7,90.0,9.055385138,98.0,73.0,,,,,,,,,,,
-UBCO,2016,W,THTR,280,A,001,Devised Public Performance,Jennifer Furlong;Jennifer Kathleen Furlong;Neil Cadger,9,83.666666667,3.8078865530000003,91.0,80.0,,,,,,,,,7,,
-UBCO,2016,W,THTR,280,A,OVERALL,Devised Public Performance,,9,83.666666667,3.8078865530000003,91.0,80.0,,,,,,,,,7,,
-UBCO,2016,W,THTR,303,,001,Narrative Film Production,Denise Kenney,9,81.444444444,7.535103037000001,86.0,62.0,,,,,,,,,5,,
-UBCO,2016,W,THTR,303,,OVERALL,Narrative Film Production,,9,81.444444444,7.535103037000001,86.0,62.0,,,,,,,,,5,,
-UBCO,2016,W,THTR,401,,001,Live Art/New Media,Michael Smith,5,79.4,6.804410334,89.0,70.0,,,,,,,,,,,
-UBCO,2016,W,THTR,401,,OVERALL,Live Art/New Media,,5,79.4,6.804410334,89.0,70.0,,,,,,,,,,,
-UBCO,2016,W,THTR,482,,001,Advanced Performance Practices I,Neil Cadger,6,76.333333333,10.57670396,87.0,57.0,,,,,,,,,,,
-UBCO,2016,W,THTR,482,,OVERALL,Advanced Performance Practices I,,6,76.333333333,10.57670396,87.0,57.0,,,,,,,,,,,
-UBCO,2016,W,THTR,483,,001,Advanced Performance Practices II,Neil Cadger,5,86.0,7.314369419,92.0,75.0,,,,,,,,,,,
-UBCO,2016,W,THTR,483,,OVERALL,Advanced Performance Practices II,,5,86.0,7.314369419,92.0,75.0,,,,,,,,,,,
+UBCO,2016,W,THTR,101,,001,Acting I: Improvisation - The Body in Performance,Neil Cadger,21,76.52380952,19.37683939,92.0,0.0,1,0.0,0,0,2.0,1,3,3,4,3,4
+UBCO,2016,W,THTR,101,,002,Acting I: Improvisation - The Body in Performance,Denise Kenney,22,78.59090909,8.116174861,88.0,56.0,0,0.0,1,1,0.0,2,3,1,9,5,0
+UBCO,2016,W,THTR,101,,OVERALL,Acting I: Improvisation - The Body in Performance,,43,77.58139535,14.58837201,92.0,0.0,1,0.0,1,1,2.0,3,6,4,13,8,4
+UBCO,2016,W,THTR,102,,001,The Actor's Process I,Corrine Derickson;Virginie Magnat,20,85.45,8.970565904,90.0,60.0,0,0.0,0,1,1.0,0,1,0,0,10,7
+UBCO,2016,W,THTR,102,,OVERALL,The Actor's Process I,,20,85.45,8.970565904,90.0,60.0,0,0.0,0,1,1.0,0,1,0,0,10,7
+UBCO,2016,W,THTR,103,,001,Acting for Stage and Screen,Robert Ornellas,21,92.71428571,5.001428367,99.0,83.0,0,0.0,0,0,0.0,0,0,0,3,3,15
+UBCO,2016,W,THTR,103,,101,Acting for Stage and Screen,Denise Kenney,24,77.5,7.824154351,87.0,53.0,0,1.0,0,0,1.0,2,4,4,8,4,0
+UBCO,2016,W,THTR,103,,OVERALL,Acting for Stage and Screen,,45,84.6,10.11389683,99.0,53.0,0,1.0,0,0,1.0,2,4,4,11,7,15
+UBCO,2016,W,THTR,111,,001,Introduction to Theatre and World Performance Traditions,Virginie Magnat,15,86.66666667,13.39864954,98.0,52.0,0,1.0,0,0,1.0,0,1,1,0,1,10
+UBCO,2016,W,THTR,111,,OVERALL,Introduction to Theatre and World Performance Traditions,,15,86.66666667,13.39864954,98.0,52.0,0,1.0,0,0,1.0,0,1,1,0,1,10
+UBCO,2016,W,THTR,202,,001,The Actor's Process II,Virginie Magnat,7,90.0,9.055385138,98.0,73.0,0,0.0,0,0,0.0,0,1,0,0,2,4
+UBCO,2016,W,THTR,202,,OVERALL,The Actor's Process II,,7,90.0,9.055385138,98.0,73.0,0,0.0,0,0,0.0,0,1,0,0,2,4
+UBCO,2016,W,THTR,280,A,001,Devised Public Performance,Jennifer Furlong;Jennifer Kathleen Furlong;Neil Cadger,9,83.66666667,3.807886553,91.0,80.0,0,0.0,0,0,0.0,0,0,0,7,1,1
+UBCO,2016,W,THTR,280,A,OVERALL,Devised Public Performance,,9,83.66666667,3.807886553,91.0,80.0,0,0.0,0,0,0.0,0,0,0,7,1,1
+UBCO,2016,W,THTR,303,,001,Narrative Film Production,Denise Kenney,9,81.44444444,7.535103037,86.0,62.0,0,0.0,0,1,0.0,0,0,0,5,3,0
+UBCO,2016,W,THTR,303,,OVERALL,Narrative Film Production,,9,81.44444444,7.535103037,86.0,62.0,0,0.0,0,1,0.0,0,0,0,5,3,0
+UBCO,2016,W,THTR,482,,001,Advanced Performance Practices I,Neil Cadger,6,76.33333333,10.57670396,87.0,57.0,0,0.0,1,0,0.0,0,1,1,2,1,0
+UBCO,2016,W,THTR,482,,OVERALL,Advanced Performance Practices I,,6,76.33333333,10.57670396,87.0,57.0,0,0.0,1,0,0.0,0,1,1,2,1,0

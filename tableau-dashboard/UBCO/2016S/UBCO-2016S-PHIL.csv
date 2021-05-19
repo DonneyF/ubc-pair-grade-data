@@ -1,9 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2016,S,PHIL,111,,001,Introduction to Philosophy I,David Boutillier,34,69.588235294,24.217596466,92.0,0.0,,,,,,,,,6,,
-UBCO,2016,S,PHIL,111,,OVERALL,Introduction to Philosophy I,,34,69.588235294,24.217596466,92.0,0.0,,,,,,,,,6,,
-UBCO,2016,S,PHIL,120,,001,Introduction to Logic and Critical Thinking,David Boutillier,23,70.347826087,19.058781549000003,91.0,0.0,,,,,,,,,,,
-UBCO,2016,S,PHIL,120,,OVERALL,Introduction to Logic and Critical Thinking,,23,70.347826087,19.058781549000003,91.0,0.0,,,,,,,,,,,
-UBCO,2016,S,PHIL,233,,001,Biomedical Ethics,Ruth Lowe-Walker,24,81.041666667,8.594635165,93.0,62.0,,,,,,,,,,12,
-UBCO,2016,S,PHIL,233,,OVERALL,Biomedical Ethics,,24,81.041666667,8.594635165,93.0,62.0,,,,,,,,,,12,
-UBCO,2016,S,PHIL,338,,001,Philosophy of Law,Roger Shiner,33,74.363636364,9.759028454,86.0,50.0,,,,,,,7,6,6,6,
-UBCO,2016,S,PHIL,338,,OVERALL,Philosophy of Law,,33,74.363636364,9.759028454,86.0,50.0,,,,,,,7,6,6,6,
+UBCO,2016,S,PHIL,111,,001,Introduction to Philosophy I,David Boutillier,34,69.58823529,24.21759647,92.0,0.0,3,0.0,3,1,4,3,2.0,4,6,4,4
+UBCO,2016,S,PHIL,111,,OVERALL,Introduction to Philosophy I,,34,69.58823529,24.21759647,92.0,0.0,3,0.0,3,1,4,3,2.0,4,6,4,4
+UBCO,2016,S,PHIL,120,,001,Introduction to Logic and Critical Thinking,David Boutillier,23,70.34782609,19.05878155,91.0,0.0,2,0.0,1,3,2,2,2.0,3,4,3,1
+UBCO,2016,S,PHIL,120,,OVERALL,Introduction to Logic and Critical Thinking,,23,70.34782609,19.05878155,91.0,0.0,2,0.0,1,3,2,2,2.0,3,4,3,1
+UBCO,2016,S,PHIL,233,,001,Biomedical Ethics,Ruth Lowe-Walker,24,81.04166667,8.594635165,93.0,62.0,0,0.0,0,2,1,1,0.0,4,3,12,1
+UBCO,2016,S,PHIL,233,,OVERALL,Biomedical Ethics,,24,81.04166667,8.594635165,93.0,62.0,0,0.0,0,2,1,1,0.0,4,3,12,1
+UBCO,2016,S,PHIL,338,,001,Philosophy of Law,Roger Shiner,33,74.36363636,9.759028454,86.0,50.0,0,1.0,2,3,1,1,7.0,6,6,6,0
+UBCO,2016,S,PHIL,338,,OVERALL,Philosophy of Law,,33,74.36363636,9.759028454,86.0,50.0,0,1.0,2,3,1,1,7.0,6,6,6,0

@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,FREN,101,,921,Beginners' French I,Chantal Phan,29,69.965517241,11.651127348,92.0,50.0,,,,,,,,,,,
-UBCV,2016,S,FREN,101,,OVERALL,Beginners' French I,,29,69.965517241,11.651127348,92.0,50.0,,,,,,,,,,,
-UBCV,2016,S,FREN,102,,921,Beginners' French II,Juliet O'Brien,30,77.333333333,10.923979739000002,93.0,50.0,,,,,,,,7,,7,
-UBCV,2016,S,FREN,102,,OVERALL,Beginners' French II,,30,77.333333333,10.923979739000002,93.0,50.0,,,,,,,,7,,7,
-UBCV,2016,S,FREN,111,,921,Intermediate French I,William Winder,27,72.555555556,15.76103602,94.0,10.0,,,,,,3,,,7,,
-UBCV,2016,S,FREN,111,,922,Intermediate French I,Laurence Gauvreau,28,70.928571429,11.648966164,92.0,46.0,,,,,,5,,,5,,
-UBCV,2016,S,FREN,111,,OVERALL,Intermediate French I,,55,71.727272727,13.715974122,94.0,10.0,,,,7,,8,6,5,12,,
-UBCV,2016,S,FREN,112,,921,Intermediate French II,Sylvia Bascou Vallarino,25,74.48,8.119523796000001,86.0,54.0,,,,,,,3,7,5,,
-UBCV,2016,S,FREN,112,,922,Intermediate French II,Stephanie Palisse,34,70.735294118,16.498500985,91.0,0.0,,,,,,,8,1,5,,
-UBCV,2016,S,FREN,112,,OVERALL,Intermediate French II,,59,72.322033898,13.62482607,91.0,0.0,,,,,,7,11,8,10,6,
-UBCV,2016,S,FREN,329,,930,Selected Works of European French Literature,Joel Castonguay-Belanger,10,87.3,6.532823109,94.0,74.0,,,,,,,,,,,5
-UBCV,2016,S,FREN,329,,OVERALL,Selected Works of European French Literature,,10,87.3,6.532823109,94.0,74.0,,,,,,,,,,,5
-UBCV,2016,S,FREN,420,D,921,Selected Topics in French Literature and Culture,Richard Hodgson,18,71.555555556,18.598615452,87.0,8.0,,,,,,,,,6,,
-UBCV,2016,S,FREN,420,D,OVERALL,Selected Topics in French Literature and Culture,,18,71.555555556,18.598615452,87.0,8.0,,,,,,,,,6,,
+UBCV,2016,S,FREN,101,,921,Beginners' French I,Chantal Phan,29,69.96551724,11.65112735,92.0,50.0,0,3,2.0,2.0,4,4,2,4,4,1,2
+UBCV,2016,S,FREN,101,,OVERALL,Beginners' French I,,29,69.96551724,11.65112735,92.0,50.0,0,3,2.0,2.0,4,4,2,4,4,1,2
+UBCV,2016,S,FREN,102,,921,Beginners' French II,Juliet O'Brien,30,77.33333333,10.92397974,93.0,50.0,0,1,2.0,1.0,2,1,4,7,2,7,3
+UBCV,2016,S,FREN,102,,OVERALL,Beginners' French II,,30,77.33333333,10.92397974,93.0,50.0,0,1,2.0,1.0,2,1,4,7,2,7,3
+UBCV,2016,S,FREN,111,,921,Intermediate French I,William Winder,27,72.55555556,15.76103602,94.0,10.0,1,0,1.0,3.0,2,3,3,4,7,0,3
+UBCV,2016,S,FREN,111,,922,Intermediate French I,Laurence Gauvreau,28,70.92857143,11.64896616,92.0,46.0,1,1,2.0,4.0,2,5,3,1,5,3,1
+UBCV,2016,S,FREN,111,,OVERALL,Intermediate French I,,55,71.72727273,13.71597412,94.0,10.0,2,1,3.0,7.0,4,8,6,5,12,3,4
+UBCV,2016,S,FREN,112,,921,Intermediate French II,Sylvia Bascou Vallarino,25,74.48,8.119523796,86.0,54.0,0,1,0.0,2.0,2,3,3,7,5,2,0
+UBCV,2016,S,FREN,112,,922,Intermediate French II,Stephanie Palisse,34,70.73529412,16.49850099,91.0,0.0,1,1,4.0,2.0,2,4,8,1,5,4,2
+UBCV,2016,S,FREN,112,,OVERALL,Intermediate French II,,59,72.3220339,13.62482607,91.0,0.0,1,2,4.0,4.0,4,7,11,8,10,6,2
+UBCV,2016,S,FREN,329,,930,Selected Works of European French Literature,Joel Castonguay-Belanger,10,87.3,6.532823109,94.0,74.0,0,0,0.0,0.0,0,0,1,1,1,2,5
+UBCV,2016,S,FREN,329,,OVERALL,Selected Works of European French Literature,,10,87.3,6.532823109,94.0,74.0,0,0,0.0,0.0,0,0,1,1,1,2,5
+UBCV,2016,S,FREN,420,D,921,Selected Topics in French Literature and Culture,Richard Hodgson,18,71.55555556,18.59861545,87.0,8.0,1,1,1.0,0.0,1,1,3,3,6,1,0
+UBCV,2016,S,FREN,420,D,OVERALL,Selected Topics in French Literature and Culture,,18,71.55555556,18.59861545,87.0,8.0,1,1,1.0,0.0,1,1,3,3,6,1,0

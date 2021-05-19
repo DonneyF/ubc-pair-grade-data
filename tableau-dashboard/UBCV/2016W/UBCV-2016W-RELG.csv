@@ -1,21 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,RELG,101,,001,"Introduction to the Western (Abrahamic) Religions: Judaism, Christianity, and Islam",Gregg Gardner;Katharina Hurworth,92,72.119565217,8.703722068,92.0,37.0,,,5,5,14,19,15,13,13,6,
-UBCV,2016,W,RELG,101,,OVERALL,"Introduction to the Western (Abrahamic) Religions: Judaism, Christianity, and Islam",,92,72.119565217,8.703722068,92.0,37.0,,,5,5,14,19,15,13,13,6,
-UBCV,2016,W,RELG,201,,001,Near Eastern and Biblical Mythology,Ryan Daniel Schroeder;Ryan Schroeder;Sara Milstein,67,79.343283582,9.584634545,94.0,49.0,,,,1,2,5,7,12,17,12,8
-UBCV,2016,W,RELG,201,,002,Near Eastern and Biblical Mythology,Gordan G.D. Djurdjevic;Leesha Cessna,49,70.530612245,9.276093917999999,85.0,25.0,,,,5,9,8,11,9,3,2,0
-UBCV,2016,W,RELG,201,,OVERALL,Near Eastern and Biblical Mythology,,116,75.620689655,10.380295022,94.0,25.0,,,,6,11,13,18,21,20,14,8
-UBCV,2016,W,RELG,203,,001,Scriptures of the Near East,Brook Pearson;Ryan Daniel Schroeder;Ryan Schroeder;Youcef Soufi,56,73.178571429,14.393315548,93.0,0.0,,,1,5,3,8,9,8,6,10,
-UBCV,2016,W,RELG,203,,002,Scriptures of the Near East,Brook Pearson,65,70.90769230800001,10.146925453,87.0,43.0,,,6,4,8,8,11,10,10,4,
-UBCV,2016,W,RELG,203,,OVERALL,Scriptures of the Near East,,121,71.958677686,12.29457651,93.0,0.0,,,7,9,11,16,20,18,16,14,
-UBCV,2016,W,RELG,207,,001,Classical Islam,Youcef Soufi,33,72.03030303,18.483920121,91.0,0.0,,,,,,,8,5,,,
-UBCV,2016,W,RELG,207,,OVERALL,Classical Islam,,33,72.03030303,18.483920121,91.0,0.0,,,,,,,8,5,,,
-UBCV,2016,W,RELG,208,,001,Modern Islam,Youcef Soufi,41,75.975609756,10.410302121,93.0,40.0,,,,,,,12,5,9,5,
-UBCV,2016,W,RELG,208,,OVERALL,Modern Islam,,41,75.975609756,10.410302121,93.0,40.0,,,,,,,12,5,9,5,
-UBCV,2016,W,RELG,306,,002,Archaeology and the Bible,Gregg Gardner,36,75.611111111,18.130129269,97.0,0.0,,,,,,,5,5,7,5,5
-UBCV,2016,W,RELG,306,,OVERALL,Archaeology and the Bible,,36,75.611111111,18.130129269,97.0,0.0,,,,,,,5,5,7,5,5
-UBCV,2016,W,RELG,307,,001,"Sex, Lies, and Violence in the Hebrew Bible",Sara Milstein;Shoshana Hereld,63,79.73015873,13.053495822999999,96.0,0.0,,,,,,,,15,14,16,7
-UBCV,2016,W,RELG,307,,OVERALL,"Sex, Lies, and Violence in the Hebrew Bible",,63,79.73015873,13.053495822999999,96.0,0.0,,,,,,,,15,14,16,7
-UBCV,2016,W,RELG,414,,001,The Gospels and the Historical Jesus,Robert Cousland,21,75.19047619,8.292279829,89.0,50.0,,,,,,,6,,,,
-UBCV,2016,W,RELG,414,,OVERALL,The Gospels and the Historical Jesus,,21,75.19047619,8.292279829,89.0,50.0,,,,,,,6,,,,
-UBCV,2016,W,RELG,480,A,001,Women and Religion,Youcef Soufi,11,78.454545455,8.801859308,90.0,60.0,,,,,,,,,,,
-UBCV,2016,W,RELG,480,A,OVERALL,Women and Religion,,11,78.454545455,8.801859308,90.0,60.0,,,,,,,,,,,
+UBCV,2016,W,RELG,101,,001,"Introduction to the Western (Abrahamic) Religions: Judaism, Christianity, and Islam",Gregg Gardner;Katharina Hurworth,92,72.11956522,8.703722068,92.0,37.0,1,0.0,5,5,14.0,19,15,13,13,6,1
+UBCV,2016,W,RELG,101,,OVERALL,"Introduction to the Western (Abrahamic) Religions: Judaism, Christianity, and Islam",,92,72.11956522,8.703722068,92.0,37.0,1,0.0,5,5,14.0,19,15,13,13,6,1
+UBCV,2016,W,RELG,201,,001,Near Eastern and Biblical Mythology,Ryan Daniel Schroeder;Ryan Schroeder;Sara Milstein,67,79.34328358,9.584634545,94.0,49.0,2,0.0,1,1,2.0,5,7,12,17,12,8
+UBCV,2016,W,RELG,201,,002,Near Eastern and Biblical Mythology,Gordan G.D. Djurdjevic;Leesha Cessna,49,70.53061225,9.276093918,85.0,25.0,1,0.0,1,5,9.0,8,11,9,3,2,0
+UBCV,2016,W,RELG,201,,OVERALL,Near Eastern and Biblical Mythology,,116,75.62068966,10.38029502,94.0,25.0,3,0.0,2,6,11.0,13,18,21,20,14,8
+UBCV,2016,W,RELG,203,,001,Scriptures of the Near East,Brook Pearson;Ryan Daniel Schroeder;Ryan Schroeder;Youcef Soufi,56,73.17857143,14.39331555,93.0,0.0,1,3.0,1,5,3.0,8,9,8,6,10,2
+UBCV,2016,W,RELG,203,,002,Scriptures of the Near East,Brook Pearson,65,70.90769231,10.14692545,87.0,43.0,3,1.0,6,4,8.0,8,11,10,10,4,0
+UBCV,2016,W,RELG,203,,OVERALL,Scriptures of the Near East,,121,71.95867769,12.29457651,93.0,0.0,4,4.0,7,9,11.0,16,20,18,16,14,2
+UBCV,2016,W,RELG,207,,001,Classical Islam,Youcef Soufi,33,72.03030303,18.48392012,91.0,0.0,2,0.0,0,1,4.0,3,8,5,4,4,2
+UBCV,2016,W,RELG,207,,OVERALL,Classical Islam,,33,72.03030303,18.48392012,91.0,0.0,2,0.0,0,1,4.0,3,8,5,4,4,2
+UBCV,2016,W,RELG,208,,001,Modern Islam,Youcef Soufi,41,75.97560976,10.41030212,93.0,40.0,2,0.0,0,1,1.0,4,12,5,9,5,2
+UBCV,2016,W,RELG,208,,OVERALL,Modern Islam,,41,75.97560976,10.41030212,93.0,40.0,2,0.0,0,1,1.0,4,12,5,9,5,2
+UBCV,2016,W,RELG,306,,002,Archaeology and the Bible,Gregg Gardner,36,75.61111111,18.13012927,97.0,0.0,2,0.0,1,3,0.0,3,5,5,7,5,5
+UBCV,2016,W,RELG,306,,OVERALL,Archaeology and the Bible,,36,75.61111111,18.13012927,97.0,0.0,2,0.0,1,3,0.0,3,5,5,7,5,5
+UBCV,2016,W,RELG,307,,001,"Sex, Lies, and Violence in the Hebrew Bible",Sara Milstein;Shoshana Hereld,63,79.73015873,13.05349582,96.0,0.0,1,0.0,2,1,0.0,3,4,15,14,16,7
+UBCV,2016,W,RELG,307,,OVERALL,"Sex, Lies, and Violence in the Hebrew Bible",,63,79.73015873,13.05349582,96.0,0.0,1,0.0,2,1,0.0,3,4,15,14,16,7
+UBCV,2016,W,RELG,414,,001,The Gospels and the Historical Jesus,Robert Cousland,21,75.19047619,8.292279829,89.0,50.0,0,1.0,0,0,1.0,3,6,4,4,2,0
+UBCV,2016,W,RELG,414,,OVERALL,The Gospels and the Historical Jesus,,21,75.19047619,8.292279829,89.0,50.0,0,1.0,0,0,1.0,3,6,4,4,2,0
+UBCV,2016,W,RELG,480,A,001,Women and Religion,Youcef Soufi,11,78.45454546,8.801859308,90.0,60.0,0,0.0,0,1,0.0,1,2,2,2,1,2
+UBCV,2016,W,RELG,480,A,OVERALL,Women and Religion,,11,78.45454546,8.801859308,90.0,60.0,0,0.0,0,1,0.0,1,2,2,2,1,2

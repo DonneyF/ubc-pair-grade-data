@@ -1,593 +1,587 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,COMM,100,,201,Introduction to Business,Heri Paluku;Sum Kiu Phoebe Liu;Zorana Svedic,202,72.207920792,12.853028240999999,90.0,0.0,9,6,5,11,19,20,40,40,30,19,3.0
-UBCV,2017,W,COMM,100,,OVERALL,Introduction to Business,,202,72.207920792,12.853028240999999,90.0,0.0,9,6,5,11,19,20,40,40,30,19,3.0
-UBCV,2017,W,COMM,101,,101,Business Fundamentals,Darrell Kopke;Elicia Salzberg;Jeff Kroeker;Paul Cubbon;Zorana Svedic,115,71.608695652,9.180161345,86.0,22.0,,,7,8,15,13,24,29,14,,
-UBCV,2017,W,COMM,101,,102,Business Fundamentals,Darrell Kopke;Elicia Salzberg;Jeff Kroeker;Paul Cubbon;Zorana Svedic,113,74.82300885,6.835085547,86.0,42.0,,,,,10,14,23,36,22,,
-UBCV,2017,W,COMM,101,,103,Business Fundamentals,Ann Stone;Elicia Salzberg,120,73.858333333,5.921469033999999,85.0,56.0,,,,5,7,19,32,39,13,,
-UBCV,2017,W,COMM,101,,104,Business Fundamentals,Ann Stone;Elicia Salzberg,111,73.162162162,9.513187536,86.0,32.0,,,,,5,18,24,31,18,,
-UBCV,2017,W,COMM,101,,105,Business Fundamentals,Ann Stone;Elicia Salzberg,108,72.111111111,6.985075322,85.0,46.0,,,,8,14,15,24,34,7,,
-UBCV,2017,W,COMM,101,,106,Business Fundamentals,Conor Topley;Darrell Kopke;Elicia Salzberg;Zorana Svedic,99,72.616161616,6.369101226000001,85.0,56.0,,,,6,16,14,22,27,10,,
-UBCV,2017,W,COMM,101,,OVERALL,Business Fundamentals,,666,73.04954955,7.653331366000001,86.0,22.0,9,,19,31,67,93,149,196,84,14,
-UBCV,2017,W,COMM,120,,DD1,Business Immersion,Alexandra Brie Riley;Alexandra Riley;Elicia Salzberg;Tamar Milne,55,76.163636364,5.116290744,86.0,58.0,,,,,,,15,15,17,,
-UBCV,2017,W,COMM,120,,DD2,Business Immersion,Alexandra Brie Riley;Alexandra Riley;Tamar Milne,17,79.11764705899999,4.196462095,84.0,70.0,,,,,,,,3,11,,
-UBCV,2017,W,COMM,120,,DD3,Business Immersion,Tamar Milne,42,76.404761905,4.958656013,83.0,59.0,,,,,,,5,17,14,,
-UBCV,2017,W,COMM,120,,DD4,Business Immersion,Elicia Salzberg,15,76.93333333300001,3.769552203,82.0,67.0,,,,,,,,9,4,,
-UBCV,2017,W,COMM,120,,OVERALL,Business Immersion,,129,76.720930233,4.858910539,86.0,58.0,,,,,,8,22,44,46,,
-UBCV,2017,W,COMM,202,,101,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Ingrid Anna Bakke;Ingrid Bakke;Katrina Gabrielle Hernandez;Liam Whelan;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,115,84.89565217399999,8.559773231,100.0,58.0,,,,,,4,,9,19,32,40
-UBCV,2017,W,COMM,202,,102,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Ingrid Anna Bakke;Ingrid Bakke;Katrina Gabrielle Hernandez;Liam Whelan;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,121,80.09917355399999,12.961741755,98.0,1.0,,,,6,,7,10,15,26,26,22
-UBCV,2017,W,COMM,202,,103,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Ingrid Anna Bakke;Ingrid Bakke;Katrina Gabrielle Hernandez;Liam Whelan;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,119,81.43697479,10.427829987,100.0,50.0,,,,6,,9,,18,26,27,23
-UBCV,2017,W,COMM,202,,104,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Ingrid Anna Bakke;Ingrid Bakke;Katrina Gabrielle Hernandez;Liam Whelan;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,119,81.773109244,9.88016072,99.0,51.0,,,,6,,7,,15,29,26,27
-UBCV,2017,W,COMM,202,,201,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Grace Jin;Grace Zhiling Jin;Ingrid Anna Bakke;Ingrid Bakke;Jason Mah;Jason Yong Jun Mah;Katrina Gabrielle Hernandez;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,120,80.166666667,12.924040093,100.0,40.0,,,,5,,10,11,8,25,17,32
-UBCV,2017,W,COMM,202,,202,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Grace Jin;Grace Zhiling Jin;Ingrid Anna Bakke;Ingrid Bakke;Jason Mah;Jason Yong Jun Mah;Katrina Gabrielle Hernandez;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,125,82.08,15.031472359,100.0,11.0,,,,,,7,8,14,17,20,46
-UBCV,2017,W,COMM,202,,203,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Grace Jin;Grace Zhiling Jin;Ingrid Anna Bakke;Ingrid Bakke;Jason Mah;Jason Yong Jun Mah;Katrina Gabrielle Hernandez;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,122,83.549180328,10.518855529,100.0,38.0,,,,,,7,11,12,23,25,38
-UBCV,2017,W,COMM,202,,204,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Grace Jin;Grace Zhiling Jin;Ingrid Anna Bakke;Ingrid Bakke;Jason Mah;Jason Yong Jun Mah;Katrina Gabrielle Hernandez;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,106,76.91509434,14.820267927,99.0,26.0,5,2.0,6,6,6,9,8,14,11,20,19
-UBCV,2017,W,COMM,202,,OVERALL,Career Fundamentals,,947,81.418162619,12.241854849000001,100.0,1.0,15,11,23,34,24,60,59,105,176,193,247
-UBCV,2017,W,COMM,203,,101,Managing the Employment Relationship,Julyna Jadulang;Perdip Atwal;Yu-Wung Cheng,126,74.142857143,7.268247971,88.0,44.0,,,,5,13,17,25,36,21,5,
-UBCV,2017,W,COMM,203,,102,Managing the Employment Relationship,Alexander Payandeh;Serinda Kong;Thomas Knight,64,73.328125,9.812616899,86.0,25.0,,,,,,15,7,17,11,5,
-UBCV,2017,W,COMM,203,,103,Managing the Employment Relationship,Alexander Payandeh;Serinda Kong;Thomas Knight,65,75.615384615,7.140755185,86.0,46.0,,,,,5,7,16,9,21,5,
-UBCV,2017,W,COMM,203,,104,Managing the Employment Relationship,Julyna Jadulang;Perdip Atwal;Thomas Knight;Yu-Wung Cheng,65,76.538461538,8.12418635,90.0,60.0,,,,,9,,7,15,13,12,
-UBCV,2017,W,COMM,203,,105,Managing the Employment Relationship,Brian Bemmels;Mahesh Nandwani;Wesley Wen,68,73.38235294100001,6.9690775679999994,91.0,48.0,,,,,9,8,21,14,10,,
-UBCV,2017,W,COMM,203,,201,Managing the Employment Relationship,Julyna Jadulang;Michael Daniels;Serinda Kong;Thomas Knight,60,73.06666666699999,8.225356963,88.0,49.0,,,,,6,12,12,11,11,,
-UBCV,2017,W,COMM,203,,202,Managing the Employment Relationship,Julyna Jadulang;Michael Daniels;Serinda Kong;Thomas Knight,56,75.25,5.825492566,88.0,60.0,,,,,,8,12,15,13,,
-UBCV,2017,W,COMM,203,,203,Managing the Employment Relationship,Mahesh Nandwani;Perdip Atwal;Wayne Rawcliffe,63,78.888888889,5.86985495,89.0,60.0,,,,,,,12,12,24,9,
-UBCV,2017,W,COMM,203,,204,Managing the Employment Relationship,Alexander Payandeh;Annie Lai;Michael Daniels;Thomas Knight,40,75.975,6.874283179,90.0,59.0,,,,,,5,8,12,8,,
-UBCV,2017,W,COMM,203,,205,Managing the Employment Relationship,Alexander Payandeh;Annie Lai;Michael Daniels;Thomas Knight,58,77.86206896600001,6.6871132310000005,89.0,55.0,,,,,,6,11,14,16,8,
-UBCV,2017,W,COMM,203,,206,Managing the Employment Relationship,Alexander Payandeh;Annie Lai;Michael Daniels;Thomas Knight,52,73.596153846,5.619502509,86.0,58.0,,,,,6,12,15,10,6,,
-UBCV,2017,W,COMM,203,,207,Managing the Employment Relationship,Brian Bemmels;Mahesh Nandwani,68,80.647058824,5.888933982999999,90.0,61.0,,,,,,5,5,7,30,18,
-UBCV,2017,W,COMM,203,,OVERALL,Managing the Employment Relationship,,785,75.60382165600001,7.494708042,91.0,25.0,8,,11,21,59,102,151,172,184,72,
-UBCV,2017,W,COMM,204,,101,Logistics and Operations Management,Andy Chen;Kayla Little;S Thomas Mccormick,65,74.461538462,9.992304731,93.0,39.0,,,,5,10,5,12,10,9,7,
-UBCV,2017,W,COMM,204,,102,Logistics and Operations Management,Kayla Little;S Thomas Mccormick,62,68.516129032,9.369888876000001,85.0,36.0,,,5,8,5,15,10,8,5,1,
-UBCV,2017,W,COMM,204,,103,Logistics and Operations Management,Hao Zhang;Matheus Cariola Sampaio;Matheus Sampaio;Maurice Queyranne,66,78.727272727,6.376749726,91.0,63.0,,,,,,6,6,16,24,9,
-UBCV,2017,W,COMM,204,,104,Logistics and Operations Management,Daniel Granot;Maurice Queyranne;Sanjith Gopalakrishnan;Thao Nguyen Huynh,64,75.609375,10.202111807,96.0,50.0,,,,,5,9,9,13,6,6,8
-UBCV,2017,W,COMM,204,,105,Logistics and Operations Management,Daniel Granot;Sanjith Gopalakrishnan;Thao Nguyen Huynh;Woonghee Tim Huh,64,75.28125,8.987590651,93.0,54.0,,,,,5,10,12,8,13,5,5
-UBCV,2017,W,COMM,204,,106,Logistics and Operations Management,Daniel Granot;Sanjith Gopalakrishnan;Thao Nguyen Huynh;Woonghee Tim Huh,65,73.830769231,8.612435106,95.0,58.0,,,,,13,10,13,6,9,5,
-UBCV,2017,W,COMM,204,,201,Logistics and Operations Management,Anming Zhang;Gregory Werker;Xiaowei Zhang,61,80.360655738,8.117948811,92.0,52.0,,,,,,,,13,17,15,5
-UBCV,2017,W,COMM,204,,202,Logistics and Operations Management,Andy Chen;Matheus Cariola Sampaio;Matheus Sampaio;Michael Jong Kim;Michael Kim,64,75.234375,13.267387139,94.0,0.0,,,,,5,6,9,9,14,9,5
-UBCV,2017,W,COMM,204,,203,Logistics and Operations Management,Matheus Cariola Sampaio;Matheus Sampaio;Michael Jong Kim;Michael Kim;Yichuan Ding,66,77.196969697,9.397576933,99.0,54.0,,,,5,,8,12,11,10,7,9
-UBCV,2017,W,COMM,204,,204,Logistics and Operations Management,Andy Chen;Andy Wei Rong Chen;Anqi Li;Yichuan Ding,65,83.538461538,6.41550106,94.0,60.0,,,,,,,,7,19,23,10
-UBCV,2017,W,COMM,204,,205,Logistics and Operations Management,Anming Zhang;Gregory Werker;Xiaowei Zhang,59,78.0,5.614021854,88.0,66.0,,,,,,5,7,16,18,9,
-UBCV,2017,W,COMM,204,,206,Logistics and Operations Management,Frieda Granot;Gregory Werker;Jean-Matthieu Jamet,65,81.861538462,7.9880319129999995,95.0,57.0,,,,,,,8,6,16,21,8
-UBCV,2017,W,COMM,204,,OVERALL,Logistics and Operations Management,,766,76.899477807,9.66181486,99.0,0.0,4.0,8,17,37,55,82,103,123,160,117,60
-UBCV,2017,W,COMM,205,,101,Introduction to Management Information Systems,Hasan Cavusoglu;Jarod Sutherland;Jianxin Zhu;Jiya Dassan;Kristine Alexandra Wong;Kristine Wong;Pei Yu Shyu;Xuan Hao Huang;Yau Man Cheung,118,74.63559322,9.030494638,95.0,53.0,,,5,,16,21,23,16,16,10,8
-UBCV,2017,W,COMM,205,,102,Introduction to Management Information Systems,Hasan Cavusoglu;Jarod Sutherland;Jianxin Zhu;Jiya Dassan;Kristine Alexandra Wong;Kristine Wong;Pei Yu Shyu;Xuan Hao Huang;Yau Man Cheung,125,77.696,8.315574195,96.0,48.0,,,,,5,17,20,26,26,17,9
-UBCV,2017,W,COMM,205,,103,Introduction to Management Information Systems,Hasan Cavusoglu;Jarod Sutherland;Jianxin Zhu;Jiya Dassan;Kristine Alexandra Wong;Kristine Wong;Pei Yu Shyu;Xuan Hao Huang;Yau Man Cheung,120,77.9,8.981212884,96.0,48.0,,,,,7,12,17,16,33,21,7
-UBCV,2017,W,COMM,205,,201,Introduction to Management Information Systems,Adam Saunders;Angel Lam;Angela An Qi Dai;Angela Dai;Daniel Duncombe;Deborah Zhang;Jason Wahono;Jiya Dassan;Kristine Wong;Yau Man Cheung,102,74.401960784,11.317435775999998,92.0,3.0,,,,9,11,12,11,12,26,15,2
-UBCV,2017,W,COMM,205,,202,Introduction to Management Information Systems,Adam Saunders;Angel Lam;Angela An Qi Dai;Angela Dai;Daniel Duncombe;Deborah Zhang;Jason Wahono;Jiya Dassan;Kristine Wong;Yau Man Cheung,120,77.575,7.938484604,95.0,55.0,,,,,9,18,14,16,35,19,5
-UBCV,2017,W,COMM,205,,203,Introduction to Management Information Systems,Adam Saunders;Angel Lam;Angela An Qi Dai;Angela Dai;Daniel Duncombe;Deborah Zhang;Jason Wahono;Jiya Dassan;Kristine Wong;Yau Man Cheung,117,80.51282051300001,8.361050281,95.0,40.0,,,,,,7,13,10,38,30,12
-UBCV,2017,W,COMM,205,,204,Introduction to Management Information Systems,Adam Saunders;Angel Lam;Angela An Qi Dai;Angela Dai;Daniel Duncombe;Deborah Zhang;Jason Wahono;Jiya Dassan;Kristine Wong;Yau Man Cheung,122,79.655737705,6.830619555,94.0,52.0,,,,,,6,19,17,39,30,5
-UBCV,2017,W,COMM,205,,OVERALL,Introduction to Management Information Systems,,824,77.552184466,8.921403542,96.0,3.0,5,7,12,20,54,93,117,113,213,142,48
-UBCV,2017,W,COMM,220,,DD1,Business Communications and Ethics,Alyssa Barry;Elizabeth Bowker;Sassan Shokoohi,20,80.4,2.5833474819999998,85.0,76.0,,,,,,,,6,12,,
-UBCV,2017,W,COMM,220,,DD2,Business Communications and Ethics,Elizabeth Bowker;Honami Kawamura;Sassan Shokoohi,17,78.764705882,5.250350128,85.0,65.0,,,,,,,,,8,,
-UBCV,2017,W,COMM,220,,DD3,Business Communications and Ethics,Marlisse Silver Sweeney;Sassan Shokoohi;Zamina Mithani,16,81.3125,4.316151835,89.0,75.0,,,,,,,,,6,5,
-UBCV,2017,W,COMM,220,,DD4,Business Communications and Ethics,Marlisse Silver Sweeney;Sassan Shokoohi;Zamina Mithani,25,78.4,5.852349955,87.0,60.0,,,,,,,,7,8,,
-UBCV,2017,W,COMM,220,,DD5,Business Communications and Ethics,Alexa Rudakoff;Marlisse Silver Sweeney;Sassan Shokoohi,21,78.142857143,4.45292841,87.0,71.0,,,,,,,5,7,5,,
-UBCV,2017,W,COMM,220,,DD6,Business Communications and Ethics,Bridget Chase;Marlisse Silver Sweeney;Sassan Shokoohi,16,77.6875,4.028543988,85.0,71.0,,,,,,,,6,5,,
-UBCV,2017,W,COMM,220,,OVERALL,Business Communications and Ethics,,115,79.060869565,4.670337447,89.0,60.0,,,,,,,16,32,44,17,
-UBCV,2017,W,COMM,280,,101,Entrepreneurship,Afrothiti Yannitsos;David Miller,30,76.1,6.310090441,88.0,60.0,,,,,,,7,8,7,,
-UBCV,2017,W,COMM,280,,102,Entrepreneurship,David Miller;Shehan Anthony Wijeyagoonewardane;Shehan Wijeyagoonewardane,29,77.482758621,6.395426321,90.0,62.0,,,,,,,,7,8,,
-UBCV,2017,W,COMM,280,,103,Entrepreneurship,Antonio Balogh;Antonio Joseph Balogh;David Miller,32,76.34375,8.142320248999999,92.0,54.0,,,,,,,8,8,8,,
-UBCV,2017,W,COMM,280,,201,Entrepreneurship,Cheralyn Chok;David Clough,29,72.482758621,17.319725933,91.0,0.0,,,,,,,,5,9,,
-UBCV,2017,W,COMM,280,,202,Entrepreneurship,David Clough;Shehan Anthony Wijeyagoonewardane;Shehan Wijeyagoonewardane,34,77.705882353,9.858174308999999,90.0,37.0,,,,,,,,6,9,8,
-UBCV,2017,W,COMM,280,,203,Entrepreneurship,David Clough;Japnit Bhatia,16,77.625,6.830080527000001,89.0,65.0,,,,,,,,4,2,,
-UBCV,2017,W,COMM,280,,OVERALL,Entrepreneurship,,170,76.229411765,10.094246103,92.0,0.0,,,,6,7,16,28,38,43,21,5
-UBCV,2017,W,COMM,286,V,101,Topics in Business II,Murray Carlson;Robert Lee Heinkel,34,79.852941176,3.8465439260000003,88.0,74.0,,,,,,,5,9,16,,
-UBCV,2017,W,COMM,286,V,OVERALL,Topics in Business II,,34,79.852941176,3.8465439260000003,88.0,74.0,,,,,,,5,9,16,,
-UBCV,2017,W,COMM,290,,101,Introduction to Quantitative Decision Making,Adi Rosenkrantz;Albina Gibadullina;Alexa Morgan Rudakoff;Alexa Rudakoff;Chiara Kowalewski;David Jordan Stein;David Stein;Forough Pourhossein;Gregory Werker;Jean-Matthieu Jamet;Jingu Park;Kimberly Grace Lin;Kimberly Lin;Megan Li;Niasha Drydgen;Rachael Thain;Sharon Shamuyarira;Vivian Wu;Vivian Xin Ling Wu;Woonghee Tim Huh;Yaxi Liu;Yiming Kong;Zhi Feng Chen,220,71.477272727,12.734536932000001,97.0,31.0,11,10,16,22,19,24,23,24,41,13,17
-UBCV,2017,W,COMM,290,,102,Introduction to Quantitative Decision Making,Adi Rosenkrantz;Albina Gibadullina;Alexa Morgan Rudakoff;Alexa Rudakoff;Chiara Kowalewski;David Jordan Stein;David Stein;Forough Pourhossein;Gregory Werker;Jean-Matthieu Jamet;Jingu Park;Kimberly Grace Lin;Kimberly Lin;Megan Li;Niasha Drydgen;Rachael Thain;Sharon Shamuyarira;Vivian Wu;Vivian Xin Ling Wu;Woonghee Tim Huh;Yaxi Liu;Yiming Kong;Zhi Feng Chen,243,75.691358025,11.724779836,98.0,6.0,6,4.0,13,7,12,29,39,25,57,29,22
-UBCV,2017,W,COMM,290,,103,Introduction to Quantitative Decision Making,Adi Rosenkrantz;Albina Gibadullina;Alexa Morgan Rudakoff;Alexa Rudakoff;Chiara Kowalewski;David Jordan Stein;David Stein;Forough Pourhossein;Gregory Werker;Jean-Matthieu Jamet;Jingu Park;Kimberly Grace Lin;Kimberly Lin;Megan Li;Niasha Drydgen;Rachael Thain;Sharon Shamuyarira;Vivian Wu;Vivian Xin Ling Wu;Woonghee Tim Huh;Yaxi Liu;Yiming Kong;Zhi Feng Chen,233,73.583690987,11.137970552999999,96.0,26.0,5,6,16,16,19,33,30,23,47,21,17
-UBCV,2017,W,COMM,290,,104,Introduction to Quantitative Decision Making,Adi Rosenkrantz;Albina Gibadullina;Alexa Morgan Rudakoff;Alexa Rudakoff;Chiara Kowalewski;David Jordan Stein;David Stein;Forough Pourhossein;Gregory Werker;Jean-Matthieu Jamet;Jingu Park;Kimberly Grace Lin;Kimberly Lin;Megan Li;Niasha Drydgen;Rachael Thain;Sharon Shamuyarira;Woonghee Tim Huh;Yaxi Liu;Yiming Kong;Zhi Feng Chen,207,73.50241545899999,11.246520237,96.0,33.0,5,9,8,16,21,17,34,26,43,13,15
-UBCV,2017,W,COMM,290,,OVERALL,Introduction to Quantitative Decision Making,,903,73.619047619,11.803779712,98.0,6.0,27,29,53,61,71,103,126,98,188,76,71
-UBCV,2017,W,COMM,291,,101,Application of Statistics in Business,Albina Gibadullina;Martha Essak,68,74.573529412,13.955490201,98.0,27.0,,,3,5,11,5,9,2,10,10,9
-UBCV,2017,W,COMM,291,,201,Application of Statistics in Business,Albina Gibadullina;Jonathan Berkowitz,207,72.61352657,12.572717057,96.0,6.0,3.0,10,17,17,13,29,29,19,35,19,16
-UBCV,2017,W,COMM,291,,202,Application of Statistics in Business,Albina Gibadullina;Jonathan Berkowitz,217,73.861751152,10.192102184,100.0,38.0,,,15,18,20,29,34,29,35,19,13
-UBCV,2017,W,COMM,291,,203,Application of Statistics in Business,Albina Gibadullina;Jonathan Berkowitz,198,71.606060606,10.986672297,96.0,47.0,3.0,9,18,21,17,28,31,18,26,16,11
-UBCV,2017,W,COMM,291,,204,Application of Statistics in Business,Albina Gibadullina;Jonathan Berkowitz,176,73.551136364,11.055067299000001,96.0,50.0,0.0,9,10,16,14,27,20,25,22,17,16
-UBCV,2017,W,COMM,291,,OVERALL,Application of Statistics in Business,,866,73.040415704,11.480749680999999,100.0,6.0,9,34,63,77,75,118,123,93,128,81,65
-UBCV,2017,W,COMM,292,,101,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Annie Lai;Heri Paluku;Sharka Stuyt;Sum Kiu Phoebe Liu;Zorana Svedic,56,75.732142857,4.885939275,85.0,59.0,,,,,,5,17,21,8,,
-UBCV,2017,W,COMM,292,,102,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Annie Lai;Heri Paluku;Nancy Langton;Sum Kiu Phoebe Liu;Zorana Svedic,53,74.962264151,4.847530157,85.0,54.0,,,,,,,22,16,6,,
-UBCV,2017,W,COMM,292,,103,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Annie Lai;Heri Paluku;Nancy Langton;Sum Kiu Phoebe Liu;Zorana Svedic,54,76.074074074,4.312561082,85.0,67.0,,,,,,7,14,21,9,,
-UBCV,2017,W,COMM,292,,201,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Christopher James Rowell;Christopher Rowell;Karl Aquino,54,74.74074074100001,4.413466465,81.0,56.0,,,,,,6,18,27,,,
-UBCV,2017,W,COMM,292,,202,Management and Organizational Behaviour,Karl Aquino;Kristine Wong,48,76.395833333,8.13121012,99.0,55.0,,,,,,,7,16,9,,
-UBCV,2017,W,COMM,292,,203,Management and Organizational Behaviour,Albina Gibadullina;Karl Aquino,54,73.685185185,9.534097842000001,97.0,33.0,,,,,6,13,11,9,8,,
-UBCV,2017,W,COMM,292,,204,Management and Organizational Behaviour,Alexander Egeling;Martin Schulz,53,73.396226415,5.160275867,82.0,52.0,,,,,,10,23,12,,,
-UBCV,2017,W,COMM,292,,205,Management and Organizational Behaviour,Alexander Egeling;Martin Schulz,49,74.224489796,5.225200579,84.0,61.0,,,,,,6,15,15,7,,
-UBCV,2017,W,COMM,292,,206,Management and Organizational Behaviour,Martin Schulz;Zorana Svedic,53,73.396226415,12.086769025999999,85.0,0.0,,,,,,7,10,15,11,,
-UBCV,2017,W,COMM,292,,207,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Elizabeth Phillips;Lingtao Yu,51,76.352941176,5.606508822,84.0,46.0,,,,,,,15,17,14,,
-UBCV,2017,W,COMM,292,,208,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Lingtao Yu;Martin Schulz,51,78.509803922,3.828172144,85.0,68.0,,,,,,,7,16,23,,
-UBCV,2017,W,COMM,292,,209,Management and Organizational Behaviour,Alexander Egeling;Amir Haghighat Kashani;Amir Kashani;Martin Schulz,53,74.245283019,4.340797783999999,82.0,66.0,,,,,6,9,17,17,,,
-UBCV,2017,W,COMM,292,,210,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Martin Schulz;Peter Charlton;Wayne Rawcliffe,53,76.849056604,5.108048801,85.0,62.0,,,,,,,9,21,15,,
-UBCV,2017,W,COMM,292,,211,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;David Robert Crawford;Jose Guevara;Jose Teodoro Guevara;Tracey Gurton,53,78.037735849,4.6158683830000005,88.0,60.0,,,,,,,12,16,21,,
-UBCV,2017,W,COMM,292,,212,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Jose Guevara;Jose Teodoro Guevara;Tracey Gurton,51,77.588235294,6.366086618,88.0,49.0,,,,,,,10,15,15,5,
-UBCV,2017,W,COMM,292,,213,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Jose Guevara;Jose Teodoro Guevara;Peter Charlton;Tracey Gurton,51,78.215686275,6.064037353,87.0,56.0,,,,,,,8,13,23,,
-UBCV,2017,W,COMM,292,,OVERALL,Management and Organizational Behaviour,,837,75.757467145,6.450007031,99.0,0.0,5,,6,14,31,88,215,267,178,27,
-UBCV,2017,W,COMM,293,,101,Financial Accounting,Christie Chau;Christie Yuen Yee Chau;Jeremy Fung;Julia Hoy Ying Wong;Julia Wong;Kejin Pan;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;Rajesh Vijayaraghavan;Steven Trinh;Xin Zheng;Yiming Kong;Yu Lin Huang;Zhi Feng Chen,216,72.944444444,13.34712465,100.0,37.0,9,12,10,22,15,31,25,18,32,15,27
-UBCV,2017,W,COMM,293,,102,Financial Accounting,Christie Chau;Christie Yuen Yee Chau;Jeremy Fung;Julia Hoy Ying Wong;Julia Wong;Kejin Pan;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;Rajesh Vijayaraghavan;Steven Trinh;Xin Zheng;Yiming Kong;Yu Lin Huang;Zhi Feng Chen,213,73.96713615,12.916781894000001,100.0,42.0,11,9,6,17,21,21,23,25,35,16,29
-UBCV,2017,W,COMM,293,,103,Financial Accounting,Christie Chau;Christie Yuen Yee Chau;Jeremy Fung;Julia Hoy Ying Wong;Julia Wong;Kejin Pan;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;Rajesh Vijayaraghavan;Steven Trinh;Xin Zheng;Yiming Kong;Yu Lin Huang;Zhi Feng Chen,211,72.289099526,13.315827483,100.0,39.0,13,10,12,21,17,24,22,20,31,17,24
-UBCV,2017,W,COMM,293,,OVERALL,Financial Accounting,,640,73.06875,13.19238737,100.0,37.0,33,31,28,60,53,76,70,63,98,48,80
-UBCV,2017,W,COMM,294,,101,Managerial Accounting,Danielle Lim;Michelle Nicole Wong;Michelle Wong;William Dorfmann,123,71.756097561,12.916720301,95.0,36.0,6,7,12,8,8,15,15,8,24,12,8
-UBCV,2017,W,COMM,294,,201,Managerial Accounting,Julia Hoy Ying Wong;Julia Wong;Kirill Isakov;Mathilde Ho;Michelle Nicole Wong;Michelle Wong;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;William Dorfmann;Xuefei Wang;Yiting Zhang;Zhi Feng Chen,235,78.655319149,10.938265158,95.0,42.0,5,1.0,8,9,9,24,22,21,54,49,33
-UBCV,2017,W,COMM,294,,202,Managerial Accounting,Julia Hoy Ying Wong;Julia Wong;Kar Hong Hui;Ken Lin;Kirill Isakov;Mathilde Ho;Michelle Nicole Wong;Michelle Wong;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;William Dorfmann;Xuefei Wang;Yiting Zhang;Zhi Feng Chen,231,73.151515152,10.840282559,95.0,39.0,9,4.0,12,16,17,33,36,30,41,21,12
-UBCV,2017,W,COMM,294,,203,Managerial Accounting,Julia Hoy Ying Wong;Julia Wong;Kar Hong Hui;Ken Lin;Kirill Isakov;Mathilde Ho;Michelle Nicole Wong;Michelle Wong;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;William Dorfmann;Xuefei Wang;Yiting Zhang;Zhi Feng Chen,233,70.86695279,11.553264119000001,91.0,38.0,20,5,10,20,17,32,34,28,46,17,4.0
-UBCV,2017,W,COMM,294,,OVERALL,Managerial Accounting,,822,73.86861313899999,11.809377672,95.0,36.0,40,17,42,53,51,104,107,87,165,99,57
-UBCV,2017,W,COMM,295,,101,Managerial Economics,Albina Gibadullina;Anqi Li;James Brander;Matheus Cariola Sampaio;Matheus Sampaio,127,76.732283465,9.945445491000001,94.0,50.0,,,,5,9,16,14,20,25,18,13
-UBCV,2017,W,COMM,295,,102,Managerial Economics,Albina Gibadullina;Anqi Li;James Brander;Matheus Cariola Sampaio;Matheus Sampaio,124,75.298387097,9.229662185,94.0,52.0,,,,7,8,23,22,12,27,12,8
-UBCV,2017,W,COMM,295,,103,Managerial Economics,Albina Gibadullina;Anqi Li;James Vercammen;Matheus Cariola Sampaio;Matheus Sampaio,125,77.688,10.669081044,96.0,10.0,,,,7,3,11,16,13,38,22,10
-UBCV,2017,W,COMM,295,,104,Managerial Economics,Albina Gibadullina;Anqi Li;Lanny Reuben Zrill;Lanny Zrill;Matheus Cariola Sampaio;Matheus Sampaio,127,69.283464567,8.538333392,98.0,51.0,,7,8,13,21,32,17,10,13,5,
-UBCV,2017,W,COMM,295,,105,Managerial Economics,Albina Gibadullina;Anqi Li;Matheus Cariola Sampaio;Matheus Sampaio;Ratna Shrestha,121,69.73553719,9.687421909,95.0,50.0,,7,7,17,14,29,18,5,18,2,
-UBCV,2017,W,COMM,295,,106,Managerial Economics,Albina Gibadullina;Anqi Li;Matheus Cariola Sampaio;Matheus Sampaio;Ratna Shrestha,117,69.27350427399999,10.427602571,96.0,45.0,,7,12,18,12,22,14,7,15,5,
-UBCV,2017,W,COMM,295,,OVERALL,Managerial Economics,,741,73.05668016199999,10.394490447999999,98.0,10.0,3.0,27,36,67,67,133,101,67,136,64,40
-UBCV,2017,W,COMM,296,,101,Introduction to Marketing,Anita Ly;So Eun Park,59,74.457627119,7.753357524,90.0,54.0,,,,,,13,9,15,7,5,
-UBCV,2017,W,COMM,296,,102,Introduction to Marketing,Anita Ly;So Eun Park,59,78.44067796600001,9.326031766,93.0,50.0,,,,,,9,5,9,14,12,5
-UBCV,2017,W,COMM,296,,103,Introduction to Marketing,Hannah Chiang;Kirstin Appelt;Mary Swaffield;Niki Vaajedi;Patricia Loo-Xu,58,78.15517241399999,8.025839245,92.0,56.0,,,,,,6,8,11,13,11,
-UBCV,2017,W,COMM,296,,104,Introduction to Marketing,Elise Chu Jun Yu;Elise Yu;Mary Sim;Mary Swaffield,60,76.783333333,5.874655897999999,88.0,60.0,,,,,,5,11,13,22,,
-UBCV,2017,W,COMM,296,,105,Introduction to Marketing,Mary Swaffield;Murtaza Chaudhry;So Eun Park,60,75.516666667,8.363544109,89.0,51.0,,,,,,7,13,9,16,7,
-UBCV,2017,W,COMM,296,,106,Introduction to Marketing,Hannah Chiang;Kirstin Appelt;Niki Vaajedi;Patricia Loo-Xu,60,74.4,8.061627039,87.0,47.0,,,,8,,6,11,12,16,,
-UBCV,2017,W,COMM,296,,107,Introduction to Marketing,Nicole Elizabeth Nauss;Nicole Nauss;Tamar Milne,58,79.068965517,7.181511518,91.0,57.0,,,,,,,7,9,22,12,
-UBCV,2017,W,COMM,296,,201,Introduction to Marketing,Alexandra Brie Riley;Alexandra Riley;David Miller;Tamar Milne,60,78.55,7.434288404,89.0,53.0,,,,,,6,8,6,23,13,
-UBCV,2017,W,COMM,296,,202,Introduction to Marketing,Carlene Fiona Loughlin;Carlene Loughlin;David Miller;Tamar Milne,59,79.406779661,5.94549567,90.0,60.0,,,,,,,6,12,27,8,
-UBCV,2017,W,COMM,296,,203,Introduction to Marketing,Hannah Chiang;Jarrett Vaughan;Julianne Nieh;Kirstin Appelt;Patricia Loo-Xu,60,76.466666667,8.137518605,89.0,53.0,,,,,7,,11,11,19,7,
-UBCV,2017,W,COMM,296,,204,Introduction to Marketing,Hannah Chiang;Julianne Nieh;Kirstin Appelt;Patricia Loo-Xu;Sharka Stuyt,54,73.462962963,9.380254176000001,94.0,56.0,,,,6,9,6,5,11,7,5,
-UBCV,2017,W,COMM,296,,205,Introduction to Marketing,Hannah Chiang;Julianne Nieh;Kirstin Appelt;Patricia Loo-Xu,54,74.314814815,7.669651227999999,88.0,56.0,,,,,7,5,10,9,14,,
-UBCV,2017,W,COMM,296,,206,Introduction to Marketing,Deanna Gee-Wing;Jenny Dickson;Rachel Pang,54,75.648148148,8.37371766,90.0,55.0,,,,,5,,10,10,11,9,
-UBCV,2017,W,COMM,296,,207,Introduction to Marketing,Deanna Gee-Wing;Jenny Dickson;Rachel Pang,54,75.092592593,8.371714548,92.0,51.0,,,,,6,,8,19,9,5,
-UBCV,2017,W,COMM,296,,OVERALL,Introduction to Marketing,,809,76.449938195,8.065190951,94.0,47.0,1.0,8,15,34,59,73,122,156,220,104,17
-UBCV,2017,W,COMM,298,,101,Introduction to Finance,Caren Lombard,63,73.761904762,15.482262781,97.0,35.0,7,,,6,6,,7,4.0,6,14,8
-UBCV,2017,W,COMM,298,,201,Introduction to Finance,Bruna Rozante Porto;Caren Lombard;Steve Lee;Steve Yun Gi Lee,93,70.47311828,13.570741704000001,98.0,36.0,5,7,5,9,12,9,11,3.0,18,7,7
-UBCV,2017,W,COMM,298,,202,Introduction to Finance,Bruna Rozante Porto;Caren Lombard;Farid Novin;Steve Lee;Steve Yun Gi Lee,102,73.88235294100001,12.65012356,95.0,41.0,3.0,7,6,6,5,8,14,13,19,10,11
-UBCV,2017,W,COMM,298,,203,Introduction to Finance,Ruth Freedman,120,73.68333333300001,12.519553334000001,98.0,35.0,,7,,10,11,15,14,17,15,9,15
-UBCV,2017,W,COMM,298,,204,Introduction to Finance,Ruth Freedman,120,73.458333333,12.833055947,96.0,36.0,7,,,8,10,14,11,18,18,19,7
-UBCV,2017,W,COMM,298,,205,Introduction to Finance,Darren Degraaf;Farid Novin,121,75.876033058,14.79953279,96.0,0.0,,7,5,,8,6,12,15,25,22,14
-UBCV,2017,W,COMM,298,,206,Introduction to Finance,Darren Degraaf,122,76.385245902,13.789112199000002,99.0,33.0,,8,6,,12,,12,13,22,24,16
-UBCV,2017,W,COMM,298,,207,Introduction to Finance,Darren Degraaf,119,74.78991596600001,9.406879875,93.0,40.0,,,7,5,6,21,16,18,27,13,3
-UBCV,2017,W,COMM,298,,OVERALL,Introduction to Finance,,860,74.179069767,13.1404353,99.0,0.0,33,42,39,51,70,78,97,101,150,118,81
-UBCV,2017,W,COMM,306,,201,Urban Land Economics,Cheng Chen;Sanghoon Lee,38,77.5,9.755802154,98.0,51.0,,,,,,5,7,5,8,3,5
-UBCV,2017,W,COMM,306,,202,Urban Land Economics,Cheng Chen;Sanghoon Lee,37,76.18918918899999,10.132011531,93.0,50.0,,,,,,1,4,11,7,5,2
-UBCV,2017,W,COMM,306,,OVERALL,Urban Land Economics,,75,76.853333333,9.897711082999999,98.0,50.0,,,,,5,6,11,16,15,8,7
-UBCV,2017,W,COMM,307,,201,Real Estate Investment,Craig Tsuriel Somerville,40,75.575,10.124576597999999,85.0,25.0,,,,,,,6,12,12,,
-UBCV,2017,W,COMM,307,,202,Real Estate Investment,Craig Tsuriel Somerville,40,77.55,4.646200543,85.0,62.0,,,,,,,9,17,11,,
-UBCV,2017,W,COMM,307,,OVERALL,Real Estate Investment,,80,76.5625,7.8898167820000005,85.0,25.0,,,,,,,15,29,23,,
-UBCV,2017,W,COMM,311,,101,Research Theory for Commerce Scholars,Marc-David Seidel,6,85.0,1.264911064,86.0,83.0,,,,,,,,,,,
-UBCV,2017,W,COMM,311,,OVERALL,Research Theory for Commerce Scholars,,6,85.0,1.264911064,86.0,83.0,,,,,,,,,,,
-UBCV,2017,W,COMM,320,,DD2,Financial Accounting,Nicholas Chua;Scott Sinclair,52,71.423076923,11.596730699,87.0,25.0,,,,,,11,7,12,9,,
-UBCV,2017,W,COMM,320,,DD3,Financial Accounting,Josiah Siemens;Mark Bickford;Mathilde Ho;Scott Sinclair;Steven Trinh,28,72.607142857,15.095594858,94.0,27.0,,,,,,5,2,4,5,,
-UBCV,2017,W,COMM,320,,DD4,Financial Accounting,Josiah Siemens;Mark Bickford;Mathilde Ho;Scott Sinclair;Steven Trinh,60,70.583333333,15.291840814,95.0,10.0,5,,,6,,12,7,9,7,,
-UBCV,2017,W,COMM,320,,OVERALL,Financial Accounting,,140,71.3,13.908074359,95.0,10.0,9,6,,11,,28,16,25,21,10,6
-UBCV,2017,W,COMM,321,,DD2,Organizational Behaviour,Wayne Rawcliffe,52,76.75,3.0670609289999997,83.0,64.0,,,,,,,11,33,6,0,
-UBCV,2017,W,COMM,321,,DD3,Organizational Behaviour,Zorana Svedic,22,81.272727273,4.64124181,90.0,71.0,,,,,,,1,3,10,5,
-UBCV,2017,W,COMM,321,,DD4,Organizational Behaviour,Zorana Svedic,59,80.11864406800001,4.814076865,90.0,67.0,,,,,,,5,9,28,13,
-UBCV,2017,W,COMM,321,,OVERALL,Organizational Behaviour,,133,78.992481203,4.545221001,90.0,64.0,,,,,,,17,45,44,18,
-UBCV,2017,W,COMM,329,,101,Principles of Organizational Behaviour,Martin Schulz,120,75.725,6.707530573,90.0,56.0,,,,,16,11,25,25,30,8,
-UBCV,2017,W,COMM,329,,102,Principles of Organizational Behaviour,Heidi Upham;Tracey Gurton,53,77.547169811,8.374792851,92.0,60.0,,,,5,,6,4,10,14,9,
-UBCV,2017,W,COMM,329,,103,Principles of Organizational Behaviour,David Robert Crawford;Heidi Upham,39,74.25641025600001,13.796868349,97.0,23.0,,,,,,,5,4,8,6,
-UBCV,2017,W,COMM,329,,201,Principles of Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Tracey Gurton,90,77.944444444,6.314529547,90.0,52.0,,,,,,8,19,15,38,6,
-UBCV,2017,W,COMM,329,,202,Principles of Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Heidi Upham;Tracey Gurton,44,79.068181818,5.804560065,89.0,60.0,,,,,,,8,10,17,6,
-UBCV,2017,W,COMM,329,,203,Principles of Organizational Behaviour,Mahesh Nandwani;Perdip Atwal,45,76.06666666699999,5.284626073,86.0,62.0,,,,,,,13,11,11,3,
-UBCV,2017,W,COMM,329,,OVERALL,Principles of Organizational Behaviour,,391,76.751918159,7.720923298,97.0,23.0,,,,11,26,34,74,75,118,38,7
-UBCV,2017,W,COMM,335,,101,Information Systems Technology and Development,Annabelle Chen;Brian Bemmels;Ilan Boris Vertinsky;Yau Man Cheung,117,84.034188034,6.627960138,95.0,61.0,,,,,,,3,16,26,32,35
-UBCV,2017,W,COMM,335,,201,Information Systems Technology and Development,Arash Saghafi;Jessica Tse,107,79.654205607,4.081950153,90.0,70.0,,,,,,,20,12,64,7,2
-UBCV,2017,W,COMM,335,,202,Information Systems Technology and Development,Arash Saghafi;Candice Ka-Hay Pang,119,80.537815126,5.186014302,93.0,52.0,,,,,,,9,22,60,18,6
-UBCV,2017,W,COMM,335,,OVERALL,Information Systems Technology and Development,,343,81.45481049600001,5.738209259,95.0,52.0,,,,,,8,32,50,150,57,43
-UBCV,2017,W,COMM,336,,201,Introduction to e-Business,Fernando Leon Lozano;Ning Nan,31,79.129032258,6.616856935,90.0,60.0,,,,,,,,7,11,6,
-UBCV,2017,W,COMM,336,,202,Introduction to e-Business,Fernando Leon Lozano;Ning Nan,39,78.923076923,7.248900517,91.0,52.0,,,,,,,,8,14,7,
-UBCV,2017,W,COMM,336,,OVERALL,Introduction to e-Business,,70,79.014285714,6.927142282999999,91.0,52.0,,,,,,5,6,15,25,13,
-UBCV,2017,W,COMM,337,,201,Business Programming and Analytics,Gene Lee;Hongki Kim;Moksh Matta;Sahil Jain,39,86.76923076899999,9.396140133,98.0,58.0,,,,,,,0,3,7,4,21
-UBCV,2017,W,COMM,337,,202,Business Programming and Analytics,Gene Lee;Hongki Kim;Moksh Matta;Sahil Jain,47,79.95744680899999,9.516478721,96.0,60.0,,,,,,,5,9,5,12,7
-UBCV,2017,W,COMM,337,,OVERALL,Business Programming and Analytics,,86,83.046511628,10.005771248,98.0,58.0,,,,,,,5,12,12,16,28
-UBCV,2017,W,COMM,353,,101,Financial Accounting: Intermediate I,Alexander Bleck;Chad Anderson;Siddarth Suchithra;Xin Yi Liu,40,74.5,10.268198353999999,95.0,55.0,,,,,6,6,6,,8,,
-UBCV,2017,W,COMM,353,,102,Financial Accounting: Intermediate I,Alexander Bleck;Chad Anderson;Siddarth Suchithra;Xin Yi Liu,41,79.268292683,9.628147252,96.0,62.0,,,,,5,,,5,5,9,7
-UBCV,2017,W,COMM,353,,103,Financial Accounting: Intermediate I,Alexander Bleck;Chad Anderson;Siddarth Suchithra;Xin Yi Liu,39,71.76923076899999,11.305475009,92.0,50.0,,,,10,,,,,10,,
-UBCV,2017,W,COMM,353,,201,Financial Accounting: Intermediate I,Erin Rao;Yo-Ning Kuo,36,73.944444444,10.155770898,93.0,47.0,,,,,6,,6,5,8,,
-UBCV,2017,W,COMM,353,,202,Financial Accounting: Intermediate I,Erin Rao;Li Zhang;Xin Yi Liu;Yifei Kuang,40,77.15,9.31376153,91.0,59.0,,,,,8,,6,,9,8,
-UBCV,2017,W,COMM,353,,203,Financial Accounting: Intermediate I,Li Zhang;Scott Sinclair;Xin Yi Liu,36,76.833333333,9.207140086,92.0,52.0,,,,,,5,5,,12,6,
-UBCV,2017,W,COMM,353,,204,Financial Accounting: Intermediate I,Li Zhang;Scott Sinclair;Xin Yi Liu;Yifei Kuang,22,74.954545455,8.834333848,87.0,53.0,,,,,,,,,5,,
-UBCV,2017,W,COMM,353,,OVERALL,Financial Accounting: Intermediate I,,254,75.559055118,10.080038226000001,96.0,47.0,1.0,6,5,22,30,24,34,21,57,34,20
-UBCV,2017,W,COMM,354,,101,Cost Accounting,Colleen Duong;Graham Brown;Harman Sahota;Jeff Kroeker;Ondraya Swanson,38,75.789473684,10.900428692,95.0,50.0,,,,,,,6,,9,5,
-UBCV,2017,W,COMM,354,,102,Cost Accounting,Colleen Duong;Jeff Kroeker;Ondraya Swanson,37,77.891891892,9.628614138,93.0,50.0,,,,,,,7,9,6,,5
-UBCV,2017,W,COMM,354,,103,Cost Accounting,Jeff Kroeker,39,70.666666667,11.828452168,91.0,46.0,,5,,,,7,,5,5,5,
-UBCV,2017,W,COMM,354,,201,Cost Accounting,Benjamin Etkin-Goulet;Sandra Chamberlain;William Dorfmann,35,77.971428571,9.160290627,94.0,60.0,,,,,,7,,,8,5,5
-UBCV,2017,W,COMM,354,,202,Cost Accounting,Jeff Kroeker;Robin Buttar;Sandra Chamberlain,35,73.771428571,12.845428837,99.0,50.0,,,,,,5,5,,5,,5
-UBCV,2017,W,COMM,354,,203,Cost Accounting,Jeff Kroeker;Kasane Edmunds;Kasane Sydney Edmunds,24,72.625,15.558619867,97.0,45.0,,,,,,,,,7,,
-UBCV,2017,W,COMM,354,,204,Cost Accounting,Benjamin Etkin-Goulet;William Dorfmann,40,71.65,7.797271055,88.0,57.0,,,,,,10,10,,8,,
-UBCV,2017,W,COMM,354,,OVERALL,Cost Accounting,,248,74.34677419399999,11.267483475999999,99.0,45.0,2.0,13,13,14,19,32,37,23,48,23,24
-UBCV,2017,W,COMM,355,,101,Income Taxation,Daniel Leong;Tran Khue Chung,42,73.904761905,14.46747323,94.0,31.0,,,,,,,6,,13,7,
-UBCV,2017,W,COMM,355,,102,Income Taxation,Daniel Leong;Tran Khue Chung,43,75.0,14.231086028,95.0,33.0,,,,,,,5,,15,5,
-UBCV,2017,W,COMM,355,,103,Income Taxation,Daniel Leong;Tran Khue Chung,44,72.431818182,14.535278219,97.0,38.0,,,,,5,7,,,3,6,7
-UBCV,2017,W,COMM,355,,201,Income Taxation,Daniel Leong;Tran Khue Chung,44,75.977272727,14.432664239000001,96.0,19.0,,,,,7,,,,9,10,6
-UBCV,2017,W,COMM,355,,202,Income Taxation,Daniel Leong;Tran Khue Chung,30,70.6,13.087503910999999,95.0,44.0,,,,,,5,7,,5,2,
-UBCV,2017,W,COMM,355,,OVERALL,Income Taxation,,203,73.778325123,14.20448692,97.0,19.0,14,8,6,11,18,17,25,7,45,30,22
-UBCV,2017,W,COMM,362,,101,Consumer Behaviour,David Hardisty;Lisa Ann Cavanaugh;Lisa Cavanaugh;Ray Chuck Howard;Ray Howard,42,79.285714286,8.214459928,99.0,59.0,,,,,,5,5,7,12,6,
-UBCV,2017,W,COMM,362,,102,Consumer Behaviour,David Hardisty;Lisa Ann Cavanaugh;Lisa Cavanaugh;Ray Chuck Howard;Ray Howard,41,76.219512195,6.736142052999999,93.0,62.0,,,,,,6,,13,10,,
-UBCV,2017,W,COMM,362,,103,Consumer Behaviour,David Hardisty;Lisa Ann Cavanaugh;Lisa Cavanaugh;Ray Chuck Howard;Ray Howard,39,75.358974359,7.774747176,90.0,55.0,,,,,,,10,8,7,,
-UBCV,2017,W,COMM,362,,201,Consumer Behaviour,Yann Cornil;Yoonji Shim,43,78.069767442,8.998400252,94.0,55.0,,,,,,6,9,2,14,,7
-UBCV,2017,W,COMM,362,,202,Consumer Behaviour,Yann Cornil;Yoonji Shim,44,77.840909091,9.840455609,94.0,50.0,,,,,,,,13,7,8,5
-UBCV,2017,W,COMM,362,,OVERALL,Consumer Behaviour,,209,77.397129187,8.446676143,99.0,50.0,,,6,5,10,25,29,43,50,22,18
-UBCV,2017,W,COMM,363,,101,Marketing Analysis,Candy Liu;Rui Jorge Basto Da Silva,37,78.432432432,4.450596343,87.0,68.0,,,,,,,,17,10,,
-UBCV,2017,W,COMM,363,,102,Marketing Analysis,Rui Jorge Basto Da Silva;Timothy Silk,35,80.0,3.92578205,90.0,69.0,,,,,,,,10,18,,
-UBCV,2017,W,COMM,363,,103,Marketing Analysis,Rui Jorge Basto Da Silva;Timothy Silk,37,80.08108108100001,4.205673274,90.0,68.0,,,,,,,5,4,22,,
-UBCV,2017,W,COMM,363,,202,Marketing Analysis,Ann Stone;Kristin Rotte;Samantha Wong,24,76.416666667,5.6868778529999995,85.0,65.0,,,,,,,7,6,6,,
-UBCV,2017,W,COMM,363,,203,Marketing Analysis,Hee Eun You;Kristin Rotte;Timothy Silk,40,78.2,7.172597427,93.0,49.0,,,,,,,5,10,17,,
-UBCV,2017,W,COMM,363,,OVERALL,Marketing Analysis,,173,78.768786127,5.33241047,93.0,49.0,,,,,,8,22,47,73,16,
-UBCV,2017,W,COMM,365,,101,Market Research,Chunhua Wu;Fan Yang;Yanwen Wang,43,77.279069767,9.61973562,97.0,45.0,,,,,,,11,9,7,5,
-UBCV,2017,W,COMM,365,,102,Market Research,Chunhua Wu;Fan Yang;Yanwen Wang,42,78.30952381,7.072751199,90.0,50.0,,,,,,,6,10,12,7,
-UBCV,2017,W,COMM,365,,201,Market Research,Abhay Bhanot;Bicheng Yang,41,76.56097561,6.465480572000001,90.0,53.0,,,,,,,10,9,14,,
-UBCV,2017,W,COMM,365,,202,Market Research,Abhay Bhanot;Bicheng Yang,37,74.08108108100001,8.483246162999999,90.0,53.0,,,,,,7,6,8,6,,
-UBCV,2017,W,COMM,365,,203,Market Research,Abhay Bhanot;Bicheng Yang;Cluny South,16,77.125,8.716841936,90.0,58.0,,,,,,,3,1,6,,
-UBCV,2017,W,COMM,365,,OVERALL,Market Research,,179,76.68156424600001,8.11464523,97.0,45.0,,,,,8,16,36,37,45,19,8
-UBCV,2017,W,COMM,370,,101,Corporate Finance,Ruth Freedman,43,78.372093023,7.374419286,96.0,60.0,,,,,,,8,13,10,,5
-UBCV,2017,W,COMM,370,,102,Corporate Finance,Ruth Freedman,42,78.833333333,9.188849729,94.0,60.0,,,,,,,7,,8,10,5
-UBCV,2017,W,COMM,370,,103,Corporate Finance,Azizjon Alimov,40,73.875,12.403861060999999,94.0,45.0,,,,,,10,,,5,,6
-UBCV,2017,W,COMM,370,,104,Corporate Finance,Caren Lombard,40,74.7,12.270874418,94.0,46.0,,,,,,,7,5,5,,7
-UBCV,2017,W,COMM,370,,105,Corporate Finance,Ruth Freedman,42,73.857142857,12.769192019,95.0,37.0,,,,,,7,,7,8,,5
-UBCV,2017,W,COMM,370,,106,Corporate Finance,Darren Degraaf,43,78.604651163,5.956747013999999,92.0,64.0,,,,,,5,8,7,17,,
-UBCV,2017,W,COMM,370,,107,Corporate Finance,Darren Degraaf,42,79.80952381,5.424596625,89.0,69.0,,,,,,5,5,10,12,10,
-UBCV,2017,W,COMM,370,,108,Corporate Finance,Caren Lombard,40,74.25,9.464508602,90.0,53.0,,,,,,5,5,6,8,6,
-UBCV,2017,W,COMM,370,,110,Corporate Finance,Darren Degraaf,44,77.113636364,6.3363694,91.0,61.0,,,,,,5,8,14,10,,
-UBCV,2017,W,COMM,370,,111,Corporate Finance,Darren Degraaf,42,76.30952381,7.402992458,87.0,59.0,,,,,,6,7,7,9,7,
-UBCV,2017,W,COMM,370,,201,Corporate Finance,Eleni Simintzi,39,77.17948717899999,8.804519757000001,93.0,58.0,,,,,,5,8,7,6,5,
-UBCV,2017,W,COMM,370,,202,Corporate Finance,Azizjon Alimov,33,77.0,9.67600124,97.0,56.0,,,,,,,5,6,6,5,
-UBCV,2017,W,COMM,370,,OVERALL,Corporate Finance,,490,76.687755102,9.308090301,97.0,37.0,5,5,9,21,26,58,74,90,104,59,39
-UBCV,2017,W,COMM,371,,101,Investment Theory,Azizjon Alimov;Guangli Lu,39,78.076923077,8.815012957999999,95.0,62.0,,,,,,7,5,6,5,8,5
-UBCV,2017,W,COMM,371,,102,Investment Theory,Elena Pikulina;Guangli Lu,43,78.09302325600001,7.174073537000001,91.0,60.0,,,,,,,5,12,10,9,
-UBCV,2017,W,COMM,371,,103,Investment Theory,Elena Pikulina,42,81.666666667,9.272741765,100.0,60.0,,,,,,,,2,10,11,9
-UBCV,2017,W,COMM,371,,104,Investment Theory,Elena Pikulina;Markus Baldauf,43,74.534883721,10.655534751,91.0,45.0,,,,,5,6,,8,5,8,
-UBCV,2017,W,COMM,371,,105,Investment Theory,Markus Baldauf;Wenjie Chen,41,78.780487805,11.83535423,94.0,31.0,,,,,,,,7,14,8,
-UBCV,2017,W,COMM,371,,106,Investment Theory,Azizjon Alimov;Markus Baldauf;Wenjie Chen,40,78.475,9.821450882,91.0,40.0,,,,,,,,8,13,6,
-UBCV,2017,W,COMM,371,,107,Investment Theory,Georgios Skoulakis;Markus Baldauf,47,82.404255319,8.709464054,100.0,62.0,,,,,,,7,6,9,10,11
-UBCV,2017,W,COMM,371,,OVERALL,Investment Theory,,295,78.915254237,9.766470713,100.0,31.0,,,,8,13,23,30,49,66,60,37
-UBCV,2017,W,COMM,374,,201,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,39,82.384615385,5.319355841,94.0,74.0,,,,,,,5,6,14,10,
-UBCV,2017,W,COMM,374,,202,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,42,80.285714286,6.045702825,91.0,66.0,,,,,,,6,8,13,10,
-UBCV,2017,W,COMM,374,,203,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,41,77.512195122,8.222292719,93.0,45.0,,,,,,,6,13,9,5,
-UBCV,2017,W,COMM,374,,204,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,39,74.58974359,14.399776951,93.0,19.0,,,,,,,10,7,11,2,
-UBCV,2017,W,COMM,374,,205,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,43,79.162790698,6.462088092,88.0,58.0,,,,,,,,11,15,9,
-UBCV,2017,W,COMM,374,,206,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis;Jan Bena,38,79.868421053,6.830658441000001,91.0,64.0,,,,,,,,8,9,9,
-UBCV,2017,W,COMM,374,,OVERALL,Applied Financial Markets,,242,78.97107438,8.650137917,94.0,19.0,,,,,7,13,35,53,71,45,13
-UBCV,2017,W,COMM,377,,101,International Financial Markets and Institutions,Azizjon Alimov,40,71.775,14.330329143,97.0,43.0,,,,,5,,,8,1,3,6
-UBCV,2017,W,COMM,377,,102,International Financial Markets and Institutions,Azizjon Alimov,40,77.25,12.901500608,97.0,47.0,,,,,,6,,,5,8,6
-UBCV,2017,W,COMM,377,,201,International Financial Markets and Institutions,Azizjon Alimov,34,76.88235294100001,15.06906264,95.0,13.0,,,,,,,,,7,7,4
-UBCV,2017,W,COMM,377,,OVERALL,International Financial Markets and Institutions,,114,75.21929824600001,14.181977078,97.0,13.0,4.0,5,5,7,11,12,7,16,13,18,16
-UBCV,2017,W,COMM,382,,101,Economics of Entrepreneurship and Innovation,Jaideep Singh;Steven Minns,40,76.4,3.8683462310000003,86.0,68.0,,,,,,,13,12,9,2,
-UBCV,2017,W,COMM,382,,102,Economics of Entrepreneurship and Innovation,Jaideep Singh;Steven Minns,35,77.428571429,4.995796552,87.0,64.0,,,,,,,8,11,8,5,
-UBCV,2017,W,COMM,382,,OVERALL,Economics of Entrepreneurship and Innovation,,75,76.88,4.429507934,87.0,64.0,,,,,,6,21,23,17,7,
-UBCV,2017,W,COMM,386,A,101,Topics in Business III,David Silver,17,79.823529412,3.504199162,86.0,74.0,,,,,,,,7,5,,
-UBCV,2017,W,COMM,386,A,201,Topics in Business III,David Silver,7,81.714285714,2.138089935,85.0,79.0,,,,,,,,,5,,
-UBCV,2017,W,COMM,386,A,OVERALL,Topics in Business III,,24,80.375,3.241208846,86.0,74.0,,,,,,,,8,10,,
-UBCV,2017,W,COMM,386,D,101,Topics in Business III,Marc-David Seidel,41,77.463414634,8.910941479,93.0,54.0,,,,,,,7,8,10,7,
-UBCV,2017,W,COMM,386,D,OVERALL,Topics in Business III,,41,77.463414634,8.910941479,93.0,54.0,,,,,,,7,8,10,7,
-UBCV,2017,W,COMM,386,G,201,Topics in Business III,Will Gornall;Xuejing Guan,37,80.27027027,5.419351379,91.0,69.0,,,,,,,5,8,11,9,
-UBCV,2017,W,COMM,386,G,OVERALL,Topics in Business III,,37,80.27027027,5.419351379,91.0,69.0,,,,,,,5,8,11,9,
-UBCV,2017,W,COMM,386,I,201,Topics in Business III,Tamara Etmannski,38,81.105263158,13.966735527,90.0,0.0,,,,,,,,,17,12,
-UBCV,2017,W,COMM,386,I,OVERALL,Topics in Business III,,38,81.105263158,13.966735527,90.0,0.0,,,,,,,,,17,12,
-UBCV,2017,W,COMM,386,J,201,Topics in Business III,Dale Griffin;Nicole Nauss;Tamar Milne,26,81.153846154,4.258566028,88.0,72.0,,,,,,,,7,10,7,
-UBCV,2017,W,COMM,386,J,202,Topics in Business III,Amanda Bamford;Amanda Kathleen Marissa Bamford;Dale Griffin;Tamar Milne,25,78.76,4.7808646360000004,86.0,70.0,,,,,,,,5,10,,
-UBCV,2017,W,COMM,386,J,OVERALL,Topics in Business III,,51,79.980392157,4.63676696,88.0,70.0,,,,,,,6,12,20,10,
-UBCV,2017,W,COMM,386,L,201,Topics in Business III,James Tansey;Varun Srivatsan,26,80.26923076899999,12.597008192,88.0,24.0,,,,,,,,,10,11,
-UBCV,2017,W,COMM,386,L,OVERALL,Topics in Business III,,26,80.26923076899999,12.597008192,88.0,24.0,,,,,,,,,10,11,
-UBCV,2017,W,COMM,386,R,101,Topics in Business III,Tamar Milne,42,76.761904762,8.576227847,91.0,52.0,,,,,,5,8,6,8,8,
-UBCV,2017,W,COMM,386,R,OVERALL,Topics in Business III,,42,76.761904762,8.576227847,91.0,52.0,,,,,,5,8,6,8,8,
-UBCV,2017,W,COMM,386,S,201,Topics in Business III,Cameron Morrell,23,74.130434783,14.979696404,92.0,39.0,,,,,,,,,,5,
-UBCV,2017,W,COMM,386,S,OVERALL,Topics in Business III,,23,74.130434783,14.979696404,92.0,39.0,,,,,,,,,,5,
-UBCV,2017,W,COMM,387,,201,Entrepreneurial Finance,Jan Bena;Justin Bull,38,80.026315789,6.667739364,90.0,62.0,,,,,,,5,3,17,8,
-UBCV,2017,W,COMM,387,,202,Entrepreneurial Finance,Jan Bena;Justin Bull,24,78.375,8.334383992000001,90.0,53.0,,,,,,,1,5,8,4,
-UBCV,2017,W,COMM,387,,OVERALL,Entrepreneurial Finance,,62,79.387096774,7.335864826,90.0,53.0,,,,,,5,6,8,25,12,
-UBCV,2017,W,COMM,388,,101,Design Methods for Business Innovation,Angele Beausoleil;Parham Albadvi,36,83.638888889,3.181668725,90.0,72.0,,,,,,,,,17,15,
-UBCV,2017,W,COMM,388,,102,Design Methods for Business Innovation,Angele Beausoleil;Emilie Gibeau,40,83.95,2.773038692,89.0,78.0,,,,,,,,,18,21,
-UBCV,2017,W,COMM,388,,201,Design Methods for Business Innovation,Dharini Thiruchittampalam;Emilie Gibeau,32,80.3125,4.138236339,88.0,69.0,,,,,,,,8,16,5,
-UBCV,2017,W,COMM,388,,OVERALL,Design Methods for Business Innovation,,108,82.768518519,3.6954290569999997,90.0,69.0,,,,,,,,11,51,41,
-UBCV,2017,W,COMM,389,,101,Creativity in Business,Angele Beausoleil;Pierre Alexander Noujeim;Pierre Noujeim,39,86.333333333,4.770155759,95.0,76.0,,,,,,,,5,9,13,12
-UBCV,2017,W,COMM,389,,OVERALL,Creativity in Business,,39,86.333333333,4.770155759,95.0,76.0,,,,,,,,5,9,13,12
-UBCV,2017,W,COMM,390,,101,Business Writing,Elizabeth Bowker,20,78.1,4.024922359,86.0,72.0,,,,,,,7,,8,,
-UBCV,2017,W,COMM,390,,102,Business Writing,Elizabeth Bowker,21,79.095238095,4.857002799,88.0,70.0,,,,,,,,,9,,
-UBCV,2017,W,COMM,390,,103,Business Writing,Jessica Oman;Marlisse Silver Sweeney,20,79.1,6.206109045,88.0,64.0,,,,,,,,5,8,,
-UBCV,2017,W,COMM,390,,104,Business Writing,Chad Brealey;Jessica Oman,20,79.25,3.16019653,87.0,74.0,,,,,,,,9,8,,
-UBCV,2017,W,COMM,390,,105,Business Writing,Cameron Morrell;Chad Brealey,19,81.315789474,7.288138244,90.0,65.0,,,,,,,,,5,6,
-UBCV,2017,W,COMM,390,,106,Business Writing,Cameron Morrell;Chad Brealey,18,75.0,9.133004145,86.0,54.0,,,,,,,,,5,,
-UBCV,2017,W,COMM,390,,107,Business Writing,Brian Sutherland;Chad Brealey,19,79.263157895,5.635621875,86.0,68.0,,,,,,,,,7,,
-UBCV,2017,W,COMM,390,,108,Business Writing,Brian Sutherland;Chad Brealey,20,75.0,7.026266509,87.0,65.0,,,,,,5,5,,,,
-UBCV,2017,W,COMM,390,,109,Business Writing,Brian Sutherland;Timothy Cuffe;Timothy David Cuffe,20,84.9,5.280550211,91.0,67.0,,,,,,,,,,11,
-UBCV,2017,W,COMM,390,,110,Business Writing,Brian Sutherland;Timothy Cuffe;Timothy David Cuffe,19,84.0,4.988876516,90.0,68.0,,,,,,,,,5,11,
-UBCV,2017,W,COMM,390,,111,Business Writing,Amie Wolf;Susan Soliman Ibrahim,18,74.388888889,6.353682479,85.0,62.0,,,,,,,,7,,,
-UBCV,2017,W,COMM,390,,112,Business Writing,Amie Wolf;Susan Soliman Ibrahim,20,75.2,10.216601557,85.0,42.0,,,,,,,,,10,,
-UBCV,2017,W,COMM,390,,113,Business Writing,Brian Sutherland;Chad Brealey,20,78.2,6.638008579,89.0,63.0,,,,,,,,5,6,,
-UBCV,2017,W,COMM,390,,114,Business Writing,Brian Sutherland;Chad Brealey,19,72.684210526,7.874379211,86.0,58.0,,,,,,,,,,,
-UBCV,2017,W,COMM,390,,115,Business Writing,Marlisse Silver Sweeney,19,79.05263157899999,5.948610335,87.0,60.0,,,,,,,,,9,,
-UBCV,2017,W,COMM,390,,116,Business Writing,Marlisse Silver Sweeney,20,75.35,5.724140938,87.0,64.0,,,,,,,5,,5,,
-UBCV,2017,W,COMM,390,,117,Business Writing,Brian Sutherland,19,75.736842105,3.913539252,81.0,65.0,,,,,,,,9,,,
-UBCV,2017,W,COMM,390,,118,Business Writing,Brian Sutherland,20,76.9,4.33953672,85.0,69.0,,,,,,,,6,7,,
-UBCV,2017,W,COMM,390,,119,Business Writing,Brenda Jones;Marlisse Silver Sweeney,19,77.105263158,7.437851667,87.0,60.0,,,,,,,,,5,,
-UBCV,2017,W,COMM,390,,120,Business Writing,Brenda Jones;Marlisse Silver Sweeney,18,75.555555556,7.679018182999999,85.0,60.0,,,,,,,6,,,,
-UBCV,2017,W,COMM,390,,121,Business Writing,Brian Sutherland;Jessica Oman,19,77.421052632,4.127358443,83.0,69.0,,,,,,,,,10,,
-UBCV,2017,W,COMM,390,,122,Business Writing,Brian Sutherland;Jessica Oman,20,76.25,3.82340438,82.0,65.0,,,,,,,5,10,,,
-UBCV,2017,W,COMM,390,,123,Business Writing,Brian Sutherland;Cameron Morrell,20,76.95,4.260899337,83.0,70.0,,,,,,,5,6,7,,
-UBCV,2017,W,COMM,390,,201,Business Writing,Brian Sutherland;Chad Brealey,19,77.736842105,2.130260945,81.0,72.0,,,,,,,,13,5,,
-UBCV,2017,W,COMM,390,,202,Business Writing,Brian Sutherland;Chad Brealey,20,77.6,2.562893102,81.0,70.0,,,,,,,,12,6,,
-UBCV,2017,W,COMM,390,,203,Business Writing,Brian Sutherland;Chad Brealey,19,78.473684211,2.318246968,83.0,73.0,,,,,,,,8,10,,
-UBCV,2017,W,COMM,390,,204,Business Writing,Frederick Fajardo;Jessica Oman,20,79.85,4.793361638,87.0,67.0,,,,,,,,6,8,,
-UBCV,2017,W,COMM,390,,205,Business Writing,Frederick Fajardo;Jessica Oman,20,74.7,7.657813347,86.0,60.0,,,,,,,,6,,,
-UBCV,2017,W,COMM,390,,206,Business Writing,Susan Soliman Ibrahim,20,78.3,4.878524367,84.0,68.0,,,,,,,,,12,,
-UBCV,2017,W,COMM,390,,207,Business Writing,Susan Soliman Ibrahim,15,79.533333333,4.34028746,85.0,71.0,,,,,,,,,9,,
-UBCV,2017,W,COMM,390,,208,Business Writing,Elizabeth Bowker,10,77.8,9.681597664,91.0,62.0,,,,,,,,,,,
-UBCV,2017,W,COMM,390,,209,Business Writing,Elizabeth Bowker,8,82.625,7.229651246,90.0,70.0,,,,,,,,,,,
-UBCV,2017,W,COMM,390,,210,Business Writing,Brian Sutherland;Cameron Morrell,20,77.1,9.261692468,90.0,56.0,,,,,,,,,,,
-UBCV,2017,W,COMM,390,,211,Business Writing,Brian Sutherland;Cameron Morrell;Susan Soliman Ibrahim,14,77.428571429,7.439130281000001,86.0,61.0,,,,,,,,,5,,
-UBCV,2017,W,COMM,390,,212,Business Writing,Cameron Morrell;Douglas Mollenhauer,18,77.277777778,6.0663542260000005,87.0,60.0,,,,,,,6,5,,,
-UBCV,2017,W,COMM,390,,213,Business Writing,Cameron Morrell;Marlisse Silver Sweeney,17,75.058823529,8.562057202,88.0,58.0,,,,,,,,5,,,
-UBCV,2017,W,COMM,390,,214,Business Writing,Cameron Morrell;Marlisse Silver Sweeney,19,73.736842105,7.629199064,87.0,61.0,,,,,,5,,,,,
-UBCV,2017,W,COMM,390,,215,Business Writing,Elizabeth Bowker,12,74.25,6.929843236,85.0,60.0,,,,,,,,,,,
-UBCV,2017,W,COMM,390,,216,Business Writing,Brian Sutherland;Chad Brealey,18,77.0,7.6696498879999995,88.0,62.0,,,,,,,,,5,,
-UBCV,2017,W,COMM,390,,217,Business Writing,Brian Sutherland;Chad Brealey,20,80.2,6.748099148,88.0,67.0,,,,,,,,,6,8,
-UBCV,2017,W,COMM,390,,218,Business Writing,Brian Sutherland;Chad Brealey,18,73.611111111,8.218622247,92.0,63.0,,,,,,5,,,,,
-UBCV,2017,W,COMM,390,,219,Business Writing,Jessica Oman;Timothy Cuffe;Timothy David Cuffe,20,80.0,6.423640548,89.0,60.0,,,,,,,,,7,5,
-UBCV,2017,W,COMM,390,,220,Business Writing,Jessica Oman;Timothy Cuffe;Timothy David Cuffe,20,80.4,4.649844366,87.0,72.0,,,,,,,5,,8,,
-UBCV,2017,W,COMM,390,,221,Business Writing,Brian Sutherland;Marlisse Silver Sweeney,20,77.45,3.734265235,82.0,65.0,,,,,,,,11,7,,
-UBCV,2017,W,COMM,390,,222,Business Writing,Brian Sutherland;Eva Kjekstad,19,76.684210526,3.317506285,81.0,66.0,,,,,,,,12,,,
-UBCV,2017,W,COMM,390,,OVERALL,Business Writing,,833,77.601440576,6.546953038,92.0,42.0,,,,24,38,62,129,205,250,108,12
-UBCV,2017,W,COMM,393,,101,Commercial Law,Ellen Jane Mcintosh;Ellen Mcintosh,50,73.54,9.687378702,95.0,50.0,,,,7,6,6,8,7,5,7,
-UBCV,2017,W,COMM,393,,102,Commercial Law,Ellen Jane Mcintosh;Ellen Mcintosh,61,72.950819672,8.061071537,90.0,55.0,,,,6,5,13,11,9,7,6,
-UBCV,2017,W,COMM,393,,103,Commercial Law,Barbara Cox;Elicia Salzberg,62,74.69354838699999,9.716622077,89.0,50.0,,,,,6,,11,9,16,8,
-UBCV,2017,W,COMM,393,,104,Commercial Law,Barbara Cox,60,71.68333333300001,10.477565487,92.0,47.0,,,5,6,7,5,9,9,7,7,
-UBCV,2017,W,COMM,393,,105,Commercial Law,Barbara Cox;Ellen Jane Mcintosh,60,74.366666667,9.618073853,92.0,52.0,,,,,,8,11,6,16,,
-UBCV,2017,W,COMM,393,,106,Commercial Law,Barbara Cox;Ellen Jane Mcintosh,62,75.032258065,9.148981385,95.0,48.0,,,,,5,6,17,6,15,5,
-UBCV,2017,W,COMM,393,,201,Commercial Law,Barbara Cox;Ellen Jane Mcintosh;Ellen Mcintosh,36,72.527777778,11.765533468,87.0,17.0,,,,,5,5,10,3,6,,
-UBCV,2017,W,COMM,393,,202,Commercial Law,Barbara Cox;Ellen Jane Mcintosh;Ellen Mcintosh,58,75.89655172399999,6.851020298,88.0,55.0,,,,,,10,13,9,17,,
-UBCV,2017,W,COMM,393,,203,Commercial Law,Elicia Salzberg;Ellen Jane Mcintosh;Ellen Mcintosh,62,77.790322581,7.055139033,88.0,55.0,,,,,,,14,5,22,12,
-UBCV,2017,W,COMM,393,,204,Commercial Law,Barbara Cox;Elicia Salzberg,48,74.479166667,10.437227934,93.0,44.0,,,,,,8,6,12,8,6,
-UBCV,2017,W,COMM,393,,205,Commercial Law,Barbara Cox,52,69.115384615,10.16656158,85.0,41.0,,,5,5,6,6,8,8,7,,
-UBCV,2017,W,COMM,393,,206,Commercial Law,Barbara Cox,51,70.588235294,8.825364515,90.0,44.0,,,,5,7,9,11,6,6,,
-UBCV,2017,W,COMM,393,,OVERALL,Commercial Law,,662,73.682779456,9.495550649,95.0,17.0,8,15,25,41,58,83,129,89,132,67,15
-UBCV,2017,W,COMM,394,,101,Government and Business,Charles Lindsey;Navid Siami,44,76.863636364,7.638917825,90.0,57.0,,,,,,6,14,,7,9,
-UBCV,2017,W,COMM,394,,102,Government and Business,Charles Lindsey;Navid Siami,44,76.590909091,10.137010664,96.0,43.0,,,,,,7,7,5,8,5,5
-UBCV,2017,W,COMM,394,,103,Government and Business,Steven Minns;Xiao Yue Wang,47,76.85106383,5.721730976,90.0,68.0,,,,,,10,9,12,9,5,
-UBCV,2017,W,COMM,394,,104,Government and Business,Jakhongir Khamudkhanov;Jose Gregorio Pineda Salazar;Jose Pineda Salazar,46,74.326086957,7.659574538999999,85.0,36.0,,,,,,,13,14,8,,
-UBCV,2017,W,COMM,394,,105,Government and Business,Jakhongir Khamudkhanov;Jose Gregorio Pineda Salazar;Jose Pineda Salazar,46,78.717391304,4.674579213,90.0,65.0,,,,,,,5,15,16,6,
-UBCV,2017,W,COMM,394,,106,Government and Business,C Keith Head;Xia0non Sun;Xiaonan Sun,47,75.170212766,6.158483541,86.0,62.0,,,,,5,5,11,11,10,,
-UBCV,2017,W,COMM,394,,107,Government and Business,C Keith Head;Omar Dhanani,38,73.84210526300001,7.423579365,90.0,60.0,,,,,5,8,6,8,,,
-UBCV,2017,W,COMM,394,,108,Government and Business,Steven Minns;Xiao Yue Wang,46,77.869565217,6.672026831,92.0,66.0,,,,,,8,10,8,10,,5
-UBCV,2017,W,COMM,394,,109,Government and Business,Jakhongir Khamudkhanov;Jose Gregorio Pineda Salazar;Jose Pineda Salazar,45,76.822222222,6.641087291,87.0,50.0,,,,,,,7,12,17,,
-UBCV,2017,W,COMM,394,,201,Government and Business,Steven Minns;Xiao Yue Wang,17,75.352941176,4.910972108999999,85.0,69.0,,,,,,,7,,,,
-UBCV,2017,W,COMM,394,,202,Government and Business,Jose Pineda Salazar;Steven Minns;Xiao Yue Wang,46,73.826086957,4.639465237,83.0,68.0,,,,,,20,8,10,8,,
-UBCV,2017,W,COMM,394,,203,Government and Business,Navid Siami;Thomas Ross,40,74.975,8.407833649,90.0,51.0,,,,,,,9,,14,,
-UBCV,2017,W,COMM,394,,204,Government and Business,Navid Siami;Thomas Ross,31,77.064516129,7.894873796000001,90.0,56.0,,,,,,,,5,11,,
-UBCV,2017,W,COMM,394,,205,Government and Business,Steven Minns;Xiao Yue Wang,46,79.934782609,5.697571311,90.0,68.0,,,,,,5,,10,16,11,
-UBCV,2017,W,COMM,394,,206,Government and Business,Steven Minns;Xiao Yue Wang,49,79.591836735,5.30690732,88.0,68.0,,,,,,5,7,6,19,12,
-UBCV,2017,W,COMM,394,,207,Government and Business,Jakhongir Khamudkhanov;Jose Gregorio Pineda Salazar;Jose Pineda Salazar,48,77.125,6.641664108,90.0,57.0,,,,,,,6,14,15,,
-UBCV,2017,W,COMM,394,,208,Government and Business,Jakhongir Khamudkhanov;Jose Gregorio Pineda Salazar;Jose Pineda Salazar,45,76.311111111,8.409470371,92.0,58.0,,,,,,5,6,7,11,6,
-UBCV,2017,W,COMM,394,,OVERALL,Government and Business,,725,76.634482759,7.064632354,96.0,36.0,,,5,15,35,98,131,146,186,82,23
-UBCV,2017,W,COMM,395,,101,Business Communications,David Miller;Elizabeth Bowker;Gun Uk Han;Sassan Shokoohi,39,77.025641026,4.251855196,85.0,68.0,,,,,,5,8,11,14,,
-UBCV,2017,W,COMM,395,,102,Business Communications,David Miller;Elizabeth Bowker;Keunwoo Kim;Sassan Shokoohi,39,77.58974359,4.609589253999999,88.0,70.0,,,,,,5,9,8,14,,
-UBCV,2017,W,COMM,395,,103,Business Communications,David Miller;Sassan Shokoohi;Sharon Zhao;Susan Soliman Ibrahim,40,74.4,6.682545192999999,83.0,60.0,,,,5,,6,11,,13,,
-UBCV,2017,W,COMM,395,,104,Business Communications,David Miller;Hadi Hassan;Sassan Shokoohi;Susan Soliman Ibrahim,37,75.94594594600001,5.744301263,84.0,56.0,,,,,,5,6,11,13,,
-UBCV,2017,W,COMM,395,,105,Business Communications,Douglas Mollenhauer;Jia Xin Li;Sassan Shokoohi,40,77.425,4.075489588,87.0,63.0,,,,,,,8,19,10,,
-UBCV,2017,W,COMM,395,,106,Business Communications,Arielle Uwonkunda;Douglas Mollenhauer;Elizabeth Bowker;Ioannis Sakarellos;Sassan Shokoohi,36,77.305555556,9.759448007,87.0,25.0,,,,,,,,13,12,,
-UBCV,2017,W,COMM,395,,107,Business Communications,Cameron Morrell;Douglas Mollenhauer;Ee Anne Lee;Sassan Shokoohi,39,78.384615385,3.710691414,86.0,72.0,,,,,,,7,15,13,,
-UBCV,2017,W,COMM,395,,108,Business Communications,Elizabeth Bowker;Niki Vaahedi;Sassan Shokoohi;Syed Raza Razi;Syed Razi,38,79.0,3.904259628,86.0,71.0,,,,,,,5,13,16,,
-UBCV,2017,W,COMM,395,,109,Business Communications,Bowie Ko;Douglas Mollenhauer,39,77.333333333,3.7086906,86.0,70.0,,,,,,,7,18,8,,
-UBCV,2017,W,COMM,395,,110,Business Communications,Andrew Chen;Cameron Morrell;Leigh Macfadyen;Sassan Shokoohi;Yao Chu Chen,38,75.078947368,5.639539846,91.0,58.0,,,,,,,11,13,5,,
-UBCV,2017,W,COMM,395,,111,Business Communications,Alexandra Skarsgard;Cameron Morrell;Sassan Shokoohi,36,78.583333333,4.563050358,86.0,68.0,,,,,,,6,9,14,,
-UBCV,2017,W,COMM,395,,112,Business Communications,Cameron Morrell;Katherine Skarsgard;Sassan Shokoohi,39,78.051282051,5.134756274,87.0,65.0,,,,,,,8,14,11,,
-UBCV,2017,W,COMM,395,,202,Business Communications,Elizabeth Bowker;Hadi Hassan;Sassan Shokoohi;Susan Soliman Ibrahim,29,74.275862069,14.875426889000002,85.0,9.0,,,,,,,,6,15,,
-UBCV,2017,W,COMM,395,,203,Business Communications,David Miller;Douglas Mollenhauer;Gun Uk Han;Sassan Shokoohi,40,77.975,4.190878373,87.0,71.0,,,,,,,12,10,13,,
-UBCV,2017,W,COMM,395,,204,Business Communications,David Miller;Douglas Mollenhauer;Jared Braverman;Jared Hayden Braverman;Sassan Shokoohi,40,78.25,3.027650354,84.0,72.0,,,,,,,8,14,18,,
-UBCV,2017,W,COMM,395,,205,Business Communications,Douglas Mollenhauer;Janelle Helen Marie Salm;Janelle Salm;Sassan Shokoohi,39,76.641025641,5.48916243,85.0,65.0,,,,,5,,,13,12,,
-UBCV,2017,W,COMM,395,,206,Business Communications,Douglas Mollenhauer;Hailey Cole;Hailey May Cole;Sassan Shokoohi,28,74.178571429,8.692498134,85.0,47.0,,,,,,,6,6,6,,
-UBCV,2017,W,COMM,395,,207,Business Communications,Alexandra Skarsgard;Cameron Morrell;Sassan Shokoohi,38,77.421052632,4.913476113,86.0,62.0,,,,,,,5,15,10,,
-UBCV,2017,W,COMM,395,,208,Business Communications,Cameron Morrell;Katherine Skarsgard;Sassan Shokoohi,39,78.23076923100001,4.189344494,85.0,69.0,,,,,,,8,13,12,,
-UBCV,2017,W,COMM,395,,209,Business Communications,Cameron Morrell;Elizabeth Bowker;Ioannis Sakarellos;Sassan Shokoohi;Syed Razi,39,78.128205128,4.5432395539999995,87.0,70.0,,,,,,,8,12,13,,
-UBCV,2017,W,COMM,395,,210,Business Communications,Cameron Morrell;Elizabeth Bowker;Niki Vaahedi;Sassan Shokoohi;Si Yue Wang,26,82.115384615,3.9225188139999996,90.0,74.0,,,,,,,,,17,5,
-UBCV,2017,W,COMM,395,,211,Business Communications,Alexa Rae Wu;Alexa Wu;Douglas Mollenhauer;Sassan Shokoohi,24,75.416666667,4.461591319,82.0,66.0,,,,,,5,,9,5,,
-UBCV,2017,W,COMM,395,,OVERALL,Business Communications,,802,77.24563591,5.988400119,91.0,9.0,,,,9,18,57,150,246,264,48,
-UBCV,2017,W,COMM,398,,101,Introduction to Business Processes and Operations,Hao Zhang;Matheus Cariola Sampaio;Matheus Sampaio,52,78.48076923100001,7.762378816,95.0,56.0,,,,,,5,7,11,13,7,5
-UBCV,2017,W,COMM,398,,201,Introduction to Business Processes and Operations,David Gillen;Stav Kimhi,59,80.542372881,7.898760342999999,98.0,58.0,,,,,,3,7,15,10,15,6
-UBCV,2017,W,COMM,398,,202,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,56,77.517857143,10.738191944,96.0,35.0,,,,,,6,8,5,15,8,7
-UBCV,2017,W,COMM,398,,OVERALL,Introduction to Business Processes and Operations,,167,78.886227545,8.953978157,98.0,35.0,,,,,8,14,22,31,38,30,18
-UBCV,2017,W,COMM,405,,101,Real Estate Finance,Thomas Davidoff,35,86.228571429,6.941290414,99.0,72.0,,,,,,,,5,7,7,14
-UBCV,2017,W,COMM,405,,102,Real Estate Finance,Thomas Davidoff,37,86.0,7.7028133389999995,98.0,65.0,,,,,,,,4,7,9,14
-UBCV,2017,W,COMM,405,,OVERALL,Real Estate Finance,,72,86.111111111,7.291815894,99.0,65.0,,,,,,,,9,14,16,28
-UBCV,2017,W,COMM,407,,201,Real Estate Economics,Craig Tsuriel Somerville;Justin Mark Tyndall;Justin Tyndall,24,80.041666667,6.987436967000001,95.0,68.0,,,,,,,,4,10,,
-UBCV,2017,W,COMM,407,,202,Real Estate Economics,Craig Tsuriel Somerville;Justin Mark Tyndall;Justin Tyndall,23,77.913043478,9.908274978,95.0,47.0,,,,,,,,5,5,,
-UBCV,2017,W,COMM,407,,OVERALL,Real Estate Economics,,47,79.0,8.515969652999999,95.0,47.0,,,,,,6,6,9,15,,5
-UBCV,2017,W,COMM,408,,201,Real Estate Development,Craig Tsuriel Somerville,54,79.0,3.38141424,86.0,68.0,,,,,,,7,18,27,,
-UBCV,2017,W,COMM,408,,OVERALL,Real Estate Development,,54,79.0,3.38141424,86.0,68.0,,,,,,,7,18,27,,
-UBCV,2017,W,COMM,412,,101,Negotiation,Cluny Serenella South;Cluny South;Daniel Granot;Frieda Granot,36,81.222222222,2.957905737,87.0,76.0,,,,,,,,8,22,6,
-UBCV,2017,W,COMM,412,,102,Negotiation,Cluny Serenella South;Cluny South;Daniel Granot;Frieda Granot,32,81.3125,2.8334123960000004,86.0,75.0,,,,,,,,4,21,6,
-UBCV,2017,W,COMM,412,,OVERALL,Negotiation,,68,81.264705882,2.8787313080000003,87.0,75.0,,,,,,,,12,43,12,
-UBCV,2017,W,COMM,414,,101,Data Visualization and Business Analytics,Chunhua Wu;Ningfei Shen,45,76.244444444,8.388724997,93.0,60.0,,,,,8,1,9,9,9,3,5
-UBCV,2017,W,COMM,414,,102,Data Visualization and Business Analytics,Chunhua Wu;Ningfei Shen,49,77.571428571,7.90569415,93.0,58.0,,,,,1,5,11,10,7,10,3
-UBCV,2017,W,COMM,414,,OVERALL,Data Visualization and Business Analytics,,94,76.936170213,8.123784952000001,93.0,58.0,,,,,9,6,20,19,16,13,8
-UBCV,2017,W,COMM,415,,101,Quantitative Policy Analysis,David Gillen;Paola Beatriz Lopez Lam;Paola Lopez Lam,41,82.073170732,5.4561444439999995,93.0,76.0,,,,,,,0,19,7,10,5
-UBCV,2017,W,COMM,415,,201,Quantitative Policy Analysis,David Gillen;Paola Lopez Lam,30,78.1,5.384204228,91.0,65.0,,,,,,,6,13,5,3,1
-UBCV,2017,W,COMM,415,,OVERALL,Quantitative Policy Analysis,,71,80.394366197,5.738289624,93.0,65.0,,,,,,,6,32,12,13,6
-UBCV,2017,W,COMM,420,,DD1,Marketing,Mary Swaffield;Murtaza Chaudhry,27,81.29629629600001,5.517906618,90.0,70.0,,,,,,,,,10,7,
-UBCV,2017,W,COMM,420,,DD2,Marketing,Mary Swaffield;Murtaza Chaudhry,27,80.666666667,5.106556871,88.0,65.0,,,,,,,,,13,7,
-UBCV,2017,W,COMM,420,,OVERALL,Marketing,,54,80.981481481,5.275399441999999,90.0,65.0,,,,,,,5,7,23,14,
-UBCV,2017,W,COMM,421,,DD1,Corporate Finance,R Glen Donaldson,27,83.62962963,6.878887142000001,94.0,68.0,,,,,,,,,,8,8
-UBCV,2017,W,COMM,421,,DD2,Corporate Finance,R Glen Donaldson,25,82.12,12.888366847999999,94.0,29.0,,,,,,,,,,7,9
-UBCV,2017,W,COMM,421,,OVERALL,Corporate Finance,,52,82.903846154,10.142629151,94.0,29.0,,,,,,,,7,7,15,17
-UBCV,2017,W,COMM,431,,101,Law of Business Associations,Ellen Mcintosh,19,80.631578947,6.4567839110000005,90.0,70.0,,,,,,,,,7,,
-UBCV,2017,W,COMM,431,,OVERALL,Law of Business Associations,,19,80.631578947,6.4567839110000005,90.0,70.0,,,,,,,,,7,,
-UBCV,2017,W,COMM,434,,201,Land Law,Elicia Salzberg;Neil Mangan,21,78.952380952,5.903187194,90.0,69.0,,,,,,,,6,5,,
-UBCV,2017,W,COMM,434,,OVERALL,Land Law,,21,78.952380952,5.903187194,90.0,69.0,,,,,,,,6,5,,
-UBCV,2017,W,COMM,436,,101,Information Systems Analysis and Design,Adrianna Chen;Carson C Woo,32,76.625,7.329788977000001,86.0,51.0,,,,,,,6,8,9,4,
-UBCV,2017,W,COMM,436,,102,Information Systems Analysis and Design,Adrianna Chen;Carson C Woo,37,79.459459459,5.204669883,90.0,69.0,,,,,,,,12,10,7,
-UBCV,2017,W,COMM,436,,201,Information Systems Analysis and Design,Adrianna Chen;Carson C Woo,36,82.972222222,4.436769166,90.0,72.0,,,,,,,,5,12,16,
-UBCV,2017,W,COMM,436,,202,Information Systems Analysis and Design,Adrianna Chen;Carson C Woo,32,79.75,11.089082105,90.0,25.0,,,,,,,,7,13,7,
-UBCV,2017,W,COMM,436,,OVERALL,Information Systems Analysis and Design,,137,79.788321168,7.588139601,90.0,25.0,,,,,,6,14,32,44,34,
-UBCV,2017,W,COMM,437,,101,Database Technology,Amin Khodabandeh Amiri;Pattharin Tangwaragorn,44,82.090909091,8.086216184,94.0,60.0,,,,,,,3,8,12,11,7
-UBCV,2017,W,COMM,437,,201,Database Technology,Pattharin Tangwaragorn;Zorana Svedic,45,78.311111111,5.538387615,90.0,66.0,,,,,,,9,9,14,7,1
-UBCV,2017,W,COMM,437,,OVERALL,Database Technology,,89,80.179775281,7.134362744,94.0,60.0,,,,,,,12,17,26,18,8
-UBCV,2017,W,COMM,438,,101,Management of Information Systems,Adam Saunders;Colleen Duong;Jiya Dassan;Monique Harjani,61,78.278688525,10.337844952000001,94.0,50.0,,,,,5,8,,8,15,6,11
-UBCV,2017,W,COMM,438,,102,Management of Information Systems,Adam Saunders;Colleen Duong;Jiya Dassan;Monique Harjani,53,83.396226415,8.183801126,97.0,64.0,,,,,,,5,1,14,15,12
-UBCV,2017,W,COMM,438,,201,Management of Information Systems,Adam Saunders;Blake Hanna;Jessica Tse;Jiya Dassan;Monique Harjani,63,80.920634921,9.461810485,98.0,59.0,,,,,5,,10,7,13,11,13
-UBCV,2017,W,COMM,438,,202,Management of Information Systems,Adam Saunders;Jessica Tse;Jiya Dassan;Monique Harjani,53,77.509433962,12.740943452,97.0,45.0,,,,,,6,,5,11,4,13
-UBCV,2017,W,COMM,438,,OVERALL,Management of Information Systems,,230,80.004347826,10.461197935,98.0,45.0,,,,6,16,19,22,21,53,36,49
-UBCV,2017,W,COMM,439,,101,Business Telecommunications,Yau Man Cheung,46,84.065217391,5.926971022999999,94.0,72.0,,,,,,,5,2,13,17,9
-UBCV,2017,W,COMM,439,,201,Business Telecommunications,Michelle Liao;Yau Man Cheung,43,81.90697674399999,6.248100487,96.0,72.0,,,,,,,5,11,10,11,6
-UBCV,2017,W,COMM,439,,OVERALL,Business Telecommunications,,89,83.02247191,6.145910555,96.0,72.0,,,,,,,10,13,23,28,15
-UBCV,2017,W,COMM,443,,201,Service Operations,Andy Chen;Andy Wei Rong Chen;Gregory Werker,41,83.43902439,4.56644709,90.0,72.0,,,,,,,,1,19,12,6
-UBCV,2017,W,COMM,443,,202,Service Operations,Gregory Werker;Sagar Ghulam Muhamad Memon;Sagar Memon,67,83.492537313,6.823251545,94.0,55.0,,,,,,,,7,18,20,14
-UBCV,2017,W,COMM,443,,OVERALL,Service Operations,,108,83.472222222,6.042618627,94.0,55.0,,,,,,,7,8,37,32,20
-UBCV,2017,W,COMM,444,,201,Air Transportation,John Korenic,35,76.771428571,7.70059476,93.0,55.0,,,,,,5,6,6,9,,
-UBCV,2017,W,COMM,444,,OVERALL,Air Transportation,,35,76.771428571,7.70059476,93.0,55.0,,,,,,5,6,6,9,,
-UBCV,2017,W,COMM,445,,101,Maritime and International Transportation,Bernard Maroney;Katherine White;Kimberly Wong,37,78.243243243,7.166300012000001,91.0,64.0,,,,,,,6,8,8,5,
-UBCV,2017,W,COMM,445,,201,Maritime and International Transportation,Anming Zhang;Kun Wang,30,77.4,6.409045332000001,88.0,65.0,,,,,,,7,6,5,6,
-UBCV,2017,W,COMM,445,,OVERALL,Maritime and International Transportation,,67,77.865671642,6.79994546,91.0,64.0,,,,,,8,13,14,13,11,
-UBCV,2017,W,COMM,447,,201,Applied Project Management,Robert Goatham,28,79.357142857,4.762618993999999,88.0,72.0,,,,,,,9,,13,,
-UBCV,2017,W,COMM,447,,OVERALL,Applied Project Management,,28,79.357142857,4.762618993999999,88.0,72.0,,,,,,,9,,13,,
-UBCV,2017,W,COMM,449,,201,Supply-Chain Management,Albina Gibadullina;Gregory Werker;S Thomas Mccormick;Sagar Ghulam Muhamad Memon;Sagar Memon;Thomas Culham,67,82.686567164,4.4897491160000005,90.0,66.0,,,,,,,1,8,35,19,
-UBCV,2017,W,COMM,449,,202,Supply-Chain Management,Albina Gibadullina;Gregory Werker;Sagar Ghulam Muhamad Memon;Sagar Memon;Thomas Culham,40,79.475,5.519139192999999,88.0,66.0,,,,,,,6,12,12,7,
-UBCV,2017,W,COMM,449,,OVERALL,Supply-Chain Management,,107,81.485981308,5.118159468,90.0,66.0,,,,,,,7,20,47,26,
-UBCV,2017,W,COMM,450,,101,Financial Accounting - Intermediate II,Ira Yeung;Nicholas Chua;Nicholas Teik Li Chua,28,73.857142857,14.266547989000001,94.0,32.0,,,,,,,5,,4,,
-UBCV,2017,W,COMM,450,,102,Financial Accounting - Intermediate II,Ira Yeung;Nicholas Chua;Nicholas Teik Li Chua,44,73.477272727,13.368634997000001,91.0,14.0,,,,,,6,8,6,5,,5
-UBCV,2017,W,COMM,450,,103,Financial Accounting - Intermediate II,Ira Yeung;Nicholas Chua;Nicholas Teik Li Chua,44,78.727272727,9.65778066,97.0,58.0,,,,,,7,4,5,8,10,5
-UBCV,2017,W,COMM,450,,104,Financial Accounting - Intermediate II,Alexander John Wou;Alexander Wou;Naveen Dhaliwal;Robert Jackes,41,80.829268293,8.425860308999999,93.0,51.0,,,,,,5,6,,11,8,8
-UBCV,2017,W,COMM,450,,105,Financial Accounting - Intermediate II,Alexander John Wou;Alexander Wou;Naveen Dhaliwal;Robert Jackes,41,72.853658537,11.270672064000001,90.0,36.0,,,,,,6,6,5,9,,
-UBCV,2017,W,COMM,450,,201,Financial Accounting - Intermediate II,Daniel Duncombe;Daniel John Duncombe;Kin Lo;Robert Jackes,49,76.714285714,11.176612486,96.0,51.0,,,,,5,,7,6,10,7,5
-UBCV,2017,W,COMM,450,,OVERALL,Financial Accounting - Intermediate II,,247,76.214574899,11.620634075,97.0,14.0,3.0,5,11,12,14,28,36,28,47,35,28
-UBCV,2017,W,COMM,452,,201,Taxes and Decision Making,Tran Khue Chung;Wantong Zou,46,73.02173913,11.900493230999999,94.0,50.0,,,,5,5,4,,5,8,4,5
-UBCV,2017,W,COMM,452,,202,Taxes and Decision Making,Tran Khue Chung;Wantong Zou,44,76.318181818,15.675151017000001,92.0,11.0,,,,2,1,5,,0,10,8,9
-UBCV,2017,W,COMM,452,,OVERALL,Taxes and Decision Making,,90,74.633333333,13.894829690999998,94.0,11.0,,6,,7,6,9,8,5,18,12,14
-UBCV,2017,W,COMM,453,,101,Financial Accounting-Advanced,Chuck Campbell;Fangxian Guan,35,76.457142857,17.064484717,99.0,36.0,,,,,,,,,8,6,9
-UBCV,2017,W,COMM,453,,201,Financial Accounting-Advanced,Chuck Campbell,28,70.607142857,17.924407704,97.0,24.0,,,,,,,,,5,,
-UBCV,2017,W,COMM,453,,202,Financial Accounting-Advanced,Chuck Campbell,39,82.58974359,17.504462512,98.0,2.0,,,,,,,,,4,8,17
-UBCV,2017,W,COMM,453,,203,Financial Accounting-Advanced,Chuck Campbell;Marija Tomic,38,80.289473684,14.444503105999999,99.0,28.0,,,,,,,,5,7,5,12
-UBCV,2017,W,COMM,453,,204,Financial Accounting-Advanced,Chuck Campbell,19,72.210526316,20.454771102,98.0,19.0,,,,,,,,,6,,
-UBCV,2017,W,COMM,453,,OVERALL,Financial Accounting-Advanced,,159,77.339622642,17.55131002,99.0,2.0,10,7,5,6,8,8,6,10,30,24,45
-UBCV,2017,W,COMM,454,,101,Accounting for Management Control and Incentives,Colleen Duong;Keling Zheng;Sandra Chamberlain,42,75.452380952,7.945553691000001,90.0,59.0,,,,,,7,7,5,10,6,
-UBCV,2017,W,COMM,454,,102,Accounting for Management Control and Incentives,Colleen Duong;Keling Zheng;Sandra Chamberlain,41,79.024390244,7.305777867000001,90.0,60.0,,,,,,,4,7,12,11,
-UBCV,2017,W,COMM,454,,201,Accounting for Management Control and Incentives,Isabel Vidri;Jeff Kroeker,43,75.88372093,10.909168932,97.0,50.0,,,,,8,,5,8,6,2,7
-UBCV,2017,W,COMM,454,,OVERALL,Accounting for Management Control and Incentives,,126,76.761904762,8.960739765,97.0,50.0,,,,,14,13,16,20,28,19,9
-UBCV,2017,W,COMM,455,,101,Principles of Auditing,Liselle Law;Mary Chong,38,76.421052632,11.644814596,93.0,52.0,,,,,,,6,5,,6,7
-UBCV,2017,W,COMM,455,,201,Principles of Auditing,Alexander Wou;Mary Chong,33,74.060606061,9.993558531,93.0,55.0,,,,,,10,,,7,,
-UBCV,2017,W,COMM,455,,202,Principles of Auditing,Calvin Cheung;Mary Chong,40,73.425,11.052062112,90.0,50.0,,,,,,,5,5,8,,
-UBCV,2017,W,COMM,455,,203,Principles of Auditing,Harnoor Gill;Mary Chong,41,80.414634146,8.488155305,93.0,60.0,,,,,,,,,11,12,5
-UBCV,2017,W,COMM,455,,204,Principles of Auditing,Harnoor Gill;Mary Chong,40,79.425,6.5236748339999995,90.0,65.0,,,,,,,8,,12,10,
-UBCV,2017,W,COMM,455,,205,Principles of Auditing,Calvin Cheung;Mary Chong,22,67.045454545,16.585929989,88.0,21.0,,,,,,,6,,,,
-UBCV,2017,W,COMM,455,,OVERALL,Principles of Auditing,,214,75.859813084,11.200225180999999,93.0,21.0,,,8,11,13,25,29,21,44,36,21
-UBCV,2017,W,COMM,457,,101,Fundamentals of Financial Accounting,Danielle Lim;Hsiang-Chieh Yang;Jessica Treagus;Nicholas Chua;Scott Sinclair;Yang Yue,118,70.338983051,14.735978610999998,99.0,32.0,11,7,9,13,10,10,7,12,15,15,9
-UBCV,2017,W,COMM,457,,102,Fundamentals of Financial Accounting,Danielle Lim;Hsiang-Chieh Yang;Jessica Treagus;Nicholas Chua;Scott Sinclair;Yang Yue,230,70.62173913,14.927201995,100.0,14.0,19,14,17,13,24,23,23,28,28,19,22
-UBCV,2017,W,COMM,457,,103,Fundamentals of Financial Accounting,Daniel Kong;Scott Sinclair,42,70.30952381,12.568811759,93.0,33.0,,,6,3,3,6,4,7,5,,2
-UBCV,2017,W,COMM,457,,201,Fundamentals of Financial Accounting,Chelsea Choi;Chelsea Man-Wai Choi;Scott Sinclair,51,70.62745098,12.504336503,92.0,43.0,,,4,5,6,4,8,7,5,,5
-UBCV,2017,W,COMM,457,,OVERALL,Fundamentals of Financial Accounting,,441,70.517006803,14.360308495999998,100.0,14.0,35,24,36,34,43,43,42,54,53,39,38
-UBCV,2017,W,COMM,458,,201,Fundamentals of Managerial Accounting,Chelsea Choi;Chelsea Man-Wai Choi;Hsiang-Chieh Yang;Scott Sinclair;Yang Yue,107,69.971962617,17.705908802,100.0,5.0,8,12,8,9,8,10,7,10,12,12,11
-UBCV,2017,W,COMM,458,,OVERALL,Fundamentals of Managerial Accounting,,107,69.971962617,17.705908802,100.0,5.0,8,12,8,9,8,10,7,10,12,12,11
-UBCV,2017,W,COMM,459,,101,Financial Statement Analysis,Joy Begley;Yang Yue,30,81.666666667,6.132633642999999,92.0,58.0,,,,,,,,7,14,7,
-UBCV,2017,W,COMM,459,,102,Financial Statement Analysis,Joy Begley;Yang Yue,39,82.102564103,5.250538177,89.0,69.0,,,,,,,,8,11,16,
-UBCV,2017,W,COMM,459,,OVERALL,Financial Statement Analysis,,69,81.913043478,5.611802506,92.0,58.0,,,,,,,,15,25,23,
-UBCV,2017,W,COMM,460,,101,Social and Nonprofit Marketing,Joanne Lynn Turner;Joanne Turner,23,78.260869565,5.011054972,90.0,68.0,,,,,,,,12,,,
-UBCV,2017,W,COMM,460,,OVERALL,Social and Nonprofit Marketing,,23,78.260869565,5.011054972,90.0,68.0,,,,,,,,12,,,
-UBCV,2017,W,COMM,461,,201,Business Development,Elaine Williamson,30,79.1,6.753543131,93.0,66.0,,,,,,,,8,7,5,
-UBCV,2017,W,COMM,461,,OVERALL,Business Development,,30,79.1,6.753543131,93.0,66.0,,,,,,,,8,7,5,
-UBCV,2017,W,COMM,462,,101,Integrated Marketing Communication,Ann Stone;Michael Pratt,33,77.787878788,6.0969130289999995,86.0,61.0,,,,,,,8,6,13,,
-UBCV,2017,W,COMM,462,,201,Integrated Marketing Communication,Ann Stone,35,78.37142857100001,4.52500058,87.0,67.0,,,,,,,4,12,14,,
-UBCV,2017,W,COMM,462,,OVERALL,Integrated Marketing Communication,,68,78.088235294,5.313276231000001,87.0,61.0,,,,,,,12,18,27,5,
-UBCV,2017,W,COMM,464,,101,Digital Marketing,Meena Sandhu;Victor Tang,34,88.735294118,3.964301486,94.0,80.0,,,,,,,,,8,7,19
-UBCV,2017,W,COMM,464,,201,Digital Marketing,Victor Tang,41,89.0,3.937003937,98.0,75.0,,,,,,,,,2,18,20
-UBCV,2017,W,COMM,464,,OVERALL,Digital Marketing,,75,88.88,3.924834305,98.0,75.0,,,,,,,,,10,25,39
-UBCV,2017,W,COMM,465,,101,Marketing Management,James Gilbert;James John Gilbert;Jarrett Vaughan,95,74.98947368399999,7.8095614289999995,88.0,47.0,,,,,5,16,17,18,24,8,
-UBCV,2017,W,COMM,465,,102,Marketing Management,Candy Liu;Fernando Leon Lozano;Rui Jorge Basto Da Silva;Yi-Chieh Tsai,57,79.19298245600001,8.779925554,93.0,61.0,,,,,,5,7,12,9,9,9
-UBCV,2017,W,COMM,465,,201,Marketing Management,Candy Liu;Rui Jorge Basto Da Silva;Yi-Chieh Tsai,58,81.051724138,7.7514512820000006,94.0,64.0,,,,,,1,6,15,9,13,10
-UBCV,2017,W,COMM,465,,202,Marketing Management,Candy Liu;Rui Jorge Basto Da Silva;Yi-Chieh Tsai,122,77.786885246,9.43812342,98.0,46.0,,,,,,17,20,15,26,21,11
-UBCV,2017,W,COMM,465,,203,Marketing Management,Phaedra Burke,40,78.225,6.955858995,91.0,60.0,,,,,,5,5,10,11,4,
-UBCV,2017,W,COMM,465,,OVERALL,Marketing Management,,372,77.844086022,8.628442434,98.0,46.0,,,7,9,17,44,55,70,79,55,33
-UBCV,2017,W,COMM,466,,001,New Venture Design,Antony Hodgson;Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,12,84.583333333,2.466441431,90.0,82.0,,,,,,,,,6,5,
-UBCV,2017,W,COMM,466,,002,New Venture Design,Antony Hodgson;David Miller;Julian Rhind,15,83.666666667,2.7945525239999998,87.0,79.0,,,,,,,,,4,9,
-UBCV,2017,W,COMM,466,,OVERALL,New Venture Design,,27,84.074074074,2.64467427,90.0,79.0,,,,,,,,,10,14,
-UBCV,2017,W,COMM,467,,101,Brand Management,Hee Eun You;Timothy Silk,45,79.6,4.33484822,90.0,69.0,,,,,,,10,6,21,6,
-UBCV,2017,W,COMM,467,,201,Brand Management,Hee Eun You;Timothy Silk,45,81.15555555600001,3.2749431330000003,90.0,73.0,,,,,,,2,8,27,7,
-UBCV,2017,W,COMM,467,,OVERALL,Brand Management,,90,80.377777778,3.899230053,90.0,69.0,,,,,,,12,14,48,13,
-UBCV,2017,W,COMM,468,,101,Marketing Applications,Jenny Dickson;Rachel Pang,28,75.607142857,7.324941085,88.0,60.0,,,,,,5,,7,6,,
-UBCV,2017,W,COMM,468,,102,Marketing Applications,Jenny Dickson;Rachel Pang,38,79.210526316,4.218094195,86.0,73.0,,,,,,,6,15,7,10,
-UBCV,2017,W,COMM,468,,201,Marketing Applications,Kristin Noel Rotte;Kristin Rotte;Sharka Stuyt,41,79.487804878,4.566847661000001,87.0,64.0,,,,,,,8,11,15,6,
-UBCV,2017,W,COMM,468,,202,Marketing Applications,Jenny Dickson;Rachel Pang,36,80.194444444,5.589885991,90.0,69.0,,,,,,,,13,8,5,5
-UBCV,2017,W,COMM,468,,203,Marketing Applications,Jenny Dickson;Rachel Pang,40,77.5,6.8612624989999995,90.0,58.0,,,,,,,7,11,13,,
-UBCV,2017,W,COMM,468,,OVERALL,Marketing Applications,,183,78.540983607,5.88695831,90.0,58.0,,,,,,7,28,57,49,29,6
-UBCV,2017,W,COMM,469,,101,International Marketing,Fernando Leon Lozano;Parmjit Tatla;Rui Jorge Basto Da Silva;Yi-Chieh Tsai,32,75.625,5.971707488,86.0,66.0,,,,,,5,5,5,11,,
-UBCV,2017,W,COMM,469,,OVERALL,International Marketing,,32,75.625,5.971707488,86.0,66.0,,,,,,5,5,5,11,,
-UBCV,2017,W,COMM,471,,101,Mergers and Acquisitions,Jin Wang;Kai Li,44,81.5,6.645509062,94.0,62.0,,,,,,,8,6,13,9,7
-UBCV,2017,W,COMM,471,,102,Mergers and Acquisitions,Jin Wang;Kai Li,45,80.71111111100001,6.61136151,94.0,64.0,,,,,,,4,8,11,14,3
-UBCV,2017,W,COMM,471,,OVERALL,Mergers and Acquisitions,,89,81.10112359600001,6.602418537,94.0,62.0,,,,,,,12,14,24,23,10
-UBCV,2017,W,COMM,473,,101,Business Finance,Matthew Giammarino;Sepand Boroumand-Jazzi,105,75.2,11.421471009000001,95.0,46.0,,,5,6,9,9,12,14,23,14,7
-UBCV,2017,W,COMM,473,,102,Business Finance,Caren Lombard,38,78.263157895,17.299717558,98.0,32.0,5,,,,,0,,2,8,6,11
-UBCV,2017,W,COMM,473,,201,Business Finance,Matthew Giammarino,110,80.981818182,13.894743127,99.0,0.0,,,,5,5,9,,9,20,20,34
-UBCV,2017,W,COMM,473,,202,Business Finance,Garry Allen Yuill;Garry Yuill,46,76.869565217,9.534985161,96.0,55.0,,,,,,5,7,5,10,6,6
-UBCV,2017,W,COMM,473,,OVERALL,Business Finance,,299,77.973244147,13.163630233,99.0,0.0,11,4.0,8,15,19,23,24,30,61,46,58
-UBCV,2017,W,COMM,474,,201,Fixed Income Markets and Management,Robert Lee Heinkel,40,82.425,6.348379563,92.0,62.0,,,,,,,,5,12,14,
-UBCV,2017,W,COMM,474,,202,Fixed Income Markets and Management,Robert Lee Heinkel,34,79.941176471,7.168707996,89.0,58.0,,,,,,,,5,8,12,
-UBCV,2017,W,COMM,474,,OVERALL,Fixed Income Markets and Management,,74,81.283783784,6.805558305,92.0,58.0,,,,,,5,7,10,20,26,
-UBCV,2017,W,COMM,475,,101,Investment Policy,Robert Lee Heinkel,37,83.027027027,4.387396637,89.0,73.0,,,,,,,,,17,14,
-UBCV,2017,W,COMM,475,,201,Investment Policy,Ruth Freedman,18,75.5,9.531680921,91.0,60.0,,,,,,,,,,3,
-UBCV,2017,W,COMM,475,,202,Investment Policy,Ruth Freedman,33,79.909090909,9.365373846,93.0,64.0,,,,,,,,5,,6,7
-UBCV,2017,W,COMM,475,,OVERALL,Investment Policy,,88,80.318181818,8.121980188,93.0,60.0,,,,,6,7,7,10,25,23,8
-UBCV,2017,W,COMM,477,,101,Risk Management and Financial Engineering,Lorenzo Garlappi,39,80.051282051,8.388427862,93.0,53.0,,,,,,,4,7,9,11,
-UBCV,2017,W,COMM,477,,102,Risk Management and Financial Engineering,Lorenzo Garlappi,38,78.5,7.907403305,96.0,60.0,,,,,,,7,6,7,9,
-UBCV,2017,W,COMM,477,,OVERALL,Risk Management and Financial Engineering,,77,79.285714286,8.138371011,96.0,53.0,,,,,,5,11,13,16,20,7
-UBCV,2017,W,COMM,482,,101,New Product Development,Timothy Silk,39,81.641025641,2.9690258860000003,88.0,76.0,,,,,,,,7,22,10,
-UBCV,2017,W,COMM,482,,201,New Product Development,Ramzy Karim Ramzy Karim M A S Alhunei;Timothy Silk,44,79.977272727,3.406482441,87.0,70.0,,,,,,,,9,26,4,
-UBCV,2017,W,COMM,482,,OVERALL,New Product Development,,83,80.759036145,3.296673717,88.0,70.0,,,,,,,,16,48,14,
-UBCV,2017,W,COMM,483,,201,Leadership and General Management,Robert Elton;Suet Ting Choi;Suet Ting Lydia Choi;Zunru Fan,40,82.05,4.7606829930000005,95.0,73.0,,,,,,,,8,19,6,5
-UBCV,2017,W,COMM,483,,OVERALL,Leadership and General Management,,40,82.05,4.7606829930000005,95.0,73.0,,,,,,,,8,19,6,5
-UBCV,2017,W,COMM,484,,101,Sustainability Marketing,Dharini Thiruchittampalam;Tess Davies,38,80.236842105,6.201282389,89.0,53.0,,,,,,,6,5,18,8,
-UBCV,2017,W,COMM,484,,OVERALL,Sustainability Marketing,,38,80.236842105,6.201282389,89.0,53.0,,,,,,,6,5,18,8,
-UBCV,2017,W,COMM,485,,101,Social Entrepreneurship,Garth Yule,42,79.952380952,5.9426215,92.0,66.0,,,,,,,5,8,15,8,
-UBCV,2017,W,COMM,485,,OVERALL,Social Entrepreneurship,,42,79.952380952,5.9426215,92.0,66.0,,,,,,,5,8,15,8,
-UBCV,2017,W,COMM,486,H,101,Special Topics in Business,Adlai Fisher,31,82.870967742,2.390842745,87.0,79.0,,,,,,,,,19,9,
-UBCV,2017,W,COMM,486,H,OVERALL,Special Topics in Business,,31,82.870967742,2.390842745,87.0,79.0,,,,,,,,,19,9,
-UBCV,2017,W,COMM,486,M,201,Special Topics in Business,Conor Topley;Jose Guevara;Jose Teodoro Guevara,40,79.35,6.124980377000001,92.0,60.0,,,,,,,,12,17,,
-UBCV,2017,W,COMM,486,M,202,Special Topics in Business,Conor Topley;Jose Guevara;Jose Teodoro Guevara,31,77.290322581,6.909865162000001,90.0,54.0,,,,,,,6,9,9,,
-UBCV,2017,W,COMM,486,M,203,Special Topics in Business,Angele Beausoleil;Mary Connolly;Shannon Mary Patricia Payne;Shannon Payne,35,78.657142857,5.340978413999999,85.0,56.0,,,,,,,,13,12,5,
-UBCV,2017,W,COMM,486,M,204,Special Topics in Business,Angele Beausoleil;Mary Connolly;Shannon Mary Patricia Payne;Shannon Payne,41,78.268292683,3.918063235,86.0,68.0,,,,,,,6,13,19,,
-UBCV,2017,W,COMM,486,M,205,Special Topics in Business,Darrell Kopke;Rebecca Ketler;Rebecca Sophia Ketler,44,79.75,4.988941259,91.0,71.0,,,,,,,9,11,17,,
-UBCV,2017,W,COMM,486,M,206,Special Topics in Business,Darrell Kopke;Rebecca Ketler;Rebecca Sophia Ketler,37,76.162162162,5.969894441,86.0,65.0,,,,,,,8,8,11,,
-UBCV,2017,W,COMM,486,M,OVERALL,Special Topics in Business,,228,78.328947368,5.62183007,92.0,54.0,,,,,7,9,35,66,85,16,7
-UBCV,2017,W,COMM,486,N,201,Special Topics in Business,Carson C Woo,28,84.964285714,3.522227229,91.0,77.0,,,,,,,,,16,5,6
-UBCV,2017,W,COMM,486,N,OVERALL,Special Topics in Business,,28,84.964285714,3.522227229,91.0,77.0,,,,,,,,,16,5,6
-UBCV,2017,W,COMM,486,Q,201,Special Topics in Business,Ronald Giammarino,40,79.6,7.358232787,94.0,64.0,,,,,,5,,5,16,6,
-UBCV,2017,W,COMM,486,Q,OVERALL,Special Topics in Business,,40,79.6,7.358232787,94.0,64.0,,,,,,5,,5,16,6,
-UBCV,2017,W,COMM,486,W,001,Special Topics in Business,Darrell Kopke,22,82.454545455,4.171642051,88.0,73.0,,,,,,,,,10,8,
-UBCV,2017,W,COMM,486,W,OVERALL,Special Topics in Business,,22,82.454545455,4.171642051,88.0,73.0,,,,,,,,,10,8,
-UBCV,2017,W,COMM,487,,101,Environmental Management,Werner Antweiler,30,80.93333333300001,4.834740184,91.0,72.0,,,,,,,,6,11,8,
-UBCV,2017,W,COMM,487,,OVERALL,Environmental Management,,30,80.93333333300001,4.834740184,91.0,72.0,,,,,,,,6,11,8,
-UBCV,2017,W,COMM,490,A,102,Directed Studies in Commerce,,9,88.444444444,4.186618896000001,95.0,82.0,,,,,,,,,,,
-UBCV,2017,W,COMM,490,A,OVERALL,Directed Studies in Commerce,,12,88.5,3.7050334310000004,95.0,82.0,,,,,,,,,,5,5
-UBCV,2017,W,COMM,491,,101,Strategic Management,Adam Pankratz;Sarah O'Brien;Xuemeng Ruan,40,77.8,3.5096935360000003,86.0,70.0,,,,,,,9,19,7,,
-UBCV,2017,W,COMM,491,,102,Strategic Management,Adam Pankratz;Sarah O'Brien;Xuemeng Ruan,42,76.785714286,3.5990223219999997,83.0,65.0,,,,,,,4,24,9,,
-UBCV,2017,W,COMM,491,,103,Strategic Management,Larry Wosk,43,74.325581395,6.978609939,86.0,45.0,,,,,,7,11,9,10,,
-UBCV,2017,W,COMM,491,,104,Strategic Management,Larry Wosk,44,74.363636364,7.0877913679999995,88.0,58.0,,,,,,11,8,9,7,5,
-UBCV,2017,W,COMM,491,,201,Strategic Management,Adam Pankratz,39,77.76923076899999,2.620381034,83.0,73.0,,,,,,,9,17,13,,
-UBCV,2017,W,COMM,491,,202,Strategic Management,Adam Pankratz,43,78.23255814,3.322629547,87.0,73.0,,,,,,,9,20,11,,
-UBCV,2017,W,COMM,491,,OVERALL,Strategic Management,,251,76.501992032,5.141497449,88.0,45.0,,,,,5,23,50,98,57,14,
-UBCV,2017,W,COMM,493,,101,Strategic Management in Business,Alvaro Parra Perez;Sarah O'Brien;Xuemeng Ruan,46,79.934782609,6.01258744,96.0,65.0,,,,,,,5,13,18,,5
-UBCV,2017,W,COMM,493,,102,Strategic Management in Business,Adam Pankratz,47,75.021276596,6.428500947000001,83.0,36.0,,,,,,,22,15,8,,
-UBCV,2017,W,COMM,493,,201,Strategic Management in Business,Adam Pankratz,37,76.648648649,4.14471696,85.0,67.0,,,,,,,6,16,7,,
-UBCV,2017,W,COMM,493,,202,Strategic Management in Business,Adam Pankratz,40,75.925,4.968554967,88.0,59.0,,,,,,,12,13,8,,
-UBCV,2017,W,COMM,493,,203,Strategic Management in Business,David Weiss,39,77.794871795,8.12785816,89.0,58.0,,,,,,6,8,3,7,12,
-UBCV,2017,W,COMM,493,,OVERALL,Strategic Management in Business,,209,77.081339713,6.306901449,96.0,36.0,,,,,,15,53,60,48,20,5
-UBCV,2017,W,COMM,497,,101,New Enterprise Development,Tamara Etmannski,36,82.194444444,6.488757065,91.0,65.0,,,,,,,,5,9,11,6
-UBCV,2017,W,COMM,497,,201,New Enterprise Development,Matthew Evan Gwin;Matthew Gwin;Momcilo Deretic,33,78.818181818,3.0151134460000004,85.0,76.0,,,,,,,,17,12,4,0
-UBCV,2017,W,COMM,497,,OVERALL,New Enterprise Development,,69,80.579710145,5.36986635,91.0,65.0,,,,,,,,22,21,15,6
-UBCV,2017,W,COMM,498,,101,International Business Management,Momcilo Deretic;Yvonne Dixon,36,78.444444444,4.351974556,86.0,70.0,,,,,,,6,13,10,6,
-UBCV,2017,W,COMM,498,,102,International Business Management,Ali Lazrak;Momcilo Deretic;Yvonne Dixon,40,78.925,5.11101124,90.0,68.0,,,,,,,9,11,10,7,
-UBCV,2017,W,COMM,498,,103,International Business Management,Momcilo Deretic;Yvonne Dixon,40,76.9,5.236949592,86.0,66.0,,,,,,,10,14,7,6,
-UBCV,2017,W,COMM,498,,201,International Business Management,Larry Wosk;Matthew Evan Gwin;Matthew Gwin;Momcilo Deretic,43,78.348837209,5.92365605,87.0,55.0,,,,,,,5,9,17,8,
-UBCV,2017,W,COMM,498,,202,International Business Management,S Thomas Mccormick;Steven Minns;Xiaowei Zhang,42,81.238095238,5.525151025,92.0,68.0,,,,,,,3,8,13,13,
-UBCV,2017,W,COMM,498,,203,International Business Management,Ean Jackson;Steven Minns;Xiaowei Zhang,42,77.571428571,6.541212154,88.0,53.0,,,,,,5,5,12,13,6,
-UBCV,2017,W,COMM,498,,OVERALL,International Business Management,,243,78.58436214,5.637470777000001,92.0,53.0,,,,,,13,38,67,70,46,
-UBCV,2017,W,COMM,499,B,201,Internship,Robert Lee Heinkel,6,83.0,0.0,83.0,83.0,,,,,,,,,6,,
-UBCV,2017,W,COMM,499,B,OVERALL,Internship,,6,83.0,0.0,83.0,83.0,,,,,,,,,6,,
-UBCV,2017,W,COMM,612,,001,Advanced Topics in Optimization,Daniel Granot;Frieda Granot;Harish Krishnan;Mahesh Nagarajan;Maurice Queyranne;S Thomas Mccormick;Woonghee Tim Huh,5,93.6,3.847076812,98.0,88.0,,,,,,,,,,,
-UBCV,2017,W,COMM,612,,OVERALL,Advanced Topics in Optimization,,5,93.6,3.847076812,98.0,88.0,,,,,,,,,,,
-UBCV,2017,W,COMM,616,,001,Optimization Theory and Applications,Daniel Granot;Frieda Granot;Harish Krishnan;Mahesh Nagarajan;S Thomas Mccormick;Woonghee Tim Huh,5,85.4,10.237187114,94.0,72.0,,,,,,,,,,,
-UBCV,2017,W,COMM,616,,OVERALL,Optimization Theory and Applications,,5,85.4,10.237187114,94.0,72.0,,,,,,,,,,,
-UBCV,2017,W,COMM,657,,001,Empirical Methods in Accounting Research,Sandra Chamberlain,6,83.166666667,2.9268868560000003,87.0,80.0,,,,,,,,,,,
-UBCV,2017,W,COMM,657,,OVERALL,Empirical Methods in Accounting Research,,6,83.166666667,2.9268868560000003,87.0,80.0,,,,,,,,,,,
-UBCV,2017,W,COMM,663,,001,Consumer Judgment and Decision Making,Dale Griffin;David Hardisty,8,86.0,2.828427125,92.0,82.0,,,,,,,,,,6,
-UBCV,2017,W,COMM,663,,OVERALL,Consumer Judgment and Decision Making,,8,86.0,2.828427125,92.0,82.0,,,,,,,,,,6,
-UBCV,2017,W,COMM,671,,001,Theory of Finance,Ali Lazrak,8,84.875,6.599512969,92.0,72.0,,,,,,,,,,,
-UBCV,2017,W,COMM,671,,OVERALL,Theory of Finance,,8,84.875,6.599512969,92.0,72.0,,,,,,,,,,,
-UBCV,2017,W,COMM,672,,001,Advanced Topics in Theoretical Corporate Finance,Will Gornall,15,84.133333333,7.347173088,95.0,72.0,,,,,,,,,,,
-UBCV,2017,W,COMM,672,,OVERALL,Advanced Topics in Theoretical Corporate Finance,,15,84.133333333,7.347173088,95.0,72.0,,,,,,,,,,,
-UBCV,2017,W,COMM,682,,001,Advanced Topics in Stochastic Models,Michael Kim,5,86.6,2.302172887,90.0,85.0,,,,,,,,,,,
-UBCV,2017,W,COMM,682,,OVERALL,Advanced Topics in Stochastic Models,,5,86.6,2.302172887,90.0,85.0,,,,,,,,,,,
-UBCV,2017,W,COMM,693,,001,Seminar in Research Methodology I,C Keith Head;Ralph Winter,12,85.833333333,1.749458791,89.0,82.0,,,,,,,,,,11,
-UBCV,2017,W,COMM,693,,OVERALL,Seminar in Research Methodology I,,12,85.833333333,1.749458791,89.0,82.0,,,,,,,,,,11,
-UBCV,2017,W,COMM,695,,001,Advanced Topics in Empirical Corporate Finance,Jan Bena,16,86.375,6.5916613989999995,99.0,74.0,,,,,,,,,,5,5
-UBCV,2017,W,COMM,695,,OVERALL,Advanced Topics in Empirical Corporate Finance,,16,86.375,6.5916613989999995,99.0,74.0,,,,,,,,,,5,5
+UBCV,2017,W,COMM,100,,201,Introduction to Business,Heri Paluku;Sum Kiu Phoebe Liu;Zorana Svedic,202,72.20792079,12.85302824,90.0,0.0,9,6.0,5.0,11.0,19.0,20.0,40.0,40.0,30.0,19,3
+UBCV,2017,W,COMM,100,,OVERALL,Introduction to Business,,202,72.20792079,12.85302824,90.0,0.0,9,6.0,5.0,11.0,19.0,20.0,40.0,40.0,30.0,19,3
+UBCV,2017,W,COMM,101,,101,Business Fundamentals,Darrell Kopke;Elicia Salzberg;Jeff Kroeker;Paul Cubbon;Zorana Svedic,115,71.60869565,9.180161345,86.0,22.0,2,1.0,7.0,8.0,15.0,13.0,24.0,29.0,14.0,2,0
+UBCV,2017,W,COMM,101,,102,Business Fundamentals,Darrell Kopke;Elicia Salzberg;Jeff Kroeker;Paul Cubbon;Zorana Svedic,113,74.82300885,6.835085547,86.0,42.0,2,0.0,1.0,1.0,10.0,14.0,23.0,36.0,22.0,4,0
+UBCV,2017,W,COMM,101,,103,Business Fundamentals,Ann Stone;Elicia Salzberg,120,73.85833333,5.921469034,85.0,56.0,0,0.0,3.0,5.0,7.0,19.0,32.0,39.0,13.0,2,0
+UBCV,2017,W,COMM,101,,104,Business Fundamentals,Ann Stone;Elicia Salzberg,111,73.16216216,9.513187536,86.0,32.0,4,2.0,3.0,3.0,5.0,18.0,24.0,31.0,18.0,3,0
+UBCV,2017,W,COMM,101,,105,Business Fundamentals,Ann Stone;Elicia Salzberg,108,72.11111111,6.985075322,85.0,46.0,1,1.0,3.0,8.0,14.0,15.0,24.0,34.0,7.0,1,0
+UBCV,2017,W,COMM,101,,106,Business Fundamentals,Conor Topley;Darrell Kopke;Elicia Salzberg;Zorana Svedic,99,72.61616162,6.369101226,85.0,56.0,0,0.0,2.0,6.0,16.0,14.0,22.0,27.0,10.0,2,0
+UBCV,2017,W,COMM,101,,OVERALL,Business Fundamentals,,666,73.04954955,7.653331366,86.0,22.0,9,4.0,19.0,31.0,67.0,93.0,149.0,196.0,84.0,14,0
+UBCV,2017,W,COMM,120,,DD1,Business Immersion,Alexandra Brie Riley;Alexandra Riley;Elicia Salzberg;Tamar Milne,55,76.16363636,5.116290744,86.0,58.0,0,0.0,1.0,1.0,0.0,4.0,15.0,15.0,17.0,2,0
+UBCV,2017,W,COMM,120,,DD2,Business Immersion,Alexandra Brie Riley;Alexandra Riley;Tamar Milne,17,79.11764706,4.196462095,84.0,70.0,0,0.0,0.0,0.0,0.0,2.0,1.0,3.0,11.0,0,0
+UBCV,2017,W,COMM,120,,DD3,Business Immersion,Tamar Milne,42,76.40476191,4.958656013,83.0,59.0,0,0.0,1.0,0.0,3.0,2.0,5.0,17.0,14.0,0,0
+UBCV,2017,W,COMM,120,,DD4,Business Immersion,Elicia Salzberg,15,76.93333333,3.769552203,82.0,67.0,0,0.0,0.0,0.0,1.0,0.0,1.0,9.0,4.0,0,0
+UBCV,2017,W,COMM,120,,OVERALL,Business Immersion,,129,76.72093023,4.858910539,86.0,58.0,0,0.0,2.0,1.0,4.0,8.0,22.0,44.0,46.0,2,0
+UBCV,2017,W,COMM,202,,101,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Ingrid Anna Bakke;Ingrid Bakke;Katrina Gabrielle Hernandez;Liam Whelan;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,115,84.89565217,8.559773231,100.0,58.0,0,0.0,1.0,2.0,4.0,4.0,4.0,9.0,19.0,32,40
+UBCV,2017,W,COMM,202,,102,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Ingrid Anna Bakke;Ingrid Bakke;Katrina Gabrielle Hernandez;Liam Whelan;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,121,80.09917355,12.96174176,98.0,1.0,2,2.0,2.0,6.0,3.0,7.0,10.0,15.0,26.0,26,22
+UBCV,2017,W,COMM,202,,103,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Ingrid Anna Bakke;Ingrid Bakke;Katrina Gabrielle Hernandez;Liam Whelan;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,119,81.43697479,10.42782999,100.0,50.0,0,2.0,3.0,6.0,1.0,9.0,4.0,18.0,26.0,27,23
+UBCV,2017,W,COMM,202,,104,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Ingrid Anna Bakke;Ingrid Bakke;Katrina Gabrielle Hernandez;Liam Whelan;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,119,81.77310924,9.88016072,99.0,51.0,0,2.0,2.0,6.0,2.0,7.0,3.0,15.0,29.0,26,27
+UBCV,2017,W,COMM,202,,201,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Grace Jin;Grace Zhiling Jin;Ingrid Anna Bakke;Ingrid Bakke;Jason Mah;Jason Yong Jun Mah;Katrina Gabrielle Hernandez;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,120,80.16666667,12.92404009,100.0,40.0,3,3.0,3.0,5.0,3.0,10.0,11.0,8.0,25.0,17,32
+UBCV,2017,W,COMM,202,,202,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Grace Jin;Grace Zhiling Jin;Ingrid Anna Bakke;Ingrid Bakke;Jason Mah;Jason Yong Jun Mah;Katrina Gabrielle Hernandez;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,125,82.08,15.03147236,100.0,11.0,3,0.0,4.0,3.0,3.0,7.0,8.0,14.0,17.0,20,46
+UBCV,2017,W,COMM,202,,203,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Grace Jin;Grace Zhiling Jin;Ingrid Anna Bakke;Ingrid Bakke;Jason Mah;Jason Yong Jun Mah;Katrina Gabrielle Hernandez;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,122,83.54918033,10.51885553,100.0,38.0,2,0.0,2.0,0.0,2.0,7.0,11.0,12.0,23.0,25,38
+UBCV,2017,W,COMM,202,,204,Career Fundamentals,Aaron Cho;Baihe Tessa Yin;Grace Jin;Grace Zhiling Jin;Ingrid Anna Bakke;Ingrid Bakke;Jason Mah;Jason Yong Jun Mah;Katrina Gabrielle Hernandez;Lyndan Lam;Natiqa Babar;Runzi Genia Zhang;Runzi Zhang;Samyta Kaur Rai;Samyta Rai;Stella Cho;Victoria Welsby,106,76.91509434,14.82026793,99.0,26.0,5,2.0,6.0,6.0,6.0,9.0,8.0,14.0,11.0,20,19
+UBCV,2017,W,COMM,202,,OVERALL,Career Fundamentals,,947,81.41816262,12.24185485,100.0,1.0,15,11.0,23.0,34.0,24.0,60.0,59.0,105.0,176.0,193,247
+UBCV,2017,W,COMM,203,,101,Managing the Employment Relationship,Julyna Jadulang;Perdip Atwal;Yu-Wung Cheng,126,74.14285714,7.268247971,88.0,44.0,1,1.0,2.0,5.0,13.0,17.0,25.0,36.0,21.0,5,0
+UBCV,2017,W,COMM,203,,102,Managing the Employment Relationship,Alexander Payandeh;Serinda Kong;Thomas Knight,64,73.328125,9.812616899,86.0,25.0,2,0.0,3.0,2.0,2.0,15.0,7.0,17.0,11.0,5,0
+UBCV,2017,W,COMM,203,,103,Managing the Employment Relationship,Alexander Payandeh;Serinda Kong;Thomas Knight,65,75.61538462,7.140755185,86.0,46.0,1,0.0,1.0,0.0,5.0,7.0,16.0,9.0,21.0,5,0
+UBCV,2017,W,COMM,203,,104,Managing the Employment Relationship,Julyna Jadulang;Perdip Atwal;Thomas Knight;Yu-Wung Cheng,65,76.53846154,8.12418635,90.0,60.0,0,0.0,0.0,4.0,9.0,4.0,7.0,15.0,13.0,12,1
+UBCV,2017,W,COMM,203,,105,Managing the Employment Relationship,Brian Bemmels;Mahesh Nandwani;Wesley Wen,68,73.38235294,6.969077568,91.0,48.0,1,0.0,2.0,1.0,9.0,8.0,21.0,14.0,10.0,1,1
+UBCV,2017,W,COMM,203,,201,Managing the Employment Relationship,Julyna Jadulang;Michael Daniels;Serinda Kong;Thomas Knight,60,73.06666667,8.225356963,88.0,49.0,3,0.0,0.0,2.0,6.0,12.0,12.0,11.0,11.0,3,0
+UBCV,2017,W,COMM,203,,202,Managing the Employment Relationship,Julyna Jadulang;Michael Daniels;Serinda Kong;Thomas Knight,56,75.25,5.825492566,88.0,60.0,0,0.0,0.0,3.0,3.0,8.0,12.0,15.0,13.0,2,0
+UBCV,2017,W,COMM,203,,203,Managing the Employment Relationship,Mahesh Nandwani;Perdip Atwal;Wayne Rawcliffe,63,78.88888889,5.86985495,89.0,60.0,0,0.0,0.0,1.0,2.0,3.0,12.0,12.0,24.0,9,0
+UBCV,2017,W,COMM,203,,204,Managing the Employment Relationship,Alexander Payandeh;Annie Lai;Michael Daniels;Thomas Knight,40,75.975,6.874283179,90.0,59.0,0,0.0,1.0,2.0,1.0,5.0,8.0,12.0,8.0,2,1
+UBCV,2017,W,COMM,203,,205,Managing the Employment Relationship,Alexander Payandeh;Annie Lai;Michael Daniels;Thomas Knight,58,77.86206897,6.687113231,89.0,55.0,0,0.0,1.0,0.0,2.0,6.0,11.0,14.0,16.0,8,0
+UBCV,2017,W,COMM,203,,206,Managing the Employment Relationship,Alexander Payandeh;Annie Lai;Michael Daniels;Thomas Knight,52,73.59615385,5.619502509,86.0,58.0,0,0.0,1.0,0.0,6.0,12.0,15.0,10.0,6.0,2,0
+UBCV,2017,W,COMM,203,,207,Managing the Employment Relationship,Brian Bemmels;Mahesh Nandwani,68,80.64705882,5.888933983,90.0,61.0,0,0.0,0.0,1.0,1.0,5.0,5.0,7.0,30.0,18,1
+UBCV,2017,W,COMM,203,,OVERALL,Managing the Employment Relationship,,785,75.60382166,7.494708042,91.0,25.0,8,1.0,11.0,21.0,59.0,102.0,151.0,172.0,184.0,72,4
+UBCV,2017,W,COMM,204,,101,Logistics and Operations Management,Andy Chen;Kayla Little;S Thomas Mccormick,65,74.46153846,9.992304731,93.0,39.0,1,0.0,2.0,5.0,10.0,5.0,12.0,10.0,9.0,7,4
+UBCV,2017,W,COMM,204,,102,Logistics and Operations Management,Kayla Little;S Thomas Mccormick,62,68.51612903,9.369888876,85.0,36.0,2,3.0,5.0,8.0,5.0,15.0,10.0,8.0,5.0,1,0
+UBCV,2017,W,COMM,204,,103,Logistics and Operations Management,Hao Zhang;Matheus Cariola Sampaio;Matheus Sampaio;Maurice Queyranne,66,78.72727273,6.376749726,91.0,63.0,0,0.0,0.0,1.0,2.0,6.0,6.0,16.0,24.0,9,2
+UBCV,2017,W,COMM,204,,104,Logistics and Operations Management,Daniel Granot;Maurice Queyranne;Sanjith Gopalakrishnan;Thao Nguyen Huynh,64,75.609375,10.20211181,96.0,50.0,0,1.0,4.0,3.0,5.0,9.0,9.0,13.0,6.0,6,8
+UBCV,2017,W,COMM,204,,105,Logistics and Operations Management,Daniel Granot;Sanjith Gopalakrishnan;Thao Nguyen Huynh;Woonghee Tim Huh,64,75.28125,8.987590651,93.0,54.0,0,1.0,1.0,4.0,5.0,10.0,12.0,8.0,13.0,5,5
+UBCV,2017,W,COMM,204,,106,Logistics and Operations Management,Daniel Granot;Sanjith Gopalakrishnan;Thao Nguyen Huynh;Woonghee Tim Huh,65,73.83076923,8.612435106,95.0,58.0,0,0.0,2.0,3.0,13.0,10.0,13.0,6.0,9.0,5,4
+UBCV,2017,W,COMM,204,,201,Logistics and Operations Management,Anming Zhang;Gregory Werker;Xiaowei Zhang,61,80.36065574,8.117948811,92.0,52.0,0,1.0,0.0,3.0,1.0,3.0,3.0,13.0,17.0,15,5
+UBCV,2017,W,COMM,204,,202,Logistics and Operations Management,Andy Chen;Matheus Cariola Sampaio;Matheus Sampaio;Michael Jong Kim;Michael Kim,64,75.234375,13.26738714,94.0,0.0,1,1.0,2.0,3.0,5.0,6.0,9.0,9.0,14.0,9,5
+UBCV,2017,W,COMM,204,,203,Logistics and Operations Management,Matheus Cariola Sampaio;Matheus Sampaio;Michael Jong Kim;Michael Kim;Yichuan Ding,66,77.1969697,9.397576933,99.0,54.0,0,1.0,0.0,5.0,3.0,8.0,12.0,11.0,10.0,7,9
+UBCV,2017,W,COMM,204,,204,Logistics and Operations Management,Andy Chen;Andy Wei Rong Chen;Anqi Li;Yichuan Ding,65,83.53846154,6.41550106,94.0,60.0,0,0.0,0.0,1.0,0.0,3.0,2.0,7.0,19.0,23,10
+UBCV,2017,W,COMM,204,,205,Logistics and Operations Management,Anming Zhang;Gregory Werker;Xiaowei Zhang,59,78.0,5.614021854,88.0,66.0,0,0.0,0.0,0.0,4.0,5.0,7.0,16.0,18.0,9,0
+UBCV,2017,W,COMM,204,,206,Logistics and Operations Management,Frieda Granot;Gregory Werker;Jean-Matthieu Jamet,65,81.86153846,7.988031913,95.0,57.0,0,0.0,1.0,1.0,2.0,2.0,8.0,6.0,16.0,21,8
+UBCV,2017,W,COMM,204,,OVERALL,Logistics and Operations Management,,766,76.89947781,9.66181486,99.0,0.0,4,8.0,17.0,37.0,55.0,82.0,103.0,123.0,160.0,117,60
+UBCV,2017,W,COMM,205,,101,Introduction to Management Information Systems,Hasan Cavusoglu;Jarod Sutherland;Jianxin Zhu;Jiya Dassan;Kristine Alexandra Wong;Kristine Wong;Pei Yu Shyu;Xuan Hao Huang;Yau Man Cheung,118,74.63559322,9.030494638,95.0,53.0,0,1.0,5.0,2.0,16.0,21.0,23.0,16.0,16.0,10,8
+UBCV,2017,W,COMM,205,,102,Introduction to Management Information Systems,Hasan Cavusoglu;Jarod Sutherland;Jianxin Zhu;Jiya Dassan;Kristine Alexandra Wong;Kristine Wong;Pei Yu Shyu;Xuan Hao Huang;Yau Man Cheung,125,77.696,8.315574195,96.0,48.0,1,1.0,1.0,2.0,5.0,17.0,20.0,26.0,26.0,17,9
+UBCV,2017,W,COMM,205,,103,Introduction to Management Information Systems,Hasan Cavusoglu;Jarod Sutherland;Jianxin Zhu;Jiya Dassan;Kristine Alexandra Wong;Kristine Wong;Pei Yu Shyu;Xuan Hao Huang;Yau Man Cheung,120,77.9,8.981212884,96.0,48.0,2,1.0,1.0,3.0,7.0,12.0,17.0,16.0,33.0,21,7
+UBCV,2017,W,COMM,205,,201,Introduction to Management Information Systems,Adam Saunders;Angel Lam;Angela An Qi Dai;Angela Dai;Daniel Duncombe;Deborah Zhang;Jason Wahono;Jiya Dassan;Kristine Wong;Yau Man Cheung,102,74.40196078,11.31743578,92.0,3.0,1,2.0,1.0,9.0,11.0,12.0,11.0,12.0,26.0,15,2
+UBCV,2017,W,COMM,205,,202,Introduction to Management Information Systems,Adam Saunders;Angel Lam;Angela An Qi Dai;Angela Dai;Daniel Duncombe;Deborah Zhang;Jason Wahono;Jiya Dassan;Kristine Wong;Yau Man Cheung,120,77.575,7.938484604,95.0,55.0,0,0.0,3.0,1.0,9.0,18.0,14.0,16.0,35.0,19,5
+UBCV,2017,W,COMM,205,,203,Introduction to Management Information Systems,Adam Saunders;Angel Lam;Angela An Qi Dai;Angela Dai;Daniel Duncombe;Deborah Zhang;Jason Wahono;Jiya Dassan;Kristine Wong;Yau Man Cheung,117,80.51282051,8.361050281,95.0,40.0,1,1.0,0.0,3.0,2.0,7.0,13.0,10.0,38.0,30,12
+UBCV,2017,W,COMM,205,,204,Introduction to Management Information Systems,Adam Saunders;Angel Lam;Angela An Qi Dai;Angela Dai;Daniel Duncombe;Deborah Zhang;Jason Wahono;Jiya Dassan;Kristine Wong;Yau Man Cheung,122,79.65573771,6.830619555,94.0,52.0,0,1.0,1.0,0.0,4.0,6.0,19.0,17.0,39.0,30,5
+UBCV,2017,W,COMM,205,,OVERALL,Introduction to Management Information Systems,,824,77.55218447,8.921403542,96.0,3.0,5,7.0,12.0,20.0,54.0,93.0,117.0,113.0,213.0,142,48
+UBCV,2017,W,COMM,220,,DD1,Business Communications and Ethics,Alyssa Barry;Elizabeth Bowker;Sassan Shokoohi,20,80.4,2.583347482,85.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,12.0,2,0
+UBCV,2017,W,COMM,220,,DD2,Business Communications and Ethics,Elizabeth Bowker;Honami Kawamura;Sassan Shokoohi,17,78.76470588,5.250350128,85.0,65.0,0,0.0,0.0,0.0,1.0,1.0,2.0,3.0,8.0,2,0
+UBCV,2017,W,COMM,220,,DD3,Business Communications and Ethics,Marlisse Silver Sweeney;Sassan Shokoohi;Zamina Mithani,16,81.3125,4.316151835,89.0,75.0,0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,6.0,5,0
+UBCV,2017,W,COMM,220,,DD4,Business Communications and Ethics,Marlisse Silver Sweeney;Sassan Shokoohi;Zamina Mithani,25,78.4,5.852349955,87.0,60.0,0,0.0,0.0,1.0,0.0,1.0,4.0,7.0,8.0,4,0
+UBCV,2017,W,COMM,220,,DD5,Business Communications and Ethics,Alexa Rudakoff;Marlisse Silver Sweeney;Sassan Shokoohi,21,78.14285714,4.45292841,87.0,71.0,0,0.0,0.0,0.0,0.0,1.0,5.0,7.0,5.0,3,0
+UBCV,2017,W,COMM,220,,DD6,Business Communications and Ethics,Bridget Chase;Marlisse Silver Sweeney;Sassan Shokoohi,16,77.6875,4.028543988,85.0,71.0,0,0.0,0.0,0.0,0.0,1.0,3.0,6.0,5.0,1,0
+UBCV,2017,W,COMM,220,,OVERALL,Business Communications and Ethics,,115,79.06086957,4.670337447,89.0,60.0,0,0.0,0.0,1.0,1.0,4.0,16.0,32.0,44.0,17,0
+UBCV,2017,W,COMM,280,,101,Entrepreneurship,Afrothiti Yannitsos;David Miller,30,76.1,6.310090441,88.0,60.0,0,0.0,0.0,1.0,1.0,4.0,7.0,8.0,7.0,2,0
+UBCV,2017,W,COMM,280,,102,Entrepreneurship,David Miller;Shehan Anthony Wijeyagoonewardane;Shehan Wijeyagoonewardane,29,77.48275862,6.395426321,90.0,62.0,0,0.0,0.0,1.0,1.0,3.0,4.0,7.0,8.0,4,1
+UBCV,2017,W,COMM,280,,103,Entrepreneurship,Antonio Balogh;Antonio Joseph Balogh;David Miller,32,76.34375,8.142320249,92.0,54.0,0,1.0,1.0,0.0,1.0,2.0,8.0,8.0,8.0,2,1
+UBCV,2017,W,COMM,280,,201,Entrepreneurship,Cheralyn Chok;David Clough,29,72.48275862,17.31972593,91.0,0.0,2,1.0,0.0,3.0,2.0,1.0,3.0,5.0,9.0,1,2
+UBCV,2017,W,COMM,280,,202,Entrepreneurship,David Clough;Shehan Anthony Wijeyagoonewardane;Shehan Wijeyagoonewardane,34,77.70588235,9.858174309,90.0,37.0,1,0.0,0.0,1.0,1.0,3.0,4.0,6.0,9.0,8,1
+UBCV,2017,W,COMM,280,,203,Entrepreneurship,David Clough;Japnit Bhatia,16,77.625,6.830080527,89.0,65.0,0,0.0,0.0,0.0,1.0,3.0,2.0,4.0,2.0,4,0
+UBCV,2017,W,COMM,280,,OVERALL,Entrepreneurship,,170,76.22941177,10.0942461,92.0,0.0,3,2.0,1.0,6.0,7.0,16.0,28.0,38.0,43.0,21,5
+UBCV,2017,W,COMM,286,V,101,Topics in Business II,Murray Carlson;Robert Lee Heinkel,34,79.85294118,3.846543926,88.0,74.0,0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,16.0,4,0
+UBCV,2017,W,COMM,286,V,OVERALL,Topics in Business II,,34,79.85294118,3.846543926,88.0,74.0,0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,16.0,4,0
+UBCV,2017,W,COMM,290,,101,Introduction to Quantitative Decision Making,Adi Rosenkrantz;Albina Gibadullina;Alexa Morgan Rudakoff;Alexa Rudakoff;Chiara Kowalewski;David Jordan Stein;David Stein;Forough Pourhossein;Gregory Werker;Jean-Matthieu Jamet;Jingu Park;Kimberly Grace Lin;Kimberly Lin;Megan Li;Niasha Drydgen;Rachael Thain;Sharon Shamuyarira;Vivian Wu;Vivian Xin Ling Wu;Woonghee Tim Huh;Yaxi Liu;Yiming Kong;Zhi Feng Chen,220,71.47727273,12.73453693,97.0,31.0,11,10.0,16.0,22.0,19.0,24.0,23.0,24.0,41.0,13,17
+UBCV,2017,W,COMM,290,,102,Introduction to Quantitative Decision Making,Adi Rosenkrantz;Albina Gibadullina;Alexa Morgan Rudakoff;Alexa Rudakoff;Chiara Kowalewski;David Jordan Stein;David Stein;Forough Pourhossein;Gregory Werker;Jean-Matthieu Jamet;Jingu Park;Kimberly Grace Lin;Kimberly Lin;Megan Li;Niasha Drydgen;Rachael Thain;Sharon Shamuyarira;Vivian Wu;Vivian Xin Ling Wu;Woonghee Tim Huh;Yaxi Liu;Yiming Kong;Zhi Feng Chen,243,75.69135803,11.72477984,98.0,6.0,6,4.0,13.0,7.0,12.0,29.0,39.0,25.0,57.0,29,22
+UBCV,2017,W,COMM,290,,103,Introduction to Quantitative Decision Making,Adi Rosenkrantz;Albina Gibadullina;Alexa Morgan Rudakoff;Alexa Rudakoff;Chiara Kowalewski;David Jordan Stein;David Stein;Forough Pourhossein;Gregory Werker;Jean-Matthieu Jamet;Jingu Park;Kimberly Grace Lin;Kimberly Lin;Megan Li;Niasha Drydgen;Rachael Thain;Sharon Shamuyarira;Vivian Wu;Vivian Xin Ling Wu;Woonghee Tim Huh;Yaxi Liu;Yiming Kong;Zhi Feng Chen,233,73.58369099,11.13797055,96.0,26.0,5,6.0,16.0,16.0,19.0,33.0,30.0,23.0,47.0,21,17
+UBCV,2017,W,COMM,290,,104,Introduction to Quantitative Decision Making,Adi Rosenkrantz;Albina Gibadullina;Alexa Morgan Rudakoff;Alexa Rudakoff;Chiara Kowalewski;David Jordan Stein;David Stein;Forough Pourhossein;Gregory Werker;Jean-Matthieu Jamet;Jingu Park;Kimberly Grace Lin;Kimberly Lin;Megan Li;Niasha Drydgen;Rachael Thain;Sharon Shamuyarira;Woonghee Tim Huh;Yaxi Liu;Yiming Kong;Zhi Feng Chen,207,73.50241546,11.24652024,96.0,33.0,5,9.0,8.0,16.0,21.0,17.0,34.0,26.0,43.0,13,15
+UBCV,2017,W,COMM,290,,OVERALL,Introduction to Quantitative Decision Making,,903,73.61904762,11.80377971,98.0,6.0,27,29.0,53.0,61.0,71.0,103.0,126.0,98.0,188.0,76,71
+UBCV,2017,W,COMM,291,,101,Application of Statistics in Business,Albina Gibadullina;Martha Essak,68,74.57352941,13.9554902,98.0,27.0,2,2.0,3.0,5.0,11.0,5.0,9.0,2.0,10.0,10,9
+UBCV,2017,W,COMM,291,,201,Application of Statistics in Business,Albina Gibadullina;Jonathan Berkowitz,207,72.61352657,12.57271706,96.0,6.0,3,10.0,17.0,17.0,13.0,29.0,29.0,19.0,35.0,19,16
+UBCV,2017,W,COMM,291,,202,Application of Statistics in Business,Albina Gibadullina;Jonathan Berkowitz,217,73.86175115,10.19210218,100.0,38.0,1,4.0,15.0,18.0,20.0,29.0,34.0,29.0,35.0,19,13
+UBCV,2017,W,COMM,291,,203,Application of Statistics in Business,Albina Gibadullina;Jonathan Berkowitz,198,71.60606061,10.9866723,96.0,47.0,3,9.0,18.0,21.0,17.0,28.0,31.0,18.0,26.0,16,11
+UBCV,2017,W,COMM,291,,204,Application of Statistics in Business,Albina Gibadullina;Jonathan Berkowitz,176,73.55113636,11.0550673,96.0,50.0,0,9.0,10.0,16.0,14.0,27.0,20.0,25.0,22.0,17,16
+UBCV,2017,W,COMM,291,,OVERALL,Application of Statistics in Business,,866,73.0404157,11.48074968,100.0,6.0,9,34.0,63.0,77.0,75.0,118.0,123.0,93.0,128.0,81,65
+UBCV,2017,W,COMM,292,,101,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Annie Lai;Heri Paluku;Sharka Stuyt;Sum Kiu Phoebe Liu;Zorana Svedic,56,75.73214286,4.885939275,85.0,59.0,0,0.0,1.0,1.0,0.0,5.0,17.0,21.0,8.0,3,0
+UBCV,2017,W,COMM,292,,102,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Annie Lai;Heri Paluku;Nancy Langton;Sum Kiu Phoebe Liu;Zorana Svedic,53,74.96226415,4.847530157,85.0,54.0,0,1.0,0.0,0.0,2.0,4.0,22.0,16.0,6.0,2,0
+UBCV,2017,W,COMM,292,,103,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Annie Lai;Heri Paluku;Nancy Langton;Sum Kiu Phoebe Liu;Zorana Svedic,54,76.07407407,4.312561082,85.0,67.0,0,0.0,0.0,0.0,1.0,7.0,14.0,21.0,9.0,2,0
+UBCV,2017,W,COMM,292,,201,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Christopher James Rowell;Christopher Rowell;Karl Aquino,54,74.74074074,4.413466465,81.0,56.0,0,0.0,1.0,1.0,0.0,6.0,18.0,27.0,1.0,0,0
+UBCV,2017,W,COMM,292,,202,Management and Organizational Behaviour,Karl Aquino;Kristine Wong,48,76.39583333,8.13121012,99.0,55.0,0,0.0,1.0,3.0,3.0,4.0,7.0,16.0,9.0,3,2
+UBCV,2017,W,COMM,292,,203,Management and Organizational Behaviour,Albina Gibadullina;Karl Aquino,54,73.68518519,9.534097842,97.0,33.0,2,0.0,0.0,1.0,6.0,13.0,11.0,9.0,8.0,2,2
+UBCV,2017,W,COMM,292,,204,Management and Organizational Behaviour,Alexander Egeling;Martin Schulz,53,73.39622642,5.160275867,82.0,52.0,0,1.0,1.0,0.0,2.0,10.0,23.0,12.0,4.0,0,0
+UBCV,2017,W,COMM,292,,205,Management and Organizational Behaviour,Alexander Egeling;Martin Schulz,49,74.2244898,5.225200579,84.0,61.0,0,0.0,0.0,2.0,4.0,6.0,15.0,15.0,7.0,0,0
+UBCV,2017,W,COMM,292,,206,Management and Organizational Behaviour,Martin Schulz;Zorana Svedic,53,73.39622642,12.08676903,85.0,0.0,1,0.0,1.0,2.0,3.0,7.0,10.0,15.0,11.0,3,0
+UBCV,2017,W,COMM,292,,207,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Elizabeth Phillips;Lingtao Yu,51,76.35294118,5.606508822,84.0,46.0,1,0.0,0.0,0.0,0.0,4.0,15.0,17.0,14.0,0,0
+UBCV,2017,W,COMM,292,,208,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Lingtao Yu;Martin Schulz,51,78.50980392,3.828172144,85.0,68.0,0,0.0,0.0,0.0,0.0,4.0,7.0,16.0,23.0,1,0
+UBCV,2017,W,COMM,292,,209,Management and Organizational Behaviour,Alexander Egeling;Amir Haghighat Kashani;Amir Kashani;Martin Schulz,53,74.24528302,4.340797784,82.0,66.0,0,0.0,0.0,0.0,6.0,9.0,17.0,17.0,4.0,0,0
+UBCV,2017,W,COMM,292,,210,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Martin Schulz;Peter Charlton;Wayne Rawcliffe,53,76.8490566,5.108048801,85.0,62.0,0,0.0,0.0,2.0,1.0,4.0,9.0,21.0,15.0,1,0
+UBCV,2017,W,COMM,292,,211,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;David Robert Crawford;Jose Guevara;Jose Teodoro Guevara;Tracey Gurton,53,78.03773585,4.615868383,88.0,60.0,0,0.0,0.0,1.0,0.0,1.0,12.0,16.0,21.0,2,0
+UBCV,2017,W,COMM,292,,212,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Jose Guevara;Jose Teodoro Guevara;Tracey Gurton,51,77.58823529,6.366086618,88.0,49.0,1,0.0,0.0,0.0,2.0,3.0,10.0,15.0,15.0,5,0
+UBCV,2017,W,COMM,292,,213,Management and Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Jose Guevara;Jose Teodoro Guevara;Peter Charlton;Tracey Gurton,51,78.21568628,6.064037353,87.0,56.0,0,0.0,1.0,1.0,1.0,1.0,8.0,13.0,23.0,3,0
+UBCV,2017,W,COMM,292,,OVERALL,Management and Organizational Behaviour,,837,75.75746715,6.450007031,99.0,0.0,5,2.0,6.0,14.0,31.0,88.0,215.0,267.0,178.0,27,4
+UBCV,2017,W,COMM,293,,101,Financial Accounting,Christie Chau;Christie Yuen Yee Chau;Jeremy Fung;Julia Hoy Ying Wong;Julia Wong;Kejin Pan;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;Rajesh Vijayaraghavan;Steven Trinh;Xin Zheng;Yiming Kong;Yu Lin Huang;Zhi Feng Chen,216,72.94444444,13.34712465,100.0,37.0,9,12.0,10.0,22.0,15.0,31.0,25.0,18.0,32.0,15,27
+UBCV,2017,W,COMM,293,,102,Financial Accounting,Christie Chau;Christie Yuen Yee Chau;Jeremy Fung;Julia Hoy Ying Wong;Julia Wong;Kejin Pan;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;Rajesh Vijayaraghavan;Steven Trinh;Xin Zheng;Yiming Kong;Yu Lin Huang;Zhi Feng Chen,213,73.96713615,12.91678189,100.0,42.0,11,9.0,6.0,17.0,21.0,21.0,23.0,25.0,35.0,16,29
+UBCV,2017,W,COMM,293,,103,Financial Accounting,Christie Chau;Christie Yuen Yee Chau;Jeremy Fung;Julia Hoy Ying Wong;Julia Wong;Kejin Pan;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;Rajesh Vijayaraghavan;Steven Trinh;Xin Zheng;Yiming Kong;Yu Lin Huang;Zhi Feng Chen,211,72.28909953,13.31582748,100.0,39.0,13,10.0,12.0,21.0,17.0,24.0,22.0,20.0,31.0,17,24
+UBCV,2017,W,COMM,293,,OVERALL,Financial Accounting,,640,73.06875,13.19238737,100.0,37.0,33,31.0,28.0,60.0,53.0,76.0,70.0,63.0,98.0,48,80
+UBCV,2017,W,COMM,294,,101,Managerial Accounting,Danielle Lim;Michelle Nicole Wong;Michelle Wong;William Dorfmann,123,71.75609756,12.9167203,95.0,36.0,6,7.0,12.0,8.0,8.0,15.0,15.0,8.0,24.0,12,8
+UBCV,2017,W,COMM,294,,201,Managerial Accounting,Julia Hoy Ying Wong;Julia Wong;Kirill Isakov;Mathilde Ho;Michelle Nicole Wong;Michelle Wong;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;William Dorfmann;Xuefei Wang;Yiting Zhang;Zhi Feng Chen,235,78.65531915,10.93826516,95.0,42.0,5,1.0,8.0,9.0,9.0,24.0,22.0,21.0,54.0,49,33
+UBCV,2017,W,COMM,294,,202,Managerial Accounting,Julia Hoy Ying Wong;Julia Wong;Kar Hong Hui;Ken Lin;Kirill Isakov;Mathilde Ho;Michelle Nicole Wong;Michelle Wong;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;William Dorfmann;Xuefei Wang;Yiting Zhang;Zhi Feng Chen,231,73.15151515,10.84028256,95.0,39.0,9,4.0,12.0,16.0,17.0,33.0,36.0,30.0,41.0,21,12
+UBCV,2017,W,COMM,294,,203,Managerial Accounting,Julia Hoy Ying Wong;Julia Wong;Kar Hong Hui;Ken Lin;Kirill Isakov;Mathilde Ho;Michelle Nicole Wong;Michelle Wong;Omar Dhanani;Philip Michael Monagan;Philip Monagan;Rachael Chan;Rachael Michelle Chan;William Dorfmann;Xuefei Wang;Yiting Zhang;Zhi Feng Chen,233,70.86695279,11.55326412,91.0,38.0,20,5.0,10.0,20.0,17.0,32.0,34.0,28.0,46.0,17,4
+UBCV,2017,W,COMM,294,,OVERALL,Managerial Accounting,,822,73.86861314,11.80937767,95.0,36.0,40,17.0,42.0,53.0,51.0,104.0,107.0,87.0,165.0,99,57
+UBCV,2017,W,COMM,295,,101,Managerial Economics,Albina Gibadullina;Anqi Li;James Brander;Matheus Cariola Sampaio;Matheus Sampaio,127,76.73228347,9.945445491,94.0,50.0,0,4.0,3.0,5.0,9.0,16.0,14.0,20.0,25.0,18,13
+UBCV,2017,W,COMM,295,,102,Managerial Economics,Albina Gibadullina;Anqi Li;James Brander;Matheus Cariola Sampaio;Matheus Sampaio,124,75.2983871,9.229662185,94.0,52.0,0,2.0,3.0,7.0,8.0,23.0,22.0,12.0,27.0,12,8
+UBCV,2017,W,COMM,295,,103,Managerial Economics,Albina Gibadullina;Anqi Li;James Vercammen;Matheus Cariola Sampaio;Matheus Sampaio,125,77.688,10.66908104,96.0,10.0,2,0.0,3.0,7.0,3.0,11.0,16.0,13.0,38.0,22,10
+UBCV,2017,W,COMM,295,,104,Managerial Economics,Albina Gibadullina;Anqi Li;Lanny Reuben Zrill;Lanny Zrill;Matheus Cariola Sampaio;Matheus Sampaio,127,69.28346457,8.538333392,98.0,51.0,0,7.0,8.0,13.0,21.0,32.0,17.0,10.0,13.0,5,1
+UBCV,2017,W,COMM,295,,105,Managerial Economics,Albina Gibadullina;Anqi Li;Matheus Cariola Sampaio;Matheus Sampaio;Ratna Shrestha,121,69.73553719,9.687421909,95.0,50.0,0,7.0,7.0,17.0,14.0,29.0,18.0,5.0,18.0,2,4
+UBCV,2017,W,COMM,295,,106,Managerial Economics,Albina Gibadullina;Anqi Li;Matheus Cariola Sampaio;Matheus Sampaio;Ratna Shrestha,117,69.27350427,10.42760257,96.0,45.0,1,7.0,12.0,18.0,12.0,22.0,14.0,7.0,15.0,5,4
+UBCV,2017,W,COMM,295,,OVERALL,Managerial Economics,,741,73.05668016,10.39449045,98.0,10.0,3,27.0,36.0,67.0,67.0,133.0,101.0,67.0,136.0,64,40
+UBCV,2017,W,COMM,296,,101,Introduction to Marketing,Anita Ly;So Eun Park,59,74.45762712,7.753357524,90.0,54.0,0,1.0,2.0,1.0,4.0,13.0,9.0,15.0,7.0,5,2
+UBCV,2017,W,COMM,296,,102,Introduction to Marketing,Anita Ly;So Eun Park,59,78.44067797,9.326031766,93.0,50.0,0,1.0,2.0,0.0,2.0,9.0,5.0,9.0,14.0,12,5
+UBCV,2017,W,COMM,296,,103,Introduction to Marketing,Hannah Chiang;Kirstin Appelt;Mary Swaffield;Niki Vaajedi;Patricia Loo-Xu,58,78.15517241,8.025839245,92.0,56.0,0,0.0,1.0,1.0,4.0,6.0,8.0,11.0,13.0,11,3
+UBCV,2017,W,COMM,296,,104,Introduction to Marketing,Elise Chu Jun Yu;Elise Yu;Mary Sim;Mary Swaffield,60,76.78333333,5.874655898,88.0,60.0,0,0.0,0.0,1.0,4.0,5.0,11.0,13.0,22.0,4,0
+UBCV,2017,W,COMM,296,,105,Introduction to Marketing,Mary Swaffield;Murtaza Chaudhry;So Eun Park,60,75.51666667,8.363544109,89.0,51.0,0,2.0,0.0,4.0,2.0,7.0,13.0,9.0,16.0,7,0
+UBCV,2017,W,COMM,296,,106,Introduction to Marketing,Hannah Chiang;Kirstin Appelt;Niki Vaajedi;Patricia Loo-Xu,60,74.4,8.061627039,87.0,47.0,1,0.0,0.0,8.0,3.0,6.0,11.0,12.0,16.0,3,0
+UBCV,2017,W,COMM,296,,107,Introduction to Marketing,Nicole Elizabeth Nauss;Nicole Nauss;Tamar Milne,58,79.06896552,7.181511518,91.0,57.0,0,0.0,1.0,2.0,2.0,2.0,7.0,9.0,22.0,12,1
+UBCV,2017,W,COMM,296,,201,Introduction to Marketing,Alexandra Brie Riley;Alexandra Riley;David Miller;Tamar Milne,60,78.55,7.434288404,89.0,53.0,0,1.0,1.0,0.0,2.0,6.0,8.0,6.0,23.0,13,0
+UBCV,2017,W,COMM,296,,202,Introduction to Marketing,Carlene Fiona Loughlin;Carlene Loughlin;David Miller;Tamar Milne,59,79.40677966,5.94549567,90.0,60.0,0,0.0,0.0,1.0,2.0,2.0,6.0,12.0,27.0,8,1
+UBCV,2017,W,COMM,296,,203,Introduction to Marketing,Hannah Chiang;Jarrett Vaughan;Julianne Nieh;Kirstin Appelt;Patricia Loo-Xu,60,76.46666667,8.137518605,89.0,53.0,0,1.0,2.0,1.0,7.0,1.0,11.0,11.0,19.0,7,0
+UBCV,2017,W,COMM,296,,204,Introduction to Marketing,Hannah Chiang;Julianne Nieh;Kirstin Appelt;Patricia Loo-Xu;Sharka Stuyt,54,73.46296296,9.380254176,94.0,56.0,0,0.0,3.0,6.0,9.0,6.0,5.0,11.0,7.0,5,2
+UBCV,2017,W,COMM,296,,205,Introduction to Marketing,Hannah Chiang;Julianne Nieh;Kirstin Appelt;Patricia Loo-Xu,54,74.31481482,7.669651228,88.0,56.0,0,0.0,2.0,4.0,7.0,5.0,10.0,9.0,14.0,3,0
+UBCV,2017,W,COMM,296,,206,Introduction to Marketing,Deanna Gee-Wing;Jenny Dickson;Rachel Pang,54,75.64814815,8.37371766,90.0,55.0,0,0.0,1.0,3.0,5.0,4.0,10.0,10.0,11.0,9,1
+UBCV,2017,W,COMM,296,,207,Introduction to Marketing,Deanna Gee-Wing;Jenny Dickson;Rachel Pang,54,75.09259259,8.371714548,92.0,51.0,0,2.0,0.0,2.0,6.0,1.0,8.0,19.0,9.0,5,2
+UBCV,2017,W,COMM,296,,OVERALL,Introduction to Marketing,,809,76.4499382,8.065190951,94.0,47.0,1,8.0,15.0,34.0,59.0,73.0,122.0,156.0,220.0,104,17
+UBCV,2017,W,COMM,298,,101,Introduction to Finance,Caren Lombard,63,73.76190476,15.48226278,97.0,35.0,7,0.0,2.0,6.0,6.0,3.0,7.0,4.0,6.0,14,8
+UBCV,2017,W,COMM,298,,201,Introduction to Finance,Bruna Rozante Porto;Caren Lombard;Steve Lee,93,70.47311828,13.5707417,98.0,36.0,5,7.0,5.0,9.0,12.0,9.0,11.0,3.0,18.0,7,7
+UBCV,2017,W,COMM,298,,202,Introduction to Finance,Bruna Rozante Porto;Caren Lombard;Steve Lee,102,73.88235294,12.65012356,95.0,41.0,3,7.0,6.0,6.0,5.0,8.0,14.0,13.0,19.0,10,11
+UBCV,2017,W,COMM,298,,203,Introduction to Finance,Ruth Freedman,120,73.68333333,12.51955333,98.0,35.0,3,7.0,4.0,10.0,11.0,15.0,14.0,17.0,15.0,9,15
+UBCV,2017,W,COMM,298,,204,Introduction to Finance,Ruth Freedman,120,73.45833333,12.83305595,96.0,36.0,7,4.0,4.0,8.0,10.0,14.0,11.0,18.0,18.0,19,7
+UBCV,2017,W,COMM,298,,205,Introduction to Finance,Darren Degraaf,121,75.87603306,14.79953279,96.0,0.0,3,7.0,5.0,4.0,8.0,6.0,12.0,15.0,25.0,22,14
+UBCV,2017,W,COMM,298,,206,Introduction to Finance,Darren Degraaf,122,76.3852459,13.7891122,99.0,33.0,4,8.0,6.0,3.0,12.0,2.0,12.0,13.0,22.0,24,16
+UBCV,2017,W,COMM,298,,207,Introduction to Finance,Darren Degraaf,119,74.78991597,9.406879875,93.0,40.0,1,2.0,7.0,5.0,6.0,21.0,16.0,18.0,27.0,13,3
+UBCV,2017,W,COMM,298,,OVERALL,Introduction to Finance,,860,74.17906977,13.1404353,99.0,0.0,33,42.0,39.0,51.0,70.0,78.0,97.0,101.0,150.0,118,81
+UBCV,2017,W,COMM,306,,201,Urban Land Economics,Cheng Chen;Sanghoon Lee,38,77.5,9.755802154,98.0,51.0,0,1.0,0.0,1.0,3.0,5.0,7.0,5.0,8.0,3,5
+UBCV,2017,W,COMM,306,,202,Urban Land Economics,Cheng Chen;Sanghoon Lee,37,76.18918919,10.13201153,93.0,50.0,0,2.0,0.0,3.0,2.0,1.0,4.0,11.0,7.0,5,2
+UBCV,2017,W,COMM,306,,OVERALL,Urban Land Economics,,75,76.85333333,9.897711083,98.0,50.0,0,3.0,0.0,4.0,5.0,6.0,11.0,16.0,15.0,8,7
+UBCV,2017,W,COMM,307,,201,Real Estate Investment,Craig Tsuriel Somerville,40,75.575,10.1245766,85.0,25.0,1,0.0,0.0,2.0,2.0,3.0,6.0,12.0,12.0,2,0
+UBCV,2017,W,COMM,307,,202,Real Estate Investment,Craig Tsuriel Somerville,40,77.55,4.646200543,85.0,62.0,0,0.0,0.0,1.0,1.0,0.0,9.0,17.0,11.0,1,0
+UBCV,2017,W,COMM,307,,OVERALL,Real Estate Investment,,80,76.5625,7.889816782,85.0,25.0,1,0.0,0.0,3.0,3.0,3.0,15.0,29.0,23.0,3,0
+UBCV,2017,W,COMM,311,,101,Research Theory for Commerce Scholars,Marc-David Seidel,6,85.0,1.264911064,86.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4,0
+UBCV,2017,W,COMM,311,,OVERALL,Research Theory for Commerce Scholars,,6,85.0,1.264911064,86.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4,0
+UBCV,2017,W,COMM,320,,DD2,Financial Accounting,Nicholas Chua;Scott Sinclair,52,71.42307692,11.5967307,87.0,25.0,2,3.0,3.0,2.0,0.0,11.0,7.0,12.0,9.0,3,0
+UBCV,2017,W,COMM,320,,DD3,Financial Accounting,Josiah Siemens;Mark Bickford;Mathilde Ho;Scott Sinclair;Steven Trinh,28,72.60714286,15.09559486,94.0,27.0,2,2.0,0.0,3.0,0.0,5.0,2.0,4.0,5.0,3,2
+UBCV,2017,W,COMM,320,,DD4,Financial Accounting,Josiah Siemens;Mark Bickford;Mathilde Ho;Scott Sinclair;Steven Trinh,60,70.58333333,15.29184081,95.0,10.0,5,1.0,1.0,6.0,4.0,12.0,7.0,9.0,7.0,4,4
+UBCV,2017,W,COMM,320,,OVERALL,Financial Accounting,,140,71.3,13.90807436,95.0,10.0,9,6.0,4.0,11.0,4.0,28.0,16.0,25.0,21.0,10,6
+UBCV,2017,W,COMM,321,,DD2,Organizational Behaviour,Wayne Rawcliffe,52,76.75,3.067060929,83.0,64.0,0,0.0,0.0,0.0,1.0,1.0,11.0,33.0,6.0,0,0
+UBCV,2017,W,COMM,321,,DD3,Organizational Behaviour,Zorana Svedic,22,81.27272727,4.64124181,90.0,71.0,0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,10.0,5,2
+UBCV,2017,W,COMM,321,,DD4,Organizational Behaviour,Zorana Svedic,59,80.11864407,4.814076865,90.0,67.0,0,0.0,0.0,0.0,2.0,0.0,5.0,9.0,28.0,13,2
+UBCV,2017,W,COMM,321,,OVERALL,Organizational Behaviour,,133,78.9924812,4.545221001,90.0,64.0,0,0.0,0.0,0.0,3.0,2.0,17.0,45.0,44.0,18,4
+UBCV,2017,W,COMM,329,,101,Principles of Organizational Behaviour,Martin Schulz,120,75.725,6.707530573,90.0,56.0,0,0.0,1.0,3.0,16.0,11.0,25.0,25.0,30.0,8,1
+UBCV,2017,W,COMM,329,,102,Principles of Organizational Behaviour,Heidi Upham;Tracey Gurton,53,77.54716981,8.374792851,92.0,60.0,0,0.0,0.0,5.0,3.0,6.0,4.0,10.0,14.0,9,2
+UBCV,2017,W,COMM,329,,103,Principles of Organizational Behaviour,David Robert Crawford;Heidi Upham,39,74.25641026,13.79686835,97.0,23.0,1,2.0,2.0,1.0,4.0,3.0,5.0,4.0,8.0,6,3
+UBCV,2017,W,COMM,329,,201,Principles of Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Tracey Gurton,90,77.94444444,6.314529547,90.0,52.0,0,2.0,0.0,0.0,1.0,8.0,19.0,15.0,38.0,6,1
+UBCV,2017,W,COMM,329,,202,Principles of Organizational Behaviour,Amir Haghighat Kashani;Amir Kashani;Heidi Upham;Tracey Gurton,44,79.06818182,5.804560065,89.0,60.0,0,0.0,0.0,1.0,0.0,2.0,8.0,10.0,17.0,6,0
+UBCV,2017,W,COMM,329,,203,Principles of Organizational Behaviour,Mahesh Nandwani;Perdip Atwal,45,76.06666667,5.284626073,86.0,62.0,0,0.0,0.0,1.0,2.0,4.0,13.0,11.0,11.0,3,0
+UBCV,2017,W,COMM,329,,OVERALL,Principles of Organizational Behaviour,,391,76.75191816,7.720923298,97.0,23.0,1,4.0,3.0,11.0,26.0,34.0,74.0,75.0,118.0,38,7
+UBCV,2017,W,COMM,335,,101,Information Systems Technology and Development,Annabelle Chen;Brian Bemmels;Ilan Boris Vertinsky;Yau Man Cheung,117,84.03418803,6.627960138,95.0,61.0,0,0.0,0.0,1.0,1.0,3.0,3.0,16.0,26.0,32,35
+UBCV,2017,W,COMM,335,,201,Information Systems Technology and Development,Arash Saghafi;Jessica Tse,107,79.65420561,4.081950153,90.0,70.0,0,0.0,0.0,0.0,0.0,2.0,20.0,12.0,64.0,7,2
+UBCV,2017,W,COMM,335,,202,Information Systems Technology and Development,Arash Saghafi;Candice Ka-Hay Pang,119,80.53781513,5.186014302,93.0,52.0,0,1.0,0.0,0.0,0.0,3.0,9.0,22.0,60.0,18,6
+UBCV,2017,W,COMM,335,,OVERALL,Information Systems Technology and Development,,343,81.4548105,5.738209259,95.0,52.0,0,1.0,0.0,1.0,1.0,8.0,32.0,50.0,150.0,57,43
+UBCV,2017,W,COMM,336,,201,Introduction to e-Business,Fernando Leon Lozano;Ning Nan,31,79.12903226,6.616856935,90.0,60.0,0,0.0,0.0,2.0,0.0,1.0,3.0,7.0,11.0,6,1
+UBCV,2017,W,COMM,336,,202,Introduction to e-Business,Fernando Leon Lozano;Ning Nan,39,78.92307692,7.248900517,91.0,52.0,0,1.0,0.0,1.0,0.0,4.0,3.0,8.0,14.0,7,1
+UBCV,2017,W,COMM,336,,OVERALL,Introduction to e-Business,,70,79.01428571,6.927142283,91.0,52.0,0,1.0,0.0,3.0,0.0,5.0,6.0,15.0,25.0,13,2
+UBCV,2017,W,COMM,337,,201,Business Programming and Analytics,Gene Lee;Hongki Kim;Moksh Matta;Sahil Jain,39,86.76923077,9.396140133,98.0,58.0,0,0.0,1.0,0.0,2.0,1.0,0.0,3.0,7.0,4,21
+UBCV,2017,W,COMM,337,,202,Business Programming and Analytics,Gene Lee;Hongki Kim;Moksh Matta;Sahil Jain,47,79.95744681,9.516478721,96.0,60.0,0,0.0,0.0,4.0,2.0,3.0,5.0,9.0,5.0,12,7
+UBCV,2017,W,COMM,337,,OVERALL,Business Programming and Analytics,,86,83.04651163,10.00577125,98.0,58.0,0,0.0,1.0,4.0,4.0,4.0,5.0,12.0,12.0,16,28
+UBCV,2017,W,COMM,353,,101,Financial Accounting: Intermediate I,Alexander Bleck;Chad Anderson;Siddarth Suchithra;Xin Yi Liu,40,74.5,10.26819835,95.0,55.0,0,0.0,2.0,3.0,6.0,6.0,6.0,1.0,8.0,4,4
+UBCV,2017,W,COMM,353,,102,Financial Accounting: Intermediate I,Alexander Bleck;Chad Anderson;Siddarth Suchithra;Xin Yi Liu,41,79.26829268,9.628147252,96.0,62.0,0,0.0,0.0,2.0,5.0,4.0,4.0,5.0,5.0,9,7
+UBCV,2017,W,COMM,353,,103,Financial Accounting: Intermediate I,Alexander Bleck;Chad Anderson;Siddarth Suchithra;Xin Yi Liu,39,71.76923077,11.30547501,92.0,50.0,0,4.0,0.0,10.0,1.0,4.0,3.0,3.0,10.0,1,3
+UBCV,2017,W,COMM,353,,201,Financial Accounting: Intermediate I,Erin Rao;Yo-Ning Kuo,36,73.94444444,10.1557709,93.0,47.0,1,0.0,1.0,4.0,6.0,0.0,6.0,5.0,8.0,3,2
+UBCV,2017,W,COMM,353,,202,Financial Accounting: Intermediate I,Erin Rao;Li Zhang;Xin Yi Liu;Yifei Kuang,40,77.15,9.31376153,91.0,59.0,0,0.0,1.0,1.0,8.0,2.0,6.0,2.0,9.0,8,3
+UBCV,2017,W,COMM,353,,203,Financial Accounting: Intermediate I,Li Zhang;Scott Sinclair;Xin Yi Liu,36,76.83333333,9.207140086,92.0,52.0,0,1.0,1.0,1.0,2.0,5.0,5.0,2.0,12.0,6,1
+UBCV,2017,W,COMM,353,,204,Financial Accounting: Intermediate I,Li Zhang;Scott Sinclair;Xin Yi Liu;Yifei Kuang,22,74.95454546,8.834333848,87.0,53.0,0,1.0,0.0,1.0,2.0,3.0,4.0,3.0,5.0,3,0
+UBCV,2017,W,COMM,353,,OVERALL,Financial Accounting: Intermediate I,,254,75.55905512,10.08003823,96.0,47.0,1,6.0,5.0,22.0,30.0,24.0,34.0,21.0,57.0,34,20
+UBCV,2017,W,COMM,354,,101,Cost Accounting,Colleen Duong;Graham Brown;Harman Sahota;Jeff Kroeker;Ondraya Swanson,38,75.78947368,10.90042869,95.0,50.0,0,1.0,2.0,3.0,4.0,2.0,6.0,2.0,9.0,5,4
+UBCV,2017,W,COMM,354,,102,Cost Accounting,Colleen Duong;Jeff Kroeker;Ondraya Swanson,37,77.89189189,9.628614138,93.0,50.0,0,1.0,1.0,1.0,2.0,1.0,7.0,9.0,6.0,4,5
+UBCV,2017,W,COMM,354,,103,Cost Accounting,Jeff Kroeker,39,70.66666667,11.82845217,91.0,46.0,1,5.0,1.0,3.0,4.0,7.0,2.0,5.0,5.0,5,1
+UBCV,2017,W,COMM,354,,201,Cost Accounting,Benjamin Etkin-Goulet;Sandra Chamberlain;William Dorfmann,35,77.97142857,9.160290627,94.0,60.0,0,0.0,0.0,1.0,3.0,7.0,4.0,2.0,8.0,5,5
+UBCV,2017,W,COMM,354,,202,Cost Accounting,Jeff Kroeker;Robin Buttar;Sandra Chamberlain,35,73.77142857,12.84542884,99.0,50.0,0,2.0,4.0,2.0,2.0,5.0,5.0,2.0,5.0,3,5
+UBCV,2017,W,COMM,354,,203,Cost Accounting,Jeff Kroeker;Kasane Edmunds;Kasane Sydney Edmunds,24,72.625,15.55861987,97.0,45.0,1,4.0,1.0,2.0,1.0,0.0,3.0,1.0,7.0,0,4
+UBCV,2017,W,COMM,354,,204,Cost Accounting,Benjamin Etkin-Goulet;William Dorfmann,40,71.65,7.797271055,88.0,57.0,0,0.0,4.0,2.0,3.0,10.0,10.0,2.0,8.0,1,0
+UBCV,2017,W,COMM,354,,OVERALL,Cost Accounting,,248,74.34677419,11.26748348,99.0,45.0,2,13.0,13.0,14.0,19.0,32.0,37.0,23.0,48.0,23,24
+UBCV,2017,W,COMM,355,,101,Income Taxation,Daniel Leong;Tran Khue Chung,42,73.90476191,14.46747323,94.0,31.0,3,3.0,1.0,0.0,4.0,1.0,6.0,1.0,13.0,7,3
+UBCV,2017,W,COMM,355,,102,Income Taxation,Daniel Leong;Tran Khue Chung,43,75.0,14.23108603,95.0,33.0,4,1.0,0.0,1.0,2.0,3.0,5.0,3.0,15.0,5,4
+UBCV,2017,W,COMM,355,,103,Income Taxation,Daniel Leong;Tran Khue Chung,44,72.43181818,14.53527822,97.0,38.0,3,2.0,2.0,4.0,5.0,7.0,4.0,1.0,3.0,6,7
+UBCV,2017,W,COMM,355,,201,Income Taxation,Daniel Leong;Tran Khue Chung,44,75.97727273,14.43266424,96.0,19.0,1,1.0,2.0,2.0,7.0,1.0,3.0,2.0,9.0,10,6
+UBCV,2017,W,COMM,355,,202,Income Taxation,Daniel Leong;Tran Khue Chung,30,70.6,13.08750391,95.0,44.0,3,1.0,1.0,4.0,0.0,5.0,7.0,0.0,5.0,2,2
+UBCV,2017,W,COMM,355,,OVERALL,Income Taxation,,203,73.77832512,14.20448692,97.0,19.0,14,8.0,6.0,11.0,18.0,17.0,25.0,7.0,45.0,30,22
+UBCV,2017,W,COMM,362,,101,Consumer Behaviour,David Hardisty;Lisa Ann Cavanaugh;Lisa Cavanaugh;Ray Chuck Howard;Ray Howard,42,79.28571429,8.214459928,99.0,59.0,0,0.0,1.0,1.0,1.0,5.0,5.0,7.0,12.0,6,4
+UBCV,2017,W,COMM,362,,102,Consumer Behaviour,David Hardisty;Lisa Ann Cavanaugh;Lisa Cavanaugh;Ray Chuck Howard;Ray Howard,41,76.2195122,6.736142053,93.0,62.0,0,0.0,0.0,1.0,4.0,6.0,4.0,13.0,10.0,2,1
+UBCV,2017,W,COMM,362,,103,Consumer Behaviour,David Hardisty;Lisa Ann Cavanaugh;Lisa Cavanaugh;Ray Chuck Howard;Ray Howard,39,75.35897436,7.774747176,90.0,55.0,0,0.0,2.0,1.0,2.0,4.0,10.0,8.0,7.0,4,1
+UBCV,2017,W,COMM,362,,201,Consumer Behaviour,Yann Cornil;Yoonji Shim,43,78.06976744,8.998400252,94.0,55.0,0,0.0,2.0,0.0,1.0,6.0,9.0,2.0,14.0,2,7
+UBCV,2017,W,COMM,362,,202,Consumer Behaviour,Yann Cornil;Yoonji Shim,44,77.84090909,9.840455609,94.0,50.0,0,1.0,1.0,2.0,2.0,4.0,1.0,13.0,7.0,8,5
+UBCV,2017,W,COMM,362,,OVERALL,Consumer Behaviour,,209,77.39712919,8.446676143,99.0,50.0,0,1.0,6.0,5.0,10.0,25.0,29.0,43.0,50.0,22,18
+UBCV,2017,W,COMM,363,,101,Marketing Analysis,Candy Liu;Rui Jorge Basto Da Silva,37,78.43243243,4.450596343,87.0,68.0,0,0.0,0.0,0.0,0.0,3.0,3.0,17.0,10.0,4,0
+UBCV,2017,W,COMM,363,,102,Marketing Analysis,Rui Jorge Basto Da Silva;Timothy Silk,35,80.0,3.92578205,90.0,69.0,0,0.0,0.0,0.0,0.0,1.0,2.0,10.0,18.0,3,1
+UBCV,2017,W,COMM,363,,103,Marketing Analysis,Rui Jorge Basto Da Silva;Timothy Silk,37,80.08108108,4.205673274,90.0,68.0,0,0.0,0.0,0.0,0.0,1.0,5.0,4.0,22.0,4,1
+UBCV,2017,W,COMM,363,,202,Marketing Analysis,Ann Stone;Kristin Rotte;Samantha Wong,24,76.41666667,5.686877853,85.0,65.0,0,0.0,0.0,0.0,2.0,2.0,7.0,6.0,6.0,1,0
+UBCV,2017,W,COMM,363,,203,Marketing Analysis,Hee Eun You;Kristin Rotte;Timothy Silk,40,78.2,7.172597427,93.0,49.0,1,0.0,1.0,0.0,0.0,1.0,5.0,10.0,17.0,4,1
+UBCV,2017,W,COMM,363,,OVERALL,Marketing Analysis,,173,78.76878613,5.33241047,93.0,49.0,1,0.0,1.0,0.0,2.0,8.0,22.0,47.0,73.0,16,3
+UBCV,2017,W,COMM,365,,101,Market Research,Chunhua Wu;Fan Yang;Yanwen Wang,43,77.27906977,9.61973562,97.0,45.0,1,0.0,0.0,2.0,2.0,2.0,11.0,9.0,7.0,5,4
+UBCV,2017,W,COMM,365,,102,Market Research,Chunhua Wu;Fan Yang;Yanwen Wang,42,78.30952381,7.072751199,90.0,50.0,0,1.0,0.0,0.0,1.0,4.0,6.0,10.0,12.0,7,1
+UBCV,2017,W,COMM,365,,201,Market Research,Abhay Bhanot;Bicheng Yang,41,76.56097561,6.465480572,90.0,53.0,0,1.0,0.0,0.0,2.0,2.0,10.0,9.0,14.0,2,1
+UBCV,2017,W,COMM,365,,202,Market Research,Abhay Bhanot;Bicheng Yang,37,74.08108108,8.483246163,90.0,53.0,0,2.0,0.0,1.0,3.0,7.0,6.0,8.0,6.0,3,1
+UBCV,2017,W,COMM,365,,203,Market Research,Abhay Bhanot;Bicheng Yang;Cluny South,16,77.125,8.716841936,90.0,58.0,0,0.0,1.0,1.0,0.0,1.0,3.0,1.0,6.0,2,1
+UBCV,2017,W,COMM,365,,OVERALL,Market Research,,179,76.68156425,8.11464523,97.0,45.0,1,4.0,1.0,4.0,8.0,16.0,36.0,37.0,45.0,19,8
+UBCV,2017,W,COMM,370,,101,Corporate Finance,Ruth Freedman,43,78.37209302,7.374419286,96.0,60.0,0,0.0,0.0,1.0,0.0,4.0,8.0,13.0,10.0,2,5
+UBCV,2017,W,COMM,370,,102,Corporate Finance,Ruth Freedman,42,78.83333333,9.188849729,94.0,60.0,0,0.0,0.0,3.0,2.0,3.0,7.0,4.0,8.0,10,5
+UBCV,2017,W,COMM,370,,103,Corporate Finance,Azizjon Alimov,40,73.875,12.40386106,94.0,45.0,2,2.0,0.0,3.0,2.0,10.0,3.0,4.0,5.0,3,6
+UBCV,2017,W,COMM,370,,104,Corporate Finance,Caren Lombard,40,74.7,12.27087442,94.0,46.0,1,2.0,1.0,4.0,3.0,2.0,7.0,5.0,5.0,3,7
+UBCV,2017,W,COMM,370,,105,Corporate Finance,Ruth Freedman,42,73.85714286,12.76919202,95.0,37.0,2,0.0,2.0,3.0,3.0,7.0,3.0,7.0,8.0,2,5
+UBCV,2017,W,COMM,370,,106,Corporate Finance,Darren Degraaf,43,78.60465116,5.956747014,92.0,64.0,0,0.0,0.0,0.0,1.0,5.0,8.0,7.0,17.0,3,2
+UBCV,2017,W,COMM,370,,107,Corporate Finance,Darren Degraaf,42,79.80952381,5.424596625,89.0,69.0,0,0.0,0.0,0.0,0.0,5.0,5.0,10.0,12.0,10,0
+UBCV,2017,W,COMM,370,,108,Corporate Finance,Caren Lombard,40,74.25,9.464508602,90.0,53.0,0,1.0,2.0,3.0,3.0,5.0,5.0,6.0,8.0,6,1
+UBCV,2017,W,COMM,370,,110,Corporate Finance,Darren Degraaf,44,77.11363636,6.3363694,91.0,61.0,0,0.0,0.0,1.0,2.0,5.0,8.0,14.0,10.0,3,1
+UBCV,2017,W,COMM,370,,111,Corporate Finance,Darren Degraaf,42,76.30952381,7.402992458,87.0,59.0,0,0.0,1.0,1.0,4.0,6.0,7.0,7.0,9.0,7,0
+UBCV,2017,W,COMM,370,,201,Corporate Finance,Eleni Simintzi,39,77.17948718,8.804519757,93.0,58.0,0,0.0,2.0,0.0,2.0,5.0,8.0,7.0,6.0,5,4
+UBCV,2017,W,COMM,370,,202,Corporate Finance,Azizjon Alimov,33,77.0,9.67600124,97.0,56.0,0,0.0,1.0,2.0,4.0,1.0,5.0,6.0,6.0,5,3
+UBCV,2017,W,COMM,370,,OVERALL,Corporate Finance,,490,76.6877551,9.308090301,97.0,37.0,5,5.0,9.0,21.0,26.0,58.0,74.0,90.0,104.0,59,39
+UBCV,2017,W,COMM,371,,101,Investment Theory,Azizjon Alimov;Guangli Lu,39,78.07692308,8.815012958,95.0,62.0,0,0.0,0.0,1.0,2.0,7.0,5.0,6.0,5.0,8,5
+UBCV,2017,W,COMM,371,,102,Investment Theory,Elena Pikulina;Guangli Lu,43,78.09302326,7.174073537,91.0,60.0,0,0.0,0.0,3.0,0.0,2.0,5.0,12.0,10.0,9,2
+UBCV,2017,W,COMM,371,,103,Investment Theory,Elena Pikulina,42,81.66666667,9.272741765,100.0,60.0,0,0.0,0.0,1.0,2.0,3.0,4.0,2.0,10.0,11,9
+UBCV,2017,W,COMM,371,,104,Investment Theory,Elena Pikulina;Markus Baldauf,43,74.53488372,10.65553475,91.0,45.0,1,0.0,3.0,1.0,5.0,6.0,3.0,8.0,5.0,8,3
+UBCV,2017,W,COMM,371,,105,Investment Theory,Markus Baldauf;Wenjie Chen,41,78.78048781,11.83535423,94.0,31.0,1,2.0,0.0,0.0,2.0,1.0,2.0,7.0,14.0,8,4
+UBCV,2017,W,COMM,371,,106,Investment Theory,Azizjon Alimov;Markus Baldauf;Wenjie Chen,40,78.475,9.821450882,91.0,40.0,1,0.0,1.0,1.0,1.0,2.0,4.0,8.0,13.0,6,3
+UBCV,2017,W,COMM,371,,107,Investment Theory,Georgios Skoulakis;Markus Baldauf,47,82.40425532,8.709464054,100.0,62.0,0,0.0,0.0,1.0,1.0,2.0,7.0,6.0,9.0,10,11
+UBCV,2017,W,COMM,371,,OVERALL,Investment Theory,,295,78.91525424,9.766470713,100.0,31.0,3,2.0,4.0,8.0,13.0,23.0,30.0,49.0,66.0,60,37
+UBCV,2017,W,COMM,374,,201,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,39,82.38461539,5.319355841,94.0,74.0,0,0.0,0.0,0.0,0.0,0.0,5.0,6.0,14.0,10,4
+UBCV,2017,W,COMM,374,,202,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,42,80.28571429,6.045702825,91.0,66.0,0,0.0,0.0,0.0,1.0,2.0,6.0,8.0,13.0,10,2
+UBCV,2017,W,COMM,374,,203,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,41,77.51219512,8.222292719,93.0,45.0,1,0.0,0.0,1.0,1.0,3.0,6.0,13.0,9.0,5,2
+UBCV,2017,W,COMM,374,,204,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,39,74.58974359,14.39977695,93.0,19.0,2,0.0,0.0,0.0,1.0,4.0,10.0,7.0,11.0,2,2
+UBCV,2017,W,COMM,374,,205,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis,43,79.1627907,6.462088092,88.0,58.0,0,0.0,1.0,0.0,3.0,0.0,4.0,11.0,15.0,9,0
+UBCV,2017,W,COMM,374,,206,Applied Financial Markets,Alberto Romero;Alberto Romero Aranda;Carolin Pflueger;Jack Favilukis;Jan Bena,38,79.86842105,6.830658441,91.0,64.0,0,0.0,0.0,0.0,1.0,4.0,4.0,8.0,9.0,9,3
+UBCV,2017,W,COMM,374,,OVERALL,Applied Financial Markets,,242,78.97107438,8.650137917,94.0,19.0,3,0.0,1.0,1.0,7.0,13.0,35.0,53.0,71.0,45,13
+UBCV,2017,W,COMM,377,,101,International Financial Markets and Institutions,Azizjon Alimov,40,71.775,14.33032914,97.0,43.0,2,4.0,2.0,3.0,5.0,3.0,3.0,8.0,1.0,3,6
+UBCV,2017,W,COMM,377,,102,International Financial Markets and Institutions,Azizjon Alimov,40,77.25,12.90150061,97.0,47.0,1,1.0,2.0,2.0,3.0,6.0,2.0,4.0,5.0,8,6
+UBCV,2017,W,COMM,377,,201,International Financial Markets and Institutions,Azizjon Alimov,34,76.88235294,15.06906264,95.0,13.0,1,0.0,1.0,2.0,3.0,3.0,2.0,4.0,7.0,7,4
+UBCV,2017,W,COMM,377,,OVERALL,International Financial Markets and Institutions,,114,75.21929825,14.18197708,97.0,13.0,4,5.0,5.0,7.0,11.0,12.0,7.0,16.0,13.0,18,16
+UBCV,2017,W,COMM,382,,101,Economics of Entrepreneurship and Innovation,Jaideep Singh;Steven Minns,40,76.4,3.868346231,86.0,68.0,0,0.0,0.0,0.0,0.0,4.0,13.0,12.0,9.0,2,0
+UBCV,2017,W,COMM,382,,102,Economics of Entrepreneurship and Innovation,Jaideep Singh;Steven Minns,35,77.42857143,4.995796552,87.0,64.0,0,0.0,0.0,0.0,1.0,2.0,8.0,11.0,8.0,5,0
+UBCV,2017,W,COMM,382,,OVERALL,Economics of Entrepreneurship and Innovation,,75,76.88,4.429507934,87.0,64.0,0,0.0,0.0,0.0,1.0,6.0,21.0,23.0,17.0,7,0
+UBCV,2017,W,COMM,386,A,101,Topics in Business III,David Silver,17,79.82352941,3.504199162,86.0,74.0,0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,5.0,3,0
+UBCV,2017,W,COMM,386,A,201,Topics in Business III,David Silver,7,81.71428571,2.138089935,85.0,79.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,1,0
+UBCV,2017,W,COMM,386,A,OVERALL,Topics in Business III,,24,80.375,3.241208846,86.0,74.0,0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,10.0,4,0
+UBCV,2017,W,COMM,386,D,101,Topics in Business III,Marc-David Seidel,41,77.46341463,8.910941479,93.0,54.0,0,1.0,0.0,4.0,1.0,1.0,7.0,8.0,10.0,7,2
+UBCV,2017,W,COMM,386,D,OVERALL,Topics in Business III,,41,77.46341463,8.910941479,93.0,54.0,0,1.0,0.0,4.0,1.0,1.0,7.0,8.0,10.0,7,2
+UBCV,2017,W,COMM,386,G,201,Topics in Business III,Will Gornall;Xuejing Guan,37,80.27027027,5.419351379,91.0,69.0,0,0.0,0.0,0.0,0.0,2.0,5.0,8.0,11.0,9,2
+UBCV,2017,W,COMM,386,G,OVERALL,Topics in Business III,,37,80.27027027,5.419351379,91.0,69.0,0,0.0,0.0,0.0,0.0,2.0,5.0,8.0,11.0,9,2
+UBCV,2017,W,COMM,386,I,201,Topics in Business III,Tamara Etmannski,38,81.10526316,13.96673553,90.0,0.0,1,0.0,0.0,0.0,0.0,0.0,1.0,4.0,17.0,12,3
+UBCV,2017,W,COMM,386,I,OVERALL,Topics in Business III,,38,81.10526316,13.96673553,90.0,0.0,1,0.0,0.0,0.0,0.0,0.0,1.0,4.0,17.0,12,3
+UBCV,2017,W,COMM,386,J,201,Topics in Business III,Dale Griffin;Nicole Nauss;Tamar Milne,26,81.15384615,4.258566028,88.0,72.0,0,0.0,0.0,0.0,0.0,0.0,2.0,7.0,10.0,7,0
+UBCV,2017,W,COMM,386,J,202,Topics in Business III,Amanda Bamford;Amanda Kathleen Marissa Bamford;Dale Griffin;Tamar Milne,25,78.76,4.780864636,86.0,70.0,0,0.0,0.0,0.0,0.0,3.0,4.0,5.0,10.0,3,0
+UBCV,2017,W,COMM,386,J,OVERALL,Topics in Business III,,51,79.98039216,4.63676696,88.0,70.0,0,0.0,0.0,0.0,0.0,3.0,6.0,12.0,20.0,10,0
+UBCV,2017,W,COMM,386,L,201,Topics in Business III,James Tansey;Varun Srivatsan,26,80.26923077,12.59700819,88.0,24.0,1,0.0,0.0,0.0,0.0,2.0,1.0,1.0,10.0,11,0
+UBCV,2017,W,COMM,386,L,OVERALL,Topics in Business III,,26,80.26923077,12.59700819,88.0,24.0,1,0.0,0.0,0.0,0.0,2.0,1.0,1.0,10.0,11,0
+UBCV,2017,W,COMM,386,R,101,Topics in Business III,Tamar Milne,42,76.76190476,8.576227847,91.0,52.0,0,1.0,0.0,1.0,3.0,5.0,8.0,6.0,8.0,8,2
+UBCV,2017,W,COMM,386,R,OVERALL,Topics in Business III,,42,76.76190476,8.576227847,91.0,52.0,0,1.0,0.0,1.0,3.0,5.0,8.0,6.0,8.0,8,2
+UBCV,2017,W,COMM,386,S,201,Topics in Business III,Cameron Morrell,23,74.13043478,14.9796964,92.0,39.0,2,1.0,1.0,1.0,1.0,1.0,2.0,4.0,3.0,5,2
+UBCV,2017,W,COMM,386,S,OVERALL,Topics in Business III,,23,74.13043478,14.9796964,92.0,39.0,2,1.0,1.0,1.0,1.0,1.0,2.0,4.0,3.0,5,2
+UBCV,2017,W,COMM,387,,201,Entrepreneurial Finance,Jan Bena;Justin Bull,38,80.02631579,6.667739364,90.0,62.0,0,0.0,0.0,1.0,1.0,2.0,5.0,3.0,17.0,8,1
+UBCV,2017,W,COMM,387,,202,Entrepreneurial Finance,Jan Bena;Justin Bull,24,78.375,8.334383992,90.0,53.0,0,1.0,0.0,0.0,1.0,3.0,1.0,5.0,8.0,4,1
+UBCV,2017,W,COMM,387,,OVERALL,Entrepreneurial Finance,,62,79.38709677,7.335864826,90.0,53.0,0,1.0,0.0,1.0,2.0,5.0,6.0,8.0,25.0,12,2
+UBCV,2017,W,COMM,388,,101,Design Methods for Business Innovation,Angele Beausoleil;Parham Albadvi,36,83.63888889,3.181668725,90.0,72.0,0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,17.0,15,1
+UBCV,2017,W,COMM,388,,102,Design Methods for Business Innovation,Angele Beausoleil;Emilie Gibeau,40,83.95,2.773038692,89.0,78.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,18.0,21,0
+UBCV,2017,W,COMM,388,,201,Design Methods for Business Innovation,Dharini Thiruchittampalam;Emilie Gibeau,32,80.3125,4.138236339,88.0,69.0,0,0.0,0.0,0.0,0.0,1.0,2.0,8.0,16.0,5,0
+UBCV,2017,W,COMM,388,,OVERALL,Design Methods for Business Innovation,,108,82.76851852,3.695429057,90.0,69.0,0,0.0,0.0,0.0,0.0,1.0,3.0,11.0,51.0,41,1
+UBCV,2017,W,COMM,389,,101,Creativity in Business,Angele Beausoleil;Pierre Alexander Noujeim;Pierre Noujeim,39,86.33333333,4.770155759,95.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,13,12
+UBCV,2017,W,COMM,389,,OVERALL,Creativity in Business,,39,86.33333333,4.770155759,95.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,13,12
+UBCV,2017,W,COMM,390,,101,Business Writing,Elizabeth Bowker,20,78.1,4.024922359,86.0,72.0,0,0.0,0.0,0.0,0.0,0.0,7.0,4.0,8.0,1,0
+UBCV,2017,W,COMM,390,,102,Business Writing,Elizabeth Bowker,21,79.0952381,4.857002799,88.0,70.0,0,0.0,0.0,0.0,0.0,1.0,4.0,4.0,9.0,3,0
+UBCV,2017,W,COMM,390,,103,Business Writing,Jessica Oman;Marlisse Silver Sweeney,20,79.1,6.206109045,88.0,64.0,0,0.0,0.0,0.0,2.0,0.0,2.0,5.0,8.0,3,0
+UBCV,2017,W,COMM,390,,104,Business Writing,Chad Brealey;Jessica Oman,20,79.25,3.16019653,87.0,74.0,0,0.0,0.0,0.0,0.0,0.0,2.0,9.0,8.0,1,0
+UBCV,2017,W,COMM,390,,105,Business Writing,Cameron Morrell;Chad Brealey,19,81.31578947,7.288138244,90.0,65.0,0,0.0,0.0,0.0,1.0,2.0,1.0,1.0,5.0,6,3
+UBCV,2017,W,COMM,390,,106,Business Writing,Cameron Morrell;Chad Brealey,18,75.0,9.133004145,86.0,54.0,0,1.0,0.0,2.0,1.0,0.0,3.0,4.0,5.0,2,0
+UBCV,2017,W,COMM,390,,107,Business Writing,Brian Sutherland;Chad Brealey,19,79.2631579,5.635621875,86.0,68.0,0,0.0,0.0,0.0,0.0,2.0,4.0,3.0,7.0,3,0
+UBCV,2017,W,COMM,390,,108,Business Writing,Brian Sutherland;Chad Brealey,20,75.0,7.026266509,87.0,65.0,0,0.0,0.0,0.0,3.0,5.0,5.0,1.0,3.0,3,0
+UBCV,2017,W,COMM,390,,109,Business Writing,Brian Sutherland;Timothy Cuffe;Timothy David Cuffe,20,84.9,5.280550211,91.0,67.0,0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,4.0,11,3
+UBCV,2017,W,COMM,390,,110,Business Writing,Brian Sutherland;Timothy Cuffe;Timothy David Cuffe,19,84.0,4.988876516,90.0,68.0,0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,5.0,11,1
+UBCV,2017,W,COMM,390,,111,Business Writing,Amie Wolf;Susan Soliman Ibrahim,18,74.38888889,6.353682479,85.0,62.0,0,0.0,0.0,2.0,1.0,3.0,2.0,7.0,2.0,1,0
+UBCV,2017,W,COMM,390,,112,Business Writing,Amie Wolf;Susan Soliman Ibrahim,20,75.2,10.21660156,85.0,42.0,1,0.0,0.0,0.0,2.0,4.0,1.0,1.0,10.0,1,0
+UBCV,2017,W,COMM,390,,113,Business Writing,Brian Sutherland;Chad Brealey,20,78.2,6.638008579,89.0,63.0,0,0.0,0.0,1.0,1.0,1.0,3.0,5.0,6.0,3,0
+UBCV,2017,W,COMM,390,,114,Business Writing,Brian Sutherland;Chad Brealey,19,72.68421053,7.874379211,86.0,58.0,0,0.0,1.0,2.0,1.0,4.0,4.0,4.0,2.0,1,0
+UBCV,2017,W,COMM,390,,115,Business Writing,Marlisse Silver Sweeney,19,79.05263158,5.948610335,87.0,60.0,0,0.0,0.0,1.0,0.0,0.0,2.0,4.0,9.0,3,0
+UBCV,2017,W,COMM,390,,116,Business Writing,Marlisse Silver Sweeney,20,75.35,5.724140938,87.0,64.0,0,0.0,0.0,0.0,2.0,3.0,5.0,4.0,5.0,1,0
+UBCV,2017,W,COMM,390,,117,Business Writing,Brian Sutherland,19,75.73684211,3.913539252,81.0,65.0,0,0.0,0.0,0.0,1.0,1.0,4.0,9.0,4.0,0,0
+UBCV,2017,W,COMM,390,,118,Business Writing,Brian Sutherland,20,76.9,4.33953672,85.0,69.0,0,0.0,0.0,0.0,0.0,2.0,4.0,6.0,7.0,1,0
+UBCV,2017,W,COMM,390,,119,Business Writing,Brenda Jones;Marlisse Silver Sweeney,19,77.10526316,7.437851667,87.0,60.0,0,0.0,0.0,1.0,2.0,0.0,4.0,3.0,5.0,4,0
+UBCV,2017,W,COMM,390,,120,Business Writing,Brenda Jones;Marlisse Silver Sweeney,18,75.55555556,7.679018183,85.0,60.0,0,0.0,0.0,2.0,1.0,0.0,6.0,3.0,3.0,3,0
+UBCV,2017,W,COMM,390,,121,Business Writing,Brian Sutherland;Jessica Oman,19,77.42105263,4.127358443,83.0,69.0,0,0.0,0.0,0.0,0.0,1.0,4.0,4.0,10.0,0,0
+UBCV,2017,W,COMM,390,,122,Business Writing,Brian Sutherland;Jessica Oman,20,76.25,3.82340438,82.0,65.0,0,0.0,0.0,0.0,1.0,0.0,5.0,10.0,4.0,0,0
+UBCV,2017,W,COMM,390,,123,Business Writing,Brian Sutherland;Cameron Morrell,20,76.95,4.260899337,83.0,70.0,0,0.0,0.0,0.0,0.0,2.0,5.0,6.0,7.0,0,0
+UBCV,2017,W,COMM,390,,201,Business Writing,Brian Sutherland;Chad Brealey,19,77.73684211,2.130260945,81.0,72.0,0,0.0,0.0,0.0,0.0,0.0,1.0,13.0,5.0,0,0
+UBCV,2017,W,COMM,390,,202,Business Writing,Brian Sutherland;Chad Brealey,20,77.6,2.562893102,81.0,70.0,0,0.0,0.0,0.0,0.0,1.0,1.0,12.0,6.0,0,0
+UBCV,2017,W,COMM,390,,203,Business Writing,Brian Sutherland;Chad Brealey,19,78.47368421,2.318246968,83.0,73.0,0,0.0,0.0,0.0,0.0,0.0,1.0,8.0,10.0,0,0
+UBCV,2017,W,COMM,390,,204,Business Writing,Frederick Fajardo;Jessica Oman,20,79.85,4.793361638,87.0,67.0,0,0.0,0.0,0.0,1.0,1.0,1.0,6.0,8.0,3,0
+UBCV,2017,W,COMM,390,,205,Business Writing,Frederick Fajardo;Jessica Oman,20,74.7,7.657813347,86.0,60.0,0,0.0,0.0,3.0,2.0,0.0,4.0,6.0,3.0,2,0
+UBCV,2017,W,COMM,390,,206,Business Writing,Susan Soliman Ibrahim,20,78.3,4.878524367,84.0,68.0,0,0.0,0.0,0.0,0.0,3.0,2.0,3.0,12.0,0,0
+UBCV,2017,W,COMM,390,,207,Business Writing,Susan Soliman Ibrahim,15,79.53333333,4.34028746,85.0,71.0,0,0.0,0.0,0.0,0.0,2.0,1.0,2.0,9.0,1,0
+UBCV,2017,W,COMM,390,,208,Business Writing,Elizabeth Bowker,10,77.8,9.681597664,91.0,62.0,0,0.0,0.0,1.0,0.0,2.0,1.0,1.0,2.0,1,2
+UBCV,2017,W,COMM,390,,209,Business Writing,Elizabeth Bowker,8,82.625,7.229651246,90.0,70.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,3,1
+UBCV,2017,W,COMM,390,,210,Business Writing,Brian Sutherland;Cameron Morrell,20,77.1,9.261692468,90.0,56.0,0,0.0,1.0,1.0,2.0,0.0,3.0,4.0,4.0,4,1
+UBCV,2017,W,COMM,390,,211,Business Writing,Brian Sutherland;Cameron Morrell;Susan Soliman Ibrahim,14,77.42857143,7.439130281,86.0,61.0,0,0.0,0.0,1.0,0.0,3.0,1.0,2.0,5.0,2,0
+UBCV,2017,W,COMM,390,,212,Business Writing,Cameron Morrell;Douglas Mollenhauer,18,77.27777778,6.066354226,87.0,60.0,0,0.0,0.0,1.0,0.0,0.0,6.0,5.0,4.0,2,0
+UBCV,2017,W,COMM,390,,213,Business Writing,Cameron Morrell;Marlisse Silver Sweeney,17,75.05882353,8.562057202,88.0,58.0,0,0.0,1.0,1.0,2.0,0.0,3.0,5.0,3.0,2,0
+UBCV,2017,W,COMM,390,,214,Business Writing,Cameron Morrell;Marlisse Silver Sweeney,19,73.73684211,7.629199064,87.0,61.0,0,0.0,0.0,1.0,3.0,5.0,3.0,2.0,2.0,3,0
+UBCV,2017,W,COMM,390,,215,Business Writing,Elizabeth Bowker,12,74.25,6.929843236,85.0,60.0,0,0.0,0.0,1.0,1.0,2.0,2.0,3.0,2.0,1,0
+UBCV,2017,W,COMM,390,,216,Business Writing,Brian Sutherland;Chad Brealey,18,77.0,7.669649888,88.0,62.0,0,0.0,0.0,1.0,1.0,3.0,3.0,2.0,5.0,3,0
+UBCV,2017,W,COMM,390,,217,Business Writing,Brian Sutherland;Chad Brealey,20,80.2,6.748099148,88.0,67.0,0,0.0,0.0,0.0,1.0,2.0,3.0,0.0,6.0,8,0
+UBCV,2017,W,COMM,390,,218,Business Writing,Brian Sutherland;Chad Brealey,18,73.61111111,8.218622247,92.0,63.0,0,0.0,0.0,1.0,3.0,5.0,4.0,2.0,0.0,2,1
+UBCV,2017,W,COMM,390,,219,Business Writing,Jessica Oman;Timothy Cuffe;Timothy David Cuffe,20,80.0,6.423640548,89.0,60.0,0,0.0,0.0,1.0,0.0,0.0,3.0,4.0,7.0,5,0
+UBCV,2017,W,COMM,390,,220,Business Writing,Jessica Oman;Timothy Cuffe;Timothy David Cuffe,20,80.4,4.649844366,87.0,72.0,0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,8.0,4,0
+UBCV,2017,W,COMM,390,,221,Business Writing,Brian Sutherland;Marlisse Silver Sweeney,20,77.45,3.734265235,82.0,65.0,0,0.0,0.0,0.0,1.0,0.0,1.0,11.0,7.0,0,0
+UBCV,2017,W,COMM,390,,222,Business Writing,Brian Sutherland;Eva Kjekstad,19,76.68421053,3.317506285,81.0,66.0,0,0.0,0.0,0.0,1.0,0.0,2.0,12.0,4.0,0,0
+UBCV,2017,W,COMM,390,,OVERALL,Business Writing,,833,77.60144058,6.546953038,92.0,42.0,1,1.0,3.0,24.0,38.0,62.0,129.0,205.0,250.0,108,12
+UBCV,2017,W,COMM,393,,101,Commercial Law,Ellen Jane Mcintosh;Ellen Mcintosh,50,73.54,9.687378702,95.0,50.0,0,1.0,1.0,7.0,6.0,6.0,8.0,7.0,5.0,7,2
+UBCV,2017,W,COMM,393,,102,Commercial Law,Ellen Jane Mcintosh;Ellen Mcintosh,61,72.95081967,8.061071537,90.0,55.0,0,0.0,3.0,6.0,5.0,13.0,11.0,9.0,7.0,6,1
+UBCV,2017,W,COMM,393,,103,Commercial Law,Barbara Cox;Elicia Salzberg,62,74.69354839,9.716622077,89.0,50.0,0,4.0,2.0,2.0,6.0,4.0,11.0,9.0,16.0,8,0
+UBCV,2017,W,COMM,393,,104,Commercial Law,Barbara Cox,60,71.68333333,10.47756549,92.0,47.0,1,2.0,5.0,6.0,7.0,5.0,9.0,9.0,7.0,7,2
+UBCV,2017,W,COMM,393,,105,Commercial Law,Barbara Cox;Ellen Jane Mcintosh,60,74.36666667,9.618073853,92.0,52.0,0,3.0,2.0,3.0,4.0,8.0,11.0,6.0,16.0,3,4
+UBCV,2017,W,COMM,393,,106,Commercial Law,Barbara Cox;Ellen Jane Mcintosh,62,75.03225807,9.148981385,95.0,48.0,1,1.0,2.0,1.0,5.0,6.0,17.0,6.0,15.0,5,3
+UBCV,2017,W,COMM,393,,201,Commercial Law,Barbara Cox;Ellen Jane Mcintosh;Ellen Mcintosh,36,72.52777778,11.76553347,87.0,17.0,1,0.0,0.0,2.0,5.0,5.0,10.0,3.0,6.0,4,0
+UBCV,2017,W,COMM,393,,202,Commercial Law,Barbara Cox;Ellen Jane Mcintosh;Ellen Mcintosh,58,75.89655172,6.851020298,88.0,55.0,0,0.0,1.0,2.0,2.0,10.0,13.0,9.0,17.0,4,0
+UBCV,2017,W,COMM,393,,203,Commercial Law,Elicia Salzberg;Ellen Jane Mcintosh;Ellen Mcintosh,62,77.79032258,7.055139033,88.0,55.0,0,0.0,1.0,1.0,4.0,3.0,14.0,5.0,22.0,12,0
+UBCV,2017,W,COMM,393,,204,Commercial Law,Barbara Cox;Elicia Salzberg,48,74.47916667,10.43722793,93.0,44.0,3,0.0,1.0,1.0,1.0,8.0,6.0,12.0,8.0,6,2
+UBCV,2017,W,COMM,393,,205,Commercial Law,Barbara Cox,52,69.11538462,10.16656158,85.0,41.0,1,3.0,5.0,5.0,6.0,6.0,8.0,8.0,7.0,3,0
+UBCV,2017,W,COMM,393,,206,Commercial Law,Barbara Cox,51,70.58823529,8.825364515,90.0,44.0,1,1.0,2.0,5.0,7.0,9.0,11.0,6.0,6.0,2,1
+UBCV,2017,W,COMM,393,,OVERALL,Commercial Law,,662,73.68277946,9.495550649,95.0,17.0,8,15.0,25.0,41.0,58.0,83.0,129.0,89.0,132.0,67,15
+UBCV,2017,W,COMM,394,,101,Government and Business,Charles Lindsey;Navid Siami,44,76.86363636,7.638917825,90.0,57.0,0,0.0,1.0,1.0,1.0,6.0,14.0,4.0,7.0,9,1
+UBCV,2017,W,COMM,394,,102,Government and Business,Charles Lindsey;Navid Siami,44,76.59090909,10.13701066,96.0,43.0,1,0.0,0.0,2.0,4.0,7.0,7.0,5.0,8.0,5,5
+UBCV,2017,W,COMM,394,,103,Government and Business,Steven Minns;Xiao Yue Wang,47,76.85106383,5.721730976,90.0,68.0,0,0.0,0.0,0.0,0.0,10.0,9.0,12.0,9.0,5,2
+UBCV,2017,W,COMM,394,,104,Government and Business,Jakhongir Khamudkhanov;Jose Pineda Salazar,46,74.32608696,7.659574539,85.0,36.0,1,0.0,0.0,1.0,3.0,3.0,13.0,14.0,8.0,3,0
+UBCV,2017,W,COMM,394,,105,Government and Business,Jakhongir Khamudkhanov;Jose Pineda Salazar,46,78.7173913,4.674579213,90.0,65.0,0,0.0,0.0,0.0,1.0,2.0,5.0,15.0,16.0,6,1
+UBCV,2017,W,COMM,394,,106,Government and Business,C Keith Head;Xia0non Sun,47,75.17021277,6.158483541,86.0,62.0,0,0.0,0.0,2.0,5.0,5.0,11.0,11.0,10.0,3,0
+UBCV,2017,W,COMM,394,,107,Government and Business,C Keith Head;Omar Dhanani,38,73.84210526,7.423579365,90.0,60.0,0,0.0,0.0,3.0,5.0,8.0,6.0,8.0,4.0,3,1
+UBCV,2017,W,COMM,394,,108,Government and Business,Steven Minns;Xiao Yue Wang,46,77.86956522,6.672026831,92.0,66.0,0,0.0,0.0,0.0,1.0,8.0,10.0,8.0,10.0,4,5
+UBCV,2017,W,COMM,394,,109,Government and Business,Jakhongir Khamudkhanov;Jose Pineda Salazar,45,76.82222222,6.641087291,87.0,50.0,0,1.0,0.0,0.0,2.0,2.0,7.0,12.0,17.0,4,0
+UBCV,2017,W,COMM,394,,201,Government and Business,Steven Minns;Xiao Yue Wang,17,75.35294118,4.910972109,85.0,69.0,0,0.0,0.0,0.0,0.0,4.0,7.0,2.0,3.0,1,0
+UBCV,2017,W,COMM,394,,202,Government and Business,Steven Minns;Xiao Yue Wang,46,73.82608696,4.639465237,83.0,68.0,0,0.0,0.0,0.0,0.0,20.0,8.0,10.0,8.0,0,0
+UBCV,2017,W,COMM,394,,203,Government and Business,Navid Siami;Thomas Ross,40,74.975,8.407833649,90.0,51.0,0,1.0,1.0,2.0,4.0,3.0,9.0,3.0,14.0,2,1
+UBCV,2017,W,COMM,394,,204,Government and Business,Navid Siami;Thomas Ross,31,77.06451613,7.894873796,90.0,56.0,0,0.0,1.0,1.0,2.0,3.0,3.0,5.0,11.0,4,1
+UBCV,2017,W,COMM,394,,205,Government and Business,Steven Minns;Xiao Yue Wang,46,79.93478261,5.697571311,90.0,68.0,0,0.0,0.0,0.0,0.0,5.0,3.0,10.0,16.0,11,1
+UBCV,2017,W,COMM,394,,206,Government and Business,Steven Minns;Xiao Yue Wang,49,79.59183674,5.30690732,88.0,68.0,0,0.0,0.0,0.0,0.0,5.0,7.0,6.0,19.0,12,0
+UBCV,2017,W,COMM,394,,207,Government and Business,Jakhongir Khamudkhanov;Jose Pineda Salazar,48,77.125,6.641664108,90.0,57.0,0,0.0,1.0,1.0,3.0,2.0,6.0,14.0,15.0,4,2
+UBCV,2017,W,COMM,394,,208,Government and Business,Jakhongir Khamudkhanov;Jose Pineda Salazar,45,76.31111111,8.409470371,92.0,58.0,0,0.0,1.0,2.0,4.0,5.0,6.0,7.0,11.0,6,3
+UBCV,2017,W,COMM,394,,OVERALL,Government and Business,,725,76.63448276,7.064632354,96.0,36.0,2,2.0,5.0,15.0,35.0,98.0,131.0,146.0,186.0,82,23
+UBCV,2017,W,COMM,395,,101,Business Communications,David Miller;Elizabeth Bowker;Gun Uk Han;Sassan Shokoohi,39,77.02564103,4.251855196,85.0,68.0,0,0.0,0.0,0.0,0.0,5.0,8.0,11.0,14.0,1,0
+UBCV,2017,W,COMM,395,,102,Business Communications,David Miller;Elizabeth Bowker;Keunwoo Kim;Sassan Shokoohi,39,77.58974359,4.609589254,88.0,70.0,0,0.0,0.0,0.0,0.0,5.0,9.0,8.0,14.0,3,0
+UBCV,2017,W,COMM,395,,103,Business Communications,David Miller;Sassan Shokoohi;Sharon Zhao;Susan Soliman Ibrahim,40,74.4,6.682545193,83.0,60.0,0,0.0,0.0,5.0,1.0,6.0,11.0,4.0,13.0,0,0
+UBCV,2017,W,COMM,395,,104,Business Communications,David Miller;Hadi Hassan;Sassan Shokoohi;Susan Soliman Ibrahim,37,75.94594595,5.744301263,84.0,56.0,0,0.0,1.0,1.0,0.0,5.0,6.0,11.0,13.0,0,0
+UBCV,2017,W,COMM,395,,105,Business Communications,Douglas Mollenhauer;Jia Xin Li;Sassan Shokoohi,40,77.425,4.075489588,87.0,63.0,0,0.0,0.0,1.0,0.0,1.0,8.0,19.0,10.0,1,0
+UBCV,2017,W,COMM,395,,106,Business Communications,Arielle Uwonkunda;Douglas Mollenhauer;Elizabeth Bowker;Ioannis Sakarellos;Sassan Shokoohi,36,77.30555556,9.759448007,87.0,25.0,1,0.0,0.0,0.0,0.0,2.0,4.0,13.0,12.0,4,0
+UBCV,2017,W,COMM,395,,107,Business Communications,Cameron Morrell;Douglas Mollenhauer;Ee Anne Lee;Sassan Shokoohi,39,78.38461539,3.710691414,86.0,72.0,0,0.0,0.0,0.0,0.0,0.0,7.0,15.0,13.0,4,0
+UBCV,2017,W,COMM,395,,108,Business Communications,Elizabeth Bowker;Niki Vaahedi;Sassan Shokoohi;Syed Raza Razi;Syed Razi,38,79.0,3.904259628,86.0,71.0,0,0.0,0.0,0.0,0.0,1.0,5.0,13.0,16.0,3,0
+UBCV,2017,W,COMM,395,,109,Business Communications,Bowie Ko;Douglas Mollenhauer,39,77.33333333,3.7086906,86.0,70.0,0,0.0,0.0,0.0,0.0,4.0,7.0,18.0,8.0,2,0
+UBCV,2017,W,COMM,395,,110,Business Communications,Andrew Chen;Cameron Morrell;Leigh Macfadyen;Sassan Shokoohi;Yao Chu Chen,38,75.07894737,5.639539846,91.0,58.0,0,0.0,1.0,0.0,3.0,4.0,11.0,13.0,5.0,0,1
+UBCV,2017,W,COMM,395,,111,Business Communications,Alexandra Skarsgard;Cameron Morrell;Sassan Shokoohi,36,78.58333333,4.563050358,86.0,68.0,0,0.0,0.0,0.0,0.0,3.0,6.0,9.0,14.0,4,0
+UBCV,2017,W,COMM,395,,112,Business Communications,Cameron Morrell;Katherine Skarsgard;Sassan Shokoohi,39,78.05128205,5.134756274,87.0,65.0,0,0.0,0.0,0.0,3.0,0.0,8.0,14.0,11.0,3,0
+UBCV,2017,W,COMM,395,,202,Business Communications,Elizabeth Bowker;Hadi Hassan;Sassan Shokoohi;Susan Soliman Ibrahim,29,74.27586207,14.87542689,85.0,9.0,1,1.0,1.0,1.0,1.0,0.0,2.0,6.0,15.0,1,0
+UBCV,2017,W,COMM,395,,203,Business Communications,David Miller;Douglas Mollenhauer;Gun Uk Han;Sassan Shokoohi,40,77.975,4.190878373,87.0,71.0,0,0.0,0.0,0.0,0.0,2.0,12.0,10.0,13.0,3,0
+UBCV,2017,W,COMM,395,,204,Business Communications,David Miller;Douglas Mollenhauer;Jared Braverman;Jared Hayden Braverman;Sassan Shokoohi,40,78.25,3.027650354,84.0,72.0,0,0.0,0.0,0.0,0.0,0.0,8.0,14.0,18.0,0,0
+UBCV,2017,W,COMM,395,,205,Business Communications,Douglas Mollenhauer;Janelle Helen Marie Salm;Janelle Salm;Sassan Shokoohi,39,76.64102564,5.48916243,85.0,65.0,0,0.0,0.0,0.0,5.0,3.0,4.0,13.0,12.0,2,0
+UBCV,2017,W,COMM,395,,206,Business Communications,Douglas Mollenhauer;Hailey Cole;Hailey May Cole;Sassan Shokoohi,28,74.17857143,8.692498134,85.0,47.0,1,0.0,1.0,0.0,3.0,3.0,6.0,6.0,6.0,2,0
+UBCV,2017,W,COMM,395,,207,Business Communications,Alexandra Skarsgard;Cameron Morrell;Sassan Shokoohi,38,77.42105263,4.913476113,86.0,62.0,0,0.0,0.0,1.0,1.0,3.0,5.0,15.0,10.0,3,0
+UBCV,2017,W,COMM,395,,208,Business Communications,Cameron Morrell;Katherine Skarsgard;Sassan Shokoohi,39,78.23076923,4.189344494,85.0,69.0,0,0.0,0.0,0.0,0.0,2.0,8.0,13.0,12.0,4,0
+UBCV,2017,W,COMM,395,,209,Business Communications,Cameron Morrell;Elizabeth Bowker;Ioannis Sakarellos;Sassan Shokoohi;Syed Razi,39,78.12820513,4.543239554,87.0,70.0,0,0.0,0.0,0.0,0.0,3.0,8.0,12.0,13.0,3,0
+UBCV,2017,W,COMM,395,,210,Business Communications,Cameron Morrell;Elizabeth Bowker;Niki Vaahedi;Sassan Shokoohi;Si Yue Wang,26,82.11538462,3.922518814,90.0,74.0,0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,17.0,5,1
+UBCV,2017,W,COMM,395,,211,Business Communications,Alexa Rae Wu;Alexa Wu;Douglas Mollenhauer;Sassan Shokoohi,24,75.41666667,4.461591319,82.0,66.0,0,0.0,0.0,0.0,1.0,5.0,4.0,9.0,5.0,0,0
+UBCV,2017,W,COMM,395,,OVERALL,Business Communications,,802,77.24563591,5.988400119,91.0,9.0,3,1.0,4.0,9.0,18.0,57.0,150.0,246.0,264.0,48,2
+UBCV,2017,W,COMM,398,,101,Introduction to Business Processes and Operations,Hao Zhang;Matheus Cariola Sampaio;Matheus Sampaio,52,78.48076923,7.762378816,95.0,56.0,0,0.0,1.0,0.0,3.0,5.0,7.0,11.0,13.0,7,5
+UBCV,2017,W,COMM,398,,201,Introduction to Business Processes and Operations,David Gillen;Stav Kimhi,59,80.54237288,7.898760343,98.0,58.0,0,0.0,1.0,0.0,2.0,3.0,7.0,15.0,10.0,15,6
+UBCV,2017,W,COMM,398,,202,Introduction to Business Processes and Operations,Mahesh Nagarajan;Sanjith Gopalakrishnan;Woonghee Tim Huh,56,77.51785714,10.73819194,96.0,35.0,1,0.0,2.0,1.0,3.0,6.0,8.0,5.0,15.0,8,7
+UBCV,2017,W,COMM,398,,OVERALL,Introduction to Business Processes and Operations,,167,78.88622755,8.953978157,98.0,35.0,1,0.0,4.0,1.0,8.0,14.0,22.0,31.0,38.0,30,18
+UBCV,2017,W,COMM,405,,101,Real Estate Finance,Thomas Davidoff,35,86.22857143,6.941290414,99.0,72.0,0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,7.0,7,14
+UBCV,2017,W,COMM,405,,102,Real Estate Finance,Thomas Davidoff,37,86.0,7.702813339,98.0,65.0,0,0.0,0.0,0.0,1.0,1.0,1.0,4.0,7.0,9,14
+UBCV,2017,W,COMM,405,,OVERALL,Real Estate Finance,,72,86.11111111,7.291815894,99.0,65.0,0,0.0,0.0,0.0,1.0,1.0,3.0,9.0,14.0,16,28
+UBCV,2017,W,COMM,407,,201,Real Estate Economics,Craig Tsuriel Somerville;Justin Mark Tyndall;Justin Tyndall,24,80.04166667,6.987436967,95.0,68.0,0,0.0,0.0,0.0,0.0,3.0,3.0,4.0,10.0,1,3
+UBCV,2017,W,COMM,407,,202,Real Estate Economics,Craig Tsuriel Somerville;Justin Mark Tyndall;Justin Tyndall,23,77.91304348,9.908274978,95.0,47.0,1,0.0,0.0,0.0,1.0,3.0,3.0,5.0,5.0,3,2
+UBCV,2017,W,COMM,407,,OVERALL,Real Estate Economics,,47,79.0,8.515969653,95.0,47.0,1,0.0,0.0,0.0,1.0,6.0,6.0,9.0,15.0,4,5
+UBCV,2017,W,COMM,408,,201,Real Estate Development,Craig Tsuriel Somerville,54,79.0,3.38141424,86.0,68.0,0,0.0,0.0,0.0,0.0,1.0,7.0,18.0,27.0,1,0
+UBCV,2017,W,COMM,408,,OVERALL,Real Estate Development,,54,79.0,3.38141424,86.0,68.0,0,0.0,0.0,0.0,0.0,1.0,7.0,18.0,27.0,1,0
+UBCV,2017,W,COMM,412,,101,Negotiation,Cluny Serenella South;Cluny South;Daniel Granot;Frieda Granot,36,81.22222222,2.957905737,87.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,22.0,6,0
+UBCV,2017,W,COMM,412,,102,Negotiation,Cluny Serenella South;Cluny South;Daniel Granot;Frieda Granot,32,81.3125,2.833412396,86.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,21.0,6,0
+UBCV,2017,W,COMM,412,,OVERALL,Negotiation,,68,81.26470588,2.878731308,87.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,12.0,43.0,12,0
+UBCV,2017,W,COMM,414,,101,Data Visualization and Business Analytics,Chunhua Wu;Ningfei Shen,45,76.24444444,8.388724997,93.0,60.0,0,0.0,0.0,1.0,8.0,1.0,9.0,9.0,9.0,3,5
+UBCV,2017,W,COMM,414,,102,Data Visualization and Business Analytics,Chunhua Wu;Ningfei Shen,49,77.57142857,7.90569415,93.0,58.0,0,0.0,1.0,1.0,1.0,5.0,11.0,10.0,7.0,10,3
+UBCV,2017,W,COMM,414,,OVERALL,Data Visualization and Business Analytics,,94,76.93617021,8.123784952,93.0,58.0,0,0.0,1.0,2.0,9.0,6.0,20.0,19.0,16.0,13,8
+UBCV,2017,W,COMM,415,,101,Quantitative Policy Analysis,David Gillen;Paola Beatriz Lopez Lam;Paola Lopez Lam,41,82.07317073,5.456144444,93.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,7.0,10,5
+UBCV,2017,W,COMM,415,,201,Quantitative Policy Analysis,David Gillen;Paola Lopez Lam,30,78.1,5.384204228,91.0,65.0,0,0.0,0.0,0.0,1.0,1.0,6.0,13.0,5.0,3,1
+UBCV,2017,W,COMM,415,,OVERALL,Quantitative Policy Analysis,,71,80.3943662,5.738289624,93.0,65.0,0,0.0,0.0,0.0,1.0,1.0,6.0,32.0,12.0,13,6
+UBCV,2017,W,COMM,420,,DD1,Marketing,Mary Swaffield;Murtaza Chaudhry,27,81.2962963,5.517906618,90.0,70.0,0,0.0,0.0,0.0,0.0,3.0,2.0,4.0,10.0,7,1
+UBCV,2017,W,COMM,420,,DD2,Marketing,Mary Swaffield;Murtaza Chaudhry,27,80.66666667,5.106556871,88.0,65.0,0,0.0,0.0,0.0,1.0,0.0,3.0,3.0,13.0,7,0
+UBCV,2017,W,COMM,420,,OVERALL,Marketing,,54,80.98148148,5.275399442,90.0,65.0,0,0.0,0.0,0.0,1.0,3.0,5.0,7.0,23.0,14,1
+UBCV,2017,W,COMM,421,,DD1,Corporate Finance,R Glen Donaldson,27,83.62962963,6.878887142,94.0,68.0,0,0.0,0.0,0.0,0.0,1.0,2.0,4.0,4.0,8,8
+UBCV,2017,W,COMM,421,,DD2,Corporate Finance,R Glen Donaldson,25,82.12,12.88836685,94.0,29.0,1,0.0,0.0,0.0,0.0,1.0,1.0,3.0,3.0,7,9
+UBCV,2017,W,COMM,421,,OVERALL,Corporate Finance,,52,82.90384615,10.14262915,94.0,29.0,1,0.0,0.0,0.0,0.0,2.0,3.0,7.0,7.0,15,17
+UBCV,2017,W,COMM,431,,101,Law of Business Associations,Ellen Mcintosh,19,80.63157895,6.456783911,90.0,70.0,0,0.0,0.0,0.0,0.0,2.0,3.0,1.0,7.0,3,3
+UBCV,2017,W,COMM,431,,OVERALL,Law of Business Associations,,19,80.63157895,6.456783911,90.0,70.0,0,0.0,0.0,0.0,0.0,2.0,3.0,1.0,7.0,3,3
+UBCV,2017,W,COMM,434,,201,Land Law,Elicia Salzberg;Neil Mangan,21,78.95238095,5.903187194,90.0,69.0,0,0.0,0.0,0.0,0.0,3.0,2.0,6.0,5.0,4,1
+UBCV,2017,W,COMM,434,,OVERALL,Land Law,,21,78.95238095,5.903187194,90.0,69.0,0,0.0,0.0,0.0,0.0,3.0,2.0,6.0,5.0,4,1
+UBCV,2017,W,COMM,436,,101,Information Systems Analysis and Design,Adrianna Chen;Carson C Woo,32,76.625,7.329788977,86.0,51.0,0,1.0,0.0,0.0,2.0,2.0,6.0,8.0,9.0,4,0
+UBCV,2017,W,COMM,436,,102,Information Systems Analysis and Design,Adrianna Chen;Carson C Woo,37,79.45945946,5.204669883,90.0,69.0,0,0.0,0.0,0.0,0.0,3.0,4.0,12.0,10.0,7,1
+UBCV,2017,W,COMM,436,,201,Information Systems Analysis and Design,Adrianna Chen;Carson C Woo,36,82.97222222,4.436769166,90.0,72.0,0,0.0,0.0,0.0,0.0,0.0,2.0,5.0,12.0,16,1
+UBCV,2017,W,COMM,436,,202,Information Systems Analysis and Design,Adrianna Chen;Carson C Woo,32,79.75,11.08908211,90.0,25.0,1,0.0,0.0,0.0,0.0,1.0,2.0,7.0,13.0,7,1
+UBCV,2017,W,COMM,436,,OVERALL,Information Systems Analysis and Design,,137,79.78832117,7.588139601,90.0,25.0,1,1.0,0.0,0.0,2.0,6.0,14.0,32.0,44.0,34,3
+UBCV,2017,W,COMM,437,,101,Database Technology,Amin Khodabandeh Amiri;Pattharin Tangwaragorn,44,82.09090909,8.086216184,94.0,60.0,0,0.0,0.0,3.0,0.0,0.0,3.0,8.0,12.0,11,7
+UBCV,2017,W,COMM,437,,201,Database Technology,Pattharin Tangwaragorn;Zorana Svedic,45,78.31111111,5.538387615,90.0,66.0,0,0.0,0.0,0.0,1.0,4.0,9.0,9.0,14.0,7,1
+UBCV,2017,W,COMM,437,,OVERALL,Database Technology,,89,80.17977528,7.134362744,94.0,60.0,0,0.0,0.0,3.0,1.0,4.0,12.0,17.0,26.0,18,8
+UBCV,2017,W,COMM,438,,101,Management of Information Systems,Adam Saunders;Colleen Duong;Jiya Dassan;Monique Harjani,61,78.27868853,10.33784495,94.0,50.0,0,1.0,2.0,2.0,5.0,8.0,3.0,8.0,15.0,6,11
+UBCV,2017,W,COMM,438,,102,Management of Information Systems,Adam Saunders;Colleen Duong;Jiya Dassan;Monique Harjani,53,83.39622642,8.183801126,97.0,64.0,0,0.0,0.0,0.0,3.0,3.0,5.0,1.0,14.0,15,12
+UBCV,2017,W,COMM,438,,201,Management of Information Systems,Adam Saunders;Blake Hanna;Jessica Tse;Jiya Dassan;Monique Harjani,63,80.92063492,9.461810485,98.0,59.0,0,0.0,1.0,1.0,5.0,2.0,10.0,7.0,13.0,11,13
+UBCV,2017,W,COMM,438,,202,Management of Information Systems,Adam Saunders;Jessica Tse;Jiya Dassan;Monique Harjani,53,77.50943396,12.74094345,97.0,45.0,1,3.0,0.0,3.0,3.0,6.0,4.0,5.0,11.0,4,13
+UBCV,2017,W,COMM,438,,OVERALL,Management of Information Systems,,230,80.00434783,10.46119794,98.0,45.0,1,4.0,3.0,6.0,16.0,19.0,22.0,21.0,53.0,36,49
+UBCV,2017,W,COMM,439,,101,Business Telecommunications,Yau Man Cheung,46,84.06521739,5.926971023,94.0,72.0,0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,13.0,17,9
+UBCV,2017,W,COMM,439,,201,Business Telecommunications,Michelle Liao;Yau Man Cheung,43,81.90697674,6.248100487,96.0,72.0,0,0.0,0.0,0.0,0.0,0.0,5.0,11.0,10.0,11,6
+UBCV,2017,W,COMM,439,,OVERALL,Business Telecommunications,,89,83.02247191,6.145910555,96.0,72.0,0,0.0,0.0,0.0,0.0,0.0,10.0,13.0,23.0,28,15
+UBCV,2017,W,COMM,443,,201,Service Operations,Andy Chen;Andy Wei Rong Chen;Gregory Werker,41,83.43902439,4.56644709,90.0,72.0,0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,19.0,12,6
+UBCV,2017,W,COMM,443,,202,Service Operations,Gregory Werker;Sagar Ghulam Muhamad Memon;Sagar Memon,67,83.49253731,6.823251545,94.0,55.0,0,0.0,1.0,0.0,1.0,2.0,4.0,7.0,18.0,20,14
+UBCV,2017,W,COMM,443,,OVERALL,Service Operations,,108,83.47222222,6.042618627,94.0,55.0,0,0.0,1.0,0.0,1.0,2.0,7.0,8.0,37.0,32,20
+UBCV,2017,W,COMM,444,,201,Air Transportation,John Korenic,35,76.77142857,7.70059476,93.0,55.0,0,0.0,1.0,0.0,3.0,5.0,6.0,6.0,9.0,4,1
+UBCV,2017,W,COMM,444,,OVERALL,Air Transportation,,35,76.77142857,7.70059476,93.0,55.0,0,0.0,1.0,0.0,3.0,5.0,6.0,6.0,9.0,4,1
+UBCV,2017,W,COMM,445,,101,Maritime and International Transportation,Bernard Maroney;Katherine White;Kimberly Wong,37,78.24324324,7.166300012,91.0,64.0,0,0.0,0.0,0.0,2.0,4.0,6.0,8.0,8.0,5,4
+UBCV,2017,W,COMM,445,,201,Maritime and International Transportation,Anming Zhang;Kun Wang,30,77.4,6.409045332,88.0,65.0,0,0.0,0.0,0.0,2.0,4.0,7.0,6.0,5.0,6,0
+UBCV,2017,W,COMM,445,,OVERALL,Maritime and International Transportation,,67,77.86567164,6.79994546,91.0,64.0,0,0.0,0.0,0.0,4.0,8.0,13.0,14.0,13.0,11,4
+UBCV,2017,W,COMM,447,,201,Applied Project Management,Robert Goatham,28,79.35714286,4.762618994,88.0,72.0,0,0.0,0.0,0.0,0.0,0.0,9.0,4.0,13.0,2,0
+UBCV,2017,W,COMM,447,,OVERALL,Applied Project Management,,28,79.35714286,4.762618994,88.0,72.0,0,0.0,0.0,0.0,0.0,0.0,9.0,4.0,13.0,2,0
+UBCV,2017,W,COMM,449,,201,Supply-Chain Management,Albina Gibadullina;Gregory Werker;S Thomas Mccormick;Sagar Ghulam Muhamad Memon;Sagar Memon;Thomas Culham,67,82.68656716,4.489749116,90.0,66.0,0,0.0,0.0,0.0,1.0,1.0,1.0,8.0,35.0,19,2
+UBCV,2017,W,COMM,449,,202,Supply-Chain Management,Albina Gibadullina;Gregory Werker;Sagar Ghulam Muhamad Memon;Sagar Memon;Thomas Culham,40,79.475,5.519139193,88.0,66.0,0,0.0,0.0,0.0,1.0,2.0,6.0,12.0,12.0,7,0
+UBCV,2017,W,COMM,449,,OVERALL,Supply-Chain Management,,107,81.48598131,5.118159468,90.0,66.0,0,0.0,0.0,0.0,2.0,3.0,7.0,20.0,47.0,26,2
+UBCV,2017,W,COMM,450,,101,Financial Accounting - Intermediate II,Ira Yeung;Nicholas Chua;Nicholas Teik Li Chua,28,73.85714286,14.26654799,94.0,32.0,1,0.0,3.0,3.0,1.0,1.0,5.0,4.0,4.0,2,4
+UBCV,2017,W,COMM,450,,102,Financial Accounting - Intermediate II,Ira Yeung;Nicholas Chua;Nicholas Teik Li Chua,44,73.47727273,13.368635,91.0,14.0,1,1.0,1.0,4.0,3.0,6.0,8.0,6.0,5.0,4,5
+UBCV,2017,W,COMM,450,,103,Financial Accounting - Intermediate II,Ira Yeung;Nicholas Chua;Nicholas Teik Li Chua,44,78.72727273,9.65778066,97.0,58.0,0,0.0,1.0,2.0,2.0,7.0,4.0,5.0,8.0,10,5
+UBCV,2017,W,COMM,450,,104,Financial Accounting - Intermediate II,Alexander John Wou;Alexander Wou;Naveen Dhaliwal;Robert Jackes,41,80.82926829,8.425860309,93.0,51.0,0,1.0,0.0,0.0,0.0,5.0,6.0,2.0,11.0,8,8
+UBCV,2017,W,COMM,450,,105,Financial Accounting - Intermediate II,Alexander John Wou;Alexander Wou;Naveen Dhaliwal;Robert Jackes,41,72.85365854,11.27067206,90.0,36.0,1,1.0,3.0,2.0,3.0,6.0,6.0,5.0,9.0,4,1
+UBCV,2017,W,COMM,450,,201,Financial Accounting - Intermediate II,Daniel Duncombe;Daniel John Duncombe;Kin Lo;Robert Jackes,49,76.71428571,11.17661249,96.0,51.0,0,2.0,3.0,1.0,5.0,3.0,7.0,6.0,10.0,7,5
+UBCV,2017,W,COMM,450,,OVERALL,Financial Accounting - Intermediate II,,247,76.2145749,11.62063408,97.0,14.0,3,5.0,11.0,12.0,14.0,28.0,36.0,28.0,47.0,35,28
+UBCV,2017,W,COMM,452,,201,Taxes and Decision Making,Tran Khue Chung;Wantong Zou,46,73.02173913,11.90049323,94.0,50.0,0,4.0,2.0,5.0,5.0,4.0,4.0,5.0,8.0,4,5
+UBCV,2017,W,COMM,452,,202,Taxes and Decision Making,Tran Khue Chung;Wantong Zou,44,76.31818182,15.67515102,92.0,11.0,2,2.0,1.0,2.0,1.0,5.0,4.0,0.0,10.0,8,9
+UBCV,2017,W,COMM,452,,OVERALL,Taxes and Decision Making,,90,74.63333333,13.89482969,94.0,11.0,2,6.0,3.0,7.0,6.0,9.0,8.0,5.0,18.0,12,14
+UBCV,2017,W,COMM,453,,101,Financial Accounting-Advanced,Chuck Campbell;Fangxian Guan,35,76.45714286,17.06448472,99.0,36.0,2,3.0,1.0,3.0,2.0,0.0,1.0,0.0,8.0,6,9
+UBCV,2017,W,COMM,453,,201,Financial Accounting-Advanced,Chuck Campbell,28,70.60714286,17.9244077,97.0,24.0,2,3.0,1.0,3.0,2.0,2.0,2.0,1.0,5.0,3,4
+UBCV,2017,W,COMM,453,,202,Financial Accounting-Advanced,Chuck Campbell,39,82.58974359,17.50446251,98.0,2.0,2,0.0,0.0,0.0,1.0,3.0,1.0,3.0,4.0,8,17
+UBCV,2017,W,COMM,453,,203,Financial Accounting-Advanced,Chuck Campbell;Marija Tomic,38,80.28947368,14.44450311,99.0,28.0,1,1.0,1.0,0.0,2.0,3.0,1.0,5.0,7.0,5,12
+UBCV,2017,W,COMM,453,,204,Financial Accounting-Advanced,Chuck Campbell,19,72.21052632,20.4547711,98.0,19.0,3,0.0,2.0,0.0,1.0,0.0,1.0,1.0,6.0,2,3
+UBCV,2017,W,COMM,453,,OVERALL,Financial Accounting-Advanced,,159,77.33962264,17.55131002,99.0,2.0,10,7.0,5.0,6.0,8.0,8.0,6.0,10.0,30.0,24,45
+UBCV,2017,W,COMM,454,,101,Accounting for Management Control and Incentives,Colleen Duong;Keling Zheng;Sandra Chamberlain,42,75.45238095,7.945553691,90.0,59.0,0,0.0,1.0,2.0,3.0,7.0,7.0,5.0,10.0,6,1
+UBCV,2017,W,COMM,454,,102,Accounting for Management Control and Incentives,Colleen Duong;Keling Zheng;Sandra Chamberlain,41,79.02439024,7.305777867,90.0,60.0,0,0.0,0.0,1.0,3.0,2.0,4.0,7.0,12.0,11,1
+UBCV,2017,W,COMM,454,,201,Accounting for Management Control and Incentives,Isabel Vidri;Jeff Kroeker,43,75.88372093,10.90916893,97.0,50.0,0,2.0,0.0,1.0,8.0,4.0,5.0,8.0,6.0,2,7
+UBCV,2017,W,COMM,454,,OVERALL,Accounting for Management Control and Incentives,,126,76.76190476,8.960739765,97.0,50.0,0,2.0,1.0,4.0,14.0,13.0,16.0,20.0,28.0,19,9
+UBCV,2017,W,COMM,455,,101,Principles of Auditing,Liselle Law;Mary Chong,38,76.42105263,11.6448146,93.0,52.0,0,2.0,2.0,2.0,3.0,1.0,6.0,5.0,4.0,6,7
+UBCV,2017,W,COMM,455,,201,Principles of Auditing,Alexander Wou;Mary Chong,33,74.06060606,9.993558531,93.0,55.0,0,0.0,1.0,3.0,3.0,10.0,0.0,3.0,7.0,3,3
+UBCV,2017,W,COMM,455,,202,Principles of Auditing,Calvin Cheung;Mary Chong,40,73.425,11.05206211,90.0,50.0,0,2.0,3.0,3.0,3.0,4.0,5.0,5.0,8.0,3,4
+UBCV,2017,W,COMM,455,,203,Principles of Auditing,Harnoor Gill;Mary Chong,41,80.41463415,8.488155305,93.0,60.0,0,0.0,0.0,1.0,2.0,4.0,4.0,2.0,11.0,12,5
+UBCV,2017,W,COMM,455,,204,Principles of Auditing,Harnoor Gill;Mary Chong,40,79.425,6.523674834,90.0,65.0,0,0.0,0.0,0.0,1.0,3.0,8.0,4.0,12.0,10,2
+UBCV,2017,W,COMM,455,,205,Principles of Auditing,Calvin Cheung;Mary Chong,22,67.04545455,16.58592999,88.0,21.0,2,0.0,2.0,2.0,1.0,3.0,6.0,2.0,2.0,2,0
+UBCV,2017,W,COMM,455,,OVERALL,Principles of Auditing,,214,75.85981308,11.20022518,93.0,21.0,2,4.0,8.0,11.0,13.0,25.0,29.0,21.0,44.0,36,21
+UBCV,2017,W,COMM,457,,101,Fundamentals of Financial Accounting,Danielle Lim;Hsiang-Chieh Yang;Jessica Treagus;Nicholas Chua;Scott Sinclair;Yang Yue,118,70.33898305,14.73597861,99.0,32.0,11,7.0,9.0,13.0,10.0,10.0,7.0,12.0,15.0,15,9
+UBCV,2017,W,COMM,457,,102,Fundamentals of Financial Accounting,Danielle Lim;Hsiang-Chieh Yang;Jessica Treagus;Nicholas Chua;Scott Sinclair;Yang Yue,230,70.62173913,14.927202,100.0,14.0,19,14.0,17.0,13.0,24.0,23.0,23.0,28.0,28.0,19,22
+UBCV,2017,W,COMM,457,,103,Fundamentals of Financial Accounting,Daniel Kong;Scott Sinclair,42,70.30952381,12.56881176,93.0,33.0,2,1.0,6.0,3.0,3.0,6.0,4.0,7.0,5.0,3,2
+UBCV,2017,W,COMM,457,,201,Fundamentals of Financial Accounting,Chelsea Choi;Chelsea Man-Wai Choi;Scott Sinclair,51,70.62745098,12.5043365,92.0,43.0,3,2.0,4.0,5.0,6.0,4.0,8.0,7.0,5.0,2,5
+UBCV,2017,W,COMM,457,,OVERALL,Fundamentals of Financial Accounting,,441,70.5170068,14.3603085,100.0,14.0,35,24.0,36.0,34.0,43.0,43.0,42.0,54.0,53.0,39,38
+UBCV,2017,W,COMM,458,,201,Fundamentals of Managerial Accounting,Chelsea Choi;Chelsea Man-Wai Choi;Hsiang-Chieh Yang;Scott Sinclair;Yang Yue,107,69.97196262,17.7059088,100.0,5.0,8,12.0,8.0,9.0,8.0,10.0,7.0,10.0,12.0,12,11
+UBCV,2017,W,COMM,458,,OVERALL,Fundamentals of Managerial Accounting,,107,69.97196262,17.7059088,100.0,5.0,8,12.0,8.0,9.0,8.0,10.0,7.0,10.0,12.0,12,11
+UBCV,2017,W,COMM,459,,101,Financial Statement Analysis,Joy Begley;Yang Yue,30,81.66666667,6.132633643,92.0,58.0,0,0.0,1.0,0.0,0.0,0.0,0.0,7.0,14.0,7,1
+UBCV,2017,W,COMM,459,,102,Financial Statement Analysis,Joy Begley;Yang Yue,39,82.1025641,5.250538177,89.0,69.0,0,0.0,0.0,0.0,0.0,1.0,3.0,8.0,11.0,16,0
+UBCV,2017,W,COMM,459,,OVERALL,Financial Statement Analysis,,69,81.91304348,5.611802506,92.0,58.0,0,0.0,1.0,0.0,0.0,1.0,3.0,15.0,25.0,23,1
+UBCV,2017,W,COMM,460,,101,Social and Nonprofit Marketing,Joanne Lynn Turner;Joanne Turner,23,78.26086957,5.011054972,90.0,68.0,0,0.0,0.0,0.0,0.0,1.0,3.0,12.0,3.0,3,1
+UBCV,2017,W,COMM,460,,OVERALL,Social and Nonprofit Marketing,,23,78.26086957,5.011054972,90.0,68.0,0,0.0,0.0,0.0,0.0,1.0,3.0,12.0,3.0,3,1
+UBCV,2017,W,COMM,461,,201,Business Development,Elaine Williamson,30,79.1,6.753543131,93.0,66.0,0,0.0,0.0,0.0,1.0,3.0,4.0,8.0,7.0,5,2
+UBCV,2017,W,COMM,461,,OVERALL,Business Development,,30,79.1,6.753543131,93.0,66.0,0,0.0,0.0,0.0,1.0,3.0,4.0,8.0,7.0,5,2
+UBCV,2017,W,COMM,462,,101,Integrated Marketing Communication,Ann Stone;Michael Pratt,33,77.78787879,6.096913029,86.0,61.0,0,0.0,0.0,2.0,0.0,1.0,8.0,6.0,13.0,3,0
+UBCV,2017,W,COMM,462,,201,Integrated Marketing Communication,Ann Stone,35,78.37142857,4.52500058,87.0,67.0,0,0.0,0.0,0.0,1.0,2.0,4.0,12.0,14.0,2,0
+UBCV,2017,W,COMM,462,,OVERALL,Integrated Marketing Communication,,68,78.08823529,5.313276231,87.0,61.0,0,0.0,0.0,2.0,1.0,3.0,12.0,18.0,27.0,5,0
+UBCV,2017,W,COMM,464,,101,Digital Marketing,Meena Sandhu;Victor Tang,34,88.73529412,3.964301486,94.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,7,19
+UBCV,2017,W,COMM,464,,201,Digital Marketing,Victor Tang,41,89.0,3.937003937,98.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,18,20
+UBCV,2017,W,COMM,464,,OVERALL,Digital Marketing,,75,88.88,3.924834305,98.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,10.0,25,39
+UBCV,2017,W,COMM,465,,101,Marketing Management,James Gilbert;James John Gilbert;Jarrett Vaughan,95,74.98947368,7.809561429,88.0,47.0,1,0.0,3.0,3.0,5.0,16.0,17.0,18.0,24.0,8,0
+UBCV,2017,W,COMM,465,,102,Marketing Management,Candy Liu;Fernando Leon Lozano;Rui Jorge Basto Da Silva;Yi-Chieh Tsai,57,79.19298246,8.779925554,93.0,61.0,0,0.0,0.0,3.0,3.0,5.0,7.0,12.0,9.0,9,9
+UBCV,2017,W,COMM,465,,201,Marketing Management,Candy Liu;Rui Jorge Basto Da Silva;Yi-Chieh Tsai,58,81.05172414,7.751451282,94.0,64.0,0,0.0,0.0,0.0,4.0,1.0,6.0,15.0,9.0,13,10
+UBCV,2017,W,COMM,465,,202,Marketing Management,Candy Liu;Rui Jorge Basto Da Silva;Yi-Chieh Tsai,122,77.78688525,9.43812342,98.0,46.0,2,0.0,4.0,2.0,4.0,17.0,20.0,15.0,26.0,21,11
+UBCV,2017,W,COMM,465,,203,Marketing Management,Phaedra Burke,40,78.225,6.955858995,91.0,60.0,0,0.0,0.0,1.0,1.0,5.0,5.0,10.0,11.0,4,3
+UBCV,2017,W,COMM,465,,OVERALL,Marketing Management,,372,77.84408602,8.628442434,98.0,46.0,3,0.0,7.0,9.0,17.0,44.0,55.0,70.0,79.0,55,33
+UBCV,2017,W,COMM,466,,001,New Venture Design,Antony Hodgson;Fraser Pogue;James Blair Simonite;James Simonite;Tamara Etmannski,12,84.58333333,2.466441431,90.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,5,1
+UBCV,2017,W,COMM,466,,002,New Venture Design,Antony Hodgson;David Miller;Julian Rhind,15,83.66666667,2.794552524,87.0,79.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,9,0
+UBCV,2017,W,COMM,466,,OVERALL,New Venture Design,,27,84.07407407,2.64467427,90.0,79.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,10.0,14,1
+UBCV,2017,W,COMM,467,,101,Brand Management,Hee Eun You;Timothy Silk,45,79.6,4.33484822,90.0,69.0,0,0.0,0.0,0.0,0.0,1.0,10.0,6.0,21.0,6,1
+UBCV,2017,W,COMM,467,,201,Brand Management,Hee Eun You;Timothy Silk,45,81.15555556,3.274943133,90.0,73.0,0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,27.0,7,1
+UBCV,2017,W,COMM,467,,OVERALL,Brand Management,,90,80.37777778,3.899230053,90.0,69.0,0,0.0,0.0,0.0,0.0,1.0,12.0,14.0,48.0,13,2
+UBCV,2017,W,COMM,468,,101,Marketing Applications,Jenny Dickson;Rachel Pang,28,75.60714286,7.324941085,88.0,60.0,0,0.0,0.0,2.0,1.0,5.0,3.0,7.0,6.0,4,0
+UBCV,2017,W,COMM,468,,102,Marketing Applications,Jenny Dickson;Rachel Pang,38,79.21052632,4.218094195,86.0,73.0,0,0.0,0.0,0.0,0.0,0.0,6.0,15.0,7.0,10,0
+UBCV,2017,W,COMM,468,,201,Marketing Applications,Kristin Noel Rotte;Kristin Rotte;Sharka Stuyt,41,79.48780488,4.566847661,87.0,64.0,0,0.0,0.0,0.0,1.0,0.0,8.0,11.0,15.0,6,0
+UBCV,2017,W,COMM,468,,202,Marketing Applications,Jenny Dickson;Rachel Pang,36,80.19444444,5.589885991,90.0,69.0,0,0.0,0.0,0.0,0.0,1.0,4.0,13.0,8.0,5,5
+UBCV,2017,W,COMM,468,,203,Marketing Applications,Jenny Dickson;Rachel Pang,40,77.5,6.861262499,90.0,58.0,0,0.0,1.0,1.0,1.0,1.0,7.0,11.0,13.0,4,1
+UBCV,2017,W,COMM,468,,OVERALL,Marketing Applications,,183,78.54098361,5.88695831,90.0,58.0,0,0.0,1.0,3.0,3.0,7.0,28.0,57.0,49.0,29,6
+UBCV,2017,W,COMM,469,,101,International Marketing,Fernando Leon Lozano;Parmjit Tatla;Rui Jorge Basto Da Silva;Yi-Chieh Tsai,32,75.625,5.971707488,86.0,66.0,0,0.0,0.0,0.0,4.0,5.0,5.0,5.0,11.0,2,0
+UBCV,2017,W,COMM,469,,OVERALL,International Marketing,,32,75.625,5.971707488,86.0,66.0,0,0.0,0.0,0.0,4.0,5.0,5.0,5.0,11.0,2,0
+UBCV,2017,W,COMM,471,,101,Mergers and Acquisitions,Jin Wang;Kai Li,44,81.5,6.645509062,94.0,62.0,0,0.0,0.0,1.0,0.0,0.0,8.0,6.0,13.0,9,7
+UBCV,2017,W,COMM,471,,102,Mergers and Acquisitions,Jin Wang;Kai Li,45,80.71111111,6.61136151,94.0,64.0,0,0.0,0.0,0.0,2.0,3.0,4.0,8.0,11.0,14,3
+UBCV,2017,W,COMM,471,,OVERALL,Mergers and Acquisitions,,89,81.1011236,6.602418537,94.0,62.0,0,0.0,0.0,1.0,2.0,3.0,12.0,14.0,24.0,23,10
+UBCV,2017,W,COMM,473,,101,Business Finance,Matthew Giammarino;Sepand Boroumand-Jazzi,105,75.2,11.42147101,95.0,46.0,4,2.0,5.0,6.0,9.0,9.0,12.0,14.0,23.0,14,7
+UBCV,2017,W,COMM,473,,102,Business Finance,Caren Lombard,38,78.2631579,17.29971756,98.0,32.0,5,0.0,1.0,1.0,2.0,0.0,2.0,2.0,8.0,6,11
+UBCV,2017,W,COMM,473,,201,Business Finance,Matthew Giammarino,110,80.98181818,13.89474313,99.0,0.0,2,2.0,1.0,5.0,5.0,9.0,3.0,9.0,20.0,20,34
+UBCV,2017,W,COMM,473,,202,Business Finance,Garry Allen Yuill;Garry Yuill,46,76.86956522,9.534985161,96.0,55.0,0,0.0,1.0,3.0,3.0,5.0,7.0,5.0,10.0,6,6
+UBCV,2017,W,COMM,473,,OVERALL,Business Finance,,299,77.97324415,13.16363023,99.0,0.0,11,4.0,8.0,15.0,19.0,23.0,24.0,30.0,61.0,46,58
+UBCV,2017,W,COMM,474,,201,Fixed Income Markets and Management,Robert Lee Heinkel,40,82.425,6.348379563,92.0,62.0,0,0.0,0.0,1.0,0.0,1.0,3.0,5.0,12.0,14,4
+UBCV,2017,W,COMM,474,,202,Fixed Income Markets and Management,Robert Lee Heinkel,34,79.94117647,7.168707996,89.0,58.0,0,0.0,1.0,0.0,0.0,4.0,4.0,5.0,8.0,12,0
+UBCV,2017,W,COMM,474,,OVERALL,Fixed Income Markets and Management,,74,81.28378378,6.805558305,92.0,58.0,0,0.0,1.0,1.0,0.0,5.0,7.0,10.0,20.0,26,4
+UBCV,2017,W,COMM,475,,101,Investment Policy,Robert Lee Heinkel,37,83.02702703,4.387396637,89.0,73.0,0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,17.0,14,0
+UBCV,2017,W,COMM,475,,201,Investment Policy,Ruth Freedman,18,75.5,9.531680921,91.0,60.0,0,0.0,0.0,2.0,2.0,3.0,2.0,1.0,4.0,3,1
+UBCV,2017,W,COMM,475,,202,Investment Policy,Ruth Freedman,33,79.90909091,9.365373846,93.0,64.0,0,0.0,0.0,0.0,4.0,4.0,3.0,5.0,4.0,6,7
+UBCV,2017,W,COMM,475,,OVERALL,Investment Policy,,88,80.31818182,8.121980188,93.0,60.0,0,0.0,0.0,2.0,6.0,7.0,7.0,10.0,25.0,23,8
+UBCV,2017,W,COMM,477,,101,Risk Management and Financial Engineering,Lorenzo Garlappi,39,80.05128205,8.388427862,93.0,53.0,0,1.0,1.0,0.0,0.0,2.0,4.0,7.0,9.0,11,4
+UBCV,2017,W,COMM,477,,102,Risk Management and Financial Engineering,Lorenzo Garlappi,38,78.5,7.907403305,96.0,60.0,0,0.0,0.0,1.0,2.0,3.0,7.0,6.0,7.0,9,3
+UBCV,2017,W,COMM,477,,OVERALL,Risk Management and Financial Engineering,,77,79.28571429,8.138371011,96.0,53.0,0,1.0,1.0,1.0,2.0,5.0,11.0,13.0,16.0,20,7
+UBCV,2017,W,COMM,482,,101,New Product Development,Timothy Silk,39,81.64102564,2.969025886,88.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,22.0,10,0
+UBCV,2017,W,COMM,482,,201,New Product Development,Ramzy Karim Ramzy Karim M A S Alhunei;Timothy Silk,44,79.97727273,3.406482441,87.0,70.0,0,0.0,0.0,0.0,0.0,1.0,4.0,9.0,26.0,4,0
+UBCV,2017,W,COMM,482,,OVERALL,New Product Development,,83,80.75903615,3.296673717,88.0,70.0,0,0.0,0.0,0.0,0.0,1.0,4.0,16.0,48.0,14,0
+UBCV,2017,W,COMM,483,,201,Leadership and General Management,Robert Elton;Suet Ting Choi;Suet Ting Lydia Choi;Zunru Fan,40,82.05,4.760682993,95.0,73.0,0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,19.0,6,5
+UBCV,2017,W,COMM,483,,OVERALL,Leadership and General Management,,40,82.05,4.760682993,95.0,73.0,0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,19.0,6,5
+UBCV,2017,W,COMM,484,,101,Sustainability Marketing,Dharini Thiruchittampalam;Tess Davies,38,80.23684211,6.201282389,89.0,53.0,0,1.0,0.0,0.0,0.0,0.0,6.0,5.0,18.0,8,0
+UBCV,2017,W,COMM,484,,OVERALL,Sustainability Marketing,,38,80.23684211,6.201282389,89.0,53.0,0,1.0,0.0,0.0,0.0,0.0,6.0,5.0,18.0,8,0
+UBCV,2017,W,COMM,485,,101,Social Entrepreneurship,Garth Yule,42,79.95238095,5.9426215,92.0,66.0,0,0.0,0.0,0.0,1.0,3.0,5.0,8.0,15.0,8,2
+UBCV,2017,W,COMM,485,,OVERALL,Social Entrepreneurship,,42,79.95238095,5.9426215,92.0,66.0,0,0.0,0.0,0.0,1.0,3.0,5.0,8.0,15.0,8,2
+UBCV,2017,W,COMM,486,H,101,Special Topics in Business,Adlai Fisher,31,82.87096774,2.390842745,87.0,79.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,19.0,9,0
+UBCV,2017,W,COMM,486,H,OVERALL,Special Topics in Business,,31,82.87096774,2.390842745,87.0,79.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,19.0,9,0
+UBCV,2017,W,COMM,486,M,201,Special Topics in Business,Conor Topley;Jose Guevara;Jose Teodoro Guevara,40,79.35,6.124980377,92.0,60.0,0,0.0,0.0,1.0,1.0,1.0,3.0,12.0,17.0,2,3
+UBCV,2017,W,COMM,486,M,202,Special Topics in Business,Conor Topley;Jose Guevara;Jose Teodoro Guevara,31,77.29032258,6.909865162,90.0,54.0,0,1.0,0.0,0.0,2.0,0.0,6.0,9.0,9.0,3,1
+UBCV,2017,W,COMM,486,M,203,Special Topics in Business,Angele Beausoleil;Mary Connolly;Shannon Mary Patricia Payne;Shannon Payne,35,78.65714286,5.340978414,85.0,56.0,0,0.0,1.0,0.0,0.0,1.0,3.0,13.0,12.0,5,0
+UBCV,2017,W,COMM,486,M,204,Special Topics in Business,Angele Beausoleil;Mary Connolly;Shannon Mary Patricia Payne;Shannon Payne,41,78.26829268,3.918063235,86.0,68.0,0,0.0,0.0,0.0,0.0,2.0,6.0,13.0,19.0,1,0
+UBCV,2017,W,COMM,486,M,205,Special Topics in Business,Darrell Kopke;Rebecca Ketler;Rebecca Sophia Ketler,44,79.75,4.988941259,91.0,71.0,0,0.0,0.0,0.0,0.0,1.0,9.0,11.0,17.0,3,3
+UBCV,2017,W,COMM,486,M,206,Special Topics in Business,Darrell Kopke;Rebecca Ketler;Rebecca Sophia Ketler,37,76.16216216,5.969894441,86.0,65.0,0,0.0,0.0,0.0,4.0,4.0,8.0,8.0,11.0,2,0
+UBCV,2017,W,COMM,486,M,OVERALL,Special Topics in Business,,228,78.32894737,5.62183007,92.0,54.0,0,1.0,1.0,1.0,7.0,9.0,35.0,66.0,85.0,16,7
+UBCV,2017,W,COMM,486,N,201,Special Topics in Business,Carson C Woo,28,84.96428571,3.522227229,91.0,77.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,5,6
+UBCV,2017,W,COMM,486,N,OVERALL,Special Topics in Business,,28,84.96428571,3.522227229,91.0,77.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,16.0,5,6
+UBCV,2017,W,COMM,486,Q,201,Special Topics in Business,Ronald Giammarino,40,79.6,7.358232787,94.0,64.0,0,0.0,0.0,0.0,3.0,5.0,2.0,5.0,16.0,6,3
+UBCV,2017,W,COMM,486,Q,OVERALL,Special Topics in Business,,40,79.6,7.358232787,94.0,64.0,0,0.0,0.0,0.0,3.0,5.0,2.0,5.0,16.0,6,3
+UBCV,2017,W,COMM,486,W,001,Special Topics in Business,Darrell Kopke,22,82.45454546,4.171642051,88.0,73.0,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,10.0,8,0
+UBCV,2017,W,COMM,486,W,OVERALL,Special Topics in Business,,22,82.45454546,4.171642051,88.0,73.0,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,10.0,8,0
+UBCV,2017,W,COMM,487,,101,Environmental Management,Werner Antweiler,30,80.93333333,4.834740184,91.0,72.0,0,0.0,0.0,0.0,0.0,0.0,4.0,6.0,11.0,8,1
+UBCV,2017,W,COMM,487,,OVERALL,Environmental Management,,30,80.93333333,4.834740184,91.0,72.0,0,0.0,0.0,0.0,0.0,0.0,4.0,6.0,11.0,8,1
+UBCV,2017,W,COMM,490,A,102,Directed Studies in Commerce,,9,88.44444444,4.186618896,95.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4,3
+UBCV,2017,W,COMM,490,A,OVERALL,Directed Studies in Commerce,,12,88.5,3.705033431,95.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,5,5
+UBCV,2017,W,COMM,491,,101,Strategic Management,Adam Pankratz;Sarah O'Brien;Xuemeng Ruan,40,77.8,3.509693536,86.0,70.0,0,0.0,0.0,0.0,0.0,1.0,9.0,19.0,7.0,4,0
+UBCV,2017,W,COMM,491,,102,Strategic Management,Adam Pankratz;Sarah O'Brien;Xuemeng Ruan,42,76.78571429,3.599022322,83.0,65.0,0,0.0,0.0,0.0,1.0,4.0,4.0,24.0,9.0,0,0
+UBCV,2017,W,COMM,491,,103,Strategic Management,Larry Wosk,43,74.3255814,6.978609939,86.0,45.0,1,0.0,0.0,0.0,3.0,7.0,11.0,9.0,10.0,2,0
+UBCV,2017,W,COMM,491,,104,Strategic Management,Larry Wosk,44,74.36363636,7.087791368,88.0,58.0,0,0.0,1.0,2.0,1.0,11.0,8.0,9.0,7.0,5,0
+UBCV,2017,W,COMM,491,,201,Strategic Management,Adam Pankratz,39,77.76923077,2.620381034,83.0,73.0,0,0.0,0.0,0.0,0.0,0.0,9.0,17.0,13.0,0,0
+UBCV,2017,W,COMM,491,,202,Strategic Management,Adam Pankratz,43,78.23255814,3.322629547,87.0,73.0,0,0.0,0.0,0.0,0.0,0.0,9.0,20.0,11.0,3,0
+UBCV,2017,W,COMM,491,,OVERALL,Strategic Management,,251,76.50199203,5.141497449,88.0,45.0,1,0.0,1.0,2.0,5.0,23.0,50.0,98.0,57.0,14,0
+UBCV,2017,W,COMM,493,,101,Strategic Management in Business,Alvaro Parra Perez;Sarah O'Brien;Xuemeng Ruan,46,79.93478261,6.01258744,96.0,65.0,0,0.0,0.0,0.0,2.0,0.0,5.0,13.0,18.0,3,5
+UBCV,2017,W,COMM,493,,102,Strategic Management in Business,Adam Pankratz,47,75.0212766,6.428500947,83.0,36.0,1,0.0,0.0,0.0,0.0,1.0,22.0,15.0,8.0,0,0
+UBCV,2017,W,COMM,493,,201,Strategic Management in Business,Adam Pankratz,37,76.64864865,4.14471696,85.0,67.0,0,0.0,0.0,0.0,1.0,4.0,6.0,16.0,7.0,3,0
+UBCV,2017,W,COMM,493,,202,Strategic Management in Business,Adam Pankratz,40,75.925,4.968554967,88.0,59.0,0,0.0,1.0,0.0,0.0,4.0,12.0,13.0,8.0,2,0
+UBCV,2017,W,COMM,493,,203,Strategic Management in Business,David Weiss,39,77.7948718,8.12785816,89.0,58.0,0,0.0,1.0,2.0,0.0,6.0,8.0,3.0,7.0,12,0
+UBCV,2017,W,COMM,493,,OVERALL,Strategic Management in Business,,209,77.08133971,6.306901449,96.0,36.0,1,0.0,2.0,2.0,3.0,15.0,53.0,60.0,48.0,20,5
+UBCV,2017,W,COMM,497,,101,New Enterprise Development,Tamara Etmannski,36,82.19444444,6.488757065,91.0,65.0,0,0.0,0.0,0.0,1.0,2.0,2.0,5.0,9.0,11,6
+UBCV,2017,W,COMM,497,,201,New Enterprise Development,Matthew Evan Gwin;Matthew Gwin;Momcilo Deretic,33,78.81818182,3.015113446,85.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,12.0,4,0
+UBCV,2017,W,COMM,497,,OVERALL,New Enterprise Development,,69,80.57971015,5.36986635,91.0,65.0,0,0.0,0.0,0.0,1.0,2.0,2.0,22.0,21.0,15,6
+UBCV,2017,W,COMM,498,,101,International Business Management,Momcilo Deretic;Yvonne Dixon,36,78.44444444,4.351974556,86.0,70.0,0,0.0,0.0,0.0,0.0,1.0,6.0,13.0,10.0,6,0
+UBCV,2017,W,COMM,498,,102,International Business Management,Ali Lazrak;Momcilo Deretic;Yvonne Dixon,40,78.925,5.11101124,90.0,68.0,0,0.0,0.0,0.0,0.0,1.0,9.0,11.0,10.0,7,2
+UBCV,2017,W,COMM,498,,103,International Business Management,Momcilo Deretic;Yvonne Dixon,40,76.9,5.236949592,86.0,66.0,0,0.0,0.0,0.0,2.0,1.0,10.0,14.0,7.0,6,0
+UBCV,2017,W,COMM,498,,201,International Business Management,Larry Wosk;Matthew Evan Gwin;Matthew Gwin;Momcilo Deretic,43,78.34883721,5.92365605,87.0,55.0,0,0.0,1.0,0.0,1.0,2.0,5.0,9.0,17.0,8,0
+UBCV,2017,W,COMM,498,,202,International Business Management,S Thomas Mccormick;Steven Minns;Xiaowei Zhang,42,81.23809524,5.525151025,92.0,68.0,0,0.0,0.0,0.0,0.0,3.0,3.0,8.0,13.0,13,2
+UBCV,2017,W,COMM,498,,203,International Business Management,Ean Jackson;Steven Minns;Xiaowei Zhang,42,77.57142857,6.541212154,88.0,53.0,0,1.0,0.0,0.0,0.0,5.0,5.0,12.0,13.0,6,0
+UBCV,2017,W,COMM,498,,OVERALL,International Business Management,,243,78.58436214,5.637470777,92.0,53.0,0,1.0,1.0,0.0,3.0,13.0,38.0,67.0,70.0,46,4
+UBCV,2017,W,COMM,499,B,201,Internship,Robert Lee Heinkel,6,83.0,0.0,83.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0,0
+UBCV,2017,W,COMM,499,B,OVERALL,Internship,,6,83.0,0.0,83.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0,0
+UBCV,2017,W,COMM,657,,001,Empirical Methods in Accounting Research,Sandra Chamberlain,6,83.16666667,2.926886856,87.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3,0
+UBCV,2017,W,COMM,657,,OVERALL,Empirical Methods in Accounting Research,,6,83.16666667,2.926886856,87.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3,0
+UBCV,2017,W,COMM,663,,001,Consumer Judgment and Decision Making,Dale Griffin;David Hardisty,8,86.0,2.828427125,92.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6,1
+UBCV,2017,W,COMM,663,,OVERALL,Consumer Judgment and Decision Making,,8,86.0,2.828427125,92.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6,1
+UBCV,2017,W,COMM,671,,001,Theory of Finance,Ali Lazrak,8,84.875,6.599512969,92.0,72.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2,3
+UBCV,2017,W,COMM,671,,OVERALL,Theory of Finance,,8,84.875,6.599512969,92.0,72.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2,3
+UBCV,2017,W,COMM,672,,001,Advanced Topics in Theoretical Corporate Finance,Will Gornall,15,84.13333333,7.347173088,95.0,72.0,0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,4.0,4,4
+UBCV,2017,W,COMM,672,,OVERALL,Advanced Topics in Theoretical Corporate Finance,,15,84.13333333,7.347173088,95.0,72.0,0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,4.0,4,4
+UBCV,2017,W,COMM,693,,001,Seminar in Research Methodology I,C Keith Head;Ralph Winter,12,85.83333333,1.749458791,89.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,11,0
+UBCV,2017,W,COMM,693,,OVERALL,Seminar in Research Methodology I,,12,85.83333333,1.749458791,89.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,11,0
+UBCV,2017,W,COMM,695,,001,Advanced Topics in Empirical Corporate Finance,Jan Bena,16,86.375,6.591661399,99.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,5,5
+UBCV,2017,W,COMM,695,,OVERALL,Advanced Topics in Empirical Corporate Finance,,16,86.375,6.591661399,99.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,5,5

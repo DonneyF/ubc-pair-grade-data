@@ -1,19 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,S,FREN,101,,921,Beginners' French I,Niall Mann,17,78.647058824,10.246591973,95.0,58.0,,,,,,,,5,,,
-UBCV,2018,S,FREN,101,,922,Beginners' French I,Soline Milet,23,84.391304348,10.957517679,99.0,58.0,,,,,,,,,,,10
-UBCV,2018,S,FREN,101,,923,Beginners' French I,Caitlin Midgley;Juliet O'Brien,22,75.590909091,12.613896685999999,94.0,50.0,,,,,,,,,,5,
-UBCV,2018,S,FREN,101,,924,Beginners' French I,Liza Bolen,23,74.434782609,15.914047788,90.0,12.0,,,,,,,5,,6,,
-UBCV,2018,S,FREN,101,,925,Beginners' French I,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc,20,73.0,20.634666794,96.0,0.0,,,,,,,,,,,
-UBCV,2018,S,FREN,101,,OVERALL,Beginners' French I,,105,77.266666667,14.914671833,99.0,0.0,,,,5,8,7,14,13,15,15,21
-UBCV,2018,S,FREN,102,,921,Beginners' French II,Soline Milet,24,84.125,9.602139707000001,97.0,66.0,,,,,,,,0,5,,9
-UBCV,2018,S,FREN,102,,922,Beginners' French II,Somayeh Kamranian,16,79.9375,12.577592509,97.0,56.0,,,,,,,,6,1,,4
-UBCV,2018,S,FREN,102,,OVERALL,Beginners' French II,,40,82.45,10.933247342,97.0,56.0,,,,,,,,6,6,5,13
-UBCV,2018,S,FREN,111,,921,Intermediate French I,John Culbert,18,73.777777778,12.341015096,91.0,43.0,,,,,,,,,5,,
-UBCV,2018,S,FREN,111,,922,Intermediate French I,Soline Milet,26,79.653846154,10.055614582,96.0,50.0,,,,,,,5,,7,,6
-UBCV,2018,S,FREN,111,,923,Intermediate French I,William Winder,25,73.16,12.415313125,91.0,55.0,,,,,,,,,3,,
-UBCV,2018,S,FREN,111,,OVERALL,Intermediate French I,,69,75.768115942,11.788759510999999,96.0,43.0,,,,,,9,9,5,15,7,10
-UBCV,2018,S,FREN,112,,921,Intermediate French II,Juliet O'Brien,36,76.75,14.217444014000002,93.0,2.0,,,,,,5,6,9,9,,
-UBCV,2018,S,FREN,112,,922,Intermediate French II,Sylvia Bascou Vallarino,39,76.102564103,7.707804902,90.0,60.0,,,,,,5,7,10,6,,
-UBCV,2018,S,FREN,112,,OVERALL,Intermediate French II,,75,76.413333333,11.234711333,93.0,2.0,,,,,,10,13,19,15,7,5
-UBCV,2018,S,FREN,220,,922,Introduction to Early French Literature and to Textual Analysis,Ralph Sarkonak,11,65.818181818,20.277170324,90.0,13.0,,,,,,,,,,,
-UBCV,2018,S,FREN,220,,OVERALL,Introduction to Early French Literature and to Textual Analysis,,11,65.818181818,20.277170324,90.0,13.0,,,,,,,,,,,
+UBCV,2018,S,FREN,101,,921,Beginners' French I,Niall Mann,17,78.64705882,10.24659197,95.0,58.0,0,0,1,1.0,0.0,1.0,2,5.0,2,3,2
+UBCV,2018,S,FREN,101,,922,Beginners' French I,Soline Milet,23,84.39130435,10.95751768,99.0,58.0,0,0,1,0.0,1.0,1.0,2,2.0,3,3,10
+UBCV,2018,S,FREN,101,,923,Beginners' French I,Caitlin Midgley;Juliet O'Brien,22,75.59090909,12.61389669,94.0,50.0,0,1,1,2.0,2.0,3.0,1,1.0,3,5,3
+UBCV,2018,S,FREN,101,,924,Beginners' French I,Liza Bolen,23,74.43478261,15.91404779,90.0,12.0,1,0,0,2.0,2.0,1.0,5,1.0,6,3,2
+UBCV,2018,S,FREN,101,,925,Beginners' French I,Juliet O'Brien;Magali Blanc;Magali Suzanne Ida Blanc,20,73.0,20.63466679,96.0,0.0,1,1,0,0.0,3.0,1.0,4,4.0,1,1,4
+UBCV,2018,S,FREN,101,,OVERALL,Beginners' French I,,105,77.26666667,14.91467183,99.0,0.0,2,2,3,5.0,8.0,7.0,14,13.0,15,15,21
+UBCV,2018,S,FREN,102,,921,Beginners' French II,Soline Milet,24,84.125,9.602139707,97.0,66.0,0,0,0,0.0,2.0,2.0,2,0.0,5,4,9
+UBCV,2018,S,FREN,102,,922,Beginners' French II,Somayeh Kamranian,16,79.9375,12.57759251,97.0,56.0,0,0,1,1.0,1.0,0.0,1,6.0,1,1,4
+UBCV,2018,S,FREN,102,,OVERALL,Beginners' French II,,40,82.45,10.93324734,97.0,56.0,0,0,1,1.0,3.0,2.0,3,6.0,6,5,13
+UBCV,2018,S,FREN,111,,921,Intermediate French I,John Culbert,18,73.77777778,12.3410151,91.0,43.0,1,1,0,1.0,0.0,3.0,1,4.0,5,1,1
+UBCV,2018,S,FREN,111,,922,Intermediate French I,Soline Milet,26,79.65384615,10.05561458,96.0,50.0,0,1,0,0.0,0.0,4.0,5,1.0,7,2,6
+UBCV,2018,S,FREN,111,,923,Intermediate French I,William Winder,25,73.16,12.41531313,91.0,55.0,0,0,4,3.0,3.0,2.0,3,0.0,3,4,3
+UBCV,2018,S,FREN,111,,OVERALL,Intermediate French I,,69,75.76811594,11.78875951,96.0,43.0,1,2,4,4.0,3.0,9.0,9,5.0,15,7,10
+UBCV,2018,S,FREN,112,,921,Intermediate French II,Juliet O'Brien,36,76.75,14.21744401,93.0,2.0,1,0,0,0.0,0.0,5.0,6,9.0,9,3,3
+UBCV,2018,S,FREN,112,,922,Intermediate French II,Sylvia Bascou Vallarino,39,76.1025641,7.707804902,90.0,60.0,0,0,0,3.0,2.0,5.0,7,10.0,6,4,2
+UBCV,2018,S,FREN,112,,OVERALL,Intermediate French II,,75,76.41333333,11.23471133,93.0,2.0,1,0,0,3.0,2.0,10.0,13,19.0,15,7,5
+UBCV,2018,S,FREN,220,,922,Introduction to Early French Literature and to Textual Analysis,Ralph Sarkonak,11,65.81818182,20.27717032,90.0,13.0,1,0,1,1.0,3.0,1.0,1,1.0,0,1,1
+UBCV,2018,S,FREN,220,,OVERALL,Introduction to Early French Literature and to Textual Analysis,,11,65.81818182,20.27717032,90.0,13.0,1,0,1,1.0,3.0,1.0,1,1.0,0,1,1

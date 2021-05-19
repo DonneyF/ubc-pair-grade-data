@@ -1,23 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,ENDS,110,,001,Measured Architectural Drafting,Diego Ortiz Barragan;Mari Fujita,28,80.964285714,5.022041365,90.0,70.0,,,,,,,5,5,9,7,
-UBCV,2016,W,ENDS,110,,OVERALL,Measured Architectural Drafting,,28,80.964285714,5.022041365,90.0,70.0,,,,,,,5,5,9,7,
-UBCV,2016,W,ENDS,220,,001,Architecture in Context: Vancouver,Neal Lamontagne,123,81.674796748,8.086110267999999,98.0,35.0,,,,,,7,16,23,33,24,19
-UBCV,2016,W,ENDS,220,,OVERALL,Architecture in Context: Vancouver,,123,81.674796748,8.086110267999999,98.0,35.0,,,,,,7,16,23,33,24,19
-UBCV,2016,W,ENDS,221,,001,Sustainability by Design,Patrick Michael Condon,149,79.38255033600001,11.266787664,94.0,0.0,,,,,,11,16,33,31,39,12
-UBCV,2016,W,ENDS,221,,OVERALL,Sustainability by Design,,149,79.38255033600001,11.266787664,94.0,0.0,,,,,,11,16,33,31,39,12
-UBCV,2016,W,ENDS,231,,001,Thinking by Design,Leslie Van Duzer,97,79.278350515,12.149881915999998,100.0,24.0,,,,,7,5,10,10,21,14,21
-UBCV,2016,W,ENDS,231,,OVERALL,Thinking by Design,,97,79.278350515,12.149881915999998,100.0,24.0,,,,,7,5,10,10,21,14,21
-UBCV,2016,W,ENDS,301,,001,Environmental Design Studio I,Cynthia Girling;Mark Vandendungen;Vicente Castanon-Rumebe,31,81.225806452,4.507103116000001,88.0,69.0,,,,,,,,5,14,9,
-UBCV,2016,W,ENDS,301,,OVERALL,Environmental Design Studio I,,31,81.225806452,4.507103116000001,88.0,69.0,,,,,,,,5,14,9,
-UBCV,2016,W,ENDS,302,,001,Environmental Design Studio II,Amy Stapleton;Christopher Jan Sklar;Christopher Sklar;Kara Verbeek;Mari Fujita,28,80.035714286,7.021037925,92.0,68.0,,,,,,,6,5,6,,
-UBCV,2016,W,ENDS,302,,OVERALL,Environmental Design Studio II,,28,80.035714286,7.021037925,92.0,68.0,,,,,,,6,5,6,,
-UBCV,2016,W,ENDS,320,,001,"Design, Media and Representation",Kara Verbeek;Travis Hanks;Travis Wesley Hanks,30,84.1,1.807074221,88.0,80.0,,,,,,,,,17,13,
-UBCV,2016,W,ENDS,320,,OVERALL,"Design, Media and Representation",,30,84.1,1.807074221,88.0,80.0,,,,,,,,,17,13,
-UBCV,2016,W,ENDS,401,,001,Environmental Design Studio III,Blair Satterfield;Kristina Strecker;Qiongyu Li,31,85.387096774,2.472211147,91.0,81.0,,,,,,,,,13,17,
-UBCV,2016,W,ENDS,401,,OVERALL,Environmental Design Studio III,,31,85.387096774,2.472211147,91.0,81.0,,,,,,,,,13,17,
-UBCV,2016,W,ENDS,402,,001,Environmental Design Studio IV,Fernanda Hannah-Suarez;Jennifer Whelan;Tony Earl Osborn;Tony Osborn;Vicente Castanon-Rumebe,31,81.09677419399999,5.418209044,93.0,69.0,,,,,,,,6,13,5,
-UBCV,2016,W,ENDS,402,,OVERALL,Environmental Design Studio IV,,31,81.09677419399999,5.418209044,93.0,69.0,,,,,,,,6,13,5,
-UBCV,2016,W,ENDS,420,,001,Technology and Technique,Allison Bernice Earl;Allison Earl;Colette Parras,31,81.35483871,4.520681269,89.0,72.0,,,,,,,,9,8,10,
-UBCV,2016,W,ENDS,420,,OVERALL,Technology and Technique,,31,81.35483871,4.520681269,89.0,72.0,,,,,,,,9,8,10,
-UBCV,2016,W,ENDS,440,,001,Environment and Urban Form,Nicole Tischler;Patricia Rios Cabello,31,79.967741935,4.183171611000001,87.0,71.0,,,,,,,5,6,14,5,
-UBCV,2016,W,ENDS,440,,OVERALL,Environment and Urban Form,,31,79.967741935,4.183171611000001,87.0,71.0,,,,,,,5,6,14,5,
+UBCV,2016,W,ENDS,110,,001,Measured Architectural Drafting,Diego Ortiz Barragan;Mari Fujita,28,80.96428571,5.022041365,90.0,70.0,0,0.0,0,0,0,1,5,5,9,7,1
+UBCV,2016,W,ENDS,110,,OVERALL,Measured Architectural Drafting,,28,80.96428571,5.022041365,90.0,70.0,0,0.0,0,0,0,1,5,5,9,7,1
+UBCV,2016,W,ENDS,220,,001,Architecture in Context: Vancouver,Neal Lamontagne,123,81.67479675,8.086110268,98.0,35.0,1,0.0,0,0,0,7,16,23,33,24,19
+UBCV,2016,W,ENDS,220,,OVERALL,Architecture in Context: Vancouver,,123,81.67479675,8.086110268,98.0,35.0,1,0.0,0,0,0,7,16,23,33,24,19
+UBCV,2016,W,ENDS,221,,001,Sustainability by Design,Patrick Michael Condon,149,79.38255034,11.26678766,94.0,0.0,3,0.0,1,1,2,11,16,33,31,39,12
+UBCV,2016,W,ENDS,221,,OVERALL,Sustainability by Design,,149,79.38255034,11.26678766,94.0,0.0,3,0.0,1,1,2,11,16,33,31,39,12
+UBCV,2016,W,ENDS,231,,001,Thinking by Design,Leslie Van Duzer,97,79.27835052,12.14988192,100.0,24.0,2,0.0,4,3,7,5,10,10,21,14,21
+UBCV,2016,W,ENDS,231,,OVERALL,Thinking by Design,,97,79.27835052,12.14988192,100.0,24.0,2,0.0,4,3,7,5,10,10,21,14,21
+UBCV,2016,W,ENDS,301,,001,Environmental Design Studio I,Cynthia Girling;Mark Vandendungen;Vicente Castanon-Rumebe,31,81.22580645,4.507103116,88.0,69.0,0,0.0,0,0,0,1,2,5,14,9,0
+UBCV,2016,W,ENDS,301,,OVERALL,Environmental Design Studio I,,31,81.22580645,4.507103116,88.0,69.0,0,0.0,0,0,0,1,2,5,14,9,0
+UBCV,2016,W,ENDS,302,,001,Environmental Design Studio II,Amy Stapleton;Christopher Jan Sklar;Christopher Sklar;Kara Verbeek;Mari Fujita,28,80.03571429,7.021037925,92.0,68.0,0,0.0,0,0,0,3,6,5,6,4,4
+UBCV,2016,W,ENDS,302,,OVERALL,Environmental Design Studio II,,28,80.03571429,7.021037925,92.0,68.0,0,0.0,0,0,0,3,6,5,6,4,4
+UBCV,2016,W,ENDS,320,,001,"Design, Media and Representation",Kara Verbeek;Travis Hanks;Travis Wesley Hanks,30,84.1,1.807074221,88.0,80.0,0,0.0,0,0,0,0,0,0,17,13,0
+UBCV,2016,W,ENDS,320,,OVERALL,"Design, Media and Representation",,30,84.1,1.807074221,88.0,80.0,0,0.0,0,0,0,0,0,0,17,13,0
+UBCV,2016,W,ENDS,401,,001,Environmental Design Studio III,Blair Satterfield;Kristina Strecker;Qiongyu Li,31,85.38709677,2.472211147,91.0,81.0,0,0.0,0,0,0,0,0,0,13,17,1
+UBCV,2016,W,ENDS,401,,OVERALL,Environmental Design Studio III,,31,85.38709677,2.472211147,91.0,81.0,0,0.0,0,0,0,0,0,0,13,17,1
+UBCV,2016,W,ENDS,402,,001,Environmental Design Studio IV,Fernanda Hannah-Suarez;Jennifer Whelan;Tony Earl Osborn;Tony Osborn;Vicente Castanon-Rumebe,31,81.09677419,5.418209044,93.0,69.0,0,0.0,0,0,0,1,4,6,13,5,2
+UBCV,2016,W,ENDS,402,,OVERALL,Environmental Design Studio IV,,31,81.09677419,5.418209044,93.0,69.0,0,0.0,0,0,0,1,4,6,13,5,2
+UBCV,2016,W,ENDS,420,,001,Technology and Technique,Allison Bernice Earl;Allison Earl;Colette Parras,31,81.35483871,4.520681269,89.0,72.0,0,0.0,0,0,0,0,4,9,8,10,0
+UBCV,2016,W,ENDS,420,,OVERALL,Technology and Technique,,31,81.35483871,4.520681269,89.0,72.0,0,0.0,0,0,0,0,4,9,8,10,0
+UBCV,2016,W,ENDS,440,,001,Environment and Urban Form,Nicole Tischler;Patricia Rios Cabello,31,79.96774194,4.183171611,87.0,71.0,0,0.0,0,0,0,1,5,6,14,5,0
+UBCV,2016,W,ENDS,440,,OVERALL,Environment and Urban Form,,31,79.96774194,4.183171611,87.0,71.0,0,0.0,0,0,0,1,5,6,14,5,0

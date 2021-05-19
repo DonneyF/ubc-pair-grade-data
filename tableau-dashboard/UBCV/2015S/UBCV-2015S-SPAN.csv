@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,S,SPAN,101,,921,Beginners' Spanish I,Jamille Barreto,33,73.63636364,19.08012412,97.0,0.0,,,,,,,,,,5,7
 UBCV,2015,S,SPAN,101,,OVERALL,Beginners' Spanish I,,33,73.636363636,19.080124118,97.0,0.0,,,,,,,,,,5,7
-UBCV,2015,S,SPAN,102,,921,Beginners' Spanish II,Brianne Orr Alvarez;Brianne Orr-Alvarez,20,71.75,10.51252386,89.0,56.0,,,,,6,,,,,,
-UBCV,2015,S,SPAN,102,,OVERALL,Beginners' Spanish II,,20,71.75,10.512523859,89.0,56.0,,,,,6,,,,,,
+UBCV,2015,S,SPAN,102,,921,Beginners' Spanish II,Brianne Orr Alvarez;Brianne Orr-Alvarez,20,71.75,10.51252386,89.0,56.0,0,0,,,6,,,,,,0
+UBCV,2015,S,SPAN,102,,OVERALL,Beginners' Spanish II,,20,71.75,10.512523859,89.0,56.0,0,0,,,6,,,,,,0
 UBCV,2015,S,SPAN,201,,921,Intermediate Spanish I,Kosta Kolokatsis,38,69.92105263,12.83866958,92.0,22.0,,,,,,8,,8,5,,
-UBCV,2015,S,SPAN,201,,OVERALL,Intermediate Spanish I,,38,69.921052632,12.838669584000002,92.0,22.0,,,,,,8,,8,5,,
-UBCV,2015,S,SPAN,202,,921,Intermediate Spanish II,Iris Escuer Riera,33,73.33333333,9.584057944,88.0,55.0,,,,,,,6,,6,5,
-UBCV,2015,S,SPAN,202,,OVERALL,Intermediate Spanish II,,33,73.333333333,9.584057944,88.0,55.0,,,,,,,6,,6,5,
-UBCV,2015,S,SPAN,495,,921,Research Intensive Seminar in Spanish Literature and Culture,Raul Alvarez Moreno;Raul Alvarez-Moreno,7,78.0,3.464101615,85.0,75.0,,,,,,,,,,,
-UBCV,2015,S,SPAN,495,,OVERALL,Research Intensive Seminar in Spanish Literature and Culture,,7,78.0,3.464101615,85.0,75.0,,,,,,,,,,,
+UBCV,2015,S,SPAN,201,,OVERALL,Intermediate Spanish I,,38,69.921052632,12.838669584,92.0,22.0,,,,,,8,,8,5,,
+UBCV,2015,S,SPAN,202,,921,Intermediate Spanish II,Iris Escuer Riera,33,73.33333333,9.584057944,88.0,55.0,0,0,,,,,6,,6,5,0
+UBCV,2015,S,SPAN,202,,OVERALL,Intermediate Spanish II,,33,73.333333333,9.584057944,88.0,55.0,0,0,,,,,6,,6,5,0
+UBCV,2015,S,SPAN,495,,921,Research Intensive Seminar in Spanish Literature and Culture,Raul Alvarez Moreno;Raul Alvarez-Moreno,7,78.0,3.464101615,85.0,75.0,0,0,0,0,0,0,,,,,0
+UBCV,2015,S,SPAN,495,,OVERALL,Research Intensive Seminar in Spanish Literature and Culture,,7,78.0,3.464101615,85.0,75.0,0,0,0,0,0,0,,,,,0

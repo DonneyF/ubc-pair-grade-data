@@ -2,31 +2,31 @@ Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,S
 UBCV,2014,W,COMM,100,,201,Introduction to Business,David Robert Crawford,219,67.87214612,10.13632312,93.0,31.0,9,11,16,36,27,34,36,27,15,6,2.0
 UBCV,2014,W,COMM,100,,OVERALL,Introduction to Business,,219,67.87214612,10.13632312,93.0,31.0,9,11,16,36,27,34,36,27,15,6,2.0
 UBCV,2014,W,COMM,101,,101,Business Fundamentals,Jeff Kroeker;Paul Cubbon,97,69.92783505,10.64605504,92.0,24.0,,,,8,15,20,18,8,12,,
-UBCV,2014,W,COMM,101,,102,Business Fundamentals,Jeff Kroeker;Paul Cubbon,101,70.91089109,11.26063853,88.0,8.0,5,,,4,11,19,21,15,18,,
+UBCV,2014,W,COMM,101,,102,Business Fundamentals,Jeff Kroeker;Paul Cubbon,101,70.91089109,11.26063853,88.0,8.0,5,,,4,11,19,21,15,18,,0
 UBCV,2014,W,COMM,101,,103,Business Fundamentals,Jeff Kroeker;Paul Cubbon,106,71.61320755,8.435266959,92.0,40.0,,,,12,16,10,25,16,15,,
 UBCV,2014,W,COMM,101,,104,Business Fundamentals,Robert Jackes;Tamar Milne,101,72.32673267,11.50574544,92.0,27.0,,,,5,11,18,14,18,19,8,
-UBCV,2014,W,COMM,101,,105,Business Fundamentals,Robert Jackes;Tamar Milne,117,70.87179487,8.770580192999999,89.0,38.0,,5,5,6,16,24,23,18,16,,
+UBCV,2014,W,COMM,101,,105,Business Fundamentals,Robert Jackes;Tamar Milne,117,70.87179487,8.770580193,89.0,38.0,,5,5,6,16,24,23,18,16,,0
 UBCV,2014,W,COMM,101,,106,Business Fundamentals,Scott Sinclair;Tamar Milne,97,69.31958763,10.02034014,90.0,32.0,,5,,10,14,19,21,6,9,5,
 UBCV,2014,W,COMM,101,,107,Business Fundamentals,Jeff Kroeker;Paul Cubbon,107,71.08411215,9.325478889,92.0,29.0,,,5,7,20,22,11,16,14,6,
 UBCV,2014,W,COMM,101,,OVERALL,Business Fundamentals,,726,70.88567493,10.010168,92.0,8.0,21,21,26,52,103,132,133,97,103,30,8
-UBCV,2014,W,COMM,126,,001,"Data: Description, Display, and Inference",Jacob Michael Schwartz;Jacob Schwartz;John Ries,58,72.36206897,11.84801157,89.0,27.0,,,,,6,6,12,16,8,4,
-UBCV,2014,W,COMM,126,,002,"Data: Description, Display, and Inference",Jacob Michael Schwartz;Jacob Schwartz;John Ries,47,72.0,9.033753132000001,88.0,46.0,,,,,7,13,8,6,2,6,
-UBCV,2014,W,COMM,126,,OVERALL,"Data: Description, Display, and Inference",,105,72.2,10.633220800000002,89.0,27.0,5,,,,13,19,20,22,10,10,
-UBCV,2014,W,COMM,202,,101,Career Fundamentals,Michelle Watson,126,76.57142857,12.233350199999999,98.0,50.0,,6,6,,15,15,14,11,17,15,23
+UBCV,2014,W,COMM,126,,001,"Data: Description, Display, and Inference",Jacob Michael Schwartz;Jacob Schwartz;John Ries,58,72.36206897,11.84801157,89.0,27.0,,,,,6,6,12,16,8,4,0
+UBCV,2014,W,COMM,126,,002,"Data: Description, Display, and Inference",Jacob Michael Schwartz;Jacob Schwartz;John Ries,47,72.0,9.033753132,88.0,46.0,,,,,7,13,8,6,2,6,0
+UBCV,2014,W,COMM,126,,OVERALL,"Data: Description, Display, and Inference",,105,72.2,10.6332208,89.0,27.0,5,,,,13,19,20,22,10,10,0
+UBCV,2014,W,COMM,202,,101,Career Fundamentals,Michelle Watson,126,76.57142857,12.2333502,98.0,50.0,0,6,6,4.0,15,15,14,11,17,15,23
 UBCV,2014,W,COMM,202,,102,Career Fundamentals,Michelle Watson,170,75.87058824,14.72612961,100.0,0.0,3.0,7,7,6,20,10,17,20,34,22,24
 UBCV,2014,W,COMM,202,,103,Career Fundamentals,Michelle Watson,169,75.74556213,14.74587496,100.0,27.0,7,6,9,8,13,13,20,17,24,22,30
-UBCV,2014,W,COMM,202,,201,Career Fundamentals,Michelle Watson,125,78.608,12.28157287,99.0,41.0,,2.0,6,,9,11,16,11,15,24,26
+UBCV,2014,W,COMM,202,,201,Career Fundamentals,Michelle Watson,125,78.608,12.28157287,99.0,41.0,3.0,2.0,6,2.0,9,11,16,11,15,24,26
 UBCV,2014,W,COMM,202,,202,Career Fundamentals,Michelle Watson,171,75.04093567,11.95056323,97.0,35.0,5,2.0,12,10,17,16,18,19,32,27,13
 UBCV,2014,W,COMM,202,,203,Career Fundamentals,Michelle Watson,163,70.90184049,15.08380487,98.0,21.0,13,14,11,12,12,10,15,20,25,18,13
 UBCV,2014,W,COMM,202,,OVERALL,Career Fundamentals,,924,75.28354978,13.83041187,100.0,0.0,31,37,51,42,86,75,100,98,147,128,129
-UBCV,2014,W,COMM,280,,101,Entrepreneurship,Elizabeth Muehlchen,31,75.70967742,9.970601949,93.0,55.0,,,,,,,,,9,,
-UBCV,2014,W,COMM,280,,102,Entrepreneurship,Elizabeth Muehlchen,27,77.81481482,10.557669599999999,97.0,59.0,,,,,,,5,,4,,
+UBCV,2014,W,COMM,280,,101,Entrepreneurship,Elizabeth Muehlchen,31,75.70967742,9.970601949,93.0,55.0,0,0,,,,,,,9,,
+UBCV,2014,W,COMM,280,,102,Entrepreneurship,Elizabeth Muehlchen,27,77.81481482,10.5576696,97.0,59.0,0,0,,,,,5,,4,,
 UBCV,2014,W,COMM,280,,103,Entrepreneurship,Elizabeth Muehlchen,21,74.38095238,12.53585334,90.0,37.0,,,,,,,,6,5,,
-UBCV,2014,W,COMM,280,,201,Entrepreneurship,Elizabeth Muehlchen,33,73.63636364,8.901608638999999,90.0,57.0,,,,,,,10,,5,,
-UBCV,2014,W,COMM,280,,202,Entrepreneurship,Elizabeth Muehlchen,24,78.75,6.387828099,90.0,65.0,,,,,,,,,9,,
+UBCV,2014,W,COMM,280,,201,Entrepreneurship,Elizabeth Muehlchen,33,73.63636364,8.901608639,90.0,57.0,0,0,,,,,10,,5,,
+UBCV,2014,W,COMM,280,,202,Entrepreneurship,Elizabeth Muehlchen,24,78.75,6.387828099,90.0,65.0,0,0,0,0,,,,,9,,
 UBCV,2014,W,COMM,280,,OVERALL,Entrepreneurship,,136,75.95588235,9.816741292,97.0,37.0,,,7,8,10,9,22,22,32,15,9
-UBCV,2014,W,COMM,286,V,101,Topics in Business II,Murray Carlson;Robert Lee Heinkel,35,78.45714286,4.661121155,86.0,68.0,,,,,,5,,9,16,,
-UBCV,2014,W,COMM,286,V,OVERALL,Topics in Business II,,35,78.45714286,4.661121155,86.0,68.0,,,,,,5,,9,16,,
+UBCV,2014,W,COMM,286,V,101,Topics in Business II,Murray Carlson;Robert Lee Heinkel,35,78.45714286,4.661121155,86.0,68.0,0,0,0,0,0,5,,9,16,,0
+UBCV,2014,W,COMM,286,V,OVERALL,Topics in Business II,,35,78.45714286,4.661121155,86.0,68.0,0,0,0,0,0,5,,9,16,,0
 UBCV,2014,W,COMM,290,,101,Introduction to Quantitative Decision Making,Brian Graham,243,78.99588477,10.6190605,99.0,47.0,5,3.0,6,8,12,19,27,33,56,39,35
 UBCV,2014,W,COMM,290,,102,Introduction to Quantitative Decision Making,Brian Graham,243,72.83127572,12.57573459,98.0,27.0,12,10,15,19,16,30,32,28,36,27,18
 UBCV,2014,W,COMM,290,,103,Introduction to Quantitative Decision Making,Brian Graham,229,67.76419214,15.24726987,93.0,0.0,29,11,16,22,25,28,24,18,29,17,10
@@ -44,60 +44,60 @@ UBCV,2014,W,COMM,291,,205,Application of Statistics in Business,Gregory Werker,2
 UBCV,2014,W,COMM,291,,206,Application of Statistics in Business,Gregory Werker,244,73.64754098,11.21904769,97.0,38.0,4.0,8,12,16,24,23,40,30,40,30,17
 UBCV,2014,W,COMM,291,,207,Application of Statistics in Business,Gregory Werker,182,69.46153846,13.07674558,99.0,27.0,13,9,16,10,23,18,24,22,22,18,7
 UBCV,2014,W,COMM,291,,OVERALL,Application of Statistics in Business,,1346,72.32243685,12.04656586,99.0,0.0,38,54,79,95,138,155,178,174,202,148,85
-UBCV,2014,W,COMM,292,,101,Management and Organizational Behaviour,Perdip Atwal,53,76.22641509,5.901895098,86.0,59.0,,,,,,13,8,11,15,,
-UBCV,2014,W,COMM,292,,102,Management and Organizational Behaviour,Angela Kelleher,46,74.32608696,5.90688618,85.0,60.0,,,,,,7,12,10,10,,
-UBCV,2014,W,COMM,292,,103,Management and Organizational Behaviour,Karin Kirkpatrick,50,76.14,4.412459169,87.0,68.0,,,,,,10,10,22,7,,
-UBCV,2014,W,COMM,292,,201,Management and Organizational Behaviour,Kira Schabram,38,74.34210526,6.699238826,90.0,60.0,,,,,7,6,6,7,9,,
-UBCV,2014,W,COMM,292,,202,Management and Organizational Behaviour,Tracey Gurton,40,76.825,5.173341429,89.0,66.0,,,,,,6,8,15,7,,
-UBCV,2014,W,COMM,292,,203,Management and Organizational Behaviour,Kira Schabram,41,74.85365854,4.53078898,84.0,63.0,,,,,,8,14,7,10,,
-UBCV,2014,W,COMM,292,,204,Management and Organizational Behaviour,Tracey Gurton,38,75.94736842,4.735988543,88.0,68.0,,,,,,8,8,13,8,,
-UBCV,2014,W,COMM,292,,205,Management and Organizational Behaviour,Tracey Gurton,40,75.475,4.284662569,83.0,67.0,,,,,,8,11,12,8,,
-UBCV,2014,W,COMM,292,,206,Management and Organizational Behaviour,Girish Ananthanarayana,38,72.89473684,9.018867531,85.0,36.0,,,,,,7,9,11,5,,
-UBCV,2014,W,COMM,292,,207,Management and Organizational Behaviour,Girish Ananthanarayana,40,72.475,12.72386714,85.0,0.0,,,,,,11,9,10,5,,
-UBCV,2014,W,COMM,292,,208,Management and Organizational Behaviour,Karl Aquino,41,75.12195122,7.694787592999999,88.0,54.0,,,,,,6,7,9,10,,
-UBCV,2014,W,COMM,292,,209,Management and Organizational Behaviour,Karl Aquino,44,74.34090909,7.918019431,94.0,55.0,,,,,,6,11,9,6,,
-UBCV,2014,W,COMM,292,,210,Management and Organizational Behaviour,Dorit Treister,46,76.58695652,6.0830404929999995,88.0,60.0,,,,,,8,13,9,11,,
-UBCV,2014,W,COMM,292,,211,Management and Organizational Behaviour,Tracey Gurton,44,75.68181818,7.504332787,90.0,62.0,,,,,,9,11,5,6,7,
-UBCV,2014,W,COMM,292,,212,Management and Organizational Behaviour,Marjan Houshmand,50,75.14,12.07461496,87.0,0.0,,,,,,,14,10,16,,
-UBCV,2014,W,COMM,292,,213,Management and Organizational Behaviour,Marjan Houshmand,45,75.4,5.015430735,85.0,65.0,,,,,,10,10,12,10,,
-UBCV,2014,W,COMM,292,,214,Management and Organizational Behaviour,Adam Kay,37,75.48648649,5.273737983,85.0,64.0,,,,,,,8,13,5,,
-UBCV,2014,W,COMM,292,,215,Management and Organizational Behaviour,Perdip Atwal,48,73.8125,8.396190245,87.0,48.0,,,,,,7,8,11,10,,
-UBCV,2014,W,COMM,292,,216,Management and Organizational Behaviour,Karin Kirkpatrick,50,76.16,6.3224898220000005,91.0,57.0,,,,,,11,12,12,8,5,
-UBCV,2014,W,COMM,292,,217,Management and Organizational Behaviour,Karin Kirkpatrick,46,73.34782609,8.571833439,86.0,38.0,,,,,,10,16,8,7,,
+UBCV,2014,W,COMM,292,,101,Management and Organizational Behaviour,Perdip Atwal,53,76.22641509,5.901895098,86.0,59.0,0,0,,,,13,8,11,15,,0
+UBCV,2014,W,COMM,292,,102,Management and Organizational Behaviour,Angela Kelleher,46,74.32608696,5.90688618,85.0,60.0,0,0,0,,,7,12,10,10,,0
+UBCV,2014,W,COMM,292,,103,Management and Organizational Behaviour,Karin Kirkpatrick,50,76.14,4.412459169,87.0,68.0,0,0,0,0,0,10,10,22,7,1.0,0
+UBCV,2014,W,COMM,292,,201,Management and Organizational Behaviour,Kira Schabram,38,74.34210526,6.699238826,90.0,60.0,0,0,0,,7,6,6,7,9,,
+UBCV,2014,W,COMM,292,,202,Management and Organizational Behaviour,Tracey Gurton,40,76.825,5.173341429,89.0,66.0,0,0,0,0,,6,8,15,7,,0
+UBCV,2014,W,COMM,292,,203,Management and Organizational Behaviour,Kira Schabram,41,74.85365854,4.53078898,84.0,63.0,0,0,0,,,8,14,7,10,0,0
+UBCV,2014,W,COMM,292,,204,Management and Organizational Behaviour,Tracey Gurton,38,75.94736842,4.735988543,88.0,68.0,0,0,0,0,0,8,8,13,8,1.0,0
+UBCV,2014,W,COMM,292,,205,Management and Organizational Behaviour,Tracey Gurton,40,75.475,4.284662569,83.0,67.0,0,0,0,0,1.0,8,11,12,8,0,0
+UBCV,2014,W,COMM,292,,206,Management and Organizational Behaviour,Girish Ananthanarayana,38,72.89473684,9.018867531,85.0,36.0,,,,,,7,9,11,5,,0
+UBCV,2014,W,COMM,292,,207,Management and Organizational Behaviour,Girish Ananthanarayana,40,72.475,12.72386714,85.0,0.0,,,,,,11,9,10,5,,0
+UBCV,2014,W,COMM,292,,208,Management and Organizational Behaviour,Karl Aquino,41,75.12195122,7.694787593,88.0,54.0,0,,,,,6,7,9,10,,0
+UBCV,2014,W,COMM,292,,209,Management and Organizational Behaviour,Karl Aquino,44,74.34090909,7.918019431,94.0,55.0,0,0,,,,6,11,9,6,,
+UBCV,2014,W,COMM,292,,210,Management and Organizational Behaviour,Dorit Treister,46,76.58695652,6.083040493,88.0,60.0,0,0,0,,,8,13,9,11,,0
+UBCV,2014,W,COMM,292,,211,Management and Organizational Behaviour,Tracey Gurton,44,75.68181818,7.504332787,90.0,62.0,0,0,0,,,9,11,5,6,7,
+UBCV,2014,W,COMM,292,,212,Management and Organizational Behaviour,Marjan Houshmand,50,75.14,12.07461496,87.0,0.0,,,,,,,14,10,16,,0
+UBCV,2014,W,COMM,292,,213,Management and Organizational Behaviour,Marjan Houshmand,45,75.4,5.015430735,85.0,65.0,0,0,0,0,,10,10,12,10,,0
+UBCV,2014,W,COMM,292,,214,Management and Organizational Behaviour,Adam Kay,37,75.48648649,5.273737983,85.0,64.0,0,0,0,0,,,8,13,5,,0
+UBCV,2014,W,COMM,292,,215,Management and Organizational Behaviour,Perdip Atwal,48,73.8125,8.396190245,87.0,48.0,,,,,,7,8,11,10,,0
+UBCV,2014,W,COMM,292,,216,Management and Organizational Behaviour,Karin Kirkpatrick,50,76.16,6.322489822,91.0,57.0,0,0,,,,11,12,12,8,5,
+UBCV,2014,W,COMM,292,,217,Management and Organizational Behaviour,Karin Kirkpatrick,46,73.34782609,8.571833439,86.0,38.0,,,,,,10,16,8,7,,0
 UBCV,2014,W,COMM,292,,OVERALL,Management and Organizational Behaviour,,875,75.06171429,7.327315391,94.0,0.0,6,3.0,7,13,40,159,205,216,173,48,5
 UBCV,2014,W,COMM,293,,101,Financial Accounting,Patricia Mallia,230,77.42173913,11.78632382,98.0,41.0,2.0,7,7,14,14,25,24,21,38,36,42
 UBCV,2014,W,COMM,293,,102,Financial Accounting,Patricia Mallia,223,71.16143498,12.93611962,96.0,27.0,8,17,19,17,16,31,24,26,30,20,15
 UBCV,2014,W,COMM,293,,103,Financial Accounting,Patricia Mallia,197,64.49238579,16.57500555,97.0,16.0,31,21,19,26,13,19,14,11,16,11,16
-UBCV,2014,W,COMM,293,,104,Financial Accounting,Tran Khue Chung,45,74.53333333,9.799350628,93.0,51.0,,,,5,5,6,6,,11,2,5
-UBCV,2014,W,COMM,293,,105,Financial Accounting,Tran Khue Chung,44,78.70454546,8.451171779,91.0,54.0,,,,1,2,3,9,,12,9,5
+UBCV,2014,W,COMM,293,,104,Financial Accounting,Tran Khue Chung,45,74.53333333,9.799350628,93.0,51.0,0,,,5,5,6,6,,11,2,5
+UBCV,2014,W,COMM,293,,105,Financial Accounting,Tran Khue Chung,44,78.70454546,8.451171779,91.0,54.0,0,,,1,2,3,9,,12,9,5
 UBCV,2014,W,COMM,293,,OVERALL,Financial Accounting,,739,71.9864682,14.27535374,98.0,16.0,41,47,46,63,50,84,77,63,107,78,83
 UBCV,2014,W,COMM,294,,101,Managerial Accounting,William Dorfmann,68,74.42647059,15.44205943,96.0,19.0,,,5,5,6,4,2,10,12,5,14
 UBCV,2014,W,COMM,294,,201,Managerial Accounting,Amandeep Singh;Elyse Milanese;Iugene Ma;Jasmine Chan;Jason Yip;Kayla Siu;Marian Fishman Freer;Maxwell Wilford;Robert Jackes;Ying Sheng Peter Lai,182,73.34615385,10.892542,100.0,18.0,6,2.0,10,5,13,30,37,27,30,16,6
 UBCV,2014,W,COMM,294,,202,Managerial Accounting,Amandeep Singh;Elyse Milanese;Iugene Ma;Jasmine Chan;Jason Yip;Kayla Siu;Marian Fishman Freer;Maxwell Wilford;Robert Jackes;Ying Sheng Peter Lai,233,76.74678112,9.577735516,98.0,28.0,,,9,14,17,22,28,34,55,43,10
 UBCV,2014,W,COMM,294,,203,Managerial Accounting,Clarisse Ong;Hoang Vi Nguyen;Imran Hasan Siddiqui;Rafael Lopes Rogo;Yu Ge Liu;Zijun Zhao,122,72.14754098,11.61266915,93.0,5.0,,,6,9,12,15,18,19,21,15,2
-UBCV,2014,W,COMM,294,,204,Managerial Accounting,Clarisse Ong;Hoang Vi Nguyen;Imran Hasan Siddiqui;Rafael Lopes Rogo;Yu Ge Liu;Zijun Zhao,124,74.66129032,9.92728612,93.0,50.0,,,6,8,12,8,14,26,23,15,8
+UBCV,2014,W,COMM,294,,204,Managerial Accounting,Clarisse Ong;Hoang Vi Nguyen;Imran Hasan Siddiqui;Rafael Lopes Rogo;Yu Ge Liu;Zijun Zhao,124,74.66129032,9.92728612,93.0,50.0,0,4.0,6,8,12,8,14,26,23,15,8
 UBCV,2014,W,COMM,294,,OVERALL,Managerial Accounting,,729,74.5569273,11.07342425,100.0,5.0,12,11,36,41,60,79,99,116,141,94,40
 UBCV,2014,W,COMM,295,,101,Managerial Economics,James Brander,119,77.33613445,10.14578255,98.0,42.0,,,5,6,6,14,15,13,27,19,13
-UBCV,2014,W,COMM,295,,102,Managerial Economics,James Brander,114,76.44736842,10.35741119,94.0,50.0,,5,,6,9,12,9,18,24,23,5
+UBCV,2014,W,COMM,295,,102,Managerial Economics,James Brander,114,76.44736842,10.35741119,94.0,50.0,0,5,3.0,6,9,12,9,18,24,23,5
 UBCV,2014,W,COMM,295,,103,Managerial Economics,Isaac Holloway;Isaac R Holloway,122,70.68032787,12.53904078,94.0,3.0,4.0,5,5,14,12,23,12,18,17,10,2
 UBCV,2014,W,COMM,295,,104,Managerial Economics,Isaac Holloway;Isaac R Holloway,124,69.68548387,11.58872941,96.0,35.0,3.0,8,10,12,21,18,13,13,12,8,6
-UBCV,2014,W,COMM,295,,105,Managerial Economics,Ratna Shrestha,119,75.42016807,9.148951777,97.0,50.0,,,,5,14,13,17,17,30,9,8
+UBCV,2014,W,COMM,295,,105,Managerial Economics,Ratna Shrestha,119,75.42016807,9.148951777,97.0,50.0,0,3.0,3.0,5,14,13,17,17,30,9,8
 UBCV,2014,W,COMM,295,,106,Managerial Economics,Isaac Holloway;Isaac R Holloway,115,73.06956522,12.60376005,94.0,22.0,,,9,10,8,11,15,10,28,12,6
 UBCV,2014,W,COMM,295,,OVERALL,Managerial Economics,,713,73.71669004,11.47424886,98.0,3.0,10,25,35,53,70,91,81,89,138,81,40
-UBCV,2014,W,COMM,296,,101,Introduction to Marketing,So Eun Park,57,76.05263158,9.902057962,95.0,50.0,,,,,7,8,9,6,10,9,
-UBCV,2014,W,COMM,296,,102,Introduction to Marketing,So Eun Park,59,76.01694915,8.031171009,90.0,56.0,,,,,8,,10,9,16,7,
-UBCV,2014,W,COMM,296,,103,Introduction to Marketing,Mary Swaffield,58,76.20689655,6.44479559,87.0,60.0,,,,,,8,12,14,10,9,
-UBCV,2014,W,COMM,296,,104,Introduction to Marketing,Tamar Milne,61,77.40983607,9.385053808,95.0,51.0,,,,,6,5,6,10,15,10,5
-UBCV,2014,W,COMM,296,,105,Introduction to Marketing,Mary Swaffield,59,75.93220339,8.329143696000001,93.0,50.0,,,,,7,7,7,8,20,6,
-UBCV,2014,W,COMM,296,,106,Introduction to Marketing,Ting Zhu,61,79.83606557,5.22870388,90.0,67.0,,,,,,,7,13,20,15,
-UBCV,2014,W,COMM,296,,107,Introduction to Marketing,Ting Zhu,63,79.28571429,5.231506819,88.0,67.0,,,,,,7,8,9,27,11,
-UBCV,2014,W,COMM,296,,201,Introduction to Marketing,Jennifer Labrie;Jenny Dickson,58,75.81034483,8.67635807,98.0,55.0,,,,,6,7,7,9,15,7,
-UBCV,2014,W,COMM,296,,202,Introduction to Marketing,Brittany Alexandria Flavelle;Kelly Trach;Nadia Gunderson;Nadia Kathleen Gunderson;Tamar Milne,59,76.40677966,8.208739337999999,93.0,53.0,,,,,,9,13,6,15,7,
-UBCV,2014,W,COMM,296,,203,Introduction to Marketing,Jennifer Labrie;Kirstin Appelt,55,75.98181818,8.816001673999999,93.0,51.0,,,,,6,6,9,12,7,8,
-UBCV,2014,W,COMM,296,,204,Introduction to Marketing,Matthew Lee;Phaedra Burke,58,73.58620690000001,8.805967837999999,87.0,44.0,,,,,,6,9,17,11,,
-UBCV,2014,W,COMM,296,,205,Introduction to Marketing,Brittany Alexandria Flavelle;Kelly Trach;Nadia Gunderson;Nadia Kathleen Gunderson;Tamar Milne,55,74.58181818,9.206863198999999,91.0,47.0,,,,,,6,7,17,9,6,
-UBCV,2014,W,COMM,296,,206,Introduction to Marketing,Brittany Alexandria Flavelle;Kelly Trach;Nadia Gunderson;Nadia Kathleen Gunderson;Tamar Milne,60,73.63333333,8.976365702999999,90.0,46.0,,,,,5,6,15,7,14,5,
-UBCV,2014,W,COMM,296,,207,Introduction to Marketing,Brittany Alexandria Flavelle;Kelly Trach;Nadia Gunderson;Nadia Kathleen Gunderson;Tamar Milne,53,74.71698113,7.926046057000001,91.0,55.0,,,,,,8,9,13,9,,
+UBCV,2014,W,COMM,296,,101,Introduction to Marketing,So Eun Park,57,76.05263158,9.902057962,95.0,50.0,0,,,,7,8,9,6,10,9,
+UBCV,2014,W,COMM,296,,102,Introduction to Marketing,So Eun Park,59,76.01694915,8.031171009,90.0,56.0,0,0,,,8,,10,9,16,7,
+UBCV,2014,W,COMM,296,,103,Introduction to Marketing,Mary Swaffield,58,76.20689655,6.44479559,87.0,60.0,0,0,0,,,8,12,14,10,9,0
+UBCV,2014,W,COMM,296,,104,Introduction to Marketing,Tamar Milne,61,77.40983607,9.385053808,95.0,51.0,0,,,,6,5,6,10,15,10,5
+UBCV,2014,W,COMM,296,,105,Introduction to Marketing,Mary Swaffield,59,75.93220339,8.329143696,93.0,50.0,0,,,,7,7,7,8,20,6,
+UBCV,2014,W,COMM,296,,106,Introduction to Marketing,Ting Zhu,61,79.83606557,5.22870388,90.0,67.0,0,0,0,0,,,7,13,20,15,
+UBCV,2014,W,COMM,296,,107,Introduction to Marketing,Ting Zhu,63,79.28571429,5.231506819,88.0,67.0,0,0,0,0,1.0,7,8,9,27,11,0
+UBCV,2014,W,COMM,296,,201,Introduction to Marketing,Jennifer Labrie;Jenny Dickson,58,75.81034483,8.67635807,98.0,55.0,0,0,,,6,7,7,9,15,7,
+UBCV,2014,W,COMM,296,,202,Introduction to Marketing,Brittany Alexandria Flavelle;Kelly Trach;Nadia Gunderson;Nadia Kathleen Gunderson;Tamar Milne,59,76.40677966,8.208739338,93.0,53.0,0,,,,,9,13,6,15,7,
+UBCV,2014,W,COMM,296,,203,Introduction to Marketing,Jennifer Labrie;Kirstin Appelt,55,75.98181818,8.816001674,93.0,51.0,0,,,,6,6,9,12,7,8,
+UBCV,2014,W,COMM,296,,204,Introduction to Marketing,Matthew Lee;Phaedra Burke,58,73.5862069,8.805967838,87.0,44.0,,,,,,6,9,17,11,,0
+UBCV,2014,W,COMM,296,,205,Introduction to Marketing,Brittany Alexandria Flavelle;Kelly Trach;Nadia Gunderson;Nadia Kathleen Gunderson;Tamar Milne,55,74.58181818,9.206863199,91.0,47.0,,,,,,6,7,17,9,6,
+UBCV,2014,W,COMM,296,,206,Introduction to Marketing,Brittany Alexandria Flavelle;Kelly Trach;Nadia Gunderson;Nadia Kathleen Gunderson;Tamar Milne,60,73.63333333,8.976365703,90.0,46.0,,,,,5,6,15,7,14,5,
+UBCV,2014,W,COMM,296,,207,Introduction to Marketing,Brittany Alexandria Flavelle;Kelly Trach;Nadia Gunderson;Nadia Kathleen Gunderson;Tamar Milne,53,74.71698113,7.926046057,91.0,55.0,0,0,,,,8,9,13,9,,
 UBCV,2014,W,COMM,296,,OVERALL,Introduction to Marketing,,816,76.15073529,8.305993073,98.0,44.0,4.0,9,16,27,61,91,128,150,198,107,25
 UBCV,2014,W,COMM,298,,101,Introduction to Finance,Darren Degraaf,65,74.23076923,10.32256211,94.0,45.0,,,,,7,9,4,12,17,5,3
 UBCV,2014,W,COMM,298,,201,Introduction to Finance,Lulu Zeng,121,76.80991736,15.40038639,98.0,22.0,8,,,6,,11,9,14,21,20,22
@@ -108,285 +108,285 @@ UBCV,2014,W,COMM,298,,205,Introduction to Finance,Darren Degraaf,123,71.97560976
 UBCV,2014,W,COMM,298,,206,Introduction to Finance,Lulu Zeng,119,76.40336135,13.96261311,98.0,35.0,9,,,,15,,14,8,23,19,19
 UBCV,2014,W,COMM,298,,207,Introduction to Finance,Lulu Zeng,90,76.92222222,13.14331357,97.0,28.0,,,,,,12,9,10,16,15,14
 UBCV,2014,W,COMM,298,,OVERALL,Introduction to Finance,,854,74.83138173,13.88665046,100.0,0.0,40,29,45,43,69,75,82,105,154,107,105
-UBCV,2014,W,COMM,306,,201,Urban Land Economics,Sanghoon Lee,40,77.625,10.22988959,97.0,55.0,,,,,7,4,3,5,10,5,5
+UBCV,2014,W,COMM,306,,201,Urban Land Economics,Sanghoon Lee,40,77.625,10.22988959,97.0,55.0,0,0,,,7,4,3,5,10,5,5
 UBCV,2014,W,COMM,306,,202,Urban Land Economics,Sanghoon Lee,42,76.21428571,11.40076102,91.0,33.0,,,,,1,7,5,4,10,6,4
 UBCV,2014,W,COMM,306,,OVERALL,Urban Land Economics,,82,76.90243902,10.80193142,97.0,33.0,,,,,8,11,8,9,20,11,9
-UBCV,2014,W,COMM,307,,201,Real Estate Investment,Mark Monroe,37,80.43243243,5.530423635,91.0,69.0,,,,,,,,7,16,6,2
-UBCV,2014,W,COMM,307,,202,Real Estate Investment,Mark Monroe,40,82.35,5.881522566,93.0,66.0,,,,,,,,7,11,12,5
-UBCV,2014,W,COMM,307,,OVERALL,Real Estate Investment,,77,81.42857143,5.759268437,93.0,66.0,,,,,,,7,14,27,18,7
-UBCV,2014,W,COMM,311,,101,Research Theory for Commerce Scholars,Frances Chandler,11,84.18181818,2.522624896,88.0,80.0,,,,,,,,,,7,
-UBCV,2014,W,COMM,311,,OVERALL,Research Theory for Commerce Scholars,,11,84.18181818,2.522624896,88.0,80.0,,,,,,,,,,7,
-UBCV,2014,W,COMM,329,,101,Principles of Organizational Behaviour,Tracey Gurton,93,76.66666667,7.680202292000001,91.0,54.0,,,,,7,9,17,19,19,15,
-UBCV,2014,W,COMM,329,,102,Principles of Organizational Behaviour,Tracey Gurton,45,78.06666667,5.686507156,89.0,66.0,,,,,,,10,10,15,5,
+UBCV,2014,W,COMM,307,,201,Real Estate Investment,Mark Monroe,37,80.43243243,5.530423635,91.0,69.0,0,0,0,0,0,,,7,16,6,2
+UBCV,2014,W,COMM,307,,202,Real Estate Investment,Mark Monroe,40,82.35,5.881522566,93.0,66.0,0,0,0,0,,,,7,11,12,5
+UBCV,2014,W,COMM,307,,OVERALL,Real Estate Investment,,77,81.42857143,5.759268437,93.0,66.0,0,0,0,0,,,7,14,27,18,7
+UBCV,2014,W,COMM,311,,101,Research Theory for Commerce Scholars,Frances Chandler,11,84.18181818,2.522624896,88.0,80.0,0,0,0,0,0,0,0,0,4.0,7,0
+UBCV,2014,W,COMM,311,,OVERALL,Research Theory for Commerce Scholars,,11,84.18181818,2.522624896,88.0,80.0,0,0,0,0,0,0,0,0,4.0,7,0
+UBCV,2014,W,COMM,329,,101,Principles of Organizational Behaviour,Tracey Gurton,93,76.66666667,7.680202292,91.0,54.0,0,,,,7,9,17,19,19,15,
+UBCV,2014,W,COMM,329,,102,Principles of Organizational Behaviour,Tracey Gurton,45,78.06666667,5.686507156,89.0,66.0,0,0,0,0,,,10,10,15,5,0
 UBCV,2014,W,COMM,329,,103,Principles of Organizational Behaviour,Sandra Robinson,47,67.36170213,22.99473052,90.0,0.0,,,,,,6,6,8,10,,
-UBCV,2014,W,COMM,329,,201,Principles of Organizational Behaviour,Perdip Atwal,98,76.05102041,6.664836869,85.0,53.0,,,,,7,11,13,27,34,,
-UBCV,2014,W,COMM,329,,202,Principles of Organizational Behaviour,Girish Ananthanarayana,29,71.65517241,6.326112901,85.0,54.0,,,,,,5,10,7,,,
-UBCV,2014,W,COMM,329,,203,Principles of Organizational Behaviour,Sandra Robinson,33,74.78787879,7.716692846,90.0,57.0,,,,,,,5,11,,,
-UBCV,2014,W,COMM,329,,OVERALL,Principles of Organizational Behaviour,,345,74.80579709999999,11.09577602,91.0,0.0,,9,,8,25,37,61,82,81,30,
-UBCV,2014,W,COMM,335,,101,Information Systems Technology and Development,William Khoon Lee Tan;William Tan,116,84.39655172,4.811000638,96.0,73.0,,,,,,0,1,0,58,34,23
-UBCV,2014,W,COMM,335,,201,Information Systems Technology and Development,Michael Wufka,87,75.88505747,9.216296597000001,95.0,50.0,,,,,,12,14,10,24,9,5
-UBCV,2014,W,COMM,335,,OVERALL,Information Systems Technology and Development,,203,80.74876847,8.195684445,96.0,50.0,,,,,,12,15,10,82,43,28
-UBCV,2014,W,COMM,336,,201,Introduction to e-Business,Ning Nan,26,75.80769231,6.776543253,90.0,60.0,,,,,,,8,7,3,2,
-UBCV,2014,W,COMM,336,,202,Introduction to e-Business,Ning Nan,28,79.60714286,5.499759495,90.0,66.0,,,,,,,6,4,10,5,
-UBCV,2014,W,COMM,336,,OVERALL,Introduction to e-Business,,54,77.77777778,6.382956867000001,90.0,60.0,,,,,,,14,11,13,7,
-UBCV,2014,W,COMM,349,,101,Logistics Services Management,David Irwin Farrell;Hanxing Zhang,54,79.37037037,4.691607506,88.0,67.0,,,,,,1,8,18,16,10,
-UBCV,2014,W,COMM,349,,201,Logistics Services Management,David Gillen,53,77.96226415,6.997148497,97.0,58.0,,,,,,7,4,17,13,7,
-UBCV,2014,W,COMM,349,,OVERALL,Logistics Services Management,,107,78.67289720000001,5.960207197000001,97.0,58.0,,,,,,8,12,35,29,17,
-UBCV,2014,W,COMM,353,,101,Financial Accounting: Intermediate I,Iugene Ma;Li Zhang,53,76.09433962,7.937893905,89.0,57.0,,,,,6,,7,12,12,8,
-UBCV,2014,W,COMM,353,,102,Financial Accounting: Intermediate I,Li Zhang,53,76.26415094,6.777085099,91.0,60.0,,,,,,7,15,9,12,5,
-UBCV,2014,W,COMM,353,,201,Financial Accounting: Intermediate I,Iugene Ma;Scott Sinclair,44,74.13636364,10.695773800000001,97.0,50.0,,,,5,,7,8,,7,,
-UBCV,2014,W,COMM,353,,202,Financial Accounting: Intermediate I,Alexander Bleck,40,77.425,10.43880212,98.0,54.0,,,,5,,,,10,4,9,
-UBCV,2014,W,COMM,353,,203,Financial Accounting: Intermediate I,Alexander Bleck;Cole Leonoff,41,73.2195122,9.488182637000001,90.0,56.0,,,,7,5,6,,5,9,,
-UBCV,2014,W,COMM,353,,204,Financial Accounting: Intermediate I,Alexander Bleck;Cho Rog Chloe Kim,35,74.17142857,9.687729395,91.0,53.0,,,,,,5,5,,11,,
-UBCV,2014,W,COMM,353,,OVERALL,Financial Accounting: Intermediate I,,266,75.30827068,9.146753585,98.0,50.0,,,6,24,21,30,43,42,55,30,12
+UBCV,2014,W,COMM,329,,201,Principles of Organizational Behaviour,Perdip Atwal,98,76.05102041,6.664836869,85.0,53.0,0,,,,7,11,13,27,34,,0
+UBCV,2014,W,COMM,329,,202,Principles of Organizational Behaviour,Girish Ananthanarayana,29,71.65517241,6.326112901,85.0,54.0,0,,,,,5,10,7,,,0
+UBCV,2014,W,COMM,329,,203,Principles of Organizational Behaviour,Sandra Robinson,33,74.78787879,7.716692846,90.0,57.0,0,0,,,,,5,11,,,
+UBCV,2014,W,COMM,329,,OVERALL,Principles of Organizational Behaviour,,345,74.8057971,11.09577602,91.0,0.0,,9,,8,25,37,61,82,81,30,
+UBCV,2014,W,COMM,335,,101,Information Systems Technology and Development,William Khoon Lee Tan;William Tan,116,84.39655172,4.811000638,96.0,73.0,0,0,0,0,0,0,1,0,58,34,23
+UBCV,2014,W,COMM,335,,201,Information Systems Technology and Development,Michael Wufka,87,75.88505747,9.216296597,95.0,50.0,0,,,,,12,14,10,24,9,5
+UBCV,2014,W,COMM,335,,OVERALL,Information Systems Technology and Development,,203,80.74876847,8.195684445,96.0,50.0,0,,,,,12,15,10,82,43,28
+UBCV,2014,W,COMM,336,,201,Introduction to e-Business,Ning Nan,26,75.80769231,6.776543253,90.0,60.0,0,0,0,,,,8,7,3,2,
+UBCV,2014,W,COMM,336,,202,Introduction to e-Business,Ning Nan,28,79.60714286,5.499759495,90.0,66.0,0,0,0,0,,,6,4,10,5,
+UBCV,2014,W,COMM,336,,OVERALL,Introduction to e-Business,,54,77.77777778,6.382956867,90.0,60.0,0,0,0,,,,14,11,13,7,
+UBCV,2014,W,COMM,349,,101,Logistics Services Management,David Irwin Farrell;Hanxing Zhang,54,79.37037037,4.691607506,88.0,67.0,0,0,0,0,1.0,1,8,18,16,10,0
+UBCV,2014,W,COMM,349,,201,Logistics Services Management,David Gillen,53,77.96226415,6.997148497,97.0,58.0,0,0,,,,7,4,17,13,7,
+UBCV,2014,W,COMM,349,,OVERALL,Logistics Services Management,,107,78.6728972,5.960207197,97.0,58.0,0,0,,,,8,12,35,29,17,
+UBCV,2014,W,COMM,353,,101,Financial Accounting: Intermediate I,Iugene Ma;Li Zhang,53,76.09433962,7.937893905,89.0,57.0,0,0,,,6,,7,12,12,8,0
+UBCV,2014,W,COMM,353,,102,Financial Accounting: Intermediate I,Li Zhang,53,76.26415094,6.777085099,91.0,60.0,0,0,0,,,7,15,9,12,5,
+UBCV,2014,W,COMM,353,,201,Financial Accounting: Intermediate I,Iugene Ma;Scott Sinclair,44,74.13636364,10.6957738,97.0,50.0,0,,,5,,7,8,,7,,
+UBCV,2014,W,COMM,353,,202,Financial Accounting: Intermediate I,Alexander Bleck,40,77.425,10.43880212,98.0,54.0,0,,,5,,,,10,4,9,
+UBCV,2014,W,COMM,353,,203,Financial Accounting: Intermediate I,Alexander Bleck;Cole Leonoff,41,73.2195122,9.488182637,90.0,56.0,0,0,,7,5,6,,5,9,,
+UBCV,2014,W,COMM,353,,204,Financial Accounting: Intermediate I,Alexander Bleck;Cho Rog Chloe Kim,35,74.17142857,9.687729395,91.0,53.0,0,,,,,5,5,,11,,
+UBCV,2014,W,COMM,353,,OVERALL,Financial Accounting: Intermediate I,,266,75.30827068,9.146753585,98.0,50.0,0,3.0,6,24,21,30,43,42,55,30,12
 UBCV,2014,W,COMM,354,,101,Cost Accounting,Jeff Kroeker,47,72.53191489,11.46232214,95.0,47.0,,,,,7,9,,5,6,,
 UBCV,2014,W,COMM,354,,102,Cost Accounting,Jeff Kroeker,49,71.91836735,10.91603701,90.0,47.0,,,,,,9,5,6,8,,
-UBCV,2014,W,COMM,354,,201,Cost Accounting,Christine Cheung;Jeff Kroeker,43,71.20930233,10.27145406,96.0,50.0,,,,5,,11,,6,6,,
+UBCV,2014,W,COMM,354,,201,Cost Accounting,Christine Cheung;Jeff Kroeker,43,71.20930233,10.27145406,96.0,50.0,0,,,5,,11,,6,6,,
 UBCV,2014,W,COMM,354,,202,Cost Accounting,Clarabel Luk;Jeff Kroeker,45,77.15555556,12.13364136,96.0,40.0,,,,,,,,7,12,5,7
-UBCV,2014,W,COMM,354,,203,Cost Accounting,Matthew Spillman;Sandra Chamberlain,43,74.58139535,9.815518709,96.0,53.0,,,,,7,,5,2,13,,
+UBCV,2014,W,COMM,354,,203,Cost Accounting,Matthew Spillman;Sandra Chamberlain,43,74.58139535,9.815518709,96.0,53.0,0,,,,7,,5,2,13,,
 UBCV,2014,W,COMM,354,,204,Cost Accounting,Matthew Spillman;Sandra Chamberlain,41,74.04878049,10.27849994,91.0,46.0,,,,,,5,6,7,7,,
 UBCV,2014,W,COMM,354,,OVERALL,Cost Accounting,,268,73.54477612,10.94769018,96.0,40.0,5,8,16,18,25,40,27,33,52,22,22
 UBCV,2014,W,COMM,355,,101,Income Taxation,Tran Khue Chung,43,74.04651163,13.36119735,96.0,40.0,,,,,,6,,6,7,7,
-UBCV,2014,W,COMM,355,,102,Income Taxation,Tran Khue Chung,42,78.92857143,10.440056199999999,100.0,57.0,,,,,,5,,,9,9,7
+UBCV,2014,W,COMM,355,,102,Income Taxation,Tran Khue Chung,42,78.92857143,10.4400562,100.0,57.0,0,0,,,,5,,,9,9,7
 UBCV,2014,W,COMM,355,,103,Income Taxation,Tran Khue Chung,42,69.61904762,12.35837305,91.0,40.0,,5,,,,7,5,,9,,
 UBCV,2014,W,COMM,355,,201,Income Taxation,Beini Chen;Tran Khue Chung,40,72.8,11.47840782,97.0,46.0,,,,7,,8,,,8,,
-UBCV,2014,W,COMM,355,,202,Income Taxation,Beini Chen;Tran Khue Chung,40,74.125,10.99694013,93.0,51.0,,,,5,,5,,,11,5,
+UBCV,2014,W,COMM,355,,202,Income Taxation,Beini Chen;Tran Khue Chung,40,74.125,10.99694013,93.0,51.0,0,,,5,,5,,,11,5,
 UBCV,2014,W,COMM,355,,OVERALL,Income Taxation,,207,73.91304348,12.06101696,100.0,40.0,6,10,6,20,15,31,16,16,44,24,19
 UBCV,2014,W,COMM,362,,101,Buyer Behaviour,Yoonji Shim,44,79.29545455,10.96841034,95.0,38.0,,,,,,,,8,15,5,6
-UBCV,2014,W,COMM,362,,102,Buyer Behaviour,Carol Ann Varey,41,79.46341463,4.71750761,88.0,70.0,,,,,,,6,10,17,6,
-UBCV,2014,W,COMM,362,,103,Buyer Behaviour,Carol Ann Varey,43,78.72093023,4.266846619,86.0,68.0,,,,,,,6,13,18,4,
+UBCV,2014,W,COMM,362,,102,Buyer Behaviour,Carol Ann Varey,41,79.46341463,4.71750761,88.0,70.0,0,0,0,0,0,2.0,6,10,17,6,0
+UBCV,2014,W,COMM,362,,103,Buyer Behaviour,Carol Ann Varey,43,78.72093023,4.266846619,86.0,68.0,0,0,0,0,0,2.0,6,13,18,4,0
 UBCV,2014,W,COMM,362,,201,Buyer Behaviour,Cluny Serenella South;Cluny South,35,75.82857143,10.94501153,91.0,45.0,,,,,,6,,4,5,9,
 UBCV,2014,W,COMM,362,,202,Buyer Behaviour,David Hardisty,44,76.5,8.955964623,94.0,47.0,,,,,,,5,14,11,5,
-UBCV,2014,W,COMM,362,,203,Buyer Behaviour,David Hardisty,44,78.84090909,6.668018714,91.0,61.0,,,,,,,8,10,10,10,
+UBCV,2014,W,COMM,362,,203,Buyer Behaviour,David Hardisty,44,78.84090909,6.668018714,91.0,61.0,0,0,0,,,,8,10,10,10,
 UBCV,2014,W,COMM,362,,OVERALL,Buyer Behaviour,,251,78.17131474,8.181352814,95.0,38.0,,,6,,6,17,32,59,76,39,9
-UBCV,2014,W,COMM,363,,101,Marketing Analysis,Zahra Ladha,44,75.52272727,5.363479591,86.0,58.0,,,,,,6,14,13,8,,
-UBCV,2014,W,COMM,363,,102,Marketing Analysis,Zahra Ladha,42,75.69047619,4.140743983999999,84.0,64.0,,,,,,,12,20,4,,
-UBCV,2014,W,COMM,363,,201,Marketing Analysis,Kirk Jason Kristofferson;Kirk Kristofferson,33,77.24242424,4.743616125,87.0,68.0,,,,,,,12,9,7,,
-UBCV,2014,W,COMM,363,,202,Marketing Analysis,Kirk Jason Kristofferson;Kirk Kristofferson,39,78.48717949,3.82424258,85.0,68.0,,,,,,,9,9,17,,
-UBCV,2014,W,COMM,363,,203,Marketing Analysis,Elaine Williamson,31,74.80645161,5.369167253,84.0,58.0,,,,,,5,9,9,6,,
-UBCV,2014,W,COMM,363,,204,Marketing Analysis,Elaine Williamson,39,76.64102564,5.218828158,88.0,63.0,,,,,,,10,10,13,,
-UBCV,2014,W,COMM,363,,OVERALL,Marketing Analysis,,228,76.40350877,4.897575231,88.0,58.0,,,,,6,18,66,70,55,10,
-UBCV,2014,W,COMM,365,,101,Market Research,Chunhua Wu,44,74.09090909,8.711975671,90.0,55.0,,,,,10,,8,6,8,6,
-UBCV,2014,W,COMM,365,,102,Market Research,Chunhua Wu,44,77.59090909,6.786848368999999,91.0,66.0,,,,,,6,11,10,6,5,5
-UBCV,2014,W,COMM,365,,103,Market Research,Chunhua Wu,44,77.02272727,6.848828236,90.0,55.0,,,,,,,8,11,13,5,
-UBCV,2014,W,COMM,365,,201,Market Research,Sina Ghotbi,39,76.38461539,8.225811061,95.0,54.0,,,,,,6,4,10,9,3,
-UBCV,2014,W,COMM,365,,202,Market Research,Sina Ghotbi,44,78.0,6.205773756,90.0,65.0,,,,,,,10,11,9,8,
-UBCV,2014,W,COMM,365,,OVERALL,Market Research,,215,76.62325581,7.4584467960000005,95.0,54.0,,,,,18,19,41,48,45,27,10
-UBCV,2014,W,COMM,370,,101,Corporate Finance,Ruth Freedman,43,77.51162791,8.53388789,95.0,54.0,,,,,,,10,7,9,5,
+UBCV,2014,W,COMM,363,,101,Marketing Analysis,Zahra Ladha,44,75.52272727,5.363479591,86.0,58.0,0,0,,,,6,14,13,8,,0
+UBCV,2014,W,COMM,363,,102,Marketing Analysis,Zahra Ladha,42,75.69047619,4.140743984,84.0,64.0,0,0,0,0,,,12,20,4,0,0
+UBCV,2014,W,COMM,363,,201,Marketing Analysis,Kirk Jason Kristofferson;Kirk Kristofferson,33,77.24242424,4.743616125,87.0,68.0,0,0,0,0,0,,12,9,7,,0
+UBCV,2014,W,COMM,363,,202,Marketing Analysis,Kirk Jason Kristofferson;Kirk Kristofferson,39,78.48717949,3.82424258,85.0,68.0,0,0,0,0,0,,9,9,17,,0
+UBCV,2014,W,COMM,363,,203,Marketing Analysis,Elaine Williamson,31,74.80645161,5.369167253,84.0,58.0,0,0,,,,5,9,9,6,0,0
+UBCV,2014,W,COMM,363,,204,Marketing Analysis,Elaine Williamson,39,76.64102564,5.218828158,88.0,63.0,0,0,0,,,,10,10,13,,0
+UBCV,2014,W,COMM,363,,OVERALL,Marketing Analysis,,228,76.40350877,4.897575231,88.0,58.0,0,0,,,6,18,66,70,55,10,0
+UBCV,2014,W,COMM,365,,101,Market Research,Chunhua Wu,44,74.09090909,8.711975671,90.0,55.0,0,0,,,10,,8,6,8,6,
+UBCV,2014,W,COMM,365,,102,Market Research,Chunhua Wu,44,77.59090909,6.786848369,91.0,66.0,0,0,0,0,1.0,6,11,10,6,5,5
+UBCV,2014,W,COMM,365,,103,Market Research,Chunhua Wu,44,77.02272727,6.848828236,90.0,55.0,0,0,,,,,8,11,13,5,
+UBCV,2014,W,COMM,365,,201,Market Research,Sina Ghotbi,39,76.38461539,8.225811061,95.0,54.0,0,,,,,6,4,10,9,3,
+UBCV,2014,W,COMM,365,,202,Market Research,Sina Ghotbi,44,78.0,6.205773756,90.0,65.0,0,0,0,0,,,10,11,9,8,
+UBCV,2014,W,COMM,365,,OVERALL,Market Research,,215,76.62325581,7.458446796,95.0,54.0,0,,,,18,19,41,48,45,27,10
+UBCV,2014,W,COMM,370,,101,Corporate Finance,Ruth Freedman,43,77.51162791,8.53388789,95.0,54.0,0,,,,,,10,7,9,5,
 UBCV,2014,W,COMM,370,,102,Corporate Finance,Ruth Freedman,46,78.13043478,10.04569271,92.0,39.0,,,,,,,5,8,13,11,
-UBCV,2014,W,COMM,370,,103,Corporate Finance,Thomas Gilbert,47,79.42553192,6.388660746,97.0,67.0,,,,,,,8,15,11,7,
-UBCV,2014,W,COMM,370,,104,Corporate Finance,Eleni Simintzi,45,78.84444444,9.057783081,97.0,60.0,,,,,,6,8,7,6,10,5
-UBCV,2014,W,COMM,370,,105,Corporate Finance,Eleni Simintzi,45,74.46666667,11.96700008,98.0,50.0,,,,8,,10,,,10,,5
-UBCV,2014,W,COMM,370,,106,Corporate Finance,Eleni Simintzi,41,71.02439024,8.359090276,92.0,60.0,,,,8,5,10,7,,5,,
+UBCV,2014,W,COMM,370,,103,Corporate Finance,Thomas Gilbert,47,79.42553192,6.388660746,97.0,67.0,0,0,0,0,,,8,15,11,7,
+UBCV,2014,W,COMM,370,,104,Corporate Finance,Eleni Simintzi,45,78.84444444,9.057783081,97.0,60.0,0,0,0,,,6,8,7,6,10,5
+UBCV,2014,W,COMM,370,,105,Corporate Finance,Eleni Simintzi,45,74.46666667,11.96700008,98.0,50.0,0,,,8,,10,,,10,,5
+UBCV,2014,W,COMM,370,,106,Corporate Finance,Eleni Simintzi,41,71.02439024,8.359090276,92.0,60.0,0,0,0,8,5,10,7,,5,,
 UBCV,2014,W,COMM,370,,107,Corporate Finance,Ruth Freedman,43,76.39534884,9.401467806,91.0,46.0,,,,,,,13,5,9,8,
-UBCV,2014,W,COMM,370,,108,Corporate Finance,Thomas Gilbert,46,79.10869565,6.922518042,90.0,63.0,,,,,,5,5,7,16,9,
-UBCV,2014,W,COMM,370,,109,Corporate Finance,Thomas Gilbert,45,78.4,6.379655163,92.0,55.0,,,,,,5,6,13,14,,
-UBCV,2014,W,COMM,370,,110,Corporate Finance,Thomas Gilbert,40,77.85,7.770918832,90.0,62.0,,,,,5,,,6,14,5,
+UBCV,2014,W,COMM,370,,108,Corporate Finance,Thomas Gilbert,46,79.10869565,6.922518042,90.0,63.0,0,0,0,,,5,5,7,16,9,
+UBCV,2014,W,COMM,370,,109,Corporate Finance,Thomas Gilbert,45,78.4,6.379655163,92.0,55.0,0,0,,,,5,6,13,14,,
+UBCV,2014,W,COMM,370,,110,Corporate Finance,Thomas Gilbert,40,77.85,7.770918832,90.0,62.0,0,0,0,,5,,,6,14,5,
 UBCV,2014,W,COMM,370,,201,Corporate Finance,Hernan Ortiz Molina,40,73.15,16.21260984,99.0,33.0,,,,,,,,,9,6,5
 UBCV,2014,W,COMM,370,,202,Corporate Finance,Hernan Ortiz Molina,38,71.0,14.74650669,98.0,44.0,,,,,5,,5,,5,,5
 UBCV,2014,W,COMM,370,,OVERALL,Corporate Finance,,519,76.41811175,10.29209219,99.0,33.0,7,11,9,30,29,55,75,74,121,72,36
-UBCV,2014,W,COMM,371,,101,Investment Theory,Georgios Skoulakis,42,80.21428571,8.458033313,95.0,59.0,,,,,,,,14,7,5,8
-UBCV,2014,W,COMM,371,,102,Investment Theory,Charles Martineau,44,82.34090909,8.975271407000001,95.0,50.0,,,,,,,6,8,5,8,15
-UBCV,2014,W,COMM,371,,103,Investment Theory,Elena Pikulina,44,79.81818182,10.04703526,94.0,57.0,,,,,,6,5,5,,10,10
-UBCV,2014,W,COMM,371,,104,Investment Theory,Elena Pikulina,42,82.21428571,6.490276833999999,94.0,64.0,,,,,,,,6,17,9,6
-UBCV,2014,W,COMM,371,,105,Investment Theory,Elena Pikulina,44,79.5,9.279885725,93.0,50.0,,,,,,6,,6,14,10,3
-UBCV,2014,W,COMM,371,,106,Investment Theory,Georgios Skoulakis,44,79.11363636,9.135201298,93.0,52.0,,,,,,,6,10,,11,6
-UBCV,2014,W,COMM,371,,107,Investment Theory,Georgios Skoulakis,46,79.41304348,8.037622885,93.0,52.0,,,,,,,5,10,11,8,5
-UBCV,2014,W,COMM,371,,OVERALL,Investment Theory,,306,80.35620915,8.709552548,95.0,50.0,,5,,,13,22,27,59,61,61,53
-UBCV,2014,W,COMM,374,,201,Applied Financial Markets,Carolin Pflueger;Jack Favilukis,45,77.84444444,8.46102174,86.0,31.0,,,,,,,7,8,22,,
-UBCV,2014,W,COMM,374,,202,Applied Financial Markets,Carolin Pflueger;Jack Favilukis,44,76.72727273,12.28037504,88.0,26.0,,,,,,,,2,20,9,
-UBCV,2014,W,COMM,374,,203,Applied Financial Markets,Carolin Pflueger;Jack Favilukis,43,77.97674419,10.48238516,88.0,21.0,,,,,,,6,7,19,7,
-UBCV,2014,W,COMM,374,,204,Applied Financial Markets,Carolin Pflueger;Jack Favilukis,45,78.86666667,5.570212988,91.0,63.0,,,,,,,6,12,17,,
-UBCV,2014,W,COMM,374,,205,Applied Financial Markets,Ercos Emanuel Eduardo Valdivieso Contreras;Ercos Valdivieso Contreras,45,78.75555556,4.705681071,88.0,70.0,,,,,,,11,9,18,5,
-UBCV,2014,W,COMM,374,,206,Applied Financial Markets,Ercos Emanuel Eduardo Valdivieso Contreras;Ercos Valdivieso Contreras,44,81.59090909,4.0018494669999995,90.0,74.0,,,,,,,,11,21,8,
+UBCV,2014,W,COMM,371,,101,Investment Theory,Georgios Skoulakis,42,80.21428571,8.458033313,95.0,59.0,0,0,,,,,,14,7,5,8
+UBCV,2014,W,COMM,371,,102,Investment Theory,Charles Martineau,44,82.34090909,8.975271407,95.0,50.0,0,,,,,,6,8,5,8,15
+UBCV,2014,W,COMM,371,,103,Investment Theory,Elena Pikulina,44,79.81818182,10.04703526,94.0,57.0,0,0,,,,6,5,5,,10,10
+UBCV,2014,W,COMM,371,,104,Investment Theory,Elena Pikulina,42,82.21428571,6.490276834,94.0,64.0,0,0,0,0,,,,6,17,9,6
+UBCV,2014,W,COMM,371,,105,Investment Theory,Elena Pikulina,44,79.5,9.279885725,93.0,50.0,0,,,,,6,,6,14,10,3
+UBCV,2014,W,COMM,371,,106,Investment Theory,Georgios Skoulakis,44,79.11363636,9.135201298,93.0,52.0,0,,,,,,6,10,,11,6
+UBCV,2014,W,COMM,371,,107,Investment Theory,Georgios Skoulakis,46,79.41304348,8.037622885,93.0,52.0,0,,,,,,5,10,11,8,5
+UBCV,2014,W,COMM,371,,OVERALL,Investment Theory,,306,80.35620915,8.709552548,95.0,50.0,0,5,,,13,22,27,59,61,61,53
+UBCV,2014,W,COMM,374,,201,Applied Financial Markets,Carolin Pflueger;Jack Favilukis,45,77.84444444,8.46102174,86.0,31.0,,,,,,,7,8,22,,0
+UBCV,2014,W,COMM,374,,202,Applied Financial Markets,Carolin Pflueger;Jack Favilukis,44,76.72727273,12.28037504,88.0,26.0,,,,,,,,2,20,9,0
+UBCV,2014,W,COMM,374,,203,Applied Financial Markets,Carolin Pflueger;Jack Favilukis,43,77.97674419,10.48238516,88.0,21.0,,,,,,,6,7,19,7,0
+UBCV,2014,W,COMM,374,,204,Applied Financial Markets,Carolin Pflueger;Jack Favilukis,45,78.86666667,5.570212988,91.0,63.0,0,0,0,,,,6,12,17,,
+UBCV,2014,W,COMM,374,,205,Applied Financial Markets,Ercos Emanuel Eduardo Valdivieso Contreras;Ercos Valdivieso Contreras,45,78.75555556,4.705681071,88.0,70.0,0,0,0,0,0,2.0,11,9,18,5,0
+UBCV,2014,W,COMM,374,,206,Applied Financial Markets,Ercos Emanuel Eduardo Valdivieso Contreras;Ercos Valdivieso Contreras,44,81.59090909,4.001849467,90.0,74.0,0,0,0,0,0,0,,11,21,8,
 UBCV,2014,W,COMM,374,,OVERALL,Applied Financial Markets,,266,78.62781955,8.212313382,91.0,21.0,,,,,,12,36,49,117,37,
-UBCV,2014,W,COMM,377,,101,International Financial Markets and Institutions,Ali Lazrak,42,74.42857143,6.886334496,88.0,57.0,,,,,,9,9,7,8,4,
-UBCV,2014,W,COMM,377,,102,International Financial Markets and Institutions,Ali Lazrak,42,77.83333333,8.165712571,94.0,64.0,,,,,5,5,6,7,7,6,6
-UBCV,2014,W,COMM,377,,201,International Financial Markets and Institutions,Farid Novin,31,84.67741936,5.793025097999999,98.0,77.0,,,,,,,,5,14,6,6
-UBCV,2014,W,COMM,377,,202,International Financial Markets and Institutions,Farid Novin,26,85.84615385,5.394013776,96.0,70.0,,,,,,,,1,5,15,
-UBCV,2014,W,COMM,377,,OVERALL,International Financial Markets and Institutions,,141,79.80141844,8.226455458,98.0,57.0,,,,,8,15,15,20,34,31,16
+UBCV,2014,W,COMM,377,,101,International Financial Markets and Institutions,Ali Lazrak,42,74.42857143,6.886334496,88.0,57.0,0,0,,,3,9,9,7,8,4,0
+UBCV,2014,W,COMM,377,,102,International Financial Markets and Institutions,Ali Lazrak,42,77.83333333,8.165712571,94.0,64.0,0,0,0,0,5,5,6,7,7,6,6
+UBCV,2014,W,COMM,377,,201,International Financial Markets and Institutions,Farid Novin,31,84.67741936,5.793025098,98.0,77.0,0,0,0,0,0,0,0,5,14,6,6
+UBCV,2014,W,COMM,377,,202,International Financial Markets and Institutions,Farid Novin,26,85.84615385,5.394013776,96.0,70.0,0,0,0,0,0,1,0,1,5,15,4
+UBCV,2014,W,COMM,377,,OVERALL,International Financial Markets and Institutions,,141,79.80141844,8.226455458,98.0,57.0,0,0,,,8,15,15,20,34,31,16
 UBCV,2014,W,COMM,382,,201,Economics of Entrepreneurship and Innovation,Steven Minns,35,75.82857143,14.64177286,91.0,0.0,,,,,,,,7,12,,
 UBCV,2014,W,COMM,382,,OVERALL,Economics of Entrepreneurship and Innovation,,35,75.82857143,14.64177286,91.0,0.0,,,,,,,,7,12,,
-UBCV,2014,W,COMM,386,A,201,Topics in Business III,David Silver,7,79.42857143,4.755948656,87.0,73.0,,,,,,,,,,,
-UBCV,2014,W,COMM,386,A,OVERALL,Topics in Business III,,7,79.42857143,4.755948656,87.0,73.0,,,,,,,,,,,
-UBCV,2014,W,COMM,386,B,201,Topics in Business III,Amie Wolf,8,84.875,2.100170061,87.0,80.0,,,,,,,,,,7,
-UBCV,2014,W,COMM,386,B,OVERALL,Topics in Business III,,8,84.875,2.100170061,87.0,80.0,,,,,,,,,,7,
-UBCV,2014,W,COMM,387,,201,Entrepreneurial Finance,Dan Hieu Vo,42,81.90476191,8.900012397000001,94.0,51.0,,,,,,,,,12,11,8
-UBCV,2014,W,COMM,387,,OVERALL,Entrepreneurial Finance,,42,81.90476191,8.900012397000001,94.0,51.0,,,,,,,,,12,11,8
-UBCV,2014,W,COMM,388,,101,Design Strategies for Business Innovation: Studio Practice,Angele Beausoleil;Moura Quayle,28,81.0,5.702501076,87.0,62.0,,,,,,,,7,10,8,
-UBCV,2014,W,COMM,388,,102,Design Strategies for Business Innovation: Studio Practice,Moura Quayle,28,82.07142857,3.579039509,88.0,76.0,,,,,,,,9,11,8,
-UBCV,2014,W,COMM,388,,201,Design Strategies for Business Innovation: Studio Practice,Dharini Thiruchittampalam;Moura Quayle,22,82.90909091,4.917501213,91.0,75.0,,,,,,,,,8,7,
-UBCV,2014,W,COMM,388,,202,Design Strategies for Business Innovation: Studio Practice,Moura Quayle;Patrick Edgar Michael Pennefather;Patrick Pennefather,29,86.10344828,3.696956544,92.0,81.0,,,,,,,,,11,12,6
-UBCV,2014,W,COMM,388,,OVERALL,Design Strategies for Business Innovation: Studio Practice,,107,83.05607477,4.885156137,92.0,62.0,,,,,,,,20,40,35,8
-UBCV,2014,W,COMM,389,,101,Creativity in Business,James Southcott,40,81.525,5.05349587,94.0,70.0,,,,,,,,11,15,8,
-UBCV,2014,W,COMM,389,,OVERALL,Creativity in Business,,40,81.525,5.05349587,94.0,70.0,,,,,,,,11,15,8,
-UBCV,2014,W,COMM,390,,101,Business Writing,Barbara Duzy,20,76.4,5.205260497,85.0,65.0,,,,,,,7,,6,,
-UBCV,2014,W,COMM,390,,102,Business Writing,Cameron Morrell,20,73.4,8.369116157999999,83.0,53.0,,,,,,,,5,6,,
-UBCV,2014,W,COMM,390,,103,Business Writing,Cameron Morrell,20,75.65,8.474574978,85.0,52.0,,,,,,,,,6,,
-UBCV,2014,W,COMM,390,,104,Business Writing,Elizabeth Bowker,20,77.05,5.71678047,83.0,61.0,,,,,,,,8,8,,
-UBCV,2014,W,COMM,390,,105,Business Writing,Elizabeth Bowker,20,78.15,4.891184336,90.0,68.0,,,,,,,,7,7,,
-UBCV,2014,W,COMM,390,,106,Business Writing,Duncan Kent,20,79.55,4.18612998,86.0,73.0,,,,,,,,6,6,,
-UBCV,2014,W,COMM,390,,107,Business Writing,Duncan Kent,20,77.35,3.513507769,84.0,72.0,,,,,,,6,9,5,,
-UBCV,2014,W,COMM,390,,108,Business Writing,Brian Sutherland,20,77.65,2.852053738,81.0,72.0,,,,,,,5,6,9,,
-UBCV,2014,W,COMM,390,,109,Business Writing,Barbara Duzy,19,79.42105263,4.857019998999999,85.0,71.0,,,,,,,,,8,,
-UBCV,2014,W,COMM,390,,110,Business Writing,Brian Sutherland,20,76.7,4.856899596,82.0,61.0,,,,,,,,8,7,,
-UBCV,2014,W,COMM,390,,111,Business Writing,Brenda Jones,21,78.33333333,5.160749299999999,86.0,67.0,,,,,,,5,,8,,
-UBCV,2014,W,COMM,390,,112,Business Writing,Brenda Jones,20,76.35,4.7047008969999995,85.0,66.0,,,,,,,6,7,,,
-UBCV,2014,W,COMM,390,,113,Business Writing,Elizabeth Bowker,20,76.5,6.793960166000001,87.0,63.0,,,,,,,,5,,,
-UBCV,2014,W,COMM,390,,114,Business Writing,Elizabeth Bowker,20,77.35,6.310183916000001,87.0,65.0,,,,,,,,6,6,,
-UBCV,2014,W,COMM,390,,115,Business Writing,Brian Sutherland,20,76.85,2.53968502,80.0,71.0,,,,,,,,12,,,
+UBCV,2014,W,COMM,386,A,201,Topics in Business III,David Silver,7,79.42857143,4.755948656,87.0,73.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,W,COMM,386,A,OVERALL,Topics in Business III,,7,79.42857143,4.755948656,87.0,73.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,W,COMM,386,B,201,Topics in Business III,Amie Wolf,8,84.875,2.100170061,87.0,80.0,0,0,0,0,0,0,0,0,1.0,7,0
+UBCV,2014,W,COMM,386,B,OVERALL,Topics in Business III,,8,84.875,2.100170061,87.0,80.0,0,0,0,0,0,0,0,0,1.0,7,0
+UBCV,2014,W,COMM,387,,201,Entrepreneurial Finance,Dan Hieu Vo,42,81.90476191,8.900012397,94.0,51.0,0,,,,,,,,12,11,8
+UBCV,2014,W,COMM,387,,OVERALL,Entrepreneurial Finance,,42,81.90476191,8.900012397,94.0,51.0,0,,,,,,,,12,11,8
+UBCV,2014,W,COMM,388,,101,Design Strategies for Business Innovation: Studio Practice,Angele Beausoleil;Moura Quayle,28,81.0,5.702501076,87.0,62.0,0,0,0,,,,,7,10,8,0
+UBCV,2014,W,COMM,388,,102,Design Strategies for Business Innovation: Studio Practice,Moura Quayle,28,82.07142857,3.579039509,88.0,76.0,0,0,0,0,0,0,0,9,11,8,0
+UBCV,2014,W,COMM,388,,201,Design Strategies for Business Innovation: Studio Practice,Dharini Thiruchittampalam;Moura Quayle,22,82.90909091,4.917501213,91.0,75.0,0,0,0,0,0,0,1.0,4,8,7,2
+UBCV,2014,W,COMM,388,,202,Design Strategies for Business Innovation: Studio Practice,Moura Quayle;Patrick Edgar Michael Pennefather;Patrick Pennefather,29,86.10344828,3.696956544,92.0,81.0,0,0,0,0,0,0,0,0,11,12,6
+UBCV,2014,W,COMM,388,,OVERALL,Design Strategies for Business Innovation: Studio Practice,,107,83.05607477,4.885156137,92.0,62.0,0,0,0,,,,,20,40,35,8
+UBCV,2014,W,COMM,389,,101,Creativity in Business,James Southcott,40,81.525,5.05349587,94.0,70.0,0,0,0,0,0,,,11,15,8,
+UBCV,2014,W,COMM,389,,OVERALL,Creativity in Business,,40,81.525,5.05349587,94.0,70.0,0,0,0,0,0,,,11,15,8,
+UBCV,2014,W,COMM,390,,101,Business Writing,Barbara Duzy,20,76.4,5.205260497,85.0,65.0,0,0,0,0,,,7,,6,,0
+UBCV,2014,W,COMM,390,,102,Business Writing,Cameron Morrell,20,73.4,8.369116158,83.0,53.0,0,,,,,,,5,6,0,0
+UBCV,2014,W,COMM,390,,103,Business Writing,Cameron Morrell,20,75.65,8.474574978,85.0,52.0,0,,,,,,,,6,,0
+UBCV,2014,W,COMM,390,,104,Business Writing,Elizabeth Bowker,20,77.05,5.71678047,83.0,61.0,0,0,0,,,,,8,8,0,0
+UBCV,2014,W,COMM,390,,105,Business Writing,Elizabeth Bowker,20,78.15,4.891184336,90.0,68.0,0,0,0,0,0,,,7,7,,
+UBCV,2014,W,COMM,390,,106,Business Writing,Duncan Kent,20,79.55,4.18612998,86.0,73.0,0,0,0,0,0,0,,6,6,,0
+UBCV,2014,W,COMM,390,,107,Business Writing,Duncan Kent,20,77.35,3.513507769,84.0,72.0,0,0,0,0,0,0,6,9,5,0,0
+UBCV,2014,W,COMM,390,,108,Business Writing,Brian Sutherland,20,77.65,2.852053738,81.0,72.0,0,0,0,0,0,0,5,6,9,0,0
+UBCV,2014,W,COMM,390,,109,Business Writing,Barbara Duzy,19,79.42105263,4.857019999,85.0,71.0,0,0,0,0,0,,,,8,,0
+UBCV,2014,W,COMM,390,,110,Business Writing,Brian Sutherland,20,76.7,4.856899596,82.0,61.0,0,0,0,,,,,8,7,0,0
+UBCV,2014,W,COMM,390,,111,Business Writing,Brenda Jones,21,78.33333333,5.1607493,86.0,67.0,0,0,0,0,,,5,,8,,0
+UBCV,2014,W,COMM,390,,112,Business Writing,Brenda Jones,20,76.35,4.704700897,85.0,66.0,0,0,0,0,,,6,7,,,0
+UBCV,2014,W,COMM,390,,113,Business Writing,Elizabeth Bowker,20,76.5,6.793960166,87.0,63.0,0,0,0,,,,,5,,,0
+UBCV,2014,W,COMM,390,,114,Business Writing,Elizabeth Bowker,20,77.35,6.310183916,87.0,65.0,0,0,0,0,,,,6,6,,0
+UBCV,2014,W,COMM,390,,115,Business Writing,Brian Sutherland,20,76.85,2.53968502,80.0,71.0,0,0,0,0,0,,,12,,0,0
 UBCV,2014,W,COMM,390,,116,Business Writing,Danielle Levine;Elizabeth Bowker,24,76.875,18.68110531,97.0,0.0,,,,,,,,,7,,
-UBCV,2014,W,COMM,390,,117,Business Writing,Danielle Levine;Elizabeth Bowker,24,80.29166667,8.169291207999999,98.0,63.0,,,,,,,,,7,,
-UBCV,2014,W,COMM,390,,118,Business Writing,Brian Sutherland,20,77.5,2.523573073,81.0,72.0,,,,,,,,10,6,,
-UBCV,2014,W,COMM,390,,119,Business Writing,Barbara Duzy,20,75.15,6.737756928,86.0,54.0,,,,,,,9,5,,,
-UBCV,2014,W,COMM,390,,120,Business Writing,Brian Sutherland,19,75.84210526,3.933660409,80.0,69.0,,,,,,,5,5,6,,
-UBCV,2014,W,COMM,390,,121,Business Writing,Brenda Jones,20,74.95,4.914800419,86.0,66.0,,,,,,,,7,,,
-UBCV,2014,W,COMM,390,,201,Business Writing,Cameron Morrell,16,73.6875,5.173248496,80.0,62.0,,,,,,,,5,,,
-UBCV,2014,W,COMM,390,,202,Business Writing,Cameron Morrell,20,72.65,11.85116028,84.0,28.0,,,,,,,5,6,,,
-UBCV,2014,W,COMM,390,,203,Business Writing,Barbara Duzy,20,75.75,7.454246405,82.0,48.0,,,,,,,,7,7,,
-UBCV,2014,W,COMM,390,,204,Business Writing,Duncan Kent,20,78.65,4.614336926,87.0,68.0,,,,,,,5,5,6,,
-UBCV,2014,W,COMM,390,,205,Business Writing,Duncan Kent,18,77.27777778,5.377573862999999,86.0,69.0,,,,,,,,5,5,,
-UBCV,2014,W,COMM,390,,206,Business Writing,Barbara Duzy,17,75.29411765,7.113057587,82.0,54.0,,,,,,,,,7,,
-UBCV,2014,W,COMM,390,,207,Business Writing,Frederick Fajardo,20,76.4,5.39395373,83.0,60.0,,,,,,,,7,7,,
-UBCV,2014,W,COMM,390,,208,Business Writing,Frederick Fajardo,20,76.15,5.314082582,82.0,64.0,,,,,,,,5,8,,
-UBCV,2014,W,COMM,390,,209,Business Writing,Brian Sutherland,20,77.7,2.1545545390000003,83.0,73.0,,,,,,,,14,5,,
-UBCV,2014,W,COMM,390,,210,Business Writing,Elizabeth Bowker,17,74.17647059,9.677520951,90.0,53.0,,,,,,,,,6,,
-UBCV,2014,W,COMM,390,,211,Business Writing,Elizabeth Bowker,19,76.36842105,8.145963733,90.0,54.0,,,,,,,5,,6,,
-UBCV,2014,W,COMM,390,,212,Business Writing,Barbara Duzy,20,75.45,5.986607861,85.0,65.0,,,,,,6,,5,,,
-UBCV,2014,W,COMM,390,,213,Business Writing,Barbara Duzy,18,76.44444444,3.988545691,83.0,68.0,,,,,,,,7,5,,
-UBCV,2014,W,COMM,390,,214,Business Writing,Brenda Jones,20,76.4,3.871624166,85.0,70.0,,,,,,,9,6,,,
-UBCV,2014,W,COMM,390,,215,Business Writing,Elizabeth Bowker,19,77.63157895,6.516735092,90.0,65.0,,,,,,,,,5,,
-UBCV,2014,W,COMM,390,,216,Business Writing,Elizabeth Bowker,17,73.70588235,10.23941347,86.0,45.0,,,,,,,,,6,,
-UBCV,2014,W,COMM,390,,217,Business Writing,Brenda Jones,15,77.66666667,5.863527298999999,90.0,64.0,,,,,,,,,5,,
-UBCV,2014,W,COMM,390,,218,Business Writing,Brian Sutherland,18,78.61111111,2.004080804,82.0,74.0,,,,,,,,8,9,,
-UBCV,2014,W,COMM,390,,219,Business Writing,Brian Sutherland,20,77.3,2.7928480089999996,81.0,72.0,,,,,,,,10,6,,
-UBCV,2014,W,COMM,390,,220,Business Writing,Brian Sutherland,18,78.05555556,2.2873622680000003,81.0,72.0,,,,,,,,9,8,,
-UBCV,2014,W,COMM,390,,221,Business Writing,Brian Sutherland,21,77.09523809999999,4.241518147,82.0,62.0,,,,,,,,11,7,,
+UBCV,2014,W,COMM,390,,117,Business Writing,Danielle Levine;Elizabeth Bowker,24,80.29166667,8.169291208,98.0,63.0,0,0,0,,,,,,7,,
+UBCV,2014,W,COMM,390,,118,Business Writing,Brian Sutherland,20,77.5,2.523573073,81.0,72.0,0,0,0,0,0,0,4.0,10,6,0,0
+UBCV,2014,W,COMM,390,,119,Business Writing,Barbara Duzy,20,75.15,6.737756928,86.0,54.0,0,,,,,,9,5,,,0
+UBCV,2014,W,COMM,390,,120,Business Writing,Brian Sutherland,19,75.84210526,3.933660409,80.0,69.0,0,0,0,0,0,3.0,5,5,6,0,0
+UBCV,2014,W,COMM,390,,121,Business Writing,Brenda Jones,20,74.95,4.914800419,86.0,66.0,0,0,0,0,,,,7,,,0
+UBCV,2014,W,COMM,390,,201,Business Writing,Cameron Morrell,16,73.6875,5.173248496,80.0,62.0,0,0,0,,,,,5,,0,0
+UBCV,2014,W,COMM,390,,202,Business Writing,Cameron Morrell,20,72.65,11.85116028,84.0,28.0,,,,,,,5,6,,0,0
+UBCV,2014,W,COMM,390,,203,Business Writing,Barbara Duzy,20,75.75,7.454246405,82.0,48.0,,,,,,,,7,7,0,0
+UBCV,2014,W,COMM,390,,204,Business Writing,Duncan Kent,20,78.65,4.614336926,87.0,68.0,0,0,0,0,0,,5,5,6,,0
+UBCV,2014,W,COMM,390,,205,Business Writing,Duncan Kent,18,77.27777778,5.377573863,86.0,69.0,0,0,0,0,0,,,5,5,,0
+UBCV,2014,W,COMM,390,,206,Business Writing,Barbara Duzy,17,75.29411765,7.113057587,82.0,54.0,0,,,,,,,,7,0,0
+UBCV,2014,W,COMM,390,,207,Business Writing,Frederick Fajardo,20,76.4,5.39395373,83.0,60.0,0,0,0,,,,,7,7,0,0
+UBCV,2014,W,COMM,390,,208,Business Writing,Frederick Fajardo,20,76.15,5.314082582,82.0,64.0,0,0,0,0,,,,5,8,0,0
+UBCV,2014,W,COMM,390,,209,Business Writing,Brian Sutherland,20,77.7,2.154554539,83.0,73.0,0,0,0,0,0,0,1.0,14,5,0,0
+UBCV,2014,W,COMM,390,,210,Business Writing,Elizabeth Bowker,17,74.17647059,9.677520951,90.0,53.0,0,,,,,,,,6,,
+UBCV,2014,W,COMM,390,,211,Business Writing,Elizabeth Bowker,19,76.36842105,8.145963733,90.0,54.0,0,,,,,,5,,6,,
+UBCV,2014,W,COMM,390,,212,Business Writing,Barbara Duzy,20,75.45,5.986607861,85.0,65.0,0,0,0,0,,6,,5,,,0
+UBCV,2014,W,COMM,390,,213,Business Writing,Barbara Duzy,18,76.44444444,3.988545691,83.0,68.0,0,0,0,0,0,,,7,5,0,0
+UBCV,2014,W,COMM,390,,214,Business Writing,Brenda Jones,20,76.4,3.871624166,85.0,70.0,0,0,0,0,0,,9,6,,,0
+UBCV,2014,W,COMM,390,,215,Business Writing,Elizabeth Bowker,19,77.63157895,6.516735092,90.0,65.0,0,0,0,0,,,,,5,,
+UBCV,2014,W,COMM,390,,216,Business Writing,Elizabeth Bowker,17,73.70588235,10.23941347,86.0,45.0,,,,,,,,,6,,0
+UBCV,2014,W,COMM,390,,217,Business Writing,Brenda Jones,15,77.66666667,5.863527299,90.0,64.0,0,0,0,0,,,,,5,,
+UBCV,2014,W,COMM,390,,218,Business Writing,Brian Sutherland,18,78.61111111,2.004080804,82.0,74.0,0,0,0,0,0,0,1.0,8,9,0,0
+UBCV,2014,W,COMM,390,,219,Business Writing,Brian Sutherland,20,77.3,2.792848009,81.0,72.0,0,0,0,0,0,0,4.0,10,6,0,0
+UBCV,2014,W,COMM,390,,220,Business Writing,Brian Sutherland,18,78.05555556,2.287362268,81.0,72.0,0,0,0,0,0,0,1.0,9,8,0,0
+UBCV,2014,W,COMM,390,,221,Business Writing,Brian Sutherland,21,77.0952381,4.241518147,82.0,62.0,0,0,0,,,,,11,7,0,0
 UBCV,2014,W,COMM,390,,OVERALL,Business Writing,,820,76.70365854,6.685046917,98.0,0.0,,6,,13,29,62,151,252,244,45,13
-UBCV,2014,W,COMM,391,,101,Introduction to Management Information Systems,Yau Man Cheung,122,77.26229508,6.2228627770000005,94.0,56.0,,,,,,13,18,37,34,11,4
-UBCV,2014,W,COMM,391,,102,Introduction to Management Information Systems,Yau Man Cheung,122,81.25409836,6.067882492000001,93.0,60.0,,,,,,5,7,22,41,34,11
-UBCV,2014,W,COMM,391,,103,Introduction to Management Information Systems,Yau Man Cheung,124,78.98387097,5.493505213,91.0,64.0,,,,,,6,17,43,33,18,6
+UBCV,2014,W,COMM,391,,101,Introduction to Management Information Systems,Yau Man Cheung,122,77.26229508,6.222862777,94.0,56.0,0,0,,,,13,18,37,34,11,4
+UBCV,2014,W,COMM,391,,102,Introduction to Management Information Systems,Yau Man Cheung,122,81.25409836,6.067882492,93.0,60.0,0,0,0,,,5,7,22,41,34,11
+UBCV,2014,W,COMM,391,,103,Introduction to Management Information Systems,Yau Man Cheung,124,78.98387097,5.493505213,91.0,64.0,0,0,0,0,1.0,6,17,43,33,18,6
 UBCV,2014,W,COMM,391,,201,Introduction to Management Information Systems,Adam Saunders;Hoang Vi Nguyen;Samantha Walsh;Stefanus Soegiarto;Stefanus Vicky Soegiarto;Timothy Tjahjakartana,125,79.872,9.698666353,98.0,44.0,,,,6,,5,17,24,22,22,21
 UBCV,2014,W,COMM,391,,202,Introduction to Management Information Systems,Adam Saunders;Hoang Vi Nguyen;Samantha Walsh;Stefanus Soegiarto;Stefanus Vicky Soegiarto;Timothy Tjahjakartana,124,79.29032258,10.02012138,98.0,44.0,,,,,,10,19,15,25,30,14
-UBCV,2014,W,COMM,391,,203,Introduction to Management Information Systems,Adam Saunders;Hoang Vi Nguyen;Samantha Walsh;Stefanus Soegiarto;Stefanus Vicky Soegiarto;Timothy Tjahjakartana,123,77.73983740000001,11.91695128,96.0,2.0,,,,5,7,12,16,15,26,19,17
+UBCV,2014,W,COMM,391,,203,Introduction to Management Information Systems,Adam Saunders;Hoang Vi Nguyen;Samantha Walsh;Stefanus Soegiarto;Stefanus Vicky Soegiarto;Timothy Tjahjakartana,123,77.7398374,11.91695128,96.0,2.0,,,,5,7,12,16,15,26,19,17
 UBCV,2014,W,COMM,391,,OVERALL,Introduction to Management Information Systems,,740,79.06891892,8.664353515,98.0,2.0,5,3.0,9,15,19,51,94,156,181,134,73
 UBCV,2014,W,COMM,392,,101,Managing the Employment Relationship,Thomas Knight,254,74.57874016,6.57156565,90.0,39.0,,,,9,19,46,59,55,48,10,5
-UBCV,2014,W,COMM,392,,201,Managing the Employment Relationship,Thomas Knight,219,75.47031964,7.027650852000001,90.0,45.0,,,,7,,42,40,49,54,16,
-UBCV,2014,W,COMM,392,,202,Managing the Employment Relationship,Perdip Atwal,128,77.359375,6.730743164,91.0,53.0,,,,,,9,31,26,36,14,
-UBCV,2014,W,COMM,392,,203,Managing the Employment Relationship,Karin Kirkpatrick,116,75.45689655,7.333534933999999,93.0,36.0,,,,,6,17,25,21,38,2,
+UBCV,2014,W,COMM,392,,201,Managing the Employment Relationship,Thomas Knight,219,75.47031964,7.027650852,90.0,45.0,,,,7,,42,40,49,54,16,
+UBCV,2014,W,COMM,392,,202,Managing the Employment Relationship,Perdip Atwal,128,77.359375,6.730743164,91.0,53.0,0,,,,,9,31,26,36,14,
+UBCV,2014,W,COMM,392,,203,Managing the Employment Relationship,Karin Kirkpatrick,116,75.45689655,7.333534934,93.0,36.0,,,,,6,17,25,21,38,2,
 UBCV,2014,W,COMM,392,,OVERALL,Managing the Employment Relationship,,717,75.48953975,6.920253203,93.0,36.0,,,7,21,33,114,155,151,176,42,12
-UBCV,2014,W,COMM,393,,101,Commercial Law,Barbara Cox,63,76.39682540000001,12.92601738,94.0,44.0,,,6,,,,7,8,7,15,8
-UBCV,2014,W,COMM,393,,102,Commercial Law,Barbara Cox,61,77.18032787,9.798823393,95.0,51.0,,,,,9,5,6,8,13,11,5
-UBCV,2014,W,COMM,393,,103,Commercial Law,Barbara Cox,61,75.1147541,8.430299245,92.0,50.0,,,,5,6,,14,11,13,,
-UBCV,2014,W,COMM,393,,104,Commercial Law,Deborah Meredith,61,73.78688525,10.22271124,89.0,45.0,,,,6,5,5,9,6,17,8,
+UBCV,2014,W,COMM,393,,101,Commercial Law,Barbara Cox,63,76.3968254,12.92601738,94.0,44.0,,,6,,,,7,8,7,15,8
+UBCV,2014,W,COMM,393,,102,Commercial Law,Barbara Cox,61,77.18032787,9.798823393,95.0,51.0,0,,,,9,5,6,8,13,11,5
+UBCV,2014,W,COMM,393,,103,Commercial Law,Barbara Cox,61,75.1147541,8.430299245,92.0,50.0,0,,,5,6,,14,11,13,,
+UBCV,2014,W,COMM,393,,104,Commercial Law,Deborah Meredith,61,73.78688525,10.22271124,89.0,45.0,,,,6,5,5,9,6,17,8,0
 UBCV,2014,W,COMM,393,,105,Commercial Law,Deborah Meredith,62,71.90322581,11.06865265,91.0,16.0,,,,,8,12,11,10,9,,
-UBCV,2014,W,COMM,393,,106,Commercial Law,Deborah Meredith,64,74.390625,9.410593807,94.0,52.0,,,,,9,12,11,7,9,6,
+UBCV,2014,W,COMM,393,,106,Commercial Law,Deborah Meredith,64,74.390625,9.410593807,94.0,52.0,0,,,,9,12,11,7,9,6,
 UBCV,2014,W,COMM,393,,107,Commercial Law,Deborah Meredith,62,69.35483871,9.14562831,90.0,47.0,,,,8,7,14,12,3,5,,
-UBCV,2014,W,COMM,393,,201,Commercial Law,Ellen Jane Mcintosh,59,75.62711864,10.408713699999998,93.0,41.0,,,,,6,8,3,7,15,10,
+UBCV,2014,W,COMM,393,,201,Commercial Law,Ellen Jane Mcintosh,59,75.62711864,10.4087137,93.0,41.0,,,,,6,8,3,7,15,10,
 UBCV,2014,W,COMM,393,,202,Commercial Law,Barbara Cox,62,74.5483871,9.812466843,93.0,49.0,,,,,7,8,10,7,11,8,
 UBCV,2014,W,COMM,393,,203,Commercial Law,Barbara Cox,49,72.69387755,11.73883172,92.0,36.0,,,,,5,,8,7,12,,
 UBCV,2014,W,COMM,393,,204,Commercial Law,Barbara Cox,61,77.62295082,11.20738437,98.0,45.0,,,,,,,7,12,16,8,8
 UBCV,2014,W,COMM,393,,205,Commercial Law,Ellen Jane Mcintosh,62,72.29032258,9.997355547,94.0,46.0,,,,6,10,9,10,7,13,,
 UBCV,2014,W,COMM,393,,OVERALL,Commercial Law,,727,74.25859697,10.56811722,98.0,16.0,14,22,20,46,76,85,108,93,140,84,39
-UBCV,2014,W,COMM,394,,101,Government and Business,Charles Lindsey,48,76.3125,9.09092662,89.0,45.0,,,,,5,5,5,11,12,8,
-UBCV,2014,W,COMM,394,,102,Government and Business,Charles Lindsey,50,76.24,9.336258045,95.0,61.0,,,,6,,6,12,4,7,6,6
-UBCV,2014,W,COMM,394,,103,Government and Business,Steven Minns,50,78.46,6.36062505,91.0,62.0,,,,,,5,5,14,16,5,
-UBCV,2014,W,COMM,394,,104,Government and Business,Steven Minns,50,77.32,7.421535129,91.0,62.0,,,,,,6,10,9,10,8,
-UBCV,2014,W,COMM,394,,105,Government and Business,Steven Minns,49,76.34693878,6.35921582,92.0,60.0,,,,,,10,11,11,10,,
-UBCV,2014,W,COMM,394,,106,Government and Business,Anthony Boardman,49,74.42857143,9.318440499,94.0,50.0,,,,,5,5,6,6,14,5,
-UBCV,2014,W,COMM,394,,107,Government and Business,Anthony Boardman,50,76.68,7.622308826,91.0,54.0,,,,,,8,7,8,14,6,
-UBCV,2014,W,COMM,394,,108,Government and Business,Anthony Boardman,48,73.25,7.945291661000001,89.0,57.0,,,,,,11,6,9,8,,
-UBCV,2014,W,COMM,394,,109,Government and Business,Ratna Shrestha,49,74.14285714,8.5,95.0,50.0,,,,,8,6,8,9,9,,
-UBCV,2014,W,COMM,394,,201,Government and Business,Isaac Holloway;Isaac R Holloway,41,71.80487805,6.050700422999999,87.0,60.0,,,,5,6,5,13,8,3,,
-UBCV,2014,W,COMM,394,,202,Government and Business,Isaac Holloway;Isaac R Holloway,48,77.0625,5.919338123999999,91.0,60.0,,,,,,6,8,17,10,,
-UBCV,2014,W,COMM,394,,203,Government and Business,Isaac Holloway;Isaac R Holloway,45,76.44444444,6.992058987999999,88.0,62.0,,,,,6,4,10,6,10,8,
-UBCV,2014,W,COMM,394,,204,Government and Business,Ratna Shrestha,47,74.59574468,5.844579705,90.0,64.0,,,,,,10,10,10,12,,
-UBCV,2014,W,COMM,394,,205,Government and Business,Steven Minns;Wendy Wai Yee Kei,48,77.10416667,7.795906136,96.0,54.0,,,,,,6,,14,12,6,
-UBCV,2014,W,COMM,394,,206,Government and Business,Steven Minns;Wendy Wai Yee Kei,43,78.0,6.388233231,90.0,61.0,,,,,,5,,11,14,5,
+UBCV,2014,W,COMM,394,,101,Government and Business,Charles Lindsey,48,76.3125,9.09092662,89.0,45.0,,,,,5,5,5,11,12,8,0
+UBCV,2014,W,COMM,394,,102,Government and Business,Charles Lindsey,50,76.24,9.336258045,95.0,61.0,0,0,0,6,3.0,6,12,4,7,6,6
+UBCV,2014,W,COMM,394,,103,Government and Business,Steven Minns,50,78.46,6.36062505,91.0,62.0,0,0,0,,,5,5,14,16,5,
+UBCV,2014,W,COMM,394,,104,Government and Business,Steven Minns,50,77.32,7.421535129,91.0,62.0,0,0,0,,,6,10,9,10,8,
+UBCV,2014,W,COMM,394,,105,Government and Business,Steven Minns,49,76.34693878,6.35921582,92.0,60.0,0,0,0,,,10,11,11,10,,
+UBCV,2014,W,COMM,394,,106,Government and Business,Anthony Boardman,49,74.42857143,9.318440499,94.0,50.0,0,,,,5,5,6,6,14,5,
+UBCV,2014,W,COMM,394,,107,Government and Business,Anthony Boardman,50,76.68,7.622308826,91.0,54.0,0,,,,,8,7,8,14,6,
+UBCV,2014,W,COMM,394,,108,Government and Business,Anthony Boardman,48,73.25,7.945291661,89.0,57.0,0,0,,,,11,6,9,8,,0
+UBCV,2014,W,COMM,394,,109,Government and Business,Ratna Shrestha,49,74.14285714,8.5,95.0,50.0,0,,,,8,6,8,9,9,,
+UBCV,2014,W,COMM,394,,201,Government and Business,Isaac Holloway;Isaac R Holloway,41,71.80487805,6.050700423,87.0,60.0,0,0,0,5,6,5,13,8,3,1.0,0
+UBCV,2014,W,COMM,394,,202,Government and Business,Isaac Holloway;Isaac R Holloway,48,77.0625,5.919338124,91.0,60.0,0,0,0,,,6,8,17,10,,
+UBCV,2014,W,COMM,394,,203,Government and Business,Isaac Holloway;Isaac R Holloway,45,76.44444444,6.992058988,88.0,62.0,0,0,0,1.0,6,4,10,6,10,8,0
+UBCV,2014,W,COMM,394,,204,Government and Business,Ratna Shrestha,47,74.59574468,5.844579705,90.0,64.0,0,0,0,0,,10,10,10,12,,
+UBCV,2014,W,COMM,394,,205,Government and Business,Steven Minns;Wendy Wai Yee Kei,48,77.10416667,7.795906136,96.0,54.0,0,,,,,6,,14,12,6,
+UBCV,2014,W,COMM,394,,206,Government and Business,Steven Minns;Wendy Wai Yee Kei,43,78.0,6.388233231,90.0,61.0,0,0,0,,,5,,11,14,5,
 UBCV,2014,W,COMM,394,,207,Government and Business,Steven Minns;Wendy Wai Yee Kei,45,77.15555556,9.522594078,92.0,45.0,,,,,,9,,10,9,,6
 UBCV,2014,W,COMM,394,,OVERALL,Government and Business,,760,75.9881579,7.773887359,96.0,45.0,,,5,33,51,107,123,157,170,76,32
-UBCV,2014,W,COMM,395,,101,Business Communications,Zahra Ladha,41,75.75609756,5.323441029,85.0,63.0,,,,,,6,12,10,9,,
+UBCV,2014,W,COMM,395,,101,Business Communications,Zahra Ladha,41,75.75609756,5.323441029,85.0,63.0,0,0,0,,,6,12,10,9,,0
 UBCV,2014,W,COMM,395,,102,Business Communications,Zahra Ladha,40,74.15,9.617158811,93.0,43.0,,,,,,,10,13,,,
-UBCV,2014,W,COMM,395,,103,Business Communications,Cameron Morrell,40,74.3,6.58358487,84.0,56.0,,,,,6,6,6,11,10,,
-UBCV,2014,W,COMM,395,,104,Business Communications,David Miller,37,76.05405405,7.604625587999999,87.0,55.0,,,,,,5,8,,9,6,
-UBCV,2014,W,COMM,395,,105,Business Communications,Zahra Ladha,39,76.53846154,7.816467616000001,91.0,53.0,,,,,,,9,8,9,,
-UBCV,2014,W,COMM,395,,106,Business Communications,Cameron Morrell,39,75.17948718,7.1887038389999995,85.0,50.0,,,,,,,9,7,13,,
-UBCV,2014,W,COMM,395,,107,Business Communications,Cameron Morrell,39,75.87179487,5.458838739,84.0,58.0,,,,,,7,8,11,11,,
-UBCV,2014,W,COMM,395,,108,Business Communications,Cameron Morrell,40,74.825,7.167903888,85.0,52.0,,,,,,,9,12,9,,
-UBCV,2014,W,COMM,395,,201,Business Communications,Jasmin Kirk;Susan Soliman Ibrahim,38,75.84210526,9.2137568,89.0,42.0,,,,,,,10,7,11,,
-UBCV,2014,W,COMM,395,,202,Business Communications,Cameron Morrell;Jared Heimsoth,38,76.5,4.930599437,85.0,62.0,,,,,,,12,11,9,,
-UBCV,2014,W,COMM,395,,203,Business Communications,Andrew Lavers;Cameron Morrell,32,70.84375,8.598984843,82.0,47.0,,,,,,,10,9,,,
-UBCV,2014,W,COMM,395,,204,Business Communications,David Miller;Seyed-Reza Houshmand,38,75.7631579,5.399870922000001,86.0,64.0,,,,,,7,10,8,10,,
-UBCV,2014,W,COMM,395,,205,Business Communications,Frederick Fajardo;Liam Brett,34,78.05882353,3.7492720619999997,85.0,70.0,,,,,,,10,,17,,
-UBCV,2014,W,COMM,395,,206,Business Communications,Chris Griggs;Marlisse Silver Sweeney,32,76.125,4.864287237,83.0,65.0,,,,,,6,6,9,10,,
-UBCV,2014,W,COMM,395,,207,Business Communications,Marlisse Silver Sweeney,40,75.3,5.049498579,83.0,61.0,,,,,,6,8,14,10,,
-UBCV,2014,W,COMM,395,,208,Business Communications,Frederick Fajardo;Paul Thompson,37,76.45945946,4.500583879,84.0,67.0,,,,,,,13,9,10,,
-UBCV,2014,W,COMM,395,,209,Business Communications,Deepak Parwani;Elizabeth Bowker,34,80.05882353,4.917138713,88.0,67.0,,,,,,,1,7,16,7,
-UBCV,2014,W,COMM,395,,210,Business Communications,Cameron Morrell;Omri Wallach,34,75.0,4.683950676,84.0,63.0,,,,,,5,11,11,6,,
-UBCV,2014,W,COMM,395,,211,Business Communications,Cameron Morrell;Haig Basmadjian,33,75.75757576,5.202345042,86.0,64.0,,,,,,5,9,9,7,,
+UBCV,2014,W,COMM,395,,103,Business Communications,Cameron Morrell,40,74.3,6.58358487,84.0,56.0,0,0,,,6,6,6,11,10,0,0
+UBCV,2014,W,COMM,395,,104,Business Communications,David Miller,37,76.05405405,7.604625588,87.0,55.0,0,0,,,,5,8,,9,6,0
+UBCV,2014,W,COMM,395,,105,Business Communications,Zahra Ladha,39,76.53846154,7.816467616,91.0,53.0,0,,,,,,9,8,9,,
+UBCV,2014,W,COMM,395,,106,Business Communications,Cameron Morrell,39,75.17948718,7.188703839,85.0,50.0,0,,,,,,9,7,13,,0
+UBCV,2014,W,COMM,395,,107,Business Communications,Cameron Morrell,39,75.87179487,5.458838739,84.0,58.0,0,0,,,,7,8,11,11,0,0
+UBCV,2014,W,COMM,395,,108,Business Communications,Cameron Morrell,40,74.825,7.167903888,85.0,52.0,0,,,,,,9,12,9,,0
+UBCV,2014,W,COMM,395,,201,Business Communications,Jasmin Kirk;Susan Soliman Ibrahim,38,75.84210526,9.2137568,89.0,42.0,,,,,,,10,7,11,,0
+UBCV,2014,W,COMM,395,,202,Business Communications,Cameron Morrell;Jared Heimsoth,38,76.5,4.930599437,85.0,62.0,0,0,0,,,,12,11,9,,0
+UBCV,2014,W,COMM,395,,203,Business Communications,Andrew Lavers;Cameron Morrell,32,70.84375,8.598984843,82.0,47.0,,,,,,,10,9,,0,0
+UBCV,2014,W,COMM,395,,204,Business Communications,David Miller;Seyed-Reza Houshmand,38,75.7631579,5.399870922,86.0,64.0,0,0,0,0,,7,10,8,10,,0
+UBCV,2014,W,COMM,395,,205,Business Communications,Frederick Fajardo;Liam Brett,34,78.05882353,3.749272062,85.0,70.0,0,0,0,0,0,,10,,17,,0
+UBCV,2014,W,COMM,395,,206,Business Communications,Chris Griggs;Marlisse Silver Sweeney,32,76.125,4.864287237,83.0,65.0,0,0,0,0,1.0,6,6,9,10,0,0
+UBCV,2014,W,COMM,395,,207,Business Communications,Marlisse Silver Sweeney,40,75.3,5.049498579,83.0,61.0,0,0,0,,,6,8,14,10,0,0
+UBCV,2014,W,COMM,395,,208,Business Communications,Frederick Fajardo;Paul Thompson,37,76.45945946,4.500583879,84.0,67.0,0,0,0,0,,,13,9,10,0,0
+UBCV,2014,W,COMM,395,,209,Business Communications,Deepak Parwani;Elizabeth Bowker,34,80.05882353,4.917138713,88.0,67.0,0,0,0,0,,,1,7,16,7,0
+UBCV,2014,W,COMM,395,,210,Business Communications,Cameron Morrell;Omri Wallach,34,75.0,4.683950676,84.0,63.0,0,0,0,,,5,11,11,6,0,0
+UBCV,2014,W,COMM,395,,211,Business Communications,Cameron Morrell;Haig Basmadjian,33,75.75757576,5.202345042,86.0,64.0,0,0,0,0,,5,9,9,7,,0
 UBCV,2014,W,COMM,395,,OVERALL,Business Communications,,705,75.69503546,6.589574305,93.0,42.0,,6,7,15,30,81,171,174,182,33,
-UBCV,2014,W,COMM,398,,101,Introduction to Business Processes and Operations,Hanxing Zhang;Thomas E Culham,54,77.62962963,7.1038025860000005,91.0,60.0,,,,,,11,4,10,17,7,2
-UBCV,2014,W,COMM,398,,201,Introduction to Business Processes and Operations,David Gillen,52,77.42307692,9.483414116,94.0,51.0,,,,,,4,9,10,11,7,5
-UBCV,2014,W,COMM,398,,OVERALL,Introduction to Business Processes and Operations,,106,77.52830189,8.316601352000001,94.0,51.0,,,,,,15,13,20,28,14,7
+UBCV,2014,W,COMM,398,,101,Introduction to Business Processes and Operations,Hanxing Zhang;Thomas E Culham,54,77.62962963,7.103802586,91.0,60.0,0,0,0,,,11,4,10,17,7,2
+UBCV,2014,W,COMM,398,,201,Introduction to Business Processes and Operations,David Gillen,52,77.42307692,9.483414116,94.0,51.0,0,,,,,4,9,10,11,7,5
+UBCV,2014,W,COMM,398,,OVERALL,Introduction to Business Processes and Operations,,106,77.52830189,8.316601352,94.0,51.0,0,,,,,15,13,20,28,14,7
 UBCV,2014,W,COMM,399,,101,Logistics and Operations Management,Abrar Khan;Emily Tang;Juan Camilo Serpa;Junhao Yu;Kun Wang,65,78.38461539,12.89827061,100.0,0.0,,,,,,9,5,11,20,10,6
-UBCV,2014,W,COMM,399,,102,Logistics and Operations Management,Yichuan Ding,63,85.38095238,8.66291423,99.0,53.0,,,,,,,5,5,9,19,21
+UBCV,2014,W,COMM,399,,102,Logistics and Operations Management,Yichuan Ding,63,85.38095238,8.66291423,99.0,53.0,0,,,,,,5,5,9,19,21
 UBCV,2014,W,COMM,399,,103,Logistics and Operations Management,Yichuan Ding,64,80.53125,10.73633314,97.0,29.0,,,,,,7,7,9,10,16,10
-UBCV,2014,W,COMM,399,,104,Logistics and Operations Management,Yichuan Ding,66,84.66666667,8.061939704,98.0,53.0,,,,,,,,5,13,18,21
-UBCV,2014,W,COMM,399,,105,Logistics and Operations Management,Thomas Culham;Thomas E Culham,64,78.625,5.590524864,91.0,58.0,,,,,,,9,20,24,5,
+UBCV,2014,W,COMM,399,,104,Logistics and Operations Management,Yichuan Ding,66,84.66666667,8.061939704,98.0,53.0,0,,,,,,,5,13,18,21
+UBCV,2014,W,COMM,399,,105,Logistics and Operations Management,Thomas Culham;Thomas E Culham,64,78.625,5.590524864,91.0,58.0,0,0,,,,,9,20,24,5,
 UBCV,2014,W,COMM,399,,106,Logistics and Operations Management,Xin Geng,60,77.11666667,12.02129702,91.0,9.0,,,,,,,,17,16,11,
-UBCV,2014,W,COMM,399,,201,Logistics and Operations Management,Anming Zhang;Kun Wang,59,78.88135593,6.031768614,91.0,64.0,,,,,,,12,12,18,9,
-UBCV,2014,W,COMM,399,,202,Logistics and Operations Management,Hao Zhang,59,76.50847458,7.920668905,90.0,52.0,,,,,,6,16,13,8,9,
-UBCV,2014,W,COMM,399,,203,Logistics and Operations Management,Anming Zhang,62,81.9516129,5.52914015,90.0,59.0,,,,,,,,10,25,19,
-UBCV,2014,W,COMM,399,,204,Logistics and Operations Management,Hao Zhang,60,79.05,6.242079727,90.0,63.0,,,,,,5,11,12,17,11,
-UBCV,2014,W,COMM,399,,205,Logistics and Operations Management,Sha Liao,63,77.73015873,9.633955991,93.0,50.0,,,,,7,8,7,7,12,15,
+UBCV,2014,W,COMM,399,,201,Logistics and Operations Management,Anming Zhang;Kun Wang,59,78.88135593,6.031768614,91.0,64.0,0,0,0,0,,,12,12,18,9,
+UBCV,2014,W,COMM,399,,202,Logistics and Operations Management,Hao Zhang,59,76.50847458,7.920668905,90.0,52.0,0,,,,,6,16,13,8,9,
+UBCV,2014,W,COMM,399,,203,Logistics and Operations Management,Anming Zhang,62,81.9516129,5.52914015,90.0,59.0,0,0,,,,,,10,25,19,
+UBCV,2014,W,COMM,399,,204,Logistics and Operations Management,Hao Zhang,60,79.05,6.242079727,90.0,63.0,0,0,0,,,5,11,12,17,11,
+UBCV,2014,W,COMM,399,,205,Logistics and Operations Management,Sha Liao,63,77.73015873,9.633955991,93.0,50.0,0,,,,7,8,7,7,12,15,
 UBCV,2014,W,COMM,399,,206,Logistics and Operations Management,Antoine Michele Saure Valenzuela,59,74.20338983,11.22616964,97.0,39.0,,,,,11,7,6,6,9,10,
 UBCV,2014,W,COMM,399,,OVERALL,Logistics and Operations Management,,744,79.49193548,9.533249289,100.0,0.0,4.0,8,7,10,29,59,89,127,181,152,78
-UBCV,2014,W,COMM,405,,101,Real Estate Finance,Craig Tsuriel Somerville;Thomas Davidoff,42,80.35714286,7.156172259,95.0,66.0,,,,,,2,5,7,10,12,
-UBCV,2014,W,COMM,405,,102,Real Estate Finance,Craig Tsuriel Somerville;Thomas Davidoff,41,75.68292683,7.219553395,92.0,60.0,,,,,,5,9,8,8,3,
-UBCV,2014,W,COMM,405,,OVERALL,Real Estate Finance,,83,78.04819277,7.520546838,95.0,60.0,,,,,7,7,14,15,18,15,5
-UBCV,2014,W,COMM,407,,201,Real Estate Economics,Sanghoon Lee,29,78.44827586,8.26172849,91.0,60.0,,,,,,,7,,5,7,
-UBCV,2014,W,COMM,407,,202,Real Estate Economics,Sanghoon Lee,18,77.22222222,10.36711745,94.0,60.0,,,,,,,2,,0,3,
-UBCV,2014,W,COMM,407,,OVERALL,Real Estate Economics,,47,77.9787234,9.034930672,94.0,60.0,,,,,,5,9,8,5,10,5
-UBCV,2014,W,COMM,408,,201,Real Estate Development,Mark Monroe,54,83.09259259,5.313807286,94.0,68.0,,,,,,,,6,25,10,8
-UBCV,2014,W,COMM,408,,OVERALL,Real Estate Development,,54,83.09259259,5.313807286,94.0,68.0,,,,,,,,6,25,10,8
-UBCV,2014,W,COMM,412,,101,Negotiation,Frieda Granot,34,82.35294118,3.427892302,89.0,75.0,,,,,,,,6,17,10,
-UBCV,2014,W,COMM,412,,102,Negotiation,Frieda Granot,29,83.68965517,4.201219621,90.0,70.0,,,,,,,,1,14,11,
-UBCV,2014,W,COMM,412,,OVERALL,Negotiation,,63,82.96825397,3.8309783719999997,90.0,70.0,,,,,,,,7,31,21,
-UBCV,2014,W,COMM,431,,201,Law of Business Associations,Ellen Jane Mcintosh,21,80.76190476,5.982514202999999,93.0,70.0,,,,,,,,,8,,
-UBCV,2014,W,COMM,431,,OVERALL,Law of Business Associations,,21,80.76190476,5.982514202999999,93.0,70.0,,,,,,,,,8,,
-UBCV,2014,W,COMM,434,,201,Land Law,Michal Jaworski,29,78.17241379,7.521725512000001,90.0,64.0,,,,,,5,7,,5,5,
-UBCV,2014,W,COMM,434,,OVERALL,Land Law,,29,78.17241379,7.521725512000001,90.0,64.0,,,,,,5,7,,5,5,
-UBCV,2014,W,COMM,436,,101,Information Systems Analysis and Design,Duo Shi,38,84.10526316,2.5017774619999997,89.0,75.0,,,,,,,1,0,20,17,
-UBCV,2014,W,COMM,436,,201,Information Systems Analysis and Design,Atefeh Taghavi;Carson C Woo,48,78.0625,4.299461866000001,88.0,68.0,,,,,,,13,10,20,3,
-UBCV,2014,W,COMM,436,,OVERALL,Information Systems Analysis and Design,,86,80.73255814,4.696492856,89.0,68.0,,,,,,,14,10,40,20,
-UBCV,2014,W,COMM,437,,101,Database Technology,William Khoon Lee Tan,28,87.10714286,6.919319628999999,96.0,60.0,,,,,,,0,0,,6,17
-UBCV,2014,W,COMM,437,,201,Database Technology,Michael Wufka;Stephen So,32,76.6875,9.347890912999999,94.0,52.0,,,,,,,6,8,,4,3
-UBCV,2014,W,COMM,437,,OVERALL,Database Technology,,60,81.55,9.762302104,96.0,52.0,,,,,,,6,8,8,10,20
-UBCV,2014,W,COMM,438,,101,Management of Information Systems,Blake Hanna,40,76.575,8.808176563,92.0,58.0,,,,,,6,4,7,10,6,
-UBCV,2014,W,COMM,438,,201,Management of Information Systems,Beyhan Zor;Hasan Cavusoglu,39,79.05128205,6.456122015,90.0,64.0,,,,,,4,7,7,12,6,
-UBCV,2014,W,COMM,438,,OVERALL,Management of Information Systems,,79,77.79746835,7.7878599589999995,92.0,58.0,,,,,,10,11,14,22,12,
-UBCV,2014,W,COMM,439,,101,Business Telecommunications,Yau Man Cheung,29,83.27586207,5.96954504,95.0,68.0,,,,,,,,,10,9,5
-UBCV,2014,W,COMM,439,,201,Business Telecommunications,Wei Sun;Yau Man Cheung,32,82.125,5.4462179829999995,93.0,68.0,,,,,,,,,12,12,2
-UBCV,2014,W,COMM,439,,OVERALL,Business Telecommunications,,61,82.67213115,5.682491565,95.0,68.0,,,,,,,5,,22,21,7
-UBCV,2014,W,COMM,441,,101,Advanced Business Logistics,David Irwin Farrell;Hanxing Zhang,47,79.76595745,4.7695263,91.0,63.0,,,,,,,,19,17,4,
-UBCV,2014,W,COMM,441,,201,Advanced Business Logistics,David Gillen,50,79.56,8.376741366000001,95.0,58.0,,,,,,,,7,14,16,
-UBCV,2014,W,COMM,441,,OVERALL,Advanced Business Logistics,,97,79.65979381,6.835700705,95.0,58.0,,,,,,,6,26,31,20,
-UBCV,2014,W,COMM,444,,201,Air Transportation,Kun Wang;Tae Hoon Oum,51,79.15686275,6.322570835,94.0,64.0,,,,,,,8,7,20,9,
-UBCV,2014,W,COMM,444,,OVERALL,Air Transportation,,51,79.15686275,6.322570835,94.0,64.0,,,,,,,8,7,20,9,
-UBCV,2014,W,COMM,445,,101,Shipping and International Logistics,David Irwin Farrell,42,78.07142857,2.9664206660000003,87.0,69.0,,,,,,1,,27,9,2,
-UBCV,2014,W,COMM,445,,201,Shipping and International Logistics,Anming Zhang,39,77.53846154,7.308416755,88.0,55.0,,,,,,6,,7,15,6,
-UBCV,2014,W,COMM,445,,OVERALL,Shipping and International Logistics,,81,77.81481482,5.472913097999999,88.0,55.0,,,,,,7,5,34,24,8,
-UBCV,2014,W,COMM,446,,101,Transportation Economics,Charles Lindsey,14,78.42857143,7.949013347,89.0,62.0,,,,,,,,,,,
-UBCV,2014,W,COMM,446,,OVERALL,Transportation Economics,,14,78.42857143,7.949013347,89.0,62.0,,,,,,,,,,,
-UBCV,2014,W,COMM,447,,201,Applied Project Management,Robert Goatham,30,81.8,5.162196806,92.0,73.0,,,,,,,,8,11,,5
-UBCV,2014,W,COMM,447,,OVERALL,Applied Project Management,,30,81.8,5.162196806,92.0,73.0,,,,,,,,8,11,,5
-UBCV,2014,W,COMM,449,,101,Supply-Chain Management,Thomas Culham;Thomas E Culham,49,78.02040816,5.47908826,87.0,57.0,,,,,,,10,10,23,,
-UBCV,2014,W,COMM,449,,201,Supply-Chain Management,Thomas Culham;Thomas E Culham,45,73.95555556,10.582909800000001,90.0,31.0,,,,,,,7,11,10,,
-UBCV,2014,W,COMM,449,,OVERALL,Supply-Chain Management,,94,76.07446809,8.523515052999999,90.0,31.0,,,,,5,6,17,21,33,5,
-UBCV,2014,W,COMM,450,,101,Financial Accounting - Intermediate II,Robert Jackes,44,73.22727273,7.697367827000001,92.0,62.0,,,,7,,11,6,6,8,2,
-UBCV,2014,W,COMM,450,,102,Financial Accounting - Intermediate II,Robert Jackes,45,77.86666667,7.092249291,92.0,60.0,,,,,,5,8,10,11,8,
-UBCV,2014,W,COMM,450,,103,Financial Accounting - Intermediate II,Kin Lo,41,78.19512195,7.570401285,91.0,50.0,,,,,,,8,12,8,8,
-UBCV,2014,W,COMM,450,,104,Financial Accounting - Intermediate II,Kin Lo,41,75.19512195,8.453459387,90.0,56.0,,,,,,5,13,5,6,6,
+UBCV,2014,W,COMM,405,,101,Real Estate Finance,Craig Tsuriel Somerville;Thomas Davidoff,42,80.35714286,7.156172259,95.0,66.0,0,0,0,0,,2,5,7,10,12,
+UBCV,2014,W,COMM,405,,102,Real Estate Finance,Craig Tsuriel Somerville;Thomas Davidoff,41,75.68292683,7.219553395,92.0,60.0,0,0,0,2.0,,5,9,8,8,3,
+UBCV,2014,W,COMM,405,,OVERALL,Real Estate Finance,,83,78.04819277,7.520546838,95.0,60.0,0,0,0,2.0,7,7,14,15,18,15,5
+UBCV,2014,W,COMM,407,,201,Real Estate Economics,Sanghoon Lee,29,78.44827586,8.26172849,91.0,60.0,0,0,0,,,,7,,5,7,
+UBCV,2014,W,COMM,407,,202,Real Estate Economics,Sanghoon Lee,18,77.22222222,10.36711745,94.0,60.0,0,0,0,,,,2,,0,3,
+UBCV,2014,W,COMM,407,,OVERALL,Real Estate Economics,,47,77.9787234,9.034930672,94.0,60.0,0,0,0,,,5,9,8,5,10,5
+UBCV,2014,W,COMM,408,,201,Real Estate Development,Mark Monroe,54,83.09259259,5.313807286,94.0,68.0,0,0,0,0,0,,,6,25,10,8
+UBCV,2014,W,COMM,408,,OVERALL,Real Estate Development,,54,83.09259259,5.313807286,94.0,68.0,0,0,0,0,0,,,6,25,10,8
+UBCV,2014,W,COMM,412,,101,Negotiation,Frieda Granot,34,82.35294118,3.427892302,89.0,75.0,0,0,0,0,0,0,1.0,6,17,10,0
+UBCV,2014,W,COMM,412,,102,Negotiation,Frieda Granot,29,83.68965517,4.201219621,90.0,70.0,0,0,0,0,0,,,1,14,11,
+UBCV,2014,W,COMM,412,,OVERALL,Negotiation,,63,82.96825397,3.830978372,90.0,70.0,0,0,0,0,0,,,7,31,21,
+UBCV,2014,W,COMM,431,,201,Law of Business Associations,Ellen Jane Mcintosh,21,80.76190476,5.982514203,93.0,70.0,0,0,0,0,0,,,,8,,
+UBCV,2014,W,COMM,431,,OVERALL,Law of Business Associations,,21,80.76190476,5.982514203,93.0,70.0,0,0,0,0,0,,,,8,,
+UBCV,2014,W,COMM,434,,201,Land Law,Michal Jaworski,29,78.17241379,7.521725512,90.0,64.0,0,0,0,0,,5,7,,5,5,
+UBCV,2014,W,COMM,434,,OVERALL,Land Law,,29,78.17241379,7.521725512,90.0,64.0,0,0,0,0,,5,7,,5,5,
+UBCV,2014,W,COMM,436,,101,Information Systems Analysis and Design,Duo Shi,38,84.10526316,2.501777462,89.0,75.0,0,0,0,0,0,0,1,0,20,17,0
+UBCV,2014,W,COMM,436,,201,Information Systems Analysis and Design,Atefeh Taghavi;Carson C Woo,48,78.0625,4.299461866,88.0,68.0,0,0,0,0,0,2.0,13,10,20,3,0
+UBCV,2014,W,COMM,436,,OVERALL,Information Systems Analysis and Design,,86,80.73255814,4.696492856,89.0,68.0,0,0,0,0,0,2.0,14,10,40,20,0
+UBCV,2014,W,COMM,437,,101,Database Technology,William Khoon Lee Tan,28,87.10714286,6.919319629,96.0,60.0,0,0,0,,,,0,0,,6,17
+UBCV,2014,W,COMM,437,,201,Database Technology,Michael Wufka;Stephen So,32,76.6875,9.347890913,94.0,52.0,0,,,,,,6,8,,4,3
+UBCV,2014,W,COMM,437,,OVERALL,Database Technology,,60,81.55,9.762302104,96.0,52.0,0,,,,,,6,8,8,10,20
+UBCV,2014,W,COMM,438,,101,Management of Information Systems,Blake Hanna,40,76.575,8.808176563,92.0,58.0,0,0,,,,6,4,7,10,6,
+UBCV,2014,W,COMM,438,,201,Management of Information Systems,Beyhan Zor;Hasan Cavusoglu,39,79.05128205,6.456122015,90.0,64.0,0,0,0,0,,4,7,7,12,6,
+UBCV,2014,W,COMM,438,,OVERALL,Management of Information Systems,,79,77.79746835,7.787859959,92.0,58.0,0,0,,,,10,11,14,22,12,
+UBCV,2014,W,COMM,439,,101,Business Telecommunications,Yau Man Cheung,29,83.27586207,5.96954504,95.0,68.0,0,0,0,0,0,,,,10,9,5
+UBCV,2014,W,COMM,439,,201,Business Telecommunications,Wei Sun;Yau Man Cheung,32,82.125,5.446217983,93.0,68.0,0,0,0,0,0,,,,12,12,2
+UBCV,2014,W,COMM,439,,OVERALL,Business Telecommunications,,61,82.67213115,5.682491565,95.0,68.0,0,0,0,0,0,,5,,22,21,7
+UBCV,2014,W,COMM,441,,101,Advanced Business Logistics,David Irwin Farrell;Hanxing Zhang,47,79.76595745,4.7695263,91.0,63.0,0,0,0,,,,,19,17,4,
+UBCV,2014,W,COMM,441,,201,Advanced Business Logistics,David Gillen,50,79.56,8.376741366,95.0,58.0,0,0,,,,,,7,14,16,
+UBCV,2014,W,COMM,441,,OVERALL,Advanced Business Logistics,,97,79.65979381,6.835700705,95.0,58.0,0,0,,,,,6,26,31,20,
+UBCV,2014,W,COMM,444,,201,Air Transportation,Kun Wang;Tae Hoon Oum,51,79.15686275,6.322570835,94.0,64.0,0,0,0,0,,,8,7,20,9,
+UBCV,2014,W,COMM,444,,OVERALL,Air Transportation,,51,79.15686275,6.322570835,94.0,64.0,0,0,0,0,,,8,7,20,9,
+UBCV,2014,W,COMM,445,,101,Shipping and International Logistics,David Irwin Farrell,42,78.07142857,2.966420666,87.0,69.0,0,0,0,0,0,1,3.0,27,9,2,0
+UBCV,2014,W,COMM,445,,201,Shipping and International Logistics,Anming Zhang,39,77.53846154,7.308416755,88.0,55.0,0,0,,,,6,2.0,7,15,6,0
+UBCV,2014,W,COMM,445,,OVERALL,Shipping and International Logistics,,81,77.81481482,5.472913098,88.0,55.0,0,0,,,,7,5,34,24,8,0
+UBCV,2014,W,COMM,446,,101,Transportation Economics,Charles Lindsey,14,78.42857143,7.949013347,89.0,62.0,0,0,0,,,,,,,,0
+UBCV,2014,W,COMM,446,,OVERALL,Transportation Economics,,14,78.42857143,7.949013347,89.0,62.0,0,0,0,,,,,,,,0
+UBCV,2014,W,COMM,447,,201,Applied Project Management,Robert Goatham,30,81.8,5.162196806,92.0,73.0,0,0,0,0,0,0,,8,11,,5
+UBCV,2014,W,COMM,447,,OVERALL,Applied Project Management,,30,81.8,5.162196806,92.0,73.0,0,0,0,0,0,0,,8,11,,5
+UBCV,2014,W,COMM,449,,101,Supply-Chain Management,Thomas Culham;Thomas E Culham,49,78.02040816,5.47908826,87.0,57.0,0,0,,,,,10,10,23,,0
+UBCV,2014,W,COMM,449,,201,Supply-Chain Management,Thomas Culham;Thomas E Culham,45,73.95555556,10.5829098,90.0,31.0,,,,,,,7,11,10,,
+UBCV,2014,W,COMM,449,,OVERALL,Supply-Chain Management,,94,76.07446809,8.523515053,90.0,31.0,,,,,5,6,17,21,33,5,
+UBCV,2014,W,COMM,450,,101,Financial Accounting - Intermediate II,Robert Jackes,44,73.22727273,7.697367827,92.0,62.0,0,0,0,7,,11,6,6,8,2,
+UBCV,2014,W,COMM,450,,102,Financial Accounting - Intermediate II,Robert Jackes,45,77.86666667,7.092249291,92.0,60.0,0,0,0,,,5,8,10,11,8,
+UBCV,2014,W,COMM,450,,103,Financial Accounting - Intermediate II,Kin Lo,41,78.19512195,7.570401285,91.0,50.0,0,,,,,,8,12,8,8,
+UBCV,2014,W,COMM,450,,104,Financial Accounting - Intermediate II,Kin Lo,41,75.19512195,8.453459387,90.0,56.0,0,0,,,,5,13,5,6,6,
 UBCV,2014,W,COMM,450,,201,Financial Accounting - Intermediate II,Barbara Wyntjes;Vikramjeet Singh Kahlon,41,76.53658537,15.51627784,98.0,20.0,,,,,7,,1,7,3,6,10
 UBCV,2014,W,COMM,450,,OVERALL,Financial Accounting - Intermediate II,,214,76.11682243,9.854833527,98.0,20.0,,,,15,12,24,36,40,36,30,14
 UBCV,2014,W,COMM,452,,201,Taxes and Decision Making,Tran Khue Chung,22,75.59090909,13.24371941,96.0,46.0,,,,,,,,,,,
@@ -396,15 +396,15 @@ UBCV,2014,W,COMM,453,,201,Financial Accounting-Advanced,Chuck Campbell;Persis Ah
 UBCV,2014,W,COMM,453,,202,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,50,78.76,13.10485188,97.0,42.0,,,,,,5,,6,9,9,11
 UBCV,2014,W,COMM,453,,203,Financial Accounting-Advanced,Chuck Campbell;Persis Ahrestani,49,75.34693878,14.13558014,96.0,31.0,,,,,,6,5,8,9,7,6
 UBCV,2014,W,COMM,453,,OVERALL,Financial Accounting-Advanced,,182,78.16483517,14.54561409,99.0,25.0,7,8,2.0,7,9,13,9,23,29,33,42
-UBCV,2014,W,COMM,454,,101,Accounting for Management Control and Incentives,Sandra Chamberlain,24,79.91666667,9.894735828,91.0,50.0,,,,,,3,5,,4,8,
-UBCV,2014,W,COMM,454,,102,Accounting for Management Control and Incentives,Sandra Chamberlain,30,76.93333333,7.692061888,93.0,62.0,,,,,,5,10,,6,3,
-UBCV,2014,W,COMM,454,,OVERALL,Accounting for Management Control and Incentives,,54,78.25925926,8.780736173,93.0,50.0,,,,,,8,15,,10,11,6
-UBCV,2014,W,COMM,455,,101,Principles of Auditing,Scott Sinclair,44,73.43181818,8.373262339,92.0,52.0,,,,,6,7,9,6,10,,
-UBCV,2014,W,COMM,455,,201,Principles of Auditing,Rachel E Lee;Scott Sinclair,32,73.6875,7.685081904,87.0,58.0,,,,,,8,,8,7,,
-UBCV,2014,W,COMM,455,,202,Principles of Auditing,Rachel E Lee;Scott Sinclair,43,77.13953488,7.0189586639999995,87.0,61.0,,,,,,5,,10,17,,
-UBCV,2014,W,COMM,455,,203,Principles of Auditing,Marina Philipik;Mary Chong,42,73.88095238,12.02680417,91.0,50.0,,,,,,,5,9,5,7,
-UBCV,2014,W,COMM,455,,204,Principles of Auditing,Marina Philipik;Mary Chong,40,73.6,9.960949394,96.0,50.0,,,,,6,,,7,9,,
-UBCV,2014,W,COMM,455,,OVERALL,Principles of Auditing,,201,74.39303483,9.255255331,96.0,50.0,0.0,6,7,11,21,25,21,40,48,15,7
+UBCV,2014,W,COMM,454,,101,Accounting for Management Control and Incentives,Sandra Chamberlain,24,79.91666667,9.894735828,91.0,50.0,0,,,,,3,5,,4,8,
+UBCV,2014,W,COMM,454,,102,Accounting for Management Control and Incentives,Sandra Chamberlain,30,76.93333333,7.692061888,93.0,62.0,0,0,0,,,5,10,,6,3,
+UBCV,2014,W,COMM,454,,OVERALL,Accounting for Management Control and Incentives,,54,78.25925926,8.780736173,93.0,50.0,0,,,,,8,15,,10,11,6
+UBCV,2014,W,COMM,455,,101,Principles of Auditing,Scott Sinclair,44,73.43181818,8.373262339,92.0,52.0,0,,,,6,7,9,6,10,,
+UBCV,2014,W,COMM,455,,201,Principles of Auditing,Rachel E Lee;Scott Sinclair,32,73.6875,7.685081904,87.0,58.0,0,0,,,,8,,8,7,,0
+UBCV,2014,W,COMM,455,,202,Principles of Auditing,Rachel E Lee;Scott Sinclair,43,77.13953488,7.018958664,87.0,61.0,0,0,0,,,5,,10,17,,0
+UBCV,2014,W,COMM,455,,203,Principles of Auditing,Marina Philipik;Mary Chong,42,73.88095238,12.02680417,91.0,50.0,0,,,,,,5,9,5,7,
+UBCV,2014,W,COMM,455,,204,Principles of Auditing,Marina Philipik;Mary Chong,40,73.6,9.960949394,96.0,50.0,0,,,,6,,,7,9,,
+UBCV,2014,W,COMM,455,,OVERALL,Principles of Auditing,,201,74.39303483,9.255255331,96.0,50.0,0,6,7,11,21,25,21,40,48,15,7
 UBCV,2014,W,COMM,457,,101,Fundamentals of Financial Accounting,Scott Sinclair,117,70.58119658,13.49600153,98.0,0.0,8,2.0,5,10,17,13,20,15,15,6,6
 UBCV,2014,W,COMM,457,,102,Fundamentals of Financial Accounting,Scott Sinclair,223,70.61883408,14.2797975,99.0,19.0,17,10,18,13,28,29,26,19,20,21,22
 UBCV,2014,W,COMM,457,,103,Fundamentals of Financial Accounting,Scott Sinclair,40,70.675,12.86296114,94.0,39.0,,,,5,0,8,4,6,5,,
@@ -412,138 +412,138 @@ UBCV,2014,W,COMM,457,,201,Fundamentals of Financial Accounting,Scott Sinclair;Vi
 UBCV,2014,W,COMM,457,,OVERALL,Fundamentals of Financial Accounting,,423,70.39479905,14.14021429,99.0,0.0,31,16,27,32,51,56,57,44,44,33,32
 UBCV,2014,W,COMM,458,,201,Fundamentals of Managerial Accounting,Danielle Lim;Mario Cumal;Patricia Robertson;Scott Sinclair,100,77.52,13.24247833,97.0,14.0,5,,,,10,,7,18,27,18,9
 UBCV,2014,W,COMM,458,,OVERALL,Fundamentals of Managerial Accounting,,100,77.52,13.24247833,97.0,14.0,5,,,,10,,7,18,27,18,9
-UBCV,2014,W,COMM,459,,101,Financial Statement Analysis,Joy Begley,30,79.03333333,6.620153834,91.0,68.0,,,,,,,7,5,8,6,
-UBCV,2014,W,COMM,459,,102,Financial Statement Analysis,Joy Begley,35,78.42857143,8.468924907,90.0,60.0,,,,,,,5,4,10,8,
-UBCV,2014,W,COMM,459,,OVERALL,Financial Statement Analysis,,65,78.70769231,7.619307459,91.0,60.0,,,,,,,12,9,18,14,
-UBCV,2014,W,COMM,460,,101,Social and Nonprofit Marketing,Charles Weinberg,24,77.125,5.135659646000001,87.0,70.0,,,,,,,8,7,5,,
-UBCV,2014,W,COMM,460,,OVERALL,Social and Nonprofit Marketing,,24,77.125,5.135659646000001,87.0,70.0,,,,,,,8,7,5,,
-UBCV,2014,W,COMM,461,,101,Sales Management,Elaine Williamson,39,78.38461539,5.194204182,91.0,68.0,,,,,,,10,6,16,,
-UBCV,2014,W,COMM,461,,OVERALL,Sales Management,,39,78.38461539,5.194204182,91.0,68.0,,,,,,,10,6,16,,
-UBCV,2014,W,COMM,462,,101,Integrated Marketing Communication,Ann Stone,40,78.55,3.13744956,85.0,71.0,,,,,,,4,16,18,,
-UBCV,2014,W,COMM,462,,201,Integrated Marketing Communication,Ann Stone,33,77.42424242,4.16105683,85.0,64.0,,,,,,,6,12,11,,
-UBCV,2014,W,COMM,462,,OVERALL,Integrated Marketing Communication,,73,78.04109589,3.65315068,85.0,64.0,,,,,,,10,28,29,,
-UBCV,2014,W,COMM,464,,101,E-Marketing,Julio Viskovich;Paul Cubbon,40,81.2,3.69476414,88.0,73.0,,,,,,,,6,23,7,
-UBCV,2014,W,COMM,464,,102,E-Marketing,Julio Viskovich;Paul Cubbon,40,80.525,5.144015692,88.0,66.0,,,,,,,,6,19,10,
-UBCV,2014,W,COMM,464,,OVERALL,E-Marketing,,80,80.8625,4.462909734,88.0,66.0,,,,,,,6,12,42,17,
-UBCV,2014,W,COMM,465,,101,Marketing Management,Rui Jorge Basto Da Silva,59,78.49152542,7.351689652,94.0,59.0,,,,,,5,9,14,16,8,
-UBCV,2014,W,COMM,465,,102,Marketing Management,Phaedra Burke,48,74.97916667,6.373113683,87.0,55.0,,,,,,6,16,10,7,,
-UBCV,2014,W,COMM,465,,201,Marketing Management,Rui Jorge Basto Da Silva,62,78.59677419,7.83112679,91.0,55.0,,,,,,6,9,10,14,15,
+UBCV,2014,W,COMM,459,,101,Financial Statement Analysis,Joy Begley,30,79.03333333,6.620153834,91.0,68.0,0,0,0,0,0,,7,5,8,6,
+UBCV,2014,W,COMM,459,,102,Financial Statement Analysis,Joy Begley,35,78.42857143,8.468924907,90.0,60.0,0,0,0,,,,5,4,10,8,
+UBCV,2014,W,COMM,459,,OVERALL,Financial Statement Analysis,,65,78.70769231,7.619307459,91.0,60.0,0,0,0,,,,12,9,18,14,
+UBCV,2014,W,COMM,460,,101,Social and Nonprofit Marketing,Charles Weinberg,24,77.125,5.135659646,87.0,70.0,0,0,0,0,0,,8,7,5,,0
+UBCV,2014,W,COMM,460,,OVERALL,Social and Nonprofit Marketing,,24,77.125,5.135659646,87.0,70.0,0,0,0,0,0,,8,7,5,,0
+UBCV,2014,W,COMM,461,,101,Sales Management,Elaine Williamson,39,78.38461539,5.194204182,91.0,68.0,0,0,0,0,0,,10,6,16,,
+UBCV,2014,W,COMM,461,,OVERALL,Sales Management,,39,78.38461539,5.194204182,91.0,68.0,0,0,0,0,0,,10,6,16,,
+UBCV,2014,W,COMM,462,,101,Integrated Marketing Communication,Ann Stone,40,78.55,3.13744956,85.0,71.0,0,0,0,0,0,,4,16,18,,0
+UBCV,2014,W,COMM,462,,201,Integrated Marketing Communication,Ann Stone,33,77.42424242,4.16105683,85.0,64.0,0,0,0,0,,,6,12,11,,0
+UBCV,2014,W,COMM,462,,OVERALL,Integrated Marketing Communication,,73,78.04109589,3.65315068,85.0,64.0,0,0,0,0,,,10,28,29,,0
+UBCV,2014,W,COMM,464,,101,E-Marketing,Julio Viskovich;Paul Cubbon,40,81.2,3.69476414,88.0,73.0,0,0,0,0,0,0,4.0,6,23,7,0
+UBCV,2014,W,COMM,464,,102,E-Marketing,Julio Viskovich;Paul Cubbon,40,80.525,5.144015692,88.0,66.0,0,0,0,0,,,2.0,6,19,10,0
+UBCV,2014,W,COMM,464,,OVERALL,E-Marketing,,80,80.8625,4.462909734,88.0,66.0,0,0,0,0,,,6,12,42,17,0
+UBCV,2014,W,COMM,465,,101,Marketing Management,Rui Jorge Basto Da Silva,59,78.49152542,7.351689652,94.0,59.0,0,0,,,,5,9,14,16,8,
+UBCV,2014,W,COMM,465,,102,Marketing Management,Phaedra Burke,48,74.97916667,6.373113683,87.0,55.0,0,0,,,,6,16,10,7,,0
+UBCV,2014,W,COMM,465,,201,Marketing Management,Rui Jorge Basto Da Silva,62,78.59677419,7.83112679,91.0,55.0,0,0,,,,6,9,10,14,15,
 UBCV,2014,W,COMM,465,,202,Marketing Management,Rui Jorge Basto Da Silva,117,76.34188034,8.888351922,91.0,33.0,,,,,10,8,20,26,25,19,
-UBCV,2014,W,COMM,465,,203,Marketing Management,Phaedra Burke,41,73.17073171,6.689179468,88.0,60.0,,,,,5,6,11,8,6,,
-UBCV,2014,W,COMM,465,,OVERALL,Marketing Management,,327,76.55963303,7.990137162999999,94.0,33.0,,,5,11,24,31,65,68,68,47,6
-UBCV,2014,W,COMM,466,,001,New Venture Design,Antony Hodgson;James Simonite;Paul Cubbon;Philippe Kruchten,29,82.34482759,3.67691507,91.0,75.0,,,,,,,,5,13,9,
-UBCV,2014,W,COMM,466,,OVERALL,New Venture Design,,29,82.34482759,3.67691507,91.0,75.0,,,,,,,,5,13,9,
-UBCV,2014,W,COMM,467,,101,Brand Management,Timothy Silk,45,78.71111111,6.10000828,90.0,59.0,,,,,,,7,9,15,7,
-UBCV,2014,W,COMM,467,,102,Brand Management,Timothy Silk,44,79.15909091,4.068844655,88.0,70.0,,,,,,,7,12,17,7,
-UBCV,2014,W,COMM,467,,OVERALL,Brand Management,,89,78.93258427,5.171595834,90.0,59.0,,,,,,5,14,21,32,14,
-UBCV,2014,W,COMM,468,,101,Marketing Applications,Jenny Dickson,36,77.0,5.646743689,87.0,64.0,,,,,,,8,9,9,5,
-UBCV,2014,W,COMM,468,,102,Marketing Applications,Jenny Dickson,34,75.61764706,6.51345789,85.0,56.0,,,,,,6,6,8,11,,
-UBCV,2014,W,COMM,468,,201,Marketing Applications,Jenny Dickson,38,77.7631579,7.375760925,90.0,61.0,,,,,,5,5,,16,,
-UBCV,2014,W,COMM,468,,202,Marketing Applications,Jenny Dickson,34,75.82352941,7.379211538,85.0,60.0,,,,,5,,7,6,7,7,
-UBCV,2014,W,COMM,468,,203,Marketing Applications,Rui Jorge Basto Da Silva,35,77.71428571,6.98136776,87.0,63.0,,,,,,7,5,,13,6,
-UBCV,2014,W,COMM,468,,OVERALL,Marketing Applications,,177,76.81355932,6.796074844,90.0,56.0,,,,,11,23,31,27,56,23,
-UBCV,2014,W,COMM,469,,101,International Marketing,Mary Swaffield,34,78.26470588,5.976260225,90.0,66.0,,,,,,2,6,8,12,3,
-UBCV,2014,W,COMM,469,,201,International Marketing,Mary Swaffield,42,77.73809524,6.832703011,91.0,62.0,,,,,,5,6,10,8,8,
-UBCV,2014,W,COMM,469,,OVERALL,International Marketing,,76,77.97368421,6.426971675,91.0,62.0,,,,,,7,12,18,20,11,
-UBCV,2014,W,COMM,471,,101,Financial Management,Kai Li,44,81.56818182,4.91034848,91.0,68.0,,,,,,,2,7,18,13,2
-UBCV,2014,W,COMM,471,,102,Financial Management,Kai Li,44,82.15909091,5.5528881310000004,91.0,72.0,,,,,,,10,2,15,11,6
-UBCV,2014,W,COMM,471,,OVERALL,Financial Management,,88,81.86363636,5.21972787,91.0,68.0,,,,,,,12,9,33,24,8
+UBCV,2014,W,COMM,465,,203,Marketing Management,Phaedra Burke,41,73.17073171,6.689179468,88.0,60.0,0,0,0,,5,6,11,8,6,,0
+UBCV,2014,W,COMM,465,,OVERALL,Marketing Management,,327,76.55963303,7.990137163,94.0,33.0,,,5,11,24,31,65,68,68,47,6
+UBCV,2014,W,COMM,466,,001,New Venture Design,Antony Hodgson;James Simonite;Paul Cubbon;Philippe Kruchten,29,82.34482759,3.67691507,91.0,75.0,0,0,0,0,0,0,,5,13,9,
+UBCV,2014,W,COMM,466,,OVERALL,New Venture Design,,29,82.34482759,3.67691507,91.0,75.0,0,0,0,0,0,0,,5,13,9,
+UBCV,2014,W,COMM,467,,101,Brand Management,Timothy Silk,45,78.71111111,6.10000828,90.0,59.0,0,0,,,,4.0,7,9,15,7,
+UBCV,2014,W,COMM,467,,102,Brand Management,Timothy Silk,44,79.15909091,4.068844655,88.0,70.0,0,0,0,0,0,1.0,7,12,17,7,0
+UBCV,2014,W,COMM,467,,OVERALL,Brand Management,,89,78.93258427,5.171595834,90.0,59.0,0,0,,,,5,14,21,32,14,
+UBCV,2014,W,COMM,468,,101,Marketing Applications,Jenny Dickson,36,77.0,5.646743689,87.0,64.0,0,0,0,0,,,8,9,9,5,0
+UBCV,2014,W,COMM,468,,102,Marketing Applications,Jenny Dickson,34,75.61764706,6.51345789,85.0,56.0,0,0,,,,6,6,8,11,,0
+UBCV,2014,W,COMM,468,,201,Marketing Applications,Jenny Dickson,38,77.7631579,7.375760925,90.0,61.0,0,0,0,,,5,5,,16,,
+UBCV,2014,W,COMM,468,,202,Marketing Applications,Jenny Dickson,34,75.82352941,7.379211538,85.0,60.0,0,0,0,,5,,7,6,7,7,0
+UBCV,2014,W,COMM,468,,203,Marketing Applications,Rui Jorge Basto Da Silva,35,77.71428571,6.98136776,87.0,63.0,0,0,0,,,7,5,,13,6,0
+UBCV,2014,W,COMM,468,,OVERALL,Marketing Applications,,177,76.81355932,6.796074844,90.0,56.0,0,0,,,11,23,31,27,56,23,
+UBCV,2014,W,COMM,469,,101,International Marketing,Mary Swaffield,34,78.26470588,5.976260225,90.0,66.0,0,0,0,0,,2,6,8,12,3,
+UBCV,2014,W,COMM,469,,201,International Marketing,Mary Swaffield,42,77.73809524,6.832703011,91.0,62.0,0,0,0,,,5,6,10,8,8,
+UBCV,2014,W,COMM,469,,OVERALL,International Marketing,,76,77.97368421,6.426971675,91.0,62.0,0,0,0,,,7,12,18,20,11,
+UBCV,2014,W,COMM,471,,101,Financial Management,Kai Li,44,81.56818182,4.91034848,91.0,68.0,0,0,0,0,0,2.0,2,7,18,13,2
+UBCV,2014,W,COMM,471,,102,Financial Management,Kai Li,44,82.15909091,5.552888131,91.0,72.0,0,0,0,0,0,0,10,2.0,15,11,6
+UBCV,2014,W,COMM,471,,OVERALL,Financial Management,,88,81.86363636,5.21972787,91.0,68.0,0,0,0,0,0,2.0,12,9,33,24,8
 UBCV,2014,W,COMM,473,,101,Business Finance,Sepand Boroumand-Jazzi,78,74.74358974,11.70906619,93.0,47.0,,,,5,10,8,7,12,6,14,10
-UBCV,2014,W,COMM,473,,102,Business Finance,Garry Allen Yuill;Garry Yuill,51,76.66666667,10.55967171,93.0,50.0,,,,,,7,6,5,9,11,5
+UBCV,2014,W,COMM,473,,102,Business Finance,Garry Allen Yuill;Garry Yuill,51,76.66666667,10.55967171,93.0,50.0,0,,,,,7,6,5,9,11,5
 UBCV,2014,W,COMM,473,,201,Business Finance,Sepand Boroumand-Jazzi,105,76.44761905,13.98486885,100.0,27.0,,,,,12,,8,10,17,17,23
 UBCV,2014,W,COMM,473,,202,Business Finance,Garry Allen Yuill;Garry Yuill,49,75.34693878,11.97836769,90.0,41.0,,,,,,,4,4,13,13,1
 UBCV,2014,W,COMM,473,,OVERALL,Business Finance,,283,75.82685512,12.42545373,100.0,27.0,7,7,12,14,25,23,25,31,45,55,39
-UBCV,2014,W,COMM,474,,101,Fixed Income Markets and Management,Lulu Zeng,42,86.02380952,7.725435011,97.0,60.0,,,,,,,,2,9,15,13
-UBCV,2014,W,COMM,474,,201,Fixed Income Markets and Management,Robert Lee Heinkel,41,82.51219512,6.111963478,93.0,64.0,,,,,,,,7,18,10,4
-UBCV,2014,W,COMM,474,,OVERALL,Fixed Income Markets and Management,,83,84.28915663,7.154275748,97.0,60.0,,,,,,,,9,27,25,17
-UBCV,2014,W,COMM,475,,101,Investment Policy,Robert Lee Heinkel,42,80.38095238,4.5796601269999995,92.0,69.0,,,,,,,,9,21,5,
-UBCV,2014,W,COMM,475,,201,Investment Policy,Ruth Freedman,35,75.71428571,9.281770332,88.0,53.0,,,,,,,,6,9,7,
-UBCV,2014,W,COMM,475,,202,Investment Policy,Ruth Freedman,41,78.29268293,9.555741474,93.0,51.0,,,,,5,,7,6,8,6,6
-UBCV,2014,W,COMM,475,,OVERALL,Investment Policy,,118,78.27118644,8.19491297,93.0,51.0,,,,,9,5,14,21,38,18,7
+UBCV,2014,W,COMM,474,,101,Fixed Income Markets and Management,Lulu Zeng,42,86.02380952,7.725435011,97.0,60.0,0,0,0,,,,,2,9,15,13
+UBCV,2014,W,COMM,474,,201,Fixed Income Markets and Management,Robert Lee Heinkel,41,82.51219512,6.111963478,93.0,64.0,0,0,0,0,,,,7,18,10,4
+UBCV,2014,W,COMM,474,,OVERALL,Fixed Income Markets and Management,,83,84.28915663,7.154275748,97.0,60.0,0,0,0,,,,,9,27,25,17
+UBCV,2014,W,COMM,475,,101,Investment Policy,Robert Lee Heinkel,42,80.38095238,4.579660127,92.0,69.0,0,0,0,0,0,,,9,21,5,1
+UBCV,2014,W,COMM,475,,201,Investment Policy,Ruth Freedman,35,75.71428571,9.281770332,88.0,53.0,0,,,,4,,,6,9,7,0
+UBCV,2014,W,COMM,475,,202,Investment Policy,Ruth Freedman,41,78.29268293,9.555741474,93.0,51.0,0,,,,5,,7,6,8,6,6
+UBCV,2014,W,COMM,475,,OVERALL,Investment Policy,,118,78.27118644,8.19491297,93.0,51.0,0,,,,9,5,14,21,38,18,7
 UBCV,2014,W,COMM,477,,201,Risk Management and Financial Engineering,Lorenzo Garlappi,39,87.51282051,12.89812674,100.0,31.0,,,,,,,1,,4,5,23
-UBCV,2014,W,COMM,477,,202,Risk Management and Financial Engineering,Lorenzo Garlappi,37,82.48648649,9.805388602,100.0,60.0,,,,,,,5,,6,8,10
+UBCV,2014,W,COMM,477,,202,Risk Management and Financial Engineering,Lorenzo Garlappi,37,82.48648649,9.805388602,100.0,60.0,0,0,0,,,,5,,6,8,10
 UBCV,2014,W,COMM,477,,OVERALL,Risk Management and Financial Engineering,,76,85.06578947,11.69767558,100.0,31.0,,,,,,,6,7,10,13,33
-UBCV,2014,W,COMM,482,,101,New Product Development,Timothy Silk,39,80.25641026,4.0374428380000005,85.0,63.0,,,,,,,1,10,21,6,
-UBCV,2014,W,COMM,482,,201,New Product Development,Angele Beausoleil,21,77.76190476,5.300044923,90.0,72.0,,,,,,,8,7,4,1,
-UBCV,2014,W,COMM,482,,OVERALL,New Product Development,,60,79.38333333,4.6325732010000005,90.0,63.0,,,,,,,9,17,25,7,
-UBCV,2014,W,COMM,486,C,101,Special Topics in Business,Girish Ananthanarayana,37,78.83783784,4.787213951,87.0,63.0,,,,,,,,10,17,,
-UBCV,2014,W,COMM,486,C,OVERALL,Special Topics in Business,,37,78.83783784,4.787213951,87.0,63.0,,,,,,,,10,17,,
-UBCV,2014,W,COMM,486,F,201,Special Topics in Business,Tamar Milne,34,79.23529412,8.900319448,88.0,41.0,,,,,,,,,15,8,
-UBCV,2014,W,COMM,486,F,OVERALL,Special Topics in Business,,34,79.23529412,8.900319448,88.0,41.0,,,,,,,,,15,8,
-UBCV,2014,W,COMM,486,G,201,Special Topics in Business,Elizabeth Muehlchen,19,78.73684211,10.23524469,90.0,50.0,,,,,,,,,6,5,
-UBCV,2014,W,COMM,486,G,OVERALL,Special Topics in Business,,19,78.73684211,10.23524469,90.0,50.0,,,,,,,,,6,5,
-UBCV,2014,W,COMM,486,H,201,Special Topics in Business,Adlai Fisher,23,81.91304348,4.0103620730000005,88.0,75.0,,,,,,,,6,9,7,
-UBCV,2014,W,COMM,486,H,OVERALL,Special Topics in Business,,23,81.91304348,4.0103620730000005,88.0,75.0,,,,,,,,6,9,7,
-UBCV,2014,W,COMM,486,L,101,Special Topics in Business,Mark Monroe,16,80.625,6.5102483310000006,89.0,62.0,,,,,,,,,7,,
-UBCV,2014,W,COMM,486,L,OVERALL,Special Topics in Business,,16,80.625,6.5102483310000006,89.0,62.0,,,,,,,,,7,,
+UBCV,2014,W,COMM,482,,101,New Product Development,Timothy Silk,39,80.25641026,4.037442838,85.0,63.0,0,0,0,,,,1,10,21,6,0
+UBCV,2014,W,COMM,482,,201,New Product Development,Angele Beausoleil,21,77.76190476,5.300044923,90.0,72.0,0,0,0,0,0,0,8,7,4,1,1.0
+UBCV,2014,W,COMM,482,,OVERALL,New Product Development,,60,79.38333333,4.632573201,90.0,63.0,0,0,0,,,,9,17,25,7,1.0
+UBCV,2014,W,COMM,486,C,101,Special Topics in Business,Girish Ananthanarayana,37,78.83783784,4.787213951,87.0,63.0,0,0,0,,,,,10,17,,0
+UBCV,2014,W,COMM,486,C,OVERALL,Special Topics in Business,,37,78.83783784,4.787213951,87.0,63.0,0,0,0,,,,,10,17,,0
+UBCV,2014,W,COMM,486,F,201,Special Topics in Business,Tamar Milne,34,79.23529412,8.900319448,88.0,41.0,,,,,,,,,15,8,0
+UBCV,2014,W,COMM,486,F,OVERALL,Special Topics in Business,,34,79.23529412,8.900319448,88.0,41.0,,,,,,,,,15,8,0
+UBCV,2014,W,COMM,486,G,201,Special Topics in Business,Elizabeth Muehlchen,19,78.73684211,10.23524469,90.0,50.0,0,,,,,,,,6,5,
+UBCV,2014,W,COMM,486,G,OVERALL,Special Topics in Business,,19,78.73684211,10.23524469,90.0,50.0,0,,,,,,,,6,5,
+UBCV,2014,W,COMM,486,H,201,Special Topics in Business,Adlai Fisher,23,81.91304348,4.010362073,88.0,75.0,0,0,0,0,0,0,1.0,6,9,7,0
+UBCV,2014,W,COMM,486,H,OVERALL,Special Topics in Business,,23,81.91304348,4.010362073,88.0,75.0,0,0,0,0,0,0,1.0,6,9,7,0
+UBCV,2014,W,COMM,486,L,101,Special Topics in Business,Mark Monroe,16,80.625,6.510248331,89.0,62.0,0,0,0,,,,,,7,,0
+UBCV,2014,W,COMM,486,L,OVERALL,Special Topics in Business,,16,80.625,6.510248331,89.0,62.0,0,0,0,,,,,,7,,0
 UBCV,2014,W,COMM,486,M,201,Special Topics in Business,Jeff Kroeker;Paul Cubbon,50,80.28,10.63118248,97.0,37.0,,,,,,,,11,13,14,5
 UBCV,2014,W,COMM,486,M,OVERALL,Special Topics in Business,,50,80.28,10.63118248,97.0,37.0,,,,,,,,11,13,14,5
-UBCV,2014,W,COMM,486,N,201,Special Topics in Business,Carson C Woo,25,84.96,4.894554798,92.0,72.0,,,,,,,,,6,13,
-UBCV,2014,W,COMM,486,N,OVERALL,Special Topics in Business,,25,84.96,4.894554798,92.0,72.0,,,,,,,,,6,13,
-UBCV,2014,W,COMM,486,Q,201,Special Topics in Business,Robert Lee Heinkel;Ronald Giammarino,37,80.81081081,8.996412365,96.0,64.0,,,,,,,,,10,,9
-UBCV,2014,W,COMM,486,Q,OVERALL,Special Topics in Business,,37,80.81081081,8.996412365,96.0,64.0,,,,,,,,,10,,9
-UBCV,2014,W,COMM,486,R,201,Special Topics in Business,Robert Elton,39,81.33333333,4.692285569,91.0,75.0,,,,,,,,12,13,6,
-UBCV,2014,W,COMM,486,R,OVERALL,Special Topics in Business,,39,81.33333333,4.692285569,91.0,75.0,,,,,,,,12,13,6,
-UBCV,2014,W,COMM,486,S,201,Special Topics in Business,Alfred Hermida;Julio Viskovich,7,88.57142857,2.439750182,92.0,84.0,,,,,,,,,,,
-UBCV,2014,W,COMM,486,S,OVERALL,Special Topics in Business,,7,88.57142857,2.439750182,92.0,84.0,,,,,,,,,,,
-UBCV,2014,W,COMM,487,,101,Environmental Management,Werner Antweiler,28,82.25,5.2254718019999995,93.0,71.0,,,,,,,,,15,5,
-UBCV,2014,W,COMM,487,,OVERALL,Environmental Management,,28,82.25,5.2254718019999995,93.0,71.0,,,,,,,,,15,5,
-UBCV,2014,W,COMM,490,A,102,Directed Studies in Commerce,,7,87.14285714,3.716116765,93.0,82.0,,,,,,,,,,,2
-UBCV,2014,W,COMM,490,A,202,Directed Studies in Commerce,,5,90.0,0.0,90.0,90.0,,,,,,,,,,,5
-UBCV,2014,W,COMM,490,A,OVERALL,Directed Studies in Commerce,,19,87.10526316,3.588480595,93.0,79.0,,,,,,,,,,8,7
-UBCV,2014,W,COMM,491,,101,Strategic Management,Mari-Ann Linde,43,75.93023256,8.477969627,95.0,50.0,,,,,6,6,6,7,11,5,
+UBCV,2014,W,COMM,486,N,201,Special Topics in Business,Carson C Woo,25,84.96,4.894554798,92.0,72.0,0,0,0,0,0,0,,,6,13,
+UBCV,2014,W,COMM,486,N,OVERALL,Special Topics in Business,,25,84.96,4.894554798,92.0,72.0,0,0,0,0,0,0,,,6,13,
+UBCV,2014,W,COMM,486,Q,201,Special Topics in Business,Robert Lee Heinkel;Ronald Giammarino,37,80.81081081,8.996412365,96.0,64.0,0,0,0,0,,,,,10,,9
+UBCV,2014,W,COMM,486,Q,OVERALL,Special Topics in Business,,37,80.81081081,8.996412365,96.0,64.0,0,0,0,0,,,,,10,,9
+UBCV,2014,W,COMM,486,R,201,Special Topics in Business,Robert Elton,39,81.33333333,4.692285569,91.0,75.0,0,0,0,0,0,0,,12,13,6,
+UBCV,2014,W,COMM,486,R,OVERALL,Special Topics in Business,,39,81.33333333,4.692285569,91.0,75.0,0,0,0,0,0,0,,12,13,6,
+UBCV,2014,W,COMM,486,S,201,Special Topics in Business,Alfred Hermida;Julio Viskovich,7,88.57142857,2.439750182,92.0,84.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,COMM,486,S,OVERALL,Special Topics in Business,,7,88.57142857,2.439750182,92.0,84.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,COMM,487,,101,Environmental Management,Werner Antweiler,28,82.25,5.225471802,93.0,71.0,0,0,0,0,0,,,,15,5,
+UBCV,2014,W,COMM,487,,OVERALL,Environmental Management,,28,82.25,5.225471802,93.0,71.0,0,0,0,0,0,,,,15,5,
+UBCV,2014,W,COMM,490,A,102,Directed Studies in Commerce,,7,87.14285714,3.716116765,93.0,82.0,0,0,0,0,0,0,0,0,-3.0,8,2
+UBCV,2014,W,COMM,490,A,202,Directed Studies in Commerce,,5,90.0,0.0,90.0,90.0,0,0,0,0,0,0,0,0,0,0,5
+UBCV,2014,W,COMM,490,A,OVERALL,Directed Studies in Commerce,,19,87.10526316,3.588480595,93.0,79.0,0,0,0,0,0,0,0,0,4.0,8,7
+UBCV,2014,W,COMM,491,,101,Strategic Management,Mari-Ann Linde,43,75.93023256,8.477969627,95.0,50.0,0,,,,6,6,6,7,11,5,
 UBCV,2014,W,COMM,491,,102,Strategic Management,Mari-Ann Linde,42,73.35714286,15.22164926,94.0,0.0,,,,5,,,6,5,10,,
-UBCV,2014,W,COMM,491,,103,Strategic Management,Larry Wosk,43,75.13953488,8.430617091,91.0,50.0,,,,,,8,6,6,11,,
-UBCV,2014,W,COMM,491,,104,Strategic Management,Larry Wosk,43,74.93023256,7.031884354,90.0,60.0,,,,,,,11,8,10,,
-UBCV,2014,W,COMM,491,,105,Strategic Management,Larry Wosk,41,75.19512195,5.675471400000001,87.0,60.0,,,,,,8,11,10,7,,
-UBCV,2014,W,COMM,491,,201,Strategic Management,Alvaro Parra Perez,41,80.07317073,6.424135132000001,97.0,66.0,,,,,,,,12,14,,5
-UBCV,2014,W,COMM,491,,202,Strategic Management,Alvaro Parra Perez,43,80.39534884,6.942414617000001,93.0,64.0,,,,,,,9,,15,5,7
-UBCV,2014,W,COMM,491,,203,Strategic Management,Larry Wosk,43,76.69767442,5.422768945,88.0,65.0,,,,,,7,7,13,10,,
-UBCV,2014,W,COMM,491,,204,Strategic Management,Mari-Ann Linde,25,74.6,8.366600265,91.0,60.0,,,,,,6,,,4,,
-UBCV,2014,W,COMM,491,,205,Strategic Management,Momcilo Deretic,41,75.12195122,5.801702862000001,90.0,60.0,,,,,,8,11,9,7,,
+UBCV,2014,W,COMM,491,,103,Strategic Management,Larry Wosk,43,75.13953488,8.430617091,91.0,50.0,0,,,,,8,6,6,11,,
+UBCV,2014,W,COMM,491,,104,Strategic Management,Larry Wosk,43,74.93023256,7.031884354,90.0,60.0,0,0,0,,,,11,8,10,,
+UBCV,2014,W,COMM,491,,105,Strategic Management,Larry Wosk,41,75.19512195,5.6754714,87.0,60.0,0,0,0,,,8,11,10,7,,0
+UBCV,2014,W,COMM,491,,201,Strategic Management,Alvaro Parra Perez,41,80.07317073,6.424135132,97.0,66.0,0,0,0,0,,,,12,14,,5
+UBCV,2014,W,COMM,491,,202,Strategic Management,Alvaro Parra Perez,43,80.39534884,6.942414617,93.0,64.0,0,0,0,0,,,9,,15,5,7
+UBCV,2014,W,COMM,491,,203,Strategic Management,Larry Wosk,43,76.69767442,5.422768945,88.0,65.0,0,0,0,0,,7,7,13,10,,0
+UBCV,2014,W,COMM,491,,204,Strategic Management,Mari-Ann Linde,25,74.6,8.366600265,91.0,60.0,0,0,0,,,6,,,4,,
+UBCV,2014,W,COMM,491,,205,Strategic Management,Momcilo Deretic,41,75.12195122,5.801702862,90.0,60.0,0,0,0,,,8,11,9,7,,
 UBCV,2014,W,COMM,491,,OVERALL,Strategic Management,,405,76.20987654,8.443340644,97.0,0.0,,,,14,27,53,75,77,99,33,21
-UBCV,2014,W,COMM,492,,201,Management Simulation,Peter Nemetz,39,77.82051282,9.547310988,93.0,54.0,,,,,5,,8,,9,10,
-UBCV,2014,W,COMM,492,,OVERALL,Management Simulation,,39,77.82051282,9.547310988,93.0,54.0,,,,,5,,8,,9,10,
-UBCV,2014,W,COMM,493,,101,Strategic Management in Business,Larry Wosk,46,75.30434783,6.062157903999999,88.0,61.0,,,,,,6,12,11,10,,
-UBCV,2014,W,COMM,493,,201,Strategic Management in Business,Mari-Ann Linde,37,75.94594595,9.294400781,94.0,54.0,,,,,,3,7,5,9,,
-UBCV,2014,W,COMM,493,,202,Strategic Management in Business,Perdip Atwal,49,76.65306122,5.479321051,90.0,63.0,,,,,,6,8,17,13,,
-UBCV,2014,W,COMM,493,,203,Strategic Management in Business,Mari-Ann Linde,36,74.38888889,10.165144300000001,95.0,54.0,,,,,,7,3,6,6,,
-UBCV,2014,W,COMM,493,,OVERALL,Strategic Management in Business,,168,75.64285714,7.713652035,95.0,54.0,,,,11,8,22,30,39,38,11,5
-UBCV,2014,W,COMM,495,,201,Business and Sustainable Development,Peter Nemetz,42,80.35714286,5.32743213,90.0,72.0,,,,,,,9,12,11,7,
-UBCV,2014,W,COMM,495,,OVERALL,Business and Sustainable Development,,42,80.35714286,5.32743213,90.0,72.0,,,,,,,9,12,11,7,
-UBCV,2014,W,COMM,497,,101,New Enterprise Development,Mari-Ann Linde,25,76.4,8.118907972999999,89.0,53.0,,,,,,,7,5,6,,
-UBCV,2014,W,COMM,497,,102,New Enterprise Development,Mari-Ann Linde,35,77.2,9.709910038,92.0,52.0,,,,,,,5,5,11,5,
-UBCV,2014,W,COMM,497,,201,New Enterprise Development,Momcilo Deretic,31,78.61290323,2.98526849,85.0,72.0,,,,,,,,16,11,,
-UBCV,2014,W,COMM,497,,202,New Enterprise Development,Mari-Ann Linde,25,78.36,6.897342482999999,88.0,60.0,,,,,,,,3,11,,
-UBCV,2014,W,COMM,497,,OVERALL,New Enterprise Development,,116,77.65517241,7.3922444060000005,92.0,52.0,,,,,,7,17,29,39,14,
-UBCV,2014,W,COMM,498,,101,International Business Management,Masao Nakamura,40,75.1,5.596702326,85.0,60.0,,,,,,5,7,14,10,,
-UBCV,2014,W,COMM,498,,102,International Business Management,Masao Nakamura,41,78.26829268,7.039262711,90.0,61.0,,,,,,,8,10,8,8,
-UBCV,2014,W,COMM,498,,103,International Business Management,Masao Nakamura,42,79.19047619,5.003599169,90.0,65.0,,,,,,,,17,14,,
-UBCV,2014,W,COMM,498,,201,International Business Management,Vanessa Alviarez,33,71.75757576,8.778632806000001,94.0,54.0,,,,5,,5,9,,3,,
-UBCV,2014,W,COMM,498,,202,International Business Management,Vanessa Alviarez,37,75.5945946,8.278014588,90.0,59.0,,,,,,6,8,5,5,5,
-UBCV,2014,W,COMM,498,,203,International Business Management,Vanessa Alviarez,30,76.23333333,10.3346866,91.0,55.0,,,,,,,,,7,5,
-UBCV,2014,W,COMM,498,,OVERALL,International Business Management,,223,76.19282511,7.805261716,94.0,54.0,,,,13,11,21,39,53,47,25,9
-UBCV,2014,W,COMM,499,B,201,Internship,Robert Lee Heinkel,8,79.875,3.52288437,85.0,75.0,,,,,,,,,,,
-UBCV,2014,W,COMM,499,B,OVERALL,Internship,,8,79.875,3.52288437,85.0,75.0,,,,,,,,,,,
-UBCV,2014,W,COMM,525,,001,Introduction to Behavioural Research Methods for Business,Ronald Timothy Cenfetelli,7,85.14285714,3.236694375,88.0,80.0,,,,,,,,,,,
-UBCV,2014,W,COMM,525,,OVERALL,Introduction to Behavioural Research Methods for Business,,7,85.14285714,3.236694375,88.0,80.0,,,,,,,,,,,
-UBCV,2014,W,COMM,581,,OR1,Statistical Methodology I,Zhe Zhang,15,82.13333333,8.034449636,93.0,70.0,,,,,,,,,,,
-UBCV,2014,W,COMM,581,,OVERALL,Statistical Methodology I,,15,82.13333333,8.034449636,93.0,70.0,,,,,,,,,,,
-UBCV,2014,W,COMM,590,A,001,Topics in Business Administration,Jack Favilukis,5,78.8,9.391485505,89.0,70.0,,,,,,,,,,,
-UBCV,2014,W,COMM,590,A,OVERALL,Topics in Business Administration,,5,78.8,9.391485505,89.0,70.0,,,,,,,,,,,
-UBCV,2014,W,COMM,633,,001,Modelling Methods in the Research and Practice of Information Systems,Yair Wand,5,85.0,3.0,90.0,82.0,,,,,,,,,,,
-UBCV,2014,W,COMM,633,,OVERALL,Modelling Methods in the Research and Practice of Information Systems,,5,85.0,3.0,90.0,82.0,,,,,,,,,,,
-UBCV,2014,W,COMM,651,,001,Analysis of Accounting Information in Markets,Russell Lundholm,6,86.0,10.62073444,97.0,74.0,,,,,,,,,,,
-UBCV,2014,W,COMM,651,,OVERALL,Analysis of Accounting Information in Markets,,6,86.0,10.62073444,97.0,74.0,,,,,,,,,,,
-UBCV,2014,W,COMM,661,,001,Analytical Methods and Models in Marketing,Ting Zhu,5,86.2,1.303840481,88.0,85.0,,,,,,,,,,5,
-UBCV,2014,W,COMM,661,,OVERALL,Analytical Methods and Models in Marketing,,5,86.2,1.303840481,88.0,85.0,,,,,,,,,,5,
-UBCV,2014,W,COMM,671,,001,Theory of Finance,Ali Lazrak,7,84.14285714,7.470577207000001,96.0,76.0,,,,,,,,,,,
-UBCV,2014,W,COMM,671,,OVERALL,Theory of Finance,,7,84.14285714,7.470577207000001,96.0,76.0,,,,,,,,,,,
-UBCV,2014,W,COMM,673,,001,Advanced Topics in Theoretical Asset Pricing,Lorenzo Garlappi,12,85.83333333,7.814128618,96.0,72.0,,,,,,,,,,,5
-UBCV,2014,W,COMM,673,,OVERALL,Advanced Topics in Theoretical Asset Pricing,,12,85.83333333,7.814128618,96.0,72.0,,,,,,,,,,,5
-UBCV,2014,W,COMM,674,,001,Advanced Topics in Empirical Asset Pricing,Adlai Fisher;Carolin Pflueger,15,83.46666667,1.35576371,85.0,82.0,,,,,,,,,9,6,
-UBCV,2014,W,COMM,674,,OVERALL,Advanced Topics in Empirical Asset Pricing,,15,83.46666667,1.35576371,85.0,82.0,,,,,,,,,9,6,
-UBCV,2014,W,COMM,691,,001,Advanced Topics in Policy Analysis,Ralph Winter,12,85.5,7.775252115,92.0,70.0,,,,,,,,,,,6
-UBCV,2014,W,COMM,691,,OVERALL,Advanced Topics in Policy Analysis,,12,85.5,7.775252115,92.0,70.0,,,,,,,,,,,6
-UBCV,2014,W,COMM,693,,001,Seminar in Research Methodology I,Ralph Winter,12,85.91666667,3.28794861,92.0,82.0,,,,,,,,,,7,
-UBCV,2014,W,COMM,693,,OVERALL,Seminar in Research Methodology I,,12,85.91666667,3.28794861,92.0,82.0,,,,,,,,,,7,
+UBCV,2014,W,COMM,492,,201,Management Simulation,Peter Nemetz,39,77.82051282,9.547310988,93.0,54.0,0,,,,5,,8,,9,10,
+UBCV,2014,W,COMM,492,,OVERALL,Management Simulation,,39,77.82051282,9.547310988,93.0,54.0,0,,,,5,,8,,9,10,
+UBCV,2014,W,COMM,493,,101,Strategic Management in Business,Larry Wosk,46,75.30434783,6.062157904,88.0,61.0,0,0,0,,,6,12,11,10,,0
+UBCV,2014,W,COMM,493,,201,Strategic Management in Business,Mari-Ann Linde,37,75.94594595,9.294400781,94.0,54.0,0,,,,,3,7,5,9,,
+UBCV,2014,W,COMM,493,,202,Strategic Management in Business,Perdip Atwal,49,76.65306122,5.479321051,90.0,63.0,0,0,0,,,6,8,17,13,,
+UBCV,2014,W,COMM,493,,203,Strategic Management in Business,Mari-Ann Linde,36,74.38888889,10.1651443,95.0,54.0,0,,,,,7,3,6,6,,
+UBCV,2014,W,COMM,493,,OVERALL,Strategic Management in Business,,168,75.64285714,7.713652035,95.0,54.0,0,,,11,8,22,30,39,38,11,5
+UBCV,2014,W,COMM,495,,201,Business and Sustainable Development,Peter Nemetz,42,80.35714286,5.32743213,90.0,72.0,0,0,0,0,0,0,9,12,11,7,3.0
+UBCV,2014,W,COMM,495,,OVERALL,Business and Sustainable Development,,42,80.35714286,5.32743213,90.0,72.0,0,0,0,0,0,0,9,12,11,7,3.0
+UBCV,2014,W,COMM,497,,101,New Enterprise Development,Mari-Ann Linde,25,76.4,8.118907973,89.0,53.0,0,,,,,,7,5,6,,0
+UBCV,2014,W,COMM,497,,102,New Enterprise Development,Mari-Ann Linde,35,77.2,9.709910038,92.0,52.0,0,,,,,,5,5,11,5,
+UBCV,2014,W,COMM,497,,201,New Enterprise Development,Momcilo Deretic,31,78.61290323,2.98526849,85.0,72.0,0,0,0,0,0,0,,16,11,,0
+UBCV,2014,W,COMM,497,,202,New Enterprise Development,Mari-Ann Linde,25,78.36,6.897342483,88.0,60.0,0,0,0,,,,,3,11,,0
+UBCV,2014,W,COMM,497,,OVERALL,New Enterprise Development,,116,77.65517241,7.392244406,92.0,52.0,0,,,,,7,17,29,39,14,
+UBCV,2014,W,COMM,498,,101,International Business Management,Masao Nakamura,40,75.1,5.596702326,85.0,60.0,0,0,0,,,5,7,14,10,,0
+UBCV,2014,W,COMM,498,,102,International Business Management,Masao Nakamura,41,78.26829268,7.039262711,90.0,61.0,0,0,0,,,,8,10,8,8,
+UBCV,2014,W,COMM,498,,103,International Business Management,Masao Nakamura,42,79.19047619,5.003599169,90.0,65.0,0,0,0,0,,,,17,14,,
+UBCV,2014,W,COMM,498,,201,International Business Management,Vanessa Alviarez,33,71.75757576,8.778632806,94.0,54.0,0,,,5,,5,9,,3,,
+UBCV,2014,W,COMM,498,,202,International Business Management,Vanessa Alviarez,37,75.5945946,8.278014588,90.0,59.0,0,0,,,,6,8,5,5,5,
+UBCV,2014,W,COMM,498,,203,International Business Management,Vanessa Alviarez,30,76.23333333,10.3346866,91.0,55.0,0,0,,,,,,,7,5,
+UBCV,2014,W,COMM,498,,OVERALL,International Business Management,,223,76.19282511,7.805261716,94.0,54.0,0,,,13,11,21,39,53,47,25,9
+UBCV,2014,W,COMM,499,B,201,Internship,Robert Lee Heinkel,8,79.875,3.52288437,85.0,75.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,W,COMM,499,B,OVERALL,Internship,,8,79.875,3.52288437,85.0,75.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,W,COMM,525,,001,Introduction to Behavioural Research Methods for Business,Ronald Timothy Cenfetelli,7,85.14285714,3.236694375,88.0,80.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2014,W,COMM,525,,OVERALL,Introduction to Behavioural Research Methods for Business,,7,85.14285714,3.236694375,88.0,80.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2014,W,COMM,581,,OR1,Statistical Methodology I,Zhe Zhang,15,82.13333333,8.034449636,93.0,70.0,0,0,0,0,0,,,,,,
+UBCV,2014,W,COMM,581,,OVERALL,Statistical Methodology I,,15,82.13333333,8.034449636,93.0,70.0,0,0,0,0,0,,,,,,
+UBCV,2014,W,COMM,590,A,001,Topics in Business Administration,Jack Favilukis,5,78.8,9.391485505,89.0,70.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,COMM,590,A,OVERALL,Topics in Business Administration,,5,78.8,9.391485505,89.0,70.0,0,0,0,0,0,,,,,,0
+UBCV,2014,W,COMM,633,,001,Modelling Methods in the Research and Practice of Information Systems,Yair Wand,5,85.0,3.0,90.0,82.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,COMM,633,,OVERALL,Modelling Methods in the Research and Practice of Information Systems,,5,85.0,3.0,90.0,82.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,COMM,651,,001,Analysis of Accounting Information in Markets,Russell Lundholm,6,86.0,10.62073444,97.0,74.0,0,0,0,0,0,0,,,,,
+UBCV,2014,W,COMM,651,,OVERALL,Analysis of Accounting Information in Markets,,6,86.0,10.62073444,97.0,74.0,0,0,0,0,0,0,,,,,
+UBCV,2014,W,COMM,661,,001,Analytical Methods and Models in Marketing,Ting Zhu,5,86.2,1.303840481,88.0,85.0,0,0,0,0,0,0,0,0,0,5,0
+UBCV,2014,W,COMM,661,,OVERALL,Analytical Methods and Models in Marketing,,5,86.2,1.303840481,88.0,85.0,0,0,0,0,0,0,0,0,0,5,0
+UBCV,2014,W,COMM,671,,001,Theory of Finance,Ali Lazrak,7,84.14285714,7.470577207,96.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,COMM,671,,OVERALL,Theory of Finance,,7,84.14285714,7.470577207,96.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,COMM,673,,001,Advanced Topics in Theoretical Asset Pricing,Lorenzo Garlappi,12,85.83333333,7.814128618,96.0,72.0,0,0,0,0,0,0,,,,,5
+UBCV,2014,W,COMM,673,,OVERALL,Advanced Topics in Theoretical Asset Pricing,,12,85.83333333,7.814128618,96.0,72.0,0,0,0,0,0,0,,,,,5
+UBCV,2014,W,COMM,674,,001,Advanced Topics in Empirical Asset Pricing,Adlai Fisher;Carolin Pflueger,15,83.46666667,1.35576371,85.0,82.0,0,0,0,0,0,0,0,0,9,6,0
+UBCV,2014,W,COMM,674,,OVERALL,Advanced Topics in Empirical Asset Pricing,,15,83.46666667,1.35576371,85.0,82.0,0,0,0,0,0,0,0,0,9,6,0
+UBCV,2014,W,COMM,691,,001,Advanced Topics in Policy Analysis,Ralph Winter,12,85.5,7.775252115,92.0,70.0,0,0,0,0,0,,,,,,6
+UBCV,2014,W,COMM,691,,OVERALL,Advanced Topics in Policy Analysis,,12,85.5,7.775252115,92.0,70.0,0,0,0,0,0,,,,,,6
+UBCV,2014,W,COMM,693,,001,Seminar in Research Methodology I,Ralph Winter,12,85.91666667,3.28794861,92.0,82.0,0,0,0,0,0,0,0,0,,7,
+UBCV,2014,W,COMM,693,,OVERALL,Seminar in Research Methodology I,,12,85.91666667,3.28794861,92.0,82.0,0,0,0,0,0,0,0,0,,7,

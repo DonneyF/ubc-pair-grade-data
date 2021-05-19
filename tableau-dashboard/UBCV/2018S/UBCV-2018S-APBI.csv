@@ -1,14 +1,12 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,S,APBI,200,,98A,Introduction to Soil Science,Akshit Puri;Kiran Padda;Kiran Preet Padda,25,69.24,19.528355452,96.0,17.0,,,,,,,,,8,,
-UBCV,2018,S,APBI,200,,OVERALL,Introduction to Soil Science,,25,69.24,19.528355452,96.0,17.0,,,,,,,,,8,,
-UBCV,2018,S,APBI,314,,941,Animals and Society,Elisabeth Helen Ormandy;Elisabeth Ormandy;Katie Elizabeth Koralesky;Katie Koralesky,38,81.289473684,9.397837286,96.0,42.0,,,,,,,,,10,13,
-UBCV,2018,S,APBI,314,,OVERALL,Animals and Society,,38,81.289473684,9.397837286,96.0,42.0,,,,,,,,,10,13,
-UBCV,2018,S,APBI,365,,951,Summer Practicum in Sustainable Agriculture and Food Systems,,5,93.6,2.073644135,96.0,91.0,,,,,,,,,,,5
-UBCV,2018,S,APBI,365,,OVERALL,Summer Practicum in Sustainable Agriculture and Food Systems,,5,93.6,2.073644135,96.0,91.0,,,,,,,,,,,5
-UBCV,2018,S,APBI,428,,98A,Integrated Pest Management,Minnie Yu-Ching Teng;Victoria Ostenso;Victoria Rae Ostenso;Yasmin Akhtar,23,78.739130435,11.701660299,90.0,30.0,,,,,,,,,11,,
-UBCV,2018,S,APBI,428,,OVERALL,Integrated Pest Management,,23,78.739130435,11.701660299,90.0,30.0,,,,,,,,,11,,
-UBCV,2018,S,APBI,490,,921,Advanced Topics in Applied Biology,Simone Castellarin;Yevgen Kovalenko,6,86.0,4.939635614,92.0,78.0,,,,,,,,,,,
-UBCV,2018,S,APBI,490,,OVERALL,Advanced Topics in Applied Biology,,6,86.0,4.939635614,92.0,78.0,,,,,,,,,,,
-UBCV,2018,S,APBI,496,B,951,Applied Animal Biology Practicum,Sara Dubois,10,83.8,5.094659513,92.0,76.0,,,,,,,,,5,,
-UBCV,2018,S,APBI,496,B,OVERALL,Applied Animal Biology Practicum,,11,84.090909091,4.928580838999999,92.0,76.0,,,,,,,,,5,,
-UBCV,2018,S,APBI,497,B,OVERALL,Directed Studies,,7,90.0,5.773502692,95.0,78.0,,,,,,,,,,,5
+UBCV,2018,S,APBI,200,,98A,Introduction to Soil Science,Akshit Puri;Kiran Padda;Kiran Preet Padda,25,69.24,19.52835545,96.0,17.0,3,2,2,0,0,3,1,3,8,1,2
+UBCV,2018,S,APBI,200,,OVERALL,Introduction to Soil Science,,25,69.24,19.52835545,96.0,17.0,3,2,2,0,0,3,1,3,8,1,2
+UBCV,2018,S,APBI,314,,941,Animals and Society,Elisabeth Helen Ormandy;Elisabeth Ormandy;Katie Elizabeth Koralesky;Katie Koralesky,38,81.28947368,9.397837286,96.0,42.0,1,0,0,0,2,0,4,4,10,13,4
+UBCV,2018,S,APBI,314,,OVERALL,Animals and Society,,38,81.28947368,9.397837286,96.0,42.0,1,0,0,0,2,0,4,4,10,13,4
+UBCV,2018,S,APBI,428,,98A,Integrated Pest Management,Minnie Yu-Ching Teng;Victoria Ostenso;Victoria Rae Ostenso;Yasmin Akhtar,23,78.73913044,11.7016603,90.0,30.0,1,0,0,0,0,1,3,2,11,3,2
+UBCV,2018,S,APBI,428,,OVERALL,Integrated Pest Management,,23,78.73913044,11.7016603,90.0,30.0,1,0,0,0,0,1,3,2,11,3,2
+UBCV,2018,S,APBI,490,,921,Advanced Topics in Applied Biology,Simone Castellarin;Yevgen Kovalenko,6,86.0,4.939635614,92.0,78.0,0,0,0,0,0,0,0,1,1,3,1
+UBCV,2018,S,APBI,490,,OVERALL,Advanced Topics in Applied Biology,,6,86.0,4.939635614,92.0,78.0,0,0,0,0,0,0,0,1,1,3,1
+UBCV,2018,S,APBI,496,B,951,Applied Animal Biology Practicum,Sara Dubois,10,83.8,5.094659513,92.0,76.0,0,0,0,0,0,0,0,1,5,2,2
+UBCV,2018,S,APBI,496,B,OVERALL,Applied Animal Biology Practicum,,11,84.09090909,4.928580839,92.0,76.0,0,0,0,0,0,0,0,1,5,3,2
+UBCV,2018,S,APBI,497,B,OVERALL,Directed Studies,,7,90.0,5.773502692,95.0,78.0,0,0,0,0,0,0,0,,,,

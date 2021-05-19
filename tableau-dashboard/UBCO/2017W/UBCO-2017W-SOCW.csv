@@ -1,30 +1,30 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,W,SOCW,511,,001,Introduction to Social Work Theory and Practice,Dixon Sookraj,30,90.566666667,3.520220735,96.0,82.0,,,,,,,,,,7,20
-UBCO,2017,W,SOCW,511,,OVERALL,Introduction to Social Work Theory and Practice,,30,90.566666667,3.520220735,96.0,82.0,,,,,,,,,,7,20
-UBCO,2017,W,SOCW,512,,001,Theories and Interventions for Clinical Social Work,Shirley Bo Yee Chau,30,92.166666667,3.291402943,97.0,85.0,,,,,,,,,,5,25
-UBCO,2017,W,SOCW,512,,OVERALL,Theories and Interventions for Clinical Social Work,,30,92.166666667,3.291402943,97.0,85.0,,,,,,,,,,5,25
-UBCO,2017,W,SOCW,513,,001,Assessment Skills for Clinical Social Work,Brian Rasmussen,16,86.8125,5.294257896,93.0,71.0,,,,,,,,,,9,4
-UBCO,2017,W,SOCW,513,,002,Assessment Skills for Clinical Social Work,Donna Jansons,14,89.64285714299999,4.749204676000001,94.0,80.0,,,,,,,,,,1,10
-UBCO,2017,W,SOCW,513,,OVERALL,Assessment Skills for Clinical Social Work,,30,88.133333333,5.164422946,94.0,71.0,,,,,,,,,5,10,14
-UBCO,2017,W,SOCW,514,,001,Diversity and Critical Reflexive Practice,Laura Hockman,30,89.03333333299999,3.0454412889999998,94.0,84.0,,,,,,,,,,14,15
-UBCO,2017,W,SOCW,514,,OVERALL,Diversity and Critical Reflexive Practice,,30,89.03333333299999,3.0454412889999998,94.0,84.0,,,,,,,,,,14,15
-UBCO,2017,W,SOCW,516,,001,Foundations of Ethical Practice,Dixon Sookraj,30,89.96666666700001,3.890601703,96.0,76.0,,,,,,,,,,9,19
-UBCO,2017,W,SOCW,516,,OVERALL,Foundations of Ethical Practice,,30,89.96666666700001,3.890601703,96.0,76.0,,,,,,,,,,9,19
-UBCO,2017,W,SOCW,523,,001,"Advanced Assessment and Treatment With Children, Adolescents and Families",Hilla Shlomi,10,88.5,4.116363012,95.0,85.0,,,,,,,,,,5,5
-UBCO,2017,W,SOCW,523,,OVERALL,"Advanced Assessment and Treatment With Children, Adolescents and Families",,12,88.75,3.7688918069999997,95.0,85.0,,,,,,,,,,5,7
-UBCO,2017,W,SOCW,540,S,001,Selected Topics in Social Work Practice,Andrew Kerr,30,91.23333333299999,3.635868566,97.0,77.0,,,,,,,,,,7,22
-UBCO,2017,W,SOCW,540,S,OVERALL,Selected Topics in Social Work Practice,,30,91.23333333299999,3.635868566,97.0,77.0,,,,,,,,,,7,22
-UBCO,2017,W,SOCW,540,T,001,Selected Topics in Social Work Practice,Dixon Sookraj,7,91.571428571,2.935821456,95.0,87.0,,,,,,,,,,,5
-UBCO,2017,W,SOCW,540,T,OVERALL,Selected Topics in Social Work Practice,,7,91.571428571,2.935821456,95.0,87.0,,,,,,,,,,,5
-UBCO,2017,W,SOCW,540,X,001,Selected Topics in Social Work Practice,Laura Hockman,11,87.454545455,5.373334837000001,93.0,73.0,,,,,,,,,,7,
-UBCO,2017,W,SOCW,540,X,OVERALL,Selected Topics in Social Work Practice,,11,87.454545455,5.373334837000001,93.0,73.0,,,,,,,,,,7,
-UBCO,2017,W,SOCW,551,,001,Advanced Clinical Social Work Theory and Practice,Brian Rasmussen,27,86.14814814799999,2.1068332730000003,90.0,81.0,,,,,,,,,6,20,1
-UBCO,2017,W,SOCW,551,,002,Advanced Clinical Social Work Theory and Practice,Brian Rasmussen,23,86.956521739,3.68631697,94.0,80.0,,,,,,,,,4,13,6
-UBCO,2017,W,SOCW,551,,OVERALL,Advanced Clinical Social Work Theory and Practice,,50,86.52,2.936331183,94.0,80.0,,,,,,,,,10,33,7
-UBCO,2017,W,SOCW,552,,001,"Community, Place and Policy in Clinical Practice",Rachelle Hole,27,85.0,5.363695626,93.0,73.0,,,,,,,3,1,,15,5
-UBCO,2017,W,SOCW,552,,002,"Community, Place and Policy in Clinical Practice",Judy Gillespie,24,80.416666667,6.9714739670000005,93.0,64.0,,,,,,,5,6,,5,3
-UBCO,2017,W,SOCW,552,,OVERALL,"Community, Place and Policy in Clinical Practice",,51,82.843137255,6.531072038,93.0,64.0,,,,,,,8,7,7,20,8
-UBCO,2017,W,SOCW,553,,001,Research Methods and Evidence in Clinical Social Work Practice,Shirley Bo Yee Chau,50,87.44,4.160847637,94.0,78.0,,,,,,,,,11,23,15
-UBCO,2017,W,SOCW,553,,OVERALL,Research Methods and Evidence in Clinical Social Work Practice,,51,87.62745098,4.331100481,97.0,78.0,,,,,,,,,11,23,16
-UBCO,2017,W,SOCW,554,,001,Mental Health and Mental Illness,Allan Clarke,52,83.307692308,4.165867193,91.0,71.0,,,,,,,,6,18,23,
-UBCO,2017,W,SOCW,554,,OVERALL,Mental Health and Mental Illness,,52,83.307692308,4.165867193,91.0,71.0,,,,,,,,6,18,23,
+UBCO,2017,W,SOCW,511,,001,Introduction to Social Work Theory and Practice,Dixon Sookraj,30,90.56666667,3.520220735,96.0,82.0,0,0,0,0,0,0.0,0,0,3.0,7,20
+UBCO,2017,W,SOCW,511,,OVERALL,Introduction to Social Work Theory and Practice,,30,90.56666667,3.520220735,96.0,82.0,0,0,0,0,0,0.0,0,0,3.0,7,20
+UBCO,2017,W,SOCW,512,,001,Theories and Interventions for Clinical Social Work,Shirley Bo Yee Chau,30,92.16666667,3.291402943,97.0,85.0,0,0,0,0,0,0.0,0,0,0.0,5,25
+UBCO,2017,W,SOCW,512,,OVERALL,Theories and Interventions for Clinical Social Work,,30,92.16666667,3.291402943,97.0,85.0,0,0,0,0,0,0.0,0,0,0.0,5,25
+UBCO,2017,W,SOCW,513,,001,Assessment Skills for Clinical Social Work,Brian Rasmussen,16,86.8125,5.294257896,93.0,71.0,0,0,0,0,0,1.0,0,0,2.0,9,4
+UBCO,2017,W,SOCW,513,,002,Assessment Skills for Clinical Social Work,Donna Jansons,14,89.64285714,4.749204676,94.0,80.0,0,0,0,0,0,0.0,0,0,3.0,1,10
+UBCO,2017,W,SOCW,513,,OVERALL,Assessment Skills for Clinical Social Work,,30,88.13333333,5.164422946,94.0,71.0,0,0,0,0,0,1.0,0,0,5.0,10,14
+UBCO,2017,W,SOCW,514,,001,Diversity and Critical Reflexive Practice,Laura Hockman,30,89.03333333,3.045441289,94.0,84.0,0,0,0,0,0,0.0,0,0,1.0,14,15
+UBCO,2017,W,SOCW,514,,OVERALL,Diversity and Critical Reflexive Practice,,30,89.03333333,3.045441289,94.0,84.0,0,0,0,0,0,0.0,0,0,1.0,14,15
+UBCO,2017,W,SOCW,516,,001,Foundations of Ethical Practice,Dixon Sookraj,30,89.96666667,3.890601703,96.0,76.0,0,0,0,0,0,0.0,0,1,1.0,9,19
+UBCO,2017,W,SOCW,516,,OVERALL,Foundations of Ethical Practice,,30,89.96666667,3.890601703,96.0,76.0,0,0,0,0,0,0.0,0,1,1.0,9,19
+UBCO,2017,W,SOCW,523,,001,"Advanced Assessment and Treatment With Children, Adolescents and Families",Hilla Shlomi,10,88.5,4.116363012,95.0,85.0,0,0,0,0,0,0.0,0,0,0.0,5,5
+UBCO,2017,W,SOCW,523,,OVERALL,"Advanced Assessment and Treatment With Children, Adolescents and Families",,12,88.75,3.768891807,95.0,85.0,0,0,0,0,0,0.0,0,0,0.0,5,7
+UBCO,2017,W,SOCW,540,S,001,Selected Topics in Social Work Practice,Andrew Kerr,30,91.23333333,3.635868566,97.0,77.0,0,0,0,0,0,0.0,0,1,0.0,7,22
+UBCO,2017,W,SOCW,540,S,OVERALL,Selected Topics in Social Work Practice,,30,91.23333333,3.635868566,97.0,77.0,0,0,0,0,0,0.0,0,1,0.0,7,22
+UBCO,2017,W,SOCW,540,T,001,Selected Topics in Social Work Practice,Dixon Sookraj,7,91.57142857,2.935821456,95.0,87.0,0,0,0,0,0,0.0,0,0,0.0,2,5
+UBCO,2017,W,SOCW,540,T,OVERALL,Selected Topics in Social Work Practice,,7,91.57142857,2.935821456,95.0,87.0,0,0,0,0,0,0.0,0,0,0.0,2,5
+UBCO,2017,W,SOCW,540,X,001,Selected Topics in Social Work Practice,Laura Hockman,11,87.45454546,5.373334837,93.0,73.0,0,0,0,0,0,0.0,1,0,0.0,7,3
+UBCO,2017,W,SOCW,540,X,OVERALL,Selected Topics in Social Work Practice,,11,87.45454546,5.373334837,93.0,73.0,0,0,0,0,0,0.0,1,0,0.0,7,3
+UBCO,2017,W,SOCW,551,,001,Advanced Clinical Social Work Theory and Practice,Brian Rasmussen,27,86.14814815,2.106833273,90.0,81.0,0,0,0,0,0,0.0,0,0,6.0,20,1
+UBCO,2017,W,SOCW,551,,002,Advanced Clinical Social Work Theory and Practice,Brian Rasmussen,23,86.95652174,3.68631697,94.0,80.0,0,0,0,0,0,0.0,0,0,4.0,13,6
+UBCO,2017,W,SOCW,551,,OVERALL,Advanced Clinical Social Work Theory and Practice,,50,86.52,2.936331183,94.0,80.0,0,0,0,0,0,0.0,0,0,10.0,33,7
+UBCO,2017,W,SOCW,552,,001,"Community, Place and Policy in Clinical Practice",Rachelle Hole,27,85.0,5.363695626,93.0,73.0,0,0,0,0,0,0.0,3,1,3.0,15,5
+UBCO,2017,W,SOCW,552,,002,"Community, Place and Policy in Clinical Practice",Judy Gillespie,24,80.41666667,6.971473967,93.0,64.0,0,0,0,0,1,0.0,5,6,4.0,5,3
+UBCO,2017,W,SOCW,552,,OVERALL,"Community, Place and Policy in Clinical Practice",,51,82.84313726,6.531072038,93.0,64.0,0,0,0,0,1,0.0,8,7,7.0,20,8
+UBCO,2017,W,SOCW,553,,001,Research Methods and Evidence in Clinical Social Work Practice,Shirley Bo Yee Chau,50,87.44,4.160847637,94.0,78.0,0,0,0,0,0,0.0,0,1,11.0,23,15
+UBCO,2017,W,SOCW,553,,OVERALL,Research Methods and Evidence in Clinical Social Work Practice,,51,87.62745098,4.331100481,97.0,78.0,0,0,0,0,0,0.0,0,1,11.0,23,16
+UBCO,2017,W,SOCW,554,,001,Mental Health and Mental Illness,Allan Clarke,52,83.30769231,4.165867193,91.0,71.0,0,0,0,0,0,1.0,2,6,18.0,23,2
+UBCO,2017,W,SOCW,554,,OVERALL,Mental Health and Mental Illness,,52,83.30769231,4.165867193,91.0,71.0,0,0,0,0,0,1.0,2,6,18.0,23,2

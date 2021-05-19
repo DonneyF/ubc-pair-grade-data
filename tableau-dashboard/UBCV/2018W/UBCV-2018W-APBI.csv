@@ -1,89 +1,84 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,APBI,200,,001,Introduction to Soil Science,Akshit Puri;Alexander Kramer;Chantel Chizen;Dixi Umesh Modi;Kiran Padda;Kiran Preet Padda;Lewis Fausak;Maria Porter;Sandra Brown;Yuchen Li,235,70.625531915,14.812077367,96.0,0.0,12,8,16,17,37,21,28,28,34,20,14
-UBCV,2018,W,APBI,200,,OVERALL,Introduction to Soil Science,,235,70.625531915,14.812077367,96.0,0.0,12,8,16,17,37,21,28,28,34,20,14
-UBCV,2018,W,APBI,210,,001,Vascular Plants,Christopher Lee;Sean Graham;Shona Margaret Ellis;William Iles,16,60.25,25.193914609,85.0,1.0,,,,,,,,,,,
-UBCV,2018,W,APBI,210,,OVERALL,Vascular Plants,,16,60.25,25.193914609,85.0,1.0,,,,,,,,,,,
-UBCV,2018,W,APBI,222,,001,Introduction to Horticulture,David Mcarthur;Wei Yan Yeong,5,80.2,7.694153625,87.0,70.0,,,,,,,,,,,
-UBCV,2018,W,APBI,222,,OVERALL,Introduction to Horticulture,,5,80.2,7.694153625,87.0,70.0,,,,,,,,,,,
-UBCV,2018,W,APBI,244,,001,Introduction to Biometeorology,Hughie Jones;Oscar Zimmerman;Thomas Andrew Black,38,71.15789473699999,18.677239098,91.0,18.0,,,,,,,,,7,10,
-UBCV,2018,W,APBI,244,,OVERALL,Introduction to Biometeorology,,38,71.15789473699999,18.677239098,91.0,18.0,,,,,,,,,7,10,
-UBCV,2018,W,APBI,260,,001,Agroecology I: Introduction to principles and techniques,Alexander Kramer;Chantel Chizen;Corine Singfield;Lewis Fausak;Lyndsey Dowell;Sean Smukler,39,81.051282051,11.909635016,98.0,48.0,,,,,,,,,10,10,8
-UBCV,2018,W,APBI,260,,OVERALL,Agroecology I: Introduction to principles and techniques,,39,81.051282051,11.909635016,98.0,48.0,,,,,,,,,10,10,8
-UBCV,2018,W,APBI,265,,001,Sustainable Agriculture and Food Systems,Delisa Lewis,27,81.148148148,16.183333553,94.0,10.0,,,,,,,,,7,11,
-UBCV,2018,W,APBI,265,,OVERALL,Sustainable Agriculture and Food Systems,,27,81.148148148,16.183333553,94.0,10.0,,,,,,,,,7,11,
-UBCV,2018,W,APBI,290,,001,Introductory Topics in Applied Biology,Devon Jillene Wilson;Devon Wilson;Yasmin Akhtar,23,77.869565217,6.032520562999999,84.0,62.0,,,,,,,6,,13,,
-UBCV,2018,W,APBI,290,,OVERALL,Introductory Topics in Applied Biology,,23,77.869565217,6.032520562999999,84.0,62.0,,,,,,,6,,13,,
-UBCV,2018,W,APBI,311,,001,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",Anthony Farrell;David Rosen,16,79.25,7.478859093,92.0,70.0,,,,,,,,,,,
-UBCV,2018,W,APBI,311,,OVERALL,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",,16,79.25,7.478859093,92.0,70.0,,,,,,,,,,,
-UBCV,2018,W,APBI,312,,001,Reproductive and Digestive Physiology,Augusto Mesquita Lacerda Madureir;Janet Bauer;Janet Wright Bauer;Ronaldo Cerri,44,77.272727273,9.334516184,93.0,50.0,,,,,,8,5,7,10,,5
-UBCV,2018,W,APBI,312,,OVERALL,Reproductive and Digestive Physiology,,44,77.272727273,9.334516184,93.0,50.0,,,,,,8,5,7,10,,5
-UBCV,2018,W,APBI,314,,001,Animals and Society,Anna Ratuski;Anna Selene Ratuski;Anne-Marieke Catherine Smid;Anne-Marieke Smid;David Fraser;Katie Elizabeth Koralesky;Katie Koralesky;Marina Von Keyserlingk,158,80.626582278,10.625941204,95.0,18.0,,,,,5,10,21,16,31,34,33
-UBCV,2018,W,APBI,314,,003,Animals and Society,Elisabeth Helen Ormandy;Elisabeth Ormandy;Laura Katherine Whalin;Laura Whalin,59,82.542372881,8.321807732,95.0,57.0,,,,,3,3,2,5,13,24,7
-UBCV,2018,W,APBI,314,,OVERALL,Animals and Society,,217,81.147465438,10.069499488,95.0,18.0,,,,,8,13,23,21,44,58,40
-UBCV,2018,W,APBI,315,,001,Animal Welfare and the Ethics of Animal Use,Bailey Eagan;Bailey Hope Eagan;Daniel Weary;David Fraser,57,84.122807018,7.149101281,98.0,65.0,,,,,,,,6,15,14,17
-UBCV,2018,W,APBI,315,,OVERALL,Animal Welfare and the Ethics of Animal Use,,57,84.122807018,7.149101281,98.0,65.0,,,,,,,,6,15,14,17
-UBCV,2018,W,APBI,316,,001,"Equine Biology, Health and Welfare",Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Catherine Schuppli;Katelyn Elizabeth Mills;Katelyn Mills;Katie Elizabeth Koralesky;Katie Koralesky,46,82.97826087,7.00948288,96.0,62.0,,,,,,,,6,15,14,6
-UBCV,2018,W,APBI,316,,OVERALL,"Equine Biology, Health and Welfare",,46,82.97826087,7.00948288,96.0,62.0,,,,,,,,6,15,14,6
-UBCV,2018,W,APBI,318,,001,Applied Plant Breeding,Andrew Riseman,17,85.176470588,14.107778414,100.0,47.0,,,,,,,,,,,8
-UBCV,2018,W,APBI,318,,OVERALL,Applied Plant Breeding,,17,85.176470588,14.107778414,100.0,47.0,,,,,,,,,,,8
-UBCV,2018,W,APBI,319,,99C,Aquaculture and the Environment,Paige Adrienne Ackerman,35,77.6,14.641198922000001,95.0,45.0,,,,,,,,,,7,8
-UBCV,2018,W,APBI,319,,OVERALL,Aquaculture and the Environment,,35,77.6,14.641198922000001,95.0,45.0,,,,,,,,,,7,8
-UBCV,2018,W,APBI,324,,001,Introduction to Seed Plant Taxonomy,Quentin Charles Cronk;William Iles,9,70.0,20.910523666,88.0,18.0,,,,,,,,,,,
-UBCV,2018,W,APBI,324,,OVERALL,Introduction to Seed Plant Taxonomy,,9,70.0,20.910523666,88.0,18.0,,,,,,,,,,,
-UBCV,2018,W,APBI,327,,001,Introduction to Entomology,Francisco Gomez Lopez;Francisco Javier Gomez Lopez;Patricia Hanuszak;Patricia Jayne Hanuszak;Yasmin Akhtar;Zachary Melo;Zachary Ryan Melo,25,69.12,15.759441614000002,82.0,0.0,,,,,,,11,,5,,
-UBCV,2018,W,APBI,327,,OVERALL,Introduction to Entomology,,25,69.12,15.759441614000002,82.0,0.0,,,,,,,11,,5,,
-UBCV,2018,W,APBI,328,,001,Weed Science,Anestis Marios Tzanidis;Jennifer Berneda Grenz;Jennifer Grenz;Mahesh Upadhyaya,19,73.105263158,13.835922395999999,91.0,39.0,,,,,,,,,,,
-UBCV,2018,W,APBI,328,,OVERALL,Weed Science,,19,73.105263158,13.835922395999999,91.0,39.0,,,,,,,,,,,
-UBCV,2018,W,APBI,342,,001,Soil Biology,Christopher Chanway,18,87.166666667,8.480080466,98.0,68.0,,,,,,,,,,,9
-UBCV,2018,W,APBI,342,,OVERALL,Soil Biology,,18,87.166666667,8.480080466,98.0,68.0,,,,,,,,,,,9
-UBCV,2018,W,APBI,351,,001,Plant Physiology,Santokh Singh;Shawn Mansfield,14,73.428571429,9.748485371000001,87.0,58.0,,,,,,,,,,,
-UBCV,2018,W,APBI,351,,OVERALL,Plant Physiology,,14,73.428571429,9.748485371000001,87.0,58.0,,,,,,,,,,,
-UBCV,2018,W,APBI,360,,001,Agroecology II: Application and analysis,Andrew Riseman,24,85.833333333,8.323182223,99.0,70.0,,,,,,,,,,6,8
-UBCV,2018,W,APBI,360,,OVERALL,Agroecology II: Application and analysis,,24,85.833333333,8.323182223,99.0,70.0,,,,,,,,,,6,8
-UBCV,2018,W,APBI,361,,199,Key Indicators of Agroecosystem Sustainability,Amy Ellen Norgaard;Amy Norgaard;Delisa Lewis,36,76.555555556,22.03561331,97.0,0.0,,,,,,,,,,8,10
-UBCV,2018,W,APBI,361,,OVERALL,Key Indicators of Agroecosystem Sustainability,,36,76.555555556,22.03561331,97.0,0.0,,,,,,,,,,8,10
-UBCV,2018,W,APBI,398,,001,Research Methods in Applied Biology,Daniel Weary;Katie Elizabeth Koralesky;Katie Koralesky;Marina Von Keyserlingk,17,88.058823529,7.487244054,98.0,75.0,,,,,,,,,,3,8
-UBCV,2018,W,APBI,398,,002,Research Methods in Applied Biology,Daniel Weary;Katie Elizabeth Koralesky;Katie Koralesky;Marina Von Keyserlingk,16,84.875,5.863730326000001,93.0,73.0,,,,,,,,,,7,4
-UBCV,2018,W,APBI,398,,OVERALL,Research Methods in Applied Biology,,33,86.515151515,6.837951137,98.0,73.0,,,,,,,,,6,10,12
-UBCV,2018,W,APBI,401,,001,Soil Processes,Akshit Puri;Sandra Brown,26,74.807692308,14.560272609,90.0,32.0,,,,,,,,,5,,
-UBCV,2018,W,APBI,401,,OVERALL,Soil Processes,,26,74.807692308,14.560272609,90.0,32.0,,,,,,,,,5,,
-UBCV,2018,W,APBI,402,,001,Sustainable Soil Management,Brianna Thompson;Maja Krzic;Sandra Brown;Sean Smukler,28,81.0,10.150716085,90.0,33.0,,,,,,,,,15,6,
-UBCV,2018,W,APBI,402,,OVERALL,Sustainable Soil Management,,28,81.0,10.150716085,90.0,33.0,,,,,,,,,15,6,
-UBCV,2018,W,APBI,410,,002,Applied Animal Health and Physiology,Augusto Mesquita Lacerda Madureir;Janet Bauer;Janet Wright Bauer;Ronaldo Cerri,15,89.2,5.466782809,97.0,80.0,,,,,,,,,,,9
-UBCV,2018,W,APBI,410,,OVERALL,Applied Animal Health and Physiology,,15,89.2,5.466782809,97.0,80.0,,,,,,,,,,,9
-UBCV,2018,W,APBI,412,,001,Belowground Ecosystems,Dixi Umesh Modi;Susan Grayston,5,73.2,16.902662512,87.0,44.0,,,,,,,,,,,
-UBCV,2018,W,APBI,412,,OVERALL,Belowground Ecosystems,,5,73.2,16.902662512,87.0,44.0,,,,,,,,,,,
-UBCV,2018,W,APBI,413,,001,Stress and Coping in Animals,Bailey Eagan;Bailey Hope Eagan;Kristen Walker,47,80.063829787,12.854375427,98.0,36.0,,,,,,,,8,8,7,11
-UBCV,2018,W,APBI,413,,OVERALL,Stress and Coping in Animals,,47,80.063829787,12.854375427,98.0,36.0,,,,,,,,8,8,7,11
-UBCV,2018,W,APBI,414,,001,Animals and Global Issues,David Fraser;Laura Katherine Whalin;Laura Whalin,18,81.444444444,9.12154671,91.0,50.0,,,,,,,,,7,,
-UBCV,2018,W,APBI,414,,OVERALL,Animals and Global Issues,,18,81.444444444,9.12154671,91.0,50.0,,,,,,,,,7,,
-UBCV,2018,W,APBI,415,,001,Applied Animal Behaviour,Kristen Walker;Paige Mcdonald;Paige Victoria Mcdonald,22,80.636363636,18.91219172,97.0,11.0,,,,,,,,,,,7
-UBCV,2018,W,APBI,415,,OVERALL,Applied Animal Behaviour,,22,80.636363636,18.91219172,97.0,11.0,,,,,,,,,,,7
-UBCV,2018,W,APBI,416,,001,Animal Welfare and Conservation Biology,Katie Elizabeth Koralesky;Katie Koralesky;Kristen Walker,33,75.787878788,13.202172112000001,94.0,33.0,,,,,,5,,,,6,5
-UBCV,2018,W,APBI,416,,OVERALL,Animal Welfare and Conservation Biology,,33,75.787878788,13.202172112000001,94.0,33.0,,,,,,5,,,,6,5
-UBCV,2018,W,APBI,417,,001,Production and Postharvest Physiology of Vegetable Crops,Mahesh Upadhyaya;Maria Porter;Maria Teresa Porter,9,77.222222222,9.257129385,93.0,61.0,,,,,,,,,,,
-UBCV,2018,W,APBI,417,,OVERALL,Production and Postharvest Physiology of Vegetable Crops,,9,77.222222222,9.257129385,93.0,61.0,,,,,,,,,,,
-UBCV,2018,W,APBI,418,,99A,Intensive Fish Production,Paige Adrienne Ackerman,18,80.444444444,19.014614263,97.0,13.0,,,,,,,,,,,7
-UBCV,2018,W,APBI,418,,OVERALL,Intensive Fish Production,,18,80.444444444,19.014614263,97.0,13.0,,,,,,,,,,,7
-UBCV,2018,W,APBI,419,,99C,Fish Health,Paige Adrienne Ackerman,25,69.4,22.629258346999997,90.0,4.0,,,,,,5,,6,,,
-UBCV,2018,W,APBI,419,,OVERALL,Fish Health,,25,69.4,22.629258346999997,90.0,4.0,,,,,,5,,6,,,
-UBCV,2018,W,APBI,426,,001,Plant-Microbe Interactions,James Kronstad,8,70.375,8.534593471,81.0,60.0,,,,,,,,,,,
-UBCV,2018,W,APBI,426,,OVERALL,Plant-Microbe Interactions,,8,70.375,8.534593471,81.0,60.0,,,,,,,,,,,
-UBCV,2018,W,APBI,428,,99C,Integrated Pest Management,Minnie Yu-Ching Teng;Yasmin Akhtar,31,79.419354839,15.536568033,90.0,0.0,,,,,,,5,,13,10,
-UBCV,2018,W,APBI,428,,OVERALL,Integrated Pest Management,,31,79.419354839,15.536568033,90.0,0.0,,,,,,,5,,13,10,
-UBCV,2018,W,APBI,444,,001,Agroforestry,Cindy Prescott;Kermit Ritland;Priya Puri;Thomas Andrew Black,15,87.8,6.482944657000001,97.0,76.0,,,,,,,,,,,7
-UBCV,2018,W,APBI,444,,OVERALL,Agroforestry,,15,87.8,6.482944657000001,97.0,76.0,,,,,,,,,,,7
-UBCV,2018,W,APBI,460,,001,Agroecology III: Synthesis and evaluation,Andrew Riseman;Paige Adrienne Ackerman,9,92.888888889,2.97676185,98.0,89.0,,,,,,,,,,,8
-UBCV,2018,W,APBI,460,,OVERALL,Agroecology III: Synthesis and evaluation,,9,92.888888889,2.97676185,98.0,89.0,,,,,,,,,,,8
-UBCV,2018,W,APBI,490,,201,Advanced Topics in Applied Biology,Anna Ratuski;Anna Selene Ratuski;Catherine Schuppli,42,85.595238095,9.286915852,99.0,56.0,,,,,,,,,8,9,17
-UBCV,2018,W,APBI,490,,OVERALL,Advanced Topics in Applied Biology,,42,85.595238095,9.286915852,99.0,56.0,,,,,,,,,8,9,17
-UBCV,2018,W,APBI,495,,001,Principles of Wildlife Management in Forests and Agricultural Environments,Katelyn Elizabeth Mills;Katelyn Mills;Kristen Walker,14,82.428571429,11.029431157000001,96.0,70.0,,,,,,,,,,,6
-UBCV,2018,W,APBI,495,,OVERALL,Principles of Wildlife Management in Forests and Agricultural Environments,,14,82.428571429,11.029431157000001,96.0,70.0,,,,,,,,,,,6
-UBCV,2018,W,APBI,496,A,001,Applied Animal Biology Practicum,Sara Dubois,7,87.285714286,4.535573676,94.0,81.0,,,,,,,,,,,
-UBCV,2018,W,APBI,496,A,OVERALL,Applied Animal Biology Practicum,,8,87.625,4.307385684,94.0,81.0,,,,,,,,,,,
-UBCV,2018,W,APBI,497,B,001,Directed Studies,,16,88.9375,3.567795771,95.0,84.0,,,,,,,,,,5,8
-UBCV,2018,W,APBI,497,B,002,Directed Studies,,13,89.30769230799999,4.441933051,96.0,80.0,,,,,,,,,,,8
-UBCV,2018,W,APBI,497,B,OVERALL,Directed Studies,,29,89.10344827600001,3.912843573,96.0,80.0,,,,,,,,,5,8,16
-UBCV,2018,W,APBI,497,E,OVERALL,Directed Studies,,5,88.6,2.19089023,92.0,86.0,,,,,,,,,,,0
-UBCV,2018,W,APBI,499,,001,Undergraduate Thesis,Daniel Weary;Marina Von Keyserlingk,5,92.0,1.4142135619999998,94.0,91.0,,,,,,,,,,,5
-UBCV,2018,W,APBI,499,,OVERALL,Undergraduate Thesis,,6,91.666666667,1.505545305,94.0,90.0,,,,,,,,,,,6
+UBCV,2018,W,APBI,200,,001,Introduction to Soil Science,Akshit Puri;Alexander Kramer;Chantel Chizen;Dixi Umesh Modi;Kiran Padda;Kiran Preet Padda;Lewis Fausak;Maria Porter;Sandra Brown;Yuchen Li,235,70.62553192,14.81207737,96.0,0.0,12,8.0,16.0,17.0,37.0,21.0,28.0,28,34,20.0,14
+UBCV,2018,W,APBI,200,,OVERALL,Introduction to Soil Science,,235,70.62553192,14.81207737,96.0,0.0,12,8.0,16.0,17.0,37.0,21.0,28.0,28,34,20.0,14
+UBCV,2018,W,APBI,210,,001,Vascular Plants,Christopher Lee;Sean Graham;Shona Margaret Ellis;William Iles,16,60.25,25.19391461,85.0,1.0,4,0.0,1.0,1.0,0.0,2.0,3.0,2,2,1.0,0
+UBCV,2018,W,APBI,210,,OVERALL,Vascular Plants,,16,60.25,25.19391461,85.0,1.0,4,0.0,1.0,1.0,0.0,2.0,3.0,2,2,1.0,0
+UBCV,2018,W,APBI,244,,001,Introduction to Biometeorology,Hughie Jones;Oscar Zimmerman;Thomas Andrew Black,38,71.15789474,18.6772391,91.0,18.0,4,3.0,1.0,1.0,2.0,2.0,3.0,4,7,10.0,1
+UBCV,2018,W,APBI,244,,OVERALL,Introduction to Biometeorology,,38,71.15789474,18.6772391,91.0,18.0,4,3.0,1.0,1.0,2.0,2.0,3.0,4,7,10.0,1
+UBCV,2018,W,APBI,260,,001,Agroecology I: Introduction to principles and techniques,Alexander Kramer;Chantel Chizen;Corine Singfield;Lewis Fausak;Lyndsey Dowell;Sean Smukler,39,81.05128205,11.90963502,98.0,48.0,1,1.0,1.0,1.0,1.0,3.0,1.0,2,10,10.0,8
+UBCV,2018,W,APBI,260,,OVERALL,Agroecology I: Introduction to principles and techniques,,39,81.05128205,11.90963502,98.0,48.0,1,1.0,1.0,1.0,1.0,3.0,1.0,2,10,10.0,8
+UBCV,2018,W,APBI,265,,001,Sustainable Agriculture and Food Systems,Delisa Lewis,27,81.14814815,16.18333355,94.0,10.0,1,0.0,1.0,0.0,1.0,0.0,1.0,1,7,11.0,4
+UBCV,2018,W,APBI,265,,OVERALL,Sustainable Agriculture and Food Systems,,27,81.14814815,16.18333355,94.0,10.0,1,0.0,1.0,0.0,1.0,0.0,1.0,1,7,11.0,4
+UBCV,2018,W,APBI,290,,001,Introductory Topics in Applied Biology,Devon Jillene Wilson;Devon Wilson;Yasmin Akhtar,23,77.86956522,6.032520563,84.0,62.0,0,0.0,0.0,1.0,0.0,2.0,6.0,1,13,0.0,0
+UBCV,2018,W,APBI,290,,OVERALL,Introductory Topics in Applied Biology,,23,77.86956522,6.032520563,84.0,62.0,0,0.0,0.0,1.0,0.0,2.0,6.0,1,13,0.0,0
+UBCV,2018,W,APBI,311,,001,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",Anthony Farrell;David Rosen,16,79.25,7.478859093,92.0,70.0,0,0.0,0.0,0.0,0.0,3.0,3.0,4,1,2.0,3
+UBCV,2018,W,APBI,311,,OVERALL,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",,16,79.25,7.478859093,92.0,70.0,0,0.0,0.0,0.0,0.0,3.0,3.0,4,1,2.0,3
+UBCV,2018,W,APBI,312,,001,Reproductive and Digestive Physiology,Augusto Mesquita Lacerda Madureir;Janet Bauer;Janet Wright Bauer;Ronaldo Cerri,44,77.27272727,9.334516184,93.0,50.0,0,1.0,1.0,1.0,2.0,8.0,5.0,7,10,4.0,5
+UBCV,2018,W,APBI,312,,OVERALL,Reproductive and Digestive Physiology,,44,77.27272727,9.334516184,93.0,50.0,0,1.0,1.0,1.0,2.0,8.0,5.0,7,10,4.0,5
+UBCV,2018,W,APBI,314,,001,Animals and Society,Anna Ratuski;Anna Selene Ratuski;Anne-Marieke Catherine Smid;Anne-Marieke Smid;David Fraser;Katie Elizabeth Koralesky;Katie Koralesky;Marina Von Keyserlingk,158,80.62658228,10.6259412,95.0,18.0,1,3.0,2.0,2.0,5.0,10.0,21.0,16,31,34.0,33
+UBCV,2018,W,APBI,314,,003,Animals and Society,Elisabeth Helen Ormandy;Elisabeth Ormandy;Laura Katherine Whalin;Laura Whalin,59,82.54237288,8.321807732,95.0,57.0,0,0.0,2.0,0.0,3.0,3.0,2.0,5,13,24.0,7
+UBCV,2018,W,APBI,314,,OVERALL,Animals and Society,,217,81.14746544,10.06949949,95.0,18.0,1,3.0,4.0,2.0,8.0,13.0,23.0,21,44,58.0,40
+UBCV,2018,W,APBI,315,,001,Animal Welfare and the Ethics of Animal Use,Bailey Eagan;Bailey Hope Eagan;Daniel Weary;David Fraser,57,84.12280702,7.149101281,98.0,65.0,0,0.0,0.0,0.0,1.0,3.0,1.0,6,15,14.0,17
+UBCV,2018,W,APBI,315,,OVERALL,Animal Welfare and the Ethics of Animal Use,,57,84.12280702,7.149101281,98.0,65.0,0,0.0,0.0,0.0,1.0,3.0,1.0,6,15,14.0,17
+UBCV,2018,W,APBI,316,,001,"Equine Biology, Health and Welfare",Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Catherine Schuppli;Katelyn Elizabeth Mills;Katelyn Mills;Katie Elizabeth Koralesky;Katie Koralesky,46,82.97826087,7.00948288,96.0,62.0,0,0.0,0.0,1.0,1.0,0.0,3.0,6,15,14.0,6
+UBCV,2018,W,APBI,316,,OVERALL,"Equine Biology, Health and Welfare",,46,82.97826087,7.00948288,96.0,62.0,0,0.0,0.0,1.0,1.0,0.0,3.0,6,15,14.0,6
+UBCV,2018,W,APBI,318,,001,Applied Plant Breeding,Andrew Riseman,17,85.17647059,14.10777841,100.0,47.0,1,0.0,0.0,0.0,1.0,0.0,1.0,1,4,1.0,8
+UBCV,2018,W,APBI,318,,OVERALL,Applied Plant Breeding,,17,85.17647059,14.10777841,100.0,47.0,1,0.0,0.0,0.0,1.0,0.0,1.0,1,4,1.0,8
+UBCV,2018,W,APBI,319,,99C,Aquaculture and the Environment,Paige Adrienne Ackerman,35,77.6,14.64119892,95.0,45.0,3,0.0,3.0,1.0,1.0,2.0,2.0,4,4,7.0,8
+UBCV,2018,W,APBI,319,,OVERALL,Aquaculture and the Environment,,35,77.6,14.64119892,95.0,45.0,3,0.0,3.0,1.0,1.0,2.0,2.0,4,4,7.0,8
+UBCV,2018,W,APBI,324,,001,Introduction to Seed Plant Taxonomy,Quentin Charles Cronk;William Iles,9,70.0,20.91052367,88.0,18.0,1,0.0,0.0,1.0,1.0,0.0,1.0,2,2,1.0,0
+UBCV,2018,W,APBI,324,,OVERALL,Introduction to Seed Plant Taxonomy,,9,70.0,20.91052367,88.0,18.0,1,0.0,0.0,1.0,1.0,0.0,1.0,2,2,1.0,0
+UBCV,2018,W,APBI,327,,001,Introduction to Entomology,Francisco Gomez Lopez;Francisco Javier Gomez Lopez;Patricia Hanuszak;Patricia Jayne Hanuszak;Yasmin Akhtar;Zachary Melo;Zachary Ryan Melo,25,69.12,15.75944161,82.0,0.0,1,0.0,0.0,4.0,1.0,3.0,11.0,0,5,0.0,0
+UBCV,2018,W,APBI,327,,OVERALL,Introduction to Entomology,,25,69.12,15.75944161,82.0,0.0,1,0.0,0.0,4.0,1.0,3.0,11.0,0,5,0.0,0
+UBCV,2018,W,APBI,328,,001,Weed Science,Anestis Marios Tzanidis;Jennifer Berneda Grenz;Jennifer Grenz;Mahesh Upadhyaya,19,73.10526316,13.8359224,91.0,39.0,1,1.0,0.0,2.0,2.0,2.0,2.0,1,4,2.0,2
+UBCV,2018,W,APBI,328,,OVERALL,Weed Science,,19,73.10526316,13.8359224,91.0,39.0,1,1.0,0.0,2.0,2.0,2.0,2.0,1,4,2.0,2
+UBCV,2018,W,APBI,342,,001,Soil Biology,Christopher Chanway,18,87.16666667,8.480080466,98.0,68.0,0,0.0,0.0,0.0,0.0,1.0,1.0,1,4,2.0,9
+UBCV,2018,W,APBI,342,,OVERALL,Soil Biology,,18,87.16666667,8.480080466,98.0,68.0,0,0.0,0.0,0.0,0.0,1.0,1.0,1,4,2.0,9
+UBCV,2018,W,APBI,351,,001,Plant Physiology,Santokh Singh;Shawn Mansfield,14,73.42857143,9.748485371,87.0,58.0,0,0.0,1.0,1.0,4.0,1.0,0.0,3,1,3.0,0
+UBCV,2018,W,APBI,351,,OVERALL,Plant Physiology,,14,73.42857143,9.748485371,87.0,58.0,0,0.0,1.0,1.0,4.0,1.0,0.0,3,1,3.0,0
+UBCV,2018,W,APBI,360,,001,Agroecology II: Application and analysis,Andrew Riseman,24,85.83333333,8.323182223,99.0,70.0,0,0.0,0.0,0.0,0.0,2.0,1.0,3,4,6.0,8
+UBCV,2018,W,APBI,360,,OVERALL,Agroecology II: Application and analysis,,24,85.83333333,8.323182223,99.0,70.0,0,0.0,0.0,0.0,0.0,2.0,1.0,3,4,6.0,8
+UBCV,2018,W,APBI,361,,199,Key Indicators of Agroecosystem Sustainability,Amy Ellen Norgaard;Amy Norgaard;Delisa Lewis,36,76.55555556,22.03561331,97.0,0.0,2,2.0,1.0,1.0,0.0,3.0,2.0,4,3,8.0,10
+UBCV,2018,W,APBI,361,,OVERALL,Key Indicators of Agroecosystem Sustainability,,36,76.55555556,22.03561331,97.0,0.0,2,2.0,1.0,1.0,0.0,3.0,2.0,4,3,8.0,10
+UBCV,2018,W,APBI,398,,001,Research Methods in Applied Biology,Daniel Weary;Katie Elizabeth Koralesky;Katie Koralesky;Marina Von Keyserlingk,17,88.05882353,7.487244054,98.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1,4,3.0,8
+UBCV,2018,W,APBI,398,,002,Research Methods in Applied Biology,Daniel Weary;Katie Elizabeth Koralesky;Katie Koralesky;Marina Von Keyserlingk,16,84.875,5.863730326,93.0,73.0,0,0.0,0.0,0.0,0.0,0.0,1.0,2,2,7.0,4
+UBCV,2018,W,APBI,398,,OVERALL,Research Methods in Applied Biology,,33,86.51515152,6.837951137,98.0,73.0,0,0.0,0.0,0.0,0.0,0.0,2.0,3,6,10.0,12
+UBCV,2018,W,APBI,401,,001,Soil Processes,Akshit Puri;Sandra Brown,26,74.80769231,14.56027261,90.0,32.0,2,1.0,0.0,0.0,1.0,4.0,3.0,3,5,3.0,4
+UBCV,2018,W,APBI,401,,OVERALL,Soil Processes,,26,74.80769231,14.56027261,90.0,32.0,2,1.0,0.0,0.0,1.0,4.0,3.0,3,5,3.0,4
+UBCV,2018,W,APBI,402,,001,Sustainable Soil Management,Brianna Thompson;Maja Krzic;Sandra Brown;Sean Smukler,28,81.0,10.15071609,90.0,33.0,1,0.0,0.0,0.0,0.0,0.0,1.0,3,15,6.0,2
+UBCV,2018,W,APBI,402,,OVERALL,Sustainable Soil Management,,28,81.0,10.15071609,90.0,33.0,1,0.0,0.0,0.0,0.0,0.0,1.0,3,15,6.0,2
+UBCV,2018,W,APBI,410,,002,Applied Animal Health and Physiology,Augusto Mesquita Lacerda Madureir;Janet Bauer;Janet Wright Bauer;Ronaldo Cerri,15,89.2,5.466782809,97.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,3,3.0,9
+UBCV,2018,W,APBI,410,,OVERALL,Applied Animal Health and Physiology,,15,89.2,5.466782809,97.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,3,3.0,9
+UBCV,2018,W,APBI,413,,001,Stress and Coping in Animals,Bailey Eagan;Bailey Hope Eagan;Kristen Walker,48,80.1875,12.7457231,98.0,36.0,2,1.0,0.0,0.0,2.0,4.0,4.0,8,8,8.0,11
+UBCV,2018,W,APBI,413,,OVERALL,Stress and Coping in Animals,,48,80.1875,12.7457231,98.0,36.0,2,1.0,0.0,0.0,2.0,4.0,4.0,8,8,8.0,11
+UBCV,2018,W,APBI,414,,001,Animals and Global Issues,David Fraser;Laura Katherine Whalin;Laura Whalin,18,81.44444444,9.12154671,91.0,50.0,0,1.0,0.0,0.0,0.0,0.0,1.0,3,7,3.0,3
+UBCV,2018,W,APBI,414,,OVERALL,Animals and Global Issues,,18,81.44444444,9.12154671,91.0,50.0,0,1.0,0.0,0.0,0.0,0.0,1.0,3,7,3.0,3
+UBCV,2018,W,APBI,415,,001,Applied Animal Behaviour,Kristen Walker;Paige Mcdonald;Paige Victoria Mcdonald,22,80.63636364,18.91219172,97.0,11.0,1,0.0,1.0,0.0,1.0,1.0,0.0,4,3,4.0,7
+UBCV,2018,W,APBI,415,,OVERALL,Applied Animal Behaviour,,22,80.63636364,18.91219172,97.0,11.0,1,0.0,1.0,0.0,1.0,1.0,0.0,4,3,4.0,7
+UBCV,2018,W,APBI,416,,001,Animal Welfare and Conservation Biology,Katie Elizabeth Koralesky;Katie Koralesky;Kristen Walker,33,75.78787879,13.20217211,94.0,33.0,1,1.0,1.0,0.0,4.0,5.0,4.0,2,4,6.0,5
+UBCV,2018,W,APBI,416,,OVERALL,Animal Welfare and Conservation Biology,,33,75.78787879,13.20217211,94.0,33.0,1,1.0,1.0,0.0,4.0,5.0,4.0,2,4,6.0,5
+UBCV,2018,W,APBI,417,,001,Production and Postharvest Physiology of Vegetable Crops,Mahesh Upadhyaya;Maria Porter;Maria Teresa Porter,9,77.22222222,9.257129385,93.0,61.0,0,0.0,0.0,1.0,0.0,1.0,3.0,0,2,1.0,1
+UBCV,2018,W,APBI,417,,OVERALL,Production and Postharvest Physiology of Vegetable Crops,,9,77.22222222,9.257129385,93.0,61.0,0,0.0,0.0,1.0,0.0,1.0,3.0,0,2,1.0,1
+UBCV,2018,W,APBI,418,,99A,Intensive Fish Production,Paige Adrienne Ackerman,18,80.44444444,19.01461426,97.0,13.0,1,0.0,0.0,0.0,1.0,0.0,2.0,2,2,3.0,7
+UBCV,2018,W,APBI,418,,OVERALL,Intensive Fish Production,,18,80.44444444,19.01461426,97.0,13.0,1,0.0,0.0,0.0,1.0,0.0,2.0,2,2,3.0,7
+UBCV,2018,W,APBI,419,,99C,Fish Health,Paige Adrienne Ackerman,25,69.4,22.62925835,90.0,4.0,3,0.0,0.0,1.0,1.0,5.0,1.0,6,3,2.0,3
+UBCV,2018,W,APBI,419,,OVERALL,Fish Health,,25,69.4,22.62925835,90.0,4.0,3,0.0,0.0,1.0,1.0,5.0,1.0,6,3,2.0,3
+UBCV,2018,W,APBI,426,,001,Plant-Microbe Interactions,James Kronstad,8,70.375,8.534593471,81.0,60.0,0,0.0,0.0,3.0,0.0,1.0,1.0,1,2,0.0,0
+UBCV,2018,W,APBI,426,,OVERALL,Plant-Microbe Interactions,,8,70.375,8.534593471,81.0,60.0,0,0.0,0.0,3.0,0.0,1.0,1.0,1,2,0.0,0
+UBCV,2018,W,APBI,428,,99C,Integrated Pest Management,Minnie Yu-Ching Teng;Yasmin Akhtar,31,79.41935484,15.53656803,90.0,0.0,1,0.0,0.0,0.0,0.0,0.0,5.0,1,13,10.0,1
+UBCV,2018,W,APBI,428,,OVERALL,Integrated Pest Management,,31,79.41935484,15.53656803,90.0,0.0,1,0.0,0.0,0.0,0.0,0.0,5.0,1,13,10.0,1
+UBCV,2018,W,APBI,444,,001,Agroforestry,Cindy Prescott;Kermit Ritland;Priya Puri;Thomas Andrew Black,15,87.8,6.482944657,97.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2,3,3.0,7
+UBCV,2018,W,APBI,444,,OVERALL,Agroforestry,,15,87.8,6.482944657,97.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2,3,3.0,7
+UBCV,2018,W,APBI,460,,001,Agroecology III: Synthesis and evaluation,Andrew Riseman;Paige Adrienne Ackerman,9,92.88888889,2.97676185,98.0,89.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1.0,8
+UBCV,2018,W,APBI,460,,OVERALL,Agroecology III: Synthesis and evaluation,,9,92.88888889,2.97676185,98.0,89.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,1.0,8
+UBCV,2018,W,APBI,490,,201,Advanced Topics in Applied Biology,Anna Ratuski;Anna Selene Ratuski;Catherine Schuppli,42,85.5952381,9.286915852,99.0,56.0,0,0.0,1.0,0.0,1.0,0.0,4.0,2,8,9.0,17
+UBCV,2018,W,APBI,490,,OVERALL,Advanced Topics in Applied Biology,,42,85.5952381,9.286915852,99.0,56.0,0,0.0,1.0,0.0,1.0,0.0,4.0,2,8,9.0,17
+UBCV,2018,W,APBI,495,,001,Principles of Wildlife Management in Forests and Agricultural Environments,Katelyn Elizabeth Mills;Katelyn Mills;Kristen Walker,14,82.42857143,11.02943116,96.0,70.0,0,0.0,0.0,0.0,0.0,4.0,2.0,1,1,0.0,6
+UBCV,2018,W,APBI,495,,OVERALL,Principles of Wildlife Management in Forests and Agricultural Environments,,14,82.42857143,11.02943116,96.0,70.0,0,0.0,0.0,0.0,0.0,4.0,2.0,1,1,0.0,6
+UBCV,2018,W,APBI,496,A,001,Applied Animal Biology Practicum,Sara Dubois,7,87.28571429,4.535573676,94.0,81.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,2,2.0,3
+UBCV,2018,W,APBI,496,A,OVERALL,Applied Animal Biology Practicum,,8,87.625,4.307385684,94.0,81.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,2,2.0,4
+UBCV,2018,W,APBI,497,B,001,Directed Studies,,16,88.9375,3.567795771,95.0,84.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,3,5.0,8
+UBCV,2018,W,APBI,497,B,002,Directed Studies,,13,89.30769231,4.441933051,96.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,2,3.0,8
+UBCV,2018,W,APBI,497,B,OVERALL,Directed Studies,,29,89.10344828,3.912843573,96.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,5,8.0,16
+UBCV,2018,W,APBI,499,,001,Undergraduate Thesis,Daniel Weary;Marina Von Keyserlingk,6,92.16666667,1.329160136,94.0,91.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,6
+UBCV,2018,W,APBI,499,,OVERALL,Undergraduate Thesis,,7,91.85714286,1.463850109,94.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,7

@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,S,PHTH,301,,921,Physical Therapy Foundations,Joseph Anthony,40,75.05,11.61773622,92.0,42.0,,,,,,7,5,,5,7,
-UBCV,2018,S,PHTH,301,,OVERALL,Physical Therapy Foundations,,40,75.05,11.61773622,92.0,42.0,,,,,,7,5,,5,7,
-UBCV,2018,S,PHTH,538,,001,Case-based Integration II,Anne Rankin;Joseph Anthony;Kerrie Anne Roberts;Kerrie Roberts;Lesley Schwab;Leslie Schwab;Natalie Grant;Patricia Mcilwaine;Robin Roots;Stacey Anne Cave,78,86.26923076899999,4.164391653,96.0,74.0,,,,,,,,,23,35,17
-UBCV,2018,S,PHTH,538,,OVERALL,Case-based Integration II,,78,86.26923076899999,4.164391653,96.0,74.0,,,,,,,,,23,35,17
-UBCV,2018,S,PHTH,546,,921,Clinical Decision-Making III,Alison Greig;Anne Rankin;Karen Sauve;Robin Roots;Susan Murphy,78,91.28205128200001,3.67121989,97.0,82.0,,,,,,,,,,17,57
-UBCV,2018,S,PHTH,546,,OVERALL,Clinical Decision-Making III,,78,91.28205128200001,3.67121989,97.0,82.0,,,,,,,,,,17,57
-UBCV,2018,S,PHTH,548,,921,Case-based Integration III,Anne Rankin;Gina Galway;Janice Eng;Jean Cremin;Karen Sauve;Lise Magnan;Naomi Casiro;Rebecca Shook;Tara Diane Klassen;Tara Klassen,79,87.240506329,5.545187772999999,100.0,73.0,,,,,,,,5,17,25,30
-UBCV,2018,S,PHTH,548,,OVERALL,Case-based Integration III,,79,87.240506329,5.545187772999999,100.0,73.0,,,,,,,,5,17,25,30
-UBCV,2018,S,PHTH,552,,922,Rehabilitation Research,Alexander Scott;Alison Greig;Anne Rankin;Janice Eng;Jordan Guenette;Kristin Campbell;Lara Boyd;Linda Li;Lisa Simpson;Michael Anthony Hunt;Naznin Virji-Babul;Patricia Camp;Robin Roots;Susan Murphy;Teresa Yeong Lih Liu,79,91.78481012700001,3.664349685,98.0,85.0,,,,,,,,,,25,54
-UBCV,2018,S,PHTH,552,,OVERALL,Rehabilitation Research,,79,91.78481012700001,3.664349685,98.0,85.0,,,,,,,,,,25,54
-UBCV,2018,S,PHTH,558,,001,Case-Based Integration IV,Anne Rankin;Karen Tugwell;Linda Maedel;Michelle Labandelo;Neil Pearson;Roland Fletcher,79,83.594936709,8.522246886,97.0,62.0,,,,,,5,6,5,15,24,19
-UBCV,2018,S,PHTH,558,,OVERALL,Case-Based Integration IV,,79,83.594936709,8.522246886,97.0,62.0,,,,,,5,6,5,15,24,19
-UBCV,2018,S,PHTH,564,,921,Clinical Practice VIa,Andrea Reid;Anne Rankin;Catherine Le Cornu Levett;Colleen Budzinski;Jean Cremin;Karen Sauve;Kristin Campbell;Pat Lieblich;Simone Gruenig;Susannah Britnell,79,83.92405063300001,3.27293545,91.0,76.0,,,,,,,,7,40,28,
-UBCV,2018,S,PHTH,564,,OVERALL,Clinical Practice VIa,,79,83.92405063300001,3.27293545,91.0,76.0,,,,,,,,7,40,28,
-UBCV,2018,S,PHTH,566,,921,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,79,92.70886075899999,2.50206017,97.0,88.0,,,,,,,,,,10,69
-UBCV,2018,S,PHTH,566,,OVERALL,Clinical Decision-Making IV,,79,92.70886075899999,2.50206017,97.0,88.0,,,,,,,,,,10,69
+UBCV,2018,S,PHTH,301,,921,Physical Therapy Foundations,Joseph Anthony,40,75.05,11.61773622,92.0,42.0,1,1,2,2,2,7,5,4,5,7,4
+UBCV,2018,S,PHTH,301,,OVERALL,Physical Therapy Foundations,,40,75.05,11.61773622,92.0,42.0,1,1,2,2,2,7,5,4,5,7,4
+UBCV,2018,S,PHTH,538,,001,Case-based Integration II,Anne Rankin;Joseph Anthony;Kerrie Anne Roberts;Kerrie Roberts;Lesley Schwab;Leslie Schwab;Natalie Grant;Patricia Mcilwaine;Robin Roots;Stacey Anne Cave,78,86.26923077,4.164391653,96.0,74.0,0,0,0,0,0,0,1,2,23,35,17
+UBCV,2018,S,PHTH,538,,OVERALL,Case-based Integration II,,78,86.26923077,4.164391653,96.0,74.0,0,0,0,0,0,0,1,2,23,35,17
+UBCV,2018,S,PHTH,546,,921,Clinical Decision-Making III,Alison Greig;Anne Rankin;Karen Sauve;Robin Roots;Susan Murphy,78,91.28205128,3.67121989,97.0,82.0,0,0,0,0,0,0,0,0,4,17,57
+UBCV,2018,S,PHTH,546,,OVERALL,Clinical Decision-Making III,,78,91.28205128,3.67121989,97.0,82.0,0,0,0,0,0,0,0,0,4,17,57
+UBCV,2018,S,PHTH,548,,921,Case-based Integration III,Anne Rankin;Gina Galway;Janice Eng;Jean Cremin;Karen Sauve;Lise Magnan;Naomi Casiro;Rebecca Shook;Tara Diane Klassen;Tara Klassen,79,87.24050633,5.545187773,100.0,73.0,0,0,0,0,0,0,2,5,17,25,30
+UBCV,2018,S,PHTH,548,,OVERALL,Case-based Integration III,,79,87.24050633,5.545187773,100.0,73.0,0,0,0,0,0,0,2,5,17,25,30
+UBCV,2018,S,PHTH,552,,922,Rehabilitation Research,Alexander Scott;Alison Greig;Anne Rankin;Janice Eng;Jordan Guenette;Kristin Campbell;Lara Boyd;Linda Li;Lisa Simpson;Michael Anthony Hunt;Naznin Virji-Babul;Patricia Camp;Robin Roots;Susan Murphy;Teresa Yeong Lih Liu,79,91.78481013,3.664349685,98.0,85.0,0,0,0,0,0,0,0,0,0,25,54
+UBCV,2018,S,PHTH,552,,OVERALL,Rehabilitation Research,,79,91.78481013,3.664349685,98.0,85.0,0,0,0,0,0,0,0,0,0,25,54
+UBCV,2018,S,PHTH,558,,001,Case-Based Integration IV,Anne Rankin;Karen Tugwell;Linda Maedel;Michelle Labandelo;Neil Pearson;Roland Fletcher,79,83.59493671,8.522246886,97.0,62.0,0,0,0,1,4,5,6,5,15,24,19
+UBCV,2018,S,PHTH,558,,OVERALL,Case-Based Integration IV,,79,83.59493671,8.522246886,97.0,62.0,0,0,0,1,4,5,6,5,15,24,19
+UBCV,2018,S,PHTH,564,,921,Clinical Practice VIa,Andrea Reid;Anne Rankin;Catherine Le Cornu Levett;Colleen Budzinski;Jean Cremin;Karen Sauve;Kristin Campbell;Pat Lieblich;Simone Gruenig;Susannah Britnell,79,83.92405063,3.27293545,91.0,76.0,0,0,0,0,0,0,0,7,40,28,4
+UBCV,2018,S,PHTH,564,,OVERALL,Clinical Practice VIa,,79,83.92405063,3.27293545,91.0,76.0,0,0,0,0,0,0,0,7,40,28,4
+UBCV,2018,S,PHTH,566,,921,Clinical Decision-Making IV,Janet Lowcock;Janet Lundie;Susan Paul;Timberly George,79,92.70886076,2.50206017,97.0,88.0,0,0,0,0,0,0,0,0,0,10,69
+UBCV,2018,S,PHTH,566,,OVERALL,Clinical Decision-Making IV,,79,92.70886076,2.50206017,97.0,88.0,0,0,0,0,0,0,0,0,0,10,69

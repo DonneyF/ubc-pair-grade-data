@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2020,W,PHYS,111,,001,Introductory Physics for the Physical Sciences I,Alejandra Fuentes Nunez;Andrew Ogilvy;Bradley Reinholz;Firas Moosvi;Graham Bovett;Gurbir Amrit;Jakob Marshall;Jason Reich;Michael Kudla-Hooper;Mitchell Wiebe;Ramie Ali Adeeb;Stephen Collins;Tenzin Kunkyab;Xiaoying Zhang;Zhongda Huang,274,79.74452555,15.52501429,99.0,4.0,13,0.0,1.0,5.0,11,21,24,25,52.0,51,71.0
+UBCO,2020,W,PHYS,111,,OVERALL,Introductory Physics for the Physical Sciences I,,274,79.74452555,15.52501429,99.0,4.0,13,0.0,1.0,5.0,11,21,24,25,52.0,51,71.0
+UBCO,2020,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Alejandra Fuentes Nunez;Alisa Chung;Amanda Visser;Amir Hossein Zeinali Kalkhoran;Andrew Ogilvy;Bradley Reinholz;Devin Reinholz;Jakob Marshall;Jason Reich;John Hopkinson;Karanmeet Khatra;Laken Tucker;Michael Kudla-Hooper;Mitchell Wiebe;Nathan Nichol;Pinku Nath;Ramin Shahbazi;Rebecca Feldman;Seger Nelson;Stephen Collins;Tenzin Kunkyab;Xiaoying Zhang;Xinchen Deng;Zhongda Huang;Zil Huma,250,76.672,13.81186034,99.0,0.0,10,7.0,8.0,5.0,18,21,31,33,53.0,25,39.0
+UBCO,2020,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Alejandra Fuentes Nunez;Amanda Visser;Amir Hossein Zeinali Kalkhoran;Andrew Ogilvy;Bradley Reinholz;Devin Reinholz;Emily Mellors;Hadi Hairi;Jakob Marshall;Jason Reich;John Hopkinson;Karanmeet Khatra;Laken Tucker;Max Bailey;Michael Kudla-Hooper;Mitchell Wiebe;Pinku Nath;Ramin Shahbazi;Rebecca Feldman;Seger Nelson;Stephen Collins;Tenzin Kunkyab;Xiaoying Zhang;Xinchen Deng;Zhongda Huang;Zil Huma,172,72.75,15.00764912,100.0,9.0,15,4.0,0.0,13.0,12,30,26,21,16.0,17,18.0
+UBCO,2020,W,PHYS,112,,OVERALL,Introductory Physics for the Life Sciences I,,422,75.07345972,14.42341745,100.0,0.0,25,11.0,8.0,18.0,30,51,57,54,69.0,42,57.0
+UBCO,2020,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Amanda Visser;Graham Bovett;Jake Bobowski;Jakob Marshall;Mitchell Wiebe;Nathan Nichol;Ramie Ali Adeeb;Stephen Collins;Xinchen Deng;Yasfatemeh Yamin;Zhongda Huang,111,75.04504505,18.26341967,97.0,6.0,7,7.0,5.0,5.0,1,8,12,7,15.0,26,18.0
+UBCO,2020,W,PHYS,121,,OVERALL,Introductory Physics for the Physical Sciences II,,111,75.04504505,18.26341967,97.0,6.0,7,7.0,5.0,5.0,1,8,12,7,15.0,26,18.0
+UBCO,2020,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Amanda Visser;Andrew Ogilvy;Bradley Reinholz;Devin Reinholz;Gurbir Amrit;Jakob Marshall;Jason Reich;John Hopkinson;Laken Tucker;Michael Kudla-Hooper;Mitchell Wiebe;Nikolai Lesack;Olivia Ireland;Olivia Stanton;Ramie Ali Adeeb;Stephen Collins;Tenzin Kunkyab;Xiaoying Zhang;Xinchen Deng;Zhongda Huang,306,75.66013072,13.52940375,100.0,2.0,12,9.0,12.0,19.0,20,34,32,41,44.0,40,43.0
+UBCO,2020,W,PHYS,122,,OVERALL,Introductory Physics for the Life Sciences II,,306,75.66013072,13.52940375,100.0,2.0,12,9.0,12.0,19.0,20,34,32,41,44.0,40,43.0
+UBCO,2020,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Samuel Ruttiman,27,78.66666667,16.11258467,100.0,18.0,1,0.0,0.0,2.0,2,1,4,3,3.0,4,7.0
+UBCO,2020,W,PHYS,200,,OVERALL,Relativity and Quanta,,27,78.66666667,16.11258467,100.0,18.0,1,0.0,0.0,2.0,2,1,4,3,3.0,4,7.0
+UBCO,2020,W,PHYS,215,,101,Thermodynamics,Amanda Visser;Yasfatemeh Yamin,36,67.36111111,20.01449871,100.0,11.0,3,5.0,3.0,1.0,4,3,4,5,0.0,2,6.0
+UBCO,2020,W,PHYS,215,,OVERALL,Thermodynamics,,36,67.36111111,20.01449871,100.0,11.0,3,5.0,3.0,1.0,4,3,4,5,0.0,2,6.0
+UBCO,2020,W,PHYS,216,,101,Mechanics I,Emily Mellors;Yasfatemeh Yamin,28,69.89285714,17.4469339,96.0,10.0,2,1.0,3.0,3.0,2,3,1,4,4.0,3,2.0
+UBCO,2020,W,PHYS,216,,OVERALL,Mechanics I,,28,69.89285714,17.4469339,96.0,10.0,2,1.0,3.0,3.0,2,3,1,4,4.0,3,2.0
+UBCO,2020,W,PHYS,231,,001,Introduction to Electronics,Maya Patel;Nikolai Lesack;Reza Khanbabaie-Shoub,23,86.34782609,8.160930738,100.0,62.0,0,0.0,0.0,1.0,0,0,0,2,7.0,5,8.0
+UBCO,2020,W,PHYS,231,,OVERALL,Introduction to Electronics,,23,86.34782609,8.160930738,100.0,62.0,0,0.0,0.0,1.0,0,0,0,2,7.0,5,8.0
+UBCO,2020,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jason Reich;Maya Patel;Yasfatemeh Yamin,23,73.39130435,15.23375179,95.0,32.0,1,1.0,2.0,0.0,4,2,1,1,5.0,2,4.0
+UBCO,2020,W,PHYS,232,,OVERALL,Modern Physics Laboratory,,23,73.39130435,15.23375179,95.0,32.0,1,1.0,2.0,0.0,4,2,1,1,5.0,2,4.0
+UBCO,2020,W,PHYS,301,,001,Electricity and Magnetism,Daniel Vollick;Ramie Ali Adeeb;Ramie Nguyen Ali Adeeb;Reza Khanbabaei-Shoub;Reza Khanbabaie-Shoub,31,82.58064516,13.00454842,100.0,61.0,0,0.0,0.0,3.0,2,4,1,2,3.0,4,12.0
+UBCO,2020,W,PHYS,301,,OVERALL,Electricity and Magnetism,,31,82.58064516,13.00454842,100.0,61.0,0,0.0,0.0,3.0,2,4,1,2,3.0,4,12.0
+UBCO,2020,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Daniel Vollick,17,56.70588235,22.65161337,99.0,22.0,5,3.0,3.0,1.0,1,0,0,0,1.0,1,2.0
+UBCO,2020,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,17,56.70588235,22.65161337,99.0,22.0,5,3.0,3.0,1.0,1,0,0,0,1.0,1,2.0
+UBCO,2020,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,14,75.57142857,12.23937081,92.0,51.0,0,1.0,1.0,0.0,2,2,1,0,3.0,3,1.0
+UBCO,2020,W,PHYS,310,,OVERALL,Introduction to Medical Physics,,14,75.57142857,12.23937081,92.0,51.0,0,1.0,1.0,0.0,2,2,1,0,3.0,3,1.0
+UBCO,2020,W,PHYS,321,,101,Stellar Astrophysics,Alex Hill,16,78.25,15.95201137,100.0,50.0,0,2.0,1.0,0.0,1,1,2,0,1.0,4,4.0
+UBCO,2020,W,PHYS,321,,OVERALL,Stellar Astrophysics,,16,78.25,15.95201137,100.0,50.0,0,2.0,1.0,0.0,1,1,2,0,1.0,4,4.0
+UBCO,2020,W,PHYS,328,,101,Advanced Mechanics,Jake Bobowski;John Hopkinson;Michael Kudla-Hooper;Reza Khanbabaie-Shoub,22,79.31818182,10.19984297,95.0,56.0,0,0.0,1.0,0.0,1,3,3,4,2.0,3,5.0
+UBCO,2020,W,PHYS,328,,OVERALL,Advanced Mechanics,,22,79.31818182,10.19984297,95.0,56.0,0,0.0,1.0,0.0,1,3,3,4,2.0,3,5.0
+UBCO,2020,W,PHYS,336,,101,Introduction to Medical Imaging and Radiation Safety,Karanmeet Khatra;Michael Kudla-Hooper;Rasika Rajapakshe;Thor Bjarnason,13,80.61538462,25.76993876,98.0,0.0,1,0.0,0.0,0.0,0,1,1,1,0.0,3,6.0
+UBCO,2020,W,PHYS,336,,OVERALL,Introduction to Medical Imaging and Radiation Safety,,13,80.61538462,25.76993876,98.0,0.0,1,0.0,0.0,0.0,0,1,1,1,0.0,3,6.0
+UBCO,2020,W,PHYS,400,,101,Introduction to Elementary Particles,John Hopkinson;Mitchell Wiebe;Reza Khanbabaie-Shoub,18,90.94444444,7.734355916,100.0,69.0,0,0.0,0.0,0.0,0,1,0,0,2.0,4,11.0
+UBCO,2020,W,PHYS,400,,OVERALL,Introduction to Elementary Particles,,18,90.94444444,7.734355916,100.0,69.0,0,0.0,0.0,0.0,0,1,0,0,2.0,4,11.0
+UBCO,2020,W,PHYS,401,,101,Electromagnetic Theory,Nikolai Lesack;Rebecca Feldman,28,76.85714286,11.45591966,99.0,57.0,0,0.0,1.0,4.0,2,1,7,1,3.0,7,2.0
+UBCO,2020,W,PHYS,401,,OVERALL,Electromagnetic Theory,,28,76.85714286,11.45591966,99.0,57.0,0,0.0,1.0,4.0,2,1,7,1,3.0,7,2.0
+UBCO,2020,W,PHYS,402,,101,Advanced Quantum Mechanics,Daniel Vollick;Jake Bobowski;Mir Faizal;Mitchell Wiebe,21,86.85714286,9.056962594,100.0,69.0,0,0.0,0.0,0.0,0,2,1,1,5.0,3,9.0
+UBCO,2020,W,PHYS,402,,OVERALL,Advanced Quantum Mechanics,,21,86.85714286,9.056962594,100.0,69.0,0,0.0,0.0,0.0,0,2,1,1,5.0,3,9.0
+UBCO,2020,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,22,70.45454546,17.97810116,96.0,35.0,3,0.0,4.0,0.0,0,4,2,1,1.0,3,4.0
+UBCO,2020,W,PHYS,403,,OVERALL,Statistical Mechanics,,22,70.45454546,17.97810116,96.0,35.0,3,0.0,4.0,0.0,0,4,2,1,1.0,3,4.0
+UBCO,2020,W,PHYS,418,,101,Methods of Theoretical Physics,Daniel Vollick;Reza Khanbabaei-Shoub,9,67.11111111,27.51110887,97.0,33.0,2,3.0,0.0,0.0,0,0,0,0,0.0,0,4.0
+UBCO,2020,W,PHYS,418,,OVERALL,Methods of Theoretical Physics,,9,67.11111111,27.51110887,97.0,33.0,2,3.0,0.0,0.0,0,0,0,0,0.0,0,4.0
+UBCO,2020,W,PHYS,420,,101,Data and Image Processing,Andrew Jirasek,13,73.53846154,12.7907218,93.0,50.0,0,1.0,0.0,1.0,4,1,1,0,1.0,3,1.0
+UBCO,2020,W,PHYS,420,,OVERALL,Data and Image Processing,,13,73.53846154,12.7907218,93.0,50.0,0,1.0,0.0,1.0,4,1,1,0,1.0,3,1.0
+UBCO,2020,W,PHYS,425,,101,Low-Temperature Physics,Jake Bobowski,6,80.0,10.86278049,97.0,63.0,0,0.0,0.0,1.0,0,0,0,3,1.0,0,1.0
+UBCO,2020,W,PHYS,425,,OVERALL,Low-Temperature Physics,,6,80.0,10.86278049,97.0,63.0,0,0.0,0.0,1.0,0,0,0,3,1.0,0,1.0
+UBCO,2020,W,PHYS,449,,OVERALL,Honours Thesis,,7,93.85714286,1.864454471,96.0,92.0,0,0.0,0.0,0.0,0,0,0,0,0.0,0,7.0

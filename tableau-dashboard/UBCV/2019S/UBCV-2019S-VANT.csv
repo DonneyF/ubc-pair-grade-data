@@ -1,23 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,S,VANT,140,A,OVERALL,Content and Language Enrichment Tutorials,,67,74.686567164,14.467527857,99.0,39.0,,5,,,5,,8,8,15,,10
-UBCV,2019,S,VANT,140,A,V01,Content and Language Enrichment Tutorials,Kayli Johnson,36,73.138888889,16.135414073,99.0,39.0,,,,,,,2,3,8,,6
-UBCV,2019,S,VANT,140,A,V02,Content and Language Enrichment Tutorials,Kayli Johnson,31,76.483870968,12.268852073,99.0,50.0,,,,,,,6,5,7,,4
-UBCV,2019,S,VANT,149,,OVERALL,Multi-disciplinary Research Project,,384,77.755208333,12.028142542000001,95.0,0.0,7,5,7,8,17,36,45,61,106,43,49
-UBCV,2019,S,VANT,149,,V01,Multi-disciplinary Research Project,Emrul Hasan,20,76.3,11.507892029,92.0,47.0,,,,,,,,,6,,
-UBCV,2019,S,VANT,149,,V02,Multi-disciplinary Research Project,Kelly Shoecraft,22,75.136363636,18.045697164,90.0,0.0,,,,,,,,,11,,
-UBCV,2019,S,VANT,149,,V03,Multi-disciplinary Research Project,Emrul Hasan,23,81.043478261,7.163533033999999,90.0,58.0,,,,,,,,,7,7,
-UBCV,2019,S,VANT,149,,V04,Multi-disciplinary Research Project,Kelly Shoecraft,26,78.23076923100001,4.329505212,90.0,73.0,,,,,,,7,10,7,,
-UBCV,2019,S,VANT,149,,V05,Multi-disciplinary Research Project,Laura Knijnik Baumvol,27,77.111111111,7.29769897,87.0,63.0,,,,,,,,,9,,
-UBCV,2019,S,VANT,149,,V06,Multi-disciplinary Research Project,Eva Zysk,25,78.16,9.267685795,94.0,57.0,,,,,,,,,6,,
-UBCV,2019,S,VANT,149,,V07,Multi-disciplinary Research Project,Eva Zysk,27,77.185185185,9.841189097,94.0,62.0,,,,,,,,6,,,
-UBCV,2019,S,VANT,149,,V08,Multi-disciplinary Research Project,Emrul Hasan,25,81.48,8.272041264,95.0,59.0,,,,,,,,,9,,5
-UBCV,2019,S,VANT,149,,V09,Multi-disciplinary Research Project,Laura Knijnik Baumvol,28,71.678571429,5.249716546,79.0,60.0,,,,,,6,6,9,,,
-UBCV,2019,S,VANT,149,,V90,Multi-disciplinary Research Project,Brett Gilley,26,85.038461538,6.2127660129999995,93.0,74.0,,,,,,,,,9,,11
-UBCV,2019,S,VANT,149,,V91,Multi-disciplinary Research Project,Meghan Allen,23,74.869565217,13.672481812000001,93.0,50.0,,,,,,,,,,5,
-UBCV,2019,S,VANT,149,,V92,Multi-disciplinary Research Project,Fok-Shuen Leung,22,69.272727273,23.215720900999997,86.0,0.0,,,,,,,,,6,,
-UBCV,2019,S,VANT,149,,V93,Multi-disciplinary Research Project,Georg Rieger,22,74.5,20.058842012,95.0,0.0,,,,,,,,,8,,
-UBCV,2019,S,VANT,149,,V94,Multi-disciplinary Research Project,Brett Gilley;Yuliya Kuzmenko,24,85.208333333,7.796204019,95.0,71.0,,,,,,,,,,6,10
-UBCV,2019,S,VANT,149,,V95,Multi-disciplinary Research Project,Brett Gilley;Yuliya Kuzmenko,23,78.913043478,11.51249536,91.0,50.0,,,,,,,,,7,,
-UBCV,2019,S,VANT,149,,VM1,Multi-disciplinary Research Project,Dilsora Komil-Burley,21,79.095238095,3.9230697410000004,82.0,71.0,,,,,,,,,13,,
-UBCV,2019,S,VANT,151,,OVERALL,Multi-disciplinary Engineering Design Project,,68,70.102941176,11.177188530999999,90.0,0.0,,,,6,14,10,12,15,6,,
-UBCV,2019,S,VANT,151,,VE1,Multi-disciplinary Engineering Design Project,Aaron Stroda;Maryam Golestani Najafabadi;Seach Chyr Goh,68,70.102941176,11.177188530999999,90.0,0.0,,,,6,14,10,12,15,6,,
+UBCV,2019,S,VANT,140,A,OVERALL,Content and Language Enrichment Tutorials,,67,74.68656716,14.46752786,99.0,39.0,3,5,4,3.0,5,2,8,8.0,15,4.0,10
+UBCV,2019,S,VANT,140,A,V01,Content and Language Enrichment Tutorials,Kayli Johnson,36,73.13888889,16.13541407,99.0,39.0,3,2,3,2.0,4,1,2,3.0,8,2.0,6
+UBCV,2019,S,VANT,140,A,V02,Content and Language Enrichment Tutorials,Kayli Johnson,31,76.48387097,12.26885207,99.0,50.0,0,3,1,1.0,1,1,6,5.0,7,2.0,4
+UBCV,2019,S,VANT,149,,OVERALL,Multi-disciplinary Research Project,,384,77.75520833,12.02814254,95.0,0.0,7,5,7,8.0,17,36,45,61.0,106,43.0,49
+UBCV,2019,S,VANT,149,,V01,Multi-disciplinary Research Project,Emrul Hasan,20,76.3,11.50789203,92.0,47.0,1,0,1,0.0,2,2,2,2.0,6,2.0,2
+UBCV,2019,S,VANT,149,,V02,Multi-disciplinary Research Project,Kelly Shoecraft,22,75.13636364,18.04569716,90.0,0.0,1,0,0,0.0,2,2,1,3.0,11,1.0,1
+UBCV,2019,S,VANT,149,,V03,Multi-disciplinary Research Project,Emrul Hasan,23,81.04347826,7.163533034,90.0,58.0,0,0,1,0.0,0,1,2,3.0,7,7.0,2
+UBCV,2019,S,VANT,149,,V04,Multi-disciplinary Research Project,Kelly Shoecraft,26,78.23076923,4.329505212,90.0,73.0,0,0,0,0.0,0,0,7,10.0,7,1.0,1
+UBCV,2019,S,VANT,149,,V05,Multi-disciplinary Research Project,Laura Knijnik Baumvol,27,77.11111111,7.29769897,87.0,63.0,0,0,0,1.0,4,2,3,4.0,9,4.0,0
+UBCV,2019,S,VANT,149,,V06,Multi-disciplinary Research Project,Eva Zysk,25,78.16,9.267685795,94.0,57.0,0,0,1,0.0,2,4,2,3.0,6,4.0,3
+UBCV,2019,S,VANT,149,,V07,Multi-disciplinary Research Project,Eva Zysk,27,77.18518519,9.841189097,94.0,62.0,0,0,0,4.0,1,4,2,6.0,3,3.0,4
+UBCV,2019,S,VANT,149,,V08,Multi-disciplinary Research Project,Emrul Hasan,25,81.48,8.272041264,95.0,59.0,0,0,1,0.0,0,1,3,3.0,9,3.0,5
+UBCV,2019,S,VANT,149,,V09,Multi-disciplinary Research Project,Laura Knijnik Baumvol,28,71.67857143,5.249716546,79.0,60.0,0,0,0,3.0,4,6,6,9.0,0,0.0,0
+UBCV,2019,S,VANT,149,,V90,Multi-disciplinary Research Project,Brett Gilley,26,85.03846154,6.212766013,93.0,74.0,0,0,0,0.0,0,0,2,4.0,9,0.0,11
+UBCV,2019,S,VANT,149,,V91,Multi-disciplinary Research Project,Meghan Allen,23,74.86956522,13.67248181,93.0,50.0,0,3,2,0.0,1,1,2,4.0,3,5.0,2
+UBCV,2019,S,VANT,149,,V92,Multi-disciplinary Research Project,Fok-Shuen Leung,22,69.27272727,23.2157209,86.0,0.0,3,0,0,0.0,0,4,2,4.0,6,3.0,0
+UBCV,2019,S,VANT,149,,V93,Multi-disciplinary Research Project,Georg Rieger,22,74.5,20.05884201,95.0,0.0,2,0,1,0.0,0,3,4,0.0,8,0.0,4
+UBCV,2019,S,VANT,149,,V94,Multi-disciplinary Research Project,Brett Gilley;Yuliya Kuzmenko,24,85.20833333,7.796204019,95.0,71.0,0,0,0,0.0,0,2,4,0.0,2,6.0,10
+UBCV,2019,S,VANT,149,,V95,Multi-disciplinary Research Project,Brett Gilley;Yuliya Kuzmenko,23,78.91304348,11.51249536,91.0,50.0,0,2,0,0.0,1,2,1,2.0,7,4.0,4
+UBCV,2019,S,VANT,149,,VM1,Multi-disciplinary Research Project,Dilsora Komil-Burley,21,79.0952381,3.923069741,82.0,71.0,0,0,0,0.0,0,2,2,4.0,13,0.0,0
+UBCV,2019,S,VANT,151,,OVERALL,Multi-disciplinary Engineering Design Project,,68,70.10294118,11.17718853,90.0,0.0,1,1,2,6.0,14,10,12,15.0,6,0.0,1
+UBCV,2019,S,VANT,151,,VE1,Multi-disciplinary Engineering Design Project,Aaron Stroda;Maryam Golestani Najafabadi;Seach Chyr Goh,68,70.10294118,11.17718853,90.0,0.0,1,1,2,6.0,14,10,12,15.0,6,0.0,1

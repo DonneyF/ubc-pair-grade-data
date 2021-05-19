@@ -1,27 +1,27 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,CAPS,200,,001,Biomedical Research: Essential Skills and Concepts,Calvin Roskelley;Edwin D Moore;Heather Yule;Salma Osborne,7,84.714285714,5.056820006000001,90.0,76.0,,,,,,,,,,,
-UBCV,2015,W,CAPS,200,,OVERALL,Biomedical Research: Essential Skills and Concepts,,7,84.714285714,5.056820006000001,90.0,76.0,,,,,,,,,,,
+UBCV,2015,W,CAPS,200,,001,Biomedical Research: Essential Skills and Concepts,Calvin Roskelley;Edwin D Moore;Heather Yule;Salma Osborne,7,84.714285714,5.056820006,90.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,CAPS,200,,OVERALL,Biomedical Research: Essential Skills and Concepts,,7,84.714285714,5.056820006,90.0,76.0,0,0,0,0,0,0,0,,,,
 UBCV,2015,W,CAPS,301,,01D,Human Physiology,Barry Mason;Bernard Bressler;Carol-Ann Courneya;Hakima Moukhles;James Johnson;Pawel Kindler;Salma Osborne;Yin Nam Kenny Kwok,311,69.649517685,15.208740847,97.0,0.0,29,24,30,30,23,30,29,24,28,29,35
 UBCV,2015,W,CAPS,301,,OVERALL,Human Physiology,,311,69.649517685,15.208740847,97.0,0.0,29,24,30,30,23,30,29,24,28,29,35
-UBCV,2015,W,CAPS,303,,001,Laboratory in Human Physiology (Honours),Andrew Horne;Barry Mason;Carol-Ann Courneya;Guy Tanentzapf;Hakima Moukhles;Kenneth Baimbridge;Kurt Haas;Salma Osborne;Steven Kehl;Susanne Michelle Clee;Yin Nam Kenny Kwok,21,88.85714285700001,5.918494017,97.0,77.0,,,,,,,,,,5,11
-UBCV,2015,W,CAPS,303,,OVERALL,Laboratory in Human Physiology (Honours),,21,88.85714285700001,5.918494017,97.0,77.0,,,,,,,,,,5,11
-UBCV,2015,W,CAPS,390,,001,Introduction to Microscopic Human Anatomy,Calvin Roskelley;Christopher Loewen;Guy Tanentzapf;Hakima Moukhles;Janel Kopp;Timothy O'Connor;Victor Viau,370,74.61081081100001,14.318290154000001,100.0,32.0,6,24,21,38,37,38,32,26,38,35,75
-UBCV,2015,W,CAPS,390,,OVERALL,Introduction to Microscopic Human Anatomy,,370,74.61081081100001,14.318290154000001,100.0,32.0,6,24,21,38,37,38,32,26,38,35,75
+UBCV,2015,W,CAPS,303,,001,Laboratory in Human Physiology (Honours),Andrew Horne;Barry Mason;Carol-Ann Courneya;Guy Tanentzapf;Hakima Moukhles;Kenneth Baimbridge;Kurt Haas;Salma Osborne;Steven Kehl;Susanne Michelle Clee;Yin Nam Kenny Kwok,21,88.857142857,5.918494017,97.0,77.0,0,0,0,0,0,0,0,,,5,11
+UBCV,2015,W,CAPS,303,,OVERALL,Laboratory in Human Physiology (Honours),,21,88.857142857,5.918494017,97.0,77.0,0,0,0,0,0,0,0,,,5,11
+UBCV,2015,W,CAPS,390,,001,Introduction to Microscopic Human Anatomy,Calvin Roskelley;Christopher Loewen;Guy Tanentzapf;Hakima Moukhles;Janel Kopp;Timothy O'Connor;Victor Viau,370,74.610810811,14.318290154,100.0,32.0,6,24,21,38,37,38,32,26,38,35,75
+UBCV,2015,W,CAPS,390,,OVERALL,Introduction to Microscopic Human Anatomy,,370,74.610810811,14.318290154,100.0,32.0,6,24,21,38,37,38,32,26,38,35,75
 UBCV,2015,W,CAPS,391,,001,Introduction to Gross Human Anatomy,Majid Alimohammadi,432,69.699074074,14.13367403,97.0,9.0,29,34,37,38,34,39,48,58,56,39,20
 UBCV,2015,W,CAPS,391,,OVERALL,Introduction to Gross Human Anatomy,,432,69.699074074,14.13367403,97.0,9.0,29,34,37,38,34,39,48,58,56,39,20
 UBCV,2015,W,CAPS,421,,001,Advanced Cellular and Molecular Physiology,Ivan Robert Nabi;Tully Michael Underhill,34,86.558823529,9.582784996,94.0,40.0,,,,,,,,,,9,17
 UBCV,2015,W,CAPS,421,,OVERALL,Advanced Cellular and Molecular Physiology,,34,86.558823529,9.582784996,94.0,40.0,,,,,,,,,,9,17
-UBCV,2015,W,CAPS,422,,001,Mammalian Cardiovascular and Respiratory Physiology,Carol-Ann Courneya;Edwin D Moore;Salma Osborne;Steven Kehl,25,86.84,6.926278462000001,96.0,70.0,,,,,,,,,,8,10
-UBCV,2015,W,CAPS,422,,OVERALL,Mammalian Cardiovascular and Respiratory Physiology,,25,86.84,6.926278462000001,96.0,70.0,,,,,,,,,,8,10
-UBCV,2015,W,CAPS,423,,001,Mammalian Renal and Gastrointestinal Physiology,Francis Lynn;Susanne Michelle Clee;Tim Kieffer;Yin Nam Kenny Kwok,23,84.913043478,6.082112697,92.0,70.0,,,,,,,,,,10,
-UBCV,2015,W,CAPS,423,,OVERALL,Mammalian Renal and Gastrointestinal Physiology,,23,84.913043478,6.082112697,92.0,70.0,,,,,,,,,,10,
-UBCV,2015,W,CAPS,424,,001,Mammalian Endocrinology,Bradford Hoffman;Bruce Verchere;Dan Luciani;Geoffrey Lewis Hammond;Kenneth Baimbridge;Pawel Kindler;Susanne Michelle Clee;Tim Kieffer;Victor Viau,27,87.62962963,7.540394543,95.0,60.0,,,,,,,,,,8,13
-UBCV,2015,W,CAPS,424,,OVERALL,Mammalian Endocrinology,,27,87.62962963,7.540394543,95.0,60.0,,,,,,,,,,8,13
-UBCV,2015,W,CAPS,426,,001,Physiological Basis of Central Nervous System Functions,Douglas Allan;Kenneth Baimbridge;Kurt Haas;Steven Kehl,28,84.5,11.216720322999999,97.0,52.0,,,,,,,,,,7,12
-UBCV,2015,W,CAPS,426,,OVERALL,Physiological Basis of Central Nervous System Functions,,28,84.5,11.216720322999999,97.0,52.0,,,,,,,,,,7,12
-UBCV,2015,W,CAPS,430,,001,Advanced Laboratory in Physiology,Barry Mason;Christopher Loewen;Dan Luciani;Douglas Allan;Geoffrey Lewis Hammond;Guy Tanentzapf;James Johnson;Kenneth Baimbridge;Kurt Haas;Salma Osborne;Susanne Michelle Clee;Tim Kieffer,15,89.8,1.934646516,92.0,86.0,,,,,,,,,,5,10
-UBCV,2015,W,CAPS,430,,OVERALL,Advanced Laboratory in Physiology,,15,89.8,1.934646516,92.0,86.0,,,,,,,,,,5,10
-UBCV,2015,W,CAPS,448,C,003,Directed Studies in Physiology,Calvin Roskelley,5,90.8,5.89067059,98.0,83.0,,,,,,,,,,,
-UBCV,2015,W,CAPS,448,C,OVERALL,Directed Studies in Physiology,,5,90.8,5.89067059,98.0,83.0,,,,,,,,,,,
-UBCV,2015,W,CAPS,449,,001,Graduating Essay,Tim Kieffer,15,89.4,3.2026774510000005,94.0,84.0,,,,,,,,,,,9
-UBCV,2015,W,CAPS,449,,OVERALL,Graduating Essay,,15,89.4,3.2026774510000005,94.0,84.0,,,,,,,,,,,9
+UBCV,2015,W,CAPS,422,,001,Mammalian Cardiovascular and Respiratory Physiology,Carol-Ann Courneya;Edwin D Moore;Salma Osborne;Steven Kehl,25,86.84,6.926278462,96.0,70.0,0,0,0,0,0,,,,,8,10
+UBCV,2015,W,CAPS,422,,OVERALL,Mammalian Cardiovascular and Respiratory Physiology,,25,86.84,6.926278462,96.0,70.0,0,0,0,0,0,,,,,8,10
+UBCV,2015,W,CAPS,423,,001,Mammalian Renal and Gastrointestinal Physiology,Francis Lynn;Susanne Michelle Clee;Tim Kieffer;Yin Nam Kenny Kwok,23,84.913043478,6.082112697,92.0,70.0,0,0,0,0,0,,,,,10,
+UBCV,2015,W,CAPS,423,,OVERALL,Mammalian Renal and Gastrointestinal Physiology,,23,84.913043478,6.082112697,92.0,70.0,0,0,0,0,0,,,,,10,
+UBCV,2015,W,CAPS,424,,001,Mammalian Endocrinology,Bradford Hoffman;Bruce Verchere;Dan Luciani;Geoffrey Lewis Hammond;Kenneth Baimbridge;Pawel Kindler;Susanne Michelle Clee;Tim Kieffer;Victor Viau,27,87.62962963,7.540394543,95.0,60.0,0,0,0,,,,,,,8,13
+UBCV,2015,W,CAPS,424,,OVERALL,Mammalian Endocrinology,,27,87.62962963,7.540394543,95.0,60.0,0,0,0,,,,,,,8,13
+UBCV,2015,W,CAPS,426,,001,Physiological Basis of Central Nervous System Functions,Douglas Allan;Kenneth Baimbridge;Kurt Haas;Steven Kehl,28,84.5,11.216720323,97.0,52.0,0,,,,,,,,,7,12
+UBCV,2015,W,CAPS,426,,OVERALL,Physiological Basis of Central Nervous System Functions,,28,84.5,11.216720323,97.0,52.0,0,,,,,,,,,7,12
+UBCV,2015,W,CAPS,430,,001,Advanced Laboratory in Physiology,Barry Mason;Christopher Loewen;Dan Luciani;Douglas Allan;Geoffrey Lewis Hammond;Guy Tanentzapf;James Johnson;Kenneth Baimbridge;Kurt Haas;Salma Osborne;Susanne Michelle Clee;Tim Kieffer,15,89.8,1.934646516,92.0,86.0,0,0,0,0,0,0,0,0,0,5,10
+UBCV,2015,W,CAPS,430,,OVERALL,Advanced Laboratory in Physiology,,15,89.8,1.934646516,92.0,86.0,0,0,0,0,0,0,0,0,0,5,10
+UBCV,2015,W,CAPS,448,C,003,Directed Studies in Physiology,Calvin Roskelley,5,90.8,5.89067059,98.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,CAPS,448,C,OVERALL,Directed Studies in Physiology,,5,90.8,5.89067059,98.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,CAPS,449,,001,Graduating Essay,Tim Kieffer,15,89.4,3.202677451,94.0,84.0,0,0,0,0,0,0,0,0,,,9
+UBCV,2015,W,CAPS,449,,OVERALL,Graduating Essay,,15,89.4,3.202677451,94.0,84.0,0,0,0,0,0,0,0,0,,,9

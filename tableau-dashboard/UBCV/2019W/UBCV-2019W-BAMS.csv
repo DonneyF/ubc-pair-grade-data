@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Qixiu Quan;Steven Shechter,47,83.446808511,2.560642843,88.0,78.0,,,,,,,,,22,22,
-UBCV,2019,W,BAMS,503,,OVERALL,Simulation Modelling I: Data Processing and Monte Carlo Simulation,,47,83.446808511,2.560642843,88.0,78.0,,,,,,,,,22,22,
-UBCV,2019,W,BAMS,504,,BA1,Simulation Modelling II: Queuing and Discrete Event Simulation,Qixiu Quan;Steven Shechter,47,83.744680851,2.785584671,87.0,77.0,,,,,,,,,21,22,
-UBCV,2019,W,BAMS,504,,OVERALL,Simulation Modelling II: Queuing and Discrete Event Simulation,,47,83.744680851,2.785584671,87.0,77.0,,,,,,,,,21,22,
-UBCV,2019,W,BAMS,506,,BA1,Optimal Decision Making I,Forough Pourhossein;Hossein Piri;Qixiu Quan;Steven Shechter,47,84.12765957399999,2.683419471,90.0,77.0,,,,,,,,,21,22,
-UBCV,2019,W,BAMS,506,,OVERALL,Optimal Decision Making I,,47,84.12765957399999,2.683419471,90.0,77.0,,,,,,,,,21,22,
-UBCV,2019,W,BAMS,508,,BA1,Optimal Decision Making II,Forough Pourhossein;Hossein Piri;Qixiu Quan;Steven Shechter,47,81.574468085,3.1673928439999997,90.0,75.0,,,,,,,,12,27,6,
-UBCV,2019,W,BAMS,508,,OVERALL,Optimal Decision Making II,,47,81.574468085,3.1673928439999997,90.0,75.0,,,,,,,,12,27,6,
-UBCV,2019,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Forough Pourhossein;Hao Zhang;Hossein Piri;Steven Shechter,47,83.744680851,6.55899013,96.0,68.0,,,,,,,,8,9,13,12
-UBCV,2019,W,BAMS,517,,OVERALL,Decision Analysis Under Uncertainty,,47,83.744680851,6.55899013,96.0,68.0,,,,,,,,8,9,13,12
-UBCV,2019,W,BAMS,521,,BA1,Analytics Leadership,Harish Krishnan,47,83.170212766,5.134364822,91.0,53.0,,,,,,,,,28,15,
-UBCV,2019,W,BAMS,521,,OVERALL,Analytics Leadership,,47,83.170212766,5.134364822,91.0,53.0,,,,,,,,,28,15,
-UBCV,2019,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Forough Pourhossein;Qixiu Quan;Steven Shechter;Vivian Nnoka,29,81.310344828,5.529811727,92.0,73.0,,,,,,,5,7,8,7,
-UBCV,2019,W,BAMS,523,,OVERALL,Managerial Decisions Modelling and Analytics,,29,81.310344828,5.529811727,92.0,73.0,,,,,,,5,7,8,7,
+UBCV,2019,W,BAMS,503,,BA1,Simulation Modelling I: Data Processing and Monte Carlo Simulation,Qixiu Quan;Steven Shechter,47,83.44680851,2.560642843,88.0,78.0,0,0,0,0,0,0,0,3,22,22,0
+UBCV,2019,W,BAMS,503,,OVERALL,Simulation Modelling I: Data Processing and Monte Carlo Simulation,,47,83.44680851,2.560642843,88.0,78.0,0,0,0,0,0,0,0,3,22,22,0
+UBCV,2019,W,BAMS,504,,BA1,Simulation Modelling II: Queuing and Discrete Event Simulation,Qixiu Quan;Steven Shechter,47,83.74468085,2.785584671,87.0,77.0,0,0,0,0,0,0,0,4,21,22,0
+UBCV,2019,W,BAMS,504,,OVERALL,Simulation Modelling II: Queuing and Discrete Event Simulation,,47,83.74468085,2.785584671,87.0,77.0,0,0,0,0,0,0,0,4,21,22,0
+UBCV,2019,W,BAMS,506,,BA1,Optimal Decision Making I,Forough Pourhossein;Hossein Piri;Qixiu Quan;Steven Shechter,47,84.12765957,2.683419471,90.0,77.0,0,0,0,0,0,0,0,3,21,22,1
+UBCV,2019,W,BAMS,506,,OVERALL,Optimal Decision Making I,,47,84.12765957,2.683419471,90.0,77.0,0,0,0,0,0,0,0,3,21,22,1
+UBCV,2019,W,BAMS,508,,BA1,Optimal Decision Making II,Forough Pourhossein;Hossein Piri;Qixiu Quan;Steven Shechter,47,81.57446809,3.167392844,90.0,75.0,0,0,0,0,0,0,1,12,27,6,1
+UBCV,2019,W,BAMS,508,,OVERALL,Optimal Decision Making II,,47,81.57446809,3.167392844,90.0,75.0,0,0,0,0,0,0,1,12,27,6,1
+UBCV,2019,W,BAMS,517,,BA1,Decision Analysis Under Uncertainty,Forough Pourhossein;Hao Zhang;Hossein Piri;Steven Shechter,47,83.74468085,6.55899013,96.0,68.0,0,0,0,0,0,2,3,8,9,13,12
+UBCV,2019,W,BAMS,517,,OVERALL,Decision Analysis Under Uncertainty,,47,83.74468085,6.55899013,96.0,68.0,0,0,0,0,0,2,3,8,9,13,12
+UBCV,2019,W,BAMS,521,,BA1,Analytics Leadership,Harish Krishnan,47,83.17021277,5.134364822,91.0,53.0,0,,,,,,,2,28,15,1
+UBCV,2019,W,BAMS,521,,OVERALL,Analytics Leadership,,47,83.17021277,5.134364822,91.0,53.0,0,,,,,,,2,28,15,1
+UBCV,2019,W,BAMS,523,,001,Managerial Decisions Modelling and Analytics,Forough Pourhossein;Qixiu Quan;Steven Shechter;Vivian Nnoka,29,81.31034483,5.529811727,92.0,73.0,0,0,0,0,0,0,5,7,8,7,2
+UBCV,2019,W,BAMS,523,,OVERALL,Managerial Decisions Modelling and Analytics,,29,81.31034483,5.529811727,92.0,73.0,0,0,0,0,0,0,5,7,8,7,2

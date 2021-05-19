@@ -1,20 +1,20 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,BAIT,506,,001,Business Modeling for Information Technology Applications,Duo Shi,11,89.27272727,0.9045340340000001,91.0,88.0,,,,,,,,,,7,
-UBCV,2014,W,BAIT,506,,OVERALL,Business Modeling for Information Technology Applications,,11,89.27272727,0.9045340340000001,91.0,88.0,,,,,,,,,,7,
-UBCV,2014,W,BAIT,510,,001,Project Management in Delivering Business Solutions,Hasan Cavusoglu,41,83.65853659,2.789352578,88.0,77.0,,,,,,,,,19,18,
-UBCV,2014,W,BAIT,510,,OVERALL,Project Management in Delivering Business Solutions,,41,83.65853659,2.789352578,88.0,77.0,,,,,,,,,19,18,
-UBCV,2014,W,BAIT,511,,302,Managing Information Technology,Hasan Cavusoglu,30,84.93333333,3.841096587,92.0,77.0,,,,,,,,,8,15,
-UBCV,2014,W,BAIT,511,,OVERALL,Managing Information Technology,,30,84.93333333,3.841096587,92.0,77.0,,,,,,,,,8,15,
-UBCV,2014,W,BAIT,513,,001,Managing e-Business,Ian Cruickshank;Ronald Timothy Cenfetelli,35,80.22857143,6.444722941,92.0,64.0,,,,,,,,9,9,6,
-UBCV,2014,W,BAIT,513,,OVERALL,Managing e-Business,,35,80.22857143,6.444722941,92.0,64.0,,,,,,,,9,9,6,
-UBCV,2014,W,BAIT,527,,001,Business Intelligence for Management,Kim Milnes,31,79.90322581,7.38627032,93.0,63.0,,,,,,,,6,6,8,
-UBCV,2014,W,BAIT,527,,OR1,Business Intelligence for Management,Kim Milnes,29,80.93103448,6.557062901,95.0,71.0,,,,,,,,7,5,7,
-UBCV,2014,W,BAIT,527,,OVERALL,Business Intelligence for Management,,60,80.4,6.957985292,95.0,63.0,,,,,,7,8,13,11,15,5
-UBCV,2014,W,BAIT,550,,MM1,Information Technology for Management,Carson C Woo,49,81.81632653,2.955739257,88.0,76.0,,,,,,,,7,32,10,
-UBCV,2014,W,BAIT,550,,OVERALL,Information Technology for Management,,49,81.81632653,2.955739257,88.0,76.0,,,,,,,,7,32,10,
-UBCV,2014,W,BAIT,580,A,001,Topics in Information Technology Management,Hasan Cavusoglu,5,84.6,4.5607017,90.0,80.0,,,,,,,,,,,
-UBCV,2014,W,BAIT,580,A,OVERALL,Topics in Information Technology Management,,5,84.6,4.5607017,90.0,80.0,,,,,,,,,,,
-UBCV,2014,W,BAIT,580,B,001,Topics in Information Technology Management,Ning Nan,5,86.4,5.727128425,93.0,79.0,,,,,,,,,,,
-UBCV,2014,W,BAIT,580,B,OVERALL,Topics in Information Technology Management,,5,86.4,5.727128425,93.0,79.0,,,,,,,,,,,
-UBCV,2014,W,BAIT,580,C,302,Topics in Information Technology Management,Blake Hanna,26,81.15384615,3.2334787169999997,89.0,76.0,,,,,,,,10,11,5,
-UBCV,2014,W,BAIT,580,C,OVERALL,Topics in Information Technology Management,,26,81.15384615,3.2334787169999997,89.0,76.0,,,,,,,,10,11,5,
+UBCV,2014,W,BAIT,506,,001,Business Modeling for Information Technology Applications,Duo Shi,11,89.27272727,0.904534034,91.0,88.0,0,0,0,0,0,0,0,0,0,7,4.0
+UBCV,2014,W,BAIT,506,,OVERALL,Business Modeling for Information Technology Applications,,11,89.27272727,0.904534034,91.0,88.0,0,0,0,0,0,0,0,0,0,7,4.0
+UBCV,2014,W,BAIT,510,,001,Project Management in Delivering Business Solutions,Hasan Cavusoglu,41,83.65853659,2.789352578,88.0,77.0,0,0,0,0,0,0,0,4.0,19,18,0
+UBCV,2014,W,BAIT,510,,OVERALL,Project Management in Delivering Business Solutions,,41,83.65853659,2.789352578,88.0,77.0,0,0,0,0,0,0,0,4.0,19,18,0
+UBCV,2014,W,BAIT,511,,302,Managing Information Technology,Hasan Cavusoglu,30,84.93333333,3.841096587,92.0,77.0,0,0,0,0,0,0,0,,8,15,
+UBCV,2014,W,BAIT,511,,OVERALL,Managing Information Technology,,30,84.93333333,3.841096587,92.0,77.0,0,0,0,0,0,0,0,,8,15,
+UBCV,2014,W,BAIT,513,,001,Managing e-Business,Ian Cruickshank;Ronald Timothy Cenfetelli,35,80.22857143,6.444722941,92.0,64.0,0,0,0,0,,,,9,9,6,
+UBCV,2014,W,BAIT,513,,OVERALL,Managing e-Business,,35,80.22857143,6.444722941,92.0,64.0,0,0,0,0,,,,9,9,6,
+UBCV,2014,W,BAIT,527,,001,Business Intelligence for Management,Kim Milnes,31,79.90322581,7.38627032,93.0,63.0,0,0,0,,,,,6,6,8,
+UBCV,2014,W,BAIT,527,,OR1,Business Intelligence for Management,Kim Milnes,29,80.93103448,6.557062901,95.0,71.0,0,0,0,0,0,,,7,5,7,
+UBCV,2014,W,BAIT,527,,OVERALL,Business Intelligence for Management,,60,80.4,6.957985292,95.0,63.0,0,0,0,,,7,8,13,11,15,5
+UBCV,2014,W,BAIT,550,,MM1,Information Technology for Management,Carson C Woo,49,81.81632653,2.955739257,88.0,76.0,0,0,0,0,0,0,0,7,32,10,0
+UBCV,2014,W,BAIT,550,,OVERALL,Information Technology for Management,,49,81.81632653,2.955739257,88.0,76.0,0,0,0,0,0,0,0,7,32,10,0
+UBCV,2014,W,BAIT,580,A,001,Topics in Information Technology Management,Hasan Cavusoglu,5,84.6,4.5607017,90.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,BAIT,580,A,OVERALL,Topics in Information Technology Management,,5,84.6,4.5607017,90.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,BAIT,580,B,001,Topics in Information Technology Management,Ning Nan,5,86.4,5.727128425,93.0,79.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,BAIT,580,B,OVERALL,Topics in Information Technology Management,,5,86.4,5.727128425,93.0,79.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,BAIT,580,C,302,Topics in Information Technology Management,Blake Hanna,26,81.15384615,3.233478717,89.0,76.0,0,0,0,0,0,0,0,10,11,5,0
+UBCV,2014,W,BAIT,580,C,OVERALL,Topics in Information Technology Management,,26,81.15384615,3.233478717,89.0,76.0,0,0,0,0,0,0,0,10,11,5,0

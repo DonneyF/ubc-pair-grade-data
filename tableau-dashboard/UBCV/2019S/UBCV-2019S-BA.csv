@@ -1,10 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,S,BA,511,,DD1,Community Business Project,Elaine Williamson;Joanne Turner;Tamara Etmannski;Wayne Rawcliffe,73,83.36986301399999,1.379481075,86.0,80.0,,,,,,,,,59,14,
-UBCV,2019,S,BA,511,,OVERALL,Community Business Project,,73,83.36986301399999,1.379481075,86.0,80.0,,,,,,,,,59,14,
-UBCV,2019,S,BA,512,,001,Business Strategy Integration: Experiential Learning,Perdip Atwal,24,91.458333333,3.05000594,95.0,82.0,,,,,,,,,,5,18
-UBCV,2019,S,BA,512,,002,Business Strategy Integration: Experiential Learning,David Miller,19,85.94736842100001,5.431121065,98.0,77.0,,,,,,,,,,8,4
-UBCV,2019,S,BA,512,,003,Business Strategy Integration: Experiential Learning,Timothy Silk,25,91.36,3.120897307,96.0,84.0,,,,,,,,,,5,19
-UBCV,2019,S,BA,512,,004,Business Strategy Integration: Experiential Learning,Gregory Werker,29,86.793103448,14.563602650999998,96.0,15.0,,,,,,,,,,7,16
-UBCV,2019,S,BA,512,,OVERALL,Business Strategy Integration: Experiential Learning,,97,88.958762887,8.850514964,98.0,15.0,,,,,,,,,10,25,57
-UBCV,2019,S,BA,514,,818,"IMBA Residency - People, Culture and Organizations",Dan Skarlicki;Danielle Van Jaarsveld;David Clough;David Hardisty;Lingtao Yu;Mahesh Nagarajan;Michael Daniels;Sima Sajjadiani;Tamar Milne;Vatsala Gupta;Vatsala Yash Gupta;Yash Gupta,44,82.227272727,2.361154983,88.0,77.0,,,,,,,,,33,7,
-UBCV,2019,S,BA,514,,OVERALL,"IMBA Residency - People, Culture and Organizations",,44,82.227272727,2.361154983,88.0,77.0,,,,,,,,,33,7,
+UBCV,2019,S,BA,511,,DD1,Community Business Project,Elaine Williamson;Joanne Turner;Tamara Etmannski;Wayne Rawcliffe,73,83.36986301,1.379481075,86.0,80.0,0,0,0,0,0,0,0,0,59,14,0
+UBCV,2019,S,BA,511,,OVERALL,Community Business Project,,73,83.36986301,1.379481075,86.0,80.0,0,0,0,0,0,0,0,0,59,14,0
+UBCV,2019,S,BA,512,,001,Business Strategy Integration: Experiential Learning,Perdip Atwal,24,91.45833333,3.05000594,95.0,82.0,0,0,0,0,0,0,0,0,1,5,18
+UBCV,2019,S,BA,512,,002,Business Strategy Integration: Experiential Learning,David Miller,19,85.94736842,5.431121065,98.0,77.0,0,0,0,0,0,0,0,3,4,8,4
+UBCV,2019,S,BA,512,,003,Business Strategy Integration: Experiential Learning,Timothy Silk,25,91.36,3.120897307,96.0,84.0,0,0,0,0,0,0,0,0,1,5,19
+UBCV,2019,S,BA,512,,004,Business Strategy Integration: Experiential Learning,Gregory Werker,29,86.79310345,14.56360265,96.0,15.0,1,0,0,0,0,0,0,1,4,7,16
+UBCV,2019,S,BA,512,,OVERALL,Business Strategy Integration: Experiential Learning,,97,88.95876289,8.850514964,98.0,15.0,1,0,0,0,0,0,0,4,10,25,57
+UBCV,2019,S,BA,514,,818,"IMBA Residency - People, Culture and Organizations",Dan Skarlicki;Danielle Van Jaarsveld;David Clough;David Hardisty;Lingtao Yu;Mahesh Nagarajan;Michael Daniels;Sima Sajjadiani;Tamar Milne;Vatsala Gupta;Vatsala Yash Gupta;Yash Gupta,44,82.22727273,2.361154983,88.0,77.0,0,0,0,0,0,0,0,4,33,7,0
+UBCV,2019,S,BA,514,,OVERALL,"IMBA Residency - People, Culture and Organizations",,44,82.22727273,2.361154983,88.0,77.0,0,0,0,0,0,0,0,4,33,7,0

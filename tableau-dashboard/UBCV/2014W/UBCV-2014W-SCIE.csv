@@ -1,34 +1,34 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,SCIE,1,,001,Science One,Arthur Charbonneau;Celeste Leander;Christopher Addison;Costanza Piccolo;James Berger;Kalle Karu;Kurt Eiselt;Mark Van Raamsdonk;Pamela Kalas;Pierre Kennepohl,66,75.60606061,8.091550746000001,92.0,58.0,,,,,5,13,14,9,9,8,5
-UBCV,2014,W,SCIE,1,,OVERALL,Science One,,66,75.60606061,8.091550746000001,92.0,58.0,,,,,5,13,14,9,9,8,5
-UBCV,2014,W,SCIE,113,,108,First-Year Seminar in Science,Douw Gerbrand Steyn;James Berger,27,73.25925926,13.326066399999998,85.0,18.0,,,,,,,6,,9,,
-UBCV,2014,W,SCIE,113,,109,First-Year Seminar in Science,Douw Gerbrand Steyn,26,78.03846154,8.272754169,90.0,63.0,,,,,,6,,,11,,
+UBCV,2014,W,SCIE,1,,001,Science One,Arthur Charbonneau;Celeste Leander;Christopher Addison;Costanza Piccolo;James Berger;Kalle Karu;Kurt Eiselt;Mark Van Raamsdonk;Pamela Kalas;Pierre Kennepohl,66,75.60606061,8.091550746,92.0,58.0,0,0,,,5,13,14,9,9,8,5
+UBCV,2014,W,SCIE,1,,OVERALL,Science One,,66,75.60606061,8.091550746,92.0,58.0,0,0,,,5,13,14,9,9,8,5
+UBCV,2014,W,SCIE,113,,108,First-Year Seminar in Science,Douw Gerbrand Steyn;James Berger,27,73.25925926,13.3260664,85.0,18.0,,,,,,,6,,9,,0
+UBCV,2014,W,SCIE,113,,109,First-Year Seminar in Science,Douw Gerbrand Steyn,26,78.03846154,8.272754169,90.0,63.0,0,0,0,,,6,,,11,,
 UBCV,2014,W,SCIE,113,,110,First-Year Seminar in Science,Douw Gerbrand Steyn;Linda Matsuuchi,23,70.52173913,25.10137549,93.0,5.0,5,,,,,,,,,6,
-UBCV,2014,W,SCIE,113,,111,First-Year Seminar in Science,Douw Gerbrand Steyn;Edwin Max Knorr,27,76.81481482,9.202997157999999,88.0,50.0,,,,,,,,8,7,5,
-UBCV,2014,W,SCIE,113,,112,First-Year Seminar in Science,Abel Rosado Rey;Douw Gerbrand Steyn,27,78.88888889,8.57246636,91.0,57.0,,,,,,,5,,5,8,
-UBCV,2014,W,SCIE,113,,113,First-Year Seminar in Science,Douw Gerbrand Steyn;John Sherman,26,81.5,9.411694853,95.0,50.0,,,,,,,,,5,7,5
-UBCV,2014,W,SCIE,113,,114,First-Year Seminar in Science,Douw Gerbrand Steyn;James Carolan,26,75.19230769,8.653411955,90.0,50.0,,,,,,,6,,9,,
-UBCV,2014,W,SCIE,113,,11A,First-Year Seminar in Science,Douw Gerbrand Steyn;Sara Harris,26,75.38461539,9.364088522000001,87.0,42.0,,,,,,,8,,5,,
-UBCV,2014,W,SCIE,113,,209,First-Year Seminar in Science,Douw Gerbrand Steyn;Wai Lung Cheung,26,76.07692308,7.353492106,87.0,54.0,,,,,,,,7,8,,
-UBCV,2014,W,SCIE,113,,210,First-Year Seminar in Science,Douw Gerbrand Steyn;Martin Adamson,25,79.08,5.929586832000001,89.0,67.0,,,,,,,5,,9,5,
+UBCV,2014,W,SCIE,113,,111,First-Year Seminar in Science,Douw Gerbrand Steyn;Edwin Max Knorr,27,76.81481482,9.202997158,88.0,50.0,0,,,,,,,8,7,5,0
+UBCV,2014,W,SCIE,113,,112,First-Year Seminar in Science,Abel Rosado Rey;Douw Gerbrand Steyn,27,78.88888889,8.57246636,91.0,57.0,0,0,,,,,5,,5,8,
+UBCV,2014,W,SCIE,113,,113,First-Year Seminar in Science,Douw Gerbrand Steyn;John Sherman,26,81.5,9.411694853,95.0,50.0,0,,,,,,,,5,7,5
+UBCV,2014,W,SCIE,113,,114,First-Year Seminar in Science,Douw Gerbrand Steyn;James Carolan,26,75.19230769,8.653411955,90.0,50.0,0,,,,,,6,,9,,
+UBCV,2014,W,SCIE,113,,11A,First-Year Seminar in Science,Douw Gerbrand Steyn;Sara Harris,26,75.38461539,9.364088522,87.0,42.0,,,,,,,8,,5,,0
+UBCV,2014,W,SCIE,113,,209,First-Year Seminar in Science,Douw Gerbrand Steyn;Wai Lung Cheung,26,76.07692308,7.353492106,87.0,54.0,0,,,,,,,7,8,,0
+UBCV,2014,W,SCIE,113,,210,First-Year Seminar in Science,Douw Gerbrand Steyn;Martin Adamson,25,79.08,5.929586832,89.0,67.0,0,0,0,0,,,5,,9,5,0
 UBCV,2014,W,SCIE,113,,211,First-Year Seminar in Science,Douw Gerbrand Steyn;William Welch,27,65.81481482,21.12242162,94.0,0.0,,,,,,,5,,,,
 UBCV,2014,W,SCIE,113,,212,First-Year Seminar in Science,Douw Gerbrand Steyn;Marcia Graves,24,76.04166667,13.93300482,90.0,32.0,,,,,,,,,8,5,
-UBCV,2014,W,SCIE,113,,213,First-Year Seminar in Science,Douw Gerbrand Steyn;John Sherman,27,75.44444444,10.95211021,93.0,50.0,,,,,,5,5,,5,,
+UBCV,2014,W,SCIE,113,,213,First-Year Seminar in Science,Douw Gerbrand Steyn;John Sherman,27,75.44444444,10.95211021,93.0,50.0,0,,,,,5,5,,5,,
 UBCV,2014,W,SCIE,113,,214,First-Year Seminar in Science,Douw Gerbrand Steyn;Steven Plotkin,22,66.31818182,17.55369006,94.0,28.0,5,,,,,,,5,,,
-UBCV,2014,W,SCIE,113,,215,First-Year Seminar in Science,Douw Gerbrand Steyn;Gunilla Oberg,26,72.38461539,15.846960399999999,94.0,10.0,,,,,,,6,,5,,
-UBCV,2014,W,SCIE,113,,21A,First-Year Seminar in Science,Douw Gerbrand Steyn;James Jingtao Feng,26,71.80769231,7.61587411,83.0,56.0,,,,,,,8,7,,,
+UBCV,2014,W,SCIE,113,,215,First-Year Seminar in Science,Douw Gerbrand Steyn;Gunilla Oberg,26,72.38461539,15.8469604,94.0,10.0,,,,,,,6,,5,,
+UBCV,2014,W,SCIE,113,,21A,First-Year Seminar in Science,Douw Gerbrand Steyn;James Jingtao Feng,26,71.80769231,7.61587411,83.0,56.0,0,0,,,,,8,7,,0,0
 UBCV,2014,W,SCIE,113,,OVERALL,First-Year Seminar in Science,,498,73.85542169,13.47473904,95.0,0.0,26,12,14,17,33,49,76,76,115,60,20
-UBCV,2014,W,SCIE,113,,V01,First-Year Seminar in Science,Brett Gilley,21,74.47619048,9.474275948999999,88.0,58.0,,,,,,,,,8,,
-UBCV,2014,W,SCIE,113,,V02,First-Year Seminar in Science,Joanne Alison Fox,19,70.94736842,10.43750547,87.0,42.0,,,,,,,,,,,
-UBCV,2014,W,SCIE,113,,V03,First-Year Seminar in Science,Meghan Allen,12,66.16666667,17.62144011,86.0,28.0,,,,,,,,,,,
-UBCV,2014,W,SCIE,113,,V04,First-Year Seminar in Science,Priya Lekhi,11,68.45454546,21.58408505,82.0,7.0,,,,,,,,,,,
-UBCV,2014,W,SCIE,113,,V1A,First-Year Seminar in Science,Kayli Johnson,24,68.83333333,11.46513303,88.0,39.0,,,,,,5,,,,,
-UBCV,2014,W,SCIE,220,,200,Introduction to Sustainability,Milind Kandlikar,22,76.18181818,9.609699285,90.0,53.0,,,,,,,,6,6,,
-UBCV,2014,W,SCIE,220,,OVERALL,Introduction to Sustainability,,22,76.18181818,9.609699285,90.0,53.0,,,,,,,,6,6,,
-UBCV,2014,W,SCIE,300,,110,Communicating Science,Robin Stoodley;Sean Graham,24,80.125,4.396762643,86.0,70.0,,,,,,,,,14,,
-UBCV,2014,W,SCIE,300,,111,Communicating Science,Edward Grant;Robin Stoodley,22,78.90909091,8.348989622000001,92.0,59.0,,,,,,,,5,6,5,
-UBCV,2014,W,SCIE,300,,112,Communicating Science,Bruce Dunham;Robin Stoodley,21,69.09523809999999,18.3953928,85.0,0.0,,,,,,,8,5,1,,
-UBCV,2014,W,SCIE,300,,210,Communicating Science,Bruce Dunham;Robin Stoodley,16,79.625,4.224926035,86.0,72.0,,,,,,,,,6,,
-UBCV,2014,W,SCIE,300,,212,Communicating Science,Andrew Trites;Reinhard Jetter;Robin Stoodley,24,82.5,4.252876265,90.0,75.0,,,,,,,,,13,6,
-UBCV,2014,W,SCIE,300,,213,Communicating Science,Andrew Trites;Reinhard Jetter;Robin Stoodley,23,79.86956522,4.625073442,89.0,71.0,,,,,,,,7,8,,
+UBCV,2014,W,SCIE,113,,V01,First-Year Seminar in Science,Brett Gilley,21,74.47619048,9.474275949,88.0,58.0,0,0,,,,,,,8,,0
+UBCV,2014,W,SCIE,113,,V02,First-Year Seminar in Science,Joanne Alison Fox,19,70.94736842,10.43750547,87.0,42.0,,,,,,,,,,,0
+UBCV,2014,W,SCIE,113,,V03,First-Year Seminar in Science,Meghan Allen,12,66.16666667,17.62144011,86.0,28.0,,,,,,,,,,,0
+UBCV,2014,W,SCIE,113,,V04,First-Year Seminar in Science,Priya Lekhi,11,68.45454546,21.58408505,82.0,7.0,,,,,,,,,,0,0
+UBCV,2014,W,SCIE,113,,V1A,First-Year Seminar in Science,Kayli Johnson,24,68.83333333,11.46513303,88.0,39.0,,,,,,5,,,,,0
+UBCV,2014,W,SCIE,220,,200,Introduction to Sustainability,Milind Kandlikar,22,76.18181818,9.609699285,90.0,53.0,0,,,,,,,6,6,,
+UBCV,2014,W,SCIE,220,,OVERALL,Introduction to Sustainability,,22,76.18181818,9.609699285,90.0,53.0,0,,,,,,,6,6,,
+UBCV,2014,W,SCIE,300,,110,Communicating Science,Robin Stoodley;Sean Graham,24,80.125,4.396762643,86.0,70.0,0,0,0,0,0,,,,14,,0
+UBCV,2014,W,SCIE,300,,111,Communicating Science,Edward Grant;Robin Stoodley,22,78.90909091,8.348989622,92.0,59.0,0,0,,,,,,5,6,5,
+UBCV,2014,W,SCIE,300,,112,Communicating Science,Bruce Dunham;Robin Stoodley,21,69.0952381,18.3953928,85.0,0.0,,,,,,,8,5,1,,0
+UBCV,2014,W,SCIE,300,,210,Communicating Science,Bruce Dunham;Robin Stoodley,16,79.625,4.224926035,86.0,72.0,0,0,0,0,0,0,,,6,,0
+UBCV,2014,W,SCIE,300,,212,Communicating Science,Andrew Trites;Reinhard Jetter;Robin Stoodley,24,82.5,4.252876265,90.0,75.0,0,0,0,0,0,0,,,13,6,
+UBCV,2014,W,SCIE,300,,213,Communicating Science,Andrew Trites;Reinhard Jetter;Robin Stoodley,23,79.86956522,4.625073442,89.0,71.0,0,0,0,0,0,,,7,8,,0
 UBCV,2014,W,SCIE,300,,OVERALL,Communicating Science,,130,78.46923077,9.725845422,92.0,0.0,,,,,,5,19,26,48,23,

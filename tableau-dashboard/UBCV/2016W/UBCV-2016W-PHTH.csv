@@ -1,27 +1,27 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,PHTH,511,,001,Pathology for Physical Therapy I,Alexander Scott;Mark Hull,80,87.5375,3.9648574930000002,97.0,77.0,,,,,,,,,11,37,28
-UBCV,2016,W,PHTH,511,,OVERALL,Pathology for Physical Therapy I,,80,87.5375,3.9648574930000002,97.0,77.0,,,,,,,,,11,37,28
-UBCV,2016,W,PHTH,514,,001,Clinical Practice I,Anne Rankin;Kristin Campbell;Natalie Grant;Simone Gruenig,80,85.9375,4.144063162,93.0,74.0,,,,,,,,,19,41,15
-UBCV,2016,W,PHTH,514,,OVERALL,Clinical Practice I,,80,85.9375,4.144063162,93.0,74.0,,,,,,,,,19,41,15
-UBCV,2016,W,PHTH,516,,001,Clinical Decision-Making I,Peter Goyert;Robin Roots;Susan Murphy,80,88.8625,4.175709596,96.0,73.0,,,,,,,,,9,24,45
-UBCV,2016,W,PHTH,516,,OVERALL,Clinical Decision-Making I,,80,88.8625,4.175709596,96.0,73.0,,,,,,,,,9,24,45
-UBCV,2016,W,PHTH,517,,001,Exercise and Movement I,Alexander Scott;Janice Eng;Jill Zwicker;Kristin Campbell;Naznin Virji-Babul;Tara Diane Klassen;Tara Klassen,80,87.9125,5.1562761319999995,97.0,73.0,,,,,,,,,16,25,34
-UBCV,2016,W,PHTH,517,,OVERALL,Exercise and Movement I,,80,87.9125,5.1562761319999995,97.0,73.0,,,,,,,,,16,25,34
-UBCV,2016,W,PHTH,521,,001,Pathology for Physical Therapy II,Lara Boyd;Naznin Virji-Babul,80,84.9,4.848593688999999,94.0,71.0,,,,,,,,10,22,32,14
-UBCV,2016,W,PHTH,521,,OVERALL,Pathology for Physical Therapy II,,80,84.9,4.848593688999999,94.0,71.0,,,,,,,,10,22,32,14
-UBCV,2016,W,PHTH,524,,001,Clinical Practice II,Andrea Reid;Patricia Camp;Simone Gruenig,80,83.025,4.17337856,91.0,72.0,,,,,,,6,10,28,34,
-UBCV,2016,W,PHTH,524,,OVERALL,Clinical Practice II,,80,83.025,4.17337856,91.0,72.0,,,,,,,6,10,28,34,
-UBCV,2016,W,PHTH,526,,001,Clinical Decision Making II,Teresa Yeong Lih Liu,80,88.2,3.0122114339999997,95.0,80.0,,,,,,,,,8,46,26
-UBCV,2016,W,PHTH,526,,OVERALL,Clinical Decision Making II,,80,88.2,3.0122114339999997,95.0,80.0,,,,,,,,,8,46,26
-UBCV,2016,W,PHTH,527,,001,Exercise and Movement II,Jordan Guenette;Michelle Edmison;Natalie Grant,80,88.4,4.853812282,97.0,76.0,,,,,,,,5,10,33,32
-UBCV,2016,W,PHTH,527,,OVERALL,Exercise and Movement II,,80,88.4,4.853812282,97.0,76.0,,,,,,,,5,10,33,32
-UBCV,2016,W,PHTH,528,,001,Case-based Integration,Karen Sauve;Natalie Grant;Robin Roots;Teresa Yeong Lih Liu,80,86.4375,5.912534957,94.0,60.0,,,,,,,,,26,22,30
-UBCV,2016,W,PHTH,528,,OVERALL,Case-based Integration,,80,86.4375,5.912534957,94.0,60.0,,,,,,,,,26,22,30
-UBCV,2016,W,PHTH,531,,001,Pathology for Physical Therapy III,,78,85.717948718,3.820306087,93.0,77.0,,,,,,,,6,19,44,9
-UBCV,2016,W,PHTH,531,,OVERALL,Pathology for Physical Therapy III,,78,85.717948718,3.820306087,93.0,77.0,,,,,,,,6,19,44,9
-UBCV,2016,W,PHTH,544,,001,Clinical Practice IVa,Jill Zwicker;Karen Sauve;Tara Diane Klassen;Tara Klassen,78,88.39743589700001,3.40488474,95.0,76.0,,,,,,,,,6,41,30
-UBCV,2016,W,PHTH,544,,OVERALL,Clinical Practice IVa,,78,88.39743589700001,3.40488474,95.0,76.0,,,,,,,,,6,41,30
-UBCV,2016,W,PHTH,545,,001,Clinical Practice IVb,Joseph Anthony;Natalie Grant,78,83.166666667,3.143398222,90.0,74.0,,,,,,,,9,39,28,
-UBCV,2016,W,PHTH,545,,OVERALL,Clinical Practice IVb,,78,83.166666667,3.143398222,90.0,74.0,,,,,,,,9,39,28,
-UBCV,2016,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Dolores Langford;Karen Tsui;Linda Li;Tyler Dumont,78,84.26923076899999,3.262032977,91.0,75.0,,,,,,,,5,36,30,6
-UBCV,2016,W,PHTH,565,,OVERALL,Clinical Practice VIb,,78,84.26923076899999,3.262032977,91.0,75.0,,,,,,,,5,36,30,6
+UBCV,2016,W,PHTH,511,,001,Pathology for Physical Therapy I,Alexander Scott;Mark Hull,80,87.5375,3.964857493,97.0,77.0,0,0,0,0,0,0,0,4,11,37,28
+UBCV,2016,W,PHTH,511,,OVERALL,Pathology for Physical Therapy I,,80,87.5375,3.964857493,97.0,77.0,0,0,0,0,0,0,0,4,11,37,28
+UBCV,2016,W,PHTH,514,,001,Clinical Practice I,Anne Rankin;Kristin Campbell;Natalie Grant;Simone Gruenig,80,85.9375,4.144063162,93.0,74.0,0,0,0,0,0,0,2,3,19,41,15
+UBCV,2016,W,PHTH,514,,OVERALL,Clinical Practice I,,80,85.9375,4.144063162,93.0,74.0,0,0,0,0,0,0,2,3,19,41,15
+UBCV,2016,W,PHTH,516,,001,Clinical Decision-Making I,Peter Goyert;Robin Roots;Susan Murphy,80,88.8625,4.175709596,96.0,73.0,0,0,0,0,0,0,1,1,9,24,45
+UBCV,2016,W,PHTH,516,,OVERALL,Clinical Decision-Making I,,80,88.8625,4.175709596,96.0,73.0,0,0,0,0,0,0,1,1,9,24,45
+UBCV,2016,W,PHTH,517,,001,Exercise and Movement I,Alexander Scott;Janice Eng;Jill Zwicker;Kristin Campbell;Naznin Virji-Babul;Tara Diane Klassen;Tara Klassen,80,87.9125,5.156276132,97.0,73.0,0,0,0,0,0,0,1,4,16,25,34
+UBCV,2016,W,PHTH,517,,OVERALL,Exercise and Movement I,,80,87.9125,5.156276132,97.0,73.0,0,0,0,0,0,0,1,4,16,25,34
+UBCV,2016,W,PHTH,521,,001,Pathology for Physical Therapy II,Lara Boyd;Naznin Virji-Babul,80,84.9,4.848593689,94.0,71.0,0,0,0,0,0,1,1,10,22,32,14
+UBCV,2016,W,PHTH,521,,OVERALL,Pathology for Physical Therapy II,,80,84.9,4.848593689,94.0,71.0,0,0,0,0,0,1,1,10,22,32,14
+UBCV,2016,W,PHTH,524,,001,Clinical Practice II,Andrea Reid;Patricia Camp;Simone Gruenig,80,83.025,4.17337856,91.0,72.0,0,0,0,0,0,0,6,10,28,34,2
+UBCV,2016,W,PHTH,524,,OVERALL,Clinical Practice II,,80,83.025,4.17337856,91.0,72.0,0,0,0,0,0,0,6,10,28,34,2
+UBCV,2016,W,PHTH,526,,001,Clinical Decision Making II,Teresa Yeong Lih Liu,80,88.2,3.012211434,95.0,80.0,0,0,0,0,0,0,0,0,8,46,26
+UBCV,2016,W,PHTH,526,,OVERALL,Clinical Decision Making II,,80,88.2,3.012211434,95.0,80.0,0,0,0,0,0,0,0,0,8,46,26
+UBCV,2016,W,PHTH,527,,001,Exercise and Movement II,Jordan Guenette;Michelle Edmison;Natalie Grant,80,88.4,4.853812282,97.0,76.0,0,0,0,0,0,0,0,5,10,33,32
+UBCV,2016,W,PHTH,527,,OVERALL,Exercise and Movement II,,80,88.4,4.853812282,97.0,76.0,0,0,0,0,0,0,0,5,10,33,32
+UBCV,2016,W,PHTH,528,,001,Case-based Integration,Karen Sauve;Natalie Grant;Robin Roots;Teresa Yeong Lih Liu,80,86.4375,5.912534957,94.0,60.0,0,0,0,2,0,0,0,0,26,22,30
+UBCV,2016,W,PHTH,528,,OVERALL,Case-based Integration,,80,86.4375,5.912534957,94.0,60.0,0,0,0,2,0,0,0,0,26,22,30
+UBCV,2016,W,PHTH,531,,001,Pathology for Physical Therapy III,,78,85.71794872,3.820306087,93.0,77.0,0,0,0,0,0,0,0,6,19,44,9
+UBCV,2016,W,PHTH,531,,OVERALL,Pathology for Physical Therapy III,,78,85.71794872,3.820306087,93.0,77.0,0,0,0,0,0,0,0,6,19,44,9
+UBCV,2016,W,PHTH,544,,001,Clinical Practice IVa,Jill Zwicker;Karen Sauve;Tara Diane Klassen;Tara Klassen,78,88.3974359,3.40488474,95.0,76.0,0,0,0,0,0,0,0,1,6,41,30
+UBCV,2016,W,PHTH,544,,OVERALL,Clinical Practice IVa,,78,88.3974359,3.40488474,95.0,76.0,0,0,0,0,0,0,0,1,6,41,30
+UBCV,2016,W,PHTH,545,,001,Clinical Practice IVb,Joseph Anthony;Natalie Grant,78,83.16666667,3.143398222,90.0,74.0,0,0,0,0,0,0,1,9,39,28,1
+UBCV,2016,W,PHTH,545,,OVERALL,Clinical Practice IVb,,78,83.16666667,3.143398222,90.0,74.0,0,0,0,0,0,0,1,9,39,28,1
+UBCV,2016,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Dolores Langford;Karen Tsui;Linda Li;Tyler Dumont,78,84.26923077,3.262032977,91.0,75.0,0,0,0,0,0,0,1,5,36,30,6
+UBCV,2016,W,PHTH,565,,OVERALL,Clinical Practice VIb,,78,84.26923077,3.262032977,91.0,75.0,0,0,0,0,0,0,1,5,36,30,6

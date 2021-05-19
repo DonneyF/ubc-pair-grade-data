@@ -1,65 +1,61 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2018,W,MATH,100,,001,Differential Calculus with Applications to Physical Sciences and Engineering,Geoff Goetz;Majid Jaberipour;Wayne Broughton;You Rao;Ziyuan Wang,282,66.773049645,21.432960546,100.0,0.0,59,14,16,19,21,20,21,23,20,32,37
-UBCO,2018,W,MATH,100,,002,Differential Calculus with Applications to Physical Sciences and Engineering,Ben Tippett;Geoff Goetz;Majid Jaberipour;Wayne Broughton;You Rao;Ziyuan Wang,291,71.94158075600001,19.27066798,100.0,0.0,40,16,19,16,16,18,22,21,29,36,58
-UBCO,2018,W,MATH,100,,003,Differential Calculus with Applications to Physical Sciences and Engineering,Ben Tippett;Geoff Goetz;Majid Jaberipour;Wayne Broughton;You Rao;Ziyuan Wang,185,69.816216216,18.386808739,100.0,11.0,32,9,10,11,17,15,12,14,19,19,27
-UBCO,2018,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Fuentes Nunez;Edward Butz;Maryam Sadeghi;Ziyuan Wang,173,53.595375723000004,23.453030286999997,100.0,0.0,59,27,14,7,13,13,9,5,10,8,8
-UBCO,2018,W,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,931,66.544575725,21.579333505,100.0,0.0,190,66,59,53,67,66,64,63,78,95,130
-UBCO,2018,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Maryam Sadeghi;Patrick Nadeau,108,54.601851851999996,24.090537878000003,99.0,0.0,36,18,8,7,4,5,5,4,7,9,5
-UBCO,2018,W,MATH,101,,101,Integral Calculus with Applications to Physical Sciences and Engineering,Geoff Goetz;Jeewon Yoo;Wayne Broughton;You Rao;Ziyuan Wang,332,67.530120482,19.953775797,100.0,2.0,68,18,25,14,24,22,29,31,24,33,44
-UBCO,2018,W,MATH,101,,102,Integral Calculus with Applications to Physical Sciences and Engineering,Jeewon Yoo;Wayne Broughton;You Rao,294,64.887755102,21.047913479,99.0,2.0,74,18,18,21,14,20,25,23,23,19,39
-UBCO,2018,W,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,734,64.56948228899999,21.45333323,100.0,0.0,178,54,51,42,42,47,59,58,54,61,88
-UBCO,2018,W,MATH,111,,101,Finite Mathematics,Charles Jolin-Landry;Edward Butz,74,66.202702703,21.425870759000002,100.0,0.0,7,9,8,5,8,7,7,1.0,7,5,10
-UBCO,2018,W,MATH,111,,OVERALL,Finite Mathematics,,74,66.202702703,21.425870759000002,100.0,0.0,7,9,8,5,8,7,7,1.0,7,5,10
-UBCO,2018,W,MATH,116,,001,Calculus I for Management and Economics,Brooke Kwan;Charles Jolin-Landry;Drue Julien;Edward Butz;Hyolim Lee;Olivia Marleau;Vanessa White;Xinyu Zhang;You Rao,214,65.775700935,19.353547023,99.0,0.0,28,23,17,16,21,16,19,20,24,13,17
-UBCO,2018,W,MATH,116,,101,Calculus I for Management and Economics,Jeewon Yoo;Kathleen Lortie;Samantha Seidle,91,62.483516484,18.239372941,99.0,7.0,19,10,9,8,9,4,6,9,9,3,5
-UBCO,2018,W,MATH,116,,OVERALL,Calculus I for Management and Economics,,305,64.793442623,19.05790923,99.0,0.0,47,33,26,24,30,20,25,29,33,16,22
-UBCO,2018,W,MATH,125,,001,Pre-Calculus,Allyson Dyck;Hui Ouyang;Kaede Hirabayashi;Kathleen Lortie;Meng-Kai Lee;Paul Lee;Skye Thompson,106,76.452830189,19.975762492,100.0,15.0,10,6,5,,,,,13,15,12,31
-UBCO,2018,W,MATH,125,,OVERALL,Pre-Calculus,,106,76.452830189,19.975762492,100.0,15.0,10,6,5,,,,,13,15,12,31
-UBCO,2018,W,MATH,126,,101,Basic Mathematics: An Aboriginal Perspective,Julianne Barry;Patrick Nadeau,29,76.0,20.424075429000002,100.0,23.0,,,,,,,,,,,8
-UBCO,2018,W,MATH,126,,OVERALL,Basic Mathematics: An Aboriginal Perspective,,29,76.0,20.424075429000002,100.0,23.0,,,,,,,,,,,8
-UBCO,2018,W,MATH,142,,001,Calculus II for Management and Economics,Alejandra Fuentes Nunez;Edward Butz;Hui Ouyang,64,59.765625,24.821740463,100.0,0.0,16,6,8,,,,,6,,,8
-UBCO,2018,W,MATH,142,,OVERALL,Calculus II for Management and Economics,,64,59.765625,24.821740463,100.0,0.0,16,6,8,,,,,6,,,8
-UBCO,2018,W,MATH,160,,001,Mathematical Reasoning for Arts and Education,Desiree Marshall-Peer,18,75.111111111,18.461052449,92.0,10.0,,,,,,,,,,,
-UBCO,2018,W,MATH,160,,OVERALL,Mathematical Reasoning for Arts and Education,,18,75.111111111,18.461052449,92.0,10.0,,,,,,,,,,,
-UBCO,2018,W,MATH,200,,001,Calculus III,Gabriel Jarry-Bolduc;Nicole Taleon;Patrick Nadeau;Stephanie Hamilton;Warren Hare,199,75.256281407,17.298614654,100.0,14.0,17,6,4.0,6,11,17,20,19,36,23,40
-UBCO,2018,W,MATH,200,,002,Calculus III,Gabriel Jarry-Bolduc;Nicole Taleon;Patrick Nadeau;Sarah Macqueen;Stephanie Hamilton,67,69.134328358,20.01506669,99.0,0.0,8,5,1.0,5,4,8,4,10,9,7,6
-UBCO,2018,W,MATH,200,,OVERALL,Calculus III,,266,73.714285714,18.17818366,100.0,0.0,25,11,5,11,15,25,24,29,45,30,46
-UBCO,2018,W,MATH,220,,001,Mathematical Proof,Heinz Bauschke;Hui Ouyang,82,84.109756098,11.630107902,100.0,30.0,,,,,,,5,8,17,14,30
-UBCO,2018,W,MATH,220,,OVERALL,Mathematical Proof,,82,84.109756098,11.630107902,100.0,30.0,,,,,,,5,8,17,14,30
-UBCO,2018,W,MATH,221,,001,Matrix Algebra,Cole Niclas Priestman;Cole Priestman;Geoff Goetz;Liam Welsh;Majid Jaberipour;Maryam Sadeghi,75,74.36,12.603774637999999,95.0,44.0,2,4,4,8,6,7,4,12,9,11,8
-UBCO,2018,W,MATH,221,,101,Matrix Algebra,Charles Jolin-Landry;Donovan Hare;Gabriel Jarry-Bolduc;Geoff Goetz;Hui Ouyang;Maryam Sadeghi,172,66.58139534899999,17.469080532,99.0,0.0,20,10,14,21,17,25,10,18,9,14,14
-UBCO,2018,W,MATH,221,,OVERALL,Matrix Algebra,,247,68.94331983800001,16.515477648,99.0,0.0,22,14,18,29,23,32,14,30,18,25,22
-UBCO,2018,W,MATH,225,,101,Introduction to Differential Equations,Chelsey Hvingelby;Maria Martignoni Mseya;Pau Capera Aragones,96,65.375,21.861887047,100.0,0.0,32,,,7,,6,8,,10,6,15
-UBCO,2018,W,MATH,225,,OVERALL,Introduction to Differential Equations,,96,65.375,21.861887047,100.0,0.0,32,,,7,,6,8,,10,6,15
-UBCO,2018,W,MATH,303,,001,Numerical Analysis,Geoff Goetz;Liam Welsh;Warren Hare,15,81.8,13.454685854000001,98.0,53.0,,,,,,,,,,,6
-UBCO,2018,W,MATH,303,,OVERALL,Numerical Analysis,,15,81.8,13.454685854000001,98.0,53.0,,,,,,,,,,,6
-UBCO,2018,W,MATH,307,,101,Applied Linear Algebra,Hui Ouyang;Wayne Broughton,83,66.686746988,19.195354946,100.0,14.0,15,5,8,7,5,5,8,9,7,6,8
-UBCO,2018,W,MATH,307,,OVERALL,Applied Linear Algebra,,83,66.686746988,19.195354946,100.0,14.0,15,5,8,7,5,5,8,9,7,6,8
-UBCO,2018,W,MATH,311,,001,Abstract Algebra I,Javad Tavakoli;Maryam Sadeghi,45,72.733333333,14.021736373,100.0,47.0,,,7,,,7,5,,,,7
-UBCO,2018,W,MATH,311,,OVERALL,Abstract Algebra I,,45,72.733333333,14.021736373,100.0,47.0,,,7,,,7,5,,,,7
-UBCO,2018,W,MATH,312,,001,Introduction to Number Theory,Wayne Broughton;You Rao,52,70.51923076899999,17.598451786,100.0,28.0,6,5,,,5,,,,7,,10
-UBCO,2018,W,MATH,312,,OVERALL,Introduction to Number Theory,,52,70.51923076899999,17.598451786,100.0,28.0,6,5,,,5,,,,7,,10
-UBCO,2018,W,MATH,317,,001,Calculus IV,Ben Tippett;Maryam Sadeghi;Paul Lee,92,80.706521739,15.75118209,100.0,0.0,,,,,,5,9,10,9,13,31
-UBCO,2018,W,MATH,317,,OVERALL,Calculus IV,,92,80.706521739,15.75118209,100.0,0.0,,,,,,5,9,10,9,13,31
-UBCO,2018,W,MATH,319,,001,Introduction to Partial Differential Equations,Chad Davis;Chad T Davis;Pau Capera Aragones,55,67.181818182,22.377312344,100.0,6.0,11,,7,7,,6,,,,,10
-UBCO,2018,W,MATH,319,,OVERALL,Introduction to Partial Differential Equations,,55,67.181818182,22.377312344,100.0,6.0,11,,7,7,,6,,,,,10
-UBCO,2018,W,MATH,327,,001,Analysis I,Shawn Wang;Ziyuan Wang,45,82.28888888899999,10.206108292,100.0,55.0,,,,,,5,,,11,6,13
-UBCO,2018,W,MATH,327,,OVERALL,Analysis I,,45,82.28888888899999,10.206108292,100.0,55.0,,,,,,5,,,11,6,13
-UBCO,2018,W,MATH,328,,001,Analysis II,Shawn Wang,20,88.4,8.671793355,100.0,56.0,,,,,,,,,,7,11
-UBCO,2018,W,MATH,328,,OVERALL,Analysis II,,20,88.4,8.671793355,100.0,56.0,,,,,,,,,,7,11
-UBCO,2018,W,MATH,330,,101,Abstract Algebra II,Javad Tavakoli,12,80.416666667,16.323203414,99.0,44.0,,,,,,,,,,,5
-UBCO,2018,W,MATH,330,,OVERALL,Abstract Algebra II,,12,80.416666667,16.323203414,99.0,44.0,,,,,,,,,,,5
-UBCO,2018,W,MATH,340,,001,Introduction to Linear Programming,Charles Jolin-Landry;Donovan Hare,36,73.25,16.888499891,98.0,37.0,,5,,,5,,,,,6,6
-UBCO,2018,W,MATH,340,,OVERALL,Introduction to Linear Programming,,36,73.25,16.888499891,98.0,37.0,,5,,,5,,,,,6,6
-UBCO,2018,W,MATH,350,,101,Complex Variables and Applications,Chad Davis;Chad T Davis;Sylvie Desjardins,26,69.5,21.648556534,99.0,4.0,,,,,,,,,,5,
-UBCO,2018,W,MATH,350,,OVERALL,Complex Variables and Applications,,26,69.5,21.648556534,99.0,4.0,,,,,,,,,,5,
-UBCO,2018,W,MATH,409,,101,Mathematics of Financial Derivatives,Edward Butz,16,91.9375,5.48292805,100.0,83.0,,,,,,,,,,,11
-UBCO,2018,W,MATH,409,,OVERALL,Mathematics of Financial Derivatives,,16,91.9375,5.48292805,100.0,83.0,,,,,,,,,,,11
-UBCO,2018,W,MATH,441,,101,Modelling of Discrete Optimization Problems,Donovan Hare,12,88.25,7.782556252000001,96.0,73.0,,,,,,,,,,,6
-UBCO,2018,W,MATH,441,,OVERALL,Modelling of Discrete Optimization Problems,,12,88.25,7.782556252000001,96.0,73.0,,,,,,,,,,,6
-UBCO,2018,W,MATH,461,,101,Continuous Optimization,Heinz Bauschke,6,89.0,8.831760866,100.0,76.0,,,,,,,,,,,
-UBCO,2018,W,MATH,461,,OVERALL,Continuous Optimization,,6,89.0,8.831760866,100.0,76.0,,,,,,,,,,,
-UBCO,2018,W,MATH,462,,001,Derivative-Free Optimization,Warren Hare,5,92.6,6.024948133,99.0,86.0,,,,,,,,,,,
-UBCO,2018,W,MATH,462,,OVERALL,Derivative-Free Optimization,,5,92.6,6.024948133,99.0,86.0,,,,,,,,,,,
-UBCO,2018,W,MATH,563,,101,Convex Optimization and Non-smooth Analysis,Heinz Bauschke,5,91.4,4.669047012,96.0,85.0,,,,,,,,,,,
-UBCO,2018,W,MATH,563,,OVERALL,Convex Optimization and Non-smooth Analysis,,5,91.4,4.669047012,96.0,85.0,,,,,,,,,,,
+UBCO,2018,W,MATH,100,,001,Differential Calculus with Applications to Physical Sciences and Engineering,Geoff Goetz;Majid Jaberipour;Wayne Broughton;You Rao;Ziyuan Wang,282,66.77304965,21.43296055,100.0,0.0,59,14.0,16.0,19.0,21,20,21,23,20.0,32.0,37
+UBCO,2018,W,MATH,100,,002,Differential Calculus with Applications to Physical Sciences and Engineering,Ben Tippett;Geoff Goetz;Majid Jaberipour;Wayne Broughton;You Rao;Ziyuan Wang,291,71.94158076,19.27066798,100.0,0.0,40,16.0,19.0,16.0,16,18,22,21,29.0,36.0,58
+UBCO,2018,W,MATH,100,,003,Differential Calculus with Applications to Physical Sciences and Engineering,Ben Tippett;Geoff Goetz;Majid Jaberipour;Wayne Broughton;You Rao;Ziyuan Wang,185,69.81621622,18.38680874,100.0,11.0,32,9.0,10.0,11.0,17,15,12,14,19.0,19.0,27
+UBCO,2018,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Alejandra Fuentes Nunez;Edward Butz;Maryam Sadeghi;Ziyuan Wang,173,53.59537572,23.45303029,100.0,0.0,59,27.0,14.0,7.0,13,13,9,5,10.0,8.0,8
+UBCO,2018,W,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,931,66.54457573,21.57933351,100.0,0.0,190,66.0,59.0,53.0,67,66,64,63,78.0,95.0,130
+UBCO,2018,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Edward Butz;Maryam Sadeghi;Patrick Nadeau,108,54.60185185,24.09053788,99.0,0.0,36,18.0,8.0,7.0,4,5,5,4,7.0,9.0,5
+UBCO,2018,W,MATH,101,,101,Integral Calculus with Applications to Physical Sciences and Engineering,Geoff Goetz;Jeewon Yoo;Wayne Broughton;You Rao;Ziyuan Wang,332,67.53012048,19.9537758,100.0,2.0,68,18.0,25.0,14.0,24,22,29,31,24.0,33.0,44
+UBCO,2018,W,MATH,101,,102,Integral Calculus with Applications to Physical Sciences and Engineering,Jeewon Yoo;Wayne Broughton;You Rao,294,64.8877551,21.04791348,99.0,2.0,74,18.0,18.0,21.0,14,20,25,23,23.0,19.0,39
+UBCO,2018,W,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,734,64.56948229,21.45333323,100.0,0.0,178,54.0,51.0,42.0,42,47,59,58,54.0,61.0,88
+UBCO,2018,W,MATH,111,,101,Finite Mathematics,Charles Jolin-Landry;Edward Butz,74,66.2027027,21.42587076,100.0,0.0,7,9.0,8.0,5.0,8,7,7,1,7.0,5.0,10
+UBCO,2018,W,MATH,111,,OVERALL,Finite Mathematics,,74,66.2027027,21.42587076,100.0,0.0,7,9.0,8.0,5.0,8,7,7,1,7.0,5.0,10
+UBCO,2018,W,MATH,116,,001,Calculus I for Management and Economics,Brooke Kwan;Charles Jolin-Landry;Drue Julien;Edward Butz;Hyolim Lee;Olivia Marleau;Vanessa White;Xinyu Zhang;You Rao,214,65.77570094,19.35354702,99.0,0.0,28,23.0,17.0,16.0,21,16,19,20,24.0,13.0,17
+UBCO,2018,W,MATH,116,,101,Calculus I for Management and Economics,Jeewon Yoo;Kathleen Lortie;Samantha Seidle,91,62.48351648,18.23937294,99.0,7.0,19,10.0,9.0,8.0,9,4,6,9,9.0,3.0,5
+UBCO,2018,W,MATH,116,,OVERALL,Calculus I for Management and Economics,,305,64.79344262,19.05790923,99.0,0.0,47,33.0,26.0,24.0,30,20,25,29,33.0,16.0,22
+UBCO,2018,W,MATH,125,,001,Pre-Calculus,Allyson Dyck;Hui Ouyang;Kaede Hirabayashi;Kathleen Lortie;Meng-Kai Lee;Paul Lee;Skye Thompson,106,76.45283019,19.97576249,100.0,15.0,10,6.0,5.0,3.0,4,4,3,13,15.0,12.0,31
+UBCO,2018,W,MATH,125,,OVERALL,Pre-Calculus,,106,76.45283019,19.97576249,100.0,15.0,10,6.0,5.0,3.0,4,4,3,13,15.0,12.0,31
+UBCO,2018,W,MATH,126,,101,Basic Mathematics: An Aboriginal Perspective,Julianne Barry;Patrick Nadeau,29,76.0,20.42407543,100.0,23.0,3,1.0,1.0,1.0,1,2,2,3,4.0,3.0,8
+UBCO,2018,W,MATH,126,,OVERALL,Basic Mathematics: An Aboriginal Perspective,,29,76.0,20.42407543,100.0,23.0,3,1.0,1.0,1.0,1,2,2,3,4.0,3.0,8
+UBCO,2018,W,MATH,142,,001,Calculus II for Management and Economics,Alejandra Fuentes Nunez;Edward Butz;Hui Ouyang,64,59.765625,24.82174046,100.0,0.0,16,6.0,8.0,4.0,3,2,4,6,4.0,3.0,8
+UBCO,2018,W,MATH,142,,OVERALL,Calculus II for Management and Economics,,64,59.765625,24.82174046,100.0,0.0,16,6.0,8.0,4.0,3,2,4,6,4.0,3.0,8
+UBCO,2018,W,MATH,160,,001,Mathematical Reasoning for Arts and Education,Desiree Marshall-Peer,18,75.11111111,18.46105245,92.0,10.0,1,0.0,0.0,0.0,3,2,2,1,3.0,3.0,3
+UBCO,2018,W,MATH,160,,OVERALL,Mathematical Reasoning for Arts and Education,,18,75.11111111,18.46105245,92.0,10.0,1,0.0,0.0,0.0,3,2,2,1,3.0,3.0,3
+UBCO,2018,W,MATH,200,,001,Calculus III,Gabriel Jarry-Bolduc;Nicole Taleon;Patrick Nadeau;Stephanie Hamilton;Warren Hare,199,75.25628141,17.29861465,100.0,14.0,17,6.0,4.0,6.0,11,17,20,19,36.0,23.0,40
+UBCO,2018,W,MATH,200,,002,Calculus III,Gabriel Jarry-Bolduc;Nicole Taleon;Patrick Nadeau;Sarah Macqueen;Stephanie Hamilton,67,69.13432836,20.01506669,99.0,0.0,8,5.0,1.0,5.0,4,8,4,10,9.0,7.0,6
+UBCO,2018,W,MATH,200,,OVERALL,Calculus III,,266,73.71428571,18.17818366,100.0,0.0,25,11.0,5.0,11.0,15,25,24,29,45.0,30.0,46
+UBCO,2018,W,MATH,220,,001,Mathematical Proof,Heinz Bauschke;Hui Ouyang,82,84.1097561,11.6301079,100.0,30.0,1,1.0,1.0,2.0,1,2,5,8,17.0,14.0,30
+UBCO,2018,W,MATH,220,,OVERALL,Mathematical Proof,,82,84.1097561,11.6301079,100.0,30.0,1,1.0,1.0,2.0,1,2,5,8,17.0,14.0,30
+UBCO,2018,W,MATH,221,,001,Matrix Algebra,Cole Niclas Priestman;Cole Priestman;Geoff Goetz;Liam Welsh;Majid Jaberipour;Maryam Sadeghi,75,74.36,12.60377464,95.0,44.0,2,4.0,4.0,8.0,6,7,4,12,9.0,11.0,8
+UBCO,2018,W,MATH,221,,101,Matrix Algebra,Charles Jolin-Landry;Donovan Hare;Gabriel Jarry-Bolduc;Geoff Goetz;Hui Ouyang;Maryam Sadeghi,172,66.58139535,17.46908053,99.0,0.0,20,10.0,14.0,21.0,17,25,10,18,9.0,14.0,14
+UBCO,2018,W,MATH,221,,OVERALL,Matrix Algebra,,247,68.94331984,16.51547765,99.0,0.0,22,14.0,18.0,29.0,23,32,14,30,18.0,25.0,22
+UBCO,2018,W,MATH,225,,101,Introduction to Differential Equations,Chelsey Hvingelby;Maria Martignoni Mseya;Pau Capera Aragones,96,65.375,21.86188705,100.0,0.0,32,2.0,2.0,7.0,4,6,8,4,10.0,6.0,15
+UBCO,2018,W,MATH,225,,OVERALL,Introduction to Differential Equations,,96,65.375,21.86188705,100.0,0.0,32,2.0,2.0,7.0,4,6,8,4,10.0,6.0,15
+UBCO,2018,W,MATH,303,,001,Numerical Analysis,Geoff Goetz;Liam Welsh;Warren Hare,15,81.8,13.45468585,98.0,53.0,0,1.0,1.0,0.0,0,0,2,0,4.0,1.0,6
+UBCO,2018,W,MATH,303,,OVERALL,Numerical Analysis,,15,81.8,13.45468585,98.0,53.0,0,1.0,1.0,0.0,0,0,2,0,4.0,1.0,6
+UBCO,2018,W,MATH,307,,101,Applied Linear Algebra,Hui Ouyang;Wayne Broughton,83,66.68674699,19.19535495,100.0,14.0,15,5.0,8.0,7.0,5,5,8,9,7.0,6.0,8
+UBCO,2018,W,MATH,307,,OVERALL,Applied Linear Algebra,,83,66.68674699,19.19535495,100.0,14.0,15,5.0,8.0,7.0,5,5,8,9,7.0,6.0,8
+UBCO,2018,W,MATH,311,,001,Abstract Algebra I,Javad Tavakoli;Maryam Sadeghi,45,72.73333333,14.02173637,100.0,47.0,1,1.0,7.0,4.0,3,7,5,4,3.0,3.0,7
+UBCO,2018,W,MATH,311,,OVERALL,Abstract Algebra I,,45,72.73333333,14.02173637,100.0,47.0,1,1.0,7.0,4.0,3,7,5,4,3.0,3.0,7
+UBCO,2018,W,MATH,312,,001,Introduction to Number Theory,Wayne Broughton;You Rao,52,70.51923077,17.59845179,100.0,28.0,6,5.0,4.0,4.0,5,3,4,2,7.0,2.0,10
+UBCO,2018,W,MATH,312,,OVERALL,Introduction to Number Theory,,52,70.51923077,17.59845179,100.0,28.0,6,5.0,4.0,4.0,5,3,4,2,7.0,2.0,10
+UBCO,2018,W,MATH,317,,001,Calculus IV,Ben Tippett;Maryam Sadeghi;Paul Lee,92,80.70652174,15.75118209,100.0,0.0,2,2.0,4.0,3.0,4,5,9,10,9.0,13.0,31
+UBCO,2018,W,MATH,317,,OVERALL,Calculus IV,,92,80.70652174,15.75118209,100.0,0.0,2,2.0,4.0,3.0,4,5,9,10,9.0,13.0,31
+UBCO,2018,W,MATH,319,,001,Introduction to Partial Differential Equations,Chad Davis;Chad T Davis;Pau Capera Aragones,55,67.18181818,22.37731234,100.0,6.0,11,0.0,7.0,7.0,2,6,3,4,2.0,3.0,10
+UBCO,2018,W,MATH,319,,OVERALL,Introduction to Partial Differential Equations,,55,67.18181818,22.37731234,100.0,6.0,11,0.0,7.0,7.0,2,6,3,4,2.0,3.0,10
+UBCO,2018,W,MATH,327,,001,Analysis I,Shawn Wang;Ziyuan Wang,45,82.28888889,10.20610829,100.0,55.0,0,0.0,1.0,0.0,1,5,4,4,11.0,6.0,13
+UBCO,2018,W,MATH,327,,OVERALL,Analysis I,,45,82.28888889,10.20610829,100.0,55.0,0,0.0,1.0,0.0,1,5,4,4,11.0,6.0,13
+UBCO,2018,W,MATH,328,,001,Analysis II,Shawn Wang,20,88.4,8.671793355,100.0,56.0,0,0.0,1.0,0.0,0,0,0,0,1.0,7.0,11
+UBCO,2018,W,MATH,328,,OVERALL,Analysis II,,20,88.4,8.671793355,100.0,56.0,0,0.0,1.0,0.0,0,0,0,0,1.0,7.0,11
+UBCO,2018,W,MATH,330,,101,Abstract Algebra II,Javad Tavakoli,12,80.41666667,16.32320341,99.0,44.0,1,0.0,0.0,0.0,1,1,2,0,1.0,1.0,5
+UBCO,2018,W,MATH,330,,OVERALL,Abstract Algebra II,,12,80.41666667,16.32320341,99.0,44.0,1,0.0,0.0,0.0,1,1,2,0,1.0,1.0,5
+UBCO,2018,W,MATH,340,,001,Introduction to Linear Programming,Charles Jolin-Landry;Donovan Hare,36,73.25,16.88849989,98.0,37.0,2,5.0,0.0,2.0,5,1,4,3,2.0,6.0,6
+UBCO,2018,W,MATH,340,,OVERALL,Introduction to Linear Programming,,36,73.25,16.88849989,98.0,37.0,2,5.0,0.0,2.0,5,1,4,3,2.0,6.0,6
+UBCO,2018,W,MATH,350,,101,Complex Variables and Applications,Chad Davis;Chad T Davis;Sylvie Desjardins,26,69.5,21.64855653,99.0,4.0,3,1.0,3.0,1.0,2,3,2,3,0.0,5.0,3
+UBCO,2018,W,MATH,350,,OVERALL,Complex Variables and Applications,,26,69.5,21.64855653,99.0,4.0,3,1.0,3.0,1.0,2,3,2,3,0.0,5.0,3
+UBCO,2018,W,MATH,409,,101,Mathematics of Financial Derivatives,Edward Butz,16,91.9375,5.48292805,100.0,83.0,0,0.0,0.0,0.0,0,0,0,0,3.0,2.0,11
+UBCO,2018,W,MATH,409,,OVERALL,Mathematics of Financial Derivatives,,16,91.9375,5.48292805,100.0,83.0,0,0.0,0.0,0.0,0,0,0,0,3.0,2.0,11
+UBCO,2018,W,MATH,441,,101,Modelling of Discrete Optimization Problems,Donovan Hare,12,88.25,7.782556252,96.0,73.0,0,0.0,0.0,0.0,0,0,1,1,2.0,2.0,6
+UBCO,2018,W,MATH,441,,OVERALL,Modelling of Discrete Optimization Problems,,12,88.25,7.782556252,96.0,73.0,0,0.0,0.0,0.0,0,0,1,1,2.0,2.0,6
+UBCO,2018,W,MATH,461,,101,Continuous Optimization,Heinz Bauschke,6,89.0,8.831760866,100.0,76.0,0,0.0,0.0,0.0,0,0,0,1,1.0,0.0,4
+UBCO,2018,W,MATH,461,,OVERALL,Continuous Optimization,,6,89.0,8.831760866,100.0,76.0,0,0.0,0.0,0.0,0,0,0,1,1.0,0.0,4

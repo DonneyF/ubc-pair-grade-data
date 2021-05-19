@@ -1,19 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,ETEC,511,,66A,Foundations of Educational Technology,Francis Feng,21,93.571428571,3.5294677869999997,98.0,87.0,,,,,,,,,,,19
-UBCV,2016,S,ETEC,511,,66B,Foundations of Educational Technology,Matiul Alam,18,91.111111111,2.1112831030000003,95.0,87.0,,,,,,,,,,,14
-UBCV,2016,S,ETEC,511,,66C,Foundations of Educational Technology,Yifei Wang,18,88.111111111,4.613138384,94.0,80.0,,,,,,,,,5,5,8
-UBCV,2016,S,ETEC,511,,OVERALL,Foundations of Educational Technology,,57,91.070175439,4.174153673999999,98.0,80.0,,,,,,,,,5,11,41
-UBCV,2016,S,ETEC,522,,66A,Ventures in Learning Technology,David Vogt,21,86.428571429,4.249369701,92.0,76.0,,,,,,,,,,9,6
-UBCV,2016,S,ETEC,522,,66B,Ventures in Learning Technology,David Vogt,20,80.6,19.266551326,90.0,0.0,,,,,,,,,,11,2
-UBCV,2016,S,ETEC,522,,OVERALL,Ventures in Learning Technology,,41,83.585365854,13.930139285,92.0,0.0,,,,,,,,,8,20,8
-UBCV,2016,S,ETEC,530,,66A,Constructivism Strategies for E-Learning,Diane Janes,26,93.26923076899999,5.363265366,98.0,71.0,,,,,,,,,,,23
-UBCV,2016,S,ETEC,530,,66B,Constructivism Strategies for E-Learning,Diane Janes,21,92.333333333,5.40678586,99.0,72.0,,,,,,,,,,,19
-UBCV,2016,S,ETEC,530,,OVERALL,Constructivism Strategies for E-Learning,,47,92.85106383,5.3445572619999995,99.0,71.0,,,,,,,,,,,42
-UBCV,2016,S,ETEC,531,,96A,Curriculum Issues in Cultural and New Media Studies,Paula Macdowell,18,93.444444444,1.464168996,97.0,91.0,,,,,,,,,,,18
-UBCV,2016,S,ETEC,531,,OVERALL,Curriculum Issues in Cultural and New Media Studies,,18,93.444444444,1.464168996,97.0,91.0,,,,,,,,,,,18
-UBCV,2016,S,ETEC,532,,66A,Technology in the Arts and the Humanities Classroom,Alexander De Cosson,20,91.0,4.205259863999999,98.0,83.0,,,,,,,,,,5,14
-UBCV,2016,S,ETEC,532,,66B,Technology in the Arts and the Humanities Classroom,Alexander De Cosson,20,91.4,6.808663212000001,98.0,74.0,,,,,,,,,,2,16
-UBCV,2016,S,ETEC,532,,OVERALL,Technology in the Arts and the Humanities Classroom,,40,91.2,5.589367195,98.0,74.0,,,,,,,,,,7,30
-UBCV,2016,S,ETEC,540,,66A,Text Technologies: The Changing Spaces of Reading and Writing,Ernesto Jose Pena Alonso;Ernesto Pena Alonso,22,91.545454545,4.657071149,96.0,76.0,,,,,,,,,,,18
-UBCV,2016,S,ETEC,540,,66B,Text Technologies: The Changing Spaces of Reading and Writing,Ernesto Jose Pena Alonso;Ernesto Pena Alonso,18,90.833333333,5.338539126000001,97.0,72.0,,,,,,,,,,,14
-UBCV,2016,S,ETEC,540,,OVERALL,Text Technologies: The Changing Spaces of Reading and Writing,,40,91.225,4.922410812,97.0,72.0,,,,,,,,,,5,32
+UBCV,2016,S,ETEC,511,,66A,Foundations of Educational Technology,Francis Feng,21,93.57142857,3.529467787,98.0,87.0,0,0,0,0,0,0,0,0.0,0,2,19
+UBCV,2016,S,ETEC,511,,66B,Foundations of Educational Technology,Matiul Alam,18,91.11111111,2.111283103,95.0,87.0,0,0,0,0,0,0,0,0.0,0,4,14
+UBCV,2016,S,ETEC,511,,66C,Foundations of Educational Technology,Yifei Wang,18,88.11111111,4.613138384,94.0,80.0,0,0,0,0,0,0,0,0.0,5,5,8
+UBCV,2016,S,ETEC,511,,OVERALL,Foundations of Educational Technology,,57,91.07017544,4.174153674,98.0,80.0,0,0,0,0,0,0,0,0.0,5,11,41
+UBCV,2016,S,ETEC,522,,66A,Ventures in Learning Technology,David Vogt,21,86.42857143,4.249369701,92.0,76.0,0,0,0,0,0,0,0,2.0,4,9,6
+UBCV,2016,S,ETEC,522,,66B,Ventures in Learning Technology,David Vogt,20,80.6,19.26655133,90.0,0.0,1,0,0,0,0,0,0,2.0,4,11,2
+UBCV,2016,S,ETEC,522,,OVERALL,Ventures in Learning Technology,,41,83.58536585,13.93013929,92.0,0.0,1,0,0,0,0,0,0,4.0,8,20,8
+UBCV,2016,S,ETEC,530,,66A,Constructivism Strategies for E-Learning,Diane Janes,26,93.26923077,5.363265366,98.0,71.0,0,0,0,0,0,1,0,0.0,0,2,23
+UBCV,2016,S,ETEC,530,,66B,Constructivism Strategies for E-Learning,Diane Janes,21,92.33333333,5.40678586,99.0,72.0,0,0,0,0,0,0,1,0.0,0,1,19
+UBCV,2016,S,ETEC,530,,OVERALL,Constructivism Strategies for E-Learning,,47,92.85106383,5.344557262,99.0,71.0,0,0,0,0,0,1,1,0.0,0,3,42
+UBCV,2016,S,ETEC,531,,96A,Curriculum Issues in Cultural and New Media Studies,Paula Macdowell,18,93.44444444,1.464168996,97.0,91.0,0,0,0,0,0,0,0,0.0,0,0,18
+UBCV,2016,S,ETEC,531,,OVERALL,Curriculum Issues in Cultural and New Media Studies,,18,93.44444444,1.464168996,97.0,91.0,0,0,0,0,0,0,0,0.0,0,0,18
+UBCV,2016,S,ETEC,532,,66A,Technology in the Arts and the Humanities Classroom,Alexander De Cosson,20,91.0,4.205259864,98.0,83.0,0,0,0,0,0,0,0,0.0,1,5,14
+UBCV,2016,S,ETEC,532,,66B,Technology in the Arts and the Humanities Classroom,Alexander De Cosson,20,91.4,6.808663212,98.0,74.0,0,0,0,0,0,0,2,0.0,0,2,16
+UBCV,2016,S,ETEC,532,,OVERALL,Technology in the Arts and the Humanities Classroom,,40,91.2,5.589367195,98.0,74.0,0,0,0,0,0,0,2,0.0,1,7,30
+UBCV,2016,S,ETEC,540,,66A,Text Technologies: The Changing Spaces of Reading and Writing,Ernesto Jose Pena Alonso;Ernesto Pena Alonso,22,91.54545455,4.657071149,96.0,76.0,0,0,0,0,0,0,0,1.0,1,2,18
+UBCV,2016,S,ETEC,540,,66B,Text Technologies: The Changing Spaces of Reading and Writing,Ernesto Jose Pena Alonso;Ernesto Pena Alonso,18,90.83333333,5.338539126,97.0,72.0,0,0,0,0,0,0,1,0.0,0,3,14
+UBCV,2016,S,ETEC,540,,OVERALL,Text Technologies: The Changing Spaces of Reading and Writing,,40,91.225,4.922410812,97.0,72.0,0,0,0,0,0,0,1,1.0,1,5,32

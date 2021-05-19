@@ -1,72 +1,72 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,WRDS,150,,01A,Research and Writing in the Humanities and Social Sciences,Susan Blake,26,78.92307692,7.20512638,92.0,62.0,,,,,,,,7,8,,
-UBCV,2014,W,WRDS,150,,01M,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,22,64.68181818,22.63874968,85.0,0.0,,,,,,,,,5,,
+UBCV,2014,W,WRDS,150,,01A,Research and Writing in the Humanities and Social Sciences,Susan Blake,26,78.92307692,7.20512638,92.0,62.0,0,0,0,,,,,7,8,,
+UBCV,2014,W,WRDS,150,,01M,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,22,64.68181818,22.63874968,85.0,0.0,,,,,,,,,5,,0
 UBCV,2014,W,WRDS,150,,02A,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,24,66.375,15.82186847,93.0,28.0,,,,,,6,,,,,
-UBCV,2014,W,WRDS,150,,02B,Research and Writing in the Humanities and Social Sciences,Thomas Jacob Bittner,28,72.57142857,9.624153917000001,84.0,45.0,,,,,,,7,,8,,
-UBCV,2014,W,WRDS,150,,02C,Research and Writing in the Humanities and Social Sciences,Richard Gooding,23,69.26086957,14.2165633,81.0,14.0,,,,,,,6,5,,,
+UBCV,2014,W,WRDS,150,,02B,Research and Writing in the Humanities and Social Sciences,Thomas Jacob Bittner,28,72.57142857,9.624153917,84.0,45.0,,,,,,,7,,8,0,0
+UBCV,2014,W,WRDS,150,,02C,Research and Writing in the Humanities and Social Sciences,Richard Gooding,23,69.26086957,14.2165633,81.0,14.0,,,,,,,6,5,,0,0
 UBCV,2014,W,WRDS,150,,02M,Research and Writing in the Humanities and Social Sciences,Susan Blake,26,74.38461539,12.28031571,92.0,24.0,,,,,,6,6,5,,,
 UBCV,2014,W,WRDS,150,,02N,Research and Writing in the Humanities and Social Sciences,Katherine Power,22,74.45454546,9.654642469,93.0,47.0,,,,,,,,8,,,
-UBCV,2014,W,WRDS,150,,02P,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,24,66.16666667,18.15552776,87.0,6.0,,,,,,,,,7,,
-UBCV,2014,W,WRDS,150,,03A,Research and Writing in the Humanities and Social Sciences,Susan Blake,28,72.85714286,17.12419619,89.0,11.0,,,,,,,,6,7,5,
-UBCV,2014,W,WRDS,150,,03B,Research and Writing in the Humanities and Social Sciences,Katherine Power,27,70.77777778,7.875635912000001,89.0,55.0,,,,,,,10,,,,
-UBCV,2014,W,WRDS,150,,03C,Research and Writing in the Humanities and Social Sciences,Richard Gooding,24,65.0,16.301507,83.0,16.0,,,,,6,,,,,,
-UBCV,2014,W,WRDS,150,,03D,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,30,70.33333333,8.595641772,90.0,50.0,,,,,8,7,,,,,
-UBCV,2014,W,WRDS,150,,03E,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,29,73.68965517,7.2461982560000004,86.0,62.0,,,,,5,,,6,5,,
-UBCV,2014,W,WRDS,150,,03M,Research and Writing in the Humanities and Social Sciences,Mary Ann Saunders,24,73.41666667,6.177917664,85.0,64.0,,,,,6,,8,,,,
-UBCV,2014,W,WRDS,150,,03N,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,29,73.34482759,5.664903617999999,85.0,60.0,,,,,,8,9,,5,,
-UBCV,2014,W,WRDS,150,,03P,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,27,71.37037037,15.20664872,89.0,17.0,,,,,,,,6,6,,
-UBCV,2014,W,WRDS,150,,04A,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,26,70.34615385,11.85897907,90.0,50.0,,,,,5,,,,,,
-UBCV,2014,W,WRDS,150,,04B,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,30,74.36666667,6.392254652,88.0,64.0,,,,,5,5,9,,5,,
-UBCV,2014,W,WRDS,150,,04C,Research and Writing in the Humanities and Social Sciences,Diana Wegner,22,76.59090909,10.05536621,95.0,58.0,,,,,,,5,,,5,
-UBCV,2014,W,WRDS,150,,04D,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,28,73.07142857,7.348109212000001,86.0,60.0,,,,,6,,,8,,,
-UBCV,2014,W,WRDS,150,,04M,Research and Writing in the Humanities and Social Sciences,Susan Blake,27,69.59259259,11.056704400000001,87.0,34.0,,,,,5,6,,,,,
-UBCV,2014,W,WRDS,150,,04N,Research and Writing in the Humanities and Social Sciences,Katherine Power,29,69.86206897,11.90355331,87.0,23.0,,,,,5,8,6,,,,
-UBCV,2014,W,WRDS,150,,04P,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,23,63.08695652,21.64362817,88.0,0.0,,,,,,,,,5,,
-UBCV,2014,W,WRDS,150,,04Q,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,22,71.63636364,12.07731228,91.0,50.0,,,,,,,,,,,
-UBCV,2014,W,WRDS,150,,05A,Research and Writing in the Humanities and Social Sciences,Susan Blake,26,79.11538462,7.485062047,89.0,57.0,,,,,,,,5,9,6,
-UBCV,2014,W,WRDS,150,,05B,Research and Writing in the Humanities and Social Sciences,Thomas Jacob Bittner,24,68.79166667,16.43955772,81.0,10.0,,,,,,,,5,5,,
-UBCV,2014,W,WRDS,150,,05C,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,24,72.0,6.527533657999999,81.0,53.0,,,,,,,7,5,,,
-UBCV,2014,W,WRDS,150,,05M,Research and Writing in the Humanities and Social Sciences,Mary Ann Saunders,28,73.07142857,7.312741652000001,84.0,60.0,,,,5,,6,,6,8,,
-UBCV,2014,W,WRDS,150,,05N,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,25,73.56,4.891148468,81.0,64.0,,,,,,,5,9,,,
-UBCV,2014,W,WRDS,150,,05P,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,30,73.46666667,7.069767266,86.0,61.0,,,,,,8,,,8,,
+UBCV,2014,W,WRDS,150,,02P,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,24,66.16666667,18.15552776,87.0,6.0,,,,,,,,,7,,0
+UBCV,2014,W,WRDS,150,,03A,Research and Writing in the Humanities and Social Sciences,Susan Blake,28,72.85714286,17.12419619,89.0,11.0,,,,,,,,6,7,5,0
+UBCV,2014,W,WRDS,150,,03B,Research and Writing in the Humanities and Social Sciences,Katherine Power,27,70.77777778,7.875635912,89.0,55.0,0,0,,,,,10,,,,0
+UBCV,2014,W,WRDS,150,,03C,Research and Writing in the Humanities and Social Sciences,Richard Gooding,24,65.0,16.301507,83.0,16.0,,,,,6,,,,,0,0
+UBCV,2014,W,WRDS,150,,03D,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,30,70.33333333,8.595641772,90.0,50.0,0,,,,8,7,,,,,
+UBCV,2014,W,WRDS,150,,03E,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,29,73.68965517,7.246198256,86.0,62.0,0,0,0,,5,,,6,5,,0
+UBCV,2014,W,WRDS,150,,03M,Research and Writing in the Humanities and Social Sciences,Mary Ann Saunders,24,73.41666667,6.177917664,85.0,64.0,0,0,0,0,6,,8,,,,0
+UBCV,2014,W,WRDS,150,,03N,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,29,73.34482759,5.664903618,85.0,60.0,0,0,0,,,8,9,,5,,0
+UBCV,2014,W,WRDS,150,,03P,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,27,71.37037037,15.20664872,89.0,17.0,,,,,,,,6,6,,0
+UBCV,2014,W,WRDS,150,,04A,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,26,70.34615385,11.85897907,90.0,50.0,0,,,,5,,,,,,
+UBCV,2014,W,WRDS,150,,04B,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,30,74.36666667,6.392254652,88.0,64.0,0,0,0,0,5,5,9,,5,,0
+UBCV,2014,W,WRDS,150,,04C,Research and Writing in the Humanities and Social Sciences,Diana Wegner,22,76.59090909,10.05536621,95.0,58.0,0,0,,,,,5,,,5,
+UBCV,2014,W,WRDS,150,,04D,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,28,73.07142857,7.348109212,86.0,60.0,0,0,0,,6,,,8,,,0
+UBCV,2014,W,WRDS,150,,04M,Research and Writing in the Humanities and Social Sciences,Susan Blake,27,69.59259259,11.0567044,87.0,34.0,,,,,5,6,,,,,0
+UBCV,2014,W,WRDS,150,,04N,Research and Writing in the Humanities and Social Sciences,Katherine Power,29,69.86206897,11.90355331,87.0,23.0,,,,,5,8,6,,,,0
+UBCV,2014,W,WRDS,150,,04P,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,23,63.08695652,21.64362817,88.0,0.0,,,,,,,,,5,,0
+UBCV,2014,W,WRDS,150,,04Q,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,22,71.63636364,12.07731228,91.0,50.0,0,,,,,,,,,,
+UBCV,2014,W,WRDS,150,,05A,Research and Writing in the Humanities and Social Sciences,Susan Blake,26,79.11538462,7.485062047,89.0,57.0,0,0,,,,,,5,9,6,0
+UBCV,2014,W,WRDS,150,,05B,Research and Writing in the Humanities and Social Sciences,Thomas Jacob Bittner,24,68.79166667,16.43955772,81.0,10.0,,,,,,,,5,5,0,0
+UBCV,2014,W,WRDS,150,,05C,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,24,72.0,6.527533658,81.0,53.0,0,,,,,,7,5,,0,0
+UBCV,2014,W,WRDS,150,,05M,Research and Writing in the Humanities and Social Sciences,Mary Ann Saunders,28,73.07142857,7.312741652,84.0,60.0,0,0,0,5,,6,,6,8,0,0
+UBCV,2014,W,WRDS,150,,05N,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,25,73.56,4.891148468,81.0,64.0,0,0,0,0,,,5,9,,0,0
+UBCV,2014,W,WRDS,150,,05P,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,30,73.46666667,7.069767266,86.0,61.0,0,0,0,,,8,,,8,,0
 UBCV,2014,W,WRDS,150,,05Q,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,25,64.72,15.93089242,93.0,28.0,,5,,,,,,,,,
 UBCV,2014,W,WRDS,150,,06A,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,21,67.85714286,14.88719488,90.0,39.0,,,,,,,,,,,
 UBCV,2014,W,WRDS,150,,06B,Research and Writing in the Humanities and Social Sciences,Carmen Mathes,25,70.64,18.07134011,91.0,0.0,,,,,,,8,5,,,
-UBCV,2014,W,WRDS,150,,06C,Research and Writing in the Humanities and Social Sciences,Thomas Jacob Bittner,28,72.10714286,8.394615936000001,86.0,53.0,,,,,,,8,,5,,
-UBCV,2014,W,WRDS,150,,06D,Research and Writing in the Humanities and Social Sciences,Richard Gooding,29,71.82758621,9.809139199,88.0,35.0,,,,,,6,8,,6,,
-UBCV,2014,W,WRDS,150,,06M,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,24,66.875,16.65066261,86.0,7.0,,,,,,,8,,,,
-UBCV,2014,W,WRDS,150,,06N,Research and Writing in the Humanities and Social Sciences,Thomas Jacob Bittner,28,72.96428571,13.04545371,88.0,16.0,,,,,,,7,6,,5,
-UBCV,2014,W,WRDS,150,,06P,Research and Writing in the Humanities and Social Sciences,Richard Gooding,26,63.15384615,17.62428395,82.0,0.0,,,,,,,6,,,,
-UBCV,2014,W,WRDS,150,,06Q,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,20,64.75,17.78489898,85.0,0.0,,,,5,,,5,,,,
-UBCV,2014,W,WRDS,150,,07A,Research and Writing in the Humanities and Social Sciences,Mary Ann Saunders,28,70.64285714,7.145131912999999,84.0,57.0,,,,,,6,5,6,,,
-UBCV,2014,W,WRDS,150,,07B,Research and Writing in the Humanities and Social Sciences,Laila Ferreira,29,68.37931035,15.16672531,86.0,7.0,,,,,,7,,,,,
+UBCV,2014,W,WRDS,150,,06C,Research and Writing in the Humanities and Social Sciences,Thomas Jacob Bittner,28,72.10714286,8.394615936,86.0,53.0,0,,,,,,8,,5,,0
+UBCV,2014,W,WRDS,150,,06D,Research and Writing in the Humanities and Social Sciences,Richard Gooding,29,71.82758621,9.809139199,88.0,35.0,,,,,,6,8,,6,,0
+UBCV,2014,W,WRDS,150,,06M,Research and Writing in the Humanities and Social Sciences,Patricia Kelly,24,66.875,16.65066261,86.0,7.0,,,,,,,8,,,,0
+UBCV,2014,W,WRDS,150,,06N,Research and Writing in the Humanities and Social Sciences,Thomas Jacob Bittner,28,72.96428571,13.04545371,88.0,16.0,,,,,,,7,6,,5,0
+UBCV,2014,W,WRDS,150,,06P,Research and Writing in the Humanities and Social Sciences,Richard Gooding,26,63.15384615,17.62428395,82.0,0.0,,,,,,,6,,,0,0
+UBCV,2014,W,WRDS,150,,06Q,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,20,64.75,17.78489898,85.0,0.0,,,,5,,,5,,,,0
+UBCV,2014,W,WRDS,150,,07A,Research and Writing in the Humanities and Social Sciences,Mary Ann Saunders,28,70.64285714,7.145131913,84.0,57.0,0,0,,,,6,5,6,,0,0
+UBCV,2014,W,WRDS,150,,07B,Research and Writing in the Humanities and Social Sciences,Laila Ferreira,29,68.37931035,15.16672531,86.0,7.0,,,,,,7,,,,,0
 UBCV,2014,W,WRDS,150,,07C,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,28,73.71428571,12.98676575,91.0,34.0,,,,,,,5,,6,5,
-UBCV,2014,W,WRDS,150,,07M,Research and Writing in the Humanities and Social Sciences,Mary Ann Saunders,26,72.65384615,6.799660625,82.0,59.0,,,,,,5,6,,7,,
-UBCV,2014,W,WRDS,150,,07N,Research and Writing in the Humanities and Social Sciences,Laila Ferreira,27,70.11111111,14.80990659,86.0,5.0,,,,,,6,5,,,,
-UBCV,2014,W,WRDS,150,,07P,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,30,72.16666667,10.26572245,88.0,37.0,,,,,6,5,,5,5,,
-UBCV,2014,W,WRDS,150,,08A,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,26,69.46153846,11.95066783,85.0,34.0,,,,,8,6,,,5,,
-UBCV,2014,W,WRDS,150,,08M,Research and Writing in the Humanities and Social Sciences,Anna Casey,28,71.0,10.28843292,87.0,37.0,,,,,,,9,6,,,
-UBCV,2014,W,WRDS,150,,10A,Research and Writing in the Humanities and Social Sciences,Diane Burgess,25,67.2,14.90805152,82.0,5.0,,,,,8,,,,,,
-UBCV,2014,W,WRDS,150,,10M,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,20,72.5,7.97694045,85.0,56.0,,,,,,5,,,,,
-UBCV,2014,W,WRDS,150,,11A,Research and Writing in the Humanities and Social Sciences,Shurli Makmillen,28,72.10714286,13.38694579,87.0,14.0,,,,,,,6,8,,,
-UBCV,2014,W,WRDS,150,,11B,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,26,71.69230769,13.31095558,87.0,22.0,,,,,5,,,5,6,,
-UBCV,2014,W,WRDS,150,,11M,Research and Writing in the Humanities and Social Sciences,Diane Burgess,26,67.23076923,15.35267454,86.0,22.0,,,,,,,,,6,,
-UBCV,2014,W,WRDS,150,,11N,Research and Writing in the Humanities and Social Sciences,Katja Thieme,23,71.78260870000001,17.68141428,92.0,0.0,,,,,,5,6,,,,
-UBCV,2014,W,WRDS,150,,12A,Research and Writing in the Humanities and Social Sciences,Diane Burgess,28,68.10714286,13.39524317,85.0,21.0,,,,5,,,,6,,,
-UBCV,2014,W,WRDS,150,,12B,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,24,72.5,10.79049501,87.0,42.0,,,,,,5,,,,,
-UBCV,2014,W,WRDS,150,,12M,Research and Writing in the Humanities and Social Sciences,Diane Burgess,29,67.10344828,14.21353688,89.0,15.0,,,5,,5,,6,,,,
-UBCV,2014,W,WRDS,150,,12N,Research and Writing in the Humanities and Social Sciences,Shurli Makmillen,29,69.41379309999999,18.67870683,86.0,0.0,,,,,5,,8,,,,
-UBCV,2014,W,WRDS,150,,12P,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,31,70.5483871,12.86037508,83.0,12.0,,,,,,8,5,,9,,
-UBCV,2014,W,WRDS,150,,14A,Research and Writing in the Humanities and Social Sciences,Diane Burgess,27,70.40740741,14.99810055,86.0,7.0,,,,,,7,,,5,,
-UBCV,2014,W,WRDS,150,,14B,Research and Writing in the Humanities and Social Sciences,Katja Thieme,25,73.56,9.861879469,85.0,36.0,,,,,,,,8,6,,
-UBCV,2014,W,WRDS,150,,14M,Research and Writing in the Humanities and Social Sciences,Diane Burgess,29,65.89655172,12.87950983,81.0,18.0,,,,,,11,,5,,,
-UBCV,2014,W,WRDS,150,,14N,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,29,69.0,13.66434359,83.0,25.0,,,,,,8,,,7,,
-UBCV,2014,W,WRDS,150,,15M,Research and Writing in the Humanities and Social Sciences,Shurli Makmillen,27,73.48148148,8.31759197,86.0,60.0,,,,,5,,,6,6,,
-UBCV,2014,W,WRDS,150,,EC1,Research and Writing in the Humanities and Social Sciences,Katherine Power,28,69.82142857,13.41379492,87.0,29.0,,,,,,,8,,,,
-UBCV,2014,W,WRDS,150,,EC2,Research and Writing in the Humanities and Social Sciences,Katherine Power,26,71.80769231,11.19649671,84.0,30.0,,,,,,,,7,6,,
-UBCV,2014,W,WRDS,150,,EC3,Research and Writing in the Humanities and Social Sciences,Katherine Power,25,76.84,9.357171937,88.0,46.0,,,,,,,5,,6,5,
+UBCV,2014,W,WRDS,150,,07M,Research and Writing in the Humanities and Social Sciences,Mary Ann Saunders,26,72.65384615,6.799660625,82.0,59.0,0,0,,,,5,6,,7,0,0
+UBCV,2014,W,WRDS,150,,07N,Research and Writing in the Humanities and Social Sciences,Laila Ferreira,27,70.11111111,14.80990659,86.0,5.0,,,,,,6,5,,,,0
+UBCV,2014,W,WRDS,150,,07P,Research and Writing in the Humanities and Social Sciences,Sean Mcalister,30,72.16666667,10.26572245,88.0,37.0,,,,,6,5,,5,5,,0
+UBCV,2014,W,WRDS,150,,08A,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,26,69.46153846,11.95066783,85.0,34.0,,,,,8,6,,,5,,0
+UBCV,2014,W,WRDS,150,,08M,Research and Writing in the Humanities and Social Sciences,Anna Casey,28,71.0,10.28843292,87.0,37.0,,,,,,,9,6,,,0
+UBCV,2014,W,WRDS,150,,10A,Research and Writing in the Humanities and Social Sciences,Diane Burgess,25,67.2,14.90805152,82.0,5.0,,,,,8,,,,,0,0
+UBCV,2014,W,WRDS,150,,10M,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,20,72.5,7.97694045,85.0,56.0,0,0,,,,5,,,,,0
+UBCV,2014,W,WRDS,150,,11A,Research and Writing in the Humanities and Social Sciences,Shurli Makmillen,28,72.10714286,13.38694579,87.0,14.0,,,,,,,6,8,,,0
+UBCV,2014,W,WRDS,150,,11B,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,26,71.69230769,13.31095558,87.0,22.0,,,,,5,,,5,6,,0
+UBCV,2014,W,WRDS,150,,11M,Research and Writing in the Humanities and Social Sciences,Diane Burgess,26,67.23076923,15.35267454,86.0,22.0,,,,,,,,,6,,0
+UBCV,2014,W,WRDS,150,,11N,Research and Writing in the Humanities and Social Sciences,Katja Thieme,23,71.7826087,17.68141428,92.0,0.0,,,,,,5,6,,,,
+UBCV,2014,W,WRDS,150,,12A,Research and Writing in the Humanities and Social Sciences,Diane Burgess,28,68.10714286,13.39524317,85.0,21.0,,,,5,,,,6,,,0
+UBCV,2014,W,WRDS,150,,12B,Research and Writing in the Humanities and Social Sciences,Carellin Brooks,24,72.5,10.79049501,87.0,42.0,,,,,,5,,,,,0
+UBCV,2014,W,WRDS,150,,12M,Research and Writing in the Humanities and Social Sciences,Diane Burgess,29,67.10344828,14.21353688,89.0,15.0,,,5,,5,,6,,,,0
+UBCV,2014,W,WRDS,150,,12N,Research and Writing in the Humanities and Social Sciences,Shurli Makmillen,29,69.4137931,18.67870683,86.0,0.0,,,,,5,,8,,,,0
+UBCV,2014,W,WRDS,150,,12P,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,31,70.5483871,12.86037508,83.0,12.0,,,,,,8,5,,9,0,0
+UBCV,2014,W,WRDS,150,,14A,Research and Writing in the Humanities and Social Sciences,Diane Burgess,27,70.40740741,14.99810055,86.0,7.0,,,,,,7,,,5,,0
+UBCV,2014,W,WRDS,150,,14B,Research and Writing in the Humanities and Social Sciences,Katja Thieme,25,73.56,9.861879469,85.0,36.0,,,,,,,,8,6,,0
+UBCV,2014,W,WRDS,150,,14M,Research and Writing in the Humanities and Social Sciences,Diane Burgess,29,65.89655172,12.87950983,81.0,18.0,,,,,,11,,5,,0,0
+UBCV,2014,W,WRDS,150,,14N,Research and Writing in the Humanities and Social Sciences,Erin Macwilliam,29,69.0,13.66434359,83.0,25.0,,,,,,8,,,7,0,0
+UBCV,2014,W,WRDS,150,,15M,Research and Writing in the Humanities and Social Sciences,Shurli Makmillen,27,73.48148148,8.31759197,86.0,60.0,0,0,0,,5,,,6,6,,0
+UBCV,2014,W,WRDS,150,,EC1,Research and Writing in the Humanities and Social Sciences,Katherine Power,28,69.82142857,13.41379492,87.0,29.0,,,,,,,8,,,,0
+UBCV,2014,W,WRDS,150,,EC2,Research and Writing in the Humanities and Social Sciences,Katherine Power,26,71.80769231,11.19649671,84.0,30.0,,,,,,,,7,6,0,0
+UBCV,2014,W,WRDS,150,,EC3,Research and Writing in the Humanities and Social Sciences,Katherine Power,25,76.84,9.357171937,88.0,46.0,,,,,,,5,,6,5,0
 UBCV,2014,W,WRDS,150,,OVERALL,Research and Writing in the Humanities and Social Sciences,,1806,70.36877076,13.27644278,95.0,0.0,85,51,68,131,215,279,300,266,279,115,17
-UBCV,2014,W,WRDS,150,,V01,Research and Writing in the Humanities and Social Sciences,Dana Landry,18,59.11111111,24.63352304,86.0,0.0,,,,,,,,,,,
-UBCV,2014,W,WRDS,150,,V02,Research and Writing in the Humanities and Social Sciences,Katja Thieme,25,67.72,9.926899482,87.0,49.0,,,,,,,,,,,
-UBCV,2014,W,WRDS,150,,V05,Research and Writing in the Humanities and Social Sciences,Jaclyn Rea,19,55.63157895,11.86596686,68.0,12.0,,,7,6,,,,,,,
-UBCV,2014,W,WRDS,150,,V06,Research and Writing in the Humanities and Social Sciences,Jaclyn Rea,14,53.64285714,17.53066387,70.0,12.0,,,,,,,,,,,
+UBCV,2014,W,WRDS,150,,V01,Research and Writing in the Humanities and Social Sciences,Dana Landry,18,59.11111111,24.63352304,86.0,0.0,,,,,,,,,,,0
+UBCV,2014,W,WRDS,150,,V02,Research and Writing in the Humanities and Social Sciences,Katja Thieme,25,67.72,9.926899482,87.0,49.0,,,,,,,,,,,0
+UBCV,2014,W,WRDS,150,,V05,Research and Writing in the Humanities and Social Sciences,Jaclyn Rea,19,55.63157895,11.86596686,68.0,12.0,,,7,6,,,0,0,0,0,0
+UBCV,2014,W,WRDS,150,,V06,Research and Writing in the Humanities and Social Sciences,Jaclyn Rea,14,53.64285714,17.53066387,70.0,12.0,,,,,,,0,0,0,0,0

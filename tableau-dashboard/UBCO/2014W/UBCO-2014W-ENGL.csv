@@ -1,136 +1,136 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2014,W,ENGL,112,,001,Studies in Composition,Joanna Cockerline,35,73.91428571,8.409978067,87.0,56.0,,,,,5,,7,,9,,
-UBCO,2014,W,ENGL,112,,002,Studies in Composition,Jordan Stouck,34,72.41176471,9.052431942,85.0,47.0,,,,,,5,9,6,5,,
+UBCO,2014,W,ENGL,112,,001,Studies in Composition,Joanna Cockerline,35,73.91428571,8.409978067,87.0,56.0,0,0,,,5,,7,,9,,0
+UBCO,2014,W,ENGL,112,,002,Studies in Composition,Jordan Stouck,34,72.41176471,9.052431942,85.0,47.0,,,,,,5,9,6,5,,0
 UBCO,2014,W,ENGL,112,,004,Studies in Composition,Shirley Mcdonald,32,75.09375,13.15505392,92.0,16.0,,,,,,5,5,7,8,,
-UBCO,2014,W,ENGL,112,,005,Studies in Composition,Jon Vickery,35,80.22857143,3.933907758,90.0,74.0,,,,,,,,11,17,,
-UBCO,2014,W,ENGL,112,,006,Studies in Composition,Lainie Senger,35,88.8,6.940079674,97.0,67.0,,,,,,,,,6,9,18
-UBCO,2014,W,ENGL,112,,007,Studies in Composition,Jennifer Payson,35,70.68571429,10.50426084,83.0,20.0,,,,,6,,10,8,,,
-UBCO,2014,W,ENGL,112,,008,Studies in Composition,Jennifer Payson,34,71.64705882,13.84520999,84.0,0.0,,,,,,6,8,9,6,,
-UBCO,2014,W,ENGL,112,,009,Studies in Composition,Jon Vickery,34,75.26470588,7.080955352,84.0,53.0,,,,,,,10,11,7,,
-UBCO,2014,W,ENGL,112,,010,Studies in Composition,Jordan Stouck,35,70.51428571,8.186687287,86.0,45.0,,,,,,9,12,,,,
-UBCO,2014,W,ENGL,112,,011,Studies in Composition,Jennifer Payson,35,72.77142857,6.821616655,84.0,55.0,,,,,,5,7,12,,,
-UBCO,2014,W,ENGL,112,,012,Studies in Composition,Lainie Senger,35,85.68571429,9.584826945,96.0,59.0,,,,,,,,,,11,13
-UBCO,2014,W,ENGL,112,,013,Studies in Composition,Jon Vickery,35,76.4,8.752142595,87.0,32.0,,,,,,,5,17,6,,
-UBCO,2014,W,ENGL,112,,014,Studies in Composition,Natasha Rebry,33,69.48484849,16.19243885,85.0,16.0,,,,,,,10,8,,,
-UBCO,2014,W,ENGL,112,,101,Studies in Composition,Jordan Stouck,35,71.62857143,13.35727542,87.0,8.0,,,,,,6,7,6,6,,
+UBCO,2014,W,ENGL,112,,005,Studies in Composition,Jon Vickery,35,80.22857143,3.933907758,90.0,74.0,0,0,0,0,0,0,,11,17,,
+UBCO,2014,W,ENGL,112,,006,Studies in Composition,Lainie Senger,35,88.8,6.940079674,97.0,67.0,0,0,0,0,,,,,6,9,18
+UBCO,2014,W,ENGL,112,,007,Studies in Composition,Jennifer Payson,35,70.68571429,10.50426084,83.0,20.0,,,,,6,,10,8,,0,0
+UBCO,2014,W,ENGL,112,,008,Studies in Composition,Jennifer Payson,34,71.64705882,13.84520999,84.0,0.0,,,,,,6,8,9,6,0,0
+UBCO,2014,W,ENGL,112,,009,Studies in Composition,Jon Vickery,34,75.26470588,7.080955352,84.0,53.0,0,,,,,,10,11,7,0,0
+UBCO,2014,W,ENGL,112,,010,Studies in Composition,Jordan Stouck,35,70.51428571,8.186687287,86.0,45.0,,,,,,9,12,,,,0
+UBCO,2014,W,ENGL,112,,011,Studies in Composition,Jennifer Payson,35,72.77142857,6.821616655,84.0,55.0,0,0,,,,5,7,12,,0,0
+UBCO,2014,W,ENGL,112,,012,Studies in Composition,Lainie Senger,35,85.68571429,9.584826945,96.0,59.0,0,0,,,,,,,,11,13
+UBCO,2014,W,ENGL,112,,013,Studies in Composition,Jon Vickery,35,76.4,8.752142595,87.0,32.0,,,,,,,5,17,6,,0
+UBCO,2014,W,ENGL,112,,014,Studies in Composition,Natasha Rebry,33,69.48484849,16.19243885,85.0,16.0,,,,,,,10,8,,,0
+UBCO,2014,W,ENGL,112,,101,Studies in Composition,Jordan Stouck,35,71.62857143,13.35727542,87.0,8.0,,,,,,6,7,6,6,,0
 UBCO,2014,W,ENGL,112,,102,Studies in Composition,Jon Vickery,35,72.77142857,11.03493307,90.0,38.0,,,,,,,7,10,6,,
-UBCO,2014,W,ENGL,112,,104,Studies in Composition,Jennifer Payson,33,67.51515152,9.035074751,85.0,37.0,,,,8,,8,,5,,,
-UBCO,2014,W,ENGL,112,,105,Studies in Composition,Jennifer Payson,35,68.51428571,10.43007932,86.0,29.0,,,,6,6,9,,7,,,
-UBCO,2014,W,ENGL,112,,106,Studies in Composition,Jennifer Payson,34,68.88235294,14.18869526,85.0,3.0,,,,,,8,5,,5,,
+UBCO,2014,W,ENGL,112,,104,Studies in Composition,Jennifer Payson,33,67.51515152,9.035074751,85.0,37.0,,,,8,,8,,5,,,0
+UBCO,2014,W,ENGL,112,,105,Studies in Composition,Jennifer Payson,35,68.51428571,10.43007932,86.0,29.0,,,,6,6,9,,7,,,0
+UBCO,2014,W,ENGL,112,,106,Studies in Composition,Jennifer Payson,34,68.88235294,14.18869526,85.0,3.0,,,,,,8,5,,5,,0
 UBCO,2014,W,ENGL,112,,107,Studies in Composition,Lainie Senger,34,79.47058824,23.50529959,98.0,2.0,,,,,,,,,,6,15
 UBCO,2014,W,ENGL,112,,108,Studies in Composition,Jon Vickery,35,71.37142857,13.31537306,92.0,17.0,,,,,5,6,,5,7,,
 UBCO,2014,W,ENGL,112,,109,Studies in Composition,Lainie Senger,35,83.62857143,13.29105341,97.0,22.0,,,,,,,,,10,8,12
-UBCO,2014,W,ENGL,112,,110,Studies in Composition,Jon Vickery,34,70.41176471,17.01001068,88.0,2.0,,,,,,,7,7,,,
-UBCO,2014,W,ENGL,112,,112,Studies in Composition,Jordan Stouck,36,66.66666667,12.8996124,82.0,32.0,5,,,,6,5,6,,6,,
+UBCO,2014,W,ENGL,112,,110,Studies in Composition,Jon Vickery,34,70.41176471,17.01001068,88.0,2.0,,,,,,,7,7,,,0
+UBCO,2014,W,ENGL,112,,112,Studies in Composition,Jordan Stouck,36,66.66666667,12.8996124,82.0,32.0,5,,,,6,5,6,,6,0,0
 UBCO,2014,W,ENGL,112,,114,Studies in Composition,Joanna Cockerline,35,72.88571429,17.88816801,98.0,0.0,,,,,,,,10,6,,
 UBCO,2014,W,ENGL,112,,OVERALL,Studies in Composition,,828,74.04830918,13.39729022,98.0,0.0,30,13,23,43,57,98,135,162,137,64,66
-UBCO,2014,W,ENGL,114,,101,Studies in Composition: Aboriginal Perspectives,Allison Hargreaves,27,67.92592593,19.28715381,87.0,0.0,,,,,7,,,,7,,
-UBCO,2014,W,ENGL,114,,OVERALL,Studies in Composition: Aboriginal Perspectives,,27,67.92592593,19.28715381,87.0,0.0,,,,,7,,,,7,,
+UBCO,2014,W,ENGL,114,,101,Studies in Composition: Aboriginal Perspectives,Allison Hargreaves,27,67.92592593,19.28715381,87.0,0.0,,,,,7,,,,7,,0
+UBCO,2014,W,ENGL,114,,OVERALL,Studies in Composition: Aboriginal Perspectives,,27,67.92592593,19.28715381,87.0,0.0,,,,,7,,,,7,,0
 UBCO,2014,W,ENGL,150,,001,Introduction to Literary Genre,Marie Loughlin,32,64.125,20.47461056,90.0,6.0,6,,,,5,,5,,,,
-UBCO,2014,W,ENGL,150,,002,Introduction to Literary Genre,Natasha Rebry,35,70.71428571,14.12459563,88.0,9.0,,,,,,5,6,8,5,,
+UBCO,2014,W,ENGL,150,,002,Introduction to Literary Genre,Natasha Rebry,35,70.71428571,14.12459563,88.0,9.0,,,,,,5,6,8,5,,0
 UBCO,2014,W,ENGL,150,,004,Introduction to Literary Genre,Karis Shearer,35,74.2,15.08953669,96.0,18.0,,,,5,,,,,,,5
 UBCO,2014,W,ENGL,150,,005,Introduction to Literary Genre,Karis Shearer,35,74.37142857,12.58871043,95.0,40.0,,,,,,5,5,5,,,
-UBCO,2014,W,ENGL,150,,006,Introduction to Literary Genre,Oliver Lovesey,35,67.02857143,14.3864432,88.0,23.0,,,,,5,6,5,,,,
+UBCO,2014,W,ENGL,150,,006,Introduction to Literary Genre,Oliver Lovesey,35,67.02857143,14.3864432,88.0,23.0,,,,,5,6,5,,,,0
 UBCO,2014,W,ENGL,150,,101,Introduction to Literary Genre,Oliver Lovesey,34,67.11764706,15.53054606,90.0,27.0,,7,,,,,7,,,,
-UBCO,2014,W,ENGL,150,,102,Introduction to Literary Genre,Marie Loughlin,34,70.85294118,16.32646551,88.0,19.0,,,5,,,,,5,10,,
-UBCO,2014,W,ENGL,150,,104,Introduction to Literary Genre,Anderson Araujo;David Balfour,32,68.21875,11.1608023,86.0,31.0,,,,5,6,6,5,,,,
+UBCO,2014,W,ENGL,150,,102,Introduction to Literary Genre,Marie Loughlin,34,70.85294118,16.32646551,88.0,19.0,,,5,,,,,5,10,,0
+UBCO,2014,W,ENGL,150,,104,Introduction to Literary Genre,Anderson Araujo;David Balfour,32,68.21875,11.1608023,86.0,31.0,,,,5,6,6,5,,,,0
 UBCO,2014,W,ENGL,150,,OVERALL,Introduction to Literary Genre,,272,69.65808824,15.32636373,96.0,6.0,21,15,10,18,30,33,40,36,37,20,12
-UBCO,2014,W,ENGL,151,,001,Critical Studies in Literature,Lisa Grekul,35,73.82857143,9.883098211,93.0,50.0,,,,,,,6,6,10,,
-UBCO,2014,W,ENGL,151,,002,Critical Studies in Literature,Greg Garrard,32,71.09375,6.817242726,84.0,57.0,,,,,,9,,6,5,,
-UBCO,2014,W,ENGL,151,,004,Critical Studies in Literature,Janet Macarthur,33,69.0,18.01041365,87.0,8.0,,,,,,5,11,5,,,
-UBCO,2014,W,ENGL,151,,005,Critical Studies in Literature,Daniel Keyes,35,66.0,8.084116598,82.0,51.0,,,5,5,6,,7,,,,
-UBCO,2014,W,ENGL,151,,101,Critical Studies in Literature,C Castricano,31,71.51612903,16.49418275,85.0,0.0,,,,,,,7,8,5,,
+UBCO,2014,W,ENGL,151,,001,Critical Studies in Literature,Lisa Grekul,35,73.82857143,9.883098211,93.0,50.0,0,,,,,,6,6,10,,
+UBCO,2014,W,ENGL,151,,002,Critical Studies in Literature,Greg Garrard,32,71.09375,6.817242726,84.0,57.0,0,0,,,,9,,6,5,0,0
+UBCO,2014,W,ENGL,151,,004,Critical Studies in Literature,Janet Macarthur,33,69.0,18.01041365,87.0,8.0,,,,,,5,11,5,,,0
+UBCO,2014,W,ENGL,151,,005,Critical Studies in Literature,Daniel Keyes,35,66.0,8.084116598,82.0,51.0,0,,5,5,6,,7,,,0,0
+UBCO,2014,W,ENGL,151,,101,Critical Studies in Literature,C Castricano,31,71.51612903,16.49418275,85.0,0.0,,,,,,,7,8,5,,0
 UBCO,2014,W,ENGL,151,,102,Critical Studies in Literature,Melissa Jacques,31,68.35483871,24.11576025,90.0,0.0,,,,,,,,10,7,,
 UBCO,2014,W,ENGL,151,,103,Critical Studies in Literature,Melissa Jacques,32,75.3125,12.39520589,90.0,24.0,,,,,,,5,8,6,5,
 UBCO,2014,W,ENGL,151,,104,Critical Studies in Literature,Melissa Jacques,35,74.57142857,9.369178865,90.0,44.0,,,,,,7,7,,8,,
 UBCO,2014,W,ENGL,151,,107,Critical Studies in Literature,David Jefferess,33,67.0,17.94087512,90.0,22.0,,,,,,6,,,,5,
 UBCO,2014,W,ENGL,151,,110,Critical Studies in Literature,Shirley Mcdonald,33,61.24242424,23.5438823,93.0,0.0,8,,,,,5,5,,5,,
 UBCO,2014,W,ENGL,151,,OVERALL,Critical Studies in Literature,,330,69.8,16.02683919,93.0,0.0,22,12,15,20,25,44,57,56,53,20,6
-UBCO,2014,W,ENGL,153,,001,Readings in Narrative,Melissa Jacques,25,78.8,7.141428428999999,90.0,53.0,,,,,,1,,8,6,,
-UBCO,2014,W,ENGL,153,,004,Readings in Narrative,Melissa Jacques,30,72.03333333,12.98668637,91.0,42.0,,,,,,5,,6,4,,
-UBCO,2014,W,ENGL,153,,005,Readings in Narrative,George Grinnell,195,62.73846154,17.89800161,87.0,0.0,30,10,16,12,31,27,29,22,13,5,0.0
-UBCO,2014,W,ENGL,153,,101,Readings in Narrative,Adelene Pierce;Alexa Berlynn Manuel;Alexa Manuel;David Laird;George Grinnell;Lindsay Diehl;Mark Buchanan;Mathieu Aubin,222,66.36486487,15.79842565,88.0,0.0,23,10,13,14,28,34,39,34,23,,
-UBCO,2014,W,ENGL,153,,103,Readings in Narrative,Alexandria Erin Krause;Alexandria Krause;Lindsay Farrugia;Samuel Hiles;Sean Kevin Lawrence,95,65.71578947,13.72500681,88.0,8.0,7,5,7,10,17,18,13,9,6,,
+UBCO,2014,W,ENGL,153,,001,Readings in Narrative,Melissa Jacques,25,78.8,7.141428429,90.0,53.0,0,,,,,1,,8,6,,
+UBCO,2014,W,ENGL,153,,004,Readings in Narrative,Melissa Jacques,30,72.03333333,12.98668637,91.0,42.0,2,,,,,5,,6,4,,
+UBCO,2014,W,ENGL,153,,005,Readings in Narrative,George Grinnell,195,62.73846154,17.89800161,87.0,0.0,30,10,16,12,31,27,29,22,13,5,0
+UBCO,2014,W,ENGL,153,,101,Readings in Narrative,Adelene Pierce;Alexa Berlynn Manuel;Alexa Manuel;David Laird;George Grinnell;Lindsay Diehl;Mark Buchanan;Mathieu Aubin,222,66.36486487,15.79842565,88.0,0.0,23,10,13,14,28,34,39,34,23,4.0,0
+UBCO,2014,W,ENGL,153,,103,Readings in Narrative,Alexandria Erin Krause;Alexandria Krause;Lindsay Farrugia;Samuel Hiles;Sean Kevin Lawrence,95,65.71578947,13.72500681,88.0,8.0,7,5,7,10,17,18,13,9,6,3.0,0
 UBCO,2014,W,ENGL,153,,OVERALL,Readings in Narrative,,567,65.85714286,16.19314891,91.0,0.0,62,29,36,38,77,85,87,79,52,20,2.0
-UBCO,2014,W,ENGL,215,,001,Reading Film,Cole Schmidt;Daniel Keyes;Elizabeth Carruthers;Elizabeth R Carruthers,35,63.37142857,18.2709762,85.0,0.0,,,,5,6,6,,,,,
-UBCO,2014,W,ENGL,215,,OVERALL,Reading Film,,35,63.37142857,18.2709762,85.0,0.0,,,,5,6,6,,,,,
-UBCO,2014,W,ENGL,220,,001,Foundations: Literature in Historical Context 1,Michael Treschow,19,67.0,15.88150567,86.0,22.0,,,,,,,4,1,3,1,
+UBCO,2014,W,ENGL,215,,001,Reading Film,Cole Schmidt;Daniel Keyes;Elizabeth Carruthers;Elizabeth R Carruthers,35,63.37142857,18.2709762,85.0,0.0,,,,5,6,6,,,,,0
+UBCO,2014,W,ENGL,215,,OVERALL,Reading Film,,35,63.37142857,18.2709762,85.0,0.0,,,,5,6,6,,,,,0
+UBCO,2014,W,ENGL,220,,001,Foundations: Literature in Historical Context 1,Michael Treschow,19,67.0,15.88150567,86.0,22.0,,,,,,,4,1,3,1,0
 UBCO,2014,W,ENGL,220,,002,Foundations: Literature in Historical Context 1,Michael Treschow,45,73.35555556,15.02899554,92.0,0.0,,,,,,,6,6,13,5,
 UBCO,2014,W,ENGL,220,,OVERALL,Foundations: Literature in Historical Context 1,,64,71.46875,15.43955829,92.0,0.0,,,,,7,,10,7,16,6,
-UBCO,2014,W,ENGL,221,,101,Foundations: Literature in Historical Context 2,Juawana Grant;Paul Milton,20,69.6,17.56911165,87.0,5.0,,,,5,,1,3,,3,,
-UBCO,2014,W,ENGL,221,,102,Foundations: Literature in Historical Context 2,Juawana Grant;Paul Milton,43,67.8372093,14.68385935,87.0,10.0,,,,3,,10,9,,5,,
-UBCO,2014,W,ENGL,221,,OVERALL,Foundations: Literature in Historical Context 2,,63,68.39682540000001,15.53512117,87.0,5.0,5,,,8,,11,12,7,8,5,
-UBCO,2014,W,ENGL,222,,001,Literature in Canada,Lisa Grekul,49,66.61224490000001,18.36189025,93.0,13.0,6,,,5,7,,,5,8,,
-UBCO,2014,W,ENGL,222,,OVERALL,Literature in Canada,,49,66.61224490000001,18.36189025,93.0,13.0,6,,,5,7,,,5,8,,
+UBCO,2014,W,ENGL,221,,101,Foundations: Literature in Historical Context 2,Juawana Grant;Paul Milton,20,69.6,17.56911165,87.0,5.0,,,,5,,1,3,,3,,0
+UBCO,2014,W,ENGL,221,,102,Foundations: Literature in Historical Context 2,Juawana Grant;Paul Milton,43,67.8372093,14.68385935,87.0,10.0,,,,3,,10,9,,5,,0
+UBCO,2014,W,ENGL,221,,OVERALL,Foundations: Literature in Historical Context 2,,63,68.3968254,15.53512117,87.0,5.0,5,,,8,,11,12,7,8,5,0
+UBCO,2014,W,ENGL,222,,001,Literature in Canada,Lisa Grekul,49,66.6122449,18.36189025,93.0,13.0,6,,,5,7,,,5,8,,
+UBCO,2014,W,ENGL,222,,OVERALL,Literature in Canada,,49,66.6122449,18.36189025,93.0,13.0,6,,,5,7,,,5,8,,
 UBCO,2014,W,ENGL,224,,001,Foundations: Reading Across Borders,David Jefferess,23,73.13043478,14.10127121,94.0,26.0,,,,,,,,,7,,
 UBCO,2014,W,ENGL,224,,OVERALL,Foundations: Reading Across Borders,,23,73.13043478,14.10127121,94.0,26.0,,,,,,,,,7,,
 UBCO,2014,W,ENGL,232,,001,Reading Popular Culture,Constance Crompton,52,71.53846154,13.22573478,90.0,24.0,,,,,,7,9,6,9,6,
 UBCO,2014,W,ENGL,232,,OVERALL,Reading Popular Culture,,52,71.53846154,13.22573478,90.0,24.0,,,,,,7,9,6,9,6,
-UBCO,2014,W,ENGL,234,,001,Foundations: Indigenous Literature,Allison Hargreaves,15,78.26666667,6.295879227,88.0,69.0,,,,,,,,,5,,
-UBCO,2014,W,ENGL,234,,OVERALL,Foundations: Indigenous Literature,,15,78.26666667,6.295879227,88.0,69.0,,,,,,,,,5,,
+UBCO,2014,W,ENGL,234,,001,Foundations: Indigenous Literature,Allison Hargreaves,15,78.26666667,6.295879227,88.0,69.0,0,0,0,0,0,,,,5,,0
+UBCO,2014,W,ENGL,234,,OVERALL,Foundations: Indigenous Literature,,15,78.26666667,6.295879227,88.0,69.0,0,0,0,0,0,,,,5,,0
 UBCO,2014,W,ENGL,243,,001,Apocrypha and Christian Scriptures: Biblical Backgrounds to English Literature,Francisco Pena Fernandez,28,79.82142857,12.89287363,93.0,26.0,,,,,,,,,9,,6
 UBCO,2014,W,ENGL,243,,OVERALL,Apocrypha and Christian Scriptures: Biblical Backgrounds to English Literature,,28,79.82142857,12.89287363,93.0,26.0,,,,,,,,,9,,6
-UBCO,2014,W,ENGL,250,,001,Foundations: Interdisciplinary Theory and Method in Literary Research,Melissa Jacques,11,80.18181818,10.67537523,87.0,50.0,,,,,,,,,,5,
-UBCO,2014,W,ENGL,250,,OVERALL,Foundations: Interdisciplinary Theory and Method in Literary Research,,11,80.18181818,10.67537523,87.0,50.0,,,,,,,,,,5,
-UBCO,2014,W,ENGL,305,,001,The Self-Conscious Text,Constance Crompton,29,78.20689655,9.733518342,95.0,59.0,,,,,,5,,,8,,
-UBCO,2014,W,ENGL,305,,OVERALL,The Self-Conscious Text,,29,78.20689655,9.733518342,95.0,59.0,,,,,,5,,,8,,
+UBCO,2014,W,ENGL,250,,001,Foundations: Interdisciplinary Theory and Method in Literary Research,Melissa Jacques,11,80.18181818,10.67537523,87.0,50.0,0,,,,,,,,,5,0
+UBCO,2014,W,ENGL,250,,OVERALL,Foundations: Interdisciplinary Theory and Method in Literary Research,,11,80.18181818,10.67537523,87.0,50.0,0,,,,,,,,,5,0
+UBCO,2014,W,ENGL,305,,001,The Self-Conscious Text,Constance Crompton,29,78.20689655,9.733518342,95.0,59.0,0,0,,,,5,,,8,,
+UBCO,2014,W,ENGL,305,,OVERALL,The Self-Conscious Text,,29,78.20689655,9.733518342,95.0,59.0,0,0,,,,5,,,8,,
 UBCO,2014,W,ENGL,306,,001,The Programmed World,Constance Crompton,29,68.93103448,23.36042293,92.0,0.0,,,,,,,,,5,7,
 UBCO,2014,W,ENGL,306,,OVERALL,The Programmed World,,29,68.93103448,23.36042293,92.0,0.0,,,,,,,,,5,7,
-UBCO,2014,W,ENGL,309,A,001,Modern Critical Theory and Interdisciplinary Methods,George Grinnell,32,78.09375,9.832006244,89.0,45.0,,,,,,,,9,10,7,
-UBCO,2014,W,ENGL,309,A,OVERALL,Modern Critical Theory and Interdisciplinary Methods,,32,78.09375,9.832006244,89.0,45.0,,,,,,,,9,10,7,
+UBCO,2014,W,ENGL,309,A,001,Modern Critical Theory and Interdisciplinary Methods,George Grinnell,32,78.09375,9.832006244,89.0,45.0,,,,,,,,9,10,7,0
+UBCO,2014,W,ENGL,309,A,OVERALL,Modern Critical Theory and Interdisciplinary Methods,,32,78.09375,9.832006244,89.0,45.0,,,,,,,,9,10,7,0
 UBCO,2014,W,ENGL,315,A,001,Studies in Backgrounds to 16th-Century Literature,Marie Loughlin,32,74.5625,13.15892314,92.0,25.0,,,,,,,,5,11,,
 UBCO,2014,W,ENGL,315,A,OVERALL,Studies in Backgrounds to 16th-Century Literature,,32,74.5625,13.15892314,92.0,25.0,,,,,,,,5,11,,
-UBCO,2014,W,ENGL,319,A,001,Studies in Romanticism,George Grinnell,39,72.61538462,11.00147211,89.0,43.0,,,,,,5,,6,9,,
-UBCO,2014,W,ENGL,319,A,OVERALL,Studies in Romanticism,,39,72.61538462,11.00147211,89.0,43.0,,,,,,5,,6,9,,
+UBCO,2014,W,ENGL,319,A,001,Studies in Romanticism,George Grinnell,39,72.61538462,11.00147211,89.0,43.0,,,,,,5,,6,9,,0
+UBCO,2014,W,ENGL,319,A,OVERALL,Studies in Romanticism,,39,72.61538462,11.00147211,89.0,43.0,,,,,,5,,6,9,,0
 UBCO,2014,W,ENGL,330,B,001,Regionalism in Canadian Literature,Lisa Grekul,37,71.13513514,14.82145997,91.0,14.0,,,,,7,,,8,7,,
 UBCO,2014,W,ENGL,330,B,OVERALL,Regionalism in Canadian Literature,,37,71.13513514,14.82145997,91.0,14.0,,,,,7,,,8,7,,
-UBCO,2014,W,ENGL,336,C,001,Studies in Backgrounds to American Literature,Greg Garrard,28,65.25,26.4821743,84.0,0.0,,,,,,,,,9,,
-UBCO,2014,W,ENGL,336,C,OVERALL,Studies in Backgrounds to American Literature,,28,65.25,26.4821743,84.0,0.0,,,,,,,,,9,,
-UBCO,2014,W,ENGL,337,,001,American Literature between the Wars,Paul Milton,41,74.65853659,10.35280096,88.0,32.0,,,,,,,7,9,11,,
-UBCO,2014,W,ENGL,337,,OVERALL,American Literature between the Wars,,41,74.65853659,10.35280096,88.0,32.0,,,,,,,7,9,11,,
+UBCO,2014,W,ENGL,336,C,001,Studies in Backgrounds to American Literature,Greg Garrard,28,65.25,26.4821743,84.0,0.0,,,,,,,,,9,0,0
+UBCO,2014,W,ENGL,336,C,OVERALL,Studies in Backgrounds to American Literature,,28,65.25,26.4821743,84.0,0.0,,,,,,,,,9,0,0
+UBCO,2014,W,ENGL,337,,001,American Literature between the Wars,Paul Milton,41,74.65853659,10.35280096,88.0,32.0,,,,,,,7,9,11,,0
+UBCO,2014,W,ENGL,337,,OVERALL,American Literature between the Wars,,41,74.65853659,10.35280096,88.0,32.0,,,,,,,7,9,11,,0
 UBCO,2014,W,ENGL,340,,001,Introduction to Old English,Michael Treschow,28,81.75,13.76959883,96.0,19.0,,,,,,,,,9,8,5
 UBCO,2014,W,ENGL,340,,OVERALL,Introduction to Old English,,28,81.75,13.76959883,96.0,19.0,,,,,,,,,9,8,5
-UBCO,2014,W,ENGL,341,,001,"Globalization, Literature, and Culture",David Jefferess,25,75.16,7.65223279,90.0,60.0,,,,,,,7,5,,,
-UBCO,2014,W,ENGL,341,,OVERALL,"Globalization, Literature, and Culture",,25,75.16,7.65223279,90.0,60.0,,,,,,,7,5,,,
+UBCO,2014,W,ENGL,341,,001,"Globalization, Literature, and Culture",David Jefferess,25,75.16,7.65223279,90.0,60.0,0,0,0,,,,7,5,,,
+UBCO,2014,W,ENGL,341,,OVERALL,"Globalization, Literature, and Culture",,25,75.16,7.65223279,90.0,60.0,0,0,0,,,,7,5,,,
 UBCO,2014,W,ENGL,342,,001,Auto/Biography Survey,Janet Macarthur,37,74.64864865,11.22055707,90.0,39.0,,,,,,,7,14,,,
 UBCO,2014,W,ENGL,342,,OVERALL,Auto/Biography Survey,,37,74.64864865,11.22055707,90.0,39.0,,,,,,,7,14,,,
 UBCO,2014,W,ENGL,352,,001,Shakespeare: Earlier Works,Sean Kevin Lawrence,38,72.28947368,11.25840922,90.0,40.0,,,,,,,6,8,5,,
 UBCO,2014,W,ENGL,352,,OVERALL,Shakespeare: Earlier Works,,38,72.28947368,11.25840922,90.0,40.0,,,,,,,6,8,5,,
-UBCO,2014,W,ENGL,355,P,001,Studies in Backgrounds to Literature: Special Topics,Greg Garrard,12,64.33333333,30.73444421,85.0,0.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,355,P,OVERALL,Studies in Backgrounds to Literature: Special Topics,,12,64.33333333,30.73444421,85.0,0.0,,,,,,,,,,,
+UBCO,2014,W,ENGL,355,P,001,Studies in Backgrounds to Literature: Special Topics,Greg Garrard,12,64.33333333,30.73444421,85.0,0.0,,,,,,,,,,,0
+UBCO,2014,W,ENGL,355,P,OVERALL,Studies in Backgrounds to Literature: Special Topics,,12,64.33333333,30.73444421,85.0,0.0,,,,,,,,,,,0
 UBCO,2014,W,ENGL,364,A,001,19th-Century Studies,C Castricano,43,72.69767442,17.00775017,94.0,17.0,,,,,,,,12,10,,
 UBCO,2014,W,ENGL,364,A,OVERALL,19th-Century Studies,,43,72.69767442,17.00775017,94.0,17.0,,,,,,,,12,10,,
 UBCO,2014,W,ENGL,364,F,001,19th-Century Studies,Oliver Lovesey,36,69.02777778,12.97356898,90.0,36.0,,,,,5,,,5,5,,
 UBCO,2014,W,ENGL,364,F,OVERALL,19th-Century Studies,,36,69.02777778,12.97356898,90.0,36.0,,,,,5,,,5,5,,
-UBCO,2014,W,ENGL,375,,001,Modernism and the British Novel,Anderson Araujo,35,77.14285714,7.104856902000001,87.0,61.0,,,,,,,7,6,10,6,
-UBCO,2014,W,ENGL,375,,OVERALL,Modernism and the British Novel,,35,77.14285714,7.104856902000001,87.0,61.0,,,,,,,7,6,10,6,
-UBCO,2014,W,ENGL,376,,001,Television Studies,Daniel Keyes,14,75.71428571,6.866065623,86.0,61.0,,,,,,,,7,,,
-UBCO,2014,W,ENGL,376,,OVERALL,Television Studies,,14,75.71428571,6.866065623,86.0,61.0,,,,,,,,7,,,
-UBCO,2014,W,ENGL,377,,001,English-Canadian Screen Culture,Daniel Keyes,21,70.14285714,19.56600551,89.0,15.0,,,,,,,6,,,,
-UBCO,2014,W,ENGL,377,,OVERALL,English-Canadian Screen Culture,,21,70.14285714,19.56600551,89.0,15.0,,,,,,,6,,,,
-UBCO,2014,W,ENGL,384,,001,"Human Rights, Literature, and Culture",David Jefferess,24,74.08333333,13.259669699999998,90.0,30.0,,,,,,,6,,,,
-UBCO,2014,W,ENGL,384,,OVERALL,"Human Rights, Literature, and Culture",,24,74.08333333,13.259669699999998,90.0,30.0,,,,,,,6,,,,
-UBCO,2014,W,ENGL,412,A,001,Interdisciplinary Studies in Critical Theory,C Castricano,15,81.06666667,5.105552533,88.0,72.0,,,,,,,,,5,5,
-UBCO,2014,W,ENGL,412,A,OVERALL,Interdisciplinary Studies in Critical Theory,,15,81.06666667,5.105552533,88.0,72.0,,,,,,,,,5,5,
+UBCO,2014,W,ENGL,375,,001,Modernism and the British Novel,Anderson Araujo,35,77.14285714,7.104856902,87.0,61.0,0,0,0,,,,7,6,10,6,0
+UBCO,2014,W,ENGL,375,,OVERALL,Modernism and the British Novel,,35,77.14285714,7.104856902,87.0,61.0,0,0,0,,,,7,6,10,6,0
+UBCO,2014,W,ENGL,376,,001,Television Studies,Daniel Keyes,14,75.71428571,6.866065623,86.0,61.0,0,0,0,,,,,7,,,0
+UBCO,2014,W,ENGL,376,,OVERALL,Television Studies,,14,75.71428571,6.866065623,86.0,61.0,0,0,0,,,,,7,,,0
+UBCO,2014,W,ENGL,377,,001,English-Canadian Screen Culture,Daniel Keyes,21,70.14285714,19.56600551,89.0,15.0,,,,,,,6,,,,0
+UBCO,2014,W,ENGL,377,,OVERALL,English-Canadian Screen Culture,,21,70.14285714,19.56600551,89.0,15.0,,,,,,,6,,,,0
+UBCO,2014,W,ENGL,384,,001,"Human Rights, Literature, and Culture",David Jefferess,24,74.08333333,13.2596697,90.0,30.0,,,,,,,6,,,,
+UBCO,2014,W,ENGL,384,,OVERALL,"Human Rights, Literature, and Culture",,24,74.08333333,13.2596697,90.0,30.0,,,,,,,6,,,,
+UBCO,2014,W,ENGL,412,A,001,Interdisciplinary Studies in Critical Theory,C Castricano,15,81.06666667,5.105552533,88.0,72.0,0,0,0,0,0,0,,,5,5,0
+UBCO,2014,W,ENGL,412,A,OVERALL,Interdisciplinary Studies in Critical Theory,,15,81.06666667,5.105552533,88.0,72.0,0,0,0,0,0,0,,,5,5,0
 UBCO,2014,W,ENGL,428,,001,Chaucer's Canterbury Tales,Michael Treschow,30,75.76666667,15.89552818,90.0,0.0,,,,,,,,7,8,5,
 UBCO,2014,W,ENGL,428,,OVERALL,Chaucer's Canterbury Tales,,30,75.76666667,15.89552818,90.0,0.0,,,,,,,,7,8,5,
-UBCO,2014,W,ENGL,433,,001,English Novel in the 18th Century,Oliver Lovesey,21,76.52380952,5.617998288,84.0,61.0,,,,,,,5,,9,,
-UBCO,2014,W,ENGL,433,,OVERALL,English Novel in the 18th Century,,21,76.52380952,5.617998288,84.0,61.0,,,,,,,5,,9,,
-UBCO,2014,W,ENGL,435,A,001,African Studies,David Jefferess;Lindsay Diehl,7,79.14285714,7.128079952999999,91.0,70.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,435,A,OVERALL,African Studies,,7,79.14285714,7.128079952999999,91.0,70.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,456,A,001,Topics in Auto/Biography,Janet Macarthur,18,78.5,14.98724948,89.0,24.0,,,,,,,,,6,6,
-UBCO,2014,W,ENGL,456,A,OVERALL,Topics in Auto/Biography,,18,78.5,14.98724948,89.0,24.0,,,,,,,,,6,6,
+UBCO,2014,W,ENGL,433,,001,English Novel in the 18th Century,Oliver Lovesey,21,76.52380952,5.617998288,84.0,61.0,0,0,0,,,,5,,9,0,0
+UBCO,2014,W,ENGL,433,,OVERALL,English Novel in the 18th Century,,21,76.52380952,5.617998288,84.0,61.0,0,0,0,,,,5,,9,0,0
+UBCO,2014,W,ENGL,435,A,001,African Studies,David Jefferess;Lindsay Diehl,7,79.14285714,7.128079953,91.0,70.0,0,0,0,0,0,,,,,,
+UBCO,2014,W,ENGL,435,A,OVERALL,African Studies,,7,79.14285714,7.128079953,91.0,70.0,0,0,0,0,0,,,,,,
+UBCO,2014,W,ENGL,456,A,001,Topics in Auto/Biography,Janet Macarthur,18,78.5,14.98724948,89.0,24.0,,,,,,,,,6,6,0
+UBCO,2014,W,ENGL,456,A,OVERALL,Topics in Auto/Biography,,18,78.5,14.98724948,89.0,24.0,,,,,,,,,6,6,0
 UBCO,2014,W,ENGL,470,K,001,Canadian Studies,Lisa Grekul,15,68.2,21.65376906,94.0,0.0,,,,,,,,,,,
 UBCO,2014,W,ENGL,470,K,OVERALL,Canadian Studies,,15,68.2,21.65376906,94.0,0.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,470,L,001,Canadian Studies,Karis Shearer,29,83.51724138,6.439946149,93.0,67.0,,,,,,,,,8,11,5
-UBCO,2014,W,ENGL,470,L,OVERALL,Canadian Studies,,29,83.51724138,6.439946149,93.0,67.0,,,,,,,,,8,11,5
-UBCO,2014,W,ENGL,473,,001,Studies in Indigenous Literature and Criticism,Allison Hargreaves,25,81.88,2.712931993,87.0,77.0,,,,,,,,5,15,5,
-UBCO,2014,W,ENGL,473,,OVERALL,Studies in Indigenous Literature and Criticism,,25,81.88,2.712931993,87.0,77.0,,,,,,,,5,15,5,
-UBCO,2014,W,ENGL,480,G,001,Studies in International Literature in English,Anderson Araujo,6,65.16666667,32.41861605,85.0,0.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,480,G,OVERALL,Studies in International Literature in English,,6,65.16666667,32.41861605,85.0,0.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,495,E,001,Directed Studies,Allison Hargreaves,5,84.6,2.073644135,87.0,82.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,495,E,OVERALL,Directed Studies,,5,84.6,2.073644135,87.0,82.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,499,,101,Honours Essay,Paul Milton,5,83.4,3.847076812,88.0,79.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,499,,OVERALL,Honours Essay,,5,83.4,3.847076812,88.0,79.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,501,,001,Methodologies: Critical Theory,Marie Loughlin,5,87.6,2.8809720580000002,92.0,85.0,,,,,,,,,,,
-UBCO,2014,W,ENGL,501,,OVERALL,Methodologies: Critical Theory,,5,87.6,2.8809720580000002,92.0,85.0,,,,,,,,,,,
+UBCO,2014,W,ENGL,470,L,001,Canadian Studies,Karis Shearer,29,83.51724138,6.439946149,93.0,67.0,0,0,0,0,,,,,8,11,5
+UBCO,2014,W,ENGL,470,L,OVERALL,Canadian Studies,,29,83.51724138,6.439946149,93.0,67.0,0,0,0,0,,,,,8,11,5
+UBCO,2014,W,ENGL,473,,001,Studies in Indigenous Literature and Criticism,Allison Hargreaves,25,81.88,2.712931993,87.0,77.0,0,0,0,0,0,0,0,5,15,5,0
+UBCO,2014,W,ENGL,473,,OVERALL,Studies in Indigenous Literature and Criticism,,25,81.88,2.712931993,87.0,77.0,0,0,0,0,0,0,0,5,15,5,0
+UBCO,2014,W,ENGL,480,G,001,Studies in International Literature in English,Anderson Araujo,6,65.16666667,32.41861605,85.0,0.0,,,,,,,,,,,0
+UBCO,2014,W,ENGL,480,G,OVERALL,Studies in International Literature in English,,6,65.16666667,32.41861605,85.0,0.0,,,,,,,,,,,0
+UBCO,2014,W,ENGL,495,E,001,Directed Studies,Allison Hargreaves,5,84.6,2.073644135,87.0,82.0,0,0,0,0,0,0,0,0,,,0
+UBCO,2014,W,ENGL,495,E,OVERALL,Directed Studies,,5,84.6,2.073644135,87.0,82.0,0,0,0,0,0,0,0,0,,,0
+UBCO,2014,W,ENGL,499,,101,Honours Essay,Paul Milton,5,83.4,3.847076812,88.0,79.0,0,0,0,0,0,0,0,,,,0
+UBCO,2014,W,ENGL,499,,OVERALL,Honours Essay,,5,83.4,3.847076812,88.0,79.0,0,0,0,0,0,0,0,,,,0
+UBCO,2014,W,ENGL,501,,001,Methodologies: Critical Theory,Marie Loughlin,5,87.6,2.880972058,92.0,85.0,0,0,0,0,0,0,0,0,0,,
+UBCO,2014,W,ENGL,501,,OVERALL,Methodologies: Critical Theory,,5,87.6,2.880972058,92.0,85.0,0,0,0,0,0,0,0,0,0,,

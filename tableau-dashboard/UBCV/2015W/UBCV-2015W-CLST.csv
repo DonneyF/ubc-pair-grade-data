@@ -1,59 +1,59 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,CLST,105,,001,Greek and Roman Mythology,Michael Griffin,267,75.134831461,11.759358145999999,97.0,30.0,10,5,7,13,17,23,38,46,53,46,9
-UBCV,2015,W,CLST,105,,002,Greek and Roman Mythology,Florence Yoon,97,66.87628866,14.446206056,88.0,13.0,8,6,2,13,13,15,13,11,10,6,0
-UBCV,2015,W,CLST,105,,OVERALL,Greek and Roman Mythology,,364,72.934065934,13.034222552000001,97.0,13.0,18,11,9,26,30,38,51,57,63,52,9
+UBCV,2015,W,CLST,105,,001,Greek and Roman Mythology,Michael Griffin,267,75.134831461,11.759358146,97.0,30.0,10,5,7,13,17,23,38,46,53,46,9
+UBCV,2015,W,CLST,105,,002,Greek and Roman Mythology,Florence Yoon,97,66.87628866,14.446206056,88.0,13.0,8,6,2.0,13,13,15,13,11,10,6,0
+UBCV,2015,W,CLST,105,,OVERALL,Greek and Roman Mythology,,364,72.934065934,13.034222552,97.0,13.0,18,11,9,26,30,38,51,57,63,52,9
 UBCV,2015,W,CLST,110,,001,Golden Age of Athens,Charmaine Gorrie;Florencia Fustinoni,46,74.108695652,11.755335925,90.0,17.0,,,,,5,5,11,6,13,,
 UBCV,2015,W,CLST,110,,OVERALL,Golden Age of Athens,,46,74.108695652,11.755335925,90.0,17.0,,,,,5,5,11,6,13,,
-UBCV,2015,W,CLST,111,,001,Late Republican and Early Imperial Rome,Jayne Knight,41,79.268292683,14.515550954000002,99.0,34.0,,,,,,,,5,5,8,10
-UBCV,2015,W,CLST,111,,OVERALL,Late Republican and Early Imperial Rome,,41,79.268292683,14.515550954000002,99.0,34.0,,,,,,,,5,5,8,10
-UBCV,2015,W,CLST,204,,001,Introduction to Classical Archaeology,Leesha Cessna;Matthew Mccarty,21,79.333333333,9.820047522000001,98.0,65.0,,,,,,,,,5,,
-UBCV,2015,W,CLST,204,,OVERALL,Introduction to Classical Archaeology,,21,79.333333333,9.820047522000001,98.0,65.0,,,,,,,,,5,,
-UBCV,2015,W,CLST,211,,001,Greek Philosophy I,Breanna Simpson;Michael Griffin,38,77.421052632,7.069659493,90.0,63.0,,,,,,7,5,6,11,5,
-UBCV,2015,W,CLST,211,,OVERALL,Greek Philosophy I,,38,77.421052632,7.069659493,90.0,63.0,,,,,,7,5,6,11,5,
+UBCV,2015,W,CLST,111,,001,Late Republican and Early Imperial Rome,Jayne Knight,41,79.268292683,14.515550954,99.0,34.0,,,,,,,,5,5,8,10
+UBCV,2015,W,CLST,111,,OVERALL,Late Republican and Early Imperial Rome,,41,79.268292683,14.515550954,99.0,34.0,,,,,,,,5,5,8,10
+UBCV,2015,W,CLST,204,,001,Introduction to Classical Archaeology,Leesha Cessna;Matthew Mccarty,21,79.333333333,9.820047522,98.0,65.0,0,0,0,0,,,,,5,,
+UBCV,2015,W,CLST,204,,OVERALL,Introduction to Classical Archaeology,,21,79.333333333,9.820047522,98.0,65.0,0,0,0,0,,,,,5,,
+UBCV,2015,W,CLST,211,,001,Greek Philosophy I,Breanna Simpson;Michael Griffin,38,77.421052632,7.069659493,90.0,63.0,0,0,0,,,7,5,6,11,5,
+UBCV,2015,W,CLST,211,,OVERALL,Greek Philosophy I,,38,77.421052632,7.069659493,90.0,63.0,0,0,0,,,7,5,6,11,5,
 UBCV,2015,W,CLST,212,,001,Greek Philosophy II,Michael Griffin,23,74.739130435,17.284300263,92.0,8.0,,,,,,,,5,8,,
 UBCV,2015,W,CLST,212,,OVERALL,Greek Philosophy II,,23,74.739130435,17.284300263,92.0,8.0,,,,,,,,5,8,,
 UBCV,2015,W,CLST,231,,001,Ancient Greece,Franco De Angelis;Maude Cote-Landry,48,72.041666667,13.984730782,92.0,3.0,,,,,5,8,,7,10,5,
 UBCV,2015,W,CLST,231,,OVERALL,Ancient Greece,,48,72.041666667,13.984730782,92.0,3.0,,,,,5,8,,7,10,5,
 UBCV,2015,W,CLST,232,,001,Ancient Rome,Brian Burnstein;Jayne Knight,48,71.229166667,16.8841353,98.0,29.0,,,6,,,,5,7,6,5,5
 UBCV,2015,W,CLST,232,,OVERALL,Ancient Rome,,48,71.229166667,16.8841353,98.0,29.0,,,6,,,,5,7,6,5,5
-UBCV,2015,W,CLST,260,,001,"Gladiators, Games, and Spectacle in the Greek and Roman World",Brian Burnstein;Charmaine Gorrie;Kevin Lee,67,72.223880597,13.004452495999999,88.0,13.0,,,,,10,8,12,8,11,10,
-UBCV,2015,W,CLST,260,,OVERALL,"Gladiators, Games, and Spectacle in the Greek and Roman World",,67,72.223880597,13.004452495999999,88.0,13.0,,,,,10,8,12,8,11,10,
-UBCV,2015,W,CLST,301,,001,The Technical Terms of Medicine and Biological Science,Ryan Johnson;Ryan Paul Johnson;Shelley Reid,214,72.88785046699999,17.706436114000002,95.0,5.0,22,6,8,13,6,16,19,29,36,40,19
+UBCV,2015,W,CLST,260,,001,"Gladiators, Games, and Spectacle in the Greek and Roman World",Brian Burnstein;Charmaine Gorrie;Kevin Lee,67,72.223880597,13.004452496,88.0,13.0,,,,,10,8,12,8,11,10,0
+UBCV,2015,W,CLST,260,,OVERALL,"Gladiators, Games, and Spectacle in the Greek and Roman World",,67,72.223880597,13.004452496,88.0,13.0,,,,,10,8,12,8,11,10,0
+UBCV,2015,W,CLST,301,,001,The Technical Terms of Medicine and Biological Science,Ryan Johnson;Ryan Paul Johnson;Shelley Reid,214,72.887850467,17.706436114,95.0,5.0,22,6,8,13,6,16,19,29,36,40,19
 UBCV,2015,W,CLST,301,,051,The Technical Terms of Medicine and Biological Science,Ryan Johnson;Ryan Paul Johnson;Shelley Reid,101,74.663366337,18.130789959,97.0,12.0,11,,6,5,,6,10,6,9,21,21
-UBCV,2015,W,CLST,301,,99A,The Technical Terms of Medicine and Biological Science,Ryan Johnson;Ryan Paul Johnson;Shelley Reid,41,73.341463415,13.297762510999998,92.0,39.0,4,,,,5,,7,6,6,4,4
+UBCV,2015,W,CLST,301,,99A,The Technical Terms of Medicine and Biological Science,Ryan Johnson;Ryan Paul Johnson;Shelley Reid,41,73.341463415,13.297762511,92.0,39.0,4,,,,5,,7,6,6,4,4
 UBCV,2015,W,CLST,301,,99C,The Technical Terms of Medicine and Biological Science,Shelley Reid,47,71.468085106,20.906469837,94.0,3.0,7,,,,,,4,7,7,6,7
 UBCV,2015,W,CLST,301,,OVERALL,The Technical Terms of Medicine and Biological Science,,403,73.213399504,17.78881417,97.0,3.0,44,9,19,21,15,27,40,48,58,71,51
-UBCV,2015,W,CLST,307,,001,Greek Law,Christopher Warren Marshall;Graham Butler;Graham William Butler,39,76.48717948699999,10.353925762000001,92.0,47.0,,,,,,5,,6,10,,
-UBCV,2015,W,CLST,307,,OVERALL,Greek Law,,39,76.48717948699999,10.353925762000001,92.0,47.0,,,,,,5,,6,10,,
-UBCV,2015,W,CLST,311,,001,"Women in the Bronze Age, Classical Greek and Hellenistic Cultures",Alexander Mcauley;Julia Gallo,64,80.921875,7.390050556,96.0,55.0,,,,,,,,12,19,17,5
-UBCV,2015,W,CLST,311,,OVERALL,"Women in the Bronze Age, Classical Greek and Hellenistic Cultures",,64,80.921875,7.390050556,96.0,55.0,,,,,,,,12,19,17,5
+UBCV,2015,W,CLST,307,,001,Greek Law,Christopher Warren Marshall;Graham Butler;Graham William Butler,39,76.487179487,10.353925762,92.0,47.0,,,,,,5,,6,10,,
+UBCV,2015,W,CLST,307,,OVERALL,Greek Law,,39,76.487179487,10.353925762,92.0,47.0,,,,,,5,,6,10,,
+UBCV,2015,W,CLST,311,,001,"Women in the Bronze Age, Classical Greek and Hellenistic Cultures",Alexander Mcauley;Julia Gallo,64,80.921875,7.390050556,96.0,55.0,0,0,,,,,,12,19,17,5
+UBCV,2015,W,CLST,311,,OVERALL,"Women in the Bronze Age, Classical Greek and Hellenistic Cultures",,64,80.921875,7.390050556,96.0,55.0,0,0,,,,,,12,19,17,5
 UBCV,2015,W,CLST,312,,001,Women in the Roman World of Republican and Imperial Times,Julia Gallo;Melissa Funke,24,77.791666667,12.236720101,92.0,46.0,,,,,,,,,6,,5
 UBCV,2015,W,CLST,312,,OVERALL,Women in the Roman World of Republican and Imperial Times,,24,77.791666667,12.236720101,92.0,46.0,,,,,,,,,6,,5
-UBCV,2015,W,CLST,317,,001,Classical Tragedy,Florence Yoon;Graham Butler;Graham William Butler,29,70.551724138,9.682776339,89.0,48.0,,,,,,7,,,,,
-UBCV,2015,W,CLST,317,,OVERALL,Classical Tragedy,,29,70.551724138,9.682776339,89.0,48.0,,,,,,7,,,,,
-UBCV,2015,W,CLST,318,,001,Classical Comedy,Christopher Warren Marshall;Graham Butler;Graham William Butler,27,66.70370370399999,23.019748736999997,91.0,0.0,,,,,,,,,,,
-UBCV,2015,W,CLST,318,,OVERALL,Classical Comedy,,27,66.70370370399999,23.019748736999997,91.0,0.0,,,,,,,,,,,
+UBCV,2015,W,CLST,317,,001,Classical Tragedy,Florence Yoon;Graham Butler;Graham William Butler,29,70.551724138,9.682776339,89.0,48.0,,,,,,7,,,,,0
+UBCV,2015,W,CLST,317,,OVERALL,Classical Tragedy,,29,70.551724138,9.682776339,89.0,48.0,,,,,,7,,,,,0
+UBCV,2015,W,CLST,318,,001,Classical Comedy,Christopher Warren Marshall;Graham Butler;Graham William Butler,27,66.703703704,23.019748737,91.0,0.0,,,,,,,,,,,
+UBCV,2015,W,CLST,318,,OVERALL,Classical Comedy,,27,66.703703704,23.019748737,91.0,0.0,,,,,,,,,,,
 UBCV,2015,W,CLST,319,,001,The Roman Army,Katharina Hurworth;Siobhan Mcelduff,56,78.089285714,12.407148652,99.0,19.0,,,,,,,,8,22,10,
 UBCV,2015,W,CLST,319,,OVERALL,The Roman Army,,56,78.089285714,12.407148652,99.0,19.0,,,,,,,,8,22,10,
-UBCV,2015,W,CLST,320,,001,Slavery in the Ancient Greek and Roman World,Siobhan Mcelduff,30,84.333333333,6.666091928999999,98.0,72.0,,,,,,,,,7,10,6
-UBCV,2015,W,CLST,320,,OVERALL,Slavery in the Ancient Greek and Roman World,,30,84.333333333,6.666091928999999,98.0,72.0,,,,,,,,,7,10,6
+UBCV,2015,W,CLST,320,,001,Slavery in the Ancient Greek and Roman World,Siobhan Mcelduff,30,84.333333333,6.666091929,98.0,72.0,0,0,0,0,0,0,,,7,10,6
+UBCV,2015,W,CLST,320,,OVERALL,Slavery in the Ancient Greek and Roman World,,30,84.333333333,6.666091929,98.0,72.0,0,0,0,0,0,0,,,7,10,6
 UBCV,2015,W,CLST,331,,001,Greek Art and Architecture,Charmaine Gorrie;Graham Butler;Graham William Butler,39,70.641025641,14.044079441,91.0,10.0,,,,,5,7,5,,7,,
 UBCV,2015,W,CLST,331,,OVERALL,Greek Art and Architecture,,39,70.641025641,14.044079441,91.0,10.0,,,,,5,7,5,,7,,
-UBCV,2015,W,CLST,332,,001,Roman Art and Architecture,Julia Gallo;Matthew Mccarty,36,75.444444444,12.827302232000001,91.0,20.0,,,,,,,8,6,6,,6
-UBCV,2015,W,CLST,332,,OVERALL,Roman Art and Architecture,,36,75.444444444,12.827302232000001,91.0,20.0,,,,,,,8,6,6,,6
-UBCV,2015,W,CLST,333,,001,Greek Religion,Alexander Mcauley,36,80.166666667,10.632833247,95.0,50.0,,,,,,,,,11,11,
-UBCV,2015,W,CLST,333,,OVERALL,Greek Religion,,36,80.166666667,10.632833247,95.0,50.0,,,,,,,,,11,11,
+UBCV,2015,W,CLST,332,,001,Roman Art and Architecture,Julia Gallo;Matthew Mccarty,36,75.444444444,12.827302232,91.0,20.0,,,,,,,8,6,6,,6
+UBCV,2015,W,CLST,332,,OVERALL,Roman Art and Architecture,,36,75.444444444,12.827302232,91.0,20.0,,,,,,,8,6,6,,6
+UBCV,2015,W,CLST,333,,001,Greek Religion,Alexander Mcauley,36,80.166666667,10.632833247,95.0,50.0,0,,,,,,,,11,11,
+UBCV,2015,W,CLST,333,,OVERALL,Greek Religion,,36,80.166666667,10.632833247,95.0,50.0,0,,,,,,,,11,11,
 UBCV,2015,W,CLST,334,,001,Roman Religion,Alexander Mcauley;Shoshana Hereld,58,78.810344828,15.47205392,98.0,5.0,,,,,,,6,5,17,9,12
 UBCV,2015,W,CLST,334,,OVERALL,Roman Religion,,58,78.810344828,15.47205392,98.0,5.0,,,,,,,6,5,17,9,12
-UBCV,2015,W,CLST,353,,001,The Early Roman Empire,Leanne Bablitz,21,73.619047619,8.581819099,88.0,61.0,,,,,,,,,,,
-UBCV,2015,W,CLST,353,,OVERALL,The Early Roman Empire,,21,73.619047619,8.581819099,88.0,61.0,,,,,,,,,,,
-UBCV,2015,W,CLST,355,,001,The Athenians and their Empire,Franco De Angelis,12,85.083333333,5.434876152,93.0,75.0,,,,,,,,,,5,
-UBCV,2015,W,CLST,355,,OVERALL,The Athenians and their Empire,,12,85.083333333,5.434876152,93.0,75.0,,,,,,,,,,5,
-UBCV,2015,W,CLST,356,,001,Alexander the Great and his Empire,Carl Johnson,17,73.705882353,21.950981486999996,87.0,0.0,,,,,,,,,,6,
-UBCV,2015,W,CLST,356,,OVERALL,Alexander the Great and his Empire,,17,73.705882353,21.950981486999996,87.0,0.0,,,,,,,,,,6,
-UBCV,2015,W,CLST,401,B,001,Seminar in Classical History,Siobhan Mcelduff,16,85.75,4.946379147,93.0,75.0,,,,,,,,,6,,5
-UBCV,2015,W,CLST,401,B,OVERALL,Seminar in Classical History,,16,85.75,4.946379147,93.0,75.0,,,,,,,,,6,,5
-UBCV,2015,W,CLST,502,,001,Topography and Monuments of Rome,Matthew Mccarty,5,86.2,4.969909456,93.0,80.0,,,,,,,,,,,
-UBCV,2015,W,CLST,502,,OVERALL,Topography and Monuments of Rome,,5,86.2,4.969909456,93.0,80.0,,,,,,,,,,,
-UBCV,2015,W,CLST,511,A,001,Studies in Greek Regional Archaeology,Franco De Angelis,8,86.875,4.793969426,91.0,77.0,,,,,,,,,,,
-UBCV,2015,W,CLST,511,A,OVERALL,Studies in Greek Regional Archaeology,,8,86.875,4.793969426,91.0,77.0,,,,,,,,,,,
+UBCV,2015,W,CLST,353,,001,The Early Roman Empire,Leanne Bablitz,21,73.619047619,8.581819099,88.0,61.0,0,0,0,,,,,,,,0
+UBCV,2015,W,CLST,353,,OVERALL,The Early Roman Empire,,21,73.619047619,8.581819099,88.0,61.0,0,0,0,,,,,,,,0
+UBCV,2015,W,CLST,355,,001,The Athenians and their Empire,Franco De Angelis,12,85.083333333,5.434876152,93.0,75.0,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,CLST,355,,OVERALL,The Athenians and their Empire,,12,85.083333333,5.434876152,93.0,75.0,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,CLST,356,,001,Alexander the Great and his Empire,Carl Johnson,17,73.705882353,21.950981487,87.0,0.0,,,,,,,,,,6,0
+UBCV,2015,W,CLST,356,,OVERALL,Alexander the Great and his Empire,,17,73.705882353,21.950981487,87.0,0.0,,,,,,,,,,6,0
+UBCV,2015,W,CLST,401,B,001,Seminar in Classical History,Siobhan Mcelduff,16,85.75,4.946379147,93.0,75.0,0,0,0,0,0,0,,,6,,5
+UBCV,2015,W,CLST,401,B,OVERALL,Seminar in Classical History,,16,85.75,4.946379147,93.0,75.0,0,0,0,0,0,0,,,6,,5
+UBCV,2015,W,CLST,502,,001,Topography and Monuments of Rome,Matthew Mccarty,5,86.2,4.969909456,93.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,CLST,502,,OVERALL,Topography and Monuments of Rome,,5,86.2,4.969909456,93.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,CLST,511,A,001,Studies in Greek Regional Archaeology,Franco De Angelis,8,86.875,4.793969426,91.0,77.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,CLST,511,A,OVERALL,Studies in Greek Regional Archaeology,,8,86.875,4.793969426,91.0,77.0,0,0,0,0,0,0,0,,,,

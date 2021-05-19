@@ -1,16 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,S,MECH,227,,201,Approaches to Technical Communication for Mechanical Engineers,Sakshi Jain;Tatiana Teslenko,8,93.25,4.496029995,98.0,84.0,,,,,,,,,,,7
-UBCV,2020,S,MECH,227,,OVERALL,Approaches to Technical Communication for Mechanical Engineers,,8,93.25,4.496029995,98.0,84.0,,,,,,,,,,,7
-UBCV,2020,S,MECH,260,,201,Introduction to Mechanics of Materials,Ahmad Mohammadpanah Foroutaghe;Mohammad Reza Fazlali,25,78.6,14.5,91.0,24.0,,,,,,,,,7,5,5
-UBCV,2020,S,MECH,260,,OVERALL,Introduction to Mechanics of Materials,,25,78.6,14.5,91.0,24.0,,,,,,,,,7,5,5
-UBCV,2020,S,MECH,375,,101,Heat Transfer,Graham Hendra;Seyed Arman Abtahi,45,72.2,12.807313252,99.0,46.0,,,,,,4,7,6,7,3,
-UBCV,2020,S,MECH,375,,201,Heat Transfer,Graham Hendra;Seyed Arman Abtahi,46,74.608695652,11.974933562,93.0,41.0,,,,,,6,4,8,8,6,
-UBCV,2020,S,MECH,375,,OVERALL,Heat Transfer,,91,73.417582418,12.383740176,99.0,41.0,,,6,6,6,10,11,14,15,9,7
-UBCV,2020,S,MECH,410,H,201,Special Topics in Mechanical Engineering,Adrianna Eyking;Hamed Helisaz,6,88.333333333,7.312090444,96.0,77.0,,,,,,,,,,,
-UBCV,2020,S,MECH,410,H,OVERALL,Special Topics in Mechanical Engineering,,6,88.333333333,7.312090444,96.0,77.0,,,,,,,,,,,
-UBCV,2020,S,MECH,431,,001,Engineering Economics,Jacob Morrison;Mark Hollett;Suraj Raktim Kashyap,149,85.530201342,7.11351687,96.0,60.0,,,,5,,,5,6,30,59,41
-UBCV,2020,S,MECH,431,,OVERALL,Engineering Economics,,149,85.530201342,7.11351687,96.0,60.0,,,,5,,,5,6,30,59,41
-UBCV,2020,S,MECH,527,,001,Mechatronic System Design Project II,Yusuf Altintas,8,85.5,5.014265364,91.0,75.0,,,,,,,,,,,
-UBCV,2020,S,MECH,527,,OVERALL,Mechatronic System Design Project II,,8,85.5,5.014265364,91.0,75.0,,,,,,,,,,,
-UBCV,2020,S,MECH,597,,941,Project for M.Eng. Studies,,12,81.0,8.994948077,91.0,68.0,,,,,,,,,,5,
-UBCV,2020,S,MECH,597,,OVERALL,Project for M.Eng. Studies,,12,81.0,8.994948077,91.0,68.0,,,,,,,,,,5,
+UBCV,2020,S,MECH,227,,201,Approaches to Technical Communication for Mechanical Engineers,Sakshi Jain;Tatiana Teslenko,8,93.25,4.496029995,98.0,84.0,0,0,0,0,0.0,0,0,0.0,1.0,0.0,7
+UBCV,2020,S,MECH,227,,OVERALL,Approaches to Technical Communication for Mechanical Engineers,,8,93.25,4.496029995,98.0,84.0,0,0,0,0,0.0,0,0,0.0,1.0,0.0,7
+UBCV,2020,S,MECH,260,,201,Introduction to Mechanics of Materials,Ahmad Mohammadpanah Foroutaghe;Mohammad Reza Fazlali,25,78.6,14.5,91.0,24.0,2,0,0,0,0.0,1,3,2.0,7.0,5.0,5
+UBCV,2020,S,MECH,260,,OVERALL,Introduction to Mechanics of Materials,,25,78.6,14.5,91.0,24.0,2,0,0,0,0.0,1,3,2.0,7.0,5.0,5
+UBCV,2020,S,MECH,375,,101,Heat Transfer,Graham Hendra;Seyed Arman Abtahi,45,72.2,12.80731325,99.0,46.0,2,2,4,4,2.0,4,7,6.0,7.0,3.0,4
+UBCV,2020,S,MECH,375,,201,Heat Transfer,Graham Hendra;Seyed Arman Abtahi,46,74.60869565,11.97493356,93.0,41.0,2,1,2,2,4.0,6,4,8.0,8.0,6.0,3
+UBCV,2020,S,MECH,375,,OVERALL,Heat Transfer,,91,73.41758242,12.38374018,99.0,41.0,4,3,6,6,6.0,10,11,14.0,15.0,9.0,7
+UBCV,2020,S,MECH,410,H,201,Special Topics in Mechanical Engineering,Adrianna Eyking;Hamed Helisaz,6,88.33333333,7.312090444,96.0,77.0,0,0,0,0,0.0,0,0,1.0,0.0,2.0,3
+UBCV,2020,S,MECH,410,H,OVERALL,Special Topics in Mechanical Engineering,,6,88.33333333,7.312090444,96.0,77.0,0,0,0,0,0.0,0,0,1.0,0.0,2.0,3
+UBCV,2020,S,MECH,410,T,001,Special Topics in Mechanical Engineering,Arthur Rostami;Behzad Zakani;Katherina Tarnai-Lokhorst;Mohammadhossein Rahimi,109,87.72477064,6.602288548,97.0,63.0,0,0,0,1,0.0,2,3,6.0,13.0,23.0,61
+UBCV,2020,S,MECH,410,T,OVERALL,Special Topics in Mechanical Engineering,,109,87.72477064,6.602288548,97.0,63.0,0,0,0,1,0.0,2,3,6.0,13.0,23.0,61
+UBCV,2020,S,MECH,431,,001,Engineering Economics,Jacob Morrison;Mark Hollett;Suraj Raktim Kashyap,149,85.53020134,7.11351687,96.0,60.0,0,0,0,5,2.0,1,5,6.0,30.0,59.0,41
+UBCV,2020,S,MECH,431,,OVERALL,Engineering Economics,,149,85.53020134,7.11351687,96.0,60.0,0,0,0,5,2.0,1,5,6.0,30.0,59.0,41
+UBCV,2020,S,MECH,527,,001,Mechatronic System Design Project II,Yusuf Altintas,9,85.66666667,4.716990566,91.0,75.0,0,0,0,0,0.0,0,1,0.0,1.0,5.0,2
+UBCV,2020,S,MECH,527,,OVERALL,Mechatronic System Design Project II,,9,85.66666667,4.716990566,91.0,75.0,0,0,0,0,0.0,0,1,0.0,1.0,5.0,2
+UBCV,2020,S,MECH,597,,941,Project for M.Eng. Studies,,12,81.0,8.994948077,91.0,68.0,0,0,0,0,0.0,3,1,1.0,1.0,5.0,1
+UBCV,2020,S,MECH,597,,OVERALL,Project for M.Eng. Studies,,12,81.0,8.994948077,91.0,68.0,0,0,0,0,0.0,3,1,1.0,1.0,5.0,1

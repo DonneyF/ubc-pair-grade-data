@@ -1,22 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,PHIL,101,,921,Introduction to Philosophy,Aleksey Balotskiy;Bianca Crewe;Donald Beith;Jonathan Lopez,60,73.033333333,5.605586398,86.0,61.0,,,,,9,11,17,13,5,,
-UBCV,2016,S,PHIL,101,,922,Introduction to Philosophy,Servaas Van Der Berg,31,74.483870968,5.555003557,85.0,62.0,,,,,1,5,11,3,8,,
-UBCV,2016,S,PHIL,101,,OVERALL,Introduction to Philosophy,,91,73.527472527,5.600279079,86.0,61.0,,,,5,10,16,28,16,13,,
-UBCV,2016,S,PHIL,102,,922,Introduction to Philosophy II,Bruno Guindon;Jonathan Lopez;Matthew Cleveland Smithdeal;Matthew Smithdeal,46,68.608695652,12.481948317999999,86.0,21.0,,,,6,,10,5,5,5,,
-UBCV,2016,S,PHIL,102,,OVERALL,Introduction to Philosophy II,,46,68.608695652,12.481948317999999,86.0,21.0,,,,6,,10,5,5,5,,
-UBCV,2016,S,PHIL,120,,921,Introduction to Critical Thinking,Alexandre Korolev;Irwin Chan;Yu Shing Chan,38,77.0,16.975339825,96.0,15.0,,,,,,,,6,6,3,11
-UBCV,2016,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev;Irwin Chan;Yu Shing Chan,49,75.93877551,15.763100588,97.0,22.0,,,,,,,,2,14,5,9
-UBCV,2016,S,PHIL,120,,OVERALL,Introduction to Critical Thinking,,88,76.113636364,16.347822674,97.0,15.0,5,,,,5,7,5,8,20,8,20
-UBCV,2016,S,PHIL,220,A,001,Symbolic Logic I,Bruno Guindon;Jonathan Lopez;Matthew Cleveland Smithdeal;Matthew Smithdeal,46,65.347826087,21.719645374000002,100.0,0.0,6,,,7,,6,,,,,6
-UBCV,2016,S,PHIL,220,A,98A,Symbolic Logic I,Jiwon Byun;Leslie Burkholder;Serban Dragulin,122,83.254098361,13.89545468,98.0,24.0,,,5,,,,5,11,13,20,53
-UBCV,2016,S,PHIL,220,A,GIS,Symbolic Logic I,Leslie Burkholder,5,61.6,31.56422025,92.0,20.0,,,,,,,,,,,1
-UBCV,2016,S,PHIL,220,A,OVERALL,Symbolic Logic I,,173,77.867052023,18.778070801,100.0,0.0,11,7,8,10,7,8,9,14,15,24,60
-UBCV,2016,S,PHIL,230,A,921,Introduction to Moral Theory,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,42,72.071428571,12.051500984,90.0,23.0,,,,,,5,8,9,9,,
-UBCV,2016,S,PHIL,230,A,OVERALL,Introduction to Moral Theory,,42,72.071428571,12.051500984,90.0,23.0,,,,,,5,8,9,9,,
-UBCV,2016,S,PHIL,338,A,001,Philosophy of Law,Aleksey Balotskiy;Bianca Crewe;Donald Beith;Jonathan Lopez,83,79.397590361,6.3782017479999995,93.0,67.0,,,,,,7,20,12,23,11,8
-UBCV,2016,S,PHIL,338,A,OVERALL,Philosophy of Law,,83,79.397590361,6.3782017479999995,93.0,67.0,,,,,,7,20,12,23,11,8
-UBCV,2016,S,PHIL,433,A,921,Bio-Medical Ethics,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,72,72.930555556,5.146655933,85.0,59.0,,,,0,9,20,18,17,5,,
-UBCV,2016,S,PHIL,433,A,98A,Bio-Medical Ethics,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,41,65.829268293,20.383697455,85.0,0.0,,,,5,3,10,5,6,4,,
-UBCV,2016,S,PHIL,433,A,OVERALL,Bio-Medical Ethics,,113,70.353982301,13.302067745999999,85.0,0.0,,,,5,12,30,23,23,9,5,
-UBCV,2016,S,PHIL,434,A,98A,Business and Professional Ethics,Rana Ahmad,47,62.744680851000005,15.755562282,85.0,0.0,5,,,10,7,,8,,,,
-UBCV,2016,S,PHIL,434,A,OVERALL,Business and Professional Ethics,,47,62.744680851000005,15.755562282,85.0,0.0,5,,,10,7,,8,,,,
+UBCV,2016,S,PHIL,101,,921,Introduction to Philosophy,Aleksey Balotskiy;Bianca Crewe;Donald Beith;Jonathan Lopez,60,73.03333333,5.605586398,86.0,61.0,0,0.0,0,3.0,9,11,17,13,5,2,0
+UBCV,2016,S,PHIL,101,,922,Introduction to Philosophy,Servaas Van Der Berg,31,74.48387097,5.555003557,85.0,62.0,0,0.0,0,2.0,1,5,11,3,8,1,0
+UBCV,2016,S,PHIL,101,,OVERALL,Introduction to Philosophy,,91,73.52747253,5.600279079,86.0,61.0,0,0.0,0,5.0,10,16,28,16,13,3,0
+UBCV,2016,S,PHIL,102,,922,Introduction to Philosophy II,Bruno Guindon;Jonathan Lopez;Matthew Cleveland Smithdeal;Matthew Smithdeal,46,68.60869565,12.48194832,86.0,21.0,2,2.0,3,6.0,4,10,5,5,5,4,0
+UBCV,2016,S,PHIL,102,,OVERALL,Introduction to Philosophy II,,46,68.60869565,12.48194832,86.0,21.0,2,2.0,3,6.0,4,10,5,5,5,4,0
+UBCV,2016,S,PHIL,120,,921,Introduction to Critical Thinking,Alexandre Korolev;Irwin Chan;Yu Shing Chan,38,77.0,16.97533983,96.0,15.0,2,2.0,1,1.0,2,3,1,6,6,3,11
+UBCV,2016,S,PHIL,120,,98A,Introduction to Critical Thinking,Alexandre Korolev;Irwin Chan;Yu Shing Chan,49,75.93877551,15.76310059,97.0,22.0,3,1.0,1,3.0,3,4,4,2,14,5,9
+UBCV,2016,S,PHIL,120,,OVERALL,Introduction to Critical Thinking,,88,76.11363636,16.34782267,97.0,15.0,5,4.0,2,4.0,5,7,5,8,20,8,20
+UBCV,2016,S,PHIL,220,A,001,Symbolic Logic I,Bruno Guindon;Jonathan Lopez;Matthew Cleveland Smithdeal;Matthew Smithdeal,46,65.34782609,21.71964537,100.0,0.0,6,4.0,3,7.0,3,6,3,3,2,3,6
+UBCV,2016,S,PHIL,220,A,98A,Symbolic Logic I,Jiwon Byun;Leslie Burkholder;Serban Dragulin,122,83.25409836,13.89545468,98.0,24.0,3,3.0,5,3.0,4,2,5,11,13,20,53
+UBCV,2016,S,PHIL,220,A,OVERALL,Symbolic Logic I,,173,77.86705202,18.7780708,100.0,0.0,11,7.0,8,10.0,7,8,9,14,15,24,60
+UBCV,2016,S,PHIL,230,A,921,Introduction to Moral Theory,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,42,72.07142857,12.05150098,90.0,23.0,3,0.0,2,1.0,3,5,8,9,9,1,1
+UBCV,2016,S,PHIL,230,A,OVERALL,Introduction to Moral Theory,,42,72.07142857,12.05150098,90.0,23.0,3,0.0,2,1.0,3,5,8,9,9,1,1
+UBCV,2016,S,PHIL,338,A,001,Philosophy of Law,Aleksey Balotskiy;Bianca Crewe;Donald Beith;Jonathan Lopez,83,79.39759036,6.378201748,93.0,67.0,0,0.0,0,0.0,2,7,20,12,23,11,8
+UBCV,2016,S,PHIL,338,A,OVERALL,Philosophy of Law,,83,79.39759036,6.378201748,93.0,67.0,0,0.0,0,0.0,2,7,20,12,23,11,8
+UBCV,2016,S,PHIL,433,A,921,Bio-Medical Ethics,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,72,72.93055556,5.146655933,85.0,59.0,0,0.0,1,0.0,9,20,18,17,5,2,0
+UBCV,2016,S,PHIL,433,A,98A,Bio-Medical Ethics,Amer Amer;Doran Smolkin;Jiwon Byun;Madeleine Ransom;Sina Fazelpour,41,65.82926829,20.38369746,85.0,0.0,4,0.0,1,5.0,3,10,5,6,4,3,0
+UBCV,2016,S,PHIL,433,A,OVERALL,Bio-Medical Ethics,,113,70.3539823,13.30206775,85.0,0.0,4,0.0,2,5.0,12,30,23,23,9,5,0
+UBCV,2016,S,PHIL,434,A,98A,Business and Professional Ethics,Rana Ahmad,47,62.74468085,15.75556228,85.0,0.0,5,4.0,2,10.0,7,4,8,4,2,1,0
+UBCV,2016,S,PHIL,434,A,OVERALL,Business and Professional Ethics,,47,62.74468085,15.75556228,85.0,0.0,5,4.0,2,10.0,7,4,8,4,2,1,0

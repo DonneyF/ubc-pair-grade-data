@@ -1,16 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,BASC,500,,001,Process Fundamentals,Harish Krishnan,25,81.64,5.187163644,93.0,69.0,,,,,,,,5,10,7,
-UBCV,2014,W,BASC,500,,002,Process Fundamentals,Harish Krishnan,20,79.15,4.7713509069999995,87.0,71.0,,,,,,,,5,9,2,
-UBCV,2014,W,BASC,500,,814,Process Fundamentals,Woonghee Tim Huh,38,83.02631579,2.7557001569999997,89.0,75.0,,,,,,,,0,28,9,
-UBCV,2014,W,BASC,500,,OVERALL,Process Fundamentals,,83,81.6746988,4.356403847,93.0,69.0,,,,,,5,,10,47,18,
-UBCV,2014,W,BASC,523,,001,Supply Chain Management,Harish Krishnan,49,80.83673469,2.687524719,86.0,76.0,,,,,,,,15,30,,
-UBCV,2014,W,BASC,523,,302,Supply Chain Management,Harish Krishnan,24,81.16666667,3.2659863239999996,87.0,75.0,,,,,,,,7,13,,
-UBCV,2014,W,BASC,523,,813,Supply Chain Management,S Thomas Mccormick,34,76.02941177,4.641612142,87.0,65.0,,,,,,,10,14,3,,
-UBCV,2014,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,48,74.41666667,6.170738544,88.0,61.0,,,,,,9,13,7,13,,
-UBCV,2014,W,BASC,523,,OVERALL,Supply Chain Management,,155,77.84516129,5.388952065,88.0,61.0,,,,,,13,24,43,59,10,
-UBCV,2014,W,BASC,524,,001,Supply Chain Analytics,Gregory Werker,22,82.68181818,6.089697495,94.0,73.0,,,,,,,,,9,,
-UBCV,2014,W,BASC,524,,OVERALL,Supply Chain Analytics,,22,82.68181818,6.089697495,94.0,73.0,,,,,,,,,9,,
-UBCV,2014,W,BASC,550,,001,Operations and Logistics,Gregory Werker,41,79.80487805,7.071843862000001,93.0,60.0,,,,,,,5,7,14,7,
-UBCV,2014,W,BASC,550,,002,Operations and Logistics,Gregory Werker,44,78.84090909,9.137052555,94.0,54.0,,,,,,6,1,9,10,9,5
+UBCV,2014,W,BASC,500,,001,Process Fundamentals,Harish Krishnan,25,81.64,5.187163644,93.0,69.0,0,0,0,0,0,,,5,10,7,
+UBCV,2014,W,BASC,500,,002,Process Fundamentals,Harish Krishnan,20,79.15,4.771350907,87.0,71.0,0,0,0,0,0,,,5,9,2,0
+UBCV,2014,W,BASC,500,,814,Process Fundamentals,Woonghee Tim Huh,38,83.02631579,2.755700157,89.0,75.0,0,0,0,0,0,0,1.0,0,28,9,0
+UBCV,2014,W,BASC,500,,OVERALL,Process Fundamentals,,83,81.6746988,4.356403847,93.0,69.0,0,0,0,0,0,5,,10,47,18,
+UBCV,2014,W,BASC,523,,001,Supply Chain Management,Harish Krishnan,49,80.83673469,2.687524719,86.0,76.0,0,0,0,0,0,0,0,15,30,4.0,0
+UBCV,2014,W,BASC,523,,302,Supply Chain Management,Harish Krishnan,24,81.16666667,3.265986324,87.0,75.0,0,0,0,0,0,0,1,7,13,3.0,0
+UBCV,2014,W,BASC,523,,813,Supply Chain Management,S Thomas Mccormick,34,76.02941177,4.641612142,87.0,65.0,0,0,0,0,,4,10,14,3,,0
+UBCV,2014,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,48,74.41666667,6.170738544,88.0,61.0,0,0,0,,,9,13,7,13,,0
+UBCV,2014,W,BASC,523,,OVERALL,Supply Chain Management,,155,77.84516129,5.388952065,88.0,61.0,0,0,0,,,13,24,43,59,10,0
+UBCV,2014,W,BASC,524,,001,Supply Chain Analytics,Gregory Werker,22,82.68181818,6.089697495,94.0,73.0,0,0,0,0,0,0,,,9,,
+UBCV,2014,W,BASC,524,,OVERALL,Supply Chain Analytics,,22,82.68181818,6.089697495,94.0,73.0,0,0,0,0,0,0,,,9,,
+UBCV,2014,W,BASC,550,,001,Operations and Logistics,Gregory Werker,41,79.80487805,7.071843862,93.0,60.0,0,0,0,,,,5,7,14,7,
+UBCV,2014,W,BASC,550,,002,Operations and Logistics,Gregory Werker,44,78.84090909,9.137052555,94.0,54.0,0,,,,,6,1,9,10,9,5
 UBCV,2014,W,BASC,550,,300,Operations and Logistics,Gregory Werker,40,81.5,8.491322871,92.0,49.0,,,,,,,5,4,10,14,
 UBCV,2014,W,BASC,550,,OVERALL,Operations and Logistics,,125,80.008,8.305163571,94.0,49.0,,,,,,9,11,20,34,30,13

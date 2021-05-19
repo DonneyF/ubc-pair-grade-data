@@ -1,35 +1,35 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,FRE,295,,102,Managerial Economics,James Brander,5,66.0,5.244044241,72.0,60.0,,,,,,,,,,,
-UBCV,2014,W,FRE,295,,OVERALL,Managerial Economics,,15,66.66666667,8.406346809,84.0,54.0,,,,,,,,,,,
+UBCV,2014,W,FRE,295,,102,Managerial Economics,James Brander,5,66.0,5.244044241,72.0,60.0,0,0,0,,,,,0,0,0,0
+UBCV,2014,W,FRE,295,,OVERALL,Managerial Economics,,15,66.66666667,8.406346809,84.0,54.0,0,,,,,,,,,0,0
 UBCV,2014,W,FRE,306,,001,Introduction to Global Food Markets,Alfred Katule;Atsadakorn Klomjaroon;Katarzyna Pankowska;Richard Barichello,120,75.425,12.71382659,95.0,0.0,,,,,9,10,18,28,31,9,7
 UBCV,2014,W,FRE,306,,OVERALL,Introduction to Global Food Markets,,120,75.425,12.71382659,95.0,0.0,,,,,9,10,18,28,31,9,7
-UBCV,2014,W,FRE,340,,001,International Agricultural Development,Christopher Bennett;Sean Holowaychuk;Sean Louis Holowaychuk;Shristee Rahman,67,82.68656716,6.68151896,97.0,70.0,,,,,,,5,22,10,19,9
-UBCV,2014,W,FRE,340,,OVERALL,International Agricultural Development,,67,82.68656716,6.68151896,97.0,70.0,,,,,,,5,22,10,19,9
+UBCV,2014,W,FRE,340,,001,International Agricultural Development,Christopher Bennett;Sean Holowaychuk;Sean Louis Holowaychuk;Shristee Rahman,67,82.68656716,6.68151896,97.0,70.0,0,0,0,0,0,2.0,5,22,10,19,9
+UBCV,2014,W,FRE,340,,OVERALL,International Agricultural Development,,67,82.68656716,6.68151896,97.0,70.0,0,0,0,0,0,2.0,5,22,10,19,9
 UBCV,2014,W,FRE,374,,001,Land and Resource Economics,Katarzyna Pankowska;Sumeet Gulati;Suvaporn Phasuk,35,75.31428571,12.86987232,92.0,34.0,,,,,,,5,,7,8,
 UBCV,2014,W,FRE,374,,OVERALL,Land and Resource Economics,,35,75.31428571,12.86987232,92.0,34.0,,,,,,,5,,7,8,
-UBCV,2014,W,FRE,385,,001,Quantitative Methods for Business and Resource Management,Michael Johnson;Michael Roger Johnson;Suvaporn Phasuk,22,77.86363636,10.22273589,93.0,59.0,,,,,,,,,7,5,
-UBCV,2014,W,FRE,385,,OVERALL,Quantitative Methods for Business and Resource Management,,22,77.86363636,10.22273589,93.0,59.0,,,,,,,,,7,5,
+UBCV,2014,W,FRE,385,,001,Quantitative Methods for Business and Resource Management,Michael Johnson;Michael Roger Johnson;Suvaporn Phasuk,22,77.86363636,10.22273589,93.0,59.0,0,0,,,,,,,7,5,
+UBCV,2014,W,FRE,385,,OVERALL,Quantitative Methods for Business and Resource Management,,22,77.86363636,10.22273589,93.0,59.0,0,0,,,,,,,7,5,
 UBCV,2014,W,FRE,420,,001,The Economics of International Trade and the Environment,Katarzyna Pankowska;Sumeet Gulati,38,78.36842105,13.00191473,97.0,42.0,,,,,,,,,10,6,8
 UBCV,2014,W,FRE,420,,OVERALL,The Economics of International Trade and the Environment,,38,78.36842105,13.00191473,97.0,42.0,,,,,,,,,10,6,8
-UBCV,2014,W,FRE,460,,001,Economics of Food Consumption,Carol Mcausland;Suvaporn Phasuk,39,75.07692308,11.82856626,95.0,50.0,,,,,5,,,,8,7,
-UBCV,2014,W,FRE,460,,OVERALL,Economics of Food Consumption,,39,75.07692308,11.82856626,95.0,50.0,,,,,5,,,,8,7,
-UBCV,2014,W,FRE,490,,001,Current Issues in Food and Resource Economics,Christopher Bennett;Katarzyna Pankowska,34,88.47058824,5.582631584,99.0,73.0,,,,,,,,,6,12,14
-UBCV,2014,W,FRE,490,,OVERALL,Current Issues in Food and Resource Economics,,34,88.47058824,5.582631584,99.0,73.0,,,,,,,,,6,12,14
+UBCV,2014,W,FRE,460,,001,Economics of Food Consumption,Carol Mcausland;Suvaporn Phasuk,39,75.07692308,11.82856626,95.0,50.0,0,,,,5,,,,8,7,
+UBCV,2014,W,FRE,460,,OVERALL,Economics of Food Consumption,,39,75.07692308,11.82856626,95.0,50.0,0,,,,5,,,,8,7,
+UBCV,2014,W,FRE,490,,001,Current Issues in Food and Resource Economics,Christopher Bennett;Katarzyna Pankowska,34,88.47058824,5.582631584,99.0,73.0,0,0,0,0,0,0,,,6,12,14
+UBCV,2014,W,FRE,490,,OVERALL,Current Issues in Food and Resource Economics,,34,88.47058824,5.582631584,99.0,73.0,0,0,0,0,0,0,,,6,12,14
 UBCV,2014,W,FRE,502,,001,Food Market Analysis,Richard Barichello,20,77.15,12.02749044,94.0,39.0,,,,,,,,,7,,
 UBCV,2014,W,FRE,502,,OVERALL,Food Market Analysis,,20,77.15,12.02749044,94.0,39.0,,,,,,,,,7,,
-UBCV,2014,W,FRE,503,,001,"Policy Analysis for Food, Environment and Resources",Richard Barichello,17,74.70588235,20.12388104,89.0,0.0,,,,,,,,,,5,
-UBCV,2014,W,FRE,503,,OVERALL,"Policy Analysis for Food, Environment and Resources",,17,74.70588235,20.12388104,89.0,0.0,,,,,,,,,,5,
-UBCV,2014,W,FRE,515,,001,Agribusiness Management,Karen Taylor,15,88.13333333,4.050867043999999,94.0,79.0,,,,,,,,,,6,6
-UBCV,2014,W,FRE,515,,OVERALL,Agribusiness Management,,15,88.13333333,4.050867043999999,94.0,79.0,,,,,,,,,,6,6
-UBCV,2014,W,FRE,516,,002,Financial and Marketing Management in Agri-food Industries,Kelleen Wiseman,17,71.52941177,19.68539321,87.0,0.0,,,,,,6,,,,,
-UBCV,2014,W,FRE,516,,OVERALL,Financial and Marketing Management in Agri-food Industries,,17,71.52941177,19.68539321,87.0,0.0,,,,,,6,,,,,
-UBCV,2014,W,FRE,521,D,001,Topics in Food and Resource Economics,Mark Liew,6,84.83333333,3.488074923,88.0,78.0,,,,,,,,,,5,
-UBCV,2014,W,FRE,521,D,OVERALL,Topics in Food and Resource Economics,,6,84.83333333,3.488074923,88.0,78.0,,,,,,,,,,5,
+UBCV,2014,W,FRE,503,,001,"Policy Analysis for Food, Environment and Resources",Richard Barichello,17,74.70588235,20.12388104,89.0,0.0,,,,,,,,,,5,0
+UBCV,2014,W,FRE,503,,OVERALL,"Policy Analysis for Food, Environment and Resources",,17,74.70588235,20.12388104,89.0,0.0,,,,,,,,,,5,0
+UBCV,2014,W,FRE,515,,001,Agribusiness Management,Karen Taylor,15,88.13333333,4.050867044,94.0,79.0,0,0,0,0,0,0,0,,,6,6
+UBCV,2014,W,FRE,515,,OVERALL,Agribusiness Management,,15,88.13333333,4.050867044,94.0,79.0,0,0,0,0,0,0,0,,,6,6
+UBCV,2014,W,FRE,516,,002,Financial and Marketing Management in Agri-food Industries,Kelleen Wiseman,17,71.52941177,19.68539321,87.0,0.0,,,,,,6,,,,,0
+UBCV,2014,W,FRE,516,,OVERALL,Financial and Marketing Management in Agri-food Industries,,17,71.52941177,19.68539321,87.0,0.0,,,,,,6,,,,,0
+UBCV,2014,W,FRE,521,D,001,Topics in Food and Resource Economics,Mark Liew,6,84.83333333,3.488074923,88.0,78.0,0,0,0,0,0,0,0,,,5,0
+UBCV,2014,W,FRE,521,D,OVERALL,Topics in Food and Resource Economics,,6,84.83333333,3.488074923,88.0,78.0,0,0,0,0,0,0,0,,,5,0
 UBCV,2014,W,FRE,525,,002,Environmental Economics and Policy,Sumeet Gulati,20,82.95,20.55410063,98.0,0.0,,,,,,,,,,7,7
 UBCV,2014,W,FRE,525,,OVERALL,Environmental Economics and Policy,,20,82.95,20.55410063,98.0,0.0,,,,,,,,,,7,7
-UBCV,2014,W,FRE,528,,002,Applied Econometrics,Michael Johnson;Michael Roger Johnson,19,79.68421053,9.933403979,90.0,54.0,,,,,,,,,,6,
-UBCV,2014,W,FRE,528,,OVERALL,Applied Econometrics,,19,79.68421053,9.933403979,90.0,54.0,,,,,,,,,,6,
-UBCV,2014,W,FRE,540,,001,International Resource Economics and Development,Christopher Bennett,23,88.21739129999999,5.664534978,98.0,74.0,,,,,,,,,6,5,11
-UBCV,2014,W,FRE,540,,OVERALL,International Resource Economics and Development,,23,88.21739129999999,5.664534978,98.0,74.0,,,,,,,,,6,5,11
-UBCV,2014,W,FRE,585,,001,Quantitative Methods for Business and Natural Resource Management,Michael Johnson;Michael Roger Johnson,18,80.0,6.659800386000001,93.0,70.0,,,,,,,,,6,,
-UBCV,2014,W,FRE,585,,OVERALL,Quantitative Methods for Business and Natural Resource Management,,18,80.0,6.659800386000001,93.0,70.0,,,,,,,,,6,,
+UBCV,2014,W,FRE,528,,002,Applied Econometrics,Michael Johnson;Michael Roger Johnson,19,79.68421053,9.933403979,90.0,54.0,0,,,,,,,,,6,
+UBCV,2014,W,FRE,528,,OVERALL,Applied Econometrics,,19,79.68421053,9.933403979,90.0,54.0,0,,,,,,,,,6,
+UBCV,2014,W,FRE,540,,001,International Resource Economics and Development,Christopher Bennett,23,88.2173913,5.664534978,98.0,74.0,0,0,0,0,0,0,,,6,5,11
+UBCV,2014,W,FRE,540,,OVERALL,International Resource Economics and Development,,23,88.2173913,5.664534978,98.0,74.0,0,0,0,0,0,0,,,6,5,11
+UBCV,2014,W,FRE,585,,001,Quantitative Methods for Business and Natural Resource Management,Michael Johnson;Michael Roger Johnson,18,80.0,6.659800386,93.0,70.0,0,0,0,0,0,,,,6,,
+UBCV,2014,W,FRE,585,,OVERALL,Quantitative Methods for Business and Natural Resource Management,,18,80.0,6.659800386,93.0,70.0,0,0,0,0,0,,,,6,,

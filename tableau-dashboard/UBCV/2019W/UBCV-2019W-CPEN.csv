@@ -1,70 +1,71 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,CPEN,211,,101,Introduction to Microcomputers,Abdul Rehman Anwer;Andrada Ioana Zoltan;Andrada Zoltan;Chuan Yu Bai;Debasish Mohapatra;Debasish Ray Mohapatra;Deval Shah;Elena-Iulia Dobre;Lazar Atanackovic;Linzhi Feng;Lufei Liu;Mingyuan Du;Ningfeng Yang;Parisa Asgharzadeh;Pavithran Palanichamy;Peter Deutsch;Peter William Deutsch;Robert Lupoiu;Shenghang Luo;Shimona Roy Chowdhury;Tor Aamodt;Venkata Praneeth Srungarapu;Vishnu Rajendran Chandrika;Yuan Hsi Chou;Zachary Fu;Zachary Zhuang Fu;Zi Yu Xue,310,68.509677419,14.34587443,100.0,0.0,22,12,30,40,40,34,30,29,38,20,15
-UBCV,2019,W,CPEN,211,,OVERALL,Introduction to Microcomputers,,310,68.509677419,14.34587443,100.0,0.0,22,12,30,40,40,34,30,29,38,20,15
-UBCV,2019,W,CPEN,221,,101,Principles of Software Construction,Alexander Kent Driedger;Amirhossein Tootooni Mofrad;Carol Patricia Jaeger;Erick Alexander Velasquez Freire;Fiona Lang;Gabrielle Lam;Harteij Sidhu;James Wu;John Michael Ramsden;John Ramsden;Jonathan Nakane;Jonathan Verrett;Julie Belleville;Naoko Ellis;Peter Ostafichuk;Sathish Gopalakrishnan;Satish Sarraf;Shaylin Cattell;Victoria Schuster,213,71.403755869,9.987557588,99.0,25.0,,,,49,,47,51,,23,21,
-UBCV,2019,W,CPEN,221,,OVERALL,Principles of Software Construction,,213,71.403755869,9.987557588,99.0,25.0,,,,49,,47,51,,23,21,
-UBCV,2019,W,CPEN,223,,101,Software Design for Engineers,Farshid Agharebparast;Rishab Madaan;Ryan Zhuo Lun Liu;Xiangshuo Li,73,73.356164384,8.781878221,97.0,55.0,,,5,,7,16,15,7,9,6,
-UBCV,2019,W,CPEN,223,,OVERALL,Software Design for Engineers,,73,73.356164384,8.781878221,97.0,55.0,,,5,,7,16,15,7,9,6,
-UBCV,2019,W,CPEN,281,,101,Technical Communication,Randall Kerr,36,74.305555556,11.685936467000001,93.0,45.0,,,,,,5,7,,8,,
-UBCV,2019,W,CPEN,281,,102,Technical Communication,Randall Kerr,37,68.594594595,11.368717947,92.0,46.0,,,,5,,11,3,,,,
-UBCV,2019,W,CPEN,281,,103,Technical Communication,Hartaj Sanghara,42,67.19047619,9.963930303,80.0,45.0,6,,,,5,9,8,6,,,
-UBCV,2019,W,CPEN,281,,OVERALL,Technical Communication,,115,69.869565217,11.30635727,93.0,45.0,12,,5,12,10,25,18,12,12,,6
-UBCV,2019,W,CPEN,291,,201,Computer Engineering Design Studio I,Farshid Agharebparast;Kritika Arora;Nusrat Mehajabin;Rishab Madaan;Sichen Luo,105,88.971428571,3.392460937,99.0,81.0,,,,,,,,,12,39,54
-UBCV,2019,W,CPEN,291,,OVERALL,Computer Engineering Design Studio I,,105,88.971428571,3.392460937,99.0,81.0,,,,,,,,,12,39,54
-UBCV,2019,W,CPEN,311,,101,Digital Systems Design,Esther Johanna Roorda;Esther Roorda;Guy Lemieux;Mariko Tatsumi;Mohamed Omran Matar;Muhammad Adnan;Muhammad Saad Adnan;Nikhil Pratap Ghanathe,100,75.19,11.943211587999999,96.0,29.0,,,6,5,6,7,17,12,24,10,9
-UBCV,2019,W,CPEN,311,,201,Digital Systems Design,Esther Johanna Roorda;Esther Roorda;Jose Pablo Pinilla Gomez;Jose Pinilla Gomez;Minxiu Xu;Muhammad Adnan;Muhammad Saad Adnan;Yair Linn;Yuan Hsi Chou;Zhonghua Zhou,122,87.42622950799999,13.368223104,100.0,15.0,,,3,2,2,4,12,5,14,9,70
-UBCV,2019,W,CPEN,311,,OVERALL,Digital Systems Design,,222,81.91441441399999,14.105833631,100.0,15.0,5,0.0,9,7,8,11,29,17,38,19,79
-UBCV,2019,W,CPEN,312,,201,Digital Systems and Microcomputers,Jesus Calvino-Fraga;Karim Elkholy;Venkata Praneeth Srungarapu;Yan Qi Gu;Yang Yu;Yixuan Ji,167,72.766467066,14.171048931,100.0,25.0,7,9,15,11,13,24,17,18,14,16,23
-UBCV,2019,W,CPEN,312,,OVERALL,Digital Systems and Microcomputers,,167,72.766467066,14.171048931,100.0,25.0,7,9,15,11,13,24,17,18,14,16,23
-UBCV,2019,W,CPEN,321,,101,Software Engineering,Bang Chi Duong;Harshavardhan Kadiyala;Julia Rubin;Khaled Ahmed;Khaled Essam Elsayed Ahmed;Michael Cao;Sahar Badihi,109,84.724770642,7.128284246000001,100.0,66.0,,,,,,,5,15,19,37,27
-UBCV,2019,W,CPEN,321,,OVERALL,Software Engineering,,109,84.724770642,7.128284246000001,100.0,66.0,,,,,,,5,15,19,37,27
-UBCV,2019,W,CPEN,331,,101,Operating Systems,Alexandra Fedorova;Ali Mohamed;Mihnea Martinescu;Robert Lang,120,77.508333333,12.940066002,99.0,15.0,,,5,,9,13,10,7,29,26,13
-UBCV,2019,W,CPEN,331,,OVERALL,Operating Systems,,120,77.508333333,12.940066002,99.0,15.0,,,5,,9,13,10,7,29,26,13
-UBCV,2019,W,CPEN,333,,101,System Software Engineering,Mohammadhossein Jafari;Negar Goli;Paul Davies;Zhonghua Zhou,112,87.553571429,10.090437258,100.0,19.0,,,,,,,5,9,11,28,54
-UBCV,2019,W,CPEN,333,,OVERALL,System Software Engineering,,112,87.553571429,10.090437258,100.0,19.0,,,,,,,5,9,11,28,54
-UBCV,2019,W,CPEN,391,,201,Computer Engineering Design Studio II,Bhagisha Bhagisha;Md Aamir Raihan;Negar Goli;Neha Goel;Paul Davies;Peter Deutsch;Peter William Deutsch,106,85.962264151,7.077697403999999,100.0,60.0,,,,,,,,9,37,28,28
-UBCV,2019,W,CPEN,391,,OVERALL,Computer Engineering Design Studio II,,106,85.962264151,7.077697403999999,100.0,60.0,,,,,,,,9,37,28,28
-UBCV,2019,W,CPEN,400,A,101,Topics in Computer Engineering,Aarti Kashyap;Karthik Pattabiraman;Niranjhana Narayanan;Pritam Dash;Zitao Chen,95,84.473684211,6.608894885,96.0,56.0,,,,,,,5,14,19,31,24
-UBCV,2019,W,CPEN,400,A,OVERALL,Topics in Computer Engineering,,95,84.473684211,6.608894885,96.0,56.0,,,,,,,5,14,19,31,24
-UBCV,2019,W,CPEN,400,D,202,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Scott Chin,35,85.228571429,8.530518618,97.0,67.0,,,,,,,,,7,6,14
-UBCV,2019,W,CPEN,400,D,OVERALL,Topics in Computer Engineering,,35,85.228571429,8.530518618,97.0,67.0,,,,,,,,,7,6,14
-UBCV,2019,W,CPEN,400,N,203,Topics in Computer Engineering,Farshid Agharebparast,14,88.14285714299999,6.585031311,96.0,76.0,,,,,,,,,,,8
-UBCV,2019,W,CPEN,400,N,OVERALL,Topics in Computer Engineering,,14,88.14285714299999,6.585031311,96.0,76.0,,,,,,,,,,,8
-UBCV,2019,W,CPEN,400,S,204,Topics in Computer Engineering,Sathish Gopalakrishnan;Shahriar Mirabbasi,14,90.428571429,5.639343739,97.0,80.0,,,,,,,,,,,8
-UBCV,2019,W,CPEN,400,S,OVERALL,Topics in Computer Engineering,,14,90.428571429,5.639343739,97.0,80.0,,,,,,,,,,,8
-UBCV,2019,W,CPEN,400,X,002,Topics in Computer Engineering,Sathish Gopalakrishnan,7,94.0,0.0,94.0,94.0,,,,,,,,,,,7
-UBCV,2019,W,CPEN,400,X,OVERALL,Topics in Computer Engineering,,7,94.0,0.0,94.0,94.0,,,,,,,,,,,7
-UBCV,2019,W,CPEN,411,,101,Computer Architecture,Dingqing Yang;Mieszko Lis;Muhammad Adnan;Parvathy Nair;Prashant Jayaprakash Nair;Prashant Nair,37,74.459459459,16.018382833,100.0,37.0,,,6,,,,10,,,,7
-UBCV,2019,W,CPEN,411,,OVERALL,Computer Architecture,,37,74.459459459,16.018382833,100.0,37.0,,,6,,,,10,,,,7
-UBCV,2019,W,CPEN,412,,201,Microcomputer Systems Design,Bhagisha Bhagisha;Deval Shah;Paul Davies;Pavithran Palanichamy,60,86.98333333299999,9.564219455,98.0,50.0,,,,,,,,,5,10,34
-UBCV,2019,W,CPEN,412,,OVERALL,Microcomputer Systems Design,,60,86.98333333299999,9.564219455,98.0,50.0,,,,,,,,,5,10,34
-UBCV,2019,W,CPEN,421,,201,Software Project Management,Asem Ghaleb;Patrick Conroy;Pritam Dash,67,76.71641791,9.004722616,89.0,32.0,,,,,,7,14,11,16,12,
-UBCV,2019,W,CPEN,421,,OVERALL,Software Project Management,,67,76.71641791,9.004722616,89.0,32.0,,,,,,7,14,11,16,12,
-UBCV,2019,W,CPEN,422,,101,Software Testing and Analysis,Ali Mesbah;Marjane Namavar;Rahul Krishna Yandrapally,49,82.244897959,6.303208879,98.0,68.0,,,,,,,7,6,16,14,5
-UBCV,2019,W,CPEN,422,,OVERALL,Software Testing and Analysis,,49,82.244897959,6.303208879,98.0,68.0,,,,,,,7,6,16,14,5
-UBCV,2019,W,CPEN,431,,201,Design of Distributed Software Applications,Hassan Halawa;Hassan Hesham Mohamed Halawa;Kumseok Jung;Marjane Namavar;Radu Ripeanu,50,87.54,6.244050229,97.0,71.0,,,,,,,,,8,15,22
-UBCV,2019,W,CPEN,431,,OVERALL,Design of Distributed Software Applications,,50,87.54,6.244050229,97.0,71.0,,,,,,,,,8,15,22
-UBCV,2019,W,CPEN,432,,101,Real-time System Design,Bader Alahmad;Carol Patricia Jaeger;Nusrat Mehajabin,10,65.9,8.211780156,78.0,50.0,,,,,,,,,,,
-UBCV,2019,W,CPEN,432,,OVERALL,Real-time System Design,,10,65.9,8.211780156,78.0,50.0,,,,,,,,,,,
-UBCV,2019,W,CPEN,442,,101,Introduction to Computer Security,Borke Obada-Obieh;Konstantin Beznosov;Masoud Mehrabi Koushki,43,81.186046512,9.7327523,100.0,58.0,,,,,,,5,,10,7,10
-UBCV,2019,W,CPEN,442,,OVERALL,Introduction to Computer Security,,43,81.186046512,9.7327523,100.0,58.0,,,,,,,5,,10,7,10
-UBCV,2019,W,CPEN,481,,101,Economic Analysis of Engineering Projects,Erin Lenz Litzow;Erin Litzow;Hong Li;Huong Nguyen;Huong Thi Thu Nguyen;Kelleen Wiseman;Pedram Mohammadi;Xiao Han,24,81.5,11.12771706,97.0,51.0,,,,,1,3,2,2,4,3,8
-UBCV,2019,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Erin Lenz Litzow;Erin Litzow;Hong Li;Huong Nguyen;Huong Thi Thu Nguyen;Jeffrey Carmichael;Kelleen Wiseman;Lelisa Dewi Jahja;Xiao Han,73,75.643835616,10.713918599,92.0,50.0,,,,,9,6,8,6,13,17,4
-UBCV,2019,W,CPEN,481,,OVERALL,Economic Analysis of Engineering Projects,,97,77.092783505,11.054865515,97.0,50.0,,,,,10,9,10,8,17,20,12
-UBCV,2019,W,CPEN,491,,001,Computer Engineering Capstone Design Project,Amin Ghasemazar;Archita Borah;Cinar Kiper;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Jan Hammer;Jorge Lozano Rodriguez;Joseph Yan;Katharine Maginley;Katharine Suzanne Maginley;Kevin Dsouza;Maria Celeste Garcia Perez;Mohammad Mahdi Kazimi Esfeh;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Pedram Mohammadi;Philippe Kruchten;Pieter Botman;Saumya Shandilya;Stylianos Ploumis;Terry Lee;Varshini Baskar,92,85.510869565,5.354457043,95.0,60.0,,,,,,,,,36,29,24
-UBCV,2019,W,CPEN,491,,OVERALL,Computer Engineering Capstone Design Project,,92,85.510869565,5.354457043,95.0,60.0,,,,,,,,,36,29,24
-UBCV,2019,W,CPEN,499,A,OVERALL,Undergraduate Thesis,,5,91.4,6.7675697260000005,97.0,84.0,,,,,,,,,,,
-UBCV,2019,W,CPEN,502,,101,Architecture for Learning Systems,Jianzhe Lin;Sarbjit Sarkaria,50,87.26,7.652690603,98.0,62.0,,,,,,,,,6,12,25
-UBCV,2019,W,CPEN,502,,OVERALL,Architecture for Learning Systems,,50,87.26,7.652690603,98.0,62.0,,,,,,,,,6,12,25
-UBCV,2019,W,CPEN,513,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,13,89.46153846200001,8.171244137999999,98.0,65.0,,,,,,,,,,,9
-UBCV,2019,W,CPEN,513,,OVERALL,CAD Algorithms for Integrated Circuits,,13,89.46153846200001,8.171244137999999,98.0,65.0,,,,,,,,,,,9
-UBCV,2019,W,CPEN,522,,201,Software Verification and Testing,Ali Mesbah;Rahul Krishna Yandrapally,38,81.973684211,7.242841171,92.0,60.0,,,,,,,,8,11,11,
-UBCV,2019,W,CPEN,522,,OVERALL,Software Verification and Testing,,38,81.973684211,7.242841171,92.0,60.0,,,,,,,,8,11,11,
-UBCV,2019,W,CPEN,523,,201,Software Project Management,Philippe Kruchten;Robert Fuller,15,82.266666667,6.745015797000001,94.0,68.0,,,,,,,,,,,
-UBCV,2019,W,CPEN,523,,OVERALL,Software Project Management,,15,82.266666667,6.745015797000001,94.0,68.0,,,,,,,,,,,
-UBCV,2019,W,CPEN,524,,201,Principles of Mobile Application Development and Analysis,Julia Rubin,10,86.1,4.998888765,94.0,77.0,,,,,,,,,,7,
-UBCV,2019,W,CPEN,524,,OVERALL,Principles of Mobile Application Development and Analysis,,10,86.1,4.998888765,94.0,77.0,,,,,,,,,,7,
-UBCV,2019,W,CPEN,541,,101,Human Interface Technologies,S Sidney Fels,7,83.0,2.943920289,86.0,79.0,,,,,,,,,,,
-UBCV,2019,W,CPEN,541,,OVERALL,Human Interface Technologies,,7,83.0,2.943920289,86.0,79.0,,,,,,,,,,,
-UBCV,2019,W,CPEN,542,,101,Cybersecurity,Borke Ejaita Obada-Obieh;Borke Obada-Obieh;Carol Patricia Jaeger;Konstantin Beznosov,17,77.941176471,8.234611316,91.0,62.0,,,,,,,,5,,,
-UBCV,2019,W,CPEN,542,,OVERALL,Cybersecurity,,17,77.941176471,8.234611316,91.0,62.0,,,,,,,,5,,,
+UBCV,2019,W,CPEN,211,,101,Introduction to Microcomputers,Abdul Rehman Anwer;Andrada Ioana Zoltan;Andrada Zoltan;Chuan Yu Bai;Debasish Mohapatra;Debasish Ray Mohapatra;Deval Shah;Elena-Iulia Dobre;Lazar Atanackovic;Linzhi Feng;Lufei Liu;Mingyuan Du;Ningfeng Yang;Parisa Asgharzadeh;Pavithran Palanichamy;Peter Deutsch;Peter William Deutsch;Robert Lupoiu;Shenghang Luo;Shimona Roy Chowdhury;Tor Aamodt;Venkata Praneeth Srungarapu;Vishnu Rajendran Chandrika;Yuan Hsi Chou;Zachary Fu;Zachary Zhuang Fu;Zi Yu Xue,309,68.62135922,14.1740914,100.0,0.0,21,13.0,30,39,40.0,34.0,30,29,38.0,20,15
+UBCV,2019,W,CPEN,211,,OVERALL,Introduction to Microcomputers,,309,68.62135922,14.1740914,100.0,0.0,21,13.0,30,39,40.0,34.0,30,29,38.0,20,15
+UBCV,2019,W,CPEN,221,,101,Principles of Software Construction,Alexander Kent Driedger;Amirhossein Tootooni Mofrad;Carol Patricia Jaeger;Erick Alexander Velasquez Freire;Fiona Lang;Gabrielle Lam;Harteij Sidhu;Harteij Singh Sidhu;James Wu;John Michael Ramsden;John Ramsden;Jonathan Nakane;Jonathan Verrett;Julie Belleville;Naoko Ellis;Peter Ostafichuk;Sathish Gopalakrishnan;Satish Sarraf;Shaylin Cattell;Victoria Schuster,213,71.5399061,9.905427995,99.0,25.0,4,2.0,4,49,4.0,47.0,51,3,24.0,21,4
+UBCV,2019,W,CPEN,221,,OVERALL,Principles of Software Construction,,213,71.5399061,9.905427995,99.0,25.0,4,2.0,4,49,4.0,47.0,51,3,24.0,21,4
+UBCV,2019,W,CPEN,223,,101,Software Design for Engineers,Farshid Agharebparast;Rishab Madaan;Ryan Zhuo Lun Liu;Xiangshuo Li,73,73.35616438,8.781878221,97.0,55.0,0,0.0,5,4,7.0,16.0,15,7,9.0,6,4
+UBCV,2019,W,CPEN,223,,OVERALL,Software Design for Engineers,,73,73.35616438,8.781878221,97.0,55.0,0,0.0,5,4,7.0,16.0,15,7,9.0,6,4
+UBCV,2019,W,CPEN,281,,101,Technical Communication,Randall Kerr,36,74.30555556,11.68593647,93.0,45.0,2,0.0,1,3,2.0,5.0,7,2,8.0,2,4
+UBCV,2019,W,CPEN,281,,102,Technical Communication,Randall Kerr,37,68.5945946,11.36871795,92.0,46.0,4,0.0,2,5,3.0,11.0,3,4,2.0,1,2
+UBCV,2019,W,CPEN,281,,103,Technical Communication,Hartaj Sanghara,42,67.19047619,9.963930303,80.0,45.0,6,0.0,2,4,5.0,9.0,8,6,2.0,0,0
+UBCV,2019,W,CPEN,281,,OVERALL,Technical Communication,,115,69.86956522,11.30635727,93.0,45.0,12,0.0,5,12,10.0,25.0,18,12,12.0,3,6
+UBCV,2019,W,CPEN,291,,201,Computer Engineering Design Studio I,Farshid Agharebparast;Kritika Arora;Nusrat Mehajabin;Rishab Madaan;Sichen Luo,105,88.97142857,3.392460937,99.0,81.0,0,0.0,0,0,0.0,0.0,0,0,12.0,39,54
+UBCV,2019,W,CPEN,291,,OVERALL,Computer Engineering Design Studio I,,105,88.97142857,3.392460937,99.0,81.0,0,0.0,0,0,0.0,0.0,0,0,12.0,39,54
+UBCV,2019,W,CPEN,311,,101,Digital Systems Design,Esther Johanna Roorda;Esther Roorda;Guy Lemieux;Mariko Tatsumi;Mohamed Omran Matar;Muhammad Adnan;Muhammad Saad Adnan;Nikhil Pratap Ghanathe,100,75.19,11.94321159,96.0,29.0,4,0.0,6,5,6.0,7.0,17,12,24.0,10,9
+UBCV,2019,W,CPEN,311,,201,Digital Systems Design,Esther Johanna Roorda;Esther Roorda;Jose Pablo Pinilla Gomez;Jose Pinilla Gomez;Minxiu Xu;Muhammad Adnan;Muhammad Saad Adnan;Yair Linn;Yuan Hsi Chou;Zhonghua Zhou,122,87.42622951,13.3682231,100.0,15.0,1,0.0,3,2,2.0,4.0,12,5,14.0,9,70
+UBCV,2019,W,CPEN,311,,OVERALL,Digital Systems Design,,222,81.91441441,14.10583363,100.0,15.0,5,0.0,9,7,8.0,11.0,29,17,38.0,19,79
+UBCV,2019,W,CPEN,312,,201,Digital Systems and Microcomputers,Jesus Calvino-Fraga;Karim Elkholy;Venkata Praneeth Srungarapu;Yan Qi Gu;Yang Yu;Yixuan Ji,167,72.91616767,13.79034636,100.0,39.0,6,10.0,15,11,13.0,24.0,17,18,14.0,16,23
+UBCV,2019,W,CPEN,312,,OVERALL,Digital Systems and Microcomputers,,167,72.91616767,13.79034636,100.0,39.0,6,10.0,15,11,13.0,24.0,17,18,14.0,16,23
+UBCV,2019,W,CPEN,321,,101,Software Engineering,Bang Chi Duong;Harshavardhan Kadiyala;Julia Rubin;Khaled Ahmed;Khaled Essam Elsayed Ahmed;Michael Cao;Sahar Badihi,109,84.72477064,7.128284246,100.0,66.0,0,0.0,0,0,2.0,4.0,5,15,19.0,37,27
+UBCV,2019,W,CPEN,321,,OVERALL,Software Engineering,,109,84.72477064,7.128284246,100.0,66.0,0,0.0,0,0,2.0,4.0,5,15,19.0,37,27
+UBCV,2019,W,CPEN,331,,101,Operating Systems,Alexandra Fedorova;Ali Mohamed;Mihnea Martinescu;Robert Lang,120,77.50833333,12.940066,99.0,15.0,2,2.0,5,4,9.0,13.0,10,7,29.0,26,13
+UBCV,2019,W,CPEN,331,,OVERALL,Operating Systems,,120,77.50833333,12.940066,99.0,15.0,2,2.0,5,4,9.0,13.0,10,7,29.0,26,13
+UBCV,2019,W,CPEN,333,,101,System Software Engineering,Mohammadhossein Jafari;Negar Goli;Paul Davies;Zhonghua Zhou,112,87.55357143,10.09043726,100.0,19.0,1,0.0,0,0,2.0,2.0,5,9,11.0,28,54
+UBCV,2019,W,CPEN,333,,OVERALL,System Software Engineering,,112,87.55357143,10.09043726,100.0,19.0,1,0.0,0,0,2.0,2.0,5,9,11.0,28,54
+UBCV,2019,W,CPEN,391,,201,Computer Engineering Design Studio II,Bhagisha Bhagisha;Md Aamir Raihan;Negar Goli;Neha Goel;Paul Davies;Peter Deutsch;Peter William Deutsch,106,85.96226415,7.077697404,100.0,60.0,0,0.0,0,1,0.0,1.0,2,9,37.0,28,28
+UBCV,2019,W,CPEN,391,,OVERALL,Computer Engineering Design Studio II,,106,85.96226415,7.077697404,100.0,60.0,0,0.0,0,1,0.0,1.0,2,9,37.0,28,28
+UBCV,2019,W,CPEN,400,A,101,Topics in Computer Engineering,Aarti Kashyap;Karthik Pattabiraman;Niranjhana Narayanan;Pritam Dash;Zitao Chen,95,84.47368421,6.608894885,96.0,56.0,0,0.0,1,0,0.0,1.0,5,14,19.0,31,24
+UBCV,2019,W,CPEN,400,A,OVERALL,Topics in Computer Engineering,,95,84.47368421,6.608894885,96.0,56.0,0,0.0,1,0,0.0,1.0,5,14,19.0,31,24
+UBCV,2019,W,CPEN,400,D,202,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Scott Chin,35,85.22857143,8.530518618,97.0,67.0,0,0.0,0,0,1.0,2.0,3,2,7.0,6,14
+UBCV,2019,W,CPEN,400,D,OVERALL,Topics in Computer Engineering,,35,85.22857143,8.530518618,97.0,67.0,0,0.0,0,0,1.0,2.0,3,2,7.0,6,14
+UBCV,2019,W,CPEN,400,N,203,Topics in Computer Engineering,Farshid Agharebparast,14,88.14285714,6.585031311,96.0,76.0,0,0.0,0,0,0.0,0.0,0,2,3.0,1,8
+UBCV,2019,W,CPEN,400,N,OVERALL,Topics in Computer Engineering,,14,88.14285714,6.585031311,96.0,76.0,0,0.0,0,0,0.0,0.0,0,2,3.0,1,8
+UBCV,2019,W,CPEN,400,S,204,Topics in Computer Engineering,Sathish Gopalakrishnan;Shahriar Mirabbasi,14,90.42857143,5.639343739,97.0,80.0,0,0.0,0,0,0.0,0.0,0,0,2.0,4,8
+UBCV,2019,W,CPEN,400,S,OVERALL,Topics in Computer Engineering,,14,90.42857143,5.639343739,97.0,80.0,0,0.0,0,0,0.0,0.0,0,0,2.0,4,8
+UBCV,2019,W,CPEN,400,X,002,Topics in Computer Engineering,Sathish Gopalakrishnan,7,94.0,0.0,94.0,94.0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,7
+UBCV,2019,W,CPEN,400,X,OVERALL,Topics in Computer Engineering,,7,94.0,0.0,94.0,94.0,0,0.0,0,0,0.0,0.0,0,0,0.0,0,7
+UBCV,2019,W,CPEN,411,,101,Computer Architecture,Dingqing Yang;Mieszko Lis;Muhammad Adnan;Parvathy Nair;Prashant Jayaprakash Nair;Prashant Nair,37,74.45945946,16.01838283,100.0,37.0,2,1.0,6,0,0.0,1.0,10,4,3.0,3,7
+UBCV,2019,W,CPEN,411,,OVERALL,Computer Architecture,,37,74.45945946,16.01838283,100.0,37.0,2,1.0,6,0,0.0,1.0,10,4,3.0,3,7
+UBCV,2019,W,CPEN,412,,201,Microcomputer Systems Design,Bhagisha Bhagisha;Deval Shah;Paul Davies;Pavithran Palanichamy,60,86.98333333,9.564219455,98.0,50.0,0,1.0,1,0,0.0,3.0,2,4,5.0,10,34
+UBCV,2019,W,CPEN,412,,OVERALL,Microcomputer Systems Design,,60,86.98333333,9.564219455,98.0,50.0,0,1.0,1,0,0.0,3.0,2,4,5.0,10,34
+UBCV,2019,W,CPEN,421,,201,Software Project Management,Asem Ghaleb;Patrick Conroy;Pritam Dash,67,76.71641791,9.004722616,89.0,32.0,1,0.0,1,2,3.0,7.0,14,11,16.0,12,0
+UBCV,2019,W,CPEN,421,,OVERALL,Software Project Management,,67,76.71641791,9.004722616,89.0,32.0,1,0.0,1,2,3.0,7.0,14,11,16.0,12,0
+UBCV,2019,W,CPEN,422,,101,Software Testing and Analysis,Ali Mesbah;Marjane Namavar;Rahul Krishna Yandrapally,49,82.24489796,6.303208879,98.0,68.0,0,0.0,0,0,0.0,1.0,7,6,16.0,14,5
+UBCV,2019,W,CPEN,422,,OVERALL,Software Testing and Analysis,,49,82.24489796,6.303208879,98.0,68.0,0,0.0,0,0,0.0,1.0,7,6,16.0,14,5
+UBCV,2019,W,CPEN,431,,201,Design of Distributed Software Applications,Hassan Halawa;Hassan Hesham Mohamed Halawa;Kumseok Jung;Marjane Namavar;Radu Ripeanu,50,87.54,6.244050229,97.0,71.0,0,0.0,0,0,0.0,1.0,2,2,8.0,15,22
+UBCV,2019,W,CPEN,431,,OVERALL,Design of Distributed Software Applications,,50,87.54,6.244050229,97.0,71.0,0,0.0,0,0,0.0,1.0,2,2,8.0,15,22
+UBCV,2019,W,CPEN,432,,101,Real-time System Design,Bader Alahmad;Carol Patricia Jaeger;Nusrat Mehajabin,10,65.9,8.211780156,78.0,50.0,0,1.0,1,3,0.0,2.0,2,1,0.0,0,0
+UBCV,2019,W,CPEN,432,,OVERALL,Real-time System Design,,10,65.9,8.211780156,78.0,50.0,0,1.0,1,3,0.0,2.0,2,1,0.0,0,0
+UBCV,2019,W,CPEN,442,,101,Introduction to Computer Security,Borke Ejaita Obada-Obieh;Borke Obada-Obieh;Konstantin Beznosov;Masoud Mehrabi Koushki,43,81.18604651,9.7327523,100.0,58.0,0,0.0,1,1,2.0,4.0,5,3,10.0,7,10
+UBCV,2019,W,CPEN,442,,OVERALL,Introduction to Computer Security,,43,81.18604651,9.7327523,100.0,58.0,0,0.0,1,1,2.0,4.0,5,3,10.0,7,10
+UBCV,2019,W,CPEN,481,,101,Economic Analysis of Engineering Projects,Erin Lenz Litzow;Erin Litzow;Hong Li;Huong Nguyen;Huong Thi Thu Nguyen;Kelleen Wiseman;Pedram Mohammadi;Xiao Han,24,81.5,11.12771706,97.0,51.0,0,1.0,0,0,1.0,3.0,2,2,4.0,3,8
+UBCV,2019,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Erin Lenz Litzow;Erin Litzow;Hong Li;Huong Nguyen;Huong Thi Thu Nguyen;Jeffrey Carmichael;Kelleen Wiseman;Lelisa Dewi Jahja;Xiao Han,73,75.64383562,10.7139186,92.0,50.0,0,2.0,4,4,9.0,6.0,8,6,13.0,17,4
+UBCV,2019,W,CPEN,481,,OVERALL,Economic Analysis of Engineering Projects,,97,77.09278351,11.05486552,97.0,50.0,0,3.0,4,4,10.0,9.0,10,8,17.0,20,12
+UBCV,2019,W,CPEN,491,,001,Computer Engineering Capstone Design Project,Amin Ghasemazar;Archita Borah;Cinar Kiper;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Jan Hammer;Jorge Lozano Rodriguez;Joseph Yan;Katharine Maginley;Katharine Suzanne Maginley;Kevin Dsouza;Maria Celeste Garcia Perez;Mohammad Mahdi Kazimi Esfeh;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Pedram Mohammadi;Philippe Kruchten;Pieter Botman;Saumya Shandilya;Stylianos Ploumis;Terry Lee;Varshini Baskar,92,85.51086957,5.354457043,95.0,60.0,0,0.0,0,1,0.0,0.0,0,2,36.0,29,24
+UBCV,2019,W,CPEN,491,,OVERALL,Computer Engineering Capstone Design Project,,92,85.51086957,5.354457043,95.0,60.0,0,0.0,0,1,0.0,0.0,0,2,36.0,29,24
+UBCV,2019,W,CPEN,502,,101,Architecture for Learning Systems,Jianzhe Lin;Sarbjit Sarkaria,50,87.26,7.652690603,98.0,62.0,0,0.0,0,1,0.0,2.0,2,2,6.0,12,25
+UBCV,2019,W,CPEN,502,,OVERALL,Architecture for Learning Systems,,50,87.26,7.652690603,98.0,62.0,0,0.0,0,1,0.0,2.0,2,2,6.0,12,25
+UBCV,2019,W,CPEN,511,,201,Advanced Computer Architecture,Dingqing Yang;Mieszko Lis;Parvathy Nair;Prashant Jayaprakash Nair;Prashant Nair,14,85.57142857,19.62225693,96.0,18.0,1,0.0,0,0,0.0,0.0,0,0,0.0,4,9
+UBCV,2019,W,CPEN,511,,OVERALL,Advanced Computer Architecture,,14,85.57142857,19.62225693,96.0,18.0,1,0.0,0,0,0.0,0.0,0,0,0.0,4,9
+UBCV,2019,W,CPEN,513,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,13,89.46153846,8.171244138,98.0,65.0,0,0.0,0,0,1.0,0.0,0,0,0.0,3,9
+UBCV,2019,W,CPEN,513,,OVERALL,CAD Algorithms for Integrated Circuits,,13,89.46153846,8.171244138,98.0,65.0,0,0.0,0,0,1.0,0.0,0,0,0.0,3,9
+UBCV,2019,W,CPEN,522,,201,Software Verification and Testing,Ali Mesbah;Rahul Krishna Yandrapally,38,81.97368421,7.242841171,92.0,60.0,0,0.0,0,1,2.0,0.0,1,8,11.0,11,4
+UBCV,2019,W,CPEN,522,,OVERALL,Software Verification and Testing,,38,81.97368421,7.242841171,92.0,60.0,0,0.0,0,1,2.0,0.0,1,8,11.0,11,4
+UBCV,2019,W,CPEN,523,,201,Software Project Management,Philippe Kruchten;Robert Fuller,15,82.26666667,6.745015797,94.0,68.0,0,0.0,0,0,0.0,1.0,1,4,4.0,3,2
+UBCV,2019,W,CPEN,523,,OVERALL,Software Project Management,,15,82.26666667,6.745015797,94.0,68.0,0,0.0,0,0,0.0,1.0,1,4,4.0,3,2
+UBCV,2019,W,CPEN,524,,201,Principles of Mobile Application Development and Analysis,Julia Rubin,10,86.1,4.998888765,94.0,77.0,0,0.0,0,0,0.0,0.0,0,2,0.0,7,1
+UBCV,2019,W,CPEN,524,,OVERALL,Principles of Mobile Application Development and Analysis,,10,86.1,4.998888765,94.0,77.0,0,0.0,0,0,0.0,0.0,0,2,0.0,7,1
+UBCV,2019,W,CPEN,541,,101,Human Interface Technologies,S Sidney Fels,7,83.0,2.943920289,86.0,79.0,0,0.0,0,0,0.0,0.0,0,1,3.0,3,0
+UBCV,2019,W,CPEN,541,,OVERALL,Human Interface Technologies,,7,83.0,2.943920289,86.0,79.0,0,0.0,0,0,0.0,0.0,0,1,3.0,3,0
+UBCV,2019,W,CPEN,542,,101,Cybersecurity,Borke Obada-Obieh;Konstantin Beznosov,17,77.94117647,8.234611316,91.0,62.0,0,0.0,0,1,1.0,1.0,3,5,2.0,3,1
+UBCV,2019,W,CPEN,542,,OVERALL,Cybersecurity,,17,77.94117647,8.234611316,91.0,62.0,0,0.0,0,1,1.0,1.0,3,5,2.0,3,1

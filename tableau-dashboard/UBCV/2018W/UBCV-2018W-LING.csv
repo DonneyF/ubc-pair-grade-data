@@ -1,92 +1,84 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,LING,100,,001,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Anne Bertrand;Hotze Rullmann;Neda Todorovic;Oksana Tkachman,176,76.136363636,12.227539705999998,96.0,8.0,,,6,9,12,19,26,24,30,27,19
-UBCV,2018,W,LING,100,,002,Introduction to Language and Linguistics,Erin Guntly;Heather Burge;Heather Dawn Burge;Hotze Rullmann;Rachel Soo;Ryan Taylor,150,80.266666667,10.582159652,94.0,11.0,,,,,6,9,11,17,42,40,17
-UBCV,2018,W,LING,100,,003,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Alexandra Bosurgi;Emanuela Mileva;Hotze Rullmann;Neda Todorovic;Oksana Tkachman;Stephanie Chung;Wai Man Lam,178,78.415730337,10.619041621000001,93.0,3.0,,,,5,9,13,21,33,35,42,14
-UBCV,2018,W,LING,100,,004,Introduction to Language and Linguistics,Arian Shamei;Gunnar Hansson;Hotze Rullmann;Ifeoluwanimi Adebara;Rachel Soo;Ryan Taylor;Yifang Yuan,148,78.324324324,13.65523807,95.0,5.0,6,,5,,9,10,11,15,35,30,24
-UBCV,2018,W,LING,100,,OVERALL,Introduction to Language and Linguistics,,652,78.205521472,11.863306199,96.0,3.0,13,4.0,16,19,36,51,69,89,142,139,74
-UBCV,2018,W,LING,101,,002,Languages of the World,Avery Ozburn;Strang Burton,190,72.736842105,12.726434204,98.0,15.0,3.0,11,8,21,24,17,26,21,20,24,15
-UBCV,2018,W,LING,101,,004,Languages of the World,Amanda Best Cardoso;Amanda Cardoso;Rose Underhill;Strang Burton,198,75.772727273,12.798075031,97.0,0.0,4.0,5,11,7,15,26,20,25,36,24,25
-UBCV,2018,W,LING,101,,005,Languages of the World,Daniel Reisinger;Strang Burton,179,75.441340782,12.549258915,98.0,50.0,0.0,14,11,9,13,17,19,21,23,29,23
-UBCV,2018,W,LING,101,,006,Languages of the World,Alexander Angsongna;Amanda Best Cardoso;Amanda Cardoso;Strang Burton,158,75.215189873,17.421833352,99.0,0.0,9,3.0,9,10,12,10,10,12,34,24,25
-UBCV,2018,W,LING,101,,OVERALL,Languages of the World,,725,74.773793103,13.88880974,99.0,0.0,16,33,39,47,64,70,75,79,113,101,88
-UBCV,2018,W,LING,140,,002,Challenging Language Myths,Laurel Brinton;Laurel Fais,37,71.216216216,11.79721044,90.0,30.0,,,,,5,,10,5,,,
-UBCV,2018,W,LING,140,,OVERALL,Challenging Language Myths,,37,71.216216216,11.79721044,90.0,30.0,,,,,5,,10,5,,,
-UBCV,2018,W,LING,170,,003,Introduction to How to Learn a Language,Alexander Angsongna;Rose Underhill;Strang Burton,47,77.489361702,10.662556061,91.0,40.0,,,,,,,6,6,13,10,
-UBCV,2018,W,LING,170,,OVERALL,Introduction to How to Learn a Language,,47,77.489361702,10.662556061,91.0,40.0,,,,,,,6,6,13,10,
-UBCV,2018,W,LING,200,,001,Linguistic Theory and Analysis I,Kathleen Hall;Stephanie Chung;Yadong Liu;Yifang Yuan,132,75.401515152,11.000249719000001,91.0,29.0,,,,9,,10,23,21,32,17,6
-UBCV,2018,W,LING,200,,OVERALL,Linguistic Theory and Analysis I,,132,75.401515152,11.000249719000001,91.0,29.0,,,,9,,10,23,21,32,17,6
-UBCV,2018,W,LING,201,,001,Linguistic Theory and Analysis II,Erin Guntly;Henry Thomas Davis;Johannes Heim;Marianne Huijsmans,133,76.917293233,12.23014477,100.0,35.0,5,,,6,9,9,14,21,25,21,16
-UBCV,2018,W,LING,201,,OVERALL,Linguistic Theory and Analysis II,,133,76.917293233,12.23014477,100.0,35.0,5,,,6,9,9,14,21,25,21,16
-UBCV,2018,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Anne-Michelle Tessier;Joseph Stemberger;Murray Henry Schellenberg;Murray Schellenberg;Wendy Amoako,179,75.988826816,12.290029222000001,95.0,10.0,6,,,5,9,12,32,32,55,17,9
-UBCV,2018,W,LING,209,,OVERALL,"Clinical Topics in Speech, Language, and Hearing Sciences",,179,75.988826816,12.290029222000001,95.0,10.0,6,,,5,9,12,32,32,55,17,9
-UBCV,2018,W,LING,222,,002,Language Acquisition,Carla Hudson Kam;Claire Moore-Cantwell;Mikayla Blumenthal;Wendy Amoako,101,85.237623762,9.934936854,97.0,37.0,,,,,,,,6,17,27,39
-UBCV,2018,W,LING,222,,OVERALL,Language Acquisition,,101,85.237623762,9.934936854,97.0,37.0,,,,,,,,6,17,27,39
-UBCV,2018,W,LING,270,,002,Introduction to Studies in Second Language Acquisition,Claire Moore-Cantwell;Ifeoluwanimi Adebara;Ifeoluwanimi Esther Adebara;Samuel Navarro Ortega,28,88.035714286,14.803608526,99.0,33.0,,,,,,,,,,,19
-UBCV,2018,W,LING,270,,OVERALL,Introduction to Studies in Second Language Acquisition,,28,88.035714286,14.803608526,99.0,33.0,,,,,,,,,,,19
-UBCV,2018,W,LING,300,,001,Studies in Grammar,Hermann Keupdjio;Rose-Marie Dechaine,58,81.913793103,15.358047759000002,94.0,12.0,,,,,1,1,3,,13,18,15
-UBCV,2018,W,LING,300,,002,Studies in Grammar,Hermann Keupdjio;Michael Rochemont;Rose-Marie Dechaine,59,76.966101695,12.748179183,92.0,45.0,,,,,5,5,6,,10,17,7
-UBCV,2018,W,LING,300,,OVERALL,Studies in Grammar,,117,79.418803419,14.259442919000001,94.0,12.0,,,,,6,6,9,,23,35,22
-UBCV,2018,W,LING,311,,001,Studies in Phonology,Douglas Pulleyblank;Samuel Akinbo;Samuel K Akinbo;Terrance Gatchalian,63,68.857142857,14.406379795,85.0,7.0,,,5,,8,10,6,14,9,2,
-UBCV,2018,W,LING,311,,002,Studies in Phonology,Douglas Pulleyblank;Samuel Akinbo;Samuel K Akinbo;Terrance Gatchalian,64,73.09375,9.016244159,89.0,50.0,,,4,,6,11,12,9,11,6,
-UBCV,2018,W,LING,311,,OVERALL,Studies in Phonology,,127,70.992125984,12.136456991,89.0,7.0,,,9,7,14,21,18,23,20,8,
-UBCV,2018,W,LING,313,,001,Introduction to Linguistic Phonetics and Speech Science,Marton Soskuthy;Michael Fry;Molly Babel,63,74.841269841,10.790088566,94.0,43.0,,,,,,9,6,14,11,5,5
-UBCV,2018,W,LING,313,,002,Introduction to Linguistic Phonetics and Speech Science,Marton Soskuthy;Michael Fry;Molly Babel,51,73.37254902,11.113884620999999,91.0,51.0,,,,,,7,5,10,7,6,2
-UBCV,2018,W,LING,313,,OVERALL,Introduction to Linguistic Phonetics and Speech Science,,114,74.184210526,10.912009937,94.0,43.0,1.0,7,6,5,8,16,11,24,18,11,7
-UBCV,2018,W,LING,314,,001,Instrumental Phonetics,Murray Henry Schellenberg;Murray Schellenberg;Yadong Liu,58,79.879310345,11.196925622,97.0,34.0,,,,,,,5,8,9,13,12
-UBCV,2018,W,LING,314,,OVERALL,Instrumental Phonetics,,58,79.879310345,11.196925622,97.0,34.0,,,,,,,5,8,9,13,12
-UBCV,2018,W,LING,319,,001,Historical Linguistics,Ifeoluwanimi Adebara;Ifeoluwanimi Esther Adebara;Valentina Colasanti,28,80.857142857,3.648584563,86.0,68.0,,,,,,,,5,19,,
-UBCV,2018,W,LING,319,,OVERALL,Historical Linguistics,,28,80.857142857,3.648584563,86.0,68.0,,,,,,,,5,19,,
-UBCV,2018,W,LING,327,,001,Introduction to Semantics,Hotze Rullmann;Neda Todorovic;Raiane Oliveira Salles,51,76.411764706,9.968302705,98.0,57.0,,,,5,,,8,10,8,8,
-UBCV,2018,W,LING,327,,OVERALL,Introduction to Semantics,,51,76.411764706,9.968302705,98.0,57.0,,,,5,,,8,10,8,8,
-UBCV,2018,W,LING,333,,001,Research Methods for Linguistics,Alexandra Bosurgi;Gudrun Gylfadottir;Joseph Stemberger,88,89.795454545,9.212883397,99.0,32.0,,,,,,,,,7,22,57
-UBCV,2018,W,LING,333,,OVERALL,Research Methods for Linguistics,,88,89.795454545,9.212883397,99.0,32.0,,,,,,,,,7,22,57
-UBCV,2018,W,LING,345,,002,Pragmatics,Daniel Reisinger;Hotze Rullmann;Lisa Matthewson,53,84.754716981,5.508404978,94.0,70.0,,,,,,,,5,18,16,11
-UBCV,2018,W,LING,345,,OVERALL,Pragmatics,,53,84.754716981,5.508404978,94.0,70.0,,,,,,,,5,18,16,11
-UBCV,2018,W,LING,405,,002,Morphology,Neda Todorovic,15,87.26666666700001,12.56677403,99.0,55.0,,,,,,,,,,,11
-UBCV,2018,W,LING,405,,OVERALL,Morphology,,15,87.26666666700001,12.56677403,99.0,55.0,,,,,,,,,,,11
-UBCV,2018,W,LING,410,,001,Advanced Phonology,Douglas Pulleyblank,9,81.666666667,10.271319292000001,90.0,63.0,,,,,,,,,,,
-UBCV,2018,W,LING,410,,OVERALL,Advanced Phonology,,9,81.666666667,10.271319292000001,90.0,63.0,,,,,,,,,,,
-UBCV,2018,W,LING,421,,001,Advanced Syntax,Henry Thomas Davis;Martina Wiltschko;Neda Todorovic,5,84.2,2.588435821,87.0,81.0,,,,,,,,,,,
-UBCV,2018,W,LING,421,,OVERALL,Advanced Syntax,,5,84.2,2.588435821,87.0,81.0,,,,,,,,,,,
-UBCV,2018,W,LING,425,,001,Advanced Semantics,Lisa Matthewson;Marcin Morzycki,9,87.555555556,7.551673838999999,100.0,75.0,,,,,,,,,,,
-UBCV,2018,W,LING,425,,OVERALL,Advanced Semantics,,9,87.555555556,7.551673838999999,100.0,75.0,,,,,,,,,,,
-UBCV,2018,W,LING,431,,001,Field Methods I,Lisa Matthewson;Rose-Marie Dechaine,12,85.416666667,6.501165397,91.0,66.0,,,,,,,,,,8,
-UBCV,2018,W,LING,431,,OVERALL,Field Methods I,,12,85.416666667,6.501165397,91.0,66.0,,,,,,,,,,8,
-UBCV,2018,W,LING,432,,001,Field Methods II,Lisa Matthewson;Rose-Marie Dechaine,5,85.2,12.557866060999999,93.0,63.0,,,,,,,,,,,
-UBCV,2018,W,LING,432,,OVERALL,Field Methods II,,5,85.2,12.557866060999999,93.0,63.0,,,,,,,,,,,
-UBCV,2018,W,LING,433,,001,Native Languages of the Americas,Suzanne Gessner,8,79.625,6.696214282000001,90.0,72.0,,,,,,,,,,,
-UBCV,2018,W,LING,433,,OVERALL,Native Languages of the Americas,,8,79.625,6.696214282000001,90.0,72.0,,,,,,,,,,,
-UBCV,2018,W,LING,445,,002,Sociolinguistics,Amanda Best Cardoso;Amanda Cardoso,25,80.84,13.624977064000001,96.0,25.0,,,,,,,,,6,5,5
-UBCV,2018,W,LING,445,,OVERALL,Sociolinguistics,,25,80.84,13.624977064000001,96.0,25.0,,,,,,,,,6,5,5
-UBCV,2018,W,LING,447,G,001,Topics in Linguistics,Julian Brooke,30,76.3,14.377065069,100.0,51.0,,,,,,,,,,,7
-UBCV,2018,W,LING,447,G,OVERALL,Topics in Linguistics,,30,76.3,14.377065069,100.0,51.0,,,,,,,,,,,7
-UBCV,2018,W,LING,447,H,001,Topics in Linguistics,Anita Harding;Anita T Harding,29,88.482758621,9.383194284,98.0,50.0,,,,,,,,,5,6,16
-UBCV,2018,W,LING,447,H,OVERALL,Topics in Linguistics,,29,88.482758621,9.383194284,98.0,50.0,,,,,,,,,5,6,16
-UBCV,2018,W,LING,447,Q,001,Topics in Linguistics,Kathleen Hall,26,86.423076923,4.826369873,93.0,70.0,,,,,,,,,5,14,6
-UBCV,2018,W,LING,447,Q,OVERALL,Topics in Linguistics,,26,86.423076923,4.826369873,93.0,70.0,,,,,,,,,5,14,6
-UBCV,2018,W,LING,447,S,001,Topics in Linguistics,Gudrun Gylfadottir,25,86.36,10.653168543,97.0,38.0,,,,,,,,,,15,7
-UBCV,2018,W,LING,447,S,OVERALL,Topics in Linguistics,,25,86.36,10.653168543,97.0,38.0,,,,,,,,,,15,7
-UBCV,2018,W,LING,447,T,001,Topics in Linguistics,Valentina Colasanti,16,85.5,5.329165038,93.0,75.0,,,,,,,,,,6,
-UBCV,2018,W,LING,447,T,OVERALL,Topics in Linguistics,,16,85.5,5.329165038,93.0,75.0,,,,,,,,,,6,
-UBCV,2018,W,LING,451,,001,Acquisition of Phonology,Anne Michelle Tessier;Anne Tessier;Anne Tressier;Anne-Michelle Tessier;Gloria Mellesmoen;Joseph Stemberger,47,77.12765957399999,13.952741699,100.0,23.0,,,,,5,5,,6,12,,9
-UBCV,2018,W,LING,451,,OVERALL,Acquisition of Phonology,,47,77.12765957399999,13.952741699,100.0,23.0,,,,,5,5,,6,12,,9
-UBCV,2018,W,LING,452,,001,Acquisition of Syntax,Carla Hudson Kam;Johannes Heim;Martina Wiltschko,32,83.15625,7.796233065,96.0,63.0,,,,,,,,,8,10,5
-UBCV,2018,W,LING,452,,OVERALL,Acquisition of Syntax,,32,83.15625,7.796233065,96.0,63.0,,,,,,,,,8,10,5
-UBCV,2018,W,LING,508,,001,Phonetic Theory & Analysis,Gudrun Gylfadottir;Molly Babel,5,83.4,8.905054744,93.0,70.0,,,,,,,,,,,
-UBCV,2018,W,LING,508,,OVERALL,Phonetic Theory & Analysis,,5,83.4,8.905054744,93.0,70.0,,,,,,,,,,,
-UBCV,2018,W,LING,510,,001,Phonological Theory and Analysis,Douglas Pulleyblank,6,86.666666667,2.065591118,89.0,84.0,,,,,,,,,,5,
-UBCV,2018,W,LING,510,,OVERALL,Phonological Theory and Analysis,,6,86.666666667,2.065591118,89.0,84.0,,,,,,,,,,5,
-UBCV,2018,W,LING,511,,001,Topics in Phonology,Gunnar Hansson,7,80.428571429,16.731777579,89.0,43.0,,,,,,,,,,5,
-UBCV,2018,W,LING,511,,OVERALL,Topics in Phonology,,7,80.428571429,16.731777579,89.0,43.0,,,,,,,,,,5,
-UBCV,2018,W,LING,520,,001,Syntactic Theory and Analysis,Henry Thomas Davis;Martina Wiltschko;Michael Rochemont;Neda Todorovic,8,78.625,17.654926467,86.0,35.0,,,,,,,,,,5,
-UBCV,2018,W,LING,520,,OVERALL,Syntactic Theory and Analysis,,8,78.625,17.654926467,86.0,35.0,,,,,,,,,,5,
-UBCV,2018,W,LING,530,B,001,Linguistic Problems in a Special Area,Julian Brooke,7,89.285714286,3.98807747,95.0,84.0,,,,,,,,,,,
-UBCV,2018,W,LING,530,B,OVERALL,Linguistic Problems in a Special Area,,7,89.285714286,3.98807747,95.0,84.0,,,,,,,,,,,
-UBCV,2018,W,LING,530,F,001,Linguistic Problems in a Special Area,Muhammad Abdul-Mageed;Yan Liu,21,85.380952381,1.8835124230000002,89.0,83.0,,,,,,,,,8,13,
-UBCV,2018,W,LING,530,F,OVERALL,Linguistic Problems in a Special Area,,21,85.380952381,1.8835124230000002,89.0,83.0,,,,,,,,,8,13,
-UBCV,2018,W,LING,531,,001,Field Methods in Linguistics I,Lisa Matthewson;Rose-Marie Dechaine,8,84.875,14.970804922000001,92.0,48.0,,,,,,,,,,,
-UBCV,2018,W,LING,531,,OVERALL,Field Methods in Linguistics I,,8,84.875,14.970804922000001,92.0,48.0,,,,,,,,,,,
-UBCV,2018,W,LING,532,,001,Field Methods in Linguistics II,Lisa Matthewson;Rose-Marie Dechaine,7,91.714285714,1.799470822,93.0,88.0,,,,,,,,,,,6
-UBCV,2018,W,LING,532,,OVERALL,Field Methods in Linguistics II,,7,91.714285714,1.799470822,93.0,88.0,,,,,,,,,,,6
-UBCV,2018,W,LING,546,A,002,Directed Reading in Topics related to Linguistics,Muhammad Abdul-Mageed,5,85.4,0.5477225579999999,86.0,85.0,,,,,,,,,,5,
-UBCV,2018,W,LING,546,A,OVERALL,Directed Reading in Topics related to Linguistics,,5,85.4,0.5477225579999999,86.0,85.0,,,,,,,,,,5,
+UBCV,2018,W,LING,100,,001,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Anne Bertrand;Hotze Rullmann;Neda Todorovic;Oksana Tkachman,176,76.13636364,12.22753971,96.0,8.0,3,1.0,6.0,9.0,12,19,26,24.0,30.0,27,19
+UBCV,2018,W,LING,100,,002,Introduction to Language and Linguistics,Erin Guntly;Heather Burge;Heather Dawn Burge;Hotze Rullmann;Rachel Soo;Ryan Taylor,150,80.26666667,10.58215965,94.0,11.0,2,0.0,2.0,4.0,6,9,11,17.0,42.0,40,17
+UBCV,2018,W,LING,100,,003,Introduction to Language and Linguistics,Adriana Osa Gomez Del Campo;Alexandra Bosurgi;Emanuela Mileva;Hotze Rullmann;Neda Todorovic;Oksana Tkachman;Stephanie Chung;Wai Man Lam,178,78.41573034,10.61904162,93.0,3.0,2,1.0,3.0,5.0,9,13,21,33.0,35.0,42,14
+UBCV,2018,W,LING,100,,004,Introduction to Language and Linguistics,Arian Shamei;Gunnar Hansson;Hotze Rullmann;Ifeoluwanimi Adebara;Rachel Soo;Ryan Taylor;Yifang Yuan,148,78.32432432,13.65523807,95.0,5.0,6,2.0,5.0,1.0,9,10,11,15.0,35.0,30,24
+UBCV,2018,W,LING,100,,OVERALL,Introduction to Language and Linguistics,,652,78.20552147,11.8633062,96.0,3.0,13,4.0,16.0,19.0,36,51,69,89.0,142.0,139,74
+UBCV,2018,W,LING,101,,002,Languages of the World,Avery Ozburn;Strang Burton,190,72.73684211,12.7264342,98.0,15.0,3,11.0,8.0,21.0,24,17,26,21.0,20.0,24,15
+UBCV,2018,W,LING,101,,004,Languages of the World,Amanda Best Cardoso;Amanda Cardoso;Rose Underhill;Strang Burton,198,75.77272727,12.79807503,97.0,0.0,4,5.0,11.0,7.0,15,26,20,25.0,36.0,24,25
+UBCV,2018,W,LING,101,,005,Languages of the World,Daniel Reisinger;Strang Burton,179,75.44134078,12.54925892,98.0,50.0,0,14.0,11.0,9.0,13,17,19,21.0,23.0,29,23
+UBCV,2018,W,LING,101,,006,Languages of the World,Alexander Angsongna;Amanda Best Cardoso;Amanda Cardoso;Strang Burton,158,75.21518987,17.42183335,99.0,0.0,9,3.0,9.0,10.0,12,10,10,12.0,34.0,24,25
+UBCV,2018,W,LING,101,,OVERALL,Languages of the World,,725,74.7737931,13.88880974,99.0,0.0,16,33.0,39.0,47.0,64,70,75,79.0,113.0,101,88
+UBCV,2018,W,LING,140,,002,Challenging Language Myths,Laurel Brinton;Laurel Fais,37,71.21621622,11.79721044,90.0,30.0,2,0.0,4.0,1.0,5,3,10,5.0,2.0,4,1
+UBCV,2018,W,LING,140,,OVERALL,Challenging Language Myths,,37,71.21621622,11.79721044,90.0,30.0,2,0.0,4.0,1.0,5,3,10,5.0,2.0,4,1
+UBCV,2018,W,LING,170,,003,Introduction to How to Learn a Language,Alexander Angsongna;Rose Underhill;Strang Burton,47,77.4893617,10.66255606,91.0,40.0,1,1.0,2.0,0.0,3,3,6,6.0,13.0,10,2
+UBCV,2018,W,LING,170,,OVERALL,Introduction to How to Learn a Language,,47,77.4893617,10.66255606,91.0,40.0,1,1.0,2.0,0.0,3,3,6,6.0,13.0,10,2
+UBCV,2018,W,LING,200,,001,Linguistic Theory and Analysis I,Kathleen Hall;Stephanie Chung;Yadong Liu;Yifang Yuan,132,75.40151515,11.00024972,91.0,29.0,4,2.0,4.0,9.0,4,10,23,21.0,32.0,17,6
+UBCV,2018,W,LING,200,,OVERALL,Linguistic Theory and Analysis I,,132,75.40151515,11.00024972,91.0,29.0,4,2.0,4.0,9.0,4,10,23,21.0,32.0,17,6
+UBCV,2018,W,LING,201,,001,Linguistic Theory and Analysis II,Erin Guntly;Henry Thomas Davis;Johannes Heim;Marianne Huijsmans,133,76.91729323,12.23014477,100.0,35.0,5,3.0,4.0,6.0,9,9,14,21.0,25.0,21,16
+UBCV,2018,W,LING,201,,OVERALL,Linguistic Theory and Analysis II,,133,76.91729323,12.23014477,100.0,35.0,5,3.0,4.0,6.0,9,9,14,21.0,25.0,21,16
+UBCV,2018,W,LING,209,,002,"Clinical Topics in Speech, Language, and Hearing Sciences",Anne-Michelle Tessier;Joseph Stemberger;Murray Henry Schellenberg;Murray Schellenberg;Wendy Amoako,179,75.98882682,12.29002922,95.0,10.0,6,0.0,2.0,5.0,9,12,32,32.0,55.0,17,9
+UBCV,2018,W,LING,209,,OVERALL,"Clinical Topics in Speech, Language, and Hearing Sciences",,179,75.98882682,12.29002922,95.0,10.0,6,0.0,2.0,5.0,9,12,32,32.0,55.0,17,9
+UBCV,2018,W,LING,222,,002,Language Acquisition,Carla Hudson Kam;Claire Moore-Cantwell;Mikayla Blumenthal;Wendy Amoako,101,85.23762376,9.934936854,97.0,37.0,2,0.0,0.0,2.0,3,1,4,6.0,17.0,27,39
+UBCV,2018,W,LING,222,,OVERALL,Language Acquisition,,101,85.23762376,9.934936854,97.0,37.0,2,0.0,0.0,2.0,3,1,4,6.0,17.0,27,39
+UBCV,2018,W,LING,270,,002,Introduction to Studies in Second Language Acquisition,Claire Moore-Cantwell;Ifeoluwanimi Adebara;Ifeoluwanimi Esther Adebara;Samuel Navarro Ortega,28,88.03571429,14.80360853,99.0,33.0,2,0.0,0.0,0.0,0,0,0,2.0,1.0,4,19
+UBCV,2018,W,LING,270,,OVERALL,Introduction to Studies in Second Language Acquisition,,28,88.03571429,14.80360853,99.0,33.0,2,0.0,0.0,0.0,0,0,0,2.0,1.0,4,19
+UBCV,2018,W,LING,300,,001,Studies in Grammar,Hermann Keupdjio;Rose-Marie Dechaine,58,81.9137931,15.35804776,94.0,12.0,2,0.0,1.0,1.0,1,1,3,3.0,13.0,18,15
+UBCV,2018,W,LING,300,,002,Studies in Grammar,Hermann Keupdjio;Michael Rochemont;Rose-Marie Dechaine,59,76.9661017,12.74817918,92.0,45.0,2,2.0,3.0,2.0,5,5,6,0.0,10.0,17,7
+UBCV,2018,W,LING,300,,OVERALL,Studies in Grammar,,117,79.41880342,14.25944292,94.0,12.0,4,2.0,4.0,3.0,6,6,9,3.0,23.0,35,22
+UBCV,2018,W,LING,311,,001,Studies in Phonology,Douglas Pulleyblank;Samuel Akinbo;Samuel K Akinbo;Terrance Gatchalian,63,68.85714286,14.4063798,85.0,7.0,3,2.0,5.0,4.0,8,10,6,14.0,9.0,2,0
+UBCV,2018,W,LING,311,,002,Studies in Phonology,Douglas Pulleyblank;Samuel Akinbo;Samuel K Akinbo;Terrance Gatchalian,64,73.09375,9.016244159,89.0,50.0,0,2.0,4.0,3.0,6,11,12,9.0,11.0,6,0
+UBCV,2018,W,LING,311,,OVERALL,Studies in Phonology,,127,70.99212598,12.13645699,89.0,7.0,3,4.0,9.0,7.0,14,21,18,23.0,20.0,8,0
+UBCV,2018,W,LING,313,,001,Introduction to Linguistic Phonetics and Speech Science,Marton Soskuthy;Michael Fry;Molly Babel,63,74.84126984,10.79008857,94.0,43.0,1,3.0,2.0,3.0,4,9,6,14.0,11.0,5,5
+UBCV,2018,W,LING,313,,002,Introduction to Linguistic Phonetics and Speech Science,Marton Soskuthy;Michael Fry;Molly Babel,51,73.37254902,11.11388462,91.0,51.0,0,4.0,4.0,2.0,4,7,5,10.0,7.0,6,2
+UBCV,2018,W,LING,313,,OVERALL,Introduction to Linguistic Phonetics and Speech Science,,114,74.18421053,10.91200994,94.0,43.0,1,7.0,6.0,5.0,8,16,11,24.0,18.0,11,7
+UBCV,2018,W,LING,314,,001,Instrumental Phonetics,Murray Henry Schellenberg;Murray Schellenberg;Yadong Liu,58,79.87931035,11.19692562,97.0,34.0,1,1.0,0.0,2.0,3,4,5,8.0,9.0,13,12
+UBCV,2018,W,LING,314,,OVERALL,Instrumental Phonetics,,58,79.87931035,11.19692562,97.0,34.0,1,1.0,0.0,2.0,3,4,5,8.0,9.0,13,12
+UBCV,2018,W,LING,319,,001,Historical Linguistics,Ifeoluwanimi Adebara;Ifeoluwanimi Esther Adebara;Valentina Colasanti,28,80.85714286,3.648584563,86.0,68.0,0,0.0,0.0,0.0,0,1,2,5.0,19.0,1,0
+UBCV,2018,W,LING,319,,OVERALL,Historical Linguistics,,28,80.85714286,3.648584563,86.0,68.0,0,0.0,0.0,0.0,0,1,2,5.0,19.0,1,0
+UBCV,2018,W,LING,327,,001,Introduction to Semantics,Hotze Rullmann;Neda Todorovic;Raiane Oliveira Salles,51,76.41176471,9.968302705,98.0,57.0,0,0.0,4.0,5.0,1,3,8,10.0,8.0,8,4
+UBCV,2018,W,LING,327,,OVERALL,Introduction to Semantics,,51,76.41176471,9.968302705,98.0,57.0,0,0.0,4.0,5.0,1,3,8,10.0,8.0,8,4
+UBCV,2018,W,LING,333,,001,Research Methods for Linguistics,Alexandra Bosurgi;Gudrun Gylfadottir;Joseph Stemberger,88,89.79545455,9.212883397,99.0,32.0,2,0.0,0.0,0.0,0,0,0,0.0,7.0,22,57
+UBCV,2018,W,LING,333,,OVERALL,Research Methods for Linguistics,,88,89.79545455,9.212883397,99.0,32.0,2,0.0,0.0,0.0,0,0,0,0.0,7.0,22,57
+UBCV,2018,W,LING,345,,002,Pragmatics,Daniel Reisinger;Hotze Rullmann;Lisa Matthewson,53,84.75471698,5.508404978,94.0,70.0,0,0.0,0.0,0.0,0,1,2,5.0,18.0,16,11
+UBCV,2018,W,LING,345,,OVERALL,Pragmatics,,53,84.75471698,5.508404978,94.0,70.0,0,0.0,0.0,0.0,0,1,2,5.0,18.0,16,11
+UBCV,2018,W,LING,405,,002,Morphology,Neda Todorovic,15,87.26666667,12.56677403,99.0,55.0,0,0.0,1.0,1.0,0,0,0,0.0,1.0,1,11
+UBCV,2018,W,LING,405,,OVERALL,Morphology,,15,87.26666667,12.56677403,99.0,55.0,0,0.0,1.0,1.0,0,0,0,0.0,1.0,1,11
+UBCV,2018,W,LING,410,,001,Advanced Phonology,Douglas Pulleyblank,9,81.66666667,10.27131929,90.0,63.0,0,0.0,0.0,1.0,1,0,0,0.0,1.0,4,2
+UBCV,2018,W,LING,410,,OVERALL,Advanced Phonology,,9,81.66666667,10.27131929,90.0,63.0,0,0.0,0.0,1.0,1,0,0,0.0,1.0,4,2
+UBCV,2018,W,LING,425,,001,Advanced Semantics,Lisa Matthewson;Marcin Morzycki,9,87.55555556,7.551673839,100.0,75.0,0,0.0,0.0,0.0,0,0,1,0.0,2.0,2,4
+UBCV,2018,W,LING,425,,OVERALL,Advanced Semantics,,9,87.55555556,7.551673839,100.0,75.0,0,0.0,0.0,0.0,0,0,1,0.0,2.0,2,4
+UBCV,2018,W,LING,431,,001,Field Methods I,Lisa Matthewson;Rose-Marie Dechaine,12,85.41666667,6.501165397,91.0,66.0,0,0.0,0.0,0.0,1,0,0,0.0,2.0,8,1
+UBCV,2018,W,LING,431,,OVERALL,Field Methods I,,12,85.41666667,6.501165397,91.0,66.0,0,0.0,0.0,0.0,1,0,0,0.0,2.0,8,1
+UBCV,2018,W,LING,433,,001,Native Languages of the Americas,Suzanne Gessner,8,79.625,6.696214282,90.0,72.0,0,0.0,0.0,0.0,0,0,3,1.0,1.0,2,1
+UBCV,2018,W,LING,433,,OVERALL,Native Languages of the Americas,,8,79.625,6.696214282,90.0,72.0,0,0.0,0.0,0.0,0,0,3,1.0,1.0,2,1
+UBCV,2018,W,LING,445,,002,Sociolinguistics,Amanda Best Cardoso;Amanda Cardoso,25,80.84,13.62497706,96.0,25.0,1,0.0,0.0,0.0,0,2,2,4.0,6.0,5,5
+UBCV,2018,W,LING,445,,OVERALL,Sociolinguistics,,25,80.84,13.62497706,96.0,25.0,1,0.0,0.0,0.0,0,2,2,4.0,6.0,5,5
+UBCV,2018,W,LING,447,G,001,Topics in Linguistics,Julian Brooke,30,76.3,14.37706507,100.0,51.0,0,2.0,3.0,3.0,1,1,4,3.0,2.0,4,7
+UBCV,2018,W,LING,447,G,OVERALL,Topics in Linguistics,,30,76.3,14.37706507,100.0,51.0,0,2.0,3.0,3.0,1,1,4,3.0,2.0,4,7
+UBCV,2018,W,LING,447,H,001,Topics in Linguistics,Anita Harding;Anita T Harding,29,88.48275862,9.383194284,98.0,50.0,0,1.0,0.0,0.0,0,0,0,1.0,5.0,6,16
+UBCV,2018,W,LING,447,H,OVERALL,Topics in Linguistics,,29,88.48275862,9.383194284,98.0,50.0,0,1.0,0.0,0.0,0,0,0,1.0,5.0,6,16
+UBCV,2018,W,LING,447,Q,001,Topics in Linguistics,Kathleen Hall,26,86.42307692,4.826369873,93.0,70.0,0,0.0,0.0,0.0,0,1,0,0.0,5.0,14,6
+UBCV,2018,W,LING,447,Q,OVERALL,Topics in Linguistics,,26,86.42307692,4.826369873,93.0,70.0,0,0.0,0.0,0.0,0,1,0,0.0,5.0,14,6
+UBCV,2018,W,LING,447,S,001,Topics in Linguistics,Gudrun Gylfadottir,25,86.36,10.65316854,97.0,38.0,1,0.0,0.0,0.0,0,0,0,0.0,2.0,15,7
+UBCV,2018,W,LING,447,S,OVERALL,Topics in Linguistics,,25,86.36,10.65316854,97.0,38.0,1,0.0,0.0,0.0,0,0,0,0.0,2.0,15,7
+UBCV,2018,W,LING,447,T,001,Topics in Linguistics,Valentina Colasanti,16,85.5,5.329165038,93.0,75.0,0,0.0,0.0,0.0,0,0,1,1.0,4.0,6,4
+UBCV,2018,W,LING,447,T,OVERALL,Topics in Linguistics,,16,85.5,5.329165038,93.0,75.0,0,0.0,0.0,0.0,0,0,1,1.0,4.0,6,4
+UBCV,2018,W,LING,451,,001,Acquisition of Phonology,Anne Michelle Tessier;Anne Tessier;Anne Tressier;Anne-Michelle Tessier;Gloria Mellesmoen;Joseph Stemberger,47,77.12765957,13.9527417,100.0,23.0,2,0.0,0.0,2.0,5,5,4,6.0,12.0,2,9
+UBCV,2018,W,LING,451,,OVERALL,Acquisition of Phonology,,47,77.12765957,13.9527417,100.0,23.0,2,0.0,0.0,2.0,5,5,4,6.0,12.0,2,9
+UBCV,2018,W,LING,452,,001,Acquisition of Syntax,Carla Hudson Kam;Johannes Heim;Martina Wiltschko,32,83.15625,7.796233065,96.0,63.0,0,0.0,0.0,1.0,1,1,2,4.0,8.0,10,5
+UBCV,2018,W,LING,452,,OVERALL,Acquisition of Syntax,,32,83.15625,7.796233065,96.0,63.0,0,0.0,0.0,1.0,1,1,2,4.0,8.0,10,5
+UBCV,2018,W,LING,510,,001,Phonological Theory and Analysis,Douglas Pulleyblank,6,86.66666667,2.065591118,89.0,84.0,0,0.0,0.0,0.0,0,0,0,0.0,1.0,5,0
+UBCV,2018,W,LING,510,,OVERALL,Phonological Theory and Analysis,,6,86.66666667,2.065591118,89.0,84.0,0,0.0,0.0,0.0,0,0,0,0.0,1.0,5,0
+UBCV,2018,W,LING,511,,001,Topics in Phonology,Gunnar Hansson,7,86.57142857,2.760262237,89.0,81.0,0,0.0,0.0,0.0,0,0,0,0.0,1.0,6,0
+UBCV,2018,W,LING,511,,OVERALL,Topics in Phonology,,7,86.57142857,2.760262237,89.0,81.0,0,0.0,0.0,0.0,0,0,0,0.0,1.0,6,0
+UBCV,2018,W,LING,520,,001,Syntactic Theory and Analysis,Henry Thomas Davis;Martina Wiltschko;Michael Rochemont;Neda Todorovic,7,84.85714286,1.069044968,86.0,83.0,0,0.0,0.0,0.0,0,0,0,0.0,2.0,5,0
+UBCV,2018,W,LING,520,,OVERALL,Syntactic Theory and Analysis,,7,84.85714286,1.069044968,86.0,83.0,0,0.0,0.0,0.0,0,0,0,0.0,2.0,5,0
+UBCV,2018,W,LING,530,B,001,Linguistic Problems in a Special Area,Julian Brooke,7,89.28571429,3.98807747,95.0,84.0,0,0.0,0.0,0.0,0,0,0,0.0,1.0,4,2
+UBCV,2018,W,LING,530,B,OVERALL,Linguistic Problems in a Special Area,,7,89.28571429,3.98807747,95.0,84.0,0,0.0,0.0,0.0,0,0,0,0.0,1.0,4,2
+UBCV,2018,W,LING,530,F,001,Linguistic Problems in a Special Area,Muhammad Abdul-Mageed;Yan Liu,21,85.38095238,1.883512423,89.0,83.0,0,0.0,0.0,0.0,0,0,0,0.0,8.0,13,0
+UBCV,2018,W,LING,530,F,OVERALL,Linguistic Problems in a Special Area,,21,85.38095238,1.883512423,89.0,83.0,0,0.0,0.0,0.0,0,0,0,0.0,8.0,13,0
+UBCV,2018,W,LING,531,,001,Field Methods in Linguistics I,Lisa Matthewson;Rose-Marie Dechaine,8,88.5,4.869731585,92.0,77.0,0,0.0,0.0,0.0,0,0,0,1.0,0.0,3,4
+UBCV,2018,W,LING,531,,OVERALL,Field Methods in Linguistics I,,8,88.5,4.869731585,92.0,77.0,0,0.0,0.0,0.0,0,0,0,1.0,0.0,3,4
+UBCV,2018,W,LING,532,,001,Field Methods in Linguistics II,Lisa Matthewson;Rose-Marie Dechaine,7,91.71428571,1.799470822,93.0,88.0,0,0.0,0.0,0.0,0,0,0,0.0,0.0,1,6
+UBCV,2018,W,LING,532,,OVERALL,Field Methods in Linguistics II,,7,91.71428571,1.799470822,93.0,88.0,0,0.0,0.0,0.0,0,0,0,0.0,0.0,1,6

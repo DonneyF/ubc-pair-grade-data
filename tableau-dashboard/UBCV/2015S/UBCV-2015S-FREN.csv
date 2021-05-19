@@ -1,16 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,S,FREN,101,,921,Beginners' French I,Juliet O'Brien,31,76.58064516,8.785496357000001,92.0,53.0,,,,,,,,6,7,,
-UBCV,2015,S,FREN,101,,OVERALL,Beginners' French I,,31,76.580645161,8.785496357000001,92.0,53.0,,,,,,,,6,7,,
+UBCV,2015,S,FREN,101,,921,Beginners' French I,Juliet O'Brien,31,76.58064516,8.785496357,92.0,53.0,0,,,,,,,6,7,,
+UBCV,2015,S,FREN,101,,OVERALL,Beginners' French I,,31,76.580645161,8.785496357,92.0,53.0,0,,,,,,,6,7,,
 UBCV,2015,S,FREN,102,,921,Beginners' French II,Michael O'Hagan,29,72.31034483,13.11515876,93.0,33.0,,,,,,,,,6,,
-UBCV,2015,S,FREN,102,,922,Beginners' French II,Chantal Phan,13,73.92307692,11.89861013,93.0,60.0,,,,,,,,,1,,
-UBCV,2015,S,FREN,102,,OVERALL,Beginners' French II,,42,72.80952381,12.628342292000001,93.0,33.0,,,,6,,6,,,7,,5
+UBCV,2015,S,FREN,102,,922,Beginners' French II,Chantal Phan,13,73.92307692,11.89861013,93.0,60.0,0,0,0,,,,,,1,,
+UBCV,2015,S,FREN,102,,OVERALL,Beginners' French II,,42,72.80952381,12.628342292,93.0,33.0,,,,6,,6,,,7,,5
 UBCV,2015,S,FREN,111,,921,Intermediate French I,William Winder,26,71.53846154,16.23879495,94.0,17.0,,,,,,5,3,,,,
-UBCV,2015,S,FREN,111,,922,Intermediate French I,Stephanie Palisse,29,72.17241379,10.70737051,90.0,50.0,,,,,,5,6,,,,
+UBCV,2015,S,FREN,111,,922,Intermediate French I,Stephanie Palisse,29,72.17241379,10.70737051,90.0,50.0,0,,,,,5,6,,,,
 UBCV,2015,S,FREN,111,,OVERALL,Intermediate French I,,55,71.872727273,13.477078683,94.0,17.0,,,,6,,10,9,,5,7,
-UBCV,2015,S,FREN,112,,921,Intermediate French II,Sylvia Bascou Vallarino,20,75.7,10.56857308,92.0,51.0,,,,,,,,5,,,
-UBCV,2015,S,FREN,112,,922,Intermediate French II,Sylvia Bascou Vallarino,20,73.1,9.898963262999999,88.0,51.0,,,,,,,,0,,,
-UBCV,2015,S,FREN,112,,OVERALL,Intermediate French II,,40,74.4,10.192506045,92.0,51.0,,,,,5,,6,5,6,6,
-UBCV,2015,S,FREN,221,,921,Introduction to Modern Literature written in French and to Textual Analysis,Alain-Michel Rocheleau,16,76.375,3.9136513219999998,81.0,70.0,,,,,,,6,,6,,
-UBCV,2015,S,FREN,221,,OVERALL,Introduction to Modern Literature written in French and to Textual Analysis,,16,76.375,3.9136513219999998,81.0,70.0,,,,,,,6,,6,,
-UBCV,2015,S,FREN,420,F,921,Selected Topics in French Literature and Culture,Anne Scott,19,80.84210526,7.017938585,98.0,68.0,,,,,,,,,7,,
-UBCV,2015,S,FREN,420,F,OVERALL,Selected Topics in French Literature and Culture,,19,80.84210526300001,7.017938585,98.0,68.0,,,,,,,,,7,,
+UBCV,2015,S,FREN,112,,921,Intermediate French II,Sylvia Bascou Vallarino,20,75.7,10.56857308,92.0,51.0,0,,,,,,,5,,,
+UBCV,2015,S,FREN,112,,922,Intermediate French II,Sylvia Bascou Vallarino,20,73.1,9.898963263,88.0,51.0,0,,,,,,,0,,,0
+UBCV,2015,S,FREN,112,,OVERALL,Intermediate French II,,40,74.4,10.192506045,92.0,51.0,0,,,,5,,6,5,6,6,
+UBCV,2015,S,FREN,221,,921,Introduction to Modern Literature written in French and to Textual Analysis,Alain-Michel Rocheleau,16,76.375,3.913651322,81.0,70.0,0,0,0,0,0,,6,,6,0,0
+UBCV,2015,S,FREN,221,,OVERALL,Introduction to Modern Literature written in French and to Textual Analysis,,16,76.375,3.913651322,81.0,70.0,0,0,0,0,0,,6,,6,0,0
+UBCV,2015,S,FREN,420,F,921,Selected Topics in French Literature and Culture,Anne Scott,19,80.84210526,7.017938585,98.0,68.0,0,0,0,0,0,,,,7,,
+UBCV,2015,S,FREN,420,F,OVERALL,Selected Topics in French Literature and Culture,,19,80.842105263,7.017938585,98.0,68.0,0,0,0,0,0,,,,7,,

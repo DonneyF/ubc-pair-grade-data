@@ -1,95 +1,87 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2018,W,PSYO,111,,001,Introduction to Psychology: Basic Processes,Harsha Bhamra;Haylie Gibb;Holli-Anne Passmore;Mark Holder;Yun-Han Wang;Yun-Lin Wang,189,71.513227513,12.789876509,98.0,28.0,6,7,16,18,29,18,22,23,20,11,19
-UBCO,2018,W,PSYO,111,,002,Introduction to Psychology: Basic Processes,Hailee Lewis;Hailee Nicole Lewis;Holli-Anne Passmore;Mark Holder;Yun-Han Wang;Yun-Lin Wang,284,69.316901408,15.3027722,100.0,0.0,25,10,23,29,29,34,33,28,29,27,17
-UBCO,2018,W,PSYO,111,,003,Introduction to Psychology: Basic Processes,Brooke Dudley;Kailey Melna;Maia Terran;Shirley Hutchinson,114,73.28070175399999,13.475319145,99.0,37.0,4.0,10,5,10,6,10,12,18,14,13,12
-UBCO,2018,W,PSYO,111,,004,Introduction to Psychology: Basic Processes,Annick Langlois;Brooke Dudley;Maia Terran;Renee Berger;Renee Marie Berger;Shirley Hutchinson,296,70.19594594600001,14.583091570999999,100.0,18.0,21,16,27,32,34,29,25,27,32,29,24
-UBCO,2018,W,PSYO,111,,101,Introduction to Psychology: Basic Processes,Harsha Bhamra;Haylie Gibb;Kailey Melna;Paul Gabias,190,65.836842105,17.71197277,97.0,0.0,28,18,15,18,16,23,15,17,14,9,17
-UBCO,2018,W,PSYO,111,,102,Introduction to Psychology: Basic Processes,Cassidy Wallis;Maia Terran;Shirley Hutchinson,194,72.79896907199999,13.708882902000001,99.0,0.0,6,9,15,25,12,18,19,23,24,26,17
-UBCO,2018,W,PSYO,111,,OVERALL,Introduction to Psychology: Basic Processes,,1267,70.217837411,14.935349801,100.0,0.0,90,70,101,132,126,132,126,136,133,115,106
-UBCO,2018,W,PSYO,121,,001,Introduction to Psychology: Personal Functioning,Derrick Wirtz;Lydia Wood;Taylor Mccreary,103,72.757281553,10.587141682999999,93.0,39.0,5,,,8,7,19,13,17,15,13,1
-UBCO,2018,W,PSYO,121,,101,Introduction to Psychology: Personal Functioning,Derrick Wirtz;Sarah Sanders;Yun-Han Wang;Yun-Lin Wang,99,76.929292929,12.174121537000001,96.0,23.0,,,,10,4,9,10,14,17,13,16
-UBCO,2018,W,PSYO,121,,102,Introduction to Psychology: Personal Functioning,Derrick Wirtz;Sarah Sanders;Yun-Han Wang;Yun-Lin Wang,99,75.383838384,13.510167804000002,99.0,0.0,,,,9,7,15,14,10,15,14,11
-UBCO,2018,W,PSYO,121,,103,Introduction to Psychology: Personal Functioning,Ellie Fedec;Hailee Lewis;Hailee Nicole Lewis;Harsha Bhamra;Susan Holtzman,160,71.21875,13.094082333,97.0,39.0,7,12,12,17,17,21,16,9,21,11,17
-UBCO,2018,W,PSYO,121,,104,Introduction to Psychology: Personal Functioning,Cassidy Wallis;Lydia Wood;Renee Berger;Renee Marie Berger;Shirley Hutchinson;Taylor Mccreary,283,74.197879859,12.753933995999999,100.0,34.0,12,4.0,20,19,30,30,35,22,49,30,32
-UBCO,2018,W,PSYO,121,,OVERALL,Introduction to Psychology: Personal Functioning,,744,73.879032258,12.677441146,100.0,0.0,29,21,37,63,65,94,88,72,117,81,77
-UBCO,2018,W,PSYO,219,,001,Introduction to Cognition,Annick Langlois;Ellie Fedec;Megan Udala;Taylor Mccreary,197,79.604060914,9.486595471000001,98.0,52.0,,,,5,16,17,23,21,47,32,32
-UBCO,2018,W,PSYO,219,,OVERALL,Introduction to Cognition,,197,79.604060914,9.486595471000001,98.0,52.0,,,,5,16,17,23,21,47,32,32
-UBCO,2018,W,PSYO,220,,101,Lifespan Development,Ali Caldwell;Brooke Dudley;Carmela White;Kailey Melna;Kaylee Misener;Taylor Mccreary,278,77.16546762600001,13.797973546,100.0,11.0,11,2.0,9,18,16,18,31,42,43,37,51
-UBCO,2018,W,PSYO,220,,OVERALL,Lifespan Development,,278,77.16546762600001,13.797973546,100.0,11.0,11,2.0,9,18,16,18,31,42,43,37,51
-UBCO,2018,W,PSYO,230,,001,Biopsychology of Behaviour,Barbara Rutherford;Chloe Briggs;Evanya Musolino;Harry Miller,186,71.715053763,12.051219037000001,100.0,17.0,2.0,9,14,25,21,15,30,18,24,16,12
-UBCO,2018,W,PSYO,230,,OVERALL,Biopsychology of Behaviour,,186,71.715053763,12.051219037000001,100.0,17.0,2.0,9,14,25,21,15,30,18,24,16,12
-UBCO,2018,W,PSYO,241,,001,Personality,Ellie Fedec;Shirley Hutchinson,100,81.67,11.375194526,100.0,47.0,,,,1,4,4,10,10,19,19,27
-UBCO,2018,W,PSYO,241,,101,Personality,Crystal Lea Mundy;Crystal Mundy;Tatiana Sanchez,112,76.732142857,10.501807775,99.0,50.0,,,,5,14,7,18,13,23,13,13
-UBCO,2018,W,PSYO,241,,OVERALL,Personality,,212,79.061320755,11.172962208,100.0,47.0,,,6,6,18,11,28,23,42,32,40
-UBCO,2018,W,PSYO,252,,101,Introduction to Social Psychology,Annick Langlois;Megan Udala;Paul Davies,321,74.757009346,12.239669972,100.0,13.0,9,11,15,15,27,29,52,47,52,29,35
-UBCO,2018,W,PSYO,252,,OVERALL,Introduction to Social Psychology,,321,74.757009346,12.239669972,100.0,13.0,9,11,15,15,27,29,52,47,52,29,35
-UBCO,2018,W,PSYO,270,,001,Introduction to Research Methods and Design,Derrick Wirtz;Maya Pilin;Ran Wei;Renee Berger;Renee Marie Berger,200,84.11,8.13503497,99.0,50.0,,,,,,8,10,25,43,61,47
-UBCO,2018,W,PSYO,270,,OVERALL,Introduction to Research Methods and Design,,200,84.11,8.13503497,99.0,50.0,,,,,,8,10,25,43,61,47
-UBCO,2018,W,PSYO,271,,101,Introduction to Data Analysis,Cassidy Wallis;Maya Pilin;Renee Berger;Stefanie Ciszewski,197,81.47715736,17.380077031,100.0,2.0,7,,9,,11,14,12,10,18,31,77
-UBCO,2018,W,PSYO,271,,OVERALL,Introduction to Data Analysis,,197,81.47715736,17.380077031,100.0,2.0,7,,9,,11,14,12,10,18,31,77
-UBCO,2018,W,PSYO,310,,001,Learning,Jill Robinson;Marvin Krank,116,77.801724138,12.429431991,97.0,34.0,,,,,12,13,7,10,21,20,20
-UBCO,2018,W,PSYO,310,,OVERALL,Learning,,116,77.801724138,12.429431991,97.0,34.0,,,,,12,13,7,10,21,20,20
-UBCO,2018,W,PSYO,311,,101,Memory,Barbara Rutherford;Chloe Briggs;Julien Gibon,120,76.033333333,12.041199118,96.0,0.0,,,,6,10,14,15,16,22,20,10
-UBCO,2018,W,PSYO,311,,OVERALL,Memory,,120,76.033333333,12.041199118,96.0,0.0,,,,6,10,14,15,16,22,20,10
-UBCO,2018,W,PSYO,313,,001,Perception,Paul Gabias,36,75.777777778,15.295398208,97.0,26.0,,,,,,,5,6,,,8
-UBCO,2018,W,PSYO,313,,OVERALL,Perception,,36,75.777777778,15.295398208,97.0,26.0,,,,,,,5,6,,,8
-UBCO,2018,W,PSYO,314,,001,Non-Visual Perception,Jaquelyn Jamie Kerr;Jaquelyn Kerr;Paul Gabias,78,79.26923076899999,13.678756947,99.0,46.0,,,,5,,8,,,17,12,20
-UBCO,2018,W,PSYO,314,,OVERALL,Non-Visual Perception,,78,79.26923076899999,13.678756947,99.0,46.0,,,,5,,8,,,17,12,20
-UBCO,2018,W,PSYO,315,,001,Psychology of Touch I,Harsha Bhamra;Paul Gabias,60,73.68333333300001,14.435703932000001,96.0,36.0,,,,,5,9,6,5,8,6,9
-UBCO,2018,W,PSYO,315,,OVERALL,Psychology of Touch I,,60,73.68333333300001,14.435703932000001,96.0,36.0,,,,,5,9,6,5,8,6,9
-UBCO,2018,W,PSYO,316,,001,Psychology of Touch II,Paul Davies;Paul Gabias,18,76.222222222,17.745108872,97.0,18.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,316,,OVERALL,Psychology of Touch II,,18,76.222222222,17.745108872,97.0,18.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,317,,001,Psychology of Creativity,Liane Gabora;Stacey Squires,96,79.239583333,11.461372005,96.0,29.0,,,5,,7,6,9,14,15,16,20
-UBCO,2018,W,PSYO,317,,OVERALL,Psychology of Creativity,,96,79.239583333,11.461372005,96.0,29.0,,,5,,7,6,9,14,15,16,20
-UBCO,2018,W,PSYO,321,,001,Child Development,Ali Caldwell;Brooke Dudley;Shirley Hutchinson,181,84.08839779,9.85804399,100.0,54.0,,,,,6,8,8,22,25,46,58
-UBCO,2018,W,PSYO,321,,OVERALL,Child Development,,181,84.08839779,9.85804399,100.0,54.0,,,,,6,8,8,22,25,46,58
-UBCO,2018,W,PSYO,335,,001,Drugs and Behaviour,Haylie Gibb;Joseph Rootman;Marvin Krank,119,75.394957983,13.851034647,97.0,24.0,5,2.0,5,8,10,12,14,13,16,18,16
-UBCO,2018,W,PSYO,335,,101,Drugs and Behaviour,Jill Robinson;Joseph Rootman;Stacey Squires;Zachary Walsh,299,76.09030100300001,11.427413447000001,98.0,30.0,2.0,11,10,22,21,27,39,30,63,38,36
-UBCO,2018,W,PSYO,335,,OVERALL,Drugs and Behaviour,,418,75.892344498,12.153510067000001,98.0,24.0,7,13,15,30,31,39,53,43,79,56,52
-UBCO,2018,W,PSYO,343,,001,Psychopathology I,Carmela White;Kaylee Misener,119,83.537815126,9.164957133,99.0,59.0,,,,,,5,12,10,20,24,40
-UBCO,2018,W,PSYO,343,,OVERALL,Psychopathology I,,119,83.537815126,9.164957133,99.0,59.0,,,,,,5,12,10,20,24,40
-UBCO,2018,W,PSYO,348,,001,Health Psychology,Cassidy Wallis;Kailey Melna;Linda Hatt,71,78.887323944,7.243813707,93.0,61.0,,,,,,13,8,8,23,11,5
-UBCO,2018,W,PSYO,348,,OVERALL,Health Psychology,,71,78.887323944,7.243813707,93.0,61.0,,,,,,13,8,8,23,11,5
-UBCO,2018,W,PSYO,349,,001,Positive Psychology,Chloe Briggs;Derrick Wirtz;Evanya Musolino,99,82.323232323,7.557707625,96.0,46.0,,0,1,,0,2,9,16,33,20,17
-UBCO,2018,W,PSYO,349,,101,Positive Psychology,Ali Caldwell;Brooke Dudley;Holli-Anne Passmore;Mark Holder;Stacey Squires,117,80.675213675,15.519636649,100.0,33.0,,6,5,,5,6,8,4,20,14,42
-UBCO,2018,W,PSYO,349,,OVERALL,Positive Psychology,,216,81.430555556,12.516585895999999,100.0,33.0,,6,6,,5,8,17,20,53,34,59
-UBCO,2018,W,PSYO,353,,001,Psychological Aspects of Human Sexuality I,Crystal Lea Mundy;Crystal Mundy;Jaquelyn Jamie Kerr;Jaquelyn Kerr;Kimberley Crosby,230,76.53478260899999,11.272182737,100.0,38.0,,,13,16,15,23,26,34,34,38,26
-UBCO,2018,W,PSYO,353,,OVERALL,Psychological Aspects of Human Sexuality I,,230,76.53478260899999,11.272182737,100.0,38.0,,,13,16,15,23,26,34,34,38,26
-UBCO,2018,W,PSYO,354,,101,Psychological Aspects of Human Sexuality II,Evanya Musolino;Joseph Rootman;Kimberley Crosby,115,73.756521739,11.623925194000002,99.0,19.0,,,,8,11,19,21,17,13,8,10
-UBCO,2018,W,PSYO,354,,OVERALL,Psychological Aspects of Human Sexuality II,,115,73.756521739,11.623925194000002,99.0,19.0,,,,8,11,19,21,17,13,8,10
-UBCO,2018,W,PSYO,355,,001,Forensic Psychology I,Ian Robert Wellspring;Ian Wellspring;Katherine Rose;Michael Woodworth,245,73.636734694,11.347107198,95.0,36.0,6,11,14,14,22,22,34,43,40,22,17
-UBCO,2018,W,PSYO,355,,OVERALL,Forensic Psychology I,,245,73.636734694,11.347107198,95.0,36.0,6,11,14,14,22,22,34,43,40,22,17
-UBCO,2018,W,PSYO,356,,001,Forensic Psychology II,Ian Robert Wellspring;Ian Wellspring;Katherine Rose;Michael Woodworth,190,76.015789474,11.676628996,99.0,29.0,,,14,10,19,13,23,27,32,22,25
-UBCO,2018,W,PSYO,356,,OVERALL,Forensic Psychology II,,190,76.015789474,11.676628996,99.0,29.0,,,14,10,19,13,23,27,32,22,25
-UBCO,2018,W,PSYO,357,,101,Community Psychology,Cynthia Mathieson;Kaylee Misener,58,78.051724138,13.347478129,99.0,39.0,,,,,,5,,7,7,12,11
-UBCO,2018,W,PSYO,357,,OVERALL,Community Psychology,,58,78.051724138,13.347478129,99.0,39.0,,,,,,5,,7,7,12,11
-UBCO,2018,W,PSYO,372,,001,Research Methods and Statistics,Kimberley Kaseweter;Stefanie Ciszewski;Zakary Draper,32,85.90625,6.457600547999999,97.0,70.0,,,,,,,,5,5,12,9
-UBCO,2018,W,PSYO,372,,OVERALL,Research Methods and Statistics,,32,85.90625,6.457600547999999,97.0,70.0,,,,,,,,5,5,12,9
-UBCO,2018,W,PSYO,373,,001,Advanced Research Methods and Statistics,Brian O'Connor;Kimberley Kaseweter;Zakary Draper,26,85.0,4.715930449,93.0,72.0,,,,,,,,,5,16,
-UBCO,2018,W,PSYO,373,,OVERALL,Advanced Research Methods and Statistics,,26,85.0,4.715930449,93.0,72.0,,,,,,,,,5,16,
-UBCO,2018,W,PSYO,381,A,OVERALL,Directed Studies in Psychology,,18,90.444444444,3.4166068860000003,97.0,84.0,,,,,,,,,,,14
-UBCO,2018,W,PSYO,381,C,OVERALL,Directed Studies in Psychology,,6,92.333333333,4.1793141380000005,95.0,86.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,435,,001,Substance Use and Abuse,Marvin Krank,25,86.96,4.88603452,96.0,71.0,,,,,,,,,,14,7
-UBCO,2018,W,PSYO,435,,OVERALL,Substance Use and Abuse,,25,86.96,4.88603452,96.0,71.0,,,,,,,,,,14,7
-UBCO,2018,W,PSYO,460,,001,History and Theories of Psychology,Cassidy Wallis;Kailey Melna;Linda Hatt,15,79.0,10.683766056,92.0,57.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,460,,OVERALL,History and Theories of Psychology,,15,79.0,10.683766056,92.0,57.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,480,K,001,Advanced Special Topics in Psychology,Carolyn Szostak;Jaquelyn Jamie Kerr;Jaquelyn Kerr,15,87.0,4.276179871,93.0,77.0,,,,,,,,,,7,5
-UBCO,2018,W,PSYO,480,K,OVERALL,Advanced Special Topics in Psychology,,15,87.0,4.276179871,93.0,77.0,,,,,,,,,,7,5
-UBCO,2018,W,PSYO,481,A,OVERALL,Directed Studies,,19,90.315789474,5.754733622000001,100.0,75.0,,,,,,,,,,,13
-UBCO,2018,W,PSYO,490,B,OVERALL,Undergraduate Honours Thesis,,18,90.444444444,7.785523687,98.0,66.0,,,,,,,,,,,13
-UBCO,2018,W,PSYO,507,,001,Advanced Statistics and Research Methods,Brian O'Connor;Zakary Draper,7,88.85714285700001,3.97611919,93.0,82.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,507,,OVERALL,Advanced Statistics and Research Methods,,7,88.85714285700001,3.97611919,93.0,82.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,508,O,101,Advanced Topics,Elena Ivanova,10,92.7,3.433495142,97.0,86.0,,,,,,,,,,,8
-UBCO,2018,W,PSYO,508,O,OVERALL,Advanced Topics,,10,92.7,3.433495142,97.0,86.0,,,,,,,,,,,8
-UBCO,2018,W,PSYO,510,,001,Psychopathology I,Carolyn Szostak,6,88.333333333,4.457203907,92.0,82.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,510,,OVERALL,Psychopathology I,,6,88.333333333,4.457203907,92.0,82.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,511,,101,Psychopathology II,Carolyn Szostak,5,88.8,3.962322551,92.0,84.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,511,,OVERALL,Psychopathology II,,5,88.8,3.962322551,92.0,84.0,,,,,,,,,,,
-UBCO,2018,W,PSYO,514,,001,Psychological Assessment I,Christopher Wilson;Diana Lisi,5,92.0,1.4142135619999998,94.0,90.0,,,,,,,,,,,5
-UBCO,2018,W,PSYO,514,,OVERALL,Psychological Assessment I,,5,92.0,1.4142135619999998,94.0,90.0,,,,,,,,,,,5
-UBCO,2018,W,PSYO,515,,101,Psychological Assessment II,Christopher Wilson;Diana Lisi,5,93.2,2.28035085,96.0,90.0,,,,,,,,,,,5
-UBCO,2018,W,PSYO,515,,OVERALL,Psychological Assessment II,,5,93.2,2.28035085,96.0,90.0,,,,,,,,,,,5
-UBCO,2018,W,PSYO,523,,001,Cognitive Basis of Behaviour,Barbara Rutherford;Elena Ivanova,15,87.866666667,2.972893412,96.0,83.0,,,,,,,,,,11,
-UBCO,2018,W,PSYO,523,,OVERALL,Cognitive Basis of Behaviour,,15,87.866666667,2.972893412,96.0,83.0,,,,,,,,,,11,
-UBCO,2018,W,PSYO,525,,001,Internship Preparation,Lesley Lutes,5,94.0,2.236067977,95.0,90.0,,,,,,,,,,,5
-UBCO,2018,W,PSYO,525,,OVERALL,Internship Preparation,,5,94.0,2.236067977,95.0,90.0,,,,,,,,,,,5
+UBCO,2018,W,PSYO,111,,001,Introduction to Psychology: Basic Processes,Harsha Bhamra;Haylie Gibb;Holli-Anne Passmore;Mark Holder;Yun-Han Wang;Yun-Lin Wang,189,71.51322751,12.78987651,98.0,28.0,6,7.0,16.0,18,29,18,22,23,20,11,19
+UBCO,2018,W,PSYO,111,,002,Introduction to Psychology: Basic Processes,Hailee Lewis;Hailee Nicole Lewis;Holli-Anne Passmore;Mark Holder;Yun-Han Wang;Yun-Lin Wang,284,69.31690141,15.3027722,100.0,0.0,25,10.0,23.0,29,29,34,33,28,29,27,17
+UBCO,2018,W,PSYO,111,,003,Introduction to Psychology: Basic Processes,Brooke Dudley;Kailey Melna;Maia Terran;Shirley Hutchinson,114,73.28070175,13.47531915,99.0,37.0,4,10.0,5.0,10,6,10,12,18,14,13,12
+UBCO,2018,W,PSYO,111,,004,Introduction to Psychology: Basic Processes,Annick Langlois;Brooke Dudley;Maia Terran;Renee Berger;Renee Marie Berger;Shirley Hutchinson,296,70.19594595,14.58309157,100.0,18.0,21,16.0,27.0,32,34,29,25,27,32,29,24
+UBCO,2018,W,PSYO,111,,101,Introduction to Psychology: Basic Processes,Harsha Bhamra;Haylie Gibb;Kailey Melna;Paul Gabias,190,65.83684211,17.71197277,97.0,0.0,28,18.0,15.0,18,16,23,15,17,14,9,17
+UBCO,2018,W,PSYO,111,,102,Introduction to Psychology: Basic Processes,Cassidy Wallis;Maia Terran;Shirley Hutchinson,194,72.79896907,13.7088829,99.0,0.0,6,9.0,15.0,25,12,18,19,23,24,26,17
+UBCO,2018,W,PSYO,111,,OVERALL,Introduction to Psychology: Basic Processes,,1267,70.21783741,14.9353498,100.0,0.0,90,70.0,101.0,132,126,132,126,136,133,115,106
+UBCO,2018,W,PSYO,121,,001,Introduction to Psychology: Personal Functioning,Derrick Wirtz;Lydia Wood;Taylor Mccreary,103,72.75728155,10.58714168,93.0,39.0,5,2.0,3.0,8,7,19,13,17,15,13,1
+UBCO,2018,W,PSYO,121,,101,Introduction to Psychology: Personal Functioning,Derrick Wirtz;Sarah Sanders;Yun-Han Wang;Yun-Lin Wang,99,76.92929293,12.17412154,96.0,23.0,2,2.0,2.0,10,4,9,10,14,17,13,16
+UBCO,2018,W,PSYO,121,,102,Introduction to Psychology: Personal Functioning,Derrick Wirtz;Sarah Sanders;Yun-Han Wang;Yun-Lin Wang,99,75.38383838,13.5101678,99.0,0.0,3,1.0,0.0,9,7,15,14,10,15,14,11
+UBCO,2018,W,PSYO,121,,103,Introduction to Psychology: Personal Functioning,Ellie Fedec;Hailee Lewis;Hailee Nicole Lewis;Harsha Bhamra;Susan Holtzman,160,71.21875,13.09408233,97.0,39.0,7,12.0,12.0,17,17,21,16,9,21,11,17
+UBCO,2018,W,PSYO,121,,104,Introduction to Psychology: Personal Functioning,Cassidy Wallis;Lydia Wood;Renee Berger;Renee Marie Berger;Shirley Hutchinson;Taylor Mccreary,283,74.19787986,12.753934,100.0,34.0,12,4.0,20.0,19,30,30,35,22,49,30,32
+UBCO,2018,W,PSYO,121,,OVERALL,Introduction to Psychology: Personal Functioning,,744,73.87903226,12.67744115,100.0,0.0,29,21.0,37.0,63,65,94,88,72,117,81,77
+UBCO,2018,W,PSYO,219,,001,Introduction to Cognition,Annick Langlois;Ellie Fedec;Megan Udala;Taylor Mccreary,197,79.60406091,9.486595471,98.0,52.0,0,2.0,2.0,5,16,17,23,21,47,32,32
+UBCO,2018,W,PSYO,219,,OVERALL,Introduction to Cognition,,197,79.60406091,9.486595471,98.0,52.0,0,2.0,2.0,5,16,17,23,21,47,32,32
+UBCO,2018,W,PSYO,220,,101,Lifespan Development,Ali Caldwell;Brooke Dudley;Carmela White;Kailey Melna;Kaylee Misener;Taylor Mccreary,278,77.16546763,13.79797355,100.0,11.0,11,2.0,9.0,18,16,18,31,42,43,37,51
+UBCO,2018,W,PSYO,220,,OVERALL,Lifespan Development,,278,77.16546763,13.79797355,100.0,11.0,11,2.0,9.0,18,16,18,31,42,43,37,51
+UBCO,2018,W,PSYO,230,,001,Biopsychology of Behaviour,Barbara Rutherford;Chloe Briggs;Evanya Musolino;Harry Miller,186,71.71505376,12.05121904,100.0,17.0,2,9.0,14.0,25,21,15,30,18,24,16,12
+UBCO,2018,W,PSYO,230,,OVERALL,Biopsychology of Behaviour,,186,71.71505376,12.05121904,100.0,17.0,2,9.0,14.0,25,21,15,30,18,24,16,12
+UBCO,2018,W,PSYO,241,,001,Personality,Ellie Fedec;Shirley Hutchinson,100,81.67,11.37519453,100.0,47.0,2,1.0,3.0,1,4,4,10,10,19,19,27
+UBCO,2018,W,PSYO,241,,101,Personality,Crystal Lea Mundy;Crystal Mundy;Tatiana Sanchez,112,76.73214286,10.50180778,99.0,50.0,0,3.0,3.0,5,14,7,18,13,23,13,13
+UBCO,2018,W,PSYO,241,,OVERALL,Personality,,212,79.06132076,11.17296221,100.0,47.0,2,4.0,6.0,6,18,11,28,23,42,32,40
+UBCO,2018,W,PSYO,252,,101,Introduction to Social Psychology,Annick Langlois;Megan Udala;Paul Davies,321,74.75700935,12.23966997,100.0,13.0,9,11.0,15.0,15,27,29,52,47,52,29,35
+UBCO,2018,W,PSYO,252,,OVERALL,Introduction to Social Psychology,,321,74.75700935,12.23966997,100.0,13.0,9,11.0,15.0,15,27,29,52,47,52,29,35
+UBCO,2018,W,PSYO,270,,001,Introduction to Research Methods and Design,Derrick Wirtz;Maya Pilin;Ran Wei;Renee Berger;Renee Marie Berger,200,84.11,8.13503497,99.0,50.0,0,1.0,2.0,1,2,8,10,25,43,61,47
+UBCO,2018,W,PSYO,270,,OVERALL,Introduction to Research Methods and Design,,200,84.11,8.13503497,99.0,50.0,0,1.0,2.0,1,2,8,10,25,43,61,47
+UBCO,2018,W,PSYO,271,,101,Introduction to Data Analysis,Cassidy Wallis;Maya Pilin;Renee Berger;Stefanie Ciszewski,197,81.47715736,17.38007703,100.0,2.0,7,4.0,9.0,4,11,14,12,10,18,31,77
+UBCO,2018,W,PSYO,271,,OVERALL,Introduction to Data Analysis,,197,81.47715736,17.38007703,100.0,2.0,7,4.0,9.0,4,11,14,12,10,18,31,77
+UBCO,2018,W,PSYO,310,,001,Learning,Jill Robinson;Marvin Krank,116,77.80172414,12.42943199,97.0,34.0,2,3.0,4.0,4,12,13,7,10,21,20,20
+UBCO,2018,W,PSYO,310,,OVERALL,Learning,,116,77.80172414,12.42943199,97.0,34.0,2,3.0,4.0,4,12,13,7,10,21,20,20
+UBCO,2018,W,PSYO,311,,101,Memory,Barbara Rutherford;Chloe Briggs;Julien Gibon,120,76.03333333,12.04119912,96.0,0.0,2,1.0,4.0,6,10,14,15,16,22,20,10
+UBCO,2018,W,PSYO,311,,OVERALL,Memory,,120,76.03333333,12.04119912,96.0,0.0,2,1.0,4.0,6,10,14,15,16,22,20,10
+UBCO,2018,W,PSYO,313,,001,Perception,Paul Gabias,36,75.77777778,15.29539821,97.0,26.0,1,2.0,2.0,2,2,2,5,6,3,3,8
+UBCO,2018,W,PSYO,313,,OVERALL,Perception,,36,75.77777778,15.29539821,97.0,26.0,1,2.0,2.0,2,2,2,5,6,3,3,8
+UBCO,2018,W,PSYO,314,,001,Non-Visual Perception,Jaquelyn Jamie Kerr;Jaquelyn Kerr;Paul Gabias,78,79.26923077,13.67875695,99.0,46.0,2,3.0,4.0,5,3,8,0.0,4,17,12,20
+UBCO,2018,W,PSYO,314,,OVERALL,Non-Visual Perception,,78,79.26923077,13.67875695,99.0,46.0,2,3.0,4.0,5,3,8,0.0,4,17,12,20
+UBCO,2018,W,PSYO,315,,001,Psychology of Touch I,Harsha Bhamra;Paul Gabias,60,73.68333333,14.43570393,96.0,36.0,4,3.0,4.0,1,5,9,6,5,8,6,9
+UBCO,2018,W,PSYO,315,,OVERALL,Psychology of Touch I,,60,73.68333333,14.43570393,96.0,36.0,4,3.0,4.0,1,5,9,6,5,8,6,9
+UBCO,2018,W,PSYO,316,,001,Psychology of Touch II,Paul Davies;Paul Gabias,18,76.22222222,17.74510887,97.0,18.0,1,0.0,0.0,0,1,4,2,2,1,4,3
+UBCO,2018,W,PSYO,316,,OVERALL,Psychology of Touch II,,18,76.22222222,17.74510887,97.0,18.0,1,0.0,0.0,0,1,4,2,2,1,4,3
+UBCO,2018,W,PSYO,317,,001,Psychology of Creativity,Liane Gabora;Stacey Squires,96,79.23958333,11.46137201,96.0,29.0,1,0.0,5.0,3,7,6,9,14,15,16,20
+UBCO,2018,W,PSYO,317,,OVERALL,Psychology of Creativity,,96,79.23958333,11.46137201,96.0,29.0,1,0.0,5.0,3,7,6,9,14,15,16,20
+UBCO,2018,W,PSYO,321,,001,Child Development,Ali Caldwell;Brooke Dudley;Shirley Hutchinson,181,84.08839779,9.85804399,100.0,54.0,0,1.0,4.0,3,6,8,8,22,25,46,58
+UBCO,2018,W,PSYO,321,,OVERALL,Child Development,,181,84.08839779,9.85804399,100.0,54.0,0,1.0,4.0,3,6,8,8,22,25,46,58
+UBCO,2018,W,PSYO,335,,001,Drugs and Behaviour,Haylie Gibb;Joseph Rootman;Marvin Krank,119,75.39495798,13.85103465,97.0,24.0,5,2.0,5.0,8,10,12,14,13,16,18,16
+UBCO,2018,W,PSYO,335,,101,Drugs and Behaviour,Jill Robinson;Joseph Rootman;Stacey Squires;Zachary Walsh,299,76.090301,11.42741345,98.0,30.0,2,11.0,10.0,22,21,27,39,30,63,38,36
+UBCO,2018,W,PSYO,335,,OVERALL,Drugs and Behaviour,,418,75.8923445,12.15351007,98.0,24.0,7,13.0,15.0,30,31,39,53,43,79,56,52
+UBCO,2018,W,PSYO,343,,001,Psychopathology I,Carmela White;Kaylee Misener,119,83.53781513,9.164957133,99.0,59.0,0,0.0,2.0,3,3,5,12,10,20,24,40
+UBCO,2018,W,PSYO,343,,OVERALL,Psychopathology I,,119,83.53781513,9.164957133,99.0,59.0,0,0.0,2.0,3,3,5,12,10,20,24,40
+UBCO,2018,W,PSYO,348,,001,Health Psychology,Cassidy Wallis;Kailey Melna;Linda Hatt,71,78.88732394,7.243813707,93.0,61.0,0,0.0,0.0,2,1,13,8,8,23,11,5
+UBCO,2018,W,PSYO,348,,OVERALL,Health Psychology,,71,78.88732394,7.243813707,93.0,61.0,0,0.0,0.0,2,1,13,8,8,23,11,5
+UBCO,2018,W,PSYO,349,,001,Positive Psychology,Chloe Briggs;Derrick Wirtz;Evanya Musolino,99,82.32323232,7.557707625,96.0,46.0,1,0.0,1.0,0,0,2,9,16,33,20,17
+UBCO,2018,W,PSYO,349,,101,Positive Psychology,Ali Caldwell;Brooke Dudley;Holli-Anne Passmore;Mark Holder;Stacey Squires,117,80.67521368,15.51963665,100.0,33.0,3,6.0,5.0,4,5,6,8,4,20,14,42
+UBCO,2018,W,PSYO,349,,OVERALL,Positive Psychology,,216,81.43055556,12.5165859,100.0,33.0,4,6.0,6.0,4,5,8,17,20,53,34,59
+UBCO,2018,W,PSYO,353,,001,Psychological Aspects of Human Sexuality I,Crystal Lea Mundy;Crystal Mundy;Jaquelyn Jamie Kerr;Jaquelyn Kerr;Kimberley Crosby,230,76.53478261,11.27218274,100.0,38.0,4,1.0,13.0,16,15,23,26,34,34,38,26
+UBCO,2018,W,PSYO,353,,OVERALL,Psychological Aspects of Human Sexuality I,,230,76.53478261,11.27218274,100.0,38.0,4,1.0,13.0,16,15,23,26,34,34,38,26
+UBCO,2018,W,PSYO,354,,101,Psychological Aspects of Human Sexuality II,Evanya Musolino;Joseph Rootman;Kimberley Crosby,115,73.75652174,11.62392519,99.0,19.0,3,2.0,3.0,8,11,19,21,17,13,8,10
+UBCO,2018,W,PSYO,354,,OVERALL,Psychological Aspects of Human Sexuality II,,115,73.75652174,11.62392519,99.0,19.0,3,2.0,3.0,8,11,19,21,17,13,8,10
+UBCO,2018,W,PSYO,355,,001,Forensic Psychology I,Ian Robert Wellspring;Ian Wellspring;Katherine Rose;Michael Woodworth,245,73.63673469,11.3471072,95.0,36.0,6,11.0,14.0,14,22,22,34,43,40,22,17
+UBCO,2018,W,PSYO,355,,OVERALL,Forensic Psychology I,,245,73.63673469,11.3471072,95.0,36.0,6,11.0,14.0,14,22,22,34,43,40,22,17
+UBCO,2018,W,PSYO,356,,001,Forensic Psychology II,Ian Robert Wellspring;Ian Wellspring;Katherine Rose;Michael Woodworth,190,76.01578947,11.676629,99.0,29.0,2,3.0,14.0,10,19,13,23,27,32,22,25
+UBCO,2018,W,PSYO,356,,OVERALL,Forensic Psychology II,,190,76.01578947,11.676629,99.0,29.0,2,3.0,14.0,10,19,13,23,27,32,22,25
+UBCO,2018,W,PSYO,357,,101,Community Psychology,Cynthia Mathieson;Kaylee Misener,58,78.05172414,13.34747813,99.0,39.0,1,2.0,3.0,4,2,5,4,7,7,12,11
+UBCO,2018,W,PSYO,357,,OVERALL,Community Psychology,,58,78.05172414,13.34747813,99.0,39.0,1,2.0,3.0,4,2,5,4,7,7,12,11
+UBCO,2018,W,PSYO,372,,001,Research Methods and Statistics,Kimberley Kaseweter;Stefanie Ciszewski;Zakary Draper,32,85.90625,6.457600548,97.0,70.0,0,0.0,0.0,0,0,1,0.0,5,5,12,9
+UBCO,2018,W,PSYO,372,,OVERALL,Research Methods and Statistics,,32,85.90625,6.457600548,97.0,70.0,0,0.0,0.0,0,0,1,0.0,5,5,12,9
+UBCO,2018,W,PSYO,373,,001,Advanced Research Methods and Statistics,Brian O'Connor;Kimberley Kaseweter;Zakary Draper,26,85.0,4.715930449,93.0,72.0,0,0.0,0.0,0,0,0,1,2,5,16,2
+UBCO,2018,W,PSYO,373,,OVERALL,Advanced Research Methods and Statistics,,26,85.0,4.715930449,93.0,72.0,0,0.0,0.0,0,0,0,1,2,5,16,2
+UBCO,2018,W,PSYO,381,A,OVERALL,Directed Studies in Psychology,,18,90.44444444,3.416606886,97.0,84.0,0,0.0,0.0,0,0,0,0,0,,,
+UBCO,2018,W,PSYO,381,C,OVERALL,Directed Studies in Psychology,,6,92.33333333,4.179314138,95.0,86.0,0,0.0,0.0,0,0,0,0,0,0,,
+UBCO,2018,W,PSYO,435,,001,Substance Use and Abuse,Marvin Krank,25,86.96,4.88603452,96.0,71.0,0,0.0,0.0,0,0,1,0.0,1,2,14,7
+UBCO,2018,W,PSYO,435,,OVERALL,Substance Use and Abuse,,25,86.96,4.88603452,96.0,71.0,0,0.0,0.0,0,0,1,0.0,1,2,14,7
+UBCO,2018,W,PSYO,460,,001,History and Theories of Psychology,Cassidy Wallis;Kailey Melna;Linda Hatt,15,79.0,10.68376606,92.0,57.0,0,0.0,1.0,1,0.0,1,3,1,1,4,3
+UBCO,2018,W,PSYO,460,,OVERALL,History and Theories of Psychology,,15,79.0,10.68376606,92.0,57.0,0,0.0,1.0,1,0.0,1,3,1,1,4,3
+UBCO,2018,W,PSYO,480,K,001,Advanced Special Topics in Psychology,Carolyn Szostak;Jaquelyn Jamie Kerr;Jaquelyn Kerr,15,87.0,4.276179871,93.0,77.0,0,0.0,0.0,0,0,0,0,1,2,7,5
+UBCO,2018,W,PSYO,480,K,OVERALL,Advanced Special Topics in Psychology,,15,87.0,4.276179871,93.0,77.0,0,0.0,0.0,0,0,0,0,1,2,7,5
+UBCO,2018,W,PSYO,481,A,OVERALL,Directed Studies,,19,90.31578947,5.754733622,100.0,75.0,0,0.0,0.0,0,0,0,,,,,
+UBCO,2018,W,PSYO,490,B,OVERALL,Undergraduate Honours Thesis,,18,90.44444444,7.785523687,98.0,66.0,0,0.0,0.0,0,,,,,,,
+UBCO,2018,W,PSYO,507,,001,Advanced Statistics and Research Methods,Brian O'Connor;Zakary Draper,7,88.85714286,3.97611919,93.0,82.0,0,0.0,0.0,0,0,0,0,0,1,2,4
+UBCO,2018,W,PSYO,507,,OVERALL,Advanced Statistics and Research Methods,,7,88.85714286,3.97611919,93.0,82.0,0,0.0,0.0,0,0,0,0,0,1,2,4
+UBCO,2018,W,PSYO,508,O,101,Advanced Topics,Elena Ivanova,10,92.7,3.433495142,97.0,86.0,0,0.0,0.0,0,0,0,0,0,0,2,8
+UBCO,2018,W,PSYO,508,O,OVERALL,Advanced Topics,,10,92.7,3.433495142,97.0,86.0,0,0.0,0.0,0,0,0,0,0,0,2,8
+UBCO,2018,W,PSYO,510,,001,Psychopathology I,Carolyn Szostak,6,88.33333333,4.457203907,92.0,82.0,0,0.0,0.0,0,0,0,0,0,2,1,3
+UBCO,2018,W,PSYO,510,,OVERALL,Psychopathology I,,6,88.33333333,4.457203907,92.0,82.0,0,0.0,0.0,0,0,0,0,0,2,1,3
+UBCO,2018,W,PSYO,523,,001,Cognitive Basis of Behaviour,Barbara Rutherford;Elena Ivanova,15,87.86666667,2.972893412,96.0,83.0,0,0.0,0.0,0,0,0,0,0,2,11,2
+UBCO,2018,W,PSYO,523,,OVERALL,Cognitive Basis of Behaviour,,15,87.86666667,2.972893412,96.0,83.0,0,0.0,0.0,0,0,0,0,0,2,11,2

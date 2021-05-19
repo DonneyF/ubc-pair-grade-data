@@ -1,31 +1,31 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Lee Troupe,99,59.03030303,20.117742472,94.0,0.0,24,11,8,8,10,7,12,6,8,,
-UBCV,2017,S,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,99,59.03030303,20.117742472,94.0,0.0,24,11,8,8,10,7,12,6,8,,
-UBCV,2017,S,MATH,101,,951,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Kateryna Melnykova,100,65.02,16.741034085,96.0,3.0,11,14,11,5,10,11,14,6,7,2.0,9
-UBCV,2017,S,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,100,65.02,16.741034085,96.0,3.0,11,14,11,5,10,11,14,6,7,2.0,9
-UBCV,2017,S,MATH,104,,921,Differential Calculus with Applications to Commerce and Social Sciences,Avner Segal;Keqin Liu,124,54.774193548,17.236206319,88.0,0.0,37,18,17,6,16,11,6,,7,,
-UBCV,2017,S,MATH,104,,OVERALL,Differential Calculus with Applications to Commerce and Social Sciences,,124,54.774193548,17.236206319,88.0,0.0,37,18,17,6,16,11,6,,7,,
+UBCV,2017,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Lee Troupe,99,59.03030303,20.11774247,94.0,0.0,24,11,8,8,10,7,12,6,8,2,3
+UBCV,2017,S,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,99,59.03030303,20.11774247,94.0,0.0,24,11,8,8,10,7,12,6,8,2,3
+UBCV,2017,S,MATH,101,,951,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Kateryna Melnykova,100,65.02,16.74103409,96.0,3.0,11,14,11,5,10,11,14,6,7,2,9
+UBCV,2017,S,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,100,65.02,16.74103409,96.0,3.0,11,14,11,5,10,11,14,6,7,2,9
+UBCV,2017,S,MATH,104,,921,Differential Calculus with Applications to Commerce and Social Sciences,Avner Segal;Keqin Liu,124,54.77419355,17.23620632,88.0,0.0,37,18,17,6,16,11,6,4,7,2,0
+UBCV,2017,S,MATH,104,,OVERALL,Differential Calculus with Applications to Commerce and Social Sciences,,124,54.77419355,17.23620632,88.0,0.0,37,18,17,6,16,11,6,4,7,2,0
 UBCV,2017,S,MATH,105,,951,Integral Calculus with Applications to Commerce and Social Sciences,Dimitrios Roxanas;Keqin Liu;Pamela Sargent,127,68.62992126,15.19753695,100.0,12.0,10,10,13,9,12,15,17,8,12,8,13
 UBCV,2017,S,MATH,105,,OVERALL,Integral Calculus with Applications to Commerce and Social Sciences,,127,68.62992126,15.19753695,100.0,12.0,10,10,13,9,12,15,17,8,12,8,13
-UBCV,2017,S,MATH,200,,921,Calculus III,Jim Bryan,77,75.064935065,14.995909672,97.0,30.0,,,,6,,7,11,6,11,13,11
-UBCV,2017,S,MATH,200,,OVERALL,Calculus III,,77,75.064935065,14.995909672,97.0,30.0,,,,6,,7,11,6,11,13,11
-UBCV,2017,S,MATH,215,,921,Elementary Differential Equations I,Patrick Walls,65,66.2,17.416048633,94.0,18.0,11,,,9,,9,,,8,7,
-UBCV,2017,S,MATH,215,,OVERALL,Elementary Differential Equations I,,65,66.2,17.416048633,94.0,18.0,11,,,9,,9,,,8,7,
-UBCV,2017,S,MATH,220,,921,Mathematical Proof,Mahta Khosravi,39,70.641025641,12.724793824,98.0,45.0,,,,,6,5,5,,5,,
-UBCV,2017,S,MATH,220,,OVERALL,Mathematical Proof,,39,70.641025641,12.724793824,98.0,45.0,,,,,6,5,5,,5,,
-UBCV,2017,S,MATH,221,,921,Matrix Algebra,Tai-Peng Tsai,144,71.326388889,13.980920995999998,98.0,14.0,4.0,10,16,10,8,23,15,13,20,10,15
-UBCV,2017,S,MATH,221,,OVERALL,Matrix Algebra,,144,71.326388889,13.980920995999998,98.0,14.0,4.0,10,16,10,8,23,15,13,20,10,15
-UBCV,2017,S,MATH,253,,921,Multivariable Calculus,Jim Bryan,96,77.322916667,16.917443375,99.0,3.0,6,,,,5,5,7,11,16,13,23
-UBCV,2017,S,MATH,253,,OVERALL,Multivariable Calculus,,96,77.322916667,16.917443375,99.0,3.0,6,,,,5,5,7,11,16,13,23
-UBCV,2017,S,MATH,255,,921,Ordinary Differential Equations,Patrick Walls,60,64.216666667,16.294006038,93.0,28.0,9,7,9,6,5,,,,,6,
-UBCV,2017,S,MATH,255,,OVERALL,Ordinary Differential Equations,,60,64.216666667,16.294006038,93.0,28.0,9,7,9,6,5,,,,,6,
-UBCV,2017,S,MATH,257,,921,Partial Differential Equations,Ian Frigaard,70,73.014285714,16.095271479,100.0,23.0,5,,,6,7,5,5,10,11,5,10
-UBCV,2017,S,MATH,257,,OVERALL,Partial Differential Equations,,70,73.014285714,16.095271479,100.0,23.0,5,,,6,7,5,5,10,11,5,10
-UBCV,2017,S,MATH,307,,921,Applied Linear Algebra,Ozgur Yilmaz;Roger Donaldson,112,65.1875,16.655779101,95.0,3.0,12,12,17,9,5,12,11,11,8,8,7
-UBCV,2017,S,MATH,307,,OVERALL,Applied Linear Algebra,,112,65.1875,16.655779101,95.0,3.0,12,12,17,9,5,12,11,11,8,8,7
-UBCV,2017,S,MATH,312,,921,Introduction to Number Theory,Michael Bennett;Nuno Barroso De Freitas,72,61.527777778,23.08097944,99.0,0.0,18,5,5,8,6,7,,,,,11
-UBCV,2017,S,MATH,312,,OVERALL,Introduction to Number Theory,,72,61.527777778,23.08097944,99.0,0.0,18,5,5,8,6,7,,,,,11
-UBCV,2017,S,MATH,316,,921,Elementary Differential Equations II,Ian Frigaard,45,66.04444444399999,15.412444139000002,94.0,28.0,5,5,5,7,,,,7,,6,
-UBCV,2017,S,MATH,316,,OVERALL,Elementary Differential Equations II,,45,66.04444444399999,15.412444139000002,94.0,28.0,5,5,5,7,,,,7,,6,
-UBCV,2017,S,MATH,317,,951,Calculus IV,Jim Bryan;Saikat Mazumdar,78,74.602564103,13.291281923,100.0,42.0,,,,7,10,9,12,,8,9,12
-UBCV,2017,S,MATH,317,,OVERALL,Calculus IV,,78,74.602564103,13.291281923,100.0,42.0,,,,7,10,9,12,,8,9,12
+UBCV,2017,S,MATH,200,,921,Calculus III,Jim Bryan,77,75.06493507,14.99590967,97.0,30.0,4,4,3,6,1,7,11,6,11,13,11
+UBCV,2017,S,MATH,200,,OVERALL,Calculus III,,77,75.06493507,14.99590967,97.0,30.0,4,4,3,6,1,7,11,6,11,13,11
+UBCV,2017,S,MATH,215,,921,Elementary Differential Equations I,Patrick Walls,65,66.2,17.41604863,94.0,18.0,11,3,3,9,4,9,4,4,8,7,3
+UBCV,2017,S,MATH,215,,OVERALL,Elementary Differential Equations I,,65,66.2,17.41604863,94.0,18.0,11,3,3,9,4,9,4,4,8,7,3
+UBCV,2017,S,MATH,220,,921,Mathematical Proof,Mahta Khosravi,39,70.64102564,12.72479382,98.0,45.0,1,3,3,3,6,5,5,2,5,3,3
+UBCV,2017,S,MATH,220,,OVERALL,Mathematical Proof,,39,70.64102564,12.72479382,98.0,45.0,1,3,3,3,6,5,5,2,5,3,3
+UBCV,2017,S,MATH,221,,921,Matrix Algebra,Tai-Peng Tsai,144,71.32638889,13.980921,98.0,14.0,4,10,16,10,8,23,15,13,20,10,15
+UBCV,2017,S,MATH,221,,OVERALL,Matrix Algebra,,144,71.32638889,13.980921,98.0,14.0,4,10,16,10,8,23,15,13,20,10,15
+UBCV,2017,S,MATH,253,,921,Multivariable Calculus,Jim Bryan,96,77.32291667,16.91744338,99.0,3.0,6,3,3,4,5,5,7,11,16,13,23
+UBCV,2017,S,MATH,253,,OVERALL,Multivariable Calculus,,96,77.32291667,16.91744338,99.0,3.0,6,3,3,4,5,5,7,11,16,13,23
+UBCV,2017,S,MATH,255,,921,Ordinary Differential Equations,Patrick Walls,60,64.21666667,16.29400604,93.0,28.0,9,7,9,6,5,4,4,4,2,6,4
+UBCV,2017,S,MATH,255,,OVERALL,Ordinary Differential Equations,,60,64.21666667,16.29400604,93.0,28.0,9,7,9,6,5,4,4,4,2,6,4
+UBCV,2017,S,MATH,257,,921,Partial Differential Equations,Ian Frigaard,70,73.01428571,16.09527148,100.0,23.0,5,4,2,6,7,5,5,10,11,5,10
+UBCV,2017,S,MATH,257,,OVERALL,Partial Differential Equations,,70,73.01428571,16.09527148,100.0,23.0,5,4,2,6,7,5,5,10,11,5,10
+UBCV,2017,S,MATH,307,,921,Applied Linear Algebra,Ozgur Yilmaz;Roger Donaldson,112,65.1875,16.6557791,95.0,3.0,12,12,17,9,5,12,11,11,8,8,7
+UBCV,2017,S,MATH,307,,OVERALL,Applied Linear Algebra,,112,65.1875,16.6557791,95.0,3.0,12,12,17,9,5,12,11,11,8,8,7
+UBCV,2017,S,MATH,312,,921,Introduction to Number Theory,Michael Bennett;Nuno Barroso De Freitas,72,61.52777778,23.08097944,99.0,0.0,18,5,5,8,6,7,3,3,2,4,11
+UBCV,2017,S,MATH,312,,OVERALL,Introduction to Number Theory,,72,61.52777778,23.08097944,99.0,0.0,18,5,5,8,6,7,3,3,2,4,11
+UBCV,2017,S,MATH,316,,921,Elementary Differential Equations II,Ian Frigaard,45,66.04444444,15.41244414,94.0,28.0,5,5,5,7,2,3,3,7,1,6,1
+UBCV,2017,S,MATH,316,,OVERALL,Elementary Differential Equations II,,45,66.04444444,15.41244414,94.0,28.0,5,5,5,7,2,3,3,7,1,6,1
+UBCV,2017,S,MATH,317,,951,Calculus IV,Jim Bryan;Saikat Mazumdar,78,74.6025641,13.29128192,100.0,42.0,3,3,1,7,10,9,12,4,8,9,12
+UBCV,2017,S,MATH,317,,OVERALL,Calculus IV,,78,74.6025641,13.29128192,100.0,42.0,3,3,1,7,10,9,12,4,8,9,12

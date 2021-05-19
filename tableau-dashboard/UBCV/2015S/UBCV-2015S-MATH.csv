@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Andrew Rechnitzer;Maxim Stykow,59,48.86440678,24.49240391,97.0,2.0,28,8,,,,,,,,,
-UBCV,2015,S,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,59,48.86440678,24.492403908000004,97.0,2.0,28,8,,,,,,,,,
+UBCV,2015,S,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,59,48.86440678,24.492403908,97.0,2.0,28,8,,,,,,,,,
 UBCV,2015,S,MATH,101,,951,Integral Calculus with Applications to Physical Sciences and Engineering,Gregory Martin;Maxim Stykow,129,51.31007752,22.00099375,94.0,0.0,54,13,12,7,5,13,11,,6,,
 UBCV,2015,S,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,129,51.310077519,22.000993745,94.0,0.0,54,13,12,7,5,13,11,,6,,
 UBCV,2015,S,MATH,104,,921,Differential Calculus with Applications to Commerce and Social Sciences,Dong Li;Henrik Ruping,100,63.5,18.38120472,98.0,0.0,14,13,11,9,10,9,9,8,4.0,5,8
 UBCV,2015,S,MATH,104,,OVERALL,Differential Calculus with Applications to Commerce and Social Sciences,,100,63.5,18.381204718,98.0,0.0,14,13,11,9,10,9,9,8,4.0,5,8
-UBCV,2015,S,MATH,105,,951,Integral Calculus with Applications to Commerce and Social Sciences,Hexi Ye;Keqin Liu,113,66.41592920000001,15.18088887,99.0,0.0,9,13,14,16,14,10,6,7,8,6,10
+UBCV,2015,S,MATH,105,,951,Integral Calculus with Applications to Commerce and Social Sciences,Hexi Ye;Keqin Liu,113,66.4159292,15.18088887,99.0,0.0,9,13,14,16,14,10,6,7,8,6,10
 UBCV,2015,S,MATH,105,,OVERALL,Integral Calculus with Applications to Commerce and Social Sciences,,113,66.415929204,15.180888869,99.0,0.0,9,13,14,16,14,10,6,7,8,6,10
 UBCV,2015,S,MATH,200,,921,Calculus III,Albert Chau;Mattia Talpo,55,62.8,16.60142787,90.0,10.0,9,6,9,,,7,,5,6,,
 UBCV,2015,S,MATH,200,,OVERALL,Calculus III,,55,62.8,16.601427873,90.0,10.0,9,6,9,,,7,,5,6,,
@@ -15,7 +15,7 @@ UBCV,2015,S,MATH,220,,921,Mathematical Proof,Andrew Rechnitzer;Sandra Merchant,6
 UBCV,2015,S,MATH,220,,OVERALL,Mathematical Proof,,68,68.191176471,16.23728651,97.0,14.0,7,8,5,,,9,9,,9,7,
 UBCV,2015,S,MATH,221,,921,Matrix Algebra,Kai Rothauge;Vinayak Vatsal,128,70.34375,15.47028521,100.0,13.0,7,11,8,14,14,14,10,15,12,8,15
 UBCV,2015,S,MATH,221,,OVERALL,Matrix Algebra,,128,70.34375,15.470285208,100.0,13.0,7,11,8,14,14,14,10,15,12,8,15
-UBCV,2015,S,MATH,253,,921,Multivariable Calculus,Albert Chau;Mattia Talpo,71,69.19718309999999,16.72946051,98.0,33.0,8,10,,,7,9,5,,,8,12
+UBCV,2015,S,MATH,253,,921,Multivariable Calculus,Albert Chau;Mattia Talpo,71,69.1971831,16.72946051,98.0,33.0,8,10,,,7,9,5,,,8,12
 UBCV,2015,S,MATH,253,,OVERALL,Multivariable Calculus,,71,69.197183099,16.729460514,98.0,33.0,8,10,,,7,9,5,,,8,12
 UBCV,2015,S,MATH,255,,921,Ordinary Differential Equations,Malabika Pramanik,83,67.42168675,16.62507692,98.0,5.0,8,9,,10,7,10,10,,7,10,5
 UBCV,2015,S,MATH,255,,OVERALL,Ordinary Differential Equations,,83,67.421686747,16.625076917,98.0,5.0,8,9,,10,7,10,10,,7,10,5
@@ -30,4 +30,4 @@ UBCV,2015,S,MATH,316,,OVERALL,Elementary Differential Equations II,,48,66.25,20.
 UBCV,2015,S,MATH,317,,951,Calculus IV,Jim Bryan;Uriya First,50,66.18,17.41415094,92.0,0.0,,8,6,,,7,5,,7,,
 UBCV,2015,S,MATH,317,,OVERALL,Calculus IV,,50,66.18,17.414150943,92.0,0.0,,8,6,,,7,5,,7,,
 UBCV,2015,S,MATH,340,,921,Introduction to Linear Programming,Tali Pinsky,51,77.37254902,13.38500771,100.0,41.0,,,,,,9,,,11,11,7
-UBCV,2015,S,MATH,340,,OVERALL,Introduction to Linear Programming,,51,77.37254902,13.385007709000002,100.0,41.0,,,,,,9,,,11,11,7
+UBCV,2015,S,MATH,340,,OVERALL,Introduction to Linear Programming,,51,77.37254902,13.385007709,100.0,41.0,,,,,,9,,,11,11,7

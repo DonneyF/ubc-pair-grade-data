@@ -1,24 +1,24 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,FMST,210,,001,Family Context of Human Development,Maria Weatherby;Rafael Wainer;Robyn Pitman;Vahid Rashidi,75,79.57333333300001,9.260747347999999,98.0,56.0,,,,,5,7,11.0,9,12,20,8
-UBCV,2018,W,FMST,210,,004,Family Context of Human Development,David Mok;Maria Weatherby;Rafael Wainer;Sheila Marshall;Zahra Barani,131,72.374045802,6.769087972,84.0,34.0,,,,10,9,28,36.0,26,19,,
-UBCV,2018,W,FMST,210,,005,Family Context of Human Development,Alexa Atherly;James M White;Maria Weatherby;Robyn Pitman,110,77.781818182,10.171359158,94.0,30.0,,,,,5,12,13.0,24,22,19,9
-UBCV,2018,W,FMST,210,,008,Family Context of Human Development,James M White;Jastej Luddu;Maria Weatherby;Robyn Pitman,102,76.54901960800001,10.878835344,94.0,45.0,,,,,3,10,13.0,18,18,21,6
-UBCV,2018,W,FMST,210,,009,Family Context of Human Development,Alexa Atherly;James M White;Maria Weatherby;Phyllis Johnson;Rafael Wainer;Robyn Pitman,99,72.161616162,6.631260339,90.0,57.0,,,,,12,27,24.0,14,11,,
-UBCV,2018,W,FMST,210,,201,Family Context of Human Development,Maria Weatherby;Zahra Barani,85,65.635294118,16.963439018,97.0,0.0,11,6,8,7,12,10,6.0,11,4,8,2.0
-UBCV,2018,W,FMST,210,,202,Family Context of Human Development,Maria Weatherby;Zihan Guo,70,69.071428571,14.878562955,98.0,23.0,4.0,6,9,5,6,4,10.0,10,5,6,5
-UBCV,2018,W,FMST,210,,203,Family Context of Human Development,Maria Weatherby;Xueqing Zhang,101,70.792079208,14.974189014,97.0,22.0,5,6,10,7,12,16,3.0,9,10,15,8
-UBCV,2018,W,FMST,210,,OVERALL,Family Context of Human Development,,773,73.119016818,12.207460263,98.0,0.0,27,22,38,39,64,114,116.0,121,101,92,39
-UBCV,2018,W,FMST,238,,002,Family Resource Management,Phyllis Johnson,13,80.0,10.0,94.0,60.0,,,,,1,1,0.0,2,4,,
-UBCV,2018,W,FMST,238,,101,Family Resource Management,Daniella Pettenon;Mary Connolly,55,75.490909091,6.72439651,91.0,62.0,,,,,6,9,13.0,7,14,,
-UBCV,2018,W,FMST,238,,OVERALL,Family Resource Management,,68,76.352941176,7.585856253999999,94.0,60.0,,,,,7,10,13.0,9,18,5,
-UBCV,2018,W,FMST,312,,002,Parent-child Relationships,Elydah Joyce;Maria Weatherby;Robyn Pitman,68,81.794117647,10.54564892,97.0,17.0,,0,,,3,,6.0,12,16,19,10
-UBCV,2018,W,FMST,312,,201,Parent-child Relationships,Daniella Pettenon;Maria Weatherby,42,73.285714286,15.561499887,97.0,43.0,,5,,,5,,3.0,2,3,8,7
-UBCV,2018,W,FMST,312,,202,Parent-child Relationships,Elydah Joyce;James M White;Maria Weatherby;Shannon Russell,70,69.2,17.135098313,96.0,20.0,7,6,5,3.0,6,8,5.0,7,11,7,5
-UBCV,2018,W,FMST,312,,OVERALL,Parent-child Relationships,,180,74.911111111,15.544956929000001,97.0,17.0,9,11,8,7,14,10,14.0,21,30,34,22
-UBCV,2018,W,FMST,314,,101,Relationship Development,Jasmeen Kaur Khaira;Jasmeen Khaira;Robyn Pitman,78,83.576923077,6.669409193,99.0,63.0,,,,,,,7.0,9,20,24,14
-UBCV,2018,W,FMST,314,,201,Relationship Development,Morgan Phillips;Silvia Bartolic,61,77.327868852,8.772535383,91.0,50.0,,,,,,,9.0,11,17,11,3
-UBCV,2018,W,FMST,314,,202,Relationship Development,Richard Yuen;Robyn Pitman,90,82.3,6.7281899,95.0,62.0,,,,,,,10.0,12,22,27,13
-UBCV,2018,W,FMST,314,,OVERALL,Relationship Development,,229,81.410480349,7.702077313999999,99.0,50.0,,,,,,11,26.0,32,59,62,30
-UBCV,2018,W,FMST,316,,002,Human Sexuality,Brandy Wiebe;Ka Yi Nicole Cheng,79,71.265822785,10.945914659000001,91.0,16.0,,,,6,11,12,12.0,14,10,4,
-UBCV,2018,W,FMST,316,,201,Human Sexuality,Brandy Wiebe;Siqi Xiao,77,73.142857143,9.723431122000001,88.0,35.0,,,,4,8,13,12.0,13,15,6,
-UBCV,2018,W,FMST,316,,OVERALL,Human Sexuality,,156,72.192307692,10.370003506,91.0,16.0,,5,5,10,19,25,24.0,27,25,10,
+UBCV,2018,W,FMST,210,,001,Family Context of Human Development,Maria Weatherby;Rafael Wainer;Robyn Pitman;Vahid Rashidi,75,79.57333333,9.260747348,98.0,56.0,0,0.0,2,1,5.0,7,11.0,9,12,20,8
+UBCV,2018,W,FMST,210,,004,Family Context of Human Development,David Mok;Maria Weatherby;Rafael Wainer;Sheila Marshall;Zahra Barani,131,72.3740458,6.769087972,84.0,34.0,1,0.0,2,10,9.0,28,36.0,26,19,0,0
+UBCV,2018,W,FMST,210,,005,Family Context of Human Development,Alexa Atherly;James M White;Maria Weatherby;Robyn Pitman,110,77.78181818,10.17135916,94.0,30.0,3,1.0,1,1,5.0,12,13.0,24,22,19,9
+UBCV,2018,W,FMST,210,,008,Family Context of Human Development,James M White;Jastej Luddu;Maria Weatherby;Robyn Pitman,102,76.54901961,10.87883534,94.0,45.0,3,3.0,3,4,3.0,10,13.0,18,18,21,6
+UBCV,2018,W,FMST,210,,009,Family Context of Human Development,Alexa Atherly;James M White;Maria Weatherby;Phyllis Johnson;Rafael Wainer;Robyn Pitman,99,72.16161616,6.631260339,90.0,57.0,0,0.0,3,4,12.0,27,24.0,14,11,3,1
+UBCV,2018,W,FMST,210,,201,Family Context of Human Development,Maria Weatherby;Zahra Barani,85,65.63529412,16.96343902,97.0,0.0,11,6.0,8,7,12.0,10,6.0,11,4,8,2
+UBCV,2018,W,FMST,210,,202,Family Context of Human Development,Maria Weatherby;Zihan Guo,70,69.07142857,14.87856296,98.0,23.0,4,6.0,9,5,6.0,4,10.0,10,5,6,5
+UBCV,2018,W,FMST,210,,203,Family Context of Human Development,Maria Weatherby;Xueqing Zhang,101,70.79207921,14.97418901,97.0,22.0,5,6.0,10,7,12.0,16,3.0,9,10,15,8
+UBCV,2018,W,FMST,210,,OVERALL,Family Context of Human Development,,773,73.11901682,12.20746026,98.0,0.0,27,22.0,38,39,64.0,114,116.0,121,101,92,39
+UBCV,2018,W,FMST,238,,002,Family Resource Management,Phyllis Johnson,13,80.0,10.0,94.0,60.0,0,0.0,0,1,1.0,1,0.0,2,4,2,2
+UBCV,2018,W,FMST,238,,101,Family Resource Management,Daniella Pettenon;Mary Connolly,55,75.49090909,6.72439651,91.0,62.0,0,0.0,0,1,6.0,9,13.0,7,14,3,2
+UBCV,2018,W,FMST,238,,OVERALL,Family Resource Management,,68,76.35294118,7.585856254,94.0,60.0,0,0.0,0,2,7.0,10,13.0,9,18,5,4
+UBCV,2018,W,FMST,312,,002,Parent-child Relationships,Elydah Joyce;Maria Weatherby;Robyn Pitman,68,81.79411765,10.54564892,97.0,17.0,1,0.0,0,0,3.0,1,6.0,12,16,19,10
+UBCV,2018,W,FMST,312,,201,Parent-child Relationships,Daniella Pettenon;Maria Weatherby,42,73.28571429,15.56149989,97.0,43.0,1,5.0,3,4,5.0,1,3.0,2,3,8,7
+UBCV,2018,W,FMST,312,,202,Parent-child Relationships,Elydah Joyce;James M White;Maria Weatherby;Shannon Russell,70,69.2,17.13509831,96.0,20.0,7,6.0,5,3,6.0,8,5.0,7,11,7,5
+UBCV,2018,W,FMST,312,,OVERALL,Parent-child Relationships,,180,74.91111111,15.54495693,97.0,17.0,9,11.0,8,7,14.0,10,14.0,21,30,34,22
+UBCV,2018,W,FMST,314,,101,Relationship Development,Jasmeen Kaur Khaira;Jasmeen Khaira;Robyn Pitman,78,83.57692308,6.669409193,99.0,63.0,0,0.0,0,1,0.0,3,7.0,9,20,24,14
+UBCV,2018,W,FMST,314,,201,Relationship Development,Morgan Phillips;Silvia Bartolic,61,77.32786885,8.772535383,91.0,50.0,0,2.0,2,2,0.0,4,9.0,11,17,11,3
+UBCV,2018,W,FMST,314,,202,Relationship Development,Richard Yuen;Robyn Pitman,90,82.3,6.7281899,95.0,62.0,0,0.0,0,1,1.0,4,10.0,12,22,27,13
+UBCV,2018,W,FMST,314,,OVERALL,Relationship Development,,229,81.41048035,7.702077314,99.0,50.0,0,2.0,2,4,1.0,11,26.0,32,59,62,30
+UBCV,2018,W,FMST,316,,002,Human Sexuality,Brandy Wiebe;Ka Yi Nicole Cheng,79,71.26582279,10.94591466,91.0,16.0,2,3.0,3,6,11.0,12,12.0,14,10,4,2
+UBCV,2018,W,FMST,316,,201,Human Sexuality,Brandy Wiebe;Siqi Xiao,77,73.14285714,9.723431122,88.0,35.0,2,2.0,2,4,8.0,13,12.0,13,15,6,0
+UBCV,2018,W,FMST,316,,OVERALL,Human Sexuality,,156,72.19230769,10.37000351,91.0,16.0,4,5.0,5,10,19.0,25,24.0,27,25,10,2

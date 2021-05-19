@@ -1,13 +1,13 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,ARCH,544,G,001,Seminar in Architecture,George Stuart Wagner,10,86.0,0.0,86.0,86.0,,,,,,,,,,10,
-UBCV,2016,S,ARCH,544,G,OVERALL,Seminar in Architecture,,10,86.0,0.0,86.0,86.0,,,,,,,,,,10,
-UBCV,2016,S,ARCH,544,I,001,Seminar in Architecture,Alicia Breck,10,81.9,6.740425308,90.0,71.0,,,,,,,,,,,
-UBCV,2016,S,ARCH,544,I,OVERALL,Seminar in Architecture,,10,81.9,6.740425308,90.0,71.0,,,,,,,,,,,
-UBCV,2016,S,ARCH,544,Y,001,Seminar in Architecture,Gregory Johnson,13,90.0,0.0,90.0,90.0,,,,,,,,,,,13
-UBCV,2016,S,ARCH,544,Y,OVERALL,Seminar in Architecture,,13,90.0,0.0,90.0,90.0,,,,,,,,,,,13
-UBCV,2016,S,ARCH,545,A,941,Directed Studies in Architecture,,13,85.461538462,5.010245912,95.0,80.0,,,,,,,,,8,,
-UBCV,2016,S,ARCH,545,A,OVERALL,Directed Studies in Architecture,,13,85.461538462,5.010245912,95.0,80.0,,,,,,,,,8,,
-UBCV,2016,S,ARCH,573,G,001,Seminar: Environmental Studies,Raymond Cole;Raymond John Cole;Raymond John J Cole,8,86.875,2.6423744730000003,91.0,83.0,,,,,,,,,,5,
-UBCV,2016,S,ARCH,573,G,OVERALL,Seminar: Environmental Studies,,8,86.875,2.6423744730000003,91.0,83.0,,,,,,,,,,5,
-UBCV,2016,S,ARCH,577,,001,Seminar: Design Media,Amy Stapleton;Blair Satterfield;Nicole Sylvia;Roy Cloutier;Ryder Thalheimer;Yajiao Fan,57,78.96491228100001,5.970058962,90.0,60.0,,,,,,,9,10,20,11,
-UBCV,2016,S,ARCH,577,,OVERALL,Seminar: Design Media,,57,78.96491228100001,5.970058962,90.0,60.0,,,,,,,9,10,20,11,
+UBCV,2016,S,ARCH,544,G,001,Seminar in Architecture,George Stuart Wagner,10,86.0,0.0,86.0,86.0,0,0,0,0,0,0,0,0,0,10,0
+UBCV,2016,S,ARCH,544,G,OVERALL,Seminar in Architecture,,10,86.0,0.0,86.0,86.0,0,0,0,0,0,0,0,0,0,10,0
+UBCV,2016,S,ARCH,544,I,001,Seminar in Architecture,Alicia Breck,10,81.9,6.740425308,90.0,71.0,0,0,0,0,0,1,1,2,2,2,2
+UBCV,2016,S,ARCH,544,I,OVERALL,Seminar in Architecture,,10,81.9,6.740425308,90.0,71.0,0,0,0,0,0,1,1,2,2,2,2
+UBCV,2016,S,ARCH,544,Y,001,Seminar in Architecture,Gregory Johnson,13,90.0,0.0,90.0,90.0,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2016,S,ARCH,544,Y,OVERALL,Seminar in Architecture,,13,90.0,0.0,90.0,90.0,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2016,S,ARCH,545,A,941,Directed Studies in Architecture,,13,85.46153846,5.010245912,95.0,80.0,0,0,0,0,0,0,0,0,8,2,3
+UBCV,2016,S,ARCH,545,A,OVERALL,Directed Studies in Architecture,,13,85.46153846,5.010245912,95.0,80.0,0,0,0,0,0,0,0,0,8,2,3
+UBCV,2016,S,ARCH,573,G,001,Seminar: Environmental Studies,Raymond Cole;Raymond John Cole;Raymond John J Cole,8,86.875,2.642374473,91.0,83.0,0,0,0,0,0,0,0,0,2,5,1
+UBCV,2016,S,ARCH,573,G,OVERALL,Seminar: Environmental Studies,,8,86.875,2.642374473,91.0,83.0,0,0,0,0,0,0,0,0,2,5,1
+UBCV,2016,S,ARCH,577,,001,Seminar: Design Media,Amy Stapleton;Blair Satterfield;Nicole Sylvia;Roy Cloutier;Ryder Thalheimer;Yajiao Fan,57,78.96491228,5.970058962,90.0,60.0,0,0,0,1,1,4,9,10,20,11,1
+UBCV,2016,S,ARCH,577,,OVERALL,Seminar: Design Media,,57,78.96491228,5.970058962,90.0,60.0,0,0,0,1,1,4,9,10,20,11,1

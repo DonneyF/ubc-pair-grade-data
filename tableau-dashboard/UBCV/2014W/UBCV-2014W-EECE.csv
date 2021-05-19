@@ -1,20 +1,20 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,EECE,210,,101,Principles of Software Construction,Sathish Gopalakrishnan,215,75.87906977,13.075420300000001,96.0,20.0,8,7,6,11,12,14,29,32,48,29,19
-UBCV,2014,W,EECE,210,,OVERALL,Principles of Software Construction,,215,75.87906977,13.075420300000001,96.0,20.0,8,7,6,11,12,14,29,32,48,29,19
-UBCV,2014,W,EECE,230,,201,Selected Topics in Biomedical Engineering,Purang Abolmaesumi,21,89.52380952,4.976133515,100.0,80.0,,,,,,,,,,,15
-UBCV,2014,W,EECE,230,,OVERALL,Selected Topics in Biomedical Engineering,,21,89.52380952,4.976133515,100.0,80.0,,,,,,,,,,,15
+UBCV,2014,W,EECE,210,,101,Principles of Software Construction,Sathish Gopalakrishnan,215,75.87906977,13.0754203,96.0,20.0,8,7,6,11,12,14,29,32,48,29,19
+UBCV,2014,W,EECE,210,,OVERALL,Principles of Software Construction,,215,75.87906977,13.0754203,96.0,20.0,8,7,6,11,12,14,29,32,48,29,19
+UBCV,2014,W,EECE,230,,201,Selected Topics in Biomedical Engineering,Purang Abolmaesumi,21,89.52380952,4.976133515,100.0,80.0,0,0,0,0,0,0,0,0,,,15
+UBCV,2014,W,EECE,230,,OVERALL,Selected Topics in Biomedical Engineering,,21,89.52380952,4.976133515,100.0,80.0,0,0,0,0,0,0,0,0,,,15
 UBCV,2014,W,EECE,251,,101,Circuit Analysis I,Luis Linares,108,72.73148148,17.38600064,98.0,3.0,9,4.0,7,5,10,8,8,6,22,13,16
 UBCV,2014,W,EECE,251,,102,Circuit Analysis I,Farshid Agharebparast,79,71.16455696,19.24566577,100.0,33.0,9,12,5,3.0,5,4,5,4,7,8,17
 UBCV,2014,W,EECE,251,,201,Circuit Analysis I,Saloome Motavas,120,76.6,15.66530181,100.0,15.0,3,16,1,4.0,2,8,9,8,26,15,28
 UBCV,2014,W,EECE,251,,OVERALL,Circuit Analysis I,,307,73.84039088,17.34399928,100.0,3.0,21,32,13,12,17,20,22,18,55,36,61
-UBCV,2014,W,EECE,252,,101,Linear Circuits,Shahriar Mirabbasi,66,79.98484849,11.14035274,98.0,51.0,,,,,5,,,6,17,5,20
-UBCV,2014,W,EECE,252,,OVERALL,Linear Circuits,,66,79.98484849,11.14035274,98.0,51.0,,,,,5,,,6,17,5,20
+UBCV,2014,W,EECE,252,,101,Linear Circuits,Shahriar Mirabbasi,66,79.98484849,11.14035274,98.0,51.0,0,,,,5,,,6,17,5,20
+UBCV,2014,W,EECE,252,,OVERALL,Linear Circuits,,66,79.98484849,11.14035274,98.0,51.0,0,,,,5,,,6,17,5,20
 UBCV,2014,W,EECE,253,,101,Circuit Analysis II,Luis Linares,52,70.40384615,15.0401549,100.0,50.0,0,11,2,7,5,4,1,4,6,4,8
 UBCV,2014,W,EECE,253,,201,Circuit Analysis II,Luis Linares,139,66.07913669,13.92998265,100.0,27.0,9,16,23,9,22,13,9,10,13,5,10
 UBCV,2014,W,EECE,253,,202,Circuit Analysis II,Cristian Sorin Grecu;Joseph Yan,111,64.18018018,19.69596091,100.0,20.0,25,12,9,10,8,7,5,6,7,6,16
 UBCV,2014,W,EECE,253,,OVERALL,Circuit Analysis II,,302,66.12582782,16.54142274,100.0,20.0,34,39,34,26,35,24,15,20,26,15,34
 UBCV,2014,W,EECE,259,,101,Introduction to Microcomputers,Tor Aamodt,171,73.71345029,16.07317075,100.0,0.0,7,7,7,9,14,23,15,19,33,19,18
-UBCV,2014,W,EECE,259,,102,Introduction to Microcomputers,Tor Aamodt,139,72.33812950000001,16.67661469,99.0,0.0,10,3.0,6,9,6,21,23,16,17,14,14
+UBCV,2014,W,EECE,259,,102,Introduction to Microcomputers,Tor Aamodt,139,72.3381295,16.67661469,99.0,0.0,10,3.0,6,9,6,21,23,16,17,14,14
 UBCV,2014,W,EECE,259,,OVERALL,Introduction to Microcomputers,,310,73.09677419,16.33420149,100.0,0.0,17,10,13,18,20,44,38,35,50,33,32
 UBCV,2014,W,EECE,261,,201,Engineering Electromagnetics,Carol Patricia Jaeger,107,66.13084112,14.65005899,99.0,12.0,11,9,12,9,16,14,11,7,9,3.0,6
 UBCV,2014,W,EECE,261,,202,Engineering Electromagnetics,Carol Patricia Jaeger,89,63.43820225,16.96048553,99.0,0.0,12,9,13,9,11,9,5,2,14,1.0,4
@@ -23,26 +23,26 @@ UBCV,2014,W,EECE,263,,101,Basic Circuit Analysis,Reza Molavi,107,74.28971963,12.
 UBCV,2014,W,EECE,263,,OVERALL,Basic Circuit Analysis,,107,74.28971963,12.67519442,99.0,40.0,,7,,9,8,15,18,9,13,14,11
 UBCV,2014,W,EECE,269,,101,Signals and Systems,Vijay Bhargava,52,67.23076923,15.11344731,96.0,16.0,6,,7,4,,5,11,7,4,2,2
 UBCV,2014,W,EECE,269,,201,Signals and Systems,Lutz Lampe,104,70.84615385,18.84364343,98.0,12.0,11,,8,13,,8,8,6,12,11,19
-UBCV,2014,W,EECE,269,,202,Signals and Systems,Edmond Cretu,135,65.67407407,16.100352100000002,99.0,5.0,15,14,15,15,9,21,9,11,12,6,8
+UBCV,2014,W,EECE,269,,202,Signals and Systems,Edmond Cretu,135,65.67407407,16.1003521,99.0,5.0,15,14,15,15,9,21,9,11,12,6,8
 UBCV,2014,W,EECE,269,,OVERALL,Signals and Systems,,291,67.80068729,17.07493019,99.0,5.0,32,18,30,32,17,34,28,24,28,19,29
-UBCV,2014,W,EECE,281,,201,Electrical and Computer Engineering Design Studio,Jesus Calvino-Fraga,166,83.37349398,7.137117393,99.0,64.0,,,,,,9,10,28,35,47,35
+UBCV,2014,W,EECE,281,,201,Electrical and Computer Engineering Design Studio,Jesus Calvino-Fraga,166,83.37349398,7.137117393,99.0,64.0,0,0,0,0,2.0,9,10,28,35,47,35
 UBCV,2014,W,EECE,281,,202,Electrical and Computer Engineering Design Studio,Farshid Agharebparast,116,85.18103448,11.49941332,100.0,0.0,,,,,,10,6,6,9,31,51
 UBCV,2014,W,EECE,281,,OVERALL,Electrical and Computer Engineering Design Studio,,282,84.11702128,9.20991619,100.0,0.0,,,,,,19,16,34,44,78,86
 UBCV,2014,W,EECE,282,,201,Biomedical Engineering Design Studio,Jesus Calvino-Fraga,19,86.84210526,12.69848267,100.0,47.0,,,,,,,,,,6,9
 UBCV,2014,W,EECE,282,,OVERALL,Biomedical Engineering Design Studio,,19,86.84210526,12.69848267,100.0,47.0,,,,,,,,,,6,9
-UBCV,2014,W,EECE,284,,L2A,Electronics Laboratory,Jesus Calvino-Fraga,34,81.82352941,13.99668919,100.0,53.0,,,,,5,,,,6,,14
-UBCV,2014,W,EECE,284,,L2B,Electronics Laboratory,Jesus Calvino-Fraga,22,85.86363636,12.0684376,100.0,66.0,,,,,1,,,,1,,12
-UBCV,2014,W,EECE,284,,OVERALL,Electronics Laboratory,,56,83.41071429,13.30861209,100.0,53.0,,,,,6,5,,6,7,,26
+UBCV,2014,W,EECE,284,,L2A,Electronics Laboratory,Jesus Calvino-Fraga,34,81.82352941,13.99668919,100.0,53.0,0,,,,5,,,,6,,14
+UBCV,2014,W,EECE,284,,L2B,Electronics Laboratory,Jesus Calvino-Fraga,22,85.86363636,12.0684376,100.0,66.0,0,0,0,0,1,,,,1,,12
+UBCV,2014,W,EECE,284,,OVERALL,Electronics Laboratory,,56,83.41071429,13.30861209,100.0,53.0,0,,,,6,5,,6,7,,26
 UBCV,2014,W,EECE,300,,201,Molecules to Mechanisms,Edmond Cretu;Karen Cheung,22,65.81818182,13.50709289,90.0,35.0,,,,,,,,,,,
 UBCV,2014,W,EECE,300,,OVERALL,Molecules to Mechanisms,,22,65.81818182,13.50709289,90.0,35.0,,,,,,,,,,,
-UBCV,2014,W,EECE,310,,101,Software Engineering,Ali Mesbah,84,76.80952381,8.441829572,96.0,56.0,,,,,,8,17,15,18,14,
-UBCV,2014,W,EECE,310,,OVERALL,Software Engineering,,84,76.80952381,8.441829572,96.0,56.0,,,,,,8,17,15,18,14,
+UBCV,2014,W,EECE,310,,101,Software Engineering,Ali Mesbah,84,76.80952381,8.441829572,96.0,56.0,0,0,,,,8,17,15,18,14,
+UBCV,2014,W,EECE,310,,OVERALL,Software Engineering,,84,76.80952381,8.441829572,96.0,56.0,0,0,,,,8,17,15,18,14,
 UBCV,2014,W,EECE,314,,101,System Software Engineering,Paul Davies,58,77.94827586,16.56292882,96.0,0.0,,,,,,,5,8,5,12,14
 UBCV,2014,W,EECE,314,,OVERALL,System Software Engineering,,58,77.94827586,16.56292882,96.0,0.0,,,,,,,5,8,5,12,14
 UBCV,2014,W,EECE,315,,201,Operating Systems,Farshid Agharebparast,86,70.23255814,12.96663086,96.0,35.0,2.0,12,5,6,10,8,6,15,11,5,6
 UBCV,2014,W,EECE,315,,OVERALL,Operating Systems,,86,70.23255814,12.96663086,96.0,35.0,2.0,12,5,6,10,8,6,15,11,5,6
-UBCV,2014,W,EECE,331,,201,Biomedical Engineering Instrumentation,Leo Stocco,20,85.0,9.459053029,97.0,71.0,,,,,,,,,,,10
-UBCV,2014,W,EECE,331,,OVERALL,Biomedical Engineering Instrumentation,,20,85.0,9.459053029,97.0,71.0,,,,,,,,,,,10
+UBCV,2014,W,EECE,331,,201,Biomedical Engineering Instrumentation,Leo Stocco,20,85.0,9.459053029,97.0,71.0,0,0,0,0,0,,,,,,10
+UBCV,2014,W,EECE,331,,OVERALL,Biomedical Engineering Instrumentation,,20,85.0,9.459053029,97.0,71.0,0,0,0,0,0,,,,,,10
 UBCV,2014,W,EECE,352,,101,Electronic Materials and Devices,Peyman Servati,100,68.92,12.95187674,98.0,27.0,5,7,9,6,16,11,14,9,12,5,6
 UBCV,2014,W,EECE,352,,201,Electronic Materials and Devices,Peyman Servati,59,73.10169492,17.406593,98.0,0.0,2,4,4,4,8,4,3,5,7,7,11
 UBCV,2014,W,EECE,352,,OVERALL,Electronic Materials and Devices,,159,70.47169811,14.84724384,98.0,0.0,7,11,13,10,24,15,17,14,19,12,17
@@ -61,8 +61,8 @@ UBCV,2014,W,EECE,358,,OVERALL,Computer Communications,,79,69.13924051,17.5482734
 UBCV,2014,W,EECE,360,,101,Systems and Control,Leo Stocco,152,73.77631579,17.68757463,97.0,0.0,13,2.0,5,7,11,16,19,16,15,24,24
 UBCV,2014,W,EECE,360,,201,Systems and Control,Zhen Wang,67,68.68656716,15.21383835,98.0,20.0,4,5,6,10,7,4,9,5,7,5,5
 UBCV,2014,W,EECE,360,,OVERALL,Systems and Control,,219,72.21917808,17.09679398,98.0,0.0,17,7,11,17,18,20,28,21,22,29,29
-UBCV,2014,W,EECE,363,,201,Electronic Circuits for Electromechanical Design,Reza Molavi,31,77.48387097,8.461170005,92.0,56.0,,,,,,,,,8,7,
-UBCV,2014,W,EECE,363,,OVERALL,Electronic Circuits for Electromechanical Design,,31,77.48387097,8.461170005,92.0,56.0,,,,,,,,,8,7,
+UBCV,2014,W,EECE,363,,201,Electronic Circuits for Electromechanical Design,Reza Molavi,31,77.48387097,8.461170005,92.0,56.0,0,0,,,,,,,8,7,
+UBCV,2014,W,EECE,363,,OVERALL,Electronic Circuits for Electromechanical Design,,31,77.48387097,8.461170005,92.0,56.0,0,0,,,,,,,8,7,
 UBCV,2014,W,EECE,364,,101,Electromagnetic Fields and Waves,Alireza Nojeh,110,62.20909091,15.15733719,100.0,18.0,24,6,14,13,14,11,10,4,4,6,4
 UBCV,2014,W,EECE,364,,201,Electromagnetic Fields and Waves,Konrad Walus,66,74.65151515,15.09201768,98.0,0.0,3,0,1,7,7,8,6,7,10,8,9
 UBCV,2014,W,EECE,364,,OVERALL,Electromagnetic Fields and Waves,,176,66.875,16.2539226,100.0,0.0,27,6,15,20,21,19,16,11,14,14,13
@@ -74,149 +74,149 @@ UBCV,2014,W,EECE,373,,201,Electro-Mechanical Energy Conversion and Transmission,
 UBCV,2014,W,EECE,373,,OVERALL,Electro-Mechanical Energy Conversion and Transmission,,174,65.93678161,12.1127422,96.0,37.0,20,12,17,23,17,19,34,7,15,6,4.0
 UBCV,2014,W,EECE,376,,201,Electromechanics,Juri Jatskevich,74,70.77027027,15.22574181,94.0,30.0,11,,,,,11,7,8,14,,9
 UBCV,2014,W,EECE,376,,OVERALL,Electromechanics,,74,70.77027027,15.22574181,94.0,30.0,11,,,,,11,7,8,14,,9
-UBCV,2014,W,EECE,380,,201,Electrical Engineering Design Studio,Leo Stocco,154,76.59090909,11.54791871,99.0,50.0,0.0,5,7,12,11,14,14,21,26,17,27
-UBCV,2014,W,EECE,380,,OVERALL,Electrical Engineering Design Studio,,154,76.59090909,11.54791871,99.0,50.0,0.0,5,7,12,11,14,14,21,26,17,27
-UBCV,2014,W,EECE,381,,101,Computer Systems Design Studio,Steven Wilton,37,80.94594595,7.93706476,94.0,65.0,,,,,2,3,3,7,10,5,7
-UBCV,2014,W,EECE,381,,201,Computer Systems Design Studio,Guy Lemieux,71,80.16901409,9.62286847,94.0,59.0,,,,,5,12,7,7,4,24,10
-UBCV,2014,W,EECE,381,,OVERALL,Computer Systems Design Studio,,108,80.43518519,9.05050538,94.0,59.0,,,,,7,15,10,14,14,29,17
-UBCV,2014,W,EECE,392,,201,Electric Energy Systems,Luis Linares,47,75.4893617,9.378217917999999,96.0,50.0,,,,,6,5,8,9,9,,5
-UBCV,2014,W,EECE,392,,OVERALL,Electric Energy Systems,,47,75.4893617,9.378217917999999,96.0,50.0,,,,,6,5,8,9,9,,5
-UBCV,2014,W,EECE,400,,001,Nanotechnology and Microsystems Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,12,89.5,3.896385271,95.0,83.0,,,,,,,,,,,7
-UBCV,2014,W,EECE,400,,OVERALL,Nanotechnology and Microsystems Capstone Design Project,,12,89.5,3.896385271,95.0,83.0,,,,,,,,,,,7
-UBCV,2014,W,EECE,401,,101,Nanotechnology in Electronics,John Madden,24,76.95833333,12.78068912,99.0,55.0,,,,,,,,,7,,
-UBCV,2014,W,EECE,401,,OVERALL,Nanotechnology in Electronics,,24,76.95833333,12.78068912,99.0,55.0,,,,,,,,,7,,
-UBCV,2014,W,EECE,402,,101,Sensors and Actuators in Microsystems,Boris Stoeber,41,72.85365854,13.53802234,97.0,50.0,,5,,,5,5,,,7,,6
-UBCV,2014,W,EECE,402,,OVERALL,Sensors and Actuators in Microsystems,,41,72.85365854,13.53802234,97.0,50.0,,5,,,5,5,,,7,,6
-UBCV,2014,W,EECE,403,,201,Micro/Nanofabrication and Instrumentation Laboratory,Lukas Chrostowski,19,77.57894737,8.82745584,91.0,61.0,,,,,,,,,,,
-UBCV,2014,W,EECE,403,,OVERALL,Micro/Nanofabrication and Instrumentation Laboratory,,19,77.57894737,8.82745584,91.0,61.0,,,,,,,,,,,
-UBCV,2014,W,EECE,409,,001,Computer Engineering Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,63,84.52380952,6.8033605139999995,100.0,69.0,,,,,,,6,5,13,17,19
-UBCV,2014,W,EECE,409,,OVERALL,Computer Engineering Capstone Design Project,,63,84.52380952,6.8033605139999995,100.0,69.0,,,,,,,6,5,13,17,19
+UBCV,2014,W,EECE,380,,201,Electrical Engineering Design Studio,Leo Stocco,154,76.59090909,11.54791871,99.0,50.0,0,5,7,12,11,14,14,21,26,17,27
+UBCV,2014,W,EECE,380,,OVERALL,Electrical Engineering Design Studio,,154,76.59090909,11.54791871,99.0,50.0,0,5,7,12,11,14,14,21,26,17,27
+UBCV,2014,W,EECE,381,,101,Computer Systems Design Studio,Steven Wilton,37,80.94594595,7.93706476,94.0,65.0,0,0,0,0,2,3,3,7,10,5,7
+UBCV,2014,W,EECE,381,,201,Computer Systems Design Studio,Guy Lemieux,71,80.16901409,9.62286847,94.0,59.0,0,0,,,5,12,7,7,4,24,10
+UBCV,2014,W,EECE,381,,OVERALL,Computer Systems Design Studio,,108,80.43518519,9.05050538,94.0,59.0,0,0,,,7,15,10,14,14,29,17
+UBCV,2014,W,EECE,392,,201,Electric Energy Systems,Luis Linares,47,75.4893617,9.378217918,96.0,50.0,0,,,,6,5,8,9,9,,5
+UBCV,2014,W,EECE,392,,OVERALL,Electric Energy Systems,,47,75.4893617,9.378217918,96.0,50.0,0,,,,6,5,8,9,9,,5
+UBCV,2014,W,EECE,400,,001,Nanotechnology and Microsystems Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,12,89.5,3.896385271,95.0,83.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2014,W,EECE,400,,OVERALL,Nanotechnology and Microsystems Capstone Design Project,,12,89.5,3.896385271,95.0,83.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2014,W,EECE,401,,101,Nanotechnology in Electronics,John Madden,24,76.95833333,12.78068912,99.0,55.0,0,0,,,,,,,7,,
+UBCV,2014,W,EECE,401,,OVERALL,Nanotechnology in Electronics,,24,76.95833333,12.78068912,99.0,55.0,0,0,,,,,,,7,,
+UBCV,2014,W,EECE,402,,101,Sensors and Actuators in Microsystems,Boris Stoeber,41,72.85365854,13.53802234,97.0,50.0,0,5,,,5,5,,,7,,6
+UBCV,2014,W,EECE,402,,OVERALL,Sensors and Actuators in Microsystems,,41,72.85365854,13.53802234,97.0,50.0,0,5,,,5,5,,,7,,6
+UBCV,2014,W,EECE,403,,201,Micro/Nanofabrication and Instrumentation Laboratory,Lukas Chrostowski,19,77.57894737,8.82745584,91.0,61.0,0,0,0,,,,,,,,
+UBCV,2014,W,EECE,403,,OVERALL,Micro/Nanofabrication and Instrumentation Laboratory,,19,77.57894737,8.82745584,91.0,61.0,0,0,0,,,,,,,,
+UBCV,2014,W,EECE,409,,001,Computer Engineering Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,63,84.52380952,6.803360514,100.0,69.0,0,0,0,0,0,3.0,6,5,13,17,19
+UBCV,2014,W,EECE,409,,OVERALL,Computer Engineering Capstone Design Project,,63,84.52380952,6.803360514,100.0,69.0,0,0,0,0,0,3.0,6,5,13,17,19
 UBCV,2014,W,EECE,411,,201,Design of Distributed Software Applications,Radu Ripeanu,42,70.64285714,12.67380904,91.0,28.0,,,,5,5,8,5,,6,,
 UBCV,2014,W,EECE,411,,OVERALL,Design of Distributed Software Applications,,42,70.64285714,12.67380904,91.0,28.0,,,,5,5,8,5,,6,,
-UBCV,2014,W,EECE,412,,101,Introduction to Computer Security,Konstantin Beznosov,81,74.67901235,11.72265665,98.0,50.0,,,,5,12,10,6,10,12,11,7
-UBCV,2014,W,EECE,412,,OVERALL,Introduction to Computer Security,,81,74.67901235,11.72265665,98.0,50.0,,,,5,12,10,6,10,12,11,7
+UBCV,2014,W,EECE,412,,101,Introduction to Computer Security,Konstantin Beznosov,81,74.67901235,11.72265665,98.0,50.0,0,,,5,12,10,6,10,12,11,7
+UBCV,2014,W,EECE,412,,OVERALL,Introduction to Computer Security,,81,74.67901235,11.72265665,98.0,50.0,0,,,5,12,10,6,10,12,11,7
 UBCV,2014,W,EECE,416,,201,Software Testing and Analysis,Ali Mesbah,93,71.13978495,14.44749971,94.0,27.0,6,12,,,7,15,11,11,15,10,5
 UBCV,2014,W,EECE,416,,OVERALL,Software Testing and Analysis,,93,71.13978495,14.44749971,94.0,27.0,6,12,,,7,15,11,11,15,10,5
-UBCV,2014,W,EECE,418,,201,Human Computer Interfaces in Engineering Design,S Sidney Fels,73,71.8630137,8.086880783,89.0,45.0,,,,,6,15,16,14,10,,
-UBCV,2014,W,EECE,418,,OVERALL,Human Computer Interfaces in Engineering Design,,73,71.8630137,8.086880783,89.0,45.0,,,,,6,15,16,14,10,,
-UBCV,2014,W,EECE,419,,001,Software Engineering Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,55,86.96363636,5.865667959,98.0,72.0,,,,,,,,,7,24,17
-UBCV,2014,W,EECE,419,,OVERALL,Software Engineering Capstone Design Project,,55,86.96363636,5.865667959,98.0,72.0,,,,,,,,,7,24,17
-UBCV,2014,W,EECE,429,,001,Electrical Engineering Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,114,86.19298246,6.588911566,97.0,68.0,,,,,,5,,6,27,32,40
-UBCV,2014,W,EECE,429,,OVERALL,Electrical Engineering Capstone Design Project,,114,86.19298246,6.588911566,97.0,68.0,,,,,,5,,6,27,32,40
+UBCV,2014,W,EECE,418,,201,Human Computer Interfaces in Engineering Design,S Sidney Fels,73,71.8630137,8.086880783,89.0,45.0,,,,,6,15,16,14,10,,0
+UBCV,2014,W,EECE,418,,OVERALL,Human Computer Interfaces in Engineering Design,,73,71.8630137,8.086880783,89.0,45.0,,,,,6,15,16,14,10,,0
+UBCV,2014,W,EECE,419,,001,Software Engineering Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,55,86.96363636,5.865667959,98.0,72.0,0,0,0,0,0,0,,,7,24,17
+UBCV,2014,W,EECE,419,,OVERALL,Software Engineering Capstone Design Project,,55,86.96363636,5.865667959,98.0,72.0,0,0,0,0,0,0,,,7,24,17
+UBCV,2014,W,EECE,429,,001,Electrical Engineering Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,114,86.19298246,6.588911566,97.0,68.0,0,0,0,0,0,5,4.0,6,27,32,40
+UBCV,2014,W,EECE,429,,OVERALL,Electrical Engineering Capstone Design Project,,114,86.19298246,6.588911566,97.0,68.0,0,0,0,0,0,5,4.0,6,27,32,40
 UBCV,2014,W,EECE,432,,101,Biological Micro-Electro-Mechanical Systems,Karen Cheung,48,73.29166667,13.8747564,93.0,16.0,,,,5,5,,5,8,9,,5
 UBCV,2014,W,EECE,432,,OVERALL,Biological Micro-Electro-Mechanical Systems,,48,73.29166667,13.8747564,93.0,16.0,,,,5,5,,5,8,9,,5
-UBCV,2014,W,EECE,433,,101,Medical Imaging,Siamak Najarian,16,81.8125,7.52966356,95.0,62.0,,,,,,,,,6,,
-UBCV,2014,W,EECE,433,,OVERALL,Medical Imaging,,16,81.8125,7.52966356,95.0,62.0,,,,,,,,,6,,
+UBCV,2014,W,EECE,433,,101,Medical Imaging,Siamak Najarian,16,81.8125,7.52966356,95.0,62.0,0,0,0,,,,,,6,,
+UBCV,2014,W,EECE,433,,OVERALL,Medical Imaging,,16,81.8125,7.52966356,95.0,62.0,0,0,0,,,,,,6,,
 UBCV,2014,W,EECE,434,,201,Biosignals and Systems,Zhen Wang,22,73.77272727,13.78381321,95.0,40.0,,,,,,,,,5,,
 UBCV,2014,W,EECE,434,,OVERALL,Biosignals and Systems,,22,73.77272727,13.78381321,95.0,40.0,,,,,,,,,5,,
-UBCV,2014,W,EECE,439,,001,Biomedical Engineering Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,15,92.2,4.411025148,100.0,87.0,,,,,,,,,,,11
-UBCV,2014,W,EECE,439,,OVERALL,Biomedical Engineering Capstone Design Project,,15,92.2,4.411025148,100.0,87.0,,,,,,,,,,,11
-UBCV,2014,W,EECE,443,,101,Software Project Management,Philippe Kruchten,75,77.77333333,6.860725147999999,94.0,53.0,,,,,,6,12,18,24,7,
-UBCV,2014,W,EECE,443,,OVERALL,Software Project Management,,75,77.77333333,6.860725147999999,94.0,53.0,,,,,,6,12,18,24,7,
+UBCV,2014,W,EECE,439,,001,Biomedical Engineering Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,15,92.2,4.411025148,100.0,87.0,0,0,0,0,0,0,0,0,0,4.0,11
+UBCV,2014,W,EECE,439,,OVERALL,Biomedical Engineering Capstone Design Project,,15,92.2,4.411025148,100.0,87.0,0,0,0,0,0,0,0,0,0,4.0,11
+UBCV,2014,W,EECE,443,,101,Software Project Management,Philippe Kruchten,75,77.77333333,6.860725148,94.0,53.0,0,,,,,6,12,18,24,7,
+UBCV,2014,W,EECE,443,,OVERALL,Software Project Management,,75,77.77333333,6.860725148,94.0,53.0,0,,,,,6,12,18,24,7,
 UBCV,2014,W,EECE,450,,101,Economic Analysis of Engineering Projects,Steven Minns,100,78.4,10.62016378,96.0,20.0,,,,1,,18,4,20,24,16,14
-UBCV,2014,W,EECE,450,,201,Economic Analysis of Engineering Projects,Steven Minns,103,77.96116505,8.659033966,96.0,50.0,,,,5,,16,10,18,25,18,8
+UBCV,2014,W,EECE,450,,201,Economic Analysis of Engineering Projects,Steven Minns,103,77.96116505,8.659033966,96.0,50.0,0,,,5,,16,10,18,25,18,8
 UBCV,2014,W,EECE,450,,OVERALL,Economic Analysis of Engineering Projects,,203,78.1773399,9.653300816,96.0,20.0,,,,6,,34,14,38,49,34,22
-UBCV,2014,W,EECE,452,,201,Introduction to Optical Networks,Victor C Leung;Victor Leung,30,71.56666667,9.420020255,95.0,55.0,,,,,5,,,7,,,
-UBCV,2014,W,EECE,452,,OVERALL,Introduction to Optical Networks,,30,71.56666667,9.420020255,95.0,55.0,,,,,5,,,7,,,
+UBCV,2014,W,EECE,452,,201,Introduction to Optical Networks,Victor C Leung;Victor Leung,30,71.56666667,9.420020255,95.0,55.0,0,0,,,5,,,7,,,
+UBCV,2014,W,EECE,452,,OVERALL,Introduction to Optical Networks,,30,71.56666667,9.420020255,95.0,55.0,0,0,,,5,,,7,,,
 UBCV,2014,W,EECE,453,,101,Communication Systems,Paul Lusina,37,76.40540541,15.96603941,100.0,28.0,,,,,,,8,,7,,7
 UBCV,2014,W,EECE,453,,OVERALL,Communication Systems,,37,76.40540541,15.96603941,100.0,28.0,,,,,,,8,,7,,7
-UBCV,2014,W,EECE,455,,101,Error Control Coding for Communications and Computers,Vijay Bhargava,10,87.3,9.043720965,98.0,75.0,,,,,,,,,,,5
-UBCV,2014,W,EECE,455,,OVERALL,Error Control Coding for Communications and Computers,,10,87.3,9.043720965,98.0,75.0,,,,,,,,,,,5
+UBCV,2014,W,EECE,455,,101,Error Control Coding for Communications and Computers,Vijay Bhargava,10,87.3,9.043720965,98.0,75.0,0,0,0,0,0,0,,,,,5
+UBCV,2014,W,EECE,455,,OVERALL,Error Control Coding for Communications and Computers,,10,87.3,9.043720965,98.0,75.0,0,0,0,0,0,0,,,,,5
 UBCV,2014,W,EECE,457,,201,RF Integrated Circuits,Sudip Shekhar,16,77.0,22.72443619,99.0,0.0,,,,,,,,,,,
 UBCV,2014,W,EECE,457,,OVERALL,RF Integrated Circuits,,16,77.0,22.72443619,99.0,0.0,,,,,,,,,,,
 UBCV,2014,W,EECE,458,,101,Power System Analysis,Jose Marti,74,78.48648649,16.9723734,100.0,10.0,,,,,7,,5,7,6,14,20
 UBCV,2014,W,EECE,458,,OVERALL,Power System Analysis,,74,78.48648649,16.9723734,100.0,10.0,,,,,7,,5,7,6,14,20
-UBCV,2014,W,EECE,459,,201,Power System Analysis II,Jose Marti,48,86.70833333,9.466533063,99.0,61.0,,,,,,,5,,,8,25
-UBCV,2014,W,EECE,459,,OVERALL,Power System Analysis II,,48,86.70833333,9.466533063,99.0,61.0,,,,,,,5,,,8,25
+UBCV,2014,W,EECE,459,,201,Power System Analysis II,Jose Marti,48,86.70833333,9.466533063,99.0,61.0,0,0,0,,,,5,,,8,25
+UBCV,2014,W,EECE,459,,OVERALL,Power System Analysis II,,48,86.70833333,9.466533063,99.0,61.0,0,0,0,,,,5,,,8,25
 UBCV,2014,W,EECE,460,,201,Control Systems,Yaser Mohammadian Roshan,15,72.66666667,21.86212206,95.0,10.0,,,,,,,,,,,
 UBCV,2014,W,EECE,460,,OVERALL,Control Systems,,15,72.66666667,21.86212206,95.0,10.0,,,,,,,,,,,
-UBCV,2014,W,EECE,465,,201,Microcomputer Systems Design,Paul Davies,61,85.16393443,8.708578774,99.0,64.0,,,,,,,7,,9,13,24
-UBCV,2014,W,EECE,465,,OVERALL,Microcomputer Systems Design,,61,85.16393443,8.708578774,99.0,64.0,,,,,,,7,,9,13,24
+UBCV,2014,W,EECE,465,,201,Microcomputer Systems Design,Paul Davies,61,85.16393443,8.708578774,99.0,64.0,0,0,0,0,,,7,,9,13,24
+UBCV,2014,W,EECE,465,,OVERALL,Microcomputer Systems Design,,61,85.16393443,8.708578774,99.0,64.0,0,0,0,0,,,7,,9,13,24
 UBCV,2014,W,EECE,466,,101,Digital Signal and Image Processing,Rafeef Abugharbieh;Rafeef Garbi,31,79.09677419,16.20772416,98.0,39.0,,,,,,,,5,,6,9
 UBCV,2014,W,EECE,466,,OVERALL,Digital Signal and Image Processing,,31,79.09677419,16.20772416,98.0,39.0,,,,,,,,5,,6,9
-UBCV,2014,W,EECE,469,,001,Electrical Energy Systems Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,25,85.2,4.444097209,94.0,79.0,,,,,,,,,8,10,5
-UBCV,2014,W,EECE,469,,OVERALL,Electrical Energy Systems Capstone Design Project,,25,85.2,4.444097209,94.0,79.0,,,,,,,,,8,10,5
+UBCV,2014,W,EECE,469,,001,Electrical Energy Systems Capstone Design Project,Cristian Sorin Grecu;John Madden;Michael Wrinch;Paul Lusina;Philippe Kruchten;Pieter Botman;Purang Abolmaesumi;S Sidney Fels,25,85.2,4.444097209,94.0,79.0,0,0,0,0,0,0,0,2.0,8,10,5
+UBCV,2014,W,EECE,469,,OVERALL,Electrical Energy Systems Capstone Design Project,,25,85.2,4.444097209,94.0,79.0,0,0,0,0,0,0,0,2.0,8,10,5
 UBCV,2014,W,EECE,476,,201,Computer Architecture,Tim Rogers,82,74.06097561,14.01176539,100.0,28.0,,5,5,,10,7,12,7,9,10,11
 UBCV,2014,W,EECE,476,,OVERALL,Computer Architecture,,82,74.06097561,14.01176539,100.0,28.0,,5,5,,10,7,12,7,9,10,11
 UBCV,2014,W,EECE,479,,201,Introduction to VLSI Systems,Bradley Quinton,79,74.32911392,12.67616532,99.0,40.0,,,7,,11,10,,9,14,11,7
 UBCV,2014,W,EECE,479,,OVERALL,Introduction to VLSI Systems,,79,74.32911392,12.67616532,99.0,40.0,,,7,,11,10,,9,14,11,7
-UBCV,2014,W,EECE,480,,201,"Semiconductor Devices: Physics, Design and Analysis",Alireza Nojeh,20,69.6,17.53612812,100.0,50.0,,6,,,,,,,,,5
-UBCV,2014,W,EECE,480,,OVERALL,"Semiconductor Devices: Physics, Design and Analysis",,20,69.6,17.53612812,100.0,50.0,,6,,,,,,,,,5
-UBCV,2014,W,EECE,482,,101,Optical Waveguides and Photonics,Nicolas A Jaeger,18,81.44444444,12.38225591,99.0,50.0,,,,,,,,,,,5
-UBCV,2014,W,EECE,482,,OVERALL,Optical Waveguides and Photonics,,18,81.44444444,12.38225591,99.0,50.0,,,,,,,,,,,5
-UBCV,2014,W,EECE,483,,201,Antennas and Propagation,Siamak Bonyadi Ram,17,69.41176471,11.83775118,85.0,38.0,,,,,,,,,,,
-UBCV,2014,W,EECE,483,,OVERALL,Antennas and Propagation,,17,69.41176471,11.83775118,85.0,38.0,,,,,,,,,,,
-UBCV,2014,W,EECE,488,,101,Analog CMOS Integrated Circuit Design,Shahriar Mirabbasi,49,80.89795918,10.78240252,96.0,51.0,,,,,,,,7,7,13,11
-UBCV,2014,W,EECE,488,,OVERALL,Analog CMOS Integrated Circuit Design,,49,80.89795918,10.78240252,96.0,51.0,,,,,,,,7,7,13,11
+UBCV,2014,W,EECE,480,,201,"Semiconductor Devices: Physics, Design and Analysis",Alireza Nojeh,20,69.6,17.53612812,100.0,50.0,0,6,,,,,,,,,5
+UBCV,2014,W,EECE,480,,OVERALL,"Semiconductor Devices: Physics, Design and Analysis",,20,69.6,17.53612812,100.0,50.0,0,6,,,,,,,,,5
+UBCV,2014,W,EECE,482,,101,Optical Waveguides and Photonics,Nicolas A Jaeger,18,81.44444444,12.38225591,99.0,50.0,0,,,,,,,,,,5
+UBCV,2014,W,EECE,482,,OVERALL,Optical Waveguides and Photonics,,18,81.44444444,12.38225591,99.0,50.0,0,,,,,,,,,,5
+UBCV,2014,W,EECE,483,,201,Antennas and Propagation,Siamak Bonyadi Ram,17,69.41176471,11.83775118,85.0,38.0,,,,,,,,,,,0
+UBCV,2014,W,EECE,483,,OVERALL,Antennas and Propagation,,17,69.41176471,11.83775118,85.0,38.0,,,,,,,,,,,0
+UBCV,2014,W,EECE,488,,101,Analog CMOS Integrated Circuit Design,Shahriar Mirabbasi,49,80.89795918,10.78240252,96.0,51.0,0,,,,,,,7,7,13,11
+UBCV,2014,W,EECE,488,,OVERALL,Analog CMOS Integrated Circuit Design,,49,80.89795918,10.78240252,96.0,51.0,0,,,,,,,7,7,13,11
 UBCV,2014,W,EECE,489,,101,Microsystems Design,Edmond Cretu,18,64.22222222,16.56202444,90.0,35.0,,,,,,,,,,,
 UBCV,2014,W,EECE,489,,OVERALL,Microsystems Design,,18,64.22222222,16.56202444,90.0,35.0,,,,,,,,,,,
-UBCV,2014,W,EECE,490,E,101,Topics in Electrical and Computer Engineering I,Saloome Motavas,14,82.85714286,13.77208516,100.0,54.0,,,,,,,,,,,6
-UBCV,2014,W,EECE,490,E,OVERALL,Topics in Electrical and Computer Engineering I,,14,82.85714286,13.77208516,100.0,54.0,,,,,,,,,,,6
+UBCV,2014,W,EECE,490,E,101,Topics in Electrical and Computer Engineering I,Saloome Motavas,14,82.85714286,13.77208516,100.0,54.0,0,,,,,,,,,,6
+UBCV,2014,W,EECE,490,E,OVERALL,Topics in Electrical and Computer Engineering I,,14,82.85714286,13.77208516,100.0,54.0,0,,,,,,,,,,6
 UBCV,2014,W,EECE,493,,101,Power Electronics,Martin Ordonez,66,71.03030303,14.87586553,99.0,34.0,6,,6,6,,7,,10,10,6,5
 UBCV,2014,W,EECE,493,,OVERALL,Power Electronics,,66,71.03030303,14.87586553,99.0,34.0,6,,6,6,,7,,10,10,6,5
-UBCV,2014,W,EECE,496,A,OVERALL,Undergraduate Thesis,,8,83.5,4.840306956,92.0,76.0,,,,,,,,,,,
-UBCV,2014,W,EECE,497,,201,Power Systems Protection,Charles Francis Henville;Charles Henville;Mukesh Nagpal,40,73.85,10.93465439,94.0,50.0,,,,,,5,5,7,7,,
-UBCV,2014,W,EECE,497,,OVERALL,Power Systems Protection,,40,73.85,10.93465439,94.0,50.0,,,,,,5,5,7,7,,
+UBCV,2014,W,EECE,496,A,OVERALL,Undergraduate Thesis,,8,83.5,4.840306956,92.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,EECE,497,,201,Power Systems Protection,Charles Francis Henville;Charles Henville;Mukesh Nagpal,40,73.85,10.93465439,94.0,50.0,0,,,,,5,5,7,7,,
+UBCV,2014,W,EECE,497,,OVERALL,Power Systems Protection,,40,73.85,10.93465439,94.0,50.0,0,,,,,5,5,7,7,,
 UBCV,2014,W,EECE,498,,101,Optimization of Power System Operation,Ebrahim Vaahedi,36,68.5,17.51815385,94.0,0.0,,5,,,,,,7,,,
 UBCV,2014,W,EECE,498,,OVERALL,Optimization of Power System Operation,,36,68.5,17.51815385,94.0,0.0,,5,,,,,,7,,,
-UBCV,2014,W,EECE,499,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi,23,73.08695652,9.572275513,90.0,55.0,,,,,,,,,,,
-UBCV,2014,W,EECE,499,,OVERALL,Decision Support Methods in Power Systems Operation,,23,73.08695652,9.572275513,90.0,55.0,,,,,,,,,,,
-UBCV,2014,W,EECE,509,,101,Advanced Microsystems Design,Edmond Cretu,6,76.83333333,13.64429063,94.0,61.0,,,,,,,,,,,
-UBCV,2014,W,EECE,509,,OVERALL,Advanced Microsystems Design,,6,76.83333333,13.64429063,94.0,61.0,,,,,,,,,,,
-UBCV,2014,W,EECE,511,B,101,Topics in Software Engineering,Ali Mesbah,9,82.66666667,7.211102551000001,91.0,67.0,,,,,,,,,,,
-UBCV,2014,W,EECE,511,B,OVERALL,Topics in Software Engineering,,9,82.66666667,7.211102551000001,91.0,67.0,,,,,,,,,,,
-UBCV,2014,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis,5,92.6,5.366563146,95.0,83.0,,,,,,,,,,,
-UBCV,2014,W,EECE,527,,OVERALL,Advanced Computer Architecture,,5,92.6,5.366563146,95.0,83.0,,,,,,,,,,,
-UBCV,2014,W,EECE,528,,101,Parallel and Reconfigurable Computing,Guy Lemieux,7,84.28571429,5.437961802999999,93.0,78.0,,,,,,,,,,,
-UBCV,2014,W,EECE,528,,OVERALL,Parallel and Reconfigurable Computing,,7,84.28571429,5.437961802999999,93.0,78.0,,,,,,,,,,,
+UBCV,2014,W,EECE,499,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi,23,73.08695652,9.572275513,90.0,55.0,0,0,,,,,,,,,
+UBCV,2014,W,EECE,499,,OVERALL,Decision Support Methods in Power Systems Operation,,23,73.08695652,9.572275513,90.0,55.0,0,0,,,,,,,,,
+UBCV,2014,W,EECE,509,,101,Advanced Microsystems Design,Edmond Cretu,6,76.83333333,13.64429063,94.0,61.0,0,0,0,,,,,,,,
+UBCV,2014,W,EECE,509,,OVERALL,Advanced Microsystems Design,,6,76.83333333,13.64429063,94.0,61.0,0,0,0,,,,,,,,
+UBCV,2014,W,EECE,511,B,101,Topics in Software Engineering,Ali Mesbah,9,82.66666667,7.211102551,91.0,67.0,0,0,0,0,,,,,,,
+UBCV,2014,W,EECE,511,B,OVERALL,Topics in Software Engineering,,9,82.66666667,7.211102551,91.0,67.0,0,0,0,0,,,,,,,
+UBCV,2014,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis,5,92.6,5.366563146,95.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EECE,527,,OVERALL,Advanced Computer Architecture,,5,92.6,5.366563146,95.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EECE,528,,101,Parallel and Reconfigurable Computing,Guy Lemieux,7,84.28571429,5.437961803,93.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,EECE,528,,OVERALL,Parallel and Reconfigurable Computing,,7,84.28571429,5.437961803,93.0,78.0,0,0,0,0,0,0,0,,,,
 UBCV,2014,W,EECE,532,,201,Biomedical Microdevices,Karen Cheung,16,79.4375,13.95215037,100.0,47.0,,,,,,,,,,,
 UBCV,2014,W,EECE,532,,OVERALL,Biomedical Microdevices,,16,79.4375,13.95215037,100.0,47.0,,,,,,,,,,,
-UBCV,2014,W,EECE,534,,201,Green Nanoelectronic Devices,Peyman Servati,14,90.07142857,3.771640853,97.0,84.0,,,,,,,,,,,9
-UBCV,2014,W,EECE,534,,OVERALL,Green Nanoelectronic Devices,,14,90.07142857,3.771640853,97.0,84.0,,,,,,,,,,,9
-UBCV,2014,W,EECE,541,,101,Multimedia Systems,Panos Nasiopoulos,17,87.88235294,4.226144119,93.0,81.0,,,,,,,,,5,5,7
-UBCV,2014,W,EECE,541,,OVERALL,Multimedia Systems,,17,87.88235294,4.226144119,93.0,81.0,,,,,,,,,5,5,7
-UBCV,2014,W,EECE,543,,101,Software Project Management,Philippe Kruchten,14,79.07142857,9.269173772,90.0,53.0,,,,,,,,,,,
-UBCV,2014,W,EECE,543,,OVERALL,Software Project Management,,14,79.07142857,9.269173772,90.0,53.0,,,,,,,,,,,
-UBCV,2014,W,EECE,544,,101,Medical Imaging,Siamak Najarian,8,87.375,5.8782285960000005,97.0,81.0,,,,,,,,,,,
-UBCV,2014,W,EECE,544,,OVERALL,Medical Imaging,,8,87.375,5.8782285960000005,97.0,81.0,,,,,,,,,,,
-UBCV,2014,W,EECE,549,,101,Dynamic Modeling of Electric Machines and Controls,Juri Jatskevich,9,89.0,1.58113883,91.0,87.0,,,,,,,,,,5,
-UBCV,2014,W,EECE,549,,OVERALL,Dynamic Modeling of Electric Machines and Controls,,9,89.0,1.58113883,91.0,87.0,,,,,,,,,,5,
+UBCV,2014,W,EECE,534,,201,Green Nanoelectronic Devices,Peyman Servati,14,90.07142857,3.771640853,97.0,84.0,0,0,0,0,0,0,0,0,,,9
+UBCV,2014,W,EECE,534,,OVERALL,Green Nanoelectronic Devices,,14,90.07142857,3.771640853,97.0,84.0,0,0,0,0,0,0,0,0,,,9
+UBCV,2014,W,EECE,541,,101,Multimedia Systems,Panos Nasiopoulos,17,87.88235294,4.226144119,93.0,81.0,0,0,0,0,0,0,0,0,5,5,7
+UBCV,2014,W,EECE,541,,OVERALL,Multimedia Systems,,17,87.88235294,4.226144119,93.0,81.0,0,0,0,0,0,0,0,0,5,5,7
+UBCV,2014,W,EECE,543,,101,Software Project Management,Philippe Kruchten,14,79.07142857,9.269173772,90.0,53.0,0,,,,,,,,,,
+UBCV,2014,W,EECE,543,,OVERALL,Software Project Management,,14,79.07142857,9.269173772,90.0,53.0,0,,,,,,,,,,
+UBCV,2014,W,EECE,544,,101,Medical Imaging,Siamak Najarian,8,87.375,5.878228596,97.0,81.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EECE,544,,OVERALL,Medical Imaging,,8,87.375,5.878228596,97.0,81.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EECE,549,,101,Dynamic Modeling of Electric Machines and Controls,Juri Jatskevich,9,89.0,1.58113883,91.0,87.0,0,0,0,0,0,0,0,0,0,5,4.0
+UBCV,2014,W,EECE,549,,OVERALL,Dynamic Modeling of Electric Machines and Controls,,9,89.0,1.58113883,91.0,87.0,0,0,0,0,0,0,0,0,0,5,4.0
 UBCV,2014,W,EECE,550,,201,Topics in Power Electronic Design,Martin Ordonez,13,84.76923077,14.92846189,97.0,40.0,,,,,,,,,,,7
 UBCV,2014,W,EECE,550,,OVERALL,Topics in Power Electronic Design,,13,84.76923077,14.92846189,97.0,40.0,,,,,,,,,,,7
-UBCV,2014,W,EECE,553,,201,Advanced Power Systems Analysis,Ebrahim Vaahedi,19,77.52631579,6.6530562820000005,88.0,66.0,,,,,,,,,5,,
-UBCV,2014,W,EECE,553,,OVERALL,Advanced Power Systems Analysis,,19,77.52631579,6.6530562820000005,88.0,66.0,,,,,,,,,5,,
-UBCV,2014,W,EECE,554,,101,Advanced Power System Control and Dynamics,Hermann Dommel,10,87.9,7.9505415610000005,99.0,77.0,,,,,,,,,,,
-UBCV,2014,W,EECE,554,,OVERALL,Advanced Power System Control and Dynamics,,10,87.9,7.9505415610000005,99.0,77.0,,,,,,,,,,,
-UBCV,2014,W,EECE,560,,201,Network Analysis and Simulation,Jose Marti,11,87.27272727,5.178627407,94.0,77.0,,,,,,,,,,,5
-UBCV,2014,W,EECE,560,,OVERALL,Network Analysis and Simulation,,11,87.27272727,5.178627407,94.0,77.0,,,,,,,,,,,5
-UBCV,2014,W,EECE,562,,101,Statistical Signal Processing with Applications in Wireless Communications and Defence,Vikram Krishnamurthy,10,88.6,3.627058802,95.0,85.0,,,,,,,,,,6,
-UBCV,2014,W,EECE,562,,OVERALL,Statistical Signal Processing with Applications in Wireless Communications and Defence,,10,88.6,3.627058802,95.0,85.0,,,,,,,,,,6,
-UBCV,2014,W,EECE,563,,101,Wireless Communication Systems,Lutz Lampe,17,76.23529412,8.933989952000001,92.0,60.0,,,,,,,,,,,
-UBCV,2014,W,EECE,563,,OVERALL,Wireless Communication Systems,,17,76.23529412,8.933989952000001,92.0,60.0,,,,,,,,,,,
-UBCV,2014,W,EECE,564,,201,Detection and Estimation of Signals in Noise,Vijay Bhargava,13,81.84615385,10.55024608,99.0,70.0,,,,,,,,,,,5
-UBCV,2014,W,EECE,564,,OVERALL,Detection and Estimation of Signals in Noise,,13,81.84615385,10.55024608,99.0,70.0,,,,,,,,,,,5
-UBCV,2014,W,EECE,565,,101,Communication Networks,Wai-Shuen Vincent Wong,8,83.625,9.085899593999999,93.0,68.0,,,,,,,,,,,
-UBCV,2014,W,EECE,565,,OVERALL,Communication Networks,,8,83.625,9.085899593999999,93.0,68.0,,,,,,,,,,,
-UBCV,2014,W,EECE,569,,201,Mobile Communications Networks,Victor C Leung;Victor Leung,55,82.56363636,5.753464773999999,93.0,67.0,,,,,,,,9,17,17,6
-UBCV,2014,W,EECE,569,,OVERALL,Mobile Communications Networks,,55,82.56363636,5.753464773999999,93.0,67.0,,,,,,,,9,17,17,6
-UBCV,2014,W,EECE,570,,101,Fundamentals of Visual Computing,Rafeef Abugharbieh;Rafeef Garbi,19,78.57894737,7.174923843999999,92.0,65.0,,,,,,,,,5,,
-UBCV,2014,W,EECE,570,,OVERALL,Fundamentals of Visual Computing,,19,78.57894737,7.174923843999999,92.0,65.0,,,,,,,,,5,,
-UBCV,2014,W,EECE,571,E,101,Electrical Engineering Seminar and Special Problems,Radu Ripeanu,6,87.5,2.258317958,90.0,85.0,,,,,,,,,,,
-UBCV,2014,W,EECE,571,E,OVERALL,Electrical Engineering Seminar and Special Problems,,6,87.5,2.258317958,90.0,85.0,,,,,,,,,,,
+UBCV,2014,W,EECE,553,,201,Advanced Power Systems Analysis,Ebrahim Vaahedi,19,77.52631579,6.653056282,88.0,66.0,0,0,0,0,,,,,5,,0
+UBCV,2014,W,EECE,553,,OVERALL,Advanced Power Systems Analysis,,19,77.52631579,6.653056282,88.0,66.0,0,0,0,0,,,,,5,,0
+UBCV,2014,W,EECE,554,,101,Advanced Power System Control and Dynamics,Hermann Dommel,10,87.9,7.950541561,99.0,77.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,EECE,554,,OVERALL,Advanced Power System Control and Dynamics,,10,87.9,7.950541561,99.0,77.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,EECE,560,,201,Network Analysis and Simulation,Jose Marti,11,87.27272727,5.178627407,94.0,77.0,0,0,0,0,0,0,0,,,,5
+UBCV,2014,W,EECE,560,,OVERALL,Network Analysis and Simulation,,11,87.27272727,5.178627407,94.0,77.0,0,0,0,0,0,0,0,,,,5
+UBCV,2014,W,EECE,562,,101,Statistical Signal Processing with Applications in Wireless Communications and Defence,Vikram Krishnamurthy,10,88.6,3.627058802,95.0,85.0,0,0,0,0,0,0,0,0,0,6,4.0
+UBCV,2014,W,EECE,562,,OVERALL,Statistical Signal Processing with Applications in Wireless Communications and Defence,,10,88.6,3.627058802,95.0,85.0,0,0,0,0,0,0,0,0,0,6,4.0
+UBCV,2014,W,EECE,563,,101,Wireless Communication Systems,Lutz Lampe,17,76.23529412,8.933989952,92.0,60.0,0,0,0,,,,,,,,
+UBCV,2014,W,EECE,563,,OVERALL,Wireless Communication Systems,,17,76.23529412,8.933989952,92.0,60.0,0,0,0,,,,,,,,
+UBCV,2014,W,EECE,564,,201,Detection and Estimation of Signals in Noise,Vijay Bhargava,13,81.84615385,10.55024608,99.0,70.0,0,0,0,0,0,,,,,,5
+UBCV,2014,W,EECE,564,,OVERALL,Detection and Estimation of Signals in Noise,,13,81.84615385,10.55024608,99.0,70.0,0,0,0,0,0,,,,,,5
+UBCV,2014,W,EECE,565,,101,Communication Networks,Wai-Shuen Vincent Wong,8,83.625,9.085899594,93.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2014,W,EECE,565,,OVERALL,Communication Networks,,8,83.625,9.085899594,93.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2014,W,EECE,569,,201,Mobile Communications Networks,Victor C Leung;Victor Leung,55,82.56363636,5.753464774,93.0,67.0,0,0,0,0,,,,9,17,17,6
+UBCV,2014,W,EECE,569,,OVERALL,Mobile Communications Networks,,55,82.56363636,5.753464774,93.0,67.0,0,0,0,0,,,,9,17,17,6
+UBCV,2014,W,EECE,570,,101,Fundamentals of Visual Computing,Rafeef Abugharbieh;Rafeef Garbi,19,78.57894737,7.174923844,92.0,65.0,0,0,0,0,,,,,5,,
+UBCV,2014,W,EECE,570,,OVERALL,Fundamentals of Visual Computing,,19,78.57894737,7.174923844,92.0,65.0,0,0,0,0,,,,,5,,
+UBCV,2014,W,EECE,571,E,101,Electrical Engineering Seminar and Special Problems,Radu Ripeanu,6,87.5,2.258317958,90.0,85.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2014,W,EECE,571,E,OVERALL,Electrical Engineering Seminar and Special Problems,,6,87.5,2.258317958,90.0,85.0,0,0,0,0,0,0,0,0,0,,
 UBCV,2014,W,EECE,571,H,103,Electrical Engineering Seminar and Special Problems,Sudip Shekhar,7,82.28571429,21.0769565,100.0,36.0,,,,,,,,,,,
 UBCV,2014,W,EECE,571,H,OVERALL,Electrical Engineering Seminar and Special Problems,,7,82.28571429,21.0769565,100.0,36.0,,,,,,,,,,,
-UBCV,2014,W,EECE,571,P,102,Electrical Engineering Seminar and Special Problems,Karthik Pattabiraman,13,83.38461539,6.8621967029999995,96.0,72.0,,,,,,,,,,,
-UBCV,2014,W,EECE,571,P,OVERALL,Electrical Engineering Seminar and Special Problems,,13,83.38461539,6.8621967029999995,96.0,72.0,,,,,,,,,,,
-UBCV,2014,W,EECE,571,R,106,Electrical Engineering Seminar and Special Problems,Roberto Rosales,10,89.0,10.17622502,99.0,68.0,,,,,,,,,,,6
-UBCV,2014,W,EECE,571,R,OVERALL,Electrical Engineering Seminar and Special Problems,,10,89.0,10.17622502,99.0,68.0,,,,,,,,,,,6
-UBCV,2014,W,EECE,576,,201,Semiconductor Theory for Device Applications,Konrad Walus,6,84.0,8.579044236,97.0,76.0,,,,,,,,,,,
-UBCV,2014,W,EECE,576,,OVERALL,Semiconductor Theory for Device Applications,,6,84.0,8.579044236,97.0,76.0,,,,,,,,,,,
-UBCV,2014,W,EECE,583,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,14,89.35714286,1.9848325969999998,93.0,86.0,,,,,,,,,,7,7
-UBCV,2014,W,EECE,583,,OVERALL,CAD Algorithms for Integrated Circuits,,14,89.35714286,1.9848325969999998,93.0,86.0,,,,,,,,,,7,7
-UBCV,2014,W,EECE,588,,201,Analog Integrated Circuit Design,Shahriar Mirabbasi,6,89.33333333,4.926120854,95.0,82.0,,,,,,,,,,,
-UBCV,2014,W,EECE,588,,OVERALL,Analog Integrated Circuit Design,,6,89.33333333,4.926120854,95.0,82.0,,,,,,,,,,,
-UBCV,2014,W,EECE,592,,101,Architecture for Learning Systems,Sarbjit Sarkaria,26,86.61538462,7.178172041,98.0,65.0,,,,,,,,,,9,10
-UBCV,2014,W,EECE,592,,OVERALL,Architecture for Learning Systems,,26,86.61538462,7.178172041,98.0,65.0,,,,,,,,,,9,10
-UBCV,2014,W,EECE,599,,001,Thesis,,9,85.88888889,5.487359211,92.0,75.0,,,,,,,,,,6,3
-UBCV,2014,W,EECE,599,,101,Thesis,,18,86.66666667,4.158619681,93.0,78.0,,,,,,,,,,7,7
-UBCV,2014,W,EECE,599,,OVERALL,Thesis,,29,86.51724138,4.4047108680000004,93.0,75.0,,,,,,,,,,13,10
+UBCV,2014,W,EECE,571,P,102,Electrical Engineering Seminar and Special Problems,Karthik Pattabiraman,13,83.38461539,6.862196703,96.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2014,W,EECE,571,P,OVERALL,Electrical Engineering Seminar and Special Problems,,13,83.38461539,6.862196703,96.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2014,W,EECE,571,R,106,Electrical Engineering Seminar and Special Problems,Roberto Rosales,10,89.0,10.17622502,99.0,68.0,0,0,0,0,0,,,,,,6
+UBCV,2014,W,EECE,571,R,OVERALL,Electrical Engineering Seminar and Special Problems,,10,89.0,10.17622502,99.0,68.0,0,0,0,0,0,,,,,,6
+UBCV,2014,W,EECE,576,,201,Semiconductor Theory for Device Applications,Konrad Walus,6,84.0,8.579044236,97.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,EECE,576,,OVERALL,Semiconductor Theory for Device Applications,,6,84.0,8.579044236,97.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,EECE,583,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,14,89.35714286,1.984832597,93.0,86.0,0,0,0,0,0,0,0,0,0,7,7
+UBCV,2014,W,EECE,583,,OVERALL,CAD Algorithms for Integrated Circuits,,14,89.35714286,1.984832597,93.0,86.0,0,0,0,0,0,0,0,0,0,7,7
+UBCV,2014,W,EECE,588,,201,Analog Integrated Circuit Design,Shahriar Mirabbasi,6,89.33333333,4.926120854,95.0,82.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EECE,588,,OVERALL,Analog Integrated Circuit Design,,6,89.33333333,4.926120854,95.0,82.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EECE,592,,101,Architecture for Learning Systems,Sarbjit Sarkaria,26,86.61538462,7.178172041,98.0,65.0,0,0,0,0,,,,,,9,10
+UBCV,2014,W,EECE,592,,OVERALL,Architecture for Learning Systems,,26,86.61538462,7.178172041,98.0,65.0,0,0,0,0,,,,,,9,10
+UBCV,2014,W,EECE,599,,001,Thesis,,9,85.88888889,5.487359211,92.0,75.0,0,0,0,0,0,0,0,0,0,6,3
+UBCV,2014,W,EECE,599,,101,Thesis,,18,86.66666667,4.158619681,93.0,78.0,0,0,0,0,0,0,0,,,7,7
+UBCV,2014,W,EECE,599,,OVERALL,Thesis,,29,86.51724138,4.404710868,93.0,75.0,0,0,0,0,0,0,0,,,13,10

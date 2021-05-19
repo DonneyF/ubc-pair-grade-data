@@ -1,79 +1,73 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,EECE,509,,101,Advanced Microsystems Design,Edmond Cretu,9,82.111111111,9.765301383999999,98.0,70.0,,,,,,,,,,,
-UBCV,2017,W,EECE,509,,OVERALL,Advanced Microsystems Design,,9,82.111111111,9.765301383999999,98.0,70.0,,,,,,,,,,,
-UBCV,2017,W,EECE,512,,101,Topics in Computer Security,Colin Birge,13,83.846153846,7.380674696,97.0,70.0,,,,,,,,,,,
-UBCV,2017,W,EECE,512,,OVERALL,Topics in Computer Security,,13,83.846153846,7.380674696,97.0,70.0,,,,,,,,,,,
-UBCV,2017,W,EECE,513,,201,Error Resilient Computing Systems,Nabil Al-Rousan;Nabil Mashhour Al-Rousan;Sathish Gopalakrishnan,14,88.35714285700001,6.720887566,94.0,76.0,,,,,,,,,,,8
-UBCV,2017,W,EECE,513,,OVERALL,Error Resilient Computing Systems,,14,88.35714285700001,6.720887566,94.0,76.0,,,,,,,,,,,8
-UBCV,2017,W,EECE,518,,201,Human Interface Technologies,Qian Zhou;S Sidney Fels,29,86.620689655,6.2416446610000005,96.0,77.0,,,,,,,,,7,7,11
-UBCV,2017,W,EECE,518,,OVERALL,Human Interface Technologies,,29,86.620689655,6.2416446610000005,96.0,77.0,,,,,,,,,7,7,11
-UBCV,2017,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis,10,89.6,5.561774297,95.0,78.0,,,,,,,,,,,8
-UBCV,2017,W,EECE,527,,OVERALL,Advanced Computer Architecture,,10,89.6,5.561774297,95.0,78.0,,,,,,,,,,,8
-UBCV,2017,W,EECE,528,,101,Parallel and Reconfigurable Computing,Guy Lemieux,17,79.176470588,6.11591463,92.0,69.0,,,,,,,,,8,,
-UBCV,2017,W,EECE,528,,OVERALL,Parallel and Reconfigurable Computing,,17,79.176470588,6.11591463,92.0,69.0,,,,,,,,,8,,
-UBCV,2017,W,EECE,531,,201,Nanoscale Modeling and Simulations,Alireza Nojeh,15,86.4,20.489718676,99.0,18.0,,,,,,,,,,,10
-UBCV,2017,W,EECE,531,,OVERALL,Nanoscale Modeling and Simulations,,15,86.4,20.489718676,99.0,18.0,,,,,,,,,,,10
-UBCV,2017,W,EECE,532,,101,Biomedical Microdevices,Karen Cheung,13,74.384615385,12.366207055,96.0,50.0,,,,,,,,,,,
-UBCV,2017,W,EECE,532,,OVERALL,Biomedical Microdevices,,13,74.384615385,12.366207055,96.0,50.0,,,,,,,,,,,
-UBCV,2017,W,EECE,534,,201,Green Nanoelectronic Devices,Peyman Servati,23,86.739130435,4.928741231,92.0,78.0,,,,,,,,,,6,10
-UBCV,2017,W,EECE,534,,OVERALL,Green Nanoelectronic Devices,,23,86.739130435,4.928741231,92.0,78.0,,,,,,,,,,6,10
-UBCV,2017,W,EECE,535,,101,Advanced Biophotonics,Shuo Tang,9,85.111111111,9.047713032,96.0,68.0,,,,,,,,,,,
-UBCV,2017,W,EECE,535,,OVERALL,Advanced Biophotonics,,9,85.111111111,9.047713032,96.0,68.0,,,,,,,,,,,
-UBCV,2017,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad;Panos Nasiopoulos,19,87.526315789,6.230466552,96.0,72.0,,,,,,,,,,8,7
-UBCV,2017,W,EECE,541,,OVERALL,Multimedia Systems,,19,87.526315789,6.230466552,96.0,72.0,,,,,,,,,,8,7
-UBCV,2017,W,EECE,543,,201,Software Project Management,Bahar Salehpour;Philippe Kruchten,19,82.631578947,9.001299451,97.0,68.0,,,,,,,,,,8,
-UBCV,2017,W,EECE,543,,OVERALL,Software Project Management,,19,82.631578947,9.001299451,97.0,68.0,,,,,,,,,,8,
-UBCV,2017,W,EECE,544,,101,Medical Imaging,Shekoofeh Azizi;Siamak Najarian,30,86.866666667,5.691695907000001,97.0,76.0,,,,,,,,,6,9,11
-UBCV,2017,W,EECE,544,,OVERALL,Medical Imaging,,30,86.866666667,5.691695907000001,97.0,76.0,,,,,,,,,6,9,11
-UBCV,2017,W,EECE,549,,101,Dynamic Modelling of Electric Machines and Controls,Juri Jatskevich,8,92.125,2.100170061,95.0,90.0,,,,,,,,,,,8
-UBCV,2017,W,EECE,549,,OVERALL,Dynamic Modelling of Electric Machines and Controls,,8,92.125,2.100170061,95.0,90.0,,,,,,,,,,,8
-UBCV,2017,W,EECE,550,,201,Topics in Power Electronic Design,Martin Ordonez,11,85.090909091,15.260763713,94.0,40.0,,,,,,,,,,5,5
-UBCV,2017,W,EECE,550,,OVERALL,Topics in Power Electronic Design,,11,85.090909091,15.260763713,94.0,40.0,,,,,,,,,,5,5
-UBCV,2017,W,EECE,553,,201,Advanced Power Systems Analysis,Ebrahim Vaahedi,12,82.5,8.218604173,96.0,68.0,,,,,,,,,,5,
-UBCV,2017,W,EECE,553,,OVERALL,Advanced Power Systems Analysis,,12,82.5,8.218604173,96.0,68.0,,,,,,,,,,5,
-UBCV,2017,W,EECE,554,,101,Advanced Power System Control and Dynamics,Hermann Dommel,6,97.166666667,1.471960144,100.0,96.0,,,,,,,,,,,6
-UBCV,2017,W,EECE,554,,OVERALL,Advanced Power System Control and Dynamics,,6,97.166666667,1.471960144,100.0,96.0,,,,,,,,,,,6
-UBCV,2017,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Shuan Dong;Yu Christine Chen,38,89.42105263200001,5.011508803,96.0,75.0,,,,,,,,,6,8,23
-UBCV,2017,W,EECE,555,,OVERALL,Renewable and Efficient Electric Power Systems,,38,89.42105263200001,5.011508803,96.0,75.0,,,,,,,,,6,8,23
-UBCV,2017,W,EECE,560,,201,Network Analysis and Simulation,Javier Tarazona Gomez;Jose Marti,23,86.695652174,8.471528694,99.0,55.0,,,,,,,,,,13,5
-UBCV,2017,W,EECE,560,,OVERALL,Network Analysis and Simulation,,23,86.695652174,8.471528694,99.0,55.0,,,,,,,,,,13,5
-UBCV,2017,W,EECE,562,,101,Statistical Signal Processing with Applications in Wireless Communications and Defence,Zhen Wang,6,82.0,16.112107249,95.0,50.0,,,,,,,,,,,
-UBCV,2017,W,EECE,562,,OVERALL,Statistical Signal Processing with Applications in Wireless Communications and Defence,,6,82.0,16.112107249,95.0,50.0,,,,,,,,,,,
-UBCV,2017,W,EECE,563,,101,Wireless Communication Systems,Lutz Lampe,5,90.0,3.8078865530000003,95.0,85.0,,,,,,,,,,,
-UBCV,2017,W,EECE,563,,OVERALL,Wireless Communication Systems,,5,90.0,3.8078865530000003,95.0,85.0,,,,,,,,,,,
-UBCV,2017,W,EECE,564,,201,Detection and Estimation of Signals in Noise,Konrad Walus;Paul Lusina,5,75.8,15.546703830999999,91.0,50.0,,,,,,,,,,,
-UBCV,2017,W,EECE,564,,OVERALL,Detection and Estimation of Signals in Noise,,5,75.8,15.546703830999999,91.0,50.0,,,,,,,,,,,
-UBCV,2017,W,EECE,565,,101,Communication Networks,Wai-Shuen Vincent Wong,22,72.045454545,19.12484615,95.0,19.0,,,,,,,,,,,5
-UBCV,2017,W,EECE,565,,OVERALL,Communication Networks,,22,72.045454545,19.12484615,95.0,19.0,,,,,,,,,,,5
-UBCV,2017,W,EECE,566,,201,Communication and Information Theory,Cyril Leung;Cyril S Leung,9,76.444444444,6.306962642999999,87.0,68.0,,,,,,,,,,,
-UBCV,2017,W,EECE,566,,OVERALL,Communication and Information Theory,,9,76.444444444,6.306962642999999,87.0,68.0,,,,,,,,,,,
-UBCV,2017,W,EECE,569,,201,Mobile Communications Networks,Farshid Agharebparast;Javier Orlando Tarazona Gomez;Javier Tarazona Gomez;Victor C Leung;Victor Leung;Xiuhua Li,44,85.295454545,13.644284169,94.0,0.0,,,,,,,,,,26,12
-UBCV,2017,W,EECE,569,,OVERALL,Mobile Communications Networks,,44,85.295454545,13.644284169,94.0,0.0,,,,,,,,,,26,12
-UBCV,2017,W,EECE,571,F,202,Electrical Engineering Seminar and Special Problems,Sudip Shekhar,8,81.625,11.475906437999999,95.0,65.0,,,,,,,,,,,
-UBCV,2017,W,EECE,571,F,OVERALL,Electrical Engineering Seminar and Special Problems,,8,81.625,11.475906437999999,95.0,65.0,,,,,,,,,,,
-UBCV,2017,W,EECE,571,I,107,Electrical Engineering Seminar and Special Problems,Karen Cheung;Sathish Gopalakrishnan,13,91.23076923100001,2.743290183,95.0,84.0,,,,,,,,,,,12
-UBCV,2017,W,EECE,571,I,OVERALL,Electrical Engineering Seminar and Special Problems,,13,91.23076923100001,2.743290183,95.0,84.0,,,,,,,,,,,12
-UBCV,2017,W,EECE,571,J,201,Electrical Engineering Seminar and Special Problems,Julia Rubin,18,84.833333333,5.067195535,92.0,76.0,,,,,,,,,,7,
-UBCV,2017,W,EECE,571,J,OVERALL,Electrical Engineering Seminar and Special Problems,,18,84.833333333,5.067195535,92.0,76.0,,,,,,,,,,7,
-UBCV,2017,W,EECE,571,R,105,Electrical Engineering Seminar and Special Problems,Septimiu Salcudean,9,86.0,10.124228366,99.0,62.0,,,,,,,,,,,
-UBCV,2017,W,EECE,571,R,OVERALL,Electrical Engineering Seminar and Special Problems,,9,86.0,10.124228366,99.0,62.0,,,,,,,,,,,
-UBCV,2017,W,EECE,573,,101,Micro and Nano Fabrication Technologies,Kenichi Takahata,6,81.5,7.867655305,92.0,69.0,,,,,,,,,,,
-UBCV,2017,W,EECE,573,,OVERALL,Micro and Nano Fabrication Technologies,,6,81.5,7.867655305,92.0,69.0,,,,,,,,,,,
-UBCV,2017,W,EECE,574,,201,Self-Tuning Control,Guy A Dumont,9,77.333333333,21.0,92.0,23.0,,,,,,,,,,,
-UBCV,2017,W,EECE,574,,OVERALL,Self-Tuning Control,,9,77.333333333,21.0,92.0,23.0,,,,,,,,,,,
-UBCV,2017,W,EECE,579,,201,Advanced Topics in VLSI Design,Bradley Quinton,10,87.8,4.6139883930000005,94.0,82.0,,,,,,,,,,,
-UBCV,2017,W,EECE,579,,OVERALL,Advanced Topics in VLSI Design,,10,87.8,4.6139883930000005,94.0,82.0,,,,,,,,,,,
-UBCV,2017,W,EECE,580,,101,Emerging Electronic Materials and Devices,John Madden,10,87.2,6.477310827,97.0,76.0,,,,,,,,,,,
-UBCV,2017,W,EECE,580,,OVERALL,Emerging Electronic Materials and Devices,,10,87.2,6.477310827,97.0,76.0,,,,,,,,,,,
-UBCV,2017,W,EECE,583,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,14,86.0,15.266857014000001,97.0,43.0,,,,,,,,,,,8
-UBCV,2017,W,EECE,583,,OVERALL,CAD Algorithms for Integrated Circuits,,14,86.0,15.266857014000001,97.0,43.0,,,,,,,,,,,8
-UBCV,2017,W,EECE,584,,001,Nanophotonics Fabrication,Lukas Chrostowski;Nicolas A Jaeger,5,88.6,5.412947441,95.0,83.0,,,,,,,,,,,
-UBCV,2017,W,EECE,584,,OVERALL,Nanophotonics Fabrication,,5,88.6,5.412947441,95.0,83.0,,,,,,,,,,,
-UBCV,2017,W,EECE,588,,101,Analog Integrated Circuit Design,Shahriar Mirabbasi,13,88.46153846200001,4.993585629,96.0,80.0,,,,,,,,,,,6
-UBCV,2017,W,EECE,588,,OVERALL,Analog Integrated Circuit Design,,13,88.46153846200001,4.993585629,96.0,80.0,,,,,,,,,,,6
-UBCV,2017,W,EECE,592,,101,Architecture for Learning Systems,Jianzhe Lin;Sarbjit Sarkaria,75,86.933333333,11.942806648,96.0,0.0,,,,,,,,,7,20,40
-UBCV,2017,W,EECE,592,,OVERALL,Architecture for Learning Systems,,75,86.933333333,11.942806648,96.0,0.0,,,,,,,,,7,20,40
-UBCV,2017,W,EECE,595,,101,Mixed-Signal and RF Integrated Circuits and Systems Test,Roberto Rosales,6,82.5,8.619744776000001,91.0,68.0,,,,,,,,,,,
-UBCV,2017,W,EECE,595,,OVERALL,Mixed-Signal and RF Integrated Circuits and Systems Test,,6,82.5,8.619744776000001,91.0,68.0,,,,,,,,,,,
-UBCV,2017,W,EECE,599,,101,Thesis,,10,86.1,4.433458645,91.0,78.0,,,,,,,,,,5,
-UBCV,2017,W,EECE,599,,OVERALL,Thesis,,16,86.1875,3.9702015060000004,91.0,78.0,,,,,,,,,,8,
+UBCV,2017,W,EECE,509,,101,Advanced Microsystems Design,Edmond Cretu,9,82.11111111,9.765301384,98.0,70.0,0,0,0,0,0,1,2,1,0.0,3.0,2
+UBCV,2017,W,EECE,509,,OVERALL,Advanced Microsystems Design,,9,82.11111111,9.765301384,98.0,70.0,0,0,0,0,0,1,2,1,0.0,3.0,2
+UBCV,2017,W,EECE,512,,101,Topics in Computer Security,Colin Birge,13,83.84615385,7.380674696,97.0,70.0,0,0,0,0,0,1,0.0,3,4,2.0,3
+UBCV,2017,W,EECE,512,,OVERALL,Topics in Computer Security,,13,83.84615385,7.380674696,97.0,70.0,0,0,0,0,0,1,0.0,3,4,2.0,3
+UBCV,2017,W,EECE,513,,201,Error Resilient Computing Systems,Nabil Al-Rousan;Nabil Mashhour Al-Rousan;Sathish Gopalakrishnan,14,88.35714286,6.720887566,94.0,76.0,0,0,0,0,0,0,0,3,0.0,3.0,8
+UBCV,2017,W,EECE,513,,OVERALL,Error Resilient Computing Systems,,14,88.35714286,6.720887566,94.0,76.0,0,0,0,0,0,0,0,3,0.0,3.0,8
+UBCV,2017,W,EECE,518,,201,Human Interface Technologies,Qian Zhou;S Sidney Fels,29,86.62068966,6.241644661,96.0,77.0,0,0,0,0,0,0,0,4,7,7.0,11
+UBCV,2017,W,EECE,518,,OVERALL,Human Interface Technologies,,29,86.62068966,6.241644661,96.0,77.0,0,0,0,0,0,0,0,4,7,7.0,11
+UBCV,2017,W,EECE,527,,201,Advanced Computer Architecture,Mieszko Lis,10,89.6,5.561774297,95.0,78.0,0,0,0,0,0,0,0,1,1,0.0,8
+UBCV,2017,W,EECE,527,,OVERALL,Advanced Computer Architecture,,10,89.6,5.561774297,95.0,78.0,0,0,0,0,0,0,0,1,1,0.0,8
+UBCV,2017,W,EECE,528,,101,Parallel and Reconfigurable Computing,Guy Lemieux,17,79.17647059,6.11591463,92.0,69.0,0,0,0,0,0,3,3,1,8,1.0,1
+UBCV,2017,W,EECE,528,,OVERALL,Parallel and Reconfigurable Computing,,17,79.17647059,6.11591463,92.0,69.0,0,0,0,0,0,3,3,1,8,1.0,1
+UBCV,2017,W,EECE,531,,201,Nanoscale Modeling and Simulations,Alireza Nojeh,15,86.4,20.48971868,99.0,18.0,1,0,0,0,0,1,0,0,0,3.0,10
+UBCV,2017,W,EECE,531,,OVERALL,Nanoscale Modeling and Simulations,,15,86.4,20.48971868,99.0,18.0,1,0,0,0,0,1,0,0,0,3.0,10
+UBCV,2017,W,EECE,532,,101,Biomedical Microdevices,Karen Cheung,13,74.38461539,12.36620706,96.0,50.0,0,,,1,2,,2,2,2,2.0,1
+UBCV,2017,W,EECE,532,,OVERALL,Biomedical Microdevices,,13,74.38461539,12.36620706,96.0,50.0,0,,,1,2,,2,2,2,2.0,1
+UBCV,2017,W,EECE,534,,201,Green Nanoelectronic Devices,Peyman Servati,23,86.73913044,4.928741231,92.0,78.0,0,0,0,0,0,0,0,3,4,6.0,10
+UBCV,2017,W,EECE,534,,OVERALL,Green Nanoelectronic Devices,,23,86.73913044,4.928741231,92.0,78.0,0,0,0,0,0,0,0,3,4,6.0,10
+UBCV,2017,W,EECE,535,,101,Advanced Biophotonics,Shuo Tang,9,85.11111111,9.047713032,96.0,68.0,0,0,0,0,0,1,0.0,1,1,2.0,4
+UBCV,2017,W,EECE,535,,OVERALL,Advanced Biophotonics,,9,85.11111111,9.047713032,96.0,68.0,0,0,0,0,0,1,0.0,1,1,2.0,4
+UBCV,2017,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad;Panos Nasiopoulos,19,87.52631579,6.230466552,96.0,72.0,0,0,0,0,0,0,1,1,2,8.0,7
+UBCV,2017,W,EECE,541,,OVERALL,Multimedia Systems,,19,87.52631579,6.230466552,96.0,72.0,0,0,0,0,0,0,1,1,2,8.0,7
+UBCV,2017,W,EECE,543,,201,Software Project Management,Bahar Salehpour;Philippe Kruchten,19,82.63157895,9.001299451,97.0,68.0,0,0,0,0,0,4,0.0,2,1,8.0,4
+UBCV,2017,W,EECE,543,,OVERALL,Software Project Management,,19,82.63157895,9.001299451,97.0,68.0,0,0,0,0,0,4,0.0,2,1,8.0,4
+UBCV,2017,W,EECE,544,,101,Medical Imaging,Shekoofeh Azizi;Siamak Najarian,30,86.86666667,5.691695907,97.0,76.0,0,0,0,0,0,0,0,4,6,9.0,11
+UBCV,2017,W,EECE,544,,OVERALL,Medical Imaging,,30,86.86666667,5.691695907,97.0,76.0,0,0,0,0,0,0,0,4,6,9.0,11
+UBCV,2017,W,EECE,549,,101,Dynamic Modelling of Electric Machines and Controls,Juri Jatskevich,8,92.125,2.100170061,95.0,90.0,0,0,0,0,0,0,0,0,0,0.0,8
+UBCV,2017,W,EECE,549,,OVERALL,Dynamic Modelling of Electric Machines and Controls,,8,92.125,2.100170061,95.0,90.0,0,0,0,0,0,0,0,0,0,0.0,8
+UBCV,2017,W,EECE,550,,201,Topics in Power Electronic Design,Martin Ordonez,11,85.09090909,15.26076371,94.0,40.0,1,0,0,0,0,0,0,0,0,5.0,5
+UBCV,2017,W,EECE,550,,OVERALL,Topics in Power Electronic Design,,11,85.09090909,15.26076371,94.0,40.0,1,0,0,0,0,0,0,0,0,5.0,5
+UBCV,2017,W,EECE,553,,201,Advanced Power Systems Analysis,Ebrahim Vaahedi,12,82.5,8.218604173,96.0,68.0,0,0,0,0,0,2,1,0.0,3,5.0,1
+UBCV,2017,W,EECE,553,,OVERALL,Advanced Power Systems Analysis,,12,82.5,8.218604173,96.0,68.0,0,0,0,0,0,2,1,0.0,3,5.0,1
+UBCV,2017,W,EECE,554,,101,Advanced Power System Control and Dynamics,Hermann Dommel,6,97.16666667,1.471960144,100.0,96.0,0,0,0,0,0,0,0,0,0,0.0,6
+UBCV,2017,W,EECE,554,,OVERALL,Advanced Power System Control and Dynamics,,6,97.16666667,1.471960144,100.0,96.0,0,0,0,0,0,0,0,0,0,0.0,6
+UBCV,2017,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Shuan Dong;Yu Christine Chen,38,89.42105263,5.011508803,96.0,75.0,0,0,0,0,0,0,1,0.0,6,8.0,23
+UBCV,2017,W,EECE,555,,OVERALL,Renewable and Efficient Electric Power Systems,,38,89.42105263,5.011508803,96.0,75.0,0,0,0,0,0,0,1,0.0,6,8.0,23
+UBCV,2017,W,EECE,560,,201,Network Analysis and Simulation,Javier Tarazona Gomez;Jose Marti,23,86.69565217,8.471528694,99.0,55.0,0,0,,,,,,,4,13.0,5
+UBCV,2017,W,EECE,560,,OVERALL,Network Analysis and Simulation,,23,86.69565217,8.471528694,99.0,55.0,0,0,,,,,,,4,13.0,5
+UBCV,2017,W,EECE,562,,101,Statistical Signal Processing with Applications in Wireless Communications and Defence,Zhen Wang,6,82.0,16.11210725,95.0,50.0,0,,,,,,,,,3.0,2
+UBCV,2017,W,EECE,562,,OVERALL,Statistical Signal Processing with Applications in Wireless Communications and Defence,,6,82.0,16.11210725,95.0,50.0,0,,,,,,,,,3.0,2
+UBCV,2017,W,EECE,565,,101,Communication Networks,Wai-Shuen Vincent Wong,22,72.04545455,19.12484615,95.0,19.0,3,0,0,2,1,4,2,2,2,1.0,5
+UBCV,2017,W,EECE,565,,OVERALL,Communication Networks,,22,72.04545455,19.12484615,95.0,19.0,3,0,0,2,1,4,2,2,2,1.0,5
+UBCV,2017,W,EECE,566,,201,Communication and Information Theory,Cyril Leung,9,76.44444444,6.306962643,87.0,68.0,0,0,0,0,0,2,1,4,0.0,2.0,0
+UBCV,2017,W,EECE,566,,OVERALL,Communication and Information Theory,,9,76.44444444,6.306962643,87.0,68.0,0,0,0,0,0,2,1,4,0.0,2.0,0
+UBCV,2017,W,EECE,569,,201,Mobile Communications Networks,Farshid Agharebparast;Javier Orlando Tarazona Gomez;Javier Tarazona Gomez;Victor C Leung;Victor Leung;Xiuhua Li,44,85.29545455,13.64428417,94.0,0.0,1,0,0,0,0,0,1,1,3,26.0,12
+UBCV,2017,W,EECE,569,,OVERALL,Mobile Communications Networks,,44,85.29545455,13.64428417,94.0,0.0,1,0,0,0,0,0,1,1,3,26.0,12
+UBCV,2017,W,EECE,571,F,202,Electrical Engineering Seminar and Special Problems,Sudip Shekhar,8,81.625,11.47590644,95.0,65.0,0,0,0,0,1,1,1,1,0.0,1.0,3
+UBCV,2017,W,EECE,571,F,OVERALL,Electrical Engineering Seminar and Special Problems,,8,81.625,11.47590644,95.0,65.0,0,0,0,0,1,1,1,1,0.0,1.0,3
+UBCV,2017,W,EECE,571,I,107,Electrical Engineering Seminar and Special Problems,Karen Cheung;Sathish Gopalakrishnan,13,91.23076923,2.743290183,95.0,84.0,0,0,0,0,0,0,0,0,1,0.0,12
+UBCV,2017,W,EECE,571,I,OVERALL,Electrical Engineering Seminar and Special Problems,,13,91.23076923,2.743290183,95.0,84.0,0,0,0,0,0,0,0,0,1,0.0,12
+UBCV,2017,W,EECE,571,J,201,Electrical Engineering Seminar and Special Problems,Julia Rubin,18,84.83333333,5.067195535,92.0,76.0,0,0,0,0,0,0,0,4,3,7.0,4
+UBCV,2017,W,EECE,571,J,OVERALL,Electrical Engineering Seminar and Special Problems,,18,84.83333333,5.067195535,92.0,76.0,0,0,0,0,0,0,0,4,3,7.0,4
+UBCV,2017,W,EECE,571,R,105,Electrical Engineering Seminar and Special Problems,Septimiu Salcudean,9,86.0,10.12422837,99.0,62.0,0,0,0,1,0,0,0,0,1,4.0,3
+UBCV,2017,W,EECE,571,R,OVERALL,Electrical Engineering Seminar and Special Problems,,9,86.0,10.12422837,99.0,62.0,0,0,0,1,0,0,0,0,1,4.0,3
+UBCV,2017,W,EECE,573,,101,Micro and Nano Fabrication Technologies,Kenichi Takahata,6,81.5,7.867655305,92.0,69.0,0,0,0,0,0,1,0.0,1,2,1.0,1
+UBCV,2017,W,EECE,573,,OVERALL,Micro and Nano Fabrication Technologies,,6,81.5,7.867655305,92.0,69.0,0,0,0,0,0,1,0.0,1,2,1.0,1
+UBCV,2017,W,EECE,574,,201,Self-Tuning Control,Guy A Dumont,9,77.33333333,21.0,92.0,23.0,1,0,0,0,0,0,0,2,1,3.0,2
+UBCV,2017,W,EECE,574,,OVERALL,Self-Tuning Control,,9,77.33333333,21.0,92.0,23.0,1,0,0,0,0,0,0,2,1,3.0,2
+UBCV,2017,W,EECE,579,,201,Advanced Topics in VLSI Design,Bradley Quinton,10,87.8,4.613988393,94.0,82.0,0,0,0,0,0,0,0,0,3,3.0,4
+UBCV,2017,W,EECE,579,,OVERALL,Advanced Topics in VLSI Design,,10,87.8,4.613988393,94.0,82.0,0,0,0,0,0,0,0,0,3,3.0,4
+UBCV,2017,W,EECE,580,,101,Emerging Electronic Materials and Devices,John Madden,10,87.2,6.477310827,97.0,76.0,0,0,0,0,0,0,0,2,0.0,4.0,4
+UBCV,2017,W,EECE,580,,OVERALL,Emerging Electronic Materials and Devices,,10,87.2,6.477310827,97.0,76.0,0,0,0,0,0,0,0,2,0.0,4.0,4
+UBCV,2017,W,EECE,583,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,14,86.0,15.26685701,97.0,43.0,1,0,0,1,0,0,0,0,0,4.0,8
+UBCV,2017,W,EECE,583,,OVERALL,CAD Algorithms for Integrated Circuits,,14,86.0,15.26685701,97.0,43.0,1,0,0,1,0,0,0,0,0,4.0,8
+UBCV,2017,W,EECE,588,,101,Analog Integrated Circuit Design,Shahriar Mirabbasi,13,88.46153846,4.993585629,96.0,80.0,0,0,0,0,0,0,0,0,3,4.0,6
+UBCV,2017,W,EECE,588,,OVERALL,Analog Integrated Circuit Design,,13,88.46153846,4.993585629,96.0,80.0,0,0,0,0,0,0,0,0,3,4.0,6
+UBCV,2017,W,EECE,592,,101,Architecture for Learning Systems,Jianzhe Lin;Sarbjit Sarkaria,75,86.93333333,11.94280665,96.0,0.0,1,0,0,1,0,2,1,3,7,20.0,40
+UBCV,2017,W,EECE,592,,OVERALL,Architecture for Learning Systems,,75,86.93333333,11.94280665,96.0,0.0,1,0,0,1,0,2,1,3,7,20.0,40
+UBCV,2017,W,EECE,595,,101,Mixed-Signal and RF Integrated Circuits and Systems Test,Roberto Rosales,6,82.5,8.619744776,91.0,68.0,0,0,0,0,0,1,0.0,1,1,1.0,2
+UBCV,2017,W,EECE,595,,OVERALL,Mixed-Signal and RF Integrated Circuits and Systems Test,,6,82.5,8.619744776,91.0,68.0,0,0,0,0,0,1,0.0,1,1,1.0,2
+UBCV,2017,W,EECE,599,,101,Thesis,,10,86.1,4.433458645,91.0,78.0,0,0,0,0,0,0,0,1,2,5.0,2
+UBCV,2017,W,EECE,599,,OVERALL,Thesis,,16,86.1875,3.970201506,91.0,78.0,0,0,0,0,0,0,0,1,4,8.0,3

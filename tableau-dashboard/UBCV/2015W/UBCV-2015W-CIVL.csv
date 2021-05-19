@@ -1,184 +1,184 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,CIVL,200,,99A,Engineering and Sustainable Development,Afrina Zerin Disha;Joerg Winter;Md Nesar Khadem;Negar Roghanian;Susan Nesbit,172,78.412790698,9.975318037000001,94.0,17.0,,,,,6,13,21,20,60,32,11
-UBCV,2015,W,CIVL,200,,OVERALL,Engineering and Sustainable Development,,172,78.412790698,9.975318037000001,94.0,17.0,,,,,6,13,21,20,60,32,11
-UBCV,2015,W,CIVL,201,,101,Civil Engineering I,Amaia Martinez;Cesar Niculescu;Gregory Johnson;Michael D Isaacson;Neshat Basiri;Sheryl Staub-French;Sina Amini Niaki,125,85.6,3.553734973,93.0,74.0,,,,,,,,,46,57,16
-UBCV,2015,W,CIVL,201,,OVERALL,Civil Engineering I,,125,85.6,3.553734973,93.0,74.0,,,,,,,,,46,57,16
-UBCV,2015,W,CIVL,202,,201,Civil Engineering II,Amir Behzad Shoolestani;Amir Yashar Shoolestani;James Campbell;Joerg Winter;Negar Roghanian;Susan Nesbit,133,81.691729323,5.899641041000001,94.0,64.0,,,,,,5,9,16,55,35,9
-UBCV,2015,W,CIVL,202,,OVERALL,Civil Engineering II,,133,81.691729323,5.899641041000001,94.0,64.0,,,,,,5,9,16,55,35,9
+UBCV,2015,W,CIVL,200,,99A,Engineering and Sustainable Development,Afrina Zerin Disha;Joerg Winter;Md Nesar Khadem;Negar Roghanian;Susan Nesbit,172,78.412790698,9.975318037,94.0,17.0,,,,,6,13,21,20,60,32,11
+UBCV,2015,W,CIVL,200,,OVERALL,Engineering and Sustainable Development,,172,78.412790698,9.975318037,94.0,17.0,,,,,6,13,21,20,60,32,11
+UBCV,2015,W,CIVL,201,,101,Civil Engineering I,Amaia Martinez;Cesar Niculescu;Gregory Johnson;Michael D Isaacson;Neshat Basiri;Sheryl Staub-French;Sina Amini Niaki,125,85.6,3.553734973,93.0,74.0,0,0,0,0,0,0,,,46,57,16
+UBCV,2015,W,CIVL,201,,OVERALL,Civil Engineering I,,125,85.6,3.553734973,93.0,74.0,0,0,0,0,0,0,,,46,57,16
+UBCV,2015,W,CIVL,202,,201,Civil Engineering II,Amir Behzad Shoolestani;Amir Yashar Shoolestani;James Campbell;Joerg Winter;Negar Roghanian;Susan Nesbit,133,81.691729323,5.899641041,94.0,64.0,0,0,0,0,4.0,5,9,16,55,35,9
+UBCV,2015,W,CIVL,202,,OVERALL,Civil Engineering II,,133,81.691729323,5.899641041,94.0,64.0,0,0,0,0,4.0,5,9,16,55,35,9
 UBCV,2015,W,CIVL,210,,201,Soil Mechanics I,Adam Silvester;Boris Kolev;Gaziz Seidalinov;Jong Suk Lee;Ming Yang;R Jonathan Fannin,140,72.578571429,11.773074913,98.0,22.0,5,3.0,8,6,17,22,17,23,22,12,5
-UBCV,2015,W,CIVL,210,,202,Soil Mechanics I,R Jonathan Fannin,131,75.877862595,9.545859272000001,94.0,43.0,2,1.0,6,6,6,13,21,30,26,12,8
-UBCV,2015,W,CIVL,210,,OVERALL,Soil Mechanics I,,271,74.17343173399999,10.860879289000001,98.0,22.0,7,4.0,14,12,23,35,38,53,48,24,13
-UBCV,2015,W,CIVL,215,,101,Fluid Mechanics I,Afrina Zerin Disha;Alexandra Elizabeth Hockin;David Hurley;Gregory Lawrence;Joerg Winter;Kelly Elise Graves;Kelly Graves;Mark Sumka,177,75.994350282,11.424404289000002,100.0,0.0,,,,6,11,21,33,26,39,16,17
+UBCV,2015,W,CIVL,210,,202,Soil Mechanics I,R Jonathan Fannin,131,75.877862595,9.545859272,94.0,43.0,2,1.0,6,6,6,13,21,30,26,12,8
+UBCV,2015,W,CIVL,210,,OVERALL,Soil Mechanics I,,271,74.173431734,10.860879289,98.0,22.0,7,4.0,14,12,23,35,38,53,48,24,13
+UBCV,2015,W,CIVL,215,,101,Fluid Mechanics I,Afrina Zerin Disha;Alexandra Elizabeth Hockin;David Hurley;Gregory Lawrence;Joerg Winter;Kelly Elise Graves;Kelly Graves;Mark Sumka,177,75.994350282,11.424404289,100.0,0.0,,,,6,11,21,33,26,39,16,17
 UBCV,2015,W,CIVL,215,,201,Fluid Mechanics I,Alexandra Elizabeth Hockin;David Hurley;Joerg Winter;Laura Irvine;Mark Sumka;Noboru Yonemitsu;Samuel Brenner,90,78.222222222,7.96167474,95.0,49.0,,,,2,2,10,20,18,15,17,5
 UBCV,2015,W,CIVL,215,,OVERALL,Fluid Mechanics I,,267,76.745318352,10.42493426,100.0,0.0,,,,8,13,31,53,44,54,33,22
-UBCV,2015,W,CIVL,228,,201,Introduction to Structural Engineering,Abdolreza Joghataie;Dorian Tung;Jian-Yuan Lin,140,79.164285714,6.886135287999999,92.0,36.0,,,,,,6,28,20,59,18,5
-UBCV,2015,W,CIVL,228,,OVERALL,Introduction to Structural Engineering,,140,79.164285714,6.886135287999999,92.0,36.0,,,,,,6,28,20,59,18,5
-UBCV,2015,W,CIVL,230,,101,Solid Mechanics I,Mina Shahbazi;Reza Vaziri;Salman Soleimani-Dashtaki;Sina Amini Niaki,179,76.536312849,13.140236254000001,100.0,0.0,2.0,6,11,6,16,13,19,22,35,18,31
-UBCV,2015,W,CIVL,230,,OVERALL,Solid Mechanics I,,179,76.536312849,13.140236254000001,100.0,0.0,2.0,6,11,6,16,13,19,22,35,18,31
+UBCV,2015,W,CIVL,228,,201,Introduction to Structural Engineering,Abdolreza Joghataie;Dorian Tung;Jian-Yuan Lin,140,79.164285714,6.886135288,92.0,36.0,,,,,,6,28,20,59,18,5
+UBCV,2015,W,CIVL,228,,OVERALL,Introduction to Structural Engineering,,140,79.164285714,6.886135288,92.0,36.0,,,,,,6,28,20,59,18,5
+UBCV,2015,W,CIVL,230,,101,Solid Mechanics I,Mina Shahbazi;Reza Vaziri;Salman Soleimani-Dashtaki;Sina Amini Niaki,179,76.536312849,13.140236254,100.0,0.0,2.0,6,11,6,16,13,19,22,35,18,31
+UBCV,2015,W,CIVL,230,,OVERALL,Solid Mechanics I,,179,76.536312849,13.140236254,100.0,0.0,2.0,6,11,6,16,13,19,22,35,18,31
 UBCV,2015,W,CIVL,231,,201,Solid Mechanics II,Armin Bebam Zadeh;Kamyar Gordnian;Mina Shahbazi;Sina Amini Niaki,179,74.374301676,12.537118325,100.0,36.0,7,6,6,12,14,25,18,31,25,13,22
 UBCV,2015,W,CIVL,231,,OVERALL,Solid Mechanics II,,179,74.374301676,12.537118325,100.0,36.0,7,6,6,12,14,25,18,31,25,13,22
 UBCV,2015,W,CIVL,300,,201,Construction Engineering and Management,Amir Behzad Shoolestani;Amir Yashar Shoolestani;Cheryl Nelms;Raghav Grover;Thomas Froese;Thomas M Froese,146,80.609589041,10.154919506,95.0,0.0,,,,,,8,14,18,48,27,23
 UBCV,2015,W,CIVL,300,,OVERALL,Construction Engineering and Management,,146,80.609589041,10.154919506,95.0,0.0,,,,,,8,14,18,48,27,23
 UBCV,2015,W,CIVL,301,,101,Optimization and Decision Analysis in Civil Engineering,Amir Behzad Shoolestani;Amir Yashar Shoolestani;Barbara Jean Lence;Seyed Abdolnaser Moosavian,158,81.588607595,15.18595133,100.0,0.0,,,,7,,12,13,7,22,23,60
 UBCV,2015,W,CIVL,301,,OVERALL,Optimization and Decision Analysis in Civil Engineering,,158,81.588607595,15.18595133,100.0,0.0,,,,7,,12,13,7,22,23,60
-UBCV,2015,W,CIVL,304,,201,Introduction to Environmental Engineering,Kwang Victor Lo,11,86.454545455,6.170310144,92.0,71.0,,,,,,,,,,5,
-UBCV,2015,W,CIVL,304,,OVERALL,Introduction to Environmental Engineering,,11,86.454545455,6.170310144,92.0,71.0,,,,,,,,,,5,
+UBCV,2015,W,CIVL,304,,201,Introduction to Environmental Engineering,Kwang Victor Lo,11,86.454545455,6.170310144,92.0,71.0,0,0,0,0,0,,,,,5,
+UBCV,2015,W,CIVL,304,,OVERALL,Introduction to Environmental Engineering,,11,86.454545455,6.170310144,92.0,71.0,0,0,0,0,0,,,,,5,
 UBCV,2015,W,CIVL,305,,201,Environmental Impact Studies,Donald Mavinic;Donald S Mavinic;Eric Hall;Jessica Louise Lenoble;Michael Harvard;Shayok Ghosh,197,72.47715736,15.30258535,98.0,0.0,12,5,9,13,18,22,23,33,21,26,15
 UBCV,2015,W,CIVL,305,,OVERALL,Environmental Impact Studies,,197,72.47715736,15.30258535,98.0,0.0,12,5,9,13,18,22,23,33,21,26,15
 UBCV,2015,W,CIVL,311,,101,Soil Mechanics II,Amaia Martinez;Boris Kolev;Daniel Mark Barnes;Dharmapriya Wijewickreme;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John Howie;Monirehsadat Hedayati;Priyesh Verma;Vidanalage Nishan Soysa;Vidanalage Soysa,208,71.875,10.764665314,91.0,16.0,7,,9,16,21,37,34,34,31,16,
 UBCV,2015,W,CIVL,311,,OVERALL,Soil Mechanics II,,208,71.875,10.764665314,91.0,16.0,7,,9,16,21,37,34,34,31,16,
-UBCV,2015,W,CIVL,315,,101,Fluid Mechanics II,Afrina Zerin Disha;Amir Yashar Shoolestani;Joerg Winter;Neshat Basiri;Noboru Yonemitsu;Rony Das;Samuel Brenner;Sardar Yafee Muntasir,190,77.710526316,10.514560061000001,95.0,15.0,,,,7,12,24,17,26,50,29,19
-UBCV,2015,W,CIVL,315,,OVERALL,Fluid Mechanics II,,190,77.710526316,10.514560061000001,95.0,15.0,,,,7,12,24,17,26,50,29,19
+UBCV,2015,W,CIVL,315,,101,Fluid Mechanics II,Afrina Zerin Disha;Amir Yashar Shoolestani;Joerg Winter;Neshat Basiri;Noboru Yonemitsu;Rony Das;Samuel Brenner;Sardar Yafee Muntasir,190,77.710526316,10.514560061,95.0,15.0,,,,7,12,24,17,26,50,29,19
+UBCV,2015,W,CIVL,315,,OVERALL,Fluid Mechanics II,,190,77.710526316,10.514560061,95.0,15.0,,,,7,12,24,17,26,50,29,19
 UBCV,2015,W,CIVL,316,,201,Hydrology and Open Channel Flow,Afrina Zerin Disha;Md Nesar Khadem;Mehrnoush Mohammadali;Neshat Basiri;Robert Millar;Rony Das;Sardar Yafee Muntasir;Xiaoyu Zheng,196,79.321428571,10.037557676,92.0,0.0,,,,,7,12,26,33,45,48,15
 UBCV,2015,W,CIVL,316,,OVERALL,Hydrology and Open Channel Flow,,196,79.321428571,10.037557676,92.0,0.0,,,,,7,12,26,33,45,48,15
 UBCV,2015,W,CIVL,320,,101,Civil Engineering Materials,Amir Behzad Shoolestani;Patrick Mcgrath;Yuan Yan,164,74.780487805,10.613713077,96.0,7.0,,,,15,17,22,27,22,31,13,12
 UBCV,2015,W,CIVL,320,,OVERALL,Civil Engineering Materials,,164,74.780487805,10.613713077,96.0,7.0,,,,15,17,22,27,22,31,13,12
-UBCV,2015,W,CIVL,331,,201,Steel and Timber Design,Freddy Pina;Marisa Mulder;Md. Shahnewaz;Saeid Allahdadian;Thomas Tannert;Yuxin Pan,137,75.39416058399999,14.139201692,96.0,0.0,6,5,,13,,5,14,18,38,21,12
-UBCV,2015,W,CIVL,331,,OVERALL,Steel and Timber Design,,137,75.39416058399999,14.139201692,96.0,0.0,6,5,,13,,5,14,18,38,21,12
-UBCV,2015,W,CIVL,332,,101,Structural Analysis,Marisa Mulder;Saeid Allahdadian;Stevan Gavrilovic;Terje Haukaas,159,75.63522012600001,12.266771719000001,100.0,5.0,5,,,11,8,16,15,21,39,22,18
-UBCV,2015,W,CIVL,332,,OVERALL,Structural Analysis,,159,75.63522012600001,12.266771719000001,100.0,5.0,5,,,11,8,16,15,21,39,22,18
+UBCV,2015,W,CIVL,331,,201,Steel and Timber Design,Freddy Pina;Marisa Mulder;Md. Shahnewaz;Saeid Allahdadian;Thomas Tannert;Yuxin Pan,137,75.394160584,14.139201692,96.0,0.0,6,5,,13,,5,14,18,38,21,12
+UBCV,2015,W,CIVL,331,,OVERALL,Steel and Timber Design,,137,75.394160584,14.139201692,96.0,0.0,6,5,,13,,5,14,18,38,21,12
+UBCV,2015,W,CIVL,332,,101,Structural Analysis,Marisa Mulder;Saeid Allahdadian;Stevan Gavrilovic;Terje Haukaas,159,75.635220126,12.266771719,100.0,5.0,5,,,11,8,16,15,21,39,22,18
+UBCV,2015,W,CIVL,332,,OVERALL,Structural Analysis,,159,75.635220126,12.266771719,100.0,5.0,5,,,11,8,16,15,21,39,22,18
 UBCV,2015,W,CIVL,340,,201,Transportation Engineering I,Ahmed Tageldin;Mohamed Azab Hussein Hussein;Mohamed Essa;Tarek Sayed,141,70.14893617,14.212638325,99.0,0.0,8,11,12,12,14,16,12,18,17,10,11
 UBCV,2015,W,CIVL,340,,OVERALL,Transportation Engineering I,,141,70.14893617,14.212638325,99.0,0.0,8,11,12,12,14,16,12,18,17,10,11
 UBCV,2015,W,CIVL,402,,201,Engineering Law and Contracts in Civil Engineering,Craig Wallace;Yang Du,196,78.265306122,8.632141512,94.0,44.0,,,,6,9,17,25,31,56,32,15
 UBCV,2015,W,CIVL,402,,OVERALL,Engineering Law and Contracts in Civil Engineering,,196,78.265306122,8.632141512,94.0,44.0,,,,6,9,17,25,31,56,32,15
-UBCV,2015,W,CIVL,403,,201,Engineering Economic Analysis,Michael D Isaacson;Rony Das,165,79.406060606,9.025638934,100.0,50.0,,,,,12,14,26,18,40,29,21
-UBCV,2015,W,CIVL,403,,OVERALL,Engineering Economic Analysis,,165,79.406060606,9.025638934,100.0,50.0,,,,,12,14,26,18,40,29,21
-UBCV,2015,W,CIVL,404,,101,Introduction to Solid Waste Management,James Atwater;Sardar Yafee Muntasir,16,80.375,5.5,90.0,72.0,,,,,,,,,6,,
-UBCV,2015,W,CIVL,404,,OVERALL,Introduction to Solid Waste Management,,16,80.375,5.5,90.0,72.0,,,,,,,,,6,,
+UBCV,2015,W,CIVL,403,,201,Engineering Economic Analysis,Michael D Isaacson;Rony Das,165,79.406060606,9.025638934,100.0,50.0,0,,,,12,14,26,18,40,29,21
+UBCV,2015,W,CIVL,403,,OVERALL,Engineering Economic Analysis,,165,79.406060606,9.025638934,100.0,50.0,0,,,,12,14,26,18,40,29,21
+UBCV,2015,W,CIVL,404,,101,Introduction to Solid Waste Management,James Atwater;Sardar Yafee Muntasir,16,80.375,5.5,90.0,72.0,0,0,0,0,0,0,,,6,,
+UBCV,2015,W,CIVL,404,,OVERALL,Introduction to Solid Waste Management,,16,80.375,5.5,90.0,72.0,0,0,0,0,0,0,,,6,,
 UBCV,2015,W,CIVL,406,,201,Water Treatment and Waste Management,Donald Mavinic;Donald S Mavinic;Joerg Winter;Shona J Robinson;Shona Robinson,134,69.007462687,11.063382852,94.0,40.0,,11,10,13,19,23,17,6,22,5,
 UBCV,2015,W,CIVL,406,,OVERALL,Water Treatment and Waste Management,,134,69.007462687,11.063382852,94.0,40.0,,11,10,13,19,23,17,6,22,5,
-UBCV,2015,W,CIVL,407,,101,Environmental Laboratory Analysis,Kwang Victor Lo;Ruihuan Ning;Shayok Ghosh,18,87.666666667,5.156378118,95.0,81.0,,,,,,,,,6,,9
-UBCV,2015,W,CIVL,407,,OVERALL,Environmental Laboratory Analysis,,18,87.666666667,5.156378118,95.0,81.0,,,,,,,,,6,,9
-UBCV,2015,W,CIVL,408,,201,Geo-Environmental Engineering,Hanna Hamid;Loretta Li,36,71.638888889,8.526103707999999,90.0,50.0,,,,,6,9,,6,5,,
-UBCV,2015,W,CIVL,408,,OVERALL,Geo-Environmental Engineering,,36,71.638888889,8.526103707999999,90.0,50.0,,,,,6,9,,6,5,,
-UBCV,2015,W,CIVL,409,,101,Design of Water Supply and Waste Conveyance Systems,James Atwater;Michael Harvard,24,80.916666667,5.29081786,90.0,73.0,,,,,,,5,6,6,6,
-UBCV,2015,W,CIVL,409,,OVERALL,Design of Water Supply and Waste Conveyance Systems,,24,80.916666667,5.29081786,90.0,73.0,,,,,,,5,6,6,6,
-UBCV,2015,W,CIVL,410,,101,Foundation Engineering I,Adam Silvester;Afrina Zerin Disha;Yahya Nazhat,82,70.487804878,13.795010641,87.0,23.0,5,6,,,7,13,16,16,13,5,
-UBCV,2015,W,CIVL,410,,OVERALL,Foundation Engineering I,,82,70.487804878,13.795010641,87.0,23.0,5,6,,,7,13,16,16,13,5,
+UBCV,2015,W,CIVL,407,,101,Environmental Laboratory Analysis,Kwang Victor Lo;Ruihuan Ning;Shayok Ghosh,18,87.666666667,5.156378118,95.0,81.0,0,0,0,0,0,0,0,0,6,3.0,9
+UBCV,2015,W,CIVL,407,,OVERALL,Environmental Laboratory Analysis,,18,87.666666667,5.156378118,95.0,81.0,0,0,0,0,0,0,0,0,6,3.0,9
+UBCV,2015,W,CIVL,408,,201,Geo-Environmental Engineering,Hanna Hamid;Loretta Li,36,71.638888889,8.526103708,90.0,50.0,0,,,,6,9,,6,5,,
+UBCV,2015,W,CIVL,408,,OVERALL,Geo-Environmental Engineering,,36,71.638888889,8.526103708,90.0,50.0,0,,,,6,9,,6,5,,
+UBCV,2015,W,CIVL,409,,101,Design of Water Supply and Waste Conveyance Systems,James Atwater;Michael Harvard,24,80.916666667,5.29081786,90.0,73.0,0,0,0,0,0,0,5,6,6,6,1.0
+UBCV,2015,W,CIVL,409,,OVERALL,Design of Water Supply and Waste Conveyance Systems,,24,80.916666667,5.29081786,90.0,73.0,0,0,0,0,0,0,5,6,6,6,1.0
+UBCV,2015,W,CIVL,410,,101,Foundation Engineering I,Adam Silvester;Afrina Zerin Disha;Yahya Nazhat,82,70.487804878,13.795010641,87.0,23.0,5,6,,,7,13,16,16,13,5,0
+UBCV,2015,W,CIVL,410,,OVERALL,Foundation Engineering I,,82,70.487804878,13.795010641,87.0,23.0,5,6,,,7,13,16,16,13,5,0
 UBCV,2015,W,CIVL,411,,201,Foundation Engineering II,Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John Howie,71,80.647887324,14.901676408,94.0,0.0,,,,,,,,7,16,23,14
 UBCV,2015,W,CIVL,411,,OVERALL,Foundation Engineering II,,71,80.647887324,14.901676408,94.0,0.0,,,,,,,,7,16,23,14
-UBCV,2015,W,CIVL,413,,201,Design of Earth Dams and Containment Structures,Neshat Basiri;R Jonathan Fannin,23,82.434782609,6.972843994,90.0,58.0,,,,,,,,,10,10,
-UBCV,2015,W,CIVL,413,,OVERALL,Design of Earth Dams and Containment Structures,,23,82.434782609,6.972843994,90.0,58.0,,,,,,,,,10,10,
+UBCV,2015,W,CIVL,413,,201,Design of Earth Dams and Containment Structures,Neshat Basiri;R Jonathan Fannin,23,82.434782609,6.972843994,90.0,58.0,0,0,,,,,,,10,10,
+UBCV,2015,W,CIVL,413,,OVERALL,Design of Earth Dams and Containment Structures,,23,82.434782609,6.972843994,90.0,58.0,0,0,,,,,,,10,10,
 UBCV,2015,W,CIVL,415,,201,Water Resource Engineering,Abhishek Agrawal;Mehretab Tadesse;Ziad K Shawwash,30,78.8,10.765205765,92.0,39.0,,,,,,,,6,10,8,
 UBCV,2015,W,CIVL,415,,OVERALL,Water Resource Engineering,,30,78.8,10.765205765,92.0,39.0,,,,,,,,6,10,8,
-UBCV,2015,W,CIVL,416,,101,Environmental Hydraulics,Mehrnoush Mohammadali;Noboru Yonemitsu,43,83.162790698,6.650922716,95.0,69.0,,,,,,,,10,12,6,10
-UBCV,2015,W,CIVL,416,,OVERALL,Environmental Hydraulics,,43,83.162790698,6.650922716,95.0,69.0,,,,,,,,10,12,6,10
-UBCV,2015,W,CIVL,417,,201,Coastal Engineering,Michael D Isaacson;Mina Shahbazi,42,81.333333333,10.443031675,100.0,56.0,,,,,,,,,10,14,6
-UBCV,2015,W,CIVL,417,,OVERALL,Coastal Engineering,,42,81.333333333,10.443031675,100.0,56.0,,,,,,,,,10,14,6
+UBCV,2015,W,CIVL,416,,101,Environmental Hydraulics,Mehrnoush Mohammadali;Noboru Yonemitsu,43,83.162790698,6.650922716,95.0,69.0,0,0,0,0,0,,,10,12,6,10
+UBCV,2015,W,CIVL,416,,OVERALL,Environmental Hydraulics,,43,83.162790698,6.650922716,95.0,69.0,0,0,0,0,0,,,10,12,6,10
+UBCV,2015,W,CIVL,417,,201,Coastal Engineering,Michael D Isaacson;Mina Shahbazi,42,81.333333333,10.443031675,100.0,56.0,0,0,,,,,,,10,14,6
+UBCV,2015,W,CIVL,417,,OVERALL,Coastal Engineering,,42,81.333333333,10.443031675,100.0,56.0,0,0,,,,,,,10,14,6
 UBCV,2015,W,CIVL,418,,101,Engineering Hydrology,Luis Galindo;Luis Galindo Ruiz;Steven Weijs,74,84.783783784,9.880477874,100.0,46.0,,,,,,,6,7,8,19,27
 UBCV,2015,W,CIVL,418,,OVERALL,Engineering Hydrology,,74,84.783783784,9.880477874,100.0,46.0,,,,,,,6,7,8,19,27
-UBCV,2015,W,CIVL,420,,101,Concrete Technology,Cristina Zanotti;Mohammed Farooq,7,73.0,10.165300455,87.0,61.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,420,,OVERALL,Concrete Technology,,7,73.0,10.165300455,87.0,61.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,422,,201,Project Based Learning in Civil Engineering Materials,Cristina Zanotti,6,83.166666667,5.382068995,91.0,77.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,422,,OVERALL,Project Based Learning in Civil Engineering Materials,,6,83.166666667,5.382068995,91.0,77.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,426,,201,Virtual Design and Construction,Hooman Shahrokhi;Sheryl Staub-French,16,86.25,2.955221368,90.0,81.0,,,,,,,,,5,9,
-UBCV,2015,W,CIVL,426,,OVERALL,Virtual Design and Construction,,16,86.25,2.955221368,90.0,81.0,,,,,,,,,5,9,
-UBCV,2015,W,CIVL,430,,101,Design of Concrete Structures,Abdolreza Joghataie;Jeffrey Yathon;Maryam Mahmoodi;Mohammed Farooq;Sepideh Ashtari,129,80.457364341,9.745197336,98.0,55.0,,,,7,,16,14,17,21,22,28
-UBCV,2015,W,CIVL,430,,OVERALL,Design of Concrete Structures,,129,80.457364341,9.745197336,98.0,55.0,,,,7,,16,14,17,21,22,28
-UBCV,2015,W,CIVL,432,,101,Advanced Structural Steel Design,Abdolreza Joghataie;Saeid Allahdadian,50,91.06,5.842874607000001,97.0,68.0,,,,,,,,,,7,38
-UBCV,2015,W,CIVL,432,,OVERALL,Advanced Structural Steel Design,,50,91.06,5.842874607000001,97.0,68.0,,,,,,,,,,7,38
-UBCV,2015,W,CIVL,433,,201,Advanced Concrete Design,Abdolreza Joghataie,53,79.77358490600001,10.94152554,95.0,23.0,,,,,,5,,9,16,9,7
-UBCV,2015,W,CIVL,433,,OVERALL,Advanced Concrete Design,,53,79.77358490600001,10.94152554,95.0,23.0,,,,,,5,,9,16,9,7
+UBCV,2015,W,CIVL,420,,101,Concrete Technology,Cristina Zanotti;Mohammed Farooq,7,73.0,10.165300455,87.0,61.0,0,0,0,,,,,,,,0
+UBCV,2015,W,CIVL,420,,OVERALL,Concrete Technology,,7,73.0,10.165300455,87.0,61.0,0,0,0,,,,,,,,0
+UBCV,2015,W,CIVL,422,,201,Project Based Learning in Civil Engineering Materials,Cristina Zanotti,6,83.166666667,5.382068995,91.0,77.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,CIVL,422,,OVERALL,Project Based Learning in Civil Engineering Materials,,6,83.166666667,5.382068995,91.0,77.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,CIVL,426,,201,Virtual Design and Construction,Hooman Shahrokhi;Sheryl Staub-French,16,86.25,2.955221368,90.0,81.0,0,0,0,0,0,0,0,0,5,9,2.0
+UBCV,2015,W,CIVL,426,,OVERALL,Virtual Design and Construction,,16,86.25,2.955221368,90.0,81.0,0,0,0,0,0,0,0,0,5,9,2.0
+UBCV,2015,W,CIVL,430,,101,Design of Concrete Structures,Abdolreza Joghataie;Jeffrey Yathon;Maryam Mahmoodi;Mohammed Farooq;Sepideh Ashtari,129,80.457364341,9.745197336,98.0,55.0,0,0,,7,,16,14,17,21,22,28
+UBCV,2015,W,CIVL,430,,OVERALL,Design of Concrete Structures,,129,80.457364341,9.745197336,98.0,55.0,0,0,,7,,16,14,17,21,22,28
+UBCV,2015,W,CIVL,432,,101,Advanced Structural Steel Design,Abdolreza Joghataie;Saeid Allahdadian,50,91.06,5.842874607,97.0,68.0,0,0,0,0,0,,,,,7,38
+UBCV,2015,W,CIVL,432,,OVERALL,Advanced Structural Steel Design,,50,91.06,5.842874607,97.0,68.0,0,0,0,0,0,,,,,7,38
+UBCV,2015,W,CIVL,433,,201,Advanced Concrete Design,Abdolreza Joghataie,53,79.773584906,10.94152554,95.0,23.0,,,,,,5,,9,16,9,7
+UBCV,2015,W,CIVL,433,,OVERALL,Advanced Concrete Design,,53,79.773584906,10.94152554,95.0,23.0,,,,,,5,,9,16,9,7
 UBCV,2015,W,CIVL,435,,201,Advanced Structural Analysis,Stevan Gavrilovic;Terje Haukaas,49,77.897959184,12.63633138,97.0,27.0,,,,,,8,5,6,10,5,11
 UBCV,2015,W,CIVL,435,,OVERALL,Advanced Structural Analysis,,49,77.897959184,12.63633138,97.0,27.0,,,,,,8,5,6,10,5,11
-UBCV,2015,W,CIVL,436,,101,Matrix Structural Analysis and Dynamics,Carlos Estuardo Ventura;Sepideh Ashtari;Yuxin Pan,42,87.64285714299999,7.739103837999999,100.0,69.0,,,,,,,,5,6,7,21
-UBCV,2015,W,CIVL,436,,OVERALL,Matrix Structural Analysis and Dynamics,,42,87.64285714299999,7.739103837999999,100.0,69.0,,,,,,,,5,6,7,21
-UBCV,2015,W,CIVL,437,,101,Introduction to Ship Structures,Abdolreza Joghataie;Kamyar Gordnian,16,83.75,9.19782583,97.0,66.0,,,,,,,,,,,5
-UBCV,2015,W,CIVL,437,,OVERALL,Introduction to Ship Structures,,16,83.75,9.19782583,97.0,66.0,,,,,,,,,,,5
-UBCV,2015,W,CIVL,439,,101,Design of Timber Structures,Md. Shahnewaz;Thomas Tannert;Xiaoyue Zhang,56,80.142857143,9.894771018,100.0,56.0,,,,,5,,7,5,12,9,12
-UBCV,2015,W,CIVL,439,,OVERALL,Design of Timber Structures,,56,80.142857143,9.894771018,100.0,56.0,,,,,5,,7,5,12,9,12
-UBCV,2015,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Mohamed Azab Hussein Hussein,31,90.258064516,3.5867138339999998,97.0,81.0,,,,,,,,,,12,18
-UBCV,2015,W,CIVL,440,,OVERALL,Transportation Engineering II,,31,90.258064516,3.5867138339999998,97.0,81.0,,,,,,,,,,12,18
-UBCV,2015,W,CIVL,441,,201,Transportation Planning and Analysis,Alexander York Bigazzi;Mohamed Essa,31,75.90322580600001,17.611274492,96.0,0.0,,,,,,,,5,6,,5
-UBCV,2015,W,CIVL,441,,OVERALL,Transportation Planning and Analysis,,31,75.90322580600001,17.611274492,96.0,0.0,,,,,,,,5,6,,5
-UBCV,2015,W,CIVL,445,,101,Engineering Design and Analysis I,Donald Mavinic;Hartaj Sanghara;Jessica Louise Lenoble;Loretta Li;Michael Bourne;Michael D Isaacson;Raghav Grover;Ruth Derksen;Susan Nesbit;Yahya Nazhat,124,85.59677419399999,6.428998525,95.0,70.0,,,,,,,9,11,27,32,43
-UBCV,2015,W,CIVL,445,,OVERALL,Engineering Design and Analysis I,,124,85.59677419399999,6.428998525,95.0,70.0,,,,,,,9,11,27,32,43
-UBCV,2015,W,CIVL,446,,201,Engineering Design and Analysis II,Hartaj Sanghara;Jessica Louise Lenoble;Kwang Victor Lo;Michael Bourne;Patricia Keen;Raghav Grover;Ruth Derksen;Yahya Nazhat,121,86.355371901,3.22454003,92.0,78.0,,,,,,,,,26,64,27
-UBCV,2015,W,CIVL,446,,OVERALL,Engineering Design and Analysis II,,121,86.355371901,3.22454003,92.0,78.0,,,,,,,,,26,64,27
-UBCV,2015,W,CIVL,478,,101,Building Science,Amy Stapleton;Azin Etesami;Gregory Johnson,64,81.734375,6.965315857999999,98.0,60.0,,,,,,,7,8,23,15,7
-UBCV,2015,W,CIVL,478,,OVERALL,Building Science,,64,81.734375,6.965315857999999,98.0,60.0,,,,,,,7,8,23,15,7
-UBCV,2015,W,CIVL,493,,201,Case Studies of Construction Methods,Amir Behzad Shoolestani;Amir Yashar Shoolestani;Dana Vanier,46,81.760869565,7.379204361,96.0,62.0,,,,,,,5,7,14,10,8
-UBCV,2015,W,CIVL,493,,OVERALL,Case Studies of Construction Methods,,46,81.760869565,7.379204361,96.0,62.0,,,,,,,5,7,14,10,8
-UBCV,2015,W,CIVL,498,A,101,Topics in Civil Engineering,Susan Nesbit,5,90.6,4.50555213,95.0,84.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,498,A,OVERALL,Topics in Civil Engineering,,5,90.6,4.50555213,95.0,84.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,504,,201,Seismicity and Seismic Design Parameters,Ilaria Capraro;William D Finn;William D L Finn;Yuxin Pan,25,82.2,8.460693431000001,96.0,65.0,,,,,,,5,6,,,6
-UBCV,2015,W,CIVL,504,,OVERALL,Seismicity and Seismic Design Parameters,,25,82.2,8.460693431000001,96.0,65.0,,,,,,,5,6,,,6
-UBCV,2015,W,CIVL,505,,201,Seismic Response of Structures,Carlos Estuardo Ventura;Yuxin Pan,32,90.875,4.956260297,99.0,75.0,,,,,,,,,,,25
-UBCV,2015,W,CIVL,505,,OVERALL,Seismic Response of Structures,,32,90.875,4.956260297,99.0,75.0,,,,,,,,,,,25
-UBCV,2015,W,CIVL,507,,101,Dynamics of Structures I,Carlos Estuardo Ventura;Ilaria Capraro,36,76.0,11.04794745,96.0,50.0,,,,6,,5,,,10,5,
-UBCV,2015,W,CIVL,507,,OVERALL,Dynamics of Structures I,,36,76.0,11.04794745,96.0,50.0,,,,6,,5,,,10,5,
-UBCV,2015,W,CIVL,508,,201,Dynamics of Structures II,Freddy Pina;Saeid Allahdadian,5,90.0,4.6368092480000005,96.0,84.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,508,,OVERALL,Dynamics of Structures II,,5,90.0,4.6368092480000005,96.0,84.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,509,,201,Nonlinear Structural Analysis,Armin Bebam Zadeh;Michael Fairhurst,12,89.75,3.816828765,97.0,86.0,,,,,,,,,,7,5
-UBCV,2015,W,CIVL,509,,OVERALL,Nonlinear Structural Analysis,,12,89.75,3.816828765,97.0,86.0,,,,,,,,,,7,5
-UBCV,2015,W,CIVL,511,,101,Advanced Topics in Steel Structures,Dorian Tung;Tsung-Yuan Yang,17,86.941176471,5.237730761,95.0,77.0,,,,,,,,,5,5,6
-UBCV,2015,W,CIVL,511,,OVERALL,Advanced Topics in Steel Structures,,17,86.941176471,5.237730761,95.0,77.0,,,,,,,,,5,5,6
-UBCV,2015,W,CIVL,513,,201,Concrete Structures,Jeffrey Yathon;Perry Erwin Adebar,22,77.772727273,12.019554774000001,90.0,30.0,,,,,,,,6,7,,
-UBCV,2015,W,CIVL,513,,OVERALL,Concrete Structures,,22,77.772727273,12.019554774000001,90.0,30.0,,,,,,,,6,7,,
-UBCV,2015,W,CIVL,516,,101,Behaviour of Timber Structures,Md. Shahnewaz;Thomas Tannert;Xiaoyue Zhang,12,83.166666667,6.027713772999999,92.0,72.0,,,,,,,,,,5,
-UBCV,2015,W,CIVL,516,,OVERALL,Behaviour of Timber Structures,,12,83.166666667,6.027713772999999,92.0,72.0,,,,,,,,,,5,
-UBCV,2015,W,CIVL,517,,201,Advanced Topics in Timber Structures,Eytan Fiszman;Thomas Tannert,19,87.736842105,2.535133248,92.0,83.0,,,,,,,,,,13,
-UBCV,2015,W,CIVL,517,,OVERALL,Advanced Topics in Timber Structures,,19,87.736842105,2.535133248,92.0,83.0,,,,,,,,,,13,
-UBCV,2015,W,CIVL,518,,101,Reliability and Structural Safety,Brigitte Goffin;Terje Haukaas,45,76.622222222,11.517356247999999,98.0,50.0,,,,,,,9,,9,9,6
-UBCV,2015,W,CIVL,518,,OVERALL,Reliability and Structural Safety,,45,76.622222222,11.517356247999999,98.0,50.0,,,,,,,9,,9,9,6
-UBCV,2015,W,CIVL,520,,101,Construction Planning and Control,Alan David Russell;Alan Russell;Raghav Grover,31,81.419354839,6.946338093,90.0,51.0,,,,,,,,6,12,9,
-UBCV,2015,W,CIVL,520,,OVERALL,Construction Planning and Control,,31,81.419354839,6.946338093,90.0,51.0,,,,,,,,6,12,9,
-UBCV,2015,W,CIVL,521,,201,Construction Methods and Performance,Amir Behzad Shoolestani;Amir Yashar Shoolestani;Dana Vanier,21,80.904761905,4.635782155,90.0,72.0,,,,,,,,,10,,
-UBCV,2015,W,CIVL,521,,OVERALL,Construction Methods and Performance,,21,80.904761905,4.635782155,90.0,72.0,,,,,,,,,10,,
-UBCV,2015,W,CIVL,522,,201,Project and Construction Economics,Alan David Russell;Alan Russell;Tricia Kathleen Curmi,26,88.73076923100001,3.105578108,94.0,83.0,,,,,,,,,,12,12
-UBCV,2015,W,CIVL,522,,OVERALL,Project and Construction Economics,,26,88.73076923100001,3.105578108,94.0,83.0,,,,,,,,,,12,12
-UBCV,2015,W,CIVL,523,,201,Project Management for Engineers,Amir Behzad Shoolestani;Cheryl Nelms;Raghav Grover,32,88.4375,5.830606121000001,96.0,69.0,,,,,,,,,,7,19
-UBCV,2015,W,CIVL,523,,OVERALL,Project Management for Engineers,,32,88.4375,5.830606121000001,96.0,69.0,,,,,,,,,,7,19
-UBCV,2015,W,CIVL,524,,101,Legal Aspects of Project and Construction Management,Brian Samuels;Rajesh Sachidanandan,31,83.870967742,7.320027028999999,96.0,68.0,,,,,,,,,10,6,9
-UBCV,2015,W,CIVL,524,,OVERALL,Legal Aspects of Project and Construction Management,,31,83.870967742,7.320027028999999,96.0,68.0,,,,,,,,,10,6,9
-UBCV,2015,W,CIVL,526,,201,Virtual Design and Construction,Sheryl Staub-French,20,85.35,3.422449108,90.0,78.0,,,,,,,,,5,13,
-UBCV,2015,W,CIVL,526,,OVERALL,Virtual Design and Construction,,20,85.35,3.422449108,90.0,78.0,,,,,,,,,5,13,
-UBCV,2015,W,CIVL,529,,101,Condition Assessment and Rehabilitation of Civil Infrastructure,Nemkumar Banthia,6,82.5,7.176350047000001,94.0,72.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,529,,OVERALL,Condition Assessment and Rehabilitation of Civil Infrastructure,,6,82.5,7.176350047000001,94.0,72.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,537,,101,Computational Mechanics I,Kamyar Gordnian;Reza Vaziri,29,82.275862069,12.314035405999999,100.0,52.0,,,,,,,,,5,6,10
-UBCV,2015,W,CIVL,537,,OVERALL,Computational Mechanics I,,29,82.275862069,12.314035405999999,100.0,52.0,,,,,,,,,5,6,10
-UBCV,2015,W,CIVL,538,,201,Computational Mechanics II,Reza Vaziri,11,90.363636364,6.667424199,100.0,80.0,,,,,,,,,,,6
-UBCV,2015,W,CIVL,538,,OVERALL,Computational Mechanics II,,11,90.363636364,6.667424199,100.0,80.0,,,,,,,,,,,6
-UBCV,2015,W,CIVL,540,,201,Advanced Coastal Engineering,Michael D Isaacson;Mina Shahbazi,10,90.0,4.898979486,98.0,80.0,,,,,,,,,,,7
-UBCV,2015,W,CIVL,540,,OVERALL,Advanced Coastal Engineering,,10,90.0,4.898979486,98.0,80.0,,,,,,,,,,,7
-UBCV,2015,W,CIVL,555,,201,Optimization and Heuristic Approaches for Civil Engineering Systems,Barbara Jean Lence,8,90.25,7.225945316000001,96.0,75.0,,,,,,,,,,,6
-UBCV,2015,W,CIVL,555,,OVERALL,Optimization and Heuristic Approaches for Civil Engineering Systems,,8,90.25,7.225945316000001,96.0,75.0,,,,,,,,,,,6
-UBCV,2015,W,CIVL,556,,101,Modeling and Optimization of Civil Engineering Systems,Ziad K Shawwash,11,83.090909091,3.0151134460000004,86.0,75.0,,,,,,,,,6,,
-UBCV,2015,W,CIVL,556,,OVERALL,Modeling and Optimization of Civil Engineering Systems,,11,83.090909091,3.0151134460000004,86.0,75.0,,,,,,,,,6,,
-UBCV,2015,W,CIVL,561,,201,"Investigation, Risk Assessment and Management of Chemicals in Geo-Environment",Loretta Li,13,79.692307692,5.406548736,88.0,68.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,561,,OVERALL,"Investigation, Risk Assessment and Management of Chemicals in Geo-Environment",,13,79.692307692,5.406548736,88.0,68.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,562,,201,Environmental Contaminant Analysis Laboratory,Eric Hall,7,79.714285714,5.154748158,85.0,71.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,562,,OVERALL,Environmental Contaminant Analysis Laboratory,,7,79.714285714,5.154748158,85.0,71.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,564,,101,Engineering Management of Solid Wastes,James Atwater,6,79.666666667,6.772493386,88.0,72.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,564,,OVERALL,Engineering Management of Solid Wastes,,6,79.666666667,6.772493386,88.0,72.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,566,,101,Transport and Mixing of Pollutants in Aquatic Systems,James Atwater,13,83.923076923,4.112208216,93.0,78.0,,,,,,,,,5,5,
-UBCV,2015,W,CIVL,566,,OVERALL,Transport and Mixing of Pollutants in Aquatic Systems,,13,83.923076923,4.112208216,93.0,78.0,,,,,,,,,5,5,
-UBCV,2015,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic,7,83.142857143,7.755182598999999,93.0,75.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,569,,OVERALL,Biological Wastewater Treatment,,7,83.142857143,7.755182598999999,93.0,75.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,570,,101,Advanced Soil Mechanics,Dharmapriya Wijewickreme;Gaziz Seidalinov;John Howie,16,77.6875,8.348403041000001,90.0,65.0,,,,,,5,,,,,
-UBCV,2015,W,CIVL,570,,OVERALL,Advanced Soil Mechanics,,16,77.6875,8.348403041000001,90.0,65.0,,,,,,5,,,,,
-UBCV,2015,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John Howie;Priyesh Verma,11,78.181818182,8.447700064,91.0,63.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,574,,OVERALL,Experimental Soil Mechanics,,11,78.181818182,8.447700064,91.0,63.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,581,,201,Soil Dynamics for Design Practice,Dharmapriya Wijewickreme;Vidanalage Nishan Soysa;Vidanalage Soysa,13,85.692307692,7.307354918,94.0,73.0,,,,,,,,,,,6
-UBCV,2015,W,CIVL,581,,OVERALL,Soil Dynamics for Design Practice,,13,85.692307692,7.307354918,94.0,73.0,,,,,,,,,,,6
-UBCV,2015,W,CIVL,582,,101,Transportation Engineering Impacts,Tarek Sayed,6,84.5,4.7644517,90.0,78.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,582,,OVERALL,Transportation Engineering Impacts,,6,84.5,4.7644517,90.0,78.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,583,,201,Urban Engineering Methods and Models,Alexander York Bigazzi,5,92.0,2.828427125,97.0,90.0,,,,,,,,,,,5
-UBCV,2015,W,CIVL,583,,OVERALL,Urban Engineering Methods and Models,,5,92.0,2.828427125,97.0,90.0,,,,,,,,,,,5
-UBCV,2015,W,CIVL,586,,101,Urban Transportation System Analysis,Alexander York Bigazzi,12,84.5,6.842381297,94.0,73.0,,,,,,,,,,5,
-UBCV,2015,W,CIVL,586,,OVERALL,Urban Transportation System Analysis,,12,84.5,6.842381297,94.0,73.0,,,,,,,,,,5,
-UBCV,2015,W,CIVL,592,D,001,Directed Studies in Civil Engineering,Gregory Lawrence;Noboru Yonemitsu,9,88.0,7.245688372999999,100.0,76.0,,,,,,,,,,,5
-UBCV,2015,W,CIVL,592,D,OVERALL,Directed Studies in Civil Engineering,,9,88.0,7.245688372999999,100.0,76.0,,,,,,,,,,,5
-UBCV,2015,W,CIVL,598,A,201,Topics in Civil Engineering,Yavuz Kaya,23,99.695652174,1.4596008980000001,100.0,93.0,,,,,,,,,,,23
-UBCV,2015,W,CIVL,598,A,OVERALL,Topics in Civil Engineering,,23,99.695652174,1.4596008980000001,100.0,93.0,,,,,,,,,,,23
-UBCV,2015,W,CIVL,598,C,001,Topics in Civil Engineering,Frank Lam;Murray Hodgson;Negar Roghanian,13,86.615384615,4.519189853,92.0,77.0,,,,,,,,,,5,
-UBCV,2015,W,CIVL,598,C,OVERALL,Topics in Civil Engineering,,13,86.615384615,4.519189853,92.0,77.0,,,,,,,,,,5,
-UBCV,2015,W,CIVL,598,E,101,Topics in Civil Engineering,David Carmichael,9,85.0,7.176350047000001,92.0,70.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,598,E,OVERALL,Topics in Civil Engineering,,9,85.0,7.176350047000001,92.0,70.0,,,,,,,,,,,
-UBCV,2015,W,CIVL,598,F,101,Topics in Civil Engineering,Thomas Froese;Thomas M Froese,20,88.1,7.545650542000001,97.0,74.0,,,,,,,,,5,,11
-UBCV,2015,W,CIVL,598,F,OVERALL,Topics in Civil Engineering,,20,88.1,7.545650542000001,97.0,74.0,,,,,,,,,5,,11
-UBCV,2015,W,CIVL,598,L,002,Topics in Civil Engineering,Gregory Lawrence,19,87.684210526,6.896477616,95.0,72.0,,,,,,,,,,,12
-UBCV,2015,W,CIVL,598,L,OVERALL,Topics in Civil Engineering,,19,87.684210526,6.896477616,95.0,72.0,,,,,,,,,,,12
-UBCV,2015,W,CIVL,599,C,003,M.A.Sc. Thesis,,12,86.666666667,4.886592666,95.0,80.0,,,,,,,,,,,5
-UBCV,2015,W,CIVL,599,C,103,M.A.Sc. Thesis,,6,86.833333333,6.882344562,96.0,78.0,,,,,,,,,,,2
-UBCV,2015,W,CIVL,599,C,OVERALL,M.A.Sc. Thesis,,18,86.72222222200001,5.421151989,96.0,78.0,,,,,,,,,5,5,7
+UBCV,2015,W,CIVL,436,,101,Matrix Structural Analysis and Dynamics,Carlos Estuardo Ventura;Sepideh Ashtari;Yuxin Pan,42,87.642857143,7.739103838,100.0,69.0,0,0,0,0,0,,,5,6,7,21
+UBCV,2015,W,CIVL,436,,OVERALL,Matrix Structural Analysis and Dynamics,,42,87.642857143,7.739103838,100.0,69.0,0,0,0,0,0,,,5,6,7,21
+UBCV,2015,W,CIVL,437,,101,Introduction to Ship Structures,Abdolreza Joghataie;Kamyar Gordnian,16,83.75,9.19782583,97.0,66.0,0,0,0,0,,,,,,,5
+UBCV,2015,W,CIVL,437,,OVERALL,Introduction to Ship Structures,,16,83.75,9.19782583,97.0,66.0,0,0,0,0,,,,,,,5
+UBCV,2015,W,CIVL,439,,101,Design of Timber Structures,Md. Shahnewaz;Thomas Tannert;Xiaoyue Zhang,56,80.142857143,9.894771018,100.0,56.0,0,0,,,5,,7,5,12,9,12
+UBCV,2015,W,CIVL,439,,OVERALL,Design of Timber Structures,,56,80.142857143,9.894771018,100.0,56.0,0,0,,,5,,7,5,12,9,12
+UBCV,2015,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Mohamed Azab Hussein Hussein,31,90.258064516,3.586713834,97.0,81.0,0,0,0,0,0,0,0,0,1.0,12,18
+UBCV,2015,W,CIVL,440,,OVERALL,Transportation Engineering II,,31,90.258064516,3.586713834,97.0,81.0,0,0,0,0,0,0,0,0,1.0,12,18
+UBCV,2015,W,CIVL,441,,201,Transportation Planning and Analysis,Alexander York Bigazzi;Mohamed Essa,31,75.903225806,17.611274492,96.0,0.0,,,,,,,,5,6,,5
+UBCV,2015,W,CIVL,441,,OVERALL,Transportation Planning and Analysis,,31,75.903225806,17.611274492,96.0,0.0,,,,,,,,5,6,,5
+UBCV,2015,W,CIVL,445,,101,Engineering Design and Analysis I,Donald Mavinic;Hartaj Sanghara;Jessica Louise Lenoble;Loretta Li;Michael Bourne;Michael D Isaacson;Raghav Grover;Ruth Derksen;Susan Nesbit;Yahya Nazhat,124,85.596774194,6.428998525,95.0,70.0,0,0,0,0,0,2.0,9,11,27,32,43
+UBCV,2015,W,CIVL,445,,OVERALL,Engineering Design and Analysis I,,124,85.596774194,6.428998525,95.0,70.0,0,0,0,0,0,2.0,9,11,27,32,43
+UBCV,2015,W,CIVL,446,,201,Engineering Design and Analysis II,Hartaj Sanghara;Jessica Louise Lenoble;Kwang Victor Lo;Michael Bourne;Patricia Keen;Raghav Grover;Ruth Derksen;Yahya Nazhat,121,86.355371901,3.22454003,92.0,78.0,0,0,0,0,0,0,0,4.0,26,64,27
+UBCV,2015,W,CIVL,446,,OVERALL,Engineering Design and Analysis II,,121,86.355371901,3.22454003,92.0,78.0,0,0,0,0,0,0,0,4.0,26,64,27
+UBCV,2015,W,CIVL,478,,101,Building Science,Amy Stapleton;Azin Etesami;Gregory Johnson,64,81.734375,6.965315858,98.0,60.0,0,0,0,,,,7,8,23,15,7
+UBCV,2015,W,CIVL,478,,OVERALL,Building Science,,64,81.734375,6.965315858,98.0,60.0,0,0,0,,,,7,8,23,15,7
+UBCV,2015,W,CIVL,493,,201,Case Studies of Construction Methods,Amir Behzad Shoolestani;Amir Yashar Shoolestani;Dana Vanier,46,81.760869565,7.379204361,96.0,62.0,0,0,0,,,,5,7,14,10,8
+UBCV,2015,W,CIVL,493,,OVERALL,Case Studies of Construction Methods,,46,81.760869565,7.379204361,96.0,62.0,0,0,0,,,,5,7,14,10,8
+UBCV,2015,W,CIVL,498,A,101,Topics in Civil Engineering,Susan Nesbit,5,90.6,4.50555213,95.0,84.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,CIVL,498,A,OVERALL,Topics in Civil Engineering,,5,90.6,4.50555213,95.0,84.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,CIVL,504,,201,Seismicity and Seismic Design Parameters,Ilaria Capraro;William D Finn;William D L Finn;Yuxin Pan,25,82.2,8.460693431,96.0,65.0,0,0,0,0,,,5,6,,,6
+UBCV,2015,W,CIVL,504,,OVERALL,Seismicity and Seismic Design Parameters,,25,82.2,8.460693431,96.0,65.0,0,0,0,0,,,5,6,,,6
+UBCV,2015,W,CIVL,505,,201,Seismic Response of Structures,Carlos Estuardo Ventura;Yuxin Pan,32,90.875,4.956260297,99.0,75.0,0,0,0,0,0,0,,,,,25
+UBCV,2015,W,CIVL,505,,OVERALL,Seismic Response of Structures,,32,90.875,4.956260297,99.0,75.0,0,0,0,0,0,0,,,,,25
+UBCV,2015,W,CIVL,507,,101,Dynamics of Structures I,Carlos Estuardo Ventura;Ilaria Capraro,36,76.0,11.04794745,96.0,50.0,0,,,6,,5,,,10,5,
+UBCV,2015,W,CIVL,507,,OVERALL,Dynamics of Structures I,,36,76.0,11.04794745,96.0,50.0,0,,,6,,5,,,10,5,
+UBCV,2015,W,CIVL,508,,201,Dynamics of Structures II,Freddy Pina;Saeid Allahdadian,5,90.0,4.636809248,96.0,84.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,CIVL,508,,OVERALL,Dynamics of Structures II,,5,90.0,4.636809248,96.0,84.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,CIVL,509,,201,Nonlinear Structural Analysis,Armin Bebam Zadeh;Michael Fairhurst,12,89.75,3.816828765,97.0,86.0,0,0,0,0,0,0,0,0,0,7,5
+UBCV,2015,W,CIVL,509,,OVERALL,Nonlinear Structural Analysis,,12,89.75,3.816828765,97.0,86.0,0,0,0,0,0,0,0,0,0,7,5
+UBCV,2015,W,CIVL,511,,101,Advanced Topics in Steel Structures,Dorian Tung;Tsung-Yuan Yang,17,86.941176471,5.237730761,95.0,77.0,0,0,0,0,0,0,0,1.0,5,5,6
+UBCV,2015,W,CIVL,511,,OVERALL,Advanced Topics in Steel Structures,,17,86.941176471,5.237730761,95.0,77.0,0,0,0,0,0,0,0,1.0,5,5,6
+UBCV,2015,W,CIVL,513,,201,Concrete Structures,Jeffrey Yathon;Perry Erwin Adebar,22,77.772727273,12.019554774,90.0,30.0,,,,,,,,6,7,,
+UBCV,2015,W,CIVL,513,,OVERALL,Concrete Structures,,22,77.772727273,12.019554774,90.0,30.0,,,,,,,,6,7,,
+UBCV,2015,W,CIVL,516,,101,Behaviour of Timber Structures,Md. Shahnewaz;Thomas Tannert;Xiaoyue Zhang,12,83.166666667,6.027713773,92.0,72.0,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,CIVL,516,,OVERALL,Behaviour of Timber Structures,,12,83.166666667,6.027713773,92.0,72.0,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,CIVL,517,,201,Advanced Topics in Timber Structures,Eytan Fiszman;Thomas Tannert,19,87.736842105,2.535133248,92.0,83.0,0,0,0,0,0,0,0,0,,13,
+UBCV,2015,W,CIVL,517,,OVERALL,Advanced Topics in Timber Structures,,19,87.736842105,2.535133248,92.0,83.0,0,0,0,0,0,0,0,0,,13,
+UBCV,2015,W,CIVL,518,,101,Reliability and Structural Safety,Brigitte Goffin;Terje Haukaas,45,76.622222222,11.517356248,98.0,50.0,0,,,,,,9,,9,9,6
+UBCV,2015,W,CIVL,518,,OVERALL,Reliability and Structural Safety,,45,76.622222222,11.517356248,98.0,50.0,0,,,,,,9,,9,9,6
+UBCV,2015,W,CIVL,520,,101,Construction Planning and Control,Alan David Russell;Alan Russell;Raghav Grover,31,81.419354839,6.946338093,90.0,51.0,0,,,,,,,6,12,9,
+UBCV,2015,W,CIVL,520,,OVERALL,Construction Planning and Control,,31,81.419354839,6.946338093,90.0,51.0,0,,,,,,,6,12,9,
+UBCV,2015,W,CIVL,521,,201,Construction Methods and Performance,Amir Behzad Shoolestani;Amir Yashar Shoolestani;Dana Vanier,21,80.904761905,4.635782155,90.0,72.0,0,0,0,0,0,0,,,10,,
+UBCV,2015,W,CIVL,521,,OVERALL,Construction Methods and Performance,,21,80.904761905,4.635782155,90.0,72.0,0,0,0,0,0,0,,,10,,
+UBCV,2015,W,CIVL,522,,201,Project and Construction Economics,Alan David Russell;Alan Russell;Tricia Kathleen Curmi,26,88.730769231,3.105578108,94.0,83.0,0,0,0,0,0,0,0,0,2.0,12,12
+UBCV,2015,W,CIVL,522,,OVERALL,Project and Construction Economics,,26,88.730769231,3.105578108,94.0,83.0,0,0,0,0,0,0,0,0,2.0,12,12
+UBCV,2015,W,CIVL,523,,201,Project Management for Engineers,Amir Behzad Shoolestani;Cheryl Nelms;Raghav Grover,32,88.4375,5.830606121,96.0,69.0,0,0,0,0,0,,,,,7,19
+UBCV,2015,W,CIVL,523,,OVERALL,Project Management for Engineers,,32,88.4375,5.830606121,96.0,69.0,0,0,0,0,0,,,,,7,19
+UBCV,2015,W,CIVL,524,,101,Legal Aspects of Project and Construction Management,Brian Samuels;Rajesh Sachidanandan,31,83.870967742,7.320027029,96.0,68.0,0,0,0,0,0,,,,10,6,9
+UBCV,2015,W,CIVL,524,,OVERALL,Legal Aspects of Project and Construction Management,,31,83.870967742,7.320027029,96.0,68.0,0,0,0,0,0,,,,10,6,9
+UBCV,2015,W,CIVL,526,,201,Virtual Design and Construction,Sheryl Staub-French,20,85.35,3.422449108,90.0,78.0,0,0,0,0,0,0,0,,5,13,
+UBCV,2015,W,CIVL,526,,OVERALL,Virtual Design and Construction,,20,85.35,3.422449108,90.0,78.0,0,0,0,0,0,0,0,,5,13,
+UBCV,2015,W,CIVL,529,,101,Condition Assessment and Rehabilitation of Civil Infrastructure,Nemkumar Banthia,6,82.5,7.176350047,94.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,CIVL,529,,OVERALL,Condition Assessment and Rehabilitation of Civil Infrastructure,,6,82.5,7.176350047,94.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,CIVL,537,,101,Computational Mechanics I,Kamyar Gordnian;Reza Vaziri,29,82.275862069,12.314035406,100.0,52.0,0,,,,,,,,5,6,10
+UBCV,2015,W,CIVL,537,,OVERALL,Computational Mechanics I,,29,82.275862069,12.314035406,100.0,52.0,0,,,,,,,,5,6,10
+UBCV,2015,W,CIVL,538,,201,Computational Mechanics II,Reza Vaziri,11,90.363636364,6.667424199,100.0,80.0,0,0,0,0,0,0,0,0,,,6
+UBCV,2015,W,CIVL,538,,OVERALL,Computational Mechanics II,,11,90.363636364,6.667424199,100.0,80.0,0,0,0,0,0,0,0,0,,,6
+UBCV,2015,W,CIVL,540,,201,Advanced Coastal Engineering,Michael D Isaacson;Mina Shahbazi,10,90.0,4.898979486,98.0,80.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2015,W,CIVL,540,,OVERALL,Advanced Coastal Engineering,,10,90.0,4.898979486,98.0,80.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2015,W,CIVL,555,,201,Optimization and Heuristic Approaches for Civil Engineering Systems,Barbara Jean Lence,8,90.25,7.225945316,96.0,75.0,0,0,0,0,0,0,,,,,6
+UBCV,2015,W,CIVL,555,,OVERALL,Optimization and Heuristic Approaches for Civil Engineering Systems,,8,90.25,7.225945316,96.0,75.0,0,0,0,0,0,0,,,,,6
+UBCV,2015,W,CIVL,556,,101,Modeling and Optimization of Civil Engineering Systems,Ziad K Shawwash,11,83.090909091,3.015113446,86.0,75.0,0,0,0,0,0,0,,,6,,0
+UBCV,2015,W,CIVL,556,,OVERALL,Modeling and Optimization of Civil Engineering Systems,,11,83.090909091,3.015113446,86.0,75.0,0,0,0,0,0,0,,,6,,0
+UBCV,2015,W,CIVL,561,,201,"Investigation, Risk Assessment and Management of Chemicals in Geo-Environment",Loretta Li,13,79.692307692,5.406548736,88.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2015,W,CIVL,561,,OVERALL,"Investigation, Risk Assessment and Management of Chemicals in Geo-Environment",,13,79.692307692,5.406548736,88.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2015,W,CIVL,562,,201,Environmental Contaminant Analysis Laboratory,Eric Hall,7,79.714285714,5.154748158,85.0,71.0,0,0,0,0,0,,,,,,0
+UBCV,2015,W,CIVL,562,,OVERALL,Environmental Contaminant Analysis Laboratory,,7,79.714285714,5.154748158,85.0,71.0,0,0,0,0,0,,,,,,0
+UBCV,2015,W,CIVL,564,,101,Engineering Management of Solid Wastes,James Atwater,6,79.666666667,6.772493386,88.0,72.0,0,0,0,0,0,0,,,,,0
+UBCV,2015,W,CIVL,564,,OVERALL,Engineering Management of Solid Wastes,,6,79.666666667,6.772493386,88.0,72.0,0,0,0,0,0,0,,,,,0
+UBCV,2015,W,CIVL,566,,101,Transport and Mixing of Pollutants in Aquatic Systems,James Atwater,13,83.923076923,4.112208216,93.0,78.0,0,0,0,0,0,0,0,,5,5,
+UBCV,2015,W,CIVL,566,,OVERALL,Transport and Mixing of Pollutants in Aquatic Systems,,13,83.923076923,4.112208216,93.0,78.0,0,0,0,0,0,0,0,,5,5,
+UBCV,2015,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic,7,83.142857143,7.755182599,93.0,75.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,CIVL,569,,OVERALL,Biological Wastewater Treatment,,7,83.142857143,7.755182599,93.0,75.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,CIVL,570,,101,Advanced Soil Mechanics,Dharmapriya Wijewickreme;Gaziz Seidalinov;John Howie,16,77.6875,8.348403041,90.0,65.0,0,0,0,0,,5,,,,,
+UBCV,2015,W,CIVL,570,,OVERALL,Advanced Soil Mechanics,,16,77.6875,8.348403041,90.0,65.0,0,0,0,0,,5,,,,,
+UBCV,2015,W,CIVL,574,,201,Experimental Soil Mechanics,Dharmapriya Wijewickreme;John Howie;Priyesh Verma,11,78.181818182,8.447700064,91.0,63.0,0,0,0,,,,,,,,
+UBCV,2015,W,CIVL,574,,OVERALL,Experimental Soil Mechanics,,11,78.181818182,8.447700064,91.0,63.0,0,0,0,,,,,,,,
+UBCV,2015,W,CIVL,581,,201,Soil Dynamics for Design Practice,Dharmapriya Wijewickreme;Vidanalage Nishan Soysa;Vidanalage Soysa,13,85.692307692,7.307354918,94.0,73.0,0,0,0,0,0,0,,,,,6
+UBCV,2015,W,CIVL,581,,OVERALL,Soil Dynamics for Design Practice,,13,85.692307692,7.307354918,94.0,73.0,0,0,0,0,0,0,,,,,6
+UBCV,2015,W,CIVL,582,,101,Transportation Engineering Impacts,Tarek Sayed,6,84.5,4.7644517,90.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,CIVL,582,,OVERALL,Transportation Engineering Impacts,,6,84.5,4.7644517,90.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,CIVL,583,,201,Urban Engineering Methods and Models,Alexander York Bigazzi,5,92.0,2.828427125,97.0,90.0,0,0,0,0,0,0,0,0,0,0,5
+UBCV,2015,W,CIVL,583,,OVERALL,Urban Engineering Methods and Models,,5,92.0,2.828427125,97.0,90.0,0,0,0,0,0,0,0,0,0,0,5
+UBCV,2015,W,CIVL,586,,101,Urban Transportation System Analysis,Alexander York Bigazzi,12,84.5,6.842381297,94.0,73.0,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,CIVL,586,,OVERALL,Urban Transportation System Analysis,,12,84.5,6.842381297,94.0,73.0,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,CIVL,592,D,001,Directed Studies in Civil Engineering,Gregory Lawrence;Noboru Yonemitsu,9,88.0,7.245688373,100.0,76.0,0,0,0,0,0,0,0,,,,5
+UBCV,2015,W,CIVL,592,D,OVERALL,Directed Studies in Civil Engineering,,9,88.0,7.245688373,100.0,76.0,0,0,0,0,0,0,0,,,,5
+UBCV,2015,W,CIVL,598,A,201,Topics in Civil Engineering,Yavuz Kaya,23,99.695652174,1.459600898,100.0,93.0,0,0,0,0,0,0,0,0,0,0,23
+UBCV,2015,W,CIVL,598,A,OVERALL,Topics in Civil Engineering,,23,99.695652174,1.459600898,100.0,93.0,0,0,0,0,0,0,0,0,0,0,23
+UBCV,2015,W,CIVL,598,C,001,Topics in Civil Engineering,Frank Lam;Murray Hodgson;Negar Roghanian,13,86.615384615,4.519189853,92.0,77.0,0,0,0,0,0,0,0,,,5,
+UBCV,2015,W,CIVL,598,C,OVERALL,Topics in Civil Engineering,,13,86.615384615,4.519189853,92.0,77.0,0,0,0,0,0,0,0,,,5,
+UBCV,2015,W,CIVL,598,E,101,Topics in Civil Engineering,David Carmichael,9,85.0,7.176350047,92.0,70.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,CIVL,598,E,OVERALL,Topics in Civil Engineering,,9,85.0,7.176350047,92.0,70.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,CIVL,598,F,101,Topics in Civil Engineering,Thomas Froese;Thomas M Froese,20,88.1,7.545650542,97.0,74.0,0,0,0,0,0,0,,,5,,11
+UBCV,2015,W,CIVL,598,F,OVERALL,Topics in Civil Engineering,,20,88.1,7.545650542,97.0,74.0,0,0,0,0,0,0,,,5,,11
+UBCV,2015,W,CIVL,598,L,002,Topics in Civil Engineering,Gregory Lawrence,19,87.684210526,6.896477616,95.0,72.0,0,0,0,0,0,0,,,,,12
+UBCV,2015,W,CIVL,598,L,OVERALL,Topics in Civil Engineering,,19,87.684210526,6.896477616,95.0,72.0,0,0,0,0,0,0,,,,,12
+UBCV,2015,W,CIVL,599,C,003,M.A.Sc. Thesis,,12,86.666666667,4.886592666,95.0,80.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,CIVL,599,C,103,M.A.Sc. Thesis,,6,86.833333333,6.882344562,96.0,78.0,0,0,0,0,0,0,0,1.0,,,2
+UBCV,2015,W,CIVL,599,C,OVERALL,M.A.Sc. Thesis,,18,86.722222222,5.421151989,96.0,78.0,0,0,0,0,0,0,0,1.0,5,5,7

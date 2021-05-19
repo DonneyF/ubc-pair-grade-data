@@ -1,189 +1,186 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,CIVL,201,,101,Introduction to Civil Engineering,Chulu Liang;Hartaj Sanghara;Michael D Isaacson;Natasha Karine Nicole Matte;Natasha Matte;Sarah Holbrook Ries;Sarah Ries,131,88.41984732799999,4.339362233,100.0,76.0,,,,,,,,,22,53,54
-UBCV,2019,W,CIVL,201,,OVERALL,Introduction to Civil Engineering,,131,88.41984732799999,4.339362233,100.0,76.0,,,,,,,,,22,53,54
-UBCV,2019,W,CIVL,203,,101,Technical Communication in Civil Engineering,Behzad Zakani;Pamela Rogalski;Robert Gregory Shilton;Robert Shilton,29,80.034482759,6.832081667000001,89.0,58.0,,,,,,,,5,15,5,
-UBCV,2019,W,CIVL,203,,102,Technical Communication in Civil Engineering,Hartaj Sanghara;Pamela Rogalski,33,80.696969697,3.892981252,87.0,71.0,,,,,,,,6,19,5,
-UBCV,2019,W,CIVL,203,,103,Technical Communication in Civil Engineering,Hartaj Sanghara;Pamela Rogalski,32,81.5,3.636730187,89.0,74.0,,,,,,,,8,15,7,
-UBCV,2019,W,CIVL,203,,104,Technical Communication in Civil Engineering,Pamela Rogalski,32,82.125,3.0664679689999996,90.0,78.0,,,,,,,,8,17,6,
-UBCV,2019,W,CIVL,203,,OVERALL,Technical Communication in Civil Engineering,,126,81.111111111,4.534705675,90.0,58.0,,,,,,,6,27,66,23,
-UBCV,2019,W,CIVL,204,,201,Fundamentals of Environmental Engineering,Abhishek Dutta;Christopher Caufield;Eric Hall;Jaime Cathcart;Patricia Keen;Pranav Sai Shankar Sampara;Ryan Ziels,144,80.652777778,9.096467803,98.0,57.0,,,,,9,11,18,19,24,32,26
-UBCV,2019,W,CIVL,204,,OVERALL,Fundamentals of Environmental Engineering,,144,80.652777778,9.096467803,98.0,57.0,,,,,9,11,18,19,24,32,26
-UBCV,2019,W,CIVL,210,,201,Soil Mechanics I,Mahdi Taiebat;R Jonathan Fannin;Sara Ataii;Sounik Banerjee;Vinoth Ganapathiraman,119,76.428571429,11.760729993,99.0,35.0,,,7,4,7,16,12,20,14,18,18
-UBCV,2019,W,CIVL,210,,202,Soil Mechanics I,Mahdi Taiebat;R Jonathan Fannin,102,73.362745098,10.074759379,94.0,50.0,,,7,7,6,19,10,15,21,9,5
-UBCV,2019,W,CIVL,210,,OVERALL,Soil Mechanics I,,221,75.013574661,11.096469397,99.0,35.0,1.0,5,14,11,13,35,22,35,35,27,23
-UBCV,2019,W,CIVL,215,,101,Fluid Mechanics I,Chulu Liang;Daniel Murray Robb;Gregory Lawrence;Jiankang Yang;Kai Zhao;Kelsey Everard;Richard Cunningham,161,75.62732919300001,13.840980762000001,100.0,0.0,4.0,8,6,10,9,20,14,13,33,19,25
-UBCV,2019,W,CIVL,215,,201,Fluid Mechanics I,Abhishek Dutta;Hiroki Fukuda;Jongho Lee;Noboru Yonemitsu;Sophia Eugeni,85,88.517647059,12.119063853,100.0,50.0,0.0,2,3,2,0,2,1,6,7,7,55
-UBCV,2019,W,CIVL,215,,OVERALL,Fluid Mechanics I,,246,80.081300813,14.601142530999999,100.0,0.0,4.0,10,9,12,9,22,15,19,40,26,80
-UBCV,2019,W,CIVL,230,,101,Solid Mechanics,Abdolreza Joghataie;Nima Bakhshi;Sahar Abouali;Taikhum Vahanvaty;Xu Xie,163,77.871165644,11.541737057999999,100.0,23.0,,,,8,11,15,29,22,20,18,34
-UBCV,2019,W,CIVL,230,,OVERALL,Solid Mechanics,,163,77.871165644,11.541737057999999,100.0,23.0,,,,8,11,15,29,22,20,18,34
-UBCV,2019,W,CIVL,231,,201,Structural Mechanics,Parsa Taghvaei;Sahar Abouali;Soham Vaze;Tsung-Yuan Yang;Xiao Pan,124,84.69354838699999,10.154239308,100.0,46.0,,,,,,5,8,11,16,27,49
-UBCV,2019,W,CIVL,231,,OVERALL,Structural Mechanics,,124,84.69354838699999,10.154239308,100.0,46.0,,,,,,5,8,11,16,27,49
-UBCV,2019,W,CIVL,250,,99A,Engineering and Sustainable Development,Arash Nikzad;Mohamed Kamel;Negar Roghanian;Parsa Taghvaei;Pranav Sai Shankar Sampara;Preetish Kakoty;Susan Nesbit;Xiao Pan,194,82.23711340199999,9.624314196,95.0,25.0,,,,,,6,15,23,44,64,32
-UBCV,2019,W,CIVL,250,,OVERALL,Engineering and Sustainable Development,,194,82.23711340199999,9.624314196,95.0,25.0,,,,,,6,15,23,44,64,32
-UBCV,2019,W,CIVL,300,,201,Construction Engineering and Management,Anuarbek Onayev;Omar Swei;Sheryl Staub-French,140,82.178571429,9.227163416,98.0,55.0,,,,,,7,13,17,22,38,32
-UBCV,2019,W,CIVL,300,,OVERALL,Construction Engineering and Management,,140,82.178571429,9.227163416,98.0,55.0,,,,,,7,13,17,22,38,32
-UBCV,2019,W,CIVL,301,,101,Modelling and Decision-Making in Civil Engineering,Barbara Jean Lence;Camilo Sebastian Granda Valencia;Hanieh Daliri;Jordan Priest,147,78.0,13.619084112000001,100.0,46.0,4.0,5,7,8,9,13,21,8,14,16,42
-UBCV,2019,W,CIVL,301,,OVERALL,Modelling and Decision-Making in Civil Engineering,,147,78.0,13.619084112000001,100.0,46.0,4.0,5,7,8,9,13,21,8,14,16,42
-UBCV,2019,W,CIVL,302,,201,Civil Engineering Impacts,Imranul Laskar;Isaac Jonas;James Craxton;Parsa Shani;Parsa Taghvaei;Rivkah Gardner-Frolick;Susan Nesbit,105,82.533333333,7.476973198,94.0,46.0,,,,,,,8,8,31,38,13
-UBCV,2019,W,CIVL,302,,OVERALL,Civil Engineering Impacts,,105,82.533333333,7.476973198,94.0,46.0,,,,,,,8,8,31,38,13
-UBCV,2019,W,CIVL,303,,101,Computational Tools in Civil Engineering,Abhinav Arora;Dana Vanier;Farah Rawas;Jason Olsthoorn;Michael D Isaacson;Mohamed Kamel;Noboru Yonemitsu;Yahya Nazhat,107,87.785046729,7.489650768,100.0,68.0,,,,,,,5,,22,23,50
-UBCV,2019,W,CIVL,303,,OVERALL,Computational Tools in Civil Engineering,,107,87.785046729,7.489650768,100.0,68.0,,,,,,,5,,22,23,50
-UBCV,2019,W,CIVL,305,,201,Introduction to Environmental Engineering,Archita Borah;Baohui Jia;Katherine Waring;Pierre Berube;Rahul Dutta;Varshini Baskar,166,79.891566265,8.367342068,96.0,50.0,,,,,6,14,17,31,42,27,23
-UBCV,2019,W,CIVL,305,,OVERALL,Introduction to Environmental Engineering,,166,79.891566265,8.367342068,96.0,50.0,,,,,6,14,17,31,42,27,23
-UBCV,2019,W,CIVL,311,,101,Soil Mechanics II,Ali Akbar Mohammed Aziz;Ana Maria Valverde Sancho;Anays Mertz Antunes;Dharmapriya Wijewickreme;Fabian Arquin Bolanos;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John Howie;Michelle Wesolowski;Vinoth Ganapathiraman,206,69.189320388,11.741445564000001,92.0,3.0,10,,17,18,26,32,38,28,25,7,
-UBCV,2019,W,CIVL,311,,OVERALL,Soil Mechanics II,,206,69.189320388,11.741445564000001,92.0,3.0,10,,17,18,26,32,38,28,25,7,
-UBCV,2019,W,CIVL,315,,101,Fluid Mechanics II,Aigul Kassimova;Bernard Laval;Jeremie Bonneau;Kassimova Aigul;Lydia Smith;Mohamed Essa;Noboru Yonemitsu;Sophia Eugeni,174,76.149425287,6.138156481,92.0,51.0,,,,,9,23,41,44,40,11,
-UBCV,2019,W,CIVL,315,,OVERALL,Fluid Mechanics II,,174,76.149425287,6.138156481,92.0,51.0,,,,,9,23,41,44,40,11,
-UBCV,2019,W,CIVL,316,,201,Hydrology and Open Channel Flow,Aigul Kassimova;Alireza Habibzadeh Gharehbaba;Bardia Kabiri Far;Bernard Laval;Camilo Sebastian Granda Valencia;Hossein Foroozand;Jeremie Bonneau;Noboru Yonemitsu;Peter Epp;Utkarsh Sharma,194,82.530927835,7.471643955,97.0,62.0,,,,,7,10,17,22,48,50,38
-UBCV,2019,W,CIVL,316,,OVERALL,Hydrology and Open Channel Flow,,194,82.530927835,7.471643955,97.0,62.0,,,,,7,10,17,22,48,50,38
-UBCV,2019,W,CIVL,320,,101,Civil Engineering Materials,Aamer Bhutta;Bardia Kabiri Far;Cristina Zanotti;Farhad Pargar;Giulia Natalini,141,67.83687943300001,11.049643894,91.0,0.0,,13,10,14,25,18,23,15,17,,
-UBCV,2019,W,CIVL,320,,OVERALL,Civil Engineering Materials,,141,67.83687943300001,11.049643894,91.0,0.0,,13,10,14,25,18,23,15,17,,
-UBCV,2019,W,CIVL,331,,201,Steel and Timber Design,Camilo Sebastian Granda Valencia;Carlos Molina Hutt;Deborah Altow;Jennifer Si;Pouria Kourehpaz;Preetish Kakoty;Seyed Alireza Eksir Monfared;Thomas Tannert;Yashar Khalighi,134,71.21641791,10.64418507,95.0,50.0,,8,15,14,15,7,23,21,20,,7
-UBCV,2019,W,CIVL,331,,OVERALL,Steel and Timber Design,,134,71.21641791,10.64418507,95.0,50.0,,8,15,14,15,7,23,21,20,,7
-UBCV,2019,W,CIVL,332,,101,Structural Analysis,Christian Slotboom;Swanand Patil;Swanand Rajendra Patil;Terje Haukaas,157,72.337579618,16.300681966,99.0,10.0,10,2.0,9,7,10,23,19,19,19,25,14
-UBCV,2019,W,CIVL,332,,OVERALL,Structural Analysis,,157,72.337579618,16.300681966,99.0,10.0,10,2.0,9,7,10,23,19,19,19,25,14
-UBCV,2019,W,CIVL,340,,201,Transportation Engineering I,Alexander York Bigazzi;Hossameldin Ibrahim Said Mohammed;Mohamed Essa;Rushdi Mah'D Alsaleh;Tarek Sayed,138,75.152173913,10.491499635,100.0,42.0,,,,10,12,23,14,21,22,18,10
-UBCV,2019,W,CIVL,340,,OVERALL,Transportation Engineering I,,138,75.152173913,10.491499635,100.0,42.0,,,,10,12,23,14,21,22,18,10
-UBCV,2019,W,CIVL,402,,101,Professionalism and Law in Civil Engineering,Craig Wallace;Joanna Suchta;Michael D Isaacson,220,78.531818182,9.53694505,97.0,18.0,,,,6,7,24,24,31,66,38,18
-UBCV,2019,W,CIVL,402,,OVERALL,Professionalism and Law in Civil Engineering,,220,78.531818182,9.53694505,97.0,18.0,,,,6,7,24,24,31,66,38,18
-UBCV,2019,W,CIVL,403,,201,Engineering Economic Analysis,Chulu Liang;Michael D Isaacson,161,79.043478261,11.845541264000001,100.0,33.0,,,7,15,,9,17,17,34,25,31
-UBCV,2019,W,CIVL,403,,OVERALL,Engineering Economic Analysis,,161,79.043478261,11.845541264000001,100.0,33.0,,,7,15,,9,17,17,34,25,31
-UBCV,2019,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee;Negar Roghanian;Yehan Chen,40,77.25,10.250078174,94.0,50.0,,,,,,,5,5,9,9,
-UBCV,2019,W,CIVL,406,,OVERALL,Water Treatment and Waste Management,,40,77.25,10.250078174,94.0,50.0,,,,,,,5,5,9,9,
-UBCV,2019,W,CIVL,408,,201,Geo-Environmental Engineering,Donald Mavinic;Loretta Li;Mohsen Saeedi,41,75.43902439,6.205033362000001,89.0,58.0,,,,,,8,13,7,7,,
-UBCV,2019,W,CIVL,408,,OVERALL,Geo-Environmental Engineering,,41,75.43902439,6.205033362000001,89.0,58.0,,,,,,8,13,7,7,,
-UBCV,2019,W,CIVL,409,,201,Municipal Engineering,Abdullah Hassan;Amirhossein Parizi;Anurag Krishna;Archita Borah;Chris Johnston;Varshini Baskar,166,82.879518072,8.346870349,92.0,0.0,,,,,,,7,21,55,61,16
-UBCV,2019,W,CIVL,409,,OVERALL,Municipal Engineering,,166,82.879518072,8.346870349,92.0,0.0,,,,,,,7,21,55,61,16
-UBCV,2019,W,CIVL,410,,101,Foundation Engineering I,Fabricio Bagatini Cachuco;Francesca Palmieri;Yahya Nazhat,85,78.01176470600001,7.806429154,90.0,55.0,,,,,,8,11,12,29,12,5
-UBCV,2019,W,CIVL,410,,OVERALL,Foundation Engineering I,,85,78.01176470600001,7.806429154,90.0,55.0,,,,,,8,11,12,29,12,5
-UBCV,2019,W,CIVL,411,,201,Foundation Engineering II,Yahya Nazhat,66,84.075757576,12.051569455,95.0,0.0,,,,,,,,,18,30,12
-UBCV,2019,W,CIVL,411,,OVERALL,Foundation Engineering II,,66,84.075757576,12.051569455,95.0,0.0,,,,,,,,,18,30,12
-UBCV,2019,W,CIVL,413,,201,Design of Earth Dams and Containment Structures,Amy Swerid;Kwang Victor Lo;R Jonathan Fannin,22,74.454545455,8.494969227,90.0,58.0,,,,,,,,7,,,
-UBCV,2019,W,CIVL,413,,OVERALL,Design of Earth Dams and Containment Structures,,22,74.454545455,8.494969227,90.0,58.0,,,,,,,,7,,,
-UBCV,2019,W,CIVL,415,,201,Water Resource Engineering,Farah Rawas;Yashar Khalighi;Ziad K Shawwash,48,78.354166667,8.689660237,93.0,54.0,,,,,,,9,8,9,11,
-UBCV,2019,W,CIVL,415,,OVERALL,Water Resource Engineering,,48,78.354166667,8.689660237,93.0,54.0,,,,,,,9,8,9,11,
-UBCV,2019,W,CIVL,416,,101,Environmental Hydraulics,Kamal Sharma;Noboru Yonemitsu,61,76.409836066,9.640845484,92.0,41.0,,,,,5,10,8,10,13,7,5
-UBCV,2019,W,CIVL,416,,OVERALL,Environmental Hydraulics,,61,76.409836066,9.640845484,92.0,41.0,,,,,5,10,8,10,13,7,5
-UBCV,2019,W,CIVL,417,,201,Coastal Engineering,Chulu Liang;Michael D Isaacson,67,77.492537313,11.371646205,100.0,55.0,,,5,5,5,7,,10,10,10,11
-UBCV,2019,W,CIVL,417,,OVERALL,Coastal Engineering,,67,77.492537313,11.371646205,100.0,55.0,,,5,5,5,7,,10,10,10,11
-UBCV,2019,W,CIVL,418,,101,Engineering Hydrology,Aina Crozier;Hossein Foroozand;Steven Weijs,69,76.188405797,11.870967255999998,97.0,50.0,,,5,,5,9,5,9,11,10,9
-UBCV,2019,W,CIVL,418,,OVERALL,Engineering Hydrology,,69,76.188405797,11.870967255999998,97.0,50.0,,,5,,5,9,5,9,11,10,9
-UBCV,2019,W,CIVL,420,,101,Concrete Technology,Alexander Lebaron Forrest;Cristina Zanotti;Robert Gregory Shilton;Robert Shilton,18,76.388888889,9.537165005,90.0,46.0,,,,,,,,7,6,,
-UBCV,2019,W,CIVL,420,,OVERALL,Concrete Technology,,18,76.388888889,9.537165005,90.0,46.0,,,,,,,,7,6,,
-UBCV,2019,W,CIVL,422,,201,Project Based Learning in Civil Engineering Materials,Cristina Zanotti;Dana Vanier;Debadri Som,6,85.166666667,5.980523946,91.0,75.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,422,,OVERALL,Project Based Learning in Civil Engineering Materials,,6,85.166666667,5.980523946,91.0,75.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,425,,201,Case Studies of Construction Methods,Alexander Lebaron Forrest;Dana Vanier;Donald Mavinic;Mohsen Azimi,40,83.4,5.295377762,90.0,65.0,,,,,,,,,9,23,
-UBCV,2019,W,CIVL,425,,OVERALL,Case Studies of Construction Methods,,40,83.4,5.295377762,90.0,65.0,,,,,,,,,9,23,
-UBCV,2019,W,CIVL,426,,201,Virtual Design and Construction,Puyan Zadeh;Seungho Han,23,91.347826087,4.60837869,98.0,83.0,,,,,,,,,,7,15
-UBCV,2019,W,CIVL,426,,OVERALL,Virtual Design and Construction,,23,91.347826087,4.60837869,98.0,83.0,,,,,,,,,,7,15
-UBCV,2019,W,CIVL,430,,101,Design of Concrete Structures,Abdolreza Joghataie;Armin Bebam Zadeh;Sara Hui Man Zhang;Seyed Alireza Eksir Monfared;Soham Vaze;Yueran Fang,147,80.897959184,10.430943622000001,100.0,43.0,,,,,5,8,15,13,30,34,33
-UBCV,2019,W,CIVL,430,,OVERALL,Design of Concrete Structures,,147,80.897959184,10.430943622000001,100.0,43.0,,,,,5,8,15,13,30,34,33
-UBCV,2019,W,CIVL,432,,101,Advanced Structural Steel Design,Armin Bebam Zadeh;Carlos Molina Hutt;Dana Vanier;Deborah Altow;Negar Roghanian;Pouria Kourehpaz;Preetish Kakoty;Robert Driver;Seyed Alireza Eksir Monfared;Shervin Zahedimazandarani,48,74.541666667,14.300659609,97.0,30.0,,,,,,5,,,13,6,5
-UBCV,2019,W,CIVL,432,,OVERALL,Advanced Structural Steel Design,,48,74.541666667,14.300659609,97.0,30.0,,,,,,5,,,13,6,5
-UBCV,2019,W,CIVL,433,,201,Advanced Concrete Design,Abdolreza Joghataie;Sara Hui Man Zhang;Seyed Alireza Eksir Monfared;Yahya Nazhat;Yashar Khalighi;Yueran Fang,49,84.775510204,9.49400097,98.0,60.0,,,,,,,,,11,8,20
-UBCV,2019,W,CIVL,433,,OVERALL,Advanced Concrete Design,,49,84.775510204,9.49400097,98.0,60.0,,,,,,,,,11,8,20
-UBCV,2019,W,CIVL,435,,201,Advanced Structural Analysis,Steven Weijs;Swanand Patil;Swanand Rajendra Patil;Terje Haukaas,32,77.1875,14.911432072,99.0,50.0,,5,,,,,,,8,5,7
-UBCV,2019,W,CIVL,435,,OVERALL,Advanced Structural Analysis,,32,77.1875,14.911432072,99.0,50.0,,5,,,,,,,8,5,7
-UBCV,2019,W,CIVL,436,,101,Matrix Structural Analysis and Dynamics,Carlos Estuardo Ventura;Leila Katebi;Mehrtash Motamedi,19,93.10526315799999,5.455830081,100.0,83.0,,,,,,,,,,,14
-UBCV,2019,W,CIVL,436,,OVERALL,Matrix Structural Analysis and Dynamics,,19,93.10526315799999,5.455830081,100.0,83.0,,,,,,,,,,,14
-UBCV,2019,W,CIVL,437,,101,Introduction to Ship Structures,Jaime Cathcart;Jasmin Jelovica;Mohammad Mohammadzadeh Keleshteri;Sean Irvine,29,86.275862069,7.024937985,99.0,70.0,,,,,,,,,6,11,8
-UBCV,2019,W,CIVL,437,,OVERALL,Introduction to Ship Structures,,29,86.275862069,7.024937985,99.0,70.0,,,,,,,,,6,11,8
-UBCV,2019,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss;Thomas Tannert,29,79.068965517,13.147327360999999,93.0,28.0,,,,,,,,6,7,7,
-UBCV,2019,W,CIVL,439,,OVERALL,Design of Timber Structures,,29,79.068965517,13.147327360999999,93.0,28.0,,,,,,,,6,7,7,
-UBCV,2019,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Dana Vanier;Hossameldin Ibrahim Said Mohammed;Tarek Sayed,42,91.833333333,4.149150173,98.0,82.0,,,,,,,,,,5,33
-UBCV,2019,W,CIVL,440,,OVERALL,Transportation Engineering II,,42,91.833333333,4.149150173,98.0,82.0,,,,,,,,,,5,33
-UBCV,2019,W,CIVL,441,,201,Transportation Planning and Analysis,Alexander York Bigazzi;Negar Roghanian,39,82.307692308,7.291501348,93.0,64.0,,,,,,,,5,10,9,8
-UBCV,2019,W,CIVL,441,,OVERALL,Transportation Planning and Analysis,,39,82.307692308,7.291501348,93.0,64.0,,,,,,,,5,10,9,8
-UBCV,2019,W,CIVL,445,,101,Civil Engineering Design Project I.,Abdolreza Joghataie;Abhinav Arora;Christopher Caufield;Hartaj Sanghara;John Howie;Michael D Isaacson;Mohammadamin Sadeghi;Noboru Yonemitsu;Pamela Rogalski;Yahya Nazhat,140,90.09285714299999,3.304447469,100.0,84.0,,,,,,,,,,63,74
-UBCV,2019,W,CIVL,445,,OVERALL,Civil Engineering Design Project I.,,140,90.09285714299999,3.304447469,100.0,84.0,,,,,,,,,,63,74
-UBCV,2019,W,CIVL,446,,201,Civil Engineering Design Project II.,Abdolreza Joghataie;John Howie;Michael D Isaacson;Pamela Rogalski;Rashim Garg;Yahya Nazhat,140,90.978571429,6.390717027999999,100.0,68.0,,,,,,,,9,5,20,102
-UBCV,2019,W,CIVL,446,,OVERALL,Civil Engineering Design Project II.,,140,90.978571429,6.390717027999999,100.0,68.0,,,,,,,,9,5,20,102
-UBCV,2019,W,CIVL,475,,101,Environmental Stewardship in Civil Engineering,Susan Nesbit,18,84.611111111,10.181522415,97.0,54.0,,,,,,,,,,,7
-UBCV,2019,W,CIVL,475,,OVERALL,Environmental Stewardship in Civil Engineering,,18,84.611111111,10.181522415,97.0,54.0,,,,,,,,,,,7
-UBCV,2019,W,CIVL,478,,101,Building Science,Abdullah Hassan;Bardia Kabiri Far;Kwang Victor Lo;Lorne Ricketts,59,80.288135593,8.475219146,90.0,40.0,,,,,,,7,6,20,17,
-UBCV,2019,W,CIVL,478,,OVERALL,Building Science,,59,80.288135593,8.475219146,90.0,40.0,,,,,,,7,6,20,17,
-UBCV,2019,W,CIVL,498,J,002,Topics in Civil Engineering,Abdolreza Joghataie;Clark Lim;Negar Roghanian;Rashim Garg,10,82.3,10.893933072000001,98.0,60.0,,,,,,,,,,5,
-UBCV,2019,W,CIVL,498,J,OVERALL,Topics in Civil Engineering,,10,82.3,10.893933072000001,98.0,60.0,,,,,,,,,,5,
-UBCV,2019,W,CIVL,504,,201,Seismicity and Seismic Design Parameters,Alexander Lebaron Forrest;William D Finn;William D L Finn;Yuxin Pan,43,87.860465116,3.949571377,97.0,82.0,,,,,,,,,11,17,15
-UBCV,2019,W,CIVL,504,,OVERALL,Seismicity and Seismic Design Parameters,,43,87.860465116,3.949571377,97.0,82.0,,,,,,,,,11,17,15
-UBCV,2019,W,CIVL,505,,201,Seismic Response of Structures,Negar Roghanian;Soham Vaze;Tsung-Yuan Yang;Xiao Pan,27,84.851851852,11.305899426,93.0,34.0,,,,,,,,,5,6,13
-UBCV,2019,W,CIVL,505,,OVERALL,Seismic Response of Structures,,27,84.851851852,11.305899426,93.0,34.0,,,,,,,,,5,6,13
-UBCV,2019,W,CIVL,507,,101,Dynamics of Structures I,Carlos Estuardo Ventura;Freddy Pina;Mahsa Hosseini,54,92.64814814799999,5.6740302389999995,100.0,78.0,,,,,,,,,6,6,41
-UBCV,2019,W,CIVL,507,,OVERALL,Dynamics of Structures I,,54,92.64814814799999,5.6740302389999995,100.0,78.0,,,,,,,,,6,6,41
-UBCV,2019,W,CIVL,508,,201,Dynamics of Structures II,Carlos Estuardo Ventura;Dana Vanier;Deborah Altow;Freddy Pina;Leila Katebi,34,87.147058824,23.67984996,98.0,2.0,,,,,,,,,,,27
-UBCV,2019,W,CIVL,508,,OVERALL,Dynamics of Structures II,,34,87.147058824,23.67984996,98.0,2.0,,,,,,,,,,,27
-UBCV,2019,W,CIVL,509,,201,Nonlinear Structural Analysis,Armin Bebam Zadeh;Christian Slotboom;Jaime Cathcart,32,83.6875,6.784410498,100.0,71.0,,,,,,,,,11,9,6
-UBCV,2019,W,CIVL,509,,OVERALL,Nonlinear Structural Analysis,,32,83.6875,6.784410498,100.0,71.0,,,,,,,,,11,9,6
-UBCV,2019,W,CIVL,511,,101,Advanced Topics in Steel Structures,Tsung-Yuan Yang;Xu Xie,11,86.545454545,8.430464237999999,95.0,68.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,511,,OVERALL,Advanced Topics in Steel Structures,,11,86.545454545,8.430464237999999,95.0,68.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,513,,201,Concrete Structures,Abdolreza Joghataie;Perry Erwin Adebar;Seyed Alireza Eksir Monfared,57,86.28070175399999,6.6862181970000005,100.0,68.0,,,,,,,,7,12,14,22
-UBCV,2019,W,CIVL,513,,OVERALL,Concrete Structures,,57,86.28070175399999,6.6862181970000005,100.0,68.0,,,,,,,,7,12,14,22
-UBCV,2019,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss;Ryan Ziels;Thomas Tannert;Yashar Khalighi,24,80.25,7.913939271,91.0,61.0,,,,,,,,5,7,,
-UBCV,2019,W,CIVL,516,,OVERALL,Behaviour of Timber Structures,,24,80.25,7.913939271,91.0,61.0,,,,,,,,5,7,,
-UBCV,2019,W,CIVL,518,,101,Reliability and Structural Safety,Rodrigo Carneiro Da Costa;Sheryl Staub-French;Terje Haukaas,49,83.081632653,9.871754181,100.0,46.0,,,,,,,,7,10,11,15
-UBCV,2019,W,CIVL,518,,OVERALL,Reliability and Structural Safety,,49,83.081632653,9.871754181,100.0,46.0,,,,,,,,7,10,11,15
-UBCV,2019,W,CIVL,520,,101,Construction Planning and Control,Alan David Russell;Alan Russell;Melissa Yong,21,81.238095238,5.448896787000001,89.0,69.0,,,,,,,,,8,6,
-UBCV,2019,W,CIVL,520,,OVERALL,Construction Planning and Control,,21,81.238095238,5.448896787000001,89.0,69.0,,,,,,,,,8,6,
-UBCV,2019,W,CIVL,521,,201,Construction Methods and Performance,Alan Russell;Dana Vanier;Donald Mavinic,12,85.666666667,4.438126823,92.0,78.0,,,,,,,,,,5,
-UBCV,2019,W,CIVL,521,,OVERALL,Construction Methods and Performance,,12,85.666666667,4.438126823,92.0,78.0,,,,,,,,,,5,
-UBCV,2019,W,CIVL,522,,201,Project and Construction Economics,Alan David Russell;Alan Russell;Melissa Yong,14,82.0,4.91465626,87.0,71.0,,,,,,,,,8,,
-UBCV,2019,W,CIVL,522,,OVERALL,Project and Construction Economics,,14,82.0,4.91465626,87.0,71.0,,,,,,,,,8,,
-UBCV,2019,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms;Karanpreet Matharu,31,84.870967742,3.913582634,92.0,77.0,,,,,,,,,9,16,
-UBCV,2019,W,CIVL,523,,OVERALL,Project Management for Engineers,,31,84.870967742,3.913582634,92.0,77.0,,,,,,,,,9,16,
-UBCV,2019,W,CIVL,524,,101,Legal Aspects of Project and Construction Management,Brian Samuels;Hanieh Daliri,33,83.060606061,7.631920605,99.0,60.0,,,,,,,,,16,6,6
-UBCV,2019,W,CIVL,524,,OVERALL,Legal Aspects of Project and Construction Management,,33,83.060606061,7.631920605,99.0,60.0,,,,,,,,,16,6,6
-UBCV,2019,W,CIVL,526,,201,Virtual Design and Construction,Puyan Zadeh,15,89.0,5.264435935,96.0,72.0,,,,,,,,,,,11
-UBCV,2019,W,CIVL,526,,OVERALL,Virtual Design and Construction,,15,89.0,5.264435935,96.0,72.0,,,,,,,,,,,11
-UBCV,2019,W,CIVL,529,,101,Condition Assessment and Rehabilitation of Civil Infrastructure,Anupam Choudhary;Nemkumar Banthia,17,83.764705882,4.465554442,92.0,75.0,,,,,,,,,,9,
-UBCV,2019,W,CIVL,529,,OVERALL,Condition Assessment and Rehabilitation of Civil Infrastructure,,17,83.764705882,4.465554442,92.0,75.0,,,,,,,,,,9,
-UBCV,2019,W,CIVL,537,,101,Computational Mechanics I,Deborah Altow;Eric Hall;Hubert Courteau-Godmaire;Nemkumar Banthia;Reza Vaziri,58,81.948275862,13.499086927,99.0,30.0,,,,,,,,5,10,11,19
-UBCV,2019,W,CIVL,537,,OVERALL,Computational Mechanics I,,58,81.948275862,13.499086927,99.0,30.0,,,,,,,,5,10,11,19
-UBCV,2019,W,CIVL,540,,201,Advanced Coastal Engineering,Michael D Isaacson,11,87.636363636,6.888725967,100.0,76.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,540,,OVERALL,Advanced Coastal Engineering,,11,87.636363636,6.888725967,100.0,76.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,555,,201,Optimization and Heuristic Approaches for Civil Engineering Systems,Barbara Jean Lence,7,95.714285714,4.855041562,100.0,88.0,,,,,,,,,,,6
-UBCV,2019,W,CIVL,555,,OVERALL,Optimization and Heuristic Approaches for Civil Engineering Systems,,7,95.714285714,4.855041562,100.0,88.0,,,,,,,,,,,6
-UBCV,2019,W,CIVL,556,,101,Modelling and Optimization of Civil Engineering Systems,Farah Rawas;Ziad K Shawwash,10,84.4,4.880801391,92.0,79.0,,,,,,,,,5,,
-UBCV,2019,W,CIVL,556,,OVERALL,Modelling and Optimization of Civil Engineering Systems,,10,84.4,4.880801391,92.0,79.0,,,,,,,,,5,,
-UBCV,2019,W,CIVL,562,,201,Environmental Data Collection and Analysis,Fuhar Dixit;Pierre Berube,13,91.46153846200001,2.665063621,95.0,85.0,,,,,,,,,,,11
-UBCV,2019,W,CIVL,562,,OVERALL,Environmental Data Collection and Analysis,,13,91.46153846200001,2.665063621,95.0,85.0,,,,,,,,,,,11
-UBCV,2019,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Amirhossein Parizi;Dana Vanier;Jongho Lee,14,82.285714286,7.839040085,93.0,67.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,565,,OVERALL,Physical-Chemical Treatment Processes,,14,82.285714286,7.839040085,93.0,67.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic;Ryan Ziels,11,80.363636364,14.080289253,94.0,48.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,569,,OVERALL,Biological Wastewater Treatment,,11,80.363636364,14.080289253,94.0,48.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,570,,101,Advanced Soil Mechanics,Dharmapriya Wijewickreme,16,80.6875,10.793323554,96.0,61.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,570,,OVERALL,Advanced Soil Mechanics,,16,80.6875,10.793323554,96.0,61.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,574,,201,Experimental Soil Mechanics,Ana Maria Valverde Sancho;Dharmapriya Wijewickreme;John Howie,9,73.888888889,9.184830489,90.0,60.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,574,,OVERALL,Experimental Soil Mechanics,,9,73.888888889,9.184830489,90.0,60.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,579,,101,Geosynthetics,R Jonathan Fannin,10,89.0,8.393118875,97.0,77.0,,,,,,,,,,,6
-UBCV,2019,W,CIVL,579,,OVERALL,Geosynthetics,,10,89.0,8.393118875,97.0,77.0,,,,,,,,,,,6
-UBCV,2019,W,CIVL,581,,201,Soil Dynamics for Design Practice,Dharmapriya Wijewickreme;Thushara Jayasinghe Mudiyanselage,9,78.666666667,8.276472679,97.0,70.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,581,,OVERALL,Soil Dynamics for Design Practice,,9,78.666666667,8.276472679,97.0,70.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,582,,101,Transportation Engineering Impacts,Jaime Cathcart;Mohamed Essa;Tarek Sayed,11,83.818181818,7.180782434,93.0,73.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,582,,OVERALL,Transportation Engineering Impacts,,11,83.818181818,7.180782434,93.0,73.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,583,,201,Urban Engineering Methods and Models,Alexander York Bigazzi;Negar Roghanian,10,84.1,7.430417962999999,94.0,72.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,583,,OVERALL,Urban Engineering Methods and Models,,10,84.1,7.430417962999999,94.0,72.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,586,,101,Urban Transportation System Analysis,Alexander York Bigazzi,13,81.307692308,7.215545895,94.0,71.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,586,,OVERALL,Urban Transportation System Analysis,,13,81.307692308,7.215545895,94.0,71.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,592,K,002,Directed Studies in Civil Engineering,R Jonathan Fannin,7,85.142857143,4.63424109,92.0,78.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,592,K,OVERALL,Directed Studies in Civil Engineering,,7,85.142857143,4.63424109,92.0,78.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,598,B,001,Topics in Civil Engineering,Carlos Molina Hutt;Christian Slotboom;Preetish Kakoty;Robert Sianchuk;Sean Irvine,27,83.074074074,9.156443406000001,95.0,60.0,,,,,,,,5,,7,7
-UBCV,2019,W,CIVL,598,B,OVERALL,Topics in Civil Engineering,,27,83.074074074,9.156443406000001,95.0,60.0,,,,,,,,5,,7,7
-UBCV,2019,W,CIVL,598,E,101,Topics in Civil Engineering,Clark Lim;Omar Swei,18,83.833333333,6.2237684820000005,92.0,72.0,,,,,,,,,,7,
-UBCV,2019,W,CIVL,598,E,OVERALL,Topics in Civil Engineering,,18,83.833333333,6.2237684820000005,92.0,72.0,,,,,,,,,,7,
-UBCV,2019,W,CIVL,598,F,101,Topics in Civil Engineering,Johannes Reiner;Omar Swei;Puyan Zadeh,5,80.6,9.126883367000001,92.0,73.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,598,F,OVERALL,Topics in Civil Engineering,,5,80.6,9.126883367000001,92.0,73.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,598,J,002,Topics in Civil Engineering,Abdolreza Joghataie;Clark Lim;Negar Roghanian,30,84.233333333,7.564359869,95.0,68.0,,,,,,,,,8,5,10
-UBCV,2019,W,CIVL,598,J,OVERALL,Topics in Civil Engineering,,30,84.233333333,7.564359869,95.0,68.0,,,,,,,,,8,5,10
-UBCV,2019,W,CIVL,598,K,001,Topics in Civil Engineering,Susan Nesbit;W Scott Dunbar,13,84.923076923,9.050428521,96.0,60.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,598,K,OVERALL,Topics in Civil Engineering,,13,84.923076923,9.050428521,96.0,60.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,598,M,001,Topics in Civil Engineering,Parsa Taghvaei;Svetlana Nikolic-Brzev,8,80.5,11.64964745,94.0,60.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,598,M,OVERALL,Topics in Civil Engineering,,8,80.5,11.64964745,94.0,60.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,598,P,001,Topics in Civil Engineering,Alexander York Bigazzi,18,85.277777778,8.92982811,100.0,65.0,,,,,,,,5,,,6
-UBCV,2019,W,CIVL,598,P,OVERALL,Topics in Civil Engineering,,18,85.277777778,8.92982811,100.0,65.0,,,,,,,,5,,,6
-UBCV,2019,W,CIVL,598,S,002,Topics in Civil Engineering,Kenneth Christison;Kenneth J A Christison;Noboru Yonemitsu,7,92.14285714299999,6.7188434379999995,98.0,78.0,,,,,,,,,,,6
-UBCV,2019,W,CIVL,598,S,OVERALL,Topics in Civil Engineering,,7,92.14285714299999,6.7188434379999995,98.0,78.0,,,,,,,,,,,6
-UBCV,2019,W,CIVL,598,X,001,Topics in Civil Engineering,Pierre Berube,6,87.333333333,3.386246693,91.0,82.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,598,X,OVERALL,Topics in Civil Engineering,,6,87.333333333,3.386246693,91.0,82.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,599,,003,M.A.Sc. Thesis,,6,87.5,4.806245936,90.0,78.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,599,,103,M.A.Sc. Thesis,,5,90.8,4.266145802,95.0,85.0,,,,,,,,,,,
-UBCV,2019,W,CIVL,599,,OVERALL,M.A.Sc. Thesis,,11,89.0,4.669047012,95.0,78.0,,,,,,,,,,,7
+UBCV,2019,W,CIVL,201,,101,Introduction to Civil Engineering,Chulu Liang;Hartaj Sanghara;Michael D Isaacson;Natasha Karine Nicole Matte;Natasha Matte;Sarah Holbrook Ries;Sarah Ries,131,88.41984733,4.339362233,100.0,76.0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,22.0,53.0,54
+UBCV,2019,W,CIVL,201,,OVERALL,Introduction to Civil Engineering,,131,88.41984733,4.339362233,100.0,76.0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,22.0,53.0,54
+UBCV,2019,W,CIVL,203,,101,Technical Communication in Civil Engineering,Behzad Zakani;Pamela Rogalski;Pamela Wolf;Robert Gregory Shilton;Robert Shilton,29,80.03448276,6.832081667,89.0,58.0,0,0,1.0,1.0,0.0,0.0,2.0,5.0,15.0,5.0,0
+UBCV,2019,W,CIVL,203,,102,Technical Communication in Civil Engineering,Hartaj Sanghara;Pamela Rogalski;Pamela Wolf,33,80.6969697,3.892981252,87.0,71.0,0,0,0.0,0.0,0.0,1.0,2.0,6.0,19.0,5.0,0
+UBCV,2019,W,CIVL,203,,103,Technical Communication in Civil Engineering,Hartaj Sanghara;Pamela Rogalski;Pamela Wolf,32,81.5,3.636730187,89.0,74.0,0,0,0.0,0.0,0.0,0.0,2.0,8.0,15.0,7.0,0
+UBCV,2019,W,CIVL,203,,104,Technical Communication in Civil Engineering,Pamela Rogalski;Pamela Wolf,32,82.125,3.066467969,90.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,8.0,17.0,6.0,1
+UBCV,2019,W,CIVL,203,,OVERALL,Technical Communication in Civil Engineering,,126,81.11111111,4.534705675,90.0,58.0,0,0,1.0,1.0,0.0,1.0,6.0,27.0,66.0,23.0,1
+UBCV,2019,W,CIVL,204,,201,Fundamentals of Environmental Engineering,Abhishek Dutta;Christopher Caufield;Eric Hall;Jaime Cathcart;Patricia Keen;Pranav Sai Shankar Sampara;Ryan Ziels,144,80.65277778,9.096467803,98.0,57.0,0,0,1.0,4.0,9.0,11.0,18.0,19.0,24.0,32.0,26
+UBCV,2019,W,CIVL,204,,OVERALL,Fundamentals of Environmental Engineering,,144,80.65277778,9.096467803,98.0,57.0,0,0,1.0,4.0,9.0,11.0,18.0,19.0,24.0,32.0,26
+UBCV,2019,W,CIVL,210,,201,Soil Mechanics I,Mahdi Taiebat;R Jonathan Fannin;Sara Ataii;Sounik Banerjee;Vinoth Ganapathiraman,119,76.42857143,11.76072999,99.0,35.0,1,2,7.0,4.0,7.0,16.0,12.0,20.0,14.0,18.0,18
+UBCV,2019,W,CIVL,210,,202,Soil Mechanics I,Mahdi Taiebat;R Jonathan Fannin,102,73.3627451,10.07475938,94.0,50.0,0,3,7.0,7.0,6.0,19.0,10.0,15.0,21.0,9.0,5
+UBCV,2019,W,CIVL,210,,OVERALL,Soil Mechanics I,,221,75.01357466,11.0964694,99.0,35.0,1,5,14.0,11.0,13.0,35.0,22.0,35.0,35.0,27.0,23
+UBCV,2019,W,CIVL,215,,101,Fluid Mechanics I,Chulu Liang;Daniel Murray Robb;Gregory Lawrence;Jiankang Yang;Kai Zhao;Kelsey Everard;Richard Cunningham,161,76.08074534,12.47646542,100.0,33.0,3,8,6.0,10.0,9.0,20.0,15.0,13.0,33.0,19.0,25
+UBCV,2019,W,CIVL,215,,201,Fluid Mechanics I,Abhishek Dutta;Hiroki Fukuda;Jongho Lee;Noboru Yonemitsu;Sophia Eugeni,85,88.51764706,12.11906385,100.0,50.0,0,2,3.0,2.0,0.0,2.0,1.0,6.0,7.0,7.0,55
+UBCV,2019,W,CIVL,215,,OVERALL,Fluid Mechanics I,,246,80.37804878,13.67969469,100.0,33.0,3,10,9.0,12.0,9.0,22.0,16.0,19.0,40.0,26.0,80
+UBCV,2019,W,CIVL,230,,101,Solid Mechanics,Abdolreza Joghataie;Nima Bakhshi;Sahar Abouali;Taikhum Vahanvaty;Xu Xie,163,77.87116564,11.54173706,100.0,23.0,2,2,2.0,8.0,11.0,15.0,29.0,22.0,20.0,18.0,34
+UBCV,2019,W,CIVL,230,,OVERALL,Solid Mechanics,,163,77.87116564,11.54173706,100.0,23.0,2,2,2.0,8.0,11.0,15.0,29.0,22.0,20.0,18.0,34
+UBCV,2019,W,CIVL,231,,201,Structural Mechanics,Parsa Taghvaei;Sahar Abouali;Soham Vaze;Tsung-Yuan Yang;Xiao Pan,124,84.69354839,10.15423931,100.0,46.0,1,2,1.0,0.0,4.0,5.0,8.0,11.0,16.0,27.0,49
+UBCV,2019,W,CIVL,231,,OVERALL,Structural Mechanics,,124,84.69354839,10.15423931,100.0,46.0,1,2,1.0,0.0,4.0,5.0,8.0,11.0,16.0,27.0,49
+UBCV,2019,W,CIVL,250,,99A,Engineering and Sustainable Development,Arash Nikzad;Mohamed Kamel;Mohamed M Kamel;Negar Roghanian;Parsa Taghvaei;Pranav Sai Shankar Sampara;Preetish Kakoty;Susan Nesbit;Xiao Pan,194,82.2371134,9.624314196,95.0,25.0,4,1,1.0,1.0,3.0,6.0,15.0,23.0,44.0,64.0,32
+UBCV,2019,W,CIVL,250,,OVERALL,Engineering and Sustainable Development,,194,82.2371134,9.624314196,95.0,25.0,4,1,1.0,1.0,3.0,6.0,15.0,23.0,44.0,64.0,32
+UBCV,2019,W,CIVL,300,,201,Construction Engineering and Management,Anuarbek Onayev;Omar Swei;Sheryl Staub-French,140,82.17857143,9.227163416,98.0,55.0,0,0,4.0,3.0,4.0,7.0,13.0,17.0,22.0,38.0,32
+UBCV,2019,W,CIVL,300,,OVERALL,Construction Engineering and Management,,140,82.17857143,9.227163416,98.0,55.0,0,0,4.0,3.0,4.0,7.0,13.0,17.0,22.0,38.0,32
+UBCV,2019,W,CIVL,301,,101,Modelling and Decision-Making in Civil Engineering,Barbara Jean Lence;Camilo Sebastian Granda Valencia;Hanieh Daliri;Jordan Priest,147,78.0,13.61908411,100.0,46.0,4,5,7.0,8.0,9.0,13.0,21.0,8.0,14.0,16.0,42
+UBCV,2019,W,CIVL,301,,OVERALL,Modelling and Decision-Making in Civil Engineering,,147,78.0,13.61908411,100.0,46.0,4,5,7.0,8.0,9.0,13.0,21.0,8.0,14.0,16.0,42
+UBCV,2019,W,CIVL,302,,201,Civil Engineering Impacts,Imranul Laskar;Isaac Jonas;James Craxton;Parsa Shani;Parsa Taghvaei;Rivkah Gardner-Frolick;Rivkah Pauline Gardner-Frolick;Susan Nesbit,105,82.53333333,7.476973198,94.0,46.0,1,0,0.0,0.0,4.0,2.0,8.0,8.0,31.0,38.0,13
+UBCV,2019,W,CIVL,302,,OVERALL,Civil Engineering Impacts,,105,82.53333333,7.476973198,94.0,46.0,1,0,0.0,0.0,4.0,2.0,8.0,8.0,31.0,38.0,13
+UBCV,2019,W,CIVL,303,,101,Computational Tools in Civil Engineering,Abhinav Arora;Dana Vanier;Farah Rawas;Jason Olsthoorn;Michael D Isaacson;Mohamed Kamel;Mohamed M Kamel;Noboru Yonemitsu;Yahya Nazhat,107,87.78504673,7.489650768,100.0,68.0,0,0,0.0,0.0,0.0,3.0,5.0,4.0,22.0,23.0,50
+UBCV,2019,W,CIVL,303,,OVERALL,Computational Tools in Civil Engineering,,107,87.78504673,7.489650768,100.0,68.0,0,0,0.0,0.0,0.0,3.0,5.0,4.0,22.0,23.0,50
+UBCV,2019,W,CIVL,305,,201,Introduction to Environmental Engineering,Archita Borah;Baohui Jia;Katherine Waring;Pierre Berube;Rahul Dutta;Varshini Baskar,166,79.89156627,8.367342068,96.0,50.0,0,1,2.0,3.0,6.0,14.0,17.0,31.0,42.0,27.0,23
+UBCV,2019,W,CIVL,305,,OVERALL,Introduction to Environmental Engineering,,166,79.89156627,8.367342068,96.0,50.0,0,1,2.0,3.0,6.0,14.0,17.0,31.0,42.0,27.0,23
+UBCV,2019,W,CIVL,311,,101,Soil Mechanics II,Ali Akbar Mohammed Aziz;Ana Maria Valverde Sancho;Anays Mertz Antunes;Dharmapriya Wijewickreme;Fabian Arquin Bolanos;Ilaibibakam Omunguye;Ilaibibakam Wabiye Omunguye;John A. Howie;John Howie;Michelle Wesolowski;Vinoth Ganapathiraman,206,69.18932039,11.74144556,92.0,3.0,10,4,17.0,18.0,26.0,32.0,38.0,28.0,25.0,7.0,1
+UBCV,2019,W,CIVL,311,,OVERALL,Soil Mechanics II,,206,69.18932039,11.74144556,92.0,3.0,10,4,17.0,18.0,26.0,32.0,38.0,28.0,25.0,7.0,1
+UBCV,2019,W,CIVL,315,,101,Fluid Mechanics II,Aigul Kassimova;Bernard Laval;Jeremie Bonneau;Kassimova Aigul;Lydia Smith;Mohamed Essa;Noboru Yonemitsu;Sophia Eugeni,174,76.14942529,6.138156481,92.0,51.0,0,1,1.0,2.0,9.0,23.0,41.0,44.0,40.0,11.0,2
+UBCV,2019,W,CIVL,315,,OVERALL,Fluid Mechanics II,,174,76.14942529,6.138156481,92.0,51.0,0,1,1.0,2.0,9.0,23.0,41.0,44.0,40.0,11.0,2
+UBCV,2019,W,CIVL,316,,201,Hydrology and Open Channel Flow,Aigul Kassimova;Alireza Habibzadeh Gharehbaba;Bardia Kabiri Far;Bernard Laval;Camilo Sebastian Granda Valencia;Hossein Foroozand;Jeremie Bonneau;Noboru Yonemitsu;Peter Epp;Utkarsh Sharma,194,82.53092784,7.471643955,97.0,62.0,0,0,0.0,2.0,7.0,10.0,17.0,22.0,48.0,50.0,38
+UBCV,2019,W,CIVL,316,,OVERALL,Hydrology and Open Channel Flow,,194,82.53092784,7.471643955,97.0,62.0,0,0,0.0,2.0,7.0,10.0,17.0,22.0,48.0,50.0,38
+UBCV,2019,W,CIVL,320,,101,Civil Engineering Materials,Aamer Bhutta;Bardia Kabiri Far;Cristina Zanotti;Farhad Pargar;Giulia Natalini,141,67.83687943,11.04964389,91.0,0.0,3,13,10.0,14.0,25.0,18.0,23.0,15.0,17.0,2.0,1
+UBCV,2019,W,CIVL,320,,OVERALL,Civil Engineering Materials,,141,67.83687943,11.04964389,91.0,0.0,3,13,10.0,14.0,25.0,18.0,23.0,15.0,17.0,2.0,1
+UBCV,2019,W,CIVL,331,,201,Steel and Timber Design,Camilo Sebastian Granda Valencia;Carlos Molina Hutt;Deborah Altow;Jennifer Si;Pouria Kourehpaz;Preetish Kakoty;Seyed Alireza Eksir Monfared;Thomas Tannert;Yashar Khalighi,134,71.21641791,10.64418507,95.0,50.0,0,8,15.0,14.0,15.0,7.0,23.0,21.0,20.0,4.0,7
+UBCV,2019,W,CIVL,331,,OVERALL,Steel and Timber Design,,134,71.21641791,10.64418507,95.0,50.0,0,8,15.0,14.0,15.0,7.0,23.0,21.0,20.0,4.0,7
+UBCV,2019,W,CIVL,332,,101,Structural Analysis,Christian Slotboom;Swanand Patil;Swanand Rajendra Patil;Terje Haukaas,157,72.33757962,16.30068197,99.0,10.0,10,2,9.0,7.0,10.0,23.0,19.0,19.0,19.0,25.0,14
+UBCV,2019,W,CIVL,332,,OVERALL,Structural Analysis,,157,72.33757962,16.30068197,99.0,10.0,10,2,9.0,7.0,10.0,23.0,19.0,19.0,19.0,25.0,14
+UBCV,2019,W,CIVL,340,,201,Transportation Engineering I,Alexander York Bigazzi;Hossameldin Ibrahim Said Mohammed;Mohamed Essa;Rushdi Mah'D Alsaleh;Tarek Sayed,138,75.15217391,10.49149964,100.0,42.0,2,2,4.0,10.0,12.0,23.0,14.0,21.0,22.0,18.0,10
+UBCV,2019,W,CIVL,340,,OVERALL,Transportation Engineering I,,138,75.15217391,10.49149964,100.0,42.0,2,2,4.0,10.0,12.0,23.0,14.0,21.0,22.0,18.0,10
+UBCV,2019,W,CIVL,402,,101,Professionalism and Law in Civil Engineering,Craig Wallace;Joanna Suchta;Michael D Isaacson,220,78.53181818,9.53694505,97.0,18.0,2,2,2.0,6.0,7.0,24.0,24.0,31.0,66.0,38.0,18
+UBCV,2019,W,CIVL,402,,OVERALL,Professionalism and Law in Civil Engineering,,220,78.53181818,9.53694505,97.0,18.0,2,2,2.0,6.0,7.0,24.0,24.0,31.0,66.0,38.0,18
+UBCV,2019,W,CIVL,403,,201,Engineering Economic Analysis,Chulu Liang;Michael D Isaacson,161,79.04347826,11.84554126,100.0,33.0,1,1,7.0,15.0,4.0,9.0,17.0,17.0,34.0,25.0,31
+UBCV,2019,W,CIVL,403,,OVERALL,Engineering Economic Analysis,,161,79.04347826,11.84554126,100.0,33.0,1,1,7.0,15.0,4.0,9.0,17.0,17.0,34.0,25.0,31
+UBCV,2019,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee;Negar Roghanian;Yehan Chen,40,77.25,10.25007817,94.0,50.0,0,2,0.0,2.0,3.0,3.0,5.0,5.0,9.0,9.0,2
+UBCV,2019,W,CIVL,406,,OVERALL,Water Treatment and Waste Management,,40,77.25,10.25007817,94.0,50.0,0,2,0.0,2.0,3.0,3.0,5.0,5.0,9.0,9.0,2
+UBCV,2019,W,CIVL,408,,201,Geo-Environmental Engineering,Donald Mavinic;Loretta Li;Mohsen Saeedi,41,75.43902439,6.205033362,89.0,58.0,0,0,1.0,0.0,1.0,8.0,13.0,7.0,7.0,4.0,0
+UBCV,2019,W,CIVL,408,,OVERALL,Geo-Environmental Engineering,,41,75.43902439,6.205033362,89.0,58.0,0,0,1.0,0.0,1.0,8.0,13.0,7.0,7.0,4.0,0
+UBCV,2019,W,CIVL,409,,201,Municipal Engineering,Abdullah Hassan;Amirhossein Parizi;Anurag Krishna;Archita Borah;Chris Johnston;Varshini Baskar,166,82.90963855,8.349068022,92.0,0.0,1,0,0.0,2.0,0.0,3.0,7.0,21.0,54.0,62.0,16
+UBCV,2019,W,CIVL,409,,OVERALL,Municipal Engineering,,166,82.90963855,8.349068022,92.0,0.0,1,0,0.0,2.0,0.0,3.0,7.0,21.0,54.0,62.0,16
+UBCV,2019,W,CIVL,410,,101,Foundation Engineering I,Fabricio Bagatini Cachuco;Francesca Palmieri;Yahya Nazhat,85,78.01176471,7.806429154,90.0,55.0,0,0,2.0,2.0,4.0,8.0,11.0,12.0,29.0,12.0,5
+UBCV,2019,W,CIVL,410,,OVERALL,Foundation Engineering I,,85,78.01176471,7.806429154,90.0,55.0,0,0,2.0,2.0,4.0,8.0,11.0,12.0,29.0,12.0,5
+UBCV,2019,W,CIVL,411,,201,Foundation Engineering II,Yahya Nazhat,66,84.07575758,12.05156946,95.0,0.0,1,0,1.0,0.0,0.0,1.0,2.0,1.0,18.0,30.0,12
+UBCV,2019,W,CIVL,411,,OVERALL,Foundation Engineering II,,66,84.07575758,12.05156946,95.0,0.0,1,0,1.0,0.0,0.0,1.0,2.0,1.0,18.0,30.0,12
+UBCV,2019,W,CIVL,413,,201,Design of Earth Dams and Containment Structures,Amy Swerid;Kwang Victor Lo;R Jonathan Fannin,22,74.45454546,8.494969227,90.0,58.0,0,0,1.0,2.0,2.0,0.0,4.0,7.0,3.0,2.0,1
+UBCV,2019,W,CIVL,413,,OVERALL,Design of Earth Dams and Containment Structures,,22,74.45454546,8.494969227,90.0,58.0,0,0,1.0,2.0,2.0,0.0,4.0,7.0,3.0,2.0,1
+UBCV,2019,W,CIVL,415,,201,Water Resource Engineering,Farah Rawas;Yashar Khalighi;Ziad K Shawwash,48,78.35416667,8.689660237,93.0,54.0,0,1,0.0,2.0,3.0,2.0,9.0,8.0,9.0,11.0,3
+UBCV,2019,W,CIVL,415,,OVERALL,Water Resource Engineering,,48,78.35416667,8.689660237,93.0,54.0,0,1,0.0,2.0,3.0,2.0,9.0,8.0,9.0,11.0,3
+UBCV,2019,W,CIVL,416,,101,Environmental Hydraulics,Kamal Sharma;Noboru Yonemitsu,61,76.40983607,9.640845484,92.0,41.0,1,1,1.0,0.0,5.0,10.0,8.0,10.0,13.0,7.0,5
+UBCV,2019,W,CIVL,416,,OVERALL,Environmental Hydraulics,,61,76.40983607,9.640845484,92.0,41.0,1,1,1.0,0.0,5.0,10.0,8.0,10.0,13.0,7.0,5
+UBCV,2019,W,CIVL,417,,201,Coastal Engineering,Chulu Liang;Michael D Isaacson,67,77.49253731,11.37164621,100.0,55.0,0,0,5.0,5.0,5.0,7.0,4.0,10.0,10.0,10.0,11
+UBCV,2019,W,CIVL,417,,OVERALL,Coastal Engineering,,67,77.49253731,11.37164621,100.0,55.0,0,0,5.0,5.0,5.0,7.0,4.0,10.0,10.0,10.0,11
+UBCV,2019,W,CIVL,418,,101,Engineering Hydrology,Aina Crozier;Hossein Foroozand;Steven Weijs,70,75.1,14.89300001,97.0,0.0,1,3,5.0,3.0,5.0,9.0,5.0,9.0,11.0,10.0,9
+UBCV,2019,W,CIVL,418,,OVERALL,Engineering Hydrology,,70,75.1,14.89300001,97.0,0.0,1,3,5.0,3.0,5.0,9.0,5.0,9.0,11.0,10.0,9
+UBCV,2019,W,CIVL,420,,101,Concrete Technology,Alexander Lebaron Forrest;Cristina Zanotti;Robert Gregory Shilton;Robert Shilton,18,76.38888889,9.537165005,90.0,46.0,1,0,0.0,0.0,1.0,1.0,1.0,7.0,6.0,0.0,1
+UBCV,2019,W,CIVL,420,,OVERALL,Concrete Technology,,18,76.38888889,9.537165005,90.0,46.0,1,0,0.0,0.0,1.0,1.0,1.0,7.0,6.0,0.0,1
+UBCV,2019,W,CIVL,422,,201,Project Based Learning in Civil Engineering Materials,Cristina Zanotti;Dana Vanier;Debadri Som,6,85.16666667,5.980523946,91.0,75.0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,1
+UBCV,2019,W,CIVL,422,,OVERALL,Project Based Learning in Civil Engineering Materials,,6,85.16666667,5.980523946,91.0,75.0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,1
+UBCV,2019,W,CIVL,425,,201,Case Studies of Construction Methods,Alexander Lebaron Forrest;Dana Vanier;Donald Mavinic;Mohsen Azimi,40,83.4,5.295377762,90.0,65.0,0,0,0.0,0.0,1.0,1.0,1.0,4.0,9.0,23.0,1
+UBCV,2019,W,CIVL,425,,OVERALL,Case Studies of Construction Methods,,40,83.4,5.295377762,90.0,65.0,0,0,0.0,0.0,1.0,1.0,1.0,4.0,9.0,23.0,1
+UBCV,2019,W,CIVL,426,,201,Virtual Design and Construction,Puyan Zadeh;Seungho Han,23,91.34782609,4.60837869,98.0,83.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,15
+UBCV,2019,W,CIVL,426,,OVERALL,Virtual Design and Construction,,23,91.34782609,4.60837869,98.0,83.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.0,15
+UBCV,2019,W,CIVL,430,,101,Design of Concrete Structures,Abdolreza Joghataie;Armin Bebam Zadeh;Sara Hui Man Zhang;Seyed Alireza Eksir Monfared;Soham Vaze;Yueran Fang,147,80.89795918,10.43094362,100.0,43.0,1,4,3.0,1.0,5.0,8.0,15.0,13.0,30.0,34.0,33
+UBCV,2019,W,CIVL,430,,OVERALL,Design of Concrete Structures,,147,80.89795918,10.43094362,100.0,43.0,1,4,3.0,1.0,5.0,8.0,15.0,13.0,30.0,34.0,33
+UBCV,2019,W,CIVL,432,,101,Advanced Structural Steel Design,Armin Bebam Zadeh;Carlos Molina Hutt;Dana Vanier;Deborah Altow;Negar Roghanian;Pouria Kourehpaz;Preetish Kakoty;Robert Driver;Seyed Alireza Eksir Monfared;Shervin Zahedimazandarani,48,74.54166667,14.30065961,97.0,30.0,2,2,2.0,3.0,2.0,5.0,4.0,4.0,13.0,6.0,5
+UBCV,2019,W,CIVL,432,,OVERALL,Advanced Structural Steel Design,,48,74.54166667,14.30065961,97.0,30.0,2,2,2.0,3.0,2.0,5.0,4.0,4.0,13.0,6.0,5
+UBCV,2019,W,CIVL,433,,201,Advanced Concrete Design,Abdolreza Joghataie;Sara Hui Man Zhang;Seyed Alireza Eksir Monfared;Yahya Nazhat;Yashar Khalighi;Yueran Fang,49,84.7755102,9.49400097,98.0,60.0,0,0,0.0,3.0,1.0,1.0,3.0,2.0,11.0,8.0,20
+UBCV,2019,W,CIVL,433,,OVERALL,Advanced Concrete Design,,49,84.7755102,9.49400097,98.0,60.0,0,0,0.0,3.0,1.0,1.0,3.0,2.0,11.0,8.0,20
+UBCV,2019,W,CIVL,435,,201,Advanced Structural Analysis,Steven Weijs;Swanand Patil;Swanand Rajendra Patil;Terje Haukaas,32,77.1875,14.91143207,99.0,50.0,0,5,0.0,1.0,2.0,2.0,0.0,2.0,8.0,5.0,7
+UBCV,2019,W,CIVL,435,,OVERALL,Advanced Structural Analysis,,32,77.1875,14.91143207,99.0,50.0,0,5,0.0,1.0,2.0,2.0,0.0,2.0,8.0,5.0,7
+UBCV,2019,W,CIVL,436,,101,Matrix Structural Analysis and Dynamics,Carlos Estuardo Ventura;Leila Katebi;Mehrtash Motamedi,19,93.10526316,5.455830081,100.0,83.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,14
+UBCV,2019,W,CIVL,436,,OVERALL,Matrix Structural Analysis and Dynamics,,19,93.10526316,5.455830081,100.0,83.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,14
+UBCV,2019,W,CIVL,437,,101,Introduction to Ship Structures,Jaime Cathcart;Jasmin Jelovica;Mohammad Mohammadzadeh Keleshteri;Sean Irvine,29,86.27586207,7.024937985,99.0,70.0,0,0,0.0,0.0,0.0,1.0,1.0,2.0,6.0,11.0,8
+UBCV,2019,W,CIVL,437,,OVERALL,Introduction to Ship Structures,,29,86.27586207,7.024937985,99.0,70.0,0,0,0.0,0.0,0.0,1.0,1.0,2.0,6.0,11.0,8
+UBCV,2019,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss;Thomas Tannert,29,79.06896552,13.14732736,93.0,28.0,1,1,0.0,1.0,0.0,0.0,2.0,6.0,7.0,7.0,4
+UBCV,2019,W,CIVL,439,,OVERALL,Design of Timber Structures,,29,79.06896552,13.14732736,93.0,28.0,1,1,0.0,1.0,0.0,0.0,2.0,6.0,7.0,7.0,4
+UBCV,2019,W,CIVL,440,,101,Transportation Engineering II,Clark Lim;Dana Vanier;Hossameldin Ibrahim Said Mohammed;Tarek Sayed,42,91.83333333,4.149150173,98.0,82.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,33
+UBCV,2019,W,CIVL,440,,OVERALL,Transportation Engineering II,,42,91.83333333,4.149150173,98.0,82.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.0,33
+UBCV,2019,W,CIVL,441,,201,Transportation Planning and Analysis,Alexander York Bigazzi;Negar Roghanian,39,82.30769231,7.291501348,93.0,64.0,0,0,0.0,0.0,1.0,3.0,3.0,5.0,10.0,9.0,8
+UBCV,2019,W,CIVL,441,,OVERALL,Transportation Planning and Analysis,,39,82.30769231,7.291501348,93.0,64.0,0,0,0.0,0.0,1.0,3.0,3.0,5.0,10.0,9.0,8
+UBCV,2019,W,CIVL,445,,101,Civil Engineering Design Project I.,Abdolreza Joghataie;Abhinav Arora;Christopher Caufield;Hartaj Sanghara;John A. Howie;John Howie;Michael D Isaacson;Mohammadamin Sadeghi;Noboru Yonemitsu;Pamela Rogalski;Pamela Wolf;Yahya Nazhat,140,90.09285714,3.304447469,100.0,84.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,63.0,74
+UBCV,2019,W,CIVL,445,,OVERALL,Civil Engineering Design Project I.,,140,90.09285714,3.304447469,100.0,84.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,63.0,74
+UBCV,2019,W,CIVL,446,,201,Civil Engineering Design Project II.,Abdolreza Joghataie;John A. Howie;John Howie;Michael D Isaacson;Pamela Rogalski;Pamela Wolf;Rashim Garg;Yahya Nazhat,140,90.97857143,6.390717028,100.0,68.0,0,0,0.0,0.0,0.0,1.0,3.0,9.0,5.0,20.0,102
+UBCV,2019,W,CIVL,446,,OVERALL,Civil Engineering Design Project II.,,140,90.97857143,6.390717028,100.0,68.0,0,0,0.0,0.0,0.0,1.0,3.0,9.0,5.0,20.0,102
+UBCV,2019,W,CIVL,475,,101,Environmental Stewardship in Civil Engineering,Susan Nesbit,18,84.61111111,10.18152242,97.0,54.0,0,1,0.0,0.0,0.0,0.0,2.0,1.0,4.0,3.0,7
+UBCV,2019,W,CIVL,475,,OVERALL,Environmental Stewardship in Civil Engineering,,18,84.61111111,10.18152242,97.0,54.0,0,1,0.0,0.0,0.0,0.0,2.0,1.0,4.0,3.0,7
+UBCV,2019,W,CIVL,478,,101,Building Science,Abdullah Hassan;Bardia Kabiri Far;Kwang Victor Lo;Lorne Ricketts,59,80.28813559,8.475219146,90.0,40.0,1,0,0.0,2.0,1.0,2.0,7.0,6.0,20.0,17.0,3
+UBCV,2019,W,CIVL,478,,OVERALL,Building Science,,59,80.28813559,8.475219146,90.0,40.0,1,0,0.0,2.0,1.0,2.0,7.0,6.0,20.0,17.0,3
+UBCV,2019,W,CIVL,498,J,002,Topics in Civil Engineering,Abdolreza Joghataie;Clark Lim;Negar Roghanian;Rashim Garg,10,82.3,10.89393307,98.0,60.0,0,0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,5.0,2
+UBCV,2019,W,CIVL,498,J,OVERALL,Topics in Civil Engineering,,10,82.3,10.89393307,98.0,60.0,0,0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,5.0,2
+UBCV,2019,W,CIVL,504,,201,Seismicity and Seismic Design Parameters,Alexander Lebaron Forrest;William D Finn;William D L Finn;Yuxin Pan,43,87.86046512,3.949571377,97.0,82.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,17.0,15
+UBCV,2019,W,CIVL,504,,OVERALL,Seismicity and Seismic Design Parameters,,43,87.86046512,3.949571377,97.0,82.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,17.0,15
+UBCV,2019,W,CIVL,505,,201,Seismic Response of Structures,Negar Roghanian;Soham Vaze;Tsung-Yuan Yang;Xiao Pan,27,84.85185185,11.30589943,93.0,34.0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,6.0,13
+UBCV,2019,W,CIVL,505,,OVERALL,Seismic Response of Structures,,27,84.85185185,11.30589943,93.0,34.0,1,0,0.0,0.0,0.0,0.0,1.0,1.0,5.0,6.0,13
+UBCV,2019,W,CIVL,507,,101,Dynamics of Structures I,Carlos Estuardo Ventura;Freddy Pina;Mahsa Hosseini,54,92.64814815,5.674030239,100.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,6.0,41
+UBCV,2019,W,CIVL,507,,OVERALL,Dynamics of Structures I,,54,92.64814815,5.674030239,100.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,6.0,6.0,41
+UBCV,2019,W,CIVL,508,,201,Dynamics of Structures II,Carlos Estuardo Ventura;Dana Vanier;Deborah Altow;Freddy Pina;Leila Katebi,34,87.14705882,23.67984996,98.0,2.0,3,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,27
+UBCV,2019,W,CIVL,508,,OVERALL,Dynamics of Structures II,,34,87.14705882,23.67984996,98.0,2.0,3,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,27
+UBCV,2019,W,CIVL,509,,201,Nonlinear Structural Analysis,Armin Bebam Zadeh;Christian Slotboom;Jaime Cathcart,32,83.6875,6.784410498,100.0,71.0,0,0,0.0,0.0,0.0,1.0,3.0,2.0,11.0,9.0,6
+UBCV,2019,W,CIVL,509,,OVERALL,Nonlinear Structural Analysis,,32,83.6875,6.784410498,100.0,71.0,0,0,0.0,0.0,0.0,1.0,3.0,2.0,11.0,9.0,6
+UBCV,2019,W,CIVL,511,,101,Advanced Topics in Steel Structures,Tsung-Yuan Yang;Xu Xie,11,86.54545455,8.430464238,95.0,68.0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,4.0,4
+UBCV,2019,W,CIVL,511,,OVERALL,Advanced Topics in Steel Structures,,11,86.54545455,8.430464238,95.0,68.0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,4.0,4
+UBCV,2019,W,CIVL,513,,201,Concrete Structures,Abdolreza Joghataie;Perry Erwin Adebar;Seyed Alireza Eksir Monfared,57,86.28070175,6.686218197,100.0,68.0,0,0,0.0,0.0,0.0,2.0,0.0,7.0,12.0,14.0,22
+UBCV,2019,W,CIVL,513,,OVERALL,Concrete Structures,,57,86.28070175,6.686218197,100.0,68.0,0,0,0.0,0.0,0.0,2.0,0.0,7.0,12.0,14.0,22
+UBCV,2019,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss;Ryan Ziels;Thomas Tannert;Yashar Khalighi,24,80.25,7.913939271,91.0,61.0,0,0,0.0,1.0,0.0,2.0,2.0,5.0,7.0,4.0,3
+UBCV,2019,W,CIVL,516,,OVERALL,Behaviour of Timber Structures,,24,80.25,7.913939271,91.0,61.0,0,0,0.0,1.0,0.0,2.0,2.0,5.0,7.0,4.0,3
+UBCV,2019,W,CIVL,518,,101,Reliability and Structural Safety,Rodrigo Carneiro Da Costa;Sheryl Staub-French;Terje Haukaas,49,83.08163265,9.871754181,100.0,46.0,1,0,0.0,1.0,0.0,3.0,1.0,7.0,10.0,11.0,15
+UBCV,2019,W,CIVL,518,,OVERALL,Reliability and Structural Safety,,49,83.08163265,9.871754181,100.0,46.0,1,0,0.0,1.0,0.0,3.0,1.0,7.0,10.0,11.0,15
+UBCV,2019,W,CIVL,520,,101,Construction Planning and Control,Alan David Russell;Alan Russell;Melissa Yong,21,81.23809524,5.448896787,89.0,69.0,0,0,0.0,0.0,0.0,2.0,1.0,4.0,8.0,6.0,0
+UBCV,2019,W,CIVL,520,,OVERALL,Construction Planning and Control,,21,81.23809524,5.448896787,89.0,69.0,0,0,0.0,0.0,0.0,2.0,1.0,4.0,8.0,6.0,0
+UBCV,2019,W,CIVL,521,,201,Construction Methods and Performance,Alan Russell;Dana Vanier;Donald Mavinic,12,85.66666667,4.438126823,92.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,5.0,3
+UBCV,2019,W,CIVL,521,,OVERALL,Construction Methods and Performance,,12,85.66666667,4.438126823,92.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,5.0,3
+UBCV,2019,W,CIVL,522,,201,Project and Construction Economics,Alan David Russell;Alan Russell;Melissa Yong,14,82.0,4.91465626,87.0,71.0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,8.0,4.0,0
+UBCV,2019,W,CIVL,522,,OVERALL,Project and Construction Economics,,14,82.0,4.91465626,87.0,71.0,0,0,0.0,0.0,0.0,1.0,1.0,0.0,8.0,4.0,0
+UBCV,2019,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms;Karanpreet Matharu,31,84.87096774,3.913582634,92.0,77.0,0,0,0.0,0.0,0.0,0.0,0.0,4.0,9.0,16.0,2
+UBCV,2019,W,CIVL,523,,OVERALL,Project Management for Engineers,,31,84.87096774,3.913582634,92.0,77.0,0,0,0.0,0.0,0.0,0.0,0.0,4.0,9.0,16.0,2
+UBCV,2019,W,CIVL,524,,101,Legal Aspects of Project and Construction Management,Brian Samuels;Hanieh Daliri,33,83.06060606,7.631920605,99.0,60.0,0,0,0.0,1.0,0.0,1.0,0.0,3.0,16.0,6.0,6
+UBCV,2019,W,CIVL,524,,OVERALL,Legal Aspects of Project and Construction Management,,33,83.06060606,7.631920605,99.0,60.0,0,0,0.0,1.0,0.0,1.0,0.0,3.0,16.0,6.0,6
+UBCV,2019,W,CIVL,526,,201,Virtual Design and Construction,Puyan Zadeh,15,89.0,5.264435935,96.0,72.0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,11
+UBCV,2019,W,CIVL,526,,OVERALL,Virtual Design and Construction,,15,89.0,5.264435935,96.0,72.0,0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,11
+UBCV,2019,W,CIVL,529,,101,Condition Assessment and Rehabilitation of Civil Infrastructure,Anupam Choudhary;Nemkumar Banthia,17,83.76470588,4.465554442,92.0,75.0,0,0,0.0,0.0,0.0,0.0,1.0,2.0,4.0,9.0,1
+UBCV,2019,W,CIVL,529,,OVERALL,Condition Assessment and Rehabilitation of Civil Infrastructure,,17,83.76470588,4.465554442,92.0,75.0,0,0,0.0,0.0,0.0,0.0,1.0,2.0,4.0,9.0,1
+UBCV,2019,W,CIVL,537,,101,Computational Mechanics I,Deborah Altow;Eric Hall;Hubert Courteau-Godmaire;Nemkumar Banthia;Reza Vaziri,58,81.94827586,13.49908693,99.0,30.0,2,0,0.0,3.0,4.0,3.0,1.0,5.0,10.0,11.0,19
+UBCV,2019,W,CIVL,537,,OVERALL,Computational Mechanics I,,58,81.94827586,13.49908693,99.0,30.0,2,0,0.0,3.0,4.0,3.0,1.0,5.0,10.0,11.0,19
+UBCV,2019,W,CIVL,540,,201,Advanced Coastal Engineering,Michael D Isaacson,11,87.63636364,6.888725967,100.0,76.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,4.0,4
+UBCV,2019,W,CIVL,540,,OVERALL,Advanced Coastal Engineering,,11,87.63636364,6.888725967,100.0,76.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,4.0,4
+UBCV,2019,W,CIVL,555,,201,Optimization and Heuristic Approaches for Civil Engineering Systems,Barbara Jean Lence,7,95.71428571,4.855041562,100.0,88.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6
+UBCV,2019,W,CIVL,555,,OVERALL,Optimization and Heuristic Approaches for Civil Engineering Systems,,7,95.71428571,4.855041562,100.0,88.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6
+UBCV,2019,W,CIVL,556,,101,Modelling and Optimization of Civil Engineering Systems,Farah Rawas;Ziad K Shawwash,10,84.4,4.880801391,92.0,79.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,2.0,2
+UBCV,2019,W,CIVL,556,,OVERALL,Modelling and Optimization of Civil Engineering Systems,,10,84.4,4.880801391,92.0,79.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,2.0,2
+UBCV,2019,W,CIVL,562,,201,Environmental Data Collection and Analysis,Fuhar Dixit;Pierre Berube,13,91.46153846,2.665063621,95.0,85.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,11
+UBCV,2019,W,CIVL,562,,OVERALL,Environmental Data Collection and Analysis,,13,91.46153846,2.665063621,95.0,85.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,11
+UBCV,2019,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Amirhossein Parizi;Dana Vanier;Jongho Lee,14,82.28571429,7.839040085,93.0,67.0,0,0,0.0,0.0,1.0,0.0,1.0,3.0,3.0,4.0,2
+UBCV,2019,W,CIVL,565,,OVERALL,Physical-Chemical Treatment Processes,,14,82.28571429,7.839040085,93.0,67.0,0,0,0.0,0.0,1.0,0.0,1.0,3.0,3.0,4.0,2
+UBCV,2019,W,CIVL,569,,101,Biological Wastewater Treatment,Donald Mavinic;Ryan Ziels,11,80.36363636,14.08028925,94.0,48.0,1,0,0.0,0.0,1.0,0.0,1.0,0.0,3.0,2.0,3
+UBCV,2019,W,CIVL,569,,OVERALL,Biological Wastewater Treatment,,11,80.36363636,14.08028925,94.0,48.0,1,0,0.0,0.0,1.0,0.0,1.0,0.0,3.0,2.0,3
+UBCV,2019,W,CIVL,570,,101,Advanced Soil Mechanics,Dharmapriya Wijewickreme,16,80.6875,10.79332355,96.0,61.0,0,0,0.0,2.0,0.0,2.0,1.0,1.0,3.0,3.0,4
+UBCV,2019,W,CIVL,570,,OVERALL,Advanced Soil Mechanics,,16,80.6875,10.79332355,96.0,61.0,0,0,0.0,2.0,0.0,2.0,1.0,1.0,3.0,3.0,4
+UBCV,2019,W,CIVL,574,,201,Experimental Soil Mechanics,Ana Maria Valverde Sancho;Dharmapriya Wijewickreme;John A. Howie;John Howie,9,73.88888889,9.184830489,90.0,60.0,0,0,0.0,1.0,0.0,4.0,0.0,1.0,2.0,0.0,1
+UBCV,2019,W,CIVL,574,,OVERALL,Experimental Soil Mechanics,,9,73.88888889,9.184830489,90.0,60.0,0,0,0.0,1.0,0.0,4.0,0.0,1.0,2.0,0.0,1
+UBCV,2019,W,CIVL,579,,101,Geosynthetics,R Jonathan Fannin,10,89.0,8.393118875,97.0,77.0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,6
+UBCV,2019,W,CIVL,579,,OVERALL,Geosynthetics,,10,89.0,8.393118875,97.0,77.0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,6
+UBCV,2019,W,CIVL,581,,201,Soil Dynamics for Design Practice,Dharmapriya Wijewickreme;Thushara Dilrushi Jayasin Jayasinghe Mudiyanselage;Thushara Jayasinghe Mudiyanselage,9,78.66666667,8.276472679,97.0,70.0,0,0,0.0,0.0,0.0,2.0,2.0,1.0,3.0,0.0,1
+UBCV,2019,W,CIVL,581,,OVERALL,Soil Dynamics for Design Practice,,9,78.66666667,8.276472679,97.0,70.0,0,0,0.0,0.0,0.0,2.0,2.0,1.0,3.0,0.0,1
+UBCV,2019,W,CIVL,582,,101,Transportation Engineering Impacts,Jaime Cathcart;Mohamed Essa;Tarek Sayed,11,83.81818182,7.180782434,93.0,73.0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,4.0,2.0,3
+UBCV,2019,W,CIVL,582,,OVERALL,Transportation Engineering Impacts,,11,83.81818182,7.180782434,93.0,73.0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,4.0,2.0,3
+UBCV,2019,W,CIVL,583,,201,Urban Engineering Methods and Models,Alexander York Bigazzi;Negar Roghanian,10,84.1,7.430417963,94.0,72.0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,4.0,2
+UBCV,2019,W,CIVL,583,,OVERALL,Urban Engineering Methods and Models,,10,84.1,7.430417963,94.0,72.0,0,0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,4.0,2
+UBCV,2019,W,CIVL,586,,101,Urban Transportation System Analysis,Alexander York Bigazzi,13,81.30769231,7.215545895,94.0,71.0,0,0,0.0,0.0,0.0,2.0,1.0,2.0,4.0,2.0,2
+UBCV,2019,W,CIVL,586,,OVERALL,Urban Transportation System Analysis,,13,81.30769231,7.215545895,94.0,71.0,0,0,0.0,0.0,0.0,2.0,1.0,2.0,4.0,2.0,2
+UBCV,2019,W,CIVL,592,K,002,Directed Studies in Civil Engineering,R Jonathan Fannin,7,85.14285714,4.63424109,92.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,1
+UBCV,2019,W,CIVL,592,K,OVERALL,Directed Studies in Civil Engineering,,7,85.14285714,4.63424109,92.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,3.0,1
+UBCV,2019,W,CIVL,598,B,001,Topics in Civil Engineering,Carlos Molina Hutt;Christian Slotboom;Preetish Kakoty;Robert Sianchuk;Sean Irvine,27,83.07407407,9.156443406,95.0,60.0,0,0,0.0,2.0,0.0,0.0,2.0,5.0,4.0,7.0,7
+UBCV,2019,W,CIVL,598,B,OVERALL,Topics in Civil Engineering,,27,83.07407407,9.156443406,95.0,60.0,0,0,0.0,2.0,0.0,0.0,2.0,5.0,4.0,7.0,7
+UBCV,2019,W,CIVL,598,E,101,Topics in Civil Engineering,Clark Lim;Omar Swei,18,83.83333333,6.223768482,92.0,72.0,0,0,0.0,0.0,0.0,0.0,2.0,2.0,4.0,7.0,3
+UBCV,2019,W,CIVL,598,E,OVERALL,Topics in Civil Engineering,,18,83.83333333,6.223768482,92.0,72.0,0,0,0.0,0.0,0.0,0.0,2.0,2.0,4.0,7.0,3
+UBCV,2019,W,CIVL,598,J,002,Topics in Civil Engineering,Abdolreza Joghataie;Clark Lim;Negar Roghanian,30,84.23333333,7.564359869,95.0,68.0,0,0,0.0,0.0,0.0,1.0,2.0,4.0,8.0,5.0,10
+UBCV,2019,W,CIVL,598,J,OVERALL,Topics in Civil Engineering,,30,84.23333333,7.564359869,95.0,68.0,0,0,0.0,0.0,0.0,1.0,2.0,4.0,8.0,5.0,10
+UBCV,2019,W,CIVL,598,K,001,Topics in Civil Engineering,Susan Nesbit;W Scott Dunbar,13,84.92307692,9.050428521,96.0,60.0,0,0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,4.0,4
+UBCV,2019,W,CIVL,598,K,OVERALL,Topics in Civil Engineering,,13,84.92307692,9.050428521,96.0,60.0,0,0,0.0,1.0,0.0,0.0,0.0,0.0,4.0,4.0,4
+UBCV,2019,W,CIVL,598,M,001,Topics in Civil Engineering,Parsa Taghvaei;Svetlana Nikolic-Brzev,8,80.5,11.64964745,94.0,60.0,0,0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,3.0,2
+UBCV,2019,W,CIVL,598,M,OVERALL,Topics in Civil Engineering,,8,80.5,11.64964745,94.0,60.0,0,0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,3.0,2
+UBCV,2019,W,CIVL,598,P,001,Topics in Civil Engineering,Alexander York Bigazzi,18,85.27777778,8.92982811,100.0,65.0,0,0,0.0,0.0,1.0,0.0,0.0,5.0,2.0,4.0,6
+UBCV,2019,W,CIVL,598,P,OVERALL,Topics in Civil Engineering,,18,85.27777778,8.92982811,100.0,65.0,0,0,0.0,0.0,1.0,0.0,0.0,5.0,2.0,4.0,6
+UBCV,2019,W,CIVL,598,S,002,Topics in Civil Engineering,Kenneth Christison;Kenneth J A Christison;Noboru Yonemitsu,7,92.14285714,6.718843438,98.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,6
+UBCV,2019,W,CIVL,598,S,OVERALL,Topics in Civil Engineering,,7,92.14285714,6.718843438,98.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,6
+UBCV,2019,W,CIVL,598,X,001,Topics in Civil Engineering,Pierre Berube,6,87.33333333,3.386246693,91.0,82.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,2
+UBCV,2019,W,CIVL,598,X,OVERALL,Topics in Civil Engineering,,6,87.33333333,3.386246693,91.0,82.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,2
+UBCV,2019,W,CIVL,599,,003,M.A.Sc. Thesis,,6,87.5,4.806245936,90.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,4
+UBCV,2019,W,CIVL,599,,OVERALL,M.A.Sc. Thesis,,11,89.0,4.669047012,95.0,78.0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,7

@@ -1,60 +1,60 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,ASTU,100,A,G01,1st Year CAP Seminar,Laurie Mcneill,21,73.666666667,10.145606603,88.0,48.0,,,,,,,5,,,,
-UBCV,2015,W,ASTU,100,A,G02,1st Year CAP Seminar,Moberley Adriane Segal Luger;Moberley Luger,21,71.904761905,10.439850391,87.0,43.0,,,,,,,8,,,,
-UBCV,2015,W,ASTU,100,A,G03,1st Year CAP Seminar,Moberley Adriane Segal Luger;Moberley Luger,24,71.916666667,9.417452192,93.0,50.0,,,,,,6,5,,,,
-UBCV,2015,W,ASTU,100,A,G04,1st Year CAP Seminar,Moberley Adriane Segal Luger;Moberley Luger,23,71.130434783,6.877528281,85.0,60.0,,,,,5,,5,,,,
-UBCV,2015,W,ASTU,100,A,I01,1st Year CAP Seminar,Evan Mauro,24,73.541666667,11.802649543,88.0,25.0,,,,,,,5,8,,,
-UBCV,2015,W,ASTU,100,A,I02,1st Year CAP Seminar,Evan Mauro,25,72.4,9.407443861,87.0,38.0,,,,,,,9,,,,
-UBCV,2015,W,ASTU,100,A,I03,1st Year CAP Seminar,Sean Mcalister,23,75.47826087,7.304230189,84.0,53.0,,,,,,,,,10,,
-UBCV,2015,W,ASTU,100,A,I04,1st Year CAP Seminar,Sean Mcalister,24,74.5,7.632880817,86.0,57.0,,,,,,6,,5,5,,
-UBCV,2015,W,ASTU,100,A,I05,1st Year CAP Seminar,Evan Mauro,24,69.458333333,15.139867229000002,83.0,15.0,,,,,,5,,7,,,
-UBCV,2015,W,ASTU,100,A,L01,1st Year CAP Seminar,Heather Latimer,23,75.608695652,8.46242567,86.0,53.0,,,,,,,,5,7,,
-UBCV,2015,W,ASTU,100,A,L02,1st Year CAP Seminar,Fenn Stewart,23,69.956521739,12.197161595999999,85.0,22.0,,,,,,6,8,,,,
-UBCV,2015,W,ASTU,100,A,L03,1st Year CAP Seminar,Heather Latimer,24,77.541666667,7.868369073999999,90.0,53.0,,,,,,,5,5,8,,
-UBCV,2015,W,ASTU,100,A,L04,1st Year CAP Seminar,Heather Latimer,24,67.375,20.164136265,88.0,0.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,100,A,M01,1st Year CAP Seminar,Kathryn Grafton,20,74.1,7.559587847,86.0,60.0,,,,,,,,,5,,
-UBCV,2015,W,ASTU,100,A,M02,1st Year CAP Seminar,Kathryn Grafton,25,72.36,6.963476142999999,85.0,56.0,,,,,,,12,,,,
-UBCV,2015,W,ASTU,100,A,M03,1st Year CAP Seminar,Kim Snowden,21,78.333333333,7.709301741,88.0,52.0,,,,,,,,5,8,,
-UBCV,2015,W,ASTU,100,A,M04,1st Year CAP Seminar,Kim Snowden,22,76.545454545,6.2314660260000005,83.0,58.0,,,,,,,,8,7,,
+UBCV,2015,W,ASTU,100,A,G01,1st Year CAP Seminar,Laurie Mcneill,21,73.666666667,10.145606603,88.0,48.0,,,,,,,5,,,,0
+UBCV,2015,W,ASTU,100,A,G02,1st Year CAP Seminar,Moberley Adriane Segal Luger;Moberley Luger,21,71.904761905,10.439850391,87.0,43.0,,,,,,,8,,,,0
+UBCV,2015,W,ASTU,100,A,G03,1st Year CAP Seminar,Moberley Adriane Segal Luger;Moberley Luger,24,71.916666667,9.417452192,93.0,50.0,0,,,,,6,5,,,,
+UBCV,2015,W,ASTU,100,A,G04,1st Year CAP Seminar,Moberley Adriane Segal Luger;Moberley Luger,23,71.130434783,6.877528281,85.0,60.0,0,0,0,,5,,5,,,,0
+UBCV,2015,W,ASTU,100,A,I01,1st Year CAP Seminar,Evan Mauro,24,73.541666667,11.802649543,88.0,25.0,,,,,,,5,8,,,0
+UBCV,2015,W,ASTU,100,A,I02,1st Year CAP Seminar,Evan Mauro,25,72.4,9.407443861,87.0,38.0,,,,,,,9,,,,0
+UBCV,2015,W,ASTU,100,A,I03,1st Year CAP Seminar,Sean Mcalister,23,75.47826087,7.304230189,84.0,53.0,0,,,,,,,,10,0,0
+UBCV,2015,W,ASTU,100,A,I04,1st Year CAP Seminar,Sean Mcalister,24,74.5,7.632880817,86.0,57.0,0,0,,,,6,,5,5,,0
+UBCV,2015,W,ASTU,100,A,I05,1st Year CAP Seminar,Evan Mauro,24,69.458333333,15.139867229,83.0,15.0,,,,,,5,,7,,0,0
+UBCV,2015,W,ASTU,100,A,L01,1st Year CAP Seminar,Heather Latimer,23,75.608695652,8.46242567,86.0,53.0,0,,,,,,,5,7,,0
+UBCV,2015,W,ASTU,100,A,L02,1st Year CAP Seminar,Fenn Stewart,23,69.956521739,12.197161596,85.0,22.0,,,,,,6,8,,,,0
+UBCV,2015,W,ASTU,100,A,L03,1st Year CAP Seminar,Heather Latimer,24,77.541666667,7.868369074,90.0,53.0,0,,,,,,5,5,8,,
+UBCV,2015,W,ASTU,100,A,L04,1st Year CAP Seminar,Heather Latimer,24,67.375,20.164136265,88.0,0.0,,,,,,,,,,,0
+UBCV,2015,W,ASTU,100,A,M01,1st Year CAP Seminar,Kathryn Grafton,20,74.1,7.559587847,86.0,60.0,0,0,0,,,,,,5,,0
+UBCV,2015,W,ASTU,100,A,M02,1st Year CAP Seminar,Kathryn Grafton,25,72.36,6.963476143,85.0,56.0,0,0,,,,,12,,,,0
+UBCV,2015,W,ASTU,100,A,M03,1st Year CAP Seminar,Kim Snowden,21,78.333333333,7.709301741,88.0,52.0,0,,,,,,,5,8,,0
+UBCV,2015,W,ASTU,100,A,M04,1st Year CAP Seminar,Kim Snowden,22,76.545454545,6.231466026,83.0,58.0,0,0,,,,,,8,7,0,0
 UBCV,2015,W,ASTU,100,A,OVERALL,1st Year CAP Seminar,,391,73.225063939,10.558529712,93.0,0.0,11,6,11,19,27,53,87,72,76,27,2.0
-UBCV,2015,W,ASTU,100,B,OVERALL,1st Year CAP Seminar,,118,73.12711864399999,7.728896395,87.0,32.0,,,,5,9,17,29,26,25,,
-UBCV,2015,W,ASTU,100,B,P01,1st Year CAP Seminar,Tiffany Johnstone;Tiffany Taylor Elise Johnstone,24,76.25,5.651086852000001,87.0,62.0,,,,,,,5,6,9,,
-UBCV,2015,W,ASTU,100,B,P02,1st Year CAP Seminar,Tiffany Johnstone;Tiffany Taylor Elise Johnstone,23,73.47826087,10.130375408999999,83.0,32.0,,,,,,,7,,7,,
-UBCV,2015,W,ASTU,100,B,P03,1st Year CAP Seminar,Simon Rolston,22,72.136363636,7.76619938,84.0,55.0,,,,,,6,,5,,,
-UBCV,2015,W,ASTU,100,B,P04,1st Year CAP Seminar,Laila Ferreira,25,73.36,6.0544749289999995,84.0,59.0,,,,,,,9,,5,,
-UBCV,2015,W,ASTU,100,B,P05,1st Year CAP Seminar,Laila Ferreira,24,70.333333333,7.811177423999999,82.0,50.0,,,,,,,,7,,,
-UBCV,2015,W,ASTU,201,,001,"Canada, Japan and the Pacific: Cultural Studies",Darrin Lehman;Darrin R Lehman;Jennifer Ritchie,95,65.8,14.186898360999999,95.0,0.0,6,9,7,16,11,13,10,10,8,,
-UBCV,2015,W,ASTU,201,,OVERALL,"Canada, Japan and the Pacific: Cultural Studies",,95,65.8,14.186898360999999,95.0,0.0,6,9,7,16,11,13,10,10,8,,
-UBCV,2015,W,ASTU,202,,001,"Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives",James Francis Glassman,85,64.75294117600001,12.697868102000001,81.0,22.0,7,,7,6,13,25,17,,,,
-UBCV,2015,W,ASTU,202,,OVERALL,"Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives",,85,64.75294117600001,12.697868102000001,81.0,22.0,7,,7,6,13,25,17,,,,
-UBCV,2015,W,ASTU,204,A,OVERALL,Topics in Interdisciplinary Studies in the Humanities,,141,55.432624113,11.654738437999999,77.0,0.0,17,49,24,17,17,8,8,,,,
-UBCV,2015,W,ASTU,204,A,V01,Topics in Interdisciplinary Studies in the Humanities,Katja Thieme,26,61.307692308,14.101827487000001,77.0,21.0,,2,,,5,,5,,,,
-UBCV,2015,W,ASTU,204,A,V02,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,27,52.740740741,7.930431129,70.0,35.0,,14,,,,,,,,,
-UBCV,2015,W,ASTU,204,A,V03,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,30,55.533333333,4.344900565,66.0,50.0,,14,11,,,,,,,,
-UBCV,2015,W,ASTU,204,A,V06,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,29,53.931034483000005,13.103791803,73.0,0.0,,13,,,,,,,,,
-UBCV,2015,W,ASTU,204,A,VM2,Topics in Interdisciplinary Studies in the Humanities,Jaclyn Rea,29,54.068965516999995,14.44430445,72.0,20.0,6,6,5,,,,,,,,
-UBCV,2015,W,ASTU,210,,001,"Global Citizenship, Part 1: Introduction",Reginald D'Silva,7,81.0,8.640987597999999,91.0,65.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,210,,OVERALL,"Global Citizenship, Part 1: Introduction",,7,81.0,8.640987597999999,91.0,65.0,,,,,,,,,,,
+UBCV,2015,W,ASTU,100,B,OVERALL,1st Year CAP Seminar,,118,73.127118644,7.728896395,87.0,32.0,,,,5,9,17,29,26,25,,0
+UBCV,2015,W,ASTU,100,B,P01,1st Year CAP Seminar,Tiffany Johnstone;Tiffany Taylor Elise Johnstone,24,76.25,5.651086852,87.0,62.0,0,0,0,,,,5,6,9,,0
+UBCV,2015,W,ASTU,100,B,P02,1st Year CAP Seminar,Tiffany Johnstone;Tiffany Taylor Elise Johnstone,23,73.47826087,10.130375409,83.0,32.0,,,,,,,7,,7,0,0
+UBCV,2015,W,ASTU,100,B,P03,1st Year CAP Seminar,Simon Rolston,22,72.136363636,7.76619938,84.0,55.0,0,0,,,,6,,5,,0,0
+UBCV,2015,W,ASTU,100,B,P04,1st Year CAP Seminar,Laila Ferreira,25,73.36,6.054474929,84.0,59.0,0,0,,,,,9,,5,0,0
+UBCV,2015,W,ASTU,100,B,P05,1st Year CAP Seminar,Laila Ferreira,24,70.333333333,7.811177424,82.0,50.0,0,,,,,,,7,,0,0
+UBCV,2015,W,ASTU,201,,001,"Canada, Japan and the Pacific: Cultural Studies",Darrin Lehman;Darrin R Lehman;Jennifer Ritchie,95,65.8,14.186898361,95.0,0.0,6,9,7,16,11,13,10,10,8,,
+UBCV,2015,W,ASTU,201,,OVERALL,"Canada, Japan and the Pacific: Cultural Studies",,95,65.8,14.186898361,95.0,0.0,6,9,7,16,11,13,10,10,8,,
+UBCV,2015,W,ASTU,202,,001,"Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives",James Francis Glassman,85,64.752941176,12.697868102,81.0,22.0,7,,7,6,13,25,17,,,0,0
+UBCV,2015,W,ASTU,202,,OVERALL,"Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives",,85,64.752941176,12.697868102,81.0,22.0,7,,7,6,13,25,17,,,0,0
+UBCV,2015,W,ASTU,204,A,OVERALL,Topics in Interdisciplinary Studies in the Humanities,,141,55.432624113,11.654738438,77.0,0.0,17,49,24,17,17,8,8,1.0,0,0,0
+UBCV,2015,W,ASTU,204,A,V01,Topics in Interdisciplinary Studies in the Humanities,Katja Thieme,26,61.307692308,14.101827487,77.0,21.0,,2,,,5,,5,1.0,0,0,0
+UBCV,2015,W,ASTU,204,A,V02,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,27,52.740740741,7.930431129,70.0,35.0,,14,,,,,0,0,0,0,0
+UBCV,2015,W,ASTU,204,A,V03,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,30,55.533333333,4.344900565,66.0,50.0,0,14,11,,,0,0,0,0,0,0
+UBCV,2015,W,ASTU,204,A,V06,Topics in Interdisciplinary Studies in the Humanities,Nazih El-Bezre,29,53.931034483,13.103791803,73.0,0.0,,13,,,,,,0,0,0,0
+UBCV,2015,W,ASTU,204,A,VM2,Topics in Interdisciplinary Studies in the Humanities,Jaclyn Rea,29,54.068965517,14.44430445,72.0,20.0,6,6,5,,,,,0,0,0,0
+UBCV,2015,W,ASTU,210,,001,"Global Citizenship, Part 1: Introduction",Reginald D'Silva,7,81.0,8.640987598,91.0,65.0,0,0,0,0,,,,,,,
+UBCV,2015,W,ASTU,210,,OVERALL,"Global Citizenship, Part 1: Introduction",,7,81.0,8.640987598,91.0,65.0,0,0,0,0,,,,,,,
 UBCV,2015,W,ASTU,400,A,001,Interdisciplinary Studies in Arts,Patricia Kelly,25,71.52,13.200757554,90.0,35.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,A,002,Interdisciplinary Studies in Arts,Diana Wegner,19,78.315789474,5.925956384,86.0,66.0,,,,,,,5,,8,,
+UBCV,2015,W,ASTU,400,A,002,Interdisciplinary Studies in Arts,Diana Wegner,19,78.315789474,5.925956384,86.0,66.0,0,0,0,0,,,5,,8,,0
 UBCV,2015,W,ASTU,400,A,011,Interdisciplinary Studies in Arts,Katherine Power,22,67.636363636,23.026993383,92.0,0.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,A,013,Interdisciplinary Studies in Arts,Katja Thieme,16,76.75,9.291573243,87.0,52.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,A,OVERALL,Interdisciplinary Studies in Arts,,82,73.073170732,15.191599764000001,92.0,0.0,,,5,,6,9,10,9,17,14,
-UBCV,2015,W,ASTU,400,N,001,Interdisciplinary Studies in Arts,,13,84.615384615,10.492365967000001,98.0,64.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,N,OVERALL,Interdisciplinary Studies in Arts,,13,84.615384615,10.492365967000001,98.0,64.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,P,001,Interdisciplinary Studies in Arts,,12,84.166666667,8.054736984,95.0,65.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,P,OVERALL,Interdisciplinary Studies in Arts,,12,84.166666667,8.054736984,95.0,65.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,T,001,Interdisciplinary Studies in Arts,,7,91.85714285700001,1.463850109,94.0,90.0,,,,,,,,,,,7
-UBCV,2015,W,ASTU,400,T,OVERALL,Interdisciplinary Studies in Arts,,7,91.85714285700001,1.463850109,94.0,90.0,,,,,,,,,,,7
-UBCV,2015,W,ASTU,400,U,001,Interdisciplinary Studies in Arts,,10,85.3,4.164666186,91.0,79.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,U,OVERALL,Interdisciplinary Studies in Arts,,10,85.3,4.164666186,91.0,79.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,V,001,Interdisciplinary Studies in Arts,,7,80.857142857,7.537209285,91.0,68.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,V,OVERALL,Interdisciplinary Studies in Arts,,7,80.857142857,7.537209285,91.0,68.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,W,001,Interdisciplinary Studies in Arts,,9,90.333333333,3.605551275,95.0,84.0,,,,,,,,,,,6
-UBCV,2015,W,ASTU,400,W,OVERALL,Interdisciplinary Studies in Arts,,9,90.333333333,3.605551275,95.0,84.0,,,,,,,,,,,6
-UBCV,2015,W,ASTU,400,X,001,Interdisciplinary Studies in Arts,,10,87.4,4.90351348,95.0,80.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,X,OVERALL,Interdisciplinary Studies in Arts,,10,87.4,4.90351348,95.0,80.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,Y,001,Interdisciplinary Studies in Arts,,12,87.5,10.157845154,95.0,57.0,,,,,,,,,,,7
-UBCV,2015,W,ASTU,400,Y,OVERALL,Interdisciplinary Studies in Arts,,12,87.5,10.157845154,95.0,57.0,,,,,,,,,,,7
-UBCV,2015,W,ASTU,400,Z,001,Interdisciplinary Studies in Arts,,5,83.4,3.78153408,89.0,80.0,,,,,,,,,,,
-UBCV,2015,W,ASTU,400,Z,OVERALL,Interdisciplinary Studies in Arts,,5,83.4,3.78153408,89.0,80.0,,,,,,,,,,,
+UBCV,2015,W,ASTU,400,A,013,Interdisciplinary Studies in Arts,Katja Thieme,16,76.75,9.291573243,87.0,52.0,0,,,,,,,,,,0
+UBCV,2015,W,ASTU,400,A,OVERALL,Interdisciplinary Studies in Arts,,82,73.073170732,15.191599764,92.0,0.0,,,5,,6,9,10,9,17,14,
+UBCV,2015,W,ASTU,400,N,001,Interdisciplinary Studies in Arts,,13,84.615384615,10.492365967,98.0,64.0,0,0,0,0,,,,,,,
+UBCV,2015,W,ASTU,400,N,OVERALL,Interdisciplinary Studies in Arts,,13,84.615384615,10.492365967,98.0,64.0,0,0,0,0,,,,,,,
+UBCV,2015,W,ASTU,400,P,001,Interdisciplinary Studies in Arts,,12,84.166666667,8.054736984,95.0,65.0,0,0,0,0,,,,,,,
+UBCV,2015,W,ASTU,400,P,OVERALL,Interdisciplinary Studies in Arts,,12,84.166666667,8.054736984,95.0,65.0,0,0,0,0,,,,,,,
+UBCV,2015,W,ASTU,400,T,001,Interdisciplinary Studies in Arts,,7,91.857142857,1.463850109,94.0,90.0,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2015,W,ASTU,400,T,OVERALL,Interdisciplinary Studies in Arts,,7,91.857142857,1.463850109,94.0,90.0,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2015,W,ASTU,400,U,001,Interdisciplinary Studies in Arts,,10,85.3,4.164666186,91.0,79.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,ASTU,400,U,OVERALL,Interdisciplinary Studies in Arts,,10,85.3,4.164666186,91.0,79.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,ASTU,400,V,001,Interdisciplinary Studies in Arts,,7,80.857142857,7.537209285,91.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,ASTU,400,V,OVERALL,Interdisciplinary Studies in Arts,,7,80.857142857,7.537209285,91.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,ASTU,400,W,001,Interdisciplinary Studies in Arts,,9,90.333333333,3.605551275,95.0,84.0,0,0,0,0,0,0,0,0,,,6
+UBCV,2015,W,ASTU,400,W,OVERALL,Interdisciplinary Studies in Arts,,9,90.333333333,3.605551275,95.0,84.0,0,0,0,0,0,0,0,0,,,6
+UBCV,2015,W,ASTU,400,X,001,Interdisciplinary Studies in Arts,,10,87.4,4.90351348,95.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,ASTU,400,X,OVERALL,Interdisciplinary Studies in Arts,,10,87.4,4.90351348,95.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,ASTU,400,Y,001,Interdisciplinary Studies in Arts,,12,87.5,10.157845154,95.0,57.0,0,0,,,,,,,,,7
+UBCV,2015,W,ASTU,400,Y,OVERALL,Interdisciplinary Studies in Arts,,12,87.5,10.157845154,95.0,57.0,0,0,,,,,,,,,7
+UBCV,2015,W,ASTU,400,Z,001,Interdisciplinary Studies in Arts,,5,83.4,3.78153408,89.0,80.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,ASTU,400,Z,OVERALL,Interdisciplinary Studies in Arts,,5,83.4,3.78153408,89.0,80.0,0,0,0,0,0,0,0,0,,,0

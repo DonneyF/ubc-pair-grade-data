@@ -1,19 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,ENVR,200,,101,Introduction to Environmental Science,Hannah Barnard-Chumik;Michael Lipsen;Tara Ivanochko,46,76.913043478,16.010865876,90.0,0.0,,,,,,,,4,14,16,
-UBCV,2019,W,ENVR,200,,201,Introduction to Environmental Science,Gunilla Oberg;Hannah Barnard-Chumik;Luis Gonzalez Torres;Michael Lipsen,43,81.976744186,5.889815147999999,91.0,58.0,,,,,,,,9,13,15,
-UBCV,2019,W,ENVR,200,,OVERALL,Introduction to Environmental Science,,89,79.359550562,12.41447761,91.0,0.0,,,,,,,5,13,27,31,5
-UBCV,2019,W,ENVR,300,,201,Introduction to Research in Environmental Science,Michael Lipsen;Neha Sharma;Tara Ivanochko;Valentina Radic,50,81.4,8.25610473,90.0,43.0,,,,,,,,,20,19,
-UBCV,2019,W,ENVR,300,,OVERALL,Introduction to Research in Environmental Science,,50,81.4,8.25610473,90.0,43.0,,,,,,,,,20,19,
-UBCV,2019,W,ENVR,400,,001,Community Project in Environmental Science,Maayan Kreitzman;Michael Lipsen;Tara Ivanochko,50,85.0,5.318431563,93.0,60.0,,,,,,,,,12,26,7
-UBCV,2019,W,ENVR,400,,OVERALL,Community Project in Environmental Science,,50,85.0,5.318431563,93.0,60.0,,,,,,,,,12,26,7
-UBCV,2019,W,ENVR,410,,201,"Energy, Environment, and Society",Amanda Giang;Remzi Marenglen Xhemalce Fuentes;Theresa Satterfield,49,85.979591837,4.939170797,93.0,68.0,,,,,,,,,8,25,12
-UBCV,2019,W,ENVR,410,,OVERALL,"Energy, Environment, and Society",,49,85.979591837,4.939170797,93.0,68.0,,,,,,,,,8,25,12
-UBCV,2019,W,ENVR,420,,101,Ecohydrology of Watersheds and Water Systems,Hannah Mcsorley;Mark Johnson,28,84.25,5.96672874,91.0,68.0,,,,,,,,,5,13,6
-UBCV,2019,W,ENVR,420,,OVERALL,Ecohydrology of Watersheds and Water Systems,,28,84.25,5.96672874,91.0,68.0,,,,,,,,,5,13,6
-UBCV,2019,W,ENVR,430,,101,Ecological Dimensions of Sustainability,Allison Cutting;Allison Nicole Cutting;John Driscoll;Kai Chan,50,88.12,5.2319271039999995,98.0,65.0,,,,,,,,,,24,19
-UBCV,2019,W,ENVR,430,,OVERALL,Ecological Dimensions of Sustainability,,50,88.12,5.2319271039999995,98.0,65.0,,,,,,,,,,24,19
-UBCV,2019,W,ENVR,440,,201,Analytical Methods in Sustainability Science,Juan Diego Martinez Quijano;Navin Ramankutty,25,84.48,9.34576553,97.0,62.0,,,,,,,,,8,6,8
-UBCV,2019,W,ENVR,440,,OVERALL,Analytical Methods in Sustainability Science,,25,84.48,9.34576553,97.0,62.0,,,,,,,,,8,6,8
-UBCV,2019,W,ENVR,448,A,101,Directed Studies in Environmental Science,Tara Ivanochko,9,86.111111111,1.536590743,88.0,84.0,,,,,,,,,,8,4
-UBCV,2019,W,ENVR,448,A,202,Directed Studies in Environmental Science,Sara Dawn Whitfield Elder;Sara Elder,7,89.0,4.795831523,93.0,80.0,,,,,,,,,,3,5
-UBCV,2019,W,ENVR,448,A,OVERALL,Directed Studies in Environmental Science,,24,87.166666667,3.5221864089999997,93.0,80.0,,,,,,,,,,11,9
+UBCV,2019,W,ENVR,200,,101,Introduction to Environmental Science,Hannah Barnard-Chumik;Michael Lipsen;Tara Ivanochko,46,76.91304348,16.01086588,90.0,0.0,3,0.0,0,1,2,1,4.0,4,14,16,1
+UBCV,2019,W,ENVR,200,,201,Introduction to Environmental Science,Gunilla Oberg;Hannah Barnard-Chumik;Luis Gonzalez Torres;Michael Lipsen,43,81.97674419,5.889815148,91.0,58.0,0,0.0,1,0,0,0,1.0,9,13,15,4
+UBCV,2019,W,ENVR,200,,OVERALL,Introduction to Environmental Science,,89,79.35955056,12.41447761,91.0,0.0,3,0.0,1,1,2,1,5.0,13,27,31,5
+UBCV,2019,W,ENVR,300,,201,Introduction to Research in Environmental Science,Michael Lipsen;Neha Sharma;Tara Ivanochko;Valentina Radic,50,81.4,8.25610473,90.0,43.0,1,0.0,0,1,2,0,2.0,3,20,19,2
+UBCV,2019,W,ENVR,300,,OVERALL,Introduction to Research in Environmental Science,,50,81.4,8.25610473,90.0,43.0,1,0.0,0,1,2,0,2.0,3,20,19,2
+UBCV,2019,W,ENVR,400,,001,Community Project in Environmental Science,Maayan Kreitzman;Michael Lipsen;Tara Ivanochko,50,85.0,5.318431563,93.0,60.0,0,0.0,0,1,0,0,1.0,3,12,26,7
+UBCV,2019,W,ENVR,400,,OVERALL,Community Project in Environmental Science,,50,85.0,5.318431563,93.0,60.0,0,0.0,0,1,0,0,1.0,3,12,26,7
+UBCV,2019,W,ENVR,410,,201,"Energy, Environment, and Society",Amanda Giang;Remzi Marenglen Xhemalce Fuentes;Theresa Satterfield,49,85.97959184,4.939170797,93.0,68.0,0,0.0,0,0,0,2,0.0,2,8,25,12
+UBCV,2019,W,ENVR,410,,OVERALL,"Energy, Environment, and Society",,49,85.97959184,4.939170797,93.0,68.0,0,0.0,0,0,0,2,0.0,2,8,25,12
+UBCV,2019,W,ENVR,420,,101,Ecohydrology of Watersheds and Water Systems,Hannah Mcsorley;Mark Johnson,28,84.25,5.96672874,91.0,68.0,0,0.0,0,0,0,2,0.0,2,5,13,6
+UBCV,2019,W,ENVR,420,,OVERALL,Ecohydrology of Watersheds and Water Systems,,28,84.25,5.96672874,91.0,68.0,0,0.0,0,0,0,2,0.0,2,5,13,6
+UBCV,2019,W,ENVR,430,,101,Ecological Dimensions of Sustainability,Allison Cutting;Allison Nicole Cutting;John Driscoll;Kai Chan,50,88.12,5.231927104,98.0,65.0,0,0.0,0,0,1,0,0.0,2,4,24,19
+UBCV,2019,W,ENVR,430,,OVERALL,Ecological Dimensions of Sustainability,,50,88.12,5.231927104,98.0,65.0,0,0.0,0,0,1,0,0.0,2,4,24,19
+UBCV,2019,W,ENVR,440,,201,Analytical Methods in Sustainability Science,Juan Diego Martinez Quijano;Navin Ramankutty,25,84.48,9.34576553,97.0,62.0,0,0.0,0,2,1,0,0.0,0,8,6,8
+UBCV,2019,W,ENVR,440,,OVERALL,Analytical Methods in Sustainability Science,,25,84.48,9.34576553,97.0,62.0,0,0.0,0,2,1,0,0.0,0,8,6,8
+UBCV,2019,W,ENVR,448,A,101,Directed Studies in Environmental Science,Tara Ivanochko,9,86.11111111,1.536590743,88.0,84.0,0,0.0,0,0,0,0,0.0,0,1,8,0
+UBCV,2019,W,ENVR,448,A,202,Directed Studies in Environmental Science,Sara Dawn Whitfield Elder;Sara Elder,7,89.0,4.795831523,93.0,80.0,0,0.0,0,0,0,0,0.0,0,1,1,5
+UBCV,2019,W,ENVR,448,A,OVERALL,Directed Studies in Environmental Science,,24,87.16666667,3.522186409,93.0,80.0,0,0.0,0,0,0,0,0.0,0,4,11,9

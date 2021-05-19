@@ -1,20 +1,20 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,S,CHIN,134,,921,Intensive Basic Chinese I (Non-Heritage),Jiao Jiao Han;Qian Wang;Shuang Li,17,77.588235294,14.146814232999999,93.0,35.0,,,,,,,,,,5,
-UBCV,2018,S,CHIN,134,,OVERALL,Intensive Basic Chinese I (Non-Heritage),,17,77.588235294,14.146814232999999,93.0,35.0,,,,,,,,,,5,
-UBCV,2018,S,CHIN,234,,951,Intensive Basic Chinese II (Non-Heritage),Chengmin Su;Ming Zhu Lu;Qian Wang,18,79.722222222,6.560178939,92.0,69.0,,,,,,,,,5,,
-UBCV,2018,S,CHIN,234,,OVERALL,Intensive Basic Chinese II (Non-Heritage),,18,79.722222222,6.560178939,92.0,69.0,,,,,,,,,5,,
-UBCV,2018,S,CHIN,334,,921,Intensive Intermediate Chinese I (Non-Heritage),Hsiang-Ning Wang;Qian Wang;Yuanyuan. Ding,14,78.5,4.238105527,86.0,69.0,,,,,,,,7,,,
-UBCV,2018,S,CHIN,334,,OVERALL,Intensive Intermediate Chinese I (Non-Heritage),,14,78.5,4.238105527,86.0,69.0,,,,,,,,7,,,
-UBCV,2018,S,CHIN,338,,951,Intensive Intermediate Chinese II (Non-Heritage),Qian Wang;Xinxin Wu;Yiru Wang,9,81.333333333,6.062177826,93.0,73.0,,,,,,,,,,,
-UBCV,2018,S,CHIN,338,,OVERALL,Intensive Intermediate Chinese II (Non-Heritage),,9,81.333333333,6.062177826,93.0,73.0,,,,,,,,,,,
-UBCV,2018,S,CHIN,464,,921,Early Classical Chinese Poetry (Intensive),Huai-Chuan Mou;Qian Wang;Xue Shun Liu,55,76.127272727,7.461145145,89.0,60.0,,,,,6,,8,16,10,8,
-UBCV,2018,S,CHIN,464,,OVERALL,Early Classical Chinese Poetry (Intensive),,55,76.127272727,7.461145145,89.0,60.0,,,,,6,,8,16,10,8,
-UBCV,2018,S,CHIN,474,,951,Later Classical Chinese Poetry (Intensive),Qian Wang;Xue Shun Liu,63,75.26984127,6.40867947,88.0,61.0,,,,,,14,17,6,16,5,
-UBCV,2018,S,CHIN,474,,OVERALL,Later Classical Chinese Poetry (Intensive),,63,75.26984127,6.40867947,88.0,61.0,,,,,,14,17,6,16,5,
-UBCV,2018,S,CHIN,482,A,921,Supervised Study in the Chinese Language,Qian Wang;Xiaowen Xu,20,74.8,8.550777127,88.0,51.0,,,,,,,5,,,,
-UBCV,2018,S,CHIN,482,A,OVERALL,Supervised Study in the Chinese Language,,20,74.8,8.550777127,88.0,51.0,,,,,,,5,,,,
-UBCV,2018,S,CHIN,484,,921,Intensive Modern Chinese Literature (Heritage),Maorong Cheng;Qian Wang,60,78.2,5.068346436000001,86.0,45.0,,,,,,0,1,39,15,4,
-UBCV,2018,S,CHIN,484,,951,Intensive Modern Chinese Literature (Heritage),Qian Wang;Zhining Zheng,62,77.370967742,5.695076594,89.0,62.0,,,,,,9,8,23,16,5,
-UBCV,2018,S,CHIN,484,,OVERALL,Intensive Modern Chinese Literature (Heritage),,122,77.778688525,5.38978571,89.0,45.0,,,,,,9,9,62,31,9,
-UBCV,2018,S,CHIN,494,,921,Intensive Classical Chinese (Heritage),Bin Zheng;Qian Wang;Yinzong Wei,53,77.547169811,6.62038239,89.0,64.0,,,,,,8,10,13,9,10,
-UBCV,2018,S,CHIN,494,,OVERALL,Intensive Classical Chinese (Heritage),,53,77.547169811,6.62038239,89.0,64.0,,,,,,8,10,13,9,10,
+UBCV,2018,S,CHIN,134,,921,Intensive Basic Chinese I (Non-Heritage),Jiao Jiao Han;Qian Wang;Shuang Li,17,77.58823529,14.14681423,93.0,35.0,1,0,1,0,0.0,0,3,3,3,5,1
+UBCV,2018,S,CHIN,134,,OVERALL,Intensive Basic Chinese I (Non-Heritage),,17,77.58823529,14.14681423,93.0,35.0,1,0,1,0,0.0,0,3,3,3,5,1
+UBCV,2018,S,CHIN,234,,951,Intensive Basic Chinese II (Non-Heritage),Chengmin Su;Ming Zhu Lu;Qian Wang,18,79.72222222,6.560178939,92.0,69.0,0,0,0,0,0.0,3,1,4,5,4,1
+UBCV,2018,S,CHIN,234,,OVERALL,Intensive Basic Chinese II (Non-Heritage),,18,79.72222222,6.560178939,92.0,69.0,0,0,0,0,0.0,3,1,4,5,4,1
+UBCV,2018,S,CHIN,334,,921,Intensive Intermediate Chinese I (Non-Heritage),Hsiang-Ning Wang;Qian Wang;Yuanyuan. Ding,14,78.5,4.238105527,86.0,69.0,0,0,0,0,0.0,1,1,7,4,1,0
+UBCV,2018,S,CHIN,334,,OVERALL,Intensive Intermediate Chinese I (Non-Heritage),,14,78.5,4.238105527,86.0,69.0,0,0,0,0,0.0,1,1,7,4,1,0
+UBCV,2018,S,CHIN,338,,951,Intensive Intermediate Chinese II (Non-Heritage),Qian Wang;Xinxin Wu;Yiru Wang,9,81.33333333,6.062177826,93.0,73.0,0,0,0,0,0.0,0,1,3,3,1,1
+UBCV,2018,S,CHIN,338,,OVERALL,Intensive Intermediate Chinese II (Non-Heritage),,9,81.33333333,6.062177826,93.0,73.0,0,0,0,0,0.0,0,1,3,3,1,1
+UBCV,2018,S,CHIN,464,,921,Early Classical Chinese Poetry (Intensive),Huai-Chuan Mou;Qian Wang;Xue Shun Liu,55,76.12727273,7.461145145,89.0,60.0,0,0,0,3,6.0,4,8,16,10,8,0
+UBCV,2018,S,CHIN,464,,OVERALL,Early Classical Chinese Poetry (Intensive),,55,76.12727273,7.461145145,89.0,60.0,0,0,0,3,6.0,4,8,16,10,8,0
+UBCV,2018,S,CHIN,474,,951,Later Classical Chinese Poetry (Intensive),Qian Wang;Xue Shun Liu,63,75.26984127,6.40867947,88.0,61.0,0,0,0,2,3.0,14,17,6,16,5,0
+UBCV,2018,S,CHIN,474,,OVERALL,Later Classical Chinese Poetry (Intensive),,63,75.26984127,6.40867947,88.0,61.0,0,0,0,2,3.0,14,17,6,16,5,0
+UBCV,2018,S,CHIN,482,A,921,Supervised Study in the Chinese Language,Qian Wang;Xiaowen Xu,20,74.8,8.550777127,88.0,51.0,0,1,0,0,2.0,3,5,4,2,3,0
+UBCV,2018,S,CHIN,482,A,OVERALL,Supervised Study in the Chinese Language,,20,74.8,8.550777127,88.0,51.0,0,1,0,0,2.0,3,5,4,2,3,0
+UBCV,2018,S,CHIN,484,,921,Intensive Modern Chinese Literature (Heritage),Maorong Cheng;Qian Wang,60,78.2,5.068346436,86.0,45.0,1,0,0,0,0.0,0,1,39,15,4,0
+UBCV,2018,S,CHIN,484,,951,Intensive Modern Chinese Literature (Heritage),Qian Wang;Zhining Zheng,62,77.37096774,5.695076594,89.0,62.0,0,0,0,1,0.0,9,8,23,16,5,0
+UBCV,2018,S,CHIN,484,,OVERALL,Intensive Modern Chinese Literature (Heritage),,122,77.77868853,5.38978571,89.0,45.0,1,0,0,1,0.0,9,9,62,31,9,0
+UBCV,2018,S,CHIN,494,,921,Intensive Classical Chinese (Heritage),Bin Zheng;Qian Wang;Yinzong Wei,53,77.54716981,6.62038239,89.0,64.0,0,0,0,0,3.0,8,10,13,9,10,0
+UBCV,2018,S,CHIN,494,,OVERALL,Intensive Classical Chinese (Heritage),,53,77.54716981,6.62038239,89.0,64.0,0,0,0,0,3.0,8,10,13,9,10,0

@@ -1,86 +1,86 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,EDCP,303,,001,Ceramic Design and Pedagogical Approaches: Art Education,Alexander De Cosson,20,89.75,4.744803251,98.0,81.0,,,,,,,,,,6,11
-UBCV,2014,W,EDCP,303,,OVERALL,Ceramic Design and Pedagogical Approaches: Art Education,,20,89.75,4.744803251,98.0,81.0,,,,,,,,,,6,11
-UBCV,2014,W,EDCP,304,,001,Textile Design and Pedagogical Approaches: Art Education,Nane Jordan,21,88.42857143,3.155494075,94.0,82.0,,,,,,,,,,11,7
-UBCV,2014,W,EDCP,304,,OVERALL,Textile Design and Pedagogical Approaches: Art Education,,21,88.42857143,3.155494075,94.0,82.0,,,,,,,,,,11,7
-UBCV,2014,W,EDCP,305,,301,Digital Media in Arts Education: Introduction,Daniel Bakan,22,85.63636364,3.032293718,91.0,79.0,,,,,,,,,6,12,
-UBCV,2014,W,EDCP,305,,OVERALL,Digital Media in Arts Education: Introduction,,22,85.63636364,3.032293718,91.0,79.0,,,,,,,,,6,12,
-UBCV,2014,W,EDCP,312,A,301,Instrumental Pedagogy: Secondary,Karen Lee,22,89.54545455,4.817895932,95.0,75.0,,,,,,,,,,,15
-UBCV,2014,W,EDCP,312,A,OVERALL,Instrumental Pedagogy: Secondary,,22,89.54545455,4.817895932,95.0,75.0,,,,,,,,,,,15
+UBCV,2014,W,EDCP,303,,001,Ceramic Design and Pedagogical Approaches: Art Education,Alexander De Cosson,20,89.75,4.744803251,98.0,81.0,0,0,0,0,0,0,0,0,3.0,6,11
+UBCV,2014,W,EDCP,303,,OVERALL,Ceramic Design and Pedagogical Approaches: Art Education,,20,89.75,4.744803251,98.0,81.0,0,0,0,0,0,0,0,0,3.0,6,11
+UBCV,2014,W,EDCP,304,,001,Textile Design and Pedagogical Approaches: Art Education,Nane Jordan,21,88.42857143,3.155494075,94.0,82.0,0,0,0,0,0,0,0,0,3.0,11,7
+UBCV,2014,W,EDCP,304,,OVERALL,Textile Design and Pedagogical Approaches: Art Education,,21,88.42857143,3.155494075,94.0,82.0,0,0,0,0,0,0,0,0,3.0,11,7
+UBCV,2014,W,EDCP,305,,301,Digital Media in Arts Education: Introduction,Daniel Bakan,22,85.63636364,3.032293718,91.0,79.0,0,0,0,0,0,0,0,,6,12,
+UBCV,2014,W,EDCP,305,,OVERALL,Digital Media in Arts Education: Introduction,,22,85.63636364,3.032293718,91.0,79.0,0,0,0,0,0,0,0,,6,12,
+UBCV,2014,W,EDCP,312,A,301,Instrumental Pedagogy: Secondary,Karen Lee,22,89.54545455,4.817895932,95.0,75.0,0,0,0,0,0,0,,,,,15
+UBCV,2014,W,EDCP,312,A,OVERALL,Instrumental Pedagogy: Secondary,,22,89.54545455,4.817895932,95.0,75.0,0,0,0,0,0,0,,,,,15
 UBCV,2014,W,EDCP,313,A,301,Choral Pedagogy: Secondary,Scott Goble,26,78.5,19.24629835,95.0,0.0,,,,,,,,,6,,7
 UBCV,2014,W,EDCP,313,A,OVERALL,Choral Pedagogy: Secondary,,26,78.5,19.24629835,95.0,0.0,,,,,,,,,6,,7
-UBCV,2014,W,EDCP,362,B,301,Curriculum Design and Evaluation: Practical and Theoretical Issues,Jennifer Johnson,15,86.93333333,3.081434422,90.0,80.0,,,,,,,,,,10,
-UBCV,2014,W,EDCP,362,B,OVERALL,Curriculum Design and Evaluation: Practical and Theoretical Issues,,15,86.93333333,3.081434422,90.0,80.0,,,,,,,,,,10,
-UBCV,2014,W,EDCP,362,D,377,Curriculum Design and Evaluation: Practical and Theoretical Issues,Tracy Friedel,9,75.22222222,13.61779881,96.0,57.0,,,,,,,,,,,
+UBCV,2014,W,EDCP,362,B,301,Curriculum Design and Evaluation: Practical and Theoretical Issues,Jennifer Johnson,15,86.93333333,3.081434422,90.0,80.0,0,0,0,0,0,0,0,0,,10,
+UBCV,2014,W,EDCP,362,B,OVERALL,Curriculum Design and Evaluation: Practical and Theoretical Issues,,15,86.93333333,3.081434422,90.0,80.0,0,0,0,0,0,0,0,0,,10,
+UBCV,2014,W,EDCP,362,D,377,Curriculum Design and Evaluation: Practical and Theoretical Issues,Tracy Friedel,9,75.22222222,13.61779881,96.0,57.0,0,0,,,,,,,,,
 UBCV,2014,W,EDCP,362,D,628,Curriculum Design and Evaluation: Practical and Theoretical Issues,,6,70.66666667,23.99722206,98.0,30.0,,,,,,,,,,,
 UBCV,2014,W,EDCP,362,D,OVERALL,Curriculum Design and Evaluation: Practical and Theoretical Issues,,15,73.4,17.80369143,98.0,30.0,,,,,,,,,,,
-UBCV,2014,W,EDCP,377,,301,Design and Technology II - Secondary: Curriculum and Pedagogy,Theresa Magee,21,90.33333333,5.294651388999999,99.0,80.0,,,,,,,,,,5,13
-UBCV,2014,W,EDCP,377,,OVERALL,Design and Technology II - Secondary: Curriculum and Pedagogy,,21,90.33333333,5.294651388999999,99.0,80.0,,,,,,,,,,5,13
-UBCV,2014,W,EDCP,412,,301,Conducting and Rehearsal Techniques for Teachers,Scott Goble,21,85.04761905,6.192545442,96.0,75.0,,,,,,,,5,,7,5
-UBCV,2014,W,EDCP,412,,OVERALL,Conducting and Rehearsal Techniques for Teachers,,21,85.04761905,6.192545442,96.0,75.0,,,,,,,,5,,7,5
-UBCV,2014,W,EDCP,442,,301,Mathematics History for Teachers,Calin Lucus,22,93.90909091,3.2937038189999996,97.0,86.0,,,,,,,,,,,19
-UBCV,2014,W,EDCP,442,,OVERALL,Mathematics History for Teachers,,22,93.90909091,3.2937038189999996,97.0,86.0,,,,,,,,,,,19
-UBCV,2014,W,EDCP,491,,63A,Home Economics II - Secondary: Curriculum and Pedagogy,Mary-Leah Dezwart,25,83.76,8.666410252999999,97.0,51.0,,,,,,,,,9,7,5
-UBCV,2014,W,EDCP,491,,OVERALL,Home Economics II - Secondary: Curriculum and Pedagogy,,25,83.76,8.666410252999999,97.0,51.0,,,,,,,,,9,7,5
-UBCV,2014,W,EDCP,492,,63C,Special Study in Home Economics: Textile Studies,Susan Turnbull Caton,22,84.54545455,8.116574886,92.0,51.0,,,,,,,,,,15,
-UBCV,2014,W,EDCP,492,,OVERALL,Special Study in Home Economics: Textile Studies,,22,84.54545455,8.116574886,92.0,51.0,,,,,,,,,,15,
-UBCV,2014,W,EDCP,493,,63A,Special Study in Home Economics: Foods Studies,Jennifer Johnson,25,86.04,2.507987241,92.0,82.0,,,,,,,,,7,17,
-UBCV,2014,W,EDCP,493,,OVERALL,Special Study in Home Economics: Foods Studies,,25,86.04,2.507987241,92.0,82.0,,,,,,,,,7,17,
-UBCV,2014,W,EDCP,498,,63C,Curriculum Inquiry in Home Economics Education,Kerry Renwick,25,86.24,5.54737175,95.0,71.0,,,,,,,,,,11,9
-UBCV,2014,W,EDCP,498,,OVERALL,Curriculum Inquiry in Home Economics Education,,25,86.24,5.54737175,95.0,71.0,,,,,,,,,,11,9
-UBCV,2014,W,EDCP,504,A,031,Review of Research in Art Education: Theory and Practice,Donal O'Donoghue,8,88.875,3.8706773119999998,93.0,82.0,,,,,,,,,,,5
-UBCV,2014,W,EDCP,504,A,OVERALL,Review of Research in Art Education: Theory and Practice,,8,88.875,3.8706773119999998,93.0,82.0,,,,,,,,,,,5
-UBCV,2014,W,EDCP,505,,031,Review of Research in Music Education: Theory and Practice,Peter Gouzouasis,16,88.5,4.258325179,95.0,78.0,,,,,,,,,,5,9
-UBCV,2014,W,EDCP,505,,OVERALL,Review of Research in Music Education: Theory and Practice,,16,88.5,4.258325179,95.0,78.0,,,,,,,,,,5,9
-UBCV,2014,W,EDCP,508,,032,Review of Research in Curriculum and Pedagogy,Eddie Wayne Ross,11,92.63636364,3.4719656469999998,96.0,86.0,,,,,,,,,,2,9
-UBCV,2014,W,EDCP,508,,62A,Review of Research in Curriculum and Pedagogy,Mary Gale Smith;Mary Smith,20,89.45,3.8453663160000002,95.0,82.0,,,,,,,,,,7,11
-UBCV,2014,W,EDCP,508,,62B,Review of Research in Curriculum and Pedagogy,David Beare,16,88.5625,3.4052655310000004,94.0,82.0,,,,,,,,,,8,6
-UBCV,2014,W,EDCP,508,,OVERALL,Review of Research in Curriculum and Pedagogy,,47,89.89361702,3.8742968089999996,96.0,82.0,,,,,,,,,,17,26
-UBCV,2014,W,EDCP,510,,032,"Video Ethnography in Education Research: Culture, Technology, and Interpretation",Lisa Loutzenheiser,8,88.5,2.507132682,91.0,83.0,,,,,,,,,,5,
-UBCV,2014,W,EDCP,510,,OVERALL,"Video Ethnography in Education Research: Culture, Technology, and Interpretation",,8,88.5,2.507132682,91.0,83.0,,,,,,,,,,5,
-UBCV,2014,W,EDCP,512,A,031,Education Action Research,Cynthia Nicol,13,89.53846154,4.665750826,95.0,80.0,,,,,,,,,,5,6
-UBCV,2014,W,EDCP,512,A,OVERALL,Education Action Research,,13,89.53846154,4.665750826,95.0,80.0,,,,,,,,,,5,6
-UBCV,2014,W,EDCP,514,,032,Arts-Based Educational Research: A/r/tography,Rita Irwin,10,90.4,5.168279318,96.0,80.0,,,,,,,,,,,6
-UBCV,2014,W,EDCP,514,,OVERALL,Arts-Based Educational Research: A/r/tography,,10,90.4,5.168279318,96.0,80.0,,,,,,,,,,,6
-UBCV,2014,W,EDCP,523,A,031,Seminar in Art Education,Michael Parsons,12,86.41666667,6.8152013689999995,96.0,74.0,,,,,,,,,,5,
-UBCV,2014,W,EDCP,523,A,OVERALL,Seminar in Art Education,,12,86.41666667,6.8152013689999995,96.0,74.0,,,,,,,,,,5,
+UBCV,2014,W,EDCP,377,,301,Design and Technology II - Secondary: Curriculum and Pedagogy,Theresa Magee,21,90.33333333,5.294651389,99.0,80.0,0,0,0,0,0,0,0,0,3.0,5,13
+UBCV,2014,W,EDCP,377,,OVERALL,Design and Technology II - Secondary: Curriculum and Pedagogy,,21,90.33333333,5.294651389,99.0,80.0,0,0,0,0,0,0,0,0,3.0,5,13
+UBCV,2014,W,EDCP,412,,301,Conducting and Rehearsal Techniques for Teachers,Scott Goble,21,85.04761905,6.192545442,96.0,75.0,0,0,0,0,0,0,,5,,7,5
+UBCV,2014,W,EDCP,412,,OVERALL,Conducting and Rehearsal Techniques for Teachers,,21,85.04761905,6.192545442,96.0,75.0,0,0,0,0,0,0,,5,,7,5
+UBCV,2014,W,EDCP,442,,301,Mathematics History for Teachers,Calin Lucus,22,93.90909091,3.293703819,97.0,86.0,0,0,0,0,0,0,0,0,0,3.0,19
+UBCV,2014,W,EDCP,442,,OVERALL,Mathematics History for Teachers,,22,93.90909091,3.293703819,97.0,86.0,0,0,0,0,0,0,0,0,0,3.0,19
+UBCV,2014,W,EDCP,491,,63A,Home Economics II - Secondary: Curriculum and Pedagogy,Mary-Leah Dezwart,25,83.76,8.666410253,97.0,51.0,0,,,,,,,,9,7,5
+UBCV,2014,W,EDCP,491,,OVERALL,Home Economics II - Secondary: Curriculum and Pedagogy,,25,83.76,8.666410253,97.0,51.0,0,,,,,,,,9,7,5
+UBCV,2014,W,EDCP,492,,63C,Special Study in Home Economics: Textile Studies,Susan Turnbull Caton,22,84.54545455,8.116574886,92.0,51.0,0,,,,,,,,,15,
+UBCV,2014,W,EDCP,492,,OVERALL,Special Study in Home Economics: Textile Studies,,22,84.54545455,8.116574886,92.0,51.0,0,,,,,,,,,15,
+UBCV,2014,W,EDCP,493,,63A,Special Study in Home Economics: Foods Studies,Jennifer Johnson,25,86.04,2.507987241,92.0,82.0,0,0,0,0,0,0,0,0,7,17,1.0
+UBCV,2014,W,EDCP,493,,OVERALL,Special Study in Home Economics: Foods Studies,,25,86.04,2.507987241,92.0,82.0,0,0,0,0,0,0,0,0,7,17,1.0
+UBCV,2014,W,EDCP,498,,63C,Curriculum Inquiry in Home Economics Education,Kerry Renwick,25,86.24,5.54737175,95.0,71.0,0,0,0,0,0,,,,,11,9
+UBCV,2014,W,EDCP,498,,OVERALL,Curriculum Inquiry in Home Economics Education,,25,86.24,5.54737175,95.0,71.0,0,0,0,0,0,,,,,11,9
+UBCV,2014,W,EDCP,504,A,031,Review of Research in Art Education: Theory and Practice,Donal O'Donoghue,8,88.875,3.870677312,93.0,82.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2014,W,EDCP,504,A,OVERALL,Review of Research in Art Education: Theory and Practice,,8,88.875,3.870677312,93.0,82.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2014,W,EDCP,505,,031,Review of Research in Music Education: Theory and Practice,Peter Gouzouasis,16,88.5,4.258325179,95.0,78.0,0,0,0,0,0,0,0,,,5,9
+UBCV,2014,W,EDCP,505,,OVERALL,Review of Research in Music Education: Theory and Practice,,16,88.5,4.258325179,95.0,78.0,0,0,0,0,0,0,0,,,5,9
+UBCV,2014,W,EDCP,508,,032,Review of Research in Curriculum and Pedagogy,Eddie Wayne Ross,11,92.63636364,3.471965647,96.0,86.0,0,0,0,0,0,0,0,0,0,2.0,9
+UBCV,2014,W,EDCP,508,,62A,Review of Research in Curriculum and Pedagogy,Mary Gale Smith;Mary Smith,20,89.45,3.845366316,95.0,82.0,0,0,0,0,0,0,0,0,2.0,7,11
+UBCV,2014,W,EDCP,508,,62B,Review of Research in Curriculum and Pedagogy,David Beare,16,88.5625,3.405265531,94.0,82.0,0,0,0,0,0,0,0,0,2.0,8,6
+UBCV,2014,W,EDCP,508,,OVERALL,Review of Research in Curriculum and Pedagogy,,47,89.89361702,3.874296809,96.0,82.0,0,0,0,0,0,0,0,0,4.0,17,26
+UBCV,2014,W,EDCP,510,,032,"Video Ethnography in Education Research: Culture, Technology, and Interpretation",Lisa Loutzenheiser,8,88.5,2.507132682,91.0,83.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2014,W,EDCP,510,,OVERALL,"Video Ethnography in Education Research: Culture, Technology, and Interpretation",,8,88.5,2.507132682,91.0,83.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2014,W,EDCP,512,A,031,Education Action Research,Cynthia Nicol,13,89.53846154,4.665750826,95.0,80.0,0,0,0,0,0,0,0,0,2.0,5,6
+UBCV,2014,W,EDCP,512,A,OVERALL,Education Action Research,,13,89.53846154,4.665750826,95.0,80.0,0,0,0,0,0,0,0,0,2.0,5,6
+UBCV,2014,W,EDCP,514,,032,Arts-Based Educational Research: A/r/tography,Rita Irwin,10,90.4,5.168279318,96.0,80.0,0,0,0,0,0,0,0,0,,,6
+UBCV,2014,W,EDCP,514,,OVERALL,Arts-Based Educational Research: A/r/tography,,10,90.4,5.168279318,96.0,80.0,0,0,0,0,0,0,0,0,,,6
+UBCV,2014,W,EDCP,523,A,031,Seminar in Art Education,Michael Parsons,12,86.41666667,6.815201369,96.0,74.0,0,0,0,0,0,0,,,,5,
+UBCV,2014,W,EDCP,523,A,OVERALL,Seminar in Art Education,,12,86.41666667,6.815201369,96.0,74.0,0,0,0,0,0,0,,,,5,
 UBCV,2014,W,EDCP,526,B,032,Theory and Principles of Music Education,Scott Goble,18,85.33333333,13.52992326,98.0,41.0,,,,,,,,,5,,8
 UBCV,2014,W,EDCP,526,B,OVERALL,Theory and Principles of Music Education,,18,85.33333333,13.52992326,98.0,41.0,,,,,,,,,5,,8
-UBCV,2014,W,EDCP,532,,032,"Theories and Dimensions of Place-Based Education: Ecohumanist, Critical, and Indigenous Lenses",Tracy Friedel,13,88.92307692,2.782730627,93.0,82.0,,,,,,,,,,7,5
-UBCV,2014,W,EDCP,532,,OVERALL,"Theories and Dimensions of Place-Based Education: Ecohumanist, Critical, and Indigenous Lenses",,13,88.92307692,2.782730627,93.0,82.0,,,,,,,,,,7,5
-UBCV,2014,W,EDCP,541,,031,Problems in Historical Understanding,Peter Seixas,7,85.42857143,3.047247001,89.0,80.0,,,,,,,,,,5,
-UBCV,2014,W,EDCP,541,,OVERALL,Problems in Historical Understanding,,7,85.42857143,3.047247001,89.0,80.0,,,,,,,,,,5,
-UBCV,2014,W,EDCP,550,,032,Mathematics Education: Origins and Issues,Susan Gerofsky,13,89.69230769,4.110649085,94.0,80.0,,,,,,,,,,,8
-UBCV,2014,W,EDCP,550,,OVERALL,Mathematics Education: Origins and Issues,,13,89.69230769,4.110649085,94.0,80.0,,,,,,,,,,,8
-UBCV,2014,W,EDCP,552,,031,Mathematics Education: Early Years,Ann Anderson,19,87.21052632,2.417044738,92.0,82.0,,,,,,,,,,14,
-UBCV,2014,W,EDCP,552,,OVERALL,Mathematics Education: Early Years,,19,87.21052632,2.417044738,92.0,82.0,,,,,,,,,,14,
-UBCV,2014,W,EDCP,555,,032,Critical Analysis of Curriculum in Science Education,James Douglas Adler,15,90.13333333,3.3565855669999998,96.0,84.0,,,,,,,,,,,12
-UBCV,2014,W,EDCP,555,,OVERALL,Critical Analysis of Curriculum in Science Education,,15,90.13333333,3.3565855669999998,96.0,84.0,,,,,,,,,,,12
-UBCV,2014,W,EDCP,558,,62A,Science Learning in Informal Environments,David Anderson,14,89.0,2.5115119569999997,93.0,83.0,,,,,,,,,,9,
-UBCV,2014,W,EDCP,558,,OVERALL,Science Learning in Informal Environments,,14,89.0,2.5115119569999997,93.0,83.0,,,,,,,,,,9,
-UBCV,2014,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Marina Milner-Bolotin,13,89.46153846,4.095025124,93.0,78.0,,,,,,,,,,5,7
-UBCV,2014,W,EDCP,559,,OVERALL,Research in the Teaching and Learning of the Sciences,,13,89.46153846,4.095025124,93.0,78.0,,,,,,,,,,5,7
-UBCV,2014,W,EDCP,562,,031,Curriculum Issues and Theories,Lisa Loutzenheiser,15,87.66666667,2.943920289,93.0,83.0,,,,,,,,,,6,6
-UBCV,2014,W,EDCP,562,,032,Curriculum Issues and Theories,Anne Phelan,19,90.10526316,3.572965417,96.0,85.0,,,,,,,,,,8,11
-UBCV,2014,W,EDCP,562,,61A,Curriculum Issues and Theories,Alexander De Cosson,16,91.625,2.6551836090000003,97.0,90.0,,,,,,,,,,0,16
-UBCV,2014,W,EDCP,562,,OVERALL,Curriculum Issues and Theories,,50,89.86,3.440514912,97.0,83.0,,,,,,,,,,14,33
-UBCV,2014,W,EDCP,564,,032,"Texts, Politics, and Ideologies of Curriculum Development",Eddie Wayne Ross,13,89.69230769,5.963564585,95.0,74.0,,,,,,,,,,,9
-UBCV,2014,W,EDCP,564,,OVERALL,"Texts, Politics, and Ideologies of Curriculum Development",,13,89.69230769,5.963564585,95.0,74.0,,,,,,,,,,,9
-UBCV,2014,W,EDCP,565,,61A,Teaching in Museums,Lisa Mcintosh,14,91.5,10.51555624,99.0,57.0,,,,,,,,,,,11
-UBCV,2014,W,EDCP,565,,OVERALL,Teaching in Museums,,14,91.5,10.51555624,99.0,57.0,,,,,,,,,,,11
-UBCV,2014,W,EDCP,566,,031,"Curriculum Change, Planning, and Implementation",Karen Meyer,18,89.94444444,2.9797793489999997,94.0,83.0,,,,,,,,,,6,11
-UBCV,2014,W,EDCP,566,,OVERALL,"Curriculum Change, Planning, and Implementation",,18,89.94444444,2.9797793489999997,94.0,83.0,,,,,,,,,,6,11
-UBCV,2014,W,EDCP,570,,61A,Seminar in the Teaching of Information and Communication Technologies,Patricia O'Riley,17,90.58823529,1.371988681,94.0,90.0,,,,,,,,,,,17
-UBCV,2014,W,EDCP,570,,OVERALL,Seminar in the Teaching of Information and Communication Technologies,,17,90.58823529,1.371988681,94.0,90.0,,,,,,,,,,,17
-UBCV,2014,W,EDCP,580,A,031,Problems in Education,,8,92.625,4.7490600569999994,98.0,86.0,,,,,,,,,,,6
-UBCV,2014,W,EDCP,580,A,OVERALL,Problems in Education,,8,92.625,4.7490600569999994,98.0,86.0,,,,,,,,,,,6
-UBCV,2014,W,EDCP,585,B,031,Special Course in Curriculum and Pedagogy,Stephen Petrina,9,94.11111111,2.02758751,97.0,92.0,,,,,,,,,,,9
-UBCV,2014,W,EDCP,585,B,OVERALL,Special Course in Curriculum and Pedagogy,,9,94.11111111,2.02758751,97.0,92.0,,,,,,,,,,,9
-UBCV,2014,W,EDCP,585,C,032,Special Course in Curriculum and Pedagogy,William Doll,7,93.71428571,2.429971585,96.0,89.0,,,,,,,,,,,6
-UBCV,2014,W,EDCP,585,C,OVERALL,Special Course in Curriculum and Pedagogy,,7,93.71428571,2.429971585,96.0,89.0,,,,,,,,,,,6
-UBCV,2014,W,EDCP,585,D,032,Special Course in Curriculum and Pedagogy,Norman Friesen,11,94.45454546,2.296241989,97.0,90.0,,,,,,,,,,,11
-UBCV,2014,W,EDCP,585,D,OVERALL,Special Course in Curriculum and Pedagogy,,11,94.45454546,2.296241989,97.0,90.0,,,,,,,,,,,11
-UBCV,2014,W,EDCP,601,A,031,Doctoral Seminar in Curriculum and Pedagogy: History and Theory,William Pinar,15,93.2,3.028436655,97.0,88.0,,,,,,,,,,,13
-UBCV,2014,W,EDCP,601,A,OVERALL,Doctoral Seminar in Curriculum and Pedagogy: History and Theory,,15,93.2,3.028436655,97.0,88.0,,,,,,,,,,,13
-UBCV,2014,W,EDCP,602,A,032,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,Samson Nashon,13,94.61538462,0.8697184929999999,96.0,94.0,,,,,,,,,,,13
-UBCV,2014,W,EDCP,602,A,OVERALL,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,,13,94.61538462,0.8697184929999999,96.0,94.0,,,,,,,,,,,13
+UBCV,2014,W,EDCP,532,,032,"Theories and Dimensions of Place-Based Education: Ecohumanist, Critical, and Indigenous Lenses",Tracy Friedel,13,88.92307692,2.782730627,93.0,82.0,0,0,0,0,0,0,0,0,1.0,7,5
+UBCV,2014,W,EDCP,532,,OVERALL,"Theories and Dimensions of Place-Based Education: Ecohumanist, Critical, and Indigenous Lenses",,13,88.92307692,2.782730627,93.0,82.0,0,0,0,0,0,0,0,0,1.0,7,5
+UBCV,2014,W,EDCP,541,,031,Problems in Historical Understanding,Peter Seixas,7,85.42857143,3.047247001,89.0,80.0,0,0,0,0,0,0,0,0,2.0,5,0
+UBCV,2014,W,EDCP,541,,OVERALL,Problems in Historical Understanding,,7,85.42857143,3.047247001,89.0,80.0,0,0,0,0,0,0,0,0,2.0,5,0
+UBCV,2014,W,EDCP,550,,032,Mathematics Education: Origins and Issues,Susan Gerofsky,13,89.69230769,4.110649085,94.0,80.0,0,0,0,0,0,0,0,0,,,8
+UBCV,2014,W,EDCP,550,,OVERALL,Mathematics Education: Origins and Issues,,13,89.69230769,4.110649085,94.0,80.0,0,0,0,0,0,0,0,0,,,8
+UBCV,2014,W,EDCP,552,,031,Mathematics Education: Early Years,Ann Anderson,19,87.21052632,2.417044738,92.0,82.0,0,0,0,0,0,0,0,0,,14,
+UBCV,2014,W,EDCP,552,,OVERALL,Mathematics Education: Early Years,,19,87.21052632,2.417044738,92.0,82.0,0,0,0,0,0,0,0,0,,14,
+UBCV,2014,W,EDCP,555,,032,Critical Analysis of Curriculum in Science Education,James Douglas Adler,15,90.13333333,3.356585567,96.0,84.0,0,0,0,0,0,0,0,0,,,12
+UBCV,2014,W,EDCP,555,,OVERALL,Critical Analysis of Curriculum in Science Education,,15,90.13333333,3.356585567,96.0,84.0,0,0,0,0,0,0,0,0,,,12
+UBCV,2014,W,EDCP,558,,62A,Science Learning in Informal Environments,David Anderson,14,89.0,2.511511957,93.0,83.0,0,0,0,0,0,0,0,0,,9,
+UBCV,2014,W,EDCP,558,,OVERALL,Science Learning in Informal Environments,,14,89.0,2.511511957,93.0,83.0,0,0,0,0,0,0,0,0,,9,
+UBCV,2014,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Marina Milner-Bolotin,13,89.46153846,4.095025124,93.0,78.0,0,0,0,0,0,0,0,,,5,7
+UBCV,2014,W,EDCP,559,,OVERALL,Research in the Teaching and Learning of the Sciences,,13,89.46153846,4.095025124,93.0,78.0,0,0,0,0,0,0,0,,,5,7
+UBCV,2014,W,EDCP,562,,031,Curriculum Issues and Theories,Lisa Loutzenheiser,15,87.66666667,2.943920289,93.0,83.0,0,0,0,0,0,0,0,0,3.0,6,6
+UBCV,2014,W,EDCP,562,,032,Curriculum Issues and Theories,Anne Phelan,19,90.10526316,3.572965417,96.0,85.0,0,0,0,0,0,0,0,0,0,8,11
+UBCV,2014,W,EDCP,562,,61A,Curriculum Issues and Theories,Alexander De Cosson,16,91.625,2.655183609,97.0,90.0,0,0,0,0,0,0,0,0,0,0,16
+UBCV,2014,W,EDCP,562,,OVERALL,Curriculum Issues and Theories,,50,89.86,3.440514912,97.0,83.0,0,0,0,0,0,0,0,0,3.0,14,33
+UBCV,2014,W,EDCP,564,,032,"Texts, Politics, and Ideologies of Curriculum Development",Eddie Wayne Ross,13,89.69230769,5.963564585,95.0,74.0,0,0,0,0,0,0,,,,,9
+UBCV,2014,W,EDCP,564,,OVERALL,"Texts, Politics, and Ideologies of Curriculum Development",,13,89.69230769,5.963564585,95.0,74.0,0,0,0,0,0,0,,,,,9
+UBCV,2014,W,EDCP,565,,61A,Teaching in Museums,Lisa Mcintosh,14,91.5,10.51555624,99.0,57.0,0,0,,,,,,,,,11
+UBCV,2014,W,EDCP,565,,OVERALL,Teaching in Museums,,14,91.5,10.51555624,99.0,57.0,0,0,,,,,,,,,11
+UBCV,2014,W,EDCP,566,,031,"Curriculum Change, Planning, and Implementation",Karen Meyer,18,89.94444444,2.979779349,94.0,83.0,0,0,0,0,0,0,0,0,1.0,6,11
+UBCV,2014,W,EDCP,566,,OVERALL,"Curriculum Change, Planning, and Implementation",,18,89.94444444,2.979779349,94.0,83.0,0,0,0,0,0,0,0,0,1.0,6,11
+UBCV,2014,W,EDCP,570,,61A,Seminar in the Teaching of Information and Communication Technologies,Patricia O'Riley,17,90.58823529,1.371988681,94.0,90.0,0,0,0,0,0,0,0,0,0,0,17
+UBCV,2014,W,EDCP,570,,OVERALL,Seminar in the Teaching of Information and Communication Technologies,,17,90.58823529,1.371988681,94.0,90.0,0,0,0,0,0,0,0,0,0,0,17
+UBCV,2014,W,EDCP,580,A,031,Problems in Education,,8,92.625,4.749060057,98.0,86.0,0,0,0,0,0,0,0,0,0,2.0,6
+UBCV,2014,W,EDCP,580,A,OVERALL,Problems in Education,,8,92.625,4.749060057,98.0,86.0,0,0,0,0,0,0,0,0,0,2.0,6
+UBCV,2014,W,EDCP,585,B,031,Special Course in Curriculum and Pedagogy,Stephen Petrina,9,94.11111111,2.02758751,97.0,92.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2014,W,EDCP,585,B,OVERALL,Special Course in Curriculum and Pedagogy,,9,94.11111111,2.02758751,97.0,92.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2014,W,EDCP,585,C,032,Special Course in Curriculum and Pedagogy,William Doll,7,93.71428571,2.429971585,96.0,89.0,0,0,0,0,0,0,0,0,0,1.0,6
+UBCV,2014,W,EDCP,585,C,OVERALL,Special Course in Curriculum and Pedagogy,,7,93.71428571,2.429971585,96.0,89.0,0,0,0,0,0,0,0,0,0,1.0,6
+UBCV,2014,W,EDCP,585,D,032,Special Course in Curriculum and Pedagogy,Norman Friesen,11,94.45454546,2.296241989,97.0,90.0,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2014,W,EDCP,585,D,OVERALL,Special Course in Curriculum and Pedagogy,,11,94.45454546,2.296241989,97.0,90.0,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2014,W,EDCP,601,A,031,Doctoral Seminar in Curriculum and Pedagogy: History and Theory,William Pinar,15,93.2,3.028436655,97.0,88.0,0,0,0,0,0,0,0,0,0,2.0,13
+UBCV,2014,W,EDCP,601,A,OVERALL,Doctoral Seminar in Curriculum and Pedagogy: History and Theory,,15,93.2,3.028436655,97.0,88.0,0,0,0,0,0,0,0,0,0,2.0,13
+UBCV,2014,W,EDCP,602,A,032,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,Samson Nashon,13,94.61538462,0.869718493,96.0,94.0,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2014,W,EDCP,602,A,OVERALL,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,,13,94.61538462,0.869718493,96.0,94.0,0,0,0,0,0,0,0,0,0,0,13

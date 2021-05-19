@@ -1,14 +1,12 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,ATSC,113,,101,Applied Meteorology,Anthony Di Stefano;Gregory L West;Gregory West;Roland Stull;Rosemary Howard;Samantha James,49,75.183673469,12.799208096,93.0,34.0,,,,,5,,5,9,9,9,5
-UBCV,2016,W,ATSC,113,,201,Applied Meteorology,Gregory L West;Gregory West;Roland Stull;Rosemary Howard;Samantha James,92,76.554347826,17.087598569,93.0,0.0,6,,,,,,9,12,27,19,11
-UBCV,2016,W,ATSC,113,,99A,Applied Meteorology,Roland Stull,30,67.3,21.868178739,85.0,0.0,,,,,,,,6,5,5,0
-UBCV,2016,W,ATSC,113,,99C,Applied Meteorology,Anthony Di Stefano;Roland Stull,44,74.772727273,14.650761765,90.0,8.0,,,,6,,6,,6,8,5,7
-UBCV,2016,W,ATSC,113,,OVERALL,Applied Meteorology,,215,74.586046512,16.674475169,93.0,0.0,11,8,5,9,8,12,19,33,49,38,23
-UBCV,2016,W,ATSC,201,,101,Meteorology of Storms,Pedro Odon;Roland Stull,89,82.65168539300001,7.843788977999999,98.0,52.0,,,,,,5,7,10,21,25,19
-UBCV,2016,W,ATSC,201,,OVERALL,Meteorology of Storms,,89,82.65168539300001,7.843788977999999,98.0,52.0,,,,,,5,7,10,21,25,19
-UBCV,2016,W,ATSC,301,,101,Atmospheric Radiation and Remote Sensing,Gunho Oh;Philip Austin,12,80.583333333,7.178988702000001,91.0,68.0,,,,,,,,,,,
-UBCV,2016,W,ATSC,301,,OVERALL,Atmospheric Radiation and Remote Sensing,,12,80.583333333,7.178988702000001,91.0,68.0,,,,,,,,,,,
-UBCV,2016,W,ATSC,303,,201,Methods in Atmospheric Science,Julia Jeworrek;Rosemary Howard;Timothy Chui,16,77.125,12.96598113,92.0,50.0,,,,,,,,,,,
-UBCV,2016,W,ATSC,303,,OVERALL,Methods in Atmospheric Science,,16,77.125,12.96598113,92.0,50.0,,,,,,,,,,,
-UBCV,2016,W,ATSC,507,,201,Numerical Weather Prediction,Roland Stull,5,97.0,1.4142135619999998,99.0,96.0,,,,,,,,,,,5
-UBCV,2016,W,ATSC,507,,OVERALL,Numerical Weather Prediction,,5,97.0,1.4142135619999998,99.0,96.0,,,,,,,,,,,5
+UBCV,2016,W,ATSC,113,,101,Applied Meteorology,Anthony Di Stefano;Gregory L West;Gregory West;Roland Stull;Rosemary Howard;Samantha James,49,75.18367347,12.7992081,93.0,34.0,1,4.0,1.0,1,5.0,0.0,5.0,9,9,9,5
+UBCV,2016,W,ATSC,113,,201,Applied Meteorology,Gregory L West;Gregory West;Roland Stull;Rosemary Howard;Samantha James,92,76.55434783,17.08759857,93.0,0.0,6,0.0,2.0,1,1.0,4.0,9.0,12,27,19,11
+UBCV,2016,W,ATSC,113,,99A,Applied Meteorology,Roland Stull,30,67.3,21.86817874,85.0,0.0,3,3.0,2.0,1,0.0,2.0,3.0,6,5,5,0
+UBCV,2016,W,ATSC,113,,99C,Applied Meteorology,Anthony Di Stefano;Roland Stull,44,74.77272727,14.65076177,90.0,8.0,1,1.0,0.0,6,2.0,6.0,2.0,6,8,5,7
+UBCV,2016,W,ATSC,113,,OVERALL,Applied Meteorology,,215,74.58604651,16.67447517,93.0,0.0,11,8.0,5.0,9,8.0,12.0,19.0,33,49,38,23
+UBCV,2016,W,ATSC,201,,101,Meteorology of Storms,Pedro Odon;Roland Stull,89,82.65168539,7.843788978,98.0,52.0,0,1.0,0.0,0,1.0,5.0,7.0,10,21,25,19
+UBCV,2016,W,ATSC,201,,OVERALL,Meteorology of Storms,,89,82.65168539,7.843788978,98.0,52.0,0,1.0,0.0,0,1.0,5.0,7.0,10,21,25,19
+UBCV,2016,W,ATSC,301,,101,Atmospheric Radiation and Remote Sensing,Gunho Oh;Philip Austin,12,80.58333333,7.178988702,91.0,68.0,0,0.0,0.0,0,0.0,3.0,0.0,1,4,3,1
+UBCV,2016,W,ATSC,301,,OVERALL,Atmospheric Radiation and Remote Sensing,,12,80.58333333,7.178988702,91.0,68.0,0,0.0,0.0,0,0.0,3.0,0.0,1,4,3,1
+UBCV,2016,W,ATSC,303,,201,Methods in Atmospheric Science,Julia Jeworrek;Rosemary Howard;Timothy Chui,16,77.125,12.96598113,92.0,50.0,0,1.0,0.0,2,2.0,0.0,0.0,2,3,2,4
+UBCV,2016,W,ATSC,303,,OVERALL,Methods in Atmospheric Science,,16,77.125,12.96598113,92.0,50.0,0,1.0,0.0,2,2.0,0.0,0.0,2,3,2,4

@@ -1,129 +1,129 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2015,W,THTR,120,,001,Introduction to Theatre,Claire Fogal;Julia Henderson;Rui Zhang,44,72.909090909,15.694493453,94.0,11.0,,,,5,5,,5,5,11,,
 UBCV,2015,W,THTR,120,,OVERALL,Introduction to Theatre,,44,72.909090909,15.694493453,94.0,11.0,,,,5,5,,5,5,11,,
-UBCV,2015,W,THTR,130,,001,Introduction to Stage Acting,Stephen Heatley,47,79.489361702,5.759198089,90.0,65.0,,,,,,,5,10,17,9,
-UBCV,2015,W,THTR,130,,002,Introduction to Stage Acting,Cathy Burnett;Gayle Murphy,39,82.82051282100001,5.986264079,90.0,62.0,,,,,,,0,7,9,18,
-UBCV,2015,W,THTR,130,,OVERALL,Introduction to Stage Acting,,86,81.0,6.062420406,90.0,62.0,,,,,,,5,17,26,27,
-UBCV,2015,W,THTR,150,,001,Introduction to Technical Production,Jayson Mclean,80,87.425,5.554733412999999,99.0,70.0,,,,,,,,,14,34,30
-UBCV,2015,W,THTR,150,,OVERALL,Introduction to Technical Production,,80,87.425,5.554733412999999,99.0,70.0,,,,,,,,,14,34,30
-UBCV,2015,W,THTR,205,A,001,Graphics for Theatre and Film Design,Tara Arnett,22,83.409090909,8.792091094,97.0,63.0,,,,,,,,,8,,7
-UBCV,2015,W,THTR,205,A,OVERALL,Graphics for Theatre and Film Design,,22,83.409090909,8.792091094,97.0,63.0,,,,,,,,,8,,7
+UBCV,2015,W,THTR,130,,001,Introduction to Stage Acting,Stephen Heatley,47,79.489361702,5.759198089,90.0,65.0,0,0,0,0,,,5,10,17,9,
+UBCV,2015,W,THTR,130,,002,Introduction to Stage Acting,Cathy Burnett;Gayle Murphy,39,82.820512821,5.986264079,90.0,62.0,0,0,0,,,,0,7,9,18,
+UBCV,2015,W,THTR,130,,OVERALL,Introduction to Stage Acting,,86,81.0,6.062420406,90.0,62.0,0,0,0,,,,5,17,26,27,
+UBCV,2015,W,THTR,150,,001,Introduction to Technical Production,Jayson Mclean,80,87.425,5.554733413,99.0,70.0,0,0,0,0,0,,,,14,34,30
+UBCV,2015,W,THTR,150,,OVERALL,Introduction to Technical Production,,80,87.425,5.554733413,99.0,70.0,0,0,0,0,0,,,,14,34,30
+UBCV,2015,W,THTR,205,A,001,Graphics for Theatre and Film Design,Tara Arnett,22,83.409090909,8.792091094,97.0,63.0,0,0,0,,,,,,8,,7
+UBCV,2015,W,THTR,205,A,OVERALL,Graphics for Theatre and Film Design,,22,83.409090909,8.792091094,97.0,63.0,0,0,0,,,,,,8,,7
 UBCV,2015,W,THTR,210,,001,Drama: Forms and Ideas I,Hallie Marshall,52,72.884615385,15.5382562,91.0,0.0,,,,5,,,6,5,8,9,
 UBCV,2015,W,THTR,210,,OVERALL,Drama: Forms and Ideas I,,52,72.884615385,15.5382562,91.0,0.0,,,,5,,,6,5,8,9,
 UBCV,2015,W,THTR,211,,001,Drama: Forms and Ideas II,Eury Chang;Lindsay Lachance;Selena Couture,34,76.294117647,14.355928797,93.0,27.0,,,,,,,,,8,8,
 UBCV,2015,W,THTR,211,,OVERALL,Drama: Forms and Ideas II,,34,76.294117647,14.355928797,93.0,27.0,,,,,,,,,8,8,
 UBCV,2015,W,THTR,245,,001,Play-Interpretation and Production-Analysis,Mary Vingoe,15,77.733333333,19.70665829,94.0,22.0,,,,,,,,,,,5
 UBCV,2015,W,THTR,245,,OVERALL,Play-Interpretation and Production-Analysis,,15,77.733333333,19.70665829,94.0,22.0,,,,,,,,,,,5
-UBCV,2015,W,THTR,250,,001,Technical Production,Bradley Powers,23,84.0,9.025217197,94.0,57.0,,,,,,,,,,5,9
-UBCV,2015,W,THTR,250,,OVERALL,Technical Production,,23,84.0,9.025217197,94.0,57.0,,,,,,,,,,5,9
-UBCV,2015,W,THTR,271,,001,Beginning B.F.A. Acting I,Stephen Malloy,14,78.714285714,5.902132227999999,85.0,60.0,,,,,,,,5,7,,
-UBCV,2015,W,THTR,271,,OVERALL,Beginning B.F.A. Acting I,,14,78.714285714,5.902132227999999,85.0,60.0,,,,,,,,5,7,,
-UBCV,2015,W,THTR,272,,001,Beginning B.F.A. Acting II,Stephen Malloy,12,81.25,3.048844789,86.0,76.0,,,,,,,,,8,,
-UBCV,2015,W,THTR,272,,OVERALL,Beginning B.F.A. Acting II,,12,81.25,3.048844789,86.0,76.0,,,,,,,,,8,,
-UBCV,2015,W,THTR,273,,001,Beginning Voice and Movement I,Cathy Burnett;Gayle Murphy,15,78.866666667,5.717975,85.0,60.0,,,,,,,,5,8,,
-UBCV,2015,W,THTR,273,,OVERALL,Beginning Voice and Movement I,,15,78.866666667,5.717975,85.0,60.0,,,,,,,,5,8,,
-UBCV,2015,W,THTR,274,,001,Beginning Voice and Movement II,Cathy Burnett;Gayle Murphy,12,81.25,3.048844789,86.0,76.0,,,,,,,,,8,,
-UBCV,2015,W,THTR,274,,OVERALL,Beginning Voice and Movement II,,12,81.25,3.048844789,86.0,76.0,,,,,,,,,8,,
-UBCV,2015,W,THTR,299,B,001,Production I,Bradley Powers;Robert Gardiner,5,84.2,2.387467277,86.0,80.0,,,,,,,,,,,
-UBCV,2015,W,THTR,299,B,OVERALL,Production I,,10,82.9,2.183269719,86.0,80.0,,,,,,,,,6,,
-UBCV,2015,W,THTR,299,C,001,Production I,Bradley Powers;Jacqueline Firkins;Jillian Wyness;Robert Gardiner,5,86.8,5.6302753039999995,93.0,80.0,,,,,,,,,,,
-UBCV,2015,W,THTR,299,C,OVERALL,Production I,,10,84.5,5.739725119,93.0,76.0,,,,,,,,,,,
-UBCV,2015,W,THTR,306,,001,Costume Design I,Jacqueline Firkins,22,77.409090909,13.329734363,89.0,26.0,,,,,,,,7,5,6,
-UBCV,2015,W,THTR,306,,OVERALL,Costume Design I,,22,77.409090909,13.329734363,89.0,26.0,,,,,,,,7,5,6,
-UBCV,2015,W,THTR,308,,001,Sound Design,Andy Horka,27,90.111111111,7.485027791,100.0,73.0,,,,,,,,,,7,16
-UBCV,2015,W,THTR,308,,OVERALL,Sound Design,,27,90.111111111,7.485027791,100.0,73.0,,,,,,,,,,7,16
-UBCV,2015,W,THTR,310,,001,Theory of Drama Performance,Kirsty Johnston,39,73.76923076899999,15.308170399000002,90.0,0.0,,,,,,6,,8,8,5,
-UBCV,2015,W,THTR,310,,OVERALL,Theory of Drama Performance,,39,73.76923076899999,15.308170399000002,90.0,0.0,,,,,,6,,8,8,5,
-UBCV,2015,W,THTR,317,,001,Introduction to Directing,John Cooper,10,84.3,4.473378042,90.0,73.0,,,,,,,,,,6,
-UBCV,2015,W,THTR,317,,OVERALL,Introduction to Directing,,10,84.3,4.473378042,90.0,73.0,,,,,,,,,,6,
-UBCV,2015,W,THTR,320,,001,History of Theatre I,Hallie Marshall,18,73.944444444,8.973636041,90.0,56.0,,,,,5,,,,,,
-UBCV,2015,W,THTR,320,,OVERALL,History of Theatre I,,18,73.944444444,8.973636041,90.0,56.0,,,,,5,,,,,,
+UBCV,2015,W,THTR,250,,001,Technical Production,Bradley Powers,23,84.0,9.025217197,94.0,57.0,0,0,,,,,,,,5,9
+UBCV,2015,W,THTR,250,,OVERALL,Technical Production,,23,84.0,9.025217197,94.0,57.0,0,0,,,,,,,,5,9
+UBCV,2015,W,THTR,271,,001,Beginning B.F.A. Acting I,Stephen Malloy,14,78.714285714,5.902132228,85.0,60.0,0,0,0,,,,,5,7,,0
+UBCV,2015,W,THTR,271,,OVERALL,Beginning B.F.A. Acting I,,14,78.714285714,5.902132228,85.0,60.0,0,0,0,,,,,5,7,,0
+UBCV,2015,W,THTR,272,,001,Beginning B.F.A. Acting II,Stephen Malloy,12,81.25,3.048844789,86.0,76.0,0,0,0,0,0,0,0,,8,,0
+UBCV,2015,W,THTR,272,,OVERALL,Beginning B.F.A. Acting II,,12,81.25,3.048844789,86.0,76.0,0,0,0,0,0,0,0,,8,,0
+UBCV,2015,W,THTR,273,,001,Beginning Voice and Movement I,Cathy Burnett;Gayle Murphy,15,78.866666667,5.717975,85.0,60.0,0,0,0,,,,,5,8,,0
+UBCV,2015,W,THTR,273,,OVERALL,Beginning Voice and Movement I,,15,78.866666667,5.717975,85.0,60.0,0,0,0,,,,,5,8,,0
+UBCV,2015,W,THTR,274,,001,Beginning Voice and Movement II,Cathy Burnett;Gayle Murphy,12,81.25,3.048844789,86.0,76.0,0,0,0,0,0,0,0,,8,,0
+UBCV,2015,W,THTR,274,,OVERALL,Beginning Voice and Movement II,,12,81.25,3.048844789,86.0,76.0,0,0,0,0,0,0,0,,8,,0
+UBCV,2015,W,THTR,299,B,001,Production I,Bradley Powers;Robert Gardiner,5,84.2,2.387467277,86.0,80.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,THTR,299,B,OVERALL,Production I,,10,82.9,2.183269719,86.0,80.0,0,0,0,0,0,0,0,0,6,4.0,0
+UBCV,2015,W,THTR,299,C,001,Production I,Bradley Powers;Jacqueline Firkins;Jillian Wyness;Robert Gardiner,5,86.8,5.630275304,93.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,THTR,299,C,OVERALL,Production I,,10,84.5,5.739725119,93.0,76.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,THTR,306,,001,Costume Design I,Jacqueline Firkins,22,77.409090909,13.329734363,89.0,26.0,,,,,,,,7,5,6,0
+UBCV,2015,W,THTR,306,,OVERALL,Costume Design I,,22,77.409090909,13.329734363,89.0,26.0,,,,,,,,7,5,6,0
+UBCV,2015,W,THTR,308,,001,Sound Design,Andy Horka,27,90.111111111,7.485027791,100.0,73.0,0,0,0,0,0,0,,,,7,16
+UBCV,2015,W,THTR,308,,OVERALL,Sound Design,,27,90.111111111,7.485027791,100.0,73.0,0,0,0,0,0,0,,,,7,16
+UBCV,2015,W,THTR,310,,001,Theory of Drama Performance,Kirsty Johnston,39,73.769230769,15.308170399,90.0,0.0,,,,,,6,,8,8,5,
+UBCV,2015,W,THTR,310,,OVERALL,Theory of Drama Performance,,39,73.769230769,15.308170399,90.0,0.0,,,,,,6,,8,8,5,
+UBCV,2015,W,THTR,317,,001,Introduction to Directing,John Cooper,10,84.3,4.473378042,90.0,73.0,0,0,0,0,0,0,,,,6,
+UBCV,2015,W,THTR,317,,OVERALL,Introduction to Directing,,10,84.3,4.473378042,90.0,73.0,0,0,0,0,0,0,,,,6,
+UBCV,2015,W,THTR,320,,001,History of Theatre I,Hallie Marshall,18,73.944444444,8.973636041,90.0,56.0,0,0,,,5,,,,,,
+UBCV,2015,W,THTR,320,,OVERALL,History of Theatre I,,18,73.944444444,8.973636041,90.0,56.0,0,0,,,5,,,,,,
 UBCV,2015,W,THTR,323,,001,History and Theory of Directing,Selena Couture,15,74.333333333,16.364886917,90.0,19.0,,,,,,,,,,,
 UBCV,2015,W,THTR,323,,OVERALL,History and Theory of Directing,,15,74.333333333,16.364886917,90.0,19.0,,,,,,,,,,,
-UBCV,2015,W,THTR,325,A,001,History of Canadian Theatre,Jerry Wasserman,12,80.083333333,6.761634194,90.0,69.0,,,,,,,,,,,
-UBCV,2015,W,THTR,325,A,OVERALL,History of Canadian Theatre,,12,80.083333333,6.761634194,90.0,69.0,,,,,,,,,,,
-UBCV,2015,W,THTR,330,,001,Performance Study II,Sarah Rodgers,10,91.1,1.370320319,93.0,89.0,,,,,,,,,,,8
-UBCV,2015,W,THTR,330,,OVERALL,Performance Study II,,10,91.1,1.370320319,93.0,89.0,,,,,,,,,,,8
-UBCV,2015,W,THTR,340,B,001,Studies in Non-Western Theatre,Siyuan Liu,6,85.333333333,1.505545305,87.0,83.0,,,,,,,,,,5,
-UBCV,2015,W,THTR,340,B,OVERALL,Studies in Non-Western Theatre,,6,85.333333333,1.505545305,87.0,83.0,,,,,,,,,,5,
-UBCV,2015,W,THTR,350,,001,Scenery Production I,Bradley Powers,23,80.260869565,9.308927247,95.0,58.0,,,,,,,,,8,,
-UBCV,2015,W,THTR,350,,OVERALL,Scenery Production I,,23,80.260869565,9.308927247,95.0,58.0,,,,,,,,,8,,
-UBCV,2015,W,THTR,352,,001,Scene Painting I,Ruth Skai Fowler,17,84.941176471,5.606587512000001,91.0,67.0,,,,,,,,,,8,
-UBCV,2015,W,THTR,352,,OVERALL,Scene Painting I,,17,84.941176471,5.606587512000001,91.0,67.0,,,,,,,,,,8,
-UBCV,2015,W,THTR,354,,001,Stage Management,Marijka Asbeek Brusse,23,81.391304348,7.566307677,94.0,65.0,,,,,,,,5,5,,6
-UBCV,2015,W,THTR,354,,OVERALL,Stage Management,,23,81.391304348,7.566307677,94.0,65.0,,,,,,,,5,5,,6
-UBCV,2015,W,THTR,356,,001,Costume Construction,Jacqueline Firkins,22,82.818181818,6.835734981,93.0,67.0,,,,,,,,,5,8,
-UBCV,2015,W,THTR,356,,OVERALL,Costume Construction,,22,82.818181818,6.835734981,93.0,67.0,,,,,,,,,5,8,
-UBCV,2015,W,THTR,371,,001,Intermediate B.F.A. Acting I,Chris Mcgregor;Stephen Heatley,12,84.333333333,2.605355789,87.0,80.0,,,,,,,,,5,7,
-UBCV,2015,W,THTR,371,,OVERALL,Intermediate B.F.A. Acting I,,12,84.333333333,2.605355789,87.0,80.0,,,,,,,,,5,7,
-UBCV,2015,W,THTR,372,,001,Intermediate B.F.A. Acting II,Stephen Drover,12,84.25,3.3608710989999997,88.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,372,,OVERALL,Intermediate B.F.A. Acting II,,12,84.25,3.3608710989999997,88.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,373,,001,"Intermediate Voice, Speech, and Movement I",Cathy Burnett;Gayle Murphy,12,84.333333333,2.605355789,87.0,80.0,,,,,,,,,5,7,
-UBCV,2015,W,THTR,373,,OVERALL,"Intermediate Voice, Speech, and Movement I",,12,84.333333333,2.605355789,87.0,80.0,,,,,,,,,5,7,
-UBCV,2015,W,THTR,374,,001,"Intermediate Voice, Speech, and Movement II",Cathy Burnett;Gayle Murphy,12,84.25,3.3608710989999997,88.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,374,,OVERALL,"Intermediate Voice, Speech, and Movement II",,12,84.25,3.3608710989999997,88.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,391,A,001,Rehearsal and Performance,Sarah Rodgers,12,84.333333333,2.605355789,87.0,80.0,,,,,,,,,5,7,
-UBCV,2015,W,THTR,391,A,OVERALL,Rehearsal and Performance,,12,84.333333333,2.605355789,87.0,80.0,,,,,,,,,5,7,
-UBCV,2015,W,THTR,391,B,001,Rehearsal and Performance,Cathy Burnett;Gayle Murphy,12,84.25,3.3608710989999997,88.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,391,B,OVERALL,Rehearsal and Performance,,12,84.25,3.3608710989999997,88.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,391,C,001,Rehearsal and Performance,Cathy Burnett;Gayle Murphy;Stephen Malloy,12,84.25,3.3608710989999997,88.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,391,C,OVERALL,Rehearsal and Performance,,12,84.25,3.3608710989999997,88.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,399,A,OVERALL,Production II,,7,86.14285714299999,7.221001117999999,98.0,77.0,,,,,,,,,,,
-UBCV,2015,W,THTR,399,B,001,Production II,Bradley Powers;Robert Gardiner,6,87.833333333,7.4408780839999995,98.0,78.0,,,,,,,,,,,
-UBCV,2015,W,THTR,399,B,OVERALL,Production II,,7,87.0,7.141428428999999,98.0,78.0,,,,,,,,,,,
-UBCV,2015,W,THTR,399,C,001,Production II,Bradley Powers;Jacqueline Firkins;Jillian Wyness;Robert Gardiner,7,86.0,4.830458915,93.0,80.0,,,,,,,,,,,
-UBCV,2015,W,THTR,399,C,003,Production II,Bradley Powers,5,87.6,2.7928480089999996,91.0,85.0,,,,,,,,,,,
-UBCV,2015,W,THTR,399,C,OVERALL,Production II,,13,86.46153846200001,3.9288544689999996,93.0,80.0,,,,,,,,,,5,
-UBCV,2015,W,THTR,405,,001,Scenery Design II,Robert Gardiner,8,77.625,12.339686266,88.0,50.0,,,,,,,,,,,
-UBCV,2015,W,THTR,405,,OVERALL,Scenery Design II,,8,77.625,12.339686266,88.0,50.0,,,,,,,,,,,
-UBCV,2015,W,THTR,406,,001,Costume Design II,Jacqueline Firkins,10,83.3,2.7908580919999997,87.0,78.0,,,,,,,,,5,,
-UBCV,2015,W,THTR,406,,OVERALL,Costume Design II,,10,83.3,2.7908580919999997,87.0,78.0,,,,,,,,,5,,
-UBCV,2015,W,THTR,407,,001,Lighting Design II,Robert Gardiner,7,89.571428571,1.618347187,92.0,88.0,,,,,,,,,,,
-UBCV,2015,W,THTR,407,,OVERALL,Lighting Design II,,7,89.571428571,1.618347187,92.0,88.0,,,,,,,,,,,
-UBCV,2015,W,THTR,408,A,001,Advanced Study in Design and Scenography,Garvin Eugene Eddy,13,90.53846153799999,8.60828462,99.0,67.0,,,,,,,,,,,9
-UBCV,2015,W,THTR,408,A,OVERALL,Advanced Study in Design and Scenography,,13,90.53846153799999,8.60828462,99.0,67.0,,,,,,,,,,,9
-UBCV,2015,W,THTR,408,B,001,Advanced Study in Design and Scenography,Robert Gardiner,6,88.166666667,3.188521078,92.0,83.0,,,,,,,,,,,
-UBCV,2015,W,THTR,408,B,OVERALL,Advanced Study in Design and Scenography,,6,88.166666667,3.188521078,92.0,83.0,,,,,,,,,,,
-UBCV,2015,W,THTR,410,,001,Dramaturgy,Rachel Ditor,22,84.136363636,9.716434063,99.0,60.0,,,,,,,,,7,,9
-UBCV,2015,W,THTR,410,,OVERALL,Dramaturgy,,22,84.136363636,9.716434063,99.0,60.0,,,,,,,,,7,,9
-UBCV,2015,W,THTR,420,,001,History of Theatre II,Hallie Marshall,18,77.833333333,7.2538022479999995,90.0,68.0,,,,,,5,,,,,
-UBCV,2015,W,THTR,420,,OVERALL,History of Theatre II,,18,77.833333333,7.2538022479999995,90.0,68.0,,,,,,5,,,,,
-UBCV,2015,W,THTR,440,A,001,Topics in Theatre,Hallie Marshall,8,79.875,8.708575412,92.0,68.0,,,,,,,,,,,
-UBCV,2015,W,THTR,440,A,OVERALL,Topics in Theatre,,8,79.875,8.708575412,92.0,68.0,,,,,,,,,,,
+UBCV,2015,W,THTR,325,A,001,History of Canadian Theatre,Jerry Wasserman,12,80.083333333,6.761634194,90.0,69.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,THTR,325,A,OVERALL,History of Canadian Theatre,,12,80.083333333,6.761634194,90.0,69.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,THTR,330,,001,Performance Study II,Sarah Rodgers,10,91.1,1.370320319,93.0,89.0,0,0,0,0,0,0,0,0,0,2.0,8
+UBCV,2015,W,THTR,330,,OVERALL,Performance Study II,,10,91.1,1.370320319,93.0,89.0,0,0,0,0,0,0,0,0,0,2.0,8
+UBCV,2015,W,THTR,340,B,001,Studies in Non-Western Theatre,Siyuan Liu,6,85.333333333,1.505545305,87.0,83.0,0,0,0,0,0,0,0,0,1.0,5,0
+UBCV,2015,W,THTR,340,B,OVERALL,Studies in Non-Western Theatre,,6,85.333333333,1.505545305,87.0,83.0,0,0,0,0,0,0,0,0,1.0,5,0
+UBCV,2015,W,THTR,350,,001,Scenery Production I,Bradley Powers,23,80.260869565,9.308927247,95.0,58.0,0,0,,,,,,,8,,
+UBCV,2015,W,THTR,350,,OVERALL,Scenery Production I,,23,80.260869565,9.308927247,95.0,58.0,0,0,,,,,,,8,,
+UBCV,2015,W,THTR,352,,001,Scene Painting I,Ruth Skai Fowler,17,84.941176471,5.606587512,91.0,67.0,0,0,0,0,,,,,,8,
+UBCV,2015,W,THTR,352,,OVERALL,Scene Painting I,,17,84.941176471,5.606587512,91.0,67.0,0,0,0,0,,,,,,8,
+UBCV,2015,W,THTR,354,,001,Stage Management,Marijka Asbeek Brusse,23,81.391304348,7.566307677,94.0,65.0,0,0,0,0,,,,5,5,,6
+UBCV,2015,W,THTR,354,,OVERALL,Stage Management,,23,81.391304348,7.566307677,94.0,65.0,0,0,0,0,,,,5,5,,6
+UBCV,2015,W,THTR,356,,001,Costume Construction,Jacqueline Firkins,22,82.818181818,6.835734981,93.0,67.0,0,0,0,0,,,,,5,8,
+UBCV,2015,W,THTR,356,,OVERALL,Costume Construction,,22,82.818181818,6.835734981,93.0,67.0,0,0,0,0,,,,,5,8,
+UBCV,2015,W,THTR,371,,001,Intermediate B.F.A. Acting I,Chris Mcgregor;Stephen Heatley,12,84.333333333,2.605355789,87.0,80.0,0,0,0,0,0,0,0,0,5,7,0
+UBCV,2015,W,THTR,371,,OVERALL,Intermediate B.F.A. Acting I,,12,84.333333333,2.605355789,87.0,80.0,0,0,0,0,0,0,0,0,5,7,0
+UBCV,2015,W,THTR,372,,001,Intermediate B.F.A. Acting II,Stephen Drover,12,84.25,3.360871099,88.0,78.0,0,0,0,0,0,0,0,,,7,0
+UBCV,2015,W,THTR,372,,OVERALL,Intermediate B.F.A. Acting II,,12,84.25,3.360871099,88.0,78.0,0,0,0,0,0,0,0,,,7,0
+UBCV,2015,W,THTR,373,,001,"Intermediate Voice, Speech, and Movement I",Cathy Burnett;Gayle Murphy,12,84.333333333,2.605355789,87.0,80.0,0,0,0,0,0,0,0,0,5,7,0
+UBCV,2015,W,THTR,373,,OVERALL,"Intermediate Voice, Speech, and Movement I",,12,84.333333333,2.605355789,87.0,80.0,0,0,0,0,0,0,0,0,5,7,0
+UBCV,2015,W,THTR,374,,001,"Intermediate Voice, Speech, and Movement II",Cathy Burnett;Gayle Murphy,12,84.25,3.360871099,88.0,78.0,0,0,0,0,0,0,0,,,7,0
+UBCV,2015,W,THTR,374,,OVERALL,"Intermediate Voice, Speech, and Movement II",,12,84.25,3.360871099,88.0,78.0,0,0,0,0,0,0,0,,,7,0
+UBCV,2015,W,THTR,391,A,001,Rehearsal and Performance,Sarah Rodgers,12,84.333333333,2.605355789,87.0,80.0,0,0,0,0,0,0,0,0,5,7,0
+UBCV,2015,W,THTR,391,A,OVERALL,Rehearsal and Performance,,12,84.333333333,2.605355789,87.0,80.0,0,0,0,0,0,0,0,0,5,7,0
+UBCV,2015,W,THTR,391,B,001,Rehearsal and Performance,Cathy Burnett;Gayle Murphy,12,84.25,3.360871099,88.0,78.0,0,0,0,0,0,0,0,,,7,0
+UBCV,2015,W,THTR,391,B,OVERALL,Rehearsal and Performance,,12,84.25,3.360871099,88.0,78.0,0,0,0,0,0,0,0,,,7,0
+UBCV,2015,W,THTR,391,C,001,Rehearsal and Performance,Cathy Burnett;Gayle Murphy;Stephen Malloy,12,84.25,3.360871099,88.0,78.0,0,0,0,0,0,0,0,,,7,0
+UBCV,2015,W,THTR,391,C,OVERALL,Rehearsal and Performance,,12,84.25,3.360871099,88.0,78.0,0,0,0,0,0,0,0,,,7,0
+UBCV,2015,W,THTR,399,A,OVERALL,Production II,,7,86.142857143,7.221001118,98.0,77.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,THTR,399,B,001,Production II,Bradley Powers;Robert Gardiner,6,87.833333333,7.440878084,98.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,THTR,399,B,OVERALL,Production II,,7,87.0,7.141428429,98.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,THTR,399,C,001,Production II,Bradley Powers;Jacqueline Firkins;Jillian Wyness;Robert Gardiner,7,86.0,4.830458915,93.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,THTR,399,C,003,Production II,Bradley Powers,5,87.6,2.792848009,91.0,85.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,THTR,399,C,OVERALL,Production II,,13,86.461538462,3.928854469,93.0,80.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2015,W,THTR,405,,001,Scenery Design II,Robert Gardiner,8,77.625,12.339686266,88.0,50.0,0,,,,,,,,,,0
+UBCV,2015,W,THTR,405,,OVERALL,Scenery Design II,,8,77.625,12.339686266,88.0,50.0,0,,,,,,,,,,0
+UBCV,2015,W,THTR,406,,001,Costume Design II,Jacqueline Firkins,10,83.3,2.790858092,87.0,78.0,0,0,0,0,0,0,0,,5,,0
+UBCV,2015,W,THTR,406,,OVERALL,Costume Design II,,10,83.3,2.790858092,87.0,78.0,0,0,0,0,0,0,0,,5,,0
+UBCV,2015,W,THTR,407,,001,Lighting Design II,Robert Gardiner,7,89.571428571,1.618347187,92.0,88.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,THTR,407,,OVERALL,Lighting Design II,,7,89.571428571,1.618347187,92.0,88.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,THTR,408,A,001,Advanced Study in Design and Scenography,Garvin Eugene Eddy,13,90.538461538,8.60828462,99.0,67.0,0,0,0,0,,,,,,,9
+UBCV,2015,W,THTR,408,A,OVERALL,Advanced Study in Design and Scenography,,13,90.538461538,8.60828462,99.0,67.0,0,0,0,0,,,,,,,9
+UBCV,2015,W,THTR,408,B,001,Advanced Study in Design and Scenography,Robert Gardiner,6,88.166666667,3.188521078,92.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,THTR,408,B,OVERALL,Advanced Study in Design and Scenography,,6,88.166666667,3.188521078,92.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,THTR,410,,001,Dramaturgy,Rachel Ditor,22,84.136363636,9.716434063,99.0,60.0,0,0,0,,,,,,7,,9
+UBCV,2015,W,THTR,410,,OVERALL,Dramaturgy,,22,84.136363636,9.716434063,99.0,60.0,0,0,0,,,,,,7,,9
+UBCV,2015,W,THTR,420,,001,History of Theatre II,Hallie Marshall,18,77.833333333,7.253802248,90.0,68.0,0,0,0,0,0,5,,,,,
+UBCV,2015,W,THTR,420,,OVERALL,History of Theatre II,,18,77.833333333,7.253802248,90.0,68.0,0,0,0,0,0,5,,,,,
+UBCV,2015,W,THTR,440,A,001,Topics in Theatre,Hallie Marshall,8,79.875,8.708575412,92.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,THTR,440,A,OVERALL,Topics in Theatre,,8,79.875,8.708575412,92.0,68.0,0,0,0,0,0,,,,,,
 UBCV,2015,W,THTR,440,B,001,Topics in Theatre,Siyuan Liu,10,78.0,24.576411455,92.0,10.0,,,,,,,,,,,
 UBCV,2015,W,THTR,440,B,OVERALL,Topics in Theatre,,10,78.0,24.576411455,92.0,10.0,,,,,,,,,,,
-UBCV,2015,W,THTR,440,D,001,Topics in Theatre,Cathy Burnett,14,85.714285714,7.043038805,97.0,70.0,,,,,,,,,,,5
-UBCV,2015,W,THTR,440,D,OVERALL,Topics in Theatre,,14,85.714285714,7.043038805,97.0,70.0,,,,,,,,,,,5
-UBCV,2015,W,THTR,445,,001,Majors and Honours Seminar,Siyuan Liu,9,79.666666667,7.262919523,88.0,67.0,,,,,,,,,,,
-UBCV,2015,W,THTR,445,,OVERALL,Majors and Honours Seminar,,9,79.666666667,7.262919523,88.0,67.0,,,,,,,,,,,
-UBCV,2015,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Bradley Powers,9,84.444444444,11.170397387000001,95.0,62.0,,,,,,,,,,,
-UBCV,2015,W,THTR,448,B,OVERALL,Directed Studies in Theatre Theory and Practice,,9,84.444444444,11.170397387000001,95.0,62.0,,,,,,,,,,,
-UBCV,2015,W,THTR,450,,001,Scenery Production II,Bradley Powers,9,77.444444444,15.733015534000002,89.0,39.0,,,,,,,,,,,
-UBCV,2015,W,THTR,450,,OVERALL,Scenery Production II,,9,77.444444444,15.733015534000002,89.0,39.0,,,,,,,,,,,
-UBCV,2015,W,THTR,452,,001,Scene Painting II,Ruth Skai Fowler,8,87.375,3.1139088889999997,92.0,83.0,,,,,,,,,,,
-UBCV,2015,W,THTR,452,,OVERALL,Scene Painting II,,8,87.375,3.1139088889999997,92.0,83.0,,,,,,,,,,,
-UBCV,2015,W,THTR,456,,001,Costume Construction II,Jacqueline Firkins,10,81.6,8.221921916,90.0,62.0,,,,,,,,,,,
-UBCV,2015,W,THTR,456,,OVERALL,Costume Construction II,,10,81.6,8.221921916,90.0,62.0,,,,,,,,,,,
-UBCV,2015,W,THTR,471,,001,Advanced B.F.A. Acting I,Sarah Rodgers,8,85.0,2.20389266,88.0,81.0,,,,,,,,,,,
-UBCV,2015,W,THTR,471,,OVERALL,Advanced B.F.A. Acting I,,8,85.0,2.20389266,88.0,81.0,,,,,,,,,,,
-UBCV,2015,W,THTR,472,,001,Advanced B.F.A. Acting II,Cathy Burnett;Chris Mcgregor,8,88.0,1.603567451,91.0,86.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,472,,OVERALL,Advanced B.F.A. Acting II,,8,88.0,1.603567451,91.0,86.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,473,,001,Advanced Speech and Movement I,Cathy Burnett;Gayle Murphy,8,85.0,2.20389266,88.0,81.0,,,,,,,,,,,
-UBCV,2015,W,THTR,473,,OVERALL,Advanced Speech and Movement I,,8,85.0,2.20389266,88.0,81.0,,,,,,,,,,,
-UBCV,2015,W,THTR,474,,001,Advanced Speech and Movement II,Cathy Burnett;Gayle Murphy,8,88.0,1.603567451,91.0,86.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,474,,OVERALL,Advanced Speech and Movement II,,8,88.0,1.603567451,91.0,86.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,491,A,001,Advanced Rehearsal and Performance,Sarah Rodgers,8,85.0,2.20389266,88.0,81.0,,,,,,,,,,,
-UBCV,2015,W,THTR,491,A,OVERALL,Advanced Rehearsal and Performance,,8,85.0,2.20389266,88.0,81.0,,,,,,,,,,,
-UBCV,2015,W,THTR,491,B,001,Advanced Rehearsal and Performance,Cathy Burnett;Gayle Murphy,8,88.0,1.603567451,91.0,86.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,491,B,OVERALL,Advanced Rehearsal and Performance,,8,88.0,1.603567451,91.0,86.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,491,C,001,Advanced Rehearsal and Performance,Cathy Burnett;Gayle Murphy;Stephen Malloy,8,88.0,1.603567451,91.0,86.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,491,C,OVERALL,Advanced Rehearsal and Performance,,8,88.0,1.603567451,91.0,86.0,,,,,,,,,,7,
-UBCV,2015,W,THTR,499,C,003,Production III,Bradley Powers,7,90.428571429,5.28700113,95.0,83.0,,,,,,,,,,,5
-UBCV,2015,W,THTR,499,C,OVERALL,Production III,,10,89.5,5.06074215,95.0,82.0,,,,,,,,,,,7
-UBCV,2015,W,THTR,500,,001,Bibliography and Research Methods,Kirsty Johnston,7,90.428571429,1.272418021,92.0,88.0,,,,,,,,,,,6
-UBCV,2015,W,THTR,500,,OVERALL,Bibliography and Research Methods,,7,90.428571429,1.272418021,92.0,88.0,,,,,,,,,,,6
-UBCV,2015,W,THTR,530,C,001,Seminar: Relationships Between Theatre and the Other Arts,Siyuan Liu,5,87.4,1.673320053,90.0,86.0,,,,,,,,,,,
-UBCV,2015,W,THTR,530,C,OVERALL,Seminar: Relationships Between Theatre and the Other Arts,,5,87.4,1.673320053,90.0,86.0,,,,,,,,,,,
-UBCV,2015,W,THTR,547,A,001,Directed Studies in Theatre and Drama and Film/Television,Bradley Powers;Cathy Burnett;Gayle Murphy;Hallie Marshall;Jacqueline Firkins;Jerry Wasserman;Kirsty Johnston;Robert Gardiner;Siyuan Liu;Stephen Heatley;Tom Scholte,5,87.8,2.167948339,91.0,85.0,,,,,,,,,,,
-UBCV,2015,W,THTR,547,A,OVERALL,Directed Studies in Theatre and Drama and Film/Television,,5,87.8,2.167948339,91.0,85.0,,,,,,,,,,,
-UBCV,2015,W,THTR,547,B,OVERALL,Directed Studies in Theatre and Drama and Film/Television,,8,87.25,2.375469878,90.0,85.0,,,,,,,,,,5,
+UBCV,2015,W,THTR,440,D,001,Topics in Theatre,Cathy Burnett,14,85.714285714,7.043038805,97.0,70.0,0,0,0,0,0,,,,,,5
+UBCV,2015,W,THTR,440,D,OVERALL,Topics in Theatre,,14,85.714285714,7.043038805,97.0,70.0,0,0,0,0,0,,,,,,5
+UBCV,2015,W,THTR,445,,001,Majors and Honours Seminar,Siyuan Liu,9,79.666666667,7.262919523,88.0,67.0,0,0,0,0,,,,,,,0
+UBCV,2015,W,THTR,445,,OVERALL,Majors and Honours Seminar,,9,79.666666667,7.262919523,88.0,67.0,0,0,0,0,,,,,,,0
+UBCV,2015,W,THTR,448,B,002,Directed Studies in Theatre Theory and Practice,Bradley Powers,9,84.444444444,11.170397387,95.0,62.0,0,0,0,,,,,,,,
+UBCV,2015,W,THTR,448,B,OVERALL,Directed Studies in Theatre Theory and Practice,,9,84.444444444,11.170397387,95.0,62.0,0,0,0,,,,,,,,
+UBCV,2015,W,THTR,450,,001,Scenery Production II,Bradley Powers,9,77.444444444,15.733015534,89.0,39.0,,,,,,,,,,,0
+UBCV,2015,W,THTR,450,,OVERALL,Scenery Production II,,9,77.444444444,15.733015534,89.0,39.0,,,,,,,,,,,0
+UBCV,2015,W,THTR,452,,001,Scene Painting II,Ruth Skai Fowler,8,87.375,3.113908889,92.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,THTR,452,,OVERALL,Scene Painting II,,8,87.375,3.113908889,92.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,THTR,456,,001,Costume Construction II,Jacqueline Firkins,10,81.6,8.221921916,90.0,62.0,0,0,0,,,,,,,,
+UBCV,2015,W,THTR,456,,OVERALL,Costume Construction II,,10,81.6,8.221921916,90.0,62.0,0,0,0,,,,,,,,
+UBCV,2015,W,THTR,471,,001,Advanced B.F.A. Acting I,Sarah Rodgers,8,85.0,2.20389266,88.0,81.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,THTR,471,,OVERALL,Advanced B.F.A. Acting I,,8,85.0,2.20389266,88.0,81.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,THTR,472,,001,Advanced B.F.A. Acting II,Cathy Burnett;Chris Mcgregor,8,88.0,1.603567451,91.0,86.0,0,0,0,0,0,0,0,0,0,7,1.0
+UBCV,2015,W,THTR,472,,OVERALL,Advanced B.F.A. Acting II,,8,88.0,1.603567451,91.0,86.0,0,0,0,0,0,0,0,0,0,7,1.0
+UBCV,2015,W,THTR,473,,001,Advanced Speech and Movement I,Cathy Burnett;Gayle Murphy,8,85.0,2.20389266,88.0,81.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,THTR,473,,OVERALL,Advanced Speech and Movement I,,8,85.0,2.20389266,88.0,81.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,THTR,474,,001,Advanced Speech and Movement II,Cathy Burnett;Gayle Murphy,8,88.0,1.603567451,91.0,86.0,0,0,0,0,0,0,0,0,0,7,1.0
+UBCV,2015,W,THTR,474,,OVERALL,Advanced Speech and Movement II,,8,88.0,1.603567451,91.0,86.0,0,0,0,0,0,0,0,0,0,7,1.0
+UBCV,2015,W,THTR,491,A,001,Advanced Rehearsal and Performance,Sarah Rodgers,8,85.0,2.20389266,88.0,81.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,THTR,491,A,OVERALL,Advanced Rehearsal and Performance,,8,85.0,2.20389266,88.0,81.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,THTR,491,B,001,Advanced Rehearsal and Performance,Cathy Burnett;Gayle Murphy,8,88.0,1.603567451,91.0,86.0,0,0,0,0,0,0,0,0,0,7,1.0
+UBCV,2015,W,THTR,491,B,OVERALL,Advanced Rehearsal and Performance,,8,88.0,1.603567451,91.0,86.0,0,0,0,0,0,0,0,0,0,7,1.0
+UBCV,2015,W,THTR,491,C,001,Advanced Rehearsal and Performance,Cathy Burnett;Gayle Murphy;Stephen Malloy,8,88.0,1.603567451,91.0,86.0,0,0,0,0,0,0,0,0,0,7,1.0
+UBCV,2015,W,THTR,491,C,OVERALL,Advanced Rehearsal and Performance,,8,88.0,1.603567451,91.0,86.0,0,0,0,0,0,0,0,0,0,7,1.0
+UBCV,2015,W,THTR,499,C,003,Production III,Bradley Powers,7,90.428571429,5.28700113,95.0,83.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,THTR,499,C,OVERALL,Production III,,10,89.5,5.06074215,95.0,82.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2015,W,THTR,500,,001,Bibliography and Research Methods,Kirsty Johnston,7,90.428571429,1.272418021,92.0,88.0,0,0,0,0,0,0,0,0,0,1.0,6
+UBCV,2015,W,THTR,500,,OVERALL,Bibliography and Research Methods,,7,90.428571429,1.272418021,92.0,88.0,0,0,0,0,0,0,0,0,0,1.0,6
+UBCV,2015,W,THTR,530,C,001,Seminar: Relationships Between Theatre and the Other Arts,Siyuan Liu,5,87.4,1.673320053,90.0,86.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,THTR,530,C,OVERALL,Seminar: Relationships Between Theatre and the Other Arts,,5,87.4,1.673320053,90.0,86.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,THTR,547,A,001,Directed Studies in Theatre and Drama and Film/Television,Bradley Powers;Cathy Burnett;Gayle Murphy;Hallie Marshall;Jacqueline Firkins;Jerry Wasserman;Kirsty Johnston;Robert Gardiner;Siyuan Liu;Stephen Heatley;Tom Scholte,5,87.8,2.167948339,91.0,85.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,THTR,547,A,OVERALL,Directed Studies in Theatre and Drama and Film/Television,,5,87.8,2.167948339,91.0,85.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,THTR,547,B,OVERALL,Directed Studies in Theatre and Drama and Film/Television,,8,87.25,2.375469878,90.0,85.0,0,0,0,0,0,0,0,0,0,5,3.0

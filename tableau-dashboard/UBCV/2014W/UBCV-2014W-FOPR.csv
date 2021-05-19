@@ -1,5 +1,5 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,FOPR,261,,101,Basic Geomatics for Natural Resources,Charles Lyons,43,80.51162791,10.93785931,98.0,56.0,,,,,,6,,5,5,5,13
+UBCV,2014,W,FOPR,261,,101,Basic Geomatics for Natural Resources,Charles Lyons,43,80.51162791,10.93785931,98.0,56.0,0,0,,,,6,,5,5,5,13
 UBCV,2014,W,FOPR,261,,OVERALL,Basic Geomatics for Natural Resources,,45,79.84444444,11.9619768,98.0,45.0,,,,,,6,,5,5,6,13
 UBCV,2014,W,FOPR,262,,101,Forest Access and Transportation,Charles Lyons,41,75.90243902,15.88207304,94.0,4.0,,,,,,,5,,9,9,
 UBCV,2014,W,FOPR,262,,OVERALL,Forest Access and Transportation,,42,76.07142857,15.72537619,94.0,4.0,,,,,,,5,,10,9,
@@ -7,7 +7,7 @@ UBCV,2014,W,FOPR,362,,201,Sustainability and Forest Operations,Dennis Bendickson
 UBCV,2014,W,FOPR,362,,OVERALL,Sustainability and Forest Operations,,23,74.39130435,12.98859335,96.0,41.0,,,,,,,,,5,,
 UBCV,2014,W,FOPR,388,,101,Analytical Methods in Forest Hydrology,Younes Alila,15,65.93333333,18.15987204,90.0,11.0,,,,,,6,,,,,
 UBCV,2014,W,FOPR,388,,OVERALL,Analytical Methods in Forest Hydrology,,15,65.93333333,18.15987204,90.0,11.0,,,,,,6,,,,,
-UBCV,2014,W,FOPR,459,,201,"Economics, Contracts, and Finances in Forest Operations",Dennis Bendickson,7,80.71428571,5.736267245,88.0,75.0,,,,,,,,,,,
-UBCV,2014,W,FOPR,459,,OVERALL,"Economics, Contracts, and Finances in Forest Operations",,7,80.71428571,5.736267245,88.0,75.0,,,,,,,,,,,
-UBCV,2014,W,FOPR,464,,201,Forestry Machines,Charles Lyons,7,78.42857143,8.541216597,90.0,68.0,,,,,,,,,,,
-UBCV,2014,W,FOPR,464,,OVERALL,Forestry Machines,,7,78.42857143,8.541216597,90.0,68.0,,,,,,,,,,,
+UBCV,2014,W,FOPR,459,,201,"Economics, Contracts, and Finances in Forest Operations",Dennis Bendickson,7,80.71428571,5.736267245,88.0,75.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,W,FOPR,459,,OVERALL,"Economics, Contracts, and Finances in Forest Operations",,7,80.71428571,5.736267245,88.0,75.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,W,FOPR,464,,201,Forestry Machines,Charles Lyons,7,78.42857143,8.541216597,90.0,68.0,0,0,0,0,0,,,,,,
+UBCV,2014,W,FOPR,464,,OVERALL,Forestry Machines,,7,78.42857143,8.541216597,90.0,68.0,0,0,0,0,0,,,,,,

@@ -1,175 +1,175 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,MECH,220,,101,Technical Skills Practicum,Ali Roustaei;Carl Ollivier-Gooch;Coskun Islam;Gary Schajer;Hongliang Fan;Jon Mikkelsen;Mahkame Sharbatdar;Markus Fengler;Masashi Karasawa;Michael Rotenberg;Oguzhan Tuysuz;Per Henrik Johansson;Sheldon Green,125,81.432,4.117891725,89.0,70.0,,,,,,,9,21,62,30,
-UBCV,2015,W,MECH,220,,OVERALL,Technical Skills Practicum,,125,81.432,4.117891725,89.0,70.0,,,,,,,9,21,62,30,
-UBCV,2015,W,MECH,221,,101,Engineering Science I,Alireza Jalali;Anis Umi Saadah Binti Othman;Baseer Abdul;Carl Ollivier-Gooch;Clinton Durney;Clinton Hamilton Durney;Cole Zmurchok;Coskun Islam;Fariba Sheykhjaberi;Gary Schajer;Graham Hendra;Ibrahim Mohamed Gadala;Jeremy Wells;Kui Pan;Kush Shah;Mahkame Sharbatdar;Matthew Keith Pan;Mohammad Shanb Ghazani;Navid Ghadermarzy;Navid Shirzad;Negar Mohaghegh Harandi;Parisa Sarmadi;Pegah Kharazmi;Peter Cripton;Seyedmohammad Miraskari;Sophia Chan;Sudha Lohani,132,76.636363636,7.631066204,94.0,59.0,,,,,13,15,22,25,30,16,5
-UBCV,2015,W,MECH,221,,OVERALL,Engineering Science I,,132,76.636363636,7.631066204,94.0,59.0,,,,,13,15,22,25,30,16,5
-UBCV,2015,W,MECH,222,,201,Engineering Science II,Ali Roustaei;Alireza Jalali;Carl Ollivier-Gooch;Daniel Gomez;Frederic Paquin-Lefebvre;Graham Hendra;Graham Ronald Rupert Hendra;Hatef Rahmani;Kai Kin Gary Yan;Kai Kin Yan;Mahkame Sharbatdar;Marjan Bezgabadi;Marjan Zare Bezgabadi;Morgan Hibbert;Navid Shirzad;Nima Atabaki;Reza Zangeneh;Seyedmohammad Miraskari;Shalaleh Rismani;Shayan Hoshyari,128,72.484375,12.054981899000001,100.0,29.0,7,0.0,5,13,8,21,21,21,18,6,8
-UBCV,2015,W,MECH,222,,OVERALL,Engineering Science II,,128,72.484375,12.054981899000001,100.0,29.0,7,0.0,5,13,8,21,21,21,18,6,8
+UBCV,2015,W,MECH,220,,101,Technical Skills Practicum,Ali Roustaei;Carl Ollivier-Gooch;Coskun Islam;Gary Schajer;Hongliang Fan;Jon Mikkelsen;Mahkame Sharbatdar;Markus Fengler;Masashi Karasawa;Michael Rotenberg;Oguzhan Tuysuz;Per Henrik Johansson;Sheldon Green,125,81.432,4.117891725,89.0,70.0,0,0,0,0,0,3.0,9,21,62,30,0
+UBCV,2015,W,MECH,220,,OVERALL,Technical Skills Practicum,,125,81.432,4.117891725,89.0,70.0,0,0,0,0,0,3.0,9,21,62,30,0
+UBCV,2015,W,MECH,221,,101,Engineering Science I,Alireza Jalali;Anis Umi Saadah Binti Othman;Baseer Abdul;Carl Ollivier-Gooch;Clinton Durney;Clinton Hamilton Durney;Cole Zmurchok;Coskun Islam;Fariba Sheykhjaberi;Gary Schajer;Graham Hendra;Ibrahim Mohamed Gadala;Jeremy Wells;Kui Pan;Kush Shah;Mahkame Sharbatdar;Matthew Keith Pan;Mohammad Shanb Ghazani;Navid Ghadermarzy;Navid Shirzad;Negar Mohaghegh Harandi;Parisa Sarmadi;Pegah Kharazmi;Peter Cripton;Seyedmohammad Miraskari;Sophia Chan;Sudha Lohani,132,76.636363636,7.631066204,94.0,59.0,0,0,,,13,15,22,25,30,16,5
+UBCV,2015,W,MECH,221,,OVERALL,Engineering Science I,,132,76.636363636,7.631066204,94.0,59.0,0,0,,,13,15,22,25,30,16,5
+UBCV,2015,W,MECH,222,,201,Engineering Science II,Ali Roustaei;Alireza Jalali;Carl Ollivier-Gooch;Daniel Gomez;Frederic Paquin-Lefebvre;Graham Hendra;Graham Ronald Rupert Hendra;Hatef Rahmani;Kai Kin Gary Yan;Kai Kin Yan;Mahkame Sharbatdar;Marjan Bezgabadi;Marjan Zare Bezgabadi;Morgan Hibbert;Navid Shirzad;Nima Atabaki;Reza Zangeneh;Seyedmohammad Miraskari;Shalaleh Rismani;Shayan Hoshyari,128,72.484375,12.054981899,100.0,29.0,7,0.0,5,13,8,21,21,21,18,6,8
+UBCV,2015,W,MECH,222,,OVERALL,Engineering Science II,,128,72.484375,12.054981899,100.0,29.0,7,0.0,5,13,8,21,21,21,18,6,8
 UBCV,2015,W,MECH,223,,201,Mechanical Design,Agnes D'Entremont;Carl Ollivier-Gooch;Daniel Gomez;Frederic Paquin-Lefebvre;Graham Hendra;Graham Ronald Rupert Hendra;Gregg Parsons;Jeff Mun Chun Yeo;Kenard Agbanlog;M'Beth Schoenfeld;Mahsa Khalili;Marjan Bezgabadi;Marjan Zare Bezgabadi;Markus Fengler;Matthew Keith Pan;Navid Shirzad;Peter Ostafichuk;Seyedmohammad Miraskari;Tugce Tuysuz;Yueh Lai,125,72.4,11.396094407,100.0,36.0,4.0,8,8,5,7,9,19,33,21,6,5
 UBCV,2015,W,MECH,223,,OVERALL,Mechanical Design,,125,72.4,11.396094407,100.0,36.0,4.0,8,8,5,7,9,19,33,21,6,5
-UBCV,2015,W,MECH,224,,1AB,Integration of Engineering Concepts I,Arman Zandinia;Carl Ollivier-Gooch;Chandan Sejekan;Kai Kin Gary Yan;Kai Kin Yan;Naga Raghavendra Koppisetti,64,77.109375,9.248109524,92.0,43.0,,,,,,5,8,14,19,7,
+UBCV,2015,W,MECH,224,,1AB,Integration of Engineering Concepts I,Arman Zandinia;Carl Ollivier-Gooch;Chandan Sejekan;Kai Kin Gary Yan;Kai Kin Yan;Naga Raghavendra Koppisetti,64,77.109375,9.248109524,92.0,43.0,2,,,,,5,8,14,19,7,
 UBCV,2015,W,MECH,224,,1CD,Integration of Engineering Concepts I,Arman Zandinia;Carl Ollivier-Gooch;Chandan Sejekan;Kai Kin Gary Yan;Kai Kin Yan;Naga Raghavendra Koppisetti,68,72.955882353,11.524709112,94.0,43.0,6,,,,6,11,12,11,11,7,
-UBCV,2015,W,MECH,224,,1RM,Integration of Engineering Concepts I,Carl Ollivier-Gooch,9,62.666666667,4.062019202,72.0,58.0,,,,5,,,,,,,
-UBCV,2015,W,MECH,224,,2RM,Integration of Engineering Concepts I,Carl Ollivier-Gooch,6,61.166666667,4.16733328,66.0,56.0,,,,,,,,,,,
+UBCV,2015,W,MECH,224,,1RM,Integration of Engineering Concepts I,Carl Ollivier-Gooch,9,62.666666667,4.062019202,72.0,58.0,0,0,,5,,0,1,0,0,0,0
+UBCV,2015,W,MECH,224,,2RM,Integration of Engineering Concepts I,Carl Ollivier-Gooch,6,61.166666667,4.16733328,66.0,56.0,0,0,,,,0,0,0,0,0,0
 UBCV,2015,W,MECH,224,,OVERALL,Integration of Engineering Concepts I,,147,73.653061224,10.893414538,94.0,43.0,8,0.0,5,11,12,16,21,25,30,14,5
-UBCV,2015,W,MECH,225,,2AB,Integration of Engineering Concepts II,Carl Ollivier-Gooch,62,74.274193548,12.091413230999999,98.0,29.0,,,,,,10,11,12,11,,
-UBCV,2015,W,MECH,225,,2CD,Integration of Engineering Concepts II,Carl Ollivier-Gooch,66,69.742424242,13.471691809000001,100.0,32.0,7,,,9,,11,10,9,7,,
-UBCV,2015,W,MECH,225,,2RM,Integration of Engineering Concepts II,Carl Ollivier-Gooch,5,62.2,5.019960159,70.0,58.0,,,,,,1,0,0,0,,
-UBCV,2015,W,MECH,225,,OVERALL,Integration of Engineering Concepts II,,134,71.46268656699999,12.901976719,100.0,29.0,11,0.0,7,12,8,22,21,21,18,6,8
-UBCV,2015,W,MECH,226,,001,Technical Communication for Mechanical Engineers,Ambuj Nagchaudhuri;Mahkame Sharbatdar;Tatiana Teslenko,108,85.79629629600001,4.786584171,94.0,61.0,,,,,,,,,36,35,33
-UBCV,2015,W,MECH,226,,OVERALL,Technical Communication for Mechanical Engineers,,108,85.79629629600001,4.786584171,94.0,61.0,,,,,,,,,36,35,33
+UBCV,2015,W,MECH,225,,2AB,Integration of Engineering Concepts II,Carl Ollivier-Gooch,62,74.274193548,12.091413231,98.0,29.0,4,,,,,10,11,12,11,,
+UBCV,2015,W,MECH,225,,2CD,Integration of Engineering Concepts II,Carl Ollivier-Gooch,66,69.742424242,13.471691809,100.0,32.0,7,,,9,,11,10,9,7,,
+UBCV,2015,W,MECH,225,,2RM,Integration of Engineering Concepts II,Carl Ollivier-Gooch,5,62.2,5.019960159,70.0,58.0,0,0,,,,1,0,0,0,0,0
+UBCV,2015,W,MECH,225,,OVERALL,Integration of Engineering Concepts II,,134,71.462686567,12.901976719,100.0,29.0,11,0.0,7,12,8,22,21,21,18,6,8
+UBCV,2015,W,MECH,226,,001,Technical Communication for Mechanical Engineers,Ambuj Nagchaudhuri;Mahkame Sharbatdar;Tatiana Teslenko,108,85.796296296,4.786584171,94.0,61.0,0,0,0,,,,,,36,35,33
+UBCV,2015,W,MECH,226,,OVERALL,Technical Communication for Mechanical Engineers,,108,85.796296296,4.786584171,94.0,61.0,0,0,0,,,,,,36,35,33
 UBCV,2015,W,MECH,260,,101,Introduction to Mechanics of Materials,Abbas Hosseini;Hoda Talebian;Jon Mikkelsen;Min Xia;Teng Li,111,68.216216216,12.066034526,94.0,27.0,8,2,12,12,14,14,22,7,10,6,4
-UBCV,2015,W,MECH,260,,102,Introduction to Mechanics of Materials,Clarence Wilfred De Silva,118,70.262711864,15.577996737000001,99.0,26.0,5,17,5,8,11,15,11,10,11,8,17
+UBCV,2015,W,MECH,260,,102,Introduction to Mechanics of Materials,Clarence Wilfred De Silva,118,70.262711864,15.577996737,99.0,26.0,5,17,5,8,11,15,11,10,11,8,17
 UBCV,2015,W,MECH,260,,OVERALL,Introduction to Mechanics of Materials,,229,69.270742358,13.993609753,99.0,26.0,13,19,17,20,25,29,33,17,21,14,21
-UBCV,2015,W,MECH,280,,201,Introduction to Fluid Mechanics,Amir Maleki Zamenjani;Emad Chaparian;Ian Frigaard,54,71.333333333,15.191854819000001,97.0,25.0,6,,,,6,6,5,8,6,,8
-UBCV,2015,W,MECH,280,,OVERALL,Introduction to Fluid Mechanics,,54,71.333333333,15.191854819000001,97.0,25.0,6,,,,6,6,5,8,6,,8
+UBCV,2015,W,MECH,280,,201,Introduction to Fluid Mechanics,Amir Maleki Zamenjani;Emad Chaparian;Ian Frigaard,54,71.333333333,15.191854819,97.0,25.0,6,,,,6,6,5,8,6,,8
+UBCV,2015,W,MECH,280,,OVERALL,Introduction to Fluid Mechanics,,54,71.333333333,15.191854819,97.0,25.0,6,,,,6,6,5,8,6,,8
 UBCV,2015,W,MECH,305,,201,Data Analysis and Mechanical Engineering Laboratories,Abbas Hosseini;Amir Farzad Forughi;Amirhossein Salimian;Ehsan Zaman;James Alec Morrison Cronkite;Jay Leong;Jon Mikkelsen;Masoud Hejazi;Mohammad Shanb Ghazani;Parisa Sarmadi;Ramin Dastanpour;Reza Zangeneh,96,80.197916667,7.833289007,95.0,48.0,,,,,,8,8,17,22,24,11
 UBCV,2015,W,MECH,305,,OVERALL,Data Analysis and Mechanical Engineering Laboratories,,96,80.197916667,7.833289007,95.0,48.0,,,,,,8,8,17,22,24,11
-UBCV,2015,W,MECH,306,,201,Data Analysis and Mechatronics Laboratories,Jon Mikkelsen,32,81.34375,5.319528084,92.0,72.0,,,,,,,6,6,10,8,
-UBCV,2015,W,MECH,306,,OVERALL,Data Analysis and Mechatronics Laboratories,,32,81.34375,5.319528084,92.0,72.0,,,,,,,6,6,10,8,
+UBCV,2015,W,MECH,306,,201,Data Analysis and Mechatronics Laboratories,Jon Mikkelsen,32,81.34375,5.319528084,92.0,72.0,0,0,0,0,0,0,6,6,10,8,2.0
+UBCV,2015,W,MECH,306,,OVERALL,Data Analysis and Mechatronics Laboratories,,32,81.34375,5.319528084,92.0,72.0,0,0,0,0,0,0,6,6,10,8,2.0
 UBCV,2015,W,MECH,325,,101,Mechanical Design I,Bulmaro Adolfo Valdes Benavides;Deniz Aslan;Hendrik Van Der Loos;Jon Mikkelsen;Mahsa Khalili;Masashi Karasawa;Parisa Sarmadi;Pooyan Kheirkhah;Pouyan Jahangiri Ardkapan;Qiang Zou,100,76.3,8.757680612,93.0,44.0,1,,,,11,17,11,21,20,7,9
-UBCV,2015,W,MECH,325,,102,Mechanical Design I,Hendrik Van Der Loos;Jon Mikkelsen,131,73.748091603,10.486873487999999,96.0,30.0,5,,,,15,19,18,25,27,9,5
+UBCV,2015,W,MECH,325,,102,Mechanical Design I,Hendrik Van Der Loos;Jon Mikkelsen,131,73.748091603,10.486873488,96.0,30.0,5,,,,15,19,18,25,27,9,5
 UBCV,2015,W,MECH,325,,OVERALL,Mechanical Design I,,231,74.852813853,9.837593306,96.0,30.0,6,,,5,26,36,29,46,47,16,14
-UBCV,2015,W,MECH,326,,101,Mechanical Design II,Alptunc Comak;Ambuj Nagchaudhuri;Deniz Aslan;Deniz Ertay;Ehsan Zaman;Peter Ostafichuk;Seyedmohammad Miraskari,101,75.455445545,12.718116804000001,100.0,40.0,4,1,4.0,6,8,12,12,12,18,7,17
+UBCV,2015,W,MECH,326,,101,Mechanical Design II,Alptunc Comak;Ambuj Nagchaudhuri;Deniz Aslan;Deniz Ertay;Ehsan Zaman;Peter Ostafichuk;Seyedmohammad Miraskari,101,75.455445545,12.718116804,100.0,40.0,4,1,4.0,6,8,12,12,12,18,7,17
 UBCV,2015,W,MECH,326,,102,Mechanical Design II,Peter Ostafichuk,100,70.03,13.158286555,100.0,34.0,8,6,3.0,12,6,14,11,16,11,9,4
-UBCV,2015,W,MECH,326,,OVERALL,Mechanical Design II,,201,72.756218905,13.189968674000001,100.0,34.0,12,7,7,18,14,26,23,28,29,16,21
-UBCV,2015,W,MECH,327,,101,Thermal System Design,Babak Nasouri;Patrick Kirchen;Pooyan Kheirkhah,115,76.008695652,11.580000645999998,100.0,41.0,,,,5,10,16,14,17,22,8,15
-UBCV,2015,W,MECH,327,,OVERALL,Thermal System Design,,115,76.008695652,11.580000645999998,100.0,41.0,,,,5,10,16,14,17,22,8,15
+UBCV,2015,W,MECH,326,,OVERALL,Mechanical Design II,,201,72.756218905,13.189968674,100.0,34.0,12,7,7,18,14,26,23,28,29,16,21
+UBCV,2015,W,MECH,327,,101,Thermal System Design,Babak Nasouri;Patrick Kirchen;Pooyan Kheirkhah,115,76.008695652,11.580000646,100.0,41.0,,,,5,10,16,14,17,22,8,15
+UBCV,2015,W,MECH,327,,OVERALL,Thermal System Design,,115,76.008695652,11.580000646,100.0,41.0,,,,5,10,16,14,17,22,8,15
 UBCV,2015,W,MECH,328,,101,Mechanical Engineering Design Project,Cameron Andrew Andrew Stuart;Christopher Brian Mckesson;Christopher Mckesson;Jan Laesecke;Jeff Mun Chun Yeo;Jeremy Rochussen;Markus Fengler;Muhammad Tufail;Oguzhan Tuysuz;Steven Rogak;Voytek Klaptocz,127,81.787401575,6.189635373,96.0,48.0,,,,,,,8,27,44,31,12
 UBCV,2015,W,MECH,328,,OVERALL,Mechanical Engineering Design Project,,127,81.787401575,6.189635373,96.0,48.0,,,,,,,8,27,44,31,12
-UBCV,2015,W,MECH,329,,101,Materials for Mechanical Design,Alicia Figueira;Douglas Romilly,74,68.297297297,12.178725814000002,97.0,43.0,,10,12,,7,9,10,9,6,,
-UBCV,2015,W,MECH,329,,OVERALL,Materials for Mechanical Design,,74,68.297297297,12.178725814000002,97.0,43.0,,10,12,,7,9,10,9,6,,
+UBCV,2015,W,MECH,329,,101,Materials for Mechanical Design,Alicia Figueira;Douglas Romilly,74,68.297297297,12.178725814,97.0,43.0,,10,12,,7,9,10,9,6,,
+UBCV,2015,W,MECH,329,,OVERALL,Materials for Mechanical Design,,74,68.297297297,12.178725814,97.0,43.0,,10,12,,7,9,10,9,6,,
 UBCV,2015,W,MECH,358,,201,Engineering Analysis,Babak Nasouri;Gwynn Elfring;Zhiwei Peng,96,72.875,13.572611741,96.0,17.0,,,5,7,8,12,12,9,18,11,6
 UBCV,2015,W,MECH,358,,OVERALL,Engineering Analysis,,96,72.875,13.572611741,96.0,17.0,,,5,7,8,12,12,9,18,11,6
 UBCV,2015,W,MECH,360,,101,Mechanics of Materials,. Manav;Kui Pan;Srikantha Anasavarapu,92,69.163043478,17.93840326,99.0,17.0,11,6,6,10,7,7,7,3.0,11,9,15
-UBCV,2015,W,MECH,360,,102,Mechanics of Materials,Mohammad Alemi Ardakani,75,77.06666666699999,14.252864419000002,100.0,41.0,,,,6,,8,13,7,4,9,17
+UBCV,2015,W,MECH,360,,102,Mechanics of Materials,Mohammad Alemi Ardakani,75,77.066666667,14.252864419,100.0,41.0,,,,6,,8,13,7,4,9,17
 UBCV,2015,W,MECH,360,,201,Mechanics of Materials,. Manav;Peter Cripton;Sayed Mohammad Hashem Jayhooni,91,80.362637363,15.024806513,99.0,19.0,,,,3,,2,5,7,27,16,23
 UBCV,2015,W,MECH,360,,OVERALL,Mechanics of Materials,,258,75.410852713,16.581416818,100.0,17.0,18,8,9,19,14,17,25,17,42,34,55
-UBCV,2015,W,MECH,366,,101,Modeling of Mechatronic Systems,Amir Farzad Forughi;Robert Rohling,33,83.818181818,8.300807737000001,96.0,69.0,,,,,,,,5,10,,11
-UBCV,2015,W,MECH,366,,OVERALL,Modeling of Mechatronic Systems,,33,83.818181818,8.300807737000001,96.0,69.0,,,,,,,,5,10,,11
+UBCV,2015,W,MECH,366,,101,Modeling of Mechatronic Systems,Amir Farzad Forughi;Robert Rohling,33,83.818181818,8.300807737,96.0,69.0,0,0,0,0,0,,,5,10,,11
+UBCV,2015,W,MECH,366,,OVERALL,Modeling of Mechatronic Systems,,33,83.818181818,8.300807737,96.0,69.0,0,0,0,0,0,,,5,10,,11
 UBCV,2015,W,MECH,368,,101,Engineering Measurements and Instrumentation,Alireza Alizadegan;Guangyi Cao;Justin Yan;Mu Chiao,97,73.865979381,8.86781266,98.0,18.0,,,,,,27,22,14,16,5,
 UBCV,2015,W,MECH,368,,OVERALL,Engineering Measurements and Instrumentation,,97,73.865979381,8.86781266,98.0,18.0,,,,,,27,22,14,16,5,
-UBCV,2015,W,MECH,375,,101,Heat Transfer I,Alireza Jalali;Amir Maleki Zamenjani;Nima Atabaki,85,69.24705882399999,18.988659449,96.0,0.0,14,2,,9,6,,11,4,12,12,9
+UBCV,2015,W,MECH,375,,101,Heat Transfer I,Alireza Jalali;Amir Maleki Zamenjani;Nima Atabaki,85,69.247058824,18.988659449,96.0,0.0,14,2,,9,6,,11,4,12,12,9
 UBCV,2015,W,MECH,375,,201,Heat Transfer I,Nima Atabaki,116,69.198275862,18.466995155,97.0,0.0,16,5,,15,8,,14,9,13,17,12
 UBCV,2015,W,MECH,375,,OVERALL,Heat Transfer I,,201,69.218905473,18.642205899,97.0,0.0,30,7,7,24,14,6,25,13,25,29,21
 UBCV,2015,W,MECH,380,,201,Fluid Dynamics,Ali Etrati;Gaurav Goyal;Gwynn Elfring;Seyed Ali Etrati Khosroshahi;Zhiwei Peng,122,72.106557377,13.532823505,99.0,26.0,7,9,10,2.0,8,16,17,10,24,10,9
 UBCV,2015,W,MECH,380,,OVERALL,Fluid Dynamics,,122,72.106557377,13.532823505,99.0,26.0,7,9,10,2.0,8,16,17,10,24,10,9
-UBCV,2015,W,MECH,386,,101,Industrial Fluid Mechanics,Dana Grecov;Han Hung Yeh;Marjan Bezgabadi;Marjan Zare Bezgabadi,16,82.5625,6.439138141,91.0,73.0,,,,,,,,,,,5
-UBCV,2015,W,MECH,386,,OVERALL,Industrial Fluid Mechanics,,16,82.5625,6.439138141,91.0,73.0,,,,,,,,,,,5
-UBCV,2015,W,MECH,392,,101,Manufacturing Processes,Hsi-Yung Feng;Jimin Joy,118,77.86440678,9.851821172000001,95.0,37.0,,,,5,5,14,14,15,32,16,13
-UBCV,2015,W,MECH,392,,OVERALL,Manufacturing Processes,,118,77.86440678,9.851821172000001,95.0,37.0,,,,5,5,14,14,15,32,16,13
-UBCV,2015,W,MECH,405,,101,Acoustics and Noise Control,Denny Ng;Murray Hodgson,22,73.954545455,9.848747915,85.0,51.0,,,,,,,,,8,,
-UBCV,2015,W,MECH,405,,OVERALL,Acoustics and Noise Control,,22,73.954545455,9.848747915,85.0,51.0,,,,,,,,,8,,
-UBCV,2015,W,MECH,410,M,101,Special Topics in Mechanical Engineering,Xiaodong Lu,6,83.333333333,5.573747991,91.0,77.0,,,,,,,,,,,
-UBCV,2015,W,MECH,410,M,OVERALL,Special Topics in Mechanical Engineering,,6,83.333333333,5.573747991,91.0,77.0,,,,,,,,,,,
+UBCV,2015,W,MECH,386,,101,Industrial Fluid Mechanics,Dana Grecov;Han Hung Yeh;Marjan Bezgabadi;Marjan Zare Bezgabadi,16,82.5625,6.439138141,91.0,73.0,0,0,0,0,0,0,,,,,5
+UBCV,2015,W,MECH,386,,OVERALL,Industrial Fluid Mechanics,,16,82.5625,6.439138141,91.0,73.0,0,0,0,0,0,0,,,,,5
+UBCV,2015,W,MECH,392,,101,Manufacturing Processes,Hsi-Yung Feng;Jimin Joy,118,77.86440678,9.851821172,95.0,37.0,,,,5,5,14,14,15,32,16,13
+UBCV,2015,W,MECH,392,,OVERALL,Manufacturing Processes,,118,77.86440678,9.851821172,95.0,37.0,,,,5,5,14,14,15,32,16,13
+UBCV,2015,W,MECH,405,,101,Acoustics and Noise Control,Denny Ng;Murray Hodgson,22,73.954545455,9.848747915,85.0,51.0,0,,,,,,,,8,,0
+UBCV,2015,W,MECH,405,,OVERALL,Acoustics and Noise Control,,22,73.954545455,9.848747915,85.0,51.0,0,,,,,,,,8,,0
+UBCV,2015,W,MECH,410,M,101,Special Topics in Mechanical Engineering,Xiaodong Lu,6,83.333333333,5.573747991,91.0,77.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,MECH,410,M,OVERALL,Special Topics in Mechanical Engineering,,6,83.333333333,5.573747991,91.0,77.0,0,0,0,0,0,0,0,,,,
 UBCV,2015,W,MECH,420,,101,Sensors and Actuators,Amir Farzad Forughi;Boris Stoeber;Shaun Laidlow,40,76.85,10.778777819,99.0,40.0,,,,,,6,10,6,6,,5
 UBCV,2015,W,MECH,420,,OVERALL,Sensors and Actuators,,40,76.85,10.778777819,99.0,40.0,,,,,,6,10,6,6,,5
 UBCV,2015,W,MECH,421,,201,Mechatronics System Instrumentation,Jian Gao;Xiaodong Lu,36,83.888888889,12.436760666,100.0,25.0,,,,,,,,,9,12,9
 UBCV,2015,W,MECH,421,,OVERALL,Mechatronics System Instrumentation,,36,83.888888889,12.436760666,100.0,25.0,,,,,,,,,9,12,9
-UBCV,2015,W,MECH,423,,201,Biomechatronics,Hongshen Ma,40,82.725,9.083621496000001,94.0,55.0,,,,,,,,,10,9,11
-UBCV,2015,W,MECH,423,,OVERALL,Biomechatronics,,40,82.725,9.083621496000001,94.0,55.0,,,,,,,,,10,9,11
-UBCV,2015,W,MECH,431,,201,Engineering Economics,Hoda Talebian;Mark Hollett;Morgan Hibbert,125,73.72,10.496235883999999,95.0,43.0,,,5,5,16,16,23,16,21,8,9
-UBCV,2015,W,MECH,431,,OVERALL,Engineering Economics,,125,73.72,10.496235883999999,95.0,43.0,,,5,5,16,16,23,16,21,8,9
-UBCV,2015,W,MECH,433,,101,Biofluids,Dana Grecov,13,84.846153846,8.464102176,92.0,61.0,,,,,,,,,,5,
-UBCV,2015,W,MECH,433,,OVERALL,Biofluids,,13,84.846153846,8.464102176,92.0,61.0,,,,,,,,,,5,
-UBCV,2015,W,MECH,435,,201,Orthopaedic Biomechanics,Masoud Malakoutian;Thomas Oxland,31,79.290322581,10.9580824,98.0,56.0,,,,,,,,7,,5,6
-UBCV,2015,W,MECH,435,,OVERALL,Orthopaedic Biomechanics,,31,79.290322581,10.9580824,98.0,56.0,,,,,,,,7,,5,6
-UBCV,2015,W,MECH,436,,201,Fundamentals of Injury Biomechanics,Agnes D'Entremont;Masoud Malakoutian,5,61.8,8.757853618,70.0,50.0,,,,,,,,,,,
-UBCV,2015,W,MECH,436,,OVERALL,Fundamentals of Injury Biomechanics,,5,61.8,8.757853618,70.0,50.0,,,,,,,,,,,
-UBCV,2015,W,MECH,445,,201,Fuel Cell Systems,Walter Merida-Donis,16,79.4375,10.347101043,97.0,60.0,,,,,,,,,,,
-UBCV,2015,W,MECH,445,,OVERALL,Fuel Cell Systems,,16,79.4375,10.347101043,97.0,60.0,,,,,,,,,,,
-UBCV,2015,W,MECH,454,,001,Thermofluids Capstone Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,11,86.27272727299999,3.744086246,90.0,77.0,,,,,,,,,,6,
-UBCV,2015,W,MECH,454,,OVERALL,Thermofluids Capstone Design Project,,11,86.27272727299999,3.744086246,90.0,77.0,,,,,,,,,,6,
-UBCV,2015,W,MECH,457,,001,Mechanical Engineering Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,58,84.89655172399999,3.4523811010000003,95.0,75.0,,,,,,,,,21,28,7
-UBCV,2015,W,MECH,457,,OVERALL,Mechanical Engineering Design Project,,58,84.89655172399999,3.4523811010000003,95.0,75.0,,,,,,,,,21,28,7
-UBCV,2015,W,MECH,458,,001,Mechatronics Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,28,83.607142857,3.23567253,87.0,74.0,,,,,,,,,13,13,
-UBCV,2015,W,MECH,458,,OVERALL,Mechatronics Design Project,,28,83.607142857,3.23567253,87.0,74.0,,,,,,,,,13,13,
-UBCV,2015,W,MECH,459,,001,Biomedical Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,9,89.22222222200001,7.378647873999999,96.0,78.0,,,,,,,,,,,5
-UBCV,2015,W,MECH,459,,OVERALL,Biomedical Design Project,,9,89.22222222200001,7.378647873999999,96.0,78.0,,,,,,,,,,,5
-UBCV,2015,W,MECH,462,,201,Finite Element Analysis,Ali Roustaei;Farzad Hemmati;Mohamed Gadala;Mohamed S Gadala,15,72.333333333,12.488089564000001,90.0,50.0,,,,,,,,,,,
-UBCV,2015,W,MECH,462,,OVERALL,Finite Element Analysis,,15,72.333333333,12.488089564000001,90.0,50.0,,,,,,,,,,,
-UBCV,2015,W,MECH,463,,101,Mechanical Vibrations,Abbas Hosseini;Ehsan Moosavi Mehr;Farzad Hemmati;Kambiz Haji Hajikolaei;Mohammad Barimani;Reza Zangeneh;Sayed Mohammad Hashem Jayhooni,135,74.15555555600001,14.780920874000001,99.0,3.0,6,5,9,11,4.0,12,14,21,20,19,14
-UBCV,2015,W,MECH,463,,OVERALL,Mechanical Vibrations,,135,74.15555555600001,14.780920874000001,99.0,3.0,6,5,9,11,4.0,12,14,21,20,19,14
-UBCV,2015,W,MECH,464,,201,Industrial Robotics,Farzad Hemmati;Muhammad Tufail,24,70.958333333,13.149571547999999,93.0,37.0,,,,,,6,,6,,,
-UBCV,2015,W,MECH,464,,OVERALL,Industrial Robotics,,24,70.958333333,13.149571547999999,93.0,37.0,,,,,,6,,6,,,
+UBCV,2015,W,MECH,423,,201,Biomechatronics,Hongshen Ma,40,82.725,9.083621496,94.0,55.0,0,0,,,,,,,10,9,11
+UBCV,2015,W,MECH,423,,OVERALL,Biomechatronics,,40,82.725,9.083621496,94.0,55.0,0,0,,,,,,,10,9,11
+UBCV,2015,W,MECH,431,,201,Engineering Economics,Hoda Talebian;Mark Hollett;Morgan Hibbert,125,73.72,10.496235884,95.0,43.0,,,5,5,16,16,23,16,21,8,9
+UBCV,2015,W,MECH,431,,OVERALL,Engineering Economics,,125,73.72,10.496235884,95.0,43.0,,,5,5,16,16,23,16,21,8,9
+UBCV,2015,W,MECH,433,,101,Biofluids,Dana Grecov,13,84.846153846,8.464102176,92.0,61.0,0,0,0,,,,,,,5,
+UBCV,2015,W,MECH,433,,OVERALL,Biofluids,,13,84.846153846,8.464102176,92.0,61.0,0,0,0,,,,,,,5,
+UBCV,2015,W,MECH,435,,201,Orthopaedic Biomechanics,Masoud Malakoutian;Thomas Oxland,31,79.290322581,10.9580824,98.0,56.0,0,0,,,,,,7,,5,6
+UBCV,2015,W,MECH,435,,OVERALL,Orthopaedic Biomechanics,,31,79.290322581,10.9580824,98.0,56.0,0,0,,,,,,7,,5,6
+UBCV,2015,W,MECH,436,,201,Fundamentals of Injury Biomechanics,Agnes D'Entremont;Masoud Malakoutian,5,61.8,8.757853618,70.0,50.0,0,,,,,,0,0,0,0,0
+UBCV,2015,W,MECH,436,,OVERALL,Fundamentals of Injury Biomechanics,,5,61.8,8.757853618,70.0,50.0,0,,,,,,0,0,0,0,0
+UBCV,2015,W,MECH,445,,201,Fuel Cell Systems,Walter Merida-Donis,16,79.4375,10.347101043,97.0,60.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,445,,OVERALL,Fuel Cell Systems,,16,79.4375,10.347101043,97.0,60.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,454,,001,Thermofluids Capstone Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,11,86.272727273,3.744086246,90.0,77.0,0,0,0,0,0,0,0,,,6,
+UBCV,2015,W,MECH,454,,OVERALL,Thermofluids Capstone Design Project,,11,86.272727273,3.744086246,90.0,77.0,0,0,0,0,0,0,0,,,6,
+UBCV,2015,W,MECH,457,,001,Mechanical Engineering Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,58,84.896551724,3.452381101,95.0,75.0,0,0,0,0,0,0,,,21,28,7
+UBCV,2015,W,MECH,457,,OVERALL,Mechanical Engineering Design Project,,58,84.896551724,3.452381101,95.0,75.0,0,0,0,0,0,0,,,21,28,7
+UBCV,2015,W,MECH,458,,001,Mechatronics Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,28,83.607142857,3.23567253,87.0,74.0,0,0,0,0,0,0,,,13,13,0
+UBCV,2015,W,MECH,458,,OVERALL,Mechatronics Design Project,,28,83.607142857,3.23567253,87.0,74.0,0,0,0,0,0,0,,,13,13,0
+UBCV,2015,W,MECH,459,,001,Biomedical Design Project,Abdul Vali Syed Syed Hussain;Antony Hodgson;Christopher Brian Mckesson;Christopher Mckesson;Gregg Parsons;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman,9,89.222222222,7.378647874,96.0,78.0,0,0,0,0,0,0,0,,,,5
+UBCV,2015,W,MECH,459,,OVERALL,Biomedical Design Project,,9,89.222222222,7.378647874,96.0,78.0,0,0,0,0,0,0,0,,,,5
+UBCV,2015,W,MECH,462,,201,Finite Element Analysis,Ali Roustaei;Farzad Hemmati;Mohamed Gadala;Mohamed S Gadala,15,72.333333333,12.488089564,90.0,50.0,0,,,,,,,,,,
+UBCV,2015,W,MECH,462,,OVERALL,Finite Element Analysis,,15,72.333333333,12.488089564,90.0,50.0,0,,,,,,,,,,
+UBCV,2015,W,MECH,463,,101,Mechanical Vibrations,Abbas Hosseini;Ehsan Moosavi Mehr;Farzad Hemmati;Kambiz Haji Hajikolaei;Mohammad Barimani;Reza Zangeneh;Sayed Mohammad Hashem Jayhooni,135,74.155555556,14.780920874,99.0,3.0,6,5,9,11,4.0,12,14,21,20,19,14
+UBCV,2015,W,MECH,463,,OVERALL,Mechanical Vibrations,,135,74.155555556,14.780920874,99.0,3.0,6,5,9,11,4.0,12,14,21,20,19,14
+UBCV,2015,W,MECH,464,,201,Industrial Robotics,Farzad Hemmati;Muhammad Tufail,24,70.958333333,13.149571548,93.0,37.0,,,,,,6,,6,,,
+UBCV,2015,W,MECH,464,,OVERALL,Industrial Robotics,,24,70.958333333,13.149571548,93.0,37.0,,,,,,6,,6,,,
 UBCV,2015,W,MECH,466,,201,Automatic Control,Alireza Alizadegan;Chenlu Han;Ehsan Moosavi Mehr;Min Xia;Pan Zhao;Ryozo Nagamune,96,76.65625,11.53012359,99.0,40.0,,,5,,8,10,14,8,18,13,14
 UBCV,2015,W,MECH,466,,OVERALL,Automatic Control,,96,76.65625,11.53012359,99.0,40.0,,,5,,8,10,14,8,18,13,14
 UBCV,2015,W,MECH,467,,101,Computer Control of Mechatronics Systems,Alptunc Comak;Mohammad Rezayi Khoshdarregi;Yusuf Altintas,36,80.916666667,17.434571567,100.0,25.0,,,,,,,,,,,15
 UBCV,2015,W,MECH,467,,OVERALL,Computer Control of Mechatronics Systems,,36,80.916666667,17.434571567,100.0,25.0,,,,,,,,,,,15
-UBCV,2015,W,MECH,468,,101,Modern Control Engineering,Ryozo Nagamune;Shujun Gao,14,78.214285714,11.510387090999998,95.0,55.0,,,,,,,,,5,,
-UBCV,2015,W,MECH,468,,OVERALL,Modern Control Engineering,,14,78.214285714,11.510387090999998,95.0,55.0,,,,,,,,,5,,
+UBCV,2015,W,MECH,468,,101,Modern Control Engineering,Ryozo Nagamune;Shujun Gao,14,78.214285714,11.510387091,95.0,55.0,0,0,,,,,,,5,,
+UBCV,2015,W,MECH,468,,OVERALL,Modern Control Engineering,,14,78.214285714,11.510387091,95.0,55.0,0,0,,,,,,,5,,
 UBCV,2015,W,MECH,469,,101,Dynamic System Modeling,Clarence Wilfred De Silva;Shujun Gao,8,75.125,15.514394238,96.0,45.0,,,,,,,,,,,
 UBCV,2015,W,MECH,469,,OVERALL,Dynamic System Modeling,,8,75.125,15.514394238,96.0,45.0,,,,,,,,,,,
-UBCV,2015,W,MECH,470,,201,Energy Conversion Systems,William Kendal Bushe,15,83.866666667,8.983052827,96.0,62.0,,,,,,,,,,7,
-UBCV,2015,W,MECH,470,,OVERALL,Energy Conversion Systems,,15,83.866666667,8.983052827,96.0,62.0,,,,,,,,,,7,
-UBCV,2015,W,MECH,473,,201,"Heating, Ventilating and Air Conditioning",Steven Nicholas Rogak;Steven Rogak,26,79.653846154,7.636451048,95.0,61.0,,,,,,,,,6,7,
-UBCV,2015,W,MECH,473,,OVERALL,"Heating, Ventilating and Air Conditioning",,26,79.653846154,7.636451048,95.0,61.0,,,,,,,,,6,7,
-UBCV,2015,W,MECH,478,,201,Internal Combustion Engines,Jeremy Rochussen;Patrick Kirchen,36,79.222222222,8.629223144,93.0,64.0,,,,,5,,,,11,,6
-UBCV,2015,W,MECH,478,,OVERALL,Internal Combustion Engines,,36,79.222222222,8.629223144,93.0,64.0,,,,,5,,,,11,,6
-UBCV,2015,W,MECH,479,,101,Computational Fluid Dynamics,Alireza Jalali;William Kendal Bushe,17,81.88235294100001,18.727928185,98.0,14.0,,,,,,,,,5,,5
-UBCV,2015,W,MECH,479,,OVERALL,Computational Fluid Dynamics,,17,81.88235294100001,18.727928185,98.0,14.0,,,,,,,,,5,,5
-UBCV,2015,W,MECH,481,,201,Aerodynamics of Aircraft I,Ali Vakil;Ehsan Zaman,11,80.454545455,12.436749064,94.0,62.0,,,,,,,,,,,
-UBCV,2015,W,MECH,481,,OVERALL,Aerodynamics of Aircraft I,,11,80.454545455,12.436749064,94.0,62.0,,,,,,,,,,,
+UBCV,2015,W,MECH,470,,201,Energy Conversion Systems,William Kendal Bushe,15,83.866666667,8.983052827,96.0,62.0,0,0,0,,,,,,,7,
+UBCV,2015,W,MECH,470,,OVERALL,Energy Conversion Systems,,15,83.866666667,8.983052827,96.0,62.0,0,0,0,,,,,,,7,
+UBCV,2015,W,MECH,473,,201,"Heating, Ventilating and Air Conditioning",Steven Nicholas Rogak;Steven Rogak,26,79.653846154,7.636451048,95.0,61.0,0,0,0,,,,,,6,7,
+UBCV,2015,W,MECH,473,,OVERALL,"Heating, Ventilating and Air Conditioning",,26,79.653846154,7.636451048,95.0,61.0,0,0,0,,,,,,6,7,
+UBCV,2015,W,MECH,478,,201,Internal Combustion Engines,Jeremy Rochussen;Patrick Kirchen,36,79.222222222,8.629223144,93.0,64.0,0,0,0,0,5,,,,11,,6
+UBCV,2015,W,MECH,478,,OVERALL,Internal Combustion Engines,,36,79.222222222,8.629223144,93.0,64.0,0,0,0,0,5,,,,11,,6
+UBCV,2015,W,MECH,479,,101,Computational Fluid Dynamics,Alireza Jalali;William Kendal Bushe,17,81.882352941,18.727928185,98.0,14.0,,,,,,,,,5,,5
+UBCV,2015,W,MECH,479,,OVERALL,Computational Fluid Dynamics,,17,81.882352941,18.727928185,98.0,14.0,,,,,,,,,5,,5
+UBCV,2015,W,MECH,481,,201,Aerodynamics of Aircraft I,Ali Vakil;Ehsan Zaman,11,80.454545455,12.436749064,94.0,62.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,481,,OVERALL,Aerodynamics of Aircraft I,,11,80.454545455,12.436749064,94.0,62.0,0,0,0,,,,,,,,
 UBCV,2015,W,MECH,485,,101,Aircraft Design: Structures,Douglas Romilly;Sayed Mohammad Hashem Jayhooni,28,69.75,13.40984989,98.0,37.0,,,,,7,,,,,,
 UBCV,2015,W,MECH,485,,OVERALL,Aircraft Design: Structures,,28,69.75,13.40984989,98.0,37.0,,,,,7,,,,,,
-UBCV,2015,W,MECH,488,,101,Introduction to Ship Hydrodynamics,Christopher Brian Mckesson;Christopher Mckesson,27,81.62962963,10.972511627000001,100.0,63.0,,,,,,,,5,,,7
-UBCV,2015,W,MECH,488,,OVERALL,Introduction to Ship Hydrodynamics,,27,81.62962963,10.972511627000001,100.0,63.0,,,,,,,,5,,,7
-UBCV,2015,W,MECH,489,,101,Experimental Thermofluids,Amin Engarnevis;Patrick Kirchen,12,83.083333333,2.108783938,86.0,78.0,,,,,,,,,8,,
-UBCV,2015,W,MECH,489,,OVERALL,Experimental Thermofluids,,12,83.083333333,2.108783938,86.0,78.0,,,,,,,,,8,,
-UBCV,2015,W,MECH,491,,201,Computer-Aided Manufacturing,Hsi-Yung Feng;Jimin Joy,35,78.6,10.358855262999999,92.0,55.0,,,,,,,,,10,7,5
-UBCV,2015,W,MECH,491,,OVERALL,Computer-Aided Manufacturing,,35,78.6,10.358855262999999,92.0,55.0,,,,,,,,,10,7,5
+UBCV,2015,W,MECH,488,,101,Introduction to Ship Hydrodynamics,Christopher Brian Mckesson;Christopher Mckesson,27,81.62962963,10.972511627,100.0,63.0,0,0,0,,,,,5,,,7
+UBCV,2015,W,MECH,488,,OVERALL,Introduction to Ship Hydrodynamics,,27,81.62962963,10.972511627,100.0,63.0,0,0,0,,,,,5,,,7
+UBCV,2015,W,MECH,489,,101,Experimental Thermofluids,Amin Engarnevis;Patrick Kirchen,12,83.083333333,2.108783938,86.0,78.0,0,0,0,0,0,0,0,,8,,0
+UBCV,2015,W,MECH,489,,OVERALL,Experimental Thermofluids,,12,83.083333333,2.108783938,86.0,78.0,0,0,0,0,0,0,0,,8,,0
+UBCV,2015,W,MECH,491,,201,Computer-Aided Manufacturing,Hsi-Yung Feng;Jimin Joy,35,78.6,10.358855263,92.0,55.0,0,0,,,,,,,10,7,5
+UBCV,2015,W,MECH,491,,OVERALL,Computer-Aided Manufacturing,,35,78.6,10.358855263,92.0,55.0,0,0,,,,,,,10,7,5
 UBCV,2015,W,MECH,495,,101,Industrial Engineering,Baher Amouzgar;Hatef Rahmani,49,75.693877551,13.362266652,97.0,44.0,,,,,7,,7,6,5,5,9
 UBCV,2015,W,MECH,495,,OVERALL,Industrial Engineering,,49,75.693877551,13.362266652,97.0,44.0,,,,,7,,7,6,5,5,9
 UBCV,2015,W,MECH,502,,201,Fluid Mechanics,Dana Grecov,18,83.555555556,14.316679792,96.0,36.0,,,,,,,,,,5,7
 UBCV,2015,W,MECH,502,,OVERALL,Fluid Mechanics,,18,83.555555556,14.316679792,96.0,36.0,,,,,,,,,,5,7
-UBCV,2015,W,MECH,505,,201,Industrial and Environmental Acoustics and Vibration,Murray Hodgson,10,82.7,7.040359839,92.0,71.0,,,,,,,,,,,
-UBCV,2015,W,MECH,505,,OVERALL,Industrial and Environmental Acoustics and Vibration,,10,82.7,7.040359839,92.0,71.0,,,,,,,,,,,
-UBCV,2015,W,MECH,506,,101,Linear Vibrations,Srikantha Anasavarapu,8,82.875,6.197637799,90.0,75.0,,,,,,,,,,,
-UBCV,2015,W,MECH,506,,OVERALL,Linear Vibrations,,8,82.875,6.197637799,90.0,75.0,,,,,,,,,,,
-UBCV,2015,W,MECH,510,,101,Computational Methods in Transport Phenomena I,Carl Ollivier-Gooch,11,85.454545455,8.91474774,95.0,69.0,,,,,,,,,,,6
-UBCV,2015,W,MECH,510,,OVERALL,Computational Methods in Transport Phenomena I,,11,85.454545455,8.91474774,95.0,69.0,,,,,,,,,,,6
-UBCV,2015,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Mohamed Gadala;Mohamed S Gadala,7,77.428571429,8.997354108,90.0,60.0,,,,,,,,,,,
-UBCV,2015,W,MECH,514,,OVERALL,Linear FEA in Solids and Heat Transfer,,7,77.428571429,8.997354108,90.0,60.0,,,,,,,,,,,
-UBCV,2015,W,MECH,520,,201,Control Sensors and Actuators,Daniel Gelbart,39,86.564102564,7.464988002999999,97.0,71.0,,,,,,,,5,,10,17
-UBCV,2015,W,MECH,520,,OVERALL,Control Sensors and Actuators,,39,86.564102564,7.464988002999999,97.0,71.0,,,,,,,,5,,10,17
-UBCV,2015,W,MECH,522,,101,Foundations in Control Engineering,Ryozo Nagamune,22,78.409090909,20.275857309000003,97.0,0.0,,,,,,,,,6,,7
-UBCV,2015,W,MECH,522,,OVERALL,Foundations in Control Engineering,,22,78.409090909,20.275857309000003,97.0,0.0,,,,,,,,,6,,7
-UBCV,2015,W,MECH,529,,101,Modelling of Dynamic Systems,Clarence Wilfred De Silva,25,83.64,5.879909296,94.0,73.0,,,,,,,,,9,6,5
-UBCV,2015,W,MECH,529,,OVERALL,Modelling of Dynamic Systems,,25,83.64,5.879909296,94.0,73.0,,,,,,,,,9,6,5
-UBCV,2015,W,MECH,533,,101,Biofluids,Dana Grecov,8,87.625,3.377974879,91.0,82.0,,,,,,,,,,,
-UBCV,2015,W,MECH,533,,OVERALL,Biofluids,,8,87.625,3.377974879,91.0,82.0,,,,,,,,,,,
-UBCV,2015,W,MECH,535,,201,Orthopaedic Biomechanics,Thomas Oxland,7,85.0,4.0,91.0,80.0,,,,,,,,,,,
-UBCV,2015,W,MECH,535,,OVERALL,Orthopaedic Biomechanics,,7,85.0,4.0,91.0,80.0,,,,,,,,,,,
-UBCV,2015,W,MECH,536,,201,Fundamentals of Injury Biomechanics,Agnes D'Entremont,6,86.666666667,3.1411250639999997,90.0,83.0,,,,,,,,,,,
-UBCV,2015,W,MECH,536,,OVERALL,Fundamentals of Injury Biomechanics,,6,86.666666667,3.1411250639999997,90.0,83.0,,,,,,,,,,,
-UBCV,2015,W,MECH,545,,201,Fuel Cell Systems,Walter Merida-Donis,8,81.0,11.856282240999999,97.0,61.0,,,,,,,,,,,
-UBCV,2015,W,MECH,545,,OVERALL,Fuel Cell Systems,,8,81.0,11.856282240999999,97.0,61.0,,,,,,,,,,,
-UBCV,2015,W,MECH,550,B,101,Special Advanced Courses,Frank Lam;Murray Hodgson,10,84.5,6.603870918999999,92.0,76.0,,,,,,,,,,,
-UBCV,2015,W,MECH,550,B,OVERALL,Special Advanced Courses,,10,84.5,6.603870918999999,92.0,76.0,,,,,,,,,,,
-UBCV,2015,W,MECH,555,,201,Fundamentals of Microelectromechanical Systems,Ali Shademani;Mu Chiao;Zhengmu Wang,19,82.315789474,7.703192927999999,99.0,71.0,,,,,,,,,,7,
-UBCV,2015,W,MECH,555,,OVERALL,Fundamentals of Microelectromechanical Systems,,19,82.315789474,7.703192927999999,99.0,71.0,,,,,,,,,,7,
-UBCV,2015,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Muhammad Tufail,5,77.8,10.329569207,87.0,61.0,,,,,,,,,,,
-UBCV,2015,W,MECH,563,,OVERALL,"Robotics: Kinematics, Dynamics and Control",,5,77.8,10.329569207,87.0,61.0,,,,,,,,,,,
-UBCV,2015,W,MECH,572,,101,Convection Heat Transfer,Nima Atabaki,10,82.0,6.92820323,93.0,72.0,,,,,,,,,,,
-UBCV,2015,W,MECH,572,,OVERALL,Convection Heat Transfer,,10,82.0,6.92820323,93.0,72.0,,,,,,,,,,,
-UBCV,2015,W,MECH,578,,201,Internal Combustion Engines,Patrick Kirchen,8,81.875,10.986192633,97.0,62.0,,,,,,,,,,,
-UBCV,2015,W,MECH,578,,OVERALL,Internal Combustion Engines,,8,81.875,10.986192633,97.0,62.0,,,,,,,,,,,
-UBCV,2015,W,MECH,582,,101,Experimental Fluid Mechanics,Patrick Kirchen,12,83.583333333,5.712161402,93.0,73.0,,,,,,,,,,5,
-UBCV,2015,W,MECH,582,,OVERALL,Experimental Fluid Mechanics,,12,83.583333333,5.712161402,93.0,73.0,,,,,,,,,,5,
-UBCV,2015,W,MECH,584,,201,Advanced Engineering Acoustics,Murray Hodgson,5,84.8,6.379655163,95.0,80.0,,,,,,,,,,,
-UBCV,2015,W,MECH,584,,OVERALL,Advanced Engineering Acoustics,,5,84.8,6.379655163,95.0,80.0,,,,,,,,,,,
-UBCV,2015,W,MECH,589,,101,Computer Control of Multi-Axis Machines,Yusuf Altintas,9,78.111111111,12.13923849,100.0,60.0,,,,,,,,,,,
-UBCV,2015,W,MECH,589,,OVERALL,Computer Control of Multi-Axis Machines,,9,78.111111111,12.13923849,100.0,60.0,,,,,,,,,,,
-UBCV,2015,W,MECH,592,,101,Machine Tool Structures and Vibrations,Yusuf Altintas,5,86.6,9.423375192,95.0,71.0,,,,,,,,,,,
-UBCV,2015,W,MECH,592,,OVERALL,Machine Tool Structures and Vibrations,,5,86.6,9.423375192,95.0,71.0,,,,,,,,,,,
-UBCV,2015,W,MECH,596,,201,CAD/CAM Principles and Practice,Hsi-Yung Feng,8,85.125,8.806450558,94.0,70.0,,,,,,,,,,,
-UBCV,2015,W,MECH,596,,OVERALL,CAD/CAM Principles and Practice,,8,85.125,8.806450558,94.0,70.0,,,,,,,,,,,
-UBCV,2015,W,MECH,597,,OVERALL,Project for M.Eng. Studies,,7,87.85714285700001,4.913538149,94.0,78.0,,,,,,,,,,,
-UBCV,2015,W,MECH,598,,001,Research Seminar,Srikantha Anasavarapu,10,87.4,4.247875286,93.0,80.0,,,,,,,,,,,
-UBCV,2015,W,MECH,598,,002,Research Seminar,Steven Nicholas Rogak;Steven Rogak,5,90.0,2.738612788,93.0,86.0,,,,,,,,,,,
-UBCV,2015,W,MECH,598,,OVERALL,Research Seminar,,17,88.529411765,3.743622027,93.0,80.0,,,,,,,,,,6,9
-UBCV,2015,W,MECH,599,B,002,Thesis,,9,89.666666667,2.872281323,94.0,83.0,,,,,,,,,,,7
-UBCV,2015,W,MECH,599,B,102,Thesis,,10,88.2,7.11492953,95.0,72.0,,,,,,,,,,,7
-UBCV,2015,W,MECH,599,B,OVERALL,Thesis,,19,88.89473684200001,5.435426354,95.0,72.0,,,,,,,,,,,14
-UBCV,2015,W,MECH,698,,001,Seminar,Srikantha Anasavarapu,12,91.083333333,1.6213537180000002,93.0,88.0,,,,,,,,,,,10
-UBCV,2015,W,MECH,698,,OVERALL,Seminar,,16,91.0625,1.87860764,95.0,88.0,,,,,,,,,,,12
+UBCV,2015,W,MECH,505,,201,Industrial and Environmental Acoustics and Vibration,Murray Hodgson,10,82.7,7.040359839,92.0,71.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,MECH,505,,OVERALL,Industrial and Environmental Acoustics and Vibration,,10,82.7,7.040359839,92.0,71.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,MECH,506,,101,Linear Vibrations,Srikantha Anasavarapu,8,82.875,6.197637799,90.0,75.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,MECH,506,,OVERALL,Linear Vibrations,,8,82.875,6.197637799,90.0,75.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,MECH,510,,101,Computational Methods in Transport Phenomena I,Carl Ollivier-Gooch,11,85.454545455,8.91474774,95.0,69.0,0,0,0,0,0,,,,,,6
+UBCV,2015,W,MECH,510,,OVERALL,Computational Methods in Transport Phenomena I,,11,85.454545455,8.91474774,95.0,69.0,0,0,0,0,0,,,,,,6
+UBCV,2015,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Mohamed Gadala;Mohamed S Gadala,7,77.428571429,8.997354108,90.0,60.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,514,,OVERALL,Linear FEA in Solids and Heat Transfer,,7,77.428571429,8.997354108,90.0,60.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,520,,201,Control Sensors and Actuators,Daniel Gelbart,39,86.564102564,7.464988003,97.0,71.0,0,0,0,0,0,,,5,,10,17
+UBCV,2015,W,MECH,520,,OVERALL,Control Sensors and Actuators,,39,86.564102564,7.464988003,97.0,71.0,0,0,0,0,0,,,5,,10,17
+UBCV,2015,W,MECH,522,,101,Foundations in Control Engineering,Ryozo Nagamune,22,78.409090909,20.275857309,97.0,0.0,,,,,,,,,6,,7
+UBCV,2015,W,MECH,522,,OVERALL,Foundations in Control Engineering,,22,78.409090909,20.275857309,97.0,0.0,,,,,,,,,6,,7
+UBCV,2015,W,MECH,529,,101,Modelling of Dynamic Systems,Clarence Wilfred De Silva,25,83.64,5.879909296,94.0,73.0,0,0,0,0,0,0,,,9,6,5
+UBCV,2015,W,MECH,529,,OVERALL,Modelling of Dynamic Systems,,25,83.64,5.879909296,94.0,73.0,0,0,0,0,0,0,,,9,6,5
+UBCV,2015,W,MECH,533,,101,Biofluids,Dana Grecov,8,87.625,3.377974879,91.0,82.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MECH,533,,OVERALL,Biofluids,,8,87.625,3.377974879,91.0,82.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MECH,535,,201,Orthopaedic Biomechanics,Thomas Oxland,7,85.0,4.0,91.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MECH,535,,OVERALL,Orthopaedic Biomechanics,,7,85.0,4.0,91.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MECH,536,,201,Fundamentals of Injury Biomechanics,Agnes D'Entremont,6,86.666666667,3.141125064,90.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MECH,536,,OVERALL,Fundamentals of Injury Biomechanics,,6,86.666666667,3.141125064,90.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MECH,545,,201,Fuel Cell Systems,Walter Merida-Donis,8,81.0,11.856282241,97.0,61.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,545,,OVERALL,Fuel Cell Systems,,8,81.0,11.856282241,97.0,61.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,550,B,101,Special Advanced Courses,Frank Lam;Murray Hodgson,10,84.5,6.603870919,92.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,MECH,550,B,OVERALL,Special Advanced Courses,,10,84.5,6.603870919,92.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,MECH,555,,201,Fundamentals of Microelectromechanical Systems,Ali Shademani;Mu Chiao;Zhengmu Wang,19,82.315789474,7.703192928,99.0,71.0,0,0,0,0,0,,,,,7,
+UBCV,2015,W,MECH,555,,OVERALL,Fundamentals of Microelectromechanical Systems,,19,82.315789474,7.703192928,99.0,71.0,0,0,0,0,0,,,,,7,
+UBCV,2015,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Muhammad Tufail,5,77.8,10.329569207,87.0,61.0,0,0,0,,,,,,,,0
+UBCV,2015,W,MECH,563,,OVERALL,"Robotics: Kinematics, Dynamics and Control",,5,77.8,10.329569207,87.0,61.0,0,0,0,,,,,,,,0
+UBCV,2015,W,MECH,572,,101,Convection Heat Transfer,Nima Atabaki,10,82.0,6.92820323,93.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,MECH,572,,OVERALL,Convection Heat Transfer,,10,82.0,6.92820323,93.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,MECH,578,,201,Internal Combustion Engines,Patrick Kirchen,8,81.875,10.986192633,97.0,62.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,578,,OVERALL,Internal Combustion Engines,,8,81.875,10.986192633,97.0,62.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,582,,101,Experimental Fluid Mechanics,Patrick Kirchen,12,83.583333333,5.712161402,93.0,73.0,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,MECH,582,,OVERALL,Experimental Fluid Mechanics,,12,83.583333333,5.712161402,93.0,73.0,0,0,0,0,0,0,,,,5,
+UBCV,2015,W,MECH,584,,201,Advanced Engineering Acoustics,Murray Hodgson,5,84.8,6.379655163,95.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MECH,584,,OVERALL,Advanced Engineering Acoustics,,5,84.8,6.379655163,95.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,MECH,589,,101,Computer Control of Multi-Axis Machines,Yusuf Altintas,9,78.111111111,12.13923849,100.0,60.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,589,,OVERALL,Computer Control of Multi-Axis Machines,,9,78.111111111,12.13923849,100.0,60.0,0,0,0,,,,,,,,
+UBCV,2015,W,MECH,592,,101,Machine Tool Structures and Vibrations,Yusuf Altintas,5,86.6,9.423375192,95.0,71.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,MECH,592,,OVERALL,Machine Tool Structures and Vibrations,,5,86.6,9.423375192,95.0,71.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,MECH,596,,201,CAD/CAM Principles and Practice,Hsi-Yung Feng,8,85.125,8.806450558,94.0,70.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,MECH,596,,OVERALL,CAD/CAM Principles and Practice,,8,85.125,8.806450558,94.0,70.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,MECH,597,,OVERALL,Project for M.Eng. Studies,,7,87.857142857,4.913538149,94.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,MECH,598,,001,Research Seminar,Srikantha Anasavarapu,10,87.4,4.247875286,93.0,80.0,0,0,0,0,0,0,0,0,2.0,,
+UBCV,2015,W,MECH,598,,002,Research Seminar,Steven Nicholas Rogak;Steven Rogak,5,90.0,2.738612788,93.0,86.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,MECH,598,,OVERALL,Research Seminar,,17,88.529411765,3.743622027,93.0,80.0,0,0,0,0,0,0,0,0,2.0,6,9
+UBCV,2015,W,MECH,599,B,002,Thesis,,9,89.666666667,2.872281323,94.0,83.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2015,W,MECH,599,B,102,Thesis,,10,88.2,7.11492953,95.0,72.0,0,0,0,0,0,0,,,,,7
+UBCV,2015,W,MECH,599,B,OVERALL,Thesis,,19,88.894736842,5.435426354,95.0,72.0,0,0,0,0,0,0,,,,,14
+UBCV,2015,W,MECH,698,,001,Seminar,Srikantha Anasavarapu,12,91.083333333,1.621353718,93.0,88.0,0,0,0,0,0,0,0,0,0,2.0,10
+UBCV,2015,W,MECH,698,,OVERALL,Seminar,,16,91.0625,1.87860764,95.0,88.0,0,0,0,0,0,0,0,0,0,4.0,12

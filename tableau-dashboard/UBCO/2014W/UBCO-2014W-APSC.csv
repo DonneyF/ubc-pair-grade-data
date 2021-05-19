@@ -1,23 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2014,W,APSC,169,,201,Fundamentals of Sustainable Engineering Design,Deborah Roberts,253,79.24505929,7.85200569,97.0,13.0,,,,,,16,38,60,67,52,12
 UBCO,2014,W,APSC,169,,OVERALL,Fundamentals of Sustainable Engineering Design,,253,79.24505929,7.85200569,97.0,13.0,,,,,,16,38,60,67,52,12
-UBCO,2014,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,115,74.51304348,11.88642541,92.0,0.0,,,,4,7,17,21,15,23,16,
-UBCO,2014,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,98,75.79591837,8.909579211,96.0,53.0,,,,6,7,15,11,17,21,13,
+UBCO,2014,W,APSC,171,,101,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,115,74.51304348,11.88642541,92.0,0.0,2.0,,,4,7,17,21,15,23,16,
+UBCO,2014,W,APSC,171,,102,Engineering Drawing and CAD/CAM,Ray Taheri-Ardebili,98,75.79591837,8.909579211,96.0,53.0,0,,,6,7,15,11,17,21,13,
 UBCO,2014,W,APSC,171,,OVERALL,Engineering Drawing and CAD/CAM,,213,75.10328639,10.61632058,96.0,0.0,2.0,5,5,10,14,32,32,32,44,29,8
 UBCO,2014,W,APSC,172,,101,Engineering Analysis I,Ayman Elnaggar,88,69.59090909,15.89088972,94.0,0.0,10,4.0,1,7,10,11,12,10,7,7,9
 UBCO,2014,W,APSC,172,,102,Engineering Analysis I,Ayman Elnaggar,80,73.525,10.83708471,99.0,52.0,0,2.0,6,7,12,9,9,11,6,12,6
 UBCO,2014,W,APSC,172,,OVERALL,Engineering Analysis I,,168,71.46428571,13.8200119,99.0,0.0,10,6,7,14,22,20,21,21,13,19,15
 UBCO,2014,W,APSC,173,,201,Engineering Analysis II,Ali Ahmadi,175,67.13142857,16.99931999,100.0,11.0,21,13,10,23,13,20,20,6,23,13,13
 UBCO,2014,W,APSC,173,,OVERALL,Engineering Analysis II,,175,67.13142857,16.99931999,100.0,11.0,21,13,10,23,13,20,20,6,23,13,13
-UBCO,2014,W,APSC,176,,101,Engineering Communication,Laura Patterson,21,72.80952381,4.823059689,84.0,63.0,,,,,,7,5,6,,,
-UBCO,2014,W,APSC,176,,102,Engineering Communication,Jannik Eikenaar,24,73.625,4.489722563,82.0,64.0,,,,,,6,9,,,,
-UBCO,2014,W,APSC,176,,103,Engineering Communication,Jannik Eikenaar,20,70.55,9.338516731,80.0,47.0,,,,,,,5,5,,,
-UBCO,2014,W,APSC,176,,104,Engineering Communication,Laura Patterson,21,70.90476191,6.662617817999999,84.0,60.0,,,,,7,,,,,,
-UBCO,2014,W,APSC,176,,105,Engineering Communication,Carolyn Labun,26,67.96153846,17.23132211,86.0,0.0,,,,,,,8,5,,,
-UBCO,2014,W,APSC,176,,106,Engineering Communication,Jannik Eikenaar,25,71.96,5.119244736000001,81.0,63.0,,,,,5,5,6,7,,,
-UBCO,2014,W,APSC,176,,107,Engineering Communication,Carolyn Labun,18,73.38888889,4.983961204,81.0,65.0,,,,,,5,,,,,
-UBCO,2014,W,APSC,176,,108,Engineering Communication,Jannik Eikenaar,15,73.33333333,5.802298395,85.0,63.0,,,,,,,5,,,,
-UBCO,2014,W,APSC,176,,OVERALL,Engineering Communication,,170,71.66470588,8.780656602999999,86.0,0.0,,,,7,22,36,45,31,19,,
+UBCO,2014,W,APSC,176,,101,Engineering Communication,Laura Patterson,21,72.80952381,4.823059689,84.0,63.0,0,0,0,,,7,5,6,,0,0
+UBCO,2014,W,APSC,176,,102,Engineering Communication,Jannik Eikenaar,24,73.625,4.489722563,82.0,64.0,0,0,0,0,,6,9,,,0,0
+UBCO,2014,W,APSC,176,,103,Engineering Communication,Jannik Eikenaar,20,70.55,9.338516731,80.0,47.0,,,,,,,5,5,,0,0
+UBCO,2014,W,APSC,176,,104,Engineering Communication,Laura Patterson,21,70.90476191,6.662617818,84.0,60.0,0,0,0,,7,,,,,0,0
+UBCO,2014,W,APSC,176,,105,Engineering Communication,Carolyn Labun,26,67.96153846,17.23132211,86.0,0.0,,,,,,,8,5,,,0
+UBCO,2014,W,APSC,176,,106,Engineering Communication,Jannik Eikenaar,25,71.96,5.119244736,81.0,63.0,0,0,0,,5,5,6,7,,0,0
+UBCO,2014,W,APSC,176,,107,Engineering Communication,Carolyn Labun,18,73.38888889,4.983961204,81.0,65.0,0,0,0,0,,5,,,,0,0
+UBCO,2014,W,APSC,176,,108,Engineering Communication,Jannik Eikenaar,15,73.33333333,5.802298395,85.0,63.0,0,0,0,,,,5,,,,0
+UBCO,2014,W,APSC,176,,OVERALL,Engineering Communication,,170,71.66470588,8.780656603,86.0,0.0,,,,7,22,36,45,31,19,,0
 UBCO,2014,W,APSC,177,,201,Engineering Computation and Instrumentation,Nicholas Swart,98,75.18367347,14.43888431,100.0,0.0,,5,,8,4,9,18,7,13,19,11
 UBCO,2014,W,APSC,177,,202,Engineering Computation and Instrumentation,Md Hossain;Md Jahangir Hossain,79,76.25316456,11.11532593,94.0,45.0,,2,,10,5,7,10,12,9,11,12
 UBCO,2014,W,APSC,177,,OVERALL,Engineering Computation and Instrumentation,,177,75.66101695,13.03615188,100.0,0.0,,7,,18,9,16,28,19,22,30,23
@@ -38,12 +38,12 @@ UBCO,2014,W,APSC,182,,OVERALL,Matter and Energy I,,176,74.92045455,12.65879398,9
 UBCO,2014,W,APSC,183,,101,Matter and Energy II,Gholamreza Naser,94,75.85106383,9.411680511,93.0,36.0,,,,,5,8,19,14,21,14,
 UBCO,2014,W,APSC,183,,102,Matter and Energy II,Gholamreza Naser,87,77.34482759,8.827583074,92.0,39.0,,,,,8,7,14,18,15,18,
 UBCO,2014,W,APSC,183,,OVERALL,Matter and Energy II,,181,76.56906077,9.140990325,93.0,36.0,,,6,5,13,15,33,32,36,32,6
-UBCO,2014,W,APSC,201,,201,Technical Communication,Jannik Eikenaar,28,76.35714286,5.236724207,91.0,68.0,,,,,,5,10,5,7,,
-UBCO,2014,W,APSC,201,,202,Technical Communication,Carolyn Labun,30,73.76666667,9.276159035,91.0,51.0,,,,,,7,7,2,,,
-UBCO,2014,W,APSC,201,,203,Technical Communication,Jannik Eikenaar,29,77.62068966,4.693565452,90.0,70.0,,,,,,,8,9,8,,
-UBCO,2014,W,APSC,201,,204,Technical Communication,Laura Patterson,30,71.46666667,8.939387209,79.0,41.0,,,,,,,12,10,,,
-UBCO,2014,W,APSC,201,,205,Technical Communication,Jannik Eikenaar,29,71.31034483,7.663006908,82.0,47.0,,,,,,6,6,8,,,
-UBCO,2014,W,APSC,201,,206,Technical Communication,Laura Patterson,31,74.38709677,4.957670282,86.0,66.0,,,,,,7,9,7,5,,
+UBCO,2014,W,APSC,201,,201,Technical Communication,Jannik Eikenaar,28,76.35714286,5.236724207,91.0,68.0,0,0,0,0,0,5,10,5,7,,
+UBCO,2014,W,APSC,201,,202,Technical Communication,Carolyn Labun,30,73.76666667,9.276159035,91.0,51.0,0,,,,,7,7,2,,,
+UBCO,2014,W,APSC,201,,203,Technical Communication,Jannik Eikenaar,29,77.62068966,4.693565452,90.0,70.0,0,0,0,0,0,,8,9,8,,
+UBCO,2014,W,APSC,201,,204,Technical Communication,Laura Patterson,30,71.46666667,8.939387209,79.0,41.0,,,,,,,12,10,0,0,0
+UBCO,2014,W,APSC,201,,205,Technical Communication,Jannik Eikenaar,29,71.31034483,7.663006908,82.0,47.0,,,,,,6,6,8,,0,0
+UBCO,2014,W,APSC,201,,206,Technical Communication,Laura Patterson,31,74.38709677,4.957670282,86.0,66.0,0,0,0,0,,7,9,7,5,,0
 UBCO,2014,W,APSC,201,,OVERALL,Technical Communication,,177,74.12429379,7.344318126,91.0,41.0,,,,,7,31,52,41,26,6,
 UBCO,2014,W,APSC,246,,101,System Dynamics,Ali Ahmadi,108,71.24074074,15.34334181,100.0,28.0,11,6,6,8,6,10,16,12,14,6,13
 UBCO,2014,W,APSC,246,,102,System Dynamics,Ali Ahmadi,75,75.08,12.97894345,100.0,46.0,2,2,4,8,11,6,6,4,8,14,10
@@ -54,11 +54,11 @@ UBCO,2014,W,APSC,252,,101,Thermodynamics and Heat Transfer,Mina Hoorfar,200,78.8
 UBCO,2014,W,APSC,252,,OVERALL,Thermodynamics and Heat Transfer,,200,78.815,15.37278072,100.0,25.0,9,2.0,11,7,14,14,16,20,21,22,64
 UBCO,2014,W,APSC,253,,201,Fluid Mechanics I,Yu Yan,180,79.73333333,11.32239586,99.0,42.0,,,,,8,15,18,24,41,22,39
 UBCO,2014,W,APSC,253,,OVERALL,Fluid Mechanics I,,180,79.73333333,11.32239586,99.0,42.0,,,,,8,15,18,24,41,22,39
-UBCO,2014,W,APSC,254,,201,Instrumentation and Data Analysis,Keekyoung Kim,179,76.92178771,9.963107517000001,95.0,35.0,,,,,18,18,29,26,36,28,15
-UBCO,2014,W,APSC,254,,OVERALL,Instrumentation and Data Analysis,,179,76.92178771,9.963107517000001,95.0,35.0,,,,,18,18,29,26,36,28,15
-UBCO,2014,W,APSC,255,,101,Analog and Digital Systems,Ayman Elnaggar;Wilson Eberle,100,76.1,11.3720373,100.0,50.0,0.0,2,5,8,11,13,8,9,15,16,13
-UBCO,2014,W,APSC,255,,102,Analog and Digital Systems,Ayman Elnaggar;Wilson Eberle,98,72.12244898,12.08583162,96.0,50.0,0.0,8,12,5,13,8,12,8,16,8,8
-UBCO,2014,W,APSC,255,,OVERALL,Analog and Digital Systems,,198,74.13131313,11.86955023,100.0,50.0,0.0,10,17,13,24,21,20,17,31,24,21
+UBCO,2014,W,APSC,254,,201,Instrumentation and Data Analysis,Keekyoung Kim,179,76.92178771,9.963107517,95.0,35.0,,,,,18,18,29,26,36,28,15
+UBCO,2014,W,APSC,254,,OVERALL,Instrumentation and Data Analysis,,179,76.92178771,9.963107517,95.0,35.0,,,,,18,18,29,26,36,28,15
+UBCO,2014,W,APSC,255,,101,Analog and Digital Systems,Ayman Elnaggar;Wilson Eberle,100,76.1,11.3720373,100.0,50.0,0,2.0,5,8,11,13,8,9,15,16,13
+UBCO,2014,W,APSC,255,,102,Analog and Digital Systems,Ayman Elnaggar;Wilson Eberle,98,72.12244898,12.08583162,96.0,50.0,0,8,12,5,13,8,12,8,16,8,8
+UBCO,2014,W,APSC,255,,OVERALL,Analog and Digital Systems,,198,74.13131313,11.86955023,100.0,50.0,0,10,17,13,24,21,20,17,31,24,21
 UBCO,2014,W,APSC,256,,101,Numerical Methods for Analysis,Liwei Wang,199,77.04522613,11.99802024,100.0,26.0,6,,,10,17,15,27,19,40,27,33
 UBCO,2014,W,APSC,256,,OVERALL,Numerical Methods for Analysis,,199,77.04522613,11.99802024,100.0,26.0,6,,,10,17,15,27,19,40,27,33
 UBCO,2014,W,APSC,258,,201,Applications of Engineering Design,Rudolf Seethaler,178,70.6741573,8.690894359,91.0,34.0,5,,6,18,29,34,35,26,17,7,

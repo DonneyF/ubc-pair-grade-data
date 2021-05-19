@@ -1,23 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2016,W,STAT,121,,001,Elementary Statistics,Emelie Gustafsson;Hui Fai Wong;Kim Nguyen;Sarah Macqueen,113,78.398230088,21.286539939,100.0,1.0,11,1,2,7,6,2,4,6,14,17,43
-UBCO,2016,W,STAT,121,,101,Elementary Statistics,Emelie Gustafsson;Sarah Macqueen;Xi Wang,126,78.182539683,21.270975829,100.0,0.0,8,7,5,2,2,7,6,11,11,21,46
-UBCO,2016,W,STAT,121,,OVERALL,Elementary Statistics,,239,78.284518828,21.233857212,100.0,0.0,19,8,7,9,8,9,10,17,25,38,89
-UBCO,2016,W,STAT,124,,001,Business Statistics,Chad Davis;Maryam Sadeghi;Paramjit Gill;Robert Smith,106,67.150943396,17.356646841,95.0,20.0,13,9,11,5,8,9,9,11,14,8,9
-UBCO,2016,W,STAT,124,,101,Business Statistics,Emelie Gustafsson;Jordan Gardener;Sarah Macqueen;Shangwei Xie,116,83.11206896600001,15.500783459,100.0,41.0,3,7,2,4,1,9,5,5,15,16,49
-UBCO,2016,W,STAT,124,,OVERALL,Business Statistics,,222,75.490990991,18.221051172,100.0,20.0,16,16,13,9,9,18,14,16,29,24,58
-UBCO,2016,W,STAT,230,,001,Introductory Statistics,Andry Ramorasata;Christiana David;Jason Loeppky;John Braun;Maria Martignoni Mseya;Nicholas Taggart,155,73.812903226,12.074867694000002,97.0,17.0,,,6,17,10,19,30,15,22,16,14
-UBCO,2016,W,STAT,230,,OVERALL,Introductory Statistics,,155,73.812903226,12.074867694000002,97.0,17.0,,,6,17,10,19,30,15,22,16,14
-UBCO,2016,W,STAT,303,,001,Introduction to Probability,Jeffrey Andrews;Shangwei Xie,60,70.95,16.209878762,96.0,27.0,6,,,,6,10,5,,6,,11
-UBCO,2016,W,STAT,303,,OVERALL,Introduction to Probability,,60,70.95,16.209878762,96.0,27.0,6,,,,6,10,5,,6,,11
-UBCO,2016,W,STAT,309,,001,Introduction to Statistical Inference,Jeffrey Andrews;Jordan Gardener,40,66.45,15.963018157999999,95.0,35.0,5,6,,5,5,5,,,,,
-UBCO,2016,W,STAT,309,,OVERALL,Introduction to Statistical Inference,,40,66.45,15.963018157999999,95.0,35.0,5,6,,5,5,5,,,,,
-UBCO,2016,W,STAT,310,,001,Regression Analysis,Paramjit Gill,15,70.333333333,22.692562239,92.0,10.0,,,,,,,,,,,
-UBCO,2016,W,STAT,310,,OVERALL,Regression Analysis,,15,70.333333333,22.692562239,92.0,10.0,,,,,,,,,,,
-UBCO,2016,W,STAT,311,,001,Modern Statistical Methods,Jeffrey Andrews;Shangwei Xie,37,72.459459459,18.750695683,97.0,30.0,,6,,,,,,,,,12
-UBCO,2016,W,STAT,311,,OVERALL,Modern Statistical Methods,,37,72.459459459,18.750695683,97.0,30.0,,6,,,,,,,,,12
-UBCO,2016,W,STAT,405,,001,Design and Analysis of Experiments,Jason Loeppky,10,81.0,14.087031073,97.0,52.0,,,,,,,,,,,5
-UBCO,2016,W,STAT,405,,OVERALL,Design and Analysis of Experiments,,10,81.0,14.087031073,97.0,52.0,,,,,,,,,,,5
-UBCO,2016,W,STAT,410,,101,Introduction to Generalized Linear Models,John Braun,7,77.714285714,11.828134337,93.0,59.0,,,,,,,,,,,
-UBCO,2016,W,STAT,410,,OVERALL,Introduction to Generalized Linear Models,,7,77.714285714,11.828134337,93.0,59.0,,,,,,,,,,,
-UBCO,2016,W,STAT,560,,001,Probability and Stochastic Processes,John Braun,6,90.5,3.507135583,96.0,87.0,,,,,,,,,,,
-UBCO,2016,W,STAT,560,,OVERALL,Probability and Stochastic Processes,,6,90.5,3.507135583,96.0,87.0,,,,,,,,,,,
+UBCO,2016,W,STAT,121,,001,Elementary Statistics,Emelie Gustafsson;Hui Fai Wong;Kim Nguyen;Sarah Macqueen,113,78.39823009,21.28653994,100.0,1.0,11,1,2.0,7,6,2,4,6,14.0,17,43
+UBCO,2016,W,STAT,121,,101,Elementary Statistics,Emelie Gustafsson;Sarah Macqueen;Xi Wang,126,78.18253968,21.27097583,100.0,0.0,8,7,5.0,2,2,7,6,11,11.0,21,46
+UBCO,2016,W,STAT,121,,OVERALL,Elementary Statistics,,239,78.28451883,21.23385721,100.0,0.0,19,8,7.0,9,8,9,10,17,25.0,38,89
+UBCO,2016,W,STAT,124,,001,Business Statistics,Chad Davis;Maryam Sadeghi;Paramjit Gill;Robert Smith,106,67.1509434,17.35664684,95.0,20.0,13,9,11.0,5,8,9,9,11,14.0,8,9
+UBCO,2016,W,STAT,124,,101,Business Statistics,Emelie Gustafsson;Jordan Gardener;Sarah Macqueen;Shangwei Xie,116,83.11206897,15.50078346,100.0,41.0,3,7,2.0,4,1,9,5,5,15.0,16,49
+UBCO,2016,W,STAT,124,,OVERALL,Business Statistics,,222,75.49099099,18.22105117,100.0,20.0,16,16,13.0,9,9,18,14,16,29.0,24,58
+UBCO,2016,W,STAT,230,,001,Introductory Statistics,Andry Ramorasata;Christiana David;Jason Loeppky;John Braun;Maria Martignoni Mseya;Nicholas Taggart,155,73.81290323,12.07486769,97.0,17.0,4,2,6.0,17,10,19,30,15,22.0,16,14
+UBCO,2016,W,STAT,230,,OVERALL,Introductory Statistics,,155,73.81290323,12.07486769,97.0,17.0,4,2,6.0,17,10,19,30,15,22.0,16,14
+UBCO,2016,W,STAT,303,,001,Introduction to Probability,Jeffrey Andrews;Shangwei Xie,60,70.95,16.20987876,96.0,27.0,6,3,3.0,4,6,10,5,4,6.0,2,11
+UBCO,2016,W,STAT,303,,OVERALL,Introduction to Probability,,60,70.95,16.20987876,96.0,27.0,6,3,3.0,4,6,10,5,4,6.0,2,11
+UBCO,2016,W,STAT,309,,001,Introduction to Statistical Inference,Jeffrey Andrews;Jordan Gardener,40,66.45,15.96301816,95.0,35.0,5,6,0.0,5,5,5,2,3,3.0,3,3
+UBCO,2016,W,STAT,309,,OVERALL,Introduction to Statistical Inference,,40,66.45,15.96301816,95.0,35.0,5,6,0.0,5,5,5,2,3,3.0,3,3
+UBCO,2016,W,STAT,310,,001,Regression Analysis,Paramjit Gill,15,70.33333333,22.69256224,92.0,10.0,2,0,0.0,0,2,2,0,3,1.0,2,3
+UBCO,2016,W,STAT,310,,OVERALL,Regression Analysis,,15,70.33333333,22.69256224,92.0,10.0,2,0,0.0,0,2,2,0,3,1.0,2,3
+UBCO,2016,W,STAT,311,,001,Modern Statistical Methods,Jeffrey Andrews;Shangwei Xie,37,72.45945946,18.75069568,97.0,30.0,3,6,1.0,3,4,1,2,1,0.0,4,12
+UBCO,2016,W,STAT,311,,OVERALL,Modern Statistical Methods,,37,72.45945946,18.75069568,97.0,30.0,3,6,1.0,3,4,1,2,1,0.0,4,12
+UBCO,2016,W,STAT,405,,001,Design and Analysis of Experiments,Jason Loeppky,10,81.0,14.08703107,97.0,52.0,0,1,0.0,0,1,0,0,2,1.0,0,5
+UBCO,2016,W,STAT,405,,OVERALL,Design and Analysis of Experiments,,10,81.0,14.08703107,97.0,52.0,0,1,0.0,0,1,0,0,2,1.0,0,5
+UBCO,2016,W,STAT,410,,101,Introduction to Generalized Linear Models,John Braun,7,77.71428571,11.82813434,93.0,59.0,0,0,1.0,0,1,0,0,1,2.0,1,1
+UBCO,2016,W,STAT,410,,OVERALL,Introduction to Generalized Linear Models,,7,77.71428571,11.82813434,93.0,59.0,0,0,1.0,0,1,0,0,1,2.0,1,1
+UBCO,2016,W,STAT,560,,001,Probability and Stochastic Processes,John Braun,6,90.5,3.507135583,96.0,87.0,0,0,0.0,0,0,0,0,0,0.0,2,4
+UBCO,2016,W,STAT,560,,OVERALL,Probability and Stochastic Processes,,6,90.5,3.507135583,96.0,87.0,0,0,0.0,0,0,0,0,0,0.0,2,4

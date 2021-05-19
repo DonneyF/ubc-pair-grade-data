@@ -1,19 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,KORN,102,,001,Basic Korean,Eurie Shin;Jee-Yeon Song;Jinsung Kim,26,76.923076923,14.875276339000001,92.0,22.0,,,,,,,5,,,7,
-UBCV,2018,W,KORN,102,,002,Basic Korean,Eurie Shin;Jee-Yeon Song;Jinsung Kim,24,72.041666667,19.985819248,93.0,15.0,,,,,,,,6,,,
-UBCV,2018,W,KORN,102,,003,Basic Korean,Eurie Shin;Jee-Yeon Song;Jinsung Kim,26,76.461538462,10.929705464000001,92.0,56.0,,,,,,,,,7,,
-UBCV,2018,W,KORN,102,,004,Basic Korean,Eun-Seon Kim;Jee-Yeon Song,16,72.75,21.782255775,94.0,17.0,,,,,,,,,,5,
-UBCV,2018,W,KORN,102,,OVERALL,Basic Korean,,92,74.793478261,16.661159705,94.0,15.0,6,,,5,6,,15,11,13,19,11
-UBCV,2018,W,KORN,200,,001,Intermediate Korean,Insun Lee;Jeong Hye Son;Yumi Chung,28,77.464285714,9.55484032,91.0,55.0,,,,,,,,3,11,,
-UBCV,2018,W,KORN,200,,002,Intermediate Korean,Insun Lee;Jeong Hye Son;Yumi Chung,22,77.681818182,10.530619136,92.0,41.0,,,,,,,,8,3,,
-UBCV,2018,W,KORN,200,,OVERALL,Intermediate Korean,,50,77.56,9.891575471,92.0,41.0,,,,,,,7,11,14,7,
-UBCV,2018,W,KORN,301,,001,Readings in Korean Topics I,Eurie Shin;Jee-Yeon Song,21,82.0,9.224966125,94.0,62.0,,,,,,,,,,7,5
-UBCV,2018,W,KORN,301,,OVERALL,Readings in Korean Topics I,,21,82.0,9.224966125,94.0,62.0,,,,,,,,,,7,5
-UBCV,2018,W,KORN,302,,001,Readings in Korean Topics II,Eurie Shin;Jinsung Kim,23,77.652173913,14.602642026,95.0,22.0,,,,,,,,6,,,5
-UBCV,2018,W,KORN,302,,OVERALL,Readings in Korean Topics II,,23,77.652173913,14.602642026,95.0,22.0,,,,,,,,6,,,5
-UBCV,2018,W,KORN,410,A,001,Modern Korean Short Fiction,Bruce Fulton,15,80.0,6.92820323,89.0,63.0,,,,,,,,,,,
-UBCV,2018,W,KORN,410,A,OVERALL,Modern Korean Short Fiction,,15,80.0,6.92820323,89.0,63.0,,,,,,,,,,,
-UBCV,2018,W,KORN,410,B,001,Modern Korean Short Fiction,Bruce Fulton;Daniel Pieper,14,75.142857143,18.118656525,93.0,22.0,,,,,,,,,,,
-UBCV,2018,W,KORN,410,B,OVERALL,Modern Korean Short Fiction,,14,75.142857143,18.118656525,93.0,22.0,,,,,,,,,,,
-UBCV,2018,W,KORN,420,,001,Readings in Middle and Early Modern Korean,Julian Ross Paul King,5,81.8,6.90651866,88.0,71.0,,,,,,,,,,,
-UBCV,2018,W,KORN,420,,OVERALL,Readings in Middle and Early Modern Korean,,5,81.8,6.90651866,88.0,71.0,,,,,,,,,,,
+UBCV,2018,W,KORN,102,,001,Basic Korean,Eurie Shin;Jee-Yeon Song;Jinsung Kim,26,76.92307692,14.87527634,92.0,22.0,1,1.0,0,0,2.0,0.0,5,4,3,7,3
+UBCV,2018,W,KORN,102,,002,Basic Korean,Eurie Shin;Jee-Yeon Song;Jinsung Kim,24,72.04166667,19.98581925,93.0,15.0,3,1.0,0,0,1.0,2.0,2,6,2,4,3
+UBCV,2018,W,KORN,102,,003,Basic Korean,Eurie Shin;Jee-Yeon Song;Jinsung Kim,26,76.46153846,10.92970546,92.0,56.0,0,0.0,1,4,3.0,0.0,4,1,7,3,3
+UBCV,2018,W,KORN,102,,004,Basic Korean,Eun-Seon Kim;Jee-Yeon Song,16,72.75,21.78225578,94.0,17.0,2,0.0,1,1,0.0,0.0,4,0,1,5,2
+UBCV,2018,W,KORN,102,,OVERALL,Basic Korean,,92,74.79347826,16.66115971,94.0,15.0,6,2.0,2,5,6.0,2.0,15,11,13,19,11
+UBCV,2018,W,KORN,200,,001,Intermediate Korean,Insun Lee;Jeong Hye Son;Yumi Chung,28,77.46428571,9.55484032,91.0,55.0,0,0.0,1,3,1.0,1.0,3,3,11,4,1
+UBCV,2018,W,KORN,200,,002,Intermediate Korean,Insun Lee;Jeong Hye Son;Yumi Chung,22,77.68181818,10.53061914,92.0,41.0,1,0.0,0,1,0.0,0.0,4,8,3,3,2
+UBCV,2018,W,KORN,200,,OVERALL,Intermediate Korean,,50,77.56,9.891575471,92.0,41.0,1,0.0,1,4,1.0,1.0,7,11,14,7,3
+UBCV,2018,W,KORN,301,,001,Readings in Korean Topics I,Eurie Shin;Jee-Yeon Song,21,82.0,9.224966125,94.0,62.0,0,0.0,0,1,0.0,2.0,4,1,1,7,5
+UBCV,2018,W,KORN,301,,OVERALL,Readings in Korean Topics I,,21,82.0,9.224966125,94.0,62.0,0,0.0,0,1,0.0,2.0,4,1,1,7,5
+UBCV,2018,W,KORN,302,,001,Readings in Korean Topics II,Eurie Shin;Jinsung Kim,23,77.65217391,14.60264203,95.0,22.0,1,0.0,0,0,0.0,3.0,4,6,2,2,5
+UBCV,2018,W,KORN,302,,OVERALL,Readings in Korean Topics II,,23,77.65217391,14.60264203,95.0,22.0,1,0.0,0,0,0.0,3.0,4,6,2,2,5
+UBCV,2018,W,KORN,410,A,001,Modern Korean Short Fiction,Bruce Fulton,15,80.0,6.92820323,89.0,63.0,0,0.0,0,1,0.0,0.0,2,4,4,4,0
+UBCV,2018,W,KORN,410,A,OVERALL,Modern Korean Short Fiction,,15,80.0,6.92820323,89.0,63.0,0,0.0,0,1,0.0,0.0,2,4,4,4,0
+UBCV,2018,W,KORN,410,B,001,Modern Korean Short Fiction,Bruce Fulton;Daniel Pieper,14,75.14285714,18.11865653,93.0,22.0,1,0.0,1,0,1.0,0.0,1,3,2,4,1
+UBCV,2018,W,KORN,410,B,OVERALL,Modern Korean Short Fiction,,14,75.14285714,18.11865653,93.0,22.0,1,0.0,1,0,1.0,0.0,1,3,2,4,1

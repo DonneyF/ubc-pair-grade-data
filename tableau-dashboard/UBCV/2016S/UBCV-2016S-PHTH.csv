@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,PHTH,538,,001,Case-based Integration II,Anne Rankin;Natalie Grant;Robin Roots,78,87.166666667,3.8424041,95.0,77.0,,,,,,,,,13,42,20
-UBCV,2016,S,PHTH,538,,OVERALL,Case-based Integration II,,78,87.166666667,3.8424041,95.0,77.0,,,,,,,,,13,42,20
-UBCV,2016,S,PHTH,546,,921,Clinical Decision-Making III,Alison Greig;Anne Rankin;Karen Sauve,78,93.37179487200001,2.407288577,98.0,88.0,,,,,,,,,,5,73
-UBCV,2016,S,PHTH,546,,OVERALL,Clinical Decision-Making III,,78,93.37179487200001,2.407288577,98.0,88.0,,,,,,,,,,5,73
-UBCV,2016,S,PHTH,548,,921,Case-based Integration III,Anne Rankin;Gina Galway;Karen Sauve;Tara Diane Klassen;Tara Klassen,82,88.353658537,5.174419395,97.0,67.0,,,,,,,,,11,26,41
-UBCV,2016,S,PHTH,548,,OVERALL,Case-based Integration III,,82,88.353658537,5.174419395,97.0,67.0,,,,,,,,,11,26,41
-UBCV,2016,S,PHTH,552,,922,Rehabilitation Research,Alexander Scott;Alison Greig;Anne Rankin;Elizabeth Dean;Janice Eng;Jordan Guenette;Kristin Campbell;Lara Boyd;Linda Li;Lisa Simpson;Michael Anthony Hunt;Naznin Virji-Babul;Patricia Camp;Robin Roots;S Jayne Garland;Susan Murphy;Teresa Yeong Lih Liu,82,86.402439024,7.810818322,94.0,68.0,,,,,,10,,,13,23,36
-UBCV,2016,S,PHTH,552,,OVERALL,Rehabilitation Research,,82,86.402439024,7.810818322,94.0,68.0,,,,,,10,,,13,23,36
-UBCV,2016,S,PHTH,558,,001,Case-Based Integration IV,Anne Rankin,82,85.62195122,8.278546189,100.0,68.0,,,,,,,7,14,16,14,29
-UBCV,2016,S,PHTH,558,,OVERALL,Case-Based Integration IV,,82,85.62195122,8.278546189,100.0,68.0,,,,,,,7,14,16,14,29
-UBCV,2016,S,PHTH,564,,921,Clinical Practice VIa,Anne Rankin;Karen Sauve;Simone Gruenig,82,85.048780488,3.05869511,90.0,78.0,,,,,,,,,32,42,
-UBCV,2016,S,PHTH,564,,OVERALL,Clinical Practice VIa,,82,85.048780488,3.05869511,90.0,78.0,,,,,,,,,32,42,
-UBCV,2016,S,PHTH,566,,921,Clinical Decision-Making IV,Bethan Everett;Janet Lundie,82,94.963414634,1.8219859059999999,99.0,90.0,,,,,,,,,,,82
-UBCV,2016,S,PHTH,566,,OVERALL,Clinical Decision-Making IV,,82,94.963414634,1.8219859059999999,99.0,90.0,,,,,,,,,,,82
+UBCV,2016,S,PHTH,538,,001,Case-based Integration II,Anne Rankin;Natalie Grant;Robin Roots,78,87.16666667,3.8424041,95.0,77.0,0,0,0,0,0,0.0,0,3,13,42,20
+UBCV,2016,S,PHTH,538,,OVERALL,Case-based Integration II,,78,87.16666667,3.8424041,95.0,77.0,0,0,0,0,0,0.0,0,3,13,42,20
+UBCV,2016,S,PHTH,546,,921,Clinical Decision-Making III,Alison Greig;Anne Rankin;Karen Sauve,78,93.37179487,2.407288577,98.0,88.0,0,0,0,0,0,0.0,0,0,0,5,73
+UBCV,2016,S,PHTH,546,,OVERALL,Clinical Decision-Making III,,78,93.37179487,2.407288577,98.0,88.0,0,0,0,0,0,0.0,0,0,0,5,73
+UBCV,2016,S,PHTH,548,,921,Case-based Integration III,Anne Rankin;Gina Galway;Karen Sauve;Tara Diane Klassen;Tara Klassen,82,88.35365854,5.174419395,97.0,67.0,0,0,0,0,1,0.0,1,2,11,26,41
+UBCV,2016,S,PHTH,548,,OVERALL,Case-based Integration III,,82,88.35365854,5.174419395,97.0,67.0,0,0,0,0,1,0.0,1,2,11,26,41
+UBCV,2016,S,PHTH,552,,922,Rehabilitation Research,Alexander Scott;Alison Greig;Anne Rankin;Elizabeth Dean;Janice Eng;Jordan Guenette;Kristin Campbell;Lara Boyd;Linda Li;Lisa Simpson;Michael Anthony Hunt;Naznin Virji-Babul;Patricia Camp;Robin Roots;S Jayne Garland;Susan Murphy;Teresa Yeong Lih Liu,82,86.40243902,7.810818322,94.0,68.0,0,0,0,0,0,10.0,0,0,13,23,36
+UBCV,2016,S,PHTH,552,,OVERALL,Rehabilitation Research,,82,86.40243902,7.810818322,94.0,68.0,0,0,0,0,0,10.0,0,0,13,23,36
+UBCV,2016,S,PHTH,558,,001,Case-Based Integration IV,Anne Rankin,82,85.62195122,8.278546189,100.0,68.0,0,0,0,0,0,2.0,7,14,16,14,29
+UBCV,2016,S,PHTH,558,,OVERALL,Case-Based Integration IV,,82,85.62195122,8.278546189,100.0,68.0,0,0,0,0,0,2.0,7,14,16,14,29
+UBCV,2016,S,PHTH,564,,921,Clinical Practice VIa,Anne Rankin;Karen Sauve;Simone Gruenig,82,85.04878049,3.05869511,90.0,78.0,0,0,0,0,0,0.0,0,4,32,42,4
+UBCV,2016,S,PHTH,564,,OVERALL,Clinical Practice VIa,,82,85.04878049,3.05869511,90.0,78.0,0,0,0,0,0,0.0,0,4,32,42,4
+UBCV,2016,S,PHTH,566,,921,Clinical Decision-Making IV,Bethan Everett;Janet Lundie,82,94.96341463,1.821985906,99.0,90.0,0,0,0,0,0,0.0,0,0,0,0,82
+UBCV,2016,S,PHTH,566,,OVERALL,Clinical Decision-Making IV,,82,94.96341463,1.821985906,99.0,90.0,0,0,0,0,0,0.0,0,0,0,0,82

@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,FOPR,264,,101,"Geomatics, Forest Access and Transportation",Charles Lyons,58,75.982758621,9.570589781,92.0,54.0,,,,,,13,6,7,9,10,
-UBCV,2015,W,FOPR,264,,OVERALL,"Geomatics, Forest Access and Transportation",,58,75.982758621,9.570589781,92.0,54.0,,,,,,13,6,7,9,10,
-UBCV,2015,W,FOPR,362,,201,Harvest Systems and Operations Planning,Charles Lyons,19,75.526315789,6.850534618999999,85.0,65.0,,,,,,,,,6,,
+UBCV,2015,W,FOPR,264,,101,"Geomatics, Forest Access and Transportation",Charles Lyons,58,75.982758621,9.570589781,92.0,54.0,0,,,,,13,6,7,9,10,
+UBCV,2015,W,FOPR,264,,OVERALL,"Geomatics, Forest Access and Transportation",,58,75.982758621,9.570589781,92.0,54.0,0,,,,,13,6,7,9,10,
+UBCV,2015,W,FOPR,362,,201,Harvest Systems and Operations Planning,Charles Lyons,19,75.526315789,6.850534619,85.0,65.0,0,0,0,0,,,,,6,,0
 UBCV,2015,W,FOPR,362,,OVERALL,Harvest Systems and Operations Planning,,25,74.12,16.485650326,94.0,5.0,,,,,5,,,,8,,
-UBCV,2015,W,FOPR,388,,101,Analytical Methods in Forest Hydrology,Younes Alila,14,64.571428571,11.660019038,85.0,50.0,,,,,,,,,,,
-UBCV,2015,W,FOPR,388,,OVERALL,Analytical Methods in Forest Hydrology,,14,64.571428571,11.660019038,85.0,50.0,,,,,,,,,,,
-UBCV,2015,W,FOPR,459,,201,"Economics, Contracts, and Finances in Forest Operations",Harry William Nelson,14,88.285714286,3.4290292730000003,91.0,80.0,,,,,,,,,,5,7
-UBCV,2015,W,FOPR,459,,OVERALL,"Economics, Contracts, and Finances in Forest Operations",,14,88.285714286,3.4290292730000003,91.0,80.0,,,,,,,,,,5,7
-UBCV,2015,W,FOPR,464,,201,Forestry Machines,Charles Lyons,11,78.909090909,8.030623207,90.0,65.0,,,,,,,,,,,
-UBCV,2015,W,FOPR,464,,OVERALL,Forestry Machines,,11,78.909090909,8.030623207,90.0,65.0,,,,,,,,,,,
+UBCV,2015,W,FOPR,388,,101,Analytical Methods in Forest Hydrology,Younes Alila,14,64.571428571,11.660019038,85.0,50.0,0,,,,,,,,,,0
+UBCV,2015,W,FOPR,388,,OVERALL,Analytical Methods in Forest Hydrology,,14,64.571428571,11.660019038,85.0,50.0,0,,,,,,,,,,0
+UBCV,2015,W,FOPR,459,,201,"Economics, Contracts, and Finances in Forest Operations",Harry William Nelson,14,88.285714286,3.429029273,91.0,80.0,0,0,0,0,0,0,0,0,2.0,5,7
+UBCV,2015,W,FOPR,459,,OVERALL,"Economics, Contracts, and Finances in Forest Operations",,14,88.285714286,3.429029273,91.0,80.0,0,0,0,0,0,0,0,0,2.0,5,7
+UBCV,2015,W,FOPR,464,,201,Forestry Machines,Charles Lyons,11,78.909090909,8.030623207,90.0,65.0,0,0,0,0,,,,,,,
+UBCV,2015,W,FOPR,464,,OVERALL,Forestry Machines,,11,78.909090909,8.030623207,90.0,65.0,0,0,0,0,,,,,,,

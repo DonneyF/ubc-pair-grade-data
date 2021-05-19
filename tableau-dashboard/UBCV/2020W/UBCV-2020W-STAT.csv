@@ -1,0 +1,65 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2020,W,STAT,200,,101,Elementary Statistics for Applications,Dexter Kim;Dexter Ronald Kim;Jacob Chen;Jonathan Agyeman;Li Zha;Linkun Chen;Meiying Ding;Melissa Lee;Pavel Krupskiy;Rodolfo Lourenzutti;Samuel Ip;Sarah Li;Xiaohua Gao;Yang Qu;Zining Wang,369,79.64498645,12.58519805,99.0,0.0,5,4,10,8,14,26,39,47,74,73,69
+UBCV,2020,W,STAT,200,,103,Elementary Statistics for Applications,Dexter Kim;Dexter Ronald Kim;Jacob Chen;Jonathan Agyeman;Li Zha;Linkun Chen;Meiying Ding;Melissa Lee;Rodolfo Lourenzutti;Samuel Ip;Sarah Li;Shuk Wong Li;Xiaohua Gao;Yang Qu;Zining Wang,310,74.36451613,14.63358394,98.0,0.0,16,8,15,10,10,34,43,45,64,41,24
+UBCV,2020,W,STAT,200,,202,Elementary Statistics for Applications,Chun Hin Trevor Kwan;Dexter Kim;Jacob Chen;Jiaping Liu;Jonathan Agyeman;Jose Gonsalves;Linkun Chen;Melissa Lee;Nishita Dahisaria;Rodolfo Lourenzutti;Zining Wang,301,74.55813954,11.67108001,97.0,24.0,10,6,12,16,31,38,33,38,61,35,21
+UBCV,2020,W,STAT,200,,OVERALL,Elementary Statistics for Applications,,980,76.4122449,13.23595303,99.0,0.0,31,18,37,34,55,98,115,130,199,149,114
+UBCV,2020,W,STAT,201,,201,Statistical Inference for Data Science,Creagh Briercliffe;Ela Bandari;Rodolfo Lourenzutti;Vincenzo Coia,43,81.8372093,8.141399881,96.0,62.0,0,0,0,1,1,3,4,9,6,11,8
+UBCV,2020,W,STAT,201,,OVERALL,Statistical Inference for Data Science,,43,81.8372093,8.141399881,96.0,62.0,0,0,0,1,1,3,4,9,6,11,8
+UBCV,2020,W,STAT,203,,103,Statistical Methods,Amir Heydar;Gong Zhang;Hoi Yin Eugenia Yu;Ian Murphy;Jiaping Liu;Lila Mackenzie;Md Jahurul Islam,94,74.81914894,14.32642702,97.0,31.0,5,2,5,4,10,7,14,9,12,8,18
+UBCV,2020,W,STAT,203,,OVERALL,Statistical Methods,,94,74.81914894,14.32642702,97.0,31.0,5,2,5,4,10,7,14,9,12,8,18
+UBCV,2020,W,STAT,251,,101,Elementary Statistics,Hansaem Jung;Haodi Liang;Jiachen Dong;Lasantha Premarathna Wijendra Acharige;Menglin Zhou;Quanhan Xi;Shannon Edie;Shenyi Pan;Xinmiao Wang;Yu-Ling Tsai;Zhexuan Zheng;Zhouhang Dai,345,75.35362319,12.02551285,98.0,12.0,8,12,13,19,25,33,37,62,57,48,31
+UBCV,2020,W,STAT,251,,201,Elementary Statistics,Dongyang Yang;Hansaem Jung;Jiachen Dong;Lasantha Premarathna Wijendra Acharige;Li Zha;Lila Mackenzie;Lulu Pei;Qian Ye;Quanhan Xi;Samuel Ip;Sarah Li;Shannon Edie;Xinyao Fan,349,74.47277937,13.76976024,100.0,3.0,13,13,20,18,29,29,35,50,60,50,32
+UBCV,2020,W,STAT,251,,OVERALL,Elementary Statistics,,694,74.91066282,12.93029716,100.0,3.0,21,25,33,37,54,62,72,112,117,98,63
+UBCV,2020,W,STAT,300,,101,Intermediate Statistics for Applications,Aaron Greenberg;Conor Morrison;Creagh Briercliffe;Joe Watson;Marie Auger-Methe;Ron Ronald Togunov;Ron Togunov;Sidney Lu;Xiaoting Li,190,81.22105263,12.61155844,100.0,24.0,4,2,5,3,10,9,18,21,29,42,47
+UBCV,2020,W,STAT,300,,201,Intermediate Statistics for Applications,Jenkin Tsui;Lasantha Premarathna Wijendra Acharige;Qiong Zhang;Shannon Edie;Xiaolan Cheng;Yang Qu,174,75.77011494,10.372486,95.0,34.0,2,1,12,9,11,12,23,30,42,22,10
+UBCV,2020,W,STAT,300,,OVERALL,Intermediate Statistics for Applications,,364,78.61538462,11.89626349,100.0,24.0,6,3,17,12,21,21,41,51,71,64,57
+UBCV,2020,W,STAT,302,,101,Introduction to Probability,Alexandre Bouchard-Cote;Anthony-Alexander Christidis;Haodi Liang;Ian Murphy;Ruben Zamar;Sophia Gu,100,81.2,13.4705065,98.0,27.0,2,1,6,3,2,4,6,14,13,19,30
+UBCV,2020,W,STAT,302,,201,Introduction to Probability,Anthony-Alexander Christidis;Aviral Saxena;Gong Zhang;Haodi Liang;Hoi Yin Eugenia Yu;Ian Murphy;Matias Salibian-Barrera;Shuk Wong Li;Xiaohua Gao;Xiaoxuan Liang;Zuheng Xu,153,76.94117647,15.01807477,100.0,15.0,7,7,7,8,7,18,6,14,22,27,30
+UBCV,2020,W,STAT,302,,202,Introduction to Probability,Anthony-Alexander Christidis;Aviral Saxena;Haodi Liang;Ian Murphy;Matias Salibian-Barrera;Xiaohua Gao,163,75.63190184,14.76773136,98.0,20.0,11,2,4,8,8,18,15,18,36,25,18
+UBCV,2020,W,STAT,302,,OVERALL,Introduction to Probability,,416,77.45192308,14.69046396,100.0,15.0,20,10,17,19,17,40,27,46,71,71,78
+UBCV,2020,W,STAT,305,,101,Introduction to Statistical Inference,Alexandre Bouchard-Cote;Giorgio Viancha Sgarbi;Kevin Kae-Wen Chern;Samuel Laferriere;William Welch;Xinyao Fan,129,80.35658915,12.65824734,99.0,41.0,2,3,2,11,6,3,12,13,22,23,32
+UBCV,2020,W,STAT,305,,202,Introduction to Statistical Inference,Benjamin Bloem-Reddy;Jonathan Agyeman;Kenny Chiu;Ruiyu Gou;Sijie Chen;Weijia Yin;William Welch,144,79.52083333,13.60016904,100.0,15.0,4,3,5,7,6,8,9,14,21,37,30
+UBCV,2020,W,STAT,305,,OVERALL,Introduction to Statistical Inference,,273,79.91575092,13.1461052,100.0,15.0,6,6,7,18,12,11,21,27,43,60,62
+UBCV,2020,W,STAT,306,,101,Finding Relationships in Data,Benjamin Sobkowiak;Bruce Dunham;Jiaping Liu;Li Zha;Lulu Pei;Xiaolan Cheng;Yuan Xia,130,75.87692308,9.600561502,93.0,36.0,1,2,4,7,10,17,16,15,35,19,4
+UBCV,2020,W,STAT,306,,201,Finding Relationships in Data,Bruce Dunham;Jingyiran Li;Lasantha Premarathna Wijendra Acharige;Xinglong Li;Xinyao Fan;Yong Dong Ouyang,136,75.63235294,12.86557786,96.0,9.0,4,3,3,7,4,23,20,16,19,22,15
+UBCV,2020,W,STAT,306,,OVERALL,Finding Relationships in Data,,266,75.7518797,11.36688737,96.0,9.0,5,5,7,14,14,40,36,31,54,41,19
+UBCV,2020,W,STAT,321,,101,Stochastic Signals and Systems,Animesh Sakorikar;Lele Wang;Rabe Arshad;Rodolfo Lourenzutti;Yu Jia Tian;Ziao Wang,90,72.24444444,15.86127438,100.0,7.0,8,2,5,4,10,13,8,12,10,8,10
+UBCV,2020,W,STAT,321,,OVERALL,Stochastic Signals and Systems,,90,72.24444444,15.86127438,100.0,7.0,8,2,5,4,10,13,8,12,10,8,10
+UBCV,2020,W,STAT,344,,101,Sample Surveys,Jingyiran Li;Lang Wu;Qian Ye;Qiong Zhang;Quanhan Xi,167,74.13173653,11.23009666,98.0,50.0,0,11,9,11,11,21,24,24,16,26,14
+UBCV,2020,W,STAT,344,,OVERALL,Sample Surveys,,167,74.13173653,11.23009666,98.0,50.0,0,11,9,11,11,21,24,24,16,26,14
+UBCV,2020,W,STAT,404,,101,Design and Analysis of Experiments,Jiahua Chen;Kenny Chiu;Xiaoxuan Liang;Yong Dong Ouyang,108,73.16666667,13.95754578,99.0,28.0,7,2,3,6,11,14,15,14,12,15,9
+UBCV,2020,W,STAT,404,,OVERALL,Design and Analysis of Experiments,,108,73.16666667,13.95754578,99.0,28.0,7,2,3,6,11,14,15,14,12,15,9
+UBCV,2020,W,STAT,406,,101,Methods for Statistical Learning,Daniel Mcdonald;Matias Salibian-Barrera;Shannon Edie;Vittorio Romaniello;Weijia Yin;Yuan Xia;Zuheng Xu,131,83.35114504,6.83309105,97.0,60.0,0,0,0,1,2,4,10,17,29,45,23
+UBCV,2020,W,STAT,406,,OVERALL,Methods for Statistical Learning,,131,83.35114504,6.83309105,97.0,60.0,0,0,0,1,2,4,10,17,29,45,23
+UBCV,2020,W,STAT,443,,202,Time Series and Forecasting,Bruce Dunham;Daniel Daly-Grafstein;Daniel Hadley;Jingyiran Li;Natalia Nolde;Yuan Xia,137,77.32116788,13.87493207,94.0,5.0,3,7,4,1,6,9,10,21,32,29,15
+UBCV,2020,W,STAT,443,,OVERALL,Time Series and Forecasting,,137,77.32116788,13.87493207,94.0,5.0,3,7,4,1,6,9,10,21,32,29,15
+UBCV,2020,W,STAT,447,B,201,Special Topics in Statistics,Harry Sue Wah Joe;Shenyi Pan,34,79.26470588,13.2649203,96.0,37.0,2,0,1,0,2,3,2,1,8,8,7
+UBCV,2020,W,STAT,447,B,OVERALL,Special Topics in Statistics,,34,79.26470588,13.2649203,96.0,37.0,2,0,1,0,2,3,2,1,8,8,7
+UBCV,2020,W,STAT,460,,101,Statistical Inference I,Anthony-Alexander Christidis;Jenkin Tsui;Ruben Zamar,7,81.14285714,29.24852459,98.0,17.0,1,0,0,0,0,0,0,1,0,0,5
+UBCV,2020,W,STAT,460,,OVERALL,Statistical Inference I,,7,81.14285714,29.24852459,98.0,17.0,1,0,0,0,0,0,0,1,0,0,5
+UBCV,2020,W,STAT,520,A,101,Topics in Bayesian Analysis and Decision Theory,Alexandre Bouchard-Cote,24,87.95833333,4.920932809,97.0,82.0,0,0,0,0,0,0,0,0,10,5,9
+UBCV,2020,W,STAT,520,A,OVERALL,Topics in Bayesian Analysis and Decision Theory,,24,87.95833333,4.920932809,97.0,82.0,0,0,0,0,0,0,0,0,10,5,9
+UBCV,2020,W,STAT,520,B,201,Topics in Bayesian Analysis and Decision Theory,Trevor Campbell,13,83.61538462,20.67421285,97.0,18.0,1,0,0,0,0,0,0,0,4,1,7
+UBCV,2020,W,STAT,520,B,OVERALL,Topics in Bayesian Analysis and Decision Theory,,13,83.61538462,20.67421285,97.0,18.0,1,0,0,0,0,0,0,0,4,1,7
+UBCV,2020,W,STAT,535,A,201,Statistical Computing,Daniel Mcdonald,6,91.16666667,3.544949459,95.0,87.0,0,0,0,0,0,0,0,0,0,3,3
+UBCV,2020,W,STAT,535,A,OVERALL,Statistical Computing,,6,91.16666667,3.544949459,95.0,87.0,0,0,0,0,0,0,0,0,0,3,3
+UBCV,2020,W,STAT,536,D,201,Statistical Theory for the Design and Analysis of Clinical Studies,Paul Gustafson,10,86.6,5.103375789,94.0,80.0,0,0,0,0,0,0,0,0,3,2,5
+UBCV,2020,W,STAT,536,D,OVERALL,Statistical Theory for the Design and Analysis of Clinical Studies,,10,86.6,5.103375789,94.0,80.0,0,0,0,0,0,0,0,0,3,2,5
+UBCV,2020,W,STAT,536,E,201,Statistical Theory for the Design and Analysis of Clinical Studies,Lang Wu,10,89.5,2.718251072,95.0,86.0,0,0,0,0,0,0,0,0,0,6,4
+UBCV,2020,W,STAT,536,E,OVERALL,Statistical Theory for the Design and Analysis of Clinical Studies,,10,89.5,2.718251072,95.0,86.0,0,0,0,0,0,0,0,0,0,6,4
+UBCV,2020,W,STAT,538,A,101,Generalized Linear Models,Lang Wu;Trevor Campbell,14,86.71428571,5.902132228,98.0,80.0,0,0,0,0,0,0,0,0,6,5,3
+UBCV,2020,W,STAT,538,A,OVERALL,Generalized Linear Models,,14,86.71428571,5.902132228,98.0,80.0,0,0,0,0,0,0,0,0,6,5,3
+UBCV,2020,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue;Jenkin Tsui;Keegan Korthauer;Marco Tello Palencia;Sara Mostafavi;Sina Jafarzadeh,20,89.65,7.005824644,98.0,75.0,0,0,0,0,0,0,1,2,1,4,12
+UBCV,2020,W,STAT,540,,OVERALL,Statistical Methods for High Dimensional Biology,,20,89.65,7.005824644,98.0,75.0,0,0,0,0,0,0,1,2,1,4,12
+UBCV,2020,W,STAT,545,A,101,Exploratory Data Analysis,Almas Khan;David Kepplinger;Diana Lin;Iciar Fernandez Boyano;Victor Yuan;Vincenzo Coia,66,92.28787879,7.834372296,100.0,57.0,0,0,,,,,1,,3,8,52
+UBCV,2020,W,STAT,545,A,OVERALL,Exploratory Data Analysis,,66,92.28787879,7.834372296,100.0,57.0,0,0,,,,,1,,3,8,52
+UBCV,2020,W,STAT,545,B,102,Exploratory Data Analysis,Almas Khan;David Kepplinger;Diana Lin;Iciar Fernandez Boyano;Victor Yuan;Vincenzo Coia,56,93.19642857,7.289892487,100.0,60.0,0,0,0,1,0,0,1,2,2,3,47
+UBCV,2020,W,STAT,545,B,OVERALL,Exploratory Data Analysis,,56,93.19642857,7.289892487,100.0,60.0,0,0,0,1,0,0,1,2,2,3,47
+UBCV,2020,W,STAT,547,C,101,Topics in Statistics,Benjamin Bloem-Reddy;Saifuddin Syed,11,88.72727273,8.486352681,99.0,74.0,0,0,0,0,0,0,2,0.0,1,2,6
+UBCV,2020,W,STAT,547,C,OVERALL,Topics in Statistics,,11,88.72727273,8.486352681,99.0,74.0,0,0,0,0,0,0,2,0.0,1,2,6
+UBCV,2020,W,STAT,550,,201,Techniques of Statistical Consulting,Gabriela Cohen Freue;Hongxing Estella Qi;Lang Wu,21,89.28571429,2.052872552,95.0,87.0,0,0,0,0,0,0,0,0,0,13,8
+UBCV,2020,W,STAT,550,,OVERALL,Techniques of Statistical Consulting,,21,89.28571429,2.052872552,95.0,87.0,0,0,0,0,0,0,0,0,0,13,8
+UBCV,2020,W,STAT,560,,101,Statistical Theory I,Anthony-Alexander Christidis;Jenkin Tsui;Paul Gustafson;Ruben Zamar,13,92.23076923,4.952336926,98.0,83.0,0,0,0,0,0,0,0,0,1,4,8
+UBCV,2020,W,STAT,560,,OVERALL,Statistical Theory I,,13,92.23076923,4.952336926,98.0,83.0,0,0,0,0,0,0,0,0,1,4,8
+UBCV,2020,W,STAT,561,,201,Statistical Theory II,Jiahua Chen,9,90.11111111,10.22795733,98.0,71.0,0,0,0,0,0,1,1,0,0,1,6
+UBCV,2020,W,STAT,561,,OVERALL,Statistical Theory II,,9,90.11111111,10.22795733,98.0,71.0,0,0,0,0,0,1,1,0,0,1,6

@@ -1,36 +1,36 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,FIPR,230,,001,Introduction to Motion Picture Directing,David Hauka,59,81.10169492,8.108520243,93.0,43.0,,,,,,,5,8,19,19,
 UBCV,2014,W,FIPR,230,,OVERALL,Introduction to Motion Picture Directing,,59,81.10169492,8.108520243,93.0,43.0,,,,,,,5,8,19,19,
-UBCV,2014,W,FIPR,233,,002,Video Production I,Bruce Spangler,18,88.88888889,4.056786455,96.0,83.0,,,,,,,,,3,7,8
-UBCV,2014,W,FIPR,233,,003,Video Production I,Dwayne Beaver,37,86.54054054,3.005500463,90.0,80.0,,,,,,,,,10,24,3
-UBCV,2014,W,FIPR,233,,OVERALL,Video Production I,,55,87.30909091,3.527000232,96.0,80.0,,,,,,,,,13,31,11
+UBCV,2014,W,FIPR,233,,002,Video Production I,Bruce Spangler,18,88.88888889,4.056786455,96.0,83.0,0,0,0,0,0,0,0,0,3.0,7,8
+UBCV,2014,W,FIPR,233,,003,Video Production I,Dwayne Beaver,37,86.54054054,3.005500463,90.0,80.0,0,0,0,0,0,0,0,0,10,24,3.0
+UBCV,2014,W,FIPR,233,,OVERALL,Video Production I,,55,87.30909091,3.527000232,96.0,80.0,0,0,0,0,0,0,0,0,13,31,11
 UBCV,2014,W,FIPR,234,,001,Production Planning and Professional Practices,Abraham Harry Katz;Abraham Katz;Alexander Formos;Sharon Mcgowan,50,79.38,14.71760018,95.0,0.0,,,,,,,6,9,7,12,10
 UBCV,2014,W,FIPR,234,,OVERALL,Production Planning and Professional Practices,,50,79.38,14.71760018,95.0,0.0,,,,,,,6,9,7,12,10
 UBCV,2014,W,FIPR,269,A,001,Special Topics in Film Production,Evan Lendrum;Tom Scholte,73,73.94520548,15.91373482,96.0,0.0,5,,,,,5,5,9,24,8,
 UBCV,2014,W,FIPR,269,A,OVERALL,Special Topics in Film Production,,73,73.94520548,15.91373482,96.0,0.0,5,,,,,5,5,9,24,8,
-UBCV,2014,W,FIPR,330,,001,Intermediate Motion Picture Directing,Tom Scholte,22,88.04545455,2.951630263,92.0,81.0,,,,,,,,,,12,8
-UBCV,2014,W,FIPR,330,,OVERALL,Intermediate Motion Picture Directing,,22,88.04545455,2.951630263,92.0,81.0,,,,,,,,,,12,8
-UBCV,2014,W,FIPR,333,,001,Motion Picture Production I,Karin Lee,17,85.47058824,2.9605245960000004,91.0,80.0,,,,,,,,,5,10,
-UBCV,2014,W,FIPR,333,,OVERALL,Motion Picture Production I,,17,85.47058824,2.9605245960000004,91.0,80.0,,,,,,,,,5,10,
-UBCV,2014,W,FIPR,337,,001,Cinematography and Lighting I,Vince Arvidson,25,72.72,7.585732221000001,83.0,50.0,,,,,,6,,,6,,
-UBCV,2014,W,FIPR,337,,OVERALL,Cinematography and Lighting I,,25,72.72,7.585732221000001,83.0,50.0,,,,,,6,,,6,,
-UBCV,2014,W,FIPR,338,,001,Motion Picture Sound,Jennifer Lewis,20,88.75,3.998354925,94.0,82.0,,,,,,,,,,6,10
-UBCV,2014,W,FIPR,338,,OVERALL,Motion Picture Sound,,20,88.75,3.998354925,94.0,82.0,,,,,,,,,,6,10
-UBCV,2014,W,FIPR,339,,001,Post-Production Techniques I,Refael Spivak,24,85.79166667,4.699483475,93.0,75.0,,,,,,,,,,12,5
-UBCV,2014,W,FIPR,339,,OVERALL,Post-Production Techniques I,,24,85.79166667,4.699483475,93.0,75.0,,,,,,,,,,12,5
-UBCV,2014,W,FIPR,433,,001,Motion Picture Production II,Michael Parker,20,85.55,5.889106804,93.0,73.0,,,,,,,,,5,6,6
-UBCV,2014,W,FIPR,433,,OVERALL,Motion Picture Production II,,20,85.55,5.889106804,93.0,73.0,,,,,,,,,5,6,6
-UBCV,2014,W,FIPR,434,,001,Producing for Film and Television,Lael Mccall,13,81.61538462,1.043907845,84.0,80.0,,,,,,,,,13,,
-UBCV,2014,W,FIPR,434,,OVERALL,Producing for Film and Television,,13,81.61538462,1.043907845,84.0,80.0,,,,,,,,,13,,
-UBCV,2014,W,FIPR,436,A,001,Documentary Development and Production,Cari Green,14,84.64285714,6.147008564,92.0,67.0,,,,,,,,,5,5,
-UBCV,2014,W,FIPR,436,A,OVERALL,Documentary Development and Production,,14,84.64285714,6.147008564,92.0,67.0,,,,,,,,,5,5,
-UBCV,2014,W,FIPR,436,B,001,Documentary Development and Production,Bruce Spangler,11,83.0,5.138093031,88.0,72.0,,,,,,,,,,5,
-UBCV,2014,W,FIPR,436,B,OVERALL,Documentary Development and Production,,11,83.0,5.138093031,88.0,72.0,,,,,,,,,,5,
-UBCV,2014,W,FIPR,437,,001,Cinematography II,Vince Arvidson,16,84.1875,4.16683333,91.0,75.0,,,,,,,,,5,8,
-UBCV,2014,W,FIPR,437,,OVERALL,Cinematography II,,16,84.1875,4.16683333,91.0,75.0,,,,,,,,,5,8,
-UBCV,2014,W,FIPR,469,A,001,Special Projects,Alejandro Yoshizawa,21,81.61904762,9.340643396,91.0,55.0,,,,,,,,,5,9,
-UBCV,2014,W,FIPR,469,A,OVERALL,Special Projects,,21,81.61904762,9.340643396,91.0,55.0,,,,,,,,,5,9,
-UBCV,2014,W,FIPR,469,G,001,Special Projects,Tom Scholte,13,85.53846154,1.050030525,88.0,84.0,,,,,,,,,,11,
-UBCV,2014,W,FIPR,469,G,OVERALL,Special Projects,,13,85.53846154,1.050030525,88.0,84.0,,,,,,,,,,11,
-UBCV,2014,W,FIPR,469,H,001,Special Projects,Tom Scholte,13,85.69230769,1.0315534709999998,88.0,84.0,,,,,,,,,,11,
-UBCV,2014,W,FIPR,469,H,OVERALL,Special Projects,,13,85.69230769,1.0315534709999998,88.0,84.0,,,,,,,,,,11,
+UBCV,2014,W,FIPR,330,,001,Intermediate Motion Picture Directing,Tom Scholte,22,88.04545455,2.951630263,92.0,81.0,0,0,0,0,0,0,0,0,2.0,12,8
+UBCV,2014,W,FIPR,330,,OVERALL,Intermediate Motion Picture Directing,,22,88.04545455,2.951630263,92.0,81.0,0,0,0,0,0,0,0,0,2.0,12,8
+UBCV,2014,W,FIPR,333,,001,Motion Picture Production I,Karin Lee,17,85.47058824,2.960524596,91.0,80.0,0,0,0,0,0,0,0,0,5,10,2.0
+UBCV,2014,W,FIPR,333,,OVERALL,Motion Picture Production I,,17,85.47058824,2.960524596,91.0,80.0,0,0,0,0,0,0,0,0,5,10,2.0
+UBCV,2014,W,FIPR,337,,001,Cinematography and Lighting I,Vince Arvidson,25,72.72,7.585732221,83.0,50.0,0,,,,,6,,,6,0,0
+UBCV,2014,W,FIPR,337,,OVERALL,Cinematography and Lighting I,,25,72.72,7.585732221,83.0,50.0,0,,,,,6,,,6,0,0
+UBCV,2014,W,FIPR,338,,001,Motion Picture Sound,Jennifer Lewis,20,88.75,3.998354925,94.0,82.0,0,0,0,0,0,0,0,0,4.0,6,10
+UBCV,2014,W,FIPR,338,,OVERALL,Motion Picture Sound,,20,88.75,3.998354925,94.0,82.0,0,0,0,0,0,0,0,0,4.0,6,10
+UBCV,2014,W,FIPR,339,,001,Post-Production Techniques I,Refael Spivak,24,85.79166667,4.699483475,93.0,75.0,0,0,0,0,0,0,,,,12,5
+UBCV,2014,W,FIPR,339,,OVERALL,Post-Production Techniques I,,24,85.79166667,4.699483475,93.0,75.0,0,0,0,0,0,0,,,,12,5
+UBCV,2014,W,FIPR,433,,001,Motion Picture Production II,Michael Parker,20,85.55,5.889106804,93.0,73.0,0,0,0,0,0,0,,,5,6,6
+UBCV,2014,W,FIPR,433,,OVERALL,Motion Picture Production II,,20,85.55,5.889106804,93.0,73.0,0,0,0,0,0,0,,,5,6,6
+UBCV,2014,W,FIPR,434,,001,Producing for Film and Television,Lael Mccall,13,81.61538462,1.043907845,84.0,80.0,0,0,0,0,0,0,0,0,13,0,0
+UBCV,2014,W,FIPR,434,,OVERALL,Producing for Film and Television,,13,81.61538462,1.043907845,84.0,80.0,0,0,0,0,0,0,0,0,13,0,0
+UBCV,2014,W,FIPR,436,A,001,Documentary Development and Production,Cari Green,14,84.64285714,6.147008564,92.0,67.0,0,0,0,0,,,,,5,5,
+UBCV,2014,W,FIPR,436,A,OVERALL,Documentary Development and Production,,14,84.64285714,6.147008564,92.0,67.0,0,0,0,0,,,,,5,5,
+UBCV,2014,W,FIPR,436,B,001,Documentary Development and Production,Bruce Spangler,11,83.0,5.138093031,88.0,72.0,0,0,0,0,0,0,,,,5,0
+UBCV,2014,W,FIPR,436,B,OVERALL,Documentary Development and Production,,11,83.0,5.138093031,88.0,72.0,0,0,0,0,0,0,,,,5,0
+UBCV,2014,W,FIPR,437,,001,Cinematography II,Vince Arvidson,16,84.1875,4.16683333,91.0,75.0,0,0,0,0,0,0,,,5,8,
+UBCV,2014,W,FIPR,437,,OVERALL,Cinematography II,,16,84.1875,4.16683333,91.0,75.0,0,0,0,0,0,0,,,5,8,
+UBCV,2014,W,FIPR,469,A,001,Special Projects,Alejandro Yoshizawa,21,81.61904762,9.340643396,91.0,55.0,0,0,,,,,,,5,9,
+UBCV,2014,W,FIPR,469,A,OVERALL,Special Projects,,21,81.61904762,9.340643396,91.0,55.0,0,0,,,,,,,5,9,
+UBCV,2014,W,FIPR,469,G,001,Special Projects,Tom Scholte,13,85.53846154,1.050030525,88.0,84.0,0,0,0,0,0,0,0,0,2.0,11,0
+UBCV,2014,W,FIPR,469,G,OVERALL,Special Projects,,13,85.53846154,1.050030525,88.0,84.0,0,0,0,0,0,0,0,0,2.0,11,0
+UBCV,2014,W,FIPR,469,H,001,Special Projects,Tom Scholte,13,85.69230769,1.031553471,88.0,84.0,0,0,0,0,0,0,0,0,2.0,11,0
+UBCV,2014,W,FIPR,469,H,OVERALL,Special Projects,,13,85.69230769,1.031553471,88.0,84.0,0,0,0,0,0,0,0,0,2.0,11,0

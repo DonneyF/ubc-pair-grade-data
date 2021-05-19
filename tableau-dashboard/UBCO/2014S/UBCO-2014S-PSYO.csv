@@ -1,8 +1,8 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2014,S,PSYO,111,,001,Introduction to Psychology: Basic Processes,Paul Gabias,55,65.90909091,18.82106063,100.0,2.0,7,8,5,,,8,,,6,,
 UBCO,2014,S,PSYO,111,,OVERALL,Introduction to Psychology: Basic Processes,,55,65.90909091,18.82106063,100.0,2.0,7,8,5,,,8,,,6,,
-UBCO,2014,S,PSYO,220,,001,Lifespan Development,Tara Carpenter,62,73.85483871,10.51438792,91.0,50.0,,,5,6,,8,9,7,10,7,
-UBCO,2014,S,PSYO,220,,OVERALL,Lifespan Development,,62,73.85483871,10.51438792,91.0,50.0,,,5,6,,8,9,7,10,7,
+UBCO,2014,S,PSYO,220,,001,Lifespan Development,Tara Carpenter,62,73.85483871,10.51438792,91.0,50.0,0,,5,6,,8,9,7,10,7,
+UBCO,2014,S,PSYO,220,,OVERALL,Lifespan Development,,62,73.85483871,10.51438792,91.0,50.0,0,,5,6,,8,9,7,10,7,
 UBCO,2014,S,PSYO,241,,001,Personality,Tara Carpenter,57,69.64912281,16.68991486,98.0,9.0,6,,5,5,5,,,8,5,7,5
 UBCO,2014,S,PSYO,241,,OVERALL,Personality,,57,69.64912281,16.68991486,98.0,9.0,6,,5,5,5,,,8,5,7,5
 UBCO,2014,S,PSYO,252,,001,Introduction to Social Psychology,Tara Carpenter,57,77.70175439,10.81824668,93.0,47.0,,,,,,5,7,,14,12,6
@@ -11,5 +11,5 @@ UBCO,2014,S,PSYO,380,V,001,Special Topics in Psychology,Jennifer Langille,45,79.
 UBCO,2014,S,PSYO,380,V,OVERALL,Special Topics in Psychology,,45,79.64444444,19.32515501,100.0,5.0,,,,,,,,,8,8,15
 UBCO,2014,S,PSYO,380,X,001,Special Topics in Psychology,Maxine R Crawford,59,76.69491525,10.19677812,94.0,49.0,,,,,5,9,5,6,13,9,6
 UBCO,2014,S,PSYO,380,X,OVERALL,Special Topics in Psychology,,59,76.69491525,10.19677812,94.0,49.0,,,,,5,9,5,6,13,9,6
-UBCO,2014,S,PSYO,530,A,001,Clinical Psychology Practicum,Harry Miller;Maya Libben,7,95.0,0.0,95.0,95.0,,,,,,,,,,,7
-UBCO,2014,S,PSYO,530,A,OVERALL,Clinical Psychology Practicum,,7,95.0,0.0,95.0,95.0,,,,,,,,,,,7
+UBCO,2014,S,PSYO,530,A,001,Clinical Psychology Practicum,Harry Miller;Maya Libben,7,95.0,0.0,95.0,95.0,0,0,0,0,0,0,0,0,0,0,7
+UBCO,2014,S,PSYO,530,A,OVERALL,Clinical Psychology Practicum,,7,95.0,0.0,95.0,95.0,0,0,0,0,0,0,0,0,0,0,7

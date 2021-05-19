@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,COEC,126,,001,"Data: Description, Display, and Inference",Xia0non Sun;Xiaonan Sun,20,74.15,6.861601777000001,88.0,60.0,,,,,,,8,,,,
-UBCV,2015,W,COEC,126,,OVERALL,"Data: Description, Display, and Inference",,20,74.15,6.861601777000001,88.0,60.0,,,,,,,8,,,,
+UBCV,2015,W,COEC,126,,001,"Data: Description, Display, and Inference",Xia0non Sun;Xiaonan Sun,20,74.15,6.861601777,88.0,60.0,0,0,0,,,,8,,,,0
+UBCV,2015,W,COEC,126,,OVERALL,"Data: Description, Display, and Inference",,20,74.15,6.861601777,88.0,60.0,0,0,0,,,,8,,,,0
 UBCV,2015,W,COEC,293,,001,Financial Accounting,Tran Khue Chung;Wantong Zou,76,75.605263158,9.612601379,94.0,47.0,,,,3,5,11,10,10,18,9,5
 UBCV,2015,W,COEC,293,,002,Financial Accounting,Tran Khue Chung;Wantong Zou,83,74.289156627,16.864257282,98.0,0.0,,,,5,6,9,13,0,14,14,13
-UBCV,2015,W,COEC,293,,OVERALL,Financial Accounting,,159,74.91823899399999,13.852737496,98.0,0.0,,,6,8,11,20,23,10,32,23,18
-UBCV,2015,W,COEC,298,,001,Introduction to Finance,Darren Degraaf;David Booth;Sung Yook Ahn,44,82.772727273,6.126054295,93.0,69.0,,,,,,,,5,12,17,
-UBCV,2015,W,COEC,298,,002,Introduction to Finance,Darren Degraaf;David Booth;Sung Yook Ahn,36,80.638888889,6.534098595,91.0,55.0,,,,,,,,5,17,7,
-UBCV,2015,W,COEC,298,,OVERALL,Introduction to Finance,,80,81.8125,6.362655584,93.0,55.0,,,,,,,8,10,29,24,5
-UBCV,2015,W,COEC,371,,001,Investment Theory,Georgios Skoulakis;Tudor Barcan,44,79.772727273,9.382972297,96.0,60.0,,,,,,5,,7,10,6,8
-UBCV,2015,W,COEC,371,,002,Investment Theory,Georgios Skoulakis;Tudor Barcan,36,77.611111111,9.277554412,90.0,54.0,,,,,,3,,4,10,8,1
-UBCV,2015,W,COEC,371,,OVERALL,Investment Theory,,80,78.8,9.339449473,96.0,54.0,,,,,7,8,6,11,20,14,9
-UBCV,2015,W,COEC,394,,001,Government and Business,Steven Minns;Wendy Wai Yee Kei,44,77.25,7.313971975,91.0,64.0,,,,,,13,,8,11,,5
-UBCV,2015,W,COEC,394,,002,Government and Business,Steven Minns;Wendy Wai Yee Kei,36,76.111111111,7.078247473999999,91.0,64.0,,,,,,10,,8,8,,2
-UBCV,2015,W,COEC,394,,OVERALL,Government and Business,,80,76.7375,7.186033835,91.0,64.0,,,,,,23,6,16,19,6,7
+UBCV,2015,W,COEC,293,,OVERALL,Financial Accounting,,159,74.918238994,13.852737496,98.0,0.0,,,6,8,11,20,23,10,32,23,18
+UBCV,2015,W,COEC,298,,001,Introduction to Finance,Darren Degraaf;David Booth;Sung Yook Ahn,44,82.772727273,6.126054295,93.0,69.0,0,0,0,0,0,,,5,12,17,
+UBCV,2015,W,COEC,298,,002,Introduction to Finance,Darren Degraaf;David Booth;Sung Yook Ahn,36,80.638888889,6.534098595,91.0,55.0,0,0,,,,,,5,17,7,
+UBCV,2015,W,COEC,298,,OVERALL,Introduction to Finance,,80,81.8125,6.362655584,93.0,55.0,0,0,,,,,8,10,29,24,5
+UBCV,2015,W,COEC,371,,001,Investment Theory,Georgios Skoulakis;Tudor Barcan,44,79.772727273,9.382972297,96.0,60.0,0,0,0,,,5,,7,10,6,8
+UBCV,2015,W,COEC,371,,002,Investment Theory,Georgios Skoulakis;Tudor Barcan,36,77.611111111,9.277554412,90.0,54.0,0,,,,,3,,4,10,8,1
+UBCV,2015,W,COEC,371,,OVERALL,Investment Theory,,80,78.8,9.339449473,96.0,54.0,0,,,,7,8,6,11,20,14,9
+UBCV,2015,W,COEC,394,,001,Government and Business,Steven Minns;Wendy Wai Yee Kei,44,77.25,7.313971975,91.0,64.0,0,0,0,0,,13,,8,11,,5
+UBCV,2015,W,COEC,394,,002,Government and Business,Steven Minns;Wendy Wai Yee Kei,36,76.111111111,7.078247474,91.0,64.0,0,0,0,0,,10,,8,8,,2
+UBCV,2015,W,COEC,394,,OVERALL,Government and Business,,80,76.7375,7.186033835,91.0,64.0,0,0,0,0,3.0,23,6,16,19,6,7

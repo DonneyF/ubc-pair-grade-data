@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2020,S,APSC,173,,001,Engineering Analysis II,Tina Olfatbakhsh;Vipul Moudgil,21,69.142857143,21.216233677,98.0,0.0,,,,,,,,,,,
-UBCO,2020,S,APSC,173,,OVERALL,Engineering Analysis II,,21,69.142857143,21.216233677,98.0,0.0,,,,,,,,,,,
-UBCO,2020,S,APSC,178,,001,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Mohammed Al-Shakhs,39,64.205128205,14.768707115,87.0,21.0,5,,,,8,7,,,,,
-UBCO,2020,S,APSC,178,,OVERALL,"Electricity, Magnetism, and Waves",,39,64.205128205,14.768707115,87.0,21.0,5,,,,8,7,,,,,
-UBCO,2020,S,APSC,179,,001,Linear Algebra for Engineers,Abdul Basit Zia;Mehran Shirazi,51,67.68627451,17.355679412,94.0,0.0,5,,,5,7,6,5,,8,5,
-UBCO,2020,S,APSC,179,,OVERALL,Linear Algebra for Engineers,,51,67.68627451,17.355679412,94.0,0.0,5,,,5,7,6,5,,8,5,
-UBCO,2020,S,APSC,181,,001,Dynamics,Ahmed Elmouchi;Mohammad Soltaniayan;Peyman Yousefi,73,76.287671233,17.094085602,100.0,10.0,,6,,,,,6,10,14,11,15
-UBCO,2020,S,APSC,181,,OVERALL,Dynamics,,73,76.287671233,17.094085602,100.0,10.0,,6,,,,,6,10,14,11,15
-UBCO,2020,S,APSC,201,,001,Technical Communication,Mairi Richter;Manjinder Kaur Sidhu;Manjinder Sidhu,43,73.0,5.916079783,88.0,62.0,,,,,7,5,12,11,,,
-UBCO,2020,S,APSC,201,,OVERALL,Technical Communication,,43,73.0,5.916079783,88.0,62.0,,,,,7,5,12,11,,,
-UBCO,2020,S,APSC,246,,001,System Dynamics,Nibirh Jawad;Saeed Moghaddam;Yuri Reis Rodrigues;Yuri Rodrigues,68,67.411764706,11.990338516,95.0,32.0,,,16,6,,12,6,6,6,,
-UBCO,2020,S,APSC,246,,OVERALL,System Dynamics,,68,67.411764706,11.990338516,95.0,32.0,,,16,6,,12,6,6,6,,
-UBCO,2020,S,APSC,248,,001,Engineering Analysis III,Peyman Yousefi;Rafiya Hossain;Sevda Mohammadi Gharalar,97,73.63917525800001,14.922847114000001,96.0,0.0,5,,,8,5,14,10,10,15,12,11
-UBCO,2020,S,APSC,248,,OVERALL,Engineering Analysis III,,97,73.63917525800001,14.922847114000001,96.0,0.0,5,,,8,5,14,10,10,15,12,11
-UBCO,2020,S,APSC,252,,001,Thermodynamics,Sepehr Mosadegh;Tharindu Hewa Godella Waththage;Tharindu Prbatha Hewa Godella Waththage;Zahra Mollahoseini,97,79.85567010300001,13.428041005,97.0,22.0,,,,5,,,5,13,20,21,21
-UBCO,2020,S,APSC,252,,OVERALL,Thermodynamics,,97,79.85567010300001,13.428041005,97.0,22.0,,,,5,,,5,13,20,21,21
+UBCO,2020,S,APSC,173,,001,Engineering Analysis II,Tina Olfatbakhsh;Vipul Moudgil,21,69.14285714,21.21623368,98.0,0.0,2,2.0,1,1,2,3.0,1,2,2,2,3
+UBCO,2020,S,APSC,173,,OVERALL,Engineering Analysis II,,21,69.14285714,21.21623368,98.0,0.0,2,2.0,1,1,2,3.0,1,2,2,2,3
+UBCO,2020,S,APSC,178,,001,"Electricity, Magnetism, and Waves",Ali Maleki Gargari;Mohammed Al-Shakhs,39,64.20512821,14.76870712,87.0,21.0,5,2.0,3,3,8,7.0,4,3,3,1,0
+UBCO,2020,S,APSC,178,,OVERALL,"Electricity, Magnetism, and Waves",,39,64.20512821,14.76870712,87.0,21.0,5,2.0,3,3,8,7.0,4,3,3,1,0
+UBCO,2020,S,APSC,179,,001,Linear Algebra for Engineers,Abdul Basit Zia;Mehran Shirazi,51,67.68627451,17.35567941,94.0,0.0,5,2.0,3,5,7,6.0,5,3,8,5,2
+UBCO,2020,S,APSC,179,,OVERALL,Linear Algebra for Engineers,,51,67.68627451,17.35567941,94.0,0.0,5,2.0,3,5,7,6.0,5,3,8,5,2
+UBCO,2020,S,APSC,181,,001,Dynamics,Ahmed Elmouchi;Mohammad Soltaniayan;Peyman Yousefi,73,76.28767123,17.0940856,100.0,10.0,3,6.0,2,4,2,0.0,6,10,14,11,15
+UBCO,2020,S,APSC,181,,OVERALL,Dynamics,,73,76.28767123,17.0940856,100.0,10.0,3,6.0,2,4,2,0.0,6,10,14,11,15
+UBCO,2020,S,APSC,201,,001,Technical Communication,Mairi Richter;Manjinder Sidhu,43,73.0,5.916079783,88.0,62.0,0,0.0,0,3,7,5.0,12,11,3,2,0
+UBCO,2020,S,APSC,201,,OVERALL,Technical Communication,,43,73.0,5.916079783,88.0,62.0,0,0.0,0,3,7,5.0,12,11,3,2,0
+UBCO,2020,S,APSC,246,,001,System Dynamics,Nibirh Jawad;Saeed Moghaddam;Yuri Reis Rodrigues;Yuri Rodrigues,68,67.41176471,11.99033852,95.0,32.0,2,4.0,16,6,4,12.0,6,6,6,4,2
+UBCO,2020,S,APSC,246,,OVERALL,System Dynamics,,68,67.41176471,11.99033852,95.0,32.0,2,4.0,16,6,4,12.0,6,6,6,4,2
+UBCO,2020,S,APSC,248,,001,Engineering Analysis III,Peyman Yousefi;Rafiya Hossain;Sevda Mohammadi Gharalar,97,73.63917526,14.92284711,96.0,0.0,5,4.0,3,8,5,14.0,10,10,15,12,11
+UBCO,2020,S,APSC,248,,OVERALL,Engineering Analysis III,,97,73.63917526,14.92284711,96.0,0.0,5,4.0,3,8,5,14.0,10,10,15,12,11
+UBCO,2020,S,APSC,252,,001,Thermodynamics,Sepehr Mosadegh;Tharindu Hewa Godella Waththage;Tharindu Prbatha Hewa Godella Waththage;Zahra Mollahoseini,97,80.05154639,13.0474863,97.0,22.0,3,0.0,2,5,4,3.0,5,13,20,21,21
+UBCO,2020,S,APSC,252,,OVERALL,Thermodynamics,,97,80.05154639,13.0474863,97.0,22.0,3,0.0,2,5,4,3.0,5,13,20,21,21

@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,BAIT,507,,BA1,Data Management for Business Analytics,Arjun Baghela;Arjun Singh Baghela;Man Yeung Tai;Simon Goring,47,84.595744681,3.4556794739999996,91.0,75.0,,,,,,,,,22,21,
-UBCV,2019,W,BAIT,507,,OVERALL,Data Management for Business Analytics,,47,84.595744681,3.4556794739999996,91.0,75.0,,,,,,,,,22,21,
-UBCV,2019,W,BAIT,508,,BA1,Business Analytics Programming,Gene Lee;Myunghwan Lee,47,83.744680851,6.578846486000001,93.0,69.0,,,,,,5,,7,8,16,10
-UBCV,2019,W,BAIT,508,,OVERALL,Business Analytics Programming,,47,83.744680851,6.578846486000001,93.0,69.0,,,,,,5,,7,8,16,10
-UBCV,2019,W,BAIT,509,,BA1,Business Applications of Machine Learning,Aarti Kashyap;Man Yeung Tai;Tomas Beuzen;Vincenzo Coia,47,84.14893617,4.872186918,93.0,70.0,,,,,,,,,17,20,
-UBCV,2019,W,BAIT,509,,OVERALL,Business Applications of Machine Learning,,47,84.14893617,4.872186918,93.0,70.0,,,,,,,,,17,20,
-UBCV,2019,W,BAIT,510,,001,Project Management in Delivering Business Solutions,Pattharin Tangwaragorn;Zorana Svedic,23,83.956521739,7.06771315,94.0,64.0,,,,,,,,,3,10,5
-UBCV,2019,W,BAIT,510,,301,Project Management in Delivering Business Solutions,Pattharin Tangwaragorn;Zorana Svedic,22,81.272727273,4.600018822,90.0,69.0,,,,,,,,,10,6,
-UBCV,2019,W,BAIT,510,,MM1,Project Management in Delivering Business Solutions,Pattharin Tangwaragorn;Zorana Svedic,47,80.04255319100001,4.353696315,90.0,72.0,,,,,,,6,14,18,8,
-UBCV,2019,W,BAIT,510,,OVERALL,Project Management in Delivering Business Solutions,,92,81.315217391,5.398268644,94.0,64.0,,,,,,,8,20,31,24,7
-UBCV,2019,W,BAIT,511,,001,Managing Information Technology,Pattharin Tangwaragorn;Zorana Svedic,13,81.76923076899999,5.340940088,87.0,70.0,,,,,,,,,,6,
-UBCV,2019,W,BAIT,511,,OVERALL,Managing Information Technology,,17,82.235294118,5.309536371,88.0,70.0,,,,,,,,5,,8,
-UBCV,2019,W,BAIT,527,,001,Business Intelligence for Management,Chunhua Wu;Zining Wang,44,84.204545455,4.294829479,91.0,73.0,,,,,,,,,13,23,
-UBCV,2019,W,BAIT,527,,OVERALL,Business Intelligence for Management,,44,84.204545455,4.294829479,91.0,73.0,,,,,,,,,13,23,
+UBCV,2019,W,BAIT,507,,BA1,Data Management for Business Analytics,Arjun Baghela;Arjun Singh Baghela;Man Yeung Tai;Simon Goring,47,84.59574468,3.455679474,91.0,75.0,0,0,0,0,0,0.0,1.0,1,22,21,2
+UBCV,2019,W,BAIT,507,,OVERALL,Data Management for Business Analytics,,47,84.59574468,3.455679474,91.0,75.0,0,0,0,0,0,0.0,1.0,1,22,21,2
+UBCV,2019,W,BAIT,508,,BA1,Business Analytics Programming,Gene Lee;Myunghwan Lee,47,83.74468085,6.578846486,93.0,69.0,0,0,0,0,0,5.0,1.0,7,8,16,10
+UBCV,2019,W,BAIT,508,,OVERALL,Business Analytics Programming,,47,83.74468085,6.578846486,93.0,69.0,0,0,0,0,0,5.0,1.0,7,8,16,10
+UBCV,2019,W,BAIT,509,,BA1,Business Applications of Machine Learning,Aarti Kashyap;Man Yeung Tai;Tomas Beuzen;Vincenzo Coia,47,84.14893617,4.872186918,93.0,70.0,0,0,0,0,0,1.0,2.0,3,17,20,4
+UBCV,2019,W,BAIT,509,,OVERALL,Business Applications of Machine Learning,,47,84.14893617,4.872186918,93.0,70.0,0,0,0,0,0,1.0,2.0,3,17,20,4
+UBCV,2019,W,BAIT,510,,001,Project Management in Delivering Business Solutions,Pattharin Tangwaragorn;Zorana Svedic,23,83.95652174,7.06771315,94.0,64.0,0,0,0,0,1,0.0,1.0,3,3,10,5
+UBCV,2019,W,BAIT,510,,301,Project Management in Delivering Business Solutions,Pattharin Tangwaragorn;Zorana Svedic,22,81.27272727,4.600018822,90.0,69.0,0,0,0,0,0,1.0,1.0,3,10,6,1
+UBCV,2019,W,BAIT,510,,MM1,Project Management in Delivering Business Solutions,Pattharin Tangwaragorn;Zorana Svedic,47,80.04255319,4.353696315,90.0,72.0,0,0,0,0,0,0.0,6.0,14,18,8,1
+UBCV,2019,W,BAIT,510,,OVERALL,Project Management in Delivering Business Solutions,,92,81.31521739,5.398268644,94.0,64.0,0,0,0,0,1,1.0,8.0,20,31,24,7
+UBCV,2019,W,BAIT,511,,001,Managing Information Technology,Pattharin Tangwaragorn;Zorana Svedic,13,81.76923077,5.340940088,87.0,70.0,0,0,0,0,0,1.0,0.0,4,2,6,0
+UBCV,2019,W,BAIT,511,,OVERALL,Managing Information Technology,,17,82.23529412,5.309536371,88.0,70.0,0,0,0,0,0,1.0,0.0,5,3,8,0
+UBCV,2019,W,BAIT,527,,001,Business Intelligence for Management,Chunhua Wu;Zining Wang,44,84.20454546,4.294829479,91.0,73.0,0,0,0,0,0,0.0,4.0,1,13,23,3
+UBCV,2019,W,BAIT,527,,OVERALL,Business Intelligence for Management,,44,84.20454546,4.294829479,91.0,73.0,0,0,0,0,0,0.0,4.0,1,13,23,3

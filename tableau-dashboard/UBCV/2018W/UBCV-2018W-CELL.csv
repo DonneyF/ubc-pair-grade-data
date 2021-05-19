@@ -1,19 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,CELL,501,,001,Cell and Developmental Biology Research Literature,Christopher Loewen;Douglas Allan;Shernaz Bamji,25,90.2,2.886751346,96.0,85.0,,,,,,,,,,9,16
-UBCV,2018,W,CELL,501,,OVERALL,Cell and Developmental Biology Research Literature,,25,90.2,2.886751346,96.0,85.0,,,,,,,,,,9,16
-UBCV,2018,W,CELL,502,,001,Current Topics in Developmental Biology,Timothy O'Connor,9,90.0,2.549509757,94.0,86.0,,,,,,,,,,,6
-UBCV,2018,W,CELL,502,,OVERALL,Current Topics in Developmental Biology,,9,90.0,2.549509757,94.0,86.0,,,,,,,,,,,6
-UBCV,2018,W,CELL,503,,001,Current Topics in Cellular Communication,Calvin Roskelley,12,87.5,2.779797246,91.0,83.0,,,,,,,,,,6,5
-UBCV,2018,W,CELL,503,,OVERALL,Current Topics in Cellular Communication,,12,87.5,2.779797246,91.0,83.0,,,,,,,,,,6,5
-UBCV,2018,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi,7,90.14285714299999,1.069044968,91.0,88.0,,,,,,,,,,,6
-UBCV,2018,W,CELL,505,,OVERALL,Current Topics in Intracellular Trafficking,,7,90.14285714299999,1.069044968,91.0,88.0,,,,,,,,,,,6
-UBCV,2018,W,CELL,506,,001,Fluorescence Microscopy,Kurt Haas,10,93.5,2.173067468,96.0,90.0,,,,,,,,,,,10
-UBCV,2018,W,CELL,506,,OVERALL,Fluorescence Microscopy,,10,93.5,2.173067468,96.0,90.0,,,,,,,,,,,10
-UBCV,2018,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,12,90.583333333,2.968266508,94.0,86.0,,,,,,,,,,5,7
-UBCV,2018,W,CELL,507,,OVERALL,Special Techniques and Protocols in Cell and Developmental Biology,,12,90.583333333,2.968266508,94.0,86.0,,,,,,,,,,5,7
-UBCV,2018,W,CELL,508,,001,Molecular Genetic Analysis,Bradford Hoffman;Douglas Allan;James Johnson;Susanne Michelle Clee,5,84.0,12.589678312,97.0,63.0,,,,,,,,,,,
-UBCV,2018,W,CELL,508,,OVERALL,Molecular Genetic Analysis,,5,84.0,12.589678312,97.0,63.0,,,,,,,,,,,
-UBCV,2018,W,CELL,509,,001,Cell Systems Biology,Guy Tanentzapf,7,89.714285714,1.603567451,92.0,87.0,,,,,,,,,,,
-UBCV,2018,W,CELL,509,,OVERALL,Cell Systems Biology,,7,89.714285714,1.603567451,92.0,87.0,,,,,,,,,,,
-UBCV,2018,W,CELL,511,,001,Cellular and Molecular Mechanisms of Human Disease,James Johnson,9,86.333333333,2.738612788,90.0,82.0,,,,,,,,,,6,
-UBCV,2018,W,CELL,511,,OVERALL,Cellular and Molecular Mechanisms of Human Disease,,9,86.333333333,2.738612788,90.0,82.0,,,,,,,,,,6,
+UBCV,2018,W,CELL,501,,001,Cell and Developmental Biology Research Literature,Christopher Loewen;Douglas Allan;Shernaz Bamji,25,90.2,2.886751346,96.0,85.0,0,0,0,0,0,0,0,0,0,9,16
+UBCV,2018,W,CELL,501,,OVERALL,Cell and Developmental Biology Research Literature,,25,90.2,2.886751346,96.0,85.0,0,0,0,0,0,0,0,0,0,9,16
+UBCV,2018,W,CELL,502,,001,Current Topics in Developmental Biology,Timothy O'Connor,9,90.0,2.549509757,94.0,86.0,0,0,0,0,0,0,0,0,0,3,6
+UBCV,2018,W,CELL,502,,OVERALL,Current Topics in Developmental Biology,,9,90.0,2.549509757,94.0,86.0,0,0,0,0,0,0,0,0,0,3,6
+UBCV,2018,W,CELL,503,,001,Current Topics in Cellular Communication,Calvin Roskelley,12,87.5,2.779797246,91.0,83.0,0,0,0,0,0,0,0,0,1,6,5
+UBCV,2018,W,CELL,503,,OVERALL,Current Topics in Cellular Communication,,12,87.5,2.779797246,91.0,83.0,0,0,0,0,0,0,0,0,1,6,5
+UBCV,2018,W,CELL,505,,001,Current Topics in Intracellular Trafficking,Christopher Loewen;Ivan Robert Nabi,7,90.14285714,1.069044968,91.0,88.0,0,0,0,0,0,0,0,0,0,1,6
+UBCV,2018,W,CELL,505,,OVERALL,Current Topics in Intracellular Trafficking,,7,90.14285714,1.069044968,91.0,88.0,0,0,0,0,0,0,0,0,0,1,6
+UBCV,2018,W,CELL,506,,001,Fluorescence Microscopy,Kurt Haas,10,93.5,2.173067468,96.0,90.0,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2018,W,CELL,506,,OVERALL,Fluorescence Microscopy,,10,93.5,2.173067468,96.0,90.0,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2018,W,CELL,507,,001,Special Techniques and Protocols in Cell and Developmental Biology,Tully Michael Underhill,12,90.58333333,2.968266508,94.0,86.0,0,0,0,0,0,0,0,0,0,5,7
+UBCV,2018,W,CELL,507,,OVERALL,Special Techniques and Protocols in Cell and Developmental Biology,,12,90.58333333,2.968266508,94.0,86.0,0,0,0,0,0,0,0,0,0,5,7
+UBCV,2018,W,CELL,509,,001,Cell Systems Biology,Guy Tanentzapf,7,89.71428571,1.603567451,92.0,87.0,0,0,0,0,0,0,0,0,0,3,4
+UBCV,2018,W,CELL,509,,OVERALL,Cell Systems Biology,,7,89.71428571,1.603567451,92.0,87.0,0,0,0,0,0,0,0,0,0,3,4
+UBCV,2018,W,CELL,511,,001,Cellular and Molecular Mechanisms of Human Disease,James Johnson,9,86.33333333,2.738612788,90.0,82.0,0,0,0,0,0,0,0,0,2,6,1
+UBCV,2018,W,CELL,511,,OVERALL,Cellular and Molecular Mechanisms of Human Disease,,9,86.33333333,2.738612788,90.0,82.0,0,0,0,0,0,0,0,0,2,6,1

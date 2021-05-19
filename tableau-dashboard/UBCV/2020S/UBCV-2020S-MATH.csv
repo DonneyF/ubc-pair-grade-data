@@ -1,40 +1,38 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Alexander William Weekes;Ella Chan;Ella Katelyn Chan;Sabin Cautis,140,73.757142857,14.338092057999999,100.0,18.0,6,2.0,10,11,10,17,13,17,19,23,12
-UBCV,2020,S,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,140,73.757142857,14.338092057999999,100.0,18.0,6,2.0,10,11,10,17,13,17,19,23,12
-UBCV,2020,S,MATH,101,,951,Integral Calculus with Applications to Physical Sciences and Engineering,Babhru Joshi;Liam Watson;Pulkit Gandhi,121,74.008264463,14.627881977000001,94.0,0.0,6,,5,,6,14,16,16,32,15,6
-UBCV,2020,S,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,121,74.008264463,14.627881977000001,94.0,0.0,6,,5,,6,14,16,16,32,15,6
-UBCV,2020,S,MATH,104,,921,Differential Calculus with Applications to Commerce and Social Sciences,Abhishek Kumar Shukla;Mark Thomson Maclean;Norbert Banyi;Yue-Xian Li,125,76.544,9.499154462,95.0,50.0,,,,,10,16,21,13,27,15,13
-UBCV,2020,S,MATH,104,,OVERALL,Differential Calculus with Applications to Commerce and Social Sciences,,125,76.544,9.499154462,95.0,50.0,,,,,10,16,21,13,27,15,13
-UBCV,2020,S,MATH,105,,951,Integral Calculus with Applications to Commerce and Social Sciences,Delphin Guilhem Senizergues;Delphin Senizergues;Elizabeth Jiahui Xiao;Elizabeth Xiao;Keqin Liu,134,71.02238806,15.619279786,100.0,5.0,8,7,10,16,15,15,9,13,10,12,19
-UBCV,2020,S,MATH,105,,OVERALL,Integral Calculus with Applications to Commerce and Social Sciences,,134,71.02238806,15.619279786,100.0,5.0,8,7,10,16,15,15,9,13,10,12,19
-UBCV,2020,S,MATH,200,,921,Calculus III,Ailana Fraser;Amin Soofiani;Brian Freidin;Edward Alexander Belk;Samer Dweik,131,71.786259542,9.695365771,95.0,44.0,,,10,12,24,16,17,17,17,13,
-UBCV,2020,S,MATH,200,,OVERALL,Calculus III,,131,71.786259542,9.695365771,95.0,44.0,,,10,12,24,16,17,17,17,13,
-UBCV,2020,S,MATH,215,,921,Elementary Differential Equations I,Ha Jung Rachel Han;K Wayne Nagata;Najmul Abid,69,69.173913043,19.020852738,96.0,1.0,7,5,6,,,6,10,8,9,9,5
-UBCV,2020,S,MATH,215,,OVERALL,Elementary Differential Equations I,,69,69.173913043,19.020852738,96.0,1.0,7,5,6,,,6,10,8,9,9,5
-UBCV,2020,S,MATH,220,,951,Mathematical Proof,Itay Londner;Jiahao Gong;Jingyi Chen;Keegan Boyle;Nina Morishige,59,66.88135593199999,14.389992626,95.0,33.0,6,5,6,8,8,,6,3,5,4,
-UBCV,2020,S,MATH,220,,952,Mathematical Proof,Itay Londner;Jingyi Chen;Nina Morishige,59,67.745762712,17.449032401,98.0,21.0,9,6,4,3,5,,6,7,8,5,
-UBCV,2020,S,MATH,220,,OVERALL,Mathematical Proof,,118,67.313559322,15.930242782,98.0,21.0,15,11,10,11,13,6,12,10,13,9,8
-UBCV,2020,S,MATH,221,,921,Matrix Algebra,Jishnu Ray;Kai Behrend;Ming Zhang;Patrick Walls;Qidi Zhang;Thomas Williams;Xiaowei Li,59,78.661016949,10.955411462999999,100.0,52.0,,,1,,7,4,7,3,12,11,10
-UBCV,2020,S,MATH,221,,922,Matrix Algebra,Kai Behrend;Patrick Walls;Qidi Zhang;Xiaowei Li,97,77.381443299,12.564370340999998,97.0,20.0,,,5,,4,9,12,12,19,14,15
-UBCV,2020,S,MATH,221,,OVERALL,Matrix Algebra,,156,77.865384615,11.961274362000001,100.0,20.0,,,6,7,11,13,19,15,31,25,25
-UBCV,2020,S,MATH,253,,921,Multivariable Calculus,Albert Chau;Edward Alexander Belk;Javier Gonzalez Anaya;Jim Bryan;Samer Dweik,161,74.919254658,12.653544540999999,99.0,15.0,4,4.0,7,9,19,16,16,27,23,17,19
-UBCV,2020,S,MATH,253,,922,Multivariable Calculus,Albert Chau;Caleb Marshall;Edward Alexander Belk;Jim Bryan;Shen-Ning Tung,119,71.43697479,11.918251674,99.0,31.0,6,3.0,8,5,9,18,21,16,23,7,3
-UBCV,2020,S,MATH,253,,OVERALL,Multivariable Calculus,,280,73.439285714,12.44471183,99.0,15.0,10,7,15,14,28,34,37,43,46,24,22
-UBCV,2020,S,MATH,255,,921,Ordinary Differential Equations,K Wayne Nagata;Najmul Abid,56,65.5,16.323992382,99.0,0.0,7,,5,7,8,9,,5,6,,
-UBCV,2020,S,MATH,255,,OVERALL,Ordinary Differential Equations,,56,65.5,16.323992382,99.0,0.0,7,,5,7,8,9,,5,6,,
-UBCV,2020,S,MATH,257,,921,Partial Differential Equations,Anthony Peirce;Chen-Chih Lai;Shamil Asgarli,68,86.79411764700001,9.276126996,99.0,52.0,,,,,,,5,,11,14,33
-UBCV,2020,S,MATH,257,,OVERALL,Partial Differential Equations,,68,86.79411764700001,9.276126996,99.0,52.0,,,,,,,5,,11,14,33
-UBCV,2020,S,MATH,300,,951,Introduction to Complex Variables,Chi Hoi Yip;Mathav Murugan,97,71.309278351,15.578003205,100.0,28.0,5,8,9,11,10,4.0,5,9,11,12,13
-UBCV,2020,S,MATH,300,,OVERALL,Introduction to Complex Variables,,97,71.309278351,15.578003205,100.0,28.0,5,8,9,11,10,4.0,5,9,11,12,13
-UBCV,2020,S,MATH,302,,921,Introduction to Probability,Guillermo Martinez Dibene;Yaniv Plan,106,80.188679245,11.213183744,98.0,43.0,,,,,,10,5,18,19,14,29
-UBCV,2020,S,MATH,302,,OVERALL,Introduction to Probability,,106,80.188679245,11.213183744,98.0,43.0,,,,,,10,5,18,19,14,29
-UBCV,2020,S,MATH,307,,921,Applied Linear Algebra,Patrick Walls;Xiaowei Li,106,75.943396226,11.203596522,96.0,12.0,,,,5,8,10,17,14,21,21,
-UBCV,2020,S,MATH,307,,OVERALL,Applied Linear Algebra,,106,75.943396226,11.203596522,96.0,12.0,,,,5,8,10,17,14,21,21,
-UBCV,2020,S,MATH,312,,921,Introduction to Number Theory,Federico Scavia;Zinovy Reichstein,79,80.96202531600001,12.431806847,100.0,31.0,,,,,,,9,7,17,14,19
-UBCV,2020,S,MATH,312,,OVERALL,Introduction to Number Theory,,79,80.96202531600001,12.431806847,100.0,31.0,,,,,,,9,7,17,14,19
-UBCV,2020,S,MATH,316,,921,Elementary Differential Equations II,Anthony Peirce;Shamil Asgarli,59,84.79661016899999,10.652472048,100.0,56.0,,,,,,5,,,6,12,24
-UBCV,2020,S,MATH,316,,OVERALL,Elementary Differential Equations II,,59,84.79661016899999,10.652472048,100.0,56.0,,,,,,5,,,6,12,24
-UBCV,2020,S,MATH,317,,951,Calculus IV,Jordan Alexander Mackenzie;Li Wang;Mark Thomson Maclean,90,65.977777778,17.592757561,99.0,9.0,14,8,10,,7,10,8,14,,8,5
-UBCV,2020,S,MATH,317,,OVERALL,Calculus IV,,90,65.977777778,17.592757561,99.0,9.0,14,8,10,,7,10,8,14,,8,5
-UBCV,2020,S,MATH,610,E,921,Topics in Pure Mathematics,Edwin Perkins;Mathav Murugan,5,94.2,2.774887385,99.0,92.0,,,,,,,,,,,5
-UBCV,2020,S,MATH,610,E,OVERALL,Topics in Pure Mathematics,,5,94.2,2.774887385,99.0,92.0,,,,,,,,,,,5
+UBCV,2020,S,MATH,100,,921,Differential Calculus with Applications to Physical Sciences and Engineering,Alexander William Weekes;Ella Chan;Sabin Cautis,140,73.75714286,14.33809206,100.0,18.0,6,2.0,10.0,11,10,17,13,17,19,23.0,12
+UBCV,2020,S,MATH,100,,OVERALL,Differential Calculus with Applications to Physical Sciences and Engineering,,140,73.75714286,14.33809206,100.0,18.0,6,2.0,10.0,11,10,17,13,17,19,23.0,12
+UBCV,2020,S,MATH,101,,951,Integral Calculus with Applications to Physical Sciences and Engineering,Babhru Joshi;Liam Watson;Pulkit Gandhi,120,74.89166667,12.789699,94.0,3.0,4,1.0,5.0,4,6,14,16,16,33,15.0,6
+UBCV,2020,S,MATH,101,,OVERALL,Integral Calculus with Applications to Physical Sciences and Engineering,,120,74.89166667,12.789699,94.0,3.0,4,1.0,5.0,4,6,14,16,16,33,15.0,6
+UBCV,2020,S,MATH,104,,921,Differential Calculus with Applications to Commerce and Social Sciences,Abhishek Kumar Shukla;Mark Thomson Maclean;Norbert Banyi,125,76.544,9.499154462,95.0,50.0,0,3.0,3.0,4,10,16,21,13,27,15.0,13
+UBCV,2020,S,MATH,104,,OVERALL,Differential Calculus with Applications to Commerce and Social Sciences,,125,76.544,9.499154462,95.0,50.0,0,3.0,3.0,4,10,16,21,13,27,15.0,13
+UBCV,2020,S,MATH,105,,951,Integral Calculus with Applications to Commerce and Social Sciences,Delphin Guilhem Senizergues;Delphin Senizergues;Elizabeth Jiahui Xiao;Elizabeth Xiao;Keqin Liu,133,71.48120301,15.47510293,100.0,5.0,7,7.0,10.0,16,14,15,9,13,10,12.0,20
+UBCV,2020,S,MATH,105,,OVERALL,Integral Calculus with Applications to Commerce and Social Sciences,,133,71.48120301,15.47510293,100.0,5.0,7,7.0,10.0,16,14,15,9,13,10,12.0,20
+UBCV,2020,S,MATH,200,,921,Calculus III,Ailana Fraser;Amin Soofiani;Brian Freidin;Edward Alexander Belk;Samer Dweik,131,71.78625954,9.695365771,95.0,44.0,2,1.0,10.0,12,24,16,17,17,17,13.0,2
+UBCV,2020,S,MATH,200,,OVERALL,Calculus III,,131,71.78625954,9.695365771,95.0,44.0,2,1.0,10.0,12,24,16,17,17,17,13.0,2
+UBCV,2020,S,MATH,215,,921,Elementary Differential Equations I,Ha Jung Rachel Han;K Wayne Nagata;Najmul Abid,69,69.26086957,18.91750837,96.0,1.0,6,6.0,6.0,3,1,6,10,8,9,9.0,5
+UBCV,2020,S,MATH,215,,OVERALL,Elementary Differential Equations I,,69,69.26086957,18.91750837,96.0,1.0,6,6.0,6.0,3,1,6,10,8,9,9.0,5
+UBCV,2020,S,MATH,220,,951,Mathematical Proof,Itay Londner;Jiahao Gong;Jingyi Chen;Keegan Boyle;Nina Morishige,59,67.3559322,14.61902718,95.0,33.0,6,5.0,6.0,7,8,4,6,3,5,5.0,4
+UBCV,2020,S,MATH,220,,952,Mathematical Proof,Itay Londner;Jingyi Chen;Nina Morishige,59,68.28813559,16.43907335,98.0,28.0,8,7.0,4.0,3,5,2,6,7,8,5.0,4
+UBCV,2020,S,MATH,220,,OVERALL,Mathematical Proof,,118,67.8220339,15.49614309,98.0,28.0,14,12.0,10.0,10,13,6,12,10,13,10.0,8
+UBCV,2020,S,MATH,221,,921,Matrix Algebra,Jishnu Ray;Kai Behrend;Ming Zhang;Patrick Walls;Qidi Zhang;Thomas Williams;Xiaowei Li,59,78.66101695,10.95541146,100.0,52.0,0,1.0,1.0,3,7,4,7,3,12,11.0,10
+UBCV,2020,S,MATH,221,,922,Matrix Algebra,Kai Behrend;Patrick Walls;Qidi Zhang;Xiaowei Li,97,77.3814433,12.56437034,97.0,20.0,3,0.0,5.0,4,4,9,12,12,19,14.0,15
+UBCV,2020,S,MATH,221,,OVERALL,Matrix Algebra,,156,77.86538462,11.96127436,100.0,20.0,3,1.0,6.0,7,11,13,19,15,31,25.0,25
+UBCV,2020,S,MATH,253,,921,Multivariable Calculus,Albert Chau;Edward Alexander Belk;Javier Gonzalez Anaya;Jim Bryan;Samer Dweik,161,74.91925466,12.65354454,99.0,15.0,4,4.0,7.0,9,19,16,16,27,23,17.0,19
+UBCV,2020,S,MATH,253,,922,Multivariable Calculus,Albert Chau;Caleb Marshall;Edward Alexander Belk;Jim Bryan;Shen-Ning Tung,119,71.69747899,11.17166105,99.0,34.0,6,3.0,8.0,5,9,18,21,16,23,7.0,3
+UBCV,2020,S,MATH,253,,OVERALL,Multivariable Calculus,,280,73.55,12.13060645,99.0,15.0,10,7.0,15.0,14,28,34,37,43,46,24.0,22
+UBCV,2020,S,MATH,255,,921,Ordinary Differential Equations,K Wayne Nagata;Najmul Abid,56,66.07142857,15.60286354,99.0,0.0,6,3.0,5.0,8,8,9,3,5,6,0.0,3
+UBCV,2020,S,MATH,255,,OVERALL,Ordinary Differential Equations,,56,66.07142857,15.60286354,99.0,0.0,6,3.0,5.0,8,8,9,3,5,6,0.0,3
+UBCV,2020,S,MATH,257,,921,Partial Differential Equations,Anthony Peirce;Chen-Chih Lai;Shamil Asgarli,68,86.79411765,9.276126996,99.0,52.0,0,2.0,0.0,0,1,0,5,2,11,14.0,33
+UBCV,2020,S,MATH,257,,OVERALL,Partial Differential Equations,,68,86.79411765,9.276126996,99.0,52.0,0,2.0,0.0,0,1,0,5,2,11,14.0,33
+UBCV,2020,S,MATH,300,,951,Introduction to Complex Variables,Chi Hoi Yip;Mathav Murugan,97,71.4742268,15.56310593,100.0,28.0,5,8.0,9.0,10,10,4,5,10,11,12.0,13
+UBCV,2020,S,MATH,300,,OVERALL,Introduction to Complex Variables,,97,71.4742268,15.56310593,100.0,28.0,5,8.0,9.0,10,10,4,5,10,11,12.0,13
+UBCV,2020,S,MATH,302,,921,Introduction to Probability,Guillermo Martinez Dibene;Yaniv Plan,106,80.18867925,11.21318374,98.0,43.0,1,3.0,2.0,3,2,10,5,18,19,14.0,29
+UBCV,2020,S,MATH,302,,OVERALL,Introduction to Probability,,106,80.18867925,11.21318374,98.0,43.0,1,3.0,2.0,3,2,10,5,18,19,14.0,29
+UBCV,2020,S,MATH,307,,921,Applied Linear Algebra,Patrick Walls;Xiaowei Li,106,75.94339623,11.20359652,96.0,12.0,1,2.0,3.0,5,8,10,17,14,21,21.0,4
+UBCV,2020,S,MATH,307,,OVERALL,Applied Linear Algebra,,106,75.94339623,11.20359652,96.0,12.0,1,2.0,3.0,5,8,10,17,14,21,21.0,4
+UBCV,2020,S,MATH,312,,921,Introduction to Number Theory,Federico Scavia;Zinovy Reichstein,79,80.96202532,12.43180685,100.0,31.0,2,1.0,0.0,3,3,4,9,7,17,14.0,19
+UBCV,2020,S,MATH,312,,OVERALL,Introduction to Number Theory,,79,80.96202532,12.43180685,100.0,31.0,2,1.0,0.0,3,3,4,9,7,17,14.0,19
+UBCV,2020,S,MATH,316,,921,Elementary Differential Equations II,Anthony Peirce;Shamil Asgarli,59,84.79661017,10.65247205,100.0,56.0,0,0.0,1.0,2,2,5,3,4,6,12.0,24
+UBCV,2020,S,MATH,316,,OVERALL,Elementary Differential Equations II,,59,84.79661017,10.65247205,100.0,56.0,0,0.0,1.0,2,2,5,3,4,6,12.0,24
+UBCV,2020,S,MATH,317,,951,Calculus IV,Jordan Alexander Mackenzie;Li Wang;Mark Thomson Maclean,90,66.54444444,17.26343223,99.0,9.0,11,9.0,10.0,3,7,10,9,14,4,8.0,5
+UBCV,2020,S,MATH,317,,OVERALL,Calculus IV,,90,66.54444444,17.26343223,99.0,9.0,11,9.0,10.0,3,7,10,9,14,4,8.0,5

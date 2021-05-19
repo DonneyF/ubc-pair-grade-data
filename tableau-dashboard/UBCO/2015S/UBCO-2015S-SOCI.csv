@@ -1,13 +1,13 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2015,S,SOCI,111,,001,Introduction to Sociology I,Kanchan Sarker,30,73.866666667,16.701710285,99.0,35.0,,,,,,,,,,,7
 UBCO,2015,S,SOCI,111,,OVERALL,Introduction to Sociology I,,30,73.866666667,16.701710285,99.0,35.0,,,,,,,,,,,7
-UBCO,2015,S,SOCI,121,,001,Introduction to Sociology II,Kanchan Sarker,18,77.944444444,10.189222808,95.0,57.0,,,,,,,,,,,
-UBCO,2015,S,SOCI,121,,OVERALL,Introduction to Sociology II,,18,77.944444444,10.189222808,95.0,57.0,,,,,,,,,,,
+UBCO,2015,S,SOCI,121,,001,Introduction to Sociology II,Kanchan Sarker,18,77.944444444,10.189222808,95.0,57.0,0,0,,,,,,,,,
+UBCO,2015,S,SOCI,121,,OVERALL,Introduction to Sociology II,,18,77.944444444,10.189222808,95.0,57.0,0,0,,,,,,,,,
 UBCO,2015,S,SOCI,226,,001,"Work, Technology, and Social Change",Kanchan Sarker,11,66.454545455,14.685800192,100.0,41.0,,,,,,,,,,,
 UBCO,2015,S,SOCI,226,,OVERALL,"Work, Technology, and Social Change",,11,66.454545455,14.685800192,100.0,41.0,,,,,,,,,,,
-UBCO,2015,S,SOCI,411,A,001,Special Studies in Canadian Society,Charles Rasi,34,79.411764706,7.781554129,93.0,66.0,,,,,,6,5,5,7,5,5
-UBCO,2015,S,SOCI,411,A,OVERALL,Special Studies in Canadian Society,,34,79.411764706,7.781554129,93.0,66.0,,,,,,6,5,5,7,5,5
-UBCO,2015,S,SOCI,485,A,001,Sociology of Health and Illness,Shelly Ikebuchi,26,82.884615385,7.768278692999999,96.0,65.0,,,,,,,,,8,,7
-UBCO,2015,S,SOCI,485,A,OVERALL,Sociology of Health and Illness,,26,82.884615385,7.768278692999999,96.0,65.0,,,,,,,,,8,,7
-UBCO,2015,S,SOCI,496,N,001,Advanced Studies in Sociology,Charles Rasi,34,74.911764706,12.218633676,100.0,52.0,,,,,,,,,6,5,
-UBCO,2015,S,SOCI,496,N,OVERALL,Advanced Studies in Sociology,,34,74.911764706,12.218633676,100.0,52.0,,,,,,,,,6,5,
+UBCO,2015,S,SOCI,411,A,001,Special Studies in Canadian Society,Charles Rasi,34,79.411764706,7.781554129,93.0,66.0,0,0,0,0,1.0,6,5,5,7,5,5
+UBCO,2015,S,SOCI,411,A,OVERALL,Special Studies in Canadian Society,,34,79.411764706,7.781554129,93.0,66.0,0,0,0,0,1.0,6,5,5,7,5,5
+UBCO,2015,S,SOCI,485,A,001,Sociology of Health and Illness,Shelly Ikebuchi,26,82.884615385,7.768278693,96.0,65.0,0,0,0,0,,,,,8,,7
+UBCO,2015,S,SOCI,485,A,OVERALL,Sociology of Health and Illness,,26,82.884615385,7.768278693,96.0,65.0,0,0,0,0,,,,,8,,7
+UBCO,2015,S,SOCI,496,N,001,Advanced Studies in Sociology,Charles Rasi,34,74.911764706,12.218633676,100.0,52.0,0,,,,,,,,6,5,
+UBCO,2015,S,SOCI,496,N,OVERALL,Advanced Studies in Sociology,,34,74.911764706,12.218633676,100.0,52.0,0,,,,,,,,6,5,

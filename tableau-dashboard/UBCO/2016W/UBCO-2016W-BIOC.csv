@@ -1,28 +1,28 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2016,W,BIOC,304,,001,Molecular Biochemistry I,Allan Vaisius;Yousif Murad,77,67.051948052,17.889202936,99.0,35.0,10,10,12,6,,,8,,6,5,11
-UBCO,2016,W,BIOC,304,,OVERALL,Molecular Biochemistry I,,77,67.051948052,17.889202936,99.0,35.0,10,10,12,6,,,8,,6,5,11
-UBCO,2016,W,BIOC,305,,001,Molecular Biochemistry II,Allan Meldrum;Elaine Bamfo;Richard Plunkett,58,72.706896552,14.843048607,97.0,30.0,,,,5,6,5,,5,10,5,8
-UBCO,2016,W,BIOC,305,,OVERALL,Molecular Biochemistry II,,58,72.706896552,14.843048607,97.0,30.0,,,,5,6,5,,5,10,5,8
-UBCO,2016,W,BIOC,308,,001,Pharmacology I,Justin King;Morgan Martin,76,73.144736842,12.076096440999999,94.0,43.0,,,5,6,,6,10,14,9,11,
-UBCO,2016,W,BIOC,308,,OVERALL,Pharmacology I,,76,73.144736842,12.076096440999999,94.0,43.0,,,5,6,,6,10,14,9,11,
-UBCO,2016,W,BIOC,309,,001,Pharmacology II,Justine Kniert;Sanjoy Ghosh,62,74.838709677,12.188671909000002,98.0,50.0,,5,,5,5,5,6,5,13,8,7
-UBCO,2016,W,BIOC,309,,OVERALL,Pharmacology II,,62,74.838709677,12.188671909000002,98.0,50.0,,5,,5,5,5,6,5,13,8,7
-UBCO,2016,W,BIOC,310,,001,Plant Chemistry,Susan Murch,29,88.75862069,9.116919798,100.0,71.0,,,,,,,,,,,17
-UBCO,2016,W,BIOC,310,,OVERALL,Plant Chemistry,,29,88.75862069,9.116919798,100.0,71.0,,,,,,,,,,,17
-UBCO,2016,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Emilie Tremblay;Jessica Lowry;Jessica R. Lowry;Jiayu Ye;John W. Winkler;John Winkler;Justin King;Richard Plunkett;Sarah Emmons,55,83.036363636,11.110494932,97.0,37.0,,,,,,,,,18,8,18
-UBCO,2016,W,BIOC,393,,OVERALL,Biochemistry Laboratory,,55,83.036363636,11.110494932,97.0,37.0,,,,,,,,,18,8,18
-UBCO,2016,W,BIOC,402,,001,Proteins: Structure and Function,Allan Vaisius;Andrew D Kennedy;Andrew Kennedy,50,70.6,17.731558399,99.0,12.0,,5,5,,,,5,,6,,7
-UBCO,2016,W,BIOC,402,,OVERALL,Proteins: Structure and Function,,50,70.6,17.731558399,99.0,12.0,,5,5,,,,5,,6,,7
-UBCO,2016,W,BIOC,405,,001,Lipids and Biomembranes,Allan Vaisius,39,67.615384615,18.240520804000003,99.0,12.0,6,,,5,5,,,,,,
-UBCO,2016,W,BIOC,405,,OVERALL,Lipids and Biomembranes,,39,67.615384615,18.240520804000003,99.0,12.0,6,,,5,5,,,,,,
-UBCO,2016,W,BIOC,407,,001,The Biochemical Basis of Disease,Andis Klegeris;Tyler Joseph Richard Wenzel;Tyler Wenzel,53,73.58490566,12.447480379000002,97.0,37.0,,,5,,,5,7,8,11,5,
-UBCO,2016,W,BIOC,407,,OVERALL,The Biochemical Basis of Disease,,53,73.58490566,12.447480379000002,97.0,37.0,,,5,,,5,7,8,11,5,
-UBCO,2016,W,BIOC,410,,001,Nucleic Acids - Structure and Function,Allan Vaisius,30,60.466666667,23.566096824000002,99.0,19.0,10,,,,,,,,,,5
-UBCO,2016,W,BIOC,410,,OVERALL,Nucleic Acids - Structure and Function,,30,60.466666667,23.566096824000002,99.0,19.0,10,,,,,,,,,,5
-UBCO,2016,W,BIOC,420,X,001,Special Topics in Biochemistry,Isaac Li,13,69.923076923,13.943107845999998,90.0,54.0,,,,,,,,,,,
-UBCO,2016,W,BIOC,420,X,OVERALL,Special Topics in Biochemistry,,13,69.923076923,13.943107845999998,90.0,54.0,,,,,,,,,,,
-UBCO,2016,W,BIOC,449,,OVERALL,Honours Thesis,,7,88.285714286,3.352326839,93.0,85.0,,,,,,,,,,,
-UBCO,2016,W,BIOC,493,,101,Biotechnology Laboratory,Ayelign Adal;Ayelign Mengesha Adal;Brendan D'Souza;Lukman Sarker;Lukman Syed Sarker;Soheil Mahmoud,49,90.0,3.588175024,95.0,81.0,,,,,,,,,,15,30
-UBCO,2016,W,BIOC,493,,OVERALL,Biotechnology Laboratory,,49,90.0,3.588175024,95.0,81.0,,,,,,,,,,15,30
-UBCO,2016,W,BIOC,530,,001,Biochemistry Seminar,Michael Deyholos,6,93.5,1.7606816859999999,95.0,91.0,,,,,,,,,,,6
-UBCO,2016,W,BIOC,530,,OVERALL,Biochemistry Seminar,,6,93.5,1.7606816859999999,95.0,91.0,,,,,,,,,,,6
+UBCO,2016,W,BIOC,304,,001,Molecular Biochemistry I,Allan Vaisius;Yousif Murad,77,67.05194805,17.88920294,99.0,35.0,10,10,12,6,3.0,3,8,3.0,6,5,11
+UBCO,2016,W,BIOC,304,,OVERALL,Molecular Biochemistry I,,77,67.05194805,17.88920294,99.0,35.0,10,10,12,6,3.0,3,8,3.0,6,5,11
+UBCO,2016,W,BIOC,305,,001,Molecular Biochemistry II,Allan Meldrum;Elaine Bamfo;Richard Plunkett,58,72.70689655,14.84304861,97.0,30.0,4,4,2,5,6.0,5,4,5.0,10,5,8
+UBCO,2016,W,BIOC,305,,OVERALL,Molecular Biochemistry II,,58,72.70689655,14.84304861,97.0,30.0,4,4,2,5,6.0,5,4,5.0,10,5,8
+UBCO,2016,W,BIOC,308,,001,Pharmacology I,Justin King;Morgan Martin,76,73.14473684,12.07609644,94.0,43.0,3,4,5,6,4.0,6,10,14.0,9,11,4
+UBCO,2016,W,BIOC,308,,OVERALL,Pharmacology I,,76,73.14473684,12.07609644,94.0,43.0,3,4,5,6,4.0,6,10,14.0,9,11,4
+UBCO,2016,W,BIOC,309,,001,Pharmacology II,Justine Kniert;Sanjoy Ghosh,62,74.83870968,12.18867191,98.0,50.0,0,5,3,5,5.0,5,6,5.0,13,8,7
+UBCO,2016,W,BIOC,309,,OVERALL,Pharmacology II,,62,74.83870968,12.18867191,98.0,50.0,0,5,3,5,5.0,5,6,5.0,13,8,7
+UBCO,2016,W,BIOC,310,,001,Plant Chemistry,Susan Murch,29,88.75862069,9.116919798,100.0,71.0,0,0,0,0,0.0,2,3,0.0,3,4,17
+UBCO,2016,W,BIOC,310,,OVERALL,Plant Chemistry,,29,88.75862069,9.116919798,100.0,71.0,0,0,0,0,0.0,2,3,0.0,3,4,17
+UBCO,2016,W,BIOC,393,,101,Biochemistry Laboratory,Brendan D'Souza;Emilie Tremblay;Jessica Lowry;Jessica R. Lowry;Jiayu Ye;John W. Winkler;John Winkler;Justin King;Richard Plunkett;Sarah Emmons,55,83.03636364,11.11049493,97.0,37.0,1,1,1,1,0.0,2,1,4.0,18,8,18
+UBCO,2016,W,BIOC,393,,OVERALL,Biochemistry Laboratory,,55,83.03636364,11.11049493,97.0,37.0,1,1,1,1,0.0,2,1,4.0,18,8,18
+UBCO,2016,W,BIOC,402,,001,Proteins: Structure and Function,Allan Vaisius;Andrew D Kennedy;Andrew Kennedy,50,70.6,17.7315584,99.0,12.0,4,5,5,3,3.0,4,5,4.0,6,4,7
+UBCO,2016,W,BIOC,402,,OVERALL,Proteins: Structure and Function,,50,70.6,17.7315584,99.0,12.0,4,5,5,3,3.0,4,5,4.0,6,4,7
+UBCO,2016,W,BIOC,405,,001,Lipids and Biomembranes,Allan Vaisius,39,67.61538462,18.2405208,99.0,12.0,6,2,1,5,5.0,3,3,4.0,4,3,3
+UBCO,2016,W,BIOC,405,,OVERALL,Lipids and Biomembranes,,39,67.61538462,18.2405208,99.0,12.0,6,2,1,5,5.0,3,3,4.0,4,3,3
+UBCO,2016,W,BIOC,407,,001,The Biochemical Basis of Disease,Andis Klegeris;Tyler Joseph Richard Wenzel;Tyler Wenzel,53,73.58490566,12.44748038,97.0,37.0,2,2,5,2,2.0,5,7,8.0,11,5,4
+UBCO,2016,W,BIOC,407,,OVERALL,The Biochemical Basis of Disease,,53,73.58490566,12.44748038,97.0,37.0,2,2,5,2,2.0,5,7,8.0,11,5,4
+UBCO,2016,W,BIOC,410,,001,Nucleic Acids - Structure and Function,Allan Vaisius,30,60.46666667,23.56609682,99.0,19.0,10,2,0,2,2.0,4,2,2.0,1,0,5
+UBCO,2016,W,BIOC,410,,OVERALL,Nucleic Acids - Structure and Function,,30,60.46666667,23.56609682,99.0,19.0,10,2,0,2,2.0,4,2,2.0,1,0,5
+UBCO,2016,W,BIOC,420,X,001,Special Topics in Biochemistry,Isaac Li,13,69.92307692,13.94310785,90.0,54.0,0,2,2,2,0.0,2,1,0.0,0,3,1
+UBCO,2016,W,BIOC,420,X,OVERALL,Special Topics in Biochemistry,,13,69.92307692,13.94310785,90.0,54.0,0,2,2,2,0.0,2,1,0.0,0,3,1
+UBCO,2016,W,BIOC,449,,OVERALL,Honours Thesis,,7,88.28571429,3.352326839,93.0,85.0,0,0,0,0,0.0,0,0,0.0,0,,
+UBCO,2016,W,BIOC,493,,101,Biotechnology Laboratory,Ayelign Adal;Ayelign Mengesha Adal;Brendan D'Souza;Lukman Sarker;Lukman Syed Sarker;Soheil Mahmoud,49,90.0,3.588175024,95.0,81.0,0,0,0,0,0.0,0,0,0.0,4,15,30
+UBCO,2016,W,BIOC,493,,OVERALL,Biotechnology Laboratory,,49,90.0,3.588175024,95.0,81.0,0,0,0,0,0.0,0,0,0.0,4,15,30
+UBCO,2016,W,BIOC,530,,001,Biochemistry Seminar,Michael Deyholos,6,93.5,1.760681686,95.0,91.0,0,0,0,0,0.0,0,0,0.0,0,0,6
+UBCO,2016,W,BIOC,530,,OVERALL,Biochemistry Seminar,,6,93.5,1.760681686,95.0,91.0,0,0,0,0,0.0,0,0,0.0,0,0,6

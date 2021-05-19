@@ -1,29 +1,29 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,EDUC,141,,177,Indigenous Studies,Marny Point,10,88.4,9.500877152000001,95.0,63.0,,,,,,,,,,,6
-UBCV,2014,W,EDUC,141,,628,Indigenous Studies,Pauline Waterfall,5,90.2,5.6302753039999995,99.0,85.0,,,,,,,,,,,5
-UBCV,2014,W,EDUC,141,,OVERALL,Indigenous Studies,,22,89.27272727,6.825594816000001,99.0,63.0,,,,,,,,,,10,11
-UBCV,2014,W,EDUC,170,,D02,Reviewing the Principles of Teaching,Karen Meyer,57,75.38596491,9.6764707,88.0,55.0,,,5,5,,,5,9,14,12,
-UBCV,2014,W,EDUC,170,,OVERALL,Reviewing the Principles of Teaching,,57,75.38596491,9.6764707,88.0,55.0,,,5,5,,,5,9,14,12,
-UBCV,2014,W,EDUC,176,,D02,Teaching Mathematics I,Cynthia Nicol,13,65.07692308,5.484243164,77.0,58.0,,,,6,,,,,,,
-UBCV,2014,W,EDUC,176,,OVERALL,Teaching Mathematics I,,13,65.07692308,5.484243164,77.0,58.0,,,,6,,,,,,,
-UBCV,2014,W,EDUC,177,,D02,Teaching General Sciences,Bruce Gurney,30,60.9,7.818413279,76.0,50.0,,8,9,,,5,,,,,
-UBCV,2014,W,EDUC,177,,OVERALL,Teaching General Sciences,,30,60.9,7.818413279,76.0,50.0,,8,9,,,5,,,,,
-UBCV,2014,W,EDUC,210,,001,"Global Citizenship, Part 1: Introduction",Reginald D'Silva,12,80.83333333,5.28863848,90.0,70.0,,,,,,,,,5,,
-UBCV,2014,W,EDUC,210,,OVERALL,"Global Citizenship, Part 1: Introduction",,12,80.83333333,5.28863848,90.0,70.0,,,,,,,,,5,,
-UBCV,2014,W,EDUC,490,R,67A,Special Studies in Education,Deborah Butler,5,88.2,3.5637059360000003,91.0,82.0,,,,,,,,,,,
-UBCV,2014,W,EDUC,490,R,OVERALL,Special Studies in Education,,5,88.2,3.5637059360000003,91.0,82.0,,,,,,,,,,,
-UBCV,2014,W,EDUC,500,,001,Research Methodology in Education,Cash Ahenakew,16,90.75,3.1091263510000005,95.0,85.0,,,,,,,,,,5,11
-UBCV,2014,W,EDUC,500,,002,Research Methodology in Education,Ling Shi,23,85.82608696,2.7411373539999997,91.0,81.0,,,,,,,,,7,12,
-UBCV,2014,W,EDUC,500,,003,Research Methodology in Education,Hillel Goelman,15,86.86666667,3.181793445,91.0,80.0,,,,,,,,,,8,
-UBCV,2014,W,EDUC,500,,004,Research Methodology in Education,David Anderson,14,87.92857143,2.585887311,92.0,84.0,,,,,,,,,,9,
-UBCV,2014,W,EDUC,500,,005,Research Methodology in Education,James Douglas Adler;Sandra Scott,31,94.87096774,3.084822366,98.0,81.0,,,,,,,,,,,30
-UBCV,2014,W,EDUC,500,,61A,Research Methodology in Education,Isabelle A G Denizot;Isabelle Denizot,26,86.38461539,3.150579922,91.0,76.0,,,,,,,,,5,18,
-UBCV,2014,W,EDUC,500,,61B,Research Methodology in Education,Peter Gouzouasis,16,89.1875,4.445503346000001,98.0,83.0,,,,,,,,,,7,7
-UBCV,2014,W,EDUC,500,,62A,Research Methodology in Education,Maria Pighini,18,87.11111111,4.600369408,95.0,76.0,,,,,,,,,,6,7
-UBCV,2014,W,EDUC,500,,62B,Research Methodology in Education,Isabelle A G Denizot;Isabelle Denizot,19,86.94736842,2.460209662,92.0,83.0,,,,,,,,,5,12,
-UBCV,2014,W,EDUC,500,,62C,Research Methodology in Education,Jane Brindley,12,86.0,4.264014327,93.0,80.0,,,,,,,,,5,,
-UBCV,2014,W,EDUC,500,,OVERALL,Research Methodology in Education,,190,88.55789474,4.522058316,98.0,76.0,,,,,,,,,33,81,74
-UBCV,2014,W,EDUC,503,A,002,Ethnography and Education,Handel Wright,5,88.2,1.303840481,90.0,87.0,,,,,,,,,,,
-UBCV,2014,W,EDUC,503,A,OVERALL,Ethnography and Education,,5,88.2,1.303840481,90.0,87.0,,,,,,,,,,,
-UBCV,2014,W,EDUC,504,,021,Seminar in Qualitative Data Analysis,Leslie Roman,5,93.6,0.8944271909999999,95.0,93.0,,,,,,,,,,,5
-UBCV,2014,W,EDUC,504,,OVERALL,Seminar in Qualitative Data Analysis,,5,93.6,0.8944271909999999,95.0,93.0,,,,,,,,,,,5
+UBCV,2014,W,EDUC,141,,177,Indigenous Studies,Marny Point,10,88.4,9.500877152,95.0,63.0,0,0,0,,,,,,,10.0,6
+UBCV,2014,W,EDUC,141,,628,Indigenous Studies,Pauline Waterfall,5,90.2,5.630275304,99.0,85.0,0,0,0,0,0,0,0,0,0,0.0,5
+UBCV,2014,W,EDUC,141,,OVERALL,Indigenous Studies,,22,89.27272727,6.825594816,99.0,63.0,0,0,0,,,,,,,10,11
+UBCV,2014,W,EDUC,170,,D02,Reviewing the Principles of Teaching,Karen Meyer,57,75.38596491,9.6764707,88.0,55.0,0,0,5,5,,,5,9,14,12,0
+UBCV,2014,W,EDUC,170,,OVERALL,Reviewing the Principles of Teaching,,57,75.38596491,9.6764707,88.0,55.0,0,0,5,5,,,5,9,14,12,0
+UBCV,2014,W,EDUC,176,,D02,Teaching Mathematics I,Cynthia Nicol,13,65.07692308,5.484243164,77.0,58.0,0,0,,6,,,,,0,0,0
+UBCV,2014,W,EDUC,176,,OVERALL,Teaching Mathematics I,,13,65.07692308,5.484243164,77.0,58.0,0,0,,6,,,,,0,0,0
+UBCV,2014,W,EDUC,177,,D02,Teaching General Sciences,Bruce Gurney,30,60.9,7.818413279,76.0,50.0,0,8,9,,,5,,,0,0,0
+UBCV,2014,W,EDUC,177,,OVERALL,Teaching General Sciences,,30,60.9,7.818413279,76.0,50.0,0,8,9,,,5,,,0,0,0
+UBCV,2014,W,EDUC,210,,001,"Global Citizenship, Part 1: Introduction",Reginald D'Silva,12,80.83333333,5.28863848,90.0,70.0,0,0,0,0,0,,,,5,,
+UBCV,2014,W,EDUC,210,,OVERALL,"Global Citizenship, Part 1: Introduction",,12,80.83333333,5.28863848,90.0,70.0,0,0,0,0,0,,,,5,,
+UBCV,2014,W,EDUC,490,R,67A,Special Studies in Education,Deborah Butler,5,88.2,3.563705936,91.0,82.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EDUC,490,R,OVERALL,Special Studies in Education,,5,88.2,3.563705936,91.0,82.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,EDUC,500,,001,Research Methodology in Education,Cash Ahenakew,16,90.75,3.109126351,95.0,85.0,0,0,0,0,0,0,0,0,0,5,11
+UBCV,2014,W,EDUC,500,,002,Research Methodology in Education,Ling Shi,23,85.82608696,2.741137354,91.0,81.0,0,0,0,0,0,0,0,0,7,12,4.0
+UBCV,2014,W,EDUC,500,,003,Research Methodology in Education,Hillel Goelman,15,86.86666667,3.181793445,91.0,80.0,0,0,0,0,0,0,0,0,,8,
+UBCV,2014,W,EDUC,500,,004,Research Methodology in Education,David Anderson,14,87.92857143,2.585887311,92.0,84.0,0,0,0,0,0,0,0,0,,9,
+UBCV,2014,W,EDUC,500,,005,Research Methodology in Education,James Douglas Adler;Sandra Scott,31,94.87096774,3.084822366,98.0,81.0,0,0,0,0,0,0,0,0,,,30
+UBCV,2014,W,EDUC,500,,61A,Research Methodology in Education,Isabelle A G Denizot;Isabelle Denizot,26,86.38461539,3.150579922,91.0,76.0,0,0,0,0,0,0,0,,5,18,
+UBCV,2014,W,EDUC,500,,61B,Research Methodology in Education,Peter Gouzouasis,16,89.1875,4.445503346,98.0,83.0,0,0,0,0,0,0,0,0,2.0,7,7
+UBCV,2014,W,EDUC,500,,62A,Research Methodology in Education,Maria Pighini,18,87.11111111,4.600369408,95.0,76.0,0,0,0,0,0,0,0,,,6,7
+UBCV,2014,W,EDUC,500,,62B,Research Methodology in Education,Isabelle A G Denizot;Isabelle Denizot,19,86.94736842,2.460209662,92.0,83.0,0,0,0,0,0,0,0,0,5,12,2.0
+UBCV,2014,W,EDUC,500,,62C,Research Methodology in Education,Jane Brindley,12,86.0,4.264014327,93.0,80.0,0,0,0,0,0,0,0,0,5,,
+UBCV,2014,W,EDUC,500,,OVERALL,Research Methodology in Education,,190,88.55789474,4.522058316,98.0,76.0,0,0,0,0,0,0,0,2.0,33,81,74
+UBCV,2014,W,EDUC,503,A,002,Ethnography and Education,Handel Wright,5,88.2,1.303840481,90.0,87.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2014,W,EDUC,503,A,OVERALL,Ethnography and Education,,5,88.2,1.303840481,90.0,87.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2014,W,EDUC,504,,021,Seminar in Qualitative Data Analysis,Leslie Roman,5,93.6,0.894427191,95.0,93.0,0,0,0,0,0,0,0,0,0,0,5
+UBCV,2014,W,EDUC,504,,OVERALL,Seminar in Qualitative Data Analysis,,5,93.6,0.894427191,95.0,93.0,0,0,0,0,0,0,0,0,0,0,5

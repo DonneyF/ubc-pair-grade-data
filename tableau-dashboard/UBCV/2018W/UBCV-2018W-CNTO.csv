@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,CNTO,301,,001,Basic Cantonese I,Kit Pai;Qian Wang;Wenxuan Guo,9,85.777777778,7.207249437000001,95.0,73.0,,,,,,,,,,,5
-UBCV,2018,W,CNTO,301,,OVERALL,Basic Cantonese I,,9,85.777777778,7.207249437000001,95.0,73.0,,,,,,,,,,,5
-UBCV,2018,W,CNTO,303,,001,Basic Cantonese II,Kit Pai;Qian Wang;Wing Shum Tam,7,80.0,12.220201852999999,92.0,63.0,,,,,,,,,,,
-UBCV,2018,W,CNTO,303,,OVERALL,Basic Cantonese II,,7,80.0,12.220201852999999,92.0,63.0,,,,,,,,,,,
-UBCV,2018,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Wing Shum Tam,30,84.133333333,7.83772193,95.0,60.0,,,,,,,,,5,10,8
-UBCV,2018,W,CNTO,311,,002,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Wing Shum Tam,32,80.8125,13.766339266,94.0,21.0,,,,,,,,,2,12,7
-UBCV,2018,W,CNTO,311,,003,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Zhengkang Liu,31,80.516129032,9.542434936,95.0,61.0,,,,,,5,,,5,5,8
-UBCV,2018,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Zhengkang Liu,29,86.448275862,4.145446787,96.0,80.0,,,,,,,,,10,11,8
-UBCV,2018,W,CNTO,311,,005,Basic Cantonese for Mandarin Speakers,Hok Wan Leung;Qian Wang;Wai Man Lam,29,77.827586207,8.668782109,88.0,51.0,,,,,,,,,10,7,
-UBCV,2018,W,CNTO,311,,006,Basic Cantonese for Mandarin Speakers,Hok Wan Leung;Qian Wang;Wai Man Lam,30,79.43333333300001,8.139657425,93.0,54.0,,,,,,,6,,12,4,
-UBCV,2018,W,CNTO,311,,007,Basic Cantonese for Mandarin Speakers,Qian Wang;Shing Yeung Yu;Wai Man Lam,28,77.321428571,7.911798837999999,92.0,55.0,,,,,,,6,5,5,5,
-UBCV,2018,W,CNTO,311,,008,Basic Cantonese for Mandarin Speakers,Qian Wang;Shing Yeung Yu;Wai Man Lam,29,80.89655172399999,7.925297775,97.0,66.0,,,,,,,,6,5,6,5
-UBCV,2018,W,CNTO,311,,OVERALL,Basic Cantonese for Mandarin Speakers,,238,80.941176471,9.243808846,97.0,21.0,,,,6,5,21,23,25,54,60,40
-UBCV,2018,W,CNTO,401,,001,Intermediate Cantonese I,Kit Pai;Qian Wang;Wenxuan Guo,30,87.9,8.129766506000001,97.0,54.0,,,,,,,,,5,,19
-UBCV,2018,W,CNTO,401,,OVERALL,Intermediate Cantonese I,,30,87.9,8.129766506000001,97.0,54.0,,,,,,,,,5,,19
-UBCV,2018,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai;Qian Wang;Wing Shum Tam,22,85.363636364,6.938817345,93.0,68.0,,,,,,,,,5,6,8
-UBCV,2018,W,CNTO,451,,OVERALL,Advanced Cantonese through Popular Culture,,22,85.363636364,6.938817345,93.0,68.0,,,,,,,,,5,6,8
+UBCV,2018,W,CNTO,301,,001,Basic Cantonese I,Kit Pai;Qian Wang;Wenxuan Guo,9,85.77777778,7.207249437,95.0,73.0,0,0,0.0,0.0,0.0,0,1.0,1,2,0.0,5
+UBCV,2018,W,CNTO,301,,OVERALL,Basic Cantonese I,,9,85.77777778,7.207249437,95.0,73.0,0,0,0.0,0.0,0.0,0,1.0,1,2,0.0,5
+UBCV,2018,W,CNTO,303,,001,Basic Cantonese II,Kit Pai;Qian Wang;Wing Shum Tam,7,80.0,12.22020185,92.0,63.0,0,0,0.0,1.0,0.0,2,0.0,0,0,2.0,2
+UBCV,2018,W,CNTO,303,,OVERALL,Basic Cantonese II,,7,80.0,12.22020185,92.0,63.0,0,0,0.0,1.0,0.0,2,0.0,0,0,2.0,2
+UBCV,2018,W,CNTO,311,,001,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Wing Shum Tam,30,84.13333333,7.83772193,95.0,60.0,0,0,0.0,1.0,0.0,1,1.0,4,5,10.0,8
+UBCV,2018,W,CNTO,311,,002,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Wing Shum Tam,32,80.8125,13.76633927,94.0,21.0,1,0,0.0,1.0,0.0,4,2.0,3,2,12.0,7
+UBCV,2018,W,CNTO,311,,003,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Zhengkang Liu,31,80.51612903,9.542434936,95.0,61.0,0,0,0.0,2.0,1.0,5,2.0,3,5,5.0,8
+UBCV,2018,W,CNTO,311,,004,Basic Cantonese for Mandarin Speakers,Kit Pai;Qian Wang;Zhengkang Liu,29,86.44827586,4.145446787,96.0,80.0,0,0,0.0,0.0,0.0,0,0.0,0,10,11.0,8
+UBCV,2018,W,CNTO,311,,005,Basic Cantonese for Mandarin Speakers,Hok Wan Leung;Qian Wang;Wai Man Lam,29,77.82758621,8.668782109,88.0,51.0,0,1,0.0,1.0,1.0,4,3.0,2,10,7.0,0
+UBCV,2018,W,CNTO,311,,006,Basic Cantonese for Mandarin Speakers,Hok Wan Leung;Qian Wang;Wai Man Lam,30,79.43333333,8.139657425,93.0,54.0,0,1,0.0,1.0,0.0,1,6.0,2,12,4.0,3
+UBCV,2018,W,CNTO,311,,007,Basic Cantonese for Mandarin Speakers,Qian Wang;Shing Yeung Yu;Wai Man Lam,28,77.32142857,7.911798838,92.0,55.0,0,0,1.0,0.0,1.0,4,6.0,5,5,5.0,1
+UBCV,2018,W,CNTO,311,,008,Basic Cantonese for Mandarin Speakers,Qian Wang;Shing Yeung Yu;Wai Man Lam,29,80.89655172,7.925297775,97.0,66.0,0,0,0.0,0.0,2.0,2,3.0,6,5,6.0,5
+UBCV,2018,W,CNTO,311,,OVERALL,Basic Cantonese for Mandarin Speakers,,238,80.94117647,9.243808846,97.0,21.0,1,2,1.0,6.0,5.0,21,23.0,25,54,60.0,40
+UBCV,2018,W,CNTO,401,,001,Intermediate Cantonese I,Kit Pai;Qian Wang;Wenxuan Guo,30,87.9,8.129766506,97.0,54.0,0,1,0.0,0.0,0.0,0,0.0,1,5,4.0,19
+UBCV,2018,W,CNTO,401,,OVERALL,Intermediate Cantonese I,,30,87.9,8.129766506,97.0,54.0,0,1,0.0,0.0,0.0,0,0.0,1,5,4.0,19
+UBCV,2018,W,CNTO,451,,001,Advanced Cantonese through Popular Culture,Kit Pai;Qian Wang;Wing Shum Tam,22,85.36363636,6.938817345,93.0,68.0,0,0,0.0,0.0,0.0,2,0.0,1,5,6.0,8
+UBCV,2018,W,CNTO,451,,OVERALL,Advanced Cantonese through Popular Culture,,22,85.36363636,6.938817345,93.0,68.0,0,0,0.0,0.0,0.0,2,0.0,1,5,6.0,8

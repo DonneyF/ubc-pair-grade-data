@@ -1,12 +1,12 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,CEEN,501,,001,Energy System Fundamentals,Steven Nicholas Rogak;Steven Rogak,25,80.4,10.630145813,95.0,60.0,,,,,,,,,6,5,5
-UBCV,2016,W,CEEN,501,,OVERALL,Energy System Fundamentals,,25,80.4,10.630145813,95.0,60.0,,,,,,,,,6,5,5
-UBCV,2016,W,CEEN,504,,004,Energy Storage and Transmission,Vladan Prodanovic;Vladan Zoran Prodanovic,24,84.916666667,10.320585872999999,96.0,61.0,,,,,,,,,,6,10
-UBCV,2016,W,CEEN,504,,OVERALL,Energy Storage and Transmission,,24,84.916666667,10.320585872999999,96.0,61.0,,,,,,,,,,6,10
-UBCV,2016,W,CEEN,523,,003,Energy and the Environment,Haoqi Wang;Xiaotao Bi,29,82.89655172399999,5.354202806,92.0,70.0,,,,,,,,6,11,7,
-UBCV,2016,W,CEEN,523,,OVERALL,Energy and the Environment,,29,82.89655172399999,5.354202806,92.0,70.0,,,,,,,,6,11,7,
-UBCV,2016,W,CEEN,525,,005,Energy Policy,George Hoberg,26,81.884615385,8.28650432,93.0,67.0,,,,,,5,,,8,5,6
-UBCV,2016,W,CEEN,525,,025,Energy Policy,Stefan Storey,25,80.24,16.835676405,92.0,3.0,,,,,,1,,,9,9,2
-UBCV,2016,W,CEEN,525,,OVERALL,Energy Policy,,51,81.078431373,13.079515490999999,93.0,3.0,,,,,,6,,,17,14,8
-UBCV,2016,W,CEEN,550,,006,Energy Efficiency and Conservation,Vladan Prodanovic;Vladan Zoran Prodanovic,20,88.0,16.96125616,100.0,25.0,,,,,,,,,,,13
-UBCV,2016,W,CEEN,550,,OVERALL,Energy Efficiency and Conservation,,20,88.0,16.96125616,100.0,25.0,,,,,,,,,,,13
+UBCV,2016,W,CEEN,501,,001,Energy System Fundamentals,Steven Nicholas Rogak;Steven Rogak,25,80.4,10.63014581,95.0,60.0,0,0,0,3,1,1,1.0,3.0,6,5,5
+UBCV,2016,W,CEEN,501,,OVERALL,Energy System Fundamentals,,25,80.4,10.63014581,95.0,60.0,0,0,0,3,1,1,1.0,3.0,6,5,5
+UBCV,2016,W,CEEN,504,,004,Energy Storage and Transmission,Vladan Prodanovic;Vladan Zoran Prodanovic,24,84.91666667,10.32058587,96.0,61.0,0,0,0,2,0,2,0.0,2.0,2,6,10
+UBCV,2016,W,CEEN,504,,OVERALL,Energy Storage and Transmission,,24,84.91666667,10.32058587,96.0,61.0,0,0,0,2,0,2,0.0,2.0,2,6,10
+UBCV,2016,W,CEEN,523,,003,Energy and the Environment,Haoqi Wang;Xiaotao Bi,29,82.89655172,5.354202806,92.0,70.0,0,0,0,0,0,1,0.0,6.0,11,7,4
+UBCV,2016,W,CEEN,523,,OVERALL,Energy and the Environment,,29,82.89655172,5.354202806,92.0,70.0,0,0,0,0,0,1,0.0,6.0,11,7,4
+UBCV,2016,W,CEEN,525,,005,Energy Policy,George Hoberg,26,81.88461539,8.28650432,93.0,67.0,0,0,0,0,1,5,1.0,0.0,8,5,6
+UBCV,2016,W,CEEN,525,,025,Energy Policy,Stefan Storey,25,80.24,16.83567641,92.0,3.0,1,0,0,0,0,1,1.0,2.0,9,9,2
+UBCV,2016,W,CEEN,525,,OVERALL,Energy Policy,,51,81.07843137,13.07951549,93.0,3.0,1,0,0,0,1,6,2.0,2.0,17,14,8
+UBCV,2016,W,CEEN,550,,006,Energy Efficiency and Conservation,Vladan Prodanovic;Vladan Zoran Prodanovic,20,88.0,16.96125616,100.0,25.0,1,0,0,0,0,1,0.0,1.0,2,2,13
+UBCV,2016,W,CEEN,550,,OVERALL,Energy Efficiency and Conservation,,20,88.0,16.96125616,100.0,25.0,1,0,0,0,0,1,0.0,1.0,2,2,13

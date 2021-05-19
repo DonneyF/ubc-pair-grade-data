@@ -1,29 +1,29 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,MIDW,101,,001,Counselling for Maternity Care Providers,,17,93.47058824,5.233517544,100.0,83.0,,,,,,,,,,,13
-UBCV,2014,W,MIDW,101,,OVERALL,Counselling for Maternity Care Providers,,17,93.47058824,5.233517544,100.0,83.0,,,,,,,,,,,13
-UBCV,2014,W,MIDW,102,,001,Birth and its Meaning,Jeanne Lyons,20,88.2,3.928304844,94.0,81.0,,,,,,,,,,7,9
-UBCV,2014,W,MIDW,102,,OVERALL,Birth and its Meaning,,20,88.2,3.928304844,94.0,81.0,,,,,,,,,,7,9
-UBCV,2014,W,MIDW,103,,001,Applied Health Services for Maternity Providers,,20,92.1,4.315211771,99.0,82.0,,,,,,,,,,,16
-UBCV,2014,W,MIDW,103,,OVERALL,Applied Health Services for Maternity Providers,,20,92.1,4.315211771,99.0,82.0,,,,,,,,,,,16
-UBCV,2014,W,MIDW,104,,001,Lactation Consultation for Maternity Care Providers,,20,86.8,6.985699679,96.0,72.0,,,,,,,,,,6,7
-UBCV,2014,W,MIDW,104,,OVERALL,Lactation Consultation for Maternity Care Providers,,20,86.8,6.985699679,96.0,72.0,,,,,,,,,,6,7
-UBCV,2014,W,MIDW,105,,001,Introduction to Midwifery Theory and Practice,Kim Campbell;Saraswathi Vedam,20,89.15,3.897029908,96.0,81.0,,,,,,,,,,8,10
-UBCV,2014,W,MIDW,105,,OVERALL,Introduction to Midwifery Theory and Practice,,20,89.15,3.897029908,96.0,81.0,,,,,,,,,,8,10
-UBCV,2014,W,MIDW,110,,001,Critical Appraisal of the Literature,Dana S Thordarson;Dana Thordarson,18,85.61111111,5.812146397999999,94.0,75.0,,,,,,,,,5,6,5
-UBCV,2014,W,MIDW,110,,OVERALL,Critical Appraisal of the Literature,,18,85.61111111,5.812146397999999,94.0,75.0,,,,,,,,,5,6,5
-UBCV,2014,W,MIDW,125,,001,Pharmacology for Maternity Care Providers,,20,80.45,9.654423584,93.0,65.0,,,,,,,,,5,,5
-UBCV,2014,W,MIDW,125,,OVERALL,Pharmacology for Maternity Care Providers,,20,80.45,9.654423584,93.0,65.0,,,,,,,,,5,,5
-UBCV,2014,W,MIDW,205,,002,Midwifery Theory for Primary Care,Courtney Broten;Lorna Mcrae,20,89.75,3.126710058,95.0,82.0,,,,,,,,,,7,12
-UBCV,2014,W,MIDW,205,,OVERALL,Midwifery Theory for Primary Care,,20,89.75,3.126710058,95.0,82.0,,,,,,,,,,7,12
-UBCV,2014,W,MIDW,215,,001,Ethics in Maternity Care,Jeanne Lyons,19,91.31578947,2.029029094,93.0,87.0,,,,,,,,,,5,14
-UBCV,2014,W,MIDW,215,,OVERALL,Ethics in Maternity Care,,19,91.31578947,2.029029094,93.0,87.0,,,,,,,,,,5,14
-UBCV,2014,W,MIDW,221,,001,Clinical Skills,Courtney Broten,19,87.84210526,3.804429551,93.0,81.0,,,,,,,,,6,,9
-UBCV,2014,W,MIDW,221,,OVERALL,Clinical Skills,,19,87.84210526,3.804429551,93.0,81.0,,,,,,,,,6,,9
-UBCV,2014,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Valerie Simmons,15,84.93333333,3.990464826,91.0,78.0,,,,,,,,,,8,
-UBCV,2014,W,MIDW,305,,OVERALL,Midwifery Theory for Variations in Primary Care,,15,84.93333333,3.990464826,91.0,78.0,,,,,,,,,,8,
-UBCV,2014,W,MIDW,310,,002,Senior Research Project,Dana S Thordarson;Dana Thordarson,8,84.375,5.730557191,91.0,76.0,,,,,,,,,,,
-UBCV,2014,W,MIDW,310,,OVERALL,Senior Research Project,,11,85.54545455,5.391913137,91.0,76.0,,,,,,,,,,,
-UBCV,2014,W,MIDW,405,,001,Advanced Topics in Midwifery Theory and Practice,Kim Campbell,12,86.16666667,3.270622219,91.0,80.0,,,,,,,,,,5,
-UBCV,2014,W,MIDW,405,,OVERALL,Advanced Topics in Midwifery Theory and Practice,,12,86.16666667,3.270622219,91.0,80.0,,,,,,,,,,5,
-UBCV,2014,W,MIDW,430,,001,Comprehensive Midwifery Theory and Practice,Saraswathi Vedam,10,90.0,3.651483717,94.0,83.0,,,,,,,,,,,7
-UBCV,2014,W,MIDW,430,,OVERALL,Comprehensive Midwifery Theory and Practice,,10,90.0,3.651483717,94.0,83.0,,,,,,,,,,,7
+UBCV,2014,W,MIDW,101,,001,Counselling for Maternity Care Providers,,17,93.47058824,5.233517544,100.0,83.0,0,0,0,0,0,0,0,0,,,13
+UBCV,2014,W,MIDW,101,,OVERALL,Counselling for Maternity Care Providers,,17,93.47058824,5.233517544,100.0,83.0,0,0,0,0,0,0,0,0,,,13
+UBCV,2014,W,MIDW,102,,001,Birth and its Meaning,Jeanne Lyons,20,88.2,3.928304844,94.0,81.0,0,0,0,0,0,0,0,0,4.0,7,9
+UBCV,2014,W,MIDW,102,,OVERALL,Birth and its Meaning,,20,88.2,3.928304844,94.0,81.0,0,0,0,0,0,0,0,0,4.0,7,9
+UBCV,2014,W,MIDW,103,,001,Applied Health Services for Maternity Providers,,20,92.1,4.315211771,99.0,82.0,0,0,0,0,0,0,0,0,,,16
+UBCV,2014,W,MIDW,103,,OVERALL,Applied Health Services for Maternity Providers,,20,92.1,4.315211771,99.0,82.0,0,0,0,0,0,0,0,0,,,16
+UBCV,2014,W,MIDW,104,,001,Lactation Consultation for Maternity Care Providers,,20,86.8,6.985699679,96.0,72.0,0,0,0,0,0,0,,,,6,7
+UBCV,2014,W,MIDW,104,,OVERALL,Lactation Consultation for Maternity Care Providers,,20,86.8,6.985699679,96.0,72.0,0,0,0,0,0,0,,,,6,7
+UBCV,2014,W,MIDW,105,,001,Introduction to Midwifery Theory and Practice,Kim Campbell;Saraswathi Vedam,20,89.15,3.897029908,96.0,81.0,0,0,0,0,0,0,0,0,2.0,8,10
+UBCV,2014,W,MIDW,105,,OVERALL,Introduction to Midwifery Theory and Practice,,20,89.15,3.897029908,96.0,81.0,0,0,0,0,0,0,0,0,2.0,8,10
+UBCV,2014,W,MIDW,110,,001,Critical Appraisal of the Literature,Dana S Thordarson;Dana Thordarson,18,85.61111111,5.812146398,94.0,75.0,0,0,0,0,0,0,,,5,6,5
+UBCV,2014,W,MIDW,110,,OVERALL,Critical Appraisal of the Literature,,18,85.61111111,5.812146398,94.0,75.0,0,0,0,0,0,0,,,5,6,5
+UBCV,2014,W,MIDW,125,,001,Pharmacology for Maternity Care Providers,,20,80.45,9.654423584,93.0,65.0,0,0,0,0,,,,,5,,5
+UBCV,2014,W,MIDW,125,,OVERALL,Pharmacology for Maternity Care Providers,,20,80.45,9.654423584,93.0,65.0,0,0,0,0,,,,,5,,5
+UBCV,2014,W,MIDW,205,,002,Midwifery Theory for Primary Care,Courtney Broten;Lorna Mcrae,20,89.75,3.126710058,95.0,82.0,0,0,0,0,0,0,0,0,1.0,7,12
+UBCV,2014,W,MIDW,205,,OVERALL,Midwifery Theory for Primary Care,,20,89.75,3.126710058,95.0,82.0,0,0,0,0,0,0,0,0,1.0,7,12
+UBCV,2014,W,MIDW,215,,001,Ethics in Maternity Care,Jeanne Lyons,19,91.31578947,2.029029094,93.0,87.0,0,0,0,0,0,0,0,0,0,5,14
+UBCV,2014,W,MIDW,215,,OVERALL,Ethics in Maternity Care,,19,91.31578947,2.029029094,93.0,87.0,0,0,0,0,0,0,0,0,0,5,14
+UBCV,2014,W,MIDW,221,,001,Clinical Skills,Courtney Broten,19,87.84210526,3.804429551,93.0,81.0,0,0,0,0,0,0,0,0,6,4.0,9
+UBCV,2014,W,MIDW,221,,OVERALL,Clinical Skills,,19,87.84210526,3.804429551,93.0,81.0,0,0,0,0,0,0,0,0,6,4.0,9
+UBCV,2014,W,MIDW,305,,001,Midwifery Theory for Variations in Primary Care,Valerie Simmons,15,84.93333333,3.990464826,91.0,78.0,0,0,0,0,0,0,0,,,8,
+UBCV,2014,W,MIDW,305,,OVERALL,Midwifery Theory for Variations in Primary Care,,15,84.93333333,3.990464826,91.0,78.0,0,0,0,0,0,0,0,,,8,
+UBCV,2014,W,MIDW,310,,002,Senior Research Project,Dana S Thordarson;Dana Thordarson,8,84.375,5.730557191,91.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,MIDW,310,,OVERALL,Senior Research Project,,11,85.54545455,5.391913137,91.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,MIDW,405,,001,Advanced Topics in Midwifery Theory and Practice,Kim Campbell,12,86.16666667,3.270622219,91.0,80.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2014,W,MIDW,405,,OVERALL,Advanced Topics in Midwifery Theory and Practice,,12,86.16666667,3.270622219,91.0,80.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2014,W,MIDW,430,,001,Comprehensive Midwifery Theory and Practice,Saraswathi Vedam,10,90.0,3.651483717,94.0,83.0,0,0,0,0,0,0,0,0,,,7
+UBCV,2014,W,MIDW,430,,OVERALL,Comprehensive Midwifery Theory and Practice,,10,90.0,3.651483717,94.0,83.0,0,0,0,0,0,0,0,0,,,7

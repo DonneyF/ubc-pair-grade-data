@@ -1,17 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,S,FREN,101,,921,Beginners' French I,Juliet O'Brien,31,77.19354838699999,17.421097085,95.0,0.0,,,,,,,,9,,8,
-UBCV,2017,S,FREN,101,,OVERALL,Beginners' French I,,31,77.19354838699999,17.421097085,95.0,0.0,,,,,,,,9,,8,
-UBCV,2017,S,FREN,102,,921,Beginners' French II,Stephanie Palisse,27,72.74074074100001,10.977573617000001,90.0,54.0,,,,,,,,,,6,
-UBCV,2017,S,FREN,102,,OVERALL,Beginners' French II,,27,72.74074074100001,10.977573617000001,90.0,54.0,,,,,,,,,,6,
-UBCV,2017,S,FREN,111,,921,Intermediate French I,William Winder,29,68.620689655,18.686155672,92.0,0.0,,,,,6,3,,,,,
-UBCV,2017,S,FREN,111,,922,Intermediate French I,Michael O'Hagan,26,71.26923076899999,17.784392466,94.0,7.0,,,,,1,6,,,,,
-UBCV,2017,S,FREN,111,,OVERALL,Intermediate French I,,55,69.872727273,18.145558119,94.0,0.0,,,5,,7,9,,,7,,7
-UBCV,2017,S,FREN,112,,921,Intermediate French II,Sylvia Bascou Vallarino,28,70.785714286,22.550941744,100.0,0.0,,,,,,,,5,4,,
-UBCV,2017,S,FREN,112,,922,Intermediate French II,John Culbert,23,65.652173913,22.465344413,88.0,5.0,,,,,,,,1,5,,
-UBCV,2017,S,FREN,112,,OVERALL,Intermediate French II,,51,68.470588235,22.43510904,100.0,0.0,6,,,,7,,6,6,9,7,
-UBCV,2017,S,FREN,220,,922,Introduction to Early French Literature and to Textual Analysis,Juliet O'Brien,11,80.363636364,3.695205739,87.0,75.0,,,,,,,,,5,,
-UBCV,2017,S,FREN,220,,OVERALL,Introduction to Early French Literature and to Textual Analysis,,11,80.363636364,3.695205739,87.0,75.0,,,,,,,,,5,,
-UBCV,2017,S,FREN,409,C,922,Studies in French Literature of the Seventeenth Century,Richard Hodgson,13,81.153846154,5.225676254,91.0,75.0,,,,,,,,,,,
-UBCV,2017,S,FREN,409,C,OVERALL,Studies in French Literature of the Seventeenth Century,,13,81.153846154,5.225676254,91.0,75.0,,,,,,,,,,,
-UBCV,2017,S,FREN,503,A,922,Studies in Seventeenth-Century Literature,Richard Hodgson,5,83.2,5.4037024339999995,90.0,76.0,,,,,,,,,,,
-UBCV,2017,S,FREN,503,A,OVERALL,Studies in Seventeenth-Century Literature,,5,83.2,5.4037024339999995,90.0,76.0,,,,,,,,,,,
+UBCV,2017,S,FREN,101,,921,Beginners' French I,Juliet O'Brien,31,77.19354839,17.42109709,95.0,0.0,1,1,0.0,1.0,2,1,1,9,3,8,4
+UBCV,2017,S,FREN,101,,OVERALL,Beginners' French I,,31,77.19354839,17.42109709,95.0,0.0,1,1,0.0,1.0,2,1,1,9,3,8,4
+UBCV,2017,S,FREN,102,,921,Beginners' French II,Stephanie Palisse,27,72.74074074,10.97757362,90.0,54.0,0,1,3.0,2.0,3,3,4,3,1,6,1
+UBCV,2017,S,FREN,102,,OVERALL,Beginners' French II,,27,72.74074074,10.97757362,90.0,54.0,0,1,3.0,2.0,3,3,4,3,1,6,1
+UBCV,2017,S,FREN,111,,921,Intermediate French I,William Winder,29,68.62068966,18.68615567,92.0,0.0,2,2,3.0,0.0,6,3,3,1,3,2,4
+UBCV,2017,S,FREN,111,,922,Intermediate French I,Michael O'Hagan,26,71.26923077,17.78439247,94.0,7.0,1,2,2.0,1.0,1,6,1,3,4,2,3
+UBCV,2017,S,FREN,111,,OVERALL,Intermediate French I,,55,69.87272727,18.14555812,94.0,0.0,3,4,5.0,1.0,7,9,4,4,7,4,7
+UBCV,2017,S,FREN,112,,921,Intermediate French II,Sylvia Bascou Vallarino,28,70.78571429,22.55094174,100.0,0.0,2,1,0.0,1.0,4,2,3,5,4,4,2
+UBCV,2017,S,FREN,112,,922,Intermediate French II,John Culbert,23,65.65217391,22.46534441,88.0,5.0,4,0,2.0,0.0,3,2,3,1,5,3,0
+UBCV,2017,S,FREN,112,,OVERALL,Intermediate French II,,51,68.47058824,22.43510904,100.0,0.0,6,1,2.0,1.0,7,4,6,6,9,7,2
+UBCV,2017,S,FREN,220,,922,Introduction to Early French Literature and to Textual Analysis,Juliet O'Brien,11,80.36363636,3.695205739,87.0,75.0,0,0,0.0,0.0,0,0,1,3,5,2,0
+UBCV,2017,S,FREN,220,,OVERALL,Introduction to Early French Literature and to Textual Analysis,,11,80.36363636,3.695205739,87.0,75.0,0,0,0.0,0.0,0,0,1,3,5,2,0
+UBCV,2017,S,FREN,409,C,922,Studies in French Literature of the Seventeenth Century,Richard Hodgson,13,81.15384615,5.225676254,91.0,75.0,0,0,0.0,0.0,0,0,2,4,4,2,1
+UBCV,2017,S,FREN,409,C,OVERALL,Studies in French Literature of the Seventeenth Century,,13,81.15384615,5.225676254,91.0,75.0,0,0,0.0,0.0,0,0,2,4,4,2,1

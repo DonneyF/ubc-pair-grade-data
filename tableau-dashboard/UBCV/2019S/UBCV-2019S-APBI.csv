@@ -1,19 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,S,APBI,100,,98A,Soil and the Global Environment,Akshit Puri;Marie-Claude Fortin,29,70.793103448,27.49984326,100.0,0.0,,,,,,,,,,,9
-UBCV,2019,S,APBI,100,,OVERALL,Soil and the Global Environment,,29,70.793103448,27.49984326,100.0,0.0,,,,,,,,,,,9
-UBCV,2019,S,APBI,200,,98A,Introduction to Soil Science,Akshit Puri;Kiran Padda;Kiran Preet Padda,31,71.935483871,14.172592056,90.0,23.0,,,,,,,,,7,,
-UBCV,2019,S,APBI,200,,OVERALL,Introduction to Soil Science,,31,71.935483871,14.172592056,90.0,23.0,,,,,,,,,7,,
-UBCV,2019,S,APBI,222,,001,Introduction to Horticulture,David Mcarthur;Yifan Yan,10,74.9,10.104454463,88.0,52.0,,,,,,,,,,,
-UBCV,2019,S,APBI,222,,OVERALL,Introduction to Horticulture,,10,74.9,10.104454463,88.0,52.0,,,,,,,,,,,
-UBCV,2019,S,APBI,314,,941,Animals and Society,Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Anna Ratuski;Anna Selene Ratuski;Elisabeth Ormandy;Konstantina Xenakis,40,78.9,13.477046012999999,95.0,15.0,,,,,,,7,5,9,7,6
-UBCV,2019,S,APBI,314,,OVERALL,Animals and Society,,40,78.9,13.477046012999999,95.0,15.0,,,,,,,7,5,9,7,6
-UBCV,2019,S,APBI,365,,951,Summer Practicum in Sustainable Agriculture and Food Systems,,5,96.6,3.0495901360000004,99.0,92.0,,,,,,,,,,,5
-UBCV,2019,S,APBI,365,,OVERALL,Summer Practicum in Sustainable Agriculture and Food Systems,,5,96.6,3.0495901360000004,99.0,92.0,,,,,,,,,,,5
-UBCV,2019,S,APBI,428,,98A,Integrated Pest Management,Minnie Yu-Ching Teng;Yasmin Akhtar,33,77.424242424,6.456732451000001,90.0,65.0,,,,,,,5,7,11,,
-UBCV,2019,S,APBI,428,,OVERALL,Integrated Pest Management,,33,77.424242424,6.456732451000001,90.0,65.0,,,,,,,5,7,11,,
-UBCV,2019,S,APBI,443,,921,Field Study of Wine Grape Production,Simone Castellarin;Yevgen Kovalenko;Yifan Yan,16,82.5,10.583005244,97.0,57.0,,,,,,,,,,,5
-UBCV,2019,S,APBI,443,,OVERALL,Field Study of Wine Grape Production,,16,82.5,10.583005244,97.0,57.0,,,,,,,,,,,5
-UBCV,2019,S,APBI,490,,920,Advanced Topics in Applied Biology,Adam Shriver;Juli Carrillo;Zhuowei Li,9,90.0,4.0,95.0,82.0,,,,,,,,,,,
-UBCV,2019,S,APBI,490,,OVERALL,Advanced Topics in Applied Biology,,9,90.0,4.0,95.0,82.0,,,,,,,,,,,
-UBCV,2019,S,APBI,496,B,951,Applied Animal Biology Practicum,Sara Dubois,9,85.888888889,2.260776661,88.0,81.0,,,,,,,,,,8,
-UBCV,2019,S,APBI,496,B,OVERALL,Applied Animal Biology Practicum,,10,85.7,2.213594362,88.0,81.0,,,,,,,,,,8,
+UBCV,2019,S,APBI,100,,98A,Soil and the Global Environment,Akshit Puri;Marie-Claude Fortin,29,70.79310345,27.49984326,100.0,0.0,4,1,3,1,2,1,1,2,2,3,9
+UBCV,2019,S,APBI,100,,OVERALL,Soil and the Global Environment,,29,70.79310345,27.49984326,100.0,0.0,4,1,3,1,2,1,1,2,2,3,9
+UBCV,2019,S,APBI,200,,98A,Introduction to Soil Science,Akshit Puri;Kiran Padda;Kiran Preet Padda,31,71.93548387,14.17259206,90.0,23.0,1,1,1,4,3,3,4,1,7,2,4
+UBCV,2019,S,APBI,200,,OVERALL,Introduction to Soil Science,,31,71.93548387,14.17259206,90.0,23.0,1,1,1,4,3,3,4,1,7,2,4
+UBCV,2019,S,APBI,222,,001,Introduction to Horticulture,David Mcarthur;Yifan Yan,10,74.9,10.10445446,88.0,52.0,0,1,0,0,0,2,2,2,1,2,0
+UBCV,2019,S,APBI,222,,OVERALL,Introduction to Horticulture,,10,74.9,10.10445446,88.0,52.0,0,1,0,0,0,2,2,2,1,2,0
+UBCV,2019,S,APBI,314,,941,Animals and Society,Amelia M Macrae;Amelia M. Macrae;Amelia Macrae;Anna Ratuski;Anna Selene Ratuski;Elisabeth Ormandy;Konstantina Xenakis,40,78.9,13.47704601,95.0,15.0,1,0,0,2,1,2,7,5,9,7,6
+UBCV,2019,S,APBI,314,,OVERALL,Animals and Society,,40,78.9,13.47704601,95.0,15.0,1,0,0,2,1,2,7,5,9,7,6
+UBCV,2019,S,APBI,428,,98A,Integrated Pest Management,Minnie Yu-Ching Teng;Yasmin Akhtar,34,74.79411765,15.03889787,90.0,0.0,1,0,1,0,3,2,5,7,11,3,1
+UBCV,2019,S,APBI,428,,OVERALL,Integrated Pest Management,,34,74.79411765,15.03889787,90.0,0.0,1,0,1,0,3,2,5,7,11,3,1
+UBCV,2019,S,APBI,443,,921,Field Study of Wine Grape Production,Simone Castellarin;Yevgen Kovalenko;Yifan Yan,16,82.5,10.58300524,97.0,57.0,0,0,1,0,0,2,1,0,4,3,5
+UBCV,2019,S,APBI,443,,OVERALL,Field Study of Wine Grape Production,,16,82.5,10.58300524,97.0,57.0,0,0,1,0,0,2,1,0,4,3,5
+UBCV,2019,S,APBI,490,,920,Advanced Topics in Applied Biology,Adam Shriver;Juli Carrillo;Zhuowei Li,9,90.0,4.0,95.0,82.0,0,0,0,0,0,0,0,0,1,4,4
+UBCV,2019,S,APBI,490,,OVERALL,Advanced Topics in Applied Biology,,9,90.0,4.0,95.0,82.0,0,0,0,0,0,0,0,0,1,4,4
+UBCV,2019,S,APBI,496,B,951,Applied Animal Biology Practicum,Sara Dubois,9,85.88888889,2.260776661,88.0,81.0,0,0,0,0,0,0,0,0,1,8,0
+UBCV,2019,S,APBI,496,B,OVERALL,Applied Animal Biology Practicum,,10,85.7,2.213594362,88.0,81.0,0,0,0,0,0,0,0,0,2,8,0

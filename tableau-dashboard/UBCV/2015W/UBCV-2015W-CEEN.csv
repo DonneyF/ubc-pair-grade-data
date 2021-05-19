@@ -1,10 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,CEEN,501,,001,Energy System Fundamentals,Ramin Dastanpour;Steven Nicholas Rogak;Steven Rogak,28,74.964285714,10.709919745,96.0,60.0,,,,7,,5,,,6,,
-UBCV,2015,W,CEEN,501,,OVERALL,Energy System Fundamentals,,28,74.964285714,10.709919745,96.0,60.0,,,,7,,5,,,6,,
-UBCV,2015,W,CEEN,503,,001,Sustainable Energy Systems,Vladan Prodanovic;Vladan Zoran Prodanovic,22,85.909090909,6.368890842000001,97.0,77.0,,,,,,,,5,5,5,7
-UBCV,2015,W,CEEN,503,,OVERALL,Sustainable Energy Systems,,22,85.909090909,6.368890842000001,97.0,77.0,,,,,,,,5,5,5,7
-UBCV,2015,W,CEEN,523,,003,Energy and the Environment,Xiaotao Bi,30,82.466666667,7.846516175,94.0,68.0,,,,,,5,,,7,8,6
-UBCV,2015,W,CEEN,523,,OVERALL,Energy and the Environment,,30,82.466666667,7.846516175,94.0,68.0,,,,,,5,,,7,8,6
-UBCV,2015,W,CEEN,596,,005,Project and Report,Vladan Prodanovic;Vladan Zoran Prodanovic,8,89.125,3.8706773119999998,97.0,86.0,,,,,,,,,0,5,
-UBCV,2015,W,CEEN,596,,305,Project and Report,Vladan Prodanovic;Vladan Zoran Prodanovic,14,86.214285714,6.091337752,97.0,79.0,,,,,,,,,5,5,
-UBCV,2015,W,CEEN,596,,OVERALL,Project and Report,,22,87.27272727299999,5.478806076000001,97.0,79.0,,,,,,,,,5,10,6
+UBCV,2015,W,CEEN,501,,001,Energy System Fundamentals,Ramin Dastanpour;Steven Nicholas Rogak;Steven Rogak,28,74.964285714,10.709919745,96.0,60.0,0,0,0,7,,5,,,6,,
+UBCV,2015,W,CEEN,501,,OVERALL,Energy System Fundamentals,,28,74.964285714,10.709919745,96.0,60.0,0,0,0,7,,5,,,6,,
+UBCV,2015,W,CEEN,503,,001,Sustainable Energy Systems,Vladan Prodanovic;Vladan Zoran Prodanovic,22,85.909090909,6.368890842,97.0,77.0,0,0,0,0,0,0,0,5,5,5,7
+UBCV,2015,W,CEEN,503,,OVERALL,Sustainable Energy Systems,,22,85.909090909,6.368890842,97.0,77.0,0,0,0,0,0,0,0,5,5,5,7
+UBCV,2015,W,CEEN,523,,003,Energy and the Environment,Xiaotao Bi,30,82.466666667,7.846516175,94.0,68.0,0,0,0,0,0,5,,,7,8,6
+UBCV,2015,W,CEEN,523,,OVERALL,Energy and the Environment,,30,82.466666667,7.846516175,94.0,68.0,0,0,0,0,0,5,,,7,8,6
+UBCV,2015,W,CEEN,596,,005,Project and Report,Vladan Prodanovic;Vladan Zoran Prodanovic,8,89.125,3.870677312,97.0,86.0,0,0,0,0,0,0,0,0,0,5,3.0
+UBCV,2015,W,CEEN,596,,305,Project and Report,Vladan Prodanovic;Vladan Zoran Prodanovic,14,86.214285714,6.091337752,97.0,79.0,0,0,0,0,0,0,0,1.0,5,5,3.0
+UBCV,2015,W,CEEN,596,,OVERALL,Project and Report,,22,87.272727273,5.478806076,97.0,79.0,0,0,0,0,0,0,0,1.0,5,10,6

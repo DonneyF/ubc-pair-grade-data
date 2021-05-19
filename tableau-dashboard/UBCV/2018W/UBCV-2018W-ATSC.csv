@@ -1,11 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,ATSC,113,,101,Applied Meteorology,Camilio Rada Giacaman;Daniel Lam;Douglas Mccollor;Gregory L West;Gregory West;Igor Mihajlovic;James Campbell;Roland Stull;Rosemary Howard,248,85.370967742,13.878867367,100.0,23.0,9,,,5,5,12,14,8,30,33,129
-UBCV,2018,W,ATSC,113,,201,Applied Meteorology,Daniel Lam;Douglas Mccollor;Florian Luskow;Gregory West;Gunho Oh;I-Chih Kuo;Igor Mihajlovic;Roland Stull;Rosemary Howard,514,88.23151751,13.297865795999998,100.0,0.0,17,,,,7,13,14,22,53,56,324
-UBCV,2018,W,ATSC,113,,99A,Applied Meteorology,Camilio Rada Giacaman;Daniel Lam;Douglas Mccollor;Gregory L West;Gregory West;James Campbell;Roland Stull;Rosemary Howard,74,75.486486486,16.543213022,100.0,39.0,7,,,5,,5,5,6,11,9,19
-UBCV,2018,W,ATSC,113,,99C,Applied Meteorology,Daniel Lam;Douglas Mccollor;Florian Luskow;Gregory West;Gunho Oh;I-Chih Kuo;Igor Mihajlovic;Roland Stull;Rosemary Howard,149,79.765100671,16.804274417000002,100.0,25.0,15,,,,,6,9,9,18,28,54
-UBCV,2018,W,ATSC,113,,OVERALL,Applied Meteorology,,985,85.273096447,14.821894410999999,100.0,0.0,48,10,8,15,17,36,42,45,112,126,526
-UBCV,2018,W,ATSC,201,,101,Meteorology of Storms,Evelyn Wicksteed;Roland Stull,72,83.708333333,11.497014309,100.0,41.0,,,,,,,,5,14,17,26
-UBCV,2018,W,ATSC,201,,OVERALL,Meteorology of Storms,,72,83.708333333,11.497014309,100.0,41.0,,,,,,,,5,14,17,26
-UBCV,2018,W,ATSC,301,,101,Atmospheric Radiation and Remote Sensing,Philip Austin,26,78.423076923,8.070554266,90.0,61.0,,,,,,,,,6,8,
-UBCV,2018,W,ATSC,301,,OVERALL,Atmospheric Radiation and Remote Sensing,,26,78.423076923,8.070554266,90.0,61.0,,,,,,,,,6,8,
-UBCV,2018,W,ATSC,448,A,OVERALL,Directed Studies,,5,65.6,37.212900989,90.0,0.0,,,,,,,,,,,
+UBCV,2018,W,ATSC,113,,101,Applied Meteorology,Camilio Rada Giacaman;Daniel Lam;Douglas Mccollor;Gregory L West;Gregory West;Igor Mihajlovic;James Campbell;Roland Stull;Rosemary Howard,248,85.37096774,13.87886737,100.0,23.0,9,1,2,5,5,12,14,8,30,33,129
+UBCV,2018,W,ATSC,113,,201,Applied Meteorology,Daniel Lam;Douglas Mccollor;Florian Luskow;Gregory West;Gunho Oh;I-Chih Kuo;Igor Mihajlovic;Roland Stull;Rosemary Howard,514,88.23151751,13.2978658,100.0,0.0,17,3,3,2,7,13,14,22,53,56,324
+UBCV,2018,W,ATSC,113,,99A,Applied Meteorology,Camilio Rada Giacaman;Daniel Lam;Douglas Mccollor;Gregory L West;Gregory West;James Campbell;Roland Stull;Rosemary Howard,74,75.48648649,16.54321302,100.0,39.0,7,4,2,5,1,5,5,6,11,9,19
+UBCV,2018,W,ATSC,113,,99C,Applied Meteorology,Daniel Lam;Douglas Mccollor;Florian Luskow;Gregory West;Gunho Oh;I-Chih Kuo;Igor Mihajlovic;Roland Stull;Rosemary Howard,149,79.76510067,16.80427442,100.0,25.0,15,2,1,3,4,6,9,9,18,28,54
+UBCV,2018,W,ATSC,113,,OVERALL,Applied Meteorology,,985,85.27309645,14.82189441,100.0,0.0,48,10,8,15,17,36,42,45,112,126,526
+UBCV,2018,W,ATSC,201,,101,Meteorology of Storms,Evelyn Wicksteed;Roland Stull,72,83.70833333,11.49701431,100.0,41.0,2,0,0,3,1,2,2,5,14,17,26
+UBCV,2018,W,ATSC,201,,OVERALL,Meteorology of Storms,,72,83.70833333,11.49701431,100.0,41.0,2,0,0,3,1,2,2,5,14,17,26
+UBCV,2018,W,ATSC,301,,101,Atmospheric Radiation and Remote Sensing,Philip Austin,26,78.42307692,8.070554266,90.0,61.0,0,0,0,1,4,1,2,3,6,8,1
+UBCV,2018,W,ATSC,301,,OVERALL,Atmospheric Radiation and Remote Sensing,,26,78.42307692,8.070554266,90.0,61.0,0,0,0,1,4,1,2,3,6,8,1

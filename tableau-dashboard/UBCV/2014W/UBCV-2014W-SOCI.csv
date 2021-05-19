@@ -1,24 +1,24 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,SOCI,100,A,001,Introduction to Sociology,Hazel Hollingdale;Maria Paz Villar;Shawn Shabaquay;Stephanie Skourtes,99,77.31313131,12.55164553,97.0,0.0,,,,7,5,9,8,15,23,16,11
 UBCV,2014,W,SOCI,100,A,002,Introduction to Sociology,Stephanie Skourtes,118,80.47457627,11.94339346,98.0,0.0,,,,5,-72,8,11,7,29,33,18
-UBCV,2014,W,SOCI,100,A,OVERALL,Introduction to Sociology,,217,79.03225807,12.297766699999999,98.0,0.0,,,,12,7,17,19,22,52,49,29
-UBCV,2014,W,SOCI,100,B,001,Introduction to Sociology,Emily Truong;Jade Boyd;Justin Choi,109,72.88990826,8.626337201,94.0,54.0,,,,11,20,15,17,19,9,12,
+UBCV,2014,W,SOCI,100,A,OVERALL,Introduction to Sociology,,217,79.03225807,12.2977667,98.0,0.0,,,,12,7,17,19,22,52,49,29
+UBCV,2014,W,SOCI,100,B,001,Introduction to Sociology,Emily Truong;Jade Boyd;Justin Choi,109,72.88990826,8.626337201,94.0,54.0,0,,,11,20,15,17,19,9,12,
 UBCV,2014,W,SOCI,100,B,002,Introduction to Sociology,Catherine Corrigall-Brown,118,72.60169492,14.97926763,93.0,2.0,6,6,6,5,10,5,18,15,21,18,8
 UBCV,2014,W,SOCI,100,B,OVERALL,Introduction to Sociology,,227,72.74008811,12.31835547,94.0,2.0,6,7,9,16,30,20,35,34,30,30,10
-UBCV,2014,W,SOCI,100,C,002,Introduction to Sociology,Camille Breton;Elic Chan;Lorinda Moore;Rosemary Schlagintweit,100,70.32,11.788438099999999,90.0,24.0,,,,11,11,12,17,16,12,6,
-UBCV,2014,W,SOCI,100,C,003,Introduction to Sociology,Debra Pentecost,134,72.05223881,9.138300103999999,91.0,44.0,,,6,11,21,15,24,18,22,12,
+UBCV,2014,W,SOCI,100,C,002,Introduction to Sociology,Camille Breton;Elic Chan;Lorinda Moore;Rosemary Schlagintweit,100,70.32,11.7884381,90.0,24.0,,,,11,11,12,17,16,12,6,
+UBCV,2014,W,SOCI,100,C,003,Introduction to Sociology,Debra Pentecost,134,72.05223881,9.138300104,91.0,44.0,,,6,11,21,15,24,18,22,12,
 UBCV,2014,W,SOCI,100,C,004,Introduction to Sociology,Kerry Greer,71,72.97183099,10.85748173,96.0,35.0,,,,,9,9,10,11,12,7,
 UBCV,2014,W,SOCI,100,C,005,Introduction to Sociology,Christopher Mackenzie;Harry Chiu,49,67.89795918,14.2817554,90.0,6.0,,,5,5,7,8,5,6,7,,
 UBCV,2014,W,SOCI,100,C,006,Introduction to Sociology,Rachael Sullivan,80,73.375,11.09952103,90.0,19.0,,,,,5,17,15,13,17,6,
-UBCV,2014,W,SOCI,100,C,008,Introduction to Sociology,Christopher Mackenzie;Fiona Wang,54,68.40740741,12.36934513,85.0,0.0,,,,5,7,11,10,8,6,,
+UBCV,2014,W,SOCI,100,C,008,Introduction to Sociology,Christopher Mackenzie;Fiona Wang,54,68.40740741,12.36934513,85.0,0.0,,,,5,7,11,10,8,6,,0
 UBCV,2014,W,SOCI,100,C,OVERALL,Introduction to Sociology,,488,71.22745902,11.32674617,96.0,0.0,13,17,18,36,60,72,81,72,76,34,9
-UBCV,2014,W,SOCI,200,,001,Sociology of the Family,Christine Hochbaum;Dahlia Riley;James M White;James White,98,71.59183674,10.063547300000002,87.0,20.0,,,3,8,14,14,17,21,11,6,
+UBCV,2014,W,SOCI,200,,001,Sociology of the Family,Christine Hochbaum;Dahlia Riley;James M White;James White,98,71.59183674,10.0635473,87.0,20.0,,,3,8,14,14,17,21,11,6,0
 UBCV,2014,W,SOCI,200,,002,Sociology of the Family,Alisyn Burns;Andrew Patterson;Leanne Huang;Silvia Bartolic,146,72.47945206,9.849361385,98.0,48.0,,,14,15,6,20,15,28,30,12,
 UBCV,2014,W,SOCI,200,,003,Sociology of the Family,Alisyn Burns;Nicole Hindle;Silvia Bartolic,89,70.37078652,10.43201151,90.0,29.0,,,5,8,10,9,14,20,12,4,
 UBCV,2014,W,SOCI,200,,005,Sociology of the Family,Kerry Greer;Maya Koropatnisky;Rosanna Ho,72,69.52777778,13.12450908,90.0,0.0,,,6,9,10,11,7,10,7,6,
 UBCV,2014,W,SOCI,200,,OVERALL,Sociology of the Family,,405,71.27654321,10.69503299,98.0,0.0,9,9,28,40,40,54,53,79,60,28,5
-UBCV,2014,W,SOCI,201,A,001,Ethnic Relations,David C Ryniker;David Ryniker;Sharlie Eicker,46,71.65217391,6.700638082999999,87.0,60.0,,,,7,6,11,7,8,5,,
-UBCV,2014,W,SOCI,201,A,002,Ethnic Relations,David C Ryniker;David Ryniker;Marie-Elise Laforest,23,68.21739129999999,19.22819077,95.0,0.0,,,,3,4,4,1,1,3,,
+UBCV,2014,W,SOCI,201,A,001,Ethnic Relations,David C Ryniker;David Ryniker;Sharlie Eicker,46,71.65217391,6.700638083,87.0,60.0,0,0,0,7,6,11,7,8,5,2.0,0
+UBCV,2014,W,SOCI,201,A,002,Ethnic Relations,David C Ryniker;David Ryniker;Marie-Elise Laforest,23,68.2173913,19.22819077,95.0,0.0,,,,3,4,4,1,1,3,3.0,
 UBCV,2014,W,SOCI,201,A,OVERALL,Ethnic Relations,,69,70.50724638,12.32837854,95.0,0.0,,,,10,10,15,8,9,8,5,
 UBCV,2014,W,SOCI,210,A,001,Canadian Social Structure,Debra Pentecost;Helene Frohard Dourlent,48,71.47916667,10.70889387,91.0,37.0,,,,,,7,13,7,7,,
 UBCV,2014,W,SOCI,210,A,002,Canadian Social Structure,Debra Pentecost,45,71.93333333,13.99902594,90.0,0.0,,,,,,9,5,9,9,,
@@ -32,18 +32,18 @@ UBCV,2014,W,SOCI,220,,OVERALL,Sociology of Indigenous Peoples,,43,72.86046512,19
 UBCV,2014,W,SOCI,240,A,002,Introduction to Social Interaction,Maya Koropatnisky;Pei Fang Goh;Rafael Wainer,81,69.11111111,8.777812939,89.0,50.0,0,2,9,8,19,10,8,13,9,3,0
 UBCV,2014,W,SOCI,240,A,100,Introduction to Social Interaction,Adriano Alexi;Cally Fung;Kamila Kolpashnikova;Karen Marie Garcia;Silvia Bartolic,217,73.43317972,14.12891721,99.0,2.0,8,6,14,14,16,16,33,26,38,24,22
 UBCV,2014,W,SOCI,240,A,OVERALL,Introduction to Social Interaction,,298,72.25838926,13.02485374,99.0,2.0,8,8,23,22,35,26,41,39,47,27,22
-UBCV,2014,W,SOCI,250,A,001,Crime and Society,Christopher Mackenzie;Jeong Min Kang;Valerie Mccarrol,114,70.33333333,9.829220179,86.0,0.0,,,,8,13,29,26,15,15,2,
+UBCV,2014,W,SOCI,250,A,001,Crime and Society,Christopher Mackenzie;Jeong Min Kang;Valerie Mccarrol,114,70.33333333,9.829220179,86.0,0.0,,,,8,13,29,26,15,15,2,0
 UBCV,2014,W,SOCI,250,A,003,Crime and Society,Andrea Nicole Polonijo;Andrea Polonijo;Heather Holroyd;Nicole Malette,77,71.66233766,13.69172857,91.0,0.0,,,,10,9,7,8,11,14,9,
-UBCV,2014,W,SOCI,250,A,004,Crime and Society,Valerie Mccarrol;Valerie Spicer,70,76.98571429,6.718982102999999,92.0,58.0,,,,2,2,11,12,16,18,6,
-UBCV,2014,W,SOCI,250,A,OVERALL,Crime and Society,,261,72.50957854,10.791240400000001,92.0,0.0,5,,8,20,24,47,46,42,47,17,
-UBCV,2014,W,SOCI,260,A,001,"Technology, Work and Society",Evan Keith Preston,46,66.63043478,8.343616843,80.0,42.0,,,,6,11,6,8,7,2,,
-UBCV,2014,W,SOCI,260,A,002,"Technology, Work and Society",Prabhsharanbir Singh,24,79.54166667,4.010628994,87.0,73.0,,,,0,0,0,4,8,10,,
-UBCV,2014,W,SOCI,260,A,OVERALL,"Technology, Work and Society",,70,71.05714286,9.426889868,87.0,42.0,,,,6,11,6,12,15,12,,
-UBCV,2014,W,SOCI,301,A,001,Sociology of Development and Underdevelopment,David C Ryniker;David Ryniker;Lily Ivanova,55,70.50909091,14.45538824,87.0,0.0,,,,,8,10,8,5,11,5,
-UBCV,2014,W,SOCI,301,A,OVERALL,Sociology of Development and Underdevelopment,,55,70.50909091,14.45538824,87.0,0.0,,,,,8,10,8,5,11,5,
-UBCV,2014,W,SOCI,302,A,001,Ethnic and Racial Inequality,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Seonok Lee,66,75.06060606,6.711365304,89.0,60.0,,,,5,5,6,16,14,17,,
-UBCV,2014,W,SOCI,302,A,002,Ethnic and Racial Inequality,Elic Chan;Shawn Shabaquay,53,65.41509434,13.33940658,85.0,12.0,,,,,6,13,10,2,4,,
-UBCV,2014,W,SOCI,302,A,003,Ethnic and Racial Inequality,David C Ryniker;David Ryniker,38,76.34210526,7.8474520420000005,91.0,60.0,,,,,6,5,4,8,7,5,
+UBCV,2014,W,SOCI,250,A,004,Crime and Society,Valerie Mccarrol;Valerie Spicer,70,76.98571429,6.718982103,92.0,58.0,0,0,,2,2,11,12,16,18,6,
+UBCV,2014,W,SOCI,250,A,OVERALL,Crime and Society,,261,72.50957854,10.7912404,92.0,0.0,5,,8,20,24,47,46,42,47,17,
+UBCV,2014,W,SOCI,260,A,001,"Technology, Work and Society",Evan Keith Preston,46,66.63043478,8.343616843,80.0,42.0,,,,6,11,6,8,7,2,0,0
+UBCV,2014,W,SOCI,260,A,002,"Technology, Work and Society",Prabhsharanbir Singh,24,79.54166667,4.010628994,87.0,73.0,0,0,0,0,0,0,4,8,10,2.0,0
+UBCV,2014,W,SOCI,260,A,OVERALL,"Technology, Work and Society",,70,71.05714286,9.426889868,87.0,42.0,,,,6,11,6,12,15,12,2.0,0
+UBCV,2014,W,SOCI,301,A,001,Sociology of Development and Underdevelopment,David C Ryniker;David Ryniker;Lily Ivanova,55,70.50909091,14.45538824,87.0,0.0,,,,,8,10,8,5,11,5,0
+UBCV,2014,W,SOCI,301,A,OVERALL,Sociology of Development and Underdevelopment,,55,70.50909091,14.45538824,87.0,0.0,,,,,8,10,8,5,11,5,0
+UBCV,2014,W,SOCI,302,A,001,Ethnic and Racial Inequality,Ana Ines Vivaldi Pasqua;Ana Vivaldi Pasqua;Seonok Lee,66,75.06060606,6.711365304,89.0,60.0,0,0,0,5,5,6,16,14,17,3.0,0
+UBCV,2014,W,SOCI,302,A,002,Ethnic and Racial Inequality,Elic Chan;Shawn Shabaquay,53,65.41509434,13.33940658,85.0,12.0,,,,,6,13,10,2,4,2.0,0
+UBCV,2014,W,SOCI,302,A,003,Ethnic and Racial Inequality,David C Ryniker;David Ryniker,38,76.34210526,7.847452042,91.0,60.0,0,0,0,,6,5,4,8,7,5,
 UBCV,2014,W,SOCI,302,A,OVERALL,Ethnic and Racial Inequality,,157,72.11464968,10.76852498,91.0,12.0,,,,10,17,24,30,24,28,10,
 UBCV,2014,W,SOCI,303,A,101,Sociology of Migration,Gillian Creese,34,74.05882353,12.16537854,90.0,17.0,,,,,,6,7,5,6,,
 UBCV,2014,W,SOCI,303,A,OVERALL,Sociology of Migration,,34,74.05882353,12.16537854,90.0,17.0,,,,,,6,7,5,6,,
@@ -52,20 +52,20 @@ UBCV,2014,W,SOCI,310,A,002,Canadian Society,Jade Boyd;Sarah Watt,94,74.28723404,
 UBCV,2014,W,SOCI,310,A,004,Canadian Society,Gillian Creese;Lily Ivanova,65,72.13846154,11.28172876,91.0,30.0,,,,,3,8,15,12,9,5,
 UBCV,2014,W,SOCI,310,A,101,Canadian Society,Edward David Haddon;Edward Haddon;Francois Lachapelle;Nicole Malette;Rima Wilkes,100,74.77,13.49137772,99.0,30.0,,,5,9,5,12,14,7,12,15,14
 UBCV,2014,W,SOCI,310,A,OVERALL,Canadian Society,,357,73.88235294,12.91557056,99.0,0.0,11,10,18,19,30,38,59,43,63,38,28
-UBCV,2014,W,SOCI,312,A,001,Gender Relations,Michelle De Cambra;Tal Nitsan,68,71.01470588,10.07211704,91.0,50.0,,5,,8,,18,7,5,9,7,
-UBCV,2014,W,SOCI,312,A,002,Gender Relations,Dana Lowi-Merri;Manuela Valle Castro,66,76.81818182,14.05473815,94.0,23.0,,,,5,,3,4,10,8,16,10
-UBCV,2014,W,SOCI,312,A,004,Gender Relations,Carrie Yodanis;Katherine Fobear,45,77.62222222,7.180430757000001,90.0,55.0,,,,0,,5,6,11,12,6,
+UBCV,2014,W,SOCI,312,A,001,Gender Relations,Michelle De Cambra;Tal Nitsan,68,71.01470588,10.07211704,91.0,50.0,0,5,,8,,18,7,5,9,7,
+UBCV,2014,W,SOCI,312,A,002,Gender Relations,Dana Lowi-Merri;Manuela Valle Castro,66,76.81818182,14.05473815,94.0,23.0,2.0,3,,5,,3,4,10,8,16,10
+UBCV,2014,W,SOCI,312,A,004,Gender Relations,Carrie Yodanis;Katherine Fobear,45,77.62222222,7.180430757,90.0,55.0,0,0,,0,,5,6,11,12,6,
 UBCV,2014,W,SOCI,312,A,OVERALL,Gender Relations,,179,74.81564246,11.4917939,94.0,23.0,2.0,8,8,13,8,26,17,26,29,29,13
 UBCV,2014,W,SOCI,324,,100,Sociology of the Life Course,Avi Ames;Kerry Greer,54,74.16666667,10.36640073,90.0,44.0,,,,,,8,8,12,10,6,
 UBCV,2014,W,SOCI,324,,OVERALL,Sociology of the Life Course,,54,74.16666667,10.36640073,90.0,44.0,,,,,,8,8,12,10,6,
 UBCV,2014,W,SOCI,328,A,001,Social Statistics I,Sean Lauer;Zhiming Wu,64,72.828125,15.34425562,94.0,20.0,5,,,6,,4,7,5,11,14,
-UBCV,2014,W,SOCI,328,A,002,Social Statistics I,Andrew Patterson;Zhiming Wu,29,72.48275862,12.46887751,94.0,50.0,,,,2,,5,1,,4,,
+UBCV,2014,W,SOCI,328,A,002,Social Statistics I,Andrew Patterson;Zhiming Wu,29,72.48275862,12.46887751,94.0,50.0,0,,,2,,5,1,,4,,
 UBCV,2014,W,SOCI,328,A,003,Social Statistics I,Gerry Veenstra;Natasha Lesia-Ann Stecy-Hildebrandt;Natasha Stecy-Hildebrandt,74,67.86486487,14.48033558,99.0,30.0,,8,10,7,,7,11,,13,,5
 UBCV,2014,W,SOCI,328,A,005,Social Statistics I,Gerry Veenstra;Zhiming Wu,73,69.91780822,11.42092795,91.0,32.0,,,11,7,5,9,12,8,11,,
 UBCV,2014,W,SOCI,328,A,OVERALL,Social Statistics I,,240,70.37083333,13.70337219,99.0,20.0,10,14,27,22,17,25,31,18,39,23,14
-UBCV,2014,W,SOCI,342,,003,Consumers and Consumption,Evan Keith Preston,49,71.44897959,7.681311803,86.0,55.0,,,,,6,11,11,6,7,3,
-UBCV,2014,W,SOCI,342,,004,Consumers and Consumption,Carrie Yodanis;Sherrie Dilley,46,75.73913044,8.657520257,91.0,60.0,,,,,5,9,6,5,8,7,
-UBCV,2014,W,SOCI,342,,OVERALL,Consumers and Consumption,,95,73.52631579,8.405725132999999,91.0,55.0,,,,5,11,20,17,11,15,10,
+UBCV,2014,W,SOCI,342,,003,Consumers and Consumption,Evan Keith Preston,49,71.44897959,7.681311803,86.0,55.0,0,0,,,6,11,11,6,7,3,0
+UBCV,2014,W,SOCI,342,,004,Consumers and Consumption,Carrie Yodanis;Sherrie Dilley,46,75.73913044,8.657520257,91.0,60.0,0,0,0,,5,9,6,5,8,7,
+UBCV,2014,W,SOCI,342,,OVERALL,Consumers and Consumption,,95,73.52631579,8.405725133,91.0,55.0,0,0,,5,11,20,17,11,15,10,
 UBCV,2014,W,SOCI,350,A,002,Sociological Theories: Classical and Contemporary Approaches,Erica Mccollum;Jing Zhao,72,77.69444444,12.15352368,96.0,33.0,,,,,,8,6,10,12,12,12
 UBCV,2014,W,SOCI,350,A,OVERALL,Sociological Theories: Classical and Contemporary Approaches,,72,77.69444444,12.15352368,96.0,33.0,,,,,,8,6,10,12,12,12
 UBCV,2014,W,SOCI,350,B,001,Sociological Theories: Classical and Contemporary Approaches,Erica Mccollum;Jing Zhao,77,72.68831169,14.80332443,96.0,17.0,,,,6,7,11,7,12,,17,
@@ -73,69 +73,69 @@ UBCV,2014,W,SOCI,350,B,OVERALL,Sociological Theories: Classical and Contemporary
 UBCV,2014,W,SOCI,350,C,001,Sociological Theories: Classical and Contemporary Approaches,Kerry Greer;Zachary Hyde,63,68.26984127,15.62174493,93.0,16.0,,,6,7,7,9,8,5,7,,
 UBCV,2014,W,SOCI,350,C,OVERALL,Sociological Theories: Classical and Contemporary Approaches,,63,68.26984127,15.62174493,93.0,16.0,,,6,7,7,9,8,5,7,,
 UBCV,2014,W,SOCI,352,A,001,Organization of Work,Sanjeev Routray,48,67.72916667,17.45844865,92.0,0.0,,5,,,6,9,5,1,6,,
-UBCV,2014,W,SOCI,352,A,002,Organization of Work,Sylvia Fuller,27,75.85185185,10.27208204,94.0,56.0,,0,,,0,3,5,7,3,,
+UBCV,2014,W,SOCI,352,A,002,Organization of Work,Sylvia Fuller,27,75.85185185,10.27208204,94.0,56.0,0,0,,,0,3,5,7,3,,
 UBCV,2014,W,SOCI,352,A,OVERALL,Organization of Work,,75,70.65333333,15.68653523,94.0,0.0,,5,8,,6,12,10,8,9,5,7
-UBCV,2014,W,SOCI,354,B,001,Community Studies,Sean Lauer,72,76.80555556,8.466402347,93.0,55.0,,,,,,7,12,13,17,10,
-UBCV,2014,W,SOCI,354,B,OVERALL,Community Studies,,72,76.80555556,8.466402347,93.0,55.0,,,,,,7,12,13,17,10,
-UBCV,2014,W,SOCI,360,A,001,Sociology and Natural Resources,Georgia Jean Piggot;Negar Hooshmand-Mozaffar,64,78.09375,9.717793776,94.0,58.0,,,,,5,2,9,10,11,15,6
-UBCV,2014,W,SOCI,360,A,002,Sociology and Natural Resources,Georgia Jean Piggot,48,77.91666667,10.07806409,95.0,57.0,,,,,7,5,4,5,12,5,8
-UBCV,2014,W,SOCI,360,A,OVERALL,Sociology and Natural Resources,,112,78.01785714,9.829155145,95.0,57.0,,,,5,12,7,13,15,23,20,14
+UBCV,2014,W,SOCI,354,B,001,Community Studies,Sean Lauer,72,76.80555556,8.466402347,93.0,55.0,0,0,,,,7,12,13,17,10,
+UBCV,2014,W,SOCI,354,B,OVERALL,Community Studies,,72,76.80555556,8.466402347,93.0,55.0,0,0,,,,7,12,13,17,10,
+UBCV,2014,W,SOCI,360,A,001,Sociology and Natural Resources,Georgia Jean Piggot;Negar Hooshmand-Mozaffar,64,78.09375,9.717793776,94.0,58.0,0,0,,,5,2,9,10,11,15,6
+UBCV,2014,W,SOCI,360,A,002,Sociology and Natural Resources,Georgia Jean Piggot,48,77.91666667,10.07806409,95.0,57.0,0,0,,,7,5,4,5,12,5,8
+UBCV,2014,W,SOCI,360,A,OVERALL,Sociology and Natural Resources,,112,78.01785714,9.829155145,95.0,57.0,0,0,3.0,5,12,7,13,15,23,20,14
 UBCV,2014,W,SOCI,361,A,001,Social Inequality,Shayna Plaut;Tanvi Sirari,45,77.15555556,11.10887351,95.0,48.0,,,,,5,,5,8,4,12,
 UBCV,2014,W,SOCI,361,A,002,Social Inequality,Edward David Haddon;Edward Haddon;Shayna Plaut,33,77.0,10.55639617,92.0,49.0,,,,,1,,4,3,10,4,
 UBCV,2014,W,SOCI,361,A,OVERALL,Social Inequality,,78,77.08974359,10.80907014,95.0,48.0,,,,,6,,9,11,14,16,8
-UBCV,2014,W,SOCI,369,A,001,Sociology of Sexualities,Brandy Wiebe;Catherine Zangger,51,70.98039216,11.58013851,89.0,33.0,,,8,,,7,6,8,8,5,
+UBCV,2014,W,SOCI,369,A,001,Sociology of Sexualities,Brandy Wiebe;Catherine Zangger,51,70.98039216,11.58013851,89.0,33.0,,,8,,,7,6,8,8,5,0
 UBCV,2014,W,SOCI,369,A,003,Sociology of Sexualities,Adriana Brodyn;Adriana Larissa Brodyn;Amin Ghaziani,66,70.74242424,11.97601527,94.0,38.0,,,5,13,,5,9,8,11,,
-UBCV,2014,W,SOCI,369,A,201,Sociology of Sexualities,Becky Ross;Katherine Lyon,51,73.25490196,10.39007822,92.0,51.0,,,4,,,12,4,5,12,,
+UBCV,2014,W,SOCI,369,A,201,Sociology of Sexualities,Becky Ross;Katherine Lyon,51,73.25490196,10.39007822,92.0,51.0,0,,4,,,12,4,5,12,,
 UBCV,2014,W,SOCI,369,A,OVERALL,Sociology of Sexualities,,168,71.57738095,11.38151512,94.0,33.0,3.0,7,17,21,7,24,19,21,31,13,5
-UBCV,2014,W,SOCI,380,,001,Sociological Methods: Survey Research,Edward Akhmetshin,35,78.05714286,7.974012412,96.0,56.0,,,,0,,3,2,7,14,,
+UBCV,2014,W,SOCI,380,,001,Sociological Methods: Survey Research,Edward Akhmetshin,35,78.05714286,7.974012412,96.0,56.0,0,0,,0,,3,2,7,14,,
 UBCV,2014,W,SOCI,380,,200,Sociological Methods: Survey Research,Kamila Kolpashnikova;Silvia Bartolic,55,73.01818182,8.845360594,92.0,45.0,,,,6,,7,15,6,9,,
 UBCV,2014,W,SOCI,380,,OVERALL,Sociological Methods: Survey Research,,90,74.97777778,8.82409594,96.0,45.0,,,,6,7,10,17,13,23,7,
-UBCV,2014,W,SOCI,382,,001,Sociological Methods: Qualitative Research,Dawn Heather Currie;Katherine Lyon,38,76.60526316,9.107583634,95.0,57.0,,,,,,6,6,5,10,,
+UBCV,2014,W,SOCI,382,,001,Sociological Methods: Qualitative Research,Dawn Heather Currie;Katherine Lyon,38,76.60526316,9.107583634,95.0,57.0,0,0,,,,6,6,5,10,,
 UBCV,2014,W,SOCI,382,,003,Sociological Methods: Qualitative Research,Stephanie Skourtes,29,77.24137931,13.07029121,96.0,42.0,,,,,,,,,,5,6
 UBCV,2014,W,SOCI,382,,004,Sociological Methods: Qualitative Research,Wendy Roth,13,77.61538462,12.43341239,91.0,48.0,,,,,,,,,,,
 UBCV,2014,W,SOCI,382,,OVERALL,Sociological Methods: Qualitative Research,,80,77.0,11.09224841,96.0,42.0,,,,,7,9,6,10,18,10,11
-UBCV,2014,W,SOCI,414,A,002,Feminist Theory,Brandy Wiebe,31,66.12903226,16.57255147,87.0,0.0,,,,,,5,4,,,2,
+UBCV,2014,W,SOCI,414,A,002,Feminist Theory,Brandy Wiebe,31,66.12903226,16.57255147,87.0,0.0,,,,,,5,4,,,2,0
 UBCV,2014,W,SOCI,414,A,101,Feminist Theory,Dawn Heather Currie,27,72.81481482,18.40367237,92.0,18.0,,,,,,3,5,,,5,
 UBCV,2014,W,SOCI,414,A,OVERALL,Feminist Theory,,58,69.24137931,17.61708734,92.0,0.0,5,,,,,8,9,7,7,7,
 UBCV,2014,W,SOCI,415,A,001,Theories of Family and Kinship,James M White;James White;Rosanna Ho,80,72.225,12.31133573,91.0,0.0,,,4,6,6,11,14,15,10,9,
 UBCV,2014,W,SOCI,415,A,002,Theories of Family and Kinship,Christine Hochbaum;James M White;James White,50,72.68,10.86172836,94.0,46.0,,,5,5,2,7,9,6,7,5,
 UBCV,2014,W,SOCI,415,A,OVERALL,Theories of Family and Kinship,,130,72.4,11.73387067,94.0,0.0,,,9,11,8,18,23,21,17,14,
-UBCV,2014,W,SOCI,425,A,001,Urban Sociology,Nathanael Lauster,23,77.08695652,9.361007343999999,93.0,57.0,,,,,,,,,6,,
-UBCV,2014,W,SOCI,425,A,OVERALL,Urban Sociology,,23,77.08695652,9.361007343999999,93.0,57.0,,,,,,,,,6,,
-UBCV,2014,W,SOCI,433,A,002,Directed Studies,Becky Ross,11,87.45454546,6.74334689,93.0,72.0,,,,,,,,,,3,7
-UBCV,2014,W,SOCI,433,A,005,Directed Studies,,15,79.93333333,10.01760355,90.0,56.0,,,,,,,,,,6,2
-UBCV,2014,W,SOCI,433,A,OVERALL,Directed Studies,,27,83.22222222,9.254243656,93.0,56.0,,,,,,,,,,9,9
+UBCV,2014,W,SOCI,425,A,001,Urban Sociology,Nathanael Lauster,23,77.08695652,9.361007344,93.0,57.0,0,0,,,,,,,6,,
+UBCV,2014,W,SOCI,425,A,OVERALL,Urban Sociology,,23,77.08695652,9.361007344,93.0,57.0,0,0,,,,,,,6,,
+UBCV,2014,W,SOCI,433,A,002,Directed Studies,Becky Ross,11,87.45454546,6.74334689,93.0,72.0,0,0,0,0,0,0,,,,3,7
+UBCV,2014,W,SOCI,433,A,005,Directed Studies,,15,79.93333333,10.01760355,90.0,56.0,0,0,,,,,,,,6,2
+UBCV,2014,W,SOCI,433,A,OVERALL,Directed Studies,,27,83.22222222,9.254243656,93.0,56.0,0,0,,,,,,,,9,9
 UBCV,2014,W,SOCI,440,A,002,Economic Sociology,Francesco Duina,32,75.25,12.68222022,89.0,21.0,,,,,7,,,,6,8,0
 UBCV,2014,W,SOCI,440,A,003,Economic Sociology,Francesco Duina,26,80.03846154,10.94159319,95.0,49.0,,,,,1,,,,5,3,6
 UBCV,2014,W,SOCI,440,A,OVERALL,Economic Sociology,,58,77.39655172,12.07279042,95.0,21.0,,,,,8,6,7,7,11,11,6
-UBCV,2014,W,SOCI,444,,001,Sociology of Aging,Anne Martin-Matthews,36,74.91666667,9.141350322000001,86.0,42.0,,,,,,,6,7,9,,
-UBCV,2014,W,SOCI,444,,002,Sociology of Aging,Anne Martin-Matthews,34,74.58823529,8.275988075,86.0,54.0,,,,,,,5,7,11,,
-UBCV,2014,W,SOCI,444,,OVERALL,Sociology of Aging,,70,74.75714286,8.670181641000001,86.0,42.0,,,,,7,7,11,14,20,5,
-UBCV,2014,W,SOCI,449,,001,Honours Tutorial,,7,92.14285714,4.059087395,98.0,87.0,,,,,,,,,,,5
-UBCV,2014,W,SOCI,449,,OVERALL,Honours Tutorial,,7,92.14285714,4.059087395,98.0,87.0,,,,,,,,,,,5
-UBCV,2014,W,SOCI,464,A,001,Social Movements,Rima Wilkes,31,75.83870968,13.58699568,96.0,50.0,,,,,,,,,8,,7
-UBCV,2014,W,SOCI,464,A,OVERALL,Social Movements,,31,75.83870968,13.58699568,96.0,50.0,,,,,,,,,8,,7
-UBCV,2014,W,SOCI,470,A,001,Sociology of Crime and Justice,Renisa Mawani,34,76.29411765,5.734158213,88.0,64.0,,,,,,,6,11,9,,
-UBCV,2014,W,SOCI,470,A,003,Sociology of Crime and Justice,Tal Nitsan,17,73.70588235,13.39199717,90.0,50.0,,,,,,,1,2,3,,
-UBCV,2014,W,SOCI,470,A,004,Sociology of Crime and Justice,Jade Boyd,33,77.06060606,5.984038112,88.0,59.0,,,,,,5,6,10,8,,
-UBCV,2014,W,SOCI,470,A,OVERALL,Sociology of Crime and Justice,,84,76.07142857,7.937687616,90.0,50.0,,,5,,,9,13,23,20,9,
-UBCV,2014,W,SOCI,473,A,001,Sociology of Mental Illness,Rafael Wainer,33,77.18181818,4.857047363,85.0,61.0,,,,,,,8,11,11,,
-UBCV,2014,W,SOCI,473,A,OVERALL,Sociology of Mental Illness,,33,77.18181818,4.857047363,85.0,61.0,,,,,,,8,11,11,,
+UBCV,2014,W,SOCI,444,,001,Sociology of Aging,Anne Martin-Matthews,36,74.91666667,9.141350322,86.0,42.0,,,,,,,6,7,9,,0
+UBCV,2014,W,SOCI,444,,002,Sociology of Aging,Anne Martin-Matthews,34,74.58823529,8.275988075,86.0,54.0,0,,,,,,5,7,11,,0
+UBCV,2014,W,SOCI,444,,OVERALL,Sociology of Aging,,70,74.75714286,8.670181641,86.0,42.0,,,,,7,7,11,14,20,5,0
+UBCV,2014,W,SOCI,449,,001,Honours Tutorial,,7,92.14285714,4.059087395,98.0,87.0,0,0,0,0,0,0,0,0,0,2.0,5
+UBCV,2014,W,SOCI,449,,OVERALL,Honours Tutorial,,7,92.14285714,4.059087395,98.0,87.0,0,0,0,0,0,0,0,0,0,2.0,5
+UBCV,2014,W,SOCI,464,A,001,Social Movements,Rima Wilkes,31,75.83870968,13.58699568,96.0,50.0,0,,,,,,,,8,,7
+UBCV,2014,W,SOCI,464,A,OVERALL,Social Movements,,31,75.83870968,13.58699568,96.0,50.0,0,,,,,,,,8,,7
+UBCV,2014,W,SOCI,470,A,001,Sociology of Crime and Justice,Renisa Mawani,34,76.29411765,5.734158213,88.0,64.0,0,0,0,0,,,6,11,9,,0
+UBCV,2014,W,SOCI,470,A,003,Sociology of Crime and Justice,Tal Nitsan,17,73.70588235,13.39199717,90.0,50.0,0,,,,,,1,2,3,,
+UBCV,2014,W,SOCI,470,A,004,Sociology of Crime and Justice,Jade Boyd,33,77.06060606,5.984038112,88.0,59.0,0,0,,,,5,6,10,8,,0
+UBCV,2014,W,SOCI,470,A,OVERALL,Sociology of Crime and Justice,,84,76.07142857,7.937687616,90.0,50.0,0,,5,,,9,13,23,20,9,
+UBCV,2014,W,SOCI,473,A,001,Sociology of Mental Illness,Rafael Wainer,33,77.18181818,4.857047363,85.0,61.0,0,0,0,,,,8,11,11,,0
+UBCV,2014,W,SOCI,473,A,OVERALL,Sociology of Mental Illness,,33,77.18181818,4.857047363,85.0,61.0,0,0,0,,,,8,11,11,,0
 UBCV,2014,W,SOCI,476,,001,Interpersonal Dynamics,James Joseph Ponzetti,34,69.38235294,15.33072713,91.0,25.0,,,,,,5,5,,,,
 UBCV,2014,W,SOCI,476,,OVERALL,Interpersonal Dynamics,,34,69.38235294,15.33072713,91.0,25.0,,,,,,5,5,,,,
 UBCV,2014,W,SOCI,479,A,001,Social Determinants of Health,Gerry Veenstra,29,76.44827586,11.74912218,97.0,44.0,,,,,,6,,6,,,
 UBCV,2014,W,SOCI,479,A,OVERALL,Social Determinants of Health,,29,76.44827586,11.74912218,97.0,44.0,,,,,,6,,6,,,
 UBCV,2014,W,SOCI,484,A,201,Sociology of Health and Illness,Lindsey Richardson;Rafael Wainer,24,72.375,13.16719408,91.0,42.0,,,,,,,6,,,,
 UBCV,2014,W,SOCI,484,A,OVERALL,Sociology of Health and Illness,,24,72.375,13.16719408,91.0,42.0,,,,,,,6,,,,
-UBCV,2014,W,SOCI,495,B,001,Advanced Studies in Sociology,Anne Martin-Matthews,11,82.0,4.098780306,87.0,74.0,,,,,,,,,,,
-UBCV,2014,W,SOCI,495,B,OVERALL,Advanced Studies in Sociology,,11,82.0,4.098780306,87.0,74.0,,,,,,,,,,,
-UBCV,2014,W,SOCI,502,,001,Research Design and Techniques (Quantitative),Gerry Veenstra,5,86.2,5.215361924,93.0,80.0,,,,,,,,,,,
-UBCV,2014,W,SOCI,502,,OVERALL,Research Design and Techniques (Quantitative),,5,86.2,5.215361924,93.0,80.0,,,,,,,,,,,
-UBCV,2014,W,SOCI,503,,001,Research Design and Techniques (Qualitative),Wendy Roth,5,83.6,5.366563146,91.0,76.0,,,,,,,,,,,
-UBCV,2014,W,SOCI,503,,OVERALL,Research Design and Techniques (Qualitative),,5,83.6,5.366563146,91.0,76.0,,,,,,,,,,,
-UBCV,2014,W,SOCI,514,,001,Analyzing Quantitative Data in Sociology,Charlotte Hirsh,9,85.66666667,3.4278273,91.0,80.0,,,,,,,,,,,
-UBCV,2014,W,SOCI,514,,OVERALL,Analyzing Quantitative Data in Sociology,,9,85.66666667,3.4278273,91.0,80.0,,,,,,,,,,,
+UBCV,2014,W,SOCI,495,B,001,Advanced Studies in Sociology,Anne Martin-Matthews,11,82.0,4.098780306,87.0,74.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,W,SOCI,495,B,OVERALL,Advanced Studies in Sociology,,11,82.0,4.098780306,87.0,74.0,0,0,0,0,0,0,,,,,0
+UBCV,2014,W,SOCI,502,,001,Research Design and Techniques (Quantitative),Gerry Veenstra,5,86.2,5.215361924,93.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,SOCI,502,,OVERALL,Research Design and Techniques (Quantitative),,5,86.2,5.215361924,93.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,SOCI,503,,001,Research Design and Techniques (Qualitative),Wendy Roth,5,83.6,5.366563146,91.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,SOCI,503,,OVERALL,Research Design and Techniques (Qualitative),,5,83.6,5.366563146,91.0,76.0,0,0,0,0,0,0,0,,,,
+UBCV,2014,W,SOCI,514,,001,Analyzing Quantitative Data in Sociology,Charlotte Hirsh,9,85.66666667,3.4278273,91.0,80.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,W,SOCI,514,,OVERALL,Analyzing Quantitative Data in Sociology,,9,85.66666667,3.4278273,91.0,80.0,0,0,0,0,0,0,0,0,,,
 UBCV,2014,W,SOCI,560,A,001,Culture and Knowledge,Renisa Mawani,11,79.63636364,16.17573941,90.0,32.0,,,,,,,,,,5,
 UBCV,2014,W,SOCI,560,A,OVERALL,Culture and Knowledge,,11,79.63636364,16.17573941,90.0,32.0,,,,,,,,,,5,
-UBCV,2014,W,SOCI,584,A,001,"Health, Illness and Society",Richard Carpiano,6,84.33333333,3.1411250639999997,87.0,79.0,,,,,,,,,,,
-UBCV,2014,W,SOCI,584,A,OVERALL,"Health, Illness and Society",,6,84.33333333,3.1411250639999997,87.0,79.0,,,,,,,,,,,
+UBCV,2014,W,SOCI,584,A,001,"Health, Illness and Society",Richard Carpiano,6,84.33333333,3.141125064,87.0,79.0,0,0,0,0,0,0,0,,,,0
+UBCV,2014,W,SOCI,584,A,OVERALL,"Health, Illness and Society",,6,84.33333333,3.141125064,87.0,79.0,0,0,0,0,0,0,0,,,,0

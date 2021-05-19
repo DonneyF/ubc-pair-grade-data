@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,S,GERM,100,,921,Beginners' German I,Daniela Hempen,22,82.36363636,11.80615439,98.0,55.0,,,,,,,,,,5,7
-UBCV,2014,S,GERM,100,,923,Beginners' German I,Florian Faller,21,85.52380952,6.794255276,97.0,66.0,,,,,,,,,,8,6
-UBCV,2014,S,GERM,100,,OVERALL,Beginners' German I,,43,83.90697674,9.707174454,98.0,55.0,,,,,,,,,7,13,13
-UBCV,2014,S,GERM,110,,005,Beginners' German II,Gela Struch,9,77.77777778,8.828615092,94.0,68.0,,,,,,,,,,,
+UBCV,2014,S,GERM,100,,921,Beginners' German I,Daniela Hempen,22,82.36363636,11.80615439,98.0,55.0,0,0,,,,,,,,5,7
+UBCV,2014,S,GERM,100,,923,Beginners' German I,Florian Faller,21,85.52380952,6.794255276,97.0,66.0,0,0,0,0,,,,,,8,6
+UBCV,2014,S,GERM,100,,OVERALL,Beginners' German I,,43,83.90697674,9.707174454,98.0,55.0,0,0,,,,,,,7,13,13
+UBCV,2014,S,GERM,110,,005,Beginners' German II,Gela Struch,9,77.77777778,8.828615092,94.0,68.0,0,0,0,0,0,,,,,,
 UBCV,2014,S,GERM,110,,921,Beginners' German II,Ja-Hae Oh,15,72.93333333,14.32014898,91.0,39.0,,,,,,,,,,,
 UBCV,2014,S,GERM,110,,OVERALL,Beginners' German II,,24,74.75,12.55682735,94.0,39.0,,,,,,,,,,,
 UBCV,2014,S,GERM,200,,921,Intermediate German I,Petra Ganzenmueller,25,78.32,20.41592516,96.0,0.0,,,,,,,,,,7,7
 UBCV,2014,S,GERM,200,,OVERALL,Intermediate German I,,25,78.32,20.41592516,96.0,0.0,,,,,,,,,,7,7
 UBCV,2014,S,GERM,210,,921,Intermediate German II,Uma Kumar,20,74.3,16.87445906,95.0,16.0,,,,,,,,,,6,
 UBCV,2014,S,GERM,210,,OVERALL,Intermediate German II,,20,74.3,16.87445906,95.0,16.0,,,,,,,,,,6,
-UBCV,2014,S,GERM,313,,900,Conversational German II,Jason Lieblang,8,89.375,3.420004177,94.0,85.0,,,,,,,,,,,5
-UBCV,2014,S,GERM,313,,OVERALL,Conversational German II,,8,89.375,3.420004177,94.0,85.0,,,,,,,,,,,5
-UBCV,2014,S,GERM,406,B,900,Selected Topics in German Literature,Gaby Pailer,8,85.5,2.672612419,90.0,83.0,,,,,,,,,,,
-UBCV,2014,S,GERM,406,B,OVERALL,Selected Topics in German Literature,,8,85.5,2.672612419,90.0,83.0,,,,,,,,,,,
-UBCV,2014,S,GERM,433,,921,German for Reading Knowledge I,Adelheid O'Brien,48,82.125,9.718648448,96.0,52.0,,,,,,,6,7,8,9,13
-UBCV,2014,S,GERM,433,,OVERALL,German for Reading Knowledge I,,48,82.125,9.718648448,96.0,52.0,,,,,,,6,7,8,9,13
+UBCV,2014,S,GERM,313,,900,Conversational German II,Jason Lieblang,8,89.375,3.420004177,94.0,85.0,0,0,0,0,0,0,0,0,0,3.0,5
+UBCV,2014,S,GERM,313,,OVERALL,Conversational German II,,8,89.375,3.420004177,94.0,85.0,0,0,0,0,0,0,0,0,0,3.0,5
+UBCV,2014,S,GERM,406,B,900,Selected Topics in German Literature,Gaby Pailer,8,85.5,2.672612419,90.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,S,GERM,406,B,OVERALL,Selected Topics in German Literature,,8,85.5,2.672612419,90.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2014,S,GERM,433,,921,German for Reading Knowledge I,Adelheid O'Brien,48,82.125,9.718648448,96.0,52.0,0,,,,,,6,7,8,9,13
+UBCV,2014,S,GERM,433,,OVERALL,German for Reading Knowledge I,,48,82.125,9.718648448,96.0,52.0,0,,,,,,6,7,8,9,13

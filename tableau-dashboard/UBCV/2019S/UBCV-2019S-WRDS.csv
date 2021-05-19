@@ -1,16 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,S,WRDS,150,,511,Writing and Research in the Disciplines,Judith Jeannine Scholes;Judith Scholes,29,75.10344827600001,10.50967183,88.0,38.0,,,,,,,6,7,9,,
-UBCV,2019,S,WRDS,150,,512,Writing and Research in the Disciplines,Meredith Beales,27,72.333333333,6.6390453439999995,84.0,60.0,,,,,,,,8,,,
-UBCV,2019,S,WRDS,150,,513,Writing and Research in the Disciplines,Mary Ann Saunders,30,76.4,6.344152887999999,86.0,61.0,,,,,,,6,6,9,,
-UBCV,2019,S,WRDS,150,,514,Writing and Research in the Disciplines,Loren Gaudet,30,71.633333333,8.092070761,87.0,50.0,,,,,6,6,5,5,,,
-UBCV,2019,S,WRDS,150,,515,Writing and Research in the Disciplines,Mi-Young Kim,30,71.966666667,15.093920524000001,91.0,13.0,,,,,,,,8,,,
-UBCV,2019,S,WRDS,150,,551,Writing and Research in the Disciplines,Nazih El-Bezre,28,70.535714286,6.806762122,81.0,52.0,,,,,5,9,5,5,,,
-UBCV,2019,S,WRDS,150,,552,Writing and Research in the Disciplines,Andrew Connolly,29,72.413793103,7.346122599,87.0,55.0,,,,,,8,,,6,,
-UBCV,2019,S,WRDS,150,,553,Writing and Research in the Disciplines,Loren Gaudet,30,72.2,9.367589025,88.0,52.0,,,,,6,5,,5,,,
-UBCV,2019,S,WRDS,150,,554,Writing and Research in the Disciplines,Jennifer Cowe,30,71.966666667,9.908141318,96.0,53.0,,,,,5,5,,6,,,
-UBCV,2019,S,WRDS,150,,J01,Writing and Research in the Disciplines,Laila Ferreira;Nazih El-Bezre,28,71.285714286,9.755747187,88.0,45.0,,,,,5,,5,,6,,
-UBCV,2019,S,WRDS,150,,J02,Writing and Research in the Disciplines,Michael Christian Schandorf;Sean Mcalister,27,86.074074074,20.585517549000002,100.0,11.0,,,,,,,,,,5,16
-UBCV,2019,S,WRDS,150,,M01,Writing and Research in the Disciplines,Diane Burgess;Michael Borkent,29,72.86206896600001,6.12794616,82.0,50.0,,,,,,5,10,9,,,
-UBCV,2019,S,WRDS,150,,M02,Writing and Research in the Disciplines,Jonathan Otto;Meredith Beales,30,72.9,9.809741815,91.0,53.0,,,,,,,5,6,,,
-UBCV,2019,S,WRDS,150,,M03,Writing and Research in the Disciplines,Kathleen Fitzpatrick;Sean Mcalister,24,73.75,11.64418123,93.0,50.0,,,,,,6,,,,,
-UBCV,2019,S,WRDS,150,,OVERALL,Writing and Research in the Disciplines,,401,73.618453865,10.952011624,100.0,11.0,6,11,9,23,50,59,57,77,58,28,23
+UBCV,2019,S,WRDS,150,,511,Writing and Research in the Disciplines,Judith Scholes,29,75.10344828,10.50967183,88.0,38.0,1,1.0,0.0,0.0,3.0,0,6.0,7,9,2,0
+UBCV,2019,S,WRDS,150,,512,Writing and Research in the Disciplines,Meredith Beales,27,72.33333333,6.639045344,84.0,60.0,0,0.0,0.0,4.0,4.0,4,4.0,8,3,0,0
+UBCV,2019,S,WRDS,150,,513,Writing and Research in the Disciplines,Mary Ann Saunders,30,76.4,6.344152888,86.0,61.0,0,0.0,0.0,1.0,2.0,3,6.0,6,9,3,0
+UBCV,2019,S,WRDS,150,,514,Writing and Research in the Disciplines,Loren Gaudet,30,71.63333333,8.092070761,87.0,50.0,0,1.0,1.0,0.0,6.0,6,5.0,5,4,2,0
+UBCV,2019,S,WRDS,150,,515,Writing and Research in the Disciplines,Mi-Young Kim,30,71.96666667,15.09392052,91.0,13.0,2,1.0,1.0,1.0,3.0,2,4.0,8,3,4,1
+UBCV,2019,S,WRDS,150,,551,Writing and Research in the Disciplines,Nazih El-Bezre,28,70.53571429,6.806762122,81.0,52.0,0,2.0,0.0,0.0,5.0,9,5.0,5,2,0,0
+UBCV,2019,S,WRDS,150,,552,Writing and Research in the Disciplines,Andrew Connolly,29,72.4137931,7.346122599,87.0,55.0,0,0.0,1.0,2.0,4.0,8,3.0,4,6,1,0
+UBCV,2019,S,WRDS,150,,553,Writing and Research in the Disciplines,Loren Gaudet,30,72.2,9.367589025,88.0,52.0,0,2.0,0.0,1.0,6.0,5,3.0,5,4,4,0
+UBCV,2019,S,WRDS,150,,554,Writing and Research in the Disciplines,Jennifer Cowe,30,71.96666667,9.908141318,96.0,53.0,0,1.0,2.0,4.0,5.0,5,0.0,6,4,2,1
+UBCV,2019,S,WRDS,150,,J01,Writing and Research in the Disciplines,Laila Ferreira;Nazih El-Bezre,28,71.28571429,9.755747187,88.0,45.0,1,0.0,1.0,4.0,5.0,2,5.0,3,6,1,0
+UBCV,2019,S,WRDS,150,,J02,Writing and Research in the Disciplines,Michael Schandorf;Sean Mcalister,27,86.07407407,20.58551755,100.0,11.0,2,0.0,0.0,0.0,1.0,1,0.0,1,1,5,16
+UBCV,2019,S,WRDS,150,,M01,Writing and Research in the Disciplines,Diane Burgess;Michael Borkent,29,72.86206897,6.12794616,82.0,50.0,0,1.0,0.0,0.0,2.0,5,10.0,9,2,0,0
+UBCV,2019,S,WRDS,150,,M02,Writing and Research in the Disciplines,Jonathan Otto;Meredith Beales,30,72.9,9.809741815,91.0,53.0,0,1.0,1.0,3.0,4.0,3,5.0,6,4,1,2
+UBCV,2019,S,WRDS,150,,M03,Writing and Research in the Disciplines,Kathleen Fitzpatrick;Sean Mcalister,24,73.75,11.64418123,93.0,50.0,0,1.0,2.0,3.0,0.0,6,1.0,4,1,3,3
+UBCV,2019,S,WRDS,150,,OVERALL,Writing and Research in the Disciplines,,401,73.61845387,10.95201162,100.0,11.0,6,11.0,9.0,23.0,50.0,59,57.0,77,58,28,23

@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,BAIT,510,,001,Project Management in Delivering Business Solutions,Zorana Svedic,30,81.966666667,4.172845993,90.0,75.0,,,,,,,,7,12,8,
-UBCV,2016,W,BAIT,510,,302,Project Management in Delivering Business Solutions,Zorana Svedic,26,82.923076923,5.176277249,90.0,64.0,,,,,,,,5,7,11,
-UBCV,2016,W,BAIT,510,,MM1,Project Management in Delivering Business Solutions,Zorana Svedic,54,82.407407407,4.6804229710000005,94.0,72.0,,,,,,,,14,19,16,
-UBCV,2016,W,BAIT,510,,OVERALL,Project Management in Delivering Business Solutions,,110,82.409090909,4.641842909,94.0,64.0,,,,,,,,26,38,35,7
-UBCV,2016,W,BAIT,511,,001,Managing Information Technology,Daniel Papania;Ronald Timothy Cenfetelli,20,83.15,2.518876107,87.0,78.0,,,,,,,,,12,6,
-UBCV,2016,W,BAIT,511,,302,Managing Information Technology,Ronald Timothy Cenfetelli,16,85.3125,1.778341924,89.0,83.0,,,,,,,,,5,11,
-UBCV,2016,W,BAIT,511,,816,Managing Information Technology,Ronald Timothy Cenfetelli,26,84.538461538,1.4486067580000002,88.0,82.0,,,,,,,,,15,11,
-UBCV,2016,W,BAIT,511,,OVERALL,Managing Information Technology,,62,84.290322581,2.0834011980000002,89.0,78.0,,,,,,,,,32,28,
-UBCV,2016,W,BAIT,527,,001,Business Intelligence for Management,Chunhua Wu;Yiming Wang,35,85.457142857,2.963928803,91.0,77.0,,,,,,,,,12,19,
-UBCV,2016,W,BAIT,527,,OR1,Business Intelligence for Management,Chunhua Wu;Yiming Wang,13,86.46153846200001,1.983909634,91.0,84.0,,,,,,,,,1,10,
-UBCV,2016,W,BAIT,527,,OVERALL,Business Intelligence for Management,,48,85.729166667,2.750161182,91.0,77.0,,,,,,,,,13,29,5
-UBCV,2016,W,BAIT,580,C,001,Topics in Information Technology Management,Blake Hanna,19,81.84210526300001,4.59786373,86.0,65.0,,,,,,,,,13,3,
-UBCV,2016,W,BAIT,580,C,302,Topics in Information Technology Management,Blake Hanna,16,82.5625,11.272200318,93.0,42.0,,,,,,,,,6,7,
-UBCV,2016,W,BAIT,580,C,OVERALL,Topics in Information Technology Management,,35,82.171428571,8.208624282,93.0,42.0,,,,,,,,,19,10,
+UBCV,2016,W,BAIT,510,,001,Project Management in Delivering Business Solutions,Zorana Svedic,30,81.96666667,4.172845993,90.0,75.0,0,0,0,0,0,0.0,1,7,12,8,2
+UBCV,2016,W,BAIT,510,,302,Project Management in Delivering Business Solutions,Zorana Svedic,26,82.92307692,5.176277249,90.0,64.0,0,0,0,0,1,0.0,0,5,7,11,2
+UBCV,2016,W,BAIT,510,,MM1,Project Management in Delivering Business Solutions,Zorana Svedic,54,82.40740741,4.680422971,94.0,72.0,0,0,0,0,0,0.0,2,14,19,16,3
+UBCV,2016,W,BAIT,510,,OVERALL,Project Management in Delivering Business Solutions,,110,82.40909091,4.641842909,94.0,64.0,0,0,0,0,1,0.0,3,26,38,35,7
+UBCV,2016,W,BAIT,511,,001,Managing Information Technology,Daniel Papania;Ronald Timothy Cenfetelli,20,83.15,2.518876107,87.0,78.0,0,0,0,0,0,0.0,0,2,12,6,0
+UBCV,2016,W,BAIT,511,,302,Managing Information Technology,Ronald Timothy Cenfetelli,16,85.3125,1.778341924,89.0,83.0,0,0,0,0,0,0.0,0,0,5,11,0
+UBCV,2016,W,BAIT,511,,816,Managing Information Technology,Ronald Timothy Cenfetelli,26,84.53846154,1.448606758,88.0,82.0,0,0,0,0,0,0.0,0,0,15,11,0
+UBCV,2016,W,BAIT,511,,OVERALL,Managing Information Technology,,62,84.29032258,2.083401198,89.0,78.0,0,0,0,0,0,0.0,0,2,32,28,0
+UBCV,2016,W,BAIT,527,,001,Business Intelligence for Management,Chunhua Wu;Yiming Wang,35,85.45714286,2.963928803,91.0,77.0,0,0,0,0,0,0.0,0,1,12,19,3
+UBCV,2016,W,BAIT,527,,OR1,Business Intelligence for Management,Chunhua Wu;Yiming Wang,13,86.46153846,1.983909634,91.0,84.0,0,0,0,0,0,0.0,0,0,1,10,2
+UBCV,2016,W,BAIT,527,,OVERALL,Business Intelligence for Management,,48,85.72916667,2.750161182,91.0,77.0,0,0,0,0,0,0.0,0,1,13,29,5
+UBCV,2016,W,BAIT,580,C,001,Topics in Information Technology Management,Blake Hanna,19,81.84210526,4.59786373,86.0,65.0,0,0,0,0,1,0.0,0,2,13,3,0
+UBCV,2016,W,BAIT,580,C,302,Topics in Information Technology Management,Blake Hanna,16,82.5625,11.27220032,93.0,42.0,1,0,0,0,0,0.0,0,0,6,7,2
+UBCV,2016,W,BAIT,580,C,OVERALL,Topics in Information Technology Management,,35,82.17142857,8.208624282,93.0,42.0,1,0,0,0,1,0.0,0,2,19,10,2

@@ -1,7 +1,7 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,S,BASC,500,,301,Process Fundamentals,Harish Krishnan,18,80.72222222,3.374742789,87.0,76.0,,,,,,,,7,9,,
-UBCV,2015,S,BASC,500,,OVERALL,Process Fundamentals,,18,80.722222222,3.374742789,87.0,76.0,,,,,,,,7,9,,
-UBCV,2015,S,BASC,523,,814,Supply Chain Management,S Thomas Mccormick,39,76.30769231,3.518027603,82.0,69.0,,,,,,,14,15,8,,
-UBCV,2015,S,BASC,523,,OVERALL,Supply Chain Management,,39,76.307692308,3.518027603,82.0,69.0,,,,,,,14,15,8,,
-UBCV,2015,S,BASC,550,,815,Operations and Logistics,Mahesh Nagarajan,29,78.75862069,8.479619148,91.0,60.0,,,,,,,,,11,,
-UBCV,2015,S,BASC,550,,OVERALL,Operations and Logistics,,29,78.75862069,8.479619148,91.0,60.0,,,,,,,,,11,,
+UBCV,2015,S,BASC,500,,301,Process Fundamentals,Harish Krishnan,18,80.72222222,3.374742789,87.0,76.0,0,0,0,0,0,0,0,7,9,2.0,0
+UBCV,2015,S,BASC,500,,OVERALL,Process Fundamentals,,18,80.722222222,3.374742789,87.0,76.0,0,0,0,0,0,0,0,7,9,2.0,0
+UBCV,2015,S,BASC,523,,814,Supply Chain Management,S Thomas Mccormick,39,76.30769231,3.518027603,82.0,69.0,0,0,0,0,0,2.0,14,15,8,0,0
+UBCV,2015,S,BASC,523,,OVERALL,Supply Chain Management,,39,76.307692308,3.518027603,82.0,69.0,0,0,0,0,0,2.0,14,15,8,0,0
+UBCV,2015,S,BASC,550,,815,Operations and Logistics,Mahesh Nagarajan,29,78.75862069,8.479619148,91.0,60.0,0,0,0,,,,,,11,,
+UBCV,2015,S,BASC,550,,OVERALL,Operations and Logistics,,29,78.75862069,8.479619148,91.0,60.0,0,0,0,,,,,,11,,

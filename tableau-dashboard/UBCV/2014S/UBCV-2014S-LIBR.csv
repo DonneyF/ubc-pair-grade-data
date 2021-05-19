@@ -1,23 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,S,LIBR,504,,942,Management of Information Organizations,Guy Robertson,17,85.23529412,2.840101489,88.0,79.0,,,,,,,,,,11,
-UBCV,2014,S,LIBR,504,,OVERALL,Management of Information Organizations,,17,85.23529412,2.840101489,88.0,79.0,,,,,,,,,,11,
-UBCV,2014,S,LIBR,505,,941,Research Methods in Information Organizations,Richard Arias Hernandez,23,82.82608696,5.966971013999999,91.0,72.0,,,,,,,,5,,7,5
-UBCV,2014,S,LIBR,505,,OVERALL,Research Methods in Information Organizations,,23,82.82608696,5.966971013999999,91.0,72.0,,,,,,,,5,,7,5
-UBCV,2014,S,LIBR,522,J,942,Literature and Other Materials for Children,Ginger Mullen,8,84.375,3.54310195,92.0,81.0,,,,,,,,,6,,
-UBCV,2014,S,LIBR,522,J,OVERALL,Literature and Other Materials for Children,,8,84.375,3.54310195,92.0,81.0,,,,,,,,,6,,
-UBCV,2014,S,LIBR,524,,942,"Writing, Publishing and the Book Trade for Children",Margaret De Vries,18,88.5,3.365045232,95.0,84.0,,,,,,,,,,11,6
-UBCV,2014,S,LIBR,524,,OVERALL,"Writing, Publishing and the Book Trade for Children",,18,88.5,3.365045232,95.0,84.0,,,,,,,,,,11,6
-UBCV,2014,S,LIBR,525,,942,Illustrated Literature and Other Materials for Children,Kathryn Shoemaker,17,88.05882353,3.508393297,92.0,76.0,,,,,,,,,,11,5
-UBCV,2014,S,LIBR,525,,OVERALL,Illustrated Literature and Other Materials for Children,,17,88.05882353,3.508393297,92.0,76.0,,,,,,,,,,11,5
-UBCV,2014,S,LIBR,533,,941,Legal Information Sources and Services,Carolyn Petrie;Sarah Sutherland,22,83.68181818,3.371962317,89.0,76.0,,,,,,,,,10,9,
-UBCV,2014,S,LIBR,533,,OVERALL,Legal Information Sources and Services,,22,83.68181818,3.371962317,89.0,76.0,,,,,,,,,10,9,
-UBCV,2014,S,LIBR,554,,941,Database Design,Richard Arias Hernandez,20,87.7,6.14817046,97.0,75.0,,,,,,,,,,6,8
-UBCV,2014,S,LIBR,554,,OVERALL,Database Design,,20,87.7,6.14817046,97.0,75.0,,,,,,,,,,6,8
-UBCV,2014,S,LIBR,569,M,941,Current Issues and Trends in Library Services and Information Science,Paul Whitney,12,80.41666667,6.881573992000001,89.0,68.0,,,,,,,,,,,
-UBCV,2014,S,LIBR,569,M,OVERALL,Current Issues and Trends in Library Services and Information Science,,12,80.41666667,6.881573992000001,89.0,68.0,,,,,,,,,,,
-UBCV,2014,S,LIBR,570,,941,Marketing in Information Organizations,Alyssa Victoria Green,27,82.81481482,3.162728095,90.0,79.0,,,,,,,,,17,6,
-UBCV,2014,S,LIBR,570,,OVERALL,Marketing in Information Organizations,,27,82.81481482,3.162728095,90.0,79.0,,,,,,,,,17,6,
-UBCV,2014,S,LIBR,572,,942,Information Services Consulting,Alexandra Bradley,21,85.90476191,2.188715649,91.0,82.0,,,,,,,,,,16,
-UBCV,2014,S,LIBR,572,,OVERALL,Information Services Consulting,,21,85.90476191,2.188715649,91.0,82.0,,,,,,,,,,16,
-UBCV,2014,S,LIBR,593,D,943,Seminar,,15,83.8,8.444778607,87.0,55.0,,,,,,,,,,12,
-UBCV,2014,S,LIBR,593,D,OVERALL,Seminar,,16,83.1875,8.518362519,87.0,55.0,,,,,,,,,,12,
+UBCV,2014,S,LIBR,504,,942,Management of Information Organizations,Guy Robertson,17,85.23529412,2.840101489,88.0,79.0,0,0,0,0,0,0,0,,,11,0
+UBCV,2014,S,LIBR,504,,OVERALL,Management of Information Organizations,,17,85.23529412,2.840101489,88.0,79.0,0,0,0,0,0,0,0,,,11,0
+UBCV,2014,S,LIBR,505,,941,Research Methods in Information Organizations,Richard Arias Hernandez,23,82.82608696,5.966971014,91.0,72.0,0,0,0,0,0,0,,5,,7,5
+UBCV,2014,S,LIBR,505,,OVERALL,Research Methods in Information Organizations,,23,82.82608696,5.966971014,91.0,72.0,0,0,0,0,0,0,,5,,7,5
+UBCV,2014,S,LIBR,522,J,942,Literature and Other Materials for Children,Ginger Mullen,8,84.375,3.54310195,92.0,81.0,0,0,0,0,0,0,0,0,6,,
+UBCV,2014,S,LIBR,522,J,OVERALL,Literature and Other Materials for Children,,8,84.375,3.54310195,92.0,81.0,0,0,0,0,0,0,0,0,6,,
+UBCV,2014,S,LIBR,524,,942,"Writing, Publishing and the Book Trade for Children",Margaret De Vries,18,88.5,3.365045232,95.0,84.0,0,0,0,0,0,0,0,0,1.0,11,6
+UBCV,2014,S,LIBR,524,,OVERALL,"Writing, Publishing and the Book Trade for Children",,18,88.5,3.365045232,95.0,84.0,0,0,0,0,0,0,0,0,1.0,11,6
+UBCV,2014,S,LIBR,525,,942,Illustrated Literature and Other Materials for Children,Kathryn Shoemaker,17,88.05882353,3.508393297,92.0,76.0,0,0,0,0,0,0,0,,,11,5
+UBCV,2014,S,LIBR,525,,OVERALL,Illustrated Literature and Other Materials for Children,,17,88.05882353,3.508393297,92.0,76.0,0,0,0,0,0,0,0,,,11,5
+UBCV,2014,S,LIBR,533,,941,Legal Information Sources and Services,Carolyn Petrie;Sarah Sutherland,22,83.68181818,3.371962317,89.0,76.0,0,0,0,0,0,0,0,3.0,10,9,0
+UBCV,2014,S,LIBR,533,,OVERALL,Legal Information Sources and Services,,22,83.68181818,3.371962317,89.0,76.0,0,0,0,0,0,0,0,3.0,10,9,0
+UBCV,2014,S,LIBR,554,,941,Database Design,Richard Arias Hernandez,20,87.7,6.14817046,97.0,75.0,0,0,0,0,0,0,,,,6,8
+UBCV,2014,S,LIBR,554,,OVERALL,Database Design,,20,87.7,6.14817046,97.0,75.0,0,0,0,0,0,0,,,,6,8
+UBCV,2014,S,LIBR,569,M,941,Current Issues and Trends in Library Services and Information Science,Paul Whitney,12,80.41666667,6.881573992,89.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2014,S,LIBR,569,M,OVERALL,Current Issues and Trends in Library Services and Information Science,,12,80.41666667,6.881573992,89.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2014,S,LIBR,570,,941,Marketing in Information Organizations,Alyssa Victoria Green,27,82.81481482,3.162728095,90.0,79.0,0,0,0,0,0,0,0,,17,6,
+UBCV,2014,S,LIBR,570,,OVERALL,Marketing in Information Organizations,,27,82.81481482,3.162728095,90.0,79.0,0,0,0,0,0,0,0,,17,6,
+UBCV,2014,S,LIBR,572,,942,Information Services Consulting,Alexandra Bradley,21,85.90476191,2.188715649,91.0,82.0,0,0,0,0,0,0,0,0,,16,
+UBCV,2014,S,LIBR,572,,OVERALL,Information Services Consulting,,21,85.90476191,2.188715649,91.0,82.0,0,0,0,0,0,0,0,0,,16,
+UBCV,2014,S,LIBR,593,D,943,Seminar,,15,83.8,8.444778607,87.0,55.0,0,0,,,,,,,,12,0
+UBCV,2014,S,LIBR,593,D,OVERALL,Seminar,,16,83.1875,8.518362519,87.0,55.0,0,0,,,,,,,,12,0

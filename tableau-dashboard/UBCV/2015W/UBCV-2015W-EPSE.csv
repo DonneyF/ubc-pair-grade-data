@@ -1,160 +1,160 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,EPSE,171,,D03,Education in the Adolescent Years,Jennifer Vadeboncoeur,44,66.068181818,12.513058718,91.0,50.0,,12,,,5,,5,10,,,
-UBCV,2015,W,EPSE,171,,OVERALL,Education in the Adolescent Years,,44,66.068181818,12.513058718,91.0,50.0,,12,,,5,,5,10,,,
-UBCV,2015,W,EPSE,303,,63A,Teaching Highly Able Learners,Chih Shen Lo,20,92.75,5.270324069,99.0,78.0,,,,,,,,,,,15
-UBCV,2015,W,EPSE,303,,63B,Teaching Highly Able Learners,Chih Shen Lo,21,94.23809523799999,7.238126566,100.0,75.0,,,,,,,,,,,18
-UBCV,2015,W,EPSE,303,,OVERALL,Teaching Highly Able Learners,,41,93.51219512200001,6.321083575,100.0,75.0,,,,,,,,,,,33
-UBCV,2015,W,EPSE,312,,074,Introduction to the Study of Exceptional Children,Elizabeth Jordan,36,88.416666667,3.564707962,96.0,82.0,,,,,,,,,5,18,13
-UBCV,2015,W,EPSE,312,,075,Introduction to the Study of Exceptional Children,Sean Gaster,34,89.352941176,6.723465705,99.0,68.0,,,,,,,,,3,6,23
-UBCV,2015,W,EPSE,312,,OVERALL,Introduction to the Study of Exceptional Children,,70,88.87142857100001,5.318606739,99.0,68.0,,,,,,,,,8,24,36
-UBCV,2015,W,EPSE,316,,074,Learning Disabilities,Mary Heikkila,33,94.24242424200001,2.165500852,98.0,90.0,,,,,,,,,,,33
-UBCV,2015,W,EPSE,316,,075,Learning Disabilities,Mary Heikkila,25,94.48,1.557776193,98.0,92.0,,,,,,,,,,,25
-UBCV,2015,W,EPSE,316,,OVERALL,Learning Disabilities,,58,94.34482758600001,1.915328053,98.0,90.0,,,,,,,,,,,58
-UBCV,2015,W,EPSE,320,,076,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,93.228571429,4.976921528,99.0,78.0,,,,,,,,,,,29
-UBCV,2015,W,EPSE,320,,077,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,93.0,8.214048225,99.0,53.0,,,,,,,,,,,30
-UBCV,2015,W,EPSE,320,,OVERALL,Classroom Inclusion of Students who are Blind and Visually Impaired,,70,93.11428571399999,6.742774678,99.0,53.0,,,,,,,,,,6,59
-UBCV,2015,W,EPSE,348,,63A,Family-Centred Practice for Children with Special Needs,Elizabeth Cox,20,84.15,6.915086482,95.0,71.0,,,,,,,,,6,5,5
-UBCV,2015,W,EPSE,348,,63C,Family-Centred Practice for Children with Special Needs,Elizabeth Cox,21,80.0,10.124228366,93.0,55.0,,,,,,,,,2,7,3
-UBCV,2015,W,EPSE,348,,OVERALL,Family-Centred Practice for Children with Special Needs,,41,82.024390244,8.852931167000001,95.0,55.0,,,,,,,5,,8,12,8
-UBCV,2015,W,EPSE,390,A,63C,Special Topics,David Nicks,26,85.884615385,10.804913412000001,100.0,56.0,,,,,,,,,,5,11
-UBCV,2015,W,EPSE,390,A,OVERALL,Special Topics,,26,85.884615385,10.804913412000001,100.0,56.0,,,,,,,,,,5,11
+UBCV,2015,W,EPSE,171,,D03,Education in the Adolescent Years,Jennifer Vadeboncoeur,44,66.068181818,12.513058718,91.0,50.0,0,12,,,5,,5,10,,,
+UBCV,2015,W,EPSE,171,,OVERALL,Education in the Adolescent Years,,44,66.068181818,12.513058718,91.0,50.0,0,12,,,5,,5,10,,,
+UBCV,2015,W,EPSE,303,,63A,Teaching Highly Able Learners,Chih Shen Lo,20,92.75,5.270324069,99.0,78.0,0,0,0,0,0,0,0,,,,15
+UBCV,2015,W,EPSE,303,,63B,Teaching Highly Able Learners,Chih Shen Lo,21,94.238095238,7.238126566,100.0,75.0,0,0,0,0,0,0,,,,,18
+UBCV,2015,W,EPSE,303,,OVERALL,Teaching Highly Able Learners,,41,93.512195122,6.321083575,100.0,75.0,0,0,0,0,0,0,,,,,33
+UBCV,2015,W,EPSE,312,,074,Introduction to the Study of Exceptional Children,Elizabeth Jordan,36,88.416666667,3.564707962,96.0,82.0,0,0,0,0,0,0,0,0,5,18,13
+UBCV,2015,W,EPSE,312,,075,Introduction to the Study of Exceptional Children,Sean Gaster,34,89.352941176,6.723465705,99.0,68.0,0,0,0,0,0,,,,3,6,23
+UBCV,2015,W,EPSE,312,,OVERALL,Introduction to the Study of Exceptional Children,,70,88.871428571,5.318606739,99.0,68.0,0,0,0,0,0,,,,8,24,36
+UBCV,2015,W,EPSE,316,,074,Learning Disabilities,Mary Heikkila,33,94.242424242,2.165500852,98.0,90.0,0,0,0,0,0,0,0,0,0,0,33
+UBCV,2015,W,EPSE,316,,075,Learning Disabilities,Mary Heikkila,25,94.48,1.557776193,98.0,92.0,0,0,0,0,0,0,0,0,0,0,25
+UBCV,2015,W,EPSE,316,,OVERALL,Learning Disabilities,,58,94.344827586,1.915328053,98.0,90.0,0,0,0,0,0,0,0,0,0,0,58
+UBCV,2015,W,EPSE,320,,076,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,93.228571429,4.976921528,99.0,78.0,0,0,0,0,0,0,0,,,,29
+UBCV,2015,W,EPSE,320,,077,Classroom Inclusion of Students who are Blind and Visually Impaired,David Rathwell,35,93.0,8.214048225,99.0,53.0,0,,,,,,,,,,30
+UBCV,2015,W,EPSE,320,,OVERALL,Classroom Inclusion of Students who are Blind and Visually Impaired,,70,93.114285714,6.742774678,99.0,53.0,0,,,,,,,,,6,59
+UBCV,2015,W,EPSE,348,,63A,Family-Centred Practice for Children with Special Needs,Elizabeth Cox,20,84.15,6.915086482,95.0,71.0,0,0,0,0,0,,,,6,5,5
+UBCV,2015,W,EPSE,348,,63C,Family-Centred Practice for Children with Special Needs,Elizabeth Cox,21,80.0,10.124228366,93.0,55.0,0,0,,,,,,,2,7,3
+UBCV,2015,W,EPSE,348,,OVERALL,Family-Centred Practice for Children with Special Needs,,41,82.024390244,8.852931167,95.0,55.0,0,0,,,,,5,,8,12,8
+UBCV,2015,W,EPSE,390,A,63C,Special Topics,David Nicks,26,85.884615385,10.804913412,100.0,56.0,0,0,,,,,,,,5,11
+UBCV,2015,W,EPSE,390,A,OVERALL,Special Topics,,26,85.884615385,10.804913412,100.0,56.0,0,0,,,,,,,,5,11
 UBCV,2015,W,EPSE,403,,63A,Education of Students with Developmental Disabilities in Inclusive Settings,Diana L Wilk;Diana Wilk,39,85.384615385,21.139406187,97.0,0.0,,,,,,,,,,6,26
-UBCV,2015,W,EPSE,403,,63B,Education of Students with Developmental Disabilities in Inclusive Settings,Lara El Khatib,39,94.076923077,3.737326763,99.0,81.0,,,,,,,,,,,36
+UBCV,2015,W,EPSE,403,,63B,Education of Students with Developmental Disabilities in Inclusive Settings,Lara El Khatib,39,94.076923077,3.737326763,99.0,81.0,0,0,0,0,0,0,0,0,,,36
 UBCV,2015,W,EPSE,403,,63C,Education of Students with Developmental Disabilities in Inclusive Settings,Vicki Rothstein,40,88.175,15.592383907,99.0,0.0,,,,,,,,,6,,27
-UBCV,2015,W,EPSE,403,,OVERALL,Education of Students with Developmental Disabilities in Inclusive Settings,,118,89.20338983100001,15.615880215999999,99.0,0.0,,,,,,,,,8,12,89
-UBCV,2015,W,EPSE,406,,63A,Typical and Atypical Development in Infants and Children,Lara El Khatib,64,92.796875,6.580827582,100.0,64.0,,,,,,,,,,4,54
+UBCV,2015,W,EPSE,403,,OVERALL,Education of Students with Developmental Disabilities in Inclusive Settings,,118,89.203389831,15.615880216,99.0,0.0,,,,,,,,,8,12,89
+UBCV,2015,W,EPSE,406,,63A,Typical and Atypical Development in Infants and Children,Lara El Khatib,64,92.796875,6.580827582,100.0,64.0,0,0,0,0,,,,,,4,54
 UBCV,2015,W,EPSE,406,,63C,Typical and Atypical Development in Infants and Children,Lara El Khatib,77,92.25974026,11.843722074,100.0,29.0,,,,,,,,,,5,65
-UBCV,2015,W,EPSE,406,,OVERALL,Typical and Atypical Development in Infants and Children,,141,92.50354609899999,9.783093371,100.0,29.0,,,,,,,,,7,9,119
-UBCV,2015,W,EPSE,408,,63C,Educational Programming for Highly Able Learners,Hyekyung Lee,32,92.75,8.320204712,98.0,53.0,,,,,,,,,,2,27
-UBCV,2015,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,27,88.74074074100001,10.682813633,100.0,56.0,,,,,,,,,,5,17
-UBCV,2015,W,EPSE,408,,OVERALL,Educational Programming for Highly Able Learners,,59,90.91525423700001,9.602959557,100.0,53.0,,,,,,,,,,7,44
-UBCV,2015,W,EPSE,411,,074,Augmentative and Alternative Communication for Individuals with Severe Speech and/or Physical Impairments,Tammy Mceachern Hughes,22,95.5,3.814134115,99.0,82.0,,,,,,,,,,,21
-UBCV,2015,W,EPSE,411,,OVERALL,Augmentative and Alternative Communication for Individuals with Severe Speech and/or Physical Impairments,,22,95.5,3.814134115,99.0,82.0,,,,,,,,,,,21
-UBCV,2015,W,EPSE,415,,075,Technology for the Visually Impaired,Tami Levinson,9,95.666666667,3.840572874,100.0,88.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,415,,OVERALL,Technology for the Visually Impaired,,9,95.666666667,3.840572874,100.0,88.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,421,,073,Assessment of Learning Difficulties,Sharon Malone,19,86.263157895,5.373206215,96.0,78.0,,,,,,,,,6,6,6
-UBCV,2015,W,EPSE,421,,074,Assessment of Learning Difficulties,Laurie Ford;Mary Turri,15,92.866666667,6.06943945,97.0,76.0,,,,,,,,,1,0,13
-UBCV,2015,W,EPSE,421,,OVERALL,Assessment of Learning Difficulties,,34,89.17647058799999,6.51557848,97.0,76.0,,,,,,,,,7,6,19
-UBCV,2015,W,EPSE,431,,074,Programming for Children with Specific Learning Disabilities,Charlotte Ann Brenner;Charlotte Brenner;Nancy Perry,15,92.866666667,3.3565855669999998,98.0,86.0,,,,,,,,,,,13
-UBCV,2015,W,EPSE,431,,OVERALL,Programming for Children with Specific Learning Disabilities,,15,92.866666667,3.3565855669999998,98.0,86.0,,,,,,,,,,,13
-UBCV,2015,W,EPSE,432,,63C,Classroom Management,Ruth Ervin,24,96.208333333,3.4512652580000003,99.0,85.0,,,,,,,,,,,23
-UBCV,2015,W,EPSE,432,,OVERALL,Classroom Management,,24,96.208333333,3.4512652580000003,99.0,85.0,,,,,,,,,,,23
-UBCV,2015,W,EPSE,436,,074,Survey of Behaviour Disorders in Children and Adolescents,Kathleen Champion,32,91.90625,2.832522813,97.0,85.0,,,,,,,,,,6,26
-UBCV,2015,W,EPSE,436,,OVERALL,Survey of Behaviour Disorders in Children and Adolescents,,32,91.90625,2.832522813,97.0,85.0,,,,,,,,,,6,26
-UBCV,2015,W,EPSE,437,,074,Interventions for Children and Adolescents with Behaviour Disorders,Preetinder Narang,25,83.28,7.2830854270000005,93.0,61.0,,,,,,,,,7,7,6
-UBCV,2015,W,EPSE,437,,OVERALL,Interventions for Children and Adolescents with Behaviour Disorders,,25,83.28,7.2830854270000005,93.0,61.0,,,,,,,,,7,7,6
-UBCV,2015,W,EPSE,449,,074,Education of Students with Autism,Miriam Elfert,25,88.16,7.940822795,98.0,62.0,,,,,,,,,,3,15
-UBCV,2015,W,EPSE,449,,63A,Education of Students with Autism,Lara El Khatib,69,92.594202899,6.852047441,100.0,61.0,,,,,,,,,,9,55
+UBCV,2015,W,EPSE,406,,OVERALL,Typical and Atypical Development in Infants and Children,,141,92.503546099,9.783093371,100.0,29.0,,,,,,,,,7,9,119
+UBCV,2015,W,EPSE,408,,63C,Educational Programming for Highly Able Learners,Hyekyung Lee,32,92.75,8.320204712,98.0,53.0,0,,,,,,,,,2,27
+UBCV,2015,W,EPSE,408,,63D,Educational Programming for Highly Able Learners,Kristi Lauridsen,27,88.740740741,10.682813633,100.0,56.0,0,0,,,,,,,,5,17
+UBCV,2015,W,EPSE,408,,OVERALL,Educational Programming for Highly Able Learners,,59,90.915254237,9.602959557,100.0,53.0,0,,,,,,,,,7,44
+UBCV,2015,W,EPSE,411,,074,Augmentative and Alternative Communication for Individuals with Severe Speech and/or Physical Impairments,Tammy Mceachern Hughes,22,95.5,3.814134115,99.0,82.0,0,0,0,0,0,0,0,0,,,21
+UBCV,2015,W,EPSE,411,,OVERALL,Augmentative and Alternative Communication for Individuals with Severe Speech and/or Physical Impairments,,22,95.5,3.814134115,99.0,82.0,0,0,0,0,0,0,0,0,,,21
+UBCV,2015,W,EPSE,415,,075,Technology for the Visually Impaired,Tami Levinson,9,95.666666667,3.840572874,100.0,88.0,0,0,0,0,0,0,0,0,0,1.0,8
+UBCV,2015,W,EPSE,415,,OVERALL,Technology for the Visually Impaired,,9,95.666666667,3.840572874,100.0,88.0,0,0,0,0,0,0,0,0,0,1.0,8
+UBCV,2015,W,EPSE,421,,073,Assessment of Learning Difficulties,Sharon Malone,19,86.263157895,5.373206215,96.0,78.0,0,0,0,0,0,0,0,1.0,6,6,6
+UBCV,2015,W,EPSE,421,,074,Assessment of Learning Difficulties,Laurie Ford;Mary Turri,15,92.866666667,6.06943945,97.0,76.0,0,0,0,0,0,0,0,1.0,1,0,13
+UBCV,2015,W,EPSE,421,,OVERALL,Assessment of Learning Difficulties,,34,89.176470588,6.51557848,97.0,76.0,0,0,0,0,0,0,0,2.0,7,6,19
+UBCV,2015,W,EPSE,431,,074,Programming for Children with Specific Learning Disabilities,Charlotte Ann Brenner;Charlotte Brenner;Nancy Perry,15,92.866666667,3.356585567,98.0,86.0,0,0,0,0,0,0,0,0,0,2.0,13
+UBCV,2015,W,EPSE,431,,OVERALL,Programming for Children with Specific Learning Disabilities,,15,92.866666667,3.356585567,98.0,86.0,0,0,0,0,0,0,0,0,0,2.0,13
+UBCV,2015,W,EPSE,432,,63C,Classroom Management,Ruth Ervin,24,96.208333333,3.451265258,99.0,85.0,0,0,0,0,0,0,0,0,0,1.0,23
+UBCV,2015,W,EPSE,432,,OVERALL,Classroom Management,,24,96.208333333,3.451265258,99.0,85.0,0,0,0,0,0,0,0,0,0,1.0,23
+UBCV,2015,W,EPSE,436,,074,Survey of Behaviour Disorders in Children and Adolescents,Kathleen Champion,32,91.90625,2.832522813,97.0,85.0,0,0,0,0,0,0,0,0,0,6,26
+UBCV,2015,W,EPSE,436,,OVERALL,Survey of Behaviour Disorders in Children and Adolescents,,32,91.90625,2.832522813,97.0,85.0,0,0,0,0,0,0,0,0,0,6,26
+UBCV,2015,W,EPSE,437,,074,Interventions for Children and Adolescents with Behaviour Disorders,Preetinder Narang,25,83.28,7.283085427,93.0,61.0,0,0,0,,,,,,7,7,6
+UBCV,2015,W,EPSE,437,,OVERALL,Interventions for Children and Adolescents with Behaviour Disorders,,25,83.28,7.283085427,93.0,61.0,0,0,0,,,,,,7,7,6
+UBCV,2015,W,EPSE,449,,074,Education of Students with Autism,Miriam Elfert,25,88.16,7.940822795,98.0,62.0,0,0,0,,,,,,,3,15
+UBCV,2015,W,EPSE,449,,63A,Education of Students with Autism,Lara El Khatib,69,92.594202899,6.852047441,100.0,61.0,0,0,0,,,,,,,9,55
 UBCV,2015,W,EPSE,449,,63C,Education of Students with Autism,Lara El Khatib,92,92.869565217,8.143246904,99.0,37.0,,,,,,,,,,7,79
-UBCV,2015,W,EPSE,449,,OVERALL,Education of Students with Autism,,186,92.13440860200001,7.7806550770000005,100.0,37.0,,,,,,,,6,6,19,149
-UBCV,2015,W,EPSE,481,,074,Introduction to Research in Education,Bozena Zdaniuk,6,85.0,11.798304963,96.0,63.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,481,,OVERALL,Introduction to Research in Education,,6,85.0,11.798304963,96.0,63.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,482,,074,Introduction to Statistics for Research in Education,Bozena Zdaniuk,15,81.866666667,10.855325662,94.0,52.0,,,,,,,,,,4,4
-UBCV,2015,W,EPSE,482,,075,Introduction to Statistics for Research in Education,Bozena Zdaniuk,19,84.473684211,9.179496604,96.0,62.0,,,,,,,,,,6,6
-UBCV,2015,W,EPSE,482,,OVERALL,Introduction to Statistics for Research in Education,,34,83.323529412,9.883321084,96.0,52.0,,,,,,,,,,10,10
-UBCV,2015,W,EPSE,501,,074,"Seminar in Human Development, Learning and Culture",Martin Guhn,19,88.57894736799999,7.748231264,97.0,73.0,,,,,,,,,,,11
-UBCV,2015,W,EPSE,501,,OVERALL,"Seminar in Human Development, Learning and Culture",,19,88.57894736799999,7.748231264,97.0,73.0,,,,,,,,,,,11
-UBCV,2015,W,EPSE,502,,61A,"Cognition, Language and Literacy Processes in Education",Nancy Perry,20,92.7,3.010507913,98.0,86.0,,,,,,,,,,,18
-UBCV,2015,W,EPSE,502,,OVERALL,"Cognition, Language and Literacy Processes in Education",,20,92.7,3.010507913,98.0,86.0,,,,,,,,,,,18
-UBCV,2015,W,EPSE,503,,075,"Cultural Perspectives on Learning, Development and Media",Jennifer Vadeboncoeur,11,87.818181818,3.572623177,94.0,82.0,,,,,,,,,,5,
-UBCV,2015,W,EPSE,503,,OVERALL,"Cultural Perspectives on Learning, Development and Media",,11,87.818181818,3.572623177,94.0,82.0,,,,,,,,,,5,
-UBCV,2015,W,EPSE,505,,075,Foundations in Human Development: Infancy to Adulthood,Lina Darwich,12,89.833333333,3.9962103260000004,96.0,84.0,,,,,,,,,,,7
-UBCV,2015,W,EPSE,505,,62A,Foundations in Human Development: Infancy to Adulthood,Lina Darwich,20,92.25,2.403396719,96.0,88.0,,,,,,,,,,,18
-UBCV,2015,W,EPSE,505,,OVERALL,Foundations in Human Development: Infancy to Adulthood,,32,91.34375,3.258827961,96.0,84.0,,,,,,,,,,5,25
-UBCV,2015,W,EPSE,507,,074,Applied Child and Adolescent Psychopathology,Serge Lacroix,11,90.27272727299999,2.2843339990000002,93.0,86.0,,,,,,,,,,,7
-UBCV,2015,W,EPSE,507,,OVERALL,Applied Child and Adolescent Psychopathology,,11,90.27272727299999,2.2843339990000002,93.0,86.0,,,,,,,,,,,7
-UBCV,2015,W,EPSE,512,,074,Critical Issues in Special Education,Elizabeth Jordan,12,92.166666667,4.569331228999999,97.0,81.0,,,,,,,,,,,9
-UBCV,2015,W,EPSE,512,,63C,Critical Issues in Special Education,Kathleen Champion,12,93.333333333,6.651497895,99.0,76.0,,,,,,,,,,,9
-UBCV,2015,W,EPSE,512,,OVERALL,Critical Issues in Special Education,,24,92.75,5.61248608,99.0,76.0,,,,,,,,,,,18
-UBCV,2015,W,EPSE,515,A,075,Seminar in Behaviour Disorders,Joseph Lucyshyn,12,83.916666667,6.067174471,94.0,74.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,515,A,OVERALL,Seminar in Behaviour Disorders,,12,83.916666667,6.067174471,94.0,74.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,516,,074,Seminar in the Development and Education of Highly Able and Creative Learners,Chih Shen Lo,5,88.4,3.9115214430000003,92.0,83.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,516,,OVERALL,Seminar in the Development and Education of Highly Able and Creative Learners,,5,88.4,3.9115214430000003,92.0,83.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,519,,074,Development of English Language Skills of Deaf and Hard of Hearing Students,Joanna Cannon,10,87.8,12.227473619000001,97.0,56.0,,,,,,,,,,,7
-UBCV,2015,W,EPSE,519,,OVERALL,Development of English Language Skills of Deaf and Hard of Hearing Students,,10,87.8,12.227473619000001,97.0,56.0,,,,,,,,,,,7
-UBCV,2015,W,EPSE,520,,075,Curriculum Development in the Education of Deaf and Hard of Hearing Students,Joanna Cannon,8,92.25,3.845219667,97.0,87.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,520,,OVERALL,Curriculum Development in the Education of Deaf and Hard of Hearing Students,,8,92.25,3.845219667,97.0,87.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,525,,074,Studies in Sign Language,Debra Russell;Joe Mclaughlin,10,87.8,8.430104784,97.0,72.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,525,,OVERALL,Studies in Sign Language,,10,87.8,8.430104784,97.0,72.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,526,,074,Seminar in Specific Learning Disabilities,Theresa Andreou,9,93.555555556,1.333333333,95.0,91.0,,,,,,,,,,,9
-UBCV,2015,W,EPSE,526,,OVERALL,Seminar in Specific Learning Disabilities,,9,93.555555556,1.333333333,95.0,91.0,,,,,,,,,,,9
-UBCV,2015,W,EPSE,528,,074,Basic Principles of Measurement,Anita Hubley,6,86.0,9.16515139,95.0,71.0,,,,,,,,,,,3
-UBCV,2015,W,EPSE,528,,075,Basic Principles of Measurement,Anita Hubley,14,90.35714285700001,6.428388276000001,98.0,76.0,,,,,,,,,,,10
-UBCV,2015,W,EPSE,528,,OVERALL,Basic Principles of Measurement,,20,89.05,7.387578479,98.0,71.0,,,,,,,,,,,13
-UBCV,2015,W,EPSE,531,,090,Curriculum-Based Assessment and Intervention,Sterett Mercer,13,90.923076923,5.780160587,98.0,77.0,,,,,,,,,,,11
-UBCV,2015,W,EPSE,531,,OVERALL,Curriculum-Based Assessment and Intervention,,13,90.923076923,5.780160587,98.0,77.0,,,,,,,,,,,11
-UBCV,2015,W,EPSE,534,,075,Academic Assessment in Schools,Rachel Weber,13,91.30769230799999,4.553105448999999,95.0,80.0,,,,,,,,,,,10
-UBCV,2015,W,EPSE,534,,076,Academic Assessment in Schools,Serge Lacroix,8,90.5,4.65985898,96.0,82.0,,,,,,,,,,,5
-UBCV,2015,W,EPSE,534,,OVERALL,Academic Assessment in Schools,,21,91.0,4.494441011,96.0,80.0,,,,,,,,,,,15
-UBCV,2015,W,EPSE,535,,075,Social and Emotional Assessment in Schools,Thomas Motl,12,92.833333333,1.749458791,97.0,90.0,,,,,,,,,,,12
-UBCV,2015,W,EPSE,535,,OVERALL,Social and Emotional Assessment in Schools,,12,92.833333333,1.749458791,97.0,90.0,,,,,,,,,,,12
-UBCV,2015,W,EPSE,536,,074,Foundations of Education for Students with Visual Impairments,Tami Levinson,11,89.181818182,3.736794932,94.0,82.0,,,,,,,,,,5,5
-UBCV,2015,W,EPSE,536,,OVERALL,Foundations of Education for Students with Visual Impairments,,11,89.181818182,3.736794932,94.0,82.0,,,,,,,,,,5,5
-UBCV,2015,W,EPSE,545,,075,Teaching Independent Living Skills to Students with Visual Impairments,Tami Levinson,9,94.666666667,4.5,99.0,85.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,545,,OVERALL,Teaching Independent Living Skills to Students with Visual Impairments,,9,94.666666667,4.5,99.0,85.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,549,,074,Seminar in Autism,Pat Mirenda,14,89.5,5.445534515,96.0,79.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,549,,OVERALL,Seminar in Autism,,14,89.5,5.445534515,96.0,79.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,550,,074,"Professional, Ethical and Legal Issues in School Psychology",Serge Lacroix,10,85.5,12.204279759,94.0,52.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,550,,OVERALL,"Professional, Ethical and Legal Issues in School Psychology",,10,85.5,12.204279759,94.0,52.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,551,A,074,School-based Consultation,Allison Cloth;Lee Paul Gunderson,11,88.818181818,5.913005696,97.0,79.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,551,A,OVERALL,School-based Consultation,,11,88.818181818,5.913005696,97.0,79.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,552,A,074,School-Based Interventions,Allison Cloth;Lee Paul Gunderson,8,91.0,3.545621042,97.0,87.0,,,,,,,,,,,5
-UBCV,2015,W,EPSE,552,A,OVERALL,School-Based Interventions,,8,91.0,3.545621042,97.0,87.0,,,,,,,,,,,5
-UBCV,2015,W,EPSE,553,,074,Theories of Cognitive Assessment,Laurie Ford,11,91.454545455,3.2669140289999996,98.0,88.0,,,,,,,,,,5,6
-UBCV,2015,W,EPSE,553,,OVERALL,Theories of Cognitive Assessment,,11,91.454545455,3.2669140289999996,98.0,88.0,,,,,,,,,,5,6
-UBCV,2015,W,EPSE,561,F,074,Laboratory Practicum,Serge Lacroix,6,89.0,2.097617696,91.0,86.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,561,F,OVERALL,Laboratory Practicum,,6,89.0,2.097617696,91.0,86.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,561,H,074,Laboratory Practicum,Lina Darwich,8,96.0,2.390457219,98.0,91.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,561,H,OVERALL,Laboratory Practicum,,8,96.0,2.390457219,98.0,91.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,565,A,075,Special Course in Subject Matter Field,Margaret Frances Choinski,9,95.77777777799999,2.43812314,99.0,91.0,,,,,,,,,,,9
-UBCV,2015,W,EPSE,565,A,OVERALL,Special Course in Subject Matter Field,,9,95.77777777799999,2.43812314,99.0,91.0,,,,,,,,,,,9
-UBCV,2015,W,EPSE,565,E,074,Special Course in Subject Matter Field,Shawna Faber,9,89.333333333,3.840572874,94.0,80.0,,,,,,,,,,,5
-UBCV,2015,W,EPSE,565,E,OVERALL,Special Course in Subject Matter Field,,9,89.333333333,3.840572874,94.0,80.0,,,,,,,,,,,5
-UBCV,2015,W,EPSE,565,R,075,Special Course in Subject Matter Field,Deborah Butler,14,91.428571429,2.593313465,96.0,88.0,,,,,,,,,,,10
-UBCV,2015,W,EPSE,565,R,OVERALL,Special Course in Subject Matter Field,,14,91.428571429,2.593313465,96.0,88.0,,,,,,,,,,,10
-UBCV,2015,W,EPSE,568,,075,Applied Developmental Neuropsychology,Rachel Weber,8,94.125,4.12093956,98.0,85.0,,,,,,,,,,,7
-UBCV,2015,W,EPSE,568,,OVERALL,Applied Developmental Neuropsychology,,8,94.125,4.12093956,98.0,85.0,,,,,,,,,,,7
-UBCV,2015,W,EPSE,569,,074,Social Psychological Foundations in Applied Psychology,Sterett Mercer,12,92.916666667,4.621261798,99.0,85.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,569,,OVERALL,Social Psychological Foundations in Applied Psychology,,12,92.916666667,4.621261798,99.0,85.0,,,,,,,,,,,8
+UBCV,2015,W,EPSE,449,,OVERALL,Education of Students with Autism,,186,92.134408602,7.780655077,100.0,37.0,,,,,,,,6,6,19,149
+UBCV,2015,W,EPSE,481,,074,Introduction to Research in Education,Bozena Zdaniuk,6,85.0,11.798304963,96.0,63.0,0,0,0,,,,,,,,
+UBCV,2015,W,EPSE,481,,OVERALL,Introduction to Research in Education,,6,85.0,11.798304963,96.0,63.0,0,0,0,,,,,,,,
+UBCV,2015,W,EPSE,482,,074,Introduction to Statistics for Research in Education,Bozena Zdaniuk,15,81.866666667,10.855325662,94.0,52.0,0,,,,,,,,,4,4
+UBCV,2015,W,EPSE,482,,075,Introduction to Statistics for Research in Education,Bozena Zdaniuk,19,84.473684211,9.179496604,96.0,62.0,0,0,0,,,,,,,6,6
+UBCV,2015,W,EPSE,482,,OVERALL,Introduction to Statistics for Research in Education,,34,83.323529412,9.883321084,96.0,52.0,0,,,,,,,,,10,10
+UBCV,2015,W,EPSE,501,,074,"Seminar in Human Development, Learning and Culture",Martin Guhn,19,88.578947368,7.748231264,97.0,73.0,0,0,0,0,0,0,,,,,11
+UBCV,2015,W,EPSE,501,,OVERALL,"Seminar in Human Development, Learning and Culture",,19,88.578947368,7.748231264,97.0,73.0,0,0,0,0,0,0,,,,,11
+UBCV,2015,W,EPSE,502,,61A,"Cognition, Language and Literacy Processes in Education",Nancy Perry,20,92.7,3.010507913,98.0,86.0,0,0,0,0,0,0,0,0,0,2.0,18
+UBCV,2015,W,EPSE,502,,OVERALL,"Cognition, Language and Literacy Processes in Education",,20,92.7,3.010507913,98.0,86.0,0,0,0,0,0,0,0,0,0,2.0,18
+UBCV,2015,W,EPSE,503,,075,"Cultural Perspectives on Learning, Development and Media",Jennifer Vadeboncoeur,11,87.818181818,3.572623177,94.0,82.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2015,W,EPSE,503,,OVERALL,"Cultural Perspectives on Learning, Development and Media",,11,87.818181818,3.572623177,94.0,82.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2015,W,EPSE,505,,075,Foundations in Human Development: Infancy to Adulthood,Lina Darwich,12,89.833333333,3.996210326,96.0,84.0,0,0,0,0,0,0,0,0,2.0,3.0,7
+UBCV,2015,W,EPSE,505,,62A,Foundations in Human Development: Infancy to Adulthood,Lina Darwich,20,92.25,2.403396719,96.0,88.0,0,0,0,0,0,0,0,0,0,2.0,18
+UBCV,2015,W,EPSE,505,,OVERALL,Foundations in Human Development: Infancy to Adulthood,,32,91.34375,3.258827961,96.0,84.0,0,0,0,0,0,0,0,0,2.0,5,25
+UBCV,2015,W,EPSE,507,,074,Applied Child and Adolescent Psychopathology,Serge Lacroix,11,90.272727273,2.284333999,93.0,86.0,0,0,0,0,0,0,0,0,0,4.0,7
+UBCV,2015,W,EPSE,507,,OVERALL,Applied Child and Adolescent Psychopathology,,11,90.272727273,2.284333999,93.0,86.0,0,0,0,0,0,0,0,0,0,4.0,7
+UBCV,2015,W,EPSE,512,,074,Critical Issues in Special Education,Elizabeth Jordan,12,92.166666667,4.569331229,97.0,81.0,0,0,0,0,0,0,0,0,,,9
+UBCV,2015,W,EPSE,512,,63C,Critical Issues in Special Education,Kathleen Champion,12,93.333333333,6.651497895,99.0,76.0,0,0,0,0,0,0,0,,,,9
+UBCV,2015,W,EPSE,512,,OVERALL,Critical Issues in Special Education,,24,92.75,5.61248608,99.0,76.0,0,0,0,0,0,0,0,,,,18
+UBCV,2015,W,EPSE,515,A,075,Seminar in Behaviour Disorders,Joseph Lucyshyn,12,83.916666667,6.067174471,94.0,74.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,EPSE,515,A,OVERALL,Seminar in Behaviour Disorders,,12,83.916666667,6.067174471,94.0,74.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,EPSE,516,,074,Seminar in the Development and Education of Highly Able and Creative Learners,Chih Shen Lo,5,88.4,3.911521443,92.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,EPSE,516,,OVERALL,Seminar in the Development and Education of Highly Able and Creative Learners,,5,88.4,3.911521443,92.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,EPSE,519,,074,Development of English Language Skills of Deaf and Hard of Hearing Students,Joanna Cannon,10,87.8,12.227473619,97.0,56.0,0,0,,,,,,,,,7
+UBCV,2015,W,EPSE,519,,OVERALL,Development of English Language Skills of Deaf and Hard of Hearing Students,,10,87.8,12.227473619,97.0,56.0,0,0,,,,,,,,,7
+UBCV,2015,W,EPSE,520,,075,Curriculum Development in the Education of Deaf and Hard of Hearing Students,Joanna Cannon,8,92.25,3.845219667,97.0,87.0,0,0,0,0,0,0,0,0,0,2.0,6
+UBCV,2015,W,EPSE,520,,OVERALL,Curriculum Development in the Education of Deaf and Hard of Hearing Students,,8,92.25,3.845219667,97.0,87.0,0,0,0,0,0,0,0,0,0,2.0,6
+UBCV,2015,W,EPSE,525,,074,Studies in Sign Language,Debra Russell;Joe Mclaughlin,10,87.8,8.430104784,97.0,72.0,0,0,0,0,0,0,,,,,6
+UBCV,2015,W,EPSE,525,,OVERALL,Studies in Sign Language,,10,87.8,8.430104784,97.0,72.0,0,0,0,0,0,0,,,,,6
+UBCV,2015,W,EPSE,526,,074,Seminar in Specific Learning Disabilities,Theresa Andreou,9,93.555555556,1.333333333,95.0,91.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2015,W,EPSE,526,,OVERALL,Seminar in Specific Learning Disabilities,,9,93.555555556,1.333333333,95.0,91.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2015,W,EPSE,528,,074,Basic Principles of Measurement,Anita Hubley,6,86.0,9.16515139,95.0,71.0,0,0,0,0,0,,,,,,3
+UBCV,2015,W,EPSE,528,,075,Basic Principles of Measurement,Anita Hubley,14,90.357142857,6.428388276,98.0,76.0,0,0,0,0,0,0,0,,,,10
+UBCV,2015,W,EPSE,528,,OVERALL,Basic Principles of Measurement,,20,89.05,7.387578479,98.0,71.0,0,0,0,0,0,,,,,,13
+UBCV,2015,W,EPSE,531,,090,Curriculum-Based Assessment and Intervention,Sterett Mercer,13,90.923076923,5.780160587,98.0,77.0,0,0,0,0,0,0,0,,,,11
+UBCV,2015,W,EPSE,531,,OVERALL,Curriculum-Based Assessment and Intervention,,13,90.923076923,5.780160587,98.0,77.0,0,0,0,0,0,0,0,,,,11
+UBCV,2015,W,EPSE,534,,075,Academic Assessment in Schools,Rachel Weber,13,91.307692308,4.553105449,95.0,80.0,0,0,0,0,0,0,0,0,,,10
+UBCV,2015,W,EPSE,534,,076,Academic Assessment in Schools,Serge Lacroix,8,90.5,4.65985898,96.0,82.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,EPSE,534,,OVERALL,Academic Assessment in Schools,,21,91.0,4.494441011,96.0,80.0,0,0,0,0,0,0,0,0,,,15
+UBCV,2015,W,EPSE,535,,075,Social and Emotional Assessment in Schools,Thomas Motl,12,92.833333333,1.749458791,97.0,90.0,0,0,0,0,0,0,0,0,0,0,12
+UBCV,2015,W,EPSE,535,,OVERALL,Social and Emotional Assessment in Schools,,12,92.833333333,1.749458791,97.0,90.0,0,0,0,0,0,0,0,0,0,0,12
+UBCV,2015,W,EPSE,536,,074,Foundations of Education for Students with Visual Impairments,Tami Levinson,11,89.181818182,3.736794932,94.0,82.0,0,0,0,0,0,0,0,0,1.0,5,5
+UBCV,2015,W,EPSE,536,,OVERALL,Foundations of Education for Students with Visual Impairments,,11,89.181818182,3.736794932,94.0,82.0,0,0,0,0,0,0,0,0,1.0,5,5
+UBCV,2015,W,EPSE,545,,075,Teaching Independent Living Skills to Students with Visual Impairments,Tami Levinson,9,94.666666667,4.5,99.0,85.0,0,0,0,0,0,0,0,0,0,1.0,8
+UBCV,2015,W,EPSE,545,,OVERALL,Teaching Independent Living Skills to Students with Visual Impairments,,9,94.666666667,4.5,99.0,85.0,0,0,0,0,0,0,0,0,0,1.0,8
+UBCV,2015,W,EPSE,549,,074,Seminar in Autism,Pat Mirenda,14,89.5,5.445534515,96.0,79.0,0,0,0,0,0,0,0,,,,8
+UBCV,2015,W,EPSE,549,,OVERALL,Seminar in Autism,,14,89.5,5.445534515,96.0,79.0,0,0,0,0,0,0,0,,,,8
+UBCV,2015,W,EPSE,550,,074,"Professional, Ethical and Legal Issues in School Psychology",Serge Lacroix,10,85.5,12.204279759,94.0,52.0,0,,,,,,,,,,
+UBCV,2015,W,EPSE,550,,OVERALL,"Professional, Ethical and Legal Issues in School Psychology",,10,85.5,12.204279759,94.0,52.0,0,,,,,,,,,,
+UBCV,2015,W,EPSE,551,A,074,School-based Consultation,Allison Cloth;Lee Paul Gunderson,11,88.818181818,5.913005696,97.0,79.0,0,0,0,0,0,0,0,,,,6
+UBCV,2015,W,EPSE,551,A,OVERALL,School-based Consultation,,11,88.818181818,5.913005696,97.0,79.0,0,0,0,0,0,0,0,,,,6
+UBCV,2015,W,EPSE,552,A,074,School-Based Interventions,Allison Cloth;Lee Paul Gunderson,8,91.0,3.545621042,97.0,87.0,0,0,0,0,0,0,0,0,0,3.0,5
+UBCV,2015,W,EPSE,552,A,OVERALL,School-Based Interventions,,8,91.0,3.545621042,97.0,87.0,0,0,0,0,0,0,0,0,0,3.0,5
+UBCV,2015,W,EPSE,553,,074,Theories of Cognitive Assessment,Laurie Ford,11,91.454545455,3.266914029,98.0,88.0,0,0,0,0,0,0,0,0,0,5,6
+UBCV,2015,W,EPSE,553,,OVERALL,Theories of Cognitive Assessment,,11,91.454545455,3.266914029,98.0,88.0,0,0,0,0,0,0,0,0,0,5,6
+UBCV,2015,W,EPSE,561,F,074,Laboratory Practicum,Serge Lacroix,6,89.0,2.097617696,91.0,86.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,EPSE,561,F,OVERALL,Laboratory Practicum,,6,89.0,2.097617696,91.0,86.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,EPSE,561,H,074,Laboratory Practicum,Lina Darwich,8,96.0,2.390457219,98.0,91.0,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2015,W,EPSE,561,H,OVERALL,Laboratory Practicum,,8,96.0,2.390457219,98.0,91.0,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2015,W,EPSE,565,A,075,Special Course in Subject Matter Field,Margaret Frances Choinski,9,95.777777778,2.43812314,99.0,91.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2015,W,EPSE,565,A,OVERALL,Special Course in Subject Matter Field,,9,95.777777778,2.43812314,99.0,91.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2015,W,EPSE,565,E,074,Special Course in Subject Matter Field,Shawna Faber,9,89.333333333,3.840572874,94.0,80.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,EPSE,565,E,OVERALL,Special Course in Subject Matter Field,,9,89.333333333,3.840572874,94.0,80.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,EPSE,565,R,075,Special Course in Subject Matter Field,Deborah Butler,14,91.428571429,2.593313465,96.0,88.0,0,0,0,0,0,0,0,0,0,4.0,10
+UBCV,2015,W,EPSE,565,R,OVERALL,Special Course in Subject Matter Field,,14,91.428571429,2.593313465,96.0,88.0,0,0,0,0,0,0,0,0,0,4.0,10
+UBCV,2015,W,EPSE,568,,075,Applied Developmental Neuropsychology,Rachel Weber,8,94.125,4.12093956,98.0,85.0,0,0,0,0,0,0,0,0,0,1.0,7
+UBCV,2015,W,EPSE,568,,OVERALL,Applied Developmental Neuropsychology,,8,94.125,4.12093956,98.0,85.0,0,0,0,0,0,0,0,0,0,1.0,7
+UBCV,2015,W,EPSE,569,,074,Social Psychological Foundations in Applied Psychology,Sterett Mercer,12,92.916666667,4.621261798,99.0,85.0,0,0,0,0,0,0,0,0,0,4.0,8
+UBCV,2015,W,EPSE,569,,OVERALL,Social Psychological Foundations in Applied Psychology,,12,92.916666667,4.621261798,99.0,85.0,0,0,0,0,0,0,0,0,0,4.0,8
 UBCV,2015,W,EPSE,574,,074,Principles of Behaviour Analysis,Pat Mirenda,22,78.954545455,18.640655192,91.0,0.0,,,,,,,,,,11,
 UBCV,2015,W,EPSE,574,,OVERALL,Principles of Behaviour Analysis,,22,78.954545455,18.640655192,91.0,0.0,,,,,,,,,,11,
-UBCV,2015,W,EPSE,575,,074,Seminar in Instructional Methods for Persons with Significant Learning Challenges,Pat Mirenda,16,91.5,3.011090611,95.0,82.0,,,,,,,,,,,14
-UBCV,2015,W,EPSE,575,,OVERALL,Seminar in Instructional Methods for Persons with Significant Learning Challenges,,16,91.5,3.011090611,95.0,82.0,,,,,,,,,,,14
-UBCV,2015,W,EPSE,576,,074,Assessment and Positive Behaviour Support in School and Community Settings,Brenda Fossett;Brenda L Fossett,25,83.68,7.442669772,92.0,61.0,,,,,,,,,6,12,
-UBCV,2015,W,EPSE,576,,OVERALL,Assessment and Positive Behaviour Support in School and Community Settings,,25,83.68,7.442669772,92.0,61.0,,,,,,,,,6,12,
-UBCV,2015,W,EPSE,577,,075,Seminar in Assessment and Positive Behaviour Support in School and Community Settings,Joseph Lucyshyn,19,85.684210526,4.899576303,93.0,76.0,,,,,,,,,8,,7
-UBCV,2015,W,EPSE,577,,OVERALL,Seminar in Assessment and Positive Behaviour Support in School and Community Settings,,19,85.684210526,4.899576303,93.0,76.0,,,,,,,,,8,,7
-UBCV,2015,W,EPSE,580,A,074,Investigation and Report of a Problem in Education,,5,94.2,3.271085447,98.0,90.0,,,,,,,,,,,5
-UBCV,2015,W,EPSE,580,A,OVERALL,Investigation and Report of a Problem in Education,,7,94.85714285700001,3.0237157839999997,98.0,90.0,,,,,,,,,,,7
-UBCV,2015,W,EPSE,584,,074,Motivation in Education,Shelley Hymel,18,84.833333333,4.730999148,94.0,78.0,,,,,,,,,6,5,
-UBCV,2015,W,EPSE,584,,OVERALL,Motivation in Education,,18,84.833333333,4.730999148,94.0,78.0,,,,,,,,,6,5,
-UBCV,2015,W,EPSE,586,,074,Analyzing Discourse and Talk: An Overview of Methods,Jennifer Vadeboncoeur,5,91.2,1.923538406,93.0,88.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,586,,OVERALL,Analyzing Discourse and Talk: An Overview of Methods,,5,91.2,1.923538406,93.0,88.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,591,,075,Theory and Practice of Program Evaluation,Sandra Mathison,10,87.8,6.442911695,100.0,78.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,591,,OVERALL,Theory and Practice of Program Evaluation,,10,87.8,6.442911695,100.0,78.0,,,,,,,,,,,
-UBCV,2015,W,EPSE,592,,074,Experimental Designs and Analysis in Educational Research,Amery Wu,19,92.42105263200001,4.246773801000001,97.0,84.0,,,,,,,,,,,15
-UBCV,2015,W,EPSE,592,,075,Experimental Designs and Analysis in Educational Research,Thomas Motl,18,92.833333333,6.964194139,100.0,70.0,,,,,,,,,,,16
-UBCV,2015,W,EPSE,592,,090,Experimental Designs and Analysis in Educational Research,Amery Wu,13,94.846153846,2.192645048,98.0,91.0,,,,,,,,,,,13
-UBCV,2015,W,EPSE,592,,OVERALL,Experimental Designs and Analysis in Educational Research,,50,93.2,5.062870042,100.0,70.0,,,,,,,,,,,44
-UBCV,2015,W,EPSE,593,,074,Design and Analysis of Research with Small Samples and Single Subjects,Joseph Lucyshyn,17,87.17647058799999,4.530939391,93.0,79.0,,,,,,,,,,7,6
-UBCV,2015,W,EPSE,593,,OVERALL,Design and Analysis of Research with Small Samples and Single Subjects,,17,87.17647058799999,4.530939391,93.0,79.0,,,,,,,,,,7,6
-UBCV,2015,W,EPSE,595,,074,Qualitative Research Methods,Sandra Mathison,19,86.473684211,6.354074992,96.0,75.0,,,,,,,,,5,6,6
-UBCV,2015,W,EPSE,595,,075,Qualitative Research Methods,Sandra Mathison,14,83.928571429,7.021552377999999,96.0,69.0,,,,,,,,,1,7,2
-UBCV,2015,W,EPSE,595,,OVERALL,Qualitative Research Methods,,33,85.393939394,6.661171978,96.0,69.0,,,,,,,,,6,13,8
-UBCV,2015,W,EPSE,596,,074,Correlational Designs and Analysis in Educational Research,Amery Wu,17,94.17647058799999,1.50977209,97.0,91.0,,,,,,,,,,,17
-UBCV,2015,W,EPSE,596,,090,Correlational Designs and Analysis in Educational Research,Sterett Mercer,15,86.4,7.375635566000001,97.0,72.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,596,,OVERALL,Correlational Designs and Analysis in Educational Research,,32,90.53125,6.425676191,97.0,72.0,,,,,,,,,,,23
-UBCV,2015,W,EPSE,604,A,075,"Advanced Topics in Human Development, Learning, and Culture",Laurie Ford,7,92.85714285700001,4.670066789,98.0,85.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,604,A,OVERALL,"Advanced Topics in Human Development, Learning, and Culture",,7,92.85714285700001,4.670066789,98.0,85.0,,,,,,,,,,,6
-UBCV,2015,W,EPSE,604,B,074,"Advanced Topics in Human Development, Learning, and Culture",Barbara Weber,8,95.0,1.309307341,97.0,94.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,604,B,OVERALL,"Advanced Topics in Human Development, Learning, and Culture",,8,95.0,1.309307341,97.0,94.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,606,,075,College and University Teaching,Barbara Weber,11,93.909090909,1.921173884,96.0,90.0,,,,,,,,,,,11
-UBCV,2015,W,EPSE,606,,OVERALL,College and University Teaching,,11,93.909090909,1.921173884,96.0,90.0,,,,,,,,,,,11
-UBCV,2015,W,EPSE,681,B,074,"Advanced Topics in Measurement, Evaluation, and Research",Sandra Mathison,9,96.666666667,5.5901699439999994,100.0,85.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,681,B,OVERALL,"Advanced Topics in Measurement, Evaluation, and Research",,9,96.666666667,5.5901699439999994,100.0,85.0,,,,,,,,,,,8
-UBCV,2015,W,EPSE,682,,075,Multivariate Designs and Analysis in Educational Research,Bruno Zumbo,17,94.470588235,2.896498901,98.0,88.0,,,,,,,,,,,15
-UBCV,2015,W,EPSE,682,,OVERALL,Multivariate Designs and Analysis in Educational Research,,17,94.470588235,2.896498901,98.0,88.0,,,,,,,,,,,15
-UBCV,2015,W,EPSE,683,,075,"Hierarchical Linear Modeling, Growth and Change",Bruno Zumbo,21,94.14285714299999,2.833473386,98.0,88.0,,,,,,,,,,,19
-UBCV,2015,W,EPSE,683,,OVERALL,"Hierarchical Linear Modeling, Growth and Change",,21,94.14285714299999,2.833473386,98.0,88.0,,,,,,,,,,,19
-UBCV,2015,W,EPSE,684,,075,Item Response Theory,Kadriye Ercikan,12,93.25,4.494946658,98.0,86.0,,,,,,,,,,,9
-UBCV,2015,W,EPSE,684,,OVERALL,Item Response Theory,,12,93.25,4.494946658,98.0,86.0,,,,,,,,,,,9
+UBCV,2015,W,EPSE,575,,074,Seminar in Instructional Methods for Persons with Significant Learning Challenges,Pat Mirenda,16,91.5,3.011090611,95.0,82.0,0,0,0,0,0,0,0,0,,,14
+UBCV,2015,W,EPSE,575,,OVERALL,Seminar in Instructional Methods for Persons with Significant Learning Challenges,,16,91.5,3.011090611,95.0,82.0,0,0,0,0,0,0,0,0,,,14
+UBCV,2015,W,EPSE,576,,074,Assessment and Positive Behaviour Support in School and Community Settings,Brenda Fossett;Brenda L Fossett,25,83.68,7.442669772,92.0,61.0,0,0,0,,,,,,6,12,
+UBCV,2015,W,EPSE,576,,OVERALL,Assessment and Positive Behaviour Support in School and Community Settings,,25,83.68,7.442669772,92.0,61.0,0,0,0,,,,,,6,12,
+UBCV,2015,W,EPSE,577,,075,Seminar in Assessment and Positive Behaviour Support in School and Community Settings,Joseph Lucyshyn,19,85.684210526,4.899576303,93.0,76.0,0,0,0,0,0,0,0,,8,,7
+UBCV,2015,W,EPSE,577,,OVERALL,Seminar in Assessment and Positive Behaviour Support in School and Community Settings,,19,85.684210526,4.899576303,93.0,76.0,0,0,0,0,0,0,0,,8,,7
+UBCV,2015,W,EPSE,580,A,074,Investigation and Report of a Problem in Education,,5,94.2,3.271085447,98.0,90.0,0,0,0,0,0,0,0,0,0,0,5
+UBCV,2015,W,EPSE,580,A,OVERALL,Investigation and Report of a Problem in Education,,7,94.857142857,3.023715784,98.0,90.0,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2015,W,EPSE,584,,074,Motivation in Education,Shelley Hymel,18,84.833333333,4.730999148,94.0,78.0,0,0,0,0,0,0,0,,6,5,
+UBCV,2015,W,EPSE,584,,OVERALL,Motivation in Education,,18,84.833333333,4.730999148,94.0,78.0,0,0,0,0,0,0,0,,6,5,
+UBCV,2015,W,EPSE,586,,074,Analyzing Discourse and Talk: An Overview of Methods,Jennifer Vadeboncoeur,5,91.2,1.923538406,93.0,88.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,EPSE,586,,OVERALL,Analyzing Discourse and Talk: An Overview of Methods,,5,91.2,1.923538406,93.0,88.0,0,0,0,0,0,0,0,0,0,,
+UBCV,2015,W,EPSE,591,,075,Theory and Practice of Program Evaluation,Sandra Mathison,10,87.8,6.442911695,100.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,EPSE,591,,OVERALL,Theory and Practice of Program Evaluation,,10,87.8,6.442911695,100.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,EPSE,592,,074,Experimental Designs and Analysis in Educational Research,Amery Wu,19,92.421052632,4.246773801,97.0,84.0,0,0,0,0,0,0,0,0,,,15
+UBCV,2015,W,EPSE,592,,075,Experimental Designs and Analysis in Educational Research,Thomas Motl,18,92.833333333,6.964194139,100.0,70.0,0,0,0,0,0,,,,,,16
+UBCV,2015,W,EPSE,592,,090,Experimental Designs and Analysis in Educational Research,Amery Wu,13,94.846153846,2.192645048,98.0,91.0,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2015,W,EPSE,592,,OVERALL,Experimental Designs and Analysis in Educational Research,,50,93.2,5.062870042,100.0,70.0,0,0,0,0,0,,,,,,44
+UBCV,2015,W,EPSE,593,,074,Design and Analysis of Research with Small Samples and Single Subjects,Joseph Lucyshyn,17,87.176470588,4.530939391,93.0,79.0,0,0,0,0,0,0,0,,,7,6
+UBCV,2015,W,EPSE,593,,OVERALL,Design and Analysis of Research with Small Samples and Single Subjects,,17,87.176470588,4.530939391,93.0,79.0,0,0,0,0,0,0,0,,,7,6
+UBCV,2015,W,EPSE,595,,074,Qualitative Research Methods,Sandra Mathison,19,86.473684211,6.354074992,96.0,75.0,0,0,0,0,0,0,,,5,6,6
+UBCV,2015,W,EPSE,595,,075,Qualitative Research Methods,Sandra Mathison,14,83.928571429,7.021552378,96.0,69.0,0,0,0,0,0,,,,1,7,2
+UBCV,2015,W,EPSE,595,,OVERALL,Qualitative Research Methods,,33,85.393939394,6.661171978,96.0,69.0,0,0,0,0,0,,,,6,13,8
+UBCV,2015,W,EPSE,596,,074,Correlational Designs and Analysis in Educational Research,Amery Wu,17,94.176470588,1.50977209,97.0,91.0,0,0,0,0,0,0,0,0,0,0,17
+UBCV,2015,W,EPSE,596,,090,Correlational Designs and Analysis in Educational Research,Sterett Mercer,15,86.4,7.375635566,97.0,72.0,0,0,0,0,0,0,,,,,6
+UBCV,2015,W,EPSE,596,,OVERALL,Correlational Designs and Analysis in Educational Research,,32,90.53125,6.425676191,97.0,72.0,0,0,0,0,0,0,,,,,23
+UBCV,2015,W,EPSE,604,A,075,"Advanced Topics in Human Development, Learning, and Culture",Laurie Ford,7,92.857142857,4.670066789,98.0,85.0,0,0,0,0,0,0,0,0,0,1.0,6
+UBCV,2015,W,EPSE,604,A,OVERALL,"Advanced Topics in Human Development, Learning, and Culture",,7,92.857142857,4.670066789,98.0,85.0,0,0,0,0,0,0,0,0,0,1.0,6
+UBCV,2015,W,EPSE,604,B,074,"Advanced Topics in Human Development, Learning, and Culture",Barbara Weber,8,95.0,1.309307341,97.0,94.0,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2015,W,EPSE,604,B,OVERALL,"Advanced Topics in Human Development, Learning, and Culture",,8,95.0,1.309307341,97.0,94.0,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2015,W,EPSE,606,,075,College and University Teaching,Barbara Weber,11,93.909090909,1.921173884,96.0,90.0,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2015,W,EPSE,606,,OVERALL,College and University Teaching,,11,93.909090909,1.921173884,96.0,90.0,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2015,W,EPSE,681,B,074,"Advanced Topics in Measurement, Evaluation, and Research",Sandra Mathison,9,96.666666667,5.590169944,100.0,85.0,0,0,0,0,0,0,0,0,0,1.0,8
+UBCV,2015,W,EPSE,681,B,OVERALL,"Advanced Topics in Measurement, Evaluation, and Research",,9,96.666666667,5.590169944,100.0,85.0,0,0,0,0,0,0,0,0,0,1.0,8
+UBCV,2015,W,EPSE,682,,075,Multivariate Designs and Analysis in Educational Research,Bruno Zumbo,17,94.470588235,2.896498901,98.0,88.0,0,0,0,0,0,0,0,0,0,2.0,15
+UBCV,2015,W,EPSE,682,,OVERALL,Multivariate Designs and Analysis in Educational Research,,17,94.470588235,2.896498901,98.0,88.0,0,0,0,0,0,0,0,0,0,2.0,15
+UBCV,2015,W,EPSE,683,,075,"Hierarchical Linear Modeling, Growth and Change",Bruno Zumbo,21,94.142857143,2.833473386,98.0,88.0,0,0,0,0,0,0,0,0,0,2.0,19
+UBCV,2015,W,EPSE,683,,OVERALL,"Hierarchical Linear Modeling, Growth and Change",,21,94.142857143,2.833473386,98.0,88.0,0,0,0,0,0,0,0,0,0,2.0,19
+UBCV,2015,W,EPSE,684,,075,Item Response Theory,Kadriye Ercikan,12,93.25,4.494946658,98.0,86.0,0,0,0,0,0,0,0,0,0,3.0,9
+UBCV,2015,W,EPSE,684,,OVERALL,Item Response Theory,,12,93.25,4.494946658,98.0,86.0,0,0,0,0,0,0,0,0,0,3.0,9

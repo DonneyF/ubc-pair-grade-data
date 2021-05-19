@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,BAIT,507,,BA1,Data Management for Business Analytics,Giulio Valentino Dalla Riva,36,87.583333333,5.678908346,99.0,77.0,,,,,,,,,7,12,13
-UBCV,2017,W,BAIT,507,,OVERALL,Data Management for Business Analytics,,36,87.583333333,5.678908346,99.0,77.0,,,,,,,,,7,12,13
-UBCV,2017,W,BAIT,508,,BA1,Business Analytics Programming,Gene Lee;Hongki Kim;Moksh Matta,37,88.91891891899999,6.024848446,97.0,72.0,,,,,,,,,,9,22
-UBCV,2017,W,BAIT,508,,OVERALL,Business Analytics Programming,,37,88.91891891899999,6.024848446,97.0,72.0,,,,,,,,,,9,22
-UBCV,2017,W,BAIT,509,,BA1,Business Applications of Machine Learning,Vincenzo Coia,35,92.485714286,4.654987386,98.0,82.0,,,,,,,,,,5,27
-UBCV,2017,W,BAIT,509,,OVERALL,Business Applications of Machine Learning,,35,92.485714286,4.654987386,98.0,82.0,,,,,,,,,,5,27
-UBCV,2017,W,BAIT,510,,001,Project Management in Delivering Business Solutions,Zorana Svedic,14,82.071428571,3.518397487,88.0,77.0,,,,,,,,5,5,4,
-UBCV,2017,W,BAIT,510,,302,Project Management in Delivering Business Solutions,Zorana Svedic,47,83.638297872,3.4098675989999996,90.0,76.0,,,,,,,,5,19,20,
-UBCV,2017,W,BAIT,510,,MM1,Project Management in Delivering Business Solutions,Zorana Svedic,39,81.538461538,2.532381382,85.0,76.0,,,,,,,,6,26,7,
-UBCV,2017,W,BAIT,510,,OVERALL,Project Management in Delivering Business Solutions,,100,82.6,3.238031576,90.0,76.0,,,,,,,,16,50,31,
-UBCV,2017,W,BAIT,511,,001,Managing Information Technology,Zorana Svedic,21,82.619047619,2.418185073,85.0,78.0,,,,,,,,,10,9,
-UBCV,2017,W,BAIT,511,,OVERALL,Managing Information Technology,,21,82.619047619,2.418185073,85.0,78.0,,,,,,,,,10,9,
-UBCV,2017,W,BAIT,513,,816,Managing e-Business,Ning Nan,29,84.413793103,4.213221039,93.0,76.0,,,,,,,,3,12,10,
-UBCV,2017,W,BAIT,513,,817,Managing e-Business,Blake Hanna,28,79.035714286,5.066097504,89.0,67.0,,,,,,,,9,10,3,
-UBCV,2017,W,BAIT,513,,OVERALL,Managing e-Business,,57,81.771929825,5.348623133,93.0,67.0,,,,,,,,12,22,13,
-UBCV,2017,W,BAIT,527,,001,Business Intelligence for Management,Chunhua Wu;Qiyuan Wang,38,86.473684211,2.947622424,92.0,82.0,,,,,,,,,11,18,9
-UBCV,2017,W,BAIT,527,,OVERALL,Business Intelligence for Management,,38,86.473684211,2.947622424,92.0,82.0,,,,,,,,,11,18,9
+UBCV,2017,W,BAIT,507,,BA1,Data Management for Business Analytics,Giulio Valentino Dalla Riva,36,87.58333333,5.678908346,99.0,77.0,0,0,0,0,0,0,0,4,7,12,13
+UBCV,2017,W,BAIT,507,,OVERALL,Data Management for Business Analytics,,36,87.58333333,5.678908346,99.0,77.0,0,0,0,0,0,0,0,4,7,12,13
+UBCV,2017,W,BAIT,508,,BA1,Business Analytics Programming,Gene Lee;Hongki Kim;Moksh Matta,37,88.91891892,6.024848446,97.0,72.0,0,0,0,0,0,0,2,2,2,9,22
+UBCV,2017,W,BAIT,508,,OVERALL,Business Analytics Programming,,37,88.91891892,6.024848446,97.0,72.0,0,0,0,0,0,0,2,2,2,9,22
+UBCV,2017,W,BAIT,509,,BA1,Business Applications of Machine Learning,Vincenzo Coia,35,92.48571429,4.654987386,98.0,82.0,0,0,0,0,0,0,0,0,3,5,27
+UBCV,2017,W,BAIT,509,,OVERALL,Business Applications of Machine Learning,,35,92.48571429,4.654987386,98.0,82.0,0,0,0,0,0,0,0,0,3,5,27
+UBCV,2017,W,BAIT,510,,001,Project Management in Delivering Business Solutions,Zorana Svedic,14,82.07142857,3.518397487,88.0,77.0,0,0,0,0,0,0,0,5,5,4,0
+UBCV,2017,W,BAIT,510,,302,Project Management in Delivering Business Solutions,Zorana Svedic,47,83.63829787,3.409867599,90.0,76.0,0,0,0,0,0,0,0,5,19,20,3
+UBCV,2017,W,BAIT,510,,MM1,Project Management in Delivering Business Solutions,Zorana Svedic,39,81.53846154,2.532381382,85.0,76.0,0,0,0,0,0,0,0,6,26,7,0
+UBCV,2017,W,BAIT,510,,OVERALL,Project Management in Delivering Business Solutions,,100,82.6,3.238031576,90.0,76.0,0,0,0,0,0,0,0,16,50,31,3
+UBCV,2017,W,BAIT,511,,001,Managing Information Technology,Zorana Svedic,21,82.61904762,2.418185073,85.0,78.0,0,0,0,0,0,0,0,2,10,9,0
+UBCV,2017,W,BAIT,511,,OVERALL,Managing Information Technology,,21,82.61904762,2.418185073,85.0,78.0,0,0,0,0,0,0,0,2,10,9,0
+UBCV,2017,W,BAIT,513,,816,Managing e-Business,Ning Nan,29,84.4137931,4.213221039,93.0,76.0,0,0,0,0,0,0,0,3,12,10,4
+UBCV,2017,W,BAIT,513,,817,Managing e-Business,Blake Hanna,28,79.03571429,5.066097504,89.0,67.0,0,0,0,0,1,2,3,9,10,3,0
+UBCV,2017,W,BAIT,513,,OVERALL,Managing e-Business,,57,81.77192983,5.348623133,93.0,67.0,0,0,0,0,1,2,3,12,22,13,4
+UBCV,2017,W,BAIT,527,,001,Business Intelligence for Management,Chunhua Wu;Qiyuan Wang,38,86.47368421,2.947622424,92.0,82.0,0,0,0,0,0,0,0,0,11,18,9
+UBCV,2017,W,BAIT,527,,OVERALL,Business Intelligence for Management,,38,86.47368421,2.947622424,92.0,82.0,0,0,0,0,0,0,0,0,11,18,9

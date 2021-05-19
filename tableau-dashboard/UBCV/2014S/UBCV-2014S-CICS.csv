@@ -1,9 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,S,CICS,514,,921,Computer Networks and Cloud Computing,Mingwu Chen,32,87.5625,6.584132931,100.0,72.0,,,,,,,,,5,14,10
-UBCV,2014,S,CICS,514,,OVERALL,Computer Networks and Cloud Computing,,32,87.5625,6.584132931,100.0,72.0,,,,,,,,,5,14,10
-UBCV,2014,S,CICS,516,,921,Web Technologies,Michael Feeley,32,86.25,9.811119432,99.0,62.0,,,,,,,,,,5,16
-UBCV,2014,S,CICS,516,,OVERALL,Web Technologies,,32,86.25,9.811119432,99.0,62.0,,,,,,,,,,5,16
+UBCV,2014,S,CICS,514,,921,Computer Networks and Cloud Computing,Mingwu Chen,32,87.5625,6.584132931,100.0,72.0,0,0,0,0,0,0,,,5,14,10
+UBCV,2014,S,CICS,514,,OVERALL,Computer Networks and Cloud Computing,,32,87.5625,6.584132931,100.0,72.0,0,0,0,0,0,0,,,5,14,10
+UBCV,2014,S,CICS,516,,921,Web Technologies,Michael Feeley,32,86.25,9.811119432,99.0,62.0,0,0,0,,,,,,,5,16
+UBCV,2014,S,CICS,516,,OVERALL,Web Technologies,,32,86.25,9.811119432,99.0,62.0,0,0,0,,,,,,,5,16
 UBCV,2014,S,CICS,518,,921,Computer and Information System Security,,32,79.3125,13.49895456,97.0,24.0,,,,,,,5,6,,7,7
 UBCV,2014,S,CICS,518,,OVERALL,Computer and Information System Security,,32,79.3125,13.49895456,97.0,24.0,,,,,,,5,6,,7,7
-UBCV,2014,S,CICS,525,,921,Real-time and Distributed Systems,,32,79.75,5.358141228,90.0,68.0,,,,,,,5,7,10,7,
-UBCV,2014,S,CICS,525,,OVERALL,Real-time and Distributed Systems,,32,79.75,5.358141228,90.0,68.0,,,,,,,5,7,10,7,
+UBCV,2014,S,CICS,525,,921,Real-time and Distributed Systems,,32,79.75,5.358141228,90.0,68.0,0,0,0,0,0,,5,7,10,7,
+UBCV,2014,S,CICS,525,,OVERALL,Real-time and Distributed Systems,,32,79.75,5.358141228,90.0,68.0,0,0,0,0,0,,5,7,10,7,

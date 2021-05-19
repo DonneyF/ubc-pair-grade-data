@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,S,ADHE,327,,93Q,Teaching Adults,Dave Smulders,29,85.37931035,7.916591046000001,96.0,64.0,,,,,,,,,6,7,12
+UBCV,2015,S,ADHE,327,,93Q,Teaching Adults,Dave Smulders,29,85.37931035,7.916591046,96.0,64.0,0,0,0,0,,,,,6,7,12
 UBCV,2015,S,ADHE,327,,93S,Teaching Adults,Carolina Palacios,33,75.72727273,20.98998679,95.0,5.0,,,,,,,,,6,10,5
-UBCV,2015,S,ADHE,327,,93T,Teaching Adults,Kapil Regmi,31,86.51612903,5.784294643,95.0,69.0,,,,,,,,,4,14,10
+UBCV,2015,S,ADHE,327,,93T,Teaching Adults,Kapil Regmi,31,86.51612903,5.784294643,95.0,69.0,0,0,0,0,0,,,,4,14,10
 UBCV,2015,S,ADHE,327,,OVERALL,Teaching Adults,,93,82.333333333,14.411901282,96.0,5.0,,,,,,,6,,16,31,27
-UBCV,2015,S,ADHE,328,,93Q,Institutions of Adult Education,Jennifer Chan,32,80.15625,8.930229108999999,86.0,46.0,,,,,,,,,,19,
-UBCV,2015,S,ADHE,328,,OVERALL,Institutions of Adult Education,,32,80.15625,8.930229108999999,86.0,46.0,,,,,,,,,,19,
-UBCV,2015,S,ADHE,329,,93Q,"Developing Short Courses, Workshops and Seminars",Deonarine Bishundayal,25,91.4,6.480740698,99.0,78.0,,,,,,,,,,,19
-UBCV,2015,S,ADHE,329,,93S,"Developing Short Courses, Workshops and Seminars",Dave Smulders,25,77.96,10.14675646,91.0,51.0,,,,,,,,,6,,5
+UBCV,2015,S,ADHE,328,,93Q,Institutions of Adult Education,Jennifer Chan,32,80.15625,8.930229109,86.0,46.0,,,,,,,,,,19,0
+UBCV,2015,S,ADHE,328,,OVERALL,Institutions of Adult Education,,32,80.15625,8.930229109,86.0,46.0,,,,,,,,,,19,0
+UBCV,2015,S,ADHE,329,,93Q,"Developing Short Courses, Workshops and Seminars",Deonarine Bishundayal,25,91.4,6.480740698,99.0,78.0,0,0,0,0,0,0,0,,,,19
+UBCV,2015,S,ADHE,329,,93S,"Developing Short Courses, Workshops and Seminars",Dave Smulders,25,77.96,10.14675646,91.0,51.0,0,,,,,,4,,6,,5
 UBCV,2015,S,ADHE,329,,93T,"Developing Short Courses, Workshops and Seminars",Carolina Palacios,26,69.30769231,13.80367844,94.0,39.0,,,,,,,5,,,,1
-UBCV,2015,S,ADHE,329,,OVERALL,"Developing Short Courses, Workshops and Seminars",,76,79.421052632,13.924810622999999,99.0,39.0,,,,,5,,9,7,14,5,25
-UBCV,2015,S,ADHE,330,,93Q,The Community Practice of Adult Education,Deonarine Bishundayal,26,85.46153846,10.76004003,96.0,55.0,,,,,,,,,,7,12
+UBCV,2015,S,ADHE,329,,OVERALL,"Developing Short Courses, Workshops and Seminars",,76,79.421052632,13.924810623,99.0,39.0,,,,,5,,9,7,14,5,25
+UBCV,2015,S,ADHE,330,,93Q,The Community Practice of Adult Education,Deonarine Bishundayal,26,85.46153846,10.76004003,96.0,55.0,0,0,,,,,,,,7,12
 UBCV,2015,S,ADHE,330,,93S,The Community Practice of Adult Education,Deonarine Bishundayal,25,86.08,11.36119125,98.0,48.0,,,,,,,,,,7,12
-UBCV,2015,S,ADHE,330,,951,The Community Practice of Adult Education,Deonarine Bishundayal,32,87.71875,7.33192038,97.0,65.0,,,,,,,,,,10,16
+UBCV,2015,S,ADHE,330,,951,The Community Practice of Adult Education,Deonarine Bishundayal,32,87.71875,7.33192038,97.0,65.0,0,0,0,0,,,,,,10,16
 UBCV,2015,S,ADHE,330,,OVERALL,The Community Practice of Adult Education,,83,86.518072289,9.714662599,98.0,48.0,,,,,,,,,5,24,40
 UBCV,2015,S,ADHE,412,,93Q,An Overview of Adult Education,Carolina Palacios,22,76.22727273,21.25789897,97.0,0.0,,,,,,5,0,2,,5,6
-UBCV,2015,S,ADHE,412,,93S,An Overview of Adult Education,Carolina Palacios,29,76.51724138,10.22119887,97.0,52.0,,,,,,3,5,5,,3,4
-UBCV,2015,S,ADHE,412,,OVERALL,An Overview of Adult Education,,51,76.392156863,15.758272025999998,97.0,0.0,,,,,,8,5,7,5,8,10
+UBCV,2015,S,ADHE,412,,93S,An Overview of Adult Education,Carolina Palacios,29,76.51724138,10.22119887,97.0,52.0,0,,,,,3,5,5,,3,4
+UBCV,2015,S,ADHE,412,,OVERALL,An Overview of Adult Education,,51,76.392156863,15.758272026,97.0,0.0,,,,,,8,5,7,5,8,10

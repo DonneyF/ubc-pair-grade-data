@@ -1,26 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,S,HIST,103,,925,World History Since 1900,Michael Lanthier,41,72.0,9.211405973,85.0,42.0,,,,,,6,13,7,6,,
-UBCV,2017,S,HIST,103,,OVERALL,World History Since 1900,,41,72.0,9.211405973,85.0,42.0,,,,,,6,13,7,6,,
-UBCV,2017,S,HIST,106,,951,Global Environmental History,David Brownstein,39,73.41025641,8.06133706,87.0,54.0,,,,,,9,9,,8,,
-UBCV,2017,S,HIST,106,,OVERALL,Global Environmental History,,39,73.41025641,8.06133706,87.0,54.0,,,,,,9,9,,8,,
-UBCV,2017,S,HIST,326,,951,Canada Since 1945: Affluence and Anxiety in the Atomic Age.,Andrea Ellen Eidinger,42,73.476190476,11.953646439000002,95.0,42.0,,,,,,,,,8,5,
-UBCV,2017,S,HIST,326,,OVERALL,Canada Since 1945: Affluence and Anxiety in the Atomic Age.,,42,73.476190476,11.953646439000002,95.0,42.0,,,,,,,,,8,5,
-UBCV,2017,S,HIST,339,,921,The United States Since 1945: The Limits of Power,Vitaliy Timofiiv,46,78.413043478,5.057782065,86.0,54.0,,,,,,,5,18,15,6,
-UBCV,2017,S,HIST,339,,OVERALL,The United States Since 1945: The Limits of Power,,46,78.413043478,5.057782065,86.0,54.0,,,,,,,5,18,15,6,
-UBCV,2017,S,HIST,357,,921,History of Mexico,Timo Schaefer,39,68.538461538,19.063393073,87.0,0.0,,,,,,,6,5,,6,
-UBCV,2017,S,HIST,357,,OVERALL,History of Mexico,,39,68.538461538,19.063393073,87.0,0.0,,,,,,,6,5,,6,
-UBCV,2017,S,HIST,380,C,925,"The Making of Modern China: Nationalism, War, Revolution",Colin Robert Green,43,73.372093023,7.97622436,87.0,60.0,,,,5,6,7,8,6,5,6,
-UBCV,2017,S,HIST,380,C,OVERALL,"The Making of Modern China: Nationalism, War, Revolution",,43,73.372093023,7.97622436,87.0,60.0,,,,5,6,7,8,6,5,6,
-UBCV,2017,S,HIST,390,A,921,Topics in History,Tara Mayer,20,77.5,8.287593772000001,86.0,52.0,,,,,,,,,6,,
-UBCV,2017,S,HIST,390,A,OVERALL,Topics in History,,20,77.5,8.287593772000001,86.0,52.0,,,,,,,,,6,,
-UBCV,2017,S,HIST,403,K,921,Seminar in the History of International Relations,Steven Hugh Lee,5,84.4,2.408318916,87.0,81.0,,,,,,,,,,,
-UBCV,2017,S,HIST,403,K,OVERALL,Seminar in the History of International Relations,,5,84.4,2.408318916,87.0,81.0,,,,,,,,,,,
-UBCV,2017,S,HIST,412,,925,The American Impact on Canada,Kailey Hansson;Kailey Teresa Hansson,35,74.742857143,9.494093697,90.0,52.0,,,,5,,,,,8,5,
-UBCV,2017,S,HIST,412,,OVERALL,The American Impact on Canada,,35,74.742857143,9.494093697,90.0,52.0,,,,5,,,,,8,5,
-UBCV,2017,S,HIST,425,,925,War and Society,David Borys,48,74.770833333,13.290917685,94.0,25.0,,,,,5,,,5,13,7,
-UBCV,2017,S,HIST,425,,OVERALL,War and Society,,48,74.770833333,13.290917685,94.0,25.0,,,,,5,,,5,13,7,
-UBCV,2017,S,HIST,441,,951,History of the Holocaust,Jay Eidelman,37,76.567567568,3.5476168880000003,86.0,70.0,,,,,,,11,16,6,,
-UBCV,2017,S,HIST,441,,OVERALL,History of the Holocaust,,37,76.567567568,3.5476168880000003,86.0,70.0,,,,,,,11,16,6,,
-UBCV,2017,S,HIST,482,,921,Chinese Migration,Henry Yu,8,83.75,4.334248988,89.0,75.0,,,,,,,,,,,
-UBCV,2017,S,HIST,482,,OVERALL,Chinese Migration,,8,83.75,4.334248988,89.0,75.0,,,,,,,,,,,
-UBCV,2017,S,HIST,549,,OVERALL,Master's Thesis,,5,85.8,1.923538406,88.0,83.0,,,,,,,,,,,
+UBCV,2017,S,HIST,103,,925,World History Since 1900,Michael Lanthier,41,72.0,9.211405973,85.0,42.0,2,0.0,1.0,2,3,6,13,7.0,6,1,0
+UBCV,2017,S,HIST,103,,OVERALL,World History Since 1900,,41,72.0,9.211405973,85.0,42.0,2,0.0,1.0,2,3,6,13,7.0,6,1,0
+UBCV,2017,S,HIST,106,,951,Global Environmental History,David Brownstein,39,73.41025641,8.06133706,87.0,54.0,0,1.0,1.0,3,2,9,9,2.0,8,4,0
+UBCV,2017,S,HIST,106,,OVERALL,Global Environmental History,,39,73.41025641,8.06133706,87.0,54.0,0,1.0,1.0,3,2,9,9,2.0,8,4,0
+UBCV,2017,S,HIST,326,,951,Canada Since 1945: Affluence and Anxiety in the Atomic Age.,Andrea Ellen Eidinger,42,73.47619048,11.95364644,95.0,42.0,2,0.0,4.0,4,3,4,4,4.0,8,5,4
+UBCV,2017,S,HIST,326,,OVERALL,Canada Since 1945: Affluence and Anxiety in the Atomic Age.,,42,73.47619048,11.95364644,95.0,42.0,2,0.0,4.0,4,3,4,4,4.0,8,5,4
+UBCV,2017,S,HIST,339,,921,The United States Since 1945: The Limits of Power,Vitaliy Timofiiv,46,78.41304348,5.057782065,86.0,54.0,0,1.0,0.0,0,0,1,5,18.0,15,6,0
+UBCV,2017,S,HIST,339,,OVERALL,The United States Since 1945: The Limits of Power,,46,78.41304348,5.057782065,86.0,54.0,0,1.0,0.0,0,0,1,5,18.0,15,6,0
+UBCV,2017,S,HIST,357,,921,History of Mexico,Timo Schaefer,39,68.53846154,19.06339307,87.0,0.0,2,2.0,2.0,4,4,4,6,5.0,4,6,0
+UBCV,2017,S,HIST,357,,OVERALL,History of Mexico,,39,68.53846154,19.06339307,87.0,0.0,2,2.0,2.0,4,4,4,6,5.0,4,6,0
+UBCV,2017,S,HIST,380,C,925,"The Making of Modern China: Nationalism, War, Revolution",Colin Robert Green,43,73.37209302,7.97622436,87.0,60.0,0,0.0,0.0,5,6,7,8,6.0,5,6,0
+UBCV,2017,S,HIST,380,C,OVERALL,"The Making of Modern China: Nationalism, War, Revolution",,43,73.37209302,7.97622436,87.0,60.0,0,0.0,0.0,5,6,7,8,6.0,5,6,0
+UBCV,2017,S,HIST,390,A,921,Topics in History,Tara Mayer,20,77.5,8.287593772,86.0,52.0,0,1.0,0.0,0,1,2,2,4.0,6,4,0
+UBCV,2017,S,HIST,390,A,OVERALL,Topics in History,,20,77.5,8.287593772,86.0,52.0,0,1.0,0.0,0,1,2,2,4.0,6,4,0
+UBCV,2017,S,HIST,412,,925,The American Impact on Canada,Kailey Hansson;Kailey Teresa Hansson,35,74.74285714,9.494093697,90.0,52.0,0,1.0,0.0,5,4,4,3,4.0,8,5,1
+UBCV,2017,S,HIST,412,,OVERALL,The American Impact on Canada,,35,74.74285714,9.494093697,90.0,52.0,0,1.0,0.0,5,4,4,3,4.0,8,5,1
+UBCV,2017,S,HIST,425,,925,War and Society,David Borys,48,74.77083333,13.29091769,94.0,25.0,1,1.0,4.0,3,5,3,2,5.0,13,7,4
+UBCV,2017,S,HIST,425,,OVERALL,War and Society,,48,74.77083333,13.29091769,94.0,25.0,1,1.0,4.0,3,5,3,2,5.0,13,7,4
+UBCV,2017,S,HIST,441,,951,History of the Holocaust,Jay Eidelman,37,76.56756757,3.547616888,86.0,70.0,0,0.0,0.0,0,0,3,11,16.0,6,1,0
+UBCV,2017,S,HIST,441,,OVERALL,History of the Holocaust,,37,76.56756757,3.547616888,86.0,70.0,0,0.0,0.0,0,0,3,11,16.0,6,1,0
+UBCV,2017,S,HIST,482,,921,Chinese Migration,Henry Yu,8,83.75,4.334248988,89.0,75.0,0,0.0,0.0,0,0,0,1,0.0,4,3,0
+UBCV,2017,S,HIST,482,,OVERALL,Chinese Migration,,8,83.75,4.334248988,89.0,75.0,0,0.0,0.0,0,0,0,1,0.0,4,3,0

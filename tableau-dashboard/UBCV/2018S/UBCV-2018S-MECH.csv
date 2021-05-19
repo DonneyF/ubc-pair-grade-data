@@ -1,10 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,S,MECH,227,,201,Approaches to Technical Communication for Mechanical Engineers,Somesh Bhatia;Tatiana Teslenko,10,88.0,5.981452815,95.0,73.0,,,,,,,,,,,6
-UBCV,2018,S,MECH,227,,OVERALL,Approaches to Technical Communication for Mechanical Engineers,,10,88.0,5.981452815,95.0,73.0,,,,,,,,,,,6
-UBCV,2018,S,MECH,410,T,001,Special Topics in Mechanical Engineering,Boris Stoeber;Gary Schajer;Katherina Tarnai-Lokhorst,26,84.192307692,11.185773932,96.0,42.0,,,,,,,,,,12,7
-UBCV,2018,S,MECH,410,T,OVERALL,Special Topics in Mechanical Engineering,,26,84.192307692,11.185773932,96.0,42.0,,,,,,,,,,12,7
-UBCV,2018,S,MECH,431,,001,Engineering Economics,Boris Stoeber;Gary Schajer;Mark Hollett;Sara Azizkhani,93,84.24731182800001,8.219351389,98.0,60.0,,,,,,,,11,12,35,23
-UBCV,2018,S,MECH,431,,OVERALL,Engineering Economics,,93,84.24731182800001,8.219351389,98.0,60.0,,,,,,,,11,12,35,23
-UBCV,2018,S,MECH,552,,001,Electro-Mechanical System Design Project II,Yusuf Altintas,16,89.5625,4.4567364739999995,95.0,75.0,,,,,,,,,,,14
-UBCV,2018,S,MECH,552,,OVERALL,Electro-Mechanical System Design Project II,,16,89.5625,4.4567364739999995,95.0,75.0,,,,,,,,,,,14
-UBCV,2018,S,MECH,599,B,OVERALL,Thesis,,8,86.875,5.111262075,95.0,80.0,,,,,,,,,,,
+UBCV,2018,S,MECH,227,,201,Approaches to Technical Communication for Mechanical Engineers,Somesh Bhatia;Tatiana Teslenko,10,88.0,5.981452815,95.0,73.0,0,0,0,0,0,0,1,0,0,3,6
+UBCV,2018,S,MECH,227,,OVERALL,Approaches to Technical Communication for Mechanical Engineers,,10,88.0,5.981452815,95.0,73.0,0,0,0,0,0,0,1,0,0,3,6
+UBCV,2018,S,MECH,410,T,001,Special Topics in Mechanical Engineering,Boris Stoeber;Gary Schajer;Katherina Tarnai-Lokhorst,26,84.19230769,11.18577393,96.0,42.0,1,0,0,0,1,0,1,3,1,12,7
+UBCV,2018,S,MECH,410,T,OVERALL,Special Topics in Mechanical Engineering,,26,84.19230769,11.18577393,96.0,42.0,1,0,0,0,1,0,1,3,1,12,7
+UBCV,2018,S,MECH,431,,001,Engineering Economics,Boris Stoeber;Gary Schajer;Mark Hollett;Sara Azizkhani,93,84.24731183,8.219351389,98.0,60.0,0,0,0,4,2,2,4,11,12,35,23
+UBCV,2018,S,MECH,431,,OVERALL,Engineering Economics,,93,84.24731183,8.219351389,98.0,60.0,0,0,0,4,2,2,4,11,12,35,23
+UBCV,2018,S,MECH,552,,001,Electro-Mechanical System Design Project II,Yusuf Altintas,16,89.5625,4.456736474,95.0,75.0,0,0,0,0,0,0,1,0,0,1,14
+UBCV,2018,S,MECH,552,,OVERALL,Electro-Mechanical System Design Project II,,16,89.5625,4.456736474,95.0,75.0,0,0,0,0,0,0,1,0,0,1,14
+UBCV,2018,S,MECH,599,B,OVERALL,Thesis,,8,86.875,5.111262075,95.0,80.0,0,0,0,0,0,0,0,0,,,

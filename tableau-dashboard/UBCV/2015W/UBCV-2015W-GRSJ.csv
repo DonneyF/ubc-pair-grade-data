@@ -1,65 +1,65 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,GRSJ,101,,001,"Gender, Race, Sex and Power",Kathleen Hare;Leonora Angeles,77,83.194805195,6.714162097000001,94.0,62.0,,,,,,,5,7,15,34,10
-UBCV,2015,W,GRSJ,101,,002,"Gender, Race, Sex and Power",Jules Arita Koostachin;Jules Koostachin;Lori Macintosh,75,81.68,10.488294633999999,97.0,52.0,,,,,,6,7,5,15,15,20
+UBCV,2015,W,GRSJ,101,,001,"Gender, Race, Sex and Power",Kathleen Hare;Leonora Angeles,77,83.194805195,6.714162097,94.0,62.0,0,0,0,,,,5,7,15,34,10
+UBCV,2015,W,GRSJ,101,,002,"Gender, Race, Sex and Power",Jules Arita Koostachin;Jules Koostachin;Lori Macintosh,75,81.68,10.488294634,97.0,52.0,0,,,,,6,7,5,15,15,20
 UBCV,2015,W,GRSJ,101,,227,"Gender, Race, Sex and Power",Jules Arita Koostachin;Jules Koostachin;Lori Macintosh,93,80.333333333,18.186433867,97.0,0.0,7,,,,,,3,4,24,24,24
-UBCV,2015,W,GRSJ,101,,OVERALL,"Gender, Race, Sex and Power",,245,81.64489795899999,13.172889778,97.0,0.0,7,,,5,7,9,15,16,54,73,54
-UBCV,2015,W,GRSJ,102,,001,Decolonizing and Feminist Perspectives from Local to Global,Christopher Shelley;Joshua Ferguson,81,75.691358025,11.690425543,91.0,3.0,,,,,,7,12,21,18,11,2
-UBCV,2015,W,GRSJ,102,,002,Decolonizing and Feminist Perspectives from Local to Global,Chaya Erika Go;Christopher Shelley,74,81.405405405,6.408297102000001,93.0,66.0,,,,,,4,9,10,26,16,7
+UBCV,2015,W,GRSJ,101,,OVERALL,"Gender, Race, Sex and Power",,245,81.644897959,13.172889778,97.0,0.0,7,,,5,7,9,15,16,54,73,54
+UBCV,2015,W,GRSJ,102,,001,Decolonizing and Feminist Perspectives from Local to Global,Christopher Shelley;Joshua Ferguson,81,75.691358025,11.690425543,91.0,3.0,,,,,3.0,7,12,21,18,11,2
+UBCV,2015,W,GRSJ,102,,002,Decolonizing and Feminist Perspectives from Local to Global,Chaya Erika Go;Christopher Shelley,74,81.405405405,6.408297102,93.0,66.0,0,0,0,0,2.0,4,9,10,26,16,7
 UBCV,2015,W,GRSJ,102,,OVERALL,Decolonizing and Feminist Perspectives from Local to Global,,155,78.419354839,9.932807353,93.0,3.0,,,,,5,11,21,31,44,27,9
-UBCV,2015,W,GRSJ,224,A,001,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,39,76.692307692,11.790169514,98.0,51.0,,,,,,7,,,9,,8
+UBCV,2015,W,GRSJ,224,A,001,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,39,76.692307692,11.790169514,98.0,51.0,0,,,,,7,,,9,,8
 UBCV,2015,W,GRSJ,224,A,002,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,44,75.522727273,16.200041109,98.0,4.0,,,,,,5,8,,6,7,6
-UBCV,2015,W,GRSJ,224,A,99A,"Gender, Race, Sexuality, and Social Justice in Literature",Katharine Cherry-Reid;Lori Macintosh,57,85.05263157899999,7.760755331,97.0,53.0,,,,,,,,,11,20,18
+UBCV,2015,W,GRSJ,224,A,99A,"Gender, Race, Sexuality, and Social Justice in Literature",Katharine Cherry-Reid;Lori Macintosh,57,85.052631579,7.760755331,97.0,53.0,0,,,,,,,,11,20,18
 UBCV,2015,W,GRSJ,224,A,99C,"Gender, Race, Sexuality, and Social Justice in Literature",June Scudeler;Kathleen Hare,58,74.810344828,21.873204706,100.0,0.0,5,,,,,,6,,9,15,10
 UBCV,2015,W,GRSJ,224,A,OVERALL,"Gender, Race, Sexuality, and Social Justice in Literature",,198,78.287878788,16.08300028,100.0,0.0,6,7,5,3.0,10,18,18,9,35,45,42
 UBCV,2015,W,GRSJ,224,B,002,"Gender, Race, Sexuality, and Social Justice in Literature",Evangelia Chatzivasileiou,42,74.476190476,17.085492484,98.0,16.0,,,,5,,,,6,5,7,7
 UBCV,2015,W,GRSJ,224,B,OVERALL,"Gender, Race, Sexuality, and Social Justice in Literature",,42,74.476190476,17.085492484,98.0,16.0,,,,5,,,,6,5,7,7
-UBCV,2015,W,GRSJ,224,C,001,"Gender, Race, Sexuality, and Social Justice in Literature",Janice Stewart,45,80.28888888899999,4.625139911000001,88.0,71.0,,,,,,,6,10,16,11,
-UBCV,2015,W,GRSJ,224,C,002,"Gender, Race, Sexuality, and Social Justice in Literature",Kim Snowden,45,77.177777778,7.6997310720000005,93.0,60.0,,,,,,,7,14,9,,
-UBCV,2015,W,GRSJ,224,C,OVERALL,"Gender, Race, Sexuality, and Social Justice in Literature",,90,78.733333333,6.506349535,93.0,60.0,,,,,,6,13,24,25,15,
+UBCV,2015,W,GRSJ,224,C,001,"Gender, Race, Sexuality, and Social Justice in Literature",Janice Stewart,45,80.288888889,4.625139911,88.0,71.0,0,0,0,0,0,2.0,6,10,16,11,0
+UBCV,2015,W,GRSJ,224,C,002,"Gender, Race, Sexuality, and Social Justice in Literature",Kim Snowden,45,77.177777778,7.699731072,93.0,60.0,0,0,0,,,,7,14,9,,
+UBCV,2015,W,GRSJ,224,C,OVERALL,"Gender, Race, Sexuality, and Social Justice in Literature",,90,78.733333333,6.506349535,93.0,60.0,0,0,0,,,6,13,24,25,15,
 UBCV,2015,W,GRSJ,230,,001,"Gender, Race, Sexuality, and Representation in Modern Asia",Raymond Hsu;Raymond Junglee Hsu,34,83.647058824,11.99212457,92.0,19.0,,,,,,,,,14,12,6
 UBCV,2015,W,GRSJ,230,,OVERALL,"Gender, Race, Sexuality, and Representation in Modern Asia",,34,83.647058824,11.99212457,92.0,19.0,,,,,,,,,14,12,6
-UBCV,2015,W,GRSJ,235,,001,"Gender, Race, Sexuality, and Social Structures in Modern Asia",Michelle O'Brien,21,73.095238095,10.769887472999999,83.0,32.0,,,,,,,5,5,6,,
-UBCV,2015,W,GRSJ,235,,OVERALL,"Gender, Race, Sexuality, and Social Structures in Modern Asia",,21,73.095238095,10.769887472999999,83.0,32.0,,,,,,,5,5,6,,
+UBCV,2015,W,GRSJ,235,,001,"Gender, Race, Sexuality, and Social Structures in Modern Asia",Michelle O'Brien,21,73.095238095,10.769887473,83.0,32.0,,,,,,,5,5,6,0,0
+UBCV,2015,W,GRSJ,235,,OVERALL,"Gender, Race, Sexuality, and Social Structures in Modern Asia",,21,73.095238095,10.769887473,83.0,32.0,,,,,,,5,5,6,0,0
 UBCV,2015,W,GRSJ,300,,901,Intersectional Approaches to Thinking Gender,Sheila Sengupta;Sunera Thobani,55,79.0,10.876410083,90.0,23.0,,,,,,,7,7,14,18,
 UBCV,2015,W,GRSJ,300,,902,Intersectional Approaches to Thinking Gender,Sunera Thobani;Taqdir Bhandal,45,77.466666667,10.571402246,91.0,43.0,,,,,,,6,6,19,3,5
-UBCV,2015,W,GRSJ,300,,99C,Intersectional Approaches to Thinking Gender,Andrew Mckee;Raymond Hsu;Raymond Junglee Hsu,65,78.107692308,8.396656843999999,91.0,35.0,,,,,,,9,20,17,11,
+UBCV,2015,W,GRSJ,300,,99C,Intersectional Approaches to Thinking Gender,Andrew Mckee;Raymond Hsu;Raymond Junglee Hsu,65,78.107692308,8.396656844,91.0,35.0,,,,,,,9,20,17,11,
 UBCV,2015,W,GRSJ,300,,OVERALL,Intersectional Approaches to Thinking Gender,,165,78.23030303,9.839333858,91.0,23.0,,,,,,8,22,33,50,32,8
-UBCV,2015,W,GRSJ,301,,001,Gender and Indigeneity in Canada,Michael Paul Taylor,31,73.290322581,5.047729182,81.0,60.0,,,,,,,12,7,5,,
-UBCV,2015,W,GRSJ,301,,OVERALL,Gender and Indigeneity in Canada,,31,73.290322581,5.047729182,81.0,60.0,,,,,,,12,7,5,,
-UBCV,2015,W,GRSJ,303,,002,"Gender, Law, and Social Justice",Mark Andrew Harris;Mark Harris,38,80.05263157899999,4.261375038,90.0,67.0,,,,,,,,16,14,5,
-UBCV,2015,W,GRSJ,303,,OVERALL,"Gender, Law, and Social Justice",,38,80.05263157899999,4.261375038,90.0,67.0,,,,,,,,16,14,5,
-UBCV,2015,W,GRSJ,305,,001,Issues in Community and International Organizing,Benita Bunjun,24,75.458333333,8.080998467999999,88.0,57.0,,,,,,,7,,,5,
-UBCV,2015,W,GRSJ,305,,OVERALL,Issues in Community and International Organizing,,24,75.458333333,8.080998467999999,88.0,57.0,,,,,,,7,,,5,
-UBCV,2015,W,GRSJ,306,,001,"Globalization and Social Justice: Gender, Race, and Sexuality in International Politics",Mark Andrew Harris;Mark Harris,36,81.805555556,4.803685754,91.0,67.0,,,,,,,,10,14,8,
+UBCV,2015,W,GRSJ,301,,001,Gender and Indigeneity in Canada,Michael Paul Taylor,31,73.290322581,5.047729182,81.0,60.0,0,0,0,,,,12,7,5,0,0
+UBCV,2015,W,GRSJ,301,,OVERALL,Gender and Indigeneity in Canada,,31,73.290322581,5.047729182,81.0,60.0,0,0,0,,,,12,7,5,0,0
+UBCV,2015,W,GRSJ,303,,002,"Gender, Law, and Social Justice",Mark Andrew Harris;Mark Harris,38,80.052631579,4.261375038,90.0,67.0,0,0,0,0,,,,16,14,5,
+UBCV,2015,W,GRSJ,303,,OVERALL,"Gender, Law, and Social Justice",,38,80.052631579,4.261375038,90.0,67.0,0,0,0,0,,,,16,14,5,
+UBCV,2015,W,GRSJ,305,,001,Issues in Community and International Organizing,Benita Bunjun,24,75.458333333,8.080998468,88.0,57.0,0,0,,,,,7,,,5,0
+UBCV,2015,W,GRSJ,305,,OVERALL,Issues in Community and International Organizing,,24,75.458333333,8.080998468,88.0,57.0,0,0,,,,,7,,,5,0
+UBCV,2015,W,GRSJ,306,,001,"Globalization and Social Justice: Gender, Race, and Sexuality in International Politics",Mark Andrew Harris;Mark Harris,36,81.805555556,4.803685754,91.0,67.0,0,0,0,0,,,,10,14,8,
 UBCV,2015,W,GRSJ,306,,003,"Globalization and Social Justice: Gender, Race, and Sexuality in International Politics",Mark Andrew Harris;Mark Harris,38,75.289473684,19.989061731,90.0,0.0,,,,,,,,5,12,10,
 UBCV,2015,W,GRSJ,306,,OVERALL,"Globalization and Social Justice: Gender, Race, and Sexuality in International Politics",,74,78.459459459,14.977781891,91.0,0.0,,,,,,,,15,26,18,
 UBCV,2015,W,GRSJ,307,,001,"Gender, Race, Sexuality, and Popular Culture",Janice Stewart,40,81.575,17.379456632,91.0,0.0,,,,,,,,,14,20,
 UBCV,2015,W,GRSJ,307,,OVERALL,"Gender, Race, Sexuality, and Popular Culture",,40,81.575,17.379456632,91.0,0.0,,,,,,,,,14,20,
-UBCV,2015,W,GRSJ,310,,001,Issues in Gender and Health,Heather Latimer,35,80.6,5.053827903,89.0,69.0,,,,,,,,10,15,6,
-UBCV,2015,W,GRSJ,310,,OVERALL,Issues in Gender and Health,,35,80.6,5.053827903,89.0,69.0,,,,,,,,10,15,6,
-UBCV,2015,W,GRSJ,311,,001,African/Black Women in the Americas,Delia Douglas,33,72.878787879,13.006627099000001,87.0,21.0,,,,,,5,5,6,11,,
-UBCV,2015,W,GRSJ,311,,OVERALL,African/Black Women in the Americas,,33,72.878787879,13.006627099000001,87.0,21.0,,,,,,5,5,6,11,,
-UBCV,2015,W,GRSJ,320,,001,Feminist Anti-Racist Pedagogies,Amel Abdelfadil Elradi;Raymond Hsu;Raymond Junglee Hsu,37,88.324324324,7.550033311,94.0,52.0,,,,,,,,,,8,23
-UBCV,2015,W,GRSJ,320,,OVERALL,Feminist Anti-Racist Pedagogies,,37,88.324324324,7.550033311,94.0,52.0,,,,,,,,,,8,23
-UBCV,2015,W,GRSJ,325,,001,Decolonizing and Feminist Qualitative Methodologies,Sarah Rudrum,37,83.027027027,4.958082551,90.0,68.0,,,,,,,,,11,16,
-UBCV,2015,W,GRSJ,325,,OVERALL,Decolonizing and Feminist Qualitative Methodologies,,37,83.027027027,4.958082551,90.0,68.0,,,,,,,,,11,16,
-UBCV,2015,W,GRSJ,326,,001,"The Politics of Gender, Families, and Nation-Building",Evangelia Chatzivasileiou,40,78.55,10.228040893,96.0,61.0,,,,5,,6,,,8,6,7
-UBCV,2015,W,GRSJ,326,,OVERALL,"The Politics of Gender, Families, and Nation-Building",,40,78.55,10.228040893,96.0,61.0,,,,5,,6,,,8,6,7
-UBCV,2015,W,GRSJ,327,,001,Feminist Theories of Representation and Difference,Denise Ferreira Da Silva,42,79.452380952,5.653414167999999,95.0,61.0,,,,,,,,20,11,,
-UBCV,2015,W,GRSJ,327,,OVERALL,Feminist Theories of Representation and Difference,,42,79.452380952,5.653414167999999,95.0,61.0,,,,,,,,20,11,,
-UBCV,2015,W,GRSJ,328,,001,Feminist Theories of Subjectivity,John Paul Catungal,40,78.125,5.459348604,86.0,64.0,,,,,,,,12,12,7,
-UBCV,2015,W,GRSJ,328,,OVERALL,Feminist Theories of Subjectivity,,40,78.125,5.459348604,86.0,64.0,,,,,,,,12,12,7,
-UBCV,2015,W,GRSJ,401,,001,"Body, Gender and Society",Kim Snowden,24,80.958333333,6.924933945,90.0,59.0,,,,,,,,,8,7,
-UBCV,2015,W,GRSJ,401,,OVERALL,"Body, Gender and Society",,24,80.958333333,6.924933945,90.0,59.0,,,,,,,,,8,7,
-UBCV,2015,W,GRSJ,422,,001,Advanced Research Seminar,John Paul Catungal,30,81.06666666699999,3.982144054,87.0,68.0,,,,,,,,7,14,8,
-UBCV,2015,W,GRSJ,422,,OVERALL,Advanced Research Seminar,,30,81.06666666699999,3.982144054,87.0,68.0,,,,,,,,7,14,8,
-UBCV,2015,W,GRSJ,425,A,001,"Special Topics in Gender, Race, and Sexuality",,9,94.22222222200001,1.4813657359999999,96.0,92.0,,,,,,,,,,,9
-UBCV,2015,W,GRSJ,425,A,OVERALL,"Special Topics in Gender, Race, and Sexuality",,9,94.22222222200001,1.4813657359999999,96.0,92.0,,,,,,,,,,,9
+UBCV,2015,W,GRSJ,310,,001,Issues in Gender and Health,Heather Latimer,35,80.6,5.053827903,89.0,69.0,0,0,0,0,0,,,10,15,6,0
+UBCV,2015,W,GRSJ,310,,OVERALL,Issues in Gender and Health,,35,80.6,5.053827903,89.0,69.0,0,0,0,0,0,,,10,15,6,0
+UBCV,2015,W,GRSJ,311,,001,African/Black Women in the Americas,Delia Douglas,33,72.878787879,13.006627099,87.0,21.0,,,,,,5,5,6,11,,0
+UBCV,2015,W,GRSJ,311,,OVERALL,African/Black Women in the Americas,,33,72.878787879,13.006627099,87.0,21.0,,,,,,5,5,6,11,,0
+UBCV,2015,W,GRSJ,320,,001,Feminist Anti-Racist Pedagogies,Amel Abdelfadil Elradi;Raymond Hsu;Raymond Junglee Hsu,37,88.324324324,7.550033311,94.0,52.0,0,,,,,,,,,8,23
+UBCV,2015,W,GRSJ,320,,OVERALL,Feminist Anti-Racist Pedagogies,,37,88.324324324,7.550033311,94.0,52.0,0,,,,,,,,,8,23
+UBCV,2015,W,GRSJ,325,,001,Decolonizing and Feminist Qualitative Methodologies,Sarah Rudrum,37,83.027027027,4.958082551,90.0,68.0,0,0,0,0,0,,,,11,16,
+UBCV,2015,W,GRSJ,325,,OVERALL,Decolonizing and Feminist Qualitative Methodologies,,37,83.027027027,4.958082551,90.0,68.0,0,0,0,0,0,,,,11,16,
+UBCV,2015,W,GRSJ,326,,001,"The Politics of Gender, Families, and Nation-Building",Evangelia Chatzivasileiou,40,78.55,10.228040893,96.0,61.0,0,0,0,5,,6,,,8,6,7
+UBCV,2015,W,GRSJ,326,,OVERALL,"The Politics of Gender, Families, and Nation-Building",,40,78.55,10.228040893,96.0,61.0,0,0,0,5,,6,,,8,6,7
+UBCV,2015,W,GRSJ,327,,001,Feminist Theories of Representation and Difference,Denise Ferreira Da Silva,42,79.452380952,5.653414168,95.0,61.0,0,0,0,,,,,20,11,,
+UBCV,2015,W,GRSJ,327,,OVERALL,Feminist Theories of Representation and Difference,,42,79.452380952,5.653414168,95.0,61.0,0,0,0,,,,,20,11,,
+UBCV,2015,W,GRSJ,328,,001,Feminist Theories of Subjectivity,John Paul Catungal,40,78.125,5.459348604,86.0,64.0,0,0,0,0,,,,12,12,7,0
+UBCV,2015,W,GRSJ,328,,OVERALL,Feminist Theories of Subjectivity,,40,78.125,5.459348604,86.0,64.0,0,0,0,0,,,,12,12,7,0
+UBCV,2015,W,GRSJ,401,,001,"Body, Gender and Society",Kim Snowden,24,80.958333333,6.924933945,90.0,59.0,0,0,,,,,,,8,7,
+UBCV,2015,W,GRSJ,401,,OVERALL,"Body, Gender and Society",,24,80.958333333,6.924933945,90.0,59.0,0,0,,,,,,,8,7,
+UBCV,2015,W,GRSJ,422,,001,Advanced Research Seminar,John Paul Catungal,30,81.066666667,3.982144054,87.0,68.0,0,0,0,0,0,,,7,14,8,0
+UBCV,2015,W,GRSJ,422,,OVERALL,Advanced Research Seminar,,30,81.066666667,3.982144054,87.0,68.0,0,0,0,0,0,,,7,14,8,0
+UBCV,2015,W,GRSJ,425,A,001,"Special Topics in Gender, Race, and Sexuality",,9,94.222222222,1.481365736,96.0,92.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2015,W,GRSJ,425,A,OVERALL,"Special Topics in Gender, Race, and Sexuality",,9,94.222222222,1.481365736,96.0,92.0,0,0,0,0,0,0,0,0,0,0,9
 UBCV,2015,W,GRSJ,500,,001,Intersectional Issues in Social Justice and Equality Studies,Dina Al-Kassim,14,86.928571429,12.821042114,94.0,43.0,,,,,,,,,,6,7
 UBCV,2015,W,GRSJ,500,,OVERALL,Intersectional Issues in Social Justice and Equality Studies,,15,87.133333333,12.380091545,94.0,43.0,,,,,,,,,,6,8
-UBCV,2015,W,GRSJ,501,,002,Issues in Decolonizing and Feminist Methodologies,Leonora Angeles,19,89.05263157899999,1.682382048,92.0,85.0,,,,,,,,,,11,8
-UBCV,2015,W,GRSJ,501,,OVERALL,Issues in Decolonizing and Feminist Methodologies,,19,89.05263157899999,1.682382048,92.0,85.0,,,,,,,,,,11,8
-UBCV,2015,W,GRSJ,502,,001,"Issues in Gender, Sexuality, and Critical Race Theories",Sunera Thobani,20,86.1,4.517801049,96.0,80.0,,,,,,,,,6,11,
-UBCV,2015,W,GRSJ,502,,OVERALL,"Issues in Gender, Sexuality, and Critical Race Theories",,20,86.1,4.517801049,96.0,80.0,,,,,,,,,6,11,
-UBCV,2015,W,GRSJ,503,D,001,Special Topics in Feminist Studies,Denise Ferreira Da Silva,9,86.888888889,2.891558595,89.0,80.0,,,,,,,,,,8,
-UBCV,2015,W,GRSJ,503,D,OVERALL,Special Topics in Feminist Studies,,9,86.888888889,2.891558595,89.0,80.0,,,,,,,,,,8,
+UBCV,2015,W,GRSJ,501,,002,Issues in Decolonizing and Feminist Methodologies,Leonora Angeles,19,89.052631579,1.682382048,92.0,85.0,0,0,0,0,0,0,0,0,0,11,8
+UBCV,2015,W,GRSJ,501,,OVERALL,Issues in Decolonizing and Feminist Methodologies,,19,89.052631579,1.682382048,92.0,85.0,0,0,0,0,0,0,0,0,0,11,8
+UBCV,2015,W,GRSJ,502,,001,"Issues in Gender, Sexuality, and Critical Race Theories",Sunera Thobani,20,86.1,4.517801049,96.0,80.0,0,0,0,0,0,0,0,0,6,11,3.0
+UBCV,2015,W,GRSJ,502,,OVERALL,"Issues in Gender, Sexuality, and Critical Race Theories",,20,86.1,4.517801049,96.0,80.0,0,0,0,0,0,0,0,0,6,11,3.0
+UBCV,2015,W,GRSJ,503,D,001,Special Topics in Feminist Studies,Denise Ferreira Da Silva,9,86.888888889,2.891558595,89.0,80.0,0,0,0,0,0,0,0,0,1.0,8,0
+UBCV,2015,W,GRSJ,503,D,OVERALL,Special Topics in Feminist Studies,,9,86.888888889,2.891558595,89.0,80.0,0,0,0,0,0,0,0,0,1.0,8,0

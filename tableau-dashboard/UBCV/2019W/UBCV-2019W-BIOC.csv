@@ -1,55 +1,55 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,BIOC,202,,001,Introductory Medical Biochemistry,Evgeniy Panzhinskiy;Lindsay Rogers (Brown);Warren Williams,112,70.928571429,14.918827989,100.0,14.0,5,4.0,11,19,12,9,7,6,15,12,12
-UBCV,2019,W,BIOC,202,,002,Introductory Medical Biochemistry,Evgeniy Panzhinskiy;Lindsay Rogers (Brown);Warren Williams,151,77.112582781,14.142863004,100.0,37.0,2.0,10,7,12,7,13,19,14,13,21,33
-UBCV,2019,W,BIOC,202,,003,Introductory Medical Biochemistry,Michael Krisinger;Robert Maurus,38,67.55263157899999,10.307953813,91.0,50.0,0.0,6,1,7,5,5,4,6,3,0,1
-UBCV,2019,W,BIOC,202,,OVERALL,Introductory Medical Biochemistry,,301,73.604651163,14.455904617,100.0,14.0,7,20,19,38,24,27,30,26,31,33,46
-UBCV,2019,W,BIOC,203,,001,Fundamentals of Biochemistry,Robert Maurus;Warren Williams,106,70.905660377,9.016945214,92.0,48.0,,,9,10,14,21,18,11,13,6,
-UBCV,2019,W,BIOC,203,,OVERALL,Fundamentals of Biochemistry,,106,70.905660377,9.016945214,92.0,48.0,,,9,10,14,21,18,11,13,6,
-UBCV,2019,W,BIOC,301,,001,Biochemistry Laboratory,Alyssa Cristina Kirlin;Anni Zhang;Courtney Elizabeth Van Ballegooie;Courtney Van Ballegooie;Dillon Jevon;Geetha Venkateswaran;Jason Read;Jiaming Xu;Mopelola Akinlaja;Or Golan;Yu Han Zhang,150,82.0,7.3885454610000005,96.0,52.0,,,,,,8,15,16,46,41,19
-UBCV,2019,W,BIOC,301,,OVERALL,Biochemistry Laboratory,,150,82.0,7.3885454610000005,96.0,52.0,,,,,,8,15,16,46,41,19
-UBCV,2019,W,BIOC,302,,102,General Biochemistry,Alice Mui;Nina Radisavljevic;Nisha Chander;Robert Maurus,120,71.975,11.022865845,92.0,31.0,6,3.0,7,7,17,9,15,21,29,5,1
-UBCV,2019,W,BIOC,302,,202,General Biochemistry,Michael Krisinger;Robert Maurus,195,76.451282051,11.771511824000001,100.0,41.0,4,4.0,9,13,13,22,20,16,41,29,24
-UBCV,2019,W,BIOC,302,,OVERALL,General Biochemistry,,315,74.746031746,11.67905231,100.0,31.0,10,7,16,20,30,31,35,37,70,34,25
-UBCV,2019,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Masayuki Numata;Michael Krisinger;Nobuhiko Tokuriki;Thibault Mayor,101,75.475247525,10.127777702000001,95.0,52.0,,,5,5,,16,12,15,20,13,7
-UBCV,2019,W,BIOC,303,,OVERALL,Molecular Biochemistry,,101,75.475247525,10.127777702000001,95.0,52.0,,,5,5,,16,12,15,20,13,7
-UBCV,2019,W,BIOC,304,,001,Contemporary Biochemical Research,Calvin Yip;Harry Brumer;Hugh Kim;Leonard Foster;Sheila Teves,92,77.652173913,9.747848207,96.0,52.0,,,,5,5,10,8,13,21,15,10
-UBCV,2019,W,BIOC,304,,OVERALL,Contemporary Biochemical Research,,92,77.652173913,9.747848207,96.0,52.0,,,,5,5,10,8,13,21,15,10
-UBCV,2019,W,BIOC,402,,101,Proteins: Structure and Function,Calvin Yip;Joerg Gsponer;Udit Dalwadi,131,77.030534351,13.383077105,99.0,23.0,,6,5,,12,10,12,8,23,29,18
-UBCV,2019,W,BIOC,402,,OVERALL,Proteins: Structure and Function,,131,77.030534351,13.383077105,99.0,23.0,,6,5,,12,10,12,8,23,29,18
-UBCV,2019,W,BIOC,403,,201,Enzymology,Christian Kastrup;Natalie Strynadka;Stephen Withers,71,78.943661972,11.283220569000001,98.0,50.0,,,,5,,7,7,9,11,10,15
-UBCV,2019,W,BIOC,403,,OVERALL,Enzymology,,71,78.943661972,11.283220569000001,98.0,50.0,,,,5,,7,7,9,11,10,15
-UBCV,2019,W,BIOC,404,,001,Biochemical Methods,Filip Van Petegem;Franck Duong Van Hoa;Lawrence Mcintosh;Scott Covey;Thibault Mayor,10,90.7,4.448470399,94.0,79.0,,,,,,,,,,,8
-UBCV,2019,W,BIOC,404,,OVERALL,Biochemical Methods,,10,90.7,4.448470399,94.0,79.0,,,,,,,,,,,8
-UBCV,2019,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Annie Ciernia;Cindy Hei Yiu Hei Yiu Lam;Cindy Hei Yiu Lam;Eric Jan;Ivan Sadowski;Leann Howe;Reid Warsaba,97,71.98969072199999,11.929912375,93.0,39.0,,5,,9,12,6,14,11,17,11,
-UBCV,2019,W,BIOC,410,,OVERALL,Nucleic Acids-Structure and Function,,97,71.98969072199999,11.929912375,93.0,39.0,,5,,9,12,6,14,11,17,11,
-UBCV,2019,W,BIOC,420,,101,Advanced Biochemical Techniques,Scott Covey,8,87.125,5.249149591,96.0,80.0,,,,,,,,,,5,
-UBCV,2019,W,BIOC,420,,OVERALL,Advanced Biochemical Techniques,,8,87.125,5.249149591,96.0,80.0,,,,,,,,,,5,
-UBCV,2019,W,BIOC,421,,201,Recombinant DNA Techniques,Lindsay Rogers (Brown),11,79.454545455,8.153080845,91.0,67.0,,,,,,,,,,,
-UBCV,2019,W,BIOC,421,,202,Recombinant DNA Techniques,Lindsay Rogers (Brown),11,75.727272727,7.497878488,85.0,66.0,,,,,,,,,,,
-UBCV,2019,W,BIOC,421,,204,Recombinant DNA Techniques,Lindsay Rogers (Brown),9,78.222222222,3.382963855,83.0,71.0,,,,,,,,,,,
-UBCV,2019,W,BIOC,421,,OVERALL,Recombinant DNA Techniques,,31,77.774193548,6.825001477000001,91.0,66.0,,,,,,6,,7,8,5,
-UBCV,2019,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,18,82.222222222,9.340333509,95.0,57.0,,,,,,,,,,6,
-UBCV,2019,W,BIOC,440,,OVERALL,Concepts in Molecular Biology,,18,82.222222222,9.340333509,95.0,57.0,,,,,,,,,,6,
-UBCV,2019,W,BIOC,448,B,001,Directed Studies in Biochemistry,Lindsay Rogers (Brown);Scott Covey,16,91.0,4.396968653,97.0,78.0,,,,,,,,,,,13
-UBCV,2019,W,BIOC,448,B,OVERALL,Directed Studies in Biochemistry,,16,91.0,4.396968653,97.0,78.0,,,,,,,,,,,13
-UBCV,2019,W,BIOC,449,C,001,Honours Thesis,Lindsay Rogers (Brown);Scott Covey,10,91.5,4.249182928,98.0,84.0,,,,,,,,,,,7
-UBCV,2019,W,BIOC,449,C,OVERALL,Honours Thesis,,10,91.5,4.249182928,98.0,84.0,,,,,,,,,,,7
-UBCV,2019,W,BIOC,450,,001,Membrane Biochemistry,Corey Nislow;Elizabeth Conibear;Filip Van Petegem;Masayuki Numata;Natalie Strynadka;Pieter Cullis;Robert Molday,40,83.55,5.759941239,95.0,73.0,,,,,,,,7,14,9,7
-UBCV,2019,W,BIOC,450,,OVERALL,Membrane Biochemistry,,40,83.55,5.759941239,95.0,73.0,,,,,,,,7,14,9,7
-UBCV,2019,W,BIOC,460,,001,Advanced Techniques in Biochemistry,Alice Mui;Christopher Mark Overall;Leonard Foster;Michael Kobor;Michel Roberge;Nobuhiko Tokuriki,17,84.294117647,4.753481696000001,93.0,75.0,,,,,,,,,6,6,
-UBCV,2019,W,BIOC,460,,002,Advanced Techniques in Biochemistry,Alice Mui;Christopher Mark Overall;Leonard Foster;Michel Roberge;Nobuhiko Tokuriki,18,82.833333333,5.193321503,89.0,72.0,,,,,,,,,4,9,
-UBCV,2019,W,BIOC,460,,OVERALL,Advanced Techniques in Biochemistry,,35,83.542857143,4.966611208,93.0,72.0,,,,,,,,,10,15,
-UBCV,2019,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,14,90.14285714299999,3.084879822,96.0,84.0,,,,,,,,,,,9
-UBCV,2019,W,BIOC,530,,OVERALL,Seminar in Biochemistry,,15,90.2,2.980891525,96.0,84.0,,,,,,,,,,,10
-UBCV,2019,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,B Brett Finlay;Calvin Yip;Christian Kastrup;Corey Nislow;Dieter Bromme;Filip Van Petegem;Jason Read;Lawrence Mcintosh;Leann Howe;Natalie Strynadka;Nobuhiko Tokuriki;Philip Hieter;Scott Covey;Sheila Teves;Thibault Mayor;Vivien Measday,14,87.35714285700001,6.464187055,94.0,66.0,,,,,,,,,,8,5
-UBCV,2019,W,BIOC,551,,OVERALL,Advanced Topics in Biochemistry and Molecular Biology,,14,87.35714285700001,6.464187055,94.0,66.0,,,,,,,,,,8,5
-UBCV,2019,W,BIOC,552,,001,Membrane Proteins,,13,90.076923077,2.8419928,94.0,82.0,,,,,,,,,,,10
-UBCV,2019,W,BIOC,552,,OVERALL,Membrane Proteins,,13,90.076923077,2.8419928,94.0,82.0,,,,,,,,,,,10
-UBCV,2019,W,BIOC,553,,001,Advanced Topics in Lipid Biology,Pieter Cullis,6,89.666666667,3.932768321,96.0,86.0,,,,,,,,,,,
-UBCV,2019,W,BIOC,553,,OVERALL,Advanced Topics in Lipid Biology,,6,89.666666667,3.932768321,96.0,86.0,,,,,,,,,,,
-UBCV,2019,W,BIOC,554,,001,Nucleic Acids: DNA/RNA Structure and Function,Sheila Teves,12,84.416666667,4.679905464,90.0,74.0,,,,,,,,,5,,
-UBCV,2019,W,BIOC,554,,OVERALL,Nucleic Acids: DNA/RNA Structure and Function,,12,84.416666667,4.679905464,90.0,74.0,,,,,,,,,5,,
-UBCV,2019,W,BIOC,555,,001,Epigenetics,,8,90.625,5.553313039,99.0,84.0,,,,,,,,,,,5
-UBCV,2019,W,BIOC,555,,OVERALL,Epigenetics,,8,90.625,5.553313039,99.0,84.0,,,,,,,,,,,5
-UBCV,2019,W,BIOC,560,,001,Computational Approaches in Biochemistry,,12,88.166666667,8.155682161,96.0,70.0,,,,,,,,,,,6
-UBCV,2019,W,BIOC,560,,OVERALL,Computational Approaches in Biochemistry,,12,88.166666667,8.155682161,96.0,70.0,,,,,,,,,,,6
+UBCV,2019,W,BIOC,202,,001,Introductory Medical Biochemistry,Evgeniy Panzhinskiy;Lindsay Rogers (Brown);Warren Williams,112,70.92857143,14.91882799,100.0,14.0,5,4,11.0,19,12,9,7.0,6,15.0,12.0,12
+UBCV,2019,W,BIOC,202,,002,Introductory Medical Biochemistry,Evgeniy Panzhinskiy;Warren Williams,151,77.11258278,14.142863,100.0,37.0,2,10,7.0,12,7,13,19.0,14,13.0,21.0,33
+UBCV,2019,W,BIOC,202,,003,Introductory Medical Biochemistry,Michael Krisinger;Robert Maurus,38,67.55263158,10.30795381,91.0,50.0,0,6,1.0,7,5,5,4.0,6,3.0,0.0,1
+UBCV,2019,W,BIOC,202,,OVERALL,Introductory Medical Biochemistry,,301,73.60465116,14.45590462,100.0,14.0,7,20,19.0,38,24,27,30.0,26,31.0,33.0,46
+UBCV,2019,W,BIOC,203,,001,Fundamentals of Biochemistry,Robert Maurus;Warren Williams,107,70.88785047,8.976202398,92.0,48.0,1,2,9.0,10,14,22,18.0,11,13.0,6.0,1
+UBCV,2019,W,BIOC,203,,OVERALL,Fundamentals of Biochemistry,,107,70.88785047,8.976202398,92.0,48.0,1,2,9.0,10,14,22,18.0,11,13.0,6.0,1
+UBCV,2019,W,BIOC,301,,001,Biochemistry Laboratory,Alyssa Cristina Kirlin;Anni Zhang;Courtney Elizabeth Van Ballegooie;Courtney Van Ballegooie;Dillon Jevon;Geetha Venkateswaran;Jason Read;Jiaming Xu;Mopelola Akinlaja;Or Golan;Yu Han Zhang,150,82.0,7.388545461,96.0,52.0,0,1,0.0,3,1,8,15.0,16,46.0,41.0,19
+UBCV,2019,W,BIOC,301,,OVERALL,Biochemistry Laboratory,,150,82.0,7.388545461,96.0,52.0,0,1,0.0,3,1,8,15.0,16,46.0,41.0,19
+UBCV,2019,W,BIOC,302,,102,General Biochemistry,Alice Mui;Nina Radisavljevic;Nisha Chander;Robert Maurus,120,71.975,11.02286585,92.0,31.0,6,3,7.0,7,17,9,15.0,21,29.0,5.0,1
+UBCV,2019,W,BIOC,302,,202,General Biochemistry,Michael Krisinger;Robert Maurus,195,76.45128205,11.77151182,100.0,41.0,4,4,9.0,13,13,22,20.0,16,41.0,29.0,24
+UBCV,2019,W,BIOC,302,,OVERALL,General Biochemistry,,315,74.74603175,11.67905231,100.0,31.0,10,7,16.0,20,30,31,35.0,37,70.0,34.0,25
+UBCV,2019,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Masayuki Numata;Michael Krisinger;Nobuhiko Tokuriki;Thibault Mayor,101,75.47524753,10.1277777,95.0,52.0,0,4,5.0,5,4,16,12.0,15,20.0,13.0,7
+UBCV,2019,W,BIOC,303,,OVERALL,Molecular Biochemistry,,101,75.47524753,10.1277777,95.0,52.0,0,4,5.0,5,4,16,12.0,15,20.0,13.0,7
+UBCV,2019,W,BIOC,304,,001,Contemporary Biochemical Research,Calvin Yip;Harry Brumer;Hugh Kim;Sheila Teves,92,77.65217391,9.747848207,96.0,52.0,0,1,4.0,5,5,10,8.0,13,21.0,15.0,10
+UBCV,2019,W,BIOC,304,,OVERALL,Contemporary Biochemical Research,,92,77.65217391,9.747848207,96.0,52.0,0,1,4.0,5,5,10,8.0,13,21.0,15.0,10
+UBCV,2019,W,BIOC,402,,101,Proteins: Structure and Function,Calvin Yip;Joerg Gsponer;Udit Dalwadi,131,77.03053435,13.38307711,99.0,23.0,4,6,5.0,4,12,10,12.0,8,23.0,29.0,18
+UBCV,2019,W,BIOC,402,,OVERALL,Proteins: Structure and Function,,131,77.03053435,13.38307711,99.0,23.0,4,6,5.0,4,12,10,12.0,8,23.0,29.0,18
+UBCV,2019,W,BIOC,403,,201,Enzymology,Christian Kastrup;Natalie Strynadka;Stephen Withers,71,78.94366197,11.28322057,98.0,50.0,0,2,1.0,5,4,7,7.0,9,11.0,10.0,15
+UBCV,2019,W,BIOC,403,,OVERALL,Enzymology,,71,78.94366197,11.28322057,98.0,50.0,0,2,1.0,5,4,7,7.0,9,11.0,10.0,15
+UBCV,2019,W,BIOC,404,,001,Biochemical Methods,Filip Van Petegem;Franck Duong Van Hoa;Lawrence Mcintosh;Scott Covey;Thibault Mayor,10,90.7,4.448470399,94.0,79.0,0,0,0.0,0,0,0,0.0,1,0.0,1.0,8
+UBCV,2019,W,BIOC,404,,OVERALL,Biochemical Methods,,10,90.7,4.448470399,94.0,79.0,0,0,0.0,0,0,0,0.0,1,0.0,1.0,8
+UBCV,2019,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Annie Ciernia;Cindy Hei Yiu Hei Yiu Lam;Cindy Hei Yiu Lam;Eric Jan;Ivan Sadowski;Leann Howe;Reid Warsaba,97,71.98969072,11.92991238,93.0,39.0,4,5,4.0,9,12,6,14.0,11,17.0,11.0,4
+UBCV,2019,W,BIOC,410,,OVERALL,Nucleic Acids-Structure and Function,,97,71.98969072,11.92991238,93.0,39.0,4,5,4.0,9,12,6,14.0,11,17.0,11.0,4
+UBCV,2019,W,BIOC,420,,101,Advanced Biochemical Techniques,Scott Covey,8,87.125,5.249149591,96.0,80.0,0,0,0.0,0,0,0,0.0,0,1.0,5.0,2
+UBCV,2019,W,BIOC,420,,OVERALL,Advanced Biochemical Techniques,,8,87.125,5.249149591,96.0,80.0,0,0,0.0,0,0,0,0.0,0,1.0,5.0,2
+UBCV,2019,W,BIOC,421,,201,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown),11,79.45454546,8.153080845,91.0,67.0,0,0,0.0,0,1,2,1.0,1,3.0,2.0,1
+UBCV,2019,W,BIOC,421,,202,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown),11,75.72727273,7.497878488,85.0,66.0,0,0,0.0,0,2,3,0.0,2,1.0,3.0,0
+UBCV,2019,W,BIOC,421,,204,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown),9,78.22222222,3.382963855,83.0,71.0,0,0,0.0,0,0,1,0.0,4,4.0,0.0,0
+UBCV,2019,W,BIOC,421,,OVERALL,Recombinant DNA Techniques,,31,77.77419355,6.825001477,91.0,66.0,0,0,0.0,0,3,6,1.0,7,8.0,5.0,1
+UBCV,2019,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,18,82.22222222,9.340333509,95.0,57.0,0,0,1.0,0,0,1,1.0,2,4.0,6.0,3
+UBCV,2019,W,BIOC,440,,OVERALL,Concepts in Molecular Biology,,18,82.22222222,9.340333509,95.0,57.0,0,0,1.0,0,0,1,1.0,2,4.0,6.0,3
+UBCV,2019,W,BIOC,448,B,001,Directed Studies in Biochemistry,Lindsay Brown;Lindsay Rogers (Brown);Scott Covey,16,91.0,4.396968653,97.0,78.0,0,0,0.0,0,0,0,0.0,1,0.0,2.0,13
+UBCV,2019,W,BIOC,448,B,OVERALL,Directed Studies in Biochemistry,,16,91.0,4.396968653,97.0,78.0,0,0,0.0,0,0,0,0.0,1,0.0,2.0,13
+UBCV,2019,W,BIOC,449,C,001,Honours Thesis,Lindsay Brown;Lindsay Rogers (Brown);Scott Covey,10,91.5,4.249182928,98.0,84.0,0,0,0.0,0,0,0,0.0,0,1.0,2.0,7
+UBCV,2019,W,BIOC,449,C,OVERALL,Honours Thesis,,10,91.5,4.249182928,98.0,84.0,0,0,0.0,0,0,0,0.0,0,1.0,2.0,7
+UBCV,2019,W,BIOC,450,,001,Membrane Biochemistry,Corey Nislow;Elizabeth Conibear;Filip Van Petegem;Masayuki Numata;Natalie Strynadka;Pieter Cullis;Robert Molday,40,83.55,5.759941239,95.0,73.0,0,0,0.0,0,0,0,3.0,7,14.0,9.0,7
+UBCV,2019,W,BIOC,450,,OVERALL,Membrane Biochemistry,,40,83.55,5.759941239,95.0,73.0,0,0,0.0,0,0,0,3.0,7,14.0,9.0,7
+UBCV,2019,W,BIOC,460,,001,Advanced Techniques in Biochemistry,Alice Mui;Christopher Mark Overall;Leonard Foster;Michael Kobor;Michel Roberge;Nobuhiko Tokuriki,17,84.29411765,4.753481696,93.0,75.0,0,0,0.0,0,0,0,1.0,1,6.0,6.0,3
+UBCV,2019,W,BIOC,460,,002,Advanced Techniques in Biochemistry,Alice Mui;Christopher Mark Overall;Leonard Foster;Michel Roberge;Nobuhiko Tokuriki,18,82.83333333,5.193321503,89.0,72.0,0,0,0.0,0,0,0,2.0,3,4.0,9.0,0
+UBCV,2019,W,BIOC,460,,OVERALL,Advanced Techniques in Biochemistry,,35,83.54285714,4.966611208,93.0,72.0,0,0,0.0,0,0,0,3.0,4,10.0,15.0,3
+UBCV,2019,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,14,90.14285714,3.084879822,96.0,84.0,0,0,0.0,0,0,0,0.0,0,1.0,4.0,9
+UBCV,2019,W,BIOC,530,,OVERALL,Seminar in Biochemistry,,15,90.2,2.980891525,96.0,84.0,0,0,0.0,0,0,0,0.0,0,1.0,4.0,10
+UBCV,2019,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,B Brett Finlay;Calvin Yip;Christian Kastrup;Corey Nislow;Dieter Bromme;Filip Van Petegem;Jason Read;Lawrence Mcintosh;Leann Howe;Natalie Strynadka;Nobuhiko Tokuriki;Philip Hieter;Scott Covey;Sheila Teves;Thibault Mayor;Vivien Measday,14,87.35714286,6.464187055,94.0,66.0,0,0,0.0,0,1,0,0.0,0,0.0,8.0,5
+UBCV,2019,W,BIOC,551,,OVERALL,Advanced Topics in Biochemistry and Molecular Biology,,14,87.35714286,6.464187055,94.0,66.0,0,0,0.0,0,1,0,0.0,0,0.0,8.0,5
+UBCV,2019,W,BIOC,552,,001,Membrane Proteins,,13,90.07692308,2.8419928,94.0,82.0,0,0,0.0,0,0,0,0.0,0,1.0,2.0,10
+UBCV,2019,W,BIOC,552,,OVERALL,Membrane Proteins,,13,90.07692308,2.8419928,94.0,82.0,0,0,0.0,0,0,0,0.0,0,1.0,2.0,10
+UBCV,2019,W,BIOC,553,,001,Advanced Topics in Lipid Biology,Pieter Cullis,6,89.66666667,3.932768321,96.0,86.0,0,0,0.0,0,0,0,0.0,0,0.0,4.0,2
+UBCV,2019,W,BIOC,553,,OVERALL,Advanced Topics in Lipid Biology,,6,89.66666667,3.932768321,96.0,86.0,0,0,0.0,0,0,0,0.0,0,0.0,4.0,2
+UBCV,2019,W,BIOC,554,,001,Nucleic Acids: DNA/RNA Structure and Function,Sheila Teves,12,84.41666667,4.679905464,90.0,74.0,0,0,0.0,0,0,0,1.0,1,5.0,4.0,1
+UBCV,2019,W,BIOC,554,,OVERALL,Nucleic Acids: DNA/RNA Structure and Function,,12,84.41666667,4.679905464,90.0,74.0,0,0,0.0,0,0,0,1.0,1,5.0,4.0,1
+UBCV,2019,W,BIOC,555,,001,Epigenetics,,8,90.625,5.553313039,99.0,84.0,0,0,0.0,0,0,0,0.0,0,2.0,1.0,5
+UBCV,2019,W,BIOC,555,,OVERALL,Epigenetics,,8,90.625,5.553313039,99.0,84.0,0,0,0.0,0,0,0,0.0,0,2.0,1.0,5
+UBCV,2019,W,BIOC,560,,001,Computational Approaches in Biochemistry,,12,88.16666667,8.155682161,96.0,70.0,0,0,0.0,0,0,1,0.0,0,4.0,1.0,6
+UBCV,2019,W,BIOC,560,,OVERALL,Computational Approaches in Biochemistry,,12,88.16666667,8.155682161,96.0,70.0,0,0,0.0,0,0,1,0.0,0,4.0,1.0,6

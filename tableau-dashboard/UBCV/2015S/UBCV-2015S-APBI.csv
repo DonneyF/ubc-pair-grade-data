@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,S,APBI,100,,98A,Soil and the Global Environment,Sandra Brown,19,67.68421053,18.56535792,86.0,1.0,,,,,,,5,,,,
-UBCV,2015,S,APBI,100,,OVERALL,Soil and the Global Environment,,19,67.684210526,18.565357918,86.0,1.0,,,,,,,5,,,,
+UBCV,2015,S,APBI,100,,98A,Soil and the Global Environment,Sandra Brown,19,67.68421053,18.56535792,86.0,1.0,,,,,,,5,,,,0
+UBCV,2015,S,APBI,100,,OVERALL,Soil and the Global Environment,,19,67.684210526,18.565357918,86.0,1.0,,,,,,,5,,,,0
 UBCV,2015,S,APBI,200,,98A,Introduction to Soil Science,Marie-Claude Fortin;Qian Tang,15,69.2,27.30829283,95.0,3.0,,,,,,,,,,,
 UBCV,2015,S,APBI,200,,OVERALL,Introduction to Soil Science,,15,69.2,27.308292827,95.0,3.0,,,,,,,,,,,
-UBCV,2015,S,APBI,314,,941,Animals and Society,Daniel Wood;Elisabeth Helen Ormandy;Elisabeth Ormandy,30,84.66666667,9.966610925,98.0,57.0,,,,,,,,,,,13
-UBCV,2015,S,APBI,314,,OVERALL,Animals and Society,,30,84.666666667,9.966610925,98.0,57.0,,,,,,,,,,,13
-UBCV,2015,S,APBI,315,,941,Animal Welfare and the Ethics of Animal Use,Christine Lynne Sumner;Christine Sumner;Kristen Walker,21,84.76190476,10.83468856,97.0,56.0,,,,,,,,,,,10
-UBCV,2015,S,APBI,315,,OVERALL,Animal Welfare and the Ethics of Animal Use,,21,84.761904762,10.83468856,97.0,56.0,,,,,,,,,,,10
-UBCV,2015,S,APBI,428,,98A,Integrated Pest Management,Yasmin Akhtar,10,80.7,5.558776844,90.0,72.0,,,,,,,,,,,
-UBCV,2015,S,APBI,428,,OVERALL,Integrated Pest Management,,10,80.7,5.558776844,90.0,72.0,,,,,,,,,,,
-UBCV,2015,S,APBI,496,B,951,Applied Animal Biology Practicum,Sara Dubois,10,86.1,13.27026752,94.0,50.0,,,,,,,,,,,7
-UBCV,2015,S,APBI,496,B,OVERALL,Applied Animal Biology Practicum,,13,83.615384615,12.48691623,94.0,50.0,,,,,,,,,,,7
-UBCV,2015,S,APBI,497,B,001,Directed Studies,,6,92.16666667,2.639444386,97.0,90.0,,,,,,,,,,,6
-UBCV,2015,S,APBI,497,B,OVERALL,Directed Studies,,6,92.166666667,2.639444386,97.0,90.0,,,,,,,,,,,6
+UBCV,2015,S,APBI,314,,941,Animals and Society,Daniel Wood;Elisabeth Helen Ormandy;Elisabeth Ormandy,30,84.66666667,9.966610925,98.0,57.0,0,0,,,,,,,,,13
+UBCV,2015,S,APBI,314,,OVERALL,Animals and Society,,30,84.666666667,9.966610925,98.0,57.0,0,0,,,,,,,,,13
+UBCV,2015,S,APBI,315,,941,Animal Welfare and the Ethics of Animal Use,Christine Lynne Sumner;Christine Sumner;Kristen Walker,21,84.76190476,10.83468856,97.0,56.0,0,0,,,,,,,,,10
+UBCV,2015,S,APBI,315,,OVERALL,Animal Welfare and the Ethics of Animal Use,,21,84.761904762,10.83468856,97.0,56.0,0,0,,,,,,,,,10
+UBCV,2015,S,APBI,428,,98A,Integrated Pest Management,Yasmin Akhtar,10,80.7,5.558776844,90.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2015,S,APBI,428,,OVERALL,Integrated Pest Management,,10,80.7,5.558776844,90.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2015,S,APBI,496,B,951,Applied Animal Biology Practicum,Sara Dubois,10,86.1,13.27026752,94.0,50.0,0,,,,,,,,,,7
+UBCV,2015,S,APBI,496,B,OVERALL,Applied Animal Biology Practicum,,13,83.615384615,12.48691623,94.0,50.0,0,,,,,,,,,,7
+UBCV,2015,S,APBI,497,B,001,Directed Studies,,6,92.16666667,2.639444386,97.0,90.0,0,0,0,0,0,0,0,0,0,0,6
+UBCV,2015,S,APBI,497,B,OVERALL,Directed Studies,,6,92.166666667,2.639444386,97.0,90.0,0,0,0,0,0,0,0,0,0,0,6

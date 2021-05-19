@@ -1,122 +1,122 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,SPPH,200,,001,Understanding the Sociocultural Determinants of the Health of Populations,Charles Frankish;Charles James Frankish,56,96.964285714,1.60639954,98.0,89.0,,,,,,,,,,1,55
-UBCV,2015,W,SPPH,200,,002,Understanding the Sociocultural Determinants of the Health of Populations,Charles Frankish;Charles James Frankish;Kanna Tanimura;Martin Guhn,36,93.888888889,5.917421146000001,100.0,75.0,,,,,,,,,,5,29
-UBCV,2015,W,SPPH,200,,OVERALL,Understanding the Sociocultural Determinants of the Health of Populations,,92,95.760869565,4.159906923,100.0,75.0,,,,,,,,,,6,84
-UBCV,2015,W,SPPH,300,,001,Working in International Health,Bjorn Stime;Erica Frank;Kasra Hassani,82,98.975609756,1.563279315,100.0,92.0,,,,,,,,,,,82
-UBCV,2015,W,SPPH,300,,OVERALL,Working in International Health,,82,98.975609756,1.563279315,100.0,92.0,,,,,,,,,,,82
-UBCV,2015,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Lawrence Frisch;Leo Chen;Pauline Voon,43,88.139534884,5.002767783,95.0,64.0,,,,,,,,,,21,19
-UBCV,2015,W,SPPH,302,,OVERALL,Topics in Health Informatics for Health/Life Sciences Students,,43,88.139534884,5.002767783,95.0,64.0,,,,,,,,,,21,19
-UBCV,2015,W,SPPH,400,,001,Statistics for Health Research,Md Nazrul Islam;Michael Marin;Stephanie Lake;Stephanie Louise Lake,88,80.954545455,8.502750185,95.0,55.0,,,,,,,9,10,17,27,15
-UBCV,2015,W,SPPH,400,,DL1,Statistics for Health Research,Mary Clare Kennedy;Michael Marin,19,80.210526316,9.174717357999999,90.0,49.0,,,,,,,2,2,7,5,2
-UBCV,2015,W,SPPH,400,,OVERALL,Statistics for Health Research,,107,80.822429907,8.585653988999999,95.0,49.0,,,,,,,11,12,24,32,17
-UBCV,2015,W,SPPH,406,,001,Aging from an Interdisciplinary Perspective,Elizabeth Kelson,26,86.384615385,4.345820273,93.0,77.0,,,,,,,,,4,11,8
-UBCV,2015,W,SPPH,406,,002,Aging from an Interdisciplinary Perspective,Elizabeth Kelson,29,84.931034483,6.391573887000001,93.0,57.0,,,,,,,,,11,12,5
-UBCV,2015,W,SPPH,406,,OVERALL,Aging from an Interdisciplinary Perspective,,55,85.618181818,5.519295812,93.0,57.0,,,,,,,,,15,23,13
-UBCV,2015,W,SPPH,410,,002,Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions,David Birnbaum,49,92.08163265299999,4.563609383999999,97.0,68.0,,,,,,,,,,5,43
-UBCV,2015,W,SPPH,410,,OVERALL,Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions,,49,92.08163265299999,4.563609383999999,97.0,68.0,,,,,,,,,,5,43
-UBCV,2015,W,SPPH,411,,001,Violence Across the Lifespan,Faith Eiboff;Faith Lesley Eiboff;Leo Chen;Svetlana Kishchenko,51,89.529411765,3.523367373,96.0,79.0,,,,,,,,,2,20,28
-UBCV,2015,W,SPPH,411,,002,Violence Across the Lifespan,Leo Chen;Svetlana Kishchenko,63,89.111111111,3.910742488,97.0,78.0,,,,,,,,,6,28,28
-UBCV,2015,W,SPPH,411,,OVERALL,Violence Across the Lifespan,,114,89.298245614,3.7320184210000003,97.0,78.0,,,,,,,,,8,48,56
+UBCV,2015,W,SPPH,200,,001,Understanding the Sociocultural Determinants of the Health of Populations,Charles Frankish;Charles James Frankish,56,96.964285714,1.60639954,98.0,89.0,0,0,0,0,0,0,0,0,0,1.0,55
+UBCV,2015,W,SPPH,200,,002,Understanding the Sociocultural Determinants of the Health of Populations,Charles Frankish;Charles James Frankish;Kanna Tanimura;Martin Guhn,36,93.888888889,5.917421146,100.0,75.0,0,0,0,0,0,0,,,,5,29
+UBCV,2015,W,SPPH,200,,OVERALL,Understanding the Sociocultural Determinants of the Health of Populations,,92,95.760869565,4.159906923,100.0,75.0,0,0,0,0,0,0,,,,6,84
+UBCV,2015,W,SPPH,300,,001,Working in International Health,Bjorn Stime;Erica Frank;Kasra Hassani,82,98.975609756,1.563279315,100.0,92.0,0,0,0,0,0,0,0,0,0,0,82
+UBCV,2015,W,SPPH,300,,OVERALL,Working in International Health,,82,98.975609756,1.563279315,100.0,92.0,0,0,0,0,0,0,0,0,0,0,82
+UBCV,2015,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Lawrence Frisch;Leo Chen;Pauline Voon,43,88.139534884,5.002767783,95.0,64.0,0,0,0,0,,,,,,21,19
+UBCV,2015,W,SPPH,302,,OVERALL,Topics in Health Informatics for Health/Life Sciences Students,,43,88.139534884,5.002767783,95.0,64.0,0,0,0,0,,,,,,21,19
+UBCV,2015,W,SPPH,400,,001,Statistics for Health Research,Md Nazrul Islam;Michael Marin;Stephanie Lake;Stephanie Louise Lake,88,80.954545455,8.502750185,95.0,55.0,0,0,,,,,9,10,17,27,15
+UBCV,2015,W,SPPH,400,,DL1,Statistics for Health Research,Mary Clare Kennedy;Michael Marin,19,80.210526316,9.174717358,90.0,49.0,,,,,,,2,2,7,5,2
+UBCV,2015,W,SPPH,400,,OVERALL,Statistics for Health Research,,107,80.822429907,8.585653989,95.0,49.0,,,,,,,11,12,24,32,17
+UBCV,2015,W,SPPH,406,,001,Aging from an Interdisciplinary Perspective,Elizabeth Kelson,26,86.384615385,4.345820273,93.0,77.0,0,0,0,0,0,0,0,3.0,4,11,8
+UBCV,2015,W,SPPH,406,,002,Aging from an Interdisciplinary Perspective,Elizabeth Kelson,29,84.931034483,6.391573887,93.0,57.0,0,0,,,,,,,11,12,5
+UBCV,2015,W,SPPH,406,,OVERALL,Aging from an Interdisciplinary Perspective,,55,85.618181818,5.519295812,93.0,57.0,0,0,,,,,,,15,23,13
+UBCV,2015,W,SPPH,410,,002,Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions,David Birnbaum,49,92.081632653,4.563609384,97.0,68.0,0,0,0,0,0,,,,,5,43
+UBCV,2015,W,SPPH,410,,OVERALL,Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions,,49,92.081632653,4.563609384,97.0,68.0,0,0,0,0,0,,,,,5,43
+UBCV,2015,W,SPPH,411,,001,Violence Across the Lifespan,Faith Eiboff;Faith Lesley Eiboff;Leo Chen;Svetlana Kishchenko,51,89.529411765,3.523367373,96.0,79.0,0,0,0,0,0,0,0,1.0,2,20,28
+UBCV,2015,W,SPPH,411,,002,Violence Across the Lifespan,Leo Chen;Svetlana Kishchenko,63,89.111111111,3.910742488,97.0,78.0,0,0,0,0,0,0,0,1.0,6,28,28
+UBCV,2015,W,SPPH,411,,OVERALL,Violence Across the Lifespan,,114,89.298245614,3.732018421,97.0,78.0,0,0,0,0,0,0,0,2.0,8,48,56
 UBCV,2015,W,SPPH,481,A,002,Special Topics in Population and Public Health,Ruth Martin,21,78.523809524,20.212914306,95.0,0.0,,,,,,,,,,6,5
 UBCV,2015,W,SPPH,481,A,OVERALL,Special Topics in Population and Public Health,,21,78.523809524,20.212914306,95.0,0.0,,,,,,,,,,6,5
-UBCV,2015,W,SPPH,481,B,002,Special Topics in Population and Public Health,Daniel Steel,13,88.0,7.011894656,97.0,75.0,,,,,,,,,,,7
-UBCV,2015,W,SPPH,481,B,OVERALL,Special Topics in Population and Public Health,,13,88.0,7.011894656,97.0,75.0,,,,,,,,,,,7
-UBCV,2015,W,SPPH,500,,001,Analytical Methods in Epidemiological Research,Hubert Wong,5,85.6,2.302172887,88.0,83.0,,,,,,,,,,3,
+UBCV,2015,W,SPPH,481,B,002,Special Topics in Population and Public Health,Daniel Steel,13,88.0,7.011894656,97.0,75.0,0,0,0,0,0,0,,,,,7
+UBCV,2015,W,SPPH,481,B,OVERALL,Special Topics in Population and Public Health,,13,88.0,7.011894656,97.0,75.0,0,0,0,0,0,0,,,,,7
+UBCV,2015,W,SPPH,500,,001,Analytical Methods in Epidemiological Research,Hubert Wong,5,85.6,2.302172887,88.0,83.0,0,0,0,0,0,0,0,0,2.0,3,0
 UBCV,2015,W,SPPH,500,,002,Analytical Methods in Epidemiological Research,Jia Yun Yao;Md Nazrul Islam;Michael Marin,75,81.306666667,8.405232176,93.0,42.0,,,,,,,5,10,18,26,9
-UBCV,2015,W,SPPH,500,,DL2,Analytical Methods in Epidemiological Research,Hector Alexander Velasquez Garcia;Hector Velasquez Garcia;Mary Clare Kennedy;Michael Marin,18,81.055555556,8.901237338,91.0,60.0,,,,,,,,,,8,
+UBCV,2015,W,SPPH,500,,DL2,Analytical Methods in Epidemiological Research,Hector Alexander Velasquez Garcia;Hector Velasquez Garcia;Mary Clare Kennedy;Michael Marin,18,81.055555556,8.901237338,91.0,60.0,0,0,0,,,,1,0,4.0,8,2
 UBCV,2015,W,SPPH,500,,OVERALL,Analytical Methods in Epidemiological Research,,98,81.479591837,8.302563996,93.0,42.0,,,,,,,6,10,24,37,11
-UBCV,2015,W,SPPH,502,,001,Epidemiological Methods 1,Christine Lukac;Pauline Voon;Trevor Dummer,81,84.20987654300001,7.240020802999999,96.0,62.0,,,,,,,,9,23,13,27
-UBCV,2015,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Martin Schechter;Mina Park,21,80.80952381,5.9717589339999995,88.0,62.0,,,,,,,,3,9,6,0
-UBCV,2015,W,SPPH,502,,OVERALL,Epidemiological Methods 1,,102,83.509803922,7.1056317060000005,96.0,62.0,,,,,,,6,12,32,19,27
-UBCV,2015,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges;Andrea Jones;Dimitra Panagiotoglou,33,81.939393939,6.174237777,92.0,61.0,,,,,,,,6,12,9,3
-UBCV,2015,W,SPPH,503,,DL1,Epidemiological Methods 2,Andrea Jones;Naveed Janjua;Naveed Zafar Janjua,18,87.72222222200001,4.81181824,94.0,76.0,,,,,,,,1,2,7,8
-UBCV,2015,W,SPPH,503,,OVERALL,Epidemiological Methods 2,,51,83.980392157,6.32926598,94.0,61.0,,,,,,,,7,14,16,11
-UBCV,2015,W,SPPH,504,,001,Application of Epidemiological Methods,Mieke Koehoorn;Shayesteh Jahanfar,23,87.739130435,4.453980766,98.0,78.0,,,,,,,,,,11,7
-UBCV,2015,W,SPPH,504,,OVERALL,Application of Epidemiological Methods,,23,87.739130435,4.453980766,98.0,78.0,,,,,,,,,,11,7
-UBCV,2015,W,SPPH,505,,001,Scientific Basis for Epidemiological Thinking,Alissa Merielle Greer;Jane Buxton,25,84.88,4.789919971000001,93.0,73.0,,,,,,,,,10,8,5
-UBCV,2015,W,SPPH,505,,OVERALL,Scientific Basis for Epidemiological Thinking,,25,84.88,4.789919971000001,93.0,73.0,,,,,,,,,10,8,5
-UBCV,2015,W,SPPH,506,,002,Quantitative Research Methods,Elizabeth Wilcox;Gillian Hanley,21,82.857142857,4.198639235,88.0,71.0,,,,,,,,,8,9,
-UBCV,2015,W,SPPH,506,,OVERALL,Quantitative Research Methods,,21,82.857142857,4.198639235,88.0,71.0,,,,,,,,,8,9,
-UBCV,2015,W,SPPH,510,,002,Measurement of Health Care,Louise Masse,9,88.888888889,4.960958689,95.0,80.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,510,,OVERALL,Measurement of Health Care,,9,88.888888889,4.960958689,95.0,80.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,511,,002,Cancer Control and Epidemiology,Dean Regier;John Spinelli;Stuart James Peacock;Stuart Peacock,9,84.555555556,4.876246279,94.0,80.0,,,,,,,,,6,,
-UBCV,2015,W,SPPH,511,,OVERALL,Cancer Control and Epidemiology,,9,84.555555556,4.876246279,94.0,80.0,,,,,,,,,6,,
-UBCV,2015,W,SPPH,512,,002,The Design and Analysis of Clinical Trials,Joel Singer,27,86.888888889,6.476782994,97.0,68.0,,,,,,,,,,13,8
-UBCV,2015,W,SPPH,512,,OVERALL,The Design and Analysis of Clinical Trials,,27,86.888888889,6.476782994,97.0,68.0,,,,,,,,,,13,8
-UBCV,2015,W,SPPH,513,,002,Clinical Epidemiology,Ralph Brands,21,85.857142857,2.1745278630000002,92.0,83.0,,,,,,,,,6,13,
-UBCV,2015,W,SPPH,513,,OVERALL,Clinical Epidemiology,,21,85.857142857,2.1745278630000002,92.0,83.0,,,,,,,,,6,13,
-UBCV,2015,W,SPPH,514,,002,Decision Analysis in Health Care,Nicholas Bansback,10,88.0,3.915780041,92.0,78.0,,,,,,,,,,6,
-UBCV,2015,W,SPPH,514,,OVERALL,Decision Analysis in Health Care,,10,88.0,3.915780041,92.0,78.0,,,,,,,,,,6,
-UBCV,2015,W,SPPH,515,,002,Surveillance and Monitoring in Public Health,Eleni Galanis;Michael Otterstatter,11,88.27272727299999,3.0030287739999997,93.0,84.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,515,,OVERALL,Surveillance and Monitoring in Public Health,,11,88.27272727299999,3.0030287739999997,93.0,84.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,516,,001,Methods for Systematic Reviews in Health Research,Darlene Taylor;Mary Doyle-Waters;Shayesteh Jahanfar,22,93.72727272700001,2.7805757910000004,97.0,86.0,,,,,,,,,,,20
-UBCV,2015,W,SPPH,516,,OVERALL,Methods for Systematic Reviews in Health Research,,22,93.72727272700001,2.7805757910000004,97.0,86.0,,,,,,,,,,,20
-UBCV,2015,W,SPPH,519,,002,Qualitative Methods in Health Research Design,Susan Homewood,9,88.22222222200001,6.200358412999999,95.0,74.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,519,,OVERALL,Qualitative Methods in Health Research Design,,9,88.22222222200001,6.200358412999999,95.0,74.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,520,,002,Control of Communicable Disease,David Patrick;Kaylee Aileen Byers;Kaylee Byers,12,85.916666667,4.461111426,93.0,77.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,520,,OVERALL,Control of Communicable Disease,,12,85.916666667,4.461111426,93.0,77.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,521,,001,Approaches to Enquiry in Population and Public Health,Charlyn Black;Kate Alexandra Jongbloed;Susan Homewood,12,84.5,3.8494391560000003,94.0,80.0,,,,,,,,,8,,
-UBCV,2015,W,SPPH,521,,OVERALL,Approaches to Enquiry in Population and Public Health,,12,84.5,3.8494391560000003,94.0,80.0,,,,,,,,,8,,
-UBCV,2015,W,SPPH,522,,DL2,Topics in Environmental Health,Michael Brauer,20,80.65,4.602916695,89.0,70.0,,,,,,,,5,9,,
-UBCV,2015,W,SPPH,522,,OVERALL,Topics in Environmental Health,,20,80.65,4.602916695,89.0,70.0,,,,,,,,5,9,,
-UBCV,2015,W,SPPH,523,,002,Global Health and Human Security,Jerry Spiegel;Paul Gully,9,89.555555556,1.810463415,92.0,87.0,,,,,,,,,,,6
-UBCV,2015,W,SPPH,523,,OVERALL,Global Health and Human Security,,9,89.555555556,1.810463415,92.0,87.0,,,,,,,,,,,6
-UBCV,2015,W,SPPH,524,,001,Core Biological Concepts of Public Health Practice,Maichael Thejoe;Rosemin Kassam,22,89.863636364,2.9808189119999997,95.0,83.0,,,,,,,,,,11,10
-UBCV,2015,W,SPPH,524,,DL1,Core Biological Concepts of Public Health Practice,Maichael Thejoe;Rosemin Kassam,7,87.85714285700001,2.7945525239999998,91.0,83.0,,,,,,,,,,3,3
-UBCV,2015,W,SPPH,524,,OVERALL,Core Biological Concepts of Public Health Practice,,29,89.379310345,3.01678392,95.0,83.0,,,,,,,,,,14,13
-UBCV,2015,W,SPPH,525,,001,Issues and Concepts in Public Health,Melissa Yan;Monika Naus,25,90.84,4.0070770730000005,96.0,80.0,,,,,,,,,,5,18
-UBCV,2015,W,SPPH,525,,DL1,Issues and Concepts in Public Health,Annalee Yassi;Prince Adu,9,88.77777777799999,3.632415786,92.0,80.0,,,,,,,,,,2,6
-UBCV,2015,W,SPPH,525,,OVERALL,Issues and Concepts in Public Health,,34,90.29411764700001,3.9659872989999996,96.0,80.0,,,,,,,,,,7,24
-UBCV,2015,W,SPPH,526,,DL1,Leadership in Public Health,Arminee Kazanjian;Celeste Dominique Bickford,23,86.47826087,4.82295237,97.0,80.0,,,,,,,,,10,7,6
-UBCV,2015,W,SPPH,526,,OVERALL,Leadership in Public Health,,27,86.518518519,4.543553086,97.0,80.0,,,,,,,,,10,10,7
-UBCV,2015,W,SPPH,527,,001,Social Determinants of Health,Jean Shoveller,12,90.666666667,4.923659638999999,98.0,79.0,,,,,,,,,,,9
-UBCV,2015,W,SPPH,527,,OVERALL,Social Determinants of Health,,12,90.666666667,4.923659638999999,98.0,79.0,,,,,,,,,,,9
-UBCV,2015,W,SPPH,531,,002,Health Care Systems Analysis,Kimberlyn Mcgrail,8,90.375,3.8890872969999997,94.0,82.0,,,,,,,,,,,6
-UBCV,2015,W,SPPH,531,,OVERALL,Health Care Systems Analysis,,8,90.375,3.8890872969999997,94.0,82.0,,,,,,,,,,,6
-UBCV,2015,W,SPPH,533,,001,Toxicology and Public Health,Karen Hastings Bartlett,11,85.363636364,3.82812558,91.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,SPPH,533,,OVERALL,Toxicology and Public Health,,11,85.363636364,3.82812558,91.0,78.0,,,,,,,,,,7,
-UBCV,2015,W,SPPH,534,,002,Occupational Health and Illness Processes,Christopher Mcleod,10,87.9,3.107338983,93.0,83.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,534,,OVERALL,Occupational Health and Illness Processes,,10,87.9,3.107338983,93.0,83.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,535,,001,Principles of Occupational and Environmental Hygiene,Alyssa Dalton;Karen Hastings Bartlett,12,83.0,3.5929223360000004,89.0,76.0,,,,,,,,,6,,
-UBCV,2015,W,SPPH,535,,OVERALL,Principles of Occupational and Environmental Hygiene,,12,83.0,3.5929223360000004,89.0,76.0,,,,,,,,,6,,
-UBCV,2015,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal,14,86.785714286,4.509452831,95.0,78.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,536,,OVERALL,"Aboriginal People and Public Health: Ethics, Policy, and Practice",,14,86.785714286,4.509452831,95.0,78.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,537,,DL1,Perinatal Epidemiology,Danny Rurak;Patricia Janssen,9,86.666666667,9.219544457000001,96.0,71.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,537,,OVERALL,Perinatal Epidemiology,,9,86.666666667,9.219544457000001,96.0,71.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,540,,002,Program Planning and Evaluation,Alexander Graham Shaw;Alexander Shaw;Chris Lovato,23,92.39130434799999,2.9808346980000002,97.0,87.0,,,,,,,,,,5,18
-UBCV,2015,W,SPPH,540,,DL2,Program Planning and Evaluation,Alexander Graham Shaw;Alexander Shaw;Chris Lovato,10,86.6,4.742245132,91.0,77.0,,,,,,,,,,3,6
-UBCV,2015,W,SPPH,540,,OVERALL,Program Planning and Evaluation,,37,89.972972973,5.230713178999999,97.0,72.0,,,,,,,,,,8,24
-UBCV,2015,W,SPPH,541,,002,Economic Evaluation,Aslam Anis;Wei Zhang,9,83.777777778,4.684489773999999,89.0,75.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,541,,OVERALL,Economic Evaluation,,9,83.777777778,4.684489773999999,89.0,75.0,,,,,,,,,,5,
-UBCV,2015,W,SPPH,542,,001,Canadian Health Policy,Dimitra Panagiotoglou;Steven George Morgan;Steven Morgan,18,87.388888889,2.852014539,92.0,81.0,,,,,,,,,,11,5
-UBCV,2015,W,SPPH,542,,OVERALL,Canadian Health Policy,,18,87.388888889,2.852014539,92.0,81.0,,,,,,,,,,11,5
-UBCV,2015,W,SPPH,543,,DL2,Health Technology Assessment for Health Policy,Arminee Kazanjian,5,93.2,2.387467277,96.0,90.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,543,,OVERALL,Health Technology Assessment for Health Policy,,5,93.2,2.387467277,96.0,90.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,545,,DL1,Community Health Promotion,Charles Frankish;Charles James Frankish,12,93.583333333,1.6213537180000002,96.0,91.0,,,,,,,,,,,12
-UBCV,2015,W,SPPH,545,,OVERALL,Community Health Promotion,,12,93.583333333,1.6213537180000002,96.0,91.0,,,,,,,,,,,12
-UBCV,2015,W,SPPH,547,,DL2,Health Care Priority Setting,Abdulkader Kadernani;Craig Mitton,16,86.125,2.578759392,91.0,81.0,,,,,,,,,,10,
-UBCV,2015,W,SPPH,547,,OVERALL,Health Care Priority Setting,,16,86.125,2.578759392,91.0,81.0,,,,,,,,,,10,
-UBCV,2015,W,SPPH,550,,001,Public Health Approaches to Substance Use and Addictions,Eugenia Oviedo-Joekes;Kirsten Marchand,11,94.363636364,2.802596199,99.0,91.0,,,,,,,,,,,11
-UBCV,2015,W,SPPH,550,,OVERALL,Public Health Approaches to Substance Use and Addictions,,11,94.363636364,2.802596199,99.0,91.0,,,,,,,,,,,11
-UBCV,2015,W,SPPH,555,,DL1,Principles and Practices of Injury Prevention,Ian Pike;Mariana Brussoni;Shelina Babul,8,78.0,7.171371656,90.0,67.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,555,,OVERALL,Principles and Practices of Injury Prevention,,8,78.0,7.171371656,90.0,67.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,562,,002,Chemical and Biological Hazard Measurement,Hugh William Davies;Omid Nobakht,10,86.4,4.325634186,92.0,79.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,562,,OVERALL,Chemical and Biological Hazard Measurement,,10,86.4,4.325634186,92.0,79.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,563,,001,Technical Aspects of Chemical and Biological Hazard Control,George Astrakianakis;Rachel Lorraine Cliff,8,85.25,1.58113883,87.0,82.0,,,,,,,,,,6,
-UBCV,2015,W,SPPH,563,,OVERALL,Technical Aspects of Chemical and Biological Hazard Control,,8,85.25,1.58113883,87.0,82.0,,,,,,,,,,6,
-UBCV,2015,W,SPPH,565,,001,Ergonomics,Judy Village,19,85.578947368,4.059499004,91.0,78.0,,,,,,,,,6,8,
-UBCV,2015,W,SPPH,565,,OVERALL,Ergonomics,,19,85.578947368,4.059499004,91.0,78.0,,,,,,,,,6,8,
-UBCV,2015,W,SPPH,567,,002,Quantitative Methods for the Assessment and Analysis of Exposure Data,Jesse Cooper;Sarah Henderson,12,83.583333333,5.900051361,91.0,73.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,567,,OVERALL,Quantitative Methods for the Assessment and Analysis of Exposure Data,,12,83.583333333,5.900051361,91.0,73.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,581,I,001,Selected Topics,Michael Rekart,9,90.77777777799999,2.7284509239999997,95.0,87.0,,,,,,,,,,,6
-UBCV,2015,W,SPPH,581,I,OVERALL,Selected Topics,,9,90.77777777799999,2.7284509239999997,95.0,87.0,,,,,,,,,,,6
-UBCV,2015,W,SPPH,581,J,001,Selected Topics,Michael Rekart;Prince Adu,6,91.166666667,1.471960144,93.0,89.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,581,J,OVERALL,Selected Topics,,6,91.166666667,1.471960144,93.0,89.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,581,N,002,Selected Topics,Paul Kershaw,5,83.2,7.259476565,92.0,72.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,581,N,OVERALL,Selected Topics,,5,83.2,7.259476565,92.0,72.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,581,P,001,Selected Topics,Aslam Anis;Dean Regier;Stirling Bryan,7,82.285714286,5.61884584,90.0,73.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,581,P,OVERALL,Selected Topics,,7,82.285714286,5.61884584,90.0,73.0,,,,,,,,,,,
-UBCV,2015,W,SPPH,581,R,002,Selected Topics,Rajavel Elango,7,89.714285714,2.138089935,93.0,87.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,581,R,OVERALL,Selected Topics,,7,89.714285714,2.138089935,93.0,87.0,,,,,,,,,,,5
-UBCV,2015,W,SPPH,581,S,002,Selected Topics,Jennifer Gardy,15,89.666666667,8.431799221,99.0,67.0,,,,,,,,,,5,8
-UBCV,2015,W,SPPH,581,S,OVERALL,Selected Topics,,15,89.666666667,8.431799221,99.0,67.0,,,,,,,,,,5,8
+UBCV,2015,W,SPPH,502,,001,Epidemiological Methods 1,Christine Lukac;Pauline Voon;Trevor Dummer,81,84.209876543,7.240020803,96.0,62.0,0,0,0,,,,,9,23,13,27
+UBCV,2015,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Martin Schechter;Mina Park,21,80.80952381,5.971758934,88.0,62.0,0,0,0,,,,,3,9,6,0
+UBCV,2015,W,SPPH,502,,OVERALL,Epidemiological Methods 1,,102,83.509803922,7.105631706,96.0,62.0,0,0,0,,,,6,12,32,19,27
+UBCV,2015,W,SPPH,503,,002,Epidemiological Methods 2,Amee Manges;Andrea Jones;Dimitra Panagiotoglou,33,81.939393939,6.174237777,92.0,61.0,0,0,0,,,,,6,12,9,3
+UBCV,2015,W,SPPH,503,,DL1,Epidemiological Methods 2,Andrea Jones;Naveed Janjua;Naveed Zafar Janjua,18,87.722222222,4.81181824,94.0,76.0,0,0,0,0,0,0,0,1,2,7,8
+UBCV,2015,W,SPPH,503,,OVERALL,Epidemiological Methods 2,,51,83.980392157,6.32926598,94.0,61.0,0,0,0,,,,,7,14,16,11
+UBCV,2015,W,SPPH,504,,001,Application of Epidemiological Methods,Mieke Koehoorn;Shayesteh Jahanfar,23,87.739130435,4.453980766,98.0,78.0,0,0,0,0,0,0,0,,,11,7
+UBCV,2015,W,SPPH,504,,OVERALL,Application of Epidemiological Methods,,23,87.739130435,4.453980766,98.0,78.0,0,0,0,0,0,0,0,,,11,7
+UBCV,2015,W,SPPH,505,,001,Scientific Basis for Epidemiological Thinking,Alissa Merielle Greer;Jane Buxton,25,84.88,4.789919971,93.0,73.0,0,0,0,0,0,0,,,10,8,5
+UBCV,2015,W,SPPH,505,,OVERALL,Scientific Basis for Epidemiological Thinking,,25,84.88,4.789919971,93.0,73.0,0,0,0,0,0,0,,,10,8,5
+UBCV,2015,W,SPPH,506,,002,Quantitative Research Methods,Elizabeth Wilcox;Gillian Hanley,21,82.857142857,4.198639235,88.0,71.0,0,0,0,0,0,,,,8,9,0
+UBCV,2015,W,SPPH,506,,OVERALL,Quantitative Research Methods,,21,82.857142857,4.198639235,88.0,71.0,0,0,0,0,0,,,,8,9,0
+UBCV,2015,W,SPPH,510,,002,Measurement of Health Care,Louise Masse,9,88.888888889,4.960958689,95.0,80.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,SPPH,510,,OVERALL,Measurement of Health Care,,9,88.888888889,4.960958689,95.0,80.0,0,0,0,0,0,0,0,0,,,5
+UBCV,2015,W,SPPH,511,,002,Cancer Control and Epidemiology,Dean Regier;John Spinelli;Stuart James Peacock;Stuart Peacock,9,84.555555556,4.876246279,94.0,80.0,0,0,0,0,0,0,0,0,6,,
+UBCV,2015,W,SPPH,511,,OVERALL,Cancer Control and Epidemiology,,9,84.555555556,4.876246279,94.0,80.0,0,0,0,0,0,0,0,0,6,,
+UBCV,2015,W,SPPH,512,,002,The Design and Analysis of Clinical Trials,Joel Singer,27,86.888888889,6.476782994,97.0,68.0,0,0,0,0,0,,,,,13,8
+UBCV,2015,W,SPPH,512,,OVERALL,The Design and Analysis of Clinical Trials,,27,86.888888889,6.476782994,97.0,68.0,0,0,0,0,0,,,,,13,8
+UBCV,2015,W,SPPH,513,,002,Clinical Epidemiology,Ralph Brands,21,85.857142857,2.174527863,92.0,83.0,0,0,0,0,0,0,0,0,6,13,2.0
+UBCV,2015,W,SPPH,513,,OVERALL,Clinical Epidemiology,,21,85.857142857,2.174527863,92.0,83.0,0,0,0,0,0,0,0,0,6,13,2.0
+UBCV,2015,W,SPPH,514,,002,Decision Analysis in Health Care,Nicholas Bansback,10,88.0,3.915780041,92.0,78.0,0,0,0,0,0,0,0,,,6,
+UBCV,2015,W,SPPH,514,,OVERALL,Decision Analysis in Health Care,,10,88.0,3.915780041,92.0,78.0,0,0,0,0,0,0,0,,,6,
+UBCV,2015,W,SPPH,515,,002,Surveillance and Monitoring in Public Health,Eleni Galanis;Michael Otterstatter,11,88.272727273,3.003028774,93.0,84.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2015,W,SPPH,515,,OVERALL,Surveillance and Monitoring in Public Health,,11,88.272727273,3.003028774,93.0,84.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2015,W,SPPH,516,,001,Methods for Systematic Reviews in Health Research,Darlene Taylor;Mary Doyle-Waters;Shayesteh Jahanfar,22,93.727272727,2.780575791,97.0,86.0,0,0,0,0,0,0,0,0,0,2.0,20
+UBCV,2015,W,SPPH,516,,OVERALL,Methods for Systematic Reviews in Health Research,,22,93.727272727,2.780575791,97.0,86.0,0,0,0,0,0,0,0,0,0,2.0,20
+UBCV,2015,W,SPPH,519,,002,Qualitative Methods in Health Research Design,Susan Homewood,9,88.222222222,6.200358413,95.0,74.0,0,0,0,0,0,0,,,,,5
+UBCV,2015,W,SPPH,519,,OVERALL,Qualitative Methods in Health Research Design,,9,88.222222222,6.200358413,95.0,74.0,0,0,0,0,0,0,,,,,5
+UBCV,2015,W,SPPH,520,,002,Control of Communicable Disease,David Patrick;Kaylee Aileen Byers;Kaylee Byers,12,85.916666667,4.461111426,93.0,77.0,0,0,0,0,0,0,0,,,5,
+UBCV,2015,W,SPPH,520,,OVERALL,Control of Communicable Disease,,12,85.916666667,4.461111426,93.0,77.0,0,0,0,0,0,0,0,,,5,
+UBCV,2015,W,SPPH,521,,001,Approaches to Enquiry in Population and Public Health,Charlyn Black;Kate Alexandra Jongbloed;Susan Homewood,12,84.5,3.849439156,94.0,80.0,0,0,0,0,0,0,0,0,8,,
+UBCV,2015,W,SPPH,521,,OVERALL,Approaches to Enquiry in Population and Public Health,,12,84.5,3.849439156,94.0,80.0,0,0,0,0,0,0,0,0,8,,
+UBCV,2015,W,SPPH,522,,DL2,Topics in Environmental Health,Michael Brauer,20,80.65,4.602916695,89.0,70.0,0,0,0,0,0,,,5,9,,0
+UBCV,2015,W,SPPH,522,,OVERALL,Topics in Environmental Health,,20,80.65,4.602916695,89.0,70.0,0,0,0,0,0,,,5,9,,0
+UBCV,2015,W,SPPH,523,,002,Global Health and Human Security,Jerry Spiegel;Paul Gully,9,89.555555556,1.810463415,92.0,87.0,0,0,0,0,0,0,0,0,0,3.0,6
+UBCV,2015,W,SPPH,523,,OVERALL,Global Health and Human Security,,9,89.555555556,1.810463415,92.0,87.0,0,0,0,0,0,0,0,0,0,3.0,6
+UBCV,2015,W,SPPH,524,,001,Core Biological Concepts of Public Health Practice,Maichael Thejoe;Rosemin Kassam,22,89.863636364,2.980818912,95.0,83.0,0,0,0,0,0,0,0,0,1.0,11,10
+UBCV,2015,W,SPPH,524,,DL1,Core Biological Concepts of Public Health Practice,Maichael Thejoe;Rosemin Kassam,7,87.857142857,2.794552524,91.0,83.0,0,0,0,0,0,0,0,0,1.0,3,3
+UBCV,2015,W,SPPH,524,,OVERALL,Core Biological Concepts of Public Health Practice,,29,89.379310345,3.01678392,95.0,83.0,0,0,0,0,0,0,0,0,2.0,14,13
+UBCV,2015,W,SPPH,525,,001,Issues and Concepts in Public Health,Melissa Yan;Monika Naus,25,90.84,4.007077073,96.0,80.0,0,0,0,0,0,0,0,0,2.0,5,18
+UBCV,2015,W,SPPH,525,,DL1,Issues and Concepts in Public Health,Annalee Yassi;Prince Adu,9,88.777777778,3.632415786,92.0,80.0,0,0,0,0,0,0,0,0,1.0,2,6
+UBCV,2015,W,SPPH,525,,OVERALL,Issues and Concepts in Public Health,,34,90.294117647,3.965987299,96.0,80.0,0,0,0,0,0,0,0,0,3.0,7,24
+UBCV,2015,W,SPPH,526,,DL1,Leadership in Public Health,Arminee Kazanjian;Celeste Dominique Bickford,23,86.47826087,4.82295237,97.0,80.0,0,0,0,0,0,0,0,0,10,7,6
+UBCV,2015,W,SPPH,526,,OVERALL,Leadership in Public Health,,27,86.518518519,4.543553086,97.0,80.0,0,0,0,0,0,0,0,0,10,10,7
+UBCV,2015,W,SPPH,527,,001,Social Determinants of Health,Jean Shoveller,12,90.666666667,4.923659639,98.0,79.0,0,0,0,0,0,0,0,,,,9
+UBCV,2015,W,SPPH,527,,OVERALL,Social Determinants of Health,,12,90.666666667,4.923659639,98.0,79.0,0,0,0,0,0,0,0,,,,9
+UBCV,2015,W,SPPH,531,,002,Health Care Systems Analysis,Kimberlyn Mcgrail,8,90.375,3.889087297,94.0,82.0,0,0,0,0,0,0,0,0,,,6
+UBCV,2015,W,SPPH,531,,OVERALL,Health Care Systems Analysis,,8,90.375,3.889087297,94.0,82.0,0,0,0,0,0,0,0,0,,,6
+UBCV,2015,W,SPPH,533,,001,Toxicology and Public Health,Karen Hastings Bartlett,11,85.363636364,3.82812558,91.0,78.0,0,0,0,0,0,0,0,,,7,
+UBCV,2015,W,SPPH,533,,OVERALL,Toxicology and Public Health,,11,85.363636364,3.82812558,91.0,78.0,0,0,0,0,0,0,0,,,7,
+UBCV,2015,W,SPPH,534,,002,Occupational Health and Illness Processes,Christopher Mcleod,10,87.9,3.107338983,93.0,83.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2015,W,SPPH,534,,OVERALL,Occupational Health and Illness Processes,,10,87.9,3.107338983,93.0,83.0,0,0,0,0,0,0,0,0,,5,
+UBCV,2015,W,SPPH,535,,001,Principles of Occupational and Environmental Hygiene,Alyssa Dalton;Karen Hastings Bartlett,12,83.0,3.592922336,89.0,76.0,0,0,0,0,0,0,0,,6,,0
+UBCV,2015,W,SPPH,535,,OVERALL,Principles of Occupational and Environmental Hygiene,,12,83.0,3.592922336,89.0,76.0,0,0,0,0,0,0,0,,6,,0
+UBCV,2015,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal,14,86.785714286,4.509452831,95.0,78.0,0,0,0,0,0,0,0,,,5,
+UBCV,2015,W,SPPH,536,,OVERALL,"Aboriginal People and Public Health: Ethics, Policy, and Practice",,14,86.785714286,4.509452831,95.0,78.0,0,0,0,0,0,0,0,,,5,
+UBCV,2015,W,SPPH,537,,DL1,Perinatal Epidemiology,Danny Rurak;Patricia Janssen,9,86.666666667,9.219544457,96.0,71.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,SPPH,537,,OVERALL,Perinatal Epidemiology,,9,86.666666667,9.219544457,96.0,71.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,SPPH,540,,002,Program Planning and Evaluation,Alexander Graham Shaw;Alexander Shaw;Chris Lovato,23,92.391304348,2.980834698,97.0,87.0,0,0,0,0,0,0,0,0,0,5,18
+UBCV,2015,W,SPPH,540,,DL2,Program Planning and Evaluation,Alexander Graham Shaw;Alexander Shaw;Chris Lovato,10,86.6,4.742245132,91.0,77.0,0,0,0,0,0,0,0,,,3,6
+UBCV,2015,W,SPPH,540,,OVERALL,Program Planning and Evaluation,,37,89.972972973,5.230713179,97.0,72.0,0,0,0,0,0,0,0,,,8,24
+UBCV,2015,W,SPPH,541,,002,Economic Evaluation,Aslam Anis;Wei Zhang,9,83.777777778,4.684489774,89.0,75.0,0,0,0,0,0,0,,,,5,0
+UBCV,2015,W,SPPH,541,,OVERALL,Economic Evaluation,,9,83.777777778,4.684489774,89.0,75.0,0,0,0,0,0,0,,,,5,0
+UBCV,2015,W,SPPH,542,,001,Canadian Health Policy,Dimitra Panagiotoglou;Steven George Morgan;Steven Morgan,18,87.388888889,2.852014539,92.0,81.0,0,0,0,0,0,0,0,0,2.0,11,5
+UBCV,2015,W,SPPH,542,,OVERALL,Canadian Health Policy,,18,87.388888889,2.852014539,92.0,81.0,0,0,0,0,0,0,0,0,2.0,11,5
+UBCV,2015,W,SPPH,543,,DL2,Health Technology Assessment for Health Policy,Arminee Kazanjian,5,93.2,2.387467277,96.0,90.0,0,0,0,0,0,0,0,0,0,0,5
+UBCV,2015,W,SPPH,543,,OVERALL,Health Technology Assessment for Health Policy,,5,93.2,2.387467277,96.0,90.0,0,0,0,0,0,0,0,0,0,0,5
+UBCV,2015,W,SPPH,545,,DL1,Community Health Promotion,Charles Frankish;Charles James Frankish,12,93.583333333,1.621353718,96.0,91.0,0,0,0,0,0,0,0,0,0,0,12
+UBCV,2015,W,SPPH,545,,OVERALL,Community Health Promotion,,12,93.583333333,1.621353718,96.0,91.0,0,0,0,0,0,0,0,0,0,0,12
+UBCV,2015,W,SPPH,547,,DL2,Health Care Priority Setting,Abdulkader Kadernani;Craig Mitton,16,86.125,2.578759392,91.0,81.0,0,0,0,0,0,0,0,0,,10,
+UBCV,2015,W,SPPH,547,,OVERALL,Health Care Priority Setting,,16,86.125,2.578759392,91.0,81.0,0,0,0,0,0,0,0,0,,10,
+UBCV,2015,W,SPPH,550,,001,Public Health Approaches to Substance Use and Addictions,Eugenia Oviedo-Joekes;Kirsten Marchand,11,94.363636364,2.802596199,99.0,91.0,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2015,W,SPPH,550,,OVERALL,Public Health Approaches to Substance Use and Addictions,,11,94.363636364,2.802596199,99.0,91.0,0,0,0,0,0,0,0,0,0,0,11
+UBCV,2015,W,SPPH,555,,DL1,Principles and Practices of Injury Prevention,Ian Pike;Mariana Brussoni;Shelina Babul,8,78.0,7.171371656,90.0,67.0,0,0,0,0,,,,,,,
+UBCV,2015,W,SPPH,555,,OVERALL,Principles and Practices of Injury Prevention,,8,78.0,7.171371656,90.0,67.0,0,0,0,0,,,,,,,
+UBCV,2015,W,SPPH,562,,002,Chemical and Biological Hazard Measurement,Hugh William Davies;Omid Nobakht,10,86.4,4.325634186,92.0,79.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,SPPH,562,,OVERALL,Chemical and Biological Hazard Measurement,,10,86.4,4.325634186,92.0,79.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,SPPH,563,,001,Technical Aspects of Chemical and Biological Hazard Control,George Astrakianakis;Rachel Lorraine Cliff,8,85.25,1.58113883,87.0,82.0,0,0,0,0,0,0,0,0,2.0,6,0
+UBCV,2015,W,SPPH,563,,OVERALL,Technical Aspects of Chemical and Biological Hazard Control,,8,85.25,1.58113883,87.0,82.0,0,0,0,0,0,0,0,0,2.0,6,0
+UBCV,2015,W,SPPH,565,,001,Ergonomics,Judy Village,19,85.578947368,4.059499004,91.0,78.0,0,0,0,0,0,0,0,,6,8,
+UBCV,2015,W,SPPH,565,,OVERALL,Ergonomics,,19,85.578947368,4.059499004,91.0,78.0,0,0,0,0,0,0,0,,6,8,
+UBCV,2015,W,SPPH,567,,002,Quantitative Methods for the Assessment and Analysis of Exposure Data,Jesse Cooper;Sarah Henderson,12,83.583333333,5.900051361,91.0,73.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,SPPH,567,,OVERALL,Quantitative Methods for the Assessment and Analysis of Exposure Data,,12,83.583333333,5.900051361,91.0,73.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,SPPH,581,I,001,Selected Topics,Michael Rekart,9,90.777777778,2.728450924,95.0,87.0,0,0,0,0,0,0,0,0,0,3.0,6
+UBCV,2015,W,SPPH,581,I,OVERALL,Selected Topics,,9,90.777777778,2.728450924,95.0,87.0,0,0,0,0,0,0,0,0,0,3.0,6
+UBCV,2015,W,SPPH,581,J,001,Selected Topics,Michael Rekart;Prince Adu,6,91.166666667,1.471960144,93.0,89.0,0,0,0,0,0,0,0,0,0,1.0,5
+UBCV,2015,W,SPPH,581,J,OVERALL,Selected Topics,,6,91.166666667,1.471960144,93.0,89.0,0,0,0,0,0,0,0,0,0,1.0,5
+UBCV,2015,W,SPPH,581,N,002,Selected Topics,Paul Kershaw,5,83.2,7.259476565,92.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,SPPH,581,N,OVERALL,Selected Topics,,5,83.2,7.259476565,92.0,72.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,SPPH,581,P,001,Selected Topics,Aslam Anis;Dean Regier;Stirling Bryan,7,82.285714286,5.61884584,90.0,73.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,SPPH,581,P,OVERALL,Selected Topics,,7,82.285714286,5.61884584,90.0,73.0,0,0,0,0,0,0,,,,,
+UBCV,2015,W,SPPH,581,R,002,Selected Topics,Rajavel Elango,7,89.714285714,2.138089935,93.0,87.0,0,0,0,0,0,0,0,0,0,2.0,5
+UBCV,2015,W,SPPH,581,R,OVERALL,Selected Topics,,7,89.714285714,2.138089935,93.0,87.0,0,0,0,0,0,0,0,0,0,2.0,5
+UBCV,2015,W,SPPH,581,S,002,Selected Topics,Jennifer Gardy,15,89.666666667,8.431799221,99.0,67.0,0,0,0,0,,,,,,5,8
+UBCV,2015,W,SPPH,581,S,OVERALL,Selected Topics,,15,89.666666667,8.431799221,99.0,67.0,0,0,0,0,,,,,,5,8

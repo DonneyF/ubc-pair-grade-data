@@ -1,7 +1,7 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,W,BIOF,501,A,001,Special Topics in Bioinformatics,Ryan Brinkman,13,85.38461539,6.764348472000001,98.0,78.0,,,,,,,,,6,,
-UBCV,2014,W,BIOF,501,A,OVERALL,Special Topics in Bioinformatics,,13,85.38461539,6.764348472000001,98.0,78.0,,,,,,,,,6,,
-UBCV,2014,W,BIOF,520,,002,Problem-Based Learning In Bioinformatics,Artem Cherkasov;Inanc Birol;Ryan Brinkman;Sohrab Shah;Steven J Jones,16,88.3125,3.8939054939999997,95.0,79.0,,,,,,,,,,8,6
-UBCV,2014,W,BIOF,520,,OVERALL,Problem-Based Learning In Bioinformatics,,16,88.3125,3.8939054939999997,95.0,79.0,,,,,,,,,,8,6
-UBCV,2014,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue,14,88.07142857,5.37035002,98.0,75.0,,,,,,,,,,5,6
-UBCV,2014,W,BIOF,540,,OVERALL,Statistical Methods for High Dimensional Biology,,14,88.07142857,5.37035002,98.0,75.0,,,,,,,,,,5,6
+UBCV,2014,W,BIOF,501,A,001,Special Topics in Bioinformatics,Ryan Brinkman,13,85.38461539,6.764348472,98.0,78.0,0,0,0,0,0,0,0,,6,,
+UBCV,2014,W,BIOF,501,A,OVERALL,Special Topics in Bioinformatics,,13,85.38461539,6.764348472,98.0,78.0,0,0,0,0,0,0,0,,6,,
+UBCV,2014,W,BIOF,520,,002,Problem-Based Learning In Bioinformatics,Artem Cherkasov;Inanc Birol;Ryan Brinkman;Sohrab Shah;Steven J Jones,16,88.3125,3.893905494,95.0,79.0,0,0,0,0,0,0,0,,,8,6
+UBCV,2014,W,BIOF,520,,OVERALL,Problem-Based Learning In Bioinformatics,,16,88.3125,3.893905494,95.0,79.0,0,0,0,0,0,0,0,,,8,6
+UBCV,2014,W,BIOF,540,,201,Statistical Methods for High Dimensional Biology,Gabriela Cohen Freue,14,88.07142857,5.37035002,98.0,75.0,0,0,0,0,0,0,,,,5,6
+UBCV,2014,W,BIOF,540,,OVERALL,Statistical Methods for High Dimensional Biology,,14,88.07142857,5.37035002,98.0,75.0,0,0,0,0,0,0,,,,5,6

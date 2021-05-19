@@ -1,21 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2020,S,COSC,101,,001,Digital Citizenship,Tyler Rogers;Vsevolod Lynov,76,86.0,11.648175822999999,96.0,21.0,,,,,,,,5,9,21,35
-UBCO,2020,S,COSC,101,,OVERALL,Digital Citizenship,,76,86.0,11.648175822999999,96.0,21.0,,,,,,,,5,9,21,35
-UBCO,2020,S,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Billy Spelchan;Elias Pinno;Sherif Elbishlawi;Swakhar Poddar,106,76.87735849100001,19.909654433,100.0,0.0,14,,,,9,6,9,12,8,13,32
-UBCO,2020,S,COSC,111,,OVERALL,Computer Programming I,,106,76.87735849100001,19.909654433,100.0,0.0,14,,,,9,6,9,12,8,13,32
-UBCO,2020,S,COSC,121,,101,Computer Programming II,Billy Spelchan;Islam Osman;Ken Chidlow;Rishab Sharma;Sherif Elbishlawi,107,75.87850467300001,16.229317916,99.0,0.0,6,,,8,9,13,8,6,16,15,22
-UBCO,2020,S,COSC,121,,OVERALL,Computer Programming II,,107,75.87850467300001,16.229317916,99.0,0.0,6,,,8,9,13,8,6,16,15,22
-UBCO,2020,S,COSC,122,,001,Computer Fluency,Elias Pinno;John Graham-Knight;Ken Chidlow,44,81.840909091,15.59210173,98.0,16.0,,,,,,,,,6,6,19
-UBCO,2020,S,COSC,122,,OVERALL,Computer Fluency,,44,81.840909091,15.59210173,98.0,16.0,,,,,,,,,6,6,19
-UBCO,2020,S,COSC,211,,001,Machine Architecture,Rishab Sharma;Scott Fazackerley;Tenzin Jinpa,29,69.34482758600001,18.242955318,100.0,30.0,,,,5,,,,,,,6
-UBCO,2020,S,COSC,211,,OVERALL,Machine Architecture,,29,69.34482758600001,18.242955318,100.0,30.0,,,,5,,,,,,,6
-UBCO,2020,S,COSC,221,,101,Introduction to Discrete Structures,Chad Davis;Jakob David Marshall;Jakob Marshall;Maryam Sadeghi;Roozbeh Eslami;Tenzin Jinpa,49,68.897959184,21.245827922,94.0,0.0,9,,,,,,,5,6,7,6
-UBCO,2020,S,COSC,221,,OVERALL,Introduction to Discrete Structures,,49,68.897959184,21.245827922,94.0,0.0,9,,,,,,,5,6,7,6
-UBCO,2020,S,COSC,222,,001,Data Structures,Ken Chidlow;Pradeep Mahato;Roozbeh Eslami,59,78.152542373,13.007708006,98.0,36.0,,,,,6,,10,,10,9,12
-UBCO,2020,S,COSC,222,,OVERALL,Data Structures,,59,78.152542373,13.007708006,98.0,36.0,,,,,6,,10,,10,9,12
-UBCO,2020,S,COSC,301,,001,Introduction to Data Analytics,Ali Ladha;Elias Pinno;John Graham-Knight;Katrina Martel;Ramin Shahbazi;Scott Fazackerley;Swakhar Poddar;Tenzin Jinpa;Zhenyuan Ma,81,79.24691358,10.505392501000001,97.0,45.0,,,,,5,7,10,13,14,11,16
-UBCO,2020,S,COSC,301,,OVERALL,Introduction to Data Analytics,,81,79.24691358,10.505392501000001,97.0,45.0,,,,,5,7,10,13,14,11,16
-UBCO,2020,S,COSC,445,,001,Computer Vision,Islam Osman;Mohamed Shehata,27,78.148148148,9.781079474,97.0,55.0,,,,,,,,,6,,
-UBCO,2020,S,COSC,445,,OVERALL,Computer Vision,,27,78.148148148,9.781079474,97.0,55.0,,,,,,,,,6,,
-UBCO,2020,S,COSC,499,,201,Capstone Software Engineering Project,Scott Fazackerley,43,82.41860465100001,10.959302545999998,98.0,60.0,,,,,,,,,7,,17
-UBCO,2020,S,COSC,499,,OVERALL,Capstone Software Engineering Project,,43,82.41860465100001,10.959302545999998,98.0,60.0,,,,,,,,,7,,17
+UBCO,2020,S,COSC,101,,001,Digital Citizenship,Tyler Rogers;Vsevolod Lynov,76,86.0,11.64817582,96.0,21.0,2,1.0,0,0.0,2,0,1.0,5,9,21,35
+UBCO,2020,S,COSC,101,,OVERALL,Digital Citizenship,,76,86.0,11.64817582,96.0,21.0,2,1.0,0,0.0,2,0,1.0,5,9,21,35
+UBCO,2020,S,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Billy Spelchan;Elias Pinno;Sherif Elbishlawi;Swakhar Poddar,106,76.87735849,19.90965443,100.0,0.0,14,0.0,2,1.0,9,6,9.0,12,8,13,32
+UBCO,2020,S,COSC,111,,OVERALL,Computer Programming I,,106,76.87735849,19.90965443,100.0,0.0,14,0.0,2,1.0,9,6,9.0,12,8,13,32
+UBCO,2020,S,COSC,121,,101,Computer Programming II,Billy Spelchan;Islam Osman;Ken Chidlow;Rishab Sharma;Sherif Elbishlawi,106,76.60377359,14.51808675,99.0,23.0,5,2.0,2,8.0,9,13,8.0,6,16,15,22
+UBCO,2020,S,COSC,121,,OVERALL,Computer Programming II,,106,76.60377359,14.51808675,99.0,23.0,5,2.0,2,8.0,9,13,8.0,6,16,15,22
+UBCO,2020,S,COSC,122,,001,Computer Fluency,Elias Pinno;John Graham-Knight;Ken Chidlow,44,81.84090909,15.59210173,98.0,16.0,1,1.0,1,3.0,2,1,0.0,4,6,6,19
+UBCO,2020,S,COSC,122,,OVERALL,Computer Fluency,,44,81.84090909,15.59210173,98.0,16.0,1,1.0,1,3.0,2,1,0.0,4,6,6,19
+UBCO,2020,S,COSC,211,,001,Machine Architecture,Rishab Sharma;Scott Fazackerley;Tenzin Jinpa,29,69.34482759,18.24295532,100.0,30.0,4,0.0,4,5.0,1,2,3.0,1,3,0,6
+UBCO,2020,S,COSC,211,,OVERALL,Machine Architecture,,29,69.34482759,18.24295532,100.0,30.0,4,0.0,4,5.0,1,2,3.0,1,3,0,6
+UBCO,2020,S,COSC,221,,101,Introduction to Discrete Structures,Chad Davis;Jakob Marshall;Maryam Sadeghi;Roozbeh Eslami;Tenzin Jinpa,48,70.33333333,18.91788902,94.0,25.0,8,1.0,2,3.0,3,3,4.0,5,6,7,6
+UBCO,2020,S,COSC,221,,OVERALL,Introduction to Discrete Structures,,48,70.33333333,18.91788902,94.0,25.0,8,1.0,2,3.0,3,3,4.0,5,6,7,6
+UBCO,2020,S,COSC,222,,001,Data Structures,Ken Chidlow;Pradeep Mahato;Roozbeh Eslami,59,78.15254237,13.00770801,98.0,36.0,2,1.0,1,1.0,6,3,10.0,4,10,9,12
+UBCO,2020,S,COSC,222,,OVERALL,Data Structures,,59,78.15254237,13.00770801,98.0,36.0,2,1.0,1,1.0,6,3,10.0,4,10,9,12
+UBCO,2020,S,COSC,301,,001,Introduction to Data Analytics,Ali Ladha;Elias Pinno;John Graham-Knight;Katrina Martel;Ramin Shahbazi;Scott Fazackerley;Swakhar Poddar;Tenzin Jinpa;Zhenyuan Ma,81,79.24691358,10.5053925,97.0,45.0,2,0.0,1,2.0,5,7,10.0,13,14,11,16
+UBCO,2020,S,COSC,301,,OVERALL,Introduction to Data Analytics,,81,79.24691358,10.5053925,97.0,45.0,2,0.0,1,2.0,5,7,10.0,13,14,11,16
+UBCO,2020,S,COSC,445,,001,Computer Vision,Islam Osman;Mohamed Shehata,27,78.14814815,9.781079474,97.0,55.0,0,0.0,1,0.0,2,4,3.0,3,6,4,4
+UBCO,2020,S,COSC,445,,OVERALL,Computer Vision,,27,78.14814815,9.781079474,97.0,55.0,0,0.0,1,0.0,2,4,3.0,3,6,4,4
+UBCO,2020,S,COSC,499,,201,Capstone Software Engineering Project,Scott Fazackerley,43,82.41860465,10.95930255,98.0,60.0,0,0.0,0,3.0,2,4,4.0,2,7,4,17
+UBCO,2020,S,COSC,499,,OVERALL,Capstone Software Engineering Project,,43,82.41860465,10.95930255,98.0,60.0,0,0.0,0,3.0,2,4,4.0,2,7,4,17

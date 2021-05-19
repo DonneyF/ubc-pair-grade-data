@@ -1,12 +1,12 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,ENPH,259,,101,Experimental Techniques,David Jones;Eric Woolsey;Meng Na;Pascal Nigge,65,87.50769230799999,3.553708789,94.0,80.0,,,,,,,,,13,30,22
-UBCV,2017,W,ENPH,259,,OVERALL,Experimental Techniques,,65,87.50769230799999,3.553708789,94.0,80.0,,,,,,,,,13,30,22
-UBCV,2017,W,ENPH,352,,L1A,Laboratory Techniques in Physics,Christopher Waltham;Rommel Rodrigues De Oliveira,11,79.181818182,15.740509406,94.0,35.0,,,,,,,,,,,
-UBCV,2017,W,ENPH,352,,L1B,Laboratory Techniques in Physics,Christopher Waltham;Rommel Rodrigues De Oliveira,14,84.142857143,4.22186876,93.0,78.0,,,,,,,,,7,,
-UBCV,2017,W,ENPH,352,,L2C,Laboratory Techniques in Physics,Christopher Waltham;Stefan Reinsberg;Yang Lan,11,77.454545455,13.079477332,94.0,55.0,,,,,,,,,,,
-UBCV,2017,W,ENPH,352,,L2E,Laboratory Techniques in Physics,Stefan Reinsberg;Yang Lan,14,82.0,15.206274009000001,97.0,44.0,,,,,,,,,,,7
-UBCV,2017,W,ENPH,352,,OVERALL,Laboratory Techniques in Physics,,50,80.98,12.578715420999998,97.0,35.0,,,,,,,,,12,11,12
-UBCV,2017,W,ENPH,459,,001,Engineering Physics Project I,Carl Hansen;Jonathan Nakane,55,81.4,5.720657823,92.0,63.0,,,,,,,,,31,10,
-UBCV,2017,W,ENPH,459,,OVERALL,Engineering Physics Project I,,55,81.4,5.720657823,92.0,63.0,,,,,,,,,31,10,
-UBCV,2017,W,ENPH,479,,101,Engineering Physics Project II,David Jones;Jonathan Nakane,68,82.955882353,9.296819908,93.0,34.0,,,,,,,,6,19,20,14
-UBCV,2017,W,ENPH,479,,OVERALL,Engineering Physics Project II,,68,82.955882353,9.296819908,93.0,34.0,,,,,,,,6,19,20,14
+UBCV,2017,W,ENPH,259,,101,Experimental Techniques,David Jones;Eric Woolsey;Meng Na;Pascal Nigge,65,87.50769231,3.553708789,94.0,80.0,0,0.0,0,0,0,0,0,0.0,13,30,22
+UBCV,2017,W,ENPH,259,,OVERALL,Experimental Techniques,,65,87.50769231,3.553708789,94.0,80.0,0,0.0,0,0,0,0,0,0.0,13,30,22
+UBCV,2017,W,ENPH,352,,L1A,Laboratory Techniques in Physics,Christopher Waltham;Rommel Rodrigues De Oliveira,11,79.18181818,15.74050941,94.0,35.0,1,0.0,0,0,0,0,0,3.0,3,2,2
+UBCV,2017,W,ENPH,352,,L1B,Laboratory Techniques in Physics,Christopher Waltham;Rommel Rodrigues De Oliveira,14,84.14285714,4.22186876,93.0,78.0,0,0.0,0,0,0,0,0,1.0,7,4,2
+UBCV,2017,W,ENPH,352,,L2C,Laboratory Techniques in Physics,Christopher Waltham;Stefan Reinsberg;Yang Lan,11,77.45454546,13.07947733,94.0,55.0,0,0.0,1,1,1,1,1,0.0,1,4,1
+UBCV,2017,W,ENPH,352,,L2E,Laboratory Techniques in Physics,Stefan Reinsberg;Yang Lan,14,82.0,15.20627401,97.0,44.0,1,0.0,0,0,1,0,3,0.0,1,1,7
+UBCV,2017,W,ENPH,352,,OVERALL,Laboratory Techniques in Physics,,50,80.98,12.57871542,97.0,35.0,2,0.0,1,1,2,1,4,4.0,12,11,12
+UBCV,2017,W,ENPH,459,,001,Engineering Physics Project I,Carl Hansen;Jonathan Nakane,55,81.4,5.720657823,92.0,63.0,0,0.0,0,1,1,2,4,3.0,31,10,3
+UBCV,2017,W,ENPH,459,,OVERALL,Engineering Physics Project I,,55,81.4,5.720657823,92.0,63.0,0,0.0,0,1,1,2,4,3.0,31,10,3
+UBCV,2017,W,ENPH,479,,101,Engineering Physics Project II,David Jones;Jonathan Nakane,68,82.95588235,9.296819908,93.0,34.0,1,0.0,1,1,1,2,3,6.0,19,20,14
+UBCV,2017,W,ENPH,479,,OVERALL,Engineering Physics Project II,,68,82.95588235,9.296819908,93.0,34.0,1,0.0,1,1,1,2,3,6.0,19,20,14

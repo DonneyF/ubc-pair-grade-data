@@ -1,10 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,S,STAT,200,,921,Elementary Statistics for Applications,Hoi Yin Eugenia Yu;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Menglin Zhou;Sihaoyu Gao;Vittorio Romaniello;Xinglong Li;Zhou Menglin,136,78.051470588,13.330732998,98.0,0.0,,,,6,11,10,11,13,26,29,22
-UBCV,2020,S,STAT,200,,OVERALL,Elementary Statistics for Applications,,136,78.051470588,13.330732998,98.0,0.0,,,,6,11,10,11,13,26,29,22
-UBCV,2020,S,STAT,251,,921,Elementary Statistics,Gilberto Rodriguez-Arelis;Ian Murphy;Lasantha Premarathna Wijendra Acharige;Melissa Lee;Pramoda Sachinthana Jayasinghe;Sihaoyu Gao;Vittorio Romaniello;Wang Xinmiao;Xinmiao Wang;Yuzhe Peng,255,78.717647059,8.902284629,97.0,47.0,,,,8,18,19,25,48,59,46,25
-UBCV,2020,S,STAT,251,,OVERALL,Elementary Statistics,,255,78.717647059,8.902284629,97.0,47.0,,,,8,18,19,25,48,59,46,25
-UBCV,2020,S,STAT,302,,921,Introduction to Probability,Anthony-Alexander Christidis;Lulu Pei;Natalia Nolde;Yuan Xia,98,76.091836735,12.523863189000002,99.0,35.0,,,8,8,,9,11,6,17,24,9
-UBCV,2020,S,STAT,302,,OVERALL,Introduction to Probability,,98,76.091836735,12.523863189000002,99.0,35.0,,,8,8,,9,11,6,17,24,9
-UBCV,2020,S,STAT,305,,001,Introduction to Statistical Inference,Anthony-Alexander Christidis;Benjamin Bloem-Reddy;Giorgio Andr��� Viancha Sgarbi;Giorgio Viancha Sgarbi;Jingyiran Li;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Pramoda Sachinthana Jayasinghe;Xiaolan Cheng,71,85.788732394,8.179967678999999,97.0,53.0,,,,,,,,6,9,20,28
-UBCV,2020,S,STAT,305,,OVERALL,Introduction to Statistical Inference,,71,85.788732394,8.179967678999999,97.0,53.0,,,,,,,,6,9,20,28
-UBCV,2020,S,STAT,549,A,OVERALL,Thesis for Master's Degree,,5,89.8,6.418722614,98.0,80.0,,,,,,,,,,,
+UBCV,2020,S,STAT,200,,921,Elementary Statistics for Applications,Hoi Yin Eugenia Yu;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Menglin Zhou;Sihaoyu Gao;Vittorio Romaniello;Xinglong Li;Zhou Menglin,136,78.30882353,13.02221163,98.0,0.0,3,2,2,6,11,10,11,13,27,29,22
+UBCV,2020,S,STAT,200,,OVERALL,Elementary Statistics for Applications,,136,78.30882353,13.02221163,98.0,0.0,3,2,2,6,11,10,11,13,27,29,22
+UBCV,2020,S,STAT,251,,921,Elementary Statistics,Gilberto Alexi Rodr���Guez Arelis;Gilberto Rodriguez-Arelis;Ian Murphy;Lasantha Premarathna Wijendra Acharige;Melissa Lee;Pramoda Sachinthana Jayasinghe;Sihaoyu Gao;Vittorio Romaniello;Wang Xinmiao;Xinmiao Wang;Yuzhe Peng,255,78.76862745,8.785131726,97.0,47.0,1,1,4,8,19,19,25,48,59,46,25
+UBCV,2020,S,STAT,251,,OVERALL,Elementary Statistics,,255,78.76862745,8.785131726,97.0,47.0,1,1,4,8,19,19,25,48,59,46,25
+UBCV,2020,S,STAT,302,,921,Introduction to Probability,Anthony-Alexander Christidis;Lulu Pei;Natalia Nolde;Yuan Xia,98,76.09183674,12.52386319,99.0,35.0,2,2,8,8,2,9,11,6,17,24,9
+UBCV,2020,S,STAT,302,,OVERALL,Introduction to Probability,,98,76.09183674,12.52386319,99.0,35.0,2,2,8,8,2,9,11,6,17,24,9
+UBCV,2020,S,STAT,305,,001,Introduction to Statistical Inference,Anthony-Alexander Christidis;Benjamin Bloem-Reddy;Giorgio Andr��� Viancha Sgarbi;Giorgio Viancha Sgarbi;Jingyiran Li;Jonathan Agyeman;Jonathan Osei Kwadso Agyeman;Pramoda Sachinthana Jayasinghe;Xiaolan Cheng,71,85.47887324,9.282639949,97.0,44.0,1,1,0,0,0,3,3,6,9,20,28
+UBCV,2020,S,STAT,305,,OVERALL,Introduction to Statistical Inference,,71,85.47887324,9.282639949,97.0,44.0,1,1,0,0,0,3,3,6,9,20,28

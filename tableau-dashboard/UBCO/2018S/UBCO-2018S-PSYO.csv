@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2018,S,PSYO,111,,001,Introduction to Psychology: Basic Processes,Paul Gabias,41,70.634146341,17.224627859,95.0,22.0,5,,,,,,,,5,,6
-UBCO,2018,S,PSYO,111,,OVERALL,Introduction to Psychology: Basic Processes,,41,70.634146341,17.224627859,95.0,22.0,5,,,,,,,,5,,6
-UBCO,2018,S,PSYO,121,,101,Introduction to Psychology: Personal Functioning,Shirley Hutchinson,31,78.967741935,10.597118699,94.0,53.0,,,,,,,5,,9,5,5
-UBCO,2018,S,PSYO,121,,OVERALL,Introduction to Psychology: Personal Functioning,,31,78.967741935,10.597118699,94.0,53.0,,,,,,,5,,9,5,5
-UBCO,2018,S,PSYO,380,B,101,Special Topics in Psychology,Megan Udala,64,78.8125,11.473745047000001,100.0,52.0,,,,,,7,6,7,10,12,11
-UBCO,2018,S,PSYO,380,B,OVERALL,Special Topics in Psychology,,64,78.8125,11.473745047000001,100.0,52.0,,,,,,7,6,7,10,12,11
-UBCO,2018,S,PSYO,380,D,001,Special Topics in Psychology,Crystal Lea Mundy;Crystal Mundy,68,80.294117647,8.453664442000001,95.0,60.0,,,,5,,,,10,19,17,7
-UBCO,2018,S,PSYO,380,D,OVERALL,Special Topics in Psychology,,68,80.294117647,8.453664442000001,95.0,60.0,,,,5,,,,10,19,17,7
-UBCO,2018,S,PSYO,380,E,101,Special Topics in Psychology,Evanya Musolino,30,75.2,8.108743684,90.0,60.0,,,,,5,,5,5,8,,
-UBCO,2018,S,PSYO,380,E,OVERALL,Special Topics in Psychology,,30,75.2,8.108743684,90.0,60.0,,,,,5,,5,5,8,,
-UBCO,2018,S,PSYO,380,F,101,Special Topics in Psychology,Marina Le,35,79.742857143,19.237437241,97.0,11.0,,,,,,,,,7,,13
-UBCO,2018,S,PSYO,380,F,OVERALL,Special Topics in Psychology,,35,79.742857143,19.237437241,97.0,11.0,,,,,,,,,7,,13
-UBCO,2018,S,PSYO,380,H,101,Special Topics in Psychology,Katherine Rose,21,76.333333333,18.439992769,99.0,17.0,,,,,,,,,,5,
-UBCO,2018,S,PSYO,380,H,OVERALL,Special Topics in Psychology,,21,76.333333333,18.439992769,99.0,17.0,,,,,,,,,,5,
-UBCO,2018,S,PSYO,380,P,001,Special Topics in Psychology,Shirley Hutchinson,75,77.68,14.468194380999998,100.0,16.0,,,,,5,10,12,8,,9,19
-UBCO,2018,S,PSYO,380,P,OVERALL,Special Topics in Psychology,,75,77.68,14.468194380999998,100.0,16.0,,,,,5,10,12,8,,9,19
-UBCO,2018,S,PSYO,381,A,OVERALL,Directed Studies in Psychology,,7,90.285714286,0.7559289459999999,92.0,90.0,,,,,,,,,,,7
+UBCO,2018,S,PSYO,111,,001,Introduction to Psychology: Basic Processes,Paul Gabias,41,70.63414634,17.22462786,95.0,22.0,5,3,4,3,3,1.0,4,3,5,4,6.0
+UBCO,2018,S,PSYO,111,,OVERALL,Introduction to Psychology: Basic Processes,,41,70.63414634,17.22462786,95.0,22.0,5,3,4,3,3,1.0,4,3,5,4,6.0
+UBCO,2018,S,PSYO,121,,101,Introduction to Psychology: Personal Functioning,Shirley Hutchinson,31,78.96774194,10.5971187,94.0,53.0,0,1,1,1,3,0.0,5,1,9,5,5.0
+UBCO,2018,S,PSYO,121,,OVERALL,Introduction to Psychology: Personal Functioning,,31,78.96774194,10.5971187,94.0,53.0,0,1,1,1,3,0.0,5,1,9,5,5.0
+UBCO,2018,S,PSYO,380,B,101,Special Topics in Psychology,Megan Udala,64,78.8125,11.47374505,100.0,52.0,0,2,2,3,4,7.0,6,7,10,12,11.0
+UBCO,2018,S,PSYO,380,B,OVERALL,Special Topics in Psychology,,64,78.8125,11.47374505,100.0,52.0,0,2,2,3,4,7.0,6,7,10,12,11.0
+UBCO,2018,S,PSYO,380,D,001,Special Topics in Psychology,Crystal Lea Mundy;Crystal Mundy,68,80.29411765,8.453664442,95.0,60.0,0,0,0,5,3,3.0,4,10,19,17,7.0
+UBCO,2018,S,PSYO,380,D,OVERALL,Special Topics in Psychology,,68,80.29411765,8.453664442,95.0,60.0,0,0,0,5,3,3.0,4,10,19,17,7.0
+UBCO,2018,S,PSYO,380,E,101,Special Topics in Psychology,Evanya Musolino,30,75.2,8.108743684,90.0,60.0,0,0,0,2,5,2.0,5,5,8,2,1.0
+UBCO,2018,S,PSYO,380,E,OVERALL,Special Topics in Psychology,,30,75.2,8.108743684,90.0,60.0,0,0,0,2,5,2.0,5,5,8,2,1.0
+UBCO,2018,S,PSYO,380,F,101,Special Topics in Psychology,Marina Le,35,79.74285714,19.23743724,97.0,11.0,2,0,0,1,2,1.0,3,3,7,3,13.0
+UBCO,2018,S,PSYO,380,F,OVERALL,Special Topics in Psychology,,35,79.74285714,19.23743724,97.0,11.0,2,0,0,1,2,1.0,3,3,7,3,13.0
+UBCO,2018,S,PSYO,380,H,101,Special Topics in Psychology,Katherine Rose,21,76.33333333,18.43999277,99.0,17.0,1,0,2,1,1,2.0,2,0,3,5,4.0
+UBCO,2018,S,PSYO,380,H,OVERALL,Special Topics in Psychology,,21,76.33333333,18.43999277,99.0,17.0,1,0,2,1,1,2.0,2,0,3,5,4.0
+UBCO,2018,S,PSYO,380,P,001,Special Topics in Psychology,Shirley Hutchinson,75,77.68,14.46819438,100.0,16.0,1,4,2,1,5,10.0,12,8,4,9,19.0
+UBCO,2018,S,PSYO,380,P,OVERALL,Special Topics in Psychology,,75,77.68,14.46819438,100.0,16.0,1,4,2,1,5,10.0,12,8,4,9,19.0
+UBCO,2018,S,PSYO,381,A,OVERALL,Directed Studies in Psychology,,7,90.28571429,0.755928946,92.0,90.0,0,0,0,0,0,0.0,0,0,0,0,7.0

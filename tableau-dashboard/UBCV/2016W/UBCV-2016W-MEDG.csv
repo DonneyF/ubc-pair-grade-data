@@ -1,27 +1,26 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,MEDG,419,,001,Developmental Origin of Human Disorders,Catherine Van Raamsdonk;Louis Lefebvre;Pamela Hoodless;Wendy Robinson,13,83.0,7.314369419,92.0,68.0,,,,,,,,,,5,
-UBCV,2016,W,MEDG,419,,OVERALL,Developmental Origin of Human Disorders,,13,83.0,7.314369419,92.0,68.0,,,,,,,,,,5,
-UBCV,2016,W,MEDG,420,,001,Human Genomics and Medical Genetics,Carles Vilarino-Guell;Carolyn Janet Brown;Elizabeth Conibear;Elizabeth M. Simpson;Elizabeth Simpson,11,80.909090909,6.347512039,90.0,68.0,,,,,,,,,,,
-UBCV,2016,W,MEDG,420,,OVERALL,Human Genomics and Medical Genetics,,11,80.909090909,6.347512039,90.0,68.0,,,,,,,,,,,
-UBCV,2016,W,MEDG,421,,001,Genetics and Cell Biology of Cancer,Catherine Pallen;Chinten James Lim;Peter Stirling;Wyeth Wasserman,29,83.275862069,6.374595515,93.0,67.0,,,,,,,,,9,8,5
-UBCV,2016,W,MEDG,421,,OVERALL,Genetics and Cell Biology of Cancer,,29,83.275862069,6.374595515,93.0,67.0,,,,,,,,,9,8,5
-UBCV,2016,W,MEDG,505,,001,Genome Analysis,Inanc Birol;Philip Hieter,17,90.058823529,4.58898938,97.0,83.0,,,,,,,,,,6,8
-UBCV,2016,W,MEDG,505,,OVERALL,Genome Analysis,,17,90.058823529,4.58898938,97.0,83.0,,,,,,,,,,6,8
-UBCV,2016,W,MEDG,520,,001,Advanced Human Molecular Genetics,Stefan Taubert,24,91.833333333,3.39650289,97.0,81.0,,,,,,,,,,,20
-UBCV,2016,W,MEDG,520,,OVERALL,Advanced Human Molecular Genetics,,24,91.833333333,3.39650289,97.0,81.0,,,,,,,,,,,20
-UBCV,2016,W,MEDG,521,,001,Molecular and Cell Biology of Cancer,Gregg Morin,19,89.736842105,3.82741725,96.0,84.0,,,,,,,,,,7,10
-UBCV,2016,W,MEDG,521,,OVERALL,Molecular and Cell Biology of Cancer,,19,89.736842105,3.82741725,96.0,84.0,,,,,,,,,,7,10
-UBCV,2016,W,MEDG,530,,001,Human Genetics,William Gibson,21,87.85714285700001,5.092010548999999,93.0,71.0,,,,,,,,,,6,12
-UBCV,2016,W,MEDG,530,,OVERALL,Human Genetics,,21,87.85714285700001,5.092010548999999,93.0,71.0,,,,,,,,,,6,12
-UBCV,2016,W,MEDG,535,,001,Genetics and Ethics,Alice Virani,12,88.5,1.678744119,91.0,86.0,,,,,,,,,,9,
-UBCV,2016,W,MEDG,535,,OVERALL,Genetics and Ethics,,12,88.5,1.678744119,91.0,86.0,,,,,,,,,,9,
-UBCV,2016,W,MEDG,545,,001,Current Topics in Medical Genetics Research,,9,89.888888889,2.8037673069999998,94.0,86.0,,,,,,,,,,,6
-UBCV,2016,W,MEDG,545,,OVERALL,Current Topics in Medical Genetics Research,,10,89.4,3.0623157539999997,94.0,85.0,,,,,,,,,,,6
-UBCV,2016,W,MEDG,548,B,002,Directed Studies,,16,92.375,2.362907813,96.0,88.0,,,,,,,,,,,14
-UBCV,2016,W,MEDG,548,B,OVERALL,Directed Studies,,16,92.375,2.362907813,96.0,88.0,,,,,,,,,,,14
-UBCV,2016,W,MEDG,550,,001,Concepts in Clinical Genetics for Genetic Counselling,Jennifer A Scott,6,87.666666667,3.204163958,93.0,85.0,,,,,,,,,,,
-UBCV,2016,W,MEDG,550,,OVERALL,Concepts in Clinical Genetics for Genetic Counselling,,6,87.666666667,3.204163958,93.0,85.0,,,,,,,,,,,
-UBCV,2016,W,MEDG,570,,001,Introductory Clinical and Laboratory Rotation,Tracey Oh,6,84.0,3.033150178,87.0,80.0,,,,,,,,,,,
-UBCV,2016,W,MEDG,570,,OVERALL,Introductory Clinical and Laboratory Rotation,,6,84.0,3.033150178,87.0,80.0,,,,,,,,,,,
-UBCV,2016,W,MEDG,575,,001,Advanced Clinical Rotation,Tracey Oh,5,86.4,4.449719092,93.0,81.0,,,,,,,,,,,
-UBCV,2016,W,MEDG,575,,OVERALL,Advanced Clinical Rotation,,6,84.666666667,5.819507425,93.0,76.0,,,,,,,,,,,
+UBCV,2016,W,MEDG,419,,001,Developmental Origin of Human Disorders,Catherine Van Raamsdonk;Louis Lefebvre;Pamela Hoodless;Wendy Robinson,13,83.0,7.314369419,92.0,68.0,0,0,0,0,0,1,1,1,3,5,2
+UBCV,2016,W,MEDG,419,,OVERALL,Developmental Origin of Human Disorders,,13,83.0,7.314369419,92.0,68.0,0,0,0,0,0,1,1,1,3,5,2
+UBCV,2016,W,MEDG,420,,001,Human Genomics and Medical Genetics,Carles Vilarino-Guell;Carolyn Janet Brown;Elizabeth Conibear;Elizabeth M. Simpson;Elizabeth Simpson,11,80.90909091,6.347512039,90.0,68.0,0,0,0,0,0,1,2,1,4,2,1
+UBCV,2016,W,MEDG,420,,OVERALL,Human Genomics and Medical Genetics,,11,80.90909091,6.347512039,90.0,68.0,0,0,0,0,0,1,2,1,4,2,1
+UBCV,2016,W,MEDG,421,,001,Genetics and Cell Biology of Cancer,Catherine Pallen;Chinten James Lim;Peter Stirling;Wyeth Wasserman,29,83.27586207,6.374595515,93.0,67.0,0,0,0,0,1,1,2,3,9,8,5
+UBCV,2016,W,MEDG,421,,OVERALL,Genetics and Cell Biology of Cancer,,29,83.27586207,6.374595515,93.0,67.0,0,0,0,0,1,1,2,3,9,8,5
+UBCV,2016,W,MEDG,505,,001,Genome Analysis,Inanc Birol;Philip Hieter,17,90.05882353,4.58898938,97.0,83.0,0,0,0,0,0,0,0,0,3,6,8
+UBCV,2016,W,MEDG,505,,OVERALL,Genome Analysis,,17,90.05882353,4.58898938,97.0,83.0,0,0,0,0,0,0,0,0,3,6,8
+UBCV,2016,W,MEDG,520,,001,Advanced Human Molecular Genetics,Stefan Taubert,24,91.83333333,3.39650289,97.0,81.0,0,0,0,0,0,0,0,0,1,3,20
+UBCV,2016,W,MEDG,520,,OVERALL,Advanced Human Molecular Genetics,,24,91.83333333,3.39650289,97.0,81.0,0,0,0,0,0,0,0,0,1,3,20
+UBCV,2016,W,MEDG,521,,001,Molecular and Cell Biology of Cancer,Gregg Morin,19,89.73684211,3.82741725,96.0,84.0,0,0,0,0,0,0,0,0,2,7,10
+UBCV,2016,W,MEDG,521,,OVERALL,Molecular and Cell Biology of Cancer,,19,89.73684211,3.82741725,96.0,84.0,0,0,0,0,0,0,0,0,2,7,10
+UBCV,2016,W,MEDG,530,,001,Human Genetics,William Gibson,21,87.85714286,5.092010549,93.0,71.0,0,0,0,0,0,1,0,0,2,6,12
+UBCV,2016,W,MEDG,530,,OVERALL,Human Genetics,,21,87.85714286,5.092010549,93.0,71.0,0,0,0,0,0,1,0,0,2,6,12
+UBCV,2016,W,MEDG,535,,001,Genetics and Ethics,Alice Virani,12,88.5,1.678744119,91.0,86.0,0,0,0,0,0,0,0,0,0,9,3
+UBCV,2016,W,MEDG,535,,OVERALL,Genetics and Ethics,,12,88.5,1.678744119,91.0,86.0,0,0,0,0,0,0,0,0,0,9,3
+UBCV,2016,W,MEDG,545,,001,Current Topics in Medical Genetics Research,,9,89.88888889,2.803767307,94.0,86.0,0,0,0,0,0,0,0,0,0,3,6
+UBCV,2016,W,MEDG,545,,OVERALL,Current Topics in Medical Genetics Research,,10,89.4,3.062315754,94.0,85.0,0,0,0,0,0,0,0,0,0,4,6
+UBCV,2016,W,MEDG,548,B,002,Directed Studies,,16,92.375,2.362907813,96.0,88.0,0,0,0,0,0,0,0,0,0,2,14
+UBCV,2016,W,MEDG,548,B,OVERALL,Directed Studies,,16,92.375,2.362907813,96.0,88.0,0,0,0,0,0,0,0,0,0,2,14
+UBCV,2016,W,MEDG,550,,001,Concepts in Clinical Genetics for Genetic Counselling,Jennifer A Scott,6,87.66666667,3.204163958,93.0,85.0,0,0,0,0,0,0,0,0,0,4,2
+UBCV,2016,W,MEDG,550,,OVERALL,Concepts in Clinical Genetics for Genetic Counselling,,6,87.66666667,3.204163958,93.0,85.0,0,0,0,0,0,0,0,0,0,4,2
+UBCV,2016,W,MEDG,570,,001,Introductory Clinical and Laboratory Rotation,Tracey Oh,6,84.0,3.033150178,87.0,80.0,0,0,0,0,0,0,0,0,3,3,0
+UBCV,2016,W,MEDG,570,,OVERALL,Introductory Clinical and Laboratory Rotation,,6,84.0,3.033150178,87.0,80.0,0,0,0,0,0,0,0,0,3,3,0
+UBCV,2016,W,MEDG,575,,OVERALL,Advanced Clinical Rotation,,6,84.66666667,5.819507425,93.0,76.0,0,0,0,0,0,0,0,,,,

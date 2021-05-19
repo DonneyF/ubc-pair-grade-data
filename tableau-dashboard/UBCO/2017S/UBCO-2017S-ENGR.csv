@@ -1,11 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,S,ENGR,449,,001,Special Topics in Civil Engineering,Gordon Lovegrove,15,81.0,5.916079783,87.0,68.0,,,,,,,,,6,5,
-UBCO,2017,S,ENGR,449,,OVERALL,Special Topics in Civil Engineering,,15,81.0,5.916079783,87.0,68.0,,,,,,,,,6,5,
-UBCO,2017,S,ENGR,531,,001,Infrastructure Management,Golam Kabir,8,91.375,6.139741735,97.0,82.0,,,,,,,,,,,5
-UBCO,2017,S,ENGR,531,,OVERALL,Infrastructure Management,,8,91.375,6.139741735,97.0,82.0,,,,,,,,,,,5
-UBCO,2017,S,ENGR,532,,001,Project Planning and Control,Vithanapalpita Ruparathna,11,88.636363636,4.0068123810000005,95.0,84.0,,,,,,,,,,5,
-UBCO,2017,S,ENGR,532,,OVERALL,Project Planning and Control,,11,88.636363636,4.0068123810000005,95.0,84.0,,,,,,,,,,5,
-UBCO,2017,S,ENGR,598,N,001,Topics in Engineering,Sumi Siddiqua,5,90.4,4.669047012,95.0,84.0,,,,,,,,,,,
-UBCO,2017,S,ENGR,598,N,OVERALL,Topics in Engineering,,5,90.4,4.669047012,95.0,84.0,,,,,,,,,,,
-UBCO,2017,S,ENGR,598,O,001,Topics in Engineering,Leonard Lye;Rehan Sadiq,12,92.5,2.354878881,98.0,90.0,,,,,,,,,,,12
-UBCO,2017,S,ENGR,598,O,OVERALL,Topics in Engineering,,12,92.5,2.354878881,98.0,90.0,,,,,,,,,,,12
+UBCO,2017,S,ENGR,449,,001,Special Topics in Civil Engineering,Gordon Lovegrove,15,81.0,5.916079783,87.0,68.0,0,0,0,0,0,1,2,1,6,5,0
+UBCO,2017,S,ENGR,449,,OVERALL,Special Topics in Civil Engineering,,15,81.0,5.916079783,87.0,68.0,0,0,0,0,0,1,2,1,6,5,0
+UBCO,2017,S,ENGR,531,,001,Infrastructure Management,Golam Kabir,8,91.375,6.139741735,97.0,82.0,0,0,0,0,0,0,0,0,2,1,5
+UBCO,2017,S,ENGR,531,,OVERALL,Infrastructure Management,,8,91.375,6.139741735,97.0,82.0,0,0,0,0,0,0,0,0,2,1,5
+UBCO,2017,S,ENGR,532,,001,Project Planning and Control,Vithanapalpita Ruparathna,11,88.63636364,4.006812381,95.0,84.0,0,0,0,0,0,0,0,0,2,5,4
+UBCO,2017,S,ENGR,532,,OVERALL,Project Planning and Control,,11,88.63636364,4.006812381,95.0,84.0,0,0,0,0,0,0,0,0,2,5,4
+UBCO,2017,S,ENGR,598,O,001,Topics in Engineering,Leonard Lye;Rehan Sadiq,12,92.5,2.354878881,98.0,90.0,0,0,0,0,0,0,0,0,0,0,12
+UBCO,2017,S,ENGR,598,O,OVERALL,Topics in Engineering,,12,92.5,2.354878881,98.0,90.0,0,0,0,0,0,0,0,0,0,0,12

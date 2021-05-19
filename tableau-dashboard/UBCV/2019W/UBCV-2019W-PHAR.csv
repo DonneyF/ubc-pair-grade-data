@@ -1,41 +1,40 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,PHAR,405,B,001,Directed Studies in Clinical Pharmacy,Lynda Eccott,7,90.285714286,6.9453650179999995,95.0,75.0,,,,,,,,,,,6
-UBCV,2019,W,PHAR,405,B,002,Directed Studies in Clinical Pharmacy,Lynda Eccott,7,90.14285714299999,6.309478886,98.0,81.0,,,,,,,,,,,-5
-UBCV,2019,W,PHAR,405,B,OVERALL,Directed Studies in Clinical Pharmacy,,18,89.888888889,5.624409918,98.0,75.0,,,,,,,,,,,11
-UBCV,2019,W,PHAR,405,D,001,Directed Studies in Clinical Pharmacy,Lynda Eccott,10,89.2,7.31512892,98.0,78.0,,,,,,,,,,,5
-UBCV,2019,W,PHAR,405,D,OVERALL,Directed Studies in Clinical Pharmacy,,10,89.2,7.31512892,98.0,78.0,,,,,,,,,,,5
-UBCV,2019,W,PHAR,408,,001,Clinical Pharmacokinetics,Cesilia Nishi;Charles Yin Ming Au;Harvey Wong;Louis Lin;Timmy Lau,34,88.088235294,8.684251323,100.0,61.0,,,,,,,,,,7,20
-UBCV,2019,W,PHAR,408,,OVERALL,Clinical Pharmacokinetics,,34,88.088235294,8.684251323,100.0,61.0,,,,,,,,,,7,20
-UBCV,2019,W,PHAR,409,,001,Renal Pharmacotherapeutics,Arun Verma;Clifford Lo;Judith Marin;Marianna Leung;Sneha Omprakash Singh;Sneha Singh,14,78.714285714,6.615001267,91.0,66.0,,,,,,,,,5,,
-UBCV,2019,W,PHAR,409,,OVERALL,Renal Pharmacotherapeutics,,14,78.714285714,6.615001267,91.0,66.0,,,,,,,,,5,,
-UBCV,2019,W,PHAR,420,B,004,Directed Studies in Pharmacy Education,Tony Seet,6,89.833333333,0.98319208,91.0,88.0,,,,,,,,,,,5
-UBCV,2019,W,PHAR,420,B,OVERALL,Directed Studies in Pharmacy Education,,14,91.285714286,2.462911705,97.0,88.0,,,,,,,,,,,12
-UBCV,2019,W,PHAR,440,,001,Pain Research and Therapy,Arun Verma;Brian Cairns;Tarique Benbow;Tarique Vicario Benbow,12,80.583333333,5.991787308999999,93.0,73.0,,,,,,,,5,,,
-UBCV,2019,W,PHAR,440,,OVERALL,Pain Research and Therapy,,12,80.583333333,5.991787308999999,93.0,73.0,,,,,,,,5,,,
-UBCV,2019,W,PHAR,448,,001,Pharmaceutical Toxicology,Colin Ross;Siyue Yu,16,93.25,4.139243087,97.0,80.0,,,,,,,,,,,15
-UBCV,2019,W,PHAR,448,,OVERALL,Pharmaceutical Toxicology,,16,93.25,4.139243087,97.0,80.0,,,,,,,,,,,15
-UBCV,2019,W,PHAR,450,F,001,Selected Topics,Sneha Omprakash Singh;Sneha Singh;Ujendra Kumar,21,86.333333333,5.275730597,94.0,71.0,,,,,,,,,,10,5
-UBCV,2019,W,PHAR,450,F,OVERALL,Selected Topics,,21,86.333333333,5.275730597,94.0,71.0,,,,,,,,,,10,5
-UBCV,2019,W,PHAR,450,H,001,Selected Topics,Ajit Johal;Lukas Hohenwarter,34,85.911764706,8.012746085,99.0,68.0,,,,,,,,,6,8,12
-UBCV,2019,W,PHAR,450,H,OVERALL,Selected Topics,,34,85.911764706,8.012746085,99.0,68.0,,,,,,,,,6,8,12
-UBCV,2019,W,PHAR,450,J,001,Selected Topics,Amrinder Sihota;Shireen Anbardan,21,85.523809524,3.655393927,91.0,78.0,,,,,,,,,6,12,
-UBCV,2019,W,PHAR,450,J,OVERALL,Selected Topics,,21,85.523809524,3.655393927,91.0,78.0,,,,,,,,,6,12,
-UBCV,2019,W,PHAR,450,K,001,Selected Topics,Louis Lin;Patricia Gerber,13,91.615384615,2.433737234,97.0,88.0,,,,,,,,,,,10
-UBCV,2019,W,PHAR,450,K,OVERALL,Selected Topics,,13,91.615384615,2.433737234,97.0,88.0,,,,,,,,,,,10
-UBCV,2019,W,PHAR,450,N,001,Selected Topics,Gabriel Wen-Yong Loh;Gloria Su;Karen Dahri;Michael Doerksen;Vincent Mabasa,34,87.852941176,7.093028387,98.0,69.0,,,,,,,,,6,9,15
-UBCV,2019,W,PHAR,450,N,OVERALL,Selected Topics,,34,87.852941176,7.093028387,98.0,69.0,,,,,,,,,6,9,15
-UBCV,2019,W,PHAR,450,P,001,Selected Topics,Annalijn Conklin;Brian Rodrigues;Zheng Lin,13,85.153846154,9.406080957,94.0,68.0,,,,,,,,,,,5
-UBCV,2019,W,PHAR,450,P,OVERALL,Selected Topics,,13,85.153846154,9.406080957,94.0,68.0,,,,,,,,,,,5
-UBCV,2019,W,PHAR,450,R,001,Selected Topics,Brandon Haefling;Brandon Robert Haefling;Ingrid Price;Tamara Mihic,18,94.27777777799999,6.415106762000001,99.0,76.0,,,,,,,,,,,16
-UBCV,2019,W,PHAR,450,R,OVERALL,Selected Topics,,18,94.27777777799999,6.415106762000001,99.0,76.0,,,,,,,,,,,16
-UBCV,2019,W,PHAR,453,B,102,Directed Studies in Pharmacy Practice,Lynda Eccott;Po-Han Chao;Tessa Nicholl,12,100.0,0.0,100.0,100.0,,,,,,,,,,,12
-UBCV,2019,W,PHAR,453,B,OVERALL,Directed Studies in Pharmacy Practice,,19,97.736842105,3.363894986,100.0,89.0,,,,,,,,,,,18
-UBCV,2019,W,PHAR,453,E,OVERALL,Directed Studies in Pharmacy Practice,,5,91.2,5.449770637,96.0,82.0,,,,,,,,,,,6
-UBCV,2019,W,PHAR,458,,001,Pharmacotherapy in Oncology,Judy Wong;Truc Nguyen;Truc Thien Thanh Nguyen,11,80.181818182,6.94000262,90.0,68.0,,,,,,,,,,,
-UBCV,2019,W,PHAR,458,,OVERALL,Pharmacotherapy in Oncology,,11,80.181818182,6.94000262,90.0,68.0,,,,,,,,,,,
-UBCV,2019,W,PHAR,515,,001,Nanomedicines,Shyh-Dar Li,7,90.571428571,2.149196971,93.0,88.0,,,,,,,,,,,5
-UBCV,2019,W,PHAR,515,,OVERALL,Nanomedicines,,7,90.571428571,2.149196971,93.0,88.0,,,,,,,,,,,5
-UBCV,2019,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Abby Collier,17,86.647058824,3.872033969,95.0,80.0,,,,,,,,,6,5,6
-UBCV,2019,W,PHAR,590,,OVERALL,Research in the Pharmaceutical Sciences: Principles and Methods,,17,86.647058824,3.872033969,95.0,80.0,,,,,,,,,6,5,6
-UBCV,2019,W,PHAR,591,,001,Scholarly Integrity and Research Ethics,Annalijn Conklin,20,90.05,5.500956855,100.0,79.0,,,,,,,,,,5,11
-UBCV,2019,W,PHAR,591,,OVERALL,Scholarly Integrity and Research Ethics,,20,90.05,5.500956855,100.0,79.0,,,,,,,,,,5,11
+UBCV,2019,W,PHAR,405,B,001,Directed Studies in Clinical Pharmacy,Lynda Eccott,7,90.28571429,6.945365018,95.0,75.0,0,0,0,0,0.0,0,1.0,0.0,0,0.0,6
+UBCV,2019,W,PHAR,405,B,002,Directed Studies in Clinical Pharmacy,Lynda Eccott,8,88.75,7.04576874,98.0,79.0,0,0,0,0,0.0,0,0.0,1.0,2,1.0,4
+UBCV,2019,W,PHAR,405,B,OVERALL,Directed Studies in Clinical Pharmacy,,19,89.31578947,6.009738685,98.0,75.0,0,0,0,0,0.0,0,1.0,1.0,2,4.0,11
+UBCV,2019,W,PHAR,405,D,001,Directed Studies in Clinical Pharmacy,Lynda Eccott,10,89.2,7.31512892,98.0,78.0,0,0,0,0,0.0,0,0.0,1.0,2,2.0,5
+UBCV,2019,W,PHAR,405,D,OVERALL,Directed Studies in Clinical Pharmacy,,10,89.2,7.31512892,98.0,78.0,0,0,0,0,0.0,0,0.0,1.0,2,2.0,5
+UBCV,2019,W,PHAR,408,,001,Clinical Pharmacokinetics,Cesilia Nishi;Charles Yin Ming Au;Harvey Wong;Louis Lin;Timmy Lau,34,88.08823529,8.684251323,100.0,61.0,0,0,0,1,0.0,1,2.0,1.0,2,7.0,20
+UBCV,2019,W,PHAR,408,,OVERALL,Clinical Pharmacokinetics,,34,88.08823529,8.684251323,100.0,61.0,0,0,0,1,0.0,1,2.0,1.0,2,7.0,20
+UBCV,2019,W,PHAR,409,,001,Renal Pharmacotherapeutics,Arun Verma;Clifford Lo;Judith Marin;Marianna Leung;Sneha Omprakash Singh;Sneha Singh,14,78.71428571,6.615001267,91.0,66.0,0,0,0,0,1.0,1,2.0,3.0,5,1.0,1
+UBCV,2019,W,PHAR,409,,OVERALL,Renal Pharmacotherapeutics,,14,78.71428571,6.615001267,91.0,66.0,0,0,0,0,1.0,1,2.0,3.0,5,1.0,1
+UBCV,2019,W,PHAR,420,B,004,Directed Studies in Pharmacy Education,Tony Seet,6,89.83333333,0.98319208,91.0,88.0,0,0,0,0,0.0,0,0.0,0.0,0,1.0,5
+UBCV,2019,W,PHAR,420,B,OVERALL,Directed Studies in Pharmacy Education,,14,91.28571429,2.462911705,97.0,88.0,0,0,0,0,0.0,0,0.0,0.0,0,2.0,12
+UBCV,2019,W,PHAR,440,,001,Pain Research and Therapy,Arun Verma;Brian Cairns;Tarique Benbow;Tarique Vicario Benbow,12,80.58333333,5.991787309,93.0,73.0,0,0,0,0,0.0,0,2.0,5.0,2,2.0,1
+UBCV,2019,W,PHAR,440,,OVERALL,Pain Research and Therapy,,12,80.58333333,5.991787309,93.0,73.0,0,0,0,0,0.0,0,2.0,5.0,2,2.0,1
+UBCV,2019,W,PHAR,448,,001,Pharmaceutical Toxicology,Colin Ross;Siyue Yu,16,93.25,4.139243087,97.0,80.0,0,0,0,0,0.0,0,0.0,0.0,1,0.0,15
+UBCV,2019,W,PHAR,448,,OVERALL,Pharmaceutical Toxicology,,16,93.25,4.139243087,97.0,80.0,0,0,0,0,0.0,0,0.0,0.0,1,0.0,15
+UBCV,2019,W,PHAR,450,F,001,Selected Topics,Sneha Omprakash Singh;Sneha Singh;Ujendra Kumar,21,86.33333333,5.275730597,94.0,71.0,0,0,0,0,0.0,1,0.0,1.0,4,10.0,5
+UBCV,2019,W,PHAR,450,F,OVERALL,Selected Topics,,21,86.33333333,5.275730597,94.0,71.0,0,0,0,0,0.0,1,0.0,1.0,4,10.0,5
+UBCV,2019,W,PHAR,450,H,001,Selected Topics,Ajit Johal;Lukas Hohenwarter,34,85.91176471,8.012746085,99.0,68.0,0,0,0,0,0.0,2,2.0,4.0,6,8.0,12
+UBCV,2019,W,PHAR,450,H,OVERALL,Selected Topics,,34,85.91176471,8.012746085,99.0,68.0,0,0,0,0,0.0,2,2.0,4.0,6,8.0,12
+UBCV,2019,W,PHAR,450,J,001,Selected Topics,Amrinder Sihota;Shireen Anbardan,21,85.52380952,3.655393927,91.0,78.0,0,0,0,0,0.0,0,0.0,1.0,6,12.0,2
+UBCV,2019,W,PHAR,450,J,OVERALL,Selected Topics,,21,85.52380952,3.655393927,91.0,78.0,0,0,0,0,0.0,0,0.0,1.0,6,12.0,2
+UBCV,2019,W,PHAR,450,K,001,Selected Topics,Louis Lin;Patricia Gerber,13,91.61538462,2.433737234,97.0,88.0,0,0,0,0,0.0,0,0.0,0.0,0,3.0,10
+UBCV,2019,W,PHAR,450,K,OVERALL,Selected Topics,,13,91.61538462,2.433737234,97.0,88.0,0,0,0,0,0.0,0,0.0,0.0,0,3.0,10
+UBCV,2019,W,PHAR,450,N,001,Selected Topics,Gabriel Wen-Yong Loh;Gloria Su;Karen Dahri;Michael Doerksen;Vincent Mabasa,34,87.85294118,7.093028387,98.0,69.0,0,0,0,0,0.0,2,0.0,2.0,6,9.0,15
+UBCV,2019,W,PHAR,450,N,OVERALL,Selected Topics,,34,87.85294118,7.093028387,98.0,69.0,0,0,0,0,0.0,2,0.0,2.0,6,9.0,15
+UBCV,2019,W,PHAR,450,P,001,Selected Topics,Annalijn Conklin;Brian Rodrigues;Zheng Lin,13,85.15384615,9.406080957,94.0,68.0,0,0,0,0,0.0,3,0.0,0.0,1,4.0,5
+UBCV,2019,W,PHAR,450,P,OVERALL,Selected Topics,,13,85.15384615,9.406080957,94.0,68.0,0,0,0,0,0.0,3,0.0,0.0,1,4.0,5
+UBCV,2019,W,PHAR,450,R,001,Selected Topics,Brandon Haefling;Brandon Robert Haefling;Ingrid Price;Tamara Mihic,18,94.27777778,6.415106762,99.0,76.0,0,0,0,0,0.0,0,0.0,1.0,1,0.0,16
+UBCV,2019,W,PHAR,450,R,OVERALL,Selected Topics,,18,94.27777778,6.415106762,99.0,76.0,0,0,0,0,0.0,0,0.0,1.0,1,0.0,16
+UBCV,2019,W,PHAR,453,B,102,Directed Studies in Pharmacy Practice,Lynda Eccott;Po-Han Chao;Tessa Nicholl,12,100.0,0.0,100.0,100.0,0,0,0,0,0.0,0,0.0,0.0,0,0.0,12
+UBCV,2019,W,PHAR,453,B,OVERALL,Directed Studies in Pharmacy Practice,,19,97.73684211,3.363894986,100.0,89.0,0,0,0,0,0.0,0,0.0,0.0,0,1.0,18
+UBCV,2019,W,PHAR,458,,001,Pharmacotherapy in Oncology,Judy Wong;Truc Nguyen;Truc Thien Thanh Nguyen,11,80.18181818,6.94000262,90.0,68.0,0,0,0,0,0.0,1,3.0,0.0,4,1.0,2
+UBCV,2019,W,PHAR,458,,OVERALL,Pharmacotherapy in Oncology,,11,80.18181818,6.94000262,90.0,68.0,0,0,0,0,0.0,1,3.0,0.0,4,1.0,2
+UBCV,2019,W,PHAR,515,,001,Nanomedicines,Shyh-Dar Li,7,90.57142857,2.149196971,93.0,88.0,0,0,0,0,0.0,0,0.0,0.0,0,2.0,5
+UBCV,2019,W,PHAR,515,,OVERALL,Nanomedicines,,7,90.57142857,2.149196971,93.0,88.0,0,0,0,0,0.0,0,0.0,0.0,0,2.0,5
+UBCV,2019,W,PHAR,590,,002,Research in the Pharmaceutical Sciences: Principles and Methods,Abby Collier,17,86.64705882,3.872033969,95.0,80.0,0,0,0,0,0.0,0,0.0,0.0,6,5.0,6
+UBCV,2019,W,PHAR,590,,OVERALL,Research in the Pharmaceutical Sciences: Principles and Methods,,17,86.64705882,3.872033969,95.0,80.0,0,0,0,0,0.0,0,0.0,0.0,6,5.0,6
+UBCV,2019,W,PHAR,591,,001,Scholarly Integrity and Research Ethics,Annalijn Conklin,20,90.05,5.500956855,100.0,79.0,0,0,0,0,0.0,0,0.0,1.0,3,5.0,11
+UBCV,2019,W,PHAR,591,,OVERALL,Scholarly Integrity and Research Ethics,,20,90.05,5.500956855,100.0,79.0,0,0,0,0,0.0,0,0.0,1.0,3,5.0,11

@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,UDES,501,,001,Urban Design Studio I,Camila Barbosa Curi;Scot Hein,17,88.470588235,0.514495755,89.0,88.0,,,,,,,,,,17,
-UBCV,2018,W,UDES,501,,OVERALL,Urban Design Studio I,,17,88.470588235,0.514495755,89.0,88.0,,,,,,,,,,17,
-UBCV,2018,W,UDES,502,,001,Urban Design Studio II,Patrick Michael Condon,17,87.352941176,1.271867548,90.0,86.0,,,,,,,,,,16,
-UBCV,2018,W,UDES,502,,OVERALL,Urban Design Studio II,,17,87.352941176,1.271867548,90.0,86.0,,,,,,,,,,16,
-UBCV,2018,W,UDES,504,,001,History and Theory of Urban Design,Camila Barbosa Curi;Sara Stevens,21,82.666666667,5.199358935,89.0,65.0,,,,,,,,,9,8,
-UBCV,2018,W,UDES,504,,OVERALL,History and Theory of Urban Design,,21,82.666666667,5.199358935,89.0,65.0,,,,,,,,,9,8,
-UBCV,2018,W,UDES,505,,001,Urban Design as Public Policy: Policymaking for a Sustainable Region,Donald Luymes;Donald T Luymes,17,86.235294118,5.984661767,95.0,76.0,,,,,,,,,,6,6
-UBCV,2018,W,UDES,505,,OVERALL,Urban Design as Public Policy: Policymaking for a Sustainable Region,,17,86.235294118,5.984661767,95.0,76.0,,,,,,,,,,6,6
-UBCV,2018,W,UDES,509,A,001,Topics in Urban Design,Kees Lokman;Ronald Kellett;Sara Stevens;Scot Hein,13,86.30769230799999,1.250640861,89.0,85.0,,,,,,,,,,13,
-UBCV,2018,W,UDES,509,A,OVERALL,Topics in Urban Design,,13,86.30769230799999,1.250640861,89.0,85.0,,,,,,,,,,13,
-UBCV,2018,W,UDES,509,B,002,Topics in Urban Design,Neal Lamontagne,16,84.0625,6.971071175,95.0,68.0,,,,,,,,,,6,
-UBCV,2018,W,UDES,509,B,OVERALL,Topics in Urban Design,,16,84.0625,6.971071175,95.0,68.0,,,,,,,,,,6,
-UBCV,2018,W,UDES,509,C,001,Topics in Urban Design,Patrick Michael Condon,8,86.25,3.150963571,89.0,81.0,,,,,,,,,,5,
-UBCV,2018,W,UDES,509,C,OVERALL,Topics in Urban Design,,8,86.25,3.150963571,89.0,81.0,,,,,,,,,,5,
+UBCV,2018,W,UDES,501,,001,Urban Design Studio I,Camila Barbosa Curi;Robert Hein;Scot Hein,17,88.47058824,0.514495755,89.0,88.0,0,0,0,0,0,0,0.0,0,0,17,0
+UBCV,2018,W,UDES,501,,OVERALL,Urban Design Studio I,,17,88.47058824,0.514495755,89.0,88.0,0,0,0,0,0,0,0.0,0,0,17,0
+UBCV,2018,W,UDES,502,,001,Urban Design Studio II,Patrick Michael Condon,17,87.35294118,1.271867548,90.0,86.0,0,0,0,0,0,0,0.0,0,0,16,1
+UBCV,2018,W,UDES,502,,OVERALL,Urban Design Studio II,,17,87.35294118,1.271867548,90.0,86.0,0,0,0,0,0,0,0.0,0,0,16,1
+UBCV,2018,W,UDES,504,,001,History and Theory of Urban Design,Camila Barbosa Curi;Sara Stevens,21,82.66666667,5.199358935,89.0,65.0,0,0,0,0,1,0,0.0,3,9,8,0
+UBCV,2018,W,UDES,504,,OVERALL,History and Theory of Urban Design,,21,82.66666667,5.199358935,89.0,65.0,0,0,0,0,1,0,0.0,3,9,8,0
+UBCV,2018,W,UDES,505,,001,Urban Design as Public Policy: Policymaking for a Sustainable Region,Donald Luymes;Donald T Luymes,17,86.23529412,5.984661767,95.0,76.0,0,0,0,0,0,0,0.0,2,3,6,6
+UBCV,2018,W,UDES,505,,OVERALL,Urban Design as Public Policy: Policymaking for a Sustainable Region,,17,86.23529412,5.984661767,95.0,76.0,0,0,0,0,0,0,0.0,2,3,6,6
+UBCV,2018,W,UDES,509,A,001,Topics in Urban Design,Kees Lokman;Robert Hein;Ronald Kellett;Sara Stevens;Scot Hein,13,86.30769231,1.250640861,89.0,85.0,0,0,0,0,0,0,0.0,0,0,13,0
+UBCV,2018,W,UDES,509,A,OVERALL,Topics in Urban Design,,13,86.30769231,1.250640861,89.0,85.0,0,0,0,0,0,0,0.0,0,0,13,0
+UBCV,2018,W,UDES,509,B,002,Topics in Urban Design,Neal Lamontagne,16,84.0625,6.971071175,95.0,68.0,0,0,0,0,0,1,0.0,3,3,6,3
+UBCV,2018,W,UDES,509,B,OVERALL,Topics in Urban Design,,16,84.0625,6.971071175,95.0,68.0,0,0,0,0,0,1,0.0,3,3,6,3
+UBCV,2018,W,UDES,509,C,001,Topics in Urban Design,Patrick Michael Condon,8,86.25,3.150963571,89.0,81.0,0,0,0,0,0,0,0.0,0,3,5,0
+UBCV,2018,W,UDES,509,C,OVERALL,Topics in Urban Design,,8,86.25,3.150963571,89.0,81.0,0,0,0,0,0,0,0.0,0,3,5,0

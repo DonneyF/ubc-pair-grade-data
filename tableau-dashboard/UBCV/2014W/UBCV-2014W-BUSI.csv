@@ -1,7 +1,7 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2014,W,BUSI,100,,001,Micro Foundations of Real Estate Economics,,77,67.92207792,24.18174944,93.0,0.0,13,,,,,6,10,12,12,13,
 UBCV,2014,W,BUSI,100,,002,Micro Foundations of Real Estate Economics,,52,67.44230769,27.22557438,91.0,0.0,8,,,,,1,8,6,13,8,
-UBCV,2014,W,BUSI,100,,OVERALL,Micro Foundations of Real Estate Economics,,129,67.72868217,25.34935648,93.0,0.0,21,,,6,8,7,18,18,25,21,5
+UBCV,2014,W,BUSI,100,,OVERALL,Micro Foundations of Real Estate Economics,,129,67.72868217,25.34935648,93.0,0.0,21,0,0,6,8,7,18,18,25,21,5
 UBCV,2014,W,BUSI,101,,001,Capital Markets and Real Estate,,55,68.90909091,20.63462815,96.0,2.0,8,,,,5,9,1,11,9,6,
 UBCV,2014,W,BUSI,101,,002,Capital Markets and Real Estate,,50,67.58,24.76344409,96.0,0.0,6,,,,3,5,9,10,5,6,
 UBCV,2014,W,BUSI,101,,OVERALL,Capital Markets and Real Estate,,105,68.27619048,22.59318108,96.0,0.0,14,,,8,8,14,10,21,14,12,
@@ -15,14 +15,14 @@ UBCV,2014,W,BUSI,121,,001,Foundations of Real Estate Mathematics,,69,63.05797101
 UBCV,2014,W,BUSI,121,,002,Foundations of Real Estate Mathematics,,57,62.47368421,28.84633256,92.0,0.0,15,,,,,6,4,10,10,4,4
 UBCV,2014,W,BUSI,121,,OVERALL,Foundations of Real Estate Mathematics,,126,62.79365079,28.66756145,92.0,0.0,32,,,,5,14,12,20,17,13,9
 UBCV,2014,W,BUSI,221,,001,Real Estate Finance in a Canadian Context,,15,74.86666667,19.49310012,94.0,10.0,,,,,,,,,,,
-UBCV,2014,W,BUSI,221,,002,Real Estate Finance in a Canadian Context,,19,65.05263158,22.15469272,83.0,2.0,,,,,,,,,,,
+UBCV,2014,W,BUSI,221,,002,Real Estate Finance in a Canadian Context,,19,65.05263158,22.15469272,83.0,2.0,,,,,,,,,,0,0
 UBCV,2014,W,BUSI,221,,OVERALL,Real Estate Finance in a Canadian Context,,34,69.38235294,21.29307002,94.0,2.0,,,,,,5,6,6,5,,
-UBCV,2014,W,BUSI,291,,207,Application of Statistics in Business,Gregory Werker,6,79.5,6.920982588999999,90.0,73.0,,,,,,,,,,,
+UBCV,2014,W,BUSI,291,,207,Application of Statistics in Business,Gregory Werker,6,79.5,6.920982589,90.0,73.0,0,0,0,0,0,0,,,,,
 UBCV,2014,W,BUSI,291,,OVERALL,Application of Statistics in Business,,9,72.88888889,16.24380224,90.0,33.0,,,,,,,,,,,
 UBCV,2014,W,BUSI,293,,101,Introductory Financial Accounting,Scott Sinclair,34,62.05882353,24.96657302,93.0,2.0,7,,,,5,5,,,6,,
 UBCV,2014,W,BUSI,293,,102,Introductory Financial Accounting,Aziz Rajwani,59,73.03389831,18.22840347,99.0,7.0,5,,,5,5,,5,,9,7,11
 UBCV,2014,W,BUSI,293,,105,Introductory Financial Accounting,Scott Sinclair,56,69.46428571,18.59517463,96.0,16.0,10,,,5,,,6,11,7,,6
-UBCV,2014,W,BUSI,293,,201,Introductory Financial Accounting,Scott Sinclair,39,62.25641026,24.342639600000002,100.0,0.0,11,,,6,,,,,5,,
+UBCV,2014,W,BUSI,293,,201,Introductory Financial Accounting,Scott Sinclair,39,62.25641026,24.3426396,100.0,0.0,11,,,6,,,,,5,,
 UBCV,2014,W,BUSI,293,,202,Introductory Financial Accounting,Scott Sinclair,68,64.98529412,27.16972231,100.0,0.0,19,,,,,,9,5,6,5,13
 UBCV,2014,W,BUSI,293,,OVERALL,Introductory Financial Accounting,,256,67.015625,23.03517664,100.0,0.0,52,7,7,21,19,13,26,23,33,19,36
 UBCV,2014,W,BUSI,294,,102,Introductory Management Accounting,Peter Norwood,53,70.81132076,16.26588762,95.0,29.0,5,,,,,,8,,11,6,
@@ -31,32 +31,32 @@ UBCV,2014,W,BUSI,294,,201,Introductory Management Accounting,Peter Norwood,28,59
 UBCV,2014,W,BUSI,294,,202,Introductory Management Accounting,Peter Norwood,57,69.50877193,17.6788037,96.0,5.0,6,,,,8,6,6,,7,7,5
 UBCV,2014,W,BUSI,294,,OVERALL,Introductory Management Accounting,,183,66.96174863,19.62991833,98.0,0.0,29,12,12,9,19,12,18,14,24,16,18
 UBCV,2014,W,BUSI,300,,001,Urban and Real Estate Economics,,54,63.38888889,25.19764639,92.0,0.0,11,,,6,,4,7,8,8,,
-UBCV,2014,W,BUSI,300,,002,Urban and Real Estate Economics,,61,63.229508200000005,24.74832886,92.0,0.0,12,,,6,,8,10,12,4,,
+UBCV,2014,W,BUSI,300,,002,Urban and Real Estate Economics,,61,63.2295082,24.74832886,92.0,0.0,12,,,6,,8,10,12,4,,
 UBCV,2014,W,BUSI,300,,OVERALL,Urban and Real Estate Economics,,115,63.30434783,24.85049116,92.0,0.0,23,,,12,8,12,17,20,12,8,
-UBCV,2014,W,BUSI,329,,102,Principles of Organizational Behaviour,Tracey Gurton,8,79.75,3.011881235,84.0,74.0,,,,,,,,3,,,
-UBCV,2014,W,BUSI,329,,202,Principles of Organizational Behaviour,Girish Ananthanarayana,10,76.9,4.254409477,84.0,69.0,,,,,,,,5,,,
-UBCV,2014,W,BUSI,329,,OVERALL,Principles of Organizational Behaviour,,21,78.47619048,4.6649656760000004,86.0,69.0,,,,,,,,8,6,,
-UBCV,2014,W,BUSI,330,,001,Foundations of Real Estate Appraisal,,172,59.97674419,24.84453497,89.0,0.0,44,,,19,14,25,19,26,16,9,
+UBCV,2014,W,BUSI,329,,102,Principles of Organizational Behaviour,Tracey Gurton,8,79.75,3.011881235,84.0,74.0,0,0,0,0,0,0,,3,,0,0
+UBCV,2014,W,BUSI,329,,202,Principles of Organizational Behaviour,Girish Ananthanarayana,10,76.9,4.254409477,84.0,69.0,0,0,0,0,0,,,5,,0,0
+UBCV,2014,W,BUSI,329,,OVERALL,Principles of Organizational Behaviour,,21,78.47619048,4.664965676,86.0,69.0,0,0,0,0,0,,,8,6,0,0
+UBCV,2014,W,BUSI,330,,001,Foundations of Real Estate Appraisal,,172,59.97674419,24.84453497,89.0,0.0,44,0,0,19,14,25,19,26,16,9,0
 UBCV,2014,W,BUSI,330,,002,Foundations of Real Estate Appraisal,,188,60.84574468,27.23462394,91.0,0.0,51,,,9,11,17,25,28,25,20,
 UBCV,2014,W,BUSI,330,,OVERALL,Foundations of Real Estate Appraisal,,360,60.43055556,26.08750349,91.0,0.0,95,,,28,25,42,44,54,41,29,
 UBCV,2014,W,BUSI,331,,001,Real Estate Investment Analysis and Advanced Income Appraisal,,87,60.34482759,25.24891321,88.0,0.0,19,,,11,8,13,10,11,5,9,0
-UBCV,2014,W,BUSI,331,,002,Real Estate Investment Analysis and Advanced Income Appraisal,,91,62.46153846,24.63299851,96.0,0.0,23,,,9,10,7,13,4,12,8,5
+UBCV,2014,W,BUSI,331,,002,Real Estate Investment Analysis and Advanced Income Appraisal,,91,62.46153846,24.63299851,96.0,0.0,23,0,0,9,10,7,13,4,12,8,5
 UBCV,2014,W,BUSI,331,,OVERALL,Real Estate Investment Analysis and Advanced Income Appraisal,,178,61.42696629,24.88794669,96.0,0.0,42,,,20,18,20,23,15,17,17,5
-UBCV,2014,W,BUSI,335,,101,Information Systems,William Khoon Lee Tan;William Tan,115,81.8173913,8.446511382999999,95.0,33.0,,,,,0,0,1,12,59,23,17
+UBCV,2014,W,BUSI,335,,101,Information Systems,William Khoon Lee Tan;William Tan,115,81.8173913,8.446511383,95.0,33.0,,,,,0,0,1,12,59,23,17
 UBCV,2014,W,BUSI,335,,201,Information Systems,Yau Man Cheung,136,80.13970588,11.53620568,97.0,23.0,,,,,7,8,12,24,26,25,29
 UBCV,2014,W,BUSI,335,,OVERALL,Information Systems,,251,80.90836653,10.25180812,97.0,23.0,6,,,,7,8,13,36,85,48,46
 UBCV,2014,W,BUSI,344,,001,Statistical and Computer Applications in Valuation,,71,57.30985916,33.67686427,92.0,0.0,21,,,,7,4,9,5,12,12,
 UBCV,2014,W,BUSI,344,,002,Statistical and Computer Applications in Valuation,,73,64.38356164,28.19260647,91.0,0.0,14,,,,5,6,8,15,9,11,
 UBCV,2014,W,BUSI,344,,OVERALL,Statistical and Computer Applications in Valuation,,144,60.89583333,31.11196086,92.0,0.0,35,,,,12,10,17,20,21,23,
-UBCV,2014,W,BUSI,353,,101,Intermediate Financial Accounting I,David Chan,37,65.05405405,19.46499129,85.0,11.0,,,,5,7,,,,9,,
+UBCV,2014,W,BUSI,353,,101,Intermediate Financial Accounting I,David Chan,37,65.05405405,19.46499129,85.0,11.0,,,,5,7,,,,9,,0
 UBCV,2014,W,BUSI,353,,102,Intermediate Financial Accounting I,Doug Yee,63,71.73015873,17.99749656,99.0,19.0,5,5,,,,8,,6,8,6,11
 UBCV,2014,W,BUSI,353,,201,Intermediate Financial Accounting I,David Chan,31,69.93548387,20.64450772,97.0,4.0,,,,,,,6,,,,
 UBCV,2014,W,BUSI,353,,202,Intermediate Financial Accounting I,Doug Yee,64,74.953125,17.85606445,99.0,7.0,5,,,6,,,,7,11,7,14
 UBCV,2014,W,BUSI,353,,203,Intermediate Financial Accounting I,Barbara Wyntjes,23,72.26086957,14.33120369,95.0,36.0,,,,,,6,,,,,
 UBCV,2014,W,BUSI,353,,OVERALL,Intermediate Financial Accounting I,,218,71.3440367,18.40421676,99.0,4.0,19,10,8,19,15,22,19,18,34,22,32
 UBCV,2014,W,BUSI,354,,101,Cost Accounting,Peter Norwood,73,69.98630137,15.06605193,94.0,10.0,,6,,,8,6,9,12,7,10,
-UBCV,2014,W,BUSI,354,,102,Cost Accounting,David Chan,32,70.25,10.86278049,90.0,53.0,,,,,,,6,,8,,
-UBCV,2014,W,BUSI,354,,201,Cost Accounting,David Chan,26,71.84615385,10.54776681,90.0,51.0,,,,,,6,,,7,,
+UBCV,2014,W,BUSI,354,,102,Cost Accounting,David Chan,32,70.25,10.86278049,90.0,53.0,0,,,,,,6,,8,,
+UBCV,2014,W,BUSI,354,,201,Cost Accounting,David Chan,26,71.84615385,10.54776681,90.0,51.0,0,,,,,6,,,7,,
 UBCV,2014,W,BUSI,354,,202,Cost Accounting,Peter Norwood,46,71.84782609,14.56932453,91.0,8.0,,,,,5,8,,5,7,7,
 UBCV,2014,W,BUSI,354,,203,Cost Accounting,Peter Norwood,27,68.40740741,12.61945768,91.0,40.0,,,,,5,,,,2,,
 UBCV,2014,W,BUSI,354,,OVERALL,Cost Accounting,,204,70.4754902,13.45396776,94.0,8.0,7,18,10,13,25,26,23,21,31,21,9
@@ -65,76 +65,76 @@ UBCV,2014,W,BUSI,355,,102,Introduction to Income Tax,Tran Khue Chung,99,67.73737
 UBCV,2014,W,BUSI,355,,201,Introduction to Income Tax,Grant Lee,53,69.52830189,15.41802613,95.0,0.0,,5,,,7,5,9,5,,7,
 UBCV,2014,W,BUSI,355,,202,Introduction to Income Tax,Mary Chong,73,69.61643836,20.06699206,95.0,6.0,9,,,8,,8,6,8,9,7,11
 UBCV,2014,W,BUSI,355,,OVERALL,Introduction to Income Tax,,253,68.69169961,17.71556044,97.0,0.0,25,15,14,22,18,30,30,23,30,25,21
-UBCV,2014,W,BUSI,370,,101,Business Finance,Aziz Rajwani,36,73.02777778,20.12459208,98.0,8.0,,,,,,,6,,,5,9
+UBCV,2014,W,BUSI,370,,101,Business Finance,Aziz Rajwani,36,73.02777778,20.12459208,98.0,8.0,4,,,,,,6,,,5,9
 UBCV,2014,W,BUSI,370,,102,Business Finance,Aziz Rajwani,88,68.69318182,18.41935386,99.0,1.0,8,10,6,4.0,7,11,5,7,14,7,9
 UBCV,2014,W,BUSI,370,,201,Business Finance,Aziz Rajwani,73,68.71232877,18.70864287,95.0,2.0,7,,,7,,11,7,,12,7,6
-UBCV,2014,W,BUSI,370,,202,Business Finance,John Graham Mcintosh,13,76.76923077,13.52869695,97.0,50.0,,,,,,,2,,,0,3
+UBCV,2014,W,BUSI,370,,202,Business Finance,John Graham Mcintosh,13,76.76923077,13.52869695,97.0,50.0,0,,,,,,2,,,0,3
 UBCV,2014,W,BUSI,370,,OVERALL,Business Finance,,210,69.94285714,18.59738551,99.0,1.0,19,17,13,11,15,25,20,13,31,19,27
 UBCV,2014,W,BUSI,393,,101,Introduction to Business Law,Deborah Meredith,46,68.56521739,19.11329052,96.0,5.0,5,,3,,6,4,7,2,5,6,3
 UBCV,2014,W,BUSI,393,,102,Introduction to Business Law,Barbara Cox,95,67.35789474,14.78780103,98.0,3.0,6,5,7,12,15,11,11,11,9,2.0,6
 UBCV,2014,W,BUSI,393,,201,Introduction to Business Law,Devin Kanhai;Devin Matthew Kanhai,97,74.05154639,14.05300319,96.0,27.0,6,,5,,6,7,6,22,18,12,7
 UBCV,2014,W,BUSI,393,,OVERALL,Introduction to Business Law,,238,70.31932773,15.68139147,98.0,3.0,17,10,15,20,27,22,24,35,32,20,16
-UBCV,2014,W,BUSI,398,,001,Residental Property Guided Case Study,,34,56.08823529,29.886013399999996,88.0,0.0,10,,,7,,,,,9,,
+UBCV,2014,W,BUSI,398,,001,Residental Property Guided Case Study,,34,56.08823529,29.8860134,88.0,0.0,10,,,7,,,,,9,,0
 UBCV,2014,W,BUSI,398,,002,Residental Property Guided Case Study,,18,55.88888889,28.17777365,97.0,0.0,6,,,5,,,,,2,,
-UBCV,2014,W,BUSI,398,,OVERALL,Residental Property Guided Case Study,,52,56.01923077,29.027701699999998,97.0,0.0,16,,,12,,,,,11,,
+UBCV,2014,W,BUSI,398,,OVERALL,Residental Property Guided Case Study,,52,56.01923077,29.0277017,97.0,0.0,16,,,12,,,,,11,,
 UBCV,2014,W,BUSI,400,,001,Residential Property Analysis,,72,78.56944444,18.61078469,95.0,1.0,4,,,,,,,8,17,26,7
 UBCV,2014,W,BUSI,400,,002,Residential Property Analysis,,67,78.20895522,19.74652813,94.0,6.0,5,,,,,,,7,19,23,7
 UBCV,2014,W,BUSI,400,,OVERALL,Residential Property Analysis,,139,78.39568345,19.09762058,95.0,1.0,9,,,,,5,8,15,36,49,14
 UBCV,2014,W,BUSI,401,,001,Commercial Property Analysis,,76,73.35526316,20.88617019,92.0,0.0,7,,,,,3,9,16,24,13,
-UBCV,2014,W,BUSI,401,,002,Commercial Property Analysis,,81,69.88888889,18.71029129,87.0,0.0,7,,,,,12,17,20,15,2,
+UBCV,2014,W,BUSI,401,,002,Commercial Property Analysis,,81,69.88888889,18.71029129,87.0,0.0,7,,,,,12,17,20,15,2,0
 UBCV,2014,W,BUSI,401,,OVERALL,Commercial Property Analysis,,157,71.56687898,19.80587645,92.0,0.0,14,,,5,6,15,26,36,39,15,
-UBCV,2014,W,BUSI,441,,001,Real Estate Management I,,6,65.66666667,32.71493033,89.0,0.0,,,,,,,,,,,
-UBCV,2014,W,BUSI,441,,002,Real Estate Management I,,5,57.6,32.62361108,81.0,0.0,,,,,,,,,,,
-UBCV,2014,W,BUSI,441,,OVERALL,Real Estate Management I,,11,62.0,31.28258301,89.0,0.0,,,,,,,,,,,
+UBCV,2014,W,BUSI,441,,001,Real Estate Management I,,6,65.66666667,32.71493033,89.0,0.0,,,,,,,,,,,0
+UBCV,2014,W,BUSI,441,,002,Real Estate Management I,,5,57.6,32.62361108,81.0,0.0,,,,,,,,,,0,0
+UBCV,2014,W,BUSI,441,,OVERALL,Real Estate Management I,,11,62.0,31.28258301,89.0,0.0,,,,,,,,,,,0
 UBCV,2014,W,BUSI,442,,001,Case Studies in Appraisal I,,37,71.83783784,22.61699645,96.0,0.0,5,,,,,,2,6,11,4,3
 UBCV,2014,W,BUSI,442,,002,Case Studies in Appraisal I,,64,77.890625,15.22749934,94.0,0.0,5,,,,,,5,10,21,15,5
 UBCV,2014,W,BUSI,442,,OVERALL,Case Studies in Appraisal I,,101,75.67326733,18.40712303,96.0,0.0,10,,,,,,7,16,32,19,8
-UBCV,2014,W,BUSI,443,,001,Assessment Administration,,33,65.93939394,23.96865061,85.0,0.0,4,,,2,,4,10,6,4,,
+UBCV,2014,W,BUSI,443,,001,Assessment Administration,,33,65.93939394,23.96865061,85.0,0.0,4,,,2,,4,10,6,4,,0
 UBCV,2014,W,BUSI,443,,002,Assessment Administration,,64,66.53125,22.99480186,91.0,0.0,8,,,7,,10,6,14,10,,
 UBCV,2014,W,BUSI,443,,OVERALL,Assessment Administration,,97,66.32989691,23.20727331,91.0,0.0,12,,,9,5,14,16,20,14,5,
-UBCV,2014,W,BUSI,444,,001,Computer Aided Mass Property Assessment,,11,68.27272727,23.10883342,84.0,0.0,,,,,,2,4,,,,
-UBCV,2014,W,BUSI,444,,002,Computer Aided Mass Property Assessment,,22,70.54545455,15.87968835,83.0,3.0,,,,,,5,6,,,,
-UBCV,2014,W,BUSI,444,,OVERALL,Computer Aided Mass Property Assessment,,33,69.78787879,18.26327869,84.0,0.0,,,,,,7,10,6,6,,
-UBCV,2014,W,BUSI,445,,001,Real Estate Development I,,36,66.33333333,26.74322344,87.0,2.0,7,,,,,,1,7,11,,
-UBCV,2014,W,BUSI,445,,002,Real Estate Development I,,33,70.42424242,21.90181257,87.0,0.0,4,,,,,,7,5,9,,
-UBCV,2014,W,BUSI,445,,OVERALL,Real Estate Development I,,69,68.28985507,24.45590356,87.0,0.0,11,,,,,7,8,12,20,8,
-UBCV,2014,W,BUSI,446,,001,Real Estate Development II,,10,72.9,23.0142468,85.0,8.0,,,,,,,,6,2,,
-UBCV,2014,W,BUSI,446,,002,Real Estate Development II,,20,77.75,17.81151313,89.0,4.0,,,,,,,,5,9,,
-UBCV,2014,W,BUSI,446,,OVERALL,Real Estate Development II,,30,76.13333333,19.43287888,89.0,4.0,,,,,,,,11,11,5,
+UBCV,2014,W,BUSI,444,,001,Computer Aided Mass Property Assessment,,11,68.27272727,23.10883342,84.0,0.0,,,,,,2,4,,,0,0
+UBCV,2014,W,BUSI,444,,002,Computer Aided Mass Property Assessment,,22,70.54545455,15.87968835,83.0,3.0,,,,,,5,6,,,0,0
+UBCV,2014,W,BUSI,444,,OVERALL,Computer Aided Mass Property Assessment,,33,69.78787879,18.26327869,84.0,0.0,,,,,,7,10,6,6,0,0
+UBCV,2014,W,BUSI,445,,001,Real Estate Development I,,36,66.33333333,26.74322344,87.0,2.0,7,,,,,,1,7,11,,0
+UBCV,2014,W,BUSI,445,,002,Real Estate Development I,,33,70.42424242,21.90181257,87.0,0.0,4,,,,,,7,5,9,,0
+UBCV,2014,W,BUSI,445,,OVERALL,Real Estate Development I,,69,68.28985507,24.45590356,87.0,0.0,11,,,,,7,8,12,20,8,0
+UBCV,2014,W,BUSI,446,,001,Real Estate Development II,,10,72.9,23.0142468,85.0,8.0,,,,,,,,6,2,,0
+UBCV,2014,W,BUSI,446,,002,Real Estate Development II,,20,77.75,17.81151313,89.0,4.0,,,,,,,,5,9,,0
+UBCV,2014,W,BUSI,446,,OVERALL,Real Estate Development II,,30,76.13333333,19.43287888,89.0,4.0,,,,,,,,11,11,5,0
 UBCV,2014,W,BUSI,450,,101,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,50,69.54,14.29743805,98.0,33.0,,,,7,,,7,7,6,,
 UBCV,2014,W,BUSI,450,,102,Intermediate Financial Accounting II,Robert Brian Bruce,41,69.82926829,16.18780782,95.0,3.0,,,,,,6,8,,5,,
 UBCV,2014,W,BUSI,450,,103,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,44,68.81818182,20.19471808,96.0,0.0,5,,5,,,,,8,5,,5
 UBCV,2014,W,BUSI,450,,201,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,57,69.14035088,20.42096139,99.0,14.0,11,5,,,,5,6,,6,,12
 UBCV,2014,W,BUSI,450,,203,Intermediate Financial Accounting II,Bryan K Parker;Bryan Parker,25,69.84,20.82602539,99.0,26.0,5,,,,,,5,,,,5
-UBCV,2014,W,BUSI,450,,204,Intermediate Financial Accounting II,Robert Brian Bruce,11,74.81818182,14.51081102,98.0,51.0,,,,,,,,,,,
+UBCV,2014,W,BUSI,450,,204,Intermediate Financial Accounting II,Robert Brian Bruce,11,74.81818182,14.51081102,98.0,51.0,0,,,,,,,,,,
 UBCV,2014,W,BUSI,450,,OVERALL,Intermediate Financial Accounting II,,228,69.64035088,18.08503029,99.0,0.0,28,13,14,18,8,19,31,23,28,14,32
-UBCV,2014,W,BUSI,451,,002,Real Estate Management II,,7,65.57142857,23.57157287,82.0,13.0,,,,,,,,,,,
-UBCV,2014,W,BUSI,451,,OVERALL,Real Estate Management II,,11,69.54545455,19.22687513,82.0,13.0,,,,,,,,,,,
+UBCV,2014,W,BUSI,451,,002,Real Estate Management II,,7,65.57142857,23.57157287,82.0,13.0,,,,,,,,,,0,0
+UBCV,2014,W,BUSI,451,,OVERALL,Real Estate Management II,,11,69.54545455,19.22687513,82.0,13.0,,,,,,,,,,0,0
 UBCV,2014,W,BUSI,452,,001,Case Studies in Appraisal II,,36,74.47222222,23.56812146,95.0,0.0,,,,,,,7,4,6,9,4
 UBCV,2014,W,BUSI,452,,002,Case Studies in Appraisal II,,57,79.64912281,11.9380712,94.0,19.0,,,,,,,8,7,15,10,9
 UBCV,2014,W,BUSI,452,,OVERALL,Case Studies in Appraisal II,,93,77.64516129,17.44970734,95.0,0.0,5,,,,,5,15,11,21,19,13
 UBCV,2014,W,BUSI,453,,101,Advanced Financial Accounting,Chuck Campbell,59,72.72881356,15.39349449,98.0,8.0,,,,8,5,5,,8,8,7,8
-UBCV,2014,W,BUSI,453,,102,Advanced Financial Accounting,Chuck Campbell,33,70.09090909,11.87003485,92.0,50.0,,,,,,,,,7,,
+UBCV,2014,W,BUSI,453,,102,Advanced Financial Accounting,Chuck Campbell,33,70.09090909,11.87003485,92.0,50.0,0,,,,,,,,7,,
 UBCV,2014,W,BUSI,453,,201,Advanced Financial Accounting,Chuck Campbell,43,71.11627907,13.2165288,95.0,41.0,,,,,6,6,,,6,8,
 UBCV,2014,W,BUSI,453,,202,Advanced Financial Accounting,Chuck Campbell,33,62.78787879,21.7309652,99.0,14.0,6,5,,,,,,,4,,5
 UBCV,2014,W,BUSI,453,,204,Advanced Financial Accounting,Chuck Campbell,56,76.16071429,17.33915882,98.0,7.0,,,,,,,,8,9,10,12
 UBCV,2014,W,BUSI,453,,OVERALL,Advanced Financial Accounting,,224,71.42410714,16.55493773,99.0,7.0,13,13,15,19,17,22,13,22,34,27,29
-UBCV,2014,W,BUSI,455,,101,Principles of Auditing,Mary Chong,29,72.31034483,12.13055012,92.0,43.0,,,,,,,,,5,,
+UBCV,2014,W,BUSI,455,,101,Principles of Auditing,Mary Chong,29,72.31034483,12.13055012,92.0,43.0,,,,,,,,,5,3,
 UBCV,2014,W,BUSI,455,,102,Principles of Auditing,Mary Chong,70,73.8,10.87024925,96.0,44.0,,,6,5,,7,14,8,13,6,6
-UBCV,2014,W,BUSI,455,,201,Principles of Auditing,Ryan Calder,64,80.015625,7.394747572999999,94.0,59.0,,,,,,,16,5,18,14,6
+UBCV,2014,W,BUSI,455,,201,Principles of Auditing,Ryan Calder,64,80.015625,7.394747573,94.0,59.0,0,0,,,,,16,5,18,14,6
 UBCV,2014,W,BUSI,455,,202,Principles of Auditing,Mary Chong,42,73.40476191,11.05211496,94.0,41.0,,,,,7,,5,7,7,5,
-UBCV,2014,W,BUSI,455,,203,Principles of Auditing,Scott Sinclair,20,67.15,7.706968822,83.0,57.0,,,,7,,,,,2,,
+UBCV,2014,W,BUSI,455,,203,Principles of Auditing,Scott Sinclair,20,67.15,7.706968822,83.0,57.0,0,0,,7,,,,,2,0,0
 UBCV,2014,W,BUSI,455,,OVERALL,Principles of Auditing,,225,74.71111111,10.58473931,96.0,41.0,,,12,17,18,19,39,25,45,28,16
-UBCV,2014,W,BUSI,460,,001,Critical Analysis and Forecasting in Real Estate,,29,53.96551724,28.88212838,84.0,0.0,8,,,7,,,5,,,,
-UBCV,2014,W,BUSI,460,,002,Critical Analysis and Forecasting in Real Estate,,21,60.23809524,23.37499682,85.0,0.0,4,,,3,,,4,,,,
-UBCV,2014,W,BUSI,460,,OVERALL,Critical Analysis and Forecasting in Real Estate,,50,56.6,26.63586657,85.0,0.0,12,,,10,,6,9,5,,,
-UBCV,2014,W,BUSI,465,,OVERALL,Marketing Management,,8,73.625,6.412877668999999,84.0,65.0,,,,,,,,,,,
-UBCV,2014,W,BUSI,470,,101,Financial Management,Robin Diehl,44,70.90909091,7.007697369,87.0,53.0,,,,,14,8,11,4,2,3,
-UBCV,2014,W,BUSI,470,,201,Financial Management,Robin Diehl,62,79.03225807,7.688543195,97.0,65.0,,,,,6,6,8,12,11,17,
-UBCV,2014,W,BUSI,470,,OVERALL,Financial Management,,106,75.66037736,8.40395235,97.0,53.0,,,,,20,14,19,16,13,20,
-UBCV,2014,W,BUSI,493,,101,Strategic Management in Business,Kevin James,26,75.5,8.62670273,91.0,50.0,,,,,,,4,6,6,,
+UBCV,2014,W,BUSI,460,,001,Critical Analysis and Forecasting in Real Estate,,29,53.96551724,28.88212838,84.0,0.0,8,,,7,,,5,,,0,0
+UBCV,2014,W,BUSI,460,,002,Critical Analysis and Forecasting in Real Estate,,21,60.23809524,23.37499682,85.0,0.0,4,,,3,,,4,,,,0
+UBCV,2014,W,BUSI,460,,OVERALL,Critical Analysis and Forecasting in Real Estate,,50,56.6,26.63586657,85.0,0.0,12,,,10,,6,9,5,,,0
+UBCV,2014,W,BUSI,465,,OVERALL,Marketing Management,,8,73.625,6.412877669,84.0,65.0,0,0,0,0,,,,,,0,0
+UBCV,2014,W,BUSI,470,,101,Financial Management,Robin Diehl,44,70.90909091,7.007697369,87.0,53.0,0,,,,14,8,11,4,2,3,0
+UBCV,2014,W,BUSI,470,,201,Financial Management,Robin Diehl,62,79.03225807,7.688543195,97.0,65.0,0,0,0,0,6,6,8,12,11,17,2.0
+UBCV,2014,W,BUSI,470,,OVERALL,Financial Management,,106,75.66037736,8.40395235,97.0,53.0,0,,,,20,14,19,16,13,20,2.0
+UBCV,2014,W,BUSI,493,,101,Strategic Management in Business,Kevin James,26,75.5,8.62670273,91.0,50.0,0,,,,,,4,6,6,,
 UBCV,2014,W,BUSI,493,,201,Strategic Management in Business,Kevin James,30,75.96666667,15.59947686,96.0,0.0,,,,,,,8,7,6,,
 UBCV,2014,W,BUSI,493,,OVERALL,Strategic Management in Business,,56,75.75,12.73541947,96.0,0.0,,,,,,6,12,13,12,5,
-UBCV,2014,W,BUSI,499,,001,Income Property Guided Case Study,,40,66.225,28.325477799999998,93.0,0.0,9,,,,,,,6,8,9,
+UBCV,2014,W,BUSI,499,,001,Income Property Guided Case Study,,40,66.225,28.3254778,93.0,0.0,9,,,,,,,6,8,9,
 UBCV,2014,W,BUSI,499,,002,Income Property Guided Case Study,,39,76.28205128,19.38250529,91.0,0.0,3,,,,,,,5,12,9,
 UBCV,2014,W,BUSI,499,,OVERALL,Income Property Guided Case Study,,79,71.18987342,24.69406445,93.0,0.0,12,,,6,,,,11,20,18,7

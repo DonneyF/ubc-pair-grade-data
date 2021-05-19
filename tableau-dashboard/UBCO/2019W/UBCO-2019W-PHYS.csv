@@ -1,52 +1,52 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2019,W,PHYS,111,,001,Introductory Physics for the Physical Sciences I,Bianca Frischholz;Brooke Kwan;Jake Bobowski;Sayra Gorgani;Tatiana Urazova;Zhongda Huang,276,70.130434783,16.710944084,98.0,0.0,39,10,18,26,19,24,19,27,36,35,23
-UBCO,2019,W,PHYS,111,,OVERALL,Introductory Physics for the Physical Sciences I,,276,70.130434783,16.710944084,98.0,0.0,39,10,18,26,19,24,19,27,36,35,23
-UBCO,2019,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Leah Hamill;Madeleine Czechowski;Maryam Sadeghi;Olivia Stanton;Sayra Gorgani;Yasfatemeh Yamin,258,75.82945736399999,11.996188779,100.0,29.0,9,3.0,13,15,14,24,41,36,36,33,34
-UBCO,2019,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Leah Hamill;Madeleine Czechowski;Maryam Sadeghi;Rebecca Feldman;Sayra Gorgani,177,78.016949153,13.490516272,99.0,4.0,7,3.0,5,8,14,11,11,23,34,30,31
-UBCO,2019,W,PHYS,112,,OVERALL,Introductory Physics for the Life Sciences I,,435,76.71954023,12.656193172,100.0,4.0,16,6,18,23,28,35,52,59,70,63,65
-UBCO,2019,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Andrew Ogilvy;Charlotte Thys;Conor Smith;Jake Bobowski;John Hopkinson;Theo Bakas;Theodore Morrison,201,81.547263682,11.409601438,100.0,17.0,,,,,8,15,22,19,36,53,40
-UBCO,2019,W,PHYS,121,,OVERALL,Introductory Physics for the Physical Sciences II,,201,81.547263682,11.409601438,100.0,17.0,,,,,8,15,22,19,36,53,40
-UBCO,2019,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Andrew Ogilvy;Araz Sholehkerdar;Biswapriyo Chakrabarty;Bradley A Reinholz;Bradley Reinholz;Charles Jolin-Landry;Conor Smith;David Hallinen;Gabriel Jarry-Bolduc;Geoff Goetz;John Hopkinson;Leah Hamill;Madeleine Czechowski;Manish Krishan Lal;Maria Guenter;Maryam Sadeghi;Michael Gowe;Nusrat Momo;Nusrat Suzana Momo;Patrick Nadeau;Phillip Shreeves;Sayra Gorgani;Stephen Collins;Xiaoying Zhang;Xinchen Deng,204,74.18627451,9.895742621,98.0,43.0,1,2.0,13,15,20,24,38,31,27,24,9
-UBCO,2019,W,PHYS,122,,102,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Andrew Ogilvy;Araz Sholehkerdar;Biswapriyo Chakrabarty;Bradley A Reinholz;Bradley Reinholz;Charles Jolin-Landry;Conor Smith;David Hallinen;Gabriel Jarry-Bolduc;Geoff Goetz;Hadi Bin Hairi;Hadi Hairi;John Hopkinson;Leah Hamill;Manish Krishan Lal;Maria Guenter;Maryam Sadeghi;Nathan Nichol;Nusrat Momo;Nusrat Suzana Momo;Patrick Nadeau;Phillip Shreeves;Sayra Gorgani;Stephen Collins;Xiaoying Zhang;Xinchen Deng;Yasfatemeh Yamin,114,73.03508771899999,12.450915895,100.0,34.0,5,2.0,8,5,13,16,16,15,15,9,10
-UBCO,2019,W,PHYS,122,,OVERALL,Introductory Physics for the Life Sciences II,,318,73.77358490600001,10.875506894,100.0,34.0,6,4.0,21,20,33,40,54,46,42,33,19
-UBCO,2019,W,PHYS,200,,001,Relativity and Quanta,David Mcfarlane Roberts;David Roberts;Jason Reich;John Hopkinson,31,72.516129032,13.588894897000001,96.0,44.0,,,,,,,,,5,,
-UBCO,2019,W,PHYS,200,,OVERALL,Relativity and Quanta,,31,72.516129032,13.588894897000001,96.0,44.0,,,,,,,,,5,,
-UBCO,2019,W,PHYS,215,,101,Thermodynamics,John Hopkinson;Kendra Scarrott;Yasfatemeh Yamin,25,80.28,9.749017044,97.0,58.0,,,,,,,,5,,5,
-UBCO,2019,W,PHYS,215,,OVERALL,Thermodynamics,,25,80.28,9.749017044,97.0,58.0,,,,,,,,5,,5,
-UBCO,2019,W,PHYS,216,,101,Mechanics I,Araz Sholehkerdar;Jake Bobowski;Jason Reich;Kendra Scarrott;Michael Kudla-Hooper;Theo Bakas;Yasfatemeh Yamin,36,74.611111111,17.024818485,98.0,0.0,,,,,,,5,5,,6,5
-UBCO,2019,W,PHYS,216,,OVERALL,Mechanics I,,36,74.611111111,17.024818485,98.0,0.0,,,,,,,5,5,,6,5
-UBCO,2019,W,PHYS,231,,001,Introduction to Electronics,Ian Kennedy;Jake Bobowski;Nicholas Kayban;Nikolai Lesack,26,74.0,14.993331850999999,94.0,49.0,,,,,,,,,,5,
-UBCO,2019,W,PHYS,231,,OVERALL,Introduction to Electronics,,26,74.0,14.993331850999999,94.0,49.0,,,,,,,,,,5,
-UBCO,2019,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jordan Krywonos;Nicholas Kayban;Nikolai Lesack,19,85.15789473699999,8.814528146,97.0,69.0,,,,,,,,,,,8
-UBCO,2019,W,PHYS,232,,OVERALL,Modern Physics Laboratory,,19,85.15789473699999,8.814528146,97.0,69.0,,,,,,,,,,,8
-UBCO,2019,W,PHYS,301,,001,Electricity and Magnetism,Daniel Vollick,28,51.571428571000006,19.071849667000002,95.0,20.0,10,5,,,,,,,,,
-UBCO,2019,W,PHYS,301,,OVERALL,Electricity and Magnetism,,28,51.571428571000006,19.071849667000002,95.0,20.0,10,5,,,,,,,,,
-UBCO,2019,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Jason Reich,23,71.652173913,13.512985995,94.0,50.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,23,71.652173913,13.512985995,94.0,50.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston,15,79.0,12.10076739,97.0,64.0,,,,,5,,,,,,
-UBCO,2019,W,PHYS,305,,OVERALL,Introduction to Biophysics,,15,79.0,12.10076739,97.0,64.0,,,,,5,,,,,,
-UBCO,2019,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,15,70.06666666699999,13.577642688,89.0,40.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,310,,OVERALL,Introduction to Medical Physics,,15,70.06666666699999,13.577642688,89.0,40.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,314,,001,Fluids,Yasfatemeh Yamin,26,64.5,13.57424031,100.0,32.0,,,6,,,,,,,,
-UBCO,2019,W,PHYS,314,,OVERALL,Fluids,,26,64.5,13.57424031,100.0,32.0,,,6,,,,,,,,
-UBCO,2019,W,PHYS,324,,101,Waves,Jason Reich;Rebecca Feldman,24,80.125,10.803833861,100.0,51.0,,,,,,,,,5,6,
-UBCO,2019,W,PHYS,324,,OVERALL,Waves,,24,80.125,10.803833861,100.0,51.0,,,,,,,,,5,6,
-UBCO,2019,W,PHYS,328,,101,Advanced Mechanics,Andrew Ogilvy;Jake Bobowski;Jason Reich;Michael Kudla-Hooper,20,76.4,17.021348824,95.0,25.0,,,,,,,,,,5,
-UBCO,2019,W,PHYS,328,,OVERALL,Advanced Mechanics,,20,76.4,17.021348824,95.0,25.0,,,,,,,,,,5,
-UBCO,2019,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,19,80.263157895,12.701015293,98.0,56.0,,,,,,,,,6,,
-UBCO,2019,W,PHYS,331,,OVERALL,Experimental Physics I,,19,80.263157895,12.701015293,98.0,56.0,,,,,,,,,6,,
-UBCO,2019,W,PHYS,336,,001,Introduction to Medical Imaging and Radiation Safety,John Graham-Knight;Mitchell Wiebe;Rasika Rajapakshe;Thor Bjarnason,12,86.916666667,12.645217085999999,97.0,52.0,,,,,,,,,,,7
-UBCO,2019,W,PHYS,336,,OVERALL,Introduction to Medical Imaging and Radiation Safety,,12,86.916666667,12.645217085999999,97.0,52.0,,,,,,,,,,,7
-UBCO,2019,W,PHYS,402,,101,Advanced Quantum Mechanics,Daniel Vollick,20,73.9,17.861749782,100.0,43.0,,,,,,,,,,,5
-UBCO,2019,W,PHYS,402,,OVERALL,Advanced Quantum Mechanics,,20,73.9,17.861749782,100.0,43.0,,,,,,,,,,,5
-UBCO,2019,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,15,77.0,9.524404743,99.0,63.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,403,,OVERALL,Statistical Mechanics,,15,77.0,9.524404743,99.0,63.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,407,,101,Introduction to General Relativity,Daniel Vollick,8,78.125,11.482128971,94.0,61.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,407,,OVERALL,Introduction to General Relativity,,8,78.125,11.482128971,94.0,61.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,13,79.615384615,8.139804067,91.0,63.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,420,,OVERALL,Data and Image Processing,,13,79.615384615,8.139804067,91.0,63.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,441,,101,Experimental Physics II,Jake Bobowski;Yasfatemeh Yamin,20,90.65,8.093369606,100.0,64.0,,,,,,,,,,6,12
-UBCO,2019,W,PHYS,441,,OVERALL,Experimental Physics II,,20,90.65,8.093369606,100.0,64.0,,,,,,,,,,6,12
-UBCO,2019,W,PHYS,449,,OVERALL,Honours Thesis,,8,87.875,6.621124203,98.0,76.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,474,,101,Solid State Physics,John Hopkinson,16,73.8125,15.942474714000001,97.0,42.0,,,,,,,,,,,
-UBCO,2019,W,PHYS,474,,OVERALL,Solid State Physics,,16,73.8125,15.942474714000001,97.0,42.0,,,,,,,,,,,
+UBCO,2019,W,PHYS,111,,001,Introductory Physics for the Physical Sciences I,Bianca Frischholz;Brooke Kwan;Jake Bobowski;Sayra Gorgani;Tatiana Urazova;Zhongda Huang,276,70.13043478,16.71094408,98.0,0.0,39,10.0,18,26,19.0,24.0,19,27,36,35,23
+UBCO,2019,W,PHYS,111,,OVERALL,Introductory Physics for the Physical Sciences I,,276,70.13043478,16.71094408,98.0,0.0,39,10.0,18,26,19.0,24.0,19,27,36,35,23
+UBCO,2019,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Leah Hamill;Madeleine Czechowski;Maryam Sadeghi;Olivia Stanton;Sayra Gorgani;Yasfatemeh Yamin,258,75.82945736,11.99618878,100.0,29.0,9,3.0,13,15,14.0,24.0,41,36,36,33,34
+UBCO,2019,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Andrew Ogilvy;Erica Tolles;Gillian Godden;John Hopkinson;Leah Hamill;Madeleine Czechowski;Maryam Sadeghi;Rebecca Feldman;Sayra Gorgani,177,78.01694915,13.49051627,99.0,4.0,7,3.0,5,8,14.0,11.0,11,23,34,30,31
+UBCO,2019,W,PHYS,112,,OVERALL,Introductory Physics for the Life Sciences I,,435,76.71954023,12.65619317,100.0,4.0,16,6.0,18,23,28.0,35.0,52,59,70,63,65
+UBCO,2019,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Andrew Ogilvy;Charlotte Thys;Conor Smith;Jake Bobowski;John Hopkinson;Theo Bakas;Theodore Morrison,201,81.54726368,11.40960144,100.0,17.0,2,2.0,1,3,8.0,15.0,22,19,36,53,40
+UBCO,2019,W,PHYS,121,,OVERALL,Introductory Physics for the Physical Sciences II,,201,81.54726368,11.40960144,100.0,17.0,2,2.0,1,3,8.0,15.0,22,19,36,53,40
+UBCO,2019,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Andrew Ogilvy;Araz Sholehkerdar;Biswapriyo Chakrabarty;Bradley A Reinholz;Bradley Reinholz;Charles Jolin-Landry;Conor Smith;David Hallinen;Gabriel Jarry-Bolduc;Geoff Goetz;John Hopkinson;Leah Hamill;Madeleine Czechowski;Manish Krishan Lal;Maria Guenter;Maryam Sadeghi;Michael Gowe;Nusrat Momo;Nusrat Suzana Momo;Patrick Nadeau;Phillip Shreeves;Sayra Gorgani;Stephen Collins;Xiaoying Zhang;Xinchen Deng,204,74.18627451,9.895742621,98.0,43.0,1,2.0,13,15,20.0,24.0,38,31,27,24,9
+UBCO,2019,W,PHYS,122,,102,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Andrew Ogilvy;Araz Sholehkerdar;Biswapriyo Chakrabarty;Bradley A Reinholz;Bradley Reinholz;Charles Jolin-Landry;Conor Smith;David Hallinen;Gabriel Jarry-Bolduc;Geoff Goetz;Hadi Bin Hairi;Hadi Hairi;John Hopkinson;Leah Hamill;Manish Krishan Lal;Maria Guenter;Maryam Sadeghi;Nathan Nichol;Nusrat Momo;Nusrat Suzana Momo;Patrick Nadeau;Phillip Shreeves;Sayra Gorgani;Stephen Collins;Xiaoying Zhang;Xinchen Deng;Yasfatemeh Yamin,114,73.03508772,12.4509159,100.0,34.0,5,2.0,8,5,13.0,16.0,16,15,15,9,10
+UBCO,2019,W,PHYS,122,,OVERALL,Introductory Physics for the Life Sciences II,,318,73.77358491,10.87550689,100.0,34.0,6,4.0,21,20,33.0,40.0,54,46,42,33,19
+UBCO,2019,W,PHYS,200,,001,Relativity and Quanta,David Roberts;Jason Reich;John Hopkinson,31,72.51612903,13.5888949,96.0,44.0,2,0.0,4,3,3.0,2.0,4,2,5,2,4
+UBCO,2019,W,PHYS,200,,OVERALL,Relativity and Quanta,,31,72.51612903,13.5888949,96.0,44.0,2,0.0,4,3,3.0,2.0,4,2,5,2,4
+UBCO,2019,W,PHYS,215,,101,Thermodynamics,John Hopkinson;Kendra Scarrott,25,80.28,9.749017044,97.0,58.0,0,0.0,1,1,1.0,0.0,4,5,4,5,4
+UBCO,2019,W,PHYS,215,,OVERALL,Thermodynamics,,25,80.28,9.749017044,97.0,58.0,0,0.0,1,1,1.0,0.0,4,5,4,5,4
+UBCO,2019,W,PHYS,216,,101,Mechanics I,Araz Sholehkerdar;Jake Bobowski;Jason Reich;Kendra Scarrott;Michael Kudla-Hooper;Theo Bakas;Yasfatemeh Yamin,36,74.61111111,17.02481849,98.0,0.0,1,1.0,1,2,4.0,3.0,5,5,3,6,5
+UBCO,2019,W,PHYS,216,,OVERALL,Mechanics I,,36,74.61111111,17.02481849,98.0,0.0,1,1.0,1,2,4.0,3.0,5,5,3,6,5
+UBCO,2019,W,PHYS,231,,001,Introduction to Electronics,Ian Kennedy;Jake Bobowski;Nicholas Kayban;Nikolai Lesack,26,74.0,14.99333185,94.0,49.0,4,0.0,2,1,2.0,1.0,3,1,3,5,4
+UBCO,2019,W,PHYS,231,,OVERALL,Introduction to Electronics,,26,74.0,14.99333185,94.0,49.0,4,0.0,2,1,2.0,1.0,3,1,3,5,4
+UBCO,2019,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jordan Krywonos;Nicholas Kayban;Nikolai Lesack,19,85.15789474,8.814528146,97.0,69.0,0,0.0,0,0,0.0,2.0,1,2,4,2,8
+UBCO,2019,W,PHYS,232,,OVERALL,Modern Physics Laboratory,,19,85.15789474,8.814528146,97.0,69.0,0,0.0,0,0,0.0,2.0,1,2,4,2,8
+UBCO,2019,W,PHYS,301,,001,Electricity and Magnetism,Daniel Vollick,28,51.57142857,19.07184967,95.0,20.0,10,5.0,2,4,1.0,3.0,0,1,0,1,1
+UBCO,2019,W,PHYS,301,,OVERALL,Electricity and Magnetism,,28,51.57142857,19.07184967,95.0,20.0,10,5.0,2,4,1.0,3.0,0,1,0,1,1
+UBCO,2019,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Jason Reich,23,71.65217391,13.512986,94.0,50.0,0,2.0,4,2,2.0,2.0,2,1,3,3,2
+UBCO,2019,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,23,71.65217391,13.512986,94.0,50.0,0,2.0,4,2,2.0,2.0,2,1,3,3,2
+UBCO,2019,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston,15,79.0,12.10076739,97.0,64.0,0,0.0,0,0,5.0,0.0,2,0,2,2,4
+UBCO,2019,W,PHYS,305,,OVERALL,Introduction to Biophysics,,15,79.0,12.10076739,97.0,64.0,0,0.0,0,0,5.0,0.0,2,0,2,2,4
+UBCO,2019,W,PHYS,310,,001,Introduction to Medical Physics,Christina Haston,15,70.06666667,13.57764269,89.0,40.0,1,0.0,3,1,1.0,2.0,1,2,1,3,0
+UBCO,2019,W,PHYS,310,,OVERALL,Introduction to Medical Physics,,15,70.06666667,13.57764269,89.0,40.0,1,0.0,3,1,1.0,2.0,1,2,1,3,0
+UBCO,2019,W,PHYS,314,,001,Fluids,Yasfatemeh Yamin,26,64.5,13.57424031,100.0,32.0,1,4.0,6,4,2.0,2.0,1,2,2,1,1
+UBCO,2019,W,PHYS,314,,OVERALL,Fluids,,26,64.5,13.57424031,100.0,32.0,1,4.0,6,4,2.0,2.0,1,2,2,1,1
+UBCO,2019,W,PHYS,324,,101,Waves,Jason Reich;Rebecca Feldman,24,80.125,10.80383386,100.0,51.0,0,1.0,0,0,0.0,4.0,4,1,5,6,3
+UBCO,2019,W,PHYS,324,,OVERALL,Waves,,24,80.125,10.80383386,100.0,51.0,0,1.0,0,0,0.0,4.0,4,1,5,6,3
+UBCO,2019,W,PHYS,328,,101,Advanced Mechanics,Andrew Ogilvy;Jake Bobowski;Jason Reich;Michael Kudla-Hooper,20,76.4,17.02134882,95.0,25.0,1,0.0,1,1,2.0,2.0,2,1,1,5,4
+UBCO,2019,W,PHYS,328,,OVERALL,Advanced Mechanics,,20,76.4,17.02134882,95.0,25.0,1,0.0,1,1,2.0,2.0,2,1,1,5,4
+UBCO,2019,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski,19,80.2631579,12.70101529,98.0,56.0,0,0.0,1,2,0.0,2.0,1,1,6,2,4
+UBCO,2019,W,PHYS,331,,OVERALL,Experimental Physics I,,19,80.2631579,12.70101529,98.0,56.0,0,0.0,1,2,0.0,2.0,1,1,6,2,4
+UBCO,2019,W,PHYS,336,,001,Introduction to Medical Imaging and Radiation Safety,John Graham-Knight;Mitchell Wiebe;Rasika Rajapakshe;Thor Bjarnason,12,86.91666667,12.64521709,97.0,52.0,0,1.0,0,0,0.0,0.0,0,1,1,2,7
+UBCO,2019,W,PHYS,336,,OVERALL,Introduction to Medical Imaging and Radiation Safety,,12,86.91666667,12.64521709,97.0,52.0,0,1.0,0,0,0.0,0.0,0,1,1,2,7
+UBCO,2019,W,PHYS,402,,101,Advanced Quantum Mechanics,Daniel Vollick,20,73.9,17.86174978,100.0,43.0,1,2.0,2,1,2.0,1.0,3,0.0,1,2,5
+UBCO,2019,W,PHYS,402,,OVERALL,Advanced Quantum Mechanics,,20,73.9,17.86174978,100.0,43.0,1,2.0,2,1,2.0,1.0,3,0.0,1,2,5
+UBCO,2019,W,PHYS,403,,001,Statistical Mechanics,John Hopkinson,15,77.0,9.524404743,99.0,63.0,0,0.0,0,1,2.0,2.0,2,2,3,2,1
+UBCO,2019,W,PHYS,403,,OVERALL,Statistical Mechanics,,15,77.0,9.524404743,99.0,63.0,0,0.0,0,1,2.0,2.0,2,2,3,2,1
+UBCO,2019,W,PHYS,407,,101,Introduction to General Relativity,Daniel Vollick,8,78.125,11.48212897,94.0,61.0,0,0.0,0,1,0.0,1.0,1,2,0,1,2
+UBCO,2019,W,PHYS,407,,OVERALL,Introduction to General Relativity,,8,78.125,11.48212897,94.0,61.0,0,0.0,0,1,0.0,1.0,1,2,0,1,2
+UBCO,2019,W,PHYS,420,,001,Data and Image Processing,Andrew Jirasek,13,79.61538462,8.139804067,91.0,63.0,0,0.0,0,1,0.0,1.0,1,3,3,2,2
+UBCO,2019,W,PHYS,420,,OVERALL,Data and Image Processing,,13,79.61538462,8.139804067,91.0,63.0,0,0.0,0,1,0.0,1.0,1,3,3,2,2
+UBCO,2019,W,PHYS,441,,101,Experimental Physics II,Jake Bobowski;Yasfatemeh Yamin,20,90.65,8.093369606,100.0,64.0,0,0.0,0,0,1.0,0.0,0,1,0,6,12
+UBCO,2019,W,PHYS,441,,OVERALL,Experimental Physics II,,20,90.65,8.093369606,100.0,64.0,0,0.0,0,0,1.0,0.0,0,1,0,6,12
+UBCO,2019,W,PHYS,449,,OVERALL,Honours Thesis,,8,87.875,6.621124203,98.0,76.0,0,0.0,0,0,0.0,0.0,0,,,,
+UBCO,2019,W,PHYS,474,,101,Solid State Physics,John Hopkinson,16,73.8125,15.94247471,97.0,42.0,1,2.0,0,1,0.0,3.0,2,0,3,0,4
+UBCO,2019,W,PHYS,474,,OVERALL,Solid State Physics,,16,73.8125,15.94247471,97.0,42.0,1,2.0,0,1,0.0,3.0,2,0,3,0,4

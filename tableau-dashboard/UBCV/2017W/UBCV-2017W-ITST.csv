@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,ITST,110,,101,Introduction to Italian Literature and Culture,Gaoheng Zhang,9,85.0,11.715374514,94.0,60.0,,,,,,,,,,,5
-UBCV,2017,W,ITST,110,,OVERALL,Introduction to Italian Literature and Culture,,9,85.0,11.715374514,94.0,60.0,,,,,,,,,,,5
-UBCV,2017,W,ITST,231,,101,Introduction to Italian Culture I: From the Middle Ages to the Early Modern Period,Daniela Boccassini,25,68.24,19.331063085,93.0,20.0,,,,,,,,,,,5
-UBCV,2017,W,ITST,231,,OVERALL,Introduction to Italian Culture I: From the Middle Ages to the Early Modern Period,,25,68.24,19.331063085,93.0,20.0,,,,,,,,,,,5
-UBCV,2017,W,ITST,232,,201,Introduction to Italian Culture II: From the Modern to the Post-Colonial Age,Gaoheng Zhang,10,81.1,22.042635454000003,98.0,23.0,,,,,,,,,,5,
-UBCV,2017,W,ITST,232,,OVERALL,Introduction to Italian Culture II: From the Modern to the Post-Colonial Age,,10,81.1,22.042635454000003,98.0,23.0,,,,,,,,,,5,
-UBCV,2017,W,ITST,345,,101,Italian Fascism in Interdisciplinary Perspective,Carlo Testa,35,76.028571429,8.147485048,93.0,55.0,,,,,,6,7,7,6,,
-UBCV,2017,W,ITST,345,,OVERALL,Italian Fascism in Interdisciplinary Perspective,,35,76.028571429,8.147485048,93.0,55.0,,,,,,6,7,7,6,,
-UBCV,2017,W,ITST,385,,101,Italian Cinema: Neorealism,Carlo Testa,29,73.724137931,9.330811294,87.0,55.0,,,,,,,,,8,,
-UBCV,2017,W,ITST,385,,OVERALL,Italian Cinema: Neorealism,,29,73.724137931,9.330811294,87.0,55.0,,,,,,,,,8,,
-UBCV,2017,W,ITST,413,,101,Dante Alighieri's Divine Comedy in Translation,Daniela Boccassini,15,75.2,11.384199577,91.0,50.0,,,,,,,,,5,,
-UBCV,2017,W,ITST,413,,OVERALL,Dante Alighieri's Divine Comedy in Translation,,15,75.2,11.384199577,91.0,50.0,,,,,,,,,5,,
-UBCV,2017,W,ITST,419,,201,Topics in Modern and Contemporary Italian Literature and Culture in Translation,Gaoheng Zhang,9,83.777777778,11.399317717999999,93.0,60.0,,,,,,,,,,,
-UBCV,2017,W,ITST,419,,OVERALL,Topics in Modern and Contemporary Italian Literature and Culture in Translation,,10,84.0,10.770329614000001,93.0,60.0,,,,,,,,,,,
-UBCV,2017,W,ITST,432,,101,Italian Cinema and Its Cultural Background,Carlo Testa,8,84.25,6.606274074,95.0,74.0,,,,,,,,,,,
-UBCV,2017,W,ITST,432,,OVERALL,Italian Cinema and Its Cultural Background,,8,84.25,6.606274074,95.0,74.0,,,,,,,,,,,
+UBCV,2017,W,ITST,110,,101,Introduction to Italian Literature and Culture,Gaoheng Zhang,9,85.0,11.71537451,94.0,60.0,0,0,0,1,0,1,0,0.0,0,2,5
+UBCV,2017,W,ITST,110,,OVERALL,Introduction to Italian Literature and Culture,,9,85.0,11.71537451,94.0,60.0,0,0,0,1,0,1,0,0.0,0,2,5
+UBCV,2017,W,ITST,231,,101,Introduction to Italian Culture I: From the Middle Ages to the Early Modern Period,Daniela Boccassini,25,68.24,19.33106309,93.0,20.0,3,2,2,1,4,2,2,0.0,2,2,5
+UBCV,2017,W,ITST,231,,OVERALL,Introduction to Italian Culture I: From the Middle Ages to the Early Modern Period,,25,68.24,19.33106309,93.0,20.0,3,2,2,1,4,2,2,0.0,2,2,5
+UBCV,2017,W,ITST,232,,201,Introduction to Italian Culture II: From the Modern to the Post-Colonial Age,Gaoheng Zhang,10,81.1,22.04263545,98.0,23.0,1,0,0,0,1,0,0,0.0,0,5,3
+UBCV,2017,W,ITST,232,,OVERALL,Introduction to Italian Culture II: From the Modern to the Post-Colonial Age,,10,81.1,22.04263545,98.0,23.0,1,0,0,0,1,0,0,0.0,0,5,3
+UBCV,2017,W,ITST,345,,101,Italian Fascism in Interdisciplinary Perspective,Carlo Testa,35,76.02857143,8.147485048,93.0,55.0,0,0,1,1,2,6,7,7.0,6,2,3
+UBCV,2017,W,ITST,345,,OVERALL,Italian Fascism in Interdisciplinary Perspective,,35,76.02857143,8.147485048,93.0,55.0,0,0,1,1,2,6,7,7.0,6,2,3
+UBCV,2017,W,ITST,385,,101,Italian Cinema: Neorealism,Carlo Testa,29,73.72413793,9.330811294,87.0,55.0,0,0,2,4,3,3,3,2.0,8,4,0
+UBCV,2017,W,ITST,385,,OVERALL,Italian Cinema: Neorealism,,29,73.72413793,9.330811294,87.0,55.0,0,0,2,4,3,3,3,2.0,8,4,0
+UBCV,2017,W,ITST,413,,101,Dante Alighieri's Divine Comedy in Translation,Daniela Boccassini,15,75.2,11.38419958,91.0,50.0,0,1,1,0,1,2,2,0.0,5,2,1
+UBCV,2017,W,ITST,413,,OVERALL,Dante Alighieri's Divine Comedy in Translation,,15,75.2,11.38419958,91.0,50.0,0,1,1,0,1,2,2,0.0,5,2,1
+UBCV,2017,W,ITST,419,,201,Topics in Modern and Contemporary Italian Literature and Culture in Translation,Gaoheng Zhang,9,83.77777778,11.39931772,93.0,60.0,0,0,0,1,0,1,0,0.0,1,3,3
+UBCV,2017,W,ITST,419,,OVERALL,Topics in Modern and Contemporary Italian Literature and Culture in Translation,,10,84.0,10.77032961,93.0,60.0,0,0,0,1,0,1,0,0.0,1,4,3
+UBCV,2017,W,ITST,432,,101,Italian Cinema and Its Cultural Background,Carlo Testa,8,84.25,6.606274074,95.0,74.0,0,0,0,0,0,0,1,0.0,3,3,1
+UBCV,2017,W,ITST,432,,OVERALL,Italian Cinema and Its Cultural Background,,8,84.25,6.606274074,95.0,74.0,0,0,0,0,0,0,1,0.0,3,3,1

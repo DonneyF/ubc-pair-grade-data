@@ -1,35 +1,33 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2017,W,CONS,101,,102,Introduction to Conservation,Allan Carroll;Felipe Rossetti De Paula,234,83.982905983,13.35708515,100.0,0.0,,,7,,7,13,20,17,33,42,88
-UBCV,2017,W,CONS,101,,OVERALL,Introduction to Conservation,,234,83.982905983,13.35708515,100.0,0.0,,,7,,7,13,20,17,33,42,88
-UBCV,2017,W,CONS,127,,201,Observing the Earth from Space,Brandon Jeffrey Prehn;Brandon Prehn;Nicholas Charles Coops;Yassen Atallah,260,78.553846154,13.575222454,97.0,0.0,8,6,7,18,13,14,18,17,54,55,50
-UBCV,2017,W,CONS,127,,OVERALL,Observing the Earth from Space,,260,78.553846154,13.575222454,97.0,0.0,8,6,7,18,13,14,18,17,54,55,50
-UBCV,2017,W,CONS,200,,001,Foundations of Conservation,Gloria Kendi Borona;Ricardo Pelai;Saori Ogura;Shannon Marie Hagerman;Sophie Lewis;Sophie Rose Lewis,160,68.71875,15.938629107,95.0,5.0,15,12,13,13,9,19,18,19,17,14,11
-UBCV,2017,W,CONS,200,,002,Foundations of Conservation,Janette Bulkan;Madison Paige Stevens;Saori Ogura;Shabnam Vaghayenegar,142,76.556338028,12.783813262,93.0,0.0,3,0,4,7,9,9,19,20,38,26,7
-UBCV,2017,W,CONS,200,,OVERALL,Foundations of Conservation,,302,72.40397351,15.036689927000001,95.0,0.0,18,12,17,20,18,28,37,39,55,40,18
-UBCV,2017,W,CONS,210,,101,Visualizing Climate Change,Ana Elia Ramon Hildalgo;Brandon Jeffrey Prehn;Brandon Prehn;Jessica Krippel;Lukas Schreiber;Maria Fernanda Tomaselli Crespo;Maria Tomaselli Crespo;Stephen Sheppard,177,79.429378531,10.70666934,96.0,10.0,,,,,6,9,22,31,42,36,21
-UBCV,2017,W,CONS,210,,OVERALL,Visualizing Climate Change,,177,79.429378531,10.70666934,96.0,10.0,,,,,6,9,22,31,42,36,21
-UBCV,2017,W,CONS,302,,101,Issues in Genomics and the Environment,Kiran Padda;Kiran Preet Padda;Tongli Wang,50,83.98,5.396484116,94.0,74.0,,,,,,,,10,9,20,7
-UBCV,2017,W,CONS,302,,OVERALL,Issues in Genomics and the Environment,,50,83.98,5.396484116,94.0,74.0,,,,,,,,10,9,20,7
-UBCV,2017,W,CONS,330,,201,Conservation Science and Sustainability,Allison Hebert;David Tavernini;Ingrid Jarvis;Susanne Lavallee,106,75.603773585,10.234097299,90.0,25.0,,5,,,,14,15,12,37,14,
-UBCV,2017,W,CONS,330,,OVERALL,Conservation Science and Sustainability,,106,75.603773585,10.234097299,90.0,25.0,,5,,,,14,15,12,37,14,
-UBCV,2017,W,CONS,340,,101,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher William Mulverhill;Paul Pickell;Yuhao Lu,117,77.21367521399999,10.168264576,94.0,29.0,,,,5,6,12,20,20,20,20,10
-UBCV,2017,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Paul Pickell,60,73.616666667,16.393561848,95.0,0.0,,,,3,5,11,5,8,8,9,6
-UBCV,2017,W,CONS,340,,OVERALL,Introduction to Geographic Information Systems for Forestry and Conservation,,177,75.994350282,12.694620002,95.0,0.0,5,,,8,11,23,25,28,28,29,16
-UBCV,2017,W,CONS,370,,201,Aboriginal Forestry,Andrea Lyall;Melpatkwa Elise Matthew;Melpatkwa Matthew,78,81.17948717899999,8.387906554,93.0,58.0,,,,,,,7,13,18,21,11
-UBCV,2017,W,CONS,370,,OVERALL,Aboriginal Forestry,,78,81.17948717899999,8.387906554,93.0,58.0,,,,,,,7,13,18,21,11
-UBCV,2017,W,CONS,425,,201,Sustainable Energy: Policy and Governance,. Sandeep;Abhishek Kar;Hisham Zerriffi,130,82.384615385,9.34306078,95.0,0.0,,,,,,5,,16,49,40,14
-UBCV,2017,W,CONS,425,,OVERALL,Sustainable Energy: Policy and Governance,,130,82.384615385,9.34306078,95.0,0.0,,,,,,5,,16,49,40,14
-UBCV,2017,W,CONS,451,,101,Integrated Field School,Adam Kanigan;Adam Matthew Kanigan;Anna Erika Smith;Anna Smith;Cora Skaien;Hannah Visty;Joane Elleouet;Kathleen Britney Mcmahen;Kathleen Mcmahen;Susanne Lavallee,45,82.93333333300001,4.340087976,91.0,75.0,,,,,,,,10,15,17,
-UBCV,2017,W,CONS,451,,OVERALL,Integrated Field School,,45,82.93333333300001,4.340087976,91.0,75.0,,,,,,,,10,15,17,
-UBCV,2017,W,CONS,452,,201,Global Perspectives Capstone,Hisham Zerriffi;Jeanine Rhemtulla;Kevin Feiyi Yang;Kevin Yang;Sarah Gergel,52,84.865384615,5.106815308,93.0,69.0,,,,,,,,,13,26,6
-UBCV,2017,W,CONS,452,,OVERALL,Global Perspectives Capstone,,52,84.865384615,5.106815308,93.0,69.0,,,,,,,,,13,26,6
-UBCV,2017,W,CONS,481,,101,Conservation Planning and Wildland Recreation,Gillian Fuss;Lorien Nesbitt;Michael Meitner,97,79.711340206,7.844794933999999,96.0,51.0,,,,,,7,15,20,23,20,8
-UBCV,2017,W,CONS,481,,OVERALL,Conservation Planning and Wildland Recreation,,97,79.711340206,7.844794933999999,96.0,51.0,,,,,,7,15,20,23,20,8
-UBCV,2017,W,CONS,486,,201,Fish Conservation and Management,Scott Hinch;Stephen Healy,42,81.023809524,8.025836618,95.0,63.0,,,,,,,,5,12,11,5
-UBCV,2017,W,CONS,486,,OVERALL,Fish Conservation and Management,,42,81.023809524,8.025836618,95.0,63.0,,,,,,,,5,12,11,5
-UBCV,2017,W,CONS,491,,201,Recreation and Tourism Planning,Ana Elia Ramon Hildalgo;Gillian Fuss,46,80.456521739,6.213628468,94.0,58.0,,,,,,,,12,16,8,
-UBCV,2017,W,CONS,491,,OVERALL,Recreation and Tourism Planning,,46,80.456521739,6.213628468,94.0,58.0,,,,,,,,12,16,8,
-UBCV,2017,W,CONS,495,,201,Principles of Managing Problem Wildlife in Forests and Agricultural Environments,Kristen Walker,5,83.6,5.856620186000001,90.0,76.0,,,,,,,,,,,
-UBCV,2017,W,CONS,495,,OVERALL,Principles of Managing Problem Wildlife in Forests and Agricultural Environments,,5,83.6,5.856620186000001,90.0,76.0,,,,,,,,,,,
-UBCV,2017,W,CONS,528,,101,Social Science Research Methods and Design for Natural Resource Management,Jose Arias Bustamante;Jose Ramon Arias Bustamante;Shannon Marie Hagerman,14,86.5,2.8756270219999998,91.0,83.0,,,,,,,,,,6,
-UBCV,2017,W,CONS,528,,OVERALL,Social Science Research Methods and Design for Natural Resource Management,,14,86.5,2.8756270219999998,91.0,83.0,,,,,,,,,,6,
+UBCV,2017,W,CONS,101,,102,Introduction to Conservation,Allan Carroll;Felipe Rossetti De Paula,234,83.98290598,13.35708515,100.0,0.0,2,1.0,7.0,4.0,7,13,20,17,33,42,88
+UBCV,2017,W,CONS,101,,OVERALL,Introduction to Conservation,,234,83.98290598,13.35708515,100.0,0.0,2,1.0,7.0,4.0,7,13,20,17,33,42,88
+UBCV,2017,W,CONS,127,,201,Observing the Earth from Space,Brandon Jeffrey Prehn;Brandon Prehn;Nicholas Charles Coops;Yassen Atallah,260,78.55384615,13.57522245,97.0,0.0,8,6.0,7.0,18.0,13,14,18,17,54,55,50
+UBCV,2017,W,CONS,127,,OVERALL,Observing the Earth from Space,,260,78.55384615,13.57522245,97.0,0.0,8,6.0,7.0,18.0,13,14,18,17,54,55,50
+UBCV,2017,W,CONS,200,,001,Foundations of Conservation,Gloria Kendi Borona;Ricardo Pelai;Saori Ogura;Shannon Marie Hagerman;Sophie Lewis;Sophie Rose Lewis,160,68.71875,15.93862911,95.0,5.0,15,12.0,13.0,13.0,9,19,18,19,17,14,11
+UBCV,2017,W,CONS,200,,002,Foundations of Conservation,Janette Bulkan;Madison Paige Stevens;Saori Ogura;Shabnam Vaghayenegar,142,76.55633803,12.78381326,93.0,0.0,3,0.0,4.0,7.0,9,9,19,20,38,26,7
+UBCV,2017,W,CONS,200,,OVERALL,Foundations of Conservation,,302,72.40397351,15.03668993,95.0,0.0,18,12.0,17.0,20.0,18,28,37,39,55,40,18
+UBCV,2017,W,CONS,210,,101,Visualizing Climate Change,Ana Elia Ramon Hildalgo;Brandon Jeffrey Prehn;Brandon Prehn;Jessica Krippel;Lukas Schreiber;Maria Fernanda Tomaselli Crespo;Maria Tomaselli Crespo;Stephen Sheppard,177,79.42937853,10.70666934,96.0,10.0,3,2.0,4.0,1.0,6,9,22,31,42,36,21
+UBCV,2017,W,CONS,210,,OVERALL,Visualizing Climate Change,,177,79.42937853,10.70666934,96.0,10.0,3,2.0,4.0,1.0,6,9,22,31,42,36,21
+UBCV,2017,W,CONS,302,,101,Issues in Genomics and the Environment,Kiran Padda;Kiran Preet Padda;Tongli Wang,50,83.98,5.396484116,94.0,74.0,0,0.0,0.0,0.0,0,0,4,10,9,20,7
+UBCV,2017,W,CONS,302,,OVERALL,Issues in Genomics and the Environment,,50,83.98,5.396484116,94.0,74.0,0,0.0,0.0,0.0,0,0,4,10,9,20,7
+UBCV,2017,W,CONS,330,,201,Conservation Science and Sustainability,Allison Hebert;David Tavernini;Ingrid Jarvis;Susanne Lavallee,106,75.60377359,10.2340973,90.0,25.0,2,5.0,0.0,4.0,2,14,15,12,37,14,1
+UBCV,2017,W,CONS,330,,OVERALL,Conservation Science and Sustainability,,106,75.60377359,10.2340973,90.0,25.0,2,5.0,0.0,4.0,2,14,15,12,37,14,1
+UBCV,2017,W,CONS,340,,101,Introduction to Geographic Information Systems for Forestry and Conservation,Christopher William Mulverhill;Paul Pickell;Yuhao Lu,117,77.21367521,10.16826458,94.0,29.0,2,1.0,1.0,5.0,6,12,20,20,20,20,10
+UBCV,2017,W,CONS,340,,201,Introduction to Geographic Information Systems for Forestry and Conservation,Paul Pickell,60,73.61666667,16.39356185,95.0,0.0,3,0.0,2.0,3.0,5,11,5,8,8,9,6
+UBCV,2017,W,CONS,340,,OVERALL,Introduction to Geographic Information Systems for Forestry and Conservation,,177,75.99435028,12.69462,95.0,0.0,5,1.0,3.0,8.0,11,23,25,28,28,29,16
+UBCV,2017,W,CONS,370,,201,Aboriginal Forestry,Andrea Lyall;Melpatkwa Elise Matthew;Melpatkwa Matthew,78,81.17948718,8.387906554,93.0,58.0,0,0.0,3.0,1.0,2,2,7,13,18,21,11
+UBCV,2017,W,CONS,370,,OVERALL,Aboriginal Forestry,,78,81.17948718,8.387906554,93.0,58.0,0,0.0,3.0,1.0,2,2,7,13,18,21,11
+UBCV,2017,W,CONS,425,,201,Sustainable Energy: Policy and Governance,. Sandeep;Abhishek Kar;Hisham Zerriffi;Mx Sandeep,130,82.38461539,9.34306078,95.0,0.0,1,0.0,0.0,1.0,1,5,3,16,49,40,14
+UBCV,2017,W,CONS,425,,OVERALL,Sustainable Energy: Policy and Governance,,130,82.38461539,9.34306078,95.0,0.0,1,0.0,0.0,1.0,1,5,3,16,49,40,14
+UBCV,2017,W,CONS,451,,101,Integrated Field School,Adam Kanigan;Adam Matthew Kanigan;Anna Erika Smith;Anna Smith;Cora Skaien;Hannah Visty;Joane Elleouet;Kathleen Britney Mcmahen;Kathleen Mcmahen;Susanne Lavallee,45,82.93333333,4.340087976,91.0,75.0,0,0.0,0.0,0.0,0,0,1,10,15,17,2
+UBCV,2017,W,CONS,451,,OVERALL,Integrated Field School,,45,82.93333333,4.340087976,91.0,75.0,0,0.0,0.0,0.0,0,0,1,10,15,17,2
+UBCV,2017,W,CONS,452,,201,Global Perspectives Capstone,Hisham Zerriffi;Jeanine Rhemtulla;Kevin Feiyi Yang;Kevin Yang;Sarah Gergel,52,84.86538462,5.106815308,93.0,69.0,0,0.0,0.0,0.0,0,1,4,2,13,26,6
+UBCV,2017,W,CONS,452,,OVERALL,Global Perspectives Capstone,,52,84.86538462,5.106815308,93.0,69.0,0,0.0,0.0,0.0,0,1,4,2,13,26,6
+UBCV,2017,W,CONS,481,,101,Conservation Planning and Wildland Recreation,Gillian Fuss;Lorien Nesbitt;Michael Meitner,97,79.71134021,7.844794934,96.0,51.0,0,1.0,2.0,0.0,1,7,15,20,23,20,8
+UBCV,2017,W,CONS,481,,OVERALL,Conservation Planning and Wildland Recreation,,97,79.71134021,7.844794934,96.0,51.0,0,1.0,2.0,0.0,1,7,15,20,23,20,8
+UBCV,2017,W,CONS,486,,201,Fish Conservation and Management,Scott Hinch;Stephen Healy,42,81.02380952,8.025836618,95.0,63.0,0,0.0,0.0,1.0,2,4,2,5,12,11,5
+UBCV,2017,W,CONS,486,,OVERALL,Fish Conservation and Management,,42,81.02380952,8.025836618,95.0,63.0,0,0.0,0.0,1.0,2,4,2,5,12,11,5
+UBCV,2017,W,CONS,491,,201,Recreation and Tourism Planning,Ana Elia Ramon Hildalgo;Gillian Fuss,46,80.45652174,6.213628468,94.0,58.0,0,0.0,1.0,0.0,0,2,4,12,16,8,3
+UBCV,2017,W,CONS,491,,OVERALL,Recreation and Tourism Planning,,46,80.45652174,6.213628468,94.0,58.0,0,0.0,1.0,0.0,0,2,4,12,16,8,3
+UBCV,2017,W,CONS,528,,101,Social Science Research Methods and Design for Natural Resource Management,Jose Arias Bustamante;Jose Ramon Arias Bustamante;Shannon Marie Hagerman,14,86.5,2.875627022,91.0,83.0,0,0.0,0.0,0.0,0,0,0,0,4,6,4
+UBCV,2017,W,CONS,528,,OVERALL,Social Science Research Methods and Design for Natural Resource Management,,14,86.5,2.875627022,91.0,83.0,0,0.0,0.0,0.0,0,0,0,0,4,6,4

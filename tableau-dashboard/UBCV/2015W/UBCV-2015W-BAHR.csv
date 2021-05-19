@@ -1,23 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,BAHR,505,,MM1,Leadership,Aubrey Chapnick;Tracey Gurton,46,84.02173913,3.809281825,94.0,75.0,,,,,,,,,21,17,
-UBCV,2015,W,BAHR,505,,OVERALL,Leadership,,46,84.02173913,3.809281825,94.0,75.0,,,,,,,,,21,17,
-UBCV,2015,W,BAHR,507,,001,Two-Party Negotiations,Dan Skarlicki;Rida Waseem;Zhi Feng Chen,28,81.5,4.350393767,90.0,73.0,,,,,,,,,15,6,
-UBCV,2015,W,BAHR,507,,002,Two-Party Negotiations,Dan Skarlicki;Rida Waseem;Zhi Feng Chen,39,81.923076923,3.231299359,88.0,75.0,,,,,,,,,25,9,
-UBCV,2015,W,BAHR,507,,301,Two-Party Negotiations,Carmen Ballard;Karl Aquino,41,80.780487805,2.841761735,86.0,74.0,,,,,,,,10,27,,
-UBCV,2015,W,BAHR,507,,MM1,Two-Party Negotiations,Carmen Ballard;Karl Aquino,46,79.02173913,3.2556899280000002,87.0,65.0,,,,,,,,22,18,,
-UBCV,2015,W,BAHR,507,,OVERALL,Two-Party Negotiations,,154,80.675324675,3.536704121,90.0,65.0,,,,,,,11,37,85,19,
-UBCV,2015,W,BAHR,508,,001,Managing Change,Robert Prowse,16,79.8125,3.487477598,87.0,74.0,,,,,,,,6,6,,
-UBCV,2015,W,BAHR,508,,302,Managing Change,Adrianne Erdman;Robert Prowse,26,80.384615385,5.161991268,91.0,72.0,,,,,,,,8,10,,
-UBCV,2015,W,BAHR,508,,OVERALL,Managing Change,,42,80.166666667,4.558116142,91.0,72.0,,,,,,,6,14,16,,
-UBCV,2015,W,BAHR,520,,001,Managing the Employment Relationship,Perdip Atwal,14,83.642857143,5.017004053,91.0,70.0,,,,,,,,,7,,2
-UBCV,2015,W,BAHR,520,,MM1,Managing the Employment Relationship,Perdip Atwal,22,83.954545455,5.8266814270000005,93.0,72.0,,,,,,,,,9,,6
-UBCV,2015,W,BAHR,520,,OVERALL,Managing the Employment Relationship,,36,83.833333333,5.453701232999999,93.0,70.0,,,,,,,,,16,8,8
-UBCV,2015,W,BAHR,550,,001,Organizational Behavior,Skyeblu Cutchie;Tracey Gurton,51,80.431372549,3.705427921,90.0,72.0,,,,,,,5,12,27,6,
-UBCV,2015,W,BAHR,550,,002,Organizational Behavior,Skyeblu Cutchie;Tracey Gurton,49,81.857142857,4.128155359,92.0,74.0,,,,,,,,12,22,9,
-UBCV,2015,W,BAHR,550,,300,Organizational Behavior,Perdip Atwal,48,83.041666667,2.9315476510000003,90.0,75.0,,,,,,,,4,28,14,
-UBCV,2015,W,BAHR,550,,815,Organizational Behavior,Karin Kirkpatrick,28,74.214285714,7.264103232,83.0,55.0,,,,,,,6,11,5,0,
-UBCV,2015,W,BAHR,550,,MM1,Organizational Behavior,Perdip Atwal,46,81.239130435,6.335735624,91.0,59.0,,,,,,,5,5,19,9,6
-UBCV,2015,W,BAHR,550,,OVERALL,Organizational Behavior,,222,80.69369369399999,5.4909102889999994,92.0,55.0,,,,,,,20,44,101,38,11
-UBCV,2015,W,BAHR,580,D,MM1,Topics in Human Resources,Barbara Duzy;Gabriel Narciso;Matthew Thomas;Sameena Kamdar,24,81.5,6.283172835,91.0,71.0,,,,,,,,8,,7,
-UBCV,2015,W,BAHR,580,D,MM2,Topics in Human Resources,Barbara Duzy;Cathy Lee;Gabriel Narciso,22,82.318181818,6.749859707000001,95.0,70.0,,,,,,,,4,,9,
-UBCV,2015,W,BAHR,580,D,OVERALL,Topics in Human Resources,,46,81.891304348,6.450592603,95.0,70.0,,,,,,,,12,5,16,7
+UBCV,2015,W,BAHR,505,,MM1,Leadership,Aubrey Chapnick;Tracey Gurton,46,84.02173913,3.809281825,94.0,75.0,0,0,0,0,0,0,,,21,17,
+UBCV,2015,W,BAHR,505,,OVERALL,Leadership,,46,84.02173913,3.809281825,94.0,75.0,0,0,0,0,0,0,,,21,17,
+UBCV,2015,W,BAHR,507,,001,Two-Party Negotiations,Dan Skarlicki;Rida Waseem;Zhi Feng Chen,28,81.5,4.350393767,90.0,73.0,0,0,0,0,0,0,,,15,6,
+UBCV,2015,W,BAHR,507,,002,Two-Party Negotiations,Dan Skarlicki;Rida Waseem;Zhi Feng Chen,39,81.923076923,3.231299359,88.0,75.0,0,0,0,0,0,0,,,25,9,0
+UBCV,2015,W,BAHR,507,,301,Two-Party Negotiations,Carmen Ballard;Karl Aquino,41,80.780487805,2.841761735,86.0,74.0,0,0,0,0,0,0,,10,27,,0
+UBCV,2015,W,BAHR,507,,MM1,Two-Party Negotiations,Carmen Ballard;Karl Aquino,46,79.02173913,3.255689928,87.0,65.0,0,0,0,0,,,,22,18,,0
+UBCV,2015,W,BAHR,507,,OVERALL,Two-Party Negotiations,,154,80.675324675,3.536704121,90.0,65.0,0,0,0,0,,,11,37,85,19,
+UBCV,2015,W,BAHR,508,,001,Managing Change,Robert Prowse,16,79.8125,3.487477598,87.0,74.0,0,0,0,0,0,0,,6,6,,0
+UBCV,2015,W,BAHR,508,,302,Managing Change,Adrianne Erdman;Robert Prowse,26,80.384615385,5.161991268,91.0,72.0,0,0,0,0,0,0,,8,10,,
+UBCV,2015,W,BAHR,508,,OVERALL,Managing Change,,42,80.166666667,4.558116142,91.0,72.0,0,0,0,0,0,0,6,14,16,,
+UBCV,2015,W,BAHR,520,,001,Managing the Employment Relationship,Perdip Atwal,14,83.642857143,5.017004053,91.0,70.0,0,0,0,0,0,,,,7,,2
+UBCV,2015,W,BAHR,520,,MM1,Managing the Employment Relationship,Perdip Atwal,22,83.954545455,5.826681427,93.0,72.0,0,0,0,0,0,0,,,9,,6
+UBCV,2015,W,BAHR,520,,OVERALL,Managing the Employment Relationship,,36,83.833333333,5.453701233,93.0,70.0,0,0,0,0,0,,,,16,8,8
+UBCV,2015,W,BAHR,550,,001,Organizational Behavior,Skyeblu Cutchie;Tracey Gurton,51,80.431372549,3.705427921,90.0,72.0,0,0,0,0,0,0,5,12,27,6,1.0
+UBCV,2015,W,BAHR,550,,002,Organizational Behavior,Skyeblu Cutchie;Tracey Gurton,49,81.857142857,4.128155359,92.0,74.0,0,0,0,0,0,0,,12,22,9,
+UBCV,2015,W,BAHR,550,,300,Organizational Behavior,Perdip Atwal,48,83.041666667,2.931547651,90.0,75.0,0,0,0,0,0,0,,4,28,14,
+UBCV,2015,W,BAHR,550,,815,Organizational Behavior,Karin Kirkpatrick,28,74.214285714,7.264103232,83.0,55.0,0,0,,,,,6,11,5,0,0
+UBCV,2015,W,BAHR,550,,MM1,Organizational Behavior,Perdip Atwal,46,81.239130435,6.335735624,91.0,59.0,0,0,,,,,5,5,19,9,6
+UBCV,2015,W,BAHR,550,,OVERALL,Organizational Behavior,,222,80.693693694,5.490910289,92.0,55.0,0,0,,,,,20,44,101,38,11
+UBCV,2015,W,BAHR,580,D,MM1,Topics in Human Resources,Barbara Duzy;Gabriel Narciso;Matthew Thomas;Sameena Kamdar,24,81.5,6.283172835,91.0,71.0,0,0,0,0,0,,,8,,7,
+UBCV,2015,W,BAHR,580,D,MM2,Topics in Human Resources,Barbara Duzy;Cathy Lee;Gabriel Narciso,22,82.318181818,6.749859707,95.0,70.0,0,0,0,0,0,,,4,,9,
+UBCV,2015,W,BAHR,580,D,OVERALL,Topics in Human Resources,,46,81.891304348,6.450592603,95.0,70.0,0,0,0,0,0,,,12,5,16,7

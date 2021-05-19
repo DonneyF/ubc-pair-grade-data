@@ -1,21 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2019,W,EDUC,100,,002,Controversial Issues in Education,Peter Arthur,35,85.37142857100001,4.284621709,94.0,78.0,,,,,,,,,16,12,6
-UBCO,2019,W,EDUC,100,,003,Controversial Issues in Education,Peter Arthur,34,83.176470588,2.768552715,89.0,75.0,,,,,,,,,21,10,
-UBCO,2019,W,EDUC,100,,101,Controversial Issues in Education,Beverley Bosetti;Wendy Klassen,31,80.677419355,6.451806448999999,92.0,61.0,,,,,,,,,10,9,
-UBCO,2019,W,EDUC,100,,OVERALL,Controversial Issues in Education,,100,83.17,5.013224934,94.0,61.0,,,,,,,5,7,47,31,7
-UBCO,2019,W,EDUC,104,,001,Introduction to Academic Pedagogy: An Aboriginal Perspective,Desiree Marshall-Peer,22,68.0,19.547256536,91.0,0.0,,,,,,,,5,,,
-UBCO,2019,W,EDUC,104,,002,Introduction to Academic Pedagogy: An Aboriginal Perspective,Denise Lecoy,15,74.4,28.967469439000002,93.0,0.0,,,,,,,,0,,,
-UBCO,2019,W,EDUC,104,,OVERALL,Introduction to Academic Pedagogy: An Aboriginal Perspective,,37,70.594594595,23.650768674000002,93.0,0.0,,,,,,,,5,5,6,5
-UBCO,2019,W,EDUC,160,,001,Mathematical Reasoning for Arts and Education,Desiree Marshall-Peer,38,77.973684211,10.881392106,96.0,55.0,,,,,,,5,7,5,7,5
-UBCO,2019,W,EDUC,160,,101,Mathematical Reasoning for Arts and Education,Desiree Marshall-Peer;Wendy Klassen,39,83.23076923100001,10.788545433,96.0,28.0,,,,,,,2,4,15,9,8
-UBCO,2019,W,EDUC,160,,OVERALL,Mathematical Reasoning for Arts and Education,,77,80.636363636,11.083307850999999,96.0,28.0,,,,,,,7,11,20,16,13
-UBCO,2019,W,EDUC,300,,001,Inquiry in Education,Christopher Martin,28,84.214285714,4.763729809,91.0,75.0,,,,,,,,,7,12,
-UBCO,2019,W,EDUC,300,,OVERALL,Inquiry in Education,,28,84.214285714,4.763729809,91.0,75.0,,,,,,,,,7,12,
-UBCO,2019,W,EDUC,400,,101,Designing and Facilitating Effective Learning Experiences,Peter Arthur,35,83.37142857100001,5.693575917,92.0,68.0,,,,,,,,,12,13,
-UBCO,2019,W,EDUC,400,,OVERALL,Designing and Facilitating Effective Learning Experiences,,35,83.37142857100001,5.693575917,92.0,68.0,,,,,,,,,12,13,
-UBCO,2019,W,EDUC,500,,001,Research Methodology in Education Part I,John Binfet,22,81.136363636,3.012599803,88.0,77.0,,,,,,,,10,10,,
-UBCO,2019,W,EDUC,500,,OVERALL,Research Methodology in Education Part I,,22,81.136363636,3.012599803,88.0,77.0,,,,,,,,10,10,,
-UBCO,2019,W,EDUC,517,D,001,Contemporary Issues in Education,Robert Campbell,23,88.434782609,3.3142404439999997,94.0,83.0,,,,,,,,,,13,9
-UBCO,2019,W,EDUC,517,D,OVERALL,Contemporary Issues in Education,,23,88.434782609,3.3142404439999997,94.0,83.0,,,,,,,,,,13,9
-UBCO,2019,W,EDUC,521,,001,Readings and Discourse in Education,Catherine Broom;Donna Kozak;Scott Douglas,25,87.32,4.810751847,98.0,81.0,,,,,,,,,6,12,7
-UBCO,2019,W,EDUC,521,,OVERALL,Readings and Discourse in Education,,25,87.32,4.810751847,98.0,81.0,,,,,,,,,6,12,7
+UBCO,2019,W,EDUC,100,,002,Controversial Issues in Education,Peter Arthur,35,85.37142857,4.284621709,94.0,78.0,0,0.0,0,0,0.0,0,0,1,16,12,6
+UBCO,2019,W,EDUC,100,,003,Controversial Issues in Education,Peter Arthur,34,83.17647059,2.768552715,89.0,75.0,0,0.0,0,0,0.0,0,1,2,21,10,0
+UBCO,2019,W,EDUC,100,,101,Controversial Issues in Education,Beverley Bosetti;Wendy Klassen,31,80.67741936,6.451806449,92.0,61.0,0,0.0,0,1,0.0,2,4,4,10,9,1
+UBCO,2019,W,EDUC,100,,OVERALL,Controversial Issues in Education,,100,83.17,5.013224934,94.0,61.0,0,0.0,0,1,0.0,2,5,7,47,31,7
+UBCO,2019,W,EDUC,104,,001,Introduction to Academic Pedagogy: An Aboriginal Perspective,Desiree Marshall-Peer,22,68.0,19.54725654,91.0,0.0,2,2.0,1,1,3.0,2,1,5,2,2,1
+UBCO,2019,W,EDUC,104,,002,Introduction to Academic Pedagogy: An Aboriginal Perspective,Denise Lecoy,15,74.4,28.96746944,93.0,0.0,2,0.0,0,0,0.0,1,1,0,3,4,4
+UBCO,2019,W,EDUC,104,,OVERALL,Introduction to Academic Pedagogy: An Aboriginal Perspective,,37,70.5945946,23.65076867,93.0,0.0,4,2.0,1,1,3.0,3,2,5,5,6,5
+UBCO,2019,W,EDUC,160,,001,Mathematical Reasoning for Arts and Education,Desiree Marshall-Peer,38,77.97368421,10.88139211,96.0,55.0,0,0.0,3,2,2.0,2,5,7,5,7,5
+UBCO,2019,W,EDUC,160,,101,Mathematical Reasoning for Arts and Education,Desiree Marshall-Peer;Wendy Klassen,39,83.23076923,10.78854543,96.0,28.0,1,0.0,0,0,0.0,0,2,4,15,9,8
+UBCO,2019,W,EDUC,160,,OVERALL,Mathematical Reasoning for Arts and Education,,77,80.63636364,11.08330785,96.0,28.0,1,0.0,3,2,2.0,2,7,11,20,16,13
+UBCO,2019,W,EDUC,300,,001,Inquiry in Education,Christopher Martin,28,84.21428571,4.763729809,91.0,75.0,0,0.0,0,0,0.0,0,2,3,7,12,4
+UBCO,2019,W,EDUC,300,,OVERALL,Inquiry in Education,,28,84.21428571,4.763729809,91.0,75.0,0,0.0,0,0,0.0,0,2,3,7,12,4
+UBCO,2019,W,EDUC,400,,101,Designing and Facilitating Effective Learning Experiences,Peter Arthur,35,83.37142857,5.693575917,92.0,68.0,0,0.0,0,0,0.0,2,1,4,12,13,3
+UBCO,2019,W,EDUC,400,,OVERALL,Designing and Facilitating Effective Learning Experiences,,35,83.37142857,5.693575917,92.0,68.0,0,0.0,0,0,0.0,2,1,4,12,13,3
+UBCO,2019,W,EDUC,500,,001,Research Methodology in Education Part I,John Binfet,22,81.13636364,3.012599803,88.0,77.0,0,0.0,0,0,0.0,0,0,10,10,2,0
+UBCO,2019,W,EDUC,500,,OVERALL,Research Methodology in Education Part I,,22,81.13636364,3.012599803,88.0,77.0,0,0.0,0,0,0.0,0,0,10,10,2,0
+UBCO,2019,W,EDUC,517,D,001,Contemporary Issues in Education,Robert Campbell,23,88.43478261,3.314240444,94.0,83.0,0,0.0,0,0,0.0,0,0,0,1,13,9
+UBCO,2019,W,EDUC,517,D,OVERALL,Contemporary Issues in Education,,23,88.43478261,3.314240444,94.0,83.0,0,0.0,0,0,0.0,0,0,0,1,13,9
+UBCO,2019,W,EDUC,521,,001,Readings and Discourse in Education,Catherine Broom;Donna Kozak;Scott Douglas,25,87.32,4.810751847,98.0,81.0,0,0.0,0,0,0.0,0,0,0,6,12,7
+UBCO,2019,W,EDUC,521,,OVERALL,Readings and Discourse in Education,,25,87.32,4.810751847,98.0,81.0,0,0.0,0,0,0.0,0,0,0,6,12,7

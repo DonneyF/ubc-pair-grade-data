@@ -1,44 +1,43 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Justin Junehung Yu;Justin Yu;Peter Cripton;Peter Zandstra;Septimiu Salcudean,42,78.119047619,8.323350583,91.0,55.0,,,,,,,8,8,11,7,
-UBCV,2018,W,BMEG,101,,OVERALL,Introduction to Biomedical Engineering,,42,78.119047619,8.323350583,91.0,55.0,,,,,,,8,8,11,7,
-UBCV,2018,W,BMEG,102,,201,Biomedical Engineering Lab,Gabrielle Lam;Hamed Noori;Jeanie Hakansson Malone;Jeanie Malone,45,82.422222222,6.86058866,94.0,53.0,,,,,,,,5,23,11,
-UBCV,2018,W,BMEG,102,,OVERALL,Biomedical Engineering Lab,,45,82.422222222,6.86058866,94.0,53.0,,,,,,,,5,23,11,
-UBCV,2018,W,BMEG,201,,101,Technical Communication for Biomedical Engineers,Jeanie Hakansson Malone;Jeanie Malone;Matthias Goerges,56,77.642857143,11.188352014000001,90.0,36.0,,,,,,,7,13,16,11,
-UBCV,2018,W,BMEG,201,,OVERALL,Technical Communication for Biomedical Engineers,,56,77.642857143,11.188352014000001,90.0,36.0,,,,,,,7,13,16,11,
-UBCV,2018,W,BMEG,210,,101,Thermodynamics in Biomedical Engineering,Gabriel Potvin;Roza Vaez Ghaemi,60,73.166666667,14.12674668,99.0,37.0,,6,,5,5,8,6,,8,7,8
-UBCV,2018,W,BMEG,210,,OVERALL,Thermodynamics in Biomedical Engineering,,60,73.166666667,14.12674668,99.0,37.0,,6,,5,5,8,6,,8,7,8
-UBCV,2018,W,BMEG,220,,201,Circuits and Electromagnetics with Application to Biomedical Engineering,Jeanie Hakansson Malone;Jeanie Malone;Leanne Dias;Negar Mohaghegh Harandi;Philip Loewen,50,69.84,13.334564569000001,99.0,30.0,5,,,5,6,7,9,,,5,
-UBCV,2018,W,BMEG,220,,OVERALL,Circuits and Electromagnetics with Application to Biomedical Engineering,,50,69.84,13.334564569000001,99.0,30.0,5,,,5,6,7,9,,,5,
-UBCV,2018,W,BMEG,230,,201,Biomechanics I,Carly Ellen Jones;Carly Jones;Loay Al-Salehi;Peter Cripton;Robyn Newell,57,75.087719298,8.710176113,94.0,50.0,,,,,9,5,10,14,6,9,
-UBCV,2018,W,BMEG,230,,OVERALL,Biomechanics I,,57,75.087719298,8.710176113,94.0,50.0,,,,,9,5,10,14,6,9,
-UBCV,2018,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Calvin Roskelley;Elizabeth Rideout;Erin Bell;Guang Gao;Ivan Robert Nabi;Timothy Hei Wai Wong;Timothy Wong,59,72.593220339,10.174543359,89.0,47.0,,,,,5,10,10,,11,8,
-UBCV,2018,W,BMEG,245,,OVERALL,The Fundamental Units of Life: From Cells To Systems,,59,72.593220339,10.174543359,89.0,47.0,,,,,5,10,10,,11,8,
-UBCV,2018,W,BMEG,250,,201,Cellular  Physiology  and Biophysics,Roza Vaez Ghaemi;Tabea Leonie Stephan;Tabea Stephan;Vikramaditya Yadav,58,78.068965517,10.912510234,91.0,24.0,,,,,,,11,7,17,11,
-UBCV,2018,W,BMEG,250,,OVERALL,Cellular  Physiology  and Biophysics,,58,78.068965517,10.912510234,91.0,24.0,,,,,,,11,7,17,11,
-UBCV,2018,W,BMEG,257,,201,Biomedical Engineering Design I,Antony Hodgson;Prateek Mathur;Sarah Madeleine Bowe Romani;Sarah Romani,57,79.526315789,9.225557016,91.0,43.0,,,,,,,6,9,18,14,
-UBCV,2018,W,BMEG,257,,OVERALL,Biomedical Engineering Design I,,57,79.526315789,9.225557016,91.0,43.0,,,,,,,6,9,18,14,
-UBCV,2018,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jeanie Hakansson Malone;Jeanie Malone,52,77.038461538,8.13118311,91.0,55.0,,,,,,7,8,7,14,8,
-UBCV,2018,W,BMEG,410,,OVERALL,"Biomedical Equipment, Physiology, and Anatomy",,52,77.038461538,8.13118311,91.0,55.0,,,,,,7,8,7,14,8,
-UBCV,2018,W,BMEG,456,,101,Clinical and Industrial Biomedical Engineering,Daniel Louie;Jochen Boehm;Judy Findlay,46,81.565217391,7.934879887999999,95.0,44.0,,,,,,,,7,17,12,
-UBCV,2018,W,BMEG,456,,OVERALL,Clinical and Industrial Biomedical Engineering,,46,81.565217391,7.934879887999999,95.0,44.0,,,,,,,,7,17,12,
-UBCV,2018,W,BMEG,500,,101,Orientation to Clinical Environment,David Wilson;Graham Fonseca;Jane Desrochers;Kelsey Mcgivern;Roger Tam,12,89.5,3.7779263189999996,95.0,84.0,,,,,,,,,,6,5
-UBCV,2018,W,BMEG,500,,OVERALL,Orientation to Clinical Environment,,12,89.5,3.7779263189999996,95.0,84.0,,,,,,,,,,6,5
-UBCV,2018,W,BMEG,501,,001,Interdisciplinary Team Project in Medical Technology Innovation,David Wilson;Graham Fonseca;Graham Nathaniel Fonseca;Kelsey Mcgivern;Roger Tam,11,87.454545455,1.293339581,89.0,86.0,,,,,,,,,,11,
-UBCV,2018,W,BMEG,501,,OVERALL,Interdisciplinary Team Project in Medical Technology Innovation,,11,87.454545455,1.293339581,89.0,86.0,,,,,,,,,,11,
-UBCV,2018,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jeanie Hakansson Malone;Jeanie Malone,22,77.954545455,7.505409305,89.0,63.0,,,,,,,5,,,6,
-UBCV,2018,W,BMEG,510,,OVERALL,Anatomy and Physiology with Applications to Biomedical Devices,,22,77.954545455,7.505409305,89.0,63.0,,,,,,,5,,,6,
-UBCV,2018,W,BMEG,511,,201,Fundamentals of Applied Pathophysiology in Biomedical Engineering,Babak Shadgan,13,88.153846154,6.440058926,95.0,76.0,,,,,,,,,,,7
-UBCV,2018,W,BMEG,511,,OVERALL,Fundamentals of Applied Pathophysiology in Biomedical Engineering,,13,88.153846154,6.440058926,95.0,76.0,,,,,,,,,,,7
-UBCV,2018,W,BMEG,550,,201,Biomedical Engineering Technology,Anthony Chan;Anthony Yuet K Chan;Su Wang,20,82.5,9.265101471,99.0,64.0,,,,,,,,,7,,5
-UBCV,2018,W,BMEG,550,,OVERALL,Biomedical Engineering Technology,,20,82.5,9.265101471,99.0,64.0,,,,,,,,,7,,5
-UBCV,2018,W,BMEG,556,,101,Clinical and Industrial Biomedical Engineering,Daniel Louie;Jochen Boehm;Judy Findlay,15,82.8,9.495863761,94.0,62.0,,,,,,,,,,6,
-UBCV,2018,W,BMEG,556,,OVERALL,Clinical and Industrial Biomedical Engineering,,15,82.8,9.495863761,94.0,62.0,,,,,,,,,,6,
-UBCV,2018,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Heather Borgard;Siamak Najarian,7,92.14285714299999,3.804758925,97.0,86.0,,,,,,,,,,,5
-UBCV,2018,W,BMEG,557,,OVERALL,Statistical Methods for Evaluating Medical Technologies,,7,92.14285714299999,3.804758925,97.0,86.0,,,,,,,,,,,5
-UBCV,2018,W,BMEG,591,A,101,Topics in Biomedical Engineering,Ali Bashashati Saghezchi;Cheryl Lea Wellington;James Piret;Matthias Goerges;Peter Cripton;Srinivas Murthy;Tim Kieffer;Tully Michael Underhill,38,85.473684211,4.925042692,94.0,77.0,,,,,,,,6,10,12,10
-UBCV,2018,W,BMEG,591,A,OVERALL,Topics in Biomedical Engineering,,38,85.473684211,4.925042692,94.0,77.0,,,,,,,,6,10,12,10
-UBCV,2018,W,BMEG,591,B,201,Topics in Biomedical Engineering,Hongshen Ma;Kelly Marshall Mcnagny;Shernaz Bamji;Tim Kieffer;Zhen Wang,26,90.26923076899999,5.452028557,97.0,70.0,,,,,,,,,,6,18
-UBCV,2018,W,BMEG,591,B,OVERALL,Topics in Biomedical Engineering,,26,90.26923076899999,5.452028557,97.0,70.0,,,,,,,,,,6,18
-UBCV,2018,W,BMEG,597,,OVERALL,Master of Engineering Project,,5,88.4,4.037325848,94.0,83.0,,,,,,,,,,,
-UBCV,2018,W,BMEG,599,,101,M.A. Sc. Thesis,Karen Cheung,7,91.0,4.320493798999999,98.0,86.0,,,,,,,,,,,
-UBCV,2018,W,BMEG,599,,OVERALL,M.A. Sc. Thesis,,9,90.77777777799999,4.265494631,98.0,86.0,,,,,,,,,,,5
+UBCV,2018,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Justin Junehung Yu;Justin Yu;Peter Cripton;Peter Zandstra;Septimiu Salcudean,42,78.11904762,8.323350583,91.0,55.0,0,0.0,1.0,3.0,0.0,2,8,8,11,7,2
+UBCV,2018,W,BMEG,101,,OVERALL,Introduction to Biomedical Engineering,,42,78.11904762,8.323350583,91.0,55.0,0,0.0,1.0,3.0,0.0,2,8,8,11,7,2
+UBCV,2018,W,BMEG,102,,201,Biomedical Engineering Lab,Gabrielle Lam;Hamed Noori;Jeanie Hakansson Malone;Jeanie Malone,45,82.42222222,6.86058866,94.0,53.0,0,1.0,0.0,0.0,1.0,1,0,5,23,11,3
+UBCV,2018,W,BMEG,102,,OVERALL,Biomedical Engineering Lab,,45,82.42222222,6.86058866,94.0,53.0,0,1.0,0.0,0.0,1.0,1,0,5,23,11,3
+UBCV,2018,W,BMEG,201,,101,Technical Communication for Biomedical Engineers,Jeanie Hakansson Malone;Jeanie Malone;Matthias Goerges,56,77.64285714,11.18835201,90.0,36.0,4,0.0,0.0,0.0,1.0,1,7,13,16,11,3
+UBCV,2018,W,BMEG,201,,OVERALL,Technical Communication for Biomedical Engineers,,56,77.64285714,11.18835201,90.0,36.0,4,0.0,0.0,0.0,1.0,1,7,13,16,11,3
+UBCV,2018,W,BMEG,210,,101,Thermodynamics in Biomedical Engineering,Gabriel Potvin;Roza Vaez Ghaemi,60,73.16666667,14.12674668,99.0,37.0,3,6.0,0.0,5.0,5.0,8,6,4,8,7,8
+UBCV,2018,W,BMEG,210,,OVERALL,Thermodynamics in Biomedical Engineering,,60,73.16666667,14.12674668,99.0,37.0,3,6.0,0.0,5.0,5.0,8,6,4,8,7,8
+UBCV,2018,W,BMEG,220,,201,Circuits and Electromagnetics with Application to Biomedical Engineering,Jeanie Hakansson Malone;Jeanie Malone;Leanne Dias;Negar Mohaghegh Harandi;Philip Loewen,50,69.84,13.33456457,99.0,30.0,5,0.0,3.0,5.0,6.0,7,9,3,4,5,3
+UBCV,2018,W,BMEG,220,,OVERALL,Circuits and Electromagnetics with Application to Biomedical Engineering,,50,69.84,13.33456457,99.0,30.0,5,0.0,3.0,5.0,6.0,7,9,3,4,5,3
+UBCV,2018,W,BMEG,230,,201,Biomechanics I,Carly Ellen Jones;Carly Jones;Loay Al-Salehi;Peter Cripton;Robyn Newell,57,75.0877193,8.710176113,94.0,50.0,0,1.0,2.0,0.0,9.0,5,10,14,6,9,1
+UBCV,2018,W,BMEG,230,,OVERALL,Biomechanics I,,57,75.0877193,8.710176113,94.0,50.0,0,1.0,2.0,0.0,9.0,5,10,14,6,9,1
+UBCV,2018,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Calvin Roskelley;Elizabeth Rideout;Erin Bell;Guang Gao;Ivan Robert Nabi;Timothy Hei Wai Wong;Timothy Wong,59,72.59322034,10.17454336,89.0,47.0,1,2.0,4.0,4.0,5.0,10,10,4,11,8,0
+UBCV,2018,W,BMEG,245,,OVERALL,The Fundamental Units of Life: From Cells To Systems,,59,72.59322034,10.17454336,89.0,47.0,1,2.0,4.0,4.0,5.0,10,10,4,11,8,0
+UBCV,2018,W,BMEG,250,,201,Cellular  Physiology  and Biophysics,Roza Vaez Ghaemi;Tabea Leonie Stephan;Tabea Stephan;Vikramaditya Yadav,58,78.06896552,10.91251023,91.0,24.0,2,0.0,1.0,0.0,1.0,4,11,7,17,11,4
+UBCV,2018,W,BMEG,250,,OVERALL,Cellular  Physiology  and Biophysics,,58,78.06896552,10.91251023,91.0,24.0,2,0.0,1.0,0.0,1.0,4,11,7,17,11,4
+UBCV,2018,W,BMEG,257,,201,Biomedical Engineering Design I,Antony Hodgson;Prateek Mathur;Sarah Madeleine Bowe Romani;Sarah Romani,57,79.52631579,9.225557016,91.0,43.0,2,0.0,0.0,1.0,2.0,1,6,9,18,14,4
+UBCV,2018,W,BMEG,257,,OVERALL,Biomedical Engineering Design I,,57,79.52631579,9.225557016,91.0,43.0,2,0.0,0.0,1.0,2.0,1,6,9,18,14,4
+UBCV,2018,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jeanie Hakansson Malone;Jeanie Malone,52,77.03846154,8.13118311,91.0,55.0,0,0.0,2.0,0.0,4.0,7,8,7,14,8,2
+UBCV,2018,W,BMEG,410,,OVERALL,"Biomedical Equipment, Physiology, and Anatomy",,52,77.03846154,8.13118311,91.0,55.0,0,0.0,2.0,0.0,4.0,7,8,7,14,8,2
+UBCV,2018,W,BMEG,456,,101,Clinical and Industrial Biomedical Engineering,Daniel Louie;Jochen Boehm;Judy Findlay,46,81.56521739,7.934879888,95.0,44.0,1,0.0,0.0,0.0,0.0,3,2,7,17,12,4
+UBCV,2018,W,BMEG,456,,OVERALL,Clinical and Industrial Biomedical Engineering,,46,81.56521739,7.934879888,95.0,44.0,1,0.0,0.0,0.0,0.0,3,2,7,17,12,4
+UBCV,2018,W,BMEG,500,,101,Orientation to Clinical Environment,David Wilson;Graham Fonseca;Jane Desrochers;Kelsey Mcgivern;Roger Tam,12,89.5,3.777926319,95.0,84.0,0,0.0,0.0,0.0,0.0,0,0,0,1,6,5
+UBCV,2018,W,BMEG,500,,OVERALL,Orientation to Clinical Environment,,12,89.5,3.777926319,95.0,84.0,0,0.0,0.0,0.0,0.0,0,0,0,1,6,5
+UBCV,2018,W,BMEG,501,,001,Interdisciplinary Team Project in Medical Technology Innovation,David Wilson;Graham Fonseca;Graham Nathaniel Fonseca;Kelsey Mcgivern;Roger Tam,11,87.45454546,1.293339581,89.0,86.0,0,0.0,0.0,0.0,0.0,0,0,0,0,11,0
+UBCV,2018,W,BMEG,501,,OVERALL,Interdisciplinary Team Project in Medical Technology Innovation,,11,87.45454546,1.293339581,89.0,86.0,0,0.0,0.0,0.0,0.0,0,0,0,0,11,0
+UBCV,2018,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jeanie Hakansson Malone;Jeanie Malone,22,77.95454546,7.505409305,89.0,63.0,0,0.0,0.0,1.0,1.0,2,5,3,4,6,0
+UBCV,2018,W,BMEG,510,,OVERALL,Anatomy and Physiology with Applications to Biomedical Devices,,22,77.95454546,7.505409305,89.0,63.0,0,0.0,0.0,1.0,1.0,2,5,3,4,6,0
+UBCV,2018,W,BMEG,511,,201,Fundamentals of Applied Pathophysiology in Biomedical Engineering,Babak Shadgan,13,88.15384615,6.440058926,95.0,76.0,0,0.0,0.0,0.0,0.0,0,0,1,3,2,7
+UBCV,2018,W,BMEG,511,,OVERALL,Fundamentals of Applied Pathophysiology in Biomedical Engineering,,13,88.15384615,6.440058926,95.0,76.0,0,0.0,0.0,0.0,0.0,0,0,1,3,2,7
+UBCV,2018,W,BMEG,550,,201,Biomedical Engineering Technology,Anthony Chan;Anthony Yuet K Chan;Su Wang,20,82.5,9.265101471,99.0,64.0,0,0.0,0.0,0.0,1.0,1,2,3,7,1,5
+UBCV,2018,W,BMEG,550,,OVERALL,Biomedical Engineering Technology,,20,82.5,9.265101471,99.0,64.0,0,0.0,0.0,0.0,1.0,1,2,3,7,1,5
+UBCV,2018,W,BMEG,556,,101,Clinical and Industrial Biomedical Engineering,Daniel Louie;Jochen Boehm;Judy Findlay,15,82.8,9.495863761,94.0,62.0,0,0.0,0.0,1.0,0.0,2,1,0,2,6,3
+UBCV,2018,W,BMEG,556,,OVERALL,Clinical and Industrial Biomedical Engineering,,15,82.8,9.495863761,94.0,62.0,0,0.0,0.0,1.0,0.0,2,1,0,2,6,3
+UBCV,2018,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Heather Borgard;Siamak Najarian,7,92.14285714,3.804758925,97.0,86.0,0,0.0,0.0,0.0,0.0,0,0,0,0,2,5
+UBCV,2018,W,BMEG,557,,OVERALL,Statistical Methods for Evaluating Medical Technologies,,7,92.14285714,3.804758925,97.0,86.0,0,0.0,0.0,0.0,0.0,0,0,0,0,2,5
+UBCV,2018,W,BMEG,591,A,101,Topics in Biomedical Engineering,Ali Bashashati Saghezchi;Cheryl Lea Wellington;James Piret;Matthias Goerges;Peter Cripton;Srinivas Murthy;Tim Kieffer;Tully Michael Underhill,38,85.47368421,4.925042692,94.0,77.0,0,0.0,0.0,0.0,0.0,0,0,6,10,12,10
+UBCV,2018,W,BMEG,591,A,OVERALL,Topics in Biomedical Engineering,,38,85.47368421,4.925042692,94.0,77.0,0,0.0,0.0,0.0,0.0,0,0,6,10,12,10
+UBCV,2018,W,BMEG,591,B,201,Topics in Biomedical Engineering,Hongshen Ma;Kelly Marshall Mcnagny;Shernaz Bamji;Tim Kieffer;Zhen Wang,26,90.26923077,5.452028557,97.0,70.0,0,0.0,0.0,0.0,0.0,1,0,0,1,6,18
+UBCV,2018,W,BMEG,591,B,OVERALL,Topics in Biomedical Engineering,,26,90.26923077,5.452028557,97.0,70.0,0,0.0,0.0,0.0,0.0,1,0,0,1,6,18
+UBCV,2018,W,BMEG,599,,101,M.A. Sc. Thesis,Karen Cheung,7,91.0,4.320493799,98.0,86.0,0,0.0,0.0,0.0,0.0,0,0,0,0,3,4
+UBCV,2018,W,BMEG,599,,OVERALL,M.A. Sc. Thesis,,9,90.77777778,4.265494631,98.0,86.0,0,0.0,0.0,0.0,0.0,0,0,0,0,4,5

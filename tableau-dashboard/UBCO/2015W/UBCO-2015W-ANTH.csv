@@ -1,67 +1,67 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2015,W,ANTH,100,,001,Introduction to Cultural Anthropology,David Geary;David Lacho;Matt Husain;Matt M Husain,188,70.25,14.155222388,92.0,9.0,9,7,13,16,19,17,27,30,29,18,3.0
 UBCO,2015,W,ANTH,100,,002,Introduction to Cultural Anthropology,Eva Marie Kovacs-Kowalke,100,75.39,16.440830547,96.0,0.0,5,,,6,3,13,14,6,20,19,11
-UBCO,2015,W,ANTH,100,,101,Introduction to Cultural Anthropology,R Robin Dods,70,72.028571429,12.829959762,88.0,0.0,2,,,7,7,12,12,7,17,5,
-UBCO,2015,W,ANTH,100,,102,Introduction to Cultural Anthropology,Colleen E. Larson;Colleen Larson;Hugo De Burgos;Sara Isabel Vieira;Sara Vieira,198,73.772727273,11.722418265,94.0,0.0,5,7,,8,21,26,31,39,31,24,
+UBCO,2015,W,ANTH,100,,101,Introduction to Cultural Anthropology,R Robin Dods,70,72.028571429,12.829959762,88.0,0.0,2,,,7,7,12,12,7,17,5,0
+UBCO,2015,W,ANTH,100,,102,Introduction to Cultural Anthropology,Colleen E. Larson;Colleen Larson;Hugo De Burgos;Sara Isabel Vieira;Sara Vieira,198,73.772727273,11.722418265,94.0,0.0,5,7,2.0,8,21,26,31,39,31,24,4.0
 UBCO,2015,W,ANTH,100,,OVERALL,Introduction to Cultural Anthropology,,556,72.652877698,13.739402494,96.0,0.0,21,17,16,37,50,68,84,82,97,66,18
 UBCO,2015,W,ANTH,103,,001,Introduction to World Archaeology,Catherine Kyle;Diana French,59,64.915254237,16.30558201,90.0,0.0,3.0,1,10,8,8,10,7,5,6,0,1
-UBCO,2015,W,ANTH,103,,002,Introduction to World Archaeology,Tatiana Nomokonova;Travis Nagy,59,69.64406779699999,13.654306775,99.0,40.0,2.0,7,5,7,6,2,7,9,3,6,5
-UBCO,2015,W,ANTH,103,,OVERALL,Introduction to World Archaeology,,118,67.279661017,15.161177137000001,99.0,0.0,5,8,15,15,14,12,14,14,9,6,6
-UBCO,2015,W,ANTH,111,,001,Introduction to Biological Anthropology,Gillian Vlasschaert;Sandra Peacock,78,76.153846154,9.946711162,97.0,56.0,0.0,0,6,5,5,5,12,17,12,9,7
+UBCO,2015,W,ANTH,103,,002,Introduction to World Archaeology,Tatiana Nomokonova;Travis Nagy,59,69.644067797,13.654306775,99.0,40.0,2.0,7,5,7,6,2,7,9,3,6,5
+UBCO,2015,W,ANTH,103,,OVERALL,Introduction to World Archaeology,,118,67.279661017,15.161177137,99.0,0.0,5,8,15,15,14,12,14,14,9,6,6
+UBCO,2015,W,ANTH,111,,001,Introduction to Biological Anthropology,Gillian Vlasschaert;Sandra Peacock,78,76.153846154,9.946711162,97.0,56.0,0,0,6,5,5,5,12,17,12,9,7
 UBCO,2015,W,ANTH,111,,101,Introduction to Biological Anthropology,Heather Mcintyre;Tatiana Nomokonova,148,69.655405405,14.249340759,98.0,0.0,3.0,16,12,14,14,19,12,18,18,12,10
 UBCO,2015,W,ANTH,111,,OVERALL,Introduction to Biological Anthropology,,226,71.898230088,13.270294193,98.0,0.0,3.0,16,18,19,19,24,24,35,30,21,17
 UBCO,2015,W,ANTH,170,,001,Introduction to Linguistic Anthropology,Robyn Giffen,57,73.403508772,13.518320438,96.0,27.0,2,2,2,8,4,5,9,5,9,3,8
 UBCO,2015,W,ANTH,170,,002,Introduction to Linguistic Anthropology,David Lacho;Robyn Giffen,92,67.847826087,17.295069985,93.0,0.0,8,6,8,10,7,9,13,8,10,10,3.0
 UBCO,2015,W,ANTH,170,,OVERALL,Introduction to Linguistic Anthropology,,149,69.973154362,16.137059207,96.0,0.0,10,8,10,18,11,14,22,13,19,13,11
-UBCO,2015,W,ANTH,227,,001,"Culture, Health, and Illness",Hugo De Burgos;Shelley B Cook;Shelley Cook,86,69.186046512,12.777288332000001,95.0,0.0,,6,9,10,12,11,13,,14,,
-UBCO,2015,W,ANTH,227,,OVERALL,"Culture, Health, and Illness",,86,69.186046512,12.777288332000001,95.0,0.0,,6,9,10,12,11,13,,14,,
+UBCO,2015,W,ANTH,227,,001,"Culture, Health, and Illness",Hugo De Burgos;Shelley B Cook;Shelley Cook,86,69.186046512,12.777288332,95.0,0.0,,6,9,10,12,11,13,,14,,
+UBCO,2015,W,ANTH,227,,OVERALL,"Culture, Health, and Illness",,86,69.186046512,12.777288332,95.0,0.0,,6,9,10,12,11,13,,14,,
 UBCO,2015,W,ANTH,241,,001,Archaeology of the Americas,Robert Beardsell,18,78.555555556,14.292006084,95.0,37.0,,,,,,,,,,6,
 UBCO,2015,W,ANTH,241,,OVERALL,Archaeology of the Americas,,18,78.555555556,14.292006084,95.0,37.0,,,,,,,,,,6,
-UBCO,2015,W,ANTH,245,,001,Culture and Environment,John Wagner,33,72.242424242,13.516264052999999,90.0,29.0,,,,,,,8,5,5,,
-UBCO,2015,W,ANTH,245,,OVERALL,Culture and Environment,,33,72.242424242,13.516264052999999,90.0,29.0,,,,,,,8,5,5,,
+UBCO,2015,W,ANTH,245,,001,Culture and Environment,John Wagner,33,72.242424242,13.516264053,90.0,29.0,,,,,,,8,5,5,,
+UBCO,2015,W,ANTH,245,,OVERALL,Culture and Environment,,33,72.242424242,13.516264053,90.0,29.0,,,,,,,8,5,5,,
 UBCO,2015,W,ANTH,260,,001,Ethnobotany: Plants and People,Sandra Peacock,32,78.75,11.219223135,92.0,45.0,,,,,,,,6,,10,
 UBCO,2015,W,ANTH,260,,OVERALL,Ethnobotany: Plants and People,,32,78.75,11.219223135,92.0,45.0,,,,,,,,6,,10,
 UBCO,2015,W,ANTH,300,,001,Contemporary Theory in Anthropology,John Wagner,34,72.352941176,20.55573702,93.0,10.0,,,,,,,,5,11,,
 UBCO,2015,W,ANTH,300,,OVERALL,Contemporary Theory in Anthropology,,34,72.352941176,20.55573702,93.0,10.0,,,,,,,,5,11,,
-UBCO,2015,W,ANTH,310,,001,Theory in Archaeology,Tatiana Nomokonova,6,80.666666667,8.936815242,92.0,69.0,,,,,,,,,,,
-UBCO,2015,W,ANTH,310,,OVERALL,Theory in Archaeology,,6,80.666666667,8.936815242,92.0,69.0,,,,,,,,,,,
-UBCO,2015,W,ANTH,313,,001,Anthropology of Gender,Michelle Walks;Sara Isabel Vieira;Sara Vieira,70,76.37142857100001,14.121800834,94.0,22.0,,,,,5,,11,8,16,9,9
-UBCO,2015,W,ANTH,313,,OVERALL,Anthropology of Gender,,70,76.37142857100001,14.121800834,94.0,22.0,,,,,5,,11,8,16,9,9
+UBCO,2015,W,ANTH,310,,001,Theory in Archaeology,Tatiana Nomokonova,6,80.666666667,8.936815242,92.0,69.0,0,0,0,0,0,,,,,,
+UBCO,2015,W,ANTH,310,,OVERALL,Theory in Archaeology,,6,80.666666667,8.936815242,92.0,69.0,0,0,0,0,0,,,,,,
+UBCO,2015,W,ANTH,313,,001,Anthropology of Gender,Michelle Walks;Sara Isabel Vieira;Sara Vieira,70,76.371428571,14.121800834,94.0,22.0,,,,,5,,11,8,16,9,9
+UBCO,2015,W,ANTH,313,,OVERALL,Anthropology of Gender,,70,76.371428571,14.121800834,94.0,22.0,,,,,5,,11,8,16,9,9
 UBCO,2015,W,ANTH,319,,001,Emergence of Old World Civilizations,Richard Garvin,36,77.611111111,13.176337618,98.0,25.0,,,,,,,,,11,,5
 UBCO,2015,W,ANTH,319,,OVERALL,Emergence of Old World Civilizations,,36,77.611111111,13.176337618,98.0,25.0,,,,,,,,,11,,5
-UBCO,2015,W,ANTH,320,,001,Central American Indigenous Medicine,Hugo De Burgos;Joanne M Taylor;Joanne Taylor,63,77.349206349,9.763590577999999,93.0,50.0,,,,,5,,10,9,15,14,
-UBCO,2015,W,ANTH,320,,OVERALL,Central American Indigenous Medicine,,63,77.349206349,9.763590577999999,93.0,50.0,,,,,5,,10,9,15,14,
-UBCO,2015,W,ANTH,325,,001,Cultural Epidemiology,Hugo De Burgos,49,76.714285714,9.91631652,92.0,50.0,,,,,,,12,,13,,5
-UBCO,2015,W,ANTH,325,,OVERALL,Cultural Epidemiology,,49,76.714285714,9.91631652,92.0,50.0,,,,,,,12,,13,,5
-UBCO,2015,W,ANTH,327,,001,Materials Analysis,R Robin Dods,7,80.714285714,10.258562045,94.0,60.0,,,,,,,,,,,
-UBCO,2015,W,ANTH,327,,OVERALL,Materials Analysis,,7,80.714285714,10.258562045,94.0,60.0,,,,,,,,,,,
+UBCO,2015,W,ANTH,320,,001,Central American Indigenous Medicine,Hugo De Burgos;Joanne M Taylor;Joanne Taylor,63,77.349206349,9.763590578,93.0,50.0,0,,,,5,,10,9,15,14,
+UBCO,2015,W,ANTH,320,,OVERALL,Central American Indigenous Medicine,,63,77.349206349,9.763590578,93.0,50.0,0,,,,5,,10,9,15,14,
+UBCO,2015,W,ANTH,325,,001,Cultural Epidemiology,Hugo De Burgos,49,76.714285714,9.91631652,92.0,50.0,0,,,,,,12,,13,,5
+UBCO,2015,W,ANTH,325,,OVERALL,Cultural Epidemiology,,49,76.714285714,9.91631652,92.0,50.0,0,,,,,,12,,13,,5
+UBCO,2015,W,ANTH,327,,001,Materials Analysis,R Robin Dods,7,80.714285714,10.258562045,94.0,60.0,0,0,0,,,,,,,,
+UBCO,2015,W,ANTH,327,,OVERALL,Materials Analysis,,7,80.714285714,10.258562045,94.0,60.0,0,0,0,,,,,,,,
 UBCO,2015,W,ANTH,333,,001,Anthropology of Myth,Hugo De Burgos;Shelley B Cook;Shelley Cook,70,73.985714286,11.136170155,90.0,18.0,,,,,5,10,14,10,17,5,
 UBCO,2015,W,ANTH,333,,OVERALL,Anthropology of Myth,,70,73.985714286,11.136170155,90.0,18.0,,,,,5,10,14,10,17,5,
-UBCO,2015,W,ANTH,353,,001,Ethnography of India,David Geary,40,77.775,10.082957187,88.0,24.0,,,,,,,,10,14,8,
-UBCO,2015,W,ANTH,353,,OVERALL,Ethnography of India,,40,77.775,10.082957187,88.0,24.0,,,,,,,,10,14,8,
-UBCO,2015,W,ANTH,355,,001,Ethnography of Development,Matt Husain,43,82.09302325600001,5.344396057,95.0,71.0,,,,,,,,6,18,12,
-UBCO,2015,W,ANTH,355,,OVERALL,Ethnography of Development,,43,82.09302325600001,5.344396057,95.0,71.0,,,,,,,,6,18,12,
-UBCO,2015,W,ANTH,369,,001,Historical Archaeology,Diana French,18,72.611111111,8.520831835,85.0,50.0,,,,,,,,,,,
-UBCO,2015,W,ANTH,369,,OVERALL,Historical Archaeology,,18,72.611111111,8.520831835,85.0,50.0,,,,,,,,,,,
+UBCO,2015,W,ANTH,353,,001,Ethnography of India,David Geary,40,77.775,10.082957187,88.0,24.0,,,,,,,,10,14,8,0
+UBCO,2015,W,ANTH,353,,OVERALL,Ethnography of India,,40,77.775,10.082957187,88.0,24.0,,,,,,,,10,14,8,0
+UBCO,2015,W,ANTH,355,,001,Ethnography of Development,Matt Husain,43,82.093023256,5.344396057,95.0,71.0,0,0,0,0,0,,,6,18,12,
+UBCO,2015,W,ANTH,355,,OVERALL,Ethnography of Development,,43,82.093023256,5.344396057,95.0,71.0,0,0,0,0,0,,,6,18,12,
+UBCO,2015,W,ANTH,369,,001,Historical Archaeology,Diana French,18,72.611111111,8.520831835,85.0,50.0,0,,,,,,,,,,0
+UBCO,2015,W,ANTH,369,,OVERALL,Historical Archaeology,,18,72.611111111,8.520831835,85.0,50.0,0,,,,,,,,,,0
 UBCO,2015,W,ANTH,370,,001,"Morphology, Syntax, and Semantics",Terri Everest,22,79.681818182,17.219552463,99.0,33.0,,,,,,,,,,,8
 UBCO,2015,W,ANTH,370,,OVERALL,"Morphology, Syntax, and Semantics",,22,79.681818182,17.219552463,99.0,33.0,,,,,,,,,,,8
 UBCO,2015,W,ANTH,400,,001,History of Anthropology,Hugo De Burgos,30,76.4,14.810527477,92.0,13.0,,,,,,,,7,8,5,
 UBCO,2015,W,ANTH,400,,OVERALL,History of Anthropology,,30,76.4,14.810527477,92.0,13.0,,,,,,,,7,8,5,
-UBCO,2015,W,ANTH,403,M,001,Ethnography of Special Areas,R Robin Dods,14,75.571428571,8.820555413,88.0,60.0,,,,,,,,,,,
-UBCO,2015,W,ANTH,403,M,OVERALL,Ethnography of Special Areas,,14,75.571428571,8.820555413,88.0,60.0,,,,,,,,,,,
+UBCO,2015,W,ANTH,403,M,001,Ethnography of Special Areas,R Robin Dods,14,75.571428571,8.820555413,88.0,60.0,0,0,0,,,,,,,,0
+UBCO,2015,W,ANTH,403,M,OVERALL,Ethnography of Special Areas,,14,75.571428571,8.820555413,88.0,60.0,0,0,0,,,,,,,,0
 UBCO,2015,W,ANTH,407,,001,Principles of Field Work,David Geary,25,75.96,13.743119491,94.0,23.0,,,,,,,,8,8,,
 UBCO,2015,W,ANTH,407,,OVERALL,Principles of Field Work,,25,75.96,13.743119491,94.0,23.0,,,,,,,,8,8,,
 UBCO,2015,W,ANTH,409,D,001,Topics in Applied Anthropology,Eva Marie Kovacs-Kowalke,25,84.0,18.794946129,93.0,0.0,,,,,,,,,,9,12
 UBCO,2015,W,ANTH,409,D,OVERALL,Topics in Applied Anthropology,,25,84.0,18.794946129,93.0,0.0,,,,,,,,,,9,12
 UBCO,2015,W,ANTH,416,,001,Anthropology of Tourism,David Geary,40,75.775,15.515893423,92.0,0.0,,,,,,,5,16,9,5,
 UBCO,2015,W,ANTH,416,,OVERALL,Anthropology of Tourism,,40,75.775,15.515893423,92.0,0.0,,,,,,,5,16,9,5,
-UBCO,2015,W,ANTH,430,,001,Anthropology of Mortuary Ritual,Tatiana Nomokonova,40,78.6,12.023054775999999,98.0,50.0,,,,,,7,,,7,9,7
-UBCO,2015,W,ANTH,430,,OVERALL,Anthropology of Mortuary Ritual,,40,78.6,12.023054775999999,98.0,50.0,,,,,,7,,,7,9,7
+UBCO,2015,W,ANTH,430,,001,Anthropology of Mortuary Ritual,Tatiana Nomokonova,40,78.6,12.023054776,98.0,50.0,0,,,,,7,,,7,9,7
+UBCO,2015,W,ANTH,430,,OVERALL,Anthropology of Mortuary Ritual,,40,78.6,12.023054776,98.0,50.0,0,,,,,7,,,7,9,7
 UBCO,2015,W,ANTH,460,,001,Paleoethnobotany,Judy Van Roggen,9,72.111111111,38.882658231,100.0,0.0,,,,,,,,,,,
 UBCO,2015,W,ANTH,460,,OVERALL,Paleoethnobotany,,9,72.111111111,38.882658231,100.0,0.0,,,,,,,,,,,
 UBCO,2015,W,ANTH,473,,001,Endangered Languages,Natalie Chambers,30,76.766666667,14.185187353,94.0,32.0,,,,,,,,,7,5,5
 UBCO,2015,W,ANTH,473,,OVERALL,Endangered Languages,,30,76.766666667,14.185187353,94.0,32.0,,,,,,,,,7,5,5
-UBCO,2015,W,ANTH,490,L,001,Topics in Anthropology,Mary Stockdale,22,77.909090909,22.730112376999998,93.0,0.0,,,,,,,,,,7,5
-UBCO,2015,W,ANTH,490,L,OVERALL,Topics in Anthropology,,22,77.909090909,22.730112376999998,93.0,0.0,,,,,,,,,,7,5
-UBCO,2015,W,ANTH,490,M,001,Topics in Anthropology,Tatiana Nomokonova,20,83.8,12.024536319000001,100.0,64.0,,,,,,,,,,,9
-UBCO,2015,W,ANTH,490,M,OVERALL,Topics in Anthropology,,20,83.8,12.024536319000001,100.0,64.0,,,,,,,,,,,9
+UBCO,2015,W,ANTH,490,L,001,Topics in Anthropology,Mary Stockdale,22,77.909090909,22.730112377,93.0,0.0,,,,,,,,,,7,5
+UBCO,2015,W,ANTH,490,L,OVERALL,Topics in Anthropology,,22,77.909090909,22.730112377,93.0,0.0,,,,,,,,,,7,5
+UBCO,2015,W,ANTH,490,M,001,Topics in Anthropology,Tatiana Nomokonova,20,83.8,12.024536319,100.0,64.0,0,0,0,0,,,,,,,9
+UBCO,2015,W,ANTH,490,M,OVERALL,Topics in Anthropology,,20,83.8,12.024536319,100.0,64.0,0,0,0,0,,,,,,,9

@@ -1,19 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,S,SOWK,316,,921,"Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,7,84.857142857,2.911389784,90.0,81.0,,,,,,,,,,,
-UBCV,2016,S,SOWK,316,,OVERALL,"Integrative Seminar in Social Work Theory, Policy and Practice",,7,84.857142857,2.911389784,90.0,81.0,,,,,,,,,,,
-UBCV,2016,S,SOWK,440,H,921,Integrative Seminars in Social Work,Margaret Wright,18,84.777777778,7.312805493,94.0,62.0,,,,,,,,,,9,
-UBCV,2016,S,SOWK,440,H,OVERALL,Integrative Seminars in Social Work,,18,84.777777778,7.312805493,94.0,62.0,,,,,,,,,,9,
-UBCV,2016,S,SOWK,440,M,001,Integrative Seminars in Social Work,Shelly Johnson,9,88.0,0.0,88.0,88.0,,,,,,,,,,9,
-UBCV,2016,S,SOWK,440,M,OVERALL,Integrative Seminars in Social Work,,9,88.0,0.0,88.0,88.0,,,,,,,,,,9,
-UBCV,2016,S,SOWK,440,R,921,Integrative Seminars in Social Work,Sheila Marshall,6,85.5,3.271085447,90.0,81.0,,,,,,,,,,,
-UBCV,2016,S,SOWK,440,R,OVERALL,Integrative Seminars in Social Work,,6,85.5,3.271085447,90.0,81.0,,,,,,,,,,,
-UBCV,2016,S,SOWK,452,,921,HIV Prevention and Care,Jonathan Postnikoff;Mary Petty,32,89.40625,3.5273985210000003,95.0,81.0,,,,,,,,,,12,17
-UBCV,2016,S,SOWK,452,,OVERALL,HIV Prevention and Care,,32,89.40625,3.5273985210000003,95.0,81.0,,,,,,,,,,12,17
-UBCV,2016,S,SOWK,526,A,921,Social Work Practice with Individuals and Couples,D Joe Blom,13,88.53846153799999,1.6132464480000002,91.0,86.0,,,,,,,,,,9,
-UBCV,2016,S,SOWK,526,A,OVERALL,Social Work Practice with Individuals and Couples,,13,88.53846153799999,1.6132464480000002,91.0,86.0,,,,,,,,,,9,
-UBCV,2016,S,SOWK,553,C,001,Quantitative Methods in Social Work Research,Sheila Marshall,6,84.166666667,12.122980932,91.0,60.0,,,,,,,,,,,
-UBCV,2016,S,SOWK,553,C,OVERALL,Quantitative Methods in Social Work Research,,6,84.166666667,12.122980932,91.0,60.0,,,,,,,,,,,
-UBCV,2016,S,SOWK,559,,943,Advanced Integrative Seminar,Meera Dhebar,7,82.0,5.627314339,90.0,72.0,,,,,,,,,,,
-UBCV,2016,S,SOWK,559,,OVERALL,Advanced Integrative Seminar,,7,82.0,5.627314339,90.0,72.0,,,,,,,,,,,
-UBCV,2016,S,SOWK,570,,942,Directed Studies in Social Work,Deborah O'Connor,5,87.0,0.0,87.0,87.0,,,,,,,,,,5,
-UBCV,2016,S,SOWK,570,,OVERALL,Directed Studies in Social Work,,6,87.833333333,2.041241452,92.0,87.0,,,,,,,,,,5,
+UBCV,2016,S,SOWK,316,,921,"Integrative Seminar in Social Work Theory, Policy and Practice",Eleanor Lipov;Eleanor R Lipov,7,84.85714286,2.911389784,90.0,81.0,0,0,0,0,0,0,0,0.0,4,2,1
+UBCV,2016,S,SOWK,316,,OVERALL,"Integrative Seminar in Social Work Theory, Policy and Practice",,7,84.85714286,2.911389784,90.0,81.0,0,0,0,0,0,0,0,0.0,4,2,1
+UBCV,2016,S,SOWK,440,H,921,Integrative Seminars in Social Work,Margaret Wright,18,84.77777778,7.312805493,94.0,62.0,0,0,0,1,0,0,1,1.0,3,9,3
+UBCV,2016,S,SOWK,440,H,OVERALL,Integrative Seminars in Social Work,,18,84.77777778,7.312805493,94.0,62.0,0,0,0,1,0,0,1,1.0,3,9,3
+UBCV,2016,S,SOWK,440,M,001,Integrative Seminars in Social Work,Shelly Johnson,9,88.0,0.0,88.0,88.0,0,0,0,0,0,0,0,0.0,0,9,0
+UBCV,2016,S,SOWK,440,M,OVERALL,Integrative Seminars in Social Work,,9,88.0,0.0,88.0,88.0,0,0,0,0,0,0,0,0.0,0,9,0
+UBCV,2016,S,SOWK,440,R,921,Integrative Seminars in Social Work,Sheila Marshall,6,85.5,3.271085447,90.0,81.0,0,0,0,0,0,0,0,0.0,2,3,1
+UBCV,2016,S,SOWK,440,R,OVERALL,Integrative Seminars in Social Work,,6,85.5,3.271085447,90.0,81.0,0,0,0,0,0,0,0,0.0,2,3,1
+UBCV,2016,S,SOWK,452,,921,HIV Prevention and Care,Jonathan Postnikoff;Mary Petty,32,89.40625,3.527398521,95.0,81.0,0,0,0,0,0,0,0,0.0,3,12,17
+UBCV,2016,S,SOWK,452,,OVERALL,HIV Prevention and Care,,32,89.40625,3.527398521,95.0,81.0,0,0,0,0,0,0,0,0.0,3,12,17
+UBCV,2016,S,SOWK,526,A,921,Social Work Practice with Individuals and Couples,D Joe Blom,13,88.53846154,1.613246448,91.0,86.0,0,0,0,0,0,0,0,0.0,0,9,4
+UBCV,2016,S,SOWK,526,A,OVERALL,Social Work Practice with Individuals and Couples,,13,88.53846154,1.613246448,91.0,86.0,0,0,0,0,0,0,0,0.0,0,9,4
+UBCV,2016,S,SOWK,553,C,001,Quantitative Methods in Social Work Research,Sheila Marshall,6,84.16666667,12.12298093,91.0,60.0,0,0,0,1,0,0,0,0.0,1,1,3
+UBCV,2016,S,SOWK,553,C,OVERALL,Quantitative Methods in Social Work Research,,6,84.16666667,12.12298093,91.0,60.0,0,0,0,1,0,0,0,0.0,1,1,3
+UBCV,2016,S,SOWK,559,,943,Advanced Integrative Seminar,Meera Dhebar,7,82.0,5.627314339,90.0,72.0,0,0,0,0,0,0,1,0.0,3,2,1
+UBCV,2016,S,SOWK,559,,OVERALL,Advanced Integrative Seminar,,7,82.0,5.627314339,90.0,72.0,0,0,0,0,0,0,1,0.0,3,2,1
+UBCV,2016,S,SOWK,570,,OVERALL,Directed Studies in Social Work,,6,87.83333333,2.041241452,92.0,87.0,0,0,0,0,0,0,0,0.0,0,,

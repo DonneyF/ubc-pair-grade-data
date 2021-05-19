@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,IGEN,201,,001,Integrated Technical Communication,Randall Kerr,51,68.058823529,9.06071027,82.0,47.0,,,7,9,,8,9,7,5,,
-UBCV,2015,W,IGEN,201,,OVERALL,Integrated Technical Communication,,51,68.058823529,9.06071027,82.0,47.0,,,7,9,,8,9,7,5,,
-UBCV,2015,W,IGEN,230,,001,Introduction to Engineering Design,Joseph Yan;Noboru Yonemitsu,56,81.767857143,11.281507107000001,96.0,41.0,,,,,,,,,13,16,12
-UBCV,2015,W,IGEN,230,,OVERALL,Introduction to Engineering Design,,56,81.767857143,11.281507107000001,96.0,41.0,,,,,,,,,13,16,12
-UBCV,2015,W,IGEN,330,,001,Intermediate Engineering Design,Carl Joseph Reilly;Carl Reilly;Daan Maijer,46,77.434782609,10.567564996,94.0,52.0,,,,,,,6,,7,12,
-UBCV,2015,W,IGEN,330,,OVERALL,Intermediate Engineering Design,,46,77.434782609,10.567564996,94.0,52.0,,,,,,,6,,7,12,
-UBCV,2015,W,IGEN,340,,101,Technology Entrepreneurship,Mark Dance,47,83.893617021,8.765629625,97.0,70.0,,,,,,5,8,,12,8,14
-UBCV,2015,W,IGEN,340,,OVERALL,Technology Entrepreneurship,,47,83.893617021,8.765629625,97.0,70.0,,,,,,5,8,,12,8,14
-UBCV,2015,W,IGEN,430,,001,Advanced Engineering Design Projects,Fariborz Taghipour;Reem Roufail;W Scott Dunbar,35,87.62857142899999,4.51198218,95.0,83.0,,,,,,,,,17,8,10
-UBCV,2015,W,IGEN,430,,OVERALL,Advanced Engineering Design Projects,,35,87.62857142899999,4.51198218,95.0,83.0,,,,,,,,,17,8,10
-UBCV,2015,W,IGEN,450,,101,Pipeline Engineering,Dharmapriya Wijewickreme;Edouard Asselin,22,76.409090909,9.678936831,95.0,58.0,,,,,,,6,,,,
-UBCV,2015,W,IGEN,450,,OVERALL,Pipeline Engineering,,22,76.409090909,9.678936831,95.0,58.0,,,,,,,6,,,,
-UBCV,2015,W,IGEN,451,,201,Pipeline Systems and Infrastructure,Dharmapriya Wijewickreme;Edouard Asselin;Jon Mikkelsen;Michael D Isaacson;Patrick Kirchen,18,75.666666667,11.463497054000001,92.0,53.0,,,,,,,,,6,,
-UBCV,2015,W,IGEN,451,,OVERALL,Pipeline Systems and Infrastructure,,18,75.666666667,11.463497054000001,92.0,53.0,,,,,,,,,6,,
-UBCV,2015,W,IGEN,452,,201,Pipeline Design,John Howie;Michael D Isaacson,10,85.6,6.801960502000001,96.0,77.0,,,,,,,,,,,
-UBCV,2015,W,IGEN,452,,OVERALL,Pipeline Design,,10,85.6,6.801960502000001,96.0,77.0,,,,,,,,,,,
+UBCV,2015,W,IGEN,201,,001,Integrated Technical Communication,Randall Kerr,51,68.058823529,9.06071027,82.0,47.0,,,7,9,,8,9,7,5,0,0
+UBCV,2015,W,IGEN,201,,OVERALL,Integrated Technical Communication,,51,68.058823529,9.06071027,82.0,47.0,,,7,9,,8,9,7,5,0,0
+UBCV,2015,W,IGEN,230,,001,Introduction to Engineering Design,Joseph Yan;Noboru Yonemitsu,56,81.767857143,11.281507107,96.0,41.0,,,,,,,,,13,16,12
+UBCV,2015,W,IGEN,230,,OVERALL,Introduction to Engineering Design,,56,81.767857143,11.281507107,96.0,41.0,,,,,,,,,13,16,12
+UBCV,2015,W,IGEN,330,,001,Intermediate Engineering Design,Carl Joseph Reilly;Carl Reilly;Daan Maijer,46,77.434782609,10.567564996,94.0,52.0,0,,,,,,6,,7,12,
+UBCV,2015,W,IGEN,330,,OVERALL,Intermediate Engineering Design,,46,77.434782609,10.567564996,94.0,52.0,0,,,,,,6,,7,12,
+UBCV,2015,W,IGEN,340,,101,Technology Entrepreneurship,Mark Dance,47,83.893617021,8.765629625,97.0,70.0,0,0,0,0,0,5,8,0.0,12,8,14
+UBCV,2015,W,IGEN,340,,OVERALL,Technology Entrepreneurship,,47,83.893617021,8.765629625,97.0,70.0,0,0,0,0,0,5,8,0.0,12,8,14
+UBCV,2015,W,IGEN,430,,001,Advanced Engineering Design Projects,Fariborz Taghipour;Reem Roufail;W Scott Dunbar,35,87.628571429,4.51198218,95.0,83.0,0,0,0,0,0,0,0,0,17,8,10
+UBCV,2015,W,IGEN,430,,OVERALL,Advanced Engineering Design Projects,,35,87.628571429,4.51198218,95.0,83.0,0,0,0,0,0,0,0,0,17,8,10
+UBCV,2015,W,IGEN,450,,101,Pipeline Engineering,Dharmapriya Wijewickreme;Edouard Asselin,22,76.409090909,9.678936831,95.0,58.0,0,0,,,,,6,,,,
+UBCV,2015,W,IGEN,450,,OVERALL,Pipeline Engineering,,22,76.409090909,9.678936831,95.0,58.0,0,0,,,,,6,,,,
+UBCV,2015,W,IGEN,451,,201,Pipeline Systems and Infrastructure,Dharmapriya Wijewickreme;Edouard Asselin;Jon Mikkelsen;Michael D Isaacson;Patrick Kirchen,18,75.666666667,11.463497054,92.0,53.0,0,,,,,,,,6,,
+UBCV,2015,W,IGEN,451,,OVERALL,Pipeline Systems and Infrastructure,,18,75.666666667,11.463497054,92.0,53.0,0,,,,,,,,6,,
+UBCV,2015,W,IGEN,452,,201,Pipeline Design,John Howie;Michael D Isaacson,10,85.6,6.801960502,96.0,77.0,0,0,0,0,0,0,0,,,,
+UBCV,2015,W,IGEN,452,,OVERALL,Pipeline Design,,10,85.6,6.801960502,96.0,77.0,0,0,0,0,0,0,0,,,,

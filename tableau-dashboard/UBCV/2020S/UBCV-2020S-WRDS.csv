@@ -1,24 +1,24 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,S,WRDS,150,A,001,Writing and Research in the Disciplines,Andrew Connolly,29,64.620689655,19.154286714,85.0,0.0,,,,,,5,,,,,
-UBCV,2020,S,WRDS,150,A,002,Writing and Research in the Disciplines,Kirby Mania,26,77.0,6.349803147,87.0,62.0,,,,,,,,5,10,,
-UBCV,2020,S,WRDS,150,A,003,Writing and Research in the Disciplines,Kathleen Fitzpatrick,27,74.444444444,10.039664924,88.0,53.0,,,,,,,,,6,,
-UBCV,2020,S,WRDS,150,A,004,Writing and Research in the Disciplines,Jennifer Cowe,27,66.25925925899999,21.890624253000002,96.0,0.0,5,,,,,,,,,6,
-UBCV,2020,S,WRDS,150,A,005,Writing and Research in the Disciplines,Michael Christian Schandorf,28,75.75,21.132080229,95.0,11.0,,,,,,,,,,9,5
-UBCV,2020,S,WRDS,150,A,OVERALL,Writing and Research in the Disciplines,,137,71.503649635,17.585557279,96.0,0.0,11,7,5,7,10,16,11,16,24,24,6
-UBCV,2020,S,WRDS,150,B,511,Writing and Research in the Disciplines,Susan Blake,29,78.379310345,6.742264314,91.0,60.0,,,,,,,,13,9,,
-UBCV,2020,S,WRDS,150,B,512,Writing and Research in the Disciplines,M.Gillian Carrabre,31,82.870967742,5.358743233,96.0,71.0,,,,,,,,7,8,11,
-UBCV,2020,S,WRDS,150,B,513,Writing and Research in the Disciplines,Sang Yin Wu,30,70.633333333,7.72583366,85.0,52.0,,,,,,7,6,6,,,
-UBCV,2020,S,WRDS,150,B,514,Writing and Research in the Disciplines,Dylan Cree,25,64.52,19.941832079,90.0,0.0,,,,,,,,,5,,
-UBCV,2020,S,WRDS,150,B,520,Writing and Research in the Disciplines,Thomas Andrews,30,74.233333333,9.250100962000001,90.0,50.0,,,,,,,5,7,7,,
-UBCV,2020,S,WRDS,150,B,521,Writing and Research in the Disciplines,Mi-Young Kim,27,73.444444444,8.657292761,90.0,60.0,,,,,,,6,5,5,,
-UBCV,2020,S,WRDS,150,B,522,Writing and Research in the Disciplines,Katja Thieme,28,79.0,10.0884973,88.0,46.0,,,,,,,,,15,6,
-UBCV,2020,S,WRDS,150,B,523,Writing and Research in the Disciplines,Mary Ann Saunders,31,75.290322581,9.910242339,89.0,51.0,,,,,,,,,9,5,
-UBCV,2020,S,WRDS,150,B,524,Writing and Research in the Disciplines,Connor Byrne,30,73.5,8.613341696,90.0,59.0,,,,,5,10,,,6,,
-UBCV,2020,S,WRDS,150,B,551,Writing and Research in the Disciplines,Loren Gaudet,30,73.466666667,7.885968916,86.0,42.0,,,,,,9,5,7,6,,
-UBCV,2020,S,WRDS,150,B,552,Writing and Research in the Disciplines,Dennis Foung,30,71.633333333,19.355981582000002,92.0,3.0,,,,,,,,5,7,,
-UBCV,2020,S,WRDS,150,B,561,Writing and Research in the Disciplines,Meredith Beales,6,79.166666667,3.125166662,84.0,75.0,,,,,,,,,,,
-UBCV,2020,S,WRDS,150,B,562,Writing and Research in the Disciplines,Laila Ferreira,28,73.035714286,5.25273927,81.0,59.0,,,,,,,10,7,,,
-UBCV,2020,S,WRDS,150,B,563,Writing and Research in the Disciplines,Andrew Connolly,29,74.10344827600001,8.969570891,90.0,56.0,,,,5,,,,9,5,,
-UBCV,2020,S,WRDS,150,B,564,Writing and Research in the Disciplines,Tara Lee,30,76.5,8.353194722000001,93.0,61.0,,,,,,7,,8,,,
-UBCV,2020,S,WRDS,150,B,565,Writing and Research in the Disciplines,Michael Christian Schandorf,25,78.52,22.38697538,98.0,11.0,,,,,,,,,,6,9
-UBCV,2020,S,WRDS,150,B,OVERALL,Writing and Research in the Disciplines,,439,74.74943052399999,11.956775019,98.0,0.0,10,9,12,24,27,57,49,85,96,45,25
+UBCV,2020,S,WRDS,150,A,001,Writing and Research in the Disciplines,Andrew Connolly,29,64.62068966,19.15428671,85.0,0.0,3,3,2,3.0,2.0,5,2.0,2,4,3,0
+UBCV,2020,S,WRDS,150,A,002,Writing and Research in the Disciplines,Kirby Mania,26,77.0,6.349803147,87.0,62.0,0,0,0,1.0,2.0,3,3.0,5,10,2,0
+UBCV,2020,S,WRDS,150,A,003,Writing and Research in the Disciplines,Kathleen Fitzpatrick,27,74.44444444,10.03966492,88.0,53.0,0,1,2,2.0,1.0,3,4.0,4,6,4,0
+UBCV,2020,S,WRDS,150,A,004,Writing and Research in the Disciplines,Jennifer Cowe,27,66.25925926,21.89062425,96.0,0.0,5,2,1,1.0,2.0,4,2.0,1,2,6,1
+UBCV,2020,S,WRDS,150,A,005,Writing and Research in the Disciplines,Michael Schandorf,28,76.89285714,20.19596455,95.0,11.0,2,1,0,0.0,3.0,1,0.0,5,2,9,5
+UBCV,2020,S,WRDS,150,A,OVERALL,Writing and Research in the Disciplines,,137,71.73722628,17.42938276,96.0,0.0,10,7,5,7.0,10.0,16,11.0,17,24,24,6
+UBCV,2020,S,WRDS,150,B,511,Writing and Research in the Disciplines,Susan Blake,29,78.37931035,6.742264314,91.0,60.0,0,0,0,2.0,1.0,1,0.0,13,9,1,2
+UBCV,2020,S,WRDS,150,B,512,Writing and Research in the Disciplines,M.Gillian Carrabre,31,82.87096774,5.358743233,96.0,71.0,0,0,0,0.0,0.0,1,1.0,7,8,11,3
+UBCV,2020,S,WRDS,150,B,513,Writing and Research in the Disciplines,Sang Yin Wu,30,70.63333333,7.72583366,85.0,52.0,0,2,1,1.0,4.0,7,6.0,6,2,1,0
+UBCV,2020,S,WRDS,150,B,514,Writing and Research in the Disciplines,Dylan Cree,25,64.52,19.94183208,90.0,0.0,4,1,2,3.0,3.0,2,1.0,2,5,1,1
+UBCV,2020,S,WRDS,150,B,520,Writing and Research in the Disciplines,Thomas Andrews,30,74.23333333,9.250100962,90.0,50.0,0,1,2,2.0,1.0,3,5.0,7,7,1,1
+UBCV,2020,S,WRDS,150,B,521,Writing and Research in the Disciplines,Mi-Young Kim,27,73.44444444,8.657292761,90.0,60.0,0,0,0,4.0,4.0,1,6.0,5,5,1,1
+UBCV,2020,S,WRDS,150,B,522,Writing and Research in the Disciplines,Katja Thieme,28,79.0,10.0884973,88.0,46.0,1,0,2,0.0,0.0,1,1.0,2,15,6,0
+UBCV,2020,S,WRDS,150,B,523,Writing and Research in the Disciplines,Mary Ann Saunders,31,75.29032258,9.910242339,89.0,51.0,0,1,1,4.0,0.0,4,4.0,3,9,5,0
+UBCV,2020,S,WRDS,150,B,524,Writing and Research in the Disciplines,Connor Byrne,30,73.5,8.613341696,90.0,59.0,0,0,1,1.0,5.0,10,2.0,1,6,3,1
+UBCV,2020,S,WRDS,150,B,551,Writing and Research in the Disciplines,Loren Gaudet,30,73.46666667,7.885968916,86.0,42.0,1,0,0,0.0,1.0,9,5.0,7,6,1,0
+UBCV,2020,S,WRDS,150,B,552,Writing and Research in the Disciplines,Dennis Foung;Kin Wai Dennis Foung,30,71.63333333,19.35598158,92.0,3.0,2,4,0,0.0,2.0,2,2.0,5,7,4,2
+UBCV,2020,S,WRDS,150,B,561,Writing and Research in the Disciplines,Meredith Beales,27,79.48148148,3.856765987,85.0,72.0,0,0,0,0.0,0.0,0,6.0,6,13,2,0
+UBCV,2020,S,WRDS,150,B,562,Writing and Research in the Disciplines,Laila Ferreira,28,73.03571429,5.25273927,81.0,59.0,0,0,1,0.0,3.0,4,10.0,7,3,0,0
+UBCV,2020,S,WRDS,150,B,563,Writing and Research in the Disciplines,Andrew Connolly,29,74.10344828,8.969570891,90.0,56.0,0,0,1,5.0,2.0,1,2.0,9,5,3,1
+UBCV,2020,S,WRDS,150,B,564,Writing and Research in the Disciplines,Tara Lee,30,76.5,8.353194722,93.0,61.0,0,0,0,2.0,1.0,7,3.0,8,4,1,4
+UBCV,2020,S,WRDS,150,B,565,Writing and Research in the Disciplines,Michael Schandorf,24,81.29166667,17.96005027,98.0,11.0,1,0,1,0.0,0.0,4,0.0,0,3,6,9
+UBCV,2020,S,WRDS,150,B,OVERALL,Writing and Research in the Disciplines,,459,75.10675381,11.39291984,98.0,0.0,9,9,12,24.0,27.0,57,54.0,88,107,47,25

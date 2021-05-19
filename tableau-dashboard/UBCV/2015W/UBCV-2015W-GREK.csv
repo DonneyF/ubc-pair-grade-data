@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,GREK,101,,001,First-Year Ancient Greek I,Shelley Reid,18,78.222222222,14.36317004,99.0,50.0,,,,,,5,,,,,7
-UBCV,2015,W,GREK,101,,OVERALL,First-Year Ancient Greek I,,18,78.222222222,14.36317004,99.0,50.0,,,,,,5,,,,,7
-UBCV,2015,W,GREK,102,,001,First-Year Ancient Greek II,Shelley Reid,10,70.4,17.652195330999998,99.0,37.0,,,,,,,,,,,
-UBCV,2015,W,GREK,102,,OVERALL,First-Year Ancient Greek II,,10,70.4,17.652195330999998,99.0,37.0,,,,,,,,,,,
-UBCV,2015,W,GREK,201,,001,Second-Year Ancient Greek I,Shelley Reid,12,77.333333333,7.364945637000001,89.0,68.0,,,,,,,,,,,
-UBCV,2015,W,GREK,201,,OVERALL,Second-Year Ancient Greek I,,12,77.333333333,7.364945637000001,89.0,68.0,,,,,,,,,,,
-UBCV,2015,W,GREK,202,,001,Second-Year Ancient Greek II,Shelley Reid,11,75.727272727,8.379628979,85.0,56.0,,,,,,,,,,,
-UBCV,2015,W,GREK,202,,OVERALL,Second-Year Ancient Greek II,,11,75.727272727,8.379628979,85.0,56.0,,,,,,,,,,,
-UBCV,2015,W,GREK,502,A,001,Greek Verse,Christopher Warren Marshall,5,89.2,4.7644517,93.0,81.0,,,,,,,,,,,
-UBCV,2015,W,GREK,502,A,OVERALL,Greek Verse,,5,89.2,4.7644517,93.0,81.0,,,,,,,,,,,
+UBCV,2015,W,GREK,101,,001,First-Year Ancient Greek I,Shelley Reid,18,78.222222222,14.36317004,99.0,50.0,0,,,,,5,,,,,7
+UBCV,2015,W,GREK,101,,OVERALL,First-Year Ancient Greek I,,18,78.222222222,14.36317004,99.0,50.0,0,,,,,5,,,,,7
+UBCV,2015,W,GREK,102,,001,First-Year Ancient Greek II,Shelley Reid,10,70.4,17.652195331,99.0,37.0,,,,,,,,,,,
+UBCV,2015,W,GREK,102,,OVERALL,First-Year Ancient Greek II,,10,70.4,17.652195331,99.0,37.0,,,,,,,,,,,
+UBCV,2015,W,GREK,201,,001,Second-Year Ancient Greek I,Shelley Reid,12,77.333333333,7.364945637,89.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2015,W,GREK,201,,OVERALL,Second-Year Ancient Greek I,,12,77.333333333,7.364945637,89.0,68.0,0,0,0,0,0,,,,,,0
+UBCV,2015,W,GREK,202,,001,Second-Year Ancient Greek II,Shelley Reid,11,75.727272727,8.379628979,85.0,56.0,0,0,,,,,,,,,0
+UBCV,2015,W,GREK,202,,OVERALL,Second-Year Ancient Greek II,,11,75.727272727,8.379628979,85.0,56.0,0,0,,,,,,,,,0
+UBCV,2015,W,GREK,502,A,001,Greek Verse,Christopher Warren Marshall,5,89.2,4.7644517,93.0,81.0,0,0,0,0,0,0,0,0,,,
+UBCV,2015,W,GREK,502,A,OVERALL,Greek Verse,,5,89.2,4.7644517,93.0,81.0,0,0,0,0,0,0,0,0,,,

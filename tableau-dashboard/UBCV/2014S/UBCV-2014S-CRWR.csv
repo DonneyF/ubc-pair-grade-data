@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2014,S,CRWR,200,,001,Introduction to Creative Writing,Timothy Taylor,106,80.03773585,8.645312001,94.0,55.0,,,,,,5,12,15,26,27,10
-UBCV,2014,S,CRWR,200,,OVERALL,Introduction to Creative Writing,,106,80.03773585,8.645312001,94.0,55.0,,,,,,5,12,15,26,27,10
-UBCV,2014,S,CRWR,213,,OVERALL,Introduction to Writing for the New Media,,110,82.53636364,7.542755529,98.0,65.0,,,,,,7,6,22,23,29,19
-UBCV,2014,S,CRWR,213,,S01,Introduction to Writing for the New Media,Jacqueline Wong,110,82.53636364,7.542755529,98.0,65.0,,,,,,7,6,22,23,29,19
-UBCV,2014,S,CRWR,501,F,D01,Advanced Writing of Poetry I,Susan Musgrave,10,92.8,2.616188916,97.0,88.0,,,,,,,,,,,9
-UBCV,2014,S,CRWR,501,F,OVERALL,Advanced Writing of Poetry I,,19,92.47368421,2.480331991,97.0,88.0,,,,,,,,,,,17
-UBCV,2014,S,CRWR,503,F,D01,Advanced Writing for Children I,Annabel Lyon,9,94.77777778,1.201850425,97.0,93.0,,,,,,,,,,,9
-UBCV,2014,S,CRWR,503,F,OVERALL,Advanced Writing for Children I,,11,94.54545455,1.213559752,97.0,93.0,,,,,,,,,,,11
-UBCV,2014,S,CRWR,505,F,D01,Advanced Writing of Creative Non-Fiction I,Albert Wayne Grady,8,93.125,1.246423455,95.0,92.0,,,,,,,,,,,8
-UBCV,2014,S,CRWR,505,F,OVERALL,Advanced Writing of Creative Non-Fiction I,,8,93.125,1.246423455,95.0,92.0,,,,,,,,,,,8
-UBCV,2014,S,CRWR,506,F,D01,Advanced Writing of Drama for Screen I,Sara Graefe,5,93.0,1.0,94.0,92.0,,,,,,,,,,,5
-UBCV,2014,S,CRWR,506,F,OVERALL,Advanced Writing of Drama for Screen I,,8,93.0,0.9258200999999999,94.0,92.0,,,,,,,,,,,8
-UBCV,2014,S,CRWR,509,F,D01,Advanced Writing of Fiction I,Nancy Lee,6,93.16666667,0.752772653,94.0,92.0,,,,,,,,,,,6
-UBCV,2014,S,CRWR,509,F,D02,Advanced Writing of Fiction I,,5,91.2,2.28035085,94.0,88.0,,,,,,,,,,,10
-UBCV,2014,S,CRWR,509,F,OVERALL,Advanced Writing of Fiction I,,17,92.88235294,2.117851297,96.0,88.0,,,,,,,,,,,16
-UBCV,2014,S,CRWR,599,,OVERALL,Thesis,,10,94.2,1.475729575,96.0,91.0,,,,,,,,,,,10
+UBCV,2014,S,CRWR,200,,001,Introduction to Creative Writing,Timothy Taylor,106,80.03773585,8.645312001,94.0,55.0,0,0,,,,5,12,15,26,27.0,10
+UBCV,2014,S,CRWR,200,,OVERALL,Introduction to Creative Writing,,106,80.03773585,8.645312001,94.0,55.0,0,0,,,,5,12,15,26,27.0,10
+UBCV,2014,S,CRWR,213,,OVERALL,Introduction to Writing for the New Media,,110,82.53636364,7.542755529,98.0,65.0,0,0,0,0,4.0,7,6,22,23,29.0,19
+UBCV,2014,S,CRWR,213,,S01,Introduction to Writing for the New Media,Jacqueline Wong,110,82.53636364,7.542755529,98.0,65.0,0,0,0,0,4.0,7,6,22,23,29.0,19
+UBCV,2014,S,CRWR,501,F,D01,Advanced Writing of Poetry I,Susan Musgrave,10,92.8,2.616188916,97.0,88.0,0,0,0,0,0,0,0,0,0,1.0,9
+UBCV,2014,S,CRWR,501,F,OVERALL,Advanced Writing of Poetry I,,19,92.47368421,2.480331991,97.0,88.0,0,0,0,0,0,0,0,0,0,2.0,17
+UBCV,2014,S,CRWR,503,F,D01,Advanced Writing for Children I,Annabel Lyon,9,94.77777778,1.201850425,97.0,93.0,0,0,0,0,0,0,0,0,0,0.0,9
+UBCV,2014,S,CRWR,503,F,OVERALL,Advanced Writing for Children I,,11,94.54545455,1.213559752,97.0,93.0,0,0,0,0,0,0,0,0,0,0.0,11
+UBCV,2014,S,CRWR,505,F,D01,Advanced Writing of Creative Non-Fiction I,Albert Wayne Grady,8,93.125,1.246423455,95.0,92.0,0,0,0,0,0,0,0,0,0,0.0,8
+UBCV,2014,S,CRWR,505,F,OVERALL,Advanced Writing of Creative Non-Fiction I,,8,93.125,1.246423455,95.0,92.0,0,0,0,0,0,0,0,0,0,0.0,8
+UBCV,2014,S,CRWR,506,F,D01,Advanced Writing of Drama for Screen I,Sara Graefe,5,93.0,1.0,94.0,92.0,0,0,0,0,0,0,0,0,0,0.0,5
+UBCV,2014,S,CRWR,506,F,OVERALL,Advanced Writing of Drama for Screen I,,8,93.0,0.9258201,94.0,92.0,0,0,0,0,0,0,0,0,0,0.0,8
+UBCV,2014,S,CRWR,509,F,D01,Advanced Writing of Fiction I,Nancy Lee,6,93.16666667,0.752772653,94.0,92.0,0,0,0,0,0,0,0,0,0,0.0,6
+UBCV,2014,S,CRWR,509,F,D02,Advanced Writing of Fiction I,,5,91.2,2.28035085,94.0,88.0,0,0,0,0,0,0,0,0,0,1.0,10
+UBCV,2014,S,CRWR,509,F,OVERALL,Advanced Writing of Fiction I,,17,92.88235294,2.117851297,96.0,88.0,0,0,0,0,0,0,0,0,0,1.0,16
+UBCV,2014,S,CRWR,599,,OVERALL,Thesis,,10,94.2,1.475729575,96.0,91.0,0,0,0,0,0,0,0,0,0,0.0,10

@@ -1,21 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,GPP,501,,001,Microeconomic Analysis for Public Policy,Nancy Gallini,17,82.823529412,4.156851184,91.0,76.0,,,,,,,,,8,5,
-UBCV,2015,W,GPP,501,,OVERALL,Microeconomic Analysis for Public Policy,,17,82.823529412,4.156851184,91.0,76.0,,,,,,,,,8,5,
-UBCV,2015,W,GPP,502,,001,International Macroeconomics,Amartya Lahiri,16,81.5625,7.907538597,100.0,70.0,,,,,,,,,,,
-UBCV,2015,W,GPP,502,,OVERALL,International Macroeconomics,,16,81.5625,7.907538597,100.0,70.0,,,,,,,,,,,
-UBCV,2015,W,GPP,503,,001,Measurement and Data Analysis for Policy,Araceli Cruz;Kai Ostwald,15,87.46666666700001,3.270357487,95.0,83.0,,,,,,,,,,9,
-UBCV,2015,W,GPP,503,,OVERALL,Measurement and Data Analysis for Policy,,15,87.46666666700001,3.270357487,95.0,83.0,,,,,,,,,,9,
-UBCV,2015,W,GPP,504,,001,Policy Analysis and Evaluation,Araceli Cruz,15,85.6,0.828078671,87.0,85.0,,,,,,,,,,15,
-UBCV,2015,W,GPP,504,,OVERALL,Policy Analysis and Evaluation,,15,85.6,0.828078671,87.0,85.0,,,,,,,,,,15,
-UBCV,2015,W,GPP,505,,001,Domestic and Global Policy Process,Kai Ostwald;Yves Tiberghien,17,84.764705882,2.13686136,88.0,81.0,,,,,,,,,6,11,
-UBCV,2015,W,GPP,505,,OVERALL,Domestic and Global Policy Process,,17,84.764705882,2.13686136,88.0,81.0,,,,,,,,,6,11,
-UBCV,2015,W,GPP,506,,001,Public Management,Allan Tupper,15,82.333333333,2.870208222,87.0,77.0,,,,,,,,,9,5,
-UBCV,2015,W,GPP,506,,OVERALL,Public Management,,15,82.333333333,2.870208222,87.0,77.0,,,,,,,,,9,5,
-UBCV,2015,W,GPP,507,,001,Environmental Law and Policy Frameworks,David Boyd,11,82.090909091,4.678772178,90.0,74.0,,,,,,,,,6,,
-UBCV,2015,W,GPP,507,,OVERALL,Environmental Law and Policy Frameworks,,11,82.090909091,4.678772178,90.0,74.0,,,,,,,,,6,,
-UBCV,2015,W,GPP,508,,001,Philosophical and Ethical Foundations for Public Policy,Timothy Cheek;Tsering Shakya,5,84.0,2.236067977,85.0,80.0,,,,,,,,,,,
-UBCV,2015,W,GPP,508,,OVERALL,Philosophical and Ethical Foundations for Public Policy,,5,84.0,2.236067977,85.0,80.0,,,,,,,,,,,
-UBCV,2015,W,GPP,509,,001,Communicating Policy,Julian Dierkes,16,85.4375,3.285701346,89.0,79.0,,,,,,,,,6,9,
-UBCV,2015,W,GPP,509,,OVERALL,Communicating Policy,,16,85.4375,3.285701346,89.0,79.0,,,,,,,,,6,9,
-UBCV,2015,W,GPP,591,A,001,Special Topics in Public Policy,Taylor Owen,28,93.035714286,3.501133603,97.0,81.0,,,,,,,,,,,26
-UBCV,2015,W,GPP,591,A,OVERALL,Special Topics in Public Policy,,28,93.035714286,3.501133603,97.0,81.0,,,,,,,,,,,26
+UBCV,2015,W,GPP,501,,001,Microeconomic Analysis for Public Policy,Nancy Gallini,17,82.823529412,4.156851184,91.0,76.0,0,0,0,0,0,0,0,,8,5,
+UBCV,2015,W,GPP,501,,OVERALL,Microeconomic Analysis for Public Policy,,17,82.823529412,4.156851184,91.0,76.0,0,0,0,0,0,0,0,,8,5,
+UBCV,2015,W,GPP,502,,001,International Macroeconomics,Amartya Lahiri,16,81.5625,7.907538597,100.0,70.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,GPP,502,,OVERALL,International Macroeconomics,,16,81.5625,7.907538597,100.0,70.0,0,0,0,0,0,,,,,,
+UBCV,2015,W,GPP,503,,001,Measurement and Data Analysis for Policy,Araceli Cruz;Kai Ostwald,15,87.466666667,3.270357487,95.0,83.0,0,0,0,0,0,0,0,0,,9,
+UBCV,2015,W,GPP,503,,OVERALL,Measurement and Data Analysis for Policy,,15,87.466666667,3.270357487,95.0,83.0,0,0,0,0,0,0,0,0,,9,
+UBCV,2015,W,GPP,504,,001,Policy Analysis and Evaluation,Araceli Cruz,15,85.6,0.828078671,87.0,85.0,0,0,0,0,0,0,0,0,0,15,0
+UBCV,2015,W,GPP,504,,OVERALL,Policy Analysis and Evaluation,,15,85.6,0.828078671,87.0,85.0,0,0,0,0,0,0,0,0,0,15,0
+UBCV,2015,W,GPP,505,,001,Domestic and Global Policy Process,Kai Ostwald;Yves Tiberghien,17,84.764705882,2.13686136,88.0,81.0,0,0,0,0,0,0,0,0,6,11,0
+UBCV,2015,W,GPP,505,,OVERALL,Domestic and Global Policy Process,,17,84.764705882,2.13686136,88.0,81.0,0,0,0,0,0,0,0,0,6,11,0
+UBCV,2015,W,GPP,506,,001,Public Management,Allan Tupper,15,82.333333333,2.870208222,87.0,77.0,0,0,0,0,0,0,0,1.0,9,5,0
+UBCV,2015,W,GPP,506,,OVERALL,Public Management,,15,82.333333333,2.870208222,87.0,77.0,0,0,0,0,0,0,0,1.0,9,5,0
+UBCV,2015,W,GPP,507,,001,Environmental Law and Policy Frameworks,David Boyd,11,82.090909091,4.678772178,90.0,74.0,0,0,0,0,0,0,,,6,,
+UBCV,2015,W,GPP,507,,OVERALL,Environmental Law and Policy Frameworks,,11,82.090909091,4.678772178,90.0,74.0,0,0,0,0,0,0,,,6,,
+UBCV,2015,W,GPP,508,,001,Philosophical and Ethical Foundations for Public Policy,Timothy Cheek;Tsering Shakya,5,84.0,2.236067977,85.0,80.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,GPP,508,,OVERALL,Philosophical and Ethical Foundations for Public Policy,,5,84.0,2.236067977,85.0,80.0,0,0,0,0,0,0,0,0,,,0
+UBCV,2015,W,GPP,509,,001,Communicating Policy,Julian Dierkes,16,85.4375,3.285701346,89.0,79.0,0,0,0,0,0,0,0,1.0,6,9,0
+UBCV,2015,W,GPP,509,,OVERALL,Communicating Policy,,16,85.4375,3.285701346,89.0,79.0,0,0,0,0,0,0,0,1.0,6,9,0
+UBCV,2015,W,GPP,591,A,001,Special Topics in Public Policy,Taylor Owen,28,93.035714286,3.501133603,97.0,81.0,0,0,0,0,0,0,0,0,,,26
+UBCV,2015,W,GPP,591,A,OVERALL,Special Topics in Public Policy,,28,93.035714286,3.501133603,97.0,81.0,0,0,0,0,0,0,0,0,,,26

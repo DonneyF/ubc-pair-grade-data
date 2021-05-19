@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2016,S,SOCI,111,,001,Introduction to Sociology I,Kanchan Sarker,27,74.37037037,11.539724527,100.0,50.0,,,,,,,6,,,,
-UBCO,2016,S,SOCI,111,,OVERALL,Introduction to Sociology I,,27,74.37037037,11.539724527,100.0,50.0,,,,,,,6,,,,
-UBCO,2016,S,SOCI,121,,001,Introduction to Sociology II,Kanchan Sarker,24,77.791666667,10.676993416,95.0,60.0,,,,,,,,,5,,
-UBCO,2016,S,SOCI,121,,OVERALL,Introduction to Sociology II,,24,77.791666667,10.676993416,95.0,60.0,,,,,,,,,5,,
-UBCO,2016,S,SOCI,231,,001,Sociology of Education,Charles Rasi,17,75.411764706,20.594473845,91.0,0.0,,,,,,,,,,,
-UBCO,2016,S,SOCI,231,,OVERALL,Sociology of Education,,17,75.411764706,20.594473845,91.0,0.0,,,,,,,,,,,
-UBCO,2016,S,SOCI,446,,001,Sociology of Sport,Ricardo Trumper,34,77.352941176,6.596061051,87.0,63.0,,,,,,,6,5,10,6,
-UBCO,2016,S,SOCI,446,,OVERALL,Sociology of Sport,,34,77.352941176,6.596061051,87.0,63.0,,,,,,,6,5,10,6,
-UBCO,2016,S,SOCI,468,B,001,Socialization and Education,Patricia Tomic;Tina Marten,25,76.04,5.473268372000001,85.0,64.0,,,,,,,5,8,6,,
-UBCO,2016,S,SOCI,468,B,OVERALL,Socialization and Education,,25,76.04,5.473268372000001,85.0,64.0,,,,,,,5,8,6,,
+UBCO,2016,S,SOCI,111,,001,Introduction to Sociology I,Kanchan Sarker,27,74.37037037,11.53972453,100.0,50.0,0,2,1,1,2,3,6,3,4,2,3
+UBCO,2016,S,SOCI,111,,OVERALL,Introduction to Sociology I,,27,74.37037037,11.53972453,100.0,50.0,0,2,1,1,2,3,6,3,4,2,3
+UBCO,2016,S,SOCI,121,,001,Introduction to Sociology II,Kanchan Sarker,24,77.79166667,10.67699342,95.0,60.0,0,0,0,2,3,1,4,2,5,4,3
+UBCO,2016,S,SOCI,121,,OVERALL,Introduction to Sociology II,,24,77.79166667,10.67699342,95.0,60.0,0,0,0,2,3,1,4,2,5,4,3
+UBCO,2016,S,SOCI,231,,001,Sociology of Education,Charles Rasi,17,75.41176471,20.59447385,91.0,0.0,1,0,0,0,1,0,3,3,4,3,2
+UBCO,2016,S,SOCI,231,,OVERALL,Sociology of Education,,17,75.41176471,20.59447385,91.0,0.0,1,0,0,0,1,0,3,3,4,3,2
+UBCO,2016,S,SOCI,446,,001,Sociology of Sport,Ricardo Trumper,34,77.35294118,6.596061051,87.0,63.0,0,0,0,1,2,4,6,5,10,6,0
+UBCO,2016,S,SOCI,446,,OVERALL,Sociology of Sport,,34,77.35294118,6.596061051,87.0,63.0,0,0,0,1,2,4,6,5,10,6,0
+UBCO,2016,S,SOCI,468,B,001,Socialization and Education,Patricia Tomic;Tina Marten,25,76.04,5.473268372,85.0,64.0,0,0,0,0,2,3,5,8,6,1,0
+UBCO,2016,S,SOCI,468,B,OVERALL,Socialization and Education,,25,76.04,5.473268372,85.0,64.0,0,0,0,0,2,3,5,8,6,1,0

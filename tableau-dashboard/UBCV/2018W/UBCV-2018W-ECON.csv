@@ -1,280 +1,276 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,ECON,101,,001,Principles of Microeconomics,Anichul Khan;Grant Benjamin;Shaoxiong Wang,251,75.470119522,11.70410627,99.0,26.0,4.0,5,17,16,20,24,30,34,43,28,30
-UBCV,2018,W,ECON,101,,002,Principles of Microeconomics,Brian Alexander Irwin;Brian Irwin;Ratna Shrestha;Yau Tung Chan;Yau Tung Thomas Chan,105,73.904761905,15.18699077,95.0,0.0,,8,7,,,14,11,11,20,15,11
-UBCV,2018,W,ECON,101,,003,Principles of Microeconomics,Nisha Malhotra;Sandra Buzinsky,108,77.037037037,12.594262100999998,95.0,20.0,,,,,,7,9,25,20,21,10
+UBCV,2018,W,ECON,101,,001,Principles of Microeconomics,Anichul Khan;Grant Benjamin;Shaoxiong Wang,251,75.47011952,11.70410627,99.0,26.0,4,5,17,16,20,24,30,34,43,28,30
+UBCV,2018,W,ECON,101,,002,Principles of Microeconomics,Brian Alexander Irwin;Brian Irwin;Ratna Shrestha;Yau Tung Chan;Yau Tung Thomas Chan,105,73.90476191,15.18699077,95.0,0.0,2,8,7,3,3,14,11,11,20,15,11
+UBCV,2018,W,ECON,101,,003,Principles of Microeconomics,Nisha Malhotra;Sandra Buzinsky,108,77.03703704,12.5942621,95.0,20.0,4,2,3,3,4,7,9,25,20,21,10
 UBCV,2018,W,ECON,101,,004,Principles of Microeconomics,Henry Siu;Joon Ha Kim;Shuqing Chen;Wai-Ching Alfred Kong,260,68.9,14.22562265,100.0,11.0,22,16,20,27,31,26,29,28,25,23,13
-UBCV,2018,W,ECON,101,,005,Principles of Microeconomics,Denise Cheok;Denise Jia Yuan Cheok;Robert G Gateman;Robert Gateman;Shoumen Mohammed Siddique;Shoumen Siddique,237,69.0,10.686598608999999,88.0,8.0,9,7,22,16,35,38,44,35,23,8,0.0
-UBCV,2018,W,ECON,101,,006,Principles of Microeconomics,Alsu Rakhimova;Jules Boudreau;Liam Macdonald;Robert G Gateman;Robert Gateman;Thomas Mcdowell,441,67.755102041,10.403840093,90.0,0.0,16,15,53,42,83,69,66,47,39,10,1.0
-UBCV,2018,W,ECON,101,,007,Principles of Microeconomics,Jiaxiang Wang;Maria Alejandra Rodriguez Vega;Maria Rodriguez Vega;Robert G Gateman;Robert Gateman,151,68.04635761600001,11.140519287,93.0,33.0,10,7,9,20,26,26,15,10,19,7,2.0
-UBCV,2018,W,ECON,101,,008,Principles of Microeconomics,Anichul Khan;Doga Bilgin;Sandra Buzinsky;Shaoxiong Wang,251,73.629482072,16.341180108,100.0,0.0,16,22,9,15,20,19,26,18,26,36,44
-UBCV,2018,W,ECON,101,,009,Principles of Microeconomics,Monica Sanchez Trujillo;Ratna Shrestha,142,72.669014085,14.444671565,96.0,15.0,5,6,14,9,10,18,17,11,18,17,17
-UBCV,2018,W,ECON,101,,010,Principles of Microeconomics,Anichul Khan;Sydney Larose,118,73.983050847,16.145695121,99.0,13.0,8,4.0,8,8,8,12,7,11,16,16,20
-UBCV,2018,W,ECON,101,,011,Principles of Microeconomics,Chowdbury Mahmoud;Chowdhury Mahmoud;Clive Chapple;Hugh Neary;Matthew O'Brien,116,70.060344828,13.554584524000001,90.0,0.0,8,5,6,7,12,18,17,19,10,11,3.0
-UBCV,2018,W,ECON,101,,012,Principles of Microeconomics,Cheryl Fu;Jingqing Liu,135,72.244444444,12.320027782999999,96.0,25.0,1.0,5,15,9,12,20,21,13,11,10,18
-UBCV,2018,W,ECON,101,,013,Principles of Microeconomics,Clive Chapple;Kaan Yolsever;Mauricio Drelichman;Pietro Montanarella,96,72.3125,12.914547080999998,90.0,28.0,6,,6,8,5,9,19,8,19,13,
-UBCV,2018,W,ECON,101,,OVERALL,Principles of Microeconomics,,2435,71.232032854,13.367658352000001,100.0,0.0,113,104,190,185,272,303,312,276,290,218,172
-UBCV,2018,W,ECON,101,,VM1,Principles of Microeconomics,David Green;Emrul Hasan;Yu Hung Yaow,24,68.875,19.348772570999998,95.0,0.0,,,,,,3,1,6,1,3,
-UBCV,2018,W,ECON,102,,001,Principles of Macroeconomics,Lanny Reuben Zrill;Lanny Zrill;Maria Rodriguez Vega;Michal Szkup;Shuqing Chen,224,69.401785714,13.017724944000001,97.0,8.0,10,10,27,23,24,28,22,25,27,17,11
-UBCV,2018,W,ECON,102,,002,Principles of Macroeconomics,Patrick Baylis;Philip Michael Monagan;Philip Monagan;Wai-Ching Alfred Kong,102,70.019607843,16.247455485,100.0,1.0,10,6,,11,,13,14,11,15,7,7
-UBCV,2018,W,ECON,102,,003,Principles of Macroeconomics,Avery Maloney;Monica Sanchez Trujillo;Ratna Shrestha,270,72.692592593,13.253530803,98.0,35.0,10,13,24,19,23,36,19,20,48,29,29
-UBCV,2018,W,ECON,102,,004,Principles of Macroeconomics,Ratna Shrestha;Shabnam Hossein Khalaj;Yaqing Ye,264,70.181818182,15.12146923,97.0,5.0,11,31,19,20,14,40,23,22,36,24,24
-UBCV,2018,W,ECON,102,,005,Principles of Macroeconomics,Cheryl Roberts;Joon Ha Kim;Qiutong Huang;Wai-Ching Alfred Kong,240,68.158333333,15.222476134,95.0,0.0,17,19,21,22,26,31,26,24,22,20,12
-UBCV,2018,W,ECON,102,,006,Principles of Macroeconomics,Alsu Rakhimova;Denise Cheok;Jiancong Liu;Jiaxiang Wang;Robert G Gateman;Robert Gateman,325,68.784615385,11.854691611,96.0,18.0,18,16,27,31,49,54,35,33,37,17,8
-UBCV,2018,W,ECON,102,,007,Principles of Macroeconomics,Robert G Gateman;Robert Gateman;Thomas Mcdowell;Xinyu Tang,109,68.091743119,14.146417740999999,89.0,0.0,8,5,6,9,16,14,20,15,9,7,0.0
-UBCV,2018,W,ECON,102,,008,Principles of Macroeconomics,Emrul Hasan;Hugh Neary;Nicolas Franz Pattillo,98,79.897959184,11.97548165,100.0,50.0,,,,,8,8,6,14,15,15,23
-UBCV,2018,W,ECON,102,,010,Principles of Macroeconomics,Anichul Khan;Sydney Larose,113,75.566371681,15.330802389,100.0,10.0,5,,10,,9,11,5,16,12,15,23
-UBCV,2018,W,ECON,102,,011,Principles of Macroeconomics,Cheryl Fu;Matthew O'Brien,113,69.51327433600001,17.130859292,94.0,0.0,6,7,9,11,8,14,10,13,12,13,10
-UBCV,2018,W,ECON,102,,012,Principles of Macroeconomics,Cheryl Fu;Jingqing Liu,104,77.048076923,9.417376841,97.0,50.0,,,,,,13,13,18,20,18,10
-UBCV,2018,W,ECON,102,,013,Principles of Macroeconomics,Erin Andra May;Erin May;Henry Siu;Lipeng Li,94,74.106382979,12.040673083,95.0,7.0,,5,,,9,6,17,19,16,10,
-UBCV,2018,W,ECON,102,,OVERALL,Principles of Macroeconomics,,2079,71.062530063,14.208706122999999,100.0,0.0,97,121,160,163,196,269,212,233,272,193,163
-UBCV,2018,W,ECON,102,,VM1,Principles of Macroeconomics,Emrul Hasan;Hugh Neary;Yu Hung Yaow,23,67.739130435,19.122137079,96.0,0.0,,,,,,1,2,3,3,1,
-UBCV,2018,W,ECON,210,,001,Microeconomic Policy,Idaliya Grigoryeva;Robert G Gateman;Robert Gateman,88,72.465909091,8.921044297,93.0,50.0,,,5,5,12,11,14,18,16,,
-UBCV,2018,W,ECON,210,,OVERALL,Microeconomic Policy,,88,72.465909091,8.921044297,93.0,50.0,,,5,5,12,11,14,18,16,,
-UBCV,2018,W,ECON,211,,001,Macroeconomic Policy,Idaliya Grigoryeva;Robert G Gateman;Robert Gateman,54,71.62962963,10.058876295,90.0,37.0,,,,,9,11,9,6,7,,
-UBCV,2018,W,ECON,211,,OVERALL,Macroeconomic Policy,,54,71.62962963,10.058876295,90.0,37.0,,,,,9,11,9,6,7,,
-UBCV,2018,W,ECON,221,,001,Introduction to Strategic Thinking,Jonathan Graves;Kwabena Gyasi-Boateng;Mudassar Ali,95,74.042105263,12.890633074,97.0,11.0,,,,6,,11,19,13,16,9,8
-UBCV,2018,W,ECON,221,,002,Introduction to Strategic Thinking,Hao Li;Qiutong Huang;Zhen Lu,87,61.022988506000004,17.128092667,99.0,0.0,9,16,13,11,10,6,6,7,2,3,4.0
-UBCV,2018,W,ECON,221,,003,Introduction to Strategic Thinking,Jonathan Graves;Kwabena Gyasi-Boateng;Mudassar Ali;Vanessa Alviarez,94,76.606382979,9.182988111,95.0,42.0,,,,5,,12,11,17,27,11,4.0
-UBCV,2018,W,ECON,221,,004,Introduction to Strategic Thinking,Gabriel Brown;Gabriel Moagi Brown;Joshua Catalano;Michael Vaney,84,70.011904762,17.883487738,98.0,10.0,10,5,7,4,4.0,7,9,7,15,6,10
-UBCV,2018,W,ECON,221,,OVERALL,Introduction to Strategic Thinking,,360,70.625,15.635326671,99.0,0.0,23,24,27,26,20,36,45,44,60,29,26
-UBCV,2018,W,ECON,226,,001,Making Sense of Economic Data,Jonathan Graves;Michael Wiebe,50,73.5,16.352307457000002,98.0,13.0,,3,,,,6,6,6,6,6,7
-UBCV,2018,W,ECON,226,,002,Making Sense of Economic Data,Chowdbury Mahmoud;Chowdhury Mahmoud;Hugh Neary;Ronit Mukherji,14,69.5,15.702768007000001,90.0,50.0,,5,,,,1,1,1,4,1,1
-UBCV,2018,W,ECON,226,,OVERALL,Making Sense of Economic Data,,64,72.625,16.175132786,98.0,13.0,,8,,,,7,7,7,10,7,8
-UBCV,2018,W,ECON,234,,001,Wealth and Poverty of Nations,Ahmad Abu Omar;Catherine Douglas;Marcelo Sacchi De Carvalho;Thorsten Rogall,59,75.677966102,13.855710485,96.0,0.0,,,,,,6,13,8,8,9,6
-UBCV,2018,W,ECON,234,,002,Wealth and Poverty of Nations,Hugh Neary;Thorsten Rogall;Vinicius Rodrigues Pecanha,71,80.98591549300001,12.576046344000002,98.0,16.0,,,,,,3,4,8,15,16,17
-UBCV,2018,W,ECON,234,,OVERALL,Wealth and Poverty of Nations,,130,78.576923077,13.385671724000002,98.0,0.0,,,,7,,9,17,16,23,25,23
-UBCV,2018,W,ECON,255,,002,Understanding Globalization,Ashok Kotwal;Tanya Sharma;Tudor David Schlanger;Tudor Schlanger,85,75.6,10.432549796,95.0,47.0,1,4.0,1,5,7,8,13,14,14,13,5
-UBCV,2018,W,ECON,255,,003,Understanding Globalization,Angela Redish;Christina Schwarz;Christina Shuen-Ning Schwarz;Dante Gilbert Zago;Dante Zago;Joseph Xuan Ren Teh;Pei-Tiing Alvin Lin,155,72.974193548,14.176507175,97.0,0.0,5,4.0,5,20,17,13,19,16,27,16,13
-UBCV,2018,W,ECON,255,,OVERALL,Understanding Globalization,,240,73.904166667,13.012834963,97.0,0.0,6,8,6,25,24,21,32,30,41,29,18
-UBCV,2018,W,ECON,301,,001,Intermediate Microeconomic Analysis I,Gustavo Albuquerque;Gustavo Tovar Albuquerque;Michael Vaney,88,68.977272727,17.806738535999997,99.0,15.0,11,7,,,8,10,11,7,9,8,10
-UBCV,2018,W,ECON,301,,002,Intermediate Microeconomic Analysis I,Gustavo Albuquerque;Gustavo Tovar Albuquerque;Sergei Severinov;Xiaojun Guan,93,74.419354839,12.216633867999999,93.0,34.0,,,8,,8,13,9,8,13,19,6
-UBCV,2018,W,ECON,301,,003,Intermediate Microeconomic Analysis I,Sejin Ahn;Wai-Ching Alfred Kong,77,71.12987013,18.301819473,100.0,13.0,6,4.0,5,6,8,5,9,9,12,3,10
-UBCV,2018,W,ECON,301,,005,Intermediate Microeconomic Analysis I,Hao Li;Sergei Severinov,62,77.209677419,11.400513500999999,95.0,47.0,,,,,5,5,5,13,7,10,10
-UBCV,2018,W,ECON,301,,OVERALL,Intermediate Microeconomic Analysis I,,320,72.671875,15.601477592,100.0,13.0,20,16,19,15,29,33,34,37,41,40,36
-UBCV,2018,W,ECON,302,,002,Intermediate Macroeconomic Analysis I,Ali Karimirad;Viktoriya Hnatkovska;Xiaojun Guan,106,77.72641509399999,8.687739602999999,97.0,40.0,1,,,,6,12,18,27,19,8,13
-UBCV,2018,W,ECON,302,,004,Intermediate Macroeconomic Analysis I,Aruni Mitra;Marcelo Sacchi De Carvalho;Wendy Wai Yee Kei,101,67.96039604,13.500311694,97.0,19.0,7,6,11,10,16,11,10,11,9,5,5
-UBCV,2018,W,ECON,302,,005,Intermediate Macroeconomic Analysis I,John Fountain;Nicolas Franz Pattillo,70,70.314285714,17.729483229,95.0,0.0,6,,,,7,5,9,0,22,3,6
-UBCV,2018,W,ECON,302,,OVERALL,Intermediate Macroeconomic Analysis I,,277,72.29241877300001,13.875653018,97.0,0.0,14,11,15,15,29,28,37,38,50,16,24
-UBCV,2018,W,ECON,303,,001,Intermediate Microeconomics II,Chowdbury Mahmoud;Chowdhury Mahmoud;Hugh Neary;Wei Li;Zhen Lu,54,74.962962963,12.860592085999999,92.0,35.0,,,3,,5,,5,9,12,9,3
-UBCV,2018,W,ECON,303,,003,Intermediate Microeconomics II,Leopoldo Millan Gutierre;Wei Li,34,75.176470588,13.329099149000001,96.0,50.0,,,5,,1,,4,2,6,4,5
-UBCV,2018,W,ECON,303,,OVERALL,Intermediate Microeconomics II,,88,75.045454545,12.967606937000001,96.0,35.0,,,8,,6,7,9,11,18,13,8
-UBCV,2018,W,ECON,304,,002,Honours Intermediate Microeconomic Analysis I,Pedro Martins Pessoa;Wei Li,11,78.0,11.532562595,92.0,50.0,,,,,,,,,,,
-UBCV,2018,W,ECON,304,,OVERALL,Honours Intermediate Microeconomic Analysis I,,11,78.0,11.532562595,92.0,50.0,,,,,,,,,,,
-UBCV,2018,W,ECON,305,,002,Honours Intermediate Macroeconomic Analysis I,Michal Szkup;Pedro Martins Pessoa,16,83.875,15.611427438,99.0,32.0,,,,,,,,,,6,6
-UBCV,2018,W,ECON,305,,OVERALL,Honours Intermediate Macroeconomic Analysis I,,16,83.875,15.611427438,99.0,32.0,,,,,,,,,,6,6
-UBCV,2018,W,ECON,306,,001,Honours Intermediate Microeconomics II,Marc-Antoine Laflamme;Michael Peters,15,85.133333333,7.772356387,95.0,72.0,,,,,,,,,,,5
-UBCV,2018,W,ECON,306,,OVERALL,Honours Intermediate Microeconomics II,,15,85.133333333,7.772356387,95.0,72.0,,,,,,,,,,,5
-UBCV,2018,W,ECON,307,,001,Honours Intermediate Macroeconomics II,Jesse Perla;Marc-Antoine Laflamme,14,89.571428571,5.018646549,95.0,79.0,,,,,,,,,,5,7
-UBCV,2018,W,ECON,307,,OVERALL,Honours Intermediate Macroeconomics II,,14,89.571428571,5.018646549,95.0,79.0,,,,,,,,,,5,7
-UBCV,2018,W,ECON,309,,001,Intermediate Open Economy Macroeconomics,Francesco Trebbi;Nadhanael Gemaliel Vimala,82,76.024390244,7.975232664,90.0,56.0,,,,,11,13,7,15,19,11,
-UBCV,2018,W,ECON,309,,OVERALL,Intermediate Open Economy Macroeconomics,,82,76.024390244,7.975232664,90.0,56.0,,,,,11,13,7,15,19,11,
-UBCV,2018,W,ECON,310,,001,Principles of Microeconomics,Liudmyla Markevych;Ratna Shrestha;Tsengunn Enkhbaatar,229,74.100436681,13.183371030999998,96.0,5.0,6,7,13,22,9,37,23,22,36,22,32
-UBCV,2018,W,ECON,310,,OVERALL,Principles of Microeconomics,,229,74.100436681,13.183371030999998,96.0,5.0,6,7,13,22,9,37,23,22,36,22,32
-UBCV,2018,W,ECON,311,,001,Principles of Macroeconomics,Liam Macdonald;Pu Wang;Ratna Shrestha,237,73.358649789,12.472769453,97.0,35.0,3.0,16,12,19,18,35,27,22,32,29,24
-UBCV,2018,W,ECON,311,,OVERALL,Principles of Macroeconomics,,237,73.358649789,12.472769453,97.0,35.0,3.0,16,12,19,18,35,27,22,32,29,24
-UBCV,2018,W,ECON,315,,001,Intermediate Microeconomics I,Clive Chapple;Yaqing Ye,88,73.715909091,9.271075851,93.0,50.0,,,,7,10,14,10,14,18,8,
-UBCV,2018,W,ECON,315,,OVERALL,Intermediate Microeconomics I,,88,73.715909091,9.271075851,93.0,50.0,,,,7,10,14,10,14,18,8,
-UBCV,2018,W,ECON,316,,001,Intermediate Microeconomics II,Il Myoung Hwang;Il Myoung Sam Hwang;Qianli Ma,82,76.390243902,8.772510512,93.0,55.0,,,,6,5,12,12,14,17,8,6
-UBCV,2018,W,ECON,316,,OVERALL,Intermediate Microeconomics II,,82,76.390243902,8.772510512,93.0,55.0,,,,6,5,12,12,14,17,8,6
-UBCV,2018,W,ECON,317,,001,Poverty and Inequality,Catherine Douglas;Yingyi Liang,89,77.60674157300001,14.073361343,98.0,6.0,,,5,,5,7,10,12,12,11,20
-UBCV,2018,W,ECON,317,,002,Poverty and Inequality,David Green;Jackie Lam;Nicole Fortin;Pablo Antonio Gutierrez Cubillos;Pablo Gutierrez Cubillos,88,80.056818182,5.193625524,91.0,66.0,,,0,,1,4,11,21,36,11,4
-UBCV,2018,W,ECON,317,,OVERALL,Poverty and Inequality,,177,78.824858757,10.671108675,98.0,6.0,,,5,,6,11,21,33,48,22,24
-UBCV,2018,W,ECON,318,,001,History and Philosophy of Economics from Aristotle to Adam Smith,Margaret Schabas;Rebecca Livernois,51,71.235294118,13.568475574,86.0,16.0,,,,,5,7,8,13,6,5,
-UBCV,2018,W,ECON,318,,OVERALL,History and Philosophy of Economics from Aristotle to Adam Smith,,51,71.235294118,13.568475574,86.0,16.0,,,,,5,7,8,13,6,5,
-UBCV,2018,W,ECON,319,,001,History and Philosophy of Economics from Ricardo to Keynes,Grant Benjamin;Margaret Schabas,35,72.457142857,14.046860351,87.0,15.0,,,,,,5,6,5,6,6,
-UBCV,2018,W,ECON,319,,OVERALL,History and Philosophy of Economics from Ricardo to Keynes,,35,72.457142857,14.046860351,87.0,15.0,,,,,,5,6,5,6,6,
-UBCV,2018,W,ECON,325,,001,Introduction to Empirical Economics,Erwann Sbai;Wenjun Yang,70,72.542857143,14.79197365,99.0,44.0,4.0,5,5,8,6,8,6,6,3,6,13
-UBCV,2018,W,ECON,325,,002,Introduction to Empirical Economics,Arkadev Ghosh;Chowdhury Mahmoud,75,74.653333333,13.083405348,97.0,45.0,,,8,,5,3,12,10,11,7,11
-UBCV,2018,W,ECON,325,,003,Introduction to Empirical Economics,Chowdhury Mahmoud;Juan Felipe Riano Rodriguez;Juan Riano Rodriguez,70,75.757142857,11.027548789,97.0,50.0,,,2,,8,11,8,11,8,9,8
-UBCV,2018,W,ECON,325,,004,Introduction to Empirical Economics,Michael Vaney;Si Hui Jocelyn Tan,59,69.423728814,15.198914877,98.0,23.0,2.0,6,5,11,5,8,2,1,8,4,7
-UBCV,2018,W,ECON,325,,OVERALL,Introduction to Empirical Economics,,274,73.270072993,13.673322948,99.0,23.0,9,17,20,23,24,30,28,28,30,26,39
-UBCV,2018,W,ECON,326,,002,Methods of Empirical Research in Economics,Florian Hoffmann;Wenjun Yang,76,74.723684211,14.87512347,100.0,6.0,5,,,5,5,8,6,10,19,10,6
-UBCV,2018,W,ECON,326,,003,Methods of Empirical Research in Economics,Chowdhury Mahmoud;Sandra Buzinsky,78,73.82051282100001,20.678581421,100.0,8.0,8,,,5,6,6,6,10,9,7,17
-UBCV,2018,W,ECON,326,,005,Methods of Empirical Research in Economics,Si Hui Jocelyn Tan;Wendy Wai Yee Kei,89,74.247191011,11.163333751,97.0,47.0,1,3.0,6,5,10,9,11,16,11,7,10
-UBCV,2018,W,ECON,326,,OVERALL,Methods of Empirical Research in Economics,,243,74.25925925899999,15.813827335,100.0,6.0,14,8,7,15,21,23,23,36,39,24,33
-UBCV,2018,W,ECON,327,,001,Introduction to Empirical Methods,Hugh Alden Shiplett;Hugh Shiplett;Michael Vaney,87,72.034482759,11.425642596,95.0,38.0,,5,7,6,7,11,12,10,16,7,
-UBCV,2018,W,ECON,327,,OVERALL,Introduction to Empirical Methods,,87,72.034482759,11.425642596,95.0,38.0,,5,7,6,7,11,12,10,16,7,
-UBCV,2018,W,ECON,328,,001,Methods of Empirical Research,Aruni Mitra;Florian Hoffmann;Liudmyla Markevych,82,76.256097561,8.403131362,94.0,58.0,,,,,7,8,17,16,11,13,
-UBCV,2018,W,ECON,328,,OVERALL,Methods of Empirical Research,,82,76.256097561,8.403131362,94.0,58.0,,,,,7,8,17,16,11,13,
-UBCV,2018,W,ECON,334,,003,Economic History of Modern Europe,Benjamin Milner;David Gonzalez Agudo,107,80.271028037,9.081985168,98.0,55.0,,,,,,8,12,19,20,25,14
-UBCV,2018,W,ECON,334,,OVERALL,Economic History of Modern Europe,,107,80.271028037,9.081985168,98.0,55.0,,,,,,8,12,19,20,25,14
-UBCV,2018,W,ECON,335,,003,"Fertility, Families and Human Migration",Arkadev Ghosh;David Gonzalez Agudo,87,80.287356322,7.87387208,95.0,55.0,,,,,,6,11,18,19,15,13
-UBCV,2018,W,ECON,335,,OVERALL,"Fertility, Families and Human Migration",,87,80.287356322,7.87387208,95.0,55.0,,,,,,6,11,18,19,15,13
-UBCV,2018,W,ECON,336,,002,Economic History of Canada,Avery Maloney;Catherine Douglas,50,76.3,12.777930592,93.0,4.0,,,,,,,14,6,11,7,
-UBCV,2018,W,ECON,336,,OVERALL,Economic History of Canada,,50,76.3,12.777930592,93.0,4.0,,,,,,,14,6,11,7,
-UBCV,2018,W,ECON,337,,001,Economic History of the United States,David Gonzalez Agudo;Shoumen Siddique,95,81.778947368,7.203986702999999,97.0,58.0,0.0,0,1,0,2,2,12,21,17,26,14
-UBCV,2018,W,ECON,337,,003,Economic History of the United States,David Gonzalez Agudo;Doga Bilgin,90,71.233333333,15.198351478,100.0,5.0,2.0,9,7,6,10,14,6,8,10,6,12
-UBCV,2018,W,ECON,337,,OVERALL,Economic History of the United States,,185,76.648648649,12.890880279000001,100.0,5.0,2.0,9,8,6,12,16,18,29,27,32,26
-UBCV,2018,W,ECON,339,,001,Economics of Technological Change,Catherine Douglas;Samuel Gyetvay,93,76.569892473,13.042903992000001,95.0,16.0,,,,,6,,14,16,23,17,6
-UBCV,2018,W,ECON,339,,OVERALL,Economics of Technological Change,,93,76.569892473,13.042903992000001,95.0,16.0,,,,,6,,14,16,23,17,6
-UBCV,2018,W,ECON,345,,001,Money and Banking,Anichul Khan;Qirui Cao,144,71.576388889,13.338298536,95.0,9.0,4.0,8,11,15,13,16,17,16,23,9,12
-UBCV,2018,W,ECON,345,,002,Money and Banking,Geoffrey Newman;Nadhanael Gemaliel Vimala;Patrick Baylis,148,68.743243243,15.394195222999999,99.0,0.0,10,6,20,16,15,17,15,10,12,11,16
-UBCV,2018,W,ECON,345,,003,Money and Banking,Geoffrey Newman;Heng Ju;Tsengunn Enkhbaatar,147,68.68707483,17.832478727,97.0,0.0,17,12,5,18,9,16,14,11,17,8,20
-UBCV,2018,W,ECON,345,,005,Money and Banking,Ali Adibnia;Anichul Khan,152,76.546052632,12.854683902,98.0,42.0,4.0,4,6,12,16,12,13,8,24,25,28
-UBCV,2018,W,ECON,345,,OVERALL,Money and Banking,,591,71.426395939,15.283343555,99.0,0.0,35,30,42,61,53,61,59,45,76,53,76
-UBCV,2018,W,ECON,350,,001,Public Finance Policy Topics,Jules Boudreau;Kyungchul Song;Wai-Ching Alfred Kong,77,72.792207792,14.7178174,96.0,12.0,,,6,7,8,6,10,10,11,6,9
-UBCV,2018,W,ECON,350,,OVERALL,Public Finance Policy Topics,,77,72.792207792,14.7178174,96.0,12.0,,,6,7,8,6,10,10,11,6,9
-UBCV,2018,W,ECON,351,,003,Women in the Economy,Ana Palacios;David Green;Gordon Munro;Marina Adshade,71,78.521126761,8.910441956,92.0,50.0,,,,,,8,10,14,13,14,6
-UBCV,2018,W,ECON,351,,OVERALL,Women in the Economy,,71,78.521126761,8.910441956,92.0,50.0,,,,,,8,10,14,13,14,6
-UBCV,2018,W,ECON,355,,001,Introduction to International Trade,Matilde Bombardini;Mengying Wei;Tomasz Swiecki,80,77.2625,9.702855837000001,97.0,53.0,,,2,7,5,8,8,13,17,12,7
-UBCV,2018,W,ECON,355,,002,Introduction to International Trade,Tomasz Swiecki;Yitong Peng,119,73.588235294,14.562205414000001,97.0,17.0,6,5,5,8,7,17,12,14,17,14,14
-UBCV,2018,W,ECON,355,,003,Introduction to International Trade,Mico Rudasingwa;Nisha Malhotra,100,74.57,12.306896318,94.0,43.0,,,8,10,6,11,10,10,16,12,13
-UBCV,2018,W,ECON,355,,004,Introduction to International Trade,Nisha Malhotra;Yitong Peng,119,79.084033613,11.919631885,98.0,35.0,,,5,4,2,9,14,12,23,27,18
-UBCV,2018,W,ECON,355,,005,Introduction to International Trade,Emrul Hasan;Hugh Neary;Ronit Mukherji,56,70.910714286,11.273906777,95.0,41.0,,,6,6,5,8,11,3,8,3,3
-UBCV,2018,W,ECON,355,,OVERALL,Introduction to International Trade,,474,75.47890295399999,12.565960347999999,98.0,17.0,13,11,26,35,25,53,55,52,81,68,55
-UBCV,2018,W,ECON,356,,001,Introduction to International Finance,Federico Guzman;Michal Szkup,100,71.43,16.326377616,100.0,1.0,8,,,11,9,11,12,11,12,8,11
-UBCV,2018,W,ECON,356,,003,Introduction to International Finance,Gordon Munro;Heng Ju;Thorsten Rogall;Yau Tung Chan;Yau Tung Thomas Chan,98,75.795918367,8.702362736,93.0,51.0,,,,4,7,11,16,18,22,11,5
-UBCV,2018,W,ECON,356,,004,Introduction to International Finance,Qirui Cao;Wendy Wai Yee Kei,97,76.350515464,12.096867050999998,96.0,41.0,,,,6,5,12,9,10,18,15,13
-UBCV,2018,W,ECON,356,,005,Introduction to International Finance,Ali Adibnia;Cheryl Roberts;Geoffrey Newman,72,64.319444444,14.80752225,94.0,25.0,6,8,14,9,3,7,6,6,6,5,2
-UBCV,2018,W,ECON,356,,OVERALL,Introduction to International Finance,,367,72.501362398,13.906965400999999,100.0,1.0,16,16,24,30,24,41,43,45,58,39,31
-UBCV,2018,W,ECON,364,A,001,"The Economics of Sustainable Development: Communities, Markets and Technology",Ahmad Abu Omar;Catherine Douglas;David Green;Vinicius Rodrigues Pecanha,29,82.275862069,6.896668718,93.0,65.0,,,,,,,,,11,5,6
-UBCV,2018,W,ECON,364,A,OVERALL,"The Economics of Sustainable Development: Communities, Markets and Technology",,29,82.275862069,6.896668718,93.0,65.0,,,,,,,,,11,5,6
-UBCV,2018,W,ECON,365,,001,Topics in Canadian Industrial Organization and Regulation Policy,Joshua Catalano;Michael Vaney,54,69.518518519,17.201075812,97.0,5.0,,5,,,7,,,7,9,5,
-UBCV,2018,W,ECON,365,,OVERALL,Topics in Canadian Industrial Organization and Regulation Policy,,54,69.518518519,17.201075812,97.0,5.0,,5,,,7,,,7,9,5,
-UBCV,2018,W,ECON,367,,001,Economic Analysis of Law,Liam Macdonald;Robert G Gateman;Robert Gateman,67,73.552238806,8.10589681,95.0,50.0,,,,,10,9,18,9,11,,
-UBCV,2018,W,ECON,367,,OVERALL,Economic Analysis of Law,,67,73.552238806,8.10589681,95.0,50.0,,,,,10,9,18,9,11,,
-UBCV,2018,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Clive Chapple;Kiernan Gange,117,66.717948718,14.920389979000001,99.0,27.0,17,6,13,9,12,14,11,6,16,10,3.0
-UBCV,2018,W,ECON,370,,002,Benefit-Cost Analysis and the Economics of Project Evaluation,Clive Chapple;Qianli Ma,73,75.808219178,9.70632316,99.0,50.0,0,2,4,1,7,6,13,11,16,10,3.0
-UBCV,2018,W,ECON,370,,OVERALL,Benefit-Cost Analysis and the Economics of Project Evaluation,,190,70.210526316,13.862815962,99.0,27.0,17,8,17,10,19,20,24,17,32,20,6
-UBCV,2018,W,ECON,371,,001,Economics of the Environment,Jiawen Wang;Michael Vaney,125,70.888,14.002428361,95.0,9.0,3.0,11,7,8,16,16,17,16,9,13,9
-UBCV,2018,W,ECON,371,,002,Economics of the Environment,Brian Copeland;Jiawen Wang,159,80.729559748,9.618472164,100.0,52.0,0.0,2,2,4,6,13,15,27,32,28,30
-UBCV,2018,W,ECON,371,,OVERALL,Economics of the Environment,,284,76.397887324,12.708756995,100.0,9.0,3.0,13,9,12,22,29,32,43,41,41,39
-UBCV,2018,W,ECON,374,,001,Land Economics,Ana Palacios;Frederik Noack;Sumeet Gulati,99,77.626262626,12.569468888,100.0,40.0,,,,9,7,9,9,13,10,18,18
-UBCV,2018,W,ECON,374,,OVERALL,Land Economics,,99,77.626262626,12.569468888,100.0,40.0,,,,9,7,9,9,13,10,18,18
-UBCV,2018,W,ECON,390,,002,Introduction to Economic Research,Dongxiao Zhang;Wai-Ching Alfred Kong,34,74.147058824,6.933154221000001,90.0,60.0,,,,,,9,7,8,4,1,
-UBCV,2018,W,ECON,390,,003,Introduction to Economic Research,Dongxiao Zhang;Hugh Neary,44,78.136363636,6.879666396,88.0,50.0,,,,,,4,6,11,16,5,
-UBCV,2018,W,ECON,390,,OVERALL,Introduction to Economic Research,,78,76.397435897,7.141136989,90.0,50.0,,,,,,13,13,19,20,6,
-UBCV,2018,W,ECON,406,,002,Topics in Microeconomics,Jonathan Graves,12,75.166666667,20.162220897,91.0,23.0,,,,,,,,,,,
-UBCV,2018,W,ECON,406,,OVERALL,Topics in Microeconomics,,12,75.166666667,20.162220897,91.0,23.0,,,,,,,,,,,
-UBCV,2018,W,ECON,407,,001,Topics in Macroeconomics,Jesse Perla;Paul Schrimpf,20,92.6,4.615762468,100.0,84.0,,,,,,,,,,5,14
-UBCV,2018,W,ECON,407,,OVERALL,Topics in Macroeconomics,,20,92.6,4.615762468,100.0,84.0,,,,,,,,,,5,14
-UBCV,2018,W,ECON,420,,001,Optimization and Economic Theory,Hao Li,12,62.833333333,32.380783677,97.0,1.0,,,,,,,,,,,
-UBCV,2018,W,ECON,420,,OVERALL,Optimization and Economic Theory,,12,62.833333333,32.380783677,97.0,1.0,,,,,,,,,,,
-UBCV,2018,W,ECON,421,,001,Introduction to Game Theory and Applications.,Deivis Angeli;Vitor Farinha Luz,39,76.641025641,16.205079092000002,100.0,11.0,,,,2,2,3,6,5,7,5,6
-UBCV,2018,W,ECON,421,,002,Introduction to Game Theory and Applications.,Anubhav Jha;John Andrew Graham Fountain;John Fountain,34,70.88235294100001,16.214031906,96.0,0.0,,,,6,5,6,4,1,3,4,3
-UBCV,2018,W,ECON,421,,OVERALL,Introduction to Game Theory and Applications.,,73,73.95890411,16.354101045,100.0,0.0,,,,8,7,9,10,6,10,9,9
-UBCV,2018,W,ECON,425,,002,Introduction to Econometrics,Erwann Sbai;Hugh Neary;Samuel Gyetvay,24,70.333333333,20.256328407999998,93.0,9.0,,,,,,0,,,2,6,2
-UBCV,2018,W,ECON,425,,003,Introduction to Econometrics,Denis Kojevnikov;Emrul Hasan,48,84.395833333,8.041751644,98.0,68.0,,,,,,5,,,11,11,14
-UBCV,2018,W,ECON,425,,OVERALL,Introduction to Econometrics,,72,79.708333333,14.842304878,98.0,9.0,,,,,,5,7,5,13,17,16
-UBCV,2018,W,ECON,441,,001,The Process of Economic Development,Patrick Francois;Rogerio Bianchi Santarrosa;Rogerio Santarrosa,63,80.507936508,9.219322304,95.0,42.0,,,,,,6,6,5,23,10,10
-UBCV,2018,W,ECON,441,,002,The Process of Economic Development,Felipe Valencia Caicedo;Gabriel Brown;Gabriel Moagi Brown,43,75.41860465100001,16.236690605,98.0,0.0,,,,,,6,4,7,6,4,7
-UBCV,2018,W,ECON,441,,OVERALL,The Process of Economic Development,,106,78.443396226,12.725737092000001,98.0,0.0,,,,,,12,10,12,29,14,17
-UBCV,2018,W,ECON,442,,001,Issues in Economic Development,Jamie Mccasland;Pedro Martins Pessoa,50,79.44,16.712649493,99.0,0.0,,,,,1,,2,5,8,13,11
-UBCV,2018,W,ECON,442,,002,Issues in Economic Development,German Antonio Vega Acuna;German Vega Acuna;Jamie Mccasland,59,77.983050847,13.438867365,99.0,15.0,,,,,6,,6,6,9,14,8
-UBCV,2018,W,ECON,442,,OVERALL,Issues in Economic Development,,109,78.651376147,14.974902551,99.0,0.0,,,,,7,8,8,11,17,27,19
-UBCV,2018,W,ECON,447,,001,Monetary Theory,Geoffrey Newman;Mengying Wei,17,70.058823529,20.556235636,94.0,8.0,,,,,,,,,,,
-UBCV,2018,W,ECON,447,,OVERALL,Monetary Theory,,17,70.058823529,20.556235636,94.0,8.0,,,,,,,,,,,
-UBCV,2018,W,ECON,451,,001,Economics of Public Expenditures,Wai-Ching Alfred Kong;Yingyi Liang,44,72.045454545,17.654243242,100.0,50.0,,12,,,,,,,,,9
-UBCV,2018,W,ECON,451,,OVERALL,Economics of Public Expenditures,,44,72.045454545,17.654243242,100.0,50.0,,12,,,,,,,,,9
-UBCV,2018,W,ECON,455,,001,International Trade,Federico Guzman;Matilde Bombardini,42,74.0,13.418225683,95.0,34.0,,,,,6,,7,4,9,,
-UBCV,2018,W,ECON,455,,002,International Trade,John Ries;Mico Rudasingwa,42,76.928571429,12.810805,95.0,5.0,,,,,1,,4,12,16,,
-UBCV,2018,W,ECON,455,,OVERALL,International Trade,,84,75.464285714,13.121716047,95.0,5.0,,,,,7,5,11,16,25,7,6
-UBCV,2018,W,ECON,456,,001,International Macroeconomics and Finance,Anand Chopra;Michael Devereux,34,76.558823529,16.385860824,95.0,0.0,1,0.0,0,1,3,4,6,1,6,6,6
-UBCV,2018,W,ECON,456,,002,International Macroeconomics and Finance,Anand Chopra;Viktoriya Hnatkovska,77,69.857142857,13.975273545999999,93.0,21.0,6,4.0,6,7,6,11,8,9,11,4,5
-UBCV,2018,W,ECON,456,,OVERALL,International Macroeconomics and Finance,,111,71.90990991,15.003968899,95.0,0.0,7,4.0,6,8,9,15,14,10,17,10,11
-UBCV,2018,W,ECON,457,,001,Seminar in International Economic Relations,Nisha Malhotra,22,83.045454545,3.7477265839999996,90.0,78.0,,,,,,,,,14,,
-UBCV,2018,W,ECON,457,,OVERALL,Seminar in International Economic Relations,,22,83.045454545,3.7477265839999996,90.0,78.0,,,,,,,,,14,,
-UBCV,2018,W,ECON,465,,001,Market Structure,Il Myoung Hwang;Il Myoung Sam Hwang;Mengying Wei,40,70.275,22.369837178,100.0,1.0,5,,,,,,,,,9,
-UBCV,2018,W,ECON,465,,OVERALL,Market Structure,,40,70.275,22.369837178,100.0,1.0,5,,,,,,,,,9,
-UBCV,2018,W,ECON,466,,001,The Economics of Government Regulation of Business,Michael Vaney,6,81.333333333,11.093541665,94.0,64.0,,,,,,,,,,,
-UBCV,2018,W,ECON,466,,OVERALL,The Economics of Government Regulation of Business,,6,81.333333333,11.093541665,94.0,64.0,,,,,,,,,,,
-UBCV,2018,W,ECON,471,,001,Economics of Nonrenewable Resources,Brian Copeland;Philip Michael Monagan;Philip Monagan,73,80.39726027399999,10.437299201,98.0,51.0,,,,,,7,14,7,14,8,17
-UBCV,2018,W,ECON,471,,OVERALL,Economics of Nonrenewable Resources,,73,80.39726027399999,10.437299201,98.0,51.0,,,,,,7,14,7,14,8,17
-UBCV,2018,W,ECON,472,,002,Economics of Renewable Resources,Gordon Munro;Kiernan Gange,86,72.453488372,13.240452255,96.0,6.0,,,,12,11,12,10,8,7,11,9
-UBCV,2018,W,ECON,472,,OVERALL,Economics of Renewable Resources,,86,72.453488372,13.240452255,96.0,6.0,,,,12,11,12,10,8,7,11,9
-UBCV,2018,W,ECON,485,,001,Political Economy,Rogerio Bianchi Santarrosa;Rogerio Santarrosa;Thorsten Rogall,62,80.774193548,14.104317854000001,99.0,10.0,,,,,,,5,5,15,13,13
-UBCV,2018,W,ECON,485,,OVERALL,Political Economy,,62,80.774193548,14.104317854000001,99.0,10.0,,,,,,,5,5,15,13,13
-UBCV,2018,W,ECON,490,,001,Seminar in Applied Economics,Marina Adshade;Michael Wiebe,12,71.833333333,14.577899421,94.0,39.0,,,,,,,,,,,
-UBCV,2018,W,ECON,490,,002,Seminar in Applied Economics,Michael Wiebe;Wai-Ching Alfred Kong,17,80.11764705899999,6.411730977,93.0,68.0,,,,,,,,5,,,
-UBCV,2018,W,ECON,490,,003,Seminar in Applied Economics,Michael Wiebe;Wai-Ching Alfred Kong,18,76.333333333,6.0,86.0,63.0,,,,,,,,9,,,
-UBCV,2018,W,ECON,490,,004,Seminar in Applied Economics,Marcelo Sacchi De Carvalho;Marina Adshade,13,65.076923077,19.997756284,88.0,23.0,,,,,,,,,,,
-UBCV,2018,W,ECON,490,,005,Seminar in Applied Economics,Jonathan Graves;Marcelo Sacchi De Carvalho,20,81.75,10.891208429,94.0,58.0,,,,,,,,,,5,6
-UBCV,2018,W,ECON,490,,006,Seminar in Applied Economics,Marcelo Sacchi De Carvalho;Nisha Malhotra,19,66.315789474,10.914071607999999,78.0,50.0,,5,,,,,,5,,,
-UBCV,2018,W,ECON,490,,007,Seminar in Applied Economics,Marcelo Sacchi De Carvalho;Michael Vaney,18,81.222222222,8.142521329,94.0,68.0,,,,,,,,,,,
-UBCV,2018,W,ECON,490,,008,Seminar in Applied Economics,Michael Wiebe;Munir Squires,17,76.411764706,18.818404633,89.0,7.0,,,,,,,,,9,,
-UBCV,2018,W,ECON,490,,009,Seminar in Applied Economics,Michael Wiebe;Nisha Malhotra,18,72.166666667,2.74933147,76.0,67.0,,,,,,,12,,,,
-UBCV,2018,W,ECON,490,,011,Seminar in Applied Economics,Lanny Zrill;Marcelo Sacchi De Carvalho,20,71.85,12.227126873,90.0,38.0,,,,,,,6,,,,
-UBCV,2018,W,ECON,490,,012,Seminar in Applied Economics,Jamie Mccasland;Marcelo Sacchi De Carvalho,21,77.095238095,11.335363964,96.0,60.0,,,,,,,,,,,
-UBCV,2018,W,ECON,490,,013,Seminar in Applied Economics,Lanny Zrill;Michael Wiebe,18,72.833333333,15.666562369000001,94.0,40.0,,,,,,,,,,,
-UBCV,2018,W,ECON,490,,014,Seminar in Applied Economics,Jonathan Graves;Michael Wiebe,18,83.277777778,10.323049912,97.0,60.0,,,,,,,,,,,6
-UBCV,2018,W,ECON,490,,015,Seminar in Applied Economics,Michael Wiebe;Thorsten Rogall,19,85.15789473699999,5.510224415,94.0,77.0,,,,,,,,,6,,6
-UBCV,2018,W,ECON,490,,OVERALL,Seminar in Applied Economics,,248,76.141129032,12.727295492,97.0,7.0,7,6,3.0,15,11,25,42,38,32,33,36
-UBCV,2018,W,ECON,492,E,002,Directed Reading,Joshua Gottlieb,17,90.82352941200001,7.037713532000001,99.0,72.0,,,,,,,,,,5,10
-UBCV,2018,W,ECON,492,E,OVERALL,Directed Reading,,17,90.82352941200001,7.037713532000001,99.0,72.0,,,,,,,,,,5,10
-UBCV,2018,W,ECON,492,F,001,Directed Reading,Jonathan Graves;Kelly Erin Foley;Viktoriya Hnatkovska,5,98.0,0.0,98.0,98.0,,,,,,,,,,,5
-UBCV,2018,W,ECON,492,F,OVERALL,Directed Reading,,5,98.0,0.0,98.0,98.0,,,,,,,,,,,5
-UBCV,2018,W,ECON,493,,001,Advanced Empirical Methods for International Economics,Da Kang;Munir Squires,80,74.9,10.34664992,100.0,39.0,,,5,,9,13,12,10,16,,7
-UBCV,2018,W,ECON,493,,OVERALL,Advanced Empirical Methods for International Economics,,80,74.9,10.34664992,100.0,39.0,,,5,,9,13,12,10,16,,7
-UBCV,2018,W,ECON,494,,001,Seminar in Applied International Economics,Benjamin Milner;Brian Copeland;Patrick Baylis;Vanessa Alviarez,18,83.722222222,4.8240275530000005,90.0,70.0,,,,,,,,,7,8,
-UBCV,2018,W,ECON,494,,002,Seminar in Applied International Economics,Benjamin Milner;Heng Ju;Kristin Siwan Anderson,21,87.80952381,6.33734209,98.0,73.0,,,,,,,,,2,9,8
-UBCV,2018,W,ECON,494,,003,Seminar in Applied International Economics,Benjamin Milner;Gordon Munro;Vanessa Alviarez,21,82.428571429,10.072593651,97.0,53.0,,,,,,,,,5,8,
-UBCV,2018,W,ECON,494,,004,Seminar in Applied International Economics,Adlai Fisher;Benjamin Milner;Heng Ju,19,82.315789474,1.9451544230000002,86.0,79.0,,,,,,,,,13,4,
-UBCV,2018,W,ECON,494,,OVERALL,Seminar in Applied International Economics,,79,84.126582278,6.893637142,98.0,53.0,,,,,,,,,27,29,13
-UBCV,2018,W,ECON,495,,003,Honours Seminar,Michal Rehavi,7,85.285714286,5.186980037,92.0,78.0,,,,,,,,,,,
-UBCV,2018,W,ECON,495,,OVERALL,Honours Seminar,,7,85.285714286,5.186980037,92.0,78.0,,,,,,,,,,,
-UBCV,2018,W,ECON,499,,001,Honours Essay,Michal Rehavi,7,86.428571429,6.7788185510000005,94.0,78.0,,,,,,,,,,,
-UBCV,2018,W,ECON,499,,OVERALL,Honours Essay,,7,86.428571429,6.7788185510000005,94.0,78.0,,,,,,,,,,,
-UBCV,2018,W,ECON,500,,001,Microeconomics,Clemens Possnig;German Antonio Vega Acuna;German Vega Acuna;Vitor Farinha Luz,64,82.40625,8.199339404,96.0,60.0,,,,,,,5,13,9,16,15
-UBCV,2018,W,ECON,500,,OVERALL,Microeconomics,,64,82.40625,8.199339404,96.0,60.0,,,,,,,5,13,9,16,15
-UBCV,2018,W,ECON,502,,001,Macroeconomics,Chenyu Hou;Christopher P Barrington-Leigh;German Antonio Vega Acuna;German Vega Acuna;Nisha Malhotra;Viktoriya Hnatkovska,58,84.706896552,5.681637461,95.0,73.0,,,,,,,,13,8,22,12
-UBCV,2018,W,ECON,502,,OVERALL,Macroeconomics,,58,84.706896552,5.681637461,95.0,73.0,,,,,,,,13,8,22,12
-UBCV,2018,W,ECON,514,,001,Information and Incentives,Thorsten Rogall;Vitor Farinha Luz,24,90.875,4.857199945,98.0,83.0,,,,,,,,,,9,13
-UBCV,2018,W,ECON,514,,OVERALL,Information and Incentives,,24,90.875,4.857199945,98.0,83.0,,,,,,,,,,9,13
-UBCV,2018,W,ECON,516,,001,Special Topics in Macroeconomics,Giovanni Gallipoli,5,92.6,0.8944271909999999,94.0,92.0,,,,,,,,,,,5
-UBCV,2018,W,ECON,516,,OVERALL,Special Topics in Macroeconomics,,5,92.6,0.8944271909999999,94.0,92.0,,,,,,,,,,,5
-UBCV,2018,W,ECON,526,,001,Mathematics for Economics,Hao Li;Paul Schrimpf;Sejin Ahn,54,85.407407407,6.568990958,98.0,71.0,,,,,,,,,12,18,15
-UBCV,2018,W,ECON,526,,OVERALL,Mathematics for Economics,,54,85.407407407,6.568990958,98.0,71.0,,,,,,,,,12,18,15
-UBCV,2018,W,ECON,527,,001,Econometric Methods of Economic Research,Neil Douglas Lloyd;Neil Lloyd;Sejin Ahn;Vadim Marmer,62,80.661290323,11.202961477,100.0,60.0,,,,6,,7,9,8,8,8,16
-UBCV,2018,W,ECON,527,,OVERALL,Econometric Methods of Economic Research,,62,80.661290323,11.202961477,100.0,60.0,,,,6,,7,9,8,8,8,16
-UBCV,2018,W,ECON,531,,001,Economic History of Modern Europe,Felipe Valencia Caicedo;Valencia Caicedo Felipe;Vitor Farinha Luz,8,92.75,6.135377506,100.0,85.0,,,,,,,,,,,6
-UBCV,2018,W,ECON,531,,OVERALL,Economic History of Modern Europe,,8,92.75,6.135377506,100.0,85.0,,,,,,,,,,,6
-UBCV,2018,W,ECON,541,,001,Economic Development I,Juan Felipe Riano Rodriguez;Juan Riano Rodriguez;Kristin Siwan Anderson;Michal Szkup,30,86.566666667,6.457731711,94.0,70.0,,,,,,,,,,9,13
-UBCV,2018,W,ECON,541,,OVERALL,Economic Development I,,30,86.566666667,6.457731711,94.0,70.0,,,,,,,,,,9,13
-UBCV,2018,W,ECON,542,,001,Economic Development II,Munir Squires,10,87.7,4.547282461,92.0,76.0,,,,,,,,,,,5
-UBCV,2018,W,ECON,542,,OVERALL,Economic Development II,,10,87.7,4.547282461,92.0,76.0,,,,,,,,,,,5
-UBCV,2018,W,ECON,544,,001,"Political Economy, Institutions, and Business",Adlai Newson;Francesco Trebbi;Juan Felipe Riano Rodriguez;Juan Riano Rodriguez;Thorsten Rogall,34,80.794117647,7.650626482000001,93.0,68.0,,,,,,6,,6,7,6,6
-UBCV,2018,W,ECON,544,,OVERALL,"Political Economy, Institutions, and Business",,34,80.794117647,7.650626482000001,93.0,68.0,,,,,,6,,6,7,6,6
-UBCV,2018,W,ECON,550,,001,Government Finance: Expenditures,Catherine Elizabeth Van Der List;Catherine Van Der List;Michal Rehavi,17,80.352941176,8.609160648,92.0,64.0,,,,,,,,,,7,
-UBCV,2018,W,ECON,550,,002,Government Finance: Expenditures,Michal Rehavi,7,86.285714286,4.572172559,91.0,80.0,,,,,,,,,,3,
-UBCV,2018,W,ECON,550,,OVERALL,Government Finance: Expenditures,,24,82.083333333,8.037502677,92.0,64.0,,,,,,,,,6,10,
-UBCV,2018,W,ECON,551,,001,Government Finance: Revenues,Kevin Milligan;Werner Antweiler,7,84.142857143,5.72795983,92.0,74.0,,,,,,,,,,,
-UBCV,2018,W,ECON,551,,OVERALL,Government Finance: Revenues,,7,84.142857143,5.72795983,92.0,74.0,,,,,,,,,,,
-UBCV,2018,W,ECON,555,,001,International Trade,Christopher P Barrington-Leigh;Tomasz Swiecki,11,83.727272727,7.590664122000001,97.0,70.0,,,,,,,,,,,
-UBCV,2018,W,ECON,555,,OVERALL,International Trade,,11,83.727272727,7.590664122000001,97.0,70.0,,,,,,,,,,,
-UBCV,2018,W,ECON,556,,001,International Finance,Chenyu Hou;Kelly Erin Foley;Michael Devereux,24,81.583333333,8.30880448,94.0,50.0,,,,,,,,,13,,
-UBCV,2018,W,ECON,556,,OVERALL,International Finance,,24,81.583333333,8.30880448,94.0,50.0,,,,,,,,,13,,
-UBCV,2018,W,ECON,560,,001,Economics of Labour,Florian Hoffmann;Heng Ju;Nicole Fortin,11,92.454545455,2.659459959,98.0,88.0,,,,,,,,,,,10
-UBCV,2018,W,ECON,560,,OVERALL,Economics of Labour,,11,92.454545455,2.659459959,98.0,88.0,,,,,,,,,,,10
-UBCV,2018,W,ECON,561,,001,Topics in Industrial Relations,Nicole Fortin,13,82.307692308,9.655608175,95.0,64.0,,,,,,,,,,,
-UBCV,2018,W,ECON,561,,OVERALL,Topics in Industrial Relations,,13,82.307692308,9.655608175,95.0,64.0,,,,,,,,,,,
-UBCV,2018,W,ECON,562,,001,Research Design and Policy Evaluation in Economics,Jeffrey Hicks;Joshua Gottlieb,33,83.636363636,7.3135925760000005,100.0,69.0,,,,,,,,5,7,10,6
-UBCV,2018,W,ECON,562,,OVERALL,Research Design and Policy Evaluation in Economics,,33,83.636363636,7.3135925760000005,100.0,69.0,,,,,,,,5,7,10,6
-UBCV,2018,W,ECON,565,,001,Market Structure and Business Behaviour,Il Myoung Hwang;Il Myoung Sam Hwang,6,89.333333333,0.8164965809999999,91.0,89.0,,,,,,,,,,5,
-UBCV,2018,W,ECON,565,,OVERALL,Market Structure and Business Behaviour,,6,89.333333333,0.8164965809999999,91.0,89.0,,,,,,,,,,5,
-UBCV,2018,W,ECON,566,,001,Business Performance and Public Policy,Ralph Winter,23,83.608695652,6.478910756,98.0,72.0,,,,,,,,,9,,7
-UBCV,2018,W,ECON,566,,OVERALL,Business Performance and Public Policy,,23,83.608695652,6.478910756,98.0,72.0,,,,,,,,,9,,7
-UBCV,2018,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,13,90.46153846200001,2.75727476,97.0,88.0,,,,,,,,,,5,8
-UBCV,2018,W,ECON,567,,OVERALL,Organization Theory and Non-market Allocation,,13,90.46153846200001,2.75727476,97.0,88.0,,,,,,,,,,5,8
-UBCV,2018,W,ECON,573,,001,Environmental Economics,Patrick Baylis,18,87.77777777799999,3.473522632,92.0,81.0,,,,,,,,,,7,8
-UBCV,2018,W,ECON,573,,OVERALL,Environmental Economics,,18,87.77777777799999,3.473522632,92.0,81.0,,,,,,,,,,7,8
-UBCV,2018,W,ECON,580,,001,Social and Economic Measurement,Vanessa Alviarez;W Erwin Diewert,7,90.0,15.588457267999999,99.0,55.0,,,,,,,,,,,6
-UBCV,2018,W,ECON,580,,OVERALL,Social and Economic Measurement,,7,90.0,15.588457267999999,99.0,55.0,,,,,,,,,,,6
-UBCV,2018,W,ECON,600,,001,Microeconomics I,Anubhav Jha;Michael Peters,22,83.590909091,6.381961864,95.0,72.0,,,,,,,,,6,6,5
-UBCV,2018,W,ECON,600,,OVERALL,Microeconomics I,,22,83.590909091,6.381961864,95.0,72.0,,,,,,,,,6,6,5
-UBCV,2018,W,ECON,601,,001,Microeconomics II,Sergei Severinov;Yin Chi Tam,23,81.826086957,9.212896958,98.0,64.0,,,,,,,,,,5,5
-UBCV,2018,W,ECON,601,,OVERALL,Microeconomics II,,23,81.826086957,9.212896958,98.0,64.0,,,,,,,,,,5,5
-UBCV,2018,W,ECON,602,,001,Macroeconomics I,Davide Alonzo;Giovanni Gallipoli;Henry Siu,19,87.315789474,4.714665436000001,96.0,79.0,,,,,,,,,,10,6
-UBCV,2018,W,ECON,602,,OVERALL,Macroeconomics I,,19,87.315789474,4.714665436000001,96.0,79.0,,,,,,,,,,10,6
-UBCV,2018,W,ECON,603,,001,Macroeconomics II,Davide Alonzo;Giovanni Gallipoli;Henry Siu,18,87.72222222200001,3.862421605,93.0,80.0,,,,,,,,,,8,6
-UBCV,2018,W,ECON,603,,OVERALL,Macroeconomics II,,18,87.72222222200001,3.862421605,93.0,80.0,,,,,,,,,,8,6
-UBCV,2018,W,ECON,626,,001,Econometric Theory I,Kyungchul Song;Mahdi Ebrahimikahou,22,80.409090909,6.514884722000001,91.0,68.0,,,,,,,,5,7,,
-UBCV,2018,W,ECON,626,,OVERALL,Econometric Theory I,,22,80.409090909,6.514884722000001,91.0,68.0,,,,,,,,5,7,,
-UBCV,2018,W,ECON,627,,001,Econometric Theory II,Denis Kojevnikov;Vadim Marmer,21,87.0,7.03562364,100.0,70.0,,,,,,,,,,6,10
-UBCV,2018,W,ECON,627,,OVERALL,Econometric Theory II,,21,87.0,7.03562364,100.0,70.0,,,,,,,,,,6,10
-UBCV,2018,W,ECON,628,,001,Topics in Applied Econometrics I,Jesse Perla;Paul Schrimpf;Sebnem Ucar;Yu Hao,16,90.9375,7.818514352,99.0,71.0,,,,,,,,,,,13
-UBCV,2018,W,ECON,628,,OVERALL,Topics in Applied Econometrics I,,16,90.9375,7.818514352,99.0,71.0,,,,,,,,,,,13
-UBCV,2018,W,ECON,629,C,001,Topics in Applied Econometrics II,Joshua Gottlieb;Kyungchul Song,6,90.0,5.513619501,98.0,86.0,,,,,,,,,,,
-UBCV,2018,W,ECON,629,C,OVERALL,Topics in Applied Econometrics II,,6,90.0,5.513619501,98.0,86.0,,,,,,,,,,,
-UBCV,2018,W,ECON,640,,001,Ph.D. Research Seminar,Giovanni Gallipoli,10,91.0,0.0,91.0,91.0,,,,,,,,,,,10
-UBCV,2018,W,ECON,640,,002,Ph.D. Research Seminar,Giovanni Gallipoli,7,91.571428571,1.133893419,93.0,90.0,,,,,,,,,,,7
-UBCV,2018,W,ECON,640,,OVERALL,Ph.D. Research Seminar,,17,91.235294118,0.7524469890000001,93.0,90.0,,,,,,,,,,,17
+UBCV,2018,W,ECON,101,,005,Principles of Microeconomics,Denise Cheok;Denise Jia Yuan Cheok;Robert G Gateman;Robert Gateman;Shoumen Mohammed Siddique;Shoumen Siddique,237,69.0,10.68659861,88.0,8.0,9,7,22,16,35,38,44,35,23,8,0
+UBCV,2018,W,ECON,101,,006,Principles of Microeconomics,Alsu Rakhimova;Jules Boudreau;Liam Macdonald;Robert G Gateman;Robert Gateman;Thomas Mcdowell,440,67.90909091,9.899766873,90.0,14.0,15,15,53,42,83,69,66,47,39,10,1
+UBCV,2018,W,ECON,101,,007,Principles of Microeconomics,Jiaxiang Wang;Maria Alejandra Rodriguez Vega;Maria Rodriguez Vega;Robert G Gateman;Robert Gateman,151,68.04635762,11.14051929,93.0,33.0,10,7,9,20,26,26,15,10,19,7,2
+UBCV,2018,W,ECON,101,,008,Principles of Microeconomics,Anichul Khan;Doga Bilgin;Sandra Buzinsky;Shaoxiong Wang,251,73.62948207,16.34118011,100.0,0.0,16,22,9,15,20,19,26,18,26,36,44
+UBCV,2018,W,ECON,101,,009,Principles of Microeconomics,Monica Sanchez Trujillo;Ratna Shrestha,142,72.66901409,14.44467157,96.0,15.0,5,6,14,9,10,18,17,11,18,17,17
+UBCV,2018,W,ECON,101,,010,Principles of Microeconomics,Anichul Khan;Sydney Larose,118,73.98305085,16.14569512,99.0,13.0,8,4,8,8,8,12,7,11,16,16,20
+UBCV,2018,W,ECON,101,,011,Principles of Microeconomics,Chowdbury Mahmoud;Chowdhury Mahmoud;Clive Chapple;Hugh Neary;Matthew O'Brien,116,70.06034483,13.55458452,90.0,0.0,8,5,6,7,12,18,17,19,10,11,3
+UBCV,2018,W,ECON,101,,012,Principles of Microeconomics,Cheryl Fu;Jingqing Liu,135,72.24444444,12.32002778,96.0,25.0,1,5,15,9,12,20,21,13,11,10,18
+UBCV,2018,W,ECON,101,,013,Principles of Microeconomics,Clive Chapple;Kaan Yolsever;Mauricio Drelichman;Pietro Montanarella,96,72.3125,12.91454708,90.0,28.0,6,1,6,8,5,9,19,8,19,13,2
+UBCV,2018,W,ECON,101,,OVERALL,Principles of Microeconomics,,2434,71.26129827,13.29215509,100.0,0.0,112,104,190,185,272,303,312,276,290,218,172
+UBCV,2018,W,ECON,101,,VM1,Principles of Microeconomics,David Green;Emrul Hasan;Yu Hung Yaow,24,68.875,19.34877257,95.0,0.0,2,1,1,2,3,3,1,6,1,3,1
+UBCV,2018,W,ECON,102,,001,Principles of Macroeconomics,Lanny Reuben Zrill;Lanny Zrill;Maria Rodriguez Vega;Michal Szkup;Shuqing Chen,224,69.40178571,13.01772494,97.0,8.0,10,10,27,23,24,28,22,25,27,17,11
+UBCV,2018,W,ECON,102,,002,Principles of Macroeconomics,Patrick Baylis;Philip Michael Monagan;Philip Monagan;Wai-Ching Alfred Kong,102,70.11764706,15.98903964,100.0,1.0,10,6,4,11,4,13,14,11,15,7,7
+UBCV,2018,W,ECON,102,,003,Principles of Macroeconomics,Avery Maloney;Monica Sanchez Trujillo;Ratna Shrestha,270,72.69259259,13.2535308,98.0,35.0,10,13,24,19,23,36,19,20,48,29,29
+UBCV,2018,W,ECON,102,,004,Principles of Macroeconomics,Ratna Shrestha;Shabnam Hossein Khalaj;Yaqing Ye,264,70.18181818,15.12146923,97.0,5.0,11,31,19,20,14,40,23,22,36,24,24
+UBCV,2018,W,ECON,102,,005,Principles of Macroeconomics,Cheryl Roberts;Joon Ha Kim;Qiutong Huang;Wai-Ching Alfred Kong,240,68.15833333,15.22247613,95.0,0.0,17,19,21,22,26,31,26,24,22,20,12
+UBCV,2018,W,ECON,102,,006,Principles of Macroeconomics,Alsu Rakhimova;Denise Cheok;Jiancong Liu;Jiaxiang Wang;Robert G Gateman;Robert Gateman,325,68.78461539,11.85469161,96.0,18.0,18,16,27,31,49,54,35,33,37,17,8
+UBCV,2018,W,ECON,102,,007,Principles of Macroeconomics,Robert G Gateman;Robert Gateman;Thomas Mcdowell;Xinyu Tang,109,68.09174312,14.14641774,89.0,0.0,8,5,6,9,16,14,20,15,9,7,0
+UBCV,2018,W,ECON,102,,008,Principles of Macroeconomics,Emrul Hasan;Hugh Neary;Nicolas Franz Pattillo,98,79.89795918,11.97548165,100.0,50.0,0,3,2,4,8,8,6,14,15,15,23
+UBCV,2018,W,ECON,102,,010,Principles of Macroeconomics,Anichul Khan;Sydney Larose,113,75.56637168,15.33080239,100.0,10.0,5,3,10,4,9,11,5,16,12,15,23
+UBCV,2018,W,ECON,102,,011,Principles of Macroeconomics,Cheryl Fu;Matthew O'Brien,113,69.51327434,17.13085929,94.0,0.0,6,7,9,11,8,14,10,13,12,13,10
+UBCV,2018,W,ECON,102,,012,Principles of Macroeconomics,Cheryl Fu;Jingqing Liu,104,77.04807692,9.417376841,97.0,50.0,0,1,3,4,4,13,13,18,20,18,10
+UBCV,2018,W,ECON,102,,013,Principles of Macroeconomics,Erin Andra May;Erin May;Henry Siu;Lipeng Li,94,74.10638298,12.04067308,95.0,7.0,1,5,4,3,9,6,17,19,16,10,4
+UBCV,2018,W,ECON,102,,OVERALL,Principles of Macroeconomics,,2079,71.06734007,14.19411305,100.0,0.0,97,121,160,163,196,269,212,233,272,193,163
+UBCV,2018,W,ECON,102,,VM1,Principles of Macroeconomics,Emrul Hasan;Hugh Neary;Yu Hung Yaow,23,67.73913044,19.12213708,96.0,0.0,1,2,4,2,2,1,2,3,3,1,2
+UBCV,2018,W,ECON,210,,001,Microeconomic Policy,Idaliya Grigoryeva;Robert G Gateman;Robert Gateman,88,72.46590909,8.921044297,93.0,50.0,0,3,5,5,12,11,14,18,16,3,1
+UBCV,2018,W,ECON,210,,OVERALL,Microeconomic Policy,,88,72.46590909,8.921044297,93.0,50.0,0,3,5,5,12,11,14,18,16,3,1
+UBCV,2018,W,ECON,211,,001,Macroeconomic Policy,Idaliya Grigoryeva;Robert G Gateman;Robert Gateman,54,71.62962963,10.0588763,90.0,37.0,2,1,0.0,4,9,11,9,6,7,4,1
+UBCV,2018,W,ECON,211,,OVERALL,Macroeconomic Policy,,54,71.62962963,10.0588763,90.0,37.0,2,1,0.0,4,9,11,9,6,7,4,1
+UBCV,2018,W,ECON,221,,001,Introduction to Strategic Thinking,Jonathan Graves;Kwabena Gyasi-Boateng;Mudassar Ali,95,74.04210526,12.89063307,97.0,11.0,3,3,4,6,3,11,19,13,16,9,8
+UBCV,2018,W,ECON,221,,002,Introduction to Strategic Thinking,Hao Li;Qiutong Huang;Zhen Lu,87,61.02298851,17.12809267,99.0,0.0,9,16,13,11,10,6,6,7,2,3,4
+UBCV,2018,W,ECON,221,,003,Introduction to Strategic Thinking,Jonathan Graves;Kwabena Gyasi-Boateng;Mudassar Ali;Vanessa Alviarez,94,76.60638298,9.182988111,95.0,42.0,1,0.0,3,5,3,12,11,17,27,11,4
+UBCV,2018,W,ECON,221,,004,Introduction to Strategic Thinking,Gabriel Brown;Gabriel Moagi Brown;Joshua Catalano;Michael Vaney,84,70.01190476,17.88348774,98.0,10.0,10,5,7,4,4,7,9,7,15,6,10
+UBCV,2018,W,ECON,221,,OVERALL,Introduction to Strategic Thinking,,360,70.625,15.63532667,99.0,0.0,23,24,27,26,20,36,45,44,60,29,26
+UBCV,2018,W,ECON,226,,001,Making Sense of Economic Data,Jonathan Graves;Michael Wiebe,50,73.5,16.35230746,98.0,13.0,4,3,1,4,1,6,6,6,6,6,7
+UBCV,2018,W,ECON,226,,002,Making Sense of Economic Data,Chowdbury Mahmoud;Chowdhury Mahmoud;Hugh Neary;Ronit Mukherji,14,69.5,15.70276801,90.0,50.0,0,5,0,0,0,1,1,1,4,1,1
+UBCV,2018,W,ECON,226,,OVERALL,Making Sense of Economic Data,,64,72.625,16.17513279,98.0,13.0,4,8,1,4,1,7,7,7,10,7,8
+UBCV,2018,W,ECON,234,,001,Wealth and Poverty of Nations,Ahmad Abu Omar;Catherine Douglas;Marcelo Sacchi De Carvalho;Thorsten Rogall,59,75.6779661,13.85571049,96.0,0.0,1,1,1,4,2,6,13,8,8,9,6
+UBCV,2018,W,ECON,234,,002,Wealth and Poverty of Nations,Hugh Neary;Thorsten Rogall;Vinicius Rodrigues Pecanha,71,80.98591549,12.57604634,98.0,16.0,1,0.0,3,3,1,3,4,8,15,16,17
+UBCV,2018,W,ECON,234,,OVERALL,Wealth and Poverty of Nations,,130,78.57692308,13.38567172,98.0,0.0,2,1,4,7,3,9,17,16,23,25,23
+UBCV,2018,W,ECON,255,,002,Understanding Globalization,Ashok Kotwal;Tanya Sharma;Tudor David Schlanger;Tudor Schlanger,85,75.6,10.4325498,95.0,47.0,1,4,1,5,7,8,13,14,14,13,5
+UBCV,2018,W,ECON,255,,003,Understanding Globalization,Angela Redish;Christina Schwarz;Christina Shuen-Ning Schwarz;Dante Gilbert Zago;Dante Zago;Joseph Xuan Ren Teh;Pei-Tiing Alvin Lin,155,72.97419355,14.17650718,97.0,0.0,5,4,5,20,17,13,19,16,27,16,13
+UBCV,2018,W,ECON,255,,OVERALL,Understanding Globalization,,240,73.90416667,13.01283496,97.0,0.0,6,8,6,25,24,21,32,30,41,29,18
+UBCV,2018,W,ECON,301,,001,Intermediate Microeconomic Analysis I,Gustavo Albuquerque;Gustavo Tovar Albuquerque;Michael Vaney,88,68.97727273,17.80673854,99.0,15.0,11,7,3,4,8,10,11,7,9,8,10
+UBCV,2018,W,ECON,301,,002,Intermediate Microeconomic Analysis I,Gustavo Albuquerque;Gustavo Tovar Albuquerque;Sergei Severinov;Xiaojun Guan,93,74.41935484,12.21663387,93.0,34.0,2,3,8,4,8,13,9,8,13,19,6
+UBCV,2018,W,ECON,301,,003,Intermediate Microeconomic Analysis I,Sejin Ahn;Wai-Ching Alfred Kong,77,71.12987013,18.30181947,100.0,13.0,6,4,5,6,8,5,9,9,12,3,10
+UBCV,2018,W,ECON,301,,005,Intermediate Microeconomic Analysis I,Hao Li;Sergei Severinov,62,77.20967742,11.4005135,95.0,47.0,1,2,3,1,5,5,5,13,7,10,10
+UBCV,2018,W,ECON,301,,OVERALL,Intermediate Microeconomic Analysis I,,320,72.671875,15.60147759,100.0,13.0,20,16,19,15,29,33,34,37,41,40,36
+UBCV,2018,W,ECON,302,,002,Intermediate Macroeconomic Analysis I,Ali Karimirad;Viktoriya Hnatkovska;Xiaojun Guan,106,77.72641509,8.687739603,97.0,40.0,1,1,0.0,1,6,12,18,27,19,8,13
+UBCV,2018,W,ECON,302,,004,Intermediate Macroeconomic Analysis I,Aruni Mitra;Marcelo Sacchi De Carvalho;Wendy Wai Yee Kei,101,67.96039604,13.50031169,97.0,19.0,7,6,11,10,16,11,10,11,9,5,5
+UBCV,2018,W,ECON,302,,005,Intermediate Macroeconomic Analysis I,John Fountain;Nicolas Franz Pattillo,70,70.31428571,17.72948323,95.0,0.0,6,4,4,4,7,5,9,0.0,22,3,6
+UBCV,2018,W,ECON,302,,OVERALL,Intermediate Macroeconomic Analysis I,,277,72.29241877,13.87565302,97.0,0.0,14,11,15,15,29,28,37,38,50,16,24
+UBCV,2018,W,ECON,303,,001,Intermediate Microeconomics II,Chowdbury Mahmoud;Chowdhury Mahmoud;Hugh Neary;Wei Li;Zhen Lu,54,74.96296296,12.86059209,92.0,35.0,3,0.0,3,2,5,3,5,9,12,9,3
+UBCV,2018,W,ECON,303,,003,Intermediate Microeconomics II,Leopoldo Millan Gutierre;Wei Li,34,75.17647059,13.32909915,96.0,50.0,0,1,5,2,1,4,4,2,6,4,5
+UBCV,2018,W,ECON,303,,OVERALL,Intermediate Microeconomics II,,88,75.04545455,12.96760694,96.0,35.0,3,1,8,4,6,7,9,11,18,13,8
+UBCV,2018,W,ECON,304,,002,Honours Intermediate Microeconomic Analysis I,Pedro Martins Pessoa;Wei Li,11,78.0,11.5325626,92.0,50.0,0,1,0,0,0,0,2,3,2,1,2
+UBCV,2018,W,ECON,304,,OVERALL,Honours Intermediate Microeconomic Analysis I,,11,78.0,11.5325626,92.0,50.0,0,1,0,0,0,0,2,3,2,1,2
+UBCV,2018,W,ECON,305,,002,Honours Intermediate Macroeconomic Analysis I,Michal Szkup;Pedro Martins Pessoa,16,83.875,15.61142744,99.0,32.0,1,0,0,0,0,1,0,1,1,6,6
+UBCV,2018,W,ECON,305,,OVERALL,Honours Intermediate Macroeconomic Analysis I,,16,83.875,15.61142744,99.0,32.0,1,0,0,0,0,1,0,1,1,6,6
+UBCV,2018,W,ECON,306,,001,Honours Intermediate Microeconomics II,Marc-Antoine Laflamme;Michael Peters,15,85.13333333,7.772356387,95.0,72.0,0,0,0,0,0,0,1,3,3,3,5
+UBCV,2018,W,ECON,306,,OVERALL,Honours Intermediate Microeconomics II,,15,85.13333333,7.772356387,95.0,72.0,0,0,0,0,0,0,1,3,3,3,5
+UBCV,2018,W,ECON,307,,001,Honours Intermediate Macroeconomics II,Jesse Perla;Marc-Antoine Laflamme,14,89.57142857,5.018646549,95.0,79.0,0,0,0,0,0,0,0,1,1,5,7
+UBCV,2018,W,ECON,307,,OVERALL,Honours Intermediate Macroeconomics II,,14,89.57142857,5.018646549,95.0,79.0,0,0,0,0,0,0,0,1,1,5,7
+UBCV,2018,W,ECON,309,,001,Intermediate Open Economy Macroeconomics,Francesco Trebbi;Nadhanael Gemaliel Vimala,82,76.02439024,7.975232664,90.0,56.0,0,0,1,3,11,13,7,15,19,11,2
+UBCV,2018,W,ECON,309,,OVERALL,Intermediate Open Economy Macroeconomics,,82,76.02439024,7.975232664,90.0,56.0,0,0,1,3,11,13,7,15,19,11,2
+UBCV,2018,W,ECON,310,,001,Principles of Microeconomics,Liudmyla Markevych;Mila Markevych;Ratna Shrestha;Tsengunn Enkhbaatar;Tsenguun Enkhbaatar,229,74.10043668,13.18337103,96.0,5.0,6,7,13,22,9,37,23,22,36,22,32
+UBCV,2018,W,ECON,310,,OVERALL,Principles of Microeconomics,,229,74.10043668,13.18337103,96.0,5.0,6,7,13,22,9,37,23,22,36,22,32
+UBCV,2018,W,ECON,311,,001,Principles of Macroeconomics,Liam Macdonald;Pu Wang;Ratna Shrestha,237,73.35864979,12.47276945,97.0,35.0,3,16,12,19,18,35,27,22,32,29,24
+UBCV,2018,W,ECON,311,,OVERALL,Principles of Macroeconomics,,237,73.35864979,12.47276945,97.0,35.0,3,16,12,19,18,35,27,22,32,29,24
+UBCV,2018,W,ECON,315,,001,Intermediate Microeconomics I,Clive Chapple;Yaqing Ye,88,73.71590909,9.271075851,93.0,50.0,0,2,3,7,10,14,10,14,18,8,2
+UBCV,2018,W,ECON,315,,OVERALL,Intermediate Microeconomics I,,88,73.71590909,9.271075851,93.0,50.0,0,2,3,7,10,14,10,14,18,8,2
+UBCV,2018,W,ECON,316,,001,Intermediate Microeconomics II,Il Myoung Hwang;Il Myoung Sam Hwang;Qianli Ma,82,76.3902439,8.772510512,93.0,55.0,0,0,2,6,5,12,12,14,17,8,6
+UBCV,2018,W,ECON,316,,OVERALL,Intermediate Microeconomics II,,82,76.3902439,8.772510512,93.0,55.0,0,0,2,6,5,12,12,14,17,8,6
+UBCV,2018,W,ECON,317,,001,Poverty and Inequality,Catherine Douglas;Yingyi Liang,89,77.60674157,14.07336134,98.0,6.0,1,3,5,3,5,7,10,12,12,11,20
+UBCV,2018,W,ECON,317,,002,Poverty and Inequality,David Green;Jackie Lam;Nicole Fortin;Pablo Antonio Gutierrez Cubillos;Pablo Gutierrez Cubillos,88,80.05681818,5.193625524,91.0,66.0,0,0,0,0,1,4,11,21,36,11,4
+UBCV,2018,W,ECON,317,,OVERALL,Poverty and Inequality,,177,78.82485876,10.67110868,98.0,6.0,1,3,5,3,6,11,21,33,48,22,24
+UBCV,2018,W,ECON,318,,001,History and Philosophy of Economics from Aristotle to Adam Smith,Margaret Schabas;Rebecca Livernois,51,71.23529412,13.56847557,86.0,16.0,4,0,0,3,5,7,8,13,6,5,0
+UBCV,2018,W,ECON,318,,OVERALL,History and Philosophy of Economics from Aristotle to Adam Smith,,51,71.23529412,13.56847557,86.0,16.0,4,0,0,3,5,7,8,13,6,5,0
+UBCV,2018,W,ECON,319,,001,History and Philosophy of Economics from Ricardo to Keynes,Grant Benjamin;Margaret Schabas,35,72.45714286,14.04686035,87.0,15.0,2,0,0,2,3,5,6,5,6,6,0
+UBCV,2018,W,ECON,319,,OVERALL,History and Philosophy of Economics from Ricardo to Keynes,,35,72.45714286,14.04686035,87.0,15.0,2,0,0,2,3,5,6,5,6,6,0
+UBCV,2018,W,ECON,325,,001,Introduction to Empirical Economics,Erwann Sbai;Wenjun Yang,70,72.54285714,14.79197365,99.0,44.0,4,5,5,8,6,8,6,6,3,6,13
+UBCV,2018,W,ECON,325,,002,Introduction to Empirical Economics,Arkadev Ghosh;Chowdhury Mahmoud,75,74.65333333,13.08340535,97.0,45.0,3,3,8,2,5,3,12,10,11,7,11
+UBCV,2018,W,ECON,325,,003,Introduction to Empirical Economics,Chowdhury Mahmoud;Juan Felipe Riano Rodriguez;Juan Riano Rodriguez,70,75.75714286,11.02754879,97.0,50.0,0,3,2,2,8,11,8,11,8,9,8
+UBCV,2018,W,ECON,325,,004,Introduction to Empirical Economics,Michael Vaney;Si Hui Jocelyn Tan,59,69.42372881,15.19891488,98.0,23.0,2,6,5,11,5,8,2,1,8,4,7
+UBCV,2018,W,ECON,325,,OVERALL,Introduction to Empirical Economics,,274,73.27007299,13.67332295,99.0,23.0,9,17,20,23,24,30,28,28,30,26,39
+UBCV,2018,W,ECON,326,,002,Methods of Empirical Research in Economics,Florian Hoffmann;Wenjun Yang,76,74.72368421,14.87512347,100.0,6.0,5,1,1,5,5,8,6,10,19,10,6
+UBCV,2018,W,ECON,326,,003,Methods of Empirical Research in Economics,Chowdhury Mahmoud;Sandra Buzinsky,78,73.82051282,20.67858142,100.0,8.0,8,4,0.0,5,6,6,6,10,9,7,17
+UBCV,2018,W,ECON,326,,005,Methods of Empirical Research in Economics,Si Hui Jocelyn Tan;Wendy Wai Yee Kei,89,74.24719101,11.16333375,97.0,47.0,1,3,6,5,10,9,11,16,11,7,10
+UBCV,2018,W,ECON,326,,OVERALL,Methods of Empirical Research in Economics,,243,74.25925926,15.81382734,100.0,6.0,14,8,7,15,21,23,23,36,39,24,33
+UBCV,2018,W,ECON,327,,001,Introduction to Empirical Methods,Hugh Alden Shiplett;Hugh Shiplett;Michael Vaney,87,72.03448276,11.4256426,95.0,38.0,2,5,7,6,7,11,12,10,16,7,4
+UBCV,2018,W,ECON,327,,OVERALL,Introduction to Empirical Methods,,87,72.03448276,11.4256426,95.0,38.0,2,5,7,6,7,11,12,10,16,7,4
+UBCV,2018,W,ECON,328,,001,Methods of Empirical Research,Aruni Mitra;Florian Hoffmann;Liudmyla Markevych;Mila Markevych,82,76.25609756,8.403131362,94.0,58.0,0,0,2,4,7,8,17,16,11,13,4
+UBCV,2018,W,ECON,328,,OVERALL,Methods of Empirical Research,,82,76.25609756,8.403131362,94.0,58.0,0,0,2,4,7,8,17,16,11,13,4
+UBCV,2018,W,ECON,334,,003,Economic History of Modern Europe,Benjamin Milner;David Gonzalez Agudo,107,80.27102804,9.081985168,98.0,55.0,0,0,3,3,3,8,12,19,20,25,14
+UBCV,2018,W,ECON,334,,OVERALL,Economic History of Modern Europe,,107,80.27102804,9.081985168,98.0,55.0,0,0,3,3,3,8,12,19,20,25,14
+UBCV,2018,W,ECON,335,,003,"Fertility, Families and Human Migration",Arkadev Ghosh;David Gonzalez Agudo,87,80.28735632,7.87387208,95.0,55.0,0,0,1,1,3,6,11,18,19,15,13
+UBCV,2018,W,ECON,335,,OVERALL,"Fertility, Families and Human Migration",,87,80.28735632,7.87387208,95.0,55.0,0,0,1,1,3,6,11,18,19,15,13
+UBCV,2018,W,ECON,336,,002,Economic History of Canada,Avery Maloney;Catherine Douglas,50,76.3,12.77793059,93.0,4.0,1,0,0,2,1,4,14,6,11,7,4
+UBCV,2018,W,ECON,336,,OVERALL,Economic History of Canada,,50,76.3,12.77793059,93.0,4.0,1,0,0,2,1,4,14,6,11,7,4
+UBCV,2018,W,ECON,337,,001,Economic History of the United States,David Gonzalez Agudo;Shoumen Siddique,95,81.77894737,7.203986703,97.0,58.0,0,0,1,0.0,2,2,12,21,17,26,14
+UBCV,2018,W,ECON,337,,003,Economic History of the United States,David Gonzalez Agudo;Doga Bilgin,90,71.23333333,15.19835148,100.0,5.0,2,9,7,6,10,14,6,8,10,6,12
+UBCV,2018,W,ECON,337,,OVERALL,Economic History of the United States,,185,76.64864865,12.89088028,100.0,5.0,2,9,8,6,12,16,18,29,27,32,26
+UBCV,2018,W,ECON,339,,001,Economics of Technological Change,Catherine Douglas;Samuel Gyetvay,93,76.56989247,13.04290399,95.0,16.0,4,0,0,3,6,4,14,16,23,17,6
+UBCV,2018,W,ECON,339,,OVERALL,Economics of Technological Change,,93,76.56989247,13.04290399,95.0,16.0,4,0,0,3,6,4,14,16,23,17,6
+UBCV,2018,W,ECON,345,,001,Money and Banking,Anichul Khan;Qirui Cao,144,71.57638889,13.33829854,95.0,9.0,4,8,11,15,13,16,17,16,23,9,12
+UBCV,2018,W,ECON,345,,002,Money and Banking,Geoffrey Newman;Nadhanael Gemaliel Vimala;Patrick Baylis,148,68.74324324,15.39419522,99.0,0.0,10,6,20,16,15,17,15,10,12,11,16
+UBCV,2018,W,ECON,345,,003,Money and Banking,Geoffrey Newman;Heng Ju;Tsengunn Enkhbaatar;Tsenguun Enkhbaatar,147,68.68707483,17.83247873,97.0,0.0,17,12,5,18,9,16,14,11,17,8,20
+UBCV,2018,W,ECON,345,,005,Money and Banking,Ali Adibnia;Anichul Khan,152,76.54605263,12.8546839,98.0,42.0,4,4,6,12,16,12,13,8,24,25,28
+UBCV,2018,W,ECON,345,,OVERALL,Money and Banking,,591,71.42639594,15.28334356,99.0,0.0,35,30,42,61,53,61,59,45,76,53,76
+UBCV,2018,W,ECON,350,,001,Public Finance Policy Topics,Jules Boudreau;Kyungchul Song;Wai-Ching Alfred Kong,77,72.79220779,14.7178174,96.0,12.0,4,0.0,6,7,8,6,10,10,11,6,9
+UBCV,2018,W,ECON,350,,OVERALL,Public Finance Policy Topics,,77,72.79220779,14.7178174,96.0,12.0,4,0.0,6,7,8,6,10,10,11,6,9
+UBCV,2018,W,ECON,351,,003,Women in the Economy,Ana Palacios;David Green;Gordon Munro;Marina Adshade,71,78.52112676,8.910441956,92.0,50.0,0,2,1,0.0,3,8,10,14,13,14,6
+UBCV,2018,W,ECON,351,,OVERALL,Women in the Economy,,71,78.52112676,8.910441956,92.0,50.0,0,2,1,0.0,3,8,10,14,13,14,6
+UBCV,2018,W,ECON,355,,001,Introduction to International Trade,Matilde Bombardini;Mengying Wei;Tomasz Swiecki,80,77.2625,9.702855837,97.0,53.0,0,1,2,7,5,8,8,13,17,12,7
+UBCV,2018,W,ECON,355,,002,Introduction to International Trade,Tomasz Swiecki;Yitong Peng,119,73.58823529,14.56220541,97.0,17.0,6,5,5,8,7,17,12,14,17,14,14
+UBCV,2018,W,ECON,355,,003,Introduction to International Trade,Mico Rudasingwa;Nisha Malhotra,100,74.57,12.30689632,94.0,43.0,3,1,8,10,6,11,10,10,16,12,13
+UBCV,2018,W,ECON,355,,004,Introduction to International Trade,Nisha Malhotra;Yitong Peng,119,79.08403361,11.91963189,98.0,35.0,2,3,5,4,2,9,14,12,23,27,18
+UBCV,2018,W,ECON,355,,005,Introduction to International Trade,Emrul Hasan;Hugh Neary;Ronit Mukherji,56,70.91071429,11.27390678,95.0,41.0,2,1,6,6,5,8,11,3,8,3,3
+UBCV,2018,W,ECON,355,,OVERALL,Introduction to International Trade,,474,75.47890295,12.56596035,98.0,17.0,13,11,26,35,25,53,55,52,81,68,55
+UBCV,2018,W,ECON,356,,001,Introduction to International Finance,Federico Guzman;Michal Szkup,100,71.43,16.32637762,100.0,1.0,8,4,3,11,9,11,12,11,12,8,11
+UBCV,2018,W,ECON,356,,003,Introduction to International Finance,Gordon Munro;Heng Ju;Thorsten Rogall;Yau Tung Chan;Yau Tung Thomas Chan,98,75.79591837,8.702362736,93.0,51.0,0,1,3,4,7,11,16,18,22,11,5
+UBCV,2018,W,ECON,356,,004,Introduction to International Finance,Qirui Cao;Wendy Wai Yee Kei,97,76.35051546,12.09686705,96.0,41.0,2,3,4,6,5,12,9,10,18,15,13
+UBCV,2018,W,ECON,356,,005,Introduction to International Finance,Ali Adibnia;Cheryl Roberts;Geoffrey Newman,72,64.31944444,14.80752225,94.0,25.0,6,8,14,9,3,7,6,6,6,5,2
+UBCV,2018,W,ECON,356,,OVERALL,Introduction to International Finance,,367,72.5013624,13.9069654,100.0,1.0,16,16,24,30,24,41,43,45,58,39,31
+UBCV,2018,W,ECON,364,A,001,"The Economics of Sustainable Development: Communities, Markets and Technology",Ahmad Abu Omar;Catherine Douglas;David Green;Vinicius Rodrigues Pecanha,29,82.27586207,6.896668718,93.0,65.0,0,0,0,0,1,1,3,2,11,5,6
+UBCV,2018,W,ECON,364,A,OVERALL,"The Economics of Sustainable Development: Communities, Markets and Technology",,29,82.27586207,6.896668718,93.0,65.0,0,0,0,0,1,1,3,2,11,5,6
+UBCV,2018,W,ECON,365,,001,Topics in Canadian Industrial Organization and Regulation Policy,Joshua Catalano;Michael Vaney,54,69.51851852,17.20107581,97.0,5.0,4,5,4,3,7,4,2,7,9,5,4
+UBCV,2018,W,ECON,365,,OVERALL,Topics in Canadian Industrial Organization and Regulation Policy,,54,69.51851852,17.20107581,97.0,5.0,4,5,4,3,7,4,2,7,9,5,4
+UBCV,2018,W,ECON,367,,001,Economic Analysis of Law,Liam Macdonald;Robert G Gateman;Robert Gateman,67,73.55223881,8.10589681,95.0,50.0,0,1,2,2,10,9,18,9,11,1,4
+UBCV,2018,W,ECON,367,,OVERALL,Economic Analysis of Law,,67,73.55223881,8.10589681,95.0,50.0,0,1,2,2,10,9,18,9,11,1,4
+UBCV,2018,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Clive Chapple;Kiernan Gange,117,66.71794872,14.92038998,99.0,27.0,17,6,13,9,12,14,11,6,16,10,3
+UBCV,2018,W,ECON,370,,002,Benefit-Cost Analysis and the Economics of Project Evaluation,Clive Chapple;Qianli Ma,73,75.80821918,9.70632316,99.0,50.0,0,2,4,1,7,6,13,11,16,10,3
+UBCV,2018,W,ECON,370,,OVERALL,Benefit-Cost Analysis and the Economics of Project Evaluation,,190,70.21052632,13.86281596,99.0,27.0,17,8,17,10,19,20,24,17,32,20,6
+UBCV,2018,W,ECON,371,,001,Economics of the Environment,Jiawen Wang;Michael Vaney,125,70.888,14.00242836,95.0,9.0,3,11,7,8,16,16,17,16,9,13,9
+UBCV,2018,W,ECON,371,,002,Economics of the Environment,Brian Copeland;Jiawen Wang,159,80.72955975,9.618472164,100.0,52.0,0,2,2,4,6,13,15,27,32,28,30
+UBCV,2018,W,ECON,371,,OVERALL,Economics of the Environment,,284,76.39788732,12.708757,100.0,9.0,3,13,9,12,22,29,32,43,41,41,39
+UBCV,2018,W,ECON,374,,001,Land Economics,Ana Palacios;Frederik Noack;Sumeet Gulati,99,77.62626263,12.56946889,100.0,40.0,2,3,1,9,7,9,9,13,10,18,18
+UBCV,2018,W,ECON,374,,OVERALL,Land Economics,,99,77.62626263,12.56946889,100.0,40.0,2,3,1,9,7,9,9,13,10,18,18
+UBCV,2018,W,ECON,390,,002,Introduction to Economic Research,Dongxiao Zhang;Wai-Ching Alfred Kong,34,74.14705882,6.933154221,90.0,60.0,0,0,0,2,1,9,7,8,4,1,2
+UBCV,2018,W,ECON,390,,003,Introduction to Economic Research,Dongxiao Zhang;Hugh Neary,44,78.13636364,6.879666396,88.0,50.0,0,1,0,1,0,4,6,11,16,5,0
+UBCV,2018,W,ECON,390,,OVERALL,Introduction to Economic Research,,78,76.3974359,7.141136989,90.0,50.0,0,1,0.0,3,1,13,13,19,20,6,2
+UBCV,2018,W,ECON,406,,002,Topics in Microeconomics,Jonathan Graves,12,75.16666667,20.1622209,91.0,23.0,1,1,0,0,1,0,2,0,2,2,3
+UBCV,2018,W,ECON,406,,OVERALL,Topics in Microeconomics,,12,75.16666667,20.1622209,91.0,23.0,1,1,0,0,1,0,2,0,2,2,3
+UBCV,2018,W,ECON,407,,001,Topics in Macroeconomics,Jesse Perla;Paul Schrimpf,20,92.6,4.615762468,100.0,84.0,0,0,0,0,0,0,0,0,1,5,14
+UBCV,2018,W,ECON,407,,OVERALL,Topics in Macroeconomics,,20,92.6,4.615762468,100.0,84.0,0,0,0,0,0,0,0,0,1,5,14
+UBCV,2018,W,ECON,420,,001,Optimization and Economic Theory,Hao Li,12,62.83333333,32.38078368,97.0,1.0,3,0,1,0,0,1,0,1,3,1,2
+UBCV,2018,W,ECON,420,,OVERALL,Optimization and Economic Theory,,12,62.83333333,32.38078368,97.0,1.0,3,0,1,0,0,1,0,1,3,1,2
+UBCV,2018,W,ECON,421,,001,Introduction to Game Theory and Applications.,Deivis Angeli;Vitor Farinha Luz,39,76.64102564,16.20507909,100.0,11.0,2,0.0,1,2,2,3,6,5,7,5,6
+UBCV,2018,W,ECON,421,,002,Introduction to Game Theory and Applications.,Anubhav Jha;John Andrew Graham Fountain;John Fountain,34,70.88235294,16.21403191,96.0,0.0,1,0.0,1,6,5,6,4,1,3,4,3
+UBCV,2018,W,ECON,421,,OVERALL,Introduction to Game Theory and Applications.,,73,73.95890411,16.35410105,100.0,0.0,3,0.0,2,8,7,9,10,6,10,9,9
+UBCV,2018,W,ECON,425,,002,Introduction to Econometrics,Erwann Sbai;Hugh Neary;Samuel Gyetvay,24,70.33333333,20.25632841,93.0,9.0,2,1,3,2,1,0.0,4,1,2,6,2
+UBCV,2018,W,ECON,425,,003,Introduction to Econometrics,Denis Kojevnikov;Emrul Hasan,48,84.39583333,8.041751644,98.0,68.0,0,0,0,0,0,5,3,4,11,11,14
+UBCV,2018,W,ECON,425,,OVERALL,Introduction to Econometrics,,72,79.70833333,14.84230488,98.0,9.0,2,1,3,2,1,5,7,5,13,17,16
+UBCV,2018,W,ECON,441,,001,The Process of Economic Development,Patrick Francois;Rogerio Bianchi Santarrosa;Rogerio Santarrosa,63,80.50793651,9.219322304,95.0,42.0,1,0,1,1,0,6,6,5,23,10,10
+UBCV,2018,W,ECON,441,,002,The Process of Economic Development,Felipe Valencia Caicedo;Gabriel Brown;Gabriel Moagi Brown,43,75.41860465,16.23669061,98.0,0.0,1,0.0,3,3,2,6,4,7,6,4,7
+UBCV,2018,W,ECON,441,,OVERALL,The Process of Economic Development,,106,78.44339623,12.72573709,98.0,0.0,2,0.0,4,4,2,12,10,12,29,14,17
+UBCV,2018,W,ECON,442,,001,Issues in Economic Development,Jamie Mccasland;Pedro Martins Pessoa,50,79.44,16.71264949,99.0,0.0,1,2,2,1,1,4,2,5,8,13,11
+UBCV,2018,W,ECON,442,,002,Issues in Economic Development,German Antonio Vega Acuna;German Vega Acuna;Jamie Mccasland,59,77.98305085,13.43886737,99.0,15.0,1,0.0,2,3,6,4,6,6,9,14,8
+UBCV,2018,W,ECON,442,,OVERALL,Issues in Economic Development,,109,78.65137615,14.97490255,99.0,0.0,2,2,4,4,7,8,8,11,17,27,19
+UBCV,2018,W,ECON,447,,001,Monetary Theory,Geoffrey Newman;Mengying Wei,17,70.05882353,20.55623564,94.0,8.0,1,2,0,2,0,3,2,0,4,1,2
+UBCV,2018,W,ECON,447,,OVERALL,Monetary Theory,,17,70.05882353,20.55623564,94.0,8.0,1,2,0,2,0,3,2,0,4,1,2
+UBCV,2018,W,ECON,451,,001,Economics of Public Expenditures,Wai-Ching Alfred Kong;Yingyi Liang,44,72.04545455,17.65424324,100.0,50.0,0,12,2,3,3,2,2,3,4,4,9
+UBCV,2018,W,ECON,451,,OVERALL,Economics of Public Expenditures,,44,72.04545455,17.65424324,100.0,50.0,0,12,2,3,3,2,2,3,4,4,9
+UBCV,2018,W,ECON,455,,001,International Trade,Federico Guzman;Matilde Bombardini,42,74.0,13.41822568,95.0,34.0,3,2,0,0,6,3,7,4,9,4,4
+UBCV,2018,W,ECON,455,,002,International Trade,John Ries;Mico Rudasingwa,42,76.92857143,12.810805,95.0,5.0,1,0,0,1,1,2,4,12,16,3,2
+UBCV,2018,W,ECON,455,,OVERALL,International Trade,,84,75.46428571,13.12171605,95.0,5.0,4,2,0.0,1,7,5,11,16,25,7,6
+UBCV,2018,W,ECON,456,,001,International Macroeconomics and Finance,Anand Chopra;Michael Devereux,34,76.55882353,16.38586082,95.0,0.0,1,0,0,1,3,4,6,1,6,6,6
+UBCV,2018,W,ECON,456,,002,International Macroeconomics and Finance,Anand Chopra;Viktoriya Hnatkovska,77,69.85714286,13.97527355,93.0,21.0,6,4,6,7,6,11,8,9,11,4,5
+UBCV,2018,W,ECON,456,,OVERALL,International Macroeconomics and Finance,,111,71.90990991,15.0039689,95.0,0.0,7,4,6,8,9,15,14,10,17,10,11
+UBCV,2018,W,ECON,457,,001,Seminar in International Economic Relations,Nisha Malhotra,22,83.04545455,3.747726584,90.0,78.0,0,0,0,0,0,0,0,2,14,3,3
+UBCV,2018,W,ECON,457,,OVERALL,Seminar in International Economic Relations,,22,83.04545455,3.747726584,90.0,78.0,0,0,0,0,0,0,0,2,14,3,3
+UBCV,2018,W,ECON,465,,001,Market Structure,Il Myoung Hwang;Il Myoung Sam Hwang;Mengying Wei,40,70.275,22.36983718,100.0,1.0,5,2,2,0.0,4,4,3,3,4,9,4
+UBCV,2018,W,ECON,465,,OVERALL,Market Structure,,40,70.275,22.36983718,100.0,1.0,5,2,2,0.0,4,4,3,3,4,9,4
+UBCV,2018,W,ECON,466,,001,The Economics of Government Regulation of Business,Michael Vaney,6,81.33333333,11.09354167,94.0,64.0,0,0,0,0,1,0,1,0,0,3,1
+UBCV,2018,W,ECON,466,,OVERALL,The Economics of Government Regulation of Business,,6,81.33333333,11.09354167,94.0,64.0,0,0,0,0,1,0,1,0,0,3,1
+UBCV,2018,W,ECON,471,,001,Economics of Nonrenewable Resources,Brian Copeland;Philip Michael Monagan;Philip Monagan,73,80.39726027,10.4372992,98.0,51.0,0,1,2,0.0,3,7,14,7,14,8,17
+UBCV,2018,W,ECON,471,,OVERALL,Economics of Nonrenewable Resources,,73,80.39726027,10.4372992,98.0,51.0,0,1,2,0.0,3,7,14,7,14,8,17
+UBCV,2018,W,ECON,472,,002,Economics of Renewable Resources,Gordon Munro;Kiernan Gange,86,72.45348837,13.24045226,96.0,6.0,1,4,1,12,11,12,10,8,7,11,9
+UBCV,2018,W,ECON,472,,OVERALL,Economics of Renewable Resources,,86,72.45348837,13.24045226,96.0,6.0,1,4,1,12,11,12,10,8,7,11,9
+UBCV,2018,W,ECON,485,,001,Political Economy,Rogerio Bianchi Santarrosa;Rogerio Santarrosa;Thorsten Rogall,62,80.77419355,14.10431785,99.0,10.0,1,1,1,3,2,3,5,5,15,13,13
+UBCV,2018,W,ECON,485,,OVERALL,Political Economy,,62,80.77419355,14.10431785,99.0,10.0,1,1,1,3,2,3,5,5,15,13,13
+UBCV,2018,W,ECON,490,,001,Seminar in Applied Economics,Marina Adshade;Michael Wiebe,12,71.83333333,14.57789942,94.0,39.0,1,0,0,2,1,2,2,0,1,2,1
+UBCV,2018,W,ECON,490,,002,Seminar in Applied Economics,Michael Wiebe;Wai-Ching Alfred Kong,17,80.11764706,6.411730977,93.0,68.0,0,0,0,0,0,1,3,5,3,3,2
+UBCV,2018,W,ECON,490,,003,Seminar in Applied Economics,Michael Wiebe;Wai-Ching Alfred Kong,18,76.33333333,6.0,86.0,63.0,0,0,0,1,0.0,3,1,9,1,3,0
+UBCV,2018,W,ECON,490,,004,Seminar in Applied Economics,Marcelo Sacchi De Carvalho;Marina Adshade,13,65.07692308,19.99775628,88.0,23.0,2,0,1,2,0,3,2,0,0,3,0
+UBCV,2018,W,ECON,490,,005,Seminar in Applied Economics,Jonathan Graves;Marcelo Sacchi De Carvalho,20,81.75,10.89120843,94.0,58.0,0,0,1,1,0.0,1,3,2,1,5,6
+UBCV,2018,W,ECON,490,,006,Seminar in Applied Economics,Marcelo Sacchi De Carvalho;Nisha Malhotra,19,66.31578947,10.91407161,78.0,50.0,0,5,1,0.0,2,4,2,5,0,0,0
+UBCV,2018,W,ECON,490,,007,Seminar in Applied Economics,Marcelo Sacchi De Carvalho;Michael Vaney,18,81.22222222,8.142521329,94.0,68.0,0,0,0,0,0,3,3,1,3,4,4
+UBCV,2018,W,ECON,490,,008,Seminar in Applied Economics,Michael Wiebe;Munir Squires,17,76.41176471,18.81840463,89.0,7.0,1,0,0,0,1,0,1,2,9,3,0
+UBCV,2018,W,ECON,490,,009,Seminar in Applied Economics,Michael Wiebe;Nisha Malhotra,18,72.16666667,2.74933147,76.0,67.0,0,0,0,0,2,3,12,1,0,0,0
+UBCV,2018,W,ECON,490,,011,Seminar in Applied Economics,Lanny Zrill;Marcelo Sacchi De Carvalho,20,71.85,12.22712687,90.0,38.0,1,0,0,4,0,2,6,3,0,1,3
+UBCV,2018,W,ECON,490,,012,Seminar in Applied Economics,Jamie Mccasland;Marcelo Sacchi De Carvalho,21,77.0952381,11.33536396,96.0,60.0,0,0,0,3,2,1,3,3,3,2,4
+UBCV,2018,W,ECON,490,,013,Seminar in Applied Economics,Lanny Zrill;Michael Wiebe,18,72.83333333,15.66656237,94.0,40.0,2,1,0,1,2,2,2,2,2,0,4
+UBCV,2018,W,ECON,490,,014,Seminar in Applied Economics,Jonathan Graves;Michael Wiebe,18,83.27777778,10.32304991,97.0,60.0,0,0,0,1,1,0.0,2,1,3,4,6
+UBCV,2018,W,ECON,490,,015,Seminar in Applied Economics,Michael Wiebe;Thorsten Rogall,19,85.15789474,5.510224415,94.0,77.0,0,0,0,0,0,0,0,4,6,3,6
+UBCV,2018,W,ECON,490,,OVERALL,Seminar in Applied Economics,,248,76.14112903,12.72729549,97.0,7.0,7,6,3,15,11,25,42,38,32,33,36
+UBCV,2018,W,ECON,492,E,002,Directed Reading,Joshua Gottlieb,17,90.82352941,7.037713532,99.0,72.0,0,0,0,0,0,0,1,0.0,1,5,10
+UBCV,2018,W,ECON,492,E,OVERALL,Directed Reading,,17,90.82352941,7.037713532,99.0,72.0,0,0,0,0,0,0,1,0.0,1,5,10
+UBCV,2018,W,ECON,493,,001,Advanced Empirical Methods for International Economics,Da Kang;Munir Squires,80,74.9,10.34664992,100.0,39.0,1,0.0,5,3,9,13,12,10,16,4,7
+UBCV,2018,W,ECON,493,,OVERALL,Advanced Empirical Methods for International Economics,,80,74.9,10.34664992,100.0,39.0,1,0.0,5,3,9,13,12,10,16,4,7
+UBCV,2018,W,ECON,494,,001,Seminar in Applied International Economics,Benjamin Milner;Brian Copeland;Patrick Baylis;Vanessa Alviarez,18,83.72222222,4.824027553,90.0,70.0,0,0,0,0,0,1,0.0,1,7,8,1
+UBCV,2018,W,ECON,494,,002,Seminar in Applied International Economics,Benjamin Milner;Heng Ju;Kristin Siwan Anderson,21,87.80952381,6.33734209,98.0,73.0,0,0,0,0,0,0,2,0.0,2,9,8
+UBCV,2018,W,ECON,494,,003,Seminar in Applied International Economics,Benjamin Milner;Gordon Munro;Vanessa Alviarez,21,82.42857143,10.07259365,97.0,53.0,0,1,0,1,0,0,1,1,5,8,4
+UBCV,2018,W,ECON,494,,004,Seminar in Applied International Economics,Adlai Fisher;Benjamin Milner;Heng Ju,19,82.31578947,1.945154423,86.0,79.0,0,0,0,0,0,0,0,2,13,4,0
+UBCV,2018,W,ECON,494,,OVERALL,Seminar in Applied International Economics,,79,84.12658228,6.893637142,98.0,53.0,0,1,0,1,0,1,3,4,27,29,13
+UBCV,2018,W,ECON,495,,003,Honours Seminar,Michal Rehavi,7,85.28571429,5.186980037,92.0,78.0,0,0,0,0,0,0,0,1,2,2,2
+UBCV,2018,W,ECON,495,,OVERALL,Honours Seminar,,7,85.28571429,5.186980037,92.0,78.0,0,0,0,0,0,0,0,1,2,2,2
+UBCV,2018,W,ECON,499,,001,Honours Essay,Michal Rehavi,7,86.42857143,6.778818551,94.0,78.0,0,0,0,0,0,0,0,2,1,1,3
+UBCV,2018,W,ECON,499,,OVERALL,Honours Essay,,7,86.42857143,6.778818551,94.0,78.0,0,0,0,0,0,0,0,2,1,1,3
+UBCV,2018,W,ECON,500,,001,Microeconomics,Clemens Possnig;German Antonio Vega Acuna;German Vega Acuna;Vitor Farinha Luz,64,82.40625,8.199339404,96.0,60.0,0,0,0,1,3,2,5,13,9,16,15
+UBCV,2018,W,ECON,500,,OVERALL,Microeconomics,,64,82.40625,8.199339404,96.0,60.0,0,0,0,1,3,2,5,13,9,16,15
+UBCV,2018,W,ECON,502,,001,Macroeconomics,Chenyu Hou;Christopher P Barrington-Leigh;German Antonio Vega Acuna;German Vega Acuna;Nisha Malhotra;Viktoriya Hnatkovska,58,84.70689655,5.681637461,95.0,73.0,0,0,0,0,0,0,3,13,8,22,12
+UBCV,2018,W,ECON,502,,OVERALL,Macroeconomics,,58,84.70689655,5.681637461,95.0,73.0,0,0,0,0,0,0,3,13,8,22,12
+UBCV,2018,W,ECON,514,,001,Information and Incentives,Vitor Farinha Luz,24,90.875,4.857199945,98.0,83.0,0,0,0,0,0,0,0,0,2,9,13
+UBCV,2018,W,ECON,514,,OVERALL,Information and Incentives,,24,90.875,4.857199945,98.0,83.0,0,0,0,0,0,0,0,0,2,9,13
+UBCV,2018,W,ECON,526,,001,Mathematics for Economics,Hao Li;Paul Schrimpf;Sejin Ahn,54,85.40740741,6.568990958,98.0,71.0,0,0,0,0,0,1,4,4,12,18,15
+UBCV,2018,W,ECON,526,,OVERALL,Mathematics for Economics,,54,85.40740741,6.568990958,98.0,71.0,0,0,0,0,0,1,4,4,12,18,15
+UBCV,2018,W,ECON,527,,001,Econometric Methods of Economic Research,Neil Douglas Lloyd;Neil Lloyd;Sejin Ahn;Vadim Marmer,62,80.66129032,11.20296148,100.0,60.0,0,0,0,6,0.0,7,9,8,8,8,16
+UBCV,2018,W,ECON,527,,OVERALL,Econometric Methods of Economic Research,,62,80.66129032,11.20296148,100.0,60.0,0,0,0,6,0.0,7,9,8,8,8,16
+UBCV,2018,W,ECON,531,,001,Economic History of Modern Europe,Felipe Valencia Caicedo;Valencia Caicedo Felipe;Vitor Farinha Luz,8,92.75,6.135377506,100.0,85.0,0,0,0,0,0,0,0,0,0,2,6
+UBCV,2018,W,ECON,531,,OVERALL,Economic History of Modern Europe,,8,92.75,6.135377506,100.0,85.0,0,0,0,0,0,0,0,0,0,2,6
+UBCV,2018,W,ECON,541,,001,Economic Development I,Juan Felipe Riano Rodriguez;Juan Riano Rodriguez;Kristin Siwan Anderson;Michal Szkup,30,86.56666667,6.457731711,94.0,70.0,0,0,0,0,0,2,1,1,4,9,13
+UBCV,2018,W,ECON,541,,OVERALL,Economic Development I,,30,86.56666667,6.457731711,94.0,70.0,0,0,0,0,0,2,1,1,4,9,13
+UBCV,2018,W,ECON,542,,001,Economic Development II,Munir Squires,10,87.7,4.547282461,92.0,76.0,0,0,0,0,0,0,0,1,0.0,4,5
+UBCV,2018,W,ECON,542,,OVERALL,Economic Development II,,10,87.7,4.547282461,92.0,76.0,0,0,0,0,0,0,0,1,0.0,4,5
+UBCV,2018,W,ECON,544,,001,"Political Economy, Institutions, and Business",Adlai Newson;Francesco Trebbi;Juan Felipe Riano Rodriguez;Juan Riano Rodriguez;Thorsten Rogall,34,80.79411765,7.650626482,93.0,68.0,0,0,0,0,0,6,3,6,7,6,6
+UBCV,2018,W,ECON,544,,OVERALL,"Political Economy, Institutions, and Business",,34,80.79411765,7.650626482,93.0,68.0,0,0,0,0,0,6,3,6,7,6,6
+UBCV,2018,W,ECON,550,,001,Government Finance: Expenditures,Catherine Elizabeth Van Der List;Catherine Van Der List;Michal Rehavi,17,80.35294118,8.609160648,92.0,64.0,0,0,0,0,3,0.0,1,1,4,7,1
+UBCV,2018,W,ECON,550,,002,Government Finance: Expenditures,Michal Rehavi,7,86.28571429,4.572172559,91.0,80.0,0,0,0,0,0,0,0,0,2,3,2
+UBCV,2018,W,ECON,550,,OVERALL,Government Finance: Expenditures,,24,82.08333333,8.037502677,92.0,64.0,0,0,0,0,3,0.0,1,1,6,10,3
+UBCV,2018,W,ECON,551,,001,Government Finance: Revenues,Kevin Milligan;Werner Antweiler,7,84.14285714,5.72795983,92.0,74.0,0,0,0,0,0,0,1,0.0,2,3,1
+UBCV,2018,W,ECON,551,,OVERALL,Government Finance: Revenues,,7,84.14285714,5.72795983,92.0,74.0,0,0,0,0,0,0,1,0.0,2,3,1
+UBCV,2018,W,ECON,555,,001,International Trade,Christopher P Barrington-Leigh;Tomasz Swiecki,11,83.72727273,7.590664122,97.0,70.0,0,0,0,0,0,1,0.0,2,4,2,2
+UBCV,2018,W,ECON,555,,OVERALL,International Trade,,11,83.72727273,7.590664122,97.0,70.0,0,0,0,0,0,1,0.0,2,4,2,2
+UBCV,2018,W,ECON,556,,001,International Finance,Chenyu Hou;Kelly Erin Foley;Michael Devereux,24,81.58333333,8.30880448,94.0,50.0,0,,,,,,2,1,13,4,3
+UBCV,2018,W,ECON,556,,OVERALL,International Finance,,24,81.58333333,8.30880448,94.0,50.0,0,,,,,,2,1,13,4,3
+UBCV,2018,W,ECON,560,,001,Economics of Labour,Florian Hoffmann;Heng Ju;Nicole Fortin,11,92.45454546,2.659459959,98.0,88.0,0,0,0,0,0,0,0,0,0,1,10
+UBCV,2018,W,ECON,560,,OVERALL,Economics of Labour,,11,92.45454546,2.659459959,98.0,88.0,0,0,0,0,0,0,0,0,0,1,10
+UBCV,2018,W,ECON,561,,001,Topics in Industrial Relations,Nicole Fortin,13,82.30769231,9.655608175,95.0,64.0,0,0,0,0,1,1,2,2,0.0,4,3
+UBCV,2018,W,ECON,561,,OVERALL,Topics in Industrial Relations,,13,82.30769231,9.655608175,95.0,64.0,0,0,0,0,1,1,2,2,0.0,4,3
+UBCV,2018,W,ECON,562,,001,Research Design and Policy Evaluation in Economics,Jeffrey Hicks;Joshua Gottlieb,33,83.63636364,7.313592576,100.0,69.0,0,0,0,0,0,2,3,5,7,10,6
+UBCV,2018,W,ECON,562,,OVERALL,Research Design and Policy Evaluation in Economics,,33,83.63636364,7.313592576,100.0,69.0,0,0,0,0,0,2,3,5,7,10,6
+UBCV,2018,W,ECON,565,,001,Market Structure and Business Behaviour,Il Myoung Hwang;Il Myoung Sam Hwang,6,89.33333333,0.816496581,91.0,89.0,0,0,0,0,0,0,0,0,0,5,1
+UBCV,2018,W,ECON,565,,OVERALL,Market Structure and Business Behaviour,,6,89.33333333,0.816496581,91.0,89.0,0,0,0,0,0,0,0,0,0,5,1
+UBCV,2018,W,ECON,566,,001,Business Performance and Public Policy,Ralph Winter,23,83.60869565,6.478910756,98.0,72.0,0,0,0,0,0,0,3,2,9,2,7
+UBCV,2018,W,ECON,566,,OVERALL,Business Performance and Public Policy,,23,83.60869565,6.478910756,98.0,72.0,0,0,0,0,0,0,3,2,9,2,7
+UBCV,2018,W,ECON,567,,001,Organization Theory and Non-market Allocation,Paul Schrimpf,13,90.46153846,2.75727476,97.0,88.0,0,0,0,0,0,0,0,0,0,5,8
+UBCV,2018,W,ECON,567,,OVERALL,Organization Theory and Non-market Allocation,,13,90.46153846,2.75727476,97.0,88.0,0,0,0,0,0,0,0,0,0,5,8
+UBCV,2018,W,ECON,573,,001,Environmental Economics,Patrick Baylis,18,87.77777778,3.473522632,92.0,81.0,0,0,0,0,0,0,0,0,3,7,8
+UBCV,2018,W,ECON,573,,OVERALL,Environmental Economics,,18,87.77777778,3.473522632,92.0,81.0,0,0,0,0,0,0,0,0,3,7,8
+UBCV,2018,W,ECON,580,,001,Social and Economic Measurement,Vanessa Alviarez;W Erwin Diewert,7,90.0,15.58845727,99.0,55.0,0,0,,,,,,,,,6
+UBCV,2018,W,ECON,580,,OVERALL,Social and Economic Measurement,,7,90.0,15.58845727,99.0,55.0,0,0,,,,,,,,,6
+UBCV,2018,W,ECON,600,,001,Microeconomics I,Anubhav Jha;Michael Peters,22,83.59090909,6.381961864,95.0,72.0,0,0,0,0,0,0,3,2,6,6,5
+UBCV,2018,W,ECON,600,,OVERALL,Microeconomics I,,22,83.59090909,6.381961864,95.0,72.0,0,0,0,0,0,0,3,2,6,6,5
+UBCV,2018,W,ECON,601,,001,Microeconomics II,Sergei Severinov;Yin Chi Tam,23,81.82608696,9.212896958,98.0,64.0,0,0,0,0,1,3,3,2,4,5,5
+UBCV,2018,W,ECON,601,,OVERALL,Microeconomics II,,23,81.82608696,9.212896958,98.0,64.0,0,0,0,0,1,3,3,2,4,5,5
+UBCV,2018,W,ECON,602,,001,Macroeconomics I,Davide Alonzo;Giovanni Gallipoli;Henry Siu,19,87.31578947,4.714665436,96.0,79.0,0,0,0,0,0,0,0,2,1,10,6
+UBCV,2018,W,ECON,602,,OVERALL,Macroeconomics I,,19,87.31578947,4.714665436,96.0,79.0,0,0,0,0,0,0,0,2,1,10,6
+UBCV,2018,W,ECON,603,,001,Macroeconomics II,Davide Alonzo;Giovanni Gallipoli;Henry Siu,18,87.72222222,3.862421605,93.0,80.0,0,0,0,0,0,0,0,0,4,8,6
+UBCV,2018,W,ECON,603,,OVERALL,Macroeconomics II,,18,87.72222222,3.862421605,93.0,80.0,0,0,0,0,0,0,0,0,4,8,6
+UBCV,2018,W,ECON,626,,001,Econometric Theory I,Kyungchul Song;Mahdi Ebrahimikahou,22,80.40909091,6.514884722,91.0,68.0,0,0,0,0,0,2,3,5,7,2,3
+UBCV,2018,W,ECON,626,,OVERALL,Econometric Theory I,,22,80.40909091,6.514884722,91.0,68.0,0,0,0,0,0,2,3,5,7,2,3
+UBCV,2018,W,ECON,627,,001,Econometric Theory II,Denis Kojevnikov;Vadim Marmer,21,87.0,7.03562364,100.0,70.0,0,0,0,0,0,1,1,1,2,6,10
+UBCV,2018,W,ECON,627,,OVERALL,Econometric Theory II,,21,87.0,7.03562364,100.0,70.0,0,0,0,0,0,1,1,1,2,6,10
+UBCV,2018,W,ECON,628,,001,Topics in Applied Econometrics I,Jesse Perla;Paul Schrimpf;Sebnem Ucar;Yu Hao,16,90.9375,7.818514352,99.0,71.0,0,0,0,0,0,1,1,0,0,1,13
+UBCV,2018,W,ECON,628,,OVERALL,Topics in Applied Econometrics I,,16,90.9375,7.818514352,99.0,71.0,0,0,0,0,0,1,1,0,0,1,13
+UBCV,2018,W,ECON,629,C,001,Topics in Applied Econometrics II,Joshua Gottlieb;Kyungchul Song,6,90.0,5.513619501,98.0,86.0,0,0,0,0,0,0,0,0,0,4,2
+UBCV,2018,W,ECON,629,C,OVERALL,Topics in Applied Econometrics II,,6,90.0,5.513619501,98.0,86.0,0,0,0,0,0,0,0,0,0,4,2
+UBCV,2018,W,ECON,640,,001,Ph.D. Research Seminar,Giovanni Gallipoli,10,91.0,0.0,91.0,91.0,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2018,W,ECON,640,,002,Ph.D. Research Seminar,Giovanni Gallipoli,7,91.57142857,1.133893419,93.0,90.0,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2018,W,ECON,640,,OVERALL,Ph.D. Research Seminar,,17,91.23529412,0.752446989,93.0,90.0,0,0,0,0,0,0,0,0,0,0,17

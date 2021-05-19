@@ -1,8 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,S,BAHR,505,,DD1,Leadership,Parmjot Gill;Parmjot Singh Gill;Wayne Rawcliffe,35,81.942857143,2.168529688,86.0,74.0,,,,,,,,,30,,
-UBCV,2020,S,BAHR,505,,DD2,Leadership,Parmjot Gill;Parmjot Singh Gill;Wayne Rawcliffe,39,82.435897436,1.7136429619999998,85.0,78.0,,,,,,,,,34,,
-UBCV,2020,S,BAHR,505,,OVERALL,Leadership,,74,82.202702703,1.9442907619999998,86.0,74.0,,,,,,,,,64,8,
-UBCV,2020,S,BAHR,508,,818,Managing Change,Mackenzie Jones;Wayne Rawcliffe,47,80.106382979,5.494004806,92.0,64.0,,,,,,,7,10,21,,
-UBCV,2020,S,BAHR,508,,OVERALL,Managing Change,,47,80.106382979,5.494004806,92.0,64.0,,,,,,,7,10,21,,
-UBCV,2020,S,BAHR,560,,300,Building High Performance Teams and Organizations,Vatsala Gupta;Vatsala Yash Gupta;Wayne Rawcliffe,59,82.779661017,2.428762965,87.0,76.0,,,,,,,,5,43,11,
-UBCV,2020,S,BAHR,560,,OVERALL,Building High Performance Teams and Organizations,,59,82.779661017,2.428762965,87.0,76.0,,,,,,,,5,43,11,
+UBCV,2020,S,BAHR,505,,DD1,Leadership,Parmjot Gill;Parmjot Singh Gill;Wayne Rawcliffe,35,81.94285714,2.168529688,86.0,74.0,0,0,0,0,0,0.0,1,0.0,30,4,0
+UBCV,2020,S,BAHR,505,,DD2,Leadership,Parmjot Gill;Parmjot Singh Gill;Wayne Rawcliffe,39,82.43589744,1.713642962,85.0,78.0,0,0,0,0,0,0.0,0,1.0,34,4,0
+UBCV,2020,S,BAHR,505,,OVERALL,Leadership,,74,82.2027027,1.944290762,86.0,74.0,0,0,0,0,0,0.0,1,1.0,64,8,0
+UBCV,2020,S,BAHR,508,,818,Managing Change,Mackenzie Jones;Wayne Rawcliffe,47,80.42553192,5.507878471,92.0,64.0,0,0,0,0,1,0.0,6,10.0,21,5,4
+UBCV,2020,S,BAHR,508,,OVERALL,Managing Change,,47,80.42553192,5.507878471,92.0,64.0,0,0,0,0,1,0.0,6,10.0,21,5,4
+UBCV,2020,S,BAHR,560,,300,Building High Performance Teams and Organizations,Vatsala Gupta;Vatsala Yash Gupta;Wayne Rawcliffe,59,82.77966102,2.428762965,87.0,76.0,0,0,0,0,0,0.0,0,5.0,43,11,0
+UBCV,2020,S,BAHR,560,,OVERALL,Building High Performance Teams and Organizations,,59,82.77966102,2.428762965,87.0,76.0,0,0,0,0,0,0.0,0,5.0,43,11,0
+UBCV,2020,S,BAHR,580,D,001,Topics in Human Resources,Bradley Scheftner;Lingtao Yu;Michael Daniels;Rebecca Mee Kyung Paluch;Samyta Rai;Sandra Robinson;Tracey Gurton;Vatsala Gupta;Vatsala Yash Gupta;Wayne Rawcliffe;Yash Gupta;Yu-Wung Cheng,53,82.54716981,3.249651092,89.0,77.0,0,0,0,0,0,0.0,0,12.0,27,14,0
+UBCV,2020,S,BAHR,580,D,OVERALL,Topics in Human Resources,,53,82.54716981,3.249651092,89.0,77.0,0,0,0,0,0,0.0,0,12.0,27,14,0

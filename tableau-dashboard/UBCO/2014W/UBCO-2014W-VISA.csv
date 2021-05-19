@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2014,W,VISA,102,,001,Drawing and Two-Dimensional Art Practices I,Tannis Nielsen,22,82.95454546,18.14354738,99.0,33.0,,,,,,,,,,,11
-UBCO,2014,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Myron Campbell,21,85.57142857,8.20104523,96.0,68.0,,,,,,,,,,,8
+UBCO,2014,W,VISA,102,,003,Drawing and Two-Dimensional Art Practices I,Myron Campbell,21,85.57142857,8.20104523,96.0,68.0,0,0,0,0,0,,,,,,8
 UBCO,2014,W,VISA,102,,OVERALL,Drawing and Two-Dimensional Art Practices I,,43,84.23255814,14.08450214,99.0,33.0,,,,,,,,,7,7,19
-UBCO,2014,W,VISA,103,,001,Drawing and Two-Dimensional Art Practices II,Tannis Nielsen,20,82.95,7.096885899999999,94.0,70.0,,,,,,,,,5,,5
+UBCO,2014,W,VISA,103,,001,Drawing and Two-Dimensional Art Practices II,Tannis Nielsen,20,82.95,7.0968859,94.0,70.0,0,0,0,0,0,,,,5,,5
 UBCO,2014,W,VISA,103,,003,Drawing and Two-Dimensional Art Practices II,Tannis Nielsen,16,81.25,22.76693509,97.0,0.0,,,,,,,,,3,,6
 UBCO,2014,W,VISA,103,,OVERALL,Drawing and Two-Dimensional Art Practices II,,36,82.19444444,15.81828859,97.0,0.0,,,,,,,,,8,7,11
-UBCO,2014,W,VISA,104,,001,Three-Dimensional Art Practices I,Samuel Roy-Bois,20,72.75,14.96618997,89.0,32.0,,,,,,,,3,3,4,
-UBCO,2014,W,VISA,104,,002,Three-Dimensional Art Practices I,Steven Rayner,21,78.71428571,18.32250763,87.0,0.0,,,,,,,,5,5,10,
-UBCO,2014,W,VISA,104,,OVERALL,Three-Dimensional Art Practices I,,41,75.80487805,16.83332931,89.0,0.0,,,,,,,,8,8,14,
-UBCO,2014,W,VISA,105,,001,Three-Dimensional Art Practices II,Steven Rayner,12,84.75,6.4824939079999995,90.0,71.0,,,,,,,,0,,,4
-UBCO,2014,W,VISA,105,,002,Three-Dimensional Art Practices II,Steven Rayner,21,83.71428571,6.404239667000001,94.0,71.0,,,,,,,,6,,,6
-UBCO,2014,W,VISA,105,,OVERALL,Three-Dimensional Art Practices II,,33,84.09090909,6.351002068,94.0,71.0,,,,,,,,6,7,6,10
-UBCO,2014,W,VISA,106,,001,Introduction to New Media,Myron Campbell,28,81.85714286,9.2364587,94.0,53.0,,,,,,,2,,7,5,7
+UBCO,2014,W,VISA,104,,001,Three-Dimensional Art Practices I,Samuel Roy-Bois,20,72.75,14.96618997,89.0,32.0,,,,,,,,3,3,4,0
+UBCO,2014,W,VISA,104,,002,Three-Dimensional Art Practices I,Steven Rayner,21,78.71428571,18.32250763,87.0,0.0,,,,,,,,5,5,10,0
+UBCO,2014,W,VISA,104,,OVERALL,Three-Dimensional Art Practices I,,41,75.80487805,16.83332931,89.0,0.0,,,,,,,,8,8,14,0
+UBCO,2014,W,VISA,105,,001,Three-Dimensional Art Practices II,Steven Rayner,12,84.75,6.482493908,90.0,71.0,0,0,0,0,0,,,0,,,4
+UBCO,2014,W,VISA,105,,002,Three-Dimensional Art Practices II,Steven Rayner,21,83.71428571,6.404239667,94.0,71.0,0,0,0,0,0,,,6,,,6
+UBCO,2014,W,VISA,105,,OVERALL,Three-Dimensional Art Practices II,,33,84.09090909,6.351002068,94.0,71.0,0,0,0,0,0,,,6,7,6,10
+UBCO,2014,W,VISA,106,,001,Introduction to New Media,Myron Campbell,28,81.85714286,9.2364587,94.0,53.0,0,,,,,,2,,7,5,7
 UBCO,2014,W,VISA,106,,002,Introduction to New Media,Jon Corbett;Jon Michael Robert Corbett;Kacie Auffret;Myron Campbell,56,77.23214286,19.22592102,96.0,0.0,,,,,,,5,,13,9,13
 UBCO,2014,W,VISA,106,,OVERALL,Introduction to New Media,,84,78.77380952,16.65840444,96.0,0.0,,,,,,5,7,7,20,14,20
 UBCO,2014,W,VISA,137,,001,Introduction to Art I,Tannis Nielsen,27,71.14814815,20.93525496,94.0,0.0,,,,,,,,,6,,
@@ -20,65 +20,65 @@ UBCO,2014,W,VISA,147,,001,Introduction to Art II,Tannis Nielsen,9,65.33333333,37
 UBCO,2014,W,VISA,147,,OVERALL,Introduction to Art II,,9,65.33333333,37.36308339,90.0,0.0,,,,,,,,,,,
 UBCO,2014,W,VISA,200,,001,Studio Theory I,Gary Pearson,34,72.97058824,9.885665454,94.0,45.0,,,,5,,5,5,7,,,
 UBCO,2014,W,VISA,200,,OVERALL,Studio Theory I,,34,72.97058824,9.885665454,94.0,45.0,,,,5,,5,5,7,,,
-UBCO,2014,W,VISA,201,,001,Studio Theory II,Gary Pearson;Jenifer Lafrance,23,81.21739129999999,12.85215412,100.0,50.0,,,,,,,,,5,5,6
-UBCO,2014,W,VISA,201,,OVERALL,Studio Theory II,,23,81.21739129999999,12.85215412,100.0,50.0,,,,,,,,,5,5,6
-UBCO,2014,W,VISA,215,,001,Painting I,Gary Pearson,15,82.06666667,7.004760286000001,90.0,65.0,,,,,,,,,,8,
-UBCO,2014,W,VISA,215,,OVERALL,Painting I,,15,82.06666667,7.004760286000001,90.0,65.0,,,,,,,,,,8,
-UBCO,2014,W,VISA,225,,001,Painting II,Gary Pearson,15,83.73333333,6.041128876,90.0,73.0,,,,,,,,5,,5,
-UBCO,2014,W,VISA,225,,OVERALL,Painting II,,15,83.73333333,6.041128876,90.0,73.0,,,,,,,,5,,5,
-UBCO,2014,W,VISA,233,,001,Printmaking: Screenprinting I,W Briar Craig;W Craig,15,78.06666667,6.891678903,88.0,61.0,,,,,,,,5,5,,
-UBCO,2014,W,VISA,233,,OVERALL,Printmaking: Screenprinting I,,15,78.06666667,6.891678903,88.0,61.0,,,,,,,,5,5,,
-UBCO,2014,W,VISA,235,,001,Sculpture I,Samuel Roy-Bois,12,78.41666667,8.969223472000001,89.0,65.0,,,,,,,,,,,
-UBCO,2014,W,VISA,235,,OVERALL,Sculpture I,,12,78.41666667,8.969223472000001,89.0,65.0,,,,,,,,,,,
-UBCO,2014,W,VISA,244,,001,Photography I,Fern Helfand,20,82.25,3.9851698769999997,88.0,75.0,,,,,,,,5,7,7,
-UBCO,2014,W,VISA,244,,OVERALL,Photography I,,20,82.25,3.9851698769999997,88.0,75.0,,,,,,,,5,7,7,
-UBCO,2014,W,VISA,251,,001,Printmaking: Etching and Intaglio Processes I,W Craig,7,74.42857143,5.28700113,81.0,65.0,,,,,,,,,,,
-UBCO,2014,W,VISA,251,,OVERALL,Printmaking: Etching and Intaglio Processes I,,7,74.42857143,5.28700113,81.0,65.0,,,,,,,,,,,
-UBCO,2014,W,VISA,253,,001,Printmaking: Screenprinting II,W Briar Craig;W Craig,8,80.0,6.94879229,88.0,69.0,,,,,,,,,,,
-UBCO,2014,W,VISA,253,,OVERALL,Printmaking: Screenprinting II,,8,80.0,6.94879229,88.0,69.0,,,,,,,,,,,
-UBCO,2014,W,VISA,256,,001,Photography II,Fern Helfand,13,83.46153846,5.189980485,90.0,75.0,,,,,,,,,,5,
-UBCO,2014,W,VISA,256,,OVERALL,Photography II,,13,83.46153846,5.189980485,90.0,75.0,,,,,,,,,,5,
-UBCO,2014,W,VISA,261,,001,Video I,Myron Campbell,18,81.0,10.59411601,91.0,55.0,,,,,,,,,,7,
-UBCO,2014,W,VISA,261,,OVERALL,Video I,,18,81.0,10.59411601,91.0,55.0,,,,,,,,,,7,
-UBCO,2014,W,VISA,264,,001,Computer and Imaging Development I,Aleksandra Dulic,9,78.33333333,8.93028555,93.0,65.0,,,,,,,,,,,
-UBCO,2014,W,VISA,264,,OVERALL,Computer and Imaging Development I,,9,78.33333333,8.93028555,93.0,65.0,,,,,,,,,,,
-UBCO,2014,W,VISA,265,,001,Computer and Image Development II,Aleksandra Dulic,6,83.33333333,6.3456021520000006,95.0,77.0,,,,,,,,,,,
-UBCO,2014,W,VISA,265,,OVERALL,Computer and Image Development II,,6,83.33333333,6.3456021520000006,95.0,77.0,,,,,,,,,,,
-UBCO,2014,W,VISA,271,,001,Video II,Myron Campbell,10,85.7,7.379400759,96.0,74.0,,,,,,,,,,,5
-UBCO,2014,W,VISA,271,,OVERALL,Video II,,10,85.7,7.379400759,96.0,74.0,,,,,,,,,,,5
-UBCO,2014,W,VISA,282,,001,Drawing III,Katherine Pickering,15,77.4,21.50016611,87.0,0.0,,,,,,,,,9,,
-UBCO,2014,W,VISA,282,,OVERALL,Drawing III,,15,77.4,21.50016611,87.0,0.0,,,,,,,,,9,,
-UBCO,2014,W,VISA,283,,001,Drawing IV,Katherine Pickering,15,82.8,4.312771731000001,91.0,75.0,,,,,,,,,9,,
-UBCO,2014,W,VISA,283,,OVERALL,Drawing IV,,15,82.8,4.312771731000001,91.0,75.0,,,,,,,,,9,,
-UBCO,2014,W,VISA,290,D,001,Special Topics in Visual Art,Jordan Bennett;Myron Campbell,10,89.5,3.503966007,94.0,84.0,,,,,,,,,,,6
-UBCO,2014,W,VISA,290,D,OVERALL,Special Topics in Visual Art,,10,89.5,3.503966007,94.0,84.0,,,,,,,,,,,6
-UBCO,2014,W,VISA,300,C,001,Advanced Practice in Drawing,Aleksandra Dulic,14,81.28571429,6.497674986,90.0,70.0,,,,,,,,,,8,
-UBCO,2014,W,VISA,300,C,OVERALL,Advanced Practice in Drawing,,14,81.28571429,6.497674986,90.0,70.0,,,,,,,,,,8,
+UBCO,2014,W,VISA,201,,001,Studio Theory II,Gary Pearson;Jenifer Lafrance,23,81.2173913,12.85215412,100.0,50.0,0,,,,,,,,5,5,6
+UBCO,2014,W,VISA,201,,OVERALL,Studio Theory II,,23,81.2173913,12.85215412,100.0,50.0,0,,,,,,,,5,5,6
+UBCO,2014,W,VISA,215,,001,Painting I,Gary Pearson,15,82.06666667,7.004760286,90.0,65.0,0,0,0,0,,,,,,8,
+UBCO,2014,W,VISA,215,,OVERALL,Painting I,,15,82.06666667,7.004760286,90.0,65.0,0,0,0,0,,,,,,8,
+UBCO,2014,W,VISA,225,,001,Painting II,Gary Pearson,15,83.73333333,6.041128876,90.0,73.0,0,0,0,0,0,0,,5,,5,
+UBCO,2014,W,VISA,225,,OVERALL,Painting II,,15,83.73333333,6.041128876,90.0,73.0,0,0,0,0,0,0,,5,,5,
+UBCO,2014,W,VISA,233,,001,Printmaking: Screenprinting I,W Briar Craig;W Craig,15,78.06666667,6.891678903,88.0,61.0,0,0,0,,,,,5,5,,0
+UBCO,2014,W,VISA,233,,OVERALL,Printmaking: Screenprinting I,,15,78.06666667,6.891678903,88.0,61.0,0,0,0,,,,,5,5,,0
+UBCO,2014,W,VISA,235,,001,Sculpture I,Samuel Roy-Bois,12,78.41666667,8.969223472,89.0,65.0,0,0,0,0,,,,,,,0
+UBCO,2014,W,VISA,235,,OVERALL,Sculpture I,,12,78.41666667,8.969223472,89.0,65.0,0,0,0,0,,,,,,,0
+UBCO,2014,W,VISA,244,,001,Photography I,Fern Helfand,20,82.25,3.985169877,88.0,75.0,0,0,0,0,0,0,1.0,5,7,7,0
+UBCO,2014,W,VISA,244,,OVERALL,Photography I,,20,82.25,3.985169877,88.0,75.0,0,0,0,0,0,0,1.0,5,7,7,0
+UBCO,2014,W,VISA,251,,001,Printmaking: Etching and Intaglio Processes I,W Craig,7,74.42857143,5.28700113,81.0,65.0,0,0,0,0,,,,,,0,0
+UBCO,2014,W,VISA,251,,OVERALL,Printmaking: Etching and Intaglio Processes I,,7,74.42857143,5.28700113,81.0,65.0,0,0,0,0,,,,,,0,0
+UBCO,2014,W,VISA,253,,001,Printmaking: Screenprinting II,W Briar Craig;W Craig,8,80.0,6.94879229,88.0,69.0,0,0,0,0,0,,,,,,0
+UBCO,2014,W,VISA,253,,OVERALL,Printmaking: Screenprinting II,,8,80.0,6.94879229,88.0,69.0,0,0,0,0,0,,,,,,0
+UBCO,2014,W,VISA,256,,001,Photography II,Fern Helfand,13,83.46153846,5.189980485,90.0,75.0,0,0,0,0,0,0,,,,5,
+UBCO,2014,W,VISA,256,,OVERALL,Photography II,,13,83.46153846,5.189980485,90.0,75.0,0,0,0,0,0,0,,,,5,
+UBCO,2014,W,VISA,261,,001,Video I,Myron Campbell,18,81.0,10.59411601,91.0,55.0,0,0,,,,,,,,7,
+UBCO,2014,W,VISA,261,,OVERALL,Video I,,18,81.0,10.59411601,91.0,55.0,0,0,,,,,,,,7,
+UBCO,2014,W,VISA,264,,001,Computer and Imaging Development I,Aleksandra Dulic,9,78.33333333,8.93028555,93.0,65.0,0,0,0,0,,,,,,,
+UBCO,2014,W,VISA,264,,OVERALL,Computer and Imaging Development I,,9,78.33333333,8.93028555,93.0,65.0,0,0,0,0,,,,,,,
+UBCO,2014,W,VISA,265,,001,Computer and Image Development II,Aleksandra Dulic,6,83.33333333,6.345602152,95.0,77.0,0,0,0,0,0,0,0,,,,
+UBCO,2014,W,VISA,265,,OVERALL,Computer and Image Development II,,6,83.33333333,6.345602152,95.0,77.0,0,0,0,0,0,0,0,,,,
+UBCO,2014,W,VISA,271,,001,Video II,Myron Campbell,10,85.7,7.379400759,96.0,74.0,0,0,0,0,0,0,,,,,5
+UBCO,2014,W,VISA,271,,OVERALL,Video II,,10,85.7,7.379400759,96.0,74.0,0,0,0,0,0,0,,,,,5
+UBCO,2014,W,VISA,282,,001,Drawing III,Katherine Pickering,15,77.4,21.50016611,87.0,0.0,,,,,,,,,9,,0
+UBCO,2014,W,VISA,282,,OVERALL,Drawing III,,15,77.4,21.50016611,87.0,0.0,,,,,,,,,9,,0
+UBCO,2014,W,VISA,283,,001,Drawing IV,Katherine Pickering,15,82.8,4.312771731,91.0,75.0,0,0,0,0,0,0,,,9,,
+UBCO,2014,W,VISA,283,,OVERALL,Drawing IV,,15,82.8,4.312771731,91.0,75.0,0,0,0,0,0,0,,,9,,
+UBCO,2014,W,VISA,290,D,001,Special Topics in Visual Art,Jordan Bennett;Myron Campbell,10,89.5,3.503966007,94.0,84.0,0,0,0,0,0,0,0,0,,,6
+UBCO,2014,W,VISA,290,D,OVERALL,Special Topics in Visual Art,,10,89.5,3.503966007,94.0,84.0,0,0,0,0,0,0,0,0,,,6
+UBCO,2014,W,VISA,300,C,001,Advanced Practice in Drawing,Aleksandra Dulic,14,81.28571429,6.497674986,90.0,70.0,0,0,0,0,0,,,,,8,
+UBCO,2014,W,VISA,300,C,OVERALL,Advanced Practice in Drawing,,14,81.28571429,6.497674986,90.0,70.0,0,0,0,0,0,,,,,8,
 UBCO,2014,W,VISA,300,D,001,Advanced Practice in Drawing,Aleksandra Dulic,16,76.4375,13.06888799,90.0,39.0,,,,,,,,,,5,
 UBCO,2014,W,VISA,300,D,OVERALL,Advanced Practice in Drawing,,16,76.4375,13.06888799,90.0,39.0,,,,,,,,,,5,
-UBCO,2014,W,VISA,312,C,001,Advanced Practice in Painting,Gary Pearson,17,80.29411765,6.080344417,92.0,72.0,,,,,,,,,6,,
-UBCO,2014,W,VISA,312,C,OVERALL,Advanced Practice in Painting,,17,80.29411765,6.080344417,92.0,72.0,,,,,,,,,6,,
-UBCO,2014,W,VISA,312,D,001,Advanced Practice in Painting,Gary Pearson,15,81.8,8.897832802,95.0,67.0,,,,,,,,,,,
-UBCO,2014,W,VISA,312,D,OVERALL,Advanced Practice in Painting,,15,81.8,8.897832802,95.0,67.0,,,,,,,,,,,
-UBCO,2014,W,VISA,322,C,001,Advanced Practice in Sculpture,Steven Rayner,14,84.28571429,7.946247992000001,91.0,64.0,,,,,,,,,,7,
-UBCO,2014,W,VISA,322,C,OVERALL,Advanced Practice in Sculpture,,14,84.28571429,7.946247992000001,91.0,64.0,,,,,,,,,,7,
-UBCO,2014,W,VISA,322,D,002,Advanced Practice in Sculpture,Steven Rayner,12,86.25,6.4684549229999995,93.0,72.0,,,,,,,,,,,
-UBCO,2014,W,VISA,322,D,OVERALL,Advanced Practice in Sculpture,,12,86.25,6.4684549229999995,93.0,72.0,,,,,,,,,,,
-UBCO,2014,W,VISA,336,C,001,Advanced Practice in Printmaking,W Craig,8,78.125,8.096516006,90.0,64.0,,,,,,,,,,,
-UBCO,2014,W,VISA,336,C,OVERALL,Advanced Practice in Printmaking,,8,78.125,8.096516006,90.0,64.0,,,,,,,,,,,
-UBCO,2014,W,VISA,336,D,001,Advanced Practice in Printmaking,W Craig,6,83.83333333,7.026141663,91.0,73.0,,,,,,,,,,,
-UBCO,2014,W,VISA,336,D,OVERALL,Advanced Practice in Printmaking,,6,83.83333333,7.026141663,91.0,73.0,,,,,,,,,,,
-UBCO,2014,W,VISA,362,C,001,Advanced Practice in Photography,Fern Helfand,13,82.38461539,7.676136849,88.0,58.0,,,,,,,,,5,7,
-UBCO,2014,W,VISA,362,C,OVERALL,Advanced Practice in Photography,,13,82.38461539,7.676136849,88.0,58.0,,,,,,,,,5,7,
-UBCO,2014,W,VISA,362,D,001,Advanced Practice in Photography,Fern Helfand,11,83.45454546,2.296241989,87.0,80.0,,,,,,,,,6,5,
-UBCO,2014,W,VISA,362,D,OVERALL,Advanced Practice in Photography,,11,83.45454546,2.296241989,87.0,80.0,,,,,,,,,6,5,
-UBCO,2014,W,VISA,382,C,001,Advanced Practice in Media Arts,Stephen Foster,14,80.0,7.716116999,91.0,61.0,,,,,,,,,,,
-UBCO,2014,W,VISA,382,C,OVERALL,Advanced Practice in Media Arts,,14,80.0,7.716116999,91.0,61.0,,,,,,,,,,,
-UBCO,2014,W,VISA,382,D,001,Advanced Practice in Media Arts,Stephen Foster,9,81.88888889,8.069145625,96.0,69.0,,,,,,,,,,,
-UBCO,2014,W,VISA,382,D,OVERALL,Advanced Practice in Media Arts,,9,81.88888889,8.069145625,96.0,69.0,,,,,,,,,,,
-UBCO,2014,W,VISA,460,D,001,Special Topics in Visual Art,David Kadish;Stephen Foster,11,87.45454546,2.161649202,90.0,84.0,,,,,,,,,,8,
-UBCO,2014,W,VISA,460,D,OVERALL,Special Topics in Visual Art,,11,87.45454546,2.161649202,90.0,84.0,,,,,,,,,,8,
-UBCO,2014,W,VISA,482,,001,Advanced Art Practices I,Fern Helfand;Renay Egami;Samuel Roy-Bois,28,80.92857143,5.46997577,88.0,70.0,,,,,,,,5,6,11,
-UBCO,2014,W,VISA,482,,OVERALL,Advanced Art Practices I,,28,80.92857143,5.46997577,88.0,70.0,,,,,,,,5,6,11,
+UBCO,2014,W,VISA,312,C,001,Advanced Practice in Painting,Gary Pearson,17,80.29411765,6.080344417,92.0,72.0,0,0,0,0,0,0,,,6,,
+UBCO,2014,W,VISA,312,C,OVERALL,Advanced Practice in Painting,,17,80.29411765,6.080344417,92.0,72.0,0,0,0,0,0,0,,,6,,
+UBCO,2014,W,VISA,312,D,001,Advanced Practice in Painting,Gary Pearson,15,81.8,8.897832802,95.0,67.0,0,0,0,0,,,,,,,
+UBCO,2014,W,VISA,312,D,OVERALL,Advanced Practice in Painting,,15,81.8,8.897832802,95.0,67.0,0,0,0,0,,,,,,,
+UBCO,2014,W,VISA,322,C,001,Advanced Practice in Sculpture,Steven Rayner,14,84.28571429,7.946247992,91.0,64.0,0,0,0,0,,,,,,7,
+UBCO,2014,W,VISA,322,C,OVERALL,Advanced Practice in Sculpture,,14,84.28571429,7.946247992,91.0,64.0,0,0,0,0,,,,,,7,
+UBCO,2014,W,VISA,322,D,002,Advanced Practice in Sculpture,Steven Rayner,12,86.25,6.468454923,93.0,72.0,0,0,0,0,0,0,,,,,
+UBCO,2014,W,VISA,322,D,OVERALL,Advanced Practice in Sculpture,,12,86.25,6.468454923,93.0,72.0,0,0,0,0,0,0,,,,,
+UBCO,2014,W,VISA,336,C,001,Advanced Practice in Printmaking,W Craig,8,78.125,8.096516006,90.0,64.0,0,0,0,0,,,,,,,
+UBCO,2014,W,VISA,336,C,OVERALL,Advanced Practice in Printmaking,,8,78.125,8.096516006,90.0,64.0,0,0,0,0,,,,,,,
+UBCO,2014,W,VISA,336,D,001,Advanced Practice in Printmaking,W Craig,6,83.83333333,7.026141663,91.0,73.0,0,0,0,0,0,0,,,,,
+UBCO,2014,W,VISA,336,D,OVERALL,Advanced Practice in Printmaking,,6,83.83333333,7.026141663,91.0,73.0,0,0,0,0,0,0,,,,,
+UBCO,2014,W,VISA,362,C,001,Advanced Practice in Photography,Fern Helfand,13,82.38461539,7.676136849,88.0,58.0,0,0,,,,,,,5,7,0
+UBCO,2014,W,VISA,362,C,OVERALL,Advanced Practice in Photography,,13,82.38461539,7.676136849,88.0,58.0,0,0,,,,,,,5,7,0
+UBCO,2014,W,VISA,362,D,001,Advanced Practice in Photography,Fern Helfand,11,83.45454546,2.296241989,87.0,80.0,0,0,0,0,0,0,0,0,6,5,0
+UBCO,2014,W,VISA,362,D,OVERALL,Advanced Practice in Photography,,11,83.45454546,2.296241989,87.0,80.0,0,0,0,0,0,0,0,0,6,5,0
+UBCO,2014,W,VISA,382,C,001,Advanced Practice in Media Arts,Stephen Foster,14,80.0,7.716116999,91.0,61.0,0,0,0,,,,,,,,
+UBCO,2014,W,VISA,382,C,OVERALL,Advanced Practice in Media Arts,,14,80.0,7.716116999,91.0,61.0,0,0,0,,,,,,,,
+UBCO,2014,W,VISA,382,D,001,Advanced Practice in Media Arts,Stephen Foster,9,81.88888889,8.069145625,96.0,69.0,0,0,0,0,0,,,,,,
+UBCO,2014,W,VISA,382,D,OVERALL,Advanced Practice in Media Arts,,9,81.88888889,8.069145625,96.0,69.0,0,0,0,0,0,,,,,,
+UBCO,2014,W,VISA,460,D,001,Special Topics in Visual Art,David Kadish;Stephen Foster,11,87.45454546,2.161649202,90.0,84.0,0,0,0,0,0,0,0,0,,8,
+UBCO,2014,W,VISA,460,D,OVERALL,Special Topics in Visual Art,,11,87.45454546,2.161649202,90.0,84.0,0,0,0,0,0,0,0,0,,8,
+UBCO,2014,W,VISA,482,,001,Advanced Art Practices I,Fern Helfand;Renay Egami;Samuel Roy-Bois,28,80.92857143,5.46997577,88.0,70.0,0,0,0,0,0,,,5,6,11,0
+UBCO,2014,W,VISA,482,,OVERALL,Advanced Art Practices I,,28,80.92857143,5.46997577,88.0,70.0,0,0,0,0,0,,,5,6,11,0
 UBCO,2014,W,VISA,483,,001,Advanced Art Practices II,Amy Malbeuf;Fern Helfand;Samuel Roy-Bois,28,82.03571429,10.55315344,94.0,45.0,,,,,,,,,6,8,7
 UBCO,2014,W,VISA,483,,OVERALL,Advanced Art Practices II,,28,82.03571429,10.55315344,94.0,45.0,,,,,,,,,6,8,7

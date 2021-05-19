@@ -1,31 +1,31 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2015,W,SCIE,1,,001,Science One,Amanda Claire Zimmerman;Andrew Chih-An Wang;Arthur Charbonneau;Bryan Wong;Celeste Leander;Chih-An Wang;Christopher Addison;Costanza Piccolo;E Elliott Burnell;Fumika Suzuki;Gayathri Athavan;James Berger;Jasmyne Kassam;Mark Van Raamsdonk;Michael Gelbart;Noah Bayless;Noah Solomon Thomas Bayless;Omer Angel;Pamela Kalas;Stefan Dawydiak,62,78.435483871,9.381916627,97.0,61.0,,,,,6,7,8,6,11,13,8
-UBCV,2015,W,SCIE,1,,OVERALL,Science One,,62,78.435483871,9.381916627,97.0,61.0,,,,,6,7,8,6,11,13,8
-UBCV,2015,W,SCIE,113,,108,First-Year Seminar in Science,Abel Rosado Rey;Gunilla Oberg,25,78.04,8.314044342999999,90.0,62.0,,,,,,,5,,,6,
-UBCV,2015,W,SCIE,113,,109,First-Year Seminar in Science,Gunilla Oberg;Linda Matsuuchi,24,84.291666667,7.88768532,95.0,70.0,,,,,,,,,,,9
-UBCV,2015,W,SCIE,113,,110,First-Year Seminar in Science,Gunilla Oberg;Kellogg Booth,23,76.130434783,6.99548132,86.0,59.0,,,,,,,6,,9,,
-UBCV,2015,W,SCIE,113,,111,First-Year Seminar in Science,Douw Gerbrand Steyn;Gunilla Oberg,25,78.08,6.9457421010000004,89.0,63.0,,,,,,,,,9,,
-UBCV,2015,W,SCIE,113,,112,First-Year Seminar in Science,Gunilla Oberg;Mark Johnson,24,75.833333333,11.874952325999999,85.0,26.0,,,,,,,,,12,,
-UBCV,2015,W,SCIE,113,,113,First-Year Seminar in Science,Gunilla Oberg;James Berger,24,76.958333333,6.785400995,88.0,58.0,,,,,,,5,6,8,,
-UBCV,2015,W,SCIE,113,,114,First-Year Seminar in Science,Gunilla Oberg;James Carolan,23,72.434782609,7.901818473,90.0,53.0,,,,,,6,7,,5,,
-UBCV,2015,W,SCIE,113,,11A,First-Year Seminar in Science,Gunilla Oberg;John Sherman,27,72.111111111,9.560871111,90.0,50.0,,,,,,7,,,7,,
+UBCV,2015,W,SCIE,1,,001,Science One,Amanda Claire Zimmerman;Andrew Chih-An Wang;Arthur Charbonneau;Bryan Wong;Celeste Leander;Chih-An Wang;Christopher Addison;Costanza Piccolo;E Elliott Burnell;Fumika Suzuki;Gayathri Athavan;James Berger;Jasmyne Kassam;Mark Van Raamsdonk;Michael Gelbart;Noah Bayless;Noah Solomon Thomas Bayless;Omer Angel;Pamela Kalas;Stefan Dawydiak,62,78.435483871,9.381916627,97.0,61.0,0,0,0,3.0,6,7,8,6,11,13,8
+UBCV,2015,W,SCIE,1,,OVERALL,Science One,,62,78.435483871,9.381916627,97.0,61.0,0,0,0,3.0,6,7,8,6,11,13,8
+UBCV,2015,W,SCIE,113,,108,First-Year Seminar in Science,Abel Rosado Rey;Gunilla Oberg,25,78.04,8.314044343,90.0,62.0,0,0,0,,,,5,,,6,
+UBCV,2015,W,SCIE,113,,109,First-Year Seminar in Science,Gunilla Oberg;Linda Matsuuchi,24,84.291666667,7.88768532,95.0,70.0,0,0,0,0,0,,,,,,9
+UBCV,2015,W,SCIE,113,,110,First-Year Seminar in Science,Gunilla Oberg;Kellogg Booth,23,76.130434783,6.99548132,86.0,59.0,0,0,,,,,6,,9,,0
+UBCV,2015,W,SCIE,113,,111,First-Year Seminar in Science,Douw Gerbrand Steyn;Gunilla Oberg,25,78.08,6.945742101,89.0,63.0,0,0,0,,,,,,9,,0
+UBCV,2015,W,SCIE,113,,112,First-Year Seminar in Science,Gunilla Oberg;Mark Johnson,24,75.833333333,11.874952326,85.0,26.0,,,,,,,,,12,,0
+UBCV,2015,W,SCIE,113,,113,First-Year Seminar in Science,Gunilla Oberg;James Berger,24,76.958333333,6.785400995,88.0,58.0,0,0,,,,,5,6,8,,0
+UBCV,2015,W,SCIE,113,,114,First-Year Seminar in Science,Gunilla Oberg;James Carolan,23,72.434782609,7.901818473,90.0,53.0,0,,,,,6,7,,5,,
+UBCV,2015,W,SCIE,113,,11A,First-Year Seminar in Science,Gunilla Oberg;John Sherman,27,72.111111111,9.560871111,90.0,50.0,0,,,,,7,,,7,,
 UBCV,2015,W,SCIE,113,,209,First-Year Seminar in Science,Gunilla Oberg;Jane Maxwell,25,75.2,15.39209754,90.0,30.0,,,,,,,,5,6,6,
-UBCV,2015,W,SCIE,113,,210,First-Year Seminar in Science,Gunilla Oberg;Steven Plotkin,27,69.70370370399999,16.787850036,93.0,29.0,,,,,,,,,,5,
-UBCV,2015,W,SCIE,113,,211,First-Year Seminar in Science,Gunilla Oberg;Martin Adamson,26,75.653846154,10.291520034,88.0,44.0,,,,,,,,,13,,
+UBCV,2015,W,SCIE,113,,210,First-Year Seminar in Science,Gunilla Oberg;Steven Plotkin,27,69.703703704,16.787850036,93.0,29.0,,,,,,,,,,5,
+UBCV,2015,W,SCIE,113,,211,First-Year Seminar in Science,Gunilla Oberg;Martin Adamson,26,75.653846154,10.291520034,88.0,44.0,,,,,,,,,13,,0
 UBCV,2015,W,SCIE,113,,212,First-Year Seminar in Science,Gunilla Oberg;Marcia Graves,25,77.64,15.146176635,92.0,30.0,,,,,,,5,,6,7,
-UBCV,2015,W,SCIE,113,,213,First-Year Seminar in Science,Gunilla Oberg;Tara Ivanochko,26,79.115384615,5.13285046,86.0,69.0,,,,,,,6,,11,,
-UBCV,2015,W,SCIE,113,,214,First-Year Seminar in Science,Gunilla Oberg;John Sherman,23,68.869565217,15.969585717000001,92.0,27.0,,5,,,,,,,5,,
-UBCV,2015,W,SCIE,113,,215,First-Year Seminar in Science,Eric Jandciu;Gunilla Oberg,25,80.32,8.071142008999999,95.0,62.0,,,,,,,,,8,,
-UBCV,2015,W,SCIE,113,,21A,First-Year Seminar in Science,Gunilla Oberg;John Macdonald,25,74.2,12.376052144,95.0,50.0,,,,,,,5,,,,
+UBCV,2015,W,SCIE,113,,213,First-Year Seminar in Science,Gunilla Oberg;Tara Ivanochko,26,79.115384615,5.13285046,86.0,69.0,0,0,0,0,0,,6,,11,,0
+UBCV,2015,W,SCIE,113,,214,First-Year Seminar in Science,Gunilla Oberg;John Sherman,23,68.869565217,15.969585717,92.0,27.0,,5,,,,,,,5,,
+UBCV,2015,W,SCIE,113,,215,First-Year Seminar in Science,Eric Jandciu;Gunilla Oberg,25,80.32,8.071142009,95.0,62.0,0,0,0,,,,,,8,,
+UBCV,2015,W,SCIE,113,,21A,First-Year Seminar in Science,Gunilla Oberg;John Macdonald,25,74.2,12.376052144,95.0,50.0,0,,,,,,5,,,,
 UBCV,2015,W,SCIE,113,,OVERALL,First-Year Seminar in Science,,479,75.146137787,11.672283298,95.0,15.0,14,10,10,25,24,46,86,52,133,52,27
-UBCV,2015,W,SCIE,113,,V01,First-Year Seminar in Science,Ashley Welsh;Kayli Johnson,15,74.733333333,7.950441737,86.0,57.0,,,,,,,,,,,
-UBCV,2015,W,SCIE,113,,V03,First-Year Seminar in Science,Ashley Welsh,26,69.346153846,13.368447352,84.0,15.0,,,,,,,7,,5,,
+UBCV,2015,W,SCIE,113,,V01,First-Year Seminar in Science,Ashley Welsh;Kayli Johnson,15,74.733333333,7.950441737,86.0,57.0,0,0,,,,,,,,,0
+UBCV,2015,W,SCIE,113,,V03,First-Year Seminar in Science,Ashley Welsh,26,69.346153846,13.368447352,84.0,15.0,,,,,,,7,,5,0,0
 UBCV,2015,W,SCIE,113,,V04,First-Year Seminar in Science,Ashley Welsh;Meghan Allen,25,71.76,14.538110836,91.0,17.0,,,,,,,6,,7,,
-UBCV,2015,W,SCIE,113,,V07,First-Year Seminar in Science,Ashley Welsh;Joanne Alison Fox,16,71.625,9.492979862,86.0,59.0,,,,,,,,,,,
-UBCV,2015,W,SCIE,300,,109,Communicating Science,Edward Grant;Sean Graham,16,80.9375,6.233979467,89.0,62.0,,,,,,,,,8,,
-UBCV,2015,W,SCIE,300,,111,Communicating Science,Edward Grant,21,86.80952381,6.120613102999999,94.0,66.0,,,,,,,,,,10,6
-UBCV,2015,W,SCIE,300,,112,Communicating Science,Edward Grant;Edward Kroc,15,83.533333333,7.179998674,93.0,65.0,,,,,,,,,,,
-UBCV,2015,W,SCIE,300,,211,Communicating Science,Reinhard Jetter;Robin Stoodley,18,70.333333333,15.041120108,88.0,20.0,,,,,,6,,,,,
-UBCV,2015,W,SCIE,300,,212,Communicating Science,Edward Kroc;Reinhard Jetter,23,82.782608696,6.861993626,92.0,68.0,,,,,,,,,5,7,
-UBCV,2015,W,SCIE,300,,213,Communicating Science,Bruce Dunham;Reinhard Jetter,18,78.444444444,5.606951801,87.0,69.0,,,,,,,,,5,,
+UBCV,2015,W,SCIE,113,,V07,First-Year Seminar in Science,Ashley Welsh;Joanne Alison Fox,16,71.625,9.492979862,86.0,59.0,0,0,,,,,,,,,0
+UBCV,2015,W,SCIE,300,,109,Communicating Science,Edward Grant;Sean Graham,16,80.9375,6.233979467,89.0,62.0,0,0,0,,,,,,8,,0
+UBCV,2015,W,SCIE,300,,111,Communicating Science,Edward Grant,21,86.80952381,6.120613103,94.0,66.0,0,0,0,0,,,,,,10,6
+UBCV,2015,W,SCIE,300,,112,Communicating Science,Edward Grant;Edward Kroc,15,83.533333333,7.179998674,93.0,65.0,0,0,0,0,,,,,,,
+UBCV,2015,W,SCIE,300,,211,Communicating Science,Reinhard Jetter;Robin Stoodley,18,70.333333333,15.041120108,88.0,20.0,,,,,,6,,,,,0
+UBCV,2015,W,SCIE,300,,212,Communicating Science,Edward Kroc;Reinhard Jetter,23,82.782608696,6.861993626,92.0,68.0,0,0,0,0,0,,,,5,7,
+UBCV,2015,W,SCIE,300,,213,Communicating Science,Bruce Dunham;Reinhard Jetter,18,78.444444444,5.606951801,87.0,69.0,0,0,0,0,0,,,,5,,0
 UBCV,2015,W,SCIE,300,,OVERALL,Communicating Science,,111,80.657657658,9.770545249,94.0,20.0,,,,,,10,10,14,27,30,14

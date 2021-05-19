@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2017,S,ENGL,112,,001,Studies in Composition,Lainie Senger,35,85.228571429,15.503482937000001,97.0,7.0,,,,,,,,,,11,16
-UBCO,2017,S,ENGL,112,,002,Studies in Composition,Shirley Mcdonald,28,71.464285714,8.266317837,87.0,53.0,,,,,6,,8,,,,
-UBCO,2017,S,ENGL,112,,003,Studies in Composition,Joanna Cockerline,35,72.314285714,9.266547768999999,90.0,55.0,,,,,5,,6,,7,,
-UBCO,2017,S,ENGL,112,,101,Studies in Composition,Catherine Shaw;Shona Harrison,31,70.258064516,11.075401398,92.0,46.0,,,,7,,,,5,,,
-UBCO,2017,S,ENGL,112,,102,Studies in Composition,Lainie Senger,35,81.88571428600001,16.739828217,97.0,0.0,,,,,,,,,9,9,9
-UBCO,2017,S,ENGL,112,,OVERALL,Studies in Composition,,164,76.579268293,14.089105025999999,97.0,0.0,,,8,13,15,12,19,14,24,28,27
-UBCO,2017,S,ENGL,150,,001,Introduction to Literary Genre,Shona Harrison,11,62.363636363999994,24.800293253000003,90.0,1.0,,,,,,,,,,,
-UBCO,2017,S,ENGL,150,,OVERALL,Introduction to Literary Genre,,11,62.363636363999994,24.800293253000003,90.0,1.0,,,,,,,,,,,
-UBCO,2017,S,ENGL,151,,101,Critical Studies in Literature,Shirley Mcdonald,20,71.6,22.509413236,88.0,0.0,,,,,,,,,,7,
-UBCO,2017,S,ENGL,151,,OVERALL,Critical Studies in Literature,,20,71.6,22.509413236,88.0,0.0,,,,,,,,,,7,
+UBCO,2017,S,ENGL,112,,001,Studies in Composition,Lainie Senger,35,85.22857143,15.50348294,97.0,7.0,1,0.0,0.0,0,1,1,1,1,3,11,16
+UBCO,2017,S,ENGL,112,,002,Studies in Composition,Shirley Mcdonald,28,71.46428571,8.266317837,87.0,53.0,0,1.0,0.0,3,6,3,8,1,4,2,0
+UBCO,2017,S,ENGL,112,,003,Studies in Composition,Joanna Cockerline,35,72.31428571,9.266547769,90.0,55.0,0,0.0,4.0,3,5,3,6,4,7,2,1
+UBCO,2017,S,ENGL,112,,101,Studies in Composition,Catherine Shaw;Shona Harrison,31,70.25806452,11.0754014,92.0,46.0,1,0.0,3.0,7,3,3,3,5,1,4,1
+UBCO,2017,S,ENGL,112,,102,Studies in Composition,Lainie Senger,35,81.88571429,16.73982822,97.0,0.0,1,0.0,1.0,0,0,2,1,3,9,9,9
+UBCO,2017,S,ENGL,112,,OVERALL,Studies in Composition,,164,76.57926829,14.08910503,97.0,0.0,3,1.0,8.0,13,15,12,19,14,24,28,27
+UBCO,2017,S,ENGL,150,,001,Introduction to Literary Genre,Shona Harrison,11,62.36363636,24.80029325,90.0,1.0,2,0.0,1.0,2,1,0,1,1,2,0,1
+UBCO,2017,S,ENGL,150,,OVERALL,Introduction to Literary Genre,,11,62.36363636,24.80029325,90.0,1.0,2,0.0,1.0,2,1,0,1,1,2,0,1
+UBCO,2017,S,ENGL,151,,101,Critical Studies in Literature,Shirley Mcdonald,20,71.6,22.50941324,88.0,0.0,2,0.0,1.0,1,0,2,1,4,2,7,0
+UBCO,2017,S,ENGL,151,,OVERALL,Critical Studies in Literature,,20,71.6,22.50941324,88.0,0.0,2,0.0,1.0,1,0,2,1,4,2,7,0

@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,BAAC,501,,001,Financial Statement Analysis I,Joy Begley;Yang Yue,20,83.45,5.355518551,90.0,68.0,,,,,,,,,6,9,
-UBCV,2019,W,BAAC,501,,OVERALL,Financial Statement Analysis I,,20,83.45,5.355518551,90.0,68.0,,,,,,,,,6,9,
-UBCV,2019,W,BAAC,511,,001,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,Cheng Wen Yu;Jeff Kroeker;Sandra Chamberlain;Yifan Luo,21,79.142857143,9.291316991,92.0,60.0,,,,,,,,,,7,
-UBCV,2019,W,BAAC,511,,OVERALL,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,,21,79.142857143,9.291316991,92.0,60.0,,,,,,,,,,7,
-UBCV,2019,W,BAAC,550,,001,Foundations in  Accounting,Mary Chong;Tommy Fan,48,81.3125,9.560904991000001,96.0,60.0,,,,,,,,,10,13,11
-UBCV,2019,W,BAAC,550,,002,Foundations in  Accounting,Mary Chong;Tommy Fan,49,82.816326531,9.402290212,97.0,60.0,,,,,,5,,5,4,13,16
-UBCV,2019,W,BAAC,550,,300,Foundations in  Accounting,Jessica Louie;Robert Jackes;Zhi Yun Xu,60,84.866666667,6.634441891,97.0,72.0,,,,,,,9,,14,17,16
-UBCV,2019,W,BAAC,550,,819,Foundations in  Accounting,Robert Jackes,36,81.888888889,9.407528225,100.0,64.0,,,,,,,6,,8,4,10
-UBCV,2019,W,BAAC,550,,MM1,Foundations in  Accounting,Robert Jackes;Yang Yue,47,80.574468085,9.275364005,96.0,60.0,,,,,,8,,5,9,9,9
-UBCV,2019,W,BAAC,550,,OVERALL,Foundations in  Accounting,,240,82.45,8.866136036,100.0,60.0,,,,7,,20,24,22,45,56,62
-UBCV,2019,W,BAAC,551,,001,Foundations in Accounting II,Mary Chong;Tommy Fan,47,82.404255319,11.066320968,99.0,46.0,,,,,,7,,,7,6,18
-UBCV,2019,W,BAAC,551,,002,Foundations in Accounting II,Mary Chong;Tommy Fan,50,82.46,9.854471688,99.0,60.0,,,,,,,,9,11,7,13
-UBCV,2019,W,BAAC,551,,301,Foundations in Accounting II,Rafael Lopes Rogo;Robert Jackes,48,84.895833333,9.645282351,100.0,56.0,,,,,,,,,9,7,21
-UBCV,2019,W,BAAC,551,,818,Foundations in Accounting II,Robert Jackes,41,81.951219512,8.387345287999999,98.0,60.0,,,,,,5,,,10,11,7
-UBCV,2019,W,BAAC,551,,MM1,Foundations in Accounting II,Robert Jackes,48,81.458333333,8.658923163999999,93.0,38.0,,,,,,,,5,18,19,1
-UBCV,2019,W,BAAC,551,,OVERALL,Foundations in Accounting II,,234,82.653846154,9.591878167,100.0,38.0,,,,,6,20,12,25,55,50,60
+UBCV,2019,W,BAAC,501,,001,Financial Statement Analysis I,Joy Begley;Yang Yue,20,83.45,5.355518551,90.0,68.0,0,0,0,0,0.0,1,0.0,2,6,9,2
+UBCV,2019,W,BAAC,501,,OVERALL,Financial Statement Analysis I,,20,83.45,5.355518551,90.0,68.0,0,0,0,0,0.0,1,0.0,2,6,9,2
+UBCV,2019,W,BAAC,511,,001,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,Cheng Wen Yu;Jeff Kroeker;Sandra Chamberlain;Yifan Luo,21,79.14285714,9.291316991,92.0,60.0,0,0,0,2,0.0,1,4.0,3,2,7,2
+UBCV,2019,W,BAAC,511,,OVERALL,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,,21,79.14285714,9.291316991,92.0,60.0,0,0,0,2,0.0,1,4.0,3,2,7,2
+UBCV,2019,W,BAAC,550,,001,Foundations in  Accounting,Mary Chong;Tommy Fan,48,81.3125,9.560904991,96.0,60.0,0,0,0,4,1.0,4,1.0,4,10,13,11
+UBCV,2019,W,BAAC,550,,002,Foundations in  Accounting,Mary Chong;Tommy Fan,49,82.81632653,9.402290212,97.0,60.0,0,0,0,2,0.0,5,4.0,5,4,13,16
+UBCV,2019,W,BAAC,550,,300,Foundations in  Accounting,Jessica Louie;Robert Jackes;Zhi Yun Xu,60,84.86666667,6.634441891,97.0,72.0,0,0,0,0,0.0,0,9.0,4,14,17,16
+UBCV,2019,W,BAAC,550,,819,Foundations in  Accounting,Robert Jackes,36,81.88888889,9.407528225,100.0,64.0,0,0,0,0,1.0,3,6.0,4,8,4,10
+UBCV,2019,W,BAAC,550,,MM1,Foundations in  Accounting,Robert Jackes;Yang Yue,47,80.57446809,9.275364005,96.0,60.0,0,0,0,1,2.0,8,4.0,5,9,9,9
+UBCV,2019,W,BAAC,550,,OVERALL,Foundations in  Accounting,,240,82.45,8.866136036,100.0,60.0,0,0,0,7,4.0,20,24.0,22,45,56,62
+UBCV,2019,W,BAAC,551,,001,Foundations in Accounting II,Mary Chong;Tommy Fan,47,82.40425532,11.06632097,99.0,46.0,1,0,0,0,2.0,7,2.0,4,7,6,18
+UBCV,2019,W,BAAC,551,,002,Foundations in Accounting II,Mary Chong;Tommy Fan,50,82.46,9.854471688,99.0,60.0,0,0,0,1,3.0,3,3.0,9,11,7,13
+UBCV,2019,W,BAAC,551,,301,Foundations in Accounting II,Rafael Lopes Rogo;Robert Jackes,48,84.89583333,9.645282351,100.0,56.0,0,0,0,0,1.0,4,1.0,4,9,7,21
+UBCV,2019,W,BAAC,551,,818,Foundations in Accounting II,Robert Jackes,41,81.95121951,8.387345288,98.0,60.0,0,0,0,1,0.0,5,4.0,3,10,11,7
+UBCV,2019,W,BAAC,551,,MM1,Foundations in Accounting II,Robert Jackes,48,81.45833333,8.658923164,93.0,38.0,1,0,0,1,0.0,1,2.0,5,18,19,1
+UBCV,2019,W,BAAC,551,,OVERALL,Foundations in Accounting II,,234,82.65384615,9.591878167,100.0,38.0,3,0,0,3,6.0,20,12.0,25,55,50,60

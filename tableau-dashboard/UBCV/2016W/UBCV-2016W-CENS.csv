@@ -1,17 +1,17 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2016,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Dariya Prykhodko,40,79.725,9.418986553,92.0,50.0,,,,,,,,,13,9,4
-UBCV,2016,W,CENS,201,,003,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Katherine Bowers,31,86.48387096799999,6.103938443,98.0,74.0,,,,,,,,,8,11,9
-UBCV,2016,W,CENS,201,,OVERALL,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",,71,82.676056338,8.76319356,98.0,50.0,,,,,,,5,5,21,20,13
-UBCV,2016,W,CENS,202,,001,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Ilinca Iurascu,46,83.456521739,10.32086672,96.0,30.0,,,,,,,,5,10,19,8
-UBCV,2016,W,CENS,202,,002,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Patricia Milewski;Thomas Salumets,46,78.152173913,7.97486995,91.0,60.0,,,,,,,,8,12,12,1
-UBCV,2016,W,CENS,202,,003,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Markus Hallensleben;Sabine Zimmermann,47,78.638297872,14.391159019000002,92.0,0.0,,,,,,,5,7,10,12,5
-UBCV,2016,W,CENS,202,,005,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Katherine Bowers;Laura Isakov,45,79.111111111,8.681804961000001,95.0,61.0,,,,,,,7,2,12,8,6
-UBCV,2016,W,CENS,202,,OVERALL,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",,184,79.836956522,10.794430029,96.0,0.0,,,,7,7,12,18,22,44,51,20
-UBCV,2016,W,CENS,303,A,101,Representations of the Holocaust (in English),Anna Maria Switzer;Anna Switzer,64,79.1875,7.5464172089999995,94.0,58.0,,,,,,8,5,13,15,14,5
-UBCV,2016,W,CENS,303,A,99A,Representations of the Holocaust (in English),Anja Nowak;Bozena Karwowska,78,79.525641026,6.540035265,94.0,60.0,,,,,,6,14,11,21,21,
-UBCV,2016,W,CENS,303,A,99C,Representations of the Holocaust (in English),Bozena Karwowska,103,79.029126214,11.909344091,91.0,10.0,,,,,,1,7,15,47,22,
-UBCV,2016,W,CENS,303,A,OVERALL,Representations of the Holocaust (in English),,245,79.228571429,9.356158662999999,94.0,10.0,,,,,,15,26,39,83,57,12
-UBCV,2016,W,CENS,307,,001,Witches: Myth and Reality,Kyle Frackman;Melanie Kage,67,84.149253731,12.117172552000001,97.0,24.0,,,,,,,,7,9,18,24
-UBCV,2016,W,CENS,307,,OVERALL,Witches: Myth and Reality,,67,84.149253731,12.117172552000001,97.0,24.0,,,,,,,,7,9,18,24
-UBCV,2016,W,CENS,404,,001,"Gender and Nation: Women's State in Modern Central, Eastern and Northern European Literatures and Cultures",Stephanie Dreier;Steven Taubeneck,42,77.071428571,13.475167508,91.0,0.0,,,,,,,,15,18,,
-UBCV,2016,W,CENS,404,,OVERALL,"Gender and Nation: Women's State in Modern Central, Eastern and Northern European Literatures and Cultures",,42,77.071428571,13.475167508,91.0,0.0,,,,,,,,15,18,,
+UBCV,2016,W,CENS,201,,001,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Dariya Prykhodko,40,79.725,9.418986553,92.0,50.0,0,1.0,1,1.0,1,3,3,4,13,9,4
+UBCV,2016,W,CENS,201,,003,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",Katherine Bowers,31,86.48387097,6.103938443,98.0,74.0,0,0.0,0,0.0,0,0,2,1,8,11,9
+UBCV,2016,W,CENS,201,,OVERALL,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",,71,82.67605634,8.76319356,98.0,50.0,0,1.0,1,1.0,1,3,5,5,21,20,13
+UBCV,2016,W,CENS,202,,001,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Ilinca Iurascu,46,83.45652174,10.32086672,96.0,30.0,1,0.0,0,1.0,0,0,2,5,10,19,8
+UBCV,2016,W,CENS,202,,002,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Patricia Milewski;Thomas Salumets,46,78.15217391,7.97486995,91.0,60.0,0,0.0,0,3.0,2,4,4,8,12,12,1
+UBCV,2016,W,CENS,202,,003,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Markus Hallensleben;Sabine Zimmermann,47,78.63829787,14.39115902,92.0,0.0,1,0.0,1,1.0,1,4,5,7,10,12,5
+UBCV,2016,W,CENS,202,,005,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",Katherine Bowers;Laura Isakov,45,79.11111111,8.681804961,95.0,61.0,0,0.0,0,2.0,4,4,7,2,12,8,6
+UBCV,2016,W,CENS,202,,OVERALL,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",,184,79.83695652,10.79443003,96.0,0.0,2,0.0,1,7.0,7,12,18,22,44,51,20
+UBCV,2016,W,CENS,303,A,101,Representations of the Holocaust (in English),Anna Switzer,64,79.1875,7.546417209,94.0,58.0,0,0.0,1,0.0,3,8,5,13,15,14,5
+UBCV,2016,W,CENS,303,A,99A,Representations of the Holocaust (in English),Anja Nowak;Bozena Karwowska,78,79.52564103,6.540035265,94.0,60.0,0,0.0,0,1.0,1,6,14,11,21,21,3
+UBCV,2016,W,CENS,303,A,99C,Representations of the Holocaust (in English),Bozena Karwowska,103,79.02912621,11.90934409,91.0,10.0,4,2.0,0,1.0,0,1,7,15,47,22,4
+UBCV,2016,W,CENS,303,A,OVERALL,Representations of the Holocaust (in English),,245,79.22857143,9.356158663,94.0,10.0,4,2.0,1,2.0,4,15,26,39,83,57,12
+UBCV,2016,W,CENS,307,,001,Witches: Myth and Reality,Kyle Frackman;Melanie Kage,67,84.14925373,12.11717255,97.0,24.0,2,0.0,0,1.0,1,2,3,7,9,18,24
+UBCV,2016,W,CENS,307,,OVERALL,Witches: Myth and Reality,,67,84.14925373,12.11717255,97.0,24.0,2,0.0,0,1.0,1,2,3,7,9,18,24
+UBCV,2016,W,CENS,404,,001,"Gender and Nation: Women's State in Modern Central, Eastern and Northern European Literatures and Cultures",Stephanie Dreier;Steven Taubeneck,42,77.07142857,13.47516751,91.0,0.0,1,0.0,1,1.0,0,0,2,15,18,3,1
+UBCV,2016,W,CENS,404,,OVERALL,"Gender and Nation: Women's State in Modern Central, Eastern and Northern European Literatures and Cultures",,42,77.07142857,13.47516751,91.0,0.0,1,0.0,1,1.0,0,0,2,15,18,3,1
