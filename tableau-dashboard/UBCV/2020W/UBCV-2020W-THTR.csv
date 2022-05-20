@@ -1,101 +1,105 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,THTR,120,,001,Introduction to Theatre,Hanyang Harry Jiang;Hanyang Jiang;Moya O'Connell;Olivia Michiko Gagnon;Stephen Drover,66,83.56060606,6.793953846,96.0,64.0,0,0,0,0,1,3,6.0,5.0,17.0,22,12
-UBCV,2020,W,THTR,120,,OVERALL,Introduction to Theatre,,66,83.56060606,6.793953846,96.0,64.0,0,0,0,0,1,3,6.0,5.0,17.0,22,12
+UBCV,2020,W,THTR,120,,001,Introduction to Theatre,Hanyang Harry Jiang;Hanyang Jiang;Moya O'Connell;Olivia Michiko Gagnon;Stephen Drover,66,83.560606061,6.793953846,96.0,64.0,0,0,0,0,1,3,6.0,5.0,17.0,22,12
+UBCV,2020,W,THTR,120,,OVERALL,Introduction to Theatre,,66,83.560606061,6.793953846,96.0,64.0,0,0,0,0,1,3,6.0,5.0,17.0,22,12
 UBCV,2020,W,THTR,130,,002,Introduction to Stage Acting,Gayle Murphy;Judy Segal;Ryan Gladstone,22,83.5,4.798313196,88.0,68.0,0,0,0,0,0,1,1.0,0.0,7.0,13,0
 UBCV,2020,W,THTR,130,,003,Introduction to Stage Acting,Courtenay Dobbie;Lauren Taylor,21,85.19047619,19.30704288,96.0,3.0,1,0,0,0,0,0,0.0,0.0,3.0,4,13
-UBCV,2020,W,THTR,130,,OVERALL,Introduction to Stage Acting,,43,84.3255814,13.77492707,96.0,3.0,1,0,0,0,0,1,1.0,0.0,10.0,17,13
-UBCV,2020,W,THTR,150,A,001,Introduction to Technical Production,Robert Gardiner;Susan Bertoia,37,93.45945946,3.321600974,98.0,83.0,0,0,0,0,0,0,0.0,0.0,1.0,3,33
-UBCV,2020,W,THTR,150,A,OVERALL,Introduction to Technical Production,,37,93.45945946,3.321600974,98.0,83.0,0,0,0,0,0,0,0.0,0.0,1.0,3,33
-UBCV,2020,W,THTR,205,A,001,Graphics for Theatre and Film Design,Robert Gardiner,16,92.6875,3.198306844,96.0,84.0,0,0,0,0,0,0,0.0,0.0,1.0,1,14
-UBCV,2020,W,THTR,205,A,OVERALL,Graphics for Theatre and Film Design,,16,92.6875,3.198306844,96.0,84.0,0,0,0,0,0,0,0.0,0.0,1.0,1,14
-UBCV,2020,W,THTR,205,B,001,Graphics for Theatre and Film Design,Robert Gardiner,11,91.54545455,4.590504033,98.0,85.0,0,0,0,0,0,0,0.0,0.0,0.0,4,7
-UBCV,2020,W,THTR,205,B,OVERALL,Graphics for Theatre and Film Design,,11,91.54545455,4.590504033,98.0,85.0,0,0,0,0,0,0,0.0,0.0,0.0,4,7
-UBCV,2020,W,THTR,210,,001,Drama: Forms and Ideas I,Colleen Lanki;Hallie Marshall;Marios Kallos;Omar Munoz Rodriguez;Stephen Drover;Yuting Chen,109,83.8440367,6.365669369,95.0,65.0,0,0,0,0,2,4,7.0,13.0,24.0,36,23
-UBCV,2020,W,THTR,210,,OVERALL,Drama: Forms and Ideas I,,109,83.8440367,6.365669369,95.0,65.0,0,0,0,0,2,4,7.0,13.0,24.0,36,23
-UBCV,2020,W,THTR,211,,001,Drama: Forms and Ideas II,Hanyang Jiang;Kirsty Johnston;Marijka Asbeek Brusse;Marios Kallos;Yuning Liu,60,81.85,6.826729619,92.0,66.0,0,0,0,0,1,6,6.0,4.0,19.0,14,10
-UBCV,2020,W,THTR,211,,OVERALL,Drama: Forms and Ideas II,,60,81.85,6.826729619,92.0,66.0,0,0,0,0,1,6,6.0,4.0,19.0,14,10
+UBCV,2020,W,THTR,130,,OVERALL,Introduction to Stage Acting,,43,84.325581395,13.774927068,96.0,3.0,1,0,0,0,0,1,1.0,0.0,10.0,17,13
+UBCV,2020,W,THTR,150,A,001,Introduction to Technical Production,Robert Gardiner,37,93.459459459,3.321600974,98.0,83.0,0,0,0,0,0,0,0.0,0.0,1.0,3,33
+UBCV,2020,W,THTR,150,A,OVERALL,Introduction to Technical Production,,37,93.459459459,3.321600974,98.0,83.0,0,0,0,0,0,0,0.0,0.0,1.0,1,33
+UBCV,2020,W,THTR,205,A,001,Graphics for Theatre and Film Design,Robert Gardiner,18,90.888888889,6.702843022,96.0,68.0,0,0,0,0,0,1,0.0,0.0,1.0,2,14
+UBCV,2020,W,THTR,205,A,OVERALL,Graphics for Theatre and Film Design,,18,90.888888889,6.702843022,96.0,68.0,0,0,0,0,0,1,0.0,0.0,1.0,2,14
+UBCV,2020,W,THTR,205,B,001,Graphics for Theatre and Film Design,Robert Gardiner,11,91.545454545,4.590504033,98.0,85.0,0,0,0,0,0,0,0.0,0.0,0.0,4,7
+UBCV,2020,W,THTR,205,B,OVERALL,Graphics for Theatre and Film Design,,11,91.545454545,4.590504033,98.0,85.0,0,0,0,0,0,0,0.0,0.0,0.0,4,7
+UBCV,2020,W,THTR,205,D,001,Graphics for Theatre and Film Design,Bradley Powers,8,72.75,19.35200248,97.0,40.0,1,1,0,0,1,1,0.0,0.0,1.0,1,2
+UBCV,2020,W,THTR,205,D,OVERALL,Graphics for Theatre and Film Design,,8,72.75,19.35200248,97.0,40.0,1,1,0,0,1,1,0.0,0.0,1.0,1,2
+UBCV,2020,W,THTR,210,,001,Drama: Forms and Ideas I,Colleen Lanki;Hallie Marshall;Marios Kallos;Omar Munoz Rodriguez;Stephen Drover;Yuting Chen,110,83.327272727,8.338161515,95.0,27.0,1,0,0,0,2,4,7.0,13.0,24.0,36,23
+UBCV,2020,W,THTR,210,,OVERALL,Drama: Forms and Ideas I,,110,83.327272727,8.338161515,95.0,27.0,1,0,0,0,2,4,7.0,13.0,24.0,36,23
+UBCV,2020,W,THTR,211,,001,Drama: Forms and Ideas II,Hanyang Jiang;Kirsty Johnston;Marijka Asbeek Brusse;Marios Kallos;Yuning Liu,76,78.565789474,14.457602868,92.0,0.0,2,0,0,2,3,7,9.0,5.0,22.0,14,12
+UBCV,2020,W,THTR,211,,OVERALL,Drama: Forms and Ideas II,,76,78.565789474,14.457602868,92.0,0.0,2,0,0,2,3,7,9.0,5.0,22.0,14,12
 UBCV,2020,W,THTR,250,,001,Technical Production,Bradley Powers;Lorraine West;Raphael Wagner,8,82.625,5.629958132,92.0,75.0,0,0,0,0,0,0,1.0,1.0,3.0,2,1
 UBCV,2020,W,THTR,250,,OVERALL,Technical Production,,8,82.625,5.629958132,92.0,75.0,0,0,0,0,0,0,1.0,1.0,3.0,2,1
-UBCV,2020,W,THTR,271,,001,Beginning B.F.A. Acting I,Leora Morris;Tom Scholte,11,79.27272727,4.880387466,85.0,69.0,0,0,0,0,0,1,0.0,5.0,3.0,2,0
-UBCV,2020,W,THTR,271,,OVERALL,Beginning B.F.A. Acting I,,11,79.27272727,4.880387466,85.0,69.0,0,0,0,0,0,1,0.0,5.0,3.0,2,0
-UBCV,2020,W,THTR,272,,001,Beginning B.F.A. Acting II,Leora Morris;Tom Scholte,11,80.09090909,4.763497569,87.0,74.0,0,0,0,0,0,0,3.0,3.0,2.0,3,0
-UBCV,2020,W,THTR,272,,OVERALL,Beginning B.F.A. Acting II,,11,80.09090909,4.763497569,87.0,74.0,0,0,0,0,0,0,3.0,3.0,2.0,3,0
-UBCV,2020,W,THTR,273,,001,Beginning Voice and Movement I,Allen Morrison;Gayle Murphy;Lauren Taylor;Lois Anderson;Michelle Olson;Sheila Langston,11,79.27272727,4.880387466,85.0,69.0,0,0,0,0,0,1,0.0,5.0,3.0,2,0
-UBCV,2020,W,THTR,273,,OVERALL,Beginning Voice and Movement I,,11,79.27272727,4.880387466,85.0,69.0,0,0,0,0,0,1,0.0,5.0,3.0,2,0
-UBCV,2020,W,THTR,274,,001,Beginning Voice and Movement II,Gayle Murphy;Michelle Olson,11,80.09090909,4.763497569,87.0,74.0,0,0,0,0,0,0,3.0,3.0,2.0,3,0
-UBCV,2020,W,THTR,274,,OVERALL,Beginning Voice and Movement II,,11,80.09090909,4.763497569,87.0,74.0,0,0,0,0,0,0,3.0,3.0,2.0,3,0
+UBCV,2020,W,THTR,271,,001,Beginning B.F.A. Acting I,Leora Morris;Tom Scholte,11,79.272727273,4.880387466,85.0,69.0,0,0,0,0,0,1,0.0,5.0,3.0,2,0
+UBCV,2020,W,THTR,271,,OVERALL,Beginning B.F.A. Acting I,,11,79.272727273,4.880387466,85.0,69.0,0,0,0,0,0,1,0.0,5.0,3.0,2,0
+UBCV,2020,W,THTR,272,,001,Beginning B.F.A. Acting II,Leora Morris;Tom Scholte,11,80.090909091,4.763497569,87.0,74.0,0,0,0,0,0,0,3.0,3.0,2.0,3,0
+UBCV,2020,W,THTR,272,,OVERALL,Beginning B.F.A. Acting II,,11,80.090909091,4.763497569,87.0,74.0,0,0,0,0,0,0,3.0,3.0,2.0,3,0
+UBCV,2020,W,THTR,273,,001,Beginning Voice and Movement I,Allen Morrison;Gayle Murphy;Lauren Taylor;Lois Anderson;Michelle Olson;Sheila Langston,11,79.272727273,4.880387466,85.0,69.0,0,0,0,0,0,1,0.0,5.0,3.0,2,0
+UBCV,2020,W,THTR,273,,OVERALL,Beginning Voice and Movement I,,11,79.272727273,4.880387466,85.0,69.0,0,0,0,0,0,1,0.0,5.0,3.0,2,0
+UBCV,2020,W,THTR,274,,001,Beginning Voice and Movement II,Gayle Murphy;Michelle Olson,11,80.090909091,4.763497569,87.0,74.0,0,0,0,0,0,0,3.0,3.0,2.0,3,0
+UBCV,2020,W,THTR,274,,OVERALL,Beginning Voice and Movement II,,11,80.090909091,4.763497569,87.0,74.0,0,0,0,0,0,0,3.0,3.0,2.0,3,0
 UBCV,2020,W,THTR,299,R,001,Production I,Bradley Powers;Lorraine West,6,81.0,4.647580015,87.0,75.0,0,0,0,0,0,0,1.0,2.0,2.0,1,0
 UBCV,2020,W,THTR,299,R,OVERALL,Production I,,6,81.0,4.647580015,87.0,75.0,0,0,0,0,0,0,1.0,2.0,2.0,1,0
 UBCV,2020,W,THTR,305,,001,Scenery Design I,Patrick Rizzotti,16,83.875,6.24899992,94.0,73.0,0,0,0,0,0,0,3.0,0.0,6.0,4,3
 UBCV,2020,W,THTR,305,,OVERALL,Scenery Design I,,16,83.875,6.24899992,94.0,73.0,0,0,0,0,0,0,3.0,0.0,6.0,4,3
-UBCV,2020,W,THTR,306,,001,Costume Design I,Jacqueline Firkins,19,85.63157895,10.75593132,96.0,58.0,0,0,1,0,0,1,1.0,3.0,1.0,3,9
-UBCV,2020,W,THTR,306,,OVERALL,Costume Design I,,19,85.63157895,10.75593132,96.0,58.0,0,0,1,0,0,1,1.0,3.0,1.0,3,9
-UBCV,2020,W,THTR,307,,001,Lighting Design I,Robert Gardiner,7,92.42857143,2.070196678,95.0,90.0,0,0,0,0,0,0,0.0,0.0,0.0,0,7
-UBCV,2020,W,THTR,307,,OVERALL,Lighting Design I,,7,92.42857143,2.070196678,95.0,90.0,0,0,0,0,0,0,0.0,0.0,0.0,0,7
-UBCV,2020,W,THTR,308,,001,Sound Design,Patrick Pennefather,28,89.60714286,4.693094105,95.0,78.0,0,0,0,0,0,0,0.0,3.0,1.0,6,18
-UBCV,2020,W,THTR,308,,OVERALL,Sound Design,,28,89.60714286,4.693094105,95.0,78.0,0,0,0,0,0,0,0.0,3.0,1.0,6,18
-UBCV,2020,W,THTR,310,,001,Theory of Drama Performance,Kirsty Johnston;Stephen Drover,19,82.15789474,8.361706085,95.0,68.0,0,0,0,0,0,3,2.0,2.0,3.0,4,5
-UBCV,2020,W,THTR,310,,OVERALL,Theory of Drama Performance,,19,82.15789474,8.361706085,95.0,68.0,0,0,0,0,0,3,2.0,2.0,3.0,4,5
-UBCV,2020,W,THTR,311,,001,Studies in Drama,Siyuan Liu,23,82.69565217,4.072466112,93.0,75.0,0,0,0,0,0,0,1.0,3.0,15.0,2,2
-UBCV,2020,W,THTR,311,,OVERALL,Studies in Drama,,23,82.69565217,4.072466112,93.0,75.0,0,0,0,0,0,0,1.0,3.0,15.0,2,2
-UBCV,2020,W,THTR,320,,001,History of Theatre I,Hallie Marshall,33,80.72727273,10.46205264,97.0,50.0,0,1,0,0,0,6,5.0,3.0,2.0,9,7
-UBCV,2020,W,THTR,320,,OVERALL,History of Theatre I,,33,80.72727273,10.46205264,97.0,50.0,0,1,0,0,0,6,5.0,3.0,2.0,9,7
-UBCV,2020,W,THTR,325,B,001,History of Canadian Theatre,Erin Ormond;Eury Chang,17,81.58823529,10.03779622,91.0,54.0,0,1,0,0,0,2,1.0,1.0,2.0,7,3
-UBCV,2020,W,THTR,325,B,OVERALL,History of Canadian Theatre,,17,81.58823529,10.03779622,91.0,54.0,0,1,0,0,0,2,1.0,1.0,2.0,7,3
-UBCV,2020,W,THTR,340,B,001,Studies in Asian Theatre,Siyuan Liu,21,82.66666667,4.683303677,90.0,73.0,0,0,0,0,0,0,1.0,4.0,8.0,6,2
-UBCV,2020,W,THTR,340,B,OVERALL,Studies in Asian Theatre,,21,82.66666667,4.683303677,90.0,73.0,0,0,0,0,0,0,1.0,4.0,8.0,6,2
-UBCV,2020,W,THTR,354,,001,Stage Management,Collette Berg;Judy Segal,24,82.08333333,12.99804891,97.0,44.0,1,0,0,0,1,3,1.0,4.0,2.0,2,10
-UBCV,2020,W,THTR,354,,OVERALL,Stage Management,,24,82.08333333,12.99804891,97.0,44.0,1,0,0,0,1,3,1.0,4.0,2.0,2,10
-UBCV,2020,W,THTR,371,,001,Intermediate B.F.A. Acting I,Bart Anderson;Courtenay Dobbie;Lois Anderson;Raphael Wagner,12,85.58333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
-UBCV,2020,W,THTR,371,,OVERALL,Intermediate B.F.A. Acting I,,12,85.58333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
-UBCV,2020,W,THTR,372,,001,Intermediate B.F.A. Acting II,Bart Anderson;Lois Anderson;Marlise Mccormick;Stephen Heatley;Susan Bertoia,12,86.33333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
-UBCV,2020,W,THTR,372,,OVERALL,Intermediate B.F.A. Acting II,,12,86.33333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
-UBCV,2020,W,THTR,373,,001,"Intermediate Voice, Speech, and Movement I",Erin Ormond;Gayle Murphy;Gerald Trentham;Marlise Mccormick,12,85.58333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
-UBCV,2020,W,THTR,373,,OVERALL,"Intermediate Voice, Speech, and Movement I",,12,85.58333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
-UBCV,2020,W,THTR,374,,001,"Intermediate Voice, Speech, and Movement II",Gayle Murphy;Marlise Mccormick,12,86.33333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
-UBCV,2020,W,THTR,374,,OVERALL,"Intermediate Voice, Speech, and Movement II",,12,86.33333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
-UBCV,2020,W,THTR,391,A,001,Rehearsal and Performance,Bart Anderson;Carey Dodge;Kathleen Duborg;Lois Anderson,12,85.58333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
-UBCV,2020,W,THTR,391,A,OVERALL,Rehearsal and Performance,,12,85.58333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
-UBCV,2020,W,THTR,391,B,001,Rehearsal and Performance,,12,86.33333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
-UBCV,2020,W,THTR,391,B,OVERALL,Rehearsal and Performance,,12,86.33333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
-UBCV,2020,W,THTR,399,E,001,Production II,Patrick Pennefather,14,90.78571429,4.154304004,95.0,79.0,0,0,0,0,0,0,0.0,1.0,0.0,2,11
-UBCV,2020,W,THTR,399,E,OVERALL,Production II,,14,90.78571429,4.154304004,95.0,79.0,0,0,0,0,0,0,0.0,1.0,0.0,2,11
-UBCV,2020,W,THTR,399,K,001,Production II,Jacqueline Firkins,6,83.66666667,8.824209124,95.0,73.0,0,0,0,0,0,0,2.0,0.0,0.0,3,1
-UBCV,2020,W,THTR,399,K,OVERALL,Production II,,6,83.66666667,8.824209124,95.0,73.0,0,0,0,0,0,0,2.0,0.0,0.0,3,1
-UBCV,2020,W,THTR,399,M,001,Production II,Collette Berg,6,85.83333333,10.90718418,96.0,70.0,0,0,0,0,0,1,1.0,0.0,0.0,1,3
-UBCV,2020,W,THTR,399,M,OVERALL,Production II,,6,85.83333333,10.90718418,96.0,70.0,0,0,0,0,0,1,1.0,0.0,0.0,1,3
-UBCV,2020,W,THTR,399,P,001,Production II,Lorraine West;Ruth Skai Fowler,6,82.83333333,3.188521078,87.0,79.0,0,0,0,0,0,0,0.0,2.0,3.0,1,0
-UBCV,2020,W,THTR,399,P,OVERALL,Production II,,6,82.83333333,3.188521078,87.0,79.0,0,0,0,0,0,0,0.0,2.0,3.0,1,0
-UBCV,2020,W,THTR,399,R,931,Production II,Bradley Powers,7,90.28571429,5.154748158,98.0,82.0,0,0,0,0,0,0,0.0,0.0,1.0,2,4
-UBCV,2020,W,THTR,399,R,OVERALL,Production II,,11,88.72727273,4.961671273,98.0,82.0,0,0,0,0,0,0,0.0,0.0,3.0,3,5
+UBCV,2020,W,THTR,306,,001,Costume Design I,Jacqueline Firkins,19,85.631578947,10.755931316,96.0,58.0,0,0,1,0,0,1,1.0,3.0,1.0,3,9
+UBCV,2020,W,THTR,306,,OVERALL,Costume Design I,,19,85.631578947,10.755931316,96.0,58.0,0,0,1,0,0,1,1.0,3.0,1.0,3,9
+UBCV,2020,W,THTR,307,,001,Lighting Design I,Robert Gardiner,7,92.428571429,2.070196678,95.0,90.0,0,0,0,0,0,0,0.0,0.0,0.0,0,7
+UBCV,2020,W,THTR,307,,OVERALL,Lighting Design I,,7,92.428571429,2.070196678,95.0,90.0,0,0,0,0,0,0,0.0,0.0,0.0,0,7
+UBCV,2020,W,THTR,308,,001,Sound Design,Patrick Pennefather,28,89.607142857,4.693094105,95.0,78.0,0,0,0,0,0,0,0.0,3.0,1.0,6,18
+UBCV,2020,W,THTR,308,,OVERALL,Sound Design,,28,89.607142857,4.693094105,95.0,78.0,0,0,0,0,0,0,0.0,3.0,1.0,6,18
+UBCV,2020,W,THTR,310,,001,Theory of Drama Performance,Kirsty Johnston;Stephen Drover,23,75.0,19.796693939,95.0,9.0,3,0,0,0,0,4,2.0,2.0,3.0,4,5
+UBCV,2020,W,THTR,310,,OVERALL,Theory of Drama Performance,,23,75.0,19.796693939,95.0,9.0,3,0,0,0,0,4,2.0,2.0,3.0,4,5
+UBCV,2020,W,THTR,311,,001,Studies in Drama,Siyuan Liu,25,77.8,18.461672008,93.0,0.0,2,0,0,0,0,0,1.0,3.0,15.0,2,2
+UBCV,2020,W,THTR,311,,OVERALL,Studies in Drama,,25,77.8,18.461672008,93.0,0.0,2,0,0,0,0,0,1.0,3.0,15.0,2,2
+UBCV,2020,W,THTR,320,,001,History of Theatre I,Hallie Marshall,35,79.114285714,13.404940767,97.0,29.0,1,1,0,0,0,6,5.0,4.0,2.0,9,7
+UBCV,2020,W,THTR,320,,OVERALL,History of Theatre I,,35,79.114285714,13.404940767,97.0,29.0,1,1,0,0,0,6,5.0,4.0,2.0,9,7
+UBCV,2020,W,THTR,325,B,001,History of Canadian Theatre,Erin Ormond;Eury Chang,17,81.588235294,10.037796219,91.0,54.0,0,1,0,0,0,2,1.0,1.0,2.0,7,3
+UBCV,2020,W,THTR,325,B,OVERALL,History of Canadian Theatre,,17,81.588235294,10.037796219,91.0,54.0,0,1,0,0,0,2,1.0,1.0,2.0,7,3
+UBCV,2020,W,THTR,340,B,001,Studies in Asian Theatre,Siyuan Liu,22,79.545454545,15.336626787,90.0,14.0,1,0,0,0,0,0,1.0,4.0,8.0,6,2
+UBCV,2020,W,THTR,340,B,OVERALL,Studies in Asian Theatre,,22,79.545454545,15.336626787,90.0,14.0,1,0,0,0,0,0,1.0,4.0,8.0,6,2
+UBCV,2020,W,THTR,354,,001,Stage Management,Collette Berg;Judy Segal,24,83.041666667,10.715608959,97.0,65.0,0,0,0,0,2,3,1.0,4.0,2.0,2,10
+UBCV,2020,W,THTR,354,,OVERALL,Stage Management,,24,83.041666667,10.715608959,97.0,65.0,0,0,0,0,2,3,1.0,4.0,2.0,2,10
+UBCV,2020,W,THTR,371,,001,Intermediate B.F.A. Acting I,Bart Anderson;Courtenay Dobbie;Lois Anderson;Raphael Wagner,12,85.583333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
+UBCV,2020,W,THTR,371,,OVERALL,Intermediate B.F.A. Acting I,,12,85.583333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
+UBCV,2020,W,THTR,372,,001,Intermediate B.F.A. Acting II,Bart Anderson;Lois Anderson;Marlise Mccormick;Stephen Heatley;Susan Bertoia,12,86.333333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
+UBCV,2020,W,THTR,372,,OVERALL,Intermediate B.F.A. Acting II,,12,86.333333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
+UBCV,2020,W,THTR,373,,001,"Intermediate Voice, Speech, and Movement I",Erin Ormond;Gayle Murphy;Gerald Trentham;Marlise Mccormick,12,85.583333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
+UBCV,2020,W,THTR,373,,OVERALL,"Intermediate Voice, Speech, and Movement I",,12,85.583333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
+UBCV,2020,W,THTR,374,,001,"Intermediate Voice, Speech, and Movement II",Gayle Murphy;Marlise Mccormick,12,86.333333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
+UBCV,2020,W,THTR,374,,OVERALL,"Intermediate Voice, Speech, and Movement II",,12,86.333333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
+UBCV,2020,W,THTR,391,A,001,Rehearsal and Performance,Bart Anderson;Carey Dodge;Kathleen Duborg;Lois Anderson,12,85.583333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
+UBCV,2020,W,THTR,391,A,OVERALL,Rehearsal and Performance,,12,85.583333333,2.810963385,89.0,81.0,0,0,0,0,0,0,0.0,0.0,4.0,8,0
+UBCV,2020,W,THTR,391,B,001,Rehearsal and Performance,,12,86.333333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
+UBCV,2020,W,THTR,391,B,OVERALL,Rehearsal and Performance,,12,86.333333333,2.498484389,89.0,81.0,0,0,0,0,0,0,0.0,0.0,3.0,9,0
+UBCV,2020,W,THTR,399,E,001,Production II,Patrick Pennefather,14,90.785714286,4.154304004,95.0,79.0,0,0,0,0,0,0,0.0,1.0,0.0,2,11
+UBCV,2020,W,THTR,399,E,OVERALL,Production II,,14,90.785714286,4.154304004,95.0,79.0,0,0,0,0,0,0,0.0,1.0,0.0,2,11
+UBCV,2020,W,THTR,399,K,001,Production II,Jacqueline Firkins,6,83.666666667,8.824209124,95.0,73.0,0,0,0,0,0,0,2.0,0.0,0.0,3,1
+UBCV,2020,W,THTR,399,K,OVERALL,Production II,,6,83.666666667,8.824209124,95.0,73.0,0,0,0,0,0,0,2.0,0.0,0.0,3,1
+UBCV,2020,W,THTR,399,M,001,Production II,Collette Berg,6,85.833333333,10.907184177,96.0,70.0,0,0,0,0,0,1,1.0,0.0,0.0,1,3
+UBCV,2020,W,THTR,399,M,OVERALL,Production II,,6,85.833333333,10.907184177,96.0,70.0,0,0,0,0,0,1,1.0,0.0,0.0,1,3
+UBCV,2020,W,THTR,399,P,001,Production II,Lorraine West;Ruth Skai Fowler,6,82.833333333,3.188521078,87.0,79.0,0,0,0,0,0,0,0.0,2.0,3.0,1,0
+UBCV,2020,W,THTR,399,P,OVERALL,Production II,,6,82.833333333,3.188521078,87.0,79.0,0,0,0,0,0,0,0.0,2.0,3.0,1,0
+UBCV,2020,W,THTR,399,R,931,Production II,Bradley Powers,7,90.285714286,5.154748158,98.0,82.0,0,0,0,0,0,0,0.0,0.0,1.0,2,4
+UBCV,2020,W,THTR,399,R,OVERALL,Production II,,11,88.727272727,4.961671273,98.0,82.0,0,0,0,0,0,0,0.0,0.0,3.0,3,5
 UBCV,2020,W,THTR,399,Z,001,Production II,Patrick Rizzotti,7,90.0,1.527525232,93.0,89.0,0,0,0,0,0,0,0.0,0.0,0.0,4,3
 UBCV,2020,W,THTR,399,Z,OVERALL,Production II,,7,90.0,1.527525232,93.0,89.0,0,0,0,0,0,0,0.0,0.0,0.0,4,3
-UBCV,2020,W,THTR,405,,001,Scenery Design II,Patrick Rizzotti,9,83.77777778,5.238744549,88.0,72.0,0,0,0,0,0,0,1.0,1.0,1.0,6,0
-UBCV,2020,W,THTR,405,,OVERALL,Scenery Design II,,9,83.77777778,5.238744549,88.0,72.0,0,0,0,0,0,0,1.0,1.0,1.0,6,0
-UBCV,2020,W,THTR,406,,001,Costume Design II,Jacqueline Firkins;Raphael Wagner,15,83.73333333,8.362045774,96.0,70.0,0,0,0,0,0,2,1.0,1.0,3.0,4,4
-UBCV,2020,W,THTR,406,,OVERALL,Costume Design II,,15,83.73333333,8.362045774,96.0,70.0,0,0,0,0,0,2,1.0,1.0,3.0,4,4
-UBCV,2020,W,THTR,408,A,001,Advanced Study in Design and Scenography,Patrick Rizzotti,26,89.26923077,16.71300737,98.0,11.0,1,0,0,0,0,0,0.0,0.0,3.0,3,19
-UBCV,2020,W,THTR,408,A,OVERALL,Advanced Study in Design and Scenography,,26,89.26923077,16.71300737,98.0,11.0,1,0,0,0,0,0,0.0,0.0,3.0,3,19
-UBCV,2020,W,THTR,440,A,001,Topics in Theatre,Hallie Marshall,9,83.88888889,6.990072325,94.0,74.0,0,0,0,0,0,0,2.0,0.0,2.0,3,2
-UBCV,2020,W,THTR,440,A,OVERALL,Topics in Theatre,,9,83.88888889,6.990072325,94.0,74.0,0,0,0,0,0,0,2.0,0.0,2.0,3,2
-UBCV,2020,W,THTR,440,B,001,Topics in Theatre,Kirsty Johnston;Marios Kallos;Olivia Michiko Gagnon,11,81.72727273,14.25546147,94.0,47.0,1,0,0,0,1,0,0.0,0.0,4.0,0,5
-UBCV,2020,W,THTR,440,B,OVERALL,Topics in Theatre,,11,81.72727273,14.25546147,94.0,47.0,1,0,0,0,1,0,0.0,0.0,4.0,0,5
-UBCV,2020,W,THTR,443,,001,Women in Theatre and Film,Olivia Michiko Gagnon;Tanya Mathivanan,28,86.5,10.30102476,97.0,45.0,1,0,0,0,0,0,2.0,1.0,5.0,6,13
-UBCV,2020,W,THTR,443,,OVERALL,Women in Theatre and Film,,28,86.5,10.30102476,97.0,45.0,1,0,0,0,0,0,2.0,1.0,5.0,6,13
+UBCV,2020,W,THTR,405,,001,Scenery Design II,Patrick Rizzotti,9,83.777777778,5.238744549,88.0,72.0,0,0,0,0,0,0,1.0,1.0,1.0,6,0
+UBCV,2020,W,THTR,405,,OVERALL,Scenery Design II,,9,83.777777778,5.238744549,88.0,72.0,0,0,0,0,0,0,1.0,1.0,1.0,6,0
+UBCV,2020,W,THTR,406,,001,Costume Design II,Jacqueline Firkins;Raphael Wagner,15,83.733333333,8.362045774,96.0,70.0,0,0,0,0,0,2,1.0,1.0,3.0,4,4
+UBCV,2020,W,THTR,406,,OVERALL,Costume Design II,,15,83.733333333,8.362045774,96.0,70.0,0,0,0,0,0,2,1.0,1.0,3.0,4,4
+UBCV,2020,W,THTR,408,A,001,Advanced Study in Design and Scenography,Patrick Rizzotti,26,89.269230769,16.713007371,98.0,11.0,1,0,0,0,0,0,0.0,0.0,3.0,3,19
+UBCV,2020,W,THTR,408,A,OVERALL,Advanced Study in Design and Scenography,,26,89.269230769,16.713007371,98.0,11.0,1,0,0,0,0,0,0.0,0.0,3.0,3,19
+UBCV,2020,W,THTR,440,A,001,Topics in Theatre,Hallie Marshall,9,83.888888889,6.990072325,94.0,74.0,0,0,0,0,0,0,2.0,0.0,2.0,3,2
+UBCV,2020,W,THTR,440,A,OVERALL,Topics in Theatre,,9,83.888888889,6.990072325,94.0,74.0,0,0,0,0,0,0,2.0,0.0,2.0,3,2
+UBCV,2020,W,THTR,440,B,001,Topics in Theatre,Kirsty Johnston;Marios Kallos;Olivia Michiko Gagnon,11,81.727272727,14.255461473,94.0,47.0,1,0,0,0,1,0,0.0,0.0,4.0,0,5
+UBCV,2020,W,THTR,440,B,OVERALL,Topics in Theatre,,11,81.727272727,14.255461473,94.0,47.0,1,0,0,0,1,0,0.0,0.0,4.0,0,5
+UBCV,2020,W,THTR,443,,001,Women in Theatre and Film,Olivia Michiko Gagnon;Tanya Mathivanan,28,87.035714286,8.248376464,97.0,60.0,0,0,0,1,0,0,2.0,1.0,5.0,6,13
+UBCV,2020,W,THTR,443,,OVERALL,Women in Theatre and Film,,28,87.035714286,8.248376464,97.0,60.0,0,0,0,1,0,0,2.0,1.0,5.0,6,13
 UBCV,2020,W,THTR,448,A,OVERALL,Directed Studies in Theatre Theory and Practice,,6,91.5,3.209361307,95.0,87.0,0,0,0,0,0,0,0.0,0.0,0.0,,
-UBCV,2020,W,THTR,454,,001,Production and Theatre Management,Corin Gutteridge,11,89.45454546,7.174449615,100.0,77.0,0,0,0,0,0,0,0.0,1.0,2.0,2,6
-UBCV,2020,W,THTR,454,,OVERALL,Production and Theatre Management,,11,89.45454546,7.174449615,100.0,77.0,0,0,0,0,0,0,0.0,1.0,2.0,2,6
-UBCV,2020,W,THTR,471,,001,Advanced B.F.A. Acting I,Kathleen Duborg;Siyuan Liu,13,84.61538462,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
-UBCV,2020,W,THTR,471,,OVERALL,Advanced B.F.A. Acting I,,13,84.61538462,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
+UBCV,2020,W,THTR,454,,001,Production and Theatre Management,Corin Gutteridge,11,89.454545455,7.174449615,100.0,77.0,0,0,0,0,0,0,0.0,1.0,2.0,2,6
+UBCV,2020,W,THTR,454,,OVERALL,Production and Theatre Management,,11,89.454545455,7.174449615,100.0,77.0,0,0,0,0,0,0,0.0,1.0,2.0,2,6
+UBCV,2020,W,THTR,471,,001,Advanced B.F.A. Acting I,Kathleen Duborg;Siyuan Liu,13,84.615384615,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
+UBCV,2020,W,THTR,471,,OVERALL,Advanced B.F.A. Acting I,,13,84.615384615,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
 UBCV,2020,W,THTR,472,,001,Advanced B.F.A. Acting II,Allen Morrison;Kathleen Duborg;Marlise Mccormick;Tom Scholte,13,87.0,2.828427125,93.0,82.0,0,0,0,0,0,0,0.0,0.0,2.0,9,2
 UBCV,2020,W,THTR,472,,OVERALL,Advanced B.F.A. Acting II,,13,87.0,2.828427125,93.0,82.0,0,0,0,0,0,0,0.0,0.0,2.0,9,2
-UBCV,2020,W,THTR,473,,001,Advanced Speech and Movement I,Erin Ormond;Gayle Murphy;Marijka Asbeek Brusse;Marlise Mccormick,13,84.61538462,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
-UBCV,2020,W,THTR,473,,OVERALL,Advanced Speech and Movement I,,13,84.61538462,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
+UBCV,2020,W,THTR,473,,001,Advanced Speech and Movement I,Erin Ormond;Gayle Murphy;Marijka Asbeek Brusse;Marlise Mccormick,13,84.615384615,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
+UBCV,2020,W,THTR,473,,OVERALL,Advanced Speech and Movement I,,13,84.615384615,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
 UBCV,2020,W,THTR,474,,001,Advanced Speech and Movement II,Adam Henderson;Gayle Murphy;Marlise Mccormick;Sheila Langston,13,87.0,2.828427125,93.0,82.0,0,0,0,0,0,0,0.0,0.0,2.0,9,2
 UBCV,2020,W,THTR,474,,OVERALL,Advanced Speech and Movement II,,13,87.0,2.828427125,93.0,82.0,0,0,0,0,0,0,0.0,0.0,2.0,9,2
-UBCV,2020,W,THTR,491,A,001,Advanced Rehearsal and Performance,Bart Anderson;Carey Dodge;Kathleen Duborg;Lois Anderson,13,84.61538462,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
-UBCV,2020,W,THTR,491,A,OVERALL,Advanced Rehearsal and Performance,,13,84.61538462,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
+UBCV,2020,W,THTR,491,A,001,Advanced Rehearsal and Performance,Bart Anderson;Carey Dodge;Kathleen Duborg;Lois Anderson,13,84.615384615,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
+UBCV,2020,W,THTR,491,A,OVERALL,Advanced Rehearsal and Performance,,13,84.615384615,5.560852176,91.0,74.0,0,0,0,0,0,0,2.0,0.0,3.0,6,2
 UBCV,2020,W,THTR,491,B,001,Advanced Rehearsal and Performance,,13,87.0,2.828427125,93.0,82.0,0,0,0,0,0,0,0.0,0.0,2.0,9,2
 UBCV,2020,W,THTR,491,B,OVERALL,Advanced Rehearsal and Performance,,13,87.0,2.828427125,93.0,82.0,0,0,0,0,0,0,0.0,0.0,2.0,9,2
-UBCV,2020,W,THTR,491,C,001,Advanced Rehearsal and Performance,Adam Henderson;Bart Anderson;Gayle Murphy;Heather Young;Jocelyn Pitsch;Kirsty Johnston;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Heatley,14,87.78571429,2.750624305,93.0,82.0,0,0,0,0,0,0,0.0,0.0,1.0,10,3
-UBCV,2020,W,THTR,491,C,OVERALL,Advanced Rehearsal and Performance,,14,87.78571429,2.750624305,93.0,82.0,0,0,0,0,0,0,0.0,0.0,1.0,10,3
+UBCV,2020,W,THTR,491,C,001,Advanced Rehearsal and Performance,Adam Henderson;Bart Anderson;Gayle Murphy;Heather Young;Jocelyn Pitsch;Kirsty Johnston;Lois Anderson;Marlise Mccormick;Raphael Wagner;Stephen Heatley,14,87.785714286,2.750624305,93.0,82.0,0,0,0,0,0,0,0.0,0.0,1.0,10,3
+UBCV,2020,W,THTR,491,C,OVERALL,Advanced Rehearsal and Performance,,14,87.785714286,2.750624305,93.0,82.0,0,0,0,0,0,0,0.0,0.0,1.0,10,3
+UBCV,2020,W,THTR,562,,001,Studies in Dramatic Theory and Criticism,Kirsty Johnston,8,89.125,2.695896352,92.0,83.0,0,0,0,0,0,0,0.0,0.0,1.0,1,6
+UBCV,2020,W,THTR,562,,OVERALL,Studies in Dramatic Theory and Criticism,,8,89.125,2.695896352,92.0,83.0,0,0,0,0,0,0,0.0,0.0,1.0,1,6

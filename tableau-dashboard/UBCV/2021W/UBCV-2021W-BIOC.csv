@@ -1,0 +1,55 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Brown;Warren Williams,98,68.755102041,17.71426196,100.0,16.0,11,3,9,11,10,14,7.0,3,8.0,9,13
+UBCV,2021,W,BIOC,202,,002,Introductory Medical Biochemistry,Divya Kriti;Warren Williams,268,69.615671642,16.064874818,99.0,0.0,20,17,31,19,25,34,17.0,25,29.0,21,30
+UBCV,2021,W,BIOC,202,,003,Introductory Medical Biochemistry,Michael Krisinger;Robert Maurus,64,61.234375,15.234403617,94.0,27.0,12,6,5,12,5,7,7.0,6,0.0,2,2
+UBCV,2021,W,BIOC,202,,OVERALL,Introductory Medical Biochemistry,,430,68.172093023,16.559510899,100.0,0.0,43,26,45,42,40,55,31.0,34,37.0,32,45
+UBCV,2021,W,BIOC,203,,001,Fundamentals of Biochemistry,Lindsay Brown;Nisha Chander;Rhonda Thygesen;Robert Maurus;Tomas Pelletier;Warren Williams,122,72.245901639,12.892634501,100.0,35.0,6,3,8,8,12,19,17.0,13,15.0,12,9
+UBCV,2021,W,BIOC,203,,OVERALL,Fundamentals of Biochemistry,,122,72.245901639,12.892634501,100.0,35.0,6,3,8,8,12,19,17.0,13,15.0,12,9
+UBCV,2021,W,BIOC,301,,001,Biochemistry Laboratory,Anni Zhang;Britany Rufenach-Barber;Eli Matsell;Elizabeth Stephens;Heather Baker;Jason Read;Kasey Stirling;Prakruti Uday;Wai Long Antonio Wong,160,81.99375,8.983210668,98.0,25.0,3,0,0,1,4,4,12.0,24,42.0,46,24
+UBCV,2021,W,BIOC,301,,OVERALL,Biochemistry Laboratory,,160,81.99375,8.983210668,98.0,25.0,3,0,0,1,4,4,12.0,24,42.0,46,24
+UBCV,2021,W,BIOC,302,,102,General Biochemistry,Alice Mui;Evgeniy Panzhinskiy,133,73.473684211,17.081612898,99.0,27.0,9,9,8,10,6,16,4.0,12,10.0,24,25
+UBCV,2021,W,BIOC,302,,202,General Biochemistry,Evgeniy Panzhinskiy;Michael Atser;Robert Maurus;Ryan Wong,181,73.745856354,16.431729028,98.0,17.0,13,11,9,13,12,9,14.0,21,23.0,23,33
+UBCV,2021,W,BIOC,302,,OVERALL,General Biochemistry,,314,73.630573248,16.683594369,99.0,17.0,22,20,17,23,18,25,18.0,33,33.0,47,58
+UBCV,2021,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong Van Hoa;Leann Howe;Michael Krisinger;Nobuhiko Tokuriki;Thibault Mayor;Yilun Chen,114,73.51754386,10.06196066,93.0,42.0,1,3,6,11,13,9,19.0,13,23.0,12,4
+UBCV,2021,W,BIOC,303,,OVERALL,Molecular Biochemistry,,114,73.51754386,10.06196066,93.0,42.0,1,3,6,11,13,9,19.0,13,23.0,12,4
+UBCV,2021,W,BIOC,304,,001,Contemporary Biochemical Research,Calvin Yip;Ethan Greenblatt;Harry Brumer;Hugh Kim;Sheila Teves,90,80.011111111,8.141300512,94.0,59.0,0,0,1,4,2,5,11.0,17,19.0,19,12
+UBCV,2021,W,BIOC,304,,OVERALL,Contemporary Biochemical Research,,90,80.011111111,8.141300512,94.0,59.0,0,0,1,4,2,5,11.0,17,19.0,19,12
+UBCV,2021,W,BIOC,402,,101,Proteins: Structure and Function,Calvin Yip;Joerg Gsponer,121,74.082644628,14.530764362,96.0,5.0,4,7,5,11,5,11,12.0,15,23.0,15,13
+UBCV,2021,W,BIOC,402,,OVERALL,Proteins: Structure and Function,,121,74.082644628,14.530764362,96.0,5.0,4,7,5,11,5,11,12.0,15,23.0,15,13
+UBCV,2021,W,BIOC,403,,201,Enzymology,Christian Kastrup;Dieter Bromme;Guillermo Caballero Silva;Natalie Strynadka;Seth Parker;Stephen Withers,52,76.865384615,10.46943047,98.0,51.0,0,1,3,3,3,2,10.0,9,9.0,7,5
+UBCV,2021,W,BIOC,403,,OVERALL,Enzymology,,52,76.865384615,10.46943047,98.0,51.0,0,1,3,3,3,2,10.0,9,9.0,7,5
+UBCV,2021,W,BIOC,404,,001,Biochemical Methods,Filip Van Petegem;Franck Duong Van Hoa;Jason Read;Scott Covey;Sriram Subramaniam;Thibault Mayor;Warren Williams,18,86.111111111,4.199284097,93.0,79.0,0,0,0,0,0,0,0.0,2,3.0,10,3
+UBCV,2021,W,BIOC,404,,OVERALL,Biochemical Methods,,18,86.111111111,4.199284097,93.0,79.0,0,0,0,0,0,0,0.0,2,3.0,10,3
+UBCV,2021,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Annie Ciernia;Eric Jan;Ivan Sadowski;Leann Howe,99,71.505050505,12.647798661,97.0,23.0,5,7,1,9,13,8,9.0,15,22.0,5,5
+UBCV,2021,W,BIOC,410,,OVERALL,Nucleic Acids-Structure and Function,,99,71.505050505,12.647798661,97.0,23.0,5,7,1,9,13,8,9.0,15,22.0,5,5
+UBCV,2021,W,BIOC,420,,101,Advanced Biochemical Techniques,Scott Covey,15,86.0,5.154748158,96.0,81.0,0,0,0,0,0,0,0.0,0,8.0,1,6
+UBCV,2021,W,BIOC,420,,102,Advanced Biochemical Techniques,Scott Covey,14,86.214285714,4.475206423,95.0,80.0,0,0,0,0,0,0,0.0,0,7.0,4,3
+UBCV,2021,W,BIOC,420,,OVERALL,Advanced Biochemical Techniques,,29,86.103448276,4.753531226,96.0,80.0,0,0,0,0,0,0,0.0,0,15.0,5,9
+UBCV,2021,W,BIOC,421,,201,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown);Matthew Shannon;Scott Covey,10,73.0,29.503295484,95.0,7.0,2,0,0,0,1,0,0.0,1,0.0,2,4
+UBCV,2021,W,BIOC,421,,202,Recombinant DNA Techniques,Karol Buda;Lindsay Brown;Lindsay Rogers (Brown);Scott Covey,12,82.75,12.432545267,96.0,55.0,0,0,1,0,1,0,1.0,0,3.0,1,5
+UBCV,2021,W,BIOC,421,,203,Recombinant DNA Techniques,Lindsay Brown;Lindsay Rogers (Brown);Rachel Price;Scott Covey,9,82.222222222,7.395569244,91.0,68.0,0,0,0,0,0,1,0.0,2,1.0,3,2
+UBCV,2021,W,BIOC,421,,OVERALL,Recombinant DNA Techniques,,31,79.451612903,18.786233807,96.0,7.0,2,0,1,0,2,1,1.0,3,4.0,6,11
+UBCV,2021,W,BIOC,440,,001,Concepts in Molecular Biology,Eric Jan;Ivan Sadowski;Leann Howe,12,84.416666667,5.853644294,91.0,71.0,0,0,0,0,0,1,0.0,0,4.0,4,3
+UBCV,2021,W,BIOC,440,,OVERALL,Concepts in Molecular Biology,,12,84.416666667,5.853644294,91.0,71.0,0,0,0,0,0,1,0.0,0,4.0,4,3
+UBCV,2021,W,BIOC,448,B,001,Directed Studies in Biochemistry,Scott Covey,11,89.181818182,2.857207791,94.0,84.0,0,0,0,0,0,0,0.0,0,1.0,5,5
+UBCV,2021,W,BIOC,448,B,OVERALL,Directed Studies in Biochemistry,,11,89.181818182,2.857207791,94.0,84.0,0,0,0,0,0,0,0.0,0,1.0,5,5
+UBCV,2021,W,BIOC,449,C,001,Honours Thesis,Scott Covey,28,87.535714286,3.282751137,93.0,82.0,0,0,0,0,0,0,0.0,0,5.0,14,9
+UBCV,2021,W,BIOC,449,C,OVERALL,Honours Thesis,,28,87.535714286,3.282751137,93.0,82.0,0,0,0,0,0,0,0.0,0,5.0,14,9
+UBCV,2021,W,BIOC,450,,001,Membrane Biochemistry,Corey Nislow;Filip Van Petegem;Harry Brumer;Natalie Strynadka;Pieter Cullis;Robert Molday,37,80.351351351,6.571048522,95.0,65.0,0,0,0,0,2,1,5.0,8,12.0,6,3
+UBCV,2021,W,BIOC,450,,OVERALL,Membrane Biochemistry,,37,80.351351351,6.571048522,95.0,65.0,0,0,0,0,2,1,5.0,8,12.0,6,3
+UBCV,2021,W,BIOC,460,,001,Advanced Techniques in Biochemistry,Alice Mui;Christopher Mark Overall;Leonard Foster;Sheila Teves;Shoukat Dedhar;Sriram Subramaniam,17,85.411764706,3.48315273,91.0,79.0,0,0,0,0,0,0,0.0,1,5.0,8,3
+UBCV,2021,W,BIOC,460,,OVERALL,Advanced Techniques in Biochemistry,,17,85.411764706,3.48315273,91.0,79.0,0,0,0,0,0,0,0.0,1,5.0,8,3
+UBCV,2021,W,BIOC,470,,001,Biochemistry & Society: Current Issues,Daniel Andrews;Jerry Leung;Lindsay Brown;Lindsay Rogers (Brown);Maya Degrood;Michael Krisinger;Mopelola Akinlaja,54,86.018518519,4.367507561,95.0,74.0,0,0,0,0,0,0,1.0,2,15.0,26,10
+UBCV,2021,W,BIOC,470,,OVERALL,Biochemistry & Society: Current Issues,,54,86.018518519,4.367507561,95.0,74.0,0,0,0,0,0,0,1.0,2,15.0,26,10
+UBCV,2021,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Robert Molday,18,89.888888889,2.587046667,95.0,86.0,0,0,0,0,0,0,0.0,0,0.0,7,11
+UBCV,2021,W,BIOC,530,,OVERALL,Seminar in Biochemistry,,20,89.85,2.49789385,95.0,86.0,0,0,0,0,0,0,0.0,0,0.0,8,12
+UBCV,2021,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,Annie Ciernia;B Brett Finlay;Corey Nislow;Dieter Bromme;Filip Van Petegem;Jason Read;Lawrence Mcintosh;Leann Howe;Lindsay Brown;Michael Kobor;Nobuhiko Tokuriki;Philip Hieter;Pieter Cullis;Scott Covey;Sheila Teves;Shoukat Dedhar;Sriram Subramaniam;Thibault Mayor;Vivien Measday;Warren Williams,19,94.684210526,2.427907915,98.0,89.0,0,0,0,0,0,0,0.0,0,0.0,1,18
+UBCV,2021,W,BIOC,551,,OVERALL,Advanced Topics in Biochemistry and Molecular Biology,,19,94.684210526,2.427907915,98.0,89.0,0,0,0,0,0,0,0.0,0,0.0,1,18
+UBCV,2021,W,BIOC,552,,001,Membrane Proteins,Franck Duong Van Hoa;Robert Molday,12,89.166666667,3.950450684,94.0,83.0,0,0,0,0,0,0,0.0,0,2.0,4,6
+UBCV,2021,W,BIOC,552,,OVERALL,Membrane Proteins,,12,89.166666667,3.950450684,94.0,83.0,0,0,0,0,0,0,0.0,0,2.0,4,6
+UBCV,2021,W,BIOC,554,,001,Nucleic Acids: DNA/RNA Structure and Function,Eric Jan;Philip Hieter;Sheila Teves,12,89.916666667,4.010403139,96.0,84.0,0,0,0,0,0,0,0.0,0,1.0,4,7
+UBCV,2021,W,BIOC,554,,OVERALL,Nucleic Acids: DNA/RNA Structure and Function,,12,89.916666667,4.010403139,96.0,84.0,0,0,0,0,0,0,0.0,0,1.0,4,7
+UBCV,2021,W,BIOC,555,,001,Epigenetics,Leann Howe;Michael Kobor,10,93.1,2.558211181,96.0,87.0,0,0,0,0,0,0,0.0,0,0.0,1,9
+UBCV,2021,W,BIOC,555,,OVERALL,Epigenetics,,10,93.1,2.558211181,96.0,87.0,0,0,0,0,0,0,0.0,0,0.0,1,9
+UBCV,2021,W,BIOC,560,,001,Computational Approaches in Biochemistry,Joerg Gsponer;Seth Parker,11,91.272727273,4.606319769,98.0,82.0,0,0,0,0,0,0,0.0,0,1.0,2,8
+UBCV,2021,W,BIOC,560,,OVERALL,Computational Approaches in Biochemistry,,11,91.272727273,4.606319769,98.0,82.0,0,0,0,0,0,0,0.0,0,1.0,2,8

@@ -1,23 +1,27 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,PHTH,511,,001,Pathology for Physical Therapy I,Alexander Scott;David Anekwe;Jean-Francois Esculier;Roland Fletcher,101,95.24752475,4.181879818,100.0,79.0,0,0,0,0,0,0,0.0,1.0,0.0,10,90
-UBCV,2020,W,PHTH,511,,OVERALL,Pathology for Physical Therapy I,,101,95.24752475,4.181879818,100.0,79.0,0,0,0,0,0,0,0.0,1.0,0.0,10,90
-UBCV,2020,W,PHTH,514,,001,Clinical Practice I,Aart Van Gorkum;Alison Greig;April Campbell;David Anekwe;Jennifer Keefer;Mike Foster;Ramsey Ezzat;Robin Roots;Sean Campbell;Simone Gruenig;Tracy Barber;Tyler Dumont,101,84.54455446,3.595899755,91.0,76.0,0,0,0,0,0,0,0.0,9.0,36.0,50,6
-UBCV,2020,W,PHTH,514,,OVERALL,Clinical Practice I,,101,84.54455446,3.595899755,91.0,76.0,0,0,0,0,0,0,0.0,9.0,36.0,50,6
-UBCV,2020,W,PHTH,516,,001,Clinical Decision-Making I,Angela Rocca;Janet Lundie;Robin Roots;Susan Paul,101,92.5049505,2.777134359,99.0,87.0,0,0,0,0,0,0,0.0,0.0,0.0,17,84
-UBCV,2020,W,PHTH,516,,OVERALL,Clinical Decision-Making I,,101,92.5049505,2.777134359,99.0,87.0,0,0,0,0,0,0,0.0,0.0,0.0,17,84
-UBCV,2020,W,PHTH,517,,001,Exercise and Movement I,Courtney Pollock;David Anekwe;Doria Bellows;Janice Eng;Jesse Charlton;Karen Davies;Karen Sauve;Kendra Zadravec;Kristin Campbell;Michael Anthony Hunt;Naznin Virji-Babul;Sarah Weller;Shannon Lim,101,89.91089109,5.268963864,98.0,68.0,0,0,0,0,0,1,0.0,4.0,11.0,20,65
-UBCV,2020,W,PHTH,517,,OVERALL,Exercise and Movement I,,101,89.91089109,5.268963864,98.0,68.0,0,0,0,0,0,1,0.0,4.0,11.0,20,65
-UBCV,2020,W,PHTH,521,,001,Pathology for Physical Therapy II,Beverley Larssen;Courtney Evanchu Hilderman;David Anekwe;Dennis Louie;Robin Roots;Simone Gruenig,101,90.17821782,3.732012968,97.0,80.0,0,0,0,0,0,0,0.0,0.0,9.0,30,62
-UBCV,2020,W,PHTH,521,,OVERALL,Pathology for Physical Therapy II,,101,90.17821782,3.732012968,97.0,80.0,0,0,0,0,0,0,0.0,0.0,9.0,30,62
-UBCV,2020,W,PHTH,527,,001,Exercise and Movement II,David Anekwe;Jacqueline Whittaker;Jordan Guenette;Natalie Grant;Robin Roots,101,87.13861386,5.614320445,97.0,72.0,0,0,0,0,0,0,5.0,7.0,15.0,35,39
-UBCV,2020,W,PHTH,527,,OVERALL,Exercise and Movement II,,101,87.13861386,5.614320445,97.0,72.0,0,0,0,0,0,0,5.0,7.0,15.0,35,39
-UBCV,2020,W,PHTH,528,,001,Case-based Integration,Anne Rankin;David Anekwe;Maria Juricic;Michelle Jacobs;Michelle Labandelo;Oladapo Akinsiku;Robin Roots;Roland Fletcher;Teresa Yeong Lih Liu,101,90.42574257,3.800911824,98.0,75.0,0,0,0,0,0,0,1.0,0.0,8.0,21,71
-UBCV,2020,W,PHTH,528,,OVERALL,Case-based Integration,,101,90.42574257,3.800911824,98.0,75.0,0,0,0,0,0,0,1.0,0.0,8.0,21,71
-UBCV,2020,W,PHTH,531,,001,Pathology for Physical Therapy III,Harvey Lui;Karen Sauve;Simone Gruenig,79,86.53164557,4.448668608,96.0,76.0,0,0,0,0,0,0,0.0,5.0,20.0,36,18
+UBCV,2020,W,PHTH,511,,001,Pathology for Physical Therapy I,Alexander Scott;David Anekwe;Jean-Francois Esculier;Roland Fletcher,101,95.247524752,4.181879818,100.0,79.0,0,0,0,0,0,0,0.0,1.0,0.0,10,90
+UBCV,2020,W,PHTH,511,,OVERALL,Pathology for Physical Therapy I,,101,95.247524752,4.181879818,100.0,79.0,0,0,0,0,0,0,0.0,1.0,0.0,10,90
+UBCV,2020,W,PHTH,514,,001,Clinical Practice I,Aart Van Gorkum;Alison Greig;April Campbell;David Anekwe;Jennifer Keefer;Mike Foster;Ramsey Ezzat;Robin Roots;Sean Campbell;Simone Gruenig;Tracy Barber;Tyler Dumont,101,84.544554455,3.595899755,91.0,76.0,0,0,0,0,0,0,0.0,9.0,36.0,50,6
+UBCV,2020,W,PHTH,514,,OVERALL,Clinical Practice I,,101,84.544554455,3.595899755,91.0,76.0,0,0,0,0,0,0,0.0,9.0,36.0,50,6
+UBCV,2020,W,PHTH,516,,001,Clinical Decision-Making I,Angela Rocca;Janet Lundie;Robin Roots;Susan Paul,101,92.504950495,2.777134359,99.0,87.0,0,0,0,0,0,0,0.0,0.0,0.0,17,84
+UBCV,2020,W,PHTH,516,,OVERALL,Clinical Decision-Making I,,101,92.504950495,2.777134359,99.0,87.0,0,0,0,0,0,0,0.0,0.0,0.0,17,84
+UBCV,2020,W,PHTH,517,,001,Exercise and Movement I,Courtney Pollock;David Anekwe;Doria Bellows;Janice Eng;Jesse Charlton;Karen Davies;Karen Sauve;Kendra Zadravec;Kristin Campbell;Michael Anthony Hunt;Naznin Virji-Babul;Sarah Weller;Shannon Lim;Taru Manyanga,101,89.910891089,5.268963864,98.0,68.0,0,0,0,0,0,1,0.0,4.0,11.0,20,65
+UBCV,2020,W,PHTH,517,,OVERALL,Exercise and Movement I,,101,89.910891089,5.268963864,98.0,68.0,0,0,0,0,0,1,0.0,4.0,11.0,20,65
+UBCV,2020,W,PHTH,521,,001,Pathology for Physical Therapy II,Beverley Larssen;Courtney Evanchu Hilderman;David Anekwe;Dennis Louie;Robin Roots;Simone Gruenig,101,90.178217822,3.732012968,97.0,80.0,0,0,0,0,0,0,0.0,0.0,9.0,30,62
+UBCV,2020,W,PHTH,521,,OVERALL,Pathology for Physical Therapy II,,101,90.178217822,3.732012968,97.0,80.0,0,0,0,0,0,0,0.0,0.0,9.0,30,62
+UBCV,2020,W,PHTH,524,,001,Clinical Practice II,Andrea Reid;Jacqueline Whittaker;Linda Truong;Lorelyn Meisner;Marina Wallin;Rebecca Kenny;Simone Gruenig;Wing Ting Truong,101,83.03960396,4.027209436,92.0,73.0,0,0,0,0,0,0,6.0,13.0,43.0,36,3
+UBCV,2020,W,PHTH,524,,OVERALL,Clinical Practice II,,101,83.03960396,4.027209436,92.0,73.0,0,0,0,0,0,0,6.0,13.0,43.0,36,3
+UBCV,2020,W,PHTH,526,,001,Clinical Decision Making II,Alexander Scott;David Anekwe;Patricia Camp;Rachel Crockett;Robin Roots;Teresa Yeong Lih Liu,101,93.683168317,2.842290249,100.0,84.0,0,0,0,0,0,0,0.0,0.0,1.0,7,93
+UBCV,2020,W,PHTH,526,,OVERALL,Clinical Decision Making II,,101,93.683168317,2.842290249,100.0,84.0,0,0,0,0,0,0,0.0,0.0,1.0,7,93
+UBCV,2020,W,PHTH,527,,001,Exercise and Movement II,David Anekwe;Jacqueline Whittaker;Jordan Guenette;Natalie Grant;Robin Roots,101,87.138613861,5.614320445,97.0,72.0,0,0,0,0,0,0,5.0,7.0,15.0,35,39
+UBCV,2020,W,PHTH,527,,OVERALL,Exercise and Movement II,,101,87.138613861,5.614320445,97.0,72.0,0,0,0,0,0,0,5.0,7.0,15.0,35,39
+UBCV,2020,W,PHTH,528,,001,Case-based Integration,Anne Rankin;David Anekwe;Maria Juricic;Michelle Jacobs;Michelle Labandelo;Oladapo Akinsiku;Robin Roots;Roland Fletcher;Teresa Yeong Lih Liu,101,90.425742574,3.800911824,98.0,75.0,0,0,0,0,0,0,1.0,0.0,8.0,21,71
+UBCV,2020,W,PHTH,528,,OVERALL,Case-based Integration,,101,90.425742574,3.800911824,98.0,75.0,0,0,0,0,0,0,1.0,0.0,8.0,21,71
+UBCV,2020,W,PHTH,531,,001,Pathology for Physical Therapy III,Angelina Woof;Harvey Lui;Karen Sauve;Simone Gruenig,79,86.53164557,4.448668608,96.0,76.0,0,0,0,0,0,0,0.0,5.0,20.0,36,18
 UBCV,2020,W,PHTH,531,,OVERALL,Pathology for Physical Therapy III,,79,86.53164557,4.448668608,96.0,76.0,0,0,0,0,0,0,0.0,5.0,20.0,36,18
-UBCV,2020,W,PHTH,544,,001,Clinical Practice IVa,Jean Cremin;Joseph Anthony;Karen Sauve;Roland Fletcher,79,87.84810127,3.655303865,96.0,77.0,0,0,0,0,0,0,0.0,1.0,13.0,38,27
-UBCV,2020,W,PHTH,544,,OVERALL,Clinical Practice IVa,,79,87.84810127,3.655303865,96.0,77.0,0,0,0,0,0,0,0.0,1.0,13.0,38,27
-UBCV,2020,W,PHTH,545,,001,Clinical Practice IVb,Alison Alice Hoens;Andrea Reid;Debra Treloar;Joseph Anthony;Marjorie Belot;Mary Nolan;Nancy Cho;Natalie Grant;Neil Pearson;Roland Fletcher,79,83.30379747,4.33339575,92.0,73.0,0,0,0,0,0,0,4.0,11.0,32.0,28,4
-UBCV,2020,W,PHTH,545,,OVERALL,Clinical Practice IVb,,79,83.30379747,4.33339575,92.0,73.0,0,0,0,0,0,0,4.0,11.0,32.0,28,4
-UBCV,2020,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Chris Napier;Linda Li;Mary Nolan;Tyler Dumont,78,84.42307692,3.729556329,92.0,76.0,0,0,0,0,0,0,0.0,11.0,27.0,34,6
-UBCV,2020,W,PHTH,565,,OVERALL,Clinical Practice VIb,,78,84.42307692,3.729556329,92.0,76.0,0,0,0,0,0,0,0.0,11.0,27.0,34,6
+UBCV,2020,W,PHTH,544,,001,Clinical Practice IVa,Jean Cremin;Joseph Anthony;Karen Sauve;Roland Fletcher,79,87.848101266,3.655303865,96.0,77.0,0,0,0,0,0,0,0.0,1.0,13.0,38,27
+UBCV,2020,W,PHTH,544,,OVERALL,Clinical Practice IVa,,79,87.848101266,3.655303865,96.0,77.0,0,0,0,0,0,0,0.0,1.0,13.0,38,27
+UBCV,2020,W,PHTH,545,,001,Clinical Practice IVb,Alison Alice Hoens;Andrea Reid;Debra Treloar;Joseph Anthony;Marjorie Belot;Mary Nolan;Nancy Cho;Natalie Grant;Neil Pearson;Roland Fletcher,79,83.303797468,4.33339575,92.0,73.0,0,0,0,0,0,0,4.0,11.0,32.0,28,4
+UBCV,2020,W,PHTH,545,,OVERALL,Clinical Practice IVb,,79,83.303797468,4.33339575,92.0,73.0,0,0,0,0,0,0,4.0,11.0,32.0,28,4
+UBCV,2020,W,PHTH,565,,001,Clinical Practice VIb,Andrea Reid;Chris Napier;Linda Li;Mary Nolan;Tyler Dumont,78,84.474358974,3.709322615,92.0,76.0,0,0,0,0,0,0,0.0,10.0,28.0,34,6
+UBCV,2020,W,PHTH,565,,OVERALL,Clinical Practice VIb,,78,84.474358974,3.709322615,92.0,76.0,0,0,0,0,0,0,0.0,10.0,28.0,34,6

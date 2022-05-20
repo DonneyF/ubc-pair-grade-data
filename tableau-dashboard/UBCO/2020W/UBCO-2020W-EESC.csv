@@ -1,68 +1,70 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2020,W,EESC,101,,001,Environmental Science,Kristina Deenik;Renee Larsen;Robert Friberg,196,77.29591837,14.41808635,99.0,16.0,8,6.0,9.0,9.0,18.0,10,13,19,28,38,38
-UBCO,2020,W,EESC,101,,101,Environmental Science,Robert Friberg;Tamika Mulders,84,77.64285714,15.11772506,96.0,1.0,1,5.0,3.0,1.0,8.0,8,9,5,10,13,21
-UBCO,2020,W,EESC,101,,OVERALL,Environmental Science,,280,77.4,14.6051005,99.0,1.0,9,11.0,12.0,10.0,26.0,18,22,24,38,51,59
-UBCO,2020,W,EESC,104,,001,Four Billion Years and Counting,Robert Young,34,83.11764706,6.957728234,95.0,70.0,0,0.0,0.0,0.0,0.0,2,2,5,7,11,7
-UBCO,2020,W,EESC,104,,101,Four Billion Years and Counting,Robert Young,18,68.55555556,10.50614511,85.0,42.0,1,1.0,0.0,1.0,4.0,3,3,3,1,1,0
-UBCO,2020,W,EESC,104,,OVERALL,Four Billion Years and Counting,,52,78.07692308,10.81909379,95.0,42.0,1,1.0,0.0,1.0,4.0,5,5,8,8,12,7
-UBCO,2020,W,EESC,106,,001,The Catastrophic Earth,Denae Alana Weighill;Denae Weighill;Manuel Colombo,66,72.18181818,11.21387752,96.0,50.0,0,5.0,2.0,6.0,11.0,8,13,6,3,6,6
-UBCO,2020,W,EESC,106,,101,The Catastrophic Earth,Kristina Deenik;Manuel Colombo,44,62.09090909,17.58543026,93.0,0.0,6,6.0,7.0,5.0,4.0,1,4,5,3,1,2
-UBCO,2020,W,EESC,106,,OVERALL,The Catastrophic Earth,,110,68.14545455,14.88785994,96.0,0.0,6,11.0,9.0,11.0,15.0,9,17,11,6,7,8
-UBCO,2020,W,EESC,111,,001,Earth Science,Edward Hornibrook;Karla M. Panchuk;Karla Panchuk;Katharina Holt;Luke Williams;Nicolas Piette-Lauziere;Stephen Montgomery;Yuan Chen,87,77.10344828,14.53866895,96.0,19.0,4,1.0,3.0,6.0,6.0,5,10,7,12,19,14
-UBCO,2020,W,EESC,111,,101,Earth Science,Karla Panchuk;Luke Williams;Marcus Savery;Renee Larsen,63,75.58730159,20.5360697,96.0,0.0,5,1.0,2.0,0.0,2.0,3,9,8,9,11,13
-UBCO,2020,W,EESC,111,,OVERALL,Earth Science,,150,76.46666667,17.26410198,96.0,0.0,9,2.0,5.0,6.0,8.0,8,19,15,21,30,27
-UBCO,2020,W,EESC,121,,001,Earth History,Jasmine Lamoureaux;Karaline Reimer;Natalie Cowell;Robert Young;Stephen Montgomery,72,70.13888889,13.98621611,92.0,2.0,4,2.0,3.0,8.0,7.0,7,11,7,15,4,4
-UBCO,2020,W,EESC,121,,OVERALL,Earth History,,72,70.13888889,13.98621611,92.0,2.0,4,2.0,3.0,8.0,7.0,7,11,7,15,4,4
+UBCO,2020,W,EESC,101,,001,Environmental Science,Kristina Deenik;Renee Larsen;Robert Friberg,196,77.295918367,14.418086351,99.0,16.0,8,6.0,9.0,9.0,18.0,10,13,19,28,38,38
+UBCO,2020,W,EESC,101,,101,Environmental Science,Robert Friberg;Tamika Mulders,84,77.642857143,15.117725061,96.0,1.0,1,5.0,3.0,1.0,8.0,8,9,5,10,13,21
+UBCO,2020,W,EESC,101,,OVERALL,Environmental Science,,280,77.4,14.605100499,99.0,1.0,9,11.0,12.0,10.0,26.0,18,22,24,38,51,59
+UBCO,2020,W,EESC,104,,001,Four Billion Years and Counting,Robert Young,34,83.117647059,6.957728234,95.0,70.0,0,0.0,0.0,0.0,0.0,2,2,5,7,11,7
+UBCO,2020,W,EESC,104,,101,Four Billion Years and Counting,Robert Young,18,68.555555556,10.506145105,85.0,42.0,1,1.0,0.0,1.0,4.0,3,3,3,1,1,0
+UBCO,2020,W,EESC,104,,OVERALL,Four Billion Years and Counting,,52,78.076923077,10.819093786,95.0,42.0,1,1.0,0.0,1.0,4.0,5,5,8,8,12,7
+UBCO,2020,W,EESC,106,,001,The Catastrophic Earth,Denae Alana Weighill;Denae Weighill;Manuel Colombo,66,72.181818182,11.213877516,96.0,50.0,0,5.0,2.0,6.0,11.0,8,13,6,3,6,6
+UBCO,2020,W,EESC,106,,101,The Catastrophic Earth,Kristina Deenik;Manuel Colombo,44,62.090909091,17.585430256,93.0,0.0,6,6.0,7.0,5.0,4.0,1,4,5,3,1,2
+UBCO,2020,W,EESC,106,,OVERALL,The Catastrophic Earth,,110,68.145454545,14.887859942,96.0,0.0,6,11.0,9.0,11.0,15.0,9,17,11,6,7,8
+UBCO,2020,W,EESC,111,,001,Earth Science,Edward Hornibrook;Karla M. Panchuk;Karla Panchuk;Katharina Holt;Luke Williams;Nicolas Piette-Lauziere;Stephen Montgomery;Yuan Chen,87,77.103448276,14.538668954,96.0,19.0,4,1.0,3.0,6.0,6.0,5,10,7,12,19,14
+UBCO,2020,W,EESC,111,,101,Earth Science,Karla Panchuk;Luke Williams;Marcus Savery;Renee Larsen,63,75.587301587,20.5360697,96.0,0.0,5,1.0,2.0,0.0,2.0,3,9,8,9,11,13
+UBCO,2020,W,EESC,111,,OVERALL,Earth Science,,150,76.466666667,17.264101975,96.0,0.0,9,2.0,5.0,6.0,8.0,8,19,15,21,30,27
+UBCO,2020,W,EESC,121,,001,Earth History,Jasmine Lamoureaux;Karaline Reimer;Natalie Cowell;Robert Young;Stephen Montgomery,72,70.138888889,13.986216107,92.0,2.0,4,2.0,3.0,8.0,7.0,7,11,7,15,4,4
+UBCO,2020,W,EESC,121,,OVERALL,Earth History,,72,70.138888889,13.986216107,92.0,2.0,4,2.0,3.0,8.0,7.0,7,11,7,15,4,4
 UBCO,2020,W,EESC,200,,001,Mineralogy,John Greenough;Katharina Holt;Yuan Chen,20,80.25,5.981330604,94.0,72.0,0,0.0,0.0,0.0,0.0,0,6,4,6,3,1
 UBCO,2020,W,EESC,200,,OVERALL,Mineralogy,,20,80.25,5.981330604,94.0,72.0,0,0.0,0.0,0.0,0.0,0,6,4,6,3,1
-UBCO,2020,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough;Riccardo Graziani,14,75.5,15.0422482,99.0,40.0,1,0.0,1.0,0.0,1.0,1,2,2,4,0,2
-UBCO,2020,W,EESC,201,,OVERALL,Optical Mineralogy and Petrology,,14,75.5,15.0422482,99.0,40.0,1,0.0,1.0,0.0,1.0,1,2,2,4,0,2
-UBCO,2020,W,EESC,205,,001,Introduction to Hydrology,David Scott;Marcus Savery;Yiping Hou,18,71.05555556,9.077912576,90.0,54.0,0,1.0,0.0,3.0,2.0,3,4,2,1,1,1
-UBCO,2020,W,EESC,205,,OVERALL,Introduction to Hydrology,,18,71.05555556,9.077912576,90.0,54.0,0,1.0,0.0,3.0,2.0,3,4,2,1,1,1
-UBCO,2020,W,EESC,212,,001,Atmospheric Environments,Ian Saunders,22,74.77272727,9.102233207,90.0,53.0,0,1.0,1.0,1.0,0.0,3,4,5,5,1,1
-UBCO,2020,W,EESC,212,,OVERALL,Atmospheric Environments,,22,74.77272727,9.102233207,90.0,53.0,0,1.0,1.0,1.0,0.0,3,4,5,5,1,1
-UBCO,2020,W,EESC,213,,001,Introductory Forest Science and Management,Xiaohua Wei,34,74.05882353,13.30058367,94.0,41.0,1,2.0,2.0,3.0,3.0,2,3,3,9,2,4
-UBCO,2020,W,EESC,213,,OVERALL,Introductory Forest Science and Management,,34,74.05882353,13.30058367,94.0,41.0,1,2.0,2.0,3.0,3.0,2,3,3,9,2,4
-UBCO,2020,W,EESC,222,,001,Geomorphology,Alexander Macduff;Alexander Marcel Macduff;Bernard Bauer;Karaline Reimer,31,78.74193548,9.626241018,95.0,50.0,0,1.0,0.0,1.0,1.0,4,2,5,9,5,3
-UBCO,2020,W,EESC,222,,OVERALL,Geomorphology,,31,78.74193548,9.626241018,95.0,50.0,0,1.0,0.0,1.0,1.0,4,2,5,9,5,3
-UBCO,2020,W,EESC,301,,001,Limnology,Ian Walker;Norah Lloyd-Ellis;Tamika Mulders,18,77.55555556,11.19990663,90.0,52.0,0,2.0,0.0,1.0,0.0,1,2,1,8,2,1
-UBCO,2020,W,EESC,301,,OVERALL,Limnology,,18,77.55555556,11.19990663,90.0,52.0,0,2.0,0.0,1.0,0.0,1,2,1,8,2,1
-UBCO,2020,W,EESC,303,,001,Oceanography,Isabelle Therriault;Manuel Colombo;Renee Larsen,44,72.54545455,11.5445639,91.0,39.0,1,3.0,2.0,4.0,2.0,4,6,11,5,4,2
-UBCO,2020,W,EESC,303,,OVERALL,Oceanography,,44,72.54545455,11.5445639,91.0,39.0,1,3.0,2.0,4.0,2.0,4,6,11,5,4,2
-UBCO,2020,W,EESC,309,,101,Global Biogeochemistry,Alexander Macduff;Paul Curtis,50,74.34,9.197626136,91.0,46.0,1,1.0,0.0,2.0,6.0,8,10,8,6,7,1
-UBCO,2020,W,EESC,309,,OVERALL,Global Biogeochemistry,,50,74.34,9.197626136,91.0,46.0,1,1.0,0.0,2.0,6.0,8,10,8,6,7,1
-UBCO,2020,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Lauren Arnold,43,78.69767442,7.359913573,92.0,60.0,0,0.0,0.0,1.0,2.0,5,4,11,11,5,4
-UBCO,2020,W,EESC,314,,OVERALL,"Environmental Impact Assessment: Process, Regulation and Administration",,43,78.69767442,7.359913573,92.0,60.0,0,0.0,0.0,1.0,2.0,5,4,11,11,5,4
-UBCO,2020,W,EESC,315,,101,Environmental Impact Assessment: Techniques and practice,Jerry Vandenberg,33,78.21212121,8.443775724,87.0,56.0,0,0.0,2.0,1.0,1.0,2,2,3,16,6,0
-UBCO,2020,W,EESC,315,,OVERALL,Environmental Impact Assessment: Techniques and practice,,33,78.21212121,8.443775724,87.0,56.0,0,0.0,2.0,1.0,1.0,2,2,3,16,6,0
-UBCO,2020,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough;Riccardo Graziani,6,77.16666667,9.042492282,84.0,60.0,0,0.0,0.0,1.0,0.0,0,1,0,4,0,0
-UBCO,2020,W,EESC,322,,OVERALL,Igneous and Metamorphic Petrology,,6,77.16666667,9.042492282,84.0,60.0,0,0.0,0.0,1.0,0.0,0,1,0,4,0,0
-UBCO,2020,W,EESC,323,,101,Geochemistry,Yuan Chen,37,75.64864865,8.223327983,87.0,48.0,1,0.0,1.0,0.0,1.0,4,9,10,3,8,0
-UBCO,2020,W,EESC,323,,OVERALL,Geochemistry,,37,75.64864865,8.223327983,87.0,48.0,1,0.0,1.0,0.0,1.0,4,9,10,3,8,0
-UBCO,2020,W,EESC,325,,001,Structural Geology,Isabelle Therriault;Kyle Larson;Riccardo Graziani,26,75.0,10.44988038,92.0,47.0,1,1.0,0.0,0.0,3.0,2,9,1,4,4,1
-UBCO,2020,W,EESC,325,,OVERALL,Structural Geology,,26,75.0,10.44988038,92.0,47.0,1,1.0,0.0,0.0,3.0,2,9,1,4,4,1
-UBCO,2020,W,EESC,342,,001,Hydrogeology,Craig Nichol;Yiduo Zhang,31,78.09677419,8.100842914,91.0,62.0,0,0.0,0.0,2.0,1.0,4,4,6,6,7,1
-UBCO,2020,W,EESC,342,,OVERALL,Hydrogeology,,31,78.09677419,8.100842914,91.0,62.0,0,0.0,0.0,2.0,1.0,4,4,6,6,7,1
-UBCO,2020,W,EESC,356,,001,Stratigraphy and Sedimentology,Isabelle Therriault;Stephen Montgomery,27,73.74074074,10.04065809,90.0,58.0,0,0.0,1.0,4.0,4.0,4,3,2,3,4,2
-UBCO,2020,W,EESC,356,,OVERALL,Stratigraphy and Sedimentology,,27,73.74074074,10.04065809,90.0,58.0,0,0.0,1.0,4.0,4.0,4,3,2,3,4,2
+UBCO,2020,W,EESC,201,,001,Optical Mineralogy and Petrology,John Greenough;Riccardo Graziani,14,75.5,15.042248195,99.0,40.0,1,0.0,1.0,0.0,1.0,1,2,2,4,0,2
+UBCO,2020,W,EESC,201,,OVERALL,Optical Mineralogy and Petrology,,14,75.5,15.042248195,99.0,40.0,1,0.0,1.0,0.0,1.0,1,2,2,4,0,2
+UBCO,2020,W,EESC,205,,001,Introduction to Hydrology,David Scott;Marcus Savery;Yiping Hou,18,71.055555556,9.077912576,90.0,54.0,0,1.0,0.0,3.0,2.0,3,4,2,1,1,1
+UBCO,2020,W,EESC,205,,OVERALL,Introduction to Hydrology,,18,71.055555556,9.077912576,90.0,54.0,0,1.0,0.0,3.0,2.0,3,4,2,1,1,1
+UBCO,2020,W,EESC,212,,001,Atmospheric Environments,Ian Saunders,22,74.772727273,9.102233207,90.0,53.0,0,1.0,1.0,1.0,0.0,3,4,5,5,1,1
+UBCO,2020,W,EESC,212,,OVERALL,Atmospheric Environments,,22,74.772727273,9.102233207,90.0,53.0,0,1.0,1.0,1.0,0.0,3,4,5,5,1,1
+UBCO,2020,W,EESC,213,,001,Introductory Forest Science and Management,Xiaohua Wei,34,74.058823529,13.300583666,94.0,41.0,1,2.0,2.0,3.0,3.0,2,3,3,9,2,4
+UBCO,2020,W,EESC,213,,OVERALL,Introductory Forest Science and Management,,34,74.058823529,13.300583666,94.0,41.0,1,2.0,2.0,3.0,3.0,2,3,3,9,2,4
+UBCO,2020,W,EESC,222,,001,Geomorphology,Alexander Macduff;Alexander Marcel Macduff;Bernard Bauer;Karaline Reimer,31,78.741935484,9.626241018,95.0,50.0,0,1.0,0.0,1.0,1.0,4,2,5,9,5,3
+UBCO,2020,W,EESC,222,,OVERALL,Geomorphology,,31,78.741935484,9.626241018,95.0,50.0,0,1.0,0.0,1.0,1.0,4,2,5,9,5,3
+UBCO,2020,W,EESC,301,,001,Limnology,Ian Walker;Norah Lloyd-Ellis;Tamika Mulders,18,77.555555556,11.199906629,90.0,52.0,0,2.0,0.0,1.0,0.0,1,2,1,8,2,1
+UBCO,2020,W,EESC,301,,OVERALL,Limnology,,18,77.555555556,11.199906629,90.0,52.0,0,2.0,0.0,1.0,0.0,1,2,1,8,2,1
+UBCO,2020,W,EESC,303,,001,Oceanography,Isabelle Therriault;Manuel Colombo;Renee Larsen,44,72.545454545,11.544563898,91.0,39.0,1,3.0,2.0,4.0,2.0,4,6,11,5,4,2
+UBCO,2020,W,EESC,303,,OVERALL,Oceanography,,44,72.545454545,11.544563898,91.0,39.0,1,3.0,2.0,4.0,2.0,4,6,11,5,4,2
+UBCO,2020,W,EESC,309,,101,Global Biogeochemistry,Alexander Macduff;Paul Curtis,50,74.38,9.20490109,91.0,46.0,1,1.0,0.0,2.0,6.0,8,9,9,6,7,1
+UBCO,2020,W,EESC,309,,OVERALL,Global Biogeochemistry,,50,74.38,9.20490109,91.0,46.0,1,1.0,0.0,2.0,6.0,8,9,9,6,7,1
+UBCO,2020,W,EESC,314,,001,"Environmental Impact Assessment: Process, Regulation and Administration",Kevin Hanna;Lauren Arnold,43,78.697674419,7.359913573,92.0,60.0,0,0.0,0.0,1.0,2.0,5,4,11,11,5,4
+UBCO,2020,W,EESC,314,,OVERALL,"Environmental Impact Assessment: Process, Regulation and Administration",,43,78.697674419,7.359913573,92.0,60.0,0,0.0,0.0,1.0,2.0,5,4,11,11,5,4
+UBCO,2020,W,EESC,315,,101,Environmental Impact Assessment: Techniques and practice,Jerry Vandenberg,33,78.212121212,8.443775724,87.0,56.0,0,0.0,2.0,1.0,1.0,2,2,3,16,6,0
+UBCO,2020,W,EESC,315,,OVERALL,Environmental Impact Assessment: Techniques and practice,,33,78.212121212,8.443775724,87.0,56.0,0,0.0,2.0,1.0,1.0,2,2,3,16,6,0
+UBCO,2020,W,EESC,322,,001,Igneous and Metamorphic Petrology,John Greenough;Riccardo Graziani,6,77.166666667,9.042492282,84.0,60.0,0,0.0,0.0,1.0,0.0,0,1,0,4,0,0
+UBCO,2020,W,EESC,322,,OVERALL,Igneous and Metamorphic Petrology,,6,77.166666667,9.042492282,84.0,60.0,0,0.0,0.0,1.0,0.0,0,1,0,4,0,0
+UBCO,2020,W,EESC,323,,101,Geochemistry,Yuan Chen,37,75.648648649,8.223327983,87.0,48.0,1,0.0,1.0,0.0,1.0,4,9,10,3,8,0
+UBCO,2020,W,EESC,323,,OVERALL,Geochemistry,,37,75.648648649,8.223327983,87.0,48.0,1,0.0,1.0,0.0,1.0,4,9,10,3,8,0
+UBCO,2020,W,EESC,325,,001,Structural Geology,Isabelle Therriault;Kyle Larson;Riccardo Graziani,26,75.0,10.449880382,92.0,47.0,1,1.0,0.0,0.0,3.0,2,9,1,4,4,1
+UBCO,2020,W,EESC,325,,OVERALL,Structural Geology,,26,75.0,10.449880382,92.0,47.0,1,1.0,0.0,0.0,3.0,2,9,1,4,4,1
+UBCO,2020,W,EESC,342,,001,Hydrogeology,Craig Nichol;Yiduo Zhang,31,78.096774194,8.100842914,91.0,62.0,0,0.0,0.0,2.0,1.0,4,4,6,6,7,1
+UBCO,2020,W,EESC,342,,OVERALL,Hydrogeology,,31,78.096774194,8.100842914,91.0,62.0,0,0.0,0.0,2.0,1.0,4,4,6,6,7,1
+UBCO,2020,W,EESC,356,,001,Stratigraphy and Sedimentology,Isabelle Therriault;Stephen Montgomery,27,73.740740741,10.040658087,90.0,58.0,0,0.0,1.0,4.0,4.0,4,3,2,3,4,2
+UBCO,2020,W,EESC,356,,OVERALL,Stratigraphy and Sedimentology,,27,73.740740741,10.040658087,90.0,58.0,0,0.0,1.0,4.0,4.0,4,3,2,3,4,2
 UBCO,2020,W,EESC,360,,101,Geologic Resources,Katharina Holt;Yuan Chen,8,79.375,4.56500665,87.0,75.0,0,0.0,0.0,0.0,0.0,0,2,2,2,2,0
 UBCO,2020,W,EESC,360,,OVERALL,Geologic Resources,,8,79.375,4.56500665,87.0,75.0,0,0.0,0.0,0.0,0.0,0,2,2,2,2,0
-UBCO,2020,W,EESC,367,,001,Energy Resources Management,Kevin Hanna;Lauren Arnold,36,77.97222222,12.27886945,91.0,34.0,1,0.0,1.0,4.0,1.0,1,2,3,10,8,5
-UBCO,2020,W,EESC,367,,OVERALL,Energy Resources Management,,36,77.97222222,12.27886945,91.0,34.0,1,0.0,1.0,4.0,1.0,1,2,3,10,8,5
-UBCO,2020,W,EESC,402,,101,Freshwater Resources,Alexander Macduff;Paul Curtis,26,80.07692308,7.562661314,90.0,56.0,0,0.0,1.0,0.0,0.0,2,1,6,6,8,2
-UBCO,2020,W,EESC,402,,OVERALL,Freshwater Resources,,26,80.07692308,7.562661314,90.0,56.0,0,0.0,1.0,0.0,0.0,2,1,6,6,8,2
+UBCO,2020,W,EESC,367,,001,Energy Resources Management,Kevin Hanna;Lauren Arnold,36,77.972222222,12.278869448,91.0,34.0,1,0.0,1.0,4.0,1.0,1,2,3,10,8,5
+UBCO,2020,W,EESC,367,,OVERALL,Energy Resources Management,,36,77.972222222,12.278869448,91.0,34.0,1,0.0,1.0,4.0,1.0,1,2,3,10,8,5
+UBCO,2020,W,EESC,402,,101,Freshwater Resources,Alexander Macduff;Paul Curtis,26,80.076923077,7.562661314,90.0,56.0,0,0.0,1.0,0.0,0.0,2,1,6,6,8,2
+UBCO,2020,W,EESC,402,,OVERALL,Freshwater Resources,,26,80.076923077,7.562661314,90.0,56.0,0,0.0,1.0,0.0,0.0,2,1,6,6,8,2
 UBCO,2020,W,EESC,413,,101,Analytical Methods in Hydrology,Xiaohua Wei,16,78.625,8.507839522,92.0,60.0,0,0.0,0.0,1.0,1.0,1,1,3,5,3,1
 UBCO,2020,W,EESC,413,,OVERALL,Analytical Methods in Hydrology,,16,78.625,8.507839522,92.0,60.0,0,0.0,0.0,1.0,1.0,1,1,3,5,3,1
-UBCO,2020,W,EESC,418,A,001,Special Topics in Earth and Environmental Sciences,Jerry Vandenberg,33,75.57575758,11.32483527,91.0,39.0,1,0.0,1.0,2.0,2.0,3,7,3,5,6,3
-UBCO,2020,W,EESC,418,A,OVERALL,Special Topics in Earth and Environmental Sciences,,33,75.57575758,11.32483527,91.0,39.0,1,0.0,1.0,2.0,2.0,3,7,3,5,6,3
-UBCO,2020,W,EESC,422,,001,Fluvial Geomorphology,Bernard Bauer,23,76.86956522,10.60576322,95.0,56.0,0,0.0,1.0,1.0,3.0,3,2,2,5,2,4
-UBCO,2020,W,EESC,422,,OVERALL,Fluvial Geomorphology,,23,76.86956522,10.60576322,95.0,56.0,0,0.0,1.0,1.0,3.0,3,2,2,5,2,4
-UBCO,2020,W,EESC,423,,001,Tracers of Natural Processes,John Greenough,36,77.47222222,7.439224657,92.0,61.0,0,0.0,0.0,2.0,2.0,5,5,4,12,4,2
-UBCO,2020,W,EESC,423,,OVERALL,Tracers of Natural Processes,,36,77.47222222,7.439224657,92.0,61.0,0,0.0,0.0,2.0,2.0,5,5,4,12,4,2
-UBCO,2020,W,EESC,425,,101,Tectonics and Orogenesis,Isabelle Therriault;Kyle Larson,7,74.57142857,5.652643714,81.0,66.0,0,0.0,0.0,0.0,1.0,1,2,1,2,0,0
-UBCO,2020,W,EESC,425,,OVERALL,Tectonics and Orogenesis,,7,74.57142857,5.652643714,81.0,66.0,0,0.0,0.0,0.0,1.0,1,2,1,2,0,0
-UBCO,2020,W,EESC,431,,001,Quaternary Glacial Environments,Robert Young,13,82.61538462,12.12805605,98.0,53.0,0,1.0,0.0,0.0,0.0,0,2,1,2,3,4
-UBCO,2020,W,EESC,431,,OVERALL,Quaternary Glacial Environments,,13,82.61538462,12.12805605,98.0,53.0,0,1.0,0.0,0.0,0.0,0,2,1,2,3,4
-UBCO,2020,W,EESC,456,,001,Soil Science,David Scott;Elizabeth Houghton,23,78.95652174,8.657515185,96.0,55.0,0,0.0,1.0,0.0,1.0,1,2,5,8,3,2
-UBCO,2020,W,EESC,456,,OVERALL,Soil Science,,23,78.95652174,8.657515185,96.0,55.0,0,0.0,1.0,0.0,1.0,1,2,5,8,3,2
-UBCO,2020,W,EESC,512,,OVERALL,Applied Data Analysis in Geosciences,,6,91.16666667,1.940790217,94.0,89.0,0,0.0,0.0,0.0,0.0,0,0,0,0,,
+UBCO,2020,W,EESC,418,A,001,Special Topics in Earth and Environmental Sciences,Jerry Vandenberg,33,75.575757576,11.324835272,91.0,39.0,1,0.0,1.0,2.0,2.0,3,7,3,5,6,3
+UBCO,2020,W,EESC,418,A,OVERALL,Special Topics in Earth and Environmental Sciences,,33,75.575757576,11.324835272,91.0,39.0,1,0.0,1.0,2.0,2.0,3,7,3,5,6,3
+UBCO,2020,W,EESC,422,,001,Fluvial Geomorphology,Bernard Bauer,23,76.869565217,10.605763218,95.0,56.0,0,0.0,1.0,1.0,3.0,3,2,2,5,2,4
+UBCO,2020,W,EESC,422,,OVERALL,Fluvial Geomorphology,,23,76.869565217,10.605763218,95.0,56.0,0,0.0,1.0,1.0,3.0,3,2,2,5,2,4
+UBCO,2020,W,EESC,423,,001,Tracers of Natural Processes,John Greenough,36,77.472222222,7.439224657,92.0,61.0,0,0.0,0.0,2.0,2.0,5,5,4,12,4,2
+UBCO,2020,W,EESC,423,,OVERALL,Tracers of Natural Processes,,36,77.472222222,7.439224657,92.0,61.0,0,0.0,0.0,2.0,2.0,5,5,4,12,4,2
+UBCO,2020,W,EESC,425,,101,Tectonics and Orogenesis,Isabelle Therriault;Kyle Larson,7,74.571428571,5.652643714,81.0,66.0,0,0.0,0.0,0.0,1.0,1,2,1,2,0,0
+UBCO,2020,W,EESC,425,,OVERALL,Tectonics and Orogenesis,,7,74.571428571,5.652643714,81.0,66.0,0,0.0,0.0,0.0,1.0,1,2,1,2,0,0
+UBCO,2020,W,EESC,431,,001,Quaternary Glacial Environments,Robert Young,13,82.615384615,12.128056052,98.0,53.0,0,1.0,0.0,0.0,0.0,0,2,1,2,3,4
+UBCO,2020,W,EESC,431,,OVERALL,Quaternary Glacial Environments,,13,82.615384615,12.128056052,98.0,53.0,0,1.0,0.0,0.0,0.0,0,2,1,2,3,4
+UBCO,2020,W,EESC,456,,001,Soil Science,David Scott;Elizabeth Houghton,23,78.956521739,8.657515185,96.0,55.0,0,0.0,1.0,0.0,1.0,1,2,5,8,3,2
+UBCO,2020,W,EESC,456,,OVERALL,Soil Science,,23,78.956521739,8.657515185,96.0,55.0,0,0.0,1.0,0.0,1.0,1,2,5,8,3,2
+UBCO,2020,W,EESC,512,,OVERALL,Applied Data Analysis in Geosciences,,6,91.166666667,1.940790217,94.0,89.0,0,0.0,0.0,0.0,0.0,0,0,0,0,,
+UBCO,2020,W,EESC,550,,101,Research Seminar in Earth and Environmental Sciences,Edward Hornibrook,11,93.545454545,2.067057637,97.0,90.0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,11
+UBCO,2020,W,EESC,550,,OVERALL,Research Seminar in Earth and Environmental Sciences,,11,93.545454545,2.067057637,97.0,90.0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,11

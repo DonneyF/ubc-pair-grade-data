@@ -1,175 +1,175 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,PHYS,100,,101,Introductory Physics,Jared Stang;Jessica Chapman;Jessica Kiyomi Chapman;Maryam Shirmohammad,240,75.10416667,14.4152981,100.0,15.0,21,4.0,2.0,7.0,9.0,23.0,38.0,21.0,57,30.0,28
-UBCV,2019,W,PHYS,100,,102,Introductory Physics,Jared Stang;Kris Sigurdson;Maryam Shirmohammad;Timothy Branch;Timothy William Branch,175,71.21714286,17.72875912,98.0,13.0,20,5.0,6.0,4.0,15.0,15.0,20.0,16.0,43,21.0,10
-UBCV,2019,W,PHYS,100,,103,Introductory Physics,Jared Stang;Marcello M Pavan;Marcello Pavan;Ryan Konno,260,75.86923077,13.51583568,97.0,29.0,16,3.0,3.0,13.0,16.0,18.0,32.0,33.0,62,30.0,34
-UBCV,2019,W,PHYS,100,,OVERALL,Introductory Physics,,675,74.39111111,15.12169952,100.0,13.0,57,12.0,11.0,24.0,40.0,56.0,90.0,70.0,162,81.0,72
-UBCV,2019,W,PHYS,101,,101,Energy and Waves,Javed Iqbal;Mohammed Iqbal,259,77.79150579,13.11735068,100.0,25.0,17,0.0,2.0,5.0,13.0,28.0,36.0,26.0,49,34.0,49
-UBCV,2019,W,PHYS,101,,103,Energy and Waves,Alannah Hallas;Alison Lister;Mona Berciu;Valery Milner;William Porter;William Samuel Porter,241,75.82572614,14.94694513,98.0,0.0,24,0.0,3.0,7.0,12.0,24.0,33.0,22.0,39,38.0,39
-UBCV,2019,W,PHYS,101,,104,Energy and Waves,Alexander Mackay;Alison Lister;Lorna Tu;Marina Litinskaya;Mona Berciu,111,77.62162162,13.63488444,98.0,45.0,11,0.0,0.0,0.0,6.0,14.0,8.0,7.0,24,24.0,17
-UBCV,2019,W,PHYS,101,,201,Energy and Waves,Andree Charline Coschizza;Andree Coschizza;Jared Stang;Jordan Wilson-Gerow;Kausik Krishnakumar;Maryam Shirmohammad,269,85.71375465,9.265760899,99.0,38.0,1,1.0,2.0,6.0,0.0,6.0,17.0,17.0,55,58.0,106
-UBCV,2019,W,PHYS,101,,202,Energy and Waves,Jared Stang;Marina Litinskaya;Maryam Shirmohammad;Paul Herringer,265,85.31698113,12.42391596,100.0,4.0,6,2.0,7.0,2.0,6.0,5.0,7.0,10.0,40,58.0,122
-UBCV,2019,W,PHYS,101,,203,Energy and Waves,Jared Stang;Marina Litinskaya;Maryam Shirmohammad;Matthew Choptuik;Yilin Liu,236,85.02542373,11.124412,100.0,0.0,1,3.0,1.0,5.0,5.0,13.0,9.0,10.0,36,62.0,91
-UBCV,2019,W,PHYS,101,,OVERALL,Energy and Waves,,1381,81.65821868,13.07250348,100.0,0.0,60,6.0,15.0,25.0,42.0,90.0,110.0,92.0,243,274.0,424
-UBCV,2019,W,PHYS,107,,101,Enriched Physics 1,Connor Bevington;Ian Keith Affleck,93,79.47311828,11.29215907,99.0,47.0,1,2.0,4.0,1.0,3.0,10.0,12.0,14.0,14,13.0,19
-UBCV,2019,W,PHYS,107,,OVERALL,Enriched Physics 1,,93,79.47311828,11.29215907,99.0,47.0,1,2.0,4.0,1.0,3.0,10.0,12.0,14.0,14,13.0,19
+UBCV,2019,W,PHYS,100,,101,Introductory Physics,Jared Stang;Jessica Chapman;Jessica Kiyomi Chapman;Maryam Shirmohammad,240,75.104166667,14.415298103,100.0,15.0,21,4.0,2.0,7.0,9.0,23.0,38.0,21.0,57,30.0,28
+UBCV,2019,W,PHYS,100,,102,Introductory Physics,Jared Stang;Kris Sigurdson;Maryam Shirmohammad;Timothy Branch;Timothy William Branch,175,71.217142857,17.728759117,98.0,13.0,20,5.0,6.0,4.0,15.0,15.0,20.0,16.0,43,21.0,10
+UBCV,2019,W,PHYS,100,,103,Introductory Physics,Jared Stang;Marcello M Pavan;Marcello Pavan;Ryan Konno,260,75.869230769,13.515835678,97.0,29.0,16,3.0,3.0,13.0,16.0,18.0,32.0,33.0,62,30.0,34
+UBCV,2019,W,PHYS,100,,OVERALL,Introductory Physics,,675,74.391111111,15.121699516,100.0,13.0,57,12.0,11.0,24.0,40.0,56.0,90.0,70.0,162,81.0,72
+UBCV,2019,W,PHYS,101,,101,Energy and Waves,Mohammed Iqbal,259,77.791505792,13.117350678,100.0,25.0,17,0.0,2.0,5.0,13.0,28.0,36.0,26.0,49,34.0,49
+UBCV,2019,W,PHYS,101,,103,Energy and Waves,Alannah Hallas;Alison Lister;William Porter,241,75.825726141,14.946945131,98.0,0.0,24,0.0,3.0,7.0,12.0,24.0,33.0,22.0,39,38.0,39
+UBCV,2019,W,PHYS,101,,104,Energy and Waves,Lorna Tu;Marina Litinskaya,111,77.621621622,13.634884441,98.0,45.0,11,0.0,0.0,0.0,6.0,14.0,8.0,7.0,24,24.0,17
+UBCV,2019,W,PHYS,101,,201,Energy and Waves,Andree Coschizza;Jared Stang;Jordan Wilson-Gerow;Kausik Krishnakumar;Maryam Shirmohammad,269,85.713754647,9.265760899,99.0,38.0,1,1.0,2.0,6.0,0.0,6.0,17.0,17.0,55,58.0,106
+UBCV,2019,W,PHYS,101,,202,Energy and Waves,Jared Stang;Marina Litinskaya;Maryam Shirmohammad;Paul Herringer,265,84.78490566,14.365459894,100.0,0.0,8,2.0,6.0,2.0,6.0,5.0,7.0,10.0,39,58.0,122
+UBCV,2019,W,PHYS,101,,203,Energy and Waves,Jared Stang;Marina Litinskaya;Maryam Shirmohammad;Yilin Liu,237,84.666666667,12.398856335,100.0,0.0,2,3.0,1.0,5.0,5.0,13.0,9.0,10.0,36,62.0,91
+UBCV,2019,W,PHYS,101,,OVERALL,Energy and Waves,,1382,81.497105644,13.594827157,100.0,0.0,63,6.0,14.0,25.0,42.0,90.0,110.0,92.0,242,274.0,424
+UBCV,2019,W,PHYS,107,,101,Enriched Physics 1,Connor Bevington;Ian Keith Affleck,93,79.47311828,11.292159071,99.0,47.0,1,2.0,4.0,1.0,3.0,10.0,12.0,14.0,14,13.0,19
+UBCV,2019,W,PHYS,107,,OVERALL,Enriched Physics 1,,93,79.47311828,11.292159071,99.0,47.0,1,2.0,4.0,1.0,3.0,10.0,12.0,14.0,14,13.0,19
 UBCV,2019,W,PHYS,108,,201,Enriched Physics II,Dominique Trischuk;Janis Mckenna;Oleg Kabernik;Robin Leigh Crawford Hayes,84,87.55952381,9.635965749,99.0,55.0,0,0.0,3.0,1.0,0.0,2.0,3.0,1.0,12,16.0,46
 UBCV,2019,W,PHYS,108,,OVERALL,Enriched Physics II,,84,87.55952381,9.635965749,99.0,55.0,0,0.0,3.0,1.0,0.0,2.0,3.0,1.0,12,16.0,46
-UBCV,2019,W,PHYS,109,,L0A,Enriched Experimental Physics,Caleb Sample;Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Joss Ives;Riley Zurrin;Valery Milner,22,90.45454546,3.097268731,96.0,84.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,6.0,15
-UBCV,2019,W,PHYS,109,,L0B,Enriched Experimental Physics,Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Gareth William Maddock Smith;Joss Ives;Valery Milner,21,88.57142857,6.144684114,97.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5,1.0,14
-UBCV,2019,W,PHYS,109,,L0C,Enriched Experimental Physics,Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Hannah Xiao;Joss Ives;Valery Milner,7,85.14285714,5.4902511,90.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1,3.0,2
-UBCV,2019,W,PHYS,109,,OVERALL,Enriched Experimental Physics,,52,88.98076923,5.203657781,97.0,74.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,8,10.0,32
-UBCV,2019,W,PHYS,117,,101,Dynamics and Waves,Mobin Shakeri;Simon Bates;Su Yu Ding;Ziliang Ye,301,73.54817276,15.11010164,99.0,13.0,25,7.0,13.0,20.0,28.0,31.0,25.0,32.0,41,35.0,44
-UBCV,2019,W,PHYS,117,,OVERALL,Dynamics and Waves,,436,75.83944954,14.8231538,99.0,13.0,31,7.0,15.0,23.0,34.0,36.0,39.0,39.0,72,59.0,81
-UBCV,2019,W,PHYS,117,,V01,Dynamics and Waves,Elizabeth Loggia;Georg Rieger;Jiajun Qi;Shovon Biswas;Yiting Hu;Yuhul Jiang,66,80.37878788,11.97017467,99.0,36.0,2,0.0,1.0,2.0,3.0,3.0,9.0,4.0,14,12.0,16
-UBCV,2019,W,PHYS,117,,V02,Dynamics and Waves,Elizabeth Loggia;Georg Rieger;Sean Cooper;Sean Steven Cooper;Yiting Hu;Yujia Yang,69,81.49275362,13.62698792,98.0,31.0,4,0.0,1.0,1.0,3.0,2.0,5.0,3.0,17,12.0,21
-UBCV,2019,W,PHYS,118,,201,"Electricity, Light and Radiation",Cassandra Miller;Elizabeth Loggia;Mohammad Mirsharifi;Sean Cooper;Shovon Biswas;Sukhman Singh;Vedangi Pathak;Vesna Sossi;Yiqi Zhu,103,82.9223301,12.78992352,100.0,3.0,1,1.0,2.0,2.0,2.0,2.0,9.0,18.0,11,22.0,33
-UBCV,2019,W,PHYS,118,,202,"Electricity, Light and Radiation",Georg Rieger;Jessica Mciver,114,86.68421053,10.74920519,100.0,50.0,0,2.0,1.0,2.0,3.0,3.0,6.0,9.0,13,18.0,57
-UBCV,2019,W,PHYS,118,,OVERALL,"Electricity, Light and Radiation",,217,84.89861751,11.8844299,100.0,3.0,1,3.0,3.0,4.0,5.0,5.0,15.0,27.0,24,40.0,90
-UBCV,2019,W,PHYS,119,,L2A,Experimental Physics Lab,Carl Michal;Deborah C Good;Deborah Good;Duo Fu Qi,27,89.48148148,8.011387906,99.0,69.0,0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,2,4.0,18
-UBCV,2019,W,PHYS,119,,L2B,Experimental Physics Lab,Carl Michal;Deborah C Good;Deborah Good;Helena Marie Koniar;Ryan Karimi,30,88.66666667,5.628335537,98.0,68.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3,10.0,16
-UBCV,2019,W,PHYS,119,,L2C,Experimental Physics Lab,Abhilash Javaji;Carl Michal;Helena Marie Koniar,37,90.78378378,3.837933002,97.0,81.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,7.0,27
+UBCV,2019,W,PHYS,109,,L0A,Enriched Experimental Physics,Caleb Sample;Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Joss Ives;Riley Zurrin;Valery Milner,22,90.454545455,3.097268731,96.0,84.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,6.0,15
+UBCV,2019,W,PHYS,109,,L0B,Enriched Experimental Physics,Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Gareth William Maddock Smith;Joss Ives;Valery Milner,21,88.571428571,6.144684114,97.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5,1.0,14
+UBCV,2019,W,PHYS,109,,L0C,Enriched Experimental Physics,Connor Bevington;Douglas Andrew Bonn;Douglas Bryman;Hannah Xiao;Joss Ives;Valery Milner,7,85.142857143,5.4902511,90.0,74.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1,3.0,2
+UBCV,2019,W,PHYS,109,,OVERALL,Enriched Experimental Physics,,52,88.980769231,5.203657781,97.0,74.0,0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,8,10.0,32
+UBCV,2019,W,PHYS,117,,101,Dynamics and Waves,Mobin Shakeri;Simon Bates;Su Yu Ding;Ziliang Ye,301,73.548172757,15.110101643,99.0,13.0,25,7.0,13.0,20.0,28.0,31.0,25.0,32.0,41,35.0,44
+UBCV,2019,W,PHYS,117,,OVERALL,Dynamics and Waves,,436,75.839449541,14.823153795,99.0,13.0,31,7.0,15.0,23.0,34.0,36.0,39.0,39.0,72,59.0,81
+UBCV,2019,W,PHYS,117,,V01,Dynamics and Waves,Elizabeth Loggia;Georg Rieger;Jiajun Qi;Shovon Biswas;Yiting Hu;Yuhul Jiang,66,80.378787879,11.970174668,99.0,36.0,2,0.0,1.0,2.0,3.0,3.0,9.0,4.0,14,12.0,16
+UBCV,2019,W,PHYS,117,,V02,Dynamics and Waves,Elizabeth Loggia;Georg Rieger;Sean Cooper;Yiting Hu;Yujia Yang,69,81.492753623,13.626987916,98.0,31.0,4,0.0,1.0,1.0,3.0,2.0,5.0,3.0,17,12.0,21
+UBCV,2019,W,PHYS,118,,201,"Electricity, Light and Radiation",Cassandra Miller;Elizabeth Loggia;Mohammad Mirsharifi;Sean Cooper;Shovon Biswas;Sukhman Singh;Vedangi Pathak;Vesna Sossi;Yiqi Zhu,103,82.922330097,12.789923516,100.0,3.0,1,1.0,2.0,2.0,2.0,2.0,9.0,18.0,11,22.0,33
+UBCV,2019,W,PHYS,118,,202,"Electricity, Light and Radiation",Georg Rieger;Jessica Mciver,114,86.684210526,10.749205189,100.0,50.0,0,2.0,1.0,2.0,3.0,3.0,6.0,9.0,13,18.0,57
+UBCV,2019,W,PHYS,118,,OVERALL,"Electricity, Light and Radiation",,217,84.898617512,11.884429898,100.0,3.0,1,3.0,3.0,4.0,5.0,5.0,15.0,27.0,24,40.0,90
+UBCV,2019,W,PHYS,119,,L2A,Experimental Physics Lab,Carl Michal;Deborah C Good;Deborah Good;Duo Fu Qi,27,89.481481481,8.011387906,99.0,69.0,0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,2,4.0,18
+UBCV,2019,W,PHYS,119,,L2B,Experimental Physics Lab,Carl Michal;Deborah C Good;Deborah Good;Helena Marie Koniar;Ryan Karimi,30,88.666666667,5.628335537,98.0,68.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3,10.0,16
+UBCV,2019,W,PHYS,119,,L2C,Experimental Physics Lab,Abhilash Javaji;Carl Michal;Helena Marie Koniar,37,90.783783784,3.837933002,97.0,81.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,7.0,27
 UBCV,2019,W,PHYS,119,,L2D,Experimental Physics Lab,Carl Michal;Lorna Tu;Stefan Reinsberg,20,84.4,11.32951432,95.0,50.0,0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,4,5.0,8
-UBCV,2019,W,PHYS,119,,L2E,Experimental Physics Lab,Abhilash Javaji;Carl Michal;Graham Johnstone;Keenan Mcconkey;Maryam Rahbaran,36,88.77777778,8.085652588,98.0,65.0,0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,4,6.0,22
-UBCV,2019,W,PHYS,119,,L2F,Experimental Physics Lab,Carl Michal;Graham Baker;Muhammad Sanif;Stefan Reinsberg,34,89.97058824,4.895794696,96.0,72.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3,6.0,24
-UBCV,2019,W,PHYS,119,,L2G,Experimental Physics Lab,Carl Michal;Erfan Rezaie;Graham Johnstone;Keenan Mcconkey;Maryam Rahbaran;Natasha Moysiuk,18,86.94444444,8.439906762,99.0,68.0,0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,2,4.0,9
+UBCV,2019,W,PHYS,119,,L2E,Experimental Physics Lab,Abhilash Javaji;Carl Michal;Graham Johnstone;Keenan Mcconkey;Maryam Rahbaran,36,88.777777778,8.085652588,98.0,65.0,0,0.0,0.0,0.0,1.0,2.0,0.0,1.0,4,6.0,22
+UBCV,2019,W,PHYS,119,,L2F,Experimental Physics Lab,Carl Michal;Graham Baker;Muhammad Sanif;Stefan Reinsberg,34,89.970588235,4.895794696,96.0,72.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3,6.0,24
+UBCV,2019,W,PHYS,119,,L2G,Experimental Physics Lab,Carl Michal;Erfan Rezaie;Graham Johnstone;Keenan Mcconkey;Maryam Rahbaran;Natasha Moysiuk,18,86.944444444,8.439906762,99.0,68.0,0,0.0,0.0,0.0,0.0,2.0,0.0,1.0,2,4.0,9
 UBCV,2019,W,PHYS,119,,OVERALL,Experimental Physics Lab,,222,87.63963964,9.281707591,99.0,10.0,1,1.0,0.0,1.0,2.0,9.0,5.0,6.0,26,46.0,125
-UBCV,2019,W,PHYS,119,,V2A,Experimental Physics Lab,Carl Michal;Erfan Rezaie;Evan Naugler;Graham Johnstone,20,75.65,16.82502835,90.0,10.0,1,0.0,0.0,1.0,0.0,1.0,3.0,4.0,5,4.0,1
-UBCV,2019,W,PHYS,157,,101,Introductory Physics for Engineers I,Bradley Guislain;Donald Witt;Eleni Marina Lykiardopoulou;Eleni Marina Marina Lykiardopoulou;Eui Sun Ahn;Guy Leckenby;Guy Timothy Leckenby;Mark Van Raamsdonk;Ryan Harvey;Sahba Mozaffarian;Ziang Yan,283,77.87632509,11.33698388,98.0,36.0,8,0.0,7.0,9.0,16.0,31.0,35.0,25.0,73,42.0,37
-UBCV,2019,W,PHYS,157,,102,Introductory Physics for Engineers I,Bradley Guislain;Eleni Marina Lykiardopoulou;Eleni Marina Marina Lykiardopoulou;Eui Sun Ahn;Guy Leckenby;Guy Timothy Leckenby;Joshua Folk;Ryan Harvey;Sahba Mozaffarian;Steven Dierker;Ziang Yan,356,72.71067416,11.56794983,96.0,30.0,13,3.0,22.0,40.0,32.0,46.0,48.0,40.0,53,41.0,18
-UBCV,2019,W,PHYS,157,,103,Introductory Physics for Engineers I,Bradley Guislain;Eleni Marina Lykiardopoulou;Eleni Marina Marina Lykiardopoulou;Eui Sun Ahn;Fei Zhou;Guy Leckenby;Guy Timothy Leckenby;Ryan Harvey;Sahba Mozaffarian;Ziang Yan,343,72.17492711,12.62475805,98.0,31.0,17,6.0,30.0,21.0,23.0,51.0,53.0,38.0,49,25.0,30
-UBCV,2019,W,PHYS,157,,201,Introductory Physics for Engineers I,Donald Witt;Jiabin Yu;Oguzhan Can;Toren Dofher;William Mccutcheon,24,70.875,13.50462884,95.0,45.0,1,3.0,1.0,2.0,1.0,3.0,2.0,3.0,5,1.0,2
-UBCV,2019,W,PHYS,157,,OVERALL,Introductory Physics for Engineers I,,1006,73.93737575,12.1627052,98.0,30.0,39,12.0,60.0,72.0,72.0,131.0,138.0,106.0,180,109.0,87
-UBCV,2019,W,PHYS,158,,201,Introductory Physics for Engineers II,Ashley Nicole Warner;Ashley Warner;Austin De St Croix;Caleb Sample;Chengshu Li;Fatemeh Aghaee Rad;Hao Jia;Ian Macphail-Bartley;Jiabin Yu;Jordan Fordyce;Jordan Hanania;Jordan Umberto Hanania;Jordan Wilson-Gerow;Lara Maria Bartels;Lars Gitt;Maryam Rostamzadeh;Mia Au;Michael Hasinoff;Michelle Lam;Puranjay Gulati;Ryan Harvey;Stepan Fomichev;Sydney Dufresne;Tarun Reddy Tummuru;Tarun Tummuru;Vincent Wong;Yukiya Saito,331,69.17220544,11.95562303,99.0,5.0,8,20.0,43.0,36.0,46.0,37.0,36.0,40.0,40,12.0,13
-UBCV,2019,W,PHYS,158,,202,Introductory Physics for Engineers II,Di Xin Zhang;Ke Zou;Marcel Franz,297,67.5993266,11.4466034,99.0,7.0,10,21.0,30.0,47.0,37.0,43.0,30.0,38.0,26,11.0,4
-UBCV,2019,W,PHYS,158,,203,Introductory Physics for Engineers II,Donald Witt;Marcel Franz,283,70.93286219,10.82807691,95.0,35.0,5,16.0,22.0,24.0,37.0,39.0,40.0,41.0,28,18.0,13
-UBCV,2019,W,PHYS,158,,OVERALL,Introductory Physics for Engineers II,,911,69.20636663,11.51335598,99.0,5.0,23,57.0,95.0,107.0,120.0,119.0,106.0,119.0,94,41.0,30
-UBCV,2019,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Chengshu Li;Jeff Young;Jordan Hanania;Jordan Umberto Hanania;Sarah Burke;Steven Dierker,52,84.80769231,5.099167412,94.0,69.0,0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,14,24.0,8
-UBCV,2019,W,PHYS,159,,L2B,Introductory Physics Laboratory for Engineers,Erfan Rezaie;Graham Alexander Lynn;Lynn Graham;Sarah Burke;Tessa Zolezzi,52,83.59615385,5.974651078,91.0,62.0,0,0.0,0.0,1.0,0.0,1.0,3.0,6.0,15,19.0,7
-UBCV,2019,W,PHYS,159,,L2C,Introductory Physics Laboratory for Engineers,Jiabin Yu;Sarah Burke;Yukiya Saito,53,89.88679245,5.607894084,99.0,68.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5,21.0,26
-UBCV,2019,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Edward Thoeng;Samuel Brown;Sarah Burke;Steven Dierker,53,85.71698113,4.592541439,96.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,19,18.0,13
-UBCV,2019,W,PHYS,159,,L2F,Introductory Physics Laboratory for Engineers,Jordan Hanania;Jordan Umberto Hanania;Lara Maria Bartels;Sarah Burke;William Mccutcheon,53,78.05660377,10.73709439,95.0,51.0,0,1.0,3.0,1.0,4.0,5.0,10.0,4.0,9,6.0,10
-UBCV,2019,W,PHYS,159,,L2G,Introductory Physics Laboratory for Engineers,Donney Fan;Marina Litinskaya;Pedram Amani;Sarah Burke,53,82.83018868,7.900184635,95.0,63.0,0,0.0,0.0,1.0,1.0,3.0,4.0,7.0,14,11.0,12
-UBCV,2019,W,PHYS,159,,L2J,Introductory Physics Laboratory for Engineers,Fatemeh Aghaee Rad;Ian Macphail-Bartley;Marina Litinskaya;Sarah Burke;Ziliang Ye,52,76.80769231,7.129168094,86.0,58.0,0,0.0,1.0,1.0,3.0,8.0,7.0,8.0,19,5.0,0
-UBCV,2019,W,PHYS,159,,L2K,Introductory Physics Laboratory for Engineers,Ryan Harvey;Sarah Burke;Sydney Seraphim;Ziliang Ye,50,78.54,11.90474095,93.0,23.0,1,0.0,0.0,2.0,3.0,3.0,8.0,8.0,8,9.0,8
-UBCV,2019,W,PHYS,159,,L2T,Introductory Physics Laboratory for Engineers,Aaron Kraft;Aaron Michael Kraft;Jeff Young;Sarah Burke;Sydney Dufresne;Thomas Mattison,47,84.34042553,5.657917099,93.0,68.0,0,0.0,0.0,0.0,0.0,2.0,2.0,4.0,11,19.0,9
-UBCV,2019,W,PHYS,159,,L2U,Introductory Physics Laboratory for Engineers,Ashley Nicole Warner;Ashley Warner;Ian Macphail-Bartley;Sarah Burke;William Mccutcheon,50,73.46,8.569547413,88.0,56.0,0,0.0,1.0,7.0,6.0,8.0,8.0,4.0,11,5.0,0
-UBCV,2019,W,PHYS,159,,L2X,Introductory Physics Laboratory for Engineers,Andrew Loeppky;Erfan Rezaie;Ray He Qing Zhang;Ray Zhang;Sarah Burke;Thomas Mattison,29,82.03448276,6.625075518,92.0,68.0,0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,5,12.0,3
-UBCV,2019,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Hassan Mallahzadeh;Jeff Young;Ryan Harvey;Sarah Burke;Steven Dierker,48,76.72916667,8.110249841,90.0,59.0,0,0.0,1.0,2.0,4.0,7.0,6.0,9.0,9,8.0,2
-UBCV,2019,W,PHYS,159,,LB2,Introductory Physics Laboratory for Engineers,Erfan Rezaie;Jiabin Yu;Sarah Burke;Sydney Dufresne;William Mccutcheon,51,85.78431373,7.777695611,94.0,59.0,0,0.0,1.0,1.0,0.0,2.0,2.0,0.0,7,19.0,19
-UBCV,2019,W,PHYS,159,,LC2,Introductory Physics Laboratory for Engineers,Aaron Kraft;Aaron Michael Kraft;Chengshu Li;Maxwell Werner;Sarah Burke,51,77.05882353,7.839417745,92.0,57.0,0,0.0,1.0,1.0,4.0,5.0,9.0,12.0,9,8.0,2
-UBCV,2019,W,PHYS,159,,LE2,Introductory Physics Laboratory for Engineers,Alexander Sheyerman;Matan Guttmann;Sarah Burke;Ziliang Ye,54,75.42592593,8.766578584,91.0,53.0,0,1.0,2.0,4.0,2.0,7.0,11.0,5.0,16,4.0,2
-UBCV,2019,W,PHYS,159,,LF2,Introductory Physics Laboratory for Engineers,Sarah Burke;Sean Vanbergen;Steven Dierker;Yukiya Saito,45,77.84444444,9.65061363,89.0,46.0,1,2.0,0.0,1.0,2.0,2.0,1.0,12.0,12,12.0,0
-UBCV,2019,W,PHYS,159,,LJ2,Introductory Physics Laboratory for Engineers,Austin Khorram;Joseph Gaffney;Sarah Burke;Ziliang Ye,52,86.40384615,5.774384325,95.0,70.0,0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,10,22.0,14
-UBCV,2019,W,PHYS,159,,LT2,Introductory Physics Laboratory for Engineers,Ashley Nicole Warner;Ashley Warner;Chong Heeon Park;Jeff Young;Sarah Burke,44,76.18181818,8.986482684,88.0,52.0,0,2.0,2.0,2.0,0.0,3.0,12.0,2.0,16,5.0,0
-UBCV,2019,W,PHYS,159,,OVERALL,Introductory Physics Laboratory for Engineers,,889,80.91901012,9.048428807,99.0,23.0,2,6.0,12.0,24.0,29.0,62.0,90.0,93.0,209,227.0,135
-UBCV,2019,W,PHYS,170,,101,Mechanics I,Matthew Choptuik;Moshe Rozali,184,81.03804348,14.49453142,100.0,0.0,4,5.0,6.0,5.0,3.0,15.0,14.0,16.0,27,28.0,61
-UBCV,2019,W,PHYS,170,,201,Mechanics I,J Malcolm Mcmillan;Maryam Shirmohammad,251,86.05179283,11.91005066,100.0,13.0,1,4.0,2.0,1.0,9.0,13.0,11.0,20.0,39,35.0,116
-UBCV,2019,W,PHYS,170,,202,Mechanics I,J Malcolm Mcmillan;Maryam Shirmohammad,279,84.74193548,11.81655639,100.0,43.0,1,3.0,8.0,5.0,9.0,7.0,29.0,20.0,37,51.0,109
-UBCV,2019,W,PHYS,170,,203,Mechanics I,Electra Eleftheriadou;Maryam Shirmohammad;Matthew Choptuik,321,84.39252336,11.80949592,100.0,50.0,0,7.0,3.0,8.0,10.0,16.0,24.0,39.0,42,45.0,127
-UBCV,2019,W,PHYS,170,,OVERALL,Mechanics I,,1035,84.29275362,12.44486081,100.0,0.0,6,19.0,19.0,19.0,31.0,51.0,78.0,95.0,145,159.0,413
-UBCV,2019,W,PHYS,200,,101,Relativity and Quanta,Douglas Scott;Edward Thoeng;Paul Natan Jean-Fracois Ripoche;Paul Ripoche;Philippe Belanger;Xiruo Yan;Yau Chuen Yam,122,75.18032787,12.17096966,96.0,30.0,2,5.0,5.0,8.0,11.0,8.0,13.0,20.0,25,13.0,12
-UBCV,2019,W,PHYS,200,,OVERALL,Relativity and Quanta,,122,75.18032787,12.17096966,96.0,30.0,2,5.0,5.0,8.0,11.0,8.0,13.0,20.0,25,13.0,12
-UBCV,2019,W,PHYS,203,,201,Thermal Physics I,Arnab Adhikary;Joanna Karczmarek;Leo Sporn;Su Yu Ding,83,73.63855422,13.92977012,97.0,1.0,1,4.0,6.0,6.0,5.0,7.0,14.0,9.0,14,9.0,8
-UBCV,2019,W,PHYS,203,,OVERALL,Thermal Physics I,,83,73.63855422,13.92977012,97.0,1.0,1,4.0,6.0,6.0,5.0,7.0,14.0,9.0,14,9.0,8
-UBCV,2019,W,PHYS,210,,101,Introduction to Computational Physics,Carl Michal,34,83.32352941,10.80886446,98.0,57.0,0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3,8.0,12
-UBCV,2019,W,PHYS,210,,102,Introduction to Computational Physics,Carl Michal,34,79.73529412,10.38445465,97.0,58.0,0,0.0,1.0,0.0,1.0,8.0,3.0,5.0,5,3.0,8
-UBCV,2019,W,PHYS,210,,OVERALL,Introduction to Computational Physics,,68,81.52941177,10.67354183,98.0,57.0,0,0.0,3.0,0.0,1.0,11.0,6.0,8.0,8,11.0,20
-UBCV,2019,W,PHYS,216,,201,Intermediate Mechanics,Alex Yuanming Wen;Ludovic Van Waerbeke;Philippe Belanger;Sean Vanbergen,102,77.25490196,14.13281154,99.0,19.0,1,5.0,5.0,5.0,10.0,9.0,5.0,12.0,16,13.0,21
-UBCV,2019,W,PHYS,216,,OVERALL,Intermediate Mechanics,,102,77.25490196,14.13281154,99.0,19.0,1,5.0,5.0,5.0,10.0,9.0,5.0,12.0,16,13.0,21
-UBCV,2019,W,PHYS,219,,L1A,Intermediate Experimental Physics I,Andrzej Kotlicki;Fatemeh Aghaee Rad;Luke Alan Reynolds;Luke Reynolds;Peter Henry Gysbers;Robert Kiefl;Yukiya Saito,27,83.33333333,15.41976753,100.0,37.0,1,0.0,2.0,1.0,0.0,1.0,0.0,2.0,4,5.0,11
-UBCV,2019,W,PHYS,219,,L1B,Intermediate Experimental Physics I,Andrzej Kotlicki;Fatemeh Aghaee Rad;Luke Alan Reynolds;Luke Reynolds;Robert Kiefl;Yukiya Saito,31,85.16129032,10.85693872,100.0,62.0,0,0.0,0.0,1.0,1.0,3.0,1.0,2.0,6,6.0,11
+UBCV,2019,W,PHYS,119,,V2A,Experimental Physics Lab,Carl Michal;Erfan Rezaie;Evan Naugler;Graham Johnstone,20,75.65,16.825028349,90.0,10.0,1,0.0,0.0,1.0,0.0,1.0,3.0,4.0,5,4.0,1
+UBCV,2019,W,PHYS,157,,101,Introductory Physics for Engineers I,Bradley Guislain;Eleni Marina Marina Lykiardopoulou;Eui Sun Ahn;Guy Leckenby;Mark Van Raamsdonk;Ryan Harvey;Sahba Mozaffarian;Ziang Yan,283,77.876325088,11.336983879,98.0,36.0,8,0.0,7.0,9.0,16.0,31.0,35.0,25.0,73,42.0,37
+UBCV,2019,W,PHYS,157,,102,Introductory Physics for Engineers I,Bradley Guislain;Eleni Marina Marina Lykiardopoulou;Eui Sun Ahn;Guy Leckenby;Ryan Harvey;Sahba Mozaffarian;Steven Dierker;Ziang Yan,356,72.710674157,11.567949827,96.0,30.0,13,3.0,22.0,40.0,32.0,46.0,48.0,40.0,53,41.0,18
+UBCV,2019,W,PHYS,157,,103,Introductory Physics for Engineers I,Bradley Guislain;Eleni Marina Marina Lykiardopoulou;Eui Sun Ahn;Fei Zhou;Guy Leckenby;Ryan Harvey;Sahba Mozaffarian;Ziang Yan,343,72.174927114,12.624758046,98.0,31.0,17,6.0,30.0,21.0,23.0,51.0,53.0,38.0,49,25.0,30
+UBCV,2019,W,PHYS,157,,201,Introductory Physics for Engineers I,Jiabin Yu;Oguzhan Can;Toren Dofher;William H. Mccutcheon,24,70.875,13.504628836,95.0,45.0,1,3.0,1.0,2.0,1.0,3.0,2.0,3.0,5,1.0,2
+UBCV,2019,W,PHYS,157,,OVERALL,Introductory Physics for Engineers I,,1006,73.937375746,12.162705196,98.0,30.0,39,12.0,60.0,72.0,72.0,131.0,138.0,106.0,180,109.0,87
+UBCV,2019,W,PHYS,158,,201,Introductory Physics for Engineers II,Ashley Warner;Austin De St Croix;Caleb Sample;Chengshu Li;Fatemeh Aghaee Rad;Hao Jia;Ian Macphail-Bartley;Jiabin Yu;Jordan Fordyce;Jordan Hanania;Jordan Wilson-Gerow;Lara Maria Bartels;Lars Gitt;Maryam Rostamzadeh;Mia Au;Michael Hasinoff;Michelle Lam;Puranjay Gulati;Ryan Harvey;Stepan Fomichev;Sydney Dufresne;Tarun Tummuru;Vincent Wong;Yukiya Saito,331,69.018126888,12.506469991,99.0,0.0,9,19.0,43.0,36.0,46.0,37.0,36.0,40.0,40,12.0,13
+UBCV,2019,W,PHYS,158,,202,Introductory Physics for Engineers II,Di Xin Zhang;Ke Zou,297,67.599326599,11.446603395,99.0,7.0,10,21.0,30.0,47.0,37.0,43.0,30.0,38.0,26,11.0,4
+UBCV,2019,W,PHYS,158,,203,Introductory Physics for Engineers II,Marcel Franz,283,70.932862191,10.828076911,95.0,35.0,5,16.0,22.0,24.0,37.0,39.0,40.0,41.0,28,18.0,13
+UBCV,2019,W,PHYS,158,,OVERALL,Introductory Physics for Engineers II,,911,69.150384193,11.724042985,99.0,0.0,24,56.0,95.0,107.0,120.0,119.0,106.0,119.0,94,41.0,30
+UBCV,2019,W,PHYS,159,,L2A,Introductory Physics Laboratory for Engineers,Chengshu Li;Jeff Young;Jordan Hanania;Sarah Burke;Steven Dierker,52,84.807692308,5.099167412,94.0,69.0,0,0.0,0.0,0.0,0.0,1.0,3.0,2.0,14,24.0,8
+UBCV,2019,W,PHYS,159,,L2B,Introductory Physics Laboratory for Engineers,Erfan Rezaie;Graham Alexander Lynn;Sarah Burke;Tessa Zolezzi,52,83.596153846,5.974651078,91.0,62.0,0,0.0,0.0,1.0,0.0,1.0,3.0,6.0,15,19.0,7
+UBCV,2019,W,PHYS,159,,L2C,Introductory Physics Laboratory for Engineers,Jiabin Yu;Sarah Burke;Yukiya Saito,53,89.886792453,5.607894084,99.0,68.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,5,21.0,26
+UBCV,2019,W,PHYS,159,,L2E,Introductory Physics Laboratory for Engineers,Edward Thoeng;Samuel Brown;Sarah Burke;Steven Dierker,53,85.716981132,4.592541439,96.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,19,18.0,13
+UBCV,2019,W,PHYS,159,,L2F,Introductory Physics Laboratory for Engineers,Jordan Hanania;Lara Maria Bartels;Sarah Burke;William H. Mccutcheon,53,78.056603774,10.73709439,95.0,51.0,0,1.0,3.0,1.0,4.0,5.0,10.0,4.0,9,6.0,10
+UBCV,2019,W,PHYS,159,,L2G,Introductory Physics Laboratory for Engineers,Donney Fan;Marina Litinskaya;Pedram Amani;Sarah Burke,53,82.830188679,7.900184635,95.0,63.0,0,0.0,0.0,1.0,1.0,3.0,4.0,7.0,14,11.0,12
+UBCV,2019,W,PHYS,159,,L2J,Introductory Physics Laboratory for Engineers,Fatemeh Aghaee Rad;Ian Macphail-Bartley;Marina Litinskaya;Sarah Burke,52,76.807692308,7.129168094,86.0,58.0,0,0.0,1.0,1.0,3.0,8.0,7.0,8.0,19,5.0,0
+UBCV,2019,W,PHYS,159,,L2K,Introductory Physics Laboratory for Engineers,Ryan Harvey;Sarah Burke;Sydney Seraphim;Ziliang Ye,50,78.54,11.904740952,93.0,23.0,1,0.0,0.0,2.0,3.0,3.0,8.0,8.0,8,9.0,8
+UBCV,2019,W,PHYS,159,,L2T,Introductory Physics Laboratory for Engineers,Aaron Kraft;Jeff Young;Sarah Burke;Sydney Dufresne,47,84.340425532,5.657917099,93.0,68.0,0,0.0,0.0,0.0,0.0,2.0,2.0,4.0,11,19.0,9
+UBCV,2019,W,PHYS,159,,L2U,Introductory Physics Laboratory for Engineers,Ashley Warner;Ian Macphail-Bartley;Sarah Burke;William H. Mccutcheon,50,73.46,8.569547413,88.0,56.0,0,0.0,1.0,7.0,6.0,8.0,8.0,4.0,11,5.0,0
+UBCV,2019,W,PHYS,159,,L2X,Introductory Physics Laboratory for Engineers,Andrew Loeppky;Erfan Rezaie;Ray Zhang;Sarah Burke,29,82.034482759,6.625075518,92.0,68.0,0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,5,12.0,3
+UBCV,2019,W,PHYS,159,,LA2,Introductory Physics Laboratory for Engineers,Hassan Mallahzadeh;Jeff Young;Ryan Harvey;Sarah Burke;Steven Dierker,48,76.729166667,8.110249841,90.0,59.0,0,0.0,1.0,2.0,4.0,7.0,6.0,9.0,9,8.0,2
+UBCV,2019,W,PHYS,159,,LB2,Introductory Physics Laboratory for Engineers,Erfan Rezaie;Jiabin Yu;Sarah Burke;Sydney Dufresne;William H. Mccutcheon,51,85.784313725,7.777695611,94.0,59.0,0,0.0,1.0,1.0,0.0,2.0,2.0,0.0,7,19.0,19
+UBCV,2019,W,PHYS,159,,LC2,Introductory Physics Laboratory for Engineers,Aaron Kraft;Chengshu Li;Maxwell Werner;Sarah Burke,51,77.058823529,7.839417745,92.0,57.0,0,0.0,1.0,1.0,4.0,5.0,9.0,12.0,9,8.0,2
+UBCV,2019,W,PHYS,159,,LE2,Introductory Physics Laboratory for Engineers,Alexander Sheyerman;Matan Guttmann;Sarah Burke;Ziliang Ye,54,75.425925926,8.766578584,91.0,53.0,0,1.0,2.0,4.0,2.0,7.0,11.0,5.0,16,4.0,2
+UBCV,2019,W,PHYS,159,,LF2,Introductory Physics Laboratory for Engineers,Sarah Burke;Sean Vanbergen;Steven Dierker;Yukiya Saito,45,77.844444444,9.65061363,89.0,46.0,1,2.0,0.0,1.0,2.0,2.0,1.0,12.0,12,12.0,0
+UBCV,2019,W,PHYS,159,,LJ2,Introductory Physics Laboratory for Engineers,Austin Khorram;Joseph Gaffney;Sarah Burke;Ziliang Ye,52,86.403846154,5.774384325,95.0,70.0,0,0.0,0.0,0.0,0.0,1.0,1.0,4.0,10,22.0,14
+UBCV,2019,W,PHYS,159,,LT2,Introductory Physics Laboratory for Engineers,Ashley Warner;Chong Heeon Park;Jeff Young;Sarah Burke,44,76.181818182,8.986482684,88.0,52.0,0,2.0,2.0,2.0,0.0,3.0,12.0,2.0,16,5.0,0
+UBCV,2019,W,PHYS,159,,OVERALL,Introductory Physics Laboratory for Engineers,,889,80.919010124,9.048428807,99.0,23.0,2,6.0,12.0,24.0,29.0,62.0,90.0,93.0,209,227.0,135
+UBCV,2019,W,PHYS,170,,101,Mechanics I,Moshe Rozali,184,81.038043478,14.494531416,100.0,0.0,4,5.0,6.0,5.0,3.0,15.0,14.0,16.0,27,28.0,61
+UBCV,2019,W,PHYS,170,,201,Mechanics I,J Malcolm Mcmillan;Maryam Shirmohammad,251,86.051792829,11.910050662,100.0,13.0,1,4.0,2.0,1.0,9.0,13.0,11.0,20.0,39,35.0,116
+UBCV,2019,W,PHYS,170,,202,Mechanics I,J Malcolm Mcmillan;Maryam Shirmohammad,279,84.741935484,11.816556388,100.0,43.0,1,3.0,8.0,5.0,9.0,7.0,29.0,20.0,37,51.0,109
+UBCV,2019,W,PHYS,170,,203,Mechanics I,Maryam Shirmohammad;Matthew Choptuik,321,84.392523364,11.809495922,100.0,50.0,0,7.0,3.0,8.0,10.0,16.0,24.0,39.0,42,45.0,127
+UBCV,2019,W,PHYS,170,,OVERALL,Mechanics I,,1035,84.292753623,12.44486081,100.0,0.0,6,19.0,19.0,19.0,31.0,51.0,78.0,95.0,145,159.0,413
+UBCV,2019,W,PHYS,200,,101,Relativity and Quanta,Douglas Scott;Edward Thoeng;Paul Natan Jean-Fracois Ripoche;Paul Ripoche;Philippe Belanger;Xiruo Yan;Yau Chuen Yam,122,75.180327869,12.170969656,96.0,30.0,2,5.0,5.0,8.0,11.0,8.0,13.0,20.0,25,13.0,12
+UBCV,2019,W,PHYS,200,,OVERALL,Relativity and Quanta,,122,75.180327869,12.170969656,96.0,30.0,2,5.0,5.0,8.0,11.0,8.0,13.0,20.0,25,13.0,12
+UBCV,2019,W,PHYS,203,,201,Thermal Physics I,Arnab Adhikary;Joanna Karczmarek;Leo Sporn;Su Yu Ding,83,73.638554217,13.929770115,97.0,1.0,1,4.0,6.0,6.0,5.0,7.0,14.0,9.0,14,9.0,8
+UBCV,2019,W,PHYS,203,,OVERALL,Thermal Physics I,,83,73.638554217,13.929770115,97.0,1.0,1,4.0,6.0,6.0,5.0,7.0,14.0,9.0,14,9.0,8
+UBCV,2019,W,PHYS,210,,101,Introduction to Computational Physics,Carl Michal,34,83.323529412,10.808864455,98.0,57.0,0,0.0,2.0,0.0,0.0,3.0,3.0,3.0,3,8.0,12
+UBCV,2019,W,PHYS,210,,102,Introduction to Computational Physics,Carl Michal,34,79.735294118,10.384454651,97.0,58.0,0,0.0,1.0,0.0,1.0,8.0,3.0,5.0,5,3.0,8
+UBCV,2019,W,PHYS,210,,OVERALL,Introduction to Computational Physics,,68,81.529411765,10.673541829,98.0,57.0,0,0.0,3.0,0.0,1.0,11.0,6.0,8.0,8,11.0,20
+UBCV,2019,W,PHYS,216,,201,Intermediate Mechanics,Alex Yuanming Wen;Ludovic Van Waerbeke;Philippe Belanger;Sean Vanbergen,102,77.254901961,14.132811535,99.0,19.0,1,5.0,5.0,5.0,10.0,9.0,5.0,12.0,16,13.0,21
+UBCV,2019,W,PHYS,216,,OVERALL,Intermediate Mechanics,,102,77.254901961,14.132811535,99.0,19.0,1,5.0,5.0,5.0,10.0,9.0,5.0,12.0,16,13.0,21
+UBCV,2019,W,PHYS,219,,L1A,Intermediate Experimental Physics I,Andrzej Kotlicki;Fatemeh Aghaee Rad;Luke Alan Reynolds;Luke Reynolds;Peter Henry Gysbers;Robert Kiefl;Yukiya Saito,27,83.333333333,15.419767533,100.0,37.0,1,0.0,2.0,1.0,0.0,1.0,0.0,2.0,4,5.0,11
+UBCV,2019,W,PHYS,219,,L1B,Intermediate Experimental Physics I,Andrzej Kotlicki;Fatemeh Aghaee Rad;Luke Alan Reynolds;Luke Reynolds;Robert Kiefl;Yukiya Saito,31,85.161290323,10.856938716,100.0,62.0,0,0.0,0.0,1.0,1.0,3.0,1.0,2.0,6,6.0,11
 UBCV,2019,W,PHYS,219,,L1C,Intermediate Experimental Physics I,Andrzej Kotlicki;Fatemeh Aghaee Rad;Fatemeth Aghaee Rad;Luke Alan Reynolds;Luke Reynolds;Robert Kiefl;Yukiya Saito,28,87.75,9.728252098,100.0,64.0,0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,8,3.0,14
-UBCV,2019,W,PHYS,219,,OVERALL,Intermediate Experimental Physics I,,86,85.43023256,12.14862926,100.0,37.0,1,0.0,2.0,2.0,3.0,4.0,1.0,5.0,18,14.0,36
-UBCV,2019,W,PHYS,229,,L2A,Intermediate Experimental Physics II,Douglas Andrew Bonn;Mia Au;Michelle Lam,27,84.2962963,9.396459296,95.0,57.0,0,0.0,1.0,1.0,0.0,1.0,0.0,2.0,5,10.0,7
-UBCV,2019,W,PHYS,229,,L2B,Intermediate Experimental Physics II,Douglas Andrew Bonn;Luke Alan Reynolds;Luke Reynolds;Michelle Lam,22,86.13636364,10.67839588,100.0,59.0,0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,3,4.0,11
-UBCV,2019,W,PHYS,229,,L2C,Intermediate Experimental Physics II,Douglas Andrew Bonn;Luke Alan Reynolds;Luke Reynolds;Vincent Wong,30,83.9,10.99325812,97.0,46.0,1,0.0,0.0,0.0,0.0,2.0,4.0,2.0,6,3.0,12
-UBCV,2019,W,PHYS,229,,OVERALL,Intermediate Experimental Physics II,,79,84.65822785,10.29299747,100.0,46.0,1,0.0,2.0,2.0,0.0,4.0,4.0,5.0,14,17.0,30
-UBCV,2019,W,PHYS,301,,101,Electricity and Magnetism,Denis Uhland;Gary Hinshaw;Joerg Rottler;Kathleen Foote;Leo Sporn;Oleg Kabernik;Paul Natan Jean-Fracois Ripoche;Paul Ripoche;Philippe Belanger;Shadab Ahamed Shadab Ahamed,158,73.35443038,14.29358947,97.0,20.0,6,6.0,13.0,12.0,12.0,16.0,15.0,16.0,28,17.0,17
-UBCV,2019,W,PHYS,301,,OVERALL,Electricity and Magnetism,,158,73.35443038,14.29358947,97.0,20.0,6,6.0,13.0,12.0,12.0,16.0,15.0,16.0,28,17.0,17
-UBCV,2019,W,PHYS,304,,101,Introduction to Quantum Mechanics,Christopher Waddell;Jeff Young;Seyyed Ebrahim Sajadi Hezave;Wyatt Reeves,65,74.10769231,19.10670945,100.0,6.0,5,4.0,5.0,1.0,5.0,5.0,8.0,5.0,4,7.0,16
-UBCV,2019,W,PHYS,304,,201,Introduction to Quantum Mechanics,Ariel Zhitnitsky;Leo Sporn;Shuailiang Ge;Yau Chuen Yam,98,84.35714286,13.26047534,99.0,27.0,1,3.0,1.0,4.0,3.0,1.0,8.0,6.0,7,19.0,45
-UBCV,2019,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,163,80.26993865,16.57867936,100.0,6.0,6,7.0,6.0,5.0,8.0,6.0,16.0,11.0,11,26.0,61
-UBCV,2019,W,PHYS,305,,201,Introduction to Biophysics,Ching-Chung Hsueh;Steven Plotkin,10,71.2,15.52632174,99.0,50.0,0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,1,1.0,1
-UBCV,2019,W,PHYS,305,,OVERALL,Introduction to Biophysics,,10,71.2,15.52632174,99.0,50.0,0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,1,1.0,1
-UBCV,2019,W,PHYS,306,,201,Advanced Mechanics,Steven Plotkin,42,74.85714286,12.72710077,95.0,47.0,1,2.0,1.0,5.0,6.0,2.0,0.0,6.0,8,6.0,5
-UBCV,2019,W,PHYS,306,,OVERALL,Advanced Mechanics,,42,74.85714286,12.72710077,95.0,47.0,1,2.0,1.0,5.0,6.0,2.0,0.0,6.0,8,6.0,5
-UBCV,2019,W,PHYS,309,,101,Electrical Laboratory,Joshua Folk,38,85.13157895,10.11333359,96.0,41.0,1,0.0,0.0,0.0,1.0,0.0,1.0,2.0,7,12.0,14
-UBCV,2019,W,PHYS,309,,OVERALL,Electrical Laboratory,,38,85.13157895,10.11333359,96.0,41.0,1,0.0,0.0,0.0,1.0,0.0,1.0,2.0,7,12.0,14
-UBCV,2019,W,PHYS,312,,101,Introduction to Mathematical Physics,Joanna Karczmarek;Mona Berciu;Yau Chuen Yam,39,71.28205128,16.68587287,95.0,1.0,2,0.0,5.0,4.0,3.0,4.0,4.0,0.0,10,5.0,2
-UBCV,2019,W,PHYS,312,,OVERALL,Introduction to Mathematical Physics,,39,71.28205128,16.68587287,95.0,1.0,2,0.0,5.0,4.0,3.0,4.0,4.0,0.0,10,5.0,2
-UBCV,2019,W,PHYS,315,,101,Quantum Physics of Materials,Eran Sela;Joshua Folk;Stepan Fomichev,14,70.85714286,22.25674364,87.0,1.0,1,0.0,1.0,1.0,1.0,1.0,1.0,1.0,5,2.0,0
-UBCV,2019,W,PHYS,315,,OVERALL,Quantum Physics of Materials,,14,70.85714286,22.25674364,87.0,1.0,1,0.0,1.0,1.0,1.0,1.0,1.0,1.0,5,2.0,0
-UBCV,2019,W,PHYS,319,,201,Electronics Laboratory,Andrzej Kotlicki,42,84.5952381,10.93006488,100.0,55.0,0,0.0,1.0,1.0,2.0,2.0,1.0,5.0,3,12.0,15
-UBCV,2019,W,PHYS,319,,OVERALL,Electronics Laboratory,,42,84.5952381,10.93006488,100.0,55.0,0,0.0,1.0,1.0,2.0,2.0,1.0,5.0,3,12.0,15
-UBCV,2019,W,PHYS,333,,99A,Energy and Climate,Arthur Charbonneau;Eleni Marina Lykiardopoulou;Eleni Marina Marina Lykiardopoulou,91,79.87912088,12.07645567,98.0,33.0,2,3.0,1.0,2.0,2.0,6.0,9.0,9.0,18,23.0,16
-UBCV,2019,W,PHYS,333,,OVERALL,Energy and Climate,,91,79.87912088,12.07645567,98.0,33.0,2,3.0,1.0,2.0,2.0,6.0,9.0,9.0,18,23.0,16
-UBCV,2019,W,PHYS,341,,201,Physics of Music,Christopher Waltham;Jacob Rushton,29,82.55172414,8.390412074,97.0,65.0,0,0.0,0.0,0.0,2.0,0.0,5.0,3.0,7,5.0,7
-UBCV,2019,W,PHYS,341,,OVERALL,Physics of Music,,29,82.55172414,8.390412074,97.0,65.0,0,0.0,0.0,0.0,2.0,0.0,5.0,3.0,7,5.0,7
-UBCV,2019,W,PHYS,348,,101,Frontiers in Physics and Astronomy,Janis Mckenna,30,79.1,12.59542884,92.0,38.0,2,0.0,0.0,1.0,0.0,3.0,2.0,3.0,8,6.0,5
-UBCV,2019,W,PHYS,348,,OVERALL,Frontiers in Physics and Astronomy,,30,79.1,12.59542884,92.0,38.0,2,0.0,0.0,1.0,0.0,3.0,2.0,3.0,8,6.0,5
-UBCV,2019,W,PHYS,350,,201,Applications of Classical Mechanics,Kris Sigurdson;Mona Berciu;Timothy Branch;Timothy William Branch;Tom Ginsberg,88,79.88636364,10.11250713,100.0,50.0,0,2.0,3.0,2.0,4.0,4.0,6.0,11.0,19,24.0,13
-UBCV,2019,W,PHYS,350,,OVERALL,Applications of Classical Mechanics,,88,79.88636364,10.11250713,100.0,50.0,0,2.0,3.0,2.0,4.0,4.0,6.0,11.0,19,24.0,13
-UBCV,2019,W,PHYS,400,,101,Introduction to Elementary Particles,Mohammad Hossein Mirsharifi;Mohammad Mirsharifi;Shuailiang Ge;Thomas Mattison,30,78.9,13.83237083,99.0,50.0,0,3.0,0.0,1.0,3.0,3.0,0.0,2.0,4,8.0,6
-UBCV,2019,W,PHYS,400,,OVERALL,Introduction to Elementary Particles,,30,78.9,13.83237083,99.0,50.0,0,3.0,0.0,1.0,3.0,3.0,0.0,2.0,4,8.0,6
-UBCV,2019,W,PHYS,401,,201,Electromagnetic Theory,Kristin Schleich;Mobin Shakeri;Mohammad Hossein Mirsharifi;Mohammad Mirsharifi;Wyatt Reeves,83,79.14457831,12.47938058,98.0,36.0,2,2.0,3.0,2.0,2.0,7.0,7.0,8.0,18,13.0,19
-UBCV,2019,W,PHYS,401,,OVERALL,Electromagnetic Theory,,83,79.14457831,12.47938058,98.0,36.0,2,2.0,3.0,2.0,2.0,7.0,7.0,8.0,18,13.0,19
-UBCV,2019,W,PHYS,402,,201,Applications of Quantum Mechanics,Christopher Waddell;Mark Van Raamsdonk,41,85.48780488,8.357996025,99.0,71.0,0,0.0,0.0,0.0,0.0,2.0,4.0,3.0,12,7.0,13
-UBCV,2019,W,PHYS,402,,OVERALL,Applications of Quantum Mechanics,,41,85.48780488,8.357996025,99.0,71.0,0,0.0,0.0,0.0,0.0,2.0,4.0,3.0,12,7.0,13
-UBCV,2019,W,PHYS,403,,201,Statistical Mechanics,Philip C Stamp,82,76.80487805,15.75933118,96.0,0.0,4,2.0,3.0,1.0,4.0,5.0,11.0,14.0,9,15.0,14
-UBCV,2019,W,PHYS,403,,OVERALL,Statistical Mechanics,,82,76.80487805,15.75933118,96.0,0.0,4,2.0,3.0,1.0,4.0,5.0,11.0,14.0,9,15.0,14
-UBCV,2019,W,PHYS,404,,101,Introduction to Medical Physics,Alanah Bergman;Alexander Mackay;Carlos Uribe Munoz;Cassandra Miller;Cornelia Laule;Qing-San Xiang;Yogesh Thakur,31,77.38709677,9.028390109,92.0,50.0,0,1.0,0.0,1.0,3.0,1.0,6.0,3.0,10,5.0,1
-UBCV,2019,W,PHYS,404,,OVERALL,Introduction to Medical Physics,,31,77.38709677,9.028390109,92.0,50.0,0,1.0,0.0,1.0,3.0,1.0,6.0,3.0,10,5.0,1
-UBCV,2019,W,PHYS,405,,101,Radiation Biophysics,Andrew Minchinton;Maryam Afsari Golshan;Stefan Reinsberg;Vitali Moiseenko,23,75.47826087,22.30953641,91.0,0.0,3,0.0,0.0,0.0,0.0,2.0,1.0,2.0,4,8.0,3
-UBCV,2019,W,PHYS,405,,OVERALL,Radiation Biophysics,,23,75.47826087,22.30953641,91.0,0.0,3,0.0,0.0,0.0,0.0,2.0,1.0,2.0,4,8.0,3
-UBCV,2019,W,PHYS,407,,101,Introduction to General Relativity,Bruno Costa;Chen Ge Qu;Daniel Yates;Fatemeh Aghaee Rad;Jonah Berean-Dutcher;Kristin Schleich,45,80.15555556,10.70037288,96.0,55.0,0,0.0,1.0,2.0,2.0,5.0,6.0,3.0,7,7.0,12
-UBCV,2019,W,PHYS,407,,OVERALL,Introduction to General Relativity,,45,80.15555556,10.70037288,96.0,55.0,0,0.0,1.0,2.0,2.0,5.0,6.0,3.0,7,7.0,12
-UBCV,2019,W,PHYS,408,,201,Optics,Austin De St Croix;Graham Reid;Jordan Fordyce;Lars Gitt;Mark Halpern;Paul Ripoche;Pinrui Shen;Shadab Ahamed Shadab Ahamed,66,77.8030303,9.013186403,92.0,50.0,0,1.0,1.0,3.0,3.0,9.0,9.0,8.0,14,13.0,5
-UBCV,2019,W,PHYS,408,,OVERALL,Optics,,66,77.8030303,9.013186403,92.0,50.0,0,1.0,1.0,3.0,3.0,9.0,9.0,8.0,14,13.0,5
-UBCV,2019,W,PHYS,409,A,101,Experimental Physics,Beatrice Franke;Chen Ge Qu;Daniel Aaron Yates;Daniel Yates;Jonah Berean-Dutcher;Jonah Michael Berean-Dutcher;Kirk Madison,20,79.35,21.17166677,98.0,0.0,1,0.0,1.0,1.0,0.0,0.0,0.0,2.0,4,6.0,5
-UBCV,2019,W,PHYS,409,A,OVERALL,Experimental Physics,,20,79.35,21.17166677,98.0,0.0,1,0.0,1.0,1.0,0.0,0.0,0.0,2.0,4,6.0,5
-UBCV,2019,W,PHYS,409,B,201,Experimental Physics,Chen Ge Qu;Daniel Aaron Yates;Daniel Yates;Erik Frieling;Francisco Levy De Castro;Kirk Madison,19,81.31578947,9.267941349,92.0,64.0,0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,5,4.0,5
-UBCV,2019,W,PHYS,409,B,OVERALL,Experimental Physics,,19,81.31578947,9.267941349,92.0,64.0,0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,5,4.0,5
-UBCV,2019,W,PHYS,410,,101,Computational Physics,Matthew Choptuik,51,79.52941177,13.12608539,98.0,50.0,0,3.0,2.0,2.0,2.0,3.0,5.0,3.0,6,9.0,16
-UBCV,2019,W,PHYS,410,,OVERALL,Computational Physics,,51,79.52941177,13.12608539,98.0,50.0,0,3.0,2.0,2.0,2.0,3.0,5.0,3.0,6,9.0,16
-UBCV,2019,W,PHYS,420,C,001,Physics Demonstrations,Andrzej Kotlicki;Janis Mckenna,6,64.66666667,38.15582088,93.0,15.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2.0,2
-UBCV,2019,W,PHYS,420,C,OVERALL,Physics Demonstrations,,6,64.66666667,38.15582088,93.0,15.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2.0,2
-UBCV,2019,W,PHYS,438,,202,Zoological Physics,Bradley Guislain;Scott Oser,34,77.26470588,9.924896224,93.0,45.0,1,0.0,1.0,2.0,1.0,2.0,2.0,8.0,9,6.0,2
-UBCV,2019,W,PHYS,438,,OVERALL,Zoological Physics,,34,77.26470588,9.924896224,93.0,45.0,1,0.0,1.0,2.0,1.0,2.0,2.0,8.0,9,6.0,2
+UBCV,2019,W,PHYS,219,,OVERALL,Intermediate Experimental Physics I,,86,85.430232558,12.14862926,100.0,37.0,1,0.0,2.0,2.0,3.0,4.0,1.0,5.0,18,14.0,36
+UBCV,2019,W,PHYS,229,,L2A,Intermediate Experimental Physics II,Douglas Andrew Bonn;Mia Au;Michelle Lam,27,84.296296296,9.396459296,95.0,57.0,0,0.0,1.0,1.0,0.0,1.0,0.0,2.0,5,10.0,7
+UBCV,2019,W,PHYS,229,,L2B,Intermediate Experimental Physics II,Douglas Andrew Bonn;Luke Alan Reynolds;Luke Reynolds;Michelle Lam,22,86.136363636,10.678395878,100.0,59.0,0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,3,4.0,11
+UBCV,2019,W,PHYS,229,,L2C,Intermediate Experimental Physics II,Douglas Andrew Bonn;Luke Alan Reynolds;Luke Reynolds;Vincent Wong,30,83.9,10.993258122,97.0,46.0,1,0.0,0.0,0.0,0.0,2.0,4.0,2.0,6,3.0,12
+UBCV,2019,W,PHYS,229,,OVERALL,Intermediate Experimental Physics II,,79,84.658227848,10.292997465,100.0,46.0,1,0.0,2.0,2.0,0.0,4.0,4.0,5.0,14,17.0,30
+UBCV,2019,W,PHYS,301,,101,Electricity and Magnetism,Denis Uhland;Gary Hinshaw;Joerg Rottler;Kathleen Foote;Leo Sporn;Oleg Kabernik;Paul Natan Jean-Fracois Ripoche;Paul Ripoche;Philippe Belanger;Shadab Ahamed Shadab Ahamed,158,73.35443038,14.293589472,97.0,20.0,6,6.0,13.0,12.0,12.0,16.0,15.0,16.0,28,17.0,17
+UBCV,2019,W,PHYS,301,,OVERALL,Electricity and Magnetism,,158,73.35443038,14.293589472,97.0,20.0,6,6.0,13.0,12.0,12.0,16.0,15.0,16.0,28,17.0,17
+UBCV,2019,W,PHYS,304,,101,Introduction to Quantum Mechanics,Christopher Waddell;Jeff Young;Seyyed Ebrahim Sajadi Hezave;Wyatt Reeves,64,74.703125,18.640014721,100.0,6.0,4,4.0,5.0,1.0,5.0,5.0,8.0,5.0,4,7.0,16
+UBCV,2019,W,PHYS,304,,201,Introduction to Quantum Mechanics,Ariel Zhitnitsky;Leo Sporn;Shuailiang Ge;Yau Chuen Yam,98,84.357142857,13.260475338,99.0,27.0,1,3.0,1.0,4.0,3.0,1.0,8.0,6.0,7,19.0,45
+UBCV,2019,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,162,80.543209877,16.257668526,100.0,6.0,5,7.0,6.0,5.0,8.0,6.0,16.0,11.0,11,26.0,61
+UBCV,2019,W,PHYS,305,,201,Introduction to Biophysics,Ching-Chung Hsueh;Steven Plotkin,10,71.2,15.526321737,99.0,50.0,0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,1,1.0,1
+UBCV,2019,W,PHYS,305,,OVERALL,Introduction to Biophysics,,10,71.2,15.526321737,99.0,50.0,0,2.0,1.0,0.0,0.0,2.0,2.0,0.0,1,1.0,1
+UBCV,2019,W,PHYS,306,,201,Advanced Mechanics,Steven Plotkin,42,74.857142857,12.727100773,95.0,47.0,1,2.0,1.0,5.0,6.0,2.0,0.0,6.0,8,6.0,5
+UBCV,2019,W,PHYS,306,,OVERALL,Advanced Mechanics,,42,74.857142857,12.727100773,95.0,47.0,1,2.0,1.0,5.0,6.0,2.0,0.0,6.0,8,6.0,5
+UBCV,2019,W,PHYS,309,,101,Electrical Laboratory,Joshua Folk,38,85.131578947,10.113333593,96.0,41.0,1,0.0,0.0,0.0,1.0,0.0,1.0,2.0,7,12.0,14
+UBCV,2019,W,PHYS,309,,OVERALL,Electrical Laboratory,,38,85.131578947,10.113333593,96.0,41.0,1,0.0,0.0,0.0,1.0,0.0,1.0,2.0,7,12.0,14
+UBCV,2019,W,PHYS,312,,101,Introduction to Mathematical Physics,Joanna Karczmarek;Mona Berciu;Yau Chuen Yam,39,71.282051282,16.685872874,95.0,1.0,2,0.0,5.0,4.0,3.0,4.0,4.0,0.0,10,5.0,2
+UBCV,2019,W,PHYS,312,,OVERALL,Introduction to Mathematical Physics,,39,71.282051282,16.685872874,95.0,1.0,2,0.0,5.0,4.0,3.0,4.0,4.0,0.0,10,5.0,2
+UBCV,2019,W,PHYS,315,,101,Quantum Physics of Materials,Eran Sela;Joshua Folk;Stepan Fomichev,14,70.857142857,22.256743638,87.0,1.0,1,0.0,1.0,1.0,1.0,1.0,1.0,1.0,5,2.0,0
+UBCV,2019,W,PHYS,315,,OVERALL,Quantum Physics of Materials,,14,70.857142857,22.256743638,87.0,1.0,1,0.0,1.0,1.0,1.0,1.0,1.0,1.0,5,2.0,0
+UBCV,2019,W,PHYS,319,,201,Electronics Laboratory,Andrzej Kotlicki,42,84.595238095,10.930064878,100.0,55.0,0,0.0,1.0,1.0,2.0,2.0,1.0,5.0,3,12.0,15
+UBCV,2019,W,PHYS,319,,OVERALL,Electronics Laboratory,,42,84.595238095,10.930064878,100.0,55.0,0,0.0,1.0,1.0,2.0,2.0,1.0,5.0,3,12.0,15
+UBCV,2019,W,PHYS,333,,99A,Energy and Climate,Arthur Charbonneau;Eleni Marina Marina Lykiardopoulou,91,79.879120879,12.076455665,98.0,33.0,2,3.0,1.0,2.0,2.0,6.0,9.0,9.0,18,23.0,16
+UBCV,2019,W,PHYS,333,,OVERALL,Energy and Climate,,91,79.879120879,12.076455665,98.0,33.0,2,3.0,1.0,2.0,2.0,6.0,9.0,9.0,18,23.0,16
+UBCV,2019,W,PHYS,341,,201,Physics of Music,Christopher Waltham;Jacob Rushton,29,82.551724138,8.390412074,97.0,65.0,0,0.0,0.0,0.0,2.0,0.0,5.0,3.0,7,5.0,7
+UBCV,2019,W,PHYS,341,,OVERALL,Physics of Music,,29,82.551724138,8.390412074,97.0,65.0,0,0.0,0.0,0.0,2.0,0.0,5.0,3.0,7,5.0,7
+UBCV,2019,W,PHYS,348,,101,Frontiers in Physics and Astronomy,Janis Mckenna,30,79.1,12.595428837,92.0,38.0,2,0.0,0.0,1.0,0.0,3.0,2.0,3.0,8,6.0,5
+UBCV,2019,W,PHYS,348,,OVERALL,Frontiers in Physics and Astronomy,,30,79.1,12.595428837,92.0,38.0,2,0.0,0.0,1.0,0.0,3.0,2.0,3.0,8,6.0,5
+UBCV,2019,W,PHYS,350,,201,Applications of Classical Mechanics,Kris Sigurdson;Mona Berciu;Timothy Branch;Timothy William Branch;Tom Ginsberg,88,79.886363636,10.112507128,100.0,50.0,0,2.0,3.0,2.0,4.0,4.0,6.0,11.0,19,24.0,13
+UBCV,2019,W,PHYS,350,,OVERALL,Applications of Classical Mechanics,,88,79.886363636,10.112507128,100.0,50.0,0,2.0,3.0,2.0,4.0,4.0,6.0,11.0,19,24.0,13
+UBCV,2019,W,PHYS,400,,101,Introduction to Elementary Particles,Mohammad Hossein Mirsharifi;Mohammad Mirsharifi;Shuailiang Ge;Thomas Mattison,30,78.9,13.832370829,99.0,50.0,0,3.0,0.0,1.0,3.0,3.0,0.0,2.0,4,8.0,6
+UBCV,2019,W,PHYS,400,,OVERALL,Introduction to Elementary Particles,,30,78.9,13.832370829,99.0,50.0,0,3.0,0.0,1.0,3.0,3.0,0.0,2.0,4,8.0,6
+UBCV,2019,W,PHYS,401,,201,Electromagnetic Theory,Kristin Schleich;Mobin Shakeri;Mohammad Hossein Mirsharifi;Mohammad Mirsharifi;Wyatt Reeves,83,79.144578313,12.479380584,98.0,36.0,2,2.0,3.0,2.0,2.0,7.0,7.0,8.0,18,13.0,19
+UBCV,2019,W,PHYS,401,,OVERALL,Electromagnetic Theory,,83,79.144578313,12.479380584,98.0,36.0,2,2.0,3.0,2.0,2.0,7.0,7.0,8.0,18,13.0,19
+UBCV,2019,W,PHYS,402,,201,Applications of Quantum Mechanics,Christopher Waddell;Mark Van Raamsdonk,41,85.487804878,8.357996025,99.0,71.0,0,0.0,0.0,0.0,0.0,2.0,4.0,3.0,12,7.0,13
+UBCV,2019,W,PHYS,402,,OVERALL,Applications of Quantum Mechanics,,41,85.487804878,8.357996025,99.0,71.0,0,0.0,0.0,0.0,0.0,2.0,4.0,3.0,12,7.0,13
+UBCV,2019,W,PHYS,403,,201,Statistical Mechanics,Philip C Stamp,82,76.804878049,15.759331176,96.0,0.0,4,2.0,3.0,1.0,4.0,5.0,11.0,14.0,9,15.0,14
+UBCV,2019,W,PHYS,403,,OVERALL,Statistical Mechanics,,82,76.804878049,15.759331176,96.0,0.0,4,2.0,3.0,1.0,4.0,5.0,11.0,14.0,9,15.0,14
+UBCV,2019,W,PHYS,404,,101,Introduction to Medical Physics,Alanah Bergman;Alexander L. Mackay;Alexander Mackay;Carlos Uribe Munoz;Cassandra Miller;Cornelia Laule;Qing-San Xiang;Yogesh Thakur,31,77.387096774,9.028390109,92.0,50.0,0,1.0,0.0,1.0,3.0,1.0,6.0,3.0,10,5.0,1
+UBCV,2019,W,PHYS,404,,OVERALL,Introduction to Medical Physics,,31,77.387096774,9.028390109,92.0,50.0,0,1.0,0.0,1.0,3.0,1.0,6.0,3.0,10,5.0,1
+UBCV,2019,W,PHYS,405,,101,Radiation Biophysics,Maryam Afsari Golshan;Stefan Reinsberg,23,75.47826087,22.309536414,91.0,0.0,3,0.0,0.0,0.0,0.0,2.0,1.0,2.0,4,8.0,3
+UBCV,2019,W,PHYS,405,,OVERALL,Radiation Biophysics,,23,75.47826087,22.309536414,91.0,0.0,3,0.0,0.0,0.0,0.0,2.0,1.0,2.0,4,8.0,3
+UBCV,2019,W,PHYS,407,,101,Introduction to General Relativity,Bruno Costa;Chen Ge Qu;Daniel Yates;Fatemeh Aghaee Rad;Jonah Berean-Dutcher;Kristin Schleich,45,80.155555556,10.700372881,96.0,55.0,0,0.0,1.0,2.0,2.0,5.0,6.0,3.0,7,7.0,12
+UBCV,2019,W,PHYS,407,,OVERALL,Introduction to General Relativity,,45,80.155555556,10.700372881,96.0,55.0,0,0.0,1.0,2.0,2.0,5.0,6.0,3.0,7,7.0,12
+UBCV,2019,W,PHYS,408,,201,Optics,Austin De St Croix;Graham Reid;Jordan Fordyce;Lars Gitt;Mark Halpern;Paul Ripoche;Pinrui Shen;Shadab Ahamed Shadab Ahamed,66,77.803030303,9.013186403,92.0,50.0,0,1.0,1.0,3.0,3.0,9.0,9.0,8.0,14,13.0,5
+UBCV,2019,W,PHYS,408,,OVERALL,Optics,,66,77.803030303,9.013186403,92.0,50.0,0,1.0,1.0,3.0,3.0,9.0,9.0,8.0,14,13.0,5
+UBCV,2019,W,PHYS,409,A,101,Experimental Physics,Beatrice Franke;Chen Ge Qu;Daniel Aaron Yates;Daniel Yates;Jonah Berean-Dutcher;Jonah Michael Berean-Dutcher;Kirk Madison,20,79.35,21.171666767,98.0,0.0,1,0.0,1.0,1.0,0.0,0.0,0.0,2.0,4,6.0,5
+UBCV,2019,W,PHYS,409,A,OVERALL,Experimental Physics,,20,79.35,21.171666767,98.0,0.0,1,0.0,1.0,1.0,0.0,0.0,0.0,2.0,4,6.0,5
+UBCV,2019,W,PHYS,409,B,201,Experimental Physics,Chen Ge Qu;Daniel Aaron Yates;Daniel Yates;Erik Frieling;Francisco Levy De Castro;Kirk Madison,19,81.315789474,9.267941349,92.0,64.0,0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,5,4.0,5
+UBCV,2019,W,PHYS,409,B,OVERALL,Experimental Physics,,19,81.315789474,9.267941349,92.0,64.0,0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,5,4.0,5
+UBCV,2019,W,PHYS,410,,101,Computational Physics,Matthew Choptuik,51,79.529411765,13.126085389,98.0,50.0,0,3.0,2.0,2.0,2.0,3.0,5.0,3.0,6,9.0,16
+UBCV,2019,W,PHYS,410,,OVERALL,Computational Physics,,51,79.529411765,13.126085389,98.0,50.0,0,3.0,2.0,2.0,2.0,3.0,5.0,3.0,6,9.0,16
+UBCV,2019,W,PHYS,420,C,001,Physics Demonstrations,Andrzej Kotlicki;Janis Mckenna,6,64.666666667,38.155820875,93.0,15.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2.0,2
+UBCV,2019,W,PHYS,420,C,OVERALL,Physics Demonstrations,,6,64.666666667,38.155820875,93.0,15.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2.0,2
+UBCV,2019,W,PHYS,438,,202,Zoological Physics,Bradley Guislain;Scott Oser,34,77.264705882,9.924896224,93.0,45.0,1,0.0,1.0,2.0,1.0,2.0,2.0,8.0,9,6.0,2
+UBCV,2019,W,PHYS,438,,OVERALL,Zoological Physics,,34,77.264705882,9.924896224,93.0,45.0,1,0.0,1.0,2.0,1.0,2.0,2.0,8.0,9,6.0,2
 UBCV,2019,W,PHYS,449,,001,Honours Thesis,Robert Kiefl,23,86.0,3.680414996,92.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8,11.0,4
 UBCV,2019,W,PHYS,449,,OVERALL,Honours Thesis,,23,86.0,3.680414996,92.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8,11.0,4
 UBCV,2019,W,PHYS,473,,201,Applied Nuclear Physics,Javed Iqbal;Mohammed Iqbal;Reiner Kruecken;Stepan Fomichev,12,86.75,6.468454923,95.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4,1.0,6
 UBCV,2019,W,PHYS,473,,OVERALL,Applied Nuclear Physics,,12,86.75,6.468454923,95.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4,1.0,6
-UBCV,2019,W,PHYS,474,,201,Applied Solid State Physics,Ian Keith Affleck;Kyle Wamer;Robert Raussendorf,19,80.36842105,14.85564063,100.0,51.0,0,1.0,1.0,1.0,1.0,2.0,0.0,3.0,1,2.0,7
-UBCV,2019,W,PHYS,474,,OVERALL,Applied Solid State Physics,,19,80.36842105,14.85564063,100.0,51.0,0,1.0,1.0,1.0,1.0,2.0,0.0,3.0,1,2.0,7
-UBCV,2019,W,PHYS,500,,101,Quantum Mechanics I,Ariel Zhitnitsky;Ryan Day,42,84.07142857,12.94339055,100.0,26.0,1,0.0,0.0,1.0,0.0,3.0,1.0,2.0,11,9.0,14
-UBCV,2019,W,PHYS,500,,OVERALL,Quantum Mechanics I,,42,84.07142857,12.94339055,100.0,26.0,1,0.0,0.0,1.0,0.0,3.0,1.0,2.0,11,9.0,14
-UBCV,2019,W,PHYS,502,,101,Condensed Matter Physics I,Mona Berciu;Ryan Day,22,84.31818182,7.530170198,96.0,68.0,0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,7,4.0,8
-UBCV,2019,W,PHYS,502,,OVERALL,Condensed Matter Physics I,,22,84.31818182,7.530170198,96.0,68.0,0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,7,4.0,8
-UBCV,2019,W,PHYS,503,,201,Condensed Matter Physics II,Marcel Franz,13,88.38461539,3.279696671,94.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,6.0,5
-UBCV,2019,W,PHYS,503,,OVERALL,Condensed Matter Physics II,,13,88.38461539,3.279696671,94.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,6.0,5
-UBCV,2019,W,PHYS,504,,101,Special Relativity and Classical Electromagnetism,Jared Stang;Puranjay Gulati,14,76.0,21.11871208,94.0,8.0,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,5,2.0,2
-UBCV,2019,W,PHYS,504,,OVERALL,Special Relativity and Classical Electromagnetism,,14,76.0,21.11871208,94.0,8.0,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,5,2.0,2
+UBCV,2019,W,PHYS,474,,201,Applied Solid State Physics,Ian Keith Affleck;Kyle Wamer;Robert Raussendorf,19,80.368421053,14.855640628,100.0,51.0,0,1.0,1.0,1.0,1.0,2.0,0.0,3.0,1,2.0,7
+UBCV,2019,W,PHYS,474,,OVERALL,Applied Solid State Physics,,19,80.368421053,14.855640628,100.0,51.0,0,1.0,1.0,1.0,1.0,2.0,0.0,3.0,1,2.0,7
+UBCV,2019,W,PHYS,500,,101,Quantum Mechanics I,Ariel Zhitnitsky;Ryan Day,42,84.071428571,12.943390548,100.0,26.0,1,0.0,0.0,1.0,0.0,3.0,1.0,2.0,11,9.0,14
+UBCV,2019,W,PHYS,500,,OVERALL,Quantum Mechanics I,,42,84.071428571,12.943390548,100.0,26.0,1,0.0,0.0,1.0,0.0,3.0,1.0,2.0,11,9.0,14
+UBCV,2019,W,PHYS,502,,101,Condensed Matter Physics I,Mona Berciu;Ryan Day,22,84.318181818,7.530170198,96.0,68.0,0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,7,4.0,8
+UBCV,2019,W,PHYS,502,,OVERALL,Condensed Matter Physics I,,22,84.318181818,7.530170198,96.0,68.0,0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,7,4.0,8
+UBCV,2019,W,PHYS,503,,201,Condensed Matter Physics II,Marcel Franz,13,88.384615385,3.279696671,94.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,6.0,5
+UBCV,2019,W,PHYS,503,,OVERALL,Condensed Matter Physics II,,13,88.384615385,3.279696671,94.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,6.0,5
+UBCV,2019,W,PHYS,504,,101,Special Relativity and Classical Electromagnetism,Jared Stang;Puranjay Gulati,14,76.0,21.118712082,94.0,8.0,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,5,2.0,2
+UBCV,2019,W,PHYS,504,,OVERALL,Special Relativity and Classical Electromagnetism,,14,76.0,21.118712082,94.0,8.0,1,0.0,0.0,0.0,1.0,1.0,1.0,1.0,5,2.0,2
 UBCV,2019,W,PHYS,508,,201,Quantum Field Theory II,Edward Thoeng;Fan Yang;Moshe Rozali,12,94.0,5.239708528,99.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,10
 UBCV,2019,W,PHYS,508,,OVERALL,Quantum Field Theory II,,12,94.0,5.239708528,99.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,10
-UBCV,2019,W,PHYS,509,C,101,Theory of Measurements,Fei Zhou;Scott Oser,13,88.76923077,5.16645988,99.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,4.0,6
-UBCV,2019,W,PHYS,509,C,OVERALL,Theory of Measurements,,13,88.76923077,5.16645988,99.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,4.0,6
-UBCV,2019,W,PHYS,516,,201,Statistical Mechanics,Fei Zhou;Jeremy Heyl;Kris Sigurdson,9,89.77777778,4.465920336,95.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,7
-UBCV,2019,W,PHYS,516,,OVERALL,Statistical Mechanics,,9,89.77777778,4.465920336,95.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,7
+UBCV,2019,W,PHYS,509,C,101,Theory of Measurements,Fei Zhou;Scott Oser,13,88.769230769,5.16645988,99.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,4.0,6
+UBCV,2019,W,PHYS,509,C,OVERALL,Theory of Measurements,,13,88.769230769,5.16645988,99.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,4.0,6
+UBCV,2019,W,PHYS,516,,201,Statistical Mechanics,Fei Zhou;Jeremy Heyl;Kris Sigurdson,9,89.777777778,4.465920336,95.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,7
+UBCV,2019,W,PHYS,516,,OVERALL,Statistical Mechanics,,9,89.777777778,4.465920336,95.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,7
 UBCV,2019,W,PHYS,521,D,201,Group Theory Methods in Quantum Mechanics,Gordon Walter Semenoff;Ziang Yan,12,94.75,7.805883562,100.0,71.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0.0,11
 UBCV,2019,W,PHYS,521,D,OVERALL,Group Theory Methods in Quantum Mechanics,,12,94.75,7.805883562,100.0,71.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0,0.0,11
-UBCV,2019,W,PHYS,526,,101,Quantum Field Theory I,Gordon Walter Semenoff,18,88.38888889,7.777334254,100.0,70.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2,6.0,8
-UBCV,2019,W,PHYS,526,,OVERALL,Quantum Field Theory I,,18,88.38888889,7.777334254,100.0,70.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2,6.0,8
+UBCV,2019,W,PHYS,526,,101,Quantum Field Theory I,Gordon Walter Semenoff,18,88.388888889,7.777334254,100.0,70.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2,6.0,8
+UBCV,2019,W,PHYS,526,,OVERALL,Quantum Field Theory I,,18,88.388888889,7.777334254,100.0,70.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2,6.0,8
 UBCV,2019,W,PHYS,530,B,201,Topics in General Relativity Theory,Kristin Schleich;William Unruh,10,94.5,5.8357138,100.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0,9
 UBCV,2019,W,PHYS,530,B,OVERALL,Topics in General Relativity Theory,,10,94.5,5.8357138,100.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0,9
-UBCV,2019,W,PHYS,533,,201,Laser Physics,Valery Milner,9,87.88888889,3.551212625,93.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,6.0,2
-UBCV,2019,W,PHYS,533,,OVERALL,Laser Physics,,9,87.88888889,3.551212625,93.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,6.0,2
+UBCV,2019,W,PHYS,533,,201,Laser Physics,Valery Milner,9,87.888888889,3.551212625,93.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,6.0,2
+UBCV,2019,W,PHYS,533,,OVERALL,Laser Physics,,9,87.888888889,3.551212625,93.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,6.0,2
 UBCV,2019,W,PHYS,534,,101,Radiotherapy Physics I,Wayne Beckham,8,85.125,5.276294696,93.0,81.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,1.0,2
 UBCV,2019,W,PHYS,534,,OVERALL,Radiotherapy Physics I,,8,85.125,5.276294696,93.0,81.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,1.0,2
-UBCV,2019,W,PHYS,539,,201,Radiation Dosimetry,Cheryl Duzenli;Ermias Gete;Martin Petric;Piotr Kozlowski,7,86.28571429,4.498677054,94.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1.0,2
-UBCV,2019,W,PHYS,539,,OVERALL,Radiation Dosimetry,,7,86.28571429,4.498677054,94.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1.0,2
+UBCV,2019,W,PHYS,539,,201,Radiation Dosimetry,Cheryl Duzenli;Ermias Gete;Martin Petric;Piotr Kozlowski,7,86.285714286,4.498677054,94.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1.0,2
+UBCV,2019,W,PHYS,539,,OVERALL,Radiation Dosimetry,,7,86.285714286,4.498677054,94.0,82.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1.0,2
 UBCV,2019,W,PHYS,540,,201,Radiological Imaging,Carlos Uribe Munoz;Connor Bevington;Nancy Ford;Piotr Kozlowski;Robert Rohling;Thor Bjarnason,12,86.5,5.282905537,95.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3,5.0,3
 UBCV,2019,W,PHYS,540,,OVERALL,Radiological Imaging,,12,86.5,5.282905537,95.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3,5.0,3
-UBCV,2019,W,PHYS,545,,201,"Anatomy, Physiology and Statistics for Medical Physicists",Joel Singer;Maryam Shirmohammad;Michael Schulzer;Nancy Ford,13,90.53846154,2.817072494,95.0,85.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3.0,10
-UBCV,2019,W,PHYS,545,,OVERALL,"Anatomy, Physiology and Statistics for Medical Physicists",,13,90.53846154,2.817072494,95.0,85.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3.0,10
+UBCV,2019,W,PHYS,545,,201,"Anatomy, Physiology and Statistics for Medical Physicists",Joel Singer;Maryam Shirmohammad;Michael Schulzer;Nancy Ford,13,90.538461538,2.817072494,95.0,85.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3.0,10
+UBCV,2019,W,PHYS,545,,OVERALL,"Anatomy, Physiology and Statistics for Medical Physicists",,13,90.538461538,2.817072494,95.0,85.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,3.0,10
 UBCV,2019,W,PHYS,571,,201,Physical Cosmology,Gary Hinshaw,8,91.125,7.491662032,97.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0,1.0,6
 UBCV,2019,W,PHYS,571,,OVERALL,Physical Cosmology,,8,91.125,7.491662032,97.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0,1.0,6

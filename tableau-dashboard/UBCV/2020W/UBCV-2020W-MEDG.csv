@@ -1,23 +1,33 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,MEDG,419,,001,Developmental Origin of Human Disorders,Catherine Van Raamsdonk;Giulia Del Gobbo;Louis Lefebvre;Pamela Hoodless;Wendy Robinson,17,83.70588235,9.074446993,94.0,54.0,0,1,0,0,0,0,0,1.0,6,5,4
-UBCV,2020,W,MEDG,419,,OVERALL,Developmental Origin of Human Disorders,,17,83.70588235,9.074446993,94.0,54.0,0,1,0,0,0,0,0,1.0,6,5,4
-UBCV,2020,W,MEDG,420,,001,Human Genomics and Medical Genetics,Amy Inkster;Carles Vilarino-Guell;Carolyn Janet Brown;Colin Ross;Constance Jean Eaves;Dixie Mager;Elizabeth Conibear;Elizabeth Simpson;Jan Marshall Friedman,17,89.52941177,5.292892015,99.0,78.0,0,0,0,0,0,0,0,1.0,2,6,8
-UBCV,2020,W,MEDG,420,,OVERALL,Human Genomics and Medical Genetics,,17,89.52941177,5.292892015,99.0,78.0,0,0,0,0,0,0,0,1.0,2,6,8
-UBCV,2020,W,MEDG,421,,001,Genetics and Cell Biology of Cancer,Chinten James Lim;Christopher Maxwell;Gregor Reid;Peter Stirling;Vahid Akbari;Wyeth Wasserman,27,88.81481482,5.038597462,97.0,74.0,0,0,0,0,0,0,1,1.0,3,7,15
-UBCV,2020,W,MEDG,421,,OVERALL,Genetics and Cell Biology of Cancer,,27,88.81481482,5.038597462,97.0,74.0,0,0,0,0,0,0,1,1.0,3,7,15
-UBCV,2020,W,MEDG,520,,001,Advanced Human Molecular Genetics,Carles Vilarino-Guell;Colin Ross;Cornelius Boerkoel;Inanc Birol;Kelly Marshall Mcnagny;Matthew Lorincz;Nikita Telkar;Peter Lansdorp;Stefan Taubert,22,86.95454546,3.316298463,92.0,81.0,0,0,0,0,0,0,0,0.0,7,9,6
-UBCV,2020,W,MEDG,520,,OVERALL,Advanced Human Molecular Genetics,,22,86.95454546,3.316298463,92.0,81.0,0,0,0,0,0,0,0,0.0,7,9,6
-UBCV,2020,W,MEDG,545,,001,Current Topics in Medical Genetics Research,Elizabeth Conibear;Jan Marshall Friedman;Louis Lefebvre;Stefan Taubert,15,89.86666667,4.323799035,96.0,80.0,0,0,0,0,0,0,0,0.0,1,7,7
+UBCV,2020,W,MEDG,419,,001,Developmental Origin of Human Disorders,Catherine Van Raamsdonk;Giulia Del Gobbo;Louis Lefebvre;Pamela Hoodless;Wendy Robinson,17,83.705882353,9.074446993,94.0,54.0,0,1,0,0,0,0,0,1.0,6,5,4
+UBCV,2020,W,MEDG,419,,OVERALL,Developmental Origin of Human Disorders,,17,83.705882353,9.074446993,94.0,54.0,0,1,0,0,0,0,0,1.0,6,5,4
+UBCV,2020,W,MEDG,420,,001,Human Genomics and Medical Genetics,Amy Inkster;Carles Vilarino-Guell;Carolyn Janet Brown;Colin Ross;Constance Jean Eaves;Dixie Mager;Elizabeth Conibear;Elizabeth Simpson;Jan Marshall Friedman,17,89.529411765,5.292892015,99.0,78.0,0,0,0,0,0,0,0,1.0,2,6,8
+UBCV,2020,W,MEDG,420,,OVERALL,Human Genomics and Medical Genetics,,17,89.529411765,5.292892015,99.0,78.0,0,0,0,0,0,0,0,1.0,2,6,8
+UBCV,2020,W,MEDG,421,,001,Genetics and Cell Biology of Cancer,Chinten James Lim;Christopher Maxwell;Gregor Reid;Peter Stirling;Vahid Akbari;Wyeth Wasserman,27,88.814814815,5.038597462,97.0,74.0,0,0,0,0,0,0,1,1.0,3,7,15
+UBCV,2020,W,MEDG,421,,OVERALL,Genetics and Cell Biology of Cancer,,27,88.814814815,5.038597462,97.0,74.0,0,0,0,0,0,0,1,1.0,3,7,15
+UBCV,2020,W,MEDG,505,,001,Genome Analysis,Inanc Birol;Leticia Dinatto Pereira;Philip Hieter,17,90.058823529,3.071453,96.0,86.0,0,0,0,0,0,0,0,0.0,0,9,8
+UBCV,2020,W,MEDG,505,,OVERALL,Genome Analysis,,17,90.058823529,3.071453,96.0,86.0,0,0,0,0,0,0,0,0.0,0,9,8
+UBCV,2020,W,MEDG,520,,001,Advanced Human Molecular Genetics,Carles Vilarino-Guell;Colin Ross;Cornelius Boerkoel;Inanc Birol;Kelly Marshall Mcnagny;Matthew Lorincz;Nikita Telkar;Peter Lansdorp;Stefan Taubert,22,86.954545455,3.316298463,92.0,81.0,0,0,0,0,0,0,0,0.0,7,9,6
+UBCV,2020,W,MEDG,520,,OVERALL,Advanced Human Molecular Genetics,,22,86.954545455,3.316298463,92.0,81.0,0,0,0,0,0,0,0,0.0,7,9,6
+UBCV,2020,W,MEDG,521,,001,Molecular and Cell Biology of Cancer,Catherine Garnis;Vanessa Porter;William Lockwood,19,89.368421053,4.284474897,97.0,81.0,0,0,0,0,0,0,0,0.0,3,5,11
+UBCV,2020,W,MEDG,521,,OVERALL,Molecular and Cell Biology of Cancer,,19,89.368421053,4.284474897,97.0,81.0,0,0,0,0,0,0,0,0.0,3,5,11
+UBCV,2020,W,MEDG,530,,001,Human Genetics,Blair Leavitt;Bruce Carleton;Carolyn Janet Brown;Daniel Goldowitz;Jan Marshall Friedman;Kasmintan Schrader;Lorne Clarke;Michael Kobor;Sarah Thomson;Sharri Cyrus;W Robert Mcmaster;William Gibson,20,88.4,4.147288271,97.0,79.0,0,0,0,0,0,0,0,1.0,2,9,8
+UBCV,2020,W,MEDG,530,,OVERALL,Human Genetics,,20,88.4,4.147288271,97.0,79.0,0,0,0,0,0,0,0,1.0,2,9,8
+UBCV,2020,W,MEDG,535,,001,Genetics and Ethics,Stephanie Brown;Stephanie Kieffer,11,88.727272727,3.068905639,92.0,84.0,0,0,0,0,0,0,0,0.0,1,5,5
+UBCV,2020,W,MEDG,535,,OVERALL,Genetics and Ethics,,11,88.727272727,3.068905639,92.0,84.0,0,0,0,0,0,0,0,0.0,1,5,5
+UBCV,2020,W,MEDG,545,,001,Current Topics in Medical Genetics Research,Elizabeth Conibear;Jan Marshall Friedman;Louis Lefebvre;Stefan Taubert,15,89.866666667,4.323799035,96.0,80.0,0,0,0,0,0,0,0,0.0,1,7,7
 UBCV,2020,W,MEDG,545,,OVERALL,Current Topics in Medical Genetics Research,,16,90.0625,4.25,96.0,80.0,0,0,0,0,0,0,0,0.0,1,7,8
-UBCV,2020,W,MEDG,548,B,002,Directed Studies,Alison Elliott,6,90.33333333,1.861898673,92.0,88.0,0,0,0,0,0,0,0,0.0,0,2,4
-UBCV,2020,W,MEDG,548,B,OVERALL,Directed Studies,,6,90.33333333,1.861898673,92.0,88.0,0,0,0,0,0,0,0,0.0,0,2,4
-UBCV,2020,W,MEDG,550,,001,Concepts in Clinical Genetics for Genetic Counselling,Jennifer A Scott,6,90.33333333,2.422120283,93.0,86.0,0,0,0,0,0,0,0,0.0,0,1,5
-UBCV,2020,W,MEDG,550,,OVERALL,Concepts in Clinical Genetics for Genetic Counselling,,6,90.33333333,2.422120283,93.0,86.0,0,0,0,0,0,0,0,0.0,0,1,5
-UBCV,2020,W,MEDG,570,,001,Introductory Clinical and Laboratory Rotation,Tracey Oh,6,86.33333333,3.326659987,92.0,82.0,0,0,0,0,0,0,0,0.0,1,4,1
-UBCV,2020,W,MEDG,570,,OVERALL,Introductory Clinical and Laboratory Rotation,,6,86.33333333,3.326659987,92.0,82.0,0,0,0,0,0,0,0,0.0,1,4,1
-UBCV,2020,W,MEDG,575,,001,Advanced Clinical Rotation,Tracey Oh,6,92.0,2.366431913,95.0,90.0,0,0,0,0,0,0,0,0.0,0,0,6
+UBCV,2020,W,MEDG,548,B,002,Directed Studies,Alison Elliott,6,90.333333333,1.861898673,92.0,88.0,0,0,0,0,0,0,0,0.0,0,2,4
+UBCV,2020,W,MEDG,548,B,OVERALL,Directed Studies,,6,90.333333333,1.861898673,92.0,88.0,0,0,0,0,0,0,0,0.0,0,2,4
+UBCV,2020,W,MEDG,548,E,001,Directed Studies,,11,91.363636364,3.233348953,99.0,87.0,0,0,0,0,0,0,0,0.0,0,1,10
+UBCV,2020,W,MEDG,548,E,OVERALL,Directed Studies,,11,91.363636364,3.233348953,99.0,87.0,0,0,0,0,0,0,0,0.0,0,1,10
+UBCV,2020,W,MEDG,550,,001,Concepts in Clinical Genetics for Genetic Counselling,Jennifer A Scott,6,90.333333333,2.422120283,93.0,86.0,0,0,0,0,0,0,0,0.0,0,1,5
+UBCV,2020,W,MEDG,550,,OVERALL,Concepts in Clinical Genetics for Genetic Counselling,,6,90.333333333,2.422120283,93.0,86.0,0,0,0,0,0,0,0,0.0,0,1,5
+UBCV,2020,W,MEDG,570,,001,Introductory Clinical and Laboratory Rotation,Jennifer A Scott;Tracey Oh,6,86.333333333,3.326659987,92.0,82.0,0,0,0,0,0,0,0,0.0,1,4,1
+UBCV,2020,W,MEDG,570,,OVERALL,Introductory Clinical and Laboratory Rotation,,6,86.333333333,3.326659987,92.0,82.0,0,0,0,0,0,0,0,0.0,1,4,1
+UBCV,2020,W,MEDG,575,,001,Advanced Clinical Rotation,Jennifer A Scott;Tracey Oh,6,92.0,2.366431913,95.0,90.0,0,0,0,0,0,0,0,0.0,0,0,6
 UBCV,2020,W,MEDG,575,,OVERALL,Advanced Clinical Rotation,,6,92.0,2.366431913,95.0,90.0,0,0,0,0,0,0,0,0.0,0,0,6
 UBCV,2020,W,MEDG,580,,101,Genomic Testing and Clinical Bioinformatics,,32,90.09375,6.055439437,98.0,71.0,0,0,0,0,0,1,1,0.0,2,6,22
 UBCV,2020,W,MEDG,580,,OVERALL,Genomic Testing and Clinical Bioinformatics,,32,90.09375,6.055439437,98.0,71.0,0,0,0,0,0,1,1,0.0,2,6,22
-UBCV,2020,W,MEDG,595,,OVERALL,Emerging Genomic Topics,,42,91.73809524,5.797642598,100.0,68.0,0,0,0,0,0,1,0,0.0,3,8,30
-UBCV,2020,W,MEDG,595,,SC1,Emerging Genomic Topics,Carol Cremin;Colleen Guimond;Leah Macfadyen;Patricia Birch,42,91.73809524,5.797642598,100.0,68.0,0,0,0,0,0,1,0,0.0,3,8,30
+UBCV,2020,W,MEDG,595,,OVERALL,Emerging Genomic Topics,,42,91.738095238,5.797642598,100.0,68.0,0,0,0,0,0,1,0,0.0,3,8,30
+UBCV,2020,W,MEDG,595,,SC1,Emerging Genomic Topics,Carol Cremin;Colleen Guimond;Leah Macfadyen;Patricia Birch,42,91.738095238,5.797642598,100.0,68.0,0,0,0,0,0,1,0,0.0,3,8,30

@@ -1,0 +1,51 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,W,PHIL,111,,001,Introduction to Philosophy I,Azzah Farras;Christine Semeniuk;Jennifer Ingle;Nathan Cockram,58,69.74137931,10.664846903,87.0,42.0,2,3.0,6.0,5.0,8,7.0,7,10,6,4,0
+UBCO,2021,W,PHIL,111,,002,Introduction to Philosophy I,Anthony Baxter;Ben Robideau;Madeleine Ransom,61,78.655737705,11.976205918,97.0,42.0,1,2.0,0.0,5.0,2,7.0,5,5,9,14,11
+UBCO,2021,W,PHIL,111,,003,Introduction to Philosophy I,Phil Smolenski;Toney Bedell,67,69.611940299,13.635909837,93.0,0.0,3,0.0,1.0,5.0,9,16.0,19,4,6,3,1
+UBCO,2021,W,PHIL,111,,102,Introduction to Philosophy I,Anthony Baxter;Ben Robideau;Jennifer Ingle;Madeleine Ransom,60,77.666666667,15.891226304,94.0,0.0,3,0.0,0.0,4.0,4,6.0,4,5,9,14,11
+UBCO,2021,W,PHIL,111,,OVERALL,Introduction to Philosophy I,,246,73.849593496,13.80999859,97.0,0.0,9,5.0,7.0,19.0,23,36.0,35,24,30,35,23
+UBCO,2021,W,PHIL,120,,001,Introduction to Logic and Critical Thinking,Fawad Ahmad;Giovanni Grandi;Joshua Ayer,115,72.12173913,17.286617797,100.0,1.0,11,5.0,6.0,6.0,10,13.0,11,15,16,5,17
+UBCO,2021,W,PHIL,120,,002,Introduction to Logic and Critical Thinking,Ben Robideau;Madeleine Ransom,125,85.656,9.181067476,99.0,50.0,0,2.0,2.0,0.0,2,2.0,7,13,16,29,52
+UBCO,2021,W,PHIL,120,,101,Introduction to Logic and Critical Thinking,Fawad Ahmad;Giovanni Grandi;Joshua Ayer,114,71.105263158,19.643895411,100.0,2.0,10,10.0,3.0,5.0,14,12.0,11,12,7,10,20
+UBCO,2021,W,PHIL,120,,OVERALL,Introduction to Logic and Critical Thinking,,354,76.573446328,17.174540614,100.0,1.0,21,17.0,11.0,11.0,26,27.0,29,40,39,44,89
+UBCO,2021,W,PHIL,121,,001,Introduction to Philosophy II,Phil Smolenski;Thomas Ryder;Toney Bedell,55,71.072727273,14.166803327,90.0,0.0,1,6.0,1.0,3.0,3,8.0,8,7,14,2,2
+UBCO,2021,W,PHIL,121,,101,Introduction to Philosophy II,Andrew Irvine;Thomas Ryder,54,68.851851852,19.736382846,93.0,0.0,6,1.0,3.0,6.0,4,4.0,8,2,9,7,4
+UBCO,2021,W,PHIL,121,,OVERALL,Introduction to Philosophy II,,109,69.972477064,17.109916291,93.0,0.0,7,7.0,4.0,9.0,7,12.0,16,9,23,9,6
+UBCO,2021,W,PHIL,210,,101,Introduction to Social and Political Philosophy,Azzah Farras;Brian Murphy;Jennifer Ingle;Phil Smolenski,30,73.533333333,12.724489918,87.0,15.0,1,0.0,0.0,0.0,4,5.0,5,5,8,2,0
+UBCO,2021,W,PHIL,210,,OVERALL,Introduction to Social and Political Philosophy,,30,73.533333333,12.724489918,87.0,15.0,1,0.0,0.0,0.0,4,5.0,5,5,8,2,0
+UBCO,2021,W,PHIL,220,,001,Symbolic Logic I,Wolfgang Holger Andreas,46,71.347826087,18.624019606,97.0,20.0,7,2.0,2.0,2.0,2,3.0,5,6,3,6,8
+UBCO,2021,W,PHIL,220,,OVERALL,Symbolic Logic I,,46,71.347826087,18.624019606,97.0,20.0,7,2.0,2.0,2.0,2,3.0,5,6,3,6,8
+UBCO,2021,W,PHIL,230,,001,Ethics,James Robinson,54,74.611111111,10.863504189,91.0,32.0,1,1.0,2.0,5.0,2,6.0,10,7,10,9,1
+UBCO,2021,W,PHIL,230,,OVERALL,Ethics,,54,74.611111111,10.863504189,91.0,32.0,1,1.0,2.0,5.0,2,6.0,10,7,10,9,1
+UBCO,2021,W,PHIL,233,,001,Biomedical Ethics,Phil Smolenski;Thomas Ryder,56,79.571428571,9.287052851,96.0,51.0,0,1.0,1.0,0.0,3,7.0,5,7,11,10,11
+UBCO,2021,W,PHIL,233,,OVERALL,Biomedical Ethics,,56,79.571428571,9.287052851,96.0,51.0,0,1.0,1.0,0.0,3,7.0,5,7,11,10,11
+UBCO,2021,W,PHIL,245,,101,Introduction to Metaphysics,Fawad Ahmad;Thomas Ryder;Wolfgang Holger Andreas,29,72.965517241,18.323448597,100.0,20.0,3,3.0,0.0,1.0,1,2.0,2,4,6,4,3
+UBCO,2021,W,PHIL,245,,OVERALL,Introduction to Metaphysics,,29,72.965517241,18.323448597,100.0,20.0,3,3.0,0.0,1.0,1,2.0,2,4,6,4,3
+UBCO,2021,W,PHIL,310,,001,The Philosophy of Plato,Andrew Irvine,35,75.485714286,10.933949904,94.0,53.0,0,1.0,3.0,2.0,3,2.0,3,4,10,5,2
+UBCO,2021,W,PHIL,310,,OVERALL,The Philosophy of Plato,,35,75.485714286,10.933949904,94.0,53.0,0,1.0,3.0,2.0,3,2.0,3,4,10,5,2
+UBCO,2021,W,PHIL,314,,001,Philosophy in the 17th Century,Giovanni Grandi;Joshua Ayer,37,74.621621622,13.657214925,92.0,28.0,2,0.0,3.0,2.0,0,5.0,3,5,8,6,3
+UBCO,2021,W,PHIL,314,,OVERALL,Philosophy in the 17th Century,,37,74.621621622,13.657214925,92.0,28.0,2,0.0,3.0,2.0,0,5.0,3,5,8,6,3
+UBCO,2021,W,PHIL,331,,001,Computer Ethics,Azzah Farras;Brian Murphy;Christine Semeniuk;Jennifer Ingle,100,85.45,8.951468476,98.0,51.0,0,1.0,1.0,1.0,1,4.0,4,10,20,15,43
+UBCO,2021,W,PHIL,331,,101,Computer Ethics,Azzah Farras;Brian Murphy;Jennifer Ingle,93,79.182795699,11.106154029,96.0,35.0,1,1.0,3.0,2.0,8,6.0,7,15,19,14,17
+UBCO,2021,W,PHIL,331,,OVERALL,Computer Ethics,,193,82.430051813,10.501315815,98.0,35.0,1,2.0,4.0,3.0,9,10.0,11,25,39,29,60
+UBCO,2021,W,PHIL,338,,001,Philosophy of Law,Andrew Irvine;Toney Bedell,34,79.470588235,7.144547801,95.0,64.0,0,0.0,0.0,0.0,4,0.0,5,6,11,7,1
+UBCO,2021,W,PHIL,338,,101,Philosophy of Law,Andrew Irvine;Toney Bedell,40,73.825,13.915288585,90.0,15.0,2,1.0,1.0,0.0,1,10.0,6,1,11,6,1
+UBCO,2021,W,PHIL,338,,OVERALL,Philosophy of Law,,74,76.418918919,11.599488365,95.0,15.0,2,1.0,1.0,0.0,5,10.0,11,7,22,13,2
+UBCO,2021,W,PHIL,345,,101,Theory of Knowledge,Manuela Ungureanu,14,69.0,18.284083032,85.0,15.0,1,0.0,2.0,1.0,1,1.0,1,2,4,1,0
+UBCO,2021,W,PHIL,345,,OVERALL,Theory of Knowledge,,14,69.0,18.284083032,85.0,15.0,1,0.0,2.0,1.0,1,1.0,1,2,4,1,0
+UBCO,2021,W,PHIL,373,,001,Feminist Philosophy,Azzah Farras;Christine Semeniuk;Jennifer Ingle,35,83.4,12.452734167,98.0,26.0,1,0.0,0.0,0.0,0,2.0,2,6,6,5,13
+UBCO,2021,W,PHIL,373,,OVERALL,Feminist Philosophy,,35,83.4,12.452734167,98.0,26.0,1,0.0,0.0,0.0,0,2.0,2,6,6,5,13
+UBCO,2021,W,PHIL,391,E,101,Topics in Philosophy,Giovanni Grandi;Joshua Ayer,16,74.9375,23.566837576,97.0,0.0,1,0.0,1.0,1.0,1,1.0,1,0,4,1,5
+UBCO,2021,W,PHIL,391,E,OVERALL,Topics in Philosophy,,16,74.9375,23.566837576,97.0,0.0,1,0.0,1.0,1.0,1,1.0,1,0,4,1,5
+UBCO,2021,W,PHIL,391,F,101,Topics in Philosophy,Azzah Farras;Brian Murphy;Jennifer Ingle,31,80.903225806,16.813397116,99.0,23.0,1,2.0,1.0,0.0,1,1.0,0,3,5,6,11
+UBCO,2021,W,PHIL,391,F,OVERALL,Topics in Philosophy,,31,80.903225806,16.813397116,99.0,23.0,1,2.0,1.0,0.0,1,1.0,0,3,5,6,11
+UBCO,2021,W,PHIL,418,G,101,Topics in 20th-Century Philosophy,Wolfgang Holger Andreas,8,84.25,13.551489112,99.0,66.0,0,0.0,0.0,0.0,1,1.0,1,0,1,0,4
+UBCO,2021,W,PHIL,418,G,OVERALL,Topics in 20th-Century Philosophy,,8,84.25,13.551489112,99.0,66.0,0,0.0,0.0,0.0,1,1.0,1,0,1,0,4
+UBCO,2021,W,PHIL,425,,101,Philosophy of Language,Manuela Ungureanu,7,67.428571429,15.893994074,86.0,44.0,1,1.0,1.0,0.0,0,0.0,1,1,1,1,0
+UBCO,2021,W,PHIL,425,,OVERALL,Philosophy of Language,,7,67.428571429,15.893994074,86.0,44.0,1,1.0,1.0,0.0,0,0.0,1,1,1,1,0
+UBCO,2021,W,PHIL,435,,001,Environmental Ethics,James Robinson,31,79.064516129,10.262993338,92.0,51.0,0,2.0,0.0,0.0,2,2.0,4,5,3,10,3
+UBCO,2021,W,PHIL,435,,OVERALL,Environmental Ethics,,31,79.064516129,10.262993338,92.0,51.0,0,2.0,0.0,0.0,2,2.0,4,5,3,10,3
+UBCO,2021,W,PHIL,446,,101,Philosophy of Psychology,Michael Barkasi;Thomas Ryder,37,74.891891892,10.463650796,93.0,56.0,0,0.0,4.0,2.0,5,3.0,4,5,5,6,3
+UBCO,2021,W,PHIL,446,,OVERALL,Philosophy of Psychology,,37,74.891891892,10.463650796,93.0,56.0,0,0.0,4.0,2.0,5,3.0,4,5,5,6,3
+UBCO,2021,W,PHIL,460,,001,Philosophy of Science,Wolfgang Holger Andreas,14,74.357142857,20.757230966,93.0,29.0,2,1.0,1.0,0.0,0,0.0,1,1,2,1,5
+UBCO,2021,W,PHIL,460,,OVERALL,Philosophy of Science,,14,74.357142857,20.757230966,93.0,29.0,2,1.0,1.0,0.0,0,0.0,1,1,2,1,5

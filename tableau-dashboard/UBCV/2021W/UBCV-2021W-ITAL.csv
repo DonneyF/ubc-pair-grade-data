@@ -1,0 +1,30 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,ITAL,101,,101,Beginners' Italian I,Elena Zampieri;Gaoheng Zhang,22,78.863636364,16.870079048,97.0,37.0,2,1,0.0,0,1.0,2.0,2,0,1,6.0,7
+UBCV,2021,W,ITAL,101,,102,Beginners' Italian I,Monica Liscio Gordon,30,81.6,11.984472713,95.0,41.0,1,0,1.0,1,0.0,1.0,4,1,5,8.0,8
+UBCV,2021,W,ITAL,101,,103,Beginners' Italian I,Monica Liscio Gordon,26,75.269230769,18.835196187,95.0,19.0,2,1,3.0,1,0.0,2.0,0,3,3,5.0,6
+UBCV,2021,W,ITAL,101,,104,Beginners' Italian I,Giorgio Jacova,29,76.965517241,10.530509276,90.0,50.0,0,2,0.0,2,0.0,1.0,6,2,11,4.0,1
+UBCV,2021,W,ITAL,101,,105,Beginners' Italian I,Giorgio Jacova;Monica Liscio Gordon,29,78.586206897,6.581995146,91.0,65.0,0,0,0.0,0,2.0,1.0,6,8,5,5.0,2
+UBCV,2021,W,ITAL,101,,106,Beginners' Italian I,Gaoheng Zhang;Luisa Canuto,28,81.071428571,7.174690967,94.0,68.0,0,0,0.0,0,0.0,3.0,5,1,8,7.0,4
+UBCV,2021,W,ITAL,101,,107,Beginners' Italian I,Chiara Falangola,13,81.076923077,10.451965832,94.0,56.0,0,0,1.0,0,0.0,1.0,1,2,3,1.0,4
+UBCV,2021,W,ITAL,101,,201,Beginners' Italian I,Giorgio Jacova;Monica Liscio Gordon,32,69.34375,23.833575362,95.0,1.0,3,2,2.0,3,3.0,1.0,1,5,5,0.0,7
+UBCV,2021,W,ITAL,101,,203,Beginners' Italian I,Giorgio Jacova;Monica Liscio Gordon,33,79.121212121,11.196421236,93.0,30.0,1,0,0.0,1,1.0,1.0,3,6,12,4.0,4
+UBCV,2021,W,ITAL,101,,OVERALL,Beginners' Italian I,,242,77.70661157,14.560813868,97.0,1.0,9,6,7.0,8,7.0,13.0,28,28,53,40.0,43
+UBCV,2021,W,ITAL,102,,201,Beginners' Italian II,Chiara Falangola,25,73.44,20.265076692,95.0,0.0,3,0,0.0,1,0.0,1.0,2,6,6,4.0,2
+UBCV,2021,W,ITAL,102,,202,Beginners' Italian II,Chiara Falangola;Luisa Canuto,22,76.545454545,15.327309187,93.0,45.0,1,2,0.0,3,0.0,2.0,1,1,1,7.0,4
+UBCV,2021,W,ITAL,102,,203,Beginners' Italian II,Monica Liscio Gordon,16,80.5,11.272385137,94.0,61.0,0,0,0.0,3,0.0,1.0,1,1,2,4.0,4
+UBCV,2021,W,ITAL,102,,204,Beginners' Italian II,Luisa Canuto;Monica Liscio Gordon,28,78.142857143,15.452949582,97.0,41.0,1,2,1.0,2,1.0,1.0,2,2,4,2.0,10
+UBCV,2021,W,ITAL,102,,OVERALL,Beginners' Italian II,,91,76.879120879,16.226066248,97.0,0.0,5,4,1.0,9,1.0,5.0,6,10,13,17.0,20
+UBCV,2021,W,ITAL,201,,101,Elementary Italian I,Chiara Falangola;Luisa Canuto,22,74.863636364,10.80253698,94.0,56.0,0,0,2.0,1,1.0,5.0,1,5,3,1.0,3
+UBCV,2021,W,ITAL,201,,102,Elementary Italian I,Daniela Boccassini;Elena Zampieri,20,78.5,12.508944168,100.0,58.0,0,0,1.0,3,1.0,0.0,2,3,5,1.0,4
+UBCV,2021,W,ITAL,201,,OVERALL,Elementary Italian I,,42,76.595238095,11.647379112,100.0,56.0,0,0,3.0,4,2.0,5.0,3,8,8,2.0,7
+UBCV,2021,W,ITAL,202,,201,Elementary Italian II,Elena Zampieri;Gaoheng Zhang,21,76.047619048,14.263506548,100.0,50.0,0,1,0.0,4,2.0,3.0,1,2,1,2.0,5
+UBCV,2021,W,ITAL,202,,202,Elementary Italian II,Carlo Testa;Elena Zampieri,15,79.666666667,20.906822764,100.0,19.0,1,0,0.0,1,1.0,1.0,2,0,2,2.0,5
+UBCV,2021,W,ITAL,202,,OVERALL,Elementary Italian II,,36,77.555555556,17.157163343,100.0,19.0,1,1,0.0,5,3.0,4.0,3,2,3,4.0,10
+UBCV,2021,W,ITAL,301,,101,Intermediate Italian I,Luisa Canuto,15,79.533333333,16.163745441,95.0,28.0,1,0,0.0,0,0.0,1.0,2,1,2,4.0,4
+UBCV,2021,W,ITAL,301,,OVERALL,Intermediate Italian I,,15,79.533333333,16.163745441,95.0,28.0,1,0,0.0,0,0.0,1.0,2,1,2,4.0,4
+UBCV,2021,W,ITAL,302,,201,Intermediate Italian II,Daniela Boccassini;Elena Zampieri,16,89.4375,14.555497243,100.0,41.0,1,0,0.0,0,0.0,0.0,0,1,2,1.0,11
+UBCV,2021,W,ITAL,302,,OVERALL,Intermediate Italian II,,16,89.4375,14.555497243,100.0,41.0,1,0,0.0,0,0.0,0.0,0,1,2,1.0,11
+UBCV,2021,W,ITAL,303,,101,Italian Literature and Culture of the Medieval and Early Modern Period,Marco Piana,9,94.444444444,4.693375947,99.0,85.0,0,0,0.0,0,0.0,0.0,0,0,0,1.0,8
+UBCV,2021,W,ITAL,303,,OVERALL,Italian Literature and Culture of the Medieval and Early Modern Period,,9,94.444444444,4.693375947,99.0,85.0,0,0,0.0,0,0.0,0.0,0,0,0,1.0,8
+UBCV,2021,W,ITAL,401,,101,Upper-Intermediate Italian I,Chiara Falangola,7,82.428571429,11.355720186,93.0,60.0,0,0,0.0,1,0.0,0.0,0,2,0,2.0,2
+UBCV,2021,W,ITAL,401,,OVERALL,Upper-Intermediate Italian I,,7,82.428571429,11.355720186,93.0,60.0,0,0,0.0,1,0.0,0.0,0,2,0,2.0,2

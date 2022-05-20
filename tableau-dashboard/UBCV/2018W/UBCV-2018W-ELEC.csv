@@ -1,133 +1,133 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2018,W,ELEC,201,,101,Circuit Analysis I,Ahmed Atef Ali;Avilash Mukherjee;Barbara Ramos Macias;Jesus Calvino-Fraga;Luis Linares;Mukhlasur Rahman Tanvir;Parisa Asgharzadeh;Yonghan Zhou,95,75.74736842,19.25637138,100.0,8.0,9,0.0,1.0,4.0,4,7,10.0,10.0,16.0,11.0,23
-UBCV,2018,W,ELEC,201,,102,Circuit Analysis I,Ahmed Atef Ali;Avilash Mukherjee;Barbara Ramos Macias;Jesus Calvino-Fraga;Luis Linares;Parisa Asgharzadeh;Yonghan Zhou,100,69.72,21.00701182,95.0,16.0,17,0.0,3.0,8.0,6,10,4.0,7.0,17.0,13.0,15
-UBCV,2018,W,ELEC,201,,201,Circuit Analysis I,Ahmed Atef Ali;Alireza Nojeh;Jun Min;Kevin Jin-Huen Voon;Kevin Voon;Mukhlasur Rahman Tanvir;Parisa Asgharzadeh,121,65.05785124,15.21966793,100.0,26.0,21,9.0,16.0,10.0,7,16,9.0,13.0,10.0,5.0,5
-UBCV,2018,W,ELEC,201,,OVERALL,Circuit Analysis I,,316,69.74683544,18.89164986,100.0,8.0,47,9.0,20.0,22.0,17,33,23.0,30.0,43.0,29.0,43
-UBCV,2018,W,ELEC,202,,101,Circuit Analysis II,Amirahmad Tarkeshdouz;Luis Linares,23,64.0,15.4095602,86.0,30.0,4,3.0,1.0,1.0,2,4,1.0,2.0,3.0,2.0,0
-UBCV,2018,W,ELEC,202,,201,Circuit Analysis II,Ahmed Atef Ali;Alireza Asoodeh;Arvin Tashakori;Luis Linares;Mostafa Darabi;Parisa Asgharzadeh;Qihao Liu;Shuo Tang,76,65.63157895,13.24219731,87.0,28.0,10,1.0,3.0,12.0,14,12,9.0,4.0,5.0,6.0,0
-UBCV,2018,W,ELEC,202,,202,Circuit Analysis II,Ahmed Atef Ali;Alireza Asoodeh;Arvin Tashakori;Luis Linares;Mostafa Darabi;Parisa Asgharzadeh;Qihao Liu;Shuo Tang,90,67.08888889,17.59893028,100.0,1.0,15,2.0,6.0,5.0,12,12,10.0,4.0,12.0,3.0,9
-UBCV,2018,W,ELEC,202,,OVERALL,Circuit Analysis II,,189,66.12698413,15.6672433,100.0,1.0,29,6.0,10.0,18.0,28,28,20.0,10.0,20.0,11.0,9
-UBCV,2018,W,ELEC,203,,101,Basic Circuit Analysis,Hamed Ahmadi;Matthieu Amyotte;Matthieu William Amyotte;Naga Raghavendra Koppisetti;Pramit Saha;Saloome Motavas;Yu Christine Chen,35,72.0,15.70874616,100.0,50.0,0,5.0,6.0,4.0,1,2,2.0,1.0,5.0,3.0,6
-UBCV,2018,W,ELEC,203,,OVERALL,Basic Circuit Analysis,,35,72.0,15.70874616,100.0,50.0,0,5.0,6.0,4.0,1,2,2.0,1.0,5.0,3.0,6
-UBCV,2018,W,ELEC,204,,101,Linear Circuits,Amirahmad Tarkeshdouz;Mengye Cai;Ruochen Wen;Shahriar Mirabbasi,119,84.57983193,8.404494155,100.0,62.0,0,0.0,0.0,1.0,2,8,6.0,10.0,24.0,26.0,42
-UBCV,2018,W,ELEC,204,,OVERALL,Linear Circuits,,119,84.57983193,8.404494155,100.0,62.0,0,0.0,0.0,1.0,2,8,6.0,10.0,24.0,26.0,42
-UBCV,2018,W,ELEC,205,,L1A,Electronics Laboratory,Matthieu Amyotte;Ronish Patel;Saloome Motavas,17,99.29411765,1.358524286,100.0,96.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,17
-UBCV,2018,W,ELEC,205,,L1B,Electronics Laboratory,Matthieu Amyotte;Ronish Patel;Saloome Motavas,22,97.86363636,1.726418107,100.0,94.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,22
+UBCV,2018,W,ELEC,201,,101,Circuit Analysis I,Ahmed Atef Ali;Avilash Mukherjee;Barbara Ramos Macias;Jesus Calvino-Fraga;Luis Linares;Mukhlasur Rahman Tanvir;Parisa Asgharzadeh;Yonghan Zhou,95,75.747368421,19.256371381,100.0,8.0,9,0.0,1.0,4.0,4,7,10.0,10.0,16.0,11.0,23
+UBCV,2018,W,ELEC,201,,102,Circuit Analysis I,Ahmed Atef Ali;Avilash Mukherjee;Barbara Ramos Macias;Jesus Calvino-Fraga;Luis Linares;Parisa Asgharzadeh;Yonghan Zhou,100,69.72,21.007011816,95.0,16.0,17,0.0,3.0,8.0,6,10,4.0,7.0,17.0,13.0,15
+UBCV,2018,W,ELEC,201,,201,Circuit Analysis I,Ahmed Atef Ali;Alireza Nojeh;Jun Min;Kevin Voon;Mukhlasur Rahman Tanvir;Parisa Asgharzadeh,121,65.05785124,15.219667934,100.0,26.0,21,9.0,16.0,10.0,7,16,9.0,13.0,10.0,5.0,5
+UBCV,2018,W,ELEC,201,,OVERALL,Circuit Analysis I,,316,69.746835443,18.891649859,100.0,8.0,47,9.0,20.0,22.0,17,33,23.0,30.0,43.0,29.0,43
+UBCV,2018,W,ELEC,202,,101,Circuit Analysis II,Amirahmad Tarkeshdouz;Luis Linares,23,64.0,15.409560197,86.0,30.0,4,3.0,1.0,1.0,2,4,1.0,2.0,3.0,2.0,0
+UBCV,2018,W,ELEC,202,,201,Circuit Analysis II,Ahmed Atef Ali;Alireza Asoodeh;Arvin Tashakori;Luis Linares;Mostafa Darabi;Parisa Asgharzadeh;Qihao Liu;Shuo Tang,76,65.631578947,13.242197305,87.0,28.0,10,1.0,3.0,12.0,14,12,9.0,4.0,5.0,6.0,0
+UBCV,2018,W,ELEC,202,,202,Circuit Analysis II,Ahmed Atef Ali;Alireza Asoodeh;Arvin Tashakori;Luis Linares;Mostafa Darabi;Parisa Asgharzadeh;Qihao Liu;Shuo Tang,90,67.088888889,17.598930282,100.0,1.0,15,2.0,6.0,5.0,12,12,10.0,4.0,12.0,3.0,9
+UBCV,2018,W,ELEC,202,,OVERALL,Circuit Analysis II,,189,66.126984127,15.667243301,100.0,1.0,29,6.0,10.0,18.0,28,28,20.0,10.0,20.0,11.0,9
+UBCV,2018,W,ELEC,203,,101,Basic Circuit Analysis,Hamed Ahmadi;Matthieu Amyotte;Matthieu William Amyotte;Naga Raghavendra Koppisetti;Pramit Saha;Saloome Motavas;Yu Christine Chen,35,72.0,15.708746159,100.0,50.0,0,5.0,6.0,4.0,1,2,2.0,1.0,5.0,3.0,6
+UBCV,2018,W,ELEC,203,,OVERALL,Basic Circuit Analysis,,35,72.0,15.708746159,100.0,50.0,0,5.0,6.0,4.0,1,2,2.0,1.0,5.0,3.0,6
+UBCV,2018,W,ELEC,204,,101,Linear Circuits,Amirahmad Tarkeshdouz;Mengye Cai;Ruochen Wen;Shahriar Mirabbasi,119,84.579831933,8.404494155,100.0,62.0,0,0.0,0.0,1.0,2,8,6.0,10.0,24.0,26.0,42
+UBCV,2018,W,ELEC,204,,OVERALL,Linear Circuits,,119,84.579831933,8.404494155,100.0,62.0,0,0.0,0.0,1.0,2,8,6.0,10.0,24.0,26.0,42
+UBCV,2018,W,ELEC,205,,L1A,Electronics Laboratory,Matthieu Amyotte;Ronish Patel;Saloome Motavas,17,99.294117647,1.358524286,100.0,96.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,17
+UBCV,2018,W,ELEC,205,,L1B,Electronics Laboratory,Matthieu Amyotte;Ronish Patel;Saloome Motavas,22,97.863636364,1.726418107,100.0,94.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,22
 UBCV,2018,W,ELEC,205,,L1C,Electronics Laboratory,Matthieu Amyotte;Ronish Patel;Saloome Motavas,15,98.2,4.585692034,100.0,82.0,0,0.0,0.0,0.0,0,0,0.0,0.0,1.0,0.0,14
-UBCV,2018,W,ELEC,205,,OVERALL,Electronics Laboratory,,54,98.40740741,2.771271206,100.0,82.0,0,0.0,0.0,0.0,0,0,0.0,0.0,1.0,0.0,53
-UBCV,2018,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Hany Abolmagd Ahmed Abdelraheem;Mohammad Arafat Hussain;Sayed Mohammad Hashem Jayhooni;Terry Lee;Yan Qi Gu;Yonghan Zhou,106,69.17924528,13.02656419,99.0,21.0,6,6.0,5.0,12.0,18,15,16.0,9.0,3.0,9.0,7
-UBCV,2018,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Hany Abolmagd Ahmed Abdelraheem;Mohammad Arafat Hussain;Sayed Mohammad Hashem Jayhooni;Yan Qi Gu;Yonghan Zhou;Yu Christine Chen,96,63.13541667,16.35309067,93.0,1.0,14,10.0,3.0,12.0,17,9,13.0,7.0,4.0,4.0,3
-UBCV,2018,W,ELEC,211,,OVERALL,Engineering Electromagnetics,,202,66.30693069,14.97310529,99.0,1.0,20,16.0,8.0,24.0,35,24,29.0,16.0,7.0,13.0,10
-UBCV,2018,W,ELEC,221,,101,Signals and Systems,Abdelmalik Aljalai;Abdelmalik Nass Aljalai;Anahita Shojaei Hashemi;Jashanjot Kaur;Joel Ezequiel Hernandez-Balades;Joel Hernandez-Balades;Joseph Yan;Mohammad Arafat Hussain;Paul Lusina,158,71.35443038,15.22865048,96.0,6.0,14,6.0,8.0,13.0,15,22,12.0,9.0,25.0,13.0,21
-UBCV,2018,W,ELEC,221,,201,Signals and Systems,Abdelmalik Aljalai;Alireza Asoodeh;Anahita Shojaei Hashemi;Joel Ezequiel Hernandez-Balades;Joel Hernandez-Balades;Joseph Yan;Lazar Atanackovic;Mostafa Darabi,217,64.14285714,19.31447493,100.0,0.0,34,25.0,21.0,20.0,16,21,22.0,18.0,11.0,10.0,19
-UBCV,2018,W,ELEC,221,,OVERALL,Signals and Systems,,375,67.18133333,18.04211275,100.0,0.0,48,31.0,29.0,33.0,31,43,34.0,27.0,36.0,23.0,40
+UBCV,2018,W,ELEC,205,,OVERALL,Electronics Laboratory,,54,98.407407407,2.771271206,100.0,82.0,0,0.0,0.0,0.0,0,0,0.0,0.0,1.0,0.0,53
+UBCV,2018,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Mohammad Arafat Hussain;Sayed Mohammad Hashem Jayhooni;Yan Qi Gu;Yonghan Zhou,106,69.179245283,13.026564193,99.0,21.0,6,6.0,5.0,12.0,18,15,16.0,9.0,3.0,9.0,7
+UBCV,2018,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Mohammad Arafat Hussain;Sayed Mohammad Hashem Jayhooni;Yan Qi Gu;Yonghan Zhou,96,63.135416667,16.353090673,93.0,1.0,14,10.0,3.0,12.0,17,9,13.0,7.0,4.0,4.0,3
+UBCV,2018,W,ELEC,211,,OVERALL,Engineering Electromagnetics,,202,66.306930693,14.973105292,99.0,1.0,20,16.0,8.0,24.0,35,24,29.0,16.0,7.0,13.0,10
+UBCV,2018,W,ELEC,221,,101,Signals and Systems,Abdelmalik Aljalai;Anahita Shojaei Hashemi;Jashanjot Kaur;Joel Hernandez-Balades;Joseph Yan;Mohammad Arafat Hussain;Paul Lusina,158,71.35443038,15.228650483,96.0,6.0,14,6.0,8.0,13.0,15,22,12.0,9.0,25.0,13.0,21
+UBCV,2018,W,ELEC,221,,201,Signals and Systems,Abdelmalik Aljalai;Alireza Asoodeh;Anahita Shojaei Hashemi;Joel Hernandez-Balades;Joseph Yan;Lazar Atanackovic;Mostafa Darabi,217,64.142857143,19.314474929,100.0,0.0,34,25.0,21.0,20.0,16,21,22.0,18.0,11.0,10.0,19
+UBCV,2018,W,ELEC,221,,OVERALL,Signals and Systems,,375,67.181333333,18.042112749,100.0,0.0,48,31.0,29.0,33.0,31,43,34.0,27.0,36.0,23.0,40
 UBCV,2018,W,ELEC,271,,201,Selected Topics in Biomedical Engineering,Delaram Behnami;Purang Abolmaesumi,16,92.625,3.15964133,96.0,87.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,4.0,12
 UBCV,2018,W,ELEC,271,,OVERALL,Selected Topics in Biomedical Engineering,,16,92.625,3.15964133,96.0,87.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,4.0,12
-UBCV,2018,W,ELEC,281,,201,Technical Communication,Hongxing Estella Qi,26,72.30769231,10.68370434,86.0,40.0,2,0.0,0.0,1.0,4,3,2.0,8.0,5.0,1.0,0
+UBCV,2018,W,ELEC,281,,201,Technical Communication,Hongxing Estella Qi,26,72.307692308,10.683704342,86.0,40.0,2,0.0,0.0,1.0,4,3,2.0,8.0,5.0,1.0,0
 UBCV,2018,W,ELEC,281,,202,Technical Communication,Hartaj Sanghara,42,71.5,7.658089936,81.0,45.0,2,0.0,0.0,3.0,4,7,12.0,11.0,3.0,0.0,0
-UBCV,2018,W,ELEC,281,,203,Technical Communication,Randall Kerr,21,67.19047619,14.17962992,86.0,40.0,4,1.0,0.0,0.0,4,2,4.0,2.0,3.0,1.0,0
-UBCV,2018,W,ELEC,281,,204,Technical Communication,Hongxing Estella Qi,37,73.5945946,10.57370812,94.0,40.0,1,1.0,2.0,0.0,1,8,7.0,7.0,6.0,1.0,3
-UBCV,2018,W,ELEC,281,,205,Technical Communication,Randall Kerr,32,67.125,12.63060799,95.0,45.0,3,4.0,2.0,1.0,4,7,3.0,3.0,3.0,1.0,1
-UBCV,2018,W,ELEC,281,,OVERALL,Technical Communication,,158,70.66455696,11.09347129,95.0,40.0,12,6.0,4.0,5.0,17,27,28.0,31.0,20.0,4.0,4
-UBCV,2018,W,ELEC,291,,201,Electrical Engineering Design Studio I,Candice Loo;Candice Nien Jie Loo;Jessica Hua;Jesus Calvino-Fraga;Mohammadhossein Olyaiy;Mustafa Hammood;Robert David Evans;Robert Evans;Vani Sahni;Ziyu Wang,126,84.73015873,7.111019841,100.0,56.0,0,0.0,2.0,0.0,2,2,5.0,10.0,25.0,52.0,28
+UBCV,2018,W,ELEC,281,,203,Technical Communication,Randall Kerr,21,67.19047619,14.179629923,86.0,40.0,4,1.0,0.0,0.0,4,2,4.0,2.0,3.0,1.0,0
+UBCV,2018,W,ELEC,281,,204,Technical Communication,Hongxing Estella Qi,37,73.594594595,10.573708115,94.0,40.0,1,1.0,2.0,0.0,1,8,7.0,7.0,6.0,1.0,3
+UBCV,2018,W,ELEC,281,,205,Technical Communication,Randall Kerr,32,67.125,12.630607985,95.0,45.0,3,4.0,2.0,1.0,4,7,3.0,3.0,3.0,1.0,1
+UBCV,2018,W,ELEC,281,,OVERALL,Technical Communication,,158,70.664556962,11.093471288,95.0,40.0,12,6.0,4.0,5.0,17,27,28.0,31.0,20.0,4.0,4
+UBCV,2018,W,ELEC,291,,201,Electrical Engineering Design Studio I,Candice Loo;Jessica Hua;Jesus Calvino-Fraga;Mohammadhossein Olyaiy;Mustafa Hammood;Robert Evans;Vani Sahni;Ziyu Wang,126,84.73015873,7.111019841,100.0,56.0,0,0.0,2.0,0.0,2,2,5.0,10.0,25.0,52.0,28
 UBCV,2018,W,ELEC,291,,OVERALL,Electrical Engineering Design Studio I,,126,84.73015873,7.111019841,100.0,56.0,0,0.0,2.0,0.0,2,2,5.0,10.0,25.0,52.0,28
 UBCV,2018,W,ELEC,292,,201,Biomedical Engineering Design Studio,Candice Loo;Jessica Hua;Jesus Calvino-Fraga;Mohammadhossein Olyaiy;Mustafa Hammood;Robert Evans;Vani Sahni;Ziyu Wang,12,91.5,2.153221688,95.0,88.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,2.0,10
 UBCV,2018,W,ELEC,292,,OVERALL,Biomedical Engineering Design Studio,,12,91.5,2.153221688,95.0,88.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,2.0,10
-UBCV,2018,W,ELEC,301,,101,Electronic Circuits,Abdelrahmen Afifi;Abdelrahmen Emad Eldin Afifi;Leanne Dias;Mohamed Adel Shemis;Mohamed Shemis;Mustafa Hammood;Nicolas A Jaeger,134,78.19402985,12.20346161,95.0,11.0,7,0.0,0.0,2.0,6,5,17.0,25.0,25.0,27.0,20
-UBCV,2018,W,ELEC,301,,201,Electronic Circuits,Abdelrahmen Afifi;Abdelrahmen Emad Eldin Afifi;Leanne Dias;Mohamed Adel Shemis;Mohamed Shemis;Mustafa Hammood;Nicolas A Jaeger,92,70.36956522,18.2508271,95.0,5.0,21,2.0,2.0,0.0,4,5,14.0,6.0,12.0,18.0,8
-UBCV,2018,W,ELEC,301,,OVERALL,Electronic Circuits,,226,75.00884956,15.41398821,95.0,5.0,28,2.0,2.0,2.0,10,10,31.0,31.0,37.0,45.0,28
-UBCV,2018,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Kenichi Takahata;Mohab Hassan;Mohab Osama Ibrahim Moham Hassan,43,80.86046512,13.714055,96.0,21.0,1,0.0,1.0,1.0,2,3,3.0,4.0,8.0,7.0,13
-UBCV,2018,W,ELEC,302,,OVERALL,Electronic Circuits for Electromechanical Design,,43,80.86046512,13.714055,96.0,21.0,1,0.0,1.0,1.0,2,3,3.0,4.0,8.0,7.0,13
-UBCV,2018,W,ELEC,311,,101,Electromagnetic Fields and Waves,Hsi Nien Chiu;Konrad Walus;Matthew Yedlin;Sze Hang Ng,108,68.87037037,12.14021863,91.0,39.0,3,12.0,12.0,11.0,12,13,12.0,9.0,9.0,12.0,3
-UBCV,2018,W,ELEC,311,,201,Electromagnetic Fields and Waves,Dadong Shang;David Michelson;Hsi Nien Chiu;Jiefei Li;Sze Hang Ng,54,77.2962963,21.57884152,98.0,0.0,4,0.0,0.0,2.0,2,2,4.0,4.0,15.0,9.0,12
-UBCV,2018,W,ELEC,311,,OVERALL,Electromagnetic Fields and Waves,,162,71.67901235,16.34361399,98.0,0.0,7,12.0,12.0,13.0,14,15,16.0,13.0,24.0,21.0,15
-UBCV,2018,W,ELEC,315,,101,Electronic Materials and Devices,Claire Preston;John Madden;Parham Pashaei;Zenan Jiang,100,79.45,11.33990451,100.0,50.0,0,2.0,3.0,3.0,6,7,14.0,11.0,22.0,11.0,21
-UBCV,2018,W,ELEC,315,,201,Electronic Materials and Devices,Claire Preston;Parham Pashaei;Peyman Servati,58,75.5,13.77672841,100.0,37.0,1,5.0,2.0,3.0,3,4,8.0,5.0,6.0,11.0,10
+UBCV,2018,W,ELEC,301,,101,Electronic Circuits,Abdelrahmen Afifi;Leanne Dias;Mohamed Shemis;Mustafa Hammood;Nicolas A Jaeger,134,78.194029851,12.203461614,95.0,11.0,7,0.0,0.0,2.0,6,5,17.0,25.0,25.0,27.0,20
+UBCV,2018,W,ELEC,301,,201,Electronic Circuits,Abdelrahmen Afifi;Leanne Dias;Mohamed Shemis;Mustafa Hammood;Nicolas A Jaeger,92,70.369565217,18.250827102,95.0,5.0,21,2.0,2.0,0.0,4,5,14.0,6.0,12.0,18.0,8
+UBCV,2018,W,ELEC,301,,OVERALL,Electronic Circuits,,226,75.008849558,15.413988207,95.0,5.0,28,2.0,2.0,2.0,10,10,31.0,31.0,37.0,45.0,28
+UBCV,2018,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Kenichi Takahata;Mohab Hassan,43,80.860465116,13.714055,96.0,21.0,1,0.0,1.0,1.0,2,3,3.0,4.0,8.0,7.0,13
+UBCV,2018,W,ELEC,302,,OVERALL,Electronic Circuits for Electromechanical Design,,43,80.860465116,13.714055,96.0,21.0,1,0.0,1.0,1.0,2,3,3.0,4.0,8.0,7.0,13
+UBCV,2018,W,ELEC,311,,101,Electromagnetic Fields and Waves,Hsi Nien Chiu;Matthew Yedlin;Samuel Ng;Sze Hang Ng,108,68.87037037,12.140218625,91.0,39.0,3,12.0,12.0,11.0,12,13,12.0,9.0,9.0,12.0,3
+UBCV,2018,W,ELEC,311,,201,Electromagnetic Fields and Waves,Dadong Shang;David Michelson;Jiefei Li,54,77.296296296,21.578841515,98.0,0.0,4,0.0,0.0,2.0,2,2,4.0,4.0,15.0,9.0,12
+UBCV,2018,W,ELEC,311,,OVERALL,Electromagnetic Fields and Waves,,162,71.679012346,16.343613991,98.0,0.0,7,12.0,12.0,13.0,14,15,16.0,13.0,24.0,21.0,15
+UBCV,2018,W,ELEC,315,,101,Electronic Materials and Devices,Claire Preston;John Madden;Parham Pashaei;Zenan Jiang,100,79.45,11.339904512,100.0,50.0,0,2.0,3.0,3.0,6,7,14.0,11.0,22.0,11.0,21
+UBCV,2018,W,ELEC,315,,201,Electronic Materials and Devices,Claire Preston;Parham Pashaei;Peyman Servati,58,75.5,13.776728408,100.0,37.0,1,5.0,2.0,3.0,3,4,8.0,5.0,6.0,11.0,10
 UBCV,2018,W,ELEC,315,,OVERALL,Electronic Materials and Devices,,158,78.0,12.39529395,100.0,37.0,1,7.0,5.0,6.0,9,11,22.0,16.0,28.0,22.0,31
-UBCV,2018,W,ELEC,321,,201,Stochastic Signals and Systems,Hoi Yin Eugenia Yu;Jordan Naterer;Lutz Lampe;Mrinmoy Jana;Rabe Arshad,72,66.33333333,17.9796442,99.0,0.0,8,9.0,14.0,4.0,4,5,6.0,2.0,8.0,3.0,9
-UBCV,2018,W,ELEC,321,,OVERALL,Stochastic Signals and Systems,,72,66.33333333,17.9796442,99.0,0.0,8,9.0,14.0,4.0,4,5,6.0,2.0,8.0,3.0,9
-UBCV,2018,W,ELEC,331,,101,Computer Communications,Farshid Agharebparast;Janani Murthy;Lianghui Zhang;Yinjia Huo,56,74.67857143,12.20150087,92.0,40.0,2,1.0,5.0,1.0,4,6,9.0,5.0,8.0,9.0,6
-UBCV,2018,W,ELEC,331,,201,Computer Communications,Deborah Altow;Farhad Dashti Ardakani;Manyou Ma;Wai-Shuen Vincent Wong;Yinjia Huo,75,68.89333333,17.95834018,97.0,7.0,9,3.0,5.0,5.0,6,10,6.0,9.0,5.0,10.0,7
-UBCV,2018,W,ELEC,331,,OVERALL,Computer Communications,,131,71.36641221,15.96303716,97.0,7.0,11,4.0,10.0,6.0,10,16,15.0,14.0,13.0,19.0,13
+UBCV,2018,W,ELEC,321,,201,Stochastic Signals and Systems,Hoi Yin Eugenia Yu;Jordan Naterer;Lutz Lampe;Mrinmoy Jana;Rabe Arshad,72,66.333333333,17.979644202,99.0,0.0,8,9.0,14.0,4.0,4,5,6.0,2.0,8.0,3.0,9
+UBCV,2018,W,ELEC,321,,OVERALL,Stochastic Signals and Systems,,72,66.333333333,17.979644202,99.0,0.0,8,9.0,14.0,4.0,4,5,6.0,2.0,8.0,3.0,9
+UBCV,2018,W,ELEC,331,,101,Computer Communications,Farshid Agharebparast;Janani Murthy;Lianghui Zhang;Yinjia Huo,56,74.678571429,12.201500866,92.0,40.0,2,1.0,5.0,1.0,4,6,9.0,5.0,8.0,9.0,6
+UBCV,2018,W,ELEC,331,,201,Computer Communications,Farhad Dashti Ardakani;Manyou Ma;Wai-Shuen Vincent Wong;Yinjia Huo,75,68.893333333,17.958340179,97.0,7.0,9,3.0,5.0,5.0,6,10,6.0,9.0,5.0,10.0,7
+UBCV,2018,W,ELEC,331,,OVERALL,Computer Communications,,131,71.366412214,15.963037164,97.0,7.0,11,4.0,10.0,6.0,10,16,15.0,14.0,13.0,19.0,13
 UBCV,2018,W,ELEC,341,,101,Systems and Control,Mohammad Najjarzadegan;Siamak Najarian;Su Wang,65,85.0,9.490126448,99.0,53.0,0,1.0,0.0,2.0,2,2,1.0,3.0,14.0,18.0,22
-UBCV,2018,W,ELEC,341,,201,Systems and Control,Edmond Cretu;Kevin Voon;Mohammad Najjarzadegan;Sapna Srinivasan;Su Wang,107,68.58878505,16.03001505,99.0,0.0,12,6.0,8.0,11.0,10,7,14.0,13.0,8.0,9.0,9
-UBCV,2018,W,ELEC,341,,OVERALL,Systems and Control,,172,74.79069767,16.02126969,99.0,0.0,12,7.0,8.0,13.0,12,9,15.0,16.0,22.0,27.0,31
-UBCV,2018,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Juri Jatskevich;Navid Amiri;Seyyedmilad Ebrahimi;Zhi Qu,81,63.13580247,13.69831476,96.0,26.0,16,3.0,7.0,14.0,12,7,9.0,6.0,3.0,1.0,3
-UBCV,2018,W,ELEC,342,,201,Electro-Mechanical Energy Conversion and Transmission,Luis Linares;Mohammad Ali Saket Tokaldani;Navid Amiri;Seyyedmilad Ebrahimi,53,77.33962264,16.4374612,100.0,35.0,4,3.0,2.0,2.0,1,4,3.0,3.0,5.0,10.0,16
-UBCV,2018,W,ELEC,342,,OVERALL,Electro-Mechanical Energy Conversion and Transmission,,134,68.75373134,16.34332614,100.0,26.0,20,6.0,9.0,16.0,13,11,12.0,9.0,8.0,11.0,19
-UBCV,2018,W,ELEC,343,,201,Electromechanics,Hanqing Lin;Juri Jatskevich;Mohammad Mahdavyfakhr,39,79.20512821,11.86365411,93.0,25.0,1,0.0,0.0,1.0,2,3,3.0,6.0,10.0,8.0,5
-UBCV,2018,W,ELEC,343,,OVERALL,Electromechanics,,39,79.20512821,11.86365411,93.0,25.0,1,0.0,0.0,1.0,2,3,3.0,6.0,10.0,8.0,5
-UBCV,2018,W,ELEC,344,,101,Applied Electronics and Electromechanics,Gabriel Ferreira Da Silva;German Bogado;Ignacio Galiano Zurbriggen;Jhih-Da Hsu;Mohammad Ali Saket Tokaldani;Sayed Abbas Arshadi;Sayed Arshadi;Tomas Stavros Syskakis;Tomas Syskakis;William Dunford,93,79.6344086,9.55849832,98.0,36.0,1,0.0,1.0,3.0,5,8,8.0,13.0,21.0,22.0,11
-UBCV,2018,W,ELEC,344,,201,Applied Electronics and Electromechanics,Ignacio Galiano Zurbriggen;Jhih-Da Hsu;Jorge Alejandro May Alvarez;Jorge May Alvarez;Matthieu Amyotte;Sayed Abbas Arshadi;Sayed Arshadi,68,77.33823529,11.59337213,95.0,44.0,1,0.0,5.0,2.0,8,6,5.0,8.0,11.0,13.0,9
-UBCV,2018,W,ELEC,344,,OVERALL,Applied Electronics and Electromechanics,,161,78.66459627,10.49341704,98.0,36.0,2,0.0,6.0,5.0,13,14,13.0,21.0,32.0,35.0,20
-UBCV,2018,W,ELEC,352,,201,Electric Energy Systems,Bo Chen;Sina Chiniforoosh,27,76.96296296,9.154576331,93.0,55.0,0,0.0,1.0,0.0,2,5,4.0,2.0,8.0,2.0,3
-UBCV,2018,W,ELEC,352,,OVERALL,Electric Energy Systems,,27,76.96296296,9.154576331,93.0,55.0,0,0.0,1.0,0.0,2,5,4.0,2.0,8.0,2.0,3
-UBCV,2018,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Jeanie Hakansson Malone;Jeanie Malone;Pramit Saha;Siamak Najarian,29,86.82758621,5.849718952,99.0,70.0,0,0.0,0.0,0.0,0,1,0.0,1.0,8.0,8.0,11
-UBCV,2018,W,ELEC,371,,OVERALL,Biomedical Engineering Instrumentation,,29,86.82758621,5.849718952,99.0,70.0,0,0.0,0.0,0.0,0,1,0.0,1.0,8.0,8.0,11
-UBCV,2018,W,ELEC,391,,201,Electrical Engineering Design Studio II,Amin Ghasemazar;Cristian Sorin Grecu;Francisco Paz;Franco Degioanni;Gabriel Ferreira Da Silva;Ignacio Galiano Zurbriggen;Justin Wyss;Tomas Stavros Syskakis;Tomas Syskakis;Tung Nguyen,108,78.7962963,14.1960632,100.0,8.0,2,2.0,2.0,3.0,3,11,15.0,13.0,17.0,22.0,18
-UBCV,2018,W,ELEC,391,,OVERALL,Electrical Engineering Design Studio II,,108,78.7962963,14.1960632,100.0,8.0,2,2.0,2.0,3.0,3,11,15.0,13.0,17.0,22.0,18
-UBCV,2018,W,ELEC,401,,101,Analog CMOS Integrated Circuit Design,Alireza Asoodeh;Shahriar Mirabbasi,26,82.19230769,12.3288904,98.0,55.0,0,0.0,2.0,0.0,1,3,1.0,1.0,4.0,6.0,8
-UBCV,2018,W,ELEC,401,,OVERALL,Analog CMOS Integrated Circuit Design,,26,82.19230769,12.3288904,98.0,55.0,0,0.0,2.0,0.0,1,3,1.0,1.0,4.0,6.0,8
-UBCV,2018,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi;Septimiu Salcudean;Sudip Shekhar;Ziyu Wang,44,73.47727273,14.60246656,94.0,30.0,2,3.0,4.0,2.0,2,4,3.0,4.0,9.0,7.0,4
-UBCV,2018,W,ELEC,402,,OVERALL,Introduction to VLSI Systems,,44,73.47727273,14.60246656,94.0,30.0,2,3.0,4.0,2.0,2,4,3.0,4.0,9.0,7.0,4
-UBCV,2018,W,ELEC,403,,201,Advanced Digital VLSI Systems,Chen Yuan;Sudip Shekhar,15,73.2,24.09860695,93.0,9.0,2,0.0,1.0,0.0,0,2,0.0,0.0,3.0,2.0,5
-UBCV,2018,W,ELEC,403,,OVERALL,Advanced Digital VLSI Systems,,15,73.2,24.09860695,93.0,9.0,2,0.0,1.0,0.0,0,2,0.0,0.0,3.0,2.0,5
+UBCV,2018,W,ELEC,341,,201,Systems and Control,Edmond Cretu;Kevin Voon;Mohammad Najjarzadegan;Sapna Srinivasan;Su Wang,107,68.588785047,16.030015049,99.0,0.0,12,6.0,8.0,11.0,10,7,14.0,13.0,8.0,9.0,9
+UBCV,2018,W,ELEC,341,,OVERALL,Systems and Control,,172,74.790697674,16.021269692,99.0,0.0,12,7.0,8.0,13.0,12,9,15.0,16.0,22.0,27.0,31
+UBCV,2018,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Juri Jatskevich;Navid Amiri;Seyyedmilad Ebrahimi;Zhi Qu,81,63.135802469,13.698314756,96.0,26.0,16,3.0,7.0,14.0,12,7,9.0,6.0,3.0,1.0,3
+UBCV,2018,W,ELEC,342,,201,Electro-Mechanical Energy Conversion and Transmission,Luis Linares;Mohammad Ali Saket Tokaldani;Navid Amiri;Seyyedmilad Ebrahimi,53,77.339622642,16.437461198,100.0,35.0,4,3.0,2.0,2.0,1,4,3.0,3.0,5.0,10.0,16
+UBCV,2018,W,ELEC,342,,OVERALL,Electro-Mechanical Energy Conversion and Transmission,,134,68.753731343,16.343326139,100.0,26.0,20,6.0,9.0,16.0,13,11,12.0,9.0,8.0,11.0,19
+UBCV,2018,W,ELEC,343,,201,Electromechanics,Hanqing Lin;Juri Jatskevich;Mohammad Mahdavyfakhr,39,79.205128205,11.863654108,93.0,25.0,1,0.0,0.0,1.0,2,3,3.0,6.0,10.0,8.0,5
+UBCV,2018,W,ELEC,343,,OVERALL,Electromechanics,,39,79.205128205,11.863654108,93.0,25.0,1,0.0,0.0,1.0,2,3,3.0,6.0,10.0,8.0,5
+UBCV,2018,W,ELEC,344,,101,Applied Electronics and Electromechanics,Gabriel Ferreira Da Silva;German Bogado;Ignacio Galiano Zurbriggen;Jhih-Da Hsu;Mohammad Ali Saket Tokaldani;Sayed Arshadi;Tomas Syskakis,93,79.634408602,9.55849832,98.0,36.0,1,0.0,1.0,3.0,5,8,8.0,13.0,21.0,22.0,11
+UBCV,2018,W,ELEC,344,,201,Applied Electronics and Electromechanics,Ignacio Galiano Zurbriggen;Jhih-Da Hsu;Jorge Alejandro May Alvarez;Matthieu Amyotte;Sayed Arshadi,68,77.338235294,11.593372134,95.0,44.0,1,0.0,5.0,2.0,8,6,5.0,8.0,11.0,13.0,9
+UBCV,2018,W,ELEC,344,,OVERALL,Applied Electronics and Electromechanics,,161,78.664596273,10.493417043,98.0,36.0,2,0.0,6.0,5.0,13,14,13.0,21.0,32.0,35.0,20
+UBCV,2018,W,ELEC,352,,201,Electric Energy Systems,Bo Chen;Sina Chiniforoosh,27,76.962962963,9.154576331,93.0,55.0,0,0.0,1.0,0.0,2,5,4.0,2.0,8.0,2.0,3
+UBCV,2018,W,ELEC,352,,OVERALL,Electric Energy Systems,,27,76.962962963,9.154576331,93.0,55.0,0,0.0,1.0,0.0,2,5,4.0,2.0,8.0,2.0,3
+UBCV,2018,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Jeanie Hakansson Malone;Jeanie Malone;Pramit Saha;Siamak Najarian,29,86.827586207,5.849718952,99.0,70.0,0,0.0,0.0,0.0,0,1,0.0,1.0,8.0,8.0,11
+UBCV,2018,W,ELEC,371,,OVERALL,Biomedical Engineering Instrumentation,,29,86.827586207,5.849718952,99.0,70.0,0,0.0,0.0,0.0,0,1,0.0,1.0,8.0,8.0,11
+UBCV,2018,W,ELEC,391,,201,Electrical Engineering Design Studio II,Amin Ghasemazar;Cristian Sorin Grecu;Francisco Paz;Franco Degioanni;Gabriel Ferreira Da Silva;Ignacio Galiano Zurbriggen;Justin Wyss;Tomas Syskakis;Tung Nguyen,108,78.796296296,14.196063203,100.0,8.0,2,2.0,2.0,3.0,3,11,15.0,13.0,17.0,22.0,18
+UBCV,2018,W,ELEC,391,,OVERALL,Electrical Engineering Design Studio II,,108,78.796296296,14.196063203,100.0,8.0,2,2.0,2.0,3.0,3,11,15.0,13.0,17.0,22.0,18
+UBCV,2018,W,ELEC,401,,101,Analog CMOS Integrated Circuit Design,Alireza Asoodeh;Shahriar Mirabbasi,26,82.192307692,12.328890399,98.0,55.0,0,0.0,2.0,0.0,1,3,1.0,1.0,4.0,6.0,8
+UBCV,2018,W,ELEC,401,,OVERALL,Analog CMOS Integrated Circuit Design,,26,82.192307692,12.328890399,98.0,55.0,0,0.0,2.0,0.0,1,3,1.0,1.0,4.0,6.0,8
+UBCV,2018,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi;Ziyu Wang,44,73.477272727,14.602466559,94.0,30.0,2,3.0,4.0,2.0,2,4,3.0,4.0,9.0,7.0,4
+UBCV,2018,W,ELEC,402,,OVERALL,Introduction to VLSI Systems,,44,73.477272727,14.602466559,94.0,30.0,2,3.0,4.0,2.0,2,4,3.0,4.0,9.0,7.0,4
+UBCV,2018,W,ELEC,403,,201,Advanced Digital VLSI Systems,Chen Yuan;Sudip Shekhar,15,73.2,24.098606954,93.0,9.0,2,0.0,1.0,0.0,0,2,0.0,0.0,3.0,2.0,5
+UBCV,2018,W,ELEC,403,,OVERALL,Advanced Digital VLSI Systems,,15,73.2,24.098606954,93.0,9.0,2,0.0,1.0,0.0,0,2,0.0,0.0,3.0,2.0,5
 UBCV,2018,W,ELEC,411,,201,Antennas and Propagation,David Michelson;Parham Zarei,27,87.0,7.189736274,100.0,69.0,0,0.0,0.0,0.0,0,1,0.0,4.0,5.0,5.0,12
 UBCV,2018,W,ELEC,411,,OVERALL,Antennas and Propagation,,27,87.0,7.189736274,100.0,69.0,0,0.0,0.0,0.0,0,1,0.0,4.0,5.0,5.0,12
-UBCV,2018,W,ELEC,412,,101,Optical Waveguides and Photonics,Mustafa Hammood;Nicolas A Jaeger,6,83.5,12.70826503,98.0,68.0,0,0.0,0.0,0.0,0,1,1.0,0.0,1.0,1.0,2
-UBCV,2018,W,ELEC,412,,OVERALL,Optical Waveguides and Photonics,,6,83.5,12.70826503,98.0,68.0,0,0.0,0.0,0.0,0,1,1.0,0.0,1.0,1.0,2
+UBCV,2018,W,ELEC,412,,101,Optical Waveguides and Photonics,Mustafa Hammood;Nicolas A Jaeger,6,83.5,12.708265027,98.0,68.0,0,0.0,0.0,0.0,0,1,1.0,0.0,1.0,1.0,2
+UBCV,2018,W,ELEC,412,,OVERALL,Optical Waveguides and Photonics,,6,83.5,12.708265027,98.0,68.0,0,0.0,0.0,0.0,0,1,1.0,0.0,1.0,1.0,2
 UBCV,2018,W,ELEC,413,,201,Semiconductor Lasers,Hossam Shoman;Lukas Chrostowski,17,81.0,8.674675786,96.0,65.0,0,0.0,0.0,0.0,1,1,3.0,1.0,4.0,4.0,3
 UBCV,2018,W,ELEC,413,,OVERALL,Semiconductor Lasers,,17,81.0,8.674675786,96.0,65.0,0,0.0,0.0,0.0,1,1,3.0,1.0,4.0,4.0,3
-UBCV,2018,W,ELEC,415,,201,"Semiconductor Devices: Physics, Design and Analysis",Gabriel Rebello Guerreiro;John Madden;Joseph Salfi,21,75.42857143,9.952745493,86.0,52.0,0,1.0,0.0,2.0,2,2,2.0,2.0,5.0,5.0,0
-UBCV,2018,W,ELEC,415,,OVERALL,"Semiconductor Devices: Physics, Design and Analysis",,21,75.42857143,9.952745493,86.0,52.0,0,1.0,0.0,2.0,2,2,2.0,2.0,5.0,5.0,0
-UBCV,2018,W,ELEC,421,,101,Digital Signal and Image Processing,Houssam El Hariri;Rafeef Garbi;Zhen Wang,27,75.74074074,14.20073831,96.0,42.0,1,0.0,3.0,2.0,2,2,2.0,3.0,3.0,5.0,4
-UBCV,2018,W,ELEC,421,,OVERALL,Digital Signal and Image Processing,,27,75.74074074,14.20073831,96.0,42.0,1,0.0,3.0,2.0,2,2,2.0,3.0,3.0,5.0,4
-UBCV,2018,W,ELEC,422,,201,Biosignals and Systems,Hongzhi Zhu;Zhen Wang,21,76.47619048,12.3151088,95.0,61.0,0,0.0,0.0,5.0,2,2,2.0,0.0,2.0,4.0,4
-UBCV,2018,W,ELEC,422,,OVERALL,Biosignals and Systems,,21,76.47619048,12.3151088,95.0,61.0,0,0.0,0.0,5.0,2,2,2.0,0.0,2.0,4.0,4
-UBCV,2018,W,ELEC,431,,101,Communication Systems I,Cyril Leung;Hany Abdelraheem;Hany Abolmagd Ahmed Abdelraheem;Mostafa Darabi,21,76.33333333,14.43029221,96.0,33.0,1,1.0,0.0,0.0,1,3,1.0,3.0,5.0,3.0,3
-UBCV,2018,W,ELEC,431,,OVERALL,Communication Systems I,,21,76.33333333,14.43029221,96.0,33.0,1,1.0,0.0,0.0,1,3,1.0,3.0,5.0,3.0,3
+UBCV,2018,W,ELEC,415,,201,"Semiconductor Devices: Physics, Design and Analysis",Gabriel Rebello Guerreiro;Joseph Salfi,21,75.428571429,9.952745493,86.0,52.0,0,1.0,0.0,2.0,2,2,2.0,2.0,5.0,5.0,0
+UBCV,2018,W,ELEC,415,,OVERALL,"Semiconductor Devices: Physics, Design and Analysis",,21,75.428571429,9.952745493,86.0,52.0,0,1.0,0.0,2.0,2,2,2.0,2.0,5.0,5.0,0
+UBCV,2018,W,ELEC,421,,101,Digital Signal and Image Processing,Houssam El Hariri;Rafeef Garbi,27,75.740740741,14.200738314,96.0,42.0,1,0.0,3.0,2.0,2,2,2.0,3.0,3.0,5.0,4
+UBCV,2018,W,ELEC,421,,OVERALL,Digital Signal and Image Processing,,27,75.740740741,14.200738314,96.0,42.0,1,0.0,3.0,2.0,2,2,2.0,3.0,3.0,5.0,4
+UBCV,2018,W,ELEC,422,,201,Biosignals and Systems,Hongzhi Zhu;Zhen Wang,21,76.476190476,12.3151088,95.0,61.0,0,0.0,0.0,5.0,2,2,2.0,0.0,2.0,4.0,4
+UBCV,2018,W,ELEC,422,,OVERALL,Biosignals and Systems,,21,76.476190476,12.3151088,95.0,61.0,0,0.0,0.0,5.0,2,2,2.0,0.0,2.0,4.0,4
+UBCV,2018,W,ELEC,431,,101,Communication Systems I,Cyril Leung;Hany Abdelraheem;Mostafa Darabi,21,76.333333333,14.430292212,96.0,33.0,1,1.0,0.0,0.0,1,3,1.0,3.0,5.0,3.0,3
+UBCV,2018,W,ELEC,431,,OVERALL,Communication Systems I,,21,76.333333333,14.430292212,96.0,33.0,1,1.0,0.0,0.0,1,3,1.0,3.0,5.0,3.0,3
 UBCV,2018,W,ELEC,432,,201,Communication Systems II,Hamed Noori;Yair Linn,6,91.5,8.734987121,100.0,77.0,0,0.0,0.0,0.0,0,0,0.0,1.0,0.0,1.0,4
 UBCV,2018,W,ELEC,432,,OVERALL,Communication Systems II,,6,91.5,8.734987121,100.0,77.0,0,0.0,0.0,0.0,0,0,0.0,1.0,0.0,1.0,4
 UBCV,2018,W,ELEC,433,,201,Error Control Coding for Communications and Computers,Kevin Dsouza;Paul Lusina;Vijay Bhargava,10,82.1,9.243015381,95.0,71.0,0,0.0,0.0,0.0,0,1,2.0,2.0,1.0,0.0,4
 UBCV,2018,W,ELEC,433,,OVERALL,Error Control Coding for Communications and Computers,,10,82.1,9.243015381,95.0,71.0,0,0.0,0.0,0.0,0,1,2.0,2.0,1.0,0.0,4
-UBCV,2018,W,ELEC,441,,201,Control Systems,Guy A Dumont;Hamed Shakouri Ganjavi;Mohammad Najjarzadegan;Rubinderjit Singh Nagi;Zahra Shahriari,62,74.01612903,18.90831367,100.0,0.0,5,2.0,4.0,5.0,3,5,5.0,6.0,8.0,6.0,13
-UBCV,2018,W,ELEC,441,,OVERALL,Control Systems,,62,74.01612903,18.90831367,100.0,0.0,5,2.0,4.0,5.0,3,5,5.0,6.0,8.0,6.0,13
-UBCV,2018,W,ELEC,442,,101,Introduction to Robotics,Ankita Rathi;Joseph Yan;Sugun Machipeddy,50,73.66,14.61563323,99.0,27.0,2,3.0,1.0,4.0,5,5,7.0,7.0,6.0,3.0,7
-UBCV,2018,W,ELEC,442,,OVERALL,Introduction to Robotics,,50,73.66,14.61563323,99.0,27.0,2,3.0,1.0,4.0,5,5,7.0,7.0,6.0,3.0,7
-UBCV,2018,W,ELEC,451,,101,Power Electronics,Ettore Scabeni Glitz;Francisco Paz;Franco Degioanni;Martin Ordonez;Sayed Abbas Arshadi;Sayed Arshadi,71,78.09859155,7.950121166,97.0,50.0,0,1.0,0.0,2.0,2,7,12.0,15.0,18.0,9.0,5
-UBCV,2018,W,ELEC,451,,OVERALL,Power Electronics,,71,78.09859155,7.950121166,97.0,50.0,0,1.0,0.0,2.0,2,7,12.0,15.0,18.0,9.0,5
-UBCV,2018,W,ELEC,453,,101,Power System Analysis,Abdullah Al-Digs;Jose Marti,29,83.20689655,7.979345258,95.0,65.0,0,0.0,0.0,0.0,2,1,1.0,4.0,7.0,8.0,6
-UBCV,2018,W,ELEC,453,,OVERALL,Power System Analysis,,29,83.20689655,7.979345258,95.0,65.0,0,0.0,0.0,0.0,2,1,1.0,4.0,7.0,8.0,6
-UBCV,2018,W,ELEC,454,,201,Power System Analysis II,Abdullah Al-Digs;Jose Marti,23,88.30434783,9.799975801,99.0,65.0,0,0.0,0.0,0.0,1,2,0.0,2.0,1.0,2.0,15
-UBCV,2018,W,ELEC,454,,OVERALL,Power System Analysis II,,23,88.30434783,9.799975801,99.0,65.0,0,0.0,0.0,0.0,1,2,0.0,2.0,1.0,2.0,15
-UBCV,2018,W,ELEC,455,,201,Power Systems Protection,Charles Francis Henville;Charles Henville;Mukesh Nagpal,10,84.8,5.391351098,94.0,73.0,0,0.0,0.0,0.0,0,0,1.0,0.0,2.0,6.0,1
+UBCV,2018,W,ELEC,441,,201,Control Systems,Hamed Shakouri Ganjavi;Mohammad Najjarzadegan;Zahra Shahriari,62,74.016129032,18.908313668,100.0,0.0,5,2.0,4.0,5.0,3,5,5.0,6.0,8.0,6.0,13
+UBCV,2018,W,ELEC,441,,OVERALL,Control Systems,,62,74.016129032,18.908313668,100.0,0.0,5,2.0,4.0,5.0,3,5,5.0,6.0,8.0,6.0,13
+UBCV,2018,W,ELEC,442,,101,Introduction to Robotics,Ankita Rathi;Joseph Yan;Sugun Machipeddy,50,73.66,14.615633229,99.0,27.0,2,3.0,1.0,4.0,5,5,7.0,7.0,6.0,3.0,7
+UBCV,2018,W,ELEC,442,,OVERALL,Introduction to Robotics,,50,73.66,14.615633229,99.0,27.0,2,3.0,1.0,4.0,5,5,7.0,7.0,6.0,3.0,7
+UBCV,2018,W,ELEC,451,,101,Power Electronics,Ettore Scabeni Glitz;Francisco Paz;Franco Degioanni;Martin Ordonez;Sayed Arshadi,71,78.098591549,7.950121166,97.0,50.0,0,1.0,0.0,2.0,2,7,12.0,15.0,18.0,9.0,5
+UBCV,2018,W,ELEC,451,,OVERALL,Power Electronics,,71,78.098591549,7.950121166,97.0,50.0,0,1.0,0.0,2.0,2,7,12.0,15.0,18.0,9.0,5
+UBCV,2018,W,ELEC,453,,101,Power System Analysis,Abdullah Al-Digs;Jose Marti,29,83.206896552,7.979345258,95.0,65.0,0,0.0,0.0,0.0,2,1,1.0,4.0,7.0,8.0,6
+UBCV,2018,W,ELEC,453,,OVERALL,Power System Analysis,,29,83.206896552,7.979345258,95.0,65.0,0,0.0,0.0,0.0,2,1,1.0,4.0,7.0,8.0,6
+UBCV,2018,W,ELEC,454,,201,Power System Analysis II,Abdullah Al-Digs;Jose Marti,23,88.304347826,9.799975801,99.0,65.0,0,0.0,0.0,0.0,1,2,0.0,2.0,1.0,2.0,15
+UBCV,2018,W,ELEC,454,,OVERALL,Power System Analysis II,,23,88.304347826,9.799975801,99.0,65.0,0,0.0,0.0,0.0,1,2,0.0,2.0,1.0,2.0,15
+UBCV,2018,W,ELEC,455,,201,Power Systems Protection,Charles Henville;Mukesh Nagpal,10,84.8,5.391351098,94.0,73.0,0,0.0,0.0,0.0,0,0,1.0,0.0,2.0,6.0,1
 UBCV,2018,W,ELEC,455,,OVERALL,Power Systems Protection,,10,84.8,5.391351098,94.0,73.0,0,0.0,0.0,0.0,0,0,1.0,0.0,2.0,6.0,1
-UBCV,2018,W,ELEC,456,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi;Xing Liang,6,70.5,11.6747591,86.0,58.0,0,0.0,2.0,0.0,1,0,1.0,0.0,1.0,1.0,0
-UBCV,2018,W,ELEC,456,,OVERALL,Decision Support Methods in Power Systems Operation,,6,70.5,11.6747591,86.0,58.0,0,0.0,2.0,0.0,1,0,1.0,0.0,1.0,1.0,0
-UBCV,2018,W,ELEC,457,,101,Optimization of Power System Operation,Ebrahim Vaahedi;Xing Liang,17,75.0,11.55422001,93.0,53.0,0,1.0,1.0,1.0,1,2,3.0,1.0,2.0,3.0,2
-UBCV,2018,W,ELEC,457,,OVERALL,Optimization of Power System Operation,,17,75.0,11.55422001,93.0,53.0,0,1.0,1.0,1.0,1,2,3.0,1.0,2.0,3.0,2
-UBCV,2018,W,ELEC,462,,101,Sensors and Actuators in Microsystems,Boris Stoeber;Saeedeh Ebrahimi Takalloo,44,78.34090909,13.35027773,100.0,50.0,0,2.0,1.0,3.0,3,4,6.0,2.0,8.0,3.0,12
-UBCV,2018,W,ELEC,462,,OVERALL,Sensors and Actuators in Microsystems,,44,78.34090909,13.35027773,100.0,50.0,0,2.0,1.0,3.0,3,4,6.0,2.0,8.0,3.0,12
-UBCV,2018,W,ELEC,463,,101,Micro/Nanofabrication and Instrumentation Laboratory,Donald Witt;Enxiao Luan;Jaspreet Jhoja;Lukas Chrostowski,13,78.61538462,9.561541556,95.0,64.0,0,0.0,0.0,0.0,2,2,1.0,1.0,3.0,2.0,2
-UBCV,2018,W,ELEC,463,,OVERALL,Micro/Nanofabrication and Instrumentation Laboratory,,13,78.61538462,9.561541556,95.0,64.0,0,0.0,0.0,0.0,2,2,1.0,1.0,3.0,2.0,2
-UBCV,2018,W,ELEC,471,,101,Medical Imaging,Ricky Hu;Robert Rohling,24,85.29166667,8.18524211,97.0,62.0,0,0.0,0.0,1.0,0,0,3.0,1.0,3.0,7.0,9
-UBCV,2018,W,ELEC,471,,OVERALL,Medical Imaging,,24,85.29166667,8.18524211,97.0,62.0,0,0.0,0.0,1.0,0,0,3.0,1.0,3.0,7.0,9
-UBCV,2018,W,ELEC,473,,101,Biological Micro-Electro-Mechanical Systems,Jessica Hua;Juri Jatskevich;Karen Cheung,33,72.6969697,11.52032131,92.0,43.0,1,1.0,1.0,3.0,4,5,4.0,2.0,6.0,4.0,2
-UBCV,2018,W,ELEC,473,,OVERALL,Biological Micro-Electro-Mechanical Systems,,33,72.6969697,11.52032131,92.0,43.0,1,1.0,1.0,3.0,4,5,4.0,2.0,6.0,4.0,2
-UBCV,2018,W,ELEC,481,,101,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Ian Lederer;Kelleen Wiseman;Thi Hong Van Nguyen;Xiao Han,66,77.42424242,14.27322464,96.0,17.0,3,0.0,0.0,1.0,6,7,6.0,5.0,16.0,12.0,10
-UBCV,2018,W,ELEC,481,,201,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Hanyu Wang;Ian Lederer;Kelleen Wiseman;Thi Hong Van Nguyen;Xiao Han,76,78.84210526,12.10515332,97.0,35.0,1,2.0,2.0,1.0,5,9,10.0,1.0,15.0,9.0,21
-UBCV,2018,W,ELEC,481,,OVERALL,Economic Analysis of Engineering Projects,,142,78.18309859,13.12872424,97.0,17.0,4,2.0,2.0,2.0,11,16,16.0,6.0,31.0,21.0,31
-UBCV,2018,W,ELEC,491,,001,Electrical Engineering Capstone Design Project,Abigail Hayward;Abigail Louise Hayward;Amin Ghasemazar;Avery Noonan;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Jan Hammer;Jorge Lozano Rodriguez;Jorge Luis Lozano Rodriguez;Joseph Yan;Kallan Lyons;Katharine Maginley;Katharine Suzanne Maginley;Laurabelle Kakulu;Maria Celeste Garcia Perez;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Pedram Mohammadi;Philippe Kruchten;Pieter Botman;Stylianos Ploumis;Terry Lee;Xin Zhou,111,82.27027027,6.77823515,94.0,55.0,0,0.0,1.0,2.0,1,4,3.0,19.0,39.0,27.0,15
+UBCV,2018,W,ELEC,456,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi;Xing Liang,6,70.5,11.674759098,86.0,58.0,0,0.0,2.0,0.0,1,0,1.0,0.0,1.0,1.0,0
+UBCV,2018,W,ELEC,456,,OVERALL,Decision Support Methods in Power Systems Operation,,6,70.5,11.674759098,86.0,58.0,0,0.0,2.0,0.0,1,0,1.0,0.0,1.0,1.0,0
+UBCV,2018,W,ELEC,457,,101,Optimization of Power System Operation,Ebrahim Vaahedi;Xing Liang,17,75.0,11.554220008,93.0,53.0,0,1.0,1.0,1.0,1,2,3.0,1.0,2.0,3.0,2
+UBCV,2018,W,ELEC,457,,OVERALL,Optimization of Power System Operation,,17,75.0,11.554220008,93.0,53.0,0,1.0,1.0,1.0,1,2,3.0,1.0,2.0,3.0,2
+UBCV,2018,W,ELEC,462,,101,Sensors and Actuators in Microsystems,Boris Stoeber;Saeedeh Ebrahimi Takalloo,44,78.340909091,13.350277729,100.0,50.0,0,2.0,1.0,3.0,3,4,6.0,2.0,8.0,3.0,12
+UBCV,2018,W,ELEC,462,,OVERALL,Sensors and Actuators in Microsystems,,44,78.340909091,13.350277729,100.0,50.0,0,2.0,1.0,3.0,3,4,6.0,2.0,8.0,3.0,12
+UBCV,2018,W,ELEC,463,,101,Micro/Nanofabrication and Instrumentation Laboratory,Donald Witt;Enxiao Luan;Jaspreet Jhoja;Lukas Chrostowski,13,78.615384615,9.561541556,95.0,64.0,0,0.0,0.0,0.0,2,2,1.0,1.0,3.0,2.0,2
+UBCV,2018,W,ELEC,463,,OVERALL,Micro/Nanofabrication and Instrumentation Laboratory,,13,78.615384615,9.561541556,95.0,64.0,0,0.0,0.0,0.0,2,2,1.0,1.0,3.0,2.0,2
+UBCV,2018,W,ELEC,471,,101,Medical Imaging,Ricky Hu;Robert Rohling,24,85.291666667,8.18524211,97.0,62.0,0,0.0,0.0,1.0,0,0,3.0,1.0,3.0,7.0,9
+UBCV,2018,W,ELEC,471,,OVERALL,Medical Imaging,,24,85.291666667,8.18524211,97.0,62.0,0,0.0,0.0,1.0,0,0,3.0,1.0,3.0,7.0,9
+UBCV,2018,W,ELEC,473,,101,Biological Micro-Electro-Mechanical Systems,Jessica Hua;Juri Jatskevich;Karen Cheung,33,72.696969697,11.520321308,92.0,43.0,1,1.0,1.0,3.0,4,5,4.0,2.0,6.0,4.0,2
+UBCV,2018,W,ELEC,473,,OVERALL,Biological Micro-Electro-Mechanical Systems,,33,72.696969697,11.520321308,92.0,43.0,1,1.0,1.0,3.0,4,5,4.0,2.0,6.0,4.0,2
+UBCV,2018,W,ELEC,481,,101,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Ian Lederer;Kelleen Wiseman;Thi Hong Van Nguyen;Xiao Han,66,77.424242424,14.273224644,96.0,17.0,3,0.0,0.0,1.0,6,7,6.0,5.0,16.0,12.0,10
+UBCV,2018,W,ELEC,481,,201,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Hanyu Wang;Ian Lederer;Kelleen Wiseman;Thi Hong Van Nguyen;Xiao Han,76,78.842105263,12.105153318,97.0,35.0,1,2.0,2.0,1.0,5,9,10.0,1.0,15.0,9.0,21
+UBCV,2018,W,ELEC,481,,OVERALL,Economic Analysis of Engineering Projects,,142,78.183098592,13.128724243,97.0,17.0,4,2.0,2.0,2.0,11,16,16.0,6.0,31.0,21.0,31
+UBCV,2018,W,ELEC,491,,001,Electrical Engineering Capstone Design Project,Abigail Hayward;Amin Ghasemazar;Avery Noonan;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Jan Hammer;Jorge Lozano Rodriguez;Joseph Yan;Kallan Lyons;Katharine Maginley;Laurabelle Kakulu;Maria Celeste Garcia Perez;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Pedram Mohammadi;Philippe Kruchten;Pieter Botman;Stylianos Ploumis;Terry Lee;Xin Zhou,111,82.27027027,6.77823515,94.0,55.0,0,0.0,1.0,2.0,1,4,3.0,19.0,39.0,27.0,15
 UBCV,2018,W,ELEC,491,,OVERALL,Electrical Engineering Capstone Design Project,,111,82.27027027,6.77823515,94.0,55.0,0,0.0,1.0,2.0,1,4,3.0,19.0,39.0,27.0,15
-UBCV,2018,W,ELEC,494,,001,Biomedical Engineering Capstone Design Project,Abigail Hayward;Abigail Louise Hayward;Amin Ghasemazar;Avery Noonan;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Jan Hammer;Jorge Lozano Rodriguez;Jorge Luis Lozano Rodriguez;Joseph Yan;Kallan Lyons;Katharine Maginley;Katharine Suzanne Maginley;Laurabelle Kakulu;Maria Celeste Garcia Perez;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Pedram Mohammadi;Philippe Kruchten;Pieter Botman;Stylianos Ploumis;Terry Lee;Xin Zhou,16,86.6875,4.686416541,93.0,81.0,0,0.0,0.0,0.0,0,0,0.0,0.0,6.0,5.0,5
+UBCV,2018,W,ELEC,494,,001,Biomedical Engineering Capstone Design Project,Abigail Hayward;Amin Ghasemazar;Avery Noonan;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Jan Hammer;Jorge Lozano Rodriguez;Joseph Yan;Kallan Lyons;Katharine Maginley;Laurabelle Kakulu;Maria Celeste Garcia Perez;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Pedram Mohammadi;Philippe Kruchten;Pieter Botman;Stylianos Ploumis;Terry Lee;Xin Zhou,16,86.6875,4.686416541,93.0,81.0,0,0.0,0.0,0.0,0,0,0.0,0.0,6.0,5.0,5
 UBCV,2018,W,ELEC,494,,OVERALL,Biomedical Engineering Capstone Design Project,,16,86.6875,4.686416541,93.0,81.0,0,0.0,0.0,0.0,0,0,0.0,0.0,6.0,5.0,5
 UBCV,2018,W,ELEC,507,,101,Mixed-Signal and RF Integrated Circuits and Systems Test,Roberto Rosales,8,88.625,9.679691554,95.0,68.0,0,0.0,0.0,0.0,0,1,0.0,0.0,1.0,0.0,6
 UBCV,2018,W,ELEC,507,,OVERALL,Mixed-Signal and RF Integrated Circuits and Systems Test,,8,88.625,9.679691554,95.0,68.0,0,0.0,0.0,0.0,0,1,0.0,0.0,1.0,0.0,6
-UBCV,2018,W,ELEC,523,,101,Medical Imaging,Parisa Asgharzadeh;Siamak Najarian,33,88.09090909,4.964647749,94.0,73.0,0,0.0,0.0,0.0,0,0,1.0,1.0,5.0,11.0,15
-UBCV,2018,W,ELEC,523,,OVERALL,Medical Imaging,,33,88.09090909,4.964647749,94.0,73.0,0,0.0,0.0,0.0,0,0,1.0,1.0,5.0,11.0,15
+UBCV,2018,W,ELEC,523,,101,Medical Imaging,Parisa Asgharzadeh;Siamak Najarian,33,88.090909091,4.964647749,94.0,73.0,0,0.0,0.0,0.0,0,0,1.0,1.0,5.0,11.0,15
+UBCV,2018,W,ELEC,523,,OVERALL,Medical Imaging,,33,88.090909091,4.964647749,94.0,73.0,0,0.0,0.0,0.0,0,0,1.0,1.0,5.0,11.0,15
 UBCV,2018,W,ELEC,524,,101,Advanced Biophotonics,Shuo Tang,10,83.4,7.890923055,95.0,70.0,0,0.0,0.0,0.0,0,1,1.0,0.0,2.0,3.0,3
 UBCV,2018,W,ELEC,524,,OVERALL,Advanced Biophotonics,,10,83.4,7.890923055,95.0,70.0,0,0.0,0.0,0.0,0,1,1.0,0.0,2.0,3.0,3
-UBCV,2018,W,ELEC,544,,101,Advanced Microsystems Design,Edmond Cretu,7,80.28571429,12.5261631,96.0,60.0,0,0.0,0.0,1.0,0,1,0.0,1.0,1.0,1.0,2
-UBCV,2018,W,ELEC,544,,OVERALL,Advanced Microsystems Design,,7,80.28571429,12.5261631,96.0,60.0,0,0.0,0.0,1.0,0,1,0.0,1.0,1.0,1.0,2
-UBCV,2018,W,ELEC,574,,201,Self-Tuning Control,Guy A Dumont,6,91.16666667,4.020779361,96.0,85.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,2.0,4
-UBCV,2018,W,ELEC,574,,OVERALL,Self-Tuning Control,,6,91.16666667,4.020779361,96.0,85.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,2.0,4
+UBCV,2018,W,ELEC,544,,101,Advanced Microsystems Design,Edmond Cretu,7,80.285714286,12.526163096,96.0,60.0,0,0.0,0.0,1.0,0,1,0.0,1.0,1.0,1.0,2
+UBCV,2018,W,ELEC,544,,OVERALL,Advanced Microsystems Design,,7,80.285714286,12.526163096,96.0,60.0,0,0.0,0.0,1.0,0,1,0.0,1.0,1.0,1.0,2
+UBCV,2018,W,ELEC,574,,201,Self-Tuning Control,Guy A Dumont,6,91.166666667,4.020779361,96.0,85.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,2.0,4
+UBCV,2018,W,ELEC,574,,OVERALL,Self-Tuning Control,,6,91.166666667,4.020779361,96.0,85.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,2.0,4

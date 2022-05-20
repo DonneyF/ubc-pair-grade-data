@@ -1,67 +1,72 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,ARCH,404,A,001,Topics in Architectural History I (Pre-1900),Angus Derocher;Kathryn Hunks;Sara Stevens,21,85.14285714,3.811636319,92.0,75.0,0,0,0,0,0,0,1,1,4,14,1
-UBCV,2020,W,ARCH,404,A,OVERALL,Topics in Architectural History I (Pre-1900),,21,85.14285714,3.811636319,92.0,75.0,0,0,0,0,0,0,1,1,4,14,1
-UBCV,2020,W,ARCH,411,,001,Materials and Methods of Construction,Alexander Turton;Bill Pechet,27,84.07407407,3.551012054,90.0,70.0,0,0,0,0,0,1,0,0,12,12,2
-UBCV,2020,W,ARCH,411,,OVERALL,Materials and Methods of Construction,,27,84.07407407,3.551012054,90.0,70.0,0,0,0,0,0,1,0,0,12,12,2
-UBCV,2020,W,ARCH,500,,001,Architectural Design Studio I,Bill Pechet;Joanne Gates;Laura Killam,39,85.71794872,3.845357542,90.0,70.0,0,0,0,0,0,1,0.0,1,11,22,4
-UBCV,2020,W,ARCH,500,,OVERALL,Architectural Design Studio I,,39,85.71794872,3.845357542,90.0,70.0,0,0,0,0,0,1,0.0,1,11,22,4
-UBCV,2020,W,ARCH,501,,010,Architectural Design Studio II,John Bass,9,83.77777778,1.787300882,87.0,81.0,0,0,0,0,0,0,0,0,7,2,0
-UBCV,2020,W,ARCH,501,,011,Architectural Design Studio II,Joanne Gates,9,84.88888889,2.02758751,89.0,82.0,0,0,0,0,0,0,0,0,5,4,0
+UBCV,2020,W,ARCH,404,A,001,Topics in Architectural History I (Pre-1900),Angus Derocher;Kathryn Hunks;Sara Stevens,21,85.142857143,3.811636319,92.0,75.0,0,0,0,0,0,0,1,1,4,14,1
+UBCV,2020,W,ARCH,404,A,OVERALL,Topics in Architectural History I (Pre-1900),,21,85.142857143,3.811636319,92.0,75.0,0,0,0,0,0,0,1,1,4,14,1
+UBCV,2020,W,ARCH,411,,001,Materials and Methods of Construction,Alexander Turton;Bill Pechet,27,84.074074074,3.551012054,90.0,70.0,0,0,0,0,0,1,0,0,12,12,2
+UBCV,2020,W,ARCH,411,,OVERALL,Materials and Methods of Construction,,27,84.074074074,3.551012054,90.0,70.0,0,0,0,0,0,1,0,0,12,12,2
+UBCV,2020,W,ARCH,500,,001,Architectural Design Studio I,Bill Pechet;Joanne Gates;Laura Killam,39,85.717948718,3.845357542,90.0,70.0,0,0,0,0,0,1,0.0,1,11,22,4
+UBCV,2020,W,ARCH,500,,OVERALL,Architectural Design Studio I,,39,85.717948718,3.845357542,90.0,70.0,0,0,0,0,0,1,0.0,1,11,22,4
+UBCV,2020,W,ARCH,501,,010,Architectural Design Studio II,John Bass,9,83.777777778,1.787300882,87.0,81.0,0,0,0,0,0,0,0,0,7,2,0
+UBCV,2020,W,ARCH,501,,011,Architectural Design Studio II,Joanne Gates,9,84.888888889,2.02758751,89.0,82.0,0,0,0,0,0,0,0,0,5,4,0
 UBCV,2020,W,ARCH,501,,012,Architectural Design Studio II,Thena Tak,7,84.0,1.825741858,87.0,81.0,0,0,0,0,0,0,0,0,5,2,0
-UBCV,2020,W,ARCH,501,,013,Architectural Design Studio II,Christopher Macdonald,9,86.66666667,1.414213562,89.0,84.0,0,0,0,0,0,0,0,0,1,8,0
-UBCV,2020,W,ARCH,501,,OVERALL,Architectural Design Studio II,,34,84.88235294,2.056249983,89.0,81.0,0,0,0,0,0,0,0,0,18,16,0
-UBCV,2020,W,ARCH,504,A,001,Topics in Architectural History I (Pre-1900),Angus Derocher;Kathryn Hunks;Sara Stevens,22,86.18181818,3.141676283,89.0,75.0,0,0,0,0,0,0,1,0.0,4,17,0
-UBCV,2020,W,ARCH,504,A,OVERALL,Topics in Architectural History I (Pre-1900),,22,86.18181818,3.141676283,89.0,75.0,0,0,0,0,0,0,1,0.0,4,17,0
-UBCV,2020,W,ARCH,504,G,101,Topics in Architectural History I (Pre-1900),Angus Derocher;Sara Stevens,21,80.38095238,8.446751982,89.0,51.0,0,,,,1,,,4,9,6,0
-UBCV,2020,W,ARCH,504,G,OVERALL,Topics in Architectural History I (Pre-1900),,21,80.38095238,8.446751982,89.0,51.0,0,,,,1,,,4,9,6,0
-UBCV,2020,W,ARCH,505,H,001,Topics in Architectural History II (1900-Present),Renata Kisin;Tijana Vujosevic,19,81.78947368,17.75318108,92.0,26.0,2,0,0,0,0,0,0,0,3,10,4
-UBCV,2020,W,ARCH,505,H,OVERALL,Topics in Architectural History II (1900-Present),,19,81.78947368,17.75318108,92.0,26.0,2,0,0,0,0,0,0,0,3,10,4
-UBCV,2020,W,ARCH,511,,001,Architectural Technology I,Gregory Johnson;Thomas Foster;William Hansen,36,89.63888889,3.432223584,95.0,83.0,0,0,0,0,0,0,0,0,3,14,19
-UBCV,2020,W,ARCH,511,,OVERALL,Architectural Technology I,,36,89.63888889,3.432223584,95.0,83.0,0,0,0,0,0,0,0,0,3,14,19
-UBCV,2020,W,ARCH,512,,001,Structures I,Annalisa Meyboom;Emma Durham,29,90.86206897,4.445898093,98.0,80.0,0,0,0,0,0,0,0,0,3,8,18
-UBCV,2020,W,ARCH,512,,OVERALL,Structures I,,29,90.86206897,4.445898093,98.0,80.0,0,0,0,0,0,0,0,0,3,8,18
+UBCV,2020,W,ARCH,501,,013,Architectural Design Studio II,Christopher Macdonald,9,86.666666667,1.414213562,89.0,84.0,0,0,0,0,0,0,0,0,1,8,0
+UBCV,2020,W,ARCH,501,,OVERALL,Architectural Design Studio II,,34,84.882352941,2.056249983,89.0,81.0,0,0,0,0,0,0,0,0,18,16,0
+UBCV,2020,W,ARCH,504,A,001,Topics in Architectural History I (Pre-1900),Angus Derocher;Kathryn Hunks;Sara Stevens,23,86.217391304,3.074181661,89.0,75.0,0,0,0,0,0,0,1,0.0,4,18,0
+UBCV,2020,W,ARCH,504,A,OVERALL,Topics in Architectural History I (Pre-1900),,23,86.217391304,3.074181661,89.0,75.0,0,0,0,0,0,0,1,0.0,4,18,0
+UBCV,2020,W,ARCH,504,G,101,Topics in Architectural History I (Pre-1900),Angus Derocher;Sara Stevens,21,80.380952381,8.446751982,89.0,51.0,0,,,,1,,,4,9,6,0
+UBCV,2020,W,ARCH,504,G,OVERALL,Topics in Architectural History I (Pre-1900),,21,80.380952381,8.446751982,89.0,51.0,0,,,,1,,,4,9,6,0
+UBCV,2020,W,ARCH,505,H,001,Topics in Architectural History II (1900-Present),Renata Kisin;Tijana Vujosevic,19,84.473684211,11.658894654,92.0,39.0,1,0,0,0,0,0,0,1,3,10,4
+UBCV,2020,W,ARCH,505,H,OVERALL,Topics in Architectural History II (1900-Present),,19,84.473684211,11.658894654,92.0,39.0,1,0,0,0,0,0,0,1,3,10,4
+UBCV,2020,W,ARCH,511,,001,Architectural Technology I,Gregory Johnson;Thomas Foster;William Hansen,36,89.638888889,3.432223584,95.0,83.0,0,0,0,0,0,0,0,0,3,14,19
+UBCV,2020,W,ARCH,511,,OVERALL,Architectural Technology I,,36,89.638888889,3.432223584,95.0,83.0,0,0,0,0,0,0,0,0,3,14,19
+UBCV,2020,W,ARCH,512,,001,Structures I,Annalisa Meyboom;Emma Durham,31,88.161290323,14.47088289,98.0,14.0,1,0,0,0,0,0,0,0,4,8,18
+UBCV,2020,W,ARCH,512,,OVERALL,Structures I,,31,88.161290323,14.47088289,98.0,14.0,1,0,0,0,0,0,0,0,4,8,18
 UBCV,2020,W,ARCH,513,,001,Environmental Systems and Controls I,Adam Rysanek;Sanyogita Manu,53,86.0,5.363695626,97.0,76.0,0,0,0,0,0,0,0,5,20,10,18
 UBCV,2020,W,ARCH,513,,OVERALL,Environmental Systems and Controls I,,53,86.0,5.363695626,97.0,76.0,0,0,0,0,0,0,0,5,20,10,18
-UBCV,2020,W,ARCH,515,,001,Design Media I,Blair Satterfield;Bodeuk Jung;Christen Oakes;Lisa Kusaka;Parker Albanese;Thena Tak;Tyler Dellebuur,37,81.40540541,2.290796313,85.0,75.0,0,0,0,0,0,0,1,7,28,1,0
-UBCV,2020,W,ARCH,515,,002,Design Media I,Christen Oakes;Sstephanie Braconnier;Stephanie Braconnier,18,86.94444444,7.415978157,96.0,71.0,0,0,0,0,0,2,0,0,4,3,9
-UBCV,2020,W,ARCH,515,,OVERALL,Design Media I,,55,83.21818182,5.262343194,96.0,71.0,0,0,0,0,0,2,1,7,32,4,9
-UBCV,2020,W,ARCH,517,,001,Design Media II,Jason Heinrich;Parker Albanese;Rachel Killoh;Sarah Klym;Thena Tak,36,83.47222222,4.741826719,88.0,59.0,0,0,,,,,,1,18,16,0
-UBCV,2020,W,ARCH,517,,002,Design Media II,Annie Liang;Christen Oakes;Grace Morazzani Diaz;Stephanie Braconnier,18,90.61111111,2.592724864,96.0,86.0,0,0,0,0,0,0,0,0,0,5,13
-UBCV,2020,W,ARCH,517,,OVERALL,Design Media II,,54,85.85185185,5.342628169,96.0,59.0,0,0,,,,,,1,18,21,13
-UBCV,2020,W,ARCH,520,,002,Architectural Design Studio III,John Bass,9,85.11111111,2.088327348,88.0,82.0,0,0,0,0,0,0,0,0,2,7,0
-UBCV,2020,W,ARCH,520,,003,Architectural Design Studio III,Mari Fujita,11,84.63636364,4.105428778,90.0,77.0,0,0,0,0,0,0,0,2,2,6,1
-UBCV,2020,W,ARCH,520,,004,Architectural Design Studio III,Inge Roecker,7,88.0,4.163331999,94.0,80.0,0,0,0,0,0,0,0,0,1,4,2
+UBCV,2020,W,ARCH,515,,001,Design Media I,Blair Satterfield;Bodeuk Jung;Christen Oakes;Lisa Kusaka;Parker Albanese;Thena Tak;Tyler Dellebuur,37,81.405405405,2.290796313,85.0,75.0,0,0,0,0,0,0,1,7,28,1,0
+UBCV,2020,W,ARCH,515,,002,Design Media I,Christen Oakes;Sstephanie Braconnier;Stephanie Braconnier,18,86.944444444,7.415978157,96.0,71.0,0,0,0,0,0,2,0,0,4,3,9
+UBCV,2020,W,ARCH,515,,OVERALL,Design Media I,,55,83.218181818,5.262343194,96.0,71.0,0,0,0,0,0,2,1,7,32,4,9
+UBCV,2020,W,ARCH,517,,001,Design Media II,Jason Heinrich;Parker Albanese;Rachel Killoh;Sarah Klym;Thena Tak,36,83.666666667,4.816637832,88.0,59.0,0,0,,,,,,1,18,16,0
+UBCV,2020,W,ARCH,517,,002,Design Media II,Annie Liang;Christen Oakes;Grace Morazzani Diaz;Stephanie Braconnier,18,90.611111111,2.592724864,96.0,86.0,0,0,0,0,0,0,0,0,0,5,13
+UBCV,2020,W,ARCH,517,,OVERALL,Design Media II,,54,85.981481481,5.328778191,96.0,59.0,0,0,,,,,,1,18,21,13
+UBCV,2020,W,ARCH,520,,002,Architectural Design Studio III,John Bass,9,85.111111111,2.088327348,88.0,82.0,0,0,0,0,0,0,0,0,2,7,0
+UBCV,2020,W,ARCH,520,,003,Architectural Design Studio III,Mari Fujita,11,84.636363636,4.105428778,90.0,77.0,0,0,0,0,0,0,0,2,2,6,1
+UBCV,2020,W,ARCH,520,,004,Architectural Design Studio III,Inge Roecker,8,86.75,5.230405611,94.0,78.0,0,0,0,0,0,0,0,1,1,4,2
 UBCV,2020,W,ARCH,520,,005,Architectural Design Studio III,Christopher Macdonald,9,87.0,0.0,87.0,87.0,0,0,0,0,0,0,0,0,0,9,0
 UBCV,2020,W,ARCH,520,,007,Architectural Design Studio III,Chad Christopher Manley;Chad Manley;Daniel Irvine,7,83.0,3.415650255,88.0,79.0,0,0,0,0,0,0,0,2,2,3,0
 UBCV,2020,W,ARCH,520,,008,Architectural Design Studio III,Beryl Allen Dick;James Huemoeller,8,88.5,3.251373336,93.0,84.0,0,0,0,0,0,0,0,0,1,3,4
-UBCV,2020,W,ARCH,520,,OVERALL,Architectural Design Studio III,,57,85.80701754,3.651998457,94.0,77.0,0,0,0,0,0,0,0,5,10,35,7
-UBCV,2020,W,ARCH,521,,009,Architectural Design Studio IV,Inge Roecker;James Huemoeller;Laura Killam;Matthew Soules;Peeroj Thakre,68,81.60294118,5.431087151,90.0,69.0,0,0,0,0,0,5,1,16,22,20,4
-UBCV,2020,W,ARCH,521,,OVERALL,Architectural Design Studio IV,,68,81.60294118,5.431087151,90.0,69.0,0,0,0,0,0,5,1,16,22,20,4
+UBCV,2020,W,ARCH,520,,OVERALL,Architectural Design Studio III,,58,85.672413793,3.762175234,94.0,77.0,0,0,0,0,0,0,0,6,10,35,7
+UBCV,2020,W,ARCH,521,,009,Architectural Design Studio IV,Inge Roecker;James Huemoeller;Laura Killam;Matthew Soules;Peeroj Thakre,70,81.542857143,5.465798042,90.0,69.0,0,0,0,0,0,6,1,16,23,20,4
+UBCV,2020,W,ARCH,521,,OVERALL,Architectural Design Studio IV,,70,81.542857143,5.465798042,90.0,69.0,0,0,0,0,0,6,1,16,23,20,4
 UBCV,2020,W,ARCH,523,,001,Contemporary Theories in Architecture,Angus Derocher;Christina Gray;Joyce Drohan;Tania Gutierrez Monroy,57,84.01754386,3.925608361,90.0,76.0,0,0,0,0,0,0,0,7,24,17,9
 UBCV,2020,W,ARCH,523,,OVERALL,Contemporary Theories in Architecture,,57,84.01754386,3.925608361,90.0,76.0,0,0,0,0,0,0,0,7,24,17,9
-UBCV,2020,W,ARCH,531,,001,Architectural Technology II,Brant York;Gregory Johnson;Lanna Fitzgerald,39,88.69230769,4.40187667,98.0,78.0,0,0,0,0,0,0,0,1,9,7,22
-UBCV,2020,W,ARCH,531,,OVERALL,Architectural Technology II,,39,88.69230769,4.40187667,98.0,78.0,0,0,0,0,0,0,0,1,9,7,22
-UBCV,2020,W,ARCH,532,,001,Architectural Structures II,Annalisa Meyboom;Tsz Wai Szeto,64,84.53125,6.182332097,95.0,65.0,0,0,0,0,1,0.0,3,11,15,19,15
-UBCV,2020,W,ARCH,532,,OVERALL,Architectural Structures II,,64,84.53125,6.182332097,95.0,65.0,0,0,0,0,1,0.0,3,11,15,19,15
+UBCV,2020,W,ARCH,531,,001,Architectural Technology II,Brant York;Gregory Johnson;Lanna Fitzgerald,69,86.188405797,5.81143741,98.0,72.0,0,0,0,0,0,0,5,5,17,18,24
+UBCV,2020,W,ARCH,531,,OVERALL,Architectural Technology II,,69,86.188405797,5.81143741,98.0,72.0,0,0,0,0,0,0,5,5,17,18,24
+UBCV,2020,W,ARCH,532,,001,Architectural Structures II,Annalisa Meyboom;Tsz Wai Szeto,65,84.292307692,6.429237603,95.0,65.0,0,0,0,0,1,1,3,11,15,19,15
+UBCV,2020,W,ARCH,532,,OVERALL,Architectural Structures II,,65,84.292307692,6.429237603,95.0,65.0,0,0,0,0,1,1,3,11,15,19,15
+UBCV,2020,W,ARCH,533,,001,Environmental Systems and Controls II,Adam Rysanek;Sanyogita Manu,69,84.144927536,4.525338344,91.0,75.0,0,0,0,0,0,0,2,7,25,24,11
+UBCV,2020,W,ARCH,533,,OVERALL,Environmental Systems and Controls II,,69,84.144927536,4.525338344,91.0,75.0,0,0,0,0,0,0,2,7,25,24,11
 UBCV,2020,W,ARCH,540,,004,Architectural Design Studio V,Inge Roecker,6,88.0,4.195235393,92.0,80.0,0,0,0,0,0,0,0,0,1,2,3
-UBCV,2020,W,ARCH,540,,006,Architectural Design Studio V,Leslie Van Duzer,9,84.11111111,3.257470048,87.0,77.0,0,0,0,0,0,0,0,1,3,5,0
-UBCV,2020,W,ARCH,540,,007,Architectural Design Studio V,Chad Christopher Manley;Chad Manley;Daniel Irvine,11,85.72727273,2.901410315,90.0,81.0,0,0,0,0,0,0,0,0,4,5,2
+UBCV,2020,W,ARCH,540,,006,Architectural Design Studio V,Leslie Van Duzer,9,84.111111111,3.257470048,87.0,77.0,0,0,0,0,0,0,0,1,3,5,0
+UBCV,2020,W,ARCH,540,,007,Architectural Design Studio V,Chad Christopher Manley;Chad Manley;Daniel Irvine,11,85.727272727,2.901410315,90.0,81.0,0,0,0,0,0,0,0,0,4,5,2
 UBCV,2020,W,ARCH,540,,008,Architectural Design Studio V,Beryl Allen Dick;James Huemoeller,8,88.125,2.90012315,93.0,83.0,0,0,0,0,0,0,0,0,1,5,2
-UBCV,2020,W,ARCH,540,,101,Architectural Design Studio V,Thena Tak,14,85.35714286,4.845412467,90.0,71.0,0,0,0,0,0,1,0,0,4,6,3
-UBCV,2020,W,ARCH,540,,OVERALL,Architectural Design Studio V,,58,85.68965517,3.912225088,93.0,71.0,0,0,0,0,0,1,0.0,2,16,29,10
-UBCV,2020,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Nicholas Paczkowski;Nicholas Saraiva Martino,52,86.23076923,4.680436483,96.0,74.0,0,0,0,0,0,0,2,3,9,25,13
-UBCV,2020,W,ARCH,541,,OVERALL,Professional Practice,,52,86.23076923,4.680436483,96.0,74.0,0,0,0,0,0,0,2,3,9,25,13
-UBCV,2020,W,ARCH,544,B,001,Seminar in Architecture,Patrick Stewart,13,80.84615385,5.970010523,90.0,68.0,0,0,0,0,0,1,1,2,5,3,1
-UBCV,2020,W,ARCH,544,B,OVERALL,Seminar in Architecture,,13,80.84615385,5.970010523,90.0,68.0,0,0,0,0,0,1,1,2,5,3,1
-UBCV,2020,W,ARCH,548,,001,Graduate Project Part I,Halley Sveinson;Hee Suk Lee;Kees Lokman;Mari Fujita;Matthew Soules;Sylvia Coleman,38,82.18421053,3.740611766,90.0,76.0,0,0,0,0,0,0,0,5,22,9,2
-UBCV,2020,W,ARCH,548,,OVERALL,Graduate Project Part I,,38,82.18421053,3.740611766,90.0,76.0,0,0,0,0,0,0,0,5,22,9,2
-UBCV,2020,W,ARCH,549,,001,Graduate Project Part II,Annalisa Meyboom,21,84.71428571,3.770183777,90.0,78.0,0,0,0,0,0,0,0,2,8,10,1
-UBCV,2020,W,ARCH,549,,003,Graduate Project Part II,Annalisa Meyboom,34,85.88235294,3.245180164,91.0,76.0,0,0,0,0,0,0,0,1,9,18,6
-UBCV,2020,W,ARCH,549,,OVERALL,Graduate Project Part II,,55,85.43636364,3.468181487,91.0,76.0,0,0,0,0,0,0,0,3,17,28,7
-UBCV,2020,W,ARCH,568,,001,Research Methods,Allison Bernice Earl;Leslie Van Duzer;Thena Tak;Zahra Asghari,27,86.85185185,2.298891099,90.0,82.0,0,0,0,0,0,0,0,0,3,21,3
-UBCV,2020,W,ARCH,568,,OVERALL,Research Methods,,27,86.85185185,2.298891099,90.0,82.0,0,0,0,0,0,0,0,0,3,21,3
-UBCV,2020,W,ARCH,571,A,001,Seminar: Technology and Analysis,Gregory Johnson,18,88.05555556,2.363253545,92.0,84.0,0,0,0,0,0,0,0,0,1,11,6
-UBCV,2020,W,ARCH,571,A,OVERALL,Seminar: Technology and Analysis,,18,88.05555556,2.363253545,92.0,84.0,0,0,0,0,0,0,0,0,1,11,6
+UBCV,2020,W,ARCH,540,,101,Architectural Design Studio V,Thena Tak,14,85.357142857,4.845412467,90.0,71.0,0,0,0,0,0,1,0,0,4,6,3
+UBCV,2020,W,ARCH,540,,OVERALL,Architectural Design Studio V,,59,85.610169492,3.926114817,93.0,71.0,0,0,0,0,0,1,0.0,2,17,29,10
+UBCV,2020,W,ARCH,541,,002,Professional Practice,Cynthia Girling;Nicholas Paczkowski;Nicholas Saraiva Martino,52,86.230769231,4.680436483,96.0,74.0,0,0,0,0,0,0,2,3,9,25,13
+UBCV,2020,W,ARCH,541,,OVERALL,Professional Practice,,52,86.230769231,4.680436483,96.0,74.0,0,0,0,0,0,0,2,3,9,25,13
+UBCV,2020,W,ARCH,544,B,001,Seminar in Architecture,Patrick Stewart,13,80.846153846,5.970010523,90.0,68.0,0,0,0,0,0,1,1,2,5,3,1
+UBCV,2020,W,ARCH,544,B,OVERALL,Seminar in Architecture,,13,80.846153846,5.970010523,90.0,68.0,0,0,0,0,0,1,1,2,5,3,1
+UBCV,2020,W,ARCH,548,,001,Graduate Project Part I,Halley Sveinson;Hee Suk Lee;Kees Lokman;Mari Fujita;Matthew Soules;Sylvia Coleman,38,82.184210526,3.740611766,90.0,76.0,0,0,0,0,0,0,0,5,22,9,2
+UBCV,2020,W,ARCH,548,,002,Graduate Project Part I,Sara Stevens,16,78.9375,15.075228025,90.0,24.0,1,0,0,0,0,0,0,3,8,3,1
+UBCV,2020,W,ARCH,548,,OVERALL,Graduate Project Part I,,54,81.222222222,8.736535013,90.0,24.0,1,0,0,0,0,0,0,8,30,12,3
+UBCV,2020,W,ARCH,549,,001,Graduate Project Part II,Annalisa Meyboom,21,84.714285714,3.770183777,90.0,78.0,0,0,0,0,0,0,0,2,8,10,1
+UBCV,2020,W,ARCH,549,,003,Graduate Project Part II,Annalisa Meyboom,34,85.882352941,3.245180164,91.0,76.0,0,0,0,0,0,0,0,1,9,18,6
+UBCV,2020,W,ARCH,549,,OVERALL,Graduate Project Part II,,55,85.436363636,3.468181487,91.0,76.0,0,0,0,0,0,0,0,3,17,28,7
+UBCV,2020,W,ARCH,568,,001,Research Methods,Allison Bernice Earl;Leslie Van Duzer;Thena Tak;Zahra Asghari,28,86.821428571,2.261654121,90.0,82.0,0,0,0,0,0,0,0,0,3,22,3
+UBCV,2020,W,ARCH,568,,OVERALL,Research Methods,,28,86.821428571,2.261654121,90.0,82.0,0,0,0,0,0,0,0,0,3,22,3
+UBCV,2020,W,ARCH,571,A,001,Seminar: Technology and Analysis,Gregory Johnson,18,88.055555556,2.363253545,92.0,84.0,0,0,0,0,0,0,0,0,1,11,6
+UBCV,2020,W,ARCH,571,A,OVERALL,Seminar: Technology and Analysis,,18,88.055555556,2.363253545,92.0,84.0,0,0,0,0,0,0,0,0,1,11,6
+UBCV,2020,W,ARCH,571,B,001,Seminar: Technology and Analysis,Gregory Johnson,6,81.333333333,10.538817138,88.0,62.0,0,0,0,1,0,0,0,1,0,4,0
+UBCV,2020,W,ARCH,571,B,OVERALL,Seminar: Technology and Analysis,,6,81.333333333,10.538817138,88.0,62.0,0,0,0,1,0,0,0,1,0,4,0
 UBCV,2020,W,ARCH,597,F,001,Special Topics,Brendan Buchanan Dee;Renata Kisin;Tijana Vujosevic,60,86.2,2.967621886,92.0,79.0,0,0,0,0,0,0,0,1,17,35,7
 UBCV,2020,W,ARCH,597,F,OVERALL,Special Topics,,60,86.2,2.967621886,92.0,79.0,0,0,0,0,0,0,0,1,17,35,7
-UBCV,2020,W,ARCH,598,,OVERALL,Research Thesis,,6,85.33333333,4.320493799,90.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2020,W,ARCH,598,,OVERALL,Research Thesis,,6,85.333333333,4.320493799,90.0,78.0,0,0,0,0,0,0,0,,,,

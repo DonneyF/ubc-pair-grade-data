@@ -1,0 +1,66 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,W,CHEM,111,,001,Principles of Chemistry I,Heather Ng-Cornish;Paige Dafoe;Tamara Kunz,59,70.86440678,17.879344302,96.0,15.0,10,1.0,2.0,5.0,3.0,2,6.0,9,6,10,5
+UBCO,2021,W,CHEM,111,,002,Principles of Chemistry I,Heather Ng-Cornish;Paige Dafoe;Tamara Kunz,54,66.944444444,16.801186691,96.0,15.0,10,1.0,3.0,5.0,6.0,9,5.0,3,2,7,3
+UBCO,2021,W,CHEM,111,,OVERALL,Principles of Chemistry I,,113,68.991150442,17.406636447,96.0,15.0,20,2.0,5.0,10.0,9.0,11,11.0,12,8,17,8
+UBCO,2021,W,CHEM,113,,001,Principles of Chemistry II,Paige Dafoe;Peter Ohemeng;Riley Petillion;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,40,66.675,14.050070718,90.0,41.0,9,0.0,3.0,2.0,4.0,3,6.0,4,6,2,1
+UBCO,2021,W,CHEM,113,,002,Principles of Chemistry II,Paige Dafoe;Peter Ohemeng;Riley Petillion;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,42,68.833333333,14.909346662,91.0,34.0,8,0.0,2.0,4.0,5.0,4,3.0,3,5,4,4
+UBCO,2021,W,CHEM,113,,OVERALL,Principles of Chemistry II,,82,67.780487805,14.447883685,91.0,34.0,17,0.0,5.0,6.0,9.0,7,9.0,7,11,6,5
+UBCO,2021,W,CHEM,121,,001,Atomic and Molecular Chemistry,Alireza Sadeghifar;Tamara Freeman;Tamara Kunz,281,74.288256228,13.388914824,97.0,15.0,21,2.0,10.0,19.0,19.0,24,32.0,35,58,39,22
+UBCO,2021,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,261,72.701149425,15.304183648,99.0,0.0,31,1.0,4.0,23.0,16.0,24,36.0,32,40,29,25
+UBCO,2021,W,CHEM,121,,OVERALL,Atomic and Molecular Chemistry,,542,73.52398524,14.351746285,99.0,0.0,52,3.0,14.0,42.0,35.0,48,68.0,67,98,68,47
+UBCO,2021,W,CHEM,123,,001,Physical and Organic Chemistry,Alireza Sadeghifar;Paige Dafoe;Peter Ohemeng;Riley Petillion;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,264,70.223484848,13.205571815,100.0,8.0,22,1.0,23.0,31.0,30.0,26,32.0,28,31,24,16
+UBCO,2021,W,CHEM,123,,002,Physical and Organic Chemistry,Paige Dafoe;Peter Ohemeng;Riley Petillion;Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,218,67.151376147,16.05319564,98.0,0.0,33,3.0,11.0,29.0,25.0,27,23.0,14,28,12,13
+UBCO,2021,W,CHEM,123,,OVERALL,Physical and Organic Chemistry,,482,68.834024896,14.62722677,100.0,0.0,55,4.0,34.0,60.0,55.0,53,55.0,42,59,36,29
+UBCO,2021,W,CHEM,201,,001,Introduction to Physical Chemistry,David Jack;Eduardo Romero Montalvo;Grace Loo;Jessica Zarama Buritica;Jillian Shillito;Milad Goodarzi;Scott Stussi;Sofia Ventosa;Tolulope Kola-Ilesanmi;Ziyi Zhang,118,66.025423729,17.043163837,99.0,0.0,13,18.0,9.0,9.0,8.0,11,12.0,9,12,10,7
+UBCO,2021,W,CHEM,201,,OVERALL,Introduction to Physical Chemistry,,118,66.025423729,17.043163837,99.0,0.0,13,18.0,9.0,9.0,8.0,11,12.0,9,12,10,7
+UBCO,2021,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,112,69.875,18.371602156,95.0,10.0,22,1.0,2.0,6.0,6.0,12,7.0,13,19,16,8
+UBCO,2021,W,CHEM,203,,OVERALL,Introduction to Organic Chemistry,,112,69.875,18.371602156,95.0,10.0,22,1.0,2.0,6.0,6.0,12,7.0,13,19,16,8
+UBCO,2021,W,CHEM,204,,001,Organic Chemistry,Edward Neeland;Jackline Irungu,100,71.81,14.722822934,93.0,13.0,10,3.0,0.0,6.0,8.0,17,10.0,11,19,11,5
+UBCO,2021,W,CHEM,204,,OVERALL,Organic Chemistry,,100,71.81,14.722822934,93.0,13.0,10,3.0,0.0,6.0,8.0,17,10.0,11,19,11,5
+UBCO,2021,W,CHEM,211,,001,Analytical Chemistry,,47,69.680851064,16.517587969,92.0,5.0,4,1.0,2.0,4.0,6.0,6,6.0,8,3,3,4
+UBCO,2021,W,CHEM,211,,OVERALL,Analytical Chemistry,,47,69.680851064,16.517587969,92.0,5.0,4,1.0,2.0,4.0,6.0,6,6.0,8,3,3,4
+UBCO,2021,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Edward Neeland;Paul Shipley,193,69.875647668,18.506616996,100.0,19.0,37,4.0,9.0,6.0,15.0,20,19.0,17,18,16,32
+UBCO,2021,W,CHEM,213,,OVERALL,Organic Chemistry for Biological Sciences I,,193,69.875647668,18.506616996,100.0,19.0,37,4.0,9.0,6.0,15.0,20,19.0,17,18,16,32
+UBCO,2021,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,James Herriman;Tamara Freeman;Tamara Kunz,144,70.5625,16.48551759,98.0,14.0,22,0.0,8.0,15.0,12.0,12,9.0,16,14,16,20
+UBCO,2021,W,CHEM,214,,OVERALL,Organic Chemistry for Biological Sciences II,,144,70.5625,16.48551759,98.0,14.0,22,0.0,8.0,15.0,12.0,12,9.0,16,14,16,20
+UBCO,2021,W,CHEM,220,,001,Atomic Structure and Molecular Bonding,Madison Pankratz;Simona Mastroianni;W. Stephen Mcneil,42,62.69047619,24.968749341,99.0,0.0,10,1.0,4.0,0.0,2.0,6,6.0,3,3,2,5
+UBCO,2021,W,CHEM,220,,OVERALL,Atomic Structure and Molecular Bonding,,42,62.69047619,24.968749341,99.0,0.0,10,1.0,4.0,0.0,2.0,6,6.0,3,3,2,5
+UBCO,2021,W,CHEM,301,,001,Aqueous Environmental Chemistry,Karen Perry;Robert Szilagyi,19,79.210526316,19.34935815,95.0,17.0,2,0.0,1.0,0.0,0.0,0,1.0,1,4,4,6
+UBCO,2021,W,CHEM,301,,OVERALL,Aqueous Environmental Chemistry,,19,79.210526316,19.34935815,95.0,17.0,2,0.0,1.0,0.0,0.0,0,1.0,1,4,4,6
+UBCO,2021,W,CHEM,302,,001,Atmospheric Environmental Chemistry,Karen Perry,18,76.666666667,15.628029118,97.0,34.0,1,1.0,0.0,1.0,0.0,3,1.0,2,3,2,4
+UBCO,2021,W,CHEM,302,,OVERALL,Atmospheric Environmental Chemistry,,18,76.666666667,15.628029118,97.0,34.0,1,1.0,0.0,1.0,0.0,3,1.0,2,3,2,4
+UBCO,2021,W,CHEM,304,,001,Advanced Physical Chemistry,David Jack,20,75.05,10.303167627,94.0,56.0,0,0.0,1.0,3.0,0.0,2,5.0,3,1,3,2
+UBCO,2021,W,CHEM,304,,OVERALL,Advanced Physical Chemistry,,20,75.05,10.303167627,94.0,56.0,0,0.0,1.0,3.0,0.0,2,5.0,3,1,3,2
+UBCO,2021,W,CHEM,305,,001,Biophysical Chemistry,David Jack,14,67.214285714,15.826844631,96.0,41.0,2,1.0,1.0,2.0,0.0,1,4.0,1,0,1,1
+UBCO,2021,W,CHEM,305,,OVERALL,Biophysical Chemistry,,14,67.214285714,15.826844631,96.0,41.0,2,1.0,1.0,2.0,0.0,1,4.0,1,0,1,1
+UBCO,2021,W,CHEM,311,,001,Instrumental Analytical Chemistry,Benjamin Noyovitz;Ezra Sebastian;Harrison Meeres;Jackline Irungu;Wesley Zandberg,30,74.6,10.233818177,90.0,49.0,2,0.0,0.0,2.0,2.0,3,5.0,7,3,5,1
+UBCO,2021,W,CHEM,311,,OVERALL,Instrumental Analytical Chemistry,,30,74.6,10.233818177,90.0,49.0,2,0.0,0.0,2.0,2.0,3,5.0,7,3,5,1
+UBCO,2021,W,CHEM,312,,001,Introduction to Quantum Mechanics and Spectroscopy,David Jack,18,72.555555556,12.645493139,92.0,42.0,1,1.0,0.0,2.0,2.0,0,4.0,2,4,1,1
+UBCO,2021,W,CHEM,312,,OVERALL,Introduction to Quantum Mechanics and Spectroscopy,,18,72.555555556,12.645493139,92.0,42.0,1,1.0,0.0,2.0,2.0,0,4.0,2,4,1,1
+UBCO,2021,W,CHEM,317,,001,Environmental Physical Organic Chemistry,Kara Robinson;Paul Shipley,31,74.193548387,11.347303218,95.0,45.0,1,1.0,1.0,2.0,2.0,3,4.0,6,6,2,3
+UBCO,2021,W,CHEM,317,,OVERALL,Environmental Physical Organic Chemistry,,31,74.193548387,11.347303218,95.0,45.0,1,1.0,1.0,2.0,2.0,3,4.0,6,6,2,3
+UBCO,2021,W,CHEM,330,,001,Advanced Organic Chemistry,Frederic Menard,23,80.52173913,15.240107269,100.0,43.0,2,0.0,0.0,2.0,0.0,0,0.0,4,5,4,6
+UBCO,2021,W,CHEM,330,,OVERALL,Advanced Organic Chemistry,,23,80.52173913,15.240107269,100.0,43.0,2,0.0,0.0,2.0,0.0,0,0.0,4,5,4,6
+UBCO,2021,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland;Paul Shipley;Thomas Head,52,74.865384615,14.780788865,95.0,36.0,3,2.0,1.0,4.0,3.0,6,8.0,1,7,9,8
+UBCO,2021,W,CHEM,333,,OVERALL,Spectroscopic Techniques in Organic Chemistry,,52,74.865384615,14.780788865,95.0,36.0,3,2.0,1.0,4.0,3.0,6,8.0,1,7,9,8
+UBCO,2021,W,CHEM,335,,001,Bioinorganic Chemistry,Scott Stussi;W. Stephen Mcneil,42,76.285714286,18.342654161,99.0,0.0,2,0.0,3.0,3.0,3.0,1,5.0,3,7,4,11
+UBCO,2021,W,CHEM,335,,OVERALL,Bioinorganic Chemistry,,42,76.285714286,18.342654161,99.0,0.0,2,0.0,3.0,3.0,3.0,1,5.0,3,7,4,11
+UBCO,2021,W,CHEM,336,,101,Green Inorganic Chemistry,Kevin Michael Smith,24,70.375,15.081841947,92.0,23.0,2,1.0,0.0,0.0,5.0,3,5.0,2,3,1,2
+UBCO,2021,W,CHEM,336,,OVERALL,Green Inorganic Chemistry,,24,70.375,15.081841947,92.0,23.0,2,1.0,0.0,0.0,5.0,3,5.0,2,3,1,2
+UBCO,2021,W,CHEM,338,,001,Organometallic Chemistry,Kevin Michael Smith,27,70.740740741,13.446739933,96.0,24.0,1,2.0,1.0,1.0,1.0,6,7.0,3,2,2,1
+UBCO,2021,W,CHEM,338,,OVERALL,Organometallic Chemistry,,27,70.740740741,13.446739933,96.0,24.0,1,2.0,1.0,1.0,1.0,6,7.0,3,2,2,1
+UBCO,2021,W,CHEM,403,,101,Enzymology,Kirsten Wolthers,10,66.5,14.592616093,87.0,47.0,1,2.0,0.0,3.0,0.0,0,0.0,1,2,1,0
+UBCO,2021,W,CHEM,403,,OVERALL,Enzymology,,10,66.5,14.592616093,87.0,47.0,1,2.0,0.0,3.0,0.0,0,0.0,1,2,1,0
+UBCO,2021,W,CHEM,422,K,101,Special Topics in Chemistry,Robert Godin,8,80.625,9.334077351,93.0,67.0,0,0.0,0.0,0.0,1.0,1,0.0,1,2,1,2
+UBCO,2021,W,CHEM,422,K,OVERALL,Special Topics in Chemistry,,8,80.625,9.334077351,93.0,67.0,0,0.0,0.0,0.0,1.0,1,0.0,1,2,1,2
+UBCO,2021,W,CHEM,422,V,101,Special Topics in Chemistry,Frederic Menard,8,91.875,4.998213967,97.0,82.0,0,0.0,0.0,0.0,0.0,0,0.0,0,1,1,6
+UBCO,2021,W,CHEM,422,V,OVERALL,Special Topics in Chemistry,,8,91.875,4.998213967,97.0,82.0,0,0.0,0.0,0.0,0.0,0,0.0,0,1,1,6
+UBCO,2021,W,CHEM,429,,001,Main Group Chemistry,Conor Pranckevicius,13,70.307692308,10.48319779,95.0,60.0,0,0.0,0.0,4.0,2.0,3,1.0,0,2,0,1
+UBCO,2021,W,CHEM,429,,OVERALL,Main Group Chemistry,,13,70.307692308,10.48319779,95.0,60.0,0,0.0,0.0,4.0,2.0,3,1.0,0,2,0,1
+UBCO,2021,W,CHEM,449,,OVERALL,Honours Thesis,,7,87.714285714,4.38612531,93.0,80.0,0,0.0,0.0,0.0,0.0,0,0.0,0,,,
+UBCO,2021,W,CHEM,461,,001,Advanced Analytical Chemistry Laboratory,Benjamin Noyovitz;Matthew Mcconnachie;T. Don Nguyen,19,86.736842105,5.445100808,93.0,77.0,0,0.0,0.0,0.0,0.0,0,0.0,2,5,4,8
+UBCO,2021,W,CHEM,461,,OVERALL,Advanced Analytical Chemistry Laboratory,,19,86.736842105,5.445100808,93.0,77.0,0,0.0,0.0,0.0,0.0,0,0.0,2,5,4,8
+UBCO,2021,W,CHEM,462,,001,Advanced Inorganic Chemistry Laboratory,Anthony Tardif;Conor Pranckevicius;Kadie Wert;Vigneshkumar Pattathil Narayanan,13,77.692307692,11.700317769,92.0,43.0,1,0.0,0.0,0.0,0.0,0,1.0,6,2,2,1
+UBCO,2021,W,CHEM,462,,OVERALL,Advanced Inorganic Chemistry Laboratory,,13,77.692307692,11.700317769,92.0,43.0,1,0.0,0.0,0.0,0.0,0,1.0,6,2,2,1
+UBCO,2021,W,CHEM,463,,001,Advanced Organic Chemistry Laboratory,Edward Neeland;Riley Petillion,9,78.555555556,13.519533194,94.0,55.0,0,0.0,1.0,0.0,2.0,0,0.0,0,2,2,2
+UBCO,2021,W,CHEM,463,,OVERALL,Advanced Organic Chemistry Laboratory,,9,78.555555556,13.519533194,94.0,55.0,0,0.0,1.0,0.0,2.0,0,0.0,0,2,2,2

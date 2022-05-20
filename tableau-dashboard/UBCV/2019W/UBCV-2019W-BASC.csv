@@ -1,23 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,BASC,500,,001,Process Fundamentals,Aylin Mumcular;Harish Krishnan,57,83.54385965,3.595980769,91.0,77.0,0,0,0,0,0.0,0,0.0,9,22,23,3
+UBCV,2019,W,BASC,500,,001,Process Fundamentals,Aylin Mumcular;Harish Krishnan,57,83.543859649,3.595980769,91.0,77.0,0,0,0,0,0.0,0,0.0,9,22,23,3
 UBCV,2019,W,BASC,500,,301,Process Fundamentals,Aylin Mumcular;Harish Krishnan,40,83.6,2.658320272,88.0,76.0,0,0,0,0,0.0,0,0.0,3,20,17,0
-UBCV,2019,W,BASC,500,,BA1,Process Fundamentals,Aylin Mumcular;Harish Krishnan,47,82.95744681,2.449112056,88.0,78.0,0,0,0,0,0.0,0,0.0,1,33,13,0
-UBCV,2019,W,BASC,500,,OVERALL,Process Fundamentals,,144,83.36805556,3.000574602,91.0,76.0,0,0,0,0,0.0,0,0.0,13,75,53,3
-UBCV,2019,W,BASC,523,,001,Supply Chain Management,Aylin Mumcular;Harish Krishnan,42,83.90476191,2.648603164,89.0,78.0,0,0,0,0,0.0,0,0.0,2,22,18,0
-UBCV,2019,W,BASC,523,,818,Supply Chain Management,S Thomas Mccormick,37,79.02702703,3.616985289,85.0,72.0,0,0,0,0,0.0,0,8.0,9,19,1,0
-UBCV,2019,W,BASC,523,,BA1,Supply Chain Management,Aylin Mumcular;Harish Krishnan,47,83.72340426,3.437024292,91.0,71.0,0,0,0,0,0.0,1,0.0,3,24,18,1
-UBCV,2019,W,BASC,523,,DD1,Supply Chain Management,Christopher Ryan;S Thomas Mccormick;Yash Gupta,37,82.51351351,6.265521268,93.0,72.0,0,0,0,0,0.0,0,7.0,7,7,10,6
-UBCV,2019,W,BASC,523,,DD2,Supply Chain Management,Christopher Ryan;Yash Gupta,37,81.89189189,5.162814606,92.0,71.0,0,0,0,0,0.0,1,2.0,12,8,12,2
-UBCV,2019,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan;Sanjith Gopalakrishnan,47,78.53191489,6.185013669,90.0,65.0,0,0,0,0,2.0,4,10.0,8,13,9,1
-UBCV,2019,W,BASC,523,,OVERALL,Supply Chain Management,,247,81.60728745,5.176128322,93.0,65.0,0,0,0,0,2.0,6,27.0,41,93,68,10
-UBCV,2019,W,BASC,524,,001,Supply Chain Analytics,Harish Krishnan,36,82.27777778,6.943079231,93.0,60.0,0,0,0,1,0.0,4,1.0,2,12,14,2
-UBCV,2019,W,BASC,524,,OVERALL,Supply Chain Analytics,,36,82.27777778,6.943079231,93.0,60.0,0,0,0,1,0.0,4,1.0,2,12,14,2
+UBCV,2019,W,BASC,500,,BA1,Process Fundamentals,Aylin Mumcular;Harish Krishnan,47,82.957446809,2.449112056,88.0,78.0,0,0,0,0,0.0,0,0.0,1,33,13,0
+UBCV,2019,W,BASC,500,,OVERALL,Process Fundamentals,,144,83.368055556,3.000574602,91.0,76.0,0,0,0,0,0.0,0,0.0,13,75,53,3
+UBCV,2019,W,BASC,523,,001,Supply Chain Management,Aylin Mumcular;Harish Krishnan,42,83.904761905,2.648603164,89.0,78.0,0,0,0,0,0.0,0,0.0,2,22,18,0
+UBCV,2019,W,BASC,523,,818,Supply Chain Management,S Thomas Mccormick,37,79.027027027,3.616985289,85.0,72.0,0,0,0,0,0.0,0,8.0,9,19,1,0
+UBCV,2019,W,BASC,523,,BA1,Supply Chain Management,Aylin Mumcular;Harish Krishnan,47,83.723404255,3.437024292,91.0,71.0,0,0,0,0,0.0,1,0.0,3,24,18,1
+UBCV,2019,W,BASC,523,,DD1,Supply Chain Management,Christopher Ryan;S Thomas Mccormick;Yash Gupta,37,82.513513514,6.265521268,93.0,72.0,0,0,0,0,0.0,0,7.0,7,7,10,6
+UBCV,2019,W,BASC,523,,DD2,Supply Chain Management,Christopher Ryan;Yash Gupta,37,81.891891892,5.162814606,92.0,71.0,0,0,0,0,0.0,1,2.0,12,8,12,2
+UBCV,2019,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan;Sanjith Gopalakrishnan,47,78.531914894,6.185013669,90.0,65.0,0,0,0,0,2.0,4,10.0,8,13,9,1
+UBCV,2019,W,BASC,523,,OVERALL,Supply Chain Management,,247,81.607287449,5.176128322,93.0,65.0,0,0,0,0,2.0,6,27.0,41,93,68,10
+UBCV,2019,W,BASC,524,,001,Supply Chain Analytics,Harish Krishnan,36,82.277777778,6.943079231,93.0,60.0,0,0,0,1,0.0,4,1.0,2,12,14,2
+UBCV,2019,W,BASC,524,,OVERALL,Supply Chain Analytics,,36,82.277777778,6.943079231,93.0,60.0,0,0,0,1,0.0,4,1.0,2,12,14,2
 UBCV,2019,W,BASC,525,,302,Supply Chain Strategy and Analytics,Harish Krishnan,20,82.35,1.980829172,87.0,80.0,0,0,0,0,0.0,0,0.0,0,18,2,0
 UBCV,2019,W,BASC,525,,OVERALL,Supply Chain Strategy and Analytics,,20,82.35,1.980829172,87.0,80.0,0,0,0,0,0.0,0,0.0,0,18,2,0
 UBCV,2019,W,BASC,550,,001,Operations,Christopher Ryan;Gregory Werker;Yash Gupta,49,84.12244898,4.815913954,94.0,74.0,0,0,0,0,0.0,0,1.0,7,18,15,8
 UBCV,2019,W,BASC,550,,002,Operations,Christopher Ryan;Gregory Werker;Yash Gupta,49,83.87755102,4.608111748,97.0,72.0,0,0,0,0,0.0,0,2.0,5,19,18,5
-UBCV,2019,W,BASC,550,,201,Operations,Bernard Maroney;Srinivas Krishnamoorthy,35,78.71428571,6.613584187,90.0,64.0,0,0,0,0,2.0,2,6.0,8,8,7,2
-UBCV,2019,W,BASC,550,,DD1,Operations,Woonghee Tim Huh,37,83.32432432,5.759311562,96.0,76.0,0,0,0,0,0.0,0,0.0,9,12,8,8
+UBCV,2019,W,BASC,550,,201,Operations,Bernard Maroney;Srinivas Krishnamoorthy,35,78.714285714,6.613584187,90.0,64.0,0,0,0,0,2.0,2,6.0,8,8,7,2
+UBCV,2019,W,BASC,550,,DD1,Operations,Woonghee Tim Huh,37,83.324324324,5.759311562,96.0,76.0,0,0,0,0,0.0,0,0.0,9,12,8,8
 UBCV,2019,W,BASC,550,,DD2,Operations,Woonghee Tim Huh,37,83.0,5.104464277,95.0,76.0,0,0,0,0,0.0,0,0.0,7,16,8,6
-UBCV,2019,W,BASC,550,,MM1,Operations,Sha Liao;Xinyuan Zhang;Yiwen Jin,47,84.40425532,8.50488242,95.0,60.0,0,0,0,2,1.0,2,0.0,5,13,6,18
-UBCV,2019,W,BASC,550,,OVERALL,Operations,,254,83.10236221,6.260276479,97.0,60.0,0,0,0,2,3.0,4,9.0,41,86,62,47
+UBCV,2019,W,BASC,550,,MM1,Operations,Sha Liao;Xinyuan Zhang;Yiwen Jin,47,84.404255319,8.50488242,95.0,60.0,0,0,0,2,1.0,2,0.0,5,13,6,18
+UBCV,2019,W,BASC,550,,OVERALL,Operations,,254,83.102362205,6.260276479,97.0,60.0,0,0,0,2,3.0,4,9.0,41,86,62,47

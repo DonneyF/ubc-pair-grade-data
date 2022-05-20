@@ -1,15 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,BASM,501,,820,Business Strategy,Darren Dahl,30,81.53333333,5.124204452,90.0,70.0,0,0,0,0,0,2,3,2.0,15,7,1
-UBCV,2020,W,BASM,501,,OVERALL,Business Strategy,,30,81.53333333,5.124204452,90.0,70.0,0,0,0,0,0,2,3,2.0,15,7,1
+UBCV,2020,W,BASM,501,,001,Business Strategy,Alvaro Parra Perez;Mohammed Basil Tungekar,18,87.777777778,4.58328877,96.0,81.0,0,0,0,0,0,0,0,0.0,4,8,6
+UBCV,2020,W,BASM,501,,002,Business Strategy,Alvaro Parra Perez;Mohammed Basil Tungekar,20,87.4,4.429565738,95.0,80.0,0,0,0,0,0,0,0,0.0,5,9,6
+UBCV,2020,W,BASM,501,,820,Business Strategy,Darren Dahl,31,80.580645161,7.315618878,90.0,52.0,0,,,,,2,3,2.0,15,7,1
+UBCV,2020,W,BASM,501,,OVERALL,Business Strategy,,69,84.434782609,6.830894914,96.0,52.0,0,,,,,2,3,2.0,24,24,13
 UBCV,2020,W,BASM,502,,819,Corporate Strategy,Adam Pankratz;Benedict Tan,31,80.0,1.843908891,83.0,77.0,0,0,0,0,0,0,0,10.0,21,0,0
 UBCV,2020,W,BASM,502,,OVERALL,Corporate Strategy,,31,80.0,1.843908891,83.0,77.0,0,0,0,0,0,0,0,10.0,21,0,0
-UBCV,2020,W,BASM,510,,001,Consulting Simulation,Philippe Arrata,38,87.47368421,4.566250115,98.0,73.0,0,0,0,0,0,0,1,0.0,5,24,8
-UBCV,2020,W,BASM,510,,OVERALL,Consulting Simulation,,38,87.47368421,4.566250115,98.0,73.0,0,0,0,0,0,0,1,0.0,5,24,8
-UBCV,2020,W,BASM,514,,301,Strategy in Organizations,Adam Pankratz;David Weiss;Parmjot Gill,52,81.01923077,2.623352029,86.0,75.0,0,0,0,0,0,0,1,8.0,34,9,0
-UBCV,2020,W,BASM,514,,OVERALL,Strategy in Organizations,,52,81.01923077,2.623352029,86.0,75.0,0,0,0,0,0,0,1,8.0,34,9,0
+UBCV,2020,W,BASM,510,,001,Consulting Simulation,Philippe Arrata,38,87.473684211,4.566250115,98.0,73.0,0,0,0,0,0,0,1,0.0,5,24,8
+UBCV,2020,W,BASM,510,,OVERALL,Consulting Simulation,,38,87.473684211,4.566250115,98.0,73.0,0,0,0,0,0,0,1,0.0,5,24,8
+UBCV,2020,W,BASM,514,,301,Strategy in Organizations,Adam Pankratz;David Weiss;Parmjot Gill,52,81.019230769,2.623352029,86.0,75.0,0,0,0,0,0,0,1,8.0,34,9,0
+UBCV,2020,W,BASM,514,,OVERALL,Strategy in Organizations,,52,81.019230769,2.623352029,86.0,75.0,0,0,0,0,0,0,1,8.0,34,9,0
+UBCV,2020,W,BASM,516,,001,Economics and Strategy of Innovation,Navid Siami;Steven Minns,47,83.659574468,4.47833721,93.0,76.0,0,0,0,0,0,0,0,6.0,22,11,8
+UBCV,2020,W,BASM,516,,OVERALL,Economics and Strategy of Innovation,,47,83.659574468,4.47833721,93.0,76.0,0,0,0,0,0,0,0,6.0,22,11,8
 UBCV,2020,W,BASM,523,,001,Management Consulting and Corporate Decision Support,Philippe Arrata,24,83.375,6.800335669,95.0,63.0,0,0,0,1,0,0,1,2.0,8,6,6
 UBCV,2020,W,BASM,523,,OVERALL,Management Consulting and Corporate Decision Support,,24,83.375,6.800335669,95.0,63.0,0,0,0,1,0,0,1,2.0,8,6,6
 UBCV,2020,W,BASM,530,,001,Multinational Strategic Management,Werner Antweiler,10,83.5,2.068278941,87.0,81.0,0,0,0,0,0,0,0,0.0,7,3,0
 UBCV,2020,W,BASM,530,,OVERALL,Multinational Strategic Management,,10,83.5,2.068278941,87.0,81.0,0,0,0,0,0,0,0,0.0,7,3,0
-UBCV,2020,W,BASM,550,,MM1,Strategic Management,Adam Pankratz;Parmjot Gill,56,79.98214286,2.203229625,87.0,75.0,0,0,0,0,0,0,1,16.0,38,1,0
-UBCV,2020,W,BASM,550,,OVERALL,Strategic Management,,56,79.98214286,2.203229625,87.0,75.0,0,0,0,0,0,0,1,16.0,38,1,0
+UBCV,2020,W,BASM,550,,MM1,Strategic Management,Adam Pankratz;Parmjot Gill,56,79.982142857,2.203229625,87.0,75.0,0,0,0,0,0,0,1,16.0,38,1,0
+UBCV,2020,W,BASM,550,,OVERALL,Strategic Management,,56,79.982142857,2.203229625,87.0,75.0,0,0,0,0,0,0,1,16.0,38,1,0

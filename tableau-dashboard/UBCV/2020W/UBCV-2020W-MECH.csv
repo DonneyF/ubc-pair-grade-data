@@ -1,171 +1,172 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,MECH,221,,101,Engineering Science I,Agnes D'Entremont;Ahmad Rezaei;Carly Jones;Chun Wu;Delaram Behnami;Elizabeth Trudel;Graham Hendra;Hatef Rahmani;Hoda Heydarnia;Isaac Becker;Jiahao Gong;Jonathan Nakane;Mahdi Izadi;Mariana Mendes Rodrigues;Maryam Tayyab;Mewael Isiet;Mohamed Hendy;Mohammadreza Rostam;Mohammadyousef Azimi;Mojtaba Mansouri Arani;Nasser Arbabi;Nima Ashjaee;Patrick Walls;Robin Turner;Sakshi Jain;Sheldon Green;Xiaohe Liu;Zahra Shahriari,125,76.312,10.6841879,100.0,33.0,4,0,1,7,4,18,21,17,37,0,16
-UBCV,2020,W,MECH,221,,OVERALL,Engineering Science I,,125,76.312,10.6841879,100.0,33.0,4,0,1,7,4,18,21,17,37,0,16
-UBCV,2020,W,MECH,222,,201,Engineering Science II,Agnes D'Entremont;Ali Pourzahedi;Alondra Renteria Ruiz;Arthur Rostami;Carly Jones;Elizabeth Trudel;Graham Hendra;Hamed Nikookar;Hatef Rahmani;Isaac Becker;Juan Abello Rubio;Katharine Faulkner;Michael Deakin;Omid Hajieghrary;Patrick Walls;Sakshi Jain;Seyed Arman Abtahi;Sheldon Green;Suraj Raktim Kashyap;Xiaohe Liu,119,73.25210084,12.65595491,98.0,37.0,9,0.0,3,6,11,20,12,18,25,6,9
-UBCV,2020,W,MECH,222,,OVERALL,Engineering Science II,,119,73.25210084,12.65595491,98.0,37.0,9,0.0,3,6,11,20,12,18,25,6,9
-UBCV,2020,W,MECH,224,,1AB,Integration of Engineering Concepts I,Agnes D'Entremont;Behzad Aminian;Chun Wu;Erfan Taatizadeh;Graham Hendra;Hatef Rahmani;Jonathan Nakane;Patrick Walls;Robin Turner;Sheldon Green;Xiaohe Liu,66,77.42424242,12.88775281,100.0,40.0,5,0,0,2,1,10,3,9,23,0,13
-UBCV,2020,W,MECH,224,,1CD,Integration of Engineering Concepts I,Agnes D'Entremont;Behzad Aminian;Chun Wu;Erfan Taatizadeh;Graham Hendra;Hatef Rahmani;Jonathan Nakane;Patrick Walls;Robin Turner;Sheldon Green,59,71.72881356,12.83291902,96.0,33.0,7,0,0,2,2,7,17,8,14,0,2
-UBCV,2020,W,MECH,224,,OVERALL,Integration of Engineering Concepts I,,131,74.29007634,12.99022624,100.0,33.0,12,0,0,5,6,19,20,17,37,0,15
-UBCV,2020,W,MECH,225,,2AB,Integration of Engineering Concepts II,Agnes D'Entremont;Graham Hendra;Juan Abello Rubio;Patrick Walls,66,74.10606061,14.6446407,98.0,39.0,8,0.0,1,1,4,9,6,11,14,5,7
-UBCV,2020,W,MECH,225,,2CD,Integration of Engineering Concepts II,Agnes D'Entremont;Graham Hendra;Juan Abello Rubio;Patrick Walls,53,69.67924528,13.54163606,92.0,37.0,8,0.0,1,2,5,10,6,7,11,1,2
-UBCV,2020,W,MECH,225,,OVERALL,Integration of Engineering Concepts II,,119,72.13445378,14.27687734,98.0,37.0,16,0.0,2,3,9,19,12,18,25,6,9
-UBCV,2020,W,MECH,226,,001,Technical Communication for Mechanical Engineers,Agnes D'Entremont;Alondra Renteria Ruiz;Arthur Rostami;Behzad Zakani;Carly Jones;Elizabeth Trudel;Graham Hendra;Mohammad Reza Karimi;Phoebe Cheung;Sakshi Jain;Sarah Romani;Tatiana Teslenko,111,81.44144144,4.550094274,95.0,65.0,0,0,0,0,1,1,8,22,58,17,4
-UBCV,2020,W,MECH,226,,OVERALL,Technical Communication for Mechanical Engineers,,111,81.44144144,4.550094274,95.0,65.0,0,0,0,0,1,1,8,22,58,17,4
+UBCV,2020,W,MECH,221,,101,Engineering Science I,Agnes D'Entremont;Ahmad Rezaei;Carly Jones;Chun Wu;Delaram Behnami;Elizabeth Trudel;Graham Hendra;Hatef Rahmani;Hoda Heydarnia;Isaac Becker;Jiahao Gong;Jonathan Nakane;Mahdi Izadi;Mariana Mendes Rodrigues;Maryam Tayyab;Mewael Isiet;Mohamed Hendy;Mohammadreza Rostam;Mohammadyousef Azimi;Mojtaba Mansouri Arani;Nasser Arbabi;Nima Ashjaee;Patrick Walls;Robin Turner;Sakshi Jain;Sheldon Green;Xiaohe Liu;Zahra Shahriari,125,76.312,10.684187895,100.0,33.0,4,0,1,7,4,18,21,17,37,0,16
+UBCV,2020,W,MECH,221,,OVERALL,Engineering Science I,,125,76.312,10.684187895,100.0,33.0,4,0,1,7,4,18,21,17,37,0,16
+UBCV,2020,W,MECH,222,,201,Engineering Science II,Agnes D'Entremont;Ali Pourzahedi;Alondra Renteria Ruiz;Arthur Rostami;Carly Jones;Elizabeth Trudel;Graham Hendra;Hamed Nikookar;Hatef Rahmani;Isaac Becker;Juan Abello Rubio;Katharine Faulkner;Michael Deakin;Omid Hajieghrary;Patrick Walls;Sakshi Jain;Seyed Arman Abtahi;Sheldon Green;Suraj Raktim Kashyap;Xiaohe Liu,119,73.25210084,12.655954911,98.0,37.0,9,0.0,3,6,11,20,12,18,25,6,9
+UBCV,2020,W,MECH,222,,OVERALL,Engineering Science II,,119,73.25210084,12.655954911,98.0,37.0,9,0.0,3,6,11,20,12,18,25,6,9
+UBCV,2020,W,MECH,224,,1AB,Integration of Engineering Concepts I,Agnes D'Entremont;Behzad Aminian;Chun Wu;Erfan Taatizadeh;Graham Hendra;Hatef Rahmani;Jonathan Nakane;Patrick Walls;Robin Turner;Sheldon Green;Xiaohe Liu,66,77.939393939,12.019060232,100.0,40.0,4,0,0,2,1,10,4,9,23,0,13
+UBCV,2020,W,MECH,224,,1CD,Integration of Engineering Concepts I,Agnes D'Entremont;Behzad Aminian;Chun Wu;Erfan Taatizadeh;Graham Hendra;Hatef Rahmani;Jonathan Nakane;Patrick Walls;Robin Turner;Sheldon Green,59,72.06779661,12.230352868,96.0,33.0,6,0,0,3,2,7,17,8,14,0,2
+UBCV,2020,W,MECH,224,,OVERALL,Integration of Engineering Concepts I,,131,74.702290076,12.331132992,100.0,33.0,10,0,0,6,6,19,21,17,37,0,15
+UBCV,2020,W,MECH,225,,2AB,Integration of Engineering Concepts II,Agnes D'Entremont;Graham Hendra;Juan Abello Rubio;Patrick Walls,66,74.106060606,14.644640698,98.0,39.0,8,0.0,1,1,4,9,6,11,14,5,7
+UBCV,2020,W,MECH,225,,2CD,Integration of Engineering Concepts II,Agnes D'Entremont;Graham Hendra;Juan Abello Rubio;Patrick Walls,53,69.679245283,13.541636057,92.0,37.0,8,0.0,1,2,5,10,6,7,11,1,2
+UBCV,2020,W,MECH,225,,OVERALL,Integration of Engineering Concepts II,,119,72.134453782,14.276877341,98.0,37.0,16,0.0,2,3,9,19,12,18,25,6,9
+UBCV,2020,W,MECH,226,,001,Technical Communication for Mechanical Engineers,Agnes D'Entremont;Alondra Renteria Ruiz;Arthur Rostami;Behzad Zakani;Carly Jones;Elizabeth Trudel;Graham Hendra;Mohammad Reza Karimi;Phoebe Cheung;Sakshi Jain;Sarah Romani;Tatiana Teslenko,111,81.441441441,4.550094274,95.0,65.0,0,0,0,0,1,1,8,22,58,17,4
+UBCV,2020,W,MECH,226,,OVERALL,Technical Communication for Mechanical Engineers,,111,81.441441441,4.550094274,95.0,65.0,0,0,0,0,1,1,8,22,58,17,4
 UBCV,2020,W,MECH,230,,101,Technical Skills Practicum I,Agnes D'Entremont;Amir Chizfahm;Arthur Rostami;Carly Jones;Danny George;Elizabeth Trudel;Emily Bliven;George Rawlings;Graham Hendra;Juan Abello Rubio;Markus Fengler;Masoud Haghi Kashani;Mohammad Mohammadzadeh Keleshteri;Sakshi Jain;Seyed Farid Hoseynian Benvidi;Sheldon Green;Sohrab Entezami Lahijani,123,85.56097561,5.582681566,96.0,69.0,0,0,0,0,0,1,4,13,27,50,28
 UBCV,2020,W,MECH,230,,OVERALL,Technical Skills Practicum I,,123,85.56097561,5.582681566,96.0,69.0,0,0,0,0,0,1,4,13,27,50,28
-UBCV,2020,W,MECH,232,,101,Introduction to the Mechanical Design Process I,Agnes D'Entremont;Arash Mousemi;Carly Jones;Elizabeth Trudel;Graham Hendra;Iman Rahgozar Abadi;Mahsa Khalili;Markus Fengler;Melissa Coleman;Nasser Arbabi;Nima Atabaki;Shayan Fahimi;Sohrab Entezami Lahijani;Yuecheng Cai,124,76.90322581,8.004489954,97.0,53.0,0,1,1,4,8,15,21,32,20,16,6
-UBCV,2020,W,MECH,232,,OVERALL,Introduction to the Mechanical Design Process I,,124,76.90322581,8.004489954,97.0,53.0,0,1,1,4,8,15,21,32,20,16,6
-UBCV,2020,W,MECH,233,,201,Introduction to the Mechanical Design Process II,Agnes D'Entremont;Arash Mousemi;Carly Jones;Elizabeth Trudel;Erfan Forghani;Graham Hendra;Iman Rahgozar Abadi;Isaac Becker;Jonathan Nakane;Mahsa Khalili;Markus Fengler;Melissa Coleman;Nasser Arbabi;Nima Atabaki;Sakshi Jain;Shayan Fahimi;Sohrab Entezami Lahijani;Thomas Ferguson;Yuecheng Cai,121,75.33884298,11.88805684,98.0,17.0,5,4,0.0,2,3,11,25,25,28,10,8
-UBCV,2020,W,MECH,233,,OVERALL,Introduction to the Mechanical Design Process II,,121,75.33884298,11.88805684,98.0,17.0,5,4,0.0,2,3,11,25,25,28,10,8
-UBCV,2020,W,MECH,260,,101,Introduction to Mechanics of Materials,Alireza Babaee;Jasmin Jelovica;Yuecheng Cai,95,76.97894737,14.01137756,96.0,27.0,3,4,3,5,5,9,10,7,16,14,19
-UBCV,2020,W,MECH,260,,201,Introduction to Mechanics of Materials,Mauricio Ponga De La Torre;Mewael Isiet;Mohammad Amin Zakershobeiri,106,77.23584906,13.30274006,100.0,42.0,6,3,2,5,7,7,7,22,13,17,17
-UBCV,2020,W,MECH,260,,202,Introduction to Mechanics of Materials,Abbas Hosseini;Mohammad Reza Karimi,51,79.98039216,10.23423704,97.0,56.0,0,0,1,3,2,8,2,6,9,8,12
-UBCV,2020,W,MECH,260,,OVERALL,Introduction to Mechanics of Materials,,252,77.69444444,13.02915398,100.0,27.0,9,7,6,13,14,24,19,35,38,39,48
-UBCV,2020,W,MECH,280,,201,Introduction to Fluid Mechanics,Ian Frigaard;Ian Shi Yuan Lung;Omid Hajieghrary;Sheldon Green,48,83.35416667,14.69330371,97.0,24.0,2,2,0,0,2,0,1,4,5,10,22
-UBCV,2020,W,MECH,280,,OVERALL,Introduction to Fluid Mechanics,,48,83.35416667,14.69330371,97.0,24.0,2,2,0,0,2,0,1,4,5,10,22
-UBCV,2020,W,MECH,305,,201,Data Analysis and Mechanical Engineering Laboratories,Ahmad Mohammadpanah Foroutaghe;Behzad Aminian;Hamed Nikookar;Hanie Asgari;Hatef Rahmani;Ian Shi Yuan Lung;Iman Rahgozar Abadi;Melanie Macarthur;Mohammad Mohammadzadeh Keleshteri;Rodrigo Mitishita;Seyed Farid Hoseynian Benvidi;Steven Rogak;Steven Zimmerman;Xiaohe Liu;Zhuhan Qiao,94,75.4787234,6.403508318,90.0,54.0,0,1,1,3,5,11,18,25,26,3,1
-UBCV,2020,W,MECH,305,,OVERALL,Data Analysis and Mechanical Engineering Laboratories,,94,75.4787234,6.403508318,90.0,54.0,0,1,1,3,5,11,18,25,26,3,1
-UBCV,2020,W,MECH,306,,201,Data Analysis and Mechatronics Laboratories,Ahmad Mohammadpanah Foroutaghe;Behzad Aminian;Hamed Nikookar;Hanie Asgari;Hatef Rahmani;Ian Shi Yuan Lung;Iman Rahgozar Abadi;Melanie Macarthur;Mohammad Mohammadzadeh Keleshteri;Rodrigo Mitishita;Seyed Farid Hoseynian Benvidi;Steven Rogak;Steven Zimmerman;Xiaohe Liu;Zhuhan Qiao,23,76.91304348,5.316467073,86.0,67.0,0,0,0,0,2,2,4,4,10,1,0
-UBCV,2020,W,MECH,306,,OVERALL,Data Analysis and Mechatronics Laboratories,,23,76.91304348,5.316467073,86.0,67.0,0,0,0,0,2,2,4,4,10,1,0
-UBCV,2020,W,MECH,325,,101,Machine Design,Alireza Babaee;Alireza Sarraf Shirazi;Faegheh Farbod;Hanie Asgari;Hatef Rahmani;Jon Mikkelsen;Mahsa Khalili;Mohammad Mohammadzadeh Keleshteri;Naresh Kumar Maroju;Rahmi Can Ugras;Rahmi Ugras;Shancheng Li;Troy Hurren,101,78.26732673,10.06567543,97.0,40.0,2,0.0,1,5,2,11,18,8,26,14,14
-UBCV,2020,W,MECH,325,,102,Machine Design,Alireza Babaee;Alireza Sarraf Shirazi;Charmaine Neufeld;Faegheh Farbod;Hanie Asgari;Hatef Rahmani;Jason Hu;Jon Mikkelsen;Mahsa Khalili;Mohammad Mohammadzadeh Keleshteri;Naresh Kumar Maroju;Omid Hajieghrary;Rahmi Ugras;Reza Partovi;Shancheng Li;Shayan Fahimi;Troy Hurren,126,79.57936508,7.778280709,97.0,55.0,0,0,3,1,6,7,17,22,35,25,10
-UBCV,2020,W,MECH,325,,OVERALL,Machine Design,,227,78.99559471,8.872497926,97.0,40.0,2,0.0,4,6,8,18,35,30,61,39,24
-UBCV,2020,W,MECH,327,,101,Thermodynamics II,Ali Cherom Kheirabadi;Elizabeth Trudel;Patrick Kirchen,118,76.27118644,9.874131806,94.0,40.0,3,1,1,6,5,18,14,25,20,18,7
-UBCV,2020,W,MECH,327,,OVERALL,Thermodynamics II,,118,76.27118644,9.874131806,94.0,40.0,3,1,1,6,5,18,14,25,20,18,7
-UBCV,2020,W,MECH,328,,101,Mechanical Engineering Design Project,Anoosha Shirvanthe;Antony Hodgson;Charmaine Claire Neufeld;Charmaine Neufeld;Christopher Brian Mckesson;Christopher Mckesson;Hanie Asgari;Jason Hu;Jiahong Hu;Markus Fengler;Naresh Kumar Maroju;Omid Hajieghrary;Reza Partovi;Shayan Fahimi;Sheldon Green;Timothy Ko Lee,153,79.97385621,6.969810569,97.0,57.0,0,0,1,1,5,10,18,24,57,18,19
-UBCV,2020,W,MECH,328,,OVERALL,Mechanical Engineering Design Project,,153,79.97385621,6.969810569,97.0,57.0,0,0,1,1,5,10,18,24,57,18,19
+UBCV,2020,W,MECH,232,,101,Introduction to the Mechanical Design Process I,Agnes D'Entremont;Arash Mousemi;Carly Jones;Elizabeth Trudel;Graham Hendra;Iman Rahgozar Abadi;Mahsa Khalili;Markus Fengler;Melissa Coleman;Nasser Arbabi;Nima Atabaki;Shayan Fahimi;Sohrab Entezami Lahijani;Yuecheng Cai,124,77.040322581,7.732729715,97.0,59.0,0,0,1,4,8,16,21,32,20,16,6
+UBCV,2020,W,MECH,232,,OVERALL,Introduction to the Mechanical Design Process I,,124,77.040322581,7.732729715,97.0,59.0,0,0,1,4,8,16,21,32,20,16,6
+UBCV,2020,W,MECH,233,,201,Introduction to the Mechanical Design Process II,Agnes D'Entremont;Arash Mousemi;Carly Jones;Elizabeth Trudel;Erfan Forghani;Graham Hendra;Iman Rahgozar Abadi;Isaac Becker;Jonathan Nakane;Mahsa Khalili;Markus Fengler;Melissa Coleman;Nasser Arbabi;Nima Atabaki;Sakshi Jain;Shayan Fahimi;Sohrab Entezami Lahijani;Thomas Ferguson;Yuecheng Cai,121,75.363636364,11.89467668,98.0,17.0,5,4,0.0,2,3,11,25,24,29,10,8
+UBCV,2020,W,MECH,233,,OVERALL,Introduction to the Mechanical Design Process II,,121,75.363636364,11.89467668,98.0,17.0,5,4,0.0,2,3,11,25,24,29,10,8
+UBCV,2020,W,MECH,260,,101,Introduction to Mechanics of Materials,Alireza Babaee;Jasmin Jelovica;Yuecheng Cai,96,77.125,14.010710189,96.0,27.0,3,4,3,5,5,9,10,7,16,14,20
+UBCV,2020,W,MECH,260,,201,Introduction to Mechanics of Materials,Mauricio Ponga De La Torre;Mewael Isiet;Mohammad Amin Zakershobeiri,106,77.245283019,13.279996644,100.0,42.0,6,3,2,5,7,7,7,22,13,17,17
+UBCV,2020,W,MECH,260,,202,Introduction to Mechanics of Materials,Abbas Hosseini;Mohammad Reza Karimi,51,79.980392157,10.234237043,97.0,56.0,0,0,1,3,2,8,2,6,9,8,12
+UBCV,2020,W,MECH,260,,OVERALL,Introduction to Mechanics of Materials,,253,77.750988142,13.020330905,100.0,27.0,9,7,6,13,14,24,19,35,38,39,49
+UBCV,2020,W,MECH,280,,201,Introduction to Fluid Mechanics,Ian Frigaard;Ian Shi Yuan Lung;Omid Hajieghrary,47,84.723404255,11.588416495,97.0,50.0,0,3,0,0,2,0,1,4,5,10,22
+UBCV,2020,W,MECH,280,,OVERALL,Introduction to Fluid Mechanics,,47,84.723404255,11.588416495,97.0,50.0,0,3,0,0,2,0,1,4,5,10,22
+UBCV,2020,W,MECH,305,,201,Data Analysis and Mechanical Engineering Laboratories,Ahmad Mohammadpanah Foroutaghe;Behzad Aminian;Hamed Nikookar;Hanie Asgari;Hatef Rahmani;Ian Shi Yuan Lung;Iman Rahgozar Abadi;Melanie Macarthur;Mohammad Mohammadzadeh Keleshteri;Rodrigo Mitishita;Seyed Farid Hoseynian Benvidi;Steven Rogak;Steven Zimmerman;Xiaohe Liu;Zhuhan Qiao,94,75.478723404,6.403508318,90.0,54.0,0,1,1,3,5,11,18,25,26,3,1
+UBCV,2020,W,MECH,305,,OVERALL,Data Analysis and Mechanical Engineering Laboratories,,94,75.478723404,6.403508318,90.0,54.0,0,1,1,3,5,11,18,25,26,3,1
+UBCV,2020,W,MECH,306,,201,Data Analysis and Mechatronics Laboratories,Ahmad Mohammadpanah Foroutaghe;Behzad Aminian;Hamed Nikookar;Hanie Asgari;Hatef Rahmani;Ian Shi Yuan Lung;Iman Rahgozar Abadi;Melanie Macarthur;Mohammad Mohammadzadeh Keleshteri;Rodrigo Mitishita;Seyed Farid Hoseynian Benvidi;Steven Rogak;Steven Zimmerman;Xiaohe Liu;Zhuhan Qiao,23,76.913043478,5.316467073,86.0,67.0,0,0,0,0,2,2,4,4,10,1,0
+UBCV,2020,W,MECH,306,,OVERALL,Data Analysis and Mechatronics Laboratories,,23,76.913043478,5.316467073,86.0,67.0,0,0,0,0,2,2,4,4,10,1,0
+UBCV,2020,W,MECH,325,,101,Machine Design,Alireza Babaee;Alireza Sarraf Shirazi;Faegheh Farbod;Hanie Asgari;Hatef Rahmani;Jon Mikkelsen;Mahsa Khalili;Mohammad Mohammadzadeh Keleshteri;Naresh Kumar Maroju;Rahmi Can Ugras;Rahmi Ugras;Shancheng Li;Troy Hurren,101,78.267326733,10.065675426,97.0,40.0,2,0.0,1,5,2,11,18,8,26,14,14
+UBCV,2020,W,MECH,325,,102,Machine Design,Alireza Babaee;Alireza Sarraf Shirazi;Charmaine Neufeld;Faegheh Farbod;Hanie Asgari;Hatef Rahmani;Jason Hu;Jon Mikkelsen;Mahsa Khalili;Mohammad Mohammadzadeh Keleshteri;Naresh Kumar Maroju;Omid Hajieghrary;Rahmi Ugras;Reza Partovi;Shancheng Li;Shayan Fahimi;Troy Hurren,126,79.579365079,7.778280709,97.0,55.0,0,0,3,1,6,7,17,22,35,25,10
+UBCV,2020,W,MECH,325,,OVERALL,Machine Design,,227,78.995594714,8.872497926,97.0,40.0,2,0.0,4,6,8,18,35,30,61,39,24
+UBCV,2020,W,MECH,327,,101,Thermodynamics II,Ali Cherom Kheirabadi;Elizabeth Trudel;Patrick Kirchen,118,76.271186441,9.874131806,94.0,40.0,3,1,1,6,5,18,14,25,20,18,7
+UBCV,2020,W,MECH,327,,OVERALL,Thermodynamics II,,118,76.271186441,9.874131806,94.0,40.0,3,1,1,6,5,18,14,25,20,18,7
+UBCV,2020,W,MECH,328,,101,Mechanical Engineering Design Project,Anoosha Shirvanthe;Antony Hodgson;Charmaine Claire Neufeld;Charmaine Neufeld;Christopher Brian Mckesson;Christopher Mckesson;Hanie Asgari;Jason Hu;Jiahong Hu;Markus Fengler;Naresh Kumar Maroju;Omid Hajieghrary;Reza Partovi;Shayan Fahimi;Sheldon Green;Timothy Ko Lee,153,79.973856209,6.969810569,97.0,57.0,0,0,1,1,5,10,18,24,57,18,19
+UBCV,2020,W,MECH,328,,OVERALL,Mechanical Engineering Design Project,,153,79.973856209,6.969810569,97.0,57.0,0,0,1,1,5,10,18,24,57,18,19
 UBCV,2020,W,MECH,329,,101,Materials for Mechanical Design,Albert Kong;Iraj Dehghan Hamani;Mattia Bacca;Nicolas Romualdi,155,73.4,9.655494365,99.0,42.0,1,3,8,12,16,25,27,19,27,8,9
 UBCV,2020,W,MECH,329,,OVERALL,Materials for Mechanical Design,,155,73.4,9.655494365,99.0,42.0,1,3,8,12,16,25,27,19,27,8,9
-UBCV,2020,W,MECH,358,,201,Engineering Analysis,Behzad Aminian;Daniel Coombs;Gwynn Elfring;Ivonne Medina Lino;Patrick Walls;Zihao Cheng,89,79.20224719,10.05912044,96.0,54.0,0,1,2,6,4,7,9,12,16,14,18
-UBCV,2020,W,MECH,358,,OVERALL,Engineering Analysis,,89,79.20224719,10.05912044,96.0,54.0,0,1,2,6,4,7,9,12,16,14,18
-UBCV,2020,W,MECH,360,,101,Mechanics of Materials,Mohammad Amin Zakershobeiri;Mohammad Reza Fazlali;Prabhat Srivastava;Seyed Farid Hoseynian Benvidi;Srikantha Anasavarapu;Xiao Liang Jin,115,79.55652174,9.889025731,99.0,50.0,0,3,0.0,2,8,13,12,16,22,20,19
-UBCV,2020,W,MECH,360,,102,Mechanics of Materials,Mohammad Amin Zakershobeiri;Mohammad Reza Fazlali;Prabhat Srivastava;Seyed Farid Hoseynian Benvidi;Xiao Liang Jin,99,74.45454546,11.69621666,97.0,39.0,3,3,5,4,8,14,11,15,17,12,7
-UBCV,2020,W,MECH,360,,201,Mechanics of Materials,Prabhat Srivastava;Shubham Agarwal;Srikantha Anasavarapu;Xiao Liang Jin,73,73.30136986,14.48148716,93.0,36.0,3,7,6,4,3,5,6,4,12,12,11
-UBCV,2020,W,MECH,360,,OVERALL,Mechanics of Materials,,287,76.20557491,12.09878788,99.0,36.0,6,13,11,10,19,32,29,35,51,44,37
-UBCV,2020,W,MECH,366,,101,Modelling of Mechatronic Systems,Amir Chizfahm;Arash Mousemi;Ryozo Nagamune,37,84.48648649,9.558654082,98.0,52.0,0,1,0,0,0,2,3,2,10,5,14
-UBCV,2020,W,MECH,366,,OVERALL,Modelling of Mechatronic Systems,,37,84.48648649,9.558654082,98.0,52.0,0,1,0,0,0,2,3,2,10,5,14
-UBCV,2020,W,MECH,368,,101,Engineering Measurements and Instrumentation,Erik Lamoureux;Hongshen Ma;Minghua Wu;Pan Deng,78,79.8974359,10.21151596,97.0,38.0,1,0,0,3,6,5,8,7,26,7,15
-UBCV,2020,W,MECH,368,,201,Engineering Measurements and Instrumentation,Hamed Helisaz;Minghua Wu;Mu Chiao,25,74.28,15.21107053,100.0,32.0,1,0.0,2,2,4,3,2,1,5,2,3
-UBCV,2020,W,MECH,368,,OVERALL,Engineering Measurements and Instrumentation,,103,78.53398058,11.79050427,100.0,32.0,2,0.0,2,5,10,8,10,8,31,9,18
-UBCV,2020,W,MECH,375,,101,Heat Transfer,Graham Hendra;Seyed Arman Abtahi,67,72.49253731,11.61421952,98.0,35.0,3,1,3,5,5,10,13,9,10,5,3
-UBCV,2020,W,MECH,375,,201,Heat Transfer,Arash Mousemi;Clement Avonde;William Kendal Bushe,60,78.25,15.61792213,99.0,8.0,1,4,1,4,3,3,3,8,8,10,15
-UBCV,2020,W,MECH,375,,OVERALL,Heat Transfer,,127,75.21259843,13.89965737,99.0,8.0,4,5,4,9,8,13,16,17,18,15,18
-UBCV,2020,W,MECH,380,,201,Fluid Dynamics,Carl Ollivier-Gooch;Mohammad Zandsalimy;Rachit Gupta;Rajeev Jaiman;Ronak Gupta,110,76.41818182,8.331857528,94.0,57.0,0,0,6,3,7,12,19,17,28,11,7
-UBCV,2020,W,MECH,380,,OVERALL,Fluid Dynamics,,110,76.41818182,8.331857528,94.0,57.0,0,0,6,3,7,12,19,17,28,11,7
+UBCV,2020,W,MECH,358,,201,Engineering Analysis,Behzad Aminian;Daniel Coombs;Gwynn Elfring;Ivonne Medina Lino;Patrick Walls;Zihao Cheng,91,78.208791209,11.995847878,96.0,29.0,2,1,2,6,4,7,9,12,16,14,18
+UBCV,2020,W,MECH,358,,OVERALL,Engineering Analysis,,91,78.208791209,11.995847878,96.0,29.0,2,1,2,6,4,7,9,12,16,14,18
+UBCV,2020,W,MECH,360,,101,Mechanics of Materials,Mohammad Amin Zakershobeiri;Mohammad Reza Fazlali;Prabhat Srivastava;Seyed Farid Hoseynian Benvidi;Srikantha Anasavarapu;Xiao Liang Jin,115,79.556521739,9.889025731,99.0,50.0,0,3,0.0,2,8,13,12,16,22,20,19
+UBCV,2020,W,MECH,360,,102,Mechanics of Materials,Mohammad Amin Zakershobeiri;Mohammad Reza Fazlali;Prabhat Srivastava;Seyed Farid Hoseynian Benvidi;Xiao Liang Jin,99,74.454545455,11.696216663,97.0,39.0,3,3,5,4,8,14,11,15,17,12,7
+UBCV,2020,W,MECH,360,,201,Mechanics of Materials,Prabhat Srivastava;Shubham Agarwal;Srikantha Anasavarapu;Xiao Liang Jin,73,73.301369863,14.481487158,93.0,36.0,3,7,6,4,3,5,6,4,12,12,11
+UBCV,2020,W,MECH,360,,OVERALL,Mechanics of Materials,,287,76.205574913,12.098787878,99.0,36.0,6,13,11,10,19,32,29,35,51,44,37
+UBCV,2020,W,MECH,366,,101,Modelling of Mechatronic Systems,Amir Chizfahm;Arash Mousemi;Ryozo Nagamune,38,83.0,13.147808367,98.0,28.0,1,1,0,0,0,2,3,2,10,5,14
+UBCV,2020,W,MECH,366,,OVERALL,Modelling of Mechatronic Systems,,38,83.0,13.147808367,98.0,28.0,1,1,0,0,0,2,3,2,10,5,14
+UBCV,2020,W,MECH,368,,101,Engineering Measurements and Instrumentation,Erik Lamoureux;Hongshen Ma;Minghua Wu;Pan Deng,78,79.897435897,10.211515964,97.0,38.0,1,0,0,3,6,5,8,7,26,7,15
+UBCV,2020,W,MECH,368,,201,Engineering Measurements and Instrumentation,Hamed Helisaz;Minghua Wu;Mu Chiao,26,74.230769231,14.905858425,100.0,32.0,1,0.0,2,2,4,3,3,1,5,2,3
+UBCV,2020,W,MECH,368,,OVERALL,Engineering Measurements and Instrumentation,,104,78.480769231,11.745671187,100.0,32.0,2,0.0,2,5,10,8,11,8,31,9,18
+UBCV,2020,W,MECH,375,,101,Heat Transfer,Graham Hendra;Seyed Arman Abtahi,67,72.492537313,11.614219517,98.0,35.0,3,1,3,5,5,10,13,9,10,5,3
+UBCV,2020,W,MECH,375,,201,Heat Transfer,Arash Mousemi;Clement Avonde;William Kendal Bushe,59,79.440677966,12.712024156,99.0,50.0,0,4,1,4,3,3,3,8,8,10,15
+UBCV,2020,W,MECH,375,,OVERALL,Heat Transfer,,126,75.746031746,12.5824872,99.0,35.0,3,5,4,9,8,13,16,17,18,15,18
+UBCV,2020,W,MECH,380,,201,Fluid Dynamics,Mohammad Zandsalimy;Rachit Gupta;Rajeev Jaiman;Ronak Gupta,110,76.418181818,8.331857528,94.0,57.0,0,0,6,3,7,12,19,17,28,11,7
+UBCV,2020,W,MECH,380,,OVERALL,Fluid Dynamics,,110,76.418181818,8.331857528,94.0,57.0,0,0,6,3,7,12,19,17,28,11,7
 UBCV,2020,W,MECH,386,,101,Industrial Fluid Mechanics,Arash Nikzad;Dana Grecov,32,82.0,7.59456512,95.0,55.0,0,0,1,0,0,1,2,6,10,6,6
 UBCV,2020,W,MECH,386,,OVERALL,Industrial Fluid Mechanics,,32,82.0,7.59456512,95.0,55.0,0,0,1,0,0,1,2,6,10,6,6
-UBCV,2020,W,MECH,392,,101,Manufacturing Processes,Ahmad Mohammadpanah Foroutaghe;Ammarah Kaderdina,110,73.53636364,9.78828852,95.0,19.0,2,1,0.0,7,9,22,19,20,21,7,2
-UBCV,2020,W,MECH,392,,OVERALL,Manufacturing Processes,,110,73.53636364,9.78828852,95.0,19.0,2,1,0.0,7,9,22,19,20,21,7,2
-UBCV,2020,W,MECH,410,U,201,Special Topics in Mechanical Engineering,Amanda Giang;Naomi Zimmerman;Sarah Crosby,44,84.63636364,6.387090574,97.0,70.0,0,0,0,0,0,1,3,3,15,11,11
-UBCV,2020,W,MECH,410,U,OVERALL,Special Topics in Mechanical Engineering,,44,84.63636364,6.387090574,97.0,70.0,0,0,0,0,0,1,3,3,15,11,11
-UBCV,2020,W,MECH,420,,101,Sensors and Actuators,Clarence Wilfred De Silva;Jing Wang;Siyuan Yang,31,78.38709677,8.464346477,95.0,52.0,0,,,,1,2,6,6,10,2,3
-UBCV,2020,W,MECH,420,,OVERALL,Sensors and Actuators,,31,78.38709677,8.464346477,95.0,52.0,0,,,,1,2,6,6,10,2,3
-UBCV,2020,W,MECH,421,,201,Mechatronics System Instrumentation,Hamed Helisaz;Minkyun Noh;Reza Partovi,32,81.71875,10.7019274,92.0,40.0,1,0,0,0,1,2,3,4,6,6,9
-UBCV,2020,W,MECH,421,,OVERALL,Mechatronics System Instrumentation,,32,81.71875,10.7019274,92.0,40.0,1,0,0,0,1,2,3,4,6,6,9
-UBCV,2020,W,MECH,423,,101,Mechatronic Product Design,Alec Xu;Hongshen Ma;Samuel Berryman;Samuel Guy Berryman,32,81.0625,7.691375564,96.0,67.0,0,0,0,0,1,2,7,3,9,3,7
+UBCV,2020,W,MECH,392,,101,Manufacturing Processes,Ahmad Mohammadpanah Foroutaghe;Ammarah Kaderdina,110,73.9,8.38626006,95.0,33.0,1,1,1,7,9,22,19,20,21,7,2
+UBCV,2020,W,MECH,392,,OVERALL,Manufacturing Processes,,110,73.9,8.38626006,95.0,33.0,1,1,1,7,9,22,19,20,21,7,2
+UBCV,2020,W,MECH,410,U,201,Special Topics in Mechanical Engineering,Amanda Giang;Naomi Zimmerman;Sarah Crosby,44,84.636363636,6.387090574,97.0,70.0,0,0,0,0,0,1,3,3,15,11,11
+UBCV,2020,W,MECH,410,U,OVERALL,Special Topics in Mechanical Engineering,,44,84.636363636,6.387090574,97.0,70.0,0,0,0,0,0,1,3,3,15,11,11
+UBCV,2020,W,MECH,420,,101,Sensors and Actuators,Clarence Wilfred De Silva;Jing Wang;Siyuan Yang,31,78.387096774,8.464346477,95.0,52.0,0,,,,1,2,6,6,10,2,3
+UBCV,2020,W,MECH,420,,OVERALL,Sensors and Actuators,,31,78.387096774,8.464346477,95.0,52.0,0,,,,1,2,6,6,10,2,3
+UBCV,2020,W,MECH,421,,201,Mechatronics System Instrumentation,Hamed Helisaz;Minkyun Noh;Reza Partovi,32,81.71875,10.701927397,92.0,40.0,1,0,0,0,1,2,3,4,6,6,9
+UBCV,2020,W,MECH,421,,OVERALL,Mechatronics System Instrumentation,,32,81.71875,10.701927397,92.0,40.0,1,0,0,0,1,2,3,4,6,6,9
+UBCV,2020,W,MECH,423,,101,Mechatronic Product Design,Alec Xu;Hongshen Ma;Samuel Berryman,32,81.0625,7.691375564,96.0,67.0,0,0,0,0,1,2,7,3,9,3,7
 UBCV,2020,W,MECH,423,,OVERALL,Mechatronic Product Design,,32,81.0625,7.691375564,96.0,67.0,0,0,0,0,1,2,7,3,9,3,7
 UBCV,2020,W,MECH,426,,101,Mechanical Design,Alireza Babaee;Faegheh Farbod;Mahsa Khalili;Mohammad Reza Karimi;Peter Ostafichuk;Sarah Madeleine Bowe Romani;Sarah Romani;Seyed Farid Hoseynian Benvidi,10,78.8,9.425733099,92.0,64.0,0,0,0,0,1,2,0.0,2,1,2,2
 UBCV,2020,W,MECH,426,,OVERALL,Mechanical Design,,10,78.8,9.425733099,92.0,64.0,0,0,0,0,1,2,0.0,2,1,2,2
-UBCV,2020,W,MECH,431,,201,Engineering Economics,Naomi Zimmerman;Sakshi Jain,54,78.22222222,9.795391035,96.0,51.0,0,3,0.0,1,2,5,7,7,13,13,3
-UBCV,2020,W,MECH,431,,OVERALL,Engineering Economics,,54,78.22222222,9.795391035,96.0,51.0,0,3,0.0,1,2,5,7,7,13,13,3
-UBCV,2020,W,MECH,433,,201,Biofluids,Behzad Zakani;Dana Grecov,27,82.03703704,6.852744995,91.0,67.0,0,0,0,0,1,2,2,3,9,5,5
-UBCV,2020,W,MECH,433,,OVERALL,Biofluids,,27,82.03703704,6.852744995,91.0,67.0,0,0,0,0,1,2,2,3,9,5,5
-UBCV,2020,W,MECH,435,,201,Orthopaedic Biomechanics,Carly Jones;Emily Sullivan,29,85.31034483,7.191778283,98.0,70.0,0,0,0,0,0,1,2,3,7,8,8
-UBCV,2020,W,MECH,435,,OVERALL,Orthopaedic Biomechanics,,29,85.31034483,7.191778283,98.0,70.0,0,0,0,0,0,1,2,3,7,8,8
-UBCV,2020,W,MECH,436,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont;Loay Al-Salehi,15,84.86666667,9.598114894,98.0,68.0,0,0,0,0,0,2,0.0,3,1,2,7
-UBCV,2020,W,MECH,436,,OVERALL,Fundamentals of Injury Biomechanics,,15,84.86666667,9.598114894,98.0,68.0,0,0,0,0,0,2,0.0,3,1,2,7
-UBCV,2020,W,MECH,439,,201,Biomechanics Research,Chun Wu,11,88.81818182,5.635923736,95.0,75.0,0,0,0,0,0,0,1,0,0,4,6
-UBCV,2020,W,MECH,439,,OVERALL,Biomechanics Research,,11,88.81818182,5.635923736,95.0,75.0,0,0,0,0,0,0,1,0,0,4,6
-UBCV,2020,W,MECH,445,,101,Fuel Cell Systems,Mohammad Reza Karimi;Siamak Najarian,15,82.53333333,9.687006516,96.0,63.0,0,0,0,1,1,0.0,2,2,1,4,4
-UBCV,2020,W,MECH,445,,OVERALL,Fuel Cell Systems,,15,82.53333333,9.687006516,96.0,63.0,0,0,0,1,1,0.0,2,2,1,4,4
-UBCV,2020,W,MECH,454,,001,Thermofluids Capstone Design Project,Ahmad Mohammadpanah Foroutaghe;Dana Grecov;Danny George;George Rawlings;Gwynn Elfring;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,13,87.15384615,2.544476169,90.0,82.0,0,0,0,0,0,0,0,0,3,7,3
-UBCV,2020,W,MECH,454,,OVERALL,Thermofluids Capstone Design Project,,13,87.15384615,2.544476169,90.0,82.0,0,0,0,0,0,0,0,0,3,7,3
-UBCV,2020,W,MECH,457,,001,Mechanical Engineering Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,63,84.49206349,3.913883542,95.0,76.0,0,0,0,0,0,0,0,7,24,27,5
-UBCV,2020,W,MECH,457,,OVERALL,Mechanical Engineering Design Project,,63,84.49206349,3.913883542,95.0,76.0,0,0,0,0,0,0,0,7,24,27,5
-UBCV,2020,W,MECH,458,,001,Mechatronics Design Project,Ahmad Mohammadpanah Foroutaghe;Dana Grecov;Danny George;George Rawlings;Gwynn Elfring;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,26,84.19230769,5.138242741,95.0,75.0,0,0,0,0,0,0,1,2,11,9,3
-UBCV,2020,W,MECH,458,,OVERALL,Mechatronics Design Project,,26,84.19230769,5.138242741,95.0,75.0,0,0,0,0,0,0,1,2,11,9,3
-UBCV,2020,W,MECH,459,,001,Biomedical Design Project,Ahmad Mohammadpanah Foroutaghe;Dana Grecov;Danny George;George Rawlings;Gwynn Elfring;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Mu Chiao;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,10,79.3,13.07287268,91.0,44.0,1,0,0,0,0,0,0,1,6,0,2
-UBCV,2020,W,MECH,459,,OVERALL,Biomedical Design Project,,10,79.3,13.07287268,91.0,44.0,1,0,0,0,0,0,0,1,6,0,2
-UBCV,2020,W,MECH,462,,201,Finite Element Analysis,Mattia Bacca;Rahmi Ugras;Zhiyuan Tong,24,77.70833333,7.538187804,91.0,55.0,0,0,1,0,0,2,4,8,5,2,2
-UBCV,2020,W,MECH,462,,OVERALL,Finite Element Analysis,,24,77.70833333,7.538187804,91.0,55.0,0,0,1,0,0,2,4,8,5,2,2
-UBCV,2020,W,MECH,463,,101,Mechanical Vibrations,Ali Cherom Kheirabadi;Amirhossein Omidvarpashesar;Atakan Zeybek;Behnam Karimi;Gary Schajer;Hamed Helisaz;Mohammad Mohammadzadeh Keleshteri;Naresh Kumar Maroju,147,79.34693878,10.46432495,100.0,50.0,0,1,4,4,6,23,15,18,31,15,30
-UBCV,2020,W,MECH,463,,OVERALL,Mechanical Vibrations,,147,79.34693878,10.46432495,100.0,50.0,0,1,4,4,6,23,15,18,31,15,30
+UBCV,2020,W,MECH,431,,201,Engineering Economics,Naomi Zimmerman;Sakshi Jain,54,78.240740741,9.80745805,96.0,51.0,0,3,0.0,1,2,5,7,7,12,14,3
+UBCV,2020,W,MECH,431,,OVERALL,Engineering Economics,,54,78.240740741,9.80745805,96.0,51.0,0,3,0.0,1,2,5,7,7,12,14,3
+UBCV,2020,W,MECH,433,,201,Biofluids,Behzad Zakani;Dana Grecov,27,82.037037037,6.852744995,91.0,67.0,0,0,0,0,1,2,2,3,9,5,5
+UBCV,2020,W,MECH,433,,OVERALL,Biofluids,,27,82.037037037,6.852744995,91.0,67.0,0,0,0,0,1,2,2,3,9,5,5
+UBCV,2020,W,MECH,435,,201,Orthopaedic Biomechanics,Carly Jones;Emily Sullivan,29,85.310344828,7.191778283,98.0,70.0,0,0,0,0,0,1,2,3,7,8,8
+UBCV,2020,W,MECH,435,,OVERALL,Orthopaedic Biomechanics,,29,85.310344828,7.191778283,98.0,70.0,0,0,0,0,0,1,2,3,7,8,8
+UBCV,2020,W,MECH,436,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont;Loay Al-Salehi,15,84.866666667,9.598114894,98.0,68.0,0,0,0,0,0,2,0.0,3,1,2,7
+UBCV,2020,W,MECH,436,,OVERALL,Fundamentals of Injury Biomechanics,,15,84.866666667,9.598114894,98.0,68.0,0,0,0,0,0,2,0.0,3,1,2,7
+UBCV,2020,W,MECH,439,,201,Biomechanics Research,Chun Wu,11,88.818181818,5.635923736,95.0,75.0,0,0,0,0,0,0,1,0,0,4,6
+UBCV,2020,W,MECH,439,,OVERALL,Biomechanics Research,,11,88.818181818,5.635923736,95.0,75.0,0,0,0,0,0,0,1,0,0,4,6
+UBCV,2020,W,MECH,445,,101,Fuel Cell Systems,Mohammad Reza Karimi;Siamak Najarian,15,82.533333333,9.687006516,96.0,63.0,0,0,0,1,1,0.0,2,2,1,4,4
+UBCV,2020,W,MECH,445,,OVERALL,Fuel Cell Systems,,15,82.533333333,9.687006516,96.0,63.0,0,0,0,1,1,0.0,2,2,1,4,4
+UBCV,2020,W,MECH,454,,001,Thermofluids Capstone Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,13,87.153846154,2.544476169,90.0,82.0,0,0,0,0,0,0,0,0,3,7,3
+UBCV,2020,W,MECH,454,,OVERALL,Thermofluids Capstone Design Project,,13,87.153846154,2.544476169,90.0,82.0,0,0,0,0,0,0,0,0,3,7,3
+UBCV,2020,W,MECH,457,,001,Mechanical Engineering Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,63,84.492063492,3.913883542,95.0,76.0,0,0,0,0,0,0,0,7,24,27,5
+UBCV,2020,W,MECH,457,,OVERALL,Mechanical Engineering Design Project,,63,84.492063492,3.913883542,95.0,76.0,0,0,0,0,0,0,0,7,24,27,5
+UBCV,2020,W,MECH,458,,001,Mechatronics Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,26,84.192307692,5.138242741,95.0,75.0,0,0,0,0,0,0,1,2,11,9,3
+UBCV,2020,W,MECH,458,,OVERALL,Mechatronics Design Project,,26,84.192307692,5.138242741,95.0,75.0,0,0,0,0,0,0,1,2,11,9,3
+UBCV,2020,W,MECH,459,,001,Biomedical Design Project,Ahmad Mohammadpanah Foroutaghe;Danny George;George Rawlings;Hailee Hoffman;Hendrik Van Der Loos;Markus Fengler;Nima Atabaki;Paul Winkelman;Vladan Prodanovic;Wen Li,9,83.555555556,4.390646624,91.0,79.0,0,0,0,0,0,0,0,1,5,1,2
+UBCV,2020,W,MECH,459,,OVERALL,Biomedical Design Project,,9,83.555555556,4.390646624,91.0,79.0,0,0,0,0,0,0,0,1,5,1,2
+UBCV,2020,W,MECH,462,,201,Finite Element Analysis,Mattia Bacca;Rahmi Ugras;Zhiyuan Tong,24,77.708333333,7.538187804,91.0,55.0,0,0,1,0,0,2,4,8,5,2,2
+UBCV,2020,W,MECH,462,,OVERALL,Finite Element Analysis,,24,77.708333333,7.538187804,91.0,55.0,0,0,1,0,0,2,4,8,5,2,2
+UBCV,2020,W,MECH,463,,101,Mechanical Vibrations,Ali Cherom Kheirabadi;Amirhossein Omidvarpashesar;Atakan Zeybek;Behnam Karimi;Gary Schajer;Hamed Helisaz;Mohammad Mohammadzadeh Keleshteri;Naresh Kumar Maroju,148,79.202702703,10.575262792,100.0,50.0,0,1,5,4,6,23,15,18,31,15,30
+UBCV,2020,W,MECH,463,,OVERALL,Mechanical Vibrations,,148,79.202702703,10.575262792,100.0,50.0,0,1,5,4,6,23,15,18,31,15,30
 UBCV,2020,W,MECH,464,,201,Industrial Robotics,Mohamed Gadala;Septimiu Salcudean;Siamak Najarian,15,84.8,6.909620622,96.0,73.0,0,0,0,0,0,0,3,0.0,4,3,5
 UBCV,2020,W,MECH,464,,OVERALL,Industrial Robotics,,15,84.8,6.909620622,96.0,73.0,0,0,0,0,0,0,3,0.0,4,3,5
-UBCV,2020,W,MECH,466,,201,Automatic Control,Amir Chizfahm;Ammarah Kaderdina;Behnam Karimi;Hamed Helisaz;Mahsa Khalili;Ryozo Nagamune;Yue Niu,121,77.51239669,11.77576303,100.0,22.0,2,3,2,4,5,6,19,20,24,20,16
-UBCV,2020,W,MECH,466,,OVERALL,Automatic Control,,121,77.51239669,11.77576303,100.0,22.0,2,3,2,4,5,6,19,20,24,20,16
+UBCV,2020,W,MECH,466,,201,Automatic Control,Amir Chizfahm;Ammarah Kaderdina;Behnam Karimi;Hamed Helisaz;Mahsa Khalili;Ryozo Nagamune;Yue Niu,120,78.1,10.223058465,100.0,49.0,1,3,2,4,5,6,19,20,24,20,16
+UBCV,2020,W,MECH,466,,OVERALL,Automatic Control,,120,78.1,10.223058465,100.0,49.0,1,3,2,4,5,6,19,20,24,20,16
 UBCV,2020,W,MECH,467,,101,Computer Control of Mechatronics Systems,Atakan Zeybek;Behnam Karimi;Nima Dabiri Farahani;Yusuf Altintas,30,82.3,10.14430365,100.0,60.0,0,0,0,2,0.0,2,5,1,7,4,9
 UBCV,2020,W,MECH,467,,OVERALL,Computer Control of Mechatronics Systems,,30,82.3,10.14430365,100.0,60.0,0,0,0,2,0.0,2,5,1,7,4,9
-UBCV,2020,W,MECH,468,,201,Modern Control Engineering,Ryozo Nagamune;Yue Niu,36,82.77777778,11.66952346,98.0,55.0,0,0,2,0.0,1,5,2,2,4,5,15
-UBCV,2020,W,MECH,468,,OVERALL,Modern Control Engineering,,36,82.77777778,11.66952346,98.0,55.0,0,0,2,0.0,1,5,2,2,4,5,15
-UBCV,2020,W,MECH,470,,201,Energy Conversion Systems,Gwynn Elfring;Omid Hajieghrary;Siamak Najarian;William Kendal Bushe,29,79.51724138,7.419186948,92.0,63.0,0,0,0,1,0.0,3,6,4,6,5,4
-UBCV,2020,W,MECH,470,,OVERALL,Energy Conversion Systems,,29,79.51724138,7.419186948,92.0,63.0,0,0,0,1,0.0,3,6,4,6,5,4
-UBCV,2020,W,MECH,473,,101,"Heating, Ventilating and Air Conditioning",Hanie Asgari;Nima Atabaki,23,83.39130435,11.39273744,97.0,55.0,0,0,1,1,0,2,1,3,0,6,9
-UBCV,2020,W,MECH,473,,OVERALL,"Heating, Ventilating and Air Conditioning",,23,83.39130435,11.39273744,97.0,55.0,0,0,1,1,0,2,1,3,0,6,9
-UBCV,2020,W,MECH,477,,101,Aerospace Propulsion,Arash Mousemi;William Kendal Bushe,10,83.1,14.79827317,97.0,52.0,0,1,0,1,0,0,0,0,1,3,4
-UBCV,2020,W,MECH,477,,OVERALL,Aerospace Propulsion,,10,83.1,14.79827317,97.0,52.0,0,1,0,1,0,0,0,0,1,3,4
-UBCV,2020,W,MECH,478,,201,Internal Combustion Engines,Patrick Kirchen;Stefanie De Graaf;Troy Hurren,29,80.55172414,11.13740867,100.0,55.0,0,0,1,2,0.0,4,2,3,3,7,7
-UBCV,2020,W,MECH,478,,OVERALL,Internal Combustion Engines,,29,80.55172414,11.13740867,100.0,55.0,0,0,1,2,0.0,4,2,3,3,7,7
-UBCV,2020,W,MECH,479,,101,Introduction to Computational Fluid Dynamics,Ehsan Mirzaee;Rajeev Jaiman;Suraj Raktim Kashyap,26,80.80769231,8.390562464,92.0,52.0,0,,,,,1,4,4,7,6,3
-UBCV,2020,W,MECH,479,,OVERALL,Introduction to Computational Fluid Dynamics,,26,80.80769231,8.390562464,92.0,52.0,0,,,,,1,4,4,7,6,3
-UBCV,2020,W,MECH,481,,101,Aerodynamics of Aircraft I,Carl Ollivier-Gooch;Mohammad Zandsalimy,6,80.33333333,8.091147426,93.0,69.0,0,0,0,0,0,1,0,2,2,0,1
-UBCV,2020,W,MECH,481,,OVERALL,Aerodynamics of Aircraft I,,6,80.33333333,8.091147426,93.0,69.0,0,0,0,0,0,1,0,2,2,0,1
+UBCV,2020,W,MECH,468,,201,Modern Control Engineering,Ryozo Nagamune;Yue Niu,36,82.777777778,11.66952346,98.0,55.0,0,0,2,0.0,1,5,2,2,4,5,15
+UBCV,2020,W,MECH,468,,OVERALL,Modern Control Engineering,,36,82.777777778,11.66952346,98.0,55.0,0,0,2,0.0,1,5,2,2,4,5,15
+UBCV,2020,W,MECH,470,,201,Energy Conversion Systems,Gwynn Elfring;Omid Hajieghrary;Siamak Najarian;William Kendal Bushe,29,79.517241379,7.419186948,92.0,63.0,0,0,0,1,0.0,3,6,4,6,5,4
+UBCV,2020,W,MECH,470,,OVERALL,Energy Conversion Systems,,29,79.517241379,7.419186948,92.0,63.0,0,0,0,1,0.0,3,6,4,6,5,4
+UBCV,2020,W,MECH,473,,101,"Heating, Ventilating and Air Conditioning",Hanie Asgari;Nima Atabaki,23,83.391304348,11.392737441,97.0,55.0,0,0,1,1,0,2,1,3,0,6,9
+UBCV,2020,W,MECH,473,,OVERALL,"Heating, Ventilating and Air Conditioning",,23,83.391304348,11.392737441,97.0,55.0,0,0,1,1,0,2,1,3,0,6,9
+UBCV,2020,W,MECH,477,,101,Aerospace Propulsion,Arash Mousemi;William Kendal Bushe,10,83.1,14.798273173,97.0,52.0,0,1,0,1,0,0,0,0,1,3,4
+UBCV,2020,W,MECH,477,,OVERALL,Aerospace Propulsion,,10,83.1,14.798273173,97.0,52.0,0,1,0,1,0,0,0,0,1,3,4
+UBCV,2020,W,MECH,478,,201,Internal Combustion Engines,Patrick Kirchen;Stefanie De Graaf;Troy Hurren,29,80.551724138,11.137408672,100.0,55.0,0,0,1,2,0.0,4,2,3,3,7,7
+UBCV,2020,W,MECH,478,,OVERALL,Internal Combustion Engines,,29,80.551724138,11.137408672,100.0,55.0,0,0,1,2,0.0,4,2,3,3,7,7
+UBCV,2020,W,MECH,479,,101,Introduction to Computational Fluid Dynamics,Ehsan Mirzaee;Rajeev Jaiman;Suraj Raktim Kashyap,26,80.807692308,8.390562464,92.0,52.0,0,,,,,1,4,4,7,6,3
+UBCV,2020,W,MECH,479,,OVERALL,Introduction to Computational Fluid Dynamics,,26,80.807692308,8.390562464,92.0,52.0,0,,,,,1,4,4,7,6,3
+UBCV,2020,W,MECH,481,,101,Aerodynamics of Aircraft I,Carl Ollivier-Gooch;Mohammad Zandsalimy,6,80.333333333,8.091147426,93.0,69.0,0,0,0,0,0,1,0,2,2,0,1
+UBCV,2020,W,MECH,481,,OVERALL,Aerodynamics of Aircraft I,,6,80.333333333,8.091147426,93.0,69.0,0,0,0,0,0,1,0,2,2,0,1
 UBCV,2020,W,MECH,485,,101,Aircraft Design: Structures,Albert Kong;Mauricio Ponga De La Torre,32,84.15625,9.200663984,98.0,63.0,0,0,0,2,0,0,4,1,10,3,12
 UBCV,2020,W,MECH,485,,OVERALL,Aircraft Design: Structures,,32,84.15625,9.200663984,98.0,63.0,0,0,0,2,0,0,4,1,10,3,12
 UBCV,2020,W,MECH,488,,101,Introduction to Ship Hydrodynamics,Christopher Brian Mckesson;Christopher Mckesson;Yuecheng Cai,32,88.21875,6.558591386,99.0,71.0,0,0,0,0,0,1,0.0,1,6,11,13
 UBCV,2020,W,MECH,488,,OVERALL,Introduction to Ship Hydrodynamics,,32,88.21875,6.558591386,99.0,71.0,0,0,0,0,0,1,0.0,1,6,11,13
-UBCV,2020,W,MECH,489,,201,Experimental Thermofluids,Arthur Rostami;Nima Atabaki,14,83.57142857,6.524678427,93.0,71.0,0,0,0,0,0,2,0.0,1,2,7,2
-UBCV,2020,W,MECH,489,,OVERALL,Experimental Thermofluids,,14,83.57142857,6.524678427,93.0,71.0,0,0,0,0,0,2,0.0,1,2,7,2
-UBCV,2020,W,MECH,491,,101,Computer-Aided Manufacturing,Serban Cojocaru,24,78.91666667,14.35244765,99.0,52.0,0,1,2,1,1,2,3,4,2,1,7
-UBCV,2020,W,MECH,491,,OVERALL,Computer-Aided Manufacturing,,24,78.91666667,14.35244765,99.0,52.0,0,1,2,1,1,2,3,4,2,1,7
-UBCV,2020,W,MECH,493,,001,Introduction to Academic Research,Carl Ollivier-Gooch;William Kendal Bushe,6,88.33333333,1.505545305,90.0,86.0,0,0,0,0,0,0,0,0,0,5,1
-UBCV,2020,W,MECH,493,,OVERALL,Introduction to Academic Research,,6,88.33333333,1.505545305,90.0,86.0,0,0,0,0,0,0,0,0,0,5,1
-UBCV,2020,W,MECH,495,,201,Industrial Engineering,Arash Nikzad;Farrokh Sassani;Serban Cojocaru,57,90.89473684,6.64047172,99.0,72.0,0,0,0,0,0,0,2,2,7,9,37
-UBCV,2020,W,MECH,495,,OVERALL,Industrial Engineering,,57,90.89473684,6.64047172,99.0,72.0,0,0,0,0,0,0,2,2,7,9,37
-UBCV,2020,W,MECH,496,,201,Engineering Management,Casey King;George Rawlings,53,82.56603774,4.908820295,90.0,66.0,0,0,0,0,1,0.0,3,11,18,17,3
-UBCV,2020,W,MECH,496,,OVERALL,Engineering Management,,53,82.56603774,4.908820295,90.0,66.0,0,0,0,0,1,0.0,3,11,18,17,3
-UBCV,2020,W,MECH,500,A,101,Emerging Topics in Mechanical Engineering,Adrianna Eyking,12,85.16666667,7.732262204,95.0,68.0,0,0,0,0,0,1,1,0.0,2,4,4
-UBCV,2020,W,MECH,500,A,OVERALL,Emerging Topics in Mechanical Engineering,,12,85.16666667,7.732262204,95.0,68.0,0,0,0,0,0,1,1,0.0,2,4,4
-UBCV,2020,W,MECH,502,,101,Fluid Mechanics,Arash Nikzad;Gwynn Elfring;Ian Frigaard;Raksha Mahalinkam,18,72.77777778,20.06916146,91.0,16.0,4,0,0,0,0,0,2,3,4,1,4
-UBCV,2020,W,MECH,502,,OVERALL,Fluid Mechanics,,18,72.77777778,20.06916146,91.0,16.0,4,0,0,0,0,0,2,3,4,1,4
-UBCV,2020,W,MECH,503,,201,Linear Elasticity,Mauricio Ponga De La Torre,13,87.76923077,11.47572689,97.0,51.0,0,,,,,,,,,4,8
-UBCV,2020,W,MECH,503,,OVERALL,Linear Elasticity,,13,87.76923077,11.47572689,97.0,51.0,0,,,,,,,,,4,8
-UBCV,2020,W,MECH,509,,201,Controls,Ryozo Nagamune;Yue Niu,24,84.95833333,9.148433777,100.0,68.0,0,0,0,0,0,1,3,3,4,3,10
-UBCV,2020,W,MECH,509,,OVERALL,Controls,,24,84.95833333,9.148433777,100.0,68.0,0,0,0,0,0,1,3,3,4,3,10
-UBCV,2020,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Mattia Bacca;Rahmi Ugras;Zhiyuan Tong,11,73.45454546,9.543203198,90.0,60.0,0,0,0,2,1,1,3,2,0.0,1,1
-UBCV,2020,W,MECH,514,,OVERALL,Linear FEA in Solids and Heat Transfer,,11,73.45454546,9.543203198,90.0,60.0,0,0,0,2,1,1,3,2,0.0,1,1
-UBCV,2020,W,MECH,520,,101,Control Sensors and Actuators,Clarence Wilfred De Silva,14,82.21428571,9.090811688,92.0,67.0,0,0,0,0,1,2,1,1,2,2,5
-UBCV,2020,W,MECH,520,,OVERALL,Control Sensors and Actuators,,14,82.21428571,9.090811688,92.0,67.0,0,0,0,0,1,2,1,1,2,2,5
-UBCV,2020,W,MECH,521,,201,Fundamentals of Microelectromechanical Systems,Mu Chiao,6,89.66666667,3.265986324,95.0,85.0,0,0,0,0,0,0,0,0,0,2,4
-UBCV,2020,W,MECH,521,,OVERALL,Fundamentals of Microelectromechanical Systems,,6,89.66666667,3.265986324,95.0,85.0,0,0,0,0,0,0,0,0,0,2,4
-UBCV,2020,W,MECH,533,,201,Biofluids,Behzad Zakani;Dana Grecov,12,85.33333333,6.637816362,91.0,66.0,0,0,0,0,1,0,0,0,4,4,3
-UBCV,2020,W,MECH,533,,OVERALL,Biofluids,,12,85.33333333,6.637816362,91.0,66.0,0,0,0,0,1,0,0,0,4,4,3
+UBCV,2020,W,MECH,489,,201,Experimental Thermofluids,Arthur Rostami;Nima Atabaki,14,83.571428571,6.524678427,93.0,71.0,0,0,0,0,0,2,0.0,1,2,7,2
+UBCV,2020,W,MECH,489,,OVERALL,Experimental Thermofluids,,14,83.571428571,6.524678427,93.0,71.0,0,0,0,0,0,2,0.0,1,2,7,2
+UBCV,2020,W,MECH,491,,101,Computer-Aided Manufacturing,Serban Cojocaru,24,78.916666667,14.352447653,99.0,52.0,0,1,2,1,1,2,3,4,2,1,7
+UBCV,2020,W,MECH,491,,OVERALL,Computer-Aided Manufacturing,,24,78.916666667,14.352447653,99.0,52.0,0,1,2,1,1,2,3,4,2,1,7
+UBCV,2020,W,MECH,493,,001,Introduction to Academic Research,Carl Ollivier-Gooch;William Kendal Bushe,6,88.333333333,1.505545305,90.0,86.0,0,0,0,0,0,0,0,0,0,5,1
+UBCV,2020,W,MECH,493,,OVERALL,Introduction to Academic Research,,6,88.333333333,1.505545305,90.0,86.0,0,0,0,0,0,0,0,0,0,5,1
+UBCV,2020,W,MECH,495,,201,Industrial Engineering,Arash Nikzad;Farrokh Sassani;Serban Cojocaru,57,90.894736842,6.64047172,99.0,72.0,0,0,0,0,0,0,2,2,7,9,37
+UBCV,2020,W,MECH,495,,OVERALL,Industrial Engineering,,57,90.894736842,6.64047172,99.0,72.0,0,0,0,0,0,0,2,2,7,9,37
+UBCV,2020,W,MECH,496,,201,Engineering Management,Casey King;George Rawlings,53,82.566037736,4.908820295,90.0,66.0,0,0,0,0,1,0.0,3,11,18,17,3
+UBCV,2020,W,MECH,496,,OVERALL,Engineering Management,,53,82.566037736,4.908820295,90.0,66.0,0,0,0,0,1,0.0,3,11,18,17,3
+UBCV,2020,W,MECH,500,A,101,Emerging Topics in Mechanical Engineering,Adrianna Eyking,12,85.166666667,7.732262204,95.0,68.0,0,0,0,0,0,1,1,0.0,2,4,4
+UBCV,2020,W,MECH,500,A,OVERALL,Emerging Topics in Mechanical Engineering,,12,85.166666667,7.732262204,95.0,68.0,0,0,0,0,0,1,1,0.0,2,4,4
+UBCV,2020,W,MECH,502,,101,Fluid Mechanics,Arash Nikzad;Gwynn Elfring;Ian Frigaard;Raksha Mahalinkam,18,72.5,19.850174099,91.0,16.0,4,0,0,0,0,0,2,3,4,2,3
+UBCV,2020,W,MECH,502,,OVERALL,Fluid Mechanics,,18,72.5,19.850174099,91.0,16.0,4,0,0,0,0,0,2,3,4,2,3
+UBCV,2020,W,MECH,503,,201,Linear Elasticity,Mauricio Ponga De La Torre,13,87.769230769,11.475726892,97.0,51.0,0,,,,,,,,,4,8
+UBCV,2020,W,MECH,503,,OVERALL,Linear Elasticity,,13,87.769230769,11.475726892,97.0,51.0,0,,,,,,,,,4,8
+UBCV,2020,W,MECH,509,,201,Controls,Ryozo Nagamune;Yue Niu,24,84.958333333,9.148433777,100.0,68.0,0,0,0,0,0,1,3,3,4,3,10
+UBCV,2020,W,MECH,509,,OVERALL,Controls,,24,84.958333333,9.148433777,100.0,68.0,0,0,0,0,0,1,3,3,4,3,10
+UBCV,2020,W,MECH,514,,201,Linear FEA in Solids and Heat Transfer,Mattia Bacca;Rahmi Ugras;Zhiyuan Tong,11,73.727272727,9.696297325,90.0,60.0,0,0,0,2,1,1,3,1,1,1,1
+UBCV,2020,W,MECH,514,,OVERALL,Linear FEA in Solids and Heat Transfer,,11,73.727272727,9.696297325,90.0,60.0,0,0,0,2,1,1,3,1,1,1,1
+UBCV,2020,W,MECH,520,,101,Control Sensors and Actuators,Clarence Wilfred De Silva,14,82.214285714,9.090811688,92.0,67.0,0,0,0,0,1,2,1,1,2,2,5
+UBCV,2020,W,MECH,520,,OVERALL,Control Sensors and Actuators,,14,82.214285714,9.090811688,92.0,67.0,0,0,0,0,1,2,1,1,2,2,5
+UBCV,2020,W,MECH,521,,201,Fundamentals of Microelectromechanical Systems,Mu Chiao,6,89.666666667,3.265986324,95.0,85.0,0,0,0,0,0,0,0,0,0,2,4
+UBCV,2020,W,MECH,521,,OVERALL,Fundamentals of Microelectromechanical Systems,,6,89.666666667,3.265986324,95.0,85.0,0,0,0,0,0,0,0,0,0,2,4
+UBCV,2020,W,MECH,533,,201,Biofluids,Behzad Zakani;Dana Grecov,12,85.333333333,6.637816362,91.0,66.0,0,0,0,0,1,0,0,0,4,4,3
+UBCV,2020,W,MECH,533,,OVERALL,Biofluids,,12,85.333333333,6.637816362,91.0,66.0,0,0,0,0,1,0,0,0,4,4,3
 UBCV,2020,W,MECH,536,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont;Loay Al-Salehi,10,81.1,10.43977437,90.0,63.0,0,0,0,1,1,0.0,1,1,1,1,4
 UBCV,2020,W,MECH,536,,OVERALL,Fundamentals of Injury Biomechanics,,10,81.1,10.43977437,90.0,63.0,0,0,0,1,1,0.0,1,1,1,1,4
 UBCV,2020,W,MECH,540,A,101,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Christoph Sielmann;Minsi Sung;Mohammadhossein Rahimi,8,81.625,6.653409437,91.0,70.0,0,0,0,0,0,1,1,0.0,4,1,1
 UBCV,2020,W,MECH,540,A,OVERALL,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",,8,81.625,6.653409437,91.0,70.0,0,0,0,0,0,1,1,0.0,4,1,1
-UBCV,2020,W,MECH,540,B,201,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Christoph Sielmann;Mohammad Reza Yousefidarestani;Neha Suvindran,6,80.66666667,6.889605697,87.0,68.0,0,0,0,0,0,1,0.0,1,2,2,0
-UBCV,2020,W,MECH,540,B,OVERALL,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",,6,80.66666667,6.889605697,87.0,68.0,0,0,0,0,0,1,0.0,1,2,2,0
-UBCV,2020,W,MECH,540,D,201,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Hoai Nam Huynh,9,81.44444444,6.227180564,90.0,69.0,0,0,0,0,0,1,1,0.0,4,2,1
-UBCV,2020,W,MECH,540,D,OVERALL,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",,9,81.44444444,6.227180564,90.0,69.0,0,0,0,0,0,1,1,0.0,4,2,1
-UBCV,2020,W,MECH,541,,101,Computer Control of Multi-Axis Machines,Atakan Zeybek;Behnam Karimi;Nima Dabiri Farahani;Yusuf Altintas,17,86.94117647,11.62685785,100.0,60.0,0,0,0,1,1,0,1,0,3,3,8
-UBCV,2020,W,MECH,541,,OVERALL,Computer Control of Multi-Axis Machines,,17,86.94117647,11.62685785,100.0,60.0,0,0,0,1,1,0,1,0,3,3,8
-UBCV,2020,W,MECH,542,,101,CAD/CAM Principles and Practice,Serban Cojocaru,15,87.0,11.89837924,98.0,61.0,0,0,0,1,1,0,0,1,2,2,8
-UBCV,2020,W,MECH,542,,OVERALL,CAD/CAM Principles and Practice,,15,87.0,11.89837924,98.0,61.0,0,0,0,1,1,0,0,1,2,2,8
-UBCV,2020,W,MECH,544,,101,Machine Tool Structures and Vibrations,Yusuf Altintas,8,89.25,13.07942769,100.0,61.0,0,0,0,1,0,0,0,0,1,1,5
-UBCV,2020,W,MECH,544,,OVERALL,Machine Tool Structures and Vibrations,,8,89.25,13.07942769,100.0,61.0,0,0,0,1,0,0,0,0,1,1,5
+UBCV,2020,W,MECH,540,B,201,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Christoph Sielmann;Mohammad Reza Yousefidarestani;Neha Suvindran,6,80.666666667,6.889605697,87.0,68.0,0,0,0,0,0,1,0.0,1,2,2,0
+UBCV,2020,W,MECH,540,B,OVERALL,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",,6,80.666666667,6.889605697,87.0,68.0,0,0,0,0,0,1,0.0,1,2,2,0
+UBCV,2020,W,MECH,540,D,201,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Hoai Nam Huynh,9,81.444444444,6.227180564,90.0,69.0,0,0,0,0,0,1,1,0.0,4,2,1
+UBCV,2020,W,MECH,540,D,OVERALL,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",,9,81.444444444,6.227180564,90.0,69.0,0,0,0,0,0,1,1,0.0,4,2,1
+UBCV,2020,W,MECH,541,,101,Computer Control of Multi-Axis Machines,Atakan Zeybek;Behnam Karimi;Nima Dabiri Farahani;Yusuf Altintas,17,86.941176471,11.626857853,100.0,60.0,0,0,0,1,1,0,1,0,3,3,8
+UBCV,2020,W,MECH,541,,OVERALL,Computer Control of Multi-Axis Machines,,17,86.941176471,11.626857853,100.0,60.0,0,0,0,1,1,0,1,0,3,3,8
+UBCV,2020,W,MECH,542,,101,CAD/CAM Principles and Practice,Serban Cojocaru,15,87.0,11.898379241,98.0,61.0,0,0,0,1,1,0,0,1,2,2,8
+UBCV,2020,W,MECH,542,,OVERALL,CAD/CAM Principles and Practice,,15,87.0,11.898379241,98.0,61.0,0,0,0,1,1,0,0,1,2,2,8
+UBCV,2020,W,MECH,544,,101,Machine Tool Structures and Vibrations,Yusuf Altintas,8,89.25,13.079427685,100.0,61.0,0,0,0,1,0,0,0,0,1,1,5
+UBCV,2020,W,MECH,544,,OVERALL,Machine Tool Structures and Vibrations,,8,89.25,13.079427685,100.0,61.0,0,0,0,1,0,0,0,0,1,1,5
 UBCV,2020,W,MECH,570,B,201,Emerging Topics in Thermofluids,Gwynn Elfring,7,83.0,7.211102551,91.0,70.0,0,0,0,0,0,1,0,0,3,1,2
 UBCV,2020,W,MECH,570,B,OVERALL,Emerging Topics in Thermofluids,,7,83.0,7.211102551,91.0,70.0,0,0,0,0,0,1,0,0,3,1,2
-UBCV,2020,W,MECH,570,C,201,Emerging Topics in Thermofluids,Rajeev Jaiman,7,89.28571429,3.450327797,94.0,84.0,0,0,0,0,0,0,0,0,1,2,4
-UBCV,2020,W,MECH,570,C,OVERALL,Emerging Topics in Thermofluids,,7,89.28571429,3.450327797,94.0,84.0,0,0,0,0,0,0,0,0,1,2,4
-UBCV,2020,W,MECH,577,,101,Fuel Cell Systems,Mohammad Reza Karimi;Siamak Najarian,7,87.85714286,3.760699023,92.0,83.0,0,0,0,0,0,0,0,0,2,2,3
-UBCV,2020,W,MECH,577,,OVERALL,Fuel Cell Systems,,7,87.85714286,3.760699023,92.0,83.0,0,0,0,0,0,0,0,0,2,2,3
-UBCV,2020,W,MECH,582,,201,Experimental Fluid Mechanics,Arthur Rostami;Nima Atabaki,9,81.66666667,3.605551275,88.0,75.0,0,0,0,0,0,0,1,0.0,6,2,0
-UBCV,2020,W,MECH,582,,OVERALL,Experimental Fluid Mechanics,,9,81.66666667,3.605551275,88.0,75.0,0,0,0,0,0,0,1,0.0,6,2,0
-UBCV,2020,W,MECH,586,,201,Turbulent Shear Flow,William Kendal Bushe,9,90.66666667,4.74341649,97.0,84.0,0,0,0,0,0,0,0,0,1,3,5
-UBCV,2020,W,MECH,586,,OVERALL,Turbulent Shear Flow,,9,90.66666667,4.74341649,97.0,84.0,0,0,0,0,0,0,0,0,1,3,5
-UBCV,2020,W,MECH,587,,101,Computational Fluid Dynamics,Carl Ollivier-Gooch,15,78.33333333,17.6985337,96.0,24.0,1,0,0,1,0,1,2,1,2,4,3
-UBCV,2020,W,MECH,587,,OVERALL,Computational Fluid Dynamics,,15,78.33333333,17.6985337,96.0,24.0,1,0,0,1,0,1,2,1,2,4,3
-UBCV,2020,W,MECH,598,,DA0,Research Seminar,Mauricio Ponga De La Torre,6,87.33333333,5.006662228,92.0,80.0,0,0,0,0,0,0,0,0,2,0.0,4
-UBCV,2020,W,MECH,598,,OVERALL,Research Seminar,,12,88.33333333,4.030189108,92.0,80.0,0,0,0,0,0,0,0,0,2,3.0,7
-UBCV,2020,W,MECH,599,B,OVERALL,Thesis,,18,88.66666667,2.566755792,92.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2020,W,MECH,570,C,201,Emerging Topics in Thermofluids,Rajeev Jaiman,7,89.285714286,3.450327797,94.0,84.0,0,0,0,0,0,0,0,0,1,2,4
+UBCV,2020,W,MECH,570,C,OVERALL,Emerging Topics in Thermofluids,,7,89.285714286,3.450327797,94.0,84.0,0,0,0,0,0,0,0,0,1,2,4
+UBCV,2020,W,MECH,577,,101,Fuel Cell Systems,Mohammad Reza Karimi;Siamak Najarian,7,87.857142857,3.760699023,92.0,83.0,0,0,0,0,0,0,0,0,2,2,3
+UBCV,2020,W,MECH,577,,OVERALL,Fuel Cell Systems,,7,87.857142857,3.760699023,92.0,83.0,0,0,0,0,0,0,0,0,2,2,3
+UBCV,2020,W,MECH,582,,201,Experimental Fluid Mechanics,Arthur Rostami;Nima Atabaki,9,81.666666667,3.605551275,88.0,75.0,0,0,0,0,0,0,1,0.0,6,2,0
+UBCV,2020,W,MECH,582,,OVERALL,Experimental Fluid Mechanics,,9,81.666666667,3.605551275,88.0,75.0,0,0,0,0,0,0,1,0.0,6,2,0
+UBCV,2020,W,MECH,586,,201,Turbulent Shear Flow,William Kendal Bushe,9,90.666666667,4.74341649,97.0,84.0,0,0,0,0,0,0,0,0,1,3,5
+UBCV,2020,W,MECH,586,,OVERALL,Turbulent Shear Flow,,9,90.666666667,4.74341649,97.0,84.0,0,0,0,0,0,0,0,0,1,3,5
+UBCV,2020,W,MECH,587,,101,Computational Fluid Dynamics,Carl Ollivier-Gooch,15,78.333333333,17.698533703,96.0,24.0,1,0,0,1,0,1,2,1,2,4,3
+UBCV,2020,W,MECH,587,,OVERALL,Computational Fluid Dynamics,,15,78.333333333,17.698533703,96.0,24.0,1,0,0,1,0,1,2,1,2,4,3
+UBCV,2020,W,MECH,598,,MM0,Research Seminar,Clarence Wilfred De Silva,7,90.714285714,1.496026483,92.0,88.0,0,0,0,0,0,0,0,0,0,1,6
+UBCV,2020,W,MECH,598,,OVERALL,Research Seminar,,18,89.0,3.564531155,93.0,80.0,0,0,0,0,0,0,0,0,2.0,5,11
+UBCV,2020,W,MECH,599,B,OVERALL,Thesis,,16,88.5625,2.555223408,92.0,83.0,0,0,0,0,0,0,0,0,,,
+UBCV,2020,W,MECH,698,,OVERALL,Seminar,,6,92.0,2.0,94.0,89.0,0,0,0,0,0,0,0,0,0,,

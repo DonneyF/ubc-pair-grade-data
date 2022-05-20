@@ -1,77 +1,83 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,SOWK,200,,001,Introduction to Social Welfare,Fareed Mojab;Pascale De Kerckhove;Sara Fudjack,107,81.93457944,6.67616293,94.0,58.0,0,0,1,0.0,5,3,5.0,22,24,38,9
-UBCV,2020,W,SOWK,200,,OVERALL,Introduction to Social Welfare,,107,81.93457944,6.67616293,94.0,58.0,0,0,1,0.0,5,3,5.0,22,24,38,9
-UBCV,2020,W,SOWK,201,,001,Introduction to Social Work Practice,Alexis Baker;Andrea Johnson;Antoine Coulombe;Harpell Montgomery;Mohamed Ibrahim,68,85.54411765,6.539053342,97.0,61.0,0,0,0,1.0,0,0,4.0,6,18,20,19
-UBCV,2020,W,SOWK,201,,OVERALL,Introduction to Social Work Practice,,68,85.54411765,6.539053342,97.0,61.0,0,0,0,1.0,0,0,4.0,6,18,20,19
-UBCV,2020,W,SOWK,305,C,001,Topics in Social Work Practice I,Connie Bird;Grant Charles;Jennifer Ma,55,83.83636364,2.720046543,89.0,76.0,0,0,0,0.0,0,0,0.0,5,25,25,0
-UBCV,2020,W,SOWK,305,C,OVERALL,Topics in Social Work Practice I,,55,83.83636364,2.720046543,89.0,76.0,0,0,0,0.0,0,0,0.0,5,25,25,0
-UBCV,2020,W,SOWK,305,G,001,Topics in Social Work Practice I,Christiana Bratiotis;Darryl Gray;Marie Nightbird,56,87.91071429,2.900011196,92.0,81.0,0,0,0,0.0,0,0,0.0,0,8,26,22
-UBCV,2020,W,SOWK,305,G,OVERALL,Topics in Social Work Practice I,,56,87.91071429,2.900011196,92.0,81.0,0,0,0,0.0,0,0,0.0,0,8,26,22
-UBCV,2020,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison;Rae Morris,55,85.49090909,4.973532641,94.0,75.0,0,0,0,0.0,0,0,1.0,6,16,21,11
-UBCV,2020,W,SOWK,305,I,OVERALL,Topics in Social Work Practice I,,55,85.49090909,4.973532641,94.0,75.0,0,0,0,0.0,0,0,1.0,6,16,21,11
-UBCV,2020,W,SOWK,310,A,001,Interviewing Skills,Grant Charles,17,87.35294118,1.05718828,90.0,86.0,0,0,0,0.0,0,0,0.0,0,0,16,1
-UBCV,2020,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,19,86.57894737,2.911963627,90.0,79.0,0,0,0,0.0,0,0,0.0,1,1,13,4
-UBCV,2020,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,20,85.45,3.3478194,90.0,77.0,0,0,0,0.0,0,0,0.0,1,4,14,1
-UBCV,2020,W,SOWK,310,A,OVERALL,Interviewing Skills,,56,86.41071429,2.755337206,90.0,77.0,0,0,0,0.0,0,0,0.0,2,5,43,6
-UBCV,2020,W,SOWK,316,,001,"Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe;Erika Ono,18,90.61111111,2.546944857,96.0,85.0,0,0,0,0.0,0,0,0.0,0,0,5,13
-UBCV,2020,W,SOWK,316,,002,"Integrative Seminar in Social Work Theory, Policy and Practice",Hannah Kia,18,85.83333333,1.757337558,89.0,84.0,0,0,0,0.0,0,0,0.0,0,6,12,0
-UBCV,2020,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Miu Chung Yan;Rhea Del Vecchio,17,94.58823529,2.399448466,98.0,89.0,0,0,0,0.0,0,0,0.0,0,0,1,16
-UBCV,2020,W,SOWK,316,,OVERALL,"Integrative Seminar in Social Work Theory, Policy and Practice",,53,90.26415094,4.22515791,98.0,84.0,0,0,0,0.0,0,0,0.0,0,6,18,29
-UBCV,2020,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,28,90.85714286,2.965409043,95.0,86.0,0,0,0,0.0,0,0,0.0,0,0,13,15
-UBCV,2020,W,SOWK,325,,002,Indigenous Peoples and Critical Social Work Analysis,Jennifer-Lee Koble,27,91.55555556,2.621410855,95.0,85.0,0,0,0,0.0,0,0,0.0,0,0,7,20
-UBCV,2020,W,SOWK,325,,OVERALL,Indigenous Peoples and Critical Social Work Analysis,,55,91.2,2.798147535,95.0,85.0,0,0,0,0.0,0,0,0.0,0,0,20,35
-UBCV,2020,W,SOWK,335,,001,Topics in Social Analysis for Social Work Practice,Antoine Coulombe;Karl Urban,55,85.61818182,3.889639177,95.0,77.0,0,0,0,0.0,0,0,0.0,3,17,26,9
-UBCV,2020,W,SOWK,335,,OVERALL,Topics in Social Analysis for Social Work Practice,,55,85.61818182,3.889639177,95.0,77.0,0,0,0,0.0,0,0,0.0,3,17,26,9
-UBCV,2020,W,SOWK,400,,001,Canadian Social Policy,Jennifer Ortman;Timothy Stainton,50,88.22,3.587336002,94.0,79.0,0,0,0,0.0,0,0,0.0,1,8,19,22
-UBCV,2020,W,SOWK,400,,OVERALL,Canadian Social Policy,,50,88.22,3.587336002,94.0,79.0,0,0,0,0.0,0,0,0.0,1,8,19,22
-UBCV,2020,W,SOWK,405,,001,Social Work Practice II,Donna Baines;Kayla Boudreau;Rae Morris,50,83.46,4.518488098,93.0,69.0,0,0,0,0.0,0,1,0.0,7,21,18,3
-UBCV,2020,W,SOWK,405,,OVERALL,Social Work Practice II,,50,83.46,4.518488098,93.0,69.0,0,0,0,0.0,0,1,0.0,7,21,18,3
-UBCV,2020,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Ashley Quinn;Lea Caragata,20,87.0,2.828427125,91.0,81.0,0,0,0,0.0,0,0,0.0,0,2,13,5
-UBCV,2020,W,SOWK,416,,002,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Edward Andrew Kruk,8,87.625,2.065879266,90.0,84.0,0,0,0,0.0,0,0,0.0,0,1,6,1
-UBCV,2020,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe;Katrina Niebuhr;Kelly Allison,20,85.95,4.582288557,91.0,72.0,0,0,0,0.0,0,0,1.0,1,1,14,3
-UBCV,2020,W,SOWK,416,,OVERALL,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",,48,86.66666667,3.574932425,91.0,72.0,0,0,0,0.0,0,0,1.0,1,4,33,9
-UBCV,2020,W,SOWK,420,,001,Introduction to Social Work Research,Daniel Ji;Sheila Marshall,50,83.28,12.86038055,98.0,12.0,1,0,0,1.0,0,0,5.0,9,7,8,19
-UBCV,2020,W,SOWK,420,,OVERALL,Introduction to Social Work Research,,50,83.28,12.86038055,98.0,12.0,1,0,0,1.0,0,0,5.0,9,7,8,19
-UBCV,2020,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,16,87.9375,10.38889632,96.0,61.0,0,0,0,2.0,0,0,0.0,0,0,2,12
-UBCV,2020,W,SOWK,440,B,OVERALL,Integrative Seminars in Social Work,,16,87.9375,10.38889632,96.0,61.0,0,0,0,2.0,0,0,0.0,0,0,2,12
-UBCV,2020,W,SOWK,440,C,001,Integrative Seminars in Social Work,Antoine Coulombe,10,89.3,3.020301677,93.0,83.0,0,0,0,0.0,0,0,0.0,0,1,4,5
-UBCV,2020,W,SOWK,440,C,OVERALL,Integrative Seminars in Social Work,,10,89.3,3.020301677,93.0,83.0,0,0,0,0.0,0,0,0.0,0,1,4,5
-UBCV,2020,W,SOWK,440,K,001,Integrative Seminars in Social Work,Hannah Kia,20,86.0,2.406132516,91.0,80.0,0,0,0,0.0,0,0,0.0,0,5,14,1
-UBCV,2020,W,SOWK,440,K,OVERALL,Integrative Seminars in Social Work,,20,86.0,2.406132516,91.0,80.0,0,0,0,0.0,0,0,0.0,0,5,14,1
-UBCV,2020,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Erin Henthorne;Kelly Allison,29,86.03448276,3.995379104,93.0,80.0,0,0,0,0.0,0,0,0.0,0,13,8,8
-UBCV,2020,W,SOWK,440,Q,OVERALL,Integrative Seminars in Social Work,,29,86.03448276,3.995379104,93.0,80.0,0,0,0,0.0,0,0,0.0,0,13,8,8
-UBCV,2020,W,SOWK,441,,001,Social Context of Child Development,Barbara Lee;Jennifer Ma;Sheila Marshall,22,80.22727273,10.03295436,92.0,50.0,0,1,0,0.0,0,3,3.0,2,3,6,4
-UBCV,2020,W,SOWK,441,,OVERALL,Social Context of Child Development,,22,80.22727273,10.03295436,92.0,50.0,0,1,0,0.0,0,3,3.0,2,3,6,4
-UBCV,2020,W,SOWK,442,,001,Policy and Practice in Child Welfare,Ashley Quinn;Harepll Montgomery;Harpell Montgomery,16,79.9375,5.904447476,90.0,65.0,0,0,0,0.0,1,1,0.0,4,8,1,1
-UBCV,2020,W,SOWK,442,,OVERALL,Policy and Practice in Child Welfare,,16,79.9375,5.904447476,90.0,65.0,0,0,0,0.0,1,1,0.0,4,8,1,1
-UBCV,2020,W,SOWK,450,,99C,Social Work Practice in Community Mental Health,Simon Davis,18,86.5,6.410010553,95.0,69.0,0,0,0,0.0,0,1,0.0,1,4,5,7
-UBCV,2020,W,SOWK,450,,OVERALL,Social Work Practice in Community Mental Health,,18,86.5,6.410010553,95.0,69.0,0,0,0,0.0,0,1,0.0,1,4,5,7
-UBCV,2020,W,SOWK,453,,001,Disability and Justice,Timothy Stainton,24,87.875,1.454004964,90.0,84.0,0,0,0,0.0,0,0,0.0,0,1,19,4
-UBCV,2020,W,SOWK,453,,OVERALL,Disability and Justice,,24,87.875,1.454004964,90.0,84.0,0,0,0,0.0,0,0,0.0,0,1,19,4
-UBCV,2020,W,SOWK,521,,001,Social Work Practice in Addictions,Edward Andrew Kruk,18,82.55555556,4.217920065,89.0,71.0,0,0,0,0.0,0,1,0.0,2,8,7,0
-UBCV,2020,W,SOWK,521,,OVERALL,Social Work Practice in Addictions,,18,82.55555556,4.217920065,89.0,71.0,0,0,0,0.0,0,1,0.0,2,8,7,0
-UBCV,2020,W,SOWK,522,,001,Family Mediation and Conflict Resolution,Edward Andrew Kruk,10,82.8,5.959119995,91.0,73.0,0,0,0,0.0,0,0,2.0,1,2,3,2
-UBCV,2020,W,SOWK,522,,OVERALL,Family Mediation and Conflict Resolution,,10,82.8,5.959119995,91.0,73.0,0,0,0,0.0,0,0,2.0,1,2,3,2
-UBCV,2020,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Rae Morris,24,91.66666667,2.389590954,96.0,88.0,0,0,0,0.0,0,0,0.0,0,0,5,19
-UBCV,2020,W,SOWK,525,,OVERALL,Advanced Social Work Practice: Mental Health,,24,91.66666667,2.389590954,96.0,88.0,0,0,0,0.0,0,0,0.0,0,0,5,19
-UBCV,2020,W,SOWK,526,A,001,Social Work Practice with Individuals and Couples,Christiana Bratiotis,24,89.25,4.883423603,97.0,79.0,0,0,0,0.0,0,0,0.0,1,3,8,12
-UBCV,2020,W,SOWK,526,A,OVERALL,Social Work Practice with Individuals and Couples,,24,89.25,4.883423603,97.0,79.0,0,0,0,0.0,0,0,0.0,1,3,8,12
-UBCV,2020,W,SOWK,528,A,001,Social work Practice with Groups,Christiana Bratiotis;Rae Morris,17,89.94117647,3.831947746,96.0,83.0,0,0,0,0.0,0,0,0.0,0,1,8,8
-UBCV,2020,W,SOWK,528,A,OVERALL,Social work Practice with Groups,,17,89.94117647,3.831947746,96.0,83.0,0,0,0,0.0,0,0,0.0,0,1,8,8
-UBCV,2020,W,SOWK,529,A,001,"Communities and Social Development: Debates, Approaches and Fields of Practice",Antoine Coulombe,12,89.08333333,2.108783938,92.0,84.0,0,0,0,0.0,0,0,0.0,0,1,6,5
-UBCV,2020,W,SOWK,529,A,OVERALL,"Communities and Social Development: Debates, Approaches and Fields of Practice",,12,89.08333333,2.108783938,92.0,84.0,0,0,0,0.0,0,0,0.0,0,1,6,5
-UBCV,2020,W,SOWK,532,A,001,Social Work Practice with the Family,Christiana Bratiotis;Rae Morris,20,88.75,4.951076438,99.0,81.0,0,0,0,0.0,0,0,0.0,0,5,5,10
-UBCV,2020,W,SOWK,532,A,OVERALL,Social Work Practice with the Family,,20,88.75,4.951076438,99.0,81.0,0,0,0,0.0,0,0,0.0,0,5,5,10
-UBCV,2020,W,SOWK,550,,001,Social Work and Social Justice,Antoine Coulombe;Erika Ono;Harepll Montgomery;Harpell Montgomery;Timothy Stainton,37,85.78378378,3.038047026,91.0,80.0,0,0,0,0.0,0,0,0.0,0,14,19,4
-UBCV,2020,W,SOWK,550,,OVERALL,Social Work and Social Justice,,37,85.78378378,3.038047026,91.0,80.0,0,0,0,0.0,0,0,0.0,0,14,19,4
-UBCV,2020,W,SOWK,551,,001,Health and Social Care Praxis,Harvey Bosma;Harvey R Bosma;Jaclyn Sauer;Teresa Robitaille,13,84.07692308,5.453768398,91.0,76.0,0,0,0,0.0,0,0,0.0,3,3,5,2
-UBCV,2020,W,SOWK,551,,002,Health and Social Care Praxis,Kelly Allison,8,85.375,5.208166664,91.0,76.0,0,0,0,0.0,0,0,0.0,1,2,4,1
-UBCV,2020,W,SOWK,551,,OVERALL,Health and Social Care Praxis,,21,84.57142857,5.268504803,91.0,76.0,0,0,0,0.0,0,0,0.0,4,5,9,3
-UBCV,2020,W,SOWK,553,C,001,Quantitative Methods in Social Work Research,Sheila Marshall,6,81.16666667,10.40032051,93.0,66.0,0,0,0,0.0,1,0,1.0,0,2,0,2
-UBCV,2020,W,SOWK,553,C,OVERALL,Quantitative Methods in Social Work Research,,6,81.16666667,10.40032051,93.0,66.0,0,0,0,0.0,1,0,1.0,0,2,0,2
-UBCV,2020,W,SOWK,554,C,001,Qualitative Methods in Social Work Research,Janet Vaughan Marshall;Miu Chung Yan,19,83.05263158,4.926951776,90.0,70.0,0,0,0,0.0,0,1,0.0,2,10,3,3
-UBCV,2020,W,SOWK,554,C,002,Qualitative Methods in Social Work Research,Simon Davis,11,90.45454546,1.967924611,94.0,89.0,0,0,0,0.0,0,0,0.0,0,0,6,5
-UBCV,2020,W,SOWK,554,C,OVERALL,Qualitative Methods in Social Work Research,,30,85.76666667,5.437312555,94.0,70.0,0,0,0,0.0,0,1,0.0,2,10,9,8
-UBCV,2020,W,SOWK,559,,001,Advanced Integrative Seminar,Deborah O'Connor;Grace Ko;Marie Nightbird;Mohamed Ibrahim,15,94.46666667,2.325838303,97.0,88.0,0,0,0,0.0,0,0,0.0,0,0,1,14
-UBCV,2020,W,SOWK,559,,002,Advanced Integrative Seminar,Deborah O'Connor;Mohamed Ibrahim,12,90.41666667,5.367551216,97.0,82.0,0,0,0,0.0,0,0,0.0,0,3,1,8
-UBCV,2020,W,SOWK,559,,OVERALL,Advanced Integrative Seminar,,28,92.71428571,4.319268996,97.0,82.0,0,0,0,0.0,0,0,0.0,0,3,2,23
+UBCV,2020,W,SOWK,200,,001,Introduction to Social Welfare,Fareed Mojab;Pascale De Kerckhove;Sara Fudjack,107,81.934579439,6.67616293,94.0,58.0,0,0,1,0.0,5,3,5.0,22,24.0,38,9
+UBCV,2020,W,SOWK,200,,OVERALL,Introduction to Social Welfare,,107,81.934579439,6.67616293,94.0,58.0,0,0,1,0.0,5,3,5.0,22,24.0,38,9
+UBCV,2020,W,SOWK,201,,001,Introduction to Social Work Practice,Alexis Baker;Andrea Johnson;Antoine Coulombe;Harpell Montgomery;Mohamed Ibrahim,68,85.588235294,6.538600184,97.0,61.0,0,0,0,1.0,0,0,4.0,6,17.0,20,20
+UBCV,2020,W,SOWK,201,,OVERALL,Introduction to Social Work Practice,,68,85.588235294,6.538600184,97.0,61.0,0,0,0,1.0,0,0,4.0,6,17.0,20,20
+UBCV,2020,W,SOWK,305,C,001,Topics in Social Work Practice I,Connie Bird;Grant Charles;Jennifer Ma,55,83.836363636,2.720046543,89.0,76.0,0,0,0,0.0,0,0,0.0,5,25.0,25,0
+UBCV,2020,W,SOWK,305,C,OVERALL,Topics in Social Work Practice I,,55,83.836363636,2.720046543,89.0,76.0,0,0,0,0.0,0,0,0.0,5,25.0,25,0
+UBCV,2020,W,SOWK,305,G,001,Topics in Social Work Practice I,Christiana Bratiotis;Darryl Gray;Marie Nightbird,56,87.910714286,2.900011196,92.0,81.0,0,0,0,0.0,0,0,0.0,0,8.0,26,22
+UBCV,2020,W,SOWK,305,G,OVERALL,Topics in Social Work Practice I,,56,87.910714286,2.900011196,92.0,81.0,0,0,0,0.0,0,0,0.0,0,8.0,26,22
+UBCV,2020,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison;Rae Morris,55,85.490909091,4.973532641,94.0,75.0,0,0,0,0.0,0,0,1.0,6,16.0,21,11
+UBCV,2020,W,SOWK,305,I,OVERALL,Topics in Social Work Practice I,,55,85.490909091,4.973532641,94.0,75.0,0,0,0,0.0,0,0,1.0,6,16.0,21,11
+UBCV,2020,W,SOWK,310,A,001,Interviewing Skills,Grant Charles,17,87.352941176,1.05718828,90.0,86.0,0,0,0,0.0,0,0,0.0,0,0.0,16,1
+UBCV,2020,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,19,86.578947368,2.911963627,90.0,79.0,0,0,0,0.0,0,0,0.0,1,1.0,13,4
+UBCV,2020,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,20,85.45,3.3478194,90.0,77.0,0,0,0,0.0,0,0,0.0,1,4.0,14,1
+UBCV,2020,W,SOWK,310,A,OVERALL,Interviewing Skills,,56,86.410714286,2.755337206,90.0,77.0,0,0,0,0.0,0,0,0.0,2,5.0,43,6
+UBCV,2020,W,SOWK,316,,001,"Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe;Erika Ono,18,90.611111111,2.546944857,96.0,85.0,0,0,0,0.0,0,0,0.0,0,0.0,5,13
+UBCV,2020,W,SOWK,316,,002,"Integrative Seminar in Social Work Theory, Policy and Practice",Hannah Kia,18,85.833333333,1.757337558,89.0,84.0,0,0,0,0.0,0,0,0.0,0,6.0,12,0
+UBCV,2020,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Miu Chung Yan;Rhea Del Vecchio,17,94.588235294,2.399448466,98.0,89.0,0,0,0,0.0,0,0,0.0,0,0.0,1,16
+UBCV,2020,W,SOWK,316,,OVERALL,"Integrative Seminar in Social Work Theory, Policy and Practice",,53,90.264150943,4.22515791,98.0,84.0,0,0,0,0.0,0,0,0.0,0,6.0,18,29
+UBCV,2020,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,28,90.857142857,2.965409043,95.0,86.0,0,0,0,0.0,0,0,0.0,0,0.0,13,15
+UBCV,2020,W,SOWK,325,,002,Indigenous Peoples and Critical Social Work Analysis,Jennifer-Lee Koble,27,91.555555556,2.621410855,95.0,85.0,0,0,0,0.0,0,0,0.0,0,0.0,7,20
+UBCV,2020,W,SOWK,325,,OVERALL,Indigenous Peoples and Critical Social Work Analysis,,55,91.2,2.798147535,95.0,85.0,0,0,0,0.0,0,0,0.0,0,0.0,20,35
+UBCV,2020,W,SOWK,335,,001,Topics in Social Analysis for Social Work Practice,Antoine Coulombe;Karl Urban,55,85.618181818,3.889639177,95.0,77.0,0,0,0,0.0,0,0,0.0,3,17.0,26,9
+UBCV,2020,W,SOWK,335,,OVERALL,Topics in Social Analysis for Social Work Practice,,55,85.618181818,3.889639177,95.0,77.0,0,0,0,0.0,0,0,0.0,3,17.0,26,9
+UBCV,2020,W,SOWK,337,,002,Culture and Race in Social Work Practice,Barbara Lee;Kaan G�Nc�;Kaan G���Nc���;Tsering Dolkar Watermeyer;Tsering Watermeyer,55,86.690909091,5.3916009,94.0,54.0,0,1,0,0.0,0,0,0.0,1,6.0,35,12
+UBCV,2020,W,SOWK,337,,OVERALL,Culture and Race in Social Work Practice,,55,86.690909091,5.3916009,94.0,54.0,0,1,0,0.0,0,0,0.0,1,6.0,35,12
+UBCV,2020,W,SOWK,400,,001,Canadian Social Policy,Jennifer Ortman;Timothy Stainton,50,88.22,3.587336002,94.0,79.0,0,0,0,0.0,0,0,0.0,1,8.0,19,22
+UBCV,2020,W,SOWK,400,,OVERALL,Canadian Social Policy,,50,88.22,3.587336002,94.0,79.0,0,0,0,0.0,0,0,0.0,1,8.0,19,22
+UBCV,2020,W,SOWK,405,,001,Social Work Practice II,Donna Baines;Kayla Boudreau;Rae Morris,50,83.46,4.518488098,93.0,69.0,0,0,0,0.0,0,1,0.0,7,21.0,18,3
+UBCV,2020,W,SOWK,405,,OVERALL,Social Work Practice II,,50,83.46,4.518488098,93.0,69.0,0,0,0,0.0,0,1,0.0,7,21.0,18,3
+UBCV,2020,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Ashley Quinn;Lea Caragata,20,87.0,2.828427125,91.0,81.0,0,0,0,0.0,0,0,0.0,0,2.0,13,5
+UBCV,2020,W,SOWK,416,,002,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Edward Andrew Kruk,8,87.625,2.065879266,90.0,84.0,0,0,0,0.0,0,0,0.0,0,1.0,6,1
+UBCV,2020,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe;Katrina Niebuhr;Kelly Allison,20,85.95,4.582288557,91.0,72.0,0,0,0,0.0,0,0,1.0,1,1.0,14,3
+UBCV,2020,W,SOWK,416,,OVERALL,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",,48,86.666666667,3.574932425,91.0,72.0,0,0,0,0.0,0,0,1.0,1,4.0,33,9
+UBCV,2020,W,SOWK,420,,001,Introduction to Social Work Research,Daniel Ji;Sheila Marshall,50,84.48,7.926293109,98.0,63.0,0,0,0,1.0,0,0,6.0,9,7.0,8,19
+UBCV,2020,W,SOWK,420,,OVERALL,Introduction to Social Work Research,,50,84.48,7.926293109,98.0,63.0,0,0,0,1.0,0,0,6.0,9,7.0,8,19
+UBCV,2020,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,16,87.9375,10.388896316,96.0,61.0,0,0,0,2.0,0,0,0.0,0,0.0,2,12
+UBCV,2020,W,SOWK,440,B,OVERALL,Integrative Seminars in Social Work,,16,87.9375,10.388896316,96.0,61.0,0,0,0,2.0,0,0,0.0,0,0.0,2,12
+UBCV,2020,W,SOWK,440,C,001,Integrative Seminars in Social Work,Antoine Coulombe,10,89.3,3.020301677,93.0,83.0,0,0,0,0.0,0,0,0.0,0,1.0,4,5
+UBCV,2020,W,SOWK,440,C,OVERALL,Integrative Seminars in Social Work,,10,89.3,3.020301677,93.0,83.0,0,0,0,0.0,0,0,0.0,0,1.0,4,5
+UBCV,2020,W,SOWK,440,K,001,Integrative Seminars in Social Work,Hannah Kia,20,86.0,2.406132516,91.0,80.0,0,0,0,0.0,0,0,0.0,0,5.0,14,1
+UBCV,2020,W,SOWK,440,K,OVERALL,Integrative Seminars in Social Work,,20,86.0,2.406132516,91.0,80.0,0,0,0,0.0,0,0,0.0,0,5.0,14,1
+UBCV,2020,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Erin Henthorne;Kelly Allison,29,86.034482759,3.995379104,93.0,80.0,0,0,0,0.0,0,0,0.0,0,13.0,8,8
+UBCV,2020,W,SOWK,440,Q,OVERALL,Integrative Seminars in Social Work,,29,86.034482759,3.995379104,93.0,80.0,0,0,0,0.0,0,0,0.0,0,13.0,8,8
+UBCV,2020,W,SOWK,441,,001,Social Context of Child Development,Barbara Lee;Jennifer Ma;Sheila Marshall,22,80.227272727,10.032954359,92.0,50.0,0,1,0,0.0,0,3,3.0,2,3.0,6,4
+UBCV,2020,W,SOWK,441,,OVERALL,Social Context of Child Development,,22,80.227272727,10.032954359,92.0,50.0,0,1,0,0.0,0,3,3.0,2,3.0,6,4
+UBCV,2020,W,SOWK,442,,001,Policy and Practice in Child Welfare,Ashley Quinn;Harepll Montgomery;Harpell Montgomery,16,79.9375,5.904447476,90.0,65.0,0,0,0,0.0,1,1,0.0,4,8.0,1,1
+UBCV,2020,W,SOWK,442,,OVERALL,Policy and Practice in Child Welfare,,16,79.9375,5.904447476,90.0,65.0,0,0,0,0.0,1,1,0.0,4,8.0,1,1
+UBCV,2020,W,SOWK,450,,99C,Social Work Practice in Community Mental Health,Simon Davis,18,86.5,6.410010553,95.0,69.0,0,0,0,0.0,0,1,0.0,1,4.0,5,7
+UBCV,2020,W,SOWK,450,,OVERALL,Social Work Practice in Community Mental Health,,18,86.5,6.410010553,95.0,69.0,0,0,0,0.0,0,1,0.0,1,4.0,5,7
+UBCV,2020,W,SOWK,453,,001,Disability and Justice,Timothy Stainton,24,87.875,1.454004964,90.0,84.0,0,0,0,0.0,0,0,0.0,0,1.0,19,4
+UBCV,2020,W,SOWK,453,,OVERALL,Disability and Justice,,24,87.875,1.454004964,90.0,84.0,0,0,0,0.0,0,0,0.0,0,1.0,19,4
+UBCV,2020,W,SOWK,521,,001,Social Work Practice in Addictions,Edward Andrew Kruk,18,82.555555556,4.217920065,89.0,71.0,0,0,0,0.0,0,1,0.0,2,8.0,7,0
+UBCV,2020,W,SOWK,521,,OVERALL,Social Work Practice in Addictions,,18,82.555555556,4.217920065,89.0,71.0,0,0,0,0.0,0,1,0.0,2,8.0,7,0
+UBCV,2020,W,SOWK,522,,001,Family Mediation and Conflict Resolution,Edward Andrew Kruk,10,82.8,5.959119995,91.0,73.0,0,0,0,0.0,0,0,2.0,1,2.0,3,2
+UBCV,2020,W,SOWK,522,,OVERALL,Family Mediation and Conflict Resolution,,10,82.8,5.959119995,91.0,73.0,0,0,0,0.0,0,0,2.0,1,2.0,3,2
+UBCV,2020,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Rae Morris,24,91.666666667,2.389590954,96.0,88.0,0,0,0,0.0,0,0,0.0,0,0.0,5,19
+UBCV,2020,W,SOWK,525,,OVERALL,Advanced Social Work Practice: Mental Health,,24,91.666666667,2.389590954,96.0,88.0,0,0,0,0.0,0,0,0.0,0,0.0,5,19
+UBCV,2020,W,SOWK,526,A,001,Social Work Practice with Individuals and Couples,Christiana Bratiotis,24,89.25,4.883423603,97.0,79.0,0,0,0,0.0,0,0,0.0,1,3.0,8,12
+UBCV,2020,W,SOWK,526,A,OVERALL,Social Work Practice with Individuals and Couples,,24,89.25,4.883423603,97.0,79.0,0,0,0,0.0,0,0,0.0,1,3.0,8,12
+UBCV,2020,W,SOWK,528,A,001,Social work Practice with Groups,Christiana Bratiotis;Rae Morris,17,89.941176471,3.831947746,96.0,83.0,0,0,0,0.0,0,0,0.0,0,1.0,8,8
+UBCV,2020,W,SOWK,528,A,OVERALL,Social work Practice with Groups,,17,89.941176471,3.831947746,96.0,83.0,0,0,0,0.0,0,0,0.0,0,1.0,8,8
+UBCV,2020,W,SOWK,529,A,001,"Communities and Social Development: Debates, Approaches and Fields of Practice",Antoine Coulombe,12,89.083333333,2.108783938,92.0,84.0,0,0,0,0.0,0,0,0.0,0,1.0,6,5
+UBCV,2020,W,SOWK,529,A,OVERALL,"Communities and Social Development: Debates, Approaches and Fields of Practice",,12,89.083333333,2.108783938,92.0,84.0,0,0,0,0.0,0,0,0.0,0,1.0,6,5
+UBCV,2020,W,SOWK,531,,001,Social Work Practice in the Field of Aging,Deborah O'Connor,6,87.833333333,2.316606714,91.0,85.0,0,0,0,0.0,0,0,0.0,0,0.0,4,2
+UBCV,2020,W,SOWK,531,,OVERALL,Social Work Practice in the Field of Aging,,6,87.833333333,2.316606714,91.0,85.0,0,0,0,0.0,0,0,0.0,0,0.0,4,2
+UBCV,2020,W,SOWK,532,A,001,Social Work Practice with the Family,Christiana Bratiotis;Rae Morris,20,88.75,4.951076438,99.0,81.0,0,0,0,0.0,0,0,0.0,0,5.0,5,10
+UBCV,2020,W,SOWK,532,A,OVERALL,Social Work Practice with the Family,,20,88.75,4.951076438,99.0,81.0,0,0,0,0.0,0,0,0.0,0,5.0,5,10
+UBCV,2020,W,SOWK,550,,001,Social Work and Social Justice,Antoine Coulombe;Erika Ono;Harepll Montgomery;Harpell Montgomery;Timothy Stainton,37,85.783783784,3.038047026,91.0,80.0,0,0,0,0.0,0,0,0.0,0,14.0,19,4
+UBCV,2020,W,SOWK,550,,OVERALL,Social Work and Social Justice,,37,85.783783784,3.038047026,91.0,80.0,0,0,0,0.0,0,0,0.0,0,14.0,19,4
+UBCV,2020,W,SOWK,551,,001,Health and Social Care Praxis,Harvey Bosma;Harvey R Bosma;Jaclyn Sauer;Teresa Robitaille,13,84.076923077,5.453768398,91.0,76.0,0,0,0,0.0,0,0,0.0,3,3.0,5,2
+UBCV,2020,W,SOWK,551,,002,Health and Social Care Praxis,Kelly Allison,8,85.375,5.208166664,91.0,76.0,0,0,0,0.0,0,0,0.0,1,2.0,4,1
+UBCV,2020,W,SOWK,551,,OVERALL,Health and Social Care Praxis,,21,84.571428571,5.268504803,91.0,76.0,0,0,0,0.0,0,0,0.0,4,5.0,9,3
+UBCV,2020,W,SOWK,553,C,001,Quantitative Methods in Social Work Research,Sheila Marshall,6,81.166666667,10.400320508,93.0,66.0,0,0,0,0.0,1,0,1.0,0,2.0,0,2
+UBCV,2020,W,SOWK,553,C,OVERALL,Quantitative Methods in Social Work Research,,6,81.166666667,10.400320508,93.0,66.0,0,0,0,0.0,1,0,1.0,0,2.0,0,2
+UBCV,2020,W,SOWK,554,C,001,Qualitative Methods in Social Work Research,Janet Vaughan Marshall;Miu Chung Yan,20,83.1,4.800219293,90.0,70.0,0,0,0,0.0,0,1,0.0,2,11.0,3,3
+UBCV,2020,W,SOWK,554,C,002,Qualitative Methods in Social Work Research,Simon Davis,11,90.454545455,1.967924611,94.0,89.0,0,0,0,0.0,0,0,0.0,0,0.0,6,5
+UBCV,2020,W,SOWK,554,C,OVERALL,Qualitative Methods in Social Work Research,,31,85.709677419,5.355330979,94.0,70.0,0,0,0,0.0,0,1,0.0,2,11.0,9,8
+UBCV,2020,W,SOWK,559,,001,Advanced Integrative Seminar,Deborah O'Connor;Grace Ko;Marie Nightbird;Mohamed Ibrahim,15,94.466666667,2.325838303,97.0,88.0,0,0,0,0.0,0,0,0.0,0,0.0,1,14
+UBCV,2020,W,SOWK,559,,002,Advanced Integrative Seminar,Deborah O'Connor;Mohamed Ibrahim,13,89.615384615,5.895456747,97.0,80.0,0,0,0,0.0,0,0,0.0,0,4.0,1,8
+UBCV,2020,W,SOWK,559,,OVERALL,Advanced Integrative Seminar,,29,92.275862069,4.854280524,97.0,80.0,0,0,0,0.0,0,0,0.0,0,4.0,2,23
+UBCV,2020,W,SOWK,654,,001,Advanced Qualitative Inquiry,Deborah O'Connor,6,84.833333333,4.020779361,88.0,77.0,0,0,0,0.0,0,0,0.0,1,0.0,5,0
+UBCV,2020,W,SOWK,654,,OVERALL,Advanced Qualitative Inquiry,,6,84.833333333,4.020779361,88.0,77.0,0,0,0,0.0,0,0,0.0,1,0.0,5,0

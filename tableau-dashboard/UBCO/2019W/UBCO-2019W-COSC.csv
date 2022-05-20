@@ -1,75 +1,75 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2019,W,COSC,101,,101,Digital Citizenship,Ayazhan Akhmet;Billy Spelchan;Chad Kohalyk;Nipas Visavachaipan;Opeyemi Adeyemi;Patrick Nadeau;Rishab Sharma;Tenzin Jinpa;Tianhao Wang;Vladimir Grebenyuk;Will Mcfarland;Yohen Thounaojam,113,77.85840708,13.23608923,96.0,0.0,5,1.0,5.0,2,3.0,3,15,16,26,24,13
-UBCO,2019,W,COSC,101,,OVERALL,Digital Citizenship,,113,77.85840708,13.23608923,96.0,0.0,5,1.0,5.0,2,3.0,3,15,16,26,24,13
-UBCO,2019,W,COSC,111,,002,Computer Programming I,Abdallah Mohamed;Abhineeth Adiraju;Cameron Chong;Devina Jaiswal;Emily Medema;Khandoker Md Ayman;Kyle Ranslam;Shima Amirsadri;Tianhao Wang,321,76.72274143,19.90888024,100.0,0.0,53,4.0,5.0,8,11.0,17,23,19,40,40,101
-UBCO,2019,W,COSC,111,,101,Computer Programming I,Abhineeth Adiraju;Amir Hossein Zeinali Kalkhoran;Bowen Hui;Cameron Chong;Erik Johnston;Islam Osman;John Graham-Knight;Opeyemi Adeyemi;Pradeep Mahato;Tenzin Jinpa,85,79.54117647,20.95661786,100.0,0.0,13,1.0,0.0,1,2.0,2,4,5,11,10,36
-UBCO,2019,W,COSC,111,,OVERALL,Computer Programming I,,406,77.31280788,20.13910105,100.0,0.0,66,5.0,5.0,9,13.0,19,27,24,51,50,137
-UBCO,2019,W,COSC,114,,101,Vector Graphics and Animations,Amir Hossein Zeinali Kalkhoran;Biswapriyo Chakrabarty;Miles Thorogood;Tatiana Urazova;Thomas Van De Crommenacker;Vladimir Grebenyuk,35,75.6,14.54243284,93.0,45.0,4,0.0,0.0,4,0.0,2,4,4,4,9,4
-UBCO,2019,W,COSC,114,,OVERALL,Vector Graphics and Animations,,35,75.6,14.54243284,93.0,45.0,4,0.0,0.0,4,0.0,2,4,4,4,9,4
-UBCO,2019,W,COSC,121,,101,Computer Programming II,Abdallah Mohamed;Amir Hossein Zeinali Kalkhoran;Andrew Ogilvy;Ayazhan Akhmet;Biswapriyo Chakrabarty;Bradley A Reinholz;Bradley Reinholz;Ivan De Avila Ribeiro Carvalho;Kanishka Verma;Kathryn Ng;Larry Gu;Maria Guenter;Mohamed Shehata;Mohammad Hadi;Nusrat Momo;Nusrat Suzana Momo;Owen Murovec;Patrick Nadeau;Pinku Nath;Pradeep Mahato;Rishab Sharma;Roozbeh Eslami;Swakhar Poddar;Tenzin Jinpa;Thomas Van De Crommenacker;Tianhao Wang;Zil Huma,274,75.1350365,13.74386359,98.0,22.0,12,3.0,18.0,18,24.0,25,26,25,43,37,43
-UBCO,2019,W,COSC,121,,OVERALL,Computer Programming II,,274,75.1350365,13.74386359,98.0,22.0,12,3.0,18.0,18,24.0,25,26,25,43,37,43
-UBCO,2019,W,COSC,122,,001,Computer Fluency,Abdallah Mohamed;Ivan De Avila Ribeiro Carvalho;Shima Amirsadri;Trevor Richard;Vladimir Grebenyuk,141,74.34751773,15.68711292,100.0,0.0,7,5.0,7.0,14,8.0,15,11,8,26,20,20
-UBCO,2019,W,COSC,122,,OVERALL,Computer Fluency,,141,74.34751773,15.68711292,100.0,0.0,7,5.0,7.0,14,8.0,15,11,8,26,20,20
-UBCO,2019,W,COSC,123,,101,Computer Creativity,Abdallah Mohamed;Amir Hossein Zeinali Kalkhoran;Congsong Zhang;Nathania Hendradjaja;Nusrat Momo;Pinku Nath;Tenzin Jinpa,74,84.74324324,15.3961931,100.0,36.0,5,0.0,0.0,2,4.0,1,6,6,5,7,38
-UBCO,2019,W,COSC,123,,OVERALL,Computer Creativity,,74,84.74324324,15.3961931,100.0,36.0,5,0.0,0.0,2,4.0,1,6,6,5,7,38
-UBCO,2019,W,COSC,150,,001,Physical Computing,Mahshid Alinoori;Miles Thorogood;Morgan Rauscher,47,88.68085106,8.503468303,97.0,58.0,0,0.0,1.0,2,0.0,0,1,0,4,10,29
-UBCO,2019,W,COSC,150,,OVERALL,Physical Computing,,47,88.68085106,8.503468303,97.0,58.0,0,0.0,1.0,2,0.0,0,1,0,4,10,29
-UBCO,2019,W,COSC,210,,101,Software Construction,Biswapriyo Chakrabarty;Kathryn Lecha;Kathryn Zeeba Lecha;Mohamed Shehata;Sherif Elbishlawi,24,78.54166667,16.58175836,99.0,40.0,1,1.0,1.0,1,2.0,3,2,1,2,2,8
-UBCO,2019,W,COSC,210,,OVERALL,Software Construction,,24,78.54166667,16.58175836,99.0,40.0,1,1.0,1.0,1,2.0,3,2,1,2,2,8
-UBCO,2019,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Ayazhan Akhmet;Nenman Gomwalk;Rishab Sharma,99,80.21212121,13.69363976,100.0,45.0,4,1.0,4.0,2,4.0,8,14,6,8,18,30
-UBCO,2019,W,COSC,211,,002,Machine Architecture,Abdallah Mohamed;Ayazhan Akhmet;Nenman Gomwalk;Rishab Sharma,34,64.08823529,18.11974922,97.0,16.0,7,1.0,2.0,3,3.0,5,7,0.0,2,3,1
-UBCO,2019,W,COSC,211,,OVERALL,Machine Architecture,,133,76.09022556,16.46642988,100.0,16.0,11,2.0,6.0,5,7.0,13,21,6,10,21,31
-UBCO,2019,W,COSC,221,,101,Introduction to Discrete Structures,Bradley Reinholz;Chad Davis;Congsong Zhang;Devina Jaiswal;Emily Medema;Maryam Sadeghi;Rishab Sharma;Tenzin Jinpa;Xiaoying Zhang;Yohen Thounaojam;Zil Huma,79,73.55696203,15.92349243,100.0,22.0,5,3.0,4.0,5,9.0,7,4,11,12,6,13
-UBCO,2019,W,COSC,221,,102,Introduction to Discrete Structures,Bradley Reinholz;Congsong Zhang;Devina Jaiswal;Emily Medema;Jeewon Yoo;Maryam Sadeghi;Rishab Sharma;Tenzin Jinpa;Xiaoying Zhang;Yohen Thounaojam;Zil Huma,77,71.84415584,13.60346796,100.0,37.0,2,4.0,10.0,7,10.0,6,8,4,7,11,8
-UBCO,2019,W,COSC,221,,OVERALL,Introduction to Discrete Structures,,156,72.71153846,14.80105036,100.0,22.0,7,7.0,14.0,12,19.0,13,12,15,19,17,21
-UBCO,2019,W,COSC,222,,001,Data Structures,Biswapriyo Chakrabarty;Mohammad Khalad Hasan;Pinku Nath;Zil Huma,142,76.21126761,13.49695578,98.0,1.0,4,3.0,2.0,10,14.0,18,13,11,24,20,23
-UBCO,2019,W,COSC,222,,OVERALL,Data Structures,,142,76.21126761,13.49695578,98.0,1.0,4,3.0,2.0,10,14.0,18,13,11,24,20,23
-UBCO,2019,W,COSC,264,,101,Introduction to Web Development and Databases,Benjamin Tisserand;Biswapriyo Chakrabarty;Daniel Ling;Mohammad Hadi;Scott Fazackerley,32,77.21875,12.79045606,98.0,45.0,2,0.0,1.0,1,2.0,4,2,4,7,4,5
-UBCO,2019,W,COSC,264,,OVERALL,Introduction to Web Development and Databases,,32,77.21875,12.79045606,98.0,45.0,2,0.0,1.0,1,2.0,4,2,4,7,4,5
-UBCO,2019,W,COSC,301,,001,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Irene Vrbik;John Graham-Knight;Parsa Rajabi;Ramon Lawrence,67,75.79104478,16.3795302,97.0,13.0,5,0.0,2.0,2,5.0,1,13,7,6,18,8
-UBCO,2019,W,COSC,301,,101,Introduction to Data Analytics,Barret Jackson;Billy Spelchan;Chaoping Guo;Congsong Zhang;Irene Vrbik;Kyle Ranslam;Nusrat Momo;Ramon Lawrence;Roozbeh Eslami;Zhenyuan Ma,71,82.21126761,12.74465209,99.0,50.0,0,2.0,1.0,4,5.0,3,6,7,8,5,30
-UBCO,2019,W,COSC,301,,OVERALL,Introduction to Data Analytics,,138,79.0942029,14.92017088,99.0,13.0,5,2.0,3.0,6,10.0,4,19,14,14,23,38
-UBCO,2019,W,COSC,303,,101,Numerical Analysis,Gabriel Jarry-Bolduc;Warren Hare,18,77.22222222,20.5184438,100.0,28.0,2,0.0,1.0,0,0.0,2,1,0,4,2,6
-UBCO,2019,W,COSC,303,,OVERALL,Numerical Analysis,,18,77.22222222,20.5184438,100.0,28.0,2,0.0,1.0,0,0.0,2,1,0,4,2,6
-UBCO,2019,W,COSC,304,,001,Introduction to Databases,Chaoping Guo;Congsong Zhang;Mohammad Hadi;Nusrat Momo;Nusrat Suzana Momo;Ramon Lawrence;Roozbeh Eslami,197,79.25380711,13.0030039,100.0,3.0,5,4.0,1.0,6,8.0,14,19,30,45,29,36
-UBCO,2019,W,COSC,304,,OVERALL,Introduction to Databases,,197,79.25380711,13.0030039,100.0,3.0,5,4.0,1.0,6,8.0,14,19,30,45,29,36
-UBCO,2019,W,COSC,305,,001,Project Management,Mayeesha Mariam;Pradeep Mahato;Scott Fazackerley,87,75.88505747,12.25544519,94.0,23.0,4,0.0,3.0,2,8.0,6,12,11,21,15,5
-UBCO,2019,W,COSC,305,,OVERALL,Project Management,,87,75.88505747,12.25544519,94.0,23.0,4,0.0,3.0,2,8.0,6,12,11,21,15,5
-UBCO,2019,W,COSC,310,,001,Software Engineering,Apurva Narayan;Cameron Chong;Rishab Sharma;Tenzin Jinpa;Yiming Ding,135,89.9037037,9.522850816,97.0,10.0,3,0.0,0.0,0,0.0,0,0,0,3,30,99
-UBCO,2019,W,COSC,310,,OVERALL,Software Engineering,,135,89.9037037,9.522850816,97.0,10.0,3,0.0,0.0,0,0.0,0,0,0,3,30,99
-UBCO,2019,W,COSC,315,,101,Introduction to Operating Systems,Apurva Narayan;Nusrat Momo;Nusrat Suzana Momo;Pradeep Mahato,98,88.84693878,5.835108884,99.0,75.0,0,0.0,0.0,0,0.0,0,1,7,15,25,50
-UBCO,2019,W,COSC,315,,OVERALL,Introduction to Operating Systems,,98,88.84693878,5.835108884,99.0,75.0,0,0.0,0.0,0,0.0,0,1,7,15,25,50
-UBCO,2019,W,COSC,320,,001,Analysis of Algorithms,Araz Sholehkerdar;Congsong Zhang;Fatemeh Hendijani Fard;Islam Osman;Roozbeh Eslami;Sherif Elbishlawi;Yong Gao;Zil Huma,106,87.48113208,11.89416114,100.0,0.0,2,0.0,0.0,0,1.0,2,2,3,20,29,47
-UBCO,2019,W,COSC,320,,OVERALL,Analysis of Algorithms,,106,87.48113208,11.89416114,100.0,0.0,2,0.0,0.0,0,1.0,2,2,3,20,29,47
-UBCO,2019,W,COSC,328,,001,Introduction to Networks,Billy Spelchan;Fatemeh Hendijani Fard;Mohammad Hadi,59,75.52542373,11.1159344,93.0,47.0,1,1.0,4.0,3,6.0,3,10,5,11,9,6
-UBCO,2019,W,COSC,328,,OVERALL,Introduction to Networks,,59,75.52542373,11.1159344,93.0,47.0,1,1.0,4.0,3,6.0,3,10,5,11,9,6
+UBCO,2019,W,COSC,101,,101,Digital Citizenship,Ayazhan Akhmet;Billy Spelchan;Chad Kohalyk;Nipas Visavachaipan;Opeyemi Adeyemi;Patrick Nadeau;Rishab Sharma;Tenzin Jinpa;Tianhao Wang;Vladimir Grebenyuk;Will Mcfarland;Yohen Thounaojam,113,77.85840708,13.236089232,96.0,0.0,5,1.0,5.0,2,3.0,3,15,16,26,24,13
+UBCO,2019,W,COSC,101,,OVERALL,Digital Citizenship,,113,77.85840708,13.236089232,96.0,0.0,5,1.0,5.0,2,3.0,3,15,16,26,24,13
+UBCO,2019,W,COSC,111,,002,Computer Programming I,Abdallah Mohamed;Abhineeth Adiraju;Cameron Chong;Devina Jaiswal;Emily Medema;Khandoker Md Ayman;Kyle Ranslam;Shima Amirsadri;Tianhao Wang,320,76.9625,19.470381815,100.0,4.0,52,4.0,5.0,8,11.0,17,23,19,40,40,101
+UBCO,2019,W,COSC,111,,101,Computer Programming I,Abhineeth Adiraju;Amir Hossein Zeinali Kalkhoran;Bowen Hui;Cameron Chong;Erik Johnston;Islam Osman;John Graham-Knight;Opeyemi Adeyemi;Pradeep Mahato;Tenzin Jinpa,85,79.541176471,20.956617855,100.0,0.0,13,1.0,0.0,1,2.0,2,4,5,11,10,36
+UBCO,2019,W,COSC,111,,OVERALL,Computer Programming I,,405,77.503703704,19.792815756,100.0,0.0,65,5.0,5.0,9,13.0,19,27,24,51,50,137
+UBCO,2019,W,COSC,114,,101,Vector Graphics and Animations,Amir Hossein Zeinali Kalkhoran;Biswapriyo Chakrabarty;Miles Thorogood;Tatiana Urazova;Thomas Van De Crommenacker;Vladimir Grebenyuk,35,75.6,14.542432841,93.0,45.0,4,0.0,0.0,4,0.0,2,4,4,4,9,4
+UBCO,2019,W,COSC,114,,OVERALL,Vector Graphics and Animations,,35,75.6,14.542432841,93.0,45.0,4,0.0,0.0,4,0.0,2,4,4,4,9,4
+UBCO,2019,W,COSC,121,,101,Computer Programming II,Abdallah Mohamed;Amir Hossein Zeinali Kalkhoran;Andrew Ogilvy;Ayazhan Akhmet;Biswapriyo Chakrabarty;Bradley A Reinholz;Bradley Reinholz;Ivan De Avila Ribeiro Carvalho;Kanishka Verma;Kathryn Ng;Larry Gu;Maria Guenter;Mohamed Shehata;Mohammad Hadi;Nusrat Momo;Nusrat Suzana Momo;Owen Murovec;Patrick Nadeau;Pinku Nath;Pradeep Mahato;Rishab Sharma;Roozbeh Eslami;Swakhar Poddar;Tenzin Jinpa;Thomas Van De Crommenacker;Tianhao Wang;Zil Huma,274,75.135036496,13.743863586,98.0,22.0,12,3.0,18.0,18,24.0,25,26,25,43,37,43
+UBCO,2019,W,COSC,121,,OVERALL,Computer Programming II,,274,75.135036496,13.743863586,98.0,22.0,12,3.0,18.0,18,24.0,25,26,25,43,37,43
+UBCO,2019,W,COSC,122,,001,Computer Fluency,Ivan De Avila Ribeiro Carvalho;Shima Amirsadri;Trevor Richard;Vladimir Grebenyuk,140,74.878571429,14.415453268,100.0,7.0,6,5.0,7.0,14,8.0,15,11,8,26,20,20
+UBCO,2019,W,COSC,122,,OVERALL,Computer Fluency,,140,74.878571429,14.415453268,100.0,7.0,6,5.0,7.0,14,8.0,15,11,8,26,20,20
+UBCO,2019,W,COSC,123,,101,Computer Creativity,Abdallah Mohamed;Amir Hossein Zeinali Kalkhoran;Congsong Zhang;Nathania Hendradjaja;Nusrat Momo;Pinku Nath;Tenzin Jinpa,74,84.743243243,15.396193099,100.0,36.0,5,0.0,0.0,2,4.0,1,6,6,5,7,38
+UBCO,2019,W,COSC,123,,OVERALL,Computer Creativity,,74,84.743243243,15.396193099,100.0,36.0,5,0.0,0.0,2,4.0,1,6,6,5,7,38
+UBCO,2019,W,COSC,150,,001,Physical Computing,Mahshid Alinoori;Miles Thorogood;Morgan Rauscher,47,88.680851064,8.503468303,97.0,58.0,0,0.0,1.0,2,0.0,0,1,0,4,10,29
+UBCO,2019,W,COSC,150,,OVERALL,Physical Computing,,47,88.680851064,8.503468303,97.0,58.0,0,0.0,1.0,2,0.0,0,1,0,4,10,29
+UBCO,2019,W,COSC,210,,101,Software Construction,Biswapriyo Chakrabarty;Kathryn Lecha;Mohamed Shehata;Sherif Elbishlawi,24,78.541666667,16.581758355,99.0,40.0,1,1.0,1.0,1,2.0,3,2,1,2,2,8
+UBCO,2019,W,COSC,210,,OVERALL,Software Construction,,24,78.541666667,16.581758355,99.0,40.0,1,1.0,1.0,1,2.0,3,2,1,2,2,8
+UBCO,2019,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Ayazhan Akhmet;Nenman Gomwalk;Rishab Sharma,99,80.212121212,13.693639762,100.0,45.0,4,1.0,4.0,2,4.0,8,14,6,8,18,30
+UBCO,2019,W,COSC,211,,002,Machine Architecture,Abdallah Mohamed;Ayazhan Akhmet;Nenman Gomwalk;Rishab Sharma,34,64.088235294,18.119749224,97.0,16.0,7,1.0,2.0,3,3.0,5,7,0.0,2,3,1
+UBCO,2019,W,COSC,211,,OVERALL,Machine Architecture,,133,76.090225564,16.466429875,100.0,16.0,11,2.0,6.0,5,7.0,13,21,6,10,21,31
+UBCO,2019,W,COSC,221,,101,Introduction to Discrete Structures,Bradley Reinholz;Chad Davis;Congsong Zhang;Devina Jaiswal;Emily Medema;Maryam Sadeghi;Rishab Sharma;Tenzin Jinpa;Xiaoying Zhang;Yohen Thounaojam;Zil Huma,79,73.556962025,15.92349243,100.0,22.0,5,3.0,4.0,5,9.0,7,4,11,12,6,13
+UBCO,2019,W,COSC,221,,102,Introduction to Discrete Structures,Bradley Reinholz;Congsong Zhang;Devina Jaiswal;Emily Medema;Jeewon Yoo;Maryam Sadeghi;Rishab Sharma;Tenzin Jinpa;Xiaoying Zhang;Yohen Thounaojam;Zil Huma,77,71.844155844,13.603467955,100.0,37.0,2,4.0,10.0,7,10.0,6,8,4,7,11,8
+UBCO,2019,W,COSC,221,,OVERALL,Introduction to Discrete Structures,,156,72.711538462,14.801050362,100.0,22.0,7,7.0,14.0,12,19.0,13,12,15,19,17,21
+UBCO,2019,W,COSC,222,,001,Data Structures,Biswapriyo Chakrabarty;Mohammad Khalad Hasan;Pinku Nath;Zil Huma,142,76.211267606,13.496955783,98.0,1.0,4,3.0,2.0,10,14.0,18,13,11,24,20,23
+UBCO,2019,W,COSC,222,,OVERALL,Data Structures,,142,76.211267606,13.496955783,98.0,1.0,4,3.0,2.0,10,14.0,18,13,11,24,20,23
+UBCO,2019,W,COSC,264,,101,Introduction to Web Development and Databases,Benjamin Tisserand;Biswapriyo Chakrabarty;Daniel Ling;Mohammad Hadi;Scott Fazackerley,32,77.21875,12.790456056,98.0,45.0,2,0.0,1.0,1,2.0,4,2,4,7,4,5
+UBCO,2019,W,COSC,264,,OVERALL,Introduction to Web Development and Databases,,32,77.21875,12.790456056,98.0,45.0,2,0.0,1.0,1,2.0,4,2,4,7,4,5
+UBCO,2019,W,COSC,301,,001,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Irene Vrbik;John Graham-Knight;Parsa Rajabi;Ramon Lawrence,67,75.791044776,16.379530198,97.0,13.0,5,0.0,2.0,2,5.0,1,13,7,6,18,8
+UBCO,2019,W,COSC,301,,101,Introduction to Data Analytics,Barret Jackson;Billy Spelchan;Chaoping Guo;Congsong Zhang;Irene Vrbik;Kyle Ranslam;Nusrat Momo;Ramon Lawrence;Roozbeh Eslami;Zhenyuan Ma,71,82.211267606,12.744652092,99.0,50.0,0,2.0,1.0,4,5.0,3,6,7,8,5,30
+UBCO,2019,W,COSC,301,,OVERALL,Introduction to Data Analytics,,138,79.094202899,14.920170877,99.0,13.0,5,2.0,3.0,6,10.0,4,19,14,14,23,38
+UBCO,2019,W,COSC,303,,101,Numerical Analysis,Gabriel Jarry-Bolduc;Warren Hare,18,77.222222222,20.518443799,100.0,28.0,2,0.0,1.0,0,0.0,2,1,0,4,2,6
+UBCO,2019,W,COSC,303,,OVERALL,Numerical Analysis,,18,77.222222222,20.518443799,100.0,28.0,2,0.0,1.0,0,0.0,2,1,0,4,2,6
+UBCO,2019,W,COSC,304,,001,Introduction to Databases,Chaoping Guo;Congsong Zhang;Mohammad Hadi;Nusrat Momo;Nusrat Suzana Momo;Ramon Lawrence;Roozbeh Eslami,197,79.253807107,13.0030039,100.0,3.0,5,4.0,1.0,6,8.0,14,19,30,45,29,36
+UBCO,2019,W,COSC,304,,OVERALL,Introduction to Databases,,197,79.253807107,13.0030039,100.0,3.0,5,4.0,1.0,6,8.0,14,19,30,45,29,36
+UBCO,2019,W,COSC,305,,001,Project Management,Mayeesha Mariam;Pradeep Mahato;Scott Fazackerley,87,75.885057471,12.255445194,94.0,23.0,4,0.0,3.0,2,8.0,6,12,11,21,15,5
+UBCO,2019,W,COSC,305,,OVERALL,Project Management,,87,75.885057471,12.255445194,94.0,23.0,4,0.0,3.0,2,8.0,6,12,11,21,15,5
+UBCO,2019,W,COSC,310,,001,Software Engineering,Apurva Narayan;Cameron Chong;Rishab Sharma;Tenzin Jinpa;Yiming Ding,135,89.903703704,9.522850816,97.0,10.0,3,0.0,0.0,0,0.0,0,0,0,3,30,99
+UBCO,2019,W,COSC,310,,OVERALL,Software Engineering,,135,89.903703704,9.522850816,97.0,10.0,3,0.0,0.0,0,0.0,0,0,0,3,30,99
+UBCO,2019,W,COSC,315,,101,Introduction to Operating Systems,Apurva Narayan;Nusrat Momo;Nusrat Suzana Momo;Pradeep Mahato,98,88.846938776,5.835108884,99.0,75.0,0,0.0,0.0,0,0.0,0,1,7,15,25,50
+UBCO,2019,W,COSC,315,,OVERALL,Introduction to Operating Systems,,98,88.846938776,5.835108884,99.0,75.0,0,0.0,0.0,0,0.0,0,1,7,15,25,50
+UBCO,2019,W,COSC,320,,001,Analysis of Algorithms,Araz Sholehkerdar;Congsong Zhang;Fatemeh Hendijani Fard;Islam Osman;Roozbeh Eslami;Sherif Elbishlawi;Zil Huma,106,87.481132075,11.894161138,100.0,0.0,2,0.0,0.0,0,1.0,2,2,3,20,29,47
+UBCO,2019,W,COSC,320,,OVERALL,Analysis of Algorithms,,106,87.481132075,11.894161138,100.0,0.0,2,0.0,0.0,0,1.0,2,2,3,20,29,47
+UBCO,2019,W,COSC,328,,001,Introduction to Networks,Billy Spelchan;Fatemeh Hendijani Fard;Mohammad Hadi,59,75.525423729,11.115934403,93.0,47.0,1,1.0,4.0,3,6.0,3,10,5,11,9,6
+UBCO,2019,W,COSC,328,,OVERALL,Introduction to Networks,,59,75.525423729,11.115934403,93.0,47.0,1,1.0,4.0,3,6.0,3,10,5,11,9,6
 UBCO,2019,W,COSC,335,,001,Introduction to Medical Imaging and Imaging Informatics,John Graham-Knight;Mitchell Wiebe;Rasika Rajapakshe;Thor Bjarnason,16,84.0,9.084785817,93.0,54.0,0,1.0,0.0,0,0.0,0,0,1,4,7,3
 UBCO,2019,W,COSC,335,,OVERALL,Introduction to Medical Imaging and Imaging Informatics,,16,84.0,9.084785817,93.0,54.0,0,1.0,0.0,0,0.0,0,0,1,4,7,3
-UBCO,2019,W,COSC,341,,001,Human Computer Interaction,Ayazhan Akhmet;Billy Spelchan;John Graham-Knight;Mohammad Hadi;Mohammad Khalad Hasan;Rishab Sharma;Trevor Richard;Zil Huma,101,85.21782178,9.188693009,96.0,56.0,0,0.0,4.0,0.0,2.0,3,5,7,14,26,40
-UBCO,2019,W,COSC,341,,002,Human Computer Interaction,Ayazhan Akhmet;Billy Spelchan;John Graham-Knight;Mohammad Hadi;Rishab Sharma;Trevor Richard;Vladimir Grebenyuk;Zil Huma,55,81.23636364,10.96790543,95.0,45.0,3,0.0,0.0,0,2.0,0,4,7,12,18,9
-UBCO,2019,W,COSC,341,,OVERALL,Human Computer Interaction,,156,83.81410256,10.00116412,96.0,45.0,3,0.0,4.0,0,4.0,3,9,14,26,44,49
-UBCO,2019,W,COSC,360,,101,Web Programming,Ayazhan Akhmet;Benjamin Tisserand;Billy Spelchan;Islam Osman;Mohamed Shehata;Rishab Sharma;Sherif Elbishlawi,104,84.61538462,8.524445365,98.0,55.0,0,0.0,2.0,1,2.0,3,6,12,12,35,31
-UBCO,2019,W,COSC,360,,OVERALL,Web Programming,,104,84.61538462,8.524445365,98.0,55.0,0,0.0,2.0,1,2.0,3,6,12,12,35,31
-UBCO,2019,W,COSC,406,,101,Numerical Optimization,Roozbeh Eslami;Yves Lucet,11,79.09090909,18.93385616,97.0,36.0,1,0.0,1.0,0,0.0,1,0,2,2,0,4
-UBCO,2019,W,COSC,406,,OVERALL,Numerical Optimization,,11,79.09090909,18.93385616,97.0,36.0,1,0.0,1.0,0,0.0,1,0,2,2,0,4
-UBCO,2019,W,COSC,407,,101,Introduction to Parallel Computing,Abdallah Mohamed;Billy Spelchan;Chaoping Guo;Congsong Zhang;Khandoker Ayman;Khandoker Md Ayman,83,72.61445783,14.50889662,100.0,22.0,4,3.0,3.0,4,11.0,11,9,11,12,9,6
-UBCO,2019,W,COSC,407,,OVERALL,Introduction to Parallel Computing,,83,72.61445783,14.50889662,100.0,22.0,4,3.0,3.0,4,11.0,11,9,11,12,9,6
-UBCO,2019,W,COSC,419,C,101,Topics in Computer Science,Bowen Hui;Congsong Zhang;Pradeep Mahato,29,80.62068966,15.85743132,98.0,45.0,2,1.0,1.0,1,0.0,3,1,3,2,3,12
-UBCO,2019,W,COSC,419,C,OVERALL,Topics in Computer Science,,29,80.62068966,15.85743132,98.0,45.0,2,1.0,1.0,1,0.0,3,1,3,2,3,12
-UBCO,2019,W,COSC,421,,101,Network Science,Billy Spelchan;Paramjit Gill,13,77.15384615,11.80992629,93.0,50.0,0,1.0,0.0,1,1.0,0,0,2,4,3,1
-UBCO,2019,W,COSC,421,,OVERALL,Network Science,,13,77.15384615,11.80992629,93.0,50.0,0,1.0,0.0,1,1.0,0,0,2,4,3,1
-UBCO,2019,W,COSC,448,A,103,Directed Studies in Computer Science,Bowen Hui,8,72.875,13.97382758,93.0,55.0,0,0.0,2.0,0,1.0,0,2,1,0,0,2
-UBCO,2019,W,COSC,448,A,OVERALL,Directed Studies in Computer Science,,13,80.15384615,14.53642639,95.0,55.0,0,0.0,2.0,,1.0,,2,1,,,6
-UBCO,2019,W,COSC,449,,OVERALL,Honours Thesis,,6,86.33333333,8.238122764,97.0,76.0,0,0.0,0.0,0,0.0,0,0,,,,
-UBCO,2019,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;John Graham-Knight,34,87.88235294,9.021068625,100.0,57.0,0,0.0,1.0,0,0.0,0,2,2,7,3,19
-UBCO,2019,W,COSC,499,,OVERALL,Capstone Software Engineering Project,,34,87.88235294,9.021068625,100.0,57.0,0,0.0,1.0,0,0.0,0,2,2,7,3,19
+UBCO,2019,W,COSC,341,,001,Human Computer Interaction,Ayazhan Akhmet;Billy Spelchan;John Graham-Knight;Mohammad Hadi;Mohammad Khalad Hasan;Rishab Sharma;Trevor Richard;Zil Huma,101,85.217821782,9.188693009,96.0,56.0,0,0.0,4.0,0.0,2.0,3,5,7,14,26,40
+UBCO,2019,W,COSC,341,,002,Human Computer Interaction,Ayazhan Akhmet;Billy Spelchan;John Graham-Knight;Mohammad Hadi;Rishab Sharma;Trevor Richard;Vladimir Grebenyuk;Zil Huma,55,81.236363636,10.967905429,95.0,45.0,3,0.0,0.0,0,2.0,0,4,7,12,18,9
+UBCO,2019,W,COSC,341,,OVERALL,Human Computer Interaction,,156,83.814102564,10.001164118,96.0,45.0,3,0.0,4.0,0,4.0,3,9,14,26,44,49
+UBCO,2019,W,COSC,360,,101,Web Programming,Ayazhan Akhmet;Benjamin Tisserand;Billy Spelchan;Islam Osman;Mohamed Shehata;Rishab Sharma;Sherif Elbishlawi,104,84.615384615,8.524445365,98.0,55.0,0,0.0,2.0,1,2.0,3,6,12,12,35,31
+UBCO,2019,W,COSC,360,,OVERALL,Web Programming,,104,84.615384615,8.524445365,98.0,55.0,0,0.0,2.0,1,2.0,3,6,12,12,35,31
+UBCO,2019,W,COSC,406,,101,Numerical Optimization,Roozbeh Eslami;Yves Lucet,11,79.090909091,18.93385616,97.0,36.0,1,0.0,1.0,0,0.0,1,0,2,2,0,4
+UBCO,2019,W,COSC,406,,OVERALL,Numerical Optimization,,11,79.090909091,18.93385616,97.0,36.0,1,0.0,1.0,0,0.0,1,0,2,2,0,4
+UBCO,2019,W,COSC,407,,101,Introduction to Parallel Computing,Abdallah Mohamed;Billy Spelchan;Chaoping Guo;Congsong Zhang;Khandoker Ayman;Khandoker Md Ayman,83,72.614457831,14.508896619,100.0,22.0,4,3.0,3.0,4,11.0,11,9,11,12,9,6
+UBCO,2019,W,COSC,407,,OVERALL,Introduction to Parallel Computing,,83,72.614457831,14.508896619,100.0,22.0,4,3.0,3.0,4,11.0,11,9,11,12,9,6
+UBCO,2019,W,COSC,419,C,101,Topics in Computer Science,Bowen Hui;Congsong Zhang;Pradeep Mahato,29,80.620689655,15.85743132,98.0,45.0,2,1.0,1.0,1,0.0,3,1,3,2,3,12
+UBCO,2019,W,COSC,419,C,OVERALL,Topics in Computer Science,,29,80.620689655,15.85743132,98.0,45.0,2,1.0,1.0,1,0.0,3,1,3,2,3,12
+UBCO,2019,W,COSC,421,,101,Network Science,Billy Spelchan;Paramjit Gill,13,77.153846154,11.80992629,93.0,50.0,0,1.0,0.0,1,1.0,0,0,2,4,3,1
+UBCO,2019,W,COSC,421,,OVERALL,Network Science,,13,77.153846154,11.80992629,93.0,50.0,0,1.0,0.0,1,1.0,0,0,2,4,3,1
+UBCO,2019,W,COSC,448,A,103,Directed Studies in Computer Science,Bowen Hui,8,72.875,13.973827577,93.0,55.0,0,0.0,2.0,0,1.0,0,2,1,0,0,2
+UBCO,2019,W,COSC,448,A,OVERALL,Directed Studies in Computer Science,,13,80.153846154,14.536426394,95.0,55.0,0,0.0,2.0,,1.0,,2,1,,,6
+UBCO,2019,W,COSC,449,,OVERALL,Honours Thesis,,6,86.333333333,8.238122764,97.0,76.0,0,0.0,0.0,0,0.0,0,0,,,,
+UBCO,2019,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;John Graham-Knight,34,87.882352941,9.021068625,100.0,57.0,0,0.0,1.0,0,0.0,0,2,2,7,3,19
+UBCO,2019,W,COSC,499,,OVERALL,Capstone Software Engineering Project,,34,87.882352941,9.021068625,100.0,57.0,0,0.0,1.0,0,0.0,0,2,2,7,3,19
 UBCO,2019,W,COSC,504,,001,Database System Implementation,Ramon Lawrence,6,90.5,7.893034904,100.0,78.0,0,0.0,0.0,0,0.0,0,0,1,0.0,1,4
 UBCO,2019,W,COSC,504,,OVERALL,Database System Implementation,,6,90.5,7.893034904,100.0,78.0,0,0.0,0.0,0,0.0,0,0,1,0.0,1,4
-UBCO,2019,W,COSC,506,,101,Numerical Optimization,Roozbeh Eslami;Yves Lucet,6,93.33333333,7.033254344,100.0,81.0,0,0.0,0.0,0,0.0,0,0,0,1,0.0,5
-UBCO,2019,W,COSC,506,,OVERALL,Numerical Optimization,,6,93.33333333,7.033254344,100.0,81.0,0,0.0,0.0,0,0.0,0,0,0,1,0.0,5
+UBCO,2019,W,COSC,506,,101,Numerical Optimization,Roozbeh Eslami;Yves Lucet,6,93.333333333,7.033254344,100.0,81.0,0,0.0,0.0,0,0.0,0,0,0,1,0.0,5
+UBCO,2019,W,COSC,506,,OVERALL,Numerical Optimization,,6,93.333333333,7.033254344,100.0,81.0,0,0.0,0.0,0,0.0,0,0,0,1,0.0,5
 UBCO,2019,W,COSC,507,,101,Parallel Computing,Abdallah Mohamed;Billy Spelchan;Chaoping Guo;Congsong Zhang;Khandoker Ayman;Khandoker Md Ayman,8,86.875,5.667892024,96.0,76.0,0,0.0,0.0,0,0.0,0,0,1,0.0,5,2
 UBCO,2019,W,COSC,507,,OVERALL,Parallel Computing,,8,86.875,5.667892024,96.0,76.0,0,0.0,0.0,0,0.0,0,0,1,0.0,5,2
-UBCO,2019,W,COSC,520,,001,Advanced Algorithms,Congsong Zhang;Fatemeh Hendijani Fard;Roozbeh Eslami;Yong Gao,11,98.90909091,2.30019762,100.0,93.0,0,0.0,0.0,0,0.0,0,0,0,0,0,11
-UBCO,2019,W,COSC,520,,OVERALL,Advanced Algorithms,,11,98.90909091,2.30019762,100.0,93.0,0,0.0,0.0,0,0.0,0,0,0,0,0,11
-UBCO,2019,W,COSC,541,,001,Advanced Human Computer Interaction,Mohammad Khalad Hasan,6,87.33333333,5.163977795,93.0,82.0,0,0.0,0.0,0,0.0,0,0,0,3,0.0,3
-UBCO,2019,W,COSC,541,,OVERALL,Advanced Human Computer Interaction,,6,87.33333333,5.163977795,93.0,82.0,0,0.0,0.0,0,0.0,0,0,0,3,0.0,3
+UBCO,2019,W,COSC,520,,001,Advanced Algorithms,Congsong Zhang;Fatemeh Hendijani Fard;Roozbeh Eslami;Yong Gao,11,98.909090909,2.30019762,100.0,93.0,0,0.0,0.0,0,0.0,0,0,0,0,0,11
+UBCO,2019,W,COSC,520,,OVERALL,Advanced Algorithms,,11,98.909090909,2.30019762,100.0,93.0,0,0.0,0.0,0,0.0,0,0,0,0,0,11
+UBCO,2019,W,COSC,541,,001,Advanced Human Computer Interaction,Mohammad Khalad Hasan,6,87.333333333,5.163977795,93.0,82.0,0,0.0,0.0,0,0.0,0,0,0,3,0.0,3
+UBCO,2019,W,COSC,541,,OVERALL,Advanced Human Computer Interaction,,6,87.333333333,5.163977795,93.0,82.0,0,0.0,0.0,0,0.0,0,0,0,3,0.0,3

@@ -1,67 +1,67 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2020,W,COSC,101,,101,Digital Citizenship,Andrew Kiggins;Camila Jenkins;Firas Moosvi;Jehezkiel Eugene;Oluwayemisi Ogungbemi;Vsevolod Lynov;Zhilin Feng,196,84.97959184,13.94088589,99.0,11.0,6,1.0,2,3,0.0,5,2,16,30,41,90
-UBCO,2020,W,COSC,101,,OVERALL,Digital Citizenship,,196,84.97959184,13.94088589,99.0,11.0,6,1.0,2,3,0.0,5,2,16,30,41,90
-UBCO,2020,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Ayazhan Akhmet;Billy Spelchan;Biswapriyo Chakrabarty;Congsong Zhang;Elias Pinno;Haneen Abu-Hijleh;Heather Mehain;Jake Tyerman;Kathryn Lecha;Khandoker Md Ayman;Lucas Pozza;Nusrat Momo;Oluwayemisi Ogungbemi;Rachelle Gelden;Roozbeh Eslami;Tenzin Jinpa;Tyler Rogers;Yohen Thounaojam,390,70.76666667,19.9432206,100.0,4.0,87,0.0,7,12,25.0,35,29,43,47,37,68
-UBCO,2020,W,COSC,111,,101,Computer Programming I,Amir Hossein Zeinali Kalkhoran;Billy Spelchan;Firas Moosvi;Gabriel Tan;Islam Osman;Mohammad Hadi;Pradeep Mahato;Quinn Marshall;Ryan Dewolfe;Sherif Elbishlawi;Victor Frunza;Zenab Kutubuddin Kagdiwala,145,79.76551724,16.84859613,98.0,0.0,6,9.0,3,4,3.0,6,8,7,27,19,53
-UBCO,2020,W,COSC,111,,OVERALL,Computer Programming I,,535,73.20560748,19.55283743,100.0,0.0,93,9.0,10,16,28.0,41,37,50,74,56,121
-UBCO,2020,W,COSC,121,,101,Computer Programming II,Aashish Raizada;Abdallah Mohamed;Abdulhameed Karim;Amir Hossein Zeinali Kalkhoran;Andrew Kiggins;Congsong Zhang;Dmytro Zhuravel;Elias Pinno;Lucas Pozza;Mohammad Hadi;Ramin Shahbazi;Rishab Sharma;Samir Aliyev;Tatiana Urazova;Teymur Mammadov;Tyler Rogers;Yinuo Fan,264,74.47727273,20.2645867,100.0,3.0,43,1.0,5,8,12.0,26,19,15,38,32,65
-UBCO,2020,W,COSC,121,,OVERALL,Computer Programming II,,264,74.47727273,20.2645867,100.0,3.0,43,1.0,5,8,12.0,26,19,15,38,32,65
-UBCO,2020,W,COSC,122,,001,Computer Fluency,Abdallah Mohamed;Amir Hossein Zeinali Kalkhoran;Ayazhan Akhmet;Brenden Trieu;Camila Jenkins;Heather Mehain;Islam Osman;Ken Chidlow;Lucas Pozza;Parsa Rajabi;Pradeep Mahato;Quinn Marshall;Ramin Shahbazi;Rishab Sharma;Sherif Elbishlawi;Vladimir Grebenyuk,201,81.5920398,18.07409019,100.0,0.0,8,6.0,1,3,5.0,11,11,14,26,41,75
-UBCO,2020,W,COSC,122,,OVERALL,Computer Fluency,,201,81.5920398,18.07409019,100.0,0.0,8,6.0,1,3,5.0,11,11,14,26,41,75
-UBCO,2020,W,COSC,123,,101,Computer Creativity,Brenden Trieu;Camila Jenkins;Danielle Macdonald;Firas Moosvi;Mohamad Khajezade;Mohammad Hadi;Nusrat Momo;Ramin Shahbazi;Reece Walsh;Rishab Sharma;Roozbeh Eslami;Tenzin Jinpa;Teymur Mammadov,124,85.61290323,15.57761041,100.0,5.0,3,3.0,3,3,0.0,6,3,8,8,12,75
-UBCO,2020,W,COSC,123,,OVERALL,Computer Creativity,,124,85.61290323,15.57761041,100.0,5.0,3,3.0,3,3,0.0,6,3,8,8,12,75
-UBCO,2020,W,COSC,210,,101,Software Construction,Islam Osman;Mohamed Shehata;Sherif Elbishlawi,23,78.82608696,11.53119159,97.0,50.0,0,1.0,1,1,0.0,3,1,1,5,7,3
-UBCO,2020,W,COSC,210,,OVERALL,Software Construction,,23,78.82608696,11.53119159,97.0,50.0,0,1.0,1,1,0.0,3,1,1,5,7,3
-UBCO,2020,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Billy Spelchan;Khandoker Ayman;Khandoker Md Ayman;Nusrat Momo;Pradeep Mahato;Ramin Shahbazi;Rishab Sharma;Sherif Elbishlawi,152,72.42763158,17.97665962,100.0,8.0,19,2.0,6,12,11.0,15,14,10,21,14,28
-UBCO,2020,W,COSC,211,,OVERALL,Machine Architecture,,152,72.42763158,17.97665962,100.0,8.0,19,2.0,6,12,11.0,15,14,10,21,14,28
-UBCO,2020,W,COSC,221,,001,Introduction to Discrete Structures,Congsong Zhang;Islam Osman;Roozbeh Eslami;Tenzin Jinpa;Yong Gao,101,77.35643564,11.10007582,98.0,38.0,1,2.0,3,3,8.0,13,7,18,19,13,14
-UBCO,2020,W,COSC,221,,101,Introduction to Discrete Structures,Alexander Iannantuono;Alexander Molnar;Billy Spelchan;Chad Davis;Islam Osman;Jakob Thoms;Maryam Sadeghi;Mohamad Khajezade;Reece Walsh;Sherif Elbishlawi;Tenzin Jinpa,79,68.06329114,19.20092264,100.0,12.0,10,5.0,8,11,4.0,8,4,6,4,6,13
-UBCO,2020,W,COSC,221,,OVERALL,Introduction to Discrete Structures,,180,73.27777778,15.83894343,100.0,12.0,11,7.0,11,14,12.0,21,11,24,23,19,27
-UBCO,2020,W,COSC,222,,001,Data Structures,Biswapriyo Chakrabarty;Karanmeet Khatra;Mohammad Khalad Hasan;Pinku Nath;Zhilin Feng;Zil Huma,177,78.48022599,11.2401929,98.0,42.0,1,3.0,2,14,17.0,12,16,13,29,40,30
-UBCO,2020,W,COSC,222,,OVERALL,Data Structures,,177,78.48022599,11.2401929,98.0,42.0,1,3.0,2,14,17.0,12,16,13,29,40,30
-UBCO,2020,W,COSC,301,,001,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Biswapriyo Chakrabarty;Firas Moosvi;Roozbeh Eslami,77,84.63636364,16.96739062,99.0,3.0,5,0.0,0,0,0.0,2,4,4,7,13,42
-UBCO,2020,W,COSC,301,,101,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Haneen Abu-Hijleh;Ladan Tazik;Patricia Lasserre,76,90.73684211,9.429554137,99.0,45.0,2,0.0,0,0,0.0,0,2,0,5,13,54
-UBCO,2020,W,COSC,301,,OVERALL,Introduction to Data Analytics,,153,87.66666667,14.04222954,99.0,3.0,7,0.0,0,0,0.0,2,6,4,12,26,96
-UBCO,2020,W,COSC,303,,101,Numerical Analysis,Gabriel Jarry-Bolduc;Warren Hare,33,84.3030303,10.32437906,99.0,53.0,0,1.0,0,0,1.0,2,3,1,4,9,12
-UBCO,2020,W,COSC,303,,OVERALL,Numerical Analysis,,33,84.3030303,10.32437906,99.0,53.0,0,1.0,0,0,1.0,2,3,1,4,9,12
-UBCO,2020,W,COSC,304,,001,Introduction to Databases,Devon Macneil;Ramon Lawrence;Reece Walsh;Yiming Ding,180,76.66111111,12.82898425,99.0,22.0,10,1.0,3,5,17.0,12,25,26,29,28,24
-UBCO,2020,W,COSC,304,,OVERALL,Introduction to Databases,,180,76.66111111,12.82898425,99.0,22.0,10,1.0,3,5,17.0,12,25,26,29,28,24
-UBCO,2020,W,COSC,305,,101,Project Management,Nusrat Momo;Patricia Lasserre;Zenab Kutubuddin Kagdiwala,110,81.42727273,11.45430418,97.0,26.0,2,1.0,1,1,2.0,5,8,24,18,21,27
-UBCO,2020,W,COSC,305,,OVERALL,Project Management,,110,81.42727273,11.45430418,97.0,26.0,2,1.0,1,1,2.0,5,8,24,18,21,27
-UBCO,2020,W,COSC,310,,001,Software Engineering,Apurva Narayan;Devon Macneil;Parsa Rajabi;Shan Du;Yohen Thounaojam,143,83.43356643,7.773700191,97.0,62.0,0,0.0,0,1,2.0,10,12,13,37,30,38
-UBCO,2020,W,COSC,310,,101,Software Engineering,Apurva Narayan;Parsa Rajabi,17,84.29411765,8.865415288,96.0,71.0,0,0.0,0,0,0.0,1,3,2,3,0.0,8
+UBCO,2020,W,COSC,101,,101,Digital Citizenship,Andrew Kiggins;Camila Jenkins;Firas Moosvi;Jehezkiel Eugene;Oluwayemisi Ogungbemi;Vsevolod Lynov;Zhilin Feng,196,84.979591837,13.940885887,99.0,11.0,6,1.0,2,3,0.0,5,2,16,30,41,90
+UBCO,2020,W,COSC,101,,OVERALL,Digital Citizenship,,196,84.979591837,13.940885887,99.0,11.0,6,1.0,2,3,0.0,5,2,16,30,41,90
+UBCO,2020,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed;Ayazhan Akhmet;Billy Spelchan;Biswapriyo Chakrabarty;Congsong Zhang;Elias Pinno;Haneen Abu-Hijleh;Heather Mehain;Jake Tyerman;Kathryn Lecha;Khandoker Md Ayman;Lucas Pozza;Nusrat Momo;Oluwayemisi Ogungbemi;Rachelle Gelden;Roozbeh Eslami;Tenzin Jinpa;Tyler Rogers;Yohen Thounaojam,389,70.938303342,19.678375232,100.0,4.0,86,0.0,7,12,25.0,35,29,43,47,37,68
+UBCO,2020,W,COSC,111,,101,Computer Programming I,Amir Hossein Zeinali Kalkhoran;Billy Spelchan;Firas Moosvi;Gabriel Tan;Islam Osman;Mohammad Hadi;Pradeep Mahato;Quinn Marshall;Ryan Dewolfe;Sherif Elbishlawi;Victor Frunza;Zenab Kutubuddin Kagdiwala,145,79.765517241,16.848596131,98.0,0.0,6,9.0,3,4,3.0,6,8,7,27,19,53
+UBCO,2020,W,COSC,111,,OVERALL,Computer Programming I,,534,73.335205993,19.339807111,100.0,0.0,92,9.0,10,16,28.0,41,37,50,74,56,121
+UBCO,2020,W,COSC,121,,101,Computer Programming II,Aashish Raizada;Abdallah Mohamed;Abdulhameed Karim;Amir Hossein Zeinali Kalkhoran;Andrew Kiggins;Congsong Zhang;Dmytro Zhuravel;Elias Pinno;Lucas Pozza;Mohammad Hadi;Ramin Shahbazi;Rishab Sharma;Samir Aliyev;Tatiana Urazova;Teymur Mammadov;Tyler Rogers;Yinuo Fan,264,74.477272727,20.264586695,100.0,3.0,43,1.0,5,8,12.0,26,19,15,38,32,65
+UBCO,2020,W,COSC,121,,OVERALL,Computer Programming II,,264,74.477272727,20.264586695,100.0,3.0,43,1.0,5,8,12.0,26,19,15,38,32,65
+UBCO,2020,W,COSC,122,,001,Computer Fluency,Amir Hossein Zeinali Kalkhoran;Ayazhan Akhmet;Brenden Trieu;Camila Jenkins;Heather Mehain;Islam Osman;Ken Chidlow;Lucas Pozza;Parsa Rajabi;Pradeep Mahato;Quinn Marshall;Ramin Shahbazi;Rishab Sharma;Sherif Elbishlawi,199,82.412060302,16.188007011,100.0,2.0,6,6.0,1,3,5.0,11,11,14,26,41,75
+UBCO,2020,W,COSC,122,,OVERALL,Computer Fluency,,199,82.412060302,16.188007011,100.0,2.0,6,6.0,1,3,5.0,11,11,14,26,41,75
+UBCO,2020,W,COSC,123,,101,Computer Creativity,Brenden Trieu;Camila Jenkins;Danielle Macdonald;Firas Moosvi;Mohamad Khajezade;Mohammad Hadi;Nusrat Momo;Ramin Shahbazi;Reece Walsh;Rishab Sharma;Roozbeh Eslami;Tenzin Jinpa;Teymur Mammadov,124,85.612903226,15.577610406,100.0,5.0,3,3.0,3,3,0.0,6,3,8,8,12,75
+UBCO,2020,W,COSC,123,,OVERALL,Computer Creativity,,124,85.612903226,15.577610406,100.0,5.0,3,3.0,3,3,0.0,6,3,8,8,12,75
+UBCO,2020,W,COSC,210,,101,Software Construction,Islam Osman;Mohamed Shehata;Sherif Elbishlawi,23,78.826086957,11.531191588,97.0,50.0,0,1.0,1,1,0.0,3,1,1,5,7,3
+UBCO,2020,W,COSC,210,,OVERALL,Software Construction,,23,78.826086957,11.531191588,97.0,50.0,0,1.0,1,1,0.0,3,1,1,5,7,3
+UBCO,2020,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed;Billy Spelchan;Khandoker Ayman;Khandoker Md Ayman;Nusrat Momo;Pradeep Mahato;Ramin Shahbazi;Rishab Sharma;Sherif Elbishlawi,152,72.427631579,17.976659619,100.0,8.0,19,2.0,6,12,11.0,15,14,10,21,14,28
+UBCO,2020,W,COSC,211,,OVERALL,Machine Architecture,,152,72.427631579,17.976659619,100.0,8.0,19,2.0,6,12,11.0,15,14,10,21,14,28
+UBCO,2020,W,COSC,221,,001,Introduction to Discrete Structures,Congsong Zhang;Islam Osman;Roozbeh Eslami;Tenzin Jinpa;Yong Gao,101,77.356435644,11.100075818,98.0,38.0,1,2.0,3,3,8.0,13,7,18,19,13,14
+UBCO,2020,W,COSC,221,,101,Introduction to Discrete Structures,Alexander Iannantuono;Alexander Molnar;Billy Spelchan;Chad Davis;Islam Osman;Jakob Thoms;Maryam Sadeghi;Mohamad Khajezade;Reece Walsh;Sherif Elbishlawi;Tenzin Jinpa,79,68.063291139,19.200922636,100.0,12.0,10,5.0,8,11,4.0,8,4,6,4,6,13
+UBCO,2020,W,COSC,221,,OVERALL,Introduction to Discrete Structures,,180,73.277777778,15.838943434,100.0,12.0,11,7.0,11,14,12.0,21,11,24,23,19,27
+UBCO,2020,W,COSC,222,,001,Data Structures,Biswapriyo Chakrabarty;Karanmeet Khatra;Mohammad Khalad Hasan;Pinku Nath;Zhilin Feng;Zil Huma,177,78.480225989,11.240192895,98.0,42.0,1,3.0,2,14,17.0,12,16,13,29,40,30
+UBCO,2020,W,COSC,222,,OVERALL,Data Structures,,177,78.480225989,11.240192895,98.0,42.0,1,3.0,2,14,17.0,12,16,13,29,40,30
+UBCO,2020,W,COSC,301,,001,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Biswapriyo Chakrabarty;Firas Moosvi;Roozbeh Eslami,77,84.636363636,16.967390621,99.0,3.0,5,0.0,0,0,0.0,2,4,4,7,13,42
+UBCO,2020,W,COSC,301,,101,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Haneen Abu-Hijleh;Ladan Tazik;Patricia Lasserre,76,90.736842105,9.429554137,99.0,45.0,2,0.0,0,0,0.0,0,2,0,5,13,54
+UBCO,2020,W,COSC,301,,OVERALL,Introduction to Data Analytics,,153,87.666666667,14.042229543,99.0,3.0,7,0.0,0,0,0.0,2,6,4,12,26,96
+UBCO,2020,W,COSC,303,,101,Numerical Analysis,Gabriel Jarry-Bolduc;Warren Hare,33,84.303030303,10.324379063,99.0,53.0,0,1.0,0,0,1.0,2,3,1,4,9,12
+UBCO,2020,W,COSC,303,,OVERALL,Numerical Analysis,,33,84.303030303,10.324379063,99.0,53.0,0,1.0,0,0,1.0,2,3,1,4,9,12
+UBCO,2020,W,COSC,304,,001,Introduction to Databases,Devon Macneil;Ramon Lawrence;Reece Walsh;Yiming Ding,180,76.661111111,12.828984245,99.0,22.0,10,1.0,3,5,17.0,12,25,26,29,28,24
+UBCO,2020,W,COSC,304,,OVERALL,Introduction to Databases,,180,76.661111111,12.828984245,99.0,22.0,10,1.0,3,5,17.0,12,25,26,29,28,24
+UBCO,2020,W,COSC,305,,101,Project Management,Nusrat Momo;Patricia Lasserre;Zenab Kutubuddin Kagdiwala,110,81.427272727,11.45430418,97.0,26.0,2,1.0,1,1,2.0,5,8,24,18,21,27
+UBCO,2020,W,COSC,305,,OVERALL,Project Management,,110,81.427272727,11.45430418,97.0,26.0,2,1.0,1,1,2.0,5,8,24,18,21,27
+UBCO,2020,W,COSC,310,,001,Software Engineering,Devon Macneil;Parsa Rajabi;Shan Du;Yohen Thounaojam,143,83.433566434,7.773700191,97.0,62.0,0,0.0,0,1,2.0,10,12,13,37,30,38
+UBCO,2020,W,COSC,310,,101,Software Engineering,Apurva Narayan;Parsa Rajabi,17,84.294117647,8.865415288,96.0,71.0,0,0.0,0,0,0.0,1,3,2,3,0.0,8
 UBCO,2020,W,COSC,310,,OVERALL,Software Engineering,,160,83.525,7.8707723,97.0,62.0,0,0.0,0,1,2.0,11,15,15,40,30,46
-UBCO,2020,W,COSC,315,,101,Introduction to Operating Systems,Apurva Narayan;Khandoker Ayman;Khandoker Md Ayman;Pradeep Mahato;Sherif Elbishlawi,90,88.16666667,8.304932878,100.0,51.0,0,1.0,0,0,1.0,2,3,6,7,22,48
-UBCO,2020,W,COSC,315,,OVERALL,Introduction to Operating Systems,,90,88.16666667,8.304932878,100.0,51.0,0,1.0,0,0,1.0,2,3,6,7,22,48
-UBCO,2020,W,COSC,320,,001,Analysis of Algorithms,Congsong Zhang;Fatemeh Hendijani Fard;Islam Osman;Ladan Tazik;Ramin Shahbazi;Rishab Sharma;Roozbeh Eslami,147,83.56462585,10.52659257,99.0,44.0,1,2.0,1,4,7.0,3,11,12,20,39,47
-UBCO,2020,W,COSC,320,,OVERALL,Analysis of Algorithms,,147,83.56462585,10.52659257,99.0,44.0,1,2.0,1,4,7.0,3,11,12,20,39,47
-UBCO,2020,W,COSC,322,,101,Introduction to Artificial Intelligence,Billy Spelchan;Congsong Zhang;Karanmeet Khatra;Roozbeh Eslami;Yong Gao,84,77.63095238,9.911390261,93.0,52.0,0,2.0,3,4,6.0,7,9,11,18,17,7
-UBCO,2020,W,COSC,322,,OVERALL,Introduction to Artificial Intelligence,,84,77.63095238,9.911390261,93.0,52.0,0,2.0,3,4,6.0,7,9,11,18,17,7
-UBCO,2020,W,COSC,328,,001,Introduction to Networks,Fatemeh Hendijani Fard;Ramin Shahbazi;Rishab Sharma,100,82.5,11.78982612,100.0,39.0,1,2.0,1,1,3.0,8,8,14,14,14,34
-UBCO,2020,W,COSC,328,,OVERALL,Introduction to Networks,,100,82.5,11.78982612,100.0,39.0,1,2.0,1,1,3.0,8,8,14,14,14,34
-UBCO,2020,W,COSC,335,,101,Introduction to Medical Imaging and Imaging Informatics,Karanmeet Khatra;Michael Kudla-Hooper;Rasika Rajapakshe;Thor Bjarnason,18,81.22222222,12.92310086,95.0,52.0,0,1.0,1,0,2.0,0,0,1,3,5,5
-UBCO,2020,W,COSC,335,,OVERALL,Introduction to Medical Imaging and Imaging Informatics,,18,81.22222222,12.92310086,95.0,52.0,0,1.0,1,0,2.0,0,0,1,3,5,5
-UBCO,2020,W,COSC,341,,101,Human Computer Interaction,Bowen Hui;Brianna Marshinew;Courtney Gosselin;Heather Mehain;Pinku Nath;Rachelle Gelden,160,90.8,10.48197015,100.0,45.0,4,0.0,0,1,0.0,5,1,6,8,26,109
-UBCO,2020,W,COSC,341,,OVERALL,Human Computer Interaction,,160,90.8,10.48197015,100.0,45.0,4,0.0,0,1,0.0,5,1,6,8,26,109
-UBCO,2020,W,COSC,360,,001,Web Programming,Jinghong Chen;Karanmeet Khatra;Khandoker Md Ayman;Shan Du,124,84.88709677,10.24672042,98.0,25.0,1,0.0,0,2,4.0,8,5,8,20,27,49
-UBCO,2020,W,COSC,360,,OVERALL,Web Programming,,124,84.88709677,10.24672042,98.0,25.0,1,0.0,0,2,4.0,8,5,8,20,27,49
-UBCO,2020,W,COSC,406,,101,Numerical Optimization,Ayazhan Akhmet;Yves Lucet,9,91.22222222,3.597838857,96.0,86.0,0,0.0,0,0,0.0,0,0,0,0,4,5
-UBCO,2020,W,COSC,406,,OVERALL,Numerical Optimization,,9,91.22222222,3.597838857,96.0,86.0,0,0.0,0,0,0.0,0,0,0,0,4,5
-UBCO,2020,W,COSC,407,,101,Introduction to Parallel Computing,Abdallah Mohamed;Congsong Zhang;Mohamad Khajezade;Mohammad Hadi;Pradeep Mahato;Reece Walsh;Yves Lucet,88,74.73863636,14.81106632,98.0,21.0,5,3.0,4,2,8.0,6,11,8,14,18,9
-UBCO,2020,W,COSC,407,,OVERALL,Introduction to Parallel Computing,,88,74.73863636,14.81106632,98.0,21.0,5,3.0,4,2,8.0,6,11,8,14,18,9
-UBCO,2020,W,COSC,419,K,001,Topics in Computer Science,Gabriel Jarry-Bolduc;Warren Hare,7,83.85714286,11.9083804,98.0,66.0,0,0.0,0,0,1.0,0,1,1,1,0,3
-UBCO,2020,W,COSC,419,K,OVERALL,Topics in Computer Science,,7,83.85714286,11.9083804,98.0,66.0,0,0.0,0,0,1.0,0,1,1,1,0,3
-UBCO,2020,W,COSC,419,M,101,Topics in Computer Science,Apurva Narayan;Pradeep Mahato,34,89.11764706,10.1586348,98.0,58.0,0,0.0,1,0,1.0,1,0,3,2,4,22
-UBCO,2020,W,COSC,419,M,OVERALL,Topics in Computer Science,,34,89.11764706,10.1586348,98.0,58.0,0,0.0,1,0,1.0,1,0,3,2,4,22
-UBCO,2020,W,COSC,445,,101,Computer Vision,Islam Osman;Mohamed Shehata,56,76.60714286,15.4786405,100.0,16.0,1,4.0,1,3,4.0,3,7,5,7,6,15
-UBCO,2020,W,COSC,445,,OVERALL,Computer Vision,,56,76.60714286,15.4786405,100.0,16.0,1,4.0,1,3,4.0,3,7,5,7,6,15
+UBCO,2020,W,COSC,315,,101,Introduction to Operating Systems,Apurva Narayan;Khandoker Ayman;Khandoker Md Ayman;Pradeep Mahato;Sherif Elbishlawi,90,88.166666667,8.304932878,100.0,51.0,0,1.0,0,0,1.0,2,3,6,7,22,48
+UBCO,2020,W,COSC,315,,OVERALL,Introduction to Operating Systems,,90,88.166666667,8.304932878,100.0,51.0,0,1.0,0,0,1.0,2,3,6,7,22,48
+UBCO,2020,W,COSC,320,,001,Analysis of Algorithms,Congsong Zhang;Fatemeh Hendijani Fard;Islam Osman;Ladan Tazik;Ramin Shahbazi;Rishab Sharma;Roozbeh Eslami,147,83.680272109,10.357967216,99.0,44.0,1,2.0,1,3,7.0,3,11,13,20,39,47
+UBCO,2020,W,COSC,320,,OVERALL,Analysis of Algorithms,,147,83.680272109,10.357967216,99.0,44.0,1,2.0,1,3,7.0,3,11,13,20,39,47
+UBCO,2020,W,COSC,322,,101,Introduction to Artificial Intelligence,Billy Spelchan;Congsong Zhang;Karanmeet Khatra;Roozbeh Eslami;Yong Gao,84,77.630952381,9.911390261,93.0,52.0,0,2.0,3,4,6.0,7,9,11,18,17,7
+UBCO,2020,W,COSC,322,,OVERALL,Introduction to Artificial Intelligence,,84,77.630952381,9.911390261,93.0,52.0,0,2.0,3,4,6.0,7,9,11,18,17,7
+UBCO,2020,W,COSC,328,,001,Introduction to Networks,Fatemeh Hendijani Fard;Ramin Shahbazi;Rishab Sharma,100,82.5,11.789826123,100.0,39.0,1,2.0,1,1,3.0,8,8,14,14,14,34
+UBCO,2020,W,COSC,328,,OVERALL,Introduction to Networks,,100,82.5,11.789826123,100.0,39.0,1,2.0,1,1,3.0,8,8,14,14,14,34
+UBCO,2020,W,COSC,335,,101,Introduction to Medical Imaging and Imaging Informatics,Karanmeet Khatra;Michael Kudla-Hooper;Rasika Rajapakshe;Thor Bjarnason,18,81.222222222,12.923100864,95.0,52.0,0,1.0,1,0,2.0,0,0,1,3,5,5
+UBCO,2020,W,COSC,335,,OVERALL,Introduction to Medical Imaging and Imaging Informatics,,18,81.222222222,12.923100864,95.0,52.0,0,1.0,1,0,2.0,0,0,1,3,5,5
+UBCO,2020,W,COSC,341,,101,Human Computer Interaction,Bowen Hui;Brianna Marshinew;Courtney Gosselin;Heather Mehain;Pinku Nath;Rachelle Gelden,160,91.025,9.86063261,100.0,45.0,3,0.0,0,1,0.0,5,1,6,9,26,109
+UBCO,2020,W,COSC,341,,OVERALL,Human Computer Interaction,,160,91.025,9.86063261,100.0,45.0,3,0.0,0,1,0.0,5,1,6,9,26,109
+UBCO,2020,W,COSC,360,,001,Web Programming,Jinghong Chen;Karanmeet Khatra;Khandoker Md Ayman;Shan Du,124,84.887096774,10.246720417,98.0,25.0,1,0.0,0,2,4.0,8,5,8,20,27,49
+UBCO,2020,W,COSC,360,,OVERALL,Web Programming,,124,84.887096774,10.246720417,98.0,25.0,1,0.0,0,2,4.0,8,5,8,20,27,49
+UBCO,2020,W,COSC,406,,101,Numerical Optimization,Ayazhan Akhmet;Yves Lucet,9,91.222222222,3.597838857,96.0,86.0,0,0.0,0,0,0.0,0,0,0,0,4,5
+UBCO,2020,W,COSC,406,,OVERALL,Numerical Optimization,,9,91.222222222,3.597838857,96.0,86.0,0,0.0,0,0,0.0,0,0,0,0,4,5
+UBCO,2020,W,COSC,407,,101,Introduction to Parallel Computing,Abdallah Mohamed;Congsong Zhang;Mohamad Khajezade;Mohammad Hadi;Pradeep Mahato;Reece Walsh;Yves Lucet,88,74.738636364,14.811066318,98.0,21.0,5,3.0,4,2,8.0,6,11,8,14,18,9
+UBCO,2020,W,COSC,407,,OVERALL,Introduction to Parallel Computing,,88,74.738636364,14.811066318,98.0,21.0,5,3.0,4,2,8.0,6,11,8,14,18,9
+UBCO,2020,W,COSC,419,K,001,Topics in Computer Science,Gabriel Jarry-Bolduc;Warren Hare,7,83.857142857,11.908380402,98.0,66.0,0,0.0,0,0,1.0,0,1,1,1,0,3
+UBCO,2020,W,COSC,419,K,OVERALL,Topics in Computer Science,,7,83.857142857,11.908380402,98.0,66.0,0,0.0,0,0,1.0,0,1,1,1,0,3
+UBCO,2020,W,COSC,419,M,101,Topics in Computer Science,Apurva Narayan;Pradeep Mahato,34,89.117647059,10.158634798,98.0,58.0,0,0.0,1,0,1.0,1,0,3,2,4,22
+UBCO,2020,W,COSC,419,M,OVERALL,Topics in Computer Science,,34,89.117647059,10.158634798,98.0,58.0,0,0.0,1,0,1.0,1,0,3,2,4,22
+UBCO,2020,W,COSC,445,,101,Computer Vision,Islam Osman;Mohamed Shehata,56,76.607142857,15.478640499,100.0,16.0,1,4.0,1,3,4.0,3,7,5,7,6,15
+UBCO,2020,W,COSC,445,,OVERALL,Computer Vision,,56,76.607142857,15.478640499,100.0,16.0,1,4.0,1,3,4.0,3,7,5,7,6,15
 UBCO,2020,W,COSC,447,,OVERALL,Directed Studies in Software Maintenance,,10,91.6,5.601587077,100.0,80.0,0,0.0,0,0,0.0,0,0,0,,,
-UBCO,2020,W,COSC,448,A,OVERALL,Directed Studies in Computer Science,,11,93.72727273,5.349596416,100.0,85.0,0,0.0,0,0,0.0,0,0,0,0,,
-UBCO,2020,W,COSC,449,,OVERALL,Honours Thesis,,14,94.07142857,5.525664397,100.0,85.0,0,0.0,0,0,0.0,0,0,0,0,,
-UBCO,2020,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;Zil Huma,77,92.37662338,8.209492197,100.0,45.0,1,0.0,0,0,0.0,0,1,1,8,8,58
-UBCO,2020,W,COSC,499,,OVERALL,Capstone Software Engineering Project,,77,92.37662338,8.209492197,100.0,45.0,1,0.0,0,0,0.0,0,1,1,8,8,58
+UBCO,2020,W,COSC,448,A,OVERALL,Directed Studies in Computer Science,,11,93.727272727,5.349596416,100.0,85.0,0,0.0,0,0,0.0,0,0,0,0,,
+UBCO,2020,W,COSC,449,,OVERALL,Honours Thesis,,14,94.071428571,5.525664397,100.0,85.0,0,0.0,0,0,0.0,0,0,0,0,,
+UBCO,2020,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui;Zil Huma,77,92.376623377,8.209492197,100.0,45.0,1,0.0,0,0,0.0,0,1,1,8,8,58
+UBCO,2020,W,COSC,499,,OVERALL,Capstone Software Engineering Project,,77,92.376623377,8.209492197,100.0,45.0,1,0.0,0,0,0.0,0,1,1,8,8,58
 UBCO,2020,W,COSC,506,,101,Numerical Optimization,Ayazhan Akhmet;Yves Lucet,8,93.0,5.855400438,98.0,80.0,0,0.0,0,0,0.0,0,0,0,1,0.0,7
 UBCO,2020,W,COSC,506,,OVERALL,Numerical Optimization,,8,93.0,5.855400438,98.0,80.0,0,0.0,0,0,0.0,0,0,0,1,0.0,7
-UBCO,2020,W,COSC,519,M,101,Topics in Computer Science,Apurva Narayan;Pradeep Mahato,8,93.5,3.625307869,98.0,86.0,0,0.0,0,0,0.0,0,0,0,0,1,7
-UBCO,2020,W,COSC,519,M,OVERALL,Topics in Computer Science,,8,93.5,3.625307869,98.0,86.0,0,0.0,0,0,0.0,0,0,0,0,1,7
+UBCO,2020,W,COSC,519,M,101,Topics in Computer Science,Apurva Narayan;Pradeep Mahato,9,88.0,16.844880528,98.0,44.0,1,0.0,0,0,0.0,0,0,0,0,1,7
+UBCO,2020,W,COSC,519,M,OVERALL,Topics in Computer Science,,9,88.0,16.844880528,98.0,44.0,1,0.0,0,0,0.0,0,0,0,0,1,7
 UBCO,2020,W,COSC,548,,OVERALL,Directed Studies,,8,95.0,4.375255095,100.0,90.0,0,0.0,0,0,0.0,0,0,0,0,0,8.0

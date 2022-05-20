@@ -1,45 +1,45 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad,13,82.46153846,2.569545505,85.0,78.0,0,0,0,0,0,0,0,2,8,3,0
+UBCV,2019,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad,13,82.461538462,2.569545505,85.0,78.0,0,0,0,0,0,0,0,2,8,3,0
 UBCV,2019,W,EECE,541,,201,Multimedia Systems,Mahsa Talebpourazad;Panos Nasiopoulos,20,86.85,2.870448342,93.0,81.0,0,0,0,0,0,0,0,0,4,14,2
-UBCV,2019,W,EECE,541,,OVERALL,Multimedia Systems,,33,85.12121212,3.479920758,93.0,78.0,0,0,0,0,0,0,0,2,12,17,2
-UBCV,2019,W,EECE,549,,101,Dynamic Modelling of Electric Machines and Controls,Juri Jatskevich,11,86.72727273,6.649675317,94.0,70.0,0,0,0,0,0,1,0,0,2,4,4
-UBCV,2019,W,EECE,549,,OVERALL,Dynamic Modelling of Electric Machines and Controls,,11,86.72727273,6.649675317,94.0,70.0,0,0,0,0,0,1,0,0,2,4,4
+UBCV,2019,W,EECE,541,,OVERALL,Multimedia Systems,,33,85.121212121,3.479920758,93.0,78.0,0,0,0,0,0,0,0,2,12,17,2
+UBCV,2019,W,EECE,549,,101,Dynamic Modelling of Electric Machines and Controls,Juri Jatskevich,11,86.727272727,6.649675317,94.0,70.0,0,0,0,0,0,1,0,0,2,4,4
+UBCV,2019,W,EECE,549,,OVERALL,Dynamic Modelling of Electric Machines and Controls,,11,86.727272727,6.649675317,94.0,70.0,0,0,0,0,0,1,0,0,2,4,4
 UBCV,2019,W,EECE,550,,201,Topics in Power Electronic Design,Franco Degioanni;Martin Ordonez,8,85.125,4.853202183,93.0,80.0,0,0,0,0,0,0,0,0,4,2,2
 UBCV,2019,W,EECE,550,,OVERALL,Topics in Power Electronic Design,,8,85.125,4.853202183,93.0,80.0,0,0,0,0,0,0,0,0,4,2,2
-UBCV,2019,W,EECE,553,,201,Advanced Power Systems Analysis,Ebrahim Vaahedi,9,77.55555556,14.06334874,93.0,52.0,0,,,,2,,,1,2,,3
-UBCV,2019,W,EECE,553,,OVERALL,Advanced Power Systems Analysis,,9,77.55555556,14.06334874,93.0,52.0,0,,,,2,,,1,2,,3
-UBCV,2019,W,EECE,554,,101,Advanced Power System Control and Dynamics,Hermann Dommel,9,97.88888889,2.315407332,100.0,92.0,0,0,0,0,0,0,0,0,0,0,9
-UBCV,2019,W,EECE,554,,OVERALL,Advanced Power System Control and Dynamics,,9,97.88888889,2.315407332,100.0,92.0,0,0,0,0,0,0,0,0,0,0,9
-UBCV,2019,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Bo Chen;Sina Chiniforoosh,23,86.39130435,8.015548132,98.0,68.0,0,0,0,0,0,3,0,0,4,5,11
-UBCV,2019,W,EECE,555,,OVERALL,Renewable and Efficient Electric Power Systems,,23,86.39130435,8.015548132,98.0,68.0,0,0,0,0,0,3,0,0,4,5,11
-UBCV,2019,W,EECE,560,,201,Network Analysis and Simulation,Jose Marti,11,83.45454546,9.993634338,99.0,60.0,0,0,0,,,,,,5,3,2
-UBCV,2019,W,EECE,560,,OVERALL,Network Analysis and Simulation,,11,83.45454546,9.993634338,99.0,60.0,0,0,0,,,,,,5,3,2
-UBCV,2019,W,EECE,562,,101,Statistical Signal Processing with Applications in Wireless Communications and Defence,Zhen Wang,13,89.38461539,3.753630721,95.0,84.0,0,0,0,0,0,0,0,0,1,5,7
-UBCV,2019,W,EECE,562,,OVERALL,Statistical Signal Processing with Applications in Wireless Communications and Defence,,13,89.38461539,3.753630721,95.0,84.0,0,0,0,0,0,0,0,0,1,5,7
-UBCV,2019,W,EECE,565,,101,Communication Networks,Wai-Shuen Vincent Wong,22,70.09090909,12.98683983,98.0,50.0,0,,,6,1,2,3,1,2,2,2
-UBCV,2019,W,EECE,565,,OVERALL,Communication Networks,,22,70.09090909,12.98683983,98.0,50.0,0,,,6,1,2,3,1,2,2,2
+UBCV,2019,W,EECE,553,,201,Advanced Power Systems Analysis,Ebrahim Vaahedi,9,77.555555556,14.06334874,93.0,52.0,0,,,,2,,,1,2,,3
+UBCV,2019,W,EECE,553,,OVERALL,Advanced Power Systems Analysis,,9,77.555555556,14.06334874,93.0,52.0,0,,,,2,,,1,2,,3
+UBCV,2019,W,EECE,554,,101,Advanced Power System Control and Dynamics,Hermann Dommel,9,97.888888889,2.315407332,100.0,92.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2019,W,EECE,554,,OVERALL,Advanced Power System Control and Dynamics,,9,97.888888889,2.315407332,100.0,92.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2019,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Bo Chen;Sina Chiniforoosh,23,86.391304348,8.015548132,98.0,68.0,0,0,0,0,0,3,0,0,4,5,11
+UBCV,2019,W,EECE,555,,OVERALL,Renewable and Efficient Electric Power Systems,,23,86.391304348,8.015548132,98.0,68.0,0,0,0,0,0,3,0,0,4,5,11
+UBCV,2019,W,EECE,560,,201,Network Analysis and Simulation,Jose Marti,11,83.454545455,9.993634338,99.0,60.0,0,0,0,,,,,,5,3,2
+UBCV,2019,W,EECE,560,,OVERALL,Network Analysis and Simulation,,11,83.454545455,9.993634338,99.0,60.0,0,0,0,,,,,,5,3,2
+UBCV,2019,W,EECE,562,,101,Statistical Signal Processing with Applications in Wireless Communications and Defence,Zhen Wang,13,89.384615385,3.753630721,95.0,84.0,0,0,0,0,0,0,0,0,1,5,7
+UBCV,2019,W,EECE,562,,OVERALL,Statistical Signal Processing with Applications in Wireless Communications and Defence,,13,89.384615385,3.753630721,95.0,84.0,0,0,0,0,0,0,0,0,1,5,7
+UBCV,2019,W,EECE,565,,101,Communication Networks,Wai-Shuen Vincent Wong,22,70.090909091,12.986839826,98.0,50.0,0,,,6,1,2,3,1,2,2,2
+UBCV,2019,W,EECE,565,,OVERALL,Communication Networks,,22,70.090909091,12.986839826,98.0,50.0,0,,,6,1,2,3,1,2,2,2
 UBCV,2019,W,EECE,567,,201,Power System Dynamics and Stability,Yu Christine Chen,10,85.0,9.820613242,97.0,67.0,0,0,0,0,1,0.0,1,1,1,3,3
 UBCV,2019,W,EECE,567,,OVERALL,Power System Dynamics and Stability,,10,85.0,9.820613242,97.0,67.0,0,0,0,0,1,0.0,1,1,1,3,3
 UBCV,2019,W,EECE,570,,201,Fundamentals of Visual Computing,Rafeef Garbi;Tajwar Abrar Aleef;Tajwar Aleef,20,80.8,4.685925174,87.0,71.0,0,0,0,0,0,1,2,6,4,7,0
 UBCV,2019,W,EECE,570,,OVERALL,Fundamentals of Visual Computing,,20,80.8,4.685925174,87.0,71.0,0,0,0,0,0,1,2,6,4,7,0
-UBCV,2019,W,EECE,571,B,206,Electrical Engineering Seminar and Special Problems,Alexandra Fedorova;Zehua Wang,34,92.08823529,3.15621222,96.0,82.0,0,0,0,0,0,0,0,0,1,5,28
-UBCV,2019,W,EECE,571,B,OVERALL,Electrical Engineering Seminar and Special Problems,,34,92.08823529,3.15621222,96.0,82.0,0,0,0,0,0,0,0,0,1,5,28
-UBCV,2019,W,EECE,571,G,208,Electrical Engineering Seminar and Special Problems,Zehua Wang,39,93.74358974,3.690085926,99.0,83.0,0,0,0,0,0,0,0,0,3,1,35
-UBCV,2019,W,EECE,571,G,OVERALL,Electrical Engineering Seminar and Special Problems,,39,93.74358974,3.690085926,99.0,83.0,0,0,0,0,0,0,0,0,3,1,35
-UBCV,2019,W,EECE,571,L,107,Electrical Engineering Seminar and Special Problems,Lele Wang;Scott Chin;Ziao Wang,8,81.75,11.14514629,98.0,60.0,0,0,0,1,0,0,1,0,2,3,1
-UBCV,2019,W,EECE,571,L,OVERALL,Electrical Engineering Seminar and Special Problems,,8,81.75,11.14514629,98.0,60.0,0,0,0,1,0,0,1,0,2,3,1
-UBCV,2019,W,EECE,571,M,203,Electrical Engineering Seminar and Special Problems,Lutz Lampe;Mostafa Darabi;Yinjia Huo,12,87.66666667,4.49915817,95.0,80.0,0,0,0,0,0,0,0,0,2,6,4
-UBCV,2019,W,EECE,571,M,OVERALL,Electrical Engineering Seminar and Special Problems,,12,87.66666667,4.49915817,95.0,80.0,0,0,0,0,0,0,0,0,2,6,4
+UBCV,2019,W,EECE,571,B,206,Electrical Engineering Seminar and Special Problems,Alexandra Fedorova;Zehua Wang,34,92.088235294,3.15621222,96.0,82.0,0,0,0,0,0,0,0,0,1,5,28
+UBCV,2019,W,EECE,571,B,OVERALL,Electrical Engineering Seminar and Special Problems,,34,92.088235294,3.15621222,96.0,82.0,0,0,0,0,0,0,0,0,1,5,28
+UBCV,2019,W,EECE,571,G,208,Electrical Engineering Seminar and Special Problems,Zehua Wang,39,93.743589744,3.690085926,99.0,83.0,0,0,0,0,0,0,0,0,3,1,35
+UBCV,2019,W,EECE,571,G,OVERALL,Electrical Engineering Seminar and Special Problems,,39,93.743589744,3.690085926,99.0,83.0,0,0,0,0,0,0,0,0,3,1,35
+UBCV,2019,W,EECE,571,L,107,Electrical Engineering Seminar and Special Problems,Lele Wang;Scott Chin;Ziao Wang,8,81.75,11.145146285,98.0,60.0,0,0,0,1,0,0,1,0,2,3,1
+UBCV,2019,W,EECE,571,L,OVERALL,Electrical Engineering Seminar and Special Problems,,8,81.75,11.145146285,98.0,60.0,0,0,0,1,0,0,1,0,2,3,1
+UBCV,2019,W,EECE,571,M,203,Electrical Engineering Seminar and Special Problems,Lutz Lampe;Mostafa Darabi;Yinjia Huo,12,87.666666667,4.49915817,95.0,80.0,0,0,0,0,0,0,0,0,2,6,4
+UBCV,2019,W,EECE,571,M,OVERALL,Electrical Engineering Seminar and Special Problems,,12,87.666666667,4.49915817,95.0,80.0,0,0,0,0,0,0,0,0,2,6,4
 UBCV,2019,W,EECE,571,S,102,Electrical Engineering Seminar and Special Problems,Joseph Salfi,13,82.0,9.991663192,97.0,60.0,0,0,0,1,0,0,2,1,5,1,3
 UBCV,2019,W,EECE,571,S,OVERALL,Electrical Engineering Seminar and Special Problems,,13,82.0,9.991663192,97.0,60.0,0,0,0,1,0,0,2,1,5,1,3
-UBCV,2019,W,EECE,571,T,201,Electrical Engineering Seminar and Special Problems,Bhushan Gopaluni;Matthew Yedlin;Purang Abolmaesumi,36,88.05555556,5.923051552,96.0,70.0,0,0,0,0,0,1,1,1,6,12,15
-UBCV,2019,W,EECE,571,T,OVERALL,Electrical Engineering Seminar and Special Problems,,36,88.05555556,5.923051552,96.0,70.0,0,0,0,0,0,1,1,1,6,12,15
-UBCV,2019,W,EECE,571,W,202,Electrical Engineering Seminar and Special Problems,Lele Wang,11,89.81818182,4.622081389,98.0,85.0,0,0,0,0,0,0,0,0,0,4,7
-UBCV,2019,W,EECE,571,W,OVERALL,Electrical Engineering Seminar and Special Problems,,11,89.81818182,4.622081389,98.0,85.0,0,0,0,0,0,0,0,0,0,4,7
+UBCV,2019,W,EECE,571,T,201,Electrical Engineering Seminar and Special Problems,Bhushan Gopaluni;Matthew Yedlin;Purang Abolmaesumi,36,88.055555556,5.923051552,96.0,70.0,0,0,0,0,0,1,1,1,6,12,15
+UBCV,2019,W,EECE,571,T,OVERALL,Electrical Engineering Seminar and Special Problems,,36,88.055555556,5.923051552,96.0,70.0,0,0,0,0,0,1,1,1,6,12,15
+UBCV,2019,W,EECE,571,W,202,Electrical Engineering Seminar and Special Problems,Lele Wang,11,89.818181818,4.622081389,98.0,85.0,0,0,0,0,0,0,0,0,0,4,7
+UBCV,2019,W,EECE,571,W,OVERALL,Electrical Engineering Seminar and Special Problems,,11,89.818181818,4.622081389,98.0,85.0,0,0,0,0,0,0,0,0,0,4,7
 UBCV,2019,W,EECE,571,Y,104,Electrical Engineering Seminar and Special Problems,Cyril Leung,7,85.0,6.8556546,95.0,77.0,0,0,0,0,0,0,0,2,1,2,2
 UBCV,2019,W,EECE,571,Y,OVERALL,Electrical Engineering Seminar and Special Problems,,7,85.0,6.8556546,95.0,77.0,0,0,0,0,0,0,0,2,1,2,2
 UBCV,2019,W,EECE,597,,201,Engineering Report,William Dunford,6,87.0,8.508818954,95.0,72.0,0,0,0,0,0,0,1,0,0,2,3
-UBCV,2019,W,EECE,597,,OVERALL,Engineering Report,,11,88.27272727,6.67968426,95.0,72.0,0,0,0,0,0,0,1,0,0,4,6
+UBCV,2019,W,EECE,597,,OVERALL,Engineering Report,,11,88.272727273,6.67968426,95.0,72.0,0,0,0,0,0,0,1,0,0,4,6
 UBCV,2019,W,EECE,599,,001,Thesis,,9,89.0,4.092676386,95.0,83.0,0,0,0,0,0,0,0,0,2,1,6
-UBCV,2019,W,EECE,599,,101,Thesis,,13,86.15384615,4.930283187,92.0,75.0,0,0,0,0,0,0,1,0.0,2,5,5
-UBCV,2019,W,EECE,599,,OVERALL,Thesis,,22,87.31818182,4.724670446,95.0,75.0,0,0,0,0,0,0,1,0.0,4,6,11
+UBCV,2019,W,EECE,599,,101,Thesis,,13,86.153846154,4.930283187,92.0,75.0,0,0,0,0,0,0,1,0.0,2,5,5
+UBCV,2019,W,EECE,599,,OVERALL,Thesis,,22,87.318181818,4.724670446,95.0,75.0,0,0,0,0,0,0,1,0.0,4,6,11

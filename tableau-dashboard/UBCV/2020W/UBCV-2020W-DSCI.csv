@@ -1,50 +1,59 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,DSCI,100,,001,Introduction to Data Science,Abdul-Wasay Hayat;Alex Barber-Cross;Alexandra Barber-Cross;Alice Kang;Anahita Einolghozati;Cathy Yan;Connor Mcdonald;Michael De Marco;Pramoda Sachinthana Jayasinghe;Qin Rui Zhao;Trevor Campbell;Vridhi Gupta;Wonjee Jeong,170,78.54117647,10.13057116,93.0,41.0,3,2,4,5,8,13,16,30,32,38,19
-UBCV,2020,W,DSCI,100,,002,Introduction to Data Science,Alex Barber-Cross;Alexandra Barber-Cross;Alice Kang;Anahita Einolghozati;Cathy Yan;Connor Mcdonald;Michael De Marco;Pramoda Sachinthana Jayasinghe;Tiffany Timbers;Wonjee Jeong;Zhonghao Yang,158,79.34810127,14.18257979,96.0,13.0,5,5,2,0.0,5,7,7,22,40,45,20
-UBCV,2020,W,DSCI,100,,003,Introduction to Data Science,Alex Barber-Cross;Alexandra Barber-Cross;Alice Kang;Anahita Einolghozati;Cathy Yan;Connor Mcdonald;Ding Ma;Melissa Lee;Michael De Marco;Pramoda Sachinthana Jayasinghe;Wonjee Jeong;Zhonghao Yang,148,78.47972973,13.41918091,95.0,20.0,7,1,4,3,5,10,8,22,33,38,17
-UBCV,2020,W,DSCI,100,,OVERALL,Introduction to Data Science,,476,78.78991597,12.60484381,96.0,13.0,15,8,10,8,18,30,31,74,105,121,56
+UBCV,2020,W,DSCI,100,,001,Introduction to Data Science,A Ram Kang;Abdul-Wasay Hayat;Alexandra Barber-Cross;Anahita Einolghozati;Cathy Yan;Connor Mcdonald;Michael De Marco;Pramoda Sachinthana Jayasinghe;Qin Rui Zhao;Trevor Campbell;Vridhi Gupta;Wonjee Jeong,171,78.538011696,10.100816194,93.0,41.0,3,2,4,5,8,13,16,31,32,38,19
+UBCV,2020,W,DSCI,100,,002,Introduction to Data Science,A Ram Kang;Alexandra Barber-Cross;Anahita Einolghozati;Cathy Yan;Connor Mcdonald;Michael De Marco;Pramoda Sachinthana Jayasinghe;Tiffany Timbers;Wonjee Jeong;Zhonghao Yang,158,79.386075949,14.17350389,96.0,13.0,5,5,2,0.0,5,7,6,22,41,45,20
+UBCV,2020,W,DSCI,100,,003,Introduction to Data Science,A Ram Kang;Alexandra Barber-Cross;Cathy Yan;Ding Ma;Melissa Lee;Michael De Marco;Pramoda Sachinthana Jayasinghe;Zhonghao Yang,148,78.47972973,13.419180908,95.0,20.0,7,1,4,3,5,10,8,22,33,38,17
+UBCV,2020,W,DSCI,100,,OVERALL,Introduction to Data Science,,477,78.800838574,12.588850581,96.0,13.0,15,8,10,8,18,30,30,75,106,121,56
 UBCV,2020,W,DSCI,511,,001,Programming for Data Science,Alireza Iranpour;Michael Gelbart;Paul Ripoche;Peter Henry Gysbers;Siddhesh Khandelwal;Tiffany Timbers;Tomas Beuzen;Vaden Masrani;Varada Kolhatkar,129,94.19379845,6.132747039,100.0,53.0,0,,,,,1,,1,6,5,115
 UBCV,2020,W,DSCI,511,,OVERALL,Programming for Data Science,,129,94.19379845,6.132747039,100.0,53.0,0,,,,,1,,1,6,5,115
-UBCV,2020,W,DSCI,512,,001,Algorithms and Data Structures,Michael Gelbart;Paul Ripoche;Siddhesh Khandelwal;Vaden Masrani;Yinjia Huo,96,92.45833333,5.513460403,100.0,74.0,0,0,0,0,0,0,1,2,7,14,72
-UBCV,2020,W,DSCI,512,,002,Algorithms and Data Structures,Julian Brooke;Peter Sullivan,31,86.96774194,5.618326388,99.0,73.0,0,0,0,0,0,0,1,1,9,10,10
-UBCV,2020,W,DSCI,512,,OVERALL,Algorithms and Data Structures,,127,91.11811024,6.003456905,100.0,73.0,0,0,0,0,0,0,2,3,16,24,82
-UBCV,2020,W,DSCI,513,,001,Databases and Data Retrieval,Alireza Iranpour;Hung Yu Ling;Peter Henry Gysbers;Rodolfo Lourenzutti;Safa Sadat Ahmadian Hosseini;Sean La;Simon Goring;Tomas Beuzen,126,93.71428571,4.185416859,99.0,75.0,0,0,0,0,0,0,1,1,4,7,113
-UBCV,2020,W,DSCI,513,,OVERALL,Databases and Data Retrieval,,126,93.71428571,4.185416859,99.0,75.0,0,0,0,0,0,0,1,1,4,7,113
-UBCV,2020,W,DSCI,521,,001,Computing Platforms for Data Science,Analise Hofmann;Arjun Baghela;Jie Xiang;Joel Ostblom;Rodolfo Lourenzutti;Sean La;Tiffany Timbers;Yulia Egorova,129,92.06976744,5.705241623,100.0,53.0,0,,,,,,1,,5,22,100
-UBCV,2020,W,DSCI,521,,OVERALL,Computing Platforms for Data Science,,129,92.06976744,5.705241623,100.0,53.0,0,,,,,,1,,5,22,100
-UBCV,2020,W,DSCI,522,,001,Data Science Workflows,Analise Hofmann;Arjun Baghela;Eric Lee;Hossameldin Ibrahim Said Mohammed;Jordan Bourak;Stephen Kasica;Tiffany Timbers,95,94.24210526,3.120678423,99.0,86.0,0,0,0,0,0,0,0,0,0,7,88
-UBCV,2020,W,DSCI,522,,OVERALL,Data Science Workflows,,95,94.24210526,3.120678423,99.0,86.0,0,0,0,0,0,0,0,0,0,7,88
-UBCV,2020,W,DSCI,523,,001,Programming for Data Manipulation,Chao-Chun Liu;Jordan Sicherman;Kateryna Tyshchenko;Kyle Macdonald;Mai Uyen Thieu;Tiffany Timbers;Tomas Beuzen,129,90.89147287,7.259950402,99.0,38.0,1,0,0,0,0,2,1,4,5,21,95
-UBCV,2020,W,DSCI,523,,OVERALL,Programming for Data Manipulation,,129,90.89147287,7.259950402,99.0,38.0,1,0,0,0,0,2,1,4,5,21,95
-UBCV,2020,W,DSCI,524,,001,Collaborative Software Development,Arjun Baghela;Gittu George;Hossameldin Ibrahim Said Mohammed;Peter Henry Gysbers;Siddhesh Khandelwal;Tiffany Timbers,95,97.67368421,3.580211884,99.0,69.0,0,0,0,0,0,1,0,0,0,2,92
-UBCV,2020,W,DSCI,524,,OVERALL,Collaborative Software Development,,95,97.67368421,3.580211884,99.0,69.0,0,0,0,0,0,1,0,0,0,2,92
-UBCV,2020,W,DSCI,531,,001,Data Visualization I,Eric Lee;Hossameldin Ibrahim Said Mohammed;Jie Xiang;Joel Ostblom;Kateryna Tyshchenko;Michael Gelbart;Stephen Kasica;Tiffany Timbers;Varada Kolhatkar,127,93.83464567,5.842868098,100.0,69.0,0,0,0,0,0,1,2,3,4,6,111
-UBCV,2020,W,DSCI,531,,OVERALL,Data Visualization I,,127,93.83464567,5.842868098,100.0,69.0,0,0,0,0,0,1,2,3,4,6,111
-UBCV,2020,W,DSCI,541,,002,"Privacy, Ethics, and Security",Julian Brooke,30,94.03333333,2.797576948,98.0,88.0,0,0,0,0,0,0,0,0,0,3,27
-UBCV,2020,W,DSCI,541,,OVERALL,"Privacy, Ethics, and Security",,30,94.03333333,2.797576948,98.0,88.0,0,0,0,0,0,0,0,0,0,3,27
-UBCV,2020,W,DSCI,542,,001,Communication and Argumentation,Afshin Amini;Analise Hofmann;David Laing;Ishika Luthra;Michael Gelbart;Paul Ripoche,95,91.95789474,6.207263743,98.0,62.0,0,0,0,2,0,0,1,1,6,8,77
-UBCV,2020,W,DSCI,542,,OVERALL,Communication and Argumentation,,95,91.95789474,6.207263743,98.0,62.0,0,0,0,2,0,0,1,1,6,8,77
+UBCV,2020,W,DSCI,512,,001,Algorithms and Data Structures,Michael Gelbart;Paul Ripoche;Siddhesh Khandelwal;Vaden Masrani;Yinjia Huo,96,92.458333333,5.513460403,100.0,74.0,0,0,0,0,0,0,1,2,7,14,72
+UBCV,2020,W,DSCI,512,,002,Algorithms and Data Structures,Julian Brooke;Peter Sullivan,31,86.967741935,5.618326388,99.0,73.0,0,0,0,0,0,0,1,1,9,10,10
+UBCV,2020,W,DSCI,512,,OVERALL,Algorithms and Data Structures,,127,91.118110236,6.003456905,100.0,73.0,0,0,0,0,0,0,2,3,16,24,82
+UBCV,2020,W,DSCI,513,,001,Databases and Data Retrieval,Alireza Iranpour;Hung Yu Ling;Peter Henry Gysbers;Rodolfo Lourenzutti;Safa Sadat Ahmadian Hosseini;Sean La;Simon Goring;Tomas Beuzen,126,93.714285714,4.185416859,99.0,75.0,0,0,0,0,0,0,1,1,4,7,113
+UBCV,2020,W,DSCI,513,,OVERALL,Databases and Data Retrieval,,126,93.714285714,4.185416859,99.0,75.0,0,0,0,0,0,0,1,1,4,7,113
+UBCV,2020,W,DSCI,521,,001,Computing Platforms for Data Science,Analise Hofmann;Arjun Baghela;Jie Xiang;Joel Ostblom;Rodolfo Lourenzutti;Sean La;Tiffany Timbers;Yulia Egorova,129,92.069767442,5.705241623,100.0,53.0,0,,,,,,1,,5,22,100
+UBCV,2020,W,DSCI,521,,OVERALL,Computing Platforms for Data Science,,129,92.069767442,5.705241623,100.0,53.0,0,,,,,,1,,5,22,100
+UBCV,2020,W,DSCI,522,,001,Data Science Workflows,Analise Hofmann;Arjun Baghela;Eric Lee;Hossameldin Ibrahim Said Mohammed;Jordan Bourak;Stephen Kasica;Tiffany Timbers,95,94.242105263,3.120678423,99.0,86.0,0,0,0,0,0,0,0,0,0,7,88
+UBCV,2020,W,DSCI,522,,OVERALL,Data Science Workflows,,95,94.242105263,3.120678423,99.0,86.0,0,0,0,0,0,0,0,0,0,7,88
+UBCV,2020,W,DSCI,523,,001,Programming for Data Manipulation,Chao-Chun Liu;Jordan Sicherman;Kateryna Tyshchenko;Kyle Macdonald;Mai Uyen Thieu;Sophie Macdonald;Tiffany Timbers;Tomas Beuzen,129,90.891472868,7.259950402,99.0,38.0,1,0,0,0,0,2,1,4,5,21,95
+UBCV,2020,W,DSCI,523,,OVERALL,Programming for Data Manipulation,,129,90.891472868,7.259950402,99.0,38.0,1,0,0,0,0,2,1,4,5,21,95
+UBCV,2020,W,DSCI,524,,001,Collaborative Software Development,Arjun Baghela;Gittu George;Hossameldin Ibrahim Said Mohammed;Peter Henry Gysbers;Siddhesh Khandelwal;Tiffany Timbers,95,97.673684211,3.580211884,99.0,69.0,0,0,0,0,0,1,0,0,0,2,92
+UBCV,2020,W,DSCI,524,,OVERALL,Collaborative Software Development,,95,97.673684211,3.580211884,99.0,69.0,0,0,0,0,0,1,0,0,0,2,92
+UBCV,2020,W,DSCI,525,,001,Web and Cloud Computing,Ali Seyfi;Gittu George;Hossameldin Ibrahim Said Mohammed;Michael Feeley;Paul Ripoche;Peter Henry Gysbers;Varada Kolhatkar,95,99.694736842,0.547211193,100.0,98.0,0,0,0,0,0,0,0,0,0,0,95
+UBCV,2020,W,DSCI,525,,OVERALL,Web and Cloud Computing,,95,99.694736842,0.547211193,100.0,98.0,0,0,0,0,0,0,0,0,0,0,95
+UBCV,2020,W,DSCI,531,,001,Data Visualization I,Eric Lee;Hossameldin Ibrahim Said Mohammed;Jie Xiang;Joel Ostblom;Kateryna Tyshchenko;Michael Gelbart;Stephen Kasica;Tiffany Timbers;Varada Kolhatkar,127,93.834645669,5.842868098,100.0,69.0,0,0,0,0,0,1,2,3,4,6,111
+UBCV,2020,W,DSCI,531,,OVERALL,Data Visualization I,,127,93.834645669,5.842868098,100.0,69.0,0,0,0,0,0,1,2,3,4,6,111
+UBCV,2020,W,DSCI,532,,001,Data Visualization II,Afshin Amini;Analise Hofmann;Christopher Nicholas Gubbels;Joel Ostblom;Man Yeung Tai;Varada Kolhatkar,95,95.8,2.076207672,98.0,91.0,0,0,0,0,0,0,0,0,0,0,95
+UBCV,2020,W,DSCI,532,,OVERALL,Data Visualization II,,95,95.8,2.076207672,98.0,91.0,0,0,0,0,0,0,0,0,0,0,95
+UBCV,2020,W,DSCI,541,,001,"Privacy, Ethics, and Security",Analise Hofmann;Daisy Zhang;Edwin Max Knorr;Joel Ostblom;Mariana Cabani;Matthew Rabitsky;Tristan Pinsonneault-Marotte,95,91.578947368,5.904522153,100.0,68.0,0,0,0,0,0,2,1,0.0,7,18,67
+UBCV,2020,W,DSCI,541,,002,"Privacy, Ethics, and Security",Julian Brooke,30,94.033333333,2.797576948,98.0,88.0,0,0,0,0,0,0,0,0,0,3,27
+UBCV,2020,W,DSCI,541,,OVERALL,"Privacy, Ethics, and Security",,125,92.168,5.419105985,100.0,68.0,0,0,0,0,0,2,1,0.0,7,21,94
+UBCV,2020,W,DSCI,542,,001,Communication and Argumentation,Afshin Amini;Analise Hofmann;David Laing;Ishika Luthra;Michael Gelbart;Paul Ripoche,95,91.957894737,6.207263743,98.0,62.0,0,0,0,2,0,0,1,1,6,8,77
+UBCV,2020,W,DSCI,542,,OVERALL,Communication and Argumentation,,95,91.957894737,6.207263743,98.0,62.0,0,0,0,2,0,0,1,1,6,8,77
 UBCV,2020,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Aaron Berk;Eric Lee;Hossameldin Ibrahim Said Mohammed;Man Yeung Tai;Safa Sadat Ahmadian Hosseini;Stephen Kasica;Vincenzo Coia;Yinjia Huo,128,88.625,7.849971162,100.0,47.0,1,0,0,0,2,3,4,6,8,34,70
 UBCV,2020,W,DSCI,551,,OVERALL,Descriptive Statistics and Probability for Data Science,,128,88.625,7.849971162,100.0,47.0,1,0,0,0,2,3,4,6,8,34,70
-UBCV,2020,W,DSCI,552,,001,Statistical Inference and Computation I,Analise Hofmann;Jordan Bourak;Jordan Sicherman;Kyle Macdonald;Tiffany Timbers;Yulia Egorova,127,91.81889764,5.505289409,99.0,71.0,0,0,0,0,0,1,2,3,6,20,95
-UBCV,2020,W,DSCI,552,,OVERALL,Statistical Inference and Computation I,,127,91.81889764,5.505289409,99.0,71.0,0,0,0,0,0,1,2,3,6,20,95
-UBCV,2020,W,DSCI,553,,001,Statistical Inference and Computation II,Michael Gelbart;Paul Ripoche;Siddhesh Khandelwal;Trevor Campbell;Vaden Masrani;Yinjia Huo,95,87.61052632,7.009559941,97.0,60.0,0,0,0,1,3,0.0,2,4,8,35,42
-UBCV,2020,W,DSCI,553,,OVERALL,Statistical Inference and Computation II,,95,87.61052632,7.009559941,97.0,60.0,0,0,0,1,3,0.0,2,4,8,35,42
-UBCV,2020,W,DSCI,554,,001,Experimentation and Causal Inference,Aaron Greenberg;Alireza Naderi;Benjamin Bloem-Reddy;Christopher Nicholas Gubbels;Gilberto Alexi Rodr���Guez Arelis;Tiffany Timbers;Tristan Pinsonneault-Marotte,95,90.57894737,6.93829789,100.0,61.0,0,0,0,1,0.0,2,1,2,7,21,61
-UBCV,2020,W,DSCI,554,,OVERALL,Experimentation and Causal Inference,,95,90.57894737,6.93829789,100.0,61.0,0,0,0,1,0.0,2,1,2,7,21,61
-UBCV,2020,W,DSCI,561,,001,Regression I,Chao-Chun Liu;Gabriela Cohen Freue;Jie Xiang;Jordan Sicherman;Kyle Macdonald;Tomas Beuzen;Yulia Egorova,126,93.11904762,5.623674447,100.0,68.0,0,0,0,0,0,2,0.0,3,6,8,107
-UBCV,2020,W,DSCI,561,,OVERALL,Regression I,,126,93.11904762,5.623674447,100.0,68.0,0,0,0,0,0,2,0.0,3,6,8,107
-UBCV,2020,W,DSCI,562,,001,Regression II,Aaron Greenberg;Alireza Naderi;Gilberto Alexi Rodr���Guez Arelis;Hossameldin Ibrahim Said Mohammed;Katie Florko;Michael Gelbart;Rodolfo Lourenzutti,95,94.52631579,4.986880885,100.0,71.0,0,0,0,0,0,1,0.0,1,2,7,84
-UBCV,2020,W,DSCI,562,,OVERALL,Regression II,,95,94.52631579,4.986880885,100.0,71.0,0,0,0,0,0,1,0.0,1,2,7,84
-UBCV,2020,W,DSCI,563,,001,Unsupervised Learning,Aaron Berk;Ali Seyfi;Alireza Iranpour;Rodolfo Lourenzutti;Vaden Masrani;Varada Kolhatkar;Yinjia Huo,95,93.97894737,3.392667147,99.0,83.0,0,0,0,0,0,0,0,0,2,8,85
-UBCV,2020,W,DSCI,563,,002,Unsupervised Learning,Julian Brooke;Lei Song,31,84.80645161,8.870999022,98.0,63.0,0,0,0,1,2,0.0,2,2,6,5,13
-UBCV,2020,W,DSCI,563,,OVERALL,Unsupervised Learning,,126,91.72222222,6.578314543,99.0,63.0,0,0,0,1,2,0.0,2,2,8,13,98
-UBCV,2020,W,DSCI,571,,001,Supervised Learning I,Alireza Iranpour;Man Yeung Tai;Peter Henry Gysbers;Pranav Garg;Sean La;Tomas Beuzen;Varada Kolhatkar,127,90.33858268,5.643116994,98.0,60.0,0,0,0,1,0,0,3,3,8,24,88
-UBCV,2020,W,DSCI,571,,OVERALL,Supervised Learning I,,127,90.33858268,5.643116994,98.0,60.0,0,0,0,1,0,0,3,3,8,24,88
-UBCV,2020,W,DSCI,572,,001,Supervised Learning II,Aaron Berk;Ali Seyfi;Alireza Iranpour;Michael Gelbart;Peter Henry Gysbers;Tomas Beuzen;Tristan Pinsonneault-Marotte,95,90.92631579,4.293097144,100.0,74.0,0,0,0,0,0,0,1,1,6,16,71
-UBCV,2020,W,DSCI,572,,002,Supervised Learning II,Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan,31,91.41935484,4.129359866,97.0,80.0,0,0,0,0,0,0,0,0,3,3,25
-UBCV,2020,W,DSCI,572,,OVERALL,Supervised Learning II,,126,91.04761905,4.242371305,100.0,74.0,0,0,0,0,0,0,1,1,9,19,96
-UBCV,2020,W,DSCI,573,,001,Feature and Model Selection,Man Yeung Tai;Paul Ripoche;Siddhesh Khandelwal;Vaden Masrani;Varada Kolhatkar;Yinjia Huo,126,93.62698413,4.955375468,99.0,64.0,0,0,0,0,1,1,0.0,2,2,4,116
-UBCV,2020,W,DSCI,573,,OVERALL,Feature and Model Selection,,126,93.62698413,4.955375468,99.0,64.0,0,0,0,0,1,1,0.0,2,2,4,116
-UBCV,2020,W,DSCI,575,,001,Advanced Machine Learning,Aaron Berk;Alireza Naderi;Arjun Baghela;Vaden Masrani;Varada Kolhatkar,95,93.28421053,4.23175221,99.0,74.0,0,0,0,0,0,0,1,1,2,9,82
-UBCV,2020,W,DSCI,575,,OVERALL,Advanced Machine Learning,,95,93.28421053,4.23175221,99.0,74.0,0,0,0,0,0,0,1,1,2,9,82
+UBCV,2020,W,DSCI,552,,001,Statistical Inference and Computation I,Analise Hofmann;Jordan Bourak;Jordan Sicherman;Kyle Macdonald;Sophie Macdonald;Tiffany Timbers;Yulia Egorova,127,91.818897638,5.505289409,99.0,71.0,0,0,0,0,0,1,2,3,6,20,95
+UBCV,2020,W,DSCI,552,,OVERALL,Statistical Inference and Computation I,,127,91.818897638,5.505289409,99.0,71.0,0,0,0,0,0,1,2,3,6,20,95
+UBCV,2020,W,DSCI,553,,001,Statistical Inference and Computation II,Michael Gelbart;Paul Ripoche;Siddhesh Khandelwal;Trevor Campbell;Vaden Masrani;Yinjia Huo,95,87.610526316,7.009559941,97.0,60.0,0,0,0,1,3,0.0,2,4,8,35,42
+UBCV,2020,W,DSCI,553,,OVERALL,Statistical Inference and Computation II,,95,87.610526316,7.009559941,97.0,60.0,0,0,0,1,3,0.0,2,4,8,35,42
+UBCV,2020,W,DSCI,554,,001,Experimentation and Causal Inference,Aaron Greenberg;Alireza Naderi;Benjamin Bloem-Reddy;Christopher Nicholas Gubbels;Gilberto Alexi Rodr�Guez Arelis;Gilberto Alexi Rodr���Guez Arelis;Tiffany Timbers;Tristan Pinsonneault-Marotte,95,90.578947368,6.93829789,100.0,61.0,0,0,0,1,0.0,2,1,2,7,21,61
+UBCV,2020,W,DSCI,554,,OVERALL,Experimentation and Causal Inference,,95,90.578947368,6.93829789,100.0,61.0,0,0,0,1,0.0,2,1,2,7,21,61
+UBCV,2020,W,DSCI,561,,001,Regression I,Chao-Chun Liu;Gabriela Cohen Freue;Jie Xiang;Jordan Sicherman;Kyle Macdonald;Sophie Macdonald;Tomas Beuzen;Yulia Egorova,126,93.119047619,5.623674447,100.0,68.0,0,0,0,0,0,2,0.0,3,6,8,107
+UBCV,2020,W,DSCI,561,,OVERALL,Regression I,,126,93.119047619,5.623674447,100.0,68.0,0,0,0,0,0,2,0.0,3,6,8,107
+UBCV,2020,W,DSCI,562,,001,Regression II,Aaron Greenberg;Alireza Naderi;Gilberto Alexi Rodr�Guez Arelis;Gilberto Alexi Rodr���Guez Arelis;Hossameldin Ibrahim Said Mohammed;Katie Florko;Michael Gelbart;Rodolfo Lourenzutti,95,94.526315789,4.986880885,100.0,71.0,0,0,0,0,0,1,0.0,1,2,7,84
+UBCV,2020,W,DSCI,562,,OVERALL,Regression II,,95,94.526315789,4.986880885,100.0,71.0,0,0,0,0,0,1,0.0,1,2,7,84
+UBCV,2020,W,DSCI,563,,001,Unsupervised Learning,Aaron Berk;Ali Seyfi;Alireza Iranpour;Rodolfo Lourenzutti;Vaden Masrani;Varada Kolhatkar;Yinjia Huo,95,93.978947368,3.392667147,99.0,83.0,0,0,0,0,0,0,0,0,2,8,85
+UBCV,2020,W,DSCI,563,,002,Unsupervised Learning,Julian Brooke;Lei Song,31,84.806451613,8.870999022,98.0,63.0,0,0,0,1,2,0.0,2,2,6,5,13
+UBCV,2020,W,DSCI,563,,OVERALL,Unsupervised Learning,,126,91.722222222,6.578314543,99.0,63.0,0,0,0,1,2,0.0,2,2,8,13,98
+UBCV,2020,W,DSCI,571,,001,Supervised Learning I,Alireza Iranpour;Man Yeung Tai;Peter Henry Gysbers;Pranav Garg;Sean La;Tomas Beuzen;Varada Kolhatkar,127,90.338582677,5.643116994,98.0,60.0,0,0,0,1,0,0,3,3,8,24,88
+UBCV,2020,W,DSCI,571,,OVERALL,Supervised Learning I,,127,90.338582677,5.643116994,98.0,60.0,0,0,0,1,0,0,3,3,8,24,88
+UBCV,2020,W,DSCI,572,,001,Supervised Learning II,Aaron Berk;Ali Seyfi;Alireza Iranpour;Michael Gelbart;Peter Henry Gysbers;Tomas Beuzen;Tristan Pinsonneault-Marotte,95,90.926315789,4.293097144,100.0,74.0,0,0,0,0,0,0,1,1,6,16,71
+UBCV,2020,W,DSCI,572,,002,Supervised Learning II,Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan,31,91.419354839,4.129359866,97.0,80.0,0,0,0,0,0,0,0,0,3,3,25
+UBCV,2020,W,DSCI,572,,OVERALL,Supervised Learning II,,126,91.047619048,4.242371305,100.0,74.0,0,0,0,0,0,0,1,1,9,19,96
+UBCV,2020,W,DSCI,573,,001,Feature and Model Selection,Man Yeung Tai;Paul Ripoche;Siddhesh Khandelwal;Vaden Masrani;Varada Kolhatkar;Yinjia Huo,126,91.746031746,5.247378786,99.0,70.0,0,0,0,0,0,2,1,2,4,23,94
+UBCV,2020,W,DSCI,573,,OVERALL,Feature and Model Selection,,126,91.746031746,5.247378786,99.0,70.0,0,0,0,0,0,2,1,2,4,23,94
+UBCV,2020,W,DSCI,574,,001,Spatial and Temporal Models,Afshin Amini;Alireza Iranpour;Natalia Nolde;Siddhesh Khandelwal;Tomas Beuzen;Yinjia Huo,95,94.757894737,3.628245545,100.0,77.0,0,0,0,0,0,0,0,1,1,6,87
+UBCV,2020,W,DSCI,574,,OVERALL,Spatial and Temporal Models,,95,94.757894737,3.628245545,100.0,77.0,0,0,0,0,0,0,0,1,1,6,87
+UBCV,2020,W,DSCI,575,,001,Advanced Machine Learning,Aaron Berk;Alireza Naderi;Arjun Baghela;Vaden Masrani;Varada Kolhatkar,95,93.284210526,4.23175221,99.0,74.0,0,0,0,0,0,0,1,1,2,9,82
+UBCV,2020,W,DSCI,575,,OVERALL,Advanced Machine Learning,,95,93.284210526,4.23175221,99.0,74.0,0,0,0,0,0,0,1,1,2,9,82
+UBCV,2020,W,DSCI,591,,001,Capstone Project,Gilberto Alexi Rodr�Guez Arelis;Gilberto Alexi Rodr���Guez Arelis;Gittu George;Joel Ostblom;Michael Gelbart;Rodolfo Lourenzutti;Simon Goring;Tiffany Timbers;Tomas Beuzen;Varada Kolhatkar;Vincenzo Coia,95,92.326315789,4.243749108,97.0,72.0,0,0,0,0,0,0,2,0.0,4,6,83
+UBCV,2020,W,DSCI,591,,OVERALL,Capstone Project,,95,92.326315789,4.243749108,97.0,72.0,0,0,0,0,0,0,2,0.0,4,6,83

@@ -1,0 +1,31 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,S,COSC,101,,001,Digital Citizenship,Jinghong Chen;Oluwayemisi Ogungbemi;Ramin Shahbazi;Vsevolod Lynov,80,83.05,11.610667291,98.0,15.0,1,0.0,1,3.0,2.0,1,5,9,15.0,21,22
+UBCO,2021,S,COSC,101,,OVERALL,Digital Citizenship,,80,83.05,11.610667291,98.0,15.0,1,0.0,1,3.0,2.0,1,5,9,15.0,21,22
+UBCO,2021,S,COSC,111,,001,Computer Programming I,Devon Macneil;Mohamad Khajezade;Oluwayemisi Ogungbemi;Reece Walsh;Vsevolod Lynov,112,76.892857143,14.204654194,99.0,15.0,5,0.0,4,3.0,11.0,11,10,15,13.0,24,16
+UBCO,2021,S,COSC,111,,OVERALL,Computer Programming I,,112,76.892857143,14.204654194,99.0,15.0,5,0.0,4,3.0,11.0,11,10,15,13.0,24,16
+UBCO,2021,S,COSC,121,,101,Computer Programming II,Akshat Poddar;Billy Spelchan;Jeff Bulmer;Ken Chidlow;Oluwayemisi Ogungbemi;Pinku Nath;Sherif Elbishlawi,109,76.504587156,13.242484838,95.0,13.0,5,2.0,2,6.0,2.0,13,11,16,18.0,17,17
+UBCO,2021,S,COSC,121,,OVERALL,Computer Programming II,,109,76.504587156,13.242484838,95.0,13.0,5,2.0,2,6.0,2.0,13,11,16,18.0,17,17
+UBCO,2021,S,COSC,122,,001,Computer Fluency,Haneen Abu-Hijleh;Kathryn Ng;Vsevolod Lynov,46,84.456521739,12.183242629,100.0,54.0,0,1.0,1,0.0,4.0,3,3,3,2.0,8,21
+UBCO,2021,S,COSC,122,,OVERALL,Computer Fluency,,46,84.456521739,12.183242629,100.0,54.0,0,1.0,1,0.0,4.0,3,3,3,2.0,8,21
+UBCO,2021,S,COSC,211,,001,Machine Architecture,Rishab Sharma;Tenzin Jinpa;Vladimir Grebenyuk,28,77.785714286,13.971815924,99.0,35.0,1,0.0,1,2.0,3.0,2,1,3,4.0,5,6
+UBCO,2021,S,COSC,211,,OVERALL,Machine Architecture,,28,77.785714286,13.971815924,99.0,35.0,1,0.0,1,2.0,3.0,2,1,3,4.0,5,6
+UBCO,2021,S,COSC,221,,101,Introduction to Discrete Structures,Jeewon Yoo;Jinghong Chen;Tenzin Jinpa,57,84.403508772,9.69510121,99.0,62.0,0,0.0,0,1.0,2.0,3,3,11,8.0,12,17
+UBCO,2021,S,COSC,221,,OVERALL,Introduction to Discrete Structures,,57,84.403508772,9.69510121,99.0,62.0,0,0.0,0,1.0,2.0,3,3,11,8.0,12,17
+UBCO,2021,S,COSC,222,,001,Data Structures,Ken Chidlow;Nusrat Momo;Pradeep Mahato;Seyyed Hosseini,49,86.734693878,8.521481459,100.0,60.0,0,0.0,0,1.0,1.0,1,1,6,7.0,11,21
+UBCO,2021,S,COSC,222,,OVERALL,Data Structures,,49,86.734693878,8.521481459,100.0,60.0,0,0.0,0,1.0,1.0,1,1,6,7.0,11,21
+UBCO,2021,S,COSC,301,,001,Introduction to Data Analytics,Firas Moosvi;Khandoker Md Ayman;Mohamad Khajezade;Nusrat Momo;Pradeep Mahato,67,81.820895522,17.296807704,98.0,12.0,4,0.0,1,2.0,2.0,3,3,5,9.0,9,29
+UBCO,2021,S,COSC,301,,OVERALL,Introduction to Data Analytics,,67,81.820895522,17.296807704,98.0,12.0,4,0.0,1,2.0,2.0,3,3,5,9.0,9,29
+UBCO,2021,S,COSC,304,,101,Introduction to Databases,Devon Macneil;Ramon Lawrence;Tenzin Jinpa;Yiming Ding;Youry Khmelevsky,44,75.681818182,14.082436244,97.0,27.0,3,0.0,2,0.0,1.0,8,9,1,10.0,4,6
+UBCO,2021,S,COSC,304,,OVERALL,Introduction to Databases,,44,75.681818182,14.082436244,97.0,27.0,3,0.0,2,0.0,1.0,8,9,1,10.0,4,6
+UBCO,2021,S,COSC,320,,101,Analysis of Algorithms,Roozbeh Eslami;Seyyed Hosseini,17,71.823529412,18.15638763,97.0,36.0,2,0.0,4,0.0,0.0,2,0,1,3.0,1,4
+UBCO,2021,S,COSC,320,,OVERALL,Analysis of Algorithms,,17,71.823529412,18.15638763,97.0,36.0,2,0.0,4,0.0,0.0,2,0,1,3.0,1,4
+UBCO,2021,S,COSC,322,,001,Introduction to Artificial Intelligence,Billy Spelchan;Congsong Zhang,28,80.785714286,9.35852609,96.0,62.0,0,0.0,0,1.0,1.0,2,4,6,5.0,3,6
+UBCO,2021,S,COSC,322,,OVERALL,Introduction to Artificial Intelligence,,28,80.785714286,9.35852609,96.0,62.0,0,0.0,0,1.0,1.0,2,4,6,5.0,3,6
+UBCO,2021,S,COSC,360,,001,Web Programming,Khandoker Md Ayman;Mohamed Abdelpakey;Sherif Elbishlawi,29,85.655172414,7.929492247,94.0,62.0,0,0.0,0,1.0,0.0,1,2,1,5.0,6,13
+UBCO,2021,S,COSC,360,,OVERALL,Web Programming,,29,85.655172414,7.929492247,94.0,62.0,0,0.0,0,1.0,0.0,1,2,1,5.0,6,13
+UBCO,2021,S,COSC,405,,101,Modelling and Simulation,Aashish Raizada;Yas Yamin;Yasfatemeh Yamin,7,83.0,4.203173404,89.0,78.0,0,0.0,0,0.0,0.0,0,0,1,4.0,2,0
+UBCO,2021,S,COSC,405,,OVERALL,Modelling and Simulation,,7,83.0,4.203173404,89.0,78.0,0,0.0,0,0.0,0.0,0,0,1,4.0,2,0
+UBCO,2021,S,COSC,445,,001,Computer Vision,Islam Osman;Mohamed Shehata,13,77.538461538,10.516775366,93.0,60.0,0,0.0,0,2.0,0.0,1,2,2,2.0,2,2
+UBCO,2021,S,COSC,445,,OVERALL,Computer Vision,,13,77.538461538,10.516775366,93.0,60.0,0,0.0,0,2.0,0.0,1,2,2,2.0,2,2
+UBCO,2021,S,COSC,499,,201,Capstone Software Engineering Project,Mandeep Pannu,39,93.538461538,4.512241559,100.0,79.0,0,0.0,0,0.0,0.0,0,0,1,0.0,4,34
+UBCO,2021,S,COSC,499,,OVERALL,Capstone Software Engineering Project,,39,93.538461538,4.512241559,100.0,79.0,0,0.0,0,0.0,0.0,0,0,1,0.0,4,34

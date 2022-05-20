@@ -1,0 +1,61 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,W,DATA,101,,101,Making Predictions with Data,Allan Cheboiwo;Andrew Ogilvy;Chunlei Ge;Dmytro Zhuravel;Islam Osman;Justin Schoenit;Ladan Tazik;Maryam Sadeghi;Nikolai Lesack;Shabnam Fani;Tenzin Kunkyab;Wanye Gao;Xiaoyu Mao;Zhilin Feng;Zhongda Huang;Ziyuan Wang,160,81.1875,16.017359883,100.0,0.0,9,2,0.0,5,2,8,13,8.0,26.0,34.0,53
+UBCO,2021,W,DATA,101,,OVERALL,Making Predictions with Data,,160,81.1875,16.017359883,100.0,0.0,9,2,0.0,5,2,8,13,8.0,26.0,34.0,53
+UBCO,2021,W,DATA,301,,101,Introduction to Data Analytics,Aanchal Kuckian;Devina Jaiswal;Emily Medema;Firas Moosvi;Prajeet Didden;Yohen Thounaojam,152,80.986842105,15.750953652,98.0,21.0,8,7,1.0,2,2,9,4,12.0,26.0,21.0,60
+UBCO,2021,W,DATA,301,,OVERALL,Introduction to Data Analytics,,152,80.986842105,15.750953652,98.0,21.0,8,7,1.0,2,2,9,4,12.0,26.0,21.0,60
+UBCO,2021,W,DATA,311,,101,Machine Learning,Irene Vrbik;Ladan Tazik;Mohamad Khajezade;Xiaoou Liu,80,73.875,20.140251906,100.0,0.0,6,7,4.0,2,4,6,8,7.0,10.0,8.0,18
+UBCO,2021,W,DATA,311,,OVERALL,Machine Learning,,80,73.875,20.140251906,100.0,0.0,6,7,4.0,2,4,6,8,7.0,10.0,8.0,18
+UBCO,2021,W,DATA,315,,101,Applied Time Series and Forecasting,Ladan Tazik;Lengyi Han,28,76.5,23.032183602,98.0,0.0,3,2,0.0,0,2,1,1,1.0,6.0,3.0,9
+UBCO,2021,W,DATA,315,,OVERALL,Applied Time Series and Forecasting,,28,76.5,23.032183602,98.0,0.0,3,2,0.0,0,2,1,1,1.0,6.0,3.0,9
+UBCO,2021,W,DATA,405,,001,Modelling and Simulation,Ladan Tazik;Yas Yamin;Yasfatemeh Yamin,8,81.875,31.669893319,100.0,5.0,1,0,0.0,0,0,0,0,0.0,1.0,1.0,5
+UBCO,2021,W,DATA,405,,OVERALL,Modelling and Simulation,,8,81.875,31.669893319,100.0,5.0,1,0,0.0,0,0,0,0,0.0,1.0,1.0,5
+UBCO,2021,W,DATA,407,,101,Sampling and Design,Mojtaba Pasha;Paramjit Gill,20,67.7,15.898030331,91.0,30.0,2,1,2.0,2,3,1,2,1.0,2.0,3.0,1
+UBCO,2021,W,DATA,407,,OVERALL,Sampling and Design,,20,67.7,15.898030331,91.0,30.0,2,1,2.0,2,3,1,2,1.0,2.0,3.0,1
+UBCO,2021,W,DATA,410,,101,Regression and Generalized Linear Models,John Thompson;Shabnam Fani,14,66.5,24.728526038,90.0,0.0,2,0,2.0,0,1,1,1,2.0,2.0,2.0,1
+UBCO,2021,W,DATA,410,,OVERALL,Regression and Generalized Linear Models,,14,66.5,24.728526038,90.0,0.0,2,0,2.0,0,1,1,1,2.0,2.0,2.0,1
+UBCO,2021,W,DATA,421,,101,Network Science,Ethan (Hong-Jiang) Sim;Paramjit Gill;Roozbeh Eslami,26,78.961538462,10.405693708,91.0,52.0,0,2,0.0,0,1,1,0,7.0,6.0,4.0,5
+UBCO,2021,W,DATA,421,,OVERALL,Network Science,,26,78.961538462,10.405693708,91.0,52.0,0,2,0.0,0,1,1,0,7.0,6.0,4.0,5
+UBCO,2021,W,DATA,530,,001,Computing Platforms for Data Science,Corey Bond;Firas Moosvi,31,96.806451613,3.124306375,100.0,86.0,0,0,0.0,0,0,0,0,0.0,0.0,2.0,29
+UBCO,2021,W,DATA,530,,OVERALL,Computing Platforms for Data Science,,31,96.806451613,3.124306375,100.0,86.0,0,0,0.0,0,0,0,0,0.0,0.0,2.0,29
+UBCO,2021,W,DATA,531,,001,Programming for Data Science,Firas Moosvi;Yiming Ding,31,97.516129032,3.433860488,100.0,86.0,0,0,0.0,0,0,0,0,0.0,0.0,1.0,30
+UBCO,2021,W,DATA,531,,OVERALL,Programming for Data Science,,31,97.516129032,3.433860488,100.0,86.0,0,0,0.0,0,0,0,0,0.0,0.0,1.0,30
+UBCO,2021,W,DATA,532,,001,Algorithms and Data Structure,A.K.M Amanat Ullah;Mohamed Abdelpakey;Mohamed Shehata;Yiming Ding,31,95.580645161,4.372445491,100.0,83.0,0,0,0.0,0,0,0,0,0.0,2.0,1.0,28
+UBCO,2021,W,DATA,532,,OVERALL,Algorithms and Data Structure,,31,95.580645161,4.372445491,100.0,83.0,0,0,0.0,0,0,0,0,0.0,2.0,1.0,28
+UBCO,2021,W,DATA,533,,101,Collaborative Software Development,A.K.M Amanat Ullah;Corey Bond;Mohammad Khalad Hasan,31,92.451612903,5.012243075,99.0,75.0,0,0,0.0,0,0,0,1,0.0,1.0,4.0,25
+UBCO,2021,W,DATA,533,,OVERALL,Collaborative Software Development,,31,92.451612903,5.012243075,99.0,75.0,0,0,0.0,0,0,0,1,0.0,1.0,4.0,25
+UBCO,2021,W,DATA,534,,101,Web and Cloud Computing,Corey Bond;Yves Lucet,30,95.2,3.315584933,100.0,87.0,0,0,0.0,0,0,0,0,0.0,0.0,2.0,28
+UBCO,2021,W,DATA,534,,OVERALL,Web and Cloud Computing,,30,95.2,3.315584933,100.0,87.0,0,0,0.0,0,0,0,0,0.0,0.0,2.0,28
+UBCO,2021,W,DATA,540,,001,Databases and Data Retrieval,A.K.M Amanat Ullah;Firas Moosvi;Yiming Ding,31,94.64516129,3.3120828,98.0,87.0,0,0,0.0,0,0,0,0,0.0,0.0,2.0,29
+UBCO,2021,W,DATA,540,,OVERALL,Databases and Data Retrieval,,31,94.64516129,3.3120828,98.0,87.0,0,0,0.0,0,0,0,0,0.0,0.0,2.0,29
+UBCO,2021,W,DATA,541,,001,Scripting and Reporting,A.K.M Amanat Ullah;Mohammad Khalad Hasan,31,93.709677419,4.927430354,100.0,78.0,0,0,0.0,0,0,0,0,1.0,1.0,1.0,28
+UBCO,2021,W,DATA,541,,OVERALL,Scripting and Reporting,,31,93.709677419,4.927430354,100.0,78.0,0,0,0.0,0,0,0,0,1.0,1.0,1.0,28
+UBCO,2021,W,DATA,542,,101,Data Wrangling,A.K.M Amanat Ullah;Fatemeh Hendijani Fard;Firas Moosvi;Shabnam Fani;Yiming Ding,30,98.733333333,1.680175141,100.0,94.0,0,0,0.0,0,0,0,0,0.0,0.0,0.0,30
+UBCO,2021,W,DATA,542,,OVERALL,Data Wrangling,,30,98.733333333,1.680175141,100.0,94.0,0,0,0.0,0,0,0,0,0.0,0.0,0.0,30
+UBCO,2021,W,DATA,543,,001,Data Collection,Jeffrey Andrews;Mojtaba Pasha;Rachel Lobay;Shabnam Fani,31,88.612903226,7.931697672,99.0,72.0,0,0,0.0,0,0,0,3,3.0,3.0,5.0,17
+UBCO,2021,W,DATA,543,,OVERALL,Data Collection,,31,88.612903226,7.931697672,99.0,72.0,0,0,0.0,0,0,0,3,3.0,3.0,5.0,17
+UBCO,2021,W,DATA,550,,001,Dataviz I,A.K.M Amanat Ullah;Firas Moosvi,30,99.133333333,0.681445387,100.0,98.0,0,0,0.0,0,0,0,0,0.0,0.0,0.0,30
+UBCO,2021,W,DATA,550,,OVERALL,Dataviz I,,30,99.133333333,0.681445387,100.0,98.0,0,0,0.0,0,0,0,0,0.0,0.0,0.0,30
+UBCO,2021,W,DATA,551,,101,Dataviz II,A.K.M Amanat Ullah;Firas Moosvi,30,96.9,2.904811704,100.0,91.0,0,0,0.0,0,0,0,0,0.0,0.0,0.0,30
+UBCO,2021,W,DATA,551,,OVERALL,Dataviz II,,30,96.9,2.904811704,100.0,91.0,0,0,0.0,0,0,0,0,0.0,0.0,0.0,30
+UBCO,2021,W,DATA,552,,001,Communication and Argumentation,Corey Bond;Firas Moosvi;Jeffrey Andrews,30,95.233333333,2.725148947,100.0,86.0,0,0,0.0,0,0,0,0,0.0,0.0,1.0,29
+UBCO,2021,W,DATA,552,,OVERALL,Communication and Argumentation,,30,95.233333333,2.725148947,100.0,86.0,0,0,0.0,0,0,0,0,0.0,0.0,1.0,29
+UBCO,2021,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Corey Bond;Patricia Lasserre,31,89.64516129,3.469374459,96.0,83.0,0,0,0.0,0,0,0,0,0.0,1.0,16.0,14
+UBCO,2021,W,DATA,553,,OVERALL,"Privacy, Security and Professional Ethics",,31,89.64516129,3.469374459,96.0,83.0,0,0,0.0,0,0,0,0,0.0,1.0,16.0,14
+UBCO,2021,W,DATA,570,,001,Predictive Modelling,Jeffrey Andrews;Mojtaba Pasha,31,88.741935484,6.928048027,99.0,69.0,0,0,0.0,0,0,2,0,0.0,4.0,10.0,15
+UBCO,2021,W,DATA,570,,OVERALL,Predictive Modelling,,31,88.741935484,6.928048027,99.0,69.0,0,0,0.0,0,0,2,0,0.0,4.0,10.0,15
+UBCO,2021,W,DATA,571,,101,Resampling and Regularization,Jeffrey Andrews;Yiming Ding,31,96.0,3.855731664,100.0,84.0,0,0,0.0,0,0,0,0,0.0,1.0,1.0,29
+UBCO,2021,W,DATA,571,,OVERALL,Resampling and Regularization,,31,96.0,3.855731664,100.0,84.0,0,0,0.0,0,0,0,0,0.0,1.0,1.0,29
+UBCO,2021,W,DATA,572,,001,Supervised Learning,Jeffrey Andrews;Shambhavi Singh,30,95.233333333,4.613946873,100.0,81.0,0,0,0.0,0,0,0,0,0.0,2.0,1.0,27
+UBCO,2021,W,DATA,572,,OVERALL,Supervised Learning,,30,95.233333333,4.613946873,100.0,81.0,0,0,0.0,0,0,0,0,0.0,2.0,1.0,27
+UBCO,2021,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Jeffrey Andrews;Shambhavi Singh,30,96.433333333,3.024991688,100.0,84.0,0,0,0.0,0,0,0,0,0.0,1.0,0.0,29
+UBCO,2021,W,DATA,573,,OVERALL,Unsupervised and Semi-supervised Learning,,30,96.433333333,3.024991688,100.0,84.0,0,0,0.0,0,0,0,0,0.0,1.0,0.0,29
+UBCO,2021,W,DATA,580,,001,Modelling and Simulation I,Mojtaba Pasha;Shabnam Fani,31,93.612903226,5.161895126,100.0,82.0,0,0,0.0,0,0,0,0,0.0,2.0,5.0,24
+UBCO,2021,W,DATA,580,,OVERALL,Modelling and Simulation I,,31,93.612903226,5.161895126,100.0,82.0,0,0,0.0,0,0,0,0,0.0,2.0,5.0,24
+UBCO,2021,W,DATA,581,,101,Modelling and Simulation II,Corey Bond;Shabnam Fani,31,93.193548387,5.17957112,100.0,78.0,0,0,0.0,0,0,0,0,1.0,1.0,3.0,26
+UBCO,2021,W,DATA,581,,OVERALL,Modelling and Simulation II,,31,93.193548387,5.17957112,100.0,78.0,0,0,0.0,0,0,0,0,1.0,1.0,3.0,26
+UBCO,2021,W,DATA,583,,101,Advanced Predictive Modelling,Debangsha Sarkar;John Braun;Shabnam Fani,30,93.733333333,3.571277501,98.0,84.0,0,0,0.0,0,0,0,0,0.0,1.0,2.0,27
+UBCO,2021,W,DATA,583,,OVERALL,Advanced Predictive Modelling,,30,93.733333333,3.571277501,98.0,84.0,0,0,0.0,0,0,0,0,0.0,1.0,2.0,27
+UBCO,2021,W,DATA,585,,101,Optimization,Heinz Bauschke;Shambhavi Singh,30,98.0,5.63853735,100.0,69.0,0,0,0.0,0,0,1,0,0.0,0.0,0.0,29
+UBCO,2021,W,DATA,585,,OVERALL,Optimization,,30,98.0,5.63853735,100.0,69.0,0,0,0.0,0,0,1,0,0.0,0.0,0.0,29
+UBCO,2021,W,DATA,589,,101,Special Topic,Corey Bond;Mohammad Khalad Hasan,30,90.7,6.550335606,97.0,71.0,0,0,0.0,0,0,1,1,2.0,0.0,3.0,23
+UBCO,2021,W,DATA,589,,OVERALL,Special Topic,,30,90.7,6.550335606,97.0,71.0,0,0,0.0,0,0,1,1,2.0,0.0,3.0,23

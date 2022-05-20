@@ -1,0 +1,67 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,MICB,201,,101,Introductory Environmental Microbiology,Evelyn Sun;Jennifer Sibley;Logan Robeck;Sean Crowe;Tracy Kion;Wade Bingle,201,83.805970149,8.990392882,96.0,32.0,3,0.0,1.0,1,2.0,5,18,18,37,63,53
+UBCV,2021,W,MICB,201,,201,Introductory Environmental Microbiology,Evelyn Sun;Jennifer Sibley;Tracy Kion;Wade Bingle;Yang Liu,240,86.8625,8.094231248,98.0,23.0,1,0.0,3.0,1,1.0,2,7,13,45,60,107
+UBCV,2021,W,MICB,201,,OVERALL,Introductory Environmental Microbiology,,441,85.469387755,8.640001675,98.0,23.0,4,0.0,4.0,2,3.0,7,25,31,82,123,160
+UBCV,2021,W,MICB,202,,101,Introductory Medical Microbiology and Immunology,Elitza Tocheva;Erin Gaynor;Katherine Donald;Lisa Osborne;Tracy Kion;Virginia Pichler,308,75.295454545,13.3072087,96.0,23.0,10,12.0,17.0,19,22.0,27,27,37,48,48,41
+UBCV,2021,W,MICB,202,,203,Introductory Medical Microbiology and Immunology,Erin Gaynor;Jennifer Sibley;Katherine Donald;Miguel Mejias Cordero;Tracy Kion,279,77.752688172,14.882505722,97.0,0.0,13,4.0,7.0,12,14.0,16,26,30,54,55,48
+UBCV,2021,W,MICB,202,,OVERALL,Introductory Medical Microbiology and Immunology,,587,76.463373083,14.119308937,97.0,0.0,23,16.0,24.0,31,36.0,43,53,67,102,103,89
+UBCV,2021,W,MICB,203,,101,Basic Microbiology Laboratory,Karen Smith;Laura Daniela Morales Duran;Someshwar Latchman;Tracy Kion,16,84.875,7.237633131,97.0,68.0,0,0.0,0.0,0,0.0,2,0,0,4,7,3
+UBCV,2021,W,MICB,203,,OVERALL,Basic Microbiology Laboratory,,16,84.875,7.237633131,97.0,68.0,0,0.0,0.0,0,0.0,2,0,0,4,7,3
+UBCV,2021,W,MICB,301,,101,Microbial Ecophysiology,Gara Dexter;Lindsay Eltis;Spencer Cholak;William Mohn,121,75.297520661,14.586320434,96.0,14.0,7,2.0,6.0,2,7.0,7,14,18,29,20,9
+UBCV,2021,W,MICB,301,,OVERALL,Microbial Ecophysiology,,121,75.297520661,14.586320434,96.0,14.0,7,2.0,6.0,2,7.0,7,14,18,29,20,9
+UBCV,2021,W,MICB,302,,101,Immunology,Abhishek Bedi;Brynn Mcmillan;Erin Goldberg;Tracy Kion,208,78.293269231,12.627535012,99.0,18.0,7,1.0,5.0,7,8.0,16,26,17,44,55,22
+UBCV,2021,W,MICB,302,,OVERALL,Immunology,,208,78.293269231,12.627535012,99.0,18.0,7,1.0,5.0,7,8.0,16,26,17,44,55,22
+UBCV,2021,W,MICB,306,,101,Molecular Virology,Francois Jean;Joshua De Guzman;Marcia Graves;Sarah Popple;Virginie Jean Baptiste;William Stubbs,180,78.327777778,13.469531334,95.0,0.0,7,4.0,3.0,8,3.0,7,15,21,37,47,28
+UBCV,2021,W,MICB,306,,OVERALL,Molecular Virology,,180,78.327777778,13.469531334,95.0,0.0,7,4.0,3.0,8,3.0,7,15,21,37,47,28
+UBCV,2021,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Amita Mahey;Antonio Serapio Palacios;David Oliver;Rachel Fernandez;Siyu Song,111,75.207207207,15.428496137,96.0,28.0,8,4.0,5.0,4,6.0,7,6,15,24,18,14
+UBCV,2021,W,MICB,308,,OVERALL,Paradigms in Bacterial Pathogenesis,,111,75.207207207,15.428496137,96.0,28.0,8,4.0,5.0,4,6.0,7,6,15,24,18,14
+UBCV,2021,W,MICB,322,,101,Molecular Microbiology Laboratory,Djihane Damoo;Jennifer Dechka;Jennifer Sibley;Karen Smith;Leah Rankine-Wilson;Spencer Cholak,84,84.261904762,5.822927363,93.0,62.0,0,0.0,0.0,1,0.0,2,7,2,24,33,15
+UBCV,2021,W,MICB,322,,OVERALL,Molecular Microbiology Laboratory,,84,84.261904762,5.822927363,93.0,62.0,0,0.0,0.0,1,0.0,2,7,2,24,33,15
+UBCV,2021,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Chad Poloni;Colton Strong;Marcia Graves;Virginie Jean Baptiste;Xianya Qu,80,83.3125,10.520135907,93.0,10.0,1,0.0,1.0,2,0.0,1,4,2,15,46,8
+UBCV,2021,W,MICB,323,,OVERALL,Molecular Immunology and Virology Laboratory,,80,83.3125,10.520135907,93.0,10.0,1,0.0,1.0,2,0.0,1,4,2,15,46,8
+UBCV,2021,W,MICB,325,,201,Analysis of Microbial Genes and Genomes,Bhavjinder Dhillon;Cara Haney;Lindsay Eltis;Nicholas Gauthier;Robert E Hancock,111,78.126126126,12.529323509,93.0,0.0,3,1.0,1.0,2,5.0,8,13,14,30,27,7
+UBCV,2021,W,MICB,325,,OVERALL,Analysis of Microbial Genes and Genomes,,111,78.126126126,12.529323509,93.0,0.0,3,1.0,1.0,2,5.0,8,13,14,30,27,7
+UBCV,2021,W,MICB,353,,201,Food Microbiology Laboratory,Avril Metcalfe-Roach;Karen Smith;Tracy Kion,26,87.692307692,3.449860644,94.0,81.0,0,0.0,0.0,0,0.0,0,0,0,4,14,8
+UBCV,2021,W,MICB,353,,OVERALL,Food Microbiology Laboratory,,26,87.692307692,3.449860644,94.0,81.0,0,0.0,0.0,0,0.0,0,0,0,4,14,8
+UBCV,2021,W,MICB,401,,101,Environmental Microbiology Laboratory,Braydon Black;Cara Haney;Daniela Yanez Ortuno;David Oliver;Marcia Graves;Tracy Kion;Wade Bingle,44,92.0,3.797183779,97.0,80.0,0,0.0,0.0,0,0.0,0,0,0,1,7,36
+UBCV,2021,W,MICB,401,,201,Environmental Microbiology Laboratory,Aditi Nagaraj Nallan;Ameena Hashimi;David Oliver;Evelyn Sun;Gara Dexter;Marcia Graves;Tracy Kion;Wade Bingle,50,94.52,2.443149523,99.0,90.0,0,0.0,0.0,0,0.0,0,0,0,0,0,50
+UBCV,2021,W,MICB,401,,OVERALL,Environmental Microbiology Laboratory,,94,93.340425532,3.377831561,99.0,80.0,0,0.0,0.0,0,0.0,0,0,0,1,7,86
+UBCV,2021,W,MICB,402,,101,Advanced Immunology,Chad Poloni;Kenneth Harder;Manish Sadarangani;Megan Levings,56,81.839285714,10.498098158,99.0,57.0,0,0.0,3.0,1,2.0,3,5,6,11,7,18
+UBCV,2021,W,MICB,402,,OVERALL,Advanced Immunology,,56,81.839285714,10.498098158,99.0,57.0,0,0.0,3.0,1,2.0,3,5,6,11,7,18
+UBCV,2021,W,MICB,404,,201,Topics in Molecular Bacterial Pathogenesis,Robert E Hancock,11,90.636363636,4.105428778,97.0,85.0,0,0.0,0.0,0,0.0,0,0,0,0,5,6
+UBCV,2021,W,MICB,404,,OVERALL,Topics in Molecular Bacterial Pathogenesis,,11,90.636363636,4.105428778,97.0,85.0,0,0.0,0.0,0,0.0,0,0,0,0,5,6
+UBCV,2021,W,MICB,405,,101,Bioinformatics,Axel Hauduc;Martin Hirst;Stephan Koenig;Steven Hallam,53,79.188679245,11.660348002,93.0,21.0,1,1.0,0.0,1,1.0,4,7,8,6,21,3
+UBCV,2021,W,MICB,405,,OVERALL,Bioinformatics,,53,79.188679245,11.660348002,93.0,21.0,1,1.0,0.0,1,1.0,4,7,8,6,21,3
+UBCV,2021,W,MICB,406,,201,Topics in Molecular Virology,Francois Jean;Marc Horwitz,27,93.62962963,2.603963667,98.0,90.0,0,0.0,0.0,0,0.0,0,0,0,0,0,27
+UBCV,2021,W,MICB,406,,OVERALL,Topics in Molecular Virology,,27,93.62962963,2.603963667,98.0,90.0,0,0.0,0.0,0,0.0,0,0,0,0,0,27
+UBCV,2021,W,MICB,407,,101,Viral Infections in Humans.,Agata Jassem;Hassan Ali;Isobel Mouat;Marc Horwitz,32,89.3125,3.156534441,94.0,81.0,0,0.0,0.0,0,0.0,0,0,0,3,8,21
+UBCV,2021,W,MICB,407,,OVERALL,Viral Infections in Humans.,,32,89.3125,3.156534441,94.0,81.0,0,0.0,0.0,0,0.0,0,0,0,3,8,21
+UBCV,2021,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Djihane Damoo;Elitza Tocheva;Evelyn Sun;Polina Beskrovnaya,34,85.147058824,4.729868683,95.0,74.0,0,0.0,0.0,0,0.0,0,1,1,14,12,6
+UBCV,2021,W,MICB,408,,OVERALL,Advanced Bacterial Pathogenesis,,34,85.147058824,4.729868683,95.0,74.0,0,0.0,0.0,0,0.0,0,1,1,14,12,6
+UBCV,2021,W,MICB,412,,201,Topics in Immunological Research,Kelly Brown;Kenneth Harder;Michael Gold;Pauline Johnson,14,88.714285714,3.604027052,94.0,84.0,0,0.0,0.0,0,0.0,0,0,0,2,5,7
+UBCV,2021,W,MICB,412,,OVERALL,Topics in Immunological Research,,14,88.714285714,3.604027052,94.0,84.0,0,0.0,0.0,0,0.0,0,0,0,2,5,7
+UBCV,2021,W,MICB,413,,201,Topics in Microbiome Research,B Brett Finlay;Cara Haney;Carolina Tropini;Lisa Osborne,14,91.357142857,3.774553318,97.0,84.0,0,0.0,0.0,0,0.0,0,0,0,1,3,10
+UBCV,2021,W,MICB,413,,OVERALL,Topics in Microbiome Research,,14,91.357142857,3.774553318,97.0,84.0,0,0.0,0.0,0,0.0,0,0,0,1,3,10
+UBCV,2021,W,MICB,418,,201,Industrial Microbiology and Biotechnology,Brianne Newman;David Oliver;Jared Taylor,61,85.737704918,8.479193435,98.0,65.0,0,0.0,0.0,0,3.0,2,6,2,7,14,27
+UBCV,2021,W,MICB,418,,OVERALL,Industrial Microbiology and Biotechnology,,61,85.737704918,8.479193435,98.0,65.0,0,0.0,0.0,0,3.0,2,6,2,7,14,27
+UBCV,2021,W,MICB,421,,201,Experimental Microbiology,Aditi Nagaraj Nallan;Ameena Hashimi;David Oliver;Evelyn Sun;Gara Dexter;Marcia Graves;Tracy Kion,12,92.5,2.236067977,96.0,88.0,0,0.0,0.0,0,0.0,0,0,0,0,1,11
+UBCV,2021,W,MICB,421,,OVERALL,Experimental Microbiology,,12,92.5,2.236067977,96.0,88.0,0,0.0,0.0,0,0.0,0,0,0,0,1,11
+UBCV,2021,W,MICB,425,,201,Microbial Ecological Genomics,Connor Morgan-Lang;Steven Hallam;Xiangyu Liu,45,89.422222222,6.180941709,96.0,57.0,0,0.0,1.0,0,0.0,0,0,0,2,17,25
+UBCV,2021,W,MICB,425,,OVERALL,Microbial Ecological Genomics,,45,89.422222222,6.180941709,96.0,57.0,0,0.0,1.0,0,0.0,0,0,0,2,17,25
+UBCV,2021,W,MICB,430,A,101,Seminar in Microbiological Literature,Erin Gaynor;Jennifer Nguyen;Moritz Koch,17,90.705882353,4.05839725,95.0,81.0,0,0.0,0.0,0,0.0,0,0,0,2,1,14
+UBCV,2021,W,MICB,430,A,OVERALL,Seminar in Microbiological Literature,,17,90.705882353,4.05839725,95.0,81.0,0,0.0,0.0,0,0.0,0,0,0,2,1,14
+UBCV,2021,W,MICB,447,,101,Experimental Molecular Biology,David Oliver;Divya Kriti;Evelyn Sun;Stefanie Sternagel;Stephan Koenig;Steven Hallam;Zakhar Krekhno,42,89.428571429,5.988374335,95.0,74.0,0,0.0,0.0,0,0.0,0,2,2,5,5,28
+UBCV,2021,W,MICB,447,,201,Experimental Molecular Biology,Brynn Mcmillan;Divya Kriti;Emily Adamczyk;Evelyn Sun;Stephan Koenig;Zakhar Krekhno,44,88.522727273,4.727399779,95.0,75.0,0,0.0,0.0,0,0.0,0,1,4,1,18,20
+UBCV,2021,W,MICB,447,,OVERALL,Experimental Molecular Biology,,86,88.965116279,5.367544459,95.0,74.0,0,0.0,0.0,0,0.0,0,3,6,6,23,48
+UBCV,2021,W,MICB,448,C,001,Directed Research,Tracy Kion,12,91.916666667,4.420167281,97.0,83.0,0,0.0,0.0,0,0.0,0,0,0,1,2,9
+UBCV,2021,W,MICB,448,C,OVERALL,Directed Research,,12,91.916666667,4.420167281,97.0,83.0,0,0.0,0.0,0,0.0,0,0,0,1,2,9
+UBCV,2021,W,MICB,448,S,201,Directed Research,,10,96.6,1.646545205,99.0,94.0,0,0.0,0.0,0,0.0,0,0,0,0,0,10
+UBCV,2021,W,MICB,448,S,OVERALL,Directed Research,,10,96.6,1.646545205,99.0,94.0,0,0.0,0.0,0,0.0,0,0,0,0,0,10
+UBCV,2021,W,MICB,449,,001,Research Problem,Tracy Kion,7,92.285714286,2.751622898,96.0,88.0,0,0.0,0.0,0,0.0,0,0,0,0,1,6
+UBCV,2021,W,MICB,449,,OVERALL,Research Problem,,7,92.285714286,2.751622898,96.0,88.0,0,0.0,0.0,0,0.0,0,0,0,0,1,6
+UBCV,2021,W,MICB,502,,201,Advanced Immunogenetics,Laura Sly;Lisa Osborne;Michael Gold;Wilfred Arthur Jefferies,12,92.0,4.045199175,98.0,84.0,0,0.0,0.0,0,0.0,0,0,0,1,2,9
+UBCV,2021,W,MICB,502,,OVERALL,Advanced Immunogenetics,,12,92.0,4.045199175,98.0,84.0,0,0.0,0.0,0,0.0,0,0,0,1,2,9
+UBCV,2021,W,MICB,506,C,001,Microbiological and Immunological Research,Ninan Abraham;Pauline Johnson;Robert E Hancock,17,92.176470588,4.065637928,99.0,86.0,0,0.0,0.0,0,0.0,0,0,0,0,5,12
+UBCV,2021,W,MICB,506,C,OVERALL,Microbiological and Immunological Research,,17,92.176470588,4.065637928,99.0,86.0,0,0.0,0.0,0,0.0,0,0,0,0,5,12
+UBCV,2021,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;Stuart Turvey;Theodore Steiner;Yossef Av-Gay,11,94.909090909,1.445997611,97.0,93.0,0,0.0,0.0,0,0.0,0,0,0,0,0,11
+UBCV,2021,W,MICB,507,,OVERALL,Topics in Molecular Pathogenesis and Immunology,,11,94.909090909,1.445997611,97.0,93.0,0,0.0,0.0,0,0.0,0,0,0,0,0,11

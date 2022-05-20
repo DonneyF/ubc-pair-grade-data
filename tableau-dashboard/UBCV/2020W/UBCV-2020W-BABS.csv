@@ -1,10 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,BABS,506,,BA1,Analyzing and Modelling Uncertainty,Hao Zhang;Xinyuan Zhang;Yiwen Jin,77,86.02597403,7.121084383,97.0,61.0,0,0,0,1,1,0.0,4,6,17,20,28
-UBCV,2020,W,BABS,506,,OVERALL,Analyzing and Modelling Uncertainty,,77,86.02597403,7.121084383,97.0,61.0,0,0,0,1,1,0.0,4,6,17,20,28
-UBCV,2020,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Martha Essak;Zhuoya Wang,77,80.57142857,7.019575207,93.0,65.0,0,0,0,0,2,5.0,15,12,15,19,9
-UBCV,2020,W,BABS,507,,OVERALL,Descriptive and Predictive Business Analysis,,77,80.57142857,7.019575207,93.0,65.0,0,0,0,0,2,5.0,15,12,15,19,9
-UBCV,2020,W,BABS,550,,001,Application of Statistics in Management,Ahmar Adil;Gregory Werker,78,85.21794872,10.36433374,96.0,51.0,0,,,0,,5.0,4,2,6,23,34
-UBCV,2020,W,BABS,550,,002,Application of Statistics in Management,Ahmar Adil;Gregory Werker,32,86.6875,4.741290827,94.0,76.0,0,0,0,0,0,0.0,0,3,9,9,11
-UBCV,2020,W,BABS,550,,300,Application of Statistics in Management,Ahmar Adil;Gregory Werker;S Thomas Mccormick,53,87.9245283,6.724950834,97.0,63.0,0,0,0,1,0.0,1.0,2,1,6,16,26
-UBCV,2020,W,BABS,550,,MM1,Application of Statistics in Management,Jonathan Berkowitz,56,82.48214286,7.27384123,96.0,60.0,0,0,0,2,0.0,3.0,3,3,20,16,9
-UBCV,2020,W,BABS,550,,OVERALL,Application of Statistics in Management,,219,85.38812785,8.322625604,97.0,51.0,0,,,3,,9.0,9,9,41,64,80
+UBCV,2020,W,BABS,502,,BA1,Forecasting and Time Series Prediction,Hossameldin Ibrahim Said Mohammed;Martha Essak,75,84.666666667,5.771161608,94.0,68.0,0,0,0,0,0.0,2.0,4,10,12,32,15
+UBCV,2020,W,BABS,502,,OVERALL,Forecasting and Time Series Prediction,,75,84.666666667,5.771161608,94.0,68.0,0,0,0,0,0.0,2.0,4,10,12,32,15
+UBCV,2020,W,BABS,506,,BA1,Analyzing and Modelling Uncertainty,Hao Zhang;Xinyuan Zhang;Yiwen Jin,77,86.025974026,7.121084383,97.0,61.0,0,0,0,1,1.0,0.0,4,6,17,20,28
+UBCV,2020,W,BABS,506,,OVERALL,Analyzing and Modelling Uncertainty,,77,86.025974026,7.121084383,97.0,61.0,0,0,0,1,1.0,0.0,4,6,17,20,28
+UBCV,2020,W,BABS,507,,BA1,Descriptive and Predictive Business Analysis,Martha Essak;Zhuoya Wang,77,80.571428571,7.019575207,93.0,65.0,0,0,0,0,2.0,5.0,15,12,15,19,9
+UBCV,2020,W,BABS,507,,OVERALL,Descriptive and Predictive Business Analysis,,77,80.571428571,7.019575207,93.0,65.0,0,0,0,0,2.0,5.0,15,12,15,19,9
+UBCV,2020,W,BABS,508,,BA1,Advanced Predictive Business Analytics,Hossameldin Ibrahim Said Mohammed;Martha Essak,75,88.506666667,4.911028222,95.0,69.0,0,0,0,0,0.0,1.0,1,2,6,25,40
+UBCV,2020,W,BABS,508,,OVERALL,Advanced Predictive Business Analytics,,75,88.506666667,4.911028222,95.0,69.0,0,0,0,0,0.0,1.0,1,2,6,25,40
+UBCV,2020,W,BABS,550,,001,Application of Statistics in Management,Ahmar Adil;Gregory Werker,78,85.576923077,9.447763744,96.0,53.0,0,,,1,0.0,6.0,4,2,6,23,34
+UBCV,2020,W,BABS,550,,002,Application of Statistics in Management,Ahmar Adil;Gregory Werker,32,86.6875,4.741290827,94.0,76.0,0,0,0,0,0.0,0.0,0,3,9,9,11
+UBCV,2020,W,BABS,550,,300,Application of Statistics in Management,Ahmar Adil;Gregory Werker;S Thomas Mccormick,53,87.924528302,6.724950834,97.0,63.0,0,0,0,1,0.0,1.0,2,1,6,16,26
+UBCV,2020,W,BABS,550,,820,Application of Statistics in Management,Sha Liao;Talissa Eng;Yiwen Jin,33,80.212121212,7.967737978,95.0,60.0,0,0,0,1,1.0,1.0,5,7,10,3,5
+UBCV,2020,W,BABS,550,,MM1,Application of Statistics in Management,Jonathan Berkowitz,56,82.482142857,7.27384123,96.0,60.0,0,0,0,2,0.0,3.0,3,3,20,16,9
+UBCV,2020,W,BABS,550,,OVERALL,Application of Statistics in Management,,252,84.821428571,8.116915662,97.0,53.0,0,,,5,1.0,11.0,14,16,51,67,85

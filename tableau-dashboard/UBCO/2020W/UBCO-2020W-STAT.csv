@@ -1,16 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2020,W,STAT,121,,001,Elementary Statistics,Breanne Chui;Chunlei Ge;Gabriel Tan;James Fraser;Ladan Tazik;Marjan Yaghoubi;Maryam Sadeghi;Meng Tian;Muskaan Srivastava;Rachel Lobay,82,77.59756098,15.50138166,100.0,12.0,1,2,7,4,6,7,10,9,6,8.0,22
-UBCO,2020,W,STAT,121,,101,Elementary Statistics,Chunlei Ge;Geoff Goetz;Marjan Yaghoubi;Muskaan Srivastava;Rachel Lobay;Tenzin Jinpa,104,78.32692308,18.4624743,100.0,0.0,6,3,2,5,13,6,9,6,11,7.0,36
-UBCO,2020,W,STAT,121,,OVERALL,Elementary Statistics,,186,78.00537634,17.17902471,100.0,0.0,7,5,9,9,19,13,19,15,17,15.0,58
-UBCO,2020,W,STAT,124,,001,Business Statistics,Breanne Chui;Chunlei Ge;Gabriel Tan;Ladan Tazik;Marjan Yaghoubi;Maryam Sadeghi;Meng Tian;Muskaan Srivastava;Rachel Lobay,160,77.15,14.16177866,100.0,36.0,3,8,6,5,14,22,19,11,20,15.0,37
-UBCO,2020,W,STAT,124,,101,Business Statistics,Breanne Chui;Chunlei Ge;Karanmeet Khatra;Marjan Yaghoubi;Meng Tian;Mohamad Khajezade;Muskaan Srivastava;Pradeep Mahato;Rachel Lobay;Sherif Elbishlawi;Tenzin Jinpa,155,78.03225807,17.90212182,100.0,0.0,6,8,11,9,8,7,13,10,22,11.0,50
-UBCO,2020,W,STAT,124,,OVERALL,Business Statistics,,315,77.58412698,16.09135154,100.0,0.0,9,16,17,14,22,29,32,21,42,26.0,87
-UBCO,2020,W,STAT,230,,001,Introductory Statistics,Aanchal Kuckian;Gabriel Jarry-Bolduc;Hui Ouyang;Jeffrey Andrews;Lengyi Han;Marjan Yaghoubi;Saeed Moghaddam;Tyler Weames,72,71.98611111,13.75488958,99.0,24.0,3,2,4,9,8,5,7,7,17,6.0,4
-UBCO,2020,W,STAT,230,,101,Introductory Statistics,Aanchal Kuckian;Chunlei Ge;Lengyi Han;Nusrat Momo;Paramjit Gill;Pradeep Mahato;Sherif Elbishlawi;Tyler Weames;Zenab Kutubuddin Kagdiwala,113,74.91150443,10.87884376,96.0,51.0,0,3,6,10,13,16,7,11,25,13.0,9
-UBCO,2020,W,STAT,230,,OVERALL,Introductory Statistics,,185,73.77297297,12.12804531,99.0,24.0,3,5,10,19,21,21,14,18,42,19.0,13
-UBCO,2020,W,STAT,303,,001,Introduction to Probability,Chad Davis;Chunlei Ge;Lengyi Han;Marjan Yaghoubi,64,68.4375,18.94258242,100.0,10.0,10,4,4,3,7,8,3,3,13,0.0,9
-UBCO,2020,W,STAT,303,,OVERALL,Introduction to Probability,,64,68.4375,18.94258242,100.0,10.0,10,4,4,3,7,8,3,3,13,0.0,9
-UBCO,2020,W,STAT,401,,101,Probability and Statistical Inference,Jeffrey Andrews;Paramjit Gill,11,75.45454546,9.771014649,90.0,55.0,0,0,1,0,1,1,1,1,5,0.0,1
-UBCO,2020,W,STAT,401,,OVERALL,Probability and Statistical Inference,,11,75.45454546,9.771014649,90.0,55.0,0,0,1,0,1,1,1,1,5,0.0,1
-UBCO,2020,W,STAT,403,,001,Stochastic Processes,Eric Foxall;Paramjit Gill,12,73.83333333,16.7377273,98.0,50.0,0,1,2,1,1,2,0,0,1,1.0,3
-UBCO,2020,W,STAT,403,,OVERALL,Stochastic Processes,,12,73.83333333,16.7377273,98.0,50.0,0,1,2,1,1,2,0,0,1,1.0,3
+UBCO,2020,W,STAT,121,,001,Elementary Statistics,Breanne Chui;Chunlei Ge;Gabriel Tan;James Fraser;Ladan Tazik;Marjan Yaghoubi;Maryam Sadeghi;Meng Tian;Muskaan Srivastava;Rachel Lobay,82,77.597560976,15.501381664,100.0,12.0,1,2,7,4,6,7,10,9,6,8.0,22
+UBCO,2020,W,STAT,121,,101,Elementary Statistics,Chunlei Ge;Geoff Goetz;Marjan Yaghoubi;Muskaan Srivastava;Rachel Lobay;Tenzin Jinpa,104,78.326923077,18.462474304,100.0,0.0,6,3,2,5,13,6,9,6,11,7.0,36
+UBCO,2020,W,STAT,121,,OVERALL,Elementary Statistics,,186,78.005376344,17.179024706,100.0,0.0,7,5,9,9,19,13,19,15,17,15.0,58
+UBCO,2020,W,STAT,124,,001,Business Statistics,Breanne Chui;Chunlei Ge;Gabriel Tan;Ladan Tazik;Marjan Yaghoubi;Maryam Sadeghi;Meng Tian;Muskaan Srivastava;Rachel Lobay,160,77.15,14.161778661,100.0,36.0,3,8,6,5,14,22,19,11,20,15.0,37
+UBCO,2020,W,STAT,124,,101,Business Statistics,Breanne Chui;Chunlei Ge;Karanmeet Khatra;Marjan Yaghoubi;Meng Tian;Mohamad Khajezade;Muskaan Srivastava;Pradeep Mahato;Rachel Lobay;Sherif Elbishlawi;Tenzin Jinpa,155,78.251612903,17.664475153,100.0,0.0,5,8,11,9,8,7,13,11,22,11.0,50
+UBCO,2020,W,STAT,124,,OVERALL,Business Statistics,,315,77.692063492,15.965441396,100.0,0.0,8,16,17,14,22,29,32,22,42,26.0,87
+UBCO,2020,W,STAT,230,,001,Introductory Statistics,Aanchal Kuckian;Gabriel Jarry-Bolduc;Hui Ouyang;Lengyi Han;Marjan Yaghoubi;Saeed Moghaddam;Tyler Weames,72,71.986111111,13.754889584,99.0,24.0,3,2,4,9,8,5,7,7,17,6.0,4
+UBCO,2020,W,STAT,230,,101,Introductory Statistics,Aanchal Kuckian;Chunlei Ge;Lengyi Han;Nusrat Momo;Pradeep Mahato;Sherif Elbishlawi;Tyler Weames;Zenab Kutubuddin Kagdiwala,113,74.911504425,10.878843756,96.0,51.0,0,3,6,10,13,16,7,11,25,13.0,9
+UBCO,2020,W,STAT,230,,OVERALL,Introductory Statistics,,185,73.772972973,12.128045307,99.0,24.0,3,5,10,19,21,21,14,18,42,19.0,13
+UBCO,2020,W,STAT,303,,001,Introduction to Probability,Chad Davis;Chunlei Ge;Lengyi Han;Marjan Yaghoubi,64,68.4375,18.942582416,100.0,10.0,10,4,4,3,7,8,3,3,13,0.0,9
+UBCO,2020,W,STAT,303,,OVERALL,Introduction to Probability,,64,68.4375,18.942582416,100.0,10.0,10,4,4,3,7,8,3,3,13,0.0,9
+UBCO,2020,W,STAT,401,,101,Probability and Statistical Inference,Paramjit Gill,11,75.454545455,9.771014649,90.0,55.0,0,0,1,0,1,1,1,1,5,0.0,1
+UBCO,2020,W,STAT,401,,OVERALL,Probability and Statistical Inference,,11,75.454545455,9.771014649,90.0,55.0,0,0,1,0,1,1,1,1,5,0.0,1
+UBCO,2020,W,STAT,403,,001,Stochastic Processes,Eric Foxall;Paramjit Gill,12,73.833333333,16.737727299,98.0,50.0,0,1,2,1,1,2,0,0,1,1.0,3
+UBCO,2020,W,STAT,403,,OVERALL,Stochastic Processes,,12,73.833333333,16.737727299,98.0,50.0,0,1,2,1,1,2,0,0,1,1.0,3

@@ -1,28 +1,28 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,S,BIOL,111,,921,Introduction to Modern Biology,Anuli Uzozie;Caitlin Donnelly;Dirk Vande Pol;Gwen Huber;Nadia Paez;Santokh Singh,102,79.43137255,10.20532748,94.0,43.0,4,0.0,1,3,3,7.0,7,14,28,27,8
-UBCV,2020,S,BIOL,111,,OVERALL,Introduction to Modern Biology,,102,79.43137255,10.20532748,94.0,43.0,4,0.0,1,3,3,7.0,7,14,28,27,8
-UBCV,2020,S,BIOL,112,,921,Biology of the Cell,Brett Couch;Karen Smith;Nelly Saber;Nicole Wang,162,74.69135803,14.74052341,94.0,10.0,13,1.0,3,5,13,18.0,12,21,35,28,13
-UBCV,2020,S,BIOL,112,,OVERALL,Biology of the Cell,,162,74.69135803,14.74052341,94.0,10.0,13,1.0,3,5,13,18.0,12,21,35,28,13
-UBCV,2020,S,BIOL,121,,921,"Genetics, Evolution and Ecology",Aaron Loewen;Chin Sun;Lynn Norman,139,75.10071942,13.83195993,97.0,7.0,6,3.0,4,10,9,8.0,22,13,24,24,16
-UBCV,2020,S,BIOL,121,,OVERALL,"Genetics, Evolution and Ecology",,139,75.10071942,13.83195993,97.0,7.0,6,3.0,4,10,9,8.0,22,13,24,24,16
-UBCV,2020,S,BIOL,200,,921,Fundamentals of Cell Biology,Busra Turgu;Jack Victor Warren Bacon;Liane Chen;Maryam Moussavi;Sofya Langman,116,69.60344828,16.67066119,93.0,1.0,15,1.0,1,11,15,13.0,11,17,13,14,5
-UBCV,2020,S,BIOL,200,,OVERALL,Fundamentals of Cell Biology,,116,69.60344828,16.67066119,93.0,1.0,15,1.0,1,11,15,13.0,11,17,13,14,5
-UBCV,2020,S,BIOL,204,,951,Vertebrate Structure and Function,Angela O'Neill;Helia Jafari;Lorenzo Lindo;Nelly Saber;Queenie Pui Wing Hui;Tavleen Ramgarhia;Tavleen Ramgharia,85,83.56470588,6.928971371,97.0,57.0,0,0.0,1,0,0,4.0,2,15,17,32,14
-UBCV,2020,S,BIOL,204,,OVERALL,Vertebrate Structure and Function,,85,83.56470588,6.928971371,97.0,57.0,0,0.0,1,0,0,4.0,2,15,17,32,14
+UBCV,2020,S,BIOL,111,,921,Introduction to Modern Biology,Dirk Vande Pol;Gwen Huber;Nadia Paez,102,79.431372549,10.205327481,94.0,43.0,4,0.0,1,3,3,7.0,7,14,28,27,8
+UBCV,2020,S,BIOL,111,,OVERALL,Introduction to Modern Biology,,102,79.431372549,10.205327481,94.0,43.0,4,0.0,1,3,3,7.0,7,14,28,27,8
+UBCV,2020,S,BIOL,112,,921,Biology of the Cell,Brett Couch;Karen Smith;Nelly Saber;Nicole Wang,162,74.691358025,14.740523411,94.0,10.0,13,1.0,3,5,13,18.0,12,21,35,28,13
+UBCV,2020,S,BIOL,112,,OVERALL,Biology of the Cell,,162,74.691358025,14.740523411,94.0,10.0,13,1.0,3,5,13,18.0,12,21,35,28,13
+UBCV,2020,S,BIOL,121,,921,"Genetics, Evolution and Ecology",Aaron Loewen;Chin Sun;Lynn Norman,139,74.604316547,15.76807392,97.0,0.0,6,3.0,4,10,9,8.0,22,13,24,24,16
+UBCV,2020,S,BIOL,121,,OVERALL,"Genetics, Evolution and Ecology",,139,74.604316547,15.76807392,97.0,0.0,6,3.0,4,10,9,8.0,22,13,24,24,16
+UBCV,2020,S,BIOL,200,,921,Fundamentals of Cell Biology,Busra Turgu;Jack Bacon;Liane Chen;Maryam Moussavi;Sofya Langman,116,69.603448276,16.67066119,93.0,1.0,15,1.0,1,11,15,13.0,11,17,13,14,5
+UBCV,2020,S,BIOL,200,,OVERALL,Fundamentals of Cell Biology,,116,69.603448276,16.67066119,93.0,1.0,15,1.0,1,11,15,13.0,11,17,13,14,5
+UBCV,2020,S,BIOL,204,,951,Vertebrate Structure and Function,Angela O'Neill;Helia Jafari;Lorenzo Lindo;Nelly Saber;Queenie Pui Wing Hui;Tavleen Ramgarhia;Tavleen Ramgharia,85,83.564705882,6.928971371,97.0,57.0,0,0.0,1,0,0,4.0,2,15,17,32,14
+UBCV,2020,S,BIOL,204,,OVERALL,Vertebrate Structure and Function,,85,83.564705882,6.928971371,97.0,57.0,0,0.0,1,0,0,4.0,2,15,17,32,14
 UBCV,2020,S,BIOL,230,,951,Fundamentals of Ecology,Bernardita Germano;Gabriel Greenberg-Pines;Gregory Michael Bole;Rachel Wilson;Skye Butterson,48,80.5,6.78860121,91.0,63.0,0,0.0,0,1,1,3.0,5,10,14,11,3
 UBCV,2020,S,BIOL,230,,OVERALL,Fundamentals of Ecology,,48,80.5,6.78860121,91.0,63.0,0,0.0,0,1,1,3.0,5,10,14,11,3
-UBCV,2020,S,BIOL,234,,921,Fundamentals of Genetics,Austin Taylor;Craig M S Berezowsky;Jennifer Klenz;Mariia Radaeva;Meng Li;Stella Lee;Tal Shalev,85,80.22352941,12.39179497,96.0,0.0,1,0.0,1,5,0,7.0,5,12,24,16,14
-UBCV,2020,S,BIOL,234,,OVERALL,Fundamentals of Genetics,,85,80.22352941,12.39179497,96.0,0.0,1,0.0,1,5,0,7.0,5,12,24,16,14
-UBCV,2020,S,BIOL,260,,921,Fundamentals of Physiology,Beth Volpov;Katie Marshall;Lorenzo Lindo;Santokh Singh;Skye Butterson,64,76.15625,10.26508762,90.0,46.0,1,3.0,1,3,3,8.0,5,11,14,12,3
-UBCV,2020,S,BIOL,260,,OVERALL,Fundamentals of Physiology,,64,76.15625,10.26508762,90.0,46.0,1,3.0,1,3,3,8.0,5,11,14,12,3
-UBCV,2020,S,BIOL,300,,921,Fundamentals of Biostatistics,Benjamin Freeman;Gabriel Greenberg-Pines;Laura Guzman Uribe;Sydne Guevara Rozo,107,88.95327103,11.33984724,100.0,0.0,1,0.0,0,0,1,1.0,5,6,8,19,66
-UBCV,2020,S,BIOL,300,,OVERALL,Fundamentals of Biostatistics,,107,88.95327103,11.33984724,100.0,0.0,1,0.0,0,0,1,1.0,5,6,8,19,66
-UBCV,2020,S,BIOL,335,,951,Molecular Genetics,Alberto Delaidelli;Craig M S Berezowsky;Kiran Marathe;Meng Li;Nilou Noursadeghi;Stephanie Cheung,73,69.28767123,12.9276614,90.0,28.0,4,4.0,7,12,4,3.0,10,11,11,6,1
-UBCV,2020,S,BIOL,335,,OVERALL,Molecular Genetics,,73,69.28767123,12.9276614,90.0,28.0,4,4.0,7,12,4,3.0,10,11,11,6,1
-UBCV,2020,S,BIOL,343,,951,Plants and Peoples,Marybel Soto Gomez;Shona Margaret Ellis,50,80.5,12.06825825,92.0,22.0,1,1.0,0,2,0,2.0,4,4,12,15,9
-UBCV,2020,S,BIOL,343,,OVERALL,Plants and Peoples,,50,80.5,12.06825825,92.0,22.0,1,1.0,0,2,0,2.0,4,4,12,15,9
-UBCV,2020,S,BIOL,361,,921,Neural and Muscular Physiology,Agnes Lacombe;Irene Ballagh;Ken Savage,57,75.52631579,8.79347417,91.0,47.0,1,1.0,2,2,1,4.0,16,8,16,5,1
-UBCV,2020,S,BIOL,361,,OVERALL,Neural and Muscular Physiology,,57,75.52631579,8.79347417,91.0,47.0,1,1.0,2,2,1,4.0,16,8,16,5,1
+UBCV,2020,S,BIOL,234,,921,Fundamentals of Genetics,Austin Taylor;Craig M S Berezowsky;Jennifer Klenz;Mariia Radaeva;Meng Li;Stella Lee;Tal Shalev,85,80.223529412,12.391794972,96.0,0.0,1,0.0,1,5,0,7.0,5,12,24,16,14
+UBCV,2020,S,BIOL,234,,OVERALL,Fundamentals of Genetics,,85,80.223529412,12.391794972,96.0,0.0,1,0.0,1,5,0,7.0,5,12,24,16,14
+UBCV,2020,S,BIOL,260,,921,Fundamentals of Physiology,Beth Volpov;Katie Marshall;Lorenzo Lindo;Santokh Singh;Skye Butterson,64,76.15625,10.265087618,90.0,46.0,1,3.0,1,3,3,8.0,5,11,14,12,3
+UBCV,2020,S,BIOL,260,,OVERALL,Fundamentals of Physiology,,64,76.15625,10.265087618,90.0,46.0,1,3.0,1,3,3,8.0,5,11,14,12,3
+UBCV,2020,S,BIOL,300,,921,Fundamentals of Biostatistics,Benjamin Freeman;Gabriel Greenberg-Pines;Laura Guzman Uribe;Sydne Guevara Rozo,107,88.953271028,11.33984724,100.0,0.0,1,0.0,0,0,1,1.0,5,6,8,19,66
+UBCV,2020,S,BIOL,300,,OVERALL,Fundamentals of Biostatistics,,107,88.953271028,11.33984724,100.0,0.0,1,0.0,0,0,1,1.0,5,6,8,19,66
+UBCV,2020,S,BIOL,335,,951,Molecular Genetics,Alberto Delaidelli;Craig M S Berezowsky;Kiran Marathe;Meng Li;Nilou Noursadeghi;Stephanie Cheung,73,69.287671233,12.927661398,90.0,28.0,4,4.0,7,12,4,3.0,10,11,11,6,1
+UBCV,2020,S,BIOL,335,,OVERALL,Molecular Genetics,,73,69.287671233,12.927661398,90.0,28.0,4,4.0,7,12,4,3.0,10,11,11,6,1
+UBCV,2020,S,BIOL,343,,951,Plants and Peoples,Marybel Soto Gomez;Shona Margaret Ellis,50,80.5,12.068258248,92.0,22.0,1,1.0,0,2,0,2.0,4,4,12,15,9
+UBCV,2020,S,BIOL,343,,OVERALL,Plants and Peoples,,50,80.5,12.068258248,92.0,22.0,1,1.0,0,2,0,2.0,4,4,12,15,9
+UBCV,2020,S,BIOL,361,,921,Neural and Muscular Physiology,Agnes Lacombe;Irene Ballagh;Ken Savage,57,75.526315789,8.79347417,91.0,47.0,1,1.0,2,2,1,4.0,16,8,16,5,1
+UBCV,2020,S,BIOL,361,,OVERALL,Neural and Muscular Physiology,,57,75.526315789,8.79347417,91.0,47.0,1,1.0,2,2,1,4.0,16,8,16,5,1
 UBCV,2020,S,BIOL,448,A,OVERALL,Directed Studies in Biology,,6,90.5,2.664582519,95.0,88.0,0,0.0,0,0,0,0.0,0,0,0,,
-UBCV,2020,S,BIOL,456,,921,Comparative and Molecular Endocrinology,Robert Harris;Sarina Azargoon,37,81.7027027,7.283409095,93.0,60.0,0,0.0,0,1,2,0.0,2,4,13,11,4
-UBCV,2020,S,BIOL,456,,OVERALL,Comparative and Molecular Endocrinology,,37,81.7027027,7.283409095,93.0,60.0,0,0.0,0,1,2,0.0,2,4,13,11,4
+UBCV,2020,S,BIOL,456,,921,Comparative and Molecular Endocrinology,Robert Harris;Sarina Azargoon,37,81.702702703,7.283409095,93.0,60.0,0,0.0,0,1,2,0.0,2,4,13,11,4
+UBCV,2020,S,BIOL,456,,OVERALL,Comparative and Molecular Endocrinology,,37,81.702702703,7.283409095,93.0,60.0,0,0.0,0,1,2,0.0,2,4,13,11,4

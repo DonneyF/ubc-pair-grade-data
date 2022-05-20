@@ -1,66 +1,66 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2019,W,ECON,101,,001,Principles of Microeconomics,Abigayle Weatherhog;Anthony Boyko;Braydon Neiszner;Chidera Kingsley-Emu;Colton Horne;Devon Rudd;Hoang Bui;Jessica Grant;Juwilliart Cox;Kebbie Brown;Nicholas Ogawa;Noriko Ozawa;Voole Cox,266,66.90225564,17.2394303,98.0,0.0,33,17,36.0,13,28,24.0,19.0,26.0,33,20.0,17
-UBCO,2019,W,ECON,101,,002,Principles of Microeconomics,Abigayle Weatherhog;Braydon Neiszner;Colton Horne;Hoang Bui;Jessica Grant;Juwilliart Cox;Khan Islam;Voole Cox,99,69.60606061,16.22973976,92.0,0.0,6,10,5.0,9,8,8.0,11.0,5.0,12,13.0,12
-UBCO,2019,W,ECON,101,,101,Principles of Microeconomics,Khan Islam;Noriko Ozawa,259,68.22007722,15.65030346,97.0,0.0,17,32,24.0,24,21,27.0,23.0,20.0,30,22.0,19
-UBCO,2019,W,ECON,101,,OVERALL,Principles of Microeconomics,,624,67.87820513,16.43815901,98.0,0.0,56,59,65.0,46,57,59.0,53.0,51.0,75,55.0,48
-UBCO,2019,W,ECON,102,,001,Principles of Macroeconomics,Abigayle Weatherhog;Anthony Boyko;Braydon Neiszner;Chidera Kingsley-Emu;Colton Horne;Devon Rudd;Hoang Bui;Jessica Grant;Juwilliart Cox;Kebbie Brown;Nicholas Ogawa;Peter Wylie;Tazul Islam;Voole Cox,164,66.34146342,16.01856248,97.0,0.0,14,14,14.0,23,19,20.0,14.0,12.0,14,11.0,9
-UBCO,2019,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault,260,67.66538462,13.04134922,95.0,0.0,10,18,26.0,34,33,36.0,20.0,35.0,29,12.0,7
-UBCO,2019,W,ECON,102,,102,Principles of Macroeconomics,Karl Pinno,173,74.06358382,14.38553468,98.0,0.0,4,16,4.0,5,13,23.0,16.0,25.0,24,23.0,20
-UBCO,2019,W,ECON,102,,OVERALL,Principles of Macroeconomics,,597,69.15577889,14.62693299,98.0,0.0,28,48,44.0,62,65,79.0,50.0,72.0,67,46.0,36
-UBCO,2019,W,ECON,204,,001,Intermediate Microeconomic Analysis,Anthony Boyko;Braydon Neiszner;Hoang Bui;Juwilliart Cox;Mehdi Mohamadian;Nicholas Ogawa;Noriko Ozawa;Sarah El Kaissi;Voole Cox,49,64.87755102,10.22788805,86.0,39.0,1,7,9.0,7,2,7.0,7.0,5.0,3,1.0,0
-UBCO,2019,W,ECON,204,,101,Intermediate Microeconomic Analysis,Hoang Bui;Juwilliart Cox;Mehdi Mohamadian;Mohsen Javdani;Noriko Ozawa;Spencer Dean;Spencer Lh Dean,60,60.58333333,17.16351241,95.0,21.0,13,6,8.0,4,9,5.0,4.0,0.0,6,2.0,3
-UBCO,2019,W,ECON,204,,OVERALL,Intermediate Microeconomic Analysis,,109,62.51376147,14.56124656,95.0,21.0,14,13,17.0,11,11,12.0,11.0,5.0,9,3.0,3
-UBCO,2019,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Jessica Grant;Kenneth Carlaw;Nicholas Ogawa;Spencer Dean;Spencer Lh Dean;Voole Cox,65,60.12307692,17.61525235,96.0,17.0,19,8,5.0,7,6,6.0,0.0,5.0,2,1.0,6
-UBCO,2019,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kenneth Carlaw;Noriko Ozawa;Spencer Dean;Spencer Lh Dean,67,62.85074627,15.57898131,93.0,0.0,8,5,11.0,11,5,10.0,3.0,8.0,3,1.0,2
-UBCO,2019,W,ECON,205,,OVERALL,Intermediate Macroeconomic Analysis,,132,61.50757576,16.6056627,96.0,0.0,27,13,16.0,18,11,16.0,3.0,13.0,5,2.0,8
-UBCO,2019,W,ECON,221,,101,Introduction to Strategic Thinking,Spencer Dean;Spencer Lh Dean,28,67.60714286,17.40229718,100.0,19.0,3,1,5.0,3,1,3.0,5.0,2.0,1,1.0,3
-UBCO,2019,W,ECON,221,,OVERALL,Introduction to Strategic Thinking,,28,67.60714286,17.40229718,100.0,19.0,3,1,5.0,3,1,3.0,5.0,2.0,1,1.0,3
-UBCO,2019,W,ECON,232,,001,History of Economic Thought,Braydon Neiszner;Colton Horne;Karl Pinno;Peter Wylie,75,69.90666667,11.34492783,92.0,35.0,2,2,11.0,4,14,8.0,10.0,10.0,7,5.0,2
-UBCO,2019,W,ECON,232,,OVERALL,History of Economic Thought,,75,69.90666667,11.34492783,92.0,35.0,2,2,11.0,4,14,8.0,10.0,10.0,7,5.0,2
-UBCO,2019,W,ECON,295,,001,Managerial Economics,Khan Islam,79,69.12658228,10.61489893,95.0,43.0,2,4,3.0,17,10,13.0,9.0,9.0,4,4.0,4
-UBCO,2019,W,ECON,295,,OVERALL,Managerial Economics,,79,69.12658228,10.61489893,95.0,43.0,2,4,3.0,17,10,13.0,9.0,9.0,4,4.0,4
-UBCO,2019,W,ECON,308,,101,Intermediate Microeconomics II,Amarpreet Kaur;Noriko Ozawa,34,60.94117647,16.4186538,92.0,24.0,5,6,3.0,5,3,2.0,3.0,3.0,2,0.0,2
-UBCO,2019,W,ECON,308,,OVERALL,Intermediate Microeconomics II,,34,60.94117647,16.4186538,92.0,24.0,5,6,3.0,5,3,2.0,3.0,3.0,2,0.0,2
+UBCO,2019,W,ECON,101,,001,Principles of Microeconomics,Abigayle Weatherhog;Anthony Boyko;Braydon Neiszner;Chidera Kingsley-Emu;Colton Horne;Devon Rudd;Hoang Bui;Jessica Grant;Juwilliart Cox;Kebbie Brown;Nicholas Ogawa;Noriko Ozawa;Voole Cox,266,66.902255639,17.239430303,98.0,0.0,33,17,36.0,13,28,24.0,19.0,26.0,33,20.0,17
+UBCO,2019,W,ECON,101,,002,Principles of Microeconomics,Abigayle Weatherhog;Braydon Neiszner;Colton Horne;Hoang Bui;Jessica Grant;Juwilliart Cox;Khan Islam;Voole Cox,99,69.606060606,16.22973976,92.0,0.0,6,10,5.0,9,8,8.0,11.0,5.0,12,13.0,12
+UBCO,2019,W,ECON,101,,101,Principles of Microeconomics,Khan Islam,259,68.22007722,15.650303462,97.0,0.0,17,32,24.0,24,21,27.0,23.0,20.0,30,22.0,19
+UBCO,2019,W,ECON,101,,OVERALL,Principles of Microeconomics,,624,67.878205128,16.438159008,98.0,0.0,56,59,65.0,46,57,59.0,53.0,51.0,75,55.0,48
+UBCO,2019,W,ECON,102,,001,Principles of Macroeconomics,Abigayle Weatherhog;Anthony Boyko;Braydon Neiszner;Chidera Kingsley-Emu;Colton Horne;Devon Rudd;Hoang Bui;Jessica Grant;Juwilliart Cox;Kebbie Brown;Nicholas Ogawa;Peter Wylie;Tazul Islam;Voole Cox,164,66.341463415,16.018562478,97.0,0.0,14,14,14.0,23,19,20.0,14.0,12.0,14,11.0,9
+UBCO,2019,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault,260,67.665384615,13.041349218,95.0,0.0,10,18,26.0,34,33,36.0,20.0,35.0,29,12.0,7
+UBCO,2019,W,ECON,102,,102,Principles of Macroeconomics,Karl Pinno,173,74.063583815,14.385534679,98.0,0.0,4,16,4.0,5,13,23.0,16.0,25.0,24,23.0,20
+UBCO,2019,W,ECON,102,,OVERALL,Principles of Macroeconomics,,597,69.155778894,14.626932991,98.0,0.0,28,48,44.0,62,65,79.0,50.0,72.0,67,46.0,36
+UBCO,2019,W,ECON,204,,001,Intermediate Microeconomic Analysis,Anthony Boyko;Braydon Neiszner;Hoang Bui;Juwilliart Cox;Mehdi Mohamadian;Nicholas Ogawa;Noriko Ozawa;Sarah El Kaissi;Voole Cox,49,64.87755102,10.227888046,86.0,39.0,1,7,9.0,7,2,7.0,7.0,5.0,3,1.0,0
+UBCO,2019,W,ECON,204,,101,Intermediate Microeconomic Analysis,Hoang Bui;Juwilliart Cox;Mehdi Mohamadian;Mohsen Javdani;Noriko Ozawa;Spencer Dean;Spencer Lh Dean,60,60.583333333,17.163512408,95.0,21.0,13,6,8.0,4,9,5.0,4.0,0.0,6,2.0,3
+UBCO,2019,W,ECON,204,,OVERALL,Intermediate Microeconomic Analysis,,109,62.513761468,14.561246563,95.0,21.0,14,13,17.0,11,11,12.0,11.0,5.0,9,3.0,3
+UBCO,2019,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Jessica Grant;Kenneth Carlaw;Nicholas Ogawa;Spencer Dean;Spencer Lh Dean;Voole Cox,65,60.123076923,17.615252351,96.0,17.0,19,8,5.0,7,6,6.0,0.0,5.0,2,1.0,6
+UBCO,2019,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kenneth Carlaw;Noriko Ozawa;Spencer Dean;Spencer Lh Dean,67,62.850746269,15.578981306,93.0,0.0,8,5,11.0,11,5,10.0,3.0,8.0,3,1.0,2
+UBCO,2019,W,ECON,205,,OVERALL,Intermediate Macroeconomic Analysis,,132,61.507575758,16.605662702,96.0,0.0,27,13,16.0,18,11,16.0,3.0,13.0,5,2.0,8
+UBCO,2019,W,ECON,221,,101,Introduction to Strategic Thinking,Spencer Dean;Spencer Lh Dean,28,67.607142857,17.402297179,100.0,19.0,3,1,5.0,3,1,3.0,5.0,2.0,1,1.0,3
+UBCO,2019,W,ECON,221,,OVERALL,Introduction to Strategic Thinking,,28,67.607142857,17.402297179,100.0,19.0,3,1,5.0,3,1,3.0,5.0,2.0,1,1.0,3
+UBCO,2019,W,ECON,232,,001,History of Economic Thought,Braydon Neiszner;Colton Horne;Karl Pinno;Peter Wylie,75,69.906666667,11.344927826,92.0,35.0,2,2,11.0,4,14,8.0,10.0,10.0,7,5.0,2
+UBCO,2019,W,ECON,232,,OVERALL,History of Economic Thought,,75,69.906666667,11.344927826,92.0,35.0,2,2,11.0,4,14,8.0,10.0,10.0,7,5.0,2
+UBCO,2019,W,ECON,295,,001,Managerial Economics,Khan Islam,79,69.126582278,10.614898925,95.0,43.0,2,4,3.0,17,10,13.0,9.0,9.0,4,4.0,4
+UBCO,2019,W,ECON,295,,OVERALL,Managerial Economics,,79,69.126582278,10.614898925,95.0,43.0,2,4,3.0,17,10,13.0,9.0,9.0,4,4.0,4
+UBCO,2019,W,ECON,308,,101,Intermediate Microeconomics II,Amarpreet Kaur;Noriko Ozawa,34,60.941176471,16.418653797,92.0,24.0,5,6,3.0,5,3,2.0,3.0,3.0,2,0.0,2
+UBCO,2019,W,ECON,308,,OVERALL,Intermediate Microeconomics II,,34,60.941176471,16.418653797,92.0,24.0,5,6,3.0,5,3,2.0,3.0,3.0,2,0.0,2
 UBCO,2019,W,ECON,321,,001,Experimental Economics,Julien Picault,25,73.64,8.118292103,90.0,61.0,0,0,0.0,3,4,3.0,6.0,3.0,3,1.0,2
 UBCO,2019,W,ECON,321,,OVERALL,Experimental Economics,,25,73.64,8.118292103,90.0,61.0,0,0,0.0,3,4,3.0,6.0,3.0,3,1.0,2
-UBCO,2019,W,ECON,327,,001,Introduction to Empirical Economics,Amarpreet Kaur;Karl Pinno;Noriko Ozawa,60,69.43333333,13.22089598,95.0,32.0,2,4,8.0,5,9,8.0,3.0,6.0,7,7.0,1
-UBCO,2019,W,ECON,327,,OVERALL,Introduction to Empirical Economics,,60,69.43333333,13.22089598,95.0,32.0,2,4,8.0,5,9,8.0,3.0,6.0,7,7.0,1
-UBCO,2019,W,ECON,328,,101,Methods of Empirical Research,Amarpreet Kaur;Mohsen Javdani,51,79.62745098,11.48557493,100.0,52.0,0,2,2.0,1,3,0.0,7.0,12.0,7,8.0,9
-UBCO,2019,W,ECON,328,,OVERALL,Methods of Empirical Research,,51,79.62745098,11.48557493,100.0,52.0,0,2,2.0,1,3,0.0,7.0,12.0,7,8.0,9
-UBCO,2019,W,ECON,331,,001,World Economy since 1800,Peter Wylie;Todd Christopher Campbell,35,74.17142857,8.39637777,90.0,58.0,0,0,1.0,2,6,5.0,6.0,3.0,8,3.0,1
-UBCO,2019,W,ECON,331,,OVERALL,World Economy since 1800,,35,74.17142857,8.39637777,90.0,58.0,0,0,1.0,2,6,5.0,6.0,3.0,8,3.0,1
-UBCO,2019,W,ECON,338,,101,Introduction to the Austrian School of Economics,Giovanni Grandi,26,71.65384615,10.66561694,92.0,52.0,0,3,0.0,3,2,6.0,3.0,3.0,3,1.0,2
-UBCO,2019,W,ECON,338,,OVERALL,Introduction to the Austrian School of Economics,,26,71.65384615,10.66561694,92.0,52.0,0,3,0.0,3,2,6.0,3.0,3.0,3,1.0,2
-UBCO,2019,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,34,68.91176471,18.21981547,93.0,8.0,4,2,1.0,6,3,2.0,2.0,4.0,2,3.0,5
-UBCO,2019,W,ECON,339,,OVERALL,Economics of Technological Change,,34,68.91176471,18.21981547,93.0,8.0,4,2,1.0,6,3,2.0,2.0,4.0,2,3.0,5
-UBCO,2019,W,ECON,340,,001,Financial Economics,Kit Pasula,60,76.21666667,12.91575266,100.0,50.0,0,2,0.0,9,5,9.0,5.0,6.0,6,8.0,10
-UBCO,2019,W,ECON,340,,OVERALL,Financial Economics,,60,76.21666667,12.91575266,100.0,50.0,0,2,0.0,9,5,9.0,5.0,6.0,6,8.0,10
-UBCO,2019,W,ECON,345,,001,Money and Banking,Khan Islam,57,70.12280702,11.47834946,93.0,44.0,2,4,2.0,8,9,7.0,5.0,7.0,5,6.0,2
-UBCO,2019,W,ECON,345,,101,Money and Banking,Khan Islam,61,72.26229508,11.24559416,97.0,43.0,1,1,5.0,7,9,10.0,4.0,8.0,5,6.0,5
-UBCO,2019,W,ECON,345,,OVERALL,Money and Banking,,118,71.22881356,11.36075944,97.0,43.0,3,5,7.0,15,18,17.0,9.0,15.0,10,12.0,7
-UBCO,2019,W,ECON,355,,001,International Trade,Karl Pinno,50,71.3,11.70077618,94.0,50.0,0,3,7.0,2,6,8.0,7.0,6.0,2,4.0,5
-UBCO,2019,W,ECON,355,,101,International Trade,Karl Pinno,58,79.68965517,10.54016029,100.0,51.0,0,2,0.0,2,2,2.0,11.0,10.0,11,6.0,12
-UBCO,2019,W,ECON,355,,OVERALL,International Trade,,108,75.80555556,11.81275909,100.0,50.0,0,5,7.0,4,8,10.0,18.0,16.0,13,10.0,17
-UBCO,2019,W,ECON,356,,001,International Finance,Kit Pasula,58,75.4137931,14.41616354,99.0,42.0,1,3,3.0,9,5,5.0,2.0,5.0,7,6.0,12
-UBCO,2019,W,ECON,356,,101,International Finance,Kit Pasula,56,76.07142857,12.88248585,99.0,60.0,0,0,0.0,14,6,4.0,5.0,4.0,5,5.0,13
-UBCO,2019,W,ECON,356,,OVERALL,International Finance,,114,75.73684211,13.62782982,99.0,42.0,1,3,3.0,23,11,9.0,7.0,9.0,12,11.0,25
+UBCO,2019,W,ECON,327,,001,Introduction to Empirical Economics,Amarpreet Kaur;Karl Pinno;Noriko Ozawa,60,69.433333333,13.220895976,95.0,32.0,2,4,8.0,5,9,8.0,3.0,6.0,7,7.0,1
+UBCO,2019,W,ECON,327,,OVERALL,Introduction to Empirical Economics,,60,69.433333333,13.220895976,95.0,32.0,2,4,8.0,5,9,8.0,3.0,6.0,7,7.0,1
+UBCO,2019,W,ECON,328,,101,Methods of Empirical Research,Amarpreet Kaur;Mohsen Javdani,51,79.62745098,11.485574926,100.0,52.0,0,2,2.0,1,3,0.0,7.0,12.0,7,8.0,9
+UBCO,2019,W,ECON,328,,OVERALL,Methods of Empirical Research,,51,79.62745098,11.485574926,100.0,52.0,0,2,2.0,1,3,0.0,7.0,12.0,7,8.0,9
+UBCO,2019,W,ECON,331,,001,World Economy since 1800,Peter Wylie;Todd Christopher Campbell,35,74.171428571,8.39637777,90.0,58.0,0,0,1.0,2,6,5.0,6.0,3.0,8,3.0,1
+UBCO,2019,W,ECON,331,,OVERALL,World Economy since 1800,,35,74.171428571,8.39637777,90.0,58.0,0,0,1.0,2,6,5.0,6.0,3.0,8,3.0,1
+UBCO,2019,W,ECON,338,,101,Introduction to the Austrian School of Economics,Giovanni Grandi,26,71.653846154,10.665616936,92.0,52.0,0,3,0.0,3,2,6.0,3.0,3.0,3,1.0,2
+UBCO,2019,W,ECON,338,,OVERALL,Introduction to the Austrian School of Economics,,26,71.653846154,10.665616936,92.0,52.0,0,3,0.0,3,2,6.0,3.0,3.0,3,1.0,2
+UBCO,2019,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,34,68.911764706,18.219815465,93.0,8.0,4,2,1.0,6,3,2.0,2.0,4.0,2,3.0,5
+UBCO,2019,W,ECON,339,,OVERALL,Economics of Technological Change,,34,68.911764706,18.219815465,93.0,8.0,4,2,1.0,6,3,2.0,2.0,4.0,2,3.0,5
+UBCO,2019,W,ECON,340,,001,Financial Economics,Kit Pasula,60,76.216666667,12.915752656,100.0,50.0,0,2,0.0,9,5,9.0,5.0,6.0,6,8.0,10
+UBCO,2019,W,ECON,340,,OVERALL,Financial Economics,,60,76.216666667,12.915752656,100.0,50.0,0,2,0.0,9,5,9.0,5.0,6.0,6,8.0,10
+UBCO,2019,W,ECON,345,,001,Money and Banking,Khan Islam,57,70.122807018,11.478349457,93.0,44.0,2,4,2.0,8,9,7.0,5.0,7.0,5,6.0,2
+UBCO,2019,W,ECON,345,,101,Money and Banking,Khan Islam,61,72.262295082,11.245594159,97.0,43.0,1,1,5.0,7,9,10.0,4.0,8.0,5,6.0,5
+UBCO,2019,W,ECON,345,,OVERALL,Money and Banking,,118,71.228813559,11.360759437,97.0,43.0,3,5,7.0,15,18,17.0,9.0,15.0,10,12.0,7
+UBCO,2019,W,ECON,355,,001,International Trade,Karl Pinno,50,71.3,11.700776182,94.0,50.0,0,3,7.0,2,6,8.0,7.0,6.0,2,4.0,5
+UBCO,2019,W,ECON,355,,101,International Trade,Karl Pinno,58,79.689655172,10.540160285,100.0,51.0,0,2,0.0,2,2,2.0,11.0,10.0,11,6.0,12
+UBCO,2019,W,ECON,355,,OVERALL,International Trade,,108,75.805555556,11.812759087,100.0,50.0,0,5,7.0,4,8,10.0,18.0,16.0,13,10.0,17
+UBCO,2019,W,ECON,356,,001,International Finance,Kit Pasula,58,75.413793103,14.416163544,99.0,42.0,1,3,3.0,9,5,5.0,2.0,5.0,7,6.0,12
+UBCO,2019,W,ECON,356,,101,International Finance,Kit Pasula,56,76.071428571,12.882485845,99.0,60.0,0,0,0.0,14,6,4.0,5.0,4.0,5,5.0,13
+UBCO,2019,W,ECON,356,,OVERALL,International Finance,,114,75.736842105,13.627829823,99.0,42.0,1,3,3.0,23,11,9.0,7.0,9.0,12,11.0,25
 UBCO,2019,W,ECON,360,,101,Labour Economics,Khan Islam;Mohsen Javdani,42,78.30952381,10.18005725,94.0,58.0,0,0,3.0,1,3,5.0,5.0,3.0,9,7.0,6
 UBCO,2019,W,ECON,360,,OVERALL,Labour Economics,,42,78.30952381,10.18005725,94.0,58.0,0,0,3.0,1,3,5.0,5.0,3.0,9,7.0,6
-UBCO,2019,W,ECON,361,,101,Economics of Industrial Relations,James Johnson,44,64.93181818,14.69598542,94.0,28.0,4,5,6.0,4,5,5.0,4.0,4.0,4,1.0,2
-UBCO,2019,W,ECON,361,,OVERALL,Economics of Industrial Relations,,44,64.93181818,14.69598542,94.0,28.0,4,5,6.0,4,5,5.0,4.0,4.0,4,1.0,2
-UBCO,2019,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,38,59.55263158,19.42789492,87.0,18.0,9,4,2.0,4,3,2.0,7.0,1.0,3,3.0,0
-UBCO,2019,W,ECON,370,,OVERALL,Benefit-Cost Analysis and the Economics of Project Evaluation,,38,59.55263158,19.42789492,87.0,18.0,9,4,2.0,4,3,2.0,7.0,1.0,3,3.0,0
-UBCO,2019,W,ECON,372,,101,Natural Resource Economics,Johannus Janmaat,30,76.16666667,12.17142876,95.0,39.0,1,2,0.0,1,1,3.0,4.0,3.0,8,5.0,2
-UBCO,2019,W,ECON,372,,OVERALL,Natural Resource Economics,,30,76.16666667,12.17142876,95.0,39.0,1,2,0.0,1,1,3.0,4.0,3.0,8,5.0,2
-UBCO,2019,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,40,61.625,13.85027538,90.0,28.0,6,6,5.0,6,2,6.0,2.0,2.0,2,2.0,1
-UBCO,2019,W,ECON,386,,OVERALL,Industrial Organization and Regulation,,40,61.625,13.85027538,90.0,28.0,6,6,5.0,6,2,6.0,2.0,2.0,2,2.0,1
-UBCO,2019,W,ECON,391,M,101,Topics in Economics,James Johnson;Khan Islam,35,74.71428571,13.03518187,92.0,52.0,0,2,3.0,7,1,0.0,3.0,2.0,8,3.0,6
-UBCO,2019,W,ECON,391,M,OVERALL,Topics in Economics,,35,74.71428571,13.03518187,92.0,52.0,0,2,3.0,7,1,0.0,3.0,2.0,8,3.0,6
-UBCO,2019,W,ECON,391,Q,101,Topics in Economics,Julien Picault,15,69.0,12.8118249,90.0,50.0,0,2,1.0,3,1,0.0,2.0,3.0,1,1.0,1
-UBCO,2019,W,ECON,391,Q,OVERALL,Topics in Economics,,15,69.0,12.8118249,90.0,50.0,0,2,1.0,3,1,0.0,2.0,3.0,1,1.0,1
+UBCO,2019,W,ECON,361,,101,Economics of Industrial Relations,James Johnson,44,64.931818182,14.695985415,94.0,28.0,4,5,6.0,4,5,5.0,4.0,4.0,4,1.0,2
+UBCO,2019,W,ECON,361,,OVERALL,Economics of Industrial Relations,,44,64.931818182,14.695985415,94.0,28.0,4,5,6.0,4,5,5.0,4.0,4.0,4,1.0,2
+UBCO,2019,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,38,59.552631579,19.427894919,87.0,18.0,9,4,2.0,4,3,2.0,7.0,1.0,3,3.0,0
+UBCO,2019,W,ECON,370,,OVERALL,Benefit-Cost Analysis and the Economics of Project Evaluation,,38,59.552631579,19.427894919,87.0,18.0,9,4,2.0,4,3,2.0,7.0,1.0,3,3.0,0
+UBCO,2019,W,ECON,372,,101,Natural Resource Economics,Johannus Janmaat,30,76.166666667,12.171428764,95.0,39.0,1,2,0.0,1,1,3.0,4.0,3.0,8,5.0,2
+UBCO,2019,W,ECON,372,,OVERALL,Natural Resource Economics,,30,76.166666667,12.171428764,95.0,39.0,1,2,0.0,1,1,3.0,4.0,3.0,8,5.0,2
+UBCO,2019,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,40,61.625,13.850275384,90.0,28.0,6,6,5.0,6,2,6.0,2.0,2.0,2,2.0,1
+UBCO,2019,W,ECON,386,,OVERALL,Industrial Organization and Regulation,,40,61.625,13.850275384,90.0,28.0,6,6,5.0,6,2,6.0,2.0,2.0,2,2.0,1
+UBCO,2019,W,ECON,391,M,101,Topics in Economics,James Johnson;Khan Islam,35,74.714285714,13.03518187,92.0,52.0,0,2,3.0,7,1,0.0,3.0,2.0,8,3.0,6
+UBCO,2019,W,ECON,391,M,OVERALL,Topics in Economics,,35,74.714285714,13.03518187,92.0,52.0,0,2,3.0,7,1,0.0,3.0,2.0,8,3.0,6
+UBCO,2019,W,ECON,391,Q,101,Topics in Economics,Julien Picault,15,69.0,12.811824895,90.0,50.0,0,2,1.0,3,1,0.0,2.0,3.0,1,1.0,1
+UBCO,2019,W,ECON,391,Q,OVERALL,Topics in Economics,,15,69.0,12.811824895,90.0,50.0,0,2,1.0,3,1,0.0,2.0,3.0,1,1.0,1
 UBCO,2019,W,ECON,402,,101,Applied Macroeconomic Analysis,Kit Pasula,8,88.125,3.681517544,93.0,81.0,0,0,0.0,0,0,0.0,0.0,0.0,1,3.0,4
 UBCO,2019,W,ECON,402,,OVERALL,Applied Macroeconomic Analysis,,8,88.125,3.681517544,93.0,81.0,0,0,0.0,0,0,0.0,0.0,0.0,1,3.0,4
-UBCO,2019,W,ECON,409,,101,Economic Growth Theory,Kenneth Carlaw,7,72.0,18.89444363,93.0,33.0,1,0,0.0,0,0,1.0,1.0,1.0,2,0.0,1
-UBCO,2019,W,ECON,409,,OVERALL,Economic Growth Theory,,7,72.0,18.89444363,93.0,33.0,1,0,0.0,0,0,1.0,1.0,1.0,2,0.0,1
-UBCO,2019,W,ECON,427,,101,Econometrics,Mohsen Javdani;Noriko Ozawa,9,74.77777778,19.55618686,98.0,34.0,1,0,0.0,1,0,1.0,1.0,1.0,0,2.0,2
-UBCO,2019,W,ECON,427,,OVERALL,Econometrics,,9,74.77777778,19.55618686,98.0,34.0,1,0,0.0,1,0,1.0,1.0,1.0,0,2.0,2
+UBCO,2019,W,ECON,409,,101,Economic Growth Theory,Kenneth Carlaw,7,72.0,18.894443628,93.0,33.0,1,0,0.0,0,0,1.0,1.0,1.0,2,0.0,1
+UBCO,2019,W,ECON,409,,OVERALL,Economic Growth Theory,,7,72.0,18.894443628,93.0,33.0,1,0,0.0,0,0,1.0,1.0,1.0,2,0.0,1
+UBCO,2019,W,ECON,427,,101,Econometrics,Mohsen Javdani;Noriko Ozawa,9,74.777777778,19.556186858,98.0,34.0,1,0,0.0,1,0,1.0,1.0,1.0,0,2.0,2
+UBCO,2019,W,ECON,427,,OVERALL,Econometrics,,9,74.777777778,19.556186858,98.0,34.0,1,0,0.0,1,0,1.0,1.0,1.0,0,2.0,2

@@ -1,38 +1,40 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,BA,501,,300,Professional Residency I Leadership and Competitive Strategy,Dan Skarlicki;Darren Dahl,54,83.53703704,2.320645347,88.0,80.0,0,0,0,0,0.0,0,0.0,0.0,32,22,0
-UBCV,2020,W,BA,501,,OVERALL,Professional Residency I Leadership and Competitive Strategy,,54,83.53703704,2.320645347,88.0,80.0,0,0,0,0,0.0,0,0.0,0.0,32,22,0
-UBCV,2020,W,BA,502,,301,Professional Residency II Business Development and Negotiations,Ann Stone;Emma Moug;Mira Hayre;Perdip Atwal;Taylor Swift,60,83.33333333,3.358100082,90.0,72.0,0,0,0,0,0.0,0,2.0,1.0,35,21,1
-UBCV,2020,W,BA,502,,OVERALL,Professional Residency II Business Development and Negotiations,,60,83.33333333,3.358100082,90.0,72.0,0,0,0,0,0.0,0,2.0,1.0,35,21,1
-UBCV,2020,W,BA,503,,302,"Professional Residency III Ethics, Sustainability and Managing Change",Dale Griffin;Dan Skarlicki;Justin Bull;Kari Marken,47,87.04255319,2.302715286,93.0,83.0,0,0,0,0,0.0,0,0.0,0.0,6,36,5
-UBCV,2020,W,BA,503,,OVERALL,"Professional Residency III Ethics, Sustainability and Managing Change",,47,87.04255319,2.302715286,93.0,83.0,0,0,0,0,0.0,0,0.0,0.0,6,36,5
-UBCV,2020,W,BA,504,,001,Business Strategy Integration: Foundation,Gregory Werker;Parmjot Gill,110,82.80909091,3.333167914,90.0,63.0,0,0,0,1,0.0,0,1.0,11.0,64,31,2
-UBCV,2020,W,BA,504,,OVERALL,Business Strategy Integration: Foundation,,110,82.80909091,3.333167914,90.0,63.0,0,0,0,1,0.0,0,1.0,11.0,64,31,2
-UBCV,2020,W,BA,511,,DD1,Community Business Project,Dharini Thiruchittampalam;Joanne Turner;Wayne Rawcliffe,73,82.90410959,1.215231843,85.0,79.0,0,0,0,0,0.0,0,0.0,1.0,67,5,0
-UBCV,2020,W,BA,511,,OVERALL,Community Business Project,,73,82.90410959,1.215231843,85.0,79.0,0,0,0,0,0.0,0,0.0,1.0,67,5,0
-UBCV,2020,W,BA,515,,001,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Rui Cao,48,84.8125,5.200884745,96.0,74.0,0,0,0,0,0.0,0,2.0,7.0,11,18,10
-UBCV,2020,W,BA,515,,002,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Rui Cao,43,85.25581395,4.781377682,93.0,75.0,0,0,0,0,0.0,0,1.0,6.0,9,18,9
-UBCV,2020,W,BA,515,,DD1,Fundamentals of Analytics and Tech,Adam Pankratz;Adam Saunders;Alice Hui Li;Alice Li,55,85.05454546,8.334262574,99.0,60.0,0,0,0,1,0.0,3,4.0,3.0,13,14,17
-UBCV,2020,W,BA,515,,DD2,Fundamentals of Analytics and Tech,Adam Pankratz;Adam Saunders;Jung Huang,18,84.22222222,8.164165283,96.0,68.0,0,0,0,0,0.0,1,2.0,2.0,2,6,5
-UBCV,2020,W,BA,515,,MM1,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee,56,85.46428571,4.377480744,95.0,74.0,0,0,0,0,0.0,0,2.0,2.0,18,23,11
-UBCV,2020,W,BA,515,,OVERALL,Fundamentals of Analytics and Tech,,220,85.07727273,6.117452526,99.0,60.0,0,0,0,1,0.0,4,11.0,20.0,53,79,52
-UBCV,2020,W,BA,560,,001,Ethics and Sustainability,James Tansey;Kamran Ahmed Shaikh;Tamar Milne,70,87.85714286,2.555390519,93.0,82.0,0,0,0,0,0.0,0,0.0,0.0,4,44,22
-UBCV,2020,W,BA,560,,002,Ethics and Sustainability,James Tansey;Kamran Ahmed Shaikh;Tamar Milne,40,87.375,3.052426525,92.0,80.0,0,0,0,0,0.0,0,0.0,0.0,6,25,9
-UBCV,2020,W,BA,560,,OVERALL,Ethics and Sustainability,,110,87.68181818,2.742569003,93.0,80.0,0,0,0,0,0.0,0,0.0,0.0,10,69,31
-UBCV,2020,W,BA,561,,001,Global Issues and Macroeconomics,Harshal Mehta;Kouther Noureddine;Murali Chandrashekaran,96,85.25,3.568871265,90.0,76.0,0,0,0,0,0.0,0,0.0,7.0,33,47,9
-UBCV,2020,W,BA,561,,OVERALL,Global Issues and Macroeconomics,,96,85.25,3.568871265,90.0,76.0,0,0,0,0,0.0,0,0.0,7.0,33,47,9
-UBCV,2020,W,BA,562,,003,Creativity,Darren Dahl;Kari Marken,56,83.85714286,2.504022738,91.0,80.0,0,0,0,0,0.0,0,0.0,0.0,38,16,2
-UBCV,2020,W,BA,562,,004,Creativity,Darren Dahl;Kari Marken,20,83.8,3.833371472,89.0,72.0,0,0,0,0,0.0,0,1.0,0.0,9,10,0
-UBCV,2020,W,BA,562,,DD1,Creativity,Darren Dahl;Kari Anna Marken;Kari Marken,49,83.63265306,3.666821271,94.0,76.0,0,0,0,0,0.0,0,0.0,3.0,26,17,3
-UBCV,2020,W,BA,562,,DD2,Creativity,Darren Dahl;Kari Anna Marken;Kari Marken,24,83.66666667,5.576867335,94.0,72.0,0,0,0,0,0.0,0,1.0,3.0,10,5,5
-UBCV,2020,W,BA,562,,OVERALL,Creativity,,149,83.74496644,3.66346897,94.0,72.0,0,0,0,0,0.0,0,2.0,6.0,83,48,10
-UBCV,2020,W,BA,563,,001,Decision Making for Managers,Dale Griffin,35,86.0,2.0,89.0,81.0,0,0,0,0,0.0,0,0.0,0.0,8,27,0
-UBCV,2020,W,BA,563,,OVERALL,Decision Making for Managers,,35,86.0,2.0,89.0,81.0,0,0,0,0,0.0,0,0.0,0.0,8,27,0
-UBCV,2020,W,BA,564,,003,Leadership Development,Dan Skarlicki;Inderjit Bajwa;Lorenzo Zarantonello,45,84.02222222,1.88882947,90.0,81.0,0,0,0,0,0.0,0,0.0,0.0,27,17,1
-UBCV,2020,W,BA,564,,004,Leadership Development,Dan Skarlicki;Inderjit Bajwa;Lorenzo Zarantonello,12,81.16666667,6.072790782,86.0,68.0,0,0,0,0,0.0,2,0.0,1.0,4,5,0
-UBCV,2020,W,BA,564,,OVERALL,Leadership Development,,57,83.42105263,3.380338996,90.0,68.0,0,0,0,0,0.0,2,0.0,1.0,31,22,1
-UBCV,2020,W,BA,580,B,001,Topics in Business Administration,David Silver,6,80.16666667,1.329160136,82.0,78.0,0,0,0,0,0.0,0,0.0,1.0,5,0,0
-UBCV,2020,W,BA,580,B,101,Topics in Business Administration,Allen Manser;Justin Bull;Kathleen O'Connell;Victoria Lansdown,43,82.51162791,3.018767432,86.0,77.0,0,0,0,0,0.0,0,0.0,9.0,16,18,0
-UBCV,2020,W,BA,580,B,102,Topics in Business Administration,Joy Begley;Justin Bull;Kathleen O'Connell;Victoria Lansdown,44,82.86363636,2.368307305,88.0,77.0,0,0,0,0,0.0,0,0.0,4.0,29,11,0
-UBCV,2020,W,BA,580,B,OVERALL,Topics in Business Administration,,93,82.52688172,2.701011879,88.0,77.0,0,0,0,0,0.0,0,0.0,14.0,50,29,0
-UBCV,2020,W,BA,580,C,BA1,Topics in Business Administration,Danielle Van Jaarsveld;Darren Dahl;Mahesh Nagarajan;Rajesh Vijayaraghavan;Sima Sajjadiani,74,82.10810811,3.308633652,89.0,74.0,0,0,0,0,0.0,0,2.0,10.0,45,17,0
-UBCV,2020,W,BA,580,C,OVERALL,Topics in Business Administration,,74,82.10810811,3.308633652,89.0,74.0,0,0,0,0,0.0,0,2.0,10.0,45,17,0
+UBCV,2020,W,BA,501,,300,Professional Residency I Leadership and Competitive Strategy,Dan Skarlicki;Darren Dahl,54,83.537037037,2.320645347,88.0,80.0,0,0,0.0,0,0.0,0,0.0,0.0,32,22,0
+UBCV,2020,W,BA,501,,OVERALL,Professional Residency I Leadership and Competitive Strategy,,54,83.537037037,2.320645347,88.0,80.0,0,0,0.0,0,0.0,0,0.0,0.0,32,22,0
+UBCV,2020,W,BA,502,,301,Professional Residency II Business Development and Negotiations,Ann Stone;Emma Moug;Mira Hayre;Perdip Atwal;Taylor Swift,60,83.333333333,3.358100082,90.0,72.0,0,0,0.0,0,0.0,0,2.0,1.0,35,21,1
+UBCV,2020,W,BA,502,,OVERALL,Professional Residency II Business Development and Negotiations,,60,83.333333333,3.358100082,90.0,72.0,0,0,0.0,0,0.0,0,2.0,1.0,35,21,1
+UBCV,2020,W,BA,503,,302,"Professional Residency III Ethics, Sustainability and Managing Change",Dale Griffin;Dan Skarlicki;Justin Bull;Kari Marken,47,87.042553191,2.302715286,93.0,83.0,0,0,0.0,0,0.0,0,0.0,0.0,6,36,5
+UBCV,2020,W,BA,503,,OVERALL,"Professional Residency III Ethics, Sustainability and Managing Change",,47,87.042553191,2.302715286,93.0,83.0,0,0,0.0,0,0.0,0,0.0,0.0,6,36,5
+UBCV,2020,W,BA,504,,001,Business Strategy Integration: Foundation,Gregory Werker;Parmjot Gill,110,82.809090909,3.333167914,90.0,63.0,0,0,0.0,1,0.0,0,1.0,11.0,64,31,2
+UBCV,2020,W,BA,504,,OVERALL,Business Strategy Integration: Foundation,,110,82.809090909,3.333167914,90.0,63.0,0,0,0.0,1,0.0,0,1.0,11.0,64,31,2
+UBCV,2020,W,BA,511,,DD1,Community Business Project,Dharini Thiruchittampalam;Joanne Turner;Wayne Rawcliffe,73,82.904109589,1.215231843,85.0,79.0,0,0,0.0,0,0.0,0,0.0,1.0,67,5,0
+UBCV,2020,W,BA,511,,MM1,Community Business Project,Adam Pankratz;Elaine Williamson,55,84.381818182,3.251728367,90.0,74.0,0,0,0.0,0,0.0,0,1.0,0.0,27,23,4
+UBCV,2020,W,BA,511,,OVERALL,Community Business Project,,128,83.5390625,2.423319594,90.0,74.0,0,0,0.0,0,0.0,0,1.0,1.0,94,28,4
+UBCV,2020,W,BA,515,,001,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Rui Cao,55,82.981818182,7.820890612,96.0,55.0,0,0,2.0,0,1.0,0,2.0,10.0,12,18,10
+UBCV,2020,W,BA,515,,002,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee;Rui Cao,56,82.553571429,7.368038207,93.0,64.0,0,0,0.0,0,4.0,1,3.0,9.0,12,18,9
+UBCV,2020,W,BA,515,,DD1,Fundamentals of Analytics and Tech,Adam Pankratz;Adam Saunders;Alice Hui Li;Alice Li,55,85.054545455,8.334262574,99.0,60.0,0,0,0.0,1,0.0,3,4.0,3.0,13,14,17
+UBCV,2020,W,BA,515,,DD2,Fundamentals of Analytics and Tech,Adam Pankratz;Adam Saunders;Jung Huang,18,84.222222222,8.164165283,96.0,68.0,0,0,0.0,0,0.0,1,2.0,2.0,2,6,5
+UBCV,2020,W,BA,515,,MM1,Fundamentals of Analytics and Tech,Gene Lee;Myunghwan Lee,56,85.464285714,4.377480744,95.0,74.0,0,0,0.0,0,0.0,0,2.0,2.0,18,23,11
+UBCV,2020,W,BA,515,,OVERALL,Fundamentals of Analytics and Tech,,240,84.029166667,7.255872195,99.0,55.0,0,0,2.0,1,5.0,5,13.0,26.0,57,79,52
+UBCV,2020,W,BA,560,,001,Ethics and Sustainability,James Tansey;Kamran Ahmed Shaikh;Tamar Milne,70,87.857142857,2.555390519,93.0,82.0,0,0,0.0,0,0.0,0,0.0,0.0,4,44,22
+UBCV,2020,W,BA,560,,002,Ethics and Sustainability,James Tansey;Kamran Ahmed Shaikh;Tamar Milne,40,87.375,3.052426525,92.0,80.0,0,0,0.0,0,0.0,0,0.0,0.0,6,25,9
+UBCV,2020,W,BA,560,,MM1,Ethics and Sustainability,Justin Bull;Mohammed Basil Tungekar,56,81.928571429,3.489501881,88.0,73.0,0,0,0.0,0,0.0,0,3.0,12.0,24,17,0
+UBCV,2020,W,BA,560,,OVERALL,Ethics and Sustainability,,166,85.740963855,4.058557324,93.0,73.0,0,0,0.0,0,0.0,0,3.0,12.0,34,86,31
+UBCV,2020,W,BA,561,,001,Global Issues and Macroeconomics,Harshal Mehta;Kouther Noureddine;Murali Chandrashekaran,96,85.25,3.568871265,90.0,76.0,0,0,0.0,0,0.0,0,0.0,7.0,33,47,9
+UBCV,2020,W,BA,561,,OVERALL,Global Issues and Macroeconomics,,96,85.25,3.568871265,90.0,76.0,0,0,0.0,0,0.0,0,0.0,7.0,33,47,9
+UBCV,2020,W,BA,562,,003,Creativity,Darren Dahl;Kari Marken,56,83.857142857,2.504022738,91.0,80.0,0,0,0.0,0,0.0,0,0.0,0.0,38,16,2
+UBCV,2020,W,BA,562,,004,Creativity,Darren Dahl;Kari Marken,20,83.8,3.833371472,89.0,72.0,0,0,0.0,0,0.0,0,1.0,0.0,9,10,0
+UBCV,2020,W,BA,562,,DD1,Creativity,Darren Dahl;Kari Anna Marken;Kari Marken,49,83.632653061,3.666821271,94.0,76.0,0,0,0.0,0,0.0,0,0.0,3.0,26,17,3
+UBCV,2020,W,BA,562,,DD2,Creativity,Darren Dahl;Kari Anna Marken;Kari Marken,24,83.666666667,5.576867335,94.0,72.0,0,0,0.0,0,0.0,0,1.0,3.0,10,5,5
+UBCV,2020,W,BA,562,,OVERALL,Creativity,,149,83.744966443,3.66346897,94.0,72.0,0,0,0.0,0,0.0,0,2.0,6.0,83,48,10
+UBCV,2020,W,BA,563,,001,Decision Making for Managers,Dale Griffin,35,86.0,2.0,89.0,81.0,0,0,0.0,0,0.0,0,0.0,0.0,8,27,0
+UBCV,2020,W,BA,563,,OVERALL,Decision Making for Managers,,35,86.0,2.0,89.0,81.0,0,0,0.0,0,0.0,0,0.0,0.0,8,27,0
+UBCV,2020,W,BA,564,,003,Leadership Development,Dan Skarlicki;Inderjit Bajwa;Lorenzo Zarantonello,45,84.022222222,1.88882947,90.0,81.0,0,0,0.0,0,0.0,0,0.0,0.0,27,17,1
+UBCV,2020,W,BA,564,,004,Leadership Development,Dan Skarlicki;Inderjit Bajwa;Lorenzo Zarantonello,12,81.166666667,6.072790782,86.0,68.0,0,0,0.0,0,0.0,2,0.0,1.0,4,5,0
+UBCV,2020,W,BA,564,,OVERALL,Leadership Development,,57,83.421052632,3.380338996,90.0,68.0,0,0,0.0,0,0.0,2,0.0,1.0,31,22,1
+UBCV,2020,W,BA,580,B,001,Topics in Business Administration,David Silver,6,80.166666667,1.329160136,82.0,78.0,0,0,0.0,0,0.0,0,0.0,1.0,5,0,0
+UBCV,2020,W,BA,580,B,101,Topics in Business Administration,Allen Manser;Justin Bull;Kathleen O'Connell;Victoria Lansdown,43,82.511627907,3.018767432,86.0,77.0,0,0,0.0,0,0.0,0,0.0,9.0,16,18,0
+UBCV,2020,W,BA,580,B,102,Topics in Business Administration,Joy Begley;Justin Bull;Kathleen O'Connell;Victoria Lansdown,44,82.863636364,2.368307305,88.0,77.0,0,0,0.0,0,0.0,0,0.0,4.0,29,11,0
+UBCV,2020,W,BA,580,B,OVERALL,Topics in Business Administration,,93,82.52688172,2.701011879,88.0,77.0,0,0,0.0,0,0.0,0,0.0,14.0,50,29,0
+UBCV,2020,W,BA,580,C,BA1,Topics in Business Administration,Danielle Van Jaarsveld;Darren Dahl;Mahesh Nagarajan;Rajesh Vijayaraghavan;Sima Sajjadiani,75,81.986666667,3.450394938,89.0,73.0,0,0,0.0,0,0.0,0,3.0,10.0,45,17,0
+UBCV,2020,W,BA,580,C,OVERALL,Topics in Business Administration,,75,81.986666667,3.450394938,89.0,73.0,0,0,0.0,0,0.0,0,3.0,10.0,45,17,0

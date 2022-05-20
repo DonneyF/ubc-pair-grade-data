@@ -1,0 +1,53 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,W,PHYS,111,,001,Introductory Physics for the Physical Sciences I,Alisa Chung;Amanda Visser;Christopher Gill;Emily Mellors;Firas Moosvi;Grace Cornell;Ian Kennedy;James Dufresne;Jordan Sawchuk;Keiran Malott;Kristyn Tamelin;Mitchell Wiebe;Nikolai Lesack;Samuel Ruttiman;Xiaoying Zhang;Xinchen Deng;Zhongda Huang;Zoe Dale,285,77.69122807,15.9047371,99.0,2.0,25,2,3,6.0,4.0,20.0,36.0,29.0,53,39,68
+UBCO,2021,W,PHYS,111,,OVERALL,Introductory Physics for the Physical Sciences I,,285,77.69122807,15.9047371,99.0,2.0,25,2,3,6.0,4.0,20.0,36.0,29.0,53,39,68
+UBCO,2021,W,PHYS,112,,001,Introductory Physics for the Life Sciences I,Ainsley Light;Alejandra Fuentes Nunez;Alexis Gauvin;Alisa Chung;Andrew Ogilvy;Dakota Mckeown;Devin Reinholz;Hannah Tapper;Jakob Marshall;Jason Reich;Jenna Norris;John Hopkinson;Kendra Mcnabb;Lois Abu;Madison Gebhardt;Maggi Van De Leest;Maria Higa Mcglashan;Matthew Muscat;Matthew Woo;Max Bailey;Maysey Lu;Mikayla Tchir;Mitchell Wiebe;Nathan Nichol;Olivia Stanton;Oluwapelumi Kola-Ilesanmi;Sandra Popescu;Stephen Collins;Tenzin Kunkyab;Vivia Kiss;Xiaoying Zhang,264,73.375,17.345282941,99.0,1.0,31,6,7,9.0,20.0,28.0,25.0,25.0,45,30,38
+UBCO,2021,W,PHYS,112,,002,Introductory Physics for the Life Sciences I,Ainsley Light;Alejandra Fuentes Nunez;Alexis Gauvin;Alisa Chung;Andrew Ogilvy;Dakota Mckeown;Devin Reinholz;Hannah Tapper;Jakob Marshall;Jason Reich;Jenna Norris;Kendra Mcnabb;Lois Abu;Madison Gebhardt;Maggi Van De Leest;Maria Higa Mcglashan;Matthew Muscat;Matthew Woo;Max Bailey;Maysey Lu;Mikayla Tchir;Mitchell Wiebe;Nathan Nichol;Olivia Stanton;Oluwapelumi Kola-Ilesanmi;Reza Khanbabaie-Shoub;Sandra Popescu;Stephen Collins;Tenzin Kunkyab;Vivia Kiss;Xiaoying Zhang,141,74.822695035,14.807953311,99.0,49.0,18,1,9,7.0,11.0,9.0,10.0,9.0,19,27,21
+UBCO,2021,W,PHYS,112,,OVERALL,Introductory Physics for the Life Sciences I,,405,73.879012346,16.502105447,99.0,1.0,49,7,16,16.0,31.0,37.0,35.0,34.0,64,57,59
+UBCO,2021,W,PHYS,121,,101,Introductory Physics for the Physical Sciences II,Alisa Chung;Dakota Mckeown;Grace Cornell;Ian Kennedy;Jake Bobowski;Jason Reich;Joan Brewer;Jordan Sawchuk;Livia Jonnatan;Mitchell Wiebe;Samuel Ruttiman;Sandra Popescu;Stephen Collins;Zhongda Huang;Zoe Dale,142,67.176056338,18.114019999,99.0,0.0,11,21,11,11.0,16.0,12.0,11.0,15.0,13,5,16
+UBCO,2021,W,PHYS,121,,OVERALL,Introductory Physics for the Physical Sciences II,,142,67.176056338,18.114019999,99.0,0.0,11,21,11,11.0,16.0,12.0,11.0,15.0,13,5,16
+UBCO,2021,W,PHYS,122,,101,Introductory Physics for the Life Sciences II,Alejandra Fuentes Nunez;Alexis Gauvin;Alisa Chung;Andrew Ogilvy;Devin Reinholz;Emily Mellors;Hannah Tapper;John Hopkinson;Keiran Malott;Lois Abu;Madison Gebhardt;Maggi Van De Leest;Maria Higa Mcglashan;Matthew Muscat;Matthew Woo;Max Bailey;Nathan Nichol;Oluwapelumi Kola-Ilesanmi;Samuel Ruttiman;Tenzin Kunkyab;Vivia Kiss;Xiaoying Zhang,239,74.012552301,11.09564271,99.0,37.0,8,6,10,16.0,22.0,31.0,29.0,33.0,43,26,15
+UBCO,2021,W,PHYS,122,,OVERALL,Introductory Physics for the Life Sciences II,,239,74.012552301,11.09564271,99.0,37.0,8,6,10,16.0,22.0,31.0,29.0,33.0,43,26,15
+UBCO,2021,W,PHYS,200,,001,Relativity and Quanta,John Hopkinson;Samuel Ruttiman,16,74.125,9.200543462,88.0,56.0,0,0,2,0.0,2.0,2.0,1.0,4.0,3,2,0
+UBCO,2021,W,PHYS,200,,OVERALL,Relativity and Quanta,,16,74.125,9.200543462,88.0,56.0,0,0,2,0.0,2.0,2.0,1.0,4.0,3,2,0
+UBCO,2021,W,PHYS,215,,101,Thermodynamics,Nikolai Lesack;Yas Yamin,19,70.789473684,20.649398558,89.0,20.0,2,1,1,0.0,0.0,2.0,3.0,1.0,4,5,0
+UBCO,2021,W,PHYS,215,,OVERALL,Thermodynamics,,19,70.789473684,20.649398558,89.0,20.0,2,1,1,0.0,0.0,2.0,3.0,1.0,4,5,0
+UBCO,2021,W,PHYS,216,,101,Mechanics I,Emily Mellors;Xiaoying Zhang;Yas Yamin,29,70.724137931,15.645393096,100.0,42.0,2,4,2,3.0,1.0,3.0,1.0,3.0,5,1,4
+UBCO,2021,W,PHYS,216,,OVERALL,Mechanics I,,29,70.724137931,15.645393096,100.0,42.0,2,4,2,3.0,1.0,3.0,1.0,3.0,5,1,4
+UBCO,2021,W,PHYS,231,,001,Introduction to Electronics,Jakob Marshall;Maya Patel;Reza Khanbabaie-Shoub,21,85.19047619,8.274170941,98.0,68.0,0,0,0,0.0,0.0,2.0,0.0,2.0,6,4,7
+UBCO,2021,W,PHYS,231,,OVERALL,Introduction to Electronics,,21,85.19047619,8.274170941,98.0,68.0,0,0,0,0.0,0.0,2.0,0.0,2.0,6,4,7
+UBCO,2021,W,PHYS,232,,101,Modern Physics Laboratory,Jake Bobowski;Jakob Marshall;Maya Patel;Nikolai Lesack;Reza Khanbabaie-Shoub,12,78.583333333,6.721178648,90.0,66.0,0,0,0,0.0,1.0,0.0,4.0,3.0,2,1,1
+UBCO,2021,W,PHYS,232,,OVERALL,Modern Physics Laboratory,,12,78.583333333,6.721178648,90.0,66.0,0,0,0,0.0,1.0,0.0,4.0,3.0,2,1,1
+UBCO,2021,W,PHYS,301,,001,Electricity and Magnetism,Nikolai Lesack;Reza Khanbabaie-Shoub;Xiaoying Zhang,14,84.142857143,11.634545,100.0,60.0,0,0,0,1.0,0.0,1.0,1.0,1.0,2,3,5
+UBCO,2021,W,PHYS,301,,OVERALL,Electricity and Magnetism,,14,84.142857143,11.634545,100.0,60.0,0,0,0,1.0,0.0,1.0,1.0,1.0,2,3,5
+UBCO,2021,W,PHYS,304,,001,Introduction to Quantum Mechanics,Andrew Jirasek;Daniel Vollick;Jakob Marshall,26,65.192307692,16.188932592,95.0,36.0,5,1,2,5.0,2.0,2.0,2.0,2.0,1,2,2
+UBCO,2021,W,PHYS,304,,OVERALL,Introduction to Quantum Mechanics,,26,65.192307692,16.188932592,95.0,36.0,5,1,2,5.0,2.0,2.0,2.0,2.0,1,2,2
+UBCO,2021,W,PHYS,305,,101,Introduction to Biophysics,Christina Haston;Stephen Collins,6,74.166666667,11.548448669,90.0,61.0,0,0,0,1.0,1.0,1.0,0.0,1.0,1,0,1
+UBCO,2021,W,PHYS,305,,OVERALL,Introduction to Biophysics,,6,74.166666667,11.548448669,90.0,61.0,0,0,0,1.0,1.0,1.0,0.0,1.0,1,0,1
+UBCO,2021,W,PHYS,314,,101,Fluids,Ian Kennedy;Reza Khanbabaie-Shoub,15,89.4,6.587867637,100.0,78.0,0,0,0,0.0,0.0,0.0,0.0,2.0,2,3,8
+UBCO,2021,W,PHYS,314,,OVERALL,Fluids,,15,89.4,6.587867637,100.0,78.0,0,0,0,0.0,0.0,0.0,0.0,2.0,2,3,8
+UBCO,2021,W,PHYS,320,,001,Environmental Physics,Jason Reich;John Hopkinson,24,82.583333333,10.721439985,98.0,55.0,0,0,1,0.0,1.0,1.0,4.0,1.0,3,5,8
+UBCO,2021,W,PHYS,320,,OVERALL,Environmental Physics,,24,82.583333333,10.721439985,98.0,55.0,0,0,1,0.0,1.0,1.0,4.0,1.0,3,5,8
+UBCO,2021,W,PHYS,321,,101,Stellar Astrophysics,Alex Hill;Joan Brewer,12,79.0,22.172874501,97.0,14.0,1,0,0,0.0,1.0,0.0,0.0,1.0,3,3,3
+UBCO,2021,W,PHYS,321,,OVERALL,Stellar Astrophysics,,12,79.0,22.172874501,97.0,14.0,1,0,0,0.0,1.0,0.0,0.0,1.0,3,3,3
+UBCO,2021,W,PHYS,324,,101,Waves,Ian Kennedy;Rebecca Feldman,13,84.461538462,6.715844258,95.0,70.0,0,0,0,0.0,0.0,1.0,0.0,0.0,6,3,3
+UBCO,2021,W,PHYS,324,,OVERALL,Waves,,13,84.461538462,6.715844258,95.0,70.0,0,0,0,0.0,0.0,1.0,0.0,0.0,6,3,3
+UBCO,2021,W,PHYS,328,,101,Advanced Mechanics,Amaan Ali Khan;John Hopkinson;Reza Khanbabaie-Shoub,14,80.0,12.102129501,97.0,60.0,0,0,0,1.0,2.0,1.0,1.0,3.0,1,1,4
+UBCO,2021,W,PHYS,328,,OVERALL,Advanced Mechanics,,14,80.0,12.102129501,97.0,60.0,0,0,0,1.0,2.0,1.0,1.0,3.0,1,1,4
+UBCO,2021,W,PHYS,331,,001,Experimental Physics I,Jake Bobowski;Jason Reich,22,81.727272727,10.406874185,99.0,62.0,0,0,0,1.0,1.0,3.0,2.0,1.0,4,6,4
+UBCO,2021,W,PHYS,331,,OVERALL,Experimental Physics I,,22,81.727272727,10.406874185,99.0,62.0,0,0,0,1.0,1.0,3.0,2.0,1.0,4,6,4
+UBCO,2021,W,PHYS,336,,101,Introduction to Medical Imaging and Radiation Safety,Rasika Rajapakshe;Stephen Collins;Thor Bjarnason,8,83.375,7.707834604,94.0,70.0,0,0,0,0.0,0.0,1.0,0.0,0.0,4,1,2
+UBCO,2021,W,PHYS,336,,OVERALL,Introduction to Medical Imaging and Radiation Safety,,8,83.375,7.707834604,94.0,70.0,0,0,0,0.0,0.0,1.0,0.0,0.0,4,1,2
+UBCO,2021,W,PHYS,401,,101,Electromagnetic Theory,Emily Mellors;Rebecca Feldman,7,67.714285714,23.393120682,85.0,17.0,1,0,0,0.0,1.0,0.0,2.0,0.0,2,1,0
+UBCO,2021,W,PHYS,401,,OVERALL,Electromagnetic Theory,,7,67.714285714,23.393120682,85.0,17.0,1,0,0,0.0,1.0,0.0,2.0,0.0,2,1,0
+UBCO,2021,W,PHYS,402,,101,Advanced Quantum Mechanics,Daniel Vollick;Jake Bobowski,7,59.857142857,26.378201679,95.0,18.0,2,0,2,0.0,1.0,0.0,0.0,0.0,0,1,1
+UBCO,2021,W,PHYS,402,,OVERALL,Advanced Quantum Mechanics,,7,59.857142857,26.378201679,95.0,18.0,2,0,2,0.0,1.0,0.0,0.0,0.0,0,1,1
+UBCO,2021,W,PHYS,403,,001,Statistical Mechanics,Daniel Vollick;Nikolai Lesack,14,61.0,27.250970343,99.0,3.0,3,1,2,0.0,2.0,1.0,1.0,0.0,1,1,2
+UBCO,2021,W,PHYS,403,,OVERALL,Statistical Mechanics,,14,61.0,27.250970343,99.0,3.0,3,1,2,0.0,2.0,1.0,1.0,0.0,1,1,2
+UBCO,2021,W,PHYS,407,,101,Introduction to General Relativity,Daniel Vollick,10,60.4,26.94933518,100.0,27.0,3,1,1,2.0,0.0,0.0,0.0,0.0,0,0,3
+UBCO,2021,W,PHYS,407,,OVERALL,Introduction to General Relativity,,10,60.4,26.94933518,100.0,27.0,3,1,1,2.0,0.0,0.0,0.0,0.0,0,0,3
+UBCO,2021,W,PHYS,441,,101,Experimental Physics II,Jason Reich;Yas Yamin;Yasfatemeh Yamin,18,85.722222222,9.633309587,98.0,68.0,0,0,0,0.0,0.0,3.0,1.0,0.0,2,3,9
+UBCO,2021,W,PHYS,441,,OVERALL,Experimental Physics II,,18,85.722222222,9.633309587,98.0,68.0,0,0,0,0.0,0.0,3.0,1.0,0.0,2,3,9
+UBCO,2021,W,PHYS,449,,OVERALL,Honours Thesis,,6,91.5,3.391164992,95.0,86.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,,
+UBCO,2021,W,PHYS,474,,101,Solid State Physics,John Hopkinson,7,80.714285714,11.025943432,95.0,66.0,0,0,0,0.0,1.0,0.0,2.0,1.0,0,1,2
+UBCO,2021,W,PHYS,474,,OVERALL,Solid State Physics,,7,80.714285714,11.025943432,95.0,66.0,0,0,0,0.0,1.0,0.0,2.0,1.0,0,1,2

@@ -1,47 +1,47 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2019,W,SOCI,111,,001,Introduction to Sociology I,Billie Franck;Dilsora Komil-Burley;Emily Beagle;H V Bonar Buffam;Piotr Ahmad;Taisto Witt,341,74.95894428,11.08701217,97.0,0.0,6,9.0,11,20.0,29,38,47,52,69,42,18
-UBCO,2019,W,SOCI,111,,002,Introduction to Sociology I,H V Bonar Buffam;Jamie Arnett;Michael Zajko;Pegah Behroozi Nobar,234,73.11965812,14.51662501,100.0,26.0,10,11.0,16,11.0,30,26,29,28,21,19,33
-UBCO,2019,W,SOCI,111,,101,Introduction to Sociology I,Emily Beagle;Erica Thomson;Kaitlyn Matulewicz;Pegah Behroozi Nobar;Piotr Ahmad,305,80.16065574,12.13156061,97.0,0.0,6,4.0,7,5.0,8,17,22,46,68,71,51
-UBCO,2019,W,SOCI,111,,OVERALL,Introduction to Sociology I,,880,76.27272727,12.76195576,100.0,0.0,22,24.0,34,36.0,67,81,98,126,158,132,102
-UBCO,2019,W,SOCI,121,,101,Introduction to Sociology II,Billie Franck;Deana Simonetto;Dilsora Komil-Burley;Jasmin Hristov;Michelle Tucsok;Taisto Witt,274,76.28467153,11.26565587,94.0,0.0,6,2.0,3,14.0,10,21,45,49,76,34,14
-UBCO,2019,W,SOCI,121,,OVERALL,Introduction to Sociology II,,274,76.28467153,11.26565587,94.0,0.0,6,2.0,3,14.0,10,21,45,49,76,34,14
-UBCO,2019,W,SOCI,209,,101,Foundations of Sociological Thought,Dilsora Komil-Burley;H V Bonar Buffam;Laura Mudde;Michael Zajko;Piotr Ahmad,68,74.55882353,11.73892918,97.0,44.0,2,3.0,1,6.0,5,8,6,11,12,9,5
-UBCO,2019,W,SOCI,209,,OVERALL,Foundations of Sociological Thought,,68,74.55882353,11.73892918,97.0,44.0,2,3.0,1,6.0,5,8,6,11,12,9,5
-UBCO,2019,W,SOCI,212,,001,Sociology of Race and Ethnicity,Erica Thomson;Luis Aguiar,58,73.03448276,10.70000085,91.0,18.0,1,1.0,1,4.0,5,9,15,10,5,6,1
-UBCO,2019,W,SOCI,212,,OVERALL,Sociology of Race and Ethnicity,,58,73.03448276,10.70000085,91.0,18.0,1,1.0,1,4.0,5,9,15,10,5,6,1
-UBCO,2019,W,SOCI,217,,001,Introduction to Sociology of Gender,Jamie Arnett;Jasmin Hristov;Kaitlyn Matulewicz,52,73.61538462,16.04791092,91.0,20.0,4,4.0,1,2.0,2,1,3,12,11,8,4
-UBCO,2019,W,SOCI,217,,OVERALL,Introduction to Sociology of Gender,,52,73.61538462,16.04791092,91.0,20.0,4,4.0,1,2.0,2,1,3,12,11,8,4
-UBCO,2019,W,SOCI,249,,001,Crime and Society,Billie Franck;Michael Zajko,76,73.47368421,10.3672223,96.0,42.0,2,1.0,2,6.0,5,12,19,9,10,4,6
-UBCO,2019,W,SOCI,249,,OVERALL,Crime and Society,,76,73.47368421,10.3672223,96.0,42.0,2,1.0,2,6.0,5,12,19,9,10,4,6
-UBCO,2019,W,SOCI,295,E,001,Current Topics in Sociology,Erica Thomson;Kelly Struthers Montford,51,76.1372549,9.488982259,96.0,56.0,0,0.0,2,3.0,5,4,9,14,5,1,8
-UBCO,2019,W,SOCI,295,E,OVERALL,Current Topics in Sociology,,51,76.1372549,9.488982259,96.0,56.0,0,0.0,2,3.0,5,4,9,14,5,1,8
-UBCO,2019,W,SOCI,305,,101,Sociology of Families,Jamie Arnett;Mary Ann Murphy,70,76.95714286,7.599457865,91.0,58.0,0,0.0,2,2.0,3,8,13,18,13,8,3
-UBCO,2019,W,SOCI,305,,OVERALL,Sociology of Families,,70,76.95714286,7.599457865,91.0,58.0,0,0.0,2,2.0,3,8,13,18,13,8,3
-UBCO,2019,W,SOCI,313,,101,Advanced Studies in Sociology of Gender,Deana Simonetto;Kaitlyn Matulewicz,25,82.08,8.915903394,97.0,57.0,0,0.0,1,0.0,1,1,2,3,7,4,6
+UBCO,2019,W,SOCI,111,,001,Introduction to Sociology I,Billie Franck;Dilsora Komil-Burley;Emily Beagle;Piotr Ahmad;Taisto Witt,341,74.958944282,11.087012171,97.0,0.0,6,9.0,11,20.0,29,38,47,52,69,42,18
+UBCO,2019,W,SOCI,111,,002,Introduction to Sociology I,Jamie Arnett;Michael Zajko;Pegah Behroozi Nobar,234,73.11965812,14.516625007,100.0,26.0,10,11.0,16,11.0,30,26,29,28,21,19,33
+UBCO,2019,W,SOCI,111,,101,Introduction to Sociology I,Emily Beagle;Erica Thomson;Pegah Behroozi Nobar;Piotr Ahmad,305,80.160655738,12.131560606,97.0,0.0,6,4.0,7,5.0,8,17,22,46,68,71,51
+UBCO,2019,W,SOCI,111,,OVERALL,Introduction to Sociology I,,880,76.272727273,12.761955757,100.0,0.0,22,24.0,34,36.0,67,81,98,126,158,132,102
+UBCO,2019,W,SOCI,121,,101,Introduction to Sociology II,Billie Franck;Deana Simonetto;Dilsora Komil-Burley;Michelle Tucsok;Taisto Witt,274,76.284671533,11.265655874,94.0,0.0,6,2.0,3,14.0,10,21,45,49,76,34,14
+UBCO,2019,W,SOCI,121,,OVERALL,Introduction to Sociology II,,274,76.284671533,11.265655874,94.0,0.0,6,2.0,3,14.0,10,21,45,49,76,34,14
+UBCO,2019,W,SOCI,209,,101,Foundations of Sociological Thought,Dilsora Komil-Burley;H V Bonar Buffam;Laura Mudde;Michael Zajko;Piotr Ahmad,68,74.558823529,11.73892918,97.0,44.0,2,3.0,1,6.0,5,8,6,11,12,9,5
+UBCO,2019,W,SOCI,209,,OVERALL,Foundations of Sociological Thought,,68,74.558823529,11.73892918,97.0,44.0,2,3.0,1,6.0,5,8,6,11,12,9,5
+UBCO,2019,W,SOCI,212,,001,Sociology of Race and Ethnicity,Erica Thomson;Luis Aguiar,58,73.034482759,10.700000848,91.0,18.0,1,1.0,1,4.0,5,9,15,10,5,6,1
+UBCO,2019,W,SOCI,212,,OVERALL,Sociology of Race and Ethnicity,,58,73.034482759,10.700000848,91.0,18.0,1,1.0,1,4.0,5,9,15,10,5,6,1
+UBCO,2019,W,SOCI,217,,001,Introduction to Sociology of Gender,Jamie Arnett;Jasmin Hristov,52,73.615384615,16.047910922,91.0,20.0,4,4.0,1,2.0,2,1,3,12,11,8,4
+UBCO,2019,W,SOCI,217,,OVERALL,Introduction to Sociology of Gender,,52,73.615384615,16.047910922,91.0,20.0,4,4.0,1,2.0,2,1,3,12,11,8,4
+UBCO,2019,W,SOCI,249,,001,Crime and Society,Billie Franck;Michael Zajko,76,73.473684211,10.367222301,96.0,42.0,2,1.0,2,6.0,5,12,19,9,10,4,6
+UBCO,2019,W,SOCI,249,,OVERALL,Crime and Society,,76,73.473684211,10.367222301,96.0,42.0,2,1.0,2,6.0,5,12,19,9,10,4,6
+UBCO,2019,W,SOCI,295,E,001,Current Topics in Sociology,Erica Thomson;Kelly Struthers Montford,51,76.137254902,9.488982259,96.0,56.0,0,0.0,2,3.0,5,4,9,14,5,1,8
+UBCO,2019,W,SOCI,295,E,OVERALL,Current Topics in Sociology,,51,76.137254902,9.488982259,96.0,56.0,0,0.0,2,3.0,5,4,9,14,5,1,8
+UBCO,2019,W,SOCI,305,,101,Sociology of Families,Jamie Arnett;Mary Ann Murphy,70,76.957142857,7.599457865,91.0,58.0,0,0.0,2,2.0,3,8,13,18,13,8,3
+UBCO,2019,W,SOCI,305,,OVERALL,Sociology of Families,,70,76.957142857,7.599457865,91.0,58.0,0,0.0,2,2.0,3,8,13,18,13,8,3
+UBCO,2019,W,SOCI,313,,101,Advanced Studies in Sociology of Gender,Deana Simonetto,25,82.08,8.915903394,97.0,57.0,0,0.0,1,0.0,1,1,2,3,7,4,6
 UBCO,2019,W,SOCI,313,,OVERALL,Advanced Studies in Sociology of Gender,,25,82.08,8.915903394,97.0,57.0,0,0.0,1,0.0,1,1,2,3,7,4,6
-UBCO,2019,W,SOCI,320,,001,Cultural Studies in Sociology,H V Bonar Buffam,23,67.04347826,19.42462884,96.0,19.0,3,0.0,3,2.0,2,0,5,3,1,1,3
-UBCO,2019,W,SOCI,320,,OVERALL,Cultural Studies in Sociology,,23,67.04347826,19.42462884,96.0,19.0,3,0.0,3,2.0,2,0,5,3,1,1,3
-UBCO,2019,W,SOCI,362,B,001,Social Inequality,Piotr Ahmad;Taisto Witt,59,79.33898305,6.647815741,92.0,62.0,0,0.0,0,1.0,4,3,8,9,23,9,2
-UBCO,2019,W,SOCI,362,B,OVERALL,Social Inequality,,59,79.33898305,6.647815741,92.0,62.0,0,0.0,0,1.0,4,3,8,9,23,9,2
-UBCO,2019,W,SOCI,371,B,001,Deviance and Social Control,Dilsora Komil-Burley;H V Bonar Buffam,53,76.22641509,10.50392145,95.0,39.0,1,0.0,2,2.0,4,8,5,7,12,7,5
-UBCO,2019,W,SOCI,371,B,OVERALL,Deviance and Social Control,,53,76.22641509,10.50392145,95.0,39.0,1,0.0,2,2.0,4,8,5,7,12,7,5
-UBCO,2019,W,SOCI,376,,001,Classical Sociological Theory,Jasmin Hristov,39,70.74358974,11.63867859,90.0,34.0,2,2.0,1,1.0,4,5,11,5,5,2,1
-UBCO,2019,W,SOCI,376,,OVERALL,Classical Sociological Theory,,39,70.74358974,11.63867859,90.0,34.0,2,2.0,1,1.0,4,5,11,5,5,2,1
-UBCO,2019,W,SOCI,377,,101,Contemporary Sociological Theory,Michael Zajko;Rudolf Seethaler,36,81.08333333,14.17517952,98.0,34.0,1,0.0,1,0.0,4,3,2,2,6,5,12
-UBCO,2019,W,SOCI,377,,OVERALL,Contemporary Sociological Theory,,36,81.08333333,14.17517952,98.0,34.0,1,0.0,1,0.0,4,3,2,2,6,5,12
-UBCO,2019,W,SOCI,395,,201,Sociological Methods: Qualitative Research,Luis Aguiar,27,76.66666667,15.88177475,86.0,0.0,1,0.0,0,0.0,0,2,2,9,9,4,0
-UBCO,2019,W,SOCI,395,,OVERALL,Sociological Methods: Qualitative Research,,27,76.66666667,15.88177475,86.0,0.0,1,0.0,0,0.0,0,2,2,9,9,4,0
-UBCO,2019,W,SOCI,415,,101,Feminist Theory,Kelly Struthers Montford,24,77.70833333,11.84860721,97.0,45.0,1,0.0,1,0.0,0,5,4,2,2,6,3
-UBCO,2019,W,SOCI,415,,OVERALL,Feminist Theory,,24,77.70833333,11.84860721,97.0,45.0,1,0.0,1,0.0,0,5,4,2,2,6,3
-UBCO,2019,W,SOCI,432,,101,Sociology of Food,Kelly Struthers Montford,26,72.88461539,23.30549622,99.0,0.0,2,1.0,1,0.0,1,3,3,2,2,7,4
-UBCO,2019,W,SOCI,432,,OVERALL,Sociology of Food,,26,72.88461539,23.30549622,99.0,0.0,2,1.0,1,0.0,1,3,3,2,2,7,4
-UBCO,2019,W,SOCI,446,,001,Sociology of Sport,Deana Simonetto;Luis Aguiar,22,80.77272727,7.295999022,92.0,62.0,0,0.0,0,1.0,0,0,5,3,7,2,4
-UBCO,2019,W,SOCI,446,,OVERALL,Sociology of Sport,,22,80.77272727,7.295999022,92.0,62.0,0,0.0,0,1.0,0,0,5,3,7,2,4
-UBCO,2019,W,SOCI,463,A,101,Political Sociology,Piotr Ahmad,29,85.51724138,9.697645847,100.0,54.0,0,1.0,0,0.0,0,1,1,4,4,6,12
-UBCO,2019,W,SOCI,463,A,OVERALL,Political Sociology,,29,85.51724138,9.697645847,100.0,54.0,0,1.0,0,0.0,0,1,1,4,4,6,12
-UBCO,2019,W,SOCI,496,L,001,Advanced Studies in Sociology,Jasmin Hristov,13,71.23076923,22.74552647,93.0,20.0,2,0.0,1,0.0,1,0,2,1,1,3,2
-UBCO,2019,W,SOCI,496,L,OVERALL,Advanced Studies in Sociology,,13,71.23076923,22.74552647,93.0,20.0,2,0.0,1,0.0,1,0,2,1,1,3,2
-UBCO,2019,W,SOCI,496,V,001,Advanced Studies in Sociology,Michael Zajko,30,82.8,14.61317308,97.0,48.0,1,0.0,3,0.0,3,0,2,1,0,4,16
-UBCO,2019,W,SOCI,496,V,OVERALL,Advanced Studies in Sociology,,30,82.8,14.61317308,97.0,48.0,1,0.0,3,0.0,3,0,2,1,0,4,16
-UBCO,2019,W,SOCI,496,W,101,Advanced Studies in Sociology,Luis Aguiar,25,68.48,18.89691333,85.0,18.0,3,1.0,1,2.0,1,1,3,3,9,1,0
-UBCO,2019,W,SOCI,496,W,OVERALL,Advanced Studies in Sociology,,25,68.48,18.89691333,85.0,18.0,3,1.0,1,2.0,1,1,3,3,9,1,0
+UBCO,2019,W,SOCI,320,,001,Cultural Studies in Sociology,H V Bonar Buffam,23,67.043478261,19.424628839,96.0,19.0,3,0.0,3,2.0,2,0,5,3,1,1,3
+UBCO,2019,W,SOCI,320,,OVERALL,Cultural Studies in Sociology,,23,67.043478261,19.424628839,96.0,19.0,3,0.0,3,2.0,2,0,5,3,1,1,3
+UBCO,2019,W,SOCI,362,B,001,Social Inequality,Piotr Ahmad;Taisto Witt,59,79.338983051,6.647815741,92.0,62.0,0,0.0,0,1.0,4,3,8,9,23,9,2
+UBCO,2019,W,SOCI,362,B,OVERALL,Social Inequality,,59,79.338983051,6.647815741,92.0,62.0,0,0.0,0,1.0,4,3,8,9,23,9,2
+UBCO,2019,W,SOCI,371,B,001,Deviance and Social Control,Dilsora Komil-Burley;H V Bonar Buffam,53,76.226415094,10.503921446,95.0,39.0,1,0.0,2,2.0,4,8,5,7,12,7,5
+UBCO,2019,W,SOCI,371,B,OVERALL,Deviance and Social Control,,53,76.226415094,10.503921446,95.0,39.0,1,0.0,2,2.0,4,8,5,7,12,7,5
+UBCO,2019,W,SOCI,376,,001,Classical Sociological Theory,Jasmin Hristov,39,70.743589744,11.638678594,90.0,34.0,2,2.0,1,1.0,4,5,11,5,5,2,1
+UBCO,2019,W,SOCI,376,,OVERALL,Classical Sociological Theory,,39,70.743589744,11.638678594,90.0,34.0,2,2.0,1,1.0,4,5,11,5,5,2,1
+UBCO,2019,W,SOCI,377,,101,Contemporary Sociological Theory,Michael Zajko;Rudolf Seethaler,36,81.083333333,14.175179515,98.0,34.0,1,0.0,1,0.0,4,3,2,2,6,5,12
+UBCO,2019,W,SOCI,377,,OVERALL,Contemporary Sociological Theory,,36,81.083333333,14.175179515,98.0,34.0,1,0.0,1,0.0,4,3,2,2,6,5,12
+UBCO,2019,W,SOCI,395,,201,Sociological Methods: Qualitative Research,Luis Aguiar,27,76.666666667,15.881774751,86.0,0.0,1,0.0,0,0.0,0,2,2,9,9,4,0
+UBCO,2019,W,SOCI,395,,OVERALL,Sociological Methods: Qualitative Research,,27,76.666666667,15.881774751,86.0,0.0,1,0.0,0,0.0,0,2,2,9,9,4,0
+UBCO,2019,W,SOCI,415,,101,Feminist Theory,Kelly Struthers Montford,24,77.708333333,11.848607207,97.0,45.0,1,0.0,1,0.0,0,5,4,2,2,6,3
+UBCO,2019,W,SOCI,415,,OVERALL,Feminist Theory,,24,77.708333333,11.848607207,97.0,45.0,1,0.0,1,0.0,0,5,4,2,2,6,3
+UBCO,2019,W,SOCI,432,,101,Sociology of Food,Kelly Struthers Montford,26,72.884615385,23.305496215,99.0,0.0,2,1.0,1,0.0,1,3,3,2,2,7,4
+UBCO,2019,W,SOCI,432,,OVERALL,Sociology of Food,,26,72.884615385,23.305496215,99.0,0.0,2,1.0,1,0.0,1,3,3,2,2,7,4
+UBCO,2019,W,SOCI,446,,001,Sociology of Sport,Deana Simonetto,22,80.772727273,7.295999022,92.0,62.0,0,0.0,0,1.0,0,0,5,3,7,2,4
+UBCO,2019,W,SOCI,446,,OVERALL,Sociology of Sport,,22,80.772727273,7.295999022,92.0,62.0,0,0.0,0,1.0,0,0,5,3,7,2,4
+UBCO,2019,W,SOCI,463,A,101,Political Sociology,Piotr Ahmad,29,85.517241379,9.697645847,100.0,54.0,0,1.0,0,0.0,0,1,1,4,4,6,12
+UBCO,2019,W,SOCI,463,A,OVERALL,Political Sociology,,29,85.517241379,9.697645847,100.0,54.0,0,1.0,0,0.0,0,1,1,4,4,6,12
+UBCO,2019,W,SOCI,496,L,001,Advanced Studies in Sociology,Jasmin Hristov,13,71.230769231,22.745526469,93.0,20.0,2,0.0,1,0.0,1,0,2,1,1,3,2
+UBCO,2019,W,SOCI,496,L,OVERALL,Advanced Studies in Sociology,,13,71.230769231,22.745526469,93.0,20.0,2,0.0,1,0.0,1,0,2,1,1,3,2
+UBCO,2019,W,SOCI,496,V,001,Advanced Studies in Sociology,Michael Zajko,30,82.8,14.613173084,97.0,48.0,1,0.0,3,0.0,3,0,2,1,0,4,16
+UBCO,2019,W,SOCI,496,V,OVERALL,Advanced Studies in Sociology,,30,82.8,14.613173084,97.0,48.0,1,0.0,3,0.0,3,0,2,1,0,4,16
+UBCO,2019,W,SOCI,496,W,101,Advanced Studies in Sociology,Luis Aguiar,25,68.48,18.896913328,85.0,18.0,3,1.0,1,2.0,1,1,3,3,9,1,0
+UBCO,2019,W,SOCI,496,W,OVERALL,Advanced Studies in Sociology,,25,68.48,18.896913328,85.0,18.0,3,1.0,1,2.0,1,1,3,3,9,1,0

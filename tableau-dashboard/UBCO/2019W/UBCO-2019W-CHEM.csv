@@ -1,60 +1,60 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2019,W,CHEM,111,,001,Principles of Chemistry I,Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,39,73.46153846,13.0279985,95.0,43.0,3,0.0,1,2.0,5.0,2,9.0,5,2,4,6
-UBCO,2019,W,CHEM,111,,002,Principles of Chemistry I,Tamara Freeman;Tamara Kunz,62,68.79032258,15.20799735,97.0,28.0,10,0.0,6,5.0,9.0,1,5.0,5,10,8,3
-UBCO,2019,W,CHEM,111,,OVERALL,Principles of Chemistry I,,101,70.59405941,14.51907588,97.0,28.0,13,0.0,7,7.0,14.0,3,14.0,10,12,12,9
+UBCO,2019,W,CHEM,111,,001,Principles of Chemistry I,Tamara Kunz,39,73.461538462,13.027998501,95.0,43.0,3,0.0,1,2.0,5.0,2,9.0,5,2,4,6
+UBCO,2019,W,CHEM,111,,002,Principles of Chemistry I,Tamara Kunz,62,68.790322581,15.207997353,97.0,28.0,10,0.0,6,5.0,9.0,1,5.0,5,10,8,3
+UBCO,2019,W,CHEM,111,,OVERALL,Principles of Chemistry I,,101,70.594059406,14.519075878,97.0,28.0,13,0.0,7,7.0,14.0,3,14.0,10,12,12,9
 UBCO,2019,W,CHEM,113,,001,Principles of Chemistry II,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,48,73.125,9.561948079,91.0,47.0,1,1.0,2,5.0,3.0,4,11.0,12,3,4,2
 UBCO,2019,W,CHEM,113,,002,Principles of Chemistry II,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,40,71.575,9.891429857,92.0,47.0,1,0.0,2,6.0,5.0,5,10.0,4,3,2,2
-UBCO,2019,W,CHEM,113,,OVERALL,Principles of Chemistry II,,88,72.42045455,9.68791354,92.0,47.0,2,1.0,4,11.0,8.0,9,21.0,16,6,6,4
-UBCO,2019,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,339,75.07374631,12.85158296,98.0,30.0,19,1.0,14,21.0,25.0,37,36.0,40,47,47,52
-UBCO,2019,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,274,72.48175183,13.11633056,96.0,24.0,25,2.0,15,17.0,27.0,27,26.0,36,39,35,25
-UBCO,2019,W,CHEM,121,,OVERALL,Atomic and Molecular Chemistry,,613,73.91517129,13.02395913,98.0,24.0,44,3.0,29,38.0,52.0,64,62.0,76,86,82,77
+UBCO,2019,W,CHEM,113,,OVERALL,Principles of Chemistry II,,88,72.420454545,9.68791354,92.0,47.0,2,1.0,4,11.0,8.0,9,21.0,16,6,6,4
+UBCO,2019,W,CHEM,121,,001,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz;W. Stephen Mcneil,339,75.073746313,12.851582955,98.0,30.0,19,1.0,14,21.0,25.0,37,36.0,40,47,47,52
+UBCO,2019,W,CHEM,121,,002,Atomic and Molecular Chemistry,Tamara Freeman;Tamara Kunz,274,72.481751825,13.116330559,96.0,24.0,25,2.0,15,17.0,27.0,27,26.0,36,39,35,25
+UBCO,2019,W,CHEM,121,,OVERALL,Atomic and Molecular Chemistry,,613,73.915171289,13.023959125,98.0,24.0,44,3.0,29,38.0,52.0,64,62.0,76,86,82,77
 UBCO,2019,W,CHEM,123,,001,Physical and Organic Chemistry,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,305,76.93442623,9.724949013,98.0,42.0,5,1.0,6,13.0,17.0,37,45.0,61,57,33,30
-UBCO,2019,W,CHEM,123,,002,Physical and Organic Chemistry,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,255,74.85490196,10.05567795,96.0,38.0,7,3.0,8,18.0,17.0,30,40.0,37,54,30,11
+UBCO,2019,W,CHEM,123,,002,Physical and Organic Chemistry,Abisola Kehinde;Abisola Z. Kehinde;Amanda Darbyshire;Amanda L. Darbyshire;Darina Vekhova;Emma L. Mitchell;Emma Mitchell;Ieva Zigg;Neil Devries;Nitin Nitin;Tamara Freeman;Tamara Kunz,255,74.854901961,10.055677946,96.0,38.0,7,3.0,8,18.0,17.0,30,40.0,37,54,30,11
 UBCO,2019,W,CHEM,123,,OVERALL,Physical and Organic Chemistry,,560,75.9875,9.922320162,98.0,38.0,12,4.0,14,31.0,34.0,67,85.0,98,111,63,41
-UBCO,2019,W,CHEM,201,,001,Introduction to Physical Chemistry,David Jack,114,78.88596491,12.1165131,96.0,31.0,4,1.0,2,4.0,5.0,9,11.0,13,18,30,17
-UBCO,2019,W,CHEM,201,,OVERALL,Introduction to Physical Chemistry,,114,78.88596491,12.1165131,96.0,31.0,4,1.0,2,4.0,5.0,9,11.0,13,18,30,17
-UBCO,2019,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,134,66.50746269,14.07698824,92.0,26.0,28,3.0,9,10.0,16.0,14,14.0,13,13,12,2
-UBCO,2019,W,CHEM,203,,OVERALL,Introduction to Organic Chemistry,,134,66.50746269,14.07698824,92.0,26.0,28,3.0,9,10.0,16.0,14,14.0,13,13,12,2
-UBCO,2019,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,109,70.92660551,13.49808383,93.0,8.0,8,4.0,4,7.0,13.0,11,20.0,10,16,15,1
-UBCO,2019,W,CHEM,204,,OVERALL,Organic Chemistry,,109,70.92660551,13.49808383,93.0,8.0,8,4.0,4,7.0,13.0,11,20.0,10,16,15,1
-UBCO,2019,W,CHEM,211,,001,Analytical Chemistry,Abisola Kehinde;Abisola Z. Kehinde;Jillian Forsyth;Stephanie Bishop;Stephanie L. Bishop;Susan Murch,52,79.78846154,14.24345263,100.0,26.0,2,0.0,2,3.0,1.0,4,4.0,3,11,8,14
-UBCO,2019,W,CHEM,211,,OVERALL,Analytical Chemistry,,52,79.78846154,14.24345263,100.0,26.0,2,0.0,2,3.0,1.0,4,4.0,3,11,8,14
-UBCO,2019,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Jeffrey Therrien,193,69.54404145,12.52370162,97.0,38.0,10,13.0,20,17.0,20.0,27,21.0,19,17,22,7
-UBCO,2019,W,CHEM,213,,OVERALL,Organic Chemistry for Biological Sciences I,,193,69.54404145,12.52370162,97.0,38.0,10,13.0,20,17.0,20.0,27,21.0,19,17,22,7
-UBCO,2019,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Colin Dai;Colin Zhongyi Dai;Francois Miros;Ieva Zigg;Kamal Narayana;Paul Shipley,163,78.49693252,10.89533496,100.0,28.0,2,1.0,3,6.0,13.0,12,22.0,27,31,22,24
-UBCO,2019,W,CHEM,214,,OVERALL,Organic Chemistry for Biological Sciences II,,163,78.49693252,10.89533496,100.0,28.0,2,1.0,3,6.0,13.0,12,22.0,27,31,22,24
-UBCO,2019,W,CHEM,220,,001,Atomic Structure and Molecular Bonding,Jasper Pankratz;Matthew Mcconnachie;W. Stephen Mcneil,60,78.11666667,15.19153608,99.0,30.0,5,2.0,1,0.0,4.0,3,7.0,3,8,11,16
-UBCO,2019,W,CHEM,220,,OVERALL,Atomic Structure and Molecular Bonding,,60,78.11666667,15.19153608,99.0,30.0,5,2.0,1,0.0,4.0,3,7.0,3,8,11,16
-UBCO,2019,W,CHEM,301,,001,Aqueous Environmental Chemistry,Karen Perry,19,72.31578947,20.06670164,96.0,16.0,2,0.0,2,2.0,1.0,1,1.0,1,1,6,2
-UBCO,2019,W,CHEM,301,,OVERALL,Aqueous Environmental Chemistry,,19,72.31578947,20.06670164,96.0,16.0,2,0.0,2,2.0,1.0,1,1.0,1,1,6,2
-UBCO,2019,W,CHEM,302,,001,Atmospheric Environmental Chemistry,Karen Perry,23,66.0,18.0327984,100.0,28.0,3,3.0,2,1.0,2.0,2,4.0,1,2,1,2
-UBCO,2019,W,CHEM,302,,OVERALL,Atmospheric Environmental Chemistry,,23,66.0,18.0327984,100.0,28.0,3,3.0,2,1.0,2.0,2,4.0,1,2,1,2
-UBCO,2019,W,CHEM,304,,001,Advanced Physical Chemistry,David Jack,36,74.44444444,11.7532839,91.0,50.0,0,3.0,1,4.0,3.0,1,4.0,3,11,2,4
-UBCO,2019,W,CHEM,304,,OVERALL,Advanced Physical Chemistry,,36,74.44444444,11.7532839,91.0,50.0,0,3.0,1,4.0,3.0,1,4.0,3,11,2,4
-UBCO,2019,W,CHEM,305,,001,Biophysical Chemistry,David Jack,28,77.96428571,11.05368095,96.0,50.0,0,1.0,1,1.0,1.0,2,5.0,5,4,3,5
-UBCO,2019,W,CHEM,305,,OVERALL,Biophysical Chemistry,,28,77.96428571,11.05368095,96.0,50.0,0,1.0,1,1.0,1.0,2,5.0,5,4,3,5
-UBCO,2019,W,CHEM,311,,001,Instrumental Analytical Chemistry,Ben Noyovitz;Benjamin Noyovitz;Ieva Zigg;Taylor Gray;Wesley Zandberg,27,81.37037037,12.71325217,93.0,31.0,1,0.0,0,1.0,0.0,2,2.0,1,6,10,4
-UBCO,2019,W,CHEM,311,,OVERALL,Instrumental Analytical Chemistry,,27,81.37037037,12.71325217,93.0,31.0,1,0.0,0,1.0,0.0,2,2.0,1,6,10,4
-UBCO,2019,W,CHEM,312,,001,Introduction to Quantum Mechanics and Spectroscopy,David Jack,25,72.92,16.93349738,90.0,27.0,3,0.0,1,3.0,0.0,3,3.0,1,1,8,2
-UBCO,2019,W,CHEM,312,,OVERALL,Introduction to Quantum Mechanics and Spectroscopy,,25,72.92,16.93349738,90.0,27.0,3,0.0,1,3.0,0.0,3,3.0,1,1,8,2
-UBCO,2019,W,CHEM,317,,001,Environmental Physical Organic Chemistry,Jeffrey Therrien,28,77.10714286,8.314820707,92.0,54.0,0,1.0,0,0.0,3.0,1,4.0,10,3,5,1
-UBCO,2019,W,CHEM,317,,OVERALL,Environmental Physical Organic Chemistry,,28,77.10714286,8.314820707,92.0,54.0,0,1.0,0,0.0,3.0,1,4.0,10,3,5,1
-UBCO,2019,W,CHEM,330,,001,Advanced Organic Chemistry,Frederic Menard,34,78.82352941,12.16420628,98.0,34.0,1,1.0,0,0.0,2.0,4,3.0,0,12,8,3
-UBCO,2019,W,CHEM,330,,OVERALL,Advanced Organic Chemistry,,34,78.82352941,12.16420628,98.0,34.0,1,1.0,0,0.0,2.0,4,3.0,0,12,8,3
-UBCO,2019,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland,46,71.17391304,10.95506853,95.0,40.0,2,0.0,3,4.0,5.0,14,4.0,3,5,4,2
-UBCO,2019,W,CHEM,333,,OVERALL,Spectroscopic Techniques in Organic Chemistry,,46,71.17391304,10.95506853,95.0,40.0,2,0.0,3,4.0,5.0,14,4.0,3,5,4,2
-UBCO,2019,W,CHEM,335,,001,Bioinorganic Chemistry,Riley Petillion;W. Stephen Mcneil,29,76.72413793,10.81300986,90.0,47.0,1,0.0,1,2.0,1.0,2,4.0,3,6,6,3
-UBCO,2019,W,CHEM,335,,OVERALL,Bioinorganic Chemistry,,29,76.72413793,10.81300986,90.0,47.0,1,0.0,1,2.0,1.0,2,4.0,3,6,6,3
-UBCO,2019,W,CHEM,336,,101,Green Inorganic Chemistry,Kevin Michael Smith,16,68.3125,18.98321627,90.0,27.0,2,1.0,0,3.0,1.0,0,3.0,0,2,3,1
-UBCO,2019,W,CHEM,336,,OVERALL,Green Inorganic Chemistry,,16,68.3125,18.98321627,90.0,27.0,2,1.0,0,3.0,1.0,0,3.0,0,2,3,1
-UBCO,2019,W,CHEM,338,,001,Organometallic Chemistry,Kevin Michael Smith,22,67.09090909,14.1283541,91.0,31.0,2,1.0,2,6.0,0.0,2,2.0,3,1,2,1
-UBCO,2019,W,CHEM,338,,OVERALL,Organometallic Chemistry,,22,67.09090909,14.1283541,91.0,31.0,2,1.0,2,6.0,0.0,2,2.0,3,1,2,1
-UBCO,2019,W,CHEM,403,,101,Enzymology,Kirsten Wolthers;Paul Shipley,12,89.66666667,10.30739658,100.0,66.0,0,0.0,0,0.0,1.0,0,0.0,0,2,3,6
-UBCO,2019,W,CHEM,403,,OVERALL,Enzymology,,12,89.66666667,10.30739658,100.0,66.0,0,0.0,0,0.0,1.0,0,0.0,0,2,3,6
-UBCO,2019,W,CHEM,412,,001,Methods in Bioanalytical Chemistry,Wesley Zandberg,13,83.84615385,6.618737969,91.0,69.0,0,0.0,0,0.0,0.0,1,1.0,1,3,5,2
-UBCO,2019,W,CHEM,412,,OVERALL,Methods in Bioanalytical Chemistry,,13,83.84615385,6.618737969,91.0,69.0,0,0.0,0,0.0,0.0,1,1.0,1,3,5,2
-UBCO,2019,W,CHEM,449,,OVERALL,Honours Thesis,,6,88.83333333,2.994439291,92.0,85.0,0,0.0,0,0.0,0.0,0,0.0,0,0,,
+UBCO,2019,W,CHEM,201,,001,Introduction to Physical Chemistry,David Jack,114,78.885964912,12.116513103,96.0,31.0,4,1.0,2,4.0,5.0,9,11.0,13,18,30,17
+UBCO,2019,W,CHEM,201,,OVERALL,Introduction to Physical Chemistry,,114,78.885964912,12.116513103,96.0,31.0,4,1.0,2,4.0,5.0,9,11.0,13,18,30,17
+UBCO,2019,W,CHEM,203,,001,Introduction to Organic Chemistry,Edward Neeland,134,66.507462687,14.076988244,92.0,26.0,28,3.0,9,10.0,16.0,14,14.0,13,13,12,2
+UBCO,2019,W,CHEM,203,,OVERALL,Introduction to Organic Chemistry,,134,66.507462687,14.076988244,92.0,26.0,28,3.0,9,10.0,16.0,14,14.0,13,13,12,2
+UBCO,2019,W,CHEM,204,,001,Organic Chemistry,Edward Neeland,109,70.926605505,13.49808383,93.0,8.0,8,4.0,4,7.0,13.0,11,20.0,10,16,15,1
+UBCO,2019,W,CHEM,204,,OVERALL,Organic Chemistry,,109,70.926605505,13.49808383,93.0,8.0,8,4.0,4,7.0,13.0,11,20.0,10,16,15,1
+UBCO,2019,W,CHEM,211,,001,Analytical Chemistry,Abisola Kehinde;Abisola Z. Kehinde;Jillian Forsyth;Stephanie Bishop;Stephanie L. Bishop;Susan Murch,52,79.788461538,14.243452625,100.0,26.0,2,0.0,2,3.0,1.0,4,4.0,3,11,8,14
+UBCO,2019,W,CHEM,211,,OVERALL,Analytical Chemistry,,52,79.788461538,14.243452625,100.0,26.0,2,0.0,2,3.0,1.0,4,4.0,3,11,8,14
+UBCO,2019,W,CHEM,213,,001,Organic Chemistry for Biological Sciences I,Jeffrey Therrien,193,69.544041451,12.523701623,97.0,38.0,10,13.0,20,17.0,20.0,27,21.0,19,17,22,7
+UBCO,2019,W,CHEM,213,,OVERALL,Organic Chemistry for Biological Sciences I,,193,69.544041451,12.523701623,97.0,38.0,10,13.0,20,17.0,20.0,27,21.0,19,17,22,7
+UBCO,2019,W,CHEM,214,,001,Organic Chemistry for Biological Sciences II,Colin Dai;Colin Zhongyi Dai;Francois Miros;Ieva Zigg;Kamal Narayana;Paul Shipley,163,78.496932515,10.895334959,100.0,28.0,2,1.0,3,6.0,13.0,12,22.0,27,31,22,24
+UBCO,2019,W,CHEM,214,,OVERALL,Organic Chemistry for Biological Sciences II,,163,78.496932515,10.895334959,100.0,28.0,2,1.0,3,6.0,13.0,12,22.0,27,31,22,24
+UBCO,2019,W,CHEM,220,,001,Atomic Structure and Molecular Bonding,Jasper Pankratz;Matthew Mcconnachie;W. Stephen Mcneil,60,78.116666667,15.191536076,99.0,30.0,5,2.0,1,0.0,4.0,3,7.0,3,8,11,16
+UBCO,2019,W,CHEM,220,,OVERALL,Atomic Structure and Molecular Bonding,,60,78.116666667,15.191536076,99.0,30.0,5,2.0,1,0.0,4.0,3,7.0,3,8,11,16
+UBCO,2019,W,CHEM,301,,001,Aqueous Environmental Chemistry,Karen Perry,19,72.315789474,20.066701638,96.0,16.0,2,0.0,2,2.0,1.0,1,1.0,1,1,6,2
+UBCO,2019,W,CHEM,301,,OVERALL,Aqueous Environmental Chemistry,,19,72.315789474,20.066701638,96.0,16.0,2,0.0,2,2.0,1.0,1,1.0,1,1,6,2
+UBCO,2019,W,CHEM,302,,001,Atmospheric Environmental Chemistry,Karen Perry,23,66.0,18.032798401,100.0,28.0,3,3.0,2,1.0,2.0,2,4.0,1,2,1,2
+UBCO,2019,W,CHEM,302,,OVERALL,Atmospheric Environmental Chemistry,,23,66.0,18.032798401,100.0,28.0,3,3.0,2,1.0,2.0,2,4.0,1,2,1,2
+UBCO,2019,W,CHEM,304,,001,Advanced Physical Chemistry,David Jack,36,74.444444444,11.753283904,91.0,50.0,0,3.0,1,4.0,3.0,1,4.0,3,11,2,4
+UBCO,2019,W,CHEM,304,,OVERALL,Advanced Physical Chemistry,,36,74.444444444,11.753283904,91.0,50.0,0,3.0,1,4.0,3.0,1,4.0,3,11,2,4
+UBCO,2019,W,CHEM,305,,001,Biophysical Chemistry,David Jack,28,77.964285714,11.053680945,96.0,50.0,0,1.0,1,1.0,1.0,2,5.0,5,4,3,5
+UBCO,2019,W,CHEM,305,,OVERALL,Biophysical Chemistry,,28,77.964285714,11.053680945,96.0,50.0,0,1.0,1,1.0,1.0,2,5.0,5,4,3,5
+UBCO,2019,W,CHEM,311,,001,Instrumental Analytical Chemistry,Ben Noyovitz;Benjamin Noyovitz;Ieva Zigg;Taylor Gray;Wesley Zandberg,27,81.37037037,12.713252166,93.0,31.0,1,0.0,0,1.0,0.0,2,2.0,1,6,10,4
+UBCO,2019,W,CHEM,311,,OVERALL,Instrumental Analytical Chemistry,,27,81.37037037,12.713252166,93.0,31.0,1,0.0,0,1.0,0.0,2,2.0,1,6,10,4
+UBCO,2019,W,CHEM,312,,001,Introduction to Quantum Mechanics and Spectroscopy,David Jack,25,72.92,16.933497375,90.0,27.0,3,0.0,1,3.0,0.0,3,3.0,1,1,8,2
+UBCO,2019,W,CHEM,312,,OVERALL,Introduction to Quantum Mechanics and Spectroscopy,,25,72.92,16.933497375,90.0,27.0,3,0.0,1,3.0,0.0,3,3.0,1,1,8,2
+UBCO,2019,W,CHEM,317,,001,Environmental Physical Organic Chemistry,Jeffrey Therrien,28,77.107142857,8.314820707,92.0,54.0,0,1.0,0,0.0,3.0,1,4.0,10,3,5,1
+UBCO,2019,W,CHEM,317,,OVERALL,Environmental Physical Organic Chemistry,,28,77.107142857,8.314820707,92.0,54.0,0,1.0,0,0.0,3.0,1,4.0,10,3,5,1
+UBCO,2019,W,CHEM,330,,001,Advanced Organic Chemistry,Frederic Menard,34,78.823529412,12.164206281,98.0,34.0,1,1.0,0,0.0,2.0,4,3.0,0,12,8,3
+UBCO,2019,W,CHEM,330,,OVERALL,Advanced Organic Chemistry,,34,78.823529412,12.164206281,98.0,34.0,1,1.0,0,0.0,2.0,4,3.0,0,12,8,3
+UBCO,2019,W,CHEM,333,,001,Spectroscopic Techniques in Organic Chemistry,Edward Neeland,46,71.173913043,10.955068533,95.0,40.0,2,0.0,3,4.0,5.0,14,4.0,3,5,4,2
+UBCO,2019,W,CHEM,333,,OVERALL,Spectroscopic Techniques in Organic Chemistry,,46,71.173913043,10.955068533,95.0,40.0,2,0.0,3,4.0,5.0,14,4.0,3,5,4,2
+UBCO,2019,W,CHEM,335,,001,Bioinorganic Chemistry,Riley Petillion;W. Stephen Mcneil,29,76.724137931,10.813009862,90.0,47.0,1,0.0,1,2.0,1.0,2,4.0,3,6,6,3
+UBCO,2019,W,CHEM,335,,OVERALL,Bioinorganic Chemistry,,29,76.724137931,10.813009862,90.0,47.0,1,0.0,1,2.0,1.0,2,4.0,3,6,6,3
+UBCO,2019,W,CHEM,336,,101,Green Inorganic Chemistry,Kevin Michael Smith,16,68.3125,18.983216271,90.0,27.0,2,1.0,0,3.0,1.0,0,3.0,0,2,3,1
+UBCO,2019,W,CHEM,336,,OVERALL,Green Inorganic Chemistry,,16,68.3125,18.983216271,90.0,27.0,2,1.0,0,3.0,1.0,0,3.0,0,2,3,1
+UBCO,2019,W,CHEM,338,,001,Organometallic Chemistry,Kevin Michael Smith,22,67.090909091,14.128354101,91.0,31.0,2,1.0,2,6.0,0.0,2,2.0,3,1,2,1
+UBCO,2019,W,CHEM,338,,OVERALL,Organometallic Chemistry,,22,67.090909091,14.128354101,91.0,31.0,2,1.0,2,6.0,0.0,2,2.0,3,1,2,1
+UBCO,2019,W,CHEM,403,,101,Enzymology,Kirsten Wolthers;Paul Shipley,12,89.666666667,10.307396579,100.0,66.0,0,0.0,0,0.0,1.0,0,0.0,0,2,3,6
+UBCO,2019,W,CHEM,403,,OVERALL,Enzymology,,12,89.666666667,10.307396579,100.0,66.0,0,0.0,0,0.0,1.0,0,0.0,0,2,3,6
+UBCO,2019,W,CHEM,412,,001,Methods in Bioanalytical Chemistry,Wesley Zandberg,13,83.846153846,6.618737969,91.0,69.0,0,0.0,0,0.0,0.0,1,1.0,1,3,5,2
+UBCO,2019,W,CHEM,412,,OVERALL,Methods in Bioanalytical Chemistry,,13,83.846153846,6.618737969,91.0,69.0,0,0.0,0,0.0,0.0,1,1.0,1,3,5,2
+UBCO,2019,W,CHEM,449,,OVERALL,Honours Thesis,,6,88.833333333,2.994439291,92.0,85.0,0,0.0,0,0.0,0.0,0,0.0,0,0,,
 UBCO,2019,W,CHEM,461,,001,Advanced Analytical Chemistry Laboratory,Ben Noyovitz;Benjamin Noyovitz;Derek Riggs;Karen Perry;T. Don Nguyen;T.Don Nguyen,15,83.8,5.212622044,91.0,71.0,0,0.0,0,0.0,0.0,1,0.0,1,5,6,2
 UBCO,2019,W,CHEM,461,,OVERALL,Advanced Analytical Chemistry Laboratory,,15,83.8,5.212622044,91.0,71.0,0,0.0,0,0.0,0.0,1,0.0,1,5,6,2
-UBCO,2019,W,CHEM,464,,001,Advanced Physical and Biophysical Chemistry Laboratory,Robert Godin,6,84.16666667,6.794605704,92.0,76.0,0,0.0,0,0.0,0.0,0,0.0,2,1,1,2
-UBCO,2019,W,CHEM,464,,OVERALL,Advanced Physical and Biophysical Chemistry Laboratory,,6,84.16666667,6.794605704,92.0,76.0,0,0.0,0,0.0,0.0,0,0.0,2,1,1,2
+UBCO,2019,W,CHEM,464,,001,Advanced Physical and Biophysical Chemistry Laboratory,Robert Godin,6,84.166666667,6.794605704,92.0,76.0,0,0.0,0,0.0,0.0,0,0.0,2,1,1,2
+UBCO,2019,W,CHEM,464,,OVERALL,Advanced Physical and Biophysical Chemistry Laboratory,,6,84.166666667,6.794605704,92.0,76.0,0,0.0,0,0.0,0.0,0,0.0,2,1,1,2

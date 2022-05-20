@@ -1,14 +1,14 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2019,S,APSC,160,,921,Introduction to Computation in Engineering Design,Anahita Shojaei Hashemi;Faramarz Jabbarvaziri;Farshid Agharebparast;Junbin Zhang;Mohammad Arafat Hussain;Parisa Asgharzadeh;Seyedrazieh Bayati,89,71.8988764,14.15823318,96.0,31.0,8,7.0,6.0,3,2,10,9,9,16,15.0,4
-UBCV,2019,S,APSC,160,,OVERALL,Introduction to Computation in Engineering Design,,89,71.8988764,14.15823318,96.0,31.0,8,7.0,6.0,3,2,10,9,9,16,15.0,4
-UBCV,2019,S,APSC,176,,OVERALL,Engineering Communication,,68,70.19117647,12.99168202,91.0,0.0,1,1.0,9.0,6,10,9,6,9,13,2.0,2
-UBCV,2019,S,APSC,176,,VE1,Engineering Communication,Jannik Eikenaar;Lindsay Diehl,33,68.6969697,15.89710046,91.0,0.0,1,1.0,4.0,3,4,6,4,2,6,0.0,2
+UBCV,2019,S,APSC,160,,921,Introduction to Computation in Engineering Design,Anahita Shojaei Hashemi;Faramarz Jabbarvaziri;Farshid Agharebparast;Junbin Zhang;Mohammad Arafat Hussain;Parisa Asgharzadeh;Seyedrazieh Bayati,89,71.898876404,14.158233184,96.0,31.0,8,7.0,6.0,3,2,10,9,9,16,15.0,4
+UBCV,2019,S,APSC,160,,OVERALL,Introduction to Computation in Engineering Design,,89,71.898876404,14.158233184,96.0,31.0,8,7.0,6.0,3,2,10,9,9,16,15.0,4
+UBCV,2019,S,APSC,176,,OVERALL,Engineering Communication,,67,71.23880597,9.776424258,91.0,50.0,0,1.0,9.0,6,10,9,6,9,13,2.0,2
+UBCV,2019,S,APSC,176,,VE1,Engineering Communication,Jannik Eikenaar;Lindsay Diehl,32,70.84375,10.192056917,91.0,50.0,0,1.0,4.0,3,4,6,4,2,6,0.0,2
 UBCV,2019,S,APSC,176,,VE2,Engineering Communication,Lindsay Diehl;Natalie Forssman,35,71.6,9.515312736,87.0,55.0,0,0.0,5.0,3,6,3,2,7,7,2.0,0
-UBCV,2019,S,APSC,179,,OVERALL,Linear Algebra for Engineers,,68,80.11764706,15.64678157,100.0,0.0,3,0.0,1.0,1,5,3,4,10,12,11.0,18
-UBCV,2019,S,APSC,179,,VE1,Linear Algebra for Engineers,Mehran Shirazi,68,80.11764706,15.64678157,100.0,0.0,3,0.0,1.0,1,5,3,4,10,12,11.0,18
-UBCV,2019,S,APSC,180,,OVERALL,Statics,,68,74.69117647,16.38005463,95.0,0.0,4,1.0,5.0,2,5,5,13,5,7,9.0,12
-UBCV,2019,S,APSC,180,,VE1,Statics,Ahmad Rahmzadeh Gharehghanat;Peyman Yousefi;Seach Chyr Goh,68,74.69117647,16.38005463,95.0,0.0,4,1.0,5.0,2,5,5,13,5,7,9.0,12
-UBCV,2019,S,APSC,201,,921,Technical Communication,Randall Kerr,19,64.78947368,13.64868308,86.0,40.0,3,2.0,0.0,1,3,3,4,1,1,1.0,0
-UBCV,2019,S,APSC,201,,OVERALL,Technical Communication,,19,64.78947368,13.64868308,86.0,40.0,3,2.0,0.0,1,3,3,4,1,1,1.0,0
-UBCV,2019,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,18,81.27777778,9.215112623,90.0,55.0,0,0.0,1.0,0,1,1,0,1,3,9.0,2
-UBCV,2019,S,APSC,461,,OVERALL,Global Engineering Leadership,,18,81.27777778,9.215112623,90.0,55.0,0,0.0,1.0,0,1,1,0,1,3,9.0,2
+UBCV,2019,S,APSC,179,,OVERALL,Linear Algebra for Engineers,,67,81.313432836,12.240282423,100.0,36.0,2,0.0,1.0,1,5,3,4,10,12,11.0,18
+UBCV,2019,S,APSC,179,,VE1,Linear Algebra for Engineers,Mehran Shirazi,67,81.313432836,12.240282423,100.0,36.0,2,0.0,1.0,1,5,3,4,10,12,11.0,18
+UBCV,2019,S,APSC,180,,OVERALL,Statics,,67,75.805970149,13.659538576,95.0,28.0,3,1.0,5.0,2,5,5,13,5,7,9.0,12
+UBCV,2019,S,APSC,180,,VE1,Statics,Ahmad Rahmzadeh Gharehghanat;Peyman Yousefi;Seach Chyr Goh,67,75.805970149,13.659538576,95.0,28.0,3,1.0,5.0,2,5,5,13,5,7,9.0,12
+UBCV,2019,S,APSC,201,,921,Technical Communication,Randall Kerr,19,64.789473684,13.648683076,86.0,40.0,3,2.0,0.0,1,3,3,4,1,1,1.0,0
+UBCV,2019,S,APSC,201,,OVERALL,Technical Communication,,19,64.789473684,13.648683076,86.0,40.0,3,2.0,0.0,1,3,3,4,1,1,1.0,0
+UBCV,2019,S,APSC,461,,101,Global Engineering Leadership,Paul Winkelman,18,81.277777778,9.215112623,90.0,55.0,0,0.0,1.0,0,1,1,0,1,3,9.0,2
+UBCV,2019,S,APSC,461,,OVERALL,Global Engineering Leadership,,18,81.277777778,9.215112623,90.0,55.0,0,0.0,1.0,0,1,1,0,1,3,9.0,2

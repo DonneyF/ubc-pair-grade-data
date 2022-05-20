@@ -1,81 +1,93 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,MINE,224,,101,Mineralogy for Mining Engineering,Maria Holuszko;Natalia Martino Rivero,16,71.4375,10.09269538,90.0,55.0,0,0,3,0.0,2.0,2.0,3,4.0,0,1,1
-UBCV,2020,W,MINE,224,,OVERALL,Mineralogy for Mining Engineering,,16,71.4375,10.09269538,90.0,55.0,0,0,3,0.0,2.0,2.0,3,4.0,0,1,1
-UBCV,2020,W,MINE,291,,101,Introduction to Mining,Davide Elmo;Retsepile Sello;W Scott Dunbar,18,80.0,6.987383588,91.0,64.0,0,0,0,0.0,1.0,0.0,4,3.0,5,4,1
-UBCV,2020,W,MINE,291,,OVERALL,Introduction to Mining,,18,80.0,6.987383588,91.0,64.0,0,0,0,0.0,1.0,0.0,4,3.0,5,4,1
-UBCV,2020,W,MINE,292,,201,Introduction to Mineral Processing,Bern Klein;Giovanni Pamparana Manns;Mahir Cetin,17,64.82352941,10.71934754,84.0,44.0,1,2,2,1.0,5.0,2.0,2,0.0,2,0,0
-UBCV,2020,W,MINE,292,,OVERALL,Introduction to Mineral Processing,,17,64.82352941,10.71934754,84.0,44.0,1,2,2,1.0,5.0,2.0,2,0.0,2,0,0
-UBCV,2020,W,MINE,293,,101,Seminar,Bruce Gavin Marshall;Bruce Marshall;Malcolm Scoble;Michael Schoen,16,88.9375,8.590450124,99.0,71.0,0,0,0,0.0,0.0,1.0,1,0.0,2,3,9
-UBCV,2020,W,MINE,293,,OVERALL,Seminar,,16,88.9375,8.590450124,99.0,71.0,0,0,0,0.0,0.0,1.0,1,0.0,2,3,9
-UBCV,2020,W,MINE,302,,201,Underground Mining and Design,Davide Elmo;Mahdi Rabiei;Shervin Teymouri,22,76.63636364,10.91327481,92.0,50.0,0,1,0,1.0,4.0,0.0,2,3.0,6,3,2
-UBCV,2020,W,MINE,302,,OVERALL,Underground Mining and Design,,22,76.63636364,10.91327481,92.0,50.0,0,1,0,1.0,4.0,0.0,2,3.0,6,3,2
-UBCV,2020,W,MINE,303,,201,Rock Mechanics Fundamentals,Davide Elmo;Jose Lopes Da Costa;Matthew King;Sanja Miskovic;Tiara Shapka-Fels,53,78.8490566,8.124976276,93.0,60.0,0,0,0,2.0,3.0,7.0,6,4.0,14,14,3
-UBCV,2020,W,MINE,303,,OVERALL,Rock Mechanics Fundamentals,,53,78.8490566,8.124976276,93.0,60.0,0,0,0,2.0,3.0,7.0,6,4.0,14,14,3
-UBCV,2020,W,MINE,304,,201,Rock Fragmentation,Shervin Teymouri;Yaniv Fogel,24,73.875,10.14808828,89.0,54.0,0,1,2,1.0,2.0,1.0,4,3.0,8,2,0
-UBCV,2020,W,MINE,304,,OVERALL,Rock Fragmentation,,24,73.875,10.14808828,89.0,54.0,0,1,2,1.0,2.0,1.0,4,3.0,8,2,0
-UBCV,2020,W,MINE,310,,101,Surface Mining and Design,Andrea Arduini;Carlos Ballesteros Pe���A;Shervin Teymouri,25,76.36,6.102458521,86.0,62.0,0,0,0,1.0,0.0,6.0,3,5.0,6,4,0
-UBCV,2020,W,MINE,310,,OVERALL,Surface Mining and Design,,25,76.36,6.102458521,86.0,62.0,0,0,0,1.0,0.0,6.0,3,5.0,6,4,0
-UBCV,2020,W,MINE,331,,101,Physical Mineral Processes,Juan Aguirre;Sanja Miskovic,27,77.81481482,13.82872439,97.0,34.0,1,0,2,0.0,3.0,1.0,2,6.0,3,4,5
-UBCV,2020,W,MINE,331,,OVERALL,Physical Mineral Processes,,27,77.81481482,13.82872439,97.0,34.0,1,0,2,0.0,3.0,1.0,2,6.0,3,4,5
-UBCV,2020,W,MINE,333,,201,Flotation,Hiten Sulakh;Marek Pawlik,22,71.59090909,12.98225562,92.0,50.0,0,3,3,0.0,2.0,3.0,2,1.0,5,0,3
-UBCV,2020,W,MINE,333,,OVERALL,Flotation,,22,71.59090909,12.98225562,92.0,50.0,0,3,3,0.0,2.0,3.0,2,1.0,5,0,3
-UBCV,2020,W,MINE,350,,101,Modelling and Simulation,Sajjan Pokhrel;W Scott Dunbar,21,70.33333333,8.217866714,85.0,50.0,0,1,1,2.0,3.0,5.0,4,2.0,2,1,0
-UBCV,2020,W,MINE,350,,OVERALL,Modelling and Simulation,,21,70.33333333,8.217866714,85.0,50.0,0,1,1,2.0,3.0,5.0,4,2.0,2,1,0
-UBCV,2020,W,MINE,393,,201,Seminar,Michael Schoen,17,87.29411765,10.29420168,99.0,63.0,0,0,0,1.0,0.0,0.0,2,1.0,0,6,7
-UBCV,2020,W,MINE,393,,OVERALL,Seminar,,17,87.29411765,10.29420168,99.0,63.0,0,0,0,1.0,0.0,0.0,2,1.0,0,6,7
-UBCV,2020,W,MINE,396,,101,Engineering Economics,Ayse Tugba Cebeci;Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,60,79.15,7.644262277,92.0,61.0,0,0,0,1.0,4.0,5.0,11,8.0,15,12,4
-UBCV,2020,W,MINE,396,,OVERALL,Engineering Economics,,60,79.15,7.644262277,92.0,61.0,0,0,0,1.0,4.0,5.0,11,8.0,15,12,4
-UBCV,2020,W,MINE,402,,101,Mine Ventilation and Occupational Health and Safety,Ali Kuyuk;Ilija Miskovic;Seyed Ghoreishi-Madiseh,34,78.61764706,7.575937609,86.0,52.0,0,1,1,0.0,0.0,2.0,3,6.0,17,4,0
-UBCV,2020,W,MINE,402,,OVERALL,Mine Ventilation and Occupational Health and Safety,,34,78.61764706,7.575937609,86.0,52.0,0,1,1,0.0,0.0,2.0,3,6.0,17,4,0
-UBCV,2020,W,MINE,403,,201,Rock Mechanics Design,Davide Elmo;Enayat Bozorgebrahimi;Matthew King,25,80.12,7.704544114,93.0,64.0,0,0,0,0.0,2.0,0.0,6,3.0,6,4,4
-UBCV,2020,W,MINE,403,,OVERALL,Rock Mechanics Design,,25,80.12,7.704544114,93.0,64.0,0,0,0,0.0,2.0,0.0,6,3.0,6,4,4
-UBCV,2020,W,MINE,404,,201,Mine Management,John Thomas Steen;Retsepile Sello,50,86.28,6.966508803,96.0,69.0,0,0,0,0.0,0.0,2.0,4,3.0,7,16,18
-UBCV,2020,W,MINE,404,,OVERALL,Mine Management,,50,86.28,6.966508803,96.0,69.0,0,0,0,0.0,0.0,2.0,4,3.0,7,16,18
-UBCV,2020,W,MINE,406,,201,Mine Project Valuation and Risk Assessment,Ayse Tugba Cebeci;Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,14,82.07142857,2.894671118,86.0,77.0,0,0,0,0.0,0.0,0.0,0,3.0,8,3,0
-UBCV,2020,W,MINE,406,,OVERALL,Mine Project Valuation and Risk Assessment,,14,82.07142857,2.894671118,86.0,77.0,0,0,0,0.0,0.0,0.0,0,3.0,8,3,0
-UBCV,2020,W,MINE,420,,201,Applied Geostatistics,Ilija Miskovic;Obada Alhumsi,17,84.17647059,11.62021565,95.0,50.0,0,1,0,0.0,0.0,0.0,2,2.0,2,2,8
-UBCV,2020,W,MINE,420,,OVERALL,Applied Geostatistics,,17,84.17647059,11.62021565,95.0,50.0,0,1,0,0.0,0.0,0.0,2,2.0,2,2,8
-UBCV,2020,W,MINE,432,,101,Mineral Process Control,Ilija Miskovic;Obada Alhumsi,36,85.16666667,10.69979973,100.0,57.0,0,0,2,2.0,0.0,0.0,1,1.0,9,3,18
-UBCV,2020,W,MINE,432,,OVERALL,Mineral Process Control,,36,85.16666667,10.69979973,100.0,57.0,0,0,2,2.0,0.0,0.0,1,1.0,9,3,18
-UBCV,2020,W,MINE,434,,201,Processing Precious Metal Ores,Bern Klein;Giovanni Pamparana Manns;Mahir Cetin,12,73.83333333,10.20546497,88.0,57.0,0,0,2,0.0,1.0,2.0,1,3.0,1,2,0
-UBCV,2020,W,MINE,434,,OVERALL,Processing Precious Metal Ores,,12,73.83333333,10.20546497,88.0,57.0,0,0,2,0.0,1.0,2.0,1,3.0,1,2,0
-UBCV,2020,W,MINE,455,,201,Mine Water Management,Gabriel Castillo Devoto;Nadja Kunz;Sally Innis,66,79.15151515,7.948376562,95.0,60.0,0,0,0,3.0,4.0,5.0,9,9.0,17,14,5
-UBCV,2020,W,MINE,455,,OVERALL,Mine Water Management,,66,79.15151515,7.948376562,95.0,60.0,0,0,0,3.0,4.0,5.0,9,9.0,17,14,5
-UBCV,2020,W,MINE,462,,101,Coal Preparation Technology,Hamid Alizadeh;Marek Pawlik,10,73.2,14.13270439,88.0,41.0,1,0,0,1.0,0.0,1.0,2,1.0,2,2,0
-UBCV,2020,W,MINE,462,,OVERALL,Coal Preparation Technology,,10,73.2,14.13270439,88.0,41.0,1,0,0,1.0,0.0,1.0,2,1.0,2,2,0
-UBCV,2020,W,MINE,465,,101,Materials Handling,Ali Kuyuk;Hossein Kalantari Bolaghi;Mahdi Rabiei;Malcolm Maclachlan;Seyed Ghoreishi-Madiseh,73,75.60273973,9.322523094,92.0,57.0,0,0,2,8.0,7.0,9.0,9,8.0,12,16,2
-UBCV,2020,W,MINE,465,,OVERALL,Materials Handling,,73,75.60273973,9.322523094,92.0,57.0,0,0,2,8.0,7.0,9.0,9,8.0,12,16,2
-UBCV,2020,W,MINE,480,,201,Mine Waste Management,Caius Priscu;Dirk Van Zyl;Yuan Li,41,79.95121951,6.292659293,93.0,58.0,0,0,1,0.0,0.0,2.0,2,15.0,10,10,1
-UBCV,2020,W,MINE,480,,OVERALL,Mine Waste Management,,41,79.95121951,6.292659293,93.0,58.0,0,0,1,0.0,0.0,2.0,2,15.0,10,10,1
-UBCV,2020,W,MINE,486,,201,Mining and The Environment,Bruce Gavin Marshall;Bruce Marshall;Durjoy Baidya;Marcello Veiga;Mark Edwards;Mohammad Amin Shadi Diznab,80,81.9625,5.628687258,94.0,64.0,0,0,0,0.0,1.0,1.0,10,8.0,28,25,7
-UBCV,2020,W,MINE,486,,OVERALL,Mining and The Environment,,80,81.9625,5.628687258,94.0,64.0,0,0,0,0.0,1.0,1.0,10,8.0,28,25,7
-UBCV,2020,W,MINE,491,,001,Mine and Plant Engineering Design Feasibility Study,Andrea Arduini;Bern Klein;Chaitrali Ghodke;Sonia D'Ambra,34,79.44117647,13.70731098,100.0,50.0,0,1,2,1.0,3.0,2.0,3,5.0,3,3,11
-UBCV,2020,W,MINE,491,,OVERALL,Mine and Plant Engineering Design Feasibility Study,,34,79.44117647,13.70731098,100.0,50.0,0,1,2,1.0,3.0,2.0,3,5.0,3,3,11
-UBCV,2020,W,MINE,493,,001,Seminar,Malcolm Scoble;Marcello Veiga;Morteza Mohieddin Ghomshei;Sanja Miskovic;W Scott Dunbar,32,85.625,5.868175515,91.0,76.0,0,0,0,0.0,0.0,0.0,0,6.0,4,4,18
-UBCV,2020,W,MINE,493,,OVERALL,Seminar,,32,85.625,5.868175515,91.0,76.0,0,0,0,0.0,0.0,0.0,0,6.0,4,4,18
-UBCV,2020,W,MINE,504,,201,Rock Fragmentation,Shervin Teymouri,11,80.45454546,9.309818864,94.0,68.0,0,0,0,0.0,0.0,2.0,3,0.0,2,2,2
-UBCV,2020,W,MINE,504,,OVERALL,Rock Fragmentation,,11,80.45454546,9.309818864,94.0,68.0,0,0,0,0.0,0.0,2.0,3,0.0,2,2,2
-UBCV,2020,W,MINE,505,,101,Advanced Topics in Rock Engineering,Davide Elmo,10,89.0,2.494438258,92.0,86.0,0,0,0,0.0,0.0,0.0,0,0.0,0,5,5
-UBCV,2020,W,MINE,505,,OVERALL,Advanced Topics in Rock Engineering,,10,89.0,2.494438258,92.0,86.0,0,0,0,0.0,0.0,0.0,0,0.0,0,5,5
-UBCV,2020,W,MINE,506,,201,Mining Methods,Malcolm Scoble;Shervin Teymouri,10,73.0,8.956685895,85.0,60.0,0,0,0,2.0,2.0,0.0,2,0.0,3,1,0
-UBCV,2020,W,MINE,506,,OVERALL,Mining Methods,,10,73.0,8.956685895,85.0,60.0,0,0,0,2.0,2.0,0.0,2,0.0,3,1,0
-UBCV,2020,W,MINE,507,,201,Block Caving Systems,Allan Moss;Andrea Arduini;Edward Chessor,15,86.8,6.603029608,95.0,69.0,0,0,0,0.0,0.0,1.0,0,0.0,2,8,4
-UBCV,2020,W,MINE,507,,OVERALL,Block Caving Systems,,15,86.8,6.603029608,95.0,69.0,0,0,0,0.0,0.0,1.0,0,0.0,2,8,4
-UBCV,2020,W,MINE,509,,101,Mine Ventilation,Ali Kuyuk;Seyed Ghoreishi-Madiseh,6,79.0,4.0,84.0,72.0,0,0,0,0.0,0.0,0.0,1,2.0,3,0,0
-UBCV,2020,W,MINE,509,,OVERALL,Mine Ventilation,,6,79.0,4.0,84.0,72.0,0,0,0,0.0,0.0,0.0,1,2.0,3,0,0
-UBCV,2020,W,MINE,541,,201,Environmental Risk Assessments in Relation to Mining,Bern Klein;Bruce Marshall;Marcello Veiga,10,86.2,4.984420171,91.0,73.0,0,0,0,0.0,0.0,0.0,1,0.0,0,7,2
-UBCV,2020,W,MINE,541,,OVERALL,Environmental Risk Assessments in Relation to Mining,,10,86.2,4.984420171,91.0,73.0,0,0,0,0.0,0.0,0.0,1,0.0,0,7,2
-UBCV,2020,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,14,82.28571429,3.291681156,86.0,76.0,0,0,0,0.0,0.0,0.0,0,2.0,7,5,0
-UBCV,2020,W,MINE,554,,OVERALL,Mine Economics and Finance,,14,82.28571429,3.291681156,86.0,76.0,0,0,0,0.0,0.0,0.0,0,2.0,7,5,0
-UBCV,2020,W,MINE,555,,101,Mining and Society,Marcello Veiga,14,95.07142857,0.615727926,96.0,94.0,0,0,0,0.0,0.0,0.0,0,0.0,0,0,14
-UBCV,2020,W,MINE,555,,OVERALL,Mining and Society,,14,95.07142857,0.615727926,96.0,94.0,0,0,0,0.0,0.0,0.0,0,0.0,0,0,14
-UBCV,2020,W,MINE,559,,101,Indigenous Peoples and Mining in Canada,Justin Himmelright,39,83.71794872,7.986662296,96.0,60.0,0,0,0,1.0,0.0,2.0,3,5.0,7,12,9
-UBCV,2020,W,MINE,559,,OVERALL,Indigenous Peoples and Mining in Canada,,39,83.71794872,7.986662296,96.0,60.0,0,0,0,1.0,0.0,2.0,3,5.0,7,12,9
-UBCV,2020,W,MINE,590,E,201,Special Advanced Topics,John Thomas Steen,10,85.4,6.16801787,91.0,71.0,0,0,0,0.0,0.0,1.0,0,0.0,2,4,3
-UBCV,2020,W,MINE,590,E,OVERALL,Special Advanced Topics,,10,85.4,6.16801787,91.0,71.0,0,0,0,0.0,0.0,1.0,0,0.0,2,4,3
-UBCV,2020,W,MINE,590,X,201,Special Advanced Topics,Nadja Kunz,6,84.33333333,4.760952286,89.0,77.0,0,0,0,0.0,0.0,0.0,0,1.0,1,4,0
-UBCV,2020,W,MINE,590,X,OVERALL,Special Advanced Topics,,6,84.33333333,4.760952286,89.0,77.0,0,0,0,0.0,0.0,0.0,0,1.0,1,4,0
-UBCV,2020,W,MINE,597,,101,Engineering Project,,8,86.25,4.920801328,94.0,80.0,0,0,0,0.0,0.0,0.0,0,0.0,2,3,3
-UBCV,2020,W,MINE,597,,OVERALL,Engineering Project,,13,87.61538462,4.752866881,95.0,80.0,0,0,0,0.0,0.0,0.0,0,0.0,2,5,6
-UBCV,2020,W,MINE,598,,OVERALL,Seminar,,8,89.5,2.267786838,94.0,87.0,0,0,0,0.0,0.0,0.0,0,0.0,0,,
-UBCV,2020,W,MINE,599,C,OVERALL,M.A.Sc. Thesis,,6,91.16666667,4.996665555,95.0,82.0,0,0,0,0.0,0.0,0.0,0,0.0,,,
+UBCV,2020,W,MINE,224,,101,Mineralogy for Mining Engineering,Maria Holuszko;Natalia Martino Rivero,16,71.4375,10.092695378,90.0,55.0,0,0,3,0.0,2.0,2.0,3.0,4.0,0.0,1,1
+UBCV,2020,W,MINE,224,,OVERALL,Mineralogy for Mining Engineering,,16,71.4375,10.092695378,90.0,55.0,0,0,3,0.0,2.0,2.0,3.0,4.0,0.0,1,1
+UBCV,2020,W,MINE,291,,101,Introduction to Mining,Davide Elmo;Retsepile Sello;W Scott Dunbar,18,80.0,6.987383588,91.0,64.0,0,0,0,0.0,1.0,0.0,4.0,3.0,5.0,4,1
+UBCV,2020,W,MINE,291,,OVERALL,Introduction to Mining,,18,80.0,6.987383588,91.0,64.0,0,0,0,0.0,1.0,0.0,4.0,3.0,5.0,4,1
+UBCV,2020,W,MINE,292,,201,Introduction to Mineral Processing,Bern Klein;Giovanni Pamparana Manns;Mahir Cetin,17,64.823529412,10.719347544,84.0,44.0,1,2,2,1.0,5.0,2.0,2.0,0.0,2.0,0,0
+UBCV,2020,W,MINE,292,,OVERALL,Introduction to Mineral Processing,,17,64.823529412,10.719347544,84.0,44.0,1,2,2,1.0,5.0,2.0,2.0,0.0,2.0,0,0
+UBCV,2020,W,MINE,293,,101,Seminar,Bruce Gavin Marshall;Bruce Marshall;Malcolm Scoble;Michael Schoen,16,88.9375,8.590450124,99.0,71.0,0,0,0,0.0,0.0,1.0,1.0,0.0,2.0,3,9
+UBCV,2020,W,MINE,293,,OVERALL,Seminar,,16,88.9375,8.590450124,99.0,71.0,0,0,0,0.0,0.0,1.0,1.0,0.0,2.0,3,9
+UBCV,2020,W,MINE,302,,201,Underground Mining and Design,Mahdi Rabiei;Shervin Teymouri,22,76.636363636,10.913274811,92.0,50.0,0,1,0,1.0,4.0,0.0,2.0,3.0,6.0,3,2
+UBCV,2020,W,MINE,302,,OVERALL,Underground Mining and Design,,22,76.636363636,10.913274811,92.0,50.0,0,1,0,1.0,4.0,0.0,2.0,3.0,6.0,3,2
+UBCV,2020,W,MINE,303,,201,Rock Mechanics Fundamentals,Davide Elmo;Jose Lopes Da Costa;Matthew King;Sanja Miskovic;Tiara Shapka-Fels,53,78.849056604,8.124976276,93.0,60.0,0,0,0,2.0,3.0,7.0,6.0,4.0,14.0,14,3
+UBCV,2020,W,MINE,303,,OVERALL,Rock Mechanics Fundamentals,,53,78.849056604,8.124976276,93.0,60.0,0,0,0,2.0,3.0,7.0,6.0,4.0,14.0,14,3
+UBCV,2020,W,MINE,304,,201,Rock Fragmentation,Shervin Teymouri;Yaniv Fogel,24,73.875,10.148088276,89.0,54.0,0,1,2,1.0,2.0,1.0,4.0,3.0,8.0,2,0
+UBCV,2020,W,MINE,304,,OVERALL,Rock Fragmentation,,24,73.875,10.148088276,89.0,54.0,0,1,2,1.0,2.0,1.0,4.0,3.0,8.0,2,0
+UBCV,2020,W,MINE,310,,101,Surface Mining and Design,Andrea Arduini;Carlos Ballesteros Pe�A;Carlos Ballesteros Pe���A;Shervin Teymouri,25,76.36,6.102458521,86.0,62.0,0,0,0,1.0,0.0,6.0,3.0,5.0,6.0,4,0
+UBCV,2020,W,MINE,310,,OVERALL,Surface Mining and Design,,25,76.36,6.102458521,86.0,62.0,0,0,0,1.0,0.0,6.0,3.0,5.0,6.0,4,0
+UBCV,2020,W,MINE,331,,101,Physical Mineral Processes,Juan Aguirre;Sanja Miskovic,27,77.814814815,13.828724389,97.0,34.0,1,0,2,0.0,3.0,1.0,2.0,6.0,3.0,4,5
+UBCV,2020,W,MINE,331,,OVERALL,Physical Mineral Processes,,27,77.814814815,13.828724389,97.0,34.0,1,0,2,0.0,3.0,1.0,2.0,6.0,3.0,4,5
+UBCV,2020,W,MINE,333,,201,Flotation,Hiten Sulakh;Marek Pawlik,22,71.590909091,12.982255622,92.0,50.0,0,3,3,0.0,2.0,3.0,2.0,1.0,5.0,0,3
+UBCV,2020,W,MINE,333,,OVERALL,Flotation,,22,71.590909091,12.982255622,92.0,50.0,0,3,3,0.0,2.0,3.0,2.0,1.0,5.0,0,3
+UBCV,2020,W,MINE,350,,101,Modelling and Simulation,Sajjan Pokhrel;W Scott Dunbar,21,70.333333333,8.217866714,85.0,50.0,0,1,1,2.0,3.0,5.0,4.0,2.0,2.0,1,0
+UBCV,2020,W,MINE,350,,OVERALL,Modelling and Simulation,,21,70.333333333,8.217866714,85.0,50.0,0,1,1,2.0,3.0,5.0,4.0,2.0,2.0,1,0
+UBCV,2020,W,MINE,393,,201,Seminar,Michael Schoen,17,87.294117647,10.29420168,99.0,63.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0.0,6,7
+UBCV,2020,W,MINE,393,,OVERALL,Seminar,,17,87.294117647,10.29420168,99.0,63.0,0,0,0,1.0,0.0,0.0,2.0,1.0,0.0,6,7
+UBCV,2020,W,MINE,396,,101,Engineering Economics,Ayse Tugba Cebeci;Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,60,79.15,7.644262277,92.0,61.0,0,0,0,1.0,4.0,5.0,11.0,8.0,15.0,12,4
+UBCV,2020,W,MINE,396,,OVERALL,Engineering Economics,,60,79.15,7.644262277,92.0,61.0,0,0,0,1.0,4.0,5.0,11.0,8.0,15.0,12,4
+UBCV,2020,W,MINE,402,,101,Mine Ventilation and Occupational Health and Safety,Ali Kuyuk;Ilija Miskovic;Seyed Ghoreishi-Madiseh,34,78.617647059,7.575937609,86.0,52.0,0,1,1,0.0,0.0,2.0,3.0,6.0,17.0,4,0
+UBCV,2020,W,MINE,402,,OVERALL,Mine Ventilation and Occupational Health and Safety,,34,78.617647059,7.575937609,86.0,52.0,0,1,1,0.0,0.0,2.0,3.0,6.0,17.0,4,0
+UBCV,2020,W,MINE,403,,201,Rock Mechanics Design,Davide Elmo;Enayat Bozorgebrahimi;Matthew King,25,80.12,7.704544114,93.0,64.0,0,0,0,0.0,2.0,0.0,6.0,3.0,6.0,4,4
+UBCV,2020,W,MINE,403,,OVERALL,Rock Mechanics Design,,25,80.12,7.704544114,93.0,64.0,0,0,0,0.0,2.0,0.0,6.0,3.0,6.0,4,4
+UBCV,2020,W,MINE,404,,201,Mine Management,John Thomas Steen;Retsepile Sello,50,86.28,6.966508803,96.0,69.0,0,0,0,0.0,0.0,2.0,4.0,3.0,7.0,16,18
+UBCV,2020,W,MINE,404,,OVERALL,Mine Management,,50,86.28,6.966508803,96.0,69.0,0,0,0,0.0,0.0,2.0,4.0,3.0,7.0,16,18
+UBCV,2020,W,MINE,406,,201,Mine Project Valuation and Risk Assessment,Ayse Tugba Cebeci;Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,14,82.071428571,2.894671118,86.0,77.0,0,0,0,0.0,0.0,0.0,0.0,3.0,8.0,3,0
+UBCV,2020,W,MINE,406,,OVERALL,Mine Project Valuation and Risk Assessment,,14,82.071428571,2.894671118,86.0,77.0,0,0,0,0.0,0.0,0.0,0.0,3.0,8.0,3,0
+UBCV,2020,W,MINE,420,,201,Applied Geostatistics,Ilija Miskovic;Obada Alhumsi,17,84.176470588,11.620215651,95.0,50.0,0,1,0,0.0,0.0,0.0,2.0,2.0,2.0,2,8
+UBCV,2020,W,MINE,420,,OVERALL,Applied Geostatistics,,17,84.176470588,11.620215651,95.0,50.0,0,1,0,0.0,0.0,0.0,2.0,2.0,2.0,2,8
+UBCV,2020,W,MINE,432,,101,Mineral Process Control,Ilija Miskovic;Obada Alhumsi,36,85.166666667,10.699799731,100.0,57.0,0,0,2,2.0,0.0,0.0,1.0,1.0,9.0,3,18
+UBCV,2020,W,MINE,432,,OVERALL,Mineral Process Control,,36,85.166666667,10.699799731,100.0,57.0,0,0,2,2.0,0.0,0.0,1.0,1.0,9.0,3,18
+UBCV,2020,W,MINE,434,,201,Processing Precious Metal Ores,Bern Klein;Giovanni Pamparana Manns;Mahir Cetin,12,73.833333333,10.205464965,88.0,57.0,0,0,2,0.0,1.0,2.0,1.0,3.0,1.0,2,0
+UBCV,2020,W,MINE,434,,OVERALL,Processing Precious Metal Ores,,12,73.833333333,10.205464965,88.0,57.0,0,0,2,0.0,1.0,2.0,1.0,3.0,1.0,2,0
+UBCV,2020,W,MINE,455,,201,Mine Water Management,Gabriel Castillo Devoto;Nadja Kunz;Sally Innis,66,79.151515152,7.948376562,95.0,60.0,0,0,0,3.0,4.0,5.0,9.0,9.0,17.0,14,5
+UBCV,2020,W,MINE,455,,OVERALL,Mine Water Management,,66,79.151515152,7.948376562,95.0,60.0,0,0,0,3.0,4.0,5.0,9.0,9.0,17.0,14,5
+UBCV,2020,W,MINE,462,,101,Coal Preparation Technology,Hamid Alizadeh;Marek Pawlik,10,73.2,14.132704389,88.0,41.0,1,0,0,1.0,0.0,1.0,2.0,1.0,2.0,2,0
+UBCV,2020,W,MINE,462,,OVERALL,Coal Preparation Technology,,10,73.2,14.132704389,88.0,41.0,1,0,0,1.0,0.0,1.0,2.0,1.0,2.0,2,0
+UBCV,2020,W,MINE,465,,101,Materials Handling,Ali Kuyuk;Hossein Kalantari Bolaghi;Mahdi Rabiei;Malcolm Maclachlan;Seyed Ghoreishi-Madiseh,73,75.602739726,9.322523094,92.0,57.0,0,0,2,8.0,7.0,9.0,9.0,8.0,12.0,16,2
+UBCV,2020,W,MINE,465,,OVERALL,Materials Handling,,73,75.602739726,9.322523094,92.0,57.0,0,0,2,8.0,7.0,9.0,9.0,8.0,12.0,16,2
+UBCV,2020,W,MINE,480,,201,Mine Waste Management,Caius Priscu;Yuan Li,41,79.951219512,6.292659293,93.0,58.0,0,0,1,0.0,0.0,2.0,2.0,15.0,10.0,10,1
+UBCV,2020,W,MINE,480,,OVERALL,Mine Waste Management,,41,79.951219512,6.292659293,93.0,58.0,0,0,1,0.0,0.0,2.0,2.0,15.0,10.0,10,1
+UBCV,2020,W,MINE,486,,201,Mining and The Environment,Bruce Gavin Marshall;Bruce Marshall;Durjoy Baidya;Marcello Veiga;Mark Edwards;Mohammad Amin Shadi Diznab,80,81.9625,5.628687258,94.0,64.0,0,0,0,0.0,1.0,1.0,10.0,8.0,28.0,25,7
+UBCV,2020,W,MINE,486,,OVERALL,Mining and The Environment,,80,81.9625,5.628687258,94.0,64.0,0,0,0,0.0,1.0,1.0,10.0,8.0,28.0,25,7
+UBCV,2020,W,MINE,491,,001,Mine and Plant Engineering Design Feasibility Study,Andrea Arduini;Bern Klein;Chaitrali Ghodke;Sonia D'Ambra,34,79.441176471,13.707310981,100.0,50.0,0,1,2,1.0,3.0,2.0,3.0,5.0,3.0,3,11
+UBCV,2020,W,MINE,491,,OVERALL,Mine and Plant Engineering Design Feasibility Study,,34,79.441176471,13.707310981,100.0,50.0,0,1,2,1.0,3.0,2.0,3.0,5.0,3.0,3,11
+UBCV,2020,W,MINE,493,,001,Seminar,Malcolm Scoble;Marcello Veiga;Morteza Mohieddin Ghomshei;Sanja Miskovic;W Scott Dunbar,32,85.625,5.868175515,91.0,76.0,0,0,0,0.0,0.0,0.0,0.0,6.0,4.0,4,18
+UBCV,2020,W,MINE,493,,OVERALL,Seminar,,32,85.625,5.868175515,91.0,76.0,0,0,0,0.0,0.0,0.0,0.0,6.0,4.0,4,18
+UBCV,2020,W,MINE,501,A,101,Topics for Engineers in the Mining Industry,Carmen Jensen;Carmen Lynne Jensen,23,88.391304348,4.98852438,96.0,77.0,0,0,0,0.0,0.0,0.0,0.0,3.0,0.0,10,10
+UBCV,2020,W,MINE,501,A,OVERALL,Topics for Engineers in the Mining Industry,,23,88.391304348,4.98852438,96.0,77.0,0,0,0,0.0,0.0,0.0,0.0,3.0,0.0,10,10
+UBCV,2020,W,MINE,501,B,201,Topics for Engineers in the Mining Industry,Carmen Jensen,15,90.466666667,5.194319241,99.0,80.0,0,0,0,0.0,0.0,0.0,0.0,0.0,3.0,1,11
+UBCV,2020,W,MINE,501,B,OVERALL,Topics for Engineers in the Mining Industry,,15,90.466666667,5.194319241,99.0,80.0,0,0,0,0.0,0.0,0.0,0.0,0.0,3.0,1,11
+UBCV,2020,W,MINE,504,,201,Rock Fragmentation,Shervin Teymouri,11,80.454545455,9.309818864,94.0,68.0,0,0,0,0.0,0.0,2.0,3.0,0.0,2.0,2,2
+UBCV,2020,W,MINE,504,,OVERALL,Rock Fragmentation,,11,80.454545455,9.309818864,94.0,68.0,0,0,0,0.0,0.0,2.0,3.0,0.0,2.0,2,2
+UBCV,2020,W,MINE,505,,101,Advanced Topics in Rock Engineering,Davide Elmo,10,89.0,2.494438258,92.0,86.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,5,5
+UBCV,2020,W,MINE,505,,OVERALL,Advanced Topics in Rock Engineering,,10,89.0,2.494438258,92.0,86.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,5,5
+UBCV,2020,W,MINE,506,,201,Mining Methods,Malcolm Scoble;Shervin Teymouri,10,73.0,8.956685895,85.0,60.0,0,0,0,2.0,2.0,0.0,2.0,0.0,3.0,1,0
+UBCV,2020,W,MINE,506,,OVERALL,Mining Methods,,10,73.0,8.956685895,85.0,60.0,0,0,0,2.0,2.0,0.0,2.0,0.0,3.0,1,0
+UBCV,2020,W,MINE,507,,201,Block Caving Systems,Allan Moss;Andrea Arduini;Edward Chessor,15,86.8,6.603029608,95.0,69.0,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,8,4
+UBCV,2020,W,MINE,507,,OVERALL,Block Caving Systems,,15,86.8,6.603029608,95.0,69.0,0,0,0,0.0,0.0,1.0,0.0,0.0,2.0,8,4
+UBCV,2020,W,MINE,508,,201,Integrated Mining and Processing Systems,Bern Klein,11,87.0,2.75680975,93.0,85.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,9,2
+UBCV,2020,W,MINE,508,,OVERALL,Integrated Mining and Processing Systems,,11,87.0,2.75680975,93.0,85.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,9,2
+UBCV,2020,W,MINE,509,,101,Mine Ventilation,Ali Kuyuk;Seyed Ghoreishi-Madiseh,6,79.0,4.0,84.0,72.0,0,0,0,0.0,0.0,0.0,1.0,2.0,3.0,0,0
+UBCV,2020,W,MINE,509,,OVERALL,Mine Ventilation,,6,79.0,4.0,84.0,72.0,0,0,0,0.0,0.0,0.0,1.0,2.0,3.0,0,0
+UBCV,2020,W,MINE,524,,201,Processing of Precious Metal Ores,Bern Klein,7,81.142857143,7.668736781,94.0,70.0,0,0,0,0.0,0.0,1.0,0.0,2.0,2.0,1,1
+UBCV,2020,W,MINE,524,,OVERALL,Processing of Precious Metal Ores,,7,81.142857143,7.668736781,94.0,70.0,0,0,0,0.0,0.0,1.0,0.0,2.0,2.0,1,1
+UBCV,2020,W,MINE,541,,201,Environmental Risk Assessments in Relation to Mining,Bruce Marshall,10,86.2,4.984420171,91.0,73.0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,7,2
+UBCV,2020,W,MINE,541,,OVERALL,Environmental Risk Assessments in Relation to Mining,,10,86.2,4.984420171,91.0,73.0,0,0,0,0.0,0.0,0.0,1.0,0.0,0.0,7,2
+UBCV,2020,W,MINE,554,,201,Mine Economics and Finance,Jose Carlos Lopes Da Costa;Jose Lopes Da Costa,14,82.285714286,3.291681156,86.0,76.0,0,0,0,0.0,0.0,0.0,0.0,2.0,7.0,5,0
+UBCV,2020,W,MINE,554,,OVERALL,Mine Economics and Finance,,14,82.285714286,3.291681156,86.0,76.0,0,0,0,0.0,0.0,0.0,0.0,2.0,7.0,5,0
+UBCV,2020,W,MINE,555,,101,Mining and Society,Marcello Veiga,14,95.071428571,0.615727926,96.0,94.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,14
+UBCV,2020,W,MINE,555,,OVERALL,Mining and Society,,14,95.071428571,0.615727926,96.0,94.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,14
+UBCV,2020,W,MINE,559,,101,Indigenous Peoples and Mining in Canada,Justin Himmelright,39,83.717948718,7.986662296,96.0,60.0,0,0,0,1.0,0.0,2.0,3.0,5.0,7.0,12,9
+UBCV,2020,W,MINE,559,,OVERALL,Indigenous Peoples and Mining in Canada,,39,83.717948718,7.986662296,96.0,60.0,0,0,0,1.0,0.0,2.0,3.0,5.0,7.0,12,9
+UBCV,2020,W,MINE,588,,201,Risk Assessment for Mine Waste Management,Dirk Van Zyl,11,90.181818182,0.603022689,92.0,90.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,11
+UBCV,2020,W,MINE,588,,OVERALL,Risk Assessment for Mine Waste Management,,11,90.181818182,0.603022689,92.0,90.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,11
+UBCV,2020,W,MINE,589,,201,Mine Waste Management Case Studies,Dirk Van Zyl,11,90.181818182,0.603022689,92.0,90.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,11
+UBCV,2020,W,MINE,589,,OVERALL,Mine Waste Management Case Studies,,11,90.181818182,0.603022689,92.0,90.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,11
+UBCV,2020,W,MINE,590,E,201,Special Advanced Topics,John Thomas Steen,10,86.4,6.535373831,93.0,71.0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,4,4
+UBCV,2020,W,MINE,590,E,OVERALL,Special Advanced Topics,,10,86.4,6.535373831,93.0,71.0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,4,4
+UBCV,2020,W,MINE,590,X,201,Special Advanced Topics,Nadja Kunz,6,84.333333333,4.760952286,89.0,77.0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,4,0
+UBCV,2020,W,MINE,590,X,OVERALL,Special Advanced Topics,,6,84.333333333,4.760952286,89.0,77.0,0,0,0,0.0,0.0,0.0,0.0,1.0,1.0,4,0
+UBCV,2020,W,MINE,597,,101,Engineering Project,,8,86.25,4.920801328,94.0,80.0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,3,3
+UBCV,2020,W,MINE,597,,OVERALL,Engineering Project,,14,87.785714286,4.610666086,95.0,80.0,0,0,0,0.0,0.0,0.0,0.0,0.0,2.0,5,7
+UBCV,2020,W,MINE,598,,001,Seminar,Carmen Jensen;Malcolm Scoble,7,89.285714286,2.360387377,94.0,87.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,4,3
+UBCV,2020,W,MINE,598,,OVERALL,Seminar,,13,88.461538462,3.15212586,94.0,80.0,0,0,0,0.0,0.0,0.0,0.0,0.0,1.0,7,5

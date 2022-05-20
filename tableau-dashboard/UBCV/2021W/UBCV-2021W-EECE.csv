@@ -1,0 +1,51 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,EECE,541,,101,Multimedia Systems,Mahsa Talebpourazad,18,81.888888889,6.918762971,92.0,70.0,0,0,0,0,0,2,1,2,7,3,3
+UBCV,2021,W,EECE,541,,201,Multimedia Systems,Mahsa Talebpourazad,9,84.0,2.692582404,87.0,80.0,0,0,0,0,0,0,0,0,3,6,0
+UBCV,2021,W,EECE,541,,OVERALL,Multimedia Systems,,27,82.592592593,5.878639686,92.0,70.0,0,0,0,0,0,2,1,2,10,9,3
+UBCV,2021,W,EECE,549,,101,Dynamic Modelling of Electric Machines and Controls,Jinhe Zhou;Juri Jatskevich,13,87.538461538,11.758793763,95.0,50.0,0,,,,,,,,1,2,9
+UBCV,2021,W,EECE,549,,OVERALL,Dynamic Modelling of Electric Machines and Controls,,13,87.538461538,11.758793763,95.0,50.0,0,,,,,,,,1,2,9
+UBCV,2021,W,EECE,553,,201,Advanced Power Systems Analysis,Ebrahim Vaahedi;Parastoo Hosseinian,11,76.727272727,26.728602317,96.0,0.0,1,0,0,0,0,0,3,0,3,1,3
+UBCV,2021,W,EECE,553,,OVERALL,Advanced Power Systems Analysis,,11,76.727272727,26.728602317,96.0,0.0,1,0,0,0,0,0,3,0,3,1,3
+UBCV,2021,W,EECE,554,,101,Advanced Power System Control and Dynamics,Hermann Dommel,13,98.153846154,1.214231845,100.0,96.0,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2021,W,EECE,554,,OVERALL,Advanced Power System Control and Dynamics,,13,98.153846154,1.214231845,100.0,96.0,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2021,W,EECE,555,,101,Renewable and Efficient Electric Power Systems,Bo Chen;Sina Chiniforoosh,21,82.666666667,8.673715083,99.0,72.0,0,0,0,0,0,0,6,1,6,2,6
+UBCV,2021,W,EECE,555,,OVERALL,Renewable and Efficient Electric Power Systems,,21,82.666666667,8.673715083,99.0,72.0,0,0,0,0,0,0,6,1,6,2,6
+UBCV,2021,W,EECE,560,,201,Network Analysis and Simulation,Jose Marti,20,89.0,5.938279035,97.0,77.0,0,0,0,0,0,0,0,1,4,5,10
+UBCV,2021,W,EECE,560,,OVERALL,Network Analysis and Simulation,,20,89.0,5.938279035,97.0,77.0,0,0,0,0,0,0,0,1,4,5,10
+UBCV,2021,W,EECE,562,,101,Statistical Signal Processing,Zhen Wang,21,87.476190476,4.823059689,94.0,76.0,0,0,0,0,0,0,0,1,3,8,9
+UBCV,2021,W,EECE,562,,OVERALL,Statistical Signal Processing,,21,87.476190476,4.823059689,94.0,76.0,0,0,0,0,0,0,0,1,3,8,9
+UBCV,2021,W,EECE,565,,101,Communication Networks,Wai-Shuen Vincent Wong,9,73.333333333,16.583123952,90.0,42.0,2,0,0,0,0,0,1,2,2,0,2
+UBCV,2021,W,EECE,565,,OVERALL,Communication Networks,,9,73.333333333,16.583123952,90.0,42.0,2,0,0,0,0,0,1,2,2,0,2
+UBCV,2021,W,EECE,566,,201,Information and Coding Theory,Cyril Leung;Julia Rubin;Yao Du,11,77.454545455,9.913260174,94.0,60.0,0,0,0,1,0.0,1,3,1,2,1,2
+UBCV,2021,W,EECE,566,,OVERALL,Information and Coding Theory,,11,77.454545455,9.913260174,94.0,60.0,0,0,0,1,0.0,1,3,1,2,1,2
+UBCV,2021,W,EECE,567,,201,Power System Dynamics and Stability,Yu Christine Chen,12,80.5,25.98426097,95.0,0.0,1,0,0,0,0,0,0,1,2,3,5
+UBCV,2021,W,EECE,567,,OVERALL,Power System Dynamics and Stability,,12,80.5,25.98426097,95.0,0.0,1,0,0,0,0,0,0,1,2,3,5
+UBCV,2021,W,EECE,571,B,107,Electrical Engineering Seminar and Special Problems,Zehua Wang,49,94.306122449,2.302209823,99.0,89.0,0,0,0,0,0,0,0,0,0,1,48
+UBCV,2021,W,EECE,571,B,OVERALL,Electrical Engineering Seminar and Special Problems,,49,94.306122449,2.302209823,99.0,89.0,0,0,0,0,0,0,0,0,0,1,48
+UBCV,2021,W,EECE,571,C,106,Electrical Engineering Seminar and Special Problems,Mohammad Jalalzai,13,95.153846154,3.484397457,100.0,90.0,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2021,W,EECE,571,C,OVERALL,Electrical Engineering Seminar and Special Problems,,13,95.153846154,3.484397457,100.0,90.0,0,0,0,0,0,0,0,0,0,0,13
+UBCV,2021,W,EECE,571,D,201,Electrical Engineering Seminar and Special Problems,Lutz Lampe,11,91.181818182,6.305841448,98.0,77.0,0,0,0,0,0,0,0,1,1,2,7
+UBCV,2021,W,EECE,571,D,OVERALL,Electrical Engineering Seminar and Special Problems,,11,91.181818182,6.305841448,98.0,77.0,0,0,0,0,0,0,0,1,1,2,7
+UBCV,2021,W,EECE,571,F,207,Electrical Engineering Seminar and Special Problems,Muchen Li;Renjie Liao,48,95.854166667,2.259632651,99.0,88.0,0,0,0,0,0,0,0,0,0,1,47
+UBCV,2021,W,EECE,571,F,OVERALL,Electrical Engineering Seminar and Special Problems,,48,95.854166667,2.259632651,99.0,88.0,0,0,0,0,0,0,0,0,0,1,47
+UBCV,2021,W,EECE,571,G,202,Electrical Engineering Seminar and Special Problems,Zehua Wang,48,95.4375,2.842730557,100.0,89.0,0,0,0,0,0,0,0,0,0,2,46
+UBCV,2021,W,EECE,571,G,OVERALL,Electrical Engineering Seminar and Special Problems,,48,95.4375,2.842730557,100.0,89.0,0,0,0,0,0,0,0,0,0,2,46
+UBCV,2021,W,EECE,571,H,210,Electrical Engineering Seminar and Special Problems,Mohammad Shahrad,14,88.571428571,6.28446541,95.0,70.0,0,0,0,0,0,1,0,0,1,4,8
+UBCV,2021,W,EECE,571,H,OVERALL,Electrical Engineering Seminar and Special Problems,,14,88.571428571,6.28446541,95.0,70.0,0,0,0,0,0,1,0,0,1,4,8
+UBCV,2021,W,EECE,571,J,208,Electrical Engineering Seminar and Special Problems,Julia Rubin,12,84.666666667,6.840166576,95.0,68.0,0,0,0,0,0,1,0,0,6,2,3
+UBCV,2021,W,EECE,571,J,OVERALL,Electrical Engineering Seminar and Special Problems,,12,84.666666667,6.840166576,95.0,68.0,0,0,0,0,0,1,0,0,6,2,3
+UBCV,2021,W,EECE,571,L,209,Electrical Engineering Seminar and Special Problems,Panos Nasiopoulos,18,87.0,4.200840252,92.0,80.0,0,0,0,0,0,0,0,0,5,6,7
+UBCV,2021,W,EECE,571,L,OVERALL,Electrical Engineering Seminar and Special Problems,,18,87.0,4.200840252,92.0,80.0,0,0,0,0,0,0,0,0,5,6,7
+UBCV,2021,W,EECE,571,M,103,Electrical Engineering Seminar and Special Problems,Lele Wang;Lutz Lampe;Ziao Wang,24,82.958333333,8.179928599,98.0,68.0,0,0,0,0,0,3,3,2,2,10,4
+UBCV,2021,W,EECE,571,M,OVERALL,Electrical Engineering Seminar and Special Problems,,24,82.958333333,8.179928599,98.0,68.0,0,0,0,0,0,3,3,2,2,10,4
+UBCV,2021,W,EECE,571,S,102,Electrical Engineering Seminar and Special Problems,Antonia Ciocoiu;Joseph Salfi,15,89.8,7.213083351,100.0,70.0,0,0,0,0,0,1,0,0,2,2,10
+UBCV,2021,W,EECE,571,S,OVERALL,Electrical Engineering Seminar and Special Problems,,15,89.8,7.213083351,100.0,70.0,0,0,0,0,0,1,0,0,2,2,10
+UBCV,2021,W,EECE,571,T,206,Electrical Engineering Seminar and Special Problems,Bhushan Gopaluni;Golara Javadi;Matthew Yedlin,49,90.367346939,2.497447677,97.0,85.0,0,0,0,0,0,0,0,0,0,17,32
+UBCV,2021,W,EECE,571,T,OVERALL,Electrical Engineering Seminar and Special Problems,,49,90.367346939,2.497447677,97.0,85.0,0,0,0,0,0,0,0,0,0,17,32
+UBCV,2021,W,EECE,571,U,109,Electrical Engineering Seminar and Special Problems,Joseph Salfi,9,87.222222222,5.214829282,94.0,81.0,0,0,0,0,0,0,0,0,3,4,2
+UBCV,2021,W,EECE,571,U,OVERALL,Electrical Engineering Seminar and Special Problems,,9,87.222222222,5.214829282,94.0,81.0,0,0,0,0,0,0,0,0,3,4,2
+UBCV,2021,W,EECE,571,Z,211,Electrical Engineering Seminar and Special Problems,Christos Thrampoulidis,11,88.090909091,3.176619129,95.0,85.0,0,0,0,0,0,0,0,0,0,9,2
+UBCV,2021,W,EECE,571,Z,OVERALL,Electrical Engineering Seminar and Special Problems,,11,88.090909091,3.176619129,95.0,85.0,0,0,0,0,0,0,0,0,0,9,2
+UBCV,2021,W,EECE,599,,001,Thesis,,6,87.833333333,5.382068995,95.0,81.0,0,0,0,0,0,0,0,0,2,2,2
+UBCV,2021,W,EECE,599,,101,Thesis,,10,85.9,2.884826203,90.0,82.0,0,0,0,0,0,0,0,0,5,3,2
+UBCV,2021,W,EECE,599,,OVERALL,Thesis,,16,86.625,3.947573094,95.0,81.0,0,0,0,0,0,0,0,0,7,5,4

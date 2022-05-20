@@ -5,7 +5,7 @@ This repo contains CSV data of grade distribution data from UBC PAIR for each ca
 Data Source | Last Updated
 --- | ---
 PAIR Reports | June 2019
-Tableau Dashboard | May 2021
+Tableau Dashboard | May 2022
 
 There are two main sources for the data. The first (now deprecated) source was from the old PAIR Reports dashboard located [here](https://webprd01.pair.ubc.ca/reports/welcome.action). This tool was removed in the summer of 2019 in favor of a Tableau dashboard found [here](http://pair.ubc.ca/student-performance/grades-distribution/) (the UBC VPN is needed to access), serving as the second source.
 

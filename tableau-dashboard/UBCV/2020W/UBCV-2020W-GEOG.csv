@@ -1,96 +1,97 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,GEOG,121,,101,"Geography, Environment and Globalization",Alyssa Quinn;Andrew Schuldt;Christopher Reimer;Daniel Perez Gamez;Daniel Young;Dawn Hoogeveen;Gabrielle Amanda Wolf;Gabrielle Wolf;Jonas Pinzon Osorio;Jose Carvajal;Jose Ricardo Carvajal;Juanita Sundberg;Mohammed Arefin;Mohammed Rafi Arefin;Rachel Phillips;Shelby Loft,205,74.50731707,11.69322726,91.0,0.0,6,2.0,4.0,7.0,6,23.0,43,49,50,12,3
-UBCV,2020,W,GEOG,121,,102,"Geography, Environment and Globalization",Alyssa Quinn;Andrew Schuldt;Christopher Reimer;Daniel Perez Gamez;Daniel Young;Dawn Hoogeveen;Gabrielle Wolf;Jonas Pinzon Osorio;Jose Carvajal;Juanita Sundberg;Mohammed Arefin;Mohammed Rafi Arefin;Rachel Phillips,127,75.23622047,9.786982521,91.0,0.0,1,1.0,3.0,4.0,6,19.0,17,32,35,7,2
-UBCV,2020,W,GEOG,121,,299,"Geography, Environment and Globalization",Simon Chilvers;Siobhan Mcphee;Xin Zhuo Liu,46,72.0,9.879271228,88.0,43.0,1,1.0,5.0,2.0,3,3.0,4,19,6,2,0
-UBCV,2020,W,GEOG,121,,OVERALL,"Geography, Environment and Globalization",,449,72.89755011,11.63692623,91.0,0.0,14,8.0,16.0,19.0,29,65.0,70,106,96,21,5
-UBCV,2020,W,GEOG,121,,V01,"Geography, Environment and Globalization",Brandon Hillier;Ignacio Ochoa;Jonas Pinzon Osorio;Nicholas Benjamin Gandolfo-Lucia;Nicholas Gandolfo-Lucia;Sara Koopman;Siobhan Mcphee;Xin Zhuo Liu,71,64.64788732,12.0819802,83.0,19.0,6,4.0,4.0,6.0,14,20.0,6,6,5,0,0
-UBCV,2020,W,GEOG,122,,201,"Geography, Modernity and Globalization",Adriana Disilvestro;Andrew Schuldt;Daniel Perez Gamez;Daniel Young;Gabriele Dumpys Woolever;Gabrielle Wolf;James Francis Glassman;Jordan Amron;Jose Carvajal;Joseph Daniels;Priti Narayan;Trevor Barnes;Yardain Amron,152,71.28947368,16.30082742,90.0,0.0,9,2.0,4.0,8.0,7,14.0,23,36,39,9,1
-UBCV,2020,W,GEOG,122,,299,"Geography, Modernity and Globalization",Andrew Schuldt;Daniel Perez Gamez;Daniel Young;Gabriele Dumpys Woolever;Gabrielle Wolf;James Francis Glassman;Jose Carvajal;Joseph Daniels;Priti Narayan;Trevor Barnes,90,71.01111111,17.84924034,92.0,0.0,10,0.0,2.0,2.0,3,6.0,13,21,23,8,2
-UBCV,2020,W,GEOG,122,,OVERALL,"Geography, Modernity and Globalization",,312,70.00961539,16.29323052,92.0,0.0,25,3.0,10.0,19.0,25,26.0,50,67,65,19,3
-UBCV,2020,W,GEOG,122,,V01,"Geography, Modernity and Globalization",Brandon Hillier;Cameron Owens;Elvin Wyly;Jonas Pinzon Osorio;Nicholas Gandolfo-Lucia;Siobhan Mcphee;Xin Zhuo Liu,70,65.94285714,13.50564639,86.0,12.0,6,1.0,4.0,9.0,15,6.0,14,10,3,2,0
-UBCV,2020,W,GEOG,211,,201,The State of the Earth,Cora Sachs;Daniel Young;James Pangilinan;Loch Brown,182,74.15934066,15.92079483,90.0,0.0,12,3.0,2.0,5.0,9,12.0,21,27,61,29,1
-UBCV,2020,W,GEOG,211,,OVERALL,The State of the Earth,,182,74.15934066,15.92079483,90.0,0.0,12,3.0,2.0,5.0,9,12.0,21,27,61,29,1
-UBCV,2020,W,GEOG,220,,101,Geopolitics,Merje Kuus;Natasha Fox,69,70.26086957,13.94174031,87.0,0.0,5,0.0,0.0,7.0,5,11.0,14,10,14,3,0
-UBCV,2020,W,GEOG,220,,OVERALL,Geopolitics,,69,70.26086957,13.94174031,87.0,0.0,5,0.0,0.0,7.0,5,11.0,14,10,14,3,0
-UBCV,2020,W,GEOG,250,,101,Cities,Elvin Wyly;Gabriele Dumpys Woolever;Michael Hilt;Michael Patrick Hilt;Michael Pinkard,115,74.65217391,13.77707445,96.0,0.0,4,4.0,7.0,5.0,10,7.0,14,11,28,15,10
-UBCV,2020,W,GEOG,250,,OVERALL,Cities,,115,74.65217391,13.77707445,96.0,0.0,4,4.0,7.0,5.0,10,7.0,14,11,28,15,10
-UBCV,2020,W,GEOG,290,,201,Introduction to the Geography of Canada,Daniel Joseph Hiebert;Max Cohen,86,72.8255814,13.381455,87.0,0.0,3,1.0,1.0,0.0,2,9.0,29,22,18,1,0
-UBCV,2020,W,GEOG,290,,OVERALL,Introduction to the Geography of Canada,,86,72.8255814,13.381455,87.0,0.0,3,1.0,1.0,0.0,2,9.0,29,22,18,1,0
-UBCV,2020,W,GEOG,310,,101,Environment and Sustainability,Alec Blair;Cora Sachs;Joseph Daniels;Katharine Baldwin;Katharine Brooks Baldwin;Loch Brown,191,76.79057592,8.989357168,94.0,51.0,0,4.0,3.0,6.0,13,18.0,28,29,41,37,12
-UBCV,2020,W,GEOG,310,,201,Environment and Sustainability,Alec Blair;Ali El Hajj-Hassan;Daniel Young;Esteban Izquierdo Mejia;Joseph Daniels;Karen Jessica Bakker,171,72.35087719,15.40186149,94.0,0.0,11,3.0,7.0,8.0,5,18.0,29,30,40,14,6
-UBCV,2020,W,GEOG,310,,OVERALL,Environment and Sustainability,,362,74.69337017,12.61610501,94.0,0.0,11,7.0,10.0,14.0,18,36.0,57,59,81,51,18
-UBCV,2020,W,GEOG,311,,101,Urban Environments,Alec Blair;Gregory H Henry;Katharine Baldwin;Katharine Brooks Baldwin,103,77.00970874,11.69673588,92.0,29.0,3,1.0,4.0,4.0,5,7.0,9,15,20,25,10
-UBCV,2020,W,GEOG,311,,OVERALL,Urban Environments,,103,77.00970874,11.69673588,92.0,29.0,3,1.0,4.0,4.0,5,7.0,9,15,20,25,10
-UBCV,2020,W,GEOG,312,,101,Climate Change: Science and Society,Simon Donner;Xinru Li,92,74.02173913,10.97046811,95.0,33.0,2,2.0,3.0,8.0,5,13.0,12,12,22,12,1
-UBCV,2020,W,GEOG,312,,OVERALL,Climate Change: Science and Society,,92,74.02173913,10.97046811,95.0,33.0,2,2.0,3.0,8.0,5,13.0,12,12,22,12,1
-UBCV,2020,W,GEOG,313,,201,Environmental Justice and Social Change,Alec Blair;Audrey Irvine-Broque;Erik Post;Jessica Dempsey;Joseph Daniels;Katharine Baldwin;Maria Rojas Marchini,137,80.24817518,14.13265983,97.0,0.0,5,0.0,3.0,2.0,3,4.0,11,9,40,31,29
-UBCV,2020,W,GEOG,313,,OVERALL,Environmental Justice and Social Change,,137,80.24817518,14.13265983,97.0,0.0,5,0.0,3.0,2.0,3,4.0,11,9,40,31,29
-UBCV,2020,W,GEOG,314,,201,Analysing Environmental Problems,Amy Mcintyre;Michael Pinkard;Simon Donner;Vincent Chireh,134,80.07462687,13.80346849,96.0,4.0,4,1.0,4.0,2.0,5,4.0,8,14,32,42,18
-UBCV,2020,W,GEOG,314,,OVERALL,Analysing Environmental Problems,,134,80.07462687,13.80346849,96.0,4.0,4,1.0,4.0,2.0,5,4.0,8,14,32,42,18
-UBCV,2020,W,GEOG,316,,101,Geography of Natural Hazards,Alec Blair;Inari Sosa Aranda;Loch Brown,46,73.97826087,11.51904535,91.0,46.0,1,2.0,5.0,1.0,2,3.0,10,4,11,4,3
-UBCV,2020,W,GEOG,316,,OVERALL,Geography of Natural Hazards,,46,73.97826087,11.51904535,91.0,46.0,1,2.0,5.0,1.0,2,3.0,10,4,11,4,3
-UBCV,2020,W,GEOG,318,,201,Sustainability in a Changing Environment,Caroline Ponder;Cora Sachs;Heather Chappells,32,74.96875,15.16252676,93.0,15.0,1,1.0,2.0,0.0,2,2.0,5,6,4,4,5
-UBCV,2020,W,GEOG,318,,OVERALL,Sustainability in a Changing Environment,,32,74.96875,15.16252676,93.0,15.0,1,1.0,2.0,0.0,2,2.0,5,6,4,4,5
-UBCV,2020,W,GEOG,319,,101,Environmental Impact Assessment,Dustin Gray;Dustin Wayne Gray;Nina Hewitt,88,75.21590909,8.734196058,92.0,26.0,1,0.0,1.0,3.0,4,14.0,17,19,20,6,3
-UBCV,2020,W,GEOG,319,,OVERALL,Environmental Impact Assessment,,88,75.21590909,8.734196058,92.0,26.0,1,0.0,1.0,3.0,4,14.0,17,19,20,6,3
-UBCV,2020,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory;James Rhatigan;James Thomas Rhatigan,56,67.23214286,20.15935702,90.0,0.0,7,3.0,3.0,2.0,2,5.0,12,8,10,3,1
-UBCV,2020,W,GEOG,321,,OVERALL,"Historical Geography of Urbanization: Cities, Space, and Power",,56,67.23214286,20.15935702,90.0,0.0,7,3.0,3.0,2.0,2,5.0,12,8,10,3,1
-UBCV,2020,W,GEOG,327,,101,Creating Canada,Jilmarie Stephens;Joseph Daniels;Kathryn Mckay,83,73.5060241,13.80824559,94.0,0.0,3,2.0,2.0,4.0,7,10.0,11,16,16,9,3
-UBCV,2020,W,GEOG,327,,OVERALL,Creating Canada,,83,73.5060241,13.80824559,94.0,0.0,3,2.0,2.0,4.0,7,10.0,11,16,16,9,3
-UBCV,2020,W,GEOG,329,,101,Political Geography,Cora Sachs;Philippe Le Billon,67,74.86567164,10.41836305,91.0,8.0,1,0.0,1.0,0.0,4,13.0,13,9,23,2,1
-UBCV,2020,W,GEOG,329,,OVERALL,Political Geography,,67,74.86567164,10.41836305,91.0,8.0,1,0.0,1.0,0.0,4,13.0,13,9,23,2,1
-UBCV,2020,W,GEOG,345,,101,Theory and Practice in Human Geography,Andrew Shmuely;Derek John Gregory,56,70.94642857,12.45854164,92.0,29.0,3,1.0,0.0,7.0,8,9.0,6,9,5,7,1
-UBCV,2020,W,GEOG,345,,OVERALL,Theory and Practice in Human Geography,,56,70.94642857,12.45854164,92.0,29.0,3,1.0,0.0,7.0,8,9.0,6,9,5,7,1
-UBCV,2020,W,GEOG,350,,101,Urban Worlds,Annika Airas;Elvin Wyly;Max Cohen,69,76.62318841,5.965837669,88.0,62.0,0,0.0,0.0,1.0,8,7.0,9,20,19,5,0
-UBCV,2020,W,GEOG,350,,99C,Urban Worlds,Albina Gibadullina;Annika Airas;Jeffrey O'Connor Whyte,53,73.94339623,16.64148557,94.0,0.0,2,0.0,0.0,2.0,4,10.0,7,6,13,7,2
-UBCV,2020,W,GEOG,350,,OVERALL,Urban Worlds,,122,75.45901639,11.86574174,94.0,0.0,2,0.0,0.0,3.0,12,17.0,16,26,32,12,2
-UBCV,2020,W,GEOG,352,,101,Urbanization in the Global South,Maria Fernanda Rojas Marchini;Maria Rojas Marchini;Priti Narayan,85,86.65882353,8.966276688,95.0,41.0,1,0.0,0.0,1.0,1,2.0,5,6,7,14,48
-UBCV,2020,W,GEOG,352,,OVERALL,Urbanization in the Global South,,85,86.65882353,8.966276688,95.0,41.0,1,0.0,0.0,1.0,1,2.0,5,6,7,14,48
-UBCV,2020,W,GEOG,353,,101,Geographies of Migration and Settlement,Daniel Joseph Hiebert;Esteban Izquierdo Mejia,48,69.5,18.95908248,88.0,0.0,4,0.0,1.0,4.0,3,4.0,11,10,4,7,0
-UBCV,2020,W,GEOG,353,,OVERALL,Geographies of Migration and Settlement,,48,69.5,18.95908248,88.0,0.0,4,0.0,1.0,4.0,3,4.0,11,10,4,7,0
-UBCV,2020,W,GEOG,357,,201,"Society, Culture & Space",Alyssa Quinn;Bonnie Kaserman,66,75.54545455,12.21875207,90.0,5.0,1,1.0,3.0,1.0,4,7.0,10,14,12,12,1
-UBCV,2020,W,GEOG,357,,OVERALL,"Society, Culture & Space",,66,75.54545455,12.21875207,90.0,5.0,1,1.0,3.0,1.0,4,7.0,10,14,12,12,1
-UBCV,2020,W,GEOG,362,,201,Geography of Economic Development,Daniel Perez Gamez;James Francis Glassman,37,70.48648649,22.44328856,90.0,0.0,3,0.0,0.0,2.0,2,5.0,5,7,7,5,1
-UBCV,2020,W,GEOG,362,,OVERALL,Geography of Economic Development,,37,70.48648649,22.44328856,90.0,0.0,3,0.0,0.0,2.0,2,5.0,5,7,7,5,1
-UBCV,2020,W,GEOG,364,,101,"Globalization, Cities, and Regions",Jamie Peck;Max Cohen,54,77.27777778,8.372048433,90.0,45.0,1,2.0,0.0,0.0,1,1.0,9,12,22,4,2
-UBCV,2020,W,GEOG,364,,OVERALL,"Globalization, Cities, and Regions",,54,77.27777778,8.372048433,90.0,45.0,1,2.0,0.0,0.0,1,1.0,9,12,22,4,2
+UBCV,2020,W,GEOG,121,,101,"Geography, Environment and Globalization",Alyssa Quinn;Andrew Schuldt;Christopher Reimer;Daniel Perez Gamez;Daniel Young;Dawn Hoogeveen;Gabrielle Amanda Wolf;Gabrielle Wolf;Jonas Pinzon Osorio;Jose Carvajal;Jose Ricardo Carvajal;Juanita Sundberg;Mohammed Arefin;Mohammed Rafi Arefin;Rachel Phillips;Shelby Loft,205,74.507317073,11.693227264,91.0,0.0,6,2.0,4.0,7.0,6,23.0,43,49,50,12,3
+UBCV,2020,W,GEOG,121,,102,"Geography, Environment and Globalization",Alyssa Quinn;Andrew Schuldt;Christopher Reimer;Daniel Perez Gamez;Daniel Young;Dawn Hoogeveen;Gabrielle Wolf;Jonas Pinzon Osorio;Jose Carvajal;Juanita Sundberg;Mohammed Arefin;Mohammed Rafi Arefin;Rachel Phillips,127,75.236220472,9.786982521,91.0,0.0,1,1.0,3.0,4.0,6,19.0,17,32,35,7,2
+UBCV,2020,W,GEOG,121,,299,"Geography, Environment and Globalization",Simon Chilvers;Siobhan Mcphee;Xin Zhuo Liu,46,72.543478261,9.664842407,88.0,43.0,1,1.0,4.0,2.0,3,3.0,4,19,7,2,0
+UBCV,2020,W,GEOG,121,,OVERALL,"Geography, Environment and Globalization",,449,72.953229399,11.615685383,91.0,0.0,14,8.0,15.0,19.0,29,65.0,70,106,97,21,5
+UBCV,2020,W,GEOG,121,,V01,"Geography, Environment and Globalization",Brandon Hillier;Ignacio Ochoa;Jonas Pinzon Osorio;Nicholas Benjamin Gandolfo-Lucia;Nicholas Gandolfo-Lucia;Sara Koopman;Siobhan Mcphee;Xin Zhuo Liu,71,64.647887324,12.081980197,83.0,19.0,6,4.0,4.0,6.0,14,20.0,6,6,5,0,0
+UBCV,2020,W,GEOG,122,,201,"Geography, Modernity and Globalization",Adriana Disilvestro;Andrew Schuldt;Daniel Perez Gamez;Daniel Young;Gabriele Dumpys Woolever;Gabrielle Wolf;James Francis Glassman;Jordan Amron;Jose Carvajal;Joseph Daniels;Priti Narayan;Trevor Barnes;Yardain Amron,150,72.906666667,13.071998182,90.0,0.0,6,1.0,4.0,8.0,7,14.0,24,36,40,9,1
+UBCV,2020,W,GEOG,122,,299,"Geography, Modernity and Globalization",Andrew Schuldt;Daniel Perez Gamez;Daniel Young;Gabriele Dumpys Woolever;Gabrielle Wolf;James Francis Glassman;Jose Carvajal;Joseph Daniels;Priti Narayan;Trevor Barnes,89,72.550561798,15.237521896,92.0,0.0,7,0.0,3.0,2.0,3,6.0,13,22,23,8,2
+UBCV,2020,W,GEOG,122,,OVERALL,"Geography, Modernity and Globalization",,309,71.275080906,14.044180997,92.0,0.0,19,2.0,10.0,19.0,25,27.0,51,68,66,19,3
+UBCV,2020,W,GEOG,122,,V01,"Geography, Modernity and Globalization",Brandon Hillier;Cameron Owens;Elvin Wyly;Jonas Pinzon Osorio;Nicholas Gandolfo-Lucia;Siobhan Mcphee;Xin Zhuo Liu,70,66.157142857,13.448383033,86.0,12.0,6,1.0,3.0,9.0,15,7.0,14,10,3,2,0
+UBCV,2020,W,GEOG,211,,201,The State of the Earth,Cora Sachs;Daniel Young;James Pangilinan;Loch Brown,180,75.905555556,12.681177369,90.0,3.0,7,2.0,2.0,6.0,9,11.0,23,27,61,31,1
+UBCV,2020,W,GEOG,211,,OVERALL,The State of the Earth,,180,75.905555556,12.681177369,90.0,3.0,7,2.0,2.0,6.0,9,11.0,23,27,61,31,1
+UBCV,2020,W,GEOG,220,,101,Geopolitics,Merje Kuus;Natasha Fox,68,71.485294118,12.543051412,87.0,0.0,3,0.0,1.0,6.0,5,11.0,14,10,15,3,0
+UBCV,2020,W,GEOG,220,,OVERALL,Geopolitics,,68,71.485294118,12.543051412,87.0,0.0,3,0.0,1.0,6.0,5,11.0,14,10,15,3,0
+UBCV,2020,W,GEOG,250,,101,Cities,Elvin Wyly;Gabriele Dumpys Woolever;Michael Hilt;Michael Patrick Hilt;Michael Pinkard,115,74.652173913,13.777074447,96.0,0.0,4,4.0,7.0,5.0,10,7.0,14,11,28,15,10
+UBCV,2020,W,GEOG,250,,OVERALL,Cities,,115,74.652173913,13.777074447,96.0,0.0,4,4.0,7.0,5.0,10,7.0,14,11,28,15,10
+UBCV,2020,W,GEOG,290,,201,Introduction to the Geography of Canada,Daniel Joseph Hiebert;Max Cohen,86,72.825581395,13.381454999,87.0,0.0,3,1.0,1.0,0.0,2,9.0,29,22,18,1,0
+UBCV,2020,W,GEOG,290,,OVERALL,Introduction to the Geography of Canada,,86,72.825581395,13.381454999,87.0,0.0,3,1.0,1.0,0.0,2,9.0,29,22,18,1,0
+UBCV,2020,W,GEOG,310,,101,Environment and Sustainability,Alec Blair;Cora Sachs;Joseph Daniels;Katharine Baldwin,191,76.790575916,8.989357168,94.0,51.0,0,4.0,3.0,6.0,13,18.0,28,29,41,37,12
+UBCV,2020,W,GEOG,310,,201,Environment and Sustainability,Alec Blair;Ali El Hajj-Hassan;Daniel Young;Esteban Izquierdo Mejia;Joseph Daniels;Karen Jessica Bakker,169,73.337278107,13.430547791,94.0,13.0,8,3.0,7.0,8.0,5,18.0,29,31,40,14,6
+UBCV,2020,W,GEOG,310,,OVERALL,Environment and Sustainability,,360,75.169444444,11.408673811,94.0,13.0,8,7.0,10.0,14.0,18,36.0,57,60,81,51,18
+UBCV,2020,W,GEOG,311,,101,Urban Environments,Alec Blair;Gregory H Henry,103,77.475728155,11.425671697,92.0,29.0,3,1.0,3.0,3.0,5,7.0,9,15,21,26,10
+UBCV,2020,W,GEOG,311,,OVERALL,Urban Environments,,103,77.475728155,11.425671697,92.0,29.0,3,1.0,3.0,3.0,5,7.0,9,15,21,26,10
+UBCV,2020,W,GEOG,312,,101,Climate Change: Science and Society,Simon Donner;Xinru Li,92,74.293478261,10.227669907,95.0,35.0,1,2.0,4.0,8.0,5,13.0,12,12,22,12,1
+UBCV,2020,W,GEOG,312,,OVERALL,Climate Change: Science and Society,,92,74.293478261,10.227669907,95.0,35.0,1,2.0,4.0,8.0,5,13.0,12,12,22,12,1
+UBCV,2020,W,GEOG,313,,201,Environmental Justice and Social Change,Audrey Irvine-Broque;Erik Post;Jessica Dempsey;Joseph Daniels;Maria Rojas Marchini,137,80.576642336,13.364638718,97.0,0.0,4,0.0,3.0,2.0,3,5.0,11,9,40,31,29
+UBCV,2020,W,GEOG,313,,OVERALL,Environmental Justice and Social Change,,137,80.576642336,13.364638718,97.0,0.0,4,0.0,3.0,2.0,3,5.0,11,9,40,31,29
+UBCV,2020,W,GEOG,314,,201,Analysing Environmental Problems,Amy Mcintyre;Michael Pinkard;Simon Donner;Vincent Chireh,134,80.23880597,13.657011807,96.0,4.0,4,1.0,3.0,2.0,5,4.0,8,15,32,42,18
+UBCV,2020,W,GEOG,314,,OVERALL,Analysing Environmental Problems,,134,80.23880597,13.657011807,96.0,4.0,4,1.0,3.0,2.0,5,4.0,8,15,32,42,18
+UBCV,2020,W,GEOG,316,,101,Geography of Natural Hazards,Inari Sosa Aranda;Loch Brown,46,73.97826087,11.519045351,91.0,46.0,1,2.0,5.0,1.0,2,3.0,10,4,11,4,3
+UBCV,2020,W,GEOG,316,,OVERALL,Geography of Natural Hazards,,46,73.97826087,11.519045351,91.0,46.0,1,2.0,5.0,1.0,2,3.0,10,4,11,4,3
+UBCV,2020,W,GEOG,318,,201,Sustainability in a Changing Environment,Caroline Ponder;Cora Sachs;Heather Chappells,32,77.15625,10.592478692,93.0,51.0,0,1.0,2.0,0.0,2,2.0,5,6,4,5,5
+UBCV,2020,W,GEOG,318,,OVERALL,Sustainability in a Changing Environment,,32,77.15625,10.592478692,93.0,51.0,0,1.0,2.0,0.0,2,2.0,5,6,4,5,5
+UBCV,2020,W,GEOG,319,,101,Environmental Impact Assessment,Dustin Gray;Nina Hewitt,88,75.215909091,8.734196058,92.0,26.0,1,0.0,1.0,3.0,4,14.0,17,19,20,6,3
+UBCV,2020,W,GEOG,319,,OVERALL,Environmental Impact Assessment,,88,75.215909091,8.734196058,92.0,26.0,1,0.0,1.0,3.0,4,14.0,17,19,20,6,3
+UBCV,2020,W,GEOG,321,,101,"Historical Geography of Urbanization: Cities, Space, and Power",Derek John Gregory;James Rhatigan;James Thomas Rhatigan,54,69.444444444,16.339172362,90.0,0.0,5,3.0,3.0,2.0,2,5.0,12,8,10,3,1
+UBCV,2020,W,GEOG,321,,OVERALL,"Historical Geography of Urbanization: Cities, Space, and Power",,54,69.444444444,16.339172362,90.0,0.0,5,3.0,3.0,2.0,2,5.0,12,8,10,3,1
+UBCV,2020,W,GEOG,327,,101,Creating Canada,Jilmarie Stephens;Joseph Daniels;Kathryn Mckay,83,73.771084337,13.599968886,94.0,0.0,3,1.0,2.0,4.0,7,10.0,12,16,16,9,3
+UBCV,2020,W,GEOG,327,,OVERALL,Creating Canada,,83,73.771084337,13.599968886,94.0,0.0,3,1.0,2.0,4.0,7,10.0,12,16,16,9,3
+UBCV,2020,W,GEOG,329,,101,Political Geography,Cora Sachs;Philippe Le Billon,67,75.880597015,6.306616026,91.0,58.0,0,0.0,1.0,0.0,4,13.0,13,10,23,2,1
+UBCV,2020,W,GEOG,329,,OVERALL,Political Geography,,67,75.880597015,6.306616026,91.0,58.0,0,0.0,1.0,0.0,4,13.0,13,10,23,2,1
+UBCV,2020,W,GEOG,345,,101,Theory and Practice in Human Geography,Andrew Shmuely;Derek John Gregory,56,70.946428571,12.458541638,92.0,29.0,3,1.0,0.0,7.0,8,9.0,6,9,5,7,1
+UBCV,2020,W,GEOG,345,,OVERALL,Theory and Practice in Human Geography,,56,70.946428571,12.458541638,92.0,29.0,3,1.0,0.0,7.0,8,9.0,6,9,5,7,1
+UBCV,2020,W,GEOG,350,,101,Urban Worlds,Annika Airas;Elvin Wyly;Max Cohen,69,76.623188406,5.965837669,88.0,62.0,0,0.0,0.0,1.0,8,7.0,9,20,19,5,0
+UBCV,2020,W,GEOG,350,,99C,Urban Worlds,Albina Gibadullina;Annika Airas;Jeffrey O'Connor Whyte,53,73.943396226,16.641485573,94.0,0.0,2,0.0,0.0,2.0,4,10.0,7,6,13,7,2
+UBCV,2020,W,GEOG,350,,OVERALL,Urban Worlds,,122,75.459016393,11.865741744,94.0,0.0,2,0.0,0.0,3.0,12,17.0,16,26,32,12,2
+UBCV,2020,W,GEOG,352,,101,Urbanization in the Global South,Maria Rojas Marchini;Priti Narayan,85,86.658823529,8.966276688,95.0,41.0,1,0.0,0.0,1.0,1,2.0,5,6,7,14,48
+UBCV,2020,W,GEOG,352,,OVERALL,Urbanization in the Global South,,85,86.658823529,8.966276688,95.0,41.0,1,0.0,0.0,1.0,1,2.0,5,6,7,14,48
+UBCV,2020,W,GEOG,353,,101,Geographies of Migration and Settlement,Daniel Joseph Hiebert;Esteban Izquierdo Mejia,47,70.978723404,16.125175242,88.0,0.0,3,0.0,1.0,4.0,3,4.0,11,10,4,7,0
+UBCV,2020,W,GEOG,353,,OVERALL,Geographies of Migration and Settlement,,47,70.978723404,16.125175242,88.0,0.0,3,0.0,1.0,4.0,3,4.0,11,10,4,7,0
+UBCV,2020,W,GEOG,357,,201,"Society, Culture & Space",Alyssa Quinn;Bonnie Kaserman,66,75.545454545,12.218752068,90.0,5.0,1,1.0,3.0,1.0,4,7.0,10,14,12,12,1
+UBCV,2020,W,GEOG,357,,OVERALL,"Society, Culture & Space",,66,75.545454545,12.218752068,90.0,5.0,1,1.0,3.0,1.0,4,7.0,10,14,12,12,1
+UBCV,2020,W,GEOG,362,,201,Geography of Economic Development,Daniel Perez Gamez;James Francis Glassman,36,72.444444444,19.292403308,90.0,0.0,2,0.0,0.0,2.0,2,5.0,5,7,7,5,1
+UBCV,2020,W,GEOG,362,,OVERALL,Geography of Economic Development,,36,72.444444444,19.292403308,90.0,0.0,2,0.0,0.0,2.0,2,5.0,5,7,7,5,1
+UBCV,2020,W,GEOG,364,,101,"Globalization, Cities, and Regions",Jamie Peck;Max Cohen,54,77.759259259,7.137292931,90.0,50.0,0,2.0,0.0,0.0,1,2.0,9,12,22,4,2
+UBCV,2020,W,GEOG,364,,OVERALL,"Globalization, Cities, and Regions",,54,77.759259259,7.137292931,90.0,50.0,0,2.0,0.0,0.0,1,2.0,9,12,22,4,2
 UBCV,2020,W,GEOG,371,,201,Research Strategies in Human Geography,Bonnie Kaserman;Inari Sosa Aranda;Prashant Rayaprolu,40,82.375,5.587015625,90.0,67.0,0,0.0,0.0,0.0,1,1.0,3,7,8,15,5
 UBCV,2020,W,GEOG,371,,OVERALL,Research Strategies in Human Geography,,40,82.375,5.587015625,90.0,67.0,0,0.0,0.0,0.0,1,1.0,3,7,8,15,5
 UBCV,2020,W,GEOG,374,,101,Statistics in Geography,Chris Meulbroek;James Kevin Pierce;James Pierce;Nina Hewitt,67,77.76119403,10.56020195,95.0,23.0,1,0.0,0.0,1.0,3,10.0,8,13,13,8,10
-UBCV,2020,W,GEOG,374,,201,Statistics in Geography,James Pierce;Nina Hewitt,59,75.94915254,11.36301279,95.0,33.0,1,1.0,1.0,6.0,3,3.0,11,8,13,4,8
-UBCV,2020,W,GEOG,374,,OVERALL,Statistics in Geography,,126,76.91269841,10.9369245,95.0,23.0,2,1.0,1.0,7.0,6,13.0,19,21,26,12,18
-UBCV,2020,W,GEOG,380,,101,Geography of Asia,Caroline Ponder;Charles Greenberg;Natasha Fox,45,71.17777778,11.70914345,90.0,28.0,2,1.0,1.0,2.0,8,4.0,8,6,10,2,1
-UBCV,2020,W,GEOG,380,,OVERALL,Geography of Asia,,45,71.17777778,11.70914345,90.0,28.0,2,1.0,1.0,2.0,8,4.0,8,6,10,2,1
-UBCV,2020,W,GEOG,410,,101,Environment and Society,Alec Blair;Kevin Mccartney;Loch Brown,43,76.27906977,9.058869848,93.0,50.0,0,1.0,0.0,3.0,3,4.0,6,6,14,4,2
-UBCV,2020,W,GEOG,410,,201,Environment and Society,Alec Blair;Loch Brown;Micheal Jerowsky,32,76.03125,14.04711973,92.0,21.0,2,0.0,0.0,0.0,0,3.0,4,6,14,0,3
-UBCV,2020,W,GEOG,410,,OVERALL,Environment and Society,,75,76.17333333,11.3689636,93.0,21.0,2,1.0,0.0,3.0,3,7.0,10,12,28,4,5
-UBCV,2020,W,GEOG,412,,101,"Water Management: Theory, Policy, and Practice.",Karen Jessica Bakker,29,81.10344828,8.64516722,92.0,53.0,0,1.0,0.0,0.0,2,0.0,3,4,6,10,3
-UBCV,2020,W,GEOG,412,,201,"Water Management: Theory, Policy, and Practice.",Karen Jessica Bakker,29,75.0,15.65019397,93.0,37.0,4,0.0,0.0,0.0,2,2.0,3,3,9,2,4
-UBCV,2020,W,GEOG,412,,OVERALL,"Water Management: Theory, Policy, and Practice.",,58,78.05172414,12.90372232,93.0,37.0,4,1.0,0.0,0.0,4,2.0,6,7,15,12,7
-UBCV,2020,W,GEOG,419,,101,Research in Environmental Geography,Inari Sosa Aranda;Jessica Dempsey,29,82.37931035,5.551150416,90.0,68.0,0,0.0,0.0,0.0,0,1.0,2,5,10,7,4
+UBCV,2020,W,GEOG,374,,201,Statistics in Geography,James Pierce;Nina Hewitt,59,75.949152542,11.363012788,95.0,33.0,1,1.0,1.0,6.0,3,3.0,11,8,13,4,8
+UBCV,2020,W,GEOG,374,,OVERALL,Statistics in Geography,,126,76.912698413,10.936924497,95.0,23.0,2,1.0,1.0,7.0,6,13.0,19,21,26,12,18
+UBCV,2020,W,GEOG,380,,101,Geography of Asia,Caroline Ponder;Charles Greenberg;Natasha Fox,45,71.711111111,10.139083297,90.0,40.0,1,2.0,1.0,2.0,8,4.0,8,6,10,2,1
+UBCV,2020,W,GEOG,380,,OVERALL,Geography of Asia,,45,71.711111111,10.139083297,90.0,40.0,1,2.0,1.0,2.0,8,4.0,8,6,10,2,1
+UBCV,2020,W,GEOG,410,,101,Environment and Society,Alec Blair;Kevin Mccartney;Loch Brown,43,76.534883721,8.432784202,93.0,61.0,0,0.0,0.0,4.0,3,4.0,6,6,14,4,2
+UBCV,2020,W,GEOG,410,,201,Environment and Society,Alec Blair;Loch Brown;Micheal Jerowsky,32,76.59375,14.320883409,92.0,21.0,2,0.0,0.0,0.0,0,3.0,3,6,14,0,4
+UBCV,2020,W,GEOG,410,,OVERALL,Environment and Society,,75,76.56,11.237293124,93.0,21.0,2,0.0,0.0,4.0,3,7.0,9,12,28,4,6
+UBCV,2020,W,GEOG,412,,101,"Water Management: Theory, Policy, and Practice.",Karen Jessica Bakker,29,81.103448276,8.64516722,92.0,53.0,0,1.0,0.0,0.0,2,0.0,3,4,6,10,3
+UBCV,2020,W,GEOG,412,,201,"Water Management: Theory, Policy, and Practice.",Karen Jessica Bakker,28,76.25,14.387816348,93.0,37.0,3,0.0,0.0,0.0,2,2.0,3,3,9,2,4
+UBCV,2020,W,GEOG,412,,OVERALL,"Water Management: Theory, Policy, and Practice.",,57,78.719298246,11.965358311,93.0,37.0,3,1.0,0.0,0.0,4,2.0,6,7,15,12,7
+UBCV,2020,W,GEOG,419,,101,Research in Environmental Geography,Inari Sosa Aranda;Jessica Dempsey,29,82.379310345,5.551150416,90.0,68.0,0,0.0,0.0,0.0,0,1.0,2,5,10,7,4
 UBCV,2020,W,GEOG,419,,201,Research in Environmental Geography,Loch Brown;Natasha Fox,20,76.05,5.799047109,85.0,59.0,0,0.0,1.0,0.0,0,3.0,5,2,8,1,0
-UBCV,2020,W,GEOG,419,,OVERALL,Research in Environmental Geography,,49,79.79591837,6.416059252,90.0,59.0,0,0.0,1.0,0.0,0,4.0,7,7,18,8,4
-UBCV,2020,W,GEOG,423,,201,Development of Environmental Thought,Denver Nixon;Kathryn Mckay,19,76.21052632,8.515208273,85.0,45.0,1,0.0,0.0,0.0,0,1.0,2,7,7,1,0
-UBCV,2020,W,GEOG,423,,OVERALL,Development of Environmental Thought,,19,76.21052632,8.515208273,85.0,45.0,1,0.0,0.0,0.0,0,1.0,2,7,7,1,0
-UBCV,2020,W,GEOG,424,,201,Feminist Geographies,Geraldine Pratt;Juliane Collard,11,80.54545455,9.574587577,91.0,61.0,0,0.0,0.0,1.0,0,1.0,2,0,2,4,1
-UBCV,2020,W,GEOG,424,,OVERALL,Feminist Geographies,,11,80.54545455,9.574587577,91.0,61.0,0,0.0,0.0,1.0,0,1.0,2,0,2,4,1
-UBCV,2020,W,GEOG,446,A,101,Topics in Geography,Denver Nixon;Kathryn Mckay;Loch Brown,27,75.88888889,14.88244535,87.0,6.0,1,0.0,0.0,0.0,1,2.0,6,3,12,2,0
-UBCV,2020,W,GEOG,446,A,OVERALL,Topics in Geography,,27,75.88888889,14.88244535,87.0,6.0,1,0.0,0.0,0.0,1,2.0,6,3,12,2,0
-UBCV,2020,W,GEOG,446,B,201,Topics in Geography,Denver Nixon;Ignacio Ochoa,15,75.46666667,13.08688911,85.0,30.0,1,0.0,0.0,0.0,0,0.0,3,4,6,1,0
-UBCV,2020,W,GEOG,446,B,OVERALL,Topics in Geography,,15,75.46666667,13.08688911,85.0,30.0,1,0.0,0.0,0.0,0,0.0,3,4,6,1,0
-UBCV,2020,W,GEOG,450,,201,Urban Research,Elvin Wyly,23,76.95652174,21.44438528,91.0,0.0,2,0.0,1.0,0.0,0,0.0,0,1,8,7,4
-UBCV,2020,W,GEOG,450,,OVERALL,Urban Research,,23,76.95652174,21.44438528,91.0,0.0,2,0.0,1.0,0.0,0,0.0,0,1,8,7,4
-UBCV,2020,W,GEOG,497,,101,The Arctic,Gregory H Henry;Sofie Agger,31,78.58064516,6.200936454,89.0,65.0,0,0.0,0.0,0.0,2,1.0,6,8,8,6,0
-UBCV,2020,W,GEOG,497,,OVERALL,The Arctic,,31,78.58064516,6.200936454,89.0,65.0,0,0.0,0.0,0.0,2,1.0,6,8,8,6,0
-UBCV,2020,W,GEOG,498,,101,Geographies of the Middle East,Siobhan Mcphee,27,77.03703704,6.72241647,85.0,60.0,0,0.0,0.0,2.0,1,0.0,6,7,7,4,0
-UBCV,2020,W,GEOG,498,,OVERALL,Geographies of the Middle East,,27,77.03703704,6.72241647,85.0,60.0,0,0.0,0.0,2.0,1,0.0,6,7,7,4,0
-UBCV,2020,W,GEOG,514,D,201,Topics in Environmental Geography,Jessica Dempsey,6,84.0,17.7087549,92.0,48.0,1,0.0,0.0,0.0,0,0.0,0,0,0,1,4
-UBCV,2020,W,GEOG,514,D,OVERALL,Topics in Environmental Geography,,6,84.0,17.7087549,92.0,48.0,1,0.0,0.0,0.0,0,0.0,0,0,0,1,4
+UBCV,2020,W,GEOG,419,,OVERALL,Research in Environmental Geography,,49,79.795918367,6.416059252,90.0,59.0,0,0.0,1.0,0.0,0,4.0,7,7,18,8,4
+UBCV,2020,W,GEOG,423,,201,Development of Environmental Thought,Denver Nixon;Kathryn Mckay,19,76.210526316,8.515208273,85.0,45.0,1,0.0,0.0,0.0,0,1.0,2,7,7,1,0
+UBCV,2020,W,GEOG,423,,OVERALL,Development of Environmental Thought,,19,76.210526316,8.515208273,85.0,45.0,1,0.0,0.0,0.0,0,1.0,2,7,7,1,0
+UBCV,2020,W,GEOG,424,,201,Feminist Geographies,Geraldine Pratt;Juliane Collard,11,80.545454545,9.574587577,91.0,61.0,0,0.0,0.0,1.0,0,1.0,2,0,2,4,1
+UBCV,2020,W,GEOG,424,,OVERALL,Feminist Geographies,,11,80.545454545,9.574587577,91.0,61.0,0,0.0,0.0,1.0,0,1.0,2,0,2,4,1
+UBCV,2020,W,GEOG,446,A,101,Topics in Geography,Denver Nixon;Kathryn Mckay;Loch Brown,27,75.888888889,14.882445346,87.0,6.0,1,0.0,0.0,0.0,1,2.0,6,3,12,2,0
+UBCV,2020,W,GEOG,446,A,OVERALL,Topics in Geography,,27,75.888888889,14.882445346,87.0,6.0,1,0.0,0.0,0.0,1,2.0,6,3,12,2,0
+UBCV,2020,W,GEOG,446,B,201,Topics in Geography,Denver Nixon;Ignacio Ochoa,15,75.466666667,13.086889113,85.0,30.0,1,0.0,0.0,0.0,0,0.0,3,4,6,1,0
+UBCV,2020,W,GEOG,446,B,OVERALL,Topics in Geography,,15,75.466666667,13.086889113,85.0,30.0,1,0.0,0.0,0.0,0,0.0,3,4,6,1,0
+UBCV,2020,W,GEOG,450,,201,Urban Research,Elvin Wyly,22,82.818181818,7.41707402,91.0,55.0,0,0.0,1.0,0.0,0,0.0,0,1,9,7,4
+UBCV,2020,W,GEOG,450,,OVERALL,Urban Research,,22,82.818181818,7.41707402,91.0,55.0,0,0.0,1.0,0.0,0,0.0,0,1,9,7,4
+UBCV,2020,W,GEOG,497,,101,The Arctic,Gregory H Henry;Sofie Agger,31,78.580645161,6.200936454,89.0,65.0,0,0.0,0.0,0.0,2,1.0,6,8,8,6,0
+UBCV,2020,W,GEOG,497,,OVERALL,The Arctic,,31,78.580645161,6.200936454,89.0,65.0,0,0.0,0.0,0.0,2,1.0,6,8,8,6,0
+UBCV,2020,W,GEOG,498,,101,Geographies of the Middle East,Siobhan Mcphee,27,77.037037037,6.72241647,85.0,60.0,0,0.0,0.0,2.0,1,0.0,6,7,7,4,0
+UBCV,2020,W,GEOG,498,,OVERALL,Geographies of the Middle East,,27,77.037037037,6.72241647,85.0,60.0,0,0.0,0.0,2.0,1,0.0,6,7,7,4,0
+UBCV,2020,W,GEOG,514,D,201,Topics in Environmental Geography,Jessica Dempsey,6,84.0,17.708754897,92.0,48.0,1,0.0,0.0,0.0,0,0.0,0,0,0,1,4
+UBCV,2020,W,GEOG,514,D,OVERALL,Topics in Environmental Geography,,6,84.0,17.708754897,92.0,48.0,1,0.0,0.0,0.0,0,0.0,0,0,0,1,4
 UBCV,2020,W,GEOG,520,,101,Themes and Interpretive Issues in Modern Human Geography,Geraldine Pratt;Jamie Peck;Jessica Dempsey;Merje Kuus,12,86.5,1.087114613,88.0,85.0,0,0.0,0.0,0.0,0,0.0,0,0,0,12,0
 UBCV,2020,W,GEOG,520,,OVERALL,Themes and Interpretive Issues in Modern Human Geography,,12,86.5,1.087114613,88.0,85.0,0,0.0,0.0,0.0,0,0.0,0,0,0,12,0
-UBCV,2020,W,GEOG,535,,101,International Migration and Settlement,Daniel Joseph Hiebert,7,87.14285714,1.67616342,90.0,85.0,0,0.0,0.0,0.0,0,0.0,0,0,0,6,1
-UBCV,2020,W,GEOG,535,,OVERALL,International Migration and Settlement,,7,87.14285714,1.67616342,90.0,85.0,0,0.0,0.0,0.0,0,0.0,0,0,0,6,1
-UBCV,2020,W,GEOG,551,,201,Urban Social Geography,Mohammed Arefin;Mohammed Rafi Arefin,9,85.88888889,5.532730891,92.0,75.0,0,0.0,0.0,0.0,0,0.0,1,1,1,5,1
-UBCV,2020,W,GEOG,551,,OVERALL,Urban Social Geography,,9,85.88888889,5.532730891,92.0,75.0,0,0.0,0.0,0.0,0,0.0,1,1,1,5,1
-UBCV,2020,W,GEOG,560,E,201,Economic Geography,Jamie Peck,7,86.57142857,3.457221565,90.0,80.0,0,0.0,0.0,0.0,0,0.0,0,0,1,4,2
-UBCV,2020,W,GEOG,560,E,OVERALL,Economic Geography,,7,86.57142857,3.457221565,90.0,80.0,0,0.0,0.0,0.0,0,0.0,0,0,1,4,2
+UBCV,2020,W,GEOG,535,,101,International Migration and Settlement,Daniel Joseph Hiebert,7,87.142857143,1.67616342,90.0,85.0,0,0.0,0.0,0.0,0,0.0,0,0,0,6,1
+UBCV,2020,W,GEOG,535,,OVERALL,International Migration and Settlement,,7,87.142857143,1.67616342,90.0,85.0,0,0.0,0.0,0.0,0,0.0,0,0,0,6,1
+UBCV,2020,W,GEOG,547,A,OVERALL,Directed Reading in Human Geography,,7,89.428571429,2.572750983,92.0,86.0,0,0.0,0.0,0.0,0,0.0,0,0,0,,
+UBCV,2020,W,GEOG,551,,201,Urban Social Geography,Mohammed Arefin;Mohammed Rafi Arefin,9,85.888888889,5.532730891,92.0,75.0,0,0.0,0.0,0.0,0,0.0,1,1,1,5,1
+UBCV,2020,W,GEOG,551,,OVERALL,Urban Social Geography,,9,85.888888889,5.532730891,92.0,75.0,0,0.0,0.0,0.0,0,0.0,1,1,1,5,1
+UBCV,2020,W,GEOG,560,E,201,Economic Geography,Jamie Peck,7,86.571428571,3.457221565,90.0,80.0,0,0.0,0.0,0.0,0,0.0,0,0,1,4,2
+UBCV,2020,W,GEOG,560,E,OVERALL,Economic Geography,,8,87.0,3.422613872,90.0,80.0,0,0.0,0.0,0.0,0,0.0,0,0,1,4,3

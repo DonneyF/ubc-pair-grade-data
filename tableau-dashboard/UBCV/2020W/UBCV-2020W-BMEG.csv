@@ -1,85 +1,87 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Atishay Jay;Hannah Gustafson;Peter Cripton;Peter Zandstra;Septimiu Salcudean,110,84.22727273,6.630011127,94.0,64.0,0,0.0,0.0,0.0,2.0,4.0,5.0,16.0,19.0,39,25
-UBCV,2020,W,BMEG,101,,OVERALL,Introduction to Biomedical Engineering,,110,84.22727273,6.630011127,94.0,64.0,0,0.0,0.0,0.0,2.0,4.0,5.0,16.0,19.0,39,25
-UBCV,2020,W,BMEG,102,,201,Biomedical Engineering Lab,Gabrielle Lam;Jeanie Malone;Matthew Hickey;Mohammad Reza Yousefidarestani;Roza Vaez Ghaemi,108,81.26851852,4.881026553,92.0,68.0,0,0.0,0.0,0.0,0.0,4.0,8.0,25.0,39.0,29,3
-UBCV,2020,W,BMEG,102,,OVERALL,Biomedical Engineering Lab,,108,81.26851852,4.881026553,92.0,68.0,0,0.0,0.0,0.0,0.0,4.0,8.0,25.0,39.0,29,3
-UBCV,2020,W,BMEG,201,,201,Technical Communication for Biomedical Engineers,Adrianna Eyking;Claire Mundy;Li Jun Lim;Tamara Lee;Tanya Wu,39,81.1025641,9.667620596,93.0,37.0,1,0.0,0.0,0.0,0.0,4.0,2.0,4.0,14.0,7,7
-UBCV,2020,W,BMEG,201,,202,Technical Communication for Biomedical Engineers,Adrianna Eyking;Claire Mundy;Li Jun Lim;Tamara Lee;Tanya Wu,34,80.5,7.191114045,91.0,67.0,0,0.0,0.0,0.0,1.0,3.0,6.0,2.0,7.0,12,3
-UBCV,2020,W,BMEG,201,,203,Technical Communication for Biomedical Engineers,Adrianna Eyking;Claire Mundy;Li Jun Lim;Tamara Lee;Tanya Wu,42,81.80952381,7.756155998,96.0,62.0,0,0.0,0.0,1.0,1.0,2.0,7.0,1.0,13.0,10,7
-UBCV,2020,W,BMEG,201,,OVERALL,Technical Communication for Biomedical Engineers,,115,81.1826087,8.248958051,96.0,37.0,1,0.0,0.0,1.0,2.0,9.0,15.0,7.0,34.0,29,17
-UBCV,2020,W,BMEG,210,,101,Thermodynamics in Biomedical Engineering,Atoosa Mahmoudian;Gabriel Potvin;Roza Vaez Ghaemi;Songzhe Liu,110,74.3,11.0242019,100.0,39.0,2,2.0,4.0,6.0,14.0,17.0,13.0,12.0,21.0,11,8
-UBCV,2020,W,BMEG,210,,OVERALL,Thermodynamics in Biomedical Engineering,,110,74.3,11.0242019,100.0,39.0,2,2.0,4.0,6.0,14.0,17.0,13.0,12.0,21.0,11,8
-UBCV,2020,W,BMEG,220,,201,Circuits and Electromagnetics with Application to Biomedical Engineering,Amarpreet Powar;Calvin Roskelley;Carolina Tropini;Colin Macdonald;David Mackay;David Scott Mackay;Ian Kent Nickolas Janzen;Negar Mohaghegh Harandi;Philip Loewen;Shan Lu;Tully Michael Underhill,124,76.50806452,13.88541726,100.0,28.0,3,6.0,6.0,6.0,9.0,12.0,13.0,12.0,23.0,9,25
-UBCV,2020,W,BMEG,220,,OVERALL,Circuits and Electromagnetics with Application to Biomedical Engineering,,124,76.50806452,13.88541726,100.0,28.0,3,6.0,6.0,6.0,9.0,12.0,13.0,12.0,23.0,9,25
-UBCV,2020,W,BMEG,230,,101,Biomechanics I,Carly Jones;Emily Bliven;Loay Al-Salehi;Luke Johnson;Pranav Shrestha;Robyn Newell,118,77.08474576,12.12440942,95.0,0.0,2,1.0,2.0,4.0,4.0,12.0,16.0,20.0,31.0,18,8
-UBCV,2020,W,BMEG,230,,OVERALL,Biomechanics I,,118,77.08474576,12.12440942,95.0,0.0,2,1.0,2.0,4.0,4.0,12.0,16.0,20.0,31.0,18,8
-UBCV,2020,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Avineet Randhawa;Calvin Roskelley;Elizabeth Rideout;Fiona Dickson;Ivan Robert Nabi;Parsa Arabi;Puja Biswas;Tabea Stephan;Timothy Wong,116,78.20689655,11.43565533,98.0,34.0,2,2.0,3.0,4.0,4.0,13.0,15.0,14.0,17.0,28,14
-UBCV,2020,W,BMEG,245,,OVERALL,The Fundamental Units of Life: From Cells To Systems,,116,78.20689655,11.43565533,98.0,34.0,2,2.0,3.0,4.0,4.0,13.0,15.0,14.0,17.0,28,14
-UBCV,2020,W,BMEG,250,,201,Cellular  Physiology  and Biophysics,Atishay Jay;Nastaran Taleghani;Sukhneet Kaur Dhillon;Sukhneet Kaur Kaur Dhillon;Vikramaditya Yadav,114,83.45614035,9.39981204,97.0,47.0,2,0.0,3.0,1.0,2.0,3.0,6.0,6.0,23.0,43,25
-UBCV,2020,W,BMEG,250,,OVERALL,Cellular  Physiology  and Biophysics,,114,83.45614035,9.39981204,97.0,47.0,2,0.0,3.0,1.0,2.0,3.0,6.0,6.0,23.0,43,25
-UBCV,2020,W,BMEG,257,,201,Biomedical Engineering Design I,Alexi Michael;Calvin Kuo;Emily Bliven;Jessica Hua;Parisa Eshraghi;Roan Raina;Sau Yung Ella Sit,116,85.09482759,6.102000311,94.0,68.0,0,0.0,0.0,0.0,0.0,7.0,4.0,7.0,19.0,50,29
-UBCV,2020,W,BMEG,257,,OVERALL,Biomedical Engineering Design I,,116,85.09482759,6.102000311,94.0,68.0,0,0.0,0.0,0.0,0.0,7.0,4.0,7.0,19.0,50,29
-UBCV,2020,W,BMEG,310,,101,Introduction to Bioinformatics,Ali Bashashati Saghezchi;Ali Chamkalani;Carl De Boer;Divya Kriti;Matthew Victor John Wiens,74,82.35135135,11.24987967,100.0,43.0,1,1.0,0.0,3.0,3.0,6.0,3.0,7.0,13.0,11,26
-UBCV,2020,W,BMEG,310,,OVERALL,Introduction to Bioinformatics,,74,82.35135135,11.24987967,100.0,43.0,1,1.0,0.0,3.0,3.0,6.0,3.0,7.0,13.0,11,26
-UBCV,2020,W,BMEG,320,,101,Bioengineering Feedback Systems and Controls,Amirali Darbandsari;Sharareh Bayat,10,77.7,15.60662253,93.0,41.0,1,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,2,3
-UBCV,2020,W,BMEG,320,,OVERALL,Bioengineering Feedback Systems and Controls,,10,77.7,15.60662253,93.0,41.0,1,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,2,3
-UBCV,2020,W,BMEG,321,,201,Biomedical Instrumentation,Andres Velez Lopez;Negar Mohaghegh Harandi;Rashmi Prakash;Sukhneet Kaur Dhillon,69,87.76811594,7.017090329,98.0,61.0,0,0.0,0.0,1.0,0.0,1.0,1.0,6.0,6.0,17,37
-UBCV,2020,W,BMEG,321,,OVERALL,Biomedical Instrumentation,,69,87.76811594,7.017090329,98.0,61.0,0,0.0,0.0,1.0,0.0,1.0,1.0,6.0,6.0,17,37
-UBCV,2020,W,BMEG,330,,201,Biomechanics II,Emily Sullivan;Luke Jeffrey Maclean;Luke Maclean;Robyn Newell,25,85.08,7.210640286,93.0,67.0,0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,6.0,4,11
-UBCV,2020,W,BMEG,330,,OVERALL,Biomechanics II,,25,85.08,7.210640286,93.0,67.0,0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,6.0,4,11
-UBCV,2020,W,BMEG,350,,201,Human Structure/Function from Cells to Systems,A Wayne Vogl;Arlo Adams;Christina Hull;Cidnee Luu;Edwin D Moore;Hakima Moukhles;James Johnson;Mark Steven Cembrowski;Nilanga Aki Bandara;Peter Cripton;Salma Osborne;Sharareh Bayat;Tim Kieffer,84,74.95238095,10.23095323,95.0,40.0,2,2.0,2.0,2.0,9.0,12.0,10.0,10.0,24.0,7,4
-UBCV,2020,W,BMEG,350,,OVERALL,Human Structure/Function from Cells to Systems,,84,74.95238095,10.23095323,95.0,40.0,2,2.0,2.0,2.0,9.0,12.0,10.0,10.0,24.0,7,4
-UBCV,2020,W,BMEG,357,,201,Biomedical  Engineering Design II,Andrew Yan;Gabrielle Lam;Jeanie Malone;Jenna Usprech;Jessica Hua;Loay Al-Salehi;Matthew Hickey;Rashmi Prakash,84,87.42857143,5.976431047,97.0,58.0,0,0.0,1.0,0.0,1.0,0.0,2.0,1.0,8.0,42,29
-UBCV,2020,W,BMEG,357,,OVERALL,Biomedical  Engineering Design II,,84,87.42857143,5.976431047,97.0,58.0,0,0.0,1.0,0.0,1.0,0.0,2.0,1.0,8.0,42,29
-UBCV,2020,W,BMEG,371,,101,Transport Phenomena within Cells and Tissues,Adel Yavarinasab;Daniel Coombs;Iman Rahgozar Abadi,78,82.47435897,6.895743763,95.0,58.0,0,0.0,1.0,0.0,1.0,1.0,7.0,18.0,18.0,18,14
-UBCV,2020,W,BMEG,371,,OVERALL,Transport Phenomena within Cells and Tissues,,78,82.47435897,6.895743763,95.0,58.0,0,0.0,1.0,0.0,1.0,1.0,7.0,18.0,18.0,18,14
-UBCV,2020,W,BMEG,372,,101,Biomedical Materials and Drug Delivery,Gabrielle Lam;Roza Vaez Ghaemi,33,84.6969697,5.132524041,90.0,64.0,0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,5.0,22,2
-UBCV,2020,W,BMEG,372,,OVERALL,Biomedical Materials and Drug Delivery,,33,84.6969697,5.132524041,90.0,64.0,0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,5.0,22,2
-UBCV,2020,W,BMEG,373,,101,Microfluidics,Adel Yavarinasab;Carolina Tropini,11,78.90909091,5.923758021,87.0,66.0,0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,4.0,2,0
-UBCV,2020,W,BMEG,373,,OVERALL,Microfluidics,,11,78.90909091,5.923758021,87.0,66.0,0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,4.0,2,0
-UBCV,2020,W,BMEG,374,,201,Cellular Bioengineering: Laboratory & Design,Charles Lau;Jenna Usprech;Laura Stankiewicz;Tabea Stephan;Tamara Bodnar,27,84.62962963,6.657258318,95.0,69.0,0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,9.0,5,8
-UBCV,2020,W,BMEG,374,,OVERALL,Cellular Bioengineering: Laboratory & Design,,27,84.62962963,6.657258318,95.0,69.0,0,0.0,0.0,0.0,0.0,1.0,2.0,2.0,9.0,5,8
-UBCV,2020,W,BMEG,400,C,101,Topics in Biomedical Engineering,Myeong Jin Ju,13,72.23076923,13.21712176,90.0,55.0,0,0.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,1,2
-UBCV,2020,W,BMEG,400,C,OVERALL,Topics in Biomedical Engineering,,13,72.23076923,13.21712176,90.0,55.0,0,0.0,2.0,2.0,2.0,1.0,0.0,1.0,2.0,1,2
-UBCV,2020,W,BMEG,400,D,101,Topics in Biomedical Engineering,Matthias Goerges,9,84.66666667,6.614378278,94.0,73.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,2,2
-UBCV,2020,W,BMEG,400,D,OVERALL,Topics in Biomedical Engineering,,9,84.66666667,6.614378278,94.0,73.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,3.0,2,2
-UBCV,2020,W,BMEG,400,E,201,Topics in Biomedical Engineering,Carl De Boer;Paola Arguello Pascualli,7,73.57142857,20.20608112,89.0,34.0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,3,0
-UBCV,2020,W,BMEG,400,E,OVERALL,Topics in Biomedical Engineering,,7,73.57142857,20.20608112,89.0,34.0,1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,3,0
-UBCV,2020,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Paige Tighe;James Blair Simonite;Zitian Tong,22,83.81818182,4.193377587,94.0,77.0,0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,6,2
-UBCV,2020,W,BMEG,401,,OVERALL,Economics of Healthcare Solutions,,22,83.81818182,4.193377587,94.0,77.0,0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.0,6,2
-UBCV,2020,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jeanie Malone;Jenna Usprech;Nico Werschler;Tim Kieffer;Tully Michael Underhill,29,85.37931035,6.873415626,96.0,66.0,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,6.0,11,8
-UBCV,2020,W,BMEG,410,,OVERALL,"Biomedical Equipment, Physiology, and Anatomy",,29,85.37931035,6.873415626,96.0,66.0,0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,6.0,11,8
-UBCV,2020,W,BMEG,420,,101,Medical Imaging,Robert Rohling,10,75.8,9.065195959,86.0,58.0,0,0.0,1.0,0.0,1.0,0.0,2.0,3.0,0.0,3,0
-UBCV,2020,W,BMEG,420,,OVERALL,Medical Imaging,,10,75.8,9.065195959,86.0,58.0,0,0.0,1.0,0.0,1.0,0.0,2.0,3.0,0.0,3,0
-UBCV,2020,W,BMEG,455,,101,Professionalism and Ethics in Biomedical Engineering,Jeanie Malone;Jenna Usprech;Rashmi Prakash,26,84.30769231,3.802832952,93.0,77.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,9.0,12,2
-UBCV,2020,W,BMEG,455,,OVERALL,Professionalism and Ethics in Biomedical Engineering,,26,84.30769231,3.802832952,93.0,77.0,0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,9.0,12,2
-UBCV,2020,W,BMEG,456,,101,Clinical and Industrial Biomedical Engineering,Judy Findlay;Rashmi Prakash,37,82.05405405,9.309332074,96.0,56.0,0,0.0,2.0,0.0,0.0,3.0,1.0,3.0,13.0,5,10
-UBCV,2020,W,BMEG,456,,OVERALL,Clinical and Industrial Biomedical Engineering,,37,82.05405405,9.309332074,96.0,56.0,0,0.0,2.0,0.0,0.0,3.0,1.0,3.0,13.0,5,10
-UBCV,2020,W,BMEG,457,,001,Biomedical Engineering Design Project,Jeanie Malone;Loay Al-Salehi;Luke Maclean;Negar Mohaghegh Harandi;Robyn Newell,17,85.47058824,10.72449094,98.0,59.0,0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,6.0,1,8
-UBCV,2020,W,BMEG,457,,OVERALL,Biomedical Engineering Design Project,,17,85.47058824,10.72449094,98.0,59.0,0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,6.0,1,8
-UBCV,2020,W,BMEG,474,,201,Stem Cells and Regenerative Medicine,Fabio Rossi;Nika Shakiba;Nozomu Yachie,16,92.875,6.631993164,98.0,71.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0,14
-UBCV,2020,W,BMEG,474,,OVERALL,Stem Cells and Regenerative Medicine,,16,92.875,6.631993164,98.0,71.0,0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0,14
-UBCV,2020,W,BMEG,500,,101,Orientation to Clinical Environment,Anoosha Shirvanthe;Roger Tam;Tanya Bennet,17,95.23529412,2.250816845,98.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,17
-UBCV,2020,W,BMEG,500,,OVERALL,Orientation to Clinical Environment,,17,95.23529412,2.250816845,98.0,90.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,17
-UBCV,2020,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jeanie Malone;Jenna Usprech;Nico Werschler;Tim Kieffer;Tully Michael Underhill,16,89.0,5.019960159,96.0,78.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,5,8
-UBCV,2020,W,BMEG,510,,OVERALL,Anatomy and Physiology with Applications to Biomedical Devices,,16,89.0,5.019960159,96.0,78.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,5,8
-UBCV,2020,W,BMEG,511,,201,Fundamentals of Applied Pathophysiology in Biomedical Engineering,Babak Shadgan;Hongshen Ma,17,92.11764706,3.038962671,97.0,87.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,12
-UBCV,2020,W,BMEG,511,,OVERALL,Fundamentals of Applied Pathophysiology in Biomedical Engineering,,17,92.11764706,3.038962671,97.0,87.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,12
-UBCV,2020,W,BMEG,550,,201,Biomedical Engineering Technology,Amirhossein Omidvarpashesar;Anthony Chan;Anthony Yuet K Chan,9,83.22222222,7.996527024,95.0,68.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,4,1
-UBCV,2020,W,BMEG,550,,OVERALL,Biomedical Engineering Technology,,9,83.22222222,7.996527024,95.0,68.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0,4,1
-UBCV,2020,W,BMEG,556,,101,Clinical and Industrial Biomedical Engineering,Judy Findlay;Rashmi Prakash,10,87.4,3.025814858,93.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6,3
-UBCV,2020,W,BMEG,556,,OVERALL,Clinical and Industrial Biomedical Engineering,,10,87.4,3.025814858,93.0,83.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,6,3
-UBCV,2020,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Jeffrey Boschman;Sharareh Bayat;Siamak Najarian,10,87.7,6.342975117,96.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,4,3
-UBCV,2020,W,BMEG,557,,OVERALL,Statistical Methods for Evaluating Medical Technologies,,10,87.7,6.342975117,96.0,76.0,0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,4,3
-UBCV,2020,W,BMEG,580,,101,Biomedical Engineering Topics at the Interface of Medicine and Engineering,Cheryl Lea Wellington;James Piret;Matthias Goerges;Nozomu Yachie;Peter Cripton;Srinivas Murthy;Tim Kieffer;Tully Michael Underhill,55,83.47272727,12.33311493,94.0,0.0,1,0.0,0.0,0.0,0.0,1.0,1.0,5.0,17.0,20,10
-UBCV,2020,W,BMEG,580,,OVERALL,Biomedical Engineering Topics at the Interface of Medicine and Engineering,,55,83.47272727,12.33311493,94.0,0.0,1,0.0,0.0,0.0,0.0,1.0,1.0,5.0,17.0,20,10
-UBCV,2020,W,BMEG,581,,201,Professional and Academic Development,Jenna Usprech;Nika Shakiba;Nozomu Yachie,36,92.0,4.816637832,96.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,5,29
-UBCV,2020,W,BMEG,581,,OVERALL,Professional and Academic Development,,36,92.0,4.816637832,96.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,5,29
-UBCV,2020,W,BMEG,591,C,101,Topics in Biomedical Engineering,Myeong Jin Ju,12,88.91666667,9.080031371,100.0,73.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,3,5
-UBCV,2020,W,BMEG,591,C,OVERALL,Topics in Biomedical Engineering,,12,88.91666667,9.080031371,100.0,73.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2.0,3,5
-UBCV,2020,W,BMEG,591,D,101,Topics in Biomedical Engineering,Matthias Goerges,10,84.6,4.90351348,93.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3,2
-UBCV,2020,W,BMEG,591,D,OVERALL,Topics in Biomedical Engineering,,10,84.6,4.90351348,93.0,80.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3,2
-UBCV,2020,W,BMEG,591,E,201,Topics in Biomedical Engineering,Carl De Boer,20,86.65,6.368301434,98.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,6.0,7,5
-UBCV,2020,W,BMEG,591,E,OVERALL,Topics in Biomedical Engineering,,20,86.65,6.368301434,98.0,75.0,0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,6.0,7,5
-UBCV,2020,W,BMEG,591,F,201,Topics in Biomedical Engineering,Nika Shakiba;Nozomu Yachie,17,83.23529412,6.30009337,91.0,72.0,0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,6,4
-UBCV,2020,W,BMEG,591,F,OVERALL,Topics in Biomedical Engineering,,17,83.23529412,6.30009337,91.0,72.0,0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,2.0,6,4
+UBCV,2020,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Ali Chamkalani;Atishay Jay;Hannah Gustafson;Peter Cripton;Peter Zandstra;Septimiu Salcudean,110,84.227272727,6.630011127,94.0,64.0,0,0.0,0.0,0,2.0,4.0,5.0,16.0,19.0,39,25
+UBCV,2020,W,BMEG,101,,OVERALL,Introduction to Biomedical Engineering,,110,84.227272727,6.630011127,94.0,64.0,0,0.0,0.0,0,2.0,4.0,5.0,16.0,19.0,39,25
+UBCV,2020,W,BMEG,102,,201,Biomedical Engineering Lab,Gabrielle Lam;Jeanie Malone;Matthew Hickey;Mohammad Reza Yousefidarestani;Roza Vaez Ghaemi,108,81.268518519,4.881026553,92.0,68.0,0,0.0,0.0,0,0.0,4.0,8.0,25.0,39.0,29,3
+UBCV,2020,W,BMEG,102,,OVERALL,Biomedical Engineering Lab,,108,81.268518519,4.881026553,92.0,68.0,0,0.0,0.0,0,0.0,4.0,8.0,25.0,39.0,29,3
+UBCV,2020,W,BMEG,201,,201,Technical Communication for Biomedical Engineers,Adrianna Eyking;Claire Mundy;Li Jun Lim;Tamara Lee;Tanya Wu,39,81.102564103,9.667620596,93.0,37.0,1,0.0,0.0,0,0.0,4.0,2.0,4.0,14.0,7,7
+UBCV,2020,W,BMEG,201,,202,Technical Communication for Biomedical Engineers,Adrianna Eyking;Claire Mundy;Li Jun Lim;Tamara Lee;Tanya Wu,35,80.0,7.677315707,91.0,63.0,0,0.0,0.0,1,1.0,3.0,6.0,2.0,7.0,12,3
+UBCV,2020,W,BMEG,201,,203,Technical Communication for Biomedical Engineers,Adrianna Eyking;Claire Mundy;Li Jun Lim;Tamara Lee;Tanya Wu,43,81.651162791,7.733303738,96.0,62.0,0,0.0,0.0,1,1.0,2.0,8.0,1.0,13.0,10,7
+UBCV,2020,W,BMEG,201,,OVERALL,Technical Communication for Biomedical Engineers,,117,80.974358974,8.367075807,96.0,37.0,1,0.0,0.0,2,2.0,9.0,16.0,7.0,34.0,29,17
+UBCV,2020,W,BMEG,210,,101,Thermodynamics in Biomedical Engineering,Atoosa Mahmoudian;Gabriel Potvin;Roza Vaez Ghaemi;Songzhe Liu,110,74.3,11.0242019,100.0,39.0,2,2.0,4.0,6,14.0,17.0,13.0,12.0,21.0,11,8
+UBCV,2020,W,BMEG,210,,OVERALL,Thermodynamics in Biomedical Engineering,,110,74.3,11.0242019,100.0,39.0,2,2.0,4.0,6,14.0,17.0,13.0,12.0,21.0,11,8
+UBCV,2020,W,BMEG,220,,201,Circuits and Electromagnetics with Application to Biomedical Engineering,Amarpreet Powar;Colin Macdonald;David Mackay;Ian Kent Nickolas Janzen;Negar Mohaghegh Harandi;Shan Lu,124,76.60483871,13.583118736,100.0,40.0,3,6.0,6.0,6,9.0,12.0,13.0,12.0,23.0,9,25
+UBCV,2020,W,BMEG,220,,OVERALL,Circuits and Electromagnetics with Application to Biomedical Engineering,,124,76.60483871,13.583118736,100.0,40.0,3,6.0,6.0,6,9.0,12.0,13.0,12.0,23.0,9,25
+UBCV,2020,W,BMEG,230,,101,Biomechanics I,Carly Jones;Emily Bliven;Loay Al-Salehi;Luke Johnson;Pranav Shrestha;Robyn Newell,120,76.425,13.930597784,95.0,0.0,3,1.0,2.0,4,4.0,12.0,17.0,20.0,31.0,18,8
+UBCV,2020,W,BMEG,230,,OVERALL,Biomechanics I,,120,76.425,13.930597784,95.0,0.0,3,1.0,2.0,4,4.0,12.0,17.0,20.0,31.0,18,8
+UBCV,2020,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Avineet Randhawa;Calvin Roskelley;Elizabeth Rideout;Fiona Dickson;Ivan Robert Nabi;Parsa Arabi;Puja Biswas;Tabea Stephan;Timothy Wong,116,78.206896552,11.435655333,98.0,34.0,2,2.0,3.0,4,4.0,13.0,15.0,14.0,17.0,28,14
+UBCV,2020,W,BMEG,245,,OVERALL,The Fundamental Units of Life: From Cells To Systems,,116,78.206896552,11.435655333,98.0,34.0,2,2.0,3.0,4,4.0,13.0,15.0,14.0,17.0,28,14
+UBCV,2020,W,BMEG,250,,201,Cellular  Physiology  and Biophysics,Atishay Jay;Nastaran Taleghani;Vikramaditya Yadav,114,83.456140351,9.39981204,97.0,47.0,2,0.0,3.0,1,2.0,3.0,6.0,6.0,23.0,43,25
+UBCV,2020,W,BMEG,250,,OVERALL,Cellular  Physiology  and Biophysics,,114,83.456140351,9.39981204,97.0,47.0,2,0.0,3.0,1,2.0,3.0,6.0,6.0,23.0,43,25
+UBCV,2020,W,BMEG,257,,201,Biomedical Engineering Design I,Alexi Michael;Calvin Kuo;Emily Bliven;Parisa Eshraghi;Roan Raina;Sau Yung Ella Sit,116,85.120689655,6.065089228,94.0,68.0,0,0.0,0.0,0,0.0,7.0,3.0,8.0,19.0,50,29
+UBCV,2020,W,BMEG,257,,OVERALL,Biomedical Engineering Design I,,116,85.120689655,6.065089228,94.0,68.0,0,0.0,0.0,0,0.0,7.0,3.0,8.0,19.0,50,29
+UBCV,2020,W,BMEG,310,,101,Introduction to Bioinformatics,Ali Bashashati Saghezchi;Ali Chamkalani;Carl De Boer;Divya Kriti;Matthew Victor John Wiens,74,82.351351351,11.249879674,100.0,43.0,1,1.0,0.0,3,3.0,6.0,3.0,7.0,13.0,11,26
+UBCV,2020,W,BMEG,310,,OVERALL,Introduction to Bioinformatics,,74,82.351351351,11.249879674,100.0,43.0,1,1.0,0.0,3,3.0,6.0,3.0,7.0,13.0,11,26
+UBCV,2020,W,BMEG,320,,101,Bioengineering Feedback Systems and Controls,Amirali Darbandsari;Sharareh Bayat,10,77.7,15.606622526,93.0,41.0,1,0.0,0.0,0,0.0,1.0,3.0,0.0,0.0,2,3
+UBCV,2020,W,BMEG,320,,OVERALL,Bioengineering Feedback Systems and Controls,,10,77.7,15.606622526,93.0,41.0,1,0.0,0.0,0,0.0,1.0,3.0,0.0,0.0,2,3
+UBCV,2020,W,BMEG,321,,201,Biomedical Instrumentation,Andres Velez Lopez;Negar Mohaghegh Harandi;Rashmi Prakash;Sukhneet Kaur Dhillon,69,87.768115942,7.017090329,98.0,61.0,0,0.0,0.0,1,0.0,1.0,1.0,6.0,6.0,17,37
+UBCV,2020,W,BMEG,321,,OVERALL,Biomedical Instrumentation,,69,87.768115942,7.017090329,98.0,61.0,0,0.0,0.0,1,0.0,1.0,1.0,6.0,6.0,17,37
+UBCV,2020,W,BMEG,330,,201,Biomechanics II,Emily Sullivan;Luke Maclean;Robyn Newell,25,85.08,7.210640286,93.0,67.0,0,0.0,0.0,0,1.0,0.0,3.0,0.0,6.0,4,11
+UBCV,2020,W,BMEG,330,,OVERALL,Biomechanics II,,25,85.08,7.210640286,93.0,67.0,0,0.0,0.0,0,1.0,0.0,3.0,0.0,6.0,4,11
+UBCV,2020,W,BMEG,350,,201,Human Structure/Function from Cells to Systems,A Wayne Vogl;Arlo Adams;Christina Hull;Cidnee Luu;Edwin D Moore;Hakima Moukhles;James Johnson;Mark Steven Cembrowski;Nilanga Aki Bandara;Peter Cripton;Salma Osborne;Tim Kieffer,84,75.142857143,9.845973866,95.0,40.0,1,2.0,2.0,3,9.0,12.0,10.0,10.0,24.0,7,4
+UBCV,2020,W,BMEG,350,,OVERALL,Human Structure/Function from Cells to Systems,,84,75.142857143,9.845973866,95.0,40.0,1,2.0,2.0,3,9.0,12.0,10.0,10.0,24.0,7,4
+UBCV,2020,W,BMEG,357,,201,Biomedical  Engineering Design II,Andrew Yan;Jeanie Malone;Jenna Usprech;Jessica Hua;Loay Al-Salehi;Matthew Hickey;Rashmi Prakash,84,87.428571429,5.976431047,97.0,58.0,0,0.0,1.0,0,1.0,0.0,2.0,1.0,8.0,42,29
+UBCV,2020,W,BMEG,357,,OVERALL,Biomedical  Engineering Design II,,84,87.428571429,5.976431047,97.0,58.0,0,0.0,1.0,0,1.0,0.0,2.0,1.0,8.0,42,29
+UBCV,2020,W,BMEG,371,,101,Transport Phenomena within Cells and Tissues,Adel Yavarinasab;Daniel Coombs;Iman Rahgozar Abadi,78,82.602564103,6.517388816,95.0,66.0,0,0.0,0.0,0,1.0,2.0,7.0,18.0,18.0,18,14
+UBCV,2020,W,BMEG,371,,OVERALL,Transport Phenomena within Cells and Tissues,,78,82.602564103,6.517388816,95.0,66.0,0,0.0,0.0,0,1.0,2.0,7.0,18.0,18.0,18,14
+UBCV,2020,W,BMEG,372,,101,Biomedical Materials and Drug Delivery,Gabrielle Lam;Roza Vaez Ghaemi,33,84.696969697,5.132524041,90.0,64.0,0,0.0,0.0,0,1.0,0.0,0.0,3.0,5.0,22,2
+UBCV,2020,W,BMEG,372,,OVERALL,Biomedical Materials and Drug Delivery,,33,84.696969697,5.132524041,90.0,64.0,0,0.0,0.0,0,1.0,0.0,0.0,3.0,5.0,22,2
+UBCV,2020,W,BMEG,373,,101,Microfluidics,Adel Yavarinasab;Carolina Tropini,11,78.909090909,5.923758021,87.0,66.0,0,0.0,0.0,0,1.0,0.0,1.0,3.0,4.0,2,0
+UBCV,2020,W,BMEG,373,,OVERALL,Microfluidics,,11,78.909090909,5.923758021,87.0,66.0,0,0.0,0.0,0,1.0,0.0,1.0,3.0,4.0,2,0
+UBCV,2020,W,BMEG,374,,201,Cellular Bioengineering: Laboratory & Design,Charles Lau;Jenna Usprech;Laura Stankiewicz;Tabea Stephan,27,84.62962963,6.657258318,95.0,69.0,0,0.0,0.0,0,0.0,1.0,2.0,2.0,9.0,5,8
+UBCV,2020,W,BMEG,374,,OVERALL,Cellular Bioengineering: Laboratory & Design,,27,84.62962963,6.657258318,95.0,69.0,0,0.0,0.0,0,0.0,1.0,2.0,2.0,9.0,5,8
+UBCV,2020,W,BMEG,400,C,101,Topics in Biomedical Engineering,Myeong Jin Ju,13,72.230769231,13.217121763,90.0,55.0,0,0.0,2.0,2,2.0,1.0,0.0,1.0,2.0,1,2
+UBCV,2020,W,BMEG,400,C,OVERALL,Topics in Biomedical Engineering,,13,72.230769231,13.217121763,90.0,55.0,0,0.0,2.0,2,2.0,1.0,0.0,1.0,2.0,1,2
+UBCV,2020,W,BMEG,400,D,101,Topics in Biomedical Engineering,Matthias Goerges,9,84.666666667,6.614378278,94.0,73.0,0,0.0,0.0,0,0.0,0.0,1.0,1.0,3.0,2,2
+UBCV,2020,W,BMEG,400,D,OVERALL,Topics in Biomedical Engineering,,9,84.666666667,6.614378278,94.0,73.0,0,0.0,0.0,0,0.0,0.0,1.0,1.0,3.0,2,2
+UBCV,2020,W,BMEG,400,E,201,Topics in Biomedical Engineering,Carl De Boer;Paola Arguello Pascualli,7,75.142857143,19.539946873,89.0,37.0,1,0.0,0.0,1,0.0,0.0,0.0,0.0,2.0,3,0
+UBCV,2020,W,BMEG,400,E,OVERALL,Topics in Biomedical Engineering,,7,75.142857143,19.539946873,89.0,37.0,1,0.0,0.0,1,0.0,0.0,0.0,0.0,2.0,3,0
+UBCV,2020,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Paige Tighe;James Blair Simonite;Zitian Tong,22,83.818181818,4.193377587,94.0,77.0,0,0.0,0.0,0,0.0,0.0,0.0,5.0,9.0,6,2
+UBCV,2020,W,BMEG,401,,OVERALL,Economics of Healthcare Solutions,,22,83.818181818,4.193377587,94.0,77.0,0,0.0,0.0,0,0.0,0.0,0.0,5.0,9.0,6,2
+UBCV,2020,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jeanie Malone;Jenna Usprech;Nico Werschler,29,85.379310345,6.873415626,96.0,66.0,0,0.0,0.0,0,1.0,1.0,1.0,1.0,6.0,11,8
+UBCV,2020,W,BMEG,410,,OVERALL,"Biomedical Equipment, Physiology, and Anatomy",,29,85.379310345,6.873415626,96.0,66.0,0,0.0,0.0,0,1.0,1.0,1.0,1.0,6.0,11,8
+UBCV,2020,W,BMEG,420,,101,Medical Imaging,Robert Rohling,10,75.8,9.065195959,86.0,58.0,0,0.0,1.0,0,1.0,0.0,2.0,3.0,0.0,3,0
+UBCV,2020,W,BMEG,420,,OVERALL,Medical Imaging,,10,75.8,9.065195959,86.0,58.0,0,0.0,1.0,0,1.0,0.0,2.0,3.0,0.0,3,0
+UBCV,2020,W,BMEG,455,,101,Professionalism and Ethics in Biomedical Engineering,Jeanie Malone;Jenna Usprech;Rashmi Prakash,26,84.307692308,3.802832952,93.0,77.0,0,0.0,0.0,0,0.0,0.0,0.0,3.0,9.0,12,2
+UBCV,2020,W,BMEG,455,,OVERALL,Professionalism and Ethics in Biomedical Engineering,,26,84.307692308,3.802832952,93.0,77.0,0,0.0,0.0,0,0.0,0.0,0.0,3.0,9.0,12,2
+UBCV,2020,W,BMEG,456,,101,Clinical and Industrial Biomedical Engineering,Judy Findlay;Rashmi Prakash,37,82.054054054,9.309332074,96.0,56.0,0,0.0,2.0,0,0.0,3.0,1.0,3.0,13.0,5,10
+UBCV,2020,W,BMEG,456,,OVERALL,Clinical and Industrial Biomedical Engineering,,37,82.054054054,9.309332074,96.0,56.0,0,0.0,2.0,0,0.0,3.0,1.0,3.0,13.0,5,10
+UBCV,2020,W,BMEG,457,,001,Biomedical Engineering Design Project,Jeanie Malone;Loay Al-Salehi;Luke Maclean;Negar Mohaghegh Harandi;Robyn Newell,17,85.470588235,10.724490938,98.0,59.0,0,0.0,1.0,0,0.0,1.0,0.0,0.0,6.0,1,8
+UBCV,2020,W,BMEG,457,,OVERALL,Biomedical Engineering Design Project,,17,85.470588235,10.724490938,98.0,59.0,0,0.0,1.0,0,0.0,1.0,0.0,0.0,6.0,1,8
+UBCV,2020,W,BMEG,474,,201,Stem Cells and Regenerative Medicine,Fabio Rossi;Nika Shakiba;Nozomu Yachie,16,92.875,6.631993164,98.0,71.0,0,0.0,0.0,0,0.0,1.0,0.0,0.0,1.0,0,14
+UBCV,2020,W,BMEG,474,,OVERALL,Stem Cells and Regenerative Medicine,,16,92.875,6.631993164,98.0,71.0,0,0.0,0.0,0,0.0,1.0,0.0,0.0,1.0,0,14
+UBCV,2020,W,BMEG,500,,101,Orientation to Clinical Environment,Anoosha Shirvanthe;Roger Tam;Tanya Bennet,17,95.235294118,2.250816845,98.0,90.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0,17
+UBCV,2020,W,BMEG,500,,OVERALL,Orientation to Clinical Environment,,17,95.235294118,2.250816845,98.0,90.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0,17
+UBCV,2020,W,BMEG,501,,001,Interdisciplinary Team Project in Medical Technology Innovation,Anoosha Shirvanthe;Roger Tam;Tanya Bennet,17,91.117647059,4.151541174,96.0,82.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,2.0,1,14
+UBCV,2020,W,BMEG,501,,OVERALL,Interdisciplinary Team Project in Medical Technology Innovation,,17,91.117647059,4.151541174,96.0,82.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,2.0,1,14
+UBCV,2020,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jeanie Malone;Jenna Usprech;Nico Werschler,16,89.0,5.019960159,96.0,78.0,0,0.0,0.0,0,0.0,0.0,0.0,1.0,2.0,5,8
+UBCV,2020,W,BMEG,510,,OVERALL,Anatomy and Physiology with Applications to Biomedical Devices,,16,89.0,5.019960159,96.0,78.0,0,0.0,0.0,0,0.0,0.0,0.0,1.0,2.0,5,8
+UBCV,2020,W,BMEG,511,,201,Fundamentals of Applied Pathophysiology in Biomedical Engineering,Babak Shadgan,17,92.117647059,3.038962671,97.0,87.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5,12
+UBCV,2020,W,BMEG,511,,OVERALL,Fundamentals of Applied Pathophysiology in Biomedical Engineering,,17,92.117647059,3.038962671,97.0,87.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,5,12
+UBCV,2020,W,BMEG,550,,201,Biomedical Engineering Technology,Amirhossein Omidvarpashesar;Anthony Chan,9,83.222222222,7.996527024,95.0,68.0,0,0.0,0.0,0,0.0,1.0,1.0,0.0,2.0,4,1
+UBCV,2020,W,BMEG,550,,OVERALL,Biomedical Engineering Technology,,9,83.222222222,7.996527024,95.0,68.0,0,0.0,0.0,0,0.0,1.0,1.0,0.0,2.0,4,1
+UBCV,2020,W,BMEG,556,,101,Clinical and Industrial Biomedical Engineering,Judy Findlay;Rashmi Prakash,10,87.4,3.025814858,93.0,83.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,1.0,6,3
+UBCV,2020,W,BMEG,556,,OVERALL,Clinical and Industrial Biomedical Engineering,,10,87.4,3.025814858,93.0,83.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,1.0,6,3
+UBCV,2020,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Jeffrey Boschman,10,87.7,6.342975117,96.0,76.0,0,0.0,0.0,0,0.0,0.0,0.0,1.0,2.0,4,3
+UBCV,2020,W,BMEG,557,,OVERALL,Statistical Methods for Evaluating Medical Technologies,,10,87.7,6.342975117,96.0,76.0,0,0.0,0.0,0,0.0,0.0,0.0,1.0,2.0,4,3
+UBCV,2020,W,BMEG,580,,101,Biomedical Engineering Topics at the Interface of Medicine and Engineering,Cheryl Lea Wellington;James Piret;Matthias Goerges;Nozomu Yachie;Peter Cripton;Srinivas Murthy;Tim Kieffer;Tully Michael Underhill,55,83.472727273,12.333114931,94.0,0.0,1,0.0,0.0,0,0.0,1.0,1.0,5.0,17.0,20,10
+UBCV,2020,W,BMEG,580,,OVERALL,Biomedical Engineering Topics at the Interface of Medicine and Engineering,,55,83.472727273,12.333114931,94.0,0.0,1,0.0,0.0,0,0.0,1.0,1.0,5.0,17.0,20,10
+UBCV,2020,W,BMEG,581,,201,Professional and Academic Development,Nika Shakiba;Nozomu Yachie,36,92.0,4.816637832,96.0,75.0,0,0.0,0.0,0,0.0,0.0,1.0,1.0,0.0,5,29
+UBCV,2020,W,BMEG,581,,OVERALL,Professional and Academic Development,,36,92.0,4.816637832,96.0,75.0,0,0.0,0.0,0,0.0,0.0,1.0,1.0,0.0,5,29
+UBCV,2020,W,BMEG,591,C,101,Topics in Biomedical Engineering,Myeong Jin Ju,12,88.916666667,9.080031371,100.0,73.0,0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0,3,5
+UBCV,2020,W,BMEG,591,C,OVERALL,Topics in Biomedical Engineering,,12,88.916666667,9.080031371,100.0,73.0,0,0.0,0.0,0,0.0,0.0,1.0,1.0,2.0,3,5
+UBCV,2020,W,BMEG,591,D,101,Topics in Biomedical Engineering,Matthias Goerges,10,84.6,4.90351348,93.0,80.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,5.0,3,2
+UBCV,2020,W,BMEG,591,D,OVERALL,Topics in Biomedical Engineering,,10,84.6,4.90351348,93.0,80.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,5.0,3,2
+UBCV,2020,W,BMEG,591,E,201,Topics in Biomedical Engineering,Carl De Boer,20,87.1,6.197622634,98.0,75.0,0,0.0,0.0,0,0.0,0.0,1.0,1.0,4.0,9,5
+UBCV,2020,W,BMEG,591,E,OVERALL,Topics in Biomedical Engineering,,20,87.1,6.197622634,98.0,75.0,0,0.0,0.0,0,0.0,0.0,1.0,1.0,4.0,9,5
+UBCV,2020,W,BMEG,591,F,201,Topics in Biomedical Engineering,Nika Shakiba;Nozomu Yachie,17,83.235294118,6.30009337,91.0,72.0,0,0.0,0.0,0,0.0,0.0,3.0,2.0,2.0,6,4
+UBCV,2020,W,BMEG,591,F,OVERALL,Topics in Biomedical Engineering,,17,83.235294118,6.30009337,91.0,72.0,0,0.0,0.0,0,0.0,0.0,3.0,2.0,2.0,6,4

@@ -1,0 +1,58 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,DSCI,100,,001,Introduction to Data Science,Amirali Darbandsari;Anahita Einolghozati;Ding Ma;Eric (Qingze) Li;Eros Shinji Rojas Velez;Jonathan Yu;Prayus Shrestha;Qin Rui Zhao;Rachel Lee;Shu Yu Yang;Trevor Campbell;Wonjee Jeong,178,76.348314607,13.391624943,97.0,13.0,10,2,6,4,9,17,24.0,22,28.0,34,22
+UBCV,2021,W,DSCI,100,,002,Introduction to Data Science,Eros Shinji Rojas Velez;Jingxin Lei;Jonathan Yu;Lindsey Heagy;Melissa Lee;Mohammad Amin Roohi;Rachel Lee;Yilin Yang;Zhonghao Yang,170,85.135294118,12.643001721,99.0,16.0,4,0.0,1,2,2,5,6.0,14,18.0,44,74
+UBCV,2021,W,DSCI,100,,004,Introduction to Data Science,Amirali Darbandsari;Anahita Einolghozati;Ding Ma;Eric (Qingze) Li;Eros Shinji Rojas Velez;Jonathan Yu;Prayus Shrestha;Qin Rui Zhao;Rachel Lee;Shu Yu Yang;Trevor Campbell;Wonjee Jeong,178,77.337078652,12.185425971,93.0,14.0,5,5,5,0.0,10,10,21.0,31,37.0,44,10
+UBCV,2021,W,DSCI,100,,005,Introduction to Data Science,Amirali Darbandsari;Eric (Qingze) Li;Rachel Lee;Rodolfo Lourenzutti;Yilin Yang;Zhonghao Yang,138,83.782608696,12.06838128,97.0,14.0,2,0.0,3,3,2,2,7.0,13,22.0,34,50
+UBCV,2021,W,DSCI,100,,006,Introduction to Data Science,Ding Ma;Fares Burwag;Le Quan Nguyen;Prayus Shrestha;Ruixin Yang,171,84.391812865,10.318671979,97.0,25.0,4,0,0,0,0,4,9.0,20,32.0,45,57
+UBCV,2021,W,DSCI,100,,007,Introduction to Data Science,Fares Burwag;Jingxin Lei;Michael Davis;Nour (Noureldein Ahmed Sa Hanafi;Ruixin Yang;Simon (Yongyuan) Liang,163,81.251533742,11.25372013,99.0,17.0,4,1,0.0,3,4,7,17.0,26,26.0,39,36
+UBCV,2021,W,DSCI,100,,OVERALL,Introduction to Data Science,,998,81.228456914,12.498742638,99.0,13.0,29,8,15,12,27,45,84.0,126,163.0,240,249
+UBCV,2021,W,DSCI,310,,101,Reproducible and Trustworthy Workflows for Data Science,Giuseppe Tomio;Tiffany Timbers,42,82.071428571,4.970119776,91.0,70.0,0,0,0,0,0,1,4.0,7,18.0,9,3
+UBCV,2021,W,DSCI,310,,OVERALL,Reproducible and Trustworthy Workflows for Data Science,,42,82.071428571,4.970119776,91.0,70.0,0,0,0,0,0,1,4.0,7,18.0,9,3
+UBCV,2021,W,DSCI,511,,001,Programming for Data Science,Alireza Iranpour;Arman Seyed-Ahmadi;Fatemeh Taheri Dezaki;Justin Chiasson;Melika Farahani;Mobina Mahdavi;Peter Henry Gysbers;Qiuhan He;Tomas Beuzen,149,91.939597315,6.617164605,100.0,65.0,0,0,0,0,2,3,0.0,1,14.0,13,116
+UBCV,2021,W,DSCI,511,,OVERALL,Programming for Data Science,,149,91.939597315,6.617164605,100.0,65.0,0,0,0,0,2,3,0.0,1,14.0,13,116
+UBCV,2021,W,DSCI,512,,001,Algorithms and Data Structures,Abdul Muntakim Rafi;Christopher Nicholas Gubbels;Colby Delisle;Justin Chiasson;Melika Farahani;Michael Gelbart;Mobina Mahdavi;Yi Xuan Qi,150,92.053333333,6.926058824,100.0,67.0,0,0,0,0,3,0,0.0,3,18.0,19,107
+UBCV,2021,W,DSCI,512,,OVERALL,Algorithms and Data Structures,,150,92.053333333,6.926058824,100.0,67.0,0,0,0,0,3,0,0.0,3,18.0,19,107
+UBCV,2021,W,DSCI,513,,001,Databases and Data Retrieval,Alireza Iranpour;Arman Seyed-Ahmadi;Hsin-Jou Yang;Melika Farahani;Pouya Ahmadvand;Shan Lu;Shiming Gu;Simon Goring;Tiffany Leung;Tomas Beuzen,151,89.609271523,7.086111778,99.0,67.0,0,0,0,0,7,0.0,2.0,4,11.0,32,95
+UBCV,2021,W,DSCI,513,,OVERALL,Databases and Data Retrieval,,151,89.609271523,7.086111778,99.0,67.0,0,0,0,0,7,0.0,2.0,4,11.0,32,95
+UBCV,2021,W,DSCI,521,,001,Computing Platforms for Data Science,Abdul Muntakim Rafi;Joel Ostblom;Maria Florencia D' Andrea;Matthew Hoang Tu Nguyen;Michael Gelbart;Phan Anh Ngoc Bui;Pouya Ahmadvand;Shan Lu;Yi Xuan Qi;Yuxin Tian,149,94.187919463,3.684094974,100.0,78.0,0,0,0,0,0,0,0.0,2,1.0,9,137
+UBCV,2021,W,DSCI,521,,OVERALL,Computing Platforms for Data Science,,149,94.187919463,3.684094974,100.0,78.0,0,0,0,0,0,0,0.0,2,1.0,9,137
+UBCV,2021,W,DSCI,522,,001,Data Science Workflows,Abdul Muntakim Rafi;Eric Lee;Man Yeung Tai;Maria Florencia D' Andrea;Mohamad Amin Mohamadi;Peter Henry Gysbers;Qiuhan He;Tiffany Timbers,116,95.922413793,3.378064437,100.0,68.0,0,0,0,0,0,1,0.0,0,0.0,3,112
+UBCV,2021,W,DSCI,522,,OVERALL,Data Science Workflows,,116,95.922413793,3.378064437,100.0,68.0,0,0,0,0,0,1,0.0,0,0.0,3,112
+UBCV,2021,W,DSCI,523,,001,Programming for Data Manipulation,Andrew Li;Dennis Fan;Hossameldin Ibrahim Said Mohammed;Man Yeung Tai;Rachel Miller;Tarang Mahapatra;Tiffany Leung;Tiffany Timbers,149,93.798657718,6.021335788,100.0,55.0,0,0,,,,,1.0,3,5.0,15,124
+UBCV,2021,W,DSCI,523,,OVERALL,Programming for Data Manipulation,,149,93.798657718,6.021335788,100.0,55.0,0,0,,,,,1.0,3,5.0,15,124
+UBCV,2021,W,DSCI,524,,001,Collaborative Software Development,Eric Lee;Hossameldin Ibrahim Said Mohammed;Man Yeung Tai;Maria Florencia D' Andrea;Md Shahriar Rahim Siddiqui;Melika Farahani;Shan Lu;Tiffany Leung;Tiffany Timbers;Zac Warham,114,97.473684211,3.069145701,100.0,80.0,0,0,0,0,0,0,0.0,0,2.0,1,111
+UBCV,2021,W,DSCI,524,,OVERALL,Collaborative Software Development,,114,97.473684211,3.069145701,100.0,80.0,0,0,0,0,0,0,0.0,0,2.0,1,111
+UBCV,2021,W,DSCI,525,,001,Web and Cloud Computing,Abdul Muntakim Rafi;Daniel Ramandi;Eric Lee;Gittu George;Md Shahriar Rahim Siddiqui;Melika Farahani;Michael Feeley;Tiffany Leung;Zac Warham,114,98.350877193,2.065230306,100.0,92.0,0,0,0,0,0,0,0.0,0,0.0,0,114
+UBCV,2021,W,DSCI,525,,OVERALL,Web and Cloud Computing,,114,98.350877193,2.065230306,100.0,92.0,0,0,0,0,0,0,0.0,0,0.0,0,114
+UBCV,2021,W,DSCI,531,,001,Data Visualization I,Joel Ostblom;Man Yeung Tai;Matthew Hoang Tu Nguyen;Pavan Khiani;Qiuhan He;Shan Lu;Tarang Mahapatra;Tiffany Leung,150,93.526666667,4.664152407,100.0,61.0,0,0,0,1,0,0,1.0,1,0.0,13,134
+UBCV,2021,W,DSCI,531,,OVERALL,Data Visualization I,,150,93.526666667,4.664152407,100.0,61.0,0,0,0,1,0,0,1.0,1,0.0,13,134
+UBCV,2021,W,DSCI,532,,001,Data Visualization II,Andrew Li;Ishika Luthra;Joel Ostblom;Man Yeung Tai;Maria Florencia D' Andrea;Melika Farahani;Michael Gelbart;Pavan Khiani;Shan Lu;Shuyi Tan;Tiffany Leung,114,96.824561404,4.396792101,100.0,68.0,0,0,0,0,0,2,0.0,0,1.0,0,111
+UBCV,2021,W,DSCI,532,,OVERALL,Data Visualization II,,114,96.824561404,4.396792101,100.0,68.0,0,0,0,0,0,2,0.0,0,1.0,0,111
+UBCV,2021,W,DSCI,541,,001,"Privacy, Ethics, and Security",Alireza Iranpour;David Wakeham;Joel Ostblom;Man Yeung Tai;Pavan Khiani;Shan Lu,114,92.763157895,4.958772742,100.0,68.0,0,0,0,0,0,1,0.0,1,3.0,19,90
+UBCV,2021,W,DSCI,541,,OVERALL,"Privacy, Ethics, and Security",,114,92.763157895,4.958772742,100.0,68.0,0,0,0,0,0,1,0.0,1,3.0,19,90
+UBCV,2021,W,DSCI,542,,001,Communication and Argumentation,Andrew Li;David Laing;David Wakeham;Ishika Luthra;Le Quan Nguyen;Mariana Cabani;Michael Gelbart;Pavan Khiani;Xiuyun Wu;Zac Warham,114,95.587719298,3.790559777,100.0,83.0,0,0,0,0,0,0,0.0,0,1.0,8,105
+UBCV,2021,W,DSCI,542,,OVERALL,Communication and Argumentation,,114,95.587719298,3.790559777,100.0,83.0,0,0,0,0,0,0,0.0,0,1.0,8,105
+UBCV,2021,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Aaron Berk;Ali Seyfi;Colby Delisle;Daniel Ramandi;Eric Lee;Michael Gelbart;Mohamad Amin Mohamadi;Shiming Gu;Siddhesh Khandelwal,150,91.68,7.551452147,100.0,60.0,0,0,0,1,5,0,0.0,2,12.0,22,108
+UBCV,2021,W,DSCI,551,,OVERALL,Descriptive Statistics and Probability for Data Science,,150,91.68,7.551452147,100.0,60.0,0,0,0,1,5,0,0.0,2,12.0,22,108
+UBCV,2021,W,DSCI,552,,001,Statistical Inference and Computation I,Alice Li;Andrew Li;Dennis Fan;Eric Lee;Gilberto Alexi Rodr�Guez Arelis;Hossameldin Ibrahim Said Mohammed;Katie Florko;Le Quan Nguyen;Siddhesh Khandelwal;Tiffany Timbers,150,92.513333333,5.456031287,100.0,67.0,0,0,0,0,2,1,0.0,2,2.0,22,121
+UBCV,2021,W,DSCI,552,,OVERALL,Statistical Inference and Computation I,,150,92.513333333,5.456031287,100.0,67.0,0,0,0,0,2,1,0.0,2,2.0,22,121
+UBCV,2021,W,DSCI,553,,001,Statistical Inference and Computation II,Abdul Muntakim Rafi;Gilberto Alexi Rodr�Guez Arelis;Hossameldin Ibrahim Said Mohammed;Md Shahriar Rahim Siddiqui;Michael Gelbart;Mohamad Amin Mohamadi;Mohit Pandey;Trevor Campbell;Yulia Egorova,114,96.605263158,3.483509625,100.0,79.0,0,0,0,0,0,0,0.0,1,0.0,5,108
+UBCV,2021,W,DSCI,553,,OVERALL,Statistical Inference and Computation II,,114,96.605263158,3.483509625,100.0,79.0,0,0,0,0,0,0,0.0,1,0.0,5,108
+UBCV,2021,W,DSCI,561,,001,Regression I,Ali Seyfi;Andrew Li;Arjun Baghela;Christopher Nicholas Gubbels;Gabriela Cohen Freue;Gilberto Alexi Rodr�Guez Arelis;Hossameldin Ibrahim Said Mohammed;Siddhesh Khandelwal;Tomas Beuzen;Yi Xuan Qi,151,94.185430464,4.918541753,100.0,67.0,0,0,0,0,1,0.0,1.0,1,1.0,19,128
+UBCV,2021,W,DSCI,561,,OVERALL,Regression I,,151,94.185430464,4.918541753,100.0,67.0,0,0,0,0,1,0.0,1.0,1,1.0,19,128
+UBCV,2021,W,DSCI,562,,001,Regression II,Alireza Naderi;Gilberto Alexi Rodr�Guez Arelis;Gilberto Alexi Rodr���Guez Arelis;Katie Florko;Michael Gelbart;Mohamad Amin Mohamadi;Shuyi Tan;Siddhesh Khandelwal;Yulia Egorova,114,95.868421053,4.443376612,100.0,72.0,0,0,0,0,0,0,1.0,2,0.0,1,110
+UBCV,2021,W,DSCI,562,,OVERALL,Regression II,,114,95.868421053,4.443376612,100.0,72.0,0,0,0,0,0,0,1.0,2,0.0,1,110
+UBCV,2021,W,DSCI,563,,001,Unsupervised Learning,Daniel Ramandi;David Wakeham;Dollina Dodani;Harsh Sharma;Matthew Hoang Tu Nguyen;Mobina Mahdavi;Phan Anh Ngoc Bui;Varada Kolhatkar,114,93.719298246,4.9502101,100.0,73.0,0,0,0,0,0,0,1.0,2,3.0,11,97
+UBCV,2021,W,DSCI,563,,002,Unsupervised Learning,Julian Brooke;Jungyeul Park;Miikka Pietari Silfverberg;Shi Qiu;Yu-Hsiang Lo,34,92.970588235,4.358796707,99.0,77.0,0,0,0,0,0,0,0.0,1,1.0,4,28
+UBCV,2021,W,DSCI,563,,OVERALL,Unsupervised Learning,,148,93.547297297,4.81682773,100.0,73.0,0,0,0,0,0,0,1.0,3,4.0,15,125
+UBCV,2021,W,DSCI,571,,001,Supervised Learning I,Ali Seyfi;Alireza Iranpour;Daniel Ramandi;Mohamad Amin Mohamadi;Phan Anh Ngoc Bui;Pouya Ahmadvand;Shiming Gu;Varada Kolhatkar,150,89.66,6.704531173,100.0,64.0,0,0,0,0,3,2,2.0,2,16.0,30,95
+UBCV,2021,W,DSCI,571,,OVERALL,Supervised Learning I,,150,89.66,6.704531173,100.0,64.0,0,0,0,0,3,2,2.0,2,16.0,30,95
+UBCV,2021,W,DSCI,572,,001,Supervised Learning II,Abdul Muntakim Rafi;Alireza Iranpour;Arman Seyed-Ahmadi;Dollina Dodani;Matthew Hoang Tu Nguyen;Mobina Mahdavi;Mohit Pandey;Tomas Beuzen,114,89.947368421,5.339520553,99.0,68.0,0,0,0,0,0,1,2.0,2,9.0,29,71
+UBCV,2021,W,DSCI,572,,002,Supervised Learning II,Chiyu Zhang;Ganesh Jawahar;Muhammad Abdul-Mageed;Peter Sullivan;Siliang Liu,34,92.882352941,3.819921512,98.0,79.0,0,0,0,0,0,0,0.0,1,0.0,4,29
+UBCV,2021,W,DSCI,572,,OVERALL,Supervised Learning II,,148,90.621621622,5.16977796,99.0,68.0,0,0,0,0,0,1,2.0,3,9.0,33,100
+UBCV,2021,W,DSCI,573,,001,Feature and Model Selection,Ching-Chung Hsueh;Colby Delisle;Daniel Ramandi;Matthew Hoang Tu Nguyen;Mobina Mahdavi;Phan Anh Ngoc Bui;Tarang Mahapatra;Varada Kolhatkar,151,91.291390728,6.880493591,100.0,52.0,0,,,,,2,1.0,5,13.0,22,107
+UBCV,2021,W,DSCI,573,,OVERALL,Feature and Model Selection,,151,91.291390728,6.880493591,100.0,52.0,0,,,,,2,1.0,5,13.0,22,107
+UBCV,2021,W,DSCI,574,,001,Spatial and Temporal Models,Ali Seyfi;Alireza Iranpour;Colby Delisle;Eric Lee;Le Quan Nguyen;Michael Gelbart;Siddhesh Khandelwal;Tomas Beuzen;Yiting Hu,114,93.666666667,3.79488866,99.0,83.0,0,0,0,0,0,0,0.0,0,2.0,14,98
+UBCV,2021,W,DSCI,574,,OVERALL,Spatial and Temporal Models,,114,93.666666667,3.79488866,99.0,83.0,0,0,0,0,0,0,0.0,0,2.0,14,98
+UBCV,2021,W,DSCI,575,,001,Advanced Machine Learning,Colby Delisle;Dollina Dodani;Matthew Hoang Tu Nguyen;Mobina Mahdavi;Mohit Pandey;Phan Anh Ngoc Bui;Siddhesh Khandelwal;Varada Kolhatkar;Yiting Hu,114,94.184210526,4.645991306,100.0,74.0,0,0,0,0,0,0,1.0,2,2.0,8,101
+UBCV,2021,W,DSCI,575,,OVERALL,Advanced Machine Learning,,114,94.184210526,4.645991306,100.0,74.0,0,0,0,0,0,0,1.0,2,2.0,8,101

@@ -1,63 +1,65 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,PPGA,500,,001,Economics for Policy,Joshua Catalano;Marina Adshade,37,81.64864865,8.035394674,95.0,65.0,0,0,0,0,2,2,4.0,5.0,7,10,7
-UBCV,2020,W,PPGA,500,,OVERALL,Economics for Policy,,37,81.64864865,8.035394674,95.0,65.0,0,0,0,0,2,2,4.0,5.0,7,10,7
-UBCV,2020,W,PPGA,503,,001,Measurement and Data Analysis for Policy,Kai Ostwald;Mohamed Subhan,37,83.67567568,6.050959768,94.0,74.0,0,0,0,0,0,0,5.0,6.0,6,13,7
-UBCV,2020,W,PPGA,503,,OVERALL,Measurement and Data Analysis for Policy,,37,83.67567568,6.050959768,94.0,74.0,0,0,0,0,0,0,5.0,6.0,6,13,7
-UBCV,2020,W,PPGA,504,,001,Policy Analysis and Evaluation,Araceli Cruz;Daniel Rojas Lozano;Grace Jaramillo Gutierrez;Khadija Anjum,36,83.30555556,4.689315786,96.0,73.0,0,0,0,0,0,0,1.0,7.0,13,12,3
-UBCV,2020,W,PPGA,504,,OVERALL,Policy Analysis and Evaluation,,36,83.30555556,4.689315786,96.0,73.0,0,0,0,0,0,0,1.0,7.0,13,12,3
-UBCV,2020,W,PPGA,505,,001,Domestic and Global Policy Processes,Bassam Javed;George Hoberg,37,84.5945946,4.431324479,93.0,74.0,0,0,0,0,0,0,2.0,4.0,9,18,4
-UBCV,2020,W,PPGA,505,,OVERALL,Domestic and Global Policy Processes,,37,84.5945946,4.431324479,93.0,74.0,0,0,0,0,0,0,2.0,4.0,9,18,4
-UBCV,2020,W,PPGA,506,,001,Public Management,Allan Tupper;Henrik Jacobsen,38,81.7631579,2.851592353,87.0,74.0,0,0,0,0,0,0,1.0,6.0,23,8,0
-UBCV,2020,W,PPGA,506,,OVERALL,Public Management,,38,81.7631579,2.851592353,87.0,74.0,0,0,0,0,0,0,1.0,6.0,23,8,0
-UBCV,2020,W,PPGA,508,,001,Policy in Context,Timothy Cheek;Tsering Shakya;Yingqiu Kuang,33,84.81818182,1.550293227,88.0,81.0,0,0,0,0,0,0,0.0,0.0,12,21,0
-UBCV,2020,W,PPGA,508,,OVERALL,Policy in Context,,33,84.81818182,1.550293227,88.0,81.0,0,0,0,0,0,0,0.0,0.0,12,21,0
-UBCV,2020,W,PPGA,511,,001,Leadership for Policy Professionals,Jennifer Cutbill;Moura Quayle,11,85.90909091,4.928580839,92.0,77.0,0,0,0,0,0,0,0.0,1.0,4,2,4
-UBCV,2020,W,PPGA,511,,OVERALL,Leadership for Policy Professionals,,11,85.90909091,4.928580839,92.0,77.0,0,0,0,0,0,0,0.0,1.0,4,2,4
-UBCV,2020,W,PPGA,514,,001,Research Design and Qualitative Methods,Atieh Yekta;Karen Snyder;Ketty Anyeko,36,85.30555556,3.867959554,93.0,77.0,0,0,0,0,0,0,0.0,3.0,11,17,5
-UBCV,2020,W,PPGA,514,,OVERALL,Research Design and Qualitative Methods,,36,85.30555556,3.867959554,93.0,77.0,0,0,0,0,0,0,0.0,3.0,11,17,5
+UBCV,2020,W,PPGA,500,,001,Economics for Policy,Joshua Catalano;Marina Adshade,37,81.675675676,7.986287046,95.0,65.0,0,0,0,0,1,3,4.0,5.0,7,10,7
+UBCV,2020,W,PPGA,500,,OVERALL,Economics for Policy,,37,81.675675676,7.986287046,95.0,65.0,0,0,0,0,1,3,4.0,5.0,7,10,7
+UBCV,2020,W,PPGA,503,,001,Measurement and Data Analysis for Policy,Kai Ostwald;Mohamed Subhan,37,83.675675676,6.050959768,94.0,74.0,0,0,0,0,0,0,5.0,6.0,6,13,7
+UBCV,2020,W,PPGA,503,,OVERALL,Measurement and Data Analysis for Policy,,37,83.675675676,6.050959768,94.0,74.0,0,0,0,0,0,0,5.0,6.0,6,13,7
+UBCV,2020,W,PPGA,504,,001,Policy Analysis and Evaluation,Araceli Cruz;Daniel Rojas Lozano;Grace Jaramillo Gutierrez;Khadija Anjum,37,84.864864865,4.473143079,96.0,75.0,0,0,0,0,0,0,1.0,3.0,14,15,4
+UBCV,2020,W,PPGA,504,,OVERALL,Policy Analysis and Evaluation,,37,84.864864865,4.473143079,96.0,75.0,0,0,0,0,0,0,1.0,3.0,14,15,4
+UBCV,2020,W,PPGA,505,,001,Domestic and Global Policy Processes,Bassam Javed;George Hoberg,37,84.594594595,4.431324479,93.0,74.0,0,0,0,0,0,0,2.0,4.0,9,18,4
+UBCV,2020,W,PPGA,505,,OVERALL,Domestic and Global Policy Processes,,37,84.594594595,4.431324479,93.0,74.0,0,0,0,0,0,0,2.0,4.0,9,18,4
+UBCV,2020,W,PPGA,506,,001,Public Management,Allan Tupper;Henrik Jacobsen,38,81.763157895,2.851592353,87.0,74.0,0,0,0,0,0,0,1.0,6.0,23,8,0
+UBCV,2020,W,PPGA,506,,OVERALL,Public Management,,38,81.763157895,2.851592353,87.0,74.0,0,0,0,0,0,0,1.0,6.0,23,8,0
+UBCV,2020,W,PPGA,508,,001,Policy in Context,Timothy Cheek;Tsering Shakya;Yingqiu Kuang,37,84.378378378,2.227995504,88.0,78.0,0,0,0,0,0,0,0.0,2.0,13,22,0
+UBCV,2020,W,PPGA,508,,OVERALL,Policy in Context,,37,84.378378378,2.227995504,88.0,78.0,0,0,0,0,0,0,0.0,2.0,13,22,0
+UBCV,2020,W,PPGA,509,,001,Communicating Policy,Claire Ross;Julian Dierkes,37,83.378378378,4.861134706,95.0,76.0,0,0,0,0,0,0,0.0,8.0,15,10,4
+UBCV,2020,W,PPGA,509,,OVERALL,Communicating Policy,,37,83.378378378,4.861134706,95.0,76.0,0,0,0,0,0,0,0.0,8.0,15,10,4
+UBCV,2020,W,PPGA,511,,001,Leadership for Policy Professionals,Jennifer Cutbill;Moura Quayle,11,85.909090909,4.928580839,92.0,77.0,0,0,0,0,0,0,0.0,1.0,4,2,4
+UBCV,2020,W,PPGA,511,,OVERALL,Leadership for Policy Professionals,,11,85.909090909,4.928580839,92.0,77.0,0,0,0,0,0,0,0.0,1.0,4,2,4
+UBCV,2020,W,PPGA,514,,001,Research Design and Qualitative Methods,Atieh Yekta;Karen Snyder;Ketty Anyeko,37,85.351351351,3.824019237,93.0,77.0,0,0,0,0,0,0,0.0,3.0,11,18,5
+UBCV,2020,W,PPGA,514,,OVERALL,Research Design and Qualitative Methods,,37,85.351351351,3.824019237,93.0,77.0,0,0,0,0,0,0,0.0,3.0,11,18,5
 UBCV,2020,W,PPGA,520,,001,Economics of Poverty,Kristin Siwan Anderson,8,84.625,7.029275516,95.0,71.0,0,0,0,0,0,1,0.0,0.0,3,2,2
 UBCV,2020,W,PPGA,520,,OVERALL,Economics of Poverty,,8,84.625,7.029275516,95.0,71.0,0,0,0,0,0,1,0.0,0.0,3,2,2
-UBCV,2020,W,PPGA,521,,001,Development and Institutions,Matias Margulis,11,82.54545455,4.009080602,87.0,76.0,0,0,0,0,0,0,0.0,3.0,4,4,0
-UBCV,2020,W,PPGA,521,,OVERALL,Development and Institutions,,11,82.54545455,4.009080602,87.0,76.0,0,0,0,0,0,0,0.0,3.0,4,4,0
-UBCV,2020,W,PPGA,522,,001,Development Discourses and Practices,Sara Shneiderman,12,86.91666667,5.976595768,94.0,75.0,0,0,0,0,0,0,1.0,1.0,1,3,6
-UBCV,2020,W,PPGA,522,,OVERALL,Development Discourses and Practices,,12,86.91666667,5.976595768,94.0,75.0,0,0,0,0,0,0,1.0,1.0,1,3,6
+UBCV,2020,W,PPGA,521,,001,Development and Institutions,Matias Margulis,11,82.545454545,4.009080602,87.0,76.0,0,0,0,0,0,0,0.0,3.0,4,4,0
+UBCV,2020,W,PPGA,521,,OVERALL,Development and Institutions,,11,82.545454545,4.009080602,87.0,76.0,0,0,0,0,0,0,0.0,3.0,4,4,0
+UBCV,2020,W,PPGA,522,,001,Development Discourses and Practices,Sara Shneiderman,12,88.5,4.963503162,94.0,78.0,0,0,0,0,0,0,0.0,1.0,1,3,7
+UBCV,2020,W,PPGA,522,,OVERALL,Development Discourses and Practices,,12,88.5,4.963503162,94.0,78.0,0,0,0,0,0,0,0.0,1.0,1,3,7
 UBCV,2020,W,PPGA,527,,001,Corporate Social Responsibility,Anne Wittman,16,82.6875,2.358495283,86.0,79.0,0,0,0,0,0,0,0.0,1.0,11,4,0
 UBCV,2020,W,PPGA,527,,OVERALL,Corporate Social Responsibility,,16,82.6875,2.358495283,86.0,79.0,0,0,0,0,0,0,0.0,1.0,11,4,0
-UBCV,2020,W,PPGA,541,,001,Policy Dimensions of Energy Systems,George Hoberg,11,80.18181818,7.124860445,91.0,68.0,0,0,0,0,0,2,1.0,1.0,5,1,1
-UBCV,2020,W,PPGA,541,,OVERALL,Policy Dimensions of Energy Systems,,11,80.18181818,7.124860445,91.0,68.0,0,0,0,0,0,2,1.0,1.0,5,1,1
+UBCV,2020,W,PPGA,541,,001,Policy Dimensions of Energy Systems,George Hoberg,11,80.181818182,7.124860445,91.0,68.0,0,0,0,0,0,2,1.0,1.0,5,1,1
+UBCV,2020,W,PPGA,541,,OVERALL,Policy Dimensions of Energy Systems,,11,80.181818182,7.124860445,91.0,68.0,0,0,0,0,0,2,1.0,1.0,5,1,1
 UBCV,2020,W,PPGA,542,,001,"Science, Technology, and Public Policy",Milind Kandlikar,8,85.625,4.24053568,92.0,80.0,0,0,0,0,0,0,0.0,0.0,3,4,1
 UBCV,2020,W,PPGA,542,,OVERALL,"Science, Technology, and Public Policy",,8,85.625,4.24053568,92.0,80.0,0,0,0,0,0,0,0.0,0.0,3,4,1
 UBCV,2020,W,PPGA,543,,001,Sustainable Water Systems,Nadja Kunz,14,88.0,3.679464844,93.0,81.0,0,0,0,0,0,0,0.0,0.0,3,4,7
 UBCV,2020,W,PPGA,543,,OVERALL,Sustainable Water Systems,,14,88.0,3.679464844,93.0,81.0,0,0,0,0,0,0,0.0,0.0,3,4,7
 UBCV,2020,W,PPGA,544,,001,Economic Foundations of Environmental Policies,Ussif Rashid Sumaila,8,89.5,1.511857892,92.0,87.0,0,0,0,0,0,0,0.0,0.0,0,3,5
 UBCV,2020,W,PPGA,544,,OVERALL,Economic Foundations of Environmental Policies,,8,89.5,1.511857892,92.0,87.0,0,0,0,0,0,0,0.0,0.0,0,3,5
-UBCV,2020,W,PPGA,555,,001,Asia Policy Practice,Timothy Cheek,13,86.23076923,2.127355407,90.0,84.0,0,0,0,0,0,0,0.0,0.0,3,8,2
-UBCV,2020,W,PPGA,555,,OVERALL,Asia Policy Practice,,13,86.23076923,2.127355407,90.0,84.0,0,0,0,0,0,0,0.0,0.0,3,8,2
-UBCV,2020,W,PPGA,560,,001,Global Governance: Frameworks and Policy Debates,Brian Job;Michael Small,15,82.86666667,5.054936296,90.0,70.0,0,0,0,0,0,1,0.0,2.0,5,6,1
-UBCV,2020,W,PPGA,560,,OVERALL,Global Governance: Frameworks and Policy Debates,,15,82.86666667,5.054936296,90.0,70.0,0,0,0,0,0,1,0.0,2.0,5,6,1
+UBCV,2020,W,PPGA,555,,001,Asia Policy Practice,Timothy Cheek,13,86.230769231,2.127355407,90.0,84.0,0,0,0,0,0,0,0.0,0.0,3,8,2
+UBCV,2020,W,PPGA,555,,OVERALL,Asia Policy Practice,,13,86.230769231,2.127355407,90.0,84.0,0,0,0,0,0,0,0.0,0.0,3,8,2
+UBCV,2020,W,PPGA,560,,001,Global Governance: Frameworks and Policy Debates,Brian Job;Michael Small,15,82.866666667,5.054936296,90.0,70.0,0,0,0,0,0,1,0.0,2.0,5,6,1
+UBCV,2020,W,PPGA,560,,OVERALL,Global Governance: Frameworks and Policy Debates,,15,82.866666667,5.054936296,90.0,70.0,0,0,0,0,0,1,0.0,2.0,5,6,1
 UBCV,2020,W,PPGA,562,,001,"Resource Governance, Environment and Human Security",Philippe Le Billon,9,86.0,2.958039892,90.0,82.0,0,0,0,0,0,0,0.0,0.0,3,5,1
 UBCV,2020,W,PPGA,562,,OVERALL,"Resource Governance, Environment and Human Security",,9,86.0,2.958039892,90.0,82.0,0,0,0,0,0,0,0.0,0.0,3,5,1
-UBCV,2020,W,PPGA,565,,001,"Nationalism, Religion, and Ethnic Conflict in Asia",Tsering Shakya,11,86.45454546,3.724611023,93.0,82.0,0,0,0,0,0,0,0.0,0.0,5,3,3
-UBCV,2020,W,PPGA,565,,OVERALL,"Nationalism, Religion, and Ethnic Conflict in Asia",,11,86.45454546,3.724611023,93.0,82.0,0,0,0,0,0,0,0.0,0.0,5,3,3
-UBCV,2020,W,PPGA,581,,001,Behavioural Foundations for Public Policy,Jiaying Zhao,6,83.66666667,2.422120283,87.0,81.0,0,0,0,0,0,0,0.0,0.0,3,3,0
-UBCV,2020,W,PPGA,581,,OVERALL,Behavioural Foundations for Public Policy,,6,83.66666667,2.422120283,87.0,81.0,0,0,0,0,0,0,0.0,0.0,3,3,0
+UBCV,2020,W,PPGA,565,,001,"Nationalism, Religion, and Ethnic Conflict in Asia",Tsering Shakya,11,86.454545455,3.724611023,93.0,82.0,0,0,0,0,0,0,0.0,0.0,5,3,3
+UBCV,2020,W,PPGA,565,,OVERALL,"Nationalism, Religion, and Ethnic Conflict in Asia",,11,86.454545455,3.724611023,93.0,82.0,0,0,0,0,0,0,0.0,0.0,5,3,3
+UBCV,2020,W,PPGA,581,,001,Behavioural Foundations for Public Policy,Jiaying Zhao,6,83.666666667,2.422120283,87.0,81.0,0,0,0,0,0,0,0.0,0.0,3,3,0
+UBCV,2020,W,PPGA,581,,OVERALL,Behavioural Foundations for Public Policy,,6,83.666666667,2.422120283,87.0,81.0,0,0,0,0,0,0,0.0,0.0,3,3,0
 UBCV,2020,W,PPGA,584,,001,Policy Responses to Global Climate Change,Navin Ramankutty,10,89.4,5.501514943,95.0,77.0,0,0,0,0,0,0,0.0,1.0,1,1,7
 UBCV,2020,W,PPGA,584,,OVERALL,Policy Responses to Global Climate Change,,10,89.4,5.501514943,95.0,77.0,0,0,0,0,0,0,0.0,1.0,1,1,7
 UBCV,2020,W,PPGA,590,A,001,Global Policy Project,Julian Dierkes,25,85.32,4.580029112,95.0,80.0,0,0,0,0,0,0,0.0,0.0,14,7,4
 UBCV,2020,W,PPGA,590,A,OVERALL,Global Policy Project,,25,85.32,4.580029112,95.0,80.0,0,0,0,0,0,0,0.0,0.0,14,7,4
-UBCV,2020,W,PPGA,590,B,001,Global Policy Project,Andrea Reimer,13,88.53846154,2.258885589,92.0,84.0,0,0,0,0,0,0,0.0,0.0,1,7,5
-UBCV,2020,W,PPGA,590,B,OVERALL,Global Policy Project,,13,88.53846154,2.258885589,92.0,84.0,0,0,0,0,0,0,0.0,0.0,1,7,5
-UBCV,2020,W,PPGA,591,B,001,Special Topics in Public Policy,Erin Baines,15,88.66666667,2.160246899,92.0,86.0,0,0,0,0,0,0,0.0,0.0,0,8,7
-UBCV,2020,W,PPGA,591,B,OVERALL,Special Topics in Public Policy,,15,88.66666667,2.160246899,92.0,86.0,0,0,0,0,0,0,0.0,0.0,0,8,7
-UBCV,2020,W,PPGA,591,E,001,Special Topics in Public Policy,David Boyd,9,90.22222222,2.333333333,95.0,87.0,0,0,0,0,0,0,0.0,0.0,0,3,6
-UBCV,2020,W,PPGA,591,E,OVERALL,Special Topics in Public Policy,,9,90.22222222,2.333333333,95.0,87.0,0,0,0,0,0,0,0.0,0.0,0,3,6
-UBCV,2020,W,PPGA,591,G,001,Special Topics in Public Policy,Sheryl Lightfoot,18,84.83333333,5.74200211,94.0,75.0,0,0,0,0,0,0,1.0,3.0,4,5,5
-UBCV,2020,W,PPGA,591,G,OVERALL,Special Topics in Public Policy,,18,84.83333333,5.74200211,94.0,75.0,0,0,0,0,0,0,1.0,3.0,4,5,5
-UBCV,2020,W,PPGA,591,I,001,Special Topics in Public Policy,Kristen Hopewell,6,85.16666667,1.722401424,87.0,83.0,0,0,0,0,0,0,0.0,0.0,3,3,0
-UBCV,2020,W,PPGA,591,I,OVERALL,Special Topics in Public Policy,,6,85.16666667,1.722401424,87.0,83.0,0,0,0,0,0,0,0.0,0.0,3,3,0
-UBCV,2020,W,PPGA,591,J,001,Special Topics in Public Policy,Kristen Hopewell,7,85.42857143,1.988059595,88.0,82.0,0,0,0,0,0,0,0.0,0.0,2,5,0
-UBCV,2020,W,PPGA,591,J,OVERALL,Special Topics in Public Policy,,7,85.42857143,1.988059595,88.0,82.0,0,0,0,0,0,0,0.0,0.0,2,5,0
-UBCV,2020,W,PPGA,591,K,001,Special Topics in Public Policy,Erin Baines,14,88.07142857,1.542439911,90.0,85.0,0,0,0,0,0,0,0.0,0.0,0,11,3
-UBCV,2020,W,PPGA,591,K,OVERALL,Special Topics in Public Policy,,14,88.07142857,1.542439911,90.0,85.0,0,0,0,0,0,0,0.0,0.0,0,11,3
-UBCV,2020,W,PPGA,591,L,001,Special Topics in Public Policy,Jennifer Cutbill;Moura Quayle,19,84.68421053,3.986820393,91.0,74.0,0,0,0,0,0,0,1.0,0.0,8,7,3
-UBCV,2020,W,PPGA,591,L,OVERALL,Special Topics in Public Policy,,19,84.68421053,3.986820393,91.0,74.0,0,0,0,0,0,0,1.0,0.0,8,7,3
+UBCV,2020,W,PPGA,590,B,001,Global Policy Project,Andrea Reimer,13,88.538461538,2.258885589,92.0,84.0,0,0,0,0,0,0,0.0,0.0,1,7,5
+UBCV,2020,W,PPGA,590,B,OVERALL,Global Policy Project,,13,88.538461538,2.258885589,92.0,84.0,0,0,0,0,0,0,0.0,0.0,1,7,5
+UBCV,2020,W,PPGA,591,B,001,Special Topics in Public Policy,Erin Baines,15,88.666666667,2.160246899,92.0,86.0,0,0,0,0,0,0,0.0,0.0,0,8,7
+UBCV,2020,W,PPGA,591,B,OVERALL,Special Topics in Public Policy,,15,88.666666667,2.160246899,92.0,86.0,0,0,0,0,0,0,0.0,0.0,0,8,7
+UBCV,2020,W,PPGA,591,E,001,Special Topics in Public Policy,David Boyd,9,90.222222222,2.333333333,95.0,87.0,0,0,0,0,0,0,0.0,0.0,0,3,6
+UBCV,2020,W,PPGA,591,E,OVERALL,Special Topics in Public Policy,,9,90.222222222,2.333333333,95.0,87.0,0,0,0,0,0,0,0.0,0.0,0,3,6
+UBCV,2020,W,PPGA,591,G,001,Special Topics in Public Policy,Sheryl Lightfoot,18,84.833333333,5.74200211,94.0,75.0,0,0,0,0,0,0,1.0,3.0,4,5,5
+UBCV,2020,W,PPGA,591,G,OVERALL,Special Topics in Public Policy,,18,84.833333333,5.74200211,94.0,75.0,0,0,0,0,0,0,1.0,3.0,4,5,5
+UBCV,2020,W,PPGA,591,I,001,Special Topics in Public Policy,Kristen Hopewell,6,85.166666667,1.722401424,87.0,83.0,0,0,0,0,0,0,0.0,0.0,3,3,0
+UBCV,2020,W,PPGA,591,I,OVERALL,Special Topics in Public Policy,,6,85.166666667,1.722401424,87.0,83.0,0,0,0,0,0,0,0.0,0.0,3,3,0
+UBCV,2020,W,PPGA,591,J,001,Special Topics in Public Policy,Kristen Hopewell,7,85.428571429,1.988059595,88.0,82.0,0,0,0,0,0,0,0.0,0.0,2,5,0
+UBCV,2020,W,PPGA,591,J,OVERALL,Special Topics in Public Policy,,7,85.428571429,1.988059595,88.0,82.0,0,0,0,0,0,0,0.0,0.0,2,5,0
+UBCV,2020,W,PPGA,591,K,001,Special Topics in Public Policy,Erin Baines,14,88.071428571,1.542439911,90.0,85.0,0,0,0,0,0,0,0.0,0.0,0,11,3
+UBCV,2020,W,PPGA,591,K,OVERALL,Special Topics in Public Policy,,14,88.071428571,1.542439911,90.0,85.0,0,0,0,0,0,0,0.0,0.0,0,11,3
+UBCV,2020,W,PPGA,591,L,001,Special Topics in Public Policy,Jennifer Cutbill;Moura Quayle,19,84.684210526,3.986820393,91.0,74.0,0,0,0,0,0,0,1.0,0.0,8,7,3
+UBCV,2020,W,PPGA,591,L,OVERALL,Special Topics in Public Policy,,19,84.684210526,3.986820393,91.0,74.0,0,0,0,0,0,0,1.0,0.0,8,7,3

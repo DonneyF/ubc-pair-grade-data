@@ -1,48 +1,62 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2020,W,DATA,101,,101,Making Predictions with Data,Ayazhan Akhmet;Devon Macneil;Ladan Tazik;Lengyi Han;Manish Krishan Lal;Maryam Sadeghi;Ramin Shahbazi;Reece Walsh;Rishab Sharma;Saeed Moghaddam;Victor Frunza;Yiming Ding;Yinuo Fan,145,75.16551724,21.53453744,100.0,0.0,15,4.0,2,4,10.0,11.0,8,12.0,21.0,19,39
-UBCO,2020,W,DATA,101,,OVERALL,Making Predictions with Data,,145,75.16551724,21.53453744,100.0,0.0,15,4.0,2,4,10.0,11.0,8,12.0,21.0,19,39
-UBCO,2020,W,DATA,301,,001,Introduction to Data Analytics,Firas Moosvi,50,88.28,11.12093081,99.0,38.0,1,0.0,0,0,2.0,2.0,0,1.0,4.0,5,35
-UBCO,2020,W,DATA,301,,101,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Haneen Abu-Hijleh;Ladan Tazik;Patricia Lasserre,82,87.8902439,13.13463624,100.0,45.0,4,2.0,0,1,0.0,0.0,0,1.0,7.0,16,51
-UBCO,2020,W,DATA,301,,OVERALL,Introduction to Data Analytics,,132,88.03787879,12.36802409,100.0,38.0,5,2.0,0,1,2.0,2.0,0,2.0,11.0,21,86
-UBCO,2020,W,DATA,311,,101,Machine Learning,Jeffrey Andrews;Ladan Tazik;Maryam Sadeghi,75,76.09333333,9.556621213,94.0,46.0,1,0.0,2,5,3.0,13.0,13,7.0,13.0,11,7
-UBCO,2020,W,DATA,311,,OVERALL,Machine Learning,,75,76.09333333,9.556621213,94.0,46.0,1,0.0,2,5,3.0,13.0,13,7.0,13.0,11,7
-UBCO,2020,W,DATA,407,,101,Sampling and Design,Marjan Yaghoubi;Paramjit Gill,19,70.84210526,11.50006357,90.0,50.0,0,1.0,2,1,5.0,0.0,2,1.0,5.0,1,1
-UBCO,2020,W,DATA,407,,OVERALL,Sampling and Design,,19,70.84210526,11.50006357,90.0,50.0,0,1.0,2,1,5.0,0.0,2,1.0,5.0,1,1
-UBCO,2020,W,DATA,410,,101,Regression and Generalized Linear Models,Geoff Goetz;John Braun;Shambhavi Singh,23,82.60869565,9.213325974,96.0,61.0,0,0.0,0,1,1.0,0.0,2,3.0,6.0,4,6
-UBCO,2020,W,DATA,410,,OVERALL,Regression and Generalized Linear Models,,23,82.60869565,9.213325974,96.0,61.0,0,0.0,0,1,1.0,0.0,2,3.0,6.0,4,6
-UBCO,2020,W,DATA,530,,001,Computing Platforms for Data Science,Debangsha Sarkar;Firas Moosvi;Mohammad Khalad Hasan;Ramon Lawrence,31,92.48387097,5.864417946,100.0,78.0,0,0.0,0,0,0.0,0.0,0,1.0,1.0,7,22
-UBCO,2020,W,DATA,530,,OVERALL,Computing Platforms for Data Science,,31,92.48387097,5.864417946,100.0,78.0,0,0.0,0,0,0.0,0.0,0,1.0,1.0,7,22
-UBCO,2020,W,DATA,531,,001,Programming for Data Science,Debangsha Sarkar;Firas Moosvi;John Graham-Knight;Ramon Lawrence,31,90.61290323,5.565832788,100.0,80.0,0,0.0,0,0,0.0,0.0,0,0.0,5.0,5,21
-UBCO,2020,W,DATA,531,,OVERALL,Programming for Data Science,,31,90.61290323,5.565832788,100.0,80.0,0,0.0,0,0,0.0,0.0,0,0.0,5.0,5,21
-UBCO,2020,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Debangsha Sarkar;John Graham-Knight;Mohamed Shehata,32,91.46875,4.406625327,98.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,3.0,4,24
-UBCO,2020,W,DATA,532,,OVERALL,Algorithms and Data Structure,,32,91.46875,4.406625327,98.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,3.0,4,24
-UBCO,2020,W,DATA,533,,101,Collaborative Software Development,Debangsha Sarkar;Mohammad Khalad Hasan,31,90.06451613,5.131182345,98.0,77.0,0,0.0,0,0,0.0,0.0,0,2.0,2.0,8,19
-UBCO,2020,W,DATA,533,,OVERALL,Collaborative Software Development,,31,90.06451613,5.131182345,98.0,77.0,0,0.0,0,0,0.0,0.0,0,2.0,2.0,8,19
-UBCO,2020,W,DATA,534,,101,Web and Cloud Computing,Apurva Narayan;Yiming Ding;Yves Lucet,31,96.80645161,3.691606288,100.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,0.0,0,30
-UBCO,2020,W,DATA,534,,OVERALL,Web and Cloud Computing,,31,96.80645161,3.691606288,100.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,0.0,0,30
-UBCO,2020,W,DATA,540,,001,Databases and Data Retrieval,Debangsha Sarkar;Firas Moosvi;John Graham-Knight;Ramon Lawrence,31,90.32258065,6.073917444,99.0,72.0,0,0.0,0,0,0.0,0.0,1,1.0,3.0,4,22
-UBCO,2020,W,DATA,540,,OVERALL,Databases and Data Retrieval,,31,90.32258065,6.073917444,99.0,72.0,0,0.0,0,0,0.0,0.0,1,1.0,3.0,4,22
-UBCO,2020,W,DATA,541,,001,Scripting and Reporting,Debangsha Sarkar;Mohammad Khalad Hasan,32,92.125,3.949275148,97.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,0.0,6,25
-UBCO,2020,W,DATA,541,,OVERALL,Scripting and Reporting,,32,92.125,3.949275148,97.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,0.0,6,25
-UBCO,2020,W,DATA,542,,101,Data Wrangling,Debangsha Sarkar;Fatemeh Hendijani Fard;John Graham-Knight,31,91.74193548,6.049615646,100.0,75.0,0,0.0,0,0,0.0,0.0,1,0.0,2.0,7,21
-UBCO,2020,W,DATA,542,,OVERALL,Data Wrangling,,31,91.74193548,6.049615646,100.0,75.0,0,0.0,0,0,0.0,0.0,1,0.0,2.0,7,21
-UBCO,2020,W,DATA,543,,001,Data Collection,Dongying Wang;Irene Vrbik;Jeffrey Andrews,31,91.03225807,4.254283104,98.0,82.0,0,0.0,0,0,0.0,0.0,0,0.0,3.0,9,19
-UBCO,2020,W,DATA,543,,OVERALL,Data Collection,,31,91.03225807,4.254283104,98.0,82.0,0,0.0,0,0,0.0,0.0,0,0.0,3.0,9,19
-UBCO,2020,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;John Graham-Knight;Patricia Lasserre,31,92.09677419,4.085379123,98.0,82.0,0,0.0,0,0,0.0,0.0,0,0.0,1.0,6,24
-UBCO,2020,W,DATA,553,,OVERALL,"Privacy, Security and Professional Ethics",,31,92.09677419,4.085379123,98.0,82.0,0,0.0,0,0,0.0,0.0,0,0.0,1.0,6,24
-UBCO,2020,W,DATA,570,,001,Predictive Modelling,Dongying Wang;Irene Vrbik;Jeffrey Andrews,31,90.51612903,5.548999716,100.0,77.0,0,0.0,0,0,0.0,0.0,0,1.0,4.0,5,21
-UBCO,2020,W,DATA,570,,OVERALL,Predictive Modelling,,31,90.51612903,5.548999716,100.0,77.0,0,0.0,0,0,0.0,0.0,0,1.0,4.0,5,21
-UBCO,2020,W,DATA,571,,101,Resampling and Regularization,Dongying Wang;Jeffrey Andrews,31,94.19354839,4.077739201,100.0,86.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,4,27
-UBCO,2020,W,DATA,571,,OVERALL,Resampling and Regularization,,31,94.19354839,4.077739201,100.0,86.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,4,27
-UBCO,2020,W,DATA,572,,001,Supervised Learning,Debangsha Sarkar;Jeffrey Andrews,31,91.58064516,8.192574661,100.0,61.0,0,0.0,0,1,0.0,0.0,0,2.0,1.0,5,22
-UBCO,2020,W,DATA,572,,OVERALL,Supervised Learning,,31,91.58064516,8.192574661,100.0,61.0,0,0.0,0,1,0.0,0.0,0,2.0,1.0,5,22
-UBCO,2020,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Debangsha Sarkar;Jeffrey Andrews,31,92.06451613,6.423578877,100.0,72.0,0,0.0,0,0,0.0,0.0,1,0.0,1.0,10,19
-UBCO,2020,W,DATA,573,,OVERALL,Unsupervised and Semi-supervised Learning,,31,92.06451613,6.423578877,100.0,72.0,0,0.0,0,0,0.0,0.0,1,0.0,1.0,10,19
-UBCO,2020,W,DATA,580,,001,Modelling and Simulation I,Dongying Wang;John Braun,32,90.25,7.112007112,99.0,68.0,0,0.0,0,0,0.0,2.0,0,0.0,3.0,5,22
-UBCO,2020,W,DATA,580,,OVERALL,Modelling and Simulation I,,32,90.25,7.112007112,99.0,68.0,0,0.0,0,0,0.0,2.0,0,0.0,3.0,5,22
-UBCO,2020,W,DATA,581,,101,Modelling and Simulation II,Dongying Wang;John Braun,31,93.35483871,4.764790216,100.0,78.0,0,0.0,0,0,0.0,0.0,0,1.0,1.0,1,28
-UBCO,2020,W,DATA,581,,OVERALL,Modelling and Simulation II,,31,93.35483871,4.764790216,100.0,78.0,0,0.0,0,0,0.0,0.0,0,1.0,1.0,1,28
-UBCO,2020,W,DATA,582,,101,Bayesian Inference,Dongying Wang;Irene Vrbik,31,86.80645161,10.70644465,100.0,62.0,0,0.0,0,1,0.0,2.0,3,2.0,4.0,2,17
-UBCO,2020,W,DATA,582,,OVERALL,Bayesian Inference,,31,86.80645161,10.70644465,100.0,62.0,0,0.0,0,1,0.0,2.0,3,2.0,4.0,2,17
-UBCO,2020,W,DATA,583,,101,Advanced Predictive Modelling,Dongying Wang;John Braun,31,96.32258065,3.15581048,100.0,89.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,2,29
-UBCO,2020,W,DATA,583,,OVERALL,Advanced Predictive Modelling,,31,96.32258065,3.15581048,100.0,89.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,2,29
+UBCO,2020,W,DATA,101,,101,Making Predictions with Data,Ayazhan Akhmet;Devon Macneil;Ladan Tazik;Lengyi Han;Manish Krishan Lal;Maryam Sadeghi;Ramin Shahbazi;Reece Walsh;Rishab Sharma;Saeed Moghaddam;Victor Frunza;Yiming Ding;Yinuo Fan,145,75.165517241,21.534537438,100.0,0.0,15,4.0,2,4,10.0,11.0,8,12.0,21.0,19.0,39
+UBCO,2020,W,DATA,101,,OVERALL,Making Predictions with Data,,145,75.165517241,21.534537438,100.0,0.0,15,4.0,2,4,10.0,11.0,8,12.0,21.0,19.0,39
+UBCO,2020,W,DATA,301,,001,Introduction to Data Analytics,Firas Moosvi,50,88.28,11.120930808,99.0,38.0,1,0.0,0,0,2.0,2.0,0,1.0,4.0,5.0,35
+UBCO,2020,W,DATA,301,,101,Introduction to Data Analytics,Amir Hossein Zeinali Kalkhoran;Haneen Abu-Hijleh;Ladan Tazik;Patricia Lasserre,82,87.890243902,13.134636237,100.0,45.0,4,2.0,0,1,0.0,0.0,0,1.0,7.0,16.0,51
+UBCO,2020,W,DATA,301,,OVERALL,Introduction to Data Analytics,,132,88.037878788,12.36802409,100.0,38.0,5,2.0,0,1,2.0,2.0,0,2.0,11.0,21.0,86
+UBCO,2020,W,DATA,311,,101,Machine Learning,Jeffrey Andrews;Ladan Tazik;Maryam Sadeghi,75,76.093333333,9.556621213,94.0,46.0,1,0.0,2,5,3.0,13.0,13,7.0,13.0,11.0,7
+UBCO,2020,W,DATA,311,,OVERALL,Machine Learning,,75,76.093333333,9.556621213,94.0,46.0,1,0.0,2,5,3.0,13.0,13,7.0,13.0,11.0,7
+UBCO,2020,W,DATA,407,,101,Sampling and Design,Marjan Yaghoubi;Paramjit Gill,19,70.842105263,11.500063565,90.0,50.0,0,1.0,2,1,5.0,0.0,2,1.0,5.0,1.0,1
+UBCO,2020,W,DATA,407,,OVERALL,Sampling and Design,,19,70.842105263,11.500063565,90.0,50.0,0,1.0,2,1,5.0,0.0,2,1.0,5.0,1.0,1
+UBCO,2020,W,DATA,410,,101,Regression and Generalized Linear Models,Geoff Goetz;John Braun;Shambhavi Singh,23,82.608695652,9.213325974,96.0,61.0,0,0.0,0,1,1.0,0.0,2,3.0,6.0,4.0,6
+UBCO,2020,W,DATA,410,,OVERALL,Regression and Generalized Linear Models,,23,82.608695652,9.213325974,96.0,61.0,0,0.0,0,1,1.0,0.0,2,3.0,6.0,4.0,6
+UBCO,2020,W,DATA,530,,001,Computing Platforms for Data Science,Debangsha Sarkar;Firas Moosvi,31,92.483870968,5.864417946,100.0,78.0,0,0.0,0,0,0.0,0.0,0,1.0,1.0,7.0,22
+UBCO,2020,W,DATA,530,,OVERALL,Computing Platforms for Data Science,,31,92.483870968,5.864417946,100.0,78.0,0,0.0,0,0,0.0,0.0,0,1.0,1.0,7.0,22
+UBCO,2020,W,DATA,531,,001,Programming for Data Science,Firas Moosvi;John Graham-Knight,31,90.612903226,5.565832788,100.0,80.0,0,0.0,0,0,0.0,0.0,0,0.0,5.0,5.0,21
+UBCO,2020,W,DATA,531,,OVERALL,Programming for Data Science,,31,90.612903226,5.565832788,100.0,80.0,0,0.0,0,0,0.0,0.0,0,0.0,5.0,5.0,21
+UBCO,2020,W,DATA,532,,001,Algorithms and Data Structure,Apurva Narayan;Debangsha Sarkar;John Graham-Knight;Mohamed Shehata,32,91.46875,4.406625327,98.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,3.0,4.0,24
+UBCO,2020,W,DATA,532,,OVERALL,Algorithms and Data Structure,,32,91.46875,4.406625327,98.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,3.0,4.0,24
+UBCO,2020,W,DATA,533,,101,Collaborative Software Development,Debangsha Sarkar;Mohammad Khalad Hasan,31,90.064516129,5.131182345,98.0,77.0,0,0.0,0,0,0.0,0.0,0,2.0,2.0,8.0,19
+UBCO,2020,W,DATA,533,,OVERALL,Collaborative Software Development,,31,90.064516129,5.131182345,98.0,77.0,0,0.0,0,0,0.0,0.0,0,2.0,2.0,8.0,19
+UBCO,2020,W,DATA,534,,101,Web and Cloud Computing,Apurva Narayan;Yiming Ding;Yves Lucet,31,96.806451613,3.691606288,100.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,0.0,0.0,30
+UBCO,2020,W,DATA,534,,OVERALL,Web and Cloud Computing,,31,96.806451613,3.691606288,100.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,0.0,0.0,30
+UBCO,2020,W,DATA,540,,001,Databases and Data Retrieval,Debangsha Sarkar;Firas Moosvi;John Graham-Knight;Ramon Lawrence,31,90.322580645,6.073917444,99.0,72.0,0,0.0,0,0,0.0,0.0,1,1.0,3.0,4.0,22
+UBCO,2020,W,DATA,540,,OVERALL,Databases and Data Retrieval,,31,90.322580645,6.073917444,99.0,72.0,0,0.0,0,0,0.0,0.0,1,1.0,3.0,4.0,22
+UBCO,2020,W,DATA,541,,001,Scripting and Reporting,Debangsha Sarkar;Mohammad Khalad Hasan,32,92.125,3.949275148,97.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,0.0,6.0,25
+UBCO,2020,W,DATA,541,,OVERALL,Scripting and Reporting,,32,92.125,3.949275148,97.0,79.0,0,0.0,0,0,0.0,0.0,0,1.0,0.0,6.0,25
+UBCO,2020,W,DATA,542,,101,Data Wrangling,Debangsha Sarkar;Fatemeh Hendijani Fard;John Graham-Knight,31,91.741935484,6.049615646,100.0,75.0,0,0.0,0,0,0.0,0.0,1,0.0,2.0,7.0,21
+UBCO,2020,W,DATA,542,,OVERALL,Data Wrangling,,31,91.741935484,6.049615646,100.0,75.0,0,0.0,0,0,0.0,0.0,1,0.0,2.0,7.0,21
+UBCO,2020,W,DATA,543,,001,Data Collection,Dongying Wang;Irene Vrbik;Jeffrey Andrews,31,91.032258065,4.254283104,98.0,82.0,0,0.0,0,0,0.0,0.0,0,0.0,3.0,9.0,19
+UBCO,2020,W,DATA,543,,OVERALL,Data Collection,,31,91.032258065,4.254283104,98.0,82.0,0,0.0,0,0,0.0,0.0,0,0.0,3.0,9.0,19
+UBCO,2020,W,DATA,550,,001,Dataviz I,Firas Moosvi;Yiming Ding,31,97.096774194,3.155469735,100.0,86.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,2.0,29
+UBCO,2020,W,DATA,550,,OVERALL,Dataviz I,,31,97.096774194,3.155469735,100.0,86.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,2.0,29
+UBCO,2020,W,DATA,551,,101,Dataviz II,Fatemeh Hendijani Fard;Firas Moosvi;Yiming Ding,31,98.516129032,3.064538766,100.0,88.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,2.0,29
+UBCO,2020,W,DATA,551,,OVERALL,Dataviz II,,31,98.516129032,3.064538766,100.0,88.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,2.0,29
+UBCO,2020,W,DATA,552,,001,Communication and Argumentation,Firas Moosvi;Maya Pilin,31,88.0,3.568379651,95.0,80.0,0,0.0,0,0,0.0,0.0,0,0.0,4.0,15.0,12
+UBCO,2020,W,DATA,552,,OVERALL,Communication and Argumentation,,31,88.0,3.568379651,95.0,80.0,0,0.0,0,0,0.0,0.0,0,0.0,4.0,15.0,12
+UBCO,2020,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Fatemeh Hendijani Fard;John Graham-Knight;Patricia Lasserre,31,92.096774194,4.085379123,98.0,82.0,0,0.0,0,0,0.0,0.0,0,0.0,1.0,6.0,24
+UBCO,2020,W,DATA,553,,OVERALL,"Privacy, Security and Professional Ethics",,31,92.096774194,4.085379123,98.0,82.0,0,0.0,0,0,0.0,0.0,0,0.0,1.0,6.0,24
+UBCO,2020,W,DATA,570,,001,Predictive Modelling,Dongying Wang;Jeffrey Andrews,31,90.516129032,5.548999716,100.0,77.0,0,0.0,0,0,0.0,0.0,0,1.0,4.0,5.0,21
+UBCO,2020,W,DATA,570,,OVERALL,Predictive Modelling,,31,90.516129032,5.548999716,100.0,77.0,0,0.0,0,0,0.0,0.0,0,1.0,4.0,5.0,21
+UBCO,2020,W,DATA,571,,101,Resampling and Regularization,Dongying Wang;Jeffrey Andrews,31,94.193548387,4.077739201,100.0,86.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,4.0,27
+UBCO,2020,W,DATA,571,,OVERALL,Resampling and Regularization,,31,94.193548387,4.077739201,100.0,86.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,4.0,27
+UBCO,2020,W,DATA,572,,001,Supervised Learning,Debangsha Sarkar;Jeffrey Andrews,31,91.580645161,8.192574661,100.0,61.0,0,0.0,0,1,0.0,0.0,0,2.0,1.0,5.0,22
+UBCO,2020,W,DATA,572,,OVERALL,Supervised Learning,,31,91.580645161,8.192574661,100.0,61.0,0,0.0,0,1,0.0,0.0,0,2.0,1.0,5.0,22
+UBCO,2020,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Debangsha Sarkar;Jeffrey Andrews,31,92.064516129,6.423578877,100.0,72.0,0,0.0,0,0,0.0,0.0,1,0.0,1.0,10.0,19
+UBCO,2020,W,DATA,573,,OVERALL,Unsupervised and Semi-supervised Learning,,31,92.064516129,6.423578877,100.0,72.0,0,0.0,0,0,0.0,0.0,1,0.0,1.0,10.0,19
+UBCO,2020,W,DATA,580,,001,Modelling and Simulation I,Dongying Wang;John Braun,32,90.25,7.112007112,99.0,68.0,0,0.0,0,0,0.0,2.0,0,0.0,3.0,5.0,22
+UBCO,2020,W,DATA,580,,OVERALL,Modelling and Simulation I,,32,90.25,7.112007112,99.0,68.0,0,0.0,0,0,0.0,2.0,0,0.0,3.0,5.0,22
+UBCO,2020,W,DATA,581,,101,Modelling and Simulation II,Dongying Wang;John Braun,31,93.35483871,4.764790216,100.0,78.0,0,0.0,0,0,0.0,0.0,0,1.0,1.0,1.0,28
+UBCO,2020,W,DATA,581,,OVERALL,Modelling and Simulation II,,31,93.35483871,4.764790216,100.0,78.0,0,0.0,0,0,0.0,0.0,0,1.0,1.0,1.0,28
+UBCO,2020,W,DATA,582,,101,Bayesian Inference,Dongying Wang;Irene Vrbik,31,86.806451613,10.706444647,100.0,62.0,0,0.0,0,1,0.0,2.0,3,2.0,4.0,2.0,17
+UBCO,2020,W,DATA,582,,OVERALL,Bayesian Inference,,31,86.806451613,10.706444647,100.0,62.0,0,0.0,0,1,0.0,2.0,3,2.0,4.0,2.0,17
+UBCO,2020,W,DATA,583,,101,Advanced Predictive Modelling,Dongying Wang;John Braun,31,96.322580645,3.15581048,100.0,89.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,2.0,29
+UBCO,2020,W,DATA,583,,OVERALL,Advanced Predictive Modelling,,31,96.322580645,3.15581048,100.0,89.0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,2.0,29
+UBCO,2020,W,DATA,585,,101,Optimization,Dongying Wang;Heinz Bauschke,31,94.129032258,8.015576234,100.0,66.0,0,0.0,0,0,1.0,0.0,1,0.0,0.0,3.0,26
+UBCO,2020,W,DATA,585,,OVERALL,Optimization,,31,94.129032258,8.015576234,100.0,66.0,0,0.0,0,0,1.0,0.0,1,0.0,0.0,3.0,26
+UBCO,2020,W,DATA,586,,101,Advanced Machine Learning,Apurva Narayan;Debangsha Sarkar,31,94.35483871,4.408691318,99.0,80.0,0,0.0,0,0,0.0,0.0,0,0.0,3.0,0.0,28
+UBCO,2020,W,DATA,586,,OVERALL,Advanced Machine Learning,,31,94.35483871,4.408691318,99.0,80.0,0,0.0,0,0,0.0,0.0,0,0.0,3.0,0.0,28
+UBCO,2020,W,DATA,589,,101,Special Topic,Mohammad Khalad Hasan;Yiming Ding,31,92.290322581,6.583785883,100.0,75.0,0,0.0,0,0,0.0,0.0,1,0.0,5.0,3.0,22
+UBCO,2020,W,DATA,589,,OVERALL,Special Topic,,31,92.290322581,6.583785883,100.0,75.0,0,0.0,0,0,0.0,0.0,1,0.0,5.0,3.0,22
+UBCO,2020,W,DATA,599,,101,Capstone,Debangsha Sarkar;Dongying Wang;Irene Vrbik;Scott Fazackerley;Yiming Ding,31,91.580645161,7.210058685,99.0,68.0,0,0.0,0,0,0.0,1.0,0,1.0,0.0,10.0,19
+UBCO,2020,W,DATA,599,,OVERALL,Capstone,,31,91.580645161,7.210058685,99.0,68.0,0,0.0,0,0,0.0,1.0,0,1.0,0.0,10.0,19

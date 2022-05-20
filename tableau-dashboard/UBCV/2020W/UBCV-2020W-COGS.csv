@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,COGS,200,,002,Introduction to Cognitive Systems,Christopher Mole;Miriam Pai-Spering;Molly Babel;Patrick Yung Kang Lee;Rebecca Reh;Robert Hebert;Sarp Saysel;Thomas Jacob Bittner,147,75.59183674,9.363844122,93.0,42.0,5,1.0,1.0,10.0,4,15.0,25,34,31,17,4
-UBCV,2020,W,COGS,200,,004,Introduction to Cognitive Systems,Gregory Lawrence D'Eon;James Kryklywy;Kevin Leyton-Brown;Laura Cang;Lochlan Walsh;Maria Alaia;Patrick Yung Kang Lee;Ryan Taylor;Thomas Jacob Bittner;Tzu-Jo Lin,140,75.05714286,10.80219231,93.0,0.0,1,2.0,4.0,9.0,10,17.0,18,31,27,16,5
-UBCV,2020,W,COGS,200,,OVERALL,Introduction to Cognitive Systems,,287,75.33101045,10.07689908,93.0,0.0,6,3.0,5.0,19.0,14,32.0,43,65,58,33,9
-UBCV,2020,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Eric Patterson;Hoa Dang Khoa Dien;Marton Soskuthy;Saffrin Granby,69,81.34782609,8.373322636,92.0,54.0,0,1.0,2.0,2.0,2,1.0,4,8,19,25,5
-UBCV,2020,W,COGS,300,,002,Understanding and Designing Cognitive Systems,Ahmed Shaaban;Eric Patterson;Gina Hong;Marton Soskuthy;Thomas Jacob Bittner,58,76.27586207,12.73865936,91.0,14.0,1,1.0,1.0,5.0,3,8.0,6,6,7,15,5
-UBCV,2020,W,COGS,300,,OVERALL,Understanding and Designing Cognitive Systems,,127,79.03149606,10.84811227,92.0,14.0,1,2.0,3.0,7.0,5,9.0,10,14,26,40,10
-UBCV,2020,W,COGS,303,,001,Research Methods in Cognitive Systems,Misha Afzaal;Ronald Rensink;Xinyang Liu,44,78.77272727,9.802381382,90.0,46.0,1,0.0,1.0,3.0,2,3.0,1,4,14,11,4
-UBCV,2020,W,COGS,303,,002,Research Methods in Cognitive Systems,Amy Lu;Madison Elliott;Misha Afzaal,38,75.5,8.016031235,91.0,53.0,0,1.0,1.0,0.0,2,8.0,6,7,10,2,1
-UBCV,2020,W,COGS,303,,003,Research Methods in Cognitive Systems,Amy Lu;Naeema Al-Mridha;Ronald Rensink,45,76.6,11.53729132,90.0,45.0,1,1.0,4.0,4.0,0,0.0,2,4,20,7,2
-UBCV,2020,W,COGS,303,,OVERALL,Research Methods in Cognitive Systems,,127,77.02362205,9.998781328,91.0,45.0,2,2.0,6.0,7.0,4,11.0,9,15,44,20,7
-UBCV,2020,W,COGS,401,,001,Seminar in Cognitive Systems,Kevin Yuen Gee Lee;Lawrence Ward;Samuel Cohen,34,79.32352941,7.899829642,87.0,42.0,1,0.0,0.0,0.0,0,0.0,5,9,10,9,0
-UBCV,2020,W,COGS,401,,002,Seminar in Cognitive Systems,Ari Rotenberg;Miriam Pai-Spering;Nora Becker,26,79.19230769,9.703686849,94.0,51.0,0,1.0,0.0,1.0,1,0.0,4,5,8,2,4
-UBCV,2020,W,COGS,401,,003,Seminar in Cognitive Systems,Alym Amlani;Elizabeth Hnatiuk;Elizabeth Martha Hnatiuk;Samuel Cohen,36,80.27777778,8.663918978,93.0,47.0,1,0.0,0.0,0.0,1,1.0,5,5,10,8,5
-UBCV,2020,W,COGS,401,,OVERALL,Seminar in Cognitive Systems,,96,79.64583333,8.623076953,94.0,42.0,2,1.0,0.0,1.0,2,1.0,14,19,28,19,9
-UBCV,2020,W,COGS,402,,001,Research in Cognitive Systems,Christopher Mole;Lawrence Ward,32,87.03125,6.098568711,95.0,65.0,0,0.0,0.0,0.0,1,0.0,1,1,5,12,12
-UBCV,2020,W,COGS,402,,002,Research in Cognitive Systems,Christopher Mole,53,85.41509434,11.3720879,95.0,13.0,1,0.0,0.0,0.0,0,0.0,3,2,11,12,24
-UBCV,2020,W,COGS,402,,OVERALL,Research in Cognitive Systems,,85,86.02352941,9.716182464,95.0,13.0,1,0.0,0.0,0.0,1,0.0,4,3,16,24,36
+UBCV,2020,W,COGS,200,,002,Introduction to Cognitive Systems,Christopher Mole;Miriam Pai-Spering;Molly Babel;Patrick Yung Kang Lee;Rebecca Reh;Robert Hebert;Sarp Saysel;Thomas Jacob Bittner,147,75.591836735,9.363844122,93.0,42.0,5,1,1.0,10.0,4,15.0,25,34,31,17,4
+UBCV,2020,W,COGS,200,,004,Introduction to Cognitive Systems,Gregory Lawrence D'Eon;James Kryklywy;Kevin Leyton-Brown;Laura Cang;Lochlan Walsh;Maria Alaia;Patrick Yung Kang Lee;Ryan Taylor;Thomas Jacob Bittner;Tzu-Jo Lin,139,75.597122302,8.741637349,93.0,50.0,0,2,4.0,9.0,10,17.0,18,31,27,16,5
+UBCV,2020,W,COGS,200,,OVERALL,Introduction to Cognitive Systems,,286,75.594405594,9.050918544,93.0,42.0,5,3,5.0,19.0,14,32.0,43,65,58,33,9
+UBCV,2020,W,COGS,300,,001,Understanding and Designing Cognitive Systems,Eric Patterson;Hoa Dang Khoa Dien;Marton Soskuthy;Saffrin Granby,69,81.347826087,8.373322636,92.0,54.0,0,1,2.0,2.0,2,1.0,4,8,19,25,5
+UBCV,2020,W,COGS,300,,002,Understanding and Designing Cognitive Systems,Ahmed Shaaban;Eric Patterson;Gina Hong;Marton Soskuthy;Thomas Jacob Bittner,58,76.275862069,12.738659357,91.0,14.0,1,1,1.0,5.0,3,8.0,6,6,7,15,5
+UBCV,2020,W,COGS,300,,OVERALL,Understanding and Designing Cognitive Systems,,127,79.031496063,10.848112269,92.0,14.0,1,2,3.0,7.0,5,9.0,10,14,26,40,10
+UBCV,2020,W,COGS,303,,001,Research Methods in Cognitive Systems,Misha Afzaal;Ronald Rensink;Xinyang Liu,44,79.159090909,9.286006431,90.0,46.0,1,0,0.0,3.0,2,3.0,2,4,14,11,4
+UBCV,2020,W,COGS,303,,002,Research Methods in Cognitive Systems,Amy Lu;Madison Elliott;Misha Afzaal,38,75.5,8.016031235,91.0,53.0,0,1,1.0,0.0,2,8.0,6,7,10,2,1
+UBCV,2020,W,COGS,303,,003,Research Methods in Cognitive Systems,Amy Lu;Naeema Al-Mridha;Ronald Rensink,45,76.888888889,11.271892279,90.0,45.0,1,1,4.0,3.0,0,0.0,3,4,20,7,2
+UBCV,2020,W,COGS,303,,OVERALL,Research Methods in Cognitive Systems,,127,77.25984252,9.742080706,91.0,45.0,2,2,5.0,6.0,4,11.0,11,15,44,20,7
+UBCV,2020,W,COGS,401,,001,Seminar in Cognitive Systems,Kevin Yuen Gee Lee;Lawrence Ward;Samuel Cohen,34,79.323529412,7.899829642,87.0,42.0,1,0,0.0,0.0,0,0.0,5,9,10,9,0
+UBCV,2020,W,COGS,401,,002,Seminar in Cognitive Systems,Ari Rotenberg;Miriam Pai-Spering;Nora Becker,26,79.192307692,9.703686849,94.0,51.0,0,1,0.0,1.0,1,0.0,4,5,8,2,4
+UBCV,2020,W,COGS,401,,003,Seminar in Cognitive Systems,Alym Amlani;Elizabeth Hnatiuk;Elizabeth Martha Hnatiuk;Samuel Cohen,36,80.277777778,8.663918978,93.0,47.0,1,0,0.0,0.0,1,1.0,5,5,10,8,5
+UBCV,2020,W,COGS,401,,OVERALL,Seminar in Cognitive Systems,,96,79.645833333,8.623076953,94.0,42.0,2,1,0.0,1.0,2,1.0,14,19,28,19,9
+UBCV,2020,W,COGS,402,,001,Research in Cognitive Systems,Christopher Mole;Lawrence Ward,32,87.03125,6.098568711,95.0,65.0,0,0,0.0,0.0,1,0.0,1,1,5,12,12
+UBCV,2020,W,COGS,402,,002,Research in Cognitive Systems,Christopher Mole,54,85.259259259,11.322352554,95.0,13.0,1,0,0.0,0.0,0,0.0,3,3,11,12,24
+UBCV,2020,W,COGS,402,,OVERALL,Research in Cognitive Systems,,86,85.918604651,9.707747199,95.0,13.0,1,0,0.0,0.0,1,0.0,4,4,16,24,36

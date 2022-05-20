@@ -1,81 +1,83 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2020,W,PSYO,111,,001,Introduction to Psychology: Basic Processes,Anne Tseu;Chin - Wen Chong;Dilpreet Lidder;Dyuthi Dinesh;Dyuthi Nirupama;Megan Udala;Shirley Hutchinson,586,80.04266212,14.21002015,99.0,0.0,17,9.0,11,17,32,34,53,52,88,118,155
-UBCO,2020,W,PSYO,111,,003,Introduction to Psychology: Basic Processes,Bryn Tannar;Casandra Wood;Lydia Wood;Maya Libben;Reagan Zinck,516,76.53682171,14.49755925,98.0,0.0,19,11.0,24,21,31,30,58,73,89,88,72
-UBCO,2020,W,PSYO,111,,101,Introduction to Psychology: Basic Processes,Bryn Tannar;Chin - Wen Chong;Dilpreet Lidder;Paul Gabias,188,79.17021277,14.88504134,97.0,0.0,6,2.0,3,5,9,14,15,21,38,36,39
-UBCO,2020,W,PSYO,111,,102,Introduction to Psychology: Basic Processes,Alanna Coady;Dyuthi Dinesh;Dyuthi Nirupama;Maya Libben;Shirley Hutchinson,288,78.49305556,15.15609675,99.0,0.0,12,3.0,2,10,13,24,31,38,41,51,63
-UBCO,2020,W,PSYO,111,,OVERALL,Introduction to Psychology: Basic Processes,,1578,78.5095057,14.62258999,99.0,0.0,54,25.0,40,53,85,102,157,184,256,293,329
-UBCO,2020,W,PSYO,121,,001,Introduction to Psychology: Personal Functioning,Kendra Corman;Megan Udala;Shirley Hutchinson;Teanna Henke,236,81.38559322,11.44457709,98.0,47.0,2,4.0,7,11,6,17,18,24,37,42,68
-UBCO,2020,W,PSYO,121,,101,Introduction to Psychology: Personal Functioning,Alanna Coady;Reagan Zinck;Shirley Hutchinson,493,85.38742394,10.12111634,100.0,6.0,2,3.0,6,4,12,14,22,42,74,120,194
-UBCO,2020,W,PSYO,121,,104,Introduction to Psychology: Personal Functioning,Brookelyn Koersen;Mariza Micallef;Rebecca Anderson;Susan Holtzman,229,75.2139738,13.14435962,97.0,30.0,6,8.0,12,27,17,16,17,22,33,36,35
-UBCO,2020,W,PSYO,121,,OVERALL,Introduction to Psychology: Personal Functioning,,958,81.9697286,11.95874667,100.0,6.0,10,15.0,25,42,35,47,57,88,144,198,297
-UBCO,2020,W,PSYO,219,,001,Introduction to Cognition,Casandra Wood;Chloe Kam;Harry Miller;Leanne Ten Brinke;Teanna Henke,288,84.29166667,11.87705603,100.0,3.0,4,3.0,5,5,10,5,12,27,52,50,115
-UBCO,2020,W,PSYO,219,,OVERALL,Introduction to Cognition,,288,84.29166667,11.87705603,100.0,3.0,4,3.0,5,5,10,5,12,27,52,50,115
-UBCO,2020,W,PSYO,220,,101,Lifespan Development,Brittany Alcott;Chloe Smith;Jamie Piercy;Kaylee Misener;Tatiana Sanchez,298,83.38926175,10.64879273,100.0,50.0,0,3.0,10,8,10,11,20,26,43,63,104
-UBCO,2020,W,PSYO,220,,OVERALL,Lifespan Development,,298,83.38926175,10.64879273,100.0,50.0,0,3.0,10,8,10,11,20,26,43,63,104
-UBCO,2020,W,PSYO,230,,001,Biopsychology of Behaviour,Barbara Rutherford;Carmela White;Lydia Wood;Megan Udala;Vanessa Bobbitt,251,82.08366534,14.02101894,100.0,10.0,5,7.0,9,5,8,14,16,24,34,40,89
-UBCO,2020,W,PSYO,230,,OVERALL,Biopsychology of Behaviour,,251,82.08366534,14.02101894,100.0,10.0,5,7.0,9,5,8,14,16,24,34,40,89
-UBCO,2020,W,PSYO,241,,101,Personality,Brookelyn Koersen;Shirley Hutchinson;Soumyaa Subramanium,290,86.56896552,11.13912036,100.0,33.0,5,2.0,4,3,7,6,11,16,30,58,148
-UBCO,2020,W,PSYO,241,,OVERALL,Personality,,290,86.56896552,11.13912036,100.0,33.0,5,2.0,4,3,7,6,11,16,30,58,148
-UBCO,2020,W,PSYO,252,,101,Introduction to Social Psychology,Nina Gregoire;Paul Davies,291,79.58075601,12.04543872,100.0,2.0,5,1.0,8,9,19,17,20,41,64,48,59
-UBCO,2020,W,PSYO,252,,OVERALL,Introduction to Social Psychology,,291,79.58075601,12.04543872,100.0,2.0,5,1.0,8,9,19,17,20,41,64,48,59
-UBCO,2020,W,PSYO,270,,001,Introduction to Research Methods and Design,Alanna Coady;Chloe Kam;Crystal Mundy;Derrick Wirtz;Dyuthi Dinesh;Dyuthi Nirupama;Gordon Lovegrove;Mariza Micallef;Rebecca Anderson;Vanessa Bobbitt,172,77.13372093,11.67691891,99.0,26.0,5,2.0,4,7,14,17,20,23,29,32,19
-UBCO,2020,W,PSYO,270,,002,Introduction to Research Methods and Design,Alanna Coady;Chloe Kam;Crystal Mundy;Derrick Wirtz;Dyuthi Dinesh;Dyuthi Nirupama;Mariza Micallef;Rebecca Anderson;Vanessa Bobbitt,162,80.85185185,9.057595023,97.0,51.0,0,3.0,0,0,5,11,31,25,27,28,32
-UBCO,2020,W,PSYO,270,,OVERALL,Introduction to Research Methods and Design,,334,78.93712575,10.63701956,99.0,26.0,5,5.0,4,7,19,28,51,48,56,60,51
-UBCO,2020,W,PSYO,271,,101,Introduction to Data Analysis,Bryn Tannar;Cassidy Wallis;Crystal Mundy;Jan Cioe;Maya Pilin;Samantha Maki,308,76.6461039,16.66555727,100.0,6.0,20,11.0,15,12,19,18,26,38,33,40,76
-UBCO,2020,W,PSYO,271,,OVERALL,Introduction to Data Analysis,,308,76.6461039,16.66555727,100.0,6.0,20,11.0,15,12,19,18,26,38,33,40,76
-UBCO,2020,W,PSYO,310,,001,Learning,Alanna Coady;Marvin Krank;Tashia Petker,99,78.03030303,11.0679299,98.0,46.0,1,1.0,3,6,7,9,13,13,15,17,14
-UBCO,2020,W,PSYO,310,,OVERALL,Learning,,99,78.03030303,11.0679299,98.0,46.0,1,1.0,3,6,7,9,13,13,15,17,14
-UBCO,2020,W,PSYO,313,,001,Visual Perception,Alanna Coady;Jaquelyn Kerr;Paul Gabias,137,89.12408759,10.24152825,100.0,53.0,0,1.0,1,4,4,2,6,1,11,23,84
-UBCO,2020,W,PSYO,313,,OVERALL,Visual Perception,,137,89.12408759,10.24152825,100.0,53.0,0,1.0,1,4,4,2,6,1,11,23,84
-UBCO,2020,W,PSYO,314,,001,Non-Visual Perception,Jaquelyn Kerr;Paul Gabias,111,88.02702703,11.53450118,100.0,43.0,1,1.0,2,1,5,2,4,4,10,17,64
-UBCO,2020,W,PSYO,314,,OVERALL,Non-Visual Perception,,111,88.02702703,11.53450118,100.0,43.0,1,1.0,2,1,5,2,4,4,10,17,64
-UBCO,2020,W,PSYO,315,,001,Psychology of Touch I,Anne Tseu;Carley Paterson;Paul Gabias,83,87.07228916,9.364936071,99.0,61.0,0,0.0,0,2,1,3,6,6,9,16,40
-UBCO,2020,W,PSYO,315,,OVERALL,Psychology of Touch I,,83,87.07228916,9.364936071,99.0,61.0,0,0.0,0,2,1,3,6,6,9,16,40
-UBCO,2020,W,PSYO,316,,001,Psychology of Touch II,Paul Gabias,26,86.57692308,12.04050855,100.0,57.0,0,0.0,1,0,2,1,0,1,5,3,13
-UBCO,2020,W,PSYO,316,,OVERALL,Psychology of Touch II,,26,86.57692308,12.04050855,100.0,57.0,0,0.0,1,0,2,1,0,1,5,3,13
-UBCO,2020,W,PSYO,317,,001,Psychology of Creativity,Kirthana Ganesh;Liane Gabora,111,83.23423423,9.983581936,98.0,52.0,0,1.0,3,3,3,1,9,16,19,20,36
-UBCO,2020,W,PSYO,317,,OVERALL,Psychology of Creativity,,111,83.23423423,9.983581936,98.0,52.0,0,1.0,3,3,3,1,9,16,19,20,36
-UBCO,2020,W,PSYO,321,,001,Child Development,Chloe Briggs;Chloe Smith;Jamie Piercy;Kaylee Misener,196,82.34693878,10.22927126,100.0,41.0,2,1.0,4,4,6,8,18,22,38,46,47
-UBCO,2020,W,PSYO,321,,OVERALL,Child Development,,196,82.34693878,10.22927126,100.0,41.0,2,1.0,4,4,6,8,18,22,38,46,47
-UBCO,2020,W,PSYO,322,,001,Adolescent Development,Ashley Felske;Chloe Briggs;Jessica Lougheed,198,89.15656566,8.816270856,100.0,58.0,0,0.0,1,1,7,3,6,6,22,36,116
-UBCO,2020,W,PSYO,322,,OVERALL,Adolescent Development,,198,89.15656566,8.816270856,100.0,58.0,0,0.0,1,1,7,3,6,6,22,36,116
-UBCO,2020,W,PSYO,334,,101,Neuroscience of Cognition,Ashley Felske;Harry Miller;Jaquelyn Kerr,156,76.67307692,12.41651526,99.0,33.0,5,3.0,9,11,4,11,15,18,38,25,17
-UBCO,2020,W,PSYO,334,,OVERALL,Neuroscience of Cognition,,156,76.67307692,12.41651526,99.0,33.0,5,3.0,9,11,4,11,15,18,38,25,17
-UBCO,2020,W,PSYO,335,,001,Drugs and Behaviour,Marvin Krank;Michelle St. Pierre;Tatiana Sanchez;Zachary Walsh,224,88.74107143,7.350599299,99.0,44.0,1,0.0,0,0,1,3,4,19,30,40,126
-UBCO,2020,W,PSYO,335,,002,Drugs and Behaviour,Marvin Krank;Tashia Petker,183,77.92349727,10.28306219,98.0,52.0,0,2.0,4,7,20,18,23,24,30,26,29
-UBCO,2020,W,PSYO,335,,OVERALL,Drugs and Behaviour,,407,83.87714988,10.30087488,99.0,44.0,1,2.0,4,7,21,21,27,43,60,66,155
-UBCO,2020,W,PSYO,343,,001,Psychopathology I,Brookelyn Koersen;Jamie Piercy;Jessica Driscoll;Michelle St. Pierre;Tatiana Sanchez,300,86.42666667,8.654534,99.0,51.0,0,2.0,5,1,5,6,11,19,56,64,131
-UBCO,2020,W,PSYO,343,,OVERALL,Psychopathology I,,300,86.42666667,8.654534,99.0,51.0,0,2.0,5,1,5,6,11,19,56,64,131
-UBCO,2020,W,PSYO,346,,101,Abnormal Child Psychology,Chloe Briggs;Jamie Piercy;Kaylee Misener;Tatiana Sanchez,194,79.90206186,11.1022425,98.0,46.0,3,1.0,8,3,14,12,20,21,31,41,40
-UBCO,2020,W,PSYO,346,,OVERALL,Abnormal Child Psychology,,194,79.90206186,11.1022425,98.0,46.0,3,1.0,8,3,14,12,20,21,31,41,40
-UBCO,2020,W,PSYO,348,,101,Health Psychology,Brittany Alcott;Carley Paterson;Mariza Micallef;Rebecca Anderson;Susan Holtzman,195,82.71794872,10.768771,99.0,52.0,0,2.0,5,9,5,9,10,21,39,34,61
-UBCO,2020,W,PSYO,348,,OVERALL,Health Psychology,,195,82.71794872,10.768771,99.0,52.0,0,2.0,5,9,5,9,10,21,39,34,61
-UBCO,2020,W,PSYO,349,,101,Positive Psychology,Anne Tseu;Derrick Wirtz;Dilpreet Lidder;Kendra Corman,283,79.90459364,10.30086825,98.0,6.0,2,1.0,5,6,12,28,40,30,53,59,47
-UBCO,2020,W,PSYO,349,,OVERALL,Positive Psychology,,283,79.90459364,10.30086825,98.0,6.0,2,1.0,5,6,12,28,40,30,53,59,47
+UBCO,2020,W,PSYO,111,,001,Introduction to Psychology: Basic Processes,Anne Tseu;Chin - Wen Chong;Dilpreet Lidder;Dyuthi Dinesh;Dyuthi Nirupama;Megan Udala;Shirley Hutchinson,586,80.042662116,14.210020146,99.0,0.0,17,9.0,11,17,32,34,53,52,88,118,155
+UBCO,2020,W,PSYO,111,,003,Introduction to Psychology: Basic Processes,Bryn Tannar;Casandra Wood;Lydia Wood;Maya Libben;Reagan Zinck,516,76.536821705,14.497559245,98.0,0.0,19,11.0,24,21,31,30,58,73,89,88,72
+UBCO,2020,W,PSYO,111,,101,Introduction to Psychology: Basic Processes,Bryn Tannar;Chin - Wen Chong;Dilpreet Lidder;Paul Gabias,188,79.170212766,14.885041336,97.0,0.0,6,2.0,3,5,9,14,15,21,38,36,39
+UBCO,2020,W,PSYO,111,,102,Introduction to Psychology: Basic Processes,Alanna Coady;Dyuthi Dinesh;Dyuthi Nirupama;Maya Libben;Shirley Hutchinson,288,78.493055556,15.156096749,99.0,0.0,12,3.0,2,10,13,24,31,38,41,51,63
+UBCO,2020,W,PSYO,111,,OVERALL,Introduction to Psychology: Basic Processes,,1578,78.509505703,14.622589985,99.0,0.0,54,25.0,40,53,85,102,157,184,256,293,329
+UBCO,2020,W,PSYO,121,,001,Introduction to Psychology: Personal Functioning,Kendra Corman;Megan Udala;Shirley Hutchinson;Teanna Henke,236,81.38559322,11.444577089,98.0,47.0,2,4.0,7,11,6,17,18,24,37,42,68
+UBCO,2020,W,PSYO,121,,101,Introduction to Psychology: Personal Functioning,Alanna Coady;Reagan Zinck;Shirley Hutchinson,493,85.387423935,10.121116341,100.0,6.0,2,3.0,6,4,12,14,22,42,74,120,194
+UBCO,2020,W,PSYO,121,,104,Introduction to Psychology: Personal Functioning,Brookelyn Koersen;Mariza Micallef;Rebecca Anderson;Susan Holtzman,229,75.305676856,12.927022326,97.0,30.0,5,8.0,13,27,17,16,17,22,33,36,35
+UBCO,2020,W,PSYO,121,,OVERALL,Introduction to Psychology: Personal Functioning,,958,81.991649269,11.889772973,100.0,6.0,9,15.0,26,42,35,47,57,88,144,198,297
+UBCO,2020,W,PSYO,219,,001,Introduction to Cognition,Casandra Wood;Chloe Kam;Leanne Ten Brinke;Teanna Henke,288,84.357638889,11.715287251,100.0,3.0,3,3.0,5,5,11,5,12,27,52,50,115
+UBCO,2020,W,PSYO,219,,OVERALL,Introduction to Cognition,,288,84.357638889,11.715287251,100.0,3.0,3,3.0,5,5,11,5,12,27,52,50,115
+UBCO,2020,W,PSYO,220,,101,Lifespan Development,Brittany Alcott;Chloe Smith;Jamie Piercy;Kaylee Misener;Tatiana Sanchez,298,83.389261745,10.648792732,100.0,50.0,0,3.0,10,8,10,11,20,26,43,63,104
+UBCO,2020,W,PSYO,220,,OVERALL,Lifespan Development,,298,83.389261745,10.648792732,100.0,50.0,0,3.0,10,8,10,11,20,26,43,63,104
+UBCO,2020,W,PSYO,230,,001,Biopsychology of Behaviour,Carmela White;Lydia Wood;Megan Udala;Vanessa Bobbitt,251,82.147410359,13.910506219,100.0,10.0,5,6.0,9,5,9,14,16,24,34,40,89
+UBCO,2020,W,PSYO,230,,OVERALL,Biopsychology of Behaviour,,251,82.147410359,13.910506219,100.0,10.0,5,6.0,9,5,9,14,16,24,34,40,89
+UBCO,2020,W,PSYO,241,,101,Personality,Brookelyn Koersen;Shirley Hutchinson;Soumyaa Subramanium,290,86.568965517,11.13912036,100.0,33.0,5,2.0,4,3,7,6,11,16,30,58,148
+UBCO,2020,W,PSYO,241,,OVERALL,Personality,,290,86.568965517,11.13912036,100.0,33.0,5,2.0,4,3,7,6,11,16,30,58,148
+UBCO,2020,W,PSYO,252,,101,Introduction to Social Psychology,Nina Gregoire;Paul Davies,291,79.687285223,11.77497975,100.0,2.0,4,1.0,8,9,20,17,20,41,64,48,59
+UBCO,2020,W,PSYO,252,,OVERALL,Introduction to Social Psychology,,291,79.687285223,11.77497975,100.0,2.0,4,1.0,8,9,20,17,20,41,64,48,59
+UBCO,2020,W,PSYO,270,,001,Introduction to Research Methods and Design,Alanna Coady;Chloe Kam;Crystal Mundy;Derrick Wirtz;Dyuthi Dinesh;Mariza Micallef;Rebecca Anderson;Vanessa Bobbitt,172,77.13372093,11.676918909,99.0,26.0,5,2.0,4,7,14,17,20,23,29,32,19
+UBCO,2020,W,PSYO,270,,002,Introduction to Research Methods and Design,Alanna Coady;Chloe Kam;Crystal Mundy;Derrick Wirtz;Dyuthi Dinesh;Mariza Micallef;Rebecca Anderson;Vanessa Bobbitt,162,80.851851852,9.057595023,97.0,51.0,0,3.0,0,0,5,11,31,25,27,28,32
+UBCO,2020,W,PSYO,270,,OVERALL,Introduction to Research Methods and Design,,334,78.937125749,10.637019559,99.0,26.0,5,5.0,4,7,19,28,51,48,56,60,51
+UBCO,2020,W,PSYO,271,,101,Introduction to Data Analysis,Bryn Tannar;Cassidy Wallis;Crystal Mundy;Jan Cioe;Maya Pilin;Samantha Maki,308,76.646103896,16.66555727,100.0,6.0,20,11.0,15,12,19,18,26,38,33,40,76
+UBCO,2020,W,PSYO,271,,OVERALL,Introduction to Data Analysis,,308,76.646103896,16.66555727,100.0,6.0,20,11.0,15,12,19,18,26,38,33,40,76
+UBCO,2020,W,PSYO,310,,001,Learning,Alanna Coady;Marvin Krank;Tashia Petker,98,78.357142857,10.633781998,98.0,50.0,0,1.0,3,6,7,9,13,13,15,17,14
+UBCO,2020,W,PSYO,310,,OVERALL,Learning,,98,78.357142857,10.633781998,98.0,50.0,0,1.0,3,6,7,9,13,13,15,17,14
+UBCO,2020,W,PSYO,313,,001,Visual Perception,Alanna Coady;Jaquelyn Kerr;Paul Gabias,137,89.124087591,10.241528246,100.0,53.0,0,1.0,1,4,4,2,6,1,11,23,84
+UBCO,2020,W,PSYO,313,,OVERALL,Visual Perception,,137,89.124087591,10.241528246,100.0,53.0,0,1.0,1,4,4,2,6,1,11,23,84
+UBCO,2020,W,PSYO,314,,001,Non-Visual Perception,Jaquelyn Kerr;Paul Gabias,111,88.027027027,11.534501179,100.0,43.0,1,1.0,2,1,5,2,4,4,10,17,64
+UBCO,2020,W,PSYO,314,,OVERALL,Non-Visual Perception,,111,88.027027027,11.534501179,100.0,43.0,1,1.0,2,1,5,2,4,4,10,17,64
+UBCO,2020,W,PSYO,315,,001,Psychology of Touch I,Anne Tseu;Carley Paterson;Paul Gabias,83,87.072289157,9.364936071,99.0,61.0,0,0.0,0,2,1,3,6,6,9,16,40
+UBCO,2020,W,PSYO,315,,OVERALL,Psychology of Touch I,,83,87.072289157,9.364936071,99.0,61.0,0,0.0,0,2,1,3,6,6,9,16,40
+UBCO,2020,W,PSYO,316,,001,Psychology of Touch II,Paul Gabias,26,86.576923077,12.04050855,100.0,57.0,0,0.0,1,0,2,1,0,1,5,3,13
+UBCO,2020,W,PSYO,316,,OVERALL,Psychology of Touch II,,26,86.576923077,12.04050855,100.0,57.0,0,0.0,1,0,2,1,0,1,5,3,13
+UBCO,2020,W,PSYO,317,,001,Psychology of Creativity,Kirthana Ganesh;Liane Gabora,111,83.234234234,9.983581936,98.0,52.0,0,1.0,3,3,3,1,9,16,19,20,36
+UBCO,2020,W,PSYO,317,,OVERALL,Psychology of Creativity,,111,83.234234234,9.983581936,98.0,52.0,0,1.0,3,3,3,1,9,16,19,20,36
+UBCO,2020,W,PSYO,321,,001,Child Development,Chloe Briggs;Chloe Smith;Jamie Piercy;Kaylee Misener,196,82.346938776,10.229271263,100.0,41.0,2,1.0,4,4,6,8,18,22,38,46,47
+UBCO,2020,W,PSYO,321,,OVERALL,Child Development,,196,82.346938776,10.229271263,100.0,41.0,2,1.0,4,4,6,8,18,22,38,46,47
+UBCO,2020,W,PSYO,322,,001,Adolescent Development,Ashley Felske;Chloe Briggs;Jessica Lougheed,198,89.156565657,8.816270856,100.0,58.0,0,0.0,1,1,7,3,6,6,22,36,116
+UBCO,2020,W,PSYO,322,,OVERALL,Adolescent Development,,198,89.156565657,8.816270856,100.0,58.0,0,0.0,1,1,7,3,6,6,22,36,116
+UBCO,2020,W,PSYO,334,,101,Neuroscience of Cognition,Ashley Felske;Harry Miller;Jaquelyn Kerr,156,76.673076923,12.416515257,99.0,33.0,5,3.0,9,11,4,11,15,18,38,25,17
+UBCO,2020,W,PSYO,334,,OVERALL,Neuroscience of Cognition,,156,76.673076923,12.416515257,99.0,33.0,5,3.0,9,11,4,11,15,18,38,25,17
+UBCO,2020,W,PSYO,335,,001,Drugs and Behaviour,Marvin Krank;Michelle St. Pierre;Tatiana Sanchez;Zachary Walsh,224,88.741071429,7.350599299,99.0,44.0,1,0.0,0,0,1,3,4,19,30,40,126
+UBCO,2020,W,PSYO,335,,002,Drugs and Behaviour,Marvin Krank;Tashia Petker,184,77.97826087,10.281798083,98.0,52.0,0,2.0,4,7,20,18,23,24,30,27,29
+UBCO,2020,W,PSYO,335,,OVERALL,Drugs and Behaviour,,408,83.887254902,10.290236985,99.0,44.0,1,2.0,4,7,21,21,27,43,60,67,155
+UBCO,2020,W,PSYO,343,,001,Psychopathology I,Brookelyn Koersen;Jamie Piercy;Jessica Driscoll;Michelle St. Pierre;Tatiana Sanchez,300,86.426666667,8.654534,99.0,51.0,0,2.0,5,1,5,6,11,19,56,64,131
+UBCO,2020,W,PSYO,343,,OVERALL,Psychopathology I,,300,86.426666667,8.654534,99.0,51.0,0,2.0,5,1,5,6,11,19,56,64,131
+UBCO,2020,W,PSYO,346,,101,Abnormal Child Psychology,Chloe Briggs;Jamie Piercy;Kaylee Misener;Tatiana Sanchez,194,79.902061856,11.102242497,98.0,46.0,3,1.0,8,3,14,12,20,21,31,41,40
+UBCO,2020,W,PSYO,346,,OVERALL,Abnormal Child Psychology,,194,79.902061856,11.102242497,98.0,46.0,3,1.0,8,3,14,12,20,21,31,41,40
+UBCO,2020,W,PSYO,348,,101,Health Psychology,Brittany Alcott;Carley Paterson;Mariza Micallef;Rebecca Anderson;Susan Holtzman,195,82.717948718,10.768770996,99.0,52.0,0,2.0,5,9,5,9,10,21,39,34,61
+UBCO,2020,W,PSYO,348,,OVERALL,Health Psychology,,195,82.717948718,10.768770996,99.0,52.0,0,2.0,5,9,5,9,10,21,39,34,61
+UBCO,2020,W,PSYO,349,,101,Positive Psychology,Anne Tseu;Derrick Wirtz;Dilpreet Lidder;Kendra Corman,283,79.90459364,10.300868246,98.0,6.0,2,1.0,5,6,12,28,40,30,53,59,47
+UBCO,2020,W,PSYO,349,,OVERALL,Positive Psychology,,283,79.90459364,10.300868246,98.0,6.0,2,1.0,5,6,12,28,40,30,53,59,47
 UBCO,2020,W,PSYO,353,,001,Psychological Aspects of Human Sexuality I,Cassidy Wallis;Jan Cioe;Maya Pilin;Samantha Maki,333,80.90990991,10.39944642,98.0,35.0,2,5.0,8,11,14,11,32,44,55,79,72
 UBCO,2020,W,PSYO,353,,OVERALL,Psychological Aspects of Human Sexuality I,,333,80.90990991,10.39944642,98.0,35.0,2,5.0,8,11,14,11,32,44,55,79,72
-UBCO,2020,W,PSYO,354,,101,Psychological Aspects of Human Sexuality II,Cassidy Wallis;Jan Cioe;Maya Pilin;Samantha Maki,160,77.55625,10.76375637,94.0,25.0,2,3.0,6,5,7,13,21,24,33,33,13
-UBCO,2020,W,PSYO,354,,OVERALL,Psychological Aspects of Human Sexuality II,,160,77.55625,10.76375637,94.0,25.0,2,3.0,6,5,7,13,21,24,33,33,13
-UBCO,2020,W,PSYO,355,,001,Forensic Psychology I,Ian Wellspring;Katherine Rose;Michael Woodworth,348,80.38505747,10.78642576,99.0,42.0,3,3.0,6,10,23,30,28,43,62,61,79
-UBCO,2020,W,PSYO,355,,OVERALL,Forensic Psychology I,,348,80.38505747,10.78642576,99.0,42.0,3,3.0,6,10,23,30,28,43,62,61,79
-UBCO,2020,W,PSYO,356,,001,Forensic Psychology II,Ian Wellspring;Katherine Rose;Michael Woodworth,204,81.17647059,12.44646607,100.0,29.0,4,3.0,5,5,10,13,11,23,35,33,62
-UBCO,2020,W,PSYO,356,,OVERALL,Forensic Psychology II,,204,81.17647059,12.44646607,100.0,29.0,4,3.0,5,5,10,13,11,23,35,33,62
-UBCO,2020,W,PSYO,362,,101,Psychology of Humour,Kirthana Ganesh;Liane Gabora,89,81.3258427,11.82041308,100.0,26.0,2,0.0,1,1,4,9,3,12,23,14,20
-UBCO,2020,W,PSYO,362,,OVERALL,Psychology of Humour,,89,81.3258427,11.82041308,100.0,26.0,2,0.0,1,1,4,9,3,12,23,14,20
-UBCO,2020,W,PSYO,372,,001,Research Methods and Statistics,Jan Cioe;Kimberley Kaseweter;Leanne Ten Brinke;Nina Gregoire;Rebecca Godard;Zakary Draper,32,87.34375,4.381849477,95.0,76.0,0,0.0,0,0,0,0,0,2,4,15,11
-UBCO,2020,W,PSYO,372,,OVERALL,Research Methods and Statistics,,32,87.34375,4.381849477,95.0,76.0,0,0.0,0,0,0,0,0,2,4,15,11
+UBCO,2020,W,PSYO,354,,101,Psychological Aspects of Human Sexuality II,Cassidy Wallis;Jan Cioe;Maya Pilin;Samantha Maki,160,77.55625,10.763756373,94.0,25.0,2,3.0,6,5,7,13,21,24,33,33,13
+UBCO,2020,W,PSYO,354,,OVERALL,Psychological Aspects of Human Sexuality II,,160,77.55625,10.763756373,94.0,25.0,2,3.0,6,5,7,13,21,24,33,33,13
+UBCO,2020,W,PSYO,355,,001,Forensic Psychology I,Ian Wellspring;Katherine Rose;Michael Woodworth,348,80.385057471,10.786425761,99.0,42.0,3,3.0,6,10,23,30,28,43,62,61,79
+UBCO,2020,W,PSYO,355,,OVERALL,Forensic Psychology I,,348,80.385057471,10.786425761,99.0,42.0,3,3.0,6,10,23,30,28,43,62,61,79
+UBCO,2020,W,PSYO,356,,001,Forensic Psychology II,Ian Wellspring;Katherine Rose;Michael Woodworth,204,81.176470588,12.446466066,100.0,29.0,4,3.0,5,5,10,13,11,23,35,33,62
+UBCO,2020,W,PSYO,356,,OVERALL,Forensic Psychology II,,204,81.176470588,12.446466066,100.0,29.0,4,3.0,5,5,10,13,11,23,35,33,62
+UBCO,2020,W,PSYO,362,,101,Psychology of Humour,Kirthana Ganesh;Liane Gabora,90,81.355555556,11.757198236,100.0,26.0,2,0.0,1,1,4,9,3,12,24,14,20
+UBCO,2020,W,PSYO,362,,OVERALL,Psychology of Humour,,90,81.355555556,11.757198236,100.0,26.0,2,0.0,1,1,4,9,3,12,24,14,20
+UBCO,2020,W,PSYO,372,,001,Research Methods and Statistics,Jan Cioe;Kimberley Kaseweter;Leanne Ten Brinke;Nina Gregoire;Rebecca Godard;Zakary Draper,33,86.181818182,7.946911922,95.0,49.0,1,0.0,0,0,0,0,0,2,4,15,11
+UBCO,2020,W,PSYO,372,,OVERALL,Research Methods and Statistics,,33,86.181818182,7.946911922,95.0,49.0,1,0.0,0,0,0,0,0,2,4,15,11
 UBCO,2020,W,PSYO,373,,001,Advanced Research Methods and Statistics,Brian O'Connor;Rebecca Godard;Zakary Draper,30,84.0,4.541000953,94.0,74.0,0,0.0,0,0,0,0,1,2,12,13,2
 UBCO,2020,W,PSYO,373,,OVERALL,Advanced Research Methods and Statistics,,30,84.0,4.541000953,94.0,74.0,0,0.0,0,0,0,0,1,2,12,13,2
-UBCO,2020,W,PSYO,380,J,101,Special Topics in Psychology,Crystal Mundy;Jessica Lougheed,82,90.35365854,10.61837675,100.0,48.0,1,0.0,0,3,2,0,2,1,4,14,55
-UBCO,2020,W,PSYO,380,J,OVERALL,Special Topics in Psychology,,82,90.35365854,10.61837675,100.0,48.0,1,0.0,0,3,2,0,2,1,4,14,55
-UBCO,2020,W,PSYO,381,A,OVERALL,Directed Studies in Psychology,,12,92.66666667,3.472838329,98.0,88.0,0,0.0,0,0,0,0,0,0,0,,
-UBCO,2020,W,PSYO,440,,001,Introduction to Counselling and Interviewing,Carley Paterson;Carolyn Szostak,12,89.33333333,3.366501646,95.0,84.0,0,0.0,0,0,0,0,0,0,1,4,7
-UBCO,2020,W,PSYO,440,,OVERALL,Introduction to Counselling and Interviewing,,12,89.33333333,3.366501646,95.0,84.0,0,0.0,0,0,0,0,0,0,1,4,7
-UBCO,2020,W,PSYO,480,A,001,Advanced Special Topics in Psychology,Ian Wellspring;Katherine Rose;Marvin Krank;Michael Woodworth,23,88.73913044,4.402658198,98.0,79.0,0,0.0,0,0,0,0,0,1,2,9,11
-UBCO,2020,W,PSYO,480,A,OVERALL,Advanced Special Topics in Psychology,,23,88.73913044,4.402658198,98.0,79.0,0,0.0,0,0,0,0,0,1,2,9,11
+UBCO,2020,W,PSYO,380,J,101,Special Topics in Psychology,Crystal Mundy;Jessica Lougheed,82,90.353658537,10.618376746,100.0,48.0,1,0.0,0,3,2,0,2,1,4,14,55
+UBCO,2020,W,PSYO,380,J,OVERALL,Special Topics in Psychology,,82,90.353658537,10.618376746,100.0,48.0,1,0.0,0,3,2,0,2,1,4,14,55
+UBCO,2020,W,PSYO,381,A,OVERALL,Directed Studies in Psychology,,12,92.666666667,3.472838329,98.0,88.0,0,0.0,0,0,0,0,0,0,0,,
+UBCO,2020,W,PSYO,435,,001,Substance Use and Abuse,Marvin Krank,11,87.272727273,2.611164839,90.0,81.0,0,0.0,0,0,0,0,0,0,2,8,1
+UBCO,2020,W,PSYO,435,,OVERALL,Substance Use and Abuse,,11,87.272727273,2.611164839,90.0,81.0,0,0.0,0,0,0,0,0,0,2,8,1
+UBCO,2020,W,PSYO,440,,001,Introduction to Counselling and Interviewing,Carley Paterson;Carolyn Szostak,12,89.333333333,3.366501646,95.0,84.0,0,0.0,0,0,0,0,0,0,1,4,7
+UBCO,2020,W,PSYO,440,,OVERALL,Introduction to Counselling and Interviewing,,12,89.333333333,3.366501646,95.0,84.0,0,0.0,0,0,0,0,0,0,1,4,7
+UBCO,2020,W,PSYO,480,A,001,Advanced Special Topics in Psychology,Ian Wellspring;Katherine Rose;Marvin Krank;Michael Woodworth,23,88.739130435,4.402658198,98.0,79.0,0,0.0,0,0,0,0,0,1,2,9,11
+UBCO,2020,W,PSYO,480,A,OVERALL,Advanced Special Topics in Psychology,,23,88.739130435,4.402658198,98.0,79.0,0,0.0,0,0,0,0,0,1,2,9,11
 UBCO,2020,W,PSYO,480,N,101,Advanced Special Topics in Psychology,Liane Gabora,8,96.125,2.031009601,98.0,92.0,0,0.0,0,0,0,0,0,0,0,0,8
 UBCO,2020,W,PSYO,480,N,OVERALL,Advanced Special Topics in Psychology,,8,96.125,2.031009601,98.0,92.0,0,0.0,0,0,0,0,0,0,0,0,8
-UBCO,2020,W,PSYO,481,A,OVERALL,Directed Studies,,12,93.83333333,2.979729498,98.0,89.0,0,0.0,0,0,0,0,0,0,0,,
-UBCO,2020,W,PSYO,490,B,OVERALL,Undergraduate Honours Thesis,,14,92.21428571,3.378178194,97.0,86.0,0,0.0,0,0,0,0,0,0,0,,
+UBCO,2020,W,PSYO,481,A,OVERALL,Directed Studies,,12,93.833333333,2.979729498,98.0,89.0,0,0.0,0,0,0,0,0,0,0,,
+UBCO,2020,W,PSYO,490,B,OVERALL,Undergraduate Honours Thesis,,16,92.5625,3.285701346,97.0,86.0,0,0.0,0,0,0,0,0,0,0,,
 UBCO,2020,W,PSYO,523,,101,Cognitive Basis of Behaviour,Jamie Piercy,7,93.0,2.645751311,97.0,89.0,0,0.0,0,0,0,0,0,0,0,1,6
 UBCO,2020,W,PSYO,523,,OVERALL,Cognitive Basis of Behaviour,,7,93.0,2.645751311,97.0,89.0,0,0.0,0,0,0,0,0,0,0,1,6

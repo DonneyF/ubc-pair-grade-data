@@ -1,19 +1,23 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,BASC,500,,819,Process Fundamentals,Hossein Piri;Stoyan Hristov;Woonghee Tim Huh,30,83.93333333,6.186377322,95.0,68.0,0,0,0,0,0,1,0.0,5.0,5,12,7
-UBCV,2020,W,BASC,500,,BA1,Process Fundamentals,Harish Krishnan;Vibhuti Dhingra,75,83.86666667,2.91006331,89.0,75.0,0,0,0,0,0,0,1.0,4.0,35,35,0
-UBCV,2020,W,BASC,500,,OVERALL,Process Fundamentals,,105,83.88571429,4.086361664,95.0,68.0,0,0,0,0,0,1,1.0,9.0,40,47,7
-UBCV,2020,W,BASC,523,,819,Supply Chain Management,S Thomas Mccormick;Saurabh Khurana;Stoyan Hristov,24,79.625,3.609317652,86.0,73.0,0,0,0,0,0,0,4.0,7.0,11,2,0
-UBCV,2020,W,BASC,523,,DD1,Supply Chain Management,Christopher Ryan;Hariharan Mahadevan;Mahadevan Hariharan,43,82.25581395,3.102172996,87.0,74.0,0,0,0,0,0,0,3.0,4.0,27,9,0
-UBCV,2020,W,BASC,523,,DD2,Supply Chain Management,Christopher Ryan;Hariharan Mahadevan;Mahadevan Hariharan,30,83.23333333,1.735696885,86.0,79.0,0,0,0,0,0,0,0.0,1.0,22,7,0
-UBCV,2020,W,BASC,523,,OVERALL,Supply Chain Management,,97,81.9072165,3.185522178,87.0,73.0,0,0,0,0,0,0,7.0,12.0,60,18,0
-UBCV,2020,W,BASC,524,,001,Supply Chain Analytics,Harish Krishnan;Vibhuti Dhingra,9,84.11111111,1.763834207,86.0,82.0,0,0,0,0,0,0,0.0,0.0,5,4,0
-UBCV,2020,W,BASC,524,,OVERALL,Supply Chain Analytics,,9,84.11111111,1.763834207,86.0,82.0,0,0,0,0,0,0,0.0,0.0,5,4,0
-UBCV,2020,W,BASC,525,,302,Supply Chain Strategy and Analytics,Harish Krishnan;Vibhuti Dhingra,8,84.125,1.125991626,86.0,83.0,0,0,0,0,0,0,0.0,0.0,5,3,0
-UBCV,2020,W,BASC,525,,OVERALL,Supply Chain Strategy and Analytics,,8,84.125,1.125991626,86.0,83.0,0,0,0,0,0,0,0.0,0.0,5,3,0
-UBCV,2020,W,BASC,550,,001,Operations,Christopher Ryan;Hariharan Mahadevan,58,81.70689655,2.060562184,89.0,78.0,0,0,0,0,0,0,0.0,3.0,50,5,0
-UBCV,2020,W,BASC,550,,002,Operations,Christopher Ryan;Hariharan Mahadevan,56,82.10714286,2.137786208,88.0,78.0,0,0,0,0,0,0,0.0,6.0,41,9,0
-UBCV,2020,W,BASC,550,,201,Operations,Bernard Maroney;David Gerald Golinsky;Hossein Piri;Iman Nosoohi,19,85.05263158,5.911135294,96.0,73.0,0,0,0,0,0,0,2.0,0.0,5,8,4
-UBCV,2020,W,BASC,550,,301,Operations,Christopher Ryan;Hariharan Mahadevan;Mahadevan Hariharan,52,82.36538462,3.564689829,90.0,68.0,0,0,0,0,0,1,1.0,4.0,30,15,1
-UBCV,2020,W,BASC,550,,DD1,Operations,Michael Kim;Woonghee Tim Huh,55,83.27272727,7.311722059,98.0,70.0,0,0,0,0,0,2,6.0,10.0,14,9,14
-UBCV,2020,W,BASC,550,,DD2,Operations,Michael Kim;Woonghee Tim Huh;Xinyuan Zhang,18,82.33333333,9.517785209,96.0,65.0,0,0,0,0,1,3,0.0,4.0,2,3,5
-UBCV,2020,W,BASC,550,,OVERALL,Operations,,258,82.5503876,4.990202448,98.0,65.0,0,0,0,0,1,6,9.0,27.0,142,49,24
+UBCV,2020,W,BASC,500,,001,Process Fundamentals,Harish Krishnan;Vibhuti Dhingra,47,83.531914894,2.073131048,89.0,76.0,0,0,0,0,0.0,0,0.0,2.0,29,16,0
+UBCV,2020,W,BASC,500,,301,Process Fundamentals,Harish Krishnan;Vibhuti Dhingra,44,83.522727273,2.473004353,88.0,77.0,0,0,0,0,0.0,0,0.0,1.0,26,17,0
+UBCV,2020,W,BASC,500,,819,Process Fundamentals,Hossein Piri;Stoyan Hristov;Woonghee Tim Huh,30,83.933333333,6.186377322,95.0,68.0,0,0,0,0,0.0,1,0.0,5.0,5,12,7
+UBCV,2020,W,BASC,500,,BA1,Process Fundamentals,Harish Krishnan;Vibhuti Dhingra,75,83.866666667,2.91006331,89.0,75.0,0,0,0,0,0.0,0,1.0,4.0,35,35,0
+UBCV,2020,W,BASC,500,,OVERALL,Process Fundamentals,,196,83.719387755,3.361597855,95.0,68.0,0,0,0,0,0.0,1,1.0,12.0,95,80,7
+UBCV,2020,W,BASC,523,,819,Supply Chain Management,S Thomas Mccormick;Saurabh Khurana;Stoyan Hristov,24,79.625,3.609317652,86.0,73.0,0,0,0,0,0.0,0,4.0,7.0,11,2,0
+UBCV,2020,W,BASC,523,,BA1,Supply Chain Management,Harish Krishnan;Vibhuti Dhingra,75,83.293333333,2.409291324,88.0,71.0,0,0,0,0,0.0,1,1.0,1.0,52,20,0
+UBCV,2020,W,BASC,523,,DD1,Supply Chain Management,Christopher Ryan;Hariharan Mahadevan;Mahadevan Hariharan,43,82.255813953,3.102172996,87.0,74.0,0,0,0,0,0.0,0,3.0,4.0,27,9,0
+UBCV,2020,W,BASC,523,,DD2,Supply Chain Management,Christopher Ryan;Hariharan Mahadevan;Mahadevan Hariharan,30,83.233333333,1.735696885,86.0,79.0,0,0,0,0,0.0,0,0.0,1.0,22,7,0
+UBCV,2020,W,BASC,523,,OVERALL,Supply Chain Management,,172,82.511627907,2.946875384,88.0,71.0,0,0,0,0,0.0,1,8.0,13.0,112,38,0
+UBCV,2020,W,BASC,524,,001,Supply Chain Analytics,Harish Krishnan;Vibhuti Dhingra,9,84.111111111,1.763834207,86.0,82.0,0,0,0,0,0.0,0,0.0,0.0,5,4,0
+UBCV,2020,W,BASC,524,,OVERALL,Supply Chain Analytics,,9,84.111111111,1.763834207,86.0,82.0,0,0,0,0,0.0,0,0.0,0.0,5,4,0
+UBCV,2020,W,BASC,525,,302,Supply Chain Strategy and Analytics,Harish Krishnan;Vibhuti Dhingra,8,84.125,1.125991626,86.0,83.0,0,0,0,0,0.0,0,0.0,0.0,5,3,0
+UBCV,2020,W,BASC,525,,OVERALL,Supply Chain Strategy and Analytics,,8,84.125,1.125991626,86.0,83.0,0,0,0,0,0.0,0,0.0,0.0,5,3,0
+UBCV,2020,W,BASC,550,,001,Operations,Christopher Ryan;Hariharan Mahadevan,58,81.706896552,2.060562184,89.0,78.0,0,0,0,0,0.0,0,0.0,3.0,50,5,0
+UBCV,2020,W,BASC,550,,002,Operations,Christopher Ryan;Hariharan Mahadevan,56,82.107142857,2.137786208,88.0,78.0,0,0,0,0,0.0,0,0.0,6.0,41,9,0
+UBCV,2020,W,BASC,550,,201,Operations,Bernard Maroney;David Gerald Golinsky;Hossein Piri;Iman Nosoohi,19,85.052631579,5.911135294,96.0,73.0,0,0,0,0,0.0,0,2.0,0.0,5,8,4
+UBCV,2020,W,BASC,550,,301,Operations,Christopher Ryan;Hariharan Mahadevan;Mahadevan Hariharan,52,82.365384615,3.564689829,90.0,68.0,0,0,0,0,0.0,1,1.0,4.0,30,15,1
+UBCV,2020,W,BASC,550,,DD1,Operations,Michael Kim;Woonghee Tim Huh,55,83.272727273,7.311722059,98.0,70.0,0,0,0,0,0.0,2,6.0,10.0,14,9,14
+UBCV,2020,W,BASC,550,,DD2,Operations,Michael Kim;Woonghee Tim Huh;Xinyuan Zhang,18,82.333333333,9.517785209,96.0,65.0,0,0,0,0,1.0,3,0.0,4.0,2,3,5
+UBCV,2020,W,BASC,550,,MM1,Operations,Sha Liao;Yiwen Jin,56,83.339285714,7.807401583,96.0,62.0,0,0,0,1,0.0,4,5.0,6.0,11,15,14
+UBCV,2020,W,BASC,550,,OVERALL,Operations,,314,82.691082803,5.590108514,98.0,62.0,0,0,0,1,1.0,10,14.0,33.0,153,64,38

@@ -1,62 +1,65 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,WOOD,120,,101,Introduction to Wood Products and Global Trade,Melissa Vincent;Simon Ellis,25,66.24,17.40517165,89.0,14.0,3,0.0,0.0,5.0,4.0,2,3.0,4.0,3,1,0
-UBCV,2020,W,WOOD,120,,OVERALL,Introduction to Wood Products and Global Trade,,25,66.24,17.40517165,89.0,14.0,3,0.0,0.0,5.0,4.0,2,3.0,4.0,3,1,0
-UBCV,2020,W,WOOD,225,,101,Communications Strategies,Aubrey Leveridge;John Clegg;Tara Lee,22,71.68181818,4.893011183,83.0,63.0,0,0.0,0.0,1.0,4.0,6,8.0,1.0,2,0,0
-UBCV,2020,W,WOOD,225,,102,Communications Strategies,Aubrey Leveridge;Tara Lee,23,71.73913044,6.994916279,92.0,63.0,0,0.0,0.0,3.0,3.0,7,6.0,1.0,1,1,1
-UBCV,2020,W,WOOD,225,,201,Communications Strategies,Aubrey Leveridge;Jesse Hannawalt;John Clegg;Tara Lee,29,77.17241379,7.161748417,87.0,60.0,0,0.0,0.0,1.0,2.0,3,4.0,7.0,8,4,0
-UBCV,2020,W,WOOD,225,,202,Communications Strategies,Aubrey Leveridge;Jesse Hannawalt;John Clegg;Tara Lee,24,73.54166667,5.956210983,84.0,56.0,0,0.0,1.0,0.0,2.0,4,10.0,3.0,4,0,0
-UBCV,2020,W,WOOD,225,,205,Communications Strategies,Aubrey Leveridge;Jesse Hannawalt;John Clegg;Tara Lee,30,71.43333333,14.00168299,88.0,5.0,1,0.0,1.0,0.0,3.0,6,8.0,7.0,2,2,0
-UBCV,2020,W,WOOD,225,,OVERALL,Communications Strategies,,128,73.2265625,8.948861577,92.0,5.0,1,0.0,2.0,5.0,14.0,26,36.0,19.0,17,7,1
-UBCV,2020,W,WOOD,244,,001,Quantitative Methods in the Wood Industry,Anna Schild;Gregory Smith,13,71.69230769,10.64099475,90.0,56.0,0,0.0,2.0,2.0,0.0,3,1.0,1.0,3,0,1
-UBCV,2020,W,WOOD,244,,OVERALL,Quantitative Methods in the Wood Industry,,13,71.69230769,10.64099475,90.0,56.0,0,0.0,2.0,2.0,0.0,3,1.0,1.0,3,0,1
-UBCV,2020,W,WOOD,245,,201,Programming for Wood Products Manufacturing Applications,Gregory Smith;Mingyao Song;Qing Qiu;Shiva Zargar Ershadi;Vahid Nasir,38,73.02631579,13.37097874,96.0,20.0,1,1.0,1.0,3.0,3.0,9,1.0,5.0,7,5,2
-UBCV,2020,W,WOOD,245,,OVERALL,Programming for Wood Products Manufacturing Applications,,38,73.02631579,13.37097874,96.0,20.0,1,1.0,1.0,3.0,3.0,9,1.0,5.0,7,5,2
-UBCV,2020,W,WOOD,249,,201,Contemporary Topics in Forestry and Wood Products,Drake Mboowa;Jie Wu;John Saddler,17,84.11764706,23.44910007,98.0,0.0,1,0.0,0.0,1.0,0.0,0,0.0,0.0,2,1,12
-UBCV,2020,W,WOOD,249,,OVERALL,Contemporary Topics in Forestry and Wood Products,,17,84.11764706,23.44910007,98.0,0.0,1,0.0,0.0,1.0,0.0,0,0.0,0.0,2,1,12
-UBCV,2020,W,WOOD,276,,101,Mechanics of Wood Products,Frank Lam;Wancheng Gao,17,68.64705882,13.35543511,93.0,36.0,1,0.0,2.0,2.0,4.0,2,2.0,1.0,0,2,1
-UBCV,2020,W,WOOD,276,,OVERALL,Mechanics of Wood Products,,17,68.64705882,13.35543511,93.0,36.0,1,0.0,2.0,2.0,4.0,2,2.0,1.0,0,2,1
-UBCV,2020,W,WOOD,280,,101,Wood Anatomy and Identification,Jie Wu;Simon Ellis,14,69.5,10.99475399,84.0,50.0,0,1.0,2.0,2.0,2.0,1,1.0,1.0,4,0,0
-UBCV,2020,W,WOOD,280,,OVERALL,Wood Anatomy and Identification,,14,69.5,10.99475399,84.0,50.0,0,1.0,2.0,2.0,2.0,1,1.0,1.0,4,0,0
-UBCV,2020,W,WOOD,282,,201,Wood Physics and Mechanics,Chaoyue Zhang;Cristiano Loss;Dessie Tibebu;Stavros Avramidis,12,75.08333333,7.809764673,84.0,57.0,0,0.0,1.0,0.0,1.0,2,1.0,3.0,4,0,0
-UBCV,2020,W,WOOD,282,,OVERALL,Wood Physics and Mechanics,,12,75.08333333,7.809764673,84.0,57.0,0,0.0,1.0,0.0,1.0,2,1.0,3.0,4,0,0
-UBCV,2020,W,WOOD,290,,201,Secondary Wood Products Manufacturing,Alastair White;Robert Fuerst,12,81.25,8.635287014,93.0,65.0,0,0.0,0.0,0.0,2.0,0,0.0,2.0,4,2,2
-UBCV,2020,W,WOOD,290,,OVERALL,Secondary Wood Products Manufacturing,,12,81.25,8.635287014,93.0,65.0,0,0.0,0.0,0.0,2.0,0,0.0,2.0,4,2,2
-UBCV,2020,W,WOOD,292,,201,Two-Dimensional and Solid Computer-Aided Graphics,Qing Qiu;Vincent Leung,13,81.69230769,10.24194493,97.0,67.0,0,0.0,0.0,0.0,1.0,2,1.0,1.0,4,1,3
-UBCV,2020,W,WOOD,292,,OVERALL,Two-Dimensional and Solid Computer-Aided Graphics,,13,81.69230769,10.24194493,97.0,67.0,0,0.0,0.0,0.0,1.0,2,1.0,1.0,4,1,3
-UBCV,2020,W,WOOD,330,,101,Industrial Engineering,Farbod Moheb;Farbod Moheb Khosravi;Sahar Ahmadvand;Taraneh Sowlati,23,83.60869565,7.505992336,96.0,68.0,0,0.0,0.0,0.0,0.0,3,0.0,2.0,5,9,4
-UBCV,2020,W,WOOD,330,,102,Industrial Engineering,Farbod Moheb;Farbod Moheb Khosravi;Sahar Ahmadvand;Taraneh Sowlati,22,85.90909091,5.706379812,96.0,77.0,0,0.0,0.0,0.0,0.0,0,0.0,4.0,5,6,7
-UBCV,2020,W,WOOD,330,,OVERALL,Industrial Engineering,,45,84.73333333,6.712945431,96.0,68.0,0,0.0,0.0,0.0,0.0,3,0.0,6.0,10,15,11
-UBCV,2020,W,WOOD,335,,101,Quality Improvement,Julie Cool;Qing Qiu;Vahid Nasir,45,83.06666667,6.668787541,95.0,64.0,0,0.0,0.0,0.0,1.0,1,5.0,7.0,11,12,8
-UBCV,2020,W,WOOD,335,,OVERALL,Quality Improvement,,45,83.06666667,6.668787541,95.0,64.0,0,0.0,0.0,0.0,1.0,1,5.0,7.0,11,12,8
-UBCV,2020,W,WOOD,356,,101,Machine Components,Doh Wook Kim;Vincent Leung,11,86.90909091,6.073788693,95.0,79.0,0,0.0,0.0,0.0,0.0,0,0.0,1.0,4,2,4
-UBCV,2020,W,WOOD,356,,OVERALL,Machine Components,,11,86.90909091,6.073788693,95.0,79.0,0,0.0,0.0,0.0,0.0,0,0.0,1.0,4,2,4
-UBCV,2020,W,WOOD,365,,201,Wood Industry Business Management,Christopher Gaston;Qiyue Zhang;Sohrab Rahimi,53,81.16981132,8.359094193,92.0,34.0,1,0.0,0.0,0.0,1.0,2,2.0,3.0,28,14,2
-UBCV,2020,W,WOOD,365,,OVERALL,Wood Industry Business Management,,53,81.16981132,8.359094193,92.0,34.0,1,0.0,0.0,0.0,1.0,2,2.0,3.0,28,14,2
-UBCV,2020,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Scott Renneckar;Yuhang Ye,18,82.66666667,7.332442014,95.0,69.0,0,0.0,0.0,0.0,0.0,1,3.0,1.0,3,6,4
-UBCV,2020,W,WOOD,373,,OVERALL,Wood Adhesives and Coatings,,18,82.66666667,7.332442014,95.0,69.0,0,0.0,0.0,0.0,0.0,1,3.0,1.0,3,6,4
-UBCV,2020,W,WOOD,384,,101,Wood Sawmilling and Drying,Julie Cool;Sohrab Rahimi;Stavros Avramidis;Vahid Nasir,39,87.12820513,6.465208456,97.0,68.0,0,0.0,0.0,0.0,0.0,1,0.0,6.0,4,12,16
-UBCV,2020,W,WOOD,384,,OVERALL,Wood Sawmilling and Drying,,39,87.12820513,6.465208456,97.0,68.0,0,0.0,0.0,0.0,0.0,1,0.0,6.0,4,12,16
-UBCV,2020,W,WOOD,386,,101,Applied Mechanics of Materials,Frank Lam;Xing Zhang,39,75.12820513,8.844205618,91.0,47.0,1,0.0,0.0,2.0,3.0,8,5.0,7.0,8,3,2
-UBCV,2020,W,WOOD,386,,OVERALL,Applied Mechanics of Materials,,39,75.12820513,8.844205618,91.0,47.0,1,0.0,0.0,2.0,3.0,8,5.0,7.0,8,3,2
-UBCV,2020,W,WOOD,440,,101,Engineering Economics,Dengcheng Feng;Seyed Salar Ghotb;Taraneh Sowlati,22,85.63636364,11.03908836,98.0,49.0,1,0.0,0.0,0.0,0.0,0,2.0,2.0,3,4,10
-UBCV,2020,W,WOOD,440,,102,Engineering Economics,Dengcheng Feng;Seyed Salar Ghotb;Taraneh Sowlati,21,88.71428571,6.63432632,97.0,74.0,0,0.0,0.0,0.0,0.0,0,1.0,1.0,3,7,9
-UBCV,2020,W,WOOD,440,,OVERALL,Engineering Economics,,43,87.13953488,9.182232832,98.0,49.0,1,0.0,0.0,0.0,0.0,0,3.0,3.0,6,11,19
-UBCV,2020,W,WOOD,461,,201,Globalization and Sustainability,Justin Bull;Saurabh Khurana;Yingzi Feng,86,80.46511628,4.063315582,87.0,60.0,0,0.0,0.0,1.0,0.0,1,4.0,24.0,43,13,0
-UBCV,2020,W,WOOD,461,,OVERALL,Globalization and Sustainability,,86,80.46511628,4.063315582,87.0,60.0,0,0.0,0.0,1.0,0.0,1,4.0,24.0,43,13,0
-UBCV,2020,W,WOOD,464,,201,Wood Finishing and Protection,Dengcheng Feng;Farbod Moheb Khosravi;Gregory Smith;Philip David Evans,32,79.75,8.63227253,95.0,61.0,0,0.0,0.0,2.0,1.0,2,2.0,9.0,6,5,5
-UBCV,2020,W,WOOD,464,,OVERALL,Wood Finishing and Protection,,32,79.75,8.63227253,95.0,61.0,0,0.0,0.0,2.0,1.0,2,2.0,9.0,6,5,5
-UBCV,2020,W,WOOD,482,,201,CAD/CAM,Doh Wook Kim;Vincent Leung,41,80.82926829,9.200278363,97.0,53.0,0,1.0,0.0,1.0,1.0,3,4.0,5.0,10,8,8
-UBCV,2020,W,WOOD,482,,OVERALL,CAD/CAM,,41,80.82926829,9.200278363,97.0,53.0,0,1.0,0.0,1.0,1.0,3,4.0,5.0,10,8,8
-UBCV,2020,W,WOOD,485,,101,Furniture Construction,Farbod Moheb;Farbod Moheb Khosravi;Mingyao Song;Robert Fuerst,22,80.45454546,10.29899335,94.0,61.0,0,0.0,0.0,4.0,0.0,0,1.0,2.0,8,2,5
-UBCV,2020,W,WOOD,485,,OVERALL,Furniture Construction,,22,80.45454546,10.29899335,94.0,61.0,0,0.0,0.0,4.0,0.0,0,1.0,2.0,8,2,5
-UBCV,2020,W,WOOD,487,,201,Wood Composites,Chenli Zhou;Chunping Dai;Gregory Smith,35,84.22857143,7.239945215,96.0,67.0,0,0.0,0.0,0.0,1.0,1,0.0,7.0,12,5,9
-UBCV,2020,W,WOOD,487,,OVERALL,Wood Composites,,35,84.22857143,7.239945215,96.0,67.0,0,0.0,0.0,0.0,1.0,1,0.0,7.0,12,5,9
-UBCV,2020,W,WOOD,491,,201,Environmental Facilities Design,Qingshi Tu;Robert Sianchuk;Yi Zheng,54,76.44444444,13.05238598,97.0,44.0,1,3.0,6.0,0.0,1.0,4,5.0,8.0,10,7,9
-UBCV,2020,W,WOOD,491,,OVERALL,Environmental Facilities Design,,54,76.44444444,13.05238598,97.0,44.0,1,3.0,6.0,0.0,1.0,4,5.0,8.0,10,7,9
-UBCV,2020,W,WOOD,492,,101,Modelling for Decision Support,Chenli Zhou;Rohit Arora;Taraneh Sowlati;Yi Zheng,29,85.37931035,9.139450566,96.0,49.0,1,0.0,0.0,0.0,0.0,1,0.0,3.0,4,10,10
-UBCV,2020,W,WOOD,492,,102,Modelling for Decision Support,Chenli Zhou;Rohit Arora;Taraneh Sowlati;Yi Zheng,25,87.04,6.661331198,95.0,63.0,0,0.0,0.0,1.0,0.0,0,0.0,1.0,4,8,11
-UBCV,2020,W,WOOD,492,,OVERALL,Modelling for Decision Support,,54,86.14814815,8.057359012,96.0,49.0,1,0.0,0.0,1.0,0.0,1,0.0,4.0,8,18,21
-UBCV,2020,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool;Lukie Leung;Robert Fuerst,17,81.82352941,9.72904989,96.0,63.0,0,0.0,0.0,1.0,1.0,2,1.0,0.0,3,5,4
-UBCV,2020,W,WOOD,494,,OVERALL,Principles of Wood Cutting and Tooling,,17,81.82352941,9.72904989,96.0,63.0,0,0.0,0.0,1.0,1.0,2,1.0,0.0,3,5,4
-UBCV,2020,W,WOOD,499,,201,Wood Products Capstone,Adinda Rizky Herdianti;Christopher Gaston;Farbod Moheb Khosravi;Robert Fuerst;Sahar Ahmadvand;Seyed Salar Ghotb;Taraneh Sowlati;Vincent Leung,55,79.45454546,7.438185217,93.0,60.0,0,0.0,0.0,2.0,3.0,3,4.0,10.0,19,10,4
-UBCV,2020,W,WOOD,499,,OVERALL,Wood Products Capstone,,55,79.45454546,7.438185217,93.0,60.0,0,0.0,0.0,2.0,3.0,3,4.0,10.0,19,10,4
+UBCV,2020,W,WOOD,120,,101,Introduction to Wood Products and Global Trade,Melissa Vincent;Simon Ellis,25,66.24,17.405171645,89.0,14.0,3,0,0.0,5.0,4.0,2,3.0,4.0,3,1,0
+UBCV,2020,W,WOOD,120,,OVERALL,Introduction to Wood Products and Global Trade,,25,66.24,17.405171645,89.0,14.0,3,0,0.0,5.0,4.0,2,3.0,4.0,3,1,0
+UBCV,2020,W,WOOD,225,,101,Communications Strategies,Aubrey Leveridge;John Clegg;Tara Lee,22,71.681818182,4.893011183,83.0,63.0,0,0,0.0,1.0,4.0,6,8.0,1.0,2,0,0
+UBCV,2020,W,WOOD,225,,102,Communications Strategies,Aubrey Leveridge;Tara Lee,23,71.739130435,6.994916279,92.0,63.0,0,0,0.0,3.0,3.0,7,6.0,1.0,1,1,1
+UBCV,2020,W,WOOD,225,,201,Communications Strategies,Aubrey Leveridge;Jesse Hannawalt;John Clegg;Tara Lee,29,77.172413793,7.161748417,87.0,60.0,0,0,0.0,1.0,2.0,3,4.0,7.0,8,4,0
+UBCV,2020,W,WOOD,225,,202,Communications Strategies,Aubrey Leveridge;Jesse Hannawalt;John Clegg;Tara Lee,24,73.541666667,5.956210983,84.0,56.0,0,0,1.0,0.0,2.0,4,10.0,3.0,4,0,0
+UBCV,2020,W,WOOD,225,,205,Communications Strategies,Aubrey Leveridge;Jesse Hannawalt;John Clegg;Tara Lee,29,73.724137931,6.323971129,88.0,58.0,0,0,1.0,0.0,3.0,6,8.0,7.0,2,2,0
+UBCV,2020,W,WOOD,225,,OVERALL,Communications Strategies,,127,73.763779528,6.594197417,92.0,56.0,0,0,2.0,5.0,14.0,26,36.0,19.0,17,7,1
+UBCV,2020,W,WOOD,244,,001,Quantitative Methods in the Wood Industry,Anna Schild;Gregory Smith,13,71.692307692,10.640994748,90.0,56.0,0,0,2.0,2.0,0.0,3,1.0,1.0,3,0,1
+UBCV,2020,W,WOOD,244,,OVERALL,Quantitative Methods in the Wood Industry,,13,71.692307692,10.640994748,90.0,56.0,0,0,2.0,2.0,0.0,3,1.0,1.0,3,0,1
+UBCV,2020,W,WOOD,245,,201,Programming for Wood Products Manufacturing Applications,Gregory Smith;Mingyao Song;Qing Qiu;Shiva Zargar Ershadi;Vahid Nasir,38,73.026315789,13.370978743,96.0,20.0,1,1,1.0,3.0,3.0,9,1.0,5.0,7,5,2
+UBCV,2020,W,WOOD,245,,OVERALL,Programming for Wood Products Manufacturing Applications,,38,73.026315789,13.370978743,96.0,20.0,1,1,1.0,3.0,3.0,9,1.0,5.0,7,5,2
+UBCV,2020,W,WOOD,249,,201,Contemporary Topics in Forestry and Wood Products,Drake Mboowa;Jie Wu;John Saddler,17,84.117647059,23.449100071,98.0,0.0,1,0,0.0,1.0,0.0,0,0.0,0.0,2,1,12
+UBCV,2020,W,WOOD,249,,OVERALL,Contemporary Topics in Forestry and Wood Products,,17,84.117647059,23.449100071,98.0,0.0,1,0,0.0,1.0,0.0,0,0.0,0.0,2,1,12
+UBCV,2020,W,WOOD,276,,101,Mechanics of Wood Products,Frank Lam;Wancheng Gao,17,68.647058824,13.355435113,93.0,36.0,1,0,2.0,2.0,4.0,2,2.0,1.0,0,2,1
+UBCV,2020,W,WOOD,276,,OVERALL,Mechanics of Wood Products,,17,68.647058824,13.355435113,93.0,36.0,1,0,2.0,2.0,4.0,2,2.0,1.0,0,2,1
+UBCV,2020,W,WOOD,280,,101,Wood Anatomy and Identification,Jie Wu;Simon Ellis,14,69.5,10.994753994,84.0,50.0,0,1,2.0,2.0,2.0,1,1.0,1.0,4,0,0
+UBCV,2020,W,WOOD,280,,OVERALL,Wood Anatomy and Identification,,14,69.5,10.994753994,84.0,50.0,0,1,2.0,2.0,2.0,1,1.0,1.0,4,0,0
+UBCV,2020,W,WOOD,282,,201,Wood Physics and Mechanics,Chaoyue Zhang;Cristiano Loss;Dessie Tibebu;Stavros Avramidis,12,75.083333333,7.809764673,84.0,57.0,0,0,1.0,0.0,1.0,2,1.0,3.0,4,0,0
+UBCV,2020,W,WOOD,282,,OVERALL,Wood Physics and Mechanics,,12,75.083333333,7.809764673,84.0,57.0,0,0,1.0,0.0,1.0,2,1.0,3.0,4,0,0
+UBCV,2020,W,WOOD,290,,201,Secondary Wood Products Manufacturing,Alastair White;Robert Fuerst,12,81.25,8.635287014,93.0,65.0,0,0,0.0,0.0,2.0,0,0.0,2.0,4,2,2
+UBCV,2020,W,WOOD,290,,OVERALL,Secondary Wood Products Manufacturing,,12,81.25,8.635287014,93.0,65.0,0,0,0.0,0.0,2.0,0,0.0,2.0,4,2,2
+UBCV,2020,W,WOOD,292,,201,Two-Dimensional and Solid Computer-Aided Graphics,Qing Qiu;Vincent Leung,13,81.692307692,10.241944927,97.0,67.0,0,0,0.0,0.0,1.0,2,1.0,1.0,4,1,3
+UBCV,2020,W,WOOD,292,,OVERALL,Two-Dimensional and Solid Computer-Aided Graphics,,13,81.692307692,10.241944927,97.0,67.0,0,0,0.0,0.0,1.0,2,1.0,1.0,4,1,3
+UBCV,2020,W,WOOD,330,,101,Industrial Engineering,Farbod Moheb;Farbod Moheb Khosravi;Sahar Ahmadvand;Taraneh Sowlati,23,83.608695652,7.505992336,96.0,68.0,0,0,0.0,0.0,0.0,3,0.0,2.0,5,9,4
+UBCV,2020,W,WOOD,330,,102,Industrial Engineering,Farbod Moheb;Farbod Moheb Khosravi;Sahar Ahmadvand;Taraneh Sowlati,22,85.909090909,5.706379812,96.0,77.0,0,0,0.0,0.0,0.0,0,0.0,4.0,5,6,7
+UBCV,2020,W,WOOD,330,,OVERALL,Industrial Engineering,,45,84.733333333,6.712945431,96.0,68.0,0,0,0.0,0.0,0.0,3,0.0,6.0,10,15,11
+UBCV,2020,W,WOOD,335,,101,Quality Improvement,Julie Cool;Qing Qiu;Vahid Nasir,45,83.066666667,6.668787541,95.0,64.0,0,0,0.0,0.0,1.0,1,5.0,7.0,11,12,8
+UBCV,2020,W,WOOD,335,,OVERALL,Quality Improvement,,45,83.066666667,6.668787541,95.0,64.0,0,0,0.0,0.0,1.0,1,5.0,7.0,11,12,8
+UBCV,2020,W,WOOD,356,,101,Machine Components,Doh Wook Kim;Vincent Leung,11,86.909090909,6.073788693,95.0,79.0,0,0,0.0,0.0,0.0,0,0.0,1.0,4,2,4
+UBCV,2020,W,WOOD,356,,OVERALL,Machine Components,,11,86.909090909,6.073788693,95.0,79.0,0,0,0.0,0.0,0.0,0,0.0,1.0,4,2,4
+UBCV,2020,W,WOOD,365,,201,Wood Industry Business Management,Christopher Gaston;Qiyue Zhang;Sohrab Rahimi,53,81.169811321,8.359094193,92.0,34.0,1,0,0.0,0.0,1.0,2,2.0,3.0,28,14,2
+UBCV,2020,W,WOOD,365,,OVERALL,Wood Industry Business Management,,53,81.169811321,8.359094193,92.0,34.0,1,0,0.0,0.0,1.0,2,2.0,3.0,28,14,2
+UBCV,2020,W,WOOD,373,,101,Wood Adhesives and Coatings,Feng Jiang;Scott Renneckar;Yuhang Ye,18,82.666666667,7.332442014,95.0,69.0,0,0,0.0,0.0,0.0,1,3.0,1.0,3,6,4
+UBCV,2020,W,WOOD,373,,OVERALL,Wood Adhesives and Coatings,,18,82.666666667,7.332442014,95.0,69.0,0,0,0.0,0.0,0.0,1,3.0,1.0,3,6,4
+UBCV,2020,W,WOOD,384,,101,Wood Sawmilling and Drying,Julie Cool;Sohrab Rahimi;Stavros Avramidis;Vahid Nasir,39,87.128205128,6.465208456,97.0,68.0,0,0,0.0,0.0,0.0,1,0.0,6.0,4,12,16
+UBCV,2020,W,WOOD,384,,OVERALL,Wood Sawmilling and Drying,,39,87.128205128,6.465208456,97.0,68.0,0,0,0.0,0.0,0.0,1,0.0,6.0,4,12,16
+UBCV,2020,W,WOOD,386,,101,Applied Mechanics of Materials,Frank Lam;Xing Zhang,39,75.128205128,8.844205618,91.0,47.0,1,0,0.0,2.0,3.0,8,5.0,7.0,8,3,2
+UBCV,2020,W,WOOD,386,,OVERALL,Applied Mechanics of Materials,,39,75.128205128,8.844205618,91.0,47.0,1,0,0.0,2.0,3.0,8,5.0,7.0,8,3,2
+UBCV,2020,W,WOOD,440,,101,Engineering Economics,Dengcheng Feng;Seyed Salar Ghotb;Taraneh Sowlati,22,85.636363636,11.039088362,98.0,49.0,1,0,0.0,0.0,0.0,0,2.0,2.0,3,4,10
+UBCV,2020,W,WOOD,440,,102,Engineering Economics,Dengcheng Feng;Seyed Salar Ghotb;Taraneh Sowlati,21,88.714285714,6.63432632,97.0,74.0,0,0,0.0,0.0,0.0,0,1.0,1.0,3,7,9
+UBCV,2020,W,WOOD,440,,OVERALL,Engineering Economics,,43,87.139534884,9.182232832,98.0,49.0,1,0,0.0,0.0,0.0,0,3.0,3.0,6,11,19
+UBCV,2020,W,WOOD,449,A,201,Directed Studies in Wood Products Processing,Robert Fuerst;Simon Ellis;Vincent Leung,18,83.111111111,6.893209693,93.0,63.0,0,0,0.0,1.0,0.0,0,0.0,5.0,3,8,1
+UBCV,2020,W,WOOD,449,A,OVERALL,Directed Studies in Wood Products Processing,,18,83.111111111,6.893209693,93.0,63.0,0,0,0.0,1.0,0.0,0,0.0,5.0,3,8,1
+UBCV,2020,W,WOOD,461,,201,Globalization and Sustainability,Justin Bull;Saurabh Khurana;Yingzi Feng,86,80.465116279,4.063315582,87.0,60.0,0,0,0.0,1.0,0.0,1,4.0,24.0,43,13,0
+UBCV,2020,W,WOOD,461,,OVERALL,Globalization and Sustainability,,86,80.465116279,4.063315582,87.0,60.0,0,0,0.0,1.0,0.0,1,4.0,24.0,43,13,0
+UBCV,2020,W,WOOD,464,,201,Wood Finishing and Protection,Dengcheng Feng;Farbod Moheb Khosravi;Gregory Smith;Philip David Evans,32,79.75,8.63227253,95.0,61.0,0,0,0.0,2.0,1.0,2,2.0,9.0,6,5,5
+UBCV,2020,W,WOOD,464,,OVERALL,Wood Finishing and Protection,,32,79.75,8.63227253,95.0,61.0,0,0,0.0,2.0,1.0,2,2.0,9.0,6,5,5
+UBCV,2020,W,WOOD,482,,201,CAD/CAM,Doh Wook Kim;Vincent Leung,41,80.829268293,9.200278363,97.0,53.0,0,1,0.0,1.0,1.0,3,4.0,5.0,10,8,8
+UBCV,2020,W,WOOD,482,,OVERALL,CAD/CAM,,41,80.829268293,9.200278363,97.0,53.0,0,1,0.0,1.0,1.0,3,4.0,5.0,10,8,8
+UBCV,2020,W,WOOD,485,,101,Furniture Construction,Farbod Moheb;Farbod Moheb Khosravi;Mingyao Song;Robert Fuerst,22,80.454545455,10.298993352,94.0,61.0,0,0,0.0,4.0,0.0,0,1.0,2.0,8,2,5
+UBCV,2020,W,WOOD,485,,OVERALL,Furniture Construction,,22,80.454545455,10.298993352,94.0,61.0,0,0,0.0,4.0,0.0,0,1.0,2.0,8,2,5
+UBCV,2020,W,WOOD,487,,201,Wood Composites,Chenli Zhou;Chunping Dai;Gregory Smith,35,84.228571429,7.239945215,96.0,67.0,0,0,0.0,0.0,1.0,1,0.0,7.0,12,5,9
+UBCV,2020,W,WOOD,487,,OVERALL,Wood Composites,,35,84.228571429,7.239945215,96.0,67.0,0,0,0.0,0.0,1.0,1,0.0,7.0,12,5,9
+UBCV,2020,W,WOOD,491,,201,Environmental Facilities Design,Qingshi Tu;Robert Sianchuk;Yi Zheng,54,76.444444444,13.052385984,97.0,44.0,1,3,6.0,0.0,1.0,4,5.0,8.0,10,7,9
+UBCV,2020,W,WOOD,491,,OVERALL,Environmental Facilities Design,,54,76.444444444,13.052385984,97.0,44.0,1,3,6.0,0.0,1.0,4,5.0,8.0,10,7,9
+UBCV,2020,W,WOOD,492,,101,Modelling for Decision Support,Chenli Zhou;Rohit Arora;Taraneh Sowlati;Yi Zheng,29,85.379310345,9.139450566,96.0,49.0,1,0,0.0,0.0,0.0,1,0.0,3.0,4,10,10
+UBCV,2020,W,WOOD,492,,102,Modelling for Decision Support,Chenli Zhou;Rohit Arora;Taraneh Sowlati;Yi Zheng,25,87.04,6.661331198,95.0,63.0,0,0,0.0,1.0,0.0,0,0.0,1.0,4,8,11
+UBCV,2020,W,WOOD,492,,OVERALL,Modelling for Decision Support,,54,86.148148148,8.057359012,96.0,49.0,1,0,0.0,1.0,0.0,1,0.0,4.0,8,18,21
+UBCV,2020,W,WOOD,494,,101,Principles of Wood Cutting and Tooling,Julie Cool;Lukie Leung;Robert Fuerst,17,81.823529412,9.72904989,96.0,63.0,0,0,0.0,1.0,1.0,2,1.0,0.0,3,5,4
+UBCV,2020,W,WOOD,494,,OVERALL,Principles of Wood Cutting and Tooling,,17,81.823529412,9.72904989,96.0,63.0,0,0,0.0,1.0,1.0,2,1.0,0.0,3,5,4
+UBCV,2020,W,WOOD,499,,201,Wood Products Capstone,Adinda Rizky Herdianti;Christopher Gaston;Farbod Moheb Khosravi;Robert Fuerst;Sahar Ahmadvand;Seyed Salar Ghotb;Taraneh Sowlati;Vincent Leung,55,79.454545455,7.438185217,93.0,60.0,0,0,0.0,2.0,3.0,3,4.0,10.0,19,10,4
+UBCV,2020,W,WOOD,499,,OVERALL,Wood Products Capstone,,55,79.454545455,7.438185217,93.0,60.0,0,0,0.0,2.0,3.0,3,4.0,10.0,19,10,4
+UBCV,2020,W,WOOD,570,C,OVERALL,Directed Studies in Wood Science and Forest Products,,6,92.166666667,5.671566509,99.0,85.0,0,0,0.0,0.0,0.0,0,0.0,0.0,0,,

@@ -1,12 +1,45 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,23,88.43478261,4.708079004,96.0,78.0,0,0,0,0,0,0.0,0,1,3,10,9
-UBCV,2020,W,DHYG,405,,OVERALL,Oral Microbiology and Immunology,,28,87.60714286,5.013605827,96.0,77.0,0,0,0,0,0,0.0,0,2,5,11,10
-UBCV,2020,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,23,88.13043478,3.671813372,94.0,81.0,0,0,0,0,0,0.0,0,0,5,9,9
-UBCV,2020,W,DHYG,410,,OVERALL,Dental Hygiene Theory & Practice IV,,23,88.13043478,3.671813372,94.0,81.0,0,0,0,0,0,0.0,0,0,5,9,9
-UBCV,2020,W,DHYG,412,,001,Oral Health Care Trends & Topics,Rae Mcfarlane,23,92.2173913,2.334650485,98.0,87.0,0,0,0,0,0,0.0,0,0,0,3,20
-UBCV,2020,W,DHYG,412,,99A,Oral Health Care Trends & Topics,Rae Mcfarlane,10,87.5,1.269295518,89.0,86.0,0,0,0,0,0,0.0,0,0,0,10,0
-UBCV,2020,W,DHYG,412,,OVERALL,Oral Health Care Trends & Topics,,33,90.78787879,3.007881062,98.0,86.0,0,0,0,0,0,0.0,0,0,0,13,20
-UBCV,2020,W,DHYG,435,,99A,Oral Medicine and Pathology,Denise Laronde,9,80.22222222,7.013875138,87.0,65.0,0,0,0,0,1,0.0,1,1,4,2,0
-UBCV,2020,W,DHYG,435,,OVERALL,Oral Medicine and Pathology,,9,80.22222222,7.013875138,87.0,65.0,0,0,0,0,1,0.0,1,1,4,2,0
-UBCV,2020,W,DHYG,462,,002,Literature Review II,Zul Kanji,23,85.91304348,3.527979637,91.0,78.0,0,0,0,0,0,0.0,0,1,5,12,5
-UBCV,2020,W,DHYG,462,,OVERALL,Literature Review II,,27,85.81481482,3.453393393,91.0,78.0,0,0,0,0,0,0.0,0,1,7,13,6
+UBCV,2020,W,DHYG,106,,001,Basics of Oral Microbiology,Hossain Najar,23,89.217391304,7.310991238,97.0,68.0,0,0,0,0,0,2.0,0.0,0.0,0,7.0,14
+UBCV,2020,W,DHYG,106,,OVERALL,Basics of Oral Microbiology,,23,89.217391304,7.310991238,97.0,68.0,0,0,0,0,0,2.0,0.0,0.0,0,7.0,14
+UBCV,2020,W,DHYG,108,,108,Oral Health Sciences I,Penny Hatzimanolakis,23,80.739130435,4.873093019,89.0,67.0,0,0,0,0,1,0.0,0.0,10.0,7,5.0,0
+UBCV,2020,W,DHYG,108,,OVERALL,Oral Health Sciences I,,23,80.739130435,4.873093019,89.0,67.0,0,0,0,0,1,0.0,0.0,10.0,7,5.0,0
+UBCV,2020,W,DHYG,110,,001,Dental Hygiene Theory & Practice I,Zul Kanji,23,85.826086957,3.311854382,91.0,80.0,0,0,0,0,0,0.0,0.0,0.0,7,11.0,5
+UBCV,2020,W,DHYG,110,,OVERALL,Dental Hygiene Theory & Practice I,,23,85.826086957,3.311854382,91.0,80.0,0,0,0,0,0,0.0,0.0,0.0,7,11.0,5
+UBCV,2020,W,DHYG,206,,001,Head & Neck Anatomy,Charles Shuler;Jelena Karan;Mary Macdougall;Pawel Kindler,25,85.56,5.424327915,95.0,74.0,0,0,0,0,0,0.0,3.0,0.0,5,11.0,6
+UBCV,2020,W,DHYG,206,,OVERALL,Head & Neck Anatomy,,25,85.56,5.424327915,95.0,74.0,0,0,0,0,0,0.0,3.0,0.0,5,11.0,6
+UBCV,2020,W,DHYG,208,,001,Oral Health Sciences II,Charanpreet Dhami;Charanpreett Dhami;Eli Whitney;Gayathri Murthy;Jelena Karan;Penny Hatzimanolakis;Ricardo Marins De Carvalho;Susan Schmitz;Zul Kanji,25,82.08,4.182503238,91.0,74.0,0,0,0,0,0,0.0,2.0,3.0,15,4.0,1
+UBCV,2020,W,DHYG,208,,OVERALL,Oral Health Sciences II,,25,82.08,4.182503238,91.0,74.0,0,0,0,0,0,0.0,2.0,3.0,15,4.0,1
+UBCV,2020,W,DHYG,210,,001,Dental Hygiene Theory and Practice II,Carrie Krekoski;Charanpreet Dhami;Charanpreett Dhami;Diana Lin;Jelena Karan;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,24,84.208333333,3.270143816,90.0,79.0,0,0,0,0,0,0.0,0.0,2.0,13,7.0,2
+UBCV,2020,W,DHYG,210,,OVERALL,Dental Hygiene Theory and Practice II,,24,84.208333333,3.270143816,90.0,79.0,0,0,0,0,0,0.0,0.0,2.0,13,7.0,2
+UBCV,2020,W,DHYG,310,,001,Dental Hygiene Theory & Practice III,Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Sepehr Zahedi;Susan Schmitz,22,83.590909091,3.3474808,89.0,78.0,0,0,0,0,0,0.0,0.0,3.0,10,9.0,0
+UBCV,2020,W,DHYG,310,,OVERALL,Dental Hygiene Theory & Practice III,,22,83.590909091,3.3474808,89.0,78.0,0,0,0,0,0,0.0,0.0,3.0,10,9.0,0
+UBCV,2020,W,DHYG,325,,325,Applied Pharmacology,Hin Chung Pau,23,94.260869565,3.400767177,98.0,84.0,0,0,0,0,0,0.0,0.0,0.0,1,0.0,22
+UBCV,2020,W,DHYG,325,,OVERALL,Applied Pharmacology,,23,94.260869565,3.400767177,98.0,84.0,0,0,0,0,0,0.0,0.0,0.0,1,0.0,22
+UBCV,2020,W,DHYG,400,A,99A,Policy Analysis and Change,Rae Mcfarlane,11,83.090909091,27.609616243,94.0,0.0,1,0,0,0,0,0.0,0.0,0.0,0,1.0,9
+UBCV,2020,W,DHYG,400,A,OVERALL,Policy Analysis and Change,,11,83.090909091,27.609616243,94.0,0.0,1,0,0,0,0,0.0,0.0,0.0,0,1.0,9
+UBCV,2020,W,DHYG,400,B,001,Policy Analysis and Change,Rae Mcfarlane,23,89.652173913,2.479162169,95.0,86.0,0,0,0,0,0,0.0,0.0,0.0,0,13.0,10
+UBCV,2020,W,DHYG,400,B,OVERALL,Policy Analysis and Change,,23,89.652173913,2.479162169,95.0,86.0,0,0,0,0,0,0.0,0.0,0.0,0,13.0,10
+UBCV,2020,W,DHYG,401,,001,Oral Epidemiology,Batoul Shariati,23,81.434782609,5.845169622,89.0,66.0,0,0,0,0,1,1.0,0.0,4.0,8,9.0,0
+UBCV,2020,W,DHYG,401,,99A,Oral Epidemiology,Batoul Shariati,19,78.842105263,7.32774907,90.0,67.0,0,0,0,0,2,2.0,3.0,0.0,7,4.0,1
+UBCV,2020,W,DHYG,401,,OVERALL,Oral Epidemiology,,42,80.261904762,6.603988166,90.0,66.0,0,0,0,0,3,3.0,3.0,4.0,15,13.0,1
+UBCV,2020,W,DHYG,402,,99A,Dental Hygiene Practice I,Rae Mcfarlane,12,89.083333333,2.778434266,93.0,84.0,0,0,0,0,0,0.0,0.0,0.0,1,5.0,6
+UBCV,2020,W,DHYG,402,,OVERALL,Dental Hygiene Practice I,,12,89.083333333,2.778434266,93.0,84.0,0,0,0,0,0,0.0,0.0,0.0,1,5.0,6
+UBCV,2020,W,DHYG,405,,001,Oral Microbiology and Immunology,Hossain Najar,23,88.434782609,4.708079004,96.0,78.0,0,0,0,0,0,0.0,0.0,1.0,3,10.0,9
+UBCV,2020,W,DHYG,405,,99A,Oral Microbiology and Immunology,Hossain Najar,17,79.294117647,20.879908722,91.0,0.0,1,0,0,0,0,0.0,0.0,2.0,7,4.0,3
+UBCV,2020,W,DHYG,405,,OVERALL,Oral Microbiology and Immunology,,40,84.55,14.570694157,96.0,0.0,1,0,0,0,0,0.0,0.0,3.0,10,14.0,12
+UBCV,2020,W,DHYG,410,,001,Dental Hygiene Theory & Practice IV,Diana Lin;Leeann Donnelly;Penny Hatzimanolakis;Susan Schmitz;Zul Kanji,23,88.130434783,3.671813372,94.0,81.0,0,0,0,0,0,0.0,0.0,0.0,5,9.0,9
+UBCV,2020,W,DHYG,410,,OVERALL,Dental Hygiene Theory & Practice IV,,23,88.130434783,3.671813372,94.0,81.0,0,0,0,0,0,0.0,0.0,0.0,5,9.0,9
+UBCV,2020,W,DHYG,412,,001,Oral Health Care Trends & Topics,Rae Mcfarlane,23,92.217391304,2.334650485,98.0,87.0,0,0,0,0,0,0.0,0.0,0.0,0,3.0,20
+UBCV,2020,W,DHYG,412,,99A,Oral Health Care Trends & Topics,Rae Mcfarlane,11,87.363636364,1.286291357,89.0,86.0,0,0,0,0,0,0.0,0.0,0.0,0,11.0,0
+UBCV,2020,W,DHYG,412,,OVERALL,Oral Health Care Trends & Topics,,34,90.647058824,3.073664804,98.0,86.0,0,0,0,0,0,0.0,0.0,0.0,0,14.0,20
+UBCV,2020,W,DHYG,433,,99C,Assessment and Treatment Planning for Advanced Periodontal Diseases,Susan Schmitz,11,73.727272727,25.663557466,89.0,0.0,2,0,0,0,0,0.0,0.0,0.0,6,3.0,0
+UBCV,2020,W,DHYG,433,,OVERALL,Assessment and Treatment Planning for Advanced Periodontal Diseases,,11,73.727272727,25.663557466,89.0,0.0,2,0,0,0,0,0.0,0.0,0.0,6,3.0,0
+UBCV,2020,W,DHYG,435,,001,Oral Medicine and Pathology,Denise Laronde,23,82.47826087,5.350187467,90.0,68.0,0,0,0,0,0,1.0,0.0,6.0,6,8.0,2
+UBCV,2020,W,DHYG,435,,99A,Oral Medicine and Pathology,Denise Laronde,21,81.095238095,5.7262969,89.0,65.0,0,0,0,0,1,0.0,4.0,1.0,10,5.0,0
+UBCV,2020,W,DHYG,435,,OVERALL,Oral Medicine and Pathology,,44,81.818181818,5.512238929,90.0,65.0,0,0,0,0,1,1.0,4.0,7.0,16,13.0,2
+UBCV,2020,W,DHYG,461,,002,Literature Review I,Jelena Karan;Penny Hatzimanolakis,23,81.695652174,13.455092928,95.0,30.0,1,0,0,0,0,2.0,1.0,4.0,4,6.0,5
+UBCV,2020,W,DHYG,461,,99C,Literature Review I,Jelena Karan;Penny Hatzimanolakis,10,84.2,3.259175083,88.0,79.0,0,0,0,0,0,0.0,0.0,2.0,3,5.0,0
+UBCV,2020,W,DHYG,461,,OVERALL,Literature Review I,,33,82.454545455,11.34980977,95.0,30.0,1,0,0,0,0,2.0,1.0,6.0,7,11.0,5
+UBCV,2020,W,DHYG,462,,002,Literature Review II,Zul Kanji,23,85.913043478,3.527979637,91.0,78.0,0,0,0,0,0,0.0,0.0,1.0,5,12.0,5
+UBCV,2020,W,DHYG,462,,99C,Literature Review II,Zul Kanji,19,84.368421053,3.269565488,90.0,78.0,0,0,0,0,0,0.0,0.0,2.0,7,9.0,1
+UBCV,2020,W,DHYG,462,,OVERALL,Literature Review II,,42,85.214285714,3.460831102,91.0,78.0,0,0,0,0,0,0.0,0.0,3.0,12,21.0,6

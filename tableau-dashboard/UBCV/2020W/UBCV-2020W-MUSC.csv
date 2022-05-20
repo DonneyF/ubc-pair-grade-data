@@ -1,211 +1,220 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,MUSC,100,,001,Principles of Musical Form,Blaire Ziegenhagel;John Barlow Roeder,77,75.66233766,13.68499985,96.0,11.0,3,1,3,3,5,10,9,10,12,10,11
-UBCV,2020,W,MUSC,100,,OVERALL,Principles of Musical Form,,77,75.66233766,13.68499985,96.0,11.0,3,1,3,3,5,10,9,10,12,10,11
-UBCV,2020,W,MUSC,101,,001,Diatonic Harmony and Voice Leading,Eve Poudrier;Hei Yeung Lai;Kelsey Lussier,61,87.52459016,8.07383956,99.0,66.0,0,0,0,0,2,1,3,5,7,12,31
-UBCV,2020,W,MUSC,101,,OVERALL,Diatonic Harmony and Voice Leading,,61,87.52459016,8.07383956,99.0,66.0,0,0,0,0,2,1,3,5,7,12,31
-UBCV,2020,W,MUSC,103,,001,Introduction to the Theory of Music,Blaire Ziegenhagel;Michael Brandon Konoval,60,89.51666667,9.569534404,100.0,67.0,0,0,0,0,1,4,2,3,7,7,36
-UBCV,2020,W,MUSC,103,,002,Introduction to the Theory of Music,Sarah Reimer;Sarah Renee Reimer,18,76.72222222,11.21346646,97.0,52.0,0,1,0,2,0,2,3,3,2,2,3
-UBCV,2020,W,MUSC,103,,OVERALL,Introduction to the Theory of Music,,78,86.56410256,11.28565317,100.0,52.0,0,1,0.0,2,1,6,5,6,9,9,39
-UBCV,2020,W,MUSC,105,,001,Aural Skills I,Ashley Renee Seward;Ashley Seward;Edward B. Norman;Gordon P Paslawski;Gordon Paslawski;Hei Yeung Lai;Pallas Loredo;Risa Tonita,54,86.55555556,9.519922837,99.0,60.0,0,0,0,3,0,0,4,4,6,9,28
-UBCV,2020,W,MUSC,105,,OVERALL,Aural Skills I,,54,86.55555556,9.519922837,99.0,60.0,0,0,0,3,0,0,4,4,6,9,28
-UBCV,2020,W,MUSC,106,,002,Aural Skills II,Ashley Seward;Gordon P Paslawski;Gordon Paslawski;Oscar Smith;Risa Tonita,47,88.38297872,10.18855537,100.0,64.0,0,0,0,0,1,4,1,6,2,6,27
-UBCV,2020,W,MUSC,106,,OVERALL,Aural Skills II,,47,88.38297872,10.18855537,100.0,64.0,0,0,0,0,1,4,1,6,2,6,27
-UBCV,2020,W,MUSC,107,C,002,Composition I,Dorothy Chang Bortolussi;Keith Hamel;Stephen Chatman,9,86.66666667,2.121320344,90.0,84.0,0,0,0,0,0,0,0,0,2,6,1
-UBCV,2020,W,MUSC,107,C,OVERALL,Composition I,,9,86.66666667,2.121320344,90.0,84.0,0,0,0,0,0,0,0,0,2,6,1
-UBCV,2020,W,MUSC,108,,001,Introduction to Contemporary Art Music,Dorothy Chang Bortolussi;Keith Hamel,9,77.55555556,23.28685848,93.0,17.0,1,0,0,0,0,0,0,1,4,0,3
-UBCV,2020,W,MUSC,108,,OVERALL,Introduction to Contemporary Art Music,,9,77.55555556,23.28685848,93.0,17.0,1,0,0,0,0,0,0,1,4,0,3
-UBCV,2020,W,MUSC,112,,001,Class Brasses and Percussion,Aaron Graham;James Littleford;James S Littleford;Sharman King;Valerie Whitney,19,84.42105263,7.112709981,92.0,62.0,0,0,0,1,0,0,1,1,3,10,3
-UBCV,2020,W,MUSC,112,,OVERALL,Class Brasses and Percussion,,19,84.42105263,7.112709981,92.0,62.0,0,0,0,1,0,0,1,1,3,10,3
-UBCV,2020,W,MUSC,119,,001,Introduction to Music Technology,Holly Winter;Robert Pritchard,104,81.15384615,11.60747101,97.0,45.0,1,3,2,4,8,2,3,6,23,22,30
-UBCV,2020,W,MUSC,119,,OVERALL,Introduction to Music Technology,,104,81.15384615,11.60747101,97.0,45.0,1,3,2,4,8,2,3,6,23,22,30
-UBCV,2020,W,MUSC,120,,001,History of Music I,Alexander John Fisher;Joanna Bevaart,72,84.43055556,9.839309475,98.0,54.0,0,1,1,1,5,1,3,4,15,14,27
-UBCV,2020,W,MUSC,120,,OVERALL,History of Music I,,72,84.43055556,9.839309475,98.0,54.0,0,1,1,1,5,1,3,4,15,14,27
-UBCV,2020,W,MUSC,121,,001,History of Music II,Sin Yan Hedy Law,68,73.73529412,14.18493804,92.0,6.0,2,2,2,6,3,5,12,9,17,4,6
-UBCV,2020,W,MUSC,121,,OVERALL,History of Music II,,68,73.73529412,14.18493804,92.0,6.0,2,2,2,6,3,5,12,9,17,4,6
-UBCV,2020,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Brenda Louise Fedoruk;Carlos Savall Guardiola;Christin Reardon Maclellan;Ingrid Chiang;Jose Franch Ballester;Julia Nolan;Marie Park,23,82.86956522,16.55103498,98.0,29.0,1,1,0,1,0,1,0,1,3,5,10
-UBCV,2020,W,MUSC,122,,OVERALL,Class Woodwinds,,23,82.86956522,16.55103498,98.0,29.0,1,1,0,1,0,1,0,1,3,5,10
-UBCV,2020,W,MUSC,128,,001,Musical Rhythm and Human Experience,Julia Ulehla;Lucy Strauss;Michael Tenzer,84,85.47619048,15.98076871,99.0,2.0,3,0,1,0,1,5,1,5,7,19,42
-UBCV,2020,W,MUSC,128,,OVERALL,Musical Rhythm and Human Experience,,84,85.47619048,15.98076871,99.0,2.0,3,0,1,0,1,5,1,5,7,19,42
-UBCV,2020,W,MUSC,131,,001,Class Voice,Allison Anderson;Hyun Seung Son;James Raftery,18,90.22222222,4.857444929,95.0,72.0,0,0,0,0,0,0,1,0,0,3,14
-UBCV,2020,W,MUSC,131,,OVERALL,Class Voice,,18,90.22222222,4.857444929,95.0,72.0,0,0,0,0,0,0,1,0,0,3,14
-UBCV,2020,W,MUSC,135,,001,Opera Repertoire I,Emma Jang;Richard Arthur Epp,8,89.75,3.770183777,93.0,83.0,0,0,0,0,0,0,0,0,1,1,6
-UBCV,2020,W,MUSC,135,,OVERALL,Opera Repertoire I,,8,89.75,3.770183777,93.0,83.0,0,0,0,0,0,0,0,0,1,1,6
-UBCV,2020,W,MUSC,141,,001,Class Piano I,Susan M.C. Chen Chai,17,80.11764706,6.872793764,93.0,70.0,0,0,0,0,0,2,4,1,5,4,1
-UBCV,2020,W,MUSC,141,,OVERALL,Class Piano I,,17,80.11764706,6.872793764,93.0,70.0,0,0,0,0,0,2,4,1,5,4,1
-UBCV,2020,W,MUSC,149,,001,Collaborative Piano I,Rena Sharon;Terence Dawson,10,91.2,3.084008935,94.0,85.0,0,0,0,0,0,0,0,0,0,3,7
-UBCV,2020,W,MUSC,149,,OVERALL,Collaborative Piano I,,10,91.2,3.084008935,94.0,85.0,0,0,0,0,0,0,0,0,0,3,7
-UBCV,2020,W,MUSC,150,A,001,Large Instrumental Ensemble,Chi Shi Monica Chen;Jonathan Girard;Minna Stelzner;Monica Chen;Robert Taylor;Ruijie Guo,112,98.49107143,4.204235393,100.0,78.0,0,0,0,0,0,0,0,1,4,1,106
-UBCV,2020,W,MUSC,150,A,OVERALL,Large Instrumental Ensemble,,112,98.49107143,4.204235393,100.0,78.0,0,0,0,0,0,0,0,1,4,1,106
-UBCV,2020,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Robert Taylor,11,97.27272727,9.045340337,100.0,70.0,0,0,0,0,0,1,0,0,0,0,10
-UBCV,2020,W,MUSC,150,C,OVERALL,Large Instrumental Ensemble,,11,97.27272727,9.045340337,100.0,70.0,0,0,0,0,0,1,0,0,0,0,10
-UBCV,2020,W,MUSC,153,A,001,University Singers,Eshantha Peiris;Graeme Langager;Han-Ah Park,33,95.3030303,17.32499071,100.0,0.0,1,0,0,0,0,0,0,0,0,0,32
-UBCV,2020,W,MUSC,153,A,OVERALL,University Singers,,33,95.3030303,17.32499071,100.0,0.0,1,0,0,0,0,0,0,0,0,0,32
-UBCV,2020,W,MUSC,154,A,001,University Choral Union,Caroni Young;Graeme Langager;Han-Ah Park,84,87.30952381,11.91331764,100.0,20.0,1,0,1,3,0,4,0,1,12,10,52
-UBCV,2020,W,MUSC,154,A,OVERALL,University Choral Union,,84,87.30952381,11.91331764,100.0,20.0,1,0,1,3,0,4,0,1,12,10,52
-UBCV,2020,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,12,91.08333333,1.676486224,95.0,89.0,0,0,0,0,0,0,0,0,0,1,11
-UBCV,2020,W,MUSC,157,A,OVERALL,Early Music Ensemble,,12,91.08333333,1.676486224,95.0,89.0,0,0,0,0,0,0,0,0,0,1,11
-UBCV,2020,W,MUSC,160,A,001,String Chamber Ensembles,Caroline Dawn Olsen;Caroline Olsen;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,33,93.75757576,1.920779513,96.0,91.0,0,0,0,0,0,0,0,0,0,0,33
-UBCV,2020,W,MUSC,160,A,OVERALL,String Chamber Ensembles,,33,93.75757576,1.920779513,96.0,91.0,0,0,0,0,0,0,0,0,0,0,33
-UBCV,2020,W,MUSC,161,A,001,Piano Chamber Ensembles,Michelle Mares;Miranda Ting Wai Wong Wilkins;Patricia Hoy;Rena Sharon,24,86.70833333,3.470110469,95.0,81.0,0,0,0,0,0,0,0,0,7,11,6
-UBCV,2020,W,MUSC,161,A,OVERALL,Piano Chamber Ensembles,,24,86.70833333,3.470110469,95.0,81.0,0,0,0,0,0,0,0,0,7,11,6
-UBCV,2020,W,MUSC,162,E,001,Wind and Percussion Chamber Ensembles,Jacob Kryger;Vern Griffiths,7,87.28571429,4.231401884,93.0,82.0,0,0,0,0,0,0,0,0,3,1,3
-UBCV,2020,W,MUSC,162,E,OVERALL,Wind and Percussion Chamber Ensembles,,7,87.28571429,4.231401884,93.0,82.0,0,0,0,0,0,0,0,0,3,1,3
-UBCV,2020,W,MUSC,163,,001,Contemporary Players,Paolo Bortolussi;Ramsey Sadaka,10,89.9,2.282785822,96.0,88.0,0,0,0,0,0,0,0,0,0,5,5
-UBCV,2020,W,MUSC,163,,OVERALL,Contemporary Players,,10,89.9,2.282785822,96.0,88.0,0,0,0,0,0,0,0,0,0,5,5
-UBCV,2020,W,MUSC,164,,001,Jazz Ensemble,Frederick Stride,16,87.75,2.29492193,90.0,80.0,0,0,0,0,0,0,0,0,1,12,3
-UBCV,2020,W,MUSC,164,,OVERALL,Jazz Ensemble,,16,87.75,2.29492193,90.0,80.0,0,0,0,0,0,0,0,0,1,12,3
-UBCV,2020,W,MUSC,165,A,001,World Music Ensembles,Edward O'Donnell;Gloria Ngar-Yan Wong;Teddy O'Donnell;Yue Suo,9,86.55555556,2.920235911,90.0,82.0,0,0,0,0,0,0,0,0,3,4,2
-UBCV,2020,W,MUSC,165,A,OVERALL,World Music Ensembles,,9,86.55555556,2.920235911,90.0,82.0,0,0,0,0,0,0,0,0,3,4,2
-UBCV,2020,W,MUSC,165,B,001,World Music Ensembles,I Putu Gede Sukaryana;I Putu Sukaryana;Michael Tenzer,6,92.33333333,1.505545305,94.0,90.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2020,W,MUSC,165,B,OVERALL,World Music Ensembles,,6,92.33333333,1.505545305,94.0,90.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2020,W,MUSC,165,C,001,World Music Ensembles,Nathan Hesselink,17,89.76470588,3.750490164,94.0,79.0,0,0,0,0,0,0,0,1,1,3,12
-UBCV,2020,W,MUSC,165,C,OVERALL,World Music Ensembles,,17,89.76470588,3.750490164,94.0,79.0,0,0,0,0,0,0,0,1,1,3,12
-UBCV,2020,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo;Justice Stephen Gbolonyo,7,85.14285714,1.67616342,87.0,82.0,0,0,0,0,0,0,0,0,1,6,0
-UBCV,2020,W,MUSC,165,D,OVERALL,World Music Ensembles,,7,85.14285714,1.67616342,87.0,82.0,0,0,0,0,0,0,0,0,1,6,0
-UBCV,2020,W,MUSC,169,A,001,Intensive Chamber Ensemble,,9,88.66666667,6.244997998,100.0,80.0,0,0,0,0,0,0,0,0,1,5,3
-UBCV,2020,W,MUSC,169,A,OVERALL,Intensive Chamber Ensemble,,13,89.46153846,6.03621549,100.0,80.0,0,0,0,0,0,0,0,0,1,7,5
-UBCV,2020,W,MUSC,170,,001,Lyric Diction,Richard Arthur Epp,24,88.875,3.455461965,94.0,80.0,0,0,0,0,0,0,0,0,2,10,12
-UBCV,2020,W,MUSC,170,,OVERALL,Lyric Diction,,24,88.875,3.455461965,94.0,80.0,0,0,0,0,0,0,0,0,2,10,12
-UBCV,2020,W,MUSC,182,D,005,Music Performance (Concentration),,8,87.5,4.242640687,96.0,82.0,0,0,0,0,0,0,0,0,2,4,2
-UBCV,2020,W,MUSC,182,D,OVERALL,Music Performance (Concentration),,9,87.33333333,4.0,96.0,82.0,0,0,0,0,0,0,0,0,2,5,2
-UBCV,2020,W,MUSC,193,A,OVERALL,Music Performance (Major),,6,88.0,2.898275349,91.0,84.0,0,0,0,0,0,0,0,0,,,
-UBCV,2020,W,MUSC,193,C,OVERALL,Music Performance (Major),,7,89.28571429,4.309458037,93.0,80.0,0,0,0,0,0,0,0,0,,,
-UBCV,2020,W,MUSC,193,D,OVERALL,Music Performance (Major),,6,88.83333333,4.262237284,96.0,84.0,0,0,0,0,0,0,0,0,,,
-UBCV,2020,W,MUSC,200,,001,Chromatic Harmony and Voice Leading,Elvin Do;Eve Poudrier;Hei Yeung Lai;James Palmer;Kelsey Lussier,63,77.77777778,14.2313199,97.0,8.0,1,1,2,7,1,4,5,7,10,12,13
-UBCV,2020,W,MUSC,200,,OVERALL,Chromatic Harmony and Voice Leading,,63,77.77777778,14.2313199,97.0,8.0,1,1,2,7,1,4,5,7,10,12,13
-UBCV,2020,W,MUSC,205,,001,Aural Skills III,Edward B. Norman;Gordon P Paslawski;Gordon Paslawski;Hei Yeung Lai,41,86.87804878,11.27651347,100.0,50.0,0,1,0.0,1,1,2,1,2,5,10,18
-UBCV,2020,W,MUSC,205,,OVERALL,Aural Skills III,,41,86.87804878,11.27651347,100.0,50.0,0,1,0.0,1,1,2,1,2,5,10,18
-UBCV,2020,W,MUSC,206,,001,Aural Skills IV,Edward B. Norman;Gordon P Paslawski;Gordon Paslawski;Pallas Loredo,10,67.1,13.5355499,95.0,50.0,0,2,1,1,1,1,2,1,0,0,1
-UBCV,2020,W,MUSC,206,,002,Aural Skills IV,Gordon P Paslawski;Gordon Paslawski;Pallas Loredo,33,85.27272727,10.8693167,100.0,57.0,0,0,1,1,1,1,1,3,5,8,12
-UBCV,2020,W,MUSC,206,,OVERALL,Aural Skills IV,,43,81.04651163,13.7701428,100.0,50.0,0,2,2,2,2,2,3,4,5,8,13
-UBCV,2020,W,MUSC,220,,001,History of Music III,Catherine Anne Laub;Catherine Laub;Christina Hutten;Claudio Vellutini,49,82.30612245,9.517974403,98.0,57.0,0,0,2,0.0,2,2,5,5,10,13,10
-UBCV,2020,W,MUSC,220,,OVERALL,History of Music III,,49,82.30612245,9.517974403,98.0,57.0,0,0,2,0.0,2,2,5,5,10,13,10
-UBCV,2020,W,MUSC,221,,001,History of Music IV,Catherine Anne Laub;Catherine Laub;Christina Hutten;David Metzer,49,82.2244898,9.179382028,95.0,56.0,0,0,3,1,0.0,1,3,3,13,16,9
-UBCV,2020,W,MUSC,221,,OVERALL,History of Music IV,,49,82.2244898,9.179382028,95.0,56.0,0,0,3,1,0.0,1,3,3,13,16,9
-UBCV,2020,W,MUSC,235,,001,Opera Repertoire II,Emma Jang;Richard Arthur Epp,6,90.33333333,4.179314138,96.0,87.0,0,0,0,0,0,0,0,0,0,3,3
-UBCV,2020,W,MUSC,235,,OVERALL,Opera Repertoire II,,6,90.33333333,4.179314138,96.0,87.0,0,0,0,0,0,0,0,0,0,3,3
-UBCV,2020,W,MUSC,236,C,001,Piano Repertoire II,Corey Hamm,19,90.10526316,1.486783883,92.0,89.0,0,0,0,0,0,0,0,0,0,12,7
-UBCV,2020,W,MUSC,236,C,OVERALL,Piano Repertoire II,,19,90.10526316,1.486783883,92.0,89.0,0,0,0,0,0,0,0,0,0,12,7
-UBCV,2020,W,MUSC,249,,001,Collaborative Piano II,Rena Sharon,9,91.88888889,1.615893286,94.0,90.0,0,0,0,0,0,0,0,0,0,0,9
-UBCV,2020,W,MUSC,249,,OVERALL,Collaborative Piano II,,9,91.88888889,1.615893286,94.0,90.0,0,0,0,0,0,0,0,0,0,0,9
-UBCV,2020,W,MUSC,282,A,OVERALL,Music Performance (Concentration),,6,86.66666667,2.658320272,90.0,82.0,0,0,0,0,0,0,0,0,,,
-UBCV,2020,W,MUSC,282,D,OVERALL,Music Performance (Concentration),,6,83.83333333,3.816630276,89.0,79.0,0,0,0,0,0,0,0,,,,0
-UBCV,2020,W,MUSC,292,B,OVERALL,Music Performance (Major),,6,85.83333333,2.228601953,89.0,83.0,0,0,0,0,0,0,0,0,,,0
-UBCV,2020,W,MUSC,293,C,OVERALL,Music Performance (Major),,10,92.1,2.558211181,96.0,88.0,0,0,0,0,0,0,0,0,0,,
-UBCV,2020,W,MUSC,305,,001,Readings in Orchestral Repertoire,Jonathan Girard,26,91.34615385,5.090715531,98.0,80.0,0,0,0,0,0,0,0,0,3,5,18
-UBCV,2020,W,MUSC,305,,OVERALL,Readings in Orchestral Repertoire,,26,91.34615385,5.090715531,98.0,80.0,0,0,0,0,0,0,0,0,3,5,18
-UBCV,2020,W,MUSC,307,C,OVERALL,Composition III,,6,76.0,37.35773012,95.0,0.0,,,,,,,,,,,
-UBCV,2020,W,MUSC,309,,001,Instrumentation,Frederick Stride;Stephen Chatman;Walker Williams,54,85.38888889,9.879303059,96.0,31.0,1,0,0,0,1,2,0,4,6,20,20
-UBCV,2020,W,MUSC,309,,OVERALL,Instrumentation,,54,85.38888889,9.879303059,96.0,31.0,1,0,0,0,1,2,0,4,6,20,20
-UBCV,2020,W,MUSC,310,,001,Orchestration,Frederick Stride;Walker Williams,35,78.91428571,14.59728304,92.0,9.0,1,0,0,2,1,2,2,3,10,11,3
-UBCV,2020,W,MUSC,310,,OVERALL,Orchestration,,35,78.91428571,14.59728304,92.0,9.0,1,0,0,2,1,2,2,3,10,11,3
-UBCV,2020,W,MUSC,311,,001,Fundamentals of Conducting,Chi Shi Monica Chen;James A Sparks;James Sparks;Minna Stelzner;Robert Taylor,17,85.23529412,8.656857194,97.0,66.0,0,0,0,0,1,1,1,0.0,4,5,5
-UBCV,2020,W,MUSC,311,,002,Fundamentals of Conducting,Chi Shi Monica Chen;James A Sparks;James Sparks;Jonathan Girard;Monica Chen,19,87.68421053,5.110475424,97.0,81.0,0,0,0,0,0,0,0,0,7,5,7
-UBCV,2020,W,MUSC,311,,OVERALL,Fundamentals of Conducting,,36,86.52777778,7.016250977,97.0,66.0,0,0,0,0,1,1,1,0.0,11,10,12
-UBCV,2020,W,MUSC,312,,001,Instrumental Conducting,Chi Shi Monica Chen;Jonathan Girard;Minna Stelzner;Monica Chen;Robert Taylor,25,89.32,3.902136167,96.0,76.0,0,0,0,0,0,0,0,1,0.0,10,14
-UBCV,2020,W,MUSC,312,,OVERALL,Instrumental Conducting,,25,89.32,3.902136167,96.0,76.0,0,0,0,0,0,0,0,1,0.0,10,14
-UBCV,2020,W,MUSC,313,,001,Choral Conducting,Elvin Do;Graeme Langager;Han-Ah Park;James A Sparks;James Sparks,26,83.61538462,13.34189469,98.0,36.0,1,0,0,2,0,0,1,2,3,6,11
-UBCV,2020,W,MUSC,313,,OVERALL,Choral Conducting,,26,83.61538462,13.34189469,98.0,36.0,1,0,0,2,0,0,1,2,3,6,11
-UBCV,2020,W,MUSC,319,A,001,Electroacoustic Music,Michael Ducharme;Robert Pritchard,37,79.02702703,9.616208789,91.0,39.0,1,0,0,0,3,1,2,6,15,7,2
-UBCV,2020,W,MUSC,319,A,OVERALL,Electroacoustic Music,,37,79.02702703,9.616208789,91.0,39.0,1,0,0,0,3,1,2,6,15,7,2
-UBCV,2020,W,MUSC,320,,001,Computer Music,Keith Hamel;Michael Ducharme,30,79.43333333,10.43760883,97.0,60.0,0,0,0,3,3,2,2,3,6,6,5
-UBCV,2020,W,MUSC,320,,OVERALL,Computer Music,,30,79.43333333,10.43760883,97.0,60.0,0,0,0,3,3,2,2,3,6,6,5
-UBCV,2020,W,MUSC,323,,001,History of Popular Music,David Metzer;Kathryn Amelia Anderson;Kathryn Anderson;Nathan Hesselink;Wei-An Wang,99,89.06060606,4.5284096,96.0,69.0,0,0,0,0,0,1,1,1,10,32,54
-UBCV,2020,W,MUSC,323,,OVERALL,History of Popular Music,,99,89.06060606,4.5284096,96.0,69.0,0,0,0,0,0,1,1,1,10,32,54
-UBCV,2020,W,MUSC,328,D,001,World Music Cultures,Michael Tenzer;Nathan Hesselink,32,84.0,12.89410968,97.0,27.0,1,0,1,0,0,0,1,0,10,8,11
-UBCV,2020,W,MUSC,328,D,OVERALL,World Music Cultures,,32,84.0,12.89410968,97.0,27.0,1,0,1,0,0,0,1,0,10,8,11
-UBCV,2020,W,MUSC,336,,001,Opera Theatre Techniques I,Emma Petersen;Nancy Jane Hermiston,13,83.30769231,4.230536124,90.0,78.0,0,0,0,0,0,0,0,3,3,6,1
-UBCV,2020,W,MUSC,336,,OVERALL,Opera Theatre Techniques I,,13,83.30769231,4.230536124,90.0,78.0,0,0,0,0,0,0,0,3,3,6,1
-UBCV,2020,W,MUSC,340,,001,Piano Pedagogy I: Theory and Studio Management,Leonard Anderson,20,89.8,1.852452144,94.0,87.0,0,0,0,0,0,0,0,0,0,10,10
-UBCV,2020,W,MUSC,340,,OVERALL,Piano Pedagogy I: Theory and Studio Management,,20,89.8,1.852452144,94.0,87.0,0,0,0,0,0,0,0,0,0,10,10
-UBCV,2020,W,MUSC,349,,001,Keyboard Harmony and Transposition,Patricia Hoy,19,89.36842105,5.579830009,99.0,78.0,0,0,0,0,0,0,0,1,2,6,10
-UBCV,2020,W,MUSC,349,,OVERALL,Keyboard Harmony and Transposition,,19,89.36842105,5.579830009,99.0,78.0,0,0,0,0,0,0,0,1,2,6,10
-UBCV,2020,W,MUSC,352,,001,History of Medieval Music,Alexander John Fisher,24,81.16666667,11.09902725,97.0,58.0,0,0,1,2,0,2,0,4,5,6,4
-UBCV,2020,W,MUSC,352,,OVERALL,History of Medieval Music,,24,81.16666667,11.09902725,97.0,58.0,0,0,1,2,0,2,0,4,5,6,4
-UBCV,2020,W,MUSC,358,,001,History of Jazz,David Metzer,19,85.05263158,2.592160922,90.0,79.0,0,0,0,0,0,0,0,1,5,12,1
-UBCV,2020,W,MUSC,358,,OVERALL,History of Jazz,,19,85.05263158,2.592160922,90.0,79.0,0,0,0,0,0,0,0,1,5,12,1
-UBCV,2020,W,MUSC,365,,001,Song Repertoire I,Richard Arthur Epp,10,90.6,2.170509413,93.0,87.0,0,0,0,0,0,0,0,0,0,3,7
-UBCV,2020,W,MUSC,365,,OVERALL,Song Repertoire I,,10,90.6,2.170509413,93.0,87.0,0,0,0,0,0,0,0,0,0,3,7
-UBCV,2020,W,MUSC,371,S,001,Music Performance (Secondary),Rena Sharon,10,90.0,0.0,90.0,90.0,0,0,0,0,0,0,0,0,0,0,10
-UBCV,2020,W,MUSC,371,S,OVERALL,Music Performance (Secondary),,10,90.0,0.0,90.0,90.0,0,0,0,0,0,0,0,0,0,0,10
-UBCV,2020,W,MUSC,382,A,OVERALL,Music Performance (Concentration),,13,84.46153846,5.026850979,89.0,70.0,0,0,0,0,0,,,,,,0
-UBCV,2020,W,MUSC,382,D,OVERALL,Music Performance (Concentration),,12,86.41666667,5.299371032,98.0,76.0,0,0,0,0,0,0,0,,,,
-UBCV,2020,W,MUSC,394,A,OVERALL,Music Performance (Major),,9,87.88888889,2.619372274,92.0,83.0,0,0,0,0,0,0,0,0,0,,
-UBCV,2020,W,MUSC,394,C,OVERALL,Music Performance (Major),,6,92.0,2.75680975,95.0,87.0,0,0,0,0,0,0,0,0,0,,
-UBCV,2020,W,MUSC,394,D,OVERALL,Music Performance (Major),,7,91.0,2.708012802,94.0,86.0,0,0,0,0,0,0,0,0,0,,
-UBCV,2020,W,MUSC,403,E,001,Selected Topics in Music,Sin Yan Hedy Law,8,84.25,5.824823725,91.0,77.0,0,0,0,0,0,0,0,3,1,3,1
-UBCV,2020,W,MUSC,403,E,OVERALL,Selected Topics in Music,,8,84.25,5.824823725,91.0,77.0,0,0,0,0,0,0,0,3,1,3,1
-UBCV,2020,W,MUSC,403,H,001,Selected Topics in Music,Claudio Vellutini,7,80.71428571,11.42678558,93.0,63.0,0,0,0,1,0,0,2,0,1,0,3
-UBCV,2020,W,MUSC,403,H,OVERALL,Selected Topics in Music,,7,80.71428571,11.42678558,93.0,63.0,0,0,0,1,0,0,2,0,1,0,3
-UBCV,2020,W,MUSC,403,M,001,Selected Topics in Music,Michael Tenzer,8,87.125,6.577830732,93.0,75.0,0,0,0,0,0,0,1,0.0,2,1,4
-UBCV,2020,W,MUSC,403,M,OVERALL,Selected Topics in Music,,8,87.125,6.577830732,93.0,75.0,0,0,0,0,0,0,1,0.0,2,1,4
-UBCV,2020,W,MUSC,403,P,001,Selected Topics in Music,Claudio Vellutini,6,85.16666667,9.867454923,97.0,68.0,0,0,0,0,0,1,0,0,1,2,2
-UBCV,2020,W,MUSC,403,P,OVERALL,Selected Topics in Music,,6,85.16666667,9.867454923,97.0,68.0,0,0,0,0,0,1,0,0,1,2,2
-UBCV,2020,W,MUSC,403,R,001,Selected Topics in Music,Leigh Van Handel,9,80.55555556,15.6453756,94.0,43.0,1,0,0,0,0,0,1,1,1,2,3
-UBCV,2020,W,MUSC,403,R,OVERALL,Selected Topics in Music,,9,80.55555556,15.6453756,94.0,43.0,1,0,0,0,0,0,1,1,1,2,3
-UBCV,2020,W,MUSC,403,U,001,Selected Topics in Music,Leigh Van Handel,6,91.66666667,4.966554809,97.0,83.0,0,0,0,0,0,0,0,0,1,1,4
-UBCV,2020,W,MUSC,403,U,OVERALL,Selected Topics in Music,,6,91.66666667,4.966554809,97.0,83.0,0,0,0,0,0,0,0,0,1,1,4
-UBCV,2020,W,MUSC,409,D,001,Jazz Theory and Arranging,Frederick Stride;Michael Ducharme,17,81.05882353,6.542845217,90.0,69.0,0,0,0,0,0,2,2,2,5,5,1
-UBCV,2020,W,MUSC,409,D,OVERALL,Jazz Theory and Arranging,,17,81.05882353,6.542845217,90.0,69.0,0,0,0,0,0,2,2,2,5,5,1
-UBCV,2020,W,MUSC,411,,001,Analysis of Tonal Music,David Dodson;Leigh Van Handel,7,89.71428571,5.908025212,96.0,78.0,0,0,0,0,0,0,0,1,0.0,1,5
-UBCV,2020,W,MUSC,411,,OVERALL,Analysis of Tonal Music,,7,89.71428571,5.908025212,96.0,78.0,0,0,0,0,0,0,0,1,0.0,1,5
-UBCV,2020,W,MUSC,419,,001,Interactive Performance Systems,Robert Pritchard,9,89.11111111,2.204792759,93.0,88.0,0,0,0,0,0,0,0,0,0,7,2
-UBCV,2020,W,MUSC,419,,OVERALL,Interactive Performance Systems,,9,89.11111111,2.204792759,93.0,88.0,0,0,0,0,0,0,0,0,0,7,2
-UBCV,2020,W,MUSC,420,,002,Music Technology Capstone Project,Robert Pritchard,6,88.0,5.899152482,95.0,80.0,0,0,0,0,0,0,0,0,2,1,3
-UBCV,2020,W,MUSC,420,,OVERALL,Music Technology Capstone Project,,8,88.375,5.370222129,95.0,80.0,0,0,0,0,0,0,0,0,2,2,4
-UBCV,2020,W,MUSC,430,I,001,Major Composers,Sin Yan Hedy Law,9,79.22222222,9.743943988,89.0,56.0,0,0,1,0,0,0,1,1,3,3,0
-UBCV,2020,W,MUSC,430,I,OVERALL,Major Composers,,9,79.22222222,9.743943988,89.0,56.0,0,0,1,0,0,0,1,1,3,3,0
-UBCV,2020,W,MUSC,436,,001,Opera Theatre Techniques II,Emma Petersen;Nancy Jane Hermiston,9,85.0,2.645751311,90.0,82.0,0,0,0,0,0,0,0,0,4,4,1
-UBCV,2020,W,MUSC,436,,OVERALL,Opera Theatre Techniques II,,9,85.0,2.645751311,90.0,82.0,0,0,0,0,0,0,0,0,4,4,1
-UBCV,2020,W,MUSC,439,C,001,Opera Workshop II,Nancy Jane Hermiston,11,88.90909091,4.504543161,98.0,84.0,0,0,0,0,0,0,0,0,1,7,3
-UBCV,2020,W,MUSC,439,C,OVERALL,Opera Workshop II,,11,88.90909091,4.504543161,98.0,84.0,0,0,0,0,0,0,0,0,1,7,3
-UBCV,2020,W,MUSC,442,C,001,Song Interpretation,Rena Sharon,17,93.94117647,0.55571893,95.0,92.0,0,0,0,0,0,0,0,0,0,0,17
-UBCV,2020,W,MUSC,442,C,OVERALL,Song Interpretation,,17,93.94117647,0.55571893,95.0,92.0,0,0,0,0,0,0,0,0,0,0,17
-UBCV,2020,W,MUSC,455,,001,History of Opera II,Claudio Vellutini,21,78.95238095,10.39940475,93.0,56.0,0,0,2,0,0,3,2,5,1,4,4
-UBCV,2020,W,MUSC,455,,OVERALL,History of Opera II,,21,78.95238095,10.39940475,93.0,56.0,0,0,2,0,0,3,2,5,1,4,4
-UBCV,2020,W,MUSC,482,A,OVERALL,Music Performance (Concentration),,15,87.6,2.292846017,91.0,83.0,0,0,0,0,0,0,0,0,,,
-UBCV,2020,W,MUSC,482,D,OVERALL,Music Performance (Concentration),,9,84.22222222,4.944132325,89.0,75.0,0,0,0,0,0,0,,,,,0
-UBCV,2020,W,MUSC,493,B,OVERALL,Music Performance (Major),,9,87.0,5.267826876,95.0,77.0,0,0,0,0,0,0,0,,,,
-UBCV,2020,W,MUSC,494,C,OVERALL,Music Performance (Major),,11,92.36363636,2.203303305,95.0,88.0,0,0,0,0,0,0,0,0,0,,
-UBCV,2020,W,MUSC,494,D,OVERALL,Music Performance (Major),,8,93.125,2.531938839,96.0,90.0,0,0,0,0,0,0,0,0,0,0,8.0
-UBCV,2020,W,MUSC,500,A,001,Advanced Musical Analysis,David Dodson;Leigh Van Handel,6,92.83333333,5.455883674,97.0,85.0,0,0,0,0,0,0,0,0,0,2,4
-UBCV,2020,W,MUSC,500,A,OVERALL,Advanced Musical Analysis,,6,92.83333333,5.455883674,97.0,85.0,0,0,0,0,0,0,0,0,0,2,4
-UBCV,2020,W,MUSC,506,,001,Readings in Orchestral Repertoire,Jonathan Girard,7,95.85714286,1.573591585,98.0,93.0,0,0,0,0,0,0,0,0,0,0,7
-UBCV,2020,W,MUSC,506,,OVERALL,Readings in Orchestral Repertoire,,7,95.85714286,1.573591585,98.0,93.0,0,0,0,0,0,0,0,0,0,0,7
-UBCV,2020,W,MUSC,509,B,001,Advanced Orchestration and Arranging,Dorothy Chang Bortolussi;Keith Hamel,6,89.5,1.643167673,92.0,87.0,0,0,0,0,0,0,0,0,0,3,3
-UBCV,2020,W,MUSC,509,B,OVERALL,Advanced Orchestration and Arranging,,6,89.5,1.643167673,92.0,87.0,0,0,0,0,0,0,0,0,0,3,3
-UBCV,2020,W,MUSC,520,A,001,Introduction to Music Research,Sin Yan Hedy Law,13,78.46153846,8.752289078,93.0,68.0,0,0,0,0,0,4,2,1,1,4,1
-UBCV,2020,W,MUSC,520,A,OVERALL,Introduction to Music Research,,13,78.46153846,8.752289078,93.0,68.0,0,0,0,0,0,4,2,1,1,4,1
-UBCV,2020,W,MUSC,521,D,001,Seminar in Performance Practices,Rena Sharon,7,93.42857143,1.718249386,95.0,90.0,0,0,0,0,0,0,0,0,0,0,7
-UBCV,2020,W,MUSC,521,D,OVERALL,Seminar in Performance Practices,,7,93.42857143,1.718249386,95.0,90.0,0,0,0,0,0,0,0,0,0,0,7
-UBCV,2020,W,MUSC,529,H,001,Introduction to Ethnomusicology,Nathan Hesselink,9,89.33333333,4.272001873,94.0,83.0,0,0,0,0,0,0,0,0,2,2,5
-UBCV,2020,W,MUSC,529,H,OVERALL,Introduction to Ethnomusicology,,9,89.33333333,4.272001873,94.0,83.0,0,0,0,0,0,0,0,0,2,2,5
-UBCV,2020,W,MUSC,532,B,001,Advanced Studies in Music History and Musicology,Nathan Hesselink,10,90.9,2.726414006,95.0,88.0,0,0,0,0,0,0,0,0,0,3,7
-UBCV,2020,W,MUSC,532,B,OVERALL,Advanced Studies in Music History and Musicology,,10,90.9,2.726414006,95.0,88.0,0,0,0,0,0,0,0,0,0,3,7
-UBCV,2020,W,MUSC,532,E,001,Advanced Studies in Music History and Musicology,Nathan Hesselink;Sin Yan Hedy Law,8,85.5,7.010196655,93.0,73.0,0,0,0,0,0,0,1,1,0.0,3,3
-UBCV,2020,W,MUSC,532,E,OVERALL,Advanced Studies in Music History and Musicology,,8,85.5,7.010196655,93.0,73.0,0,0,0,0,0,0,1,1,0.0,3,3
-UBCV,2020,W,MUSC,532,S,001,Advanced Studies in Music History and Musicology,David Metzer;Rena Sharon;Thomas Carrabre,9,92.11111111,0.927960727,93.0,90.0,0,0,0,0,0,0,0,0,0,0,9
-UBCV,2020,W,MUSC,532,S,OVERALL,Advanced Studies in Music History and Musicology,,9,92.11111111,0.927960727,93.0,90.0,0,0,0,0,0,0,0,0,0,0,9
-UBCV,2020,W,MUSC,532,T,001,Advanced Studies in Music History and Musicology,Alexander John Fisher,6,91.83333333,2.714160398,95.0,87.0,0,0,0,0,0,0,0,0,0,1,5
-UBCV,2020,W,MUSC,532,T,OVERALL,Advanced Studies in Music History and Musicology,,6,91.83333333,2.714160398,95.0,87.0,0,0,0,0,0,0,0,0,0,1,5
-UBCV,2020,W,MUSC,532,X,001,Advanced Studies in Music History and Musicology,Rena Sharon,6,93.0,0.0,93.0,93.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2020,W,MUSC,532,X,OVERALL,Advanced Studies in Music History and Musicology,,6,93.0,0.0,93.0,93.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2020,W,MUSC,533,A,001,Advanced Studies in Music Theory,John Barlow Roeder,7,87.71428571,2.497617913,92.0,85.0,0,0,0,0,0,0,0,0,0,6,1
-UBCV,2020,W,MUSC,533,A,OVERALL,Advanced Studies in Music Theory,,7,87.71428571,2.497617913,92.0,85.0,0,0,0,0,0,0,0,0,0,6,1
-UBCV,2020,W,MUSC,533,D,001,Advanced Studies in Music Theory,John Barlow Roeder;Michael Tenzer,8,88.625,4.172614802,96.0,82.0,0,0,0,0,0,0,0,0,1,4,3
-UBCV,2020,W,MUSC,533,D,OVERALL,Advanced Studies in Music Theory,,8,88.625,4.172614802,96.0,82.0,0,0,0,0,0,0,0,0,1,4,3
-UBCV,2020,W,MUSC,533,R,001,Advanced Studies in Music Theory,Leigh Van Handel;Rena Sharon,7,90.42857143,4.755948656,97.0,84.0,0,0,0,0,0,0,0,0,1,1,5
-UBCV,2020,W,MUSC,533,R,OVERALL,Advanced Studies in Music Theory,,7,90.42857143,4.755948656,97.0,84.0,0,0,0,0,0,0,0,0,1,1,5
-UBCV,2020,W,MUSC,535,,001,"Art Song: Interpretation, Collaboration, and Performance",Rena Sharon,15,93.46666667,0.990430402,94.0,91.0,0,0,0,0,0,0,0,0,0,0,15
-UBCV,2020,W,MUSC,535,,OVERALL,"Art Song: Interpretation, Collaboration, and Performance",,15,93.46666667,0.990430402,94.0,91.0,0,0,0,0,0,0,0,0,0,0,15
-UBCV,2020,W,MUSC,537,C,001,Seminar in the Literature of Opera,James Raftery,18,91.11111111,4.36414386,98.0,82.0,0,0,0,0,0,0,0,0,1,3,14
-UBCV,2020,W,MUSC,537,C,OVERALL,Seminar in the Literature of Opera,,18,91.11111111,4.36414386,98.0,82.0,0,0,0,0,0,0,0,0,1,3,14
-UBCV,2020,W,MUSC,539,C,001,Opera Production,Nancy Jane Hermiston,17,90.94117647,6.279635621,100.0,78.0,0,0,0,0,0,0,0,1,1,5,10
-UBCV,2020,W,MUSC,539,C,OVERALL,Opera Production,,17,90.94117647,6.279635621,100.0,78.0,0,0,0,0,0,0,0,1,1,5,10
-UBCV,2020,W,MUSC,549,A,OVERALL,Master's Thesis,,22,91.5,5.262174094,100.0,80.0,0,0,0,0,0,0,0,0,,,
-UBCV,2020,W,MUSC,550,A,001,Large Instrumental Ensemble,Chi Shi Monica Chen;Jonathan Girard;Minna Stelzner;Monica Chen;Robert Taylor;Ruijie Guo,18,99.05555556,2.577555208,100.0,90.0,0,0,0,0,0,0,0,0,0,0,18
-UBCV,2020,W,MUSC,550,A,OVERALL,Large Instrumental Ensemble,,18,99.05555556,2.577555208,100.0,90.0,0,0,0,0,0,0,0,0,0,0,18
-UBCV,2020,W,MUSC,560,A,001,String Chamber Ensembles,Caroline Dawn Olsen;Caroline Olsen;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,6,95.33333333,1.032795559,96.0,94.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2020,W,MUSC,560,A,OVERALL,String Chamber Ensembles,,6,95.33333333,1.032795559,96.0,94.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2020,W,MUSC,591,B,OVERALL,Music Performance (Major),,6,95.16666667,4.915960401,99.0,87.0,0,0,0,0,0,0,0,0,0,,
-UBCV,2020,W,MUSC,593,B,OVERALL,Music Performance (Major),,14,90.57142857,5.272778945,99.0,78.0,0,0,0,0,0,0,0,,,,
+UBCV,2020,W,MUSC,100,,001,Principles of Musical Form,Blaire Ziegenhagel;John Barlow Roeder,77,75.662337662,13.684999846,96.0,11.0,3,1,3.0,3.0,5.0,10,9,10,12,10,11
+UBCV,2020,W,MUSC,100,,OVERALL,Principles of Musical Form,,77,75.662337662,13.684999846,96.0,11.0,3,1,3.0,3.0,5.0,10,9,10,12,10,11
+UBCV,2020,W,MUSC,101,,001,Diatonic Harmony and Voice Leading,Eve Poudrier;Hei Yeung Lai;Kelsey Lussier,61,87.524590164,8.07383956,99.0,66.0,0,0,0.0,0.0,2.0,1,3,5,7,12,31
+UBCV,2020,W,MUSC,101,,OVERALL,Diatonic Harmony and Voice Leading,,61,87.524590164,8.07383956,99.0,66.0,0,0,0.0,0.0,2.0,1,3,5,7,12,31
+UBCV,2020,W,MUSC,103,,001,Introduction to the Theory of Music,Blaire Ziegenhagel;Michael Brandon Konoval,60,89.516666667,9.569534404,100.0,67.0,0,0,0.0,0.0,1.0,4,2,3,7,7,36
+UBCV,2020,W,MUSC,103,,002,Introduction to the Theory of Music,Sarah Reimer;Sarah Renee Reimer,18,76.722222222,11.213466461,97.0,52.0,0,1,0.0,2.0,0.0,2,3,3,2,2,3
+UBCV,2020,W,MUSC,103,,OVERALL,Introduction to the Theory of Music,,78,86.564102564,11.285653165,100.0,52.0,0,1,0.0,2.0,1.0,6,5,6,9,9,39
+UBCV,2020,W,MUSC,105,,001,Aural Skills I,Ashley Renee Seward;Ashley Seward;Edward B. Norman;Gordon P Paslawski;Gordon Paslawski;Hei Yeung Lai;Pallas Loredo;Risa Tonita,54,86.555555556,9.519922837,99.0,60.0,0,0,0.0,3.0,0.0,0,4,4,6,9,28
+UBCV,2020,W,MUSC,105,,OVERALL,Aural Skills I,,54,86.555555556,9.519922837,99.0,60.0,0,0,0.0,3.0,0.0,0,4,4,6,9,28
+UBCV,2020,W,MUSC,106,,002,Aural Skills II,Ashley Seward;Gordon P Paslawski;Gordon Paslawski;Oscar Smith;Risa Tonita,50,87.56,10.631412831,100.0,64.0,0,0,0.0,0.0,2.0,5,1,6,2,7,27
+UBCV,2020,W,MUSC,106,,OVERALL,Aural Skills II,,50,87.56,10.631412831,100.0,64.0,0,0,0.0,0.0,2.0,5,1,6,2,7,27
+UBCV,2020,W,MUSC,107,C,002,Composition I,Dorothy Chang Bortolussi;Keith Hamel;Stephen Chatman,9,86.666666667,2.121320344,90.0,84.0,0,0,0.0,0.0,0.0,0,0,0,2,6,1
+UBCV,2020,W,MUSC,107,C,OVERALL,Composition I,,9,86.666666667,2.121320344,90.0,84.0,0,0,0.0,0.0,0.0,0,0,0,2,6,1
+UBCV,2020,W,MUSC,108,,001,Introduction to Contemporary Art Music,Dorothy Chang Bortolussi;Keith Hamel,8,85.125,5.514591035,93.0,78.0,0,0,0.0,0.0,0.0,0,0,1,4,0.0,3
+UBCV,2020,W,MUSC,108,,OVERALL,Introduction to Contemporary Art Music,,8,85.125,5.514591035,93.0,78.0,0,0,0.0,0.0,0.0,0,0,1,4,0.0,3
+UBCV,2020,W,MUSC,112,,001,Class Brasses and Percussion,Aaron Graham;James Littleford;James S Littleford;Sharman King;Valerie Whitney,19,84.421052632,7.112709981,92.0,62.0,0,0,0.0,1.0,0.0,0,1,1,3,10,3
+UBCV,2020,W,MUSC,112,,OVERALL,Class Brasses and Percussion,,19,84.421052632,7.112709981,92.0,62.0,0,0,0.0,1.0,0.0,0,1,1,3,10,3
+UBCV,2020,W,MUSC,119,,001,Introduction to Music Technology,Holly Winter;Robert Pritchard,105,81.19047619,11.55762755,97.0,45.0,1,3,2.0,4.0,8.0,2,3,6,23,23,30
+UBCV,2020,W,MUSC,119,,OVERALL,Introduction to Music Technology,,105,81.19047619,11.55762755,97.0,45.0,1,3,2.0,4.0,8.0,2,3,6,23,23,30
+UBCV,2020,W,MUSC,120,,001,History of Music I,Alexander John Fisher;Joanna Bevaart,72,84.430555556,9.839309475,98.0,54.0,0,1,1.0,1.0,5.0,1,3,4,15,14,27
+UBCV,2020,W,MUSC,120,,OVERALL,History of Music I,,72,84.430555556,9.839309475,98.0,54.0,0,1,1.0,1.0,5.0,1,3,4,15,14,27
+UBCV,2020,W,MUSC,121,,001,History of Music II,Sin Yan Hedy Law,68,73.735294118,14.184938036,92.0,6.0,2,2,2.0,6.0,3.0,5,12,9,17,4,6
+UBCV,2020,W,MUSC,121,,OVERALL,History of Music II,,68,73.735294118,14.184938036,92.0,6.0,2,2,2.0,6.0,3.0,5,12,9,17,4,6
+UBCV,2020,W,MUSC,122,,001,Class Woodwinds,Brenda Fedoruk;Brenda Louise Fedoruk;Carlos Savall Guardiola;Christin Reardon Maclellan;Ingrid Chiang;Jose Franch Ballester;Julia Nolan;Marie Park,23,83.52173913,15.456300761,98.0,29.0,1,0,0.0,1.0,1.0,1,0,1,3,5,10
+UBCV,2020,W,MUSC,122,,OVERALL,Class Woodwinds,,23,83.52173913,15.456300761,98.0,29.0,1,0,0.0,1.0,1.0,1,0,1,3,5,10
+UBCV,2020,W,MUSC,128,,001,Musical Rhythm and Human Experience,Julia Ulehla;Lucy Strauss;Michael Tenzer,84,85.476190476,15.980768706,99.0,2.0,3,0,1.0,0.0,1.0,5,1,5,7,19,42
+UBCV,2020,W,MUSC,128,,OVERALL,Musical Rhythm and Human Experience,,84,85.476190476,15.980768706,99.0,2.0,3,0,1.0,0.0,1.0,5,1,5,7,19,42
+UBCV,2020,W,MUSC,131,,001,Class Voice,Allison Anderson;Hyun Seung Son;James Raftery,18,90.222222222,4.857444929,95.0,72.0,0,0,0.0,0.0,0.0,0,1,0,0,3,14
+UBCV,2020,W,MUSC,131,,OVERALL,Class Voice,,18,90.222222222,4.857444929,95.0,72.0,0,0,0.0,0.0,0.0,0,1,0,0,3,14
+UBCV,2020,W,MUSC,135,,001,Opera Repertoire I,Emma Jang;Richard Arthur Epp,8,89.75,3.770183777,93.0,83.0,0,0,0.0,0.0,0.0,0,0,0,1,1,6
+UBCV,2020,W,MUSC,135,,OVERALL,Opera Repertoire I,,8,89.75,3.770183777,93.0,83.0,0,0,0.0,0.0,0.0,0,0,0,1,1,6
+UBCV,2020,W,MUSC,141,,001,Class Piano I,Susan M.C. Chen Chai,17,80.117647059,6.872793764,93.0,70.0,0,0,0.0,0.0,0.0,2,4,1,5,4,1
+UBCV,2020,W,MUSC,141,,OVERALL,Class Piano I,,17,80.117647059,6.872793764,93.0,70.0,0,0,0.0,0.0,0.0,2,4,1,5,4,1
+UBCV,2020,W,MUSC,149,,001,Collaborative Piano I,Rena Sharon;Terence Dawson,10,91.2,3.084008935,94.0,85.0,0,0,0.0,0.0,0.0,0,0,0,0,3,7
+UBCV,2020,W,MUSC,149,,OVERALL,Collaborative Piano I,,10,91.2,3.084008935,94.0,85.0,0,0,0.0,0.0,0.0,0,0,0,0,3,7
+UBCV,2020,W,MUSC,150,A,001,Large Instrumental Ensemble,Chi Shi Monica Chen;Jonathan Girard;Minna Stelzner;Monica Chen;Robert Taylor;Ruijie Guo,113,98.460176991,4.198289189,100.0,78.0,0,0,0.0,0.0,0.0,0,0,1,4,1,107
+UBCV,2020,W,MUSC,150,A,OVERALL,Large Instrumental Ensemble,,113,98.460176991,4.198289189,100.0,78.0,0,0,0.0,0.0,0.0,0,0,1,4,1,107
+UBCV,2020,W,MUSC,150,C,001,Large Instrumental Ensemble,Christin Reardon Maclellan;Robert Taylor,11,97.272727273,9.045340337,100.0,70.0,0,0,0.0,0.0,0.0,1,0,0,0,0,10
+UBCV,2020,W,MUSC,150,C,OVERALL,Large Instrumental Ensemble,,11,97.272727273,9.045340337,100.0,70.0,0,0,0.0,0.0,0.0,1,0,0,0,0,10
+UBCV,2020,W,MUSC,153,A,001,University Singers,Eshantha Peiris;Graeme Langager;Han-Ah Park,34,95.294117647,17.060550653,100.0,0.0,1,0,0.0,0.0,0.0,0,0,0,0,0,33
+UBCV,2020,W,MUSC,153,A,OVERALL,University Singers,,34,95.294117647,17.060550653,100.0,0.0,1,0,0.0,0.0,0.0,0,0,0,0,0,33
+UBCV,2020,W,MUSC,154,A,001,University Choral Union,Caroni Young;Graeme Langager;Han-Ah Park,85,87.305882353,11.842240306,100.0,20.0,1,0,1.0,3.0,0.0,4,0,1,12,11,52
+UBCV,2020,W,MUSC,154,A,OVERALL,University Choral Union,,85,87.305882353,11.842240306,100.0,20.0,1,0,1.0,3.0,0.0,4,0,1,12,11,52
+UBCV,2020,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Alexander Weimann;Christina Hutten,13,89.461538462,6.063763746,95.0,70.0,0,0,0.0,0.0,0.0,1,0,0,0,1,11
+UBCV,2020,W,MUSC,157,A,OVERALL,Early Music Ensemble,,13,89.461538462,6.063763746,95.0,70.0,0,0,0.0,0.0,0.0,1,0,0,0,1,11
+UBCV,2020,W,MUSC,160,A,001,String Chamber Ensembles,Caroline Dawn Olsen;Caroline Olsen;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,33,93.757575758,1.920779513,96.0,91.0,0,0,0.0,0.0,0.0,0,0,0,0,0,33
+UBCV,2020,W,MUSC,160,A,OVERALL,String Chamber Ensembles,,33,93.757575758,1.920779513,96.0,91.0,0,0,0.0,0.0,0.0,0,0,0,0,0,33
+UBCV,2020,W,MUSC,161,A,001,Piano Chamber Ensembles,Michelle Mares;Miranda Ting Wai Wong Wilkins;Patricia Hoy;Rena Sharon,24,86.708333333,3.470110469,95.0,81.0,0,0,0.0,0.0,0.0,0,0,0,7,11,6
+UBCV,2020,W,MUSC,161,A,OVERALL,Piano Chamber Ensembles,,24,86.708333333,3.470110469,95.0,81.0,0,0,0.0,0.0,0.0,0,0,0,7,11,6
+UBCV,2020,W,MUSC,162,C,001,Wind and Percussion Chamber Ensembles,Julia Nolan,11,90.0,0.0,90.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,11
+UBCV,2020,W,MUSC,162,C,OVERALL,Wind and Percussion Chamber Ensembles,,11,90.0,0.0,90.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,11
+UBCV,2020,W,MUSC,162,E,001,Wind and Percussion Chamber Ensembles,Jacob Kryger;Vern Griffiths,7,87.285714286,4.231401884,93.0,82.0,0,0,0.0,0.0,0.0,0,0,0,3,1,3
+UBCV,2020,W,MUSC,162,E,OVERALL,Wind and Percussion Chamber Ensembles,,7,87.285714286,4.231401884,93.0,82.0,0,0,0.0,0.0,0.0,0,0,0,3,1,3
+UBCV,2020,W,MUSC,163,,001,Contemporary Players,Paolo Bortolussi;Ramsey Sadaka,10,89.9,2.282785822,96.0,88.0,0,0,0.0,0.0,0.0,0,0,0,0,5,5
+UBCV,2020,W,MUSC,163,,OVERALL,Contemporary Players,,10,89.9,2.282785822,96.0,88.0,0,0,0.0,0.0,0.0,0,0,0,0,5,5
+UBCV,2020,W,MUSC,164,,001,Jazz Ensemble,Frederick Stride,16,87.75,2.29492193,90.0,80.0,0,0,0.0,0.0,0.0,0,0,0,1,12,3
+UBCV,2020,W,MUSC,164,,OVERALL,Jazz Ensemble,,16,87.75,2.29492193,90.0,80.0,0,0,0.0,0.0,0.0,0,0,0,1,12,3
+UBCV,2020,W,MUSC,165,A,001,World Music Ensembles,Edward O'Donnell;Gloria Ngar-Yan Wong;Yue Suo,9,86.555555556,2.920235911,90.0,82.0,0,0,0.0,0.0,0.0,0,0,0,3,4,2
+UBCV,2020,W,MUSC,165,A,OVERALL,World Music Ensembles,,9,86.555555556,2.920235911,90.0,82.0,0,0,0.0,0.0,0.0,0,0,0,3,4,2
+UBCV,2020,W,MUSC,165,B,001,World Music Ensembles,I Putu Sukaryana;Michael Tenzer,6,92.333333333,1.505545305,94.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,6
+UBCV,2020,W,MUSC,165,B,OVERALL,World Music Ensembles,,6,92.333333333,1.505545305,94.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,6
+UBCV,2020,W,MUSC,165,C,001,World Music Ensembles,Nathan Hesselink,17,89.764705882,3.750490164,94.0,79.0,0,0,0.0,0.0,0.0,0,0,1,1,3,12
+UBCV,2020,W,MUSC,165,C,OVERALL,World Music Ensembles,,17,89.764705882,3.750490164,94.0,79.0,0,0,0.0,0.0,0.0,0,0,1,1,3,12
+UBCV,2020,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo,7,85.142857143,1.67616342,87.0,82.0,0,0,0.0,0.0,0.0,0,0,0,1,6,0
+UBCV,2020,W,MUSC,165,D,OVERALL,World Music Ensembles,,7,85.142857143,1.67616342,87.0,82.0,0,0,0.0,0.0,0.0,0,0,0,1,6,0
+UBCV,2020,W,MUSC,169,A,001,Intensive Chamber Ensemble,,10,88.3,6.000925854,100.0,80.0,0,0,0.0,0.0,0.0,0,0,0,1,6,3
+UBCV,2020,W,MUSC,169,A,OVERALL,Intensive Chamber Ensemble,,14,89.142857143,5.920721667,100.0,80.0,0,0,0.0,0.0,0.0,0,0,0,1,8,5
+UBCV,2020,W,MUSC,170,,001,Lyric Diction,Richard Arthur Epp,24,88.875,3.455461965,94.0,80.0,0,0,0.0,0.0,0.0,0,0,0,2,10,12
+UBCV,2020,W,MUSC,170,,OVERALL,Lyric Diction,,24,88.875,3.455461965,94.0,80.0,0,0,0.0,0.0,0.0,0,0,0,2,10,12
+UBCV,2020,W,MUSC,182,D,005,Music Performance (Concentration),,9,86.0,6.0,96.0,74.0,0,0,0.0,0.0,0.0,0,1,0.0,2,4,2
+UBCV,2020,W,MUSC,182,D,OVERALL,Music Performance (Concentration),,12,85.333333333,5.757735245,96.0,74.0,0,0,0.0,0.0,0.0,0,1,1.0,2,6,2
+UBCV,2020,W,MUSC,192,B,718,Music Performance (Major),Christine Szabo;Krisztina Szabo,6,85.166666667,0.752772653,86.0,84.0,0,0,0.0,0.0,0.0,0,0,0,1,5,0
+UBCV,2020,W,MUSC,192,B,OVERALL,Music Performance (Major),,15,86.933333333,3.104528183,95.0,84.0,0,0,0.0,0.0,0.0,0,0,0,2,10,3.0
+UBCV,2020,W,MUSC,193,A,OVERALL,Music Performance (Major),,6,88.0,2.898275349,91.0,84.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,193,C,OVERALL,Music Performance (Major),,9,89.666666667,4.092676386,94.0,80.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,193,D,OVERALL,Music Performance (Major),,6,88.833333333,4.262237284,96.0,84.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,200,,001,Chromatic Harmony and Voice Leading,Elvin Do;Eve Poudrier;Hei Yeung Lai;James Palmer;Kelsey Lussier,64,78.6875,11.148172318,97.0,50.0,0,1,2.0,7.0,2.0,4,5,7,11,12,13
+UBCV,2020,W,MUSC,200,,OVERALL,Chromatic Harmony and Voice Leading,,64,78.6875,11.148172318,97.0,50.0,0,1,2.0,7.0,2.0,4,5,7,11,12,13
+UBCV,2020,W,MUSC,205,,001,Aural Skills III,Edward B. Norman;Gordon P Paslawski;Gordon Paslawski;Hei Yeung Lai,41,86.87804878,11.276513473,100.0,50.0,0,1,0.0,1.0,1.0,2,1,2,5,10,18
+UBCV,2020,W,MUSC,205,,OVERALL,Aural Skills III,,41,86.87804878,11.276513473,100.0,50.0,0,1,0.0,1.0,1.0,2,1,2,5,10,18
+UBCV,2020,W,MUSC,206,,001,Aural Skills IV,Edward B. Norman;Gordon P Paslawski;Gordon Paslawski;Pallas Loredo,10,67.1,13.535549901,95.0,50.0,0,2,1.0,1.0,1.0,1,2,1,0,0,1
+UBCV,2020,W,MUSC,206,,002,Aural Skills IV,Gordon P Paslawski;Gordon Paslawski;Pallas Loredo,34,84.794117647,11.061205512,100.0,57.0,0,0,1.0,1.0,1.0,2,1,3,5,8,12
+UBCV,2020,W,MUSC,206,,OVERALL,Aural Skills IV,,44,80.772727273,13.7297227,100.0,50.0,0,2,2.0,2.0,2.0,3,3,4,5,8,13
+UBCV,2020,W,MUSC,207,C,OVERALL,Composition II,,6,88.0,5.656854249,94.0,80.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,220,,001,History of Music III,Catherine Anne Laub;Catherine Laub;Christina Hutten;Claudio Vellutini,49,82.306122449,9.517974403,98.0,57.0,0,0,2.0,0.0,2.0,2,5,5,10,13,10
+UBCV,2020,W,MUSC,220,,OVERALL,History of Music III,,49,82.306122449,9.517974403,98.0,57.0,0,0,2.0,0.0,2.0,2,5,5,10,13,10
+UBCV,2020,W,MUSC,221,,001,History of Music IV,Catherine Anne Laub;Catherine Laub;Christina Hutten;David Metzer,49,82.224489796,9.179382028,95.0,56.0,0,0,3.0,1.0,0.0,1,3,3,13,16,9
+UBCV,2020,W,MUSC,221,,OVERALL,History of Music IV,,49,82.224489796,9.179382028,95.0,56.0,0,0,3.0,1.0,0.0,1,3,3,13,16,9
+UBCV,2020,W,MUSC,235,,001,Opera Repertoire II,Emma Jang;Richard Arthur Epp,6,90.333333333,4.179314138,96.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,3,3
+UBCV,2020,W,MUSC,235,,OVERALL,Opera Repertoire II,,6,90.333333333,4.179314138,96.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,3,3
+UBCV,2020,W,MUSC,236,C,001,Piano Repertoire II,Corey Hamm,19,90.105263158,1.486783883,92.0,89.0,0,0,0.0,0.0,0.0,0,0,0,0,12,7
+UBCV,2020,W,MUSC,236,C,OVERALL,Piano Repertoire II,,19,90.105263158,1.486783883,92.0,89.0,0,0,0.0,0.0,0.0,0,0,0,0,12,7
+UBCV,2020,W,MUSC,249,,001,Collaborative Piano II,Rena Sharon,9,91.888888889,1.615893286,94.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,9
+UBCV,2020,W,MUSC,249,,OVERALL,Collaborative Piano II,,9,91.888888889,1.615893286,94.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,9
+UBCV,2020,W,MUSC,282,A,OVERALL,Music Performance (Concentration),,6,86.666666667,2.658320272,90.0,82.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,282,D,OVERALL,Music Performance (Concentration),,7,83.0,4.123105626,89.0,78.0,0,0,0.0,0.0,0.0,0,0,,,,0
+UBCV,2020,W,MUSC,292,B,OVERALL,Music Performance (Major),,8,85.5,2.138089935,89.0,83.0,0,0,0.0,0.0,0.0,0,0,0,,,0
+UBCV,2020,W,MUSC,293,C,OVERALL,Music Performance (Major),,9,91.888888889,2.619372274,96.0,88.0,0,0,0.0,0.0,0.0,0,0,0,0,,
+UBCV,2020,W,MUSC,305,,001,Readings in Orchestral Repertoire,Jonathan Girard,27,90.37037037,7.115249864,98.0,65.0,0,0,0.0,0.0,1.0,0,0,0,3,5,18
+UBCV,2020,W,MUSC,305,,OVERALL,Readings in Orchestral Repertoire,,27,90.37037037,7.115249864,98.0,65.0,0,0,0.0,0.0,1.0,0,0,0,3,5,18
+UBCV,2020,W,MUSC,309,,001,Instrumentation,Frederick Stride;Stephen Chatman;Walker Williams,54,85.388888889,9.879303059,96.0,31.0,1,0,0.0,0.0,1.0,2,0,4,6,20,20
+UBCV,2020,W,MUSC,309,,OVERALL,Instrumentation,,54,85.388888889,9.879303059,96.0,31.0,1,0,0.0,0.0,1.0,2,0,4,6,20,20
+UBCV,2020,W,MUSC,310,,001,Orchestration,Frederick Stride;Walker Williams,35,78.914285714,14.597283044,92.0,9.0,1,0,0.0,2.0,1.0,2,2,3,10,11,3
+UBCV,2020,W,MUSC,310,,OVERALL,Orchestration,,35,78.914285714,14.597283044,92.0,9.0,1,0,0.0,2.0,1.0,2,2,3,10,11,3
+UBCV,2020,W,MUSC,311,,001,Fundamentals of Conducting,Chi Shi Monica Chen;James A Sparks;James Sparks;Minna Stelzner;Robert Taylor,17,85.235294118,8.656857194,97.0,66.0,0,0,0.0,0.0,1.0,1,1,0.0,4,5,5
+UBCV,2020,W,MUSC,311,,002,Fundamentals of Conducting,Chi Shi Monica Chen;James A Sparks;James Sparks;Jonathan Girard;Monica Chen,19,87.684210526,5.110475424,97.0,81.0,0,0,0.0,0.0,0.0,0,0,0,7,5,7
+UBCV,2020,W,MUSC,311,,OVERALL,Fundamentals of Conducting,,36,86.527777778,7.016250977,97.0,66.0,0,0,0.0,0.0,1.0,1,1,0.0,11,10,12
+UBCV,2020,W,MUSC,312,,001,Instrumental Conducting,Chi Shi Monica Chen;Jonathan Girard;Minna Stelzner;Monica Chen;Robert Taylor,25,89.32,3.902136167,96.0,76.0,0,0,0.0,0.0,0.0,0,0,1,0.0,10,14
+UBCV,2020,W,MUSC,312,,OVERALL,Instrumental Conducting,,25,89.32,3.902136167,96.0,76.0,0,0,0.0,0.0,0.0,0,0,1,0.0,10,14
+UBCV,2020,W,MUSC,313,,001,Choral Conducting,Elvin Do;Graeme Langager;Han-Ah Park;James A Sparks;James Sparks,26,83.615384615,13.341894687,98.0,36.0,1,0,0.0,2.0,0.0,0,1,2,3,6,11
+UBCV,2020,W,MUSC,313,,OVERALL,Choral Conducting,,26,83.615384615,13.341894687,98.0,36.0,1,0,0.0,2.0,0.0,0,1,2,3,6,11
+UBCV,2020,W,MUSC,319,A,001,Electroacoustic Music,Michael Ducharme;Robert Pritchard,37,79.027027027,9.616208789,91.0,39.0,1,0,0.0,0.0,3.0,1,2,6,15,7,2
+UBCV,2020,W,MUSC,319,A,OVERALL,Electroacoustic Music,,37,79.027027027,9.616208789,91.0,39.0,1,0,0.0,0.0,3.0,1,2,6,15,7,2
+UBCV,2020,W,MUSC,320,,001,Computer Music,Keith Hamel;Michael Ducharme,30,79.433333333,10.437608833,97.0,60.0,0,0,0.0,3.0,3.0,2,2,3,6,6,5
+UBCV,2020,W,MUSC,320,,OVERALL,Computer Music,,30,79.433333333,10.437608833,97.0,60.0,0,0,0.0,3.0,3.0,2,2,3,6,6,5
+UBCV,2020,W,MUSC,323,,001,History of Popular Music,David Metzer;Kathryn Amelia Anderson;Kathryn Anderson;Nathan Hesselink;Wei-An Wang,99,89.060606061,4.5284096,96.0,69.0,0,0,0.0,0.0,0.0,1,1,1,10,32,54
+UBCV,2020,W,MUSC,323,,OVERALL,History of Popular Music,,99,89.060606061,4.5284096,96.0,69.0,0,0,0.0,0.0,0.0,1,1,1,10,32,54
+UBCV,2020,W,MUSC,328,D,001,World Music Cultures,Michael Tenzer;Nathan Hesselink,32,85.5,7.857603673,97.0,55.0,0,0,1.0,0.0,0.0,0,2,0,10,8,11
+UBCV,2020,W,MUSC,328,D,OVERALL,World Music Cultures,,32,85.5,7.857603673,97.0,55.0,0,0,1.0,0.0,0.0,0,2,0,10,8,11
+UBCV,2020,W,MUSC,336,,001,Opera Theatre Techniques I,Emma Petersen;Nancy Jane Hermiston,13,83.307692308,4.230536124,90.0,78.0,0,0,0.0,0.0,0.0,0,0,3,3,6,1
+UBCV,2020,W,MUSC,336,,OVERALL,Opera Theatre Techniques I,,13,83.307692308,4.230536124,90.0,78.0,0,0,0.0,0.0,0.0,0,0,3,3,6,1
+UBCV,2020,W,MUSC,339,C,001,Opera Workshop I,Nancy Jane Hermiston,9,84.444444444,4.216370214,90.0,79.0,0,0,0.0,0.0,0.0,0,0,1,3,3,2
+UBCV,2020,W,MUSC,339,C,OVERALL,Opera Workshop I,,9,84.444444444,4.216370214,90.0,79.0,0,0,0.0,0.0,0.0,0,0,1,3,3,2
+UBCV,2020,W,MUSC,340,,001,Piano Pedagogy I: Theory and Studio Management,Leonard Anderson,20,89.8,1.852452144,94.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,10,10
+UBCV,2020,W,MUSC,340,,OVERALL,Piano Pedagogy I: Theory and Studio Management,,20,89.8,1.852452144,94.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,10,10
+UBCV,2020,W,MUSC,349,,001,Keyboard Harmony and Transposition,Patricia Hoy,19,89.368421053,5.579830009,99.0,78.0,0,0,0.0,0.0,0.0,0,0,1,2,6,10
+UBCV,2020,W,MUSC,349,,OVERALL,Keyboard Harmony and Transposition,,19,89.368421053,5.579830009,99.0,78.0,0,0,0.0,0.0,0.0,0,0,1,2,6,10
+UBCV,2020,W,MUSC,352,,001,History of Medieval Music,Alexander John Fisher,24,81.166666667,11.099027246,97.0,58.0,0,0,1.0,2.0,0.0,2,0,4,5,6,4
+UBCV,2020,W,MUSC,352,,OVERALL,History of Medieval Music,,24,81.166666667,11.099027246,97.0,58.0,0,0,1.0,2.0,0.0,2,0,4,5,6,4
+UBCV,2020,W,MUSC,358,,001,History of Jazz,David Metzer,19,85.052631579,2.592160922,90.0,79.0,0,0,0.0,0.0,0.0,0,0,1,5,12,1
+UBCV,2020,W,MUSC,358,,OVERALL,History of Jazz,,19,85.052631579,2.592160922,90.0,79.0,0,0,0.0,0.0,0.0,0,0,1,5,12,1
+UBCV,2020,W,MUSC,365,,001,Song Repertoire I,Richard Arthur Epp,11,90.0,2.863564213,93.0,84.0,0,0,0.0,0.0,0.0,0,0,0,1,3,7
+UBCV,2020,W,MUSC,365,,OVERALL,Song Repertoire I,,11,90.0,2.863564213,93.0,84.0,0,0,0.0,0.0,0.0,0,0,0,1,3,7
+UBCV,2020,W,MUSC,371,S,001,Music Performance (Secondary),Rena Sharon,11,90.0,0.0,90.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,11
+UBCV,2020,W,MUSC,371,S,OVERALL,Music Performance (Secondary),,11,90.0,0.0,90.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,11
+UBCV,2020,W,MUSC,382,A,OVERALL,Music Performance (Concentration),,13,84.461538462,5.026850979,89.0,70.0,0,0,0.0,0.0,0.0,,,,,,0
+UBCV,2020,W,MUSC,382,D,OVERALL,Music Performance (Concentration),,14,85.714285714,5.966941897,98.0,74.0,0,0,0.0,0.0,0.0,0,,,,,
+UBCV,2020,W,MUSC,393,B,OVERALL,Music Performance (Major),,6,88.333333333,3.669695719,94.0,83.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,394,A,OVERALL,Music Performance (Major),,9,87.888888889,2.619372274,92.0,83.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,394,C,OVERALL,Music Performance (Major),,6,92.0,2.75680975,95.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,,
+UBCV,2020,W,MUSC,394,D,OVERALL,Music Performance (Major),,9,88.333333333,6.403124237,94.0,73.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,403,E,001,Selected Topics in Music,Sin Yan Hedy Law,9,78.222222222,18.886356039,91.0,30.0,1,0,0.0,0.0,0.0,0,0,3,1,3,1
+UBCV,2020,W,MUSC,403,E,OVERALL,Selected Topics in Music,,9,78.222222222,18.886356039,91.0,30.0,1,0,0.0,0.0,0.0,0,0,3,1,3,1
+UBCV,2020,W,MUSC,403,H,001,Selected Topics in Music,Claudio Vellutini,8,76.25,16.472921503,93.0,45.0,1,0,0.0,1.0,0.0,0,2,0,1,0,3
+UBCV,2020,W,MUSC,403,H,OVERALL,Selected Topics in Music,,8,76.25,16.472921503,93.0,45.0,1,0,0.0,1.0,0.0,0,2,0,1,0,3
+UBCV,2020,W,MUSC,403,M,001,Selected Topics in Music,Michael Tenzer,8,87.125,6.577830732,93.0,75.0,0,0,0.0,0.0,0.0,0,1,0.0,2,1,4
+UBCV,2020,W,MUSC,403,M,OVERALL,Selected Topics in Music,,8,87.125,6.577830732,93.0,75.0,0,0,0.0,0.0,0.0,0,1,0.0,2,1,4
+UBCV,2020,W,MUSC,403,P,001,Selected Topics in Music,Claudio Vellutini,6,85.166666667,9.867454923,97.0,68.0,0,0,0.0,0.0,0.0,1,0,0,1,2,2
+UBCV,2020,W,MUSC,403,P,OVERALL,Selected Topics in Music,,6,85.166666667,9.867454923,97.0,68.0,0,0,0.0,0.0,0.0,1,0,0,1,2,2
+UBCV,2020,W,MUSC,403,R,001,Selected Topics in Music,Leigh Van Handel,9,80.555555556,15.645375604,94.0,43.0,1,0,0.0,0.0,0.0,0,1,1,1,2,3
+UBCV,2020,W,MUSC,403,R,OVERALL,Selected Topics in Music,,9,80.555555556,15.645375604,94.0,43.0,1,0,0.0,0.0,0.0,0,1,1,1,2,3
+UBCV,2020,W,MUSC,403,U,001,Selected Topics in Music,Leigh Van Handel,6,91.666666667,4.966554809,97.0,83.0,0,0,0.0,0.0,0.0,0,0,0,1,1,4
+UBCV,2020,W,MUSC,403,U,OVERALL,Selected Topics in Music,,6,91.666666667,4.966554809,97.0,83.0,0,0,0.0,0.0,0.0,0,0,0,1,1,4
+UBCV,2020,W,MUSC,409,D,001,Jazz Theory and Arranging,Frederick Stride;Michael Ducharme,17,81.058823529,6.542845217,90.0,69.0,0,0,0.0,0.0,0.0,2,2,2,5,5,1
+UBCV,2020,W,MUSC,409,D,OVERALL,Jazz Theory and Arranging,,17,81.058823529,6.542845217,90.0,69.0,0,0,0.0,0.0,0.0,2,2,2,5,5,1
+UBCV,2020,W,MUSC,411,,001,Analysis of Tonal Music,Leigh Van Handel,7,89.714285714,5.908025212,96.0,78.0,0,0,0.0,0.0,0.0,0,0,1,0.0,1,5
+UBCV,2020,W,MUSC,411,,OVERALL,Analysis of Tonal Music,,7,89.714285714,5.908025212,96.0,78.0,0,0,0.0,0.0,0.0,0,0,1,0.0,1,5
+UBCV,2020,W,MUSC,419,,001,Interactive Performance Systems,Robert Pritchard,9,89.111111111,2.204792759,93.0,88.0,0,0,0.0,0.0,0.0,0,0,0,0,7,2
+UBCV,2020,W,MUSC,419,,OVERALL,Interactive Performance Systems,,9,89.111111111,2.204792759,93.0,88.0,0,0,0.0,0.0,0.0,0,0,0,0,7,2
+UBCV,2020,W,MUSC,420,,002,Music Technology Capstone Project,Robert Pritchard,6,88.0,5.899152482,95.0,80.0,0,0,0.0,0.0,0.0,0,0,0,2,1,3
+UBCV,2020,W,MUSC,420,,OVERALL,Music Technology Capstone Project,,8,88.375,5.370222129,95.0,80.0,0,0,0.0,0.0,0.0,0,0,0,2,2,4
+UBCV,2020,W,MUSC,430,I,001,Major Composers,Sin Yan Hedy Law,9,79.222222222,9.743943988,89.0,56.0,0,0,1.0,0.0,0.0,0,1,1,3,3,0
+UBCV,2020,W,MUSC,430,I,OVERALL,Major Composers,,9,79.222222222,9.743943988,89.0,56.0,0,0,1.0,0.0,0.0,0,1,1,3,3,0
+UBCV,2020,W,MUSC,436,,001,Opera Theatre Techniques II,Emma Petersen;Nancy Jane Hermiston,9,85.0,2.645751311,90.0,82.0,0,0,0.0,0.0,0.0,0,0,0,4,4,1
+UBCV,2020,W,MUSC,436,,OVERALL,Opera Theatre Techniques II,,9,85.0,2.645751311,90.0,82.0,0,0,0.0,0.0,0.0,0,0,0,4,4,1
+UBCV,2020,W,MUSC,439,C,001,Opera Workshop II,Nancy Jane Hermiston,11,88.909090909,4.504543161,98.0,84.0,0,0,0.0,0.0,0.0,0,0,0,1,7,3
+UBCV,2020,W,MUSC,439,C,OVERALL,Opera Workshop II,,11,88.909090909,4.504543161,98.0,84.0,0,0,0.0,0.0,0.0,0,0,0,1,7,3
+UBCV,2020,W,MUSC,442,C,001,Song Interpretation,Rena Sharon,17,93.941176471,0.55571893,95.0,92.0,0,0,0.0,0.0,0.0,0,0,0,0,0,17
+UBCV,2020,W,MUSC,442,C,OVERALL,Song Interpretation,,17,93.941176471,0.55571893,95.0,92.0,0,0,0.0,0.0,0.0,0,0,0,0,0,17
+UBCV,2020,W,MUSC,455,,001,History of Opera II,Claudio Vellutini,21,78.952380952,10.399404745,93.0,56.0,0,0,2.0,0.0,0.0,3,2,5,1,4,4
+UBCV,2020,W,MUSC,455,,OVERALL,History of Opera II,,21,78.952380952,10.399404745,93.0,56.0,0,0,2.0,0.0,0.0,3,2,5,1,4,4
+UBCV,2020,W,MUSC,482,A,OVERALL,Music Performance (Concentration),,15,87.6,2.292846017,91.0,83.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,482,D,OVERALL,Music Performance (Concentration),,9,84.222222222,4.944132325,89.0,75.0,0,0,0.0,0.0,0.0,0,,,,,0
+UBCV,2020,W,MUSC,493,B,OVERALL,Music Performance (Major),,10,86.3,5.437523946,95.0,77.0,0,0,0.0,0.0,0.0,0,0,,,,
+UBCV,2020,W,MUSC,494,C,OVERALL,Music Performance (Major),,12,92.25,2.137330536,95.0,88.0,0,0,0.0,0.0,0.0,0,0,0,0,,
+UBCV,2020,W,MUSC,494,D,OVERALL,Music Performance (Major),,9,93.222222222,2.386303511,96.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,9.0
+UBCV,2020,W,MUSC,500,A,001,Advanced Musical Analysis,David Dodson;Leigh Van Handel,6,92.833333333,5.455883674,97.0,85.0,0,0,0.0,0.0,0.0,0,0,0,0,2,4
+UBCV,2020,W,MUSC,500,A,OVERALL,Advanced Musical Analysis,,6,92.833333333,5.455883674,97.0,85.0,0,0,0.0,0.0,0.0,0,0,0,0,2,4
+UBCV,2020,W,MUSC,506,,001,Readings in Orchestral Repertoire,Jonathan Girard,7,95.857142857,1.573591585,98.0,93.0,0,0,0.0,0.0,0.0,0,0,0,0,0,7
+UBCV,2020,W,MUSC,506,,OVERALL,Readings in Orchestral Repertoire,,7,95.857142857,1.573591585,98.0,93.0,0,0,0.0,0.0,0.0,0,0,0,0,0,7
+UBCV,2020,W,MUSC,509,B,001,Advanced Orchestration and Arranging,Dorothy Chang Bortolussi;Keith Hamel,6,89.5,1.643167673,92.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,3,3
+UBCV,2020,W,MUSC,509,B,OVERALL,Advanced Orchestration and Arranging,,6,89.5,1.643167673,92.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,3,3
+UBCV,2020,W,MUSC,520,A,001,Introduction to Music Research,Sin Yan Hedy Law,13,78.461538462,8.752289078,93.0,68.0,0,0,0.0,0.0,0.0,4,2,1,1,4,1
+UBCV,2020,W,MUSC,520,A,OVERALL,Introduction to Music Research,,13,78.461538462,8.752289078,93.0,68.0,0,0,0.0,0.0,0.0,4,2,1,1,4,1
+UBCV,2020,W,MUSC,521,D,001,Seminar in Performance Practices,Rena Sharon,7,93.428571429,1.718249386,95.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,7
+UBCV,2020,W,MUSC,521,D,OVERALL,Seminar in Performance Practices,,7,93.428571429,1.718249386,95.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,7
+UBCV,2020,W,MUSC,529,H,001,Introduction to Ethnomusicology,Nathan Hesselink,9,89.333333333,4.272001873,94.0,83.0,0,0,0.0,0.0,0.0,0,0,0,2,2,5
+UBCV,2020,W,MUSC,529,H,OVERALL,Introduction to Ethnomusicology,,9,89.333333333,4.272001873,94.0,83.0,0,0,0.0,0.0,0.0,0,0,0,2,2,5
+UBCV,2020,W,MUSC,532,B,001,Advanced Studies in Music History and Musicology,Nathan Hesselink,10,90.9,2.726414006,95.0,88.0,0,0,0.0,0.0,0.0,0,0,0,0,3,7
+UBCV,2020,W,MUSC,532,B,OVERALL,Advanced Studies in Music History and Musicology,,10,90.9,2.726414006,95.0,88.0,0,0,0.0,0.0,0.0,0,0,0,0,3,7
+UBCV,2020,W,MUSC,532,E,001,Advanced Studies in Music History and Musicology,Nathan Hesselink;Sin Yan Hedy Law,8,85.5,7.010196655,93.0,73.0,0,0,0.0,0.0,0.0,0,1,1,0.0,3,3
+UBCV,2020,W,MUSC,532,E,OVERALL,Advanced Studies in Music History and Musicology,,8,85.5,7.010196655,93.0,73.0,0,0,0.0,0.0,0.0,0,1,1,0.0,3,3
+UBCV,2020,W,MUSC,532,S,001,Advanced Studies in Music History and Musicology,David Metzer;Rena Sharon;Thomas Carrabre,9,92.111111111,0.927960727,93.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,9
+UBCV,2020,W,MUSC,532,S,OVERALL,Advanced Studies in Music History and Musicology,,9,92.111111111,0.927960727,93.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,9
+UBCV,2020,W,MUSC,532,T,001,Advanced Studies in Music History and Musicology,Alexander John Fisher,7,92.142857143,2.60950643,95.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,1,6
+UBCV,2020,W,MUSC,532,T,OVERALL,Advanced Studies in Music History and Musicology,,7,92.142857143,2.60950643,95.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,1,6
+UBCV,2020,W,MUSC,532,X,001,Advanced Studies in Music History and Musicology,Rena Sharon,6,93.0,0.0,93.0,93.0,0,0,0.0,0.0,0.0,0,0,0,0,0,6
+UBCV,2020,W,MUSC,532,X,OVERALL,Advanced Studies in Music History and Musicology,,6,93.0,0.0,93.0,93.0,0,0,0.0,0.0,0.0,0,0,0,0,0,6
+UBCV,2020,W,MUSC,533,A,001,Advanced Studies in Music Theory,John Barlow Roeder,7,87.714285714,2.497617913,92.0,85.0,0,0,0.0,0.0,0.0,0,0,0,0,6,1
+UBCV,2020,W,MUSC,533,A,OVERALL,Advanced Studies in Music Theory,,7,87.714285714,2.497617913,92.0,85.0,0,0,0.0,0.0,0.0,0,0,0,0,6,1
+UBCV,2020,W,MUSC,533,D,001,Advanced Studies in Music Theory,John Barlow Roeder;Michael Tenzer,8,88.625,4.172614802,96.0,82.0,0,0,0.0,0.0,0.0,0,0,0,1,4,3
+UBCV,2020,W,MUSC,533,D,OVERALL,Advanced Studies in Music Theory,,8,88.625,4.172614802,96.0,82.0,0,0,0.0,0.0,0.0,0,0,0,1,4,3
+UBCV,2020,W,MUSC,533,R,001,Advanced Studies in Music Theory,Leigh Van Handel;Rena Sharon,7,90.428571429,4.755948656,97.0,84.0,0,0,0.0,0.0,0.0,0,0,0,1,1,5
+UBCV,2020,W,MUSC,533,R,OVERALL,Advanced Studies in Music Theory,,7,90.428571429,4.755948656,97.0,84.0,0,0,0.0,0.0,0.0,0,0,0,1,1,5
+UBCV,2020,W,MUSC,535,,001,"Art Song: Interpretation, Collaboration, and Performance",Rena Sharon,16,93.4375,0.963932916,94.0,91.0,0,0,0.0,0.0,0.0,0,0,0,0,0,16
+UBCV,2020,W,MUSC,535,,OVERALL,"Art Song: Interpretation, Collaboration, and Performance",,16,93.4375,0.963932916,94.0,91.0,0,0,0.0,0.0,0.0,0,0,0,0,0,16
+UBCV,2020,W,MUSC,537,C,001,Seminar in the Literature of Opera,James Raftery,18,91.111111111,4.36414386,98.0,82.0,0,0,0.0,0.0,0.0,0,0,0,1,3,14
+UBCV,2020,W,MUSC,537,C,OVERALL,Seminar in the Literature of Opera,,18,91.111111111,4.36414386,98.0,82.0,0,0,0.0,0.0,0.0,0,0,0,1,3,14
+UBCV,2020,W,MUSC,539,C,001,Opera Production,Nancy Jane Hermiston,17,90.941176471,6.279635621,100.0,78.0,0,0,0.0,0.0,0.0,0,0,1,1,5,10
+UBCV,2020,W,MUSC,539,C,OVERALL,Opera Production,,17,90.941176471,6.279635621,100.0,78.0,0,0,0.0,0.0,0.0,0,0,1,1,5,10
+UBCV,2020,W,MUSC,549,A,OVERALL,Master's Thesis,,22,91.5,5.262174094,100.0,80.0,0,0,0.0,0.0,0.0,0,0,0,,,
+UBCV,2020,W,MUSC,550,A,001,Large Instrumental Ensemble,Chi Shi Monica Chen;Jonathan Girard;Minna Stelzner;Monica Chen;Robert Taylor;Ruijie Guo,18,99.055555556,2.577555208,100.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,18
+UBCV,2020,W,MUSC,550,A,OVERALL,Large Instrumental Ensemble,,18,99.055555556,2.577555208,100.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,18
+UBCV,2020,W,MUSC,560,A,001,String Chamber Ensembles,Caroline Dawn Olsen;Caroline Olsen;David Gillham;Eric Wilson;Jasper Wood;Marina Thibeault,6,95.333333333,1.032795559,96.0,94.0,0,0,0.0,0.0,0.0,0,0,0,0,0,6
+UBCV,2020,W,MUSC,560,A,OVERALL,String Chamber Ensembles,,6,95.333333333,1.032795559,96.0,94.0,0,0,0.0,0.0,0.0,0,0,0,0,0,6
+UBCV,2020,W,MUSC,569,A,001,Intensive Specialized Chamber Ensemble,,6,92.666666667,2.250925735,95.0,90.0,0,0,0.0,0.0,0.0,0,0,0,0,0,6
+UBCV,2020,W,MUSC,569,A,OVERALL,Intensive Specialized Chamber Ensemble,,7,91.571428571,3.552329886,95.0,85.0,0,0,0.0,0.0,0.0,0,0,0,0,1.0,6
+UBCV,2020,W,MUSC,591,B,OVERALL,Music Performance (Major),,7,95.571428571,4.613644361,99.0,87.0,0,0,0.0,0.0,0.0,0,0,0,0,,
+UBCV,2020,W,MUSC,593,B,OVERALL,Music Performance (Major),,15,90.266666667,5.216274898,99.0,78.0,0,0,0.0,0.0,0.0,0,0,,,,

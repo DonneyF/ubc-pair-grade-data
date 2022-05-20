@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,ENPH,259,,101,Experimental Techniques,Alexandra Tully;Andre Marziali;Brandon Stuart;David Jones;Maxwell Werner;Timothy Child,62,87.62903226,6.079349272,96.0,66.0,0,0,0,0,1,0.0,3.0,2.0,10,18,28
-UBCV,2020,W,ENPH,259,,OVERALL,Experimental Techniques,,62,87.62903226,6.079349272,96.0,66.0,0,0,0,0,1,0.0,3.0,2.0,10,18,28
-UBCV,2020,W,ENPH,352,,L1A,Laboratory Techniques in Physics,Christopher Waltham;Ryan Harvey;Valery Milner;William Porter;William Samuel Porter,12,83.5,5.265669257,94.0,75.0,0,0,0,0,0,0.0,1.0,2.0,4,4,1
-UBCV,2020,W,ENPH,352,,L1B,Laboratory Techniques in Physics,Christopher Waltham;Valery Milner,11,82.90909091,8.09264537,95.0,69.0,0,0,0,0,0,1.0,0.0,3.0,4,0,3
-UBCV,2020,W,ENPH,352,,L2C,Laboratory Techniques in Physics,Maxwell Werner;Ryan Harvey;Stefan Reinsberg;Valery Milner;William Porter,15,82.66666667,10.20270739,96.0,66.0,0,0,0,0,2,1.0,2.0,0.0,2,4,4
-UBCV,2020,W,ENPH,352,,L2D,Laboratory Techniques in Physics,Maxwell Werner;Ryan Harvey;Stefan Reinsberg;Valery Milner;William Porter,19,79.21052632,20.6924005,93.0,0.0,1,0,0,0,1,0.0,2.0,1.0,4,5,5
-UBCV,2020,W,ENPH,352,,OVERALL,Laboratory Techniques in Physics,,57,81.73684211,13.56930138,96.0,0.0,1,0,0,0,3,2.0,5.0,6.0,14,13,13
-UBCV,2020,W,ENPH,353,,101,Engineering Physics Project I,Ioan Isbasescu;Ioan Mitrut Isbasescu;Joshua White,40,88.55,5.027871038,97.0,69.0,0,0,0,0,0,1.0,0.0,1.0,4,17,17
-UBCV,2020,W,ENPH,353,,201,Engineering Physics Project I,Ioan Isbasescu;Ioan Mitrut Isbasescu;Thien Ho,24,87.41666667,4.862605015,94.0,79.0,0,0,0,0,0,0.0,0.0,2.0,2,12,8
-UBCV,2020,W,ENPH,353,,OVERALL,Engineering Physics Project I,,64,88.125,4.958558418,97.0,69.0,0,0,0,0,0,1.0,0.0,3.0,6,29,25
-UBCV,2020,W,ENPH,459,,001,Engineering Physics Project II,Andre Marziali;Dylan Gunn,60,85.2,5.174251768,96.0,71.0,0,0,0,0,0,1.0,3.0,2.0,14,27,13
-UBCV,2020,W,ENPH,459,,OVERALL,Engineering Physics Project II,,60,85.2,5.174251768,96.0,71.0,0,0,0,0,0,1.0,3.0,2.0,14,27,13
-UBCV,2020,W,ENPH,479,,101,Engineering Physics Project III,Andre Marziali;Dylan Gunn,46,86.30434783,7.10827238,93.0,49.0,1,0,0,0,0,0.0,1.0,1.0,11,12,20
-UBCV,2020,W,ENPH,479,,OVERALL,Engineering Physics Project III,,46,86.30434783,7.10827238,93.0,49.0,1,0,0,0,0,0.0,1.0,1.0,11,12,20
+UBCV,2020,W,ENPH,259,,101,Experimental Techniques,Alexandra Tully;Andre Marziali;Brandon Stuart;David Jones;Maxwell Werner;Timothy Child,62,87.629032258,6.079349272,96.0,66.0,0,0,0,0.0,1,0.0,3.0,2.0,10,18,28
+UBCV,2020,W,ENPH,259,,OVERALL,Experimental Techniques,,62,87.629032258,6.079349272,96.0,66.0,0,0,0,0.0,1,0.0,3.0,2.0,10,18,28
+UBCV,2020,W,ENPH,352,,L1A,Laboratory Techniques in Physics,Christopher Waltham;Ryan Harvey;Valery Milner;William Porter;William Samuel Porter,12,83.5,5.265669257,94.0,75.0,0,0,0,0.0,0,0.0,1.0,2.0,4,4,1
+UBCV,2020,W,ENPH,352,,L1B,Laboratory Techniques in Physics,Christopher Waltham;Valery Milner,11,82.909090909,8.09264537,95.0,69.0,0,0,0,0.0,0,1.0,0.0,3.0,4,0,3
+UBCV,2020,W,ENPH,352,,L2C,Laboratory Techniques in Physics,Maxwell Werner;Ryan Harvey;Stefan Reinsberg;Valery Milner;William Porter,15,82.666666667,10.20270739,96.0,66.0,0,0,0,0.0,2,1.0,2.0,0.0,2,4,4
+UBCV,2020,W,ENPH,352,,L2D,Laboratory Techniques in Physics,Maxwell Werner;Ryan Harvey;Stefan Reinsberg;Valery Milner;William Porter,19,82.105263158,10.164725153,93.0,55.0,0,0,1,0.0,1,0.0,2.0,1.0,4,5,5
+UBCV,2020,W,ENPH,352,,OVERALL,Laboratory Techniques in Physics,,57,82.701754386,8.754519062,96.0,55.0,0,0,1,0.0,3,2.0,5.0,6.0,14,13,13
+UBCV,2020,W,ENPH,353,,101,Engineering Physics Project I,Ioan Isbasescu;Ioan Mitrut Isbasescu;Joshua White,40,88.55,5.027871038,97.0,69.0,0,0,0,0.0,0,1.0,0.0,1.0,4,17,17
+UBCV,2020,W,ENPH,353,,201,Engineering Physics Project I,Ioan Isbasescu;Ioan Mitrut Isbasescu;Thien Ho,24,87.416666667,4.862605015,94.0,79.0,0,0,0,0.0,0,0.0,0.0,2.0,2,12,8
+UBCV,2020,W,ENPH,353,,OVERALL,Engineering Physics Project I,,64,88.125,4.958558418,97.0,69.0,0,0,0,0.0,0,1.0,0.0,3.0,6,29,25
+UBCV,2020,W,ENPH,459,,001,Engineering Physics Project II,Andre Marziali;Dylan Gunn,60,85.2,5.174251768,96.0,71.0,0,0,0,0.0,0,1.0,3.0,2.0,14,27,13
+UBCV,2020,W,ENPH,459,,OVERALL,Engineering Physics Project II,,60,85.2,5.174251768,96.0,71.0,0,0,0,0.0,0,1.0,3.0,2.0,14,27,13
+UBCV,2020,W,ENPH,479,,101,Engineering Physics Project III,Andre Marziali;Dylan Gunn,46,86.695652174,5.265694278,93.0,67.0,0,0,0,0.0,1,0.0,1.0,1.0,11,12,20
+UBCV,2020,W,ENPH,479,,OVERALL,Engineering Physics Project III,,46,86.695652174,5.265694278,93.0,67.0,0,0,0,0.0,1,0.0,1.0,1.0,11,12,20

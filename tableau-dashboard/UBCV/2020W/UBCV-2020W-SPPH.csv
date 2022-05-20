@@ -1,100 +1,104 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2020,W,SPPH,300,,002,Working in International Health,Amanda Nitschke;Prince Adu;Rebecca Wolff,96,88.15625,4.240973386,94.0,71.0,0,0.0,0,0,0,1,1,3,8,40,43
 UBCV,2020,W,SPPH,300,,OVERALL,Working in International Health,,96,88.15625,4.240973386,94.0,71.0,0,0.0,0,0,0,1,1,3,8,40,43
-UBCV,2020,W,SPPH,301,,001,Understanding the Sociocultural Determinants of the Health of Populations,Carly Magee;Eva Oberle;Salima Sayani,48,82.0,9.90594062,97.0,50.0,0,1.0,0.0,2,2,3,1,2,14,13,10
-UBCV,2020,W,SPPH,301,,002,Understanding the Sociocultural Determinants of the Health of Populations,Jennifer Murray;Martin Guhn;Rachel Lai,48,89.45833333,4.366011537,98.0,81.0,0,0.0,0,0,0,0,0,0,8,16,24
-UBCV,2020,W,SPPH,301,,OVERALL,Understanding the Sociocultural Determinants of the Health of Populations,,96,85.72916667,8.487116139,98.0,50.0,0,1.0,0.0,2,2,3,1,2,22,29,34
-UBCV,2020,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Adam Jafar Kahnamelli;Adam Kahnamelli;Lawrence Frisch;Niki Oveisi;Rachel Lai;Rachel Mun Suet Lai,61,89.65573771,5.153915165,98.0,75.0,0,0.0,0,0,0,0,2,1,4,19,35
-UBCV,2020,W,SPPH,302,,OVERALL,Topics in Health Informatics for Health/Life Sciences Students,,61,89.65573771,5.153915165,98.0,75.0,0,0.0,0,0,0,0,2,1,4,19,35
-UBCV,2020,W,SPPH,381,A,002,Selected Topics,Daniel Steel;Kevin Bouliane,51,76.58823529,13.05247328,90.0,0.0,1,0.0,1,1,1,6,9,7,17,6,2
-UBCV,2020,W,SPPH,381,A,OVERALL,Selected Topics,,51,76.58823529,13.05247328,90.0,0.0,1,0.0,1,1,1,6,9,7,17,6,2
+UBCV,2020,W,SPPH,301,,001,Understanding the Sociocultural Determinants of the Health of Populations,Carly Magee;Eva Oberle;Salima Sayani,48,82.5625,9.624671865,97.0,50.0,0,1.0,0.0,2,1,3,1,2,14,13,11
+UBCV,2020,W,SPPH,301,,002,Understanding the Sociocultural Determinants of the Health of Populations,Jennifer Murray;Martin Guhn;Rachel Lai,48,89.458333333,4.366011537,98.0,81.0,0,0.0,0,0,0,0,0,0,8,16,24
+UBCV,2020,W,SPPH,301,,OVERALL,Understanding the Sociocultural Determinants of the Health of Populations,,96,86.010416667,8.202046974,98.0,50.0,0,1.0,0.0,2,1,3,1,2,22,29,35
+UBCV,2020,W,SPPH,302,,001,Topics in Health Informatics for Health/Life Sciences Students,Adam Jafar Kahnamelli;Adam Kahnamelli;Lawrence Frisch;Niki Oveisi;Rachel Lai;Rachel Mun Suet Lai,61,89.655737705,5.153915165,98.0,75.0,0,0.0,0,0,0,0,2,1,4,19,35
+UBCV,2020,W,SPPH,302,,OVERALL,Topics in Health Informatics for Health/Life Sciences Students,,61,89.655737705,5.153915165,98.0,75.0,0,0.0,0,0,0,0,2,1,4,19,35
+UBCV,2020,W,SPPH,381,A,002,Selected Topics,Daniel Steel;Kevin Bouliane,52,75.442307692,15.339828285,90.0,0.0,2,0.0,1,1,1,6,9,7,17,6,2
+UBCV,2020,W,SPPH,381,A,OVERALL,Selected Topics,,52,75.442307692,15.339828285,90.0,0.0,2,0.0,1,1,1,6,9,7,17,6,2
 UBCV,2020,W,SPPH,381,B,001,Selected Topics,Farah Shroff;Min Jung Kim;Tamasha Hussein,24,87.875,6.777921318,93.0,61.0,0,0.0,0,1,0,0,0,0,3,5,15
 UBCV,2020,W,SPPH,381,B,OVERALL,Selected Topics,,24,87.875,6.777921318,93.0,61.0,0,0.0,0,1,0,0,0,0,3,5,15
 UBCV,2020,W,SPPH,381,C,001,Selected Topics,Kate Rebecca Weinberger;Matilda Van Den Bosch;Monica Gobbo;Mu Li,64,91.328125,6.463707441,99.0,69.0,0,0.0,0,0,0,1,2,2,3,9,47
 UBCV,2020,W,SPPH,381,C,OVERALL,Selected Topics,,64,91.328125,6.463707441,99.0,69.0,0,0.0,0,0,0,1,2,2,3,9,47
-UBCV,2020,W,SPPH,381,D,001,Selected Topics,Ariel Sernick;Steven George Morgan;Steven Morgan,59,85.61016949,4.951547822,94.0,67.0,0,0.0,0,0,1,0.0,1,1,19,18,19
-UBCV,2020,W,SPPH,381,D,OVERALL,Selected Topics,,59,85.61016949,4.951547822,94.0,67.0,0,0.0,0,0,1,0.0,1,1,19,18,19
-UBCV,2020,W,SPPH,400,,001,Statistics for Health Research,Adian Mckerrell Nikiforuk;Boris Sobolev;Lianping Ti;Lourdes Gonzalez Arreola;Marie Paul Nisingizwe;Michael Marin,110,87.85454546,7.850479286,99.0,47.0,2,0.0,0,0,0,3,5,4,11,29,56
-UBCV,2020,W,SPPH,400,,OVERALL,Statistics for Health Research,,110,87.85454546,7.850479286,99.0,47.0,2,0.0,0,0,0,3,5,4,11,29,56
-UBCV,2020,W,SPPH,410,,002,Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions,David Birnbaum,71,92.77464789,4.558186303,97.0,85.0,0,0.0,0,0,0,0,0,0,0,31,40
-UBCV,2020,W,SPPH,410,,OVERALL,Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions,,71,92.77464789,4.558186303,97.0,85.0,0,0.0,0,0,0,0,0,0,0,31,40
-UBCV,2020,W,SPPH,500,,002,Analytical Methods in Epidemiological Research,Carly Magee;Marie Paul Nisingizwe;Michael Marin;Weiran Yuchi,97,81.48453608,11.97750792,95.0,4.0,2,0.0,0,3,3,4,5,12,17,25,26
+UBCV,2020,W,SPPH,381,D,001,Selected Topics,Ariel Sernick;Steven George Morgan;Steven Morgan,60,84.883333333,7.469920851,94.0,42.0,1,0.0,0,0,1,0,1,1,19,18,19
+UBCV,2020,W,SPPH,381,D,OVERALL,Selected Topics,,60,84.883333333,7.469920851,94.0,42.0,1,0.0,0,0,1,0,1,1,19,18,19
+UBCV,2020,W,SPPH,400,,001,Statistics for Health Research,Adian Mckerrell Nikiforuk;Aidan Nikiforuk;Boris Sobolev;Lianping Ti;Lourdes Gonzalez Arreola;Marie Paul Nisingizwe;Michael Marin,110,88.227272727,6.795383067,99.0,67.0,0,0.0,0,0,1.0,3,5,4,11,30,56
+UBCV,2020,W,SPPH,400,,OVERALL,Statistics for Health Research,,110,88.227272727,6.795383067,99.0,67.0,0,0.0,0,0,1.0,3,5,4,11,30,56
+UBCV,2020,W,SPPH,410,,002,Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions,David Birnbaum,71,92.774647887,4.558186303,97.0,85.0,0,0.0,0,0,0,0,0,0,0,31,40
+UBCV,2020,W,SPPH,410,,OVERALL,Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions,,71,92.774647887,4.558186303,97.0,85.0,0,0.0,0,0,0,0,0,0,0,31,40
+UBCV,2020,W,SPPH,500,,002,Analytical Methods in Epidemiological Research,Carly Magee;Marie Paul Nisingizwe;Michael Marin;Weiran Yuchi,96,81.833333333,11.589166145,95.0,4.0,1,0.0,0,3,3,4,5,11,18,25,26
 UBCV,2020,W,SPPH,500,,007,Analytical Methods in Epidemiological Research,Hubert Wong;Yong Dong Ouyang,10,88.5,5.296749527,96.0,78.0,0,0.0,0,0,0,0,0,1,1,4,4
-UBCV,2020,W,SPPH,500,,OVERALL,Analytical Methods in Epidemiological Research,,107,82.14018692,11.68408739,96.0,4.0,2,0.0,0,3,3,4,5,13,18,29,30
-UBCV,2020,W,SPPH,502,,001,Epidemiological Methods 1,Niki Oveisi;Reena Titoria;Sanjana Mitra;Trevor Dummer,102,86.21568628,8.475506295,97.0,38.0,2,0.0,0,0,0,2,2,5,23,28,40
-UBCV,2020,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Margo Pearce;Martin Schechter;Sameer Desai,19,88.21052632,4.263266189,95.0,78.0,0,0.0,0,0,0,0,0,1,3,9,6
-UBCV,2020,W,SPPH,502,,OVERALL,Epidemiological Methods 1,,121,86.52892562,7.982349675,97.0,38.0,2,0.0,0,0,0,2,2,6,26,37,46
-UBCV,2020,W,SPPH,503,,002,Epidemiological Methods 2,Ademola Itiola;Amee Manges;Sameer Desai,57,82.31578947,8.504532184,95.0,39.0,1,0.0,0,0,0,4,0,8,16,21,7
-UBCV,2020,W,SPPH,503,,OVERALL,Epidemiological Methods 2,,57,82.31578947,8.504532184,95.0,39.0,1,0.0,0,0,0,4,0,8,16,21,7
-UBCV,2020,W,SPPH,504,,001,Application of Epidemiological Methods,Caren L Rose;Caren Rose;Dahn Jeong;Mieke Koehoorn,37,85.91891892,4.609039297,94.0,75.0,0,0.0,0,0,0,0,1,2,10,16,8
-UBCV,2020,W,SPPH,504,,007,Application of Epidemiological Methods,Katherine Mcleod;Mohammad Ehsanul Karim;Yong Dong Ouyang,14,90.64285714,1.645840578,94.0,88.0,0,0.0,0,0,0,0,0,0,0,2,12
-UBCV,2020,W,SPPH,504,,OVERALL,Application of Epidemiological Methods,,51,87.21568628,4.531285581,94.0,75.0,0,0.0,0,0,0,0,1,2,10,18,20
-UBCV,2020,W,SPPH,510,,002,Survey Methods in Health Measurement,Iyoma Edache;Louise Masse,11,87.54545455,4.94699174,94.0,76.0,0,0.0,0,0,0,0,0,1,1,4,5
-UBCV,2020,W,SPPH,510,,OVERALL,Survey Methods in Health Measurement,,11,87.54545455,4.94699174,94.0,76.0,0,0.0,0,0,0,0,0,1,1,4,5
-UBCV,2020,W,SPPH,511,,002,Cancer Control and Epidemiology,Dean Regier;John Spinelli;Kaitlyn Gilham;Rachel Murphy,9,87.22222222,9.230083664,97.0,69.0,0,0.0,0,0,0,1,0,1,0,4,3
-UBCV,2020,W,SPPH,511,,OVERALL,Cancer Control and Epidemiology,,9,87.22222222,9.230083664,97.0,69.0,0,0.0,0,0,0,1,0,1,0,4,3
-UBCV,2020,W,SPPH,512,,002,The Design and Analysis of Clinical Trials,Joel Singer,15,87.73333333,5.687915343,94.0,77.0,0,0.0,0,0,0,0,0,2,2,4,7
-UBCV,2020,W,SPPH,512,,OVERALL,The Design and Analysis of Clinical Trials,,15,87.73333333,5.687915343,94.0,77.0,0,0.0,0,0,0,0,0,2,2,4,7
-UBCV,2020,W,SPPH,513,,002,Clinical Epidemiology,Ralph Brands,16,86.6875,3.30088372,95.0,82.0,0,0.0,0,0,0,0,0,0,2,12,2
-UBCV,2020,W,SPPH,513,,OVERALL,Clinical Epidemiology,,16,86.6875,3.30088372,95.0,82.0,0,0.0,0,0,0,0,0,0,2,12,2
+UBCV,2020,W,SPPH,500,,OVERALL,Analytical Methods in Epidemiological Research,,106,82.462264151,11.30290694,96.0,4.0,1,0.0,0,3,3,4,5,12,19,29,30
+UBCV,2020,W,SPPH,502,,001,Epidemiological Methods 1,Niki Oveisi;Reena Titoria;Sanjana Mitra;Trevor Dummer,102,86.558823529,7.798925452,97.0,38.0,1,0.0,0,0,0,2,2,5,23,29,40
+UBCV,2020,W,SPPH,502,,DL1,Epidemiological Methods 1,Joel Singer;Margo Pearce;Martin Schechter;Sameer Desai,19,88.210526316,4.263266189,95.0,78.0,0,0.0,0,0,0,0,0,1,3,9,6
+UBCV,2020,W,SPPH,502,,OVERALL,Epidemiological Methods 1,,121,86.818181818,7.367722398,97.0,38.0,1,0.0,0,0,0,2,2,6,26,38,46
+UBCV,2020,W,SPPH,503,,002,Epidemiological Methods 2,Ademola Itiola;Amee Manges;Sameer Desai,57,82.315789474,8.504532184,95.0,39.0,1,0.0,0,0,0,4,0,8,16,21,7
+UBCV,2020,W,SPPH,503,,OVERALL,Epidemiological Methods 2,,57,82.315789474,8.504532184,95.0,39.0,1,0.0,0,0,0,4,0,8,16,21,7
+UBCV,2020,W,SPPH,504,,001,Application of Epidemiological Methods,Caren L Rose;Caren Rose;Dahn Jeong;Mieke Koehoorn,38,83.657894737,14.660622596,94.0,0.0,1,0.0,0,0,0,0,1,2,10,16,8
+UBCV,2020,W,SPPH,504,,007,Application of Epidemiological Methods,Katherine Mcleod;Mohammad Ehsanul Karim;Yong Dong Ouyang,14,90.642857143,1.645840578,94.0,88.0,0,0.0,0,0,0,0,0,0,0,2,12
+UBCV,2020,W,SPPH,504,,OVERALL,Application of Epidemiological Methods,,52,85.538461538,12.900009938,94.0,0.0,1,0.0,0,0,0,0,1,2,10,18,20
+UBCV,2020,W,SPPH,506,,002,Quantitative Research Methods,Michael Law;Richard Musoke;Seraphine Zeitouny,35,85.742857143,3.559104788,93.0,80.0,0,0.0,0,0,0,0,0,0,11,17,7
+UBCV,2020,W,SPPH,506,,OVERALL,Quantitative Research Methods,,35,85.742857143,3.559104788,93.0,80.0,0,0.0,0,0,0,0,0,0,11,17,7
+UBCV,2020,W,SPPH,510,,002,Survey Methods in Health Measurement,Iyoma Edache;Louise Masse,11,87.545454545,4.94699174,94.0,76.0,0,0.0,0,0,0,0,0,1,1,4,5
+UBCV,2020,W,SPPH,510,,OVERALL,Survey Methods in Health Measurement,,11,87.545454545,4.94699174,94.0,76.0,0,0.0,0,0,0,0,0,1,1,4,5
+UBCV,2020,W,SPPH,511,,002,Cancer Control and Epidemiology,Dean Regier;John Spinelli;Kaitlyn Gilham;Rachel Murphy,9,87.222222222,9.230083664,97.0,69.0,0,0.0,0,0,0,1,0,1,0,4,3
+UBCV,2020,W,SPPH,511,,OVERALL,Cancer Control and Epidemiology,,9,87.222222222,9.230083664,97.0,69.0,0,0.0,0,0,0,1,0,1,0,4,3
+UBCV,2020,W,SPPH,512,,002,The Design and Analysis of Clinical Trials,Joel Singer,19,87.368421053,5.366672115,94.0,77.0,0,0.0,0,0,0,0,0,2,4,5,8
+UBCV,2020,W,SPPH,512,,OVERALL,The Design and Analysis of Clinical Trials,,19,87.368421053,5.366672115,94.0,77.0,0,0.0,0,0,0,0,0,2,4,5,8
+UBCV,2020,W,SPPH,513,,002,Clinical Epidemiology,Ralph Brands,19,85.894736842,4.520259787,95.0,72.0,0,0.0,0,0,0,0,1,0.0,2,14,2
+UBCV,2020,W,SPPH,513,,OVERALL,Clinical Epidemiology,,19,85.894736842,4.520259787,95.0,72.0,0,0.0,0,0,0,0,1,0.0,2,14,2
 UBCV,2020,W,SPPH,515,,002,Surveillance and Monitoring in Public Health,Eleni Galanis;Joshua Azza;Michael Otterstatter,20,86.1,4.38778208,92.0,76.0,0,0.0,0,0,0,0,0,1,6,6,7
 UBCV,2020,W,SPPH,515,,OVERALL,Surveillance and Monitoring in Public Health,,20,86.1,4.38778208,92.0,76.0,0,0.0,0,0,0,0,0,1,6,6,7
 UBCV,2020,W,SPPH,516,,001,Methods for Systematic Reviews in Health Research,Lorri Puil;Monica Emode,25,82.24,3.821866909,87.0,73.0,0,0.0,0,0,0,0,1,4,14,6,0
 UBCV,2020,W,SPPH,516,,OVERALL,Methods for Systematic Reviews in Health Research,,25,82.24,3.821866909,87.0,73.0,0,0.0,0,0,0,0,1,4,14,6,0
 UBCV,2020,W,SPPH,519,,DL2,Qualitative Methods in Health Research Design,Andrea Krusi;Brett Koenig;Jean Shoveller;Rodney Knight,16,89.125,3.480900267,95.0,82.0,0,0.0,0,0,0,0,0,0,2,8,6
 UBCV,2020,W,SPPH,519,,OVERALL,Qualitative Methods in Health Research Design,,16,89.125,3.480900267,95.0,82.0,0,0.0,0,0,0,0,0,0,2,8,6
-UBCV,2020,W,SPPH,520,,002,Control of Communicable Disease,Ariana Saatchi;David Patrick,15,88.86666667,4.823553324,95.0,76.0,0,0.0,0,0,0,0,0,1,1,5,8
-UBCV,2020,W,SPPH,520,,OVERALL,Control of Communicable Disease,,15,88.86666667,4.823553324,95.0,76.0,0,0.0,0,0,0,0,0,1,1,5,8
-UBCV,2020,W,SPPH,522,,DL2,Topics in Environmental Health,Anders Erickson;Katherine White;Michael Brauer,19,84.68421053,5.09959292,92.0,74.0,0,0.0,0,0,0,0,1,2,5,8,3
-UBCV,2020,W,SPPH,522,,OVERALL,Topics in Environmental Health,,19,84.68421053,5.09959292,92.0,74.0,0,0.0,0,0,0,0,1,2,5,8,3
-UBCV,2020,W,SPPH,523,,002,Global Health and Human Security,Godwin Dzah;Jerry Spiegel;Prince Adu,6,88.33333333,2.875181154,92.0,85.0,0,0.0,0,0,0,0,0,0,0,3,3
-UBCV,2020,W,SPPH,523,,OVERALL,Global Health and Human Security,,6,88.33333333,2.875181154,92.0,85.0,0,0.0,0,0,0,0,0,0,0,3,3
-UBCV,2020,W,SPPH,527,,001,Social Determinants of Health,Eva Oberle;Jean Shoveller;Tsz Ki Seles Yung,27,91.03703704,2.564273499,96.0,85.0,0,0.0,0,0,0,0,0,0,0,4,23
+UBCV,2020,W,SPPH,520,,002,Control of Communicable Disease,Ariana Saatchi;David Patrick,16,89.3125,4.98957246,96.0,76.0,0,0.0,0,0,0,0,0,1,1,5,9
+UBCV,2020,W,SPPH,520,,OVERALL,Control of Communicable Disease,,16,89.3125,4.98957246,96.0,76.0,0,0.0,0,0,0,0,0,1,1,5,9
+UBCV,2020,W,SPPH,522,,DL2,Topics in Environmental Health,Anders Erickson;Katherine White;Michael Brauer,19,84.684210526,5.09959292,92.0,74.0,0,0.0,0,0,0,0,1,2,5,8,3
+UBCV,2020,W,SPPH,522,,OVERALL,Topics in Environmental Health,,19,84.684210526,5.09959292,92.0,74.0,0,0.0,0,0,0,0,1,2,5,8,3
+UBCV,2020,W,SPPH,523,,002,Global Health and Human Security,Godwin Dzah;Jerry Spiegel;Prince Adu,6,88.333333333,2.875181154,92.0,85.0,0,0.0,0,0,0,0,0,0,0,3,3
+UBCV,2020,W,SPPH,523,,OVERALL,Global Health and Human Security,,6,88.333333333,2.875181154,92.0,85.0,0,0.0,0,0,0,0,0,0,0,3,3
+UBCV,2020,W,SPPH,527,,001,Social Determinants of Health,Eva Oberle;Jean Shoveller;Tsz Ki Seles Yung,27,91.037037037,2.564273499,96.0,85.0,0,0.0,0,0,0,0,0,0,0,4,23
 UBCV,2020,W,SPPH,527,,DL2,Social Determinants of Health,Anne Gadermann;Verena Birgit Rossa-Roccor,20,92.0,3.670651742,97.0,85.0,0,0.0,0,0,0,0,0,0,0,4,16
-UBCV,2020,W,SPPH,527,,OVERALL,Social Determinants of Health,,47,91.44680851,3.084382192,97.0,85.0,0,0.0,0,0,0,0,0,0,0,8,39
-UBCV,2020,W,SPPH,531,,001,Health Care Systems Analysis,Kimberlyn Mcgrail;Maeve Elizabeth Wickham,14,93.92857143,2.432608151,97.0,90.0,0,0.0,0,0,0,0,0,0,0,0,14
-UBCV,2020,W,SPPH,531,,OVERALL,Health Care Systems Analysis,,14,93.92857143,2.432608151,97.0,90.0,0,0.0,0,0,0,0,0,0,0,0,14
+UBCV,2020,W,SPPH,527,,OVERALL,Social Determinants of Health,,47,91.446808511,3.084382192,97.0,85.0,0,0.0,0,0,0,0,0,0,0,8,39
+UBCV,2020,W,SPPH,531,,001,Health Care Systems Analysis,Kimberlyn Mcgrail;Maeve Elizabeth Wickham,14,93.928571429,2.432608151,97.0,90.0,0,0.0,0,0,0,0,0,0,0,0,14
+UBCV,2020,W,SPPH,531,,OVERALL,Health Care Systems Analysis,,14,93.928571429,2.432608151,97.0,90.0,0,0.0,0,0,0,0,0,0,0,0,14
 UBCV,2020,W,SPPH,533,,002,Toxicology and Public Health,Karen Hastings Bartlett;Muhammad Qazi;Reza Afshari,12,85.5,2.969542358,93.0,81.0,0,0.0,0,0,0,0,0,0,5,6,1
 UBCV,2020,W,SPPH,533,,OVERALL,Toxicology and Public Health,,12,85.5,2.969542358,93.0,81.0,0,0.0,0,0,0,0,0,0,5,6,1
 UBCV,2020,W,SPPH,535,,001,Principles of Occupational and Environmental Hygiene,Karen Hastings Bartlett;Sayoojya Saju,10,87.2,2.1499354,91.0,84.0,0,0.0,0,0,0,0,0,0,1,7,2
 UBCV,2020,W,SPPH,535,,OVERALL,Principles of Occupational and Environmental Hygiene,,10,87.2,2.1499354,91.0,84.0,0,0.0,0,0,0,0,0,0,1,7,2
-UBCV,2020,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal;Riley Bizzotto,12,89.41666667,3.800916955,95.0,83.0,0,0.0,0,0,0,0,0,0,2,3,7
-UBCV,2020,W,SPPH,536,,OVERALL,"Aboriginal People and Public Health: Ethics, Policy, and Practice",,12,89.41666667,3.800916955,95.0,83.0,0,0.0,0,0,0,0,0,0,2,3,7
-UBCV,2020,W,SPPH,540,,002,Program Planning and Evaluation,Chris Lovato;Kaitlin Blackwood;Mary Snow,19,89.10526316,5.772489708,99.0,79.0,0,0.0,0,0,0,0,0,1,3,8,7
-UBCV,2020,W,SPPH,540,,DL2,Program Planning and Evaluation,Chris Lovato;Mary Snow;Sophia Sidi,11,81.18181818,22.58237446,97.0,16.0,1,0.0,0,0,0,0,0,1,3,1,5
-UBCV,2020,W,SPPH,540,,OVERALL,Program Planning and Evaluation,,30,86.2,14.54695133,99.0,16.0,1,0.0,0,0,0,0,0,2,6,9,12
-UBCV,2020,W,SPPH,542,,001,Canadian Health Policy,Ariel Sernick;Steven George Morgan;Steven Morgan,54,86.25925926,4.270058924,95.0,73.0,0,0.0,0,0,0,0,2,1,7,32,12
-UBCV,2020,W,SPPH,542,,OVERALL,Canadian Health Policy,,54,86.25925926,4.270058924,95.0,73.0,0,0.0,0,0,0,0,2,1,7,32,12
-UBCV,2020,W,SPPH,546,,001,Introduction to Health Economics,Aslam Anis;Dean Regier;Shania Au,14,90.35714286,4.430786401,94.0,79.0,0,0.0,0,0,0,0,0,1,1,2,10
-UBCV,2020,W,SPPH,546,,OVERALL,Introduction to Health Economics,,14,90.35714286,4.430786401,94.0,79.0,0,0.0,0,0,0,0,0,1,1,2,10
+UBCV,2020,W,SPPH,536,,DL2,"Aboriginal People and Public Health: Ethics, Policy, and Practice",Patricia Spittal;Riley Bizzotto,12,89.416666667,3.800916955,95.0,83.0,0,0.0,0,0,0,0,0,0,2,3,7
+UBCV,2020,W,SPPH,536,,OVERALL,"Aboriginal People and Public Health: Ethics, Policy, and Practice",,12,89.416666667,3.800916955,95.0,83.0,0,0.0,0,0,0,0,0,0,2,3,7
+UBCV,2020,W,SPPH,540,,002,Program Planning and Evaluation,Chris Lovato;Kaitlin Blackwood;Mary Snow,19,89.105263158,5.772489708,99.0,79.0,0,0.0,0,0,0,0,0,1,3,8,7
+UBCV,2020,W,SPPH,540,,DL2,Program Planning and Evaluation,Chris Lovato;Mary Snow;Sophia Sidi,11,81.181818182,22.582374462,97.0,16.0,1,0.0,0,0,0,0,0,1,3,1,5
+UBCV,2020,W,SPPH,540,,OVERALL,Program Planning and Evaluation,,30,86.2,14.546951334,99.0,16.0,1,0.0,0,0,0,0,0,2,6,9,12
+UBCV,2020,W,SPPH,541,,002,Economic Evaluation,Aslam Anis;Seraphine Zeitouny;Wei Zhang;Weihua Zhang,14,90.428571429,3.227627986,94.0,84.0,0,0.0,0,0,0,0,0,0,2,3,9
+UBCV,2020,W,SPPH,541,,OVERALL,Economic Evaluation,,14,90.428571429,3.227627986,94.0,84.0,0,0.0,0,0,0,0,0,0,2,3,9
+UBCV,2020,W,SPPH,542,,001,Canadian Health Policy,Ariel Sernick;Steven George Morgan;Steven Morgan,54,86.259259259,4.270058924,95.0,73.0,0,0.0,0,0,0,0,2,1,7,32,12
+UBCV,2020,W,SPPH,542,,OVERALL,Canadian Health Policy,,54,86.259259259,4.270058924,95.0,73.0,0,0.0,0,0,0,0,2,1,7,32,12
+UBCV,2020,W,SPPH,546,,001,Introduction to Health Economics,Aslam Anis;Dean Regier;Shania Au,14,90.357142857,4.430786401,94.0,79.0,0,0.0,0,0,0,0,0,1,1,2,10
+UBCV,2020,W,SPPH,546,,OVERALL,Introduction to Health Economics,,14,90.357142857,4.430786401,94.0,79.0,0,0.0,0,0,0,0,0,1,1,2,10
 UBCV,2020,W,SPPH,547,,DL2,Health Care Priority Setting,Craig Mitton,20,91.3,3.41975684,98.0,82.0,0,0.0,0,0,0,0,0,0,1,3,16
 UBCV,2020,W,SPPH,547,,OVERALL,Health Care Priority Setting,,20,91.3,3.41975684,98.0,82.0,0,0.0,0,0,0,0,0,0,1,3,16
-UBCV,2020,W,SPPH,550,,001,Public Health Approaches to Substance Use and Addictions,Eugenia Oviedo-Joekes;Margaret Erickson,12,96.41666667,0.792961461,98.0,95.0,0,0.0,0,0,0,0,0,0,0,0,12
-UBCV,2020,W,SPPH,550,,OVERALL,Public Health Approaches to Substance Use and Addictions,,12,96.41666667,0.792961461,98.0,95.0,0,0.0,0,0,0,0,0,0,0,0,12
-UBCV,2020,W,SPPH,552,,BL1,Risk and Communication in Public Health,Ali Cowieson;Chelsea Himsworth;Kaylee Byers,17,92.05882353,4.249567452,98.0,84.0,0,0.0,0,0,0,0,0,0,1,4,12
-UBCV,2020,W,SPPH,552,,OVERALL,Risk and Communication in Public Health,,17,92.05882353,4.249567452,98.0,84.0,0,0.0,0,0,0,0,0,0,1,4,12
+UBCV,2020,W,SPPH,550,,001,Public Health Approaches to Substance Use and Addictions,Eugenia Oviedo-Joekes;Margaret Erickson,12,96.416666667,0.792961461,98.0,95.0,0,0.0,0,0,0,0,0,0,0,0,12
+UBCV,2020,W,SPPH,550,,OVERALL,Public Health Approaches to Substance Use and Addictions,,12,96.416666667,0.792961461,98.0,95.0,0,0.0,0,0,0,0,0,0,0,0,12
+UBCV,2020,W,SPPH,552,,BL1,Risk and Communication in Public Health,Ali Cowieson;Chelsea Himsworth;Kaylee Byers,17,92.058823529,4.249567452,98.0,84.0,0,0.0,0,0,0,0,0,0,1,4,12
+UBCV,2020,W,SPPH,552,,OVERALL,Risk and Communication in Public Health,,17,92.058823529,4.249567452,98.0,84.0,0,0.0,0,0,0,0,0,0,1,4,12
 UBCV,2020,W,SPPH,553,,DL1,Foundations of Public Health Computing,Ji Choi;Joseph Hernandez Puyat;Joseph Puyat,32,87.375,8.067257599,98.0,66.0,0,0.0,0,0,1,1,1,1,7,4,17
 UBCV,2020,W,SPPH,553,,OVERALL,Foundations of Public Health Computing,,32,87.375,8.067257599,98.0,66.0,0,0.0,0,0,1,1,1,1,7,4,17
-UBCV,2020,W,SPPH,562,,002,Chemical and Biological Hazard Measurement,Hugh William Davies;Maggie Guo,9,89.77777778,7.726217991,95.0,70.0,0,0.0,0,0,0,1,0,0,0,1,7
-UBCV,2020,W,SPPH,562,,OVERALL,Chemical and Biological Hazard Measurement,,9,89.77777778,7.726217991,95.0,70.0,0,0.0,0,0,0,1,0,0,0,1,7
-UBCV,2020,W,SPPH,563,,002,Technical Aspects of Chemical and Biological Hazard Control,Warren Fox,9,93.44444444,3.431876714,98.0,87.0,0,0.0,0,0,0,0,0,0,0,1,8
-UBCV,2020,W,SPPH,563,,OVERALL,Technical Aspects of Chemical and Biological Hazard Control,,9,93.44444444,3.431876714,98.0,87.0,0,0.0,0,0,0,0,0,0,0,1,8
+UBCV,2020,W,SPPH,562,,002,Chemical and Biological Hazard Measurement,Hugh William Davies;Maggie Guo,9,89.777777778,7.726217991,95.0,70.0,0,0.0,0,0,0,1,0,0,0,1,7
+UBCV,2020,W,SPPH,562,,OVERALL,Chemical and Biological Hazard Measurement,,9,89.777777778,7.726217991,95.0,70.0,0,0.0,0,0,0,1,0,0,0,1,7
+UBCV,2020,W,SPPH,563,,002,Technical Aspects of Chemical and Biological Hazard Control,Warren Fox,9,93.444444444,3.431876714,98.0,87.0,0,0.0,0,0,0,0,0,0,0,1,8
+UBCV,2020,W,SPPH,563,,OVERALL,Technical Aspects of Chemical and Biological Hazard Control,,9,93.444444444,3.431876714,98.0,87.0,0,0.0,0,0,0,0,0,0,0,1,8
 UBCV,2020,W,SPPH,567,,002,Quantitative Methods for the Assessment and Analysis of Exposure Data,Katherine White;Sarah Henderson,13,93.0,3.027650354,98.0,87.0,0,0.0,0,0,0,0,0,0,0,2,11
 UBCV,2020,W,SPPH,567,,OVERALL,Quantitative Methods for the Assessment and Analysis of Exposure Data,,13,93.0,3.027650354,98.0,87.0,0,0.0,0,0,0,0,0,0,0,2,11
-UBCV,2020,W,SPPH,568,,001,Safety,Warren Fox,18,86.66666667,3.067859955,91.0,80.0,0,0.0,0,0,0,0,0,0,4,9,5
-UBCV,2020,W,SPPH,568,,OVERALL,Safety,,18,86.66666667,3.067859955,91.0,80.0,0,0.0,0,0,0,0,0,0,4,9,5
+UBCV,2020,W,SPPH,568,,001,Safety,Warren Fox,18,86.666666667,3.067859955,91.0,80.0,0,0.0,0,0,0,0,0,0,4,9,5
+UBCV,2020,W,SPPH,568,,OVERALL,Safety,,18,86.666666667,3.067859955,91.0,80.0,0,0.0,0,0,0,0,0,0,4,9,5
 UBCV,2020,W,SPPH,569,,001,Industrial and Environmental Acoustics and Vibration,Hugh William Davies;Maggie Guo,10,92.7,2.002775851,95.0,90.0,0,0.0,0,0,0,0,0,0,0,0,10
 UBCV,2020,W,SPPH,569,,OVERALL,Industrial and Environmental Acoustics and Vibration,,10,92.7,2.002775851,95.0,90.0,0,0.0,0,0,0,0,0,0,0,0,10
-UBCV,2020,W,SPPH,581,D,002,Selected Topics,Christopher Mcleod;Tina Afshar,9,87.66666667,3.4278273,91.0,81.0,0,0.0,0,0,0,0,0,0,2,3,4
-UBCV,2020,W,SPPH,581,D,OVERALL,Selected Topics,,9,87.66666667,3.4278273,91.0,81.0,0,0.0,0,0,0,0,0,0,2,3,4
-UBCV,2020,W,SPPH,581,J,001,Selected Topics,Gina Ogilvie;Leah Shipton,8,86.25,11.52326839,92.0,58.0,0,0.0,,,,,,,,1,6
-UBCV,2020,W,SPPH,581,J,OVERALL,Selected Topics,,8,86.25,11.52326839,92.0,58.0,0,0.0,,,,,,,,1,6
-UBCV,2020,W,SPPH,581,N,001,Selected Topics,Paul Kershaw;Verena Birgit Rossa-Roccor,13,81.92307692,4.29071747,90.0,74.0,0,0.0,0,0,0,0,1,1,7,3,1
-UBCV,2020,W,SPPH,581,N,OVERALL,Selected Topics,,13,81.92307692,4.29071747,90.0,74.0,0,0.0,0,0,0,0,1,1,7,3,1
-UBCV,2020,W,SPPH,581,T,001,Selected Topics,Daniel Steel,6,87.83333333,5.036533199,94.0,81.0,0,0.0,0,0,0,0,0,0,2,2,2
-UBCV,2020,W,SPPH,581,T,OVERALL,Selected Topics,,6,87.83333333,5.036533199,94.0,81.0,0,0.0,0,0,0,0,0,0,2,2,2
-UBCV,2020,W,SPPH,581,U,941,Selected Topics,Nadine Caron;Patricia Spittal,22,94.77272727,1.770978158,98.0,91.0,0,0.0,0,0,0,0,0,0,0,0,22
-UBCV,2020,W,SPPH,581,U,OVERALL,Selected Topics,,22,94.77272727,1.770978158,98.0,91.0,0,0.0,0,0,0,0,0,0,0,0,22
+UBCV,2020,W,SPPH,581,D,002,Selected Topics,Christopher Mcleod;Tina Afshar,9,87.666666667,3.4278273,91.0,81.0,0,0.0,0,0,0,0,0,0,2,3,4
+UBCV,2020,W,SPPH,581,D,OVERALL,Selected Topics,,9,87.666666667,3.4278273,91.0,81.0,0,0.0,0,0,0,0,0,0,2,3,4
+UBCV,2020,W,SPPH,581,J,001,Selected Topics,Gina Ogilvie;Leah Shipton,8,86.25,11.523268386,92.0,58.0,0,0.0,,,,,,,,1,6
+UBCV,2020,W,SPPH,581,J,OVERALL,Selected Topics,,8,86.25,11.523268386,92.0,58.0,0,0.0,,,,,,,,1,6
+UBCV,2020,W,SPPH,581,N,001,Selected Topics,Paul Kershaw;Verena Birgit Rossa-Roccor,13,81.923076923,4.29071747,90.0,74.0,0,0.0,0,0,0,0,1,1,7,3,1
+UBCV,2020,W,SPPH,581,N,OVERALL,Selected Topics,,13,81.923076923,4.29071747,90.0,74.0,0,0.0,0,0,0,0,1,1,7,3,1
+UBCV,2020,W,SPPH,581,T,001,Selected Topics,Daniel Steel,6,87.833333333,5.036533199,94.0,81.0,0,0.0,0,0,0,0,0,0,2,2,2
+UBCV,2020,W,SPPH,581,T,OVERALL,Selected Topics,,6,87.833333333,5.036533199,94.0,81.0,0,0.0,0,0,0,0,0,0,2,2,2
+UBCV,2020,W,SPPH,581,U,941,Selected Topics,Nadine Caron;Patricia Spittal,22,94.772727273,1.770978158,98.0,91.0,0,0.0,0,0,0,0,0,0,0,0,22
+UBCV,2020,W,SPPH,581,U,OVERALL,Selected Topics,,22,94.772727273,1.770978158,98.0,91.0,0,0.0,0,0,0,0,0,0,0,0,22
 UBCV,2020,W,SPPH,581,Y,002,Selected Topics,Peter Berman,8,93.0,3.338091842,95.0,85.0,0,0.0,0,0,0,0,0,0,0,1,7
 UBCV,2020,W,SPPH,581,Y,OVERALL,Selected Topics,,8,93.0,3.338091842,95.0,85.0,0,0.0,0,0,0,0,0,0,0,1,7
 UBCV,2020,W,SPPH,621,,001,Approaches to Enquiry in Population and Public Health,Charlyn Black;Corey Mcauliffe;Emily Gemmell;Jennifer Murray,20,83.55,5.986607861,95.0,74.0,0,0.0,0,0,0,0,2,3,8,3,4

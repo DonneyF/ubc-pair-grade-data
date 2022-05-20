@@ -1,0 +1,47 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,GEOS,102,,101,Our Changing Environment: Climate and Ecosystems,Amy Mcintyre;Audrey Pearson;Carlie Hughes;Margaryta Pustova;Nastaran Pournematollahisabzeh,255,83.701960784,12.479802426,98.0,1.0,5,2.0,3.0,2,7.0,10,9,22.0,40,69,86
+UBCV,2021,W,GEOS,102,,201,Our Changing Environment: Climate and Ecosystems,Amy Mcintyre;Audrey Pearson;Emma Lowe;Nina Hewitt;Tin Satriawan;Tzu-Yi Lu,164,75.048780488,17.357237093,94.0,0.0,12,4.0,1.0,8,13.0,12,19,15.0,22,33,25
+UBCV,2021,W,GEOS,102,,OVERALL,Our Changing Environment: Climate and Ecosystems,,419,80.3150358,15.165783642,98.0,0.0,17,6.0,4.0,10,20.0,22,28,37.0,62,102,111
+UBCV,2021,W,GEOS,103,,101,Our Changing Environment: Water and Landscapes,Emily Grishaber;Kabir Rasouli;Matteo Saletti;Porter Abbey;Tianqi Xing;Yanyang Liu,105,83.819047619,11.446179202,97.0,45.0,2,3.0,0.0,2,1.0,6,4,10.0,10,25,42
+UBCV,2021,W,GEOS,103,,201,Our Changing Environment: Water and Landscapes,Marwan Hassan;Nisreen Al-Ghorani;Porter Abbey;Tianqi Xing;Yanyang Liu,202,72.99009901,14.622952754,99.0,0.0,5,12.0,16.0,13,20.0,15,23,29.0,26,23,20
+UBCV,2021,W,GEOS,103,,OVERALL,Our Changing Environment: Water and Landscapes,,307,76.693811075,14.541715769,99.0,0.0,7,15.0,16.0,15,21.0,21,27,39.0,36,48,62
+UBCV,2021,W,GEOS,200,,101,Atmospheric Environments,Annika Ord;Ian Mckendry;Julia Mayer;Sierra Collins,79,78.215189873,11.994305151,95.0,36.0,1,4.0,2.0,2,3.0,5,6,8.0,18,18,12
+UBCV,2021,W,GEOS,200,,OVERALL,Atmospheric Environments,,79,78.215189873,11.994305151,95.0,36.0,1,4.0,2.0,2,3.0,5,6,8.0,18,18,12
+UBCV,2021,W,GEOS,206,,201,Geomorphic Processes and Hazards,Kabir Rasouli;Zijie Chai,26,74.0,13.062924634,95.0,51.0,0,3.0,3.0,1,0.0,1,2,6.0,5,3,2
+UBCV,2021,W,GEOS,206,,OVERALL,Geomorphic Processes and Hazards,,26,74.0,13.062924634,95.0,51.0,0,3.0,3.0,1,0.0,1,2,6.0,5,3,2
+UBCV,2021,W,GEOS,207,,101,Introduction to Biogeography,Audrey Pearson;Emily Grishaber;William Mcvean,58,76.086206897,9.182906475,92.0,51.0,0,2.0,1.0,2,4.0,8,9,6.0,16,8,2
+UBCV,2021,W,GEOS,207,,OVERALL,Introduction to Biogeography,,58,76.086206897,9.182906475,92.0,51.0,0,2.0,1.0,2,4.0,8,9,6.0,16,8,2
+UBCV,2021,W,GEOS,270,,101,Geographic Information Science,Andrea Ku;Carla Urquhart;June Skeeter;Michael Turley;Wesley Skeeter,96,79.135416667,11.740725156,95.0,30.0,3,1.0,0.0,2,5.0,3,9,13.0,25,19,16
+UBCV,2021,W,GEOS,270,,201,Geographic Information Science,Carlie Hughes;Naomi Beth Schwartz;Nastaran Pournematollahisabzeh,93,78.139784946,18.317603435,97.0,7.0,6,1.0,4.0,2,4.0,2,6,9.0,12,25,22
+UBCV,2021,W,GEOS,270,,202,Geographic Information Science,June Skeeter;Michael Turley;Wesley Skeeter,43,73.88372093,14.955822727,95.0,21.0,3,1.0,1.0,1,1.0,6,3,7.0,10,8,2
+UBCV,2021,W,GEOS,270,,OVERALL,Geographic Information Science,,232,77.762931034,15.317697826,97.0,7.0,12,3.0,5.0,5,10.0,11,18,29.0,47,52,40
+UBCV,2021,W,GEOS,300,,101,Microscale Weather and Climate,Sung-Ching Lee;Tin Satriawan,42,75.928571429,13.807726464,92.0,12.0,1,2.0,0.0,1,1.0,4,6,8.0,8,5,6
+UBCV,2021,W,GEOS,300,,OVERALL,Microscale Weather and Climate,,42,75.928571429,13.807726464,92.0,12.0,1,2.0,0.0,1,1.0,4,6,8.0,8,5,6
+UBCV,2021,W,GEOS,305,,201,Introduction to Hydrology,Robert Daniel Moore;Sierra Collins,40,70.925,9.460816629,87.0,50.0,0,1.0,3.0,5,4.0,9,5,3.0,6,4,0
+UBCV,2021,W,GEOS,305,,OVERALL,Introduction to Hydrology,,40,70.925,9.460816629,87.0,50.0,0,1.0,3.0,5,4.0,9,5,3.0,6,4,0
+UBCV,2021,W,GEOS,307,,201,Biogeography and Global Change,Jenna Loesberg;Nina Hewitt,71,75.830985915,9.664346723,90.0,21.0,1,0.0,0.0,3,10.0,1,15,13.0,18,8,2
+UBCV,2021,W,GEOS,307,,OVERALL,Biogeography and Global Change,,71,75.830985915,9.664346723,90.0,21.0,1,0.0,0.0,3,10.0,1,15,13.0,18,8,2
+UBCV,2021,W,GEOS,308,,101,Quaternary and Applied Geomorphology,Conor Mcdowell;Michele Koppes,27,77.222222222,14.747446541,93.0,12.0,1,0.0,0.0,0,2.0,1,1,8.0,6,6,2
+UBCV,2021,W,GEOS,308,,OVERALL,Quaternary and Applied Geomorphology,,27,77.222222222,14.747446541,93.0,12.0,1,0.0,0.0,0,2.0,1,1,8.0,6,6,2
+UBCV,2021,W,GEOS,370,,101,Advanced Geographic Information Science,Billy Browning;Brian Klinkenberg,59,73.203389831,12.741162808,91.0,29.0,2,3.0,3.0,4,3.0,9,7,5.0,11,8,4
+UBCV,2021,W,GEOS,370,,201,Advanced Geographic Information Science,Billy Browning;Brian Klinkenberg;Olga Kochkareva,51,74.254901961,17.087823896,93.0,8.0,3,2.0,1.0,0,0.0,5,8,12.0,9,7,4
+UBCV,2021,W,GEOS,370,,OVERALL,Advanced Geographic Information Science,,110,73.690909091,14.852637275,93.0,8.0,5,5.0,4.0,4,3.0,14,15,17.0,20,15,8
+UBCV,2021,W,GEOS,372,,101,Cartography,Dawn Mooney;Lily Crandall-Oral,60,74.85,16.987358211,94.0,18.0,5,0.0,2.0,3,4.0,1,8,9.0,8,8,12
+UBCV,2021,W,GEOS,372,,201,Cartography,Dawn Mooney;Lily Crandall-Oral;Micheal Jerowsky,50,75.24,14.616959677,92.0,15.0,3,1.0,1.0,0,0.0,7,6,8.0,12,9,3
+UBCV,2021,W,GEOS,372,,OVERALL,Cartography,,110,75.027272727,15.883439585,94.0,15.0,8,1.0,3.0,3,4.0,8,14,17.0,20,17,15
+UBCV,2021,W,GEOS,373,,201,Introductory Remote Sensing,David Puhl;Naomi Beth Schwartz,61,82.557377049,6.556230091,94.0,55.0,0,0.0,1.0,0,0.0,2,5,8.0,21,16,8
+UBCV,2021,W,GEOS,373,,OVERALL,Introductory Remote Sensing,,61,82.557377049,6.556230091,94.0,55.0,0,0.0,1.0,0,0.0,2,5,8.0,21,16,8
+UBCV,2021,W,GEOS,401,,201,Urban Meteorology,Sara Knox,26,78.269230769,6.672676778,90.0,61.0,0,0.0,0.0,2,0.0,0,6,7.0,7,3,1
+UBCV,2021,W,GEOS,401,,OVERALL,Urban Meteorology,,26,78.269230769,6.672676778,90.0,61.0,0,0.0,0.0,2,0.0,0,6,7.0,7,3,1
+UBCV,2021,W,GEOS,402,,101,Air Pollution Meteorology,Ian Mckendry;Tin Satriawan,46,82.347826087,9.606056865,96.0,50.0,0,2.0,0.0,1,0.0,0,3,4.0,12,13,11
+UBCV,2021,W,GEOS,402,,OVERALL,Air Pollution Meteorology,,46,82.347826087,9.606056865,96.0,50.0,0,2.0,0.0,1,0.0,0,3,4.0,12,13,11
+UBCV,2021,W,GEOS,405,,201,Fluvial Geomorphology,Conor Mcdowell;Marwan Hassan,14,74.285714286,13.076276649,88.0,38.0,1,0.0,0.0,1,1.0,1,2,2.0,3,3,0
+UBCV,2021,W,GEOS,405,,OVERALL,Fluvial Geomorphology,,14,74.285714286,13.076276649,88.0,38.0,1,0.0,0.0,1,1.0,1,2,2.0,3,3,0
+UBCV,2021,W,GEOS,407,,201,"Vegetation Dynamics: Disturbance, Climate and Human Impacts",Audrey Pearson;Emily Grishaber,24,87.5,4.170288281,95.0,74.0,0,0.0,0.0,0,0.0,0,1,0.0,2,12,9
+UBCV,2021,W,GEOS,407,,OVERALL,"Vegetation Dynamics: Disturbance, Climate and Human Impacts",,24,87.5,4.170288281,95.0,74.0,0,0.0,0.0,0,0.0,0,1,0.0,2,12,9
+UBCV,2021,W,GEOS,415,,201,River Restoration: Science and Society,Conor Mcdowell;Marwan Hassan,8,86.25,3.654742516,92.0,83.0,0,0.0,0.0,0,0.0,0,0,0.0,2,4,2
+UBCV,2021,W,GEOS,415,,OVERALL,River Restoration: Science and Society,,8,86.25,3.654742516,92.0,83.0,0,0.0,0.0,0,0.0,0,0,0.0,2,4,2
+UBCV,2021,W,GEOS,472,,201,Research in Cartography,Luke Robert Bergmann,22,78.863636364,10.579834613,89.0,42.0,1,0.0,0.0,0,2.0,0,3,3.0,6,7,0
+UBCV,2021,W,GEOS,472,,OVERALL,Research in Cartography,,22,78.863636364,10.579834613,89.0,42.0,1,0.0,0.0,0,2.0,0,3,3.0,6,7,0
+UBCV,2021,W,GEOS,479,,201,Research in Geographic Information Science,Brian Klinkenberg,18,82.777777778,9.83723751,95.0,62.0,0,0.0,0.0,1,1.0,1,1,1.0,5,3,5
+UBCV,2021,W,GEOS,479,,OVERALL,Research in Geographic Information Science,,18,82.777777778,9.83723751,95.0,62.0,0,0.0,0.0,1,1.0,1,1,1.0,5,3,5

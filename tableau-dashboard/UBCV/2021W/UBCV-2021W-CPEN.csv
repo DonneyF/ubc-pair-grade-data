@@ -1,0 +1,64 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,CPEN,211,,101,Introduction to Microcomputers,Caroline White;Christopher Ng;Dan Jin;Debasish Mohapatra;Dias Azhigulov;Esther Roorda;Jay Zhe-An Mok;Jonathan Lew;Lufei Liu;Mehdi Saeidi;Ryan Meshulam;Shimona Roy Chowdhury;Tor Aamodt;Tuo Yang;Venkata Praneeth Srungarapu;Wenwen Zhang;Yassaman Ebrahimzadeh Maboud;Zakary Nafziger,321,73.152647975,17.050982399,100.0,0.0,26,12.0,24,18.0,19,37.0,26.0,20,49.0,40,50
+UBCV,2021,W,CPEN,211,,OVERALL,Introduction to Microcomputers,,321,73.152647975,17.050982399,100.0,0.0,26,12.0,24,18.0,19,37.0,26.0,20,49.0,40,50
+UBCV,2021,W,CPEN,212,,201,Computing Systems II,Beibei Xiong;Caroline White;Christopher Ng;Khaled Ahmed;Mieszko Lis;Mohammadhossein Olyaiy;Muchen He;Wenyi Gong,78,73.08974359,14.25025486,100.0,24.0,4,3.0,4,8.0,7,7.0,8.0,8,11.0,10,8
+UBCV,2021,W,CPEN,212,,OVERALL,Computing Systems II,,78,73.08974359,14.25025486,100.0,24.0,4,3.0,4,8.0,7,7.0,8.0,8,11.0,10,8
+UBCV,2021,W,CPEN,221,,101,Software Construction I,Adrienne Chu;Aileen Zhang;Grady Thompson;Harteij Sidhu;Jared Paul;Kenneth Xing;Matthew Memme;Mohammad Abdolkhani;Mohammad Shahrad;Nima Nasiri;Paul Juralowicz;Renugambikai Rajamagesh;Rudransh Kumar;Sarah Buddhason;Sathish Gopalakrishnan;Tiffany Matthe;Zi Yu Xue,238,72.390756303,10.823606733,99.0,20.0,6,9.0,7,27.0,18,34.0,61.0,19,29.0,24,4
+UBCV,2021,W,CPEN,221,,OVERALL,Software Construction I,,238,72.390756303,10.823606733,99.0,20.0,6,9.0,7,27.0,18,34.0,61.0,19,29.0,24,4
+UBCV,2021,W,CPEN,223,,101,Software Design for Engineers,Amin Ghasemazar;Chun-Yin Huang;Farshid Agharebparast;Mahbubur Shihab;Savitoj Sachar;Seun Somefun;Tala Bazzaza,128,80.765625,8.522766523,100.0,60.0,0,0.0,0,2.0,7,13.0,13.0,18,28.0,30,17
+UBCV,2021,W,CPEN,223,,OVERALL,Software Design for Engineers,,128,80.765625,8.522766523,100.0,60.0,0,0.0,0,2.0,7,13.0,13.0,18,28.0,30,17
+UBCV,2021,W,CPEN,281,,101,Technical Communication,Hartaj Sanghara,42,73.023809524,5.769930867,80.0,46.0,1,0.0,0,0.0,3,10.0,16.0,7,5.0,0,0
+UBCV,2021,W,CPEN,281,,102,Technical Communication,Hongxing Estella Qi,33,70.515151515,10.059576321,87.0,45.0,2,0.0,1,4.0,5,6.0,4.0,3,6.0,2,0
+UBCV,2021,W,CPEN,281,,103,Technical Communication,Hartaj Sanghara,37,71.108108108,7.493640948,82.0,47.0,2,0.0,0,2.0,2,10.0,12.0,5,4.0,0,0
+UBCV,2021,W,CPEN,281,,OVERALL,Technical Communication,,112,71.651785714,7.802413373,87.0,45.0,5,0.0,1,6.0,10,26.0,32.0,15,15.0,2,0
+UBCV,2021,W,CPEN,291,,201,Computer Engineering Design Studio I,Farshid Agharebparast;Jay Zhe-An Mok;Parisa Abolfath Beygi Dezfouli;Prasham Jain;Yuxuan Pan,118,85.152542373,4.390407412,96.0,72.0,0,0.0,0,0.0,0,0.0,4.0,5,37.0,55,17
+UBCV,2021,W,CPEN,291,,OVERALL,Computer Engineering Design Studio I,,118,85.152542373,4.390407412,96.0,72.0,0,0.0,0,0.0,0,0.0,4.0,5,37.0,55,17
+UBCV,2021,W,CPEN,311,,101,Digital Systems Design,Muhammad Adnan;Yair Linn;Yazan Al Attar;Yuan Hsi Chou;Zhonghua Zhou,128,86.1875,12.984394025,100.0,32.0,5,0.0,2,1.0,4,3.0,2.0,10,18.0,18,65
+UBCV,2021,W,CPEN,311,,201,Digital Systems Design,Muhammad Adnan;Prashant Nair;Yassaman Ebrahimzadeh Maboud,31,69.709677419,20.963768027,95.0,1.0,2,0.0,3,0.0,6,3.0,5.0,4,4.0,0,4
+UBCV,2021,W,CPEN,311,,OVERALL,Digital Systems Design,,159,82.974842767,16.181701529,100.0,1.0,7,0.0,5,1.0,10,6.0,7.0,14,22.0,18,69
+UBCV,2021,W,CPEN,312,,201,Digital Systems and Microcomputers,Esther Roorda;Jesus Calvino-Fraga;Jonathan Lew;Lufei Liu;Mehdi Saeidi;Venkata Praneeth Srungarapu,163,79.63803681,14.102719327,100.0,15.0,7,1.0,4,8.0,9,8.0,16.0,16,29.0,18,47
+UBCV,2021,W,CPEN,312,,OVERALL,Digital Systems and Microcomputers,,163,79.63803681,14.102719327,100.0,15.0,7,1.0,4,8.0,9,8.0,16.0,16,29.0,18,47
+UBCV,2021,W,CPEN,322,,101,Software Construction II,Abraham Chan;Ali Asgari Khoshouyeh;Karthik Pattabiraman;Kumseok Jung;Pritam Dash,118,75.991525424,10.533216295,98.0,30.0,2,2.0,4,3.0,6,11.0,19.0,29,20.0,13,9
+UBCV,2021,W,CPEN,322,,OVERALL,Software Construction II,,118,75.991525424,10.533216295,98.0,30.0,2,2.0,4,3.0,6,11.0,19.0,29,20.0,13,9
+UBCV,2021,W,CPEN,331,,101,Operating Systems,Alexandra Fedorova;Jean Syjueco;Jiapeng Huang;Mojan Jamalzadeh;Tawsif Hasan;Tristen Raab;Yuntao Wu;Zyad Ben-Suleiman,126,86.642857143,8.854796924,98.0,59.0,0,0.0,1,3.0,1,2.0,8.0,9,17.0,25,60
+UBCV,2021,W,CPEN,331,,OVERALL,Operating Systems,,126,86.642857143,8.854796924,98.0,59.0,0,0.0,1,3.0,1,2.0,8.0,9,17.0,25,60
+UBCV,2021,W,CPEN,333,,101,System Software Engineering,Geetika Batta;Nguyen Nhat Minh To;Parisa Abolfath Beygi Dezfouli;Rafiuzzaman Mohammad;Seyed Ali Mousavifar;Yingao Yao,132,79.325757576,7.325054998,94.0,55.0,0,0.0,2,3.0,5,10.0,10.0,32,42.0,17,11
+UBCV,2021,W,CPEN,333,,201,System Software Engineering,Farshid Agharebparast;Geetika Batta;Nguyen Nhat Minh To;Yingao Yao,82,75.865853659,11.094167298,98.0,29.0,3,0.0,0,2.0,9,8.0,20.0,8,17.0,7,8
+UBCV,2021,W,CPEN,333,,OVERALL,System Software Engineering,,214,78.0,9.091088347,98.0,29.0,3,0.0,2,5.0,14,18.0,30.0,40,59.0,24,19
+UBCV,2021,W,CPEN,391,,201,Computer Engineering Design Studio II,Brandon Freiberger;Guy Lemieux;Jared Paul;Tala Bazzaza;Yuan Hsi Chou;Zhonghua Zhou;Zi Yu Xue;Zyad Ben-Suleiman,102,85.441176471,6.774403674,97.0,57.0,0,0.0,1,0.0,1,2.0,3.0,5,27.0,24,39
+UBCV,2021,W,CPEN,391,,OVERALL,Computer Engineering Design Studio II,,102,85.441176471,6.774403674,97.0,57.0,0,0.0,1,0.0,1,2.0,3.0,5,27.0,24,39
+UBCV,2021,W,CPEN,400,D,106,Topics in Computer Engineering,Bradley Quinton;Daniel Holanda Noronha;Jose Pinilla Gomez;Scott Chin,88,86.090909091,8.219176293,99.0,61.0,0,0.0,0,2.0,2,0.0,6.0,8,15.0,18,37
+UBCV,2021,W,CPEN,400,D,OVERALL,Topics in Computer Engineering,,88,86.090909091,8.219176293,99.0,61.0,0,0.0,0,2.0,2,0.0,6.0,8,15.0,18,37
+UBCV,2021,W,CPEN,400,P,201,Topics in Computer Engineering,Abraham Chan;Ali Asgari Khoshouyeh;Karthik Pattabiraman;Udit Agarwal,30,78.433333333,16.518919839,92.0,1.0,1,0.0,0,1.0,0,2.0,2.0,7,5.0,6,6
+UBCV,2021,W,CPEN,400,P,OVERALL,Topics in Computer Engineering,,30,78.433333333,16.518919839,92.0,1.0,1,0.0,0,1.0,0,2.0,2.0,7,5.0,6,6
+UBCV,2021,W,CPEN,400,Q,202,Topics in Computer Engineering,Gideon Uchehara;Olivia Di Matteo,31,89.290322581,8.35142123,99.0,64.0,0,0.0,0,0.0,1,2.0,0.0,0,4.0,4,20
+UBCV,2021,W,CPEN,400,Q,OVERALL,Topics in Computer Engineering,,31,89.290322581,8.35142123,99.0,64.0,0,0.0,0,0.0,1,2.0,0.0,0,4.0,4,20
+UBCV,2021,W,CPEN,411,,101,Computer Architecture,Bolin Wang;Meng Wang;Prashant Nair,67,83.343283582,10.553689917,100.0,55.0,0,0.0,3,1.0,2,2.0,4.0,12,8.0,11,24
+UBCV,2021,W,CPEN,411,,OVERALL,Computer Architecture,,67,83.343283582,10.553689917,100.0,55.0,0,0.0,3,1.0,2,2.0,4.0,12,8.0,11,24
+UBCV,2021,W,CPEN,412,,201,Microcomputer Systems Design,Harteij Sidhu;Muhammad Adnan;Yair Linn,41,85.926829268,13.125148083,100.0,49.0,1,1.0,1,0.0,1,1.0,3.0,3,4.0,6,20
+UBCV,2021,W,CPEN,412,,OVERALL,Microcomputer Systems Design,,41,85.926829268,13.125148083,100.0,49.0,1,1.0,1,0.0,1,1.0,3.0,3,4.0,6,20
+UBCV,2021,W,CPEN,421,,201,Software Project Management,Niranjan Ravichandran;Pritam Dash,19,79.894736842,21.186722092,95.0,0.0,1,0.0,0,0.0,1,1.0,1.0,5,2.0,3,5
+UBCV,2021,W,CPEN,421,,OVERALL,Software Project Management,,19,79.894736842,21.186722092,95.0,0.0,1,0.0,0,0.0,1,1.0,1.0,5,2.0,3,5
+UBCV,2021,W,CPEN,431,,201,Design of Distributed Software Applications,Hamidreza Ramezanikebrya;Hassan Halawa;Hazem Abdelhafez;Kumseok Jung;Radu Ripeanu;Scott Sallinen,39,83.641025641,5.27400367,97.0,71.0,0,0.0,0,0.0,0,1.0,0.0,6,18.0,10,4
+UBCV,2021,W,CPEN,431,,OVERALL,Design of Distributed Software Applications,,39,83.641025641,5.27400367,97.0,71.0,0,0.0,0,0.0,0,1.0,0.0,6,18.0,10,4
+UBCV,2021,W,CPEN,432,,201,Real-time System Design,Arpan Gujarati;Geetika Batta,18,79.055555556,9.168181693,97.0,57.0,0,0.0,1,0.0,0,2.0,2.0,5,3.0,3,2
+UBCV,2021,W,CPEN,432,,OVERALL,Real-time System Design,,18,79.055555556,9.168181693,97.0,57.0,0,0.0,1,0.0,0,2.0,2.0,5,3.0,3,2
+UBCV,2021,W,CPEN,441,,101,Human Computer Interfaces in Engineering Design,Beibei Xiong;S Sidney Fels;Ursa Maity,43,80.837209302,9.32720096,96.0,43.0,1,0.0,0,0.0,2,3.0,3.0,6,12.0,9,7
+UBCV,2021,W,CPEN,441,,OVERALL,Human Computer Interfaces in Engineering Design,,43,80.837209302,9.32720096,96.0,43.0,1,0.0,0,0.0,2,3.0,3.0,6,12.0,9,7
+UBCV,2021,W,CPEN,442,,101,Introduction to Cybersecurity,Junbin Zhang;Konstantin Beznosov;Masoud Mehrabi Koushki;Yue Huang,50,83.08,8.916483246,95.0,47.0,1,0.0,0,0.0,2,1.0,5.0,4,11.0,15,11
+UBCV,2021,W,CPEN,442,,OVERALL,Introduction to Cybersecurity,,50,83.08,8.916483246,95.0,47.0,1,0.0,0,0.0,2,1.0,5.0,4,11.0,15,11
+UBCV,2021,W,CPEN,481,,101,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Jeffrey Carmichael;Long Vo;Xiao Han,26,69.615384615,10.943772377,86.0,37.0,1,0.0,3,4.0,1,4.0,3.0,5,4.0,1,0
+UBCV,2021,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Jeffrey Carmichael;Long Vo;Weihang Liu;Xiao Han,45,78.822222222,8.200024637,92.0,51.0,0,1.0,1,0.0,2,3.0,2.0,11,14.0,9,2
+UBCV,2021,W,CPEN,481,,OVERALL,Economic Analysis of Engineering Projects,,71,75.450704225,10.246656224,92.0,37.0,1,1.0,4,4.0,3,7.0,5.0,16,18.0,10,2
+UBCV,2021,W,CPEN,491,,001,Computer Engineering Capstone Design Project,Andre Ivanov;Benjamin Connor;Catherine Bayless;Cristian Sorin Grecu;Hamed Ahmadi;Ian Hill;Jan Hammer;Joseph Yan;Kevin Dsouza;Maria Celeste Garcia Perez;Md Nurul Shishir;Mohammad Mahdi Kazemi Esfeh;Nusrat Mehajabin;Panos Nasiopoulos;Parvez Chanawala;Paul Lusina;Pieter Botman;S Sidney Fels;Sahar Mavali;Tajwar Aleef;Terry Lee,98,83.683673469,5.601172445,92.0,65.0,0,0.0,0,0.0,1,3.0,5.0,11,29.0,32,17
+UBCV,2021,W,CPEN,491,,OVERALL,Computer Engineering Capstone Design Project,,98,83.683673469,5.601172445,92.0,65.0,0,0.0,0,0.0,1,3.0,5.0,11,29.0,32,17
+UBCV,2021,W,CPEN,502,,101,Architecture for Learning Systems,Marjane Namavar;Sarbjit Sarkaria;Yuan Gao,57,88.614035088,10.569082921,98.0,24.0,1,0.0,0,0.0,1,0.0,1.0,2,4.0,11,37
+UBCV,2021,W,CPEN,502,,OVERALL,Architecture for Learning Systems,,57,88.614035088,10.569082921,98.0,24.0,1,0.0,0,0.0,1,0.0,1.0,2,4.0,11,37
+UBCV,2021,W,CPEN,512,,101,Parallel and Reconfigurable Computing,Fredy Augusto Maciel Alves;Guy Lemieux,10,91.1,5.933895104,99.0,78.0,0,0.0,0,0.0,0,0.0,0.0,1,0.0,1,8
+UBCV,2021,W,CPEN,512,,OVERALL,Parallel and Reconfigurable Computing,,10,91.1,5.933895104,99.0,78.0,0,0.0,0,0.0,0,0.0,0.0,1,0.0,1,8
+UBCV,2021,W,CPEN,513,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,8,90.625,9.272655653,96.0,68.0,0,0.0,0,0.0,0,1.0,0.0,0,0.0,0,7
+UBCV,2021,W,CPEN,513,,OVERALL,CAD Algorithms for Integrated Circuits,,8,90.625,9.272655653,96.0,68.0,0,0.0,0,0.0,0,1.0,0.0,0,0.0,0,7
+UBCV,2021,W,CPEN,533,,201,Error Resilient Computing Systems,Amirhossein Ahmadi;Radu Ripeanu,8,75.875,11.921619018,92.0,60.0,0,0.0,0,1.0,0,4.0,0.0,0,0.0,2,1
+UBCV,2021,W,CPEN,533,,OVERALL,Error Resilient Computing Systems,,8,75.875,11.921619018,92.0,60.0,0,0.0,0,1.0,0,4.0,0.0,0,0.0,2,1
+UBCV,2021,W,CPEN,542,,101,Cybersecurity,Konstantin Beznosov;Yue Huang,22,77.272727273,7.710115917,95.0,68.0,0,0.0,0,0.0,0,7.0,2.0,5,3.0,4,1
+UBCV,2021,W,CPEN,542,,OVERALL,Cybersecurity,,22,77.272727273,7.710115917,95.0,68.0,0,0.0,0,0.0,0,7.0,2.0,5,3.0,4,1

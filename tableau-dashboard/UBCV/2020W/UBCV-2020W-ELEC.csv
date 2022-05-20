@@ -1,141 +1,143 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Enrolled,Avg,Std dev,High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2020,W,ELEC,201,,101,Circuit Analysis I,Ehsanur Rahman;Hany Abdelraheem;Jesus Calvino-Fraga;Kevin Jin-Huen Voon;Kevin Voon;Luis Linares;Mukhlasur Rahman Tanvir,100,63.52,24.75964459,100.0,4.0,27,2.0,1,5,7,12,9.0,1.0,12,13.0,11
-UBCV,2020,W,ELEC,201,,102,Circuit Analysis I,Ehsanur Rahman;Hany Abdelraheem;Jesus Calvino-Fraga;Kevin Jin-Huen Voon;Kevin Voon;Luis Linares;Mukhlasur Rahman Tanvir,86,69.67441861,23.08319575,100.0,6.0,13,1.0,5,7,7,4,6.0,5.0,12,10.0,16
-UBCV,2020,W,ELEC,201,,201,Circuit Analysis I,Alireza Nojeh;Ehsanur Rahman;Gabriel Rebello Guerreiro;Kevin Voon;Mukhlasur Rahman Tanvir,139,66.15107914,14.98158951,97.0,13.0,19,5.0,16,9,12,17,25.0,18.0,8,5.0,5
-UBCV,2020,W,ELEC,201,,OVERALL,Circuit Analysis I,,325,66.27384615,20.69104205,100.0,4.0,59,8.0,22,21,26,33,40.0,24.0,32,28.0,32
-UBCV,2020,W,ELEC,202,,101,Circuit Analysis II,Cristian Sorin Grecu;Luis Linares,22,66.22727273,12.40941201,85.0,44.0,3,0.0,4,2,1,6,1.0,1.0,2,2.0,0
-UBCV,2020,W,ELEC,202,,201,Circuit Analysis II,Alireza Asoodeh;Avilash Mukherjee;Luis Linares;Mohammad Reza Yousefidarestani;Selvakumar Tharranetharan;Shuo Tang,60,72.31666667,12.27439345,100.0,37.0,2,1.0,7,3,8,6,11.0,4.0,8,4.0,6
-UBCV,2020,W,ELEC,202,,202,Circuit Analysis II,Alireza Asoodeh;Avilash Mukherjee;Luis Linares;Selvakumar Tharranetharan;Shuo Tang,71,70.73239437,14.27180812,100.0,29.0,7,3.0,2,6,11,6,5.0,6.0,14,5.0,6
-UBCV,2020,W,ELEC,202,,OVERALL,Circuit Analysis II,,153,70.70588235,13.32236068,100.0,29.0,12,4.0,13,11,20,18,17.0,11.0,24,11.0,12
-UBCV,2020,W,ELEC,203,,101,Basic Circuit Analysis,Mohab Hassan;Mohab Osama Ibrahim Moham Hassan;Naga Raghavendra Koppisetti;Pramit Saha;Saloome Motavas,69,75.04347826,12.17209294,100.0,43.0,2,2.0,2,5,7,10,9.0,7.0,5,10.0,10
-UBCV,2020,W,ELEC,203,,OVERALL,Basic Circuit Analysis,,69,75.04347826,12.17209294,100.0,43.0,2,2.0,2,5,7,10,9.0,7.0,5,10.0,10
-UBCV,2020,W,ELEC,204,,101,Linear Circuits,Gabriel Rebello Guerreiro;Parsa Riahi;Rubinderjit Singh Nagi;Shahriar Mirabbasi,125,95.568,5.49829299,100.0,70.0,0,0.0,0,0,0,1,1.0,1.0,1,7.0,114
-UBCV,2020,W,ELEC,204,,OVERALL,Linear Circuits,,125,95.568,5.49829299,100.0,70.0,0,0.0,0,0,0,1,1.0,1.0,1,7.0,114
-UBCV,2020,W,ELEC,205,,L1A,Electronics Laboratory,Avilash Mukherjee;Naga Raghavendra Koppisetti;Saloome Motavas,27,90.22222222,5.279374477,99.0,73.0,0,0.0,0,0,0,0,1.0,0.0,1,10.0,15
-UBCV,2020,W,ELEC,205,,L1B,Electronics Laboratory,Saloome Motavas,20,90.0,6.727789971,98.0,72.0,0,0.0,0,0,0,0,2.0,0.0,0,5.0,13
-UBCV,2020,W,ELEC,205,,L1C,Electronics Laboratory,Saloome Motavas,12,89.91666667,9.774347998,99.0,71.0,0,0.0,0,0,0,1,0.0,2.0,0,1.0,8
-UBCV,2020,W,ELEC,205,,OVERALL,Electronics Laboratory,,59,90.08474576,6.742270506,99.0,71.0,0,0.0,0,0,0,1,3.0,2.0,1,16.0,36
-UBCV,2020,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Hongzhi Zhu;Jorge May Alvarez;Maryam Tayyab,84,68.71428571,14.7938211,95.0,4.0,5,4.0,8,12,8,7,13.0,4.0,12,7.0,4
-UBCV,2020,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Hongzhi Zhu;Jorge Alejandro May Alvarez;Jorge May Alvarez;Maryam Tayyab,81,67.50617284,15.93825858,96.0,5.0,8,8.0,8,8,5,8,6.0,10.0,8,8.0,4
-UBCV,2020,W,ELEC,211,,OVERALL,Engineering Electromagnetics,,165,68.12121212,15.33121631,96.0,4.0,13,12.0,16,20,13,15,19.0,14.0,20,15.0,8
-UBCV,2020,W,ELEC,221,,101,Signals and Systems,Andrew Ehebald;Andrew William Alexander Ehebald;Chun Yi Lin;Dominic Shillingford;Joel Ezequiel Hernandez-Balades;Joel Hernandez-Balades;Lutz Lampe;Paul Lusina;Selvakumar Tharranetharan;Yinjia Huo,198,73.80808081,13.85103985,97.0,0.0,11,12.0,7,10,9,22,22.0,33.0,21,34.0,17
-UBCV,2020,W,ELEC,221,,201,Signals and Systems,Arunkumar Kannan;Joel Hernandez-Balades;Joseph Yan;Safoora Khosravi;Vishnu Rajendran Chandrika;Zixuan Tan,165,65.56363636,21.00327817,100.0,2.0,26,19.0,18,9,15,12,12.0,9.0,12,13.0,20
-UBCV,2020,W,ELEC,221,,OVERALL,Signals and Systems,,363,70.06060606,17.92084088,100.0,0.0,37,31.0,25,19,24,34,34.0,42.0,33,47.0,37
-UBCV,2020,W,ELEC,271,,201,Selected Topics in Biomedical Engineering,Delaram Behnami;Purang Abolmaesumi,18,92.94444444,3.605098061,98.0,86.0,0,0.0,0,0,0,0,0.0,0.0,0,5.0,13
-UBCV,2020,W,ELEC,271,,OVERALL,Selected Topics in Biomedical Engineering,,18,92.94444444,3.605098061,98.0,86.0,0,0.0,0,0,0,0,0.0,0.0,0,5.0,13
-UBCV,2020,W,ELEC,281,,201,Technical Communication,Hongxing Estella Qi,31,72.19354839,12.21861791,90.0,45.0,2,1.0,2,2,3,4,3.0,3.0,6,4.0,1
-UBCV,2020,W,ELEC,281,,202,Technical Communication,Hartaj Sanghara,31,71.29032258,8.426915404,85.0,47.0,2,0.0,0,2,3,7,7.0,7.0,2,1.0,0
-UBCV,2020,W,ELEC,281,,203,Technical Communication,Patrick Conroy;Randall Kerr,20,77.05,4.058454463,84.0,70.0,0,0.0,0,0,0,2,6.0,5.0,7,0.0,0
-UBCV,2020,W,ELEC,281,,204,Technical Communication,Hongxing Estella Qi,28,72.57142857,11.25603894,85.0,43.0,3,0.0,0,2,1,4,2.0,7.0,8,1.0,0
-UBCV,2020,W,ELEC,281,,205,Technical Communication,Hartaj Sanghara;Randall Kerr,35,70.02857143,10.13289841,82.0,40.0,3,0.0,1,2,4,8,3.0,9.0,5,0.0,0
-UBCV,2020,W,ELEC,281,,OVERALL,Technical Communication,,145,72.22068966,10.03429464,90.0,40.0,10,1.0,3,8,11,25,21.0,31.0,28,6.0,1
-UBCV,2020,W,ELEC,291,,201,Electrical Engineering Design Studio I,Ahmed Atef Ali;Jessica Hua;Jesus Calvino-Fraga;Mingyuan Du;Muchen He;Nourhan Bayasi;Rafiuzzaman Mohammad;Shenghang Luo;Xinlu Dai,100,80.06,9.238500906,100.0,33.0,2,0.0,1,2,2,1,2.0,22.0,43,19.0,6
-UBCV,2020,W,ELEC,291,,OVERALL,Electrical Engineering Design Studio I,,100,80.06,9.238500906,100.0,33.0,2,0.0,1,2,2,1,2.0,22.0,43,19.0,6
-UBCV,2020,W,ELEC,292,,201,Biomedical Engineering Design Studio,Ahmed Atef Ali;Jessica Hua;Jesus Calvino-Fraga;Mingyuan Du;Muchen He;Nourhan Bayasi;Rafiuzzaman Mohammad;Shenghang Luo;Xinlu Dai,14,81.21428571,6.482859903,91.0,71.0,0,0.0,0,0,0,1,3.0,0.0,6,2.0,2
-UBCV,2020,W,ELEC,292,,OVERALL,Biomedical Engineering Design Studio,,14,81.21428571,6.482859903,91.0,71.0,0,0.0,0,0,0,1,3.0,0.0,6,2.0,2
-UBCV,2020,W,ELEC,301,,101,Electronic Circuits,Abdelrahmen Afifi;Abdelrahmen Emad Eldin Afifi;Leanne Dias;Mustafa Hammood;Nicolas A Jaeger;Wangning Cai,126,78.29365079,9.155603714,93.0,53.0,0,1.0,2,7,5,12,19.0,12.0,25,27.0,16
-UBCV,2020,W,ELEC,301,,201,Electronic Circuits,Abdelrahmen Afifi;Mustafa Hammood;Nicolas A Jaeger;Tianye Wang;Wangning Cai,77,78.22077922,16.0325519,97.0,5.0,5,1.0,0.0,2,4,6,4.0,5.0,16,15.0,19
-UBCV,2020,W,ELEC,301,,OVERALL,Electronic Circuits,,203,78.26600985,12.18943616,97.0,5.0,5,2.0,2,9,9,18,23.0,17.0,41,42.0,35
-UBCV,2020,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Kenichi Takahata;Mohab Hassan;Surabhi Agarwal,42,76.35714286,12.96302703,94.0,39.0,2,1.0,2,1,2,3,4.0,6.0,9,6.0,6
-UBCV,2020,W,ELEC,302,,OVERALL,Electronic Circuits for Electromechanical Design,,42,76.35714286,12.96302703,94.0,39.0,2,1.0,2,1,2,3,4.0,6.0,9,6.0,6
-UBCV,2020,W,ELEC,311,,101,Electromagnetic Fields and Waves,Adrian Sakari Tanskanen;Matthew Yedlin;Robert Lupoiu;Sze Hang Ng,113,78.37168142,7.8832946,96.0,61.0,0,0.0,0,4,7,12,16.0,21.0,26,21.0,6
-UBCV,2020,W,ELEC,311,,201,Electromagnetic Fields and Waves,Adrian Sakari Tanskanen;David Michelson,48,82.77083333,9.822335778,99.0,52.0,0,1.0,1,0,0,4,5.0,5.0,9,13.0,10
-UBCV,2020,W,ELEC,311,,OVERALL,Electromagnetic Fields and Waves,,161,79.68322981,8.713080942,99.0,52.0,0,1.0,1,4,7,16,21.0,26.0,35,34.0,16
-UBCV,2020,W,ELEC,315,,101,Electronic Materials and Devices,Ahmed Atef Ali;Fatemeh Aghaee Rad;John Madden;Kieran Morton;Konstantin Borissov;Konstantin Lazarov Borissov,122,76.83606557,9.470581379,99.0,50.0,0,2.0,3,7,8,12,14.0,28.0,20,20.0,8
-UBCV,2020,W,ELEC,315,,201,Electronic Materials and Devices,John Madden;Kieran Morton;Peyman Servati,44,77.54545455,13.47944955,100.0,28.0,1,1.0,2,2,2,5,5.0,0.0,11,7.0,8
-UBCV,2020,W,ELEC,315,,OVERALL,Electronic Materials and Devices,,166,77.02409639,10.64066061,100.0,28.0,1,3.0,5,9,10,17,19.0,28.0,31,27.0,16
-UBCV,2020,W,ELEC,321,,201,Stochastic Signals and Systems,Ang Nan Gu;Animesh Sakorikar;Hoi Yin Eugenia Yu;Lele Wang;Lutz Lampe;Ning Zhang;Xinlu Dai;Ziao Wang,85,70.90588235,15.4176951,96.0,20.0,6,4.0,5,6,7,10,12.0,7.0,12,12.0,4
-UBCV,2020,W,ELEC,321,,OVERALL,Stochastic Signals and Systems,,85,70.90588235,15.4176951,96.0,20.0,6,4.0,5,6,7,10,12.0,7.0,12,12.0,4
-UBCV,2020,W,ELEC,331,,101,Computer Communications,Farshid Agharebparast;Mehdi Setayesh;Scott Chin;Wai-Shuen Vincent Wong,88,75.21590909,11.31721186,93.0,23.0,1,1.0,5,7,6,8,8.0,12.0,23,8.0,9
-UBCV,2020,W,ELEC,331,,201,Computer Communications,Mehdi Setayesh;Rui Huang;Wai-Shuen Vincent Wong,84,73.86904762,12.81638613,99.0,20.0,3,2.0,6,2,6,8,10.0,17.0,17,7.0,6
-UBCV,2020,W,ELEC,331,,OVERALL,Computer Communications,,172,74.55813954,12.05601415,99.0,20.0,4,3.0,11,9,12,16,18.0,29.0,40,15.0,15
-UBCV,2020,W,ELEC,341,,101,Systems and Control,Andrew Yan;Leo Stocco;Mohammad Najjarzadegan;Sara Hosseinirad,58,69.55172414,14.82431906,99.0,39.0,4,4.0,7,6,4,6,5.0,6.0,5,5.0,6
-UBCV,2020,W,ELEC,341,,201,Systems and Control,Amirali Darbandsari;Andrew Yan;Mohammad Najjarzadegan;Siamak Najarian,117,77.26495727,11.82078325,100.0,43.0,1,2.0,7,8,8,7,14.0,15.0,18,19.0,18
-UBCV,2020,W,ELEC,341,,OVERALL,Systems and Control,,175,74.70857143,13.35676185,100.0,39.0,5,6.0,14,14,12,13,19.0,21.0,23,24.0,24
-UBCV,2020,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Bo Chen;Hanqing Lin;Jun Min;Juri Jatskevich;Luis Linares;Mohammad Mahdavyfakhr,96,70.625,10.2579879,96.0,42.0,4,1.0,8,5,12,18,19.0,11.0,10,4.0,4
-UBCV,2020,W,ELEC,342,,201,Electro-Mechanical Energy Conversion and Transmission,Luis Linares;Mohammad Mahdavyfakhr;Rubinderjit Singh Nagi,71,66.45070423,13.18092641,100.0,33.0,5,3.0,9,18,5,10,4.0,4.0,7,3.0,3
-UBCV,2020,W,ELEC,342,,OVERALL,Electro-Mechanical Energy Conversion and Transmission,,167,68.8502994,11.73740224,100.0,33.0,9,4.0,17,23,17,28,23.0,15.0,17,7.0,7
-UBCV,2020,W,ELEC,343,,201,Electromechanics,Arash Safavizadeh;Erfan Mostajeran;Juri Jatskevich,26,76.26923077,8.378819451,91.0,55.0,0,0.0,1,2,1,2,5.0,7.0,4,1.0,3
-UBCV,2020,W,ELEC,343,,OVERALL,Electromechanics,,26,76.26923077,8.378819451,91.0,55.0,0,0.0,1,2,1,2,5.0,7.0,4,1.0,3
-UBCV,2020,W,ELEC,344,,101,Applied Electronics and Electromechanics,Gabriel Ferreira Da Silva;Ignacio Galiano Zurbriggen;Jorge Alejandro May Alvarez;Jorge May Alvarez;Sina Sadrian,85,82.83529412,7.814588096,96.0,42.0,1,0.0,0,0,3,1,4.0,13.0,26,24.0,13
-UBCV,2020,W,ELEC,344,,201,Applied Electronics and Electromechanics,Gabriel Ferreira Da Silva;Ignacio Galiano Zurbriggen;Jhih-Da Hsu;Jorge Alejandro May Alvarez;Jorge May Alvarez;Lucas Sinopoli;Tania Mair Garcia,69,79.72463768,12.87825808,99.0,19.0,2,1.0,1,2,0.0,4,7.0,10.0,16,14.0,12
-UBCV,2020,W,ELEC,344,,OVERALL,Applied Electronics and Electromechanics,,154,81.44155844,10.47124105,99.0,19.0,3,1.0,1,2,3,5,11.0,23.0,42,38.0,25
-UBCV,2020,W,ELEC,352,,201,Electric Energy Systems,Bo Chen;Sina Chiniforoosh;Yu Christine Chen,30,77.86666667,7.610035721,90.0,60.0,0,0.0,0,1,3,4,2.0,4.0,11,4.0,1
-UBCV,2020,W,ELEC,352,,OVERALL,Electric Energy Systems,,30,77.86666667,7.610035721,90.0,60.0,0,0.0,0,1,3,4,2.0,4.0,11,4.0,1
-UBCV,2020,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Hooman Vaseli;Leo Stocco,12,74.16666667,10.20546497,92.0,64.0,0,0.0,0,0,4,2,2.0,0.0,2,0.0,2
-UBCV,2020,W,ELEC,371,,OVERALL,Biomedical Engineering Instrumentation,,12,74.16666667,10.20546497,92.0,64.0,0,0.0,0,0,4,2,2.0,0.0,2,0.0,2
-UBCV,2020,W,ELEC,391,,201,Electrical Engineering Design Studio II,Charlotte Johnston;Daniel Li;Franco Degioanni;Jonas Welsch;Leo Stocco;Mohammad Najjarzadegan,160,74.26875,11.88980953,96.0,0.0,2,0.0,4,15,20,15,27.0,19.0,25,14.0,19
-UBCV,2020,W,ELEC,391,,OVERALL,Electrical Engineering Design Studio II,,160,74.26875,11.88980953,96.0,0.0,2,0.0,4,15,20,15,27.0,19.0,25,14.0,19
-UBCV,2020,W,ELEC,400,M,201,Topics in Electrical Engineering,Lutz Lampe;Mostafa Darabi;Yinjia Huo,55,73.96363636,12.69873665,92.0,24.0,2,0.0,4,3,6,5,4.0,10.0,11,7.0,3
-UBCV,2020,W,ELEC,400,M,OVERALL,Topics in Electrical Engineering,,55,73.96363636,12.69873665,92.0,24.0,2,0.0,4,3,6,5,4.0,10.0,11,7.0,3
-UBCV,2020,W,ELEC,401,,101,Analog CMOS Integrated Circuit Design,Alireza Asoodeh;Mohammed Al-Qadasi;Mohammed Ali Al-Qadasi;Shahriar Mirabbasi,51,87.64705882,11.61864627,100.0,50.0,0,2.0,0,0,2,0,0.0,2.0,9,10.0,26
-UBCV,2020,W,ELEC,401,,OVERALL,Analog CMOS Integrated Circuit Design,,51,87.64705882,11.61864627,100.0,50.0,0,2.0,0,0,2,0,0.0,2.0,9,10.0,26
-UBCV,2020,W,ELEC,402,,101,Introduction to VLSI Systems,Muchen He;Omid Esmaeeli;Reza Molavi,41,76.41463415,10.770273,99.0,55.0,0,0.0,2,1,8,6,1.0,5.0,7,6.0,5
-UBCV,2020,W,ELEC,402,,OVERALL,Introduction to VLSI Systems,,41,76.41463415,10.770273,99.0,55.0,0,0.0,2,1,8,6,1.0,5.0,7,6.0,5
-UBCV,2020,W,ELEC,403,,201,Advanced Digital VLSI Systems,Alireza Asoodeh;Reza Molavi,14,74.64285714,15.6971685,93.0,32.0,1,0.0,1,1,0,1,1.0,2.0,3,3.0,1
-UBCV,2020,W,ELEC,403,,OVERALL,Advanced Digital VLSI Systems,,14,74.64285714,15.6971685,93.0,32.0,1,0.0,1,1,0,1,1.0,2.0,3,3.0,1
-UBCV,2020,W,ELEC,404,,201,RF Integrated Circuits,Amir Masnadi;Omid Esmaeeli,19,82.52631579,9.263839023,94.0,65.0,0,0.0,0,0,2,1,2.0,1.0,3,4.0,6
-UBCV,2020,W,ELEC,404,,OVERALL,RF Integrated Circuits,,19,82.52631579,9.263839023,94.0,65.0,0,0.0,0,0,2,1,2.0,1.0,3,4.0,6
-UBCV,2020,W,ELEC,411,,101,Antennas and Propagation,Aidan Hughes;David Michelson,15,89.93333333,6.215954894,98.0,76.0,0,0.0,0,0,0,0,0.0,1.0,2,2.0,10
-UBCV,2020,W,ELEC,411,,OVERALL,Antennas and Propagation,,15,89.93333333,6.215954894,98.0,76.0,0,0.0,0,0,0,0,0.0,1.0,2,2.0,10
-UBCV,2020,W,ELEC,412,,101,Optical Waveguides and Photonics,Mustafa Hammood;Nicolas A Jaeger,10,84.8,7.067924416,99.0,76.0,0,0.0,0,0,0,0,0.0,2.0,4,1.0,3
-UBCV,2020,W,ELEC,412,,OVERALL,Optical Waveguides and Photonics,,10,84.8,7.067924416,99.0,76.0,0,0.0,0,0,0,0,0.0,2.0,4,1.0,3
-UBCV,2020,W,ELEC,413,,201,Semiconductor Lasers,Lukas Chrostowski;Seyediman Taghavi,35,84.0,18.06035633,99.0,14.0,1,0.0,4,0,0,2,1.0,3.0,1,4.0,19
-UBCV,2020,W,ELEC,413,,OVERALL,Semiconductor Lasers,,35,84.0,18.06035633,99.0,14.0,1,0.0,4,0,0,2,1.0,3.0,1,4.0,19
-UBCV,2020,W,ELEC,415,,201,"Semiconductor Devices: Physics, Design and Analysis",Joseph Salfi;Zahra Shahriari,23,79.86956522,9.425807647,93.0,61.0,0,0.0,0,1,2,0.0,5.0,2.0,3,5.0,5
-UBCV,2020,W,ELEC,415,,OVERALL,"Semiconductor Devices: Physics, Design and Analysis",,23,79.86956522,9.425807647,93.0,61.0,0,0.0,0,1,2,0.0,5.0,2.0,3,5.0,5
-UBCV,2020,W,ELEC,421,,101,Digital Signal and Image Processing,Arunkumar Kannan;Rafeef Garbi;Zhen Wang,27,71.18518519,18.83130993,98.0,15.0,1,4.0,1,3,3,3,1.0,1.0,2,2.0,6
-UBCV,2020,W,ELEC,421,,OVERALL,Digital Signal and Image Processing,,27,71.18518519,18.83130993,98.0,15.0,1,4.0,1,3,3,3,1.0,1.0,2,2.0,6
-UBCV,2020,W,ELEC,422,,201,Biosignals and Systems,Yongwei Wang;Zhen Wang,27,79.0,11.69483778,97.0,50.0,0,1.0,1,1,1,1,4.0,3.0,4,6.0,5
-UBCV,2020,W,ELEC,422,,OVERALL,Biosignals and Systems,,27,79.0,11.69483778,97.0,50.0,0,1.0,1,1,1,1,4.0,3.0,4,6.0,5
-UBCV,2020,W,ELEC,431,,101,Communication Systems I,Cyril Leung;Mostafa Darabi,11,75.81818182,16.22231908,92.0,41.0,1,1.0,0,0,0,0,2.0,1.0,1,3.0,2
-UBCV,2020,W,ELEC,431,,OVERALL,Communication Systems I,,11,75.81818182,16.22231908,92.0,41.0,1,1.0,0,0,0,0,2.0,1.0,1,3.0,2
-UBCV,2020,W,ELEC,433,,201,Error Control Coding for Communications and Computers,Jiaming Cheng;Vijay Bhargava,19,79.47368421,8.402171816,93.0,63.0,0,0.0,0,1,1,3,0.0,3.0,6,3.0,2
-UBCV,2020,W,ELEC,433,,OVERALL,Error Control Coding for Communications and Computers,,19,79.47368421,8.402171816,93.0,63.0,0,0.0,0,1,1,3,0.0,3.0,6,3.0,2
-UBCV,2020,W,ELEC,441,,201,Control Systems,Alireza Alian Porzani;Guy A Dumont;Kai Ren;Maryam Kamgarpour,45,74.91111111,13.42288111,94.0,51.0,0,4.0,6,3,2,2,1.0,3.0,13,5.0,6
-UBCV,2020,W,ELEC,441,,OVERALL,Control Systems,,45,74.91111111,13.42288111,94.0,51.0,0,4.0,6,3,2,2,1.0,3.0,13,5.0,6
-UBCV,2020,W,ELEC,442,,101,Introduction to Robotics,Joseph Yan;Ryan Yang;Septimiu Salcudean,35,73.0,15.02938299,99.0,50.0,0,5.0,4,0.0,6,3,3.0,2.0,3,4.0,5
-UBCV,2020,W,ELEC,442,,OVERALL,Introduction to Robotics,,35,73.0,15.02938299,99.0,50.0,0,5.0,4,0.0,6,3,3.0,2.0,3,4.0,5
-UBCV,2020,W,ELEC,451,,101,Power Electronics,Franco Degioanni;Jhih-Da Hsu;Martin Ordonez;Sayed Abbas Arshadi;Sayed Arshadi,58,80.39655172,10.24941531,95.0,31.0,1,0.0,1,0,2,4,6.0,8.0,16,8.0,12
-UBCV,2020,W,ELEC,451,,OVERALL,Power Electronics,,58,80.39655172,10.24941531,95.0,31.0,1,0.0,1,0,2,4,6.0,8.0,16,8.0,12
-UBCV,2020,W,ELEC,453,,101,Power System Analysis,Abdullah Al-Digs;Jose Marti,33,82.57575758,11.31655398,99.0,50.0,0,1.0,1,0,0,1,7.0,3.0,4,7.0,9
-UBCV,2020,W,ELEC,453,,OVERALL,Power System Analysis,,33,82.57575758,11.31655398,99.0,50.0,0,1.0,1,0,0,1,7.0,3.0,4,7.0,9
-UBCV,2020,W,ELEC,454,,201,Power System Analysis II,Abdullah Al-Digs;Jose Marti,18,77.94444444,18.00807735,93.0,34.0,2,0.0,0,0,2,0,1.0,2.0,4,0.0,7
-UBCV,2020,W,ELEC,454,,OVERALL,Power System Analysis II,,18,77.94444444,18.00807735,93.0,34.0,2,0.0,0,0,2,0,1.0,2.0,4,0.0,7
-UBCV,2020,W,ELEC,455,,201,Power Systems Protection,Charles Francis Henville;Charles Henville;Mukesh Nagpal,14,87.85714286,4.312007258,94.0,77.0,0,0.0,0,0,0,0,0.0,1.0,1,5.0,7
-UBCV,2020,W,ELEC,455,,OVERALL,Power Systems Protection,,14,87.85714286,4.312007258,94.0,77.0,0,0.0,0,0,0,0,0.0,1.0,1,5.0,7
-UBCV,2020,W,ELEC,456,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi;Rubinderjit Singh Nagi,6,74.33333333,12.78540835,92.0,54.0,0,1.0,0,0,1,0,0.0,3.0,0,0.0,1
-UBCV,2020,W,ELEC,456,,OVERALL,Decision Support Methods in Power Systems Operation,,6,74.33333333,12.78540835,92.0,54.0,0,1.0,0,0,1,0,0.0,3.0,0,0.0,1
-UBCV,2020,W,ELEC,457,,101,Optimization of Power System Operation,Ebrahim Vaahedi;Rubinderjit Singh Nagi,8,77.5,5.78174467,85.0,69.0,0,0.0,0,0,0,1,3.0,1.0,2,1.0,0
-UBCV,2020,W,ELEC,457,,OVERALL,Optimization of Power System Operation,,8,77.5,5.78174467,85.0,69.0,0,0.0,0,0,0,1,3.0,1.0,2,1.0,0
-UBCV,2020,W,ELEC,461,,101,Nanotechnology in Electronics,Konrad Walus;Sze Hang Ng,10,83.0,9.877021593,98.0,69.0,0,0.0,0,0,0,1,1.0,2.0,2,0.0,4
-UBCV,2020,W,ELEC,461,,OVERALL,Nanotechnology in Electronics,,10,83.0,9.877021593,98.0,69.0,0,0.0,0,0,0,1,1.0,2.0,2,0.0,4
-UBCV,2020,W,ELEC,462,,101,Sensors and Actuators in Microsystems,Boris Stoeber;Edmond Cretu;Ruolan Ye;Safoora Khosravi,35,76.88571429,11.97244736,95.0,37.0,1,0.0,3,0,2,2,6.0,4.0,6,7.0,4
-UBCV,2020,W,ELEC,462,,OVERALL,Sensors and Actuators in Microsystems,,35,76.88571429,11.97244736,95.0,37.0,1,0.0,3,0,2,2,6.0,4.0,6,7.0,4
-UBCV,2020,W,ELEC,471,,101,Medical Imaging,Golara Javadi;Robert Rohling,15,83.66666667,5.814595756,91.0,70.0,0,0.0,0,0,0,1,1.0,1.0,3,7.0,2
-UBCV,2020,W,ELEC,471,,OVERALL,Medical Imaging,,15,83.66666667,5.814595756,91.0,70.0,0,0.0,0,0,0,1,1.0,1.0,3,7.0,2
-UBCV,2020,W,ELEC,473,,101,Biological Micro-Electro-Mechanical Systems,Jessica Hua;Karen Cheung;Tiffany Cameron;Tiffany Colleen Cameron,28,74.32142857,9.560929644,94.0,58.0,0,0.0,1,2,4,3,3.0,6.0,3,3.0,2
-UBCV,2020,W,ELEC,473,,OVERALL,Biological Micro-Electro-Mechanical Systems,,28,74.32142857,9.560929644,94.0,58.0,0,0.0,1,2,4,3,3.0,6.0,3,3.0,2
-UBCV,2020,W,ELEC,474,,101,Biophotonics,Shuo Tang,12,80.08333333,8.382431122,93.0,64.0,0,0.0,0,0,1,1,0.0,3.0,2,3.0,2
-UBCV,2020,W,ELEC,474,,OVERALL,Biophotonics,,12,80.08333333,8.382431122,93.0,64.0,0,0.0,0,0,1,1,0.0,3.0,2,3.0,2
-UBCV,2020,W,ELEC,481,,101,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Jeffrey Carmichael;Kelleen Wiseman;Tom Wang;Xiao Han,51,73.1372549,12.05822476,94.0,47.0,2,1.0,5,4,7,4,5.0,4.0,8,9.0,2
-UBCV,2020,W,ELEC,481,,201,Economic Analysis of Engineering Projects,Bailing Zheng;Bianca Ravani Cecato;Cyril Leung;Jeffrey Carmichael;Xiao Han;Xiaowen Kong,62,76.08064516,12.18881291,95.0,38.0,2,2.0,1,1,7,8,7.0,5.0,13,10.0,6
-UBCV,2020,W,ELEC,481,,OVERALL,Economic Analysis of Engineering Projects,,113,74.75221239,12.16518083,95.0,38.0,4,3.0,6,5,14,12,12.0,9.0,21,19.0,8
-UBCV,2020,W,ELEC,491,,001,Electrical Engineering Capstone Design Project,Andre Ivanov;Archita Borah;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Ian Hill;Ian Robert Mccluny Hill;Jan Hammer;Joseph Yan;Kevin Dsouza;Maria Celeste Garcia Perez;Michael Gracias;Michael Schubert Gracias;Mohammad Mahdi Kazimi Esfeh;Nusrat Mehajabin;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Stylianos Ploumis;Tajwar Aleef;Terry Lee,131,84.4351145,7.996248386,99.0,30.0,1,0.0,0,2,0,1,7.0,15.0,30,42.0,33
-UBCV,2020,W,ELEC,491,,OVERALL,Electrical Engineering Capstone Design Project,,131,84.4351145,7.996248386,99.0,30.0,1,0.0,0,2,0,1,7.0,15.0,30,42.0,33
-UBCV,2020,W,ELEC,494,,001,Biomedical Engineering Capstone Design Project,Andre Ivanov;Archita Borah;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Ian Hill;Ian Robert Mccluny Hill;Jan Hammer;Joseph Yan;Kevin Dsouza;Maria Celeste Garcia Perez;Michael Gracias;Michael Schubert Gracias;Mohammad Mahdi Kazimi Esfeh;Nusrat Mehajabin;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Philippe Kruchten;Pieter Botman;Stylianos Ploumis;Tajwar Aleef;Terry Lee,16,87.25,7.187952884,95.0,64.0,0,0.0,0,0,1,0,0.0,0.0,2,5.0,8
-UBCV,2020,W,ELEC,494,,OVERALL,Biomedical Engineering Capstone Design Project,,16,87.25,7.187952884,95.0,64.0,0,0.0,0,0,1,0,0.0,0.0,2,5.0,8
-UBCV,2020,W,ELEC,502,,201,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,Bradley Quinton;Scott Chin,8,91.0,5.952190473,99.0,82.0,0,0.0,0,0,0,0,0.0,0.0,1,3.0,4
-UBCV,2020,W,ELEC,502,,OVERALL,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,,8,91.0,5.952190473,99.0,82.0,0,0.0,0,0,0,0,0.0,0.0,1,3.0,4
-UBCV,2020,W,ELEC,507,,201,Mixed-Signal and RF Integrated Circuits and Systems Test,Roberto Rosales,9,93.22222222,5.118050844,100.0,85.0,0,0.0,0,0,0,0,0.0,0.0,0,2.0,7
-UBCV,2020,W,ELEC,507,,OVERALL,Mixed-Signal and RF Integrated Circuits and Systems Test,,9,93.22222222,5.118050844,100.0,85.0,0,0.0,0,0,0,0,0.0,0.0,0,2.0,7
-UBCV,2020,W,ELEC,521,,101,Biomedical Microdevices,Karen Cheung,6,80.66666667,9.912954487,95.0,72.0,0,0.0,0,0,0,0,2.0,2.0,0,0.0,2
-UBCV,2020,W,ELEC,521,,OVERALL,Biomedical Microdevices,,6,80.66666667,9.912954487,95.0,72.0,0,0.0,0,0,0,0,2.0,2.0,0,0.0,2
-UBCV,2020,W,ELEC,523,,101,Medical Imaging,Pramit Saha;Siamak Najarian,25,85.16,7.776460206,95.0,58.0,0,0.0,,,,,1.0,2.0,3,10.0,8
-UBCV,2020,W,ELEC,523,,OVERALL,Medical Imaging,,25,85.16,7.776460206,95.0,58.0,0,0.0,,,,,1.0,2.0,3,10.0,8
-UBCV,2020,W,ELEC,524,,101,Advanced Biophotonics,Shuo Tang,9,83.22222222,6.572248051,93.0,72.0,0,0.0,0,0,0,0,1.0,1.0,2,3.0,2
-UBCV,2020,W,ELEC,524,,OVERALL,Advanced Biophotonics,,9,83.22222222,6.572248051,93.0,72.0,0,0.0,0,0,0,0,1.0,1.0,2,3.0,2
-UBCV,2020,W,ELEC,544,,101,Advanced Microsystems Design,Edmond Cretu,6,83.66666667,12.73839341,98.0,68.0,0,0.0,0,0,0,2,0.0,0.0,0,1.0,3
-UBCV,2020,W,ELEC,544,,OVERALL,Advanced Microsystems Design,,6,83.66666667,12.73839341,98.0,68.0,0,0.0,0,0,0,2,0.0,0.0,0,1.0,3
-UBCV,2020,W,ELEC,546,,101,Micro and Nano Fabrication Technologies,Kenichi Takahata,8,84.0,6.718843438,94.0,77.0,0,0.0,0,0,0,0,0.0,2.0,3,0.0,3
-UBCV,2020,W,ELEC,546,,OVERALL,Micro and Nano Fabrication Technologies,,8,84.0,6.718843438,94.0,77.0,0,0.0,0,0,0,0,0.0,2.0,3,0.0,3
+UBCV,2020,W,ELEC,201,,101,Circuit Analysis I,Ehsanur Rahman;Hany Abdelraheem;Jesus Calvino-Fraga;Kevin Voon;Luis Linares;Mukhlasur Rahman Tanvir,100,63.52,24.759644585,100.0,4.0,27,2.0,1,5,7,12,9.0,1.0,12.0,13.0,11
+UBCV,2020,W,ELEC,201,,102,Circuit Analysis I,Ehsanur Rahman;Hany Abdelraheem;Jesus Calvino-Fraga;Kevin Voon;Luis Linares;Mukhlasur Rahman Tanvir,86,70.23255814,22.439290341,100.0,6.0,12,1.0,5,7,7,5,6.0,5.0,12.0,10.0,16
+UBCV,2020,W,ELEC,201,,201,Circuit Analysis I,Alireza Nojeh;Ehsanur Rahman;Gabriel Rebello Guerreiro;Kevin Voon;Mukhlasur Rahman Tanvir,138,66.855072464,13.995594054,97.0,22.0,17,5.0,16,9,12,17,26.0,18.0,8.0,5.0,5
+UBCV,2020,W,ELEC,201,,OVERALL,Circuit Analysis I,,324,66.722222222,20.247157045,100.0,4.0,56,8.0,22,21,26,34,41.0,24.0,32.0,28.0,32
+UBCV,2020,W,ELEC,202,,101,Circuit Analysis II,Luis Linares,22,66.227272727,12.409412012,85.0,44.0,3,0.0,4,2,1,6,1.0,1.0,2.0,2.0,0
+UBCV,2020,W,ELEC,202,,201,Circuit Analysis II,Alireza Asoodeh;Luis Linares;Mohammad Reza Yousefidarestani;Selvakumar Tharranetharan;Shuo Tang,60,72.316666667,12.274393446,100.0,37.0,2,1.0,7,3,8,6,11.0,4.0,8.0,4.0,6
+UBCV,2020,W,ELEC,202,,202,Circuit Analysis II,Alireza Asoodeh;Avilash Mukherjee;Luis Linares;Selvakumar Tharranetharan;Shuo Tang,71,71.338028169,14.462704412,100.0,29.0,7,2.0,2,6,11,6,5.0,6.0,14.0,5.0,7
+UBCV,2020,W,ELEC,202,,OVERALL,Circuit Analysis II,,153,70.986928105,13.420814024,100.0,29.0,12,3.0,13,11,20,18,17.0,11.0,24.0,11.0,13
+UBCV,2020,W,ELEC,203,,101,Basic Circuit Analysis,Mohab Hassan;Mohab Osama Ibrahim Moham Hassan;Naga Raghavendra Koppisetti;Pramit Saha;Saloome Motavas,69,75.043478261,12.17209294,100.0,43.0,2,2.0,2,5,7,10,9.0,7.0,5.0,10.0,10
+UBCV,2020,W,ELEC,203,,OVERALL,Basic Circuit Analysis,,69,75.043478261,12.17209294,100.0,43.0,2,2.0,2,5,7,10,9.0,7.0,5.0,10.0,10
+UBCV,2020,W,ELEC,204,,101,Linear Circuits,Gabriel Rebello Guerreiro;Parsa Riahi;Rubinderjit Singh Nagi;Shahriar Mirabbasi,125,95.568,5.49829299,100.0,70.0,0,0.0,0,0,0,1,1.0,1.0,1.0,7.0,114
+UBCV,2020,W,ELEC,204,,OVERALL,Linear Circuits,,125,95.568,5.49829299,100.0,70.0,0,0.0,0,0,0,1,1.0,1.0,1.0,7.0,114
+UBCV,2020,W,ELEC,205,,L1A,Electronics Laboratory,Avilash Mukherjee;Naga Raghavendra Koppisetti;Saloome Motavas,27,90.222222222,5.279374477,99.0,73.0,0,0.0,0,0,0,0,1.0,0.0,1.0,10.0,15
+UBCV,2020,W,ELEC,205,,L1B,Electronics Laboratory,Saloome Motavas,20,90.0,6.727789971,98.0,72.0,0,0.0,0,0,0,0,2.0,0.0,0.0,5.0,13
+UBCV,2020,W,ELEC,205,,L1C,Electronics Laboratory,Saloome Motavas,12,89.916666667,9.774347998,99.0,71.0,0,0.0,0,0,0,1,0.0,2.0,0.0,1.0,8
+UBCV,2020,W,ELEC,205,,OVERALL,Electronics Laboratory,,59,90.084745763,6.742270506,99.0,71.0,0,0.0,0,0,0,1,3.0,2.0,1.0,16.0,36
+UBCV,2020,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Hongzhi Zhu;Maryam Tayyab,84,69.011904762,14.140852591,95.0,4.0,4,5.0,8,12,8,7,13.0,4.0,12.0,7.0,4
+UBCV,2020,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger;Hany Abdelraheem;Hongzhi Zhu;Jorge Alejandro May Alvarez;Maryam Tayyab,81,67.50617284,15.938258576,96.0,5.0,8,8.0,8,8,5,8,6.0,10.0,8.0,8.0,4
+UBCV,2020,W,ELEC,211,,OVERALL,Engineering Electromagnetics,,165,68.272727273,15.022894575,96.0,4.0,12,13.0,16,20,13,15,19.0,14.0,20.0,15.0,8
+UBCV,2020,W,ELEC,221,,101,Signals and Systems,Andrew Ehebald;Chun Yi Lin;Dominic Shillingford;Joel Hernandez-Balades;Lutz Lampe;Selvakumar Tharranetharan;Yinjia Huo,198,73.808080808,13.85103985,97.0,0.0,11,12.0,7,10,9,22,22.0,33.0,21.0,34.0,17
+UBCV,2020,W,ELEC,221,,201,Signals and Systems,Arunkumar Kannan;Joel Hernandez-Balades;Joseph Yan;Safoora Khosravi;Vishnu Rajendran Chandrika;Zixuan Tan,164,66.676829268,19.462701776,100.0,6.0,23,20.0,18,9,15,12,12.0,10.0,12.0,13.0,20
+UBCV,2020,W,ELEC,221,,OVERALL,Signals and Systems,,362,70.577348066,16.981359689,100.0,0.0,34,32.0,25,19,24,34,34.0,43.0,33.0,47.0,37
+UBCV,2020,W,ELEC,271,,201,Selected Topics in Biomedical Engineering,Delaram Behnami;Purang Abolmaesumi,18,92.944444444,3.605098061,98.0,86.0,0,0.0,0,0,0,0,0.0,0.0,0.0,5.0,13
+UBCV,2020,W,ELEC,271,,OVERALL,Selected Topics in Biomedical Engineering,,18,92.944444444,3.605098061,98.0,86.0,0,0.0,0,0,0,0,0.0,0.0,0.0,5.0,13
+UBCV,2020,W,ELEC,281,,201,Technical Communication,Hongxing Estella Qi,31,72.193548387,12.218617911,90.0,45.0,2,1.0,2,2,3,4,3.0,3.0,6.0,4.0,1
+UBCV,2020,W,ELEC,281,,202,Technical Communication,Hartaj Sanghara,31,71.290322581,8.426915404,85.0,47.0,2,0.0,0,2,3,7,7.0,7.0,2.0,1.0,0
+UBCV,2020,W,ELEC,281,,203,Technical Communication,Patrick Conroy;Randall Kerr,20,77.05,4.058454463,84.0,70.0,0,0.0,0,0,0,2,6.0,5.0,7.0,0.0,0
+UBCV,2020,W,ELEC,281,,204,Technical Communication,Hongxing Estella Qi,28,72.571428571,11.256038944,85.0,43.0,3,0.0,0,2,1,4,2.0,7.0,8.0,1.0,0
+UBCV,2020,W,ELEC,281,,205,Technical Communication,Hartaj Sanghara;Randall Kerr,35,70.028571429,10.132898413,82.0,40.0,3,0.0,1,2,4,8,3.0,9.0,5.0,0.0,0
+UBCV,2020,W,ELEC,281,,OVERALL,Technical Communication,,145,72.220689655,10.034294642,90.0,40.0,10,1.0,3,8,11,25,21.0,31.0,28.0,6.0,1
+UBCV,2020,W,ELEC,291,,201,Electrical Engineering Design Studio I,Ahmed Atef Ali;Jesus Calvino-Fraga;Mingyuan Du;Muchen He;Nourhan Bayasi;Rafiuzzaman Mohammad;Shenghang Luo;Xinlu Dai,100,80.06,9.238500906,100.0,33.0,2,0.0,1,2,2,1,2.0,22.0,43.0,19.0,6
+UBCV,2020,W,ELEC,291,,OVERALL,Electrical Engineering Design Studio I,,100,80.06,9.238500906,100.0,33.0,2,0.0,1,2,2,1,2.0,22.0,43.0,19.0,6
+UBCV,2020,W,ELEC,292,,201,Biomedical Engineering Design Studio,Ahmed Atef Ali;Jessica Hua;Jesus Calvino-Fraga;Mingyuan Du;Muchen He;Nourhan Bayasi;Rafiuzzaman Mohammad;Shenghang Luo;Xinlu Dai,14,81.214285714,6.482859903,91.0,71.0,0,0.0,0,0,0,1,3.0,0.0,6.0,2.0,2
+UBCV,2020,W,ELEC,292,,OVERALL,Biomedical Engineering Design Studio,,14,81.214285714,6.482859903,91.0,71.0,0,0.0,0,0,0,1,3.0,0.0,6.0,2.0,2
+UBCV,2020,W,ELEC,301,,101,Electronic Circuits,Abdelrahmen Afifi;Leanne Dias;Mustafa Hammood;Nicolas A Jaeger;Wangning Cai,126,78.293650794,9.155603714,93.0,53.0,0,1.0,2,7,5,12,19.0,12.0,25.0,27.0,16
+UBCV,2020,W,ELEC,301,,201,Electronic Circuits,Abdelrahmen Afifi;Mustafa Hammood;Nicolas A Jaeger;Tianye Wang;Wangning Cai,76,79.013157895,14.54234591,97.0,5.0,4,1.0,0.0,2,4,6,4.0,5.0,16.0,15.0,19
+UBCV,2020,W,ELEC,301,,OVERALL,Electronic Circuits,,202,78.564356436,11.452619976,97.0,5.0,4,2.0,2,9,9,18,23.0,17.0,41.0,42.0,35
+UBCV,2020,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Kenichi Takahata;Mohab Hassan;Surabhi Agarwal,42,76.904761905,11.778048047,94.0,43.0,1,1.0,2,2,2,3,4.0,6.0,9.0,6.0,6
+UBCV,2020,W,ELEC,302,,OVERALL,Electronic Circuits for Electromechanical Design,,42,76.904761905,11.778048047,94.0,43.0,1,1.0,2,2,2,3,4.0,6.0,9.0,6.0,6
+UBCV,2020,W,ELEC,311,,101,Electromagnetic Fields and Waves,Adrian Sakari Tanskanen;Matthew Yedlin;Robert Lupoiu;Samuel Ng;Sze Hang Ng,113,78.371681416,7.8832946,96.0,61.0,0,0.0,0,4,7,12,16.0,21.0,26.0,21.0,6
+UBCV,2020,W,ELEC,311,,201,Electromagnetic Fields and Waves,Adrian Sakari Tanskanen;David Michelson,48,82.770833333,9.822335778,99.0,52.0,0,1.0,1,0,0,4,5.0,5.0,9.0,13.0,10
+UBCV,2020,W,ELEC,311,,OVERALL,Electromagnetic Fields and Waves,,161,79.683229814,8.713080942,99.0,52.0,0,1.0,1,4,7,16,21.0,26.0,35.0,34.0,16
+UBCV,2020,W,ELEC,315,,101,Electronic Materials and Devices,Ahmed Atef Ali;John Madden;Kieran Morton;Konstantin Borissov,122,74.581967213,16.643485889,99.0,0.0,4,2.0,3,6,8,10,13.0,28.0,20.0,20.0,8
+UBCV,2020,W,ELEC,315,,201,Electronic Materials and Devices,John Madden;Kieran Morton,44,78.454545455,11.219697267,100.0,52.0,0,1.0,2,2,2,6,5.0,0.0,11.0,7.0,8
+UBCV,2020,W,ELEC,315,,OVERALL,Electronic Materials and Devices,,166,75.608433735,15.455811537,100.0,0.0,4,3.0,5,8,10,16,18.0,28.0,31.0,27.0,16
+UBCV,2020,W,ELEC,321,,201,Stochastic Signals and Systems,Ang Nan Gu;Animesh Sakorikar;Hoi Yin Eugenia Yu;Lele Wang;Ning Zhang;Xinlu Dai;Ziao Wang,89,67.337078652,20.893639648,96.0,0.0,11,6.0,4,6,6,10,12.0,6.0,12.0,12.0,4
+UBCV,2020,W,ELEC,321,,OVERALL,Stochastic Signals and Systems,,89,67.337078652,20.893639648,96.0,0.0,11,6.0,4,6,6,10,12.0,6.0,12.0,12.0,4
+UBCV,2020,W,ELEC,331,,101,Computer Communications,Farshid Agharebparast;Mehdi Setayesh,88,75.215909091,11.317211857,93.0,23.0,1,1.0,5,7,6,8,8.0,12.0,23.0,8.0,9
+UBCV,2020,W,ELEC,331,,201,Computer Communications,Mehdi Setayesh;Rui Huang;Wai-Shuen Vincent Wong,84,74.428571429,11.328911425,99.0,42.0,2,2.0,6,2,7,8,10.0,17.0,17.0,7.0,6
+UBCV,2020,W,ELEC,331,,OVERALL,Computer Communications,,172,74.831395349,11.296666813,99.0,23.0,3,3.0,11,9,13,16,18.0,29.0,40.0,15.0,15
+UBCV,2020,W,ELEC,341,,101,Systems and Control,Andrew Yan;Leo Stocco;Mohammad Najjarzadegan;Sara Hosseinirad,58,69.551724138,14.824319059,99.0,39.0,4,4.0,7,6,4,6,5.0,6.0,5.0,5.0,6
+UBCV,2020,W,ELEC,341,,201,Systems and Control,Amirali Darbandsari;Andrew Yan;Mohammad Najjarzadegan;Siamak Najarian,117,77.264957265,11.820783248,100.0,43.0,1,2.0,7,8,8,7,14.0,15.0,18.0,19.0,18
+UBCV,2020,W,ELEC,341,,OVERALL,Systems and Control,,175,74.708571429,13.356761847,100.0,39.0,5,6.0,14,14,12,13,19.0,21.0,23.0,24.0,24
+UBCV,2020,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Bo Chen;Hanqing Lin;Jun Min;Juri Jatskevich;Luis Linares;Mohammad Mahdavyfakhr,96,70.270833333,10.750254995,96.0,39.0,5,1.0,8,5,12,18,18.0,11.0,10.0,4.0,4
+UBCV,2020,W,ELEC,342,,201,Electro-Mechanical Energy Conversion and Transmission,Luis Linares;Mohammad Mahdavyfakhr;Rubinderjit Singh Nagi,71,66.450704225,13.180926406,100.0,33.0,5,3.0,9,18,5,10,4.0,4.0,7.0,3.0,3
+UBCV,2020,W,ELEC,342,,OVERALL,Electro-Mechanical Energy Conversion and Transmission,,167,68.646706587,11.957796189,100.0,33.0,10,4.0,17,23,17,28,22.0,15.0,17.0,7.0,7
+UBCV,2020,W,ELEC,343,,201,Electromechanics,Arash Safavizadeh;Erfan Mostajeran;Juri Jatskevich,26,76.269230769,8.378819451,91.0,55.0,0,0.0,1,2,1,2,5.0,7.0,4.0,1.0,3
+UBCV,2020,W,ELEC,343,,OVERALL,Electromechanics,,26,76.269230769,8.378819451,91.0,55.0,0,0.0,1,2,1,2,5.0,7.0,4.0,1.0,3
+UBCV,2020,W,ELEC,344,,101,Applied Electronics and Electromechanics,Gabriel Ferreira Da Silva;Ignacio Galiano Zurbriggen;Jorge Alejandro May Alvarez;Sina Sadrian,85,82.835294118,7.814588096,96.0,42.0,1,0.0,0,0,3,1,4.0,13.0,26.0,24.0,13
+UBCV,2020,W,ELEC,344,,201,Applied Electronics and Electromechanics,Gabriel Ferreira Da Silva;Ignacio Galiano Zurbriggen;Jhih-Da Hsu;Jorge Alejandro May Alvarez;Lucas Sinopoli;Tania Mair Garcia,67,81.298507463,9.065443754,99.0,50.0,0,1.0,1,2,0.0,4,7.0,10.0,16.0,14.0,12
+UBCV,2020,W,ELEC,344,,OVERALL,Applied Electronics and Electromechanics,,152,82.157894737,8.395130458,99.0,42.0,1,1.0,1,2,3,5,11.0,23.0,42.0,38.0,25
+UBCV,2020,W,ELEC,352,,201,Electric Energy Systems,Bo Chen;Yu Christine Chen,30,77.866666667,7.610035721,90.0,60.0,0,0.0,0,1,3,4,2.0,4.0,11.0,4.0,1
+UBCV,2020,W,ELEC,352,,OVERALL,Electric Energy Systems,,30,77.866666667,7.610035721,90.0,60.0,0,0.0,0,1,3,4,2.0,4.0,11.0,4.0,1
+UBCV,2020,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Hooman Vaseli;Leo Stocco,12,74.166666667,10.205464965,92.0,64.0,0,0.0,0,0,4,2,2.0,0.0,2.0,0.0,2
+UBCV,2020,W,ELEC,371,,OVERALL,Biomedical Engineering Instrumentation,,12,74.166666667,10.205464965,92.0,64.0,0,0.0,0,0,4,2,2.0,0.0,2.0,0.0,2
+UBCV,2020,W,ELEC,391,,201,Electrical Engineering Design Studio II,Charlotte Johnston;Daniel Li;Franco Degioanni;Jonas Welsch;Leo Stocco;Mohammad Najjarzadegan,160,74.7,11.895139328,96.0,0.0,2,0.0,4,12,18,18,29.0,19.0,22.0,14.0,22
+UBCV,2020,W,ELEC,391,,OVERALL,Electrical Engineering Design Studio II,,160,74.7,11.895139328,96.0,0.0,2,0.0,4,12,18,18,29.0,19.0,22.0,14.0,22
+UBCV,2020,W,ELEC,400,M,201,Topics in Electrical Engineering,Lutz Lampe;Mostafa Darabi;Yinjia Huo,55,74.672727273,10.804756404,92.0,43.0,1,0.0,4,4,6,5,4.0,10.0,11.0,7.0,3
+UBCV,2020,W,ELEC,400,M,OVERALL,Topics in Electrical Engineering,,55,74.672727273,10.804756404,92.0,43.0,1,0.0,4,4,6,5,4.0,10.0,11.0,7.0,3
+UBCV,2020,W,ELEC,400,Y,222,Topics in Electrical Engineering,Junbin Zhang;Patrick Conroy;Terry Lee,14,80.357142857,7.540731885,89.0,69.0,0,0.0,0,0,0,3,2.0,2.0,0.0,7.0,0
+UBCV,2020,W,ELEC,400,Y,OVERALL,Topics in Electrical Engineering,,14,80.357142857,7.540731885,89.0,69.0,0,0.0,0,0,0,3,2.0,2.0,0.0,7.0,0
+UBCV,2020,W,ELEC,401,,101,Analog CMOS Integrated Circuit Design,Alireza Asoodeh;Mohammed Al-Qadasi;Shahriar Mirabbasi,51,87.647058824,11.618646271,100.0,50.0,0,2.0,0,0,2,0,0.0,2.0,9.0,10.0,26
+UBCV,2020,W,ELEC,401,,OVERALL,Analog CMOS Integrated Circuit Design,,51,87.647058824,11.618646271,100.0,50.0,0,2.0,0,0,2,0,0.0,2.0,9.0,10.0,26
+UBCV,2020,W,ELEC,402,,101,Introduction to VLSI Systems,Muchen He;Omid Esmaeeli;Reza Molavi,41,76.414634146,10.770273,99.0,55.0,0,0.0,2,1,8,6,1.0,5.0,7.0,6.0,5
+UBCV,2020,W,ELEC,402,,OVERALL,Introduction to VLSI Systems,,41,76.414634146,10.770273,99.0,55.0,0,0.0,2,1,8,6,1.0,5.0,7.0,6.0,5
+UBCV,2020,W,ELEC,403,,201,Advanced Digital VLSI Systems,Alireza Asoodeh;Reza Molavi,14,76.714285714,10.780527827,93.0,58.0,0,0.0,1,2,0.0,1,1.0,2.0,3.0,3.0,1
+UBCV,2020,W,ELEC,403,,OVERALL,Advanced Digital VLSI Systems,,14,76.714285714,10.780527827,93.0,58.0,0,0.0,1,2,0.0,1,1.0,2.0,3.0,3.0,1
+UBCV,2020,W,ELEC,404,,201,RF Integrated Circuits,Amir Masnadi;Omid Esmaeeli,19,82.526315789,9.263839023,94.0,65.0,0,0.0,0,0,2,1,2.0,1.0,3.0,4.0,6
+UBCV,2020,W,ELEC,404,,OVERALL,RF Integrated Circuits,,19,82.526315789,9.263839023,94.0,65.0,0,0.0,0,0,2,1,2.0,1.0,3.0,4.0,6
+UBCV,2020,W,ELEC,411,,101,Antennas and Propagation,Aidan Hughes;David Michelson,15,89.933333333,6.215954894,98.0,76.0,0,0.0,0,0,0,0,0.0,1.0,2.0,2.0,10
+UBCV,2020,W,ELEC,411,,OVERALL,Antennas and Propagation,,15,89.933333333,6.215954894,98.0,76.0,0,0.0,0,0,0,0,0.0,1.0,2.0,2.0,10
+UBCV,2020,W,ELEC,412,,101,Optical Waveguides and Photonics,Mustafa Hammood;Nicolas A Jaeger,10,84.8,7.067924416,99.0,76.0,0,0.0,0,0,0,0,0.0,2.0,4.0,1.0,3
+UBCV,2020,W,ELEC,412,,OVERALL,Optical Waveguides and Photonics,,10,84.8,7.067924416,99.0,76.0,0,0.0,0,0,0,0,0.0,2.0,4.0,1.0,3
+UBCV,2020,W,ELEC,413,,201,Semiconductor Lasers,Lukas Chrostowski;Seyediman Taghavi,35,84.657142857,17.916379061,99.0,14.0,1,0.0,4,0,0,1,1.0,3.0,1.0,4.0,20
+UBCV,2020,W,ELEC,413,,OVERALL,Semiconductor Lasers,,35,84.657142857,17.916379061,99.0,14.0,1,0.0,4,0,0,1,1.0,3.0,1.0,4.0,20
+UBCV,2020,W,ELEC,415,,201,"Semiconductor Devices: Physics, Design and Analysis",Joseph Salfi;Zahra Shahriari,23,79.869565217,9.425807647,93.0,61.0,0,0.0,0,1,2,0.0,5.0,2.0,3.0,5.0,5
+UBCV,2020,W,ELEC,415,,OVERALL,"Semiconductor Devices: Physics, Design and Analysis",,23,79.869565217,9.425807647,93.0,61.0,0,0.0,0,1,2,0.0,5.0,2.0,3.0,5.0,5
+UBCV,2020,W,ELEC,421,,101,Digital Signal and Image Processing,Arunkumar Kannan;Rafeef Garbi,27,71.185185185,18.831309928,98.0,15.0,1,4.0,1,3,3,3,1.0,1.0,2.0,2.0,6
+UBCV,2020,W,ELEC,421,,OVERALL,Digital Signal and Image Processing,,27,71.185185185,18.831309928,98.0,15.0,1,4.0,1,3,3,3,1.0,1.0,2.0,2.0,6
+UBCV,2020,W,ELEC,422,,201,Biosignals and Systems,Yongwei Wang;Zhen Wang,27,79.0,11.694837783,97.0,50.0,0,1.0,1,1,1,1,4.0,3.0,4.0,6.0,5
+UBCV,2020,W,ELEC,422,,OVERALL,Biosignals and Systems,,27,79.0,11.694837783,97.0,50.0,0,1.0,1,1,1,1,4.0,3.0,4.0,6.0,5
+UBCV,2020,W,ELEC,431,,101,Communication Systems I,Cyril Leung;Mostafa Darabi,11,75.818181818,16.222319081,92.0,41.0,1,1.0,0,0,0,0,2.0,1.0,1.0,3.0,2
+UBCV,2020,W,ELEC,431,,OVERALL,Communication Systems I,,11,75.818181818,16.222319081,92.0,41.0,1,1.0,0,0,0,0,2.0,1.0,1.0,3.0,2
+UBCV,2020,W,ELEC,433,,201,Error Control Coding for Communications and Computers,Jiaming Cheng;Vijay Bhargava,19,79.473684211,8.402171816,93.0,63.0,0,0.0,0,1,1,3,0.0,3.0,6.0,3.0,2
+UBCV,2020,W,ELEC,433,,OVERALL,Error Control Coding for Communications and Computers,,19,79.473684211,8.402171816,93.0,63.0,0,0.0,0,1,1,3,0.0,3.0,6.0,3.0,2
+UBCV,2020,W,ELEC,441,,201,Control Systems,Alireza Alian Porzani;Kai Ren;Maryam Kamgarpour,45,74.911111111,13.422881113,94.0,51.0,0,4.0,6,3,2,2,1.0,3.0,13.0,5.0,6
+UBCV,2020,W,ELEC,441,,OVERALL,Control Systems,,45,74.911111111,13.422881113,94.0,51.0,0,4.0,6,3,2,2,1.0,3.0,13.0,5.0,6
+UBCV,2020,W,ELEC,442,,101,Introduction to Robotics,Joseph Yan;Ryan Yang;Septimiu Salcudean,35,73.0,15.029382986,99.0,50.0,0,5.0,4,0.0,6,3,3.0,2.0,3.0,4.0,5
+UBCV,2020,W,ELEC,442,,OVERALL,Introduction to Robotics,,35,73.0,15.029382986,99.0,50.0,0,5.0,4,0.0,6,3,3.0,2.0,3.0,4.0,5
+UBCV,2020,W,ELEC,451,,101,Power Electronics,Franco Degioanni;Jhih-Da Hsu;Martin Ordonez;Sayed Arshadi,58,80.396551724,10.249415311,95.0,31.0,1,0.0,1,0,2,4,6.0,8.0,16.0,8.0,12
+UBCV,2020,W,ELEC,451,,OVERALL,Power Electronics,,58,80.396551724,10.249415311,95.0,31.0,1,0.0,1,0,2,4,6.0,8.0,16.0,8.0,12
+UBCV,2020,W,ELEC,453,,101,Power System Analysis,Abdullah Al-Digs;Jose Marti,33,82.575757576,11.316553978,99.0,50.0,0,1.0,1,0,0,1,7.0,3.0,4.0,7.0,9
+UBCV,2020,W,ELEC,453,,OVERALL,Power System Analysis,,33,82.575757576,11.316553978,99.0,50.0,0,1.0,1,0,0,1,7.0,3.0,4.0,7.0,9
+UBCV,2020,W,ELEC,454,,201,Power System Analysis II,Abdullah Al-Digs;Jose Marti,18,78.777777778,16.155696703,93.0,34.0,1,1.0,0,0,2,0,1.0,2.0,4.0,0.0,7
+UBCV,2020,W,ELEC,454,,OVERALL,Power System Analysis II,,18,78.777777778,16.155696703,93.0,34.0,1,1.0,0,0,2,0,1.0,2.0,4.0,0.0,7
+UBCV,2020,W,ELEC,455,,201,Power Systems Protection,Charles Henville;Mukesh Nagpal,14,87.857142857,4.312007258,94.0,77.0,0,0.0,0,0,0,0,0.0,1.0,1.0,5.0,7
+UBCV,2020,W,ELEC,455,,OVERALL,Power Systems Protection,,14,87.857142857,4.312007258,94.0,77.0,0,0.0,0,0,0,0,0.0,1.0,1.0,5.0,7
+UBCV,2020,W,ELEC,456,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi;Rubinderjit Singh Nagi,6,74.333333333,12.78540835,92.0,54.0,0,1.0,0,0,1,0,0.0,3.0,0.0,0.0,1
+UBCV,2020,W,ELEC,456,,OVERALL,Decision Support Methods in Power Systems Operation,,6,74.333333333,12.78540835,92.0,54.0,0,1.0,0,0,1,0,0.0,3.0,0.0,0.0,1
+UBCV,2020,W,ELEC,457,,101,Optimization of Power System Operation,Ebrahim Vaahedi;Rubinderjit Singh Nagi,8,77.5,5.78174467,85.0,69.0,0,0.0,0,0,0,1,3.0,1.0,2.0,1.0,0
+UBCV,2020,W,ELEC,457,,OVERALL,Optimization of Power System Operation,,8,77.5,5.78174467,85.0,69.0,0,0.0,0,0,0,1,3.0,1.0,2.0,1.0,0
+UBCV,2020,W,ELEC,461,,101,Nanotechnology in Electronics,Konrad Walus;Samuel Ng;Sze Hang Ng,10,83.0,9.877021593,98.0,69.0,0,0.0,0,0,0,1,1.0,2.0,2.0,0.0,4
+UBCV,2020,W,ELEC,461,,OVERALL,Nanotechnology in Electronics,,10,83.0,9.877021593,98.0,69.0,0,0.0,0,0,0,1,1.0,2.0,2.0,0.0,4
+UBCV,2020,W,ELEC,462,,101,Sensors and Actuators in Microsystems,Boris Stoeber;Edmond Cretu;Ruolan Ye;Safoora Khosravi,36,74.75,17.419816302,95.0,0.0,2,0.0,3,0,2,2,6.0,4.0,6.0,7.0,4
+UBCV,2020,W,ELEC,462,,OVERALL,Sensors and Actuators in Microsystems,,36,74.75,17.419816302,95.0,0.0,2,0.0,3,0,2,2,6.0,4.0,6.0,7.0,4
+UBCV,2020,W,ELEC,471,,101,Medical Imaging,Golara Javadi;Robert Rohling,15,83.666666667,5.814595756,91.0,70.0,0,0.0,0,0,0,1,1.0,1.0,3.0,7.0,2
+UBCV,2020,W,ELEC,471,,OVERALL,Medical Imaging,,15,83.666666667,5.814595756,91.0,70.0,0,0.0,0,0,0,1,1.0,1.0,3.0,7.0,2
+UBCV,2020,W,ELEC,473,,101,Biological Micro-Electro-Mechanical Systems,Jessica Hua;Karen Cheung;Tiffany Cameron;Tiffany Colleen Cameron,28,74.321428571,9.560929644,94.0,58.0,0,0.0,1,2,4,3,3.0,6.0,3.0,3.0,2
+UBCV,2020,W,ELEC,473,,OVERALL,Biological Micro-Electro-Mechanical Systems,,28,74.321428571,9.560929644,94.0,58.0,0,0.0,1,2,4,3,3.0,6.0,3.0,3.0,2
+UBCV,2020,W,ELEC,474,,101,Biophotonics,Shuo Tang,12,80.083333333,8.382431122,93.0,64.0,0,0.0,0,0,1,1,0.0,3.0,2.0,3.0,2
+UBCV,2020,W,ELEC,474,,OVERALL,Biophotonics,,12,80.083333333,8.382431122,93.0,64.0,0,0.0,0,0,1,1,0.0,3.0,2.0,3.0,2
+UBCV,2020,W,ELEC,481,,101,Economic Analysis of Engineering Projects,Bianca Ravani Cecato;Jeffrey Carmichael;Tom Wang;Xiao Han,52,73.019230769,11.96971732,94.0,47.0,2,1.0,5,4,8,4,5.0,4.0,8.0,9.0,2
+UBCV,2020,W,ELEC,481,,201,Economic Analysis of Engineering Projects,Bailing Zheng;Bianca Ravani Cecato;Jeffrey Carmichael;Xiao Han;Xiaowen Kong,62,76.080645161,12.188812913,95.0,38.0,2,2.0,1,1,7,8,7.0,5.0,13.0,10.0,6
+UBCV,2020,W,ELEC,481,,OVERALL,Economic Analysis of Engineering Projects,,114,74.684210526,12.132976923,95.0,38.0,4,3.0,6,5,15,12,12.0,9.0,21.0,19.0,8
+UBCV,2020,W,ELEC,491,,001,Electrical Engineering Capstone Design Project,Andre Ivanov;Archita Borah;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Ian Hill;Jan Hammer;Joseph Yan;Kevin Dsouza;Maria Celeste Garcia Perez;Michael Gracias;Mohammad Mahdi Kazemi Esfeh;Mohammad Mahdi Kazimi Esfeh;Nusrat Mehajabin;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Pieter Botman;Stylianos Ploumis;Tajwar Aleef;Terry Lee,131,84.435114504,7.996248386,99.0,30.0,1,0.0,0,2,0,1,7.0,15.0,30.0,42.0,33
+UBCV,2020,W,ELEC,491,,OVERALL,Electrical Engineering Capstone Design Project,,131,84.435114504,7.996248386,99.0,30.0,1,0.0,0,2,0,1,7.0,15.0,30.0,42.0,33
+UBCV,2020,W,ELEC,494,,001,Biomedical Engineering Capstone Design Project,Andre Ivanov;Archita Borah;Cristian Sorin Grecu;Hamed Ahmadi;Hamed Noori;Ian Hill;Jan Hammer;Joseph Yan;Kevin Dsouza;Maria Celeste Garcia Perez;Michael Gracias;Mohammad Mahdi Kazemi Esfeh;Mohammad Mahdi Kazimi Esfeh;Nusrat Mehajabin;Panos Nasiopoulos;Patrick Conroy;Paul Lusina;Pieter Botman;Stylianos Ploumis;Tajwar Aleef;Terry Lee,16,87.25,7.187952884,95.0,64.0,0,0.0,0,0,1,0,0.0,0.0,2.0,5.0,8
+UBCV,2020,W,ELEC,494,,OVERALL,Biomedical Engineering Capstone Design Project,,16,87.25,7.187952884,95.0,64.0,0,0.0,0,0,1,0,0.0,0.0,2.0,5.0,8
+UBCV,2020,W,ELEC,502,,201,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,Bradley Quinton;Scott Chin,8,91.0,5.952190473,99.0,82.0,0,0.0,0,0,0,0,0.0,0.0,1.0,3.0,4
+UBCV,2020,W,ELEC,502,,OVERALL,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,,8,91.0,5.952190473,99.0,82.0,0,0.0,0,0,0,0,0.0,0.0,1.0,3.0,4
+UBCV,2020,W,ELEC,507,,201,Mixed-Signal and RF Integrated Circuits and Systems Test,Roberto Rosales,9,93.222222222,5.118050844,100.0,85.0,0,0.0,0,0,0,0,0.0,0.0,0.0,2.0,7
+UBCV,2020,W,ELEC,507,,OVERALL,Mixed-Signal and RF Integrated Circuits and Systems Test,,9,93.222222222,5.118050844,100.0,85.0,0,0.0,0,0,0,0,0.0,0.0,0.0,2.0,7
+UBCV,2020,W,ELEC,521,,101,Biomedical Microdevices,Karen Cheung,6,80.666666667,9.912954487,95.0,72.0,0,0.0,0,0,0,0,2.0,2.0,0.0,0.0,2
+UBCV,2020,W,ELEC,521,,OVERALL,Biomedical Microdevices,,6,80.666666667,9.912954487,95.0,72.0,0,0.0,0,0,0,0,2.0,2.0,0.0,0.0,2
+UBCV,2020,W,ELEC,523,,101,Medical Imaging,Pramit Saha;Siamak Najarian,25,85.16,7.776460206,95.0,58.0,0,0.0,,,,,1.0,2.0,3.0,10.0,8
+UBCV,2020,W,ELEC,523,,OVERALL,Medical Imaging,,25,85.16,7.776460206,95.0,58.0,0,0.0,,,,,1.0,2.0,3.0,10.0,8
+UBCV,2020,W,ELEC,524,,101,Advanced Biophotonics,Shuo Tang,9,83.222222222,6.572248051,93.0,72.0,0,0.0,0,0,0,0,1.0,1.0,2.0,3.0,2
+UBCV,2020,W,ELEC,524,,OVERALL,Advanced Biophotonics,,9,83.222222222,6.572248051,93.0,72.0,0,0.0,0,0,0,0,1.0,1.0,2.0,3.0,2
+UBCV,2020,W,ELEC,544,,101,Advanced Microsystems Design,Edmond Cretu,6,83.666666667,12.73839341,98.0,68.0,0,0.0,0,0,0,2,0.0,0.0,0.0,1.0,3
+UBCV,2020,W,ELEC,544,,OVERALL,Advanced Microsystems Design,,6,83.666666667,12.73839341,98.0,68.0,0,0.0,0,0,0,2,0.0,0.0,0.0,1.0,3
+UBCV,2020,W,ELEC,546,,101,Micro and Nano Fabrication Technologies,Kenichi Takahata,8,84.0,6.718843438,94.0,77.0,0,0.0,0,0,0,0,0.0,2.0,3.0,0.0,3
+UBCV,2020,W,ELEC,546,,OVERALL,Micro and Nano Fabrication Technologies,,8,84.0,6.718843438,94.0,77.0,0,0.0,0,0,0,0,0.0,2.0,3.0,0.0,3
