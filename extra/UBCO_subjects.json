@@ -27,7 +27,7 @@
  {
    "code": "ARTH",
    "title": "Art History and Visual Culture",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "ASTR",
@@ -47,7 +47,7 @@
  {
    "code": "CCS",
    "title": "Creative and Critical Studies",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "CHEM",
@@ -77,12 +77,12 @@
  {
    "code": "CRWR",
    "title": "Creative Writing",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "CULT",
    "title": "Cultural Studies",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "CUST",
@@ -97,7 +97,7 @@
  {
    "code": "DIHU",
    "title": "Digital Humanities",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "EADM",
@@ -137,7 +137,7 @@
  {
    "code": "ENGL",
    "title": "English",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "ENGR",
@@ -172,12 +172,12 @@
  {
    "code": "FILM",
    "title": "Film",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "FREN",
    "title": "French",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "GEOG",
@@ -187,7 +187,7 @@
  {
    "code": "GERM",
    "title": "German",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "GERO",
@@ -202,7 +202,7 @@
  {
    "code": "GREK",
    "title": "Greek",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "GWST",
@@ -212,17 +212,22 @@
  {
    "code": "HEAL",
    "title": "Health Studies",
-   "faculty_school": "Faculty of Health and Social Develop"
+   "faculty_school": "Faculty of Health and Social Development"
  },
  {
    "code": "HEBR",
    "title": "Hebrew",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
+ },
+ {
+  "code": "HES",
+  "title": "Health & Exercise Sciences",
+  "faculty_school": "Faculty of Health and Social Development"
  },
  {
    "code": "HINT",
    "title": "Health-Interprofessional",
-   "faculty_school": "Faculty of Health and Social Develop"
+   "faculty_school": "Faculty of Health and Social Development"
  },
  {
    "code": "HIST",
@@ -232,7 +237,7 @@
  {
    "code": "HMKN",
    "title": "Human Kinetics",
-   "faculty_school": "Faculty of Health and Social Develop"
+   "faculty_school": "Faculty of Health and Social Development"
  },
  {
    "code": "IGS",
@@ -245,19 +250,24 @@
    "faculty_school": "Faculty of Arts and Sciences"
  },
  {
+  "code": "INLG",
+  "title": "Indigenous Language",
+  "faculty_school": "Faculty of Arts and Social Sciences"
+ },
+ {
    "code": "JPST",
    "title": "Japanese Studies",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
   "code": "KORN",
   "title": "Korean",
-  "faculty_school": "Faculty of Creative and Critical Stds"
+  "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "LATN",
    "title": "Latin",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "LLED",
@@ -277,7 +287,7 @@
  {
    "code": "MDST",
    "title": "Media Studies",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "MGCO",
@@ -292,12 +302,17 @@
  {
    "code": "MUSC",
    "title": "Music",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "NRSG",
    "title": "Nursing",
-   "faculty_school": "Faculty of Health and Social Develop"
+   "faculty_school": "Faculty of Health and Social Development"
+ },
+ {
+  "code": "NSYL",
+  "title": "Nsyilxcn",
+  "faculty_school": "Faculty of Arts and Social Sciences"
  },
  {
    "code": "PHIL",
@@ -332,12 +347,12 @@
  {
    "code": "SOCW",
    "title": "Social Work",
-   "faculty_school": "Faculty of Health and Social Develop"
+   "faculty_school": "Faculty of Health and Social Development"
  },
  {
    "code": "SPAN",
    "title": "Spanish",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "STAT",
@@ -357,7 +372,7 @@
  {
    "code": "THTR",
    "title": "Theatre",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "VANT",
@@ -372,7 +387,7 @@
  {
    "code": "VISA",
    "title": "Visual Arts",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  },
  {
    "code": "VURS",
@@ -382,6 +397,6 @@
  {
    "code": "WRLD",
    "title": "World Literature",
-   "faculty_school": "Faculty of Creative and Critical Stds"
+   "faculty_school": "Faculty of Creative and Critical Studies"
  }
 ]
