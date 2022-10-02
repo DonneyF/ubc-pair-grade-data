@@ -1,0 +1,49 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,BMEG,101,,201,Introduction to Biomedical Engineering,Ali Bashashati Saghezchi;Peter Cripton;Septimiu Salcudean;Manu Sasidharan Madhav;Roza Vaez Ghaemi,112,83.1,84.0,80.0,86.0,96.0,67.0,,,,,,,6,18,32,45,9
+UBCV,2021,W,BMEG,102,,201,Biomedical Engineering Lab,Gabrielle Lam,110,83.3,83.0,80.0,88.0,93.0,50.0,,,,,,,6,16,39,34,14
+UBCV,2021,W,BMEG,201,,201,Technical Communication for Biomedical Engineers,Roza Vaez Ghaemi,34,85.1,86.0,82.3,89.0,93.0,63.0,,,,,,,,,11,12,8
+UBCV,2021,W,BMEG,201,,202,Technical Communication for Biomedical Engineers,Sukhneet Kaur Dhillon,41,84.5,84.0,81.0,87.0,96.0,71.0,,,,,,,,,17,14,6
+UBCV,2021,W,BMEG,201,,203,Technical Communication for Biomedical Engineers,Sukhneet Kaur Dhillon,35,83.4,84.0,80.5,87.5,91.0,70.0,,,,,,,,,12,12,
+UBCV,2021,W,BMEG,210,,101,Thermodynamics in Biomedical Engineering,Gabriel Potvin,118,76.1,77.0,66.5,87.8,98.0,42.0,2,6,7,6,9,13,13,14,14,11,23
+UBCV,2021,W,BMEG,220,,201,Circuits and Electromagnetics with Application to Biomedical Engineering,Negar Mohaghegh Harandi;Liwei Zhang,121,77.7,80.0,71.0,90.0,100.0,15.0,8,,,,6,7,10,17,15,14,32
+UBCV,2021,W,BMEG,230,,101,Biomechanics I,Robyn Newell,123,81.7,82.0,77.0,87.0,96.0,58.0,,,,,,7,10,14,39,29,18
+UBCV,2021,W,BMEG,245,,101,The Fundamental Units of Life: From Cells To Systems,Ivan Robert Nabi;Elizabeth Rideout;Calvin Roskelley,119,78.2,80.0,71.5,85.0,95.0,50.0,,,7,,7,13,11,16,26,23,13
+UBCV,2021,W,BMEG,250,,201,Cellular  Physiology  and Biophysics,Vikramaditya Yadav,115,81.9,85.0,80.5,88.5,96.0,12.0,,,,,,,7,8,28,36,24
+UBCV,2021,W,BMEG,257,,201,Biomedical Engineering Design I,Calvin Kuo,113,86.4,87.0,85.0,89.0,93.0,65.0,,,,,,,,,19,71,18
+UBCV,2021,W,BMEG,310,,101,Introduction to Bioinformatics,Ali Bashashati Saghezchi;Carl De Boer,99,79.0,79.0,75.0,84.5,96.0,53.0,,,,,,,15,23,23,16,9
+UBCV,2021,W,BMEG,320,,201,Bioengineering Feedback Systems and Controls,Sharareh Bayat,24,64.3,63.5,54.0,73.0,98.0,34.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,321,,201,Biomedical Instrumentation,Negar Mohaghegh Harandi,103,87.7,90.0,84.5,93.5,99.0,45.0,,,,,,,,6,9,23,54
+UBCV,2021,W,BMEG,330,,201,Biomechanics II,Robyn Newell,22,87.7,90.0,83.3,92.0,97.0,74.0,,,,,,,,,,,12
+UBCV,2021,W,BMEG,350,,201,Human Structure/Function from Cells to Systems,Ali Bashashati Saghezchi;Mark Steven Cembrowski;Edwin D Moore;Manu Sasidharan Madhav;Dena Shahriari;Jenna Usprech,105,74.3,74.0,70.0,78.0,90.0,57.0,,,,,8,22,33,18,13,,
+UBCV,2021,W,BMEG,357,,201,Biomedical  Engineering Design II,Jenna Usprech,106,81.0,83.0,75.0,88.0,93.0,27.0,,,,,,8,15,6,31,23,18
+UBCV,2021,W,BMEG,371,,101,Transport Phenomena within Cells and Tissues,Andreas Buttenschoen,102,75.4,75.0,70.0,82.8,95.0,50.0,,,,6,,15,21,14,11,13,10
+UBCV,2021,W,BMEG,372,,101,Biomedical Materials and Drug Delivery,Gabrielle Lam,29,85.3,85.0,81.0,90.0,94.0,66.0,,,,,,,,,11,6,9
+UBCV,2021,W,BMEG,373,,101,Microfluidics,Carolina Tropini,19,74.1,75.0,68.5,82.0,90.0,58.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,374,,201,Cellular Bioengineering: Laboratory & Design,Jenna Usprech,41,84.0,87.0,82.0,89.0,94.0,54.0,,,,,,,,,9,16,8
+UBCV,2021,W,BMEG,400,C,201,Topics in Biomedical Engineering,Myeong Jin Ju,9,70.1,68.0,61.0,75.0,92.0,60.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,400,D,101,Topics in Biomedical Engineering,Matthias Goerges,12,78.3,79.5,73.8,84.0,87.0,69.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,400,E,201,Topics in Biomedical Engineering,Carl De Boer,18,83.8,85.0,83.0,87.8,96.0,55.0,,,,,,,,,6,8,
+UBCV,2021,W,BMEG,400,F,201,Topics in Biomedical Engineering,Manu Sasidharan Madhav,36,84.1,88.0,77.8,92.0,98.0,55.0,,,,,,,,,,,17
+UBCV,2021,W,BMEG,401,,201,Economics of Healthcare Solutions,Allyson Tighe,26,83.2,83.0,81.3,85.0,89.0,79.0,,,,,,,,,16,9,
+UBCV,2021,W,BMEG,401,,202,Economics of Healthcare Solutions,Fraser Pogue,38,79.9,83.0,80.3,84.0,88.0,0.0,,,,,,,,,22,9,
+UBCV,2021,W,BMEG,410,,101,"Biomedical Equipment, Physiology, and Anatomy",Claudia Krebs;Jenna Usprech,35,85.5,87.0,81.0,89.0,98.0,73.0,,,,,,,,,6,14,8
+UBCV,2021,W,BMEG,420,,101,Medical Imaging,Robert Rohling,11,77.2,78.0,74.5,81.0,90.0,60.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,455,,101,Professionalism and Ethics in Biomedical Engineering,Jenna Usprech,60,84.1,85.0,80.8,89.0,92.0,65.0,,,,,,,,,17,26,8
+UBCV,2021,W,BMEG,456,,101,Clinical and Industrial Biomedical Engineering,Judy Findlay,19,84.9,86.0,81.5,91.5,95.0,62.0,,,,,,,,,,,7
+UBCV,2021,W,BMEG,457,,001,Biomedical Engineering Design Project,Anna Blakney;Carl De Boer;Negar Mohaghegh Harandi;Robyn Newell,57,87.7,90.0,87.0,92.0,94.0,44.0,,,,,,,,,,16,34
+UBCV,2021,W,BMEG,470,,201,Cellular  Responses  to Forces and Biomaterials,Dena Shahriari,19,77.8,80.0,73.0,83.5,94.0,53.0,,,,,,,,,6,,
+UBCV,2021,W,BMEG,474,,201,Stem Cells and Regenerative Medicine,Robert Judson;James Lan;Fabio Rossi;Nika Shakiba;Glen Tibbits;Nozomu Yachie,36,93.3,94.0,91.0,96.0,100.0,82.0,,,,,,,,,,,32
+UBCV,2021,W,BMEG,490,A,201,Introduction to Academic Research,Robyn Newell,10,89.1,89.5,85.8,93.5,98.0,80.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,500,,101,Orientation to Clinical Environment,Tanya Bennet;Roger Tam,21,94.1,95.0,92.0,96.0,97.0,90.0,0,0,0,0,0,0,0,0,0,0,21
+UBCV,2021,W,BMEG,501,,001,Interdisciplinary Team Project in Medical Technology Innovation,Tanya Bennet;Roger Tam,18,89.8,92.0,88.0,92.0,92.0,86.0,0,0,0,0,0,0,0,0,0,8,10
+UBCV,2021,W,BMEG,510,,101,Anatomy and Physiology with Applications to Biomedical Devices,Claudia Krebs;Jenna Usprech,27,88.0,89.0,86.5,92.0,94.0,60.0,,,,,,,,,,11,12
+UBCV,2021,W,BMEG,511,,201,Fundamentals of Applied Pathophysiology in Biomedical Engineering,Babak Shadgan,18,91.8,92.5,91.0,93.0,94.0,88.0,,,,,,,,,,,14
+UBCV,2021,W,BMEG,550,,201,Biomedical Engineering Technology,Anthony Chan,14,82.4,81.5,78.0,87.5,92.0,71.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,556,,101,Clinical and Industrial Biomedical Engineering,Judy Findlay,22,89.2,91.0,86.5,92.8,96.0,76.0,,,,,,,,,,,15
+UBCV,2021,W,BMEG,557,,101,Statistical Methods for Evaluating Medical Technologies,Sharareh Bayat,6,90.8,92.0,91.3,92.8,95.0,82.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,580,,101,Biomedical Engineering Topics at the Interface of Medicine and Engineering,Matthias Goerges;Tim Kieffer;Srinivas Murthy;James Piret;Tully Michael Underhill;Cheryl Lea Wellington;Chun Wu;Nozomu Yachie,70,86.1,86.0,83.0,88.8,95.0,77.0,0,0,0,0,0,0,0,6,16,32,16
+UBCV,2021,W,BMEG,581,,201,Professional and Academic Development,Nika Shakiba;Nozomu Yachie,57,96.0,97.0,93.0,100.0,100.0,84.0,,,,,,,,,,,53
+UBCV,2021,W,BMEG,591,C,201,Topics in Biomedical Engineering,Myeong Jin Ju,7,82.3,82.0,77.0,90.5,95.0,64.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,591,D,101,Topics in Biomedical Engineering,Matthias Goerges,12,85.2,84.0,83.0,89.5,95.0,68.0,,,,,,,,,,,
+UBCV,2021,W,BMEG,591,E,201,Topics in Biomedical Engineering,Carl De Boer,16,87.4,88.0,83.0,92.3,97.0,69.0,,,,,,,,,,,7
+UBCV,2021,W,BMEG,591,F,201,Topics in Biomedical Engineering,Nika Shakiba;Nozomu Yachie,15,86.1,86.0,85.0,89.0,96.0,72.0,,,,,,,,,,8,

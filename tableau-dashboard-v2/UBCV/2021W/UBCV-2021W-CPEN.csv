@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2021,W,CPEN,211,,101,Introduction to Microcomputers,Tor Aamodt,321,73.2,75.0,64.0,86.0,100.0,0.0,26,12,24,18,19,37,26,20,49,40,50
+UBCV,2021,W,CPEN,212,,201,Computing Systems II,Mieszko Lis,112,70.2,70.5,61.8,80.0,100.0,29.0,7,7,7,11,18,10,13,9,12,10,8
+UBCV,2021,W,CPEN,221,,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,238,72.4,75.0,67.0,79.0,99.0,20.0,,10,7,27,18,34,61,19,29,24,
+UBCV,2021,W,CPEN,223,,101,Software Design for Engineers,Amin Ghasemazar,128,80.8,81.0,75.0,87.0,100.0,60.0,,,,,7,13,13,18,28,30,17
+UBCV,2021,W,CPEN,281,,101,Technical Communication,Hartaj Sanghara,42,73.0,74.0,71.0,76.0,80.0,46.0,,,,,,10,16,7,,,
+UBCV,2021,W,CPEN,281,,102,Technical Communication,Hongxing Estella Qi,33,70.5,70.0,65.0,77.0,87.0,45.0,,,,,,6,,,6,,
+UBCV,2021,W,CPEN,281,,103,Technical Communication,Hartaj Sanghara,37,71.1,73.0,69.0,75.0,82.0,47.0,,,,,,10,12,,,,
+UBCV,2021,W,CPEN,291,,201,Computer Engineering Design Studio I,Farshid Agharebparast,118,85.2,86.0,83.0,87.8,96.0,72.0,,,,,,,,,37,55,17
+UBCV,2021,W,CPEN,311,,201,Digital Systems Design,Prashant Nair,29,74.4,74.0,67.0,80.0,95.0,55.0,,,,,6,,,,,,
+UBCV,2021,W,CPEN,312,,201,Digital Systems and Microcomputers,Jesus Calvino-Fraga,163,80.0,81.0,72.5,90.0,100.0,15.0,,,,9,9,9,16,16,29,18,47
+UBCV,2021,W,CPEN,322,,101,Software Construction II,Karthik Pattabiraman,118,76.0,77.0,72.0,82.8,98.0,30.0,,,,,6,11,19,29,20,13,9
+UBCV,2021,W,CPEN,331,,101,Operating Systems,Alexandra Fedorova,126,86.6,88.0,82.0,94.0,98.0,59.0,,,,,,,8,9,17,25,60
+UBCV,2021,W,CPEN,333,,101,System Software Engineering,Seyed Ali Mousavifar,132,79.5,80.0,77.0,84.0,94.0,55.0,,,,,,9,10,32,42,18,11
+UBCV,2021,W,CPEN,333,,201,System Software Engineering,Farshid Agharebparast,82,75.9,75.0,71.0,81.0,98.0,29.0,,,,,9,8,20,8,17,7,8
+UBCV,2021,W,CPEN,391,,201,Computer Engineering Design Studio II,Guy Lemieux,102,85.4,86.0,82.0,90.0,97.0,57.0,,,,,,,,,27,24,39
+UBCV,2021,W,CPEN,400,D,106,Topics in Computer Engineering,Scott Chin;Bradley Quinton,88,86.1,88.0,82.0,93.0,99.0,61.0,,,,,,,6,8,15,18,37
+UBCV,2021,W,CPEN,400,P,201,Topics in Computer Engineering,Karthik Pattabiraman,30,78.4,81.0,76.0,86.8,92.0,1.0,,,,,,,,7,,6,6
+UBCV,2021,W,CPEN,400,Q,202,Topics in Computer Engineering,Olivia Di Matteo,31,89.3,91.0,87.0,95.0,99.0,64.0,,,,,,,,,,,20
+UBCV,2021,W,CPEN,411,,101,Computer Architecture,Prashant Nair,67,83.3,85.0,77.5,90.5,100.0,55.0,,,,,,,,12,8,11,24
+UBCV,2021,W,CPEN,412,,201,Microcomputer Systems Design,Yair Linn,41,85.9,88.0,79.0,96.0,100.0,49.0,,,,,,,,,,6,20
+UBCV,2021,W,CPEN,421,,201,Software Project Management,Niranjan Ravichandran,18,84.3,84.0,79.0,93.5,95.0,67.0,,,,,,,,,,,
+UBCV,2021,W,CPEN,431,,201,Design of Distributed Software Applications,Radu Ripeanu,39,83.6,83.0,80.5,86.0,97.0,71.0,,,,,,,,6,18,10,
+UBCV,2021,W,CPEN,432,,201,Real-time System Design,Arpan Gujarati,18,79.1,79.0,75.3,85.0,97.0,57.0,,,,,,,,,,,
+UBCV,2021,W,CPEN,441,,101,Human Computer Interfaces in Engineering Design,S Sidney Fels,43,80.8,83.0,76.5,86.5,96.0,43.0,,,,,,,,6,12,9,7
+UBCV,2021,W,CPEN,442,,101,Introduction to Cybersecurity,Konstantin Beznosov,50,83.3,85.0,79.3,88.0,95.0,56.0,,,,,,,,,11,15,11
+UBCV,2021,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Jeffrey Carmichael,45,79.3,81.0,76.0,84.0,92.0,59.0,,,,,,,,11,14,9,
+UBCV,2021,W,CPEN,491,,001,Computer Engineering Capstone Design Project,Hamed Ahmadi;Pieter Botman;S Sidney Fels;Cristian Sorin Grecu;Andre Ivanov;Terry Lee;Paul Lusina;Panos Nasiopoulos;Joseph Yan,98,83.7,84.5,82.0,86.8,92.0,65.0,,,,,,,,11,29,32,17
+UBCV,2021,W,CPEN,502,,101,Architecture for Learning Systems,Sarbjit Sarkaria,57,88.6,91.0,87.0,94.0,98.0,24.0,,,,,,,,,,11,37
+UBCV,2021,W,CPEN,512,,101,Parallel and Reconfigurable Computing,Guy Lemieux,11,90.1,92.0,87.5,94.0,99.0,78.0,,,,,,,,,,,8
+UBCV,2021,W,CPEN,513,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,8,90.6,93.5,92.5,95.0,96.0,68.0,,,,,,,,,,,7
+UBCV,2021,W,CPEN,533,,201,Error Resilient Computing Systems,Radu Ripeanu,8,75.9,70.0,69.0,88.3,92.0,60.0,,,,,,,,,,,
+UBCV,2021,W,CPEN,542,,101,Cybersecurity,Konstantin Beznosov,22,77.3,76.0,70.0,83.0,95.0,68.0,,,,,,7,,,,,

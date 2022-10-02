@@ -1,0 +1,16 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,S,COSC,101,,001,Digital Citizenship,Vsevolod Lynov,80,83.1,85.0,78.8,91.0,98.0,15.0,,,,,,,,9,15,21,22
+UBCO,2021,S,COSC,111,,001,Computer Programming I,Vsevolod Lynov,112,76.9,79.0,69.0,87.0,99.0,15.0,,,,,11,11,10,15,13,24,16
+UBCO,2021,S,COSC,121,,101,Computer Programming II,Jeff Bulmer,109,76.5,78.0,71.0,86.0,95.0,13.0,,,,6,,13,11,16,18,17,17
+UBCO,2021,S,COSC,122,,001,Computer Fluency,Vsevolod Lynov,46,84.5,87.5,75.8,94.0,100.0,54.0,,,,,,,,,,8,21
+UBCO,2021,S,COSC,211,,001,Machine Architecture,Vladimir Grebenyuk,28,77.8,81.0,67.8,88.3,99.0,35.0,,,,,,,,,,,6
+UBCO,2021,S,COSC,221,,101,Introduction to Discrete Structures,Jeewon Yoo,57,84.4,85.0,78.0,93.0,99.0,62.0,,,,,,,,11,8,12,17
+UBCO,2021,S,COSC,222,,001,Data Structures,Seyyed Hosseini,49,86.7,88.0,82.0,93.0,100.0,60.0,,,,,,,,6,7,11,21
+UBCO,2021,S,COSC,301,,001,Introduction to Data Analytics,Firas Moosvi,67,81.8,87.0,78.0,93.0,98.0,12.0,,,,,,,,,9,9,29
+UBCO,2021,S,COSC,304,,101,Introduction to Databases,Youry Khmelevsky;Ramon Lawrence,44,75.7,75.0,70.5,83.3,97.0,27.0,,,,,,8,9,,10,,6
+UBCO,2021,S,COSC,320,,101,Analysis of Algorithms,Seyyed Hosseini,17,71.8,77.0,58.0,88.0,97.0,36.0,,,,,,,,,,,
+UBCO,2021,S,COSC,322,,001,Introduction to Artificial Intelligence,Congsong Zhang,28,80.8,80.0,75.0,87.0,96.0,62.0,,,,,,,,6,,,6
+UBCO,2021,S,COSC,360,,001,Web Programming,Mohamed Abdelpakey,29,85.7,88.0,82.0,91.0,94.0,62.0,,,,,,,,,,6,13
+UBCO,2021,S,COSC,405,,101,Modelling and Simulation,Yas Yamin,7,83.0,82.0,80.0,86.0,89.0,78.0,,,,,,,,,,,
+UBCO,2021,S,COSC,445,,001,Computer Vision,Mohamed Shehata,13,77.5,77.0,72.0,85.0,93.0,60.0,,,,,,,,,,,
+UBCO,2021,S,COSC,499,,201,Capstone Software Engineering Project,Mandeep Pannu,39,93.5,93.0,92.0,97.0,100.0,79.0,,,,,,,,,,,34

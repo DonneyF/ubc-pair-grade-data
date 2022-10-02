@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,W,MATH,100,,001,Differential Calculus with Applications to Physical Sciences and Engineering,Chad Davis,277,71.9,80.0,60.0,92.0,100.0,0.0,48,10,9,11,11,19,13,14,25,34,83
+UBCO,2021,W,MATH,100,,002,Differential Calculus with Applications to Physical Sciences and Engineering,Chad Davis,217,68.7,74.0,55.0,88.0,100.0,0.0,43,9,9,12,15,15,11,21,20,14,48
+UBCO,2021,W,MATH,100,,003,Differential Calculus with Applications to Physical Sciences and Engineering,Paul Lee,258,73.5,79.0,63.0,92.8,100.0,0.0,27,18,12,13,9,16,25,12,16,31,79
+UBCO,2021,W,MATH,100,,101,Differential Calculus with Applications to Physical Sciences and Engineering,Theo Bendit,139,55.9,62.0,32.0,75.0,97.0,0.0,39,8,15,10,16,8,9,12,10,6,6
+UBCO,2021,W,MATH,101,,001,Integral Calculus with Applications to Physical Sciences and Engineering,Wayne Broughton,111,65.5,69.0,55.5,79.0,99.0,5.0,26,,,11,10,10,10,13,10,8,7
+UBCO,2021,W,MATH,101,,101,Integral Calculus with Applications to Physical Sciences and Engineering,Wayne Broughton,272,70.7,74.0,52.8,87.0,100.0,1.0,65,6,10,11,14,17,25,21,20,29,54
+UBCO,2021,W,MATH,101,,102,Integral Calculus with Applications to Physical Sciences and Engineering,Chad Davis,239,64.9,73.0,37.5,88.0,100.0,0.0,66,3,8,11,14,16,12,14,21,23,51
+UBCO,2021,W,MATH,103,,103,Integral Calculus with Applications to Life Sciences,Paul Tsopmene,103,70.6,74.0,60.5,85.0,99.0,3.0,11,6,6,5,9,11,10,10,8,12,15
+UBCO,2021,W,MATH,111,,101,Finite Mathematics,Donovan Hare,18,67.0,68.5,60.3,75.5,98.0,24.0,,,,,,,,,,,
+UBCO,2021,W,MATH,116,,001,Calculus I for Management and Economics,Jeewon Yoo,125,72.5,77.0,62.0,87.0,100.0,0.0,17,8,,,7,8,11,10,16,16,24
+UBCO,2021,W,MATH,116,,002,Calculus I for Management and Economics,Paul Tsopmene,113,76.0,81.0,67.0,91.0,99.0,0.0,10,,,6,7,9,,,15,13,36
+UBCO,2021,W,MATH,116,,101,Calculus I for Management and Economics,Chad Davis,131,58.0,61.0,33.0,85.5,100.0,0.0,45,11,7,7,8,,8,,,9,25
+UBCO,2021,W,MATH,125,,001,Pre-Calculus,Jeewon Yoo,85,69.6,70.0,60.0,85.0,100.0,3.0,13,,,,8,12,8,,6,7,15
+UBCO,2021,W,MATH,125,,101,Pre-Calculus,Chad Davis,31,56.6,66.0,38.5,79.0,100.0,0.0,10,,,,,,,,,,6
+UBCO,2021,W,MATH,142,,001,Calculus II for Management and Economics,Paul Tsopmene,83,77.5,83.0,67.0,92.0,100.0,0.0,6,,6,,,,,,9,11,28
+UBCO,2021,W,MATH,200,,001,Calculus III,Edward Butz,131,67.5,70.0,57.5,82.0,100.0,10.0,17,8,12,13,7,15,11,13,10,13,12
+UBCO,2021,W,MATH,200,,002,Calculus III,Edward Butz,48,66.9,70.0,53.8,81.3,98.0,21.0,8,,,,,6,,,,,
+UBCO,2021,W,MATH,220,,001,Mathematical Proof,Heinz Bauschke,70,81.4,83.0,75.3,90.8,96.0,55.0,,,,,,,6,9,12,12,19
+UBCO,2021,W,MATH,221,,101,Matrix Algebra,Paul Lee,147,80.0,84.0,73.0,92.0,100.0,23.0,9,,,6,,8,12,11,18,26,46
+UBCO,2021,W,MATH,225,,101,Introduction to Differential Equations,Rebecca Tyson,48,64.0,66.5,47.0,82.0,94.0,15.0,14,,,,6,,,,9,,
+UBCO,2021,W,MATH,302,,001,Introduction to Probability,Lengyi Han,25,65.6,67.0,60.0,72.0,93.0,24.0,,,,,,,,,,,
+UBCO,2021,W,MATH,303,,101,Numerical Analysis,Warren Hare,22,74.9,74.0,62.0,89.0,96.0,39.0,,,,,,,,,,,6
+UBCO,2021,W,MATH,307,,101,Applied Linear Algebra,Edward Butz,62,71.7,73.0,65.0,85.8,100.0,0.0,,,,,10,7,8,,,8,10
+UBCO,2021,W,MATH,311,,001,Abstract Algebra I,Javad Tavakoli,46,79.3,82.0,72.0,92.0,100.0,25.0,,,,,,,,6,,6,16
+UBCO,2021,W,MATH,312,,001,Introduction to Number Theory,Chad Davis,24,74.3,80.0,66.0,84.5,98.0,29.0,,,,,,,,,6,,
+UBCO,2021,W,MATH,317,,001,Calculus IV,Edward Butz,38,70.8,74.0,67.3,85.8,94.0,18.0,,,,,,6,,,,9,
+UBCO,2021,W,MATH,319,,001,Introduction to Partial Differential Equations,Eric Foxall,45,68.6,68.0,60.0,80.0,99.0,27.0,,,,,7,,,,,,
+UBCO,2021,W,MATH,323,,101,Applied Abstract Algebra,Wayne Broughton,11,68.5,67.0,61.5,71.5,94.0,53.0,,,,,,,,,,,
+UBCO,2021,W,MATH,327,,001,Analysis I,Shawn Wang,47,81.5,83.0,71.5,89.0,100.0,63.0,,,,,,7,,,10,8,12
+UBCO,2021,W,MATH,328,,001,Analysis II,Shawn Wang,13,86.0,91.0,75.0,97.0,100.0,68.0,,,,,,,,,,,7
+UBCO,2021,W,MATH,330,,101,Abstract Algebra II,Javad Tavakoli,15,77.7,76.0,71.5,85.5,99.0,60.0,,,,,,,,,,,
+UBCO,2021,W,MATH,340,,001,Introduction to Linear Programming,Donovan Hare,32,71.3,72.0,60.8,80.3,93.0,44.0,,,,,,,6,,,,
+UBCO,2021,W,MATH,350,,001,Complex Variables and Applications,Sylvie Desjardins,27,74.1,76.0,59.5,87.5,100.0,38.0,,,,,,,,,,,7
+UBCO,2021,W,MATH,408,,001,Differential Geometry,Sylvie Desjardins,11,81.5,83.0,76.5,94.0,98.0,56.0,,,,,,,,,,,
+UBCO,2021,W,MATH,441,,101,Modelling of Discrete Optimization Problems,Donovan Hare,10,80.8,83.0,72.8,89.3,91.0,65.0,,,,,,,,,,,
+UBCO,2021,W,MATH,460,A,001,Special Topics in Mathematics,Wayne Broughton,9,75.9,75.0,59.0,90.0,97.0,57.0,,,,,,,,,,,
+UBCO,2021,W,MATH,461,,101,Continuous Optimization,Heinz Bauschke,16,81.2,82.5,78.0,85.0,100.0,50.0,,,,,,,,,6,,
+UBCO,2021,W,MATH,563,,101,Convex Optimization and Non-smooth Analysis,Heinz Bauschke,12,87.3,88.0,85.0,90.8,95.0,76.0,,,,,,,,,,,

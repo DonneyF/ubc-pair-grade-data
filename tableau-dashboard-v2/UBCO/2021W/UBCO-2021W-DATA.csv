@@ -1,0 +1,33 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,W,DATA,101,,101,Making Predictions with Data,Shabnam Fani,160,81.2,85.5,76.0,91.0,100.0,0.0,9,,,,,8,13,8,26,34,53
+UBCO,2021,W,DATA,311,,101,Machine Learning,Irene Vrbik,80,73.9,76.0,65.0,88.3,100.0,0.0,6,7,,,,6,8,7,10,8,18
+UBCO,2021,W,DATA,315,,101,Applied Time Series and Forecasting,Lengyi Han,28,76.5,83.5,68.5,91.3,98.0,0.0,,,,,,,,,6,,9
+UBCO,2021,W,DATA,405,,001,Modelling and Simulation,Yas Yamin,8,81.9,94.0,85.5,96.5,100.0,5.0,,,,,,,,,,,
+UBCO,2021,W,DATA,407,,101,Sampling and Design,Paramjit Gill;Mojtaba Pasha,20,67.7,68.0,59.0,80.5,91.0,30.0,,,,,,,,,,,
+UBCO,2021,W,DATA,410,,101,Regression and Generalized Linear Models,Shabnam Fani;John Thompson,14,66.5,76.0,58.5,81.5,90.0,0.0,,,,,,,,,,,
+UBCO,2021,W,DATA,421,,101,Network Science,Paramjit Gill,26,79.0,80.0,76.0,86.0,91.0,52.0,,,,,,,,7,6,,
+UBCO,2021,W,DATA,530,,001,Computing Platforms for Data Science,Firas Moosvi,31,96.8,98.0,96.0,99.0,100.0,86.0,,,,,,,,,,,29
+UBCO,2021,W,DATA,531,,001,Programming for Data Science,Firas Moosvi,31,97.5,99.0,96.0,100.0,100.0,86.0,,,,,,,,,,,30
+UBCO,2021,W,DATA,532,,001,Algorithms and Data Structure,Mohamed Abdelpakey,31,95.6,97.0,94.0,98.5,100.0,83.0,,,,,,,,,,,28
+UBCO,2021,W,DATA,533,,101,Collaborative Software Development,Mohammad Khalad Hasan,31,92.5,94.0,91.0,95.5,99.0,75.0,,,,,,,,,,,25
+UBCO,2021,W,DATA,534,,101,Web and Cloud Computing,Yves Lucet,30,95.2,95.5,93.0,98.0,100.0,87.0,,,,,,,,,,,28
+UBCO,2021,W,DATA,540,,001,Databases and Data Retrieval,Firas Moosvi,31,94.6,96.0,93.0,97.0,98.0,87.0,,,,,,,,,,,29
+UBCO,2021,W,DATA,541,,001,Scripting and Reporting,Mohammad Khalad Hasan,31,93.7,95.0,92.0,97.0,100.0,78.0,,,,,,,,,,,28
+UBCO,2021,W,DATA,542,,101,Data Wrangling,Firas Moosvi,30,98.7,100.0,98.0,100.0,100.0,94.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2021,W,DATA,543,,001,Data Collection,Shabnam Fani;Mojtaba Pasha,31,88.6,93.0,84.0,94.5,99.0,72.0,,,,,,,,,,,17
+UBCO,2021,W,DATA,550,,001,Dataviz I,Firas Moosvi,30,99.1,99.0,99.0,100.0,100.0,98.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2021,W,DATA,551,,101,Dataviz II,Firas Moosvi,30,96.9,98.0,94.0,99.0,100.0,91.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2021,W,DATA,552,,001,Communication and Argumentation,Jeffrey Andrews,30,95.2,95.0,94.0,97.0,100.0,86.0,,,,,,,,,,,29
+UBCO,2021,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Patricia Lasserre,31,89.6,89.0,87.0,92.5,96.0,83.0,,,,,,,,,,16,14
+UBCO,2021,W,DATA,570,,001,Predictive Modelling,Jeffrey Andrews;Mojtaba Pasha,31,88.7,89.0,86.5,93.0,99.0,69.0,,,,,,,,,,10,15
+UBCO,2021,W,DATA,571,,101,Resampling and Regularization,Jeffrey Andrews,31,96.0,97.0,95.0,99.0,100.0,84.0,,,,,,,,,,,29
+UBCO,2021,W,DATA,572,,001,Supervised Learning,Jeffrey Andrews,30,95.2,96.0,94.0,98.0,100.0,81.0,,,,,,,,,,,27
+UBCO,2021,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Jeffrey Andrews,30,96.4,97.0,95.3,98.0,100.0,84.0,,,,,,,,,,,29
+UBCO,2021,W,DATA,580,,001,Modelling and Simulation I,Shabnam Fani;Mojtaba Pasha,31,93.6,94.0,91.0,98.0,100.0,82.0,,,,,,,,,,,24
+UBCO,2021,W,DATA,581,,101,Modelling and Simulation II,Shabnam Fani,31,93.2,93.0,91.0,97.5,100.0,78.0,,,,,,,,,,,26
+UBCO,2021,W,DATA,582,,101,Bayesian Inference,Irene Vrbik,30,95.1,96.5,93.0,98.0,99.0,88.0,,,,,,,,,,,28
+UBCO,2021,W,DATA,583,,101,Advanced Predictive Modelling,Shabnam Fani,30,93.7,94.5,92.0,96.8,98.0,84.0,,,,,,,,,,,27
+UBCO,2021,W,DATA,585,,101,Optimization,Heinz Bauschke,30,98.0,99.0,98.0,100.0,100.0,69.0,,,,,,,,,,,29
+UBCO,2021,W,DATA,586,,101,Advanced Machine Learning,Apurva Narayan,30,95.3,96.0,94.0,98.0,98.0,87.0,,,,,,,,,,,27
+UBCO,2021,W,DATA,589,,101,Special Topic,Mohammad Khalad Hasan,30,90.7,93.0,90.0,95.0,97.0,71.0,,,,,,,,,,,23
+UBCO,2021,W,DATA,599,,101,Capstone,Firas Moosvi;Irene Vrbik,30,92.4,93.5,93.0,96.5,98.0,82.0,,,,,,,,,,,24

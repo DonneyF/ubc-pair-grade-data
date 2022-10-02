@@ -1,0 +1,40 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2021,W,COSC,101,,101,Digital Citizenship,Fuxiang Chen;Vsevolod Lynov,87,78.4,82.0,76.0,88.0,98.0,0.0,,,,,,,,15,18,20,16
+UBCO,2021,W,COSC,101,,102,Digital Citizenship,Fuxiang Chen,70,84.9,87.0,82.3,90.0,98.0,34.0,,,,,,,,,12,23,21
+UBCO,2021,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed,190,75.0,80.0,65.0,92.0,100.0,13.0,38,,,,9,7,14,17,21,14,61
+UBCO,2021,W,COSC,111,,002,Computer Programming I,Jeff Bulmer,197,77.8,83.0,70.0,91.0,100.0,0.0,11,12,0,10,12,10,17,11,26,22,66
+UBCO,2021,W,COSC,111,,101,Computer Programming I,Jeff Bulmer,113,74.9,79.0,64.0,89.0,100.0,0.0,10,,,10,7,,7,13,12,16,26
+UBCO,2021,W,COSC,121,,101,Computer Programming II,Abdallah Mohamed,206,69.6,74.0,60.0,83.8,99.0,2.0,40,2,9,12,17,13,15,18,29,24,27
+UBCO,2021,W,COSC,121,,102,Computer Programming II,Ifeoma Adaji,115,67.8,73.0,58.0,82.0,100.0,4.0,24,,,10,,9,11,12,17,10,11
+UBCO,2021,W,COSC,122,,001,Computer Fluency,Vsevolod Lynov,221,84.8,89.0,79.0,95.0,100.0,3.0,6,,,7,,6,11,17,25,32,108
+UBCO,2021,W,COSC,123,,101,Computer Creativity,Firas Moosvi,205,79.8,88.0,73.0,94.0,100.0,0.0,21,,,,,11,11,,27,15,101
+UBCO,2021,W,COSC,210,,101,Software Construction,Mohamed Shehata,28,76.4,79.0,64.0,90.0,97.0,40.0,,,,,,,,,,,9
+UBCO,2021,W,COSC,211,,001,Machine Architecture,Abdallah Mohamed,129,66.8,70.0,45.0,81.0,100.0,13.0,33,,,11,9,14,10,11,11,7,18
+UBCO,2021,W,COSC,221,,001,Introduction to Discrete Structures,Yong Gao,100,72.9,76.5,65.8,83.0,96.0,0.0,7,,,6,11,6,11,16,17,14,6
+UBCO,2021,W,COSC,221,,101,Introduction to Discrete Structures,Yong Gao,102,72.8,75.0,67.0,83.8,97.0,23.0,8,,,,8,12,15,8,16,13,10
+UBCO,2021,W,COSC,222,,001,Data Structures,Mohammad Khalad Hasan,194,77.8,79.0,71.0,88.0,99.0,20.0,7,,,8,10,17,24,22,25,34,37
+UBCO,2021,W,COSC,301,,101,Introduction to Data Analytics,Scott Fazackerley,150,77.6,80.0,70.0,91.0,100.0,0.0,13,,,8,7,14,18,11,9,26,43
+UBCO,2021,W,COSC,303,,101,Numerical Analysis,Warren Hare,15,74.3,77.0,62.0,88.0,98.0,40.0,,,,,,,,,,,
+UBCO,2021,W,COSC,304,,001,Introduction to Databases,Youry Khmelevsky;Ramon Lawrence,181,82.3,85.0,77.0,90.0,100.0,21.0,,,,,,6,15,20,31,41,55
+UBCO,2021,W,COSC,305,,101,Project Management,Patricia Lasserre,82,77.5,81.0,73.3,85.0,92.0,14.0,,,,,,,9,9,23,19,
+UBCO,2021,W,COSC,310,,101,Software Engineering,Shan Du,160,84.7,88.5,81.8,93.0,100.0,35.0,,,,,8,6,,,19,35,73
+UBCO,2021,W,COSC,315,,101,Introduction to Operating Systems,Apurva Narayan,57,88.2,91.0,85.0,94.0,99.0,32.0,,,,,,,,,7,10,35
+UBCO,2021,W,COSC,320,,001,Analysis of Algorithms,Mohamed Abdelpakey,148,85.4,87.0,81.0,91.0,98.0,56.0,,,,,,6,6,12,20,40,57
+UBCO,2021,W,COSC,322,,101,Introduction to Artificial Intelligence,Yong Gao,53,73.8,75.0,66.0,80.0,92.0,46.0,,,,,,,10,6,11,,
+UBCO,2021,W,COSC,328,,001,Introduction to Networks,Mohamed Abdelpakey,92,80.8,83.0,77.0,86.3,94.0,47.0,,,,,,,8,9,29,24,10
+UBCO,2021,W,COSC,329,,001,Learning Analytics,Bowen Hui,52,83.1,90.5,77.8,94.3,100.0,0.0,,,,,,,,,,10,27
+UBCO,2021,W,COSC,335,,101,Introduction to Medical Imaging and Imaging Informatics,Thor Bjarnason;Rasika Rajapakshe,15,72.8,75.0,68.5,82.0,88.0,43.0,,,,,,,,,,,
+UBCO,2021,W,COSC,360,,001,Web Programming,Scott Fazackerley,61,73.9,77.0,67.0,85.0,100.0,23.0,7,,,,6,,7,8,7,9,9
+UBCO,2021,W,COSC,404,,101,Database System Implementation,Ramon Lawrence,99,79.6,82.0,70.5,90.0,100.0,41.0,,,,,7,9,12,,14,13,27
+UBCO,2021,W,COSC,405,,001,Modelling and Simulation,Yas Yamin,9,77.6,79.0,78.0,92.0,100.0,40.0,,,,,,,,,,,
+UBCO,2021,W,COSC,407,,101,Introduction to Parallel Computing,Scott Fazackerley,80,72.6,74.0,62.8,85.3,98.0,26.0,9,,,7,,7,8,,13,10,11
+UBCO,2021,W,COSC,414,,001,Computer Graphics,Shan Du,83,76.9,78.0,69.5,82.5,100.0,52.0,,,,,10,,9,17,15,10,9
+UBCO,2021,W,COSC,419,F,001,Topics in Computer Science,Ifeoma Adaji,29,82.9,85.0,80.0,89.0,92.0,61.0,,,,,,,,,6,10,6
+UBCO,2021,W,COSC,445,,101,Computer Vision,Mohamed Shehata,43,70.4,74.0,64.0,82.0,91.0,21.0,,,,,,,6,,9,,
+UBCO,2021,W,COSC,490,,101,Student-Directed Seminar,Yves Lucet,12,92.6,94.0,90.5,95.0,95.0,89.0,,,,,,,,,,,9
+UBCO,2021,W,COSC,499,,001,Capstone Software Engineering Project,Gema Rodriguez-Perez,90,84.9,85.0,80.3,90.8,98.0,70.0,,,,,,,11,6,22,26,24
+UBCO,2021,W,COSC,507,,101,Parallel Computing,Scott Fazackerley,6,87.3,88.0,86.5,89.5,91.0,81.0,,,,,,,,,,,
+UBCO,2021,W,COSC,519,F,001,Topics in Computer Science,Ifeoma Adaji,8,88.1,89.0,87.5,89.0,92.0,83.0,,,,,,,,,,6,
+UBCO,2021,W,COSC,520,,001,Advanced Algorithms,Yves Lucet,9,88.3,88.0,87.0,89.0,96.0,82.0,,,,,,,,,,6,
+UBCO,2021,W,COSC,541,,101,Advanced Human Computer Interaction,Bowen Hui,6,87.3,87.5,84.8,90.3,96.0,78.0,,,,,,,,,,,
+UBCO,2021,W,COSC,545,,101,Computer Vision,Mohamed Shehata,14,80.4,80.0,77.0,83.5,91.0,71.0,,,,,,,,,6,,
