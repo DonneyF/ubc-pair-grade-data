@@ -40,6 +40,11 @@
         "faculty_school": "Faculty of Land and Food Systems"
     },
     {
+        "code": "AMNE",
+        "title": "Ancient Mediterranean and Near Eastern Studies",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "ANAE",
         "title": "Anesthesia",
         "faculty_school": "Faculty of Medicine"
@@ -81,11 +86,21 @@
     },
     {
         "code": "ARBC",
-        "title": "Arabic Studies",
+        "title": "Classical Arabic",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
+        "code": "ARBM",
+        "title": "Modern Standard Arabic",
         "faculty_school": "Faculty of Arts"
     },
     {
         "code": "ARC",
+        "title": "Alternative Routes to Computing",
+        "faculty_school": "Faculty of Science"
+    },
+    {
+        "code": "ARC ",
         "title": "Alternative Routes to Computing",
         "faculty_school": "Faculty of Science"
     },
@@ -133,6 +148,11 @@
         "code": "ASIC",
         "title": "Arts and Science Interdisciplinary Courses",
         "faculty_school": "Faculty of Science"
+    },
+    {
+        "code": "ASIX",
+        "title": "Asian Studies Crossings",
+        "faculty_school": "Faculty of Arts"
     },
     {
         "code": "ASL",
@@ -385,6 +405,11 @@
         "faculty_school": "College for Interdisciplinary Studies"
     },
     {
+        "code": "CINE",
+        "title": "Cinema Studies",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "CIVL",
         "title": "Civil Engineering",
         "faculty_school": "Faculty of Applied Science"
@@ -397,6 +422,11 @@
     {
         "code": "CLST",
         "title": "Classical Studies",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
+        "code": "CMST",
+        "title": "Cinema and Media Studies",
         "faculty_school": "Faculty of Arts"
     },
     {
@@ -630,6 +660,11 @@
         "faculty_school": "Faculty of Applied Science"
     },
     {
+        "code": "ENST",
+        "title": "Environment and Sustainability",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "ENVE",
         "title": "Environmental Engineering",
         "faculty_school": "Faculty of Applied Science"
@@ -860,6 +895,16 @@
         "faculty_school": "Faculty of Arts"
     },
     {
+        "code": "GERN",
+        "title": "German",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
+        "code": "GMST",
+        "title": "German Studies",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "GPP",
         "title": "Global Public Policy",
         "faculty_school": "Faculty of Arts"
@@ -1060,6 +1105,11 @@
         "faculty_school": "Faculty of Arts"
     },
     {
+        "code": "IAR ",
+        "title": "Institute of Asian Research",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "IEST",
         "title": "European Studies",
         "faculty_school": "Faculty of Arts"
@@ -1073,6 +1123,11 @@
         "code": "IHHS",
         "title": "Interprofessional Health and Human Service",
         "faculty_school": "College of Health Disciplines"
+    },
+    {
+        "code": "ILS ",
+        "title": "Indigenous Land Stewardship",
+        "faculty_school": "Faculty of Forestry"
     },
     {
         "code": "INDE",
@@ -1127,7 +1182,7 @@
     {
         "code": "JRNL",
         "title": "Journalism",
-        "faculty_school": "School of Journalism, Writing, and Mediaa"
+        "faculty_school": "School of Journalism, Writing, and Media"
     },
     {
         "code": "KIN",
@@ -1218,6 +1273,11 @@
         "code": "MATH",
         "title": "Mathematics",
         "faculty_school": "Faculty of Science"
+    },
+    {
+        "code": "MDIA",
+        "title": "Media Studies",
+        "faculty_school": "Faculty of Arts"
     },
     {
         "code": "MDVL",
@@ -1315,6 +1375,11 @@
         "faculty_school": "Faculty of Applied Science"
     },
     {
+        "code": "NEPL",
+        "title": "Nepali",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "NEST",
         "title": "Near Eastern Studies",
         "faculty_school": "Faculty of Arts"
@@ -1325,14 +1390,19 @@
         "faculty_school": "Faculty of Medicine"
     },
     {
-        "code": "NEPL",
-        "title": "Nepali",
+        "code": "NORD",
+        "title": "Nordic Studies",
         "faculty_school": "Faculty of Arts"
     },
     {
         "code": "NRSC",
-        "title": "Neuroscience",
+        "title": "Neuroscience Graduate",
         "faculty_school": "Faculty of Medicine"
+    },
+    {
+        "code": "NSCI",
+        "title": "Neuroscience Undergraduate",
+        "faculty_school": "Faculty of Science"
     },
     {
         "code": "NURS",
@@ -1361,6 +1431,11 @@
     },
     {
         "code": "OHS",
+        "title": "Oral Health Sciences",
+        "faculty_school": "Faculty of Dentistry"
+    },
+    {
+        "code": "OHS ",
         "title": "Oral Health Sciences",
         "faculty_school": "Faculty of Dentistry"
     },
@@ -1525,6 +1600,11 @@
         "faculty_school": "Faculty of Medicine"
     },
     {
+        "code": "RADS",
+        "title": "Interdisciplinary Radiology",
+        "faculty_school": "Faculty of Medicine"
+    },
+    {
         "code": "READ",
         "title": "Reading Education",
         "faculty_school": "Faculty of Education"
@@ -1680,6 +1760,11 @@
         "faculty_school": "Faculty of Medicine"
     },
     {
+        "code": "SWAH",
+        "title": "Swahili",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "SWED",
         "title": "Swedish",
         "faculty_school": "Faculty of Arts"
@@ -1745,6 +1830,11 @@
         "faculty_school": "No Faculty (Blank for Cross Edits)"
     },
     {
+        "code": "URO ",
+        "title": "Undergraduate Research Opportunities",
+        "faculty_school": "No Faculty (Blank for Cross Edits)"
+    },
+    {
         "code": "UROL",
         "title": "Urological Surgery",
         "faculty_school": "Faculty of Medicine"
@@ -1785,6 +1875,11 @@
         "faculty_school": "Faculty of Applied Science"
     },
     {
+        "code": "WACH",
+        "title": "Women+ and Children's Health Sciences",
+        "faculty_school": "Faculty of Medicine"
+    },
+    {
         "code": "WMST",
         "title": "Women's and Gender Studies",
         "faculty_school": "Faculty of Arts"
@@ -1796,13 +1891,18 @@
     },
     {
         "code": "WRDS",
-        "title": "Arts Studies in Writing",
+        "title": "Writing, Research, and Discourse Studies",
         "faculty_school": "Faculty of Arts"
     },
     {
         "code": "WRIT",
         "title": "University Writing Centre Courses",
         "faculty_school": "Centre for Continuing Education"
+    },
+    {
+        "code": "YDSH",
+        "title": "Yiddish",
+        "faculty_school": "Faculty of Arts"
     },
     {
         "code": "ZOOL",

@@ -1,0 +1,34 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2022,W,DATA,101,,001,Making Predictions with Data,Lengyi Han,100,74.6,80.5,67.0,88.0,100.0,8.0,10,,,8,,7,6,,21,15,21
+UBCO,2022,W,DATA,101,,002,Making Predictions with Data,Yas Yamin,56,71.1,73.5,62.0,84.5,95.0,25.0,7,,,,,6,,,8,,9
+UBCO,2022,W,DATA,101,,101,Making Predictions with Data,Lengyi Han,136,69.7,73.5,63.0,83.3,99.0,0.0,14,5,6,11,10,15,15,14,16,18,12
+UBCO,2022,W,DATA,301,,101,Introduction to Data Analytics,Firas Moosvi,169,82.8,87.0,80.0,92.0,100.0,3.0,11,,,,,,11,10,26,24,78
+UBCO,2022,W,DATA,310,,101,Applied Regression Analysis,Paramjit Gill,11,67.2,70.0,62.0,76.0,85.0,30.0,,,,,,,,,,,
+UBCO,2022,W,DATA,311,,201,Machine Learning,Irene Vrbik,85,70.6,72.0,64.0,85.0,96.0,0.0,9,,,,11,10,7,8,6,14,9
+UBCO,2022,W,DATA,405,,001,Stochastic Modelling and Simulation,Yas Yamin,21,80.0,80.0,74.0,83.0,95.0,67.0,,,,,,,,,7,,
+UBCO,2022,W,DATA,407,,101,Sampling and Design,Paramjit Gill,24,64.9,68.0,55.0,76.0,91.0,10.0,,,,,,,,,,,
+UBCO,2022,W,DATA,410,,101,Regression and Generalized Linear Models,John Thompson,17,77.5,78.0,71.0,83.0,92.0,60.0,,,,,,,,,,,
+UBCO,2022,W,DATA,505,,001,Modelling and Simulation,Yas Yamin,7,85.0,85.0,80.0,90.5,97.0,72.0,,,,,,,,,,,
+UBCO,2022,W,DATA,530,,001,Computing Platforms for Data Science,Ifeoma Adaji,30,93.7,94.5,92.3,97.5,99.0,77.0,,,,,,,,,,,27
+UBCO,2022,W,DATA,531,,001,Programming for Data Science,Gema Rodriguez-Perez,30,92.4,93.0,90.3,97.0,100.0,60.0,,,,,,,,,,6,23
+UBCO,2022,W,DATA,532,,001,Algorithms and Data Structure,Gema Rodriguez-Perez,30,94.5,95.0,92.3,97.0,100.0,83.0,,,,,,,,,,,28
+UBCO,2022,W,DATA,533,,101,Collaborative Software Development,Mohammad Khalad Hasan,30,92.6,94.0,92.0,94.0,96.0,83.0,,,,,,,,,,,25
+UBCO,2022,W,DATA,534,,101,Web and Cloud Computing,Gema Rodriguez-Perez,30,96.5,96.0,95.0,99.0,100.0,91.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2022,W,DATA,540,,001,Databases and Data Retrieval,Ifeoma Adaji,30,98.9,99.0,99.0,100.0,100.0,90.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2022,W,DATA,541,,001,Scripting and Reporting,Mohammad Khalad Hasan,30,93.0,93.0,91.3,95.0,98.0,81.0,,,,,,,,,,,26
+UBCO,2022,W,DATA,542,,101,Data Wrangling,Fatemeh Hendijani Fard,30,95.0,95.0,93.3,97.0,99.0,87.0,,,,,,,,,,,28
+UBCO,2022,W,DATA,543,,001,Data Collection,Emelie Gustafsson,30,93.8,94.0,92.3,97.8,100.0,81.0,,,,,,,,,,,27
+UBCO,2022,W,DATA,550,,001,Dataviz I,Irene Vrbik,30,95.9,96.0,94.0,99.0,100.0,90.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2022,W,DATA,551,,101,Dataviz II,Ladan Tazik,30,96.9,97.0,96.0,98.0,100.0,95.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2022,W,DATA,552,,001,Communication and Argumentation,Jeffrey Andrews,30,94.1,94.5,92.0,97.0,99.0,87.0,,,,,,,,,,,27
+UBCO,2022,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Patricia Lasserre,30,90.7,91.0,88.0,95.0,99.0,74.0,,,,,,,,,,7,18
+UBCO,2022,W,DATA,570,,001,Predictive Modelling,John Thompson,30,89.0,90.0,86.0,93.0,95.0,73.0,,,,,,,,,,8,18
+UBCO,2022,W,DATA,571,,101,Resampling and Regularization,Jeffrey Andrews,30,95.8,96.0,95.0,97.8,100.0,86.0,,,,,,,,,,,28
+UBCO,2022,W,DATA,572,,001,Supervised Learning,Jeffrey Andrews,30,91.1,91.5,88.3,94.8,98.0,82.0,,,,,,,,,,9,19
+UBCO,2022,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Jeffrey Andrews,30,93.6,94.0,92.0,96.0,99.0,78.0,,,,,,,,,,,27
+UBCO,2022,W,DATA,580,,001,Modelling and Simulation I,John Braun;Shabnam Fani,30,93.6,94.5,92.0,96.0,99.0,76.0,,,,,,,,,,,26
+UBCO,2022,W,DATA,581,,101,Modelling and Simulation II,John Braun;Ladan Tazik,30,97.6,97.5,96.0,99.0,100.0,95.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2022,W,DATA,583,,101,Advanced Predictive Modelling,John Thompson,30,91.0,91.5,89.0,93.0,97.0,85.0,0,0,0,0,0,0,0,0,0,10,20
+UBCO,2022,W,DATA,585,,101,Optimization,Heinz Bauschke,30,96.9,97.0,96.0,98.0,100.0,92.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2022,W,DATA,586,,101,Advanced Machine Learning,Xinrui Cui,30,95.6,96.0,95.0,96.0,99.0,91.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2022,W,DATA,589,,101,Special Topic,Michael Noonan,30,93.1,93.0,91.0,95.0,99.0,85.0,0,0,0,0,0,0,0,0,0,6,24

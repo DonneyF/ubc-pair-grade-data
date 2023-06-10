@@ -6,10 +6,10 @@ Data Source | Last Updated
 --- | ---
 [PAIR Reports](https://webprd01.pair.ubc.ca/reports/welcome.action) | June 2019
 [Tableau Dashboard](https://reports.im.it.ubc.ca/#/site/Learner/views/GradeDistributionReport/GradeDistributionReport?:iid=1) | September 2022
-[Tableau Dashboard v2](http://reports.im.it.ubc.ca/t/PAIR/views/GradesDistribution/GradesDistribution) | September 2022
+[Tableau Dashboard v2](http://reports.im.it.ubc.ca/t/PAIR/views/GradesDistribution/GradesDistribution) | June 2023
 
 ## Description
-### PAIR Reports (? - 2022)
+### PAIR Reports (? - 2019)
 
 The data from PAIR Reports should only be relevant for grade data of around 2016W or earlier. This is because grade data from 2017W was found to be modified in the timeframe between June 2019 and Dec 2019. Only data for UBC Vancouver was taken.
 

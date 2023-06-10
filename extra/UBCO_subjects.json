@@ -1,402 +1,442 @@
 [
- {
-   "code": "AGRO",
-   "title": "Agroecology",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "ANTH",
-   "title": "Anthropology",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "APPP",
-   "title": "Applied Science Professional Platform",
-   "faculty_school": "Faculty of Applied Science"
- },
- {
-   "code": "APSC",
-   "title": "Applied Science",
-   "faculty_school": "Faculty of Applied Science"
- },
- {
-   "code": "ARCO",
-   "title": "Arts Co-Op",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "ARTH",
-   "title": "Art History and Visual Culture",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "ASTR",
-   "title": "Astronomy",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "BIOC",
-   "title": "Biochemistry",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "BIOL",
-   "title": "Biology",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "CCS",
-   "title": "Creative and Critical Studies",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "CHEM",
-   "title": "Chemistry",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-  "code": "CHIN",
-  "title": "Chinese",
-  "faculty_school": "Faculty of Creative and Critical"
- },
- {
-   "code": "COOP",
-   "title": "Cooperative Education",
-   "faculty_school": "Faculty of Management"
- },
- {
-  "code": "CORH",
-  "title": "Communications and Rhetoric",
-  "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "COSC",
-   "title": "Computer Science",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "CRWR",
-   "title": "Creative Writing",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "CULT",
-   "title": "Cultural Studies",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "CUST",
-   "title": "Curriculum Studies",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "DATA",
-   "title": "Data Science",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "DIHU",
-   "title": "Digital Humanities",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "EADM",
-   "title": "Educational Administration",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "EAP",
-   "title": "English for Academic Purposes",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "ECED",
-   "title": "Early Childhood Education",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "ECON",
-   "title": "Economics",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "EDST",
-   "title": "Educational Studies",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "EDUC",
-   "title": "Education",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "EESC",
-   "title": "Earth & Environmental Sciences",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "ENGL",
-   "title": "English",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "ENGR",
-   "title": "Engineering",
-   "faculty_school": "Faculty of Applied Science"
- },
- {
-   "code": "ENVI",
-   "title": "Environmental Sciences",
-   "faculty_school": "College of Graduate Studies"
- },
- {
-   "code": "EPSE",
-   "title": "Educational Psychology and Special Education",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "ETEC",
-   "title": "Educational Technology",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "EXCH",
-   "title": "Exchange Programs",
-   "faculty_school": "Regi"
- },
- {
-   "code": "FDSY",
-   "title": "Food Systems",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "FILM",
-   "title": "Film",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "FREN",
-   "title": "French",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "GEOG",
-   "title": "Geography",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "GERM",
-   "title": "German",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "GERO",
-   "title": "Gerontology",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "GISC",
-   "title": "Geospatial Information Science",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "GREK",
-   "title": "Greek",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "GWST",
-   "title": "Gender and Women's Studies",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "HEAL",
-   "title": "Health Studies",
-   "faculty_school": "Faculty of Health and Social Development"
- },
- {
-   "code": "HEBR",
-   "title": "Hebrew",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-  "code": "HES",
-  "title": "Health & Exercise Sciences",
-  "faculty_school": "Faculty of Health and Social Development"
- },
- {
-   "code": "HINT",
-   "title": "Health-Interprofessional",
-   "faculty_school": "Faculty of Health and Social Development"
- },
- {
-   "code": "HIST",
-   "title": "History",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "HMKN",
-   "title": "Human Kinetics",
-   "faculty_school": "Faculty of Health and Social Development"
- },
- {
-   "code": "IGS",
-   "title": "Interdisciplinary Graduate Studies",
-   "faculty_school": "College of Graduate Studies"
- },
- {
-   "code": "INDG",
-   "title": "Indigenous Studies",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-  "code": "INLG",
-  "title": "Indigenous Language",
-  "faculty_school": "Faculty of Arts and Social Sciences"
- },
- {
-   "code": "JPST",
-   "title": "Japanese Studies",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-  "code": "KORN",
-  "title": "Korean",
-  "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "LATN",
-   "title": "Latin",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "LLED",
-   "title": "Language and Literacy Education",
-   "faculty_school": "Faculty of Education"
- },
- {
-   "code": "MANF",
-   "title": "Manufacturing Engineering",
-   "faculty_school": "Faculty of Applied Science"
- },
- {
-   "code": "MATH",
-   "title": "Mathematics",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "MDST",
-   "title": "Media Studies",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "MGCO",
-   "title": "Management Co-Op",
-   "faculty_school": "Faculty of Management"
- },
- {
-   "code": "MGMT",
-   "title": "Management",
-   "faculty_school": "Faculty of Management"
- },
- {
-   "code": "MUSC",
-   "title": "Music",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "NRSG",
-   "title": "Nursing",
-   "faculty_school": "Faculty of Health and Social Development"
- },
- {
-  "code": "NSYL",
-  "title": "Nsyilxcn",
-  "faculty_school": "Faculty of Arts and Social Sciences"
- },
- {
-   "code": "PHIL",
-   "title": "Philosophy",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "PHYS",
-   "title": "Physics",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "POLI",
-   "title": "Political Science",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "PSYO",
-   "title": "Psychology",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "SCCO",
-   "title": "Science Co-Op",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "SOCI",
-   "title": "Sociology",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "SOCW",
-   "title": "Social Work",
-   "faculty_school": "Faculty of Health and Social Development"
- },
- {
-   "code": "SPAN",
-   "title": "Spanish",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "STAT",
-   "title": "Statistics",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "SUST",
-   "title": "Sustainability",
-   "faculty_school": "Faculty of Arts and Sciences"
- },
- {
-   "code": "TEST",
-   "title": "Test",
-   "faculty_school": "Regi"
- },
- {
-   "code": "THTR",
-   "title": "Theatre",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "VANT",
-   "title": "Vantage College",
-   "faculty_school": "Vantage College"
- },
- {
-   "code": "VGRS",
-   "title": "Visiting Graduate Students",
-   "faculty_school": "College of Graduate Studies"
- },
- {
-   "code": "VISA",
-   "title": "Visual Arts",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- },
- {
-   "code": "VURS",
-   "title": "Visiting Undergraduate Research Students",
-   "faculty_school": "Faculty of Applied Science"
- },
- {
-   "code": "WRLD",
-   "title": "World Literature",
-   "faculty_school": "Faculty of Creative and Critical Studies"
- }
+    {
+        "code": "AGRO",
+        "title": "Agroecology",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "ANTH",
+        "title": "Anthropology",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "APPP",
+        "title": "Applied Science Professional Platform",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "APSC",
+        "title": "Applied Science",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "ARCO",
+        "title": "Arts Co-Op",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "ARTH",
+        "title": "Art History and Visual Culture",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "ASTR",
+        "title": "Astronomy",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "BIOC",
+        "title": "Biochemistry",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "BIOL",
+        "title": "Biology",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "CCS",
+        "title": "Creative and Critical Studies",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "CHEM",
+        "title": "Chemistry",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "CHIN",
+        "title": "Chinese",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "CMPE",
+        "title": "Computer Engineering",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "COOP",
+        "title": "Cooperative Education",
+        "faculty_school": "Faculty of Management"
+    },
+    {
+        "code": "CORH",
+        "title": "Communications and Rhetoric",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "COSC",
+        "title": "Computer Science",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "CRWR",
+        "title": "Creative Writing",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "CULT",
+        "title": "Cultural Studies",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "CUST",
+        "title": "Curriculum Studies",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "DATA",
+        "title": "Data Science",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "DICE",
+        "title": "Design, Innovation, Creativity, Entrepreneurship",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "DIHU",
+        "title": "Digital Humanities",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "EADM",
+        "title": "Educational Administration",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "EAP",
+        "title": "English for Academic Purposes",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "ECED",
+        "title": "Early Childhood Education",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "ECON",
+        "title": "Economics",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "EDLL",
+        "title": "Education Doctorate Leadership and Learning",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "EDST",
+        "title": "Educational Studies",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "EDUC",
+        "title": "Education",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "EESC",
+        "title": "Earth & Environmental Sciences",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "ENGL",
+        "title": "English",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "ENGR",
+        "title": "Engineering",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "ENVI",
+        "title": "Environmental Sciences",
+        "faculty_school": "College of Graduate Studies"
+    },
+    {
+        "code": "EPSE",
+        "title": "Educational Psychology and Special Education",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "ETEC",
+        "title": "Educational Technology",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "EXCH",
+        "title": "Exchange Programs",
+        "faculty_school": "Regi"
+    },
+    {
+        "code": "FDSY",
+        "title": "Food Systems",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "FILM",
+        "title": "Film",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "FREN",
+        "title": "French",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "FWSC",
+        "title": "Freshwater Science",
+        "faculty_school": "Faculty of Science"
+    },
+    {
+        "code": "GEOG",
+        "title": "Geography",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "GERM",
+        "title": "German",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "GERO",
+        "title": "Gerontology",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "GISC",
+        "title": "Geospatial Information Science",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "GREK",
+        "title": "Greek",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "GWST",
+        "title": "Gender, Women and Sexuality Studies",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "HEAL",
+        "title": "Health Studies",
+        "faculty_school": "Faculty of Health and Social Development"
+    },
+    {
+        "code": "HEBR",
+        "title": "Hebrew",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "HES",
+        "title": "Health & Exercise Sciences",
+        "faculty_school": "Faculty of Health and Social Development"
+    },
+    {
+        "code": "HINT",
+        "title": "Health-Interprofessional",
+        "faculty_school": "Faculty of Health and Social Development"
+    },
+    {
+        "code": "HIST",
+        "title": "History",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "HMKN",
+        "title": "Human Kinetics",
+        "faculty_school": "Faculty of Health and Social Development"
+    },
+    {
+        "code": "IGS",
+        "title": "Interdisciplinary Graduate Studies",
+        "faculty_school": "College of Graduate Studies"
+    },
+    {
+        "code": "IMTC",
+        "title": "Immersive Technologies",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "INDG",
+        "title": "Indigenous Studies",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "INLG",
+        "title": "Indigenous Language",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "JPST",
+        "title": "Japanese Studies",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "KORN",
+        "title": "Korean",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "LATN",
+        "title": "Latin",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "LLED",
+        "title": "Language and Literacy Education",
+        "faculty_school": "Faculty of Education"
+    },
+    {
+        "code": "MANF",
+        "title": "Manufacturing Engineering",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "MATH",
+        "title": "Mathematics",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "MDST",
+        "title": "Media Studies",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "MGCO",
+        "title": "Management Co-Op",
+        "faculty_school": "Faculty of Management"
+    },
+    {
+        "code": "MGMT",
+        "title": "Management",
+        "faculty_school": "Faculty of Management"
+    },
+    {
+        "code": "MUSC",
+        "title": "Music",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "NLEK",
+        "title": "Nle?Kepmx Language",
+        "faculty_school": "Faculty of Arts and Social Sciences"
+    },
+    {
+        "code": "NRSG",
+        "title": "Nursing",
+        "faculty_school": "Faculty of Health and Social Development"
+    },
+    {
+        "code": "NSYL",
+        "title": "Nsyilxcn",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "PHIL",
+        "title": "Philosophy",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "PHYS",
+        "title": "Physics",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "POLI",
+        "title": "Political Science",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "PSYO",
+        "title": "Psychology",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "SCCO",
+        "title": "Science Co-Op",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "SECH",
+        "title": "Social and Economic Change",
+        "faculty_school": "Faculty of Management"
+    },
+    {
+        "code": "SOCI",
+        "title": "Sociology",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "SOCW",
+        "title": "Social Work",
+        "faculty_school": "Faculty of Health and Social Development"
+    },
+    {
+        "code": "SPAN",
+        "title": "Spanish",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "STAT",
+        "title": "Statistics",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "STMC",
+        "title": "St'\u00e1t'imc Language",
+        "faculty_school": "Faculty of Arts and Social Sciences"
+    },
+    {
+        "code": "SUST",
+        "title": "Sustainability",
+        "faculty_school": "Faculty of Arts and Sciences"
+    },
+    {
+        "code": "TEST",
+        "title": "Test",
+        "faculty_school": "Regi"
+    },
+    {
+        "code": "THTR",
+        "title": "Theatre",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "VANT",
+        "title": "Vantage College",
+        "faculty_school": "Vantage College"
+    },
+    {
+        "code": "VGRS",
+        "title": "Visiting Graduate Students",
+        "faculty_school": "College of Graduate Studies"
+    },
+    {
+        "code": "VISA",
+        "title": "Visual Arts",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    },
+    {
+        "code": "VURS",
+        "title": "Visiting Undergraduate Research Students",
+        "faculty_school": "Faculty of Applied Science"
+    },
+    {
+        "code": "WRLD",
+        "title": "World Literature",
+        "faculty_school": "Faculty of Creative and Critical Studies"
+    }
 ]
