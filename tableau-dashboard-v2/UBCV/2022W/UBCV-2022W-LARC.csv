@@ -1,24 +1,24 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,LARC,316,,002,Trees and Shrubs in Landscape,Douglas Justice,30,90.4,92.0,89.3,94.0,97.0,75.0,,,,,,,,,,,22
-UBCV,2022,W,LARC,415,,001,Plant Design,David Tracey,23,83.0,83.0,80.0,86.5,93.0,73.0,,,,,,,,,8,8,
-UBCV,2022,W,LARC,444,,002,Green Network Planning,Cynthia Girling,44,86.1,87.0,84.0,90.0,94.0,59.0,,,,,,,,,11,14,15
-UBCV,2022,W,LARC,501,,001,Landscape Architecture Design Studio I,Sara Jacobs;Tatiana Nozaki,21,82.3,83.0,79.0,86.0,88.0,68.0,,,,,,,,,8,7,
-UBCV,2022,W,LARC,502,,001,Landscape Architecture Design Studio II,Karin England;Maren Mcbride;Daniel Roehr,23,88.9,90.0,88.0,90.5,93.0,83.0,,,,,,,,,,7,13
-UBCV,2022,W,LARC,503,,001,Landscape Architecture Design Studio III,Rachel Laszlo Tait;Stephen Wilkinson,34,87.6,88.0,87.0,88.8,92.0,78.0,,,,,,,,,,25,6
-UBCV,2022,W,LARC,504,,002,Landscape Architecture Design Studio IV,Fionn Byrne,6,84.8,85.0,83.3,86.8,87.0,82.0,,,,,,,,,,,
-UBCV,2022,W,LARC,504,,004,Landscape Architecture Design Studio IV,Nicky Bloom,8,85.1,85.0,84.3,86.0,91.0,81.0,,,,,,,,,,,
+UBCV,2022,W,LARC,316,,002,Trees and Shrubs in Landscape,Douglas Justice,30,90.4,92.0,89.3,94.0,97.0,75.0,0,0,0,0,0,0,1,2,1,4,22
+UBCV,2022,W,LARC,415,,001,Plant Design,David Tracey,23,83.0,83.0,80.0,86.5,93.0,73.0,0,0,0,0,0,0,3,2,8,8,2
+UBCV,2022,W,LARC,444,,002,Green Network Planning,Cynthia Girling,44,86.1,87.0,84.0,90.0,94.0,59.0,0,0,1,0,0,0,0,3,11,14,15
+UBCV,2022,W,LARC,501,,001,Landscape Architecture Design Studio I,Sara Jacobs;Tatiana Nozaki,21,82.3,83.0,79.0,86.0,88.0,68.0,0,0,0,0,0,1,0,5,8,7,0
+UBCV,2022,W,LARC,502,,001,Landscape Architecture Design Studio II,Karin England;Maren Mcbride;Daniel Roehr,23,88.9,90.0,88.0,90.5,93.0,83.0,0,0,0,0,0,0,0,0,3,7,13
+UBCV,2022,W,LARC,503,,001,Landscape Architecture Design Studio III,Rachel Laszlo Tait;Stephen Wilkinson,34,87.6,88.0,87.0,88.8,92.0,78.0,0,0,0,0,0,0,0,1,2,25,6
+UBCV,2022,W,LARC,504,,002,Landscape Architecture Design Studio IV,Fionn Byrne,6,84.8,85.0,83.3,86.8,87.0,82.0,0,0,0,0,0,0,0,0,3,3,0
+UBCV,2022,W,LARC,504,,004,Landscape Architecture Design Studio IV,Nicky Bloom,8,85.1,85.0,84.3,86.0,91.0,81.0,0,0,0,0,0,0,0,0,2,5,1
 UBCV,2022,W,LARC,504,,005,Landscape Architecture Design Studio IV,Shannon Lee,10,96.5,95.0,95.0,98.8,100.0,94.0,0,0,0,0,0,0,0,0,0,0,10
-UBCV,2022,W,LARC,505,,002,Landscape Architecture Design Studio V,Fionn Byrne,6,84.0,82.0,80.5,88.0,90.0,80.0,,,,,,,,,,,
+UBCV,2022,W,LARC,505,,002,Landscape Architecture Design Studio V,Fionn Byrne,6,84.0,82.0,80.5,88.0,90.0,80.0,0,0,0,0,0,0,0,0,4,0,2
 UBCV,2022,W,LARC,505,,003,Landscape Architecture Design Studio V,Joseph Dahmen,8,88.0,88.0,88.0,88.0,88.0,88.0,0,0,0,0,0,0,0,0,0,8,0
-UBCV,2022,W,LARC,522,,001,Landscape Architectural History,Sara Jacobs,31,83.5,84.0,80.0,87.0,91.0,77.0,,,,,,,,7,12,8,
-UBCV,2022,W,LARC,523,,001,Landscape Architecture Theory,Susan Herrington,39,84.5,84.0,82.5,86.5,92.0,78.0,,,,,,,,,18,15,
-UBCV,2022,W,LARC,525,,002,Design Research Methods,Allison Bernice Earl,28,88.2,88.5,87.0,90.0,91.0,80.0,,,,,,,,,,18,9
-UBCV,2022,W,LARC,531,,002,Landscape Technologies I,Stephen Wilkinson,28,88.3,88.0,88.0,89.0,93.0,83.0,,,,,,,,,,20,6
-UBCV,2022,W,LARC,532,,002,Landscape Technologies II,Joseph Dahmen,33,82.5,83.0,81.0,84.0,86.0,79.0,,,,,,,,,25,6,
-UBCV,2022,W,LARC,540,,001,Site Analysis and Planning,Stephen Wilkinson,39,87.1,88.0,86.0,91.5,94.0,36.0,,,,,,,,,,20,14
-UBCV,2022,W,LARC,541,,002,Landscape Planning and Management,Charles Chambers,28,87.3,88.0,85.0,89.0,91.0,82.0,,,,,,,,,,19,
-UBCV,2022,W,LARC,551,,001,Professional Practice,Maria Emilia Brasdefer;Cynthia Girling;Nicholas Paczkowski,28,85.8,85.5,83.8,88.3,95.0,75.0,,,,,,,,,7,11,6
-UBCV,2022,W,LARC,553,,001,Green Network Planning,Cynthia Girling,6,85.2,85.5,84.3,86.0,86.0,84.0,,,,,,,,,,,
-UBCV,2022,W,LARC,582,K,001,Seminar: Special Topics,Sara Jacobs,11,89.1,88.0,86.0,92.0,96.0,84.0,,,,,,,,,,,
-UBCV,2022,W,LARC,582,R,001,Seminar: Special Topics,Daniel Roehr,11,90.5,90.0,89.0,93.0,94.0,87.0,,,,,,,,,,,6
-UBCV,2022,W,LARC,595,,001,Graduate Project Part I,Susan Herrington,30,83.9,85.0,82.0,88.8,94.0,69.0,,,,,,,,,,11,7
+UBCV,2022,W,LARC,522,,001,Landscape Architectural History,Sara Jacobs,31,83.5,84.0,80.0,87.0,91.0,77.0,0,0,0,0,0,0,0,7,12,8,4
+UBCV,2022,W,LARC,523,,001,Landscape Architecture Theory,Susan Herrington,39,84.5,84.0,82.5,86.5,92.0,78.0,0,0,0,0,0,0,0,2,18,15,4
+UBCV,2022,W,LARC,525,,002,Design Research Methods,Allison Bernice Earl,28,88.2,88.5,87.0,90.0,91.0,80.0,0,0,0,0,0,0,0,0,1,18,9
+UBCV,2022,W,LARC,531,,002,Landscape Technologies I,Stephen Wilkinson,28,88.3,88.0,88.0,89.0,93.0,83.0,0,0,0,0,0,0,0,0,2,20,6
+UBCV,2022,W,LARC,532,,002,Landscape Technologies II,Joseph Dahmen,33,82.5,83.0,81.0,84.0,86.0,79.0,0,0,0,0,0,0,0,2,25,6,0
+UBCV,2022,W,LARC,540,,001,Site Analysis and Planning,Stephen Wilkinson,39,87.1,88.0,86.0,91.5,94.0,36.0,1,0,0,0,0,0,0,0,4,20,14
+UBCV,2022,W,LARC,541,,002,Landscape Planning and Management,Charles Chambers,28,87.3,88.0,85.0,89.0,91.0,82.0,0,0,0,0,0,0,0,0,4,19,5
+UBCV,2022,W,LARC,551,,001,Professional Practice,Maria Emilia Brasdefer;Cynthia Girling;Nicholas Paczkowski,28,85.8,85.5,83.8,88.3,95.0,75.0,0,0,0,0,0,0,1,3,7,11,6
+UBCV,2022,W,LARC,553,,001,Green Network Planning,Cynthia Girling,6,85.2,85.5,84.3,86.0,86.0,84.0,0,0,0,0,0,0,0,0,2,4,0
+UBCV,2022,W,LARC,582,K,001,Seminar: Special Topics,Sara Jacobs,11,89.1,88.0,86.0,92.0,96.0,84.0,0,0,0,0,0,0,0,0,1,5,5
+UBCV,2022,W,LARC,582,R,001,Seminar: Special Topics,Daniel Roehr,11,90.5,90.0,89.0,93.0,94.0,87.0,0,0,0,0,0,0,0,0,0,5,6
+UBCV,2022,W,LARC,595,,001,Graduate Project Part I,Susan Herrington,30,83.9,85.0,82.0,88.8,94.0,69.0,0,0,0,0,0,4,2,1,5,11,7

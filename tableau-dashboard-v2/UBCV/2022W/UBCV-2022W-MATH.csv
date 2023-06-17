@@ -1,17 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,MATH,100,,1A1,Differential Calculus with Applications,Daniel Coombs;Mark Thomson Maclean;Kelly Paton;Anthony Wachs,322,69.1,72.5,62.0,79.0,98.0,0.0,,,18,,25,,,47,33,28,17
+UBCV,2022,W,MATH,100,,1A1,Differential Calculus with Applications,Daniel Coombs;Mark Thomson Maclean;Kelly Paton;Anthony Wachs,322,69.1,72.5,62.0,79.0,98.0,0.0,42,14,18,19,25,35,44,47,33,28,17
+UBCV,2022,W,MATH,100,,1A2,Differential Calculus with Applications,Mark Thomson Maclean;Kelly Paton;Anthony Wachs,225,69.2,71.0,61.0,79.0,95.0,24.0,20,7,21,19,24,24,26,30,31,16,7
 UBCV,2022,W,MATH,100,,1A3,Differential Calculus with Applications,Mark Thomson Maclean;Kelly Paton;Muhammad Usman,442,68.0,71.0,60.0,80.0,98.0,0.0,65,14,29,31,36,48,47,57,57,32,26
+UBCV,2022,W,MATH,100,,1A4,Differential Calculus with Applications,Mark Thomson Maclean;Kelly Paton;Muhammad Usman,423,65.6,67.0,56.0,77.5,98.0,16.0,83,16,31,42,43,41,38,37,38,35,19
 UBCV,2022,W,MATH,100,,1AR,Differential Calculus with Applications,Mark Thomson Maclean;Kelly Paton,307,63.8,65.0,51.0,78.0,98.0,0.0,74,15,28,23,28,26,15,28,34,23,13
 UBCV,2022,W,MATH,100,,1B1,Differential Calculus with Applications,Daniel Coombs;Eric Cytrynbaum;Kelly Paton;Elyse Yeager,466,67.1,69.0,59.0,77.0,95.0,8.0,54,30,40,44,47,58,56,58,48,25,6
 UBCV,2022,W,MATH,100,,1B2,Differential Calculus with Applications,Eric Cytrynbaum;Kelly Paton,310,68.3,70.0,60.0,78.8,95.0,0.0,33,14,29,25,31,31,43,31,41,27,5
 UBCV,2022,W,MATH,100,,1B3,Differential Calculus with Applications,Eric Cytrynbaum;Peter Harrington;Kelly Paton,333,70.5,73.0,65.0,79.0,95.0,27.0,31,8,16,18,36,45,45,54,44,30,6
+UBCV,2022,W,MATH,100,,1C1,Differential Calculus with Applications,Daniel Coombs;Kelly Paton;Lior Silberman;Brian Wetton,219,64.3,65.0,56.0,75.0,94.0,0.0,31,17,29,26,18,26,21,20,16,10,5
 UBCV,2022,W,MATH,100,,1C2,Differential Calculus with Applications,Kelly Paton;Lior Silberman;Brian Wetton,444,63.8,65.0,55.0,74.0,94.0,0.0,83,24,37,53,51,55,47,35,36,14,9
-UBCV,2022,W,MATH,100,,V02,Differential Calculus with Applications,Fok-Shuen Leung,35,66.3,71.0,62.5,75.0,87.0,5.0,,,,,,6,8,,,,
+UBCV,2022,W,MATH,100,,1C3,Differential Calculus with Applications,Kelly Paton;Lior Silberman,437,61.1,63.0,51.0,71.0,93.0,0.0,100,34,53,42,53,51,24,30,30,17,3
+UBCV,2022,W,MATH,100,,V02,Differential Calculus with Applications,Fok-Shuen Leung,35,66.3,71.0,62.5,75.0,87.0,5.0,4,2,2,2,3,6,8,2,2,4,0
 UBCV,2022,W,MATH,101,,2A1,Integral Calculus with Applications,Yifeng Huang;Philip Loewen;Pablo Shmerkin,297,73.5,77.0,63.0,87.0,99.0,17.0,38,22,4,11,13,21,25,24,42,44,53
 UBCV,2022,W,MATH,101,,2A2,Integral Calculus with Applications,Philip Loewen;Nahid Walji,397,73.6,76.0,65.0,86.0,99.0,6.0,26,36,11,18,28,39,36,39,56,44,64
 UBCV,2022,W,MATH,101,,2A3,Integral Calculus with Applications,Philip Loewen;Pablo Shmerkin,401,72.9,77.0,63.0,87.0,100.0,0.0,46,31,8,20,19,31,27,28,63,62,66
 UBCV,2022,W,MATH,101,,2A4,Integral Calculus with Applications,Philip Loewen;Nahid Walji,304,72.0,77.0,59.0,87.0,100.0,0.0,41,22,14,9,16,18,22,21,39,37,65
-UBCV,2022,W,MATH,101,,2AR,Integral Calculus with Applications,Philip Loewen,149,72.2,78.0,63.0,88.0,98.0,4.0,26,8,,,,7,12,14,21,23,28
+UBCV,2022,W,MATH,101,,2AR,Integral Calculus with Applications,Philip Loewen,149,72.2,78.0,63.0,88.0,98.0,4.0,26,8,2,4,4,7,12,14,21,23,28
 UBCV,2022,W,MATH,101,,2B1,Integral Calculus with Applications,Seckin Demirbas;Peter Harrington;Philip Loewen,348,64.8,67.0,52.8,78.0,97.0,16.0,76,44,8,17,30,28,36,29,31,27,22
 UBCV,2022,W,MATH,101,,2B2,Integral Calculus with Applications,Seckin Demirbas,305,68.2,72.0,53.0,81.0,99.0,0.0,48,45,5,12,17,24,29,23,50,26,26
 UBCV,2022,W,MATH,101,,2B3,Integral Calculus with Applications,Seckin Demirbas;Costanza Piccolo,265,66.9,69.0,53.0,81.0,98.0,0.0,52,27,3,20,15,26,19,16,39,26,22
@@ -19,131 +23,150 @@ UBCV,2022,W,MATH,101,,2C1,Integral Calculus with Applications,Yifeng Huang;Phili
 UBCV,2022,W,MATH,101,,2C2,Integral Calculus with Applications,Colin Macdonald;Elyse Yeager,335,58.6,59.0,45.0,73.0,94.0,0.0,108,47,15,16,23,31,30,11,30,17,7
 UBCV,2022,W,MATH,101,,2C3,Integral Calculus with Applications,Elyse Yeager,291,65.4,68.0,53.0,80.0,97.0,16.0,59,34,6,22,18,25,30,16,41,20,20
 UBCV,2022,W,MATH,110,,001,Differential Calculus,Seckin Demirbas,200,57.6,62.0,50.0,73.3,100.0,0.0,50,25,18,14,12,20,18,11,19,4,9
-UBCV,2022,W,MATH,120,,101,Honours Differential Calculus,Gregory Martin,55,78.2,85.0,68.0,91.0,99.0,11.0,,,,,,7,,,,9,19
-UBCV,2022,W,MATH,120,,102,Honours Differential Calculus,Gregory Martin,24,79.9,85.0,70.3,90.0,96.0,55.0,,,,,,,,,,,8
-UBCV,2022,W,MATH,121,,201,Honours Integral Calculus,Gregory Martin,41,81.6,83.0,72.0,92.0,99.0,46.0,,,,,,,,,,,17
-UBCV,2022,W,MATH,121,,202,Honours Integral Calculus,Gregory Martin;Alexia Yavicoli,6,84.5,89.0,76.8,90.8,96.0,69.0,,,,,,,,,,,
+UBCV,2022,W,MATH,120,,101,Honours Differential Calculus,Gregory Martin,55,78.2,85.0,68.0,91.0,99.0,11.0,1,2,5,2,1,7,5,2,2,9,19
+UBCV,2022,W,MATH,120,,102,Honours Differential Calculus,Gregory Martin,24,79.9,85.0,70.3,90.0,96.0,55.0,0,0,3,1,1,2,2,0,2,5,8
+UBCV,2022,W,MATH,121,,201,Honours Integral Calculus,Gregory Martin,41,81.6,83.0,72.0,92.0,99.0,46.0,1,0,1,1,2,5,3,3,5,3,17
+UBCV,2022,W,MATH,121,,202,Honours Integral Calculus,Gregory Martin;Alexia Yavicoli,6,84.5,89.0,76.8,90.8,96.0,69.0,0,0,0,0,0,1,1,0,0,1,3
 UBCV,2022,W,MATH,152,,201,Linear Systems,Miranda Holmes-Cerfon;Kalle Karu,210,68.6,69.0,60.0,78.0,99.0,0.0,9,15,26,22,21,25,27,15,21,21,8
 UBCV,2022,W,MATH,152,,202,Linear Systems,Kalle Karu;Anotida Madzwamuse,192,66.9,68.0,59.0,77.0,99.0,13.0,7,18,25,17,25,28,21,13,23,9,6
 UBCV,2022,W,MATH,152,,203,Linear Systems,Anirudh Asuri Mukundan;Kalle Karu,163,67.1,68.0,59.0,77.0,96.0,3.0,9,19,17,17,13,19,20,13,18,11,7
 UBCV,2022,W,MATH,152,,205,Linear Systems,Kalle Karu;Patrick Walls,226,67.9,68.0,59.3,77.0,97.0,6.0,11,18,28,27,23,35,20,11,25,15,13
 UBCV,2022,W,MATH,152,,207,Linear Systems,Wenzhao Chen;Kalle Karu,148,66.4,69.0,56.8,77.3,97.0,1.0,13,18,15,12,11,16,16,13,15,9,10
-UBCV,2022,W,MATH,190,,101,Calculus Survey,Keqin Liu,66,65.5,65.0,53.8,81.8,96.0,6.0,9,8,6,,6,,,,10,6,6
-UBCV,2022,W,MATH,200,,20R,Calculus III,Benjamin Bruce;Zinovy Reichstein,104,67.3,70.5,57.0,84.0,100.0,1.0,17,,8,8,,10,10,,14,8,17
+UBCV,2022,W,MATH,180,,101,Differential Calculus with Applications,Matthew Coles;Fok-Shuen Leung,432,61.2,59.0,50.0,73.0,95.0,18.0,84,122,11,20,24,50,39,17,41,18,6
+UBCV,2022,W,MATH,190,,101,Calculus Survey,Keqin Liu,66,65.5,65.0,53.8,81.8,96.0,6.0,9,8,6,5,6,3,3,4,10,6,6
+UBCV,2022,W,MATH,200,,20R,Calculus III,Benjamin Bruce;Zinovy Reichstein,104,67.3,70.5,57.0,84.0,100.0,1.0,17,5,8,8,5,10,10,2,14,8,17
 UBCV,2022,W,MATH,200,,101,Calculus III,Albert Chau;Young-Heon Kim,224,65.8,68.0,53.8,80.0,97.0,26.0,34,27,20,17,12,21,18,18,25,20,12
 UBCV,2022,W,MATH,200,,102,Calculus III,Albert Chau;Jonathan Hermon,153,68.1,71.0,59.0,80.0,100.0,16.0,16,8,15,16,12,11,12,21,25,10,7
-UBCV,2022,W,MATH,200,,104,Calculus III,Albert Chau;James Colliander,53,67.0,67.0,62.0,74.0,90.0,18.0,,,,9,9,8,6,,,,
+UBCV,2022,W,MATH,200,,104,Calculus III,Albert Chau;James Colliander,53,67.0,67.0,62.0,74.0,90.0,18.0,2,4,4,9,9,8,6,2,5,3,1
 UBCV,2022,W,MATH,200,,105,Calculus III,Albert Chau;Zinovy Reichstein,128,72.8,74.0,64.0,83.0,100.0,28.0,7,7,4,11,14,13,15,13,17,11,16
 UBCV,2022,W,MATH,200,,107,Calculus III,Benjamin Bruce;Albert Chau,128,72.0,76.0,61.0,87.0,99.0,14.0,15,7,8,4,9,11,9,14,12,18,21
 UBCV,2022,W,MATH,200,,109,Calculus III,Albert Chau,181,69.8,72.0,61.0,82.0,99.0,12.0,21,13,4,16,15,15,24,14,23,18,18
 UBCV,2022,W,MATH,200,,202,Calculus III,Michael Bennett;Sebastien Picard;Zinovy Reichstein,172,70.4,74.5,57.8,90.0,100.0,1.0,28,10,6,8,11,13,11,4,20,11,50
-UBCV,2022,W,MATH,200,,204,Calculus III,Zinovy Reichstein,42,67.4,70.5,50.5,82.8,100.0,1.0,8,,,,,6,,,6,,9
+UBCV,2022,W,MATH,200,,204,Calculus III,Zinovy Reichstein,42,67.4,70.5,50.5,82.8,100.0,1.0,8,5,1,1,1,6,2,2,6,1,9
 UBCV,2022,W,MATH,210,,201,Introduction to Mathematical Computing,Patrick Walls,119,68.3,73.0,59.0,78.0,98.0,20.0,15,7,11,8,4,11,20,15,14,8,6
-UBCV,2022,W,MATH,215,,101,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,25,63.0,65.0,54.0,72.0,90.0,35.0,,,,,,,,,,,
-UBCV,2022,W,MATH,215,,102,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,35,63.6,68.0,51.0,79.0,94.0,9.0,8,,,,,,,,,,
-UBCV,2022,W,MATH,215,,104,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,53,61.7,63.0,53.0,71.0,89.0,28.0,8,8,7,,9,,,,,,
-UBCV,2022,W,MATH,215,,201,Elementary Differential Equations I,Masoud Daneshi;Tai-Peng Tsai;Patrick Walls,99,78.6,83.0,65.5,94.0,100.0,10.0,7,7,,,6,,10,,8,8,40
+UBCV,2022,W,MATH,215,,101,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,25,63.0,65.0,54.0,72.0,90.0,35.0,4,3,2,3,5,1,3,1,1,1,1
+UBCV,2022,W,MATH,215,,102,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,35,63.6,68.0,51.0,79.0,94.0,9.0,8,2,3,3,1,1,5,3,3,3,3
+UBCV,2022,W,MATH,215,,104,Elementary Differential Equations I,Philip Loewen;Anthony Wachs;Patrick Walls,53,61.7,63.0,53.0,71.0,89.0,28.0,8,8,7,4,9,5,3,1,4,4,0
+UBCV,2022,W,MATH,215,,201,Elementary Differential Equations I,Masoud Daneshi;Tai-Peng Tsai;Patrick Walls,99,78.6,83.0,65.5,94.0,100.0,10.0,7,7,4,3,6,2,10,4,8,8,40
 UBCV,2022,W,MATH,215,,202,Elementary Differential Equations I,Tai-Peng Tsai,139,68.9,72.0,60.0,81.5,96.0,12.0,10,15,9,13,11,11,10,13,21,15,11
-UBCV,2022,W,MATH,217,,101,Multivariable and Vector Calculus,Kai Behrend,84,75.1,76.5,68.0,84.0,100.0,19.0,,,,,6,11,10,7,17,10,10
-UBCV,2022,W,MATH,220,,101,Mathematical Proof,Andrew Rechnitzer;Elyse Yeager,73,65.8,66.0,59.0,74.0,95.0,23.0,6,7,7,8,12,10,,,7,,
-UBCV,2022,W,MATH,220,,103,Mathematical Proof,Andrew Rechnitzer,74,68.3,68.5,59.3,76.8,100.0,24.0,6,,8,6,10,6,11,,8,,6
-UBCV,2022,W,MATH,220,,104,Mathematical Proof,Andrew Rechnitzer;Elyse Yeager,44,63.2,61.0,53.8,73.0,96.0,33.0,,7,8,,,,,,,,
-UBCV,2022,W,MATH,220,,105,Mathematical Proof,Andrew Rechnitzer,72,66.9,66.0,57.0,80.0,98.0,26.0,8,6,11,,8,,,,10,6,
-UBCV,2022,W,MATH,220,,107,Mathematical Proof,Omer Angel;Andrew Rechnitzer,49,64.3,63.0,53.0,72.0,97.0,30.0,,8,7,,,6,,,,,
-UBCV,2022,W,MATH,220,,108,Mathematical Proof,Andrew Rechnitzer;Nahid Walji,63,64.4,67.0,54.5,76.0,98.0,25.0,10,6,,,7,6,7,8,,,
-UBCV,2022,W,MATH,220,,201,Mathematical Proof,Michael Bennett;Rachel Ollivier,73,63.1,65.0,55.0,73.0,99.0,0.0,10,8,8,6,9,8,9,,7,,
-UBCV,2022,W,MATH,220,,203,Mathematical Proof,Rachel Ollivier,78,70.8,69.0,61.0,85.0,98.0,24.0,,6,,13,,9,,6,6,12,9
-UBCV,2022,W,MATH,220,,204,Mathematical Proof,Rachel Ollivier,54,69.6,70.0,64.0,77.8,94.0,33.0,,,,,6,13,6,,8,,
-UBCV,2022,W,MATH,221,,202,Matrix Algebra,Jingyi Chen,184,75.6,80.0,68.8,87.0,99.0,0.0,15,,,11,9,9,24,13,34,22,38
+UBCV,2022,W,MATH,217,,101,Multivariable and Vector Calculus,Kai Behrend,84,75.1,76.5,68.0,84.0,100.0,19.0,4,2,2,5,6,11,10,7,17,10,10
+UBCV,2022,W,MATH,220,,101,Mathematical Proof,Andrew Rechnitzer;Elyse Yeager,73,65.8,66.0,59.0,74.0,95.0,23.0,6,7,7,8,12,10,5,5,7,1,5
+UBCV,2022,W,MATH,220,,103,Mathematical Proof,Andrew Rechnitzer,74,68.3,68.5,59.3,76.8,100.0,24.0,6,5,8,6,10,6,11,4,8,4,6
+UBCV,2022,W,MATH,220,,104,Mathematical Proof,Andrew Rechnitzer;Elyse Yeager,44,63.2,61.0,53.8,73.0,96.0,33.0,5,7,8,4,5,2,4,3,3,1,2
+UBCV,2022,W,MATH,220,,105,Mathematical Proof,Andrew Rechnitzer,72,66.9,66.0,57.0,80.0,98.0,26.0,8,6,11,5,8,5,5,3,10,6,5
+UBCV,2022,W,MATH,220,,107,Mathematical Proof,Omer Angel;Andrew Rechnitzer,49,64.3,63.0,53.0,72.0,97.0,30.0,5,8,7,5,4,6,5,2,2,1,4
+UBCV,2022,W,MATH,220,,108,Mathematical Proof,Andrew Rechnitzer;Nahid Walji,63,64.4,67.0,54.5,76.0,98.0,25.0,10,6,5,4,7,6,7,8,4,4,2
+UBCV,2022,W,MATH,220,,201,Mathematical Proof,Michael Bennett;Rachel Ollivier,73,63.1,65.0,55.0,73.0,99.0,0.0,10,8,8,6,9,8,9,2,7,4,2
+UBCV,2022,W,MATH,220,,203,Mathematical Proof,Rachel Ollivier,78,70.8,69.0,61.0,85.0,98.0,24.0,4,6,4,13,5,9,4,6,6,12,9
+UBCV,2022,W,MATH,220,,204,Mathematical Proof,Rachel Ollivier,54,69.6,70.0,64.0,77.8,94.0,33.0,3,3,4,1,6,13,6,5,8,3,2
+UBCV,2022,W,MATH,221,,101,Matrix Algebra,Sujatha Ramdorai;Patrick Walls;Thomas Williams,93,72.8,77.0,62.0,87.0,98.0,17.0,11,6,2,6,6,3,7,12,12,15,13
+UBCV,2022,W,MATH,221,,102,Matrix Algebra,Patrick Walls;Thomas Williams,64,69.4,71.0,63.0,79.3,93.0,12.0,3,2,8,5,10,5,10,5,8,5,3
+UBCV,2022,W,MATH,221,,103,Matrix Algebra,Anirudh Asuri Mukundan;Patrick Walls;Thomas Williams,159,69.7,71.0,59.5,82.0,100.0,20.0,14,14,12,15,11,14,12,17,17,22,11
+UBCV,2022,W,MATH,221,,104,Matrix Algebra,Keqin Liu;Patrick Walls;Thomas Williams,165,65.5,69.0,56.0,79.0,98.0,0.0,30,8,9,19,9,16,20,14,17,13,10
+UBCV,2022,W,MATH,221,,105,Matrix Algebra,Wenzhao Chen;Patrick Walls;Thomas Williams,77,69.6,72.0,60.0,82.0,95.0,0.0,6,6,5,7,3,11,6,9,8,9,7
+UBCV,2022,W,MATH,221,,106,Matrix Algebra,Keqin Liu;Patrick Walls;Thomas Williams,119,71.5,73.0,61.0,82.5,97.0,16.0,10,3,9,13,9,12,12,13,12,14,12
+UBCV,2022,W,MATH,221,,202,Matrix Algebra,Jingyi Chen,184,75.6,80.0,68.8,87.0,99.0,0.0,15,4,5,11,9,9,24,13,34,22,38
 UBCV,2022,W,MATH,221,,203,Matrix Algebra,Sabin Cautis;Jingyi Chen,91,73.5,78.0,63.5,88.0,99.0,2.0,8,2,6,7,6,8,6,7,10,12,19
 UBCV,2022,W,MATH,221,,204,Matrix Algebra,Jingyi Chen,177,72.9,75.0,64.0,84.0,100.0,19.0,13,12,9,8,10,21,16,17,30,24,17
-UBCV,2022,W,MATH,223,,101,Linear Algebra,Elina Robeva,59,83.9,86.0,78.0,93.5,100.0,36.0,,,,,,,,,7,9,27
-UBCV,2022,W,MATH,223,,201,Linear Algebra,Julia Yulia Gordon;Patrick Walls,18,64.0,71.5,44.5,88.3,100.0,0.0,,,,,,,,,,,
-UBCV,2022,W,MATH,226,,101,Advanced Calculus I,Michael Bennett,68,74.9,77.5,68.0,85.0,98.0,7.0,,,,,,9,7,7,12,7,13
-UBCV,2022,W,MATH,227,,201,Advanced Calculus II,Alexia Yavicoli,24,80.0,86.0,76.5,92.3,99.0,0.0,,,,,,,,,,,10
+UBCV,2022,W,MATH,223,,101,Linear Algebra,Elina Robeva,59,83.9,86.0,78.0,93.5,100.0,36.0,2,0,1,3,1,3,2,4,7,9,27
+UBCV,2022,W,MATH,223,,201,Linear Algebra,Julia Yulia Gordon;Patrick Walls,18,64.0,71.5,44.5,88.3,100.0,0.0,5,0,0,1,1,2,2,1,1,0,5
+UBCV,2022,W,MATH,226,,101,Advanced Calculus I,Michael Bennett,68,74.9,77.5,68.0,85.0,98.0,7.0,5,2,3,2,1,9,7,7,12,7,13
+UBCV,2022,W,MATH,227,,201,Advanced Calculus II,Alexia Yavicoli,24,80.0,86.0,76.5,92.3,99.0,0.0,1,1,1,0,2,0,1,2,3,3,10
 UBCV,2022,W,MATH,253,,10R,Multivariable Calculus,James Colliander;Mark Thomson Maclean,694,71.5,73.0,66.0,78.0,100.0,0.0,16,30,32,43,87,99,130,90,108,34,25
 UBCV,2022,W,MATH,254,,201,Multivariable and Vector Calculus for Mechanical Engineering,Lindsey Daniels;Patrick Walls,133,72.0,75.0,65.0,81.0,100.0,38.0,15,2,6,8,12,10,21,17,20,10,12
-UBCV,2022,W,MATH,255,,104,Ordinary Differential Equations,Philip Loewen;Anthony Wachs;Patrick Walls,69,80.0,82.0,72.0,89.0,97.0,46.0,,,,,,10,,10,13,13,13
+UBCV,2022,W,MATH,255,,101,Ordinary Differential Equations,Philip Loewen;Anthony Wachs;Patrick Walls,50,53.7,54.5,43.5,64.8,85.0,5.0,15,10,4,5,8,2,3,2,0,1,0
+UBCV,2022,W,MATH,255,,102,Ordinary Differential Equations,Philip Loewen;Anthony Wachs;Patrick Walls,87,62.7,62.0,54.0,74.0,87.0,18.0,11,13,8,13,7,8,9,7,8,3,0
+UBCV,2022,W,MATH,255,,104,Ordinary Differential Equations,Philip Loewen;Anthony Wachs;Patrick Walls,69,80.0,82.0,72.0,89.0,97.0,46.0,1,2,1,2,0,10,4,10,13,13,13
 UBCV,2022,W,MATH,256,,101,Differential Equations,Ian Frigaard;Laurent Mackay,97,65.1,66.0,56.0,78.0,95.0,14.0,13,6,14,7,10,10,8,10,8,7,4
 UBCV,2022,W,MATH,256,,102,Differential Equations,Ian Frigaard,159,71.4,72.0,62.5,81.0,100.0,16.0,12,6,12,11,13,21,18,18,17,16,15
 UBCV,2022,W,MATH,256,,103,Differential Equations,Ian Frigaard;Marjan Zare Bezgabadi,99,68.8,69.0,60.5,80.5,99.0,28.0,10,5,6,11,10,12,8,9,12,10,6
-UBCV,2022,W,MATH,256,,202,Differential Equations,Neil Balmforth;Laurent Mackay,74,72.7,76.0,64.3,81.8,100.0,15.0,,,,7,7,6,6,13,11,7,7
+UBCV,2022,W,MATH,256,,201,Differential Equations,Neil Balmforth,138,68.5,71.5,59.0,78.0,100.0,10.0,11,14,12,9,11,12,21,22,12,4,10
+UBCV,2022,W,MATH,256,,202,Differential Equations,Neil Balmforth;Laurent Mackay,74,72.7,76.0,64.3,81.8,100.0,15.0,4,1,5,7,7,6,6,13,11,7,7
 UBCV,2022,W,MATH,256,,203,Differential Equations,Neil Balmforth;Miranda Holmes-Cerfon,142,67.4,67.0,58.0,78.8,100.0,7.0,14,10,17,14,18,15,11,10,11,12,10
-UBCV,2022,W,MATH,257,,101,Partial Differential Equations,Anthony Peirce,10,65.1,66.5,61.0,79.0,99.0,23.0,,,,,,,,,,,
-UBCV,2022,W,MATH,257,,201,Partial Differential Equations,Mona Rahmani,7,73.9,81.0,61.0,89.5,96.0,39.0,,,,,,,,,,,
-UBCV,2022,W,MATH,258,,101,Differential Equations for Mechanical Engineering,Lindsey Daniels;Patrick Walls,125,76.1,77.0,71.0,83.0,100.0,42.0,6,,,,7,13,18,23,27,11,12
-UBCV,2022,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Seckin Demirbas,95,67.3,68.0,60.5,78.0,96.0,21.0,12,,6,10,12,18,7,,11,,7
-UBCV,2022,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Seckin Demirbas,96,64.3,66.0,57.8,74.3,100.0,4.0,18,,7,11,14,15,7,,,,9
+UBCV,2022,W,MATH,257,,101,Partial Differential Equations,Anthony Peirce,10,65.1,66.5,61.0,79.0,99.0,23.0,2,0,0,1,2,1,0,1,1,1,1
+UBCV,2022,W,MATH,257,,201,Partial Differential Equations,Mona Rahmani,7,73.9,81.0,61.0,89.5,96.0,39.0,1,0,1,1,0,0,0,0,1,1,2
+UBCV,2022,W,MATH,258,,101,Differential Equations for Mechanical Engineering,Lindsey Daniels;Patrick Walls,125,76.1,77.0,71.0,83.0,100.0,42.0,6,0,3,5,7,13,18,23,27,11,12
+UBCV,2022,W,MATH,264,,201,Vector Calculus for Electrical Engineering,Seckin Demirbas,95,67.3,68.0,60.5,78.0,96.0,21.0,12,4,6,10,12,18,7,4,11,4,7
+UBCV,2022,W,MATH,264,,202,Vector Calculus for Electrical Engineering,Seckin Demirbas,96,64.3,66.0,57.8,74.3,100.0,4.0,18,3,7,11,14,15,7,5,5,2,9
 UBCV,2022,W,MATH,264,,203,Vector Calculus for Electrical Engineering,Seckin Demirbas;Zhichao Wang,113,72.2,73.0,64.0,83.0,97.0,22.0,7,7,4,7,16,12,7,15,11,19,8
-UBCV,2022,W,MATH,300,,201,Introduction to Complex Variables,Mathav Murugan,56,70.6,71.5,60.8,87.0,100.0,7.0,,,,,6,,,6,,6,10
-UBCV,2022,W,MATH,301,,201,Applied Analysis,Gordon Slade,20,70.9,68.5,60.8,88.3,98.0,39.0,,,,,,,,,,,
+UBCV,2022,W,MATH,300,,101,Introduction to Complex Variables,Seckin Demirbas,93,64.5,65.0,53.0,75.0,100.0,15.0,15,12,5,10,8,10,10,1,10,3,9
+UBCV,2022,W,MATH,300,,201,Introduction to Complex Variables,Mathav Murugan,56,70.6,71.5,60.8,87.0,100.0,7.0,4,4,5,4,6,5,5,6,1,6,10
+UBCV,2022,W,MATH,301,,201,Applied Analysis,Gordon Slade,20,70.9,68.5,60.8,88.3,98.0,39.0,2,2,0,4,2,1,2,0,0,3,4
+UBCV,2022,W,MATH,302,,101,Introduction to Probability,Jonathan Hermon;Jacob Richey,92,74.8,79.0,68.0,87.0,97.0,22.0,8,4,3,4,3,8,9,9,16,16,12
+UBCV,2022,W,MATH,302,,102,Introduction to Probability,Jonathan Hermon,80,68.5,68.5,55.8,85.0,99.0,25.0,9,7,7,8,9,6,6,3,4,6,15
+UBCV,2022,W,MATH,302,,201,Introduction to Probability,Elina Robeva,148,78.4,80.0,72.0,90.0,100.0,8.0,7,4,3,6,7,9,11,17,26,19,39
 UBCV,2022,W,MATH,303,,201,Introduction to Stochastic Processes,Khanh Dao Duc;Yaniv Plan,149,72.1,74.0,65.0,81.0,97.0,31.0,8,6,7,10,7,18,19,18,32,15,9
-UBCV,2022,W,MATH,303,,202,Introduction to Stochastic Processes,Yaniv Plan,103,71.4,77.0,64.0,82.5,100.0,0.0,10,,,10,,9,8,12,27,9,9
-UBCV,2022,W,MATH,305,,201,Applied Complex Analysis,Juncheng Wei,79,74.3,77.0,68.5,87.0,99.0,0.0,,,,,6,11,9,10,,13,14
-UBCV,2022,W,MATH,307,,101,Applied Linear Algebra,David Stenlund;Patrick Walls,95,75.2,78.0,66.0,84.5,98.0,41.0,,,,11,,,11,13,18,13,11
-UBCV,2022,W,MATH,307,,102,Applied Linear Algebra,Chunyi Gai;Patrick Walls,105,70.3,72.0,65.0,80.0,98.0,29.0,6,,,7,14,16,17,9,18,,6
-UBCV,2022,W,MATH,307,,103,Applied Linear Algebra,Patrick Walls,55,72.1,74.0,66.0,83.0,93.0,13.0,,,,,,8,6,,12,9,
+UBCV,2022,W,MATH,303,,202,Introduction to Stochastic Processes,Yaniv Plan,103,71.4,77.0,64.0,82.5,100.0,0.0,10,2,3,10,4,9,8,12,27,9,9
+UBCV,2022,W,MATH,305,,201,Applied Complex Analysis,Juncheng Wei,79,74.3,77.0,68.5,87.0,99.0,0.0,4,2,4,1,6,11,9,10,5,13,14
+UBCV,2022,W,MATH,307,,101,Applied Linear Algebra,David Stenlund;Patrick Walls,95,75.2,78.0,66.0,84.5,98.0,41.0,3,4,5,11,3,3,11,13,18,13,11
+UBCV,2022,W,MATH,307,,102,Applied Linear Algebra,Chunyi Gai;Patrick Walls,105,70.3,72.0,65.0,80.0,98.0,29.0,6,5,3,7,14,16,17,9,18,4,6
+UBCV,2022,W,MATH,307,,103,Applied Linear Algebra,Patrick Walls,55,72.1,74.0,66.0,83.0,93.0,13.0,3,5,1,2,4,8,6,2,12,9,3
 UBCV,2022,W,MATH,307,,201,Applied Linear Algebra,David Stenlund;Patrick Walls;Ozgur Yilmaz,98,70.2,71.0,62.0,81.8,98.0,0.0,7,5,9,7,7,15,8,9,15,6,10
-UBCV,2022,W,MATH,307,,202,Applied Linear Algebra,Ozgur Yilmaz,104,70.4,74.0,62.0,82.3,96.0,0.0,10,7,,7,6,14,,18,11,14,8
-UBCV,2022,W,MATH,309,,201,Topics in Geometry,Liam Watson,89,70.0,74.0,63.0,82.0,95.0,2.0,7,,8,8,,7,11,9,20,8,
-UBCV,2022,W,MATH,312,,101,Introduction to Number Theory,Dragos Ghioca,78,79.2,84.5,72.3,89.8,100.0,25.0,,,,6,,,6,,11,19,20
-UBCV,2022,W,MATH,312,,201,Introduction to Number Theory,John Macdonald,66,75.0,80.0,68.8,88.0,98.0,20.0,,,,,,6,,7,9,14,12
-UBCV,2022,W,MATH,316,,101,Elementary Differential Equations II,Anthony Peirce,36,66.1,70.5,51.0,78.5,98.0,4.0,6,,,,,,,,,,
-UBCV,2022,W,MATH,316,,201,Elementary Differential Equations II,Mona Rahmani,57,66.3,70.0,53.0,87.0,100.0,0.0,12,,,,,,,,,,14
-UBCV,2022,W,MATH,317,,202,Calculus IV,Sebastien Picard,56,76.9,78.0,69.8,90.0,100.0,0.0,,,,,,,,7,,7,15
-UBCV,2022,W,MATH,318,,201,Probability with Physical Applications,Omer Angel,103,77.9,80.0,69.5,86.0,100.0,33.0,,,,,7,19,7,9,22,17,15
-UBCV,2022,W,MATH,320,,101,Real Variables I,Sven Bachmann,56,64.4,65.5,52.0,81.0,99.0,10.0,12,6,,,6,,,,,,9
-UBCV,2022,W,MATH,321,,201,Real Variables II,Gordon Slade,34,61.1,64.0,41.8,78.0,99.0,0.0,9,,,,,,,7,,,
-UBCV,2022,W,MATH,322,,101,Introduction to Group Theory,Vinayak Vatsal,36,59.8,63.5,44.0,73.0,92.0,3.0,10,,,,,,,,,,
-UBCV,2022,W,MATH,323,,201,Introduction to Rings and Modules,Vinayak Vatsal,16,64.3,65.0,57.5,75.0,81.0,31.0,,,,,,,,,,,
-UBCV,2022,W,MATH,335,,201,Introduction to Mathematics,Maria Luisa Melania Adem,29,87.2,90.0,85.0,93.0,100.0,42.0,,,,,,,,,,6,16
-UBCV,2022,W,MATH,335,,202,Introduction to Mathematics,Fok-Shuen Leung,9,64.8,58.0,52.0,82.0,93.0,39.0,,,,,,,,,,,
-UBCV,2022,W,MATH,335,,203,Introduction to Mathematics,Maria Luisa Melania Adem,29,84.1,88.0,78.0,95.0,100.0,41.0,,,,,,,,,,6,13
+UBCV,2022,W,MATH,307,,202,Applied Linear Algebra,Ozgur Yilmaz,104,70.4,74.0,62.0,82.3,96.0,0.0,10,7,5,7,6,14,4,18,11,14,8
+UBCV,2022,W,MATH,309,,201,Topics in Geometry,Liam Watson,89,70.0,74.0,63.0,82.0,95.0,2.0,7,1,8,8,5,7,11,9,20,8,5
+UBCV,2022,W,MATH,312,,101,Introduction to Number Theory,Dragos Ghioca,78,79.2,84.5,72.3,89.8,100.0,25.0,2,4,1,6,2,4,6,3,11,19,20
+UBCV,2022,W,MATH,312,,201,Introduction to Number Theory,John Macdonald,66,75.0,80.0,68.8,88.0,98.0,20.0,5,5,1,3,0,6,4,7,9,14,12
+UBCV,2022,W,MATH,316,,101,Elementary Differential Equations II,Anthony Peirce,36,66.1,70.5,51.0,78.5,98.0,4.0,6,4,1,1,3,3,4,5,3,2,4
+UBCV,2022,W,MATH,316,,102,Elementary Differential Equations II,Anthony Peirce,57,70.5,73.0,57.0,83.0,98.0,30.0,6,6,5,2,5,1,6,4,8,4,10
+UBCV,2022,W,MATH,316,,201,Elementary Differential Equations II,Mona Rahmani,57,66.3,70.0,53.0,87.0,100.0,0.0,12,4,3,4,3,5,5,2,4,1,14
+UBCV,2022,W,MATH,316,,202,Elementary Differential Equations II,Mona Rahmani,33,69.3,75.0,60.0,90.0,100.0,3.0,6,2,0,3,3,0,3,0,3,4,9
+UBCV,2022,W,MATH,317,,101,Calculus IV,Tai-Peng Tsai,117,70.2,72.0,60.0,85.0,100.0,13.0,12,11,6,11,7,7,11,8,13,8,23
+UBCV,2022,W,MATH,317,,201,Calculus IV,Sebastien Picard,102,75.4,77.5,66.3,86.0,100.0,30.0,4,4,7,7,6,7,12,8,17,11,19
+UBCV,2022,W,MATH,317,,202,Calculus IV,Sebastien Picard,56,76.9,78.0,69.8,90.0,100.0,0.0,1,3,3,3,4,4,4,7,5,7,15
+UBCV,2022,W,MATH,318,,201,Probability with Physical Applications,Omer Angel,103,77.9,80.0,69.5,86.0,100.0,33.0,2,1,1,3,7,19,7,9,22,17,15
+UBCV,2022,W,MATH,319,,101,Introduction to Real Analysis,Andrew Rechnitzer,24,61.0,61.0,50.0,76.3,96.0,3.0,5,5,1,2,2,0,3,0,3,0,3
+UBCV,2022,W,MATH,320,,101,Real Variables I,Sven Bachmann,56,64.4,65.5,52.0,81.0,99.0,10.0,12,6,5,2,6,2,3,4,5,2,9
+UBCV,2022,W,MATH,321,,201,Real Variables II,Gordon Slade,34,61.1,64.0,41.8,78.0,99.0,0.0,9,1,1,4,3,0,2,7,0,2,5
+UBCV,2022,W,MATH,322,,101,Introduction to Group Theory,Vinayak Vatsal,36,59.8,63.5,44.0,73.0,92.0,3.0,10,3,1,4,4,3,5,1,0,2,3
+UBCV,2022,W,MATH,323,,201,Introduction to Rings and Modules,Vinayak Vatsal,16,64.3,65.0,57.5,75.0,81.0,31.0,2,0,3,2,2,2,1,1,3,0,0
+UBCV,2022,W,MATH,335,,201,Introduction to Mathematics,Maria Luisa Melania Adem,29,87.2,90.0,85.0,93.0,100.0,42.0,1,0,0,0,0,1,0,2,3,6,16
+UBCV,2022,W,MATH,335,,202,Introduction to Mathematics,Fok-Shuen Leung,9,64.8,58.0,52.0,82.0,93.0,39.0,1,3,1,0,0,1,0,0,1,1,1
+UBCV,2022,W,MATH,335,,203,Introduction to Mathematics,Maria Luisa Melania Adem,29,84.1,88.0,78.0,95.0,100.0,41.0,2,0,0,0,2,1,0,4,1,6,13
 UBCV,2022,W,MATH,340,,101,Introduction to Linear Programming,Matthieu Heitz;Young-Heon Kim,102,65.4,66.0,50.5,78.0,100.0,19.0,24,4,7,7,11,8,11,6,7,9,8
-UBCV,2022,W,MATH,340,,201,Introduction to Linear Programming,Young-Heon Kim,51,67.0,68.0,62.0,79.5,100.0,0.0,,,,6,7,,7,,,6,
+UBCV,2022,W,MATH,340,,201,Introduction to Linear Programming,Young-Heon Kim,51,67.0,68.0,62.0,79.5,100.0,0.0,4,3,5,6,7,3,7,3,5,6,2
 UBCV,2022,W,MATH,340,,202,Introduction to Linear Programming,Young-Heon Kim;Evan Miller,106,64.6,65.0,55.3,75.8,98.0,2.0,14,11,7,12,14,8,13,7,8,7,5
-UBCV,2022,W,MATH,341,,101,Introduction to Discrete Mathematics,Jozsef Solymosi,75,69.9,73.0,58.5,83.0,100.0,10.0,9,,8,,,6,12,,11,,11
-UBCV,2022,W,MATH,342,,101,Algebra and Coding Theory,Kalle Karu,52,71.0,72.0,59.0,81.3,95.0,50.0,,7,6,,,,6,,10,,
-UBCV,2022,W,MATH,344,,101,Mathematical Game Theory,Omer Angel,76,76.3,77.5,69.8,85.3,100.0,36.0,,,,,,8,10,8,13,8,13
-UBCV,2022,W,MATH,361,,101,Introduction to Mathematical Biology,Eric Cytrynbaum,62,61.8,66.0,50.0,75.0,98.0,0.0,14,7,,,6,6,7,,6,,
-UBCV,2022,W,MATH,400,,101,Applied Partial Differential Equations,Juncheng Wei,48,79.4,83.0,70.5,90.0,97.0,51.0,,,,,,,,,9,7,14
-UBCV,2022,W,MATH,400,,201,Applied Partial Differential Equations,Neil Balmforth,62,71.3,75.0,59.5,82.0,99.0,18.0,,6,,,,,7,7,9,,10
-UBCV,2022,W,MATH,401,,201,Green's Functions and Variational Methods,Brian Wetton,20,77.6,82.0,70.0,87.0,96.0,55.0,,,,,,,,,6,,
-UBCV,2022,W,MATH,405,,101,Numerical Methods for Differential Equations,Christoph Ortner,28,78.0,82.5,73.5,88.3,97.0,17.0,,,,,,,,,,7,6
-UBCV,2022,W,MATH,406,,101,Variational and Approximate Methods in Applied Mathematics,Anthony Peirce,13,89.3,93.0,86.0,97.0,98.0,70.0,,,,,,,,,,,9
-UBCV,2022,W,MATH,412,,201,Advanced Linear Algebra,Lior Silberman,9,78.0,85.0,82.0,92.0,100.0,1.0,,,,,,,,,,,
-UBCV,2022,W,MATH,418,,101,Probability,Gordon Slade,10,76.8,79.5,67.0,84.5,93.0,58.0,,,,,,,,,,,
-UBCV,2022,W,MATH,419,,201,Stochastic Processes,Jonathan Hermon,7,85.9,89.0,82.0,94.0,96.0,64.0,,,,,,,,,,,
-UBCV,2022,W,MATH,420,,101,Real Analysis I,Young-Heon Kim,15,81.1,81.0,73.0,85.5,100.0,64.0,,,,,,,,,,,
-UBCV,2022,W,MATH,421,,201,Real Analysis II,Sven Bachmann,14,82.6,82.0,80.3,88.3,91.0,70.0,,,,,,,,,6,,
-UBCV,2022,W,MATH,422,,101,Fields and Galois Theory,Sujatha Ramdorai,12,84.3,86.5,79.0,90.0,97.0,65.0,,,,,,,,,,,
-UBCV,2022,W,MATH,423,,201,Commutative Algebra,Zinovy Reichstein,7,90.0,90.0,86.0,94.5,99.0,80.0,,,,,,,,,,,
-UBCV,2022,W,MATH,424,,101,Classical Differential Geometry,Albert Chau,18,85.1,90.0,79.8,92.3,99.0,50.0,,,,,,,,,,,11
-UBCV,2022,W,MATH,425,,201,Introduction to Modern Differential Geometry,Jingyi Chen,14,96.2,97.5,95.3,99.0,100.0,83.0,,,,,,,,,,,13
-UBCV,2022,W,MATH,426,,101,Introduction to Topology,Thomas Williams,7,74.4,81.0,68.0,82.5,87.0,52.0,,,,,,,,,,,
-UBCV,2022,W,MATH,437,,101,Number Theory,Dragos Ghioca,18,80.7,93.5,61.8,99.0,100.0,22.0,,,,,,,,,,,12
-UBCV,2022,W,MATH,441,,101,Mathematical Modelling: Discrete Optimization Problems,Patrick Walls,47,80.9,82.0,74.5,87.0,96.0,64.0,,,,,,7,,,14,6,10
-UBCV,2022,W,MATH,442,,201,Graphs and Networks,Jozsef Solymosi,47,69.7,74.0,62.5,83.5,97.0,0.0,,,,,,,8,,9,,
-UBCV,2022,W,MATH,443,,201,Graph Theory,Elyse Yeager,30,91.2,94.5,89.0,97.0,100.0,65.0,,,,,,,,,,,22
-UBCV,2022,W,MATH,444,,201,Mathematical Research and Writing,Farid Aliniaeifard;Nahid Walji,11,88.6,88.0,87.0,90.0,93.0,85.0,,,,,,,,,,7,
-UBCV,2022,W,MATH,444,,202,Mathematical Research and Writing,Nahid Walji,10,83.5,84.0,82.3,86.8,88.0,76.0,,,,,,,,,,,
-UBCV,2022,W,MATH,446,,101,Topics in the History of Mathematics I,Costanza Piccolo,21,71.1,73.0,67.0,78.0,86.0,45.0,,,,,,,,,,,
-UBCV,2022,W,MATH,512,,101,Quantum Theory,Sven Bachmann,6,93.8,95.0,90.8,97.8,100.0,85.0,,,,,,,,,,,
+UBCV,2022,W,MATH,341,,101,Introduction to Discrete Mathematics,Jozsef Solymosi,75,69.9,73.0,58.5,83.0,100.0,10.0,9,3,8,4,3,6,12,3,11,5,11
+UBCV,2022,W,MATH,342,,101,Algebra and Coding Theory,Kalle Karu,52,71.0,72.0,59.0,81.3,95.0,50.0,0,7,6,3,4,4,6,3,10,4,5
+UBCV,2022,W,MATH,344,,101,Mathematical Game Theory,Omer Angel,76,76.3,77.5,69.8,85.3,100.0,36.0,3,4,2,5,2,8,10,8,13,8,13
+UBCV,2022,W,MATH,361,,101,Introduction to Mathematical Biology,Eric Cytrynbaum,62,61.8,66.0,50.0,75.0,98.0,0.0,14,7,4,3,6,6,7,4,6,3,2
+UBCV,2022,W,MATH,400,,101,Applied Partial Differential Equations,Juncheng Wei,48,79.4,83.0,70.5,90.0,97.0,51.0,0,4,2,2,3,2,1,4,9,7,14
+UBCV,2022,W,MATH,400,,201,Applied Partial Differential Equations,Neil Balmforth,62,71.3,75.0,59.5,82.0,99.0,18.0,5,6,5,3,3,4,7,7,9,3,10
+UBCV,2022,W,MATH,401,,201,Green's Functions and Variational Methods,Brian Wetton,20,77.6,82.0,70.0,87.0,96.0,55.0,0,0,5,0,0,0,2,1,6,1,5
+UBCV,2022,W,MATH,405,,101,Numerical Methods for Differential Equations,Christoph Ortner,28,78.0,82.5,73.5,88.3,97.0,17.0,2,0,0,1,3,0,3,2,4,7,6
+UBCV,2022,W,MATH,406,,101,Variational and Approximate Methods in Applied Mathematics,Anthony Peirce,13,89.3,93.0,86.0,97.0,98.0,70.0,0,0,0,0,0,1,2,0,0,1,9
+UBCV,2022,W,MATH,412,,201,Advanced Linear Algebra,Lior Silberman,9,78.0,85.0,82.0,92.0,100.0,1.0,1,0,0,0,0,0,1,0,2,1,4
+UBCV,2022,W,MATH,418,,101,Probability,Gordon Slade,10,76.8,79.5,67.0,84.5,93.0,58.0,0,0,1,0,2,0,1,1,2,2,1
+UBCV,2022,W,MATH,419,,201,Stochastic Processes,Jonathan Hermon,7,85.9,89.0,82.0,94.0,96.0,64.0,0,0,0,0,1,0,0,1,0,2,3
+UBCV,2022,W,MATH,420,,101,Real Analysis I,Young-Heon Kim,15,81.1,81.0,73.0,85.5,100.0,64.0,0,0,0,0,1,2,2,1,4,2,3
+UBCV,2022,W,MATH,421,,201,Real Analysis II,Sven Bachmann,14,82.6,82.0,80.3,88.3,91.0,70.0,0,0,0,0,0,1,1,1,6,2,3
+UBCV,2022,W,MATH,422,,101,Fields and Galois Theory,Sujatha Ramdorai,12,84.3,86.5,79.0,90.0,97.0,65.0,0,0,0,0,1,0,1,1,2,2,5
+UBCV,2022,W,MATH,423,,201,Commutative Algebra,Zinovy Reichstein,7,90.0,90.0,86.0,94.5,99.0,80.0,0,0,0,0,0,0,0,0,2,0,5
+UBCV,2022,W,MATH,424,,101,Classical Differential Geometry,Albert Chau,18,85.1,90.0,79.8,92.3,99.0,50.0,0,1,0,0,1,0,1,2,0,2,11
+UBCV,2022,W,MATH,425,,201,Introduction to Modern Differential Geometry,Jingyi Chen,14,96.2,97.5,95.3,99.0,100.0,83.0,0,0,0,0,0,0,0,0,1,0,13
+UBCV,2022,W,MATH,426,,101,Introduction to Topology,Thomas Williams,7,74.4,81.0,68.0,82.5,87.0,52.0,0,1,0,0,1,1,0,0,3,1,0
+UBCV,2022,W,MATH,437,,101,Number Theory,Dragos Ghioca,18,80.7,93.5,61.8,99.0,100.0,22.0,2,0,1,2,1,0,0,0,0,0,12
+UBCV,2022,W,MATH,441,,101,Mathematical Modelling: Discrete Optimization Problems,Patrick Walls,47,80.9,82.0,74.5,87.0,96.0,64.0,0,0,0,0,4,7,2,4,14,6,10
+UBCV,2022,W,MATH,442,,201,Graphs and Networks,Jozsef Solymosi,47,69.7,74.0,62.5,83.5,97.0,0.0,4,3,4,1,4,3,8,1,9,5,5
+UBCV,2022,W,MATH,443,,201,Graph Theory,Elyse Yeager,30,91.2,94.5,89.0,97.0,100.0,65.0,0,0,0,0,1,1,1,1,2,2,22
+UBCV,2022,W,MATH,444,,201,Mathematical Research and Writing,Farid Aliniaeifard;Nahid Walji,11,88.6,88.0,87.0,90.0,93.0,85.0,0,0,0,0,0,0,0,0,0,7,4
+UBCV,2022,W,MATH,444,,202,Mathematical Research and Writing,Nahid Walji,10,83.5,84.0,82.3,86.8,88.0,76.0,0,0,0,0,0,0,0,2,3,5,0
+UBCV,2022,W,MATH,446,,101,Topics in the History of Mathematics I,Costanza Piccolo,21,71.1,73.0,67.0,78.0,86.0,45.0,1,2,1,1,1,2,4,4,3,2,0
+UBCV,2022,W,MATH,512,,101,Quantum Theory,Sven Bachmann,6,93.8,95.0,90.8,97.8,100.0,85.0,0,0,0,0,0,0,0,0,0,1,5
 UBCV,2022,W,MATH,515,,201,Partial Differential Equations of Fluid Mechanics,Tai-Peng Tsai,6,97.3,98.0,95.8,98.8,99.0,95.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2022,W,MATH,521,,201,Numerical Analysis of Partial Differential Equations,Brian Wetton,7,89.7,92.0,87.0,93.5,95.0,80.0,,,,,,,,,,,
-UBCV,2022,W,MATH,525,,201,Differential Geometry I,Jingyi Chen,7,91.6,95.0,91.5,97.5,98.0,70.0,,,,,,,,,,,6
+UBCV,2022,W,MATH,521,,201,Numerical Analysis of Partial Differential Equations,Brian Wetton,7,89.7,92.0,87.0,93.5,95.0,80.0,0,0,0,0,0,0,0,0,1,2,4
+UBCV,2022,W,MATH,525,,201,Differential Geometry I,Jingyi Chen,7,91.6,95.0,91.5,97.5,98.0,70.0,0,0,0,0,0,1,0,0,0,0,6
 UBCV,2022,W,MATH,532,,101,Algebraic Geometry I,Kalle Karu,6,96.5,96.5,95.0,98.0,98.0,95.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2022,W,MATH,534,,101,Lie Theory I,Julia Yulia Gordon,8,90.6,89.0,87.5,94.0,97.0,86.0,,,,,,,,,,,
-UBCV,2022,W,MATH,542,,201,Harmonic Analysis II,Pablo Shmerkin,6,89.0,91.5,80.0,99.3,100.0,73.0,,,,,,,,,,,
-UBCV,2022,W,MATH,544,,101,Probability I,Gordon Slade,7,83.7,85.0,77.5,88.5,98.0,71.0,,,,,,,,,,,
-UBCV,2022,W,MATH,550,,101,Methods of Asymptotic Analysis,Neil Balmforth,8,91.3,93.0,89.8,95.5,99.0,74.0,,,,,,,,,,,6
-UBCV,2022,W,MATH,555,,201,Compressed Sensing,Yaniv Plan,14,97.7,99.0,97.5,99.0,99.0,89.0,,,,,,,,,,,13
-UBCV,2022,W,MATH,556,,201,Industrial Mathematical Modelling,Michael Jeffrey Ward,6,89.8,90.0,88.5,90.0,95.0,86.0,,,,,,,,,,,
-UBCV,2022,W,MATH,561,,101,Mathematics of Infectious Diseases and Immunology,Daniel Coombs,10,89.8,90.0,89.0,90.0,91.0,89.0,,,,,,,,,,,6
-UBCV,2022,W,MATH,563,,101,Modelling of Cell-Scale Biology,Leah Edelstein-Keshet,12,92.4,94.0,89.3,95.5,99.0,81.0,,,,,,,,,,,9
+UBCV,2022,W,MATH,534,,101,Lie Theory I,Julia Yulia Gordon,8,90.6,89.0,87.5,94.0,97.0,86.0,0,0,0,0,0,0,0,0,0,4,4
+UBCV,2022,W,MATH,542,,201,Harmonic Analysis II,Pablo Shmerkin,6,89.0,91.5,80.0,99.3,100.0,73.0,0,0,0,0,0,0,1,1,0,1,3
+UBCV,2022,W,MATH,544,,101,Probability I,Gordon Slade,7,83.7,85.0,77.5,88.5,98.0,71.0,0,0,0,0,0,1,0,2,0,2,2
+UBCV,2022,W,MATH,550,,101,Methods of Asymptotic Analysis,Neil Balmforth,8,91.3,93.0,89.8,95.5,99.0,74.0,0,0,0,0,0,0,1,0,0,1,6
+UBCV,2022,W,MATH,555,,201,Compressed Sensing,Yaniv Plan,14,97.7,99.0,97.5,99.0,99.0,89.0,0,0,0,0,0,0,0,0,0,1,13
+UBCV,2022,W,MATH,556,,201,Industrial Mathematical Modelling,Michael Jeffrey Ward,6,89.8,90.0,88.5,90.0,95.0,86.0,0,0,0,0,0,0,0,0,0,2,4
+UBCV,2022,W,MATH,561,,101,Mathematics of Infectious Diseases and Immunology,Daniel Coombs,10,89.8,90.0,89.0,90.0,91.0,89.0,0,0,0,0,0,0,0,0,0,4,6
+UBCV,2022,W,MATH,563,,101,Modelling of Cell-Scale Biology,Leah Edelstein-Keshet,12,92.4,94.0,89.3,95.5,99.0,81.0,0,0,0,0,0,0,0,0,1,2,9
 UBCV,2022,W,MATH,602,D,101,Topics in Geometry,Sebastien Picard,12,98.8,100.0,98.5,100.0,100.0,94.0,0,0,0,0,0,0,0,0,0,0,12
 UBCV,2022,W,MATH,605,D,101,Topics in Applied Mathematics,Elina Robeva,6,97.2,97.5,95.3,99.0,99.0,95.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2022,W,MATH,607,E,101,Topics in Numerical Analysis,Christoph Ortner,11,86.8,89.0,79.5,94.5,96.0,71.0,,,,,,,,,,,
+UBCV,2022,W,MATH,607,E,101,Topics in Numerical Analysis,Christoph Ortner,11,86.8,89.0,79.5,94.5,96.0,71.0,0,0,0,0,0,1,1,1,1,2,5
 UBCV,2022,W,MATH,612,D,101,Topics in Mathematical Biology,Geoffrey Schiebinger,12,92.9,93.0,91.5,94.3,96.0,90.0,0,0,0,0,0,0,0,0,0,0,12
 UBCV,2022,W,MATH,613,D,201,Topics in Number Theory,Gregory Martin,9,95.0,95.0,95.0,95.0,95.0,95.0,0,0,0,0,0,0,0,0,0,0,9
 UBCV,2022,W,MATH,616,D,201,Topics in Discrete Mathematics,Jozsef Solymosi,7,94.9,94.0,94.0,96.0,96.0,94.0,0,0,0,0,0,0,0,0,0,0,7

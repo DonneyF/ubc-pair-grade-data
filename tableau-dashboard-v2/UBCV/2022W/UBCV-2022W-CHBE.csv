@@ -1,64 +1,65 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,CHBE,201,,101,Integrated Technical Communication,Gabriel Potvin;Hongxing Estella Qi;Michael Schoen,36,75.3,79.0,73.8,82.0,92.0,47.0,,,,,,,6,7,9,7,
-UBCV,2022,W,CHBE,201,,102,Integrated Technical Communication,Gabriel Potvin;Hongxing Estella Qi;Michael Schoen,40,77.1,79.5,73.8,82.0,89.0,47.0,,,,,,,10,7,14,6,
-UBCV,2022,W,CHBE,201,,103,Integrated Technical Communication,Gabriel Potvin;Hongxing Estella Qi;Michael Schoen,36,73.4,74.5,72.0,77.3,81.0,47.0,,,,,,,12,11,6,,
-UBCV,2022,W,CHBE,220,,101,Founding Principles in Chemical and Biological Engineering I,Gabriel Potvin,116,76.6,80.0,70.0,86.0,98.0,3.0,7,,,,7,15,13,10,23,15,22
-UBCV,2022,W,CHBE,221,,201,Founding Principles in Chemical and Biological Engineering II,Gabriel Potvin,110,78.8,80.0,72.0,87.0,100.0,45.0,,,,,9,6,15,6,21,20,23
+UBCV,2022,W,CHBE,201,,101,Integrated Technical Communication,Gabriel Potvin;Hongxing Estella Qi;Michael Schoen,36,75.3,79.0,73.8,82.0,92.0,47.0,5,0,0,0,0,1,6,7,9,7,1
+UBCV,2022,W,CHBE,201,,102,Integrated Technical Communication,Gabriel Potvin;Hongxing Estella Qi;Michael Schoen,40,77.1,79.5,73.8,82.0,89.0,47.0,3,0,0,0,0,0,10,7,14,6,0
+UBCV,2022,W,CHBE,201,,103,Integrated Technical Communication,Gabriel Potvin;Hongxing Estella Qi;Michael Schoen,36,73.4,74.5,72.0,77.3,81.0,47.0,2,0,0,1,0,4,12,11,6,0,0
+UBCV,2022,W,CHBE,220,,101,Founding Principles in Chemical and Biological Engineering I,Gabriel Potvin,116,76.6,80.0,70.0,86.0,98.0,3.0,7,0,0,4,7,15,13,10,23,15,22
+UBCV,2022,W,CHBE,221,,201,Founding Principles in Chemical and Biological Engineering II,Gabriel Potvin,110,78.8,80.0,72.0,87.0,100.0,45.0,3,3,2,2,9,6,15,6,21,20,23
 UBCV,2022,W,CHBE,230,,201,Computational Methods,James Jingtao Feng,192,64.9,65.0,58.0,71.3,91.0,3.0,9,19,25,30,28,33,21,12,6,8,1
 UBCV,2022,W,CHBE,241,,101,Material and Energy Balances,Seyyed Alireza Bagherzadeh Hosseini,214,71.9,74.0,66.3,82.8,99.0,0.0,13,5,11,14,16,28,30,20,43,23,11
 UBCV,2022,W,CHBE,244,,201,Chemical and Biological Engineering Thermodynamics I,Savvas Hatzikiriakos,212,67.4,68.0,60.0,77.0,100.0,3.0,21,18,13,25,22,25,27,12,23,6,20
-UBCV,2022,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,119,78.7,79.0,74.0,86.0,98.0,15.0,,,,,,6,16,24,17,23,19
-UBCV,2022,W,CHBE,263,,101,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,29,79.7,82.0,79.0,84.0,92.0,59.0,,,,,,,,,15,,
+UBCV,2022,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,119,78.7,79.0,74.0,86.0,98.0,15.0,3,2,0,4,5,6,16,24,17,23,19
+UBCV,2022,W,CHBE,263,,101,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,29,79.7,82.0,79.0,84.0,92.0,59.0,0,0,1,0,3,3,0,1,15,4,2
 UBCV,2022,W,CHBE,263,,102,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,27,86.2,85.0,82.0,90.5,93.0,80.0,0,0,0,0,0,0,0,0,11,8,8
-UBCV,2022,W,CHBE,263,,103,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,29,85.3,85.0,84.0,88.0,91.0,79.0,,,,,,,,,13,12,
-UBCV,2022,W,CHBE,263,,104,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,24,82.6,81.0,77.8,89.0,94.0,66.0,,,,,,,,,6,6,
-UBCV,2022,W,CHBE,264,,201,Chemical and Biological Engineering Laboratory,Pranav Chintalapati,108,83.0,84.0,81.0,87.0,94.0,50.0,,,,,,,,7,41,32,16
-UBCV,2022,W,CHBE,344,,101,Introduction to Unit Operations,Savvas Hatzikiriakos,60,79.7,82.0,72.8,88.0,100.0,40.0,,,,,,,6,6,13,9,13
-UBCV,2022,W,CHBE,345,,201,Unit Operations,Heather Trajano,96,72.5,76.5,66.0,83.0,98.0,19.0,,9,,,8,9,8,12,18,13,7
+UBCV,2022,W,CHBE,263,,103,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,29,85.3,85.0,84.0,88.0,91.0,79.0,0,0,0,0,0,0,0,1,13,12,3
+UBCV,2022,W,CHBE,263,,104,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,24,82.6,81.0,77.8,89.0,94.0,66.0,0,0,0,0,1,1,2,3,6,6,5
+UBCV,2022,W,CHBE,264,,201,Chemical and Biological Engineering Laboratory,Pranav Chintalapati,108,83.0,84.0,81.0,87.0,94.0,50.0,0,1,1,1,0,5,4,7,41,32,16
+UBCV,2022,W,CHBE,344,,101,Introduction to Unit Operations,Savvas Hatzikiriakos,60,79.7,82.0,72.8,88.0,100.0,40.0,1,2,0,4,3,3,6,6,13,9,13
+UBCV,2022,W,CHBE,345,,201,Unit Operations,Heather Trajano,96,72.5,76.5,66.0,83.0,98.0,19.0,5,9,2,5,8,9,8,12,18,13,7
 UBCV,2022,W,CHBE,346,,101,Chemical and Biological Engineering Thermodynamics II,Petros Englezos,102,69.3,71.0,58.3,78.0,97.0,43.0,4,11,12,8,7,11,15,12,9,7,6
-UBCV,2022,W,CHBE,352,,101,Transport Phenomena II,Mark Martinez,129,65.7,65.0,59.0,70.0,100.0,46.0,,18,16,21,24,20,8,7,,,
-UBCV,2022,W,CHBE,355,,201,Kinetics and Reactor Design,Vikramaditya Yadav,88,73.5,74.0,67.8,81.0,94.0,50.0,,7,,7,7,11,17,10,19,,
-UBCV,2022,W,CHBE,356,,201,Process Dynamics and Control,Yankai Cao,122,74.0,76.0,67.3,84.0,98.0,14.0,,,,8,9,14,14,19,14,18,12
-UBCV,2022,W,CHBE,362,,101,Process Engineering Laboratory,Pranav Chintalapati;Aimee Louise Creagh;Elod Lajos Gyenge,102,79.8,82.5,73.0,87.0,98.0,39.0,,,,,,8,11,15,14,24,17
-UBCV,2022,W,CHBE,364,,101,Environmental Engineering Laboratory,Pranav Chintalapati,44,84.5,84.5,81.0,88.0,92.0,72.0,,,,,,,,,17,15,7
-UBCV,2022,W,CHBE,365,,201,Biological Engineering  Laboratory,Aimee Louise Creagh,32,77.0,77.5,71.0,82.3,90.0,63.0,,,,,,,,,6,,
-UBCV,2022,W,CHBE,366,,201,Chemical Engineering Laboratory,Pranav Chintalapati,67,79.3,81.0,74.5,86.0,92.0,57.0,,,,,,6,,7,18,18,
-UBCV,2022,W,CHBE,370,,101,Fundamentals of Sustainable Engineering,Xiaotao Bi,146,78.0,79.0,74.0,82.0,92.0,56.0,,,,,,17,24,31,49,16,
-UBCV,2022,W,CHBE,373,,101,Water Pollution Control,Madjid Mohseni;Jonathan Verrett,46,75.4,76.5,70.0,81.0,97.0,34.0,,,,,,6,7,6,9,,
-UBCV,2022,W,CHBE,376,,201,Computer Flowsheeting and Unit Operation Design,Mahyar Mohaghegh Montazeri,87,78.4,80.0,72.0,90.0,99.0,26.0,,,,,,,,15,10,14,23
-UBCV,2022,W,CHBE,381,,201,Bioprocess Engineering I,James Piret,85,75.2,76.0,68.0,85.0,98.0,35.0,,,,,6,9,18,11,10,12,10
-UBCV,2022,W,CHBE,402,,201,Biomass Fractionation Technology,Heather Trajano,8,90.6,91.0,88.8,92.3,94.0,87.0,,,,,,,,,,,
+UBCV,2022,W,CHBE,352,,101,Transport Phenomena II,Mark Martinez,129,65.7,65.0,59.0,70.0,100.0,46.0,2,18,16,21,24,20,8,7,5,5,3
+UBCV,2022,W,CHBE,355,,201,Kinetics and Reactor Design,Vikramaditya Yadav,88,73.5,74.0,67.8,81.0,94.0,50.0,0,7,1,7,7,11,17,10,19,5,4
+UBCV,2022,W,CHBE,356,,201,Process Dynamics and Control,Yankai Cao,122,74.0,76.0,67.3,84.0,98.0,14.0,5,4,5,8,9,14,14,19,14,18,12
+UBCV,2022,W,CHBE,362,,101,Process Engineering Laboratory,Pranav Chintalapati;Aimee Louise Creagh;Elod Lajos Gyenge,102,79.8,82.5,73.0,87.0,98.0,39.0,2,1,1,4,5,8,11,15,14,24,17
+UBCV,2022,W,CHBE,364,,101,Environmental Engineering Laboratory,Pranav Chintalapati,44,84.5,84.5,81.0,88.0,92.0,72.0,0,0,0,0,0,0,1,4,17,15,7
+UBCV,2022,W,CHBE,365,,201,Biological Engineering  Laboratory,Aimee Louise Creagh,32,77.0,77.5,71.0,82.3,90.0,63.0,0,0,0,1,5,3,5,5,6,5,2
+UBCV,2022,W,CHBE,366,,201,Chemical Engineering Laboratory,Pranav Chintalapati,67,79.3,81.0,74.5,86.0,92.0,57.0,0,0,2,4,2,6,5,7,18,18,5
+UBCV,2022,W,CHBE,370,,101,Fundamentals of Sustainable Engineering,Xiaotao Bi,146,78.0,79.0,74.0,82.0,92.0,56.0,0,0,2,1,4,17,24,31,49,16,2
+UBCV,2022,W,CHBE,373,,101,Water Pollution Control,Madjid Mohseni;Jonathan Verrett,46,75.4,76.5,70.0,81.0,97.0,34.0,1,0,2,1,5,6,7,6,9,5,4
+UBCV,2022,W,CHBE,376,,201,Computer Flowsheeting and Unit Operation Design,Mahyar Mohaghegh Montazeri,87,78.4,80.0,72.0,90.0,99.0,26.0,3,2,3,5,3,5,4,15,10,14,23
+UBCV,2022,W,CHBE,381,,201,Bioprocess Engineering I,James Piret,85,75.2,76.0,68.0,85.0,98.0,35.0,2,1,3,3,6,9,18,11,10,12,10
+UBCV,2022,W,CHBE,402,,201,Biomass Fractionation Technology,Heather Trajano,8,90.6,91.0,88.8,92.3,94.0,87.0,0,0,0,0,0,0,0,0,0,3,5
 UBCV,2022,W,CHBE,419,,201,Industrial Biotechnology Laboratory,Aimee Louise Creagh,12,87.0,87.0,86.0,88.0,89.0,85.0,0,0,0,0,0,0,0,0,0,12,0
-UBCV,2022,W,CHBE,453,,001,Biological Process and Product Design,Zeina Baalbaki;Sergio Berretta;Petros Englezos;Choon Jim Lim;Mahyar Mohaghegh Montazeri;Dusko Posarac,32,88.5,89.0,87.0,90.0,93.0,80.0,,,,,,,,,,17,12
-UBCV,2022,W,CHBE,454,,001,Chemical Process and Product Design,Zeina Baalbaki;Sergio Berretta;Petros Englezos;Choon Jim Lim;Mahyar Mohaghegh Montazeri;Dusko Posarac,61,87.9,90.0,86.0,90.0,93.0,74.0,,,,,,,,,8,17,32
-UBCV,2022,W,CHBE,456,,101,Heterogenous Catalysis and Advanced Reactor Design,Elod Lajos Gyenge,112,72.8,75.0,66.0,82.3,97.0,0.0,,,7,10,12,11,14,15,13,14,11
-UBCV,2022,W,CHBE,457,,101,Process Synthesis,Pranav Chintalapati,15,83.9,86.0,75.0,92.0,99.0,64.0,,,,,,,,,,,
-UBCV,2022,W,CHBE,464,,001,Chemical and Biological Engineering Laboratory,Gabriel Potvin,113,86.7,90.0,83.0,91.0,96.0,60.0,,,,,,,6,7,12,21,63
-UBCV,2022,W,CHBE,471,,101,Chemical Process Engineering,Pranav Chintalapati,67,82.5,86.0,74.5,92.0,99.0,16.0,,,,,,,9,6,,10,28
-UBCV,2022,W,CHBE,474,,101,Process Control Engineering,Seyyed Alireza Bagherzadeh Hosseini,66,82.5,85.0,79.0,88.8,95.0,50.0,,,,,,,,10,11,22,12
-UBCV,2022,W,CHBE,476,,101,Modelling and Optimization in Chemical Engineering,Simcha Srebnik,51,85.4,92.0,86.5,95.0,99.0,0.0,,,,,,,,,,10,32
-UBCV,2022,W,CHBE,477,,201,Fuel Cell and Electrochemical Engineering,Elod Lajos Gyenge,50,80.9,80.0,76.3,87.8,94.0,56.0,,,,,,,,15,7,11,8
-UBCV,2022,W,CHBE,478,,201,Polymer Science and Processing.,Earl Foster;Orlando Rojas Gaona,24,80.6,80.0,75.8,86.8,98.0,59.0,,,,,,,,6,,,
-UBCV,2022,W,CHBE,481,,101,Bioprocess Engineering II,Charles Haynes,34,80.4,82.0,74.3,85.0,99.0,51.0,,,,,,,,,9,6,
-UBCV,2022,W,CHBE,483,,101,Energy Engineering,David Wilkinson,71,79.1,80.0,74.5,85.0,97.0,59.0,,,,,,,13,11,15,15,6
-UBCV,2022,W,CHBE,485,,101,Air Pollution Prevention and Control,Anthony K Lau,100,82.9,84.0,79.0,88.0,96.0,50.0,,,,,,,8,13,27,28,18
-UBCV,2022,W,CHBE,486,,201,Waste Management for Resource Recovery,Anthony K Lau,87,86.9,87.0,83.0,91.0,98.0,73.0,,,,,,,,7,15,32,30
-UBCV,2022,W,CHBE,487,,202,Interfacial Phenomena,John Frostad,16,75.8,77.5,65.8,85.5,100.0,50.0,,,,,,,,,,,
-UBCV,2022,W,CHBE,488,,201,"Carbon Capture, Conversion and Sequestration Technologies",Sergio Berretta;Naoko Ellis,25,83.2,84.0,80.0,88.0,91.0,71.0,,,,,,,,,9,9,
-UBCV,2022,W,CHBE,497,A,001,Topics in Chemical and Biological Engineering.,Zeina Baalbaki;Sergio Berretta;Petros Englezos;Choon Jim Lim;Mahyar Mohaghegh Montazeri;Dusko Posarac,17,85.3,85.0,83.0,89.0,92.0,79.0,,,,,,,,,6,,
-UBCV,2022,W,CHBE,497,B,201,Topics in Chemical and Biological Engineering.,Jane Hill,8,87.4,89.0,86.5,90.3,91.0,77.0,,,,,,,,,,,
-UBCV,2022,W,CHBE,502,,201,Biomass Fractionation Chemistry,Heather Trajano,11,92.7,93.0,92.0,95.0,97.0,85.0,,,,,,,,,,,9
-UBCV,2022,W,CHBE,505,,101,Introduction to Chemical Engineering for Non-Chemical Engineers,Savvas Hatzikiriakos,15,88.9,91.0,82.0,93.5,100.0,70.0,,,,,,,,,,,10
-UBCV,2022,W,CHBE,550,,101,Advanced Reactor Design,Vikramaditya Yadav,24,88.6,90.0,89.0,91.0,96.0,69.0,,,,,,,,,,7,14
-UBCV,2022,W,CHBE,551,,201,Engineering Thermodynamics and Statistical Mechanics,Simcha Srebnik,14,86.0,86.5,81.8,90.8,92.0,78.0,,,,,,,,,,,
-UBCV,2022,W,CHBE,552,,201,Optimization Methods,Petros Englezos,6,90.5,91.0,90.3,91.0,92.0,88.0,,,,,,,,,,,
-UBCV,2022,W,CHBE,553,,101,Mathematical Operations in Chemical Engineering,Anthony Wachs,17,86.8,92.0,86.0,94.0,99.0,30.0,,,,,,,,,,,10
-UBCV,2022,W,CHBE,554,,201,"Momentum, Heat and Mass Transfer",Mark Martinez,26,90.3,91.0,90.0,94.3,95.0,75.0,,,,,,,,,,,23
-UBCV,2022,W,CHBE,563,,201,Applied Heterogeneous Catalysis,David Chester Upham,9,89.3,92.0,86.0,93.0,93.0,81.0,,,,,,,,,,,
-UBCV,2022,W,CHBE,565,,101,Advanced Process Control,Yankai Cao,11,86.6,97.0,85.0,98.0,98.0,30.0,,,,,,,,,,,7
-UBCV,2022,W,CHBE,575,,101,Air Pollution Control,Anthony K Lau,25,89.4,89.0,86.0,94.0,98.0,79.0,,,,,,,,,,9,12
-UBCV,2022,W,CHBE,577,,201,"Electrochemical Science, Engineering and Technology",Elod Lajos Gyenge,21,83.5,86.0,80.0,89.0,93.0,68.0,,,,,,,,,,7,
-UBCV,2022,W,CHBE,583,,101,Energy Engineering,David Wilkinson,30,90.6,91.0,87.3,94.0,97.0,80.0,,,,,,,,,,6,19
-UBCV,2022,W,CHBE,587,,201,Interfacial Phenomena,John Frostad,11,91.1,91.0,86.5,96.5,100.0,82.0,,,,,,,,,,,6
-UBCV,2022,W,CHBE,588,,201,"Carbon Capture, Conversion and Sequestration Technologies",Sergio Berretta;Naoko Ellis,10,84.7,85.5,83.3,86.8,90.0,78.0,,,,,,,,,,,
-UBCV,2022,W,CHBE,597,,001,M.A.Sc. Thesis Proposal Development,Curtis Berlinguette,12,88.1,89.5,85.5,91.3,97.0,78.0,,,,,,,,,,,6
+UBCV,2022,W,CHBE,453,,001,Biological Process and Product Design,Zeina Baalbaki;Sergio Berretta;Petros Englezos;Choon Jim Lim;Mahyar Mohaghegh Montazeri;Dusko Posarac,32,88.5,89.0,87.0,90.0,93.0,80.0,0,0,0,0,0,0,0,0,3,17,12
+UBCV,2022,W,CHBE,454,,001,Chemical Process and Product Design,Zeina Baalbaki;Sergio Berretta;Petros Englezos;Choon Jim Lim;Mahyar Mohaghegh Montazeri;Dusko Posarac,61,87.9,90.0,86.0,90.0,93.0,74.0,0,0,0,0,0,0,1,3,8,17,32
+UBCV,2022,W,CHBE,456,,101,Heterogenous Catalysis and Advanced Reactor Design,Elod Lajos Gyenge,112,72.8,75.0,66.0,82.3,97.0,0.0,4,1,7,10,12,11,14,15,13,14,11
+UBCV,2022,W,CHBE,457,,101,Process Synthesis,Pranav Chintalapati,15,83.9,86.0,75.0,92.0,99.0,64.0,0,0,0,0,1,2,1,1,2,3,5
+UBCV,2022,W,CHBE,459,,201,Chemical and Biological Engineering Economics,Earl Foster,147,70.8,74.0,61.0,81.0,96.0,17.0,7,15,10,10,8,15,16,23,20,15,8
+UBCV,2022,W,CHBE,464,,001,Chemical and Biological Engineering Laboratory,Gabriel Potvin,113,86.7,90.0,83.0,91.0,96.0,60.0,0,0,0,1,0,3,6,7,12,21,63
+UBCV,2022,W,CHBE,471,,101,Chemical Process Engineering,Pranav Chintalapati,67,82.5,86.0,74.5,92.0,99.0,16.0,2,0,2,1,1,3,9,6,5,10,28
+UBCV,2022,W,CHBE,474,,101,Process Control Engineering,Seyyed Alireza Bagherzadeh Hosseini,66,82.5,85.0,79.0,88.8,95.0,50.0,0,2,0,0,3,1,5,10,11,22,12
+UBCV,2022,W,CHBE,476,,101,Modelling and Optimization in Chemical Engineering,Simcha Srebnik,51,85.4,92.0,86.5,95.0,99.0,0.0,3,0,1,1,0,0,0,3,1,10,32
+UBCV,2022,W,CHBE,477,,201,Fuel Cell and Electrochemical Engineering,Elod Lajos Gyenge,50,80.9,80.0,76.3,87.8,94.0,56.0,0,0,1,2,0,1,5,15,7,11,8
+UBCV,2022,W,CHBE,478,,201,Polymer Science and Processing.,Earl Foster;Orlando Rojas Gaona,24,80.6,80.0,75.8,86.8,98.0,59.0,0,0,1,0,0,3,2,6,5,2,5
+UBCV,2022,W,CHBE,481,,101,Bioprocess Engineering II,Charles Haynes,34,80.4,82.0,74.3,85.0,99.0,51.0,0,1,0,1,1,2,5,4,9,6,5
+UBCV,2022,W,CHBE,483,,101,Energy Engineering,David Wilkinson,71,79.1,80.0,74.5,85.0,97.0,59.0,0,0,1,4,3,3,13,11,15,15,6
+UBCV,2022,W,CHBE,485,,101,Air Pollution Prevention and Control,Anthony K Lau,100,82.9,84.0,79.0,88.0,96.0,50.0,0,1,1,0,3,1,8,13,27,28,18
+UBCV,2022,W,CHBE,486,,201,Waste Management for Resource Recovery,Anthony K Lau,87,86.9,87.0,83.0,91.0,98.0,73.0,0,0,0,0,0,0,3,7,15,32,30
+UBCV,2022,W,CHBE,487,,202,Interfacial Phenomena,John Frostad,16,75.8,77.5,65.8,85.5,100.0,50.0,0,2,0,2,1,1,1,3,2,0,4
+UBCV,2022,W,CHBE,488,,201,"Carbon Capture, Conversion and Sequestration Technologies",Sergio Berretta;Naoko Ellis,25,83.2,84.0,80.0,88.0,91.0,71.0,0,0,0,0,0,1,2,2,9,9,2
+UBCV,2022,W,CHBE,497,A,001,Topics in Chemical and Biological Engineering.,Zeina Baalbaki;Sergio Berretta;Petros Englezos;Choon Jim Lim;Mahyar Mohaghegh Montazeri;Dusko Posarac,17,85.3,85.0,83.0,89.0,92.0,79.0,0,0,0,0,0,0,0,2,6,5,4
+UBCV,2022,W,CHBE,497,B,201,Topics in Chemical and Biological Engineering.,Jane Hill,8,87.4,89.0,86.5,90.3,91.0,77.0,0,0,0,0,0,0,0,1,0,4,3
+UBCV,2022,W,CHBE,502,,201,Biomass Fractionation Chemistry,Heather Trajano,11,92.7,93.0,92.0,95.0,97.0,85.0,0,0,0,0,0,0,0,0,0,2,9
+UBCV,2022,W,CHBE,505,,101,Introduction to Chemical Engineering for Non-Chemical Engineers,Savvas Hatzikiriakos,15,88.9,91.0,82.0,93.5,100.0,70.0,0,0,0,0,0,1,0,1,3,0,10
+UBCV,2022,W,CHBE,550,,101,Advanced Reactor Design,Vikramaditya Yadav,24,88.6,90.0,89.0,91.0,96.0,69.0,0,0,0,0,0,2,0,0,1,7,14
+UBCV,2022,W,CHBE,551,,201,Engineering Thermodynamics and Statistical Mechanics,Simcha Srebnik,14,86.0,86.5,81.8,90.8,92.0,78.0,0,0,0,0,0,0,0,2,3,4,5
+UBCV,2022,W,CHBE,552,,201,Optimization Methods,Petros Englezos,6,90.5,91.0,90.3,91.0,92.0,88.0,0,0,0,0,0,0,0,0,0,1,5
+UBCV,2022,W,CHBE,553,,101,Mathematical Operations in Chemical Engineering,Anthony Wachs,17,86.8,92.0,86.0,94.0,99.0,30.0,1,0,0,0,0,1,0,0,1,4,10
+UBCV,2022,W,CHBE,554,,201,"Momentum, Heat and Mass Transfer",Mark Martinez,26,90.3,91.0,90.0,94.3,95.0,75.0,0,0,0,0,0,0,1,1,1,0,23
+UBCV,2022,W,CHBE,563,,201,Applied Heterogeneous Catalysis,David Chester Upham,9,89.3,92.0,86.0,93.0,93.0,81.0,0,0,0,0,0,0,0,0,1,3,5
+UBCV,2022,W,CHBE,565,,101,Advanced Process Control,Yankai Cao,11,86.6,97.0,85.0,98.0,98.0,30.0,1,0,0,0,0,0,1,0,0,2,7
+UBCV,2022,W,CHBE,575,,101,Air Pollution Control,Anthony K Lau,25,89.4,89.0,86.0,94.0,98.0,79.0,0,0,0,0,0,0,0,1,3,9,12
+UBCV,2022,W,CHBE,577,,201,"Electrochemical Science, Engineering and Technology",Elod Lajos Gyenge,21,83.5,86.0,80.0,89.0,93.0,68.0,0,0,0,0,0,3,0,2,4,7,5
+UBCV,2022,W,CHBE,583,,101,Energy Engineering,David Wilkinson,30,90.6,91.0,87.3,94.0,97.0,80.0,0,0,0,0,0,0,0,0,5,6,19
+UBCV,2022,W,CHBE,587,,201,Interfacial Phenomena,John Frostad,11,91.1,91.0,86.5,96.5,100.0,82.0,0,0,0,0,0,0,0,0,2,3,6
+UBCV,2022,W,CHBE,588,,201,"Carbon Capture, Conversion and Sequestration Technologies",Sergio Berretta;Naoko Ellis,10,84.7,85.5,83.3,86.8,90.0,78.0,0,0,0,0,0,0,0,1,3,5,1
+UBCV,2022,W,CHBE,597,,001,M.A.Sc. Thesis Proposal Development,Curtis Berlinguette,12,88.1,89.5,85.5,91.3,97.0,78.0,0,0,0,0,0,0,0,1,2,3,6

@@ -1,8 +1,8 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,IGEN,201,,201,Integrated Technical Communication,Matthew Wong,55,77.9,81.0,72.5,88.0,93.0,6.0,,,,,,,,6,11,9,12
-UBCV,2022,W,IGEN,230,,001,Introduction to Engineering Design,Joseph Yan;Noboru Yonemitsu,61,83.4,85.0,82.0,89.0,97.0,2.0,,,,,,,,,20,20,13
-UBCV,2022,W,IGEN,330,,001,Intermediate Engineering Design,Jonathan Nakane,48,84.9,86.0,83.0,90.0,94.0,67.0,,,,,,,,,8,17,14
-UBCV,2022,W,IGEN,430,,001,Advanced Engineering Design Projects,Sanja Miskovic;Fariborz Taghipour,44,86.9,88.5,87.0,92.0,94.0,26.0,,,,,,,,,,19,19
-UBCV,2022,W,IGEN,450,,101,Pipeline Engineering,Edouard Asselin;Prajakta Jadhav;Dharmapriya Wijewickreme,18,87.3,88.0,82.8,92.8,95.0,71.0,,,,,,,,,,,8
-UBCV,2022,W,IGEN,451,,201,Pipeline Systems and Infrastructure,Edouard Asselin;Jon Mikkelsen;Vladan Prodanovic,7,82.4,85.0,79.5,86.0,90.0,71.0,,,,,,,,,,,
-UBCV,2022,W,IGEN,452,,201,Pipeline Design,Prajakta Jadhav;Dharmapriya Wijewickreme,11,91.5,93.0,91.0,93.0,97.0,82.0,,,,,,,,,,,9
+UBCV,2022,W,IGEN,201,,201,Integrated Technical Communication,Matthew Wong,55,77.9,81.0,72.5,88.0,93.0,6.0,1,2,3,2,0,5,4,6,11,9,12
+UBCV,2022,W,IGEN,230,,001,Introduction to Engineering Design,Joseph Yan;Noboru Yonemitsu,61,83.4,85.0,82.0,89.0,97.0,2.0,1,0,1,0,0,0,2,4,20,20,13
+UBCV,2022,W,IGEN,330,,001,Intermediate Engineering Design,Jonathan Nakane,48,84.9,86.0,83.0,90.0,94.0,67.0,0,0,0,0,1,1,5,2,8,17,14
+UBCV,2022,W,IGEN,430,,001,Advanced Engineering Design Projects,Sanja Miskovic;Fariborz Taghipour,44,86.9,88.5,87.0,92.0,94.0,26.0,1,0,0,0,0,1,0,2,2,19,19
+UBCV,2022,W,IGEN,450,,101,Pipeline Engineering,Edouard Asselin;Prajakta Jadhav;Dharmapriya Wijewickreme,18,87.3,88.0,82.8,92.8,95.0,71.0,0,0,0,0,0,1,0,0,4,5,8
+UBCV,2022,W,IGEN,451,,201,Pipeline Systems and Infrastructure,Edouard Asselin;Jon Mikkelsen;Vladan Prodanovic,7,82.4,85.0,79.5,86.0,90.0,71.0,0,0,0,0,0,1,0,1,1,3,1
+UBCV,2022,W,IGEN,452,,201,Pipeline Design,Prajakta Jadhav;Dharmapriya Wijewickreme,11,91.5,93.0,91.0,93.0,97.0,82.0,0,0,0,0,0,0,0,0,1,1,9

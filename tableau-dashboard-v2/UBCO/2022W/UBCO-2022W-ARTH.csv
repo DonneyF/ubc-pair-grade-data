@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2022,W,ARTH,101,,001,Art and Visual Cultures of the World I,Nathalie Hager,106,67.3,72.0,62.5,80.8,96.0,0.0,16,,,,12,12,12,14,13,10,6
-UBCO,2022,W,ARTH,102,,001,Art and Visual Cultures of the World II,Nathalie Hager,76,70.6,71.0,63.5,79.0,94.0,18.0,,,,8,10,9,9,11,7,,6
-UBCO,2022,W,ARTH,202,,001,The Critical Viewer,Nathalie Hager,58,72.6,75.5,66.0,83.5,98.0,18.0,,,,,9,,7,8,7,10,
-UBCO,2022,W,ARTH,203,,001,Global Contemporary Art,Angela Andersen,46,80.9,83.5,77.3,89.8,97.0,1.0,,,,,,,,,10,10,12
-UBCO,2022,W,ARTH,301,,001,Critical Viewing - Advanced Studies,Hussein Keshani,28,79.3,80.0,73.0,86.3,94.0,56.0,,,,,,,,,,6,
-UBCO,2022,W,ARTH,309,,001,Performance Art: Global Perspectives,Virginie Magnat,20,89.0,93.0,86.5,95.3,98.0,64.0,,,,,,,,,,,13
-UBCO,2022,W,ARTH,315,,001,History of 20th-Century Art,Nathalie Hager,37,76.9,80.0,72.0,86.0,95.0,19.0,,,,,,,,,9,6,
-UBCO,2022,W,ARTH,320,,001,Art in Canada 1900-1970,Nathalie Hager,33,75.6,76.0,71.0,81.0,96.0,52.0,,,,,,,,7,8,,
-UBCO,2022,W,ARTH,370,,001,Story and Image Across the Islamic World,Hussein Keshani,15,76.3,82.0,61.0,90.0,96.0,48.0,,,,,,,,,,,
-UBCO,2022,W,ARTH,375,,001,Encountering India: The Age of the Mughals,Hussein Keshani,31,76.9,79.0,72.5,86.5,97.0,13.0,,,,,,,,6,,,7
-UBCO,2022,W,ARTH,380,,001,African Art and Visual Culture,Suzanne Gott,20,77.7,80.0,76.0,84.0,96.0,12.0,,,,,,,,6,7,,
-UBCO,2022,W,ARTH,385,,001,African Dress and Fashion,Suzanne Gott,35,74.4,75.0,65.0,89.0,97.0,0.0,,,,,6,,,,,,8
-UBCO,2022,W,ARTH,390,,001,Indigenous Art and Visual Culture,Suzanne Gott,31,86.7,90.0,82.5,92.0,97.0,58.0,,,,,,,,,,,17
-UBCO,2022,W,ARTH,395,,001,Renaissance Europe in a Global Context,Antonella De Michelis,30,72.0,78.0,72.0,81.0,87.0,0.0,,,,,,,6,,10,,
-UBCO,2022,W,ARTH,396,,001,Seventeenth-Century European Art in a Global Context,Antonella De Michelis,41,71.4,75.0,70.0,80.0,87.0,17.0,,,,,,7,12,,9,,
-UBCO,2022,W,ARTH,411,,101,Digital Media for Interpretive Centres,Hussein Keshani,30,80.3,83.0,77.3,88.0,93.0,23.0,,,,,,,,,6,8,6
-UBCO,2022,W,ARTH,420,,001,Curating Contemporary Art,Nathalie Hager,20,77.1,85.0,74.8,88.3,97.0,13.0,,,,,,,,,,6,
+UBCO,2022,W,ARTH,101,,001,Art and Visual Cultures of the World I,Nathalie Hager,106,67.3,72.0,62.5,80.8,96.0,0.0,16,3,5,3,12,12,12,14,13,10,6
+UBCO,2022,W,ARTH,102,,001,Art and Visual Cultures of the World II,Nathalie Hager,76,70.6,71.0,63.5,79.0,94.0,18.0,5,2,4,8,10,9,9,11,7,5,6
+UBCO,2022,W,ARTH,202,,001,The Critical Viewer,Nathalie Hager,58,72.6,75.5,66.0,83.5,98.0,18.0,3,3,1,3,9,3,7,8,7,10,4
+UBCO,2022,W,ARTH,203,,001,Global Contemporary Art,Angela Andersen,46,80.9,83.5,77.3,89.8,97.0,1.0,2,0,0,0,0,3,5,4,10,10,12
+UBCO,2022,W,ARTH,301,,001,Critical Viewing - Advanced Studies,Hussein Keshani,28,79.3,80.0,73.0,86.3,94.0,56.0,0,0,1,2,0,2,5,3,5,6,4
+UBCO,2022,W,ARTH,309,,001,Performance Art: Global Perspectives,Virginie Magnat,20,89.0,93.0,86.5,95.3,98.0,64.0,0,0,0,0,1,1,1,0,1,3,13
+UBCO,2022,W,ARTH,315,,001,History of 20th-Century Art,Nathalie Hager,37,76.9,80.0,72.0,86.0,95.0,19.0,2,0,1,1,0,4,4,5,9,6,5
+UBCO,2022,W,ARTH,320,,001,Art in Canada 1900-1970,Nathalie Hager,33,75.6,76.0,71.0,81.0,96.0,52.0,0,1,1,3,0,4,5,7,8,1,3
+UBCO,2022,W,ARTH,370,,001,Story and Image Across the Islamic World,Hussein Keshani,15,76.3,82.0,61.0,90.0,96.0,48.0,2,2,0,0,0,1,0,0,4,1,5
+UBCO,2022,W,ARTH,375,,001,Encountering India: The Age of the Mughals,Hussein Keshani,31,76.9,79.0,72.5,86.5,97.0,13.0,1,1,0,2,3,0,4,6,5,2,7
+UBCO,2022,W,ARTH,380,,001,African Art and Visual Culture,Suzanne Gott,20,77.7,80.0,76.0,84.0,96.0,12.0,1,0,0,0,1,0,1,6,7,2,2
+UBCO,2022,W,ARTH,385,,001,African Dress and Fashion,Suzanne Gott,35,74.4,75.0,65.0,89.0,97.0,0.0,2,0,3,2,6,3,2,0,4,5,8
+UBCO,2022,W,ARTH,390,,001,Indigenous Art and Visual Culture,Suzanne Gott,31,86.7,90.0,82.5,92.0,97.0,58.0,0,0,1,0,0,1,2,3,2,5,17
+UBCO,2022,W,ARTH,395,,001,Renaissance Europe in a Global Context,Antonella De Michelis,30,72.0,78.0,72.0,81.0,87.0,0.0,2,0,1,1,1,2,6,5,10,2,0
+UBCO,2022,W,ARTH,396,,001,Seventeenth-Century European Art in a Global Context,Antonella De Michelis,41,71.4,75.0,70.0,80.0,87.0,17.0,4,0,0,0,2,7,12,4,9,3,0
+UBCO,2022,W,ARTH,411,,101,Digital Media for Interpretive Centres,Hussein Keshani,30,80.3,83.0,77.3,88.0,93.0,23.0,1,1,0,0,0,2,1,5,6,8,6
+UBCO,2022,W,ARTH,420,,001,Curating Contemporary Art,Nathalie Hager,20,77.1,85.0,74.8,88.3,97.0,13.0,2,0,0,0,1,0,3,2,2,6,4

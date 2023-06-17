@@ -1,48 +1,49 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,APBI,200,,001,Introduction to Soil Science,Maja Krzic,120,66.7,72.0,60.0,78.0,98.0,0.0,20,,,6,11,9,24,14,13,9,6
-UBCV,2022,W,APBI,200,,002,Introduction to Soil Science,Sandra Brown,140,73.0,75.5,67.8,84.0,96.0,23.0,15,6,,,10,17,18,14,22,25,9
-UBCV,2022,W,APBI,210,,001,Vascular Plants,Shona Margaret Ellis;Sean Graham,20,66.4,68.5,57.3,76.5,93.0,32.0,,,,,,,,,,,
-UBCV,2022,W,APBI,214,,002,Animal Sheltering and Companion Animal Support Services,Alexandra Protopopova,47,89.1,94.0,91.5,96.0,100.0,0.0,,,,,,,,,,,40
-UBCV,2022,W,APBI,244,,001,Atmospheric Environments,Sara Knox,48,68.7,73.0,67.3,81.3,96.0,0.0,,,,,,,11,,10,,
-UBCV,2022,W,APBI,260,,001,Agroecology I: Introduction to principles and techniques,Sean Smukler,32,87.6,89.5,84.0,94.0,95.0,71.0,,,,,,,,,,7,16
-UBCV,2022,W,APBI,265,,001,Sustainable Agriculture and Food Systems,Delisa Lewis,33,77.4,80.0,77.0,82.0,91.0,45.0,,,,,,,,9,14,,
-UBCV,2022,W,APBI,290,,001,Introductory Topics in Applied Biology,Yasmin Akhtar,13,79.1,76.0,74.0,86.0,90.0,67.0,,,,,,,,,,,
-UBCV,2022,W,APBI,311,,001,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",Colin Brauner,12,73.5,79.0,73.5,85.3,93.0,6.0,,,,,,,,,,,
-UBCV,2022,W,APBI,312,,001,Reproductive and Digestive Physiology,Ronaldo Cerri,49,87.2,90.0,85.0,92.0,95.0,67.0,,,,,,,,,,12,25
-UBCV,2022,W,APBI,313,,001,Experimental Analysis of Animal Behaviour,Alexandra Protopopova,40,95.0,97.0,93.8,98.0,100.0,78.0,,,,,,,,,,,35
-UBCV,2022,W,APBI,314,,001,Animals and Society,Amelia Macrae,92,83.8,87.0,79.0,91.0,97.0,4.0,,,,,,,7,7,14,23,31
-UBCV,2022,W,APBI,314,,003,Animals and Society,Amelia Macrae,51,86.0,91.0,85.5,94.0,98.0,0.0,,,,,,,,,,10,29
-UBCV,2022,W,APBI,315,,001,Animal Welfare and the Ethics of Animal Use,Daniel Weary,62,78.0,84.0,77.3,90.0,97.0,0.0,,,,,,,,6,12,12,19
-UBCV,2022,W,APBI,316,,001,"Equine Biology, Health and Welfare",Amelia Macrae,43,81.9,84.0,80.5,90.0,94.0,41.0,,,,,,,,,14,9,11
-UBCV,2022,W,APBI,317,,002,Welfare and Ethics of using Animals in Science,Anna Ratuski,49,88.3,93.0,85.0,97.0,100.0,0.0,,,,,,,,,,7,33
-UBCV,2022,W,APBI,318,,001,Applied Plant Breeding,Andrew Riseman,24,88.3,91.0,86.8,95.3,99.0,39.0,,,,,,,,,,,15
-UBCV,2022,W,APBI,322,,001,Horticultural Techniques,Allison Mccabe,28,92.2,94.0,92.0,95.5,100.0,69.0,,,,,,,,,,,23
-UBCV,2022,W,APBI,324,,001,Introduction to Seed Plant Taxonomy,Quentin Charles Cronk,9,86.8,87.0,84.0,90.0,91.0,81.0,,,,,,,,,,,
-UBCV,2022,W,APBI,326,,001,Introductory Plant Pathology,Gurcharn Brar,13,85.3,85.0,80.0,91.0,94.0,70.0,,,,,,,,,,,
-UBCV,2022,W,APBI,327,,001,Introduction to Entomology,Yasmin Akhtar,37,79.1,80.0,74.0,85.0,93.0,60.0,,,,,,,,,14,,
-UBCV,2022,W,APBI,342,,001,Soil Biology,Christopher Chanway,23,94.6,97.0,92.5,98.5,100.0,70.0,,,,,,,,,,,21
-UBCV,2022,W,APBI,351,,101,Plant Physiology,Shawn Mansfield,11,67.3,71.0,56.5,78.0,85.0,45.0,,,,,,,,,,,
-UBCV,2022,W,APBI,360,,001,Agroecology II: Application and analysis,Risa Sargent,33,78.2,79.0,74.0,85.0,92.0,57.0,,,,,,,,7,7,8,
-UBCV,2022,W,APBI,361,,199,Key Indicators of Agroecosystem Sustainability,Delisa Lewis,37,75.0,79.0,72.0,81.0,92.0,31.0,,,,,,,,9,11,,
-UBCV,2022,W,APBI,398,,001,Research Methods in Applied Biology,Marina Von Keyserlingk;Daniel Weary,28,86.1,88.0,82.8,91.5,97.0,55.0,,,,,,,,,,7,12
-UBCV,2022,W,APBI,401,,001,Soil Processes,Jean Thomas Cornelis,23,88.3,92.0,81.0,95.5,97.0,71.0,,,,,,,,,,,13
-UBCV,2022,W,APBI,402,,001,Sustainable Soil Management,Sandra Brown;Maja Krzic,38,80.7,80.0,78.0,84.5,92.0,70.0,,,,,,,,8,14,6,
-UBCV,2022,W,APBI,403,,001,"Soil Sampling, Analyses and Data Interpretation",Sandra Brown;Jean Thomas Cornelis;Susan Grayston,6,89.0,90.5,87.8,92.5,96.0,77.0,,,,,,,,,,,
-UBCV,2022,W,APBI,405,,002,Plant-Water Relations for Sustainable Agriculture,Thorsten Knipfer,13,81.2,86.0,69.0,89.0,97.0,63.0,,,,,,,,,,,
-UBCV,2022,W,APBI,410,,002,Applied Animal Health and Physiology,Ronaldo Cerri,20,90.5,91.0,89.0,93.0,99.0,83.0,,,,,,,,,,,14
-UBCV,2022,W,APBI,414,,001,Animals and Global Issues,Amelia Macrae,27,84.8,86.0,82.0,89.0,93.0,76.0,,,,,,,,,6,9,7
-UBCV,2022,W,APBI,415,,001,Applied Animal Behaviour,Amelia Macrae,25,79.1,83.0,75.0,88.0,91.0,0.0,,,,,,,,,,9,
-UBCV,2022,W,APBI,416,,001,Compassionate Conservation,Kristen Walker,31,82.0,82.0,78.0,90.5,97.0,45.0,,,,,,,,,8,,9
-UBCV,2022,W,APBI,419,,201,Fish Health,Paige Adrienne Ackerman,27,69.6,76.0,62.5,80.5,88.0,0.0,,,,,,,,,,,
-UBCV,2022,W,APBI,423,,001,Ecological Restoration,Cindy Prescott,27,86.1,89.0,86.0,92.5,97.0,25.0,,,,,,,,,,8,13
-UBCV,2022,W,APBI,428,,201,Integrated Pest Management,Yasmin Akhtar,41,83.6,84.0,80.0,87.0,91.0,70.0,,,,,,,,,14,12,8
-UBCV,2022,W,APBI,442,,001,Wine Grape and Berry Biology,Simone Castellarin,14,83.4,83.5,79.0,87.5,94.0,72.0,,,,,,,,,,,
-UBCV,2022,W,APBI,460,,001,Agroecology III: Synthesis and evaluation,Andrew Riseman,10,88.2,97.0,89.0,98.8,99.0,43.0,,,,,,,,,,,7
-UBCV,2022,W,APBI,463,,002,Insects in Agroecosystems,Juli Carrillo,16,88.6,90.5,86.8,93.0,95.0,72.0,,,,,,,,,,,10
-UBCV,2022,W,APBI,490,A,101,Advanced Topics in Applied Biology,Gurcharn Brar,21,93.4,94.0,91.0,96.0,99.0,86.0,,,,,,,,,,,18
-UBCV,2022,W,APBI,490,B,102,Advanced Topics in Applied Biology,Risa Sargent,9,77.1,83.0,65.0,86.0,90.0,51.0,,,,,,,,,,,
-UBCV,2022,W,APBI,490,C,103,Advanced Topics in Applied Biology,Tabitha Martens,21,88.8,91.0,86.0,94.0,97.0,77.0,,,,,,,,,,,11
-UBCV,2022,W,APBI,490,D,201,Advanced Topics in Applied Biology,Konstantina Xenakis,15,79.7,85.0,84.0,87.5,89.0,0.0,,,,,,,,,,9,
-UBCV,2022,W,APBI,490,E,202,Advanced Topics in Applied Biology,Alex Boo,39,92.7,95.0,90.0,97.0,100.0,74.0,,,,,,,,,,6,30
-UBCV,2022,W,APBI,496,B,001,Applied Animal Biology Practicum,Sara Dubois,8,84.9,85.5,81.5,89.3,95.0,70.0,,,,,,,,,,,
+UBCV,2022,W,APBI,200,,001,Introduction to Soil Science,Maja Krzic,120,66.7,72.0,60.0,78.0,98.0,0.0,20,5,3,6,11,9,24,14,13,9,6
+UBCV,2022,W,APBI,200,,002,Introduction to Soil Science,Sandra Brown,140,73.0,75.5,67.8,84.0,96.0,23.0,15,6,1,3,10,17,18,14,22,25,9
+UBCV,2022,W,APBI,210,,001,Vascular Plants,Shona Margaret Ellis;Sean Graham,20,66.4,68.5,57.3,76.5,93.0,32.0,2,2,2,0,2,5,1,2,2,1,1
+UBCV,2022,W,APBI,214,,002,Animal Sheltering and Companion Animal Support Services,Alexandra Protopopova,47,89.1,94.0,91.5,96.0,100.0,0.0,2,0,0,0,0,1,0,0,2,2,40
+UBCV,2022,W,APBI,244,,001,Atmospheric Environments,Sara Knox,48,68.7,73.0,67.3,81.3,96.0,0.0,5,2,1,2,2,4,11,4,10,2,5
+UBCV,2022,W,APBI,260,,001,Agroecology I: Introduction to principles and techniques,Sean Smukler,32,87.6,89.5,84.0,94.0,95.0,71.0,0,0,0,0,0,1,2,2,4,7,16
+UBCV,2022,W,APBI,265,,001,Sustainable Agriculture and Food Systems,Delisa Lewis,33,77.4,80.0,77.0,82.0,91.0,45.0,1,1,0,0,1,2,2,9,14,2,1
+UBCV,2022,W,APBI,290,,001,Introductory Topics in Applied Biology,Yasmin Akhtar,13,79.1,76.0,74.0,86.0,90.0,67.0,0,0,0,0,1,0,5,1,2,2,2
+UBCV,2022,W,APBI,311,,001,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",Colin Brauner,12,73.5,79.0,73.5,85.3,93.0,6.0,1,0,0,0,1,0,2,2,2,3,1
+UBCV,2022,W,APBI,312,,001,Reproductive and Digestive Physiology,Ronaldo Cerri,49,87.2,90.0,85.0,92.0,95.0,67.0,0,0,0,0,1,1,2,3,5,12,25
+UBCV,2022,W,APBI,313,,001,Experimental Analysis of Animal Behaviour,Alexandra Protopopova,40,95.0,97.0,93.8,98.0,100.0,78.0,0,0,0,0,0,0,0,1,1,3,35
+UBCV,2022,W,APBI,314,,001,Animals and Society,Amelia Macrae,92,83.8,87.0,79.0,91.0,97.0,4.0,1,1,0,1,4,3,7,7,14,23,31
+UBCV,2022,W,APBI,314,,003,Animals and Society,Amelia Macrae,51,86.0,91.0,85.5,94.0,98.0,0.0,2,0,0,0,1,1,0,4,4,10,29
+UBCV,2022,W,APBI,315,,001,Animal Welfare and the Ethics of Animal Use,Daniel Weary,62,78.0,84.0,77.3,90.0,97.0,0.0,5,1,0,1,3,1,2,6,12,12,19
+UBCV,2022,W,APBI,316,,001,"Equine Biology, Health and Welfare",Amelia Macrae,43,81.9,84.0,80.5,90.0,94.0,41.0,2,0,0,1,1,2,1,2,14,9,11
+UBCV,2022,W,APBI,317,,002,Welfare and Ethics of using Animals in Science,Anna Ratuski,49,88.3,93.0,85.0,97.0,100.0,0.0,2,0,0,0,0,2,1,0,4,7,33
+UBCV,2022,W,APBI,318,,001,Applied Plant Breeding,Andrew Riseman,24,88.3,91.0,86.8,95.3,99.0,39.0,1,0,0,0,0,1,0,0,3,4,15
+UBCV,2022,W,APBI,322,,001,Horticultural Techniques,Allison Mccabe,28,92.2,94.0,92.0,95.5,100.0,69.0,0,0,0,0,0,1,1,0,1,2,23
+UBCV,2022,W,APBI,324,,001,Introduction to Seed Plant Taxonomy,Quentin Charles Cronk,9,86.8,87.0,84.0,90.0,91.0,81.0,0,0,0,0,0,0,0,0,3,3,3
+UBCV,2022,W,APBI,326,,001,Introductory Plant Pathology,Gurcharn Brar,13,85.3,85.0,80.0,91.0,94.0,70.0,0,0,0,0,0,1,0,0,4,3,5
+UBCV,2022,W,APBI,327,,001,Introduction to Entomology,Yasmin Akhtar,37,79.1,80.0,74.0,85.0,93.0,60.0,0,0,0,2,3,3,5,0,14,5,5
+UBCV,2022,W,APBI,342,,001,Soil Biology,Christopher Chanway,23,94.6,97.0,92.5,98.5,100.0,70.0,0,0,0,0,0,1,0,0,0,1,21
+UBCV,2022,W,APBI,351,,101,Plant Physiology,Shawn Mansfield,11,67.3,71.0,56.5,78.0,85.0,45.0,2,1,0,1,0,2,0,2,2,1,0
+UBCV,2022,W,APBI,360,,001,Agroecology II: Application and analysis,Risa Sargent,33,78.2,79.0,74.0,85.0,92.0,57.0,0,0,1,0,2,3,4,7,7,8,1
+UBCV,2022,W,APBI,361,,199,Key Indicators of Agroecosystem Sustainability,Delisa Lewis,37,75.0,79.0,72.0,81.0,92.0,31.0,3,1,0,0,1,3,4,9,11,4,1
+UBCV,2022,W,APBI,398,,001,Research Methods in Applied Biology,Marina Von Keyserlingk;Daniel Weary,28,86.1,88.0,82.8,91.5,97.0,55.0,0,0,1,0,0,1,0,2,5,7,12
+UBCV,2022,W,APBI,401,,001,Soil Processes,Jean Thomas Cornelis,23,88.3,92.0,81.0,95.5,97.0,71.0,0,0,0,0,0,1,1,3,2,3,13
+UBCV,2022,W,APBI,402,,001,Sustainable Soil Management,Sandra Brown;Maja Krzic,38,80.7,80.0,78.0,84.5,92.0,70.0,0,0,0,0,0,3,3,8,14,6,4
+UBCV,2022,W,APBI,403,,001,"Soil Sampling, Analyses and Data Interpretation",Sandra Brown;Jean Thomas Cornelis;Susan Grayston,6,89.0,90.5,87.8,92.5,96.0,77.0,0,0,0,0,0,0,0,1,0,1,4
+UBCV,2022,W,APBI,405,,002,Plant-Water Relations for Sustainable Agriculture,Thorsten Knipfer,13,81.2,86.0,69.0,89.0,97.0,63.0,0,0,0,1,2,1,0,1,1,5,2
+UBCV,2022,W,APBI,410,,002,Applied Animal Health and Physiology,Ronaldo Cerri,20,90.5,91.0,89.0,93.0,99.0,83.0,0,0,0,0,0,0,0,0,2,4,14
+UBCV,2022,W,APBI,414,,001,Animals and Global Issues,Amelia Macrae,27,84.8,86.0,82.0,89.0,93.0,76.0,0,0,0,0,0,0,0,5,6,9,7
+UBCV,2022,W,APBI,415,,001,Applied Animal Behaviour,Amelia Macrae,25,79.1,83.0,75.0,88.0,91.0,0.0,1,0,0,0,0,3,3,1,5,9,3
+UBCV,2022,W,APBI,416,,001,Compassionate Conservation,Kristen Walker,31,82.0,82.0,78.0,90.5,97.0,45.0,1,0,0,0,1,2,2,5,8,3,9
+UBCV,2022,W,APBI,419,,201,Fish Health,Paige Adrienne Ackerman,27,69.6,76.0,62.5,80.5,88.0,0.0,3,1,1,3,0,2,3,5,5,4,0
+UBCV,2022,W,APBI,423,,001,Ecological Restoration,Cindy Prescott,27,86.1,89.0,86.0,92.5,97.0,25.0,1,0,0,0,0,0,2,1,2,8,13
+UBCV,2022,W,APBI,428,,201,Integrated Pest Management,Yasmin Akhtar,41,83.6,84.0,80.0,87.0,91.0,70.0,0,0,0,0,0,1,3,3,14,12,8
+UBCV,2022,W,APBI,442,,001,Wine Grape and Berry Biology,Simone Castellarin,14,83.4,83.5,79.0,87.5,94.0,72.0,0,0,0,0,0,0,2,2,3,4,3
+UBCV,2022,W,APBI,444,,201,Agroforestry,Teresa Ryan,20,84.5,85.0,81.8,90.3,96.0,57.0,0,0,1,0,0,0,2,1,3,6,7
+UBCV,2022,W,APBI,460,,001,Agroecology III: Synthesis and evaluation,Andrew Riseman,10,88.2,97.0,89.0,98.8,99.0,43.0,1,0,0,0,0,1,0,0,0,1,7
+UBCV,2022,W,APBI,463,,002,Insects in Agroecosystems,Juli Carrillo,16,88.6,90.5,86.8,93.0,95.0,72.0,0,0,0,0,0,0,2,0,1,3,10
+UBCV,2022,W,APBI,490,A,101,Advanced Topics in Applied Biology,Gurcharn Brar,21,93.4,94.0,91.0,96.0,99.0,86.0,0,0,0,0,0,0,0,0,0,3,18
+UBCV,2022,W,APBI,490,B,102,Advanced Topics in Applied Biology,Risa Sargent,9,77.1,83.0,65.0,86.0,90.0,51.0,0,1,0,0,2,0,0,0,2,3,1
+UBCV,2022,W,APBI,490,C,103,Advanced Topics in Applied Biology,Tabitha Martens,21,88.8,91.0,86.0,94.0,97.0,77.0,0,0,0,0,0,0,0,2,3,5,11
+UBCV,2022,W,APBI,490,D,201,Advanced Topics in Applied Biology,Konstantina Xenakis,15,79.7,85.0,84.0,87.5,89.0,0.0,1,0,0,0,0,0,0,1,4,9,0
+UBCV,2022,W,APBI,490,E,202,Advanced Topics in Applied Biology,Alex Boo,39,92.7,95.0,90.0,97.0,100.0,74.0,0,0,0,0,0,0,1,0,2,6,30
+UBCV,2022,W,APBI,496,B,001,Applied Animal Biology Practicum,Sara Dubois,8,84.9,85.5,81.5,89.3,95.0,70.0,0,0,0,0,0,1,0,0,3,2,2
 UBCV,2022,W,APBI,499,,001,Undergraduate Thesis,Maja Krzic,6,91.2,90.0,90.0,91.5,95.0,90.0,0,0,0,0,0,0,0,0,0,0,6

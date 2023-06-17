@@ -1,11 +1,11 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2022,W,CORH,203,,001,Communication in the Sciences,Sherry Breshears;Aisha Ravindran,26,82.9,83.0,80.3,86.8,93.0,63.0,,,,,,,,,8,10,
-UBCO,2022,W,CORH,203,,101,Communication in the Sciences,Sherry Breshears;Aisha Ravindran,26,82.3,86.0,78.5,89.8,95.0,34.0,,,,,,,,,,8,7
-UBCO,2022,W,CORH,204,,001,Communications in the Humanities,Anita Chaudhuri,24,75.5,77.0,73.8,86.3,94.0,2.0,,,,,,,,6,,,
-UBCO,2022,W,CORH,205,,001,Communication in the Social Sciences,Jordan Stouck,27,77.8,80.0,75.0,82.0,87.0,66.0,,,,,,,,6,11,,
-UBCO,2022,W,CORH,205,,101,Communication in the Social Sciences,Sherry Breshears,28,78.4,83.5,78.8,87.0,91.0,14.0,,,,,,,,,6,8,
-UBCO,2022,W,CORH,206,,001,Communicating Indigeneity,Kerrie Charnley,28,78.4,81.0,74.0,85.5,94.0,52.0,,,,,,,,,6,,
-UBCO,2022,W,CORH,216,,001,Communication and Media,Marie Loughlin,26,79.1,82.0,79.0,86.8,98.0,0.0,,,,,,,,,8,,
-UBCO,2022,W,CORH,321,,101,Personal and Professional Identity and Interpersonal Communication,Aisha Ravindran;Tracy Ross,27,87.0,88.0,84.5,90.0,94.0,76.0,,,,,,,,,6,11,9
-UBCO,2022,W,CORH,331,,001,Social Writing: Studies in Multimodal Communication,Anita Chaudhuri,23,82.8,86.0,81.0,88.5,92.0,60.0,,,,,,,,,6,7,
-UBCO,2022,W,CORH,499,,101,Communication Capstone,Anita Chaudhuri,7,80.6,89.0,88.0,94.0,95.0,16.0,,,,,,,,,,,
+UBCO,2022,W,CORH,203,,001,Communication in the Sciences,Sherry Breshears;Aisha Ravindran,26,82.9,83.0,80.3,86.8,93.0,63.0,0,0,0,1,0,0,2,3,8,10,2
+UBCO,2022,W,CORH,203,,101,Communication in the Sciences,Sherry Breshears;Aisha Ravindran,26,82.3,86.0,78.5,89.8,95.0,34.0,1,0,0,1,0,2,1,2,4,8,7
+UBCO,2022,W,CORH,204,,001,Communications in the Humanities,Anita Chaudhuri,24,75.5,77.0,73.8,86.3,94.0,2.0,2,0,0,0,0,2,5,6,1,5,3
+UBCO,2022,W,CORH,205,,001,Communication in the Social Sciences,Jordan Stouck,27,77.8,80.0,75.0,82.0,87.0,66.0,0,0,0,0,2,3,2,6,11,3,0
+UBCO,2022,W,CORH,205,,101,Communication in the Social Sciences,Sherry Breshears,28,78.4,83.5,78.8,87.0,91.0,14.0,2,0,0,1,0,1,1,5,6,8,4
+UBCO,2022,W,CORH,206,,001,Communicating Indigeneity,Kerrie Charnley,28,78.4,81.0,74.0,85.5,94.0,52.0,0,1,0,4,0,1,4,4,6,5,3
+UBCO,2022,W,CORH,216,,001,Communication and Media,Marie Loughlin,26,79.1,82.0,79.0,86.8,98.0,0.0,1,0,1,0,1,1,0,4,8,5,5
+UBCO,2022,W,CORH,321,,101,Personal and Professional Identity and Interpersonal Communication,Aisha Ravindran;Tracy Ross,27,87.0,88.0,84.5,90.0,94.0,76.0,0,0,0,0,0,0,0,1,6,11,9
+UBCO,2022,W,CORH,331,,001,Social Writing: Studies in Multimodal Communication,Anita Chaudhuri,23,82.8,86.0,81.0,88.5,92.0,60.0,0,0,0,2,0,0,1,2,6,7,5
+UBCO,2022,W,CORH,499,,101,Communication Capstone,Anita Chaudhuri,7,80.6,89.0,88.0,94.0,95.0,16.0,1,0,0,0,0,0,0,0,0,3,3

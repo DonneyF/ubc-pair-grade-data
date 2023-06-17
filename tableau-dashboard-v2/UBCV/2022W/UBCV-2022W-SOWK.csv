@@ -1,43 +1,43 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,SOWK,200,,001,Introduction to Social Welfare,Pascale De Kerckhove,87,76.8,78.0,73.5,83.0,93.0,17.0,,,,,,8,12,16,25,12,
-UBCV,2022,W,SOWK,201,,001,Introduction to Social Work Practice,Hannah Kia,44,79.8,81.5,78.0,85.0,90.0,41.0,,,,,,,,8,16,12,
-UBCV,2022,W,SOWK,305,C,001,Topics in Social Work Practice I,Donna Baines,48,80.9,80.0,79.0,83.0,88.0,75.0,,,,,,,,14,27,,
-UBCV,2022,W,SOWK,305,G,001,Topics in Social Work Practice I,Rhea Del Vecchio,49,87.2,89.0,87.0,91.0,97.0,14.0,,,,,,,,,,22,19
-UBCV,2022,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison,47,85.6,86.0,83.5,90.0,94.0,70.0,,,,,,,,,7,20,13
-UBCV,2022,W,SOWK,310,A,001,Interviewing Skills,Thomas Spence,16,86.6,86.5,85.0,88.3,92.0,81.0,,,,,,,,,,10,
-UBCV,2022,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,16,85.6,84.5,83.8,88.0,91.0,80.0,,,,,,,,,8,,
-UBCV,2022,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,16,85.5,85.0,82.8,87.8,92.0,80.0,,,,,,,,,6,6,
-UBCV,2022,W,SOWK,316,,001,"Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe,15,87.7,88.0,86.0,89.0,94.0,82.0,,,,,,,,,,11,
-UBCV,2022,W,SOWK,316,,002,"Integrative Seminar in Social Work Theory, Policy and Practice",Olivia Palomino,13,90.1,90.0,88.0,93.0,94.0,83.0,,,,,,,,,,,9
-UBCV,2022,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Harpell Montgomery,16,86.6,87.0,84.0,89.0,93.0,78.0,,,,,,,,,,9,
+UBCV,2022,W,SOWK,200,,001,Introduction to Social Welfare,Pascale De Kerckhove,87,76.8,78.0,73.5,83.0,93.0,17.0,3,0,2,0,5,8,12,16,25,12,4
+UBCV,2022,W,SOWK,201,,001,Introduction to Social Work Practice,Hannah Kia,44,79.8,81.5,78.0,85.0,90.0,41.0,1,0,1,1,0,1,3,8,16,12,1
+UBCV,2022,W,SOWK,305,C,001,Topics in Social Work Practice I,Donna Baines,48,80.9,80.0,79.0,83.0,88.0,75.0,0,0,0,0,0,0,2,14,27,5,0
+UBCV,2022,W,SOWK,305,G,001,Topics in Social Work Practice I,Rhea Del Vecchio,49,87.2,89.0,87.0,91.0,97.0,14.0,1,0,0,0,0,0,0,2,5,22,19
+UBCV,2022,W,SOWK,305,I,001,Topics in Social Work Practice I,Kelly Allison,47,85.6,86.0,83.5,90.0,94.0,70.0,0,0,0,0,0,2,1,4,7,20,13
+UBCV,2022,W,SOWK,310,A,001,Interviewing Skills,Thomas Spence,16,86.6,86.5,85.0,88.3,92.0,81.0,0,0,0,0,0,0,0,0,3,10,3
+UBCV,2022,W,SOWK,310,A,002,Interviewing Skills,Marie Nightbird,16,85.6,84.5,83.8,88.0,91.0,80.0,0,0,0,0,0,0,0,0,8,5,3
+UBCV,2022,W,SOWK,310,A,003,Interviewing Skills,Kelly Allison,16,85.5,85.0,82.8,87.8,92.0,80.0,0,0,0,0,0,0,0,0,6,6,4
+UBCV,2022,W,SOWK,316,,001,"Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe,15,87.7,88.0,86.0,89.0,94.0,82.0,0,0,0,0,0,0,0,0,1,11,3
+UBCV,2022,W,SOWK,316,,002,"Integrative Seminar in Social Work Theory, Policy and Practice",Olivia Palomino,13,90.1,90.0,88.0,93.0,94.0,83.0,0,0,0,0,0,0,0,0,2,2,9
+UBCV,2022,W,SOWK,316,,003,"Integrative Seminar in Social Work Theory, Policy and Practice",Harpell Montgomery,16,86.6,87.0,84.0,89.0,93.0,78.0,0,0,0,0,0,0,0,1,4,9,2
 UBCV,2022,W,SOWK,325,,001,Indigenous Peoples and Critical Social Work Analysis,Marie Nightbird,49,86.8,87.0,86.0,89.0,92.0,80.0,0,0,0,0,0,0,0,0,7,36,6
-UBCV,2022,W,SOWK,335,,001,Topics in Social Analysis for Social Work Practice,Antoine Coulombe,46,83.7,84.0,80.3,86.8,95.0,66.0,,,,,,,,7,16,17,
-UBCV,2022,W,SOWK,337,,002,Culture and Race in Social Work Practice,Barbara Lee,46,86.3,87.0,85.0,89.0,92.0,51.0,,,,,,,,,7,29,9
-UBCV,2022,W,SOWK,400,,001,Canadian Social Policy,Lea Caragata,57,81.3,82.0,80.0,84.0,88.0,55.0,,,,,,,,10,31,13,
-UBCV,2022,W,SOWK,405,,001,Social Work Practice II,Jack Makolewski,58,85.5,86.0,84.0,87.0,96.0,78.0,,,,,,,,,18,32,6
-UBCV,2022,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Rhea Del Vecchio,19,87.3,93.0,84.5,94.5,97.0,58.0,,,,,,,,,,,13
-UBCV,2022,W,SOWK,416,,002,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe,17,87.1,89.0,85.0,90.0,92.0,72.0,,,,,,,,,,7,7
-UBCV,2022,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Nadia Kyba,16,88.2,89.0,86.8,91.3,94.0,78.0,,,,,,,,,,7,6
-UBCV,2022,W,SOWK,420,,001,Introduction to Social Work Research,Daniel Ji,56,92.6,95.5,90.8,98.0,100.0,67.0,,,,,,,,,,7,43
-UBCV,2022,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,15,85.1,86.0,83.0,89.5,95.0,64.0,,,,,,,,,,,
-UBCV,2022,W,SOWK,440,K,001,Integrative Seminars in Social Work,Hannah Kia,13,85.0,86.0,84.0,87.0,90.0,76.0,,,,,,,,,,8,
-UBCV,2022,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Kelly Allison,39,84.6,87.0,83.5,89.0,94.0,63.0,,,,,,,,,,21,8
-UBCV,2022,W,SOWK,441,,001,Social Context of Child Development,Barbara Lee,28,86.6,86.0,85.0,88.3,90.0,83.0,,,,,,,,,,22,
-UBCV,2022,W,SOWK,442,,001,Policy and Practice in Child Welfare,Harpell Montgomery,17,84.1,85.0,82.0,87.0,92.0,72.0,,,,,,,,,6,7,
-UBCV,2022,W,SOWK,450,,99C,Social Work Practice in Community Mental Health,Simon Davis,27,87.4,91.0,86.5,95.0,98.0,50.0,,,,,,,,,,,17
-UBCV,2022,W,SOWK,521,,001,Social Work Practice in Addictions,Mohamed Ibrahim,20,90.1,91.0,89.8,92.0,95.0,80.0,,,,,,,,,,,15
-UBCV,2022,W,SOWK,524,A,001,Social Services Management,Tina Wilson,7,79.1,79.0,77.0,81.5,83.0,75.0,,,,,,,,,,,
-UBCV,2022,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Mohamed Ibrahim,24,91.6,92.0,89.0,94.0,98.0,81.0,,,,,,,,,,7,16
-UBCV,2022,W,SOWK,526,A,001,Social Work Practice with Individuals and Couples,Rae Morris,26,90.2,90.0,88.0,93.0,97.0,83.0,,,,,,,,,,9,14
+UBCV,2022,W,SOWK,335,,001,Topics in Social Analysis for Social Work Practice,Antoine Coulombe,46,83.7,84.0,80.3,86.8,95.0,66.0,0,0,0,0,1,0,1,7,16,17,4
+UBCV,2022,W,SOWK,337,,002,Culture and Race in Social Work Practice,Barbara Lee,46,86.3,87.0,85.0,89.0,92.0,51.0,0,1,0,0,0,0,0,0,7,29,9
+UBCV,2022,W,SOWK,400,,001,Canadian Social Policy,Lea Caragata,57,81.3,82.0,80.0,84.0,88.0,55.0,0,0,1,0,1,0,1,10,31,13,0
+UBCV,2022,W,SOWK,405,,001,Social Work Practice II,Jack Makolewski,58,85.5,86.0,84.0,87.0,96.0,78.0,0,0,0,0,0,0,0,2,18,32,6
+UBCV,2022,W,SOWK,416,,001,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Rhea Del Vecchio,19,87.3,93.0,84.5,94.5,97.0,58.0,0,0,1,0,1,1,1,0,1,1,13
+UBCV,2022,W,SOWK,416,,002,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Antoine Coulombe,17,87.1,89.0,85.0,90.0,92.0,72.0,0,0,0,0,0,0,1,0,2,7,7
+UBCV,2022,W,SOWK,416,,003,"Advanced Integrative Seminar in Social Work Theory, Policy and Practice",Nadia Kyba,16,88.2,89.0,86.8,91.3,94.0,78.0,0,0,0,0,0,0,0,1,2,7,6
+UBCV,2022,W,SOWK,420,,001,Introduction to Social Work Research,Daniel Ji,56,92.6,95.5,90.8,98.0,100.0,67.0,0,0,0,0,1,0,2,0,3,7,43
+UBCV,2022,W,SOWK,440,B,001,Integrative Seminars in Social Work,Mohamed Ibrahim,15,85.1,86.0,83.0,89.5,95.0,64.0,0,0,0,0,1,0,0,1,4,5,4
+UBCV,2022,W,SOWK,440,K,001,Integrative Seminars in Social Work,Hannah Kia,13,85.0,86.0,84.0,87.0,90.0,76.0,0,0,0,0,0,0,0,1,3,8,1
+UBCV,2022,W,SOWK,440,Q,001,Integrative Seminars in Social Work,Kelly Allison,39,84.6,87.0,83.5,89.0,94.0,63.0,0,0,0,1,2,0,1,3,3,21,8
+UBCV,2022,W,SOWK,441,,001,Social Context of Child Development,Barbara Lee,28,86.6,86.0,85.0,88.3,90.0,83.0,0,0,0,0,0,0,0,0,3,22,3
+UBCV,2022,W,SOWK,442,,001,Policy and Practice in Child Welfare,Harpell Montgomery,17,84.1,85.0,82.0,87.0,92.0,72.0,0,0,0,0,0,0,1,1,6,7,2
+UBCV,2022,W,SOWK,450,,99C,Social Work Practice in Community Mental Health,Simon Davis,27,87.4,91.0,86.5,95.0,98.0,50.0,0,1,0,1,0,0,2,1,1,4,17
+UBCV,2022,W,SOWK,521,,001,Social Work Practice in Addictions,Mohamed Ibrahim,20,90.1,91.0,89.8,92.0,95.0,80.0,0,0,0,0,0,0,0,0,2,3,15
+UBCV,2022,W,SOWK,524,A,001,Social Services Management,Tina Wilson,7,79.1,79.0,77.0,81.5,83.0,75.0,0,0,0,0,0,0,1,3,3,0,0
+UBCV,2022,W,SOWK,525,,001,Advanced Social Work Practice: Mental Health,Mohamed Ibrahim,24,91.6,92.0,89.0,94.0,98.0,81.0,0,0,0,0,0,0,0,0,1,7,16
+UBCV,2022,W,SOWK,526,A,001,Social Work Practice with Individuals and Couples,Rae Morris,26,90.2,90.0,88.0,93.0,97.0,83.0,0,0,0,0,0,0,0,0,3,9,14
 UBCV,2022,W,SOWK,528,A,001,Social work Practice with Groups,Christiana Bratiotis,14,95.0,95.5,93.3,96.0,99.0,91.0,0,0,0,0,0,0,0,0,0,0,14
 UBCV,2022,W,SOWK,531,,001,Social Work Practice in the Field of Aging,Deborah O'Connor,13,88.2,87.0,86.0,90.0,91.0,86.0,0,0,0,0,0,0,0,0,0,7,6
-UBCV,2022,W,SOWK,532,A,001,Social Work Practice with the Family,Rae Morris,20,91.4,92.5,89.0,93.3,98.0,78.0,,,,,,,,,,,14
-UBCV,2022,W,SOWK,550,,001,Social Work and Social Justice,Lea Caragata,43,85.5,86.0,84.0,87.5,93.0,77.0,,,,,,,,,10,25,
-UBCV,2022,W,SOWK,551,,001,Health and Social Care Praxis,Teresa Robitaille;Jaclyn Sauer,19,89.1,89.0,86.5,91.5,94.0,83.0,,,,,,,,,,9,9
-UBCV,2022,W,SOWK,551,,002,Health and Social Care Praxis,Catherine Carter,13,86.8,87.0,84.0,89.0,94.0,81.0,,,,,,,,,6,,
-UBCV,2022,W,SOWK,553,C,001,Quantitative Methods in Social Work Research,Sheila Marshall,18,87.9,89.5,83.8,94.0,97.0,71.0,,,,,,,,,,,9
-UBCV,2022,W,SOWK,554,C,001,Qualitative Methods in Social Work Research,Donna Baines,19,82.1,83.0,81.0,83.5,88.0,72.0,,,,,,,,,14,,
+UBCV,2022,W,SOWK,532,A,001,Social Work Practice with the Family,Rae Morris,20,91.4,92.5,89.0,93.3,98.0,78.0,0,0,0,0,0,0,0,1,0,5,14
+UBCV,2022,W,SOWK,550,,001,Social Work and Social Justice,Lea Caragata,43,85.5,86.0,84.0,87.5,93.0,77.0,0,0,0,0,0,0,0,3,10,25,5
+UBCV,2022,W,SOWK,551,,001,Health and Social Care Praxis,Teresa Robitaille;Jaclyn Sauer,19,89.1,89.0,86.5,91.5,94.0,83.0,0,0,0,0,0,0,0,0,1,9,9
+UBCV,2022,W,SOWK,551,,002,Health and Social Care Praxis,Catherine Carter,13,86.8,87.0,84.0,89.0,94.0,81.0,0,0,0,0,0,0,0,0,6,4,3
+UBCV,2022,W,SOWK,553,C,001,Quantitative Methods in Social Work Research,Sheila Marshall,18,87.9,89.5,83.8,94.0,97.0,71.0,0,0,0,0,0,1,1,0,3,4,9
+UBCV,2022,W,SOWK,554,C,001,Qualitative Methods in Social Work Research,Donna Baines,19,82.1,83.0,81.0,83.5,88.0,72.0,0,0,0,0,0,0,1,1,14,3,0
 UBCV,2022,W,SOWK,554,C,002,Qualitative Methods in Social Work Research,Barbara Lee,9,86.1,86.0,86.0,86.0,87.0,85.0,0,0,0,0,0,0,0,0,0,9,0
 UBCV,2022,W,SOWK,559,,001,Advanced Integrative Seminar,Mohamed Ibrahim,18,93.9,94.0,93.0,95.0,98.0,91.0,0,0,0,0,0,0,0,0,0,0,18
-UBCV,2022,W,SOWK,559,,002,Advanced Integrative Seminar,Tina Wilson,16,82.1,82.0,80.5,83.3,88.0,78.0,,,,,,,,,9,,
-UBCV,2022,W,SOWK,570,B,001,Directed Studies in Social Work,Marie Nightbird,8,91.5,92.0,89.0,93.0,97.0,87.0,,,,,,,,,,,
+UBCV,2022,W,SOWK,559,,002,Advanced Integrative Seminar,Tina Wilson,16,82.1,82.0,80.5,83.3,88.0,78.0,0,0,0,0,0,0,0,4,9,3,0
+UBCV,2022,W,SOWK,570,B,001,Directed Studies in Social Work,Marie Nightbird,8,91.5,92.0,89.0,93.0,97.0,87.0,0,0,0,0,0,0,0,0,0,3,5

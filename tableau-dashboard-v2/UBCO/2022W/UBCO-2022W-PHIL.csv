@@ -1,33 +1,33 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2022,W,PHIL,111,,001,Introduction to Philosophy I,Phil Smolenski,65,66.4,69.0,61.0,77.0,89.0,4.0,,7,,9,8,9,6,6,8,6,
-UBCO,2022,W,PHIL,111,,002,Introduction to Philosophy I,Phil Smolenski,63,67.2,69.0,62.5,76.5,90.0,15.0,,,,10,8,6,10,9,,,
-UBCO,2022,W,PHIL,111,,101,Introduction to Philosophy I,Jennifer Ingle,69,72.3,75.0,67.0,82.0,92.0,1.0,,,,6,,7,10,11,13,8,
-UBCO,2022,W,PHIL,111,,102,Introduction to Philosophy I,Madeleine Ransom,62,79.6,83.0,74.3,90.0,96.0,0.0,,,,,,,7,9,8,11,17
-UBCO,2022,W,PHIL,111,,103,Introduction to Philosophy I,Madeleine Ransom,62,79.6,83.0,73.3,90.0,98.0,0.0,,,,,,,6,9,6,11,17
+UBCO,2022,W,PHIL,111,,001,Introduction to Philosophy I,Phil Smolenski,65,66.4,69.0,61.0,77.0,89.0,4.0,4,7,2,9,8,9,6,6,8,6,0
+UBCO,2022,W,PHIL,111,,002,Introduction to Philosophy I,Phil Smolenski,63,67.2,69.0,62.5,76.5,90.0,15.0,3,4,4,10,8,6,10,9,5,3,1
+UBCO,2022,W,PHIL,111,,101,Introduction to Philosophy I,Jennifer Ingle,69,72.3,75.0,67.0,82.0,92.0,1.0,4,2,1,6,5,7,10,11,13,8,2
+UBCO,2022,W,PHIL,111,,102,Introduction to Philosophy I,Madeleine Ransom,62,79.6,83.0,74.3,90.0,96.0,0.0,2,1,1,1,2,3,7,9,8,11,17
+UBCO,2022,W,PHIL,111,,103,Introduction to Philosophy I,Madeleine Ransom,62,79.6,83.0,73.3,90.0,98.0,0.0,1,1,1,4,2,4,6,9,6,11,17
 UBCO,2022,W,PHIL,120,,001,Introduction to Logic and Critical Thinking,Giovanni Grandi,121,72.1,75.0,62.0,85.0,100.0,2.0,11,6,7,13,5,7,13,11,16,15,17
-UBCO,2022,W,PHIL,120,,002,Introduction to Logic and Critical Thinking,Madeleine Ransom,125,82.5,86.0,80.0,90.0,98.0,0.0,,,,,,6,,9,20,37,38
+UBCO,2022,W,PHIL,120,,002,Introduction to Logic and Critical Thinking,Madeleine Ransom,125,82.5,86.0,80.0,90.0,98.0,0.0,4,1,1,2,4,6,3,9,20,37,38
 UBCO,2022,W,PHIL,120,,101,Introduction to Logic and Critical Thinking,Giovanni Grandi,125,71.4,71.0,60.0,83.0,100.0,0.0,6,6,14,20,11,9,7,8,14,10,20
-UBCO,2022,W,PHIL,121,,002,Introduction to Philosophy II,Renaud-Philippe Garner,62,67.7,68.5,57.5,82.8,96.0,5.0,9,,,7,,,,,,8,6
-UBCO,2022,W,PHIL,121,,101,Introduction to Philosophy II,Phil Smolenski,21,72.4,72.0,66.0,84.0,96.0,23.0,,,,,,,,,,,
-UBCO,2022,W,PHIL,121,,102,Introduction to Philosophy II,Phil Smolenski,58,71.0,73.0,66.0,80.0,92.0,0.0,,,,,,12,6,8,8,6,
-UBCO,2022,W,PHIL,210,,101,Introduction to Social and Political Philosophy,Renaud-Philippe Garner,30,69.1,71.5,62.0,79.5,90.0,26.0,,,,,,,,,,,
-UBCO,2022,W,PHIL,220,,101,Symbolic Logic I,Wolfgang Holger Andreas;Phil Smolenski,48,79.5,85.0,67.0,93.0,100.0,16.0,,,,,,,,,,9,18
-UBCO,2022,W,PHIL,230,,001,Ethics,Renaud-Philippe Garner,53,64.5,64.0,55.0,77.0,92.0,18.0,7,,8,6,,,,,7,,
-UBCO,2022,W,PHIL,233,,001,Biomedical Ethics,Phil Smolenski,57,75.8,76.0,71.0,81.0,93.0,51.0,,,,,,13,8,7,13,,
-UBCO,2022,W,PHIL,240,,101,"Science, Technology and Society",Manuela Ungureanu,22,74.3,77.0,69.3,80.8,95.0,42.0,,,,,,,,,,,
-UBCO,2022,W,PHIL,245,,101,Introduction to Metaphysics,Wolfgang Holger Andreas;Phil Smolenski,44,74.4,80.0,66.5,88.0,97.0,0.0,,,,,,,,,7,8,9
-UBCO,2022,W,PHIL,310,,001,The Philosophy of Plato,Andrew Irvine,36,77.1,79.0,74.8,81.0,92.0,51.0,,,,,,,,10,12,,
-UBCO,2022,W,PHIL,315,,001,Philosophy in the 18th Century,Giovanni Grandi,35,74.1,74.0,60.0,89.5,98.0,39.0,,,,,,,,,,,9
-UBCO,2022,W,PHIL,331,,001,Computer Ethics,Jennifer Ingle,67,82.4,83.0,79.0,88.5,97.0,50.0,,,,,,,6,6,19,14,16
-UBCO,2022,W,PHIL,331,,101,Computer Ethics,Jennifer Ingle,79,81.3,83.0,78.0,87.0,96.0,36.0,,,,,,,6,9,23,18,14
-UBCO,2022,W,PHIL,338,,101,Philosophy of Law,Andrew Irvine,33,73.2,70.0,67.0,82.0,89.0,54.0,,,,,,8,,,,7,
-UBCO,2022,W,PHIL,338,,102,Philosophy of Law,Andrew Irvine,36,72.8,75.5,65.0,82.3,92.0,19.0,,,,,6,,,,10,,
-UBCO,2022,W,PHIL,345,,101,Theory of Knowledge,Manuela Ungureanu,31,70.6,71.0,66.0,78.0,85.0,31.0,,,,,6,,,,6,,
-UBCO,2022,W,PHIL,373,,001,Feminist Philosophy,Jennifer Ingle,35,77.1,78.0,69.0,90.0,96.0,11.0,,,,,,,,,,,10
-UBCO,2022,W,PHIL,391,E,101,Topics in Philosophy,Giovanni Grandi,14,76.2,81.0,69.5,84.5,97.0,46.0,,,,,,,,,,,
-UBCO,2022,W,PHIL,391,F,101,Topics in Philosophy,Jennifer Ingle,29,71.0,74.0,63.0,89.0,96.0,0.0,,,,,,,,,,,7
-UBCO,2022,W,PHIL,418,A,101,Topics in 20th-Century Philosophy,Andrew Irvine,12,75.5,74.0,69.5,84.0,90.0,57.0,,,,,,,,,,,
-UBCO,2022,W,PHIL,425,,001,Philosophy of Language,Christina Behme,36,84.6,88.0,82.0,92.3,98.0,0.0,,,,,,,,,10,8,13
-UBCO,2022,W,PHIL,435,,001,Environmental Ethics,Jennifer Ingle,37,75.1,75.0,67.0,85.0,98.0,23.0,,,,,,,,,,6,
-UBCO,2022,W,PHIL,451,,001,Philosophy of Mind,Liam Dempsey,33,68.8,72.0,63.0,78.0,86.0,14.0,,,,,,,,8,,,
-UBCO,2022,W,PHIL,460,,101,Philosophy of Science,Wolfgang Holger Andreas;Phil Smolenski,34,78.4,84.5,70.3,92.0,98.0,18.0,,,,,,,,,,,12
+UBCO,2022,W,PHIL,121,,002,Introduction to Philosophy II,Renaud-Philippe Garner,62,67.7,68.5,57.5,82.8,96.0,5.0,9,5,4,7,5,5,4,5,4,8,6
+UBCO,2022,W,PHIL,121,,101,Introduction to Philosophy II,Phil Smolenski,21,72.4,72.0,66.0,84.0,96.0,23.0,2,0,0,1,4,3,1,1,4,2,3
+UBCO,2022,W,PHIL,121,,102,Introduction to Philosophy II,Phil Smolenski,58,71.0,73.0,66.0,80.0,92.0,0.0,2,2,3,4,5,12,6,8,8,6,2
+UBCO,2022,W,PHIL,210,,101,Introduction to Social and Political Philosophy,Renaud-Philippe Garner,30,69.1,71.5,62.0,79.5,90.0,26.0,2,2,1,4,2,4,3,4,3,3,2
+UBCO,2022,W,PHIL,220,,101,Symbolic Logic I,Wolfgang Holger Andreas;Phil Smolenski,48,79.5,85.0,67.0,93.0,100.0,16.0,2,5,4,0,2,0,3,0,5,9,18
+UBCO,2022,W,PHIL,230,,001,Ethics,Renaud-Philippe Garner,53,64.5,64.0,55.0,77.0,92.0,18.0,7,5,8,6,4,4,4,3,7,1,4
+UBCO,2022,W,PHIL,233,,001,Biomedical Ethics,Phil Smolenski,57,75.8,76.0,71.0,81.0,93.0,51.0,0,1,1,2,3,13,8,7,13,5,4
+UBCO,2022,W,PHIL,240,,101,"Science, Technology and Society",Manuela Ungureanu,22,74.3,77.0,69.3,80.8,95.0,42.0,2,0,0,1,1,4,2,4,4,3,1
+UBCO,2022,W,PHIL,245,,101,Introduction to Metaphysics,Wolfgang Holger Andreas;Phil Smolenski,44,74.4,80.0,66.5,88.0,97.0,0.0,4,3,0,3,2,3,3,2,7,8,9
+UBCO,2022,W,PHIL,310,,001,The Philosophy of Plato,Andrew Irvine,36,77.1,79.0,74.8,81.0,92.0,51.0,0,1,0,1,1,3,5,10,12,2,1
+UBCO,2022,W,PHIL,315,,001,Philosophy in the 18th Century,Giovanni Grandi,35,74.1,74.0,60.0,89.5,98.0,39.0,2,0,4,5,2,3,2,4,1,3,9
+UBCO,2022,W,PHIL,331,,001,Computer Ethics,Jennifer Ingle,67,82.4,83.0,79.0,88.5,97.0,50.0,0,1,1,0,2,2,6,6,19,14,16
+UBCO,2022,W,PHIL,331,,101,Computer Ethics,Jennifer Ingle,79,81.3,83.0,78.0,87.0,96.0,36.0,2,0,1,0,1,5,6,9,23,18,14
+UBCO,2022,W,PHIL,338,,101,Philosophy of Law,Andrew Irvine,33,73.2,70.0,67.0,82.0,89.0,54.0,0,2,0,4,4,8,2,1,5,7,0
+UBCO,2022,W,PHIL,338,,102,Philosophy of Law,Andrew Irvine,36,72.8,75.5,65.0,82.3,92.0,19.0,2,0,2,2,6,2,4,2,10,4,2
+UBCO,2022,W,PHIL,345,,101,Theory of Knowledge,Manuela Ungureanu,31,70.6,71.0,66.0,78.0,85.0,31.0,1,0,1,3,6,5,5,3,6,1,0
+UBCO,2022,W,PHIL,373,,001,Feminist Philosophy,Jennifer Ingle,35,77.1,78.0,69.0,90.0,96.0,11.0,2,0,2,1,2,5,4,2,2,5,10
+UBCO,2022,W,PHIL,391,E,101,Topics in Philosophy,Giovanni Grandi,14,76.2,81.0,69.5,84.5,97.0,46.0,2,0,0,1,1,0,0,2,4,2,2
+UBCO,2022,W,PHIL,391,F,101,Topics in Philosophy,Jennifer Ingle,29,71.0,74.0,63.0,89.0,96.0,0.0,3,0,3,3,1,2,3,1,2,4,7
+UBCO,2022,W,PHIL,418,A,101,Topics in 20th-Century Philosophy,Andrew Irvine,12,75.5,74.0,69.5,84.0,90.0,57.0,0,0,1,0,1,3,2,0,3,1,1
+UBCO,2022,W,PHIL,425,,001,Philosophy of Language,Christina Behme,36,84.6,88.0,82.0,92.3,98.0,0.0,1,0,0,0,0,0,4,0,10,8,13
+UBCO,2022,W,PHIL,435,,001,Environmental Ethics,Jennifer Ingle,37,75.1,75.0,67.0,85.0,98.0,23.0,1,2,1,2,4,4,5,2,5,6,5
+UBCO,2022,W,PHIL,451,,001,Philosophy of Mind,Liam Dempsey,33,68.8,72.0,63.0,78.0,86.0,14.0,2,0,2,5,2,5,4,8,3,2,0
+UBCO,2022,W,PHIL,460,,101,Philosophy of Science,Wolfgang Holger Andreas;Phil Smolenski,34,78.4,84.5,70.3,92.0,98.0,18.0,2,1,1,1,3,2,3,1,3,5,12

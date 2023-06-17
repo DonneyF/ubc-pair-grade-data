@@ -1,21 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2022,W,BASC,500,,001,Process Fundamentals,Harish Krishnan,50,83.3,83.0,82.0,85.0,89.0,80.0,0,0,0,0,0,0,0,0,35,15,0
-UBCV,2022,W,BASC,500,,301,Process Fundamentals,Harish Krishnan,36,83.1,83.0,82.0,84.0,88.0,79.0,,,,,,,,,27,8,
-UBCV,2022,W,BASC,500,,821,Process Fundamentals,Woonghee Tim Huh,18,83.8,82.0,82.0,85.8,91.0,80.0,,,,,,,,,12,,
-UBCV,2022,W,BASC,500,,BA1,Process Fundamentals,Harish Krishnan,39,83.2,83.0,82.0,85.0,89.0,77.0,,,,,,,,,26,12,
-UBCV,2022,W,BASC,500,,BA2,Process Fundamentals,Harish Krishnan,39,82.9,83.0,82.0,84.0,86.0,79.0,,,,,,,,,27,9,
-UBCV,2022,W,BASC,523,,001,Supply Chain Management,Christopher Ryan,50,84.8,85.0,82.3,87.0,90.0,77.0,,,,,,,,,22,26,
-UBCV,2022,W,BASC,523,,302,Supply Chain Management,Christopher Ryan,20,86.7,87.0,85.0,89.0,90.0,80.0,,,,,,,,,,15,
-UBCV,2022,W,BASC,523,,821,Supply Chain Management,Christopher Ryan,21,82.7,83.0,80.0,85.0,90.0,75.0,,,,,,,,,10,6,
-UBCV,2022,W,BASC,523,,BA1,Supply Chain Management,Christopher Ryan,39,81.5,82.0,78.0,85.0,90.0,72.0,,,,,,,,11,14,10,
-UBCV,2022,W,BASC,523,,BA2,Supply Chain Management,Christopher Ryan,39,82.5,83.0,81.0,86.0,90.0,62.0,,,,,,,,,19,12,
-UBCV,2022,W,BASC,523,,DD1,Supply Chain Management,Christopher Ryan,47,83.6,85.0,81.0,86.0,90.0,75.0,,,,,,,,,15,26,
-UBCV,2022,W,BASC,523,,DD2,Supply Chain Management,Christopher Ryan,43,83.7,83.0,80.5,87.0,92.0,73.0,,,,,,,,9,14,14,
-UBCV,2022,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,42,72.1,72.0,66.3,77.5,88.0,55.0,,,,,8,,13,,9,,
-UBCV,2022,W,BASC,550,,001,Operations,Christopher Ryan,44,83.3,83.0,82.0,85.0,89.0,74.0,,,,,,,,,25,16,
-UBCV,2022,W,BASC,550,,002,Operations,Christopher Ryan,45,84.2,84.0,83.0,86.0,88.0,79.0,,,,,,,,,25,19,
-UBCV,2022,W,BASC,550,,101,Operations,Manish Tripathy,34,81.8,83.0,78.0,83.0,95.0,73.0,,,,,,,,8,17,7,
-UBCV,2022,W,BASC,550,,822,Operations,Mahesh Nagarajan,15,78.3,81.0,75.5,82.0,86.0,65.0,,,,,,,,,8,,
-UBCV,2022,W,BASC,550,,DD1,Operations,Sha Liao,44,83.0,84.5,75.0,91.0,95.0,68.0,,,,,,,7,,6,7,15
-UBCV,2022,W,BASC,550,,DD2,Operations,Sha Liao,46,84.5,86.0,81.0,89.0,95.0,68.0,,,,,,,,,9,19,9
-UBCV,2022,W,BASC,550,,MM1,Operations,Christopher Ryan,42,83.3,84.5,80.0,86.0,91.0,70.0,,,,,,,,8,12,20,
+UBCV,2022,W,BASC,500,,301,Process Fundamentals,Harish Krishnan,36,83.1,83.0,82.0,84.0,88.0,79.0,0,0,0,0,0,0,0,1,27,8,0
+UBCV,2022,W,BASC,500,,821,Process Fundamentals,Woonghee Tim Huh,18,83.8,82.0,82.0,85.8,91.0,80.0,0,0,0,0,0,0,0,0,12,3,3
+UBCV,2022,W,BASC,500,,BA1,Process Fundamentals,Harish Krishnan,39,83.2,83.0,82.0,85.0,89.0,77.0,0,0,0,0,0,0,0,1,26,12,0
+UBCV,2022,W,BASC,500,,BA2,Process Fundamentals,Harish Krishnan,39,82.9,83.0,82.0,84.0,86.0,79.0,0,0,0,0,0,0,0,3,27,9,0
+UBCV,2022,W,BASC,523,,001,Supply Chain Management,Christopher Ryan,50,84.8,85.0,82.3,87.0,90.0,77.0,0,0,0,0,0,0,0,1,22,26,1
+UBCV,2022,W,BASC,523,,302,Supply Chain Management,Christopher Ryan,20,86.7,87.0,85.0,89.0,90.0,80.0,0,0,0,0,0,0,0,0,3,15,2
+UBCV,2022,W,BASC,523,,821,Supply Chain Management,Christopher Ryan,21,82.7,83.0,80.0,85.0,90.0,75.0,0,0,0,0,0,0,1,3,10,6,1
+UBCV,2022,W,BASC,523,,BA1,Supply Chain Management,Christopher Ryan,39,81.5,82.0,78.0,85.0,90.0,72.0,0,0,0,0,0,0,3,11,14,10,1
+UBCV,2022,W,BASC,523,,BA2,Supply Chain Management,Christopher Ryan,39,82.5,83.0,81.0,86.0,90.0,62.0,0,0,0,1,0,1,1,4,19,12,1
+UBCV,2022,W,BASC,523,,DD1,Supply Chain Management,Christopher Ryan,47,83.6,85.0,81.0,86.0,90.0,75.0,0,0,0,0,0,0,1,4,15,26,1
+UBCV,2022,W,BASC,523,,DD2,Supply Chain Management,Christopher Ryan,43,83.7,83.0,80.5,87.0,92.0,73.0,0,0,0,0,0,0,1,9,14,14,5
+UBCV,2022,W,BASC,523,,MM1,Supply Chain Management,Mahesh Nagarajan,42,72.1,72.0,66.3,77.5,88.0,55.0,1,0,0,4,8,4,13,2,9,1,0
+UBCV,2022,W,BASC,550,,001,Operations,Christopher Ryan,44,83.3,83.0,82.0,85.0,89.0,74.0,0,0,0,0,0,0,1,2,25,16,0
+UBCV,2022,W,BASC,550,,002,Operations,Christopher Ryan,45,84.2,84.0,83.0,86.0,88.0,79.0,0,0,0,0,0,0,0,1,25,19,0
+UBCV,2022,W,BASC,550,,101,Operations,Manish Tripathy,34,81.8,83.0,78.0,83.0,95.0,73.0,0,0,0,0,0,0,1,8,17,7,1
+UBCV,2022,W,BASC,550,,822,Operations,Mahesh Nagarajan,15,78.3,81.0,75.5,82.0,86.0,65.0,0,0,0,0,2,1,1,1,8,2,0
+UBCV,2022,W,BASC,550,,DD1,Operations,Sha Liao,44,83.0,84.5,75.0,91.0,95.0,68.0,0,0,0,0,0,5,7,4,6,7,15
+UBCV,2022,W,BASC,550,,DD2,Operations,Sha Liao,46,84.5,86.0,81.0,89.0,95.0,68.0,0,0,0,0,0,2,4,3,9,19,9
+UBCV,2022,W,BASC,550,,MM1,Operations,Christopher Ryan,42,83.3,84.5,80.0,86.0,91.0,70.0,0,0,0,0,0,1,0,8,12,20,1

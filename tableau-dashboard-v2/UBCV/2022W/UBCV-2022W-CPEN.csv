@@ -1,33 +1,33 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2022,W,CPEN,211,,101,Computing Systems I,Mieszko Lis;Prashant Nair,313,68.0,70.0,59.0,79.0,100.0,13.0,43,16,26,27,16,38,35,39,29,22,22
 UBCV,2022,W,CPEN,212,,201,Computing Systems II,Mieszko Lis,130,67.5,70.0,61.0,78.0,93.0,21.0,16,6,7,11,16,21,13,14,14,9,3
-UBCV,2022,W,CPEN,221,,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,243,76.3,78.0,73.0,82.0,93.0,19.0,,,,15,10,25,31,65,57,31,
-UBCV,2022,W,CPEN,223,,101,Software Design for Engineers,Farshid Agharebparast,131,72.9,74.0,68.0,78.0,93.0,10.0,,,,11,12,19,21,27,17,8,7
-UBCV,2022,W,CPEN,281,,101,Technical Communication,Hartaj Sanghara,44,73.5,75.0,72.8,77.0,85.0,46.0,,,,,,,15,14,,,
-UBCV,2022,W,CPEN,281,,102,Technical Communication,Hongxing Estella Qi,24,72.3,72.5,69.0,77.8,88.0,45.0,,,,,,6,,,,,
-UBCV,2022,W,CPEN,281,,103,Technical Communication,Hartaj Sanghara,38,70.8,72.0,68.0,75.0,82.0,46.0,,,,,,8,14,7,,,
-UBCV,2022,W,CPEN,291,,201,Computer Engineering Design Studio I,Farshid Agharebparast,111,86.0,88.0,83.0,90.0,95.0,55.0,,,,,,,,8,23,40,34
-UBCV,2022,W,CPEN,311,,101,Digital Systems Design,Guy Lemieux,89,70.3,72.0,63.0,82.0,96.0,5.0,6,10,,6,10,6,15,,11,11,8
-UBCV,2022,W,CPEN,312,,201,Digital Systems and Microcomputers,Jesus Calvino-Fraga,178,81.0,83.0,75.0,90.0,100.0,0.0,,,,7,,14,16,14,32,38,46
-UBCV,2022,W,CPEN,322,,101,Software Construction II,Karthik Pattabiraman,137,74.3,76.0,69.0,81.0,100.0,22.0,,,,,10,13,26,25,34,7,7
-UBCV,2022,W,CPEN,331,,101,Operating Systems,Alexandra Fedorova,109,84.0,87.0,79.0,90.0,98.0,45.0,,,,,,,11,9,11,40,29
-UBCV,2022,W,CPEN,333,,101,System Software Engineering,Farshid Agharebparast,68,80.1,82.5,75.5,86.0,95.0,51.0,,,,,,,9,12,15,17,7
-UBCV,2022,W,CPEN,333,,201,System Software Engineering,Farshid Agharebparast,92,74.0,74.0,67.8,81.0,95.0,26.0,,,,,13,13,13,8,21,9,
-UBCV,2022,W,CPEN,391,,201,Computer Engineering Design Studio II,Guy Lemieux,122,82.0,82.0,76.0,87.0,93.0,66.0,,,,,,,24,11,42,17,25
-UBCV,2022,W,CPEN,400,D,106,Topics in Computer Engineering,Scott Chin;Bradley Quinton,65,87.2,89.0,82.0,94.0,99.0,64.0,,,,,,,,6,9,14,29
-UBCV,2022,W,CPEN,400,D,206,Topics in Computer Engineering,Renjie Liao,63,82.2,86.0,75.0,93.0,100.0,28.0,,,,,,,,,10,12,21
-UBCV,2022,W,CPEN,400,P,201,Topics in Computer Engineering,Karthik Pattabiraman,33,82.8,83.0,80.0,88.0,93.0,68.0,,,,,,,,,13,9,
-UBCV,2022,W,CPEN,400,Q,202,Topics in Computer Engineering,Olivia Di Matteo,40,86.3,88.0,85.0,90.0,96.0,65.0,,,,,,,,,,15,16
-UBCV,2022,W,CPEN,411,,101,Computer Architecture,Prashant Nair,74,77.5,81.0,68.5,85.8,95.0,39.0,,,,6,6,6,,6,16,19,7
-UBCV,2022,W,CPEN,412,,201,Microcomputer Systems Design,Yair Linn,63,88.8,93.0,89.0,96.0,100.0,3.0,,,,,,,,,,10,43
-UBCV,2022,W,CPEN,431,,201,Design of Distributed Software Applications,Radu Ripeanu,48,84.3,86.5,80.0,89.3,97.0,68.0,,,,,,,,,10,15,12
-UBCV,2022,W,CPEN,441,,101,Human Computer Interfaces in Engineering Design,S Sidney Fels,55,81.7,81.0,77.0,87.5,94.0,68.0,,,,,,,6,10,13,11,10
-UBCV,2022,W,CPEN,442,,101,Introduction to Cybersecurity,Konstantin Beznosov,45,80.7,83.0,76.0,87.0,94.0,54.0,,,,,,,,6,8,14,6
-UBCV,2022,W,CPEN,481,,101,Economic Analysis of Engineering Projects,Jeffrey Carmichael,29,71.7,74.0,65.0,77.0,87.0,57.0,,,,,,,7,,,,
-UBCV,2022,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Jeffrey Carmichael,56,76.0,77.0,72.8,80.3,86.0,50.0,,,,,,,11,15,18,,
-UBCV,2022,W,CPEN,491,F,001,Computer Engineering Capstone Design Project,Hamed Ahmadi;Pieter Botman;S Sidney Fels;Cristian Sorin Grecu;Andre Ivanov;Terry Lee;Paul Lusina;Panos Nasiopoulos;Joseph Yan,88,84.7,85.0,83.0,88.0,92.0,73.0,,,,,,,6,,19,49,9
-UBCV,2022,W,CPEN,502,,101,Architecture for Learning Systems,Sarbjit Sarkaria,55,88.8,90.0,87.5,94.0,99.0,33.0,,,,,,,,,,14,32
-UBCV,2022,W,CPEN,511,,201,Advanced Computer Architecture,Mieszko Lis,7,89.1,90.0,86.0,92.5,95.0,82.0,,,,,,,,,,,
-UBCV,2022,W,CPEN,513,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,10,93.2,95.0,92.3,97.0,98.0,80.0,,,,,,,,,,,8
-UBCV,2022,W,CPEN,523,,101,Software Project Management,Sathish Gopalakrishnan,15,91.1,91.0,89.0,93.5,95.0,85.0,,,,,,,,,,,10
-UBCV,2022,W,CPEN,542,,101,Cybersecurity,Konstantin Beznosov,13,78.2,81.0,67.0,86.0,98.0,62.0,,,,,,,,,,,
+UBCV,2022,W,CPEN,221,,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,243,76.3,78.0,73.0,82.0,93.0,19.0,5,0,0,15,10,25,31,65,57,31,4
+UBCV,2022,W,CPEN,223,,101,Software Design for Engineers,Farshid Agharebparast,131,72.9,74.0,68.0,78.0,93.0,10.0,1,5,3,11,12,19,21,27,17,8,7
+UBCV,2022,W,CPEN,281,,101,Technical Communication,Hartaj Sanghara,44,73.5,75.0,72.8,77.0,85.0,46.0,3,0,0,0,1,5,15,14,5,1,0
+UBCV,2022,W,CPEN,281,,102,Technical Communication,Hongxing Estella Qi,24,72.3,72.5,69.0,77.8,88.0,45.0,2,0,0,1,1,6,5,3,3,3,0
+UBCV,2022,W,CPEN,281,,103,Technical Communication,Hartaj Sanghara,38,70.8,72.0,68.0,75.0,82.0,46.0,2,0,0,1,4,8,14,7,2,0,0
+UBCV,2022,W,CPEN,291,,201,Computer Engineering Design Studio I,Farshid Agharebparast,111,86.0,88.0,83.0,90.0,95.0,55.0,0,0,1,0,1,2,2,8,23,40,34
+UBCV,2022,W,CPEN,311,,101,Digital Systems Design,Guy Lemieux,89,70.3,72.0,63.0,82.0,96.0,5.0,6,10,1,6,10,6,15,5,11,11,8
+UBCV,2022,W,CPEN,312,,201,Digital Systems and Microcomputers,Jesus Calvino-Fraga,178,81.0,83.0,75.0,90.0,100.0,0.0,3,3,1,7,4,14,16,14,32,38,46
+UBCV,2022,W,CPEN,322,,101,Software Construction II,Karthik Pattabiraman,137,74.3,76.0,69.0,81.0,100.0,22.0,5,2,4,4,10,13,26,25,34,7,7
+UBCV,2022,W,CPEN,331,,101,Operating Systems,Alexandra Fedorova,109,84.0,87.0,79.0,90.0,98.0,45.0,1,0,1,1,3,3,11,9,11,40,29
+UBCV,2022,W,CPEN,333,,101,System Software Engineering,Farshid Agharebparast,68,80.1,82.5,75.5,86.0,95.0,51.0,0,1,2,1,3,1,9,12,15,17,7
+UBCV,2022,W,CPEN,333,,201,System Software Engineering,Farshid Agharebparast,92,74.0,74.0,67.8,81.0,95.0,26.0,1,1,4,4,13,13,13,8,21,9,5
+UBCV,2022,W,CPEN,391,,201,Computer Engineering Design Studio II,Guy Lemieux,122,82.0,82.0,76.0,87.0,93.0,66.0,0,0,0,0,1,2,24,11,42,17,25
+UBCV,2022,W,CPEN,400,D,106,Topics in Computer Engineering,Scott Chin;Bradley Quinton,65,87.2,89.0,82.0,94.0,99.0,64.0,0,0,0,0,1,3,3,6,9,14,29
+UBCV,2022,W,CPEN,400,D,206,Topics in Computer Engineering,Renjie Liao,63,82.2,86.0,75.0,93.0,100.0,28.0,1,1,3,2,4,1,4,4,10,12,21
+UBCV,2022,W,CPEN,400,P,201,Topics in Computer Engineering,Karthik Pattabiraman,33,82.8,83.0,80.0,88.0,93.0,68.0,0,0,0,0,0,2,1,3,13,9,5
+UBCV,2022,W,CPEN,400,Q,202,Topics in Computer Engineering,Olivia Di Matteo,40,86.3,88.0,85.0,90.0,96.0,65.0,0,0,0,0,2,1,0,3,3,15,16
+UBCV,2022,W,CPEN,411,,101,Computer Architecture,Prashant Nair,74,77.5,81.0,68.5,85.8,95.0,39.0,1,0,3,6,6,6,4,6,16,19,7
+UBCV,2022,W,CPEN,412,,201,Microcomputer Systems Design,Yair Linn,63,88.8,93.0,89.0,96.0,100.0,3.0,3,0,0,0,0,0,1,4,2,10,43
+UBCV,2022,W,CPEN,431,,201,Design of Distributed Software Applications,Radu Ripeanu,48,84.3,86.5,80.0,89.3,97.0,68.0,0,0,0,0,0,3,3,5,10,15,12
+UBCV,2022,W,CPEN,441,,101,Human Computer Interfaces in Engineering Design,S Sidney Fels,55,81.7,81.0,77.0,87.5,94.0,68.0,0,0,0,0,0,5,6,10,13,11,10
+UBCV,2022,W,CPEN,442,,101,Introduction to Cybersecurity,Konstantin Beznosov,45,80.7,83.0,76.0,87.0,94.0,54.0,0,1,1,1,1,4,3,6,8,14,6
+UBCV,2022,W,CPEN,481,,101,Economic Analysis of Engineering Projects,Jeffrey Carmichael,29,71.7,74.0,65.0,77.0,87.0,57.0,0,0,2,5,3,2,7,4,5,1,0
+UBCV,2022,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Jeffrey Carmichael,56,76.0,77.0,72.8,80.3,86.0,50.0,0,2,0,1,3,3,11,15,18,3,0
+UBCV,2022,W,CPEN,491,F,001,Computer Engineering Capstone Design Project,Hamed Ahmadi;Pieter Botman;S Sidney Fels;Cristian Sorin Grecu;Andre Ivanov;Terry Lee;Paul Lusina;Panos Nasiopoulos;Joseph Yan,88,84.7,85.0,83.0,88.0,92.0,73.0,0,0,0,0,0,0,6,5,19,49,9
+UBCV,2022,W,CPEN,502,,101,Architecture for Learning Systems,Sarbjit Sarkaria,55,88.8,90.0,87.5,94.0,99.0,33.0,1,0,0,0,0,1,0,2,5,14,32
+UBCV,2022,W,CPEN,511,,201,Advanced Computer Architecture,Mieszko Lis,7,89.1,90.0,86.0,92.5,95.0,82.0,0,0,0,0,0,0,0,0,2,1,4
+UBCV,2022,W,CPEN,513,,201,CAD Algorithms for Integrated Circuits,Steven Wilton,10,93.2,95.0,92.3,97.0,98.0,80.0,0,0,0,0,0,0,0,0,1,1,8
+UBCV,2022,W,CPEN,523,,101,Software Project Management,Sathish Gopalakrishnan,15,91.1,91.0,89.0,93.5,95.0,85.0,0,0,0,0,0,0,0,0,0,5,10
+UBCV,2022,W,CPEN,542,,101,Cybersecurity,Konstantin Beznosov,13,78.2,81.0,67.0,86.0,98.0,62.0,0,0,0,2,2,1,0,1,2,3,2

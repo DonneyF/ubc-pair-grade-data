@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,SPHA,501,,001,Basic Finance,Steven Morgan;Nicholas Schnee,32,88.0,87.0,85.0,90.8,98.0,73.0,,,,,,,,,,17,10
-UBCV,2022,W,SPHA,502,,001,Managerial Accounting,Kyla Gunderson;Stephen Lee,30,93.1,92.0,90.0,96.0,99.0,89.0,,,,,,,,,,,29
-UBCV,2022,W,SPHA,510,,001,Canadian Health Policy and the Healthcare System,Steven Morgan,30,87.3,88.0,85.0,90.8,94.0,75.0,,,,,,,,,,11,12
-UBCV,2022,W,SPHA,511,,002,"Government, Business and Health Care Policy",Steven Morgan;Lynn Stevenson,33,88.6,90.0,87.0,91.0,94.0,80.0,,,,,,,,,,9,20
-UBCV,2022,W,SPHA,512,,002,Indigenous Health and Cultural Safety,Harmony Johnson,32,93.3,96.0,90.5,98.3,100.0,75.0,,,,,,,,,,,24
-UBCV,2022,W,SPHA,521,,002,Organizational Behavior,Dan Skarlicki,30,83.6,84.0,83.0,84.8,86.0,79.0,,,,,,,,,21,8,
-UBCV,2022,W,SPHA,531,,001,Economic Evaluation,Wei Zhang,32,89.1,91.0,85.8,92.0,94.0,79.0,,,,,,,,,6,,20
-UBCV,2022,W,SPHA,532,,002,Health Economics,Stirling Bryan;Michael Trenaman,31,85.9,85.0,83.0,89.0,96.0,77.0,,,,,,,,,11,11,8
+UBCV,2022,W,SPHA,501,,001,Basic Finance,Steven Morgan;Nicholas Schnee,32,88.0,87.0,85.0,90.8,98.0,73.0,0,0,0,0,0,0,1,0,4,17,10
+UBCV,2022,W,SPHA,502,,001,Managerial Accounting,Kyla Gunderson;Stephen Lee,30,93.1,92.0,90.0,96.0,99.0,89.0,0,0,0,0,0,0,0,0,0,1,29
+UBCV,2022,W,SPHA,510,,001,Canadian Health Policy and the Healthcare System,Steven Morgan,30,87.3,88.0,85.0,90.8,94.0,75.0,0,0,0,0,0,0,1,1,5,11,12
+UBCV,2022,W,SPHA,511,,002,"Government, Business and Health Care Policy",Steven Morgan;Lynn Stevenson,33,88.6,90.0,87.0,91.0,94.0,80.0,0,0,0,0,0,0,0,0,4,9,20
+UBCV,2022,W,SPHA,512,,002,Indigenous Health and Cultural Safety,Harmony Johnson,32,93.3,96.0,90.5,98.3,100.0,75.0,0,0,0,0,0,0,1,1,2,4,24
+UBCV,2022,W,SPHA,521,,002,Organizational Behavior,Dan Skarlicki,30,83.6,84.0,83.0,84.8,86.0,79.0,0,0,0,0,0,0,0,1,21,8,0
+UBCV,2022,W,SPHA,531,,001,Economic Evaluation,Wei Zhang,32,89.1,91.0,85.8,92.0,94.0,79.0,0,0,0,0,0,0,0,1,6,5,20
+UBCV,2022,W,SPHA,532,,002,Health Economics,Stirling Bryan;Michael Trenaman,31,85.9,85.0,83.0,89.0,96.0,77.0,0,0,0,0,0,0,0,1,11,11,8
 UBCV,2022,W,SPHA,533,,002,Health Care Priority Setting,Craig Mitton;Stuart Peacock,28,90.8,91.0,89.8,92.0,95.0,86.0,0,0,0,0,0,0,0,0,0,7,21
-UBCV,2022,W,SPHA,542,,002,Operations and Logistics,Nicholas Bansback,32,86.6,87.0,84.0,89.3,92.0,72.0,,,,,,,,,8,15,8
-UBCV,2022,W,SPHA,543,,001,Information Technology for Management,Megan Joy Stowe,31,92.6,93.0,91.0,94.0,96.0,89.0,,,,,,,,,,,30
-UBCV,2022,W,SPHA,551,,002,Design and Measurement 1,Chris Richardson,30,93.2,94.0,90.5,96.8,99.0,78.0,,,,,,,,,,,25
-UBCV,2022,W,SPHA,553,,001,Program Planning and Evaluation,Mary Snow,31,89.0,90.0,87.0,92.0,96.0,73.0,,,,,,,,,,12,16
-UBCV,2022,W,SPHA,554,,002,Application of Statistics in Management,Michael Marin,29,82.3,90.0,83.0,93.0,96.0,0.0,,,,,,,,,,,16
-UBCV,2022,W,SPHA,555,,002,Biostatistics,Michael Marin,32,86.8,89.0,84.5,93.0,98.0,62.0,,,,,,,,,,8,16
-UBCV,2022,W,SPHA,556,,001,Social Determinants of Health,Kathleen Deering;Anita Minh,31,88.0,88.0,87.0,90.0,92.0,83.0,,,,,,,,,,19,10
+UBCV,2022,W,SPHA,542,,002,Operations and Logistics,Nicholas Bansback,32,86.6,87.0,84.0,89.3,92.0,72.0,0,0,0,0,0,0,1,0,8,15,8
+UBCV,2022,W,SPHA,543,,001,Information Technology for Management,Megan Joy Stowe,31,92.6,93.0,91.0,94.0,96.0,89.0,0,0,0,0,0,0,0,0,0,1,30
+UBCV,2022,W,SPHA,551,,002,Design and Measurement 1,Chris Richardson,30,93.2,94.0,90.5,96.8,99.0,78.0,0,0,0,0,0,0,0,1,0,4,25
+UBCV,2022,W,SPHA,553,,001,Program Planning and Evaluation,Mary Snow,31,89.0,90.0,87.0,92.0,96.0,73.0,0,0,0,0,0,0,1,1,1,12,16
+UBCV,2022,W,SPHA,554,,002,Application of Statistics in Management,Michael Marin,29,82.3,90.0,83.0,93.0,96.0,0.0,2,0,0,0,1,0,0,1,4,5,16
+UBCV,2022,W,SPHA,555,,002,Biostatistics,Michael Marin,32,86.8,89.0,84.5,93.0,98.0,62.0,0,0,0,1,1,0,2,1,3,8,16
+UBCV,2022,W,SPHA,556,,001,Social Determinants of Health,Kathleen Deering;Anita Minh,31,88.0,88.0,87.0,90.0,92.0,83.0,0,0,0,0,0,0,0,0,2,19,10
 UBCV,2022,W,SPHA,580,B,001,Selected Topics,Jennifer Duff;Sarah Munro,30,95.7,96.0,95.0,97.0,98.0,92.0,0,0,0,0,0,0,0,0,0,0,30

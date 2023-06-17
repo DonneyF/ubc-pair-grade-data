@@ -1,25 +1,29 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,COMR,100,,201,Introduction to Business,Zorana Svedic,129,74.1,80.0,70.0,85.0,96.0,0.0,9,8,,,,7,14,14,29,23,15
-UBCV,2022,W,COMR,280,,104,Entrepreneurship,Matthew Wong,40,77.0,78.5,73.0,82.3,89.0,55.0,,,,,,6,,12,8,6,
-UBCV,2022,W,COMR,329,,101,Principles of Organizational Behaviour,Ronald Timothy Cenfetelli,112,76.5,76.0,69.8,84.0,99.0,50.0,,,6,,8,15,15,16,21,10,14
-UBCV,2022,W,COMR,329,,102,Principles of Organizational Behaviour,Ronald Timothy Cenfetelli,50,76.9,77.5,70.0,82.0,100.0,52.0,,,,,,,7,10,6,,7
-UBCV,2022,W,COMR,329,,103,Principles of Organizational Behaviour,Sandra Robinson,35,76.1,77.0,65.0,86.0,96.0,56.0,,,,,,,,,,,6
-UBCV,2022,W,COMR,329,,202,Principles of Organizational Behaviour,Tracey Gurton,37,76.2,76.0,72.0,83.0,90.0,58.0,,,,,,,9,,8,,
-UBCV,2022,W,COMR,398,,101,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,53,74.7,73.0,68.0,81.0,95.0,51.0,,,,,7,8,9,,10,,
+UBCV,2022,W,COMR,100,,201,Introduction to Business,Zorana Svedic,129,74.1,80.0,70.0,85.0,96.0,0.0,9,8,3,4,3,7,14,14,29,23,15
+UBCV,2022,W,COMR,280,,104,Entrepreneurship,Matthew Wong,40,77.0,78.5,73.0,82.3,89.0,55.0,0,0,2,1,0,6,5,12,8,6,0
+UBCV,2022,W,COMR,329,,101,Principles of Organizational Behaviour,Ronald Timothy Cenfetelli,112,76.5,76.0,69.8,84.0,99.0,50.0,0,4,6,3,8,15,15,16,21,10,14
+UBCV,2022,W,COMR,329,,102,Principles of Organizational Behaviour,Ronald Timothy Cenfetelli,50,76.9,77.5,70.0,82.0,100.0,52.0,0,1,2,3,4,5,7,10,6,5,7
+UBCV,2022,W,COMR,329,,103,Principles of Organizational Behaviour,Sandra Robinson,35,76.1,77.0,65.0,86.0,96.0,56.0,0,0,1,5,4,5,1,5,4,4,6
+UBCV,2022,W,COMR,329,,201,Principles of Organizational Behaviour,Tracey Gurton,94,75.3,76.0,69.0,83.8,95.0,3.0,2,1,1,6,3,17,11,16,18,9,10
+UBCV,2022,W,COMR,329,,202,Principles of Organizational Behaviour,Tracey Gurton,37,76.2,76.0,72.0,83.0,90.0,58.0,0,0,2,1,2,4,9,5,8,4,2
+UBCV,2022,W,COMR,398,,101,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,53,74.7,73.0,68.0,81.0,95.0,51.0,0,1,0,4,7,8,9,4,10,5,5
+UBCV,2022,W,COMR,398,,201,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,54,71.9,71.0,60.3,84.0,93.0,40.0,2,4,6,4,4,7,4,1,8,4,10
+UBCV,2022,W,COMR,398,,202,Introduction to Business Processes and Operations,Woonghee Tim Huh;Mahesh Nagarajan,54,74.4,76.0,66.5,84.5,95.0,40.0,1,2,2,2,7,6,5,9,6,10,4
 UBCV,2022,W,COMR,457,,101,Fundamentals of Financial Accounting,Scott Sinclair,99,73.1,76.0,63.0,83.0,100.0,12.0,5,6,10,6,8,7,6,12,15,8,16
 UBCV,2022,W,COMR,457,,102,Fundamentals of Financial Accounting,Scott Sinclair,190,73.0,73.5,64.0,87.0,100.0,0.0,14,12,13,8,16,23,16,16,17,18,37
-UBCV,2022,W,COMR,457,,201,Fundamentals of Financial Accounting,Scott Sinclair,52,70.7,74.0,61.8,84.3,94.0,24.0,8,,,7,,,6,,8,9,
-UBCV,2022,W,COMR,458,,201,Fundamentals of Managerial Accounting,Mary Chong,61,73.1,76.0,65.0,85.0,97.0,0.0,,6,,,,7,6,,10,,14
-UBCV,2022,W,COMR,465,,101,Marketing Management,Jarrett Vaughan,41,74.4,75.0,70.0,79.0,89.0,54.0,,,,,,9,10,9,,,
-UBCV,2022,W,COMR,465,,102,Marketing Management,Phaedra Burke,36,76.0,76.0,70.5,82.0,91.0,57.0,,,,,,,,6,9,,
-UBCV,2022,W,COMR,465,,202,Marketing Management,Rui Jorge Basto Da Silva,106,79.0,80.5,75.3,84.8,94.0,38.0,,,,,,,15,22,30,20,7
-UBCV,2022,W,COMR,465,,203,Marketing Management,Jarrett Vaughan,40,74.7,74.5,69.0,78.3,87.0,60.0,,,,,6,,9,10,,,
-UBCV,2022,W,COMR,473,,101,Business Finance,Darren Degraaf,39,72.3,70.0,61.0,89.0,98.0,33.0,,,,7,,,,,,,9
-UBCV,2022,W,COMR,473,,102,Business Finance,Caren Lombard,48,72.3,72.5,64.8,82.3,98.0,44.0,,7,,,8,,6,,,,8
-UBCV,2022,W,COMR,473,,201,Business Finance,Darren Degraaf,76,72.8,77.5,59.8,85.0,96.0,27.0,,,9,,,8,,,15,12,9
-UBCV,2022,W,COMR,473,,202,Business Finance,Caren Lombard,41,71.6,72.0,66.0,83.0,99.0,0.0,,,,,,7,,6,,,7
-UBCV,2022,W,COMR,493,,101,Strategic Management in Business,Ekaterina Khmelnitskaya,34,78.3,78.0,76.0,81.5,88.0,68.0,,,,,,,,13,9,,
-UBCV,2022,W,COMR,493,,102,Strategic Management in Business,Ekaterina Khmelnitskaya,35,77.2,76.0,73.5,80.5,89.0,66.0,,,,,,,10,8,10,,
-UBCV,2022,W,COMR,493,,201,Strategic Management in Business,Limin Fang,33,79.5,81.0,74.0,86.0,93.0,61.0,,,,,,,,,,10,
-UBCV,2022,W,COMR,493,,202,Strategic Management in Business,Limin Fang,43,79.1,81.0,77.0,85.0,96.0,0.0,,,,,,,,6,15,8,6
-UBCV,2022,W,COMR,493,,203,Strategic Management in Business,Limin Fang,30,81.8,82.0,78.5,86.8,94.0,57.0,,,,,,,,,9,7,6
+UBCV,2022,W,COMR,457,,201,Fundamentals of Financial Accounting,Scott Sinclair,52,70.7,74.0,61.8,84.3,94.0,24.0,8,0,1,7,3,3,6,3,8,9,4
+UBCV,2022,W,COMR,458,,201,Fundamentals of Managerial Accounting,Mary Chong,61,73.1,76.0,65.0,85.0,97.0,0.0,3,6,3,2,3,7,6,3,10,4,14
+UBCV,2022,W,COMR,465,,101,Marketing Management,Jarrett Vaughan,41,74.4,75.0,70.0,79.0,89.0,54.0,0,1,0,0,4,9,10,9,5,3,0
+UBCV,2022,W,COMR,465,,102,Marketing Management,Phaedra Burke,36,76.0,76.0,70.5,82.0,91.0,57.0,0,0,2,3,2,3,5,6,9,4,2
+UBCV,2022,W,COMR,465,,201,Marketing Management,Rui Jorge Basto Da Silva,60,81.0,83.5,76.8,88.0,98.0,51.0,0,1,2,1,2,2,5,6,13,21,7
+UBCV,2022,W,COMR,465,,202,Marketing Management,Rui Jorge Basto Da Silva,106,79.0,80.5,75.3,84.8,94.0,38.0,2,0,1,1,3,5,15,22,30,20,7
+UBCV,2022,W,COMR,465,,203,Marketing Management,Jarrett Vaughan,40,74.7,74.5,69.0,78.3,87.0,60.0,0,0,0,1,6,5,9,10,4,5,0
+UBCV,2022,W,COMR,473,,101,Business Finance,Darren Degraaf,39,72.3,70.0,61.0,89.0,98.0,33.0,3,3,2,7,2,5,1,1,1,5,9
+UBCV,2022,W,COMR,473,,102,Business Finance,Caren Lombard,48,72.3,72.5,64.8,82.3,98.0,44.0,1,7,1,2,8,5,6,3,4,3,8
+UBCV,2022,W,COMR,473,,201,Business Finance,Darren Degraaf,76,72.8,77.5,59.8,85.0,96.0,27.0,5,5,9,2,5,8,2,4,15,12,9
+UBCV,2022,W,COMR,473,,202,Business Finance,Caren Lombard,41,71.6,72.0,66.0,83.0,99.0,0.0,3,2,2,2,3,7,5,6,1,3,7
+UBCV,2022,W,COMR,493,,101,Strategic Management in Business,Ekaterina Khmelnitskaya,34,78.3,78.0,76.0,81.5,88.0,68.0,0,0,0,0,0,3,5,13,9,4,0
+UBCV,2022,W,COMR,493,,102,Strategic Management in Business,Ekaterina Khmelnitskaya,35,77.2,76.0,73.5,80.5,89.0,66.0,0,0,0,0,1,3,10,8,10,3,0
+UBCV,2022,W,COMR,493,,201,Strategic Management in Business,Limin Fang,33,79.5,81.0,74.0,86.0,93.0,61.0,0,0,0,1,2,4,3,4,5,10,4
+UBCV,2022,W,COMR,493,,202,Strategic Management in Business,Limin Fang,43,79.1,81.0,77.0,85.0,96.0,0.0,1,0,0,1,0,4,2,6,15,8,6
+UBCV,2022,W,COMR,493,,203,Strategic Management in Business,Limin Fang,30,81.8,82.0,78.5,86.8,94.0,57.0,0,0,1,0,1,1,3,2,9,7,6

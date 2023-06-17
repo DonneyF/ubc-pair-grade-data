@@ -1,21 +1,21 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2022,W,CRWR,150,,001,Introduction to Writing Poetry and Non-Fiction,Matthew Lee Rader,88,83.4,87.0,82.0,91.0,96.0,15.0,,,,,,,,,15,27,30
-UBCO,2022,W,CRWR,150,,002,Introduction to Writing Poetry and Non-Fiction,Cole Mash,84,85.1,87.0,80.0,92.0,98.0,1.0,,,,,,,,9,15,17,34
-UBCO,2022,W,CRWR,160,,001,Introduction to Writing Fiction and Drama,Kevin Chong,86,74.3,76.0,68.0,82.8,92.0,25.0,,,,,8,8,14,9,19,11,
-UBCO,2022,W,CRWR,160,,002,Introduction to Writing Fiction and Drama,Adam Schroeder,80,77.9,80.0,76.0,86.0,97.0,12.0,,,,,,6,,17,18,17,9
-UBCO,2022,W,CRWR,160,,101,Introduction to Writing Fiction and Drama,Kevin Chong,90,78.2,80.0,72.5,86.0,95.0,34.0,,,,,6,6,9,13,24,13,12
-UBCO,2022,W,CRWR,210,,001,The Power of Story,Michael Smith,46,77.8,84.5,73.0,89.0,95.0,30.0,,,,,,,,,,12,11
-UBCO,2022,W,CRWR,216,,001,Intermediate Workshop in Creative Writing: Poetry,Michael Smith,24,77.6,81.5,75.8,86.3,90.0,0.0,,,,,,,,,6,7,
-UBCO,2022,W,CRWR,217,,001,Intermediate Workshop in Creative Writing: Fiction,Nick Tooke,22,79.4,80.0,76.0,84.5,86.0,68.0,,,,,,,,,7,6,
-UBCO,2022,W,CRWR,219,,001,Intermediate Workshop in Creative Writing: Non-Fiction,Kevin Chong,23,83.0,84.0,80.0,90.5,94.0,52.0,,,,,,,,,6,,7
-UBCO,2022,W,CRWR,250,,001,Workshop in Creative Writing: Screenwriting,Jessica Bradford,35,89.7,94.0,89.0,96.0,98.0,44.0,,,,,,,,,,,25
-UBCO,2022,W,CRWR,260,,001,Theory and Practice of Creative Writing,Matthew Lee Rader,25,86.9,89.0,86.0,91.0,94.0,67.0,,,,,,,,,,8,11
-UBCO,2022,W,CRWR,380,,001,Writing of the Short Story,Adam Schroeder,16,88.9,90.0,87.0,92.0,98.0,70.0,,,,,,,,,,,10
-UBCO,2022,W,CRWR,381,A,001,Writing of Poetry,Matthew Lee Rader,11,77.3,82.0,75.0,83.0,93.0,47.0,,,,,,,,,,,
-UBCO,2022,W,CRWR,384,,001,Spoken Word,Cole Mash,13,94.7,94.0,92.0,98.0,98.0,89.0,,,,,,,,,,,12
-UBCO,2022,W,CRWR,470,C,001,Portfolio,Anne Fleming,11,84.5,86.0,84.5,88.5,92.0,64.0,,,,,,,,,,6,
-UBCO,2022,W,CRWR,471,,001,Writing of the Novel,Anne Fleming,15,81.8,86.0,76.0,91.0,95.0,51.0,,,,,,,,,,,
-UBCO,2022,W,CRWR,473,,001,Writing and Community Learning,Chantal Bilodeau,8,92.8,98.0,90.3,100.0,100.0,69.0,,,,,,,,,,,6
-UBCO,2022,W,CRWR,474,,001,Writing with Media,Michael Smith,9,81.2,85.0,82.0,88.0,90.0,44.0,,,,,,,,,,,
-UBCO,2022,W,CRWR,475,,001,Preparing for a Career as a Writer,Kevin Chong,13,86.3,90.0,88.0,92.0,94.0,56.0,,,,,,,,,,,8
-UBCO,2022,W,CRWR,582,A,001,Graduate Workshop in Creative Writing- Narrative,Michael Smith,13,92.0,92.0,91.0,94.0,95.0,87.0,,,,,,,,,,,11
+UBCO,2022,W,CRWR,150,,001,Introduction to Writing Poetry and Non-Fiction,Matthew Lee Rader,88,83.4,87.0,82.0,91.0,96.0,15.0,3,0,1,1,2,3,4,2,15,27,30
+UBCO,2022,W,CRWR,150,,002,Introduction to Writing Poetry and Non-Fiction,Cole Mash,84,85.1,87.0,80.0,92.0,98.0,1.0,1,0,0,1,0,2,5,9,15,17,34
+UBCO,2022,W,CRWR,160,,001,Introduction to Writing Fiction and Drama,Kevin Chong,86,74.3,76.0,68.0,82.8,92.0,25.0,3,3,4,2,8,8,14,9,19,11,5
+UBCO,2022,W,CRWR,160,,002,Introduction to Writing Fiction and Drama,Adam Schroeder,80,77.9,80.0,76.0,86.0,97.0,12.0,3,1,2,2,1,6,4,17,18,17,9
+UBCO,2022,W,CRWR,160,,101,Introduction to Writing Fiction and Drama,Kevin Chong,90,78.2,80.0,72.5,86.0,95.0,34.0,2,1,3,1,6,6,9,13,24,13,12
+UBCO,2022,W,CRWR,210,,001,The Power of Story,Michael Smith,46,77.8,84.5,73.0,89.0,95.0,30.0,3,0,4,2,1,1,4,4,4,12,11
+UBCO,2022,W,CRWR,216,,001,Intermediate Workshop in Creative Writing: Poetry,Michael Smith,24,77.6,81.5,75.8,86.3,90.0,0.0,1,0,0,0,1,0,4,4,6,7,1
+UBCO,2022,W,CRWR,217,,001,Intermediate Workshop in Creative Writing: Fiction,Nick Tooke,22,79.4,80.0,76.0,84.5,86.0,68.0,0,0,0,0,0,1,4,4,7,6,0
+UBCO,2022,W,CRWR,219,,001,Intermediate Workshop in Creative Writing: Non-Fiction,Kevin Chong,23,83.0,84.0,80.0,90.5,94.0,52.0,0,1,0,0,1,1,1,2,6,4,7
+UBCO,2022,W,CRWR,250,,001,Workshop in Creative Writing: Screenwriting,Jessica Bradford,35,89.7,94.0,89.0,96.0,98.0,44.0,1,0,1,0,0,0,0,3,2,3,25
+UBCO,2022,W,CRWR,260,,001,Theory and Practice of Creative Writing,Matthew Lee Rader,25,86.9,89.0,86.0,91.0,94.0,67.0,0,0,0,0,2,0,0,0,4,8,11
+UBCO,2022,W,CRWR,380,,001,Writing of the Short Story,Adam Schroeder,16,88.9,90.0,87.0,92.0,98.0,70.0,0,0,0,0,0,1,0,0,2,3,10
+UBCO,2022,W,CRWR,381,A,001,Writing of Poetry,Matthew Lee Rader,11,77.3,82.0,75.0,83.0,93.0,47.0,1,0,0,0,1,0,1,1,5,1,1
+UBCO,2022,W,CRWR,384,,001,Spoken Word,Cole Mash,13,94.7,94.0,92.0,98.0,98.0,89.0,0,0,0,0,0,0,0,0,0,1,12
+UBCO,2022,W,CRWR,470,C,001,Portfolio,Anne Fleming,11,84.5,86.0,84.5,88.5,92.0,64.0,0,0,0,0,1,0,0,1,1,6,2
+UBCO,2022,W,CRWR,471,,001,Writing of the Novel,Anne Fleming,15,81.8,86.0,76.0,91.0,95.0,51.0,0,1,0,1,0,1,1,1,1,4,5
+UBCO,2022,W,CRWR,473,,001,Writing and Community Learning,Chantal Bilodeau,8,92.8,98.0,90.3,100.0,100.0,69.0,0,0,0,0,0,1,0,0,0,1,6
+UBCO,2022,W,CRWR,474,,001,Writing with Media,Michael Smith,9,81.2,85.0,82.0,88.0,90.0,44.0,1,0,0,0,0,0,0,0,3,3,2
+UBCO,2022,W,CRWR,475,,001,Preparing for a Career as a Writer,Kevin Chong,13,86.3,90.0,88.0,92.0,94.0,56.0,0,0,1,0,0,0,1,0,1,2,8
+UBCO,2022,W,CRWR,582,A,001,Graduate Workshop in Creative Writing- Narrative,Michael Smith,13,92.0,92.0,91.0,94.0,95.0,87.0,0,0,0,0,0,0,0,0,0,2,11

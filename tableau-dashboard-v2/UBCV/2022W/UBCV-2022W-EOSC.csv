@@ -1,92 +1,99 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,EOSC,110,,101,The Solid Earth: A Dynamic Planet,Brett Gilley;Lucy Porritt;James Kelly Russell;David Sasse,118,71.7,72.0,68.0,80.8,94.0,9.0,,,9,,7,24,17,12,15,14,7
-UBCV,2022,W,EOSC,110,,V01,The Solid Earth: A Dynamic Planet,Shandin Pete,71,77.1,79.0,75.0,83.0,92.0,25.0,,,,,,6,,18,21,11,
-UBCV,2022,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Philippe Tortell,20,92.8,93.5,90.8,96.0,97.0,85.0,,,,,,,,,,,16
-UBCV,2022,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Philippe Tortell,28,91.1,92.5,90.0,94.0,98.0,69.0,,,,,,,,,,,22
-UBCV,2022,W,EOSC,111,,L1C,Laboratory Exploration of Planet Earth,Philippe Tortell,26,93.0,93.5,91.0,97.0,98.0,80.0,,,,,,,,,,,22
-UBCV,2022,W,EOSC,111,,L1D,Laboratory Exploration of Planet Earth,Philippe Tortell,30,87.7,92.5,81.3,94.0,98.0,66.0,,,,,,,,,,,17
-UBCV,2022,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Philippe Tortell,28,87.9,90.0,87.0,94.3,98.0,66.0,,,,,,,,,,,16
-UBCV,2022,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Philippe Tortell,29,85.6,88.0,82.0,92.0,98.0,61.0,,,,,,,,,,7,14
-UBCV,2022,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Philippe Tortell,28,80.9,90.5,85.0,94.3,97.0,0.0,,,,,,,,,,,16
-UBCV,2022,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Philippe Tortell,27,85.9,88.0,81.0,93.0,98.0,60.0,,,,,,,,,,6,13
-UBCV,2022,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Philippe Tortell,30,87.2,87.5,83.3,91.5,95.0,78.0,,,,,,,,,8,10,10
-UBCV,2022,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Philippe Tortell,28,88.8,92.0,89.8,93.0,96.0,59.0,,,,,,,,,,,21
-UBCV,2022,W,EOSC,114,,99A,The Catastrophic Earth: Natural Disasters,Leah May Ver,180,66.8,73.5,63.5,80.0,92.0,0.0,23,7,,10,,21,30,23,41,12,
-UBCV,2022,W,EOSC,114,,99C,The Catastrophic Earth: Natural Disasters,Leah May Ver,244,70.9,76.0,68.0,83.0,93.0,0.0,28,,,8,7,24,34,34,46,36,19
-UBCV,2022,W,EOSC,114,,101,The Catastrophic Earth: Natural Disasters,Mitchall Darcy;Maria Maldonado-Pareja;Lucy Porritt;James Kelly Russell;Matthijs Smit;Roland Stull,106,73.1,75.5,68.0,81.0,92.0,10.0,,,,11,6,12,15,11,21,12,9
-UBCV,2022,W,EOSC,114,,102,The Catastrophic Earth: Natural Disasters,Mitchall Darcy;Maria Maldonado-Pareja;Lucy Porritt;James Kelly Russell;Matthijs Smit;Roland Stull,182,76.3,77.0,70.0,85.0,95.0,23.0,,,,7,16,24,31,21,30,28,19
-UBCV,2022,W,EOSC,114,,201,The Catastrophic Earth: Natural Disasters,Brett Gilley;Maria Maldonado-Pareja;Douglas Mccollor;Lucy Porritt;James Kelly Russell;Leah May Ver,178,75.7,77.0,68.0,85.0,96.0,11.0,6,,,9,13,15,18,29,26,27,26
-UBCV,2022,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Brett Gilley;Maria Maldonado-Pareja;Douglas Mccollor;Lucy Porritt;James Kelly Russell;Leah May Ver,197,75.8,78.0,68.0,85.0,95.0,8.0,,,10,12,15,17,19,21,33,37,26
-UBCV,2022,W,EOSC,116,,99A,Mesozoic Earth: Time of the Dinosaurs.,Louise Longridge,195,74.6,80.0,71.0,86.0,95.0,0.0,19,,,,10,8,25,16,36,29,37
+UBCV,2022,W,EOSC,110,,101,The Solid Earth: A Dynamic Planet,Brett Gilley;Lucy Porritt;James Kelly Russell;David Sasse,118,71.7,72.0,68.0,80.8,94.0,9.0,5,3,9,5,7,24,17,12,15,14,7
+UBCV,2022,W,EOSC,110,,201,The Solid Earth: A Dynamic Planet,Brett Gilley;Laura Lukes,145,73.5,77.0,69.0,83.0,98.0,1.0,6,6,8,6,8,12,19,28,23,17,12
+UBCV,2022,W,EOSC,110,,V01,The Solid Earth: A Dynamic Planet,Shandin Pete,71,77.1,79.0,75.0,83.0,92.0,25.0,2,0,2,2,2,6,5,18,21,11,2
+UBCV,2022,W,EOSC,111,,L1A,Laboratory Exploration of Planet Earth,Philippe Tortell,20,92.8,93.5,90.8,96.0,97.0,85.0,0,0,0,0,0,0,0,0,0,4,16
+UBCV,2022,W,EOSC,111,,L1B,Laboratory Exploration of Planet Earth,Philippe Tortell,28,91.1,92.5,90.0,94.0,98.0,69.0,0,0,0,0,0,1,0,1,1,3,22
+UBCV,2022,W,EOSC,111,,L1C,Laboratory Exploration of Planet Earth,Philippe Tortell,26,93.0,93.5,91.0,97.0,98.0,80.0,0,0,0,0,0,0,0,0,1,3,22
+UBCV,2022,W,EOSC,111,,L1D,Laboratory Exploration of Planet Earth,Philippe Tortell,30,87.7,92.5,81.3,94.0,98.0,66.0,0,0,0,0,1,0,5,1,3,3,17
+UBCV,2022,W,EOSC,111,,L1E,Laboratory Exploration of Planet Earth,Philippe Tortell,28,87.9,90.0,87.0,94.3,98.0,66.0,0,0,0,0,1,1,2,1,2,5,16
+UBCV,2022,W,EOSC,111,,L2A,Laboratory Exploration of Planet Earth,Philippe Tortell,29,85.6,88.0,82.0,92.0,98.0,61.0,0,0,0,1,1,3,0,2,1,7,14
+UBCV,2022,W,EOSC,111,,L2B,Laboratory Exploration of Planet Earth,Philippe Tortell,28,80.9,90.5,85.0,94.3,97.0,0.0,4,0,0,0,1,0,0,1,1,5,16
+UBCV,2022,W,EOSC,111,,L2C,Laboratory Exploration of Planet Earth,Philippe Tortell,27,85.9,88.0,81.0,93.0,98.0,60.0,0,0,0,1,0,2,2,2,1,6,13
+UBCV,2022,W,EOSC,111,,L2D,Laboratory Exploration of Planet Earth,Philippe Tortell,30,87.2,87.5,83.3,91.5,95.0,78.0,0,0,0,0,0,0,0,2,8,10,10
+UBCV,2022,W,EOSC,111,,L2E,Laboratory Exploration of Planet Earth,Philippe Tortell,28,88.8,92.0,89.8,93.0,96.0,59.0,0,0,1,0,0,0,2,0,2,2,21
+UBCV,2022,W,EOSC,112,,101,The Fluid Earth: Atmosphere and Ocean,Sean Crowe;Maria Maldonado-Pareja;Anais Orsi,106,76.6,80.5,68.0,89.0,98.0,0.0,5,2,8,4,6,8,10,6,14,20,23
+UBCV,2022,W,EOSC,112,,201,The Fluid Earth: Atmosphere and Ocean,Roger Francois,103,70.0,72.0,59.5,83.5,99.0,0.0,10,10,6,4,7,13,8,12,8,9,16
+UBCV,2022,W,EOSC,114,,99A,The Catastrophic Earth: Natural Disasters,Leah May Ver,180,66.8,73.5,63.5,80.0,92.0,0.0,23,7,5,10,4,21,30,23,41,12,4
+UBCV,2022,W,EOSC,114,,99C,The Catastrophic Earth: Natural Disasters,Leah May Ver,244,70.9,76.0,68.0,83.0,93.0,0.0,28,4,4,8,7,24,34,34,46,36,19
+UBCV,2022,W,EOSC,114,,101,The Catastrophic Earth: Natural Disasters,Mitchall Darcy;Maria Maldonado-Pareja;Lucy Porritt;James Kelly Russell;Matthijs Smit;Roland Stull,106,73.1,75.5,68.0,81.0,92.0,10.0,3,3,3,11,6,12,15,11,21,12,9
+UBCV,2022,W,EOSC,114,,102,The Catastrophic Earth: Natural Disasters,Mitchall Darcy;Maria Maldonado-Pareja;Lucy Porritt;James Kelly Russell;Matthijs Smit;Roland Stull,182,76.3,77.0,70.0,85.0,95.0,23.0,2,1,3,7,16,24,31,21,30,28,19
+UBCV,2022,W,EOSC,114,,201,The Catastrophic Earth: Natural Disasters,Brett Gilley;Maria Maldonado-Pareja;Douglas Mccollor;Lucy Porritt;James Kelly Russell;Leah May Ver,178,75.7,77.0,68.0,85.0,96.0,11.0,6,4,5,9,13,15,18,29,26,27,26
+UBCV,2022,W,EOSC,114,,202,The Catastrophic Earth: Natural Disasters,Brett Gilley;Maria Maldonado-Pareja;Douglas Mccollor;Lucy Porritt;James Kelly Russell;Leah May Ver,197,75.8,78.0,68.0,85.0,95.0,8.0,4,3,10,12,15,17,19,21,33,37,26
+UBCV,2022,W,EOSC,116,,99A,Mesozoic Earth: Time of the Dinosaurs.,Louise Longridge,195,74.6,80.0,71.0,86.0,95.0,0.0,19,5,5,5,10,8,25,16,36,29,37
+UBCV,2022,W,EOSC,116,,99C,Mesozoic Earth: Time of the Dinosaurs.,Louise Longridge,345,73.6,80.0,71.0,86.0,98.0,0.0,39,6,6,4,12,26,35,36,70,55,56
 UBCV,2022,W,EOSC,116,,201,Mesozoic Earth: Time of the Dinosaurs.,Stuart Sutherland,154,74.3,76.5,66.0,86.0,99.0,0.0,6,7,12,6,14,11,17,11,23,19,28
 UBCV,2022,W,EOSC,118,,99A,Earth's Treasures: Gold and Gems,Robert James Evans,273,77.3,79.0,71.0,86.0,94.0,35.0,6,6,6,10,17,29,36,29,47,60,27
-UBCV,2022,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Robert James Evans,314,77.3,81.0,72.3,87.0,97.0,0.0,16,,9,,21,22,35,26,64,68,47
-UBCV,2022,W,EOSC,210,,101,Earth Science for Engineers,Erik Eberhardt;Susan Hollingshead,223,72.3,73.0,65.0,79.0,94.0,43.0,,,17,20,25,25,46,26,23,21,11
-UBCV,2022,W,EOSC,211,,101,"Computer Methods in Earth, Ocean and Atmospheric Sciences",Catherine Johnson,109,82.0,84.0,77.0,90.0,98.0,15.0,,,,,,,10,10,22,21,31
-UBCV,2022,W,EOSC,212,,101,Topics in the Earth and Planetary Sciences.,Andrew Jellinek,52,81.6,83.0,76.0,90.0,98.0,43.0,,,,,,,6,8,8,10,14
-UBCV,2022,W,EOSC,213,,201,Computational Methods in Geological Engineering,Eldad Haber,27,65.4,66.0,55.0,75.0,99.0,0.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,220,,101,Introductory Mineralogy,Lucy Porritt,63,72.6,72.0,65.5,81.5,94.0,23.0,,,,,7,9,8,,11,6,7
-UBCV,2022,W,EOSC,221,,201,Introductory Petrology,Maya Kopylova;Stuart Sutherland,54,73.9,74.0,67.0,85.8,91.0,41.0,,,,,6,8,8,,,11,
-UBCV,2022,W,EOSC,222,,201,Geological Time and Stratigraphy,Stuart Sutherland,50,76.5,81.0,69.3,87.8,99.0,25.0,,,,,,,,,10,8,9
-UBCV,2022,W,EOSC,223,,201,Field Techniques,Mitchall Darcy;Alexander Paul Hughes;Simon Peacock;Lucy Porritt;Joel Edward Saylor,43,75.7,75.0,71.5,81.0,92.0,43.0,,,,,,8,12,7,8,,
-UBCV,2022,W,EOSC,240,,201,Site Investigation,Susan Hollingshead;Jason Yeung,23,79.9,80.0,76.5,85.0,94.0,57.0,,,,,,,,,6,,
-UBCV,2022,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof,8,75.0,78.5,71.8,81.5,90.0,52.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,270,,201,Marine Ecosystems,Brian Hunt,62,78.9,83.5,73.5,87.0,92.0,26.0,,,,,,,,,21,16,8
-UBCV,2022,W,EOSC,310,,99A,The Earth and the Solar System,Kirsten Hodge;S.M. Talha Qadri,93,72.4,76.0,69.0,84.0,94.0,0.0,6,,6,,7,10,14,11,15,13,8
-UBCV,2022,W,EOSC,310,,99C,The Earth and the Solar System,S.M. Talha Qadri,128,70.8,79.5,69.0,87.0,95.0,0.0,17,,,,,9,17,11,19,24,21
-UBCV,2022,W,EOSC,314,,99A,The Ocean Environment,Leah May Ver,43,69.4,73.0,65.0,76.0,90.0,36.0,,,,,,,12,8,,,
-UBCV,2022,W,EOSC,314,,201,The Ocean Environment,Leah May Ver,12,83.4,86.5,80.3,90.5,94.0,52.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,315,,99C,The Ocean Ecosystem,Michael Lipsen,101,76.9,77.0,72.0,87.0,95.0,35.0,,,,,7,6,10,25,12,15,17
-UBCV,2022,W,EOSC,315,,101,The Ocean Ecosystem,Michael Lipsen,103,80.0,82.0,76.0,87.0,95.0,34.0,,,,,,,,20,21,28,16
-UBCV,2022,W,EOSC,320,,201,Sedimentology,Robert Marc Bustin,31,69.2,66.0,57.0,84.5,96.0,31.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,321,,101,Igneous Petrology,Maya Kopylova,38,72.7,73.0,68.0,81.0,90.0,48.0,,,,,,7,7,,6,,
-UBCV,2022,W,EOSC,322,,201,Metamorphic Petrology,Simon Peacock,20,80.5,81.5,75.5,85.3,94.0,62.0,,,,,,,,,7,,
-UBCV,2022,W,EOSC,323,,101,Structural Geology I,Lori Kennedy;Lucy Porritt,44,77.9,79.0,72.5,85.3,96.0,44.0,,,,,,,7,,10,6,6
-UBCV,2022,W,EOSC,325,,101,Principles of Physical Hydrogeology,Ali Ameli,74,82.1,85.0,74.0,89.8,98.0,50.0,,,,,,7,8,,10,21,19
-UBCV,2022,W,EOSC,326,,99C,Earth and Life Through Time,Louise Longridge,108,76.1,79.0,70.0,86.0,99.0,0.0,,,,8,,12,10,11,19,18,17
+UBCV,2022,W,EOSC,118,,99C,Earth's Treasures: Gold and Gems,Robert James Evans,314,77.3,81.0,72.3,87.0,97.0,0.0,16,1,9,5,21,22,35,26,64,68,47
+UBCV,2022,W,EOSC,210,,101,Earth Science for Engineers,Erik Eberhardt;Susan Hollingshead,223,72.3,73.0,65.0,79.0,94.0,43.0,4,5,17,20,25,25,46,26,23,21,11
+UBCV,2022,W,EOSC,211,,101,"Computer Methods in Earth, Ocean and Atmospheric Sciences",Catherine Johnson,109,82.0,84.0,77.0,90.0,98.0,15.0,2,0,2,2,4,5,10,10,22,21,31
+UBCV,2022,W,EOSC,212,,101,Topics in the Earth and Planetary Sciences.,Andrew Jellinek,52,81.6,83.0,76.0,90.0,98.0,43.0,1,0,1,3,0,1,6,8,8,10,14
+UBCV,2022,W,EOSC,213,,201,Computational Methods in Geological Engineering,Eldad Haber,27,65.4,66.0,55.0,75.0,99.0,0.0,2,4,3,3,3,2,4,0,0,2,4
+UBCV,2022,W,EOSC,220,,101,Introductory Mineralogy,Lucy Porritt,63,72.6,72.0,65.5,81.5,94.0,23.0,3,1,2,5,7,9,8,4,11,6,7
+UBCV,2022,W,EOSC,221,,201,Introductory Petrology,Maya Kopylova;Stuart Sutherland,54,73.9,74.0,67.0,85.8,91.0,41.0,1,2,5,1,6,8,8,5,3,11,4
+UBCV,2022,W,EOSC,222,,201,Geological Time and Stratigraphy,Stuart Sutherland,50,76.5,81.0,69.3,87.8,99.0,25.0,2,1,2,3,3,3,4,5,10,8,9
+UBCV,2022,W,EOSC,223,,201,Field Techniques,Mitchall Darcy;Alexander Paul Hughes;Simon Peacock;Lucy Porritt;Joel Edward Saylor,43,75.7,75.0,71.5,81.0,92.0,43.0,1,0,0,0,2,8,12,7,8,4,1
+UBCV,2022,W,EOSC,240,,201,Site Investigation,Susan Hollingshead;Jason Yeung,23,79.9,80.0,76.5,85.0,94.0,57.0,0,0,1,0,1,1,3,5,6,2,4
+UBCV,2022,W,EOSC,250,,201,Fields and Fluxes,Christian Schoof,8,75.0,78.5,71.8,81.5,90.0,52.0,0,1,0,1,0,0,1,1,3,0,1
+UBCV,2022,W,EOSC,270,,201,Marine Ecosystems,Brian Hunt,62,78.9,83.5,73.5,87.0,92.0,26.0,2,0,2,3,4,1,5,0,21,16,8
+UBCV,2022,W,EOSC,310,,99A,The Earth and the Solar System,Kirsten Hodge;S.M. Talha Qadri,93,72.4,76.0,69.0,84.0,94.0,0.0,6,0,6,3,7,10,14,11,15,13,8
+UBCV,2022,W,EOSC,310,,99C,The Earth and the Solar System,S.M. Talha Qadri,128,70.8,79.5,69.0,87.0,95.0,0.0,17,0,2,5,3,9,17,11,19,24,21
+UBCV,2022,W,EOSC,314,,99A,The Ocean Environment,Leah May Ver,43,69.4,73.0,65.0,76.0,90.0,36.0,4,2,2,1,4,3,12,8,5,0,2
+UBCV,2022,W,EOSC,314,,201,The Ocean Environment,Leah May Ver,12,83.4,86.5,80.3,90.5,94.0,52.0,0,1,0,0,0,0,0,2,2,3,4
+UBCV,2022,W,EOSC,315,,99C,The Ocean Ecosystem,Michael Lipsen,101,76.9,77.0,72.0,87.0,95.0,35.0,4,2,1,2,7,6,10,25,12,15,17
+UBCV,2022,W,EOSC,315,,101,The Ocean Ecosystem,Michael Lipsen,103,80.0,82.0,76.0,87.0,95.0,34.0,2,1,0,3,4,3,5,20,21,28,16
+UBCV,2022,W,EOSC,320,,201,Sedimentology,Robert Marc Bustin,31,69.2,66.0,57.0,84.5,96.0,31.0,1,4,5,4,3,0,1,2,3,3,5
+UBCV,2022,W,EOSC,321,,101,Igneous Petrology,Maya Kopylova,38,72.7,73.0,68.0,81.0,90.0,48.0,3,0,1,3,2,7,7,4,6,3,2
+UBCV,2022,W,EOSC,322,,201,Metamorphic Petrology,Simon Peacock,20,80.5,81.5,75.5,85.3,94.0,62.0,0,0,0,1,0,2,2,2,7,3,3
+UBCV,2022,W,EOSC,323,,101,Structural Geology I,Lori Kennedy;Lucy Porritt,44,77.9,79.0,72.5,85.3,96.0,44.0,1,1,1,0,4,4,7,4,10,6,6
+UBCV,2022,W,EOSC,325,,101,Principles of Physical Hydrogeology,Ali Ameli,74,82.1,85.0,74.0,89.8,98.0,50.0,0,1,0,2,4,7,8,2,10,21,19
+UBCV,2022,W,EOSC,326,,99C,Earth and Life Through Time,Louise Longridge,108,76.1,79.0,70.0,86.0,99.0,0.0,3,5,1,8,4,12,10,11,19,18,17
+UBCV,2022,W,EOSC,326,,101,Earth and Life Through Time,Laura Lukes,32,79.3,80.0,70.5,87.3,98.0,58.0,0,0,1,2,3,3,1,4,6,6,6
 UBCV,2022,W,EOSC,328,,201,Field Geology,Brett Gilley;Cassady Harraden;Joel Edward Saylor;Matthijs Smit;Andrew Steiner,24,60.0,60.0,60.0,60.0,60.0,60.0,0,0,0,24,0,0,0,0,0,0,0
-UBCV,2022,W,EOSC,329,,101,Quantitative Groundwater Hydrology,Shane O'Neill,32,75.6,78.5,66.0,86.0,93.0,44.0,,,,,6,,,,,8,
-UBCV,2022,W,EOSC,330,,101,Principles of Geomorphology,Brett Gilley;Scott Mcdougall;Jason Yeung,53,76.5,80.0,70.0,85.0,95.0,34.0,,,,,,9,8,,14,10,
-UBCV,2022,W,EOSC,331,,101,Introduction to Mineral Deposits,Shaun Barker,24,75.3,79.0,70.8,84.0,90.0,45.0,,,,,,,,,7,,
-UBCV,2022,W,EOSC,332,,201,Tectonic Evolution of North America,Matthijs Smit,38,80.9,84.0,74.8,86.8,91.0,63.0,,,,,,,,,,14,
-UBCV,2022,W,EOSC,333,,201,Elemental and Isotopic Geochemistry,Kendra Chritz;Nichole Moerhuis,23,80.2,82.0,78.0,86.5,91.0,59.0,,,,,,,,,8,,
-UBCV,2022,W,EOSC,350,,101,"Environmental, Geotechnical, and Exploration Geophysics I",Lindsey Heagy,35,78.1,79.0,70.5,87.5,92.0,54.0,,,,,,8,,,,,6
-UBCV,2022,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof,8,74.5,78.0,65.5,83.5,95.0,47.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,353,,201,Seismology,Michael Bostock,10,70.5,73.0,68.0,77.0,87.0,28.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,354,,101,Analysis of Time Series and Inverse Theory for Earth Scientists,Michael Bostock,8,70.9,70.5,67.0,79.0,98.0,28.0,,,,,,,,,,,
+UBCV,2022,W,EOSC,329,,101,Quantitative Groundwater Hydrology,Shane O'Neill,32,75.6,78.5,66.0,86.0,93.0,44.0,1,1,1,1,6,2,2,4,4,8,2
+UBCV,2022,W,EOSC,330,,101,Principles of Geomorphology,Brett Gilley;Scott Mcdougall;Jason Yeung,53,76.5,80.0,70.0,85.0,95.0,34.0,2,1,0,2,1,9,8,2,14,10,4
+UBCV,2022,W,EOSC,331,,101,Introduction to Mineral Deposits,Shaun Barker,24,75.3,79.0,70.8,84.0,90.0,45.0,1,2,1,0,1,2,2,3,7,4,1
+UBCV,2022,W,EOSC,332,,201,Tectonic Evolution of North America,Matthijs Smit,38,80.9,84.0,74.8,86.8,91.0,63.0,0,0,0,1,2,4,3,5,4,14,5
+UBCV,2022,W,EOSC,333,,201,Elemental and Isotopic Geochemistry,Kendra Chritz;Nichole Moerhuis,23,80.2,82.0,78.0,86.5,91.0,59.0,0,0,1,1,0,1,2,3,8,5,2
+UBCV,2022,W,EOSC,340,,101,Global Climate Change,Rachel White,113,81.1,85.0,76.0,91.0,100.0,0.0,5,2,1,1,6,7,6,7,13,27,38
+UBCV,2022,W,EOSC,340,,201,Global Climate Change,Philip Austin;Anais Orsi,100,74.8,78.0,67.0,86.0,97.0,0.0,6,4,1,6,10,6,14,7,17,17,12
+UBCV,2022,W,EOSC,350,,101,"Environmental, Geotechnical, and Exploration Geophysics I",Lindsey Heagy,35,78.1,79.0,70.5,87.5,92.0,54.0,0,1,1,1,0,8,3,5,5,5,6
+UBCV,2022,W,EOSC,352,,201,Geophysical Continuum Dynamics,Christian Schoof,8,74.5,78.0,65.5,83.5,95.0,47.0,1,0,1,0,0,1,0,1,2,0,2
+UBCV,2022,W,EOSC,353,,201,Seismology,Michael Bostock,10,70.5,73.0,68.0,77.0,87.0,28.0,1,0,0,0,1,2,2,2,0,2,0
+UBCV,2022,W,EOSC,354,,101,Analysis of Time Series and Inverse Theory for Earth Scientists,Michael Bostock,8,70.9,70.5,67.0,79.0,98.0,28.0,1,0,0,0,2,1,2,0,0,0,2
 UBCV,2022,W,EOSC,372,,101,Introductory Oceanography: Circulation and Plankton,Maria Maldonado-Pareja;Kristin Orians;Richard Pawlowicz,155,71.9,75.0,64.0,81.0,97.0,23.0,9,6,7,15,14,13,21,21,27,10,12
-UBCV,2022,W,EOSC,373,,201,Introductory Oceanography: Climate and Ecosystems,Maria Maldonado-Pareja;Kristin Orians;Richard Pawlowicz,51,69.8,71.0,64.5,78.0,93.0,28.0,,,,,7,8,,8,,,
-UBCV,2022,W,EOSC,410,,101,Geoscientific Data Analysis and Empirical Modelling,Valentina Radic,14,91.4,92.0,90.0,95.0,96.0,81.0,,,,,,,,,,,11
-UBCV,2022,W,EOSC,420,,101,Volcanology,James Kelly Russell,10,82.9,81.5,78.5,89.0,91.0,74.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,425,,101,Paleontology,Louise Longridge,9,75.0,69.0,66.0,85.0,95.0,58.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,426,,101,Fundamentals of Geomicrobiology,Sean Crowe,46,88.3,90.0,87.0,92.8,97.0,30.0,,,,,,,,,,10,30
-UBCV,2022,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Ali Ameli;Roger Beckie,30,81.4,82.0,78.0,84.0,93.0,69.0,,,,,,,,7,13,,
-UBCV,2022,W,EOSC,429,,201,Groundwater Contamination,Roger Beckie,60,75.3,77.5,68.0,83.5,98.0,28.0,,,,8,,6,7,10,8,8,7
-UBCV,2022,W,EOSC,432,,201,Fossil Fuels,Robert Marc Bustin,7,82.1,85.0,78.0,89.0,92.0,64.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,433,,101,Geological Engineering Practice I - Rock Engineering,Erik Eberhardt,27,74.8,75.0,71.0,82.5,98.0,44.0,,,,,,,6,,8,,
-UBCV,2022,W,EOSC,434,,201,Geological Engineering Practice II - Soil Engineering,Scott Mcdougall,29,78.8,80.0,75.0,85.0,93.0,61.0,,,,,,,,,11,6,
-UBCV,2022,W,EOSC,442,,101,Climate Measurement and Analysis,Michael Lipsen,22,81.2,82.5,74.5,89.5,93.0,62.0,,,,,,,,,,,6
-UBCV,2022,W,EOSC,442,,201,Climate Measurement and Analysis,Michael Lipsen,34,79.9,81.0,70.8,88.0,97.0,44.0,,,,,,7,,,7,7,8
-UBCV,2022,W,EOSC,445,,001,Engineering Design Project,Susan Hollingshead;Jason Yeung,28,80.9,83.0,77.8,90.3,95.0,40.0,,,,,,,,,7,,9
-UBCV,2022,W,EOSC,453,,101,Physics of the Earth and Other Planets,Andrew Jellinek,10,88.1,88.0,86.3,90.0,93.0,81.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,470,,101,Biological Oceanography,Michael Lipsen,35,74.9,80.0,72.0,85.0,91.0,16.0,,,,,,,,,6,9,
-UBCV,2022,W,EOSC,471,,101,"Waves, Currents and Ocean Mixing",Susan Elizabeth Allen;Richard Pawlowicz,18,82.9,83.5,80.3,86.3,94.0,70.0,,,,,,,,,10,,
-UBCV,2022,W,EOSC,472,,201,Chemical Oceanography and Marine Geochemistry,Harold Bradbury;Kristin Orians,24,80.9,83.0,81.0,86.5,94.0,35.0,,,,,,,,,9,7,
-UBCV,2022,W,EOSC,473,,201,Methods in Oceanography,Yevhenii Pakhomov;Richard Pawlowicz,16,75.1,80.5,77.0,83.5,86.0,0.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,474,,101,Marine Pollution,Kristin Orians;Leah May Ver,150,76.2,77.5,70.5,82.0,93.0,19.0,,,,,11,17,18,25,44,16,9
-UBCV,2022,W,EOSC,475,,201,Marine Microbiology,Curtis Suttle,32,75.7,73.0,67.8,86.0,94.0,57.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,478,,201,Introduction to Fisheries Science,Yevhenii Pakhomov,136,80.4,82.0,74.8,86.0,95.0,49.0,,,,,8,10,15,14,27,37,19
-UBCV,2022,W,EOSC,510,,101,"Data Analysis in Atmospheric, Earth and Ocean Sciences",Valentina Radic,32,92.0,92.0,90.8,94.0,96.0,85.0,,,,,,,,,,,27
+UBCV,2022,W,EOSC,373,,201,Introductory Oceanography: Climate and Ecosystems,Maria Maldonado-Pareja;Kristin Orians;Richard Pawlowicz,51,69.8,71.0,64.5,78.0,93.0,28.0,4,3,3,2,7,8,5,8,4,4,3
+UBCV,2022,W,EOSC,410,,101,Geoscientific Data Analysis and Empirical Modelling,Valentina Radic,14,91.4,92.0,90.0,95.0,96.0,81.0,0,0,0,0,0,0,0,0,1,2,11
+UBCV,2022,W,EOSC,420,,101,Volcanology,James Kelly Russell,10,82.9,81.5,78.5,89.0,91.0,74.0,0,0,0,0,0,0,1,2,3,1,3
+UBCV,2022,W,EOSC,425,,101,Paleontology,Louise Longridge,9,75.0,69.0,66.0,85.0,95.0,58.0,0,0,1,0,3,1,0,1,0,1,2
+UBCV,2022,W,EOSC,426,,101,Fundamentals of Geomicrobiology,Sean Crowe,46,88.3,90.0,87.0,92.8,97.0,30.0,1,0,0,0,0,0,2,0,3,10,30
+UBCV,2022,W,EOSC,428,,201,Field Techniques in Groundwater Hydrology,Ali Ameli;Roger Beckie,30,81.4,82.0,78.0,84.0,93.0,69.0,0,0,0,0,0,1,2,7,13,5,2
+UBCV,2022,W,EOSC,429,,201,Groundwater Contamination,Roger Beckie,60,75.3,77.5,68.0,83.5,98.0,28.0,2,1,1,8,2,6,7,10,8,8,7
+UBCV,2022,W,EOSC,432,,201,Fossil Fuels,Robert Marc Bustin,7,82.1,85.0,78.0,89.0,92.0,64.0,0,0,0,0,1,0,1,0,1,2,2
+UBCV,2022,W,EOSC,433,,101,Geological Engineering Practice I - Rock Engineering,Erik Eberhardt,27,74.8,75.0,71.0,82.5,98.0,44.0,2,0,1,1,0,4,6,1,8,3,1
+UBCV,2022,W,EOSC,434,,201,Geological Engineering Practice II - Soil Engineering,Scott Mcdougall,29,78.8,80.0,75.0,85.0,93.0,61.0,0,0,0,2,2,2,2,2,11,6,2
+UBCV,2022,W,EOSC,442,,101,Climate Measurement and Analysis,Michael Lipsen,22,81.2,82.5,74.5,89.5,93.0,62.0,0,0,0,1,1,1,3,2,4,4,6
+UBCV,2022,W,EOSC,442,,201,Climate Measurement and Analysis,Michael Lipsen,34,79.9,81.0,70.8,88.0,97.0,44.0,1,0,0,1,0,7,2,1,7,7,8
+UBCV,2022,W,EOSC,445,,001,Engineering Design Project,Susan Hollingshead;Jason Yeung,28,80.9,83.0,77.8,90.3,95.0,40.0,1,1,0,1,2,0,2,1,7,4,9
+UBCV,2022,W,EOSC,453,,101,Physics of the Earth and Other Planets,Andrew Jellinek,10,88.1,88.0,86.3,90.0,93.0,81.0,0,0,0,0,0,0,0,0,1,5,4
+UBCV,2022,W,EOSC,470,,101,Biological Oceanography,Michael Lipsen,35,74.9,80.0,72.0,85.0,91.0,16.0,2,1,1,0,3,1,5,4,6,9,3
+UBCV,2022,W,EOSC,471,,101,"Waves, Currents and Ocean Mixing",Susan Elizabeth Allen;Richard Pawlowicz,18,82.9,83.5,80.3,86.3,94.0,70.0,0,0,0,0,0,1,1,1,10,3,2
+UBCV,2022,W,EOSC,472,,201,Chemical Oceanography and Marine Geochemistry,Harold Bradbury;Kristin Orians,24,80.9,83.0,81.0,86.5,94.0,35.0,1,0,0,0,1,1,2,0,9,7,3
+UBCV,2022,W,EOSC,473,,201,Methods in Oceanography,Yevhenii Pakhomov;Richard Pawlowicz,16,75.1,80.5,77.0,83.5,86.0,0.0,1,0,0,0,0,0,2,4,5,4,0
+UBCV,2022,W,EOSC,474,,101,Marine Pollution,Kristin Orians;Leah May Ver,150,76.2,77.5,70.5,82.0,93.0,19.0,2,1,2,5,11,17,18,25,44,16,9
+UBCV,2022,W,EOSC,475,,201,Marine Microbiology,Curtis Suttle,32,75.7,73.0,67.8,86.0,94.0,57.0,0,0,2,5,1,4,5,2,3,5,5
+UBCV,2022,W,EOSC,478,,201,Introduction to Fisheries Science,Yevhenii Pakhomov,136,80.4,82.0,74.8,86.0,95.0,49.0,1,0,1,4,8,10,15,14,27,37,19
+UBCV,2022,W,EOSC,510,,101,"Data Analysis in Atmospheric, Earth and Ocean Sciences",Valentina Radic,32,92.0,92.0,90.8,94.0,96.0,85.0,0,0,0,0,0,0,0,0,0,5,27
 UBCV,2022,W,EOSC,529,,201,Topics in Geohazard Risk Management,Scott Mcdougall,17,90.0,90.0,90.0,90.0,90.0,90.0,0,0,0,0,0,0,0,0,0,0,17
 UBCV,2022,W,EOSC,531,,201,Exploration Methodology,Shaun Barker,17,88.1,90.0,85.0,90.0,91.0,85.0,0,0,0,0,0,0,0,0,0,8,9
-UBCV,2022,W,EOSC,532,,201,Field Laboratory in Groundwater Hydrology,Ali Ameli;Roger Beckie,10,88.8,88.5,84.8,92.3,96.0,82.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,533,,101,Advanced Groundwater Hydrology,Roger Beckie;Jennifer Levenick;Wojciech Zawadzki,20,85.3,87.0,82.5,90.0,97.0,68.0,,,,,,,,,,7,6
-UBCV,2022,W,EOSC,534,,201,Geological Engineering: Soils and Weak Rocks,Scott Mcdougall,7,77.9,76.0,76.0,82.5,84.0,68.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,536,,101,Advanced Rock Engineering,Erik Eberhardt,18,83.7,87.5,80.0,88.0,96.0,64.0,,,,,,,,,,6,
-UBCV,2022,W,EOSC,542,,101,Advanced Volcanology,James Kelly Russell,9,85.7,85.0,82.0,89.0,90.0,81.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,543,,102,Topics in Solid Earth Sciences,Michael Bostock;Simon Peacock,7,86.4,85.0,82.5,92.5,95.0,75.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,543,,201,Topics in Solid Earth Sciences,Nadja Kunz,6,87.0,85.5,85.0,89.8,91.0,84.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,547,,201,Tunneling and Underground Engineering,Erik Eberhardt,18,85.8,87.5,82.3,90.0,97.0,70.0,,,,,,,,,,,6
+UBCV,2022,W,EOSC,532,,201,Field Laboratory in Groundwater Hydrology,Ali Ameli;Roger Beckie,10,88.8,88.5,84.8,92.3,96.0,82.0,0,0,0,0,0,0,0,0,3,3,4
+UBCV,2022,W,EOSC,533,,101,Advanced Groundwater Hydrology,Roger Beckie;Jennifer Levenick;Wojciech Zawadzki,20,85.3,87.0,82.5,90.0,97.0,68.0,0,0,0,0,0,2,0,1,4,7,6
+UBCV,2022,W,EOSC,534,,201,Geological Engineering: Soils and Weak Rocks,Scott Mcdougall,7,77.9,76.0,76.0,82.5,84.0,68.0,0,0,0,0,0,1,0,3,3,0,0
+UBCV,2022,W,EOSC,536,,101,Advanced Rock Engineering,Erik Eberhardt,18,83.7,87.5,80.0,88.0,96.0,64.0,0,0,0,0,1,1,1,1,4,6,4
+UBCV,2022,W,EOSC,542,,101,Advanced Volcanology,James Kelly Russell,9,85.7,85.0,82.0,89.0,90.0,81.0,0,0,0,0,0,0,0,0,4,3,2
+UBCV,2022,W,EOSC,543,,102,Topics in Solid Earth Sciences,Michael Bostock;Simon Peacock,7,86.4,85.0,82.5,92.5,95.0,75.0,0,0,0,0,0,0,1,0,1,2,3
+UBCV,2022,W,EOSC,543,,201,Topics in Solid Earth Sciences,Nadja Kunz,6,87.0,85.5,85.0,89.8,91.0,84.0,0,0,0,0,0,0,0,0,1,3,2
+UBCV,2022,W,EOSC,547,,201,Tunneling and Underground Engineering,Erik Eberhardt,18,85.8,87.5,82.3,90.0,97.0,70.0,0,0,0,0,0,1,0,2,4,5,6
 UBCV,2022,W,EOSC,555,B,101,Nonlinear Inverse Theory,Eldad Haber,16,89.9,89.0,87.0,92.5,94.0,87.0,0,0,0,0,0,0,0,0,0,8,8
-UBCV,2022,W,EOSC,573,,201,Methods in Oceanography,Yevhenii Pakhomov;Richard Pawlowicz,6,85.2,86.0,84.5,86.0,87.0,82.0,,,,,,,,,,,
-UBCV,2022,W,EOSC,595,F,104,Directed Studies,Susan Elizabeth Allen;Stephanie Block;Michael Bostock;Lindsey Heagy;Raymond Tak-Yan Ng;Matias Salibian-Barrera;Philippe Tortell,9,87.2,88.0,87.0,91.0,95.0,77.0,,,,,,,,,,,
+UBCV,2022,W,EOSC,573,,201,Methods in Oceanography,Yevhenii Pakhomov;Richard Pawlowicz,6,85.2,86.0,84.5,86.0,87.0,82.0,0,0,0,0,0,0,0,0,2,4,0
+UBCV,2022,W,EOSC,595,F,104,Directed Studies,Susan Elizabeth Allen;Stephanie Block;Michael Bostock;Lindsey Heagy;Raymond Tak-Yan Ng;Matias Salibian-Barrera;Philippe Tortell,9,87.2,88.0,87.0,91.0,95.0,77.0,0,0,0,0,0,0,0,2,0,4,3

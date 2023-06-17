@@ -1,9 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,ENVR,200,,101,Introduction to Environmental Science,Kendra Chritz;Michael Lipsen,42,81.5,84.0,80.0,85.0,88.0,34.0,,,,,,,,,15,21,
-UBCV,2022,W,ENVR,200,,201,Introduction to Environmental Science,Jerry Achar;Michael Lipsen,41,83.9,85.0,83.0,86.0,90.0,65.0,,,,,,,,,11,24,
-UBCV,2022,W,ENVR,300,,201,Introduction to Research in Environmental Science,Valentina Radic,62,85.5,86.0,82.0,89.8,94.0,69.0,,,,,,,,,17,23,16
-UBCV,2022,W,ENVR,400,,001,Community Project in Environmental Science,Tara Ivanochko;Michael Lipsen,43,83.6,85.0,81.5,86.0,92.0,70.0,,,,,,,,,9,20,8
-UBCV,2022,W,ENVR,410,,201,"Energy, Environment, and Society",Amanda Giang,48,85.8,86.0,84.0,88.0,92.0,76.0,,,,,,,,,12,30,
-UBCV,2022,W,ENVR,420,,201,Ecohydrology of Watersheds and Water Systems,Mark Johnson,23,83.4,85.0,81.0,88.0,94.0,52.0,,,,,,,,,6,7,
-UBCV,2022,W,ENVR,430,,101,Ecological Dimensions of Sustainability,Kai Chan,68,96.1,97.0,94.8,98.0,100.0,87.0,,,,,,,,,,,65
-UBCV,2022,W,ENVR,440,,201,Analytical Methods in Sustainability Science,Balsher Singh Sidhu,39,88.8,90.0,87.0,92.5,96.0,71.0,,,,,,,,,,10,22
+UBCV,2022,W,ENVR,200,,101,Introduction to Environmental Science,Kendra Chritz;Michael Lipsen,42,81.5,84.0,80.0,85.0,88.0,34.0,1,0,0,0,0,1,2,2,15,21,0
+UBCV,2022,W,ENVR,200,,201,Introduction to Environmental Science,Jerry Achar;Michael Lipsen,41,83.9,85.0,83.0,86.0,90.0,65.0,0,0,0,0,1,1,0,2,11,24,2
+UBCV,2022,W,ENVR,300,,201,Introduction to Research in Environmental Science,Valentina Radic,62,85.5,86.0,82.0,89.8,94.0,69.0,0,0,0,0,0,2,2,2,17,23,16
+UBCV,2022,W,ENVR,400,,001,Community Project in Environmental Science,Tara Ivanochko;Michael Lipsen,43,83.6,85.0,81.5,86.0,92.0,70.0,0,0,0,0,0,3,3,0,9,20,8
+UBCV,2022,W,ENVR,410,,201,"Energy, Environment, and Society",Amanda Giang,48,85.8,86.0,84.0,88.0,92.0,76.0,0,0,0,0,0,0,0,3,12,30,3
+UBCV,2022,W,ENVR,420,,201,Ecohydrology of Watersheds and Water Systems,Mark Johnson,23,83.4,85.0,81.0,88.0,94.0,52.0,0,1,0,0,0,0,0,4,6,7,5
+UBCV,2022,W,ENVR,430,,101,Ecological Dimensions of Sustainability,Kai Chan,68,96.1,97.0,94.8,98.0,100.0,87.0,0,0,0,0,0,0,0,0,0,3,65
+UBCV,2022,W,ENVR,440,,201,Analytical Methods in Sustainability Science,Balsher Singh Sidhu,39,88.8,90.0,87.0,92.5,96.0,71.0,0,0,0,0,0,1,0,2,4,10,22

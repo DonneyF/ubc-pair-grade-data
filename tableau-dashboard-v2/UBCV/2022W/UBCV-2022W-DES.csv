@@ -1,30 +1,30 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,DES,110,,001,Measured Architectural Drawing,Long Dinh,47,76.3,82.0,77.0,84.0,90.0,0.0,,,,,,,,6,21,8,
-UBCV,2022,W,DES,110,,002,Measured Architectural Drawing,Arthur Leung,45,81.0,82.0,78.0,86.0,92.0,56.0,,,,,,,,7,15,11,
-UBCV,2022,W,DES,130,,002,"Design, Culture and Ecology",Allison Bernice Earl,130,78.5,83.5,77.0,88.0,94.0,0.0,7,,,,,,12,12,27,36,23
-UBCV,2022,W,DES,200,,001,Design Thinking,Mari Fujita;Blair Satterfield,112,81.6,83.0,77.0,88.0,94.0,24.0,,,,,,,13,10,34,31,16
-UBCV,2022,W,DES,201,,001,Design Studio I - Context and Site,Yekta Abolghasem Tehrani;Arthur Leung,53,81.1,81.0,80.0,83.0,90.0,70.0,,,,,,,,8,30,9,
-UBCV,2022,W,DES,202,,001,Design Studio II - Form,Riley Baechler;Young-Tack Oh,53,81.7,81.0,80.0,84.0,90.0,75.0,,,,,,,,10,31,10,
-UBCV,2022,W,DES,211,,002,Design Media I,Riley Baechler,53,84.4,85.0,81.0,87.0,92.0,74.0,,,,,,,,,21,24,
-UBCV,2022,W,DES,212,,001,Design Media II,Sarah Klym,52,85.1,85.0,82.8,88.0,93.0,72.0,,,,,,,,,19,21,10
-UBCV,2022,W,DES,220,,001,Architecture and Urbanism in Context: Vancouver and its Region,Roy Cloutier,65,82.6,86.0,82.0,91.0,99.0,22.0,,,,,,,,,11,19,23
-UBCV,2022,W,DES,230,,001,Sustainability by Design,Patrick Michael Condon,130,83.9,86.0,81.0,89.0,95.0,0.0,,,,,,,,15,29,46,31
-UBCV,2022,W,DES,231,,001,Site Analysis and Planning,Celia Winters,54,87.3,88.0,85.0,91.0,94.0,75.0,,,,,,,,,7,21,21
-UBCV,2022,W,DES,232,,201,Material Culture,Timothy Wong,54,83.4,84.0,81.0,87.0,92.0,71.0,,,,,,,,7,22,19,
-UBCV,2022,W,DES,301,,001,Design Studio III - Building Scale Synthesis,Mari Fujita;Marc-Andre Rapp;Amy Sharma,57,81.9,82.0,80.0,86.0,91.0,58.0,,,,,,,,8,25,17,
+UBCV,2022,W,DES,110,,001,Measured Architectural Drawing,Long Dinh,47,76.3,82.0,77.0,84.0,90.0,0.0,3,0,1,0,1,2,3,6,21,8,2
+UBCV,2022,W,DES,110,,002,Measured Architectural Drawing,Arthur Leung,45,81.0,82.0,78.0,86.0,92.0,56.0,0,0,1,1,1,1,4,7,15,11,4
+UBCV,2022,W,DES,130,,002,"Design, Culture and Ecology",Allison Bernice Earl,130,78.5,83.5,77.0,88.0,94.0,0.0,7,4,0,1,3,5,12,12,27,36,23
+UBCV,2022,W,DES,200,,001,Design Thinking,Mari Fujita;Blair Satterfield,112,81.6,83.0,77.0,88.0,94.0,24.0,2,0,0,2,0,4,13,10,34,31,16
+UBCV,2022,W,DES,201,,001,Design Studio I - Context and Site,Yekta Abolghasem Tehrani;Arthur Leung,53,81.1,81.0,80.0,83.0,90.0,70.0,0,0,0,0,0,1,4,8,30,9,1
+UBCV,2022,W,DES,202,,001,Design Studio II - Form,Riley Baechler;Young-Tack Oh,53,81.7,81.0,80.0,84.0,90.0,75.0,0,0,0,0,0,0,1,10,31,10,1
+UBCV,2022,W,DES,211,,002,Design Media I,Riley Baechler,53,84.4,85.0,81.0,87.0,92.0,74.0,0,0,0,0,0,0,1,2,21,24,5
+UBCV,2022,W,DES,212,,001,Design Media II,Sarah Klym,52,85.1,85.0,82.8,88.0,93.0,72.0,0,0,0,0,0,0,1,1,19,21,10
+UBCV,2022,W,DES,220,,001,Architecture and Urbanism in Context: Vancouver and its Region,Roy Cloutier,65,82.6,86.0,82.0,91.0,99.0,22.0,2,1,2,3,1,1,2,0,11,19,23
+UBCV,2022,W,DES,230,,001,Sustainability by Design,Patrick Michael Condon,130,83.9,86.0,81.0,89.0,95.0,0.0,2,0,0,0,1,4,2,15,29,46,31
+UBCV,2022,W,DES,231,,001,Site Analysis and Planning,Celia Winters,54,87.3,88.0,85.0,91.0,94.0,75.0,0,0,0,0,0,0,1,4,7,21,21
+UBCV,2022,W,DES,232,,201,Material Culture,Timothy Wong,54,83.4,84.0,81.0,87.0,92.0,71.0,0,0,0,0,0,1,1,7,22,19,4
+UBCV,2022,W,DES,301,,001,Design Studio III - Building Scale Synthesis,Mari Fujita;Marc-Andre Rapp;Amy Sharma,57,81.9,82.0,80.0,86.0,91.0,58.0,0,0,1,0,0,1,3,8,25,17,2
 UBCV,2022,W,DES,302,,001,Design Studio IV - Vancouver,Fionn Byrne;Kaitlyn Pelletier;Fayaz Yunus,47,81.1,81.0,78.0,84.0,86.0,76.0,0,0,0,0,0,0,0,13,27,7,0
-UBCV,2022,W,DES,320,,001,History of the Design of the Built Environment,Christina Gray,59,83.8,86.0,79.0,90.5,91.0,48.0,,,,,,6,,6,7,15,22
-UBCV,2022,W,DES,321,F,001,Topics in Architectural History I (Pre-1900),Sara Stevens,10,81.9,83.0,77.8,85.8,87.0,75.0,,,,,,,,,,,
-UBCV,2022,W,DES,321,I,001,Topics in Architectural History I (Pre-1900),Christina Gray,25,87.2,89.0,84.0,91.0,92.0,75.0,,,,,,,,,,10,8
-UBCV,2022,W,DES,322,L,001,Topics in Architectural History II (1900-Present),Tijana Vujosevic,11,87.5,86.0,85.5,90.5,93.0,82.0,,,,,,,,,,,
-UBCV,2022,W,DES,323,,001,Histories in Landscape Architecture,Charles Chambers,33,85.0,85.0,83.0,87.0,92.0,77.0,,,,,,,,,10,16,
-UBCV,2022,W,DES,330,,002,Structural Systems and Supports,Joshua Potvin,54,86.5,88.0,82.3,90.0,98.0,68.0,,,,,,,,,11,19,18
-UBCV,2022,W,DES,401,,101,Design Studio V - Urban Systems Scale Synthesis,Yuichi Watanabe,27,81.7,82.0,81.0,83.0,85.0,72.0,,,,,,,,,18,,
-UBCV,2022,W,DES,402,,201,Design Studio VI - Away,Bill Pechet,10,76.4,85.5,84.3,86.8,87.0,0.0,,,,,,,,,,7,
-UBCV,2022,W,DES,403,,001,Senior Design Project,Bill Pechet,15,85.4,85.0,85.0,85.0,90.0,84.0,,,,,,,,,,12,
-UBCV,2022,W,DES,421,,001,Design Theory,Christina Gray,54,86.2,87.5,84.0,90.0,91.0,76.0,,,,,,,,,15,20,16
-UBCV,2022,W,DES,422,,002,Urbanism by Design,Sara Stevens,27,81.4,82.0,80.0,83.5,86.0,76.0,,,,,,,,7,17,,
+UBCV,2022,W,DES,320,,001,History of the Design of the Built Environment,Christina Gray,59,83.8,86.0,79.0,90.5,91.0,48.0,1,0,0,0,0,6,2,6,7,15,22
+UBCV,2022,W,DES,321,F,001,Topics in Architectural History I (Pre-1900),Sara Stevens,10,81.9,83.0,77.8,85.8,87.0,75.0,0,0,0,0,0,0,1,2,2,5,0
+UBCV,2022,W,DES,321,I,001,Topics in Architectural History I (Pre-1900),Christina Gray,25,87.2,89.0,84.0,91.0,92.0,75.0,0,0,0,0,0,0,1,1,5,10,8
+UBCV,2022,W,DES,322,L,001,Topics in Architectural History II (1900-Present),Tijana Vujosevic,11,87.5,86.0,85.5,90.5,93.0,82.0,0,0,0,0,0,0,0,0,2,5,4
+UBCV,2022,W,DES,323,,001,Histories in Landscape Architecture,Charles Chambers,33,85.0,85.0,83.0,87.0,92.0,77.0,0,0,0,0,0,0,0,2,10,16,5
+UBCV,2022,W,DES,330,,002,Structural Systems and Supports,Joshua Potvin,54,86.5,88.0,82.3,90.0,98.0,68.0,0,0,0,0,0,1,1,4,11,19,18
+UBCV,2022,W,DES,401,,101,Design Studio V - Urban Systems Scale Synthesis,Yuichi Watanabe,27,81.7,82.0,81.0,83.0,85.0,72.0,0,0,0,0,0,0,1,3,18,5,0
+UBCV,2022,W,DES,402,,201,Design Studio VI - Away,Bill Pechet,10,76.4,85.5,84.3,86.8,87.0,0.0,1,0,0,0,0,0,0,1,1,7,0
+UBCV,2022,W,DES,403,,001,Senior Design Project,Bill Pechet,15,85.4,85.0,85.0,85.0,90.0,84.0,0,0,0,0,0,0,0,0,2,12,1
+UBCV,2022,W,DES,421,,001,Design Theory,Christina Gray,54,86.2,87.5,84.0,90.0,91.0,76.0,0,0,0,0,0,0,0,3,15,20,16
+UBCV,2022,W,DES,422,,002,Urbanism by Design,Sara Stevens,27,81.4,82.0,80.0,83.5,86.0,76.0,0,0,0,0,0,0,0,7,17,3,0
 UBCV,2022,W,DES,430,,002,"Environment, Urban Form, and Infrastructure",Daniel Roehr,28,85.4,85.0,84.8,86.3,88.0,82.0,0,0,0,0,0,0,0,0,7,21,0
-UBCV,2022,W,DES,445,,001,Entrepreneurship and Ethics in Design,Patricia Rios Cabello,30,91.3,91.0,90.0,92.8,93.0,88.0,,,,,,,,,,,29
-UBCV,2022,W,DES,450,C,001,Special Topics,Young-Tack Oh,20,82.1,82.5,80.0,84.3,87.0,72.0,,,,,,,,,14,,
-UBCV,2022,W,DES,450,R,001,Special Topics,Daniel Roehr,6,90.7,91.0,91.0,91.8,94.0,85.0,,,,,,,,,,,
+UBCV,2022,W,DES,445,,001,Entrepreneurship and Ethics in Design,Patricia Rios Cabello,30,91.3,91.0,90.0,92.8,93.0,88.0,0,0,0,0,0,0,0,0,0,1,29
+UBCV,2022,W,DES,450,C,001,Special Topics,Young-Tack Oh,20,82.1,82.5,80.0,84.3,87.0,72.0,0,0,0,0,0,0,1,0,14,5,0
+UBCV,2022,W,DES,450,R,001,Special Topics,Daniel Roehr,6,90.7,91.0,91.0,91.8,94.0,85.0,0,0,0,0,0,0,0,0,0,1,5

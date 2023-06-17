@@ -1,12 +1,12 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,BAAC,501,,001,Financial Statement Analysis I,Douglas Yee,6,84.3,87.0,81.5,88.0,90.0,74.0,,,,,,,,,,,
-UBCV,2022,W,BAAC,511,,001,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,Kyla Gunderson,10,82.9,84.5,74.5,91.8,96.0,66.0,,,,,,,,,,,
-UBCV,2022,W,BAAC,550,,001,Foundations in  Accounting,Mary Chong,44,82.8,85.0,80.0,90.0,96.0,53.0,,,,,,,,,11,10,13
-UBCV,2022,W,BAAC,550,,002,Foundations in  Accounting,Mary Chong,46,80.6,80.5,74.5,87.0,96.0,60.0,,,,,,,6,8,8,8,10
-UBCV,2022,W,BAAC,550,,300,Foundations in  Accounting,Scott Sinclair,55,79.1,81.0,71.5,86.0,97.0,50.0,,,,,,8,,7,11,10,9
-UBCV,2022,W,BAAC,550,,822,Foundations in  Accounting,Sabrina Rai,16,83.4,83.0,81.8,88.3,91.0,67.0,,,,,,,,,7,,
-UBCV,2022,W,BAAC,550,,MM1,Foundations in  Accounting,Scott Sinclair,35,78.9,79.0,74.0,84.5,96.0,60.0,,,,,,,8,6,8,7,
-UBCV,2022,W,BAAC,551,,001,Foundations in Accounting II,Scott Sinclair,48,80.1,79.5,74.5,86.3,95.0,66.0,,,,,,9,,11,9,7,8
-UBCV,2022,W,BAAC,551,,002,Foundations in Accounting II,Scott Sinclair,38,78.7,77.0,73.3,84.0,95.0,60.0,,,,,,,7,7,8,6,
-UBCV,2022,W,BAAC,551,,301,Foundations in Accounting II,Erin Egeland,57,85.1,86.0,83.0,88.0,98.0,73.0,,,,,,,,,14,27,9
-UBCV,2022,W,BAAC,551,,MM1,Foundations in Accounting II,Scott Sinclair,42,78.3,79.0,71.3,84.0,94.0,56.0,,,,,,10,,6,10,,
+UBCV,2022,W,BAAC,501,,001,Financial Statement Analysis I,Douglas Yee,6,84.3,87.0,81.5,88.0,90.0,74.0,0,0,0,0,0,0,1,0,1,3,1
+UBCV,2022,W,BAAC,511,,001,Intermediate Managerial Accounting: Decision Making and Performance Evaluation,Kyla Gunderson,10,82.9,84.5,74.5,91.8,96.0,66.0,0,0,0,0,1,1,1,1,1,1,4
+UBCV,2022,W,BAAC,550,,001,Foundations in  Accounting,Mary Chong,44,82.8,85.0,80.0,90.0,96.0,53.0,1,0,0,3,0,0,4,2,11,10,13
+UBCV,2022,W,BAAC,550,,002,Foundations in  Accounting,Mary Chong,46,80.6,80.5,74.5,87.0,96.0,60.0,0,0,0,1,2,3,6,8,8,8,10
+UBCV,2022,W,BAAC,550,,300,Foundations in  Accounting,Scott Sinclair,55,79.1,81.0,71.5,86.0,97.0,50.0,1,0,0,5,0,8,4,7,11,10,9
+UBCV,2022,W,BAAC,550,,822,Foundations in  Accounting,Sabrina Rai,16,83.4,83.0,81.8,88.3,91.0,67.0,0,0,0,0,1,0,0,2,7,3,3
+UBCV,2022,W,BAAC,550,,MM1,Foundations in  Accounting,Scott Sinclair,35,78.9,79.0,74.0,84.5,96.0,60.0,0,0,0,1,2,1,8,6,8,7,2
+UBCV,2022,W,BAAC,551,,001,Foundations in Accounting II,Scott Sinclair,48,80.1,79.5,74.5,86.3,95.0,66.0,0,0,0,0,1,9,3,11,9,7,8
+UBCV,2022,W,BAAC,551,,002,Foundations in Accounting II,Scott Sinclair,38,78.7,77.0,73.3,84.0,95.0,60.0,0,0,0,1,1,5,7,7,8,6,3
+UBCV,2022,W,BAAC,551,,301,Foundations in Accounting II,Erin Egeland,57,85.1,86.0,83.0,88.0,98.0,73.0,0,0,0,0,0,0,5,2,14,27,9
+UBCV,2022,W,BAAC,551,,MM1,Foundations in Accounting II,Scott Sinclair,42,78.3,79.0,71.3,84.0,94.0,56.0,1,0,0,0,0,10,5,6,10,5,5

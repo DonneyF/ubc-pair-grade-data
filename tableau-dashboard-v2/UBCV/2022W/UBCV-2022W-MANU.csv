@@ -1,19 +1,19 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,MANU,201,,101,Technical Communication,Matthew Wong,39,75.3,76.0,70.0,84.5,90.0,50.0,,,,,,,7,6,,9,
-UBCV,2022,W,MANU,230,,001,Manufacturing Engineering Laboratory,Casey Keulen,42,79.7,80.5,75.0,84.0,92.0,64.0,,,,,,,11,7,12,8,
-UBCV,2022,W,MANU,261,,101,Thermodynamics,Casey Keulen,37,75.0,78.0,68.0,90.0,100.0,0.0,,,,,,,6,6,,,10
-UBCV,2022,W,MANU,265,,201,Machine Dynamics,Ahmad Mohammadpanah Foroutaghe,48,75.5,76.5,68.0,83.0,90.0,57.0,,,,,,7,,9,9,8,
-UBCV,2022,W,MANU,270,,201,Production Systems Management I,Abbas Hosseini,45,71.4,75.0,67.0,82.0,87.0,0.0,,,,,,,6,,16,,
-UBCV,2022,W,MANU,330,,001,Manufacturing Engineering Project I,Casey Keulen,45,76.9,77.0,68.0,83.0,96.0,56.0,,,,,,7,6,8,10,,
-UBCV,2022,W,MANU,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani,26,83.2,84.5,78.5,87.0,95.0,72.0,,,,,,,,,6,9,
-UBCV,2022,W,MANU,378,,201,Engineering Materials II,Amanda Clifford,45,78.2,80.0,72.0,84.0,97.0,52.0,,,,,,6,6,,13,7,
-UBCV,2022,W,MANU,380,,102,Manufacturing Processes I,Abbas Hosseini,41,72.4,74.0,67.0,82.0,90.0,0.0,,,,,,,8,,10,,
-UBCV,2022,W,MANU,386,,101,Industrial Automation,Christoph Sielmann,42,74.7,78.0,70.3,80.8,89.0,34.0,,,,,,8,,10,11,,
-UBCV,2022,W,MANU,400,A,201,Topics in Manufacturing Engineering,Thomas Benjamin Britton,9,78.2,81.0,74.0,83.0,86.0,68.0,,,,,,,,,,,
-UBCV,2022,W,MANU,400,B,101,Topics in Manufacturing Engineering,Amanda Clifford,10,74.7,77.5,66.0,82.8,85.0,58.0,,,,,,,,,,,
-UBCV,2022,W,MANU,400,C,201,Topics in Manufacturing Engineering,Adam Clare,23,80.2,81.0,76.0,83.0,89.0,71.0,,,,,,,,,9,,
-UBCV,2022,W,MANU,430,,001,Manufacturing Design Capstone Project,Casey Keulen;Christoph Sielmann,24,80.3,80.5,74.8,86.3,93.0,66.0,,,,,,,,,6,,
-UBCV,2022,W,MANU,465,,101,AI and Machine Learning Applications in Manufacturing,Ahmad Mohammadpanah Foroutaghe,59,82.3,83.0,81.0,84.0,90.0,44.0,,,,,,,,,45,8,
-UBCV,2022,W,MANU,480,,101,Manufacturing Processes II,Thomas Benjamin Britton,25,74.0,75.0,71.0,80.0,86.0,43.0,,,,,,,,,,,
-UBCV,2022,W,MANU,481,,201,Manufacturing Processes III,Yasmine Abdin,26,84.1,85.0,80.0,89.0,95.0,66.0,,,,,,,,,6,8,6
-UBCV,2022,W,MANU,485,,201,Metal Cutting and Machine Tool Vibrations,Xiaoliang Jin,27,76.9,80.0,67.5,86.5,92.0,52.0,,,,,,,,,6,,6
+UBCV,2022,W,MANU,201,,101,Technical Communication,Matthew Wong,39,75.3,76.0,70.0,84.5,90.0,50.0,0,1,2,4,1,4,7,6,4,9,1
+UBCV,2022,W,MANU,230,,001,Manufacturing Engineering Laboratory,Casey Keulen,42,79.7,80.5,75.0,84.0,92.0,64.0,0,0,0,0,2,0,11,7,12,8,2
+UBCV,2022,W,MANU,261,,101,Thermodynamics,Casey Keulen,37,75.0,78.0,68.0,90.0,100.0,0.0,3,1,2,3,0,1,6,6,4,1,10
+UBCV,2022,W,MANU,265,,201,Machine Dynamics,Ahmad Mohammadpanah Foroutaghe,48,75.5,76.5,68.0,83.0,90.0,57.0,0,0,2,4,3,7,5,9,9,8,1
+UBCV,2022,W,MANU,270,,201,Production Systems Management I,Abbas Hosseini,45,71.4,75.0,67.0,82.0,87.0,0.0,3,0,0,5,4,5,6,4,16,2,0
+UBCV,2022,W,MANU,330,,001,Manufacturing Engineering Project I,Casey Keulen,45,76.9,77.0,68.0,83.0,96.0,56.0,0,0,2,0,5,7,6,8,10,2,5
+UBCV,2022,W,MANU,370,,101,Production Systems Management II,Babak Mohamadpour Tosarkani,26,83.2,84.5,78.5,87.0,95.0,72.0,0,0,0,0,0,0,3,4,6,9,4
+UBCV,2022,W,MANU,378,,201,Engineering Materials II,Amanda Clifford,45,78.2,80.0,72.0,84.0,97.0,52.0,0,1,0,2,2,6,6,5,13,7,3
+UBCV,2022,W,MANU,380,,102,Manufacturing Processes I,Abbas Hosseini,41,72.4,74.0,67.0,82.0,90.0,0.0,1,0,2,3,5,5,8,2,10,4,1
+UBCV,2022,W,MANU,386,,101,Industrial Automation,Christoph Sielmann,42,74.7,78.0,70.3,80.8,89.0,34.0,2,0,0,1,1,8,5,10,11,4,0
+UBCV,2022,W,MANU,400,A,201,Topics in Manufacturing Engineering,Thomas Benjamin Britton,9,78.2,81.0,74.0,83.0,86.0,68.0,0,0,0,0,0,2,1,1,4,1,0
+UBCV,2022,W,MANU,400,B,101,Topics in Manufacturing Engineering,Amanda Clifford,10,74.7,77.5,66.0,82.8,85.0,58.0,0,0,1,2,0,0,1,2,3,1,0
+UBCV,2022,W,MANU,400,C,201,Topics in Manufacturing Engineering,Adam Clare,23,80.2,81.0,76.0,83.0,89.0,71.0,0,0,0,0,0,1,3,5,9,5,0
+UBCV,2022,W,MANU,430,,001,Manufacturing Design Capstone Project,Casey Keulen;Christoph Sielmann,24,80.3,80.5,74.8,86.3,93.0,66.0,0,0,0,0,2,1,5,2,6,4,4
+UBCV,2022,W,MANU,465,,101,AI and Machine Learning Applications in Manufacturing,Ahmad Mohammadpanah Foroutaghe,59,82.3,83.0,81.0,84.0,90.0,44.0,1,0,0,0,0,1,0,1,45,8,3
+UBCV,2022,W,MANU,480,,101,Manufacturing Processes II,Thomas Benjamin Britton,25,74.0,75.0,71.0,80.0,86.0,43.0,1,0,1,0,2,4,5,5,5,2,0
+UBCV,2022,W,MANU,481,,201,Manufacturing Processes III,Yasmine Abdin,26,84.1,85.0,80.0,89.0,95.0,66.0,0,0,0,0,1,0,0,5,6,8,6
+UBCV,2022,W,MANU,485,,201,Metal Cutting and Machine Tool Vibrations,Xiaoliang Jin,27,76.9,80.0,67.5,86.5,92.0,52.0,0,1,1,1,4,2,3,1,6,2,6

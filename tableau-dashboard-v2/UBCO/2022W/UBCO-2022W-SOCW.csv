@@ -1,25 +1,25 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2022,W,SOCW,511,,001,Introduction to Social Work,Laura Hockman,53,93.6,94.0,93.0,94.0,95.0,91.0,0,0,0,0,0,0,0,0,0,0,53
-UBCO,2022,W,SOCW,512,,001,Theories and Interventions for Clinical Social Work,Mary Ann Murphy,29,88.5,89.0,87.0,91.0,92.0,83.0,,,,,,,,,,16,11
-UBCO,2022,W,SOCW,512,,002,Theories and Interventions for Clinical Social Work,Mary Ann Murphy,24,88.0,88.0,86.0,90.0,92.0,80.0,,,,,,,,,,12,9
-UBCO,2022,W,SOCW,513,,001,Assessment Skills for Clinical Social Work,Jeffrey More,29,92.0,93.0,92.0,93.0,94.0,86.0,,,,,,,,,,,27
-UBCO,2022,W,SOCW,513,,002,Assessment Skills for Clinical Social Work,Jeffrey More,24,91.3,91.0,91.0,92.0,95.0,86.0,,,,,,,,,,,22
-UBCO,2022,W,SOCW,514,,001,Diversity and Critical Reflexive Practice,Rachelle Hole,53,92.5,93.0,91.0,94.0,97.0,85.0,,,,,,,,,,,49
-UBCO,2022,W,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,22,91.2,90.5,90.0,93.0,95.0,88.0,,,,,,,,,,,17
-UBCO,2022,W,SOCW,517,,001,Social Work and Indigenous Peoples in Canada,Jeffrey More,24,89.8,90.0,88.8,91.0,97.0,82.0,,,,,,,,,,7,16
-UBCO,2022,W,SOCW,517,,002,Social Work and Indigenous Peoples in Canada,Jeffrey More,30,90.5,91.0,89.0,92.0,95.0,80.0,,,,,,,,,,8,21
-UBCO,2022,W,SOCW,520,,001,Social Work Practice with Families,Andrea Antonishen,26,85.5,86.0,83.3,89.0,93.0,70.0,,,,,,,,,,13,
-UBCO,2022,W,SOCW,531,,001,Anti-Racist and Anti-Oppressive Clinical Practice,Shirley Bo Yee Chau,25,87.2,87.0,86.0,88.0,94.0,82.0,,,,,,,,,,17,
-UBCO,2022,W,SOCW,531,,002,Anti-Racist and Anti-Oppressive Clinical Practice,Shirley Bo Yee Chau,8,88.6,90.0,88.5,91.3,92.0,78.0,,,,,,,,,,,
-UBCO,2022,W,SOCW,540,D,001,Selected Topics in Social Work Practice,Mary Clare Kennedy,11,88.7,88.0,87.5,91.0,94.0,80.0,,,,,,,,,,6,
-UBCO,2022,W,SOCW,540,H,001,Selected Topics in Social Work Practice,Andrea Antonishen,25,82.7,83.0,79.0,87.0,91.0,72.0,,,,,,,,,8,8,
+UBCO,2022,W,SOCW,512,,001,Theories and Interventions for Clinical Social Work,Mary Ann Murphy,29,88.5,89.0,87.0,91.0,92.0,83.0,0,0,0,0,0,0,0,0,2,16,11
+UBCO,2022,W,SOCW,512,,002,Theories and Interventions for Clinical Social Work,Mary Ann Murphy,24,88.0,88.0,86.0,90.0,92.0,80.0,0,0,0,0,0,0,0,0,3,12,9
+UBCO,2022,W,SOCW,513,,001,Assessment Skills for Clinical Social Work,Jeffrey More,29,92.0,93.0,92.0,93.0,94.0,86.0,0,0,0,0,0,0,0,0,0,2,27
+UBCO,2022,W,SOCW,513,,002,Assessment Skills for Clinical Social Work,Jeffrey More,24,91.3,91.0,91.0,92.0,95.0,86.0,0,0,0,0,0,0,0,0,0,2,22
+UBCO,2022,W,SOCW,514,,001,Diversity and Critical Reflexive Practice,Rachelle Hole,53,92.5,93.0,91.0,94.0,97.0,85.0,0,0,0,0,0,0,0,0,0,4,49
+UBCO,2022,W,SOCW,515,,001,Social Welfare Policy in Canada,Dixon Sookraj,22,91.2,90.5,90.0,93.0,95.0,88.0,0,0,0,0,0,0,0,0,0,5,17
+UBCO,2022,W,SOCW,517,,001,Social Work and Indigenous Peoples in Canada,Jeffrey More,24,89.8,90.0,88.8,91.0,97.0,82.0,0,0,0,0,0,0,0,0,1,7,16
+UBCO,2022,W,SOCW,517,,002,Social Work and Indigenous Peoples in Canada,Jeffrey More,30,90.5,91.0,89.0,92.0,95.0,80.0,0,0,0,0,0,0,0,0,1,8,21
+UBCO,2022,W,SOCW,520,,001,Social Work Practice with Families,Andrea Antonishen,26,85.5,86.0,83.3,89.0,93.0,70.0,0,0,0,0,0,1,1,1,5,13,5
+UBCO,2022,W,SOCW,531,,001,Anti-Racist and Anti-Oppressive Clinical Practice,Shirley Bo Yee Chau,25,87.2,87.0,86.0,88.0,94.0,82.0,0,0,0,0,0,0,0,0,5,17,3
+UBCO,2022,W,SOCW,531,,002,Anti-Racist and Anti-Oppressive Clinical Practice,Shirley Bo Yee Chau,8,88.6,90.0,88.5,91.3,92.0,78.0,0,0,0,0,0,0,0,1,0,2,5
+UBCO,2022,W,SOCW,540,D,001,Selected Topics in Social Work Practice,Mary Clare Kennedy,11,88.7,88.0,87.5,91.0,94.0,80.0,0,0,0,0,0,0,0,0,1,6,4
+UBCO,2022,W,SOCW,540,H,001,Selected Topics in Social Work Practice,Andrea Antonishen,25,82.7,83.0,79.0,87.0,91.0,72.0,0,0,0,0,0,0,3,4,8,8,2
 UBCO,2022,W,SOCW,551,,001,Advanced Clinical Social Work Theory and Practice,Jeffrey More,39,91.3,92.0,90.0,93.0,95.0,85.0,0,0,0,0,0,0,0,0,0,7,32
-UBCO,2022,W,SOCW,551,,002,Advanced Clinical Social Work Theory and Practice,Jeffrey More,25,91.9,92.0,91.0,93.0,95.0,89.0,,,,,,,,,,,21
+UBCO,2022,W,SOCW,551,,002,Advanced Clinical Social Work Theory and Practice,Jeffrey More,25,91.9,92.0,91.0,93.0,95.0,89.0,0,0,0,0,0,0,0,0,0,4,21
 UBCO,2022,W,SOCW,553,,001,Research Knowledge and Evidence in Clinical Social Work Practice,Shirley Bo Yee Chau,25,85.5,85.0,85.0,87.0,88.0,83.0,0,0,0,0,0,0,0,0,6,19,0
-UBCO,2022,W,SOCW,553,,002,Research Knowledge and Evidence in Clinical Social Work Practice,Michelle St. Pierre,17,91.3,91.0,90.0,93.0,96.0,83.0,,,,,,,,,,,14
+UBCO,2022,W,SOCW,553,,002,Research Knowledge and Evidence in Clinical Social Work Practice,Michelle St. Pierre,17,91.3,91.0,90.0,93.0,96.0,83.0,0,0,0,0,0,0,0,0,1,2,14
 UBCO,2022,W,SOCW,553,,003,Research Knowledge and Evidence in Clinical Social Work Practice,Edward Taylor,23,90.0,90.0,88.0,92.5,94.0,86.0,0,0,0,0,0,0,0,0,0,8,15
-UBCO,2022,W,SOCW,554,,001,Mental Health and Mental Illness,Shelly Ben-David,38,88.4,89.5,83.0,93.0,99.0,68.0,,,,,,,,,,8,19
-UBCO,2022,W,SOCW,554,,002,Mental Health and Mental Illness,Donna Jansons,27,91.6,94.0,88.0,96.0,99.0,70.0,,,,,,,,,,6,18
-UBCO,2022,W,SOCW,555,,001,Organizations and Leadership,Judy Gillespie,29,84.9,85.0,83.0,88.0,90.0,74.0,,,,,,,,,12,15,
-UBCO,2022,W,SOCW,555,,002,Organizations and Leadership,Judy Gillespie,36,85.6,86.0,83.0,88.3,92.0,77.0,,,,,,,,,8,17,7
-UBCO,2022,W,SOCW,564,,001,Trauma-Informed Clinical Social Work,Tara Ettinger,29,88.3,88.0,86.0,91.0,93.0,84.0,,,,,,,,,,16,10
+UBCO,2022,W,SOCW,554,,001,Mental Health and Mental Illness,Shelly Ben-David,38,88.4,89.5,83.0,93.0,99.0,68.0,0,0,0,0,0,1,0,5,5,8,19
+UBCO,2022,W,SOCW,554,,002,Mental Health and Mental Illness,Donna Jansons,27,91.6,94.0,88.0,96.0,99.0,70.0,0,0,0,0,0,1,0,0,2,6,18
+UBCO,2022,W,SOCW,555,,001,Organizations and Leadership,Judy Gillespie,29,84.9,85.0,83.0,88.0,90.0,74.0,0,0,0,0,0,0,1,0,12,15,1
+UBCO,2022,W,SOCW,555,,002,Organizations and Leadership,Judy Gillespie,36,85.6,86.0,83.0,88.3,92.0,77.0,0,0,0,0,0,0,0,4,8,17,7
+UBCO,2022,W,SOCW,564,,001,Trauma-Informed Clinical Social Work,Tara Ettinger,29,88.3,88.0,86.0,91.0,93.0,84.0,0,0,0,0,0,0,0,0,3,16,10

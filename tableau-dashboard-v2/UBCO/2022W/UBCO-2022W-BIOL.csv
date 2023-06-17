@@ -1,59 +1,59 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2022,W,BIOL,116,,001,Biology for Science Majors I,Robin Young,349,73.6,77.0,70.0,82.0,95.0,0.0,41,0,6,7,15,40,44,44,89,50,13
-UBCO,2022,W,BIOL,116,,002,Biology for Science Majors I,Robin Young,141,76.0,77.0,72.0,85.0,97.0,49.0,16,,,,,13,22,23,21,24,17
-UBCO,2022,W,BIOL,117,,101,Evolution and Ecology,Carson Keever,57,73.9,78.0,73.0,83.0,94.0,0.0,,,,,,,10,13,10,7,
-UBCO,2022,W,BIOL,122,,101,Physiology of Multicellular Organisms,Matthew Nelson,29,64.1,67.0,54.0,81.0,93.0,0.0,7,,,,,,,,9,,
+UBCO,2022,W,BIOL,116,,002,Biology for Science Majors I,Robin Young,141,76.0,77.0,72.0,85.0,97.0,49.0,16,0,1,2,2,13,22,23,21,24,17
+UBCO,2022,W,BIOL,117,,101,Evolution and Ecology,Carson Keever,57,73.9,78.0,73.0,83.0,94.0,0.0,5,0,1,1,2,3,10,13,10,7,5
+UBCO,2022,W,BIOL,122,,101,Physiology of Multicellular Organisms,Matthew Nelson,29,64.1,67.0,54.0,81.0,93.0,0.0,7,2,2,1,4,1,1,1,9,0,1
 UBCO,2022,W,BIOL,125,,101,Biology for Science Majors II,Matthew Nelson,239,68.1,70.0,59.5,80.0,98.0,0.0,35,7,18,26,18,23,26,24,34,16,12
 UBCO,2022,W,BIOL,125,,102,Biology for Science Majors II,Matthew Nelson,160,68.7,68.5,61.0,77.3,93.0,26.0,15,1,15,23,20,21,18,18,12,10,7
-UBCO,2022,W,BIOL,131,,001,Human Anatomy and Physiology I,Zoe Soon,218,81.1,84.0,75.0,89.0,98.0,6.0,,,,,,16,27,27,33,54,46
-UBCO,2022,W,BIOL,133,,101,Human Anatomy and Physiology II,Zoe Soon,197,81.5,83.0,76.0,89.0,100.0,35.0,,,,,6,13,18,26,43,38,44
-UBCO,2022,W,BIOL,200,,001,Cell Biology,Robin Young,140,70.7,71.0,63.0,80.0,95.0,43.0,18,,,12,12,23,16,12,23,13,
-UBCO,2022,W,BIOL,200,,101,Cell Biology,Robin Young,151,72.7,73.0,67.0,81.0,92.0,30.0,12,,,6,21,26,15,20,26,15,6
-UBCO,2022,W,BIOL,201,,001,Introduction to Evolution and Ecology,Ken Savage,96,70.6,72.0,65.0,78.0,93.0,34.0,,6,6,,11,13,12,20,12,6,
-UBCO,2022,W,BIOL,201,,101,Introduction to Evolution and Ecology,Ken Savage,184,70.4,72.0,62.0,80.0,93.0,35.0,14,,14,20,16,23,15,27,22,24,
+UBCO,2022,W,BIOL,131,,001,Human Anatomy and Physiology I,Zoe Soon,218,81.1,84.0,75.0,89.0,98.0,6.0,3,2,4,2,4,16,27,27,33,54,46
+UBCO,2022,W,BIOL,133,,101,Human Anatomy and Physiology II,Zoe Soon,197,81.5,83.0,76.0,89.0,100.0,35.0,4,1,0,4,6,13,18,26,43,38,44
+UBCO,2022,W,BIOL,200,,001,Cell Biology,Robin Young,140,70.7,71.0,63.0,80.0,95.0,43.0,18,1,5,12,12,23,16,12,23,13,5
+UBCO,2022,W,BIOL,200,,101,Cell Biology,Robin Young,151,72.7,73.0,67.0,81.0,92.0,30.0,12,0,4,6,21,26,15,20,26,15,6
+UBCO,2022,W,BIOL,201,,001,Introduction to Evolution and Ecology,Ken Savage,96,70.6,72.0,65.0,78.0,93.0,34.0,3,6,6,5,11,13,12,20,12,6,2
+UBCO,2022,W,BIOL,201,,101,Introduction to Evolution and Ecology,Ken Savage,184,70.4,72.0,62.0,80.0,93.0,35.0,14,4,14,20,16,23,15,27,22,24,5
 UBCO,2022,W,BIOL,202,,001,Introduction to Biostatistics,Jason Pither,283,74.0,75.0,67.0,83.0,98.0,22.0,22,2,12,14,28,30,36,33,50,29,27
 UBCO,2022,W,BIOL,204,,001,Vertebrate Structure and Function,Ken Savage,132,68.2,68.0,59.8,76.3,100.0,10.0,14,3,16,12,17,14,17,10,11,9,9
 UBCO,2022,W,BIOL,205,,001,Comparative Invertebrate Zoology,Matthew Nelson,122,72.7,73.0,65.0,82.0,97.0,44.0,6,1,11,10,13,15,14,11,21,11,9
-UBCO,2022,W,BIOL,228,,001,Introductory Microbiology,Richard Plunkett,266,76.5,77.5,71.0,83.0,94.0,46.0,10,,,,18,35,46,37,60,41,13
-UBCO,2022,W,BIOL,232,,101,Human Infectious Disease,Mitrasadat Tabatabaee,134,81.1,82.0,74.0,89.0,99.0,44.0,,,,6,7,12,10,13,28,22,33
-UBCO,2022,W,BIOL,265,,001,Principles of Genetics,Brendan D'Souza,95,63.0,61.0,55.0,72.0,95.0,32.0,9,14,11,19,9,8,7,7,6,,
+UBCO,2022,W,BIOL,228,,001,Introductory Microbiology,Richard Plunkett,266,76.5,77.5,71.0,83.0,94.0,46.0,10,2,1,3,18,35,46,37,60,41,13
+UBCO,2022,W,BIOL,232,,101,Human Infectious Disease,Mitrasadat Tabatabaee,134,81.1,82.0,74.0,89.0,99.0,44.0,2,1,0,6,7,12,10,13,28,22,33
+UBCO,2022,W,BIOL,265,,001,Principles of Genetics,Brendan D'Souza,95,63.0,61.0,55.0,72.0,95.0,32.0,9,14,11,19,9,8,7,7,6,3,2
 UBCO,2022,W,BIOL,265,,101,Principles of Genetics,Brendan D'Souza,199,66.1,65.0,55.0,77.0,99.0,28.0,25,16,26,21,19,12,21,17,13,16,13
-UBCO,2022,W,BIOL,301,,001,Evolutionary Principles and Methods,Michael Russello,75,75.6,79.0,62.0,87.5,98.0,45.0,,,8,6,,7,,7,8,13,14
-UBCO,2022,W,BIOL,306,,101,Ecology of Animals,Robert Lalonde,105,73.5,74.0,67.0,82.0,94.0,30.0,,,,9,9,15,13,12,19,10,8
-UBCO,2022,W,BIOL,308,,001,Population Biology,Robert Lalonde,86,78.7,82.0,71.3,91.0,100.0,0.0,,,,,,,9,,15,10,27
-UBCO,2022,W,BIOL,309,,001,Field Ecology of Plants and Soil,Melanie Jones,24,76.0,80.0,71.5,83.8,94.0,0.0,,,,,,,,,7,,
-UBCO,2022,W,BIOL,311,,001,Biochemistry I,Richard Plunkett,121,78.0,78.0,73.0,85.0,100.0,42.0,8,,,,,11,19,23,19,16,18
-UBCO,2022,W,BIOL,312,,001,Virology,Mitrasadat Tabatabaee,77,78.0,80.0,69.0,88.0,98.0,0.0,,,,,12,,,9,13,14,14
-UBCO,2022,W,BIOL,312,,101,Virology,Mitrasadat Tabatabaee,87,69.3,68.0,59.0,83.5,96.0,35.0,10,,8,9,11,,,9,9,11,7
-UBCO,2022,W,BIOL,314,,001,Medical Microbiology,Mitrasadat Tabatabaee,86,72.3,76.0,61.0,85.8,97.0,30.0,6,7,7,9,,,,9,13,14,9
-UBCO,2022,W,BIOL,318,,001,Immunology,Deanna Gibson,80,73.4,75.0,65.8,82.0,95.0,41.0,,,,,10,9,9,9,15,10,
-UBCO,2022,W,BIOL,318,,002,Immunology,Deanna Gibson,99,68.9,70.0,62.0,77.0,87.0,44.0,,9,,16,10,15,13,13,14,,
-UBCO,2022,W,BIOL,319,,101,Biochemistry II,Richard Plunkett,71,77.1,78.0,70.0,85.0,97.0,49.0,,,,,,13,,9,14,10,10
-UBCO,2022,W,BIOL,341,,001,Neurobiology,Julien Gibon,108,74.4,75.5,66.0,83.0,95.0,47.0,,,8,,15,10,12,14,19,11,10
-UBCO,2022,W,BIOL,350,,101,Clinical Neuroscience,Julien Gibon,89,72.3,75.0,63.0,83.0,95.0,35.0,,,9,7,10,,11,10,10,12,8
-UBCO,2022,W,BIOL,354,,001,Cell Physiology,Mark Rheault,113,73.2,73.0,66.0,82.0,97.0,35.0,,6,,8,15,13,20,11,13,12,9
-UBCO,2022,W,BIOL,356,,101,Comparative Animal Physiology,Ken Savage,56,60.5,62.0,51.0,73.3,92.0,0.0,10,7,,9,,,,,,,
-UBCO,2022,W,BIOL,357,,001,Introduction to Entomology,Robert Lalonde,23,79.9,84.0,67.5,88.0,98.0,56.0,,,,,,,,,6,,
-UBCO,2022,W,BIOL,359,,001,Physiology Laboratory,Mark Rheault,8,81.5,83.5,77.8,85.5,88.0,70.0,,,,,,,,,,,
-UBCO,2022,W,BIOL,363,,101,Developmental Biology,Michael Deyholos,73,72.6,73.0,63.0,83.0,94.0,41.0,,,,10,,8,9,9,10,7,6
-UBCO,2022,W,BIOL,366,,001,Molecular Genetics,Soheil Mahmoud,138,78.0,79.5,71.0,85.0,95.0,42.0,,,,6,10,19,8,21,29,25,15
-UBCO,2022,W,BIOL,380,,101,Food and Industrial Microbiology,Mitrasadat Tabatabaee,84,72.7,71.0,65.0,82.0,98.0,46.0,,,,9,14,11,9,7,10,10,
-UBCO,2022,W,BIOL,381,,101,Environmental Microbiology,Laura Grieneisen,52,86.9,88.0,83.0,93.0,96.0,57.0,,,,,,,,,9,11,24
-UBCO,2022,W,BIOL,382,,101,Prokaryotic Physiology,Richard Plunkett,55,79.6,80.0,72.5,87.5,100.0,31.0,,,,,,,,9,10,8,12
-UBCO,2022,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,43,81.5,83.0,77.0,91.0,100.0,35.0,,,,,,,,,10,8,12
-UBCO,2022,W,BIOL,401,,001,Spatial Ecology,Karen Hodges,35,74.6,75.0,72.0,79.5,87.0,36.0,,,,,,,12,7,6,,
-UBCO,2022,W,BIOL,410,,001,Plant-Microbe Interactions,Miranda Hart,19,77.9,81.0,72.5,85.0,90.0,47.0,,,,,,,,,,,
-UBCO,2022,W,BIOL,417,,101,Evolutionary Ecology,Michael Noonan,61,83.7,87.0,83.0,90.0,97.0,0.0,,,,,,,,,10,23,18
-UBCO,2022,W,BIOL,420,H,001,Special Topics in Biology,Daniel Durall,19,82.3,84.0,77.0,86.5,93.0,68.0,,,,,,,,6,,,
-UBCO,2022,W,BIOL,420,I,001,Special Topics in Biology,Kirk Bergstrom,18,86.1,87.0,82.5,90.0,97.0,75.0,,,,,,,,,,,6
-UBCO,2022,W,BIOL,420,M,101,Special Topics in Biology,Sarah Purcell,41,79.3,79.0,72.0,90.0,96.0,51.0,,,,,,,,9,6,,11
-UBCO,2022,W,BIOL,420,N,101,Special Topics in Biology,Robin Young,26,87.6,90.0,85.0,95.0,98.0,30.0,,,,,,,,,,8,15
-UBCO,2022,W,BIOL,422,,101,Conservation Biology,Karen Hodges,41,76.7,76.0,73.0,83.0,88.0,65.0,,,,,6,,11,6,8,7,
-UBCO,2022,W,BIOL,426,,101,Cancer Biology,Christina Haston,30,71.9,74.0,60.3,82.8,94.0,37.0,,,,,,,,,8,,
-UBCO,2022,W,BIOL,459,,001,Behavioural Ecology,Matthew Nelson,82,80.5,82.0,76.3,87.8,98.0,25.0,,,,,,7,,11,20,17,16
-UBCO,2022,W,BIOL,461,,101,Cell Signaling,Brendan D'Souza;Robin Young,19,69.6,70.0,58.0,85.0,94.0,36.0,,,,,,,,,,,
-UBCO,2022,W,BIOL,468,,101,Molecular Approaches in Ecology and Evolution,Michael Russello,29,82.7,87.0,78.0,94.0,99.0,45.0,,,,,,,,,,8,9
-UBCO,2022,W,BIOL,477,,001,Bioinformatics,Michael Deyholos,35,85.9,88.0,82.5,94.0,98.0,52.0,,,,,,,,,,8,16
-UBCO,2022,W,BIOL,501,,001,Biology Seminar,Ken Savage,13,91.3,91.0,90.0,93.0,96.0,86.0,,,,,,,,,,,10
-UBCO,2022,W,BIOL,520,C,101,Special Topics in Biology,Michael Noonan,29,94.3,95.0,93.0,97.0,98.0,82.0,,,,,,,,,,,27
-UBCO,2022,W,BIOL,577,,001,Bioinformatics,Michael Deyholos,8,93.3,94.5,92.0,96.8,99.0,83.0,,,,,,,,,,,6
+UBCO,2022,W,BIOL,301,,001,Evolutionary Principles and Methods,Michael Russello,75,75.6,79.0,62.0,87.5,98.0,45.0,3,3,8,6,1,7,5,7,8,13,14
+UBCO,2022,W,BIOL,306,,101,Ecology of Animals,Robert Lalonde,105,73.5,74.0,67.0,82.0,94.0,30.0,2,4,4,9,9,15,13,12,19,10,8
+UBCO,2022,W,BIOL,308,,001,Population Biology,Robert Lalonde,86,78.7,82.0,71.3,91.0,100.0,0.0,5,0,5,3,4,5,9,3,15,10,27
+UBCO,2022,W,BIOL,309,,001,Field Ecology of Plants and Soil,Melanie Jones,24,76.0,80.0,71.5,83.8,94.0,0.0,1,0,0,1,1,3,1,4,7,4,2
+UBCO,2022,W,BIOL,311,,001,Biochemistry I,Richard Plunkett,121,78.0,78.0,73.0,85.0,100.0,42.0,8,0,0,2,5,11,19,23,19,16,18
+UBCO,2022,W,BIOL,312,,001,Virology,Mitrasadat Tabatabaee,77,78.0,80.0,69.0,88.0,98.0,0.0,1,1,2,3,12,3,5,9,13,14,14
+UBCO,2022,W,BIOL,312,,101,Virology,Mitrasadat Tabatabaee,87,69.3,68.0,59.0,83.5,96.0,35.0,10,4,8,9,11,4,5,9,9,11,7
+UBCO,2022,W,BIOL,314,,001,Medical Microbiology,Mitrasadat Tabatabaee,86,72.3,76.0,61.0,85.8,97.0,30.0,6,7,7,9,5,3,4,9,13,14,9
+UBCO,2022,W,BIOL,318,,001,Immunology,Deanna Gibson,80,73.4,75.0,65.8,82.0,95.0,41.0,1,5,3,5,10,9,9,9,15,10,4
+UBCO,2022,W,BIOL,318,,002,Immunology,Deanna Gibson,99,68.9,70.0,62.0,77.0,87.0,44.0,3,9,3,16,10,15,13,13,14,3,0
+UBCO,2022,W,BIOL,319,,101,Biochemistry II,Richard Plunkett,71,77.1,78.0,70.0,85.0,97.0,49.0,4,0,2,3,2,13,4,9,14,10,10
+UBCO,2022,W,BIOL,341,,001,Neurobiology,Julien Gibon,108,74.4,75.5,66.0,83.0,95.0,47.0,4,1,8,4,15,10,12,14,19,11,10
+UBCO,2022,W,BIOL,350,,101,Clinical Neuroscience,Julien Gibon,89,72.3,75.0,63.0,83.0,95.0,35.0,5,3,9,7,10,4,11,10,10,12,8
+UBCO,2022,W,BIOL,354,,001,Cell Physiology,Mark Rheault,113,73.2,73.0,66.0,82.0,97.0,35.0,3,6,3,8,15,13,20,11,13,12,9
+UBCO,2022,W,BIOL,356,,101,Comparative Animal Physiology,Ken Savage,56,60.5,62.0,51.0,73.3,92.0,0.0,10,7,5,9,4,5,4,5,3,2,2
+UBCO,2022,W,BIOL,357,,001,Introduction to Entomology,Robert Lalonde,23,79.9,84.0,67.5,88.0,98.0,56.0,0,0,1,1,4,1,0,0,6,5,5
+UBCO,2022,W,BIOL,359,,001,Physiology Laboratory,Mark Rheault,8,81.5,83.5,77.8,85.5,88.0,70.0,0,0,0,0,0,1,0,2,1,4,0
+UBCO,2022,W,BIOL,363,,101,Developmental Biology,Michael Deyholos,73,72.6,73.0,63.0,83.0,94.0,41.0,1,4,5,10,4,8,9,9,10,7,6
+UBCO,2022,W,BIOL,366,,001,Molecular Genetics,Soheil Mahmoud,138,78.0,79.5,71.0,85.0,95.0,42.0,1,0,4,6,10,19,8,21,29,25,15
+UBCO,2022,W,BIOL,380,,101,Food and Industrial Microbiology,Mitrasadat Tabatabaee,84,72.7,71.0,65.0,82.0,98.0,46.0,1,3,5,9,14,11,9,7,10,10,5
+UBCO,2022,W,BIOL,381,,101,Environmental Microbiology,Laura Grieneisen,52,86.9,88.0,83.0,93.0,96.0,57.0,0,0,1,0,0,0,3,4,9,11,24
+UBCO,2022,W,BIOL,382,,101,Prokaryotic Physiology,Richard Plunkett,55,79.6,80.0,72.5,87.5,100.0,31.0,1,0,0,2,5,4,4,9,10,8,12
+UBCO,2022,W,BIOL,393,,101,Biochemistry Laboratory,Brendan D'Souza;Richard Plunkett,43,81.5,83.0,77.0,91.0,100.0,35.0,1,0,2,1,0,4,2,3,10,8,12
+UBCO,2022,W,BIOL,401,,001,Spatial Ecology,Karen Hodges,35,74.6,75.0,72.0,79.5,87.0,36.0,1,0,1,0,3,2,12,7,6,3,0
+UBCO,2022,W,BIOL,410,,001,Plant-Microbe Interactions,Miranda Hart,19,77.9,81.0,72.5,85.0,90.0,47.0,1,0,0,0,2,2,1,3,4,4,2
+UBCO,2022,W,BIOL,417,,101,Evolutionary Ecology,Michael Noonan,61,83.7,87.0,83.0,90.0,97.0,0.0,1,1,0,1,1,1,1,4,10,23,18
+UBCO,2022,W,BIOL,420,H,001,Special Topics in Biology,Daniel Durall,19,82.3,84.0,77.0,86.5,93.0,68.0,0,0,0,0,0,1,1,6,3,5,3
+UBCO,2022,W,BIOL,420,I,001,Special Topics in Biology,Kirk Bergstrom,18,86.1,87.0,82.5,90.0,97.0,75.0,0,0,0,0,0,0,2,2,3,5,6
+UBCO,2022,W,BIOL,420,M,101,Special Topics in Biology,Sarah Purcell,41,79.3,79.0,72.0,90.0,96.0,51.0,0,1,1,1,4,1,5,9,6,2,11
+UBCO,2022,W,BIOL,420,N,101,Special Topics in Biology,Robin Young,26,87.6,90.0,85.0,95.0,98.0,30.0,1,0,0,0,0,0,1,1,0,8,15
+UBCO,2022,W,BIOL,422,,101,Conservation Biology,Karen Hodges,41,76.7,76.0,73.0,83.0,88.0,65.0,0,0,0,0,6,3,11,6,8,7,0
+UBCO,2022,W,BIOL,426,,101,Cancer Biology,Christina Haston,30,71.9,74.0,60.3,82.8,94.0,37.0,2,0,5,2,3,0,4,2,8,2,2
+UBCO,2022,W,BIOL,459,,001,Behavioural Ecology,Matthew Nelson,82,80.5,82.0,76.3,87.8,98.0,25.0,1,1,1,2,3,7,3,11,20,17,16
+UBCO,2022,W,BIOL,461,,101,Cell Signaling,Brendan D'Souza;Robin Young,19,69.6,70.0,58.0,85.0,94.0,36.0,2,1,2,1,2,3,1,1,1,3,2
+UBCO,2022,W,BIOL,468,,101,Molecular Approaches in Ecology and Evolution,Michael Russello,29,82.7,87.0,78.0,94.0,99.0,45.0,1,1,0,2,0,2,1,1,4,8,9
+UBCO,2022,W,BIOL,477,,001,Bioinformatics,Michael Deyholos,35,85.9,88.0,82.5,94.0,98.0,52.0,0,2,0,0,1,0,2,1,5,8,16
+UBCO,2022,W,BIOL,501,,001,Biology Seminar,Ken Savage,13,91.3,91.0,90.0,93.0,96.0,86.0,0,0,0,0,0,0,0,0,0,3,10
+UBCO,2022,W,BIOL,520,C,101,Special Topics in Biology,Michael Noonan,29,94.3,95.0,93.0,97.0,98.0,82.0,0,0,0,0,0,0,0,0,1,1,27
+UBCO,2022,W,BIOL,577,,001,Bioinformatics,Michael Deyholos,8,93.3,94.5,92.0,96.8,99.0,83.0,0,0,0,0,0,0,0,0,1,1,6

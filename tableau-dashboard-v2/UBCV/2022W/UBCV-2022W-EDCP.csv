@@ -1,54 +1,54 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,EDCP,210,,301,Introduction to Music Education,Karen Lee,13,90.6,91.0,88.0,94.0,97.0,82.0,,,,,,,,,,,7
-UBCV,2022,W,EDCP,303,,001,Ceramic Design and Pedagogical Approaches: Art Education,Peisen Ding,29,91.4,96.0,93.0,97.0,99.0,11.0,,,,,,,,,,,27
-UBCV,2022,W,EDCP,303,,002,Ceramic Design and Pedagogical Approaches: Art Education,Peisen Ding,26,95.0,96.0,94.0,97.0,98.0,85.0,,,,,,,,,,,24
-UBCV,2022,W,EDCP,304,,001,Textile Design and Pedagogical Approaches: Art Education,Lorrie Miller,24,92.9,93.5,90.0,97.3,100.0,78.0,,,,,,,,,,,20
-UBCV,2022,W,EDCP,304,,002,Textile Design and Pedagogical Approaches: Art Education,Lorrie Miller,25,91.2,94.0,90.0,96.0,100.0,60.0,,,,,,,,,,,20
-UBCV,2022,W,EDCP,305,,301,Digital Media in Arts Education: Introduction,Daniel Bakan,17,87.8,88.0,83.0,92.0,98.0,75.0,,,,,,,,,,,8
-UBCV,2022,W,EDCP,312,A,301,Instrumental Pedagogy: Secondary,Karen Lee,19,91.5,91.0,89.0,94.0,98.0,84.0,,,,,,,,,,,13
-UBCV,2022,W,EDCP,313,A,301,Choral Pedagogy: Secondary,Frances Roberts,23,86.6,89.0,84.0,92.0,96.0,68.0,,,,,,,,,,7,9
-UBCV,2022,W,EDCP,326,,301,Health Education: Curriculum and Pedagogy,Leanne Petherick,33,88.1,88.0,86.0,90.0,94.0,84.0,,,,,,,,,,18,11
-UBCV,2022,W,EDCP,362,D,377,Curriculum Design and Evaluation: Practical and Theoretical Issues,Shannon Leddy,7,77.1,89.0,83.5,94.0,96.0,0.0,,,,,,,,,,,
-UBCV,2022,W,EDCP,403,,001,Visual Arts for Classroom Practice: Three-Dimensional Practices and Processes,Kory Bogen,30,90.0,93.5,90.3,95.0,98.0,34.0,,,,,,,,,,,23
-UBCV,2022,W,EDCP,404,,001,Visual Arts for Classroom Practice: Textile Design,Lorrie Miller,28,88.1,92.0,89.5,94.0,100.0,40.0,,,,,,,,,,,21
-UBCV,2022,W,EDCP,410,,301,Music and Movement - Elementary: Curriculum and Pedagogy,Matthew Yanko,30,86.4,87.0,85.0,88.0,92.0,78.0,,,,,,,,,,21,
-UBCV,2022,W,EDCP,412,,301,Conducting and Rehearsal Techniques for Teachers,Donald Maclennan,16,89.8,90.0,86.8,92.0,97.0,84.0,,,,,,,,,,,10
-UBCV,2022,W,EDCP,441,B,301,Assessment in Mathematics Education,Kevin Li,18,93.2,95.0,88.5,96.0,100.0,83.0,,,,,,,,,,,13
+UBCV,2022,W,EDCP,210,,301,Introduction to Music Education,Karen Lee,13,90.6,91.0,88.0,94.0,97.0,82.0,0,0,0,0,0,0,0,0,2,4,7
+UBCV,2022,W,EDCP,303,,001,Ceramic Design and Pedagogical Approaches: Art Education,Peisen Ding,29,91.4,96.0,93.0,97.0,99.0,11.0,1,0,0,0,0,1,0,0,0,0,27
+UBCV,2022,W,EDCP,303,,002,Ceramic Design and Pedagogical Approaches: Art Education,Peisen Ding,26,95.0,96.0,94.0,97.0,98.0,85.0,0,0,0,0,0,0,0,0,0,2,24
+UBCV,2022,W,EDCP,304,,001,Textile Design and Pedagogical Approaches: Art Education,Lorrie Miller,24,92.9,93.5,90.0,97.3,100.0,78.0,0,0,0,0,0,0,0,1,1,2,20
+UBCV,2022,W,EDCP,304,,002,Textile Design and Pedagogical Approaches: Art Education,Lorrie Miller,25,91.2,94.0,90.0,96.0,100.0,60.0,0,0,0,1,0,0,1,1,1,1,20
+UBCV,2022,W,EDCP,305,,301,Digital Media in Arts Education: Introduction,Daniel Bakan,17,87.8,88.0,83.0,92.0,98.0,75.0,0,0,0,0,0,0,1,0,5,3,8
+UBCV,2022,W,EDCP,312,A,301,Instrumental Pedagogy: Secondary,Karen Lee,19,91.5,91.0,89.0,94.0,98.0,84.0,0,0,0,0,0,0,0,0,1,5,13
+UBCV,2022,W,EDCP,313,A,301,Choral Pedagogy: Secondary,Frances Roberts,23,86.6,89.0,84.0,92.0,96.0,68.0,0,0,0,0,0,2,0,2,3,7,9
+UBCV,2022,W,EDCP,326,,301,Health Education: Curriculum and Pedagogy,Leanne Petherick,33,88.1,88.0,86.0,90.0,94.0,84.0,0,0,0,0,0,0,0,0,4,18,11
+UBCV,2022,W,EDCP,362,D,377,Curriculum Design and Evaluation: Practical and Theoretical Issues,Shannon Leddy,7,77.1,89.0,83.5,94.0,96.0,0.0,1,0,0,0,0,0,0,0,1,2,3
+UBCV,2022,W,EDCP,403,,001,Visual Arts for Classroom Practice: Three-Dimensional Practices and Processes,Kory Bogen,30,90.0,93.5,90.3,95.0,98.0,34.0,1,0,0,0,0,0,1,1,2,2,23
+UBCV,2022,W,EDCP,404,,001,Visual Arts for Classroom Practice: Textile Design,Lorrie Miller,28,88.1,92.0,89.5,94.0,100.0,40.0,1,1,0,0,0,1,0,0,0,4,21
+UBCV,2022,W,EDCP,410,,301,Music and Movement - Elementary: Curriculum and Pedagogy,Matthew Yanko,30,86.4,87.0,85.0,88.0,92.0,78.0,0,0,0,0,0,0,0,1,5,21,3
+UBCV,2022,W,EDCP,412,,301,Conducting and Rehearsal Techniques for Teachers,Donald Maclennan,16,89.8,90.0,86.8,92.0,97.0,84.0,0,0,0,0,0,0,0,0,1,5,10
+UBCV,2022,W,EDCP,441,B,301,Assessment in Mathematics Education,Kevin Li,18,93.2,95.0,88.5,96.0,100.0,83.0,0,0,0,0,0,0,0,0,1,4,13
 UBCV,2022,W,EDCP,442,,301,Mathematics History for Teachers,Amanda Fritzlan,15,89.9,90.0,89.0,91.0,94.0,87.0,0,0,0,0,0,0,0,0,0,6,9
-UBCV,2022,W,EDCP,471,A,301,Technological Practices in Education: Technical Problems,Kieran Forde,22,88.4,89.0,85.3,92.0,96.0,80.0,,,,,,,,,,8,9
-UBCV,2022,W,EDCP,491,,301,Home Economics II - Secondary: Curriculum and Pedagogy,Joseph Tong,9,98.7,100.0,100.0,100.0,100.0,88.0,,,,,,,,,,,8
-UBCV,2022,W,EDCP,492,,63A,Special Study in Home Economics: Textile Studies,Megan Brevner,22,82.9,90.5,79.3,95.0,97.0,20.0,,,,,,,,,,,12
-UBCV,2022,W,EDCP,498,,63C,Curriculum Inquiry in Home Economics Education,Melissa Bauer Edstrom,20,87.8,89.5,86.0,91.3,95.0,70.0,,,,,,,,,,7,10
-UBCV,2022,W,EDCP,508,,61B,Review of Research in Curriculum and Pedagogy,Dragana Martinovic,18,90.8,92.0,87.3,95.0,99.0,78.0,,,,,,,,,,,10
-UBCV,2022,W,EDCP,508,,61C,Review of Research in Curriculum and Pedagogy,Dragana Martinovic,14,88.7,90.5,86.3,93.5,96.0,75.0,,,,,,,,,,,8
-UBCV,2022,W,EDCP,508,B,031,Review of Research in Curriculum and Pedagogy,Peter Gouzouasis,17,88.0,88.0,85.0,90.0,94.0,83.0,,,,,,,,,,8,6
-UBCV,2022,W,EDCP,514,,031,Arts-Based Educational Research: A/r/tography,Rita Irwin;Marzieh Mosavarzadeh,17,91.1,91.0,90.0,92.0,97.0,85.0,,,,,,,,,,,13
-UBCV,2022,W,EDCP,520,,031,"Perspectives, Practice, and Curriculum Issues in Contemporary Art Education",Marie-France Berard,10,89.9,90.0,90.0,90.8,92.0,87.0,,,,,,,,,,,8
-UBCV,2022,W,EDCP,523,A,032,Seminar in Art Education,Marie-France Berard,12,90.3,90.0,89.8,91.3,94.0,87.0,,,,,,,,,,,9
-UBCV,2022,W,EDCP,526,B,032,Theory and Principles of Music Education,Scott Goble,16,88.3,92.0,82.5,95.0,97.0,74.0,,,,,,,,,,,9
+UBCV,2022,W,EDCP,471,A,301,Technological Practices in Education: Technical Problems,Kieran Forde,22,88.4,89.0,85.3,92.0,96.0,80.0,0,0,0,0,0,0,0,0,5,8,9
+UBCV,2022,W,EDCP,491,,301,Home Economics II - Secondary: Curriculum and Pedagogy,Joseph Tong,9,98.7,100.0,100.0,100.0,100.0,88.0,0,0,0,0,0,0,0,0,0,1,8
+UBCV,2022,W,EDCP,492,,63A,Special Study in Home Economics: Textile Studies,Megan Brevner,22,82.9,90.5,79.3,95.0,97.0,20.0,2,0,0,0,1,0,1,2,1,3,12
+UBCV,2022,W,EDCP,498,,63C,Curriculum Inquiry in Home Economics Education,Melissa Bauer Edstrom,20,87.8,89.5,86.0,91.3,95.0,70.0,0,0,0,0,0,1,1,0,1,7,10
+UBCV,2022,W,EDCP,508,,61B,Review of Research in Curriculum and Pedagogy,Dragana Martinovic,18,90.8,92.0,87.3,95.0,99.0,78.0,0,0,0,0,0,0,0,1,2,5,10
+UBCV,2022,W,EDCP,508,,61C,Review of Research in Curriculum and Pedagogy,Dragana Martinovic,14,88.7,90.5,86.3,93.5,96.0,75.0,0,0,0,0,0,0,1,1,1,3,8
+UBCV,2022,W,EDCP,508,B,031,Review of Research in Curriculum and Pedagogy,Peter Gouzouasis,17,88.0,88.0,85.0,90.0,94.0,83.0,0,0,0,0,0,0,0,0,3,8,6
+UBCV,2022,W,EDCP,514,,031,Arts-Based Educational Research: A/r/tography,Rita Irwin;Marzieh Mosavarzadeh,17,91.1,91.0,90.0,92.0,97.0,85.0,0,0,0,0,0,0,0,0,0,4,13
+UBCV,2022,W,EDCP,520,,031,"Perspectives, Practice, and Curriculum Issues in Contemporary Art Education",Marie-France Berard,10,89.9,90.0,90.0,90.8,92.0,87.0,0,0,0,0,0,0,0,0,0,2,8
+UBCV,2022,W,EDCP,523,A,032,Seminar in Art Education,Marie-France Berard,12,90.3,90.0,89.8,91.3,94.0,87.0,0,0,0,0,0,0,0,0,0,3,9
+UBCV,2022,W,EDCP,526,B,032,Theory and Principles of Music Education,Scott Goble,16,88.3,92.0,82.5,95.0,97.0,74.0,0,0,0,0,0,0,1,2,3,1,9
 UBCV,2022,W,EDCP,530,,031,Curriculum Innovations in Physical Education,Shawn Forde,11,93.2,95.0,90.0,95.0,95.0,90.0,0,0,0,0,0,0,0,0,0,0,11
-UBCV,2022,W,EDCP,533,,032,"Health, Outdoor and Physical Experiential Education Curriculum, Pedagogy and Place in the Elementary School",Stephen Mcginley,11,92.4,93.0,90.0,95.0,95.0,88.0,,,,,,,,,,,9
-UBCV,2022,W,EDCP,534,,032,Health Promotion and Education,Leanne Petherick,10,90.5,91.0,90.0,91.8,93.0,87.0,,,,,,,,,,,8
-UBCV,2022,W,EDCP,537,,61A,Foundations of Home Economics Education,Kerry Renwick,16,91.9,93.0,90.0,96.5,98.0,75.0,,,,,,,,,,,13
-UBCV,2022,W,EDCP,541,,61A,Problems in Historical Understanding,Lindsay Gibson,17,88.5,89.0,89.0,92.0,95.0,72.0,,,,,,,,,,6,8
-UBCV,2022,W,EDCP,542,,62A,Theorizing Pedagogy,Donna Kozak,21,92.7,92.0,91.0,95.0,98.0,88.0,,,,,,,,,,,19
-UBCV,2022,W,EDCP,544,,61A,Mathematics and Science Teaching and Learning with Technologies,Angela Rutakomozibwa,16,91.9,94.5,91.5,95.0,98.0,78.0,,,,,,,,,,,13
+UBCV,2022,W,EDCP,533,,032,"Health, Outdoor and Physical Experiential Education Curriculum, Pedagogy and Place in the Elementary School",Stephen Mcginley,11,92.4,93.0,90.0,95.0,95.0,88.0,0,0,0,0,0,0,0,0,0,2,9
+UBCV,2022,W,EDCP,534,,032,Health Promotion and Education,Leanne Petherick,10,90.5,91.0,90.0,91.8,93.0,87.0,0,0,0,0,0,0,0,0,0,2,8
+UBCV,2022,W,EDCP,537,,61A,Foundations of Home Economics Education,Kerry Renwick,16,91.9,93.0,90.0,96.5,98.0,75.0,0,0,0,0,0,0,1,1,0,1,13
+UBCV,2022,W,EDCP,541,,61A,Problems in Historical Understanding,Lindsay Gibson,17,88.5,89.0,89.0,92.0,95.0,72.0,0,0,0,0,0,0,2,0,1,6,8
+UBCV,2022,W,EDCP,542,,62A,Theorizing Pedagogy,Donna Kozak,21,92.7,92.0,91.0,95.0,98.0,88.0,0,0,0,0,0,0,0,0,0,2,19
+UBCV,2022,W,EDCP,544,,61A,Mathematics and Science Teaching and Learning with Technologies,Angela Rutakomozibwa,16,91.9,94.5,91.5,95.0,98.0,78.0,0,0,0,0,0,0,0,1,1,1,13
 UBCV,2022,W,EDCP,544,,62A,Mathematics and Science Teaching and Learning with Technologies,Marina Milner-Bolotin,24,94.0,94.0,93.0,96.0,97.0,91.0,0,0,0,0,0,0,0,0,0,0,24
-UBCV,2022,W,EDCP,546,,032,Indigenous Visual Expression as Pedagogy,Shannon Leddy,14,90.8,94.0,89.3,94.0,96.0,74.0,,,,,,,,,,,10
-UBCV,2022,W,EDCP,550,,62A,Mathematics Education: Origins and Issues,Cynthia Nicol,27,89.0,89.0,88.0,90.0,94.0,82.0,,,,,,,,,,16,10
+UBCV,2022,W,EDCP,546,,032,Indigenous Visual Expression as Pedagogy,Shannon Leddy,14,90.8,94.0,89.3,94.0,96.0,74.0,0,0,0,0,0,0,1,1,0,2,10
+UBCV,2022,W,EDCP,550,,62A,Mathematics Education: Origins and Issues,Cynthia Nicol,27,89.0,89.0,88.0,90.0,94.0,82.0,0,0,0,0,0,0,0,0,1,16,10
 UBCV,2022,W,EDCP,550,,032,Mathematics Education: Origins and Issues,Everton Lacerda Jacinto,8,100.0,100.0,100.0,100.0,100.0,100.0,0,0,0,0,0,0,0,0,0,0,8
-UBCV,2022,W,EDCP,555,,032,Critical Analysis of Curriculum in Science Education,James Douglas Adler,13,91.4,91.0,90.0,93.0,96.0,87.0,,,,,,,,,,,10
+UBCV,2022,W,EDCP,555,,032,Critical Analysis of Curriculum in Science Education,James Douglas Adler,13,91.4,91.0,90.0,93.0,96.0,87.0,0,0,0,0,0,0,0,0,0,3,10
 UBCV,2022,W,EDCP,558,,61A,Science Learning in Informal Environments,David Anderson,19,90.1,90.0,88.5,91.5,94.0,87.0,0,0,0,0,0,0,0,0,0,9,10
-UBCV,2022,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Oksana Bartosh,10,92.1,92.5,90.3,93.8,98.0,82.0,,,,,,,,,,,9
-UBCV,2022,W,EDCP,562,,61A,Curriculum Issues and Theories,James Douglas Adler,23,90.3,91.0,90.0,92.0,97.0,56.0,,,,,,,,,,,22
-UBCV,2022,W,EDCP,562,,61B,Curriculum Issues and Theories,Timothy Waddington,27,85.1,85.0,83.0,87.5,92.0,80.0,,,,,,,,,13,12,
-UBCV,2022,W,EDCP,562,,62A,Curriculum Issues and Theories,Anthony Edwards,17,93.6,94.0,93.0,97.0,99.0,82.0,,,,,,,,,,,14
+UBCV,2022,W,EDCP,559,,031,Research in the Teaching and Learning of the Sciences,Oksana Bartosh,10,92.1,92.5,90.3,93.8,98.0,82.0,0,0,0,0,0,0,0,0,1,0,9
+UBCV,2022,W,EDCP,562,,61A,Curriculum Issues and Theories,James Douglas Adler,23,90.3,91.0,90.0,92.0,97.0,56.0,1,0,0,0,0,0,0,0,0,0,22
+UBCV,2022,W,EDCP,562,,61B,Curriculum Issues and Theories,Timothy Waddington,27,85.1,85.0,83.0,87.5,92.0,80.0,0,0,0,0,0,0,0,0,13,12,2
+UBCV,2022,W,EDCP,562,,62A,Curriculum Issues and Theories,Anthony Edwards,17,93.6,94.0,93.0,97.0,99.0,82.0,0,0,0,0,0,0,0,0,1,2,14
 UBCV,2022,W,EDCP,562,,031,Curriculum Issues and Theories,William Pinar,18,94.0,94.0,93.0,95.0,97.0,91.0,0,0,0,0,0,0,0,0,0,0,18
-UBCV,2022,W,EDCP,562,,033,Curriculum Issues and Theories,E. Wayne Ross,18,91.4,93.0,90.3,94.0,95.0,84.0,,,,,,,,,,,14
-UBCV,2022,W,EDCP,564,,62A,"Texts, Politics, and Ideologies of Curriculum Development",William Pinar,17,87.7,93.0,92.0,95.0,96.0,0.0,,,,,,,,,,,16
+UBCV,2022,W,EDCP,562,,033,Curriculum Issues and Theories,E. Wayne Ross,18,91.4,93.0,90.3,94.0,95.0,84.0,0,0,0,0,0,0,0,0,1,3,14
+UBCV,2022,W,EDCP,564,,62A,"Texts, Politics, and Ideologies of Curriculum Development",William Pinar,17,87.7,93.0,92.0,95.0,96.0,0.0,1,0,0,0,0,0,0,0,0,0,16
 UBCV,2022,W,EDCP,565,,62A,Teaching in Museums,Lisa Mcintosh,21,91.9,92.0,89.0,94.0,97.0,86.0,0,0,0,0,0,0,0,0,0,6,15
-UBCV,2022,W,EDCP,566,,031,"Curriculum Change, Planning, and Implementation",Lisa Loutzenheiser,13,90.1,90.0,89.0,91.0,93.0,86.0,,,,,,,,,,,9
-UBCV,2022,W,EDCP,570,,62A,Seminar in the Teaching of Information and Communication Technologies,Jillianne Code,20,94.7,95.0,92.8,97.3,100.0,81.0,,,,,,,,,,,19
-UBCV,2022,W,EDCP,585,B,031,Special Course in Curriculum and Pedagogy,Peter Cole,11,88.0,88.0,86.0,89.5,90.0,86.0,,,,,,,,,,8,
-UBCV,2022,W,EDCP,601,A,031,Doctoral Seminar in Curriculum and Pedagogy: History and Theory,Lisa Loutzenheiser,10,89.9,91.5,88.0,93.0,94.0,79.0,,,,,,,,,,,7
-UBCV,2022,W,EDCP,602,A,032,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,E. Wayne Ross,8,87.4,92.5,76.5,96.3,97.0,72.0,,,,,,,,,,,
+UBCV,2022,W,EDCP,566,,031,"Curriculum Change, Planning, and Implementation",Lisa Loutzenheiser,13,90.1,90.0,89.0,91.0,93.0,86.0,0,0,0,0,0,0,0,0,0,4,9
+UBCV,2022,W,EDCP,570,,62A,Seminar in the Teaching of Information and Communication Technologies,Jillianne Code,20,94.7,95.0,92.8,97.3,100.0,81.0,0,0,0,0,0,0,0,0,1,0,19
+UBCV,2022,W,EDCP,585,B,031,Special Course in Curriculum and Pedagogy,Peter Cole,11,88.0,88.0,86.0,89.5,90.0,86.0,0,0,0,0,0,0,0,0,0,8,3
+UBCV,2022,W,EDCP,601,A,031,Doctoral Seminar in Curriculum and Pedagogy: History and Theory,Lisa Loutzenheiser,10,89.9,91.5,88.0,93.0,94.0,79.0,0,0,0,0,0,0,0,1,0,2,7
+UBCV,2022,W,EDCP,602,A,032,Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research,E. Wayne Ross,8,87.4,92.5,76.5,96.3,97.0,72.0,0,0,0,0,0,0,2,1,0,0,5

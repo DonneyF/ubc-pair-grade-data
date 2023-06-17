@@ -1,87 +1,88 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,CIVL,201,,101,Introduction to Civil Engineering,Pamela Wolf,126,79.8,80.0,79.0,82.0,86.0,69.0,,,,,,,,45,68,,
-UBCV,2022,W,CIVL,203,,101,Technical Communication in Civil Engineering,Christopher Caufield;Pamela Wolf,36,80.2,82.5,73.0,84.0,90.0,70.0,,,,,,,8,,15,7,
+UBCV,2022,W,CIVL,201,,101,Introduction to Civil Engineering,Pamela Wolf,126,79.8,80.0,79.0,82.0,86.0,69.0,0,0,0,0,0,3,5,45,68,5,0
+UBCV,2022,W,CIVL,203,,101,Technical Communication in Civil Engineering,Christopher Caufield;Pamela Wolf,36,80.2,82.5,73.0,84.0,90.0,70.0,0,0,0,0,0,3,8,2,15,7,1
 UBCV,2022,W,CIVL,203,,102,Technical Communication in Civil Engineering,Christopher Caufield;Pamela Wolf,31,82.1,81.0,79.0,86.0,87.0,76.0,0,0,0,0,0,0,0,10,10,11,0
-UBCV,2022,W,CIVL,203,,103,Technical Communication in Civil Engineering,Christopher Caufield;Pamela Wolf,26,81.3,83.0,76.3,86.3,89.0,71.0,,,,,,,,,10,7,
-UBCV,2022,W,CIVL,203,,104,Technical Communication in Civil Engineering,Christopher Caufield;Pamela Wolf,29,77.9,76.0,74.0,83.0,88.0,70.0,,,,,,6,6,,11,,
-UBCV,2022,W,CIVL,204,,101,Fundamentals of Environmental Engineering,Ryan Ziels,165,76.9,78.0,73.0,84.0,100.0,31.0,,,,6,7,14,29,25,34,20,19
-UBCV,2022,W,CIVL,210,,201,Soil Mechanics I,R Jonathan Fannin;Mahdi Taiebat,178,73.1,76.0,70.0,84.5,99.0,0.0,18,,,6,8,19,21,33,26,21,24
-UBCV,2022,W,CIVL,215,,101,Fluid Mechanics I,Alireza Habibzadeh Gharehbaba,63,67.1,69.0,63.0,80.5,97.0,0.0,7,,,,10,8,8,,7,,
-UBCV,2022,W,CIVL,215,,201,Fluid Mechanics I,Noboru Yonemitsu,198,78.0,81.0,73.0,86.0,97.0,0.0,8,,,,7,19,17,29,46,39,25
+UBCV,2022,W,CIVL,203,,103,Technical Communication in Civil Engineering,Christopher Caufield;Pamela Wolf,26,81.3,83.0,76.3,86.3,89.0,71.0,0,0,0,0,0,1,5,3,10,7,0
+UBCV,2022,W,CIVL,203,,104,Technical Communication in Civil Engineering,Christopher Caufield;Pamela Wolf,29,77.9,76.0,74.0,83.0,88.0,70.0,0,0,0,0,0,6,6,4,11,2,0
+UBCV,2022,W,CIVL,204,,101,Fundamentals of Environmental Engineering,Ryan Ziels,165,76.9,78.0,73.0,84.0,100.0,31.0,4,3,4,6,7,14,29,25,34,20,19
+UBCV,2022,W,CIVL,210,,201,Soil Mechanics I,R Jonathan Fannin;Mahdi Taiebat,178,73.1,76.0,70.0,84.5,99.0,0.0,18,0,2,6,8,19,21,33,26,21,24
+UBCV,2022,W,CIVL,215,,101,Fluid Mechanics I,Alireza Habibzadeh Gharehbaba,63,67.1,69.0,63.0,80.5,97.0,0.0,7,1,4,5,10,8,8,3,7,5,5
+UBCV,2022,W,CIVL,215,,201,Fluid Mechanics I,Noboru Yonemitsu,198,78.0,81.0,73.0,86.0,97.0,0.0,8,1,2,5,7,19,17,29,46,39,25
 UBCV,2022,W,CIVL,230,,101,Solid Mechanics,Reza Vaziri,152,76.1,78.0,69.0,86.0,100.0,30.0,10,7,3,6,6,12,16,17,26,25,24
 UBCV,2022,W,CIVL,231,,201,Structural Mechanics,Tsung-Yuan Yang,126,76.4,80.0,70.3,84.8,98.0,29.0,7,0,6,7,6,7,15,14,32,10,22
-UBCV,2022,W,CIVL,250,,101,Engineering and Sustainable Development,Negar Roghanian,234,87.3,88.0,84.0,92.0,98.0,56.0,,,,,,,,18,32,75,99
-UBCV,2022,W,CIVL,300,,201,Construction Engineering and Management,Omar Swei,145,80.0,82.0,75.0,86.0,95.0,39.0,,,,,9,7,13,16,39,33,20
-UBCV,2022,W,CIVL,301,,101,Modelling and Decision-Making in Civil Engineering,Barbara Jean Lence,140,74.2,75.0,68.8,82.0,93.0,28.0,,,10,9,9,15,26,20,25,12,10
-UBCV,2022,W,CIVL,302,,201,Civil Engineering Impacts,Tamara Etmannski,140,75.4,76.0,70.0,80.3,95.0,50.0,,,,,12,19,23,24,30,12,11
-UBCV,2022,W,CIVL,303,,101,Computational Tools in Civil Engineering,Yahya Nazhat;Noboru Yonemitsu,140,87.4,88.0,85.8,91.0,95.0,50.0,,,,,,,,,22,50,61
-UBCV,2022,W,CIVL,305,,201,Introduction to Environmental Engineering Applications,Troy Vassos,252,70.5,70.0,66.0,75.0,90.0,50.0,,,9,32,41,60,52,27,21,,
+UBCV,2022,W,CIVL,250,,101,Engineering and Sustainable Development,Negar Roghanian,234,87.3,88.0,84.0,92.0,98.0,56.0,0,0,1,0,1,3,5,18,32,75,99
+UBCV,2022,W,CIVL,300,,201,Construction Engineering and Management,Omar Swei,145,80.0,82.0,75.0,86.0,95.0,39.0,3,1,1,3,9,7,13,16,39,33,20
+UBCV,2022,W,CIVL,301,,101,Modelling and Decision-Making in Civil Engineering,Barbara Jean Lence,140,74.2,75.0,68.8,82.0,93.0,28.0,2,2,10,9,9,15,26,20,25,12,10
+UBCV,2022,W,CIVL,302,,201,Civil Engineering Impacts,Tamara Etmannski,140,75.4,76.0,70.0,80.3,95.0,50.0,0,2,3,4,12,19,23,24,30,12,11
+UBCV,2022,W,CIVL,303,,101,Computational Tools in Civil Engineering,Yahya Nazhat;Noboru Yonemitsu,140,87.4,88.0,85.8,91.0,95.0,50.0,0,1,0,1,0,2,0,3,22,50,61
+UBCV,2022,W,CIVL,305,,201,Introduction to Environmental Engineering Applications,Troy Vassos,252,70.5,70.0,66.0,75.0,90.0,50.0,0,2,9,32,41,60,52,27,21,5,3
 UBCV,2022,W,CIVL,311,,101,Soil Mechanics II,Trevor Carey;Dharmapriya Wijewickreme,179,73.8,78.0,69.0,83.0,95.0,14.0,16,0,0,8,16,22,12,28,43,22,12
-UBCV,2022,W,CIVL,315,,101,Fluid Mechanics II,Noboru Yonemitsu,185,74.9,76.0,70.0,80.0,93.0,38.0,,,8,7,10,31,26,45,34,20,
-UBCV,2022,W,CIVL,316,,201,Hydrology and Open Channel Flow,Alireza Habibzadeh Gharehbaba,210,71.5,74.0,66.0,80.0,93.0,22.0,16,,,14,23,28,34,30,39,14,
-UBCV,2022,W,CIVL,320,,101,Civil Engineering Materials,Salman Soleimani-Dashtaki,143,79.3,80.0,75.0,85.0,94.0,56.0,,,,,7,11,15,25,41,27,11
-UBCV,2022,W,CIVL,331,,201,Steel and Timber Design,Carlos Molina Hutt,143,80.7,82.0,75.5,87.0,97.0,57.0,,,,,6,9,15,22,35,25,25
-UBCV,2022,W,CIVL,332,,101,Structural Analysis,Terje Haukaas,155,70.0,76.0,63.0,80.0,94.0,4.0,16,,,17,9,10,18,26,24,18,11
-UBCV,2022,W,CIVL,340,,201,Transportation Engineering I,Tarek Sayed,157,67.2,68.0,60.0,74.0,99.0,28.0,7,12,19,22,17,20,22,17,15,,
-UBCV,2022,W,CIVL,402,,101,Professionalism and Law in Civil Engineering,Michael Isaacson;Craig Wallace,168,79.3,80.0,74.0,85.0,100.0,42.0,,,,6,,17,10,29,46,28,22
-UBCV,2022,W,CIVL,403,,201,Engineering Economic Analysis,Tamara Etmannski,142,74.2,74.0,70.0,77.0,91.0,54.0,,,,,11,25,37,35,14,12,
-UBCV,2022,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee,33,72.7,74.0,66.0,84.0,96.0,24.0,,,,,6,,,,,,
-UBCV,2022,W,CIVL,408,,201,Geo-Environmental Engineering,Troy Vassos,40,79.2,81.0,76.0,83.0,89.0,61.0,,,,,,,,10,13,9,
-UBCV,2022,W,CIVL,409,,201,Municipal Engineering,Sara Beck;Chris Johnston,148,81.1,81.0,77.0,85.3,96.0,64.0,,,,,,8,14,30,45,33,14
-UBCV,2022,W,CIVL,410,,101,Foundation Engineering I,Yahya Nazhat,48,68.4,70.0,62.8,75.3,90.0,37.0,,,,9,,11,7,,7,,
-UBCV,2022,W,CIVL,411,,201,Foundation Engineering II,Yahya Nazhat,44,68.0,70.0,60.8,76.0,87.0,36.0,,,,7,,12,,,,,
-UBCV,2022,W,CIVL,413,,201,Design of Earth Dams and Containment Structures,R Jonathan Fannin,19,77.8,80.0,74.0,84.0,92.0,55.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,415,,201,Water Resource Engineering,Ziad K Shawwash,30,81.3,82.5,74.0,90.0,95.0,60.0,,,,,,,,,6,,10
-UBCV,2022,W,CIVL,416,,101,Environmental Hydraulics,Gregory Lawrence,48,81.3,82.0,75.0,87.0,96.0,63.0,,,,,,,6,6,10,9,10
-UBCV,2022,W,CIVL,417,,101,Coastal Engineering,Michael Isaacson,61,85.5,87.0,82.0,91.0,100.0,57.0,,,,,,,,,13,11,25
-UBCV,2022,W,CIVL,418,,101,Engineering Hydrology,Daniel Kovacek,50,80.0,80.0,74.3,86.0,95.0,45.0,,,,,,,,,16,7,10
-UBCV,2022,W,CIVL,425,,201,Case Studies of Construction Methods,Farah Rawas;Dana Vanier,46,85.3,87.0,83.3,90.0,93.0,64.0,,,,,,,,,8,16,15
-UBCV,2022,W,CIVL,426,,101,Virtual Design and Construction,Puyan Zadeh,29,95.1,96.0,94.0,96.0,98.0,85.0,,,,,,,,,,,28
-UBCV,2022,W,CIVL,426,,201,Virtual Design and Construction,Puyan Zadeh,13,93.8,95.0,90.0,97.0,98.0,88.0,,,,,,,,,,,11
-UBCV,2022,W,CIVL,430,,101,Design of Concrete Structures,Perry Erwin Adebar,119,77.8,79.0,73.5,86.0,97.0,30.0,,,,,,8,14,23,22,18,18
-UBCV,2022,W,CIVL,432,,101,Advanced Structural Steel Design,Carlos Molina Hutt,37,79.6,80.0,74.0,85.0,95.0,58.0,,,,,,,7,,12,,6
-UBCV,2022,W,CIVL,433,,201,Advanced Concrete Design,Perry Erwin Adebar,28,82.8,85.0,79.5,88.5,96.0,60.0,,,,,,,,,7,7,7
-UBCV,2022,W,CIVL,435,,101,Advanced Structural Analysis,Jasmin Jelovica,46,84.9,86.0,82.0,88.0,93.0,55.0,,,,,,,,,14,17,11
-UBCV,2022,W,CIVL,436,,201,Matrix Structural Analysis and Dynamics,Carlos Estuardo Ventura,29,84.3,87.0,76.0,93.0,95.0,65.0,,,,,,,,,6,,13
-UBCV,2022,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss,32,86.2,90.0,82.8,92.3,96.0,59.0,,,,,,,,,8,,17
-UBCV,2022,W,CIVL,440,,101,Transportation Engineering II,Amy Kim,42,81.1,81.0,75.3,86.0,100.0,66.0,,,,,,,8,6,12,,8
-UBCV,2022,W,CIVL,441,,201,Transportation Planning and Analysis,Clark Lim,32,90.8,91.0,87.8,94.3,97.0,83.0,,,,,,,,,,10,21
-UBCV,2022,W,CIVL,445,,101,Civil Engineering Design Project I.,Alexander York Bigazzi;Christopher Caufield;Krista Falkner;Alireza Habibzadeh Gharehbaba;Yahya Nazhat;John Pao;Fraser Peterson;Hartaj Sanghara;Carlos Estuardo Ventura;Pamela Wolf;Noboru Yonemitsu,112,87.4,89.0,85.0,91.0,94.0,73.0,,,,,,,,11,13,31,55
+UBCV,2022,W,CIVL,315,,101,Fluid Mechanics II,Noboru Yonemitsu,185,74.9,76.0,70.0,80.0,93.0,38.0,1,2,8,7,10,31,26,45,34,20,1
+UBCV,2022,W,CIVL,316,,201,Hydrology and Open Channel Flow,Alireza Habibzadeh Gharehbaba,210,71.5,74.0,66.0,80.0,93.0,22.0,16,2,5,14,23,28,34,30,39,14,5
+UBCV,2022,W,CIVL,320,,101,Civil Engineering Materials,Salman Soleimani-Dashtaki,143,79.3,80.0,75.0,85.0,94.0,56.0,0,0,4,2,7,11,15,25,41,27,11
+UBCV,2022,W,CIVL,331,,201,Steel and Timber Design,Carlos Molina Hutt,143,80.7,82.0,75.5,87.0,97.0,57.0,0,0,2,4,6,9,15,22,35,25,25
+UBCV,2022,W,CIVL,332,,101,Structural Analysis,Terje Haukaas,155,70.0,76.0,63.0,80.0,94.0,4.0,16,2,4,17,9,10,18,26,24,18,11
+UBCV,2022,W,CIVL,340,,201,Transportation Engineering I,Tarek Sayed,157,67.2,68.0,60.0,74.0,99.0,28.0,7,12,19,22,17,20,22,17,15,2,4
+UBCV,2022,W,CIVL,402,,101,Professionalism and Law in Civil Engineering,Michael Isaacson;Craig Wallace,168,79.3,80.0,74.0,85.0,100.0,42.0,1,2,2,6,5,17,10,29,46,28,22
+UBCV,2022,W,CIVL,403,,201,Engineering Economic Analysis,Tamara Etmannski,142,74.2,74.0,70.0,77.0,91.0,54.0,0,1,1,3,11,25,37,35,14,12,3
+UBCV,2022,W,CIVL,406,,101,Water Treatment and Waste Management,Jongho Lee,33,72.7,74.0,66.0,84.0,96.0,24.0,1,0,2,3,6,4,3,4,5,3,2
+UBCV,2022,W,CIVL,408,,201,Geo-Environmental Engineering,Troy Vassos,40,79.2,81.0,76.0,83.0,89.0,61.0,0,0,0,2,1,1,4,10,13,9,0
+UBCV,2022,W,CIVL,409,,201,Municipal Engineering,Sara Beck;Chris Johnston,148,81.1,81.0,77.0,85.3,96.0,64.0,0,0,0,0,4,8,14,30,45,33,14
+UBCV,2022,W,CIVL,410,,101,Foundation Engineering I,Yahya Nazhat,48,68.4,70.0,62.8,75.3,90.0,37.0,3,2,0,9,4,11,7,4,7,0,1
+UBCV,2022,W,CIVL,411,,201,Foundation Engineering II,Yahya Nazhat,44,68.0,70.0,60.8,76.0,87.0,36.0,2,2,3,7,4,12,2,4,5,3,0
+UBCV,2022,W,CIVL,413,,201,Design of Earth Dams and Containment Structures,R Jonathan Fannin,19,77.8,80.0,74.0,84.0,92.0,55.0,0,0,2,0,1,0,2,4,5,2,3
+UBCV,2022,W,CIVL,415,,201,Water Resource Engineering,Ziad K Shawwash,30,81.3,82.5,74.0,90.0,95.0,60.0,0,0,0,2,2,3,1,2,6,4,10
+UBCV,2022,W,CIVL,416,,101,Environmental Hydraulics,Gregory Lawrence,48,81.3,82.0,75.0,87.0,96.0,63.0,0,0,0,1,3,3,6,6,10,9,10
+UBCV,2022,W,CIVL,417,,101,Coastal Engineering,Michael Isaacson,61,85.5,87.0,82.0,91.0,100.0,57.0,0,0,2,1,1,2,3,3,13,11,25
+UBCV,2022,W,CIVL,418,,101,Engineering Hydrology,Daniel Kovacek,50,80.0,80.0,74.3,86.0,95.0,45.0,1,0,0,1,2,5,5,3,16,7,10
+UBCV,2022,W,CIVL,425,,201,Case Studies of Construction Methods,Farah Rawas;Dana Vanier,46,85.3,87.0,83.3,90.0,93.0,64.0,0,0,0,0,1,2,1,3,8,16,15
+UBCV,2022,W,CIVL,426,,101,Virtual Design and Construction,Puyan Zadeh,29,95.1,96.0,94.0,96.0,98.0,85.0,0,0,0,0,0,0,0,0,0,1,28
+UBCV,2022,W,CIVL,426,,201,Virtual Design and Construction,Puyan Zadeh,13,93.8,95.0,90.0,97.0,98.0,88.0,0,0,0,0,0,0,0,0,0,2,11
+UBCV,2022,W,CIVL,430,,101,Design of Concrete Structures,Perry Erwin Adebar,119,77.8,79.0,73.5,86.0,97.0,30.0,5,2,3,2,4,8,14,23,22,18,18
+UBCV,2022,W,CIVL,432,,101,Advanced Structural Steel Design,Carlos Molina Hutt,37,79.6,80.0,74.0,85.0,95.0,58.0,0,0,1,1,1,1,7,4,12,4,6
+UBCV,2022,W,CIVL,433,,201,Advanced Concrete Design,Perry Erwin Adebar,28,82.8,85.0,79.5,88.5,96.0,60.0,0,0,0,1,2,0,1,3,7,7,7
+UBCV,2022,W,CIVL,435,,101,Advanced Structural Analysis,Jasmin Jelovica,46,84.9,86.0,82.0,88.0,93.0,55.0,1,0,0,0,0,0,1,2,14,17,11
+UBCV,2022,W,CIVL,436,,201,Matrix Structural Analysis and Dynamics,Carlos Estuardo Ventura,29,84.3,87.0,76.0,93.0,95.0,65.0,0,0,0,0,1,2,4,1,6,2,13
+UBCV,2022,W,CIVL,439,,201,Design of Timber Structures,Cristiano Loss,32,86.2,90.0,82.8,92.3,96.0,59.0,0,0,1,1,1,0,0,1,8,3,17
+UBCV,2022,W,CIVL,440,,101,Transportation Engineering II,Amy Kim,42,81.1,81.0,75.3,86.0,100.0,66.0,0,0,0,0,2,1,8,6,12,5,8
+UBCV,2022,W,CIVL,441,,201,Transportation Planning and Analysis,Clark Lim,32,90.8,91.0,87.8,94.3,97.0,83.0,0,0,0,0,0,0,0,0,1,10,21
+UBCV,2022,W,CIVL,445,,101,Civil Engineering Design Project I.,Alexander York Bigazzi;Christopher Caufield;Krista Falkner;Alireza Habibzadeh Gharehbaba;Yahya Nazhat;John Pao;Fraser Peterson;Hartaj Sanghara;Carlos Estuardo Ventura;Pamela Wolf;Noboru Yonemitsu,112,87.4,89.0,85.0,91.0,94.0,73.0,0,0,0,0,0,0,2,11,13,31,55
 UBCV,2022,W,CIVL,446,,201,Civil Engineering Design Project II.,Alexander York Bigazzi;Krista Falkner;Alireza Habibzadeh Gharehbaba;Yahya Nazhat;John Pao;Fraser Peterson;Carlos Estuardo Ventura;Noboru Yonemitsu,112,87.9,88.0,84.8,92.0,96.0,77.0,0,0,0,0,0,0,0,6,22,38,46
-UBCV,2022,W,CIVL,478,,101,Building Science,Lorne Ricketts,57,76.4,77.0,73.0,80.0,89.0,57.0,,,,,,,15,12,15,,
-UBCV,2022,W,CIVL,498,A,201,Topics in Civil Engineering,Zhengbo Zou,26,89.7,91.0,84.8,95.0,100.0,71.0,,,,,,,,,,,16
-UBCV,2022,W,CIVL,498,Q,201,Topics in Civil Engineering,Ryan Ziels,9,90.8,95.0,87.0,98.0,100.0,65.0,,,,,,,,,,,6
-UBCV,2022,W,CIVL,504,,101,Seismic Hazard Analysis and Design Parameters,Trevor Carey,20,83.1,87.5,83.0,90.3,94.0,54.0,,,,,,,,,,7,7
-UBCV,2022,W,CIVL,505,,201,Principles of Earthquake Engineering and Seismic Design,Tsung-Yuan Yang,16,85.1,87.0,79.0,90.0,96.0,72.0,,,,,,,,,,,7
-UBCV,2022,W,CIVL,506,,101,Performance-based Earthquake Engineering,Carlos Molina Hutt,14,78.9,74.0,72.0,90.8,99.0,60.0,,,,,,,6,,,,
-UBCV,2022,W,CIVL,507,,101,Dynamics of Structures I,Carlos Estuardo Ventura,23,81.1,82.0,74.0,88.5,93.0,65.0,,,,,,,,,7,,
-UBCV,2022,W,CIVL,509,,201,Nonlinear Structural Analysis,Terje Haukaas,23,76.5,80.0,71.0,84.0,92.0,52.0,,,,,,,,,7,,
-UBCV,2022,W,CIVL,511,,101,Seismic Design of Steel Structures,Tsung-Yuan Yang,11,83.7,85.0,80.0,86.5,95.0,73.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,513,,201,Concrete Structures,Perry Erwin Adebar,18,83.1,84.0,81.0,87.3,95.0,69.0,,,,,,,,,7,7,
-UBCV,2022,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss,12,90.6,92.0,89.5,93.3,95.0,77.0,,,,,,,,,,,9
-UBCV,2022,W,CIVL,518,,101,Reliability and Structural Safety,Terje Haukaas,21,80.0,80.0,72.0,90.0,96.0,64.0,,,,,,,,,,,6
-UBCV,2022,W,CIVL,519,,101,Risk and Decision Analysis for Infrastructure Management,Omar Swei,15,87.2,92.0,84.5,93.5,99.0,62.0,,,,,,,,,,,10
-UBCV,2022,W,CIVL,520,,101,Construction Planning and Control,Zhengbo Zou,33,89.7,91.0,88.0,94.0,98.0,69.0,,,,,,,,,,7,20
-UBCV,2022,W,CIVL,521,,201,Construction Methods and Performance,Farah Rawas;Dana Vanier,19,86.4,87.0,85.0,88.5,90.0,78.0,,,,,,,,,,12,
-UBCV,2022,W,CIVL,522,,201,Project and Construction Economics,Omar Swei,26,83.2,84.0,79.5,89.0,96.0,45.0,,,,,,,,,7,7,
-UBCV,2022,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms,24,91.7,93.0,89.0,94.0,97.0,84.0,,,,,,,,,,7,16
-UBCV,2022,W,CIVL,524,,101,Legal Aspects of Project and Construction Management,Brian Samuels,37,79.3,82.0,70.0,86.0,97.0,68.0,,,,,,13,,,8,7,6
-UBCV,2022,W,CIVL,526,,201,Virtual Design and Construction,Puyan Zadeh,16,91.4,93.0,89.8,94.3,97.0,76.0,,,,,,,,,,,12
-UBCV,2022,W,CIVL,529,,101,Condition Assessment and Rehabilitation of Civil Infrastructure,Nemkumar Banthia,12,87.5,88.5,83.8,92.3,95.0,75.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,537,,101,Computational Mechanics I,Reza Vaziri,30,82.6,82.5,80.0,90.0,97.0,60.0,,,,,,,,,9,,9
-UBCV,2022,W,CIVL,538,,201,Computational Mechanics II,Reza Vaziri,7,87.4,89.0,85.0,89.0,92.0,83.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,540,,101,Advanced Coastal Engineering,Michael Isaacson,11,89.3,89.0,85.5,93.0,100.0,80.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,541,,201,Environmental Fluid Mechanics,Gregory Lawrence,14,80.9,81.0,77.3,87.5,94.0,63.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,562,,101,Environmental Data Collection and Analysis,Rachel Scholes,24,91.4,92.0,87.8,97.0,99.0,75.0,,,,,,,,,,7,14
-UBCV,2022,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Jongho Lee,12,82.6,83.5,77.5,89.3,96.0,68.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,569,,201,Environmental Biotechnology,Ryan Ziels,11,87.6,88.0,84.5,91.5,97.0,77.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,570,,101,Advanced Soil Mechanics,Dharmapriya Wijewickreme,11,83.2,85.0,77.5,89.0,94.0,72.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,574,,201,Experimental Soil Mechanics,Trevor Carey;Dharmapriya Wijewickreme,9,84.2,85.0,82.0,86.0,95.0,65.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,580,,101,Geotechnical Earthquake Engineering,Mahdi Taiebat,9,87.3,87.0,81.0,93.0,97.0,80.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,581,,201,Soil Dynamics for Design Practice,Dharmapriya Wijewickreme,7,90.9,91.0,88.5,94.0,97.0,83.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,582,,101,Transportation Engineering Impacts,Tarek Sayed,11,80.5,82.0,78.0,84.0,88.0,69.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,583,,201,Urban Engineering Methods and Models,Clark Lim,12,91.9,92.0,90.0,96.0,97.0,80.0,,,,,,,,,,,10
-UBCV,2022,W,CIVL,598,M,001,Topics in Civil Engineering,Svetlana Nikolic-Brzev,12,87.8,88.5,84.3,92.0,94.0,77.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,598,N,201,Topics in Civil Engineering,Alireza Habibzadeh Gharehbaba,6,86.2,89.0,82.3,92.8,97.0,68.0,,,,,,,,,,,
-UBCV,2022,W,CIVL,598,P,101,Topics in Civil Engineering,Alexander York Bigazzi,19,90.7,92.0,88.0,94.0,98.0,81.0,,,,,,,,,,,12
-UBCV,2022,W,CIVL,598,W,101,Topics in Civil Engineering,Sara Beck,14,88.2,89.0,85.3,92.0,98.0,78.0,,,,,,,,,,,6
+UBCV,2022,W,CIVL,478,,101,Building Science,Lorne Ricketts,57,76.4,77.0,73.0,80.0,89.0,57.0,0,0,2,2,1,5,15,12,15,5,0
+UBCV,2022,W,CIVL,498,A,201,Topics in Civil Engineering,Zhengbo Zou,26,89.7,91.0,84.8,95.0,100.0,71.0,0,0,0,0,0,1,1,1,4,3,16
+UBCV,2022,W,CIVL,498,Q,201,Topics in Civil Engineering,Ryan Ziels,9,90.8,95.0,87.0,98.0,100.0,65.0,0,0,0,0,1,0,0,0,1,1,6
+UBCV,2022,W,CIVL,504,,101,Seismic Hazard Analysis and Design Parameters,Trevor Carey,20,83.1,87.5,83.0,90.3,94.0,54.0,2,0,0,0,1,1,0,0,2,7,7
+UBCV,2022,W,CIVL,505,,201,Principles of Earthquake Engineering and Seismic Design,Tsung-Yuan Yang,16,85.1,87.0,79.0,90.0,96.0,72.0,0,0,0,0,0,0,1,3,2,3,7
+UBCV,2022,W,CIVL,506,,101,Performance-based Earthquake Engineering,Carlos Molina Hutt,14,78.9,74.0,72.0,90.8,99.0,60.0,0,0,0,2,0,0,6,0,1,0,5
+UBCV,2022,W,CIVL,507,,101,Dynamics of Structures I,Carlos Estuardo Ventura,23,81.1,82.0,74.0,88.5,93.0,65.0,0,0,0,0,2,4,0,1,7,4,5
+UBCV,2022,W,CIVL,509,,201,Nonlinear Structural Analysis,Terje Haukaas,23,76.5,80.0,71.0,84.0,92.0,52.0,0,1,0,2,1,2,4,0,7,5,1
+UBCV,2022,W,CIVL,511,,101,Seismic Design of Steel Structures,Tsung-Yuan Yang,11,83.7,85.0,80.0,86.5,95.0,73.0,0,0,0,0,0,0,1,1,3,4,2
+UBCV,2022,W,CIVL,513,,201,Concrete Structures,Perry Erwin Adebar,18,83.1,84.0,81.0,87.3,95.0,69.0,0,0,0,0,0,1,1,1,7,7,1
+UBCV,2022,W,CIVL,516,,201,Behaviour of Timber Structures,Cristiano Loss,12,90.6,92.0,89.5,93.3,95.0,77.0,0,0,0,0,0,0,0,1,0,2,9
+UBCV,2022,W,CIVL,518,,101,Reliability and Structural Safety,Terje Haukaas,21,80.0,80.0,72.0,90.0,96.0,64.0,0,0,0,0,1,4,3,1,5,1,6
+UBCV,2022,W,CIVL,519,,101,Risk and Decision Analysis for Infrastructure Management,Omar Swei,15,87.2,92.0,84.5,93.5,99.0,62.0,1,0,0,0,1,0,0,0,2,1,10
+UBCV,2022,W,CIVL,520,,101,Construction Planning and Control,Zhengbo Zou,33,89.7,91.0,88.0,94.0,98.0,69.0,0,0,0,0,0,1,1,1,3,7,20
+UBCV,2022,W,CIVL,521,,201,Construction Methods and Performance,Farah Rawas;Dana Vanier,19,86.4,87.0,85.0,88.5,90.0,78.0,0,0,0,0,0,0,0,1,2,12,4
+UBCV,2022,W,CIVL,522,,201,Project and Construction Economics,Omar Swei,26,83.2,84.0,79.5,89.0,96.0,45.0,1,0,0,0,0,0,1,5,7,7,5
+UBCV,2022,W,CIVL,523,,201,Project Management for Engineers,Cheryl Nelms,24,91.7,93.0,89.0,94.0,97.0,84.0,0,0,0,0,0,0,0,0,1,7,16
+UBCV,2022,W,CIVL,524,,101,Legal Aspects of Project and Construction Management,Brian Samuels,37,79.3,82.0,70.0,86.0,97.0,68.0,0,0,0,0,0,13,1,2,8,7,6
+UBCV,2022,W,CIVL,526,,201,Virtual Design and Construction,Puyan Zadeh,16,91.4,93.0,89.8,94.3,97.0,76.0,0,0,0,0,0,0,0,1,0,3,12
+UBCV,2022,W,CIVL,529,,101,Condition Assessment and Rehabilitation of Civil Infrastructure,Nemkumar Banthia,12,87.5,88.5,83.8,92.3,95.0,75.0,0,0,0,0,0,0,1,0,3,3,5
+UBCV,2022,W,CIVL,537,,101,Computational Mechanics I,Reza Vaziri,30,82.6,82.5,80.0,90.0,97.0,60.0,0,0,0,2,1,2,1,1,9,5,9
+UBCV,2022,W,CIVL,538,,201,Computational Mechanics II,Reza Vaziri,7,87.4,89.0,85.0,89.0,92.0,83.0,0,0,0,0,0,0,0,0,1,5,1
+UBCV,2022,W,CIVL,540,,101,Advanced Coastal Engineering,Michael Isaacson,11,89.3,89.0,85.5,93.0,100.0,80.0,0,0,0,0,0,0,0,0,3,3,5
+UBCV,2022,W,CIVL,541,,201,Environmental Fluid Mechanics,Gregory Lawrence,14,80.9,81.0,77.3,87.5,94.0,63.0,0,0,0,1,1,0,1,2,3,3,3
+UBCV,2022,W,CIVL,556,,101,Modelling and Optimization of Civil Engineering Systems,Ziad K Shawwash,6,89.7,93.0,86.5,95.0,95.0,77.0,0,0,0,0,0,0,0,1,0,1,4
+UBCV,2022,W,CIVL,562,,101,Environmental Data Collection and Analysis,Rachel Scholes,24,91.4,92.0,87.8,97.0,99.0,75.0,0,0,0,0,0,0,1,0,2,7,14
+UBCV,2022,W,CIVL,565,,101,Physical-Chemical Treatment Processes,Jongho Lee,12,82.6,83.5,77.5,89.3,96.0,68.0,0,0,0,0,0,2,0,2,3,2,3
+UBCV,2022,W,CIVL,569,,201,Environmental Biotechnology,Ryan Ziels,11,87.6,88.0,84.5,91.5,97.0,77.0,0,0,0,0,0,0,0,1,2,3,5
+UBCV,2022,W,CIVL,570,,101,Advanced Soil Mechanics,Dharmapriya Wijewickreme,11,83.2,85.0,77.5,89.0,94.0,72.0,0,0,0,0,0,0,2,2,1,3,3
+UBCV,2022,W,CIVL,574,,201,Experimental Soil Mechanics,Trevor Carey;Dharmapriya Wijewickreme,9,84.2,85.0,82.0,86.0,95.0,65.0,0,0,0,0,1,0,0,0,2,4,2
+UBCV,2022,W,CIVL,580,,101,Geotechnical Earthquake Engineering,Mahdi Taiebat,9,87.3,87.0,81.0,93.0,97.0,80.0,0,0,0,0,0,0,0,0,4,1,4
+UBCV,2022,W,CIVL,581,,201,Soil Dynamics for Design Practice,Dharmapriya Wijewickreme,7,90.9,91.0,88.5,94.0,97.0,83.0,0,0,0,0,0,0,0,0,1,2,4
+UBCV,2022,W,CIVL,582,,101,Transportation Engineering Impacts,Tarek Sayed,11,80.5,82.0,78.0,84.0,88.0,69.0,0,0,0,0,0,1,1,2,4,3,0
+UBCV,2022,W,CIVL,583,,201,Urban Engineering Methods and Models,Clark Lim,12,91.9,92.0,90.0,96.0,97.0,80.0,0,0,0,0,0,0,0,0,1,1,10
+UBCV,2022,W,CIVL,598,M,001,Topics in Civil Engineering,Svetlana Nikolic-Brzev,12,87.8,88.5,84.3,92.0,94.0,77.0,0,0,0,0,0,0,0,1,2,4,5
+UBCV,2022,W,CIVL,598,N,201,Topics in Civil Engineering,Alireza Habibzadeh Gharehbaba,6,86.2,89.0,82.3,92.8,97.0,68.0,0,0,0,0,0,1,0,0,1,2,2
+UBCV,2022,W,CIVL,598,P,101,Topics in Civil Engineering,Alexander York Bigazzi,19,90.7,92.0,88.0,94.0,98.0,81.0,0,0,0,0,0,0,0,0,2,5,12
+UBCV,2022,W,CIVL,598,W,101,Topics in Civil Engineering,Sara Beck,14,88.2,89.0,85.3,92.0,98.0,78.0,0,0,0,0,0,0,0,3,0,5,6

@@ -1,16 +1,16 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2022,W,WRLD,100,,001,A World History of Horror,Francisco Pena Fernandez,76,73.7,77.0,65.8,84.3,95.0,0.0,,,,,6,,8,6,16,11,8
-UBCO,2022,W,WRLD,150,,001,Introduction to Intercultural Communication,Meilan Ehlert,73,75.9,80.0,70.0,88.0,100.0,5.0,7,,,,,6,,11,8,15,16
-UBCO,2022,W,WRLD,304,,001,World Theatre and Cultural Performance,Virginie Magnat,33,85.5,91.0,82.0,95.0,96.0,32.0,,,,,,,,,,,19
-UBCO,2022,W,WRLD,310,,001,Mythologies in Motion,Francois Gauthier,72,74.3,81.5,65.0,89.0,97.0,26.0,10,,,,,,7,,11,12,15
-UBCO,2022,W,WRLD,330,,001,War in Literature,David Meola,29,75.7,78.0,74.0,88.0,96.0,15.0,,,,,,,,6,,,7
-UBCO,2022,W,WRLD,340,,001,Tales of Resistance: Indigenous Voices in Central America,Monica Good,17,87.7,88.0,82.0,95.0,100.0,69.0,,,,,,,,,,,7
-UBCO,2022,W,WRLD,351,,001,Mediterranean World in Cinema and Literature,Francois Gauthier,30,73.3,76.0,63.3,81.8,93.0,24.0,,,,,,,,,8,,
-UBCO,2022,W,WRLD,353,,001,Ancient Mediterranean Science and Technology,Francois Gauthier,15,73.4,73.0,65.5,80.5,88.0,58.0,,,,,,,,,,,
-UBCO,2022,W,WRLD,360,,001,Literature and Power,Anderson Araujo,27,75.9,78.0,71.0,85.0,92.0,26.0,,,,,,,,,,6,
-UBCO,2022,W,WRLD,370,,001,Story and Image Across the Islamic World,Hussein Keshani,7,84.9,83.0,82.0,88.5,96.0,74.0,,,,,,,,,,,
-UBCO,2022,W,WRLD,382,,001,Cross-cultural Travel Narratives,Daniel Lukes,33,84.2,83.0,80.0,88.0,96.0,72.0,,,,,,,,7,12,,8
-UBCO,2022,W,WRLD,388,,001,"Modern Memoirs and History: China, Japan, and Korea",Meilan Ehlert,33,77.2,80.0,75.0,85.0,92.0,29.0,,,,,,,,,10,8,
-UBCO,2022,W,WRLD,399,J,001,Special Topics in World Literatures,Nikhita Obeegadoo,16,82.6,86.5,80.3,91.3,95.0,50.0,,,,,,,,,,,
-UBCO,2022,W,WRLD,399,M,001,Special Topics in World Literatures,Dominick Grace,32,69.6,73.5,64.0,78.0,95.0,16.0,,,,,,,8,,,,
-UBCO,2022,W,WRLD,428,,001,Anti-Semitism: Then and Now,David Meola,23,85.9,87.0,84.0,91.0,97.0,68.0,,,,,,,,,,9,8
+UBCO,2022,W,WRLD,100,,001,A World History of Horror,Francisco Pena Fernandez,76,73.7,77.0,65.8,84.3,95.0,0.0,4,3,4,5,6,5,8,6,16,11,8
+UBCO,2022,W,WRLD,150,,001,Introduction to Intercultural Communication,Meilan Ehlert,73,75.9,80.0,70.0,88.0,100.0,5.0,7,1,3,3,0,6,3,11,8,15,16
+UBCO,2022,W,WRLD,304,,001,World Theatre and Cultural Performance,Virginie Magnat,33,85.5,91.0,82.0,95.0,96.0,32.0,1,0,0,1,1,3,0,2,2,4,19
+UBCO,2022,W,WRLD,310,,001,Mythologies in Motion,Francois Gauthier,72,74.3,81.5,65.0,89.0,97.0,26.0,10,4,1,3,2,4,7,3,11,12,15
+UBCO,2022,W,WRLD,330,,001,War in Literature,David Meola,29,75.7,78.0,74.0,88.0,96.0,15.0,2,1,0,1,0,2,4,6,3,3,7
+UBCO,2022,W,WRLD,340,,001,Tales of Resistance: Indigenous Voices in Central America,Monica Good,17,87.7,88.0,82.0,95.0,100.0,69.0,0,0,0,0,0,2,0,0,4,4,7
+UBCO,2022,W,WRLD,351,,001,Mediterranean World in Cinema and Literature,Francois Gauthier,30,73.3,76.0,63.3,81.8,93.0,24.0,1,0,2,5,1,2,4,2,8,1,4
+UBCO,2022,W,WRLD,353,,001,Ancient Mediterranean Science and Technology,Francois Gauthier,15,73.4,73.0,65.5,80.5,88.0,58.0,0,0,1,1,3,1,3,2,1,3,0
+UBCO,2022,W,WRLD,360,,001,Literature and Power,Anderson Araujo,27,75.9,78.0,71.0,85.0,92.0,26.0,1,0,0,0,2,4,5,3,5,6,1
+UBCO,2022,W,WRLD,370,,001,Story and Image Across the Islamic World,Hussein Keshani,7,84.9,83.0,82.0,88.5,96.0,74.0,0,0,0,0,0,0,1,0,3,1,2
+UBCO,2022,W,WRLD,382,,001,Cross-cultural Travel Narratives,Daniel Lukes,33,84.2,83.0,80.0,88.0,96.0,72.0,0,0,0,0,0,0,1,7,12,5,8
+UBCO,2022,W,WRLD,388,,001,"Modern Memoirs and History: China, Japan, and Korea",Meilan Ehlert,33,77.2,80.0,75.0,85.0,92.0,29.0,1,1,1,2,0,1,3,4,10,8,2
+UBCO,2022,W,WRLD,399,J,001,Special Topics in World Literatures,Nikhita Obeegadoo,16,82.6,86.5,80.3,91.3,95.0,50.0,0,1,0,1,1,0,0,1,3,4,5
+UBCO,2022,W,WRLD,399,M,001,Special Topics in World Literatures,Dominick Grace,32,69.6,73.5,64.0,78.0,95.0,16.0,2,2,3,0,3,2,8,5,4,1,2
+UBCO,2022,W,WRLD,428,,001,Anti-Semitism: Then and Now,David Meola,23,85.9,87.0,84.0,91.0,97.0,68.0,0,0,0,0,0,3,1,1,1,9,8

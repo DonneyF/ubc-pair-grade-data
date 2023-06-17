@@ -1,50 +1,52 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,SPAN,101,,101,Beginners' Spanish I,Rodolfo Ortiz,30,75.2,76.0,70.5,83.0,95.0,32.0,,,,,,,7,,,,
-UBCV,2022,W,SPAN,101,,102,Beginners' Spanish I,Iris Escuer Riera,64,76.2,79.5,69.0,86.3,95.0,24.0,,,,,6,,7,7,10,13,9
-UBCV,2022,W,SPAN,101,,103,Beginners' Spanish I,Iris Escuer Riera,32,74.1,77.5,67.8,85.0,99.0,26.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,101,,104,Beginners' Spanish I,Brianne Orr-Alvarez,53,81.1,84.0,79.0,88.0,98.0,19.0,,,,,,,6,,14,15,10
-UBCV,2022,W,SPAN,101,,105,Beginners' Spanish I,Olga Albarran Caselles,32,80.9,86.5,70.8,91.0,98.0,39.0,,,,,,,,,,8,12
-UBCV,2022,W,SPAN,101,,106,Beginners' Spanish I,Stephanie Spacciante,53,75.3,77.0,70.0,87.0,95.0,18.0,,,,,,,8,7,,10,7
-UBCV,2022,W,SPAN,101,,108,Beginners' Spanish I,Olga Albarran Caselles,49,76.6,80.0,67.0,87.0,98.0,41.0,,,,,,,,,7,8,10
-UBCV,2022,W,SPAN,101,,110,Beginners' Spanish I,Jonathan Beasley-Murray,47,76.1,79.0,75.0,85.0,97.0,9.0,,,,,,,,12,10,10,
-UBCV,2022,W,SPAN,101,,111,Beginners' Spanish I,Anthony Pearce,33,78.7,81.0,72.0,88.0,97.0,46.0,,,,,,,,,,10,
-UBCV,2022,W,SPAN,101,,112,Beginners' Spanish I,Rodolfo Ortiz,27,76.4,79.0,72.5,84.0,93.0,26.0,,,,,,,,,6,,
-UBCV,2022,W,SPAN,102,,201,Beginners' Spanish II,Maria Adelaida Escobar Trujillo,29,77.3,80.0,70.0,86.0,96.0,50.0,,,,,,,,,6,6,
-UBCV,2022,W,SPAN,102,,202,Beginners' Spanish II,Maria Adelaida Escobar Trujillo,51,77.8,81.0,71.0,85.0,94.0,23.0,,,,,,6,,7,16,6,7
-UBCV,2022,W,SPAN,102,,203,Beginners' Spanish II,Iris Escuer Riera,49,70.4,72.0,63.0,80.0,100.0,26.0,,,,6,6,,8,,6,,
-UBCV,2022,W,SPAN,102,,204,Beginners' Spanish II,Brianne Orr-Alvarez,49,80.4,82.0,76.0,88.0,98.0,22.0,,,,,,,6,7,11,8,11
-UBCV,2022,W,SPAN,102,,205,Beginners' Spanish II,Olga Albarran Caselles,32,73.6,77.5,67.8,86.5,92.0,4.0,,,,,,,,,,,7
-UBCV,2022,W,SPAN,102,,206,Beginners' Spanish II,Stephanie Spacciante,49,76.3,77.0,69.0,86.0,96.0,42.0,,,,,,,7,8,,7,8
-UBCV,2022,W,SPAN,102,,207,Beginners' Spanish II,Raul Alvarez Moreno,35,76.4,80.0,72.5,83.5,95.0,18.0,,,,,,,8,,11,,
-UBCV,2022,W,SPAN,201,,101,Elementary Spanish I,Andrea Roca,34,74.1,76.0,66.3,84.5,94.0,33.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,201,,102,Elementary Spanish I,Olga Albarran Caselles,31,76.3,83.0,71.5,87.0,97.0,0.0,,,,,,,,,7,6,7
-UBCV,2022,W,SPAN,201,,103,Elementary Spanish I,Stephanie Spacciante,47,72.8,75.0,62.5,83.0,93.0,12.0,,,,6,,,6,,8,,6
-UBCV,2022,W,SPAN,201,,104,Elementary Spanish I,Iris Escuer Riera,45,71.2,74.0,65.0,83.0,88.0,21.0,,,,,,,7,,6,9,
-UBCV,2022,W,SPAN,201,,105,Elementary Spanish I,Mirta Roncagalli,21,74.3,75.0,69.0,83.0,94.0,50.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,201,,106,Elementary Spanish I,Ramon Antonio Victoriano,23,64.0,69.0,60.0,76.0,80.0,4.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,201,,107,Elementary Spanish I,Maria Adelaida Escobar Trujillo,39,74.1,79.0,68.5,83.5,91.0,29.0,,,,,,,,7,7,,
-UBCV,2022,W,SPAN,202,,201,Elementary Spanish II,Iris Escuer Riera,47,74.2,76.0,65.5,85.5,94.0,44.0,,,,,,,,,6,10,
-UBCV,2022,W,SPAN,202,,202,Elementary Spanish II,Maria Carbonetti,29,72.6,76.0,65.0,85.0,90.0,18.0,,,,,,,,7,,6,
-UBCV,2022,W,SPAN,202,,203,Elementary Spanish II,Maria Carbonetti,17,73.8,79.0,76.0,81.0,88.0,25.0,,,,,,,,,6,,
-UBCV,2022,W,SPAN,202,,204,Elementary Spanish II,Maria Adelaida Escobar Trujillo,55,76.3,78.0,67.0,85.0,98.0,42.0,,,,,7,,,6,8,12,6
-UBCV,2022,W,SPAN,202,,205,Elementary Spanish II,Stephanie Spacciante,32,75.2,75.5,67.8,84.3,94.0,50.0,,,,,,,,,6,,
-UBCV,2022,W,SPAN,202,,206,Elementary Spanish II,Stephanie Spacciante,42,76.2,81.0,69.5,85.8,95.0,0.0,,,,,,,,7,7,8,7
-UBCV,2022,W,SPAN,221,,101,Introduction to Hispanic Literature,Raul Alvarez Moreno,29,78.7,82.0,76.0,84.0,90.0,56.0,,,,,,,,,11,,
-UBCV,2022,W,SPAN,301,,101,Intermediate Spanish I,Anna Casas Aguilar,43,78.2,78.0,74.0,83.0,92.0,59.0,,,,,,,8,11,9,7,
-UBCV,2022,W,SPAN,301,,102,Intermediate Spanish I,Maria Adelaida Escobar Trujillo,33,79.4,81.0,74.0,84.0,90.0,58.0,,,,,,,,,12,7,
-UBCV,2022,W,SPAN,302,,201,Intermediate Spanish II,Maria Carbonetti,15,81.1,80.0,75.5,86.5,92.0,68.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,302,,202,Intermediate Spanish II,Maria Carbonetti,28,80.4,84.0,76.3,86.3,91.0,60.0,,,,,,,,,6,12,
-UBCV,2022,W,SPAN,308,,201,Spanish for Business,Raul Alvarez Moreno,11,81.5,83.0,78.0,85.0,89.0,72.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,312,C,201,Hopscotch: Topics in Hispanic Literature (in English),Jonathan Beasley-Murray,40,87.1,90.0,85.5,90.0,93.0,68.0,,,,,,,,,,,28
-UBCV,2022,W,SPAN,357,,101,The Golden Age of Peninsular Literature and Culture,Raul Alvarez Moreno,16,81.6,83.0,77.8,85.3,88.0,72.0,,,,,,,,,,6,
-UBCV,2022,W,SPAN,358,,201,Divergent Visions: Peninsular Literature and Culture since 1700,Anna Casas Aguilar,22,77.7,78.0,75.8,82.0,93.0,55.0,,,,,,,,7,6,,
-UBCV,2022,W,SPAN,364,,101,Colonial Encounters in Spanish-American Literature and Culture,Jonathan Beasley-Murray,11,79.4,82.0,75.0,83.5,86.0,71.0,,,,,,,,,6,,
-UBCV,2022,W,SPAN,365,,201,Modern Magics: Spanish-American Literature and Culture since the 1820s,Tamara Mitchell,13,79.9,83.0,76.0,87.0,91.0,63.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,401,,101,Upper Intermediate Spanish I,Maria Adelaida Escobar Trujillo,26,85.8,86.0,84.0,89.0,92.0,70.0,,,,,,,,,6,12,6
-UBCV,2022,W,SPAN,404,A,201,From World to Screen: Topics in Hispanic Cinema,Anna Casas Aguilar,17,82.1,81.0,79.0,85.0,90.0,77.0,,,,,,,,6,6,,
-UBCV,2022,W,SPAN,406,,101,Breaking the Mold: Gender Representation(s) in Hispanic Literature and Culture,Elizabeth Lagresa,27,85.4,86.0,84.5,88.0,90.0,75.0,,,,,,,,,,18,
-UBCV,2022,W,SPAN,490,E,201,Peoples and Nations: Topics in Twentieth- and Twenty-First Century Spanish-American Culture,Ramon Antonio Victoriano,7,86.4,85.0,85.0,87.0,91.0,85.0,,,,,,,,,,6,
-UBCV,2022,W,SPAN,504,B,201,Hispanic Cinema,Alessandra Santos,6,88.3,88.0,88.0,88.0,90.0,88.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,520,B,201,Golden-Age Literatures and Cultures,Elizabeth Lagresa,8,84.1,83.0,81.0,87.5,90.0,79.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,550,A,101,"Hispanic Languages, Literatures and Cultures",Ramon Antonio Victoriano,8,85.5,90.0,87.8,90.3,94.0,54.0,,,,,,,,,,,
-UBCV,2022,W,SPAN,590,A,101,Contemporary Latin-American Literatures and Cultures,Tamara Mitchell,7,78.1,82.0,79.0,87.0,92.0,41.0,,,,,,,,,,,
+UBCV,2022,W,SPAN,101,,101,Beginners' Spanish I,Rodolfo Ortiz,30,75.2,76.0,70.5,83.0,95.0,32.0,1,0,1,1,3,2,7,4,4,4,3
+UBCV,2022,W,SPAN,101,,102,Beginners' Spanish I,Iris Escuer Riera,64,76.2,79.5,69.0,86.3,95.0,24.0,4,2,1,1,6,4,7,7,10,13,9
+UBCV,2022,W,SPAN,101,,103,Beginners' Spanish I,Iris Escuer Riera,32,74.1,77.5,67.8,85.0,99.0,26.0,2,1,2,2,1,3,3,4,5,4,5
+UBCV,2022,W,SPAN,101,,104,Beginners' Spanish I,Brianne Orr-Alvarez,53,81.1,84.0,79.0,88.0,98.0,19.0,2,0,1,0,0,3,6,2,14,15,10
+UBCV,2022,W,SPAN,101,,105,Beginners' Spanish I,Olga Albarran Caselles,32,80.9,86.5,70.8,91.0,98.0,39.0,1,1,0,1,3,4,1,1,0,8,12
+UBCV,2022,W,SPAN,101,,106,Beginners' Spanish I,Stephanie Spacciante,53,75.3,77.0,70.0,87.0,95.0,18.0,3,1,1,2,5,4,8,7,5,10,7
+UBCV,2022,W,SPAN,101,,107,Beginners' Spanish I,Marcos Moscoso-Garay,35,79.3,82.0,71.5,88.5,98.0,50.0,0,2,1,1,1,4,4,4,3,8,7
+UBCV,2022,W,SPAN,101,,108,Beginners' Spanish I,Olga Albarran Caselles,49,76.6,80.0,67.0,87.0,98.0,41.0,2,1,1,5,4,4,5,2,7,8,10
+UBCV,2022,W,SPAN,101,,109,Beginners' Spanish I,Patricio Robles,34,80.4,82.0,78.5,87.8,98.0,42.0,1,2,0,1,0,2,1,2,12,6,7
+UBCV,2022,W,SPAN,101,,110,Beginners' Spanish I,Jonathan Beasley-Murray,47,76.1,79.0,75.0,85.0,97.0,9.0,3,0,1,1,3,1,3,12,10,10,3
+UBCV,2022,W,SPAN,101,,111,Beginners' Spanish I,Anthony Pearce,33,78.7,81.0,72.0,88.0,97.0,46.0,1,1,0,1,2,3,3,4,4,10,4
+UBCV,2022,W,SPAN,101,,112,Beginners' Spanish I,Rodolfo Ortiz,27,76.4,79.0,72.5,84.0,93.0,26.0,1,0,1,1,1,3,3,4,6,3,4
+UBCV,2022,W,SPAN,102,,201,Beginners' Spanish II,Maria Adelaida Escobar Trujillo,29,77.3,80.0,70.0,86.0,96.0,50.0,0,1,0,3,2,3,4,1,6,6,3
+UBCV,2022,W,SPAN,102,,202,Beginners' Spanish II,Maria Adelaida Escobar Trujillo,51,77.8,81.0,71.0,85.0,94.0,23.0,1,1,1,2,3,6,1,7,16,6,7
+UBCV,2022,W,SPAN,102,,203,Beginners' Spanish II,Iris Escuer Riera,49,70.4,72.0,63.0,80.0,100.0,26.0,5,2,2,6,6,2,8,2,6,5,5
+UBCV,2022,W,SPAN,102,,204,Beginners' Spanish II,Brianne Orr-Alvarez,49,80.4,82.0,76.0,88.0,98.0,22.0,1,0,0,0,3,2,6,7,11,8,11
+UBCV,2022,W,SPAN,102,,205,Beginners' Spanish II,Olga Albarran Caselles,32,73.6,77.5,67.8,86.5,92.0,4.0,2,1,1,3,1,1,5,3,4,4,7
+UBCV,2022,W,SPAN,102,,206,Beginners' Spanish II,Stephanie Spacciante,49,76.3,77.0,69.0,86.0,96.0,42.0,1,1,4,2,2,5,7,8,4,7,8
+UBCV,2022,W,SPAN,102,,207,Beginners' Spanish II,Raul Alvarez Moreno,35,76.4,80.0,72.5,83.5,95.0,18.0,1,1,0,1,3,1,8,2,11,4,3
+UBCV,2022,W,SPAN,201,,101,Elementary Spanish I,Andrea Roca,34,74.1,76.0,66.3,84.5,94.0,33.0,1,1,2,2,4,3,4,5,3,5,4
+UBCV,2022,W,SPAN,201,,102,Elementary Spanish I,Olga Albarran Caselles,31,76.3,83.0,71.5,87.0,97.0,0.0,2,0,3,1,0,2,2,1,7,6,7
+UBCV,2022,W,SPAN,201,,103,Elementary Spanish I,Stephanie Spacciante,47,72.8,75.0,62.5,83.0,93.0,12.0,1,3,4,6,3,1,6,4,8,5,6
+UBCV,2022,W,SPAN,201,,104,Elementary Spanish I,Iris Escuer Riera,45,71.2,74.0,65.0,83.0,88.0,21.0,4,1,2,3,3,5,7,5,6,9,0
+UBCV,2022,W,SPAN,201,,105,Elementary Spanish I,Mirta Roncagalli,21,74.3,75.0,69.0,83.0,94.0,50.0,0,2,0,1,2,1,5,2,5,2,1
+UBCV,2022,W,SPAN,201,,106,Elementary Spanish I,Ramon Antonio Victoriano,23,64.0,69.0,60.0,76.0,80.0,4.0,2,1,3,1,2,5,2,4,3,0,0
+UBCV,2022,W,SPAN,201,,107,Elementary Spanish I,Maria Adelaida Escobar Trujillo,39,74.1,79.0,68.5,83.5,91.0,29.0,2,1,2,3,2,2,5,7,7,5,3
+UBCV,2022,W,SPAN,202,,201,Elementary Spanish II,Iris Escuer Riera,47,74.2,76.0,65.5,85.5,94.0,44.0,2,3,3,3,3,4,5,5,6,10,3
+UBCV,2022,W,SPAN,202,,202,Elementary Spanish II,Maria Carbonetti,29,72.6,76.0,65.0,85.0,90.0,18.0,1,0,4,2,4,0,1,7,2,6,2
+UBCV,2022,W,SPAN,202,,203,Elementary Spanish II,Maria Carbonetti,17,73.8,79.0,76.0,81.0,88.0,25.0,2,0,0,0,0,1,1,5,6,2,0
+UBCV,2022,W,SPAN,202,,204,Elementary Spanish II,Maria Adelaida Escobar Trujillo,55,76.3,78.0,67.0,85.0,98.0,42.0,1,2,0,5,7,5,3,6,8,12,6
+UBCV,2022,W,SPAN,202,,205,Elementary Spanish II,Stephanie Spacciante,32,75.2,75.5,67.8,84.3,94.0,50.0,0,3,0,2,3,4,4,2,6,5,3
+UBCV,2022,W,SPAN,202,,206,Elementary Spanish II,Stephanie Spacciante,42,76.2,81.0,69.5,85.8,95.0,0.0,2,1,1,2,3,3,1,7,7,8,7
+UBCV,2022,W,SPAN,221,,101,Introduction to Hispanic Literature,Raul Alvarez Moreno,29,78.7,82.0,76.0,84.0,90.0,56.0,0,0,1,1,1,2,2,5,11,5,1
+UBCV,2022,W,SPAN,301,,101,Intermediate Spanish I,Anna Casas Aguilar,43,78.2,78.0,74.0,83.0,92.0,59.0,0,0,1,0,3,2,8,11,9,7,2
+UBCV,2022,W,SPAN,301,,102,Intermediate Spanish I,Maria Adelaida Escobar Trujillo,33,79.4,81.0,74.0,84.0,90.0,58.0,0,0,1,0,0,4,5,3,12,7,1
+UBCV,2022,W,SPAN,302,,201,Intermediate Spanish II,Maria Carbonetti,15,81.1,80.0,75.5,86.5,92.0,68.0,0,0,0,0,0,1,3,3,2,3,3
+UBCV,2022,W,SPAN,302,,202,Intermediate Spanish II,Maria Carbonetti,28,80.4,84.0,76.3,86.3,91.0,60.0,0,0,0,3,0,1,3,1,6,12,2
+UBCV,2022,W,SPAN,308,,201,Spanish for Business,Raul Alvarez Moreno,11,81.5,83.0,78.0,85.0,89.0,72.0,0,0,0,0,0,0,2,1,4,4,0
+UBCV,2022,W,SPAN,312,C,201,Hopscotch: Topics in Hispanic Literature (in English),Jonathan Beasley-Murray,40,87.1,90.0,85.5,90.0,93.0,68.0,0,0,0,0,0,1,3,2,4,2,28
+UBCV,2022,W,SPAN,357,,101,The Golden Age of Peninsular Literature and Culture,Raul Alvarez Moreno,16,81.6,83.0,77.8,85.3,88.0,72.0,0,0,0,0,0,0,2,4,4,6,0
+UBCV,2022,W,SPAN,358,,201,Divergent Visions: Peninsular Literature and Culture since 1700,Anna Casas Aguilar,22,77.7,78.0,75.8,82.0,93.0,55.0,0,0,1,0,1,3,1,7,6,2,1
+UBCV,2022,W,SPAN,364,,101,Colonial Encounters in Spanish-American Literature and Culture,Jonathan Beasley-Murray,11,79.4,82.0,75.0,83.5,86.0,71.0,0,0,0,0,0,3,0,1,6,1,0
+UBCV,2022,W,SPAN,365,,201,Modern Magics: Spanish-American Literature and Culture since the 1820s,Tamara Mitchell,13,79.9,83.0,76.0,87.0,91.0,63.0,0,0,0,2,1,0,0,2,3,3,2
+UBCV,2022,W,SPAN,401,,101,Upper Intermediate Spanish I,Maria Adelaida Escobar Trujillo,26,85.8,86.0,84.0,89.0,92.0,70.0,0,0,0,0,0,1,0,1,6,12,6
+UBCV,2022,W,SPAN,404,A,201,From World to Screen: Topics in Hispanic Cinema,Anna Casas Aguilar,17,82.1,81.0,79.0,85.0,90.0,77.0,0,0,0,0,0,0,0,6,6,4,1
+UBCV,2022,W,SPAN,406,,101,Breaking the Mold: Gender Representation(s) in Hispanic Literature and Culture,Elizabeth Lagresa,27,85.4,86.0,84.5,88.0,90.0,75.0,0,0,0,0,0,0,1,2,4,18,2
+UBCV,2022,W,SPAN,490,E,201,Peoples and Nations: Topics in Twentieth- and Twenty-First Century Spanish-American Culture,Ramon Antonio Victoriano,7,86.4,85.0,85.0,87.0,91.0,85.0,0,0,0,0,0,0,0,0,0,6,1
+UBCV,2022,W,SPAN,504,B,201,Hispanic Cinema,Alessandra Santos,6,88.3,88.0,88.0,88.0,90.0,88.0,0,0,0,0,0,0,0,0,0,5,1
+UBCV,2022,W,SPAN,520,B,201,Golden-Age Literatures and Cultures,Elizabeth Lagresa,8,84.1,83.0,81.0,87.5,90.0,79.0,0,0,0,0,0,0,0,1,3,3,1
+UBCV,2022,W,SPAN,550,A,101,"Hispanic Languages, Literatures and Cultures",Ramon Antonio Victoriano,8,85.5,90.0,87.8,90.3,94.0,54.0,1,0,0,0,0,0,0,0,0,2,5
+UBCV,2022,W,SPAN,590,A,101,Contemporary Latin-American Literatures and Cultures,Tamara Mitchell,7,78.1,82.0,79.0,87.0,92.0,41.0,1,0,0,0,0,0,0,1,3,0,2

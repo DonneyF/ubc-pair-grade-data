@@ -1,33 +1,33 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,MICB,203,,201,Basic Microbiology Laboratory,Tracy Kion,12,88.6,89.5,86.8,92.0,93.0,80.0,,,,,,,,,,,6
-UBCV,2022,W,MICB,211,,101,Foundations of Microbiology,Sean Crowe;Evelyn Sun,213,85.5,87.0,81.0,91.0,98.0,63.0,,,,,,6,15,22,27,70,69
-UBCV,2022,W,MICB,211,,201,Foundations of Microbiology,Evelyn Sun;Elitza Tocheva,265,88.4,90.0,86.0,93.0,99.0,4.0,,,,,,,8,9,31,71,141
+UBCV,2022,W,MICB,203,,201,Basic Microbiology Laboratory,Tracy Kion,12,88.6,89.5,86.8,92.0,93.0,80.0,0,0,0,0,0,0,0,0,2,4,6
+UBCV,2022,W,MICB,211,,101,Foundations of Microbiology,Sean Crowe;Evelyn Sun,213,85.5,87.0,81.0,91.0,98.0,63.0,0,0,0,1,3,6,15,22,27,70,69
+UBCV,2022,W,MICB,211,,201,Foundations of Microbiology,Evelyn Sun;Elitza Tocheva,265,88.4,90.0,86.0,93.0,99.0,4.0,1,0,0,1,2,1,8,9,31,71,141
 UBCV,2022,W,MICB,212,,101,Introductory Immunology & Virology,Tracy Kion;Lisa Osborne,263,81.1,85.0,73.5,91.0,98.0,14.0,7,3,10,9,9,19,20,19,32,49,86
-UBCV,2022,W,MICB,212,,201,Introductory Immunology & Virology,Tracy Kion;Jennifer Sibley;Maria Tokuyama,219,80.9,85.0,74.5,90.0,98.0,32.0,9,,,9,7,11,17,17,34,54,57
-UBCV,2022,W,MICB,301,,101,Microbial Ecophysiology,Lindsay Eltis;William Mohn,116,78.2,80.0,73.8,84.0,93.0,29.0,,,,,7,10,12,22,34,20,6
-UBCV,2022,W,MICB,302,,101,Immunology,Tracy Kion,200,77.2,79.0,73.8,86.3,98.0,29.0,17,,,,9,12,25,33,37,29,32
-UBCV,2022,W,MICB,306,,101,Molecular Virology,Marcia Graves;Francois Jean,165,80.7,83.0,76.0,90.0,97.0,31.0,,,,6,,15,9,16,31,33,45
-UBCV,2022,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Yossef Av-Gay;David Oliver,104,79.4,83.0,73.0,89.0,99.0,0.0,,,,,,6,10,10,18,21,24
-UBCV,2022,W,MICB,322,,101,Molecular Microbiology Laboratory,Jennifer Sibley,87,86.7,87.0,84.0,90.0,97.0,75.0,,,,,,,,,22,32,27
-UBCV,2022,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Michael Chua;Marcia Graves,83,83.5,85.0,81.5,86.0,91.0,71.0,,,,,,,,6,30,35,7
-UBCV,2022,W,MICB,325,,201,Analysis of Microbial Genes and Genomes,Lindsay Eltis;Corri Hamilton,121,77.4,80.0,72.0,85.0,95.0,15.0,,,,6,,8,12,16,27,18,19
-UBCV,2022,W,MICB,353,,201,Food Microbiology Laboratory,Tracy Kion,26,92.3,93.0,90.0,95.0,98.0,84.0,,,,,,,,,,,20
-UBCV,2022,W,MICB,402,,101,Advanced Immunology,Kenneth Harder;Megan Levings;Manish Sadarangani,36,75.8,82.0,71.0,87.0,95.0,21.0,,,,,,,,,9,,9
-UBCV,2022,W,MICB,404,,201,Topics in Molecular Bacterial Pathogenesis,Robert E Hancock,19,89.5,90.0,85.5,92.0,97.0,83.0,,,,,,,,,,6,10
-UBCV,2022,W,MICB,405,,101,Bioinformatics,Martin Hirst;Donald Wong,62,76.1,76.0,72.0,80.8,91.0,57.0,,,,,6,6,10,18,9,8,
+UBCV,2022,W,MICB,212,,201,Introductory Immunology & Virology,Tracy Kion;Jennifer Sibley;Maria Tokuyama,219,80.9,85.0,74.5,90.0,98.0,32.0,9,1,3,9,7,11,17,17,34,54,57
+UBCV,2022,W,MICB,301,,101,Microbial Ecophysiology,Lindsay Eltis;William Mohn,116,78.2,80.0,73.8,84.0,93.0,29.0,1,1,2,1,7,10,12,22,34,20,6
+UBCV,2022,W,MICB,302,,101,Immunology,Tracy Kion,200,77.2,79.0,73.8,86.3,98.0,29.0,17,1,2,3,9,12,25,33,37,29,32
+UBCV,2022,W,MICB,306,,101,Molecular Virology,Marcia Graves;Francois Jean,165,80.7,83.0,76.0,90.0,97.0,31.0,3,2,5,6,0,15,9,16,31,33,45
+UBCV,2022,W,MICB,308,,201,Paradigms in Bacterial Pathogenesis,Yossef Av-Gay;David Oliver,104,79.4,83.0,73.0,89.0,99.0,0.0,4,3,1,4,3,6,10,10,18,21,24
+UBCV,2022,W,MICB,322,,101,Molecular Microbiology Laboratory,Jennifer Sibley,87,86.7,87.0,84.0,90.0,97.0,75.0,0,0,0,0,0,0,1,5,22,32,27
+UBCV,2022,W,MICB,323,,201,Molecular Immunology and Virology Laboratory,Michael Chua;Marcia Graves,83,83.5,85.0,81.5,86.0,91.0,71.0,0,0,0,0,0,1,4,6,30,35,7
+UBCV,2022,W,MICB,325,,201,Analysis of Microbial Genes and Genomes,Lindsay Eltis;Corri Hamilton,121,77.4,80.0,72.0,85.0,95.0,15.0,4,3,4,6,4,8,12,16,27,18,19
+UBCV,2022,W,MICB,353,,201,Food Microbiology Laboratory,Tracy Kion,26,92.3,93.0,90.0,95.0,98.0,84.0,0,0,0,0,0,0,0,0,1,5,20
+UBCV,2022,W,MICB,402,,101,Advanced Immunology,Kenneth Harder;Megan Levings;Manish Sadarangani,36,75.8,82.0,71.0,87.0,95.0,21.0,3,0,3,1,1,3,2,2,9,3,9
+UBCV,2022,W,MICB,404,,201,Topics in Molecular Bacterial Pathogenesis,Robert E Hancock,19,89.5,90.0,85.5,92.0,97.0,83.0,0,0,0,0,0,0,0,0,3,6,10
+UBCV,2022,W,MICB,405,,101,Bioinformatics,Martin Hirst;Donald Wong,62,76.1,76.0,72.0,80.8,91.0,57.0,1,0,2,0,6,6,10,18,9,8,2
 UBCV,2022,W,MICB,406,,201,Topics in Molecular Virology,Marc Horwitz;Francois Jean,12,94.7,95.0,93.8,95.3,98.0,91.0,0,0,0,0,0,0,0,0,0,0,12
-UBCV,2022,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Agata Jassem,34,92.5,92.5,90.3,95.0,99.0,81.0,,,,,,,,,,,29
-UBCV,2022,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Evelyn Sun;Elitza Tocheva,40,93.6,94.5,92.0,96.0,97.0,85.0,,,,,,,,,,,37
-UBCV,2022,W,MICB,412,,201,Topics in Immunological Research,Michael Gold;Kenneth Harder;Maria Tokuyama,13,90.8,91.0,90.0,93.0,95.0,84.0,,,,,,,,,,,10
-UBCV,2022,W,MICB,413,,201,Topics in Microbiome Research,B Brett Finlay;Leah Hohman;Lisa Osborne;Carolina Tropini,18,91.4,91.0,91.0,92.8,95.0,88.0,,,,,,,,,,,16
-UBCV,2022,W,MICB,418,,201,Industrial Microbiology and Biotechnology,David Oliver;Jared Taylor,61,85.4,87.0,81.0,92.0,97.0,56.0,,,,,,,6,,11,17,22
-UBCV,2022,W,MICB,425,,201,Microbial Ecological Genomics,Sean Crowe;Donald Wong,47,88.5,90.0,87.0,91.0,93.0,75.0,,,,,,,,,6,15,24
-UBCV,2022,W,MICB,430,A,101,Seminar in Microbiological Literature,Erin Gaynor;Leah Hohman;Evelyn Sun,16,92.6,92.5,89.8,95.0,99.0,86.0,,,,,,,,,,,12
-UBCV,2022,W,MICB,448,C,001,Directed Research,Tracy Kion,12,90.3,92.0,89.8,94.3,96.0,71.0,,,,,,,,,,,9
-UBCV,2022,W,MICB,471,,101,Laboratory Research in Microbiology and Immunology,Marcia Graves;David Oliver,49,93.9,94.0,92.0,97.0,99.0,86.0,,,,,,,,,,,44
+UBCV,2022,W,MICB,407,,101,Viral Infections in Humans.,Marc Horwitz;Agata Jassem,34,92.5,92.5,90.3,95.0,99.0,81.0,0,0,0,0,0,0,0,0,1,4,29
+UBCV,2022,W,MICB,408,,201,Advanced Bacterial Pathogenesis,Evelyn Sun;Elitza Tocheva,40,93.6,94.5,92.0,96.0,97.0,85.0,0,0,0,0,0,0,0,0,0,3,37
+UBCV,2022,W,MICB,412,,201,Topics in Immunological Research,Michael Gold;Kenneth Harder;Maria Tokuyama,13,90.8,91.0,90.0,93.0,95.0,84.0,0,0,0,0,0,0,0,0,1,2,10
+UBCV,2022,W,MICB,413,,201,Topics in Microbiome Research,B Brett Finlay;Leah Hohman;Lisa Osborne;Carolina Tropini,18,91.4,91.0,91.0,92.8,95.0,88.0,0,0,0,0,0,0,0,0,0,2,16
+UBCV,2022,W,MICB,418,,201,Industrial Microbiology and Biotechnology,David Oliver;Jared Taylor,61,85.4,87.0,81.0,92.0,97.0,56.0,0,0,1,0,0,1,6,3,11,17,22
+UBCV,2022,W,MICB,425,,201,Microbial Ecological Genomics,Sean Crowe;Donald Wong,47,88.5,90.0,87.0,91.0,93.0,75.0,0,0,0,0,0,0,1,1,6,15,24
+UBCV,2022,W,MICB,430,A,101,Seminar in Microbiological Literature,Erin Gaynor;Leah Hohman;Evelyn Sun,16,92.6,92.5,89.8,95.0,99.0,86.0,0,0,0,0,0,0,0,0,0,4,12
+UBCV,2022,W,MICB,448,C,001,Directed Research,Tracy Kion,12,90.3,92.0,89.8,94.3,96.0,71.0,0,0,0,0,0,1,0,0,1,1,9
+UBCV,2022,W,MICB,471,,101,Laboratory Research in Microbiology and Immunology,Marcia Graves;David Oliver,49,93.9,94.0,92.0,97.0,99.0,86.0,0,0,0,0,0,0,0,0,0,5,44
 UBCV,2022,W,MICB,471,,201,Laboratory Research in Microbiology and Immunology,David Oliver,17,93.7,95.0,92.0,95.0,96.0,90.0,0,0,0,0,0,0,0,0,0,0,17
-UBCV,2022,W,MICB,475,,201,Data Science Research in Microbiology and Immunology,Melissa Chen;Evelyn Sun,74,94.0,96.0,92.0,97.0,98.0,82.0,,,,,,,,,,10,62
-UBCV,2022,W,MICB,502,,201,Advanced Immunogenetics,Ashley Ambrose;Michael Gold;Wilfred Arthur Jefferies,18,89.5,90.0,86.5,92.8,95.0,82.0,,,,,,,,,,,10
-UBCV,2022,W,MICB,506,A,102,Microbiological and Immunological Research,Lindsay Eltis;Robert E Hancock;Pauline Johnson,27,90.4,91.0,88.0,92.5,97.0,83.0,,,,,,,,,,10,15
-UBCV,2022,W,MICB,506,B,201,Microbiological and Immunological Research,Michael Gold;Marcia Graves;Pauline Johnson;Michael Murphy;Maria Tokuyama;Carolina Tropini,25,95.1,97.0,94.0,98.0,99.0,86.0,,,,,,,,,,,21
-UBCV,2022,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;William Mohn;Theodore Steiner;Stuart Turvey,11,88.9,88.0,87.5,90.0,93.0,86.0,,,,,,,,,,8,
+UBCV,2022,W,MICB,475,,201,Data Science Research in Microbiology and Immunology,Melissa Chen;Evelyn Sun,74,94.0,96.0,92.0,97.0,98.0,82.0,0,0,0,0,0,0,0,0,2,10,62
+UBCV,2022,W,MICB,502,,201,Advanced Immunogenetics,Ashley Ambrose;Michael Gold;Wilfred Arthur Jefferies,18,89.5,90.0,86.5,92.8,95.0,82.0,0,0,0,0,0,0,0,0,3,5,10
+UBCV,2022,W,MICB,506,A,102,Microbiological and Immunological Research,Lindsay Eltis;Robert E Hancock;Pauline Johnson,27,90.4,91.0,88.0,92.5,97.0,83.0,0,0,0,0,0,0,0,0,2,10,15
+UBCV,2022,W,MICB,506,B,201,Microbiological and Immunological Research,Michael Gold;Marcia Graves;Pauline Johnson;Michael Murphy;Maria Tokuyama;Carolina Tropini,25,95.1,97.0,94.0,98.0,99.0,86.0,0,0,0,0,0,0,0,0,0,4,21
+UBCV,2022,W,MICB,507,,101,Topics in Molecular Pathogenesis and Immunology,Amee Manges;William Mohn;Theodore Steiner;Stuart Turvey,11,88.9,88.0,87.5,90.0,93.0,86.0,0,0,0,0,0,0,0,0,0,8,3

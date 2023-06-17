@@ -1,81 +1,82 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2022,W,ELEC,201,,101,Circuit Analysis I,Sudip Shekhar,205,73.6,74.0,64.0,83.0,100.0,13.0,5,8,23,11,19,16,31,15,33,13,31
-UBCV,2022,W,ELEC,201,,201,Circuit Analysis I,Alireza Nojeh,126,62.5,63.0,54.0,71.0,100.0,17.0,21,14,18,14,16,12,11,,8,,
-UBCV,2022,W,ELEC,202,,101,Circuit Analysis II,Luis Linares,42,68.5,69.5,55.8,82.8,100.0,20.0,7,,,,,,,,,,7
-UBCV,2022,W,ELEC,202,,201,Circuit Analysis II,Luis Linares;Shuo Tang,66,68.6,71.0,55.0,81.5,100.0,35.0,10,7,,,,8,6,,10,,9
+UBCV,2022,W,ELEC,201,,201,Circuit Analysis I,Alireza Nojeh,126,62.5,63.0,54.0,71.0,100.0,17.0,21,14,18,14,16,12,11,4,8,4,4
+UBCV,2022,W,ELEC,202,,101,Circuit Analysis II,Luis Linares,42,68.5,69.5,55.8,82.8,100.0,20.0,7,3,2,3,3,4,3,2,5,3,7
+UBCV,2022,W,ELEC,202,,201,Circuit Analysis II,Luis Linares;Shuo Tang,66,68.6,71.0,55.0,81.5,100.0,35.0,10,7,2,5,2,8,6,5,10,2,9
 UBCV,2022,W,ELEC,202,,202,Circuit Analysis II,Luis Linares;Shuo Tang,106,70.9,73.5,60.0,82.0,100.0,22.0,11,8,7,8,6,7,11,9,19,7,13
-UBCV,2022,W,ELEC,203,,101,Basic Circuit Analysis,Saloome Motavas,63,72.5,70.0,60.5,87.0,100.0,24.0,,,,7,6,7,,,,,14
-UBCV,2022,W,ELEC,204,,101,Linear Circuits,Shahriar Mirabbasi,128,92.3,93.0,90.0,98.0,100.0,74.0,,,,,,,,,16,11,99
-UBCV,2022,W,ELEC,205,,L1A,Electronics Laboratory,Edmond Cretu,20,88.7,88.0,84.5,93.0,100.0,75.0,,,,,,,,,,6,9
-UBCV,2022,W,ELEC,205,,L1B,Electronics Laboratory,Edmond Cretu,23,87.8,88.0,84.0,91.5,95.0,76.0,,,,,,,,,,,11
-UBCV,2022,W,ELEC,205,,L1C,Electronics Laboratory,Edmond Cretu,17,90.3,93.0,87.0,95.0,100.0,75.0,,,,,,,,,,,10
-UBCV,2022,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger,95,67.3,68.0,60.5,78.0,96.0,21.0,12,,6,10,12,18,7,,11,,7
-UBCV,2022,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger,96,64.3,66.0,57.8,74.3,100.0,4.0,18,,7,11,14,15,7,,,,9
+UBCV,2022,W,ELEC,203,,101,Basic Circuit Analysis,Saloome Motavas,63,72.5,70.0,60.5,87.0,100.0,24.0,5,4,4,7,6,7,5,5,2,4,14
+UBCV,2022,W,ELEC,204,,101,Linear Circuits,Shahriar Mirabbasi,128,92.3,93.0,90.0,98.0,100.0,74.0,0,0,0,0,0,0,2,0,16,11,99
+UBCV,2022,W,ELEC,205,,L1A,Electronics Laboratory,Edmond Cretu,20,88.7,88.0,84.5,93.0,100.0,75.0,0,0,0,0,0,0,1,0,4,6,9
+UBCV,2022,W,ELEC,205,,L1B,Electronics Laboratory,Edmond Cretu,23,87.8,88.0,84.0,91.5,95.0,76.0,0,0,0,0,0,0,0,2,5,5,11
+UBCV,2022,W,ELEC,205,,L1C,Electronics Laboratory,Edmond Cretu,17,90.3,93.0,87.0,95.0,100.0,75.0,0,0,0,0,0,0,1,0,1,5,10
+UBCV,2022,W,ELEC,211,,201,Engineering Electromagnetics,Carol Patricia Jaeger,95,67.3,68.0,60.5,78.0,96.0,21.0,12,4,6,10,12,18,7,4,11,4,7
+UBCV,2022,W,ELEC,211,,202,Engineering Electromagnetics,Carol Patricia Jaeger,96,64.3,66.0,57.8,74.3,100.0,4.0,18,3,7,11,14,15,7,5,5,2,9
 UBCV,2022,W,ELEC,221,,101,Signals and Systems,Olivia Di Matteo,116,63.5,68.0,51.8,78.5,95.0,1.0,22,11,6,9,9,10,12,8,14,11,4
 UBCV,2022,W,ELEC,221,,201,Signals and Systems,Christos Thrampoulidis,178,72.2,73.5,64.0,82.0,98.0,0.0,9,10,9,14,14,22,21,22,16,23,18
-UBCV,2022,W,ELEC,271,,101,Selected Topics in Biomedical Engineering,Sharareh Bayat,10,93.6,96.0,89.5,96.0,97.0,88.0,,,,,,,,,,,7
-UBCV,2022,W,ELEC,281,,201,Technical Communication,Hongxing Estella Qi,17,72.6,75.0,70.0,77.0,85.0,45.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,281,,202,Technical Communication,Hartaj Sanghara,29,76.2,76.0,75.0,80.0,85.0,47.0,,,,,,,7,8,8,,
-UBCV,2022,W,ELEC,281,,203,Technical Communication,Hartaj Sanghara,34,75.5,76.0,73.3,80.0,85.0,46.0,,,,,,,6,11,10,,
-UBCV,2022,W,ELEC,281,,204,Technical Communication,Hongxing Estella Qi,20,75.9,76.5,72.0,82.0,86.0,63.0,,,,,,,,,6,,
-UBCV,2022,W,ELEC,281,,205,Technical Communication,Hartaj Sanghara,31,75.7,76.0,73.0,80.5,86.0,45.0,,,,,,,12,6,8,,
-UBCV,2022,W,ELEC,291,,201,Electrical Engineering Design Studio I,Jesus Calvino-Fraga,147,81.0,83.0,77.0,87.0,95.0,50.0,,,,,8,,15,24,43,32,17
-UBCV,2022,W,ELEC,292,,201,Biomedical Engineering Design Studio,Jesus Calvino-Fraga,7,83.0,84.0,80.0,85.0,89.0,78.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,301,,101,Electronic Circuits,Nicolas A Jaeger,80,78.7,82.5,72.0,90.0,99.0,5.0,,,,,,7,,6,17,13,22
-UBCV,2022,W,ELEC,301,,201,Electronic Circuits,Nicolas A Jaeger,78,75.8,80.0,68.0,85.8,96.0,36.0,,,,,6,,,11,18,11,11
-UBCV,2022,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Kenichi Takahata,75,78.6,80.0,72.0,84.5,100.0,43.0,,,,,,7,,11,23,8,11
-UBCV,2022,W,ELEC,311,,101,Electromagnetic Fields and Waves,David Michelson,89,86.7,88.0,82.0,92.0,99.0,62.0,,,,,,,,,18,24,35
-UBCV,2022,W,ELEC,311,,201,Electromagnetic Fields and Waves,Matthew Yedlin,58,77.0,78.0,72.3,81.8,98.0,55.0,,,,,,6,6,11,15,10,
-UBCV,2022,W,ELEC,315,,101,Electronic Materials and Devices,John Madden,104,76.0,77.0,69.0,83.0,100.0,22.0,,,7,,8,16,10,15,18,13,12
-UBCV,2022,W,ELEC,321,,201,Stochastic Signals and Systems,Cyril Leung;William Welch,102,72.0,72.0,65.0,80.0,97.0,30.0,,,8,,12,9,18,13,14,8,8
-UBCV,2022,W,ELEC,331,,101,Computer Communications,Farshid Agharebparast;Lutz Lampe,68,72.8,74.0,62.8,83.3,98.0,40.0,,,7,9,,9,7,7,9,8,6
-UBCV,2022,W,ELEC,331,,201,Computer Communications,Lutz Lampe,105,76.0,76.0,71.0,83.0,96.0,50.0,,,,6,6,16,12,21,23,7,9
-UBCV,2022,W,ELEC,341,,101,Systems and Control,Leo Stocco,40,66.0,72.0,50.0,86.3,97.0,0.0,8,,,,,,,,,,10
-UBCV,2022,W,ELEC,341,,201,Systems and Control,Leo Stocco,68,74.9,77.0,68.0,86.3,100.0,11.0,,,,,6,6,7,11,7,7,14
-UBCV,2022,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Luis Linares,66,76.9,77.5,67.3,91.8,100.0,29.0,6,,,,,6,,6,,6,22
-UBCV,2022,W,ELEC,342,,201,Electro-Mechanical Energy Conversion and Transmission,Luis Linares,82,70.0,72.0,62.3,77.8,98.0,35.0,,,9,,10,8,16,6,9,7,
-UBCV,2022,W,ELEC,343,,201,Electromechanics,Seyyedmilad Ebrahimi,38,79.0,80.0,74.0,85.8,100.0,50.0,,,,,,,,6,8,9,
-UBCV,2022,W,ELEC,344,,101,Applied Electronics and Electromechanics,Juri Jatskevich,66,73.0,72.5,67.3,78.0,91.0,50.0,,,,7,6,10,14,9,6,6,
-UBCV,2022,W,ELEC,344,,201,Applied Electronics and Electromechanics,Seyyedmilad Ebrahimi,55,75.6,79.0,68.0,84.5,100.0,0.0,,,,,,,6,6,13,,9
-UBCV,2022,W,ELEC,352,,201,Electric Energy Systems,Sina Chiniforoosh,35,80.1,80.0,74.0,89.5,95.0,62.0,,,,,,,10,,6,,9
-UBCV,2022,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Siamak Najarian,9,83.7,82.0,79.0,87.0,93.0,74.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,391,,201,Electrical Engineering Design Studio II,Leo Stocco,113,80.2,82.0,76.0,88.0,100.0,32.0,6,,,,,,10,15,22,24,27
-UBCV,2022,W,ELEC,400,M,101,Topics in Electrical Engineering,Xiaoxiao Li,59,88.4,91.0,86.0,95.0,100.0,30.0,,,,,,,,7,,13,33
-UBCV,2022,W,ELEC,401,,101,Analog CMOS Integrated Circuit Design,Shahriar Mirabbasi,74,92.9,99.0,90.0,100.0,100.0,35.0,,,,,,,,,6,7,56
-UBCV,2022,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi,36,77.4,80.0,68.0,87.3,94.0,50.0,,,,,,,,,6,,8
-UBCV,2022,W,ELEC,403,,201,Advanced Digital VLSI Systems,Sudip Shekhar,11,75.0,86.0,74.5,88.0,94.0,3.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,404,,201,RF Integrated Circuits,Reza Molavi,22,74.0,75.5,66.3,79.5,90.0,53.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,411,,101,Antennas and Propagation,David Michelson,18,92.2,93.0,90.5,94.8,99.0,82.0,,,,,,,,,,,14
-UBCV,2022,W,ELEC,412,,101,Optical Waveguides and Photonics,Nicolas A Jaeger,9,91.4,92.0,88.0,95.0,99.0,85.0,,,,,,,,,,,6
-UBCV,2022,W,ELEC,413,,201,Semiconductor Lasers,Lukas Chrostowski,34,83.1,88.0,78.0,92.0,99.0,0.0,,,,,,,,,,10,12
-UBCV,2022,W,ELEC,415,,201,"Semiconductor Devices: Physics, Design and Analysis",Joseph Salfi,13,73.1,72.0,65.0,80.0,88.0,60.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,421,,101,Digital Signal and Image Processing,Zhen Wang,29,84.7,85.0,80.0,90.0,96.0,71.0,,,,,,,,,,9,8
-UBCV,2022,W,ELEC,422,,201,Biosignals and Systems,Zhen Wang,21,76.5,82.0,71.0,83.0,95.0,35.0,,,,,,,,,6,,
-UBCV,2022,W,ELEC,431,,101,Communication Systems I,Paul Lusina,8,80.3,77.5,71.8,87.0,98.0,68.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,433,,201,Error Control Coding for Communications and Computers,Reza Mosayebi,17,80.9,81.0,71.0,88.0,100.0,66.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,441,,201,Control Systems,Abdullah Al-Digs,29,82.2,82.0,78.0,85.0,100.0,62.0,,,,,,,,,10,6,
-UBCV,2022,W,ELEC,442,,101,Introduction to Robotics,Joseph Yan,29,71.0,73.0,59.0,82.0,100.0,28.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,451,,101,Power Electronics,Martin Ordonez,48,77.3,79.5,72.5,85.3,97.0,19.0,,,,,,6,,7,10,6,8
-UBCV,2022,W,ELEC,453,,101,Power System Analysis,Jose Marti,15,80.3,77.0,71.5,90.0,99.0,64.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,454,,201,Power System Analysis II,Jose Marti,12,74.0,87.0,79.3,91.5,97.0,0.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,455,,201,Power Systems Protection,Charles Henville;Mukesh Nagpal,7,70.6,76.0,63.0,77.5,84.0,53.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,456,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi,10,75.2,75.0,68.0,84.5,91.0,57.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,457,,101,Optimization of Power System Operation,Ebrahim Vaahedi,6,86.2,86.5,80.8,90.8,96.0,77.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,461,,101,Nanotechnology in Electronics,Konrad Walus,10,82.6,88.0,75.5,90.8,92.0,55.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,462,,101,Sensors and Actuators in Microsystems,Boris Stoeber,36,75.2,76.0,66.8,88.0,100.0,25.0,,,,,,,,,,,7
-UBCV,2022,W,ELEC,463,,101,Micro/Nanofabrication and Instrumentation Laboratory,Lukas Chrostowski,17,74.4,73.0,67.0,85.0,90.0,51.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,465,,101,Microsystems Design,Edmond Cretu,11,62.9,68.0,51.0,74.5,86.0,40.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,471,,101,Medical Imaging,Robert Rohling,15,78.3,81.0,77.0,85.0,92.0,40.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,473,,101,Biological Micro-Electro-Mechanical Systems,Karen Cheung;Martina Iapichino,33,70.1,73.0,65.0,78.0,95.0,32.0,,,,,,,6,6,6,,
-UBCV,2022,W,ELEC,474,,101,Biophotonics,Shuo Tang,14,77.6,78.0,70.0,85.0,96.0,60.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,481,,101,Economic Analysis of Engineering Projects,Jeffrey Carmichael,58,72.8,74.0,65.3,80.0,92.0,48.0,,,,,8,,9,11,9,,
-UBCV,2022,W,ELEC,481,,201,Economic Analysis of Engineering Projects,Jeffrey Carmichael,44,72.6,75.0,69.0,78.0,86.0,29.0,,,,,,13,7,12,,,
-UBCV,2022,W,ELEC,491,F,001,Electrical Engineering Capstone Design Project,Hamed Ahmadi;Pieter Botman;S Sidney Fels;Cristian Sorin Grecu;Andre Ivanov;Terry Lee;Paul Lusina;Panos Nasiopoulos;Joseph Yan,107,82.8,83.0,79.0,86.0,98.0,63.0,,,,,,,9,18,36,29,12
-UBCV,2022,W,ELEC,494,,001,Biomedical Engineering Capstone Design Project,Hamed Ahmadi;Pieter Botman;S Sidney Fels;Cristian Sorin Grecu;Andre Ivanov;Terry Lee;Paul Lusina;Panos Nasiopoulos;Joseph Yan,12,82.6,86.5,82.3,88.0,89.0,52.0,,,,,,,,,,7,
-UBCV,2022,W,ELEC,501,,201,Analog Integrated Circuit Design,Reza Molavi,9,89.4,91.0,90.0,92.0,95.0,80.0,,,,,,,,,,,7
+UBCV,2022,W,ELEC,271,,101,Selected Topics in Biomedical Engineering,Sharareh Bayat,10,93.6,96.0,89.5,96.0,97.0,88.0,0,0,0,0,0,0,0,0,0,3,7
+UBCV,2022,W,ELEC,281,,201,Technical Communication,Hongxing Estella Qi,17,72.6,75.0,70.0,77.0,85.0,45.0,1,0,1,0,1,2,4,5,2,1,0
+UBCV,2022,W,ELEC,281,,202,Technical Communication,Hartaj Sanghara,29,76.2,76.0,75.0,80.0,85.0,47.0,1,0,0,0,0,3,7,8,8,2,0
+UBCV,2022,W,ELEC,281,,203,Technical Communication,Hartaj Sanghara,34,75.5,76.0,73.3,80.0,85.0,46.0,1,0,0,0,1,4,6,11,10,1,0
+UBCV,2022,W,ELEC,281,,204,Technical Communication,Hongxing Estella Qi,20,75.9,76.5,72.0,82.0,86.0,63.0,0,0,0,1,2,2,5,3,6,1,0
+UBCV,2022,W,ELEC,281,,205,Technical Communication,Hartaj Sanghara,31,75.7,76.0,73.0,80.5,86.0,45.0,1,0,0,0,1,1,12,6,8,2,0
+UBCV,2022,W,ELEC,291,,201,Electrical Engineering Design Studio I,Jesus Calvino-Fraga,147,81.0,83.0,77.0,87.0,95.0,50.0,0,2,0,1,8,5,15,24,43,32,17
+UBCV,2022,W,ELEC,292,,201,Biomedical Engineering Design Studio,Jesus Calvino-Fraga,7,83.0,84.0,80.0,85.0,89.0,78.0,0,0,0,0,0,0,0,2,3,2,0
+UBCV,2022,W,ELEC,301,,101,Electronic Circuits,Nicolas A Jaeger,80,78.7,82.5,72.0,90.0,99.0,5.0,4,0,2,1,3,7,5,6,17,13,22
+UBCV,2022,W,ELEC,301,,201,Electronic Circuits,Nicolas A Jaeger,78,75.8,80.0,68.0,85.8,96.0,36.0,3,3,4,3,6,4,4,11,18,11,11
+UBCV,2022,W,ELEC,302,,201,Electronic Circuits for Electromechanical Design,Kenichi Takahata,75,78.6,80.0,72.0,84.5,100.0,43.0,1,2,2,3,4,7,3,11,23,8,11
+UBCV,2022,W,ELEC,311,,101,Electromagnetic Fields and Waves,David Michelson,89,86.7,88.0,82.0,92.0,99.0,62.0,0,0,0,1,0,2,4,5,18,24,35
+UBCV,2022,W,ELEC,311,,201,Electromagnetic Fields and Waves,Matthew Yedlin,58,77.0,78.0,72.3,81.8,98.0,55.0,0,0,2,2,4,6,6,11,15,10,2
+UBCV,2022,W,ELEC,315,,101,Electronic Materials and Devices,John Madden,104,76.0,77.0,69.0,83.0,100.0,22.0,1,1,7,3,8,16,10,15,18,13,12
+UBCV,2022,W,ELEC,315,,201,Electronic Materials and Devices,Peyman Servati,35,76.4,76.0,72.0,82.5,95.0,41.0,1,0,0,1,1,5,7,5,7,5,3
+UBCV,2022,W,ELEC,321,,201,Stochastic Signals and Systems,Cyril Leung;William Welch,102,72.0,72.0,65.0,80.0,97.0,30.0,3,5,8,4,12,9,18,13,14,8,8
+UBCV,2022,W,ELEC,331,,101,Computer Communications,Farshid Agharebparast;Lutz Lampe,68,72.8,74.0,62.8,83.3,98.0,40.0,1,3,7,9,2,9,7,7,9,8,6
+UBCV,2022,W,ELEC,331,,201,Computer Communications,Lutz Lampe,105,76.0,76.0,71.0,83.0,96.0,50.0,0,2,3,6,6,16,12,21,23,7,9
+UBCV,2022,W,ELEC,341,,101,Systems and Control,Leo Stocco,40,66.0,72.0,50.0,86.3,97.0,0.0,8,3,3,2,2,1,5,4,1,1,10
+UBCV,2022,W,ELEC,341,,201,Systems and Control,Leo Stocco,68,74.9,77.0,68.0,86.3,100.0,11.0,5,2,1,2,6,6,7,11,7,7,14
+UBCV,2022,W,ELEC,342,,101,Electro-Mechanical Energy Conversion and Transmission,Luis Linares,66,76.9,77.5,67.3,91.8,100.0,29.0,6,2,3,3,3,6,5,6,4,6,22
+UBCV,2022,W,ELEC,342,,201,Electro-Mechanical Energy Conversion and Transmission,Luis Linares,82,70.0,72.0,62.3,77.8,98.0,35.0,4,5,9,4,10,8,16,6,9,7,4
+UBCV,2022,W,ELEC,343,,201,Electromechanics,Seyyedmilad Ebrahimi,38,79.0,80.0,74.0,85.8,100.0,50.0,0,2,0,0,2,3,5,6,8,9,3
+UBCV,2022,W,ELEC,344,,101,Applied Electronics and Electromechanics,Juri Jatskevich,66,73.0,72.5,67.3,78.0,91.0,50.0,0,4,0,7,6,10,14,9,6,6,4
+UBCV,2022,W,ELEC,344,,201,Applied Electronics and Electromechanics,Seyyedmilad Ebrahimi,55,75.6,79.0,68.0,84.5,100.0,0.0,2,0,4,3,4,3,6,6,13,5,9
+UBCV,2022,W,ELEC,352,,201,Electric Energy Systems,Sina Chiniforoosh,35,80.1,80.0,74.0,89.5,95.0,62.0,0,0,0,1,2,2,10,2,6,3,9
+UBCV,2022,W,ELEC,371,,201,Biomedical Engineering Instrumentation,Siamak Najarian,9,83.7,82.0,79.0,87.0,93.0,74.0,0,0,0,0,0,0,1,2,2,2,2
+UBCV,2022,W,ELEC,391,,201,Electrical Engineering Design Studio II,Leo Stocco,113,80.2,82.0,76.0,88.0,100.0,32.0,6,2,2,1,1,3,10,15,22,24,27
+UBCV,2022,W,ELEC,400,M,101,Topics in Electrical Engineering,Xiaoxiao Li,59,88.4,91.0,86.0,95.0,100.0,30.0,1,0,0,0,0,2,1,7,2,13,33
+UBCV,2022,W,ELEC,401,,101,Analog CMOS Integrated Circuit Design,Shahriar Mirabbasi,74,92.9,99.0,90.0,100.0,100.0,35.0,1,2,0,0,1,0,1,0,6,7,56
+UBCV,2022,W,ELEC,402,,101,Introduction to VLSI Systems,Reza Molavi,36,77.4,80.0,68.0,87.3,94.0,50.0,1,2,0,4,1,2,4,3,6,5,8
+UBCV,2022,W,ELEC,403,,201,Advanced Digital VLSI Systems,Sudip Shekhar,11,75.0,86.0,74.5,88.0,94.0,3.0,1,0,0,0,1,0,2,1,0,5,1
+UBCV,2022,W,ELEC,404,,201,RF Integrated Circuits,Reza Molavi,22,74.0,75.5,66.3,79.5,90.0,53.0,0,1,1,1,4,1,3,5,2,3,1
+UBCV,2022,W,ELEC,411,,101,Antennas and Propagation,David Michelson,18,92.2,93.0,90.5,94.8,99.0,82.0,0,0,0,0,0,0,0,0,1,3,14
+UBCV,2022,W,ELEC,412,,101,Optical Waveguides and Photonics,Nicolas A Jaeger,9,91.4,92.0,88.0,95.0,99.0,85.0,0,0,0,0,0,0,0,0,0,3,6
+UBCV,2022,W,ELEC,413,,201,Semiconductor Lasers,Lukas Chrostowski,34,83.1,88.0,78.0,92.0,99.0,0.0,1,0,0,1,0,2,4,2,2,10,12
+UBCV,2022,W,ELEC,415,,201,"Semiconductor Devices: Physics, Design and Analysis",Joseph Salfi,13,73.1,72.0,65.0,80.0,88.0,60.0,0,0,0,2,3,1,1,1,3,2,0
+UBCV,2022,W,ELEC,421,,101,Digital Signal and Image Processing,Zhen Wang,29,84.7,85.0,80.0,90.0,96.0,71.0,0,0,0,0,0,2,0,5,5,9,8
+UBCV,2022,W,ELEC,422,,201,Biosignals and Systems,Zhen Wang,21,76.5,82.0,71.0,83.0,95.0,35.0,1,0,0,1,3,1,2,2,6,3,2
+UBCV,2022,W,ELEC,431,,101,Communication Systems I,Paul Lusina,8,80.3,77.5,71.8,87.0,98.0,68.0,0,0,0,0,0,2,1,2,0,1,2
+UBCV,2022,W,ELEC,433,,201,Error Control Coding for Communications and Computers,Reza Mosayebi,17,80.9,81.0,71.0,88.0,100.0,66.0,0,0,0,0,3,2,1,2,2,3,4
+UBCV,2022,W,ELEC,441,,201,Control Systems,Abdullah Al-Digs,29,82.2,82.0,78.0,85.0,100.0,62.0,0,0,0,1,0,1,3,4,10,6,4
+UBCV,2022,W,ELEC,442,,101,Introduction to Robotics,Joseph Yan,29,71.0,73.0,59.0,82.0,100.0,28.0,3,1,4,2,2,2,4,2,3,1,5
+UBCV,2022,W,ELEC,451,,101,Power Electronics,Martin Ordonez,48,77.3,79.5,72.5,85.3,97.0,19.0,2,1,0,0,3,6,5,7,10,6,8
+UBCV,2022,W,ELEC,453,,101,Power System Analysis,Jose Marti,15,80.3,77.0,71.5,90.0,99.0,64.0,0,0,0,0,2,2,2,3,1,1,4
+UBCV,2022,W,ELEC,454,,201,Power System Analysis II,Jose Marti,12,74.0,87.0,79.3,91.5,97.0,0.0,2,0,0,0,0,0,1,0,1,4,4
+UBCV,2022,W,ELEC,455,,201,Power Systems Protection,Charles Henville;Mukesh Nagpal,7,70.6,76.0,63.0,77.5,84.0,53.0,0,1,0,1,1,0,0,3,1,0,0
+UBCV,2022,W,ELEC,456,,201,Decision Support Methods in Power Systems Operation,Ebrahim Vaahedi,10,75.2,75.0,68.0,84.5,91.0,57.0,0,0,1,1,1,1,2,0,1,2,1
+UBCV,2022,W,ELEC,457,,101,Optimization of Power System Operation,Ebrahim Vaahedi,6,86.2,86.5,80.8,90.8,96.0,77.0,0,0,0,0,0,0,0,1,2,0,3
+UBCV,2022,W,ELEC,461,,101,Nanotechnology in Electronics,Konrad Walus,10,82.6,88.0,75.5,90.8,92.0,55.0,0,0,1,0,0,0,2,0,0,2,5
+UBCV,2022,W,ELEC,462,,101,Sensors and Actuators in Microsystems,Boris Stoeber,36,75.2,76.0,66.8,88.0,100.0,25.0,3,3,1,0,4,2,3,3,5,5,7
+UBCV,2022,W,ELEC,463,,101,Micro/Nanofabrication and Instrumentation Laboratory,Lukas Chrostowski,17,74.4,73.0,67.0,85.0,90.0,51.0,0,1,0,1,3,3,1,1,2,4,1
+UBCV,2022,W,ELEC,465,,101,Microsystems Design,Edmond Cretu,11,62.9,68.0,51.0,74.5,86.0,40.0,2,2,1,0,0,3,0,0,2,1,0
+UBCV,2022,W,ELEC,471,,101,Medical Imaging,Robert Rohling,15,78.3,81.0,77.0,85.0,92.0,40.0,1,0,0,0,0,1,1,4,3,4,1
+UBCV,2022,W,ELEC,473,,101,Biological Micro-Electro-Mechanical Systems,Karen Cheung;Martina Iapichino,33,70.1,73.0,65.0,78.0,95.0,32.0,4,1,0,0,5,3,6,6,6,0,2
+UBCV,2022,W,ELEC,474,,101,Biophotonics,Shuo Tang,14,77.6,78.0,70.0,85.0,96.0,60.0,0,0,0,1,0,4,1,1,2,3,2
+UBCV,2022,W,ELEC,481,,101,Economic Analysis of Engineering Projects,Jeffrey Carmichael,58,72.8,74.0,65.3,80.0,92.0,48.0,1,2,4,3,8,4,9,11,9,5,2
+UBCV,2022,W,ELEC,481,,201,Economic Analysis of Engineering Projects,Jeffrey Carmichael,44,72.6,75.0,69.0,78.0,86.0,29.0,1,0,2,0,3,13,7,12,5,1,0
+UBCV,2022,W,ELEC,491,F,001,Electrical Engineering Capstone Design Project,Hamed Ahmadi;Pieter Botman;S Sidney Fels;Cristian Sorin Grecu;Andre Ivanov;Terry Lee;Paul Lusina;Panos Nasiopoulos;Joseph Yan,107,82.8,83.0,79.0,86.0,98.0,63.0,0,0,0,1,2,0,9,18,36,29,12
+UBCV,2022,W,ELEC,494,,001,Biomedical Engineering Capstone Design Project,Hamed Ahmadi;Pieter Botman;S Sidney Fels;Cristian Sorin Grecu;Andre Ivanov;Terry Lee;Paul Lusina;Panos Nasiopoulos;Joseph Yan,12,82.6,86.5,82.3,88.0,89.0,52.0,0,1,0,0,0,0,0,1,3,7,0
+UBCV,2022,W,ELEC,501,,201,Analog Integrated Circuit Design,Reza Molavi,9,89.4,91.0,90.0,92.0,95.0,80.0,0,0,0,0,0,0,0,0,2,0,7
 UBCV,2022,W,ELEC,502,,201,Advanced Topics in Very-Large-Scale Integration (VLSI) Design,Scott Chin;Bradley Quinton,6,93.2,92.5,91.3,94.5,97.0,91.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2022,W,ELEC,507,,101,Mixed-Signal and RF Integrated Circuits and Systems Test,Roberto Rosales,13,86.0,94.0,90.0,95.0,98.0,0.0,,,,,,,,,,,10
-UBCV,2022,W,ELEC,523,,101,Medical Imaging,Siamak Najarian,20,81.0,81.0,76.3,85.3,93.0,72.0,,,,,,,,,6,,
-UBCV,2022,W,ELEC,544,,101,Advanced Microsystems Design,Edmond Cretu,7,75.1,76.0,65.0,91.0,98.0,40.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,546,,101,Micro and Nano Fabrication Technologies,Kenichi Takahata,6,82.3,83.5,74.0,90.8,95.0,68.0,,,,,,,,,,,
-UBCV,2022,W,ELEC,574,,201,Self-Tuning Control,Guy A Dumont,7,89.9,92.0,89.5,95.5,97.0,70.0,,,,,,,,,,,
+UBCV,2022,W,ELEC,507,,101,Mixed-Signal and RF Integrated Circuits and Systems Test,Roberto Rosales,13,86.0,94.0,90.0,95.0,98.0,0.0,1,0,0,0,0,0,0,0,1,1,10
+UBCV,2022,W,ELEC,523,,101,Medical Imaging,Siamak Najarian,20,81.0,81.0,76.3,85.3,93.0,72.0,0,0,0,0,0,0,5,3,6,5,1
+UBCV,2022,W,ELEC,544,,101,Advanced Microsystems Design,Edmond Cretu,7,75.1,76.0,65.0,91.0,98.0,40.0,1,0,0,1,0,1,0,1,0,1,2
+UBCV,2022,W,ELEC,546,,101,Micro and Nano Fabrication Technologies,Kenichi Takahata,6,82.3,83.5,74.0,90.8,95.0,68.0,0,0,0,0,0,1,1,0,1,1,2
+UBCV,2022,W,ELEC,574,,201,Self-Tuning Control,Guy A Dumont,7,89.9,92.0,89.5,95.5,97.0,70.0,0,0,0,0,0,1,0,0,0,1,5

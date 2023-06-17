@@ -1,46 +1,46 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCO,2022,W,ECON,101,,001,Principles of Microeconomics,Noriko Ozawa,222,64.7,66.5,56.0,79.0,99.0,0.0,38,13,28,20,16,15,22,19,19,16,16
-UBCO,2022,W,ECON,101,,002,Principles of Microeconomics,Maliha Nazir;Noriko Ozawa,134,66.0,67.5,58.0,74.0,95.0,0.0,11,7,21,15,13,18,20,11,9,,
+UBCO,2022,W,ECON,101,,002,Principles of Microeconomics,Maliha Nazir;Noriko Ozawa,134,66.0,67.5,58.0,74.0,95.0,0.0,11,7,21,15,13,18,20,11,9,5,4
 UBCO,2022,W,ECON,101,,101,Principles of Microeconomics,Khan Islam,184,60.2,64.0,52.8,71.0,95.0,0.0,32,22,18,17,25,27,8,11,12,6,6
 UBCO,2022,W,ECON,102,,001,Principles of Macroeconomics,Rouzbeh Ghouchani;Noriko Ozawa,163,63.6,67.0,58.0,75.0,96.0,0.0,27,6,13,21,16,20,20,13,11,11,5
 UBCO,2022,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault,256,67.1,68.0,60.0,76.0,93.0,0.0,11,15,34,32,31,27,35,27,27,11,6
 UBCO,2022,W,ECON,102,,102,Principles of Macroeconomics,Rouzbeh Ghouchani,150,67.1,69.0,58.3,79.8,98.0,0.0,17,9,16,14,15,15,12,14,15,10,13
-UBCO,2022,W,ECON,204,,001,Intermediate Microeconomic Analysis,Noriko Ozawa,40,61.5,62.5,50.8,78.0,93.0,7.0,9,,,,,,,,,,
-UBCO,2022,W,ECON,204,,101,Intermediate Microeconomic Analysis,Min Hu,53,62.5,65.0,51.0,73.0,97.0,16.0,7,7,,,7,,7,,,,
-UBCO,2022,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Kit Pasula,47,63.8,72.0,50.5,79.0,98.0,12.0,10,6,,,,,6,6,,,
-UBCO,2022,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kit Pasula,44,65.2,68.5,55.3,78.0,99.0,7.0,,6,,,,6,,,,,
-UBCO,2022,W,ECON,221,,101,Introduction to Strategic Thinking,Noriko Ozawa,19,68.1,67.0,59.0,79.0,95.0,13.0,,,,,,,,,,,
-UBCO,2022,W,ECON,225,,101,Data and Statistics for Economics,Andrea Craig,9,83.6,86.0,79.0,91.0,97.0,60.0,,,,,,,,,,,
-UBCO,2022,W,ECON,232,,101,History of Economic Thought,Ross Hickey,45,78.0,80.0,72.0,88.0,97.0,34.0,,,,,,,,,12,6,9
-UBCO,2022,W,ECON,295,,101,Managerial Economics,Rouzbeh Ghouchani,22,70.2,70.5,60.0,77.8,95.0,43.0,,,,,,,,,,,
-UBCO,2022,W,ECON,308,,101,Intermediate Microeconomics II,Noriko Ozawa,27,66.0,66.0,51.5,82.0,95.0,21.0,,,,,,,,,,,
-UBCO,2022,W,ECON,309,,101,Intermediate Macroeconomics II,Kenneth Carlaw,6,85.2,86.5,85.3,87.0,89.0,77.0,,,,,,,,,,,
-UBCO,2022,W,ECON,320,,101,Introduction to Mathematical Economics,Khan Islam,28,70.5,74.5,56.5,83.5,94.0,35.0,,,,,,,,,,,
-UBCO,2022,W,ECON,327,,001,Introduction to Empirical Economics,Wei Dai,65,66.1,64.0,57.0,76.0,93.0,18.0,,13,8,7,,6,,,,6,
-UBCO,2022,W,ECON,328,,101,Methods of Empirical Research,Wei Dai,58,70.1,69.0,59.0,84.5,100.0,35.0,,7,,,9,,,,,,11
-UBCO,2022,W,ECON,331,,102,World Economy since 1800,Todd Christopher Campbell,26,70.8,68.5,62.0,79.5,93.0,52.0,,,,6,,,,,,,
-UBCO,2022,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,23,69.2,72.0,60.5,82.0,92.0,4.0,,,,,,,,,,,
-UBCO,2022,W,ECON,340,,001,Financial Economics,Maliha Nazir;Noriko Ozawa,37,73.3,72.0,67.0,83.0,96.0,36.0,,,,,,,,,,6,
-UBCO,2022,W,ECON,340,,101,Financial Economics,Maliha Nazir,32,69.2,68.5,63.5,80.3,92.0,19.0,,,,,,,,,,,
-UBCO,2022,W,ECON,345,,001,Money and Banking,Rouzbeh Ghouchani;Noriko Ozawa,38,69.6,68.5,58.0,79.8,97.0,28.0,,,7,,,,,,,,
-UBCO,2022,W,ECON,345,,101,Money and Banking,Rouzbeh Ghouchani,35,72.6,75.0,60.5,85.0,98.0,31.0,,,,,,,,,,,7
-UBCO,2022,W,ECON,347,,101,Monetary Economics,Wei Dai,33,64.8,62.0,53.0,71.0,96.0,29.0,,8,,,,,,,,,
-UBCO,2022,W,ECON,351,,001,Women in the Economy,Julien Picault,36,70.6,74.0,62.3,81.3,93.0,28.0,,,,,,,,,7,,
-UBCO,2022,W,ECON,351,,101,Women in the Economy,Maliha Nazir,20,73.5,74.0,70.8,79.0,86.0,52.0,,,,,,,6,,,,
-UBCO,2022,W,ECON,353,,001,Urban and Transportation Economics,Andrea Craig,8,91.4,94.5,88.5,96.3,99.0,78.0,,,,,,,,,,,6
-UBCO,2022,W,ECON,355,,001,International Trade,Maliha Nazir;Noriko Ozawa,37,75.9,78.0,68.0,84.0,91.0,56.0,,,,,,,,8,,,
-UBCO,2022,W,ECON,355,,101,International Trade,Andrea Craig,30,80.7,81.0,77.3,86.8,99.0,50.0,,,,,,,,,8,,6
-UBCO,2022,W,ECON,356,,001,International Finance,Kit Pasula,34,74.0,78.5,62.8,84.5,99.0,30.0,,,,,,,,,8,,
-UBCO,2022,W,ECON,356,,101,International Finance,Rouzbeh Ghouchani,38,70.5,66.5,62.0,80.8,92.0,56.0,,,6,6,8,,,,,6,
-UBCO,2022,W,ECON,360,,001,Labour Economics,Min Hu,30,65.8,68.0,60.0,75.3,92.0,16.0,,,,6,,7,,,,,
-UBCO,2022,W,ECON,360,,101,Labour Economics,Min Hu,35,69.9,70.0,63.0,78.0,92.0,50.0,,,,,,,,,,,
-UBCO,2022,W,ECON,363,,001,Health Economics,Min Hu,8,78.0,79.5,75.3,86.3,90.0,53.0,,,,,,,,,,,
-UBCO,2022,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,31,69.3,73.0,62.0,81.0,95.0,30.0,,,,,,,,,,,
-UBCO,2022,W,ECON,371,,101,Economics of the Environment,Md Zabid Iqbal,40,72.9,73.5,65.8,80.0,90.0,50.0,,,,,6,,7,,9,,
-UBCO,2022,W,ECON,371,,102,Economics of the Environment,Maliha Nazir,18,76.4,77.0,70.0,84.5,90.0,50.0,,,,,,,,,,,
-UBCO,2022,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,32,64.0,66.5,54.5,75.5,94.0,10.0,,,,,,,,,,,
-UBCO,2022,W,ECON,391,N,101,Topics in Economics,Khan Islam,6,67.7,66.0,59.3,69.8,90.0,56.0,,,,,,,,,,,
-UBCO,2022,W,ECON,391,U,101,Topics in Economics,Giovanni Grandi,19,72.2,76.0,68.0,78.5,90.0,26.0,,,,,,,,6,,,
-UBCO,2022,W,ECON,401,,001,Applied Microeconomic Analysis,Noriko Ozawa,7,78.6,84.0,70.0,87.5,99.0,52.0,,,,,,,,,,,
-UBCO,2022,W,ECON,402,,101,Applied Macroeconomic Analysis,Kit Pasula,13,85.8,91.0,78.0,95.0,97.0,60.0,,,,,,,,,,,8
-UBCO,2022,W,ECON,427,,001,Econometrics,Wei Dai,8,80.9,88.5,64.0,92.3,98.0,57.0,,,,,,,,,,,
+UBCO,2022,W,ECON,204,,001,Intermediate Microeconomic Analysis,Noriko Ozawa,40,61.5,62.5,50.8,78.0,93.0,7.0,9,4,3,5,3,4,1,2,1,5,3
+UBCO,2022,W,ECON,204,,101,Intermediate Microeconomic Analysis,Min Hu,53,62.5,65.0,51.0,73.0,97.0,16.0,7,7,4,5,7,4,7,4,4,1,3
+UBCO,2022,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Kit Pasula,47,63.8,72.0,50.5,79.0,98.0,12.0,10,6,3,1,3,0,6,6,5,2,5
+UBCO,2022,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kit Pasula,44,65.2,68.5,55.3,78.0,99.0,7.0,5,6,4,0,5,6,4,5,5,1,3
+UBCO,2022,W,ECON,221,,101,Introduction to Strategic Thinking,Noriko Ozawa,19,68.1,67.0,59.0,79.0,95.0,13.0,2,1,2,2,3,0,0,4,2,0,3
+UBCO,2022,W,ECON,225,,101,Data and Statistics for Economics,Andrea Craig,9,83.6,86.0,79.0,91.0,97.0,60.0,0,0,0,1,0,0,0,2,1,1,4
+UBCO,2022,W,ECON,232,,101,History of Economic Thought,Ross Hickey,45,78.0,80.0,72.0,88.0,97.0,34.0,1,1,2,3,2,1,3,5,12,6,9
+UBCO,2022,W,ECON,295,,101,Managerial Economics,Rouzbeh Ghouchani,22,70.2,70.5,60.0,77.8,95.0,43.0,1,1,3,4,1,2,2,3,1,2,2
+UBCO,2022,W,ECON,308,,101,Intermediate Microeconomics II,Noriko Ozawa,27,66.0,66.0,51.5,82.0,95.0,21.0,4,4,3,2,1,1,1,3,2,4,2
+UBCO,2022,W,ECON,309,,101,Intermediate Macroeconomics II,Kenneth Carlaw,6,85.2,86.5,85.3,87.0,89.0,77.0,0,0,0,0,0,0,0,1,0,5,0
+UBCO,2022,W,ECON,320,,101,Introduction to Mathematical Economics,Khan Islam,28,70.5,74.5,56.5,83.5,94.0,35.0,2,4,2,2,3,0,1,2,5,2,5
+UBCO,2022,W,ECON,327,,001,Introduction to Empirical Economics,Wei Dai,65,66.1,64.0,57.0,76.0,93.0,18.0,3,13,8,7,5,6,4,4,5,6,4
+UBCO,2022,W,ECON,328,,101,Methods of Empirical Research,Wei Dai,58,70.1,69.0,59.0,84.5,100.0,35.0,5,7,4,3,9,4,4,3,4,4,11
+UBCO,2022,W,ECON,331,,102,World Economy since 1800,Todd Christopher Campbell,26,70.8,68.5,62.0,79.5,93.0,52.0,0,1,1,6,4,3,2,2,5,1,1
+UBCO,2022,W,ECON,339,,001,Economics of Technological Change,Kenneth Carlaw,23,69.2,72.0,60.5,82.0,92.0,4.0,2,0,4,2,0,3,3,1,3,3,2
+UBCO,2022,W,ECON,340,,001,Financial Economics,Maliha Nazir;Noriko Ozawa,37,73.3,72.0,67.0,83.0,96.0,36.0,1,2,1,2,5,5,4,5,4,6,2
+UBCO,2022,W,ECON,340,,101,Financial Economics,Maliha Nazir,32,69.2,68.5,63.5,80.3,92.0,19.0,3,0,3,2,5,5,2,2,5,4,1
+UBCO,2022,W,ECON,345,,001,Money and Banking,Rouzbeh Ghouchani;Noriko Ozawa,38,69.6,68.5,58.0,79.8,97.0,28.0,4,0,7,1,5,4,2,5,4,3,3
+UBCO,2022,W,ECON,345,,101,Money and Banking,Rouzbeh Ghouchani,35,72.6,75.0,60.5,85.0,98.0,31.0,1,5,1,3,2,4,2,4,3,3,7
+UBCO,2022,W,ECON,347,,101,Monetary Economics,Wei Dai,33,64.8,62.0,53.0,71.0,96.0,29.0,2,8,3,5,2,5,1,1,0,2,4
+UBCO,2022,W,ECON,351,,001,Women in the Economy,Julien Picault,36,70.6,74.0,62.3,81.3,93.0,28.0,4,2,0,4,2,3,5,3,7,1,5
+UBCO,2022,W,ECON,351,,101,Women in the Economy,Maliha Nazir,20,73.5,74.0,70.8,79.0,86.0,52.0,0,1,1,0,1,3,6,4,2,2,0
+UBCO,2022,W,ECON,353,,001,Urban and Transportation Economics,Andrea Craig,8,91.4,94.5,88.5,96.3,99.0,78.0,0,0,0,0,0,0,0,1,1,0,6
+UBCO,2022,W,ECON,355,,001,International Trade,Maliha Nazir;Noriko Ozawa,37,75.9,78.0,68.0,84.0,91.0,56.0,0,0,2,3,4,5,2,8,5,5,3
+UBCO,2022,W,ECON,355,,101,International Trade,Andrea Craig,30,80.7,81.0,77.3,86.8,99.0,50.0,0,1,0,2,0,1,3,4,8,5,6
+UBCO,2022,W,ECON,356,,001,International Finance,Kit Pasula,34,74.0,78.5,62.8,84.5,99.0,30.0,2,1,4,2,3,0,2,3,8,4,5
+UBCO,2022,W,ECON,356,,101,International Finance,Rouzbeh Ghouchani,38,70.5,66.5,62.0,80.8,92.0,56.0,0,0,6,6,8,5,2,1,3,6,1
+UBCO,2022,W,ECON,360,,001,Labour Economics,Min Hu,30,65.8,68.0,60.0,75.3,92.0,16.0,2,0,2,6,3,7,2,3,4,0,1
+UBCO,2022,W,ECON,360,,101,Labour Economics,Min Hu,35,69.9,70.0,63.0,78.0,92.0,50.0,0,3,3,3,5,5,4,3,4,3,2
+UBCO,2022,W,ECON,363,,001,Health Economics,Min Hu,8,78.0,79.5,75.3,86.3,90.0,53.0,0,1,0,0,0,1,0,2,1,1,2
+UBCO,2022,W,ECON,370,,001,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,31,69.3,73.0,62.0,81.0,95.0,30.0,4,0,1,5,4,0,3,4,5,3,2
+UBCO,2022,W,ECON,371,,101,Economics of the Environment,Md Zabid Iqbal,40,72.9,73.5,65.8,80.0,90.0,50.0,0,3,0,2,6,3,7,5,9,4,1
+UBCO,2022,W,ECON,371,,102,Economics of the Environment,Maliha Nazir,18,76.4,77.0,70.0,84.5,90.0,50.0,0,1,0,0,1,3,2,5,1,4,1
+UBCO,2022,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,32,64.0,66.5,54.5,75.5,94.0,10.0,4,4,4,3,2,3,4,0,5,1,2
+UBCO,2022,W,ECON,391,N,101,Topics in Economics,Khan Islam,6,67.7,66.0,59.3,69.8,90.0,56.0,0,0,2,0,2,1,0,0,0,0,1
+UBCO,2022,W,ECON,391,U,101,Topics in Economics,Giovanni Grandi,19,72.2,76.0,68.0,78.5,90.0,26.0,1,0,1,0,2,3,2,6,1,2,1
+UBCO,2022,W,ECON,401,,001,Applied Microeconomic Analysis,Noriko Ozawa,7,78.6,84.0,70.0,87.5,99.0,52.0,0,1,0,0,1,0,1,0,1,1,2
+UBCO,2022,W,ECON,402,,101,Applied Macroeconomic Analysis,Kit Pasula,13,85.8,91.0,78.0,95.0,97.0,60.0,0,0,0,1,0,1,1,1,0,1,8
+UBCO,2022,W,ECON,427,,001,Econometrics,Wei Dai,8,80.9,88.5,64.0,92.3,98.0,57.0,0,0,1,0,2,0,0,0,0,1,4

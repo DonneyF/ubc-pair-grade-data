@@ -1,84 +1,84 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,FREN,101,,101,Beginners' French I,Annick Pellegrin,28,72.3,73.0,67.8,77.3,93.0,50.0,,,,,,,,6,,,
-UBCV,2022,W,FREN,101,,102,Beginners' French I,Cécile Ollivier-Budisa,46,79.8,82.0,74.3,87.0,99.0,20.0,,,,,,,,,13,7,9
-UBCV,2022,W,FREN,101,,103,Beginners' French I,Joyce Lubert,52,84.1,87.0,80.0,91.3,97.0,57.0,,,,,,,,,9,9,22
-UBCV,2022,W,FREN,101,,104,Beginners' French I,Joyce Lubert,30,82.3,83.0,78.5,90.0,97.0,51.0,,,,,,,,,9,,9
-UBCV,2022,W,FREN,101,,105,Beginners' French I,Zoe Nassehi,36,79.8,85.5,75.5,90.0,96.0,11.0,,,,,,,,6,,,14
-UBCV,2022,W,FREN,101,,106,Beginners' French I,Magali Blanc,54,74.7,80.0,69.0,85.8,95.0,3.0,,,,,,7,,,11,14,
-UBCV,2022,W,FREN,101,,107,Beginners' French I,Caroline Lebrec,42,78.4,84.0,73.5,88.0,95.0,0.0,,,,,,,,,8,12,7
-UBCV,2022,W,FREN,101,,108,Beginners' French I,Annick Pellegrin,25,75.7,79.0,72.0,84.0,92.0,37.0,,,,,,,,,,,
-UBCV,2022,W,FREN,101,,109,Beginners' French I,Annick Pellegrin,32,74.6,75.0,69.0,82.0,90.0,52.0,,,,,,,7,,8,,
-UBCV,2022,W,FREN,101,,110,Beginners' French I,Somayeh Kamranian,31,84.6,85.0,81.0,90.0,95.0,67.0,,,,,,,,,8,6,11
-UBCV,2022,W,FREN,101,,111,Beginners' French I,Zoe Nassehi,19,80.2,89.0,77.0,91.0,93.0,3.0,,,,,,,,,,,9
-UBCV,2022,W,FREN,101,,112,Beginners' French I,Joel Castonguay-Belanger,31,76.7,79.0,73.0,85.0,95.0,0.0,,,,,,,,,,6,
-UBCV,2022,W,FREN,101,,113,Beginners' French I,Annick Pellegrin,21,73.5,73.0,70.0,78.0,89.0,58.0,,,,,,,6,,,,
-UBCV,2022,W,FREN,101,,114,Beginners' French I,Zoe Nassehi,16,78.2,78.0,67.8,90.0,93.0,54.0,,,,,,,,,,,
-UBCV,2022,W,FREN,101,,115,Beginners' French I,Juliet O'Brien,20,79.2,80.0,75.3,84.3,86.0,69.0,,,,,,,,,7,,
-UBCV,2022,W,FREN,101,,116,Beginners' French I,Joyce Lubert,28,82.5,84.0,76.8,88.5,94.0,70.0,,,,,,,,,,6,7
-UBCV,2022,W,FREN,102,,201,Beginners' French II,Joyce Lubert,45,82.9,85.0,78.0,90.0,96.0,58.0,,,,,,,,,7,11,13
-UBCV,2022,W,FREN,102,,202,Beginners' French II,Joyce Lubert,53,81.8,83.0,79.0,89.0,93.0,51.0,,,,,,,,,14,11,13
-UBCV,2022,W,FREN,102,,203,Beginners' French II,Annick Pellegrin,18,74.5,73.5,68.5,79.8,87.0,63.0,,,,,,,,,,,
-UBCV,2022,W,FREN,102,,204,Beginners' French II,Magali Blanc,35,73.2,73.0,66.0,85.0,95.0,0.0,,,,,6,6,,,,7,
-UBCV,2022,W,FREN,102,,205,Beginners' French II,Juliet O'Brien,23,81.9,82.0,80.0,87.5,92.0,55.0,,,,,,,,,12,,
-UBCV,2022,W,FREN,102,,206,Beginners' French II,Cécile Ollivier-Budisa,22,76.9,79.5,69.3,85.3,94.0,56.0,,,,,,,,,,,
-UBCV,2022,W,FREN,102,,207,Beginners' French II,Caroline Lebrec,29,77.4,77.0,75.0,82.0,94.0,54.0,,,,,,,6,7,,,
-UBCV,2022,W,FREN,102,,208,Beginners' French II,Somayeh Kamranian,31,80.6,85.0,76.5,87.0,92.0,43.0,,,,,,,,,,14,
-UBCV,2022,W,FREN,102,,209,Beginners' French II,Soline Milet,31,80.1,79.0,72.0,88.0,95.0,53.0,,,,,,,,,,6,
-UBCV,2022,W,FREN,102,,210,Beginners' French II,Soline Milet,26,82.4,82.0,76.3,89.8,98.0,67.0,,,,,,,,,,,7
-UBCV,2022,W,FREN,102,,211,Beginners' French II,Zoe Nassehi,14,81.1,83.5,80.5,89.5,92.0,53.0,,,,,,,,,,,
-UBCV,2022,W,FREN,201,,101,Elementary French I,Cécile Ollivier-Budisa,40,78.2,81.0,73.0,85.3,96.0,44.0,,,,,,,7,,12,8,
-UBCV,2022,W,FREN,201,,102,Elementary French I,Sylvia Bascou Vallarino,32,79.6,82.0,75.5,87.3,91.0,25.0,,,,,,,,,9,7,
-UBCV,2022,W,FREN,201,,103,Elementary French I,Zoe Nassehi,29,78.1,81.0,69.0,89.0,97.0,52.0,,,,,,,,,,7,
-UBCV,2022,W,FREN,201,,104,Elementary French I,Sylvia Bascou Vallarino,27,76.3,79.0,71.0,86.5,93.0,29.0,,,,,,,,,,,
-UBCV,2022,W,FREN,201,,105,Elementary French I,Sylvia Bascou Vallarino,22,77.1,78.0,69.3,82.0,90.0,66.0,,,,,,6,,,6,,
-UBCV,2022,W,FREN,201,,106,Elementary French I,Cécile Ollivier-Budisa,25,78.8,79.0,74.0,88.0,94.0,57.0,,,,,,,,6,,6,
-UBCV,2022,W,FREN,201,,107,Elementary French I,Isabelle Delage-Beland,48,82.0,81.0,74.0,90.3,95.0,65.0,,,,,,,10,,11,,16
-UBCV,2022,W,FREN,201,,108,Elementary French I,Somayeh Kamranian,31,81.1,83.0,73.0,88.0,97.0,55.0,,,,,,,6,,,10,
-UBCV,2022,W,FREN,201,,109,Elementary French I,Juliet O'Brien,49,78.3,80.0,73.0,86.0,93.0,32.0,,,,,,,7,7,9,12,
-UBCV,2022,W,FREN,201,,110,Elementary French I,Juliet O'Brien,25,79.8,83.0,77.0,89.0,94.0,32.0,,,,,,,,,,6,
-UBCV,2022,W,FREN,201,,111,Elementary French I,Somayeh Kamranian,18,80.3,82.0,77.0,86.0,91.0,55.0,,,,,,,,,7,,
-UBCV,2022,W,FREN,202,,201,Elementary French II,Irem Ayan,14,85.9,86.5,83.5,90.8,91.0,68.0,,,,,,,,,,,6
-UBCV,2022,W,FREN,202,,202,Elementary French II,Cécile Ollivier-Budisa,50,78.5,78.5,73.0,87.8,98.0,53.0,,,,,,,,10,6,9,8
-UBCV,2022,W,FREN,202,,203,Elementary French II,Juliet O'Brien,53,77.5,80.0,73.0,87.0,94.0,23.0,,,,,,,7,6,12,11,7
-UBCV,2022,W,FREN,202,,204,Elementary French II,Soline Milet,52,75.3,74.5,69.0,85.0,95.0,50.0,,,,,,8,10,,8,11,
-UBCV,2022,W,FREN,202,,205,Elementary French II,Cécile Ollivier-Budisa,33,79.3,80.0,73.0,88.0,97.0,52.0,,,,,,,,,6,,7
-UBCV,2022,W,FREN,202,,206,Elementary French II,Juliet O'Brien,23,82.2,83.0,77.0,87.0,93.0,70.0,,,,,,,,,,,
-UBCV,2022,W,FREN,202,,208,Elementary French II,Isabelle Delage-Beland,49,80.6,83.0,76.0,91.0,98.0,0.0,,,,,,,,,11,10,14
-UBCV,2022,W,FREN,202,,210,Elementary French II,Somayeh Kamranian,27,82.6,84.0,79.0,88.5,95.0,54.0,,,,,,,,,7,9,
-UBCV,2022,W,FREN,202,,211,Elementary French II,Somayeh Kamranian,22,80.4,81.0,78.0,86.0,93.0,64.0,,,,,,,,,8,,
-UBCV,2022,W,FREN,301,,101,Intermediate French I,Magali Blanc,27,77.2,78.0,69.0,83.5,95.0,64.0,,,,,,,,,,,
-UBCV,2022,W,FREN,301,,102,Intermediate French I,Alain-Michel Rocheleau,21,72.7,74.0,68.0,76.0,87.0,50.0,,,,,,,7,,,,
-UBCV,2022,W,FREN,301,,103,Intermediate French I,Magali Blanc,30,77.8,78.0,71.0,85.5,93.0,61.0,,,,,,6,,,6,,
-UBCV,2022,W,FREN,301,,104,Intermediate French I,Magali Blanc,26,79.4,81.5,72.5,86.8,92.0,58.0,,,,,,,,,,6,
-UBCV,2022,W,FREN,301,,105,Intermediate French I,Joyce Lubert,33,80.2,81.0,76.0,86.0,97.0,50.0,,,,,,,,,12,6,
-UBCV,2022,W,FREN,301,,107,Intermediate French I,Catherine Black,25,79.1,80.0,77.0,82.0,92.0,54.0,,,,,,,,7,11,,
-UBCV,2022,W,FREN,302,,201,Intermediate French II,Magali Blanc,24,78.3,80.0,70.5,84.3,97.0,51.0,,,,,,,,,6,,
-UBCV,2022,W,FREN,302,,202,Intermediate French II,Magali Blanc,19,81.7,84.0,75.0,88.0,96.0,60.0,,,,,,,,,,6,
-UBCV,2022,W,FREN,302,,203,Intermediate French II,Joyce Lubert,32,84.9,86.0,82.0,90.0,96.0,64.0,,,,,,,,,,13,9
-UBCV,2022,W,FREN,302,,204,Intermediate French II,Caroline Lebrec,25,78.5,81.0,78.0,88.0,93.0,28.0,,,,,,,,,9,6,
-UBCV,2022,W,FREN,311,,101,Introduction to Literature in French,Antje Ziethen,55,83.3,84.0,80.0,87.5,96.0,60.0,,,,,,,,6,20,19,6
-UBCV,2022,W,FREN,311,,201,Introduction to Literature in French,Farid Laroussi,43,79.3,80.0,77.5,81.0,86.0,60.0,,,,,,,,15,22,,
-UBCV,2022,W,FREN,321,,102,Critical Writing,Patrick Moran,24,81.3,84.0,78.0,86.0,93.0,60.0,,,,,,,,,,8,
-UBCV,2022,W,FREN,321,,201,Critical Writing,Irem Ayan,29,88.3,88.0,84.0,94.0,96.0,70.0,,,,,,,,,8,7,13
-UBCV,2022,W,FREN,330,,101,Introduction to Quebec Literature,Alain-Michel Rocheleau,16,76.9,78.0,74.5,80.0,88.0,63.0,,,,,,,,6,,,
-UBCV,2022,W,FREN,341,,201,"Arts, Cultures and Society from Romanticism to the Present Day",Farid Laroussi,20,79.9,80.5,77.5,83.0,89.0,61.0,,,,,,,,,9,,
-UBCV,2022,W,FREN,346,,101,French at Work,Sylvia Bascou Vallarino,23,81.4,83.0,76.0,89.0,96.0,53.0,,,,,,,,,6,,
-UBCV,2022,W,FREN,352,,101,French Grammar,Anne Salamon,50,85.5,88.0,80.0,92.0,97.0,61.0,,,,,,,,,8,13,18
-UBCV,2022,W,FREN,353,,201,Advanced French Grammar,Anne Salamon,36,79.2,83.5,74.8,88.0,97.0,24.0,,,,,,,,,8,8,8
-UBCV,2022,W,FREN,357,,101,Translation,Irem Ayan,36,92.1,94.0,89.0,99.0,100.0,75.0,,,,,,,,,,,26
-UBCV,2022,W,FREN,370,,101,Introduction to French Linguistics,Marie-Eve Bouchard,25,82.4,82.0,76.0,92.0,96.0,56.0,,,,,,,,6,,,9
-UBCV,2022,W,FREN,401,,101,Upper-Intermediate French I,Isabelle Delage-Beland,34,80.6,80.5,76.0,88.0,94.0,61.0,,,,,,,,6,8,,7
-UBCV,2022,W,FREN,401,,102,Upper-Intermediate French I,Alain-Michel Rocheleau,28,71.8,74.0,68.0,76.0,87.0,32.0,,,,,,,8,,,,
-UBCV,2022,W,FREN,401,,104,Upper-Intermediate French I,Katharina Piechocki,28,76.5,79.5,69.0,81.0,89.0,60.0,,,,,,,,,9,,
-UBCV,2022,W,FREN,401,,105,Upper-Intermediate French I,Isabelle Delage-Beland,29,80.8,82.0,76.0,90.0,95.0,40.0,,,,,,,,,6,6,8
-UBCV,2022,W,FREN,402,,201,Upper-Intermediate French II,Isabelle Delage-Beland,33,87.2,88.0,82.0,92.0,99.0,69.0,,,,,,,,,6,7,15
-UBCV,2022,W,FREN,402,,202,Upper-Intermediate French II,Isabelle Delage-Beland,26,84.0,87.5,84.3,91.0,97.0,0.0,,,,,,,,,,7,12
-UBCV,2022,W,FREN,402,,203,Upper-Intermediate French II,Katharina Piechocki,20,75.9,82.0,74.3,87.3,96.0,0.0,,,,,,,,,,,
-UBCV,2022,W,FREN,409,,101,Ancients and Moderns: Studies in 17th-century French Literature,Katharina Piechocki,18,78.6,79.5,72.0,92.5,100.0,51.0,,,,,,,,,,,
-UBCV,2022,W,FREN,417,,201,Popular Fiction,Patrick Moran,30,85.1,87.0,83.0,90.0,94.0,64.0,,,,,,,,,8,8,10
-UBCV,2022,W,FREN,418,,101,African and Caribbean Francophone Literatures,Farid Laroussi,23,78.7,81.0,77.0,84.0,86.0,44.0,,,,,,,,6,8,,
-UBCV,2022,W,FREN,428,,201,Francophone Cinema,Antje Ziethen,28,81.8,83.0,79.8,84.3,94.0,49.0,,,,,,,,,14,,
-UBCV,2022,W,FREN,470,,201,Studies in Modern French Linguistics,Marie-Eve Bouchard,10,84.4,82.5,80.5,88.5,92.0,80.0,,,,,,,,,6,,
-UBCV,2022,W,FREN,477,,201,Contemporary Varieties of French,Marie-Eve Bouchard,19,84.2,87.0,79.5,89.0,95.0,66.0,,,,,,,,,,7,
-UBCV,2022,W,FREN,495,,201,Research Seminar in French Literature and Culture,Antje Ziethen,13,78.5,78.0,75.0,82.0,87.0,68.0,,,,,,,,,,,
-UBCV,2022,W,FREN,521,A,201,Studies in Francophone Literatures and Cultures,Antje Ziethen,6,77.8,83.0,81.0,87.3,90.0,42.0,,,,,,,,,,,
+UBCV,2022,W,FREN,101,,101,Beginners' French I,Annick Pellegrin,28,72.3,73.0,67.8,77.3,93.0,50.0,0,2,1,0,4,5,5,6,3,1,1
+UBCV,2022,W,FREN,101,,102,Beginners' French I,Cécile Ollivier-Budisa,46,79.8,82.0,74.3,87.0,99.0,20.0,1,1,0,2,0,5,4,4,13,7,9
+UBCV,2022,W,FREN,101,,103,Beginners' French I,Joyce Lubert,52,84.1,87.0,80.0,91.3,97.0,57.0,0,0,1,2,1,4,2,2,9,9,22
+UBCV,2022,W,FREN,101,,104,Beginners' French I,Joyce Lubert,30,82.3,83.0,78.5,90.0,97.0,51.0,0,1,1,0,1,1,2,2,9,4,9
+UBCV,2022,W,FREN,101,,105,Beginners' French I,Zoe Nassehi,36,79.8,85.5,75.5,90.0,96.0,11.0,1,1,1,2,0,2,2,6,3,4,14
+UBCV,2022,W,FREN,101,,106,Beginners' French I,Magali Blanc,54,74.7,80.0,69.0,85.8,95.0,3.0,3,1,2,2,3,7,3,5,11,14,3
+UBCV,2022,W,FREN,101,,107,Beginners' French I,Caroline Lebrec,42,78.4,84.0,73.5,88.0,95.0,0.0,2,0,0,1,2,4,4,2,8,12,7
+UBCV,2022,W,FREN,101,,108,Beginners' French I,Annick Pellegrin,25,75.7,79.0,72.0,84.0,92.0,37.0,1,0,2,0,0,3,4,5,5,4,1
+UBCV,2022,W,FREN,101,,109,Beginners' French I,Annick Pellegrin,32,74.6,75.0,69.0,82.0,90.0,52.0,0,1,2,0,3,5,7,2,8,3,1
+UBCV,2022,W,FREN,101,,110,Beginners' French I,Somayeh Kamranian,31,84.6,85.0,81.0,90.0,95.0,67.0,0,0,0,0,1,0,3,2,8,6,11
+UBCV,2022,W,FREN,101,,111,Beginners' French I,Zoe Nassehi,19,80.2,89.0,77.0,91.0,93.0,3.0,1,0,0,0,2,0,2,1,2,2,9
+UBCV,2022,W,FREN,101,,112,Beginners' French I,Joel Castonguay-Belanger,31,76.7,79.0,73.0,85.0,95.0,0.0,1,0,1,0,2,3,5,4,5,6,4
+UBCV,2022,W,FREN,101,,113,Beginners' French I,Annick Pellegrin,21,73.5,73.0,70.0,78.0,89.0,58.0,0,0,1,1,2,3,6,4,3,1,0
+UBCV,2022,W,FREN,101,,114,Beginners' French I,Zoe Nassehi,16,78.2,78.0,67.8,90.0,93.0,54.0,0,1,0,1,2,1,0,4,1,1,5
+UBCV,2022,W,FREN,101,,115,Beginners' French I,Juliet O'Brien,20,79.2,80.0,75.3,84.3,86.0,69.0,0,0,0,0,0,4,1,3,7,5,0
+UBCV,2022,W,FREN,101,,116,Beginners' French I,Joyce Lubert,28,82.5,84.0,76.8,88.5,94.0,70.0,0,0,0,0,0,4,2,4,5,6,7
+UBCV,2022,W,FREN,102,,201,Beginners' French II,Joyce Lubert,45,82.9,85.0,78.0,90.0,96.0,58.0,0,0,1,2,1,2,3,5,7,11,13
+UBCV,2022,W,FREN,102,,202,Beginners' French II,Joyce Lubert,53,81.8,83.0,79.0,89.0,93.0,51.0,0,1,0,1,4,2,4,3,14,11,13
+UBCV,2022,W,FREN,102,,203,Beginners' French II,Annick Pellegrin,18,74.5,73.5,68.5,79.8,87.0,63.0,0,0,0,1,2,5,2,3,3,2,0
+UBCV,2022,W,FREN,102,,204,Beginners' French II,Magali Blanc,35,73.2,73.0,66.0,85.0,95.0,0.0,1,0,2,1,6,6,5,1,2,7,4
+UBCV,2022,W,FREN,102,,205,Beginners' French II,Juliet O'Brien,23,81.9,82.0,80.0,87.5,92.0,55.0,0,0,1,0,0,1,1,0,12,5,3
+UBCV,2022,W,FREN,102,,206,Beginners' French II,Cécile Ollivier-Budisa,22,76.9,79.5,69.3,85.3,94.0,56.0,0,0,2,1,2,3,1,2,5,4,2
+UBCV,2022,W,FREN,102,,207,Beginners' French II,Caroline Lebrec,29,77.4,77.0,75.0,82.0,94.0,54.0,0,1,0,1,2,1,6,7,5,3,3
+UBCV,2022,W,FREN,102,,208,Beginners' French II,Somayeh Kamranian,31,80.6,85.0,76.5,87.0,92.0,43.0,1,0,0,0,1,2,3,4,4,14,2
+UBCV,2022,W,FREN,102,,209,Beginners' French II,Soline Milet,31,80.1,79.0,72.0,88.0,95.0,53.0,0,1,0,0,0,5,5,5,4,6,5
+UBCV,2022,W,FREN,102,,210,Beginners' French II,Soline Milet,26,82.4,82.0,76.3,89.8,98.0,67.0,0,0,0,0,1,4,1,4,4,5,7
+UBCV,2022,W,FREN,102,,211,Beginners' French II,Zoe Nassehi,14,81.1,83.5,80.5,89.5,92.0,53.0,0,1,1,0,0,0,0,1,5,2,4
+UBCV,2022,W,FREN,201,,101,Elementary French I,Cécile Ollivier-Budisa,40,78.2,81.0,73.0,85.3,96.0,44.0,1,1,0,2,2,2,7,1,12,8,4
+UBCV,2022,W,FREN,201,,102,Elementary French I,Sylvia Bascou Vallarino,32,79.6,82.0,75.5,87.3,91.0,25.0,1,0,0,0,1,2,4,3,9,7,5
+UBCV,2022,W,FREN,201,,103,Elementary French I,Zoe Nassehi,29,78.1,81.0,69.0,89.0,97.0,52.0,0,1,1,2,2,4,1,3,3,7,5
+UBCV,2022,W,FREN,201,,104,Elementary French I,Sylvia Bascou Vallarino,27,76.3,79.0,71.0,86.5,93.0,29.0,3,0,0,0,2,2,2,5,3,5,5
+UBCV,2022,W,FREN,201,,105,Elementary French I,Sylvia Bascou Vallarino,22,77.1,78.0,69.3,82.0,90.0,66.0,0,0,0,0,2,6,0,4,6,2,2
+UBCV,2022,W,FREN,201,,106,Elementary French I,Cécile Ollivier-Budisa,25,78.8,79.0,74.0,88.0,94.0,57.0,0,0,1,3,0,1,2,6,3,6,3
+UBCV,2022,W,FREN,201,,107,Elementary French I,Isabelle Delage-Beland,48,82.0,81.0,74.0,90.3,95.0,65.0,0,0,0,0,2,1,10,4,11,4,16
+UBCV,2022,W,FREN,201,,108,Elementary French I,Somayeh Kamranian,31,81.1,83.0,73.0,88.0,97.0,55.0,0,0,1,0,2,1,6,2,4,10,5
+UBCV,2022,W,FREN,201,,109,Elementary French I,Juliet O'Brien,49,78.3,80.0,73.0,86.0,93.0,32.0,1,0,0,2,2,5,7,7,9,12,4
+UBCV,2022,W,FREN,201,,110,Elementary French I,Juliet O'Brien,25,79.8,83.0,77.0,89.0,94.0,32.0,1,0,1,0,2,2,0,4,4,6,5
+UBCV,2022,W,FREN,201,,111,Elementary French I,Somayeh Kamranian,18,80.3,82.0,77.0,86.0,91.0,55.0,0,0,1,0,1,0,2,1,7,4,2
+UBCV,2022,W,FREN,202,,201,Elementary French II,Irem Ayan,14,85.9,86.5,83.5,90.8,91.0,68.0,0,0,0,0,0,1,0,0,3,4,6
+UBCV,2022,W,FREN,202,,202,Elementary French II,Cécile Ollivier-Budisa,50,78.5,78.5,73.0,87.8,98.0,53.0,0,1,2,3,3,3,5,10,6,9,8
+UBCV,2022,W,FREN,202,,203,Elementary French II,Juliet O'Brien,53,77.5,80.0,73.0,87.0,94.0,23.0,2,0,1,2,2,3,7,6,12,11,7
+UBCV,2022,W,FREN,202,,204,Elementary French II,Soline Milet,52,75.3,74.5,69.0,85.0,95.0,50.0,0,4,2,2,2,8,10,1,8,11,4
+UBCV,2022,W,FREN,202,,205,Elementary French II,Cécile Ollivier-Budisa,33,79.3,80.0,73.0,88.0,97.0,52.0,0,1,2,0,2,1,5,4,6,5,7
+UBCV,2022,W,FREN,202,,206,Elementary French II,Juliet O'Brien,23,82.2,83.0,77.0,87.0,93.0,70.0,0,0,0,0,0,2,2,5,5,5,4
+UBCV,2022,W,FREN,202,,208,Elementary French II,Isabelle Delage-Beland,49,80.6,83.0,76.0,91.0,98.0,0.0,1,0,1,2,1,3,4,2,11,10,14
+UBCV,2022,W,FREN,202,,210,Elementary French II,Somayeh Kamranian,27,82.6,84.0,79.0,88.5,95.0,54.0,0,1,0,0,0,2,2,2,7,9,4
+UBCV,2022,W,FREN,202,,211,Elementary French II,Somayeh Kamranian,22,80.4,81.0,78.0,86.0,93.0,64.0,0,0,0,0,2,2,0,4,8,3,3
+UBCV,2022,W,FREN,301,,101,Intermediate French I,Magali Blanc,27,77.2,78.0,69.0,83.5,95.0,64.0,0,0,0,0,4,5,3,4,5,3,3
+UBCV,2022,W,FREN,301,,102,Intermediate French I,Alain-Michel Rocheleau,21,72.7,74.0,68.0,76.0,87.0,50.0,0,1,0,3,1,2,7,3,2,2,0
+UBCV,2022,W,FREN,301,,103,Intermediate French I,Magali Blanc,30,77.8,78.0,71.0,85.5,93.0,61.0,0,0,0,1,2,6,5,2,6,5,3
+UBCV,2022,W,FREN,301,,104,Intermediate French I,Magali Blanc,26,79.4,81.5,72.5,86.8,92.0,58.0,0,0,1,1,3,1,2,2,5,6,5
+UBCV,2022,W,FREN,301,,105,Intermediate French I,Joyce Lubert,33,80.2,81.0,76.0,86.0,97.0,50.0,0,1,0,0,2,1,4,3,12,6,4
+UBCV,2022,W,FREN,301,,107,Intermediate French I,Catherine Black,25,79.1,80.0,77.0,82.0,92.0,54.0,0,1,0,0,0,0,3,7,11,2,1
+UBCV,2022,W,FREN,302,,201,Intermediate French II,Magali Blanc,24,78.3,80.0,70.5,84.3,97.0,51.0,0,1,0,2,1,4,0,4,6,1,5
+UBCV,2022,W,FREN,302,,202,Intermediate French II,Magali Blanc,19,81.7,84.0,75.0,88.0,96.0,60.0,0,0,0,2,0,1,3,0,4,6,3
+UBCV,2022,W,FREN,302,,203,Intermediate French II,Joyce Lubert,32,84.9,86.0,82.0,90.0,96.0,64.0,0,0,0,0,1,0,3,1,5,13,9
+UBCV,2022,W,FREN,302,,204,Intermediate French II,Caroline Lebrec,25,78.5,81.0,78.0,88.0,93.0,28.0,1,0,0,3,0,1,1,1,9,6,3
+UBCV,2022,W,FREN,311,,101,Introduction to Literature in French,Antje Ziethen,55,83.3,84.0,80.0,87.5,96.0,60.0,0,0,0,1,0,2,1,6,20,19,6
+UBCV,2022,W,FREN,311,,201,Introduction to Literature in French,Farid Laroussi,43,79.3,80.0,77.5,81.0,86.0,60.0,0,0,0,1,1,0,1,15,22,3,0
+UBCV,2022,W,FREN,321,,102,Critical Writing,Patrick Moran,24,81.3,84.0,78.0,86.0,93.0,60.0,0,0,0,1,2,0,2,4,4,8,3
+UBCV,2022,W,FREN,321,,201,Critical Writing,Irem Ayan,29,88.3,88.0,84.0,94.0,96.0,70.0,0,0,0,0,0,1,0,0,8,7,13
+UBCV,2022,W,FREN,330,,101,Introduction to Quebec Literature,Alain-Michel Rocheleau,16,76.9,78.0,74.5,80.0,88.0,63.0,0,0,0,1,0,1,3,6,4,1,0
+UBCV,2022,W,FREN,341,,201,"Arts, Cultures and Society from Romanticism to the Present Day",Farid Laroussi,20,79.9,80.5,77.5,83.0,89.0,61.0,0,0,0,1,0,0,2,4,9,4,0
+UBCV,2022,W,FREN,346,,101,French at Work,Sylvia Bascou Vallarino,23,81.4,83.0,76.0,89.0,96.0,53.0,0,1,0,1,2,0,2,2,6,4,5
+UBCV,2022,W,FREN,352,,101,French Grammar,Anne Salamon,50,85.5,88.0,80.0,92.0,97.0,61.0,0,0,0,1,0,3,3,4,8,13,18
+UBCV,2022,W,FREN,353,,201,Advanced French Grammar,Anne Salamon,36,79.2,83.5,74.8,88.0,97.0,24.0,1,2,3,0,0,0,5,1,8,8,8
+UBCV,2022,W,FREN,357,,101,Translation,Irem Ayan,36,92.1,94.0,89.0,99.0,100.0,75.0,0,0,0,0,0,0,1,2,3,4,26
+UBCV,2022,W,FREN,370,,101,Introduction to French Linguistics,Marie-Eve Bouchard,25,82.4,82.0,76.0,92.0,96.0,56.0,0,0,2,0,0,1,3,6,1,3,9
+UBCV,2022,W,FREN,401,,101,Upper-Intermediate French I,Isabelle Delage-Beland,34,80.6,80.5,76.0,88.0,94.0,61.0,0,0,0,1,1,3,3,6,8,5,7
+UBCV,2022,W,FREN,401,,102,Upper-Intermediate French I,Alain-Michel Rocheleau,28,71.8,74.0,68.0,76.0,87.0,32.0,1,0,0,1,4,5,8,4,4,1,0
+UBCV,2022,W,FREN,401,,104,Upper-Intermediate French I,Katharina Piechocki,28,76.5,79.5,69.0,81.0,89.0,60.0,0,0,0,3,1,5,3,2,9,5,0
+UBCV,2022,W,FREN,401,,105,Upper-Intermediate French I,Isabelle Delage-Beland,29,80.8,82.0,76.0,90.0,95.0,40.0,1,0,0,1,1,2,1,3,6,6,8
+UBCV,2022,W,FREN,402,,201,Upper-Intermediate French II,Isabelle Delage-Beland,33,87.2,88.0,82.0,92.0,99.0,69.0,0,0,0,0,0,1,1,3,6,7,15
+UBCV,2022,W,FREN,402,,202,Upper-Intermediate French II,Isabelle Delage-Beland,26,84.0,87.5,84.3,91.0,97.0,0.0,1,0,0,0,0,0,0,3,3,7,12
+UBCV,2022,W,FREN,402,,203,Upper-Intermediate French II,Katharina Piechocki,20,75.9,82.0,74.3,87.3,96.0,0.0,1,0,3,0,0,0,2,3,4,4,3
+UBCV,2022,W,FREN,409,,101,Ancients and Moderns: Studies in 17th-century French Literature,Katharina Piechocki,18,78.6,79.5,72.0,92.5,100.0,51.0,0,2,1,1,0,0,3,2,2,2,5
+UBCV,2022,W,FREN,417,,201,Popular Fiction,Patrick Moran,30,85.1,87.0,83.0,90.0,94.0,64.0,0,0,0,0,1,1,1,1,8,8,10
+UBCV,2022,W,FREN,418,,101,African and Caribbean Francophone Literatures,Farid Laroussi,23,78.7,81.0,77.0,84.0,86.0,44.0,1,0,0,0,0,1,2,6,8,5,0
+UBCV,2022,W,FREN,428,,201,Francophone Cinema,Antje Ziethen,28,81.8,83.0,79.8,84.3,94.0,49.0,1,0,0,0,0,0,1,5,14,3,4
+UBCV,2022,W,FREN,470,,201,Studies in Modern French Linguistics,Marie-Eve Bouchard,10,84.4,82.5,80.5,88.5,92.0,80.0,0,0,0,0,0,0,0,0,6,3,1
+UBCV,2022,W,FREN,477,,201,Contemporary Varieties of French,Marie-Eve Bouchard,19,84.2,87.0,79.5,89.0,95.0,66.0,0,0,0,0,1,1,1,2,3,7,4
+UBCV,2022,W,FREN,495,,201,Research Seminar in French Literature and Culture,Antje Ziethen,13,78.5,78.0,75.0,82.0,87.0,68.0,0,0,0,0,0,2,2,3,4,2,0
+UBCV,2022,W,FREN,521,A,201,Studies in Francophone Literatures and Cultures,Antje Ziethen,6,77.8,83.0,81.0,87.3,90.0,42.0,1,0,0,0,0,0,0,0,2,2,1
