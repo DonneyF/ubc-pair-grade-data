@@ -1,5 +1,5 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,MUSC,100,,001,Principles of Musical Form,Leigh Van Handel,66,82.9,87.5,82.0,94.0,100.0,0.0,4,0,0,1,1,1,3,4,11,13,28
+UBCV,2022,W,MUSC,100,,001,Principles of Musical Form,Leigh van Handel,66,82.9,87.5,82.0,94.0,100.0,0.0,4,0,0,1,1,1,3,4,11,13,28
 UBCV,2022,W,MUSC,101,,001,Diatonic Harmony and Voice Leading,Eve Poudrier,45,83.0,88.0,75.0,92.0,98.0,52.0,0,1,3,1,3,2,3,1,2,11,18
 UBCV,2022,W,MUSC,103,,001,Introduction to the Theory of Music,Michael Brandon Konoval,71,83.1,87.0,75.5,95.0,99.0,21.0,1,4,0,1,3,3,6,6,9,7,31
 UBCV,2022,W,MUSC,103,,002,Introduction to the Theory of Music,Sarah Reimer,14,70.0,76.0,63.8,82.0,90.0,3.0,1,0,0,3,2,1,0,0,5,0,2
@@ -7,14 +7,15 @@ UBCV,2022,W,MUSC,105,,001,Aural Skills I,Laurel Parsons,43,85.9,90.0,82.5,95.0,1
 UBCV,2022,W,MUSC,106,,002,Aural Skills II,Laurel Parsons,41,83.1,88.0,72.0,95.0,100.0,39.0,1,0,0,3,4,2,2,1,7,2,19
 UBCV,2022,W,MUSC,107,C,002,Composition I,Jennifer Butler;Dorothy Chang Bortolussi,7,86.3,87.0,84.0,88.5,94.0,78.0,0,0,0,0,0,0,0,1,1,4,1
 UBCV,2022,W,MUSC,112,,001,Class Brasses and Percussion,Jaelem Bhate;Aaron Graham;Sharman King;James Littleford;Valerie Whitney,10,82.5,82.5,80.3,84.0,91.0,76.0,0,0,0,0,0,0,0,2,6,1,1
-UBCV,2022,W,MUSC,119,,001,Introduction to Music Technology,Robert Pritchard,100,72.8,80.0,64.8,88.0,97.0,0.0,11,0,5,6,6,8,6,7,17,13,21
-UBCV,2022,W,MUSC,120,,001,History of Music I,Alexander John Fisher;Christina Hutten,70,82.1,86.0,76.0,91.0,97.0,10.0,3,0,0,1,3,3,6,6,12,10,26
-UBCV,2022,W,MUSC,121,,001,History of Music II,Sin Yan Hedy Law,56,67.2,74.5,57.5,81.3,98.0,0.0,8,4,4,4,5,1,4,8,9,5,4
+UBCV,2022,W,MUSC,119,,001,Introduction to Music Technology,Robert Pritchard,100,73.1,80.0,64.8,88.0,97.0,0.0,10,0,5,7,6,8,6,7,17,13,21
+UBCV,2022,W,MUSC,120,,001,History of Music I,Alexander Fisher;Christina Hutten,70,82.1,86.0,76.0,91.0,97.0,10.0,3,0,0,1,3,3,6,6,12,10,26
+UBCV,2022,W,MUSC,121,,001,History of Music II,Sin Yan Hedy Law,55,68.4,75.0,58.0,81.5,98.0,0.0,7,4,4,4,5,1,4,8,9,5,4
 UBCV,2022,W,MUSC,122,,001,Class Woodwinds,Ingrid Chiang;Brenda Fedoruk;Julia Nolan,10,91.8,93.0,90.5,93.8,94.0,86.0,0,0,0,0,0,0,0,0,0,2,8
 UBCV,2022,W,MUSC,128,,001,Musical Rhythm and Human Experience,Michael Tenzer,52,85.0,90.0,81.8,95.3,99.0,7.0,1,2,0,1,2,1,3,1,6,8,27
 UBCV,2022,W,MUSC,131,,001,Class Voice,Hyejung Jun;James Raftery,10,95.0,95.0,94.0,95.8,98.0,93.0,0,0,0,0,0,0,0,0,0,0,10
-UBCV,2022,W,MUSC,141,,001,Class Piano I,Susan Chen Chai M.C.,10,73.2,76.5,65.5,85.3,90.0,40.0,1,0,0,1,2,0,0,2,1,2,1
-UBCV,2022,W,MUSC,141,,002,Class Piano I,Susan Chen Chai M.C.,9,80.1,81.0,76.0,84.0,87.0,71.0,0,0,0,0,0,1,1,1,4,2,0
+UBCV,2022,W,MUSC,135,,001,Opera Repertoire I,,12,80.3,85.0,83.8,87.0,89.0,25.0,1,0,0,0,0,0,0,0,4,7,0
+UBCV,2022,W,MUSC,141,,001,Class Piano I,Susan Chen Chai M.c.,10,73.2,76.5,65.5,85.3,90.0,40.0,1,0,0,1,2,0,0,2,1,2,1
+UBCV,2022,W,MUSC,141,,002,Class Piano I,Susan Chen Chai M.c.,9,80.1,81.0,76.0,84.0,87.0,71.0,0,0,0,0,0,1,1,1,4,2,0
 UBCV,2022,W,MUSC,149,,001,Collaborative Piano I,Terence Dawson,6,91.5,91.5,90.3,92.8,93.0,90.0,0,0,0,0,0,0,0,0,0,0,6
 UBCV,2022,W,MUSC,150,A,001,Large Instrumental Ensemble,Jaelem Bhate;Jonathan Girard;Robert Taylor,82,93.0,93.0,90.0,95.0,100.0,80.0,0,0,0,0,0,0,0,0,1,7,74
 UBCV,2022,W,MUSC,150,C,001,Large Instrumental Ensemble,Jaelem Bhate;Robert Taylor,44,91.8,90.0,90.0,95.0,100.0,77.0,0,0,0,0,0,0,0,1,1,1,41
@@ -22,12 +23,12 @@ UBCV,2022,W,MUSC,153,A,001,University Singers,Graeme Langager,24,98.5,100.0,100.
 UBCV,2022,W,MUSC,154,A,001,University Choral Union,Hyejung Jun;Graeme Langager,117,93.0,96.0,94.0,97.0,98.0,0.0,1,0,0,0,0,1,1,3,5,6,100
 UBCV,2022,W,MUSC,156,A,001,Vocal Chamber Ensembles,Graeme Langager,113,93.7,93.0,93.0,97.0,100.0,25.0,1,0,0,0,0,0,0,0,1,5,106
 UBCV,2022,W,MUSC,156,B,001,Vocal Chamber Ensembles,Graeme Langager,51,97.9,100.0,98.0,100.0,100.0,87.0,0,0,0,0,0,0,0,0,0,4,47
-UBCV,2022,W,MUSC,156,C,001,Vocal Chamber Ensembles,Graeme Langager,25,96.9,98.0,96.0,99.0,100.0,87.0,0,0,0,0,0,0,0,0,0,1,24
-UBCV,2022,W,MUSC,157,A,001,Early Music Ensemble,Alexander John Fisher;Christina Hutten;Alexander Weimann,12,88.5,89.5,85.0,92.3,93.0,83.0,0,0,0,0,0,0,0,0,2,4,6
+UBCV,2022,W,MUSC,156,C,001,Vocal Chamber Ensembles,,25,96.9,98.0,96.0,99.0,100.0,87.0,0,0,0,0,0,0,0,0,0,1,24
+UBCV,2022,W,MUSC,157,A,001,Early Music Ensemble,Alexander Fisher;Christina Hutten;Alexander Weimann,12,88.5,89.5,85.0,92.3,93.0,83.0,0,0,0,0,0,0,0,0,2,4,6
 UBCV,2022,W,MUSC,159,A,001,University Chamber Strings,Eric Wilson,10,92.7,92.0,92.0,93.0,95.0,92.0,0,0,0,0,0,0,0,0,0,0,10
 UBCV,2022,W,MUSC,160,A,001,String Chamber Ensembles,David Gillham;Marina Thibeault;Eric Wilson;Jasper Wood,19,92.5,92.0,92.0,92.0,96.0,92.0,0,0,0,0,0,0,0,0,0,0,19
 UBCV,2022,W,MUSC,161,A,001,Piano Chamber Ensembles,Leonard Anderson;Terence Dawson;David Fung;Corey Hamm;Rena Sharon;Miranda Ting Wai Wong Wilkins,13,85.9,90.0,87.0,94.0,95.0,25.0,1,0,0,0,0,0,0,0,0,4,8
-UBCV,2022,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Paolo Bortolussi;Ingrid Chiang;Julia Nolan,15,90.9,92.0,90.5,92.0,93.0,87.0,0,0,0,0,0,0,0,0,0,3,12
+UBCV,2022,W,MUSC,162,A,001,Wind and Percussion Chamber Ensembles,Jose Franch Ballester,15,90.9,92.0,90.5,92.0,93.0,87.0,0,0,0,0,0,0,0,0,0,3,12
 UBCV,2022,W,MUSC,162,B,001,Wind and Percussion Chamber Ensembles,Jeremy Berkman;Ilan Morgenstern;Andrew Poirier;Valerie Whitney,12,86.1,87.0,85.0,90.0,93.0,73.0,0,0,0,0,0,0,1,1,0,6,4
 UBCV,2022,W,MUSC,162,E,001,Wind and Percussion Chamber Ensembles,Vern Griffiths,10,80.7,81.5,76.3,83.8,95.0,70.0,0,0,0,0,0,1,1,2,4,1,1
 UBCV,2022,W,MUSC,163,,001,Contemporary Players,Paolo Bortolussi,9,92.1,92.0,91.0,93.0,94.0,90.0,0,0,0,0,0,0,0,0,0,0,9
@@ -36,15 +37,16 @@ UBCV,2022,W,MUSC,165,A,001,World Music Ensembles,Gloria Ngar-Yan Wong;Zhimin Yu,
 UBCV,2022,W,MUSC,165,B,001,World Music Ensembles,Michael Tenzer,15,91.9,92.0,90.0,92.5,95.0,88.0,0,0,0,0,0,0,0,0,0,1,14
 UBCV,2022,W,MUSC,165,D,001,World Music Ensembles,Justice Gbolonyo,12,85.4,84.5,81.5,86.3,95.0,80.0,0,0,0,0,0,0,0,0,6,3,3
 UBCV,2022,W,MUSC,167,,001,Introduction to Piano Chamber Music,Terence Dawson,15,86.3,89.0,82.5,90.5,91.0,75.0,0,0,0,0,0,0,1,2,2,3,7
+UBCV,2022,W,MUSC,169,A,001,Intensive Chamber Ensemble,,6,94.5,95.5,91.3,96.0,100.0,90.0,0,0,0,0,0,0,0,0,0,0,6
 UBCV,2022,W,MUSC,170,,001,Lyric Diction,Andrea Grant,13,82.8,85.0,83.0,89.0,92.0,53.0,0,1,0,0,0,1,0,1,2,5,3
-UBCV,2022,W,MUSC,200,,001,Chromatic Harmony and Voice Leading,Eve Poudrier,47,79.0,88.0,67.5,92.0,100.0,17.0,2,0,6,2,2,2,2,2,4,8,17
+UBCV,2022,W,MUSC,200,,001,Chromatic Harmony and Voice Leading,Eve Poudrier,47,79.7,88.0,67.5,92.0,100.0,30.0,1,1,6,2,2,2,2,2,4,8,17
 UBCV,2022,W,MUSC,205,,001,Aural Skills III,Laurel Parsons,44,81.3,88.0,74.0,93.0,99.0,40.0,3,2,0,1,2,1,4,4,2,5,20
 UBCV,2022,W,MUSC,206,,002,Aural Skills IV,Laurel Parsons,42,75.6,80.0,67.3,85.5,96.0,42.0,1,1,3,2,4,5,2,2,11,5,6
 UBCV,2022,W,MUSC,220,,001,History of Music III,Claudio Vellutini,42,73.0,76.0,63.3,82.5,94.0,22.0,1,0,5,5,4,3,3,8,6,1,6
 UBCV,2022,W,MUSC,221,,001,History of Music IV,David Metzer,45,72.6,75.0,66.0,83.0,95.0,25.0,2,2,3,4,1,8,5,3,9,1,7
 UBCV,2022,W,MUSC,236,C,001,Piano Repertoire II,Corey Hamm,9,89.0,89.0,85.0,93.0,94.0,84.0,0,0,0,0,0,0,0,0,1,4,4
-UBCV,2022,W,MUSC,241,,001,Class Piano II,Susan Chen Chai M.C.,13,72.1,77.0,68.0,80.0,90.0,25.0,1,0,0,1,0,3,0,3,4,0,1
-UBCV,2022,W,MUSC,241,,002,Class Piano II,Susan Chen Chai M.C.,10,69.8,71.0,64.3,77.3,88.0,48.0,1,0,1,1,0,2,2,1,1,1,0
+UBCV,2022,W,MUSC,241,,001,Class Piano II,Susan Chen Chai M.c.,13,72.1,77.0,68.0,80.0,90.0,25.0,1,0,0,1,0,3,0,3,4,0,1
+UBCV,2022,W,MUSC,241,,002,Class Piano II,Susan Chen Chai M.c.,10,69.8,71.0,64.3,77.3,88.0,48.0,1,0,1,1,0,2,2,1,1,1,0
 UBCV,2022,W,MUSC,271,A,001,Music Performance (Secondary),Terence Dawson,7,82.6,84.0,77.0,88.5,94.0,69.0,0,0,0,0,0,1,1,0,3,0,2
 UBCV,2022,W,MUSC,300,,001,Compositional and Analytical Approaches to Post-Tonal Music,John Barlow Roeder,66,71.6,72.5,63.0,81.8,98.0,0.0,2,0,7,9,3,11,6,8,9,6,5
 UBCV,2022,W,MUSC,305,,001,Readings in Orchestral Repertoire,Jaelem Bhate;Jonathan Girard,20,93.6,95.0,90.0,98.0,98.0,85.0,0,0,0,0,0,0,0,0,0,4,16
@@ -57,60 +59,64 @@ UBCV,2022,W,MUSC,313,,001,Choral Conducting,Hyejung Jun;Graeme Langager,15,88.1,
 UBCV,2022,W,MUSC,319,A,001,Electroacoustic Music,Brian Garbet;Robert Pritchard,8,84.5,83.5,79.5,88.3,97.0,73.0,0,0,0,0,0,0,1,1,2,2,2
 UBCV,2022,W,MUSC,319,A,002,Electroacoustic Music,Brian Garbet;Robert Pritchard,11,79.7,83.0,67.5,91.5,97.0,60.0,0,0,0,2,1,1,0,1,1,2,3
 UBCV,2022,W,MUSC,320,,001,Computer Music,Keith Hamel,17,80.6,86.0,78.0,93.0,95.0,29.0,1,1,0,0,0,1,1,2,1,4,6
-UBCV,2022,W,MUSC,326,A,001,Music Appreciation,Michael Brandon Konoval,60,75.0,76.0,68.0,85.3,98.0,0.0,1,2,3,4,3,8,6,7,10,7,9
+UBCV,2022,W,MUSC,323,,001,History of Popular Music,,80,82.9,84.0,78.0,89.3,95.0,60.0,0,0,0,2,3,2,7,9,19,18,20
+UBCV,2022,W,MUSC,326,A,001,Music Appreciation,Michael Brandon Konoval,61,73.7,76.0,68.0,85.0,98.0,0.0,2,2,3,4,3,8,6,7,10,7,9
 UBCV,2022,W,MUSC,328,E,001,World Music Cultures,Justice Gbolonyo,26,84.3,86.0,82.3,89.0,93.0,60.0,0,0,0,1,0,0,3,1,7,8,6
 UBCV,2022,W,MUSC,336,,001,Opera Theatre Techniques I,Nancy Jane Hermiston,12,88.8,88.5,86.0,92.0,93.0,84.0,0,0,0,0,0,0,0,0,1,6,5
 UBCV,2022,W,MUSC,339,C,001,Opera Workshop I,Nancy Jane Hermiston,12,90.2,90.0,90.0,90.5,95.0,85.0,0,0,0,0,0,0,0,0,0,2,10
 UBCV,2022,W,MUSC,340,,001,Piano Pedagogy I: Theory and Studio Management,Leonard Anderson,14,84.9,86.5,81.8,91.3,98.0,63.0,0,0,0,1,0,0,2,0,2,5,4
 UBCV,2022,W,MUSC,349,,001,Keyboard Harmony and Transposition,Patricia Hoy,12,78.6,81.0,70.3,88.5,99.0,51.0,0,1,0,1,1,0,1,1,3,1,3
-UBCV,2022,W,MUSC,353,,001,History of Renaissance Music,Alexander John Fisher,13,75.2,85.0,76.0,88.0,97.0,19.0,2,0,0,0,1,0,0,2,1,4,3
+UBCV,2022,W,MUSC,353,,001,History of Renaissance Music,Alexander Fisher,13,75.2,85.0,76.0,88.0,97.0,19.0,2,0,0,0,1,0,0,2,1,4,3
 UBCV,2022,W,MUSC,358,,001,History of Jazz,David Metzer,21,82.5,84.0,78.0,90.0,95.0,68.0,0,0,0,0,0,3,1,3,5,3,6
 UBCV,2022,W,MUSC,365,,001,Song Repertoire I,Andrea Grant,6,84.7,84.5,84.0,85.8,89.0,80.0,0,0,0,0,0,0,0,0,3,3,0
 UBCV,2022,W,MUSC,403,B,001,Selected Topics in Music,David Metzer,7,86.7,88.0,85.5,90.5,91.0,76.0,0,0,0,0,0,0,0,1,0,3,3
-UBCV,2022,W,MUSC,403,C,001,Selected Topics in Music,M.Gillian Carrabre,11,80.3,87.0,82.5,87.5,90.0,30.0,1,0,0,0,0,0,0,1,3,5,1
+UBCV,2022,W,MUSC,403,C,001,Selected Topics in Music,M.gillian Carrabre,11,80.3,87.0,82.5,87.5,90.0,30.0,1,0,0,0,0,0,0,1,3,5,1
 UBCV,2022,W,MUSC,403,F,001,Selected Topics in Music,Laurel Parsons,9,81.9,88.0,72.0,93.0,96.0,55.0,0,0,1,1,0,0,1,0,0,2,4
-UBCV,2022,W,MUSC,403,P,001,Selected Topics in Music,Leigh Van Handel,7,88.6,95.0,95.0,95.0,95.0,50.0,0,1,0,0,0,0,0,0,0,0,6
-UBCV,2022,W,MUSC,403,U,001,Selected Topics in Music,Leigh Van Handel,7,85.1,92.0,86.0,93.5,95.0,50.0,0,1,0,0,0,0,0,0,1,0,5
+UBCV,2022,W,MUSC,403,P,001,Selected Topics in Music,Leigh van Handel,7,88.6,95.0,95.0,95.0,95.0,50.0,0,1,0,0,0,0,0,0,0,0,6
+UBCV,2022,W,MUSC,403,U,001,Selected Topics in Music,Leigh van Handel,7,85.1,92.0,86.0,93.5,95.0,50.0,0,1,0,0,0,0,0,0,1,0,5
 UBCV,2022,W,MUSC,409,D,001,Jazz Theory and Arranging,Frederick Stride,10,74.8,82.5,74.3,88.0,95.0,8.0,1,0,0,0,1,0,2,0,2,3,1
-UBCV,2022,W,MUSC,411,,001,Analysis of Tonal Music,Leigh Van Handel,9,77.3,89.0,80.0,93.0,94.0,30.0,2,0,0,0,0,0,0,0,1,2,4
+UBCV,2022,W,MUSC,411,,001,Analysis of Tonal Music,Leigh van Handel,9,77.3,89.0,80.0,93.0,94.0,30.0,2,0,0,0,0,0,0,0,1,2,4
 UBCV,2022,W,MUSC,419,,001,Interactive Performance Systems,Keith Hamel;Robert Pritchard,7,90.3,92.0,88.0,92.0,92.0,88.0,0,0,0,0,0,0,0,0,0,3,4
 UBCV,2022,W,MUSC,428,E,001,Topics in World Music,Justice Gbolonyo,22,84.7,86.5,82.3,87.8,90.0,71.0,0,0,0,0,0,1,0,2,4,13,2
 UBCV,2022,W,MUSC,439,C,001,Opera Workshop II,Nancy Jane Hermiston,10,93.3,95.0,90.0,97.0,98.0,86.0,0,0,0,0,0,0,0,0,0,2,8
 UBCV,2022,W,MUSC,442,C,001,Song Interpretation,Rena Sharon,8,95.1,95.0,95.0,95.0,96.0,95.0,0,0,0,0,0,0,0,0,0,0,8
 UBCV,2022,W,MUSC,444,,001,Establishing a Career in Music,Thomas Carrabre,9,84.4,85.0,81.0,86.0,90.0,80.0,0,0,0,0,0,0,0,0,4,4,1
-UBCV,2022,W,MUSC,455,,001,History of Opera II,Claudio Vellutini,19,74.8,73.0,67.0,86.5,94.0,53.0,0,1,0,3,1,2,3,2,1,4,2
-UBCV,2022,W,MUSC,500,A,001,Advanced Musical Analysis,Leigh Van Handel,6,83.8,91.5,86.5,92.0,93.0,50.0,1,0,0,0,0,0,0,0,0,1,4
+UBCV,2022,W,MUSC,455,,001,History of Opera II,Claudio Vellutini,19,75.8,76.0,68.0,86.5,94.0,53.0,0,1,0,2,1,2,3,2,2,4,2
+UBCV,2022,W,MUSC,500,A,001,Advanced Musical Analysis,Leigh van Handel,6,83.8,91.5,86.5,92.0,93.0,50.0,1,0,0,0,0,0,0,0,0,1,4
 UBCV,2022,W,MUSC,500,D,001,Advanced Musical Analysis,Eve Poudrier,6,89.8,90.0,86.3,94.5,98.0,80.0,0,0,0,0,0,0,0,0,1,1,4
-UBCV,2022,W,MUSC,506,,001,Readings in Orchestral Repertoire,Jaelem Bhate;Jonathan Girard,19,91.2,90.0,90.0,98.0,98.0,75.0,0,0,0,0,0,0,1,0,1,2,15
+UBCV,2022,W,MUSC,506,,001,Readings in Orchestral Repertoire,Jaelem Bhate;Jonathan Girard,19,91.7,90.0,90.0,98.0,98.0,80.0,0,0,0,0,0,0,0,0,1,3,15
 UBCV,2022,W,MUSC,520,A,001,Introduction to Music Research,Sin Yan Hedy Law,12,81.2,81.5,77.8,83.5,88.0,75.0,0,0,0,0,0,0,1,3,5,3,0
 UBCV,2022,W,MUSC,521,D,001,Seminar in Performance Practices,Rena Sharon,8,94.1,95.0,94.3,95.3,96.0,89.0,0,0,0,0,0,0,0,0,0,1,7
-UBCV,2022,W,MUSC,525,L,001,Seminar in Baroque Music,Alexander John Fisher,7,85.9,84.0,81.5,89.5,94.0,81.0,0,0,0,0,0,0,0,0,4,1,2
+UBCV,2022,W,MUSC,525,L,001,Seminar in Baroque Music,Alexander Fisher,7,85.9,84.0,81.5,89.5,94.0,81.0,0,0,0,0,0,0,0,0,4,1,2
 UBCV,2022,W,MUSC,531,B,001,Seminar in Ethnomusicology,Nathan Hesselink,8,89.4,90.0,86.0,93.0,93.0,84.0,0,0,0,0,0,0,0,0,1,3,4
 UBCV,2022,W,MUSC,532,E,001,Advanced Studies in Music History and Musicology,Sin Yan Hedy Law,8,86.5,86.0,84.8,88.3,91.0,83.0,0,0,0,0,0,0,0,0,2,5,1
 UBCV,2022,W,MUSC,532,I,001,Advanced Studies in Music History and Musicology,David Metzer,7,80.6,80.0,75.5,86.0,92.0,69.0,0,0,0,0,0,1,1,1,2,1,1
 UBCV,2022,W,MUSC,532,J,001,Advanced Studies in Music History and Musicology,Thomas Carrabre,10,80.7,84.0,81.3,85.8,89.0,48.0,1,0,0,0,0,0,0,0,5,4,0
+UBCV,2022,W,MUSC,532,T,001,Advanced Studies in Music History and Musicology,,6,87.7,87.5,85.5,89.5,91.0,85.0,0,0,0,0,0,0,0,0,0,4,2
 UBCV,2022,W,MUSC,532,W,001,Advanced Studies in Music History and Musicology,Julia Ulehla,7,90.6,94.0,84.5,95.0,98.0,83.0,0,0,0,0,0,0,0,0,2,1,4
 UBCV,2022,W,MUSC,532,X,001,Advanced Studies in Music History and Musicology,Marina Thibeault,9,84.7,91.0,90.0,92.0,94.0,35.0,1,0,0,0,0,0,0,0,0,1,7
 UBCV,2022,W,MUSC,533,A,001,Advanced Studies in Music Theory,John Barlow Roeder,6,92.0,91.0,90.0,93.5,97.0,89.0,0,0,0,0,0,0,0,0,0,1,5
 UBCV,2022,W,MUSC,533,D,001,Advanced Studies in Music Theory,John Barlow Roeder;Michael Tenzer,6,86.0,83.5,82.0,92.5,97.0,75.0,0,0,0,0,0,0,1,0,2,1,2
-UBCV,2022,W,MUSC,533,P,001,Advanced Studies in Music Theory,Leigh Van Handel,10,92.7,95.0,95.0,95.0,95.0,72.0,0,0,0,0,0,0,1,0,0,0,9
-UBCV,2022,W,MUSC,533,U,001,Advanced Studies in Music Theory,Leigh Van Handel,10,93.5,95.0,92.8,95.0,95.0,86.0,0,0,0,0,0,0,0,0,0,1,9
+UBCV,2022,W,MUSC,533,P,001,Advanced Studies in Music Theory,Leigh van Handel,10,92.7,95.0,95.0,95.0,95.0,72.0,0,0,0,0,0,0,1,0,0,0,9
+UBCV,2022,W,MUSC,533,U,001,Advanced Studies in Music Theory,Leigh van Handel,10,93.5,95.0,92.8,95.0,95.0,86.0,0,0,0,0,0,0,0,0,0,1,9
 UBCV,2022,W,MUSC,535,,001,"Art Song: Interpretation, Collaboration, and Performance",Rena Sharon,6,93.0,93.0,92.3,94.5,95.0,90.0,0,0,0,0,0,0,0,0,0,0,6
 UBCV,2022,W,MUSC,537,C,001,Seminar in the Literature of Opera,James Raftery,14,82.9,84.0,78.3,87.5,90.0,72.0,0,0,0,0,0,0,2,2,5,3,2
 UBCV,2022,W,MUSC,539,C,001,Opera Production,Nancy Jane Hermiston,13,88.3,88.0,87.0,90.0,95.0,80.0,0,0,0,0,0,0,0,0,2,6,5
 UBCV,2022,W,MUSC,544,A,001,Seminar in Conducting and Repertoire I,Hyejung Jun;Graeme Langager,6,91.0,91.0,89.3,92.8,94.0,88.0,0,0,0,0,0,0,0,0,0,2,4
-UBCV,2022,W,MUSC,549,A,001,Master's Thesis,Leonard Anderson;Michelle Anderson;Ingrid Chiang;Jose Franch Ballester;Marisa Gaetanne;David Gillham;Corey Hamm;Helen Chen Lee;Peder Maclellan;Ilan Morgenstern;Julia Nolan;Christie Reside;Krisztina Szabo;Robert Taylor;Marina Thibeault;Dale Throness;Valerie Whitney;Eric Wilson;Jasper Wood,31,90.7,91.0,89.0,93.0,99.0,83.0,0,0,0,0,0,0,0,0,3,6,22
+UBCV,2022,W,MUSC,549,A,001,Master's Thesis,Leonard Anderson;Michelle Anderson;Ingrid Chiang;Jose Franch Ballester;Marisa Gaetanne;David Gillham;Corey Hamm;Helen Chen Lee;Peder MacLellan;Ilan Morgenstern;Julia Nolan;Christie Reside;Krisztina Szabo;Robert Taylor;Marina Thibeault;Dale Throness;Valerie Whitney;Eric Wilson;Jasper Wood,31,90.7,91.0,89.0,93.0,99.0,83.0,0,0,0,0,0,0,0,0,3,6,22
 UBCV,2022,W,MUSC,550,A,001,Large Instrumental Ensemble,Jaelem Bhate;Jonathan Girard;Robert Taylor,41,95.3,95.0,93.0,100.0,100.0,85.0,0,0,0,0,0,0,0,0,0,3,38
 UBCV,2022,W,MUSC,550,B,001,Large Instrumental Ensemble,Jonathan Girard;Robert Taylor,6,100.0,100.0,100.0,100.0,100.0,100.0,0,0,0,0,0,0,0,0,0,0,6
 UBCV,2022,W,MUSC,553,,001,University Singers,Graeme Langager,6,100.0,100.0,100.0,100.0,100.0,100.0,0,0,0,0,0,0,0,0,0,0,6
-UBCV,2022,W,MUSC,556,,003,Vocal Chamber Ensemble,Graeme Langager,7,100.0,100.0,100.0,100.0,100.0,100.0,0,0,0,0,0,0,0,0,0,0,7
-UBCV,2022,W,MUSC,557,,001,Early Music Ensemble,Alexander John Fisher;Christina Hutten;Alexander Weimann,10,89.9,90.0,88.5,92.5,93.0,85.0,0,0,0,0,0,0,0,0,0,3,7
+UBCV,2022,W,MUSC,556,,003,Vocal Chamber Ensemble,,7,100.0,100.0,100.0,100.0,100.0,100.0,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2022,W,MUSC,557,,001,Early Music Ensemble,Alexander Fisher;Christina Hutten;Alexander Weimann,10,89.9,90.0,88.5,92.5,93.0,85.0,0,0,0,0,0,0,0,0,0,3,7
 UBCV,2022,W,MUSC,560,A,001,String Chamber Ensembles,David Gillham;Marina Thibeault;Eric Wilson;Jasper Wood,11,92.8,92.0,92.0,92.5,96.0,92.0,0,0,0,0,0,0,0,0,0,0,11
 UBCV,2022,W,MUSC,561,A,001,Piano Chamber Ensembles,Leonard Anderson;Terence Dawson;David Fung;Corey Hamm;Rena Sharon;Miranda Ting Wai Wong Wilkins,9,94.4,94.0,94.0,95.0,97.0,93.0,0,0,0,0,0,0,0,0,0,0,9
-UBCV,2022,W,MUSC,562,A,001,Wind and Percussion Chamber Ensembles,Paolo Bortolussi;Ingrid Chiang;Julia Nolan,10,92.5,92.0,91.3,95.0,96.0,88.0,0,0,0,0,0,0,0,0,0,1,9
+UBCV,2022,W,MUSC,562,A,001,Wind and Percussion Chamber Ensembles,Jose Franch Ballester,10,92.5,92.0,91.3,95.0,96.0,88.0,0,0,0,0,0,0,0,0,0,1,9
 UBCV,2022,W,MUSC,562,B,001,Wind and Percussion Chamber Ensembles,Jeremy Berkman;Ilan Morgenstern;Andrew Poirier;Valerie Whitney,8,91.3,92.0,89.8,93.0,94.0,87.0,0,0,0,0,0,0,0,0,0,2,6
 UBCV,2022,W,MUSC,563,,001,Contemporary Players,Paolo Bortolussi,8,92.0,90.0,90.0,93.5,98.0,90.0,0,0,0,0,0,0,0,0,0,0,8
 UBCV,2022,W,MUSC,565,B,001,World Music Ensembles,Michael Tenzer,6,77.8,93.5,90.5,95.0,95.0,0.0,1,0,0,0,0,0,0,0,0,0,5
+UBCV,2022,W,MUSC,569,A,001,Intensive Specialized Chamber Ensemble,,6,92.2,91.0,91.0,93.3,96.0,90.0,0,0,0,0,0,0,0,0,0,0,6
 UBCV,2022,W,MUSC,593,A,001,Music Performance (Major),Leonard Anderson;Corey Hamm;Alexander Weimann,6,90.3,91.0,87.3,91.8,96.0,86.0,0,0,0,0,0,0,0,0,0,2,4
 UBCV,2022,W,MUSC,593,B,002,Music Performance (Major),Peter Barcza;Marisa Gaetanne;Nancy Jane Hermiston;James Raftery;Krisztina Szabo;Dale Throness,13,91.8,92.0,90.0,95.0,96.0,84.0,0,0,0,0,0,0,0,0,1,2,10
+UBCV,2022,W,MUSC,593,D,004,Music Performance (Major),Jose Franch Ballester;Michael Jarrett;Larry Knopp;Peder MacLellan;Julia Nolan;Christie Reside;Valerie Whitney,9,87.3,90.0,85.0,91.0,94.0,68.0,0,0,0,0,0,1,0,0,1,1,6
 UBCV,2022,W,MUSC,606,,001,Readings in Orchestral Repertoire,Jaelem Bhate;Jonathan Girard,8,92.4,94.0,90.0,95.0,95.0,86.0,0,0,0,0,0,0,0,0,0,1,7

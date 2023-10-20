@@ -1,18 +1,18 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
 UBCV,2022,W,KIN,110,,92A,Human Anatomy,J Timothy Inglis,26,65.3,68.5,50.0,88.0,100.0,13.0,6,4,2,0,1,3,0,0,2,2,6
-UBCV,2022,W,KIN,110,,92B,Human Anatomy,J Timothy Inglis,18,67.4,71.5,51.8,85.8,100.0,13.0,4,1,2,0,2,0,0,1,1,6,1
-UBCV,2022,W,KIN,110,,92C,Human Anatomy,J Timothy Inglis,12,72.6,73.5,61.0,84.5,96.0,39.0,1,0,1,3,0,1,0,1,2,1,2
+UBCV,2022,W,KIN,110,,92B,Human Anatomy,J Timothy Inglis,18,70.1,71.5,57.5,85.8,100.0,42.0,3,1,2,1,2,0,0,1,1,6,1
+UBCV,2022,W,KIN,110,,92C,Human Anatomy,J Timothy Inglis,13,69.2,71.0,61.0,84.0,96.0,28.0,2,0,1,3,0,1,0,1,2,1,2
 UBCV,2022,W,KIN,110,,L1A,Human Anatomy,J Timothy Inglis,31,76.9,82.0,64.0,93.5,100.0,36.0,4,0,2,2,0,2,3,0,7,2,9
 UBCV,2022,W,KIN,110,,L1B,Human Anatomy,J Timothy Inglis,31,63.6,63.0,48.0,79.0,100.0,15.0,8,4,1,3,1,1,2,4,2,0,5
-UBCV,2022,W,KIN,110,,L1C,Human Anatomy,J Timothy Inglis,32,65.2,64.5,52.5,85.5,100.0,18.0,7,2,2,4,2,3,1,1,0,6,4
+UBCV,2022,W,KIN,110,,L1C,Human Anatomy,J Timothy Inglis,32,66.7,67.0,55.3,85.5,100.0,18.0,6,2,2,4,2,3,1,2,0,6,4
 UBCV,2022,W,KIN,110,,L1D,Human Anatomy,J Timothy Inglis,32,60.7,62.5,42.3,77.3,96.0,21.0,9,1,3,3,3,1,3,2,0,3,4
 UBCV,2022,W,KIN,110,,L1E,Human Anatomy,J Timothy Inglis,31,77.2,85.0,63.5,96.0,100.0,22.0,2,1,3,2,2,2,1,2,0,6,10
 UBCV,2022,W,KIN,110,,L1F,Human Anatomy,J Timothy Inglis,32,66.9,74.0,56.5,82.0,100.0,0.0,5,2,2,0,3,2,4,5,4,3,2
 UBCV,2022,W,KIN,120,,L1A,Health and Exercise Management,Paige Jackson,41,72.6,72.0,68.0,77.0,85.0,50.0,0,1,0,1,7,8,9,7,7,1,0
 UBCV,2022,W,KIN,120,,L1B,Health and Exercise Management,Paige Jackson,40,73.3,73.0,70.3,77.0,87.0,59.0,0,0,1,1,6,5,13,6,6,2,0
 UBCV,2022,W,KIN,120,,L1C,Health and Exercise Management,Paige Jackson,42,72.0,74.0,66.0,79.8,86.0,53.0,0,3,2,3,6,4,7,6,9,2,0
-UBCV,2022,W,KIN,120,,L2A,Health and Exercise Management,Amanda Michelle Jones,34,73.0,73.5,66.3,78.8,91.0,48.0,1,1,2,1,5,5,3,9,2,4,1
-UBCV,2022,W,KIN,120,,L2B,Health and Exercise Management,Amanda Michelle Jones,44,78.7,79.5,74.0,86.3,93.0,48.0,1,0,0,2,2,3,7,7,9,8,5
+UBCV,2022,W,KIN,120,,L2A,Health and Exercise Management,Amanda Michelle Jones,35,72.4,73.0,66.0,78.5,91.0,48.0,1,2,2,1,5,5,3,9,2,4,1
+UBCV,2022,W,KIN,120,,L2B,Health and Exercise Management,Amanda Michelle Jones,45,77.9,79.0,74.0,86.0,93.0,44.0,2,0,0,2,2,3,7,7,9,8,5
 UBCV,2022,W,KIN,120,,L2C,Health and Exercise Management,Amanda Michelle Jones,43,78.1,79.0,75.5,84.5,89.0,59.0,0,0,1,3,1,3,3,11,10,11,0
 UBCV,2022,W,KIN,131,,L1A,Systems Physiology I,Tania Lam,37,78.2,78.0,70.0,86.0,97.0,59.0,0,0,1,4,2,4,2,7,4,8,5
 UBCV,2022,W,KIN,131,,L1B,Systems Physiology I,Tania Lam,38,75.8,76.5,70.0,81.0,92.0,58.0,0,0,1,2,2,7,4,9,7,5,1
@@ -32,33 +32,33 @@ UBCV,2022,W,KIN,132,,L1D,Systems Physiology II,Robert Langill,34,75.3,76.5,64.8,
 UBCV,2022,W,KIN,132,,L1E,Systems Physiology II,Robert Langill,12,65.3,65.5,58.3,71.8,85.0,42.0,1,2,0,2,2,2,1,0,1,1,0
 UBCV,2022,W,KIN,132,,L1F,Systems Physiology II,Robert Langill,34,69.6,73.5,61.3,81.8,94.0,20.0,4,2,1,3,2,2,5,3,8,0,4
 UBCV,2022,W,KIN,140,,002,Lifespan Motor Development,Shannon Bredin,111,78.0,80.0,76.0,83.0,92.0,10.0,2,1,0,1,2,8,10,17,48,20,2
-UBCV,2022,W,KIN,150,,001,Sport and Exercise Psychology,Mark Beauchamp,175,77.9,80.0,73.0,88.0,99.0,26.0,12,2,3,3,12,4,24,27,20,35,33
+UBCV,2022,W,KIN,150,,001,Sport and Exercise Psychology,Mark Beauchamp,176,77.7,79.5,73.0,88.0,99.0,26.0,13,2,3,3,12,4,24,27,20,35,33
 UBCV,2022,W,KIN,150,,901,Sport and Exercise Psychology,Erica Bennett,103,74.8,77.0,69.0,82.0,96.0,23.0,2,4,5,5,5,7,13,23,23,13,3
 UBCV,2022,W,KIN,160,,001,Leisure and Sport in Society,Moss Norman,140,77.6,78.0,74.0,82.0,93.0,21.0,1,1,1,3,7,11,21,30,41,12,12
 UBCV,2022,W,KIN,160,,002,Leisure and Sport in Society,Moss Norman,119,77.9,78.0,75.0,82.0,93.0,27.0,1,0,2,1,3,8,17,31,40,9,7
-UBCV,2022,W,KIN,205,,001,Research Methods in Kinesiology,Carolyn Mcewen,189,78.2,81.0,74.0,87.0,95.0,0.0,5,2,3,7,8,9,21,26,37,54,17
-UBCV,2022,W,KIN,205,,002,Research Methods in Kinesiology,Carolyn Mcewen,136,79.0,81.0,73.8,86.3,98.0,0.0,4,1,0,2,7,10,16,11,40,25,20
-UBCV,2022,W,KIN,206,,001,Introduction to Statistics in Kinesiology,Carolyn Mcewen,177,74.6,80.0,65.0,87.0,97.0,0.0,16,4,7,11,9,7,23,11,28,34,27
-UBCV,2022,W,KIN,206,,002,Introduction to Statistics in Kinesiology,Carolyn Mcewen,131,71.4,74.0,63.5,82.0,95.0,8.0,8,7,11,7,10,8,25,14,17,13,11
+UBCV,2022,W,KIN,205,,001,Research Methods in Kinesiology,Carolyn McEwen,189,78.2,81.0,74.0,87.0,95.0,0.0,5,2,3,7,8,9,21,26,37,54,17
+UBCV,2022,W,KIN,205,,002,Research Methods in Kinesiology,Carolyn McEwen,136,79.0,81.0,73.8,86.3,98.0,0.0,4,1,0,2,7,10,16,11,40,25,20
+UBCV,2022,W,KIN,206,,001,Introduction to Statistics in Kinesiology,Carolyn McEwen,177,74.7,80.0,65.0,87.0,97.0,0.0,15,5,7,11,9,7,23,11,28,34,27
+UBCV,2022,W,KIN,206,,002,Introduction to Statistics in Kinesiology,Carolyn McEwen,131,71.4,74.0,63.5,82.0,95.0,8.0,8,7,11,7,10,8,25,14,17,13,11
 UBCV,2022,W,KIN,211,,001,Human Motor Behaviour I,Nicola Hodges,119,76.5,78.0,69.0,85.0,94.0,42.0,1,0,6,9,10,8,15,15,24,18,13
-UBCV,2022,W,KIN,211,,002,Human Motor Behaviour I,Nicola Hodges,132,73.6,74.0,64.0,83.5,98.0,50.0,0,6,10,15,14,13,12,18,11,18,15
+UBCV,2022,W,KIN,211,,002,Human Motor Behaviour I,Nicola Hodges,133,73.5,74.0,64.0,83.0,98.0,50.0,0,6,10,16,14,13,12,18,11,18,15
 UBCV,2022,W,KIN,216,,001,Biomechanics I,Kayla Fewster,118,76.8,77.0,72.0,83.8,96.0,34.0,3,3,2,1,8,12,22,14,27,9,17
-UBCV,2022,W,KIN,216,,002,Biomechanics I,Kayla Fewster,131,76.9,80.0,70.0,86.0,100.0,38.0,1,4,8,8,9,13,10,10,28,17,23
-UBCV,2022,W,KIN,232,,001,"Nutrition, Physical Activity, and Health",Emma Mccrudden,103,79.8,80.0,74.0,87.0,97.0,56.0,0,0,3,3,6,6,13,20,14,22,16
-UBCV,2022,W,KIN,232,,002,"Nutrition, Physical Activity, and Health",Emma Mccrudden,177,82.7,84.0,79.0,88.0,96.0,52.0,0,1,0,5,3,8,10,18,46,55,31
+UBCV,2022,W,KIN,216,,002,Biomechanics I,Kayla Fewster,132,76.7,80.0,70.0,86.0,100.0,38.0,1,4,9,8,9,13,10,10,28,17,23
+UBCV,2022,W,KIN,232,,001,"Nutrition, Physical Activity, and Health",Emma McCrudden,105,79.5,80.0,74.0,87.0,97.0,50.0,0,1,3,3,6,6,13,20,15,22,16
+UBCV,2022,W,KIN,232,,002,"Nutrition, Physical Activity, and Health",Emma McCrudden,177,82.7,84.0,79.0,88.0,96.0,52.0,0,1,0,5,3,8,10,18,46,55,31
 UBCV,2022,W,KIN,235,,L1A,Exercise Physiology I,Cameron Mitchell,30,76.1,76.0,70.0,84.8,95.0,44.0,1,1,0,0,3,6,1,6,4,6,2
 UBCV,2022,W,KIN,235,,L1B,Exercise Physiology I,Cameron Mitchell,29,76.5,80.0,69.0,85.0,91.0,55.0,0,0,3,3,1,2,3,2,7,3,5
 UBCV,2022,W,KIN,235,,L1C,Exercise Physiology I,Cameron Mitchell,29,79.0,81.0,71.0,87.0,91.0,59.0,0,0,1,1,3,3,1,5,6,6,3
 UBCV,2022,W,KIN,235,,L1D,Exercise Physiology I,Cameron Mitchell,28,77.0,78.5,71.5,83.3,97.0,46.0,1,0,0,2,2,2,4,4,7,3,3
 UBCV,2022,W,KIN,235,,L1E,Exercise Physiology I,Cameron Mitchell,27,72.0,74.0,62.5,84.0,91.0,44.0,2,0,2,5,1,3,3,2,2,4,3
 UBCV,2022,W,KIN,235,,L2B,Exercise Physiology I,Cameron Mitchell,59,77.6,77.0,69.0,86.0,97.0,51.0,0,1,1,2,8,6,8,6,7,10,10
-UBCV,2022,W,KIN,235,,L2C,Exercise Physiology I,Cameron Mitchell,59,77.6,78.0,72.0,85.0,96.0,39.0,1,0,2,3,3,5,8,9,10,13,5
+UBCV,2022,W,KIN,235,,L2C,Exercise Physiology I,Cameron Mitchell,59,77.8,78.0,72.0,85.0,96.0,55.0,0,0,3,3,3,5,8,9,10,13,5
 UBCV,2022,W,KIN,262,,001,Health Policy and Society,Andrea Bundon,163,81.4,83.0,77.0,88.0,95.0,30.0,1,0,3,2,7,3,16,25,39,37,30
-UBCV,2022,W,KIN,262,,002,Health Policy and Society,Liv Yoon,117,80.6,82.0,76.0,86.0,94.0,44.0,1,0,1,0,6,8,10,21,31,28,11
+UBCV,2022,W,KIN,262,,002,Health Policy and Society,Liv Yoon,118,80.6,82.0,76.0,86.0,94.0,44.0,1,0,1,0,6,8,11,21,31,28,11
 UBCV,2022,W,KIN,300,,001,Human Athletic Performance,Tania Lam,207,89.6,90.0,86.5,93.0,99.0,76.0,0,0,0,0,0,0,0,2,26,71,108
 UBCV,2022,W,KIN,311,,001,Sensorimotor Control of Human Movement,Romeo Chua,90,64.1,67.0,52.3,79.8,97.0,14.0,16,9,12,3,6,2,8,11,9,9,5
-UBCV,2022,W,KIN,313,,001,Neuromuscular Integration of Human Movement,J Timothy Inglis,213,65.9,69.0,53.0,85.0,100.0,0.0,40,18,8,16,20,14,11,11,18,25,32
-UBCV,2022,W,KIN,316,,001,Biomechanical Properties of Tissues,Jean-Sebastien Blouin,124,73.5,76.5,66.0,83.3,98.0,0.0,6,6,3,8,12,16,9,18,18,16,12
+UBCV,2022,W,KIN,313,,001,Neuromuscular Integration of Human Movement,J Timothy Inglis,211,67.3,69.0,54.5,85.0,100.0,0.0,35,18,8,17,20,14,12,11,18,25,33
+UBCV,2022,W,KIN,316,,001,Biomechanical Properties of Tissues,Jean-Sebastien Blouin,126,73.6,76.5,66.3,83.8,98.0,0.0,6,6,3,8,12,16,9,19,18,17,12
 UBCV,2022,W,KIN,320,,901,Exercise Testing and Prescription,Jasmin Ma,112,83.2,84.0,80.0,87.0,93.0,70.0,0,0,0,0,0,2,12,12,31,45,10
 UBCV,2022,W,KIN,320,,902,Exercise Testing and Prescription,Jesse Robertson,43,85.2,87.0,83.5,89.5,95.0,66.0,0,0,0,0,2,1,0,3,10,16,11
 UBCV,2022,W,KIN,320,,L1A,Exercise Testing and Prescription,Jasmin Ma,42,84.6,85.0,80.0,89.0,95.0,74.0,0,0,0,0,0,0,3,7,10,13,9
@@ -69,30 +69,30 @@ UBCV,2022,W,KIN,335,,L1A,Advanced Applications of Exercise Physiology,William Sh
 UBCV,2022,W,KIN,335,,L1B,Advanced Applications of Exercise Physiology,William Sheel,31,83.0,86.0,76.5,90.0,96.0,55.0,0,0,1,0,2,2,3,1,3,10,9
 UBCV,2022,W,KIN,335,,L1C,Advanced Applications of Exercise Physiology,William Sheel,29,84.6,87.0,82.0,90.0,94.0,65.0,0,0,0,0,1,2,1,2,5,10,8
 UBCV,2022,W,KIN,335,,L1D,Advanced Applications of Exercise Physiology,William Sheel,30,87.4,89.5,86.0,92.0,95.0,60.0,0,0,0,1,0,0,0,2,4,8,15
-UBCV,2022,W,KIN,335,,L1E,Advanced Applications of Exercise Physiology,William Sheel,30,83.7,88.5,79.5,91.0,94.0,50.0,0,1,0,1,1,0,3,2,3,6,13
+UBCV,2022,W,KIN,335,,L1E,Advanced Applications of Exercise Physiology,William Sheel,29,84.9,89.0,81.0,91.0,94.0,62.0,0,0,0,1,1,0,3,2,3,6,13
 UBCV,2022,W,KIN,335,,L1F,Advanced Applications of Exercise Physiology,William Sheel,29,83.0,84.0,80.0,86.0,94.0,70.0,0,0,0,0,0,1,2,3,10,11,2
 UBCV,2022,W,KIN,341,,L2A,Instructional Strategies for Including Persons with Disabilities in Physical Activity,Jasmin Ma,56,85.7,86.0,84.0,88.0,91.0,77.0,0,0,0,0,0,0,0,3,13,34,6
 UBCV,2022,W,KIN,342,,L1A,"Creating Effective, Developmentally Appropriate, Physical Activity Learning Environments",Amanda Michelle Jones,26,83.1,83.0,80.0,87.8,94.0,67.0,0,0,0,0,1,0,1,4,10,6,4
 UBCV,2022,W,KIN,342,,L1B,"Creating Effective, Developmentally Appropriate, Physical Activity Learning Environments",Amanda Michelle Jones,25,84.0,85.0,80.0,88.0,91.0,74.0,0,0,0,0,0,0,2,3,7,10,3
 UBCV,2022,W,KIN,344,,001,Leisure Services for Persons with a Disability,Janka Samuhel-Corewyn,208,95.1,96.0,94.0,97.0,99.0,82.0,0,0,0,0,0,0,0,0,2,9,197
-UBCV,2022,W,KIN,345,,001,Foundations of Coaching,Janka Samuhel-Corewyn,252,91.9,93.0,90.0,96.0,99.0,7.0,4,0,0,0,0,0,1,3,11,33,200
-UBCV,2022,W,KIN,355,,001,Movement Experiences for Young Children,Shannon Bredin,124,86.2,88.0,83.0,92.0,97.0,13.0,2,0,0,1,0,3,2,1,27,39,49
-UBCV,2022,W,KIN,360,,001,"Sport, Peace, and Conflict",Brian Wilson,62,80.5,82.0,77.0,87.0,94.0,48.0,1,1,0,1,4,2,5,9,13,19,7
+UBCV,2022,W,KIN,345,,001,Foundations of Coaching,Janka Samuhel-Corewyn,252,92.0,93.0,90.0,96.0,99.0,7.0,4,0,0,0,0,0,1,3,11,33,200
+UBCV,2022,W,KIN,355,,001,Movement Experiences for Young Children,Shannon Bredin,126,86.2,88.0,83.0,92.0,97.0,13.0,2,0,0,1,0,3,2,1,28,40,49
+UBCV,2022,W,KIN,360,,001,"Sport, Peace, and Conflict",Brian Wilson,63,81.0,82.0,77.0,87.0,94.0,51.0,0,1,0,1,4,2,6,9,13,20,7
 UBCV,2022,W,KIN,364,,001,"The Modern Olympics: Power, Politics, and Performance",Patricia Vertinsky,113,84.0,85.0,81.0,88.0,93.0,0.0,1,0,0,0,0,1,3,10,37,39,22
 UBCV,2022,W,KIN,368,,001,Indigenous Sport and Physical Culture in Settler Canada,Alana Cook,48,93.9,94.0,92.0,96.0,98.0,88.0,0,0,0,0,0,0,0,0,0,2,46
 UBCV,2022,W,KIN,368,,901,Indigenous Sport and Physical Culture in Settler Canada,Alana Cook,50,88.9,90.0,85.3,93.0,96.0,73.0,0,0,0,0,0,0,1,0,6,15,28
-UBCV,2022,W,KIN,411,,001,Neuroanatomy of Human Movement,Mark Carpenter,195,77.2,79.0,67.5,89.0,99.0,37.0,7,13,11,4,14,13,11,26,18,33,45
+UBCV,2022,W,KIN,411,,001,Neuroanatomy of Human Movement,Mark Carpenter,196,77.2,79.0,67.8,89.0,99.0,37.0,7,13,11,4,14,13,12,26,18,33,45
 UBCV,2022,W,KIN,419,,L1B,Laboratory Investigations in Neuromechanical Kinesiology,Romeo Chua,11,88.6,91.0,84.5,94.5,100.0,73.0,0,0,0,0,0,0,1,1,1,2,6
 UBCV,2022,W,KIN,419,,L1C,Laboratory Investigations in Neuromechanical Kinesiology,Romeo Chua,11,86.5,91.0,80.0,93.0,95.0,73.0,0,0,0,0,0,0,1,1,3,0,6
 UBCV,2022,W,KIN,419,,L1D,Laboratory Investigations in Neuromechanical Kinesiology,Romeo Chua,11,81.9,83.0,76.0,90.0,96.0,60.0,0,0,0,1,0,1,1,1,3,0,4
 UBCV,2022,W,KIN,420,,001,Prevention of Sports Injuries,Anne Lasinsky,150,84.3,86.0,79.0,90.8,99.0,50.0,0,2,1,3,1,7,7,19,31,30,49
-UBCV,2022,W,KIN,420,,002,Prevention of Sports Injuries,Anne Lasinsky,186,87.2,90.0,83.0,94.0,100.0,53.0,1,1,0,4,4,5,6,10,23,34,98
-UBCV,2022,W,KIN,424,,001,Medical Aspects of Sport and Exercise,Michael Koehle,291,84.8,87.0,79.0,93.0,100.0,45.0,3,2,3,4,9,9,20,24,48,49,120
-UBCV,2022,W,KIN,432,,001,Sport Nutrition,Emma Mccrudden,130,86.1,87.0,82.0,92.0,97.0,60.0,0,0,0,1,1,0,7,10,27,36,48
+UBCV,2022,W,KIN,420,,002,Prevention of Sports Injuries,Anne Lasinsky,186,87.4,90.0,83.0,94.0,100.0,53.0,0,1,0,4,4,5,6,10,23,34,99
+UBCV,2022,W,KIN,424,,001,Medical Aspects of Sport and Exercise,Michael Koehle,293,84.7,87.0,79.0,93.0,100.0,45.0,3,2,3,5,9,9,20,24,49,49,120
+UBCV,2022,W,KIN,432,,001,Sport Nutrition,Emma McCrudden,130,86.1,87.0,82.0,92.0,97.0,60.0,0,0,0,1,1,0,7,10,27,36,48
 UBCV,2022,W,KIN,435,,001,Pulmonary Physiology of Exercise,William Sheel,144,77.7,78.5,72.0,86.0,95.0,50.0,0,5,2,10,8,10,20,23,22,24,20
 UBCV,2022,W,KIN,438,,001,"Skeletal Muscle Physiology: Molecular Adaptions to Training, Disuse and Aging",Cameron Mitchell,62,81.3,82.0,75.5,87.0,93.0,55.0,0,0,1,1,0,5,9,6,15,15,10
-UBCV,2022,W,KIN,442,,901,"Planning Physical Education, Sport and Exercise Programs",Janka Samuhel-Corewyn,169,88.7,90.0,87.0,93.0,98.0,40.0,2,1,0,1,1,0,4,4,16,43,97
-UBCV,2022,W,KIN,444,,L2A,Exploring Alternative Methods for Teaching Games and Sports,Janka Samuhel-Corewyn,49,87.2,91.0,87.0,95.0,98.0,30.0,3,0,0,0,0,0,2,3,2,11,28
+UBCV,2022,W,KIN,442,,901,"Planning Physical Education, Sport and Exercise Programs",Janka Samuhel-Corewyn,170,88.6,90.0,86.3,93.0,98.0,40.0,2,1,0,1,1,0,4,5,16,43,97
+UBCV,2022,W,KIN,444,,L2A,Exploring Alternative Methods for Teaching Games and Sports,Janka Samuhel-Corewyn,49,87.9,91.0,87.0,95.0,98.0,30.0,2,0,0,0,0,0,2,4,2,11,28
 UBCV,2022,W,KIN,453,,001,Understanding and Changing Physical Activity Behaviour,Guy Faulkner,57,85.5,86.0,85.0,88.0,91.0,70.0,0,0,0,0,0,2,2,1,9,34,9
 UBCV,2022,W,KIN,459,,001,Psychobiology of Physical Activity,Eli Puterman,69,83.7,84.0,80.0,87.0,95.0,71.0,0,0,0,0,0,1,3,11,22,23,9
 UBCV,2022,W,KIN,464,,001,Health Promotion and Physical Activity,Andrea Bundon,98,81.5,83.0,77.0,88.0,98.0,40.0,1,2,1,0,3,5,7,17,21,22,19
@@ -100,22 +100,27 @@ UBCV,2022,W,KIN,465,,001,"Interculturalism, Health and Physical Activity",Bryna 
 UBCV,2022,W,KIN,465,,002,"Interculturalism, Health and Physical Activity",Bryna Kopelow,36,92.1,93.0,90.8,94.0,97.0,76.0,0,0,0,0,0,0,0,1,0,4,31
 UBCV,2022,W,KIN,468,,002,Indigenous Health and Wellness,Darren Warburton,51,86.4,87.0,84.0,90.0,95.0,76.0,0,0,0,0,0,0,0,2,11,21,17
 UBCV,2022,W,KIN,482,A,001,Advanced Seminar in Neuromechanics,Mark Carpenter,33,82.9,85.0,77.0,90.0,95.0,55.0,0,0,1,0,2,1,3,3,5,8,10
-UBCV,2022,W,KIN,483,A,001,"Advanced Seminar in Systems Biology, Exercise and Health",David Wright,30,77.6,80.5,71.3,88.8,97.0,30.0,2,0,1,3,1,1,1,4,6,5,6
+UBCV,2022,W,KIN,483,A,001,"Advanced Seminar in Systems Biology, Exercise and Health",David Wright,30,78.3,80.5,72.5,88.8,97.0,30.0,2,0,0,3,1,1,2,4,6,5,6
 UBCV,2022,W,KIN,487,A,001,Advanced Seminar in Sociocultural Studies,Patricia Vertinsky,15,87.5,86.0,85.5,90.5,96.0,77.0,0,0,0,0,0,0,0,1,2,6,6
-UBCV,2022,W,KIN,487,B,001,Advanced Seminar in Sociocultural Studies,Moss Norman,21,84.7,90.0,86.0,91.0,94.0,46.0,2,0,0,0,0,0,0,2,0,3,14
+UBCV,2022,W,KIN,487,B,001,Advanced Seminar in Sociocultural Studies,Moss Norman,21,86.6,90.0,88.0,91.0,94.0,46.0,1,0,0,0,0,0,0,2,0,4,14
+UBCV,2022,W,KIN,488,A,001,Advanced Seminar in Interdisciplinary Research in Kinesiology,Paul Kennedy,10,95.0,96.0,93.3,97.0,98.0,89.0,0,0,0,0,0,0,0,0,0,1,9
+UBCV,2022,W,KIN,490,,002,Directed Studies in Kinesiology,,11,89.7,90.0,86.0,92.5,97.0,80.0,0,0,0,0,0,0,0,0,1,3,7
+UBCV,2022,W,KIN,492,,001,Undergraduate Research Experience in Kinesiology,,13,93.5,95.0,92.0,96.0,98.0,85.0,0,0,0,0,0,0,0,0,0,2,11
 UBCV,2022,W,KIN,500,A,001,Special Topics in Kinesiology,Jean-Sebastien Blouin,8,92.8,93.0,90.5,95.3,97.0,88.0,0,0,0,0,0,0,0,0,0,2,6
 UBCV,2022,W,KIN,500,H,001,Special Topics in Kinesiology,Jasmin Ma,14,88.2,88.5,86.3,90.8,93.0,82.0,0,0,0,0,0,0,0,0,3,5,6
-UBCV,2022,W,KIN,500,K,001,Special Topics in Kinesiology,Kerry Macdonald;Johann Windt,27,90.2,91.0,86.0,94.5,98.0,79.0,0,0,0,0,0,0,0,1,3,8,15
+UBCV,2022,W,KIN,500,K,001,Special Topics in Kinesiology,Kerry MacDonald;Johann Windt,27,90.2,91.0,86.0,94.5,98.0,79.0,0,0,0,0,0,0,0,1,3,8,15
 UBCV,2022,W,KIN,517,,WB6,Business of High Performance Sport in Canada,Wendy Pattenden;Benoit Seguin,21,86.0,90.0,87.0,93.0,97.0,0.0,1,0,0,0,0,0,0,0,2,5,13
+UBCV,2022,W,KIN,530,A,001,Directed Studies,,6,77.3,92.0,91.3,93.5,95.0,0.0,1,0,0,0,0,0,0,0,0,0,5
+UBCV,2022,W,KIN,530,A,002,Directed Studies,,8,87.9,88.5,84.8,93.3,95.0,75.0,0,0,0,0,0,0,1,0,1,2,4
 UBCV,2022,W,KIN,562,,001,Bioenergetics of Physical Activity,Robert Boushel,21,87.6,88.0,84.0,91.0,93.0,79.0,0,0,0,0,0,0,0,2,4,7,8
 UBCV,2022,W,KIN,564,,001,Psycho-Social Aspects of Physical Activity,Mark Beauchamp,17,86.1,87.0,82.0,92.0,98.0,70.0,0,0,0,0,0,1,0,2,5,2,7
 UBCV,2022,W,KIN,568,,001,Seminar in Human Sensorimotor Control,Romeo Chua,8,90.4,89.0,88.8,92.0,97.0,85.0,0,0,0,0,0,0,0,0,0,5,3
 UBCV,2022,W,KIN,570,,001,Research Methods in Kinesiology,Karim Miran-Khan,12,93.8,94.0,92.8,95.3,97.0,88.0,0,0,0,0,0,0,0,0,0,1,11
 UBCV,2022,W,KIN,571,,001,"Qualitative Methods in Sport, Leisure, and Health Studies",Erica Bennett,11,82.8,90.0,84.0,92.0,94.0,26.0,1,0,0,0,0,0,0,1,1,2,6
-UBCV,2022,W,KIN,572,,001,Research Methods for Sport & Health Sciences,Carolyn Mcewen,32,76.3,78.5,70.5,87.3,93.0,10.0,3,0,0,1,1,4,3,5,4,5,6
+UBCV,2022,W,KIN,572,,001,Research Methods for Sport & Health Sciences,Carolyn McEwen,32,74.3,78.5,70.5,87.3,93.0,0.0,4,0,0,0,1,4,3,5,4,5,6
 UBCV,2022,W,KIN,575,,WB7,Principles of Applied Sports Analytics,Ming-Chang Tsai;Johann Windt,13,84.9,84.0,80.0,90.0,100.0,65.0,0,0,0,0,1,0,0,1,5,1,5
 UBCV,2022,W,KIN,580,,001,"Seminar in Body, Exercise, and Society",Patricia Vertinsky,17,89.7,90.0,88.0,92.0,93.0,85.0,0,0,0,0,0,0,0,0,0,6,11
-UBCV,2022,W,KIN,585,,001,Performance Planning,Kerry Macdonald,23,91.2,92.0,88.5,94.0,96.0,85.0,0,0,0,0,0,0,0,0,0,7,16
+UBCV,2022,W,KIN,585,,001,Performance Planning,Kerry MacDonald,23,91.2,92.0,88.5,94.0,96.0,85.0,0,0,0,0,0,0,0,0,0,7,16
 UBCV,2022,W,KIN,585,,WB8,Performance Planning,Anita Cote,11,90.9,93.0,88.0,95.0,96.0,78.0,0,0,0,0,0,0,0,1,0,3,7
-UBCV,2022,W,KIN,586,,001,Coaching Effectiveness,Gord Collings,18,87.7,87.5,85.0,89.5,96.0,83.0,0,0,0,0,0,0,0,0,4,9,5
-UBCV,2022,W,KIN,586,,WB8,Coaching Effectiveness,Shaunna Taylor,8,93.3,93.0,92.8,94.3,95.0,91.0,0,0,0,0,0,0,0,0,0,0,8
+UBCV,2022,W,KIN,586,,001,Coaching Effectiveness,Gord Collings,19,87.7,87.0,85.0,89.0,96.0,83.0,0,0,0,0,0,0,0,0,4,10,5
+UBCV,2022,W,KIN,586,,WB8,Coaching Effectiveness,Shaunna Taylor,12,92.9,93.0,92.8,93.3,95.0,90.0,0,0,0,0,0,0,0,0,0,0,12

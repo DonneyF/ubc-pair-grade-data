@@ -1,4 +1,9 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2022,S,BUSI,100,,921,Micro Foundations of Real Estate Economics,,64,63.2,77.0,57.0,84.3,97.0,0.0,17,0,0,3,4,2,5,10,7,10,6
+UBCV,2022,S,BUSI,101,,921,Capital Markets and Real Estate,,39,68.1,76.0,70.0,85.0,92.0,0.0,7,0,0,0,1,3,7,4,5,9,3
+UBCV,2022,S,BUSI,111,,921,British Columbia Real Estate Law and Real Estate Ethics,,27,58.6,71.0,38.5,79.0,94.0,0.0,8,0,0,1,1,5,3,2,2,4,1
+UBCV,2022,S,BUSI,112,,921,Canadian Real Property Law and Real Estate Ethics,,36,62.3,73.5,60.0,79.0,92.0,0.0,8,0,0,2,3,3,5,7,7,0,1
+UBCV,2022,S,BUSI,121,,921,Foundations of Real Estate Mathematics,,61,54.7,68.0,8.0,78.0,95.0,0.0,20,0,0,5,3,5,9,5,3,3,8
 UBCV,2022,S,BUSI,291,,951,Application of Statistics in Business,Martha Essak,57,76.4,78.0,68.0,87.0,98.0,37.0,3,0,3,3,5,5,5,5,9,9,10
 UBCV,2022,S,BUSI,291,,971,Application of Statistics in Business,Martha Essak,38,79.1,82.0,73.0,90.0,96.0,39.0,2,0,1,1,3,1,5,4,5,5,11
 UBCV,2022,S,BUSI,293,,921,Introductory Financial Accounting,Megan Hamilton,20,76.2,80.0,67.0,88.5,98.0,43.0,2,0,0,1,2,3,0,2,2,3,5
@@ -6,11 +11,16 @@ UBCV,2022,S,BUSI,293,,951,Introductory Financial Accounting,Peter Norwood,43,73.
 UBCV,2022,S,BUSI,294,,921,Introductory Management Accounting,Erin Egeland,36,80.7,84.0,72.8,87.3,96.0,57.0,0,0,1,2,1,4,3,2,7,9,7
 UBCV,2022,S,BUSI,294,,971,Introductory Management Accounting,Aziz Rajwani,10,61.6,62.5,50.0,69.0,85.0,45.0,1,3,0,2,1,1,1,0,0,1,0
 UBCV,2022,S,BUSI,295,,951,Managerial Economics,Alym Amlani,69,77.6,80.0,72.0,85.0,96.0,43.0,1,1,1,2,5,4,10,10,14,11,10
+UBCV,2022,S,BUSI,300,,921,Urban and Real Estate Economics,,45,61.6,69.0,60.0,78.0,89.0,0.0,10,0,0,3,6,8,5,4,4,5,0
+UBCV,2022,S,BUSI,330,,921,Foundations of Real Estate Appraisal,,197,65.9,74.0,66.0,81.0,96.0,0.0,34,0,0,12,8,20,33,28,37,17,8
+UBCV,2022,S,BUSI,331,,921,Real Estate Investment Analysis and Advanced Income Appraisal,,57,61.7,69.0,60.0,78.0,89.0,0.0,13,0,0,5,9,6,8,6,8,2,0
 UBCV,2022,S,BUSI,335,,921,Information Systems,Alym Amlani,30,71.0,73.5,61.0,83.0,92.0,27.0,2,2,3,1,3,2,3,4,3,3,4
 UBCV,2022,S,BUSI,335,,971,Information Systems,Alym Amlani,37,71.5,73.0,65.0,80.0,94.0,47.0,1,4,0,2,4,6,5,5,5,3,2
+UBCV,2022,S,BUSI,344,,921,Statistical and Computer Applications in Valuation,,19,68.3,76.0,66.5,80.0,87.0,2.0,2,0,0,2,2,2,1,4,3,3,0
+UBCV,2022,S,BUSI,352,,921,Case Studies in Residential Valuation,,29,62.8,73.0,61.0,82.0,94.0,0.0,7,0,0,1,2,2,4,2,8,2,1
 UBCV,2022,S,BUSI,353,,921,Intermediate Financial Accounting I,Douglas Yee,32,72.1,77.0,60.0,90.0,99.0,29.0,5,0,1,4,2,2,2,0,3,4,9
 UBCV,2022,S,BUSI,353,,971,Intermediate Financial Accounting I,Douglas Yee,55,73.7,74.0,60.5,88.0,99.0,33.0,4,4,2,6,4,4,4,4,3,7,13
-UBCV,2022,S,BUSI,354,,921,Cost Accounting,Alina Mcguinness,22,73.0,75.0,67.3,77.8,96.0,51.0,0,1,0,2,3,4,4,3,3,1,1
+UBCV,2022,S,BUSI,354,,921,Cost Accounting,Alina McGuinness,22,73.0,75.0,67.3,77.8,96.0,51.0,0,1,0,2,3,4,4,3,3,1,1
 UBCV,2022,S,BUSI,354,,971,Cost Accounting,Richard Wong,55,75.8,76.0,70.5,83.0,96.0,39.0,2,0,1,4,2,5,10,6,12,9,4
 UBCV,2022,S,BUSI,355,,921,Introduction to Income Tax,Richard Wong,42,75.6,76.5,70.5,86.5,97.0,40.0,4,0,1,2,1,3,6,8,4,6,7
 UBCV,2022,S,BUSI,355,,971,Introduction to Income Tax,Grant Lee,19,73.4,70.0,65.0,83.0,94.0,55.0,0,0,2,1,5,2,1,0,4,1,3
@@ -18,11 +28,19 @@ UBCV,2022,S,BUSI,370,,921,Business Finance,Douglas Mowbray,59,73.1,72.0,64.5,81.
 UBCV,2022,S,BUSI,370,,971,Business Finance,Aziz Rajwani,18,61.4,60.0,39.8,78.0,95.0,35.0,6,1,1,2,0,1,2,0,2,0,3
 UBCV,2022,S,BUSI,393,,921,Introduction to Business Law,Devin Kanhai,22,78.0,78.5,71.5,84.8,90.0,58.0,0,0,1,0,1,4,2,4,4,5,1
 UBCV,2022,S,BUSI,393,,951,Introduction to Business Law,Barbara Cox,32,60.3,64.0,51.0,76.0,90.0,9.0,8,1,0,4,7,2,1,3,3,1,2
+UBCV,2022,S,BUSI,398,,921,Residental Property Guided Case Study,,14,58.1,75.5,27.8,81.8,91.0,0.0,5,0,0,0,1,1,0,0,5,1,1
+UBCV,2022,S,BUSI,400,,921,Residential Property Analysis,,69,78.0,83.0,78.0,87.0,95.0,4.0,5,0,0,0,0,2,5,10,22,18,7
+UBCV,2022,S,BUSI,401,,921,Commercial Property Analysis,,56,71.4,77.0,71.3,80.3,92.0,0.0,5,0,0,0,3,6,7,18,9,7,1
+UBCV,2022,S,BUSI,433,,921,Real Estate Business,,17,63.4,71.0,65.0,74.0,83.0,0.0,2,0,0,2,3,2,4,2,2,0,0
+UBCV,2022,S,BUSI,442,,921,Case Studies in Appraisal I,,39,74.9,81.0,75.5,85.0,89.0,0.0,3,0,0,1,2,1,3,9,9,11,0
+UBCV,2022,S,BUSI,443,,921,Assessment Administration,,20,79.2,80.5,76.0,83.3,89.0,62.0,0,0,0,1,0,2,1,5,8,3,0
 UBCV,2022,S,BUSI,450,,921,Intermediate Financial Accounting II,Robert Brian Bruce,45,78.7,80.0,74.0,86.0,97.0,51.0,0,1,0,2,3,1,9,6,8,9,6
 UBCV,2022,S,BUSI,450,,971,Intermediate Financial Accounting II,Robert Brian Bruce,46,79.1,79.0,72.0,87.0,96.0,60.0,0,0,0,3,3,5,6,6,7,7,9
+UBCV,2022,S,BUSI,452,,921,Case Studies in Appraisal II,,43,73.2,80.0,77.0,87.5,98.0,0.0,5,0,0,0,1,1,1,10,11,6,8
 UBCV,2022,S,BUSI,453,,921,Advanced Financial Accounting,Persis Ahrestani,60,76.5,76.5,67.8,87.0,97.0,53.0,0,1,1,9,4,6,7,8,5,8,11
 UBCV,2022,S,BUSI,453,,971,Advanced Financial Accounting,Persis Ahrestani,32,75.6,75.0,64.5,82.5,97.0,55.0,0,0,1,7,3,3,2,4,5,1,6
 UBCV,2022,S,BUSI,455,,921,Principles of Auditing,Mary Chong,61,76.4,76.0,68.0,85.0,99.0,55.0,0,0,1,6,8,7,3,8,12,9,7
 UBCV,2022,S,BUSI,455,,971,Principles of Auditing,Douglas Yee,41,76.9,80.0,72.0,85.0,97.0,53.0,0,1,1,2,3,3,7,3,10,7,4
 UBCV,2022,S,BUSI,493,,921,Strategic Management in Business,Megan Hamilton,32,75.5,77.5,65.8,83.0,95.0,60.0,0,0,0,6,5,0,3,4,8,3,3
 UBCV,2022,S,BUSI,493,,971,Strategic Management in Business,Jaisun Garcha,33,79.4,80.0,76.0,82.0,92.0,68.0,0,0,0,0,0,2,5,8,12,5,1
+UBCV,2022,S,BUSI,499,,921,Income Property Guided Case Study,,25,73.2,80.0,74.0,86.0,89.0,0.0,2,0,0,2,0,0,5,3,5,8,0

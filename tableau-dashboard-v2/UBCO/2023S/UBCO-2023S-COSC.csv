@@ -1,0 +1,11 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2023,S,COSC,111,,001,Computer Programming I,James Nastos,68,65.8,69.5,50.0,82.0,99.0,1.0,11,14,1,1,6,3,4,9,7,4,8
+UBCO,2023,S,COSC,121,,101,Computer Programming II,Ken Chidlow,77,76.5,79.0,69.0,89.0,100.0,28.0,9,1,3,2,3,6,8,7,9,10,19
+UBCO,2023,S,COSC,122,,001,Computer Fluency,James Nastos,34,77.8,79.5,72.3,89.5,98.0,40.0,1,1,1,3,2,0,4,5,5,3,9
+UBCO,2023,S,COSC,221,,101,Introduction to Discrete Structures,Stephen Brown,32,79.8,83.0,73.5,93.3,98.0,0.0,1,1,2,0,0,3,3,3,4,4,11
+UBCO,2023,S,COSC,222,,001,Data Structures,Mohamed Shehata,53,74.7,75.0,70.0,82.0,97.0,22.0,1,0,3,4,2,8,9,5,12,6,3
+UBCO,2023,S,COSC,304,,101,Introduction to Databases,Mostafa Mohamed,52,92.1,94.5,89.8,99.0,100.0,54.0,0,1,0,1,0,0,0,2,5,4,39
+UBCO,2023,S,COSC,322,,001,Introduction to Artificial Intelligence,Mostafa Mohamed,31,84.9,90.0,81.5,96.0,100.0,25.0,2,0,0,1,1,0,2,0,3,6,16
+UBCO,2023,S,COSC,328,,101,Introduction to Networks,Scott Fazackerley,32,71.8,79.0,59.5,81.3,98.0,37.0,5,1,2,1,0,2,3,3,9,3,3
+UBCO,2023,S,COSC,360,,001,Web Programming,Scott Fazackerley,22,74.8,77.5,68.0,86.3,97.0,45.0,2,0,0,2,1,4,1,3,3,4,2
+UBCO,2023,S,COSC,499,,201,Capstone Software Engineering Project,Scott Fazackerley,39,85.0,90.0,76.0,97.0,100.0,60.0,0,0,0,5,2,1,1,6,0,3,21

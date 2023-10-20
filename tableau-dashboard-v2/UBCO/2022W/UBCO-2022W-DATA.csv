@@ -2,9 +2,9 @@ Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,M
 UBCO,2022,W,DATA,101,,001,Making Predictions with Data,Lengyi Han,100,74.6,80.5,67.0,88.0,100.0,8.0,10,2,2,8,5,7,6,3,21,15,21
 UBCO,2022,W,DATA,101,,002,Making Predictions with Data,Yas Yamin,56,71.1,73.5,62.0,84.5,95.0,25.0,7,2,2,5,4,6,3,5,8,5,9
 UBCO,2022,W,DATA,101,,101,Making Predictions with Data,Lengyi Han,136,69.7,73.5,63.0,83.3,99.0,0.0,14,5,6,11,10,15,15,14,16,18,12
-UBCO,2022,W,DATA,301,,101,Introduction to Data Analytics,Firas Moosvi,169,82.8,87.0,80.0,92.0,100.0,3.0,11,3,0,1,1,4,11,10,26,24,78
+UBCO,2022,W,DATA,301,,101,Introduction to Data Analytics,Firas Moosvi,167,83.5,88.0,81.0,92.0,100.0,23.0,9,3,0,1,1,4,11,10,26,24,78
 UBCO,2022,W,DATA,310,,101,Applied Regression Analysis,Paramjit Gill,11,67.2,70.0,62.0,76.0,85.0,30.0,1,0,1,1,2,1,1,2,0,2,0
-UBCO,2022,W,DATA,311,,201,Machine Learning,Irene Vrbik,85,70.6,72.0,64.0,85.0,96.0,0.0,9,4,4,3,11,10,7,8,6,14,9
+UBCO,2022,W,DATA,311,,201,Machine Learning,Irene Vrbik,85,70.3,72.0,64.0,85.0,96.0,0.0,9,4,4,3,11,10,7,8,6,14,9
 UBCO,2022,W,DATA,315,,101,Applied Time Series and Forecasting,Lengyi Han,26,73.4,78.0,64.8,83.5,100.0,0.0,2,0,0,4,2,1,0,6,5,2,4
 UBCO,2022,W,DATA,405,,001,Stochastic Modelling and Simulation,Yas Yamin,21,80.0,80.0,74.0,83.0,95.0,67.0,0,0,0,0,1,2,3,3,7,2,3
 UBCO,2022,W,DATA,407,,101,Sampling and Design,Paramjit Gill,24,64.9,68.0,55.0,76.0,91.0,10.0,2,3,4,0,1,3,2,4,1,2,2
@@ -29,6 +29,7 @@ UBCO,2022,W,DATA,572,,001,Supervised Learning,Jeffrey Andrews,30,91.1,91.5,88.3,
 UBCO,2022,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Jeffrey Andrews,30,93.6,94.0,92.0,96.0,99.0,78.0,0,0,0,0,0,0,0,1,0,2,27
 UBCO,2022,W,DATA,580,,001,Modelling and Simulation I,John Braun;Shabnam Fani,30,93.6,94.5,92.0,96.0,99.0,76.0,0,0,0,0,0,0,0,1,0,3,26
 UBCO,2022,W,DATA,581,,101,Modelling and Simulation II,John Braun;Ladan Tazik,30,97.6,97.5,96.0,99.0,100.0,95.0,0,0,0,0,0,0,0,0,0,0,30
+UBCO,2022,W,DATA,582,,101,Bayesian Inference,Irene Vrbik,30,84.3,85.5,81.0,89.8,95.0,65.0,0,0,0,0,1,2,0,3,7,9,8
 UBCO,2022,W,DATA,583,,101,Advanced Predictive Modelling,John Thompson,30,91.0,91.5,89.0,93.0,97.0,85.0,0,0,0,0,0,0,0,0,0,10,20
 UBCO,2022,W,DATA,585,,101,Optimization,Heinz Bauschke,30,96.9,97.0,96.0,98.0,100.0,92.0,0,0,0,0,0,0,0,0,0,0,30
 UBCO,2022,W,DATA,586,,101,Advanced Machine Learning,Xinrui Cui,30,95.6,96.0,95.0,96.0,99.0,91.0,0,0,0,0,0,0,0,0,0,0,30

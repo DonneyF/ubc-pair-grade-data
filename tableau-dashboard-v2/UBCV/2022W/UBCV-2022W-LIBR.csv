@@ -12,8 +12,8 @@ UBCV,2022,W,LIBR,514,J,002,Topics in the Bibliographic Control of Information,Al
 UBCV,2022,W,LIBR,514,K,002,Topics in the Bibliographic Control of Information,Danielle Alves Batista,15,88.1,89.0,87.0,91.0,92.0,77.0,0,0,0,0,0,0,0,1,1,7,6
 UBCV,2022,W,LIBR,514,L,001,Topics in the Bibliographic Control of Information,Julia Bullard,25,83.6,84.0,81.0,87.0,92.0,75.0,0,0,0,0,0,0,1,4,9,9,2
 UBCV,2022,W,LIBR,516,,001,Information Asset Management,Alan Doyle,29,87.1,87.0,86.0,88.0,91.0,83.0,0,0,0,0,0,0,0,0,4,22,3
-UBCV,2022,W,LIBR,520,,002,Survey of Literature and Other Materials for Children,Teresa Prendergast,27,87.5,88.0,87.0,89.0,92.0,81.0,0,0,0,0,0,0,0,0,5,16,6
-UBCV,2022,W,LIBR,526,,002,Literature and Other Materials for Young Adults,Eric Meyers,23,87.3,88.0,87.0,89.5,91.0,76.0,0,0,0,0,0,0,0,1,2,14,6
+UBCV,2022,W,LIBR,520,,002,Survey of Literature and Other Materials for Children,Teresa Prendergast,28,85.5,88.0,87.0,89.0,92.0,33.0,1,0,0,0,0,0,0,0,5,16,6
+UBCV,2022,W,LIBR,526,,002,Literature and Other Materials for Young Adults,Eric Meyers,25,83.9,88.0,86.0,89.0,91.0,31.0,2,0,0,0,0,0,0,1,2,14,6
 UBCV,2022,W,LIBR,527,,001,Services for Children,Teresa Prendergast,16,87.9,89.0,86.8,90.0,91.0,84.0,0,0,0,0,0,0,0,0,3,8,5
 UBCV,2022,W,LIBR,533,,002,Legal Information Sources and Services,Carolyn Petrie,16,86.3,87.0,83.8,89.3,92.0,76.0,0,0,0,0,0,0,0,1,4,7,4
 UBCV,2022,W,LIBR,534,,001,Health Information Sources and Services,Vanessa Kitchin;Colleen Pawliuk,28,85.5,86.0,81.8,91.0,94.0,71.0,0,0,0,0,0,1,2,2,6,7,10
@@ -23,10 +23,10 @@ UBCV,2022,W,LIBR,541,,001,New Media for Children and Young Adults,Eric Meyers,19
 UBCV,2022,W,LIBR,553,,002,Understanding Information Users in Diverse Environments,Heather O'Brien,9,86.3,87.0,84.0,87.0,92.0,82.0,0,0,0,0,0,0,0,0,3,5,1
 UBCV,2022,W,LIBR,554,,001,Database Design,Richard Arias Hernandez,15,90.3,92.0,88.5,95.0,98.0,74.0,0,0,0,0,0,0,1,1,1,2,10
 UBCV,2022,W,LIBR,554,,002,Database Design,Fatemeh Salehian Kia,15,92.2,93.0,90.5,96.0,99.0,77.0,0,0,0,0,0,0,0,1,0,2,12
-UBCV,2022,W,LIBR,555,,001,Information Design I - Systems,Richard Kopak,29,83.5,86.0,84.0,88.0,89.0,17.0,1,0,0,0,0,0,0,0,8,20,0
+UBCV,2022,W,LIBR,555,,001,Information Design I - Systems,Richard Kopak,29,85.8,86.0,84.0,88.0,89.0,83.0,0,0,0,0,0,0,0,0,9,20,0
 UBCV,2022,W,LIBR,556,,002,Information Design II - Documents,Jessica Lee,22,84.0,84.5,81.3,86.0,91.0,78.0,0,0,0,0,0,0,0,1,10,9,2
 UBCV,2022,W,LIBR,559,C,001,Topics in Computer-Based Information Systems,Fatemeh Salehian Kia,15,89.2,94.0,87.5,95.5,100.0,58.0,1,0,0,0,0,0,1,1,1,0,11
-UBCV,2022,W,LIBR,559,E,002,Topics in Computer-Based Information Systems,Olivier St-Cyr,17,85.5,85.0,85.0,86.0,90.0,81.0,0,0,0,0,0,0,0,0,4,11,2
+UBCV,2022,W,LIBR,559,E,002,Topics in Computer-Based Information Systems,Olivier st-Cyr,17,85.5,85.0,85.0,86.0,90.0,81.0,0,0,0,0,0,0,0,0,4,11,2
 UBCV,2022,W,LIBR,559,L,001,Topics in Computer-Based Information Systems,Heather O'Brien,26,84.4,86.5,85.0,88.0,89.0,36.0,1,0,0,0,0,0,0,0,5,20,0
 UBCV,2022,W,LIBR,559,T,002,Topics in Computer-Based Information Systems,Quinn Dupont,9,86.8,88.0,87.0,88.0,91.0,82.0,0,0,0,0,0,0,0,0,2,6,1
 UBCV,2022,W,LIBR,561,,002,Information Policy,Lisa Nathan,18,84.9,85.0,84.0,85.0,88.0,83.0,0,0,0,0,0,0,0,0,6,12,0
@@ -36,7 +36,8 @@ UBCV,2022,W,LIBR,570,,002,Marketing in Information Organizations,Alyssa Victoria
 UBCV,2022,W,LIBR,571,,002,Human Resources Management,Julie Iannacone;Christine Middlemass,25,86.9,87.0,84.0,89.0,94.0,78.0,0,0,0,0,0,0,0,1,6,12,6
 UBCV,2022,W,LIBR,576,,002,Public Libraries,Jorge Cardenas Garcia,36,85.5,86.0,85.0,87.0,90.0,80.0,0,0,0,0,0,0,0,0,8,27,1
 UBCV,2022,W,LIBR,579,D,002,Topics in the Management of Libraries and Archives,Melissa Salrin,23,86.0,86.0,85.5,87.0,88.0,83.0,0,0,0,0,0,0,0,0,1,22,0
-UBCV,2022,W,LIBR,580,,002,Collection Management,Teresa Prendergast,30,87.3,87.0,86.0,89.0,90.0,84.0,0,0,0,0,0,0,0,0,2,26,2
-UBCV,2022,W,LIBR,580,,004,Collection Management,Teresa Prendergast,19,86.8,87.0,85.5,88.0,89.0,83.0,0,0,0,0,0,0,0,0,1,18,0
+UBCV,2022,W,LIBR,580,,002,Collection Management,Teresa Prendergast,31,85.3,87.0,86.0,89.0,90.0,26.0,1,0,0,0,0,0,0,0,2,26,2
+UBCV,2022,W,LIBR,580,,004,Collection Management,Teresa Prendergast,20,84.2,86.5,85.0,88.0,89.0,34.0,1,0,0,0,0,0,0,0,1,18,0
 UBCV,2022,W,LIBR,582,,002,Digital Image and Text Collections,Richard Arias Hernandez,21,90.6,91.0,89.0,92.0,95.0,84.0,0,0,0,0,0,0,0,0,2,4,15
 UBCV,2022,W,LIBR,587,,002,Preservation,Tara Fraser,12,84.4,84.0,80.8,88.3,91.0,78.0,0,0,0,0,0,0,0,1,6,3,2
+UBCV,2022,W,LIBR,597,,001,Research Collaboration,,6,90.2,90.0,90.0,90.0,96.0,85.0,0,0,0,0,0,0,0,0,0,1,5

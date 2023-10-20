@@ -2,15 +2,15 @@ Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,M
 UBCO,2022,W,ENGR,303,,101,Engineering Project Management,Saeed Mohammadiun,260,73.9,74.0,66.0,83.0,100.0,28.0,18,3,10,12,32,39,26,28,31,28,33
 UBCO,2022,W,ENGR,305,,201,Engineering Economic Analysis,Suliman Gargoum,283,72.6,73.0,66.0,80.0,98.0,43.0,18,0,12,18,35,40,39,36,40,26,19
 UBCO,2022,W,ENGR,310,,101,Fluid Mechanics II,Chun-Sheng Wang,167,75.9,77.0,71.0,83.0,97.0,0.0,1,2,1,8,11,23,35,30,24,23,9
-UBCO,2022,W,ENGR,315,,201,Systems and Control,Klaske Van Heusden,62,54.1,55.0,43.3,69.5,98.0,1.0,28,2,7,6,2,5,3,2,2,0,5
-UBCO,2022,W,ENGR,315,,202,Systems and Control,Klaske Van Heusden,135,60.2,59.0,44.5,79.0,100.0,0.0,45,13,10,7,9,4,4,10,12,9,12
+UBCO,2022,W,ENGR,315,,201,Systems and Control,Klaske van Heusden,62,55.4,56.5,43.0,70.0,98.0,1.0,23,4,7,7,3,5,3,3,2,0,5
+UBCO,2022,W,ENGR,315,,202,Systems and Control,Klaske van Heusden,135,61.8,62.0,48.5,79.5,100.0,0.0,34,17,13,7,9,6,5,10,13,9,12
 UBCO,2022,W,ENGR,320,,201,Electromechanical Devices,Wilson Eberle,116,72.5,71.5,63.0,83.3,99.0,43.0,5,5,12,8,14,14,10,7,14,14,13
-UBCO,2022,W,ENGR,320,,202,Electromechanical Devices,Wilson Eberle,122,69.5,68.0,61.0,80.0,99.0,0.0,3,11,10,16,18,12,11,9,12,11,9
+UBCO,2022,W,ENGR,320,,202,Electromechanical Devices,Wilson Eberle,122,70.5,68.0,61.0,80.0,99.0,47.0,1,12,11,16,18,12,11,9,12,11,9
 UBCO,2022,W,ENGR,325,,101,Civil Engineering Materials,Sherif Osman,106,77.8,79.0,72.0,85.0,99.0,49.0,2,0,3,3,8,10,19,8,22,18,13
 UBCO,2022,W,ENGR,327,,101,Reinforced Concrete Design I,Ahmad Rteil,107,67.6,70.0,56.5,80.0,100.0,21.0,20,4,6,11,8,9,8,12,11,6,12
 UBCO,2022,W,ENGR,330,,201,Reliability and Risk Analysis for Civil Engineering,Qian Chen,101,81.4,82.0,74.0,90.0,100.0,56.0,0,0,4,5,2,8,12,9,18,16,27
-UBCO,2022,W,ENGR,331,,001,Infrastructure Management I,Solomon Tesfamariam,90,79.5,81.0,71.0,90.0,100.0,36.0,2,2,5,2,7,7,6,13,8,13,25
-UBCO,2022,W,ENGR,332,,201,Surveying and GIS Analysis,Mahmudur Fatmi,84,71.2,74.0,62.8,84.0,95.0,0.0,7,5,4,7,10,6,7,6,12,10,10
+UBCO,2022,W,ENGR,331,,001,Infrastructure Management I,Solomon Tesfamariam,90,79.7,81.0,71.0,90.0,100.0,43.0,2,2,5,2,7,6,6,14,8,13,25
+UBCO,2022,W,ENGR,332,,201,Surveying and GIS Analysis,Mahmudur Fatmi,84,71.8,74.0,63.0,84.3,95.0,0.0,6,5,4,7,10,6,7,6,12,10,11
 UBCO,2022,W,ENGR,335,,201,Transportation Engineering,Gordon Lovegrove,88,79.5,81.0,76.8,85.0,90.0,40.0,2,0,0,3,1,5,10,2,40,21,4
 UBCO,2022,W,ENGR,340,,101,Soil Mechanics,Sumi Siddiqua,82,76.5,78.0,71.0,83.0,96.0,50.0,0,1,4,8,3,8,7,12,22,11,6
 UBCO,2022,W,ENGR,341,,101,Engineering Hydrology,Peyman Yousefi,85,78.8,80.0,71.0,88.0,100.0,39.0,2,3,1,4,5,7,9,7,13,16,18
@@ -23,13 +23,13 @@ UBCO,2022,W,ENGR,359,,101,Microcomputer Engineering,Richard Klukas,84,65.9,65.0,
 UBCO,2022,W,ENGR,360,,101,Engineering Probability and Statistics.,Qurrat Ul Ain Nadeem,81,69.9,68.0,60.0,81.0,98.0,43.0,5,5,8,10,10,4,7,7,7,8,10
 UBCO,2022,W,ENGR,361,,201,Signals and Communication Systems,Tolulope Adesina,62,55.9,56.0,50.0,62.5,81.0,28.0,11,19,9,8,5,3,5,1,1,0,0
 UBCO,2022,W,ENGR,362,,102,Digital Signal Processing I,Christopher Collier,76,67.3,70.0,56.0,80.0,100.0,0.0,11,6,10,3,4,9,6,6,8,6,7
-UBCO,2022,W,ENGR,365,,102,Engineering Electromagnetics,Jonathan Holzman,57,64.4,68.0,52.0,76.0,94.0,0.0,13,2,5,4,3,8,4,7,3,3,5
+UBCO,2022,W,ENGR,365,,102,Engineering Electromagnetics,Jonathan Holzman,57,65.8,68.0,57.0,77.0,94.0,32.0,12,2,5,4,3,8,4,7,4,3,5
 UBCO,2022,W,ENGR,375,,201,Energy System Design,Mohammad Arjmand,143,67.8,68.0,58.0,76.0,100.0,20.0,5,17,17,17,10,19,21,11,10,4,12
 UBCO,2022,W,ENGR,376,,101,Materials Science II,Ray Taheri-Ardebili,188,64.7,65.0,55.0,75.0,96.0,28.0,18,27,32,12,16,17,20,15,14,9,8
 UBCO,2022,W,ENGR,377,,101,Manufacturing Processes,Dimitry Sediako,136,74.4,74.0,70.8,82.0,95.0,47.0,6,2,3,4,8,18,29,23,24,12,7
-UBCO,2022,W,ENGR,380,,201,Design of Machine Elements,Seach Chyr Goh,156,74.9,78.0,67.0,86.0,98.0,2.0,7,3,5,12,14,11,17,17,26,28,16
+UBCO,2022,W,ENGR,380,,201,Design of Machine Elements,Seach Chyr Goh,156,75.2,78.0,67.0,86.0,98.0,2.0,6,3,5,12,14,11,17,17,26,29,16
 UBCO,2022,W,ENGR,381,,101,Kinematics and Dynamics of Machinery,Rudolf Seethaler,184,73.1,75.0,65.0,82.0,97.0,0.0,10,11,9,10,10,17,29,21,34,18,15
-UBCO,2022,W,ENGR,385,,102,Heat Transfer Applications,Elizabeth Trudel,144,65.9,66.0,54.8,78.0,99.0,0.0,30,6,7,26,5,13,13,12,10,9,13
+UBCO,2022,W,ENGR,385,,102,Heat Transfer Applications,Elizabeth Trudel,147,66.1,65.0,54.5,78.0,99.0,10.0,31,6,7,26,7,13,13,12,10,9,13
 UBCO,2022,W,ENGR,387,,101,Vibration of Mechanical Systems,Milad Ramezankhani,159,78.0,79.0,68.5,87.5,98.0,30.0,1,6,7,8,12,11,22,13,16,30,33
 UBCO,2022,W,ENGR,401,,001,Bioinstrumentation,Sabine Weyand,45,77.6,77.0,71.0,85.0,94.0,59.0,0,0,1,2,2,8,7,7,4,8,6
 UBCO,2022,W,ENGR,402,,001,Biotechnology: Fundamentals and Applications,Negin Kazemian,52,87.5,88.0,84.8,94.0,99.0,60.0,0,0,0,2,0,0,3,3,5,17,22
@@ -68,9 +68,9 @@ UBCO,2022,W,ENGR,454,,101,Motor Drive Systems,Liwei Wang,26,78.0,80.0,72.3,85.3,
 UBCO,2022,W,ENGR,455,,101,Power System Analysis and Design,Rafiya Hossain,27,84.3,85.0,80.0,90.5,96.0,57.0,0,0,1,0,0,0,2,3,5,7,9
 UBCO,2022,W,ENGR,458,,201,Power Electronics,Wilson Eberle,62,75.7,78.5,66.3,87.0,99.0,38.0,2,3,4,5,5,4,4,5,10,9,11
 UBCO,2022,W,ENGR,460,,201,Tools and Applications in Environmental and Engineering Microbiology,Alyse Hawley,10,89.0,88.0,85.5,95.0,95.0,80.0,0,0,0,0,0,0,0,0,2,4,4
-UBCO,2022,W,ENGR,461,,101,Digital Communications,Md Jahangir Hossain,11,81.8,86.0,75.5,90.0,92.0,65.0,0,0,0,0,2,1,0,0,2,2,4
+UBCO,2022,W,ENGR,461,,101,Digital Communications,M.D. Jahangir Hossain,11,81.8,86.0,75.5,90.0,92.0,65.0,0,0,0,0,2,1,0,0,2,2,4
 UBCO,2022,W,ENGR,466,,001,Introduction to VLSI Systems,Mohammad Hossein Zarifi,20,87.4,90.0,82.3,95.8,100.0,50.0,0,1,0,0,0,0,1,2,3,2,11
-UBCO,2022,W,ENGR,467,,001,Real-Time and Embedded System Design,Montana Reid,43,78.2,80.0,70.0,87.0,98.0,47.0,1,0,0,3,4,5,4,4,6,9,7
+UBCO,2022,W,ENGR,467,,001,Real-Time and Embedded System Design,Montana Reid,43,78.5,80.0,70.0,87.0,98.0,59.0,0,0,1,3,4,5,4,4,6,9,7
 UBCO,2022,W,ENGR,469,,101,Polymer Engineering,Mohammad Arjmand,33,77.5,80.0,70.0,85.0,97.0,55.0,0,0,1,3,2,4,2,4,7,5,5
 UBCO,2022,W,ENGR,471,,001,Radio Frequency Integrated Circuits,Thomas Johnson,9,77.6,79.0,67.0,86.0,98.0,61.0,0,0,0,1,2,1,0,1,1,1,2
 UBCO,2022,W,ENGR,472,,001,Fibre Optics and Photonics,Christopher Collier,14,83.4,82.0,79.5,92.0,99.0,65.0,0,0,0,0,1,1,1,1,4,1,5
@@ -122,5 +122,6 @@ UBCO,2022,W,ENGR,582,,001,Finite Element Method,Hadi Mohammadi,6,89.5,91.0,86.5,
 UBCO,2022,W,ENGR,586,,201,Robot Modelling and Control,Mehran Shirazi,38,83.8,85.0,76.0,93.5,100.0,60.0,0,0,0,2,0,4,3,3,4,7,15
 UBCO,2022,W,ENGR,587,,001,Digital Control,Mehran Shirazi,22,83.3,87.0,75.8,93.0,98.0,60.0,0,0,0,3,1,1,1,2,0,4,10
 UBCO,2022,W,ENGR,589,,101,Multicriteria Optimization and Design of Experiments,Abbas Sadeghzadeh Milani,46,91.5,91.0,90.0,93.0,97.0,84.0,0,0,0,0,0,0,0,0,1,4,41
+UBCO,2022,W,ENGR,597,,001,Engineering Project,Rudolf Seethaler,15,88.7,90.0,88.0,90.0,97.0,80.0,0,0,0,0,0,0,0,0,2,2,11
 UBCO,2022,W,ENGR,598,D,001,Topics in Engineering,Betsabeh Madani,19,86.6,89.0,85.5,91.0,96.0,70.0,0,0,0,0,0,1,0,3,1,7,7
 UBCO,2022,W,ENGR,598,S,001,Topics in Engineering,Dwayne Tannant,16,84.2,86.5,80.0,90.0,97.0,70.0,0,0,0,0,0,3,1,0,3,4,5

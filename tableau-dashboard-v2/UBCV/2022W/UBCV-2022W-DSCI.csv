@@ -1,13 +1,13 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2022,W,DSCI,100,,001,Introduction to Data Science,Le Quan Nguyen,176,83.1,86.0,79.0,90.0,97.0,15.0,3,0,3,4,4,6,10,16,31,50,49
-UBCV,2022,W,DSCI,100,,002,Introduction to Data Science,Daniel Chen;Melissa Lee,173,80.3,82.0,77.0,87.0,97.0,0.0,3,0,1,3,8,8,12,22,54,28,34
-UBCV,2022,W,DSCI,100,,004,Introduction to Data Science,Trevor Campbell;Le Quan Nguyen,177,82.1,84.0,78.0,89.0,97.0,50.0,0,4,3,4,2,9,11,18,46,39,41
+UBCV,2022,W,DSCI,100,,001,Introduction to Data Science,Le Quan Nguyen,175,83.5,86.0,79.0,90.0,97.0,42.0,2,0,3,4,4,6,10,16,31,50,49
+UBCV,2022,W,DSCI,100,,002,Introduction to Data Science,Daniel Chen;Melissa Lee,173,80.5,82.0,77.0,87.0,97.0,0.0,3,0,1,2,8,8,12,21,55,28,35
+UBCV,2022,W,DSCI,100,,004,Introduction to Data Science,Trevor Campbell;Le Quan Nguyen,177,82.1,84.0,78.0,89.0,97.0,50.0,0,3,3,4,3,9,11,18,46,39,41
 UBCV,2022,W,DSCI,100,,005,Introduction to Data Science,Rodolfo Lourenzutti,116,83.6,86.0,77.8,91.0,98.0,45.0,1,0,1,1,1,7,12,10,17,22,44
 UBCV,2022,W,DSCI,100,,006,Introduction to Data Science,Lasantha Premarathna Wijendra Acharige,174,81.4,83.0,76.0,88.0,96.0,31.0,1,1,2,2,3,16,13,19,47,37,33
 UBCV,2022,W,DSCI,100,,007,Introduction to Data Science,Anthony-Alexander Christidis,176,82.9,84.0,79.0,89.0,97.0,56.0,0,0,3,4,9,5,6,19,43,47,40
-UBCV,2022,W,DSCI,100,,008,Introduction to Data Science,Le Quan Nguyen;Joel Ostblom,167,79.0,82.0,73.0,87.0,95.0,14.0,3,1,5,5,8,14,13,15,41,37,25
+UBCV,2022,W,DSCI,100,,008,Introduction to Data Science,Le Quan Nguyen;Joel Ostblom,166,79.3,82.0,73.3,87.0,95.0,14.0,2,1,5,5,8,14,13,15,41,37,25
 UBCV,2022,W,DSCI,100,,009,Introduction to Data Science,Daniel Chen;Le Quan Nguyen,174,80.8,82.5,76.0,88.0,97.0,14.0,3,2,1,5,5,12,15,19,37,37,38
-UBCV,2022,W,DSCI,100,,100,Introduction to Data Science,Lindsey Heagy;Melissa Lee;Rodolfo Lourenzutti,68,81.3,85.0,78.0,89.0,100.0,36.0,3,0,3,2,0,2,3,9,7,24,15
+UBCV,2022,W,DSCI,100,,100,Introduction to Data Science,Lindsey Heagy;Melissa Lee;Rodolfo Lourenzutti,67,81.9,85.0,78.5,89.0,100.0,36.0,2,0,3,2,0,2,3,9,7,24,15
 UBCV,2022,W,DSCI,310,,101,Reproducible and Trustworthy Workflows for Data Science,Daniel Chen,57,82.2,84.0,79.0,90.0,97.0,0.0,2,1,0,0,0,1,3,8,15,12,15
 UBCV,2022,W,DSCI,320,,201,Visualization for Data Science,Oluwakemi Ola;Joel Ostblom,41,80.4,84.0,79.0,86.0,91.0,8.0,1,0,0,0,1,1,3,7,12,13,3
 UBCV,2022,W,DSCI,511,,001,Programming for Data Science,Arman Seyed-Ahmadi,115,92.4,94.0,90.0,96.0,99.0,73.0,0,0,0,0,0,0,1,4,5,16,89
@@ -38,3 +38,4 @@ UBCV,2022,W,DSCI,572,,002,Supervised Learning II,Miikka Pietari Silfverberg,34,9
 UBCV,2022,W,DSCI,573,,001,Feature and Model Selection,Varada Kolhatkar;Joel Ostblom,111,87.7,89.0,83.0,93.0,97.0,70.0,0,0,0,0,0,2,3,9,20,23,54
 UBCV,2022,W,DSCI,574,,001,Spatial and Temporal Models,Le Quan Nguyen,78,92.3,93.0,90.0,95.0,99.0,83.0,0,0,0,0,0,0,0,0,3,16,59
 UBCV,2022,W,DSCI,575,,001,Advanced Machine Learning,Varada Kolhatkar,78,90.0,92.0,87.0,94.8,99.0,67.0,0,0,0,0,1,1,3,1,8,14,50
+UBCV,2022,W,DSCI,591,,001,Capstone Project,Tomas Beuzen;Daniel Chen;Maria Florencia D' Andrea;Yulia Egorova;Gittu George;Simon Goring;Varada Kolhatkar;Rodolfo Lourenzutti;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis,78,89.2,91.0,88.0,93.0,96.0,52.0,1,0,0,0,0,1,1,0,9,17,49
