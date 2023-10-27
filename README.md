@@ -53,4 +53,7 @@ These are new observed changes compared to the previous Tableau Dashboard:
   - The field `Enrolled` has been renamed/changed to `Reported` for more clarity.
   - Lower precision of grade averages and statistics to just one decimal place.
 
+Manual overrides:
+  - A fictitious `UBCV-2022W-BUSI-398-003` which is a second half of `UBCV-2022W-BUSI-398-001` was created since the `001` section had double entries from a typo in the title. This error is preserved because certain statistics cannot be aggregated.
+
 Similar to before, missing grade entries are filled where possible.
