@@ -1,12 +1,12 @@
 # UBC PAIR Grade Data
 
-This repo contains CSV data of grade distribution data from UBC PAIR for each campus, each year session, and each course code.
+This repo contains CSV data of grade distribution data from UBC PAIR for each campus, each year session, and each subject.
 
 Data Source | Last Updated
 --- | ---
 [PAIR Reports](https://webprd01.pair.ubc.ca/reports/welcome.action) | June 2019
 [Tableau Dashboard](https://reports.im.it.ubc.ca/#/site/Learner/views/GradeDistributionReport/GradeDistributionReport?:iid=1) | September 2022
-[Tableau Dashboard v2](http://reports.im.it.ubc.ca/t/PAIR/views/GradesDistribution/GradesDistribution) | October 2023
+[Tableau Dashboard v2](http://reports.im.it.ubc.ca/t/PAIR/views/GradesDistribution/GradesDistribution) | October 2024
 
 ## Description
 ### PAIR Reports (? - 2019)
