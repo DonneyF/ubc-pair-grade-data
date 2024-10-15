@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2023,W,DSCI,100,,002,Introduction to Data Science,Hoi Yin Eugenia Yu,179,77.2,80.0,72.0,86.0,96.0,19.0,5,5,6,7,6,12,20,15,42,37,17
+UBCV,2023,W,DSCI,100,,003,Introduction to Data Science,Yitong Liu,176,81.6,84.0,77.5,90.0,97.0,0.0,4,1,2,6,5,5,12,20,31,40,45
+UBCV,2023,W,DSCI,100,,004,Introduction to Data Science,Anthony-Alexander Christidis,180,79.2,81.0,75.0,87.0,98.0,18.0,5,3,5,3,6,10,19,19,37,35,31
+UBCV,2023,W,DSCI,100,,005,Introduction to Data Science,Katie Burak,146,71.4,73.5,64.3,82.8,94.0,10.0,12,4,9,7,15,13,16,15,25,21,5
+UBCV,2023,W,DSCI,100,,006,Introduction to Data Science,Trevor Campbell,174,73.3,77.0,67.0,83.3,93.0,10.0,10,9,2,9,13,17,9,38,25,28,8
+UBCV,2023,W,DSCI,100,,007,Introduction to Data Science,Eldad Haber;Lindsey Heagy;Yitong Liu,163,76.1,78.0,69.0,85.0,98.0,0.0,5,3,3,6,11,19,15,25,25,26,18
+UBCV,2023,W,DSCI,100,,008,Introduction to Data Science,Vivian Meng,177,78.8,82.0,73.0,89.0,96.0,8.0,6,4,1,9,10,9,13,18,33,39,31
+UBCV,2023,W,DSCI,100,,009,Introduction to Data Science,Daniel Chen,180,83.0,86.0,77.0,91.0,100.0,20.0,4,1,1,2,8,3,13,25,15,45,58
+UBCV,2023,W,DSCI,100,,010,Introduction to Data Science,Daniel Chen,147,73.5,76.0,66.0,85.0,96.0,10.0,7,6,10,7,10,13,16,19,18,28,11
+UBCV,2023,W,DSCI,100,,100,Introduction to Data Science,Eldad Haber;Lindsey Heagy,67,81.4,88.0,76.0,91.0,98.0,8.0,3,0,0,1,4,6,2,4,8,14,23
+UBCV,2023,W,DSCI,100,,101,Introduction to Data Science,Joel Ostblom,149,79.9,83.0,74.8,88.0,96.0,27.0,4,1,2,6,5,10,13,20,22,39,26
+UBCV,2023,W,DSCI,310,,101,Reproducible and Trustworthy Workflows for Data Science,Tiffany Timbers,70,83.1,85.0,80.0,88.0,96.0,40.0,1,0,0,1,2,4,1,7,18,22,14
+UBCV,2023,W,DSCI,320,,101,Visualization for Data Science,Oluwakemi Ola,70,79.8,79.5,74.0,87.0,93.0,67.0,0,0,0,0,2,8,12,13,14,13,8
+UBCV,2023,W,DSCI,430,,101,"Fairness, Accountability, Transparency and Ethics (FATE) in Data Science",Giulia Toti,36,87.7,90.0,84.0,93.0,99.0,60.0,0,0,0,1,0,0,2,4,2,6,21
+UBCV,2023,W,DSCI,511,,001,Programming for Data Science,Le Quan Nguyen,125,90.8,93.0,88.0,95.0,100.0,60.0,0,0,0,1,1,0,3,4,8,23,85
+UBCV,2023,W,DSCI,512,,001,Algorithms and Data Structures,Gittu George;Jordan Schalm,91,88.2,89.0,84.0,92.8,99.0,67.0,0,0,0,0,2,0,2,3,17,22,44
+UBCV,2023,W,DSCI,512,,002,Algorithms and Data Structures,Jian Zhu,36,96.7,98.5,97.0,99.0,100.0,66.0,0,0,0,0,1,0,0,0,0,1,34
+UBCV,2023,W,DSCI,513,,001,Databases and Data Retrieval,Gittu George,126,88.4,89.0,85.0,93.0,99.0,65.0,0,0,0,0,1,0,1,8,21,35,59
+UBCV,2023,W,DSCI,521,,001,Computing Platforms for Data Science,Daniel Chen,125,90.5,91.0,87.0,95.0,98.0,72.0,0,0,0,0,0,0,1,4,13,27,80
+UBCV,2023,W,DSCI,522,,001,Data Science Workflows,Tiffany Timbers,91,90.3,91.0,87.0,94.0,98.0,80.0,0,0,0,0,0,0,0,0,11,26,53
+UBCV,2023,W,DSCI,523,,001,Programming for Data Manipulation,Tiffany Timbers,125,88.3,89.0,86.0,93.0,97.0,65.0,0,0,0,0,3,0,3,3,11,45,60
+UBCV,2023,W,DSCI,524,,001,Collaborative Software Development,Tiffany Timbers,88,92.4,93.0,90.0,95.0,99.0,80.0,0,0,0,0,0,0,0,0,7,11,70
+UBCV,2023,W,DSCI,525,,001,Web and Cloud Computing,Gittu George,88,97.7,98.0,97.0,99.0,100.0,84.0,0,0,0,0,0,0,0,0,1,0,87
+UBCV,2023,W,DSCI,531,,001,Data Visualization I,Joel Ostblom,126,85.1,85.0,82.0,90.0,98.0,69.0,0,0,0,0,0,3,6,14,29,40,33
+UBCV,2023,W,DSCI,532,,001,Data Visualization II,Joel Ostblom,88,92.6,92.5,91.0,94.0,96.0,90.0,0,0,0,0,0,0,0,0,0,0,88
+UBCV,2023,W,DSCI,541,,001,"Privacy, Ethics, and Security",Joel Ostblom,88,91.8,92.0,90.0,95.0,97.0,80.0,0,0,0,0,0,0,0,0,3,16,69
+UBCV,2023,W,DSCI,541,,002,"Privacy, Ethics, and Security",Garrett Nicolai,34,93.9,95.0,94.0,96.0,100.0,69.0,0,0,0,0,0,1,0,0,0,4,29
+UBCV,2023,W,DSCI,542,,001,Communication and Argumentation,Le Quan Nguyen,88,95.2,95.0,94.0,96.0,98.0,89.0,0,0,0,0,0,0,0,0,0,1,87
+UBCV,2023,W,DSCI,551,,001,Descriptive Statistics and Probability for Data Science,Katie Burak;Gilberto Alexi Rodríguez Arelis,125,90.6,92.0,87.0,95.0,100.0,66.0,0,0,0,0,2,1,1,6,8,27,79
+UBCV,2023,W,DSCI,552,,001,Statistical Inference and Computation I,Katie Burak;Tiffany Timbers,126,86.4,87.0,84.0,90.0,97.0,69.0,0,0,0,0,0,2,3,8,25,49,38
+UBCV,2023,W,DSCI,553,,001,Statistical Inference and Computation II,Gilberto Alexi Rodríguez Arelis,88,89.2,90.0,86.0,93.0,98.0,76.0,0,0,0,0,0,0,0,6,8,23,51
+UBCV,2023,W,DSCI,554,,001,Experimentation and Causal Inference,Gilberto Alexi Rodríguez Arelis,88,89.6,91.0,87.0,93.0,98.0,74.0,0,0,0,0,0,0,1,3,12,20,52
+UBCV,2023,W,DSCI,561,,001,Regression I,Katie Burak,126,89.1,90.0,86.0,93.0,98.0,72.0,0,0,0,0,0,0,7,2,15,30,71
+UBCV,2023,W,DSCI,562,,001,Regression II,Gilberto Alexi Rodríguez Arelis,88,88.1,88.0,85.0,92.0,98.0,72.0,0,0,0,0,0,0,1,6,13,36,32
+UBCV,2023,W,DSCI,563,,001,Unsupervised Learning,Varada Kolhatkar,88,87.8,88.0,85.0,91.0,99.0,77.0,0,0,0,0,0,0,0,6,15,35,32
+UBCV,2023,W,DSCI,563,,002,Unsupervised Learning,Garrett Nicolai;Jungyeul Park,35,93.0,93.0,91.0,95.0,99.0,88.0,0,0,0,0,0,0,0,0,0,4,31
+UBCV,2023,W,DSCI,571,,001,Supervised Learning I,Varada Kolhatkar,126,87.9,89.0,85.0,92.0,97.0,69.0,0,0,0,0,0,2,4,3,20,42,54
+UBCV,2023,W,DSCI,572,,001,Supervised Learning II,Varada Kolhatkar,88,87.9,88.0,85.0,92.0,97.0,76.0,0,0,0,0,0,0,0,9,11,30,38
+UBCV,2023,W,DSCI,572,,002,Supervised Learning II,Jungyeul Park;Jian Zhu,35,89.6,90.0,87.0,93.0,99.0,79.0,0,0,0,0,0,0,0,3,3,7,22
+UBCV,2023,W,DSCI,573,,001,Feature and Model Selection,Joel Ostblom,126,83.7,85.0,80.0,89.0,96.0,44.0,1,0,0,1,1,5,8,14,32,35,28
+UBCV,2023,W,DSCI,574,,001,Spatial and Temporal Models,Katie Burak,88,88.7,89.0,85.8,92.0,98.0,78.0,0,0,0,0,0,0,0,2,18,29,39
+UBCV,2023,W,DSCI,575,,001,Advanced Machine Learning,Varada Kolhatkar,88,88.5,88.0,84.0,93.3,98.0,73.0,0,0,0,0,0,0,1,2,20,26,39
+UBCV,2023,W,DSCI,591,,001,Capstone Project,Katie Burak;Giuseppe Carenini;Daniel Chen;Gittu George;Simon Goring;Varada Kolhatkar;Vincent Liu;Le Quan Nguyen;Joel Ostblom;Gilberto Alexi Rodríguez Arelis;Tiffany Timbers,89,89.3,90.0,87.0,92.0,93.0,82.0,0,0,0,0,0,0,0,0,11,31,47

@@ -1,0 +1,42 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2023,W,STAT,200,,101,Elementary Statistics for Applications,Jonathan Agyeman,272,74.0,76.5,68.0,84.0,99.0,2.0,11,9,12,8,22,31,30,35,45,37,20
+UBCV,2023,W,STAT,200,,103,Elementary Statistics for Applications,Rodolfo Lourenzutti,323,75.3,76.0,68.0,85.0,99.0,2.0,11,10,12,9,29,29,32,45,54,40,49
+UBCV,2023,W,STAT,200,,202,Elementary Statistics for Applications,Melissa Lee,294,74.1,77.0,67.0,85.0,100.0,0.0,17,14,7,15,20,17,43,30,49,32,44
+UBCV,2023,W,STAT,201,,201,Statistical Inference for Data Science,Rodolfo Lourenzutti,258,78.6,82.0,73.0,89.0,100.0,0.0,12,6,3,9,8,19,20,30,41,52,55
+UBCV,2023,W,STAT,201,,202,Statistical Inference for Data Science,Marie Auger-Methe,203,81.2,83.0,76.0,87.0,98.0,35.0,2,1,1,2,11,7,21,25,50,52,28
+UBCV,2023,W,STAT,201,,203,Statistical Inference for Data Science,Rodolfo Lourenzutti,114,74.3,78.0,67.0,86.0,99.0,19.0,10,3,2,6,9,12,9,13,18,12,19
+UBCV,2023,W,STAT,203,,103,Statistical Methods,Melissa Lee,114,72.5,75.0,65.0,82.5,99.0,39.0,5,7,8,6,10,12,12,13,20,7,11
+UBCV,2023,W,STAT,251,,101,Elementary Statistics,Lasantha Premarathna Wijendra Acharige,368,77.2,79.0,70.0,87.0,99.0,7.0,7,8,14,15,26,38,39,42,52,70,52
+UBCV,2023,W,STAT,251,,201,Elementary Statistics,Lasantha Premarathna Wijendra Acharige,368,76.1,77.0,67.0,88.0,100.0,0.0,13,10,15,22,32,35,33,32,47,51,69
+UBCV,2023,W,STAT,300,,101,Intermediate Statistics for Applications,Lasantha Premarathna Wijendra Acharige,168,79.5,83.0,71.3,88.0,100.0,28.0,7,3,1,2,11,18,9,15,23,46,31
+UBCV,2023,W,STAT,300,,201,Intermediate Statistics for Applications,Lasantha Premarathna Wijendra Acharige,177,75.2,77.0,67.0,85.0,99.0,35.0,6,5,6,13,16,15,16,28,23,36,12
+UBCV,2023,W,STAT,301,,101,Statistical Modelling for Data Science,Gabriela Cohen Freue,167,84.1,86.0,79.0,91.0,99.0,13.0,2,1,0,3,1,8,13,16,30,34,58
+UBCV,2023,W,STAT,301,,102,Statistical Modelling for Data Science,Lasantha Premarathna Wijendra Acharige,133,80.8,83.0,76.0,89.0,100.0,9.0,4,1,3,1,8,4,10,16,28,30,28
+UBCV,2023,W,STAT,302,,101,Introduction to Probability,Matias Salibian-Barrera,131,75.2,82.0,62.0,92.0,100.0,10.0,14,8,4,6,5,4,9,10,11,13,41
+UBCV,2023,W,STAT,302,,201,Introduction to Probability,Vivian Meng,162,70.9,71.0,62.0,81.0,98.0,0.0,8,9,15,12,18,19,17,15,13,12,19
+UBCV,2023,W,STAT,302,,202,Introduction to Probability,Vivian Meng,147,72.2,74.5,64.0,83.0,98.0,11.0,13,4,10,8,11,17,11,19,23,11,17
+UBCV,2023,W,STAT,305,,101,Introduction to Statistical Inference,Vivian Meng,133,73.4,74.0,65.8,84.3,100.0,11.0,6,3,10,10,14,13,15,13,15,13,20
+UBCV,2023,W,STAT,305,,202,Introduction to Statistical Inference,Benjamin Bloem-Reddy,96,77.9,80.0,73.0,85.0,100.0,35.0,4,0,1,3,6,6,9,15,25,14,12
+UBCV,2023,W,STAT,306,,101,Finding Relationships in Data,Xinglong Li,86,75.0,74.5,69.0,82.0,96.0,36.0,1,3,2,5,6,13,13,11,15,8,7
+UBCV,2023,W,STAT,306,,201,Finding Relationships in Data,Bruce Dunham,129,70.1,71.0,64.0,77.3,89.0,25.0,3,7,9,12,14,21,16,17,19,10,0
+UBCV,2023,W,STAT,344,,101,Sample Surveys,Lang Wu,133,73.5,76.0,67.0,81.0,95.0,32.0,2,9,3,10,11,15,15,19,24,17,8
+UBCV,2023,W,STAT,404,,101,Design and Analysis of Experiments,Jiahua Chen,113,75.4,79.0,71.5,85.0,99.0,6.0,8,1,2,2,7,8,13,19,22,14,15
+UBCV,2023,W,STAT,406,,101,Methods for Statistical Learning,Daniel McDonald,139,80.7,82.0,78.0,86.5,93.0,24.0,3,0,0,2,3,1,9,36,37,34,14
+UBCV,2023,W,STAT,443,,202,Time Series and Forecasting,Natalia Nolde,144,68.5,72.0,62.0,80.0,99.0,7.0,17,9,6,9,11,12,18,12,27,12,8
+UBCV,2023,W,STAT,447,C,201,Special Topics in Statistics,Alexandre Bouchard-Cote,38,76.8,79.0,72.3,85.0,92.0,32.0,1,0,2,2,2,2,5,5,8,7,4
+UBCV,2023,W,STAT,450,,201,Case Studies in Statistics,Keegan Korthauer;Melissa Lee;Rodolfo Lourenzutti;Hongxing Estella Qi,28,89.7,90.5,87.0,93.0,95.0,81.0,0,0,0,0,0,0,0,0,4,9,15
+UBCV,2023,W,STAT,520,P,101,Topics in Bayesian Analysis and Decision Theory,Geoffrey Pleiss,10,95.4,97.5,92.5,99.3,100.0,87.0,0,0,0,0,0,0,0,0,0,2,6
+UBCV,2023,W,STAT,536,E,201,Statistical Theory for the Design and Analysis of Clinical Studies,Lang Wu,8,86.1,85.0,81.5,89.5,95.0,80.0,0,0,0,0,0,0,0,0,3,3,2
+UBCV,2023,W,STAT,536,F,201,Statistical Theory for the Design and Analysis of Clinical Studies,Harry Sue Wah Joe,6,86.0,87.0,84.8,87.8,90.0,80.0,0,0,0,0,0,0,0,0,2,3,1
+UBCV,2023,W,STAT,538,A,101,Generalized Linear Models,Gabriela Cohen Freue,9,93.9,95.0,90.5,97.3,98.0,88.0,0,0,0,0,0,0,0,0,0,2,6
+UBCV,2023,W,STAT,540,,201,Statistical Methods for High Dimensional Biology,Keegan Korthauer;Yongjin Park,12,90.1,91.5,89.3,93.3,96.0,80.0,0,0,0,0,0,0,0,0,2,1,9
+UBCV,2023,W,STAT,545,A,101,Exploratory Data Analysis,Lucy Gao,97,96.0,97.0,95.0,98.0,100.0,46.0,1,0,0,0,0,0,0,0,0,1,89
+UBCV,2023,W,STAT,545,B,102,Exploratory Data Analysis,Lucy Gao,78,97.2,99.0,97.0,100.0,100.0,26.0,1,0,0,0,0,0,0,0,0,0,75
+UBCV,2023,W,STAT,547,C,101,Topics in Statistics,Alexandre Bouchard-Cote,17,86.9,86.5,85.0,88.8,93.0,83.0,0,0,0,0,0,0,0,0,3,9,2
+UBCV,2023,W,STAT,547,M,101,Topics in Statistics,Natalia Nolde,8,89.1,91.0,85.0,92.0,95.0,84.0,0,0,0,0,0,0,0,0,2,1,4
+UBCV,2023,W,STAT,547,T,001,Topics in Statistics,Lucy Gao,10,99.1,99.0,99.0,99.8,100.0,98.0,0,0,0,0,0,0,0,0,0,0,10
+UBCV,2023,W,STAT,548,B,201,Directed Studies in Statistics,,6,85.2,84.0,82.0,89.0,89.0,82.0,,,,,,,,,,,
+UBCV,2023,W,STAT,550,,201,Techniques of Statistical Consulting,Daniel McDonald;Hongxing Estella Qi;Lang Wu,15,86.0,86.0,85.0,87.0,89.0,83.0,0,0,0,0,0,0,0,0,2,12,0
+UBCV,2023,W,STAT,551,,101,Statistical Consulting Practicum,Harry Sue Wah Joe,8,80.1,80.0,78.0,83.3,85.0,73.0,0,0,0,0,0,0,1,3,3,1,0
+UBCV,2023,W,STAT,560,,101,Statistical Theory I,Benjamin Bloem-Reddy,13,88.5,88.0,85.0,95.0,99.0,72.0,0,0,0,0,0,0,1,0,1,5,6
+UBCV,2023,W,STAT,561,,201,Statistical Theory II,Jiahua Chen,9,92.7,93.0,90.5,93.5,98.0,90.0,0,0,0,0,0,0,0,0,0,0,7

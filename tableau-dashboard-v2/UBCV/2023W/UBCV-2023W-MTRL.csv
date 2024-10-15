@@ -1,0 +1,43 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2023,W,MTRL,201,,201,Technical Communication,Matthew Wong,56,77.0,82.0,71.0,88.3,95.0,40.0,4,1,2,2,3,3,7,3,14,6,11
+UBCV,2023,W,MTRL,250,,101,Thermodynamics of Materials I,David Dixon,57,77.0,79.0,73.0,84.3,98.0,0.0,2,0,0,3,2,4,7,15,9,9,5
+UBCV,2023,W,MTRL,251,,201,Thermodynamics of Materials II,Amir Mehdi Dehkhoda,57,74.5,80.0,64.0,84.0,92.0,28.0,2,2,3,7,4,1,3,6,15,10,4
+UBCV,2023,W,MTRL,263,,201,Transport Phenomena I - Fluid Mechanics,David Dixon,112,76.5,77.0,69.0,83.0,100.0,43.0,2,2,2,5,11,15,8,21,19,13,13
+UBCV,2023,W,MTRL,264,,201,Transport Phenomena II - Heat Transport,Nicolas Romualdi,109,83.4,86.0,75.0,97.0,100.0,6.0,4,0,2,4,3,6,10,8,14,14,44
+UBCV,2023,W,MTRL,280,,201,Materials in Design,Chadwick Sinclair,104,67.4,68.0,60.5,76.5,94.0,27.0,11,2,11,12,14,11,10,13,7,7,5
+UBCV,2023,W,MTRL,320,,101,Management of Engineering Design,Matthew Wong,42,81.5,84.0,75.5,88.0,92.0,63.0,0,0,0,2,1,3,5,4,7,15,5
+UBCV,2023,W,MTRL,340,,201,Manufacturing in Materials Engineering,Abbas Hosseini,106,70.7,72.0,66.0,76.8,91.0,40.0,4,1,6,8,10,17,23,21,9,5,2
+UBCV,2023,W,MTRL,358,,101,Hydrometallurgy I,Amir Mehdi Dehkhoda,43,77.3,82.0,70.0,89.0,95.0,37.0,2,3,1,1,2,3,4,3,7,8,9
+UBCV,2023,W,MTRL,359,,L1A,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,17,82.1,86.0,82.0,88.0,94.0,35.0,1,0,0,0,1,0,0,0,6,6,3
+UBCV,2023,W,MTRL,359,,L1B,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,19,77.3,80.0,72.5,85.0,93.0,55.0,0,0,2,1,1,0,2,2,4,5,2
+UBCV,2023,W,MTRL,359,,L1C,Hydrometallurgy I Laboratory,Amir Mehdi Dehkhoda,7,91.3,93.0,89.5,94.0,95.0,84.0,0,0,0,0,0,0,0,0,1,1,5
+UBCV,2023,W,MTRL,361,,101,Modelling of Materials Processes,Steven Cockcroft;Farzaneh Farhang Mehr,45,75.0,78.5,67.5,86.3,95.0,33.0,2,5,0,2,2,3,5,4,7,7,7
+UBCV,2023,W,MTRL,363,,101,Transport Phenomena III - Mass Transport,Guangrui Xia,44,71.8,71.0,64.0,81.5,93.0,50.0,0,3,3,4,4,8,5,2,7,4,2
+UBCV,2023,W,MTRL,365,,201,Mechanical Behaviour of Materials,Warren Poole,62,66.1,68.0,59.5,78.0,96.0,8.0,8,2,5,3,9,11,4,6,4,4,4
+UBCV,2023,W,MTRL,378,,201,Phase Transformations,Matthias Militzer,65,63.6,68.0,58.0,75.0,95.0,0.0,11,4,3,7,7,10,9,6,5,0,3
+UBCV,2023,W,MTRL,381,,201,Structure and Properties Laboratory,Jonathan Nakane,22,83.8,84.5,81.0,87.0,91.0,73.0,0,0,0,0,0,0,1,2,8,8,3
+UBCV,2023,W,MTRL,381,,202,Structure and Properties Laboratory,Jonathan Nakane,19,78.5,81.0,73.0,83.0,91.0,60.0,0,0,0,1,0,3,4,0,7,3,1
+UBCV,2023,W,MTRL,381,,204,Structure and Properties Laboratory,Jonathan Nakane,10,82.9,83.5,81.3,84.8,86.0,78.0,0,0,0,0,0,0,0,1,6,3,0
+UBCV,2023,W,MTRL,382,,201,Ceramics,Andrew Zang,55,81.4,82.0,77.0,85.5,95.0,68.0,0,0,0,0,0,5,3,12,15,14,6
+UBCV,2023,W,MTRL,394,,201,Polymers and Polymer Matrix Composites,Sergii Kravchenko,58,70.9,73.5,64.8,81.8,100.0,2.0,6,5,0,3,3,7,10,3,12,1,8
+UBCV,2023,W,MTRL,451,,101,Microstructural Analysis Laboratory,Rizhi Wang,37,76.1,78.0,72.0,81.0,91.0,48.0,1,0,0,1,2,4,5,11,9,3,1
+UBCV,2023,W,MTRL,455,,101,Economic Aspects of Materials Engineering,Alexander Burns,76,78.4,81.0,71.8,86.0,94.0,50.0,0,2,1,7,4,5,5,7,20,16,9
+UBCV,2023,W,MTRL,456,,201,Environmental Degradation of Materials,Edouard Asselin,41,71.6,72.0,66.0,85.0,94.0,12.0,3,2,2,3,0,4,8,4,1,4,9
+UBCV,2023,W,MTRL,458,,201,Hydrometallurgy II,Edouard Asselin,8,84.9,89.5,82.5,94.0,100.0,50.0,0,1,0,0,0,0,0,1,1,1,4
+UBCV,2023,W,MTRL,460,,101,Monitoring and Optimization of Materials Processing,Yasmine Abdin,53,74.3,74.0,69.0,81.0,90.0,46.0,1,0,1,1,6,10,11,6,13,3,1
+UBCV,2023,W,MTRL,466,,101,Engineering Project I,Kiana Amini;David Dixon;Sergii Kravchenko;Wenying Liu;Jonathan Nakane;Rizhi Wang,41,88.0,91.0,87.0,94.0,98.0,50.0,0,1,1,0,0,0,2,1,3,8,25
+UBCV,2023,W,MTRL,467,,201,Engineering Project II,Edouard Asselin;Matthias Militzer;Jonathan Nakane;Anoshiravan Poursartip;Guangrui Xia,42,82.9,85.0,80.0,90.8,94.0,60.0,0,0,0,4,0,0,4,1,11,9,13
+UBCV,2023,W,MTRL,469,,201,Casting Technology,Steven Cockcroft,6,68.3,76.5,58.8,80.0,81.0,42.0,1,1,0,0,0,0,1,0,3,0,0
+UBCV,2023,W,MTRL,472,,101,Welding and Joining of Materials,Mahyar Asadi,16,80.9,82.0,74.8,85.0,99.0,63.0,0,0,0,1,0,1,3,2,4,2,3
+UBCV,2023,W,MTRL,478,,201,Electronic Materials,Guangrui Xia,23,66.8,68.0,64.3,80.0,86.0,18.0,3,0,0,2,5,3,0,2,4,3,0
+UBCV,2023,W,MTRL,485,,101,Failure of Materials,Farzaneh Farhang Mehr,35,68.3,68.0,63.0,74.3,80.0,52.0,0,1,3,6,4,6,5,5,2,0,0
+UBCV,2023,W,MTRL,486,,101,Nondestructive Evaluation,Ibrahim Gadala,46,82.2,82.0,81.0,84.0,88.0,70.0,0,0,0,0,0,1,1,5,28,10,0
+UBCV,2023,W,MTRL,494,,201,Composite Materials,Anoshiravan Poursartip,70,73.4,74.5,69.0,82.8,93.0,27.0,1,3,6,3,4,10,10,7,11,13,2
+UBCV,2023,W,MTRL,495,,201,Biomaterials,Rizhi Wang,30,76.2,78.0,71.0,83.0,89.0,46.0,1,0,0,2,1,5,1,5,9,5,0
+UBCV,2023,W,MTRL,496,,201,Materials Sustainability,Chadwick Sinclair,17,70.6,69.5,62.8,78.5,88.0,55.0,0,0,4,0,1,5,0,2,3,1,0
+UBCV,2023,W,MTRL,497,,101,Special Topics in Materials Engineering,Sergii Kravchenko,19,78.1,79.0,73.5,86.0,91.0,54.0,0,1,0,1,1,1,2,4,3,4,2
+UBCV,2023,W,MTRL,497,B,201,Special Topics in Materials Engineering,Henry Wing Wo Wong,19,76.6,76.0,74.0,80.0,83.0,70.0,0,0,0,0,0,3,6,5,5,0,0
+UBCV,2023,W,MTRL,515,,201,Advanced Simulation and Modelling Tools for Materials Manufacturing,Steven Cockcroft;Farzaneh Farhang Mehr,11,86.4,88.0,85.0,90.0,92.0,76.0,0,0,0,0,0,0,0,2,0,6,3
+UBCV,2023,W,MTRL,592,E,201,Advanced Topics in Materials Engineering,Chadwick Sinclair,6,87.3,90.0,89.0,91.8,93.0,70.0,0,0,0,0,0,1,0,0,0,2,3
+UBCV,2023,W,MTRL,593,F,210,Directed Studies in Materials Engineering,Sergii Kravchenko,6,100.0,100.0,100.0,100.0,100.0,100.0,,,,,,,,,,,
+UBCV,2023,W,MTRL,594,,101,Advanced Composite Materials,Shayan Fahimi;Anoshiravan Poursartip,15,85.8,86.0,80.5,88.0,97.0,80.0,0,0,0,0,0,0,0,0,5,6,3

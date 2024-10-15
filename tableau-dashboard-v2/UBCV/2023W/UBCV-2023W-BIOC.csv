@@ -1,0 +1,32 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2023,W,BIOC,202,,001,Introductory Medical Biochemistry,Lindsay Brown;Warren Williams,173,69.5,68.0,60.0,80.0,99.0,36.0,11,13,17,16,17,19,12,17,16,12,16
+UBCV,2023,W,BIOC,202,,002,Introductory Medical Biochemistry,Warren Williams,465,70.6,72.0,61.0,80.0,99.0,0.0,23,29,41,35,33,54,52,43,59,46,26
+UBCV,2023,W,BIOC,202,,003,Introductory Medical Biochemistry,Michael Krisinger;Evgeniy Panzhinskiy,71,72.0,72.0,63.0,79.5,98.0,50.0,0,5,6,8,3,10,13,8,9,2,7
+UBCV,2023,W,BIOC,203,,001,Fundamentals of Biochemistry,Lindsay Brown;Warren Williams,138,69.5,71.0,62.0,81.0,96.0,29.0,12,4,12,11,14,19,9,15,20,11,6
+UBCV,2023,W,BIOC,301,,001,Biochemistry Laboratory,Jason Read,148,83.2,84.0,79.0,89.3,97.0,50.0,0,1,2,4,3,2,10,17,37,35,37
+UBCV,2023,W,BIOC,302,,102,General Biochemistry,Eden Fussner-Dupas;Alice Mui;Warren Williams,136,76.1,78.0,70.0,84.0,94.0,28.0,1,1,5,9,11,12,20,16,27,20,10
+UBCV,2023,W,BIOC,302,,202,General Biochemistry,Eden Fussner-Dupas,254,76.8,80.0,70.0,86.0,98.0,33.0,1,5,16,21,15,22,20,17,46,46,40
+UBCV,2023,W,BIOC,303,,001,Molecular Biochemistry,Franck Duong van Hoa;Eden Fussner-Dupas;Leann Howe;Michael Krisinger;Thibault Mayor;Nobuhiko Tokuriki,116,71.7,73.0,65.0,79.0,94.0,41.0,1,7,8,10,11,12,18,23,18,5,3
+UBCV,2023,W,BIOC,304,,001,Contemporary Biochemical Research,Ethan Greenblatt;Hugh Kim;Sheila Teves;Calvin Yip,98,77.6,79.0,73.3,84.0,92.0,44.0,2,1,3,4,4,7,11,18,26,14,8
+UBCV,2023,W,BIOC,402,,101,Proteins: Structure and Function,Joerg Gsponer;Seth Parker;Calvin Yip,133,73.6,76.0,66.0,83.0,97.0,1.0,5,3,7,7,14,17,9,23,19,14,13
+UBCV,2023,W,BIOC,403,,201,Enzymology,Dieter Bromme;Seth Parker;Natalie Strynadka;Calvin Yip,35,77.6,80.0,69.5,88.5,100.0,0.0,1,1,1,2,3,2,4,3,3,7,8
+UBCV,2023,W,BIOC,404,,001,Biochemical Methods,Eden Fussner-Dupas;Thibault Mayor;Vivien Measday;Sriram Subramaniam;Filip van Petegem,15,86.7,87.0,82.0,93.0,95.0,67.0,0,0,0,0,1,0,0,1,3,4,6
+UBCV,2023,W,BIOC,410,,101,Nucleic Acids-Structure and Function,Annie Ciernia;Eric Jan;Ivan Sadowski,116,71.6,73.0,62.3,82.8,95.0,3.0,6,10,7,8,7,9,17,13,14,12,11
+UBCV,2023,W,BIOC,420,,101,Advanced Biochemical Techniques,Scott Covey,11,81.4,81.0,77.0,88.0,91.0,69.0,0,0,0,0,0,1,1,3,2,2,2
+UBCV,2023,W,BIOC,420,,102,Advanced Biochemical Techniques,Scott Covey,11,83.6,85.0,80.5,89.0,95.0,65.0,0,0,0,0,1,0,1,0,3,3,3
+UBCV,2023,W,BIOC,421,,201,Recombinant DNA Techniques,Scott Covey,16,79.3,78.5,77.0,81.5,89.0,69.0,0,0,0,0,0,2,1,7,3,3,0
+UBCV,2023,W,BIOC,421,,202,Recombinant DNA Techniques,Scott Covey,16,78.9,78.0,74.0,88.0,93.0,52.0,0,1,0,0,0,1,5,2,2,3,2
+UBCV,2023,W,BIOC,421,,203,Recombinant DNA Techniques,Scott Covey,13,80.3,83.5,74.0,87.0,91.0,67.0,0,0,0,0,1,2,0,1,3,4,1
+UBCV,2023,W,BIOC,440,,001,Concepts in Molecular Biology,Leann Howe;Eric Jan;Ivan Sadowski,18,85.9,87.0,83.5,89.8,92.0,66.0,0,0,0,0,1,0,0,0,4,8,5
+UBCV,2023,W,BIOC,448,B,001,Directed Studies in Biochemistry,Lindsay Brown,16,86.3,88.5,85.8,91.0,94.0,50.0,0,1,0,0,0,0,0,0,1,7,7
+UBCV,2023,W,BIOC,449,C,001,Honours Thesis,Lindsay Brown,18,88.9,89.5,87.3,91.0,96.0,83.0,0,0,0,0,0,0,0,0,2,7,9
+UBCV,2023,W,BIOC,450,,001,Membrane Biochemistry,Harry Brumer;Corey Nislow;Natalie Strynadka;Sriram Subramaniam;Filip van Petegem,41,71.4,74.0,63.0,81.0,96.0,0.0,1,2,5,3,3,4,6,6,3,4,4
+UBCV,2023,W,BIOC,460,,001,Advanced Techniques in Biochemistry,Shoukat Dedhar;Leonard Foster;Alice Mui;Christopher Mark Overall;Sheila Teves,18,88.2,88.0,87.0,89.0,92.0,85.0,0,0,0,0,0,0,0,0,0,14,4
+UBCV,2023,W,BIOC,470,,001,Biochemistry & Society: Current Issues,Lindsay Brown,53,85.9,87.0,83.0,88.0,91.0,80.0,0,0,0,0,0,0,0,0,21,28,4
+UBCV,2023,W,BIOC,530,,001,Seminar in Biochemistry,Lindsay Eltis;Ethan Greenblatt,18,87.0,87.0,87.0,87.0,87.0,87.0,,,,,,,,,,,
+UBCV,2023,W,BIOC,530,,101,Seminar in Biochemistry,Lindsay Eltis;Ethan Greenblatt,18,89.8,90.0,89.0,91.0,94.0,85.0,0,0,0,0,0,0,0,0,0,8,10
+UBCV,2023,W,BIOC,551,,001,Advanced Topics in Biochemistry and Molecular Biology,Annie Ciernia;Pieter Cullis;Shoukat Dedhar;Franck Duong van Hoa;B Brett Finlay;Philip Hieter;Leann Howe;Thibault Mayor;Seth Parker;Jason Read;Sriram Subramaniam;Sheila Teves;Filip van Petegem,23,94.2,98.0,94.0,98.0,99.0,56.0,1,0,0,0,0,0,0,0,0,1,19
+UBCV,2023,W,BIOC,552,,001,Membrane Proteins,Franck Duong van Hoa;Robert Molday,10,90.9,91.0,90.0,92.0,94.0,88.0,0,0,0,0,0,0,0,0,0,2,8
+UBCV,2023,W,BIOC,554,,001,Nucleic Acids: DNA/RNA Structure and Function,Ethan Greenblatt;Eric Jan;Sheila Teves,14,89.2,90.0,87.0,93.0,94.0,83.0,0,0,0,0,0,0,0,0,2,4,7
+UBCV,2023,W,BIOC,555,,001,Epigenetics,Leann Howe;Michael Kobor,8,92.4,92.0,90.8,94.5,99.0,85.0,0,0,0,0,0,0,0,0,0,1,7
+UBCV,2023,W,BIOC,560,A,001,Computational Approaches in Biochemistry,Joerg Gsponer,14,87.5,86.5,83.0,94.5,98.0,71.0,0,0,0,0,0,1,0,0,6,1,6

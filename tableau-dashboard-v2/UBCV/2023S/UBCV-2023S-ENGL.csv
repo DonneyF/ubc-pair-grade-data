@@ -1,21 +1,22 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2023,S,ENGL,110,,JL1,Approaches to Literature and Culture,Jillian Sharpe,41,83.3,85.0,78.0,89.0,96.0,64.0,0,0,0,0,3,2,1,6,8,11,10
-UBCV,2023,S,ENGL,110,,JL2,Approaches to Literature and Culture,Lorcan Francis Fox,39,80.4,80.0,77.0,84.0,93.0,73.0,0,0,0,0,0,0,4,12,13,9,1
-UBCV,2023,S,ENGL,110,,JL3,Approaches to Literature and Culture,Gisele Marie Baxter,41,75.1,74.0,73.0,78.0,88.0,56.0,0,0,1,0,1,6,14,9,7,3,0
-UBCV,2023,S,ENGL,110,,JL4,Approaches to Literature and Culture,John Culbert,34,80.5,80.0,76.0,85.0,99.0,70.0,0,0,0,0,0,1,5,9,7,10,2
-UBCV,2023,S,ENGL,110,,MA1,Approaches to Literature and Culture,Judith Scholes,42,75.9,79.0,75.3,82.0,88.0,10.0,2,1,0,1,0,1,6,12,15,4,0
-UBCV,2023,S,ENGL,110,,MA2,Approaches to Literature and Culture,Sheila Giffen,39,78.8,79.0,75.0,85.0,90.0,60.0,0,0,0,1,0,5,5,11,6,10,1
-UBCV,2023,S,ENGL,110,,MA3,Approaches to Literature and Culture,John Culbert,36,78.5,77.5,74.0,81.3,93.0,70.0,0,0,0,0,0,3,9,9,9,3,3
-UBCV,2023,S,ENGL,110,,MA4,Approaches to Literature and Culture,Gillian Jerome,38,82.0,81.0,79.0,86.0,91.0,75.0,0,0,0,0,0,0,2,14,10,10,2
-UBCV,2023,S,ENGL,224,,951,World Literature in English,Deena Dinat,28,75.4,78.0,75.5,81.3,88.0,19.0,2,0,0,0,0,1,4,9,9,3,0
-UBCV,2023,S,ENGL,225,,921,Poetry,Lorcan Francis Fox,29,75.0,80.0,74.0,83.0,93.0,0.0,1,0,2,0,1,1,5,3,11,4,1
-UBCV,2023,S,ENGL,301,,98A,Technical Writing,Erika Paterson,22,75.6,81.0,66.3,85.8,94.0,23.0,1,0,2,0,4,0,1,2,5,4,3
-UBCV,2023,S,ENGL,321,,98A,English Grammar and Usage,Wilhelmina Georgina Biermann,34,77.6,77.5,75.0,86.8,92.0,37.0,1,1,0,0,3,2,4,9,3,5,6
-UBCV,2023,S,ENGL,330,,98A,The Structure of Modern English: Sounds and Words,Wilhelmina Georgina Biermann,30,78.3,80.5,74.3,86.0,93.0,50.0,0,1,2,1,0,2,5,1,9,5,4
-UBCV,2023,S,ENGL,348,,98A,Shakespeare,Joseph Paul,42,75.3,77.0,73.3,81.0,88.0,0.0,1,0,0,1,1,3,9,14,9,4,0
-UBCV,2023,S,ENGL,362,,921,Victorian Period Literature,Gisele Marie Baxter,34,74.2,78.0,72.3,81.5,90.0,0.0,2,0,0,0,1,3,9,7,6,4,2
-UBCV,2023,S,ENGL,392,,98A,Children's Literature,Sarika Bose,38,72.3,78.0,68.0,81.0,91.0,17.0,3,0,1,2,3,3,2,8,9,4,3
-UBCV,2023,S,ENGL,397,,951,Studies in Prose Fiction,Suzanne James,44,73.7,76.5,73.0,81.3,87.0,0.0,3,0,0,0,0,6,10,9,10,6,0
-UBCV,2023,S,ENGL,490,,951,Literature Majors Seminar,Bo Earle,9,85.7,88.0,80.0,90.0,90.0,80.0,0,0,0,0,0,0,0,0,3,3,3
-UBCV,2023,S,ENGL,491,J,951,Senior Honours Seminar,Bo Earle,7,92.7,92.0,92.0,94.0,95.0,90.0,0,0,0,0,0,0,0,0,0,0,7
-UBCV,2023,S,ENGL,565,A,921,Studies in Environmental Humanities,Vincent Nardizzi,6,87.2,87.0,86.3,87.8,90.0,85.0,0,0,0,0,0,0,0,0,0,5,1
+UBCV,2023,S,ENGL,110,,JL1,Approaches to Literature and Culture,Jillian Sharpe,42,83.34,85.0,78.0,89.0,96.0,64.0,0,0,0,0,3,2,1,6,8,11,10
+UBCV,2023,S,ENGL,110,,JL2,Approaches to Literature and Culture,Lorcan Francis Fox,41,80.36,80.0,77.0,84.0,93.0,73.0,0,0,0,0,0,0,4,12,13,9,1
+UBCV,2023,S,ENGL,110,,JL3,Approaches to Literature and Culture,Gisele Marie Baxter,42,75.12,74.0,73.0,78.0,88.0,56.0,0,0,1,0,1,6,14,9,7,3,0
+UBCV,2023,S,ENGL,110,,JL4,Approaches to Literature and Culture,John Culbert,35,80.47,80.0,76.0,85.0,99.0,70.0,0,0,0,0,0,1,5,9,7,10,2
+UBCV,2023,S,ENGL,110,,MA1,Approaches to Literature and Culture,Judith Scholes,43,75.9,79.0,75.25,82.0,88.0,10.0,2,1,0,1,0,1,6,12,15,4,0
+UBCV,2023,S,ENGL,110,,MA2,Approaches to Literature and Culture,Sheila Giffen,39,78.85,79.0,75.0,85.0,90.0,60.0,0,0,0,1,0,5,5,11,6,10,1
+UBCV,2023,S,ENGL,110,,MA3,Approaches to Literature and Culture,John Culbert,38,78.47,77.5,74.0,81.25,93.0,70.0,0,0,0,0,0,3,9,9,9,3,3
+UBCV,2023,S,ENGL,110,,MA4,Approaches to Literature and Culture,Gillian Jerome,39,82.0,81.0,79.0,86.0,91.0,75.0,0,0,0,0,0,0,2,14,10,10,2
+UBCV,2023,S,ENGL,224,,951,World Literature in English,Deena Dinat,31,75.36,78.0,75.5,81.25,88.0,19.0,2,0,0,0,0,1,4,9,9,3,0
+UBCV,2023,S,ENGL,225,,921,Poetry,Lorcan Francis Fox,30,77.71,80.0,74.0,83.0,93.0,55.0,0,0,2,0,1,1,5,3,11,4,1
+UBCV,2023,S,ENGL,301,,98A,Technical Writing,Erika Paterson,22,75.64,81.0,66.25,85.75,94.0,23.0,1,0,2,0,4,0,1,2,5,4,3
+UBCV,2023,S,ENGL,321,,98A,English Grammar and Usage,Ina Biermann,36,77.65,77.5,75.0,86.75,92.0,37.0,1,1,0,0,3,2,4,9,3,5,6
+UBCV,2023,S,ENGL,330,,98A,The Structure of Modern English: Sounds and Words,Ina Biermann,34,78.27,80.5,74.25,86.0,93.0,50.0,0,1,2,1,0,2,5,1,9,5,4
+UBCV,2023,S,ENGL,348,,98A,Shakespeare,Joseph Paul,44,75.26,77.0,73.25,81.0,88.0,0.0,1,0,0,1,1,3,9,14,9,4,0
+UBCV,2023,S,ENGL,362,,921,Victorian Period Literature,Gisele Marie Baxter,37,74.24,78.0,72.25,81.5,90.0,0.0,2,0,0,0,1,3,9,7,6,4,2
+UBCV,2023,S,ENGL,392,,98A,Children's Literature,Sarika Bose,39,75.94,78.0,73.0,82.0,91.0,33.0,1,0,1,1,3,3,2,8,10,4,3
+UBCV,2023,S,ENGL,397,,951,Studies in Prose Fiction,Suzanne James,45,74.44,77.0,73.5,81.5,87.0,0.0,2,0,0,0,0,6,10,9,10,6,0
+UBCV,2023,S,ENGL,490,,951,Literature Majors Seminar,Bo Earle,9,85.67,88.0,80.0,90.0,90.0,80.0,0,0,0,0,0,0,0,0,3,3,3
+UBCV,2023,S,ENGL,491,J,951,Senior Honours Seminar,Bo Earle,7,92.71,92.0,92.0,94.0,95.0,90.0,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2023,S,ENGL,555,A,951,Studies in Literature and the Other Arts,Glenn Deer,6,87.8,90.0,86.0,91.0,92.0,80.0,,,,,,,,,,,
+UBCV,2023,S,ENGL,565,A,921,Studies in Environmental Humanities,Vincent Nardizzi,7,87.17,87.0,86.25,87.75,90.0,85.0,0,0,0,0,0,0,0,0,0,5,1

@@ -1,0 +1,36 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2023,W,DATA,101,,001,Making Predictions with Data,Irene Vrbik,117,70.9,76.0,65.5,84.5,99.0,0.0,12,3,2,6,10,13,6,11,17,11,16
+UBCO,2023,W,DATA,101,,002,Making Predictions with Data,Ladan Tazik,106,75.7,81.0,67.5,88.5,100.0,26.0,6,6,5,2,5,7,7,6,15,17,19
+UBCO,2023,W,DATA,101,,101,Making Predictions with Data,Lengyi Han,86,65.8,73.0,61.8,82.3,100.0,0.0,19,1,0,2,13,5,6,11,9,4,14
+UBCO,2023,W,DATA,101,,102,Making Predictions with Data,Yas Yamin,85,72.6,78.0,69.0,86.0,98.0,0.0,8,2,2,3,4,7,8,8,8,17,12
+UBCO,2023,W,DATA,301,,101,Introduction to Data Analytics,Mostafa Mohamed,111,86.9,88.0,81.5,95.0,100.0,22.0,2,1,1,0,0,0,7,10,11,27,49
+UBCO,2023,W,DATA,310,,101,Applied Regression Analysis,Lengyi Han,32,75.5,76.0,68.0,81.0,97.0,60.0,0,0,0,4,1,6,1,4,5,4,2
+UBCO,2023,W,DATA,311,,101,Machine Learning,Irene Vrbik,120,71.2,73.0,62.0,82.0,98.0,0.0,5,8,10,9,12,8,20,9,15,8,13
+UBCO,2023,W,DATA,315,,101,Applied Time Series and Forecasting,Lengyi Han,57,72.1,76.0,60.5,85.5,100.0,30.0,6,3,1,4,6,4,1,5,7,6,8
+UBCO,2023,W,DATA,405,,001,Stochastic Modelling and Simulation,Yas Yamin,25,72.1,72.0,62.8,78.0,95.0,57.0,0,0,3,4,2,3,2,5,1,2,2
+UBCO,2023,W,DATA,407,,101,Sampling and Design,Paramjit Gill,34,70.3,74.0,63.8,77.3,99.0,36.0,3,0,3,2,4,2,5,6,3,1,3
+UBCO,2023,W,DATA,410,,101,Regression and Generalized Linear Models,John Thompson,17,77.4,76.0,73.0,81.0,95.0,62.0,0,0,0,1,2,0,3,4,3,2,2
+UBCO,2023,W,DATA,530,,001,Computing Platforms for Data Science,Ifeoma Adaji,40,89.2,89.0,86.8,94.0,99.0,74.0,0,0,0,0,0,0,2,0,5,15,18
+UBCO,2023,W,DATA,531,,001,Programming for Data Science,Gema Rodriguez-Perez,40,91.6,92.5,88.8,95.0,99.0,80.0,0,0,0,0,0,0,0,0,3,10,27
+UBCO,2023,W,DATA,532,,001,Algorithms and Data Structure,Gema Rodriguez-Perez,40,85.7,87.5,81.0,90.0,95.0,70.0,0,0,0,0,0,1,0,4,10,14,11
+UBCO,2023,W,DATA,533,,101,Collaborative Software Development,Mohammad Khalad Hasan,40,94.9,96.0,93.0,98.0,99.0,85.0,0,0,0,0,0,0,0,0,0,4,36
+UBCO,2023,W,DATA,534,,101,Web and Cloud Computing,Mostafa Mohamed,40,96.6,100.0,93.8,100.0,100.0,78.0,0,0,0,0,0,0,0,1,1,2,36
+UBCO,2023,W,DATA,540,,001,Databases and Data Retrieval,Ifeoma Adaji,40,94.0,95.0,93.0,98.0,99.0,68.0,0,0,0,0,0,1,0,1,0,4,34
+UBCO,2023,W,DATA,541,,001,Scripting and Reporting,Mohammad Khalad Hasan,40,93.1,94.0,89.8,97.0,100.0,83.0,0,0,0,0,0,0,0,0,2,8,30
+UBCO,2023,W,DATA,542,,101,Data Wrangling,Fatemeh Hendijani Fard,40,97.5,98.5,95.8,100.0,100.0,91.0,0,0,0,0,0,0,0,0,0,0,40
+UBCO,2023,W,DATA,543,,001,Data Collection,Emelie Gustafsson,40,93.4,94.5,91.0,96.0,98.0,81.0,0,0,0,0,0,0,0,0,1,5,34
+UBCO,2023,W,DATA,550,,001,Dataviz I,Irene Vrbik,40,93.4,94.0,92.0,97.0,99.0,81.0,0,0,0,0,0,0,0,0,2,2,36
+UBCO,2023,W,DATA,551,,101,Dataviz II,Fatemeh Hendijani Fard,40,98.4,99.0,98.0,100.0,100.0,88.0,0,0,0,0,0,0,0,0,0,2,38
+UBCO,2023,W,DATA,552,,001,Communication and Argumentation,Vikas Menghwani,40,90.4,91.0,87.8,95.0,100.0,62.0,0,0,0,1,0,0,1,0,2,12,24
+UBCO,2023,W,DATA,553,,001,"Privacy, Security and Professional Ethics",Mostafa Mohamed,40,90.9,91.0,89.0,93.0,97.0,85.0,0,0,0,0,0,0,0,0,0,11,29
+UBCO,2023,W,DATA,570,,001,Predictive Modelling,Xiaoping Shi,40,97.3,98.0,96.8,99.0,100.0,83.0,0,0,0,0,0,0,0,0,1,0,39
+UBCO,2023,W,DATA,571,,101,Resampling and Regularization,Jeffrey Andrews,40,93.1,94.0,91.8,97.0,100.0,71.0,0,0,0,0,0,1,0,0,4,3,32
+UBCO,2023,W,DATA,572,,001,Supervised Learning,Shan du,40,94.0,94.5,90.8,98.0,100.0,82.0,0,0,0,0,0,0,0,0,2,7,31
+UBCO,2023,W,DATA,573,,101,Unsupervised and Semi-supervised Learning,Jeffrey Andrews,40,92.5,93.0,91.0,96.0,100.0,76.0,0,0,0,0,0,0,0,2,1,3,34
+UBCO,2023,W,DATA,580,,001,Modelling and Simulation I,Xiaoping Shi,40,94.6,95.5,93.0,99.0,100.0,72.0,0,0,0,0,0,0,1,1,1,1,36
+UBCO,2023,W,DATA,581,,101,Modelling and Simulation II,Ladan Tazik,40,96.1,96.5,95.0,98.0,100.0,88.0,0,0,0,0,0,0,0,0,0,2,38
+UBCO,2023,W,DATA,582,,101,Bayesian Inference,Irene Vrbik,40,88.2,89.5,84.8,92.3,99.0,77.0,0,0,0,0,0,0,0,4,6,10,20
+UBCO,2023,W,DATA,583,,101,Advanced Predictive Modelling,Jeffrey English,40,91.6,93.0,87.8,95.3,98.0,81.0,0,0,0,0,0,0,0,0,3,10,27
+UBCO,2023,W,DATA,585,,101,Optimization,Yves Lucet,40,94.0,95.0,93.0,96.0,98.0,81.0,0,0,0,0,0,0,0,0,1,4,35
+UBCO,2023,W,DATA,586,,101,Advanced Machine Learning,Shan du,40,90.2,91.5,88.8,94.0,97.0,74.0,0,0,0,0,0,0,1,2,3,10,24
+UBCO,2023,W,DATA,589,,101,Special Topic,Michael Noonan,40,88.2,89.0,86.5,92.0,98.0,75.0,0,0,0,0,0,0,1,3,3,14,19

@@ -1,0 +1,105 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2023,W,MECH,220,,101,Technical Skills Practicum,Juan Abello Rubio;Agnes D'Entremont;Markus Fengler;Graham Hendra;Jihoon Lim,126,83.01,83.0,80.75,87.0,92.0,65.0,0,0,0,0,1,1,10,12,49,39,12
+UBCV,2023,W,MECH,221,,101,Engineering Science I,Jesus Calvino-Fraga;Agnes D'Entremont;Lindsey Daniels;Graham Hendra;Jonathan Nakane;Chun Wu,131,75.62,78.0,70.0,83.0,96.0,16.0,4,0,4,5,13,12,16,23,29,18,7
+UBCV,2023,W,MECH,222,,201,Engineering Science II,Juan Abello Rubio;Lindsey Daniels;Sheldon Green;Graham Hendra,139,71.28,72.0,65.0,79.0,97.0,30.0,9,3,4,10,22,17,22,19,20,4,8
+UBCV,2023,W,MECH,223,,201,Introduction to the Mechanical Design Process,Markus Fengler;George Rawlings,126,75.23,77.0,70.25,82.0,91.0,39.0,5,2,4,6,7,11,12,26,31,14,8
+UBCV,2023,W,MECH,224,,1AB,Integration of Engineering Concepts I,Graham Hendra,65,79.2,80.0,75.0,84.0,96.0,43.0,2,0,0,1,0,7,8,13,18,10,6
+UBCV,2023,W,MECH,224,,1CD,Integration of Engineering Concepts I,Graham Hendra,66,68.65,73.0,65.0,80.0,92.0,16.0,12,0,0,2,10,4,8,10,11,8,1
+UBCV,2023,W,MECH,224,,2RM,Integration of Engineering Concepts I,,7,63.0,64.0,61.0,66.0,67.0,56.0,0,0,1,2,4,0,0,0,0,0,0
+UBCV,2023,W,MECH,225,,2AB,Integration of Engineering Concepts II,Graham Hendra,65,74.94,74.0,70.0,82.0,97.0,43.0,4,0,0,1,8,8,14,9,11,2,8
+UBCV,2023,W,MECH,225,,2CD,Integration of Engineering Concepts II,Graham Hendra,74,66.59,69.0,61.0,76.0,89.0,30.0,13,0,2,7,13,9,8,10,9,2,0
+UBCV,2023,W,MECH,226,,001,Technical Communication for Mechanical Engineers,Adrianna Eyking;Tatiana Teslenko,121,79.21,80.0,77.0,82.0,88.0,65.0,0,0,0,0,1,4,16,34,57,9,0
+UBCV,2023,W,MECH,260,,101,Introduction to Mechanics of Materials,Jasmin Jelovica,112,70.39,73.0,62.0,83.0,99.0,3.0,15,2,6,7,6,17,9,13,10,7,18
+UBCV,2023,W,MECH,260,,201,Introduction to Mechanics of Materials,Mauricio Ponga de la Torre,115,68.67,71.0,61.5,78.5,99.0,21.0,10,4,11,6,16,10,17,13,17,2,5
+UBCV,2023,W,MECH,260,,202,Introduction to Mechanics of Materials,Graham Hendra,72,69.77,73.0,65.0,82.0,100.0,6.0,10,0,2,5,8,9,9,6,14,2,6
+UBCV,2023,W,MECH,280,,201,Introduction to Fluid Mechanics,Rajeev Jaiman,65,77.18,80.0,69.0,86.0,99.0,35.0,1,2,4,3,5,4,3,9,14,12,8
+UBCV,2023,W,MECH,305,,201,Data Analysis and Mechanical Engineering Laboratories,Agnes D'Entremont;Steven Rogak,111,71.32,72.0,67.0,76.25,95.0,43.0,3,1,3,8,14,24,24,20,8,1,2
+UBCV,2023,W,MECH,306,,201,Data Analysis and Mechatronics Laboratories,Agnes D'Entremont;Steven Rogak,24,82.33,80.0,76.0,88.25,100.0,68.0,0,0,0,0,0,1,3,5,7,3,5
+UBCV,2023,W,MECH,325,,101,Machine Design,Jon Mikkelsen,104,77.17,78.0,72.0,82.0,95.0,59.0,0,0,2,2,4,15,16,18,29,11,5
+UBCV,2023,W,MECH,325,,102,Machine Design,Jon Mikkelsen,111,79.3,80.0,75.0,82.5,95.0,51.0,0,1,1,1,4,3,18,17,38,14,10
+UBCV,2023,W,MECH,327,,101,Thermodynamics II,Patrick Kirchen,59,77.24,80.0,71.5,87.0,97.0,45.0,2,2,1,3,2,5,6,8,12,13,5
+UBCV,2023,W,MECH,328,,101,Mechanical Engineering Design Project,Markus Fengler;Peter Ostafichuk,134,77.22,77.0,75.0,81.0,94.0,50.0,0,2,2,0,4,9,23,41,33,14,5
+UBCV,2023,W,MECH,329,,101,Materials for Mechanical Design,Mattia Bacca,12,80.17,82.5,80.75,86.0,92.0,50.0,0,1,0,0,1,0,0,0,5,3,2
+UBCV,2023,W,MECH,359,,201,Computational Methods for Mechanical Engineering,Gwynn Elfring,44,78.91,81.0,70.0,87.5,95.0,56.0,0,0,2,3,4,3,2,3,11,6,9
+UBCV,2023,W,MECH,360,,101,Mechanics of Materials,Ahmad Mohammadpanah Foroutaghe,130,71.9,73.0,60.5,82.0,99.0,39.0,2,13,11,12,10,13,10,11,19,12,14
+UBCV,2023,W,MECH,360,,102,Mechanics of Materials,Ahmad Mohammadpanah Foroutaghe,105,70.86,72.0,60.5,80.0,90.0,50.0,0,9,10,14,12,6,14,7,16,7,8
+UBCV,2023,W,MECH,360,,201,Mechanics of Materials,Srikantha Anasavarapu,77,75.0,77.0,67.0,85.0,93.0,28.0,1,4,6,3,6,3,11,8,12,9,11
+UBCV,2023,W,MECH,366,,101,Modelling of Mechatronic Systems,Christoph Sielmann,30,83.0,82.0,79.0,84.0,97.0,77.0,0,0,0,0,0,0,0,8,14,3,4
+UBCV,2023,W,MECH,368,,101,Engineering Measurements and Instrumentation,Hongshen Ma,100,81.93,85.0,80.0,89.75,98.0,38.0,2,1,1,3,3,6,6,2,21,28,25
+UBCV,2023,W,MECH,368,,201,Engineering Measurements and Instrumentation,Mu Chiao,49,72.24,71.0,65.0,81.0,95.0,32.0,2,2,3,3,7,6,3,3,7,4,5
+UBCV,2023,W,MECH,375,,101,Heat Transfer,Graham Hendra,93,73.66,74.0,66.0,82.0,97.0,40.0,3,1,4,11,8,13,7,14,16,7,8
+UBCV,2023,W,MECH,375,,201,Heat Transfer,William Kendal Bushe,110,74.28,79.0,66.0,86.0,100.0,20.0,13,2,2,7,4,5,12,16,16,12,20
+UBCV,2023,W,MECH,380,,201,Fluid Dynamics,Dana Grecov,110,75.56,77.0,70.75,82.0,96.0,42.0,3,0,1,12,4,11,19,17,20,13,8
+UBCV,2023,W,MECH,386,,101,Industrial Fluid Mechanics,Babak Soltannia,23,84.09,85.0,81.0,86.0,91.0,77.0,0,0,0,0,0,0,0,4,7,8,4
+UBCV,2023,W,MECH,392,,101,Manufacturing Processes,Ahmad Mohammadpanah Foroutaghe,77,74.62,75.5,70.0,80.0,90.0,50.0,0,2,1,5,4,13,13,11,19,5,3
+UBCV,2023,W,MECH,400,,201,Professionalism and Ethics in Engineering,Christoph Sielmann,86,79.83,81.5,75.0,86.0,96.0,50.0,0,1,1,1,3,10,7,11,25,21,6
+UBCV,2023,W,MECH,410,D,101,Special Topics in Mechanical Engineering,Srikantha Anasavarapu,15,81.5,82.5,75.25,89.75,97.0,58.0,0,0,1,0,0,1,2,2,1,3,4
+UBCV,2023,W,MECH,411,,201,"Air Pollution, Technology and Society",Naomi Zimmerman,20,81.35,82.0,78.0,84.0,94.0,67.0,0,0,0,0,1,1,0,3,8,3,1
+UBCV,2023,W,MECH,420,,101,Sensors and Actuators,Boris Stoeber,34,79.32,80.0,70.25,88.75,100.0,52.0,0,1,1,1,2,7,0,3,6,6,7
+UBCV,2023,W,MECH,421,,201,Mechatronics System Instrumentation,Jian Gao,35,84.49,86.0,81.0,89.0,97.0,63.0,0,0,0,1,0,1,2,4,5,15,7
+UBCV,2023,W,MECH,423,,101,Mechatronic Product Design,Hongshen Ma,38,84.68,85.5,80.0,90.0,97.0,72.0,0,0,0,0,0,0,3,4,11,9,11
+UBCV,2023,W,MECH,426,,101,Mechanical Design,Ahmad Mohammadpanah Foroutaghe,56,80.77,81.0,77.0,88.25,99.0,50.0,0,2,1,1,2,3,2,6,17,11,11
+UBCV,2023,W,MECH,431,,201,Engineering Economics,Naomi Zimmerman,60,79.3,81.5,75.75,86.25,94.0,43.0,3,2,0,1,1,3,5,7,16,11,11
+UBCV,2023,W,MECH,433,,101,Biofluids,Dana Grecov,14,78.75,81.0,71.75,84.75,88.0,67.0,0,0,0,0,1,2,2,1,3,3,0
+UBCV,2023,W,MECH,435,,201,Orthopaedic Biomechanics,Thomas Oxland,26,75.35,78.0,72.0,82.0,87.0,56.0,0,0,2,1,2,1,6,4,7,3,0
+UBCV,2023,W,MECH,436,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont,57,80.86,81.0,76.0,88.0,98.0,44.0,1,0,0,1,1,5,6,11,11,10,11
+UBCV,2023,W,MECH,439,,201,Biomechanics Research,Hongshen Ma,8,88.75,88.5,85.5,90.75,96.0,84.0,0,0,0,0,0,0,0,0,2,2,4
+UBCV,2023,W,MECH,445,,201,Fuel Cell Systems,Siamak Najarian,26,84.42,86.0,77.5,89.0,100.0,69.0,0,0,0,0,0,1,4,3,3,9,6
+UBCV,2023,W,MECH,453,,001,Aerospace Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,14,83.0,82.5,81.25,86.75,88.0,69.0,0,0,0,0,0,1,0,0,7,6,0
+UBCV,2023,W,MECH,454,,001,Thermofluids Capstone Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,9,84.0,83.0,81.0,88.0,89.0,80.0,0,0,0,0,0,0,0,0,5,4,0
+UBCV,2023,W,MECH,457,,001,Mechanical Engineering Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,54,83.07,84.0,81.0,85.0,90.0,66.0,0,0,0,0,1,0,0,1,32,19,1
+UBCV,2023,W,MECH,458,,001,Mechatronics Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,28,82.61,82.5,81.0,84.0,90.0,78.0,0,0,0,0,0,0,0,2,21,4,1
+UBCV,2023,W,MECH,459,,001,Biomedical Design Project,Mu Chiao;Ali Ergudenler;Markus Fengler;Mehdi Hamidi;Wen Li;Vladan Prodanovic;George Rawlings;Paul Winkelman,9,83.11,83.0,81.0,85.0,86.0,80.0,0,0,0,0,0,0,0,0,5,4,0
+UBCV,2023,W,MECH,462,,101,Finite Element Analysis,Mattia Bacca,43,81.42,86.0,77.0,93.5,99.0,17.0,1,1,2,0,2,4,0,9,2,5,17
+UBCV,2023,W,MECH,463,,101,Mechanical Vibrations,Gary Schajer,122,74.02,75.0,67.5,83.0,100.0,40.0,1,8,7,9,5,19,16,11,17,15,12
+UBCV,2023,W,MECH,463,,102,Mechanical Vibrations,Ahmad Mohammadpanah Foroutaghe,72,72.31,72.0,65.0,80.0,99.0,50.0,0,6,3,4,10,12,9,1,19,2,6
+UBCV,2023,W,MECH,464,,201,Industrial Robotics,Septimiu Salcudean,34,83.15,87.0,80.0,93.0,98.0,11.0,1,0,0,1,2,0,2,0,7,6,14
+UBCV,2023,W,MECH,466,,201,Automatic Control,Ryozo Nagamune,142,77.04,77.0,69.25,83.0,98.0,54.0,0,1,5,6,14,13,17,21,30,14,21
+UBCV,2023,W,MECH,467,,101,Computer Control of Mechatronics Systems,Yusuf Altintas,32,88.22,92.0,81.5,95.25,100.0,56.0,0,0,1,0,1,0,2,3,2,3,20
+UBCV,2023,W,MECH,467,,201,Computer Control of Mechatronics Systems,Kefei Wen,32,77.79,80.0,72.0,85.0,95.0,20.0,1,0,0,0,1,1,5,5,7,5,4
+UBCV,2023,W,MECH,468,,201,Modern Control Engineering,Ryozo Nagamune,33,74.85,76.0,70.0,85.0,100.0,21.0,3,0,2,0,0,7,4,4,4,3,6
+UBCV,2023,W,MECH,469,,101,Dynamic System Modelling,Clarence Wilfred de Silva,44,83.82,85.0,81.0,88.0,95.0,58.0,0,0,1,0,0,2,2,2,14,16,7
+UBCV,2023,W,MECH,471,,201,An Introduction to Pulp and Papermaking,Barbara Dalpke,28,79.07,80.0,74.5,84.0,92.0,70.0,0,0,0,0,0,5,5,2,9,5,1
+UBCV,2023,W,MECH,477,,101,Aerospace Propulsion,William Kendal Bushe,21,78.29,78.0,68.0,85.0,100.0,55.0,0,0,2,0,3,1,2,3,3,4,3
+UBCV,2023,W,MECH,478,,201,Internal Combustion Engines,Patrick Kirchen,37,80.94,84.0,76.0,86.0,100.0,39.0,1,0,1,0,0,2,3,5,6,13,4
+UBCV,2023,W,MECH,479,,101,Introduction to Computational Fluid Dynamics,Mohammed Hannan,29,87.43,90.0,84.75,92.0,98.0,65.0,0,0,0,0,1,0,0,3,3,6,15
+UBCV,2023,W,MECH,481,,101,Aerodynamics of Aircraft I,Mohammed Hannan,19,82.26,82.0,75.0,87.5,96.0,69.0,0,0,0,0,0,1,4,1,4,5,4
+UBCV,2023,W,MECH,484,,201,Aircraft Design: Aerodynamics,Ali Vakil,29,79.72,78.0,70.0,92.0,99.0,46.0,1,1,0,0,2,5,3,3,3,2,9
+UBCV,2023,W,MECH,485,,101,Aircraft Design: Structures,Mauricio Ponga de la Torre,32,81.09,89.0,66.75,92.25,100.0,47.0,1,1,1,3,3,1,2,1,1,2,16
+UBCV,2023,W,MECH,488,,101,Introduction to Ship Hydrodynamics,Mohammed Hannan,35,81.11,80.0,76.0,88.0,99.0,50.0,1,0,0,1,0,1,4,8,7,6,7
+UBCV,2023,W,MECH,489,,201,Experimental Thermofluids,Steven Rogak,26,84.69,84.0,79.5,89.75,94.0,73.0,0,0,0,0,0,0,3,4,7,5,7
+UBCV,2023,W,MECH,491,,101,Computer-Aided Manufacturing,Jack Chen,31,78.77,81.0,73.25,85.0,90.0,56.0,0,0,1,1,0,5,1,6,7,8,1
+UBCV,2023,W,MECH,495,,201,Industrial Engineering,Farrokh Sassani,100,87.53,90.0,84.0,95.0,100.0,35.0,1,0,0,3,3,1,3,5,11,15,55
+UBCV,2023,W,MECH,496,,101,Engineering Management,George Rawlings,56,81.14,81.0,78.0,85.0,90.0,67.0,0,0,0,0,1,3,3,10,22,14,3
+UBCV,2023,W,MECH,502,,101,Fluid Mechanics,Gwynn Elfring,32,72.79,76.0,60.0,85.0,97.0,32.0,2,0,0,7,1,2,1,2,6,5,3
+UBCV,2023,W,MECH,503,,201,Linear Elasticity,Mauricio Ponga de la Torre,33,81.79,84.0,80.0,87.0,100.0,38.0,1,0,0,1,0,1,2,3,9,10,6
+UBCV,2023,W,MECH,506,,201,Linear Vibrations,Srikantha Anasavarapu,22,70.41,68.0,68.0,69.75,91.0,68.0,0,0,0,0,0,17,4,0,0,0,1
+UBCV,2023,W,MECH,509,,201,Controls,Ryozo Nagamune,31,81.94,83.0,75.5,90.5,98.0,24.0,1,0,0,0,0,3,4,1,7,4,11
+UBCV,2023,W,MECH,512,,101,Experimental Methods in Mechanics,Gary Schajer,8,86.25,86.5,83.5,90.25,95.0,75.0,0,0,0,0,0,0,1,0,2,2,3
+UBCV,2023,W,MECH,514,,101,Linear FEA in Solids and Heat Transfer,Mattia Bacca,12,75.9,76.5,66.5,85.25,94.0,60.0,0,0,0,2,1,1,1,0,2,2,1
+UBCV,2023,W,MECH,520,,201,Control Sensors and Actuators,Clarence Wilfred de Silva,6,84.17,83.5,81.5,87.0,88.0,81.0,0,0,0,0,0,0,0,0,4,2,0
+UBCV,2023,W,MECH,524,,101,Software Development for Mechatronic Systems,Christoph Sielmann,14,81.69,85.0,78.0,86.0,91.0,68.0,0,0,0,0,0,2,1,2,1,4,3
+UBCV,2023,W,MECH,525,,201,Instrumentation for Mechatronic Systems,Christoph Sielmann,10,78.2,78.0,77.25,79.5,82.0,75.0,0,0,0,0,0,0,2,5,3,0,0
+UBCV,2023,W,MECH,529,,101,Modelling of Dynamic Systems,Clarence Wilfred de Silva,8,86.38,86.0,82.75,88.5,94.0,80.0,0,0,0,0,0,0,0,0,3,3,2
+UBCV,2023,W,MECH,533,,101,Biofluids,Dana Grecov,12,85.67,86.5,82.25,90.25,94.0,72.0,0,0,0,0,0,0,1,1,2,4,4
+UBCV,2023,W,MECH,535,,201,Orthopaedic Biomechanics,Thomas Oxland,11,79.55,81.0,72.0,85.5,94.0,64.0,0,0,0,0,1,1,2,0,3,2,2
+UBCV,2023,W,MECH,536,,101,Fundamentals of Injury Biomechanics,Agnes D'Entremont,10,85.5,85.5,81.0,87.75,94.0,78.0,0,0,0,0,0,0,0,1,3,4,2
+UBCV,2023,W,MECH,540,E,101,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Xiaoliang Jin,15,89.33,90.0,88.0,92.0,94.0,83.0,0,0,0,0,0,0,0,0,2,4,9
+UBCV,2023,W,MECH,540,F,101,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Ryozo Nagamune,18,88.0,90.0,85.0,90.0,97.0,76.0,0,0,0,0,0,0,0,1,2,5,9
+UBCV,2023,W,MECH,540,G,101,"Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",Dominic Liao-McPherson,7,87.0,86.5,86.0,87.75,91.0,84.0,0,0,0,0,0,0,0,0,1,4,1
+UBCV,2023,W,MECH,541,,101,Computer Control of Multi-Axis Machines,Yusuf Altintas,10,88.0,89.0,82.5,93.0,96.0,76.0,0,0,0,0,0,0,0,1,2,2,5
+UBCV,2023,W,MECH,542,,201,CAD/CAM Principles and Practice,Jack Chen,21,83.84,84.0,79.0,89.0,93.0,75.0,0,0,0,0,0,0,1,5,4,4,5
+UBCV,2023,W,MECH,544,,101,Machine Tool Structures and Vibrations,Yusuf Altintas,6,91.0,90.0,88.0,95.0,96.0,86.0,,,,,,,,,,,
+UBCV,2023,W,MECH,556,,101,Research Writing,Adrianna Eyking,14,88.07,87.0,85.0,92.0,95.0,80.0,0,0,0,0,0,0,0,0,3,5,6
+UBCV,2023,W,MECH,557,,101,Research Skills for Engineers,Paul Winkelman,6,84.5,84.5,78.75,90.25,97.0,72.0,,,,,,,,,,,
+UBCV,2023,W,MECH,558,,101,Professional Responsibility for Engineers,Adrianna Eyking,34,81.94,83.5,77.25,87.75,98.0,60.0,0,0,0,1,2,3,1,4,8,7,8
+UBCV,2023,W,MECH,559,,101,Engineering Project Management,Paul Winkelman,38,81.82,81.0,76.0,86.75,94.0,73.0,0,0,0,0,0,0,4,10,11,5,8
+UBCV,2023,W,MECH,563,,201,"Robotics: Kinematics, Dynamics and Control",Septimiu Salcudean,9,90.78,93.0,88.0,94.0,98.0,80.0,0,0,0,0,0,0,0,0,2,1,6
+UBCV,2023,W,MECH,570,C,201,Emerging Topics in Thermofluids,Rajeev Jaiman,7,93.29,93.0,91.5,95.0,97.0,90.0,0,0,0,0,0,0,0,0,0,0,7
+UBCV,2023,W,MECH,570,E,201,Emerging Topics in Thermofluids,Ian Frigaard,8,88.13,89.0,86.75,89.25,92.0,83.0,0,0,0,0,0,0,0,0,1,5,2
+UBCV,2023,W,MECH,577,,201,Fuel Cell Systems,Siamak Najarian,17,85.56,90.5,83.0,92.25,99.0,47.0,1,0,0,0,0,1,1,0,2,1,10
+UBCV,2023,W,MECH,582,,201,Experimental Fluid Mechanics,Steven Rogak,6,83.8,84.0,83.0,86.0,88.0,78.0,,,,,,,,,,,
+UBCV,2023,W,MECH,587,,101,Computational Fluid Dynamics,Mohammed Hannan,12,87.17,91.5,87.25,94.25,96.0,60.0,0,0,0,1,0,1,0,0,0,3,7
+UBCV,2023,W,MECH,698,,001,Seminar,Srikantha Anasavarapu;Mattia Bacca;Jasmin Jelovica;Xiaoliang Jin;Mauricio Ponga de la Torre;Gary Schajer,14,93.5,93.5,92.75,94.25,95.0,92.0,,,,,,,,,,,
+UBCV,2023,W,MECH,698,,002,Seminar,Peter Cripton;Dana Grecov;Antony Hodgson;Hongshen Ma;Thomas Oxland;Boris Stoeber;David Wilson;Chun Wu,16,92.0,92.0,91.0,93.0,94.0,90.0,,,,,,,,,,,
+UBCV,2023,W,MECH,698,,006,Seminar,Mu Chiao;Xiaoliang Jin,17,87.0,87.0,87.0,87.0,87.0,87.0,,,,,,,,,,,

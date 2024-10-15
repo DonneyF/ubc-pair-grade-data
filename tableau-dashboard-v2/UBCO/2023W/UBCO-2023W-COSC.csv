@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2023,W,COSC,101,,101,Digital Citizenship,Mohamad Khajezade,188,86.9,91.0,85.0,95.0,100.0,0.0,9,0,0,2,1,0,3,14,15,33,110
+UBCO,2023,W,COSC,111,,001,Computer Programming I,Abdallah Mohamed,114,82.4,87.0,75.0,97.0,100.0,35.0,13,0,0,0,2,5,8,9,13,13,46
+UBCO,2023,W,COSC,111,,002,Computer Programming I,Scott Fazackerley,163,68.2,72.0,45.0,87.0,100.0,0.0,49,0,2,3,11,14,9,8,19,10,35
+UBCO,2023,W,COSC,111,,003,Computer Programming I,Mohamad Khajezade,110,73.3,77.0,61.5,89.5,100.0,20.0,23,0,2,5,4,5,8,9,10,11,26
+UBCO,2023,W,COSC,111,,101,Computer Programming I,Mostafa Mohamed,115,77.2,80.0,71.3,92.8,100.0,0.0,18,0,1,1,2,5,13,8,11,9,38
+UBCO,2023,W,COSC,121,,101,Computer Programming II,Abdallah Mohamed,197,73.0,76.5,65.0,87.0,100.0,0.0,29,0,2,11,10,18,17,18,23,24,36
+UBCO,2023,W,COSC,121,,102,Computer Programming II,Scott Fazackerley,144,67.3,70.0,56.0,81.0,100.0,0.0,28,3,13,4,13,14,10,14,12,10,16
+UBCO,2023,W,COSC,122,,001,Computer Fluency,Congsong Zhang,253,81.4,86.0,77.0,93.0,100.0,0.0,22,0,2,6,6,8,10,14,37,45,93
+UBCO,2023,W,COSC,123,,101,Computer Creativity,Youry Khmelevsky,165,83.4,85.0,79.0,92.0,100.0,0.0,3,0,1,4,6,5,12,10,22,28,70
+UBCO,2023,W,COSC,210,,101,Software Construction,Gema Rodriguez-Perez,30,66.4,71.0,61.0,81.0,95.0,0.0,5,1,0,4,0,5,3,3,1,3,4
+UBCO,2023,W,COSC,211,,001,Machine Architecture,Scott Fazackerley,216,73.7,77.0,65.0,88.0,100.0,2.0,30,1,5,8,14,18,19,18,21,23,48
+UBCO,2023,W,COSC,221,,001,Introduction to Discrete Structures,Yong Gao,67,77.2,78.0,72.0,87.0,95.0,32.0,3,1,1,2,5,3,10,12,8,8,12
+UBCO,2023,W,COSC,221,,101,Introduction to Discrete Structures,Yong Gao,121,75.6,79.0,70.0,86.0,97.0,26.0,7,6,5,2,4,9,9,19,21,19,15
+UBCO,2023,W,COSC,222,,001,Data Structures,Yves Lucet,216,76.4,79.0,72.0,85.0,97.0,4.0,14,3,3,6,16,8,18,44,43,35,23
+UBCO,2023,W,COSC,301,,101,Introduction to Data Analytics,Mostafa Mohamed,100,79.3,80.0,73.0,86.0,100.0,10.0,1,1,3,4,2,11,7,16,20,15,18
+UBCO,2023,W,COSC,303,,101,Numerical Analysis,Warren Hare,39,81.1,82.0,76.3,90.0,97.0,32.0,1,1,1,0,0,0,4,3,9,5,10
+UBCO,2023,W,COSC,304,,001,Introduction to Databases,Ramon Lawrence,235,79.1,81.0,74.5,88.0,100.0,0.0,14,0,6,2,8,17,18,37,45,38,46
+UBCO,2023,W,COSC,305,,101,Project Management,Mostafa Mohamed,115,84.3,86.0,79.0,93.0,100.0,24.0,2,1,1,4,1,4,6,12,14,24,44
+UBCO,2023,W,COSC,310,,101,Software Engineering,Gema Rodriguez-Perez,216,80.2,84.0,76.0,89.0,100.0,0.0,8,2,5,3,9,9,17,28,28,55,49
+UBCO,2023,W,COSC,320,,001,Analysis of Algorithms,Fatemeh Hendijani Fard,187,80.3,83.0,76.0,89.0,100.0,17.0,11,0,2,3,4,12,11,24,37,41,41
+UBCO,2023,W,COSC,322,,101,Introduction to Artificial Intelligence,Yong Gao,99,76.9,79.0,69.0,85.0,93.0,45.0,1,0,4,3,11,11,7,13,22,19,6
+UBCO,2023,W,COSC,328,,001,Introduction to Networks,Fatemeh Hendijani Fard,103,76.2,79.0,65.0,88.0,100.0,19.0,4,2,7,11,3,6,7,13,15,8,23
+UBCO,2023,W,COSC,335,,101,Introduction to Medical Imaging and Imaging Informatics,Michael Kudla-Hooper;Rasika Rajapakshe,6,80.8,85.5,81.3,86.8,95.0,52.0,0,1,0,0,0,0,0,0,1,3,1
+UBCO,2023,W,COSC,341,,001,Human Computer Interaction,Arshad Nasser,95,80.8,82.0,74.5,89.0,96.0,52.0,0,1,1,6,3,9,7,11,15,21,21
+UBCO,2023,W,COSC,341,,101,Human Computer Interaction,Mohammad Khalad Hasan,145,82.8,85.0,78.0,90.0,99.0,13.0,2,0,1,1,4,9,14,13,25,34,41
+UBCO,2023,W,COSC,344,,101,Image Processing and Applications,Shan du,77,81.9,84.0,76.0,91.0,99.0,43.0,2,1,2,2,2,3,7,5,18,9,26
+UBCO,2023,W,COSC,360,,001,Web Programming,Ifeoma Adaji,167,74.8,75.0,68.0,83.5,100.0,16.0,6,3,8,5,14,20,28,21,20,16,22
+UBCO,2023,W,COSC,407,,101,Introduction to Parallel Computing,Yves Lucet,120,71.7,74.0,68.0,79.8,91.0,9.0,9,1,2,4,11,16,22,20,18,10,1
+UBCO,2023,W,COSC,414,,001,Computer Graphics,Shan du,99,73.0,75.0,68.0,82.0,94.0,24.0,5,1,4,3,10,13,15,12,16,10,4
+UBCO,2023,W,COSC,421,,101,Network Science,Ifeoma Adaji,60,75.8,79.0,68.8,84.3,95.0,37.0,2,2,5,4,1,5,3,9,14,10,5
+UBCO,2023,W,COSC,444,,101,Computer Vision,Mohamed Shehata,18,77.8,76.0,72.8,83.0,94.0,65.0,0,0,0,0,3,1,2,6,2,2,2
+UBCO,2023,W,COSC,499,,001,Capstone Software Engineering Project,Bowen Hui,105,84.3,85.0,80.0,92.3,98.0,45.0,4,0,0,0,1,2,7,11,26,12,41
+UBCO,2023,W,COSC,507,,101,Parallel Computing,Yves Lucet,8,84.5,87.5,81.5,89.5,91.0,70.0,0,0,0,0,0,1,0,1,1,3,2
+UBCO,2023,W,COSC,519,I,001,Topics in Computer Science,Shan du,11,88.4,90.0,85.5,92.5,98.0,74.0,0,0,0,0,0,0,1,0,2,2,6
+UBCO,2023,W,COSC,520,,001,Advanced Algorithms,Islam Osman,20,91.0,91.0,90.0,92.3,94.0,83.0,0,0,0,0,0,0,0,0,1,1,18
+UBCO,2023,W,COSC,521,,001,Network Science,Ifeoma Adaji,13,87.8,88.0,85.0,91.0,96.0,75.0,0,0,0,0,0,0,1,0,0,8,4
+UBCO,2023,W,COSC,544,,101,Computer Vision,Mohamed Shehata,13,80.5,80.0,77.0,86.0,90.0,70.0,0,0,0,0,0,1,2,2,3,4,1
+UBCO,2023,W,COSC,548,,002,Directed Studies,Fatemeh Hendijani Fard,6,100.0,100.0,100.0,100.0,100.0,100.0,0,0,0,0,0,0,0,0,0,0,6

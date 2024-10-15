@@ -1,0 +1,139 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2023,W,CPSC,100,,101,Computational Thinking,Oluwakemi Ola,114,80.1,81.0,74.0,88.0,100.0,0.0,2,1,0,2,4,7,17,13,18,20,25
+UBCV,2023,W,CPSC,100,,201,Computational Thinking,Oluwakemi Ola,102,80.1,84.0,75.0,90.0,98.0,0.0,5,1,2,2,2,7,8,8,17,21,28
+UBCV,2023,W,CPSC,103,,101,Introduction to Systematic Program Design,Ian Mitchell;Jessica Wong,252,74.9,81.0,70.8,87.0,95.0,2.0,41,0,1,3,7,9,14,32,36,49,48
+UBCV,2023,W,CPSC,103,,102,Introduction to Systematic Program Design,Hendrik Blok,256,74.9,81.0,70.0,88.0,95.0,2.0,46,0,0,0,5,14,13,25,36,57,52
+UBCV,2023,W,CPSC,103,,201,Introduction to Systematic Program Design,Giulia Toti,275,82.6,87.0,79.0,92.0,100.0,1.0,14,2,3,3,4,14,11,22,31,56,103
+UBCV,2023,W,CPSC,103,,202,Introduction to Systematic Program Design,Giulia Toti,251,81.1,86.0,76.5,93.0,100.0,1.0,19,3,2,2,10,10,10,21,28,45,93
+UBCV,2023,W,CPSC,103,,V01,Introduction to Systematic Program Design,Jessica Wong,61,70.1,73.0,64.0,82.0,90.0,41.0,8,0,2,4,9,6,4,8,6,10,2
+UBCV,2023,W,CPSC,107,,207,Systematic Program Design,Hendrik Blok,124,69.4,72.5,59.0,80.8,99.0,20.0,21,2,8,4,8,14,16,13,11,7,14
+UBCV,2023,W,CPSC,110,,101,"Computation, Programs, and Programming",Gregor Kiczales,579,78.0,82.0,73.0,90.0,100.0,0.0,58,2,10,16,11,28,39,52,89,91,142
+UBCV,2023,W,CPSC,110,,102,"Computation, Programs, and Programming",Gregor Kiczales,634,80.1,85.0,74.0,92.0,100.0,0.0,55,1,6,10,29,23,42,46,80,92,213
+UBCV,2023,W,CPSC,110,,201,"Computation, Programs, and Programming",Norman Hutchinson;Gregor Kiczales,190,69.1,76.0,56.8,86.3,99.0,0.0,34,5,9,5,10,10,9,16,20,14,36
+UBCV,2023,W,CPSC,110,,203,"Computation, Programs, and Programming",Norman Hutchinson;Gregor Kiczales,209,67.9,73.0,47.0,88.0,100.0,0.0,47,3,4,8,12,13,15,14,12,18,39
+UBCV,2023,W,CPSC,110,,CH1,"Computation, Programs, and Programming",,18,85.9,87.0,81.5,90.3,99.0,75.0,0,0,0,0,0,0,1,3,2,7,5
+UBCV,2023,W,CPSC,121,,101,Models of Computation,Seyyed Hosseini,190,76.5,78.0,69.0,86.0,100.0,0.0,15,0,2,9,11,21,21,21,32,18,38
+UBCV,2023,W,CPSC,121,,102,Models of Computation,Karina Mochetti de Magalhaes,245,76.6,79.0,70.0,88.0,100.0,0.0,23,0,4,5,18,19,21,29,39,28,49
+UBCV,2023,W,CPSC,121,,103,Models of Computation,Karina Mochetti de Magalhaes,271,77.1,80.0,70.0,89.0,100.0,0.0,29,2,3,4,13,22,19,35,34,42,58
+UBCV,2023,W,CPSC,121,,201,Models of Computation,Karina Mochetti de Magalhaes,177,79.8,84.0,74.0,91.0,99.0,0.0,20,0,0,2,8,5,10,9,34,29,52
+UBCV,2023,W,CPSC,121,,202,Models of Computation,Karina Mochetti de Magalhaes,182,75.7,82.0,70.0,88.0,100.0,1.0,34,0,0,0,3,12,17,11,24,34,42
+UBCV,2023,W,CPSC,121,,203,Models of Computation,Karina Mochetti de Magalhaes,180,79.1,84.0,76.0,91.0,100.0,14.0,25,1,1,2,3,3,8,21,29,29,55
+UBCV,2023,W,CPSC,203,,201,"Programming, Problem Solving, and Algorithms",Firas Moosvi,118,88.9,93.0,87.0,96.0,99.0,18.0,3,0,0,1,0,5,4,1,8,16,79
+UBCV,2023,W,CPSC,210,,101,Software Construction,Paul Carter,284,74.5,77.0,66.5,86.0,100.0,5.0,20,6,9,16,17,30,28,26,44,22,52
+UBCV,2023,W,CPSC,210,,102,Software Construction,Paul Carter,201,75.6,78.0,67.0,86.0,100.0,26.0,14,5,5,10,13,20,17,10,31,26,36
+UBCV,2023,W,CPSC,210,,103,Software Construction,Mehrdad Oveisi-Fordoei,156,70.9,75.0,62.5,84.0,100.0,5.0,24,3,7,3,11,14,14,16,20,11,24
+UBCV,2023,W,CPSC,210,,201,Software Construction,Felix Grund,249,82.9,86.5,76.8,94.0,100.0,7.0,10,0,1,6,4,18,14,20,31,31,97
+UBCV,2023,W,CPSC,210,,202,Software Construction,Firas Moosvi,179,78.2,81.0,72.0,92.0,100.0,5.0,16,1,5,3,9,6,16,16,23,19,51
+UBCV,2023,W,CPSC,210,,203,Software Construction,Felix Grund,172,83.6,88.0,76.0,95.0,100.0,6.0,10,0,0,2,5,5,18,7,21,25,73
+UBCV,2023,W,CPSC,213,,101,Introduction to Computer Systems,Jordon Johnson,212,74.2,76.0,65.8,88.3,96.0,26.0,26,1,5,11,19,18,17,16,23,25,43
+UBCV,2023,W,CPSC,213,,102,Introduction to Computer Systems,Michael Feeley,177,78.4,81.0,71.0,88.0,96.0,19.0,9,1,1,9,4,20,15,19,35,22,38
+UBCV,2023,W,CPSC,213,,203,Introduction to Computer Systems,Geoffrey Tien,159,74.9,77.0,67.0,88.0,99.0,26.0,17,0,4,7,16,13,10,17,26,13,33
+UBCV,2023,W,CPSC,213,,204,Introduction to Computer Systems,Geoffrey Tien,142,75.1,77.0,67.0,86.0,98.0,26.0,12,0,2,6,17,12,15,18,16,13,26
+UBCV,2023,W,CPSC,213,,205,Introduction to Computer Systems,Jordon Johnson,178,77.5,80.5,69.0,90.0,98.0,33.0,15,0,3,8,9,18,13,16,18,24,46
+UBCV,2023,W,CPSC,221,,101,Basic Algorithms and Data Structures,Vsevolod Lynov,203,80.9,82.0,75.0,90.0,98.0,39.0,2,1,3,4,7,18,21,15,47,29,51
+UBCV,2023,W,CPSC,221,,102,Basic Algorithms and Data Structures,Geoffrey Tien,186,79.3,83.0,75.0,87.0,97.0,0.0,7,1,1,4,8,13,16,15,48,46,23
+UBCV,2023,W,CPSC,221,,201,Basic Algorithms and Data Structures,Vsevolod Lynov,208,79.0,81.0,74.0,85.0,96.0,45.0,2,1,3,6,8,13,26,28,47,45,24
+UBCV,2023,W,CPSC,221,,202,Basic Algorithms and Data Structures,Geoffrey Tien,180,78.5,81.0,73.0,87.0,99.0,18.0,6,0,2,7,8,16,18,20,41,36,21
+UBCV,2023,W,CPSC,221,,203,Basic Algorithms and Data Structures,Vsevolod Lynov,214,81.1,82.0,77.0,87.0,97.0,45.0,1,0,5,5,6,9,14,27,51,55,40
+UBCV,2023,W,CPSC,259,,101,Data Structures and Algorithms for Electrical Engineers,Geoffrey Tien,216,75.9,78.0,72.0,83.0,100.0,3.0,10,3,2,7,10,17,34,34,53,21,14
+UBCV,2023,W,CPSC,302,,101,Numerical Computation for Algebraic Problems,Chen Greif,98,76.5,78.0,69.0,90.0,99.0,8.0,5,3,1,6,3,15,9,5,10,11,25
+UBCV,2023,W,CPSC,303,,201,Numerical Approximation and Discretization,Joel Friedman,58,76.7,77.0,71.0,88.5,100.0,5.0,3,1,1,1,4,5,8,5,9,4,14
+UBCV,2023,W,CPSC,304,,101,Introduction to Relational Databases,Rachel Pottinger,175,79.5,81.0,75.0,86.0,96.0,34.0,4,2,3,1,8,12,17,19,50,25,33
+UBCV,2023,W,CPSC,304,,102,Introduction to Relational Databases,Gittu George;Jessica Wong,175,79.3,81.0,74.0,86.0,94.0,45.0,5,0,2,3,4,13,25,18,46,35,23
+UBCV,2023,W,CPSC,304,,103,Introduction to Relational Databases,Vsevolod Lynov,116,77.1,80.0,72.0,84.0,94.0,35.0,3,1,2,2,3,16,18,8,41,14,8
+UBCV,2023,W,CPSC,304,,201,Introduction to Relational Databases,Vsevolod Lynov,169,79.5,81.0,73.0,88.0,98.0,42.0,1,2,4,4,12,12,20,19,32,28,35
+UBCV,2023,W,CPSC,304,,202,Introduction to Relational Databases,Raymond Tak-Yan Ng,149,79.3,80.0,73.0,88.0,96.0,45.0,3,1,2,3,4,20,16,20,25,24,31
+UBCV,2023,W,CPSC,310,,101,Introduction to Software Engineering,Reid Holmes,186,81.7,83.0,77.0,88.0,94.0,53.0,0,2,1,5,4,10,16,20,44,54,28
+UBCV,2023,W,CPSC,310,,102,Introduction to Software Engineering,Reid Holmes,165,82.8,85.0,79.0,89.0,97.0,50.0,0,1,0,5,6,4,10,24,29,51,34
+UBCV,2023,W,CPSC,310,,201,Introduction to Software Engineering,Nicholas Bradley;Katharine Kerr,112,80.7,83.0,76.0,88.0,96.0,42.0,1,1,1,2,6,7,7,19,19,28,19
+UBCV,2023,W,CPSC,310,,202,Introduction to Software Engineering,Nicholas Bradley;Katharine Kerr,125,82.2,83.0,77.0,88.0,96.0,50.0,0,2,0,3,1,7,10,18,25,36,20
+UBCV,2023,W,CPSC,310,,203,Introduction to Software Engineering,Nicholas Bradley;Katharine Kerr,132,82.1,85.0,76.0,90.0,97.0,42.0,1,5,0,0,5,6,13,13,19,33,35
+UBCV,2023,W,CPSC,311,,101,Definition of Programming Languages,Ronald Garcia,96,77.3,83.0,66.0,91.0,99.0,0.0,5,3,9,1,5,4,3,10,8,11,26
+UBCV,2023,W,CPSC,312,,201,Functional and Logic Programming,David Poole,89,77.4,78.0,71.3,84.0,99.0,2.0,3,0,1,3,4,11,10,13,20,7,14
+UBCV,2023,W,CPSC,313,,101,Computer Hardware and Operating Systems,Norman Hutchinson;Steven Wolfman,161,78.0,81.0,73.0,86.0,95.0,30.0,7,3,1,4,3,15,16,26,31,32,20
+UBCV,2023,W,CPSC,313,,102,Computer Hardware and Operating Systems,Norman Hutchinson;Steven Wolfman,187,75.7,78.5,69.8,85.0,98.0,0.0,13,1,4,9,13,13,24,22,34,32,19
+UBCV,2023,W,CPSC,313,,203,Computer Hardware and Operating Systems,Steven Wolfman,204,77.0,79.0,71.0,86.0,97.0,35.0,9,1,5,8,10,18,26,24,45,30,25
+UBCV,2023,W,CPSC,313,,204,Computer Hardware and Operating Systems,Steven Wolfman,200,77.1,78.5,71.0,85.3,97.0,40.0,10,0,5,7,8,21,23,27,39,28,28
+UBCV,2023,W,CPSC,314,,101,Computer Graphics,Michiel van de Panne,137,83.6,86.5,80.0,90.0,97.0,27.0,2,2,0,0,3,5,8,12,23,43,38
+UBCV,2023,W,CPSC,314,,201,Computer Graphics,Dinesh Pai,131,82.8,84.0,79.0,89.0,100.0,30.0,1,1,1,3,4,3,7,15,30,35,27
+UBCV,2023,W,CPSC,317,,101,Introduction to Computer Networking,Norman Hutchinson,182,76.6,78.0,69.0,86.0,98.0,45.0,3,3,5,9,18,21,12,25,31,33,17
+UBCV,2023,W,CPSC,317,,201,Introduction to Computer Networking,Norman Hutchinson;Aastha Mehta,138,80.7,82.0,75.0,89.0,98.0,41.0,5,0,1,1,6,8,14,12,32,28,27
+UBCV,2023,W,CPSC,317,,202,Introduction to Computer Networking,Aastha Mehta,164,77.5,79.0,72.8,85.0,94.0,37.0,3,0,4,8,8,13,20,25,36,32,11
+UBCV,2023,W,CPSC,319,,201,Software Engineering Project,Jerry Jim,66,87.4,89.0,83.0,92.0,95.0,71.0,0,0,0,0,0,1,2,4,10,18,30
+UBCV,2023,W,CPSC,320,,101,Intermediate Algorithm Design and Analysis,Anne Condon;Jordan Kari Lovrod;Mehrdad Oveisi-Fordoei,238,74.9,76.0,67.5,84.5,99.0,8.0,12,0,6,17,23,28,27,27,33,31,27
+UBCV,2023,W,CPSC,320,,102,Intermediate Algorithm Design and Analysis,Anne Condon;Jordan Kari Lovrod;Mehrdad Oveisi-Fordoei,199,76.1,78.0,70.5,84.5,96.0,5.0,10,0,5,9,10,19,20,38,35,26,23
+UBCV,2023,W,CPSC,320,,201,Intermediate Algorithm Design and Analysis,Susanne Bradley,200,74.9,76.0,69.0,84.0,97.0,7.0,15,3,7,2,15,19,27,24,34,21,27
+UBCV,2023,W,CPSC,320,,202,Intermediate Algorithm Design and Analysis,Frederick Shepherd,150,78.8,81.0,73.0,87.0,98.0,38.0,4,1,0,3,10,16,15,20,31,19,26
+UBCV,2023,W,CPSC,320,,203,Intermediate Algorithm Design and Analysis,Susanne Bradley,179,76.0,78.0,71.0,85.0,99.0,1.0,11,1,6,7,6,17,27,26,26,23,24
+UBCV,2023,W,CPSC,322,,101,Introduction to Artificial Intelligence,Jordon Johnson,159,76.2,78.0,70.0,85.0,98.0,22.0,9,0,5,6,12,11,21,22,29,21,19
+UBCV,2023,W,CPSC,322,,102,Introduction to Artificial Intelligence,Jordon Johnson,120,73.0,75.0,64.0,83.0,98.0,33.0,8,3,6,10,10,12,13,14,17,11,13
+UBCV,2023,W,CPSC,322,,201,Introduction to Artificial Intelligence,Mehrdad Oveisi-Fordoei,132,77.7,79.0,71.0,85.0,99.0,50.0,0,2,5,6,12,10,18,16,27,14,20
+UBCV,2023,W,CPSC,330,,101,Applied Machine Learning,Andrew Roth,167,77.5,79.0,71.0,86.0,98.0,26.0,5,3,2,2,15,16,16,23,32,28,20
+UBCV,2023,W,CPSC,330,,102,Applied Machine Learning,Varada Kolhatkar,187,78.1,79.0,73.0,85.0,95.0,43.0,3,3,3,5,8,14,26,32,39,36,16
+UBCV,2023,W,CPSC,330,,201,Applied Machine Learning,Mathias Lecuyer,155,84.1,85.5,80.0,90.0,99.0,53.0,0,1,1,0,7,6,6,12,36,37,46
+UBCV,2023,W,CPSC,330,,202,Applied Machine Learning,Mehrdad Oveisi-Fordoei,165,83.5,86.0,79.0,90.0,98.0,10.0,2,0,0,2,4,6,12,18,27,49,45
+UBCV,2023,W,CPSC,340,,101,Machine Learning and Data Mining,Jeffrey Clune;Mark Schmidt,114,81.7,84.0,76.0,89.0,96.0,46.0,1,2,1,2,2,5,12,11,25,27,25
+UBCV,2023,W,CPSC,340,,102,Machine Learning and Data Mining,Jeffrey Clune;Mark Schmidt,98,80.4,83.0,75.0,89.0,96.0,46.0,1,2,3,3,2,8,6,13,19,17,23
+UBCV,2023,W,CPSC,340,,201,Machine Learning and Data Mining,Jeffrey Clune;Jiarui Ding,118,80.2,83.0,76.0,88.0,96.0,36.0,5,2,3,1,2,3,12,11,26,25,23
+UBCV,2023,W,CPSC,340,,202,Machine Learning and Data Mining,Jeffrey Clune;Jiarui Ding,73,82.6,85.0,77.5,88.8,97.0,52.0,0,1,1,1,1,4,7,7,12,20,16
+UBCV,2023,W,CPSC,344,,101,Introduction to Human Computer Interaction Methods,Anika Sayara;Thitaree Tanprasert,103,87.2,88.0,85.0,91.0,96.0,69.0,0,0,0,0,0,1,3,5,16,38,40
+UBCV,2023,W,CPSC,344,,201,Introduction to Human Computer Interaction Methods,Laura Cang,124,85.4,86.0,83.0,90.0,93.0,63.0,0,0,0,1,0,0,1,7,26,56,33
+UBCV,2023,W,CPSC,368,,201,Databases in Data Science,Jessica Wong,58,75.1,76.0,72.0,80.3,96.0,14.0,3,0,0,0,3,4,12,14,10,7,3
+UBCV,2023,W,CPSC,404,,101,Advanced Relational Databases,Edwin Max Knorr,167,77.9,79.5,72.0,87.0,98.0,7.0,4,3,3,11,7,10,20,24,24,34,24
+UBCV,2023,W,CPSC,404,,201,Advanced Relational Databases,Jianhao Cao,78,79.3,81.0,73.0,87.0,98.0,23.0,1,2,2,1,6,4,9,10,14,12,16
+UBCV,2023,W,CPSC,406,,201,Computational Optimization,Michael Friedlander,75,81.1,83.5,75.8,89.0,98.0,46.0,3,0,0,3,4,2,6,8,13,17,16
+UBCV,2023,W,CPSC,410,,201,Advanced Software Engineering,Caroline Lemieux;Alexander Summers,113,76.2,77.5,70.3,83.0,91.0,45.0,1,3,2,4,9,14,13,16,28,15,5
+UBCV,2023,W,CPSC,416,,101,Distributed Systems,William Mason,113,86.7,90.0,84.0,93.0,98.0,25.0,1,0,2,2,2,1,6,5,10,21,60
+UBCV,2023,W,CPSC,416,,201,Distributed Systems,Arpan Gujarati,70,80.8,82.0,75.0,88.0,96.0,52.0,0,1,1,1,4,5,8,7,12,16,13
+UBCV,2023,W,CPSC,418,,101,Parallel Computation,Mark Greenstreet,21,84.5,92.0,84.0,95.0,98.0,8.0,1,0,0,0,1,0,1,1,1,3,11
+UBCV,2023,W,CPSC,418,,201,Parallel Computation,Mark Greenstreet,48,90.2,92.0,88.0,93.8,100.0,71.0,0,0,0,0,0,1,0,3,3,9,30
+UBCV,2023,W,CPSC,420,,201,Advanced Algorithms Design and Analysis,William Evans,80,75.2,77.0,68.8,85.3,95.0,0.0,3,1,1,6,7,8,8,11,4,17,10
+UBCV,2023,W,CPSC,421,,101,Introduction to Theory of Computing,Joel Friedman,78,82.4,83.0,77.0,90.0,100.0,24.0,1,2,0,1,0,4,8,7,22,9,24
+UBCV,2023,W,CPSC,422,,201,Intelligent Systems,Jordon Johnson,127,75.2,77.5,71.0,84.0,96.0,2.0,6,2,2,4,8,11,24,15,23,16,13
+UBCV,2023,W,CPSC,425,,101,Computer Vision,Matthew Brown,98,78.7,82.0,75.0,86.0,98.0,0.0,2,2,2,3,2,3,12,11,27,20,9
+UBCV,2023,W,CPSC,425,,201,Computer Vision,Kwang Moo Yi,93,81.3,81.0,77.0,86.0,95.0,57.0,0,0,1,0,0,5,11,16,22,25,8
+UBCV,2023,W,CPSC,427,,101,Video Game Programming,Helge Rhodin,105,94.3,95.0,93.0,98.0,100.0,70.0,0,0,0,0,0,1,1,2,3,9,88
+UBCV,2023,W,CPSC,427,,201,Video Game Programming,Chris Kerslake,92,84.9,86.0,80.0,92.0,100.0,40.0,1,0,1,0,1,7,3,8,17,21,33
+UBCV,2023,W,CPSC,430,,101,Computers and Society,Giulia Toti;Hedayat Zarkoob,116,83.8,86.0,80.0,88.5,96.0,60.0,0,0,0,2,2,2,10,9,26,38,26
+UBCV,2023,W,CPSC,430,,201,Computers and Society,Hedayat Zarkoob,87,80.7,84.0,79.3,87.0,92.0,18.0,4,0,0,1,0,4,6,7,22,35,7
+UBCV,2023,W,CPSC,436,A,101,Topics in Computer Science,Thomas Pasquier,23,82.3,82.0,77.0,88.0,95.0,64.0,0,0,0,0,1,1,2,3,7,4,5
+UBCV,2023,W,CPSC,436,C,101,Topics in Computer Science,Maryam Raiyat Aliabadi,39,90.5,90.0,86.0,95.0,100.0,80.0,0,0,0,0,0,0,0,0,7,11,21
+UBCV,2023,W,CPSC,436,C,201,Topics in Computer Science,Maryam Raiyat Aliabadi,50,90.5,92.0,86.5,98.0,100.0,35.0,1,0,0,0,0,0,1,5,3,5,35
+UBCV,2023,W,CPSC,436,E,201,Topics in Computer Science,Frank Donald Wood,31,82.5,84.0,76.5,89.0,90.0,72.0,0,0,0,0,0,0,8,4,4,12,3
+UBCV,2023,W,CPSC,436,N,101,Topics in Computer Science,Vered Shwartz,73,86.7,89.0,81.5,93.0,98.0,68.0,0,0,0,0,0,4,4,7,6,19,31
+UBCV,2023,W,CPSC,436,R,101,Topics in Computer Science,Nicholas Harvey,48,81.6,84.0,74.5,89.0,96.0,50.0,0,1,2,0,2,4,4,2,10,11,11
+UBCV,2023,W,CPSC,436,S,201,Topics in Computer Science,Bo Robert Xiao,89,80.4,81.5,73.8,88.3,100.0,26.0,1,1,1,2,2,6,12,11,21,14,17
+UBCV,2023,W,CPSC,440,,201,Advanced Machine Learning,Danica Sutherland,96,85.9,87.0,82.5,91.0,100.0,56.0,0,0,2,1,2,1,2,5,18,33,31
+UBCV,2023,W,CPSC,444,,201,Advanced Methods for Human Computer Interaction,Sang-Wha Sien,43,81.3,83.0,77.0,86.0,92.0,49.0,1,0,0,0,1,2,3,7,12,13,4
+UBCV,2023,W,CPSC,447,,101,Introduction to Visualization,Tamara Munzner,86,82.9,84.0,78.5,88.5,96.0,54.0,0,1,0,0,3,2,7,10,23,17,20
+UBCV,2023,W,CPSC,448,A,101,Directed Studies in Computer Science,,12,93.6,93.0,90.0,98.0,100.0,85.0,0,0,0,0,0,0,0,0,0,2,10
+UBCV,2023,W,CPSC,448,A,201,Directed Studies in Computer Science,,14,91.8,95.0,89.0,95.0,99.0,75.0,0,0,0,0,0,0,1,0,0,3,9
+UBCV,2023,W,CPSC,448,B,202,Directed Studies in Computer Science,,6,94.8,95.0,94.3,98.8,100.0,85.0,0,0,0,0,0,0,0,0,0,1,5
+UBCV,2023,W,CPSC,449,,001,Honours Thesis,,15,92.4,95.0,88.0,97.5,100.0,77.0,0,0,0,0,0,0,0,1,0,3,11
+UBCV,2023,W,CPSC,504,,201,Data Management,Rachel Pottinger,18,92.1,94.0,90.0,96.0,99.0,77.0,0,0,0,0,0,0,0,1,1,2,13
+UBCV,2023,W,CPSC,508,,101,Operating Systems,Reto Achermann,13,90.4,90.5,89.3,93.0,96.0,84.0,0,0,0,0,0,0,0,0,1,2,9
+UBCV,2023,W,CPSC,509,,201,Programming Language Principles,Ronald Garcia,12,83.7,88.0,74.5,93.0,98.0,60.0,0,0,0,1,0,1,2,0,0,2,5
+UBCV,2023,W,CPSC,521,,101,Parallel Algorithms and Architectures,Mark Greenstreet,9,86.7,87.0,85.0,90.0,93.0,75.0,0,0,0,0,0,0,1,0,1,4,3
+UBCV,2023,W,CPSC,524,,201,Computer Graphics: Modelling,Alla Sheffer,14,91.3,93.0,85.0,97.5,99.0,81.0,0,0,0,0,0,0,0,0,2,2,6
+UBCV,2023,W,CPSC,532,C,201,Topics in Artificial Intelligence,Cristina Conati,12,85.8,85.5,84.0,88.3,96.0,77.0,0,0,0,0,0,0,0,1,3,7,1
+UBCV,2023,W,CPSC,532,D,101,Topics in Artificial Intelligence,Danica Sutherland,15,86.0,88.0,84.3,91.0,96.0,68.0,0,0,0,0,0,1,1,0,2,5,5
+UBCV,2023,W,CPSC,532,V,201,Topics in Artificial Intelligence,Vered Shwartz,36,96.1,96.0,95.0,100.0,100.0,85.0,0,0,0,0,0,0,0,0,0,5,31
+UBCV,2023,W,CPSC,532,Y,101,Topics in Artificial Intelligence,Mathias Lecuyer,11,83.9,89.0,74.0,95.0,98.0,49.0,1,0,0,0,0,0,2,0,0,2,4
+UBCV,2023,W,CPSC,533,V,201,Topics in Computer Graphics,Michiel van de Panne,32,87.1,89.0,85.5,94.5,100.0,0.0,1,0,0,0,0,0,0,1,5,9,15
+UBCV,2023,W,CPSC,533,Y,101,Topics in Computer Graphics,Kwang Moo Yi,14,92.6,94.0,91.5,96.0,99.0,76.0,0,0,0,0,0,0,0,1,0,1,10
+UBCV,2023,W,CPSC,536,E,101,Topics in Algorithms and Complexity,William Evans,6,94.2,95.0,93.5,95.8,96.0,90.0,0,0,0,0,0,0,0,0,0,0,6
+UBCV,2023,W,CPSC,536,M,101,Topics in Algorithms and Complexity,Michael Friedlander,16,92.9,94.0,90.3,95.0,95.0,90.0,0,0,0,0,0,0,0,0,0,0,14
+UBCV,2023,W,CPSC,536,W,201,Topics in Algorithms and Complexity,Daochen Wang,17,88.4,89.0,83.0,97.0,100.0,68.0,0,0,0,0,0,1,1,2,1,5,7
+UBCV,2023,W,CPSC,538,G,101,Topics in Computer Systems,Arpan Gujarati,10,86.8,87.0,84.3,90.3,93.0,79.0,0,0,0,0,0,0,0,1,2,4,3
+UBCV,2023,W,CPSC,538,L,101,Topics in Computer Systems,Mathias Lecuyer,7,94.2,95.0,92.0,95.8,98.0,90.0,0,0,0,0,0,0,0,0,0,0,6
+UBCV,2023,W,CPSC,538,S,201,Topics in Computer Systems,Cristie Ford;Benjamin Goold;Thomas Pasquier;Kristen Thomasen,9,82.4,84.0,77.0,88.0,91.0,75.0,0,0,0,0,0,0,1,3,2,2,1
+UBCV,2023,W,CPSC,539,B,101,Topics in Programming Languages,William Bowman,9,97.1,98.0,96.0,99.0,100.0,91.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2023,W,CPSC,539,S,101,Topics in Programming Languages,Alexander Summers,10,90.0,89.0,86.3,93.5,99.0,81.0,0,0,0,0,0,0,0,0,1,4,5
+UBCV,2023,W,CPSC,540,,101,Machine Learning,Jeffrey Clune;Mark Schmidt,24,86.5,88.0,85.8,90.3,93.0,72.0,0,0,0,0,0,0,1,2,1,10,6
+UBCV,2023,W,CPSC,540,,102,Machine Learning,Jeffrey Clune;Mark Schmidt,32,85.9,86.0,83.0,89.0,96.0,72.0,0,0,0,0,0,0,1,4,3,14,7
+UBCV,2023,W,CPSC,543,,201,Physical User Interface Design and Evaluation,Karon MacLean,8,90.0,91.5,88.5,92.3,95.0,83.0,0,0,0,0,0,0,0,0,2,0,6
+UBCV,2023,W,CPSC,544,,101,Human Computer Interaction,Karon MacLean,17,92.1,92.0,90.0,94.0,97.0,87.0,0,0,0,0,0,0,0,0,0,1,16
+UBCV,2023,W,CPSC,545,,101,Algorithms for Bioinformatics,Jiarui Ding,17,87.7,87.0,84.0,92.0,99.0,80.0,0,0,0,0,0,0,0,0,5,5,7
+UBCV,2023,W,CPSC,548,,101,Directed Study,,7,91.6,90.0,87.5,95.5,100.0,85.0,0,0,0,0,0,0,0,0,0,2,5
+UBCV,2023,W,CPSC,550,,201,Machine Learning II,Danica Sutherland,16,88.7,88.0,83.0,94.0,98.0,81.0,0,0,0,0,0,0,0,0,5,2,6
+UBCV,2023,W,CPSC,554,X,101,Topics in Human-Computer Interaction,Bo Robert Xiao,15,86.9,86.0,83.0,93.5,95.0,74.0,0,0,0,0,0,0,1,1,3,5,5

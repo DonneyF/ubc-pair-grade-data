@@ -1,36 +1,37 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2023,S,COMM,190,,921,Introduction to Quantitative Decision Making,Woonghee Tim Huh;Gregory Werker,39,69.9,70.0,62.5,83.0,99.0,23.0,2,3,3,5,5,3,3,4,3,6,2
-UBCV,2023,S,COMM,203,,921,Managing the Employment Relationship,Perdip Atwal,83,76.1,77.0,71.0,81.0,93.0,61.0,0,0,0,6,6,10,13,18,20,9,1
-UBCV,2023,S,COMM,203,,971,Managing the Employment Relationship,Perdip Atwal,59,76.7,78.0,71.5,83.5,89.0,56.0,0,0,1,3,4,7,9,7,19,9,0
-UBCV,2023,S,COMM,204,,921,Logistics and Operations Management,Woonghee Tim Huh,46,77.1,78.5,71.0,85.8,94.0,37.0,1,1,2,0,0,11,6,2,10,4,9
-UBCV,2023,S,COMM,204,,922,Logistics and Operations Management,Woonghee Tim Huh,60,79.9,81.0,74.0,88.0,97.0,58.0,0,0,2,2,5,3,5,8,14,12,9
-UBCV,2023,S,COMM,204,,971,Logistics and Operations Management,Amir Azaron,27,80.0,83.0,78.0,87.0,91.0,50.0,0,1,0,0,2,2,1,5,6,8,2
-UBCV,2023,S,COMM,204,,972,Logistics and Operations Management,Jiangze Han,32,82.7,85.0,80.0,90.0,95.0,42.0,1,0,0,0,0,3,2,0,8,9,9
-UBCV,2023,S,COMM,205,,921,Introduction to Management Information Systems,Adam Saunders,115,79.1,79.0,74.0,87.0,97.0,38.0,2,1,0,3,4,12,16,22,19,16,20
-UBCV,2023,S,COMM,293,,921,Financial Accounting,Xin Zheng,93,80.2,81.0,72.0,90.0,99.0,45.0,1,2,3,4,1,10,12,10,10,13,27
-UBCV,2023,S,COMM,293,,922,Financial Accounting,Xin Zheng,59,76.6,78.0,68.5,88.0,97.0,45.0,1,3,4,1,4,6,6,7,7,9,11
-UBCV,2023,S,COMM,294,,921,Managerial Accounting,Alina McGuinness,6,75.8,74.5,69.8,80.0,96.0,60.0,0,0,0,1,0,1,1,1,1,0,1
-UBCV,2023,S,COMM,294,,971,Managerial Accounting,Richard Wong,57,74.4,76.0,68.0,81.0,92.0,39.0,2,2,2,0,4,8,8,9,9,11,2
-UBCV,2023,S,COMM,295,,921,Managerial Economics,Ratna Shrestha,103,75.1,77.0,68.0,83.0,98.0,50.0,0,7,4,8,5,11,12,11,26,9,10
-UBCV,2023,S,COMM,335,,921,Information Systems Technology and Development,Alym Amlani;Sabrina Rai;Zorana Svedic,54,77.7,79.0,73.3,83.8,90.0,60.0,0,0,0,3,2,6,5,12,13,12,1
-UBCV,2023,S,COMM,393,,921,Commercial Law,Vanessa Park,55,78.0,79.0,73.0,85.5,94.0,55.0,0,0,4,1,4,2,6,11,12,10,5
-UBCV,2023,S,COMM,393,,922,Commercial Law,Vanessa Park,51,78.6,80.0,76.5,84.5,93.0,37.0,1,0,1,2,2,3,2,9,18,10,3
-UBCV,2023,S,COMM,393,,971,Commercial Law,Barbara Cox,36,68.8,71.0,61.8,80.0,90.0,39.0,5,0,1,5,2,5,5,3,7,2,1
-UBCV,2023,S,COMM,393,,972,Commercial Law,Barbara Cox,50,73.9,74.0,68.0,80.8,90.0,52.0,0,3,0,2,3,12,6,5,11,7,1
-UBCV,2023,S,COMM,394,,921,"Environment, Society, and Government",Steven Minns,42,79.6,80.0,75.0,85.0,95.0,70.0,0,0,0,0,0,5,9,5,11,10,2
+UBCV,2023,S,COMM,190,,921,Introduction to Quantitative Decision Making,Woonghee Tim Huh;Gregory Werker,41,69.87,70.0,62.5,83.0,99.0,23.0,2,3,3,5,5,3,3,4,3,6,2
+UBCV,2023,S,COMM,203,,921,Managing the Employment Relationship,Perdip Atwal,83,76.06,77.0,71.0,81.0,93.0,61.0,0,0,0,6,6,10,13,18,20,9,1
+UBCV,2023,S,COMM,203,,971,Managing the Employment Relationship,Perdip Atwal,61,76.71,78.0,71.5,83.5,89.0,56.0,0,0,1,3,4,7,9,7,19,9,0
+UBCV,2023,S,COMM,204,,921,Logistics and Operations Management,Woonghee Tim Huh,47,77.74,78.5,71.0,85.75,94.0,53.0,0,1,2,0,0,12,6,2,10,4,9
+UBCV,2023,S,COMM,204,,922,Logistics and Operations Management,Woonghee Tim Huh,60,79.85,81.0,74.0,88.0,97.0,58.0,0,0,2,2,5,3,5,8,14,12,9
+UBCV,2023,S,COMM,204,,971,Logistics and Operations Management,Amir Azaron,27,79.96,83.0,78.0,87.0,91.0,50.0,0,1,0,0,2,2,1,5,6,8,2
+UBCV,2023,S,COMM,204,,972,Logistics and Operations Management,Jiangze Han,32,83.66,85.0,80.0,90.0,95.0,68.0,0,0,0,0,0,3,3,0,8,9,9
+UBCV,2023,S,COMM,205,,921,Introduction to Management Information Systems,Adam Saunders,115,79.07,79.0,74.0,87.0,97.0,38.0,2,1,0,3,4,12,16,22,19,16,20
+UBCV,2023,S,COMM,293,,921,Financial Accounting,Xin Zheng,93,80.39,81.0,72.0,90.0,99.0,52.0,0,2,3,4,2,10,12,10,10,13,27
+UBCV,2023,S,COMM,293,,922,Financial Accounting,Xin Zheng,62,76.69,78.0,68.5,88.0,97.0,50.0,0,4,4,1,4,6,6,7,7,9,11
+UBCV,2023,S,COMM,294,,921,Managerial Accounting,Alina McGuinness,6,75.83,74.5,69.75,80.0,96.0,60.0,0,0,0,1,0,1,1,1,1,0,1
+UBCV,2023,S,COMM,294,,971,Managerial Accounting,Richard Wong,60,74.4,76.0,68.0,81.0,92.0,39.0,2,2,2,0,4,8,8,9,9,11,2
+UBCV,2023,S,COMM,295,,921,Managerial Economics,Ratna Shrestha,106,75.09,77.0,68.0,83.0,98.0,50.0,0,7,4,8,5,11,12,11,26,9,10
+UBCV,2023,S,COMM,335,,921,Information Systems Technology and Development,Alym Amlani;Sabrina Rai;Zorana Svedic,55,77.72,79.0,73.25,83.75,90.0,60.0,0,0,0,3,2,6,5,12,13,12,1
+UBCV,2023,S,COMM,393,,921,Commercial Law,Vanessa Park,55,78.02,79.0,73.0,85.5,94.0,55.0,0,0,4,1,4,2,6,11,12,10,5
+UBCV,2023,S,COMM,393,,922,Commercial Law,Vanessa Park,52,78.59,80.0,76.5,84.5,93.0,37.0,1,0,1,2,2,3,2,9,18,10,3
+UBCV,2023,S,COMM,393,,971,Commercial Law,Barbara Cox,37,68.68,70.0,61.0,80.0,90.0,45.0,5,1,1,5,2,5,5,3,7,2,1
+UBCV,2023,S,COMM,393,,972,Commercial Law,Barbara Cox,51,73.53,74.0,68.0,80.5,90.0,52.0,0,4,0,2,3,12,6,5,11,7,1
+UBCV,2023,S,COMM,394,,921,"Environment, Society, and Government",Steven Minns,43,79.57,80.0,75.0,85.0,95.0,70.0,0,0,0,0,0,5,9,5,11,10,2
 UBCV,2023,S,COMM,394,,922,"Environment, Society, and Government",Steven Minns,44,78.0,78.0,73.0,82.0,96.0,68.0,0,0,0,0,0,7,13,6,12,2,4
-UBCV,2023,S,COMM,394,,923,"Environment, Society, and Government",Steven Minns,27,76.4,77.0,73.0,80.0,95.0,26.0,1,0,0,0,0,4,6,5,6,2,3
-UBCV,2023,S,COMM,394,,924,"Environment, Society, and Government",Steven Minns,38,78.5,79.0,73.5,82.8,90.0,68.0,0,0,0,0,0,6,6,7,10,6,3
-UBCV,2023,S,COMM,395,,921,Business Communications,Cameron Morrell,29,80.0,80.0,79.0,81.0,88.0,66.0,0,0,0,0,1,0,1,9,14,4,0
-UBCV,2023,S,COMM,395,,971,Business Communications,Cameron Morrell,44,76.5,78.0,74.8,80.0,88.0,61.0,0,0,0,2,3,3,5,16,14,1,0
-UBCV,2023,S,COMM,396,,921,Business Communications II,Cameron Morrell,10,77.2,80.5,76.3,81.0,85.0,55.0,0,0,1,0,0,1,0,2,4,2,0
-UBCV,2023,S,COMM,396,,922,Business Communications II,Marlisse Silver Sweeney,18,78.5,78.5,76.3,82.5,90.0,61.0,0,0,0,1,0,2,1,6,4,3,1
-UBCV,2023,S,COMM,396,,923,Business Communications II,Colin Dodds,18,76.9,77.0,73.3,81.5,86.0,67.0,0,0,0,0,1,3,4,4,3,3,0
-UBCV,2023,S,COMM,396,,924,Business Communications II,Colin Dodds,14,77.4,81.5,69.5,86.3,91.0,54.0,0,1,0,2,0,1,1,1,4,2,2
-UBCV,2023,S,COMM,396,,971,Business Communications II,Holly Munn,18,78.1,79.0,72.3,82.8,91.0,64.0,0,0,0,0,1,3,2,3,5,3,1
-UBCV,2023,S,COMM,396,,972,Business Communications II,Trevor Hargreaves,12,77.6,78.5,75.3,81.0,85.0,66.0,0,0,0,0,1,0,2,3,5,1,0
-UBCV,2023,S,COMM,396,,973,Business Communications II,Holly Munn,16,80.4,80.0,73.0,84.3,95.0,70.0,0,0,0,0,0,2,3,0,7,1,3
-UBCV,2023,S,COMM,491,,921,Strategic Management,Momcilo Deretic,29,81.1,80.0,80.0,82.0,90.0,76.0,0,0,0,0,0,0,0,6,16,6,1
-UBCV,2023,S,COMM,491,,922,Strategic Management,Momcilo Deretic,31,80.5,80.0,78.0,81.0,90.0,76.0,0,0,0,0,0,0,0,9,17,3,2
-UBCV,2023,S,COMM,491,,971,Strategic Management,Adam Pankratz,34,77.0,77.5,76.0,80.0,85.0,43.0,1,0,0,0,0,1,6,12,13,1,0
-UBCV,2023,S,COMM,498,,971,International Business Management,Ilan Boris Vertinsky,21,78.4,77.0,73.0,84.0,92.0,67.0,0,0,0,0,2,3,4,3,5,1,3
+UBCV,2023,S,COMM,394,,923,"Environment, Society, and Government",Steven Minns,27,77.96,77.0,73.0,80.0,95.0,68.0,0,0,0,0,0,5,6,5,6,2,3
+UBCV,2023,S,COMM,394,,924,"Environment, Society, and Government",Steven Minns,39,78.53,79.0,73.5,82.75,90.0,68.0,0,0,0,0,0,6,6,7,10,6,3
+UBCV,2023,S,COMM,395,,921,Business Communications,Cameron Morrell,29,79.97,80.0,79.0,81.0,88.0,66.0,0,0,0,0,1,0,1,9,14,4,0
+UBCV,2023,S,COMM,395,,971,Business Communications,Cameron Morrell,45,76.5,78.0,74.75,80.0,88.0,61.0,0,0,0,2,3,3,5,16,14,1,0
+UBCV,2023,S,COMM,396,,921,Business Communications II,Cameron Morrell,10,77.2,80.5,76.25,81.0,85.0,55.0,0,0,1,0,0,1,0,2,4,2,0
+UBCV,2023,S,COMM,396,,922,Business Communications II,Marlisse Silver Sweeney,19,78.5,78.5,76.25,82.5,90.0,61.0,0,0,0,1,0,2,1,6,4,3,1
+UBCV,2023,S,COMM,396,,923,Business Communications II,Colin Dodds,19,76.74,77.0,73.0,81.0,86.0,67.0,0,0,0,0,1,3,5,4,3,3,0
+UBCV,2023,S,COMM,396,,924,Business Communications II,Colin Dodds,14,77.36,81.5,69.5,86.25,91.0,54.0,0,1,0,2,0,1,1,1,4,2,2
+UBCV,2023,S,COMM,396,,971,Business Communications II,Holly Munn,19,76.47,78.0,71.0,82.5,91.0,47.0,1,0,0,0,1,3,2,3,5,3,1
+UBCV,2023,S,COMM,396,,972,Business Communications II,Trevor Hargreaves,12,77.58,78.5,75.25,81.0,85.0,66.0,0,0,0,0,1,0,2,3,5,1,0
+UBCV,2023,S,COMM,396,,973,Business Communications II,Holly Munn,16,80.44,80.0,73.0,84.25,95.0,70.0,0,0,0,0,0,2,3,0,7,1,3
+UBCV,2023,S,COMM,491,,921,Strategic Management,Momcilo Deretic,29,81.14,80.0,80.0,82.0,90.0,76.0,0,0,0,0,0,0,0,6,16,6,1
+UBCV,2023,S,COMM,491,,922,Strategic Management,Momcilo Deretic,31,80.48,80.0,78.0,81.0,90.0,76.0,0,0,0,0,0,0,0,9,17,3,2
+UBCV,2023,S,COMM,491,,971,Strategic Management,Adam Pankratz,35,77.82,77.5,76.0,80.0,85.0,71.0,0,0,0,0,0,1,7,12,13,1,0
+UBCV,2023,S,COMM,498,,971,International Business Management,Ilan Boris Vertinsky,21,78.43,77.0,73.0,84.0,92.0,67.0,0,0,0,0,2,3,4,3,5,1,3
+UBCV,2023,S,COMM,549,B,943,Master's Thesis,,6,90.0,90.0,90.0,90.0,90.0,90.0,,,,,,,,,,,

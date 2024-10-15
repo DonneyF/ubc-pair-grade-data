@@ -1,0 +1,44 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCO,2023,W,ECON,101,,001,Principles of Microeconomics,Khan Islam,257,64.8,66.0,56.0,77.0,96.0,0.0,31,27,28,18,24,31,21,22,23,13,11
+UBCO,2023,W,ECON,101,,002,Principles of Microeconomics,James Johnson;Noriko Ozawa,139,63.0,60.5,50.0,77.0,100.0,0.0,18,25,12,11,8,5,8,7,5,5,18
+UBCO,2023,W,ECON,101,,101,Principles of Microeconomics,Khan Islam,160,62.3,62.0,52.0,78.0,96.0,0.0,20,24,15,18,9,10,6,12,13,10,6
+UBCO,2023,W,ECON,102,,001,Principles of Macroeconomics,Tazul Islam;Noriko Ozawa,115,64.0,63.0,58.0,73.8,99.0,0.0,12,6,16,20,10,12,7,0,7,8,8
+UBCO,2023,W,ECON,102,,101,Principles of Macroeconomics,Julien Picault,257,69.2,71.0,63.0,77.0,93.0,0.0,10,13,19,30,22,42,36,30,27,17,5
+UBCO,2023,W,ECON,102,,102,Principles of Macroeconomics,Kenneth Carlaw,132,62.4,63.5,53.8,72.0,96.0,1.0,18,15,14,15,16,13,14,7,6,2,4
+UBCO,2023,W,ECON,204,,001,Intermediate Microeconomic Analysis,Noriko Ozawa,23,61.5,65.0,43.5,81.0,99.0,15.0,6,1,2,0,1,0,3,1,0,1,4
+UBCO,2023,W,ECON,204,,101,Intermediate Microeconomic Analysis,Min Hu,52,61.5,64.0,51.0,74.0,90.0,0.0,8,6,2,7,7,3,2,3,2,5,2
+UBCO,2023,W,ECON,205,,001,Intermediate Macroeconomic Analysis,Kit Pasula,40,69.1,70.0,58.0,83.5,94.0,24.0,2,4,5,3,1,4,3,2,3,6,3
+UBCO,2023,W,ECON,205,,101,Intermediate Macroeconomic Analysis,Kit Pasula,36,68.2,71.0,56.0,81.0,99.0,26.0,3,4,6,3,0,3,1,5,4,2,4
+UBCO,2023,W,ECON,221,,101,Introduction to Strategic Thinking,Noriko Ozawa,24,68.0,72.0,63.0,75.0,92.0,28.0,2,1,1,2,1,3,6,2,2,0,1
+UBCO,2023,W,ECON,225,,001,Data and Statistics for Economics,Rallye Shen,30,70.7,70.5,61.3,80.5,92.0,51.0,0,1,4,6,1,4,2,4,5,2,1
+UBCO,2023,W,ECON,225,,101,Data and Statistics for Economics,Rallye Shen,57,70.6,71.0,62.5,81.0,97.0,2.0,1,5,5,5,6,8,3,6,9,3,4
+UBCO,2023,W,ECON,232,,001,History of Economic Thought,Ross Hickey,58,79.5,81.0,76.5,84.3,93.0,31.0,1,0,0,2,0,2,9,10,18,8,6
+UBCO,2023,W,ECON,295,,001,Managerial Economics,Min Hu,54,65.6,64.0,57.0,76.0,98.0,34.0,4,8,2,9,4,6,4,4,5,2,3
+UBCO,2023,W,ECON,308,,101,Intermediate Microeconomics II,Noriko Ozawa,21,63.7,58.0,54.0,72.5,90.0,43.0,2,4,5,2,0,2,0,0,2,2,1
+UBCO,2023,W,ECON,320,,001,Introduction to Mathematical Economics,Khan Islam,29,72.7,74.0,65.0,83.0,98.0,30.0,1,1,2,3,4,2,3,4,3,2,4
+UBCO,2023,W,ECON,327,,001,Introduction to Empirical Economics,Wei Dai,39,67.9,66.0,59.0,79.0,96.0,18.0,2,2,6,4,6,3,4,2,3,1,4
+UBCO,2023,W,ECON,328,,101,Methods of Empirical Research,Wei Dai,44,70.5,71.5,60.5,80.5,96.0,40.0,1,8,2,2,2,7,5,4,6,3,4
+UBCO,2023,W,ECON,331,,101,World Economy since 1800,Todd Christopher Campbell,31,74.3,77.5,67.0,83.0,93.0,54.0,0,1,2,2,5,3,1,3,8,4,1
+UBCO,2023,W,ECON,339,,101,Economics of Technological Change,Kenneth Carlaw,35,68.9,71.0,65.5,75.0,94.0,0.0,1,1,3,2,4,9,6,3,2,2,1
+UBCO,2023,W,ECON,340,,001,Financial Economics,Khan Islam,39,68.2,67.5,59.3,77.5,90.0,39.0,2,3,5,3,6,2,5,4,4,3,1
+UBCO,2023,W,ECON,345,,001,Money and Banking,Khan Islam,39,66.3,63.0,56.5,77.0,94.0,28.0,3,5,5,7,4,3,2,1,2,2,5
+UBCO,2023,W,ECON,345,,101,Money and Banking,Wei Dai,39,71.6,73.5,64.0,80.5,95.0,25.0,1,1,4,3,5,3,5,6,4,3,3
+UBCO,2023,W,ECON,347,,101,Monetary Economics,Wei Dai,30,73.9,77.5,64.5,85.3,96.0,38.0,3,2,1,1,1,2,3,2,3,6,4
+UBCO,2023,W,ECON,351,,101,Women in the Economy,Julien Picault,39,63.7,67.0,56.0,75.0,93.0,15.0,5,2,6,3,3,3,6,3,3,2,1
+UBCO,2023,W,ECON,352,,101,Public Sector Economics,Ross Hickey,40,82.1,82.0,75.5,89.5,97.0,61.0,0,0,0,1,1,1,7,4,10,5,10
+UBCO,2023,W,ECON,355,,001,International Trade,Andrea Craig,29,75.2,79.0,71.0,87.5,98.0,26.0,3,0,0,1,2,1,4,5,2,2,7
+UBCO,2023,W,ECON,355,,101,International Trade,David MacDonald,34,73.1,74.0,63.0,83.0,95.0,50.0,0,3,1,5,2,3,2,3,5,5,2
+UBCO,2023,W,ECON,356,,001,International Finance,Kit Pasula,33,75.8,76.0,66.0,84.3,99.0,53.0,0,1,2,5,1,4,1,5,5,3,5
+UBCO,2023,W,ECON,360,,001,Labour Economics,David MacDonald,22,66.5,70.0,64.0,80.3,95.0,4.0,2,1,0,1,3,6,1,0,2,2,2
+UBCO,2023,W,ECON,360,,101,Labour Economics,Min Hu,35,72.4,74.5,65.8,82.3,94.0,35.0,1,2,2,2,2,4,4,6,3,6,2
+UBCO,2023,W,ECON,361,,001,Economics of Industrial Relations,James Johnson,15,59.1,62.5,50.8,70.0,98.0,0.0,3,3,0,1,1,4,0,0,1,0,1
+UBCO,2023,W,ECON,363,,001,Health Economics,Min Hu,24,73.0,72.0,67.0,80.5,88.0,56.0,0,0,2,2,3,1,7,0,5,3,0
+UBCO,2023,W,ECON,370,,101,Benefit-Cost Analysis and the Economics of Project Evaluation,Julien Picault,34,60.3,64.0,52.3,71.3,91.0,20.0,7,2,0,6,7,2,1,1,2,2,2
+UBCO,2023,W,ECON,371,,001,Economics of the Environment,M.D. Zabid Iqbal,39,75.0,76.0,72.0,80.0,85.0,57.0,0,0,1,1,1,4,9,10,10,2,0
+UBCO,2023,W,ECON,386,,001,Industrial Organization and Regulation,Julien Picault,31,65.5,66.0,57.5,77.0,95.0,24.0,4,1,4,4,4,2,0,5,5,0,2
+UBCO,2023,W,ECON,391,B,001,Topics in Economics,Julien Picault;Madeleine Ransom,15,83.9,87.0,80.5,88.0,92.0,71.0,0,0,0,0,0,1,1,2,2,7,2
+UBCO,2023,W,ECON,391,Y,101,Topics in Economics,David MacDonald,15,81.1,85.0,78.0,87.0,96.0,61.0,0,0,0,2,1,0,0,1,3,6,2
+UBCO,2023,W,ECON,401,,001,Applied Microeconomic Analysis,Noriko Ozawa,10,84.3,85.0,76.0,88.0,96.0,75.0,0,0,0,0,0,0,1,2,1,3,2
+UBCO,2023,W,ECON,402,,101,Applied Macroeconomic Analysis,Kit Pasula,11,85.8,86.0,84.5,90.0,99.0,67.0,0,0,0,0,1,0,1,0,1,4,4
+UBCO,2023,W,ECON,427,,001,Econometrics,Rallye Shen,14,78.2,82.0,71.0,89.0,97.0,47.0,1,0,0,0,2,2,1,0,2,2,3
+UBCO,2023,W,ECON,495,,001,Honours Seminar,Andrea Craig,10,95.7,98.5,95.5,99.0,100.0,81.0,0,0,0,0,0,0,0,0,1,0,9

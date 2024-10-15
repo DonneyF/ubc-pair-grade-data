@@ -1,0 +1,39 @@
+Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
+UBCV,2023,W,CPEN,211,,101,Computing Systems I,Tor Aamodt,336,74.42,76.0,66.0,84.0,100.0,28.0,14,12,13,19,30,30,32,41,45,32,42
+UBCV,2023,W,CPEN,212,,201,Computing Systems II,Alexandra Fedorova;Mieszko Lis,160,65.57,67.0,57.0,77.0,92.0,12.0,17,9,13,11,16,15,11,13,13,8,3
+UBCV,2023,W,CPEN,221,A,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,133,76.02,77.0,72.0,79.0,93.0,60.0,0,0,0,2,12,17,23,46,21,7,3
+UBCV,2023,W,CPEN,221,B,101,Software Construction I,Sathish Gopalakrishnan;Mohammad Shahrad,128,73.22,74.0,68.0,78.0,91.0,45.0,1,1,0,5,18,26,24,30,13,5,2
+UBCV,2023,W,CPEN,223,,101,Software Design for Engineers I,Farshid Agharebparast,116,70.89,71.5,64.0,78.75,95.0,41.0,4,6,7,9,18,13,19,10,12,11,5
+UBCV,2023,W,CPEN,281,,101,Technical Communication,Hongxing Estella Qi;Michael Schoen,30,68.27,71.5,68.0,76.75,82.0,18.0,4,1,0,0,2,8,5,7,3,0,0
+UBCV,2023,W,CPEN,281,,102,Technical Communication,Hartaj Sanghara,46,76.87,76.5,75.0,78.0,85.0,69.0,0,0,0,0,0,2,12,21,10,1,0
+UBCV,2023,W,CPEN,281,,103,Technical Communication,Hartaj Sanghara,41,78.85,80.0,78.0,82.0,86.0,41.0,1,0,0,0,0,1,5,10,19,5,0
+UBCV,2023,W,CPEN,311,,101,Digital Systems Design,Prashant Nair,115,76.45,77.0,70.0,84.0,97.0,26.0,2,3,1,4,9,11,16,19,18,14,10
+UBCV,2023,W,CPEN,312,,201,Digital Systems and Microcomputers,Jesus Calvino-Fraga,179,75.37,77.0,67.75,89.0,100.0,13.0,20,1,5,4,12,12,24,19,15,17,39
+UBCV,2023,W,CPEN,321,,101,Software Engineering,Julia Rubin,89,80.14,81.0,75.0,85.0,92.0,60.0,0,0,0,1,3,5,15,11,23,27,3
+UBCV,2023,W,CPEN,322,,201,Software Construction II,Ali Mesbah,105,79.16,81.0,75.0,84.0,94.0,42.0,1,2,1,0,1,10,14,19,32,16,9
+UBCV,2023,W,CPEN,331,,101,Operating Systems,Alexandra Fedorova,129,84.52,87.0,81.0,91.0,98.0,9.0,1,0,2,3,1,5,4,10,18,34,46
+UBCV,2023,W,CPEN,333,A,101,Software Design for Engineers II,Farshid Agharebparast,43,71.19,71.0,67.0,75.5,92.0,45.0,2,0,1,2,6,13,8,5,2,1,3
+UBCV,2023,W,CPEN,333,A,201,Software Design for Engineers II,Farshid Agharebparast,30,71.83,73.5,68.25,76.75,85.0,50.0,0,2,1,2,2,6,5,5,5,2,0
+UBCV,2023,W,CPEN,333,B,101,Software Design for Engineers II,Farshid Agharebparast,36,78.22,80.0,76.5,82.25,96.0,45.0,1,0,1,0,1,3,3,8,11,5,3
+UBCV,2023,W,CPEN,333,B,201,Software Design for Engineers II,Farshid Agharebparast,61,73.18,73.0,68.0,81.0,95.0,36.0,2,2,1,6,4,8,12,7,8,4,7
+UBCV,2023,W,CPEN,355,,101,Machine Learning with Engineering Applications,Xiaoxiao Li,64,92.2,93.0,90.0,95.25,99.0,81.0,0,0,0,0,0,0,0,0,3,12,49
+UBCV,2023,W,CPEN,355,,201,Machine Learning with Engineering Applications,Xiaoxiao Li,58,91.44,93.0,88.0,96.0,99.0,77.0,0,0,0,0,0,0,0,2,5,10,40
+UBCV,2023,W,CPEN,400,P,201,Topics in Computer Engineering,Karthik Pattabiraman,33,82.45,83.0,80.0,85.0,95.0,68.0,0,0,0,0,0,1,3,4,11,9,5
+UBCV,2023,W,CPEN,400,Q,202,Topics in Computer Engineering,Olivia di Matteo,36,77.6,80.0,73.0,84.0,90.0,52.0,0,1,1,0,2,3,5,4,11,7,1
+UBCV,2023,W,CPEN,411,,101,Computer Architecture,Prashant Nair,89,82.21,84.0,76.0,90.0,97.0,58.0,0,0,2,1,7,5,6,7,16,20,23
+UBCV,2023,W,CPEN,412,,201,Microcomputer Systems Design,Yair Linn,97,85.59,96.0,76.0,100.0,100.0,20.0,6,5,0,0,2,5,4,5,6,5,55
+UBCV,2023,W,CPEN,431,,201,Design of Distributed Software Applications,Radu Ripeanu,83,80.13,81.0,75.0,86.5,100.0,58.0,0,0,1,4,2,9,6,14,12,21,10
+UBCV,2023,W,CPEN,441,,101,Human Computer Interfaces in Engineering Design,S Sidney Fels,48,76.69,79.0,72.75,83.0,85.0,44.0,1,0,1,2,2,3,6,11,17,5,0
+UBCV,2023,W,CPEN,442,,101,Introduction to Cybersecurity,Simon Oya Diez,76,89.32,89.0,85.0,94.0,100.0,67.0,0,0,0,0,1,0,2,0,11,25,37
+UBCV,2023,W,CPEN,442,,201,Introduction to Cybersecurity,Konstantin Beznosov,26,79.0,80.0,76.5,83.5,96.0,53.0,0,1,0,1,1,2,1,5,10,2,3
+UBCV,2023,W,CPEN,455,,201,Deep Learning,Renjie Liao,105,82.21,86.0,74.0,96.0,100.0,35.0,4,4,5,2,2,5,4,8,12,10,43
+UBCV,2023,W,CPEN,481,,101,Economic Analysis of Engineering Projects,Jeffrey Carmichael,33,70.79,71.0,64.0,78.0,87.0,53.0,0,1,1,6,5,4,6,4,4,2,0
+UBCV,2023,W,CPEN,481,,201,Economic Analysis of Engineering Projects,Jeffrey Carmichael,43,68.09,69.0,64.0,73.5,81.0,50.0,0,2,3,6,7,10,8,6,1,0,0
+UBCV,2023,W,CPEN,491,F,001,Computer Engineering Capstone Design Project,Hamed Ahmadi;Pieter Botman;S Sidney Fels;Cristian Sorin Grecu;Andre Ivanov;Terry Lee;Paul Lusina;John Madden;Panos Nasiopoulos;Joseph Yan,126,84.48,85.0,82.0,87.0,92.0,68.0,0,0,0,0,0,1,3,5,43,65,9
+UBCV,2023,W,CPEN,499,A,101,Undergraduate Thesis,Guy Lemieux;Cyril Leung;Xiaoxiao Li,6,91.83,90.0,90.0,93.75,98.0,88.0,0,0,0,0,0,0,0,0,0,1,5
+UBCV,2023,W,CPEN,502,,101,Architecture for Learning Systems,Sarbjit Sarkaria,53,90.94,92.0,89.0,96.0,99.0,66.0,0,0,0,0,1,1,0,3,2,7,38
+UBCV,2023,W,CPEN,511,,201,Advanced Computer Architecture,Prashant Nair,9,95.89,97.0,95.0,99.0,99.0,91.0,0,0,0,0,0,0,0,0,0,0,9
+UBCV,2023,W,CPEN,514,,109,Quantum Information and Computation,Joseph Salfi,22,87.06,89.5,84.25,92.0,98.0,70.0,0,0,0,0,0,1,1,0,3,4,9
+UBCV,2023,W,CPEN,522,,201,Software Verification and Testing,Ali Mesbah,17,83.59,85.0,80.0,91.0,94.0,65.0,0,0,0,0,1,1,1,1,4,4,5
+UBCV,2023,W,CPEN,534,,201,Trade-offs in Designing Computer Systems,Mohammad Shahrad,13,88.62,90.0,85.0,92.0,95.0,82.0,0,0,0,0,0,0,0,0,3,2,8
+UBCV,2023,W,CPEN,542,,101,Cybersecurity,Konstantin Beznosov,6,79.6,82.0,80.0,83.0,92.0,61.0,,,,,,,,,,,
