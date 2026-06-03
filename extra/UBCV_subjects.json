@@ -330,6 +330,11 @@
         "faculty_school": "Faculty of Commerce and Business Administration"
     },
     {
+        "code": "CAP",
+        "title": "Coordinated Arts Program",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "CAPS",
         "title": "Cellular, Anatomical and Physiological Sciences",
         "faculty_school": "Faculty of Medicine"
@@ -1175,6 +1180,11 @@
         "faculty_school": "School of Journalism, Writing, and Media"
     },
     {
+        "code": "JWST",
+        "title": "Jewish Studies",
+        "faculty_school": "Faculty of Arts"
+    },
+    {
         "code": "KIN",
         "title": "Kinesiology",
         "faculty_school": "School of Kinesiology"
@@ -1383,6 +1393,11 @@
         "code": "NORD",
         "title": "Nordic Studies",
         "faculty_school": "Faculty of Arts"
+    },
+    {
+        "code": "NRES",
+        "title": "Natural Resources",
+        "faculty_school": "Faculty of Forestry"
     },
     {
         "code": "NRSC",

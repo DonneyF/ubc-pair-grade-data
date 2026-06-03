@@ -65,6 +65,11 @@
         "faculty_school": "Faculty of Applied Science"
     },
     {
+        "code": "COMM",
+        "title": "Commerce",
+        "faculty_school": "Faculty of Management"
+    },
+    {
         "code": "COOP",
         "title": "Cooperative Education",
         "faculty_school": "Faculty of Management"
@@ -373,6 +378,11 @@
         "code": "SECH",
         "title": "Social and Economic Change",
         "faculty_school": "Faculty of Management"
+    },
+    {
+        "code": "SECW",
+        "title": "Secwépemc",
+        "faculty_school": "Faculty of Arts and Social Sciences"
     },
     {
         "code": "SOCI",

@@ -6,7 +6,7 @@ Data Source | Last Updated
 --- | ---
 [PAIR Reports](https://webprd01.pair.ubc.ca/reports/welcome.action) | June 2019
 [Tableau Dashboard](https://reports.im.it.ubc.ca/#/site/Learner/views/GradeDistributionReport/GradeDistributionReport?:iid=1) | September 2022
-[Tableau Dashboard v2](https://reports.im.it.ubc.ca/t/Learner/views/GradeDistributionReport/GradeDistributionReport?%3Aembed=y&%3AisGuestRedirectFromVizportal=y) | July 2025
+[Tableau Dashboard v2](https://reports.im.it.ubc.ca/t/Learner/views/GradeDistributionReport/GradeDistributionReport?%3Aembed=y&%3AisGuestRedirectFromVizportal=y) | June 2026
 
 ## Description
 ### PAIR Reports (? - 2019)
