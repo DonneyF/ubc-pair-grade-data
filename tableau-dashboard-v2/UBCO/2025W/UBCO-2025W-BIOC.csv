@@ -1,24 +1,24 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCO,2025,W,BIOC,211,,001,Chemical and Biochemical Analysis,Susan Murch,14,78.9,77.0,67.0,92.75,98,57,6,0,2,0,2,2,1,1,0,0,0
-UBCO,2025,W,BIOC,304,,001,Molecular Biochemistry I,Jessica Josephson,114,82.3,85.0,80.0,88.0,98,33,25,37,9,24,2,0,2,6,0,8,1
-UBCO,2025,W,BIOC,305,,101,Molecular Biochemistry II,Vasyl Pinchuk,79,74.5,77.0,69.5,84.0,94,37,9,8,13,14,9,5,3,2,5,8,3
-UBCO,2025,W,BIOC,308,,001,Pharmacology I,Andis Klegeris,69,69.8,72.0,61.0,77.0,93,37,4,5,8,7,11,5,9,6,3,7,4
-UBCO,2025,W,BIOC,309,,101,Pharmacology II,Sanjoy Ghosh,56,70.2,70.0,64.0,77.0,92,43,3,4,4,6,4,3,5,11,3,12,1
-UBCO,2025,W,BIOC,310,,001,Plant Chemistry,Susan Murch,20,87.9,88.0,80.75,100.0,100,66,10,2,1,4,1,0,0,2,0,0,0
-UBCO,2025,W,BIOC,393,,L01,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,14,89.3,89.0,87.5,92.75,97,74,6,6,0,1,1,0,0,0,0,0,0
-UBCO,2025,W,BIOC,393,,L02,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,9,88.6,88.0,83.0,93.0,97,80,4,2,0,3,0,0,0,0,0,0,0
-UBCO,2025,W,BIOC,393,,L03,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,13,91.2,93.0,89.0,94.0,100,70,9,3,0,0,0,0,0,0,0,1,0
-UBCO,2025,W,BIOC,393,,L04,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,13,93.7,96.0,94.0,99.0,100,64,11,1,0,0,0,0,0,1,0,0,0
-UBCO,2025,W,BIOC,393,,L05,Biochemistry Laboratory,Brendan D'Souza; Richard Plunkett,15,93.1,92.0,91.0,95.0,100,86,12,3,0,0,0,0,0,0,0,0,0
-UBCO,2025,W,BIOC,393,,L06,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,14,94.6,96.0,92.25,98.0,100,80,13,0,0,1,0,0,0,0,0,0,0
-UBCO,2025,W,BIOC,402,,001,Proteins: Structure and Function,Xia Li,55,81.6,82.0,79.0,87.0,96,60,8,9,8,20,5,0,1,3,0,1,0
-UBCO,2025,W,BIOC,403,,101,Enzymology,Kirsten Wolthers,22,72.1,73.0,58.25,89.25,98,34,6,2,0,0,4,2,1,1,2,2,2
-UBCO,2025,W,BIOC,405,,001,Lipids and Biomembranes,Sanjoy Ghosh,22,75.1,77.5,68.5,82.75,90,55,1,3,3,6,0,1,3,1,0,4,0
-UBCO,2025,W,BIOC,407,,101,The Biochemical Basis of Disease,Andis Klegeris,41,71.1,70.0,64.0,78.0,91,51,1,5,6,4,3,3,3,4,3,9,0
-UBCO,2025,W,BIOC,410,,001,Nucleic Acids - Structure and Function,Xia Li,53,88.0,90.0,84.0,94.0,99,64,27,10,2,8,4,0,0,1,0,1,0
-UBCO,2025,W,BIOC,412,,001,Methods in Metabolomics,Susan Murch,21,92.8,94.0,90.0,97.0,100,78,16,1,1,3,0,0,0,0,0,0,0
-UBCO,2025,W,BIOC,494,,L02,Biotechnology Laboratory I: DNA Manipulation,Brendan D'Souza,17,84.2,86.0,80.0,88.0,98,66,3,8,2,2,1,0,0,1,0,0,0
-UBCO,2025,W,BIOC,494,,L03,Biotechnology Laboratory I: DNA Manipulation,Brendan D'Souza,12,85.0,89.0,82.25,91.0,96,62,6,2,0,2,0,0,1,0,0,1,0
-UBCO,2025,W,BIOC,495,,L01,Biotechnology Laboratory II: Gene Expression,Soheil Mahmoud,13,93.5,94.0,93.0,96.0,97,82,12,0,0,1,0,0,0,0,0,0,0
-UBCO,2025,W,BIOC,495,,L02,Biotechnology Laboratory II: Gene Expression,Soheil Mahmoud,9,91.6,92.0,89.0,94.0,96,86,6,3,0,0,0,0,0,0,0,0,0
-UBCO,2025,W,BIOC,495,,L03,Biotechnology Laboratory II: Gene Expression,Soheil Mahmoud,15,95.0,95.0,94.0,96.0,99,90,15,0,0,0,0,0,0,0,0,0,0
+UBCO,2025,W,BIOC,211,,001,Chemical and Biochemical Analysis,Susan Murch,14,78.9,77.0,67.0,92.75,98,57,0,0,2,1,1,0,2,2,0,0,6
+UBCO,2025,W,BIOC,304,,001,Molecular Biochemistry I,Jessica Josephson,114,82.3,85.0,80.0,88.0,98,33,1,0,0,2,6,8,2,9,24,37,25
+UBCO,2025,W,BIOC,305,,101,Molecular Biochemistry II,Vasyl Pinchuk,79,74.5,77.0,69.5,84.0,94,37,3,5,5,3,2,8,9,13,14,8,9
+UBCO,2025,W,BIOC,308,,001,Pharmacology I,Andis Klegeris,69,69.8,72.0,61.0,77.0,93,37,4,3,5,9,6,7,11,8,7,5,4
+UBCO,2025,W,BIOC,309,,101,Pharmacology II,Sanjoy Ghosh,56,70.2,70.0,64.0,77.0,92,43,1,3,3,5,11,12,4,4,6,4,3
+UBCO,2025,W,BIOC,310,,001,Plant Chemistry,Susan Murch,20,87.9,88.0,80.75,100.0,100,66,0,0,0,0,2,0,1,1,4,2,10
+UBCO,2025,W,BIOC,393,,L01,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,14,89.3,89.0,87.5,92.75,97,74,0,0,0,0,0,0,1,0,1,6,6
+UBCO,2025,W,BIOC,393,,L02,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,9,88.6,88.0,83.0,93.0,97,80,0,0,0,0,0,0,0,0,3,2,4
+UBCO,2025,W,BIOC,393,,L03,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,13,91.2,93.0,89.0,94.0,100,70,0,0,0,0,0,1,0,0,0,3,9
+UBCO,2025,W,BIOC,393,,L04,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,13,93.7,96.0,94.0,99.0,100,64,0,0,0,0,1,0,0,0,0,1,11
+UBCO,2025,W,BIOC,393,,L05,Biochemistry Laboratory,Brendan D'Souza; Richard Plunkett,15,93.1,92.0,91.0,95.0,100,86,0,0,0,0,0,0,0,0,0,3,12
+UBCO,2025,W,BIOC,393,,L06,Biochemistry Laboratory,Richard Plunkett; Brendan D'Souza,14,94.6,96.0,92.25,98.0,100,80,0,0,0,0,0,0,0,0,1,0,13
+UBCO,2025,W,BIOC,402,,001,Proteins: Structure and Function,Xia Li,55,81.6,82.0,79.0,87.0,96,60,0,0,0,1,3,1,5,8,20,9,8
+UBCO,2025,W,BIOC,403,,101,Enzymology,Kirsten Wolthers,22,72.1,73.0,58.25,89.25,98,34,2,2,2,1,1,2,4,0,0,2,6
+UBCO,2025,W,BIOC,405,,001,Lipids and Biomembranes,Sanjoy Ghosh,22,75.1,77.5,68.5,82.75,90,55,0,0,1,3,1,4,0,3,6,3,1
+UBCO,2025,W,BIOC,407,,101,The Biochemical Basis of Disease,Andis Klegeris,41,71.1,70.0,64.0,78.0,91,51,0,3,3,3,4,9,3,6,4,5,1
+UBCO,2025,W,BIOC,410,,001,Nucleic Acids - Structure and Function,Xia Li,53,88.0,90.0,84.0,94.0,99,64,0,0,0,0,1,1,4,2,8,10,27
+UBCO,2025,W,BIOC,412,,001,Methods in Metabolomics,Susan Murch,21,92.8,94.0,90.0,97.0,100,78,0,0,0,0,0,0,0,1,3,1,16
+UBCO,2025,W,BIOC,494,,L02,Biotechnology Laboratory I: DNA Manipulation,Brendan D'Souza,17,84.2,86.0,80.0,88.0,98,66,0,0,0,0,1,0,1,2,2,8,3
+UBCO,2025,W,BIOC,494,,L03,Biotechnology Laboratory I: DNA Manipulation,Brendan D'Souza,12,85.0,89.0,82.25,91.0,96,62,0,0,0,1,0,1,0,0,2,2,6
+UBCO,2025,W,BIOC,495,,L01,Biotechnology Laboratory II: Gene Expression,Soheil Mahmoud,13,93.5,94.0,93.0,96.0,97,82,0,0,0,0,0,0,0,0,1,0,12
+UBCO,2025,W,BIOC,495,,L02,Biotechnology Laboratory II: Gene Expression,Soheil Mahmoud,9,91.6,92.0,89.0,94.0,96,86,0,0,0,0,0,0,0,0,0,3,6
+UBCO,2025,W,BIOC,495,,L03,Biotechnology Laboratory II: Gene Expression,Soheil Mahmoud,15,95.0,95.0,94.0,96.0,99,90,0,0,0,0,0,0,0,0,0,0,15

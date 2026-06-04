@@ -1,10 +1,10 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2025,W,INFO,100,,001,(De)coding Information and Why it Matters,Cameron Pierson,67,82.3,87.0,84.0,90.0,92,18,18,30,0,11,0,1,2,1,0,0,4
-UBCV,2025,W,INFO,200,,001,Foundations of Informatics,Kim Correa,64,86.0,86.5,82.0,92.0,95,70,23,17,5,12,5,0,0,0,0,2,0
-UBCV,2025,W,INFO,250,,002,"Networks, Crowds, and Communities",Jamie Hoholuk,69,80.2,82.0,79.0,87.0,95,13,6,18,12,21,6,0,0,1,0,3,2
-UBCV,2025,W,INFO,300,,002,Information and Data Design,Karin Schmidlin,36,82.5,84.0,79.0,89.0,95,39,3,14,7,9,2,0,0,0,0,0,1
-UBCV,2025,W,INFO,301,,001,Digital Cultural Collections,Elizabeth Shaffer,18,88.5,88.0,88.0,89.0,91,87,4,14,0,0,0,0,0,0,0,0,0
-UBCV,2025,W,INFO,302,,002,Sociotechnical Perspectives for Information Systems Design,Alexander Ross,24,82.4,83.0,82.0,87.0,90,58,2,8,1,11,0,1,0,1,0,0,0
-UBCV,2025,W,INFO,419,,002,Information Visualization,Richard Arias Hernandez,43,85.0,86.0,82.5,90.0,94,62,14,12,3,10,2,0,1,0,0,1,0
-UBCV,2025,W,INFO,441,,001,Media Design for Contemporary Childhood,Eric Meyers,15,83.1,85.0,83.0,87.0,88,67,0,8,0,5,1,0,0,1,0,0,0
-UBCV,2025,W,INFO,456,,001,Information Policy and Society,Lisa Nathan,41,84.3,85.0,83.0,86.0,89,75,0,23,1,16,1,0,0,0,0,0,0
+UBCV,2025,W,INFO,100,,001,(De)coding Information and Why it Matters,Cameron Pierson,67,82.3,87.0,84.0,90.0,92,18,4,0,1,2,1,0,0,0,11,30,18
+UBCV,2025,W,INFO,200,,001,Foundations of Informatics,Kim Correa,64,86.0,86.5,82.0,92.0,95,70,0,0,0,0,0,2,5,5,12,17,23
+UBCV,2025,W,INFO,250,,002,"Networks, Crowds, and Communities",Jamie Hoholuk,69,80.2,82.0,79.0,87.0,95,13,2,0,0,0,1,3,6,12,21,18,6
+UBCV,2025,W,INFO,300,,002,Information and Data Design,Karin Schmidlin,36,82.5,84.0,79.0,89.0,95,39,1,0,0,0,0,0,2,7,9,14,3
+UBCV,2025,W,INFO,301,,001,Digital Cultural Collections,Elizabeth Shaffer,18,88.5,88.0,88.0,89.0,91,87,0,0,0,0,0,0,0,0,0,14,4
+UBCV,2025,W,INFO,302,,002,Sociotechnical Perspectives for Information Systems Design,Alexander Ross,24,82.4,83.0,82.0,87.0,90,58,0,0,1,0,1,0,0,1,11,8,2
+UBCV,2025,W,INFO,419,,002,Information Visualization,Richard Arias Hernandez,43,85.0,86.0,82.5,90.0,94,62,0,0,0,1,0,1,2,3,10,12,14
+UBCV,2025,W,INFO,441,,001,Media Design for Contemporary Childhood,Eric Meyers,15,83.1,85.0,83.0,87.0,88,67,0,0,0,0,1,0,1,0,5,8,0
+UBCV,2025,W,INFO,456,,001,Information Policy and Society,Lisa Nathan,41,84.3,85.0,83.0,86.0,89,75,0,0,0,0,0,0,1,1,16,23,0

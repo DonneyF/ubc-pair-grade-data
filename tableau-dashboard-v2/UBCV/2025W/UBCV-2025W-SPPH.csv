@@ -1,14 +1,14 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2025,W,SPPH,300,,WB2,Working in Global Health,Khumbo Kalua,77,93.9,94.0,93.0,95.0,97,87,75,2,0,0,0,0,0,0,0,0,0
-UBCV,2025,W,SPPH,301,,001,Understanding the Sociocultural Determinants of the Health of Populations,Martin Guhn,46,91.9,93.0,90.0,94.0,97,78,38,6,1,1,0,0,0,0,0,0,0
-UBCV,2025,W,SPPH,301,,002,Understanding the Sociocultural Determinants of the Health of Populations,Emma Cameron,18,89.1,90.0,86.25,92.0,96,77,11,5,1,1,0,0,0,0,0,0,0
-UBCV,2025,W,SPPH,302,,WB1,Topics in Health Informatics for Health/Life Sciences Students,Adam Kahnamelli,82,86.2,87.0,85.0,90.0,91,37,22,44,1,13,0,0,1,0,0,0,1
-UBCV,2025,W,SPPH,303,,WB2,Environmental Impacts on Human Health,Eric Coker,58,98.1,99.0,97.25,100.0,100,87,57,1,0,0,0,0,0,0,0,0,0
-UBCV,2025,W,SPPH,304,,WB1,Canadian Health Care Policy,Steve Morgan,52,80.2,81.5,75.0,87.25,95,48,12,11,6,9,6,1,2,2,1,1,1
-UBCV,2025,W,SPPH,381,A,002,PUBLC HLTH ETHCS,Itai Bavli,42,75.8,77.0,71.25,82.0,89,48,0,4,7,13,7,1,2,2,0,5,1
-UBCV,2025,W,SPPH,381,E,WB2,WORK & HEALTH,Robert Macpherson,60,84.8,85.0,84.0,87.0,90,71,3,36,2,17,1,0,0,0,0,1,0
-UBCV,2025,W,SPPH,401,,001,Basic Epidemiology for Infection Control,Elisa Lloyd-Smith; Monika Naus,20,89.2,90.5,87.75,92.0,96,75,13,4,0,2,1,0,0,0,0,0,0
-UBCV,2025,W,SPPH,404,,001,Indigenous Health: Historical Impacts and Contemporary Approaches,Melanie Rivers; Drew St. Laurent,47,86.0,86.0,83.5,89.0,96,67,8,25,0,13,0,0,0,1,0,0,0
-UBCV,2025,W,SPPH,410,,WB2,Improving Public Health,David Birnbaum,65,90.0,92.0,88.0,94.0,96,76,33,25,3,4,0,0,0,0,0,0,0
-UBCV,2025,W,SPPH,481,C,002,PRISON HEALTH,Amanda Slaunwhite,86,87.0,87.5,84.25,91.0,96,16,35,29,1,18,2,0,0,0,0,0,1
-UBCV,2025,W,SPPH,481,D,002,GLB HLTH POL&SYS,Veena Sriram,42,92.4,93.0,91.0,95.0,99,75,34,4,0,3,1,0,0,0,0,0,0
+UBCV,2025,W,SPPH,300,,WB2,Working in Global Health,Khumbo Kalua,77,93.9,94.0,93.0,95.0,97,87,0,0,0,0,0,0,0,0,0,2,75
+UBCV,2025,W,SPPH,301,,001,Understanding the Sociocultural Determinants of the Health of Populations,Martin Guhn,46,91.9,93.0,90.0,94.0,97,78,0,0,0,0,0,0,0,1,1,6,38
+UBCV,2025,W,SPPH,301,,002,Understanding the Sociocultural Determinants of the Health of Populations,Emma Cameron,18,89.1,90.0,86.25,92.0,96,77,0,0,0,0,0,0,0,1,1,5,11
+UBCV,2025,W,SPPH,302,,WB1,Topics in Health Informatics for Health/Life Sciences Students,Adam Kahnamelli,82,86.2,87.0,85.0,90.0,91,37,1,0,0,1,0,0,0,1,13,44,22
+UBCV,2025,W,SPPH,303,,WB2,Environmental Impacts on Human Health,Eric Coker,58,98.1,99.0,97.25,100.0,100,87,0,0,0,0,0,0,0,0,0,1,57
+UBCV,2025,W,SPPH,304,,WB1,Canadian Health Care Policy,Steve Morgan,52,80.2,81.5,75.0,87.25,95,48,1,1,1,2,2,1,6,6,9,11,12
+UBCV,2025,W,SPPH,381,A,002,PUBLC HLTH ETHCS,Itai Bavli,42,75.8,77.0,71.25,82.0,89,48,1,0,1,2,2,5,7,7,13,4,0
+UBCV,2025,W,SPPH,381,E,WB2,WORK & HEALTH,Robert Macpherson,60,84.8,85.0,84.0,87.0,90,71,0,0,0,0,0,1,1,2,17,36,3
+UBCV,2025,W,SPPH,401,,001,Basic Epidemiology for Infection Control,Elisa Lloyd-Smith; Monika Naus,20,89.2,90.5,87.75,92.0,96,75,0,0,0,0,0,0,1,0,2,4,13
+UBCV,2025,W,SPPH,404,,001,Indigenous Health: Historical Impacts and Contemporary Approaches,Melanie Rivers; Drew St. Laurent,47,86.0,86.0,83.5,89.0,96,67,0,0,0,0,1,0,0,0,13,25,8
+UBCV,2025,W,SPPH,410,,WB2,Improving Public Health,David Birnbaum,65,90.0,92.0,88.0,94.0,96,76,0,0,0,0,0,0,0,3,4,25,33
+UBCV,2025,W,SPPH,481,C,002,PRISON HEALTH,Amanda Slaunwhite,86,87.0,87.5,84.25,91.0,96,16,1,0,0,0,0,0,2,1,18,29,35
+UBCV,2025,W,SPPH,481,D,002,GLB HLTH POL&SYS,Veena Sriram,42,92.4,93.0,91.0,95.0,99,75,0,0,0,0,0,0,1,0,3,4,34

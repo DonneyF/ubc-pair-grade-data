@@ -1,15 +1,15 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2025,W,ILS,100,,101,Indigenous Views of Landscapes,Garry Merkel,27,91.3,92.0,90.0,94.5,100,80,21,2,0,4,0,0,0,0,0,0,0
-UBCV,2025,W,ILS,101,,101,Introduction to Natural Resources Stewardship,Christopher Derrickson,30,82.7,85.0,78.5,89.0,92,56,5,11,3,6,1,1,1,0,0,2,0
-UBCV,2025,W,ILS,102,,101,"Community Engagement: Principles, Practices and Protocols",Carlos Ormond; Garry Merkel,24,85.5,88.0,84.0,94.25,97,32,10,7,2,2,2,0,0,0,0,0,1
-UBCV,2025,W,ILS,103,,201,Decolonization and Natural Resources,Dana-Lyn Mackenzie,18,79.9,81.0,72.5,89.0,96,51,4,3,2,4,0,0,1,1,1,2,0
-UBCV,2025,W,ILS,104,,101,Introduction to Governance,William Nikolakis,22,84.5,85.5,80.25,90.75,97,65,7,4,1,6,2,0,0,1,0,1,0
-UBCV,2025,W,ILS,105,,201,Ways of Knowing,Shandin Pete,26,97.2,99.0,97.25,100.0,100,74,24,1,0,0,1,0,0,0,0,0,0
-UBCV,2025,W,ILS,106,,201,Holistic Resource Stewardship,Christopher Derrickson,29,85.3,86.0,83.0,91.0,94,68,11,7,1,6,2,0,0,0,0,2,0
-UBCV,2025,W,ILS,107,,201,Community: Capacity Development,Dana-Lyn Mackenzie,23,89.2,92.0,85.5,96.0,98,67,17,0,1,2,1,0,0,1,0,1,0
-UBCV,2025,W,ILS,108,,201,Plant Identification and Dendrology,Jessica Stolar,30,91.1,94.0,88.0,95.75,98,71,19,7,1,2,0,0,0,0,0,1,0
-UBCV,2025,W,ILS,200,,101,Field Measurements,Carlos Ormond; Carrie Vanderhoop; Garry Merkel; Anna Tobiasz,9,79.7,84.0,80.0,92.0,96,20,4,0,1,3,0,0,0,0,0,0,1
-UBCV,2025,W,ILS,201,,101,Ecology 1 - Foundations,Suzanne Hopkinson,6,76.5,79.0,75.0,82.25,88,56,0,1,1,2,1,1,0,0,0,0,0
-UBCV,2025,W,ILS,205,,201,Business Management,Tara Atleo,7,83.1,80.0,79.0,90.0,95,69,2,1,2,1,0,0,0,0,0,1,0
-UBCV,2025,W,ILS,301,,101,Indigenous Law,William Nikolakis,20,84.3,83.0,80.75,89.0,95,67,5,4,0,9,1,0,0,1,0,0,0
-UBCV,2025,W,ILS,302,,101,Forest and Land Use Planning on Indigenous Lands,Christopher Derrickson,7,72.4,74.0,62.0,85.0,91,48,1,1,0,1,1,0,0,0,1,1,1
+UBCV,2025,W,ILS,100,,101,Indigenous Views of Landscapes,Garry Merkel,27,91.3,92.0,90.0,94.5,100,80,0,0,0,0,0,0,0,0,4,2,21
+UBCV,2025,W,ILS,101,,101,Introduction to Natural Resources Stewardship,Christopher Derrickson,30,82.7,85.0,78.5,89.0,92,56,0,0,1,1,0,2,1,3,6,11,5
+UBCV,2025,W,ILS,102,,101,"Community Engagement: Principles, Practices and Protocols",Carlos Ormond; Garry Merkel,24,85.5,88.0,84.0,94.25,97,32,1,0,0,0,0,0,2,2,2,7,10
+UBCV,2025,W,ILS,103,,201,Decolonization and Natural Resources,Dana-Lyn Mackenzie,18,79.9,81.0,72.5,89.0,96,51,0,1,0,1,1,2,0,2,4,3,4
+UBCV,2025,W,ILS,104,,101,Introduction to Governance,William Nikolakis,22,84.5,85.5,80.25,90.75,97,65,0,0,0,0,1,1,2,1,6,4,7
+UBCV,2025,W,ILS,105,,201,Ways of Knowing,Shandin Pete,26,97.2,99.0,97.25,100.0,100,74,0,0,0,0,0,0,1,0,0,1,24
+UBCV,2025,W,ILS,106,,201,Holistic Resource Stewardship,Christopher Derrickson,29,85.3,86.0,83.0,91.0,94,68,0,0,0,0,0,2,2,1,6,7,11
+UBCV,2025,W,ILS,107,,201,Community: Capacity Development,Dana-Lyn Mackenzie,23,89.2,92.0,85.5,96.0,98,67,0,0,0,0,1,1,1,1,2,0,17
+UBCV,2025,W,ILS,108,,201,Plant Identification and Dendrology,Jessica Stolar,30,91.1,94.0,88.0,95.75,98,71,0,0,0,0,0,1,0,1,2,7,19
+UBCV,2025,W,ILS,200,,101,Field Measurements,Carlos Ormond; Carrie Vanderhoop; Garry Merkel; Anna Tobiasz,9,79.7,84.0,80.0,92.0,96,20,1,0,0,0,0,0,0,1,3,0,4
+UBCV,2025,W,ILS,201,,101,Ecology 1 - Foundations,Suzanne Hopkinson,6,76.5,79.0,75.0,82.25,88,56,0,0,1,0,0,0,1,1,2,1,0
+UBCV,2025,W,ILS,205,,201,Business Management,Tara Atleo,7,83.1,80.0,79.0,90.0,95,69,0,0,0,0,0,1,0,2,1,1,2
+UBCV,2025,W,ILS,301,,101,Indigenous Law,William Nikolakis,20,84.3,83.0,80.75,89.0,95,67,0,0,0,0,1,0,1,0,9,4,5
+UBCV,2025,W,ILS,302,,101,Forest and Land Use Planning on Indigenous Lands,Christopher Derrickson,7,72.4,74.0,62.0,85.0,91,48,1,1,0,0,0,1,1,0,1,1,1

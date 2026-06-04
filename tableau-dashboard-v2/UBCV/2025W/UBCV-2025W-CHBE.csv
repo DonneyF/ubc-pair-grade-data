@@ -1,51 +1,51 @@
 Campus,Year,Session,Subject,Course,Detail,Section,Title,Professor,Reported,Avg,Median,Percentile (25),Percentile (75),High,Low,<50,50-54,55-59,60-63,64-67,68-71,72-75,76-79,80-84,85-89,90-100
-UBCV,2025,W,CHBE,201,,101,Integrated Technical Communication,Emily Cranston; Alexander Jameson,44,79.5,81.0,77.75,83.25,87,58,0,8,6,21,4,1,1,0,0,3,0
-UBCV,2025,W,CHBE,201,,102,Integrated Technical Communication,Emily Cranston; Alexander Jameson,45,84.2,85.0,81.0,89.0,93,61,8,18,5,10,3,0,1,0,0,0,0
-UBCV,2025,W,CHBE,201,,103,Integrated Technical Communication,Emily Cranston; Alexander Jameson,43,80.0,81.0,76.0,85.0,94,63,4,9,10,10,4,0,1,2,0,3,0
-UBCV,2025,W,CHBE,220,,101,Founding Principles in Chemical and Biological Engineering I,Jonathan Verrett,136,76.4,77.0,69.0,85.0,97,49,20,19,23,21,11,1,3,8,0,19,11
-UBCV,2025,W,CHBE,221,,201,Founding Principles in Chemical and Biological Engineering II,Jonathan Verrett,132,77.9,78.0,72.0,84.0,98,49,12,19,24,27,21,0,3,14,0,9,3
-UBCV,2025,W,CHBE,230,,201,Computational Methods,James Feng,171,73.2,75.0,66.0,83.0,100,5,20,17,19,24,19,10,7,20,6,18,11
-UBCV,2025,W,CHBE,241,,101,Material and Energy Balances,Seyyed Alireza Bagherzadeh Hosseini,243,75.1,76.0,69.5,83.0,98,27,20,31,32,46,34,1,7,21,8,28,15
-UBCV,2025,W,CHBE,244,,201,Chemical and Biological Engineering Thermodynamics I,Savvas Hatzikiriakos,238,75.1,75.5,64.0,86.75,100,17,49,21,18,31,20,10,29,23,6,21,10
-UBCV,2025,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,136,74.7,74.0,66.0,81.0,100,56,17,7,15,20,16,6,11,21,0,23,0
-UBCV,2025,W,CHBE,263,,101,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,65,86.1,87.0,81.0,90.0,94,75,23,19,8,14,1,0,0,0,0,0,0
-UBCV,2025,W,CHBE,263,,102,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,65,89.6,90.0,87.0,93.0,99,79,38,16,3,8,0,0,0,0,0,0,0
-UBCV,2025,W,CHBE,264,,201,Chemical and Biological Engineering Laboratory,Pranav Chintalapati,130,86.1,86.5,84.0,89.0,95,67,20,69,9,31,0,0,0,1,0,0,0
-UBCV,2025,W,CHBE,344,,101,Introduction to Unit Operations,David Chester Upham,57,77.3,77.0,72.0,83.0,94,53,6,5,11,11,11,0,1,2,1,9,0
-UBCV,2025,W,CHBE,345,,201,Unit Operations,Heather Trajano,95,71.7,72.0,65.0,76.0,98,48,6,5,15,4,18,7,8,13,3,15,1
-UBCV,2025,W,CHBE,346,,101,Chemical and Biological Engineering Thermodynamics II,Peter Englezos,114,75.0,77.5,65.0,85.0,99,34,15,17,10,18,7,7,9,15,4,9,3
-UBCV,2025,W,CHBE,352,,101,Transport Phenomena II,Mark Martinez,117,74.3,75.0,62.0,86.0,100,38,16,15,13,12,16,11,12,2,7,10,3
-UBCV,2025,W,CHBE,355,,201,Kinetics and Reactor Design,Vikramaditya Yadav,105,75.0,76.0,71.0,79.0,94,50,3,6,28,17,21,0,4,9,2,15,0
-UBCV,2025,W,CHBE,356,,201,Process Dynamics and Control,Yankai Cao,107,79.6,80.0,72.5,87.0,99,57,18,16,12,23,16,2,5,5,0,10,0
-UBCV,2025,W,CHBE,362,,101,Process Engineering Laboratory,Madjid Mohseni,113,90.3,92.0,89.0,94.0,97,60,77,23,2,7,0,0,2,2,0,0,0
-UBCV,2025,W,CHBE,364,,101,Environmental Engineering Laboratory,Pranav Chintalapati,34,88.9,89.0,88.0,91.75,93,77,16,16,1,1,0,0,0,0,0,0,0
-UBCV,2025,W,CHBE,365,,201,Biological Engineering  Laboratory,Celestine Hong,27,84.0,87.0,82.0,89.0,96,64,6,12,0,3,3,0,0,1,0,2,0
-UBCV,2025,W,CHBE,366,,201,Chemical Engineering Laboratory,Pranav Chintalapati,67,83.8,85.0,80.0,88.0,94,52,14,22,6,16,7,0,0,0,1,1,0
-UBCV,2025,W,CHBE,370,,101,Fundamentals of Sustainable Engineering,Eric Lees,142,80.4,81.0,71.0,90.0,100,53,39,24,18,10,13,5,6,8,1,18,0
-UBCV,2025,W,CHBE,373,,101,Water and Wastewater Technology and Engineering,Madjid Mohseni,56,78.6,79.5,74.0,85.0,95,50,4,11,11,13,7,1,1,2,1,5,0
-UBCV,2025,W,CHBE,376,,201,Computer Flowsheeting and Unit Operation Design,Jonathan Verrett,105,85.6,88.0,82.0,92.0,98,33,41,24,8,20,4,0,2,1,0,3,2
-UBCV,2025,W,CHBE,381,,201,Biological Engineering and Bio-Manufacturing I,James Piret,36,73.7,72.0,67.0,81.25,92,57,3,4,2,6,7,1,6,2,0,5,0
-UBCV,2025,W,CHBE,402,,201,Biomass Fractionation Technology,Heather Trajano,13,86.0,95.0,90.0,98.0,99,0,10,0,1,1,0,0,0,0,0,0,1
-UBCV,2025,W,CHBE,410,,101,Systems Biology and Metabolic Engineering,Vikramaditya Yadav,19,89.8,95.0,94.0,95.5,97,0,18,0,0,0,0,0,0,0,0,0,1
-UBCV,2025,W,CHBE,411,,101,Process Development: Bench to Full Scale,Sergio Berretta,24,81.2,81.0,77.0,85.0,91,71,1,6,7,9,0,0,0,0,0,1,0
-UBCV,2025,W,CHBE,419,,201,Industrial Biotechnology Laboratory,Celestine Hong,14,81.7,84.5,83.0,86.0,93,60,2,5,0,4,1,0,2,0,0,0,0
-UBCV,2025,W,CHBE,453,,001,Biological Process and Product Design,Peter Englezos; Anthony Lau; Jonathan Verrett; Sergio Berretta; Xiaotao Bi; Susan Baldwin,40,85.9,88.0,86.0,88.0,90,66,2,29,2,5,1,0,0,1,0,0,0
-UBCV,2025,W,CHBE,454,,001,Chemical Process and Product Design,Xiaotao Bi; Susan Baldwin; Peter Englezos; Jonathan Verrett; Anthony Lau; Sergio Berretta,61,84.9,86.0,83.0,89.0,93,71,14,24,1,16,4,0,0,0,0,2,0
-UBCV,2025,W,CHBE,456,,101,Heterogenous Catalysis and Advanced Reactor Design,David Chester Upham,99,77.9,78.0,71.5,86.0,99,53,16,13,10,18,17,0,8,9,1,7,0
-UBCV,2025,W,CHBE,459,,201,Chemical and Biological Engineering Economics,Johan Foster,175,80.9,82.0,77.0,85.0,97,52,23,29,26,60,18,1,2,5,1,10,0
-UBCV,2025,W,CHBE,464,,001,Chemical and Biological Engineering Laboratory,Alexander Jameson,101,87.6,88.0,85.0,90.0,96,75,29,48,3,20,1,0,0,0,0,0,0
-UBCV,2025,W,CHBE,471,,101,Chemical Process Engineering,Pranav Chintalapati,58,79.2,79.0,71.0,89.0,100,40,13,8,7,7,6,1,2,5,1,7,1
-UBCV,2025,W,CHBE,472,,201,Technologies for Human and Environmental Health,Jane Hill,9,83.0,84.0,82.0,85.0,88,74,0,4,0,4,1,0,0,0,0,0,0
-UBCV,2025,W,CHBE,473,,201,Environmental Engineering and Sustainability Leadership,Naoko Ellis,29,83.6,84.0,80.0,89.0,93,65,7,7,3,8,2,0,0,1,0,1,0
-UBCV,2025,W,CHBE,474,,101,Process Control Engineering,Seyyed Alireza Bagherzadeh Hosseini,21,87.8,92.0,86.0,95.0,100,50,13,3,1,1,2,0,0,0,1,0,0
-UBCV,2025,W,CHBE,476,,101,Advanced Process Engineering and Simulation,Simcha Srebnik,49,86.1,90.0,83.0,93.0,97,17,25,11,3,6,0,0,2,1,0,0,1
-UBCV,2025,W,CHBE,477,,201,Fuel Cell and Electrochemical Engineering,Elod Lajos Gyenge,64,73.6,73.0,66.0,81.0,98,48,6,4,5,9,13,5,4,9,0,8,1
-UBCV,2025,W,CHBE,478,,201,Polymer Science and Processing.,Johan Foster; Orlando Rojas,21,76.6,79.0,74.0,90.0,98,0,7,2,4,1,3,1,0,1,0,0,2
-UBCV,2025,W,CHBE,481,,101,Biological Engineering and Bio-Manufacturing II,Charles Haynes,43,82.8,84.0,80.0,86.0,97,65,7,14,4,13,2,0,0,2,0,1,0
-UBCV,2025,W,CHBE,482,,201,"Energy Systems Modelling, Simulation and Optimization",Seyyed Alireza Bagherzadeh Hosseini; Peter Englezos,23,83.3,85.0,80.0,88.0,96,61,4,8,1,5,2,0,1,0,0,2,0
-UBCV,2025,W,CHBE,483,,101,Energy Engineering for Climate Change and Sustainability,Elod Lajos Gyenge,93,76.9,76.0,68.0,85.0,100,53,15,10,10,15,10,2,10,10,1,10,0
-UBCV,2025,W,CHBE,485,,101,Air Pollution Prevention and Air Quality Engineering,Anthony Lau,87,83.9,85.0,80.0,90.0,100,60,23,24,7,19,8,0,2,2,0,2,0
-UBCV,2025,W,CHBE,486,,201,Waste Mitigation and Processing for Resource Recovery,Anthony Lau,90,83.8,85.0,82.0,88.0,94,0,20,32,6,26,4,0,0,0,1,0,1
-UBCV,2025,W,CHBE,488,,201,"Carbon Capture, Conversion and Sequestration Technologies",Naoko Ellis; Sergio Berretta,27,81.6,82.0,79.0,86.5,90,60,2,7,4,10,1,0,1,0,0,2,0
-UBCV,2025,W,CHBE,495,,101,Thesis Proposal-Biotechnology Topic,Elod Lajos Gyenge,8,88.4,89.5,86.5,91.25,93,80,4,3,0,1,0,0,0,0,0,0,0
-UBCV,2025,W,CHBE,496,,201,Thesis Biotechnology Topic,Elod Lajos Gyenge,8,90.8,90.5,88.0,94.25,95,85,4,4,0,0,0,0,0,0,0,0,0
+UBCV,2025,W,CHBE,201,,101,Integrated Technical Communication,Emily Cranston; Alexander Jameson,44,79.5,81.0,77.75,83.25,87,58,0,0,1,1,0,3,4,6,21,8,0
+UBCV,2025,W,CHBE,201,,102,Integrated Technical Communication,Emily Cranston; Alexander Jameson,45,84.2,85.0,81.0,89.0,93,61,0,0,0,1,0,0,3,5,10,18,8
+UBCV,2025,W,CHBE,201,,103,Integrated Technical Communication,Emily Cranston; Alexander Jameson,43,80.0,81.0,76.0,85.0,94,63,0,0,0,1,2,3,4,10,10,9,4
+UBCV,2025,W,CHBE,220,,101,Founding Principles in Chemical and Biological Engineering I,Jonathan Verrett,136,76.4,77.0,69.0,85.0,97,49,11,0,1,3,8,19,11,23,21,19,20
+UBCV,2025,W,CHBE,221,,201,Founding Principles in Chemical and Biological Engineering II,Jonathan Verrett,132,77.9,78.0,72.0,84.0,98,49,3,0,0,3,14,9,21,24,27,19,12
+UBCV,2025,W,CHBE,230,,201,Computational Methods,James Feng,171,73.2,75.0,66.0,83.0,100,5,11,6,10,7,20,18,19,19,24,17,20
+UBCV,2025,W,CHBE,241,,101,Material and Energy Balances,Seyyed Alireza Bagherzadeh Hosseini,243,75.1,76.0,69.5,83.0,98,27,15,8,1,7,21,28,34,32,46,31,20
+UBCV,2025,W,CHBE,244,,201,Chemical and Biological Engineering Thermodynamics I,Savvas Hatzikiriakos,238,75.1,75.5,64.0,86.75,100,17,10,6,10,29,23,21,20,18,31,21,49
+UBCV,2025,W,CHBE,251,,201,Transport Phenomena I,Mark Martinez,136,74.7,74.0,66.0,81.0,100,56,0,0,6,11,21,23,16,15,20,7,17
+UBCV,2025,W,CHBE,263,,101,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,65,86.1,87.0,81.0,90.0,94,75,0,0,0,0,0,0,1,8,14,19,23
+UBCV,2025,W,CHBE,263,,102,Introduction to Chemical and Biological Engineering Laboratory Practice,Pranav Chintalapati,65,89.6,90.0,87.0,93.0,99,79,0,0,0,0,0,0,0,3,8,16,38
+UBCV,2025,W,CHBE,264,,201,Chemical and Biological Engineering Laboratory,Pranav Chintalapati,130,86.1,86.5,84.0,89.0,95,67,0,0,0,0,1,0,0,9,31,69,20
+UBCV,2025,W,CHBE,344,,101,Introduction to Unit Operations,David Chester Upham,57,77.3,77.0,72.0,83.0,94,53,0,1,0,1,2,9,11,11,11,5,6
+UBCV,2025,W,CHBE,345,,201,Unit Operations,Heather Trajano,95,71.7,72.0,65.0,76.0,98,48,1,3,7,8,13,15,18,15,4,5,6
+UBCV,2025,W,CHBE,346,,101,Chemical and Biological Engineering Thermodynamics II,Peter Englezos,114,75.0,77.5,65.0,85.0,99,34,3,4,7,9,15,9,7,10,18,17,15
+UBCV,2025,W,CHBE,352,,101,Transport Phenomena II,Mark Martinez,117,74.3,75.0,62.0,86.0,100,38,3,7,11,12,2,10,16,13,12,15,16
+UBCV,2025,W,CHBE,355,,201,Kinetics and Reactor Design,Vikramaditya Yadav,105,75.0,76.0,71.0,79.0,94,50,0,2,0,4,9,15,21,28,17,6,3
+UBCV,2025,W,CHBE,356,,201,Process Dynamics and Control,Yankai Cao,107,79.6,80.0,72.5,87.0,99,57,0,0,2,5,5,10,16,12,23,16,18
+UBCV,2025,W,CHBE,362,,101,Process Engineering Laboratory,Madjid Mohseni,113,90.3,92.0,89.0,94.0,97,60,0,0,0,2,2,0,0,2,7,23,77
+UBCV,2025,W,CHBE,364,,101,Environmental Engineering Laboratory,Pranav Chintalapati,34,88.9,89.0,88.0,91.75,93,77,0,0,0,0,0,0,0,1,1,16,16
+UBCV,2025,W,CHBE,365,,201,Biological Engineering  Laboratory,Celestine Hong,27,84.0,87.0,82.0,89.0,96,64,0,0,0,0,1,2,3,0,3,12,6
+UBCV,2025,W,CHBE,366,,201,Chemical Engineering Laboratory,Pranav Chintalapati,67,83.8,85.0,80.0,88.0,94,52,0,1,0,0,0,1,7,6,16,22,14
+UBCV,2025,W,CHBE,370,,101,Fundamentals of Sustainable Engineering,Eric Lees,142,80.4,81.0,71.0,90.0,100,53,0,1,5,6,8,18,13,18,10,24,39
+UBCV,2025,W,CHBE,373,,101,Water and Wastewater Technology and Engineering,Madjid Mohseni,56,78.6,79.5,74.0,85.0,95,50,0,1,1,1,2,5,7,11,13,11,4
+UBCV,2025,W,CHBE,376,,201,Computer Flowsheeting and Unit Operation Design,Jonathan Verrett,105,85.6,88.0,82.0,92.0,98,33,2,0,0,2,1,3,4,8,20,24,41
+UBCV,2025,W,CHBE,381,,201,Biological Engineering and Bio-Manufacturing I,James Piret,36,73.7,72.0,67.0,81.25,92,57,0,0,1,6,2,5,7,2,6,4,3
+UBCV,2025,W,CHBE,402,,201,Biomass Fractionation Technology,Heather Trajano,13,86.0,95.0,90.0,98.0,99,0,1,0,0,0,0,0,0,1,1,0,10
+UBCV,2025,W,CHBE,410,,101,Systems Biology and Metabolic Engineering,Vikramaditya Yadav,19,89.8,95.0,94.0,95.5,97,0,1,0,0,0,0,0,0,0,0,0,18
+UBCV,2025,W,CHBE,411,,101,Process Development: Bench to Full Scale,Sergio Berretta,24,81.2,81.0,77.0,85.0,91,71,0,0,0,0,0,1,0,7,9,6,1
+UBCV,2025,W,CHBE,419,,201,Industrial Biotechnology Laboratory,Celestine Hong,14,81.7,84.5,83.0,86.0,93,60,0,0,0,2,0,0,1,0,4,5,2
+UBCV,2025,W,CHBE,453,,001,Biological Process and Product Design,Peter Englezos; Anthony Lau; Jonathan Verrett; Sergio Berretta; Xiaotao Bi; Susan Baldwin,40,85.9,88.0,86.0,88.0,90,66,0,0,0,0,1,0,1,2,5,29,2
+UBCV,2025,W,CHBE,454,,001,Chemical Process and Product Design,Xiaotao Bi; Susan Baldwin; Peter Englezos; Jonathan Verrett; Anthony Lau; Sergio Berretta,61,84.9,86.0,83.0,89.0,93,71,0,0,0,0,0,2,4,1,16,24,14
+UBCV,2025,W,CHBE,456,,101,Heterogenous Catalysis and Advanced Reactor Design,David Chester Upham,99,77.9,78.0,71.5,86.0,99,53,0,1,0,8,9,7,17,10,18,13,16
+UBCV,2025,W,CHBE,459,,201,Chemical and Biological Engineering Economics,Johan Foster,175,80.9,82.0,77.0,85.0,97,52,0,1,1,2,5,10,18,26,60,29,23
+UBCV,2025,W,CHBE,464,,001,Chemical and Biological Engineering Laboratory,Alexander Jameson,101,87.6,88.0,85.0,90.0,96,75,0,0,0,0,0,0,1,3,20,48,29
+UBCV,2025,W,CHBE,471,,101,Chemical Process Engineering,Pranav Chintalapati,58,79.2,79.0,71.0,89.0,100,40,1,1,1,2,5,7,6,7,7,8,13
+UBCV,2025,W,CHBE,472,,201,Technologies for Human and Environmental Health,Jane Hill,9,83.0,84.0,82.0,85.0,88,74,0,0,0,0,0,0,1,0,4,4,0
+UBCV,2025,W,CHBE,473,,201,Environmental Engineering and Sustainability Leadership,Naoko Ellis,29,83.6,84.0,80.0,89.0,93,65,0,0,0,0,1,1,2,3,8,7,7
+UBCV,2025,W,CHBE,474,,101,Process Control Engineering,Seyyed Alireza Bagherzadeh Hosseini,21,87.8,92.0,86.0,95.0,100,50,0,1,0,0,0,0,2,1,1,3,13
+UBCV,2025,W,CHBE,476,,101,Advanced Process Engineering and Simulation,Simcha Srebnik,49,86.1,90.0,83.0,93.0,97,17,1,0,0,2,1,0,0,3,6,11,25
+UBCV,2025,W,CHBE,477,,201,Fuel Cell and Electrochemical Engineering,Elod Lajos Gyenge,64,73.6,73.0,66.0,81.0,98,48,1,0,5,4,9,8,13,5,9,4,6
+UBCV,2025,W,CHBE,478,,201,Polymer Science and Processing.,Johan Foster; Orlando Rojas,21,76.6,79.0,74.0,90.0,98,0,2,0,1,0,1,0,3,4,1,2,7
+UBCV,2025,W,CHBE,481,,101,Biological Engineering and Bio-Manufacturing II,Charles Haynes,43,82.8,84.0,80.0,86.0,97,65,0,0,0,0,2,1,2,4,13,14,7
+UBCV,2025,W,CHBE,482,,201,"Energy Systems Modelling, Simulation and Optimization",Seyyed Alireza Bagherzadeh Hosseini; Peter Englezos,23,83.3,85.0,80.0,88.0,96,61,0,0,0,1,0,2,2,1,5,8,4
+UBCV,2025,W,CHBE,483,,101,Energy Engineering for Climate Change and Sustainability,Elod Lajos Gyenge,93,76.9,76.0,68.0,85.0,100,53,0,1,2,10,10,10,10,10,15,10,15
+UBCV,2025,W,CHBE,485,,101,Air Pollution Prevention and Air Quality Engineering,Anthony Lau,87,83.9,85.0,80.0,90.0,100,60,0,0,0,2,2,2,8,7,19,24,23
+UBCV,2025,W,CHBE,486,,201,Waste Mitigation and Processing for Resource Recovery,Anthony Lau,90,83.8,85.0,82.0,88.0,94,0,1,1,0,0,0,0,4,6,26,32,20
+UBCV,2025,W,CHBE,488,,201,"Carbon Capture, Conversion and Sequestration Technologies",Naoko Ellis; Sergio Berretta,27,81.6,82.0,79.0,86.5,90,60,0,0,0,1,0,2,1,4,10,7,2
+UBCV,2025,W,CHBE,495,,101,Thesis Proposal-Biotechnology Topic,Elod Lajos Gyenge,8,88.4,89.5,86.5,91.25,93,80,0,0,0,0,0,0,0,0,1,3,4
+UBCV,2025,W,CHBE,496,,201,Thesis Biotechnology Topic,Elod Lajos Gyenge,8,90.8,90.5,88.0,94.25,95,85,0,0,0,0,0,0,0,0,0,4,4
